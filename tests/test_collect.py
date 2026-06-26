@@ -1,6 +1,8 @@
+import shutil
+import subprocess
+import sys
 from pathlib import Path
 from types import SimpleNamespace
-import sys
 
 import pytest
 
@@ -31,6 +33,27 @@ def test_collect_fixture_writes_normalized_releases(tmp_path: Path):
     )
 
 
+def test_direct_cli_fixture_invocation_writes_output():
+    run_id = "pytest-direct-collect-fixture"
+    run_dir = Path("_pipeline") / run_id
+    output = run_dir / "01-collected" / "releases.json"
+    shutil.rmtree(run_dir, ignore_errors=True)
+
+    try:
+        result = subprocess.run(
+            [sys.executable, "_scripts/collect.py", "--fixture", "--run-id", run_id],
+            cwd=Path.cwd(),
+            capture_output=True,
+            text=True,
+            check=False,
+        )
+
+        assert result.returncode == 0, result.stderr
+        assert output.exists()
+    finally:
+        shutil.rmtree(run_dir, ignore_errors=True)
+
+
 def test_fetch_github_releases_normalizes_api_items(monkeypatch):
     calls = {}
 
@@ -57,7 +80,7 @@ def test_fetch_github_releases_normalizes_api_items(monkeypatch):
 
     releases = fetch_github_releases(
         {"name": "tool", "display_name": "Tool", "repo": "acme/tool"},
-        limit=120,
+        limit=100,
     )
 
     assert calls["url"] == "https://api.github.com/repos/acme/tool/releases"
@@ -77,7 +100,32 @@ def test_fetch_github_releases_normalizes_api_items(monkeypatch):
     ]
 
 
+def test_fetch_github_releases_rejects_limit_over_first_page(monkeypatch):
+    def fake_get(*args, **kwargs):
+        raise AssertionError("GitHub request should not be made for an invalid limit")
+
+    monkeypatch.setattr(collect.httpx, "get", fake_get)
+
+    with pytest.raises(ValueError, match="limit.*100"):
+        fetch_github_releases(
+            {"name": "tool", "display_name": "Tool", "repo": "acme/tool"},
+            limit=101,
+        )
+
+
 def test_fetch_rss_releases_normalizes_feed_entries(monkeypatch):
+    calls = {}
+
+    class Response:
+        content = b"<rss>release feed</rss>"
+
+        def raise_for_status(self):
+            calls["raised"] = True
+
+    def fake_get(url, timeout):
+        calls.update({"url": url, "timeout": timeout})
+        return Response()
+
     feed = SimpleNamespace(
         bozo=False,
         status=200,
@@ -91,13 +139,25 @@ def test_fetch_rss_releases_normalizes_feed_entries(monkeypatch):
             )
         ],
     )
-    monkeypatch.setattr(collect.feedparser, "parse", lambda url: feed)
+
+    def fake_parse(content):
+        calls["parsed_content"] = content
+        return feed
+
+    monkeypatch.setattr(collect.httpx, "get", fake_get)
+    monkeypatch.setattr(collect.feedparser, "parse", fake_parse)
 
     releases = fetch_rss_releases(
         {"name": "blog", "display_name": "Blog", "url": "https://example.com/feed.xml"},
         limit=10,
     )
 
+    assert calls == {
+        "url": "https://example.com/feed.xml",
+        "timeout": 30.0,
+        "raised": True,
+        "parsed_content": b"<rss>release feed</rss>",
+    }
     assert releases == [
         {
             "product": "blog",
@@ -113,11 +173,18 @@ def test_fetch_rss_releases_normalizes_feed_entries(monkeypatch):
 
 
 def test_fetch_rss_releases_raises_for_bozo_feed(monkeypatch):
+    class Response:
+        content = b"<rss>broken"
+
+        def raise_for_status(self):
+            pass
+
     feed = SimpleNamespace(
         bozo=True,
         bozo_exception=ValueError("broken xml"),
         entries=[],
     )
+    monkeypatch.setattr(collect.httpx, "get", lambda url, timeout: Response())
     monkeypatch.setattr(collect.feedparser, "parse", lambda url: feed)
 
     with pytest.raises(ValueError, match="broken xml"):
@@ -128,7 +195,14 @@ def test_fetch_rss_releases_raises_for_bozo_feed(monkeypatch):
 
 
 def test_fetch_rss_releases_raises_for_http_error_status(monkeypatch):
+    class Response:
+        content = b"<rss></rss>"
+
+        def raise_for_status(self):
+            pass
+
     feed = SimpleNamespace(bozo=False, status=500, entries=[])
+    monkeypatch.setattr(collect.httpx, "get", lambda url, timeout: Response())
     monkeypatch.setattr(collect.feedparser, "parse", lambda url: feed)
 
     with pytest.raises(ValueError, match="500"):

@@ -1,11 +1,16 @@
 from __future__ import annotations
 
 import argparse
+import sys
 from pathlib import Path
 from typing import Any
 
 import feedparser
 import httpx
+
+ROOT = Path(__file__).resolve().parents[1]
+if str(ROOT) not in sys.path:
+    sys.path.insert(0, str(ROOT))
 
 from _scripts.common import PipelinePaths, parse_date, read_json, read_yaml, write_json
 
@@ -24,6 +29,9 @@ def collect_fixture(fixture_path: Path, output_path: Path) -> dict[str, Any]:
 
 
 def fetch_github_releases(product: dict[str, Any], limit: int) -> list[dict[str, Any]]:
+    if limit > 100:
+        raise ValueError("github_releases limit must be <= 100 for MVP")
+
     url = f"https://api.github.com/repos/{product['repo']}/releases"
     response = httpx.get(
         url,
@@ -51,7 +59,9 @@ def fetch_github_releases(product: dict[str, Any], limit: int) -> list[dict[str,
 
 
 def fetch_rss_releases(product: dict[str, Any], limit: int) -> list[dict[str, Any]]:
-    feed = feedparser.parse(product["url"])
+    response = httpx.get(product["url"], timeout=30.0)
+    response.raise_for_status()
+    feed = feedparser.parse(response.content)
     if getattr(feed, "bozo", False):
         message = f"RSS parse failed for {product['name']}"
         bozo_exception = getattr(feed, "bozo_exception", None)
