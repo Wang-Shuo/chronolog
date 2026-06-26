@@ -25,7 +25,12 @@ def collect_fixture(fixture_path: Path, output_path: Path) -> dict[str, Any]:
 
 def fetch_github_releases(product: dict[str, Any], limit: int) -> list[dict[str, Any]]:
     url = f"https://api.github.com/repos/{product['repo']}/releases"
-    response = httpx.get(url, timeout=30.0, headers={"Accept": "application/vnd.github+json"})
+    response = httpx.get(
+        url,
+        timeout=30.0,
+        headers={"Accept": "application/vnd.github+json"},
+        params={"per_page": min(limit, 100)},
+    )
     response.raise_for_status()
     releases = []
     for item in response.json()[:limit]:
@@ -47,6 +52,17 @@ def fetch_github_releases(product: dict[str, Any], limit: int) -> list[dict[str,
 
 def fetch_rss_releases(product: dict[str, Any], limit: int) -> list[dict[str, Any]]:
     feed = feedparser.parse(product["url"])
+    if getattr(feed, "bozo", False):
+        message = f"RSS parse failed for {product['name']}"
+        bozo_exception = getattr(feed, "bozo_exception", None)
+        if bozo_exception is not None:
+            message = f"{message}: {bozo_exception}"
+        raise ValueError(message)
+
+    status = getattr(feed, "status", None)
+    if status is not None and status >= 400:
+        raise ValueError(f"RSS fetch failed for {product['name']}: HTTP {status}")
+
     releases = []
     for entry in feed.entries[:limit]:
         date_value = getattr(entry, "published", None) or getattr(entry, "updated", None)
@@ -65,15 +81,34 @@ def fetch_rss_releases(product: dict[str, Any], limit: int) -> list[dict[str, An
     return releases
 
 
-def collect_live(sources_path: Path, output_path: Path, limit: int) -> dict[str, Any]:
+def collect_live(
+    sources_path: Path,
+    output_path: Path,
+    limit: int,
+    backfill: str | None = None,
+) -> dict[str, Any]:
     releases: list[dict[str, Any]] = []
     errors: list[dict[str, str]] = []
-    for product in load_sources(sources_path):
+    products = load_sources(sources_path)
+    if backfill and backfill != "all":
+        products = [product for product in products if product["name"] == backfill]
+        if not products:
+            payload = {
+                "source": "live",
+                "releases": [],
+                "errors": [{"product": backfill, "error": f"unknown product: {backfill}"}],
+            }
+            write_json(output_path, payload)
+            return payload
+
+    for product in products:
         try:
             if product["feed_type"] == "github_releases":
                 releases.extend(fetch_github_releases(product, limit))
             elif product["feed_type"] == "blog_rss":
                 releases.extend(fetch_rss_releases(product, limit))
+            else:
+                raise ValueError(f"unsupported feed_type: {product['feed_type']}")
         except Exception as exc:
             errors.append({"product": product["name"], "error": str(exc)})
     payload = {
@@ -90,13 +125,14 @@ def main() -> None:
     parser.add_argument("--run-id", default="demo")
     parser.add_argument("--fixture", action="store_true")
     parser.add_argument("--backfill", nargs="?", const="all")
-    parser.add_argument("--limit", type=int, default=30)
+    parser.add_argument("--limit", type=int)
     args = parser.parse_args()
     paths = PipelinePaths(args.run_id)
     if args.fixture:
         collect_fixture(Path("tests/fixtures/releases.json"), paths.collected)
     else:
-        collect_live(Path("_scripts/sources.yaml"), paths.collected, args.limit)
+        limit = args.limit if args.limit is not None else 100 if args.backfill else 30
+        collect_live(Path("_scripts/sources.yaml"), paths.collected, limit, backfill=args.backfill)
 
 
 if __name__ == "__main__":
