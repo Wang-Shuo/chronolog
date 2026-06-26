@@ -121,8 +121,16 @@ def test_fetch_github_releases_normalizes_api_items(monkeypatch):
                 }
             ]
 
-    def fake_get(url, timeout, headers, params):
-        calls.update({"url": url, "timeout": timeout, "headers": headers, "params": params})
+    def fake_get(url, timeout, headers, params, follow_redirects):
+        calls.update(
+            {
+                "url": url,
+                "timeout": timeout,
+                "headers": headers,
+                "params": params,
+                "follow_redirects": follow_redirects,
+            }
+        )
         return Response()
 
     monkeypatch.setattr(collect.httpx, "get", fake_get)
@@ -134,6 +142,7 @@ def test_fetch_github_releases_normalizes_api_items(monkeypatch):
 
     assert calls["url"] == "https://api.github.com/repos/acme/tool/releases"
     assert calls["params"] == {"per_page": 100}
+    assert calls["follow_redirects"] is True
     assert calls["raised"] is True
     assert releases == [
         {
@@ -171,8 +180,8 @@ def test_fetch_rss_releases_normalizes_feed_entries(monkeypatch):
         def raise_for_status(self):
             calls["raised"] = True
 
-    def fake_get(url, timeout):
-        calls.update({"url": url, "timeout": timeout})
+    def fake_get(url, timeout, follow_redirects):
+        calls.update({"url": url, "timeout": timeout, "follow_redirects": follow_redirects})
         return Response()
 
     feed = SimpleNamespace(
@@ -204,6 +213,7 @@ def test_fetch_rss_releases_normalizes_feed_entries(monkeypatch):
     assert calls == {
         "url": "https://example.com/feed.xml",
         "timeout": 30.0,
+        "follow_redirects": True,
         "raised": True,
         "parsed_content": b"<rss>release feed</rss>",
     }
@@ -233,7 +243,9 @@ def test_fetch_rss_releases_raises_for_bozo_feed(monkeypatch):
         bozo_exception=ValueError("broken xml"),
         entries=[],
     )
-    monkeypatch.setattr(collect.httpx, "get", lambda url, timeout: Response())
+    monkeypatch.setattr(
+        collect.httpx, "get", lambda url, timeout, follow_redirects: Response()
+    )
     monkeypatch.setattr(collect.feedparser, "parse", lambda url: feed)
 
     with pytest.raises(ValueError, match="broken xml"):
@@ -251,10 +263,36 @@ def test_fetch_rss_releases_raises_for_http_error_status(monkeypatch):
             pass
 
     feed = SimpleNamespace(bozo=False, status=500, entries=[])
-    monkeypatch.setattr(collect.httpx, "get", lambda url, timeout: Response())
+    monkeypatch.setattr(
+        collect.httpx, "get", lambda url, timeout, follow_redirects: Response()
+    )
     monkeypatch.setattr(collect.feedparser, "parse", lambda url: feed)
 
     with pytest.raises(ValueError, match="500"):
+        fetch_rss_releases(
+            {"name": "blog", "display_name": "Blog", "url": "https://example.com/feed.xml"},
+            limit=10,
+        )
+
+
+def test_fetch_rss_releases_raises_for_missing_entry_date(monkeypatch):
+    class Response:
+        content = b"<rss></rss>"
+
+        def raise_for_status(self):
+            pass
+
+    feed = SimpleNamespace(
+        bozo=False,
+        status=200,
+        entries=[SimpleNamespace(id="entry-1", title="No date release")],
+    )
+    monkeypatch.setattr(
+        collect.httpx, "get", lambda url, timeout, follow_redirects: Response()
+    )
+    monkeypatch.setattr(collect.feedparser, "parse", lambda content: feed)
+
+    with pytest.raises(ValueError, match="blog.*date"):
         fetch_rss_releases(
             {"name": "blog", "display_name": "Blog", "url": "https://example.com/feed.xml"},
             limit=10,
@@ -369,6 +407,56 @@ products:
     assert called_products == ["aider"]
     assert [release["product"] for release in payload["releases"]] == ["aider"]
     assert payload["errors"] == []
+
+
+def test_collect_live_backfill_matches_name_and_display_name_case_insensitively(
+    tmp_path: Path, monkeypatch
+):
+    sources = tmp_path / "sources.yaml"
+    sources.write_text(
+        """
+products:
+  - name: cursor
+    display_name: Cursor
+    feed_type: github_releases
+    repo: acme/cursor
+  - name: openhands
+    display_name: OpenHands
+    feed_type: github_releases
+    repo: acme/openhands
+""",
+        encoding="utf-8",
+    )
+    called_products = []
+
+    def fake_github(product, limit):
+        called_products.append(product["name"])
+        return [
+            {
+                "product": product["name"],
+                "product_name": product["display_name"],
+                "date": "2026-01-01",
+                "title": product["display_name"],
+                "body": "",
+                "source_url": "https://example.com",
+                "source_type": "github_releases",
+            }
+        ]
+
+    monkeypatch.setattr(collect, "fetch_github_releases", fake_github)
+
+    cursor_payload = collect_live(
+        sources, tmp_path / "cursor-releases.json", limit=5, backfill="Cursor"
+    )
+    openhands_payload = collect_live(
+        sources, tmp_path / "openhands-releases.json", limit=5, backfill="OpenHands"
+    )
+
+    assert called_products == ["cursor", "openhands"]
+    assert [release["product"] for release in cursor_payload["releases"]] == ["cursor"]
+    assert [release["product"] for release in openhands_payload["releases"]] == ["openhands"]
+    assert cursor_payload["errors"] == []
+    assert openhands_payload["errors"] == []
 
 
 def test_collect_live_unknown_backfill_product_records_error(tmp_path: Path):

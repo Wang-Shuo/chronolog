@@ -45,6 +45,7 @@ def fetch_github_releases(product: dict[str, Any], limit: int) -> list[dict[str,
         timeout=30.0,
         headers={"Accept": "application/vnd.github+json"},
         params={"per_page": min(limit, 100)},
+        follow_redirects=True,
     )
     response.raise_for_status()
     releases = []
@@ -66,7 +67,7 @@ def fetch_github_releases(product: dict[str, Any], limit: int) -> list[dict[str,
 
 
 def fetch_rss_releases(product: dict[str, Any], limit: int) -> list[dict[str, Any]]:
-    response = httpx.get(product["url"], timeout=30.0)
+    response = httpx.get(product["url"], timeout=30.0, follow_redirects=True)
     response.raise_for_status()
     feed = feedparser.parse(response.content)
     if getattr(feed, "bozo", False):
@@ -83,6 +84,8 @@ def fetch_rss_releases(product: dict[str, Any], limit: int) -> list[dict[str, An
     releases = []
     for entry in feed.entries[:limit]:
         date_value = getattr(entry, "published", None) or getattr(entry, "updated", None)
+        if not date_value:
+            raise ValueError(f"RSS entry for {product['name']} is missing published/updated date")
         releases.append(
             {
                 "product": product["name"],
@@ -108,7 +111,13 @@ def collect_live(
     errors: list[dict[str, str]] = []
     products = load_sources(sources_path)
     if backfill and backfill != "all":
-        products = [product for product in products if product["name"] == backfill]
+        backfill_key = backfill.casefold()
+        products = [
+            product
+            for product in products
+            if product["name"].casefold() == backfill_key
+            or product["display_name"].casefold() == backfill_key
+        ]
         if not products:
             payload = {
                 "source": "live",
