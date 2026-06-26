@@ -20,4 +20,4 @@ def test_project_configs_and_fixture_are_present():
         theme["slug"] for theme in themes["themes"]
     }
     assert len(fixture["releases"]) >= 10
-    assert fixture["releases"][0]["product"]
+    assert all(release.get("product") for release in fixture["releases"])
