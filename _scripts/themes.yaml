@@ -1,0 +1,31 @@
+themes:
+  - slug: agent-mode
+    display_name: Agent Mode
+    aliases: [agent, agents, agentic, autonomous-agent, shell-command]
+    category: paradigm
+    status: official
+  - slug: context-window
+    display_name: Context Window
+    aliases: [context, long-context, context-length, context-expansion, tokens]
+    category: capability
+    status: official
+  - slug: pricing-model
+    display_name: Pricing Model
+    aliases: [pricing, billing, subscription, usage-based, plan]
+    category: business
+    status: official
+  - slug: model-support
+    display_name: Model Support
+    aliases: [model, models, claude, gpt, gemini, llm]
+    category: capability
+    status: official
+  - slug: editor-experience
+    display_name: Editor Experience
+    aliases: [editor, autocomplete, completion, ide, tab]
+    category: workflow
+    status: official
+  - slug: collaboration
+    display_name: Collaboration
+    aliases: [team, teams, collaboration, sharing, multiplayer]
+    category: workflow
+    status: official

@@ -1,0 +1,56 @@
+products:
+  - name: cursor
+    display_name: Cursor
+    feed_type: github_releases
+    repo: getcursor/cursor
+    backfill: full
+    themes: [agent-mode, context-window, model-support, editor-experience]
+    track_silence: true
+    silence_window: month
+    silence_periods: 2
+    silence_baseline_factor: 0.5
+    language: en
+  - name: aider
+    display_name: Aider
+    feed_type: github_releases
+    repo: Aider-AI/aider
+    backfill: full
+    themes: [agent-mode, model-support, editor-experience]
+    track_silence: true
+    silence_window: month
+    silence_periods: 2
+    silence_baseline_factor: 0.5
+    language: en
+  - name: continue
+    display_name: Continue
+    feed_type: github_releases
+    repo: continuedev/continue
+    backfill: full
+    themes: [model-support, editor-experience, context-window]
+    track_silence: true
+    silence_window: month
+    silence_periods: 2
+    silence_baseline_factor: 0.5
+    language: en
+  - name: tabby
+    display_name: Tabby
+    feed_type: github_releases
+    repo: TabbyML/tabby
+    backfill: full
+    themes: [editor-experience, model-support]
+    track_silence: true
+    silence_window: month
+    silence_periods: 2
+    silence_baseline_factor: 0.5
+    language: en
+  - name: openhands
+    display_name: OpenHands
+    feed_type: github_releases
+    repo: All-Hands-AI/OpenHands
+    backfill: full
+    themes: [agent-mode, model-support]
+    track_silence: true
+    silence_window: month
+    silence_periods: 2
+    silence_baseline_factor: 0.5
+    language: en
