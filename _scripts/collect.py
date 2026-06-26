@@ -28,6 +28,13 @@ def collect_fixture(fixture_path: Path, output_path: Path) -> dict[str, Any]:
     return payload
 
 
+def positive_int(value: str) -> int:
+    parsed = int(value)
+    if parsed <= 0:
+        raise argparse.ArgumentTypeError("value must be a positive integer")
+    return parsed
+
+
 def fetch_github_releases(product: dict[str, Any], limit: int) -> list[dict[str, Any]]:
     if limit > 100:
         raise ValueError("github_releases limit must be <= 100 for MVP")
@@ -135,14 +142,14 @@ def main() -> None:
     parser.add_argument("--run-id", default="demo")
     parser.add_argument("--fixture", action="store_true")
     parser.add_argument("--backfill", nargs="?", const="all")
-    parser.add_argument("--limit", type=int)
+    parser.add_argument("--limit", type=positive_int)
     args = parser.parse_args()
     paths = PipelinePaths(args.run_id)
     if args.fixture:
-        collect_fixture(Path("tests/fixtures/releases.json"), paths.collected)
+        collect_fixture(ROOT / "tests/fixtures/releases.json", paths.collected)
     else:
         limit = args.limit if args.limit is not None else 100 if args.backfill else 30
-        collect_live(Path("_scripts/sources.yaml"), paths.collected, limit, backfill=args.backfill)
+        collect_live(ROOT / "_scripts/sources.yaml", paths.collected, limit, backfill=args.backfill)
 
 
 if __name__ == "__main__":

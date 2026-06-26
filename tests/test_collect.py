@@ -1,3 +1,4 @@
+import argparse
 import shutil
 import subprocess
 import sys
@@ -14,6 +15,7 @@ from _scripts.collect import (
     fetch_github_releases,
     fetch_rss_releases,
     load_sources,
+    positive_int,
 )
 
 
@@ -53,6 +55,52 @@ def test_direct_cli_fixture_invocation_writes_output():
         assert output.exists()
     finally:
         shutil.rmtree(run_dir, ignore_errors=True)
+
+
+def test_absolute_cli_fixture_invocation_from_other_cwd_writes_repo_output(tmp_path: Path):
+    run_id = f"pytest-absolute-collect-fixture-{uuid4().hex}"
+    repo_root = Path.cwd()
+    run_dir = repo_root / "_pipeline" / run_id
+    output = run_dir / "01-collected" / "releases.json"
+    shutil.rmtree(run_dir, ignore_errors=True)
+
+    try:
+        result = subprocess.run(
+            [
+                sys.executable,
+                str(repo_root / "_scripts" / "collect.py"),
+                "--fixture",
+                "--run-id",
+                run_id,
+            ],
+            cwd=tmp_path,
+            capture_output=True,
+            text=True,
+            check=False,
+        )
+
+        assert result.returncode == 0, result.stderr
+        assert output.exists()
+    finally:
+        shutil.rmtree(run_dir, ignore_errors=True)
+
+
+def test_positive_int_accepts_positive_numbers():
+    assert positive_int("7") == 7
+
+
+def test_positive_int_rejects_zero_and_negative_numbers():
+    with pytest.raises(argparse.ArgumentTypeError, match="positive"):
+        positive_int("0")
+    with pytest.raises(argparse.ArgumentTypeError, match="positive"):
+        positive_int("-1")
+
+
+def test_main_rejects_non_positive_limit(monkeypatch):
+    monkeypatch.setattr(sys, "argv", ["collect.py", "--limit", "0"])
+
+    with pytest.raises(SystemExit):
+        collect.main()
 
 
 def test_fetch_github_releases_normalizes_api_items(monkeypatch):
@@ -346,7 +394,7 @@ def test_main_uses_backfill_default_limit(monkeypatch):
     captured = {}
 
     def fake_collect_live(sources_path, output_path, limit, backfill=None):
-        captured.update({"limit": limit, "backfill": backfill})
+        captured.update({"sources_path": sources_path, "limit": limit, "backfill": backfill})
         return {"source": "live", "releases": [], "errors": []}
 
     monkeypatch.setattr(sys, "argv", ["collect.py", "--backfill", "cursor"])
@@ -359,7 +407,11 @@ def test_main_uses_backfill_default_limit(monkeypatch):
 
     collect.main()
 
-    assert captured == {"limit": 100, "backfill": "cursor"}
+    assert captured == {
+        "sources_path": collect.ROOT / "_scripts/sources.yaml",
+        "limit": 100,
+        "backfill": "cursor",
+    }
 
 
 def test_main_keeps_explicit_limit_for_backfill(monkeypatch):
