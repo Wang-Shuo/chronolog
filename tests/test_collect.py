@@ -3,6 +3,7 @@ import subprocess
 import sys
 from pathlib import Path
 from types import SimpleNamespace
+from uuid import uuid4
 
 import pytest
 
@@ -34,7 +35,7 @@ def test_collect_fixture_writes_normalized_releases(tmp_path: Path):
 
 
 def test_direct_cli_fixture_invocation_writes_output():
-    run_id = "pytest-direct-collect-fixture"
+    run_id = f"pytest-direct-collect-fixture-{uuid4().hex}"
     run_dir = Path("_pipeline") / run_id
     output = run_dir / "01-collected" / "releases.json"
     shutil.rmtree(run_dir, ignore_errors=True)
