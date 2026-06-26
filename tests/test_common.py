@@ -2,8 +2,10 @@ from datetime import date
 from pathlib import Path
 
 from _scripts.common import (
+    PipelinePaths,
     card_id_for,
     machine_hash,
+    parse_date,
     read_json,
     slugify,
     write_json,
@@ -33,3 +35,21 @@ def test_machine_hash_excludes_machine_hash_field():
     fields = {"title": "Cursor", "machine_hash": "old"}
     regions = {"summary": "Hello"}
     assert machine_hash(fields, regions) == machine_hash({"title": "Cursor"}, regions)
+
+
+def test_parse_date_accepts_iso_date():
+    assert parse_date("2026-06-26") == date(2026, 6, 26)
+
+
+def test_parse_date_accepts_iso_datetime():
+    assert parse_date("2026-06-26T12:34:56Z") == date(2026, 6, 26)
+
+
+def test_parse_date_accepts_rss_datetime():
+    assert parse_date("Fri, 26 Jun 2026 12:34:56 GMT") == date(2026, 6, 26)
+
+
+def test_pipeline_paths_collected_points_to_run_output():
+    assert PipelinePaths("demo").collected.as_posix().endswith(
+        "_pipeline/demo/01-collected/releases.json"
+    )

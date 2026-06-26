@@ -5,6 +5,7 @@ import json
 import re
 from dataclasses import dataclass
 from datetime import date, datetime, timezone
+from email.utils import parsedate_to_datetime
 from pathlib import Path
 from typing import Any
 
@@ -53,7 +54,10 @@ def write_text(path: Path, content: str) -> None:
 
 
 def parse_date(value: str) -> date:
-    return datetime.fromisoformat(value.replace("Z", "+00:00")).date()
+    try:
+        return datetime.fromisoformat(value.replace("Z", "+00:00")).date()
+    except ValueError:
+        return parsedate_to_datetime(value).date()
 
 
 def utc_timestamp() -> str:
