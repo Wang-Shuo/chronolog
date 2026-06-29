@@ -19,28 +19,45 @@ IMPACT_WORDS = {
 }
 
 
+def normalize_match_text(value: str) -> str:
+    text = re.sub(r"[^a-z0-9]+", " ", value.lower())
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def contains_phrase(normalized_text: str, normalized_phrase: str) -> bool:
+    if not normalized_phrase:
+        return False
+    return f" {normalized_phrase} " in f" {normalized_text} "
+
+
 def load_theme_vocabulary(path: str | Path) -> dict[str, dict[str, Any]]:
     data = read_yaml(Path(path))
     vocab = {}
     for theme in data["themes"]:
         terms = {theme["slug"], theme["display_name"].lower(), *theme.get("aliases", [])}
-        vocab[theme["slug"]] = {**theme, "terms": {term.lower() for term in terms}}
+        vocab[theme["slug"]] = {
+            **theme,
+            "terms": {normalize_match_text(term) for term in terms},
+        }
     return vocab
 
 
 def split_release_lines(body: str) -> list[str]:
     lines = []
     for raw in body.splitlines():
-        line = re.sub(r"^[-*#\s]+", "", raw).strip()
+        stripped = raw.strip()
+        if re.match(r"^#{1,6}(\s+|$)", stripped):
+            continue
+        line = re.sub(r"^(?:[-*]\s+|\d+[.)]\s+)", "", stripped).strip()
         if len(line) >= 12:
             lines.append(line)
     return lines
 
 
 def choose_theme(text: str, themes: dict[str, dict[str, Any]]) -> tuple[str, str | None]:
-    lowered = text.lower()
+    normalized = normalize_match_text(text)
     for slug, theme in themes.items():
-        if any(term in lowered for term in theme["terms"]):
+        if any(contains_phrase(normalized, term) for term in theme["terms"]):
             return slug, None
     words = re.findall(r"[a-zA-Z][a-zA-Z0-9]+", text.lower())[:3]
     if words and words[0] in {"new"}:
@@ -49,9 +66,9 @@ def choose_theme(text: str, themes: dict[str, dict[str, Any]]) -> tuple[str, str
 
 
 def choose_impact(text: str) -> str:
-    lowered = text.lower()
+    normalized = normalize_match_text(text)
     for impact, words in IMPACT_WORDS.items():
-        if any(word in lowered for word in words):
+        if any(contains_phrase(normalized, normalize_match_text(word)) for word in words):
             return impact
     return "incremental"
 
@@ -60,7 +77,7 @@ def extract_cards_from_release(release: dict[str, Any], themes: dict[str, dict[s
     lines = split_release_lines(release.get("body", "")) or [release["title"]]
     cards = []
     seen_themes: set[str] = set()
-    for line in lines[:5]:
+    for line in lines:
         theme, suggestion = choose_theme(line, themes)
         identity_theme = suggestion if theme == "__candidate__" else theme
         if identity_theme in seen_themes:
@@ -89,6 +106,8 @@ def extract_cards_from_release(release: dict[str, Any], themes: dict[str, dict[s
             card["ai_generated"] = True
             card["confidence"] = "low"
         cards.append(card)
+        if len(cards) >= 5:
+            break
     return cards
 
 
