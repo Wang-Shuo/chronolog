@@ -77,6 +77,16 @@ def test_validate_card_rejects_high_impact_without_ai_metadata():
     )
 
 
+def test_validate_card_rejects_malformed_evidence_item_without_crashing():
+    card = valid_card(impact="incremental", evidence=["not-a-dict"])
+    card.pop("ai_generated")
+    card.pop("confidence")
+
+    errors = validate_card(card, {"agent-mode"})
+
+    assert "evidence requires source_release and quote" in errors
+
+
 def test_validate_cards_file_writes_dlq_with_record_and_errors(tmp_path: Path):
     source = tmp_path / "cards.json"
     valid_output = tmp_path / "valid.json"
@@ -92,6 +102,19 @@ def test_validate_cards_file_writes_dlq_with_record_and_errors(tmp_path: Path):
     assert dlq["failed"][0]["record"] == invalid
     assert "theme must be official or candidate with suggestion" in dlq["failed"][0]["errors"]
     assert "evidence is required" in dlq["failed"][0]["errors"]
+
+
+def test_validate_cards_file_removes_stale_dlq_when_current_run_has_no_failures(tmp_path: Path):
+    source = tmp_path / "cards.json"
+    valid_output = tmp_path / "valid.json"
+    dlq_output = tmp_path / "dlq.json"
+    write_json(source, {"change_cards": [valid_card()]})
+    write_json(dlq_output, {"failed": [{"record": {"old": True}, "errors": ["old failure"]}]})
+
+    result = validate_cards_file(source, valid_output, dlq_output, "_scripts/themes.yaml")
+
+    assert result == {"passed": 1, "failed": 0}
+    assert not dlq_output.exists()
 
 
 def test_direct_cli_invocation_writes_valid_cards_and_dlq_for_round_one():

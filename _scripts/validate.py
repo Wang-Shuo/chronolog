@@ -54,7 +54,7 @@ def validate_card(card: dict[str, Any], themes: set[str]) -> list[str]:
     evidence = card.get("evidence")
     if not isinstance(evidence, list) or not evidence:
         errors.append("evidence is required")
-    elif not evidence[0].get("source_release") or not evidence[0].get("quote"):
+    elif not isinstance(evidence[0], dict) or not evidence[0].get("source_release") or not evidence[0].get("quote"):
         errors.append("evidence requires source_release and quote")
     if not str(card.get("description", "")).strip():
         errors.append("description is required")
@@ -87,6 +87,8 @@ def validate_cards_file(
     write_json(valid_output, {"change_cards": valid})
     if failed:
         write_json(dlq_output, {"failed": failed})
+    else:
+        dlq_output.unlink(missing_ok=True)
     return {"passed": len(valid), "failed": len(failed)}
 
 
