@@ -5,5 +5,6 @@ __pycache__/
 node_modules/
 public/
 .quartz-cache/
+quartz
 _pipeline/
 .worktrees/

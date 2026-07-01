@@ -1,0 +1,17 @@
+{
+  "name": "chronolog",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "quartz build",
+    "serve": "quartz build --serve",
+    "postinstall": "node _scripts/setup_quartz.mjs"
+  },
+  "dependencies": {
+    "quartz": "github:jackyzha0/quartz#v4"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.0"
+  }
+}
