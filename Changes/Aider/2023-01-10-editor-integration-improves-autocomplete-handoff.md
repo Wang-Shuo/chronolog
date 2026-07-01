@@ -1,22 +1,21 @@
 ---
-card_id: aider-2024-02-10-3d766e
-date: '2024-02-10'
+card_id: aider-2023-01-10-3d766e
+date: '2023-01-10'
 diffusion:
-  first_in_tracked: cursor-2024-01-12-895421
-  lag_days: 29
-  role: follower
+  first_in_tracked: aider-2023-01-10-3d766e
+  lag_days: 0
+  role: originator
   scope: tracked-products-only
   theme: editor-experience
   tracked_products_count: 5
 evolves_from: []
 extractor_version: fallback-v1
 impact: significant
-machine_hash: 89c93be404514fa1cdc120584a43e37afc8a2f36ae18916ab7b94964be4e040e
+machine_hash: 4aa1084ae1a3efeb7a076d0c716e8ecebb6d06df705cf577ad98fa6d43c526f0
 product: aider
 product_name: Aider
-related_changes:
-- cursor-2024-01-12-895421
-source_release: aider-2024-02-10-v0-22
+related_changes: []
+source_release: aider-2023-01-10-v0-22
 theme: editor-experience
 type: change
 ---
@@ -38,7 +37,7 @@ No prior tracked change.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
-{'theme': 'editor-experience', 'scope': 'tracked-products-only', 'role': 'follower', 'first_in_tracked': 'cursor-2024-01-12-895421', 'lag_days': 29, 'tracked_products_count': 5}
+{'theme': 'editor-experience', 'scope': 'tracked-products-only', 'role': 'originator', 'first_in_tracked': 'aider-2023-01-10-3d766e', 'lag_days': 0, 'tracked_products_count': 5}
 <!-- chronolog:end -->
 
 ## Editor Notes

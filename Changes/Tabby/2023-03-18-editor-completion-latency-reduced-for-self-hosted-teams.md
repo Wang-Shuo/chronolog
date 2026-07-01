@@ -1,9 +1,9 @@
 ---
-card_id: tabby-2024-03-18-18c4c3
-date: '2024-03-18'
+card_id: tabby-2023-03-18-18c4c3
+date: '2023-03-18'
 diffusion:
-  first_in_tracked: cursor-2024-01-12-895421
-  lag_days: 66
+  first_in_tracked: aider-2023-01-10-3d766e
+  lag_days: 67
   role: follower
   scope: tracked-products-only
   theme: editor-experience
@@ -11,13 +11,13 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v1
 impact: incremental
-machine_hash: e64cddc1a1a28c9e2c88bdc399b3bd2640d09b67d73ab5bf578b7770392eede7
+machine_hash: 9d5f7b737ac034863dc71757790352d897ac31c114745155cd4ef58f5ee13dc2
 product: tabby
 product_name: Tabby
 related_changes:
-- cursor-2024-01-12-895421
-- aider-2024-02-10-3d766e
-source_release: tabby-2024-03-18-v0-8
+- aider-2023-01-10-3d766e
+- cursor-2023-01-12-895421
+source_release: tabby-2023-03-18-v0-8
 theme: editor-experience
 type: change
 ---
@@ -39,7 +39,7 @@ No prior tracked change.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
-{'theme': 'editor-experience', 'scope': 'tracked-products-only', 'role': 'follower', 'first_in_tracked': 'cursor-2024-01-12-895421', 'lag_days': 66, 'tracked_products_count': 5}
+{'theme': 'editor-experience', 'scope': 'tracked-products-only', 'role': 'follower', 'first_in_tracked': 'aider-2023-01-10-3d766e', 'lag_days': 67, 'tracked_products_count': 5}
 <!-- chronolog:end -->
 
 ## Editor Notes

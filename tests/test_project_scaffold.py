@@ -1,4 +1,5 @@
 from pathlib import Path
+from datetime import date
 import json
 import yaml
 
@@ -21,3 +22,14 @@ def test_project_configs_and_fixture_are_present():
     }
     assert len(fixture["releases"]) >= 10
     assert all(release.get("product") for release in fixture["releases"])
+
+
+def test_fixture_products_have_two_year_history_depth():
+    fixture = json.loads((ROOT / "tests" / "fixtures" / "releases.json").read_text())
+    dates_by_product: dict[str, list[date]] = {}
+    for release in fixture["releases"]:
+        dates_by_product.setdefault(release["product"], []).append(date.fromisoformat(release["date"]))
+
+    assert dates_by_product
+    for product, dates in dates_by_product.items():
+        assert (max(dates) - min(dates)).days >= 730, product

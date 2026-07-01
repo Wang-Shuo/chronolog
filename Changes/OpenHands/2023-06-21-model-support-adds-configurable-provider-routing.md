@@ -1,9 +1,9 @@
 ---
-card_id: openhands-2024-06-21-6a2d25
-date: '2024-06-21'
+card_id: openhands-2023-06-21-6a2d25
+date: '2023-06-21'
 diffusion:
-  first_in_tracked: cursor-2024-01-12-ae3b07
-  lag_days: 161
+  first_in_tracked: aider-2023-01-10-b552e3
+  lag_days: 162
   role: follower
   scope: tracked-products-only
   theme: model-support
@@ -11,14 +11,14 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v1
 impact: significant
-machine_hash: 4efd4493b244e0941d1099394988d57033b4c991ea217b39208080af73a85bf4
+machine_hash: a79389d3518148345d10306f570bcaf20a0b988a616c77e2947771874b3855d8
 product: openhands
 product_name: OpenHands
 related_changes:
-- aider-2024-02-10-b552e3
-- tabby-2024-03-18-b01922
-- continue-2024-05-01-211175
-source_release: openhands-2024-06-21-v0-7
+- cursor-2023-01-12-ae3b07
+- tabby-2023-03-18-b01922
+- continue-2023-05-01-211175
+source_release: openhands-2023-06-21-v0-7
 theme: model-support
 type: change
 ---
@@ -40,7 +40,7 @@ No prior tracked change.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
-{'theme': 'model-support', 'scope': 'tracked-products-only', 'role': 'follower', 'first_in_tracked': 'cursor-2024-01-12-ae3b07', 'lag_days': 161, 'tracked_products_count': 5}
+{'theme': 'model-support', 'scope': 'tracked-products-only', 'role': 'follower', 'first_in_tracked': 'aider-2023-01-10-b552e3', 'lag_days': 162, 'tracked_products_count': 5}
 <!-- chronolog:end -->
 
 ## Editor Notes

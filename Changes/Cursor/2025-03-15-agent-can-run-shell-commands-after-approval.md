@@ -2,8 +2,8 @@
 card_id: cursor-2025-03-15-7c7731
 date: '2025-03-15'
 diffusion:
-  first_in_tracked: openhands-2024-06-21-ebc797
-  lag_days: 267
+  first_in_tracked: openhands-2023-06-21-ebc797
+  lag_days: 633
   role: follower
   scope: tracked-products-only
   theme: agent-mode
@@ -11,11 +11,11 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v1
 impact: paradigm-shift
-machine_hash: b53913448869959bba14854cdff7ec1614786d9e69025e5d164196984ae841b6
+machine_hash: 74278483a8651e6091a597ea39e157378fa6e99d35dd414ee775a9033d1bf04f
 product: cursor
 product_name: Cursor
 related_changes:
-- openhands-2024-06-21-ebc797
+- openhands-2023-06-21-ebc797
 - aider-2025-01-20-d2e795
 source_release: cursor-2025-03-15-v0-38
 theme: agent-mode
@@ -39,7 +39,7 @@ No prior tracked change.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
-{'theme': 'agent-mode', 'scope': 'tracked-products-only', 'role': 'follower', 'first_in_tracked': 'openhands-2024-06-21-ebc797', 'lag_days': 267, 'tracked_products_count': 5}
+{'theme': 'agent-mode', 'scope': 'tracked-products-only', 'role': 'follower', 'first_in_tracked': 'openhands-2023-06-21-ebc797', 'lag_days': 633, 'tracked_products_count': 5}
 <!-- chronolog:end -->
 
 ## Editor Notes

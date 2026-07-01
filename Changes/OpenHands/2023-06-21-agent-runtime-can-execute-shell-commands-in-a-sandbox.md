@@ -1,8 +1,8 @@
 ---
-card_id: openhands-2024-06-21-ebc797
-date: '2024-06-21'
+card_id: openhands-2023-06-21-ebc797
+date: '2023-06-21'
 diffusion:
-  first_in_tracked: openhands-2024-06-21-ebc797
+  first_in_tracked: openhands-2023-06-21-ebc797
   lag_days: 0
   role: originator
   scope: tracked-products-only
@@ -11,11 +11,11 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v1
 impact: paradigm-shift
-machine_hash: 51fd5ccb0cc3236a21ee25f53fc023383ae8f4fd5b8aa97738de98dde0e1d4a5
+machine_hash: 94fddd630575e3934aca15a5c996b0d49b1ca3df25b04f1b7399e25588e74dd5
 product: openhands
 product_name: OpenHands
 related_changes: []
-source_release: openhands-2024-06-21-v0-7
+source_release: openhands-2023-06-21-v0-7
 theme: agent-mode
 type: change
 ---
@@ -37,7 +37,7 @@ No prior tracked change.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
-{'theme': 'agent-mode', 'scope': 'tracked-products-only', 'role': 'originator', 'first_in_tracked': 'openhands-2024-06-21-ebc797', 'lag_days': 0, 'tracked_products_count': 5}
+{'theme': 'agent-mode', 'scope': 'tracked-products-only', 'role': 'originator', 'first_in_tracked': 'openhands-2023-06-21-ebc797', 'lag_days': 0, 'tracked_products_count': 5}
 <!-- chronolog:end -->
 
 ## Editor Notes

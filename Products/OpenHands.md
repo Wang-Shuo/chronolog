@@ -1,5 +1,5 @@
 ---
-machine_hash: 3fc360256fca65b04a81abb3d4283aacf921e3ea053abdb3b582ea003c95c126
+machine_hash: af1c6575d09dad6ef9ee4e61739a606254ec9d35d7320dacc4d16bf7558cb61b
 product: openhands
 product_name: OpenHands
 tags:
@@ -21,14 +21,14 @@ top_themes: agent-mode, model-support, context-window
 
 ## Eras
 <!-- chronolog:begin region="eras" -->
-- **Model Support Era** (2024-06-21 to 2024-06-21): openhands focused on model-support across 2 tracked changes.
+- **Model Support Era** (2023-06-21 to 2023-06-21): openhands focused on model-support across 2 tracked changes.
 - **Agent Mode Era** (2026-01-10 to present): openhands focused on agent-mode across 2 tracked changes.
 <!-- chronolog:end -->
 
 ## Change Timeline
 <!-- chronolog:begin region="changes" -->
-- 2024-06-21 model-support: [[2024-06-21-model-support-adds-configurable-provider-routing|Model support adds configurable provider routing]]
-- 2024-06-21 agent-mode: [[2024-06-21-agent-runtime-can-execute-shell-commands-in-a-sandbox|Agent runtime can execute shell commands in a sandbox]]
+- 2023-06-21 model-support: [[2023-06-21-model-support-adds-configurable-provider-routing|Model support adds configurable provider routing]]
+- 2023-06-21 agent-mode: [[2023-06-21-agent-runtime-can-execute-shell-commands-in-a-sandbox|Agent runtime can execute shell commands in a sandbox]]
 - 2026-01-10 agent-mode: [[2026-01-10-collaboration-workflow-lets-reviewers-approve-agent-actions|Collaboration workflow lets reviewers approve agent actions]]
 - 2026-01-10 context-window: [[2026-01-10-context-window-handling-improves-long-running-repository-tasks|Context window handling improves long-running repository tasks]]
 <!-- chronolog:end -->
