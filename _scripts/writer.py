@@ -26,9 +26,14 @@ MACHINE_FIELD_NAMES = {
     "tags",
     "type",
     "card_id",
+    "release_id",
     "product",
     "product_name",
     "source_release",
+    "source_url",
+    "source_type",
+    "version",
+    "changes_count",
     "date",
     "created",
     "modified",
@@ -252,8 +257,14 @@ def render_product_markdown(
     product_info: dict[str, Any],
     cards: list[dict[str, Any]],
     card_targets: dict[str, str] | None = None,
+    releases: list[dict[str, Any]] | None = None,
+    release_targets: dict[str, str] | None = None,
 ) -> str:
     ordered = sorted(cards, key=lambda item: (item["date"], item["card_id"]))
+    ordered_releases = sorted(
+        releases or [],
+        key=lambda item: (item["date"], item["release_id"]),
+    )
     era_lines = []
     for era in product_info.get("eras", []):
         date_range = f"{era['from']} to {era.get('to') or 'present'}"
@@ -263,29 +274,47 @@ def render_product_markdown(
         f"- {card['date']} {card['theme']}: {card_link(card, card_targets)}"
         for card in ordered
     ] or ["- No tracked changes yet."]
+    release_lines = [
+        (
+            f"- {release['date']}: "
+            f"[[{release_targets[release['release_id']]}|{release['title']}]]"
+        )
+        for release in ordered_releases
+        if release_targets and release["release_id"] in release_targets
+    ] or ["- No releases collected yet."]
     regions = {
         "summary": (
             f"verbosity_baseline: {product_info['verbosity_baseline']}\n"
             f"top_themes: {', '.join(product_info.get('top_themes', []))}"
         ),
         "eras": "\n".join(era_lines) or "No eras yet.",
+        "releases": "\n".join(release_lines),
         "changes": "\n".join(change_lines),
     }
+    timeline_dates = [item["date"] for item in ordered_releases] or [
+        item["date"] for item in ordered
+    ]
     fields = {
         "tags": ["product"],
         "product": product,
         "product_name": product_info["product_name"],
         "verbosity_baseline": product_info["verbosity_baseline"],
         "top_themes": product_info.get("top_themes", []),
-        "date": ordered[-1]["date"],
-        "created": ordered[0]["date"],
-        "modified": ordered[-1]["date"],
     }
+    if timeline_dates:
+        fields.update(
+            {
+                "date": max(timeline_dates),
+                "created": min(timeline_dates),
+                "modified": max(timeline_dates),
+            }
+        )
     fields["machine_hash"] = machine_hash(fields, regions)
     body = (
         f"# {product_info['product_name']}\n\n"
         f"## Summary\n{machine_region('summary', regions['summary'])}\n\n"
         f"## Eras\n{machine_region('eras', regions['eras'])}\n\n"
+        f"## Release Archive\n{machine_region('releases', regions['releases'])}\n\n"
         f"## Change Timeline\n{machine_region('changes', regions['changes'])}\n\n"
         "## Editor Notes\n"
     )
@@ -293,27 +322,36 @@ def render_product_markdown(
 
 
 def render_release_markdown(
-    product_name: str,
     release: dict[str, Any],
     card_targets: dict[str, str] | None = None,
 ) -> str:
-    cards = sorted(release["cards"], key=lambda card: (card["date"], card["card_id"]))
+    cards = sorted(release.get("cards", []), key=lambda card: (card["date"], card["card_id"]))
     card_lines = [
         f"- {card['theme']}: {card_link(card, card_targets)}" for card in cards
     ]
     regions = {
-        "summary": f"Source release: {release['title']}\nTracked cards: {len(cards)}",
+        "summary": (
+            f"{release.get('source_summary') or release['title']}\n\n"
+            f"[Official release notes]({release['source_url']})\n\n"
+            f"Tracked cards: {len(cards)}"
+        ),
         "cards": "\n".join(card_lines) or "No change cards extracted.",
     }
     fields = {
-        "tags": ["release"],
-        "product_name": product_name,
+        "tags": ["release", release["product"]],
+        "release_id": release["release_id"],
+        "product": release["product"],
+        "product_name": release["product_name"],
         "source_release": release["title"],
+        "version": release.get("version") or release["title"],
+        "source_url": release["source_url"],
+        "source_type": release.get("source_type", "unknown"),
+        "changes_count": len(cards),
         "date": release["date"],
     }
     fields["machine_hash"] = machine_hash(fields, regions)
     body = (
-        f"# {product_name} {release['title']}\n\n"
+        f"# {release['product_name']} {release['title']}\n\n"
         f"## Summary\n{machine_region('summary', regions['summary'])}\n\n"
         f"## Change Cards\n{machine_region('cards', regions['cards'])}\n"
     )
@@ -421,6 +459,49 @@ def change_card_paths(
     return targets, duplicates
 
 
+def release_page_paths(
+    root: Path,
+    releases: list[dict[str, Any]],
+) -> tuple[dict[str, Path], list[dict[str, str]]]:
+    existing: dict[str, Path] = {}
+    duplicates: list[dict[str, str]] = []
+    releases_root = root / "Releases"
+    if releases_root.exists():
+        for path in sorted(releases_root.rglob("*.md")):
+            release_id = frontmatter.load(path).metadata.get("release_id")
+            if not release_id:
+                continue
+            release_id = str(release_id)
+            if release_id in existing:
+                duplicates.append(
+                    {
+                        "file": str(path),
+                        "error": f"duplicate release_id also found at {existing[release_id]}",
+                        "merge_conflict": True,
+                    }
+                )
+                continue
+            existing[release_id] = path
+
+    targets = dict(existing)
+    for release in releases:
+        default_path = (
+            root
+            / "Releases"
+            / release["product_name"]
+            / (
+                f"{release['date']}-{release['release_id']}.md"
+                if release.get("source_type") == "fixture"
+                else f"{release['release_id']}.md"
+            )
+        )
+        targets[release["release_id"]] = existing.get(
+            release["release_id"],
+            default_path,
+        )
+    return targets, duplicates
+
+
 def reconcile_missing_change_cards(
     root: Path,
     active_card_ids: set[str],
@@ -465,6 +546,51 @@ def reconcile_missing_change_cards(
     return superseded
 
 
+def reconcile_missing_releases(
+    root: Path,
+    active_release_ids: set[str],
+    reconcile_products: set[str],
+    conflicts: list[dict[str, str]],
+) -> list[str]:
+    superseded = []
+    releases_root = root / "Releases"
+    if not releases_root.exists():
+        return superseded
+
+    for path in sorted(releases_root.rglob("*.md")):
+        existing = path.read_text(encoding="utf-8")
+        post = frontmatter.loads(existing)
+        release_id = str(post.metadata.get("release_id", ""))
+        product = str(post.metadata.get("product", "")) or slugify(
+            str(post.metadata.get("product_name", path.parent.name))
+        )
+        if (
+            (release_id and release_id in active_release_ids)
+            or product not in reconcile_products
+            or post.metadata.get("superseded") is True
+        ):
+            continue
+
+        stored_hash = post.metadata.get("machine_hash")
+        if stored_hash and content_machine_hash(existing) != stored_hash:
+            conflicts.append(
+                {
+                    "file": str(path),
+                    "error": "machine_hash mismatch while marking release superseded",
+                    "merge_conflict": True,
+                }
+            )
+            continue
+
+        metadata = dict(post.metadata)
+        metadata["superseded"] = True
+        regions = extract_machine_regions(post.content)
+        metadata["machine_hash"] = machine_hash(machine_fields(metadata), regions)
+        write_text(path, render_frontmatter(metadata, post.content))
+        superseded.append(release_id or path.stem)
+    return superseded
+
+
 def relative_wiki_target(root: Path, path: Path) -> str:
     return path.relative_to(root).with_suffix("").as_posix()
 
@@ -482,45 +608,72 @@ def write_run(
     analysis_a = read_json(paths.analyze_a)
     analysis_b = read_json(paths.analyze_b)
     silence = read_json(paths.silence) if paths.silence.exists() else {"alerts": []}
+    collected = read_json(paths.collected)
+    collected_releases = [
+        {**release, "cards": []} for release in collected.get("releases", [])
+    ]
     card_paths, conflicts = change_card_paths(paths.root, cards)
+    release_paths, release_path_conflicts = release_page_paths(
+        paths.root,
+        collected_releases,
+    )
+    conflicts.extend(release_path_conflicts)
     card_targets = {
         card_id: relative_wiki_target(paths.root, path)
         for card_id, path in card_paths.items()
     }
+    release_targets = {
+        release_id: relative_wiki_target(paths.root, path)
+        for release_id, path in release_paths.items()
+    }
 
     cards_by_product: dict[str, list[dict[str, Any]]] = defaultdict(list)
     cards_by_theme: dict[str, list[dict[str, Any]]] = defaultdict(list)
-    releases_by_product: dict[str, dict[str, dict[str, Any]]] = defaultdict(dict)
+    releases_by_product: dict[str, list[dict[str, Any]]] = defaultdict(list)
+    releases_by_id: dict[str, dict[str, Any]] = {}
+
+    for release in collected_releases:
+        release_id = release["release_id"]
+        if release_id in releases_by_id:
+            conflicts.append(
+                {
+                    "file": str(paths.collected),
+                    "error": f"duplicate collected release_id: {release_id}",
+                    "merge_conflict": True,
+                }
+            )
+            continue
+        releases_by_id[release_id] = release
+        releases_by_product[release["product"]].append(release)
 
     for card in cards:
         cards_by_product[card["product"]].append(card)
         cards_by_theme[card["theme"]].append(card)
-        product_releases = releases_by_product[card["product_name"]]
-        release = product_releases.setdefault(
-            card["source_release"],
-            {"date": card["date"], "title": card["source_release"], "cards": []},
-        )
-        release["cards"].append(card)
-        release["date"] = min(release["date"], card["date"])
-
-    release_paths: dict[tuple[str, str], Path] = {}
-    for product_name, releases in releases_by_product.items():
-        for source_release, release in releases.items():
-            release_paths[(product_name, source_release)] = (
-                paths.root
-                / "Releases"
-                / product_name
-                / f"{release['date']}-{slugify(release['title'])}.md"
+        release = releases_by_id.get(card["source_release"])
+        if release is None:
+            conflicts.append(
+                {
+                    "file": str(paths.valid_cards),
+                    "error": (
+                        f"card {card['card_id']} references missing release "
+                        f"{card['source_release']}"
+                    ),
+                    "merge_conflict": True,
+                }
             )
+            continue
+        release["cards"].append(card)
 
     for card in cards:
+        if card["source_release"] not in release_paths:
+            continue
         patch_a = {
             "evolves_from": analysis_a.get("evolves_from", {}).get(card["card_id"], [])
         }
         patch_b = analysis_b.get("cards", {}).get(card["card_id"], {})
         release_target = relative_wiki_target(
             paths.root,
-            release_paths[(card["product_name"], card["source_release"])],
+            release_paths[card["source_release"]],
         )
         write_markdown_file(
             card_paths[card["card_id"]],
@@ -534,7 +687,34 @@ def write_run(
             conflicts,
         )
 
-    for product, product_info in analysis_a["products"].items():
+    products_info = dict(analysis_a.get("products", {}))
+    for product, product_releases in releases_by_product.items():
+        if product in products_info:
+            continue
+        ordered_releases = sorted(
+            product_releases,
+            key=lambda release: (release["date"], release["release_id"]),
+        )
+        products_info[product] = {
+            "product_name": ordered_releases[0]["product_name"],
+            "verbosity_baseline": 0.0,
+            "top_themes": [],
+            "eras": [
+                {
+                    "name": "Official Release Archive",
+                    "from": ordered_releases[0]["date"],
+                    "to": None,
+                    "summary": (
+                        f"{len(ordered_releases)} official releases are archived; "
+                        "no publishable change cards were extracted."
+                    ),
+                    "data_sparse": len(ordered_releases) < 3,
+                }
+            ],
+        }
+    analysis_for_render = {**analysis_a, "products": products_info}
+
+    for product, product_info in products_info.items():
         target = paths.root / "Products" / f"{product_info['product_name']}.md"
         write_markdown_file(
             target,
@@ -543,17 +723,18 @@ def write_run(
                 product_info,
                 cards_by_product[product],
                 card_targets,
+                releases=releases_by_product[product],
+                release_targets=release_targets,
             ),
             conflicts,
         )
 
-    for product_name, releases in releases_by_product.items():
-        for source_release, release in releases.items():
-            write_markdown_file(
-                release_paths[(product_name, source_release)],
-                render_release_markdown(product_name, release, card_targets),
-                conflicts,
-            )
+    for release in collected_releases:
+        write_markdown_file(
+            release_paths[release["release_id"]],
+            render_release_markdown(release, card_targets),
+            conflicts,
+        )
 
     for theme, theme_cards in cards_by_theme.items():
         target = paths.root / "Themes" / f"{theme}.md"
@@ -571,7 +752,7 @@ def write_run(
         paths.root / "index.md",
         render_index_markdown(
             cards,
-            analysis_a,
+            analysis_for_render,
             analysis_b,
             silence,
             pending_theme_review=len(pending_theme_review),
@@ -580,7 +761,6 @@ def write_run(
     )
 
     if reconcile:
-        collected = read_json(paths.collected)
         reconcile_products = {
             str(release["product"]) for release in collected.get("releases", [])
         }
@@ -589,6 +769,12 @@ def write_run(
         reconcile_missing_change_cards(
             paths.root,
             active_card_ids,
+            reconcile_products,
+            conflicts,
+        )
+        reconcile_missing_releases(
+            paths.root,
+            {release["release_id"] for release in collected_releases},
             reconcile_products,
             conflicts,
         )

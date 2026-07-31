@@ -31,8 +31,22 @@ def short_hash(value: str, length: int = 6) -> str:
     return hashlib.sha256(normalize_text(value).encode("utf-8")).hexdigest()[:length]
 
 
-def card_id_for(product: str, release_date: str, quote: str) -> str:
-    return f"{slugify(product)}-{release_date}-{short_hash(quote)}"
+def release_id_for(product: str, release_date: str, identity: str) -> str:
+    readable = slugify(identity)[:64].strip("-") or "release"
+    return (
+        f"{slugify(product)}-{release_date}-{readable}-"
+        f"{short_hash(identity, length=8)}"
+    )
+
+
+def card_id_for(
+    product: str,
+    release_date: str,
+    quote: str,
+    source_release: str | None = None,
+) -> str:
+    identity = f"{source_release}\n{quote}" if source_release else quote
+    return f"{slugify(product)}-{release_date}-{short_hash(identity)}"
 
 
 def read_json(path: Path) -> Any:

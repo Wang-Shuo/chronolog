@@ -3,15 +3,18 @@ from pathlib import Path
 import frontmatter
 import pytest
 
+from _scripts.common import PipelinePaths, write_json
 from _scripts.writer import (
     change_card_paths,
     ensure_vault_dirs,
     main,
     reconcile_missing_change_cards,
     render_change_markdown,
+    render_release_markdown,
     render_theme_markdown,
     replace_machine_region,
     write_markdown_file,
+    write_run,
 )
 
 
@@ -173,6 +176,41 @@ def test_ensure_vault_dirs_creates_empty_alerts_directory(tmp_path: Path):
     assert (tmp_path / "Releases").is_dir()
     assert (tmp_path / "Themes").is_dir()
     assert (tmp_path / "Alerts").is_dir()
+
+
+def test_writer_creates_release_page_when_release_has_no_publishable_cards(tmp_path: Path):
+    run_id = "zero-card-release"
+    paths = PipelinePaths(run_id, root=tmp_path)
+    release = {
+        "release_id": "chatgpt-2023-01-09-updates-a1b2c3d4",
+        "product": "chatgpt",
+        "product_name": "ChatGPT",
+        "date": "2023-01-09",
+        "version": "Updates to ChatGPT",
+        "title": "Updates to ChatGPT",
+        "body": "Maintenance update.",
+        "source_summary": "Maintenance update.",
+        "source_url": "https://help.openai.com/release#update",
+        "source_type": "chatgpt_changelog",
+    }
+    write_json(
+        paths.valid_cards,
+        {"change_cards": [], "pending_theme_review": []},
+    )
+    write_json(paths.analyze_a, {"products": {}, "evolves_from": {}})
+    write_json(paths.analyze_b, {"themes": {}, "cards": {}})
+    write_json(paths.silence, {"alerts": [], "pending": []})
+    write_json(paths.collected, {"source": "fixture", "releases": [release]})
+
+    conflicts = write_run(run_id, root=tmp_path)
+
+    pages = list((tmp_path / "Releases" / "ChatGPT").glob("*.md"))
+    assert conflicts == []
+    assert len(pages) == 1
+    post = frontmatter.load(pages[0])
+    assert post.metadata["release_id"] == release["release_id"]
+    assert post.metadata["changes_count"] == 0
+    assert "No change cards extracted." in post.content
 
 
 def change_card() -> dict[str, object]:

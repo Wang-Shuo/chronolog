@@ -18,6 +18,150 @@ IMPACT_WORDS = {
     "significant": ["support", "new", "expanded", "integration", "model"],
 }
 AMBIGUITY_MARGIN = 25
+GENERIC_HEADING_RE = re.compile(
+    r"^(?:#+\s*)?(?:new features?|features?|improvements?|bug fixes?|fixes?|"
+    r"other changes?|what'?s new|coming soon|changelog|release notes?|chores?)[:.!]?$",
+    re.I,
+)
+VERSION_ONLY_RE = re.compile(r"^v?\d+(?:\.\d+){0,3}(?:[- ]?\w+)?$", re.I)
+INSTRUCTION_PREFIXES = (
+    "click on ",
+    "select ",
+    "toggle ",
+    "to add ",
+    "to enable ",
+    "to get started ",
+    "to share ",
+    "to use ",
+    "learn more",
+    "read more",
+    "see:",
+)
+BUGFIX_PREFIX_RE = re.compile(
+    r"^(?:hotfix|tiny fix|bugfix|fixed|fixes?|resolved|reverted|"
+    r"other fixes|various bugs|miscellaneous fixes)\b",
+    re.I,
+)
+BOILERPLATE_PREFIXES = (
+    "we're excited",
+    "we’re excited",
+    "we've made several updates",
+    "we’ve made several updates",
+    "here's what's new",
+    "here’s what’s new",
+)
+
+# These rules encode the manual review decisions from the three-product backfill.
+# They are applied only when the controlled vocabulary has no clear winner.
+SEMANTIC_THEME_RULES: tuple[tuple[str, tuple[str, ...]], ...] = (
+    (
+        "safety-privacy",
+        (
+            "permission",
+            "sandbox",
+            "privacy",
+            "security",
+            "trusted contact",
+            "parental control",
+            "data protection",
+        ),
+    ),
+    (
+        "account-access",
+        ("login", "sign in", "authentication", "oauth", "account control"),
+    ),
+    (
+        "pricing-model",
+        ("price", "pricing", "billing", "cost", "subscription", "credits"),
+    ),
+    (
+        "image-generation",
+        ("dall e", "image generation", "generate images", "image library"),
+    ),
+    (
+        "voice",
+        ("voice", "dictation", "transcription", "speech to text", "audio"),
+    ),
+    (
+        "multimodal",
+        ("multimodal", "image input", "visual input", "screen share", "video"),
+    ),
+    (
+        "memory",
+        ("memory", "memories", "personalization", "custom instruction", "personality"),
+    ),
+    (
+        "search-browsing",
+        ("web search", "browse", "browsing", "deep research", "search result"),
+    ),
+    (
+        "apps-integrations",
+        ("plugin", "connector", "integration", "app directory", "mcp"),
+    ),
+    (
+        "enterprise-admin",
+        ("enterprise", "administrator", "admin control", "workspace control"),
+    ),
+    (
+        "mobile-desktop",
+        ("mobile", "desktop", "ios", "android", "macos", "windows", "ipad", "iphone"),
+    ),
+    (
+        "context-window",
+        ("context", "token limit", "context window", "compaction", "prompt cache"),
+    ),
+    (
+        "file-data",
+        ("file upload", "file library", "data analysis", "spreadsheet", "document", "pdf", "canvas"),
+    ),
+    (
+        "interface-experience",
+        (
+            "user interface",
+            "sidebar",
+            "navigation",
+            "keyboard shortcut",
+            "keybinding",
+            "picker",
+            "prompt bar",
+            "rendering",
+            "autocomplete",
+            "completion",
+        ),
+    ),
+    (
+        "developer-workflow",
+        (
+            "terminal",
+            "language server",
+            "lsp",
+            "pull request",
+            "code review",
+            "code intelligence",
+            "shell",
+            "bash",
+            "command",
+            "diff",
+            "task management",
+        ),
+    ),
+    (
+        "reliability-performance",
+        ("performance", "latency", "faster", "speed", "responsiveness", "stability"),
+    ),
+    (
+        "collaboration",
+        ("collaboration", "collaborator", "team", "share", "shared"),
+    ),
+    (
+        "agent-mode",
+        ("agent", "autonomous", "background session", "agent workflow"),
+    ),
+    (
+        "model-support",
+        ("model", "reasoning", "instruction following", "intelligence", "gpt", "claude"),
+    ),
+)
 
 
 def normalize_match_text(value: str) -> str:
@@ -140,13 +284,70 @@ def choose_impact(text: str) -> str:
     return "incremental"
 
 
+def semantic_theme_hint(
+    text: str,
+    themes: dict[str, dict[str, Any]],
+) -> str | None:
+    normalized = normalize_match_text(text)
+    for theme, phrases in SEMANTIC_THEME_RULES:
+        if theme not in themes:
+            continue
+        if any(contains_phrase(normalized, normalize_match_text(phrase)) for phrase in phrases):
+            return theme
+    return None
+
+
+def should_skip_line(line: str, classification: dict[str, Any]) -> bool:
+    normalized = normalize_match_text(line)
+    visible = line.strip().lstrip("#").strip()
+    if GENERIC_HEADING_RE.fullmatch(visible) or VERSION_ONLY_RE.fullmatch(visible):
+        return True
+    if any(
+        normalized.startswith(normalize_match_text(prefix))
+        for prefix in INSTRUCTION_PREFIXES
+    ):
+        return True
+    if classification.get("theme_review_reason") == "no_match" and BUGFIX_PREFIX_RE.match(visible):
+        return True
+    if classification.get("theme_review_reason") == "no_match" and any(
+        normalized.startswith(normalize_match_text(prefix))
+        for prefix in BOILERPLATE_PREFIXES
+    ):
+        return True
+    return False
+
+
 def extract_cards_from_release(release: dict[str, Any], themes: dict[str, dict[str, Any]]) -> list[dict[str, Any]]:
     lines = split_release_lines(release.get("body", "")) or [release["title"]]
     cards = []
     seen_card_ids: set[str] = set()
+    source_release = release.get("release_id") or (
+        f"{release['product']}-{release['date']}-"
+        f"{slugify(release.get('version') or release['title'])}"
+    )
+    release_scoped_identity = (
+        source_release
+        if release.get("release_id") and release.get("source_type") != "fixture"
+        else None
+    )
     for line in lines:
         classification = classify_theme(line, themes)
-        card_id = card_id_for(release["product"], release["date"], line)
+        if should_skip_line(line, classification):
+            continue
+        if classification["theme"] == "__candidate__":
+            hint = semantic_theme_hint(f"{release['title']} {line}", themes)
+            if hint:
+                classification = {
+                    "theme": hint,
+                    "theme_resolution": "manual-semantic-rule-v1",
+                    "theme_matches": classification.get("theme_matches", []),
+                }
+        card_id = card_id_for(
+            release["product"],
+            release["date"],
+            line,
+            source_release=release_scoped_identity,
+        )
         if card_id in seen_card_ids:
             continue
         seen_card_ids.add(card_id)
@@ -156,7 +357,7 @@ def extract_cards_from_release(release: dict[str, Any], themes: dict[str, dict[s
             "card_id": card_id,
             "product": release["product"],
             "product_name": release["product_name"],
-            "source_release": f"{release['product']}-{release['date']}-{slugify(release.get('version') or release['title'])}",
+            "source_release": source_release,
             "date": release["date"],
             "title": line[:80],
             "slug": slugify(line)[:80].strip("-"),
@@ -165,7 +366,7 @@ def extract_cards_from_release(release: dict[str, Any], themes: dict[str, dict[s
             "description": line,
             "comparison": "",
             "evidence": [{"source_release": release.get("source_url", ""), "quote": line}],
-            "extractor_version": "fallback-v1",
+            "extractor_version": "fallback-v2" if release_scoped_identity else "fallback-v1",
         }
         card.update({key: value for key, value in classification.items() if key != "theme"})
         if impact in {"significant", "paradigm-shift"}:

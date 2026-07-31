@@ -15,14 +15,24 @@ from _scripts.collect import (
     fetch_github_releases,
     fetch_rss_releases,
     load_sources,
+    parse_chatgpt_changelog,
+    parse_cursor_changelog_page,
     positive_int,
 )
 
 
 def test_load_sources_returns_enabled_products():
     products = load_sources(Path("_scripts/sources.yaml"))
-    assert len(products) >= 5
-    assert all(product["feed_type"] in {"github_releases", "blog_rss"} for product in products)
+    assert {product["name"] for product in products} == {
+        "chatgpt",
+        "claude-code",
+        "cursor",
+    }
+    assert {product["feed_type"] for product in products} == {
+        "chatgpt_changelog",
+        "github_releases",
+        "cursor_changelog",
+    }
 
 
 def test_collect_fixture_writes_normalized_releases(tmp_path: Path):
@@ -141,34 +151,123 @@ def test_fetch_github_releases_normalizes_api_items(monkeypatch):
     )
 
     assert calls["url"] == "https://api.github.com/repos/acme/tool/releases"
-    assert calls["params"] == {"per_page": 100}
+    assert calls["params"] == {"per_page": 100, "page": 1}
     assert calls["follow_redirects"] is True
     assert calls["raised"] is True
-    assert releases == [
-        {
-            "product": "tool",
-            "product_name": "Tool",
-            "date": "2026-06-20",
-            "version": "v1.2.3",
-            "title": "Release 1.2.3",
-            "body": "Ship the thing",
-            "source_url": "https://github.com/acme/tool/releases/tag/v1.2.3",
-            "source_type": "github_releases",
+    assert len(releases) == 1
+    assert releases[0] | {} == {
+        "release_id": releases[0]["release_id"],
+        "product": "tool",
+        "product_name": "Tool",
+        "date": "2026-06-20",
+        "version": "v1.2.3",
+        "title": "Release 1.2.3",
+        "body": "Ship the thing",
+        "source_summary": "Ship the thing",
+        "source_url": "https://github.com/acme/tool/releases/tag/v1.2.3",
+        "source_type": "github_releases",
+    }
+    assert releases[0]["release_id"].startswith("tool-2026-06-20-")
+
+
+def test_fetch_github_releases_paginates_beyond_first_page(monkeypatch):
+    calls = []
+
+    class Response:
+        def __init__(self, items):
+            self.items = items
+
+        def raise_for_status(self):
+            pass
+
+        def json(self):
+            return self.items
+
+    def item(index):
+        return {
+            "id": index,
+            "published_at": "2026-06-20T10:11:12Z",
+            "tag_name": f"v{index}",
+            "name": f"Release {index}",
+            "body": "Release body",
+            "html_url": f"https://github.com/acme/tool/releases/tag/v{index}",
         }
-    ]
 
-
-def test_fetch_github_releases_rejects_limit_over_first_page(monkeypatch):
     def fake_get(*args, **kwargs):
-        raise AssertionError("GitHub request should not be made for an invalid limit")
+        page = kwargs["params"]["page"]
+        calls.append(page)
+        return Response([item(index) for index in range(100)] if page == 1 else [item(100)])
 
     monkeypatch.setattr(collect.httpx, "get", fake_get)
 
-    with pytest.raises(ValueError, match="limit.*100"):
-        fetch_github_releases(
-            {"name": "tool", "display_name": "Tool", "repo": "acme/tool"},
-            limit=101,
-        )
+    releases = fetch_github_releases(
+        {"name": "tool", "display_name": "Tool", "repo": "acme/tool"},
+        limit=101,
+    )
+
+    assert calls == [1, 2]
+    assert len(releases) == 101
+
+
+def test_parse_cursor_changelog_page_extracts_release_and_next_page():
+    product = {
+        "name": "cursor",
+        "display_name": "Cursor",
+        "url": "https://cursor.com/changelog",
+    }
+    html = """
+    <main>
+      <article>
+        <time dateTime="2026-07-10T00:00:00.000Z">Jul 10, 2026</time>
+        <span class="label">3.11</span>
+        <h1><a href="/changelog/side-chat">Side Chats</a></h1>
+        <div class="prose prose--block"><p>Search agent transcripts from the editor.</p></div>
+      </article>
+      <a href="/changelog/page/2">Older posts</a>
+    </main>
+    """
+
+    releases, pages = parse_cursor_changelog_page(product, html)
+
+    assert pages == {2}
+    assert len(releases) == 1
+    assert releases[0]["date"] == "2026-07-10"
+    assert releases[0]["version"] == "3.11"
+    assert releases[0]["title"] == "Side Chats"
+    assert releases[0]["source_url"] == "https://cursor.com/changelog/side-chat"
+
+
+def test_parse_chatgpt_changelog_splits_same_day_entries_and_filters_codex_only():
+    product = {
+        "name": "chatgpt",
+        "display_name": "ChatGPT",
+        "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    }
+    html = """
+    <article>
+      <h1>ChatGPT — Release Notes</h1>
+      <h1>July 29, 2026</h1>
+      <h2 id="researchers">ChatGPT for Academic Researchers</h2>
+      <p>A dedicated ChatGPT workspace is available.</p>
+      <h2 id="signin">Sign in with ChatGPT</h2>
+      <p>Supported partners can use ChatGPT sign in.</p>
+      <h2 id="codex">Updates to Codex</h2>
+      <p>Codex received an update.</p>
+      <h1>March 10, 2026</h1>
+      <h3 id="learning">Interactive learning</h3>
+      <p>Math and science lessons are interactive.</p>
+    </article>
+    """
+
+    releases = parse_chatgpt_changelog(product, html, limit=None)
+
+    assert [release["title"] for release in releases] == [
+        "ChatGPT for Academic Researchers",
+        "Sign in with ChatGPT",
+        "Interactive learning",
+    ]
+    assert len({release["release_id"] for release in releases}) == 3
+    assert releases[0]["source_url"].endswith("#researchers")
 
 
 def test_fetch_rss_releases_normalizes_feed_entries(monkeypatch):
@@ -217,18 +316,19 @@ def test_fetch_rss_releases_normalizes_feed_entries(monkeypatch):
         "raised": True,
         "parsed_content": b"<rss>release feed</rss>",
     }
-    assert releases == [
-        {
-            "product": "blog",
-            "product_name": "Blog",
-            "date": "2026-06-26",
-            "version": "entry-1",
-            "title": "RSS release",
-            "body": "RSS body",
-            "source_url": "https://example.com/releases/1",
-            "source_type": "blog_rss",
-        }
-    ]
+    assert len(releases) == 1
+    assert releases[0] == {
+        "release_id": releases[0]["release_id"],
+        "product": "blog",
+        "product_name": "Blog",
+        "date": "2026-06-26",
+        "version": "entry-1",
+        "title": "RSS release",
+        "body": "RSS body",
+        "source_summary": "RSS body",
+        "source_url": "https://example.com/releases/1",
+        "source_type": "blog_rss",
+    }
 
 
 def test_fetch_rss_releases_raises_for_bozo_feed(monkeypatch):
@@ -323,8 +423,9 @@ products:
 
     def fake_github(product, limit):
         return [
-            {
-                "product": product["name"],
+                {
+                    "release_id": f"{product['name']}-release",
+                    "product": product["name"],
                 "product_name": product["display_name"],
                 "date": "2026-06-20" if product["name"] == "later" else "2026-01-01",
                 "title": product["display_name"],
@@ -389,8 +490,9 @@ products:
     def fake_github(product, limit):
         called_products.append(product["name"])
         return [
-            {
-                "product": product["name"],
+                {
+                    "release_id": f"{product['name']}-release",
+                    "product": product["name"],
                 "product_name": product["display_name"],
                 "date": "2026-01-01",
                 "title": product["display_name"],
@@ -432,8 +534,9 @@ products:
     def fake_github(product, limit):
         called_products.append(product["name"])
         return [
-            {
-                "product": product["name"],
+                {
+                    "release_id": f"{product['name']}-release",
+                    "product": product["name"],
                 "product_name": product["display_name"],
                 "date": "2026-01-01",
                 "title": product["display_name"],
@@ -481,7 +584,7 @@ products:
 def test_main_uses_backfill_default_limit(monkeypatch):
     captured = {}
 
-    def fake_collect_live(sources_path, output_path, limit, backfill=None):
+    def fake_collect_live(sources_path, output_path, limit, backfill=None, snapshot_paths=None):
         captured.update({"sources_path": sources_path, "limit": limit, "backfill": backfill})
         return {"source": "live", "releases": [], "errors": []}
 
@@ -497,7 +600,7 @@ def test_main_uses_backfill_default_limit(monkeypatch):
 
     assert captured == {
         "sources_path": collect.ROOT / "_scripts/sources.yaml",
-        "limit": 100,
+        "limit": None,
         "backfill": "cursor",
     }
 
@@ -505,7 +608,7 @@ def test_main_uses_backfill_default_limit(monkeypatch):
 def test_main_keeps_explicit_limit_for_backfill(monkeypatch):
     captured = {}
 
-    def fake_collect_live(sources_path, output_path, limit, backfill=None):
+    def fake_collect_live(sources_path, output_path, limit, backfill=None, snapshot_paths=None):
         captured.update({"limit": limit, "backfill": backfill})
         return {"source": "live", "releases": [], "errors": []}
 

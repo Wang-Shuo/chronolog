@@ -29,3 +29,73 @@ themes:
     aliases: [team, teams, collaboration, sharing, multiplayer]
     category: workflow
     status: official
+  - slug: multimodal
+    display_name: Multimodal Input
+    aliases: [multimodal, vision, image-input, screen-sharing, screen-share, camera]
+    category: capability
+    status: official
+  - slug: voice
+    display_name: Voice and Audio
+    aliases: [voice, audio, dictation, speech-to-text, transcription, spoken]
+    category: capability
+    status: official
+  - slug: memory
+    display_name: Memory and Personalization
+    aliases: [memory, memories, personalization, custom-instructions, personality]
+    category: capability
+    status: official
+  - slug: image-generation
+    display_name: Image Generation
+    aliases: [image-generation, generate-images, generated-images, dall-e, gpt-image, image-library]
+    category: capability
+    status: official
+  - slug: search-browsing
+    display_name: Search and Browsing
+    aliases: [web-search, browsing, browse, deep-research, search-results, shopping-research]
+    category: capability
+    status: official
+  - slug: apps-integrations
+    display_name: Apps and Integrations
+    aliases: [apps, app-directory, connectors, connector, plugins, plugin, integration, integrations, mcp]
+    category: ecosystem
+    status: official
+  - slug: safety-privacy
+    display_name: Safety and Privacy
+    aliases: [safety, privacy, security, lockdown, parental-controls, age-prediction, data-protection]
+    category: trust
+    status: official
+  - slug: enterprise-admin
+    display_name: Enterprise and Administration
+    aliases: [enterprise, administrator, admins, admin-controls, workspace-controls, business-plan, education-plan]
+    category: business
+    status: official
+  - slug: mobile-desktop
+    display_name: Mobile and Desktop
+    aliases: [mobile, desktop, ios, android, macos, windows, ipad, iphone, whatsapp, carplay]
+    category: platform
+    status: official
+  - slug: interface-experience
+    display_name: Interface Experience
+    aliases: [user-interface, sidebar, navigation, keyboard-shortcut, keybinding, picker, menu, composer-ui]
+    category: workflow
+    status: official
+  - slug: developer-workflow
+    display_name: Developer Workflow
+    aliases: [terminal, language-server, lsp, pull-request, code-review, code-intelligence, developer-tools]
+    category: workflow
+    status: official
+  - slug: file-data
+    display_name: Files and Data
+    aliases: [file-upload, file-library, data-analysis, spreadsheets, documents, pdf-export, canvas]
+    category: capability
+    status: official
+  - slug: account-access
+    display_name: Account and Access
+    aliases: [login, sign-in, authentication, oauth, account-security, account-controls]
+    category: platform
+    status: official
+  - slug: reliability-performance
+    display_name: Reliability and Performance
+    aliases: [performance, latency, faster, speed, responsiveness, stability]
+    category: quality
+    status: official

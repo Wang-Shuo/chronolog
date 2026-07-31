@@ -1,10 +1,32 @@
 products:
+  - name: chatgpt
+    display_name: ChatGPT
+    feed_type: chatgpt_changelog
+    url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    backfill: full
+    themes: [multimodal, voice, memory, image-generation, search-browsing, apps-integrations, safety-privacy, enterprise-admin, mobile-desktop, model-support, pricing-model]
+    track_silence: true
+    silence_window: month
+    silence_periods: 2
+    silence_baseline_factor: 0.5
+    language: en
+  - name: claude-code
+    display_name: Claude Code
+    feed_type: github_releases
+    repo: anthropics/claude-code
+    backfill: full
+    themes: [agent-mode, context-window, model-support, editor-experience, collaboration, apps-integrations, safety-privacy]
+    track_silence: true
+    silence_window: month
+    silence_periods: 2
+    silence_baseline_factor: 0.5
+    language: en
   - name: cursor
     display_name: Cursor
-    feed_type: github_releases
-    repo: getcursor/cursor
+    feed_type: cursor_changelog
+    url: https://cursor.com/changelog
     backfill: full
-    themes: [agent-mode, context-window, model-support, editor-experience]
+    themes: [agent-mode, context-window, model-support, editor-experience, collaboration, apps-integrations, enterprise-admin, mobile-desktop, pricing-model]
     track_silence: true
     silence_window: month
     silence_periods: 2
@@ -12,6 +34,7 @@ products:
     language: en
   - name: aider
     display_name: Aider
+    enabled: false
     feed_type: github_releases
     repo: Aider-AI/aider
     backfill: full
@@ -23,6 +46,7 @@ products:
     language: en
   - name: continue
     display_name: Continue
+    enabled: false
     feed_type: github_releases
     repo: continuedev/continue
     backfill: full
@@ -34,6 +58,7 @@ products:
     language: en
   - name: tabby
     display_name: Tabby
+    enabled: false
     feed_type: github_releases
     repo: TabbyML/tabby
     backfill: full
@@ -45,6 +70,7 @@ products:
     language: en
   - name: openhands
     display_name: OpenHands
+    enabled: false
     feed_type: github_releases
     repo: All-Hands-AI/OpenHands
     backfill: full

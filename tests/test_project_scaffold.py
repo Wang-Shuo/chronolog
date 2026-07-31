@@ -16,6 +16,8 @@ def test_project_configs_and_fixture_are_present():
     assert {product["feed_type"] for product in sources["products"]} <= {
         "github_releases",
         "blog_rss",
+        "chatgpt_changelog",
+        "cursor_changelog",
     }
     assert {"agent-mode", "context-window", "pricing-model"} <= {
         theme["slug"] for theme in themes["themes"]

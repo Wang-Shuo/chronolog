@@ -51,15 +51,15 @@ def test_extractor_marks_candidate_theme_when_no_alias_matches():
         "product_name": "Cursor",
         "date": "2026-04-01",
         "version": "v1.1",
-        "title": "Mobile companion",
-        "body": "- New mobile companion app for reviewing conversations",
+        "title": "Novel renderer",
+        "body": "- New quasar renderer for reviewing geometric palettes",
         "source_url": "https://example.com",
     }
 
     cards = extract_cards_from_release(release, themes)
 
     assert cards[0]["theme"] == "__candidate__"
-    assert cards[0]["theme_suggestion"] == "mobile-companion"
+    assert cards[0]["theme_suggestion"] == "quasar-renderer"
 
 
 def test_extractor_does_not_match_theme_or_impact_inside_words():
@@ -143,7 +143,7 @@ def test_theme_ranking_prefers_canonical_match_over_generic_alias():
     assert cards[0]["theme_matches"][0]["matched_terms"] == ["collaboration"]
 
 
-def test_extractor_quarantines_ambiguous_theme_for_review():
+def test_extractor_resolves_known_ambiguous_theme_with_semantic_rule():
     themes = load_theme_vocabulary("_scripts/themes.yaml")
 
     cards = extract_cards_from_release(
@@ -151,12 +151,26 @@ def test_extractor_quarantines_ambiguous_theme_for_review():
         themes,
     )
 
-    assert cards[0]["theme"] == "__candidate__"
-    assert cards[0]["theme_review_reason"] == "ambiguous_match"
+    assert cards[0]["theme"] == "collaboration"
+    assert cards[0]["theme_resolution"] == "manual-semantic-rule-v1"
     assert [match["theme"] for match in cards[0]["theme_matches"][:2]] == [
         "agent-mode",
         "collaboration",
     ]
+
+
+def test_extractor_skips_generic_headings_instructions_and_unclassified_bugfixes():
+    themes = load_theme_vocabulary("_scripts/themes.yaml")
+    release = release_with_body(
+        "# New Features\n"
+        "- Learn more in our documentation\n"
+        "- Fixed a crash when opening an empty panel\n"
+        "- Terminal now supports code review workflows\n"
+    )
+
+    cards = extract_cards_from_release(release, themes)
+
+    assert [card["theme"] for card in cards] == ["developer-workflow"]
 
 
 def test_extractor_adds_ai_fields_only_for_high_impact_cards():
@@ -208,7 +222,7 @@ def test_extract_run_writes_candidate_review_queue():
     try:
         write_json(
             paths.collected,
-            {"releases": [release_with_body("- New mobile companion app for review")]},
+            {"releases": [release_with_body("- New quasar renderer for geometric palettes")]},
         )
 
         cards = extract_run(run_id)

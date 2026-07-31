@@ -82,6 +82,11 @@ def validate_card(card: dict[str, Any], themes: set[str]) -> list[str]:
             str(card["product"]),
             str(card["date"]),
             str(evidence[0]["quote"]),
+            source_release=(
+                str(card.get("source_release", "")) or None
+                if card.get("extractor_version") == "fallback-v2"
+                else None
+            ),
         )
         if card.get("card_id") != expected_card_id:
             errors.append("card_id does not match primary evidence")
@@ -156,11 +161,17 @@ def normalize_wikilink_target(raw: str) -> str:
     return target[:-3] if target.endswith(".md") else target
 
 
-def validate_vault_links(root: Path) -> dict[str, Any]:
+def validate_vault_links(
+    root: Path,
+    collected_releases: list[dict[str, Any]] | None = None,
+) -> dict[str, Any]:
     files = vault_markdown_files(root)
     relative_targets: dict[str, Path] = {}
     basename_targets: dict[str, list[Path]] = defaultdict(list)
     card_targets: dict[str, list[Path]] = defaultdict(list)
+    release_targets: dict[str, list[Path]] = defaultdict(list)
+    active_release_ids: set[str] = set()
+    active_release_products: dict[Path, str] = {}
     superseded_cards: set[str] = set()
 
     for path in files:
@@ -173,6 +184,13 @@ def validate_vault_links(root: Path) -> dict[str, Any]:
             card_targets[str(card_id)].append(path)
             if post.metadata.get("superseded") is True:
                 superseded_cards.add(str(card_id))
+        release_id = post.metadata.get("release_id")
+        if release_id:
+            release_targets[str(release_id)].append(path)
+            if post.metadata.get("superseded") is not True:
+                active_release_ids.add(str(release_id))
+        if "release" in (post.metadata.get("tags") or []) and post.metadata.get("superseded") is not True:
+            active_release_products[path] = str(post.metadata.get("product", ""))
 
     errors = [
         {
@@ -184,6 +202,52 @@ def validate_vault_links(root: Path) -> dict[str, Any]:
         if len(paths) > 1
         for path in paths
     ]
+    errors.extend(
+        {
+            "file": str(path.relative_to(root)),
+            "link": release_id,
+            "error": "duplicate release_id in Vault",
+        }
+        for release_id, paths in release_targets.items()
+        if len(paths) > 1
+        for path in paths
+    )
+    if collected_releases is not None:
+        expected_release_ids = {
+            str(release["release_id"]) for release in collected_releases
+        }
+        expected_products = {
+            str(release["product"]) for release in collected_releases
+        }
+        for release_id in sorted(expected_release_ids - active_release_ids):
+            errors.append(
+                {
+                    "file": "Releases",
+                    "link": release_id,
+                    "error": "collected release has no active Release page",
+                }
+            )
+        for path, product in active_release_products.items():
+            if product not in expected_products:
+                continue
+            post = frontmatter.load(path)
+            release_id = str(post.metadata.get("release_id", ""))
+            if not release_id:
+                errors.append(
+                    {
+                        "file": str(path.relative_to(root)),
+                        "link": "",
+                        "error": "active Release page is missing release_id",
+                    }
+                )
+            elif release_id not in expected_release_ids:
+                errors.append(
+                    {
+                        "file": str(path.relative_to(root)),
+                        "link": release_id,
+                        "error": "active Release page is absent from collected snapshot",
+                    }
+                )
     links_checked = 0
 
     def resolve_target(target: str) -> Path | None:
@@ -206,6 +270,9 @@ def validate_vault_links(root: Path) -> dict[str, Any]:
                         "error": "unresolved wikilink",
                     }
                 )
+
+        if post.metadata.get("superseded") is True:
+            continue
 
         relation_values = {
             "evolves_from": post.metadata.get("evolves_from", []) or [],
@@ -244,11 +311,27 @@ def validate_vault_links(root: Path) -> dict[str, Any]:
                         }
                     )
 
-    return {
+    expected_release_count = (
+        len({str(release["release_id"]) for release in collected_releases})
+        if collected_releases is not None
+        else None
+    )
+    report = {
         "files_checked": len(files),
         "links_checked": links_checked,
         "errors": errors,
     }
+    if expected_release_count is not None:
+        report.update(
+            {
+                "expected_release_count": expected_release_count,
+                "active_release_count": len(
+                    active_release_ids
+                    & {str(release["release_id"]) for release in collected_releases}
+                ),
+            }
+        )
+    return report
 
 
 def main() -> None:
@@ -258,7 +341,8 @@ def main() -> None:
     args = parser.parse_args()
     if args.round == "2":
         paths = PipelinePaths(args.run_id)
-        report = validate_vault_links(ROOT)
+        collected = read_json(paths.collected)
+        report = validate_vault_links(ROOT, collected.get("releases", []))
         write_json(paths.validation_round2, report)
         if report["errors"]:
             raise SystemExit(1)
