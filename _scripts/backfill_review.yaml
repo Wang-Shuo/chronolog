@@ -362,7 +362,6 @@ decisions:
   claude-code-2026-03-04-7ebdae: model-support
   claude-code-2026-03-06-59482b: skip
   claude-code-2026-03-06-230546: reliability-performance
-  claude-code-2026-03-07-07cae2: reliability-performance
   chatgpt-2026-03-10-76a90b: skip
   chatgpt-2026-03-10-d96e8f: skip
   chatgpt-2026-03-10-042337: skip
@@ -436,7 +435,6 @@ decisions:
   chatgpt-2026-07-13-68bda1: apps-integrations
   claude-code-2026-07-14-7fcf5d: editor-experience
   claude-code-2026-07-14-aa590e: interface-experience
-  claude-code-2026-07-18-9a173f: developer-workflow
   claude-code-2026-07-21-5131b9: reliability-performance
   cursor-2026-07-22-d35395: model-support
   chatgpt-2026-07-23-ef9561: skip
