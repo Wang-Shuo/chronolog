@@ -1,0 +1,31 @@
+---
+changes_count: 1
+date: '2026-04-22'
+machine_hash: 09a22bb5e465bf51136a62d96eb69c9b8139c5d04561a95f1af9c83942954ba4
+product: chatgpt
+product_name: ChatGPT
+release_id: chatgpt-2026-04-22-chatgpt-for-clinicians-4ccc54d7
+source_release: ChatGPT for Clinicians
+source_type: chatgpt_changelog
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-for-clinicians
+tags:
+- release
+- chatgpt
+version: ChatGPT for Clinicians
+---
+
+# ChatGPT ChatGPT for Clinicians
+
+## Summary
+<!-- chronolog:begin region="summary" -->
+We’re launching ChatGPT for Clinicians, a free version of ChatGPT for verified clinicians in the United States. It’s designed to support real clinical work at the time of care, including evidence review, documentation, and medical research, with trusted clinical search, citations, reusable skills, deep research across…
+
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-for-clinicians)
+
+Tracked cards: 1
+<!-- chronolog:end -->
+
+## Change Cards
+<!-- chronolog:begin region="cards" -->
+- account-access: [[Changes/ChatGPT/2026-04-22-we-re-launching-chatgpt-for-clinicians-a-free-version-of-chatgpt-for-verified-cl|We’re launching ChatGPT for Clinicians, a free version of ChatGPT for verified c]]
+<!-- chronolog:end -->

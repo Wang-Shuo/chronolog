@@ -11,12 +11,13 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v1
 impact: paradigm-shift
-machine_hash: e209a523a952e1acfa39d6a45c5bfca1a9b360860e9ed676f20a437f632b1413
+machine_hash: 78a70f3e82678eef4179c49dfedf35476ebd13736d4a2857ccca28c7f8da7266
 product: cursor
 product_name: Cursor
 related_changes:
 - '[[Changes/Continue/2023-05-01-context-providers-now-index-workspace-symbols|continue-2023-05-01-a04fa0]]'
 source_release: '[[Releases/Cursor/2025-03-15-cursor-2025-03-15-v0-38|cursor-2025-03-15-v0-38]]'
+superseded: true
 theme: context-window
 type: change
 ---

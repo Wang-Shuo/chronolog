@@ -11,13 +11,14 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v1
 impact: paradigm-shift
-machine_hash: 1a1b06e322550f3b19318fcab854f133ef6b32ed39f8e8d3932a2321590106fe
+machine_hash: 5d2628e67b6279a59ce99fae92a03292cfce0b18c05a129ae4256da6063a0e44
 product: cursor
 product_name: Cursor
 related_changes:
 - '[[Changes/OpenHands/2023-06-21-agent-runtime-can-execute-shell-commands-in-a-sandbox|openhands-2023-06-21-ebc797]]'
 - '[[Changes/Aider/2025-01-20-agent-workflow-can-inspect-repository-files-before-edits|aider-2025-01-20-d2e795]]'
 source_release: '[[Releases/Cursor/2025-03-15-cursor-2025-03-15-v0-38|cursor-2025-03-15-v0-38]]'
+superseded: true
 theme: agent-mode
 type: change
 ---

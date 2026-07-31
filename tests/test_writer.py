@@ -69,6 +69,14 @@ def test_render_theme_markdown_contains_mermaid_timeline(tmp_path: Path):
     assert "Cursor" in markdown
 
 
+def test_render_theme_markdown_strips_trailing_timeline_whitespace():
+    card = {**change_card(), "title": "Agent shell   "}
+
+    markdown = render_theme_markdown("agent-mode", [card])
+
+    assert not any(line.endswith(" ") for line in markdown.splitlines())
+
+
 def test_write_markdown_file_detects_machine_region_edits(tmp_path: Path):
     target = tmp_path / "change.md"
     card = {
@@ -134,6 +142,18 @@ def test_change_card_paths_reuses_existing_path_for_stable_card_id(tmp_path: Pat
 
     assert duplicates == []
     assert paths[renamed_card["card_id"]] == target
+
+
+def test_change_card_paths_disambiguates_same_date_and_slug(tmp_path: Path):
+    first = change_card()
+    second = {**change_card(), "card_id": "cursor-2025-02-01-bbbbbb"}
+
+    paths, duplicates = change_card_paths(tmp_path, [first, second])
+
+    assert duplicates == []
+    assert paths[first["card_id"]].name == "2025-02-01-agent-shell.md"
+    assert paths[second["card_id"]].name == "2025-02-01-agent-shell-bbbbbb.md"
+    assert len(set(paths.values())) == 2
 
 
 def test_reconcile_missing_change_cards_marks_superseded_without_deleting(tmp_path: Path):

@@ -231,6 +231,25 @@ def test_validate_vault_links_requires_rendered_relation_wikilinks(tmp_path: Pat
     }
 
 
+def test_validate_vault_links_reports_missing_valid_change_card(tmp_path: Path):
+    expected = {
+        "card_id": "cursor-2026-01-01-bbbbbb",
+        "product": "cursor",
+    }
+
+    report = validate_vault_links(tmp_path, valid_cards=[expected])
+
+    assert report["expected_card_count"] == 1
+    assert report["active_card_count"] == 0
+    assert report["errors"] == [
+        {
+            "file": "Changes",
+            "link": expected["card_id"],
+            "error": "valid Change Card has no active Vault page",
+        }
+    ]
+
+
 def test_direct_cli_invocation_writes_valid_cards_and_dlq_for_round_one():
     run_id = f"pytest-validate-{uuid4().hex}"
     paths = PipelinePaths(run_id)

@@ -20,28 +20,79 @@ IMPACT_WORDS = {
 AMBIGUITY_MARGIN = 25
 GENERIC_HEADING_RE = re.compile(
     r"^(?:#+\s*)?(?:new features?|features?|improvements?|bug fixes?|fixes?|"
-    r"other changes?|what'?s new|coming soon|changelog|release notes?|chores?)[:.!]?$",
+    r"other changes?|breaking changes?|what[’']?s (?:new|changed)|coming soon|changelog|"
+    r"release notes?|patches?(?: \(\d+\))?(?:↓↑)?|chores?|how it works|"
+    r"how to use it|key details|known limitations?|plan differences|"
+    r"this build includes|cursor start includes)[:.!]?$",
     re.I,
 )
 VERSION_ONLY_RE = re.compile(r"^v?\d+(?:\.\d+){0,3}(?:[- ]?\w+)?$", re.I)
 INSTRUCTION_PREFIXES = (
     "click on ",
+    "for details",
+    "go to ",
+    "let us know",
+    "navigate to ",
+    "please give ",
+    "please keep ",
+    "please let ",
+    "please report ",
     "select ",
+    "settings ->",
+    "this is very experimental",
     "toggle ",
     "to add ",
     "to enable ",
     "to get started ",
     "to share ",
     "to use ",
+    "try using ",
+    "we hope ",
     "learn more",
     "read more",
     "see:",
 )
 BUGFIX_PREFIX_RE = re.compile(
-    r"^(?:hotfix|tiny fix|bugfix|fixed|fixes?|resolved|reverted|"
-    r"other fixes|various bugs|miscellaneous fixes)\b",
+    r"^(?:hotfix(?:es)?|tiny (?:bug )?fix|small fixes?|minor .{0,30}fixes?|"
+    r"bugfix|bug fixes|fixed|fix(?:es)?|resolved|reverted|patch(?:es)?|"
+    r"v?\d+(?:\.\d+)+:\s*(?:fixed|fix(?:es)?)|"
+    r"includes? (?:a |some )?fix|also fixes|this update fixes|"
+    r"update \([^)]*\):? fixes|more diff fixes|some .{0,30}fixes?|"
+    r"just includes bug fixes|other fixes|various bugs|miscellaneous fixes|"
+    r"internal fixes)\b",
     re.I,
 )
+BUGFIX_TEXT_RE = re.compile(
+    r"(?:\b(?:bug|issue|problem) (?:is |was )?(?:now )?fixed\b|"
+    r"\b(?:has|have) been (?:fixed|restored)\b|\bworks? again\b|"
+    r"\bbugs? .{0,40}\bsquashed\b|\bsupport has been restored\b)",
+    re.I,
+)
+SECURITY_FIX_RE = re.compile(
+    r"\b(?:security (?:issue|vulnerability)|vulnerability|cve-\d{4}-\d+|"
+    r"permission|workspace trust|consent)\b",
+    re.I,
+)
+LOW_SIGNAL_RE = re.compile(
+    r"^(?:other (?:bits of )?polish|other small changes|small things|"
+    r"a few other quality-of-life updates|updated some css|"
+    r"internal infrastructure improvements(?: \(no user-facing changes\))?|"
+    r"bug fixes and reliability improvements|cursor \d+(?:\.\d+)? is now available|"
+    r"stability(?: improvements| \(\d+\)↓↑)|category: .+|"
+    r"access to advanced data analysis|requires a remote mcp server)[.!]?$",
+    re.I,
+)
+AVAILABILITY_PREFIXES = (
+    "availability:",
+    "at launch, this experience is available",
+    "available on all chatgpt plans",
+    "rollout begins today",
+    "this feature is available today",
+    "this feature is not yet available",
+    "this was previously made available",
+    "note this feature is currently limited",
+)
+BARE_LOCALE_RE = re.compile(r"^[A-Za-z][A-Za-z ]+ \([a-z]{2}(?:-[A-Za-z]{2,4})?\)$")
 BOILERPLATE_PREFIXES = (
     "we're excited",
     "we’re excited",
@@ -72,7 +123,67 @@ SEMANTIC_THEME_RULES: tuple[tuple[str, tuple[str, ...]], ...] = (
     ),
     (
         "pricing-model",
-        ("price", "pricing", "billing", "cost", "subscription", "credits"),
+        (
+            "price",
+            "pricing",
+            "billing",
+            "cost",
+            "subscription",
+            "credits",
+            "purchase chatgpt plus",
+            "bills monthly",
+            "$20/month",
+            "$200/month",
+        ),
+    ),
+    (
+        "automation-scheduling",
+        (
+            "automation",
+            "automations",
+            "automated prompt",
+            "scheduled task",
+            "recurring prompt",
+            "cron",
+            "scheduler",
+            "schedule",
+            "/loop",
+            "/proactive",
+        ),
+    ),
+    (
+        "projects-workspaces",
+        (
+            "start a new project",
+            "project directly from a chat",
+            "project context",
+            "projects bring your chats",
+            "project workspace",
+            "conversation branch",
+            "branch conversations",
+            "composer history",
+            "session history",
+            "forking sessions",
+            "resume sessions",
+            "session resume",
+        ),
+    ),
+    (
+        "accessibility-localization",
+        (
+            "accessibility",
+            "screen reader",
+            "language pack",
+            "languages in the interface",
+            "japanese ime",
+            "full width zenkaku",
+            "internationalization",
+            "localized",
+        ),
+    ),
+    (
+        "learning-tools",
+        ("study mode", "learning experience", "socratic style", "guide understanding"),
     ),
     (
         "image-generation",
@@ -96,7 +207,24 @@ SEMANTIC_THEME_RULES: tuple[tuple[str, tuple[str, ...]], ...] = (
     ),
     (
         "apps-integrations",
-        ("plugin", "connector", "integration", "app directory", "mcp"),
+        (
+            "plugin",
+            "connector",
+            "integration",
+            "app directory",
+            "mcp",
+            "extension marketplace",
+            "extensions",
+            "azure openai",
+            "jira",
+            "slack",
+            "github app",
+            "sdk",
+            "hook event",
+            "hooks",
+            "browser controls",
+            "remote control",
+        ),
     ),
     (
         "enterprise-admin",
@@ -104,7 +232,20 @@ SEMANTIC_THEME_RULES: tuple[tuple[str, tuple[str, ...]], ...] = (
     ),
     (
         "mobile-desktop",
-        ("mobile", "desktop", "ios", "android", "macos", "windows", "ipad", "iphone"),
+        (
+            "mobile",
+            "desktop",
+            "ios",
+            "android",
+            "macos",
+            "windows app",
+            "windows desktop",
+            "windows support",
+            "on windows",
+            "for windows",
+            "ipad",
+            "iphone",
+        ),
     ),
     (
         "context-window",
@@ -112,7 +253,19 @@ SEMANTIC_THEME_RULES: tuple[tuple[str, tuple[str, ...]], ...] = (
     ),
     (
         "file-data",
-        ("file upload", "file library", "data analysis", "spreadsheet", "document", "pdf", "canvas"),
+        (
+            "file upload",
+            "uploaded files",
+            "file library",
+            "file type support",
+            "data analysis",
+            "code interpreter",
+            "spreadsheet",
+            "document",
+            "pdf",
+            "canvas",
+            "interactive chart",
+        ),
     ),
     (
         "interface-experience",
@@ -127,6 +280,50 @@ SEMANTIC_THEME_RULES: tuple[tuple[str, tuple[str, ...]], ...] = (
             "rendering",
             "autocomplete",
             "completion",
+            "stop generating",
+            "hotkey",
+            "chat history",
+            "select and copy",
+            "scrollbar",
+            "chat styling",
+            "tooltip",
+            "keyboard ergonomics",
+            "activity bar",
+            "onboarding",
+            "full screen",
+            "fullscreen",
+            "status indicator",
+            "prompt footer",
+            "progress indicator",
+            "spinner",
+            "message composer",
+            "focus mode",
+            "selection",
+            "copy shortcut",
+            "conversation search",
+            "interaction improvements",
+        ),
+    ),
+    (
+        "editor-experience",
+        (
+            "editor",
+            "edit",
+            "edits",
+            "diff",
+            "cmd k",
+            "cmd-k",
+            "copilot++",
+            "cursor prediction",
+            "apply chat suggestion",
+            "apply chat suggestions",
+            "lint error",
+            "codebase",
+            "multi file",
+            "multi-file",
+            "word wrap",
+            "ghost text",
+            "intellisense",
         ),
     ),
     (
@@ -143,11 +340,36 @@ SEMANTIC_THEME_RULES: tuple[tuple[str, tuple[str, ...]], ...] = (
             "command",
             "diff",
             "task management",
+            "git",
+            "github pr",
+            "worktree",
+            "dev container",
+            "remote ssh",
+            "wsl",
+            "linter",
+            "debug mode",
+            "/debug",
+            "code block",
+            "codeblocks",
+            "pull requests",
+            "pr review",
+            "commit",
         ),
     ),
     (
         "reliability-performance",
-        ("performance", "latency", "faster", "speed", "responsiveness", "stability"),
+        (
+            "performance",
+            "latency",
+            "faster",
+            "speed",
+            "responsiveness",
+            "stability",
+            "more robust",
+            "significantly more stable",
+            "stalled api stream",
+            "progress heartbeat",
+        ),
     ),
     (
         "collaboration",
@@ -155,11 +377,45 @@ SEMANTIC_THEME_RULES: tuple[tuple[str, tuple[str, ...]], ...] = (
     ),
     (
         "agent-mode",
-        ("agent", "autonomous", "background session", "agent workflow"),
+        (
+            "agent",
+            "autonomous",
+            "background session",
+            "background script",
+            "agent workflow",
+            "subagent",
+            "auto mode",
+            "auto review",
+            "auto-review",
+            "interpreter mode",
+            "task tool",
+            "taskcreate",
+            "taskupdate",
+            "cloud environment",
+            "in-cloud",
+            "monitor tool",
+            "work for longer",
+        ),
     ),
     (
         "model-support",
-        ("model", "reasoning", "instruction following", "intelligence", "gpt", "claude"),
+        (
+            "model",
+            "reasoning",
+            "instruction following",
+            "intelligence",
+            "gpt 4",
+            "gpt 5",
+            "claude 3",
+            "claude opus",
+            "claude sonnet",
+            "sonnet",
+            "opus",
+            "gemini",
+            "o1",
+            "o3",
+            "o4",
+        ),
     ),
 )
 
@@ -195,12 +451,35 @@ def load_theme_vocabulary(path: str | Path) -> dict[str, dict[str, Any]]:
     return vocab
 
 
+def load_review_decisions(
+    path: str | Path,
+    themes: dict[str, dict[str, Any]],
+) -> dict[str, str]:
+    review_path = Path(path)
+    if not review_path.exists():
+        return {}
+    payload = read_yaml(review_path) or {}
+    decisions = {
+        str(card_id): str(disposition)
+        for card_id, disposition in (payload.get("decisions") or {}).items()
+    }
+    invalid = sorted(
+        {
+            disposition
+            for disposition in decisions.values()
+            if disposition != "skip" and disposition not in themes
+        }
+    )
+    if invalid:
+        raise ValueError(f"unknown themes in semantic review: {', '.join(invalid)}")
+    return decisions
+
+
 def split_release_lines(body: str) -> list[str]:
     lines = []
     for raw in body.splitlines():
         stripped = raw.strip()
-        if re.match(r"^#{1,6}(\s+|$)", stripped):
-            continue
+        stripped = re.sub(r"^#{1,6}\s*", "", stripped)
         line = re.sub(r"^(?:[-*]\s+|\d+[.)]\s+)", "", stripped).strip()
         if len(line) >= 12:
             lines.append(line)
@@ -297,17 +576,79 @@ def semantic_theme_hint(
     return None
 
 
+def semantic_preclassification_override(
+    text: str,
+    themes: dict[str, dict[str, Any]],
+) -> str | None:
+    normalized = normalize_match_text(text)
+    technical_memory_phrases = (
+        "memory allocation",
+        "memory issue",
+        "memory leak",
+        "memory overhead",
+        "memory pressure",
+        "memory usage",
+        "out of memory",
+    )
+    if "reliability-performance" in themes and any(
+        contains_phrase(normalized, phrase) for phrase in technical_memory_phrases
+    ):
+        return "reliability-performance"
+    if "safety-privacy" in themes and re.search(
+        r"\b(?:permission|privacy|sandbox|security (?:control|issue|review|vulnerability)|"
+        r"vulnerability|workspace trust|consent)\b",
+        text,
+        re.I,
+    ):
+        return "safety-privacy"
+    if "context-window" in themes and re.search(
+        r"\b(?:codebase context|context window|entire repo|long context|"
+        r"search through files)\b",
+        text,
+        re.I,
+    ):
+        return "context-window"
+    if "model-support" in themes and re.search(
+        r"\b(?:gpt ?4(?:o|\.\d+)?|gpt ?5(?:\.\d+)?|o[134](?:-pro|-mini)?|"
+        r"sonnet|opus|gemini)\b",
+        text,
+        re.I,
+    ):
+        return "model-support"
+    if "apps-integrations" in themes and re.search(r"\bgpt store\b", text, re.I):
+        return "apps-integrations"
+    if "file-data" in themes and re.search(
+        r"\b(?:financial|health|medical) context\b",
+        text,
+        re.I,
+    ):
+        return "file-data"
+    return None
+
+
 def should_skip_line(line: str, classification: dict[str, Any]) -> bool:
     normalized = normalize_match_text(line)
     visible = line.strip().lstrip("#").strip()
     if GENERIC_HEADING_RE.fullmatch(visible) or VERSION_ONLY_RE.fullmatch(visible):
+        return True
+    if LOW_SIGNAL_RE.fullmatch(visible) or BARE_LOCALE_RE.fullmatch(visible):
+        return True
+    if any(normalized.startswith(normalize_match_text(prefix)) for prefix in AVAILABILITY_PREFIXES):
+        return True
+    if (
+        re.match(r"^(?:available (?:only |on |to |for )|rolling out)", visible, re.I)
+        and len(normalized.split()) <= 35
+    ):
         return True
     if any(
         normalized.startswith(normalize_match_text(prefix))
         for prefix in INSTRUCTION_PREFIXES
     ):
         return True
-    if classification.get("theme_review_reason") == "no_match" and BUGFIX_PREFIX_RE.match(visible):
+    if (
+        (BUGFIX_PREFIX_RE.match(visible) or BUGFIX_TEXT_RE.search(visible))
+        and not SECURITY_FIX_RE.search(visible)
+    ):
         return True
     if classification.get("theme_review_reason") == "no_match" and any(
         normalized.startswith(normalize_match_text(prefix))
@@ -317,7 +658,11 @@ def should_skip_line(line: str, classification: dict[str, Any]) -> bool:
     return False
 
 
-def extract_cards_from_release(release: dict[str, Any], themes: dict[str, dict[str, Any]]) -> list[dict[str, Any]]:
+def extract_cards_from_release(
+    release: dict[str, Any],
+    themes: dict[str, dict[str, Any]],
+    review_decisions: dict[str, str] | None = None,
+) -> list[dict[str, Any]]:
     lines = split_release_lines(release.get("body", "")) or [release["title"]]
     cards = []
     seen_card_ids: set[str] = set()
@@ -331,23 +676,40 @@ def extract_cards_from_release(release: dict[str, Any], themes: dict[str, dict[s
         else None
     )
     for line in lines:
-        classification = classify_theme(line, themes)
-        if should_skip_line(line, classification):
-            continue
-        if classification["theme"] == "__candidate__":
-            hint = semantic_theme_hint(f"{release['title']} {line}", themes)
-            if hint:
-                classification = {
-                    "theme": hint,
-                    "theme_resolution": "manual-semantic-rule-v1",
-                    "theme_matches": classification.get("theme_matches", []),
-                }
         card_id = card_id_for(
             release["product"],
             release["date"],
             line,
             source_release=release_scoped_identity,
         )
+        review_decision = (review_decisions or {}).get(card_id)
+        if review_decision == "skip":
+            continue
+        classification = classify_theme(line, themes)
+        if review_decision:
+            classification = {
+                "theme": review_decision,
+                "theme_resolution": "manual-backfill-review-v1",
+                "theme_matches": classification.get("theme_matches", []),
+            }
+        else:
+            override = semantic_preclassification_override(line, themes)
+            if override:
+                classification = {
+                    "theme": override,
+                    "theme_resolution": "manual-semantic-rule-v2",
+                    "theme_matches": classification.get("theme_matches", []),
+                }
+        if not review_decision and should_skip_line(line, classification):
+            continue
+        if not review_decision and classification["theme"] == "__candidate__":
+            hint = semantic_theme_hint(line, themes)
+            if hint:
+                classification = {
+                    "theme": hint,
+                    "theme_resolution": "manual-semantic-rule-v1",
+                    "theme_matches": classification.get("theme_matches", []),
+                }
         if card_id in seen_card_ids:
             continue
         seen_card_ids.add(card_id)
@@ -359,7 +721,7 @@ def extract_cards_from_release(release: dict[str, Any], themes: dict[str, dict[s
             "product_name": release["product_name"],
             "source_release": source_release,
             "date": release["date"],
-            "title": line[:80],
+            "title": line[:80].rstrip(),
             "slug": slugify(line)[:80].strip("-"),
             "theme": classification["theme"],
             "impact": impact,
@@ -381,8 +743,16 @@ def extract_cards_from_release(release: dict[str, Any], themes: dict[str, dict[s
 def extract_run(run_id: str) -> list[dict[str, Any]]:
     paths = PipelinePaths(run_id)
     themes = load_theme_vocabulary(ROOT / "_scripts/themes.yaml")
+    review_decisions = load_review_decisions(
+        ROOT / "_scripts/backfill_review.yaml",
+        themes,
+    )
     releases = read_json(paths.collected)["releases"]
-    cards = [card for release in releases for card in extract_cards_from_release(release, themes)]
+    cards = [
+        card
+        for release in releases
+        for card in extract_cards_from_release(release, themes, review_decisions)
+    ]
     write_json(paths.extracted, {"run_id": run_id, "change_cards": cards})
     candidates = [
         {

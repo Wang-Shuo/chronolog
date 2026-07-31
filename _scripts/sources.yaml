@@ -4,7 +4,7 @@ products:
     feed_type: chatgpt_changelog
     url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
     backfill: full
-    themes: [multimodal, voice, memory, image-generation, search-browsing, apps-integrations, safety-privacy, enterprise-admin, mobile-desktop, model-support, pricing-model]
+    themes: [multimodal, voice, memory, image-generation, search-browsing, apps-integrations, safety-privacy, enterprise-admin, mobile-desktop, model-support, pricing-model, automation-scheduling, projects-workspaces, accessibility-localization, learning-tools]
     track_silence: true
     silence_window: month
     silence_periods: 2
@@ -15,7 +15,7 @@ products:
     feed_type: github_releases
     repo: anthropics/claude-code
     backfill: full
-    themes: [agent-mode, context-window, model-support, editor-experience, collaboration, apps-integrations, safety-privacy]
+    themes: [agent-mode, context-window, model-support, editor-experience, collaboration, apps-integrations, safety-privacy, automation-scheduling, projects-workspaces, accessibility-localization]
     track_silence: true
     silence_window: month
     silence_periods: 2
@@ -26,7 +26,7 @@ products:
     feed_type: cursor_changelog
     url: https://cursor.com/changelog
     backfill: full
-    themes: [agent-mode, context-window, model-support, editor-experience, collaboration, apps-integrations, enterprise-admin, mobile-desktop, pricing-model]
+    themes: [agent-mode, context-window, model-support, editor-experience, collaboration, apps-integrations, enterprise-admin, mobile-desktop, pricing-model, automation-scheduling, projects-workspaces, accessibility-localization]
     track_silence: true
     silence_window: month
     silence_periods: 2

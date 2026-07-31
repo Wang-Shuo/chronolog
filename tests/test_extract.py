@@ -4,10 +4,13 @@ import sys
 from pathlib import Path
 from uuid import uuid4
 
+import pytest
+
 from _scripts.common import PipelinePaths, read_json, write_json
 from _scripts.extract import (
     extract_cards_from_release,
     extract_run,
+    load_review_decisions,
     load_theme_vocabulary,
     rank_theme_matches,
 )
@@ -171,6 +174,56 @@ def test_extractor_skips_generic_headings_instructions_and_unclassified_bugfixes
     cards = extract_cards_from_release(release, themes)
 
     assert [card["theme"] for card in cards] == ["developer-workflow"]
+
+
+def test_extractor_applies_explicit_semantic_review_dispositions():
+    themes = load_theme_vocabulary("_scripts/themes.yaml")
+    release = {
+        **release_with_body("- Novel reviewed capability\n- Low-signal maintenance detail"),
+        "release_id": "cursor-2026-05-01-reviewed-fixture-a1b2c3d4",
+        "source_type": "cursor_changelog",
+    }
+    unreviewed = extract_cards_from_release(release, themes)
+    decisions = {
+        unreviewed[0]["card_id"]: "projects-workspaces",
+        unreviewed[1]["card_id"]: "skip",
+    }
+
+    cards = extract_cards_from_release(release, themes, decisions)
+
+    assert len(cards) == 1
+    assert cards[0]["theme"] == "projects-workspaces"
+    assert cards[0]["theme_resolution"] == "manual-backfill-review-v1"
+
+
+def test_extractor_distinguishes_resource_memory_from_product_memory():
+    themes = load_theme_vocabulary("_scripts/themes.yaml")
+    cards = extract_cards_from_release(
+        release_with_body("- Reduced memory usage in long-running sessions"),
+        themes,
+    )
+
+    assert cards[0]["theme"] == "reliability-performance"
+    assert cards[0]["theme_resolution"] == "manual-semantic-rule-v2"
+
+
+def test_extractor_does_not_leave_whitespace_when_truncating_titles():
+    themes = load_theme_vocabulary("_scripts/themes.yaml")
+    line = "Agent workflow " + ("x" * 64) + " remainder"
+
+    cards = extract_cards_from_release(release_with_body(f"- {line}"), themes)
+
+    assert len(cards[0]["title"]) <= 80
+    assert cards[0]["title"] == cards[0]["title"].rstrip()
+
+
+def test_review_decisions_only_reference_official_themes(tmp_path: Path):
+    review = tmp_path / "review.yaml"
+    review.write_text("decisions:\n  card-1: not-a-theme\n", encoding="utf-8")
+    themes = load_theme_vocabulary("_scripts/themes.yaml")
+
+    with pytest.raises(ValueError, match="unknown themes"):
+        load_review_decisions(review, themes)
 
 
 def test_extractor_adds_ai_fields_only_for_high_impact_cards():

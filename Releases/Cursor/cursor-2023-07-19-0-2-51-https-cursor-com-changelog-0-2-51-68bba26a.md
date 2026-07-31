@@ -1,0 +1,31 @@
+---
+changes_count: 0
+date: '2023-07-19'
+machine_hash: 55123a6632a7e7739ab866bd2fc04bbd95ac0865f9439deb16936934e8ace077
+product: cursor
+product_name: Cursor
+release_id: cursor-2023-07-19-0-2-51-https-cursor-com-changelog-0-2-51-68bba26a
+source_release: Bug fixes
+source_type: cursor_changelog
+source_url: https://cursor.com/changelog/0-2-51
+tags:
+- release
+- cursor
+version: 0.2.51
+---
+
+# Cursor Bug fixes
+
+## Summary
+<!-- chronolog:begin region="summary" -->
+Fixes a bug that resulted in green-lines staying around after cancelling CMD-K.
+
+[Official release notes](https://cursor.com/changelog/0-2-51)
+
+Tracked cards: 0
+<!-- chronolog:end -->
+
+## Change Cards
+<!-- chronolog:begin region="cards" -->
+No change cards extracted.
+<!-- chronolog:end -->

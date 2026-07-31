@@ -164,12 +164,16 @@ def normalize_wikilink_target(raw: str) -> str:
 def validate_vault_links(
     root: Path,
     collected_releases: list[dict[str, Any]] | None = None,
+    valid_cards: list[dict[str, Any]] | None = None,
+    pending_cards: list[dict[str, Any]] | None = None,
 ) -> dict[str, Any]:
     files = vault_markdown_files(root)
     relative_targets: dict[str, Path] = {}
     basename_targets: dict[str, list[Path]] = defaultdict(list)
     card_targets: dict[str, list[Path]] = defaultdict(list)
     release_targets: dict[str, list[Path]] = defaultdict(list)
+    active_card_ids: set[str] = set()
+    active_card_products: dict[Path, str] = {}
     active_release_ids: set[str] = set()
     active_release_products: dict[Path, str] = {}
     superseded_cards: set[str] = set()
@@ -184,6 +188,9 @@ def validate_vault_links(
             card_targets[str(card_id)].append(path)
             if post.metadata.get("superseded") is True:
                 superseded_cards.add(str(card_id))
+            else:
+                active_card_ids.add(str(card_id))
+                active_card_products[path] = str(post.metadata.get("product", ""))
         release_id = post.metadata.get("release_id")
         if release_id:
             release_targets[str(release_id)].append(path)
@@ -246,6 +253,34 @@ def validate_vault_links(
                         "file": str(path.relative_to(root)),
                         "link": release_id,
                         "error": "active Release page is absent from collected snapshot",
+                    }
+                )
+    if valid_cards is not None:
+        expected_card_ids = {str(card["card_id"]) for card in valid_cards}
+        protected_card_ids = expected_card_ids | {
+            str(card["card_id"]) for card in (pending_cards or [])
+        }
+        expected_products = {str(card["product"]) for card in valid_cards}
+        expected_products.update(str(card["product"]) for card in (pending_cards or []))
+        for card_id in sorted(expected_card_ids - active_card_ids):
+            errors.append(
+                {
+                    "file": "Changes",
+                    "link": card_id,
+                    "error": "valid Change Card has no active Vault page",
+                }
+            )
+        for path, product in active_card_products.items():
+            if product not in expected_products:
+                continue
+            post = frontmatter.load(path)
+            card_id = str(post.metadata.get("card_id", ""))
+            if card_id not in protected_card_ids:
+                errors.append(
+                    {
+                        "file": str(path.relative_to(root)),
+                        "link": card_id,
+                        "error": "active Change Card is absent from validated extraction",
                     }
                 )
     links_checked = 0
@@ -331,6 +366,14 @@ def validate_vault_links(
                 ),
             }
         )
+    if valid_cards is not None:
+        expected_card_ids = {str(card["card_id"]) for card in valid_cards}
+        report.update(
+            {
+                "expected_card_count": len(expected_card_ids),
+                "active_card_count": len(active_card_ids & expected_card_ids),
+            }
+        )
     return report
 
 
@@ -342,7 +385,13 @@ def main() -> None:
     if args.round == "2":
         paths = PipelinePaths(args.run_id)
         collected = read_json(paths.collected)
-        report = validate_vault_links(ROOT, collected.get("releases", []))
+        validated = read_json(paths.valid_cards)
+        report = validate_vault_links(
+            ROOT,
+            collected.get("releases", []),
+            validated.get("change_cards", []),
+            validated.get("pending_theme_review", []),
+        )
         write_json(paths.validation_round2, report)
         if report["errors"]:
             raise SystemExit(1)

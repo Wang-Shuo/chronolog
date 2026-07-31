@@ -11,12 +11,13 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v1
 impact: incremental
-machine_hash: b46f2e8f6483cb4ea8da81583b620e80201ca68f8aa3076e736be38a584d7167
+machine_hash: 72bf1d544acaf4cf929c26716c8a10ebb7e027210808f730531eb97ee844db56
 product: cursor
 product_name: Cursor
 related_changes:
 - '[[Changes/Aider/2023-01-10-editor-integration-improves-autocomplete-handoff|aider-2023-01-10-3d766e]]'
 source_release: '[[Releases/Cursor/2023-01-12-cursor-2023-01-12-v0-20|cursor-2023-01-12-v0-20]]'
+superseded: true
 theme: editor-experience
 type: change
 ---

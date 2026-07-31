@@ -1,7 +1,7 @@
 themes:
   - slug: agent-mode
     display_name: Agent Mode
-    aliases: [agent, agents, agentic, autonomous-agent, shell-command]
+    aliases: [agent, agents, agentic, autonomous-agent, shell-command, subagent, subagents, auto-mode, background-agent, cloud-agent]
     category: paradigm
     status: official
   - slug: context-window
@@ -11,17 +11,17 @@ themes:
     status: official
   - slug: pricing-model
     display_name: Pricing Model
-    aliases: [pricing, billing, subscription, usage-based, plan]
+    aliases: [pricing, billing, subscription, usage-based]
     category: business
     status: official
   - slug: model-support
     display_name: Model Support
-    aliases: [model, models, claude, gpt, gemini, llm]
+    aliases: [model, models, gemini, llm, gpt-4, gpt-4o, gpt-4.1, gpt-4.5, gpt-5, gpt-5.1, gpt-5.2, claude-3, claude-opus, claude-sonnet, sonnet, opus]
     category: capability
     status: official
   - slug: editor-experience
     display_name: Editor Experience
-    aliases: [editor, autocomplete, completion, ide, tab]
+    aliases: [editor, autocomplete, completion, ide, tab, inline-edit, code-edit, cmd-k, copilot-plus-plus, cursor-prediction]
     category: workflow
     status: official
   - slug: collaboration
@@ -61,7 +61,7 @@ themes:
     status: official
   - slug: safety-privacy
     display_name: Safety and Privacy
-    aliases: [safety, privacy, security, lockdown, parental-controls, age-prediction, data-protection]
+    aliases: [safety, privacy, security, vulnerability, lockdown, parental-controls, age-prediction, data-protection]
     category: trust
     status: official
   - slug: enterprise-admin
@@ -71,17 +71,17 @@ themes:
     status: official
   - slug: mobile-desktop
     display_name: Mobile and Desktop
-    aliases: [mobile, desktop, ios, android, macos, windows, ipad, iphone, whatsapp, carplay]
+    aliases: [mobile, desktop, ios, android, macos, windows-desktop, ipad, iphone, whatsapp, carplay]
     category: platform
     status: official
   - slug: interface-experience
     display_name: Interface Experience
-    aliases: [user-interface, sidebar, navigation, keyboard-shortcut, keybinding, picker, menu, composer-ui]
+    aliases: [user-interface, sidebar, navigation, keyboard-shortcut, keybinding, picker, menu, composer-ui, hotkey, full-screen, fullscreen, status-line, prompt-footer]
     category: workflow
     status: official
   - slug: developer-workflow
     display_name: Developer Workflow
-    aliases: [terminal, language-server, lsp, pull-request, code-review, code-intelligence, developer-tools]
+    aliases: [terminal, language-server, lsp, pull-request, code-review, code-intelligence, developer-tools, worktree, dev-container, remote-ssh, wsl, linter, debugging]
     category: workflow
     status: official
   - slug: file-data
@@ -98,4 +98,24 @@ themes:
     display_name: Reliability and Performance
     aliases: [performance, latency, faster, speed, responsiveness, stability]
     category: quality
+    status: official
+  - slug: automation-scheduling
+    display_name: Automation and Scheduling
+    aliases: [automation, automations, scheduled-task, scheduled-tasks, recurring-prompt, cron, scheduler, automate]
+    category: workflow
+    status: official
+  - slug: projects-workspaces
+    display_name: Projects and Workspaces
+    aliases: [project-workspace, chat-project, conversation-branch, session-history, project-context]
+    category: workflow
+    status: official
+  - slug: accessibility-localization
+    display_name: Accessibility and Localization
+    aliases: [accessibility, localization, screen-reader, language-pack, japanese-ime, internationalization]
+    category: quality
+    status: official
+  - slug: learning-tools
+    display_name: Learning Tools
+    aliases: [study-mode, learning-experience, socratic]
+    category: capability
     status: official

@@ -162,7 +162,9 @@ def render_theme_markdown(
     ordered = sorted(cards, key=lambda card: (card["date"], card["product_name"], card["card_id"]))
     timeline = ["```mermaid", "timeline", f"    title {theme}"]
     for card in ordered:
-        timeline.append(f"    {card['date']} : {card['product_name']} : {card['title']}")
+        timeline.append(
+            f"    {card['date']} : {card['product_name']} : {card['title']}".rstrip()
+        )
     timeline.append("```")
     links = "\n".join(
         f"- {card['date']} {card['product_name']}: {card_link(card, card_targets)}"
@@ -234,7 +236,7 @@ def render_change_markdown(
         f"> {item['quote']}\n>\n> Source: {item['source_release']}" for item in card["evidence"]
     )
     body_regions = {
-        "description": card["description"],
+        "description": card["description"].rstrip(),
         "evidence": evidence,
         "evolution": "\n".join(f"- {item}" for item in evolves_from)
         or "No prior tracked change.",
@@ -245,7 +247,7 @@ def render_change_markdown(
         or "- Scope: tracked-products-only",
     }
     metadata["machine_hash"] = machine_hash(metadata, body_regions)
-    body = f"# {card['title']}\n\n" + "\n\n".join(
+    body = f"# {card['title'].rstrip()}\n\n" + "\n\n".join(
         machine_region(name, content) for name, content in body_regions.items()
     )
     body += "\n\n## Editor Notes\n"
@@ -448,14 +450,31 @@ def change_card_paths(
             existing[card_id] = path
 
     targets = dict(existing)
+    used_paths = {path: card_id for card_id, path in existing.items()}
     for card in cards:
-        targets[card["card_id"]] = existing.get(
-            card["card_id"],
+        card_id = card["card_id"]
+        if card_id in existing:
+            continue
+
+        default_path = (
             root
             / "Changes"
             / card["product_name"]
-            / f"{card['date']}-{card['slug']}.md",
+            / f"{card['date']}-{card['slug']}.md"
         )
+        target = default_path
+        if target in used_paths:
+            stable_suffix = card_id.rsplit("-", 1)[-1]
+            target = default_path.with_name(
+                f"{default_path.stem}-{stable_suffix}{default_path.suffix}"
+            )
+        if target in used_paths:
+            target = default_path.with_name(
+                f"{default_path.stem}-{slugify(card_id)}{default_path.suffix}"
+            )
+
+        targets[card_id] = target
+        used_paths[target] = card_id
     return targets, duplicates
 
 

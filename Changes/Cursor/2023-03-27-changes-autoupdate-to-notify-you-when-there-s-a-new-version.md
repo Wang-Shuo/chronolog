@@ -1,0 +1,52 @@
+---
+card_id: cursor-2023-03-27-b56ff8
+date: '2023-03-27'
+diffusion:
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]'
+  lag_days: 77
+  role: follower
+  scope: tracked-products-only
+  theme: interface-experience
+  tracked_products_count: 3
+evolves_from:
+- '[[Changes/Cursor/2023-03-23-resizable-sidebar|cursor-2023-03-23-6803ad]]'
+extractor_version: fallback-v2
+impact: significant
+machine_hash: e726779ecb20270ea4a1a2e9cb48bbf89bc80c04b57c16636f6a9459f47ec850
+product: cursor
+product_name: Cursor
+related_changes:
+- '[[Changes/Cursor/2023-03-23-easy-to-select-and-copy-from-chat|cursor-2023-03-23-23f136]]'
+- '[[Changes/Cursor/2023-03-23-chat-history-saved-between-sessions|cursor-2023-03-23-3eda0b]]'
+- '[[Changes/Cursor/2023-03-23-resizable-sidebar|cursor-2023-03-23-6803ad]]'
+source_release: '[[Releases/Cursor/cursor-2023-03-27-0-1-9-https-cursor-com-changelog-0-1-9-431f2ddc|cursor-2023-03-27-0-1-9-https-cursor-com-changelog-0-1-9-431f2ddc]]'
+theme: interface-experience
+type: change
+---
+
+# Changes autoupdate to notify you when there's a new version
+
+<!-- chronolog:begin region="description" -->
+Changes autoupdate to notify you when there's a new version
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> Changes autoupdate to notify you when there's a new version
+>
+> Source: https://cursor.com/changelog/0-1-9
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evolution" -->
+- [[Changes/Cursor/2023-03-23-resizable-sidebar|cursor-2023-03-23-6803ad]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="diffusion" -->
+- Theme: interface-experience
+- Scope: tracked-products-only
+- Role: follower
+- First In Tracked: [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]
+- Lag Days: 77
+- Tracked Products Count: 3
+<!-- chronolog:end -->
+
+## Editor Notes

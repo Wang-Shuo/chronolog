@@ -1,5 +1,53 @@
 # ChronoLog
 
+ChronoLog turns official product release histories into an Obsidian/Quartz vault of
+Release pages, normalized Change Cards, product timelines, and cross-product themes.
+
+## Official sources
+
+- ChatGPT: [ChatGPT release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+- Claude Code: [anthropics/claude-code releases](https://github.com/anthropics/claude-code/releases)
+- Cursor: [Cursor changelog](https://cursor.com/changelog)
+
+## Full historical backfill
+
+Run all three enabled sources and reconcile the generated vault against the complete
+collected history:
+
+```bash
+python _scripts/run_pipeline.py \
+  --run-id full-backfill-YYYY-MM-DD \
+  --backfill chatgpt,claude-code,cursor \
+  --today YYYY-MM-DD \
+  --reconcile
+```
+
+The ChatGPT Help Center may return a Cloudflare `403` to non-browser clients. Save a
+browser-rendered copy of the official page and pass it as an explicit source override:
+
+```bash
+python _scripts/run_pipeline.py \
+  --run-id full-backfill-YYYY-MM-DD \
+  --backfill chatgpt,claude-code,cursor \
+  --snapshot chatgpt=/absolute/path/chatgpt-release-notes.html \
+  --today YYYY-MM-DD \
+  --reconcile
+```
+
+`--snapshot PRODUCT=PATH` replaces network collection only for that product; the
+other requested products still use their official live sources. Keep the input under
+`_pipeline/<run-id>/00-snapshots/` when its bytes and provenance need to remain
+auditable with the run.
+
+Theme classification is local and reproducible. Deterministic vocabulary rules handle
+clear cases, `_scripts/backfill_review.yaml` records stable-ID semantic dispositions,
+and unresolved items remain in
+`_pipeline/<run-id>/02-extracted/theme_candidates.json` instead of being published.
+Semantic review is performed with Codex reasoning; the pipeline does not call an
+external LLM API.
+
+## Development and fixture pipeline
+
 Run the local MVP fixture pipeline:
 
 ```bash

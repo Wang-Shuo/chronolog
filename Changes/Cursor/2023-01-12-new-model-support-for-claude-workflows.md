@@ -11,12 +11,13 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v1
 impact: significant
-machine_hash: 186c406a0188a7ddda88ed10cc50e47daa98b0a3ab9216f23c3465996a5b2046
+machine_hash: c59c32dbcd97ecf1a9e14a00e92c37efe0f22528147fc0467558a8dcd3682514
 product: cursor
 product_name: Cursor
 related_changes:
 - '[[Changes/Aider/2023-01-10-added-model-support-for-claude-and-gpt-coding-workflows|aider-2023-01-10-b552e3]]'
 source_release: '[[Releases/Cursor/2023-01-12-cursor-2023-01-12-v0-20|cursor-2023-01-12-v0-20]]'
+superseded: true
 theme: model-support
 type: change
 ---

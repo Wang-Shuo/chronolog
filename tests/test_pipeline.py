@@ -1,9 +1,17 @@
 from pathlib import Path
+import shutil
 import subprocess
 import sys
 
 
-def test_fixture_pipeline_generates_vault_content():
+ROOT = Path(__file__).resolve().parents[1]
+
+
+def test_fixture_pipeline_generates_vault_content(tmp_path: Path):
+    project = tmp_path / "chronolog"
+    shutil.copytree(ROOT / "_scripts", project / "_scripts")
+    shutil.copytree(ROOT / "tests" / "fixtures", project / "tests" / "fixtures")
+
     subprocess.run(
         [
             sys.executable,
@@ -15,13 +23,14 @@ def test_fixture_pipeline_generates_vault_content():
             "2026-06-26",
         ],
         check=True,
+        cwd=project,
     )
 
-    assert Path("Products").exists()
-    assert Path("Changes").exists()
-    assert Path("Releases").exists()
-    assert Path("Themes").exists()
-    assert Path("Alerts").exists()
-    assert Path("index.md").exists()
-    assert any(Path("Themes").glob("*.md"))
-    assert "```mermaid" in next(Path("Themes").glob("*.md")).read_text()
+    assert (project / "Products").exists()
+    assert (project / "Changes").exists()
+    assert (project / "Releases").exists()
+    assert (project / "Themes").exists()
+    assert (project / "Alerts").exists()
+    assert (project / "index.md").exists()
+    assert any((project / "Themes").glob("*.md"))
+    assert "```mermaid" in next((project / "Themes").glob("*.md")).read_text()
