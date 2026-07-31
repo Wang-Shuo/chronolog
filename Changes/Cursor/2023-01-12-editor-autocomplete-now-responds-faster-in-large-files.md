@@ -2,7 +2,7 @@
 card_id: cursor-2023-01-12-895421
 date: '2023-01-12'
 diffusion:
-  first_in_tracked: aider-2023-01-10-3d766e
+  first_in_tracked: '[[Changes/Aider/2023-01-10-editor-integration-improves-autocomplete-handoff|aider-2023-01-10-3d766e]]'
   lag_days: 2
   role: follower
   scope: tracked-products-only
@@ -11,12 +11,12 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v1
 impact: incremental
-machine_hash: 57cf77f003fb5487a2544a5b84c946067f51ff6837da3d0d4dc9b6f7d5f9e461
+machine_hash: b46f2e8f6483cb4ea8da81583b620e80201ca68f8aa3076e736be38a584d7167
 product: cursor
 product_name: Cursor
 related_changes:
-- aider-2023-01-10-3d766e
-source_release: cursor-2023-01-12-v0-20
+- '[[Changes/Aider/2023-01-10-editor-integration-improves-autocomplete-handoff|aider-2023-01-10-3d766e]]'
+source_release: '[[Releases/Cursor/2023-01-12-cursor-2023-01-12-v0-20|cursor-2023-01-12-v0-20]]'
 theme: editor-experience
 type: change
 ---
@@ -38,7 +38,12 @@ No prior tracked change.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
-{'theme': 'editor-experience', 'scope': 'tracked-products-only', 'role': 'follower', 'first_in_tracked': 'aider-2023-01-10-3d766e', 'lag_days': 2, 'tracked_products_count': 5}
+- Theme: editor-experience
+- Scope: tracked-products-only
+- Role: follower
+- First In Tracked: [[Changes/Aider/2023-01-10-editor-integration-improves-autocomplete-handoff|aider-2023-01-10-3d766e]]
+- Lag Days: 2
+- Tracked Products Count: 5
 <!-- chronolog:end -->
 
 ## Editor Notes

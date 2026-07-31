@@ -93,6 +93,10 @@ class PipelinePaths:
         return self.run_dir / "02-extracted" / "valid_change_cards.json"
 
     @property
+    def theme_candidates(self) -> Path:
+        return self.run_dir / "02-extracted" / "theme_candidates.json"
+
+    @property
     def analyze_a(self) -> Path:
         return self.run_dir / "03a-analyzed-per" / "analysis.json"
 
@@ -103,6 +107,10 @@ class PipelinePaths:
     @property
     def silence(self) -> Path:
         return self.run_dir / "03c-silence" / "alerts.json"
+
+    @property
+    def validation_round2(self) -> Path:
+        return self.run_dir / "04-validated" / "report.json"
 
     @property
     def dlq(self) -> Path:

@@ -2,7 +2,7 @@
 card_id: openhands-2023-06-21-ebc797
 date: '2023-06-21'
 diffusion:
-  first_in_tracked: openhands-2023-06-21-ebc797
+  first_in_tracked: '[[Changes/OpenHands/2023-06-21-agent-runtime-can-execute-shell-commands-in-a-sandbox|openhands-2023-06-21-ebc797]]'
   lag_days: 0
   role: originator
   scope: tracked-products-only
@@ -11,11 +11,10 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v1
 impact: paradigm-shift
-machine_hash: 94fddd630575e3934aca15a5c996b0d49b1ca3df25b04f1b7399e25588e74dd5
+machine_hash: e48350ec1b715085c9ada558b82f81aa9013120b8d36e35f7efe055c8f888d7e
 product: openhands
 product_name: OpenHands
-related_changes: []
-source_release: openhands-2023-06-21-v0-7
+source_release: '[[Releases/OpenHands/2023-06-21-openhands-2023-06-21-v0-7|openhands-2023-06-21-v0-7]]'
 theme: agent-mode
 type: change
 ---
@@ -37,7 +36,12 @@ No prior tracked change.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
-{'theme': 'agent-mode', 'scope': 'tracked-products-only', 'role': 'originator', 'first_in_tracked': 'openhands-2023-06-21-ebc797', 'lag_days': 0, 'tracked_products_count': 5}
+- Theme: agent-mode
+- Scope: tracked-products-only
+- Role: originator
+- First In Tracked: [[Changes/OpenHands/2023-06-21-agent-runtime-can-execute-shell-commands-in-a-sandbox|openhands-2023-06-21-ebc797]]
+- Lag Days: 0
+- Tracked Products Count: 5
 <!-- chronolog:end -->
 
 ## Editor Notes

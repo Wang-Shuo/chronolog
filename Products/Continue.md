@@ -1,5 +1,8 @@
 ---
-machine_hash: d77efa48db5dec2fe707f541fa2d2edaf62d098e58166b4b318a939ef6ccc81e
+created: '2023-05-01'
+date: '2025-08-08'
+machine_hash: 2681dbe9939811d666fdfd21b67ffb126982f788c3e749c95cd01a917e7f1b8a
+modified: '2025-08-08'
 product: continue
 product_name: Continue
 tags:
@@ -21,16 +24,16 @@ top_themes: context-window, model-support, collaboration
 
 ## Eras
 <!-- chronolog:begin region="eras" -->
-- **Model Support Era** (2023-05-01 to 2023-05-01): continue focused on model-support across 2 tracked changes.
-- **Collaboration Era** (2025-08-08 to present): continue focused on collaboration across 2 tracked changes.
+- **Model Support Era** (2023-05-01 to 2023-05-01) data_sparse: continue focused on model-support across 2 tracked changes.
+- **Collaboration Era** (2025-08-08 to present) data_sparse: continue focused on collaboration across 2 tracked changes.
 <!-- chronolog:end -->
 
 ## Change Timeline
 <!-- chronolog:begin region="changes" -->
-- 2023-05-01 model-support: [[2023-05-01-model-support-adds-configurable-local-llm-options|Model support adds configurable local LLM options]]
-- 2023-05-01 context-window: [[2023-05-01-context-providers-now-index-workspace-symbols|Context providers now index workspace symbols]]
-- 2025-08-08 collaboration: [[2025-08-08-team-collaboration-settings-can-share-assistant-rules|Team collaboration settings can share assistant rules]]
-- 2025-08-08 context-window: [[2025-08-08-context-window-handling-improved-for-monorepos|Context window handling improved for monorepos]]
+- 2023-05-01 model-support: [[Changes/Continue/2023-05-01-model-support-adds-configurable-local-llm-options|Model support adds configurable local LLM options]]
+- 2023-05-01 context-window: [[Changes/Continue/2023-05-01-context-providers-now-index-workspace-symbols|Context providers now index workspace symbols]]
+- 2025-08-08 collaboration: [[Changes/Continue/2025-08-08-team-collaboration-settings-can-share-assistant-rules|Team collaboration settings can share assistant rules]]
+- 2025-08-08 context-window: [[Changes/Continue/2025-08-08-context-window-handling-improved-for-monorepos|Context window handling improved for monorepos]]
 <!-- chronolog:end -->
 
 ## Editor Notes

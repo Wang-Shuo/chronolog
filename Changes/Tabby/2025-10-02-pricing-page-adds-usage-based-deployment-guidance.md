@@ -2,7 +2,7 @@
 card_id: tabby-2025-10-02-f206fd
 date: '2025-10-02'
 diffusion:
-  first_in_tracked: aider-2025-01-20-55f735
+  first_in_tracked: '[[Changes/Aider/2025-01-20-pricing-documentation-explains-usage-based-api-costs|aider-2025-01-20-55f735]]'
   lag_days: 255
   role: follower
   scope: tracked-products-only
@@ -11,12 +11,12 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v1
 impact: paradigm-shift
-machine_hash: 2941df02bddde6ded024fd6c30e0840389b11b43084b00e43a3724f2cd90e7cf
+machine_hash: df35b1661f62a0738434bd139ebf84d890f60212a2cd9fd1acff86974f75062d
 product: tabby
 product_name: Tabby
 related_changes:
-- aider-2025-01-20-55f735
-source_release: tabby-2025-10-02-v1-1
+- '[[Changes/Aider/2025-01-20-pricing-documentation-explains-usage-based-api-costs|aider-2025-01-20-55f735]]'
+source_release: '[[Releases/Tabby/2025-10-02-tabby-2025-10-02-v1-1|tabby-2025-10-02-v1-1]]'
 theme: pricing-model
 type: change
 ---
@@ -38,7 +38,12 @@ No prior tracked change.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
-{'theme': 'pricing-model', 'scope': 'tracked-products-only', 'role': 'follower', 'first_in_tracked': 'aider-2025-01-20-55f735', 'lag_days': 255, 'tracked_products_count': 5}
+- Theme: pricing-model
+- Scope: tracked-products-only
+- Role: follower
+- First In Tracked: [[Changes/Aider/2025-01-20-pricing-documentation-explains-usage-based-api-costs|aider-2025-01-20-55f735]]
+- Lag Days: 255
+- Tracked Products Count: 5
 <!-- chronolog:end -->
 
 ## Editor Notes

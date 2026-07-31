@@ -2,7 +2,7 @@
 card_id: openhands-2026-01-10-607f28
 date: '2026-01-10'
 diffusion:
-  first_in_tracked: continue-2023-05-01-a04fa0
+  first_in_tracked: '[[Changes/Continue/2023-05-01-context-providers-now-index-workspace-symbols|continue-2023-05-01-a04fa0]]'
   lag_days: 985
   role: follower
   scope: tracked-products-only
@@ -11,14 +11,14 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v1
 impact: incremental
-machine_hash: e94a2936688a6d728267fdfd24805afd87e7a67115f149ff586b08bcfa071978
+machine_hash: 0fd3f8d97b71c17b5b7c4bb8fbdc440210b70d2f659dcac0105700267bdec0ea
 product: openhands
 product_name: OpenHands
 related_changes:
-- continue-2023-05-01-a04fa0
-- cursor-2025-03-15-00a415
-- continue-2025-08-08-e0effa
-source_release: openhands-2026-01-10-v1-0
+- '[[Changes/Continue/2023-05-01-context-providers-now-index-workspace-symbols|continue-2023-05-01-a04fa0]]'
+- '[[Changes/Cursor/2025-03-15-context-window-expanded-to-200k-tokens|cursor-2025-03-15-00a415]]'
+- '[[Changes/Continue/2025-08-08-context-window-handling-improved-for-monorepos|continue-2025-08-08-e0effa]]'
+source_release: '[[Releases/OpenHands/2026-01-10-openhands-2026-01-10-v1-0|openhands-2026-01-10-v1-0]]'
 theme: context-window
 type: change
 ---
@@ -40,7 +40,12 @@ No prior tracked change.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
-{'theme': 'context-window', 'scope': 'tracked-products-only', 'role': 'follower', 'first_in_tracked': 'continue-2023-05-01-a04fa0', 'lag_days': 985, 'tracked_products_count': 5}
+- Theme: context-window
+- Scope: tracked-products-only
+- Role: follower
+- First In Tracked: [[Changes/Continue/2023-05-01-context-providers-now-index-workspace-symbols|continue-2023-05-01-a04fa0]]
+- Lag Days: 985
+- Tracked Products Count: 5
 <!-- chronolog:end -->
 
 ## Editor Notes

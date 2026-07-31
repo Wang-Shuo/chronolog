@@ -1,7 +1,13 @@
 from pathlib import Path
 
+import frontmatter
+import pytest
+
 from _scripts.writer import (
+    change_card_paths,
     ensure_vault_dirs,
+    main,
+    reconcile_missing_change_cards,
     render_change_markdown,
     render_theme_markdown,
     replace_machine_region,
@@ -97,6 +103,68 @@ def test_write_markdown_file_detects_machine_region_edits(tmp_path: Path):
     assert "Edited machine text." in target.read_text(encoding="utf-8")
 
 
+def test_write_markdown_file_preserves_custom_human_frontmatter(tmp_path: Path):
+    target = tmp_path / "change.md"
+    card = change_card()
+    rendered = render_change_markdown(card, {"evolves_from": []}, {})
+    write_markdown_file(target, rendered, [])
+    post = frontmatter.load(target)
+    post.metadata["research_note"] = "keep this"
+    target.write_text(frontmatter.dumps(post), encoding="utf-8")
+
+    wrote = write_markdown_file(target, rendered, [])
+
+    assert wrote is True
+    assert frontmatter.load(target).metadata["research_note"] == "keep this"
+
+
+def test_change_card_paths_reuses_existing_path_for_stable_card_id(tmp_path: Path):
+    target = tmp_path / "Changes" / "Cursor" / "2025-02-01-original-slug.md"
+    target.parent.mkdir(parents=True)
+    target.write_text(
+        render_change_markdown(change_card(), {"evolves_from": []}, {}),
+        encoding="utf-8",
+    )
+    renamed_card = {**change_card(), "slug": "new-title-slug", "title": "A new title"}
+
+    paths, duplicates = change_card_paths(tmp_path, [renamed_card])
+
+    assert duplicates == []
+    assert paths[renamed_card["card_id"]] == target
+
+
+def test_reconcile_missing_change_cards_marks_superseded_without_deleting(tmp_path: Path):
+    target = tmp_path / "Changes" / "Cursor" / "2025-02-01-agent-shell.md"
+    target.parent.mkdir(parents=True)
+    target.write_text(
+        render_change_markdown(change_card(), {"evolves_from": []}, {}),
+        encoding="utf-8",
+    )
+    conflicts: list[dict[str, str]] = []
+
+    superseded = reconcile_missing_change_cards(
+        tmp_path,
+        active_card_ids=set(),
+        reconcile_products={"cursor"},
+        conflicts=conflicts,
+    )
+
+    assert superseded == [change_card()["card_id"]]
+    assert conflicts == []
+    assert target.exists()
+    assert frontmatter.load(target).metadata["superseded"] is True
+
+
+def test_writer_cli_returns_nonzero_when_machine_conflict_exists(monkeypatch):
+    monkeypatch.setattr("_scripts.writer.write_run", lambda *_args, **_kwargs: [{"error": "conflict"}])
+    monkeypatch.setattr("sys.argv", ["writer.py", "--run-id", "demo"])
+
+    with pytest.raises(SystemExit) as error:
+        main()
+
+    assert error.value.code == 1
+
+
 def test_ensure_vault_dirs_creates_empty_alerts_directory(tmp_path: Path):
     ensure_vault_dirs(tmp_path)
 
@@ -105,3 +173,24 @@ def test_ensure_vault_dirs_creates_empty_alerts_directory(tmp_path: Path):
     assert (tmp_path / "Releases").is_dir()
     assert (tmp_path / "Themes").is_dir()
     assert (tmp_path / "Alerts").is_dir()
+
+
+def change_card() -> dict[str, object]:
+    return {
+        "type": "change",
+        "card_id": "cursor-2025-02-01-aaaaaa",
+        "product": "cursor",
+        "product_name": "Cursor",
+        "source_release": "cursor-2025-02-01-v1",
+        "date": "2025-02-01",
+        "title": "Agent shell",
+        "slug": "agent-shell",
+        "theme": "agent-mode",
+        "impact": "incremental",
+        "description": "Agent can run shell commands.",
+        "comparison": "",
+        "evidence": [
+            {"source_release": "https://example.com", "quote": "Agent can run shell commands."}
+        ],
+        "extractor_version": "fallback-v1",
+    }

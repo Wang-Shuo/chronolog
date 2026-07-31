@@ -2,7 +2,7 @@
 card_id: continue-2023-05-01-a04fa0
 date: '2023-05-01'
 diffusion:
-  first_in_tracked: continue-2023-05-01-a04fa0
+  first_in_tracked: '[[Changes/Continue/2023-05-01-context-providers-now-index-workspace-symbols|continue-2023-05-01-a04fa0]]'
   lag_days: 0
   role: originator
   scope: tracked-products-only
@@ -11,11 +11,10 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v1
 impact: incremental
-machine_hash: ad0163cb1fc3eafafb9773e2aa6a062bd97c3681cd671db6c12d5a09da1f04d3
+machine_hash: b37c7692e363777631a8bf7f5fbb9e2b5efe587cbed050c10fb8c39aa57c2e6b
 product: continue
 product_name: Continue
-related_changes: []
-source_release: continue-2023-05-01-v0-9
+source_release: '[[Releases/Continue/2023-05-01-continue-2023-05-01-v0-9|continue-2023-05-01-v0-9]]'
 theme: context-window
 type: change
 ---
@@ -37,7 +36,12 @@ No prior tracked change.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
-{'theme': 'context-window', 'scope': 'tracked-products-only', 'role': 'originator', 'first_in_tracked': 'continue-2023-05-01-a04fa0', 'lag_days': 0, 'tracked_products_count': 5}
+- Theme: context-window
+- Scope: tracked-products-only
+- Role: originator
+- First In Tracked: [[Changes/Continue/2023-05-01-context-providers-now-index-workspace-symbols|continue-2023-05-01-a04fa0]]
+- Lag Days: 0
+- Tracked Products Count: 5
 <!-- chronolog:end -->
 
 ## Editor Notes

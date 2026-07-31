@@ -26,8 +26,22 @@ def analyze_products(cards: list[dict[str, Any]]) -> dict[str, Any]:
         theme_counts = Counter(card["theme"] for card in ordered)
         baseline = round(len(ordered) / max(len(releases), 1), 2)
 
-        midpoint = max(len(ordered) // 2, 1)
-        era_groups = [ordered[:midpoint], ordered[midpoint:]] if len(ordered) >= 3 else [ordered]
+        cards_by_release: dict[str, list[dict[str, Any]]] = defaultdict(list)
+        for card in ordered:
+            cards_by_release[card["source_release"]].append(card)
+        release_groups = sorted(
+            cards_by_release.values(),
+            key=lambda group: (group[0]["date"], group[0]["source_release"]),
+        )
+        midpoint = max(len(release_groups) // 2, 1)
+        era_groups = (
+            [
+                [card for release in release_groups[:midpoint] for card in release],
+                [card for release in release_groups[midpoint:] for card in release],
+            ]
+            if len(release_groups) >= 2
+            else [ordered]
+        )
         eras = []
         for index, era_cards in enumerate(era_groups, start=1):
             dominant = Counter(card["theme"] for card in era_cards).most_common(1)[0][0]
@@ -41,7 +55,7 @@ def analyze_products(cards: list[dict[str, Any]]) -> dict[str, Any]:
                         f"{len(era_cards)} tracked changes."
                     ),
                     "dominant_theme": dominant,
-                    "data_sparse": len(ordered) < 3,
+                    "data_sparse": len(release_groups) < 3,
                 }
             )
 

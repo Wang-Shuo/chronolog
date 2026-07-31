@@ -16,6 +16,8 @@ const config: QuartzConfig = {
       "_pipeline",
       "docs",
       "tests",
+      "content",
+      "README.md",
       "node_modules",
       "quartz",
     ],

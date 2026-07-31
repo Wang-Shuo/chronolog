@@ -2,7 +2,7 @@
 card_id: aider-2023-01-10-3d766e
 date: '2023-01-10'
 diffusion:
-  first_in_tracked: aider-2023-01-10-3d766e
+  first_in_tracked: '[[Changes/Aider/2023-01-10-editor-integration-improves-autocomplete-handoff|aider-2023-01-10-3d766e]]'
   lag_days: 0
   role: originator
   scope: tracked-products-only
@@ -11,11 +11,10 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v1
 impact: significant
-machine_hash: 4aa1084ae1a3efeb7a076d0c716e8ecebb6d06df705cf577ad98fa6d43c526f0
+machine_hash: cf867de4a95a11b8043b47dd099737540c90feaf4cd2656eceacfd915722b57c
 product: aider
 product_name: Aider
-related_changes: []
-source_release: aider-2023-01-10-v0-22
+source_release: '[[Releases/Aider/2023-01-10-aider-2023-01-10-v0-22|aider-2023-01-10-v0-22]]'
 theme: editor-experience
 type: change
 ---
@@ -37,7 +36,12 @@ No prior tracked change.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
-{'theme': 'editor-experience', 'scope': 'tracked-products-only', 'role': 'originator', 'first_in_tracked': 'aider-2023-01-10-3d766e', 'lag_days': 0, 'tracked_products_count': 5}
+- Theme: editor-experience
+- Scope: tracked-products-only
+- Role: originator
+- First In Tracked: [[Changes/Aider/2023-01-10-editor-integration-improves-autocomplete-handoff|aider-2023-01-10-3d766e]]
+- Lag Days: 0
+- Tracked Products Count: 5
 <!-- chronolog:end -->
 
 ## Editor Notes

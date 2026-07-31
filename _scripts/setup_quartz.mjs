@@ -4,36 +4,10 @@ import { pathToFileURL } from "node:url"
 
 const root = process.cwd()
 
-async function removeIfWrongLink(target, expected) {
-  try {
-    const stat = await fs.lstat(target)
-    if (!stat.isSymbolicLink()) {
-      return
-    }
-    const current = await fs.readlink(target)
-    if (current !== expected) {
-      await fs.rm(target, { recursive: true, force: true })
-    }
-  } catch (error) {
-    if (error.code !== "ENOENT") {
-      throw error
-    }
-  }
-}
-
-async function ensureSymlink(target, relativeSource, type) {
-  await removeIfWrongLink(target, relativeSource)
-  try {
-    await fs.lstat(target)
-  } catch (error) {
-    if (error.code !== "ENOENT") {
-      throw error
-    }
-    await fs.symlink(relativeSource, target, type)
-  }
-}
-
-await ensureSymlink(path.join(root, "quartz"), path.join("node_modules", "quartz", "quartz"), "dir")
+const quartzSource = path.join(root, "node_modules", "quartz", "quartz")
+const quartzRuntime = path.join(root, "quartz")
+await fs.rm(quartzRuntime, { recursive: true, force: true })
+await fs.cp(quartzSource, quartzRuntime, { recursive: true })
 
 const binPath = path.join(root, "node_modules", ".bin", "quartz")
 const wrapperPath = path.join(root, "_scripts", "quartz_build_wrapper.mjs")

@@ -5,7 +5,12 @@ from pathlib import Path
 from uuid import uuid4
 
 from _scripts.common import PipelinePaths, read_json, write_json
-from _scripts.extract import extract_cards_from_release, extract_run, load_theme_vocabulary
+from _scripts.extract import (
+    extract_cards_from_release,
+    extract_run,
+    load_theme_vocabulary,
+    rank_theme_matches,
+)
 
 
 def release_with_body(body: str) -> dict[str, str]:
@@ -93,24 +98,65 @@ def test_extractor_skips_markdown_headings_and_strips_numbered_bullets():
     assert cards[0]["theme"] == "model-support"
 
 
-def test_extractor_dedupes_before_five_card_limit():
+def test_extractor_dedupes_repeated_evidence_but_keeps_multiple_cards_per_theme():
     themes = load_theme_vocabulary("_scripts/themes.yaml")
     release = release_with_body(
         "\n".join(
             [
                 "- Agent can run task one",
+                "- Agent can run task one!",
                 "- Agent can run task two",
                 "- Agent can run task three",
-                "- Agent can run task four",
-                "- Agent can run task five",
                 "- Context window expanded to 200K tokens",
+                "- Pricing now uses a metered plan",
             ]
         )
     )
 
     cards = extract_cards_from_release(release, themes)
 
-    assert [card["theme"] for card in cards] == ["agent-mode", "context-window"]
+    assert [card["theme"] for card in cards] == [
+        "agent-mode",
+        "agent-mode",
+        "agent-mode",
+        "context-window",
+        "pricing-model",
+    ]
+    assert len({card["card_id"] for card in cards}) == 5
+
+
+def test_theme_ranking_prefers_canonical_match_over_generic_alias():
+    themes = load_theme_vocabulary("_scripts/themes.yaml")
+
+    matches = rank_theme_matches(
+        "Collaboration workflow lets reviewers approve agent actions",
+        themes,
+    )
+    cards = extract_cards_from_release(
+        release_with_body("- Collaboration workflow lets reviewers approve agent actions"),
+        themes,
+    )
+
+    assert matches[0]["theme"] == "collaboration"
+    assert matches[1]["theme"] == "agent-mode"
+    assert cards[0]["theme"] == "collaboration"
+    assert cards[0]["theme_matches"][0]["matched_terms"] == ["collaboration"]
+
+
+def test_extractor_quarantines_ambiguous_theme_for_review():
+    themes = load_theme_vocabulary("_scripts/themes.yaml")
+
+    cards = extract_cards_from_release(
+        release_with_body("- Agent team controls improve review permissions"),
+        themes,
+    )
+
+    assert cards[0]["theme"] == "__candidate__"
+    assert cards[0]["theme_review_reason"] == "ambiguous_match"
+    assert [match["theme"] for match in cards[0]["theme_matches"][:2]] == [
+        "agent-mode",
+        "collaboration",
+    ]
 
 
 def test_extractor_adds_ai_fields_only_for_high_impact_cards():
@@ -149,6 +195,28 @@ def test_extract_run_writes_extracted_change_cards():
         assert paths.extracted.exists()
         assert output == {"run_id": run_id, "change_cards": cards}
         assert output["change_cards"][0]["theme"] == "agent-mode"
+        assert read_json(paths.theme_candidates) == {"run_id": run_id, "candidates": []}
+    finally:
+        shutil.rmtree(paths.run_dir, ignore_errors=True)
+
+
+def test_extract_run_writes_candidate_review_queue():
+    run_id = f"pytest-candidate-{uuid4().hex}"
+    paths = PipelinePaths(run_id)
+    shutil.rmtree(paths.run_dir, ignore_errors=True)
+
+    try:
+        write_json(
+            paths.collected,
+            {"releases": [release_with_body("- New mobile companion app for review")]},
+        )
+
+        cards = extract_run(run_id)
+        candidates = read_json(paths.theme_candidates)["candidates"]
+
+        assert cards[0]["theme"] == "__candidate__"
+        assert candidates[0]["card_id"] == cards[0]["card_id"]
+        assert candidates[0]["theme_review_reason"] == "no_match"
     finally:
         shutil.rmtree(paths.run_dir, ignore_errors=True)
 

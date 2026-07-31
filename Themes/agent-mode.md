@@ -1,5 +1,8 @@
 ---
-machine_hash: 4a2c5d2f6185df2fd95929caa77137ae83b47e6b98accce399648d407b83c29e
+created: '2023-06-21'
+date: '2025-03-15'
+machine_hash: d6678c55b0aff5c6a2248b09afdc2e1e0609534ad897ef7902f63bd022d4bbff
+modified: '2025-03-15'
 products_involved:
 - Aider
 - Cursor
@@ -21,14 +24,12 @@ timeline
     2023-06-21 : OpenHands : Agent runtime can execute shell commands in a sandbox
     2025-01-20 : Aider : Agent workflow can inspect repository files before edits
     2025-03-15 : Cursor : Agent can run shell commands after approval
-    2026-01-10 : OpenHands : Collaboration workflow lets reviewers approve agent actions
 ```
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- 2023-06-21 OpenHands: [[2023-06-21-agent-runtime-can-execute-shell-commands-in-a-sandbox|Agent runtime can execute shell commands in a sandbox]]
-- 2025-01-20 Aider: [[2025-01-20-agent-workflow-can-inspect-repository-files-before-edits|Agent workflow can inspect repository files before edits]]
-- 2025-03-15 Cursor: [[2025-03-15-agent-can-run-shell-commands-after-approval|Agent can run shell commands after approval]]
-- 2026-01-10 OpenHands: [[2026-01-10-collaboration-workflow-lets-reviewers-approve-agent-actions|Collaboration workflow lets reviewers approve agent actions]]
+- 2023-06-21 OpenHands: [[Changes/OpenHands/2023-06-21-agent-runtime-can-execute-shell-commands-in-a-sandbox|Agent runtime can execute shell commands in a sandbox]]
+- 2025-01-20 Aider: [[Changes/Aider/2025-01-20-agent-workflow-can-inspect-repository-files-before-edits|Agent workflow can inspect repository files before edits]]
+- 2025-03-15 Cursor: [[Changes/Cursor/2025-03-15-agent-can-run-shell-commands-after-approval|Agent can run shell commands after approval]]
 <!-- chronolog:end -->

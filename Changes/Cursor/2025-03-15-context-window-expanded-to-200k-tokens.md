@@ -2,7 +2,7 @@
 card_id: cursor-2025-03-15-00a415
 date: '2025-03-15'
 diffusion:
-  first_in_tracked: continue-2023-05-01-a04fa0
+  first_in_tracked: '[[Changes/Continue/2023-05-01-context-providers-now-index-workspace-symbols|continue-2023-05-01-a04fa0]]'
   lag_days: 684
   role: follower
   scope: tracked-products-only
@@ -11,12 +11,12 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v1
 impact: paradigm-shift
-machine_hash: dc287036d9d680754acf7dcb540dbef7d50be4aeaac01f71450c7b79a6903db5
+machine_hash: e209a523a952e1acfa39d6a45c5bfca1a9b360860e9ed676f20a437f632b1413
 product: cursor
 product_name: Cursor
 related_changes:
-- continue-2023-05-01-a04fa0
-source_release: cursor-2025-03-15-v0-38
+- '[[Changes/Continue/2023-05-01-context-providers-now-index-workspace-symbols|continue-2023-05-01-a04fa0]]'
+source_release: '[[Releases/Cursor/2025-03-15-cursor-2025-03-15-v0-38|cursor-2025-03-15-v0-38]]'
 theme: context-window
 type: change
 ---
@@ -38,7 +38,12 @@ No prior tracked change.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
-{'theme': 'context-window', 'scope': 'tracked-products-only', 'role': 'follower', 'first_in_tracked': 'continue-2023-05-01-a04fa0', 'lag_days': 684, 'tracked_products_count': 5}
+- Theme: context-window
+- Scope: tracked-products-only
+- Role: follower
+- First In Tracked: [[Changes/Continue/2023-05-01-context-providers-now-index-workspace-symbols|continue-2023-05-01-a04fa0]]
+- Lag Days: 684
+- Tracked Products Count: 5
 <!-- chronolog:end -->
 
 ## Editor Notes

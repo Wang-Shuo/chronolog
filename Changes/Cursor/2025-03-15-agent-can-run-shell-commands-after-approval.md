@@ -2,7 +2,7 @@
 card_id: cursor-2025-03-15-7c7731
 date: '2025-03-15'
 diffusion:
-  first_in_tracked: openhands-2023-06-21-ebc797
+  first_in_tracked: '[[Changes/OpenHands/2023-06-21-agent-runtime-can-execute-shell-commands-in-a-sandbox|openhands-2023-06-21-ebc797]]'
   lag_days: 633
   role: follower
   scope: tracked-products-only
@@ -11,13 +11,13 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v1
 impact: paradigm-shift
-machine_hash: 74278483a8651e6091a597ea39e157378fa6e99d35dd414ee775a9033d1bf04f
+machine_hash: 1a1b06e322550f3b19318fcab854f133ef6b32ed39f8e8d3932a2321590106fe
 product: cursor
 product_name: Cursor
 related_changes:
-- openhands-2023-06-21-ebc797
-- aider-2025-01-20-d2e795
-source_release: cursor-2025-03-15-v0-38
+- '[[Changes/OpenHands/2023-06-21-agent-runtime-can-execute-shell-commands-in-a-sandbox|openhands-2023-06-21-ebc797]]'
+- '[[Changes/Aider/2025-01-20-agent-workflow-can-inspect-repository-files-before-edits|aider-2025-01-20-d2e795]]'
+source_release: '[[Releases/Cursor/2025-03-15-cursor-2025-03-15-v0-38|cursor-2025-03-15-v0-38]]'
 theme: agent-mode
 type: change
 ---
@@ -39,7 +39,12 @@ No prior tracked change.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
-{'theme': 'agent-mode', 'scope': 'tracked-products-only', 'role': 'follower', 'first_in_tracked': 'openhands-2023-06-21-ebc797', 'lag_days': 633, 'tracked_products_count': 5}
+- Theme: agent-mode
+- Scope: tracked-products-only
+- Role: follower
+- First In Tracked: [[Changes/OpenHands/2023-06-21-agent-runtime-can-execute-shell-commands-in-a-sandbox|openhands-2023-06-21-ebc797]]
+- Lag Days: 633
+- Tracked Products Count: 5
 <!-- chronolog:end -->
 
 ## Editor Notes

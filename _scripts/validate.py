@@ -3,14 +3,24 @@ from __future__ import annotations
 import argparse
 import re
 import sys
+from collections import defaultdict
 from pathlib import Path
 from typing import Any
+
+import frontmatter
 
 ROOT = Path(__file__).resolve().parents[1]
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
-from _scripts.common import PipelinePaths, read_json, read_yaml, write_json
+from _scripts.common import (
+    PipelinePaths,
+    card_id_for,
+    parse_date,
+    read_json,
+    read_yaml,
+    write_json,
+)
 
 
 REQUIRED_FIELDS = {
@@ -30,6 +40,8 @@ REQUIRED_FIELDS = {
 }
 IMPACTS = {"incremental", "significant", "paradigm-shift"}
 CARD_ID_RE = re.compile(r"^[a-z0-9-]+-\d{4}-\d{2}-\d{2}-[a-f0-9]{6}$")
+WIKILINK_RE = re.compile(r"!?\[\[([^\]]+)\]\]")
+VAULT_DIRECTORIES = ("Products", "Changes", "Releases", "Themes", "Alerts")
 
 
 def official_themes(themes_path: str | Path) -> set[str]:
@@ -46,6 +58,10 @@ def validate_card(card: dict[str, Any], themes: set[str]) -> list[str]:
         errors.append("type must be change")
     if not CARD_ID_RE.match(str(card.get("card_id", ""))):
         errors.append("card_id is not deterministic format")
+    try:
+        parse_date(str(card.get("date", "")))
+    except (TypeError, ValueError):
+        errors.append("date must be a valid ISO or feed date")
     if card.get("theme") not in themes:
         if card.get("theme") != "__candidate__" or not card.get("theme_suggestion"):
             errors.append("theme must be official or candidate with suggestion")
@@ -54,8 +70,21 @@ def validate_card(card: dict[str, Any], themes: set[str]) -> list[str]:
     evidence = card.get("evidence")
     if not isinstance(evidence, list) or not evidence:
         errors.append("evidence is required")
-    elif not isinstance(evidence[0], dict) or not evidence[0].get("source_release") or not evidence[0].get("quote"):
+    elif any(
+        not isinstance(item, dict)
+        or not item.get("source_release")
+        or not item.get("quote")
+        for item in evidence
+    ):
         errors.append("evidence requires source_release and quote")
+    elif card.get("product") and card.get("date"):
+        expected_card_id = card_id_for(
+            str(card["product"]),
+            str(card["date"]),
+            str(evidence[0]["quote"]),
+        )
+        if card.get("card_id") != expected_card_id:
+            errors.append("card_id does not match primary evidence")
     if not str(card.get("description", "")).strip():
         errors.append("description is required")
     if card.get("impact") in {"significant", "paradigm-shift"}:
@@ -77,19 +106,149 @@ def validate_cards_file(
     payload = read_json(source)
     themes = official_themes(themes_path)
     valid = []
+    pending_theme_review = []
     failed = []
+    seen_card_ids: set[str] = set()
     for card in payload.get("change_cards", []):
         errors = validate_card(card, themes)
+        card_id = str(card.get("card_id", ""))
+        if card_id and card_id in seen_card_ids:
+            errors.append("duplicate card_id in extraction batch")
+        seen_card_ids.add(card_id)
         if errors:
             failed.append({"record": card, "errors": errors})
+        elif card.get("theme") == "__candidate__":
+            pending_theme_review.append(card)
         else:
             valid.append(card)
-    write_json(valid_output, {"change_cards": valid})
+    write_json(
+        valid_output,
+        {
+            "change_cards": valid,
+            "pending_theme_review": pending_theme_review,
+        },
+    )
     if failed:
         write_json(dlq_output, {"failed": failed})
     else:
         dlq_output.unlink(missing_ok=True)
-    return {"passed": len(valid), "failed": len(failed)}
+    return {
+        "passed": len(valid),
+        "pending_theme_review": len(pending_theme_review),
+        "failed": len(failed),
+    }
+
+
+def vault_markdown_files(root: Path) -> list[Path]:
+    files = []
+    index = root / "index.md"
+    if index.exists():
+        files.append(index)
+    for directory in VAULT_DIRECTORIES:
+        target = root / directory
+        if target.exists():
+            files.extend(target.rglob("*.md"))
+    return sorted(set(files))
+
+
+def normalize_wikilink_target(raw: str) -> str:
+    target = raw.split("|", 1)[0].split("#", 1)[0].strip().lstrip("/")
+    return target[:-3] if target.endswith(".md") else target
+
+
+def validate_vault_links(root: Path) -> dict[str, Any]:
+    files = vault_markdown_files(root)
+    relative_targets: dict[str, Path] = {}
+    basename_targets: dict[str, list[Path]] = defaultdict(list)
+    card_targets: dict[str, list[Path]] = defaultdict(list)
+    superseded_cards: set[str] = set()
+
+    for path in files:
+        relative = path.relative_to(root).with_suffix("").as_posix()
+        relative_targets[relative] = path
+        basename_targets[path.stem].append(path)
+        post = frontmatter.load(path)
+        card_id = post.metadata.get("card_id")
+        if card_id:
+            card_targets[str(card_id)].append(path)
+            if post.metadata.get("superseded") is True:
+                superseded_cards.add(str(card_id))
+
+    errors = [
+        {
+            "file": str(path.relative_to(root)),
+            "link": card_id,
+            "error": "duplicate card_id in Vault",
+        }
+        for card_id, paths in card_targets.items()
+        if len(paths) > 1
+        for path in paths
+    ]
+    links_checked = 0
+
+    def resolve_target(target: str) -> Path | None:
+        if target in relative_targets:
+            return relative_targets[target]
+        matches = basename_targets.get(Path(target).name, [])
+        return matches[0] if len(matches) == 1 else None
+
+    for path in files:
+        markdown = path.read_text(encoding="utf-8")
+        post = frontmatter.loads(markdown)
+        for raw_link in WIKILINK_RE.findall(markdown):
+            links_checked += 1
+            target = normalize_wikilink_target(raw_link)
+            if target and resolve_target(target) is None:
+                errors.append(
+                    {
+                        "file": str(path.relative_to(root)),
+                        "link": raw_link,
+                        "error": "unresolved wikilink",
+                    }
+                )
+
+        relation_values = {
+            "evolves_from": post.metadata.get("evolves_from", []) or [],
+            "related_changes": post.metadata.get("related_changes", []) or [],
+        }
+        diffusion = post.metadata.get("diffusion", {}) or {}
+        if diffusion.get("first_in_tracked"):
+            relation_values["diffusion.first_in_tracked"] = [
+                diffusion["first_in_tracked"]
+            ]
+        if post.metadata.get("type") == "change" and post.metadata.get("source_release"):
+            relation_values["source_release"] = [post.metadata["source_release"]]
+
+        for field, values in relation_values.items():
+            for relation in values:
+                match = WIKILINK_RE.search(str(relation))
+                if not match:
+                    errors.append(
+                        {
+                            "file": str(path.relative_to(root)),
+                            "link": str(relation),
+                            "error": f"{field} must be a wikilink",
+                        }
+                    )
+                    continue
+                target_path = resolve_target(normalize_wikilink_target(match.group(1)))
+                if target_path is None or field != "evolves_from":
+                    continue
+                target_card_id = frontmatter.load(target_path).metadata.get("card_id")
+                if target_card_id in superseded_cards:
+                    errors.append(
+                        {
+                            "file": str(path.relative_to(root)),
+                            "link": str(relation),
+                            "error": "evolves_from points to superseded card",
+                        }
+                    )
+
+    return {
+        "files_checked": len(files),
+        "links_checked": links_checked,
+        "errors": errors,
+    }
 
 
 def main() -> None:
@@ -97,7 +256,15 @@ def main() -> None:
     parser.add_argument("--run-id", default="demo")
     parser.add_argument("--round", default="1")
     args = parser.parse_args()
+    if args.round == "2":
+        paths = PipelinePaths(args.run_id)
+        report = validate_vault_links(ROOT)
+        write_json(paths.validation_round2, report)
+        if report["errors"]:
+            raise SystemExit(1)
+        return
     if args.round != "1":
+        raise SystemExit(f"unsupported validation round: {args.round}")
         return
     paths = PipelinePaths(args.run_id)
     validate_cards_file(paths.extracted, paths.valid_cards, paths.dlq, ROOT / "_scripts/themes.yaml")

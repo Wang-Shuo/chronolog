@@ -14,6 +14,7 @@ def main() -> None:
     parser.add_argument("--run-id", default="demo")
     parser.add_argument("--fixture", action="store_true")
     parser.add_argument("--today", default="2026-06-26")
+    parser.add_argument("--reconcile", action="store_true")
     args = parser.parse_args()
 
     collect_args = ["_scripts/collect.py", "--run-id", args.run_id]
@@ -25,7 +26,11 @@ def main() -> None:
     run_step(["_scripts/analyze_a.py", "--run-id", args.run_id])
     run_step(["_scripts/analyze_b.py", "--run-id", args.run_id])
     run_step(["_scripts/silence_monitor.py", "--run-id", args.run_id, "--today", args.today])
-    run_step(["_scripts/writer.py", "--run-id", args.run_id])
+    writer_args = ["_scripts/writer.py", "--run-id", args.run_id]
+    if args.reconcile:
+        writer_args.append("--reconcile")
+    run_step(writer_args)
+    run_step(["_scripts/validate.py", "--round", "2", "--run-id", args.run_id])
 
 
 if __name__ == "__main__":

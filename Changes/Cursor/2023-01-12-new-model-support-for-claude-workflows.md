@@ -2,7 +2,7 @@
 card_id: cursor-2023-01-12-ae3b07
 date: '2023-01-12'
 diffusion:
-  first_in_tracked: aider-2023-01-10-b552e3
+  first_in_tracked: '[[Changes/Aider/2023-01-10-added-model-support-for-claude-and-gpt-coding-workflows|aider-2023-01-10-b552e3]]'
   lag_days: 2
   role: follower
   scope: tracked-products-only
@@ -11,12 +11,12 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v1
 impact: significant
-machine_hash: 4a82d8f0d056c6fe64c12e851683a7a7efc41f63480969461706a9d174d1e399
+machine_hash: 186c406a0188a7ddda88ed10cc50e47daa98b0a3ab9216f23c3465996a5b2046
 product: cursor
 product_name: Cursor
 related_changes:
-- aider-2023-01-10-b552e3
-source_release: cursor-2023-01-12-v0-20
+- '[[Changes/Aider/2023-01-10-added-model-support-for-claude-and-gpt-coding-workflows|aider-2023-01-10-b552e3]]'
+source_release: '[[Releases/Cursor/2023-01-12-cursor-2023-01-12-v0-20|cursor-2023-01-12-v0-20]]'
 theme: model-support
 type: change
 ---
@@ -38,7 +38,12 @@ No prior tracked change.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
-{'theme': 'model-support', 'scope': 'tracked-products-only', 'role': 'follower', 'first_in_tracked': 'aider-2023-01-10-b552e3', 'lag_days': 2, 'tracked_products_count': 5}
+- Theme: model-support
+- Scope: tracked-products-only
+- Role: follower
+- First In Tracked: [[Changes/Aider/2023-01-10-added-model-support-for-claude-and-gpt-coding-workflows|aider-2023-01-10-b552e3]]
+- Lag Days: 2
+- Tracked Products Count: 5
 <!-- chronolog:end -->
 
 ## Editor Notes

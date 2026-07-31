@@ -2,23 +2,23 @@
 card_id: continue-2025-08-08-e0effa
 date: '2025-08-08'
 diffusion:
-  first_in_tracked: continue-2023-05-01-a04fa0
+  first_in_tracked: '[[Changes/Continue/2023-05-01-context-providers-now-index-workspace-symbols|continue-2023-05-01-a04fa0]]'
   lag_days: 830
   role: variant
   scope: tracked-products-only
   theme: context-window
   tracked_products_count: 5
 evolves_from:
-- continue-2023-05-01-a04fa0
+- '[[Changes/Continue/2023-05-01-context-providers-now-index-workspace-symbols|continue-2023-05-01-a04fa0]]'
 extractor_version: fallback-v1
 impact: incremental
-machine_hash: c076b57f3cec5c238337e004662b5910feb913f796aae979cf9013415318d5c8
+machine_hash: fe75d7284df16af5e5109564c3b0af140ffd351446a640654fadd8a355872eb9
 product: continue
 product_name: Continue
 related_changes:
-- continue-2023-05-01-a04fa0
-- cursor-2025-03-15-00a415
-source_release: continue-2025-08-08-v1-2
+- '[[Changes/Continue/2023-05-01-context-providers-now-index-workspace-symbols|continue-2023-05-01-a04fa0]]'
+- '[[Changes/Cursor/2025-03-15-context-window-expanded-to-200k-tokens|cursor-2025-03-15-00a415]]'
+source_release: '[[Releases/Continue/2025-08-08-continue-2025-08-08-v1-2|continue-2025-08-08-v1-2]]'
 theme: context-window
 type: change
 ---
@@ -36,11 +36,16 @@ Context window handling improved for monorepos
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- continue-2023-05-01-a04fa0
+- [[Changes/Continue/2023-05-01-context-providers-now-index-workspace-symbols|continue-2023-05-01-a04fa0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
-{'theme': 'context-window', 'scope': 'tracked-products-only', 'role': 'variant', 'first_in_tracked': 'continue-2023-05-01-a04fa0', 'lag_days': 830, 'tracked_products_count': 5}
+- Theme: context-window
+- Scope: tracked-products-only
+- Role: variant
+- First In Tracked: [[Changes/Continue/2023-05-01-context-providers-now-index-workspace-symbols|continue-2023-05-01-a04fa0]]
+- Lag Days: 830
+- Tracked Products Count: 5
 <!-- chronolog:end -->
 
 ## Editor Notes

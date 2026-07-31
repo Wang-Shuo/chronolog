@@ -40,6 +40,41 @@ def test_analyze_products_creates_eras_and_evolves_from():
     ]
 
 
+def test_analyze_products_never_splits_one_release_across_eras():
+    cards = [
+        {
+            "card_id": f"cursor-2025-01-01-{suffix}",
+            "product": "cursor",
+            "product_name": "Cursor",
+            "date": "2025-01-01",
+            "theme": theme,
+            "source_release": "cursor-2025-01-01-v1",
+        }
+        for suffix, theme in [
+            ("aaaaaa", "agent-mode"),
+            ("bbbbbb", "context-window"),
+            ("cccccc", "model-support"),
+        ]
+    ]
+    cards.append(
+        {
+            "card_id": "cursor-2026-01-01-dddddd",
+            "product": "cursor",
+            "product_name": "Cursor",
+            "date": "2026-01-01",
+            "theme": "collaboration",
+            "source_release": "cursor-2026-01-01-v2",
+        }
+    )
+
+    eras = analyze_products(cards)["products"]["cursor"]["eras"]
+
+    assert [(era["from"], era["to"]) for era in eras] == [
+        ("2025-01-01", "2025-01-01"),
+        ("2026-01-01", None),
+    ]
+
+
 def test_analyze_themes_creates_related_changes_and_diffusion():
     cards = [
         {

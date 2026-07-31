@@ -2,7 +2,7 @@
 card_id: openhands-2023-06-21-6a2d25
 date: '2023-06-21'
 diffusion:
-  first_in_tracked: aider-2023-01-10-b552e3
+  first_in_tracked: '[[Changes/Aider/2023-01-10-added-model-support-for-claude-and-gpt-coding-workflows|aider-2023-01-10-b552e3]]'
   lag_days: 162
   role: follower
   scope: tracked-products-only
@@ -11,14 +11,14 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v1
 impact: significant
-machine_hash: a79389d3518148345d10306f570bcaf20a0b988a616c77e2947771874b3855d8
+machine_hash: dcb9a0e00368e7a14eca162e0ff559d19635f7ea379d91660570fddea7b5e018
 product: openhands
 product_name: OpenHands
 related_changes:
-- cursor-2023-01-12-ae3b07
-- tabby-2023-03-18-b01922
-- continue-2023-05-01-211175
-source_release: openhands-2023-06-21-v0-7
+- '[[Changes/Cursor/2023-01-12-new-model-support-for-claude-workflows|cursor-2023-01-12-ae3b07]]'
+- '[[Changes/Tabby/2023-03-18-model-support-adds-new-code-specialized-model-presets|tabby-2023-03-18-b01922]]'
+- '[[Changes/Continue/2023-05-01-model-support-adds-configurable-local-llm-options|continue-2023-05-01-211175]]'
+source_release: '[[Releases/OpenHands/2023-06-21-openhands-2023-06-21-v0-7|openhands-2023-06-21-v0-7]]'
 theme: model-support
 type: change
 ---
@@ -40,7 +40,12 @@ No prior tracked change.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
-{'theme': 'model-support', 'scope': 'tracked-products-only', 'role': 'follower', 'first_in_tracked': 'aider-2023-01-10-b552e3', 'lag_days': 162, 'tracked_products_count': 5}
+- Theme: model-support
+- Scope: tracked-products-only
+- Role: follower
+- First In Tracked: [[Changes/Aider/2023-01-10-added-model-support-for-claude-and-gpt-coding-workflows|aider-2023-01-10-b552e3]]
+- Lag Days: 162
+- Tracked Products Count: 5
 <!-- chronolog:end -->
 
 ## Editor Notes

@@ -2,25 +2,23 @@
 card_id: openhands-2026-01-10-3534d8
 date: '2026-01-10'
 diffusion:
-  first_in_tracked: openhands-2023-06-21-ebc797
-  lag_days: 934
-  role: variant
+  first_in_tracked: '[[Changes/Continue/2025-08-08-team-collaboration-settings-can-share-assistant-rules|continue-2025-08-08-1b915c]]'
+  lag_days: 155
+  role: follower
   scope: tracked-products-only
-  theme: agent-mode
+  theme: collaboration
   tracked_products_count: 5
-evolves_from:
-- openhands-2023-06-21-ebc797
+evolves_from: []
 extractor_version: fallback-v1
 impact: paradigm-shift
-machine_hash: 8559ac0651f542cbfc89c1548b549f164072b0bed765f701aced14e98203208d
+machine_hash: 37fb753f0f101ec179bd706c009e9129c1a58bda4cb294afb57b01fcc5e9d0f4
 product: openhands
 product_name: OpenHands
 related_changes:
-- openhands-2023-06-21-ebc797
-- aider-2025-01-20-d2e795
-- cursor-2025-03-15-7c7731
-source_release: openhands-2026-01-10-v1-0
-theme: agent-mode
+- '[[Changes/Continue/2025-08-08-team-collaboration-settings-can-share-assistant-rules|continue-2025-08-08-1b915c]]'
+- '[[Changes/Tabby/2025-10-02-collaboration-controls-add-team-level-model-policies|tabby-2025-10-02-c75d0c]]'
+source_release: '[[Releases/OpenHands/2026-01-10-openhands-2026-01-10-v1-0|openhands-2026-01-10-v1-0]]'
+theme: collaboration
 type: change
 ---
 
@@ -37,11 +35,16 @@ Collaboration workflow lets reviewers approve agent actions
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- openhands-2023-06-21-ebc797
+No prior tracked change.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
-{'theme': 'agent-mode', 'scope': 'tracked-products-only', 'role': 'variant', 'first_in_tracked': 'openhands-2023-06-21-ebc797', 'lag_days': 934, 'tracked_products_count': 5}
+- Theme: collaboration
+- Scope: tracked-products-only
+- Role: follower
+- First In Tracked: [[Changes/Continue/2025-08-08-team-collaboration-settings-can-share-assistant-rules|continue-2025-08-08-1b915c]]
+- Lag Days: 155
+- Tracked Products Count: 5
 <!-- chronolog:end -->
 
 ## Editor Notes

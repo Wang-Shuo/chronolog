@@ -53,3 +53,9 @@ def test_pipeline_paths_collected_points_to_run_output():
     assert PipelinePaths("demo").collected.as_posix().endswith(
         "_pipeline/demo/01-collected/releases.json"
     )
+    assert PipelinePaths("demo").theme_candidates.as_posix().endswith(
+        "_pipeline/demo/02-extracted/theme_candidates.json"
+    )
+    assert PipelinePaths("demo").validation_round2.as_posix().endswith(
+        "_pipeline/demo/04-validated/report.json"
+    )
