@@ -227,7 +227,11 @@ local checks from the seven real daily runs and public deployment still required
 The `Quality` workflow runs tests, golden samples, Vault validation, Quartz and
 actual publication/RSS checks on every PR. `Generate review candidate` works in an
 isolated copy and updates `codex/chronolog-updates` only after its gates pass.
-Timestamp-only acquisition changes produce a run report without opening a PR.
+Generation has read-only repository permissions. A separate publisher uses the
+job-scoped `GITHUB_TOKEN` to push content, maintain a bot-authored PR and explicitly
+dispatch Quality for its exact head. No bot account or long-lived PAT is required.
+Timestamp-only acquisition changes produce a run report without opening a PR;
+an existing PR still gets Quality dispatched to recover a previous trigger failure.
 `Deploy reviewed site` accepts merged commits whose PR final head received human
 approval; direct pushes do not deploy.
 
@@ -239,6 +243,9 @@ Local validation without changing the Vault:
 ```
 
 Set `CHRONOLOG_BASE_URL=host/path` for the intended deployment. RSS is enabled and
-checked against the active search index. GitHub repository/Pages configuration,
-`CHRONOLOG_BOT_TOKEN`, branch protection and real operational acceptance are still
-pending; YAML files alone do not establish a live service.
+checked against the active search index. The first reviewed Pages deployment is
+live at https://wang-shuo.github.io/chronolog/. Repository permissions and branch
+protection are configured. The temporary-credential workflow change must merge
+through a reviewed delivery PR before taking effect on the default branch; seven
+real daily runs and recovery/handoff acceptance remain outstanding. See the
+[M3 operations runbook](docs/m3-operations.md).

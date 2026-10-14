@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-14",
+  "method": "Browser UI observation via CUA, against the deployed public site",
+  "home": {
+    "url": "https://wang-shuo.github.io/chronolog/",
+    "status": "passed"
+  },
+  "search": {
+    "query": "agent-mode",
+    "result": "Agent Mode",
+    "status": "passed"
+  },
+  "theme_navigation": {
+    "url": "https://wang-shuo.github.io/chronolog/Themes/agent-mode",
+    "status": "passed"
+  },
+  "change_navigation": {
+    "url": "https://wang-shuo.github.io/chronolog/Changes/Claude-Code/2026-10-09-added-claude-code-workflow-subagent-model-to-run-every-workflow-agent-on-one-mod",
+    "status": "passed"
+  },
+  "scope": "Live smoke navigation; full HTML link/index/graph checks are in the build artifact."
+}

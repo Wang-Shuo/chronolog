@@ -2,6 +2,11 @@ name: Quality
 on:
   pull_request:
   workflow_dispatch:
+    inputs:
+      expected_head:
+        description: Exact PR head requested by the publisher (empty for a manual check)
+        type: string
+        required: false
 permissions:
   contents: read
 concurrency:
@@ -15,6 +20,15 @@ jobs:
       - uses: actions/checkout@v4
         with:
           persist-credentials: false
+      - name: Verify dispatched commit
+        if: github.event_name == 'workflow_dispatch'
+        env:
+          EXPECTED_HEAD: ${{ inputs.expected_head }}
+        run: |
+          if [ -n "$EXPECTED_HEAD" ]; then
+            test "$GITHUB_SHA" = "$EXPECTED_HEAD" || { echo 'Branch changed after dispatch; rerun Quality for its latest head.'; exit 1; }
+            test "$(git rev-parse HEAD)" = "$EXPECTED_HEAD"
+          fi
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'

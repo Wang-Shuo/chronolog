@@ -1,42 +1,59 @@
-name: Open initial delivery PR
+name: Open delivery PR
 on:
   workflow_dispatch:
+    inputs:
+      head:
+        description: Existing codex/ branch to submit for human review
+        type: string
+        required: true
+        default: codex/m3-delivery
+      title:
+        description: Delivery PR title
+        type: string
+        required: true
+        default: Deliver ChronoLog changes for human review
+      body:
+        description: Change description and validation evidence
+        type: string
+        required: true
 permissions:
   contents: read
   pull-requests: write
+  actions: write
 concurrency:
-  group: initial-delivery-pr
+  group: delivery-pr-${{ inputs.head }}
   cancel-in-progress: false
 jobs:
   open-pr:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - name: Open one bot-authored delivery PR
+      - name: Open bot-authored delivery PR and dispatch Quality
         env:
           GH_TOKEN: ${{ github.token }}
+          HEAD_BRANCH: ${{ inputs.head }}
+          BASE_BRANCH: ${{ github.event.repository.default_branch }}
+          PR_TITLE: ${{ inputs.title }}
+          PR_BODY: ${{ inputs.body }}
         run: |
-          existing="$(gh pr list --repo "$GITHUB_REPOSITORY" --base main --head codex/m3-delivery --state all --json number,state --jq '.[0].number // empty')"
+          case "$HEAD_BRANCH" in codex/*) ;; *) echo 'Delivery branches must use codex/.'; exit 1;; esac
+          git check-ref-format --branch "$HEAD_BRANCH"
+          head_sha="$(gh api "repos/$GITHUB_REPOSITORY/git/ref/heads/$HEAD_BRANCH" --jq .object.sha)"
+          existing="$(gh pr list --repo "$GITHUB_REPOSITORY" --base "$BASE_BRANCH" --head "$HEAD_BRANCH" --state all --json number --jq '.[0].number // empty')"
           if [ -n "$existing" ]; then
             state="$(gh pr view "$existing" --repo "$GITHUB_REPOSITORY" --json state --jq .state)"
-            author="$(gh pr view "$existing" --repo "$GITHUB_REPOSITORY" --json author --jq .author.login)"
             if [ "$state" = MERGED ]; then
-              echo "Initial delivery has already merged in PR #$existing."
-              exit 0
-            fi
-            if [ "$state" = OPEN ]; then
-              test "$author" = 'app/github-actions' || { echo 'An open human-authored delivery PR must be closed before replacement.'; exit 1; }
-              gh pr view "$existing" --repo "$GITHUB_REPOSITORY" --json url --jq .url
+              echo "Already delivered in PR #$existing. Use a new branch for new work."
               exit 0
             fi
           fi
-          cat > "$RUNNER_TEMP/delivery.md" <<'BODY'
-          Deliver the accepted M1 reliability and M2 content work, plus M3 quality gates, rolling generation, dated ChatGPT snapshot fallback and reviewed GitHub Pages deployment.
-
-          Local regression: 151 tests passed. Production-base preflight validated 2,756 active pages and 30 RSS entries. See docs/acceptance/m3-enablement-2026-10-14.md and docs/m3-operations.md for evidence and remaining C1–C5 acceptance.
-
-          This PR is created by GitHub Actions so Wang-Shuo can independently approve the final head. Quality must pass before merge. The maintainer must trigger Quality for this branch explicitly because PR events created by GITHUB_TOKEN do not start another workflow. Merging enables the reviewed deployment; it does not by itself complete M3 operational acceptance.
-          BODY
-          gh pr create --repo "$GITHUB_REPOSITORY" --base main --head codex/m3-delivery \
-            --title 'Deliver reliable content pipeline and reviewed Pages operations' \
-            --body-file "$RUNNER_TEMP/delivery.md"
+          if [ -n "$existing" ] && [ "$state" = OPEN ]; then
+            author="$(gh pr view "$existing" --repo "$GITHUB_REPOSITORY" --json author --jq .author.login)"
+            test "$author" = 'app/github-actions' || { echo 'Existing delivery PR must be bot-authored.'; exit 1; }
+            gh pr view "$existing" --repo "$GITHUB_REPOSITORY" --json url --jq .url
+          else
+            printf '%s\n' "$PR_BODY" > "$RUNNER_TEMP/delivery.md"
+            gh pr create --repo "$GITHUB_REPOSITORY" --base "$BASE_BRANCH" --head "$HEAD_BRANCH" \
+              --title "$PR_TITLE" --body-file "$RUNNER_TEMP/delivery.md"
+          fi
+          gh workflow run quality.yml --repo "$GITHUB_REPOSITORY" --ref "$HEAD_BRANCH" -f "expected_head=$head_sha"

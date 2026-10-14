@@ -10,6 +10,10 @@ concurrency:
   cancel-in-progress: false
 jobs:
   generate:
+    if: github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+    permissions:
+      contents: read
+      pull-requests: read
     runs-on: ubuntu-latest
     timeout-minutes: 45
     steps:
@@ -26,13 +30,12 @@ jobs:
           cache: npm
       - name: Prepare managed review branch
         env:
-          GH_TOKEN: ${{ secrets.CHRONOLOG_BOT_TOKEN }}
+          GH_TOKEN: ${{ github.token }}
           BASE_BRANCH: ${{ github.event.repository.default_branch }}
         run: |
-          test -n "$GH_TOKEN" || { echo 'CHRONOLOG_BOT_TOKEN is required so PR checks are triggered.'; exit 1; }
           gh auth setup-git
-          git config user.name 'chronolog-bot'
-          git config user.email 'chronolog-bot@users.noreply.github.com'
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           python -m _scripts.rolling_pr prepare --base "$BASE_BRANCH" --state _pipeline/rolling-state.json
       - run: python -m pip install -e '.[dev]'
       - run: npm ci
@@ -43,10 +46,14 @@ jobs:
         run: |
           base="${SITE_BASE:-${GITHUB_REPOSITORY_OWNER}.github.io/${GITHUB_REPOSITORY#*/}}"
           python -m _scripts.operations --mode generate --apply --run-id "daily-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}" --output _pipeline/operations --base-url "$base" --production --snapshot-bundle _inputs/chatgpt
-      - name: Create or update the single review PR
-        env:
-          GH_TOKEN: ${{ secrets.CHRONOLOG_BOT_TOKEN }}
-        run: python -m _scripts.rolling_pr publish --state _pipeline/rolling-state.json --report _pipeline/operations
+      - name: Export gated candidate without writing to GitHub
+        run: python -m _scripts.rolling_pr package --state _pipeline/rolling-state.json --report _pipeline/operations --bundle _pipeline/publication
+      - uses: actions/upload-artifact@v4
+        with:
+          name: candidate-${{ github.run_id }}-${{ github.run_attempt }}
+          retention-days: 7
+          if-no-files-found: error
+          path: _pipeline/publication/
       - name: Summary and setup-failure record
         if: always()
         run: |
@@ -79,3 +86,39 @@ jobs:
             _pipeline/operations/candidate/_pipeline/*/manifest.json
             _pipeline/operations/candidate/_pipeline/*/04-validated/*.json
             _pipeline/operations/candidate/_pipeline/dlq/*.json
+
+  publish:
+    needs: generate
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+      pull-requests: write
+      actions: write
+    steps:
+      # Run only trusted workflow code; never check out or execute the artifact.
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.sha }}
+          fetch-depth: 0
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - uses: actions/download-artifact@v4
+        with:
+          name: candidate-${{ github.run_id }}-${{ github.run_attempt }}
+          path: _pipeline/publication
+      - name: Publish content PR and explicitly dispatch Quality
+        env:
+          GH_TOKEN: ${{ github.token }}
+          BASE_BRANCH: ${{ github.event.repository.default_branch }}
+        run: |
+          gh auth setup-git
+          python -m _scripts.rolling_pr publish-bundle --base "$BASE_BRANCH" --bundle _pipeline/publication
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: publication-${{ github.run_id }}-${{ github.run_attempt }}
+          retention-days: 90
+          path: _pipeline/publication/rolling-pr.json

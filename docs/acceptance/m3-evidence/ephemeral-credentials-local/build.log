@@ -1,0 +1,25 @@
+
+> chronolog@0.1.0 build
+> quartz build --directory /var/folders/l_/zfv9sxqn3v16__82whff46ym0000gp/T/chronolog-build-1e_1290v/vault --output /Users/wangshuo/SideProjects/chronolog/_pipeline/ephemeral-credentials-local/site
+
+
+[42m[30m Quartz v0.1.0 [39m[49m 
+
+(node:4659) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Cleaned output directory `/Users/wangshuo/SideProjects/chronolog/_pipeline/ephemeral-credentials-local/site` in [33m2ms[39m
+Found 3129 input files from `/var/folders/l_/zfv9sxqn3v16__82whff46ym0000gp/T/chronolog-build-1e_1290v/vault` in [33m126ms[39m
+Parsing input files using 4 threads
+(node:4659) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:4659) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:4659) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:4659) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Parsed 3129 Markdown files in [33m8s[39m
+Filtered out 373 files in [33m13ms[39m
+Emitting files
+Emitted 2782 files to `/Users/wangshuo/SideProjects/chronolog/_pipeline/ephemeral-credentials-local/site` in [33m5s[39m
+[32mDone processing 3129 files in [33m13s[39m[39m
