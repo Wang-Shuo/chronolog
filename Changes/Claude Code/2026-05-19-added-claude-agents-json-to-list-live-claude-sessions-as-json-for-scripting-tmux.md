@@ -3,31 +3,54 @@ card_id: claude-code-2026-05-19-9159e4
 date: '2026-05-19'
 diffusion:
   first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1048
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: agent-mode
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Claude Code/2026-05-19-added-agent-id-and-parent-agent-id-attributes-to-claude-code-tool-otel-spans-and|claude-code-2026-05-19-78d620]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: eddff195506174a26cf29b8181fc6a7a6745887acb2b34eed287ba64d78f298c
+machine_hash: aec881ccf58e0e376fd02118afd2fd5f549d4f40a767642757efba0e2de3b657
 product: claude-code
 product_name: Claude Code
+record:
+  card_id: claude-code-2026-05-19-9159e4
+  comparison: ''
+  date: '2026-05-19'
+  description: 'Claude Code — v2.1.145: Added `claude agents --json` to list live
+    Claude sessions as JSON for scripting (tmux-resurrect, status bars, session pickers)'
+  evidence:
+  - quote: Added `claude agents --json` to list live Claude sessions as JSON for scripting
+      (tmux-resurrect, status bars, session pickers)
+    source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.145
+  extractor_version: fallback-v3
+  impact: incremental
+  product: claude-code
+  product_name: Claude Code
+  slug: added-claude-agents-json-to-list-live-claude-sessions-as-json-for-scripting-tmux
+  source_release: claude-code-2026-05-19-v2-1-145-github-325388499-227a5ce4
+  source_type: github_releases
+  theme: agent-mode
+  title: Added `claude agents --json` to list live Claude sessions as JSON for scripting
+  type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-19-added-resume-support-for-background-sessions-sessions-started-via-claude-bg-or-a|claude-code-2026-05-19-215520]]'
 - '[[Changes/Claude Code/2026-05-19-claude-agents-terminal-tab-title-now-shows-the-awaiting-input-count-so-an-alt-ta|claude-code-2026-05-19-2f1483]]'
 - '[[Changes/Claude Code/2026-05-19-added-agent-id-and-parent-agent-id-attributes-to-claude-code-tool-otel-spans-and|claude-code-2026-05-19-78d620]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-19-v2-1-145-github-325388499-227a5ce4|claude-code-2026-05-19-v2-1-145-github-325388499-227a5ce4]]'
+source_type: github_releases
 theme: agent-mode
+title: Added claude agents --json to list live Claude sessions as JSON for scripting
 type: change
 ---
 
 # Added `claude agents --json` to list live Claude sessions as JSON for scripting
 
 <!-- chronolog:begin region="description" -->
-Added `claude agents --json` to list live Claude sessions as JSON for scripting (tmux-resurrect, status bars, session pickers)
+Claude Code — v2.1.145: Added `claude agents --json` to list live Claude sessions as JSON for scripting (tmux-resurrect, status bars, session pickers)
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +60,15 @@ Added `claude agents --json` to list live Claude sessions as JSON for scripting 
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Claude Code/2026-05-19-added-agent-id-and-parent-agent-id-attributes-to-claude-code-tool-otel-spans-and|claude-code-2026-05-19-78d620]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: agent-mode
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
+- Role: later-observed
 - First In Tracked: [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]
 - Lag Days: 1048
 - Tracked Products Count: 3

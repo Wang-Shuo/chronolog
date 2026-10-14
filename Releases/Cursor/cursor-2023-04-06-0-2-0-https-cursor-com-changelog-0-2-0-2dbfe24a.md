@@ -1,9 +1,20 @@
 ---
 changes_count: 5
 date: '2023-04-06'
-machine_hash: da397600388d9e12ba149335166f9139f07373255c82f09c45f488704fed1fc3
+machine_hash: 28f87e22bb3114df974d534c5e19fa98548813f445b5906a0799f95d21257a03
 product: cursor
 product_name: Cursor
+record:
+  date: '2023-04-06'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2023-04-06-0-2-0-https-cursor-com-changelog-0-2-0-2dbfe24a
+  source_summary: We've transitioned to building Cursor on top of a fork of VSCodium,
+    moving away from our previous Codemirror-based approach.
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-2-0
+  title: Introducing Cursor 0.2.0! (2023-04-06)
+  version: 0.2.0
 release_id: cursor-2023-04-06-0-2-0-https-cursor-com-changelog-0-2-0-2dbfe24a
 source_release: Introducing Cursor 0.2.0! (2023-04-06)
 source_type: cursor_changelog
@@ -11,6 +22,7 @@ source_url: https://cursor.com/changelog/0-2-0
 tags:
 - release
 - cursor
+title: Cursor — Introducing Cursor 0.2.0! (2023-04-06)
 version: 0.2.0
 ---
 

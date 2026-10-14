@@ -1,9 +1,22 @@
 ---
 changes_count: 1
 date: '2026-07-08'
-machine_hash: 31db173e8bdc01ac235cab962a387c8e417bc48d1d486fd458fb170e4844f70c
+machine_hash: 83f82d4a5b990538ba453bee41ab76419d9f9bd461a351c6d4e4d8ce17fe7250
 product: chatgpt
 product_name: ChatGPT
+record:
+  date: '2026-07-08'
+  product: chatgpt
+  product_name: ChatGPT
+  release_id: chatgpt-2026-07-08-introducing-gpt-live-1-in-chatgpt-voice-9a0cfc91
+  source_summary: We’re rolling out a new ChatGPT Voice experience. ChatGPT Voice
+    is now powered by GPT-Live-1 for paid users and GPT-Live-1 mini for Free users.
+    Both models can listen and speak at the same time, making turn-taking and interruptions
+    feel more natural.GPT-Live-1 works inside a ChatGPT chat, with spoken responses…
+  source_type: chatgpt_changelog
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpt-live-1-in-chatgpt-voice
+  title: Introducing GPT-Live-1 in ChatGPT Voice
+  version: Introducing GPT-Live-1 in ChatGPT Voice
 release_id: chatgpt-2026-07-08-introducing-gpt-live-1-in-chatgpt-voice-9a0cfc91
 source_release: Introducing GPT-Live-1 in ChatGPT Voice
 source_type: chatgpt_changelog
@@ -11,6 +24,7 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#in
 tags:
 - release
 - chatgpt
+title: ChatGPT — Introducing GPT-Live-1 in ChatGPT Voice
 version: Introducing GPT-Live-1 in ChatGPT Voice
 ---
 
@@ -18,7 +32,7 @@ version: Introducing GPT-Live-1 in ChatGPT Voice
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
-We’re rolling out a new ChatGPT Voice experience. ChatGPT Voice is now powered by GPT-Live-1 for paid users and GPT-Live-1 mini for Free users. Both models can listen and speak at the same time, making turn-taking and interruptions feel more natural. GPT-Live-1 works inside a ChatGPT chat, with spoken responses…
+We’re rolling out a new ChatGPT Voice experience. ChatGPT Voice is now powered by GPT-Live-1 for paid users and GPT-Live-1 mini for Free users. Both models can listen and speak at the same time, making turn-taking and interruptions feel more natural.GPT-Live-1 works inside a ChatGPT chat, with spoken responses…
 
 [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpt-live-1-in-chatgpt-voice)
 

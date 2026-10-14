@@ -1,9 +1,23 @@
 ---
 changes_count: 1
 date: '2025-11-05'
-machine_hash: 9db0c348dd3e67efaeddd513dac98ad2de717a34e64470edbc32c0903cd17fa4
+machine_hash: c426509228179fd9b25f7237655231ca7139d26fa98ebd764616346739681cb8
 product: chatgpt
 product_name: ChatGPT
+record:
+  date: '2025-11-05'
+  product: chatgpt
+  product_name: ChatGPT
+  release_id: chatgpt-2025-11-05-interrupt-chatgpt-f1320118
+  source_summary: You can now interrupt long-running queries (such as deep research
+    or GPT-5 Pro) to refine what you’re asking—no restart required or progress lost.
+    For example, if you're researching the perfect bookshelf and suddenly remember
+    that your wall is 72" wide and you can't drill into it, you can simply add that
+    information…
+  source_type: chatgpt_changelog
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#interrupt-chatgpt
+  title: Interrupt ChatGPT
+  version: Interrupt ChatGPT
 release_id: chatgpt-2025-11-05-interrupt-chatgpt-f1320118
 source_release: Interrupt ChatGPT
 source_type: chatgpt_changelog
@@ -11,6 +25,7 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#in
 tags:
 - release
 - chatgpt
+title: ChatGPT — Interrupt ChatGPT
 version: Interrupt ChatGPT
 ---
 

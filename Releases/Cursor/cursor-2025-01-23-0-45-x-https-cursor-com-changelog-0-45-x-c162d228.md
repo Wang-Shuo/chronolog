@@ -1,9 +1,21 @@
 ---
 changes_count: 5
 date: '2025-01-23'
-machine_hash: cd975ea9f61c7149d478eefa9bd326b08a95cfc017dbe44424d5bd074e67ee66
+machine_hash: c83c6c8e8fd4d24a0a0ea281e4a4298d19dc5d9a26ac9d16275593c56e9ef4bd
 product: cursor
 product_name: Cursor
+record:
+  date: '2025-01-23'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2025-01-23-0-45-x-https-cursor-com-changelog-0-45-x-c162d228
+  source_summary: '.cursor/rules: Users can write several repository-level rules to
+    disk in the .cursor/rules directory. The Agent will automatically choose which
+    rule to follow.'
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-45-x
+  title: .cursor/rules, Better Codebase Understanding, New Tab Model
+  version: 0.45.x
 release_id: cursor-2025-01-23-0-45-x-https-cursor-com-changelog-0-45-x-c162d228
 source_release: .cursor/rules, Better Codebase Understanding, New Tab Model
 source_type: cursor_changelog
@@ -11,6 +23,7 @@ source_url: https://cursor.com/changelog/0-45-x
 tags:
 - release
 - cursor
+title: Cursor — .cursor/rules, Better Codebase Understanding, New Tab Model
 version: 0.45.x
 ---
 

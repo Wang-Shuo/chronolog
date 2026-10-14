@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-08-07-listener-warm-and-laid-back-reflecting-your-thoughts-back-with-calm-clarity-and|chatgpt-2025-08-07-89fad6]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: f45ecfd13ea16b47027b3b576d37f358732521434cade9e19430973b6a288801
+machine_hash: 2a4dd7187c396d662b2fcf79bbb3b9156e1f550858bc28c225823ae23eaaf2aa
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-08-07-nerd-playful-and-curious-explaining-concepts-clearly-while-celebrating-knowledge|chatgpt-2025-08-07-4f72dd]]'
 - '[[Changes/ChatGPT/2025-08-07-listener-warm-and-laid-back-reflecting-your-thoughts-back-with-calm-clarity-and|chatgpt-2025-08-07-89fad6]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-07-personalities-0d95bb60|chatgpt-2025-08-07-personalities-0d95bb60]]'
+superseded: true
 theme: memory
 type: change
 ---

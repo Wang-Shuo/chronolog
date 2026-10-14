@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2023-11-06-plus-and-enterprise-users-can-start-creating-gpts-this-week-later-this-month-we|chatgpt-2023-11-06-0f90b0]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: d1b32c9d67a54bb683926c284d3b1ff1843eb695f9db12c95c003b38d6ae5621
+machine_hash: 918638a991f76ae56b384d408bd7de75a6b2eb2524bad90efdf722b12a4ecfb1
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2023-10-20-cursor-is-now-based-on-vs-code-1-83-1-this-ensures-that-the-newest-versions-of-a|cursor-2023-10-20-3eaae6]]'
 - '[[Changes/ChatGPT/2023-11-06-plus-and-enterprise-users-can-start-creating-gpts-this-week-later-this-month-we|chatgpt-2023-11-06-0f90b0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-11-06-introducing-gpts-3721c457|chatgpt-2023-11-06-introducing-gpts-3721c457]]'
+superseded: true
 theme: apps-integrations
 type: change
 ---

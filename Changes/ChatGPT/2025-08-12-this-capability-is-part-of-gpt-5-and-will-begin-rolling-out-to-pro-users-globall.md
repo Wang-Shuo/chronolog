@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-07-16-note-record-mode-originally-rolled-out-to-team-users-on-june-4-and-enterprise-ed|chatgpt-2025-07-16-e75335]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 942702865e1f934b00204400f8b8bc7be8bdf5d4944ad65aee61c137eeb1f4a9
+machine_hash: 17e027ad255f55433042cc53feac0d363a4829a2affe4477bf98177da515c4fe
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|chatgpt-2025-06-12-1cc56f]]'
 - '[[Changes/ChatGPT/2025-07-16-note-record-mode-originally-rolled-out-to-team-users-on-june-4-and-enterprise-ed|chatgpt-2025-07-16-e75335]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-12-gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-db727e12|chatgpt-2025-08-12-gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-db727e12]]'
+superseded: true
 theme: enterprise-admin
 type: change
 ---

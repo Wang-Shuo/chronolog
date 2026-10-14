@@ -1,16 +1,31 @@
 ---
-changes_count: 2
+changes_count: 1
 date: '2024-07-18'
-machine_hash: 4fbd5d5558a7c143b20a437e03a489a1f2e6e26f9dbd1343b1f8fdf435918e26
+machine_hash: 96b1f56f8c0c234c171859d4b7836eaa6dc6285776d41727aeb2aefa2e05a177
 product: chatgpt
 product_name: ChatGPT
+record:
+  date: '2024-07-18'
+  product: chatgpt
+  product_name: ChatGPT
+  release_id: chatgpt-2024-07-18-introducing-gpt-4o-mini-e0bf3077
+  source_summary: We’re introducing GPT-4o mini, the most capable and cost-efficient
+    small model available today. GPT-4o mini surpasses GPT-3.5 Turbo and other small
+    models on academic benchmarks across both textual intelligence and multimodal
+    reasoning and supports the same range of languages as GPT-4o. It also demonstrates
+    strong…
+  source_type: chatgpt_changelog
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpt-4o-mini
+  title: Introducing GPT-4o mini
+  version: Introducing GPT-4o mini
 release_id: chatgpt-2024-07-18-introducing-gpt-4o-mini-e0bf3077
 source_release: Introducing GPT-4o mini
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_5ce52d9f14
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpt-4o-mini
 tags:
 - release
 - chatgpt
+title: ChatGPT — Introducing GPT-4o mini
 version: Introducing GPT-4o mini
 ---
 
@@ -20,13 +35,12 @@ version: Introducing GPT-4o mini
 <!-- chronolog:begin region="summary" -->
 We’re introducing GPT-4o mini, the most capable and cost-efficient small model available today. GPT-4o mini surpasses GPT-3.5 Turbo and other small models on academic benchmarks across both textual intelligence and multimodal reasoning and supports the same range of languages as GPT-4o. It also demonstrates strong…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_5ce52d9f14)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpt-4o-mini)
 
-Tracked cards: 2
+Tracked cards: 1
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2024-07-18-we-re-introducing-gpt-4o-mini-the-most-capable-and-cost-efficient-small-model-av|We’re introducing GPT-4o mini, the most capable and cost-efficient small model a]]
-- model-support: [[Changes/ChatGPT/2024-07-18-you-can-read-more-about-gpt-4o-mini-in-the-blog-announcement-here|You can read more about GPT-4o mini in the blog announcement here.]]
+- model-support: [[Changes/ChatGPT/2024-07-18-we-re-introducing-gpt-4o-mini-the-most-capable-and-cost-efficient-small-model-av-af297b|We’re introducing GPT-4o mini, the most capable and cost-efficient small model a]]
 <!-- chronolog:end -->

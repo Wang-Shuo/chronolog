@@ -12,12 +12,13 @@ evolves_from:
 - '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat|chatgpt-2023-07-20-4592e6]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 346ddee497e89b2eebfe94324928acec6dd681ae38012dc13a7889d19e6684da
+machine_hash: 0c5613fab3b272cec0a380e6bb36a2184007d1011a95c3c6fb6ee1b159ab6e9e
 product: chatgpt
 product_name: ChatGPT
 related_changes:
 - '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat|chatgpt-2023-07-20-4592e6]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-07-20-custom-instructions-are-rolling-out-in-beta-bf9360b9|chatgpt-2023-07-20-custom-instructions-are-rolling-out-in-beta-bf9360b9]]'
+superseded: true
 theme: memory
 type: change
 ---

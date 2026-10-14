@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2026-06-22-cursor-now-shows-you-a-leaderboard-of-the-most-popular-plugins-skills-and-mcps-a|cursor-2026-06-22-d630c9]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 92ecfc049ad7fd1c3187dea30772ab4a9fd0230dc38e3a3fd9d2c59f2c965b69
+machine_hash: 3b57587cd8b956d61df6f43119e2c69d55f4f46435aa8e710998cf7de555420a
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2026-06-18-world-cup-updates-chatgpt-can-now-help-you-follow-the-tournament-in-a-more-conve|chatgpt-2026-06-18-429264]]'
 - '[[Changes/Cursor/2026-06-22-cursor-now-shows-you-a-leaderboard-of-the-most-popular-plugins-skills-and-mcps-a|cursor-2026-06-22-d630c9]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-30-3-10-https-cursor-com-changelog-team-marketplace-updates-eb3caab2|cursor-2026-06-30-3-10-https-cursor-com-changelog-team-marketplace-updates-eb3caab2]]'
+superseded: true
 theme: collaboration
 type: change
 ---

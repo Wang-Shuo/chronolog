@@ -2,49 +2,76 @@
 card_id: chatgpt-2023-11-21-13b864
 date: '2023-11-21'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-voice-beta-is-now-rolling-out-to-plus-users-on-ios-and-android|chatgpt-2023-09-25-5ff815]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|chatgpt-2023-09-25-13666e]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 57
-  role: variant
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: voice
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|chatgpt-2023-09-25-cc74ad]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: f996ef6ec1701a12da214c84d2721b0122790d05e6863b1d112a461257f7690f
+machine_hash: 957a26b7cf1724da37e32014b1968b58f47f62dfb2ee842ca178e059e61129ff
 product: chatgpt
 product_name: ChatGPT
+record:
+  card_id: chatgpt-2023-11-21-13b864
+  comparison: ''
+  date: '2023-11-21'
+  description: 'ChatGPT — ChatGPT with voice is available to all users: ChatGPT with
+    voice is now available to all free users. Download the app on your phone and tap
+    the headphones icon to start a conversation.'
+  evidence:
+  - quote: ChatGPT with voice is now available to all free users. Download the app
+      on your phone and tap the headphones icon to start a conversation.
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-with-voice-is-available-to-all-users
+  extractor_version: fallback-v3
+  impact: incremental
+  product: chatgpt
+  product_name: ChatGPT
+  slug: chatgpt-with-voice-is-now-available-to-all-free-users-download-the-app-on-your-p
+  source_release: chatgpt-2023-11-21-chatgpt-with-voice-is-available-to-all-users-d2d904ca
+  source_type: chatgpt_changelog
+  theme: voice
+  title: ChatGPT with voice is now available to all free users. Download the app on
+    your
+  type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-09-25-voice-beta-is-now-rolling-out-to-plus-users-on-ios-and-android|chatgpt-2023-09-25-5ff815]]'
-- '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis|chatgpt-2023-09-25-79f0a5]]'
+- '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|chatgpt-2023-09-25-13666e]]'
 - '[[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|chatgpt-2023-09-25-cc74ad]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-11-21-chatgpt-with-voice-is-available-to-all-users-d2d904ca|chatgpt-2023-11-21-chatgpt-with-voice-is-available-to-all-users-d2d904ca]]'
+source_type: chatgpt_changelog
 theme: voice
+title: ChatGPT with voice is now available to all free users. Download the app on
+  your
 type: change
 ---
 
 # ChatGPT with voice is now available to all free users. Download the app on your
 
 <!-- chronolog:begin region="description" -->
-ChatGPT with voice is now available to all free users. Download the app on your phone and tap the headphones icon to start a conversation.
+ChatGPT — ChatGPT with voice is available to all users: ChatGPT with voice is now available to all free users. Download the app on your phone and tap the headphones icon to start a conversation.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > ChatGPT with voice is now available to all free users. Download the app on your phone and tap the headphones icon to start a conversation.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_3fb903d2d0
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-with-voice-is-available-to-all-users
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|chatgpt-2023-09-25-cc74ad]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: voice
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: variant
-- First In Tracked: [[Changes/ChatGPT/2023-09-25-voice-beta-is-now-rolling-out-to-plus-users-on-ios-and-android|chatgpt-2023-09-25-5ff815]]
+- Role: later-observed
+- First In Tracked: [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|chatgpt-2023-09-25-13666e]]
 - Lag Days: 57
 - Tracked Products Count: 3
 <!-- chronolog:end -->

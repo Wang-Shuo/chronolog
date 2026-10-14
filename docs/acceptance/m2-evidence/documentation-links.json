@@ -1,0 +1,10 @@
+{
+  "relative_file_links_checked": 77,
+  "errors": [],
+  "excluded_planned_site_routes": [
+    {
+      "file": "docs/chronolog-prd.md",
+      "planned_site_route": "/weak-signals"
+    }
+  ]
+}

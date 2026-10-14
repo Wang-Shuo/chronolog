@@ -3,31 +3,57 @@ card_id: cursor-2026-01-16-4777b9
 date: '2026-01-16'
 diffusion:
   first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 925
-  role: variant
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: agent-mode
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Cursor/2025-12-22-this-includes-the-core-agent-layout-controls-viewing-code-diffs-and-more-we-will|cursor-2025-12-22-8b0c63]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: ebc529bce9135aa02be536a847bca2581805df13a0d987cb496cf8b6dc467370
+machine_hash: 1e00d8cbc6902e15fe62536bdd24e6ca1e315a5e01db4d974cfe50ce6f8a7892
 product: cursor
 product_name: Cursor
+record:
+  card_id: cursor-2026-01-16-4777b9
+  comparison: ''
+  date: '2026-01-16'
+  description: 'Cursor — CLI Agent Modes and Cloud Handoff: Use Plan mode to design
+    your approach before coding. Cursor will ask clarifying questions to refine your
+    plan. Get started with /plan or --mode=plan.'
+  evidence:
+  - quote: Use Plan mode to design your approach before coding. Cursor will ask clarifying
+      questions to refine your plan. Get started with /plan or --mode=plan.
+    source_release: https://cursor.com/changelog/cli-jan-16-2026
+  extractor_version: fallback-v3
+  impact: incremental
+  product: cursor
+  product_name: Cursor
+  slug: use-plan-mode-to-design-your-approach-before-coding-cursor-will-ask-clarifying-q
+  source_release: cursor-2026-01-16-cli-agent-modes-and-cloud-handoff-https-cursor-com-changelog-cli-becd78b5
+  source_type: cursor_changelog
+  theme: agent-mode
+  theme_matches: []
+  theme_resolution: manual-backfill-review-v1
+  title: Use Plan mode to design your approach before coding. Cursor will ask clarifying
+  type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-11-added-claude-code-disable-background-tasks-environment-variable-to-disable-all-b|claude-code-2026-01-11-456334]]'
 - '[[Changes/Claude Code/2026-01-14-added-inline-display-of-agent-s-final-response-in-task-notifications-making-it-e|claude-code-2026-01-14-1c7708]]'
 - '[[Changes/Claude Code/2026-01-16-added-plansdirectory-setting-to-customize-where-plan-files-are-stored|claude-code-2026-01-16-16bbe2]]'
+- '[[Changes/Cursor/2026-01-16-push-your-local-conversation-to-a-cloud-agent-and-let-it-keep-running-while-you|cursor-2026-01-16-21ad37]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-16-cli-agent-modes-and-cloud-handoff-https-cursor-com-changelog-cli-becd78b5|cursor-2026-01-16-cli-agent-modes-and-cloud-handoff-https-cursor-com-changelog-cli-becd78b5]]'
+source_type: cursor_changelog
 theme: agent-mode
+title: Use Plan mode to design your approach before coding. Cursor will ask clarifying
 type: change
 ---
 
 # Use Plan mode to design your approach before coding. Cursor will ask clarifying
 
 <!-- chronolog:begin region="description" -->
-Use Plan mode to design your approach before coding. Cursor will ask clarifying questions to refine your plan. Get started with /plan or --mode=plan.
+Cursor — CLI Agent Modes and Cloud Handoff: Use Plan mode to design your approach before coding. Cursor will ask clarifying questions to refine your plan. Get started with /plan or --mode=plan.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +63,15 @@ Use Plan mode to design your approach before coding. Cursor will ask clarifying 
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Cursor/2025-12-22-this-includes-the-core-agent-layout-controls-viewing-code-diffs-and-more-we-will|cursor-2025-12-22-8b0c63]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: agent-mode
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: variant
+- Role: later-observed
 - First In Tracked: [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]
 - Lag Days: 925
 - Tracked Products Count: 3

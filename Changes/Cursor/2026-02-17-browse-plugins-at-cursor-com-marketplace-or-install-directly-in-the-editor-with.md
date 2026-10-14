@@ -2,32 +2,71 @@
 card_id: cursor-2026-02-17-acbb31
 date: '2026-02-17'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed|chatgpt-2023-03-23-86e5a9]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1062
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Cursor/2026-02-17-plugins-on-the-cursor-marketplace|cursor-2026-02-17-96d57d]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 988c9248dfdb1abfbd45d310e00a4ee6abe36671bfa84bdaa0e9c1b8ddd3bf71
+machine_hash: 873421628c1b05d41c331671e8aea9888294fefb4593c6e6f9abe8cfae001787
 product: cursor
 product_name: Cursor
+record:
+  card_id: cursor-2026-02-17-acbb31
+  comparison: ''
+  date: '2026-02-17'
+  description: 'Cursor — Plugins, Sandbox Access Controls, and Async Subagents: Browse
+    plugins at cursor.com/marketplace or install directly in the editor with /add-plugin.'
+  evidence:
+  - quote: Browse plugins at cursor.com/marketplace or install directly in the editor
+      with /add-plugin.
+    source_release: https://cursor.com/changelog/2-5
+  extractor_version: fallback-v3
+  impact: incremental
+  product: cursor
+  product_name: Cursor
+  slug: browse-plugins-at-cursor-com-marketplace-or-install-directly-in-the-editor-with
+  source_release: cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320
+  source_type: cursor_changelog
+  theme: apps-integrations
+  theme_matches:
+  - matched_terms:
+    - plugin
+    - plugins
+    score: 100
+    theme: apps-integrations
+  - matched_terms:
+    - editor
+    score: 50
+    theme: editor-experience
+  - matched_terms:
+    - browse
+    score: 50
+    theme: search-browsing
+  title: Browse plugins at cursor.com/marketplace or install directly in the editor
+    with
+  type: change
 related_changes:
+- '[[Changes/Claude Code/2026-02-17-added-support-for-reading-enabledplugins-and-extraknownmarketplaces-from-add-dir|claude-code-2026-02-17-25d065]]'
 - '[[Changes/Claude Code/2026-02-17-added-sdkratelimitinfo-and-sdkratelimitevent-types-to-the-sdk-enabling-consumers|claude-code-2026-02-17-2ceb36]]'
 - '[[Changes/Cursor/2026-02-17-plugins-package-skills-subagents-mcp-servers-hooks-and-rules-into-a-single-insta|cursor-2026-02-17-7bed14]]'
-- '[[Changes/Cursor/2026-02-17-plugins-on-the-cursor-marketplace|cursor-2026-02-17-96d57d]]'
 source_release: '[[Releases/Cursor/cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320|cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320]]'
+source_type: cursor_changelog
 theme: apps-integrations
+title: Browse plugins at cursor.com/marketplace or install directly in the editor
+  with
 type: change
 ---
 
 # Browse plugins at cursor.com/marketplace or install directly in the editor with
 
 <!-- chronolog:begin region="description" -->
-Browse plugins at cursor.com/marketplace or install directly in the editor with /add-plugin.
+Cursor — Plugins, Sandbox Access Controls, and Async Subagents: Browse plugins at cursor.com/marketplace or install directly in the editor with /add-plugin.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,14 +76,16 @@ Browse plugins at cursor.com/marketplace or install directly in the editor with 
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Cursor/2026-02-17-plugins-on-the-cursor-marketplace|cursor-2026-02-17-96d57d]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: apps-integrations
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
-- First In Tracked: [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed|chatgpt-2023-03-23-86e5a9]]
+- Role: later-observed
+- First In Tracked: [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]
 - Lag Days: 1062
 - Tracked Products Count: 3
 <!-- chronolog:end -->

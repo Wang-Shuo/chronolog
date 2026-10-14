@@ -1,9 +1,19 @@
 ---
 changes_count: 3
 date: '2024-01-06'
-machine_hash: 9ea6d746757ef26a685a25e8f5c938700dc3b385872d1d129a0610fa0e0d90a8
+machine_hash: 0f4d0d3b13cac02f54ddbe2a76f62c3db4d050d35ecfb670dc3068cdcdea1315
 product: cursor
 product_name: Cursor
+record:
+  date: '2024-01-06'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2024-01-06-0-22-0-https-cursor-com-changelog-0-22-0-04c2cd2c
+  source_summary: 'Dev containers are now supported! This build also:'
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-22-0
+  title: Dev Containers
+  version: 0.22.0
 release_id: cursor-2024-01-06-0-22-0-https-cursor-com-changelog-0-22-0-04c2cd2c
 source_release: Dev Containers
 source_type: cursor_changelog
@@ -11,6 +21,7 @@ source_url: https://cursor.com/changelog/0-22-0
 tags:
 - release
 - cursor
+title: Cursor — Dev Containers
 version: 0.22.0
 ---
 

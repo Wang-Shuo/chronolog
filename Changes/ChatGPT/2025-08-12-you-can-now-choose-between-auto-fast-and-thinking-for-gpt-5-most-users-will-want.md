@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-08-07-gpt-5-is-available-to-all-chatgpt-tiers-users-on-paid-tiers-plus-pro-and-team-ha|chatgpt-2025-08-07-a3ae83]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 474f0ca402b53616f908390f722d678138fa6214e0f5458c654826e4879400f3
+machine_hash: 863c8fec5b810b2a0e2a495855ea94270d97afa5911c3f6d706471206b838b73
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-08-07-gpt-5-in-chatgpt-is-our-next-flagship-model-and-the-new-default-for-all-logged-i|chatgpt-2025-08-07-036124]]'
 - '[[Changes/ChatGPT/2025-08-07-gpt-5-is-available-to-all-chatgpt-tiers-users-on-paid-tiers-plus-pro-and-team-ha|chatgpt-2025-08-07-a3ae83]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-12-gpt-5-updates-9aaeee46|chatgpt-2025-08-12-gpt-5-updates-9aaeee46]]'
+superseded: true
 theme: model-support
 type: change
 ---

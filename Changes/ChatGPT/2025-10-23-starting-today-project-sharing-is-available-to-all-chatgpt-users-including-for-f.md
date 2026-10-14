@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-09-29-we-re-rolling-out-parental-controls-globally-in-chatgpt-to-help-families-guide-h|chatgpt-2025-09-29-1a7d83]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: f8ae329bf3a394636ed87da2217ca70a0e8ca7095c8f85070dccf9f53d6b1207
+machine_hash: a74910fabce1fbea3656e327041dc0a12ea83fb76550cf245558003f3b8a467f
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-08-22-this-feature-will-initially-only-be-available-on-the-chatgpt-website-and-windows|chatgpt-2025-08-22-8db6f0]]'
 - '[[Changes/ChatGPT/2025-09-29-we-re-rolling-out-parental-controls-globally-in-chatgpt-to-help-families-guide-h|chatgpt-2025-09-29-1a7d83]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-23-shared-projects-217fa07d|chatgpt-2025-10-23-shared-projects-217fa07d]]'
+superseded: true
 theme: mobile-desktop
 type: change
 ---

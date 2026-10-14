@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-01-15-web-only-no-desktop-or-mobile-in-this-release|chatgpt-2025-01-15-b9d2e0]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: 07939b3226dfd8ea89deddcd30f109b60a228a51462ae3d24046bfebb5899b84
+machine_hash: 9c137bbe56f95d36abce1edd10d0735cc9789175b36683522991bb135193113f
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2024-11-19-starting-today-we-re-beginning-to-roll-out-advanced-voice-mode-on-web-already-av|chatgpt-2024-11-19-2e8f94]]'
 - '[[Changes/ChatGPT/2025-01-15-web-only-no-desktop-or-mobile-in-this-release|chatgpt-2025-01-15-b9d2e0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-01-17-more-personalization-in-custom-instructions-bab36367|chatgpt-2025-01-17-more-personalization-in-custom-instructions-bab36367]]'
+superseded: true
 theme: mobile-desktop
 type: change
 ---

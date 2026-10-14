@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-05-08-enhanced-memory-rolling-out-to-all-plus-and-pro-users-including-the-eu-the-new-m|chatgpt-2025-05-08-bb9a62]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 493fb3d573633f5ffc200b63b7418a6eb8fbb41aaca3831b1a3efc3ef2dba71b
+machine_hash: 63f7b5705ccc16f31540a9045db2a6ac8665e086ccbee611539f283a720ca509
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-05-08-outside-the-european-regions-listed-above-all-plus-and-pro-accounts-that-have-me|chatgpt-2025-05-08-a6e2e1]]'
 - '[[Changes/ChatGPT/2025-05-08-enhanced-memory-rolling-out-to-all-plus-and-pro-users-including-the-eu-the-new-m|chatgpt-2025-05-08-bb9a62]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-08-enhanced-memory-in-chatgpt-including-eu-on-plus-pro-b6107d35|chatgpt-2025-05-08-enhanced-memory-in-chatgpt-including-eu-on-plus-pro-b6107d35]]'
+superseded: true
 theme: memory
 type: change
 ---

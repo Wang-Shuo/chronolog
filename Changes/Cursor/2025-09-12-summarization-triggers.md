@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2025-08-06-agents-are-significantly-improved-when-operating-across-large-codebases-context|cursor-2025-08-06-b4a9ac]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 37df023c7a92a554cfa6187e949a18d7d36cc8e2dede88e646c22433608eca6a
+machine_hash: 86dcec1e4224eb090ec5b05b3f31ed00de70b918eae4c03f23a2a8c851458b9c
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-08-12-chatgpt-plus-users-now-have-3-000-messages-week-with-gpt-5-thinking-and-then-ext|chatgpt-2025-08-12-cb82ee]]'
 - '[[Changes/ChatGPT/2025-08-22-this-creates-a-focused-self-contained-space-which-is-useful-for-long-running-or|chatgpt-2025-08-22-1a682a]]'
 source_release: '[[Releases/Cursor/cursor-2025-09-12-1-6-https-cursor-com-changelog-1-6-f33fb3ea|cursor-2025-09-12-1-6-https-cursor-com-changelog-1-6-f33fb3ea]]'
+superseded: true
 theme: context-window
 type: change
 ---

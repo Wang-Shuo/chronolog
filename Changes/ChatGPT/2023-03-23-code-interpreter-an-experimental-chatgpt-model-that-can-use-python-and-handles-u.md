@@ -3,47 +3,75 @@ card_id: chatgpt-2023-03-23-f4fabc
 date: '2023-03-23'
 diffusion:
   first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 73
-  role: variant
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: model-support
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/ChatGPT/2023-03-23-third-party-plugins-an-experimental-model-that-knows-when-and-how-to-use-externa|chatgpt-2023-03-23-3b27d2]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: significant
-machine_hash: 1ea064716eacc40cdf93b81602ec9e7725941a83fba973eda775dddccc6271f0
+machine_hash: 884f512ebb993bdf80d7e5fa1783ceb67e959185c908d577e6612e6b3a87bbbd
 product: chatgpt
 product_name: ChatGPT
+record:
+  ai_generated: true
+  card_id: chatgpt-2023-03-23-f4fabc
+  comparison: ''
+  confidence: low
+  date: '2023-03-23'
+  description: 'ChatGPT — Introducing plugins in ChatGPT: Code Interpreter: An experimental
+    ChatGPT model that can use Python, and handles uploads and downloads'
+  evidence:
+  - quote: 'Code Interpreter: An experimental ChatGPT model that can use Python, and
+      handles uploads and downloads'
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-plugins-in-chatgpt
+  extractor_version: fallback-v3
+  impact: significant
+  product: chatgpt
+  product_name: ChatGPT
+  slug: code-interpreter-an-experimental-chatgpt-model-that-can-use-python-and-handles-u
+  source_release: chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8
+  source_type: chatgpt_changelog
+  theme: model-support
+  title: 'Code Interpreter: An experimental ChatGPT model that can use Python, and
+    handles'
+  type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-03-14-complex-instructions|chatgpt-2023-03-14-7438c4]]'
 - '[[Changes/ChatGPT/2023-03-14-more-creativity|chatgpt-2023-03-14-8f3013]]'
+- '[[Changes/ChatGPT/2023-03-14-we-re-excited-to-bring-gpt-4-our-latest-model-to-our-chatgpt-plus-subscribers-gp|chatgpt-2023-03-14-d7797b]]'
 - '[[Changes/ChatGPT/2023-03-23-third-party-plugins-an-experimental-model-that-knows-when-and-how-to-use-externa|chatgpt-2023-03-23-3b27d2]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8|chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8]]'
+source_type: chatgpt_changelog
 theme: model-support
+title: 'Code Interpreter: An experimental ChatGPT model that can use Python, and handles'
 type: change
 ---
 
 # Code Interpreter: An experimental ChatGPT model that can use Python, and handles
 
 <!-- chronolog:begin region="description" -->
-Code Interpreter: An experimental ChatGPT model that can use Python, and handles uploads and downloads
+ChatGPT — Introducing plugins in ChatGPT: Code Interpreter: An experimental ChatGPT model that can use Python, and handles uploads and downloads
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Code Interpreter: An experimental ChatGPT model that can use Python, and handles uploads and downloads
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_98b0bcf5a4
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-plugins-in-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/ChatGPT/2023-03-23-third-party-plugins-an-experimental-model-that-knows-when-and-how-to-use-externa|chatgpt-2023-03-23-3b27d2]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: model-support
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: variant
+- Role: later-observed
 - First In Tracked: [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]
 - Lag Days: 73
 - Tracked Products Count: 3

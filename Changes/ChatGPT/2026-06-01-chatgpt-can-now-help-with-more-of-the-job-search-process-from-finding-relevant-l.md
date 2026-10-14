@@ -3,47 +3,87 @@ card_id: chatgpt-2026-06-01-d9a25a
 date: '2026-06-01'
 diffusion:
   first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|chatgpt-2023-03-23-c03c55]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1166
-  role: variant
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: search-browsing
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/ChatGPT/2026-04-08-the-outlook-email-and-calendar-apps-for-chatgpt-can-now-help-with-delegated-or-s|chatgpt-2026-04-08-733761]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: d93eca37f1d006fdc10ce5a5d1f54933cc0442c75227dbe72fb900d85bda15e0
+machine_hash: 9e1df30cc6a4fd3bc1afbbefb91fd2e20dabec67405728f9e040da49f3094d74
 product: chatgpt
 product_name: ChatGPT
+record:
+  card_id: chatgpt-2026-06-01-d9a25a
+  comparison: ''
+  date: '2026-06-01'
+  description: 'ChatGPT — Find live jobs and format your resume in ChatGPT: ChatGPT
+    can now help with more of the job search process, from finding relevant live roles
+    to tailoring a resume for a specific opportunity. When you search for jobs, ChatGPT
+    can surface live listings and freelance opportunities from sources like Indeed,
+    Upwork, Appcast, and across the web. Results are personalized using your experience,
+    skills, and goals to highlight roles that may be a strong fit. You can follow
+    links to apply directly on the source sites.You can now also upload or create
+    a resume in ChatGPT, tailor it to a specific role, and download it in a polished,
+    professional format.Availability:'
+  evidence:
+  - quote: 'ChatGPT can now help with more of the job search process, from finding
+      relevant live roles to tailoring a resume for a specific opportunity. When you
+      search for jobs, ChatGPT can surface live listings and freelance opportunities
+      from sources like Indeed, Upwork, Appcast, and across the web. Results are personalized
+      using your experience, skills, and goals to highlight roles that may be a strong
+      fit. You can follow links to apply directly on the source sites.You can now
+      also upload or create a resume in ChatGPT, tailor it to a specific role, and
+      download it in a polished, professional format.Availability:'
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#find-live-jobs-and-format-your-resume-in-chatgpt
+  extractor_version: fallback-v3
+  impact: incremental
+  product: chatgpt
+  product_name: ChatGPT
+  slug: chatgpt-can-now-help-with-more-of-the-job-search-process-from-finding-relevant-l
+  source_release: chatgpt-2026-06-01-find-live-jobs-and-format-your-resume-in-chatgpt-69ee518e
+  source_type: chatgpt_changelog
+  theme: search-browsing
+  theme_matches: []
+  theme_resolution: manual-backfill-review-v1
+  title: ChatGPT can now help with more of the job search process, from finding relevant
+  type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-03-19-the-legacy-deep-research-mode-will-be-removed-on-thursday-march-26-2026-this-cha|chatgpt-2026-03-19-f2d483]]'
+- '[[Changes/ChatGPT/2026-03-24-we-ve-improved-shopping-in-chatgpt-to-make-it-easier-to-discover-compare-and-dec|chatgpt-2026-03-24-93a63f]]'
 - '[[Changes/ChatGPT/2026-04-08-the-outlook-email-and-calendar-apps-for-chatgpt-can-now-help-with-delegated-or-s|chatgpt-2026-04-08-733761]]'
 - '[[Changes/Claude Code/2026-05-19-the-plugin-browse-and-discover-panes-now-show-when-a-plugin-was-last-updated|claude-code-2026-05-19-077873]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-01-find-live-jobs-and-format-your-resume-in-chatgpt-69ee518e|chatgpt-2026-06-01-find-live-jobs-and-format-your-resume-in-chatgpt-69ee518e]]'
+source_type: chatgpt_changelog
 theme: search-browsing
+title: ChatGPT can now help with more of the job search process, from finding relevant
 type: change
 ---
 
 # ChatGPT can now help with more of the job search process, from finding relevant
 
 <!-- chronolog:begin region="description" -->
-ChatGPT can now help with more of the job search process, from finding relevant live roles to tailoring a resume for a specific opportunity. When you search for jobs, ChatGPT can surface live listings and freelance opportunities from sources like Indeed, Upwork, Appcast, and across the web. Results are personalized using your experience, skills, and goals to highlight roles that may be a strong fit. You can follow links to apply directly on the source sites. You can now also upload or create a resume in ChatGPT, tailor it to a specific role, and download it in a polished, professional format. Availability:
+ChatGPT — Find live jobs and format your resume in ChatGPT: ChatGPT can now help with more of the job search process, from finding relevant live roles to tailoring a resume for a specific opportunity. When you search for jobs, ChatGPT can surface live listings and freelance opportunities from sources like Indeed, Upwork, Appcast, and across the web. Results are personalized using your experience, skills, and goals to highlight roles that may be a strong fit. You can follow links to apply directly on the source sites.You can now also upload or create a resume in ChatGPT, tailor it to a specific role, and download it in a polished, professional format.Availability:
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
-> ChatGPT can now help with more of the job search process, from finding relevant live roles to tailoring a resume for a specific opportunity. When you search for jobs, ChatGPT can surface live listings and freelance opportunities from sources like Indeed, Upwork, Appcast, and across the web. Results are personalized using your experience, skills, and goals to highlight roles that may be a strong fit. You can follow links to apply directly on the source sites. You can now also upload or create a resume in ChatGPT, tailor it to a specific role, and download it in a polished, professional format. Availability:
+> ChatGPT can now help with more of the job search process, from finding relevant live roles to tailoring a resume for a specific opportunity. When you search for jobs, ChatGPT can surface live listings and freelance opportunities from sources like Indeed, Upwork, Appcast, and across the web. Results are personalized using your experience, skills, and goals to highlight roles that may be a strong fit. You can follow links to apply directly on the source sites.You can now also upload or create a resume in ChatGPT, tailor it to a specific role, and download it in a polished, professional format.Availability:
 >
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#find-live-jobs-and-format-your-resume-in-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/ChatGPT/2026-04-08-the-outlook-email-and-calendar-apps-for-chatgpt-can-now-help-with-delegated-or-s|chatgpt-2026-04-08-733761]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: search-browsing
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: variant
+- Role: later-observed
 - First In Tracked: [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|chatgpt-2023-03-23-c03c55]]
 - Lag Days: 1166
 - Tracked Products Count: 3

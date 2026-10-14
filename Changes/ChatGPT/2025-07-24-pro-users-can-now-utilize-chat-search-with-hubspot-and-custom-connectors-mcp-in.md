@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-06-24-pro-users-are-now-able-to-use-chat-search-connectors-in-addition-to-deep-researc|chatgpt-2025-06-24-b7e028]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: e31b617abadaf6370b85fac92d1431c6528582da1e1873aa5244cb989d90db9b
+machine_hash: 29292717086b9a52b6cfe46796a10cfac5a9599b22a087e737856c57c8f2f6bc
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2025-07-03-to-dos-are-also-visible-in-slack-if-integration-is-setup|cursor-2025-07-03-572f9b]]'
 - '[[Changes/Cursor/2025-07-03-the-agent-breaks-down-longer-tasks-with-dependencies-visible-to-you-in-chat-and|cursor-2025-07-03-bac341]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-07-24-chat-search-for-hubspot-and-custom-connectors-mcp-pro-f49427a3|chatgpt-2025-07-24-chat-search-for-hubspot-and-custom-connectors-mcp-pro-f49427a3]]'
+superseded: true
 theme: apps-integrations
 type: change
 ---

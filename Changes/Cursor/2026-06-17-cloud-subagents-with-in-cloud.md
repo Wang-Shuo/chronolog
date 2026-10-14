@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2026-06-05-ask-the-agent-to-make-one-match-the-other-remove-repeated-content-or-adjust-a-gr|cursor-2026-06-05-70abae]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 75fac69e594bffc43967800c6501f9c7db87a2fbc3ea0de16fc0cb1777a06b77
+machine_hash: 6845be6be80b4bc7cf268e1009837a32546e7cc21349d4ff6c9b949d02c4e9e4
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Claude Code/2026-06-15-improved-auto-mode-subagent-spawns-are-now-evaluated-by-the-classifier-before-la|claude-code-2026-06-15-1d14c3]]'
 - '[[Changes/Claude Code/2026-06-15-nested-claude-directories-the-agent-workflow-and-output-style-closest-to-the-wor|claude-code-2026-06-15-f824ca]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-17-3-7-https-cursor-com-changelog-cloud-in-agents-window-d40d64fa|cursor-2026-06-17-3-7-https-cursor-com-changelog-cloud-in-agents-window-d40d64fa]]'
+superseded: true
 theme: agent-mode
 type: change
 ---

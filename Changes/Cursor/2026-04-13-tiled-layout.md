@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2026-04-13-expand-panes-to-focus-on-a-conversation-drag-agents-into-tiles-and-use-keybindin|cursor-2026-04-13-601bce]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: dfb4aeb6130fdd75c395d1332307735612890a714927776a18addbb3795209e0
+machine_hash: 1e8f9a6c990f8204f4abf88b2c51e895e13a8555029f572ef0b5d14f51b5b70c
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Claude Code/2026-04-10-improved-focus-mode-claude-now-writes-more-self-contained-summaries-since-it-kno|claude-code-2026-04-10-1d413d]]'
 - '[[Changes/Cursor/2026-04-13-expand-panes-to-focus-on-a-conversation-drag-agents-into-tiles-and-use-keybindin|cursor-2026-04-13-601bce]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313|cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313]]'
+superseded: true
 theme: interface-experience
 type: change
 ---

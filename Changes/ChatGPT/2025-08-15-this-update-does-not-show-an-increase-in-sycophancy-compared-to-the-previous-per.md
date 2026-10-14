@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-08-12-4o-is-back-in-the-model-picker-for-all-paid-users-by-default-paid-users-also-now|chatgpt-2025-08-12-d05f64]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 5dc4876c4aea5e9c900a36127a88e811ec9ca98bba9e0f4c19847ee8986781ab
+machine_hash: 692a9817616d5ed08b8ea7d11b73cf11baaf04fa3549780e2756a8c2e6f6077a
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-08-12-you-can-now-choose-between-auto-fast-and-thinking-for-gpt-5-most-users-will-want|chatgpt-2025-08-12-4fb0fc]]'
 - '[[Changes/ChatGPT/2025-08-12-4o-is-back-in-the-model-picker-for-all-paid-users-by-default-paid-users-also-now|chatgpt-2025-08-12-d05f64]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-15-gpt-5-updates-9aaeee46|chatgpt-2025-08-15-gpt-5-updates-9aaeee46]]'
+superseded: true
 theme: model-support
 type: change
 ---

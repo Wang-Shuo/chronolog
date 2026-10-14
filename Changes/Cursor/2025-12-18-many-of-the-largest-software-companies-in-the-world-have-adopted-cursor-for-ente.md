@@ -2,32 +2,61 @@
 card_id: cursor-2025-12-18-96ec1d
 date: '2025-12-18'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-27-enterprise-support|cursor-2023-07-27-4d0704]]'
-  lag_days: 875
-  role: variant
+  first_in_tracked: '[[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|chatgpt-2025-06-12-1cc56f]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 189
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Cursor/2025-12-18-conversation-insights|cursor-2025-12-18-2be801]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: significant
-machine_hash: ce567eed04f559ab73f738d639d90e636770a09cea351129e459389626ea2a18
+machine_hash: 93d601ca679682f8b97b439e38176600c6e4dfdd090794c717f6233b128e59fb
 product: cursor
 product_name: Cursor
+record:
+  ai_generated: true
+  card_id: cursor-2025-12-18-96ec1d
+  comparison: ''
+  confidence: low
+  date: '2025-12-18'
+  description: 'Cursor — Enterprise Insights, Billing Groups, Service Accounts, and
+    Improved Security Controls: Many of the largest software companies in the world
+    have adopted Cursor for Enterprise. Here are some of the new features we''re releasing
+    today:'
+  evidence:
+  - quote: 'Many of the largest software companies in the world have adopted Cursor
+      for Enterprise. Here are some of the new features we''re releasing today:'
+    source_release: https://cursor.com/changelog/enterprise-dec-2025
+  extractor_version: fallback-v3
+  impact: significant
+  product: cursor
+  product_name: Cursor
+  slug: many-of-the-largest-software-companies-in-the-world-have-adopted-cursor-for-ente
+  source_release: cursor-2025-12-18-enterprise-insights-billing-groups-service-accounts-and-improved-23eccccb
+  source_type: cursor_changelog
+  theme: enterprise-admin
+  title: Many of the largest software companies in the world have adopted Cursor for
+    Ente
+  type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-08-12-this-capability-is-part-of-gpt-5-and-will-begin-rolling-out-to-pro-users-globall|chatgpt-2025-08-12-33bffb]]'
-- '[[Changes/ChatGPT/2025-09-03-we-ve-also-updated-file-uploads-on-paid-tiers-plus-go-and-edu-support-up-to-25-f|chatgpt-2025-09-03-52f60b]]'
-- '[[Changes/Cursor/2025-12-18-conversation-insights|cursor-2025-12-18-2be801]]'
+- '[[Changes/ChatGPT/2025-09-03-projects-bring-your-chats-and-files-into-one-place-helping-you-stay-focused-and-96a40d|chatgpt-2025-09-03-96a40d]]'
+- '[[Changes/Cursor/2025-10-29-launched-in-beta-in-1-7-browser-for-agent-is-now-ga-we-ve-added-additional-suppo|cursor-2025-10-29-38c733]]'
+- '[[Changes/Cursor/2025-11-21-this-is-in-addition-to-bugbot-which-runs-on-your-source-control-provider-like-gi|cursor-2025-11-21-25801d]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-18-enterprise-insights-billing-groups-service-accounts-and-improved-23eccccb|cursor-2025-12-18-enterprise-insights-billing-groups-service-accounts-and-improved-23eccccb]]'
+source_type: cursor_changelog
 theme: enterprise-admin
+title: Many of the largest software companies in the world have adopted Cursor for
+  Ente
 type: change
 ---
 
 # Many of the largest software companies in the world have adopted Cursor for Ente
 
 <!-- chronolog:begin region="description" -->
-Many of the largest software companies in the world have adopted Cursor for Enterprise. Here are some of the new features we're releasing today:
+Cursor — Enterprise Insights, Billing Groups, Service Accounts, and Improved Security Controls: Many of the largest software companies in the world have adopted Cursor for Enterprise. Here are some of the new features we're releasing today:
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,15 +66,17 @@ Many of the largest software companies in the world have adopted Cursor for Ente
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Cursor/2025-12-18-conversation-insights|cursor-2025-12-18-2be801]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: enterprise-admin
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: variant
-- First In Tracked: [[Changes/Cursor/2023-07-27-enterprise-support|cursor-2023-07-27-4d0704]]
-- Lag Days: 875
+- Role: later-observed
+- First In Tracked: [[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|chatgpt-2025-06-12-1cc56f]]
+- Lag Days: 189
 - Tracked Products Count: 3
 <!-- chronolog:end -->
 

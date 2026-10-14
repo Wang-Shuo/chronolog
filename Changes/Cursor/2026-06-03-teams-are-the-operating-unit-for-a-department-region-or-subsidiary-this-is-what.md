@@ -3,31 +3,74 @@ card_id: cursor-2026-06-03-df00e8
 date: '2026-06-03'
 diffusion:
   first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|cursor-2023-04-16-f0e22a]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1144
-  role: variant
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Cursor/2026-06-03-enterprise-customers-can-now-manage-multiple-cursor-teams-from-one-place-with-di|cursor-2026-06-03-812ca7]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 787fcefd336d6c90c1ff4ff59937eb3258ca2d9ccef69827c3b5eb68e9165f36
+machine_hash: 7392bd001bc3f622bb92608e15a118675ca70d0f761b1505bb480b4a6cef67c0
 product: cursor
 product_name: Cursor
+record:
+  card_id: cursor-2026-06-03-df00e8
+  comparison: ''
+  date: '2026-06-03'
+  description: 'Cursor — Organizations for Cursor Enterprise: Teams are the operating
+    unit for a department, region, or subsidiary. This is what admins manage as their
+    Cursor org today. We''ve moved that unit under an organization, so you can run
+    multiple teams, each with its own security, governance, spend, and feature settings.'
+  evidence:
+  - quote: Teams are the operating unit for a department, region, or subsidiary. This
+      is what admins manage as their Cursor org today. We've moved that unit under
+      an organization, so you can run multiple teams, each with its own security,
+      governance, spend, and feature settings.
+    source_release: https://cursor.com/changelog/enterprise-organizations
+  extractor_version: fallback-v3
+  impact: incremental
+  product: cursor
+  product_name: Cursor
+  slug: teams-are-the-operating-unit-for-a-department-region-or-subsidiary-this-is-what
+  source_release: cursor-2026-06-03-organizations-for-cursor-enterprise-https-cursor-com-changelog-e-b5c7f576
+  source_type: cursor_changelog
+  theme: safety-privacy
+  theme_matches:
+  - matched_terms:
+    - teams
+    score: 50
+    theme: collaboration
+  - matched_terms:
+    - admins
+    score: 50
+    theme: enterprise-admin
+  - matched_terms:
+    - security
+    score: 50
+    theme: safety-privacy
+  theme_resolution: manual-semantic-rule-v1
+  title: Teams are the operating unit for a department, region, or subsidiary. This
+    is wh
+  type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-06-02-we-re-rolling-out-active-sessions-a-new-security-feature-in-chatgpt-that-helps-u|chatgpt-2026-06-02-afa8b4]]'
 - '[[Changes/Claude Code/2026-06-03-claude-agents-json-now-includes-waitingfor-showing-what-a-waiting-session-is-blo|claude-code-2026-06-03-cc3caf]]'
 - '[[Changes/Cursor/2026-06-03-enterprise-customers-can-now-manage-multiple-cursor-teams-from-one-place-with-di|cursor-2026-06-03-812ca7]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-03-organizations-for-cursor-enterprise-https-cursor-com-changelog-e-b5c7f576|cursor-2026-06-03-organizations-for-cursor-enterprise-https-cursor-com-changelog-e-b5c7f576]]'
+source_type: cursor_changelog
 theme: safety-privacy
+title: Teams are the operating unit for a department, region, or subsidiary. This
+  is wh
 type: change
 ---
 
 # Teams are the operating unit for a department, region, or subsidiary. This is wh
 
 <!-- chronolog:begin region="description" -->
-Teams are the operating unit for a department, region, or subsidiary. This is what admins manage as their Cursor org today. We've moved that unit under an organization, so you can run multiple teams, each with its own security, governance, spend, and feature settings.
+Cursor — Organizations for Cursor Enterprise: Teams are the operating unit for a department, region, or subsidiary. This is what admins manage as their Cursor org today. We've moved that unit under an organization, so you can run multiple teams, each with its own security, governance, spend, and feature settings.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +80,15 @@ Teams are the operating unit for a department, region, or subsidiary. This is wh
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Cursor/2026-06-03-enterprise-customers-can-now-manage-multiple-cursor-teams-from-one-place-with-di|cursor-2026-06-03-812ca7]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: safety-privacy
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: variant
+- Role: later-observed
 - First In Tracked: [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|cursor-2023-04-16-f0e22a]]
 - Lag Days: 1144
 - Tracked Products Count: 3

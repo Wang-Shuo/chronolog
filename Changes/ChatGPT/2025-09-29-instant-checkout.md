@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-09-29-chatgpt-can-help-you-find-anything-on-the-web-and-now-with-instant-checkout-you|chatgpt-2025-09-29-712523]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 8787969684d944d830bd0b4d4a62561a306d93f712531c4c6019bcbc9fb6aea3
+machine_hash: a007fc84ca991d87beafa1a5951bb1e5cc584a2d8398a9bb12054847e4718177
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-09-29-instant-checkout-makes-it-easy-to-go-from-chat-to-checkout-in-just-a-few-taps|chatgpt-2025-09-29-339f74]]'
 - '[[Changes/ChatGPT/2025-09-29-chatgpt-can-help-you-find-anything-on-the-web-and-now-with-instant-checkout-you|chatgpt-2025-09-29-712523]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-29-introducing-instant-checkout-and-the-agentic-commerce-protocol-6ba1bd7e|chatgpt-2025-09-29-introducing-instant-checkout-and-the-agentic-commerce-protocol-6ba1bd7e]]'
+superseded: true
 theme: search-browsing
 type: change
 ---

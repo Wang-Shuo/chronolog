@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-08-07-you-can-now-set-an-accent-color-that-applies-to-elements-in-chatgpt-including-yo|chatgpt-2025-08-07-1d4fbe]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: aecebcae9e23665605da543ca9463f3f61b5e19eebd5e95ecac1e104cd052973
+machine_hash: 0d4680d0fe797333b21196d03e1d04fa6eebcb4c833b7e33320c671ef010fe78
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-07-17-the-advanced-voice-upgrades-we-announced-on-june-7th-are-now-rolling-out-to-chat|chatgpt-2025-07-17-ce1159]]'
 - '[[Changes/ChatGPT/2025-08-07-you-can-now-set-an-accent-color-that-applies-to-elements-in-chatgpt-including-yo|chatgpt-2025-08-07-1d4fbe]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-07-chatgpt-voice-updates-1159fad7|chatgpt-2025-08-07-chatgpt-voice-updates-1159fad7]]'
+superseded: true
 theme: voice
 type: change
 ---

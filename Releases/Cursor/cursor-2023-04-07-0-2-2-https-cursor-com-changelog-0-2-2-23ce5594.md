@@ -1,9 +1,19 @@
 ---
 changes_count: 1
 date: '2023-04-07'
-machine_hash: 4369e5a56a8d713dd40e281363ac302f9b7a6a3745b45168d9e07a9c7cbf501c
+machine_hash: b3bd0fa6d16389fb6324d3ea1c0a9d77173af5ff096b218a234b7aa35d1b4e63
 product: cursor
 product_name: Cursor
+record:
+  date: '2023-04-07'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2023-04-07-0-2-2-https-cursor-com-changelog-0-2-2-23ce5594
+  source_summary: '#Bug Fixes'
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-2-2
+  title: Bug Fixes Galore (2023-04-07)
+  version: 0.2.2
 release_id: cursor-2023-04-07-0-2-2-https-cursor-com-changelog-0-2-2-23ce5594
 source_release: Bug Fixes Galore (2023-04-07)
 source_type: cursor_changelog
@@ -11,6 +21,7 @@ source_url: https://cursor.com/changelog/0-2-2
 tags:
 - release
 - cursor
+title: Cursor — Bug Fixes Galore (2023-04-07)
 version: 0.2.2
 ---
 

@@ -1,9 +1,22 @@
 ---
 changes_count: 1
 date: '2026-06-26'
-machine_hash: 2bb4143aceaf4ea975bf74ba809d0a5bff0fdfa0c61c5b2e402c7cea53f9f01e
+machine_hash: bdd4d209082367288076c55de2cbbc3027e27c773c6159d5e78df10c93af6ea9
 product: chatgpt
 product_name: ChatGPT
+record:
+  date: '2026-06-26'
+  product: chatgpt
+  product_name: ChatGPT
+  release_id: chatgpt-2026-06-26-improved-dictation-in-chatgpt-19d2c1ea
+  source_summary: We’re rolling out a new speech-to-text model for dictation in ChatGPT
+    across all plans. This is a behind-the-scenes update, so there are no changes
+    to how you use dictation.The update improves transcription accuracy across languages
+    and accents, including when multilingual speakers mix or switch between languages…
+  source_type: chatgpt_changelog
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improved-dictation-in-chatgpt
+  title: Improved dictation in ChatGPT
+  version: Improved dictation in ChatGPT
 release_id: chatgpt-2026-06-26-improved-dictation-in-chatgpt-19d2c1ea
 source_release: Improved dictation in ChatGPT
 source_type: chatgpt_changelog
@@ -11,6 +24,7 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#im
 tags:
 - release
 - chatgpt
+title: ChatGPT — Improved dictation in ChatGPT
 version: Improved dictation in ChatGPT
 ---
 
@@ -18,7 +32,7 @@ version: Improved dictation in ChatGPT
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
-We’re rolling out a new speech-to-text model for dictation in ChatGPT across all plans. This is a behind-the-scenes update, so there are no changes to how you use dictation. The update improves transcription accuracy across languages and accents, including when multilingual speakers mix or switch between languages…
+We’re rolling out a new speech-to-text model for dictation in ChatGPT across all plans. This is a behind-the-scenes update, so there are no changes to how you use dictation.The update improves transcription accuracy across languages and accents, including when multilingual speakers mix or switch between languages…
 
 [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improved-dictation-in-chatgpt)
 

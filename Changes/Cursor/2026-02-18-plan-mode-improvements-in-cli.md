@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2026-02-17-this-release-introduces-plugins-for-extending-cursor-improvements-to-core-agent|cursor-2026-02-17-cb83e0]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: c664898d7b65d62177c4931994e570dbef045ee99201859084e386e3c3137cd3
+machine_hash: f2245d45ce7cc96996d92d1f3173315380aef77b109010aaa6c0793a4ef57752
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2026-02-17-this-release-introduces-plugins-for-extending-cursor-improvements-to-core-agent|cursor-2026-02-17-cb83e0]]'
 - '[[Changes/Claude Code/2026-02-18-improved-vs-code-plan-preview-auto-updates-as-claude-iterates-enables-commenting|claude-code-2026-02-18-1d1b4f]]'
 source_release: '[[Releases/Cursor/cursor-2026-02-18-cli-improvements-and-mermaid-ascii-diagrams-https-cursor-com-cha-a75d36c7|cursor-2026-02-18-cli-improvements-and-mermaid-ascii-diagrams-https-cursor-com-cha-a75d36c7]]'
+superseded: true
 theme: agent-mode
 type: change
 ---

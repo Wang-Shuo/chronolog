@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-11-20-when-a-product-from-a-shopify-merchant-supports-instant-checkout-you-can-complet|chatgpt-2025-11-20-a64914]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: eaa6bf53c5b25295281d1d07cfcf55a08f63b1f242235dcb169a2203ae21f561
+machine_hash: a220e280744f935190ce7c3277757701cecaa6337ebfe0a34ee5b572350813d9
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-11-20-instant-checkout-is-available-for-logged-in-plus-pro-and-free-users-in-the-us|chatgpt-2025-11-20-12ee51]]'
 - '[[Changes/ChatGPT/2025-11-20-when-a-product-from-a-shopify-merchant-supports-instant-checkout-you-can-complet|chatgpt-2025-11-20-a64914]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-20-instant-checkout-now-rolling-out-to-shopify-merchants-87a5d6b7|chatgpt-2025-11-20-instant-checkout-now-rolling-out-to-shopify-merchants-87a5d6b7]]'
+superseded: true
 theme: search-browsing
 type: change
 ---

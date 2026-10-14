@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-05-14-since-its-launch-in-the-api-in-april-gpt-4-1-has-become-a-favorite-among-develop|chatgpt-2025-05-14-d754a7]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: 9bcecff81b8dc3e98ffeab58a154b30211dad49a24682086fafc4be1baac198c
+machine_hash: d4659c8349a4849e02bfb61001fbed249354b874526bc9c2dc27dfcf9542507a
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-05-14-evals-for-gpt-4-1-and-gpt-4-1-mini-were-originally-shared-in-the-blog-post-accom|chatgpt-2025-05-14-b48caa]]'
 - '[[Changes/ChatGPT/2025-05-14-since-its-launch-in-the-api-in-april-gpt-4-1-has-become-a-favorite-among-develop|chatgpt-2025-05-14-d754a7]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-14-releasing-gpt-4-1-in-chatgpt-for-all-paid-users-ab6fd3aa|chatgpt-2025-05-14-releasing-gpt-4-1-in-chatgpt-for-all-paid-users-ab6fd3aa]]'
+superseded: true
 theme: model-support
 type: change
 ---

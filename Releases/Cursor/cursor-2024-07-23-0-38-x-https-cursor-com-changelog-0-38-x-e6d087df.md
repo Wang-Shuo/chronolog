@@ -1,9 +1,21 @@
 ---
 changes_count: 4
 date: '2024-07-23'
-machine_hash: d699b8ac46b3f54ee6c00e00c4fe14b4b3d890f46e5a0653cd9850e274a6c6a5
+machine_hash: 11d4667c98a84edc791e666fb554bc72392aa50456ff5b2094e4d50bda3d7e1a
 product: cursor
 product_name: Cursor
+record:
+  date: '2024-07-23'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2024-07-23-0-38-x-https-cursor-com-changelog-0-38-x-e6d087df
+  source_summary: Copilot++ now has chunked streaming (currently in Beta)! It will
+    surface edits faster in smaller chunks. To enable it, click the settings gear
+    and enable "Chunked Streaming" under Features > Copilot++.
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-38-x
+  title: Copilot++ Chunked Streaming (beta), Composer improvements
+  version: 0.38.x
 release_id: cursor-2024-07-23-0-38-x-https-cursor-com-changelog-0-38-x-e6d087df
 source_release: Copilot++ Chunked Streaming (beta), Composer improvements
 source_type: cursor_changelog
@@ -11,6 +23,7 @@ source_url: https://cursor.com/changelog/0-38-x
 tags:
 - release
 - cursor
+title: Cursor — Copilot++ Chunked Streaming (beta), Composer improvements
 version: 0.38.x
 ---
 

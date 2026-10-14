@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-08-07-nerd-playful-and-curious-explaining-concepts-clearly-while-celebrating-knowledge|chatgpt-2025-08-07-4f72dd]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 27b91ef3109fb43952ecfd5906ab5f72387bbd36bd797bc2916ea39934ec253a
+machine_hash: dccda71ffeee3e6d7b48184c0e28c867e8574c7dc882f3c56fc108d7e8144e58
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-06-12-improvements-to-memory-to-reference-past-chats-in-a-project|chatgpt-2025-06-12-cd0103]]'
 - '[[Changes/ChatGPT/2025-08-07-nerd-playful-and-curious-explaining-concepts-clearly-while-celebrating-knowledge|chatgpt-2025-08-07-4f72dd]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-07-personalities-0d95bb60|chatgpt-2025-08-07-personalities-0d95bb60]]'
+superseded: true
 theme: memory
 type: change
 ---

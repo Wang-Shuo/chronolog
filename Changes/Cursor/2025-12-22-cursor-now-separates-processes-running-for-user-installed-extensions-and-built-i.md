@@ -2,32 +2,59 @@
 card_id: cursor-2025-12-22-cfd447
 date: '2025-12-22'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed|chatgpt-2023-03-23-86e5a9]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1005
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Cursor/2025-12-22-improved-integrated-browser-to-support-opening-multiple-tabs|cursor-2025-12-22-2c790e]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 70d989f42e5f2d89652790aabb59feabccafcf662b585d151ad7b22632c5d191
+machine_hash: 391f892f3c90312f7a7e90f58ad072cb27aa3027d880edd1d355c290fbdbcf48
 product: cursor
 product_name: Cursor
+record:
+  card_id: cursor-2025-12-22-cfd447
+  comparison: ''
+  date: '2025-12-22'
+  description: 'Cursor — Layout Customization and Stability Improvements: Cursor now
+    separates processes running for user-installed extensions and built-in Cursor
+    extensions, such as codebase indexing.'
+  evidence:
+  - quote: Cursor now separates processes running for user-installed extensions and
+      built-in Cursor extensions, such as codebase indexing.
+    source_release: https://cursor.com/changelog/2-3
+  extractor_version: fallback-v3
+  impact: incremental
+  product: cursor
+  product_name: Cursor
+  slug: cursor-now-separates-processes-running-for-user-installed-extensions-and-built-i
+  source_release: cursor-2025-12-22-2-3-https-cursor-com-changelog-2-3-fe418465
+  source_type: cursor_changelog
+  theme: apps-integrations
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v1
+  title: Cursor now separates processes running for user-installed extensions and
+    built-i
+  type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-12-18-you-can-now-browse-and-add-approved-apps-in-the-new-app-directory-apps-let-you-w|chatgpt-2025-12-18-34e422]]'
 - '[[Changes/Claude Code/2025-12-19-added-search-filtering-to-the-plugin-discover-screen-type-to-filter-by-name-desc|claude-code-2025-12-19-f245b1]]'
 - '[[Changes/Cursor/2025-12-22-improved-integrated-browser-to-support-opening-multiple-tabs|cursor-2025-12-22-2c790e]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-22-2-3-https-cursor-com-changelog-2-3-fe418465|cursor-2025-12-22-2-3-https-cursor-com-changelog-2-3-fe418465]]'
+source_type: cursor_changelog
 theme: apps-integrations
+title: Cursor now separates processes running for user-installed extensions and built-i
 type: change
 ---
 
 # Cursor now separates processes running for user-installed extensions and built-i
 
 <!-- chronolog:begin region="description" -->
-Cursor now separates processes running for user-installed extensions and built-in Cursor extensions, such as codebase indexing.
+Cursor — Layout Customization and Stability Improvements: Cursor now separates processes running for user-installed extensions and built-in Cursor extensions, such as codebase indexing.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,14 +64,16 @@ Cursor now separates processes running for user-installed extensions and built-i
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Cursor/2025-12-22-improved-integrated-browser-to-support-opening-multiple-tabs|cursor-2025-12-22-2c790e]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: apps-integrations
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
-- First In Tracked: [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed|chatgpt-2023-03-23-86e5a9]]
+- Role: later-observed
+- First In Tracked: [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]
 - Lag Days: 1005
 - Tracked Products Count: 3
 <!-- chronolog:end -->

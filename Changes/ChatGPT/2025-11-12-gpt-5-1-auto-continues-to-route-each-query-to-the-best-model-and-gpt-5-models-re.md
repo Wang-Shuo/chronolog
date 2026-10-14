@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-11-12-gpt-5-1-instant-and-thinking-are-rolling-out-first-to-paid-pro-plus-go-business|chatgpt-2025-11-12-36e435]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: 7e9a443281df72287f05f8648bf1f325e72e2e0e2382b720d24c7e824b43a90c
+machine_hash: df8377957288babf8b1cce63925d7f7c3b650895c173a9358b0931cae4f8ed64
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-11-05-you-can-now-interrupt-long-running-queries-such-as-deep-research-or-gpt-5-pro-to|chatgpt-2025-11-05-04febe]]'
 - '[[Changes/ChatGPT/2025-11-12-gpt-5-1-instant-and-thinking-are-rolling-out-first-to-paid-pro-plus-go-business|chatgpt-2025-11-12-36e435]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-12-gpt-5-1-in-chatgpt-3b83bb2f|chatgpt-2025-11-12-gpt-5-1-in-chatgpt-3b83bb2f]]'
+superseded: true
 theme: model-support
 type: change
 ---

@@ -2,32 +2,56 @@
 card_id: chatgpt-2025-12-19-304a1c
 date: '2025-12-19'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat|chatgpt-2023-07-20-4592e6]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|chatgpt-2023-07-20-37833c]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 883
-  role: variant
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: memory
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/ChatGPT/2025-12-19-be-more-or-less-warm|chatgpt-2025-12-19-16e09a]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 720924f97d20d1980fd8e6f660e2aa2924d029e56a39158795329c03ef5b0321
+machine_hash: 9b73561f484bb79d970d1f65a6eeee59269b5c9808e32fbbf24e30facc05ddee
 product: chatgpt
 product_name: ChatGPT
+record:
+  card_id: chatgpt-2025-12-19-304a1c
+  comparison: ''
+  date: '2025-12-19'
+  description: 'ChatGPT — New detailed characteristic controls: Use more or fewer
+    emojis'
+  evidence:
+  - quote: Use more or fewer emojis
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-detailed-characteristic-controls
+  extractor_version: fallback-v3
+  impact: incremental
+  product: chatgpt
+  product_name: ChatGPT
+  slug: use-more-or-fewer-emojis
+  source_release: chatgpt-2025-12-19-new-detailed-characteristic-controls-fa363df4
+  source_type: chatgpt_changelog
+  theme: memory
+  theme_matches: []
+  theme_resolution: manual-backfill-review-v1
+  title: Use more or fewer emojis
+  type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-11-12-we-re-updating-chatgpt-s-tone-controls-so-it-s-easier-to-make-responses-sound-th|chatgpt-2025-11-12-5f0133]]'
-- '[[Changes/ChatGPT/2025-11-24-shopping-research-is-a-new-interactive-experience-that-helps-you-find-the-right|chatgpt-2025-11-24-7fa12e]]'
+- '[[Changes/ChatGPT/2025-11-07-previously-changes-you-made-to-your-chatgpt-personality-or-custom-instructions-o|chatgpt-2025-11-07-2c37c7]]'
+- '[[Changes/ChatGPT/2025-11-24-shopping-research-is-a-new-interactive-experience-that-helps-you-find-the-right-0a021d|chatgpt-2025-11-24-0a021d]]'
 - '[[Changes/ChatGPT/2025-12-19-be-more-or-less-warm|chatgpt-2025-12-19-16e09a]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-12-19-new-detailed-characteristic-controls-fa363df4|chatgpt-2025-12-19-new-detailed-characteristic-controls-fa363df4]]'
+source_type: chatgpt_changelog
 theme: memory
+title: Use more or fewer emojis
 type: change
 ---
 
 # Use more or fewer emojis
 
 <!-- chronolog:begin region="description" -->
-Use more or fewer emojis
+ChatGPT — New detailed characteristic controls: Use more or fewer emojis
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,14 +61,16 @@ Use more or fewer emojis
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/ChatGPT/2025-12-19-be-more-or-less-warm|chatgpt-2025-12-19-16e09a]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: memory
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: variant
-- First In Tracked: [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat|chatgpt-2023-07-20-4592e6]]
+- Role: later-observed
+- First In Tracked: [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|chatgpt-2023-07-20-37833c]]
 - Lag Days: 883
 - Tracked Products Count: 3
 <!-- chronolog:end -->

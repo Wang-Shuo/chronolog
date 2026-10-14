@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-06-12-starting-a-new-project-directly-from-a-chat|chatgpt-2025-06-12-6e1e0c]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: ab08449567b52e014aeeab9bf5853473185677abe97ba6e562074ddb8ae65142
+machine_hash: 0bb58c358834a2c7fc990f96dbe837baa3693493c2e0f4c991705b407a3d3343
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-03-18-conversation-drafts-unsubmitted-messages-in-your-message-prompt-will-now-be-save|chatgpt-2025-03-18-3dd35e]]'
 - '[[Changes/ChatGPT/2025-06-12-starting-a-new-project-directly-from-a-chat|chatgpt-2025-06-12-6e1e0c]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-03-projects-now-available-on-chatgpt-free-tier-000f73ae|chatgpt-2025-09-03-projects-now-available-on-chatgpt-free-tier-000f73ae]]'
+superseded: true
 theme: projects-workspaces
 type: change
 ---

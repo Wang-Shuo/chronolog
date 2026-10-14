@@ -1,9 +1,21 @@
 ---
 changes_count: 1
 date: '2023-11-21'
-machine_hash: 50735d133c0526382656d5268ec361fedaaea6f7002f729eadd7530f92c5f137
+machine_hash: b30c6619cb948bb2f0c9a93b0458e5b792f713b31fa9273a47fb8db14089a058
 product: cursor
 product_name: Cursor
+record:
+  date: '2023-11-21'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2023-11-21-0-16-2-nightly-https-cursor-com-changelog-0-16-2-nightly-872eb87e
+  source_summary: Integrates GPT-V into chat for the editor. This means you can take
+    screenshots/images and drag it into the chat inputbox to have Cursor use them
+    as context.
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-16-2-nightly
+  title: GPT-V Support
+  version: 0.16.2-nightly
 release_id: cursor-2023-11-21-0-16-2-nightly-https-cursor-com-changelog-0-16-2-nightly-872eb87e
 source_release: GPT-V Support
 source_type: cursor_changelog
@@ -11,6 +23,7 @@ source_url: https://cursor.com/changelog/0-16-2-nightly
 tags:
 - release
 - cursor
+title: Cursor — GPT-V Support
 version: 0.16.2-nightly
 ---
 

@@ -1,5 +1,7 @@
 # ChronoLog MVP Implementation Plan
 
+> **Historical reference (status reviewed 2026-10-13):** This plan records the original Phase 1 implementation work, which now has code and generated artifacts. Its checkboxes and embedded examples are retained as history, not as a current status tracker or operating manual. The M1 reliability milestone has passed [acceptance](../../acceptance/m1-2026-10-13.md); the three-source MVP has also passed [M2 content acceptance](../../acceptance/m2-2026-10-13.md), including the user's human review. Use the [current development and acceptance plan](../../development-plan-2026-10-13.md) for follow-up work; run pipeline examples only in a disposable repository copy.
+
 > **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
 
 **Goal:** Build the Phase 1 ChronoLog MVP: a local Obsidian Vault plus Python pipeline that collects tier-1 changelog data, creates validated Change Cards, analyzes product/theme evolution, renders Markdown, and builds with Quartz.

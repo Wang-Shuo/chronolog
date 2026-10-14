@@ -11,10 +11,11 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 8871b668b6f3c9394ef6ba98ddb631a53dea58d2dabeaf7c0d99c0edc0e1ac37
+machine_hash: e383a98c2fb29a9cb4e52a0e4951e4e213d214092f386b8de56e354f72d7a433
 product: chatgpt
 product_name: ChatGPT
 source_release: '[[Releases/ChatGPT/chatgpt-2023-07-06-code-interpreter-is-now-rolling-out-in-beta-on-web-427b9bc0|chatgpt-2023-07-06-code-interpreter-is-now-rolling-out-in-beta-on-web-427b9bc0]]'
+superseded: true
 theme: file-data
 type: change
 ---

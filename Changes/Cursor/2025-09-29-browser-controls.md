@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2025-07-03-the-agent-breaks-down-longer-tasks-with-dependencies-visible-to-you-in-chat-and|cursor-2025-07-03-bac341]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 9abc4b96f5f44d0928fb5c69b3c2d38657985d57e1d99e7393fba5d0c1dc46ce
+machine_hash: b70460fd86faffadb33146c321e3bc708ac13831929327cf2eef000798fff6d7
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-08-11-now-connect-even-more-tools-in-chatgpt-for-useful-relevant-responses-in-chat|chatgpt-2025-08-11-a44c3a]]'
 - '[[Changes/ChatGPT/2025-08-13-gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-are-now-availabl|chatgpt-2025-08-13-f62e2e]]'
 source_release: '[[Releases/Cursor/cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae|cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae]]'
+superseded: true
 theme: apps-integrations
 type: change
 ---

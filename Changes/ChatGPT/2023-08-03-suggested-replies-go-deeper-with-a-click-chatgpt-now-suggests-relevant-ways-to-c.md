@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2023-05-03-you-can-now-turn-off-chat-history-and-export-your-data-from-the-chatgpt-settings|chatgpt-2023-05-03-96ffb8]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: d4678860ee6cae81c7dc25ca5701748ff7b8ed419a33284faca5ab725f2cc0e9
+machine_hash: a6f653357c4099d25a777dcbd4e5eab7d3bdb1b0901140b968d7454037c7ae61
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2023-07-27-c-and-f-now-properly-render-in-the-chat|cursor-2023-07-27-8b3ad9]]'
 - '[[Changes/Cursor/2023-07-28-new-completion-experience-powered-by-gpt-4-just-press-and-you-ll-get-a-long-comp|cursor-2023-07-28-3dcb54]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-08-03-updates-to-chatgpt-0d776ee3|chatgpt-2023-08-03-updates-to-chatgpt-0d776ee3]]'
+superseded: true
 theme: interface-experience
 type: change
 ---

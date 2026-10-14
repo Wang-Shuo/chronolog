@@ -1,9 +1,19 @@
 ---
 changes_count: 2
 date: '2024-02-15'
-machine_hash: 1841a1298de90d0bb92186868bfc6dca271db5a5d5890b48857a9584d3f38880
+machine_hash: 353646639ff5c56e89871df0512521e5f564aa7d3cdb46d28a634707540770b8
 product: cursor
 product_name: Cursor
+record:
+  date: '2024-02-15'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2024-02-15-0-27-x-https-cursor-com-changelog-0-27-x-29975100
+  source_summary: 'Two new updates to experimental features:'
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-27-x
+  title: Linter, Interpreter Mode Updates
+  version: 0.27.x
 release_id: cursor-2024-02-15-0-27-x-https-cursor-com-changelog-0-27-x-29975100
 source_release: Linter, Interpreter Mode Updates
 source_type: cursor_changelog
@@ -11,6 +21,7 @@ source_url: https://cursor.com/changelog/0-27-x
 tags:
 - release
 - cursor
+title: Cursor — Linter, Interpreter Mode Updates
 version: 0.27.x
 ---
 

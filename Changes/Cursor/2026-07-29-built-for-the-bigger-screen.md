@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2026-07-29-new-to-both-iphone-and-ipad-an-inbox-to-stay-organized-and-a-review-experience-t|cursor-2026-07-29-deb3b9]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: b9e1679e79c4f55faf90e4e09ba156bf1a3f7b1ed57cd8c38d6e7a37cc1e7e9f
+machine_hash: 6f85be867f589e63aff4c70dd51fd3e858e4ab4da31af413b456ed8d4619305c
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2026-07-29-cursor-for-ipad-is-now-available-on-all-paid-plans|cursor-2026-07-29-9baac5]]'
 - '[[Changes/Cursor/2026-07-29-new-to-both-iphone-and-ipad-an-inbox-to-stay-organized-and-a-review-experience-t|cursor-2026-07-29-deb3b9]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-29-cursor-now-on-ipad-https-cursor-com-changelog-ipad-d2eeee4c|cursor-2026-07-29-cursor-now-on-ipad-https-cursor-com-changelog-ipad-d2eeee4c]]'
+superseded: true
 theme: mobile-desktop
 type: change
 ---

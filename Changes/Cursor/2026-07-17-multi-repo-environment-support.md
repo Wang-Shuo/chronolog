@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2026-05-13-multi-repo-environments|cursor-2026-05-13-8bb4f6]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: d9b337f125cfd77832881c49d42e393e45c5f127d97cd45e8aa12f82fa66ded3
+machine_hash: a3d166016e1a7259876a603a01ff237a64a931ea76109906f128b5c23b62aa57
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2026-07-16-unified-recents-chat-and-work-conversations-now-appear-together-in-recents-where|chatgpt-2026-07-16-3704a0]]'
 - '[[Changes/ChatGPT/2026-07-16-projects-in-the-desktop-app-your-existing-chatgpt-projects-now-appear-in-the-app|chatgpt-2026-07-16-434e7b]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-17-improvements-to-cursor-in-slack-https-cursor-com-changelog-slack-f233f9c6|cursor-2026-07-17-improvements-to-cursor-in-slack-https-cursor-com-changelog-slack-f233f9c6]]'
+superseded: true
 theme: projects-workspaces
 type: change
 ---

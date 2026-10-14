@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-05-08-chatgpt-deep-research-with-github-is-available-globally-to-team-users-it-is-also|chatgpt-2025-05-08-1519fc]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 1819585e4c66fbd8e298f0f05a74baa499cb399f64cf9f4427c53ef2dc930a44
+machine_hash: 7e0cce8568520e56a1f7844d25babc88f21272409f690e4fa8135df491ee1943
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-02-14-set-chatgpt-as-default-search-engine-in-safari|chatgpt-2025-02-14-6ee943]]'
 - '[[Changes/ChatGPT/2025-05-08-chatgpt-deep-research-with-github-is-available-globally-to-team-users-it-is-also|chatgpt-2025-05-08-1519fc]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-12-microsoft-sharepoint-and-onedrive-connector-for-deep-research-fo-f616305b|chatgpt-2025-05-12-microsoft-sharepoint-and-onedrive-connector-for-deep-research-fo-f616305b]]'
+superseded: true
 theme: search-browsing
 type: change
 ---

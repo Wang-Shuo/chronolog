@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2023-05-24-good-news-we-re-expanding-availability-of-the-chatgpt-app-for-ios-to-more-countr|chatgpt-2023-05-24-700706]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 251d421a6ecf095e915b8735eeb0d2868e78e291d2a60bfb552bb8b8f108e404
+machine_hash: 37077a1535661a212e57b6c93cbc6ac3c35e6b3d387d4e30b0ef50fef6a1fe20
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2023-05-24-chatgpt-app-for-ios-in-more-countries|chatgpt-2023-05-24-313861]]'
 - '[[Changes/ChatGPT/2023-05-24-good-news-we-re-expanding-availability-of-the-chatgpt-app-for-ios-to-more-countr|chatgpt-2023-05-24-700706]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-05-24-ios-app-available-in-more-countries-shared-links-in-alpha-bing-p-9800ed96|chatgpt-2023-05-24-ios-app-available-in-more-countries-shared-links-in-alpha-bing-p-9800ed96]]'
+superseded: true
 theme: mobile-desktop
 type: change
 ---

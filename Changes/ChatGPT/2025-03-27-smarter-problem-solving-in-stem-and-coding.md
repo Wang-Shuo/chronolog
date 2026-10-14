@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-03-27-gpt-4o-has-further-improved-its-capability-to-tackle-complex-technical-and-codin|chatgpt-2025-03-27-9fca00]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 60bc39ea94688cf85959c6ff374e5fd2003aa63cde0692ff8d118a94550bf2a5
+machine_hash: 3b56e67c2283b144253f9381258eb22ffa2784c283691dac77130330b1ce2b13
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-03-27-we-ve-made-improvements-to-gpt-4o-it-now-feels-more-intuitive-creative-and-colla|chatgpt-2025-03-27-5afb48]]'
 - '[[Changes/ChatGPT/2025-03-27-gpt-4o-has-further-improved-its-capability-to-tackle-complex-technical-and-codin|chatgpt-2025-03-27-9fca00]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-03-27-improvements-to-gpt-4o-4bcfc1a7|chatgpt-2025-03-27-improvements-to-gpt-4o-4bcfc1a7]]'
+superseded: true
 theme: model-support
 type: change
 ---

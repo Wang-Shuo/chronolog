@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2026-06-29-remote-control|cursor-2026-06-29-91f1d3]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 0a0cb979046fc9054704febcda96e2be40f7dface3ffb73de63be32e9411353c
+machine_hash: 6898f2981820ae99bb6b91fe1c08831226573cb945c8b106474f93abf82204c9
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Claude Code/2026-06-24-improved-mcp-server-reliability-capability-discovery-tools-list-prompts-list-res|claude-code-2026-06-24-4529fd]]'
 - '[[Changes/Cursor/2026-06-29-remote-control|cursor-2026-06-29-91f1d3]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-30-3-10-https-cursor-com-changelog-team-marketplace-updates-eb3caab2|cursor-2026-06-30-3-10-https-cursor-com-changelog-team-marketplace-updates-eb3caab2]]'
+superseded: true
 theme: apps-integrations
 type: change
 ---

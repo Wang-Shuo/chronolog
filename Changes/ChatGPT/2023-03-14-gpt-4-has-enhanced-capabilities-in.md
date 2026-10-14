@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2023-03-14-advanced-reasoning|chatgpt-2023-03-14-58e187]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 6d003dac6733dce10e5020b974121285cceec218c1429343388178386289c8e5
+machine_hash: 0fdfee086ecdaac277af13f48f4a6dbcae4461beca348b78457340f999bf970d
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2023-03-14-we-re-excited-to-bring-gpt-4-our-latest-model-to-our-chatgpt-plus-subscribers|chatgpt-2023-03-14-11a361]]'
 - '[[Changes/ChatGPT/2023-03-14-advanced-reasoning|chatgpt-2023-03-14-58e187]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-03-14-announcing-gpt-4-in-chatgpt-43063370|chatgpt-2023-03-14-announcing-gpt-4-in-chatgpt-43063370]]'
+superseded: true
 theme: model-support
 type: change
 ---

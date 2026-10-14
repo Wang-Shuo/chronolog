@@ -34,10 +34,8 @@ def test_analyze_products_creates_eras_and_evolves_from():
 
     cursor = result["products"]["cursor"]
     assert cursor["verbosity_baseline"] == 1.0
-    assert len(cursor["eras"]) >= 2
-    assert result["evolves_from"]["cursor-2025-06-01-bbbbbb"] == [
-        "cursor-2025-01-01-aaaaaa"
-    ]
+    assert cursor["eras"] == []
+    assert result["evolves_from"] == {}
 
 
 def test_analyze_products_never_splits_one_release_across_eras():
@@ -69,10 +67,7 @@ def test_analyze_products_never_splits_one_release_across_eras():
 
     eras = analyze_products(cards)["products"]["cursor"]["eras"]
 
-    assert [(era["from"], era["to"]) for era in eras] == [
-        ("2025-01-01", "2025-01-01"),
-        ("2026-01-01", None),
-    ]
+    assert eras == []  # no unsupported eras, including no split of a release
 
 
 def test_analyze_themes_creates_related_changes_and_diffusion():
@@ -105,5 +100,5 @@ def test_analyze_themes_creates_related_changes_and_diffusion():
     cursor = result["cards"]["cursor-2025-02-01-bbbbbb"]
     assert cursor["related_changes"] == ["aider-2025-01-01-aaaaaa"]
     assert cursor["diffusion"]["scope"] == "tracked-products-only"
-    assert cursor["diffusion"]["role"] == "follower"
+    assert cursor["diffusion"]["role"] == "later-observed"
     assert cursor["diffusion"]["lag_days"] == 31

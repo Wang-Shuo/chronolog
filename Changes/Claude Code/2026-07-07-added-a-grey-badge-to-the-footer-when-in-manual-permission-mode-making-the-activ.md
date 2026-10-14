@@ -3,31 +3,58 @@ card_id: claude-code-2026-07-07-16e820
 date: '2026-07-07'
 diffusion:
   first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|cursor-2023-04-16-f0e22a]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1178
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Claude Code/2026-07-06-fixed-remote-control-sessions-showing-the-wrong-permission-mode-in-the-mobile-an|claude-code-2026-07-06-9e3396]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: d4ee5aaffa1249187786e41f659ce322efc7631211e76a6c55a90609633f7a94
+machine_hash: 815b7f0a877aec568fd1ebb468814221bfc0326c67b75161d71e93e0ae655509
 product: claude-code
 product_name: Claude Code
+record:
+  card_id: claude-code-2026-07-07-16e820
+  comparison: ''
+  date: '2026-07-07'
+  description: 'Claude Code — v2.1.203: Added a grey ⏸ badge to the footer when in
+    manual permission mode, making the active mode always visible'
+  evidence:
+  - quote: Added a grey ⏸ badge to the footer when in manual permission mode, making
+      the active mode always visible
+    source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.203
+  extractor_version: fallback-v3
+  impact: incremental
+  product: claude-code
+  product_name: Claude Code
+  slug: added-a-grey-badge-to-the-footer-when-in-manual-permission-mode-making-the-activ
+  source_release: claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc
+  source_type: github_releases
+  theme: safety-privacy
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v2
+  title: Added a grey ⏸ badge to the footer when in manual permission mode, making
+    the ac
+  type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-29-security-claude-mcp-list-get-no-longer-spawn-mcp-json-servers-that-a-repo-self-a|claude-code-2026-06-29-697a1f]]'
 - '[[Changes/Claude Code/2026-07-03-changed-the-default-permission-mode-to-manual-across-the-cli-help-vs-code-and-je|claude-code-2026-07-03-d5e33d]]'
 - '[[Changes/Claude Code/2026-07-06-fixed-remote-control-sessions-showing-the-wrong-permission-mode-in-the-mobile-an|claude-code-2026-07-06-9e3396]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc|claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc]]'
+source_type: github_releases
 theme: safety-privacy
+title: Added a grey ⏸ badge to the footer when in manual permission mode, making the
+  ac
 type: change
 ---
 
 # Added a grey ⏸ badge to the footer when in manual permission mode, making the ac
 
 <!-- chronolog:begin region="description" -->
-Added a grey ⏸ badge to the footer when in manual permission mode, making the active mode always visible
+Claude Code — v2.1.203: Added a grey ⏸ badge to the footer when in manual permission mode, making the active mode always visible
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +64,15 @@ Added a grey ⏸ badge to the footer when in manual permission mode, making the 
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Claude Code/2026-07-06-fixed-remote-control-sessions-showing-the-wrong-permission-mode-in-the-mobile-an|claude-code-2026-07-06-9e3396]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: safety-privacy
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
+- Role: later-observed
 - First In Tracked: [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|cursor-2023-04-16-f0e22a]]
 - Lag Days: 1178
 - Tracked Products Count: 3

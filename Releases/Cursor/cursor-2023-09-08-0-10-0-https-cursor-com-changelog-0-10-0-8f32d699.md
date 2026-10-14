@@ -1,9 +1,19 @@
 ---
 changes_count: 5
 date: '2023-09-08'
-machine_hash: 384169657cb2d7f6fd25c68092c79c4bd852cb0d4f6182654c88a53d423b749b
+machine_hash: 418aa248fa5a4073d09399b8aef640c8c80d05e0d6fe105d1fd221ad4a734ac4
 product: cursor
 product_name: Cursor
+record:
+  date: '2023-09-08'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2023-09-08-0-10-0-https-cursor-com-changelog-0-10-0-8f32d699
+  source_summary: '#Docs'
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-10-0
+  title: Better Docs Management, Staged Rollouts
+  version: 0.10.0
 release_id: cursor-2023-09-08-0-10-0-https-cursor-com-changelog-0-10-0-8f32d699
 source_release: Better Docs Management, Staged Rollouts
 source_type: cursor_changelog
@@ -11,6 +21,7 @@ source_url: https://cursor.com/changelog/0-10-0
 tags:
 - release
 - cursor
+title: Cursor — Better Docs Management, Staged Rollouts
 version: 0.10.0
 ---
 

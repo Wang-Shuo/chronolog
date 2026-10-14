@@ -1,9 +1,22 @@
 ---
 changes_count: 2
 date: '2026-01-07'
-machine_hash: bc37406d5379f9b02f58a2589e4d9b0bf6741c10bc45a269dff7d8c195203be7
+machine_hash: fddae55d3268295ee0abcbc6fcb1697fc6d3ad0b3e09788183b5bc2cd4541a4e
 product: chatgpt
 product_name: ChatGPT
+record:
+  date: '2026-01-07'
+  product: chatgpt
+  product_name: ChatGPT
+  release_id: chatgpt-2026-01-07-health-in-chatgpt-4cb3bdf6
+  source_summary: We’re starting to roll out Health, a dedicated space in ChatGPT
+    for health and wellness conversations. You can securely connect medical records,
+    Apple Health and supported wellness apps so answers can be grounded in your own
+    data. Health is designed to help you navigate medical care, not replace it. Health…
+  source_type: chatgpt_changelog
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#health-in-chatgpt
+  title: Health in ChatGPT
+  version: Health in ChatGPT
 release_id: chatgpt-2026-01-07-health-in-chatgpt-4cb3bdf6
 source_release: Health in ChatGPT
 source_type: chatgpt_changelog
@@ -11,6 +24,7 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#he
 tags:
 - release
 - chatgpt
+title: ChatGPT — Health in ChatGPT
 version: Health in ChatGPT
 ---
 

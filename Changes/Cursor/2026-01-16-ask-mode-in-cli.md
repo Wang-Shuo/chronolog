@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2026-01-16-use-plan-mode-to-design-your-approach-before-coding-cursor-will-ask-clarifying-q|cursor-2026-01-16-4777b9]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 85c9ee6a7cab845032a66133ba872f7fa50e8455db4611cda883d9bc5433fb71
+machine_hash: 7e20d481ab1c4a4b70608c6e952e0ded4774a86f1bb959abe6f45b5c72289a1f
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Claude Code/2026-01-16-added-plansdirectory-setting-to-customize-where-plan-files-are-stored|claude-code-2026-01-16-16bbe2]]'
 - '[[Changes/Cursor/2026-01-16-use-plan-mode-to-design-your-approach-before-coding-cursor-will-ask-clarifying-q|cursor-2026-01-16-4777b9]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-16-cli-agent-modes-and-cloud-handoff-https-cursor-com-changelog-cli-becd78b5|cursor-2026-01-16-cli-agent-modes-and-cloud-handoff-https-cursor-com-changelog-cli-becd78b5]]'
+superseded: true
 theme: agent-mode
 type: change
 ---

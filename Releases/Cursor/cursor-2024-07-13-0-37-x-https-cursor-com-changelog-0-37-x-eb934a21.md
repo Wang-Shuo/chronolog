@@ -1,9 +1,21 @@
 ---
 changes_count: 1
 date: '2024-07-13'
-machine_hash: a5c1ef6e173b926934f8bad987d1f0c13d734fedd31f5e73390f534be0317c1a
+machine_hash: 24ab88d96520935c08b039022886b2242d6420d9ae607ebb876350b8a59524ec
 product: cursor
 product_name: Cursor
+record:
+  date: '2024-07-13'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2024-07-13-0-37-x-https-cursor-com-changelog-0-37-x-eb934a21
+  source_summary: This build comes with a new experimental multi-file editing feature.
+    To enable it, click the settings gear, head to Beta, and activate "Composer."
+    To use it, hit Cmd+I. We'd love to hear your thoughts.
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-37-x
+  title: Composer (beta)
+  version: 0.37.x
 release_id: cursor-2024-07-13-0-37-x-https-cursor-com-changelog-0-37-x-eb934a21
 source_release: Composer (beta)
 source_type: cursor_changelog
@@ -11,6 +23,7 @@ source_url: https://cursor.com/changelog/0-37-x
 tags:
 - release
 - cursor
+title: Cursor — Composer (beta)
 version: 0.37.x
 ---
 

@@ -2,32 +2,61 @@
 card_id: cursor-2023-10-20-3eaae6
 date: '2023-10-20'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed|chatgpt-2023-03-23-86e5a9]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 211
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Cursor/2023-09-17-we-point-to-a-different-marketplace-for-downloading-extensions-and-use-a-fork-of|cursor-2023-09-17-a51110]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: c4b5cbe34435300cc7233cb4bbc541cf46557253bdd945c54a9855a8bb60ac2d
+machine_hash: b960d52f18b6ba534b3abfa5bec88aa397ab4bc28f22322a70486e33dafb5e43
 product: cursor
 product_name: Cursor
+record:
+  card_id: cursor-2023-10-20-3eaae6
+  comparison: ''
+  date: '2023-10-20'
+  description: 'Cursor — New VS Code version: Cursor is now based on VS Code 1.83.1.
+    This ensures that the newest versions of all extensions will work without problem
+    in Cursor. Thank you to everyone who urged us to do this on the forum!'
+  evidence:
+  - quote: Cursor is now based on VS Code 1.83.1. This ensures that the newest versions
+      of all extensions will work without problem in Cursor. Thank you to everyone
+      who urged us to do this on the forum!
+    source_release: https://cursor.com/changelog/0-13-0-0-13-4
+  extractor_version: fallback-v3
+  impact: incremental
+  product: cursor
+  product_name: Cursor
+  slug: cursor-is-now-based-on-vs-code-1-83-1-this-ensures-that-the-newest-versions-of-a
+  source_release: cursor-2023-10-20-0-13-0-0-13-4-https-cursor-com-changelog-0-13-0-0-13-4-5f700e1b
+  source_type: cursor_changelog
+  theme: apps-integrations
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v1
+  title: Cursor is now based on VS Code 1.83.1. This ensures that the newest versions
+    of
+  type: change
 related_changes:
 - '[[Changes/Cursor/2023-09-08-the-main-addition-in-this-update-is-better-docs-support-this-means-you-can-add-a|cursor-2023-09-08-1160cc]]'
 - '[[Changes/Cursor/2023-09-11-we-serve-extensions-now-using-cursor-s-extension-marketplace|cursor-2023-09-11-06d1dd]]'
 - '[[Changes/Cursor/2023-09-17-we-point-to-a-different-marketplace-for-downloading-extensions-and-use-a-fork-of|cursor-2023-09-17-a51110]]'
 source_release: '[[Releases/Cursor/cursor-2023-10-20-0-13-0-0-13-4-https-cursor-com-changelog-0-13-0-0-13-4-5f700e1b|cursor-2023-10-20-0-13-0-0-13-4-https-cursor-com-changelog-0-13-0-0-13-4-5f700e1b]]'
+source_type: cursor_changelog
 theme: apps-integrations
+title: Cursor is now based on VS Code 1.83.1. This ensures that the newest versions
+  of
 type: change
 ---
 
 # Cursor is now based on VS Code 1.83.1. This ensures that the newest versions of
 
 <!-- chronolog:begin region="description" -->
-Cursor is now based on VS Code 1.83.1. This ensures that the newest versions of all extensions will work without problem in Cursor. Thank you to everyone who urged us to do this on the forum!
+Cursor — New VS Code version: Cursor is now based on VS Code 1.83.1. This ensures that the newest versions of all extensions will work without problem in Cursor. Thank you to everyone who urged us to do this on the forum!
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,14 +66,16 @@ Cursor is now based on VS Code 1.83.1. This ensures that the newest versions of 
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Cursor/2023-09-17-we-point-to-a-different-marketplace-for-downloading-extensions-and-use-a-fork-of|cursor-2023-09-17-a51110]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: apps-integrations
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
-- First In Tracked: [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed|chatgpt-2023-03-23-86e5a9]]
+- Role: later-observed
+- First In Tracked: [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]
 - Lag Days: 211
 - Tracked Products Count: 3
 <!-- chronolog:end -->

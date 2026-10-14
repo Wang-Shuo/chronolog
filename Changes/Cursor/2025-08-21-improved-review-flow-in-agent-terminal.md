@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2025-07-29-share-terminal-with-agent|cursor-2025-07-29-300ddb]]'
 extractor_version: fallback-v2
 impact: paradigm-shift
-machine_hash: a36ae2027cac0488ff073630b0dfdd5e18a5461c00d6c0b1062192cb36d60214
+machine_hash: 74c1dd2d32cb4637314868f546398d7d3e3c4f8992e145a64d8e4f03311e0c4a
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2025-06-04-automatic-code-review-with-bugbot|cursor-2025-06-04-4aacce]]'
 - '[[Changes/Cursor/2025-07-29-share-terminal-with-agent|cursor-2025-07-29-300ddb]]'
 source_release: '[[Releases/Cursor/cursor-2025-08-21-1-5-https-cursor-com-changelog-1-5-f93efb89|cursor-2025-08-21-1-5-https-cursor-com-changelog-1-5-f93efb89]]'
+superseded: true
 theme: developer-workflow
 type: change
 ---

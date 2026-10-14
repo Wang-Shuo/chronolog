@@ -1,9 +1,19 @@
 ---
 changes_count: 1
 date: '2023-08-26'
-machine_hash: 6f08e42b270d703233c043bf3b519928fbf2410464e4717a9779e49ebb98b870
+machine_hash: 75d8d881f3c27346d96d3a036d778ab1f52764096a99cce421b641cd8ad003cb
 product: cursor
 product_name: Cursor
+record:
+  date: '2023-08-26'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2023-08-26-0-8-5-https-cursor-com-changelog-0-8-5-057abd19
+  source_summary: Have the advanced context button show up for non git repos.
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-8-5
+  title: Advanced Button
+  version: 0.8.5
 release_id: cursor-2023-08-26-0-8-5-https-cursor-com-changelog-0-8-5-057abd19
 source_release: Advanced Button
 source_type: cursor_changelog
@@ -11,6 +21,7 @@ source_url: https://cursor.com/changelog/0-8-5
 tags:
 - release
 - cursor
+title: Cursor — Advanced Button
 version: 0.8.5
 ---
 

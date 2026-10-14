@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2026-01-16-ask-mode-in-cli|cursor-2026-01-16-67f52d]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 30a20bccad02b9a8836cb8014dcd0c794922b655a9409abd6a0b0b2a4849c6ef
+machine_hash: b8be62776822eb141b26d35d9c58f8f42a42d34d1ba400c3e6fcb43da4900388
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2026-01-16-use-plan-mode-to-design-your-approach-before-coding-cursor-will-ask-clarifying-q|cursor-2026-01-16-4777b9]]'
 - '[[Changes/Cursor/2026-01-16-ask-mode-in-cli|cursor-2026-01-16-67f52d]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-16-cli-agent-modes-and-cloud-handoff-https-cursor-com-changelog-cli-becd78b5|cursor-2026-01-16-cli-agent-modes-and-cloud-handoff-https-cursor-com-changelog-cli-becd78b5]]'
+superseded: true
 theme: agent-mode
 type: change
 ---

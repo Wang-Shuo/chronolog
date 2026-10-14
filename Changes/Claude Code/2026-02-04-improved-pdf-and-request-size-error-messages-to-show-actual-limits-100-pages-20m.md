@@ -2,31 +2,59 @@
 card_id: claude-code-2026-02-04-497470
 date: '2026-02-04'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week|chatgpt-2023-07-06-63388c]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|chatgpt-2023-07-06-66255e]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 944
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: file-data
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v2
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 017cbc7da3886faee95d96a1bc1bd0a8c21678b394417795bf0a09e92c8ce617
+machine_hash: c7814464d8dc2351faa511a1a641f28540d6e45b63a97ad1e2b0656f3eaa3e74
 product: claude-code
 product_name: Claude Code
+record:
+  card_id: claude-code-2026-02-04-497470
+  comparison: ''
+  date: '2026-02-04'
+  description: 'Claude Code — v2.1.31: Improved PDF and request size error messages
+    to show actual limits (100 pages, 20MB)'
+  evidence:
+  - quote: Improved PDF and request size error messages to show actual limits (100
+      pages, 20MB)
+    source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.31
+  extractor_version: fallback-v3
+  impact: incremental
+  product: claude-code
+  product_name: Claude Code
+  slug: improved-pdf-and-request-size-error-messages-to-show-actual-limits-100-pages-20m
+  source_release: claude-code-2026-02-04-v2-1-31-github-282782741-04ea99e1
+  source_type: github_releases
+  theme: file-data
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v1
+  title: Improved PDF and request size error messages to show actual limits (100 pages,
+    2
+  type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-02-06-for-more-details-about-the-canvas-feature-in-chatgpt-check-out-the-following-hel|chatgpt-2025-02-06-0f1765]]'
 - '[[Changes/ChatGPT/2025-06-24-projects-can-now-support-40-uploaded-files-up-from-20-for-pro-users|chatgpt-2025-06-24-e74d4b]]'
 - '[[Changes/Cursor/2025-08-06-read-file-now-reads-full-files-when-appropriate-and-the-2mb-cap-is-removed|cursor-2025-08-06-7fb099]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-04-v2-1-31-github-282782741-04ea99e1|claude-code-2026-02-04-v2-1-31-github-282782741-04ea99e1]]'
+source_type: github_releases
 theme: file-data
+title: Improved PDF and request size error messages to show actual limits (100 pages,
+  2
 type: change
 ---
 
 # Improved PDF and request size error messages to show actual limits (100 pages, 2
 
 <!-- chronolog:begin region="description" -->
-Improved PDF and request size error messages to show actual limits (100 pages, 20MB)
+Claude Code — v2.1.31: Improved PDF and request size error messages to show actual limits (100 pages, 20MB)
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -36,14 +64,16 @@ Improved PDF and request size error messages to show actual limits (100 pages, 2
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-No prior tracked change.
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: file-data
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
-- First In Tracked: [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week|chatgpt-2023-07-06-63388c]]
+- Role: later-observed
+- First In Tracked: [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|chatgpt-2023-07-06-66255e]]
 - Lag Days: 944
 - Tracked Products Count: 3
 <!-- chronolog:end -->

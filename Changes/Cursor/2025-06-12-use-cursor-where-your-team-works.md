@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2025-03-23-enhanced-visibility-of-auto-run-controls-configured-by-team-admins-clarifying-wh|cursor-2025-03-23-6fd38a]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: a8fbe749a5c7d777e8cbdb9f089ad3261564df8026962e0a81278cbe503fd09d
+machine_hash: b298b73daec7aec12933a7df0a261825c1aece89da562e8f832a1ec702a3ceb8
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-06-12-sharing-chats-from-projects|chatgpt-2025-06-12-1db390]]'
 - '[[Changes/ChatGPT/2025-06-12-starting-today-we-re-adding-several-updates-to-projects-in-chatgpt-to-help-you-d|chatgpt-2025-06-12-a56e91]]'
 source_release: '[[Releases/Cursor/cursor-2025-06-12-1-1-https-cursor-com-changelog-1-1-0f0190fc|cursor-2025-06-12-1-1-https-cursor-com-changelog-1-1-0f0190fc]]'
+superseded: true
 theme: collaboration
 type: change
 ---

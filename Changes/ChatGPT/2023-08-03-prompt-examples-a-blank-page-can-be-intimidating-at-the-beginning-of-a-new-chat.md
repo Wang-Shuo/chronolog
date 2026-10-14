@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2023-08-03-suggested-replies-go-deeper-with-a-click-chatgpt-now-suggests-relevant-ways-to-c|chatgpt-2023-08-03-7f5cf7]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: 40417b2c6ab5619885757ca00461ea28264c2de4b43dee597b035b5247abac02
+machine_hash: 40a3878da55bbca15e144ce93043c32c707026d2db33d72bdcea6e03cebcd896
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2023-07-28-new-completion-experience-powered-by-gpt-4-just-press-and-you-ll-get-a-long-comp|cursor-2023-07-28-3dcb54]]'
 - '[[Changes/ChatGPT/2023-08-03-suggested-replies-go-deeper-with-a-click-chatgpt-now-suggests-relevant-ways-to-c|chatgpt-2023-08-03-7f5cf7]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-08-03-updates-to-chatgpt-0d776ee3|chatgpt-2023-08-03-updates-to-chatgpt-0d776ee3]]'
+superseded: true
 theme: interface-experience
 type: change
 ---

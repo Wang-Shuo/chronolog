@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2024-02-13-you-re-in-control-of-chatgpt-s-memory-you-can-explicitly-tell-it-to-remember-som|chatgpt-2024-02-13-bb22bc]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: e69a5c1f8d6ed0244779d2de5e6ea01c612ea0df4dc37947ac577644dee7d06b
+machine_hash: 1e70803d11686d05b2af075516fbbd1297c9e0bd8ab4ff4ee4ce37e945b475a5
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2024-02-13-you-can-read-more-about-memory-and-controls-here|chatgpt-2024-02-13-4b6d7c]]'
 - '[[Changes/ChatGPT/2024-02-13-you-re-in-control-of-chatgpt-s-memory-you-can-explicitly-tell-it-to-remember-som|chatgpt-2024-02-13-bb22bc]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-04-29-memory-is-now-available-to-plus-users-4ba2f306|chatgpt-2024-04-29-memory-is-now-available-to-plus-users-4ba2f306]]'
+superseded: true
 theme: memory
 type: change
 ---

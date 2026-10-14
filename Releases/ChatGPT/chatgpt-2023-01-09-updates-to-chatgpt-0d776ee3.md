@@ -1,16 +1,28 @@
 ---
 changes_count: 2
 date: '2023-01-09'
-machine_hash: 5d835c28de91f0fa0e66b9e4010c5f0e56ade98412c7cbacdc171b41047ac2a9
+machine_hash: 89c22beb17f1d2e8da91a8c1550867fdde8bc489d4e61740530f0c72183e9435
 product: chatgpt
 product_name: ChatGPT
+record:
+  date: '2023-01-09'
+  product: chatgpt
+  product_name: ChatGPT
+  release_id: chatgpt-2023-01-09-updates-to-chatgpt-0d776ee3
+  source_summary: 'We''re excited to announce several updates to ChatGPT! Here''s
+    what''s new:'
+  source_type: chatgpt_changelog
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt
+  title: Updates to ChatGPT
+  version: Updates to ChatGPT
 release_id: chatgpt-2023-01-09-updates-to-chatgpt-0d776ee3
 source_release: Updates to ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_b1c7f24762
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt
 tags:
 - release
 - chatgpt
+title: ChatGPT — Updates to ChatGPT
 version: Updates to ChatGPT
 ---
 
@@ -20,7 +32,7 @@ version: Updates to ChatGPT
 <!-- chronolog:begin region="summary" -->
 We're excited to announce several updates to ChatGPT! Here's what's new:
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_b1c7f24762)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt)
 
 Tracked cards: 2
 <!-- chronolog:end -->

@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2026-05-13-full-screen-tabs|cursor-2026-05-13-eeba98]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 8cfb58dde14cafce96fb65cdd80d959d99ebcc3d4f87770bc979a0818f0ba08c
+machine_hash: 71159c6a1e4d9fbea3e87985a4585e7aeedea123635aa190aa471074e74acdd7
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Claude Code/2026-06-03-clicking-a-slash-command-in-the-autocomplete-menu-now-fills-it-into-your-prompt|claude-code-2026-06-03-92aa13]]'
 - '[[Changes/Claude Code/2026-06-04-added-a-c-to-copy-shortcut-to-btw-that-copies-the-raw-markdown-answer-to-the-cli|claude-code-2026-06-04-ac3be2]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-05-3-7-https-cursor-com-changelog-design-mode-improvements-936ff395|cursor-2026-06-05-3-7-https-cursor-com-changelog-design-mode-improvements-936ff395]]'
+superseded: true
 theme: interface-experience
 type: change
 ---

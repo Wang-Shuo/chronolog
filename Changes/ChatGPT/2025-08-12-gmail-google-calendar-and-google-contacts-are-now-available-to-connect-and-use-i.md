@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-06-13-more-robust-ability-to-follow-instructions-especially-in-longer-conversations-si|chatgpt-2025-06-13-147d5c]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 08f92845f02eda3ac198e46fc1f588b84df694f228a4a43c88850debc868001d
+machine_hash: a31acde65aa23f6ded861e9dbb71736f5543b586902a710277a3a2a1851886e4
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-06-13-more-robust-ability-to-follow-instructions-especially-in-longer-conversations-si|chatgpt-2025-06-13-147d5c]]'
 - '[[Changes/Cursor/2025-07-29-faster-edits|cursor-2025-07-29-7fac10]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-12-gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-db727e12|chatgpt-2025-08-12-gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-db727e12]]'
+superseded: true
 theme: reliability-performance
 type: change
 ---

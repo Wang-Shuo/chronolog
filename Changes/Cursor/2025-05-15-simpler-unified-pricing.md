@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2025-03-23-chat-will-now-display-a-notification-about-usage-based-pricing-when-approaching|cursor-2025-03-23-5bd0f7]]'
 extractor_version: fallback-v2
 impact: paradigm-shift
-machine_hash: b6e7bbd2214382279aeaffdd18a6141e6aba008f9b1e78755c93da3e96006056
+machine_hash: 57d1acc56e95007a2599ff296d1139528b9510a9d76c8a78f9dae4e0d9727c1c
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2023-11-03-pro-plan-if-you-hit-your-fast-request-limit-and-prefer-to-purchase-more-you-now|cursor-2023-11-03-268faa]]'
 - '[[Changes/Cursor/2025-03-23-chat-will-now-display-a-notification-about-usage-based-pricing-when-approaching|cursor-2025-03-23-5bd0f7]]'
 source_release: '[[Releases/Cursor/cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998|cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998]]'
+superseded: true
 theme: pricing-model
 type: change
 ---

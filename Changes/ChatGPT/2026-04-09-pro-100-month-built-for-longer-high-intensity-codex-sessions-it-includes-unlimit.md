@@ -2,32 +2,62 @@
 card_id: chatgpt-2026-04-09-384163
 date: '2026-04-09'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]'
-  lag_days: 1186
-  role: variant
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|chatgpt-2022-12-15-6d306d]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1211
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
-  theme: model-support
+  theme: pricing-model
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/ChatGPT/2026-03-17-thinking-deeper-reasoning-for-more-complex-tasks|chatgpt-2026-03-17-acdeda]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 3a24c605e60c68e59c2b0bf756fbcf28a0e7e1f3bb709191a75ef97b687e1b44
+machine_hash: fac505ce55bfa460bc6d7b06e0b68d1c371f073dd7bb0913ba3c80c38b80298b
 product: chatgpt
 product_name: ChatGPT
+record:
+  card_id: chatgpt-2026-04-09-384163
+  comparison: ''
+  date: '2026-04-09'
+  description: 'ChatGPT — New Pro plan options: Pro ($100/month): Built for longer,
+    high-intensity Codex sessions. It includes unlimited access to GPT-5.4, access
+    to GPT-5.4 Pro, and, for a limited time, up to 10x more Codex usage than Plus
+    (up from 5X standard usage allowance).'
+  evidence:
+  - quote: 'Pro ($100/month): Built for longer, high-intensity Codex sessions. It
+      includes unlimited access to GPT-5.4, access to GPT-5.4 Pro, and, for a limited
+      time, up to 10x more Codex usage than Plus (up from 5X standard usage allowance).'
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-pro-plan-options
+  extractor_version: fallback-v3
+  impact: incremental
+  product: chatgpt
+  product_name: ChatGPT
+  slug: pro-100-month-built-for-longer-high-intensity-codex-sessions-it-includes-unlimit
+  source_release: chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2
+  source_type: chatgpt_changelog
+  theme: pricing-model
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v2
+  title: 'Pro ($100/month): Built for longer, high-intensity Codex sessions. It includes
+    u'
+  type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-19-added-effort-frontmatter-support-for-skills-and-slash-commands-to-override-the-m|claude-code-2026-03-19-9f5e79]]'
-- '[[Changes/Cursor/2026-03-25-self-hosted-cloud-agents-offer-the-same-capabilities-as-cursor-hosted-cloud-agen|cursor-2026-03-25-6db779]]'
-- '[[Changes/Claude Code/2026-03-26-added-anthropic-default-opus-sonnet-haiku-model-supports-env-vars-to-override-ef|claude-code-2026-03-26-3c8e42]]'
+- '[[Changes/Cursor/2026-03-19-standard-0-50-m-input-2-50-m-output-tokens|cursor-2026-03-19-2ef7b6]]'
+- '[[Changes/Cursor/2026-03-19-fast-default-1-50-m-input-7-50-m-output-tokens|cursor-2026-03-19-425e73]]'
+- '[[Changes/Claude Code/2026-04-04-added-per-model-and-cache-hit-breakdown-to-cost-for-subscription-users|claude-code-2026-04-04-fba1f6]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2|chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2]]'
-theme: model-support
+source_type: chatgpt_changelog
+theme: pricing-model
+title: 'Pro (USD 100/month): Built for longer, high-intensity Codex sessions. It includes
+  u'
 type: change
 ---
 
 # Pro ($100/month): Built for longer, high-intensity Codex sessions. It includes u
 
 <!-- chronolog:begin region="description" -->
-Pro ($100/month): Built for longer, high-intensity Codex sessions. It includes unlimited access to GPT-5.4, access to GPT-5.4 Pro, and, for a limited time, up to 10x more Codex usage than Plus (up from 5X standard usage allowance).
+ChatGPT — New Pro plan options: Pro ($100/month): Built for longer, high-intensity Codex sessions. It includes unlimited access to GPT-5.4, access to GPT-5.4 Pro, and, for a limited time, up to 10x more Codex usage than Plus (up from 5X standard usage allowance).
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,15 +67,17 @@ Pro ($100/month): Built for longer, high-intensity Codex sessions. It includes u
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/ChatGPT/2026-03-17-thinking-deeper-reasoning-for-more-complex-tasks|chatgpt-2026-03-17-acdeda]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
-- Theme: model-support
+- Theme: pricing-model
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: variant
-- First In Tracked: [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]
-- Lag Days: 1186
+- Role: later-observed
+- First In Tracked: [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|chatgpt-2022-12-15-6d306d]]
+- Lag Days: 1211
 - Tracked Products Count: 3
 <!-- chronolog:end -->
 

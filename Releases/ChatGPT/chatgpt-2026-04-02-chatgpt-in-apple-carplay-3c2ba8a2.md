@@ -1,9 +1,22 @@
 ---
 changes_count: 1
 date: '2026-04-02'
-machine_hash: c21dfde62de10976d54e9c698dded83a5e242a325aeed6f2d0aa86a063923d1f
+machine_hash: d762cf206b0e7569361118d1c69741a20bb99e9fc2d128023962e585e7c42649
 product: chatgpt
 product_name: ChatGPT
+record:
+  date: '2026-04-02'
+  product: chatgpt
+  product_name: ChatGPT
+  release_id: chatgpt-2026-04-02-chatgpt-in-apple-carplay-3c2ba8a2
+  source_summary: We’re rolling out ChatGPT in CarPlay, giving you access to a hands-free
+    ChatGPT experience while on-the-go. If you have iOS 26.4 or newer and are connected
+    to a supported car, you can start new voice conversations with ChatGPT directly
+    from the CarPlay interface. You can also resume existing conversations you were…
+  source_type: chatgpt_changelog
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-in-apple-carplay
+  title: ChatGPT in Apple CarPlay
+  version: ChatGPT in Apple CarPlay
 release_id: chatgpt-2026-04-02-chatgpt-in-apple-carplay-3c2ba8a2
 source_release: ChatGPT in Apple CarPlay
 source_type: chatgpt_changelog
@@ -11,6 +24,7 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ch
 tags:
 - release
 - chatgpt
+title: ChatGPT — ChatGPT in Apple CarPlay
 version: ChatGPT in Apple CarPlay
 ---
 

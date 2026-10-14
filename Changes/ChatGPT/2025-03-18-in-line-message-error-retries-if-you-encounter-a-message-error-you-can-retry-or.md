@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-02-21-text-selection-improvements-you-can-now-select-text-across-horizontal-rulers-3-p|chatgpt-2025-02-21-2218aa]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 11762155716f65d91f284f7edb2331d2e0f35be5d86fc2f4e6e19212e30f3c7b
+machine_hash: 5c290a0f38240846542219cef81a5f60646b5817f24ebe8c92f2e311cb46672b
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2025-03-11-0-47-1-improved-performance-added-back-play-button-to-apply-code-blocks|cursor-2025-03-11-9cd231]]'
 - '[[Changes/Cursor/2025-03-11-0-47-6-faster-applies-warns-user-when-edits-fails-because-of-cursorignore|cursor-2025-03-11-e25337]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-03-18-web-and-the-windows-desktop-app-ef646255|chatgpt-2025-03-18-web-and-the-windows-desktop-app-ef646255]]'
+superseded: true
 theme: reliability-performance
 type: change
 ---

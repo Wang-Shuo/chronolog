@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-06-10-like-o1-pro-o3-pro-is-a-version-of-our-most-intelligent-model-o3-designed-to-thi|chatgpt-2025-06-10-f8286f]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: c926d0a01a13c0aaec0e35b05f20859c6f908debf26205bf4ac7d516571f7049
+machine_hash: 0cf8700042722afba9f9a9b5dc95c648a7a26da851d042352634baf18fc89f8b
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-06-10-o3-pro-is-available-in-the-model-picker-for-pro-and-team-users-starting-today-re|chatgpt-2025-06-10-e9a72d]]'
 - '[[Changes/ChatGPT/2025-06-10-like-o1-pro-o3-pro-is-a-version-of-our-most-intelligent-model-o3-designed-to-thi|chatgpt-2025-06-10-f8286f]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-12-expanded-model-support-for-custom-gpts-55f4555f|chatgpt-2025-06-12-expanded-model-support-for-custom-gpts-55f4555f]]'
+superseded: true
 theme: model-support
 type: change
 ---

@@ -11,10 +11,11 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: bf27a4e470adc034173656f486cb9d79d5f738a5bb4519264cec06f8f94dc0d4
+machine_hash: 3f53a800e4bb1669760ee1a081f0b5f4be8eb7976c7af7c40aceda64402079d4
 product: chatgpt
 product_name: ChatGPT
 source_release: '[[Releases/ChatGPT/chatgpt-2025-01-14-scheduled-tasks-in-chatgpt-b8005b4a|chatgpt-2025-01-14-scheduled-tasks-in-chatgpt-b8005b4a]]'
+superseded: true
 theme: automation-scheduling
 type: change
 ---

@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-11-12-gpt-5-1-auto-continues-to-route-each-query-to-the-best-model-and-gpt-5-models-re|chatgpt-2025-11-12-3a1902]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: f957ed6105aeaccad9450256369b4b9daefc93d7e91e3b3726d516f40caf40a1
+machine_hash: cfba4f56bb6ca5ca867ecd3500e05bb674a7156349fe57a6680cbc2a1a41a512
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-11-12-gpt-5-1-instant-and-thinking-are-rolling-out-first-to-paid-pro-plus-go-business|chatgpt-2025-11-12-36e435]]'
 - '[[Changes/ChatGPT/2025-11-12-gpt-5-1-auto-continues-to-route-each-query-to-the-best-model-and-gpt-5-models-re|chatgpt-2025-11-12-3a1902]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-12-gpt-5-1-in-chatgpt-3b83bb2f|chatgpt-2025-11-12-gpt-5-1-in-chatgpt-3b83bb2f]]'
+superseded: true
 theme: model-support
 type: change
 ---

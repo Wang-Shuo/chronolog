@@ -1,9 +1,19 @@
 ---
 changes_count: 2
 date: '2023-07-12'
-machine_hash: 3e339cca1d1d95e7bfbd53e314939291dd835cae9e80a34e5a387d6f3eb6f227
+machine_hash: 129e67719c3ecb0a7caa9927d1edfdb1e979a1a2efadf12eb4367046a1b49120
 product: cursor
 product_name: Cursor
+record:
+  date: '2023-07-12'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2023-07-12-0-2-48-nightly-https-cursor-com-changelog-0-2-48-nightly-d738eefc
+  source_summary: Semantic search in Cmd-Shift-F
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-2-48-nightly
+  title: Small things!
+  version: 0.2.48-nightly
 release_id: cursor-2023-07-12-0-2-48-nightly-https-cursor-com-changelog-0-2-48-nightly-d738eefc
 source_release: Small things!
 source_type: cursor_changelog
@@ -11,6 +21,7 @@ source_url: https://cursor.com/changelog/0-2-48-nightly
 tags:
 - release
 - cursor
+title: Cursor — Small things!
 version: 0.2.48-nightly
 ---
 

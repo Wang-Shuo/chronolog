@@ -2,32 +2,70 @@
 card_id: cursor-2026-06-05-23ed8d
 date: '2026-06-05'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-voice-beta-is-now-rolling-out-to-plus-users-on-ios-and-android|chatgpt-2023-09-25-5ff815]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|chatgpt-2023-09-25-13666e]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 984
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: voice
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Cursor/2026-04-13-upgraded-voice-input|cursor-2026-04-13-840f1c]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: paradigm-shift
-machine_hash: 49a83e12b5df358a6f39acade4790c40842cc901b4f57f0d757a7e786bfe7cde
+machine_hash: ff7a60b4738524d432cf9f81b5f6d19f2d5fae33236e97c2f64dd24b89b54879
 product: cursor
 product_name: Cursor
+record:
+  ai_generated: true
+  card_id: cursor-2026-06-05-23ed8d
+  comparison: ''
+  confidence: low
+  date: '2026-06-05'
+  description: 'Cursor — Design Mode Improvements: Narrate changes through the Design
+    Mode overlay. The mic stays available while an agent is mid-run, so you can queue
+    the next change by voice without waiting for the previous one to finish.'
+  evidence:
+  - quote: Narrate changes through the Design Mode overlay. The mic stays available
+      while an agent is mid-run, so you can queue the next change by voice without
+      waiting for the previous one to finish.
+    source_release: https://cursor.com/changelog/design-mode-improvements
+  extractor_version: fallback-v3
+  impact: paradigm-shift
+  product: cursor
+  product_name: Cursor
+  slug: narrate-changes-through-the-design-mode-overlay-the-mic-stays-available-while-an
+  source_release: cursor-2026-06-05-3-7-https-cursor-com-changelog-design-mode-improvements-936ff395
+  source_type: cursor_changelog
+  theme: voice
+  theme_matches:
+  - matched_terms:
+    - voice
+    score: 110
+    theme: voice
+  - matched_terms:
+    - agent
+    score: 50
+    theme: agent-mode
+  title: Narrate changes through the Design Mode overlay. The mic stays available
+    while a
+  type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-05-added-voice-stt-support-for-10-new-languages-20-total-russian-polish-turkish-dut|claude-code-2026-03-05-69ebb8]]'
 - '[[Changes/Claude Code/2026-03-07-added-voice-pushtotalk-keybinding-to-make-the-voice-activation-key-rebindable-in|claude-code-2026-03-07-c19380]]'
-- '[[Changes/Cursor/2026-04-13-upgraded-voice-input|cursor-2026-04-13-840f1c]]'
+- '[[Changes/Cursor/2026-04-13-dictation-through-voice-input-is-more-reliable-and-accurate-it-records-your-full|cursor-2026-04-13-9d6faa]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-05-3-7-https-cursor-com-changelog-design-mode-improvements-936ff395|cursor-2026-06-05-3-7-https-cursor-com-changelog-design-mode-improvements-936ff395]]'
+source_type: cursor_changelog
 theme: voice
+title: Narrate changes through the Design Mode overlay. The mic stays available while
+  a
 type: change
 ---
 
 # Narrate changes through the Design Mode overlay. The mic stays available while a
 
 <!-- chronolog:begin region="description" -->
-Narrate changes through the Design Mode overlay. The mic stays available while an agent is mid-run, so you can queue the next change by voice without waiting for the previous one to finish.
+Cursor — Design Mode Improvements: Narrate changes through the Design Mode overlay. The mic stays available while an agent is mid-run, so you can queue the next change by voice without waiting for the previous one to finish.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,14 +75,16 @@ Narrate changes through the Design Mode overlay. The mic stays available while a
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Cursor/2026-04-13-upgraded-voice-input|cursor-2026-04-13-840f1c]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: voice
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
-- First In Tracked: [[Changes/ChatGPT/2023-09-25-voice-beta-is-now-rolling-out-to-plus-users-on-ios-and-android|chatgpt-2023-09-25-5ff815]]
+- Role: later-observed
+- First In Tracked: [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|chatgpt-2023-09-25-13666e]]
 - Lag Days: 984
 - Tracked Products Count: 3
 <!-- chronolog:end -->

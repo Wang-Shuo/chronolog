@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2026-05-04-enterprises-also-have-the-option-to-block-new-providers-or-model-versions-by-def|cursor-2026-05-04-793636]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: 9cf90577b703bfcc67655dfb324caf6f7efa5d29331df8c385885ecfea304cb1
+machine_hash: 0d6704ee4ab25edfd2ac64eddfd9876839c1fb39327255e4c0ea315b7848c095
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Claude Code/2026-05-04-updated-model-picker-collapsed-duplicate-opus-4-7-entries-and-current-opus-now-s|claude-code-2026-05-04-cbf221]]'
 - '[[Changes/Cursor/2026-05-04-enterprises-also-have-the-option-to-block-new-providers-or-model-versions-by-def|cursor-2026-05-04-793636]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-04-model-controls-spend-management-and-usage-analytics-https-cursor-1ab41047|cursor-2026-05-04-model-controls-spend-management-and-usage-analytics-https-cursor-1ab41047]]'
+superseded: true
 theme: model-support
 type: change
 ---

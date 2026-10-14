@@ -1,16 +1,28 @@
 ---
-changes_count: 4
+changes_count: 3
 date: '2025-03-18'
-machine_hash: c9c1c15e691438be1f5107ade8e37be833fb3067c4b1893ef6c42e6d931ebac3
+machine_hash: 33e68b5aa6e1960df91bc438beee416d4904a1ae7a243a70368f21cc6d3d469e
 product: chatgpt
 product_name: ChatGPT
+record:
+  date: '2025-03-18'
+  product: chatgpt
+  product_name: ChatGPT
+  release_id: chatgpt-2025-03-18-ios-app-6a42bb0f
+  source_summary: 1⁠. Improved table-copying functionality out of ChatGPT responses
+    on iOS and macOS.
+  source_type: chatgpt_changelog
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ios-app
+  title: iOS App
+  version: iOS App
 release_id: chatgpt-2025-03-18-ios-app-6a42bb0f
 source_release: iOS App
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_12a3315bc9
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ios-app
 tags:
 - release
 - chatgpt
+title: ChatGPT — iOS App
 version: iOS App
 ---
 
@@ -18,17 +30,16 @@ version: iOS App
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
-Improved table-copying functionality out of ChatGPT responses on iOS and macOS.
+1⁠. Improved table-copying functionality out of ChatGPT responses on iOS and macOS.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_12a3315bc9)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ios-app)
 
-Tracked cards: 4
+Tracked cards: 3
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- interface-experience: [[Changes/ChatGPT/2025-03-18-added-long-press-on-your-message-to-open-menu-actions-copy-edit|Added long press on your message to open menu actions: Copy, Edit.]]
-- mobile-desktop: [[Changes/ChatGPT/2025-03-18-improved-table-copying-functionality-out-of-chatgpt-responses-on-ios-and-macos|Improved table-copying functionality out of ChatGPT responses on iOS and macOS.]]
-- reliability-performance: [[Changes/ChatGPT/2025-03-18-improved-display-and-faster-streaming-of-conversations-and-message-menu-actions|Improved display and faster streaming of conversations and message menu actions.]]
-- interface-experience: [[Changes/ChatGPT/2025-03-18-improved-response-display-of-nested-blockquote-content|Improved response display of nested blockquote content.]]
+- mobile-desktop: [[Changes/ChatGPT/2025-03-18-1-improved-table-copying-functionality-out-of-chatgpt-responses-on-ios-and-macos|1⁠. Improved table-copying functionality out of ChatGPT responses on iOS and mac]]
+- interface-experience: [[Changes/ChatGPT/2025-03-18-2-added-long-press-on-your-message-to-open-menu-actions-copy-edit|2⁠. Added long press on your message to open menu actions: Copy, Edit.]]
+- reliability-performance: [[Changes/ChatGPT/2025-03-18-4-improved-display-and-faster-streaming-of-conversations-and-message-menu-action|4⁠. Improved display and faster streaming of conversations and message menu acti]]
 <!-- chronolog:end -->

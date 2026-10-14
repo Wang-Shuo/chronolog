@@ -2,32 +2,59 @@
 card_id: claude-code-2026-03-25-502a32
 date: '2026-03-25'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed|chatgpt-2023-03-23-86e5a9]]'
-  lag_days: 1098
-  role: follower
+  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|cursor-2023-04-16-f0e22a]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1074
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
-  theme: apps-integrations
+  theme: safety-privacy
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Claude Code/2026-03-20-improved-mcp-read-search-tool-calls-to-collapse-into-a-single-queried-server-lin|claude-code-2026-03-20-a75158]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 06a627cab9058ec5e8accf458a41bb1966cef20bcd5d3ffd740b07f6de257ea1
+machine_hash: 6fa8a3e325ad7e6349f90ff7092a4f2537604c4632456b14eeaadc43277efdc5
 product: claude-code
 product_name: Claude Code
+record:
+  card_id: claude-code-2026-03-25-502a32
+  comparison: ''
+  date: '2026-03-25'
+  description: 'Claude Code — v2.1.83: Added `CLAUDE_CODE_SUBPROCESS_ENV_SCRUB=1`
+    to strip Anthropic and cloud provider credentials from subprocess environments
+    (Bash tool, hooks, MCP stdio servers)'
+  evidence:
+  - quote: Added `CLAUDE_CODE_SUBPROCESS_ENV_SCRUB=1` to strip Anthropic and cloud
+      provider credentials from subprocess environments (Bash tool, hooks, MCP stdio
+      servers)
+    source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.83
+  extractor_version: fallback-v3
+  impact: incremental
+  product: claude-code
+  product_name: Claude Code
+  slug: added-claude-code-subprocess-env-scrub-1-to-strip-anthropic-and-cloud-provider-c
+  source_release: claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317
+  source_type: github_releases
+  theme: safety-privacy
+  theme_matches: []
+  theme_resolution: manual-backfill-review-v1
+  title: Added `CLAUDE_CODE_SUBPROCESS_ENV_SCRUB=1` to strip Anthropic and cloud provider
+  type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-19-added-cli-tool-usage-detection-to-plugin-tips-in-addition-to-file-pattern-matchi|claude-code-2026-03-19-90d169]]'
-- '[[Changes/Claude Code/2026-03-20-improved-mcp-read-search-tool-calls-to-collapse-into-a-single-queried-server-lin|claude-code-2026-03-20-a75158]]'
-- '[[Changes/ChatGPT/2026-03-25-google-s-file-connectors-in-chatgpt-are-now-unified-under-google-drive-providing|chatgpt-2026-03-25-6c2ae6]]'
+- '[[Changes/Claude Code/2026-03-18-fixed-custom-status-line-showing-nothing-when-workspace-trust-is-blocking-it|claude-code-2026-03-18-88ccc1]]'
+- '[[Changes/Claude Code/2026-03-20-added-channels-permission-relay-channel-servers-that-declare-the-permission-capa|claude-code-2026-03-20-35235c]]'
+- '[[Changes/Claude Code/2026-03-20-fixed-unnecessary-permission-prompts-for-bash-commands-containing-dashes-in-stri|claude-code-2026-03-20-c0b999]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317|claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317]]'
-theme: apps-integrations
+source_type: github_releases
+theme: safety-privacy
+title: Added CLAUDE_CODE_SUBPROCESS_ENV_SCRUB=1 to strip Anthropic and cloud provider
 type: change
 ---
 
 # Added `CLAUDE_CODE_SUBPROCESS_ENV_SCRUB=1` to strip Anthropic and cloud provider
 
 <!-- chronolog:begin region="description" -->
-Added `CLAUDE_CODE_SUBPROCESS_ENV_SCRUB=1` to strip Anthropic and cloud provider credentials from subprocess environments (Bash tool, hooks, MCP stdio servers)
+Claude Code — v2.1.83: Added `CLAUDE_CODE_SUBPROCESS_ENV_SCRUB=1` to strip Anthropic and cloud provider credentials from subprocess environments (Bash tool, hooks, MCP stdio servers)
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,15 +64,17 @@ Added `CLAUDE_CODE_SUBPROCESS_ENV_SCRUB=1` to strip Anthropic and cloud provider
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Claude Code/2026-03-20-improved-mcp-read-search-tool-calls-to-collapse-into-a-single-queried-server-lin|claude-code-2026-03-20-a75158]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
-- Theme: apps-integrations
+- Theme: safety-privacy
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
-- First In Tracked: [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed|chatgpt-2023-03-23-86e5a9]]
-- Lag Days: 1098
+- Role: later-observed
+- First In Tracked: [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|cursor-2023-04-16-f0e22a]]
+- Lag Days: 1074
 - Tracked Products Count: 3
 <!-- chronolog:end -->
 

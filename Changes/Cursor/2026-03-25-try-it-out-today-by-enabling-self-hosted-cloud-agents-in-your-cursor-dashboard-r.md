@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2026-03-25-your-codebase-build-outputs-and-secrets-all-stay-on-internal-machines-running-in|cursor-2026-03-25-6430ab]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 1f8117906dc3ac23e2829a549e23b771cc774c50078c62de77e32044aab8f8ab
+machine_hash: 97c83978bcbbfcf28f9f302de6aba010327ab8753c3ed68e3e9efa5bd620ecde
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Claude Code/2026-03-10-added-optional-description-argument-to-plan-e-g-plan-fix-the-auth-bug-that-enter|claude-code-2026-03-10-7f3b33]]'
 - '[[Changes/Cursor/2026-03-25-your-codebase-build-outputs-and-secrets-all-stay-on-internal-machines-running-in|cursor-2026-03-25-6430ab]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-25-self-hosted-cloud-agents-https-cursor-com-changelog-03-25-26-423e399c|cursor-2026-03-25-self-hosted-cloud-agents-https-cursor-com-changelog-03-25-26-423e399c]]'
+superseded: true
 theme: agent-mode
 type: change
 ---

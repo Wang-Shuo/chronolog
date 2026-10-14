@@ -2,32 +2,56 @@
 card_id: claude-code-2026-04-07-6ed963
 date: '2026-04-07'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed|chatgpt-2023-03-23-86e5a9]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1111
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Claude Code/2026-04-07-added-support-for-amazon-bedrock-powered-by-mantle-set-claude-code-use-mantle-1|claude-code-2026-04-07-53a5cf]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: e6152363db8caffe8b0ebae845367bcc91073bad0b1c1f52834705d781225f67
+machine_hash: cd78767a526ec327b51babda3b96ebde90fccc5fa036f3c72db6f713895b314a
 product: claude-code
 product_name: Claude Code
+record:
+  card_id: claude-code-2026-04-07-6ed963
+  comparison: ''
+  date: '2026-04-07'
+  description: 'Claude Code — v2.1.94: Added compact `Slacked #channel` header with
+    a clickable channel link for Slack MCP send-message tool calls'
+  evidence:
+  - quote: 'Added compact `Slacked #channel` header with a clickable channel link
+      for Slack MCP send-message tool calls'
+    source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.94
+  extractor_version: fallback-v3
+  impact: incremental
+  product: claude-code
+  product_name: Claude Code
+  slug: added-compact-slacked-channel-header-with-a-clickable-channel-link-for-slack-mcp
+  source_release: claude-code-2026-04-07-v2-1-94-github-306300914-5622fba4
+  source_type: github_releases
+  theme: apps-integrations
+  title: 'Added compact `Slacked #channel` header with a clickable channel link for
+    Slack'
+  type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-04-remote-control-session-names-now-use-your-hostname-as-the-default-prefix-e-g-myh|claude-code-2026-04-04-121336]]'
 - '[[Changes/Claude Code/2026-04-07-added-hookspecificoutput-sessiontitle-to-userpromptsubmit-hooks-for-setting-the|claude-code-2026-04-07-41c2fc]]'
 - '[[Changes/Claude Code/2026-04-07-added-support-for-amazon-bedrock-powered-by-mantle-set-claude-code-use-mantle-1|claude-code-2026-04-07-53a5cf]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-07-v2-1-94-github-306300914-5622fba4|claude-code-2026-04-07-v2-1-94-github-306300914-5622fba4]]'
+source_type: github_releases
 theme: apps-integrations
+title: Added compact Slacked ♯channel header with a clickable channel link for Slack
 type: change
 ---
 
 # Added compact `Slacked #channel` header with a clickable channel link for Slack
 
 <!-- chronolog:begin region="description" -->
-Added compact `Slacked #channel` header with a clickable channel link for Slack MCP send-message tool calls
+Claude Code — v2.1.94: Added compact `Slacked #channel` header with a clickable channel link for Slack MCP send-message tool calls
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,14 +61,16 @@ Added compact `Slacked #channel` header with a clickable channel link for Slack 
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Claude Code/2026-04-07-added-support-for-amazon-bedrock-powered-by-mantle-set-claude-code-use-mantle-1|claude-code-2026-04-07-53a5cf]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: apps-integrations
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
-- First In Tracked: [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed|chatgpt-2023-03-23-86e5a9]]
+- Role: later-observed
+- First In Tracked: [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]
 - Lag Days: 1111
 - Tracked Products Count: 3
 <!-- chronolog:end -->

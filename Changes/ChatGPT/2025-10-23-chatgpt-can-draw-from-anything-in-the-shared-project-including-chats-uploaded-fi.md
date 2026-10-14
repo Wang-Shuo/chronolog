@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-10-15-to-decide-which-memories-stay-top-of-mind-chatgpt-considers-factors-such-as-how|chatgpt-2025-10-15-dcbee9]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 6cc96510ec11b57f9870a1e7ccd377d245c31fb7f968a486df10d2f4153f6e40
+machine_hash: f323987ddf5844de67a14101d5f87a4b1e30a90c3e43b868be9002a730ca3a14
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-10-15-you-re-always-in-control-you-can-turn-off-automatic-memory-management-at-any-tim|chatgpt-2025-10-15-d4371a]]'
 - '[[Changes/ChatGPT/2025-10-15-to-decide-which-memories-stay-top-of-mind-chatgpt-considers-factors-such-as-how|chatgpt-2025-10-15-dcbee9]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-23-shared-projects-217fa07d|chatgpt-2025-10-23-shared-projects-217fa07d]]'
+superseded: true
 theme: memory
 type: change
 ---

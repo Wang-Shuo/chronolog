@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-10-30-more-messages-larger-file-uploads-and-expanded-image-generation|chatgpt-2025-10-30-cdbd56]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: 1bfa93d4872bc12f8a4945d17cb37a8d210f429a9f1fea709c24edcbe027aea3
+machine_hash: 6dfaf7195649ac2ce51caf4bb1270ff4e70cb184182bafc0500a3e03bdd31d5a
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-10-28-more-messages-larger-file-uploads-and-expanded-image-generation|chatgpt-2025-10-28-6f5b7b]]'
 - '[[Changes/ChatGPT/2025-10-30-more-messages-larger-file-uploads-and-expanded-image-generation|chatgpt-2025-10-30-cdbd56]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-12-16-chatgpt-images-on-web-and-mobile-ios-android-bd6b2208|chatgpt-2025-12-16-chatgpt-images-on-web-and-mobile-ios-android-bd6b2208]]'
+superseded: true
 theme: image-generation
 type: change
 ---

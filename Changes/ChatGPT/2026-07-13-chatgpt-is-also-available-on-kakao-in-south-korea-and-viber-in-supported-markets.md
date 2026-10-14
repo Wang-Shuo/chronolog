@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2026-07-09-enterprise-and-edu-users-can-find-skills-under-plugins-in-the-sidebar-on-the-ski|chatgpt-2026-07-09-baa5ca]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 1bc452a8ae12c090a9681a4603dba63151ac045f0d862b214fcec43ba52e2585
+machine_hash: 475bfc9fdf16664087897776e4ab8ee35676fc66b15b593f5f859d8472660c6e
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2026-07-09-we-re-also-replacing-the-app-directory-with-the-plugin-directory-existing-app-co|chatgpt-2026-07-09-9c5d58]]'
 - '[[Changes/ChatGPT/2026-07-09-enterprise-and-edu-users-can-find-skills-under-plugins-in-the-sidebar-on-the-ski|chatgpt-2026-07-09-baa5ca]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-13-chatgpt-returns-to-whatsapp-in-the-eea-ce61ee08|chatgpt-2026-07-13-chatgpt-returns-to-whatsapp-in-the-eea-ce61ee08]]'
+superseded: true
 theme: apps-integrations
 type: change
 ---

@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2025-07-29-at-the-end-of-a-conversation-you-can-now-see-how-much-of-the-context-window-is-u|cursor-2025-07-29-6bb48b]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 6d130716d92cf3b1f950048bb0312ba6ba3277512b13c5c7c08994159aa3fe97
+machine_hash: b87cb119eac888d289b6d399040bd6da3d1b22d63c9e12698cfe2c88e519a8bd
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2025-06-12-agents-understand-context|cursor-2025-06-12-1d4ef8]]'
 - '[[Changes/Cursor/2025-07-29-at-the-end-of-a-conversation-you-can-now-see-how-much-of-the-context-window-is-u|cursor-2025-07-29-6bb48b]]'
 source_release: '[[Releases/Cursor/cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3|cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3]]'
+superseded: true
 theme: context-window
 type: change
 ---

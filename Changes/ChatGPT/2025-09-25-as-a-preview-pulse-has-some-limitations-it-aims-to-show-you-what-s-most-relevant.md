@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-09-25-it-requires-saved-memory-and-chat-history-to-be-turned-on-and-you-can-switch-pul|chatgpt-2025-09-25-023d95]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 5d62b4e065d7ae78dbc0041ff375373164509aebb366c5b0380e53f269d3d8fa
+machine_hash: dfc0e9a95b85e826f0b7a70ddfee8cf607b10543654492ae40406f9007eb2f76
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-09-22-longer-memory-for-more-personalized-responses|chatgpt-2025-09-22-6c0a54]]'
 - '[[Changes/ChatGPT/2025-09-25-it-requires-saved-memory-and-chat-history-to-be-turned-on-and-you-can-switch-pul|chatgpt-2025-09-25-023d95]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-25-introducing-chatgpt-pulse-for-pro-users-5be6c168|chatgpt-2025-09-25-introducing-chatgpt-pulse-for-pro-users-5be6c168]]'
+superseded: true
 theme: memory
 type: change
 ---

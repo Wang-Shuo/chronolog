@@ -2,32 +2,58 @@
 card_id: cursor-2023-07-07-bf8ca4
 date: '2023-07-07'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed|chatgpt-2023-03-23-86e5a9]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 106
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Cursor/2023-07-07-makes-it-clearer-which-docs-are-being-looked-at-by-the-ai|cursor-2023-07-07-9a4a13]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: significant
-machine_hash: 1a7debdd265a56bf9f845ab095339f85e0667c0a9de02ac404c0b862581a020b
+machine_hash: a311f21884fe94eb0bb07e1cba3659a34adb18a11a397d64cba52a8d872d16d7
 product: cursor
 product_name: Cursor
+record:
+  ai_generated: true
+  card_id: cursor-2023-07-07-bf8ca4
+  comparison: ''
+  confidence: low
+  date: '2023-07-07'
+  description: 'Cursor — 0.2.44 - Improvements to many features, Fixes to Python:
+    Improved the "@Add new doc" experience'
+  evidence:
+  - quote: Improved the "@Add new doc" experience
+    source_release: https://cursor.com/changelog/0-2-44
+  extractor_version: fallback-v3
+  impact: significant
+  product: cursor
+  product_name: Cursor
+  slug: improved-the-add-new-doc-experience
+  source_release: cursor-2023-07-07-0-2-44-https-cursor-com-changelog-0-2-44-d76d2226
+  source_type: cursor_changelog
+  theme: apps-integrations
+  theme_matches: []
+  theme_resolution: manual-backfill-review-v1
+  title: Improved the "@Add new doc" experience
+  type: change
 related_changes:
 - '[[Changes/Cursor/2023-06-27-better-support-for-extensions-specifically-re-enables-the-welcomeview|cursor-2023-06-27-acdb05]]'
 - '[[Changes/Cursor/2023-07-03-also-cursor-s-ai-will-now-use-popular-documentation-to-improve-the-answers-to-yo|cursor-2023-07-03-d9d1c6]]'
 - '[[Changes/Cursor/2023-07-07-makes-it-clearer-which-docs-are-being-looked-at-by-the-ai|cursor-2023-07-07-9a4a13]]'
 source_release: '[[Releases/Cursor/cursor-2023-07-07-0-2-44-https-cursor-com-changelog-0-2-44-d76d2226|cursor-2023-07-07-0-2-44-https-cursor-com-changelog-0-2-44-d76d2226]]'
+source_type: cursor_changelog
 theme: apps-integrations
+title: Improved the "@Add new doc" experience
 type: change
 ---
 
 # Improved the "@Add new doc" experience
 
 <!-- chronolog:begin region="description" -->
-Improved the "@Add new doc" experience
+Cursor — 0.2.44 - Improvements to many features, Fixes to Python: Improved the "@Add new doc" experience
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,14 +63,16 @@ Improved the "@Add new doc" experience
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Cursor/2023-07-07-makes-it-clearer-which-docs-are-being-looked-at-by-the-ai|cursor-2023-07-07-9a4a13]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: apps-integrations
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
-- First In Tracked: [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed|chatgpt-2023-03-23-86e5a9]]
+- Role: later-observed
+- First In Tracked: [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]
 - Lag Days: 106
 - Tracked Products Count: 3
 <!-- chronolog:end -->

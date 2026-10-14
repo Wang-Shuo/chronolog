@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-03-18-new-ui-for-temporary-chats-we-ve-made-accessing-and-viewing-these-private-conver|chatgpt-2025-03-18-9d39f1]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 75458be69db5069063951969d7a1af035e8f07bb1e2d73f0ec01cf68e1487f17
+machine_hash: 0db5bb52d6e2b98c11ad4695cb7109ac73b3f8ed2848509372275ea4a65bfa43
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-03-18-more-clear-and-private-incognito-keyboard-for-temporary-chats|chatgpt-2025-03-18-493059]]'
 - '[[Changes/ChatGPT/2025-03-18-new-ui-for-temporary-chats-we-ve-made-accessing-and-viewing-these-private-conver|chatgpt-2025-03-18-9d39f1]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-29-parental-controls-8b95b69a|chatgpt-2025-09-29-parental-controls-8b95b69a]]'
+superseded: true
 theme: safety-privacy
 type: change
 ---

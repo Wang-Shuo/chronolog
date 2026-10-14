@@ -1,9 +1,19 @@
 ---
 changes_count: 3
 date: '2023-08-30'
-machine_hash: 6f2fe69ffda2becd0a305a2ea172558eb5d11d20fdb4057d70a8b211428aeb20
+machine_hash: 384dbb7fc51bdb7d8bb351f6763da34fff33b37eeb655a20f0660a86b4b0eced
 product: cursor
 product_name: Cursor
+record:
+  date: '2023-08-30'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2023-08-30-0-9-0-https-cursor-com-changelog-0-9-0-1c913df4
+  source_summary: You can now switch to the VS Code sidebar orientation
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-9-0
+  title: Auditable codebase context, VS Code left bar
+  version: 0.9.0
 release_id: cursor-2023-08-30-0-9-0-https-cursor-com-changelog-0-9-0-1c913df4
 source_release: Auditable codebase context, VS Code left bar
 source_type: cursor_changelog
@@ -11,6 +21,7 @@ source_url: https://cursor.com/changelog/0-9-0
 tags:
 - release
 - cursor
+title: Cursor — Auditable codebase context, VS Code left bar
 version: 0.9.0
 ---
 

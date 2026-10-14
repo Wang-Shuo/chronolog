@@ -2,32 +2,59 @@
 card_id: claude-code-2026-06-10-3fd1c9
 date: '2026-06-10'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed|chatgpt-2023-03-23-86e5a9]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1175
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Claude Code/2026-06-10-added-a-search-bar-when-browsing-a-marketplace-s-plugins-in-plugin|claude-code-2026-06-10-128ad4]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: c1b7d987095132e66f0cc421608373abb5f7f1ae27c4f7184d71ea5b2ab04a72
+machine_hash: 26c0c4a6184d1546000f6d7b03c5752ce427fe4deac3d01eff1821bbce9cfb01
 product: claude-code
 product_name: Claude Code
+record:
+  card_id: claude-code-2026-06-10-3fd1c9
+  comparison: ''
+  date: '2026-06-10'
+  description: 'Claude Code — v2.1.172: Amazon Bedrock now reads the AWS region from
+    `~/.aws` config files when `AWS_REGION` isn''t set, matching AWS SDK precedence;
+    `/status` shows where the region came from'
+  evidence:
+  - quote: Amazon Bedrock now reads the AWS region from `~/.aws` config files when
+      `AWS_REGION` isn't set, matching AWS SDK precedence; `/status` shows where the
+      region came from
+    source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.172
+  extractor_version: fallback-v3
+  impact: incremental
+  product: claude-code
+  product_name: Claude Code
+  slug: amazon-bedrock-now-reads-the-aws-region-from-aws-config-files-when-aws-region-is
+  source_release: claude-code-2026-06-10-v2-1-172-github-337412034-dc68562c
+  source_type: github_releases
+  theme: apps-integrations
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v1
+  title: Amazon Bedrock now reads the AWS region from `~/.aws` config files when `AWS_REG
+  type: change
 related_changes:
 - '[[Changes/Cursor/2026-06-04-we-ve-shipped-a-batch-of-new-functionality-across-the-typescript-and-python-sdks|cursor-2026-06-04-73350b]]'
 - '[[Changes/Claude Code/2026-06-06-added-glob-pattern-support-in-deny-rule-tool-name-position-denies-all-tools-allo|claude-code-2026-06-06-cd06e2]]'
 - '[[Changes/Claude Code/2026-06-10-added-a-search-bar-when-browsing-a-marketplace-s-plugins-in-plugin|claude-code-2026-06-10-128ad4]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-10-v2-1-172-github-337412034-dc68562c|claude-code-2026-06-10-v2-1-172-github-337412034-dc68562c]]'
+source_type: github_releases
 theme: apps-integrations
+title: Amazon Bedrock now reads the AWS region from ~/.aws config files when AWS_REG
 type: change
 ---
 
 # Amazon Bedrock now reads the AWS region from `~/.aws` config files when `AWS_REG
 
 <!-- chronolog:begin region="description" -->
-Amazon Bedrock now reads the AWS region from `~/.aws` config files when `AWS_REGION` isn't set, matching AWS SDK precedence; `/status` shows where the region came from
+Claude Code — v2.1.172: Amazon Bedrock now reads the AWS region from `~/.aws` config files when `AWS_REGION` isn't set, matching AWS SDK precedence; `/status` shows where the region came from
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,14 +64,16 @@ Amazon Bedrock now reads the AWS region from `~/.aws` config files when `AWS_REG
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Claude Code/2026-06-10-added-a-search-bar-when-browsing-a-marketplace-s-plugins-in-plugin|claude-code-2026-06-10-128ad4]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: apps-integrations
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
-- First In Tracked: [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed|chatgpt-2023-03-23-86e5a9]]
+- Role: later-observed
+- First In Tracked: [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]
 - Lag Days: 1175
 - Tracked Products Count: 3
 <!-- chronolog:end -->

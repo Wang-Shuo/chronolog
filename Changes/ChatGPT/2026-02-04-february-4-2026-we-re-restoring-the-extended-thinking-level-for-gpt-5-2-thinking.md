@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2026-02-04-jan-10-2026-we-lowered-the-standard-and-light-thinking-time-as-we-observed-users|chatgpt-2026-02-04-24aba4]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: 4724ee047005a09aa2351696a90ca8a604ca8adca0692b126d9d4558a59bc949
+machine_hash: 2d02da7aeeb5912dff0d6970f75cd091d984e2b7e5fcbeb21be43bcabe86e474
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2026-01-29-on-february-13-2026-alongside-the-previously-announced-retirement-of-gpt-5-insta|chatgpt-2026-01-29-23f4fe]]'
 - '[[Changes/ChatGPT/2026-02-04-jan-10-2026-we-lowered-the-standard-and-light-thinking-time-as-we-observed-users|chatgpt-2026-02-04-24aba4]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-04-update-on-thinking-time-settings-for-gpt-5-2-thinking-in-chatgpt-6e7ea431|chatgpt-2026-02-04-update-on-thinking-time-settings-for-gpt-5-2-thinking-in-chatgpt-6e7ea431]]'
+superseded: true
 theme: model-support
 type: change
 ---

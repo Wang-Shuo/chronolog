@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-10-13-with-the-chatgpt-connector-for-slack-you-can-securely-bring-in-context-from-your|chatgpt-2025-10-13-574d85]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 15bf5487c370b6297898567ab16fa97be2b235957673398069a3e4a7492af416
+machine_hash: f8a022710ce865a25b269f7a97c1dab20c1aa71c727de6ec538e7fafdc638432
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-09-29-ask-chatgpt-a-shopping-question-and-it-finds-organic-unsponsored-product-results|chatgpt-2025-09-29-f21703]]'
 - '[[Changes/ChatGPT/2025-10-13-with-the-chatgpt-connector-for-slack-you-can-securely-bring-in-context-from-your|chatgpt-2025-10-13-574d85]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-20-instant-checkout-now-rolling-out-to-shopify-merchants-87a5d6b7|chatgpt-2025-11-20-instant-checkout-now-rolling-out-to-shopify-merchants-87a5d6b7]]'
+superseded: true
 theme: search-browsing
 type: change
 ---

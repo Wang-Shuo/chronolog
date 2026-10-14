@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-08-12-this-capability-is-part-of-gpt-5-and-will-begin-rolling-out-to-pro-users-globall|chatgpt-2025-08-12-33bffb]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: 530a615c57a63eea1f4a479390c7133a75f71bf53499d575de6b48fe3d9015e4
+machine_hash: 9b3315b3975028cc91814472af578b13ad4dc38a05a2f96924505132dd8faf7d
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-07-16-note-record-mode-originally-rolled-out-to-team-users-on-june-4-and-enterprise-ed|chatgpt-2025-07-16-e75335]]'
 - '[[Changes/ChatGPT/2025-08-12-this-capability-is-part-of-gpt-5-and-will-begin-rolling-out-to-pro-users-globall|chatgpt-2025-08-12-33bffb]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-03-projects-now-available-on-chatgpt-free-tier-000f73ae|chatgpt-2025-09-03-projects-now-available-on-chatgpt-free-tier-000f73ae]]'
+superseded: true
 theme: enterprise-admin
 type: change
 ---

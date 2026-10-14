@@ -1,9 +1,21 @@
 ---
 changes_count: 1
 date: '2023-08-22'
-machine_hash: af91b3bd4f67e7ca0ba1e9d1847372f4d1815bf9efac039fbadb599bf2ba4ede
+machine_hash: 5a96696dc71565def03d851af42076e8f0b96a8d820bc39e110183c81b43cb34
 product: cursor
 product_name: Cursor
+record:
+  date: '2023-08-22'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2023-08-22-0-8-4-https-cursor-com-changelog-0-8-4-540922cd
+  source_summary: Applies the patch from Github across all your WSL (Windows Subsystem
+    for Linux) distros, either automatically or through the "Fix WSL" command palette
+    command.
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-8-4
+  title: WSL Fixes
+  version: 0.8.4
 release_id: cursor-2023-08-22-0-8-4-https-cursor-com-changelog-0-8-4-540922cd
 source_release: WSL Fixes
 source_type: cursor_changelog
@@ -11,6 +23,7 @@ source_url: https://cursor.com/changelog/0-8-4
 tags:
 - release
 - cursor
+title: Cursor — WSL Fixes
 version: 0.8.4
 ---
 

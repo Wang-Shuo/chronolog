@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2026-07-13-chatgpt-is-available-again-on-whatsapp-in-the-european-economic-area-eea-you-can|chatgpt-2026-07-13-b3bb73]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: 9cd5b112d6f94077712c8684a40e01cc5b4f9a0524ceee6fadf8b055a0476bbb
+machine_hash: c1ed57f8d4edc7408ea5c3d7772fca2e2e24cb85fabdff91af854f9594aa9f0e
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2026-07-09-beginning-july-9-users-on-web-ios-and-android-will-no-longer-be-able-to-create-n|chatgpt-2026-07-09-ed8dc0]]'
 - '[[Changes/ChatGPT/2026-07-13-chatgpt-is-available-again-on-whatsapp-in-the-european-economic-area-eea-you-can|chatgpt-2026-07-13-b3bb73]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-14-search-across-chats-projects-and-files-is-now-supercharged-90a28571|chatgpt-2026-07-14-search-across-chats-projects-and-files-is-now-supercharged-90a28571]]'
+superseded: true
 theme: mobile-desktop
 type: change
 ---

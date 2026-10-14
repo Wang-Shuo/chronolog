@@ -119,3 +119,8 @@ themes:
     aliases: [study-mode, learning-experience, socratic]
     category: capability
     status: official
+  - slug: artifact-creation
+    display_name: Artifact Creation
+    aliases: [interactive-website, site-builder, create-sites, generated-artifacts]
+    category: capability
+    status: official

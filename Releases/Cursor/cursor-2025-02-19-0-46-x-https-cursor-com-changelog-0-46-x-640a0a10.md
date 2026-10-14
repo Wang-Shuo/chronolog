@@ -1,9 +1,19 @@
 ---
 changes_count: 5
 date: '2025-02-19'
-machine_hash: 978074bc18e5840ef19389419086eca22ba30ae3fe2a08d38a89a650f903ff88
+machine_hash: 0516825be7d97b76d545d03a868cbf6f924dbe158c6f7964f4774e89f765b3d3
 product: cursor
 product_name: Cursor
+record:
+  date: '2025-02-19'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10
+  source_summary: Fixes (3)↓↑
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-46-x
+  title: Agent is ready and UI refresh
+  version: 0.46.x
 release_id: cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10
 source_release: Agent is ready and UI refresh
 source_type: cursor_changelog
@@ -11,6 +21,7 @@ source_url: https://cursor.com/changelog/0-46-x
 tags:
 - release
 - cursor
+title: Cursor — Agent is ready and UI refresh
 version: 0.46.x
 ---
 

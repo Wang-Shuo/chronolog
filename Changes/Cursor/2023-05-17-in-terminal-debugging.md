@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2023-04-29-working-remote-ssh-support-through-the-openremote-ssh-extension|cursor-2023-04-29-d5dbb1]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 4088048f895c035e55f09b4576d350d51a1680267e531b9e84bd219a8a7c5e70
+machine_hash: b251acf9a9684d3fdfc1b6090162486c66008419c7fbe9fcfb749cfd36c2624e
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2023-04-14-don-t-install-cursor-command-on-startup|cursor-2023-04-14-337feb]]'
 - '[[Changes/Cursor/2023-04-29-working-remote-ssh-support-through-the-openremote-ssh-extension|cursor-2023-04-29-d5dbb1]]'
 source_release: '[[Releases/Cursor/cursor-2023-05-17-0-2-16-https-cursor-com-changelog-0-2-16-e0618ec3|cursor-2023-05-17-0-2-16-https-cursor-com-changelog-0-2-16-e0618ec3]]'
+superseded: true
 theme: developer-workflow
 type: change
 ---

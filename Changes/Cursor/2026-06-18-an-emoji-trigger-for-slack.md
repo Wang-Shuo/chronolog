@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2026-06-04-we-ve-shipped-a-batch-of-new-functionality-across-the-typescript-and-python-sdks|cursor-2026-06-04-73350b]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: c7871c05215389d22354ca74c6c79648a240f070a1147263eb5f50a513b0178e
+machine_hash: e6ec3ada085377088ba6a3a4933179c96f326e23a484d4cd758567242ab3861d
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2026-06-17-monitoring-tasks-can-search-the-web-and-check-connected-apps-for-changes-and-not|chatgpt-2026-06-17-8bf603]]'
 - '[[Changes/Claude Code/2026-06-17-added-config-key-value-syntax-to-set-any-setting-from-the-prompt-e-g-config-thin|claude-code-2026-06-17-32b61f]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-18-3-8-https-cursor-com-changelog-06-18-26-0b493e15|cursor-2026-06-18-3-8-https-cursor-com-changelog-06-18-26-0b493e15]]'
+superseded: true
 theme: apps-integrations
 type: change
 ---

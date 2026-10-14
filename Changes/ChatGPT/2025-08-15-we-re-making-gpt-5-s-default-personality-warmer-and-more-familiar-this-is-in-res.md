@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-08-15-warmth-here-means-small-acknowledgements-that-make-interactions-feel-more-person|chatgpt-2025-08-15-047ba8]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 26246ae8104e9aa9dea66457f20068185d2da2604a0f78ba314688284d14b05d
+machine_hash: 9f64133341f7a0c8003cbea30c37423284a4134177b71c1323a77e0524eb75c8
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-08-07-you-can-now-choose-from-four-distinct-personalities-or-use-the-default-personali|chatgpt-2025-08-07-c34e3c]]'
 - '[[Changes/ChatGPT/2025-08-15-warmth-here-means-small-acknowledgements-that-make-interactions-feel-more-person|chatgpt-2025-08-15-047ba8]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-15-gpt-5-updates-9aaeee46|chatgpt-2025-08-15-gpt-5-updates-9aaeee46]]'
+superseded: true
 theme: memory
 type: change
 ---

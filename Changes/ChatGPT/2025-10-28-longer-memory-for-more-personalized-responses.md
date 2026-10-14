@@ -2,32 +2,54 @@
 card_id: chatgpt-2025-10-28-9fade2
 date: '2025-10-28'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat|chatgpt-2023-07-20-4592e6]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|chatgpt-2023-07-20-37833c]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 831
-  role: variant
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: memory
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/ChatGPT/2025-10-23-chatgpt-can-draw-from-anything-in-the-shared-project-including-chats-uploaded-fi|chatgpt-2025-10-23-5716f3]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 46f25df4d679bb867ae741b1d959c0aa0eedab464f73259356bbff1245be9759
+machine_hash: fd7b814445c28ceb2890a3ca374003c04378a603694274dd29e864b467852131
 product: chatgpt
 product_name: ChatGPT
+record:
+  card_id: chatgpt-2025-10-28-9fade2
+  comparison: ''
+  date: '2025-10-28'
+  description: 'ChatGPT — ChatGPT Go now available in Brazil: Longer memory for more
+    personalized responses'
+  evidence:
+  - quote: Longer memory for more personalized responses
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-now-available-in-brazil
+  extractor_version: fallback-v3
+  impact: incremental
+  product: chatgpt
+  product_name: ChatGPT
+  slug: longer-memory-for-more-personalized-responses
+  source_release: chatgpt-2025-10-28-chatgpt-go-now-available-in-brazil-6c8c9319
+  source_type: chatgpt_changelog
+  theme: memory
+  title: Longer memory for more personalized responses
+  type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-10-15-you-re-always-in-control-you-can-turn-off-automatic-memory-management-at-any-tim|chatgpt-2025-10-15-d4371a]]'
-- '[[Changes/ChatGPT/2025-10-15-to-decide-which-memories-stay-top-of-mind-chatgpt-considers-factors-such-as-how|chatgpt-2025-10-15-dcbee9]]'
-- '[[Changes/ChatGPT/2025-10-23-chatgpt-can-draw-from-anything-in-the-shared-project-including-chats-uploaded-fi|chatgpt-2025-10-23-5716f3]]'
+- '[[Changes/ChatGPT/2025-10-08-longer-memory-for-more-personalized-responses|chatgpt-2025-10-08-e8dde8]]'
+- '[[Changes/ChatGPT/2025-10-14-longer-memory-for-more-personalized-responses|chatgpt-2025-10-14-0bd42a]]'
+- '[[Changes/ChatGPT/2025-10-15-chatgpt-now-manages-saved-memories-automatically-by-keeping-the-most-relevant-de-997f64|chatgpt-2025-10-15-997f64]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-28-chatgpt-go-now-available-in-brazil-6c8c9319|chatgpt-2025-10-28-chatgpt-go-now-available-in-brazil-6c8c9319]]'
+source_type: chatgpt_changelog
 theme: memory
+title: Longer memory for more personalized responses
 type: change
 ---
 
 # Longer memory for more personalized responses
 
 <!-- chronolog:begin region="description" -->
-Longer memory for more personalized responses
+ChatGPT — ChatGPT Go now available in Brazil: Longer memory for more personalized responses
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,14 +59,16 @@ Longer memory for more personalized responses
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/ChatGPT/2025-10-23-chatgpt-can-draw-from-anything-in-the-shared-project-including-chats-uploaded-fi|chatgpt-2025-10-23-5716f3]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: memory
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: variant
-- First In Tracked: [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat|chatgpt-2023-07-20-4592e6]]
+- Role: later-observed
+- First In Tracked: [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|chatgpt-2023-07-20-37833c]]
 - Lag Days: 831
 - Tracked Products Count: 3
 <!-- chronolog:end -->

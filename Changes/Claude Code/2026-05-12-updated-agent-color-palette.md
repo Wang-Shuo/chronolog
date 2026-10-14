@@ -3,31 +3,54 @@ card_id: claude-code-2026-05-12-443dac
 date: '2026-05-12'
 diffusion:
   first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1041
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: agent-mode
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Claude Code/2026-05-12-improved-agent-tool-subagent-type-matching-to-accept-case-and-separator-insensit|claude-code-2026-05-12-294863]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: paradigm-shift
-machine_hash: 9a61fbdcaad7da5e573ec7997dd667976aac7502dadb963ca61d8630cff5f56e
+machine_hash: 2c80d65de5e3f893f8c4af7182440ea979cec2c979c6fab78f6eb8a9b5f6a5c0
 product: claude-code
 product_name: Claude Code
+record:
+  ai_generated: true
+  card_id: claude-code-2026-05-12-443dac
+  comparison: ''
+  confidence: low
+  date: '2026-05-12'
+  description: 'Claude Code — v2.1.140: Updated agent color palette'
+  evidence:
+  - quote: Updated agent color palette
+    source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.140
+  extractor_version: fallback-v3
+  impact: paradigm-shift
+  product: claude-code
+  product_name: Claude Code
+  slug: updated-agent-color-palette
+  source_release: claude-code-2026-05-12-v2-1-140-github-321395205-971146de
+  source_type: github_releases
+  theme: agent-mode
+  title: Updated agent color palette
+  type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-11-added-agent-view-research-preview-a-single-list-of-every-claude-code-session-run|claude-code-2026-05-11-1877ff]]'
 - '[[Changes/Cursor/2026-05-11-mention-cursor-in-any-teams-channel-to-delegate-a-task-to-a-cloud-agent-or-pull|cursor-2026-05-11-5515f3]]'
 - '[[Changes/Claude Code/2026-05-12-improved-agent-tool-subagent-type-matching-to-accept-case-and-separator-insensit|claude-code-2026-05-12-294863]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-12-v2-1-140-github-321395205-971146de|claude-code-2026-05-12-v2-1-140-github-321395205-971146de]]'
+source_type: github_releases
 theme: agent-mode
+title: Updated agent color palette
 type: change
 ---
 
 # Updated agent color palette
 
 <!-- chronolog:begin region="description" -->
-Updated agent color palette
+Claude Code — v2.1.140: Updated agent color palette
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +60,15 @@ Updated agent color palette
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Claude Code/2026-05-12-improved-agent-tool-subagent-type-matching-to-accept-case-and-separator-insensit|claude-code-2026-05-12-294863]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: agent-mode
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
+- Role: later-observed
 - First In Tracked: [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]
 - Lag Days: 1041
 - Tracked Products Count: 3

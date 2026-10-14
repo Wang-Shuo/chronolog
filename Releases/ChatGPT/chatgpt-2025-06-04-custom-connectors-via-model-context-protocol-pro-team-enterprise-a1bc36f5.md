@@ -1,17 +1,30 @@
 ---
 changes_count: 2
 date: '2025-06-04'
-machine_hash: 59c2009c771f63ae52238bb907add1701b497b641c2147db3647ab4995e295d0
+machine_hash: 5f4c4dcc2beeaf40b84893068555216c5aa228dc1e0ac73c85dfe9c4caf7cda1
 product: chatgpt
 product_name: ChatGPT
+record:
+  date: '2025-06-04'
+  product: chatgpt
+  product_name: ChatGPT
+  release_id: chatgpt-2025-06-04-custom-connectors-via-model-context-protocol-pro-team-enterprise-a1bc36f5
+  source_summary: Admins and users can now build and deploy custom connectors to proprietary
+    systems using Model Context Protocol (MCP).
+  source_type: chatgpt_changelog
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#custom-connectors-via-model-context-protocol-pro-team-enterprise-edu
+  title: Custom connectors via Model Context Protocol (Pro, Team, Enterprise, Edu)
+  version: Custom connectors via Model Context Protocol (Pro, Team, Enterprise, Edu)
 release_id: chatgpt-2025-06-04-custom-connectors-via-model-context-protocol-pro-team-enterprise-a1bc36f5
 source_release: Custom connectors via Model Context Protocol (Pro, Team, Enterprise,
   Edu)
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_f5dbd569f6
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#custom-connectors-via-model-context-protocol-pro-team-enterprise-edu
 tags:
 - release
 - chatgpt
+title: ChatGPT — Custom connectors via Model Context Protocol (Pro, Team, Enterprise,
+  Edu)
 version: Custom connectors via Model Context Protocol (Pro, Team, Enterprise, Edu)
 ---
 
@@ -21,7 +34,7 @@ version: Custom connectors via Model Context Protocol (Pro, Team, Enterprise, Ed
 <!-- chronolog:begin region="summary" -->
 Admins and users can now build and deploy custom connectors to proprietary systems using Model Context Protocol (MCP).
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_f5dbd569f6)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#custom-connectors-via-model-context-protocol-pro-team-enterprise-edu)
 
 Tracked cards: 2
 <!-- chronolog:end -->

@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2025-09-29-browser-controls|cursor-2025-09-29-c550bd]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: cd6062b73659e50d1eeff0c1afc5f4455a6b7456a1fe106857cf6649eb8b4af7
+machine_hash: 989bc2d386efd52cbbdd0dd692d3d6ca80d76475e778bed77c8a03cde97a3445
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-10-13-both-app-and-connector-are-available-to-plus-pro-business-and-enterprise-edu-cus|chatgpt-2025-10-13-cdb156]]'
 - '[[Changes/ChatGPT/2025-10-13-with-the-chatgpt-app-for-slack-you-can-chat-one-on-one-with-chatgpt-in-a-dedicat|chatgpt-2025-10-13-ebfa0b]]'
 source_release: '[[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e]]'
+superseded: true
 theme: apps-integrations
 type: change
 ---

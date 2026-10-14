@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2026-03-25-google-s-file-connectors-in-chatgpt-are-now-unified-under-google-drive-providing|chatgpt-2026-03-25-6c2ae6]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: af3871c6add12159707b2ea68bef8c915c513ca62f21983867b928f42f27f088
+machine_hash: 7829037afad1b3a62a2f5e76362810302887f1d8ee5ec156bd9b96be73b4ab0b
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Claude Code/2026-03-26-added-claude-code-mcp-server-name-and-claude-code-mcp-server-url-environment-var|claude-code-2026-03-26-30d322]]'
 - '[[Changes/Claude Code/2026-03-26-deep-link-queries-claude-cli-open-q-now-support-up-to-5-000-characters-with-a-sc|claude-code-2026-03-26-7f4ed1]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-27-updated-box-notion-linear-and-dropbox-apps-c362d055|chatgpt-2026-03-27-updated-box-notion-linear-and-dropbox-apps-c362d055]]'
+superseded: true
 theme: apps-integrations
 type: change
 ---

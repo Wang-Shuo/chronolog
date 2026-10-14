@@ -2,32 +2,56 @@
 card_id: chatgpt-2025-11-25-a24f1e
 date: '2025-11-25'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-voice-beta-is-now-rolling-out-to-plus-users-on-ios-and-android|chatgpt-2023-09-25-5ff815]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|chatgpt-2023-09-25-13666e]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 792
-  role: variant
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: voice
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/ChatGPT/2025-11-25-many-of-you-have-asked-for-a-more-flexible-voice-experience-now-you-can-speak-li|chatgpt-2025-11-25-865dda]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 8b54e6fcb523c35898eb6aa3692347f361b81a9248cdf0547bf1cce13ad985c1
+machine_hash: 27bdf4d34b17db7b98c9b9e835f412d62ff1e3ec6531720f5019f1a846c4064c
 product: chatgpt
 product_name: ChatGPT
+record:
+  card_id: chatgpt-2025-11-25-a24f1e
+  comparison: ''
+  date: '2025-11-25'
+  description: 'ChatGPT — An improved Voice interface: the audio you know, with text
+    and visuals when you need them.: Follow along with typed answers as you listen'
+  evidence:
+  - quote: Follow along with typed answers as you listen
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#an-improved-voice-interface-the-audio-you-know-with-text-and-visuals-when-you-need-them
+  extractor_version: fallback-v3
+  impact: incremental
+  product: chatgpt
+  product_name: ChatGPT
+  slug: follow-along-with-typed-answers-as-you-listen
+  source_release: chatgpt-2025-11-25-an-improved-voice-interface-the-audio-you-know-with-text-and-vis-29758d37
+  source_type: chatgpt_changelog
+  theme: voice
+  theme_matches: []
+  theme_resolution: manual-backfill-review-v1
+  title: Follow along with typed answers as you listen
+  type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-11-25-we-re-making-chatgpt-voice-a-seamless-part-of-the-chatgpt-experience-so-you-can|chatgpt-2025-11-25-577387]]'
-- '[[Changes/ChatGPT/2025-11-25-this-makes-voice-chats-clearer-richer-and-more-contextual-by-pairing-spoken-answ|chatgpt-2025-11-25-72abc5]]'
-- '[[Changes/ChatGPT/2025-11-25-many-of-you-have-asked-for-a-more-flexible-voice-experience-now-you-can-speak-li|chatgpt-2025-11-25-865dda]]'
+- '[[Changes/ChatGPT/2025-09-09-last-month-we-announced-that-everyone-now-has-access-to-advanced-voice-mode-with-d861d2|chatgpt-2025-09-09-d861d2]]'
+- '[[Changes/ChatGPT/2025-09-29-turn-off-voice-mode-to-remove-the-option-to-use-voice-mode-in-chatgpt|chatgpt-2025-09-29-9d6772]]'
+- '[[Changes/ChatGPT/2025-11-25-type-back-when-you-can-t-talk-and-still-get-a-voice-response|chatgpt-2025-11-25-38e99e]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-25-an-improved-voice-interface-the-audio-you-know-with-text-and-vis-29758d37|chatgpt-2025-11-25-an-improved-voice-interface-the-audio-you-know-with-text-and-vis-29758d37]]'
+source_type: chatgpt_changelog
 theme: voice
+title: Follow along with typed answers as you listen
 type: change
 ---
 
 # Follow along with typed answers as you listen
 
 <!-- chronolog:begin region="description" -->
-Follow along with typed answers as you listen
+ChatGPT — An improved Voice interface: the audio you know, with text and visuals when you need them.: Follow along with typed answers as you listen
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,14 +61,16 @@ Follow along with typed answers as you listen
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/ChatGPT/2025-11-25-many-of-you-have-asked-for-a-more-flexible-voice-experience-now-you-can-speak-li|chatgpt-2025-11-25-865dda]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: voice
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: variant
-- First In Tracked: [[Changes/ChatGPT/2023-09-25-voice-beta-is-now-rolling-out-to-plus-users-on-ios-and-android|chatgpt-2023-09-25-5ff815]]
+- Role: later-observed
+- First In Tracked: [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|chatgpt-2023-09-25-13666e]]
 - Lag Days: 792
 - Tracked Products Count: 3
 <!-- chronolog:end -->

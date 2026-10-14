@@ -3,31 +3,65 @@ card_id: cursor-2026-05-06-d58e0b
 date: '2026-05-06'
 diffusion:
   first_in_tracked: '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|cursor-2023-05-04-00d3b7]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1098
-  role: variant
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: context-window
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Cursor/2026-05-06-use-these-stats-to-diagnose-context-issues-and-improve-your-setup-across-rules-s|cursor-2026-05-06-b2f248]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: paradigm-shift
-machine_hash: a2cc4336a2af5d0ac2b907347b91a0c1581286499b8e5f8b5b6c2dc48e96fbbf
+machine_hash: 2be7106764ff8cb66f55b9abe7084065c4691bdaf88d4ef00630f433bc275f02
 product: cursor
 product_name: Cursor
+record:
+  ai_generated: true
+  card_id: cursor-2026-05-06-d58e0b
+  comparison: ''
+  confidence: low
+  date: '2026-05-06'
+  description: 'Cursor — Context Usage Breakdown: You can now see a breakdown of your
+    agent''s context usage.'
+  evidence:
+  - quote: You can now see a breakdown of your agent's context usage.
+    source_release: https://cursor.com/changelog/05-06-26
+  extractor_version: fallback-v3
+  impact: paradigm-shift
+  product: cursor
+  product_name: Cursor
+  slug: you-can-now-see-a-breakdown-of-your-agent-s-context-usage
+  source_release: cursor-2026-05-06-3-3-https-cursor-com-changelog-05-06-26-2cf56c40
+  source_type: cursor_changelog
+  theme: context-window
+  theme_matches:
+  - matched_terms:
+    - agent
+    score: 50
+    theme: agent-mode
+  - matched_terms:
+    - context
+    score: 50
+    theme: context-window
+  theme_resolution: manual-semantic-rule-v1
+  title: You can now see a breakdown of your agent's context usage.
+  type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-15-added-option-to-show-claude-s-last-response-as-commented-context-in-the-ctrl-g-e|claude-code-2026-04-15-980a64]]'
 - '[[Changes/Cursor/2026-05-04-admins-can-now-set-more-granular-allow-or-blocklists-at-the-model-and-provider-l|cursor-2026-05-04-50f164]]'
 - '[[Changes/Cursor/2026-05-06-use-these-stats-to-diagnose-context-issues-and-improve-your-setup-across-rules-s|cursor-2026-05-06-b2f248]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-06-3-3-https-cursor-com-changelog-05-06-26-2cf56c40|cursor-2026-05-06-3-3-https-cursor-com-changelog-05-06-26-2cf56c40]]'
+source_type: cursor_changelog
 theme: context-window
+title: You can now see a breakdown of your agent's context usage.
 type: change
 ---
 
 # You can now see a breakdown of your agent's context usage.
 
 <!-- chronolog:begin region="description" -->
-You can now see a breakdown of your agent's context usage.
+Cursor — Context Usage Breakdown: You can now see a breakdown of your agent's context usage.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +71,15 @@ You can now see a breakdown of your agent's context usage.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Cursor/2026-05-06-use-these-stats-to-diagnose-context-issues-and-improve-your-setup-across-rules-s|cursor-2026-05-06-b2f248]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: context-window
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: variant
+- Role: later-observed
 - First In Tracked: [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|cursor-2023-05-04-00d3b7]]
 - Lag Days: 1098
 - Tracked Products Count: 3

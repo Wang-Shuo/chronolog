@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2024-05-16-upload-the-latest-file-versions-directly-from-google-drive-microsoft-onedrive-pe|chatgpt-2024-05-16-51ea0b]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 3d864cd947b587c50e6be51c4383e3b6e8c08e56b4f5ea3e3208b88f6c2b7ce1
+machine_hash: 291e63450bac6ed849c967d07aca9c9344b2fab2bae8fafa6a0490b50612826f
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2024-05-16-upload-the-latest-file-versions-directly-from-google-drive-microsoft-onedrive-pe|chatgpt-2024-05-16-51ea0b]]'
 - '[[Changes/Cursor/2024-07-03-docs-management-go-to-cursor-settings-features-docs-to-re-index-your-docs|cursor-2024-07-03-5b1528]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-11-22-updates-to-the-chatgpt-web-experience-bf046a2c|chatgpt-2024-11-22-updates-to-the-chatgpt-web-experience-bf046a2c]]'
+superseded: true
 theme: apps-integrations
 type: change
 ---

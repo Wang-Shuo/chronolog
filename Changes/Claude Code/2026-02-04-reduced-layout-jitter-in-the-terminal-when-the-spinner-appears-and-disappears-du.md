@@ -3,31 +3,56 @@ card_id: claude-code-2026-02-04-f162af
 date: '2026-02-04'
 diffusion:
   first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|cursor-2023-03-18-76a713]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1054
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Claude Code/2026-02-03-added-debug-for-claude-to-help-troubleshoot-the-current-session|claude-code-2026-02-03-ea4a44]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 0885429a3be2c4090b81d77995b742ba556d2b007afed2878ad4995689f0dba1
+machine_hash: 064c478e342c131f4932b821795b18e638b42dc0beaf40aeaa3d55e86273fcaf
 product: claude-code
 product_name: Claude Code
+record:
+  card_id: claude-code-2026-02-04-f162af
+  comparison: ''
+  date: '2026-02-04'
+  description: 'Claude Code — v2.1.31: Reduced layout jitter in the terminal when
+    the spinner appears and disappears during streaming'
+  evidence:
+  - quote: Reduced layout jitter in the terminal when the spinner appears and disappears
+      during streaming
+    source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.31
+  extractor_version: fallback-v3
+  impact: incremental
+  product: claude-code
+  product_name: Claude Code
+  slug: reduced-layout-jitter-in-the-terminal-when-the-spinner-appears-and-disappears-du
+  source_release: claude-code-2026-02-04-v2-1-31-github-282782741-04ea99e1
+  source_type: github_releases
+  theme: developer-workflow
+  title: Reduced layout jitter in the terminal when the spinner appears and disappears
+    du
+  type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-30-added-tool-call-failures-and-denials-to-debug-logs|claude-code-2026-01-30-aab171]]'
 - '[[Changes/Claude Code/2026-02-03-added-support-for-additional-git-log-and-git-show-flags-in-read-only-mode-e-g-to|claude-code-2026-02-03-a84e37]]'
 - '[[Changes/Claude Code/2026-02-03-added-debug-for-claude-to-help-troubleshoot-the-current-session|claude-code-2026-02-03-ea4a44]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-04-v2-1-31-github-282782741-04ea99e1|claude-code-2026-02-04-v2-1-31-github-282782741-04ea99e1]]'
+source_type: github_releases
 theme: developer-workflow
+title: Reduced layout jitter in the terminal when the spinner appears and disappears
+  du
 type: change
 ---
 
 # Reduced layout jitter in the terminal when the spinner appears and disappears du
 
 <!-- chronolog:begin region="description" -->
-Reduced layout jitter in the terminal when the spinner appears and disappears during streaming
+Claude Code — v2.1.31: Reduced layout jitter in the terminal when the spinner appears and disappears during streaming
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +62,15 @@ Reduced layout jitter in the terminal when the spinner appears and disappears du
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Claude Code/2026-02-03-added-debug-for-claude-to-help-troubleshoot-the-current-session|claude-code-2026-02-03-ea4a44]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: developer-workflow
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
+- Role: later-observed
 - First In Tracked: [[Changes/Cursor/2023-03-18-built-in-terminal|cursor-2023-03-18-76a713]]
 - Lag Days: 1054
 - Tracked Products Count: 3

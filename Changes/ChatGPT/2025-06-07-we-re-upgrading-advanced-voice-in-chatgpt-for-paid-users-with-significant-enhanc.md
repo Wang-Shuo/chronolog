@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-06-07-voice-also-now-offers-intuitive-and-effective-language-translation-just-ask-voic|chatgpt-2025-06-07-7d3f8e]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: a2b31f4a735679263ea42194e8d560d656b72f5b0b9a208df16168010a3f73ea
+machine_hash: bb6097ba1215819bad28b1f7a2b273861cc08d2cd6731fe0b661dead547913e0
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-06-07-in-testing-we-ve-observed-that-this-update-may-occasionally-cause-minor-decrease|chatgpt-2025-06-07-4420a3]]'
 - '[[Changes/ChatGPT/2025-06-07-voice-also-now-offers-intuitive-and-effective-language-translation-just-ask-voic|chatgpt-2025-06-07-7d3f8e]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-07-updates-to-advanced-voice-mode-for-paid-users-55969446|chatgpt-2025-06-07-updates-to-advanced-voice-mode-for-paid-users-55969446]]'
+superseded: true
 theme: voice
 type: change
 ---

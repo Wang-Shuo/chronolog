@@ -3,31 +3,55 @@ card_id: cursor-2023-07-03-90bbb6
 date: '2023-07-03'
 diffusion:
   first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 175
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: interface-experience
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Cursor/2023-06-27-better-symbol-keyboard-ergonomics|cursor-2023-06-27-080573]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: c8c518779ef15a5d9c9fb13e1e43c6edd0973f1b2b2e996e578a52617e4e00c2
+machine_hash: 5ae18700076e5c3692b99908264e812bb087b465f5e2d5403fe69a61571fda37
 product: cursor
 product_name: Cursor
+record:
+  card_id: cursor-2023-07-03-90bbb6
+  comparison: ''
+  date: '2023-07-03'
+  description: 'Cursor — New inline edits: (Also, you can now use up/down arrows for
+    history in chat.)'
+  evidence:
+  - quote: (Also, you can now use up/down arrows for history in chat.)
+    source_release: https://cursor.com/changelog/0-2-39
+  extractor_version: fallback-v3
+  impact: incremental
+  product: cursor
+  product_name: Cursor
+  slug: also-you-can-now-use-up-down-arrows-for-history-in-chat
+  source_release: cursor-2023-07-03-0-2-39-https-cursor-com-changelog-0-2-39-cbfe6a5f
+  source_type: cursor_changelog
+  theme: interface-experience
+  theme_matches: []
+  theme_resolution: manual-backfill-review-v1
+  title: (Also, you can now use up/down arrows for history in chat.)
+  type: change
 related_changes:
 - '[[Changes/Cursor/2023-05-20-we-ve-added-a-new-feedback-button-at-the-top-right-of-the-app-we-really-do|cursor-2023-05-20-ba1f43]]'
 - '[[Changes/Cursor/2023-06-24-the-chat-has-been-revamped-you-can-now-use-symbols-to-show-files-code-docs-to-th|cursor-2023-06-24-a50962]]'
 - '[[Changes/Cursor/2023-06-27-better-symbol-keyboard-ergonomics|cursor-2023-06-27-080573]]'
 source_release: '[[Releases/Cursor/cursor-2023-07-03-0-2-39-https-cursor-com-changelog-0-2-39-cbfe6a5f|cursor-2023-07-03-0-2-39-https-cursor-com-changelog-0-2-39-cbfe6a5f]]'
+source_type: cursor_changelog
 theme: interface-experience
+title: (Also, you can now use up/down arrows for history in chat.)
 type: change
 ---
 
 # (Also, you can now use up/down arrows for history in chat.)
 
 <!-- chronolog:begin region="description" -->
-(Also, you can now use up/down arrows for history in chat.)
+Cursor — New inline edits: (Also, you can now use up/down arrows for history in chat.)
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +61,15 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Cursor/2023-06-27-better-symbol-keyboard-ergonomics|cursor-2023-06-27-080573]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: interface-experience
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
+- Role: later-observed
 - First In Tracked: [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]
 - Lag Days: 175
 - Tracked Products Count: 3

@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-03-18-we-have-been-working-on-a-variety-of-usability-and-performance-improvements-and|chatgpt-2025-03-18-3de287]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: d267d007171597d90e123ef725ea87436ec16e224e90a630b63a1d97393fbecd
+machine_hash: 059f05ae46978383eee5f18e47b859d82251b921eb95b2350cbfa9acdded960e
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-02-28-ios-long-press-to-select-text-on-ios-and-moved-the-message-quick-actions-to-alwa|chatgpt-2025-02-28-113deb]]'
 - '[[Changes/ChatGPT/2025-03-18-we-have-been-working-on-a-variety-of-usability-and-performance-improvements-and|chatgpt-2025-03-18-3de287]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-03-18-ios-app-6a42bb0f|chatgpt-2025-03-18-ios-app-6a42bb0f]]'
+superseded: true
 theme: mobile-desktop
 type: change
 ---

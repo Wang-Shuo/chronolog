@@ -2,32 +2,57 @@
 card_id: cursor-2026-03-05-fc1325
 date: '2026-03-05'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2025-01-14-scheduled-tasks-is-in-early-beta-for-plus-pro-and-teams-eventually-this-will-be|chatgpt-2025-01-14-24a2be]]'
-  lag_days: 415
-  role: follower
+  first_in_tracked: '[[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now|chatgpt-2025-12-17-d1d8fe]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 78
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Cursor/2026-03-05-create-automations-at-cursor-com-automations-or-start-from-a-template-read-more|cursor-2026-03-05-e7f5c3]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: a283b14722d9427ca24fb88e67a57766d189418bbd66bfcd4bd3ea81965622ff
+machine_hash: 122c0d7833c555f928255bb7dd52bb86d04bb7932e8b08b8388d24303f8bcf90
 product: cursor
 product_name: Cursor
+record:
+  card_id: cursor-2026-03-05-fc1325
+  comparison: ''
+  date: '2026-03-05'
+  description: 'Cursor — Automations: Automations run on schedules or are triggered
+    by events from Slack, Linear, GitHub, PagerDuty, and webhooks.'
+  evidence:
+  - quote: Automations run on schedules or are triggered by events from Slack, Linear,
+      GitHub, PagerDuty, and webhooks.
+    source_release: https://cursor.com/changelog/03-05-26
+  extractor_version: fallback-v3
+  impact: incremental
+  product: cursor
+  product_name: Cursor
+  slug: automations-run-on-schedules-or-are-triggered-by-events-from-slack-linear-github
+  source_release: cursor-2026-03-05-automations-https-cursor-com-changelog-03-05-26-be367422
+  source_type: cursor_changelog
+  theme: automation-scheduling
+  title: Automations run on schedules or are triggered by events from Slack, Linear,
+    GitH
+  type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-12-17-create-tasks-in-chat-or-in-pulse-whatever-s-easier-in-the-moment|chatgpt-2025-12-17-f3fe78]]'
 - '[[Changes/Cursor/2026-03-05-cursor-now-supports-automations-for-building-always-on-agents-that-run-based-on|cursor-2026-03-05-d7b50e]]'
 - '[[Changes/Cursor/2026-03-05-create-automations-at-cursor-com-automations-or-start-from-a-template-read-more|cursor-2026-03-05-e7f5c3]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-05-automations-https-cursor-com-changelog-03-05-26-be367422|cursor-2026-03-05-automations-https-cursor-com-changelog-03-05-26-be367422]]'
+source_type: cursor_changelog
 theme: automation-scheduling
+title: Automations run on schedules or are triggered by events from Slack, Linear,
+  GitH
 type: change
 ---
 
 # Automations run on schedules or are triggered by events from Slack, Linear, GitH
 
 <!-- chronolog:begin region="description" -->
-Automations run on schedules or are triggered by events from Slack, Linear, GitHub, PagerDuty, and webhooks.
+Cursor — Automations: Automations run on schedules or are triggered by events from Slack, Linear, GitHub, PagerDuty, and webhooks.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,15 +62,17 @@ Automations run on schedules or are triggered by events from Slack, Linear, GitH
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Cursor/2026-03-05-create-automations-at-cursor-com-automations-or-start-from-a-template-read-more|cursor-2026-03-05-e7f5c3]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: automation-scheduling
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
-- First In Tracked: [[Changes/ChatGPT/2025-01-14-scheduled-tasks-is-in-early-beta-for-plus-pro-and-teams-eventually-this-will-be|chatgpt-2025-01-14-24a2be]]
-- Lag Days: 415
+- Role: later-observed
+- First In Tracked: [[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now|chatgpt-2025-12-17-d1d8fe]]
+- Lag Days: 78
 - Tracked Products Count: 3
 <!-- chronolog:end -->
 

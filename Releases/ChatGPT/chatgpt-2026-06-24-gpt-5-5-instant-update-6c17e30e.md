@@ -1,9 +1,23 @@
 ---
 changes_count: 1
 date: '2026-06-24'
-machine_hash: 159f3f4bda7417353c08b328cd70a9f4484831127475f4a1cabe16e820194fef
+machine_hash: 3e52eaa311e6fcbb3d62a8b98e195e095430c1c03a01eefe6178cdc0ef432935
 product: chatgpt
 product_name: ChatGPT
+record:
+  date: '2026-06-24'
+  product: chatgpt
+  product_name: ChatGPT
+  release_id: chatgpt-2026-06-24-gpt-5-5-instant-update-6c17e30e
+  source_summary: We’re updating GPT-5.5 Instant, our most-used model in ChatGPT,
+    to improve conversational quality—especially when users are making a decision,
+    asking for advice, planning something, researching options, or shopping.The model
+    is better at identifying the underlying goal behind a question and carrying context
+    across…
+  source_type: chatgpt_changelog
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-55-instant-update
+  title: GPT-5.5 Instant Update
+  version: GPT-5.5 Instant Update
 release_id: chatgpt-2026-06-24-gpt-5-5-instant-update-6c17e30e
 source_release: GPT-5.5 Instant Update
 source_type: chatgpt_changelog
@@ -11,6 +25,7 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gp
 tags:
 - release
 - chatgpt
+title: ChatGPT — GPT-5.5 Instant Update
 version: GPT-5.5 Instant Update
 ---
 
@@ -18,7 +33,7 @@ version: GPT-5.5 Instant Update
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
-We’re updating GPT-5.5 Instant, our most-used model in ChatGPT, to improve conversational quality—especially when users are making a decision, asking for advice, planning something, researching options, or shopping. The model is better at identifying the underlying goal behind a question and carrying context across…
+We’re updating GPT-5.5 Instant, our most-used model in ChatGPT, to improve conversational quality—especially when users are making a decision, asking for advice, planning something, researching options, or shopping.The model is better at identifying the underlying goal behind a question and carrying context across…
 
 [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-55-instant-update)
 

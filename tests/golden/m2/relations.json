@@ -1,0 +1,1287 @@
+{
+  "selection": "10 evenly spaced historical evolves_from edges and 10 historical cross-product edges; fixed before regression; includes same-theme counterexamples.",
+  "cases": [
+    {
+      "id": "evolves_from-01",
+      "before_relation": "evolves_from",
+      "left": {
+        "type": "change",
+        "card_id": "chatgpt-2023-01-09-5af3d4",
+        "product": "chatgpt",
+        "product_name": "ChatGPT",
+        "source_release": "chatgpt-2023-01-09-updates-to-chatgpt-0d776ee3",
+        "date": "2023-01-09",
+        "title": "We made more improvements to the ChatGPT model! It should be generally better ac",
+        "slug": "we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr",
+        "theme": "model-support",
+        "impact": "significant",
+        "description": "We made more improvements to the ChatGPT model! It should be generally better across a wide range of topics and has improved factuality.",
+        "comparison": "",
+        "evidence": [
+          {
+            "source_release": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_b1c7f24762",
+            "quote": "We made more improvements to the ChatGPT model! It should be generally better across a wide range of topics and has improved factuality."
+          }
+        ],
+        "extractor_version": "fallback-v2",
+        "ai_generated": true,
+        "confidence": "low"
+      },
+      "right": {
+        "type": "change",
+        "card_id": "chatgpt-2023-01-30-2d26b7",
+        "product": "chatgpt",
+        "product_name": "ChatGPT",
+        "source_release": "chatgpt-2023-01-30-factuality-and-mathematical-improvements-bde45cd9",
+        "date": "2023-01-30",
+        "title": "We’ve upgraded the ChatGPT model with improved factuality and mathematical capab",
+        "slug": "we-ve-upgraded-the-chatgpt-model-with-improved-factuality-and-mathematical-capab",
+        "theme": "model-support",
+        "impact": "significant",
+        "description": "We’ve upgraded the ChatGPT model with improved factuality and mathematical capabilities.",
+        "comparison": "",
+        "evidence": [
+          {
+            "source_release": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_f46bd1d771",
+            "quote": "We’ve upgraded the ChatGPT model with improved factuality and mathematical capabilities."
+          }
+        ],
+        "extractor_version": "fallback-v2",
+        "ai_generated": true,
+        "confidence": "low"
+      },
+      "expected": "no-semantic-inference",
+      "allowed": "removed or explicitly same-theme-chronology",
+      "reason": "Both records are tagged model-support; the quoted announcements do not state that the later change builds on, adopts, or follows the earlier one. Chronology alone does not justify evolves_from.",
+      "reviewer": "Codex",
+      "human_accepted": true
+    },
+    {
+      "id": "evolves_from-02",
+      "before_relation": "evolves_from",
+      "left": {
+        "type": "change",
+        "card_id": "cursor-2023-09-23-9b8c15",
+        "product": "cursor",
+        "product_name": "Cursor",
+        "source_release": "cursor-2023-09-23-0-11-13-nightly-https-cursor-com-changelog-0-11-13-nightly-14fe1770",
+        "date": "2023-09-23",
+        "title": "never lets your root directory be in the gitignore",
+        "slug": "never-lets-your-root-directory-be-in-the-gitignore",
+        "theme": "developer-workflow",
+        "impact": "incremental",
+        "description": "never lets your root directory be in the gitignore",
+        "comparison": "",
+        "evidence": [
+          {
+            "source_release": "https://cursor.com/changelog/0-11-13-nightly",
+            "quote": "never lets your root directory be in the gitignore"
+          }
+        ],
+        "extractor_version": "fallback-v2",
+        "theme_resolution": "manual-backfill-review-v1",
+        "theme_matches": []
+      },
+      "right": {
+        "type": "change",
+        "card_id": "cursor-2023-10-01-3b67a3",
+        "product": "cursor",
+        "product_name": "Cursor",
+        "source_release": "cursor-2023-10-01-0-12-0-https-cursor-com-changelog-0-12-0-2555ff30",
+        "date": "2023-10-01",
+        "title": "Ask about git commits and PRs using @git in chat!",
+        "slug": "ask-about-git-commits-and-prs-using-git-in-chat",
+        "theme": "developer-workflow",
+        "impact": "incremental",
+        "description": "Ask about git commits and PRs using @git in chat!",
+        "comparison": "",
+        "evidence": [
+          {
+            "source_release": "https://cursor.com/changelog/0-12-0",
+            "quote": "Ask about git commits and PRs using @git in chat!"
+          }
+        ],
+        "extractor_version": "fallback-v2",
+        "theme_resolution": "manual-semantic-rule-v1",
+        "theme_matches": []
+      },
+      "expected": "no-semantic-inference",
+      "allowed": "removed or explicitly same-theme-chronology",
+      "reason": "Both records are tagged developer-workflow; the quoted announcements do not state that the later change builds on, adopts, or follows the earlier one. Chronology alone does not justify evolves_from.",
+      "reviewer": "Codex",
+      "human_accepted": true
+    },
+    {
+      "id": "evolves_from-03",
+      "before_relation": "evolves_from",
+      "left": {
+        "type": "change",
+        "card_id": "cursor-2025-01-23-36d94e",
+        "product": "cursor",
+        "product_name": "Cursor",
+        "source_release": "cursor-2025-01-23-0-45-x-https-cursor-com-changelog-0-45-x-c162d228",
+        "date": "2025-01-23",
+        "title": "Deepseek models: Deepseek R1 and Deepseek v3 are supported in 0.45 and 0.44. You",
+        "slug": "deepseek-models-deepseek-r1-and-deepseek-v3-are-supported-in-0-45-and-0-44-you-c",
+        "theme": "model-support",
+        "impact": "incremental",
+        "description": "Deepseek models: Deepseek R1 and Deepseek v3 are supported in 0.45 and 0.44. You can enable them in Settings > Models. We self-host these models in the US.",
+        "comparison": "",
+        "evidence": [
+          {
+            "source_release": "https://cursor.com/changelog/0-45-x",
+            "quote": "Deepseek models: Deepseek R1 and Deepseek v3 are supported in 0.45 and 0.44. You can enable them in Settings > Models. We self-host these models in the US."
+          }
+        ],
+        "extractor_version": "fallback-v2"
+      },
+      "right": {
+        "type": "change",
+        "card_id": "cursor-2025-01-23-b4d95f",
+        "product": "cursor",
+        "product_name": "Cursor",
+        "source_release": "cursor-2025-01-23-0-45-x-https-cursor-com-changelog-0-45-x-c162d228",
+        "date": "2025-01-23",
+        "title": "Better Codebase Understanding: We've trained a new model for Codebase Understand",
+        "slug": "better-codebase-understanding-we-ve-trained-a-new-model-for-codebase-understandi",
+        "theme": "model-support",
+        "impact": "significant",
+        "description": "Better Codebase Understanding: We've trained a new model for Codebase Understanding. We'll be rolling it out to all users on 0.45 in the coming week.",
+        "comparison": "",
+        "evidence": [
+          {
+            "source_release": "https://cursor.com/changelog/0-45-x",
+            "quote": "Better Codebase Understanding: We've trained a new model for Codebase Understanding. We'll be rolling it out to all users on 0.45 in the coming week."
+          }
+        ],
+        "extractor_version": "fallback-v2",
+        "ai_generated": true,
+        "confidence": "low"
+      },
+      "expected": "no-semantic-inference",
+      "allowed": "removed or explicitly same-theme-chronology",
+      "reason": "Both records are tagged model-support; the quoted announcements do not state that the later change builds on, adopts, or follows the earlier one. Chronology alone does not justify evolves_from.",
+      "reviewer": "Codex",
+      "human_accepted": true
+    },
+    {
+      "id": "evolves_from-04",
+      "before_relation": "evolves_from",
+      "left": {
+        "type": "change",
+        "card_id": "chatgpt-2025-08-15-047ba8",
+        "product": "chatgpt",
+        "product_name": "ChatGPT",
+        "source_release": "chatgpt-2025-08-15-gpt-5-updates-9aaeee46",
+        "date": "2025-08-15",
+        "title": "Warmth here means small acknowledgements that make interactions feel more person",
+        "slug": "warmth-here-means-small-acknowledgements-that-make-interactions-feel-more-person",
+        "theme": "memory",
+        "impact": "incremental",
+        "description": "Warmth here means small acknowledgements that make interactions feel more personable — for example, “Good question,” “Great start,” or briefly recognizing the user’s circumstances when relevant. This is different from sycophancy, which we define as excessive flattery that can feel insincere. You can find more about our learnings on reducing sycophancy here.",
+        "comparison": "",
+        "evidence": [
+          {
+            "source_release": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_6b1adafe01",
+            "quote": "Warmth here means small acknowledgements that make interactions feel more personable — for example, “Good question,” “Great start,” or briefly recognizing the user’s circumstances when relevant. This is different from sycophancy, which we define as excessive flattery that can feel insincere. You can find more about our learnings on reducing sycophancy here."
+          }
+        ],
+        "extractor_version": "fallback-v2",
+        "theme_resolution": "manual-backfill-review-v1",
+        "theme_matches": []
+      },
+      "right": {
+        "type": "change",
+        "card_id": "chatgpt-2025-08-15-fc5fb6",
+        "product": "chatgpt",
+        "product_name": "ChatGPT",
+        "source_release": "chatgpt-2025-08-15-gpt-5-updates-9aaeee46",
+        "date": "2025-08-15",
+        "title": "We’re making GPT-5’s default personality warmer and more familiar. This is in re",
+        "slug": "we-re-making-gpt-5-s-default-personality-warmer-and-more-familiar-this-is-in-res",
+        "theme": "memory",
+        "impact": "incremental",
+        "description": "We’re making GPT-5’s default personality warmer and more familiar. This is in response to user feedback that the initial version of GPT-5 came across as too reserved and professional. The differences in personality should feel subtle but create a noticeably more approachable ChatGPT experience.",
+        "comparison": "",
+        "evidence": [
+          {
+            "source_release": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_6b1adafe01",
+            "quote": "We’re making GPT-5’s default personality warmer and more familiar. This is in response to user feedback that the initial version of GPT-5 came across as too reserved and professional. The differences in personality should feel subtle but create a noticeably more approachable ChatGPT experience."
+          }
+        ],
+        "extractor_version": "fallback-v2",
+        "theme_resolution": "manual-semantic-rule-v1",
+        "theme_matches": [
+          {
+            "theme": "model-support",
+            "score": 60,
+            "matched_terms": [
+              "gpt 5"
+            ]
+          },
+          {
+            "theme": "memory",
+            "score": 50,
+            "matched_terms": [
+              "personality"
+            ]
+          }
+        ]
+      },
+      "expected": "no-semantic-inference",
+      "allowed": "removed or explicitly same-theme-chronology",
+      "reason": "Both records are tagged memory; the quoted announcements do not state that the later change builds on, adopts, or follows the earlier one. Chronology alone does not justify evolves_from.",
+      "reviewer": "Codex",
+      "human_accepted": true
+    },
+    {
+      "id": "evolves_from-05",
+      "before_relation": "evolves_from",
+      "left": {
+        "type": "change",
+        "card_id": "claude-code-2026-01-09-b218b1",
+        "product": "claude-code",
+        "product_name": "Claude Code",
+        "source_release": "claude-code-2026-01-09-v2-1-2-github-275344737-27089666",
+        "date": "2026-01-09",
+        "title": "Added `FORCE_AUTOUPDATE_PLUGINS` environment variable to allow plugin autoupdate",
+        "slug": "added-force-autoupdate-plugins-environment-variable-to-allow-plugin-autoupdate-e",
+        "theme": "apps-integrations",
+        "impact": "incremental",
+        "description": "Added `FORCE_AUTOUPDATE_PLUGINS` environment variable to allow plugin autoupdate even when the main auto-updater is disabled",
+        "comparison": "",
+        "evidence": [
+          {
+            "source_release": "https://github.com/anthropics/claude-code/releases/tag/v2.1.2",
+            "quote": "Added `FORCE_AUTOUPDATE_PLUGINS` environment variable to allow plugin autoupdate even when the main auto-updater is disabled"
+          }
+        ],
+        "extractor_version": "fallback-v2"
+      },
+      "right": {
+        "type": "change",
+        "card_id": "claude-code-2026-01-13-33c9c4",
+        "product": "claude-code",
+        "product_name": "Claude Code",
+        "source_release": "claude-code-2026-01-13-v2-1-6-github-276206295-e2719d9a",
+        "date": "2026-01-13",
+        "title": "Added automatic discovery of skills from nested `.claude/skills` directories whe",
+        "slug": "added-automatic-discovery-of-skills-from-nested-claude-skills-directories-when-w",
+        "theme": "apps-integrations",
+        "impact": "incremental",
+        "description": "Added automatic discovery of skills from nested `.claude/skills` directories when working with files in subdirectories",
+        "comparison": "",
+        "evidence": [
+          {
+            "source_release": "https://github.com/anthropics/claude-code/releases/tag/v2.1.6",
+            "quote": "Added automatic discovery of skills from nested `.claude/skills` directories when working with files in subdirectories"
+          }
+        ],
+        "extractor_version": "fallback-v2",
+        "theme_resolution": "manual-backfill-review-v1",
+        "theme_matches": []
+      },
+      "expected": "no-semantic-inference",
+      "allowed": "removed or explicitly same-theme-chronology",
+      "reason": "Both records are tagged apps-integrations; the quoted announcements do not state that the later change builds on, adopts, or follows the earlier one. Chronology alone does not justify evolves_from.",
+      "reviewer": "Codex",
+      "human_accepted": true
+    },
+    {
+      "id": "evolves_from-06",
+      "before_relation": "evolves_from",
+      "left": {
+        "type": "change",
+        "card_id": "claude-code-2026-02-28-ba5861",
+        "product": "claude-code",
+        "product_name": "Claude Code",
+        "source_release": "claude-code-2026-02-28-v2-1-63-github-291579549-8767ab9c",
+        "date": "2026-02-28",
+        "title": "Added `ENABLE_CLAUDEAI_MCP_SERVERS=false` env var to opt out from making claude.",
+        "slug": "added-enable-claudeai-mcp-servers-false-env-var-to-opt-out-from-making-claude-ai",
+        "theme": "apps-integrations",
+        "impact": "incremental",
+        "description": "Added `ENABLE_CLAUDEAI_MCP_SERVERS=false` env var to opt out from making claude.ai MCP servers available",
+        "comparison": "",
+        "evidence": [
+          {
+            "source_release": "https://github.com/anthropics/claude-code/releases/tag/v2.1.63",
+            "quote": "Added `ENABLE_CLAUDEAI_MCP_SERVERS=false` env var to opt out from making claude.ai MCP servers available"
+          }
+        ],
+        "extractor_version": "fallback-v2"
+      },
+      "right": {
+        "type": "change",
+        "card_id": "claude-code-2026-03-05-4574a6",
+        "product": "claude-code",
+        "product_name": "Claude Code",
+        "source_release": "claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44",
+        "date": "2026-03-05",
+        "title": "Added the `/claude-api` skill for building applications with the Claude API and",
+        "slug": "added-the-claude-api-skill-for-building-applications-with-the-claude-api-and-ant",
+        "theme": "apps-integrations",
+        "impact": "incremental",
+        "description": "Added the `/claude-api` skill for building applications with the Claude API and Anthropic SDK",
+        "comparison": "",
+        "evidence": [
+          {
+            "source_release": "https://github.com/anthropics/claude-code/releases/tag/v2.1.69",
+            "quote": "Added the `/claude-api` skill for building applications with the Claude API and Anthropic SDK"
+          }
+        ],
+        "extractor_version": "fallback-v2",
+        "theme_resolution": "manual-semantic-rule-v1",
+        "theme_matches": []
+      },
+      "expected": "no-semantic-inference",
+      "allowed": "removed or explicitly same-theme-chronology",
+      "reason": "Both records are tagged apps-integrations; the quoted announcements do not state that the later change builds on, adopts, or follows the earlier one. Chronology alone does not justify evolves_from.",
+      "reviewer": "Codex",
+      "human_accepted": true
+    },
+    {
+      "id": "evolves_from-07",
+      "before_relation": "evolves_from",
+      "left": {
+        "type": "change",
+        "card_id": "claude-code-2026-04-14-705fd6",
+        "product": "claude-code",
+        "product_name": "Claude Code",
+        "source_release": "claude-code-2026-04-14-v2-1-108-github-309009167-35123bd5",
+        "date": "2026-04-14",
+        "title": "Added recap feature to provide context when returning to a session, configurable",
+        "slug": "added-recap-feature-to-provide-context-when-returning-to-a-session-configurable",
+        "theme": "context-window",
+        "impact": "incremental",
+        "description": "Added recap feature to provide context when returning to a session, configurable in /config and manually invocable with /recap; force with `CLAUDE_CODE_ENABLE_AWAY_SUMMARY` if telemetry disabled.",
+        "comparison": "",
+        "evidence": [
+          {
+            "source_release": "https://github.com/anthropics/claude-code/releases/tag/v2.1.108",
+            "quote": "Added recap feature to provide context when returning to a session, configurable in /config and manually invocable with /recap; force with `CLAUDE_CODE_ENABLE_AWAY_SUMMARY` if telemetry disabled."
+          }
+        ],
+        "extractor_version": "fallback-v2"
+      },
+      "right": {
+        "type": "change",
+        "card_id": "claude-code-2026-04-15-980a64",
+        "product": "claude-code",
+        "product_name": "Claude Code",
+        "source_release": "claude-code-2026-04-15-v2-1-110-github-309583669-83ce1e59",
+        "date": "2026-04-15",
+        "title": "Added option to show Claude's last response as commented context in the `Ctrl+G`",
+        "slug": "added-option-to-show-claude-s-last-response-as-commented-context-in-the-ctrl-g-e",
+        "theme": "context-window",
+        "impact": "incremental",
+        "description": "Added option to show Claude's last response as commented context in the `Ctrl+G` external editor (enable via `/config`)",
+        "comparison": "",
+        "evidence": [
+          {
+            "source_release": "https://github.com/anthropics/claude-code/releases/tag/v2.1.110",
+            "quote": "Added option to show Claude's last response as commented context in the `Ctrl+G` external editor (enable via `/config`)"
+          }
+        ],
+        "extractor_version": "fallback-v2",
+        "theme_resolution": "manual-semantic-rule-v1",
+        "theme_matches": [
+          {
+            "theme": "context-window",
+            "score": 50,
+            "matched_terms": [
+              "context"
+            ]
+          },
+          {
+            "theme": "editor-experience",
+            "score": 50,
+            "matched_terms": [
+              "editor"
+            ]
+          }
+        ]
+      },
+      "expected": "no-semantic-inference",
+      "allowed": "removed or explicitly same-theme-chronology",
+      "reason": "Both records are tagged context-window; the quoted announcements do not state that the later change builds on, adopts, or follows the earlier one. Chronology alone does not justify evolves_from.",
+      "reviewer": "Codex",
+      "human_accepted": true
+    },
+    {
+      "id": "evolves_from-08",
+      "before_relation": "evolves_from",
+      "left": {
+        "type": "change",
+        "card_id": "cursor-2026-05-19-3df236",
+        "product": "cursor",
+        "product_name": "Cursor",
+        "source_release": "cursor-2026-05-19-cursor-in-jira-https-cursor-com-changelog-05-19-26-4a0261e4",
+        "date": "2026-05-19",
+        "title": "Cursor is now available in Jira.",
+        "slug": "cursor-is-now-available-in-jira",
+        "theme": "apps-integrations",
+        "impact": "incremental",
+        "description": "Cursor is now available in Jira.",
+        "comparison": "",
+        "evidence": [
+          {
+            "source_release": "https://cursor.com/changelog/05-19-26",
+            "quote": "Cursor is now available in Jira."
+          }
+        ],
+        "extractor_version": "fallback-v2",
+        "theme_resolution": "manual-semantic-rule-v1",
+        "theme_matches": []
+      },
+      "right": {
+        "type": "change",
+        "card_id": "cursor-2026-05-19-6f8441",
+        "product": "cursor",
+        "product_name": "Cursor",
+        "source_release": "cursor-2026-05-19-cursor-in-jira-https-cursor-com-changelog-05-19-26-4a0261e4",
+        "date": "2026-05-19",
+        "title": "You can ask Cursor to fix bugs, add features, update tests, or investigate somet",
+        "slug": "you-can-ask-cursor-to-fix-bugs-add-features-update-tests-or-investigate-somethin",
+        "theme": "apps-integrations",
+        "impact": "paradigm-shift",
+        "description": "You can ask Cursor to fix bugs, add features, update tests, or investigate something described in the ticket. When the agent finishes, Jira shows completion updates and includes a link to the pull request.",
+        "comparison": "",
+        "evidence": [
+          {
+            "source_release": "https://cursor.com/changelog/05-19-26",
+            "quote": "You can ask Cursor to fix bugs, add features, update tests, or investigate something described in the ticket. When the agent finishes, Jira shows completion updates and includes a link to the pull request."
+          }
+        ],
+        "extractor_version": "fallback-v2",
+        "theme_resolution": "manual-semantic-rule-v1",
+        "theme_matches": [
+          {
+            "theme": "developer-workflow",
+            "score": 60,
+            "matched_terms": [
+              "pull request"
+            ]
+          },
+          {
+            "theme": "agent-mode",
+            "score": 50,
+            "matched_terms": [
+              "agent"
+            ]
+          },
+          {
+            "theme": "editor-experience",
+            "score": 50,
+            "matched_terms": [
+              "completion"
+            ]
+          }
+        ],
+        "ai_generated": true,
+        "confidence": "low"
+      },
+      "expected": "no-semantic-inference",
+      "allowed": "removed or explicitly same-theme-chronology",
+      "reason": "Both records are tagged apps-integrations; the quoted announcements do not state that the later change builds on, adopts, or follows the earlier one. Chronology alone does not justify evolves_from.",
+      "reviewer": "Codex",
+      "human_accepted": true
+    },
+    {
+      "id": "evolves_from-09",
+      "before_relation": "evolves_from",
+      "left": {
+        "type": "change",
+        "card_id": "cursor-2026-06-22-9e3376",
+        "product": "cursor",
+        "product_name": "Cursor",
+        "source_release": "cursor-2026-06-22-3-9-https-cursor-com-changelog-customize-7ff4b6b2",
+        "date": "2026-06-22",
+        "title": "Add any to your setup with one click from the new Customize page and extend Curs",
+        "slug": "add-any-to-your-setup-with-one-click-from-the-new-customize-page-and-extend-curs",
+        "theme": "apps-integrations",
+        "impact": "significant",
+        "description": "Add any to your setup with one click from the new Customize page and extend Cursor for your workflow.",
+        "comparison": "",
+        "evidence": [
+          {
+            "source_release": "https://cursor.com/changelog/customize",
+            "quote": "Add any to your setup with one click from the new Customize page and extend Cursor for your workflow."
+          }
+        ],
+        "extractor_version": "fallback-v2",
+        "theme_resolution": "manual-backfill-review-v1",
+        "theme_matches": [],
+        "ai_generated": true,
+        "confidence": "low"
+      },
+      "right": {
+        "type": "change",
+        "card_id": "cursor-2026-06-22-c21c4b",
+        "product": "cursor",
+        "product_name": "Cursor",
+        "source_release": "cursor-2026-06-22-3-9-https-cursor-com-changelog-customize-7ff4b6b2",
+        "date": "2026-06-22",
+        "title": "Marketplace leaderboard",
+        "slug": "marketplace-leaderboard",
+        "theme": "apps-integrations",
+        "impact": "incremental",
+        "description": "Marketplace leaderboard",
+        "comparison": "",
+        "evidence": [
+          {
+            "source_release": "https://cursor.com/changelog/customize",
+            "quote": "Marketplace leaderboard"
+          }
+        ],
+        "extractor_version": "fallback-v2",
+        "theme_resolution": "manual-backfill-review-v1",
+        "theme_matches": []
+      },
+      "expected": "no-semantic-inference",
+      "allowed": "removed or explicitly same-theme-chronology",
+      "reason": "Both records are tagged apps-integrations; the quoted announcements do not state that the later change builds on, adopts, or follows the earlier one. Chronology alone does not justify evolves_from.",
+      "reviewer": "Codex",
+      "human_accepted": true
+    },
+    {
+      "id": "evolves_from-10",
+      "before_relation": "evolves_from",
+      "left": {
+        "type": "change",
+        "card_id": "cursor-2026-07-29-deb3b9",
+        "product": "cursor",
+        "product_name": "Cursor",
+        "source_release": "cursor-2026-07-29-cursor-now-on-ipad-https-cursor-com-changelog-ipad-d2eeee4c",
+        "date": "2026-07-29",
+        "title": "New to both iPhone and iPad: an inbox to stay organized, and a review experience",
+        "slug": "new-to-both-iphone-and-ipad-an-inbox-to-stay-organized-and-a-review-experience-t",
+        "theme": "mobile-desktop",
+        "impact": "significant",
+        "description": "New to both iPhone and iPad: an inbox to stay organized, and a review experience that covers the full PR. Create, review, and merge from anywhere.",
+        "comparison": "",
+        "evidence": [
+          {
+            "source_release": "https://cursor.com/changelog/ipad",
+            "quote": "New to both iPhone and iPad: an inbox to stay organized, and a review experience that covers the full PR. Create, review, and merge from anywhere."
+          }
+        ],
+        "extractor_version": "fallback-v2",
+        "ai_generated": true,
+        "confidence": "low"
+      },
+      "right": {
+        "type": "change",
+        "card_id": "cursor-2026-07-29-f2dc75",
+        "product": "cursor",
+        "product_name": "Cursor",
+        "source_release": "cursor-2026-07-29-cursor-now-on-ipad-https-cursor-com-changelog-ipad-d2eeee4c",
+        "date": "2026-07-29",
+        "title": "Built for the bigger screen",
+        "slug": "built-for-the-bigger-screen",
+        "theme": "mobile-desktop",
+        "impact": "incremental",
+        "description": "Built for the bigger screen",
+        "comparison": "",
+        "evidence": [
+          {
+            "source_release": "https://cursor.com/changelog/ipad",
+            "quote": "Built for the bigger screen"
+          }
+        ],
+        "extractor_version": "fallback-v2",
+        "theme_resolution": "manual-backfill-review-v1",
+        "theme_matches": []
+      },
+      "expected": "no-semantic-inference",
+      "allowed": "removed or explicitly same-theme-chronology",
+      "reason": "Both records are tagged mobile-desktop; the quoted announcements do not state that the later change builds on, adopts, or follows the earlier one. Chronology alone does not justify evolves_from.",
+      "reviewer": "Codex",
+      "human_accepted": true
+    },
+    {
+      "id": "cross_product-01",
+      "before_relation": "cross_product",
+      "left": {
+        "type": "change",
+        "card_id": "chatgpt-2023-01-09-254e7f",
+        "product": "chatgpt",
+        "product_name": "ChatGPT",
+        "source_release": "chatgpt-2023-01-09-updates-to-chatgpt-0d776ee3",
+        "date": "2023-01-09",
+        "title": "Stop generating: Based on your feedback, we've added the ability to stop generat",
+        "slug": "stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin",
+        "theme": "interface-experience",
+        "impact": "incremental",
+        "description": "Stop generating: Based on your feedback, we've added the ability to stop generating ChatGPT's response",
+        "comparison": "",
+        "evidence": [
+          {
+            "source_release": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_b1c7f24762",
+            "quote": "Stop generating: Based on your feedback, we've added the ability to stop generating ChatGPT's response"
+          }
+        ],
+        "extractor_version": "fallback-v2",
+        "theme_resolution": "manual-semantic-rule-v1",
+        "theme_matches": []
+      },
+      "right": {
+        "type": "change",
+        "card_id": "cursor-2023-03-18-c2266e",
+        "product": "cursor",
+        "product_name": "Cursor",
+        "source_release": "cursor-2023-03-18-0-1-2-https-cursor-com-changelog-0-1-2-154cc875",
+        "date": "2023-03-18",
+        "title": "Can open chat history from the prompt bar",
+        "slug": "can-open-chat-history-from-the-prompt-bar",
+        "theme": "interface-experience",
+        "impact": "incremental",
+        "description": "Can open chat history from the prompt bar",
+        "comparison": "",
+        "evidence": [
+          {
+            "source_release": "https://cursor.com/changelog/0-1-2",
+            "quote": "Can open chat history from the prompt bar"
+          }
+        ],
+        "extractor_version": "fallback-v2",
+        "theme_resolution": "manual-semantic-rule-v1",
+        "theme_matches": []
+      },
+      "expected": "no-semantic-inference",
+      "allowed": "removed or explicitly same-theme-chronology",
+      "reason": "Both records are tagged interface-experience; the quoted announcements do not state that the later change builds on, adopts, or follows the earlier one. Chronology alone does not justify cross_product.",
+      "reviewer": "Codex",
+      "human_accepted": true
+    },
+    {
+      "id": "cross_product-02",
+      "before_relation": "cross_product",
+      "left": {
+        "type": "change",
+        "card_id": "cursor-2023-11-27-1702a4",
+        "product": "cursor",
+        "product_name": "Cursor",
+        "source_release": "cursor-2023-11-27-0-17-0-https-cursor-com-changelog-0-17-0-871d6ce3",
+        "date": "2023-11-27",
+        "title": "Image Support in Chat: You can now drag and drop images into the chat to send th",
+        "slug": "image-support-in-chat-you-can-now-drag-and-drop-images-into-the-chat-to-send-the",
+        "theme": "multimodal",
+        "impact": "significant",
+        "description": "Image Support in Chat: You can now drag and drop images into the chat to send them to the AI.",
+        "comparison": "",
+        "evidence": [
+          {
+            "source_release": "https://cursor.com/changelog/0-17-0",
+            "quote": "Image Support in Chat: You can now drag and drop images into the chat to send them to the AI."
+          }
+        ],
+        "extractor_version": "fallback-v2",
+        "theme_resolution": "manual-backfill-review-v1",
+        "theme_matches": [],
+        "ai_generated": true,
+        "confidence": "low"
+      },
+      "right": {
+        "type": "change",
+        "card_id": "chatgpt-2024-12-12-5a71ee",
+        "product": "chatgpt",
+        "product_name": "ChatGPT",
+        "source_release": "chatgpt-2024-12-12-santa-voice-and-video-and-screen-share-in-voice-chats-89eb483d",
+        "date": "2024-12-12",
+        "title": "Use the controls at the bottom of the screen, like the camera button below, to g",
+        "slug": "use-the-controls-at-the-bottom-of-the-screen-like-the-camera-button-below-to-get",
+        "theme": "multimodal",
+        "impact": "incremental",
+        "description": "Use the controls at the bottom of the screen, like the camera button below, to get started. You can find screen share and image upload controls under the “...” menu at the bottom of the screen.",
+        "comparison": "",
+        "evidence": [
+          {
+            "source_release": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_45b0e6f55e",
+            "quote": "Use the controls at the bottom of the screen, like the camera button below, to get started. You can find screen share and image upload controls under the “...” menu at the bottom of the screen."
+          }
+        ],
+        "extractor_version": "fallback-v2",
+        "theme_matches": [
+          {
+            "theme": "multimodal",
+            "score": 110,
+            "matched_terms": [
+              "camera",
+              "screen share"
+            ]
+          },
+          {
+            "theme": "interface-experience",
+            "score": 50,
+            "matched_terms": [
+              "menu"
+            ]
+          }
+        ]
+      },
+      "expected": "no-semantic-inference",
+      "allowed": "removed or explicitly same-theme-chronology",
+      "reason": "Both records are tagged multimodal; the quoted announcements do not state that the later change builds on, adopts, or follows the earlier one. Chronology alone does not justify cross_product.",
+      "reviewer": "Codex",
+      "human_accepted": true
+    },
+    {
+      "id": "cross_product-03",
+      "before_relation": "cross_product",
+      "left": {
+        "type": "change",
+        "card_id": "chatgpt-2024-12-12-5a71ee",
+        "product": "chatgpt",
+        "product_name": "ChatGPT",
+        "source_release": "chatgpt-2024-12-12-santa-voice-and-video-and-screen-share-in-voice-chats-89eb483d",
+        "date": "2024-12-12",
+        "title": "Use the controls at the bottom of the screen, like the camera button below, to g",
+        "slug": "use-the-controls-at-the-bottom-of-the-screen-like-the-camera-button-below-to-get",
+        "theme": "multimodal",
+        "impact": "incremental",
+        "description": "Use the controls at the bottom of the screen, like the camera button below, to get started. You can find screen share and image upload controls under the “...” menu at the bottom of the screen.",
+        "comparison": "",
+        "evidence": [
+          {
+            "source_release": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_45b0e6f55e",
+            "quote": "Use the controls at the bottom of the screen, like the camera button below, to get started. You can find screen share and image upload controls under the “...” menu at the bottom of the screen."
+          }
+        ],
+        "extractor_version": "fallback-v2",
+        "theme_matches": [
+          {
+            "theme": "multimodal",
+            "score": 110,
+            "matched_terms": [
+              "camera",
+              "screen share"
+            ]
+          },
+          {
+            "theme": "interface-experience",
+            "score": 50,
+            "matched_terms": [
+              "menu"
+            ]
+          }
+        ]
+      },
+      "right": {
+        "type": "change",
+        "card_id": "claude-code-2025-12-19-4f76b7",
+        "product": "claude-code",
+        "product_name": "Claude Code",
+        "source_release": "claude-code-2025-12-19-v2-0-73-github-271620087-160adbe9",
+        "date": "2025-12-19",
+        "title": "Added clickable `[Image #N]` links that open attached images in the default view",
+        "slug": "added-clickable-image-n-links-that-open-attached-images-in-the-default-viewer",
+        "theme": "multimodal",
+        "impact": "incremental",
+        "description": "Added clickable `[Image #N]` links that open attached images in the default viewer",
+        "comparison": "",
+        "evidence": [
+          {
+            "source_release": "https://github.com/anthropics/claude-code/releases/tag/v2.0.73",
+            "quote": "Added clickable `[Image #N]` links that open attached images in the default viewer"
+          }
+        ],
+        "extractor_version": "fallback-v2",
+        "theme_resolution": "manual-backfill-review-v1",
+        "theme_matches": []
+      },
+      "expected": "no-semantic-inference",
+      "allowed": "removed or explicitly same-theme-chronology",
+      "reason": "Both records are tagged multimodal; the quoted announcements do not state that the later change builds on, adopts, or follows the earlier one. Chronology alone does not justify cross_product.",
+      "reviewer": "Codex",
+      "human_accepted": true
+    },
+    {
+      "id": "cross_product-04",
+      "before_relation": "cross_product",
+      "left": {
+        "type": "change",
+        "card_id": "claude-code-2026-02-06-a4375b",
+        "product": "claude-code",
+        "product_name": "Claude Code",
+        "source_release": "claude-code-2026-02-06-v2-1-33-github-283581096-0f5b01a0",
+        "date": "2026-02-06",
+        "title": "Added plugin name to skill descriptions and `/skills` menu for better discoverab",
+        "slug": "added-plugin-name-to-skill-descriptions-and-skills-menu-for-better-discoverabili",
+        "theme": "apps-integrations",
+        "impact": "incremental",
+        "description": "Added plugin name to skill descriptions and `/skills` menu for better discoverability",
+        "comparison": "",
+        "evidence": [
+          {
+            "source_release": "https://github.com/anthropics/claude-code/releases/tag/v2.1.33",
+            "quote": "Added plugin name to skill descriptions and `/skills` menu for better discoverability"
+          }
+        ],
+        "extractor_version": "fallback-v2",
+        "theme_resolution": "manual-semantic-rule-v1",
+        "theme_matches": [
+          {
+            "theme": "apps-integrations",
+            "score": 50,
+            "matched_terms": [
+              "plugin"
+            ]
+          },
+          {
+            "theme": "interface-experience",
+            "score": 50,
+            "matched_terms": [
+              "menu"
+            ]
+          }
+        ]
+      },
+      "right": {
+        "type": "change",
+        "card_id": "cursor-2026-02-17-7bed14",
+        "product": "cursor",
+        "product_name": "Cursor",
+        "source_release": "cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320",
+        "date": "2026-02-17",
+        "title": "Plugins package skills, subagents, MCP servers, hooks, and rules, into a single",
+        "slug": "plugins-package-skills-subagents-mcp-servers-hooks-and-rules-into-a-single-insta",
+        "theme": "apps-integrations",
+        "impact": "incremental",
+        "description": "Plugins package skills, subagents, MCP servers, hooks, and rules, into a single install. The Cursor Marketplace lets you discover and install plugins to extend Cursor with pre-built capabilities.",
+        "comparison": "",
+        "evidence": [
+          {
+            "source_release": "https://cursor.com/changelog/2-5",
+            "quote": "Plugins package skills, subagents, MCP servers, hooks, and rules, into a single install. The Cursor Marketplace lets you discover and install plugins to extend Cursor with pre-built capabilities."
+          }
+        ],
+        "extractor_version": "fallback-v2",
+        "theme_matches": [
+          {
+            "theme": "apps-integrations",
+            "score": 100,
+            "matched_terms": [
+              "mcp",
+              "plugins"
+            ]
+          },
+          {
+            "theme": "agent-mode",
+            "score": 50,
+            "matched_terms": [
+              "subagents"
+            ]
+          }
+        ]
+      },
+      "expected": "no-semantic-inference",
+      "allowed": "removed or explicitly same-theme-chronology",
+      "reason": "Both records are tagged apps-integrations; the quoted announcements do not state that the later change builds on, adopts, or follows the earlier one. Chronology alone does not justify cross_product.",
+      "reviewer": "Codex",
+      "human_accepted": true
+    },
+    {
+      "id": "cross_product-05",
+      "before_relation": "cross_product",
+      "left": {
+        "type": "change",
+        "card_id": "claude-code-2026-03-04-3a458d",
+        "product": "claude-code",
+        "product_name": "Claude Code",
+        "source_release": "claude-code-2026-03-04-v2-1-68-github-292908895-c7aaa3de",
+        "date": "2026-03-04",
+        "title": "Opus 4.6 now defaults to medium effort for Max and Team subscribers. Medium effo",
+        "slug": "opus-4-6-now-defaults-to-medium-effort-for-max-and-team-subscribers-medium-effor",
+        "theme": "model-support",
+        "impact": "significant",
+        "description": "Opus 4.6 now defaults to medium effort for Max and Team subscribers. Medium effort works well for most tasks — it's the sweet spot between speed and thoroughness. You can change this anytime with `/model`",
+        "comparison": "",
+        "evidence": [
+          {
+            "source_release": "https://github.com/anthropics/claude-code/releases/tag/v2.1.68",
+            "quote": "Opus 4.6 now defaults to medium effort for Max and Team subscribers. Medium effort works well for most tasks — it's the sweet spot between speed and thoroughness. You can change this anytime with `/model`"
+          }
+        ],
+        "extractor_version": "fallback-v2",
+        "theme_resolution": "manual-semantic-rule-v2",
+        "theme_matches": [
+          {
+            "theme": "model-support",
+            "score": 100,
+            "matched_terms": [
+              "model",
+              "opus"
+            ]
+          },
+          {
+            "theme": "collaboration",
+            "score": 50,
+            "matched_terms": [
+              "team"
+            ]
+          },
+          {
+            "theme": "reliability-performance",
+            "score": 50,
+            "matched_terms": [
+              "speed"
+            ]
+          }
+        ],
+        "ai_generated": true,
+        "confidence": "low"
+      },
+      "right": {
+        "type": "change",
+        "card_id": "chatgpt-2026-03-16-e8105e",
+        "product": "chatgpt",
+        "product_name": "ChatGPT",
+        "source_release": "chatgpt-2026-03-16-gpt-5-3-instant-update-a32de9bf",
+        "date": "2026-03-16",
+        "title": "We’re rolling out an update to GPT-5.3 Instant that improves follow-up tone and",
+        "slug": "we-re-rolling-out-an-update-to-gpt-5-3-instant-that-improves-follow-up-tone-and",
+        "theme": "model-support",
+        "impact": "incremental",
+        "description": "We’re rolling out an update to GPT-5.3 Instant that improves follow-up tone and reduces teaser-style phrasing in responses (e.g., “If you want…”, “You’ll never believe…”, “I can tell you these three things that…”).",
+        "comparison": "",
+        "evidence": [
+          {
+            "source_release": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-53-instant-update",
+            "quote": "We’re rolling out an update to GPT-5.3 Instant that improves follow-up tone and reduces teaser-style phrasing in responses (e.g., “If you want…”, “You’ll never believe…”, “I can tell you these three things that…”)."
+          }
+        ],
+        "extractor_version": "fallback-v2"
+      },
+      "expected": "no-semantic-inference",
+      "allowed": "removed or explicitly same-theme-chronology",
+      "reason": "Both records are tagged model-support; the quoted announcements do not state that the later change builds on, adopts, or follows the earlier one. Chronology alone does not justify cross_product.",
+      "reviewer": "Codex",
+      "human_accepted": true
+    },
+    {
+      "id": "cross_product-06",
+      "before_relation": "cross_product",
+      "left": {
+        "type": "change",
+        "card_id": "cursor-2026-04-13-b114ee",
+        "product": "cursor",
+        "product_name": "Cursor",
+        "source_release": "cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313",
+        "date": "2026-04-13",
+        "title": "Tiled layout",
+        "slug": "tiled-layout",
+        "theme": "interface-experience",
+        "impact": "incremental",
+        "description": "Tiled layout",
+        "comparison": "",
+        "evidence": [
+          {
+            "source_release": "https://cursor.com/changelog/3-1",
+            "quote": "Tiled layout"
+          }
+        ],
+        "extractor_version": "fallback-v2",
+        "theme_resolution": "manual-backfill-review-v1",
+        "theme_matches": []
+      },
+      "right": {
+        "type": "change",
+        "card_id": "claude-code-2026-04-15-308081",
+        "product": "claude-code",
+        "product_name": "Claude Code",
+        "source_release": "claude-code-2026-04-15-v2-1-110-github-309583669-83ce1e59",
+        "date": "2026-04-15",
+        "title": "Added `autoScrollEnabled` config to disable conversation auto-scroll in fullscre",
+        "slug": "added-autoscrollenabled-config-to-disable-conversation-auto-scroll-in-fullscreen",
+        "theme": "interface-experience",
+        "impact": "incremental",
+        "description": "Added `autoScrollEnabled` config to disable conversation auto-scroll in fullscreen mode",
+        "comparison": "",
+        "evidence": [
+          {
+            "source_release": "https://github.com/anthropics/claude-code/releases/tag/v2.1.110",
+            "quote": "Added `autoScrollEnabled` config to disable conversation auto-scroll in fullscreen mode"
+          }
+        ],
+        "extractor_version": "fallback-v2"
+      },
+      "expected": "no-semantic-inference",
+      "allowed": "removed or explicitly same-theme-chronology",
+      "reason": "Both records are tagged interface-experience; the quoted announcements do not state that the later change builds on, adopts, or follows the earlier one. Chronology alone does not justify cross_product.",
+      "reviewer": "Codex",
+      "human_accepted": true
+    },
+    {
+      "id": "cross_product-07",
+      "before_relation": "cross_product",
+      "left": {
+        "type": "change",
+        "card_id": "cursor-2026-05-11-df0e2b",
+        "product": "cursor",
+        "product_name": "Cursor",
+        "source_release": "cursor-2026-05-11-cursor-in-microsoft-teams-https-cursor-com-changelog-microsoft-t-26de16e4",
+        "date": "2026-05-11",
+        "title": "Get started by installing the integration in the Cursor dashboard. Learn more in",
+        "slug": "get-started-by-installing-the-integration-in-the-cursor-dashboard-learn-more-in",
+        "theme": "apps-integrations",
+        "impact": "significant",
+        "description": "Get started by installing the integration in the Cursor dashboard. Learn more in our docs.",
+        "comparison": "",
+        "evidence": [
+          {
+            "source_release": "https://cursor.com/changelog/microsoft-teams",
+            "quote": "Get started by installing the integration in the Cursor dashboard. Learn more in our docs."
+          }
+        ],
+        "extractor_version": "fallback-v2",
+        "ai_generated": true,
+        "confidence": "low"
+      },
+      "right": {
+        "type": "change",
+        "card_id": "claude-code-2026-05-13-df56c4",
+        "product": "claude-code",
+        "product_name": "Claude Code",
+        "source_release": "claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22",
+        "date": "2026-05-13",
+        "title": "Added `terminalSequence` field to hook JSON output so hooks can emit desktop not",
+        "slug": "added-terminalsequence-field-to-hook-json-output-so-hooks-can-emit-desktop-notif",
+        "theme": "apps-integrations",
+        "impact": "incremental",
+        "description": "Added `terminalSequence` field to hook JSON output so hooks can emit desktop notifications, window titles, and bells without a controlling terminal",
+        "comparison": "",
+        "evidence": [
+          {
+            "source_release": "https://github.com/anthropics/claude-code/releases/tag/v2.1.141",
+            "quote": "Added `terminalSequence` field to hook JSON output so hooks can emit desktop notifications, window titles, and bells without a controlling terminal"
+          }
+        ],
+        "extractor_version": "fallback-v2",
+        "theme_resolution": "manual-semantic-rule-v1",
+        "theme_matches": [
+          {
+            "theme": "developer-workflow",
+            "score": 50,
+            "matched_terms": [
+              "terminal"
+            ]
+          },
+          {
+            "theme": "mobile-desktop",
+            "score": 50,
+            "matched_terms": [
+              "desktop"
+            ]
+          }
+        ]
+      },
+      "expected": "no-semantic-inference",
+      "allowed": "removed or explicitly same-theme-chronology",
+      "reason": "Both records are tagged apps-integrations; the quoted announcements do not state that the later change builds on, adopts, or follows the earlier one. Chronology alone does not justify cross_product.",
+      "reviewer": "Codex",
+      "human_accepted": true
+    },
+    {
+      "id": "cross_product-08",
+      "before_relation": "cross_product",
+      "left": {
+        "type": "change",
+        "card_id": "cursor-2026-06-04-215f02",
+        "product": "cursor",
+        "product_name": "Cursor",
+        "source_release": "cursor-2026-06-04-3-7-https-cursor-com-changelog-canvas-improvements-6f42df85",
+        "date": "2026-06-04",
+        "title": "Context usage report in canvas",
+        "slug": "context-usage-report-in-canvas",
+        "theme": "context-window",
+        "impact": "incremental",
+        "description": "Context usage report in canvas",
+        "comparison": "",
+        "evidence": [
+          {
+            "source_release": "https://cursor.com/changelog/canvas-improvements",
+            "quote": "Context usage report in canvas"
+          }
+        ],
+        "extractor_version": "fallback-v2",
+        "theme_resolution": "manual-semantic-rule-v1",
+        "theme_matches": [
+          {
+            "theme": "context-window",
+            "score": 50,
+            "matched_terms": [
+              "context"
+            ]
+          },
+          {
+            "theme": "file-data",
+            "score": 50,
+            "matched_terms": [
+              "canvas"
+            ]
+          }
+        ]
+      },
+      "right": {
+        "type": "change",
+        "card_id": "claude-code-2026-06-08-c60825",
+        "product": "claude-code",
+        "product_name": "Claude Code",
+        "source_release": "claude-code-2026-06-08-v2-1-169-github-336158564-d513d69d",
+        "date": "2026-06-08",
+        "title": "Added `/cd` command to move a session to a new working directory without breakin",
+        "slug": "added-cd-command-to-move-a-session-to-a-new-working-directory-without-breaking-t",
+        "theme": "context-window",
+        "impact": "significant",
+        "description": "Added `/cd` command to move a session to a new working directory without breaking the prompt cache mid-session",
+        "comparison": "",
+        "evidence": [
+          {
+            "source_release": "https://github.com/anthropics/claude-code/releases/tag/v2.1.169",
+            "quote": "Added `/cd` command to move a session to a new working directory without breaking the prompt cache mid-session"
+          }
+        ],
+        "extractor_version": "fallback-v2",
+        "theme_resolution": "manual-semantic-rule-v1",
+        "theme_matches": [],
+        "ai_generated": true,
+        "confidence": "low"
+      },
+      "expected": "no-semantic-inference",
+      "allowed": "removed or explicitly same-theme-chronology",
+      "reason": "Both records are tagged context-window; the quoted announcements do not state that the later change builds on, adopts, or follows the earlier one. Chronology alone does not justify cross_product.",
+      "reviewer": "Codex",
+      "human_accepted": true
+    },
+    {
+      "id": "cross_product-09",
+      "before_relation": "cross_product",
+      "left": {
+        "type": "change",
+        "card_id": "claude-code-2026-06-26-3f8647",
+        "product": "claude-code",
+        "product_name": "Claude Code",
+        "source_release": "claude-code-2026-06-26-v2-1-195-github-345467919-2d39e460",
+        "date": "2026-06-26",
+        "title": "Improved `claude agents` completed list to fill available vertical space; on sho",
+        "slug": "improved-claude-agents-completed-list-to-fill-available-vertical-space-on-short",
+        "theme": "agent-mode",
+        "impact": "incremental",
+        "description": "Improved `claude agents` completed list to fill available vertical space; on short terminals the header compacts so live sessions stay visible",
+        "comparison": "",
+        "evidence": [
+          {
+            "source_release": "https://github.com/anthropics/claude-code/releases/tag/v2.1.195",
+            "quote": "Improved `claude agents` completed list to fill available vertical space; on short terminals the header compacts so live sessions stay visible"
+          }
+        ],
+        "extractor_version": "fallback-v2"
+      },
+      "right": {
+        "type": "change",
+        "card_id": "cursor-2026-06-29-40b244",
+        "product": "cursor",
+        "product_name": "Cursor",
+        "source_release": "cursor-2026-06-29-3-9-https-cursor-com-changelog-ios-mobile-app-d7278607",
+        "date": "2026-06-29",
+        "title": "Cloud agents run in isolated virtual machines with full development environments",
+        "slug": "cloud-agents-run-in-isolated-virtual-machines-with-full-development-environments",
+        "theme": "agent-mode",
+        "impact": "incremental",
+        "description": "Cloud agents run in isolated virtual machines with full development environments to test, verify, and demo work. Move sessions from local to cloud to keep them running with your laptop closed.",
+        "comparison": "",
+        "evidence": [
+          {
+            "source_release": "https://cursor.com/changelog/ios-mobile-app",
+            "quote": "Cloud agents run in isolated virtual machines with full development environments to test, verify, and demo work. Move sessions from local to cloud to keep them running with your laptop closed."
+          }
+        ],
+        "extractor_version": "fallback-v2"
+      },
+      "expected": "no-semantic-inference",
+      "allowed": "removed or explicitly same-theme-chronology",
+      "reason": "Both records are tagged agent-mode; the quoted announcements do not state that the later change builds on, adopts, or follows the earlier one. Chronology alone does not justify cross_product.",
+      "reviewer": "Codex",
+      "human_accepted": true
+    },
+    {
+      "id": "cross_product-10",
+      "before_relation": "cross_product",
+      "left": {
+        "type": "change",
+        "card_id": "claude-code-2026-07-21-25f32d",
+        "product": "claude-code",
+        "product_name": "Claude Code",
+        "source_release": "claude-code-2026-07-21-v2-1-217-github-357601516-b5c19f5d",
+        "date": "2026-07-21",
+        "title": "Changed the login-expiry warning to appear 3 days before expiry instead of 5",
+        "slug": "changed-the-login-expiry-warning-to-appear-3-days-before-expiry-instead-of-5",
+        "theme": "account-access",
+        "impact": "incremental",
+        "description": "Changed the login-expiry warning to appear 3 days before expiry instead of 5",
+        "comparison": "",
+        "evidence": [
+          {
+            "source_release": "https://github.com/anthropics/claude-code/releases/tag/v2.1.217",
+            "quote": "Changed the login-expiry warning to appear 3 days before expiry instead of 5"
+          }
+        ],
+        "extractor_version": "fallback-v2"
+      },
+      "right": {
+        "type": "change",
+        "card_id": "chatgpt-2026-07-29-b0c690",
+        "product": "chatgpt",
+        "product_name": "ChatGPT",
+        "source_release": "chatgpt-2026-07-29-sign-in-with-chatgpt-beta-98094157",
+        "date": "2026-07-29",
+        "title": "We’re beginning to roll out Sign in with ChatGPT in beta across select plugins a",
+        "slug": "we-re-beginning-to-roll-out-sign-in-with-chatgpt-in-beta-across-select-plugins-a",
+        "theme": "account-access",
+        "impact": "incremental",
+        "description": "We’re beginning to roll out Sign in with ChatGPT in beta across select plugins and partner sites, starting with Airtable, GitLab, HubSpot, Notion, Supabase, and Vercel.",
+        "comparison": "",
+        "evidence": [
+          {
+            "source_release": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#sign-in-with-chatgpt-beta",
+            "quote": "We’re beginning to roll out Sign in with ChatGPT in beta across select plugins and partner sites, starting with Airtable, GitLab, HubSpot, Notion, Supabase, and Vercel."
+          }
+        ],
+        "extractor_version": "fallback-v2",
+        "theme_resolution": "manual-semantic-rule-v1",
+        "theme_matches": [
+          {
+            "theme": "account-access",
+            "score": 60,
+            "matched_terms": [
+              "sign in"
+            ]
+          },
+          {
+            "theme": "apps-integrations",
+            "score": 50,
+            "matched_terms": [
+              "plugins"
+            ]
+          }
+        ]
+      },
+      "expected": "no-semantic-inference",
+      "allowed": "removed or explicitly same-theme-chronology",
+      "reason": "Both records are tagged account-access; the quoted announcements do not state that the later change builds on, adopts, or follows the earlier one. Chronology alone does not justify cross_product.",
+      "reviewer": "Codex",
+      "human_accepted": true
+    }
+  ],
+  "review_status": "Codex-reviewed; human acceptance passed on 2026-10-13",
+  "human_acceptance": {
+    "status": "passed",
+    "date": "2026-10-13",
+    "timezone": "Asia/Shanghai",
+    "reviewer": "project user in current conversation",
+    "statement": "人工复核通过。",
+    "scope": "M2 review packet: C01-C60, R01-R20, ChatGPT product and agent-mode/pricing-model narratives; B4-B6",
+    "method": "User accepted the existing review packet as a whole; no separate per-item score sheet was supplied."
+  }
+}

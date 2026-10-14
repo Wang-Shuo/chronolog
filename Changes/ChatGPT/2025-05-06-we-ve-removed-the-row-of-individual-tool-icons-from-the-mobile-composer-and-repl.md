@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-03-18-improved-table-copying-functionality-out-of-chatgpt-responses-on-ios-and-macos|chatgpt-2025-03-18-92f17b]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: faad9c0debb9555767b512cba6d49324e2a4287c7eecb3f81561b1b0a62fb3c0
+machine_hash: d06ead4d5bd7f41a114e88b9359245b90914d62ab9ec044ac572a87488dfcd6a
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-03-18-we-have-been-working-on-a-variety-of-usability-and-performance-improvements-and|chatgpt-2025-03-18-3de287]]'
 - '[[Changes/ChatGPT/2025-03-18-improved-table-copying-functionality-out-of-chatgpt-responses-on-ios-and-macos|chatgpt-2025-03-18-92f17b]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-06-mobile-ui-ios-android-changing-on-free-plus-pro-plans-be1d56cb|chatgpt-2025-05-06-mobile-ui-ios-android-changing-on-free-plus-pro-plans-be1d56cb]]'
+superseded: true
 theme: mobile-desktop
 type: change
 ---

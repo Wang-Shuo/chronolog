@@ -3,31 +3,55 @@ card_id: cursor-2025-03-11-0d40ed
 date: '2025-03-11'
 diffusion:
   first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 792
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: model-support
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Cursor/2025-01-23-better-codebase-understanding-we-ve-trained-a-new-model-for-codebase-understandi|cursor-2025-01-23-b4d95f]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 8bc2eb9cff058f6aeb92d4dc9d47378643c9f2b8e925a61cf4a0c071c27777b4
+machine_hash: 2560026f9a86747f38d04ba63f3caed8f64f6c339053b0a5cdd65f0e252d9335
 product: cursor
 product_name: Cursor
+record:
+  card_id: cursor-2025-03-11-0d40ed
+  comparison: ''
+  date: '2025-03-11'
+  description: 'Cursor — Reliability, Keyboard Shortcuts & Early access opt-in: 0.47.7:
+    MAX mode for 3.7 Sonnet with and without thinking'
+  evidence:
+  - quote: '0.47.7: MAX mode for 3.7 Sonnet with and without thinking'
+    source_release: https://cursor.com/changelog/0-47-x
+  extractor_version: fallback-v3
+  impact: incremental
+  product: cursor
+  product_name: Cursor
+  slug: 0-47-7-max-mode-for-3-7-sonnet-with-and-without-thinking
+  source_release: cursor-2025-03-11-0-47-x-https-cursor-com-changelog-0-47-x-eebf8f2e
+  source_type: cursor_changelog
+  theme: model-support
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v2
+  title: '0.47.7: MAX mode for 3.7 Sonnet with and without thinking'
+  type: change
 related_changes:
+- '[[Changes/ChatGPT/2024-12-13-projects-provide-a-new-way-to-group-files-and-chats-for-personal-use-simplifying|chatgpt-2024-12-13-325f0a]]'
+- '[[Changes/Cursor/2025-01-23-deepseek-models-deepseek-r1-and-deepseek-v3-are-supported-in-0-45-and-0-44-you-c|cursor-2025-01-23-36d94e]]'
 - '[[Changes/Cursor/2025-01-23-better-codebase-understanding-we-ve-trained-a-new-model-for-codebase-understandi|cursor-2025-01-23-b4d95f]]'
-- '[[Changes/ChatGPT/2025-02-28-general-gpt-4-5-was-released-to-users-on-the-pro-plan-in-chatgpt-the-temporary-c|chatgpt-2025-02-28-3c1862]]'
-- '[[Changes/ChatGPT/2025-02-28-gpt-4-5-was-released-to-users-on-the-pro-plan-in-chatgpt|chatgpt-2025-02-28-fff647]]'
 source_release: '[[Releases/Cursor/cursor-2025-03-11-0-47-x-https-cursor-com-changelog-0-47-x-eebf8f2e|cursor-2025-03-11-0-47-x-https-cursor-com-changelog-0-47-x-eebf8f2e]]'
+source_type: cursor_changelog
 theme: model-support
+title: '0.47.7: MAX mode for 3.7 Sonnet with and without thinking'
 type: change
 ---
 
 # 0.47.7: MAX mode for 3.7 Sonnet with and without thinking
 
 <!-- chronolog:begin region="description" -->
-0.47.7: MAX mode for 3.7 Sonnet with and without thinking
+Cursor — Reliability, Keyboard Shortcuts & Early access opt-in: 0.47.7: MAX mode for 3.7 Sonnet with and without thinking
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +61,15 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Cursor/2025-01-23-better-codebase-understanding-we-ve-trained-a-new-model-for-codebase-understandi|cursor-2025-01-23-b4d95f]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: model-support
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
+- Role: later-observed
 - First In Tracked: [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]
 - Lag Days: 792
 - Tracked Products Count: 3

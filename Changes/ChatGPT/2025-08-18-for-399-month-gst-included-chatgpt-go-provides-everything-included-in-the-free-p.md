@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-08-18-chatgpt-go-is-geo-restricted-to-india-at-launch-and-is-able-to-be-subscribed-to|chatgpt-2025-08-18-cebbd9]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: cc28fc84ed83cecc263b49e571a870f8e83cd9b39b57c665107f5a4bdfbb22f9
+machine_hash: 0a8db7d4751a14876389bb8394c0d8aa828b83ea36f4439836cd39c9471cb943
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-08-18-we-re-launching-chatgpt-go-a-new-low-cost-subscription-plan-this-will-initially|chatgpt-2025-08-18-c0fbcb]]'
 - '[[Changes/ChatGPT/2025-08-18-chatgpt-go-is-geo-restricted-to-india-at-launch-and-is-able-to-be-subscribed-to|chatgpt-2025-08-18-cebbd9]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-18-introducing-chatgpt-go-fbc1ef7a|chatgpt-2025-08-18-introducing-chatgpt-go-fbc1ef7a]]'
+superseded: true
 theme: pricing-model
 type: change
 ---

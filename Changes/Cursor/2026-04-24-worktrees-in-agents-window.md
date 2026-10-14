@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2026-04-24-with-multitask-cursor-will-run-async-subagents-to-parallelize-your-requests-inst|cursor-2026-04-24-a02402]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 448b5dc65d70bc0b4758b1a93968ebe7f283ebdc57b2d589681684eb5bd989d2
+machine_hash: b88d16e45b2a3fea8b6c20729771254cc163fc10e6eb97252b392507457fe568
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2026-04-24-multitask-in-agents-window|cursor-2026-04-24-998619]]'
 - '[[Changes/Cursor/2026-04-24-with-multitask-cursor-will-run-async-subagents-to-parallelize-your-requests-inst|cursor-2026-04-24-a02402]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-24-3-2-https-cursor-com-changelog-04-24-26-9ab6a4bf|cursor-2026-04-24-3-2-https-cursor-com-changelog-04-24-26-9ab6a4bf]]'
+superseded: true
 theme: agent-mode
 type: change
 ---

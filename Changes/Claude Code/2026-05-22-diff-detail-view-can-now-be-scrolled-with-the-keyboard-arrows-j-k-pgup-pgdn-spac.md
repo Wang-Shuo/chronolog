@@ -3,31 +3,57 @@ card_id: claude-code-2026-05-22-d23d37
 date: '2026-05-22'
 diffusion:
   first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|cursor-2023-03-14-24e9bf]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1165
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: editor-experience
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Claude Code/2026-04-23-merged-cost-and-stats-into-usage-both-remain-as-typing-shortcuts-that-open-the-r|claude-code-2026-04-23-d2d8be]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 2f58e7ea01f037b38632c117e1dd4d0b9778daa4154b243b491b9bc3b38d11b6
+machine_hash: af58532f5f846616257f269c7861306d9c40a00ff1a5b7c0435b35d92f5cc587
 product: claude-code
 product_name: Claude Code
+record:
+  card_id: claude-code-2026-05-22-d23d37
+  comparison: ''
+  date: '2026-05-22'
+  description: 'Claude Code — v2.1.149: `/diff` detail view can now be scrolled with
+    the keyboard (arrows, `j`/`k`, `PgUp`/`PgDn`, `Space`, `Home`/`End`)'
+  evidence:
+  - quote: '`/diff` detail view can now be scrolled with the keyboard (arrows, `j`/`k`,
+      `PgUp`/`PgDn`, `Space`, `Home`/`End`)'
+    source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.149
+  extractor_version: fallback-v3
+  impact: incremental
+  product: claude-code
+  product_name: Claude Code
+  slug: diff-detail-view-can-now-be-scrolled-with-the-keyboard-arrows-j-k-pgup-pgdn-spac
+  source_release: claude-code-2026-05-22-v2-1-149-github-328077450-086ee33f
+  source_type: github_releases
+  theme: editor-experience
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v1
+  title: '`/diff` detail view can now be scrolled with the keyboard (arrows, `j`/`k`,
+    `PgU'
+  type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-23-merged-cost-and-stats-into-usage-both-remain-as-typing-shortcuts-that-open-the-r|claude-code-2026-04-23-d2d8be]]'
 - '[[Changes/Cursor/2026-05-07-the-commits-tab-gives-you-a-focused-view-of-commit-history-for-the-pr|cursor-2026-05-07-c20a06]]'
 - '[[Changes/Cursor/2026-05-07-the-reviews-tab-now-shows-inline-review-threads-and-top-level-pr-comments|cursor-2026-05-07-fb2228]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-22-v2-1-149-github-328077450-086ee33f|claude-code-2026-05-22-v2-1-149-github-328077450-086ee33f]]'
+source_type: github_releases
 theme: editor-experience
+title: /diff detail view can now be scrolled with the keyboard (arrows, j/k, PgU
 type: change
 ---
 
 # `/diff` detail view can now be scrolled with the keyboard (arrows, `j`/`k`, `PgU
 
 <!-- chronolog:begin region="description" -->
-`/diff` detail view can now be scrolled with the keyboard (arrows, `j`/`k`, `PgUp`/`PgDn`, `Space`, `Home`/`End`)
+Claude Code — v2.1.149: `/diff` detail view can now be scrolled with the keyboard (arrows, `j`/`k`, `PgUp`/`PgDn`, `Space`, `Home`/`End`)
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +63,15 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Claude Code/2026-04-23-merged-cost-and-stats-into-usage-both-remain-as-typing-shortcuts-that-open-the-r|claude-code-2026-04-23-d2d8be]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: editor-experience
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
+- Role: later-observed
 - First In Tracked: [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|cursor-2023-03-14-24e9bf]]
 - Lag Days: 1165
 - Tracked Products Count: 3

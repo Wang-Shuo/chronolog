@@ -1,9 +1,21 @@
 ---
 changes_count: 1
 date: '2023-09-10'
-machine_hash: 8db6f60e7e043ee25d582689c0f2781b7d6f5ffca9abfce24040b9a65b0a7f94
+machine_hash: ca27db5db6253d2ed7835646731175cfa3e77df38fb1b304a6efd8037ff080ba
 product: cursor
 product_name: Cursor
+record:
+  date: '2023-09-10'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2023-09-10-0-10-4-nightly-https-cursor-com-changelog-0-10-4-nightly-5b4d809f
+  source_summary: Ask a question about an edit that the model with option+enter, or
+    bring in context from the chat with @chat! An early preview, so please let us
+    know what you think.
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-10-4-nightly
+  title: Quick question and @chat in cmd+k
+  version: 0.10.4-nightly
 release_id: cursor-2023-09-10-0-10-4-nightly-https-cursor-com-changelog-0-10-4-nightly-5b4d809f
 source_release: Quick question and @chat in cmd+k
 source_type: cursor_changelog
@@ -11,6 +23,7 @@ source_url: https://cursor.com/changelog/0-10-4-nightly
 tags:
 - release
 - cursor
+title: Cursor — Quick question and @chat in cmd+k
 version: 0.10.4-nightly
 ---
 

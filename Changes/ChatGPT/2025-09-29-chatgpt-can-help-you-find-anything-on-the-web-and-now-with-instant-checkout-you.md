@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-09-29-instant-checkout-makes-it-easy-to-go-from-chat-to-checkout-in-just-a-few-taps|chatgpt-2025-09-29-339f74]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: a9b9d25352015222e2fdb5be3ffd694bf07c426df0ef54dfd1eefbd4c39a1ab3
+machine_hash: 346d160ca18fe7e1764713899ebdcdf73dd052cd1165301b1807df8229f2beba
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-09-16-shopping-search-is-better-at-detecting-shopping-intent-showing-products-when-you|chatgpt-2025-09-16-fa547e]]'
 - '[[Changes/ChatGPT/2025-09-29-instant-checkout-makes-it-easy-to-go-from-chat-to-checkout-in-just-a-few-taps|chatgpt-2025-09-29-339f74]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-29-introducing-instant-checkout-and-the-agentic-commerce-protocol-6ba1bd7e|chatgpt-2025-09-29-introducing-instant-checkout-and-the-agentic-commerce-protocol-6ba1bd7e]]'
+superseded: true
 theme: search-browsing
 type: change
 ---

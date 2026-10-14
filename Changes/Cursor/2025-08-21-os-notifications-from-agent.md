@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2025-08-21-you-can-now-start-background-agents-directly-from-linear-delegate-tasks-to-curso|cursor-2025-08-21-927f5c]]'
 extractor_version: fallback-v2
 impact: paradigm-shift
-machine_hash: 9492a903b7396884f87bb4e05736d6ea491df61461396c4cf163ecb06d0af98d
+machine_hash: 070672de24c42b263c8ab9eeda12421152c03103f8958dcc6f1324d7549c5dc0
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2025-08-21-run-agents-in-linear|cursor-2025-08-21-287bb1]]'
 - '[[Changes/Cursor/2025-08-21-you-can-now-start-background-agents-directly-from-linear-delegate-tasks-to-curso|cursor-2025-08-21-927f5c]]'
 source_release: '[[Releases/Cursor/cursor-2025-08-21-1-5-https-cursor-com-changelog-1-5-f93efb89|cursor-2025-08-21-1-5-https-cursor-com-changelog-1-5-f93efb89]]'
+superseded: true
 theme: agent-mode
 type: change
 ---

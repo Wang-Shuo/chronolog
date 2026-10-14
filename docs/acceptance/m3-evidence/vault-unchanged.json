@@ -1,0 +1,6 @@
+{
+  "status": "passed",
+  "files": 3273,
+  "reference": "../m2-evidence/vault-sha256.json",
+  "changed_files": []
+}

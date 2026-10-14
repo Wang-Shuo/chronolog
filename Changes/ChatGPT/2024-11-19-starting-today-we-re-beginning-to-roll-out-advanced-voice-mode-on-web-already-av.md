@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st|chatgpt-2023-09-25-903c2e]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 6a9dad5d838bc81d7ff28c579ad20e9869be1b483339b07ff996a2fb5c32eab0
+machine_hash: b714249cfec953ee047b4b01e41cab3298d4cc3400789b7bf901d2f98306c855
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st|chatgpt-2023-09-25-903c2e]]'
 - '[[Changes/Cursor/2023-12-30-cursor-is-now-based-on-vs-code-1-85-1-which-among-other-things-includes-floating|cursor-2023-12-30-784eeb]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-11-19-advanced-voice-for-chatgpt-web-e7868264|chatgpt-2024-11-19-advanced-voice-for-chatgpt-web-e7868264]]'
+superseded: true
 theme: mobile-desktop
 type: change
 ---

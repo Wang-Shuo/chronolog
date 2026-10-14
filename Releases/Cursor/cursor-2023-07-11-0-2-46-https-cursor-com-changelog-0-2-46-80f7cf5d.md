@@ -1,9 +1,20 @@
 ---
 changes_count: 1
 date: '2023-07-11'
-machine_hash: 03f627e4650252b191f6225755076ff664a511f4cbd181b4ec8e0d521b2bc989
+machine_hash: 073d1c4635d10608d53fc4168cd76237a7bd0567610756aa2cdb2ea9e3ef13b8
 product: cursor
 product_name: Cursor
+record:
+  date: '2023-07-11'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2023-07-11-0-2-46-https-cursor-com-changelog-0-2-46-80f7cf5d
+  source_summary: This update improves the prompt for Cmd-k when you don't have any
+    code selected.
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-2-46
+  title: 0.2.46 - Patch for Cmd-k Generates
+  version: 0.2.46
 release_id: cursor-2023-07-11-0-2-46-https-cursor-com-changelog-0-2-46-80f7cf5d
 source_release: 0.2.46 - Patch for Cmd-k Generates
 source_type: cursor_changelog
@@ -11,6 +22,7 @@ source_url: https://cursor.com/changelog/0-2-46
 tags:
 - release
 - cursor
+title: Cursor — 0.2.46 - Patch for Cmd-k Generates
 version: 0.2.46
 ---
 

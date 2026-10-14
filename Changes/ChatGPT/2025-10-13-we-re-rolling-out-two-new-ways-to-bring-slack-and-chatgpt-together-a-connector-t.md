@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-10-13-installing-the-app-requires-the-connector-to-be-enabled-for-your-account|chatgpt-2025-10-13-2a4d49]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: 4105dc32aed9ae4f4906221ca4818f74d496c8a1281aea69fc6232069a38ac6f
+machine_hash: c9c34d52c31e8571bdb18310b70fe620d9dcdab10f0d7b71d1266b50e904848f
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-10-09-we-re-adding-notion-and-linear-as-synced-connectors-for-pro-users-so-you-can-sec|chatgpt-2025-10-09-d379c1]]'
 - '[[Changes/ChatGPT/2025-10-13-installing-the-app-requires-the-connector-to-be-enabled-for-your-account|chatgpt-2025-10-13-2a4d49]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-13-slack-connector-and-app-931a6153|chatgpt-2025-10-13-slack-connector-and-app-931a6153]]'
+superseded: true
 theme: apps-integrations
 type: change
 ---

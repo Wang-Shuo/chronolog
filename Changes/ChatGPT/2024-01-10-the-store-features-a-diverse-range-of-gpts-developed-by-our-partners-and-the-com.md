@@ -12,12 +12,13 @@ evolves_from:
 - '[[Changes/ChatGPT/2023-10-16-we-ve-integrated-dall-e-3-with-chatgpt-allowing-it-to-respond-to-your-requests-w|chatgpt-2023-10-16-1425df]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 27234589be8bc56e5ef220a1db7f731b5ee4715fcc757d94f98f35f16109148f
+machine_hash: f6f4f2217ab63c4ed4d9e454f44805649ba9384890a0a6b3c3f23fddb535f8a5
 product: chatgpt
 product_name: ChatGPT
 related_changes:
 - '[[Changes/ChatGPT/2023-10-16-we-ve-integrated-dall-e-3-with-chatgpt-allowing-it-to-respond-to-your-requests-w|chatgpt-2023-10-16-1425df]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-01-10-introducing-the-gpt-store-and-chatgpt-team-plan-7f1ed4cd|chatgpt-2024-01-10-introducing-the-gpt-store-and-chatgpt-team-plan-7f1ed4cd]]'
+superseded: true
 theme: image-generation
 type: change
 ---

@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2022-12-15-conversation-history-you-ll-soon-be-able-to-view-past-conversations-with-chatgpt|chatgpt-2022-12-15-23a232]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: ceef726138551199278f904b92e1f81e7d6fd3740665c27925920b7b0edb6d53
+machine_hash: ac8e54155647bf69a229b4a660ed1afdad8e86f6beda4344223faee62543272d
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2024-09-17-composer-notepads-previously-called-projects-can-now-include-tagged-files-and-be|cursor-2024-09-17-3c075c]]'
 - '[[Changes/Cursor/2024-10-09-composer-history-lets-you-access-previous-composer-sessions-after-restart-you-ca|cursor-2024-10-09-b4f283]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-03-18-web-and-the-windows-desktop-app-ef646255|chatgpt-2025-03-18-web-and-the-windows-desktop-app-ef646255]]'
+superseded: true
 theme: projects-workspaces
 type: change
 ---

@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-10-15-you-re-always-in-control-you-can-turn-off-automatic-memory-management-at-any-tim|chatgpt-2025-10-15-d4371a]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: a26cf5fa12c1456870c619329daede25c7d6a421b961a3cf153bfff6574ebfcd
+machine_hash: 400b2446532a8795a52df5d6ebc403e87fe2a07ac8963d8ff7abe65de6b4bcd0
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-10-15-chatgpt-now-manages-saved-memories-automatically-by-keeping-the-most-relevant-de|chatgpt-2025-10-15-88487f]]'
 - '[[Changes/ChatGPT/2025-10-15-you-re-always-in-control-you-can-turn-off-automatic-memory-management-at-any-tim|chatgpt-2025-10-15-d4371a]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-15-chatgpt-can-now-automatically-manage-saved-memories-so-it-s-even-00bd082a|chatgpt-2025-10-15-chatgpt-can-now-automatically-manage-saved-memories-so-it-s-even-00bd082a]]'
+superseded: true
 theme: memory
 type: change
 ---

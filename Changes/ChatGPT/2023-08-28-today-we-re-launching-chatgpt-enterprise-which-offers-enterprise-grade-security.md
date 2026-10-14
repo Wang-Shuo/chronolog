@@ -11,13 +11,14 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: c13311449936824744d11e97108fc4995160d2fe8fedbae99cd62e725b02e281
+machine_hash: 2da1a92ef65a91ee935af0eae8a350f3d78fbcc8726e589a488f34558da34231
 product: chatgpt
 product_name: ChatGPT
 related_changes:
 - '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|cursor-2023-04-16-f0e22a]]'
 - '[[Changes/Cursor/2023-06-27-cursor-is-now-based-on-version-1-79-2-of-vscodium-which-comes-with-security-upda|cursor-2023-06-27-59245f]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-08-28-introducing-chatgpt-enterprise-eb7127e6|chatgpt-2023-08-28-introducing-chatgpt-enterprise-eb7127e6]]'
+superseded: true
 theme: safety-privacy
 type: change
 ---

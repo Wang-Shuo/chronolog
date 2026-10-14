@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-09-03-new-customization-options-are-available-for-all-plans-including-colors-and-icons|chatgpt-2025-09-03-32f145]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: 8d661bd059d735f53fe32566d0f13b0a6edb1301792c962de12d8d01d658a9bf
+machine_hash: aef0c4bda99f59b0ab46bce1ae62c036e4c26f1cf54c6445bc156e112c05157f
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-09-03-projects-bring-your-chats-and-files-into-one-place-helping-you-stay-focused-and|chatgpt-2025-09-03-31ef00]]'
 - '[[Changes/ChatGPT/2025-09-03-new-customization-options-are-available-for-all-plans-including-colors-and-icons|chatgpt-2025-09-03-32f145]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-04-branch-conversations-on-web-335d0aa3|chatgpt-2025-09-04-branch-conversations-on-web-335d0aa3]]'
+superseded: true
 theme: projects-workspaces
 type: change
 ---

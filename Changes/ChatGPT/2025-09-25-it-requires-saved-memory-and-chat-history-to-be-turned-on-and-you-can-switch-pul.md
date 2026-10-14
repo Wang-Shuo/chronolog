@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-09-22-longer-memory-for-more-personalized-responses|chatgpt-2025-09-22-6c0a54]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: f277155e4f247d0c3666856b181b1e7efe87e77ddf0dc9adcc1c8a6f5358ebfa
+machine_hash: f7bf8431e7023f62880831c2b3f90c18ad7f35e6d29cdf12ad5b902ec91e793f
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-09-15-personalization-no-longer-opens-in-a-separate-modal-you-can-manage-personalizati|chatgpt-2025-09-15-ed5e00]]'
 - '[[Changes/ChatGPT/2025-09-22-longer-memory-for-more-personalized-responses|chatgpt-2025-09-22-6c0a54]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-25-introducing-chatgpt-pulse-for-pro-users-5be6c168|chatgpt-2025-09-25-introducing-chatgpt-pulse-for-pro-users-5be6c168]]'
+superseded: true
 theme: memory
 type: change
 ---

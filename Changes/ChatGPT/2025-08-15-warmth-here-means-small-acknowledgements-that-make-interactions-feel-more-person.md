@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-08-07-you-can-now-choose-from-four-distinct-personalities-or-use-the-default-personali|chatgpt-2025-08-07-c34e3c]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: d53f88a42593cca09f5553226c5b8bd270a29523de7e01d0f3d68a379b073bf4
+machine_hash: 790866b127dd4c3f9f12cf03ccb7c05deb96f4c9405e91c3556ea5d732affc02
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-08-07-robot-precise-efficient-and-emotionless-delivering-direct-answers-without-extra|chatgpt-2025-08-07-b8d448]]'
 - '[[Changes/ChatGPT/2025-08-07-you-can-now-choose-from-four-distinct-personalities-or-use-the-default-personali|chatgpt-2025-08-07-c34e3c]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-15-gpt-5-updates-9aaeee46|chatgpt-2025-08-15-gpt-5-updates-9aaeee46]]'
+superseded: true
 theme: memory
 type: change
 ---

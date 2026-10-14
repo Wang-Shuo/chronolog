@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-11-05-you-can-now-interrupt-long-running-queries-such-as-deep-research-or-gpt-5-pro-to|chatgpt-2025-11-05-04febe]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 88c4334121713d088639bc6b27a8f3ae4c7b031d5fd2185c334583b77ec01f0c
+machine_hash: 5e022eaf588ab88b1ecd00fa330424c4357b773e42131d1ab7598b5112fe9b89
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2025-10-29-introducing-our-first-agentic-coding-model-composer-is-a-frontier-model-that-is|cursor-2025-10-29-6d4dc6]]'
 - '[[Changes/ChatGPT/2025-11-05-you-can-now-interrupt-long-running-queries-such-as-deep-research-or-gpt-5-pro-to|chatgpt-2025-11-05-04febe]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-12-gpt-5-1-in-chatgpt-3b83bb2f|chatgpt-2025-11-12-gpt-5-1-in-chatgpt-3b83bb2f]]'
+superseded: true
 theme: model-support
 type: change
 ---

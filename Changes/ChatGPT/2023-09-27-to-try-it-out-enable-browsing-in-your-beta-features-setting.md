@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2023-07-03-we-ve-learned-that-the-browsing-beta-can-occasionally-display-content-in-ways-we|chatgpt-2023-07-03-f27b70]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 3e29a44ce4c5d0ae76107ed4917c2deba0dc8fd567e52873220e5bb50a0e4d28
+machine_hash: 4577cc22f9687cb839c279a4a0c231b8d3648641412e24697fc44c6ae38af6f7
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2023-06-22-search-history-improvements-tapping-on-a-search-result-takes-you-directly-to-the|chatgpt-2023-06-22-8758f2]]'
 - '[[Changes/ChatGPT/2023-07-03-we-ve-learned-that-the-browsing-beta-can-occasionally-display-content-in-ways-we|chatgpt-2023-07-03-f27b70]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-09-27-browsing-is-rolling-back-out-to-plus-users-73e98403|chatgpt-2023-09-27-browsing-is-rolling-back-out-to-plus-users-73e98403]]'
+superseded: true
 theme: search-browsing
 type: change
 ---

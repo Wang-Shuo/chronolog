@@ -3,31 +3,53 @@ card_id: cursor-2023-08-26-3822be
 date: '2023-08-26'
 diffusion:
   first_in_tracked: '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|cursor-2023-05-04-00d3b7]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 114
-  role: variant
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: context-window
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Cursor/2023-08-22-if-you-reference-a-long-file-that-will-be-cutoff-by-the-context-limit-you-ll-be|cursor-2023-08-22-9181ad]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: e0c117c025d26596f7273c4b2597433f65d41574346159b77e8ebd9ce258fc13
+machine_hash: d3b4c85b00f9e3588aed05cccb6b0e6dd08e350a465743c2d5b993c1da80aa77
 product: cursor
 product_name: Cursor
+record:
+  card_id: cursor-2023-08-26-3822be
+  comparison: ''
+  date: '2023-08-26'
+  description: 'Cursor — Advanced Button: Have the advanced context button show up
+    for non git repos.'
+  evidence:
+  - quote: Have the advanced context button show up for non git repos.
+    source_release: https://cursor.com/changelog/0-8-5
+  extractor_version: fallback-v3
+  impact: incremental
+  product: cursor
+  product_name: Cursor
+  slug: have-the-advanced-context-button-show-up-for-non-git-repos
+  source_release: cursor-2023-08-26-0-8-5-https-cursor-com-changelog-0-8-5-057abd19
+  source_type: cursor_changelog
+  theme: context-window
+  title: Have the advanced context button show up for non git repos.
+  type: change
 related_changes:
 - '[[Changes/Cursor/2023-07-19-more-control-of-context-building-abilities-for-codebase-wide-chat|cursor-2023-07-19-14c678]]'
 - '[[Changes/Cursor/2023-08-22-follow-up-chat-messages-to-with-codebase-will-keep-the-codebase-context|cursor-2023-08-22-8a6a3a]]'
 - '[[Changes/Cursor/2023-08-22-if-you-reference-a-long-file-that-will-be-cutoff-by-the-context-limit-you-ll-be|cursor-2023-08-22-9181ad]]'
 source_release: '[[Releases/Cursor/cursor-2023-08-26-0-8-5-https-cursor-com-changelog-0-8-5-057abd19|cursor-2023-08-26-0-8-5-https-cursor-com-changelog-0-8-5-057abd19]]'
+source_type: cursor_changelog
 theme: context-window
+title: Have the advanced context button show up for non git repos.
 type: change
 ---
 
 # Have the advanced context button show up for non git repos.
 
 <!-- chronolog:begin region="description" -->
-Have the advanced context button show up for non git repos.
+Cursor — Advanced Button: Have the advanced context button show up for non git repos.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +59,15 @@ Have the advanced context button show up for non git repos.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Cursor/2023-08-22-if-you-reference-a-long-file-that-will-be-cutoff-by-the-context-limit-you-ll-be|cursor-2023-08-22-9181ad]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: context-window
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: variant
+- Role: later-observed
 - First In Tracked: [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|cursor-2023-05-04-00d3b7]]
 - Lag Days: 114
 - Tracked Products Count: 3

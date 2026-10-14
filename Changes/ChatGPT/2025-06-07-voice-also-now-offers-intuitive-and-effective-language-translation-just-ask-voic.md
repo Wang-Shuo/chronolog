@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-06-07-in-testing-we-ve-observed-that-this-update-may-occasionally-cause-minor-decrease|chatgpt-2025-06-07-4420a3]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 3b53ba5f1e008064a11a72fab55574ebe1a92444597452519da4c8f8c9d38b79
+machine_hash: db7b74a38c62f34b4c76c107a0764bff967ab587cb5c56b286a09e84530faf95
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-06-07-additionally-rare-hallucinations-in-voice-mode-persist-with-this-update-resultin|chatgpt-2025-06-07-2f15b4]]'
 - '[[Changes/ChatGPT/2025-06-07-in-testing-we-ve-observed-that-this-update-may-occasionally-cause-minor-decrease|chatgpt-2025-06-07-4420a3]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-07-updates-to-advanced-voice-mode-for-paid-users-55969446|chatgpt-2025-06-07-updates-to-advanced-voice-mode-for-paid-users-55969446]]'
+superseded: true
 theme: voice
 type: change
 ---

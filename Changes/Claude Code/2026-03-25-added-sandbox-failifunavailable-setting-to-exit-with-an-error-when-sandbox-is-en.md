@@ -3,31 +3,59 @@ card_id: claude-code-2026-03-25-7d730c
 date: '2026-03-25'
 diffusion:
   first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|cursor-2023-04-16-f0e22a]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1074
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Claude Code/2026-03-20-fixed-unnecessary-permission-prompts-for-bash-commands-containing-dashes-in-stri|claude-code-2026-03-20-c0b999]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 0eb592ff6bb659337f7b94f3cba7a7bee43d7ae82ac446cec000215e11d2f12a
+machine_hash: 8787f441d6207546c7577caaa382a6d2138e88f63cea7b64d35a228dce021712
 product: claude-code
 product_name: Claude Code
+record:
+  card_id: claude-code-2026-03-25-7d730c
+  comparison: ''
+  date: '2026-03-25'
+  description: 'Claude Code — v2.1.83: Added `sandbox.failIfUnavailable` setting to
+    exit with an error when sandbox is enabled but cannot start, instead of running
+    unsandboxed'
+  evidence:
+  - quote: Added `sandbox.failIfUnavailable` setting to exit with an error when sandbox
+      is enabled but cannot start, instead of running unsandboxed
+    source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.83
+  extractor_version: fallback-v3
+  impact: incremental
+  product: claude-code
+  product_name: Claude Code
+  slug: added-sandbox-failifunavailable-setting-to-exit-with-an-error-when-sandbox-is-en
+  source_release: claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317
+  source_type: github_releases
+  theme: safety-privacy
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v2
+  title: Added `sandbox.failIfUnavailable` setting to exit with an error when sandbox
+    is
+  type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-18-fixed-custom-status-line-showing-nothing-when-workspace-trust-is-blocking-it|claude-code-2026-03-18-88ccc1]]'
 - '[[Changes/Claude Code/2026-03-20-added-channels-permission-relay-channel-servers-that-declare-the-permission-capa|claude-code-2026-03-20-35235c]]'
 - '[[Changes/Claude Code/2026-03-20-fixed-unnecessary-permission-prompts-for-bash-commands-containing-dashes-in-stri|claude-code-2026-03-20-c0b999]]'
+- '[[Changes/Claude Code/2026-03-25-added-claude-code-subprocess-env-scrub-1-to-strip-anthropic-and-cloud-provider-c|claude-code-2026-03-25-502a32]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317|claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317]]'
+source_type: github_releases
 theme: safety-privacy
+title: Added sandbox.failIfUnavailable setting to exit with an error when sandbox
+  is
 type: change
 ---
 
 # Added `sandbox.failIfUnavailable` setting to exit with an error when sandbox is
 
 <!-- chronolog:begin region="description" -->
-Added `sandbox.failIfUnavailable` setting to exit with an error when sandbox is enabled but cannot start, instead of running unsandboxed
+Claude Code — v2.1.83: Added `sandbox.failIfUnavailable` setting to exit with an error when sandbox is enabled but cannot start, instead of running unsandboxed
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +65,15 @@ Added `sandbox.failIfUnavailable` setting to exit with an error when sandbox is 
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Claude Code/2026-03-20-fixed-unnecessary-permission-prompts-for-bash-commands-containing-dashes-in-stri|claude-code-2026-03-20-c0b999]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: safety-privacy
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
+- Role: later-observed
 - First In Tracked: [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|cursor-2023-04-16-f0e22a]]
 - Lag Days: 1074
 - Tracked Products Count: 3

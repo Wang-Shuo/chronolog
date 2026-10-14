@@ -84,7 +84,7 @@ def validate_card(card: dict[str, Any], themes: set[str]) -> list[str]:
             str(evidence[0]["quote"]),
             source_release=(
                 str(card.get("source_release", "")) or None
-                if card.get("extractor_version") == "fallback-v2"
+                if card.get("extractor_version") in {"fallback-v2", "fallback-v3"}
                 else None
             ),
         )

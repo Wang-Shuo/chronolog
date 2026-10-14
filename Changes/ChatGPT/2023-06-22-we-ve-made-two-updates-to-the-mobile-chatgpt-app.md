@@ -3,47 +3,71 @@ card_id: chatgpt-2023-06-22-88b23f
 date: '2023-06-22'
 diffusion:
   first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 100
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/ChatGPT/2023-05-24-we-will-continue-to-roll-out-to-more-countries-and-regions-in-the-coming-weeks-y|chatgpt-2023-05-24-eb92cf]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: a7141a2876827d729580d3717393f3e3d2851f6e8ddf20c60c679dda6ba35838
+machine_hash: 11b16edee7edda331a0357b8badd29eca759d27e551ee4de4e2258cdc749eedd
 product: chatgpt
 product_name: ChatGPT
+record:
+  card_id: chatgpt-2023-06-22-88b23f
+  comparison: ''
+  date: '2023-06-22'
+  description: 'ChatGPT — Browsing and search on mobile: We’ve made two updates to
+    the mobile ChatGPT app:'
+  evidence:
+  - quote: 'We’ve made two updates to the mobile ChatGPT app:'
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-and-search-on-mobile
+  extractor_version: fallback-v3
+  impact: incremental
+  product: chatgpt
+  product_name: ChatGPT
+  slug: we-ve-made-two-updates-to-the-mobile-chatgpt-app
+  source_release: chatgpt-2023-06-22-browsing-and-search-on-mobile-989ccb98
+  source_type: chatgpt_changelog
+  theme: mobile-desktop
+  title: 'We’ve made two updates to the mobile ChatGPT app:'
+  type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-05-24-chatgpt-app-for-ios-in-more-countries|chatgpt-2023-05-24-313861]]'
-- '[[Changes/ChatGPT/2023-05-24-good-news-we-re-expanding-availability-of-the-chatgpt-app-for-ios-to-more-countr|chatgpt-2023-05-24-700706]]'
-- '[[Changes/ChatGPT/2023-05-24-we-will-continue-to-roll-out-to-more-countries-and-regions-in-the-coming-weeks-y|chatgpt-2023-05-24-eb92cf]]'
+- '[[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]'
+- '[[Changes/ChatGPT/2023-05-24-good-news-we-re-expanding-availability-of-the-chatgpt-app-for-ios-to-more-countr-1a3e7f|chatgpt-2023-05-24-1a3e7f]]'
+- '[[Changes/ChatGPT/2023-05-24-you-can-now-disable-your-chat-history-on-ios-conversations-started-on-your-devic|chatgpt-2023-05-24-d0a573]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-06-22-browsing-and-search-on-mobile-989ccb98|chatgpt-2023-06-22-browsing-and-search-on-mobile-989ccb98]]'
+source_type: chatgpt_changelog
 theme: mobile-desktop
+title: 'We’ve made two updates to the mobile ChatGPT app:'
 type: change
 ---
 
 # We’ve made two updates to the mobile ChatGPT app:
 
 <!-- chronolog:begin region="description" -->
-We’ve made two updates to the mobile ChatGPT app:
+ChatGPT — Browsing and search on mobile: We’ve made two updates to the mobile ChatGPT app:
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We’ve made two updates to the mobile ChatGPT app:
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_b444a710ea
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-and-search-on-mobile
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/ChatGPT/2023-05-24-we-will-continue-to-roll-out-to-more-countries-and-regions-in-the-coming-weeks-y|chatgpt-2023-05-24-eb92cf]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: mobile-desktop
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
+- Role: later-observed
 - First In Tracked: [[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]
 - Lag Days: 100
 - Tracked Products Count: 3

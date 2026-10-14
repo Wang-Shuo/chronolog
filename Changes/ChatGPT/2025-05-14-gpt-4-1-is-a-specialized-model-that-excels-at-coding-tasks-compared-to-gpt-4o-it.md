@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-05-14-gpt-4-1-mini-is-a-fast-capable-and-efficient-small-model-delivering-significant|chatgpt-2025-05-14-2d07ab]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: a7f6db6ad605725d7f701275405bfdb438bbf0a31fb84c4603b474e65a29b232
+machine_hash: 4cbee6a7cda8b2375f15753c0d7c8506844dc640b8c7b1c133fcb2513253db7a
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-04-29-we-ve-reverted-the-most-recent-update-to-gpt-4o-due-to-issues-with-overly-agreea|chatgpt-2025-04-29-59b91b]]'
 - '[[Changes/ChatGPT/2025-05-14-gpt-4-1-mini-is-a-fast-capable-and-efficient-small-model-delivering-significant|chatgpt-2025-05-14-2d07ab]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-14-releasing-gpt-4-1-in-chatgpt-for-all-paid-users-ab6fd3aa|chatgpt-2025-05-14-releasing-gpt-4-1-in-chatgpt-for-all-paid-users-ab6fd3aa]]'
+superseded: true
 theme: model-support
 type: change
 ---

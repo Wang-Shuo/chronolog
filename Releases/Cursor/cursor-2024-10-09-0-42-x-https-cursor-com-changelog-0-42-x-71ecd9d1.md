@@ -1,9 +1,20 @@
 ---
 changes_count: 5
 date: '2024-10-09'
-machine_hash: 20866c0b561a134fc0753ee440777572922f45caed9e37340546a82ef13d06df
+machine_hash: d32f0faea8008831c3dde9ed1a10f6dc1dc15301ca8423bda6c2d4f9fbfcd306
 product: cursor
 product_name: Cursor
+record:
+  date: '2024-10-09'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2024-10-09-0-42-x-https-cursor-com-changelog-0-42-x-71ecd9d1
+  source_summary: Composer history lets you access previous composer sessions after
+    restart. You can also edit and resubmit from previous messages within a session.
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-42-x
+  title: Composer History, @Lint Errors, VS Code 1.93.1
+  version: 0.42.x
 release_id: cursor-2024-10-09-0-42-x-https-cursor-com-changelog-0-42-x-71ecd9d1
 source_release: Composer History, @Lint Errors, VS Code 1.93.1
 source_type: cursor_changelog
@@ -11,6 +22,7 @@ source_url: https://cursor.com/changelog/0-42-x
 tags:
 - release
 - cursor
+title: Cursor — Composer History, @Lint Errors, VS Code 1.93.1
 version: 0.42.x
 ---
 

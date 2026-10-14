@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2026-04-24-if-you-already-have-messages-in-the-queue-you-can-ask-cursor-to-multitask-on-the|cursor-2026-04-24-93ddaa]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: e5880bc9d0efc5d66f764caffc9c87b947c38dfc0d97b8f5539e51abfe1577c4
+machine_hash: 236d76b6e7a4edfa0e4fc4f73b4547410efed5ab07ab29b686ac18fe07bc58fa
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2026-04-24-this-release-introduces-a-new-way-to-multitask-with-async-subagents-an-improved|cursor-2026-04-24-462263]]'
 - '[[Changes/Cursor/2026-04-24-if-you-already-have-messages-in-the-queue-you-can-ask-cursor-to-multitask-on-the|cursor-2026-04-24-93ddaa]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-24-3-2-https-cursor-com-changelog-04-24-26-9ab6a4bf|cursor-2026-04-24-3-2-https-cursor-com-changelog-04-24-26-9ab6a4bf]]'
+superseded: true
 theme: agent-mode
 type: change
 ---

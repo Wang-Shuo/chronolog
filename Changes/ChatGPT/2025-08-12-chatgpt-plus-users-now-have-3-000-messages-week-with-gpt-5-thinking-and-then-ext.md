@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2024-12-13-projects-provide-a-new-way-to-group-files-and-chats-for-personal-use-simplifying|chatgpt-2024-12-13-325f0a]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 086792240111fa8d5266bf789533078295fd7c24d93e0b0be3571755b6a58a66
+machine_hash: 6030b30053cb699072663170947ac8d648c9d243691b9275c5354aacdffe537e
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2025-07-29-view-context-usage-in-chat|cursor-2025-07-29-d00790]]'
 - '[[Changes/Cursor/2025-08-06-agents-are-significantly-improved-when-operating-across-large-codebases-context|cursor-2025-08-06-b4a9ac]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-12-gpt-5-updates-9aaeee46|chatgpt-2025-08-12-gpt-5-updates-9aaeee46]]'
+superseded: true
 theme: context-window
 type: change
 ---

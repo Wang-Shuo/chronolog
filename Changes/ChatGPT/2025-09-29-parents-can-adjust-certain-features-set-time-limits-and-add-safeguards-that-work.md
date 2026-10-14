@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-09-29-once-a-teen-is-connected-to-a-parent-s-account-they-automatically-receive-additi|chatgpt-2025-09-29-a4c40d]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 8e908a605d149a079145aa263f04a043aeb423b45205e03fe0df31044097ba67
+machine_hash: d14fa6d1191af99140835983ef2622469ba058cddfab09d945d97f7638734223
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-09-29-parents-don-t-have-access-to-their-teen-s-conversations-except-in-rare-cases-whe|chatgpt-2025-09-29-950e22]]'
 - '[[Changes/ChatGPT/2025-09-29-once-a-teen-is-connected-to-a-parent-s-account-they-automatically-receive-additi|chatgpt-2025-09-29-a4c40d]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-29-parental-controls-8b95b69a|chatgpt-2025-09-29-parental-controls-8b95b69a]]'
+superseded: true
 theme: safety-privacy
 type: change
 ---

@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2023-02-13-we-ve-updated-performance-of-the-chatgpt-model-on-our-free-plan-in-order-to-serv|chatgpt-2023-02-13-3a0312]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: da3612bc3245bc81e1fe90686ae5fb23019e75f63d8e95c93800b0178ccf07ef
+machine_hash: 932032b9ee883deb819ed9e4a99400d6551d975d3d3e008ca27d75c173242039
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2024-09-17-cursor-tab-now-auto-imports-symbols-in-python-files-we-ve-also-significantly-imp|cursor-2024-09-17-4f345d]]'
 - '[[Changes/Cursor/2024-09-17-composer-can-now-be-added-to-the-ai-pane-this-release-also-includes-many-stabili|cursor-2024-09-17-962474]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-02-21-1-6b86b273|chatgpt-2025-02-21-1-6b86b273]]'
+superseded: true
 theme: reliability-performance
 type: change
 ---

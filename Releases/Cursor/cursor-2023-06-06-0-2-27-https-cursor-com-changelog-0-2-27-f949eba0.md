@@ -1,9 +1,19 @@
 ---
 changes_count: 4
 date: '2023-06-06'
-machine_hash: b168cf0bf14390355b3c45afca39d657010e39680ba4e716c4bab4f41d52d776
+machine_hash: 7a4c4657e9e44879875c70a953016236610c1c6a4f701854c0fb24065309f857
 product: cursor
 product_name: Cursor
+record:
+  date: '2023-06-06'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2023-06-06-0-2-27-https-cursor-com-changelog-0-2-27-f949eba0
+  source_summary: We've improved codebase context!
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-2-27
+  title: Codebase Context v2
+  version: 0.2.27
 release_id: cursor-2023-06-06-0-2-27-https-cursor-com-changelog-0-2-27-f949eba0
 source_release: Codebase Context v2
 source_type: cursor_changelog
@@ -11,6 +21,7 @@ source_url: https://cursor.com/changelog/0-2-27
 tags:
 - release
 - cursor
+title: Cursor — Codebase Context v2
 version: 0.2.27
 ---
 

@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-10-28-longer-memory-for-more-personalized-responses|chatgpt-2025-10-28-9fade2]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 75cb6c75a5eedcaaa311f93e94972b4445ce77e24867f7499995d832c1328e0c
+machine_hash: 4ccc3fd072cc774bb991183af2225280b3bb42535c0a1a8542df19687ae8ee0a
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-10-23-chatgpt-can-draw-from-anything-in-the-shared-project-including-chats-uploaded-fi|chatgpt-2025-10-23-5716f3]]'
 - '[[Changes/ChatGPT/2025-10-28-longer-memory-for-more-personalized-responses|chatgpt-2025-10-28-9fade2]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-29-chatgpt-pulse-on-web-18eeedf1|chatgpt-2025-10-29-chatgpt-pulse-on-web-18eeedf1]]'
+superseded: true
 theme: memory
 type: change
 ---

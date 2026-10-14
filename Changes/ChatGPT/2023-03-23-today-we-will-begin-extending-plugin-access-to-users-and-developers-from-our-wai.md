@@ -12,12 +12,13 @@ evolves_from:
 - '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed|chatgpt-2023-03-23-86e5a9]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 13d5ae6c8a10ccfa535e0a70ea6474327ee7e83524356536506857a73e0cf7f4
+machine_hash: d9694cc1bf1dd4c47a45c0117ccbd338b54435e6ef82c8daf410114a90f775ad
 product: chatgpt
 product_name: ChatGPT
 related_changes:
 - '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed|chatgpt-2023-03-23-86e5a9]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8|chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8]]'
+superseded: true
 theme: apps-integrations
 type: change
 ---

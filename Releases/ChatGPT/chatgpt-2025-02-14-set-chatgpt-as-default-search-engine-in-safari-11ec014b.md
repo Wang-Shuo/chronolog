@@ -1,9 +1,19 @@
 ---
 changes_count: 5
 date: '2025-02-14'
-machine_hash: 1db4967f20d2dc759d4d15e18d2fca808ba76857eb1c43b90e265e998f781700
+machine_hash: 7ba6ab0f9872585448a64ca81c2e52cbc3381beebfd8d8d4503f84e37834eeab
 product: chatgpt
 product_name: ChatGPT
+record:
+  date: '2025-02-14'
+  product: chatgpt
+  product_name: ChatGPT
+  release_id: chatgpt-2025-02-14-set-chatgpt-as-default-search-engine-in-safari-11ec014b
+  source_summary: Set ChatGPT as default search engine in Safari.
+  source_type: chatgpt_changelog
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  title: '- Set ChatGPT as default search engine in Safari.'
+  version: '- Set ChatGPT as default search engine in Safari.'
 release_id: chatgpt-2025-02-14-set-chatgpt-as-default-search-engine-in-safari-11ec014b
 source_release: '- Set ChatGPT as default search engine in Safari.'
 source_type: chatgpt_changelog
@@ -11,6 +21,7 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
+title: ChatGPT — - Set ChatGPT as default search engine in Safari.
 version: '- Set ChatGPT as default search engine in Safari.'
 ---
 

@@ -1,9 +1,20 @@
 ---
-changes_count: 5
+changes_count: 4
 date: '2026-07-17'
-machine_hash: ed667c14bac524a28451348f4ed79fc281e70e5f27b8757ae93c6ec61f115ff5
+machine_hash: a8d7eabc38c73f41bc79bb3b346420b4d13fc474fb3270cff89528ee02eba885
 product: cursor
 product_name: Cursor
+record:
+  date: '2026-07-17'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2026-07-17-improvements-to-cursor-in-slack-https-cursor-com-changelog-slack-f233f9c6
+  source_summary: Cursor in Slack now shares a plan before it starts, runs in multi-repo
+    environments, and can work across channels and threads.
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/slack-improvements
+  title: Improvements to Cursor in Slack
+  version: Improvements to Cursor in Slack
 release_id: cursor-2026-07-17-improvements-to-cursor-in-slack-https-cursor-com-changelog-slack-f233f9c6
 source_release: Improvements to Cursor in Slack
 source_type: cursor_changelog
@@ -11,6 +22,7 @@ source_url: https://cursor.com/changelog/slack-improvements
 tags:
 - release
 - cursor
+title: Cursor — Improvements to Cursor in Slack
 version: Improvements to Cursor in Slack
 ---
 
@@ -22,14 +34,13 @@ Cursor in Slack now shares a plan before it starts, runs in multi-repo environme
 
 [Official release notes](https://cursor.com/changelog/slack-improvements)
 
-Tracked cards: 5
+Tracked cards: 4
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
+- apps-integrations: [[Changes/Cursor/2026-07-17-from-slack-cursor-can-now-start-in-a-named-multi-repo-environment-instead-of-a-s|From Slack, Cursor can now start in a named multi-repo environment instead of a]]
 - agent-mode: [[Changes/Cursor/2026-07-17-cursor-now-responds-with-a-plan-before-it-begins-so-you-can-jump-in-and-redirect|Cursor now responds with a plan before it begins, so you can jump in and redirec]]
 - apps-integrations: [[Changes/Cursor/2026-07-17-cursor-in-slack-now-shares-a-plan-before-it-starts-runs-in-multi-repo-environmen|Cursor in Slack now shares a plan before it starts, runs in multi-repo environme]]
 - apps-integrations: [[Changes/Cursor/2026-07-17-we-also-refined-how-cursor-s-responses-look-in-slack-in-message-buttons-are-gone|We also refined how Cursor's responses look in Slack. In-message buttons are gon]]
-- interface-experience: [[Changes/Cursor/2026-07-17-interaction-improvements|Interaction improvements]]
-- projects-workspaces: [[Changes/Cursor/2026-07-17-multi-repo-environment-support|Multi-repo environment support]]
 <!-- chronolog:end -->

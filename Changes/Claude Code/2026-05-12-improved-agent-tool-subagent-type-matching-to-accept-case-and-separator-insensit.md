@@ -3,31 +3,57 @@ card_id: claude-code-2026-05-12-294863
 date: '2026-05-12'
 diffusion:
   first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1041
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: agent-mode
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Claude Code/2026-05-11-added-agent-view-research-preview-a-single-list-of-every-claude-code-session-run|claude-code-2026-05-11-1877ff]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: paradigm-shift
-machine_hash: a5e8e1b4b97d00c5aee29071e8dafe745bbfaa8f7850fdcc2255effb4e879678
+machine_hash: d7c39ba2575e287d942446012ba88d99e84fe8566dc52b970c4d280e1197c431
 product: claude-code
 product_name: Claude Code
+record:
+  ai_generated: true
+  card_id: claude-code-2026-05-12-294863
+  comparison: ''
+  confidence: low
+  date: '2026-05-12'
+  description: 'Claude Code — v2.1.140: Improved Agent tool `subagent_type` matching
+    to accept case- and separator-insensitive values (e.g. `"Code Reviewer"` resolves
+    to `code-reviewer`)'
+  evidence:
+  - quote: Improved Agent tool `subagent_type` matching to accept case- and separator-insensitive
+      values (e.g. `"Code Reviewer"` resolves to `code-reviewer`)
+    source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.140
+  extractor_version: fallback-v3
+  impact: paradigm-shift
+  product: claude-code
+  product_name: Claude Code
+  slug: improved-agent-tool-subagent-type-matching-to-accept-case-and-separator-insensit
+  source_release: claude-code-2026-05-12-v2-1-140-github-321395205-971146de
+  source_type: github_releases
+  theme: agent-mode
+  title: Improved Agent tool `subagent_type` matching to accept case- and separator-insen
+  type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-08-added-settings-automode-hard-deny-for-auto-mode-classifier-rules-that-block-unco|claude-code-2026-05-08-32284a]]'
+- '[[Changes/Cursor/2026-04-24-we-ve-added-new-and-improved-worktrees-in-the-agents-window|cursor-2026-04-24-fa21dd]]'
 - '[[Changes/Claude Code/2026-05-11-added-agent-view-research-preview-a-single-list-of-every-claude-code-session-run|claude-code-2026-05-11-1877ff]]'
 - '[[Changes/Cursor/2026-05-11-mention-cursor-in-any-teams-channel-to-delegate-a-task-to-a-cloud-agent-or-pull|cursor-2026-05-11-5515f3]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-12-v2-1-140-github-321395205-971146de|claude-code-2026-05-12-v2-1-140-github-321395205-971146de]]'
+source_type: github_releases
 theme: agent-mode
+title: Improved Agent tool subagent_type matching to accept case- and separator-insen
 type: change
 ---
 
 # Improved Agent tool `subagent_type` matching to accept case- and separator-insen
 
 <!-- chronolog:begin region="description" -->
-Improved Agent tool `subagent_type` matching to accept case- and separator-insensitive values (e.g. `"Code Reviewer"` resolves to `code-reviewer`)
+Claude Code — v2.1.140: Improved Agent tool `subagent_type` matching to accept case- and separator-insensitive values (e.g. `"Code Reviewer"` resolves to `code-reviewer`)
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +63,15 @@ Improved Agent tool `subagent_type` matching to accept case- and separator-insen
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Claude Code/2026-05-11-added-agent-view-research-preview-a-single-list-of-every-claude-code-session-run|claude-code-2026-05-11-1877ff]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: agent-mode
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
+- Role: later-observed
 - First In Tracked: [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]
 - Lag Days: 1041
 - Tracked Products Count: 3

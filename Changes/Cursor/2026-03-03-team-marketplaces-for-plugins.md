@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2025-06-12-use-cursor-where-your-team-works|cursor-2025-06-12-503cc5]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 2ca9347313e59f1546da90144dcecb479a5d45e47f180e091a4abb4aca321ec9
+machine_hash: 2ccc7e048a1ae110514afe4b0f9bcc0cd8dc638498fefe23246bda85638c57e6
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Claude Code/2026-02-05-added-research-preview-agent-teams-feature-for-multi-agent-collaboration-token-i|claude-code-2026-02-05-103668]]'
 - '[[Changes/ChatGPT/2026-02-13-cleaner-select-all-behavior-cmd-a-cmd-a-now-selects-only-the-conversation-conten|chatgpt-2026-02-13-dc142e]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3|cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3]]'
+superseded: true
 theme: collaboration
 type: change
 ---

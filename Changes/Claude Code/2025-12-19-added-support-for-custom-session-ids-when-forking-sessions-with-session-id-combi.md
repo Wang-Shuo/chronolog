@@ -3,30 +3,60 @@ card_id: claude-code-2025-12-19-ad2ecb
 date: '2025-12-19'
 diffusion:
   first_in_tracked: '[[Changes/ChatGPT/2022-12-15-conversation-history-you-ll-soon-be-able-to-view-past-conversations-with-chatgpt|chatgpt-2022-12-15-23a232]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1100
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v2
+extractor_version: fallback-v3
 impact: significant
-machine_hash: e41cb2dec8cf63999e0edb47f7b7713b34d7de8e1dda1aa20ae90e9b4c4bf421
+machine_hash: 50858420c2a5a80e3b7072922bedd306ecc0759c07ae8b7ba4abef2975238c14
 product: claude-code
 product_name: Claude Code
+record:
+  ai_generated: true
+  card_id: claude-code-2025-12-19-ad2ecb
+  comparison: ''
+  confidence: low
+  date: '2025-12-19'
+  description: 'Claude Code — v2.0.73: Added support for custom session IDs when forking
+    sessions with `--session-id` combined with `--resume` or `--continue` and `--fork-session`'
+  evidence:
+  - quote: Added support for custom session IDs when forking sessions with `--session-id`
+      combined with `--resume` or `--continue` and `--fork-session`
+    source_release: https://github.com/anthropics/claude-code/releases/tag/v2.0.73
+  extractor_version: fallback-v3
+  impact: significant
+  product: claude-code
+  product_name: Claude Code
+  slug: added-support-for-custom-session-ids-when-forking-sessions-with-session-id-combi
+  source_release: claude-code-2025-12-19-v2-0-73-github-271620087-160adbe9
+  source_type: github_releases
+  theme: projects-workspaces
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v1
+  title: Added support for custom session IDs when forking sessions with `--session-id`
+    c
+  type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-09-03-projects-bring-your-chats-and-files-into-one-place-helping-you-stay-focused-and|chatgpt-2025-09-03-31ef00]]'
-- '[[Changes/ChatGPT/2025-09-03-new-customization-options-are-available-for-all-plans-including-colors-and-icons|chatgpt-2025-09-03-32f145]]'
-- '[[Changes/ChatGPT/2025-09-04-you-can-now-branch-conversations-in-chatgpt-making-it-easier-to-explore-differen|chatgpt-2025-09-04-8b978c]]'
+- '[[Changes/Cursor/2024-10-09-composer-history-lets-you-access-previous-composer-sessions-after-restart-you-ca|cursor-2024-10-09-b4f283]]'
+- '[[Changes/ChatGPT/2025-06-12-starting-a-new-project-directly-from-a-chat|chatgpt-2025-06-12-6e1e0c]]'
+- '[[Changes/ChatGPT/2025-09-04-you-can-now-branch-conversations-in-chatgpt-making-it-easier-to-explore-differen-78eb21|chatgpt-2025-09-04-78eb21]]'
 source_release: '[[Releases/Claude Code/claude-code-2025-12-19-v2-0-73-github-271620087-160adbe9|claude-code-2025-12-19-v2-0-73-github-271620087-160adbe9]]'
+source_type: github_releases
 theme: projects-workspaces
+title: Added support for custom session IDs when forking sessions with --session-id
+  c
 type: change
 ---
 
 # Added support for custom session IDs when forking sessions with `--session-id` c
 
 <!-- chronolog:begin region="description" -->
-Added support for custom session IDs when forking sessions with `--session-id` combined with `--resume` or `--continue` and `--fork-session`
+Claude Code — v2.0.73: Added support for custom session IDs when forking sessions with `--session-id` combined with `--resume` or `--continue` and `--fork-session`
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -36,13 +66,15 @@ Added support for custom session IDs when forking sessions with `--session-id` c
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-No prior tracked change.
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: projects-workspaces
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
+- Role: later-observed
 - First In Tracked: [[Changes/ChatGPT/2022-12-15-conversation-history-you-ll-soon-be-able-to-view-past-conversations-with-chatgpt|chatgpt-2022-12-15-23a232]]
 - Lag Days: 1100
 - Tracked Products Count: 3

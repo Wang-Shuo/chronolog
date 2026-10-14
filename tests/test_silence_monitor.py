@@ -31,3 +31,14 @@ def test_silence_monitor_alerts_for_configured_silence():
 
     assert result["alerts"][0]["type"] == "silence"
     assert result["alerts"][0]["product"] == "cursor"
+
+
+def test_historical_replay_ignores_future_releases_in_same_month():
+    releases = [
+        {"product": "cursor", "date": f"2025-0{month}-01"}
+        for month in range(1, 5)
+    ]
+    releases.append({"product": "cursor", "date": "2025-06-30"})
+    source = {"name": "cursor", "track_silence": True, "silence_periods": 2}
+    result = detect_silence(releases, [source], today="2025-06-01")
+    assert result["alerts"][0]["product"] == "cursor"

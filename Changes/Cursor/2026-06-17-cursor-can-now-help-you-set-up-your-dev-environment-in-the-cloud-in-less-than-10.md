@@ -3,31 +3,71 @@ card_id: cursor-2026-06-17-acb560
 date: '2026-06-17'
 diffusion:
   first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|cursor-2023-03-18-76a713]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1187
-  role: variant
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Cursor/2026-06-10-run-bugbot-before-you-push|cursor-2026-06-10-a3e43e]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: paradigm-shift
-machine_hash: 1bb7d2588a602423c1f2540f46d73dfe88affaa6e4fa1760c77e62b76dc80819
+machine_hash: 36f3baef314bdc55f92a9555c61adae7be1b6423c89909b179098f4f08b5c542
 product: cursor
 product_name: Cursor
+record:
+  ai_generated: true
+  card_id: cursor-2026-06-17-acb560
+  comparison: ''
+  confidence: low
+  date: '2026-06-17'
+  description: 'Cursor — Cloud Environment Setup and Cloud Subagents in Agents Window:
+    Cursor can now help you set up your dev environment in the cloud in less than
+    10 minutes. You can watch the agent''s progress in a shared terminal session as
+    it handles setup tasks like installing dependencies.'
+  evidence:
+  - quote: Cursor can now help you set up your dev environment in the cloud in less
+      than 10 minutes. You can watch the agent's progress in a shared terminal session
+      as it handles setup tasks like installing dependencies.
+    source_release: https://cursor.com/changelog/cloud-in-agents-window
+  extractor_version: fallback-v3
+  impact: paradigm-shift
+  product: cursor
+  product_name: Cursor
+  slug: cursor-can-now-help-you-set-up-your-dev-environment-in-the-cloud-in-less-than-10
+  source_release: cursor-2026-06-17-3-7-https-cursor-com-changelog-cloud-in-agents-window-d40d64fa
+  source_type: cursor_changelog
+  theme: developer-workflow
+  theme_matches:
+  - matched_terms:
+    - agent
+    score: 50
+    theme: agent-mode
+  - matched_terms:
+    - terminal
+    score: 50
+    theme: developer-workflow
+  theme_resolution: manual-semantic-rule-v1
+  title: Cursor can now help you set up your dev environment in the cloud in less
+    than 10
+  type: change
 related_changes:
+- '[[Changes/Claude Code/2026-06-03-tools-explicitly-listing-grep-glob-now-provides-the-dedicated-search-tools-on-na|claude-code-2026-06-03-74afd0]]'
 - '[[Changes/Claude Code/2026-06-04-skills-added-escape-syntax-to-include-a-literal-before-a-digit-in-command-bodies|claude-code-2026-06-04-c16d8f]]'
-- '[[Changes/Cursor/2026-06-10-run-bugbot-before-you-push|cursor-2026-06-10-a3e43e]]'
 - '[[Changes/Claude Code/2026-06-15-improved-doctor-with-consistent-flat-tree-layout-across-all-sections-clearer-sec|claude-code-2026-06-15-a6ee0d]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-17-3-7-https-cursor-com-changelog-cloud-in-agents-window-d40d64fa|cursor-2026-06-17-3-7-https-cursor-com-changelog-cloud-in-agents-window-d40d64fa]]'
+source_type: cursor_changelog
 theme: developer-workflow
+title: Cursor can now help you set up your dev environment in the cloud in less than
+  10
 type: change
 ---
 
 # Cursor can now help you set up your dev environment in the cloud in less than 10
 
 <!-- chronolog:begin region="description" -->
-Cursor can now help you set up your dev environment in the cloud in less than 10 minutes. You can watch the agent's progress in a shared terminal session as it handles setup tasks like installing dependencies.
+Cursor — Cloud Environment Setup and Cloud Subagents in Agents Window: Cursor can now help you set up your dev environment in the cloud in less than 10 minutes. You can watch the agent's progress in a shared terminal session as it handles setup tasks like installing dependencies.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +77,15 @@ Cursor can now help you set up your dev environment in the cloud in less than 10
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Cursor/2026-06-10-run-bugbot-before-you-push|cursor-2026-06-10-a3e43e]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: developer-workflow
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: variant
+- Role: later-observed
 - First In Tracked: [[Changes/Cursor/2023-03-18-built-in-terminal|cursor-2023-03-18-76a713]]
 - Lag Days: 1187
 - Tracked Products Count: 3

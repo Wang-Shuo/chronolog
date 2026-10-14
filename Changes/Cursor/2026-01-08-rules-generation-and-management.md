@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2025-12-22-cursor-now-separates-processes-running-for-user-installed-extensions-and-built-i|cursor-2025-12-22-cfd447]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 3041217893dfc0e6a07f67cdae3b478c4b9592967b12eb767e2c8b439745e4c3
+machine_hash: c2e782852466fc1c24e27c96cee7a1a01a3c4b5928b9b3a15d2e6de08f217ff2
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2025-12-22-improved-integrated-browser-to-support-opening-multiple-tabs|cursor-2025-12-22-2c790e]]'
 - '[[Changes/Cursor/2025-12-22-cursor-now-separates-processes-running-for-user-installed-extensions-and-built-i|cursor-2025-12-22-cfd447]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-08-new-cli-features-and-improved-cli-performance-https-cursor-com-c-8afb8542|cursor-2026-01-08-new-cli-features-and-improved-cli-performance-https-cursor-com-c-8afb8542]]'
+superseded: true
 theme: apps-integrations
 type: change
 ---

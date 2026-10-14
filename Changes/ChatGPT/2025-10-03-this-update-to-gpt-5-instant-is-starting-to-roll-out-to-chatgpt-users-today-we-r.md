@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-10-03-the-model-is-trained-to-more-accurately-detect-and-respond-to-potential-signs-of|chatgpt-2025-10-03-06bd2f]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: e1b6d78de4fea97f2d2681afdb3d92bbb33a406b1f77d3f69754ad96a3b2a3e6
+machine_hash: c4f687011eabab0d0c1cd4245b9d53257a9e5d1c542a62f63a5e4e95a7740be2
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-09-17-all-queries-default-to-standard-unless-you-choose-to-change-it-once-you-choose-a|chatgpt-2025-09-17-d10c30]]'
 - '[[Changes/ChatGPT/2025-10-03-the-model-is-trained-to-more-accurately-detect-and-respond-to-potential-signs-of|chatgpt-2025-10-03-06bd2f]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-03-updating-gpt-5-a6c090c8|chatgpt-2025-10-03-updating-gpt-5-a6c090c8]]'
+superseded: true
 theme: model-support
 type: change
 ---

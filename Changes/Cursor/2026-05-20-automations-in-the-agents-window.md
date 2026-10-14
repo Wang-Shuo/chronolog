@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2026-05-20-for-the-next-7-days-all-agent-runs-for-newly-created-automations-are-50-off|cursor-2026-05-20-24e41b]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 308379a6dd0b2e87cd8af1cbe1343ccf3d32f6e58f3fdbd299da3b0f99140770
+machine_hash: bc3c333de0a483101b2dcd514bcc7ebc2fd4542f39659ace857d39294d3b9ed5
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2026-05-20-multi-repo-automations|cursor-2026-05-20-18d2d7]]'
 - '[[Changes/Cursor/2026-05-20-for-the-next-7-days-all-agent-runs-for-newly-created-automations-are-50-off|cursor-2026-05-20-24e41b]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-20-3-5-https-cursor-com-changelog-05-20-26-f6af79ab|cursor-2026-05-20-3-5-https-cursor-com-changelog-05-20-26-f6af79ab]]'
+superseded: true
 theme: automation-scheduling
 type: change
 ---

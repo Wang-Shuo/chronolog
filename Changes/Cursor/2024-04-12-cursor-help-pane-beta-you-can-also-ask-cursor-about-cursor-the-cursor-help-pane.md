@@ -3,31 +3,61 @@ card_id: cursor-2024-04-12-442fc4
 date: '2024-04-12'
 diffusion:
   first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 459
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: interface-experience
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Cursor/2024-04-01-update-0-31-1-0-31-3-adds-back-in-ai-review-alpha-fixes-the-cursor-settings-menu|cursor-2024-04-01-3b8a96]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: ce58870ec50dc7a11b5cee3c2c37d6c69fa426e60f60a8e6658d6529537d8927
+machine_hash: 9173864538fde75ddb0129bde822d127bf2f2af0dbfa52673f5e50c228a422e8
 product: cursor
 product_name: Cursor
+record:
+  card_id: cursor-2024-04-12-442fc4
+  comparison: ''
+  date: '2024-04-12'
+  description: 'Cursor — Improved Copilot++ UX, New GPT-4 Model: Cursor Help Pane
+    (Beta): You can also ask Cursor about Cursor! The Cursor Help Pane has information
+    about features, keyboard shortcuts, and much more. You can enable it in Settings
+    > Beta.'
+  evidence:
+  - quote: 'Cursor Help Pane (Beta): You can also ask Cursor about Cursor! The Cursor
+      Help Pane has information about features, keyboard shortcuts, and much more.
+      You can enable it in Settings > Beta.'
+    source_release: https://cursor.com/changelog/0-32-x
+  extractor_version: fallback-v3
+  impact: incremental
+  product: cursor
+  product_name: Cursor
+  slug: cursor-help-pane-beta-you-can-also-ask-cursor-about-cursor-the-cursor-help-pane
+  source_release: cursor-2024-04-12-0-32-x-https-cursor-com-changelog-0-32-x-ce3690fc
+  source_type: cursor_changelog
+  theme: interface-experience
+  theme_matches: []
+  theme_resolution: manual-backfill-review-v1
+  title: 'Cursor Help Pane (Beta): You can also ask Cursor about Cursor! The Cursor
+    Help P'
+  type: change
 related_changes:
-- '[[Changes/Cursor/2024-02-09-fine-grained-chat-replies-start-by-hovering-over-the-area-of-the-response-you-wa|cursor-2024-02-09-e891c3]]'
 - '[[Changes/Cursor/2024-03-01-ai-notes-enabled-by-default-hold-shift-on-any-symbol-better-in-editor-chat-auto|cursor-2024-03-01-2c2dbe]]'
+- '[[Changes/Cursor/2024-03-20-new-settings-we-moved-all-our-settings-to-be-accessible-by-the-gear-in-the-top-r|cursor-2024-03-20-8c6212]]'
 - '[[Changes/Cursor/2024-04-01-update-0-31-1-0-31-3-adds-back-in-ai-review-alpha-fixes-the-cursor-settings-menu|cursor-2024-04-01-3b8a96]]'
 source_release: '[[Releases/Cursor/cursor-2024-04-12-0-32-x-https-cursor-com-changelog-0-32-x-ce3690fc|cursor-2024-04-12-0-32-x-https-cursor-com-changelog-0-32-x-ce3690fc]]'
+source_type: cursor_changelog
 theme: interface-experience
+title: 'Cursor Help Pane (Beta): You can also ask Cursor about Cursor! The Cursor
+  Help P'
 type: change
 ---
 
 # Cursor Help Pane (Beta): You can also ask Cursor about Cursor! The Cursor Help P
 
 <!-- chronolog:begin region="description" -->
-Cursor Help Pane (Beta): You can also ask Cursor about Cursor! The Cursor Help Pane has information about features, keyboard shortcuts, and much more. You can enable it in Settings > Beta.
+Cursor — Improved Copilot++ UX, New GPT-4 Model: Cursor Help Pane (Beta): You can also ask Cursor about Cursor! The Cursor Help Pane has information about features, keyboard shortcuts, and much more. You can enable it in Settings > Beta.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +67,15 @@ Cursor Help Pane (Beta): You can also ask Cursor about Cursor! The Cursor Help P
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Cursor/2024-04-01-update-0-31-1-0-31-3-adds-back-in-ai-review-alpha-fixes-the-cursor-settings-menu|cursor-2024-04-01-3b8a96]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: interface-experience
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
+- Role: later-observed
 - First In Tracked: [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]
 - Lag Days: 459
 - Tracked Products Count: 3

@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-04-10-gpt-4o-is-our-newer-natively-multimodal-model-in-head-to-head-evaluations-it-con|chatgpt-2025-04-10-181824]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: bb1d89d46415df6bac5ce4659ff18d80eba1968cd0190900209e481e13c75c8a
+machine_hash: bdddef137af463afc7bbba761cbca042ddef589f9b61fd3a2fa09ee52e93932b
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-03-27-gpt-4o-is-now-more-adept-at-following-detailed-instructions-especially-for-promp|chatgpt-2025-03-27-d8484d]]'
 - '[[Changes/ChatGPT/2025-04-10-gpt-4o-is-our-newer-natively-multimodal-model-in-head-to-head-evaluations-it-con|chatgpt-2025-04-10-181824]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-04-10-sunsetting-gpt-4-in-chatgpt-fe1e4ad7|chatgpt-2025-04-10-sunsetting-gpt-4-in-chatgpt-fe1e4ad7]]'
+superseded: true
 theme: model-support
 type: change
 ---

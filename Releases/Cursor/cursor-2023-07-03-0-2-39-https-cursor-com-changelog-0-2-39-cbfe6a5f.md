@@ -1,9 +1,19 @@
 ---
 changes_count: 4
 date: '2023-07-03'
-machine_hash: 6f2def825e80bb0d45e7a614f216555f9e8ef721779928ba01c16f17a699de23
+machine_hash: af6b4ac10b02889cb77d5531001d22887f6237639f74fe4e4573fda616450f85
 product: cursor
 product_name: Cursor
+record:
+  date: '2023-07-03'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2023-07-03-0-2-39-https-cursor-com-changelog-0-2-39-cbfe6a5f
+  source_summary: 'Cmd+K''s UI has been changed: it''s in-editor, "sticky," and @-symbol-compatible.'
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-2-39
+  title: New inline edits
+  version: 0.2.39
 release_id: cursor-2023-07-03-0-2-39-https-cursor-com-changelog-0-2-39-cbfe6a5f
 source_release: New inline edits
 source_type: cursor_changelog
@@ -11,6 +21,7 @@ source_url: https://cursor.com/changelog/0-2-39
 tags:
 - release
 - cursor
+title: Cursor — New inline edits
 version: 0.2.39
 ---
 

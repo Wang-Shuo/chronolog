@@ -2,32 +2,66 @@
 card_id: cursor-2024-01-03-7e1934
 date: '2024-01-03'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]'
-  lag_days: 359
-  role: follower
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|cursor-2023-03-14-24e9bf]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 295
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
-  theme: model-support
+  theme: editor-experience
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Cursor/2023-11-10-new-models-you-can-plug-in-your-api-key-to-try-out-the-newest-gpt-4-and-gpt-3-tu|cursor-2023-11-10-c049fc]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 46b0b1cee7888530ffd705e168cb36ad6a6d717c06123126082e619471d4cd2f
+machine_hash: b0a583b457d02b29e635e7744c196f1be4b0a25c9a22e7ca2fd11608415d7c6f
 product: cursor
 product_name: Cursor
+record:
+  card_id: cursor-2024-01-03-7e1934
+  comparison: ''
+  date: '2024-01-03'
+  description: 'Cursor — Early Preview: Hold-cmd-tap-shift to Trigger AI Rewrite:
+    Hold down command, press and release shift, and continue holding down command.
+    This will trigger the AI to rewrite code around your Cursor — you can think of
+    it as a manually triggered GPT-4-powered Copilot++. You can use it to write pseudocode
+    and have the AI correct it, or for tedious refactors where Copilot++ doesn''t
+    quite suffice.'
+  evidence:
+  - quote: Hold down command, press and release shift, and continue holding down command.
+      This will trigger the AI to rewrite code around your Cursor — you can think
+      of it as a manually triggered GPT-4-powered Copilot++. You can use it to write
+      pseudocode and have the AI correct it, or for tedious refactors where Copilot++
+      doesn't quite suffice.
+    source_release: https://cursor.com/changelog/0-21-5-nightly
+  extractor_version: fallback-v3
+  impact: incremental
+  product: cursor
+  product_name: Cursor
+  slug: hold-down-command-press-and-release-shift-and-continue-holding-down-command-this
+  source_release: cursor-2024-01-03-0-21-5-nightly-https-cursor-com-changelog-0-21-5-nightly-3b0a9ab7
+  source_type: cursor_changelog
+  theme: editor-experience
+  theme_matches: []
+  theme_resolution: manual-backfill-review-v1
+  title: Hold down command, press and release shift, and continue holding down command.
+    T
+  type: change
 related_changes:
-- '[[Changes/Cursor/2023-10-01-use-edit-in-the-chat-to-edit-a-whole-file-if-less-than-400-lines-expect-the-edit|cursor-2023-10-01-be4968]]'
-- '[[Changes/ChatGPT/2023-10-17-plus-and-enterprise-users-no-longer-need-to-switch-the-beta-toggle-to-use-browse|chatgpt-2023-10-17-74be86]]'
-- '[[Changes/Cursor/2023-11-10-new-models-you-can-plug-in-your-api-key-to-try-out-the-newest-gpt-4-and-gpt-3-tu|cursor-2023-11-10-c049fc]]'
+- '[[Changes/Cursor/2023-12-16-update-0-20-1-0-20-2-we-added-tldrs-to-make-it-easier-to-sort-through-the-bugs-f|cursor-2023-12-16-0f03d7]]'
+- '[[Changes/Cursor/2023-12-29-you-can-now-run-multiple-command-k-s-in-parallel-also-it-should-now-be-easier-to|cursor-2023-12-29-cc94ca]]'
+- '[[Changes/Cursor/2023-12-31-you-can-now-use-chat-and-cmd-k-in-the-aux-window-without-too-many-problems|cursor-2023-12-31-0890c3]]'
 source_release: '[[Releases/Cursor/cursor-2024-01-03-0-21-5-nightly-https-cursor-com-changelog-0-21-5-nightly-3b0a9ab7|cursor-2024-01-03-0-21-5-nightly-https-cursor-com-changelog-0-21-5-nightly-3b0a9ab7]]'
-theme: model-support
+source_type: cursor_changelog
+theme: editor-experience
+title: Hold down command, press and release shift, and continue holding down command.
+  T
 type: change
 ---
 
 # Hold down command, press and release shift, and continue holding down command. T
 
 <!-- chronolog:begin region="description" -->
-Hold down command, press and release shift, and continue holding down command. This will trigger the AI to rewrite code around your Cursor — you can think of it as a manually triggered GPT-4-powered Copilot++. You can use it to write pseudocode and have the AI correct it, or for tedious refactors where Copilot++ doesn't quite suffice.
+Cursor — Early Preview: Hold-cmd-tap-shift to Trigger AI Rewrite: Hold down command, press and release shift, and continue holding down command. This will trigger the AI to rewrite code around your Cursor — you can think of it as a manually triggered GPT-4-powered Copilot++. You can use it to write pseudocode and have the AI correct it, or for tedious refactors where Copilot++ doesn't quite suffice.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,15 +71,17 @@ Hold down command, press and release shift, and continue holding down command. T
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Cursor/2023-11-10-new-models-you-can-plug-in-your-api-key-to-try-out-the-newest-gpt-4-and-gpt-3-tu|cursor-2023-11-10-c049fc]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
-- Theme: model-support
+- Theme: editor-experience
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
-- First In Tracked: [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]
-- Lag Days: 359
+- Role: later-observed
+- First In Tracked: [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|cursor-2023-03-14-24e9bf]]
+- Lag Days: 295
 - Tracked Products Count: 3
 <!-- chronolog:end -->
 

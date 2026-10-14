@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-08-11-now-connect-even-more-tools-in-chatgpt-for-useful-relevant-responses-in-chat|chatgpt-2025-08-11-a44c3a]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 99d3d0635d27e4248abd8cdd569ffba8afb504cf5369390fe9fd938f2e6c728c
+machine_hash: 959f90fe5d2bb7b5ecbfa46328381adc2b3fa58a62983dac8d0e73465a7abfc3
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-08-11-note-connectors-for-plus-pro-plans-are-not-available-in-eea-switzerland-and-the|chatgpt-2025-08-11-78b4c1]]'
 - '[[Changes/ChatGPT/2025-08-11-now-connect-even-more-tools-in-chatgpt-for-useful-relevant-responses-in-chat|chatgpt-2025-08-11-a44c3a]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-13-gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-14e603bd|chatgpt-2025-08-13-gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-14e603bd]]'
+superseded: true
 theme: apps-integrations
 type: change
 ---

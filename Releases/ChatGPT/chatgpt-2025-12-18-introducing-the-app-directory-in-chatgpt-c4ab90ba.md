@@ -1,9 +1,23 @@
 ---
 changes_count: 1
 date: '2025-12-18'
-machine_hash: a32d02c63c9724c6f29200a343568444a19805816291aa672f6dd5c480c4ed1a
+machine_hash: d87f69579f4aeef134fa828030ca6b71146faf4767db91b45a2047a27a306c3d
 product: chatgpt
 product_name: ChatGPT
+record:
+  date: '2025-12-18'
+  product: chatgpt
+  product_name: ChatGPT
+  release_id: chatgpt-2025-12-18-introducing-the-app-directory-in-chatgpt-c4ab90ba
+  source_summary: You can now browse and add approved apps in the new app directory.
+    Apps let you work with your tools and data directly inside a conversation—from
+    interactive in-chat experiences to secure connections that allow ChatGPT to search
+    and reference information from third-party services.As part of this update, connectors
+    now…
+  source_type: chatgpt_changelog
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-the-app-directory-in-chatgpt
+  title: Introducing the app directory in ChatGPT
+  version: Introducing the app directory in ChatGPT
 release_id: chatgpt-2025-12-18-introducing-the-app-directory-in-chatgpt-c4ab90ba
 source_release: Introducing the app directory in ChatGPT
 source_type: chatgpt_changelog
@@ -11,6 +25,7 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#in
 tags:
 - release
 - chatgpt
+title: ChatGPT — Introducing the app directory in ChatGPT
 version: Introducing the app directory in ChatGPT
 ---
 
@@ -18,7 +33,7 @@ version: Introducing the app directory in ChatGPT
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
-You can now browse and add approved apps in the new app directory. Apps let you work with your tools and data directly inside a conversation—from interactive in-chat experiences to secure connections that allow ChatGPT to search and reference information from third-party services. As part of this update, connectors now…
+You can now browse and add approved apps in the new app directory. Apps let you work with your tools and data directly inside a conversation—from interactive in-chat experiences to secure connections that allow ChatGPT to search and reference information from third-party services.As part of this update, connectors now…
 
 [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-the-app-directory-in-chatgpt)
 

@@ -2,32 +2,68 @@
 card_id: claude-code-2026-07-24-b7c5f4
 date: '2026-07-24'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed|chatgpt-2023-03-23-86e5a9]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1219
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Claude Code/2026-07-22-added-http-status-and-error-text-to-claude-mcp-list-and-mcp-when-a-server-fails|claude-code-2026-07-22-770179]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 84921bc1ab4cc7b941fc1fd16be745eb89856507922c46d578087fb897257677
+machine_hash: 97e3948aa8f73db629499f0f521fa345127aa891c682ede52b70e28dea719055
 product: claude-code
 product_name: Claude Code
+record:
+  card_id: claude-code-2026-07-24-b7c5f4
+  comparison: ''
+  date: '2026-07-24'
+  description: 'Claude Code — v2.1.219: Added `mcp_server_errors` to the headless
+    stream-json init event, listing `--mcp-config` entries skipped by config validation;
+    terminal runs print a startup warning'
+  evidence:
+  - quote: Added `mcp_server_errors` to the headless stream-json init event, listing
+      `--mcp-config` entries skipped by config validation; terminal runs print a startup
+      warning
+    source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.219
+  extractor_version: fallback-v3
+  impact: incremental
+  product: claude-code
+  product_name: Claude Code
+  slug: added-mcp-server-errors-to-the-headless-stream-json-init-event-listing-mcp-confi
+  source_release: claude-code-2026-07-24-v2-1-219-github-359412713-6c14d233
+  source_type: github_releases
+  theme: apps-integrations
+  theme_matches:
+  - matched_terms:
+    - mcp
+    score: 50
+    theme: apps-integrations
+  - matched_terms:
+    - terminal
+    score: 50
+    theme: developer-workflow
+  theme_resolution: manual-semantic-rule-v1
+  title: Added `mcp_server_errors` to the headless stream-json init event, listing
+    `--mcp
+  type: change
 related_changes:
 - '[[Changes/Cursor/2026-07-17-cursor-in-slack-now-shares-a-plan-before-it-starts-runs-in-multi-repo-environmen|cursor-2026-07-17-39b8ba]]'
 - '[[Changes/Cursor/2026-07-17-we-also-refined-how-cursor-s-responses-look-in-slack-in-message-buttons-are-gone|cursor-2026-07-17-40bd59]]'
 - '[[Changes/Claude Code/2026-07-22-added-http-status-and-error-text-to-claude-mcp-list-and-mcp-when-a-server-fails|claude-code-2026-07-22-770179]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-24-v2-1-219-github-359412713-6c14d233|claude-code-2026-07-24-v2-1-219-github-359412713-6c14d233]]'
+source_type: github_releases
 theme: apps-integrations
+title: Added mcp_server_errors to the headless stream-json init event, listing --mcp
 type: change
 ---
 
 # Added `mcp_server_errors` to the headless stream-json init event, listing `--mcp
 
 <!-- chronolog:begin region="description" -->
-Added `mcp_server_errors` to the headless stream-json init event, listing `--mcp-config` entries skipped by config validation; terminal runs print a startup warning
+Claude Code — v2.1.219: Added `mcp_server_errors` to the headless stream-json init event, listing `--mcp-config` entries skipped by config validation; terminal runs print a startup warning
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,14 +73,16 @@ Added `mcp_server_errors` to the headless stream-json init event, listing `--mcp
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Claude Code/2026-07-22-added-http-status-and-error-text-to-claude-mcp-list-and-mcp-when-a-server-fails|claude-code-2026-07-22-770179]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: apps-integrations
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
-- First In Tracked: [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed|chatgpt-2023-03-23-86e5a9]]
+- Role: later-observed
+- First In Tracked: [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]
 - Lag Days: 1219
 - Tracked Products Count: 3
 <!-- chronolog:end -->

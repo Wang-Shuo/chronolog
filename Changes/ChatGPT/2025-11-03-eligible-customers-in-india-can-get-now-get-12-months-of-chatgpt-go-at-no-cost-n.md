@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-10-23-starting-today-project-sharing-is-available-to-all-chatgpt-users-including-for-f|chatgpt-2025-10-23-45fe51]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: 87d28abd2a9d84baee84c99972aa04d92a31ffd88e611d91ffb931e8ac8ccf98
+machine_hash: 3c185f70db1f830f4feaedefb14a53bdfffe9625b19fbfb7377bf454f309fd98
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-09-29-we-re-rolling-out-parental-controls-globally-in-chatgpt-to-help-families-guide-h|chatgpt-2025-09-29-1a7d83]]'
 - '[[Changes/ChatGPT/2025-10-23-starting-today-project-sharing-is-available-to-all-chatgpt-users-including-for-f|chatgpt-2025-10-23-45fe51]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-03-chatgpt-go-promo-india-d9dd74b7|chatgpt-2025-11-03-chatgpt-go-promo-india-d9dd74b7]]'
+superseded: true
 theme: mobile-desktop
 type: change
 ---

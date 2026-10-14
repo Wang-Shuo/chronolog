@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-11-21-chatgpt-now-adds-more-inline-images-from-the-web-to-help-you-quickly-understand|chatgpt-2025-11-21-ebdb60]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: a5bdb65ac9fcc8b4cb38bc3fbf4e91141dc686449adc2b4f7097b2abc9b8d7c9
+machine_hash: 3f8c757aaf85adeb3da407186a47dbc9d961276668b097708002e60a8e147161
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-11-20-you-can-now-find-and-buy-from-shopify-merchants-starting-with-spanx-skims-and-gl|chatgpt-2025-11-20-ceaccf]]'
 - '[[Changes/ChatGPT/2025-11-21-chatgpt-now-adds-more-inline-images-from-the-web-to-help-you-quickly-understand|chatgpt-2025-11-21-ebdb60]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-24-shopping-research-in-chatgpt-1b8ce931|chatgpt-2025-11-24-shopping-research-in-chatgpt-1b8ce931]]'
+superseded: true
 theme: search-browsing
 type: change
 ---

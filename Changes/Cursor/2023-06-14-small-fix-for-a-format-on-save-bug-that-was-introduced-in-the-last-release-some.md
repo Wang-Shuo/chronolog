@@ -3,31 +3,57 @@ card_id: cursor-2023-06-14-8baa9f
 date: '2023-06-14'
 diffusion:
   first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|cursor-2023-03-18-76a713]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 88
-  role: variant
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Cursor/2023-05-17-press-cmd-d-to-auto-debug-a-terminal-error|cursor-2023-05-17-d21a52]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 46fbc724c99a408d3cf6e2534112334aee13e3051251a2bb94f1934d2aef8fd1
+machine_hash: 20ba9b3d4f1d3345b60e4830c4c6acd96610c0dc6db9e9985d2c95677ef5716b
 product: cursor
 product_name: Cursor
+record:
+  card_id: cursor-2023-06-14-8baa9f
+  comparison: ''
+  date: '2023-06-14'
+  description: 'Cursor — Small improvements: Small fix for a format-on-save bug that
+    was introduced in the last release. Some small improvements to the AI linter and
+    codebase-wide chat.'
+  evidence:
+  - quote: Small fix for a format-on-save bug that was introduced in the last release.
+      Some small improvements to the AI linter and codebase-wide chat.
+    source_release: https://cursor.com/changelog/0-2-32
+  extractor_version: fallback-v3
+  impact: incremental
+  product: cursor
+  product_name: Cursor
+  slug: small-fix-for-a-format-on-save-bug-that-was-introduced-in-the-last-release-some
+  source_release: cursor-2023-06-14-0-2-32-https-cursor-com-changelog-0-2-32-fcd78291
+  source_type: cursor_changelog
+  theme: developer-workflow
+  title: Small fix for a format-on-save bug that was introduced in the last release.
+    Some
+  type: change
 related_changes:
+- '[[Changes/Cursor/2023-04-14-don-t-install-cursor-command-on-startup|cursor-2023-04-14-337feb]]'
 - '[[Changes/Cursor/2023-04-29-working-remote-ssh-support-through-the-openremote-ssh-extension|cursor-2023-04-29-d5dbb1]]'
-- '[[Changes/Cursor/2023-05-17-in-terminal-debugging|cursor-2023-05-17-7e13ae]]'
 - '[[Changes/Cursor/2023-05-17-press-cmd-d-to-auto-debug-a-terminal-error|cursor-2023-05-17-d21a52]]'
 source_release: '[[Releases/Cursor/cursor-2023-06-14-0-2-32-https-cursor-com-changelog-0-2-32-fcd78291|cursor-2023-06-14-0-2-32-https-cursor-com-changelog-0-2-32-fcd78291]]'
+source_type: cursor_changelog
 theme: developer-workflow
+title: Small fix for a format-on-save bug that was introduced in the last release.
+  Some
 type: change
 ---
 
 # Small fix for a format-on-save bug that was introduced in the last release. Some
 
 <!-- chronolog:begin region="description" -->
-Small fix for a format-on-save bug that was introduced in the last release. Some small improvements to the AI linter and codebase-wide chat.
+Cursor — Small improvements: Small fix for a format-on-save bug that was introduced in the last release. Some small improvements to the AI linter and codebase-wide chat.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +63,15 @@ Small fix for a format-on-save bug that was introduced in the last release. Some
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Cursor/2023-05-17-press-cmd-d-to-auto-debug-a-terminal-error|cursor-2023-05-17-d21a52]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: developer-workflow
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: variant
+- Role: later-observed
 - First In Tracked: [[Changes/Cursor/2023-03-18-built-in-terminal|cursor-2023-03-18-76a713]]
 - Lag Days: 88
 - Tracked Products Count: 3

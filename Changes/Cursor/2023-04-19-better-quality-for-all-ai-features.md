@@ -3,31 +3,55 @@ card_id: cursor-2023-04-19-997d42
 date: '2023-04-19'
 diffusion:
   first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 100
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: model-support
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Cursor/2023-04-19-switch-models-in-settings-gear|cursor-2023-04-19-6f7219]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 927c3e0668c6515b1946f1fc3c26ece980dc59aa09e3c89dad57106c86c47769
+machine_hash: e79c0926437b3c22d1a205b9a64c2c15aa27148fcca317f85a4ddb0fbbc45bae
 product: cursor
 product_name: Cursor
+record:
+  card_id: cursor-2023-04-19-997d42
+  comparison: ''
+  date: '2023-04-19'
+  description: 'Cursor — GPT-4 & Project Generation (2023-04-19): Better quality for
+    all AI features'
+  evidence:
+  - quote: Better quality for all AI features
+    source_release: https://cursor.com/changelog/0-2-6
+  extractor_version: fallback-v3
+  impact: incremental
+  product: cursor
+  product_name: Cursor
+  slug: better-quality-for-all-ai-features
+  source_release: cursor-2023-04-19-0-2-6-https-cursor-com-changelog-0-2-6-a339bef2
+  source_type: cursor_changelog
+  theme: model-support
+  theme_matches: []
+  theme_resolution: manual-backfill-review-v1
+  title: Better quality for all AI features
+  type: change
 related_changes:
+- '[[Changes/Cursor/2023-03-30-use-an-openai-api-key-for-unlimited-requests-at-cost-gpt-4-access-if-available|cursor-2023-03-30-e2bc03]]'
 - '[[Changes/Cursor/2023-04-14-gpt-4-support|cursor-2023-04-14-0ef746]]'
-- '[[Changes/Cursor/2023-04-19-150k-gpt-4-tokens-included|cursor-2023-04-19-66f3f5]]'
 - '[[Changes/Cursor/2023-04-19-switch-models-in-settings-gear|cursor-2023-04-19-6f7219]]'
 source_release: '[[Releases/Cursor/cursor-2023-04-19-0-2-6-https-cursor-com-changelog-0-2-6-a339bef2|cursor-2023-04-19-0-2-6-https-cursor-com-changelog-0-2-6-a339bef2]]'
+source_type: cursor_changelog
 theme: model-support
+title: Better quality for all AI features
 type: change
 ---
 
 # Better quality for all AI features
 
 <!-- chronolog:begin region="description" -->
-Better quality for all AI features
+Cursor — GPT-4 & Project Generation (2023-04-19): Better quality for all AI features
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +61,15 @@ Better quality for all AI features
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Cursor/2023-04-19-switch-models-in-settings-gear|cursor-2023-04-19-6f7219]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: model-support
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
+- Role: later-observed
 - First In Tracked: [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]
 - Lag Days: 100
 - Tracked Products Count: 3

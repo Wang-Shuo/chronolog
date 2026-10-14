@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-08-12-you-can-now-choose-between-auto-fast-and-thinking-for-gpt-5-most-users-will-want|chatgpt-2025-08-12-4fb0fc]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: 7926b98a8363c1911c22dd79d1774bbfc3574da30ddf679cd7f0f2afccca1735
+machine_hash: 28cd0e2fa7a17f69a7bb959e71776846d23f45c793f23c4b9dfbffda45eb2dca
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-08-07-gpt-5-is-available-to-all-chatgpt-tiers-users-on-paid-tiers-plus-pro-and-team-ha|chatgpt-2025-08-07-a3ae83]]'
 - '[[Changes/ChatGPT/2025-08-12-you-can-now-choose-between-auto-fast-and-thinking-for-gpt-5-most-users-will-want|chatgpt-2025-08-12-4fb0fc]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-12-gpt-5-updates-9aaeee46|chatgpt-2025-08-12-gpt-5-updates-9aaeee46]]'
+superseded: true
 theme: model-support
 type: change
 ---

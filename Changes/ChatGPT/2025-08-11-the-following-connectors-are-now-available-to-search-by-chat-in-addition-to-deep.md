@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-07-24-pro-users-can-now-connect-to-canva-and-notion-for-both-chat-search-and-deep-rese|chatgpt-2025-07-24-a2799a]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: c83e6061ddf7d4db55db050af0346d7e3c8c9c659f3ccb3de25a032b0fed412d
+machine_hash: 32f83b1e423fbb4399b67c87d368d62b6a20012e4f036126cec2a0effdc969a0
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-06-13-we-ve-upgraded-chatgpt-search-for-all-users-to-provide-even-more-comprehensive-u|chatgpt-2025-06-13-2cebee]]'
 - '[[Changes/ChatGPT/2025-07-24-pro-users-can-now-connect-to-canva-and-notion-for-both-chat-search-and-deep-rese|chatgpt-2025-07-24-a2799a]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-11-additional-connectors-for-plus-and-pro-6d22248a|chatgpt-2025-08-11-additional-connectors-for-plus-and-pro-6d22248a]]'
+superseded: true
 theme: search-browsing
 type: change
 ---

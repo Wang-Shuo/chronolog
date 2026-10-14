@@ -1,9 +1,20 @@
 ---
 changes_count: 3
 date: '2024-01-25'
-machine_hash: d8f083a1e858eca9a3fe264b47eebe8296bfc79e5277a76315358574f21851d4
+machine_hash: 3c665c3aabc73826b1bc994b4cbb98a3ee20e7571c0c45df4753ab2d47f0dbd2
 product: cursor
 product_name: Cursor
+record:
+  date: '2024-01-25'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2024-01-25-0-24-x-https-cursor-com-changelog-0-24-x-c3b46238
+  source_summary: Using @Web in chat will give the AI the ability to crawl the web!
+    The tools it can use include a search engine and a documentation site crawler.
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-24-x
+  title: '@Web, gpt-4-0125-preview'
+  version: 0.24.x
 release_id: cursor-2024-01-25-0-24-x-https-cursor-com-changelog-0-24-x-c3b46238
 source_release: '@Web, gpt-4-0125-preview'
 source_type: cursor_changelog
@@ -11,6 +22,7 @@ source_url: https://cursor.com/changelog/0-24-x
 tags:
 - release
 - cursor
+title: Cursor — @Web, gpt-4-0125-preview
 version: 0.24.x
 ---
 

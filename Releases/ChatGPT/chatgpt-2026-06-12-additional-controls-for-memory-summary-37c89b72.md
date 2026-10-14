@@ -1,9 +1,23 @@
 ---
 changes_count: 4
 date: '2026-06-12'
-machine_hash: 0a8a30323b606b675becccd7691ae29e5595831ba9e0ea9669bd95637e16874b
+machine_hash: 25dac7afefa08f4437bb7c6fbcb9370bd3df2c8b7c0e7eb48b3bd6d34916303a
 product: chatgpt
 product_name: ChatGPT
+record:
+  date: '2026-06-12'
+  product: chatgpt
+  product_name: ChatGPT
+  release_id: chatgpt-2026-06-12-additional-controls-for-memory-summary-37c89b72
+  source_summary: You can now delete the memories shown on your memory summary page
+    and turn memory off by selecting “Delete and turn off memory” from the three-dot
+    menu. This does not delete your past chats. If you turn memory back on later,
+    ChatGPT may create new memories from chats that remain in your chat history. This
+    control is…
+  source_type: chatgpt_changelog
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#additional-controls-for-memory-summary
+  title: Additional controls for memory summary
+  version: Additional controls for memory summary
 release_id: chatgpt-2026-06-12-additional-controls-for-memory-summary-37c89b72
 source_release: Additional controls for memory summary
 source_type: chatgpt_changelog
@@ -11,6 +25,7 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ad
 tags:
 - release
 - chatgpt
+title: ChatGPT — Additional controls for memory summary
 version: Additional controls for memory summary
 ---
 

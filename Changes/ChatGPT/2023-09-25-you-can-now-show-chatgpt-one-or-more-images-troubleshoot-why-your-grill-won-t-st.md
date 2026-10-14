@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2023-07-25-chatgpt-for-android-is-now-available-for-download-in-the-united-states-india-ban|chatgpt-2023-07-25-c8b73a]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 90b01546eba24f9fec018110017afca28ae350142ae53864467e74cfb4c3b28a
+machine_hash: b26c512ae7973efc1b8ad3e7929113e6bcce964acc0de13f206e0cf822013544
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2023-07-25-we-plan-to-expand-the-rollout-to-additional-countries-over-the-next-week-you-can|chatgpt-2023-07-25-c6d247]]'
 - '[[Changes/ChatGPT/2023-07-25-chatgpt-for-android-is-now-available-for-download-in-the-united-states-india-ban|chatgpt-2023-07-25-c8b73a]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-09-25-new-voice-and-image-capabilities-in-chatgpt-e8c88ec7|chatgpt-2023-09-25-new-voice-and-image-capabilities-in-chatgpt-e8c88ec7]]'
+superseded: true
 theme: mobile-desktop
 type: change
 ---

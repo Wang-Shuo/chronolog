@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2025-07-29-agents-can-now-use-your-native-terminal-a-new-terminal-will-be-created-when-need|cursor-2025-07-29-54a1c8]]'
 extractor_version: fallback-v2
 impact: paradigm-shift
-machine_hash: f2d43967c71ccfa90e53692520437ad0c4c5bfbb8d9b6b0804a42ff18a3aa6ff
+machine_hash: e00b7b7e6a46be7394ab4068b72cf5d305cb8e76c40aa454113632a88570b15b
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2025-07-03-agent-to-dos|cursor-2025-07-03-9438cd]]'
 - '[[Changes/Cursor/2025-07-29-agents-can-now-use-your-native-terminal-a-new-terminal-will-be-created-when-need|cursor-2025-07-29-54a1c8]]'
 source_release: '[[Releases/Cursor/cursor-2025-08-06-1-4-https-cursor-com-changelog-1-4-5a085889|cursor-2025-08-06-1-4-https-cursor-com-changelog-1-4-5a085889]]'
+superseded: true
 theme: agent-mode
 type: change
 ---

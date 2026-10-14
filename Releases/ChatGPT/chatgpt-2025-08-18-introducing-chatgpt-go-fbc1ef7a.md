@@ -1,16 +1,29 @@
 ---
-changes_count: 5
+changes_count: 4
 date: '2025-08-18'
-machine_hash: 738efd2a37b841b3786b0c71a7cefb0d0031abfe4ea4118ae63a89175ad8cac7
+machine_hash: 2b124c498519f6503b0b56b24ee024fafc87019df07549cbbfb17ae64bc830b7
 product: chatgpt
 product_name: ChatGPT
+record:
+  date: '2025-08-18'
+  product: chatgpt
+  product_name: ChatGPT
+  release_id: chatgpt-2025-08-18-introducing-chatgpt-go-fbc1ef7a
+  source_summary: 'We’re launching ChatGPT Go, a new low-cost subscription plan. This
+    will initially be available for users in India only.For ₹399/month (GST included),
+    ChatGPT Go provides everything included in the Free plan, and:'
+  source_type: chatgpt_changelog
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-go
+  title: Introducing ChatGPT Go
+  version: Introducing ChatGPT Go
 release_id: chatgpt-2025-08-18-introducing-chatgpt-go-fbc1ef7a
 source_release: Introducing ChatGPT Go
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_22cae6eb9f
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-go
 tags:
 - release
 - chatgpt
+title: ChatGPT — Introducing ChatGPT Go
 version: Introducing ChatGPT Go
 ---
 
@@ -18,18 +31,17 @@ version: Introducing ChatGPT Go
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
-We’re launching ChatGPT Go, a new low-cost subscription plan. This will initially be available for users in India only.
+We’re launching ChatGPT Go, a new low-cost subscription plan. This will initially be available for users in India only.For ₹399/month (GST included), ChatGPT Go provides everything included in the Free plan, and:
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_22cae6eb9f)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-go)
 
-Tracked cards: 5
+Tracked cards: 4
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
+- mobile-desktop: [[Changes/ChatGPT/2025-08-18-available-on-web-mobile-ios-android-and-desktop-macos-windows-chatgpt-go-is-geo|Available on web, mobile (iOS & Android), and desktop (macOS & Windows).ChatGPT]]
 - memory: [[Changes/ChatGPT/2025-08-18-longer-memory-for-more-personalized-responses|Longer memory for more personalized responses]]
-- pricing-model: [[Changes/ChatGPT/2025-08-18-we-re-launching-chatgpt-go-a-new-low-cost-subscription-plan-this-will-initially|We’re launching ChatGPT Go, a new low-cost subscription plan. This will initiall]]
-- pricing-model: [[Changes/ChatGPT/2025-08-18-chatgpt-go-is-geo-restricted-to-india-at-launch-and-is-able-to-be-subscribed-to|ChatGPT Go is geo-restricted to India at launch, and is able to be subscribed to]]
 - image-generation: [[Changes/ChatGPT/2025-08-18-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]]
-- pricing-model: [[Changes/ChatGPT/2025-08-18-for-399-month-gst-included-chatgpt-go-provides-everything-included-in-the-free-p|For ₹399/month (GST included), ChatGPT Go provides everything included in the Fr]]
+- pricing-model: [[Changes/ChatGPT/2025-08-18-we-re-launching-chatgpt-go-a-new-low-cost-subscription-plan-this-will-initially-e5f740|We’re launching ChatGPT Go, a new low-cost subscription plan. This will initiall]]
 <!-- chronolog:end -->

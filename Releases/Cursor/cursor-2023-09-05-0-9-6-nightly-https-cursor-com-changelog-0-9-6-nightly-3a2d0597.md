@@ -1,9 +1,21 @@
 ---
 changes_count: 1
 date: '2023-09-05'
-machine_hash: ba551aea7120f6e879466e2d10ff5e4fbf8fe82167df2e367f7b3a04760a648e
+machine_hash: 622b643e2ed24938645a8becbcae9d96cfab8cef5bc2fc74e61a007688043ee3
 product: cursor
 product_name: Cursor
+record:
+  date: '2023-09-05'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2023-09-05-0-9-6-nightly-https-cursor-com-changelog-0-9-6-nightly-3a2d0597
+  source_summary: Updates to docs (try pasting a link in chat, you can delete/edit
+    docs, you can see citations), @ symbol performance on long files in chat should
+    improve, and more.
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-9-6-nightly
+  title: Docs updates
+  version: 0.9.6-nightly
 release_id: cursor-2023-09-05-0-9-6-nightly-https-cursor-com-changelog-0-9-6-nightly-3a2d0597
 source_release: Docs updates
 source_type: cursor_changelog
@@ -11,6 +23,7 @@ source_url: https://cursor.com/changelog/0-9-6-nightly
 tags:
 - release
 - cursor
+title: Cursor — Docs updates
 version: 0.9.6-nightly
 ---
 

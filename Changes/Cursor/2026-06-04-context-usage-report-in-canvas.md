@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2026-05-18-standard-0-50-m-input-2-50-m-output-tokens|cursor-2026-05-18-5a9507]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: a6cbf45de5c72ae3aa34e6919e411b8e0bb20879efd8dd42e260b25a47e28133
+machine_hash: a8a2ccfcb25103797376b7fdc7e62cfc6a1b401e27b6d3fce1ca55960579a914
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2026-05-18-standard-0-50-m-input-2-50-m-output-tokens|cursor-2026-05-18-5a9507]]'
 - '[[Changes/Claude Code/2026-05-28-claude-now-reserves-the-multiple-choice-question-prompt-for-decisions-it-genuine|claude-code-2026-05-28-e3cabb]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-04-3-7-https-cursor-com-changelog-canvas-improvements-6f42df85|cursor-2026-06-04-3-7-https-cursor-com-changelog-canvas-improvements-6f42df85]]'
+superseded: true
 theme: context-window
 type: change
 ---

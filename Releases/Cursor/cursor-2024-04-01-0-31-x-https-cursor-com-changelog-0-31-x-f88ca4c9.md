@@ -1,9 +1,22 @@
 ---
 changes_count: 2
 date: '2024-04-01'
-machine_hash: 8f09d24bab5bf76913dd6b75228da1d1c5c58412926618367f210ae5e955139d
+machine_hash: af19955e9dcea344bdb33e1e093b18777308c71f23fbce4ac7f1e281884980b9
 product: cursor
 product_name: Cursor
+record:
+  date: '2024-04-01'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2024-04-01-0-31-x-https-cursor-com-changelog-0-31-x-f88ca4c9
+  source_summary: 'Long Context Chat (Beta): This is a new experimental feature that
+    lets you talk with lots of files! To enable it, head to Settings > Beta. Then,
+    select "Long Context Chat" in the top right of a new chat and try @''ing a folder
+    or the entire codebase.'
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-31-x
+  title: Long Context Chat Beta
+  version: 0.31.x
 release_id: cursor-2024-04-01-0-31-x-https-cursor-com-changelog-0-31-x-f88ca4c9
 source_release: Long Context Chat Beta
 source_type: cursor_changelog
@@ -11,6 +24,7 @@ source_url: https://cursor.com/changelog/0-31-x
 tags:
 - release
 - cursor
+title: Cursor — Long Context Chat Beta
 version: 0.31.x
 ---
 

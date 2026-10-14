@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-09-09-stay-tuned-more-improvements-to-voice-are-coming-soon|chatgpt-2025-09-09-a5ed71]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: e91dd92452ab4289ea83e850cd04c89c47c077d1ab2b1a197eb11168c0bc5014
+machine_hash: 238f8d938ba7e23f7fec5f07c1f64b9484d4a36b0e116f242727740c2afb1214
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-09-09-last-month-we-announced-that-everyone-now-has-access-to-advanced-voice-mode-with|chatgpt-2025-09-09-36ad28]]'
 - '[[Changes/ChatGPT/2025-09-09-stay-tuned-more-improvements-to-voice-are-coming-soon|chatgpt-2025-09-09-a5ed71]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-09-chatgpt-voice-update-c17a6a9f|chatgpt-2025-09-09-chatgpt-voice-update-c17a6a9f]]'
+superseded: true
 theme: voice
 type: change
 ---

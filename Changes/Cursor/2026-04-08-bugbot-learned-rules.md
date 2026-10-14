@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2026-04-08-bugbot-mcp-support|cursor-2026-04-08-2e0df8]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 1e4e4589552b5eb8c45141ee00026f42752d357e6e54f8943f9de1c6f511a387
+machine_hash: 96d32047f756dd2b7ed2ac869aa9be53cc99009b0d07bd40fd3c7cdc8d075db6
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Claude Code/2026-04-07-added-keep-coding-instructions-frontmatter-field-support-for-plugin-output-style|claude-code-2026-04-07-f07863]]'
 - '[[Changes/Cursor/2026-04-08-bugbot-mcp-support|cursor-2026-04-08-2e0df8]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-08-bugbot-learned-rules-and-mcp-support-https-cursor-com-changelog-cba7cd11|cursor-2026-04-08-bugbot-learned-rules-and-mcp-support-https-cursor-com-changelog-cba7cd11]]'
+superseded: true
 theme: apps-integrations
 type: change
 ---

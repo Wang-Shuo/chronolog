@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2025-06-04-this-release-brings-bugbot-for-code-review-a-first-look-at-memories-one-click-mc|cursor-2025-06-04-8ddadd]]'
 extractor_version: fallback-v2
 impact: paradigm-shift
-machine_hash: 2d6b0f337c104d37671827547b31176e6cbb3933941330dcc034754d81ecdffa
+machine_hash: 5b5e864185b0288aa9c8c80f059cce81d8ec25a03ad6d31a85f0856eaa3c4499
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2025-05-15-introducing-unified-request-based-pricing-max-mode-for-all-top-models-and-backgr|cursor-2025-05-15-fc2353]]'
 - '[[Changes/Cursor/2025-06-04-this-release-brings-bugbot-for-code-review-a-first-look-at-memories-one-click-mc|cursor-2025-06-04-8ddadd]]'
 source_release: '[[Releases/Cursor/cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca|cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca]]'
+superseded: true
 theme: agent-mode
 type: change
 ---

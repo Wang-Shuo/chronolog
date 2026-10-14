@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-09-03-we-ve-also-updated-file-uploads-on-paid-tiers-plus-go-and-edu-support-up-to-25-f|chatgpt-2025-09-03-52f60b]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: 4eae56443112a005d2f5e4d3badd3d8fa7123258a795e7e48269f10edc02ee96
+machine_hash: 7689d3a5d61b46c104bc3043b1ad2e8dbee6b6071c8b76007b5f961c8132e89a
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2025-12-18-conversation-insights|cursor-2025-12-18-2be801]]'
 - '[[Changes/Cursor/2025-12-18-many-of-the-largest-software-companies-in-the-world-have-adopted-cursor-for-ente|cursor-2025-12-18-96ec1d]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-12-22-your-year-with-chatgpt-6dbbef4d|chatgpt-2025-12-22-your-year-with-chatgpt-6dbbef4d]]'
+superseded: true
 theme: enterprise-admin
 type: change
 ---

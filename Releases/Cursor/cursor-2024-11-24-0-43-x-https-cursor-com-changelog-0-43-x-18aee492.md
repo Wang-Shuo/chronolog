@@ -1,9 +1,19 @@
 ---
 changes_count: 5
 date: '2024-11-24'
-machine_hash: 607002a64d86a4af1793febbc30963e5debd7d3a185146725a57f766f7426dff
+machine_hash: 5adff63d317afa605efa167548e31f585a6ff14a810934785016b45529e141dc
 product: cursor
 product_name: Cursor
+record:
+  date: '2024-11-24'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2024-11-24-0-43-x-https-cursor-com-changelog-0-43-x-18aee492
+  source_summary: Composer UI in the sidebar with inline diffs
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-43-x
+  title: New Composer UI, Agent, Commit Messages
+  version: 0.43.x
 release_id: cursor-2024-11-24-0-43-x-https-cursor-com-changelog-0-43-x-18aee492
 source_release: New Composer UI, Agent, Commit Messages
 source_type: cursor_changelog
@@ -11,6 +21,7 @@ source_url: https://cursor.com/changelog/0-43-x
 tags:
 - release
 - cursor
+title: Cursor — New Composer UI, Agent, Commit Messages
 version: 0.43.x
 ---
 

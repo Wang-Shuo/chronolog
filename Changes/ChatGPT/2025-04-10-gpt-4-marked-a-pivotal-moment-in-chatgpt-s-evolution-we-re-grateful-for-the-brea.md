@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-04-10-gpt-4-will-still-be-available-in-the-api|chatgpt-2025-04-10-d238de]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 131f4c51cd8bcacf9d565ec9da22967038d06050d38df971dbd2c6ab9216fb46
+machine_hash: f256e95818469b392b05c775b468910b9e92583f65f21dd6202352b9664ca783
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-04-10-effective-april-30-2025-gpt-4-will-be-retired-from-chatgpt-and-fully-replaced-by|chatgpt-2025-04-10-7ca97c]]'
 - '[[Changes/ChatGPT/2025-04-10-gpt-4-will-still-be-available-in-the-api|chatgpt-2025-04-10-d238de]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-04-10-sunsetting-gpt-4-in-chatgpt-fe1e4ad7|chatgpt-2025-04-10-sunsetting-gpt-4-in-chatgpt-fe1e4ad7]]'
+superseded: true
 theme: model-support
 type: change
 ---

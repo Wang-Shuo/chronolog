@@ -1,13 +1,14 @@
 ---
 changes_count: 3
 date: '2026-07-29'
-machine_hash: 922e553735102b6c4675f74a4b5df70e496c4b78b7d5601e78e44fb43cd688ba
+machine_hash: 02b9642c176e4c971ff918ecfa3f3a862aa5b499a195929769426dfdba63afc2
 product: chatgpt
 product_name: ChatGPT
 release_id: chatgpt-2026-07-29-sign-in-with-chatgpt-beta-98094157
 source_release: Sign in with ChatGPT (beta)
 source_type: chatgpt_changelog
 source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#sign-in-with-chatgpt-beta
+superseded: true
 tags:
 - release
 - chatgpt

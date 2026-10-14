@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-10-15-chatgpt-now-manages-saved-memories-automatically-by-keeping-the-most-relevant-de|chatgpt-2025-10-15-88487f]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: ecff364be4a6919e25134702bb749678595a75570942347a5c8132c26402c1e6
+machine_hash: 365eda8c6ab84376fddc0e2885526cd8645644ed67781faffb881fc97a786e9d
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-10-15-these-updates-are-designed-to-make-saved-memory-feel-seamless-reliable-and-easy|chatgpt-2025-10-15-5f4348]]'
 - '[[Changes/ChatGPT/2025-10-15-chatgpt-now-manages-saved-memories-automatically-by-keeping-the-most-relevant-de|chatgpt-2025-10-15-88487f]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-15-chatgpt-can-now-automatically-manage-saved-memories-so-it-s-even-00bd082a|chatgpt-2025-10-15-chatgpt-can-now-automatically-manage-saved-memories-so-it-s-even-00bd082a]]'
+superseded: true
 theme: memory
 type: change
 ---

@@ -114,6 +114,7 @@ def test_main_rejects_non_positive_limit(monkeypatch):
 
 
 def test_fetch_github_releases_normalizes_api_items(monkeypatch):
+    monkeypatch.delenv("CHRONOLOG_GITHUB_READ_TOKEN", raising=False)
     calls = {}
 
     class Response:
@@ -153,6 +154,7 @@ def test_fetch_github_releases_normalizes_api_items(monkeypatch):
     assert calls["url"] == "https://api.github.com/repos/acme/tool/releases"
     assert calls["params"] == {"per_page": 100, "page": 1}
     assert calls["follow_redirects"] is True
+    assert "Authorization" not in calls["headers"]
     assert calls["raised"] is True
     assert len(releases) == 1
     assert releases[0] | {} == {
@@ -170,7 +172,9 @@ def test_fetch_github_releases_normalizes_api_items(monkeypatch):
     assert releases[0]["release_id"].startswith("tool-2026-06-20-")
 
 
-def test_fetch_github_releases_paginates_beyond_first_page(monkeypatch):
+@pytest.mark.parametrize("token", ["", "read-token-for-test"])
+def test_fetch_github_releases_paginates_beyond_first_page(monkeypatch, token):
+    monkeypatch.setenv("CHRONOLOG_GITHUB_READ_TOKEN", token)
     calls = []
 
     class Response:
@@ -194,6 +198,9 @@ def test_fetch_github_releases_paginates_beyond_first_page(monkeypatch):
         }
 
     def fake_get(*args, **kwargs):
+        assert args[0] == "https://api.github.com/repos/acme/tool/releases"
+        assert kwargs["headers"].get("Authorization") == (f"Bearer {token}" if token else None)
+        assert kwargs["follow_redirects"] is (not bool(token))
         page = kwargs["params"]["page"]
         calls.append(page)
         return Response([item(index) for index in range(100)] if page == 1 else [item(100)])
@@ -207,6 +214,19 @@ def test_fetch_github_releases_paginates_beyond_first_page(monkeypatch):
 
     assert calls == [1, 2]
     assert len(releases) == 101
+
+
+def test_github_read_token_is_not_sent_to_rss(monkeypatch):
+    monkeypatch.setenv("CHRONOLOG_GITHUB_READ_TOKEN", "read-token-for-test")
+
+    def fake_get(url, **kwargs):
+        assert url == "https://feed.example.org/releases.xml"
+        assert "Authorization" not in kwargs.get("headers", {})
+        return SimpleNamespace(raise_for_status=lambda: None,
+            content=b'<rss version="2.0"><channel><title>Releases</title></channel></rss>')
+
+    monkeypatch.setattr(collect.httpx, "get", fake_get)
+    assert fetch_rss_releases({"name": "tool", "url": "https://feed.example.org/releases.xml"}, None) == []
 
 
 def test_parse_cursor_changelog_page_extracts_release_and_next_page():

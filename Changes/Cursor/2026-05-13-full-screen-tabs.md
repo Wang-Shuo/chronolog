@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2026-05-13-enter-and-exit-full-screen-by-clicking-on-the-expand-contract-button-in-the-pane|cursor-2026-05-13-d54c8a]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: b7610fccbb0c568a058865c25469e281e45783816037f48efac03cd137f69d9f
+machine_hash: 64cb1a4b3f6934aad79f9bc049af5d2a81da7b9a5b6d0d8bbd4cf03f5db34b96
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2026-05-13-full-screen-maximizes-the-right-panel-so-you-can-focus-on-a-single-tab|cursor-2026-05-13-39dfaf]]'
 - '[[Changes/Cursor/2026-05-13-enter-and-exit-full-screen-by-clicking-on-the-expand-contract-button-in-the-pane|cursor-2026-05-13-d54c8a]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-13-3-4-https-cursor-com-changelog-3-4-7fe50a9d|cursor-2026-05-13-3-4-https-cursor-com-changelog-3-4-7fe50a9d]]'
+superseded: true
 theme: interface-experience
 type: change
 ---

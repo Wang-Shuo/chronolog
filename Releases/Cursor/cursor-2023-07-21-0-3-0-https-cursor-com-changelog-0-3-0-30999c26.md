@@ -1,9 +1,19 @@
 ---
 changes_count: 1
 date: '2023-07-21'
-machine_hash: 36f53e546a68431230dc5bfe6e288f7aea45a56c37b0a00d313a0d2b1f4eb3d1
+machine_hash: e27c020670f59504a41d1b12c3dee57023d49f38bbc05ed07f6cc733c800c3db
 product: cursor
 product_name: Cursor
+record:
+  date: '2023-07-21'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2023-07-21-0-3-0-https-cursor-com-changelog-0-3-0-30999c26
+  source_summary: SSH and WSL should work again
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-3-0
+  title: SSH and WSL fixes
+  version: 0.3.0
 release_id: cursor-2023-07-21-0-3-0-https-cursor-com-changelog-0-3-0-30999c26
 source_release: SSH and WSL fixes
 source_type: cursor_changelog
@@ -11,6 +21,7 @@ source_url: https://cursor.com/changelog/0-3-0
 tags:
 - release
 - cursor
+title: Cursor — SSH and WSL fixes
 version: 0.3.0
 ---
 

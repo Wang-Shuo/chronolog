@@ -39,7 +39,7 @@ Keep this.
     assert "old" not in updated
 
 
-def test_render_theme_markdown_contains_mermaid_timeline(tmp_path: Path):
+def test_render_theme_markdown_contains_navigable_year_timeline(tmp_path: Path):
     cards = [
         {
             "card_id": "aider-2025-01-01-aaaaaa",
@@ -63,7 +63,8 @@ def test_render_theme_markdown_contains_mermaid_timeline(tmp_path: Path):
 
     markdown = render_theme_markdown("agent-mode", cards)
 
-    assert "```mermaid" in markdown
+    assert "### 2025" in markdown
+    assert "same-theme chronology" in markdown
     assert "timeline" in markdown
     assert "Aider" in markdown
     assert "Cursor" in markdown

@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2025-08-06-sending-messages-while-cursor-is-working-now-does-a-better-job-of-steering-the-a|cursor-2025-08-06-9e7586]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: aa25741c2195e5657eda36a91a96639c39ce957faf52b6e4666e81885449abb3
+machine_hash: 54dd20fd10fa3c87e4991482d88192e8109a832a9c55c83ad8f6e90617f7f3cf
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2025-08-06-improved-agent-tools|cursor-2025-08-06-8f577f]]'
 - '[[Changes/Cursor/2025-08-06-sending-messages-while-cursor-is-working-now-does-a-better-job-of-steering-the-a|cursor-2025-08-06-9e7586]]'
 source_release: '[[Releases/Cursor/cursor-2025-08-21-1-5-https-cursor-com-changelog-1-5-f93efb89|cursor-2025-08-21-1-5-https-cursor-com-changelog-1-5-f93efb89]]'
+superseded: true
 theme: agent-mode
 type: change
 ---

@@ -3,31 +3,57 @@ card_id: cursor-2023-09-22-a2446a
 date: '2023-09-22'
 diffusion:
   first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|chatgpt-2022-12-15-9c6f9c]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 281
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Cursor/2023-09-20-we-ship-a-new-version-of-indexing-which-should-be-significantly-more-stable-than|cursor-2023-09-20-1364f8]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 0a81ef9458b740d3cd6c962dc18d127df93adbe37c672584f860f3953af5456e
+machine_hash: 43513eaddbfeb60a0107887b3ec7f0b66b343f814cf544c23053543a69d09f48
 product: cursor
 product_name: Cursor
+record:
+  card_id: cursor-2023-09-22-a2446a
+  comparison: ''
+  date: '2023-09-22'
+  description: 'Cursor — Stable Indexing v0.1: Stable version of indexing. this should
+    be much more stable than previous versions.'
+  evidence:
+  - quote: Stable version of indexing. this should be much more stable than previous
+      versions.
+    source_release: https://cursor.com/changelog/0-11-5-nightly
+  extractor_version: fallback-v3
+  impact: incremental
+  product: cursor
+  product_name: Cursor
+  slug: stable-version-of-indexing-this-should-be-much-more-stable-than-previous-version
+  source_release: cursor-2023-09-22-0-11-5-nightly-https-cursor-com-changelog-0-11-5-nightly-4046a4e1
+  source_type: cursor_changelog
+  theme: reliability-performance
+  theme_matches: []
+  theme_resolution: manual-backfill-review-v1
+  title: Stable version of indexing. this should be much more stable than previous
+    versio
+  type: change
 related_changes:
 - '[[Changes/Cursor/2023-09-07-we-release-an-improved-new-ai-project-feature-to-nightly-users-this-is-a-more-ro|cursor-2023-09-07-3082c7]]'
 - '[[Changes/Cursor/2023-09-08-following-this-update-future-updates-should-come-as-staged-rollouts-this-will-me|cursor-2023-09-08-d6d0c4]]'
 - '[[Changes/Cursor/2023-09-20-we-ship-a-new-version-of-indexing-which-should-be-significantly-more-stable-than|cursor-2023-09-20-1364f8]]'
 source_release: '[[Releases/Cursor/cursor-2023-09-22-0-11-5-nightly-https-cursor-com-changelog-0-11-5-nightly-4046a4e1|cursor-2023-09-22-0-11-5-nightly-https-cursor-com-changelog-0-11-5-nightly-4046a4e1]]'
+source_type: cursor_changelog
 theme: reliability-performance
+title: Stable version of indexing. this should be much more stable than previous versio
 type: change
 ---
 
 # Stable version of indexing. this should be much more stable than previous versio
 
 <!-- chronolog:begin region="description" -->
-Stable version of indexing. this should be much more stable than previous versions.
+Cursor — Stable Indexing v0.1: Stable version of indexing. this should be much more stable than previous versions.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +63,15 @@ Stable version of indexing. this should be much more stable than previous versio
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Cursor/2023-09-20-we-ship-a-new-version-of-indexing-which-should-be-significantly-more-stable-than|cursor-2023-09-20-1364f8]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: reliability-performance
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
+- Role: later-observed
 - First In Tracked: [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|chatgpt-2022-12-15-9c6f9c]]
 - Lag Days: 281
 - Tracked Products Count: 3

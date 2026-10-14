@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import argparse
+import os
 import re
 import sys
 from collections import Counter
@@ -24,6 +25,7 @@ from _scripts.common import (
     read_yaml,
     release_id_for,
     slugify,
+    utc_timestamp,
     write_json,
 )
 
@@ -114,7 +116,15 @@ def collect_fixture(fixture_path: Path, output_path: Path) -> dict[str, Any]:
         (normalize_fixture_release(release) for release in data["releases"]),
         key=lambda item: (item["product"], item["date"], item["release_id"]),
     )
-    payload = {"source": "fixture", "releases": releases}
+    payload = {
+        "source": "fixture", "releases": releases, "errors": [],
+        "mode": "full",
+        "sources": [
+            source_result(product, [r for r in releases if r["product"] == product],
+                          complete=True, coverage="fixture")
+            for product in sorted({r["product"] for r in releases})
+        ],
+    }
     write_json(output_path, payload)
     return payload
 
@@ -131,6 +141,10 @@ def fetch_github_releases(
     limit: int | None,
 ) -> list[dict[str, Any]]:
     url = f"https://api.github.com/repos/{product['repo']}/releases"
+    headers = {"Accept": "application/vnd.github+json"}
+    token = os.environ.get("CHRONOLOG_GITHUB_READ_TOKEN", "").strip()
+    if token:
+        headers["Authorization"] = f"Bearer {token}"
     releases: list[dict[str, Any]] = []
     page = 1
     per_page = 100 if limit is None else min(limit, 100)
@@ -139,9 +153,11 @@ def fetch_github_releases(
         response = httpx.get(
             url,
             timeout=30.0,
-            headers={"Accept": "application/vnd.github+json"},
+            headers=headers,
             params={"per_page": per_page, "page": page},
-            follow_redirects=True,
+            # Authenticated requests stay on the fixed API endpoint. A renamed
+            # repository must be corrected in sources.yaml, not followed with credentials.
+            follow_redirects=not bool(token),
         )
         response.raise_for_status()
         items = response.json()
@@ -361,6 +377,8 @@ def fetch_cursor_releases(
         response = httpx.get(page_url, timeout=30.0, follow_redirects=True)
         response.raise_for_status()
         page_releases, pagination_pages = parse_cursor_changelog_page(product, response.text)
+        if not page_releases:
+            raise ValueError(f"Cursor changelog page {page} contained no release entries")
         for release in page_releases:
             if release["release_id"] in seen_release_ids:
                 continue
@@ -601,6 +619,20 @@ def parse_snapshot_args(values: list[str]) -> dict[str, Path]:
     return snapshots
 
 
+def source_result(
+    product: str, releases: list[dict[str, Any]], *, complete: bool,
+    coverage: str, error: str | None = None,
+) -> dict[str, Any]:
+    dates = sorted(r["date"] for r in releases)
+    return {
+        "product": product, "status": "failed" if error else "success",
+        "collected_at": utc_timestamp(), "complete": complete and not error,
+        "coverage": coverage, "count": len(releases),
+        "earliest": dates[0] if dates else None,
+        "latest": dates[-1] if dates else None, "error": error,
+    }
+
+
 def collect_live(
     sources_path: Path,
     output_path: Path,
@@ -610,6 +642,7 @@ def collect_live(
 ) -> dict[str, Any]:
     releases: list[dict[str, Any]] = []
     errors: list[dict[str, str]] = []
+    results: list[dict[str, Any]] = []
     products = load_sources(sources_path)
     if backfill and backfill != "all":
         requested = {item.strip().casefold() for item in backfill.split(",") if item.strip()}
@@ -632,12 +665,18 @@ def collect_live(
                 "errors": [
                     {"product": name, "error": f"unknown product: {name}"} for name in missing
                 ],
+                "mode": "full",
+                "sources": [source_result(name, [], complete=False, coverage="unknown",
+                                          error=f"unknown product: {name}")
+                            for name in missing],
             }
             write_json(output_path, payload)
             return payload
 
     snapshots = snapshot_paths or {}
     for product in products:
+        coverage = "feed-window" if product["feed_type"] == "blog_rss" else "available-endpoint"
+        complete = bool(backfill) and limit is None and coverage != "feed-window"
         try:
             if product["feed_type"] == "github_releases":
                 product_releases = fetch_github_releases(product, limit)
@@ -656,9 +695,26 @@ def collect_live(
             release_ids = [release["release_id"] for release in product_releases]
             if len(release_ids) != len(set(release_ids)):
                 raise ValueError(f"duplicate release_id for {product['name']}")
+            if not product_releases:
+                raise ValueError("unexpected empty source response; completeness cannot be established")
             releases.extend(product_releases)
+            result = source_result(product["name"], product_releases, complete=complete,
+                                   coverage=coverage)
+            result["url"] = product.get("url") or f"https://api.github.com/repos/{product.get('repo')}/releases"
+            result["acquisition"] = "http"
+            result["acquired_at"] = result["collected_at"]
+            if product["name"] in snapshots:
+                snapshot = snapshots[product["name"]]
+                result["acquisition"] = "browser-snapshot"
+                result["acquired_at"] = "unknown"  # mtime is not proof of acquisition
+                result["snapshot"] = str(snapshot)
+                result["snapshot_mtime"] = datetime.fromtimestamp(
+                    snapshot.stat().st_mtime).astimezone().isoformat()
+            results.append(result)
         except Exception as exc:
             errors.append({"product": product["name"], "error": str(exc)})
+            results.append(source_result(product["name"], [], complete=False,
+                                         coverage=coverage, error=str(exc)))
     payload = {
         "source": "live",
         "releases": sorted(
@@ -666,6 +722,8 @@ def collect_live(
             key=lambda item: (item["date"], item["product"], item["release_id"]),
         ),
         "errors": errors,
+        "mode": "full" if backfill else "incremental",
+        "sources": results,
     }
     write_json(output_path, payload)
     return payload
@@ -694,13 +752,15 @@ def main() -> None:
             snapshots = parse_snapshot_args(args.snapshot)
         except argparse.ArgumentTypeError as exc:
             parser.error(str(exc))
-        collect_live(
+        payload = collect_live(
             ROOT / "_scripts/sources.yaml",
             paths.collected,
             limit,
             backfill=args.backfill,
             snapshot_paths=snapshots,
         )
+        if payload.get("errors"):
+            raise SystemExit(1)
 
 
 if __name__ == "__main__":

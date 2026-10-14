@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-02-28-general-gpt-4-5-was-released-to-users-on-the-pro-plan-in-chatgpt-the-temporary-c|chatgpt-2025-02-28-3c1862]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 15df566163814d726ba0521606d7a02fffa34c75d2e38b4e2c344f8f0bb6bcf8
+machine_hash: c37f6567968c320bff4c5c8061f5f34dfb544aa3da31c0eaefa3559210f06e39
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2025-01-23-better-codebase-understanding-we-ve-trained-a-new-model-for-codebase-understandi|cursor-2025-01-23-b4d95f]]'
 - '[[Changes/ChatGPT/2025-02-28-general-gpt-4-5-was-released-to-users-on-the-pro-plan-in-chatgpt-the-temporary-c|chatgpt-2025-02-28-3c1862]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-02-28-general-gpt-4-5-was-released-to-users-on-the-pro-plan-in-chatgpt-79d54e18|chatgpt-2025-02-28-general-gpt-4-5-was-released-to-users-on-the-pro-plan-in-chatgpt-79d54e18]]'
+superseded: true
 theme: model-support
 type: change
 ---

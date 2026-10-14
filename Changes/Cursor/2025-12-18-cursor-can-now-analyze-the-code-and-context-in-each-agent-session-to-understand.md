@@ -3,31 +3,67 @@ card_id: cursor-2025-12-18-becfd8
 date: '2025-12-18'
 diffusion:
   first_in_tracked: '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|cursor-2023-05-04-00d3b7]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 959
-  role: variant
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: context-window
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Cursor/2025-09-12-cursor-automatically-summarizes-long-conversation-for-you-when-reaching-the-cont|cursor-2025-09-12-7d0a07]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: paradigm-shift
-machine_hash: 05f1b400ff9bd48e1f3383a987b2ed351bf7d8acaf9d3ec7c35e8b42e7c0d643
+machine_hash: 39ae88b3a2809b253c4cbb3ff9d649ed570055f140a2cd93dfee03f706775c4e
 product: cursor
 product_name: Cursor
+record:
+  ai_generated: true
+  card_id: cursor-2025-12-18-becfd8
+  comparison: ''
+  confidence: low
+  date: '2025-12-18'
+  description: 'Cursor — Enterprise Insights, Billing Groups, Service Accounts, and
+    Improved Security Controls: Cursor can now analyze the code and context in each
+    agent session to understand the type of work that is being done, including:'
+  evidence:
+  - quote: 'Cursor can now analyze the code and context in each agent session to understand
+      the type of work that is being done, including:'
+    source_release: https://cursor.com/changelog/enterprise-dec-2025
+  extractor_version: fallback-v3
+  impact: paradigm-shift
+  product: cursor
+  product_name: Cursor
+  slug: cursor-can-now-analyze-the-code-and-context-in-each-agent-session-to-understand
+  source_release: cursor-2025-12-18-enterprise-insights-billing-groups-service-accounts-and-improved-23eccccb
+  source_type: cursor_changelog
+  theme: context-window
+  theme_matches:
+  - matched_terms:
+    - agent
+    score: 50
+    theme: agent-mode
+  - matched_terms:
+    - context
+    score: 50
+    theme: context-window
+  theme_resolution: manual-semantic-rule-v1
+  title: Cursor can now analyze the code and context in each agent session to understand
+  type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-08-22-this-creates-a-focused-self-contained-space-which-is-useful-for-long-running-or|chatgpt-2025-08-22-1a682a]]'
-- '[[Changes/Cursor/2025-09-12-summarization-triggers|cursor-2025-09-12-1d0b7f]]'
+- '[[Changes/Cursor/2025-08-06-agents-are-significantly-improved-when-operating-across-large-codebases-context|cursor-2025-08-06-b4a9ac]]'
 - '[[Changes/Cursor/2025-09-12-cursor-automatically-summarizes-long-conversation-for-you-when-reaching-the-cont|cursor-2025-09-12-7d0a07]]'
+- '[[Changes/Cursor/2025-12-18-generate-a-read-only-transcript-of-any-agent-conversation-to-include-in-your-prs|cursor-2025-12-18-9e7fb7]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-18-enterprise-insights-billing-groups-service-accounts-and-improved-23eccccb|cursor-2025-12-18-enterprise-insights-billing-groups-service-accounts-and-improved-23eccccb]]'
+source_type: cursor_changelog
 theme: context-window
+title: Cursor can now analyze the code and context in each agent session to understand
 type: change
 ---
 
 # Cursor can now analyze the code and context in each agent session to understand
 
 <!-- chronolog:begin region="description" -->
-Cursor can now analyze the code and context in each agent session to understand the type of work that is being done, including:
+Cursor — Enterprise Insights, Billing Groups, Service Accounts, and Improved Security Controls: Cursor can now analyze the code and context in each agent session to understand the type of work that is being done, including:
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +73,15 @@ Cursor can now analyze the code and context in each agent session to understand 
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Cursor/2025-09-12-cursor-automatically-summarizes-long-conversation-for-you-when-reaching-the-cont|cursor-2025-09-12-7d0a07]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: context-window
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: variant
+- Role: later-observed
 - First In Tracked: [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|cursor-2023-05-04-00d3b7]]
 - Lag Days: 959
 - Tracked Products Count: 3

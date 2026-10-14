@@ -1,9 +1,21 @@
 ---
 changes_count: 1
 date: '2023-06-24'
-machine_hash: 73b30915b4431f5f53b250adf4e958b31bd123d47b5b2ff0b4102030d7f238ec
+machine_hash: 045b424a9ee14057b39fcbb1fdf5974b755408e0c50a13a76e0463bc5f2ab3fa
 product: cursor
 product_name: Cursor
+record:
+  date: '2023-06-24'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2023-06-24-0-2-34-https-cursor-com-changelog-0-2-34-fabeac56
+  source_summary: The chat has been revamped! You can now use @ symbols to show files/code/docs
+    to the AI. The chat history is improved, it's easier to see what the AI can see,
+    and codeblocks auto-format on paste.
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-2-34
+  title: Chat v2
+  version: 0.2.34
 release_id: cursor-2023-06-24-0-2-34-https-cursor-com-changelog-0-2-34-fabeac56
 source_release: Chat v2
 source_type: cursor_changelog
@@ -11,6 +23,7 @@ source_url: https://cursor.com/changelog/0-2-34
 tags:
 - release
 - cursor
+title: Cursor — Chat v2
 version: 0.2.34
 ---
 

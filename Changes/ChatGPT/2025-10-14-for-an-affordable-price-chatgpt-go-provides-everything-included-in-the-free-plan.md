@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-10-08-we-re-excited-to-announce-that-chatgpt-go-our-low-cost-subscription-plan-is-now|chatgpt-2025-10-08-22d91a]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 22283c3af8956f66747603daa1fddb1f0dbb9a7ab984d60b7dd5e2d2b699e7a8
+machine_hash: 3d101c769e30a6f47706a8f7cafe6dfb2f2912d61097f40072da586749ac2ad1
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-09-22-for-rp-75-000-month-chatgpt-go-provides-everything-included-in-the-free-plan-and|chatgpt-2025-09-22-a0c383]]'
 - '[[Changes/ChatGPT/2025-10-08-we-re-excited-to-announce-that-chatgpt-go-our-low-cost-subscription-plan-is-now|chatgpt-2025-10-08-22d91a]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-14-chatgpt-go-expansion-37d00d9f|chatgpt-2025-10-14-chatgpt-go-expansion-37d00d9f]]'
+superseded: true
 theme: pricing-model
 type: change
 ---

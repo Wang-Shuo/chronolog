@@ -3,31 +3,58 @@ card_id: claude-code-2026-02-20-6d4065
 date: '2026-02-20'
 diffusion:
   first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|chatgpt-2022-12-15-9c6f9c]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1163
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Claude Code/2026-02-19-improved-performance-in-non-interactive-mode-p-by-skipping-unnecessary-api-calls|claude-code-2026-02-19-4f3f6a]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: a35e8203a4f048447be8098b0a58ce563262d214febe26aff6adb448e2bb09ae
+machine_hash: 3d57f9a1c5e8fec05593ed1d807a91ae6b2932fc0ac3cec0177d61e64c4495d7
 product: claude-code
 product_name: Claude Code
+record:
+  card_id: claude-code-2026-02-20-6d4065
+  comparison: ''
+  date: '2026-02-20'
+  description: 'Claude Code — v2.1.50: Improved memory usage during long sessions
+    by clearing internal caches after compaction'
+  evidence:
+  - quote: Improved memory usage during long sessions by clearing internal caches
+      after compaction
+    source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.50
+  extractor_version: fallback-v3
+  impact: incremental
+  product: claude-code
+  product_name: Claude Code
+  slug: improved-memory-usage-during-long-sessions-by-clearing-internal-caches-after-com
+  source_release: claude-code-2026-02-20-v2-1-50-github-288920711-09694b82
+  source_type: github_releases
+  theme: reliability-performance
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v2
+  title: Improved memory usage during long sessions by clearing internal caches after
+    com
+  type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-18-improved-performance-of-file-mentions-file-suggestions-now-appear-faster-by-pre|claude-code-2026-02-18-9dd752]]'
 - '[[Changes/Claude Code/2026-02-18-improved-memory-usage-in-long-running-sessions-by-releasing-api-stream-buffers-a|claude-code-2026-02-18-a65c80]]'
 - '[[Changes/Claude Code/2026-02-19-improved-performance-in-non-interactive-mode-p-by-skipping-unnecessary-api-calls|claude-code-2026-02-19-4f3f6a]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-20-v2-1-50-github-288920711-09694b82|claude-code-2026-02-20-v2-1-50-github-288920711-09694b82]]'
+source_type: github_releases
 theme: reliability-performance
+title: Improved memory usage during long sessions by clearing internal caches after
+  com
 type: change
 ---
 
 # Improved memory usage during long sessions by clearing internal caches after com
 
 <!-- chronolog:begin region="description" -->
-Improved memory usage during long sessions by clearing internal caches after compaction
+Claude Code — v2.1.50: Improved memory usage during long sessions by clearing internal caches after compaction
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +64,15 @@ Improved memory usage during long sessions by clearing internal caches after com
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Claude Code/2026-02-19-improved-performance-in-non-interactive-mode-p-by-skipping-unnecessary-api-calls|claude-code-2026-02-19-4f3f6a]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: reliability-performance
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
+- Role: later-observed
 - First In Tracked: [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|chatgpt-2022-12-15-9c6f9c]]
 - Lag Days: 1163
 - Tracked Products Count: 3

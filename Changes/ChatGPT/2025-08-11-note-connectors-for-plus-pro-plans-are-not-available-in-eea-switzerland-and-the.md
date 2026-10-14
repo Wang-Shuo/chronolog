@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-07-24-pro-users-can-now-utilize-chat-search-with-hubspot-and-custom-connectors-mcp-in|chatgpt-2025-07-24-d18381]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 562a5120dd4f31d6faf6e2f1b21d986cdd7a15e58225286e800b7dd07f578020
+machine_hash: d9ea282c379608a0ef285a57e621a07c642443a487f20f1b24ee8e30b5d2992f
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2025-07-03-the-agent-breaks-down-longer-tasks-with-dependencies-visible-to-you-in-chat-and|cursor-2025-07-03-bac341]]'
 - '[[Changes/ChatGPT/2025-07-24-pro-users-can-now-utilize-chat-search-with-hubspot-and-custom-connectors-mcp-in|chatgpt-2025-07-24-d18381]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-11-additional-connectors-for-plus-and-pro-6d22248a|chatgpt-2025-08-11-additional-connectors-for-plus-and-pro-6d22248a]]'
+superseded: true
 theme: apps-integrations
 type: change
 ---

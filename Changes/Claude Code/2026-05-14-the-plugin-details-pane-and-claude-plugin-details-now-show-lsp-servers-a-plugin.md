@@ -2,32 +2,66 @@
 card_id: claude-code-2026-05-14-4abb1d
 date: '2026-05-14'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed|chatgpt-2023-03-23-86e5a9]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1148
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Claude Code/2026-05-14-plugins-with-a-root-level-skill-md-and-no-skills-subdirectory-are-now-surfaced-a|claude-code-2026-05-14-236f0b]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 783a62589a12b117cd7432e5946d622a1621044323f977fe03603273cf4ca748
+machine_hash: 9073c94b969122f633249c19c95629c1b07f7c949427e8e180063d5bab20a6b8
 product: claude-code
 product_name: Claude Code
+record:
+  card_id: claude-code-2026-05-14-4abb1d
+  comparison: ''
+  date: '2026-05-14'
+  description: 'Claude Code — v2.1.142: The `/plugin` details pane and `claude plugin
+    details` now show LSP servers a plugin provides'
+  evidence:
+  - quote: The `/plugin` details pane and `claude plugin details` now show LSP servers
+      a plugin provides
+    source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.142
+  extractor_version: fallback-v3
+  impact: incremental
+  product: claude-code
+  product_name: Claude Code
+  slug: the-plugin-details-pane-and-claude-plugin-details-now-show-lsp-servers-a-plugin
+  source_release: claude-code-2026-05-14-v2-1-142-github-322792825-ffda4d4f
+  source_type: github_releases
+  theme: apps-integrations
+  theme_matches:
+  - matched_terms:
+    - plugin
+    score: 50
+    theme: apps-integrations
+  - matched_terms:
+    - lsp
+    score: 50
+    theme: developer-workflow
+  theme_resolution: manual-semantic-rule-v1
+  title: The `/plugin` details pane and `claude plugin details` now show LSP servers
+    a pl
+  type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-13-added-terminalsequence-field-to-hook-json-output-so-hooks-can-emit-desktop-notif|claude-code-2026-05-13-df56c4]]'
 - '[[Changes/Claude Code/2026-05-13-added-claude-code-plugin-prefer-https-to-clone-github-plugin-sources-over-https|claude-code-2026-05-13-e49017]]'
 - '[[Changes/Claude Code/2026-05-14-plugins-with-a-root-level-skill-md-and-no-skills-subdirectory-are-now-surfaced-a|claude-code-2026-05-14-236f0b]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-14-v2-1-142-github-322792825-ffda4d4f|claude-code-2026-05-14-v2-1-142-github-322792825-ffda4d4f]]'
+source_type: github_releases
 theme: apps-integrations
+title: The /plugin details pane and claude plugin details now show LSP servers a pl
 type: change
 ---
 
 # The `/plugin` details pane and `claude plugin details` now show LSP servers a pl
 
 <!-- chronolog:begin region="description" -->
-The `/plugin` details pane and `claude plugin details` now show LSP servers a plugin provides
+Claude Code — v2.1.142: The `/plugin` details pane and `claude plugin details` now show LSP servers a plugin provides
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,14 +71,16 @@ The `/plugin` details pane and `claude plugin details` now show LSP servers a pl
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Claude Code/2026-05-14-plugins-with-a-root-level-skill-md-and-no-skills-subdirectory-are-now-surfaced-a|claude-code-2026-05-14-236f0b]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: apps-integrations
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
-- First In Tracked: [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed|chatgpt-2023-03-23-86e5a9]]
+- Role: later-observed
+- First In Tracked: [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]
 - Lag Days: 1148
 - Tracked Products Count: 3
 <!-- chronolog:end -->

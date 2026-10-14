@@ -1,9 +1,19 @@
 ---
 changes_count: 1
 date: '2023-05-18'
-machine_hash: a29c1394578c3ca5750624ccf7c71141895a5ad1fb7fef2f63b0e1460f3b2528
+machine_hash: 2ee5f18bc468bd7b4f9b37af29b1307922b5007b10172567de164a42b858416c
 product: cursor
 product_name: Cursor
+record:
+  date: '2023-05-18'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2023-05-18-0-2-17-https-cursor-com-changelog-0-2-17-103ba11d
+  source_summary: '#Bug Fixes'
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-2-17
+  title: Fixes! (2023-05-018)
+  version: 0.2.17
 release_id: cursor-2023-05-18-0-2-17-https-cursor-com-changelog-0-2-17-103ba11d
 source_release: Fixes! (2023-05-018)
 source_type: cursor_changelog
@@ -11,6 +21,7 @@ source_url: https://cursor.com/changelog/0-2-17
 tags:
 - release
 - cursor
+title: Cursor — Fixes! (2023-05-018)
 version: 0.2.17
 ---
 

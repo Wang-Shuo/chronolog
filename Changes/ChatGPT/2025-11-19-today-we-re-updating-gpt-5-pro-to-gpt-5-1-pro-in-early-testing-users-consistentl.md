@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-11-19-gpt-5-1-pro-is-rolling-out-today-for-all-chatgpt-pro-users-and-is-available-in-t|chatgpt-2025-11-19-511f86]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: 93d3bd8e0716953e3faf720c02fe300058a7cc2dce876ffb4cd0ff9209c9fb70
+machine_hash: dbf5a110f0995533efed8afb6466d7092ab726f2af0958264c59528b22c10cb8
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-11-12-we-re-updating-gpt-5-to-gpt-5-1-instant-and-gpt-5-1-thinking-making-answers-both|chatgpt-2025-11-12-f038af]]'
 - '[[Changes/ChatGPT/2025-11-19-gpt-5-1-pro-is-rolling-out-today-for-all-chatgpt-pro-users-and-is-available-in-t|chatgpt-2025-11-19-511f86]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-19-gpt-5-1-pro-clearer-more-capable-answers-for-complex-work-78316657|chatgpt-2025-11-19-gpt-5-1-pro-clearer-more-capable-answers-for-complex-work-78316657]]'
+superseded: true
 theme: model-support
 type: change
 ---

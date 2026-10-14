@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images|chatgpt-2024-08-08-e79066]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: ef4c1729f7de3d9e3931966d2e9957bcefb1b3b4e537487d7dff9e0722ed2c7f
+machine_hash: 45004a21c349711f119d7250b8267bba7202a5c9ea0034d2ee96d72f89c6ce39
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2024-08-08-just-ask-chatgpt-to-create-an-image-for-a-slide-deck-personalize-a-card-for-a-fr|chatgpt-2024-08-08-9e2a49]]'
 - '[[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images|chatgpt-2024-08-08-e79066]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-03-18-android-app-c47c961b|chatgpt-2025-03-18-android-app-c47c961b]]'
+superseded: true
 theme: image-generation
 type: change
 ---

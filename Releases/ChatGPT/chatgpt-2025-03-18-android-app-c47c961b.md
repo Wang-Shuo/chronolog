@@ -1,16 +1,27 @@
 ---
-changes_count: 2
+changes_count: 1
 date: '2025-03-18'
-machine_hash: c001fad3f681d6c1efb020125b6bb3d89f9d7cb8409c0150e5e4018589e5d5cb
+machine_hash: aa272fc15f3ab5095a0f6f0c1286ae2555f23c8b973a6f7ff772e9eae2603173
 product: chatgpt
 product_name: ChatGPT
+record:
+  date: '2025-03-18'
+  product: chatgpt
+  product_name: ChatGPT
+  release_id: chatgpt-2025-03-18-android-app-c47c961b
+  source_summary: 1⁠. Increased the default size for in‐line generated images.
+  source_type: chatgpt_changelog
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#android-app
+  title: Android App
+  version: Android App
 release_id: chatgpt-2025-03-18-android-app-c47c961b
 source_release: Android App
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_4684e4f3d2
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#android-app
 tags:
 - release
 - chatgpt
+title: ChatGPT — Android App
 version: Android App
 ---
 
@@ -18,15 +29,14 @@ version: Android App
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
-Increased the default size for in‐line generated images.
+1⁠. Increased the default size for in‐line generated images.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_4684e4f3d2)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#android-app)
 
-Tracked cards: 2
+Tracked cards: 1
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- image-generation: [[Changes/ChatGPT/2025-03-18-increased-the-default-size-for-in-line-generated-images|Increased the default size for in‐line generated images.]]
-- safety-privacy: [[Changes/ChatGPT/2025-03-18-more-clear-and-private-incognito-keyboard-for-temporary-chats|More clear and private Incognito keyboard for Temporary Chats.]]
+- image-generation: [[Changes/ChatGPT/2025-03-18-1-increased-the-default-size-for-in-line-generated-images|1⁠. Increased the default size for in‐line generated images.]]
 <!-- chronolog:end -->

@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-10-23-shared-projects-are-ideal-for|chatgpt-2025-10-23-91e884]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 294e1f26f525f2573a3c37c1c15d036ac9c879f2ce7a41cd345dbc6cf8118f0f
+machine_hash: 990de7ab11f3412f5dc52e3742742455d34c06ab1b1214675a8201c9d4603181
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-10-23-content-creation-apply-project-specific-instructions-to-keep-tone-and-style-cons|chatgpt-2025-10-23-52a8ca]]'
 - '[[Changes/ChatGPT/2025-10-23-shared-projects-are-ideal-for|chatgpt-2025-10-23-91e884]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-13-group-chats-in-chatgpt-8a8193ad|chatgpt-2025-11-13-group-chats-in-chatgpt-8a8193ad]]'
+superseded: true
 theme: collaboration
 type: change
 ---

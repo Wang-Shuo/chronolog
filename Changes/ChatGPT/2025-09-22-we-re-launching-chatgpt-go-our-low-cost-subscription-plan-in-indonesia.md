@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-08-18-for-399-month-gst-included-chatgpt-go-provides-everything-included-in-the-free-p|chatgpt-2025-08-18-e774c8]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: c9305a02a1f8035878954eaf64ecc11f698762b1052ebae7d3aef75a82ca9222
+machine_hash: 2449146e4cf0eb15109dfad07ea006ff20fc321a3d50053f13c850fdc3f8713c
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-08-18-chatgpt-go-is-geo-restricted-to-india-at-launch-and-is-able-to-be-subscribed-to|chatgpt-2025-08-18-cebbd9]]'
 - '[[Changes/ChatGPT/2025-08-18-for-399-month-gst-included-chatgpt-go-provides-everything-included-in-the-free-p|chatgpt-2025-08-18-e774c8]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-22-chatgpt-go-now-available-in-indonesia-27c365a7|chatgpt-2025-09-22-chatgpt-go-now-available-in-indonesia-27c365a7]]'
+superseded: true
 theme: pricing-model
 type: change
 ---

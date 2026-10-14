@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-06-12-improvements-to-memory-to-reference-past-chats-in-a-project|chatgpt-2025-06-12-cd0103]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 938e5c01ab89b67ae693428860f8aff8693f629e796c6299a5fbdb94193f1a6b
+machine_hash: eae85c97fabc7833f0d6d90f7ed76d559951050fb015ce0f37f0558767616249
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-06-03-outside-the-european-regions-listed-above-all-free-users-that-have-memory-enable|chatgpt-2025-06-03-62a4bc]]'
 - '[[Changes/ChatGPT/2025-06-12-improvements-to-memory-to-reference-past-chats-in-a-project|chatgpt-2025-06-12-cd0103]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-07-personalities-0d95bb60|chatgpt-2025-08-07-personalities-0d95bb60]]'
+superseded: true
 theme: memory
 type: change
 ---

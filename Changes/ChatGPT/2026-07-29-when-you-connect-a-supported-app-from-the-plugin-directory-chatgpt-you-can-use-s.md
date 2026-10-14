@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2026-07-09-we-re-deprecating-atlas-as-we-bring-browser-based-agentic-capabilities-into-chat|chatgpt-2026-07-09-ce8700]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 7823bd0ee598bf13175b2341db7e11231ef796b174ff3a7f36da6689d10cea5d
+machine_hash: dbf4e1967fcd3eda37e1a3eb249ad67d2d1da6bcdabcd16b655ab53bf5a4fc47
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Claude Code/2026-07-10-gateway-login-now-supports-anthropic-operated-public-gateway-endpoints|claude-code-2026-07-10-829123]]'
 - '[[Changes/Claude Code/2026-07-21-changed-the-login-expiry-warning-to-appear-3-days-before-expiry-instead-of-5|claude-code-2026-07-21-25f32d]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-29-sign-in-with-chatgpt-beta-98094157|chatgpt-2026-07-29-sign-in-with-chatgpt-beta-98094157]]'
+superseded: true
 theme: account-access
 type: change
 ---

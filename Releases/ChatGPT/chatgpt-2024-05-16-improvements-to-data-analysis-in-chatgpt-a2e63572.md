@@ -1,16 +1,27 @@
 ---
 changes_count: 5
 date: '2024-05-16'
-machine_hash: 605e36926e1d230aa848ecd7f141630620e36a15f179e40ec3f7a867d18e0f34
+machine_hash: c80b78900b65fc412ac1c83da589f336d1cb364664c4959edcfb0eedd26b84b5
 product: chatgpt
 product_name: ChatGPT
+record:
+  date: '2024-05-16'
+  product: chatgpt
+  product_name: ChatGPT
+  release_id: chatgpt-2024-05-16-improvements-to-data-analysis-in-chatgpt-a2e63572
+  source_summary: 'Today, we’re starting to roll out enhancements to data analysis:'
+  source_type: chatgpt_changelog
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-data-analysis-in-chatgpt
+  title: Improvements to data analysis in ChatGPT
+  version: Improvements to data analysis in ChatGPT
 release_id: chatgpt-2024-05-16-improvements-to-data-analysis-in-chatgpt-a2e63572
 source_release: Improvements to data analysis in ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_78b6147826
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-data-analysis-in-chatgpt
 tags:
 - release
 - chatgpt
+title: ChatGPT — Improvements to data analysis in ChatGPT
 version: Improvements to data analysis in ChatGPT
 ---
 
@@ -20,7 +31,7 @@ version: Improvements to data analysis in ChatGPT
 <!-- chronolog:begin region="summary" -->
 Today, we’re starting to roll out enhancements to data analysis:
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_78b6147826)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-data-analysis-in-chatgpt)
 
 Tracked cards: 5
 <!-- chronolog:end -->

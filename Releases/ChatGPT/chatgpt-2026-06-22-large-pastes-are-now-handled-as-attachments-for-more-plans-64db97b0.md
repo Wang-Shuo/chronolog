@@ -1,9 +1,22 @@
 ---
 changes_count: 1
 date: '2026-06-22'
-machine_hash: fc3b5d32194c8756dd99ce2ccffb4fa22d28b7bc60696f880639ec29ca69e1cc
+machine_hash: 77f13419169ba410f2579dc9c59118b22a4e7a299ff4ce44adfa7a4bff54d818
 product: chatgpt
 product_name: ChatGPT
+record:
+  date: '2026-06-22'
+  product: chatgpt
+  product_name: ChatGPT
+  release_id: chatgpt-2026-06-22-large-pastes-are-now-handled-as-attachments-for-more-plans-64db97b0
+  source_summary: Starting today for ChatGPT Free and Go users, long pastes are handled
+    differently in ChatGPT.If you paste more than 10k characters into the composer,
+    ChatGPT will automatically convert the content into an attachment instead of inserting
+    it directly into the text field. This keeps the composer cleaner and helps prevent…
+  source_type: chatgpt_changelog
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#large-pastes-are-now-handled-as-attachments-for-more-plans
+  title: Large pastes are now handled as attachments for more plans
+  version: Large pastes are now handled as attachments for more plans
 release_id: chatgpt-2026-06-22-large-pastes-are-now-handled-as-attachments-for-more-plans-64db97b0
 source_release: Large pastes are now handled as attachments for more plans
 source_type: chatgpt_changelog
@@ -11,6 +24,7 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#la
 tags:
 - release
 - chatgpt
+title: ChatGPT — Large pastes are now handled as attachments for more plans
 version: Large pastes are now handled as attachments for more plans
 ---
 
@@ -18,7 +32,7 @@ version: Large pastes are now handled as attachments for more plans
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
-Starting today for ChatGPT Free and Go users, long pastes are handled differently in ChatGPT. If you paste more than 10k characters into the composer, ChatGPT will automatically convert the content into an attachment instead of inserting it directly into the text field. This keeps the composer cleaner and helps prevent…
+Starting today for ChatGPT Free and Go users, long pastes are handled differently in ChatGPT.If you paste more than 10k characters into the composer, ChatGPT will automatically convert the content into an attachment instead of inserting it directly into the text field. This keeps the composer cleaner and helps prevent…
 
 [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#large-pastes-are-now-handled-as-attachments-for-more-plans)
 

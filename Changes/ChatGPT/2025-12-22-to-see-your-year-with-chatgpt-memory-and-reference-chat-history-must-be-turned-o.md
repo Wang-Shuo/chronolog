@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-12-19-use-more-or-fewer-headers-lists|chatgpt-2025-12-19-d5c3f0]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 2a50cf3a8dea94b8a79827f9ef5e340eb27b57c7af0f674500158477eecade91
+machine_hash: a07a7963adf3d54ea2478737134367f944a4fda7990db41bc3c7bfc9636595dc
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-12-19-in-addition-to-selecting-a-base-style-and-tone-preset-like-candid-and-friendly-y|chatgpt-2025-12-19-c71a45]]'
 - '[[Changes/ChatGPT/2025-12-19-use-more-or-fewer-headers-lists|chatgpt-2025-12-19-d5c3f0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-12-22-your-year-with-chatgpt-6dbbef4d|chatgpt-2025-12-22-your-year-with-chatgpt-6dbbef4d]]'
+superseded: true
 theme: memory
 type: change
 ---

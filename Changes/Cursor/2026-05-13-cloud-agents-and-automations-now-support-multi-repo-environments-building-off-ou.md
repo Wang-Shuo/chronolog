@@ -3,31 +3,71 @@ card_id: cursor-2026-05-13-b5c19b
 date: '2026-05-13'
 diffusion:
   first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1042
-  role: variant
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: agent-mode
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Cursor/2026-05-13-this-release-introduces-quality-of-life-improvements-to-the-agents-window|cursor-2026-05-13-8b8717]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: paradigm-shift
-machine_hash: 97e6eade5d587aa2ea904d1485b065af68251612ad7e693d4312dce8a1446545
+machine_hash: 82cb7edb8c2e2c9ed338ae5255aba0d29508046066e1969d0a71bf404863ab3f
 product: cursor
 product_name: Cursor
+record:
+  ai_generated: true
+  card_id: cursor-2026-05-13-b5c19b
+  comparison: ''
+  confidence: low
+  date: '2026-05-13'
+  description: 'Cursor — Development environments for cloud agents: Cloud agents and
+    automations now support multi-repo environments, building off our work on multi-root
+    workspaces. You can configure a single environment with all the repositories an
+    agent needs for its work, with re-use across sessions.'
+  evidence:
+  - quote: Cloud agents and automations now support multi-repo environments, building
+      off our work on multi-root workspaces. You can configure a single environment
+      with all the repositories an agent needs for its work, with re-use across sessions.
+    source_release: https://cursor.com/changelog/05-13-26
+  extractor_version: fallback-v3
+  impact: paradigm-shift
+  product: cursor
+  product_name: Cursor
+  slug: cloud-agents-and-automations-now-support-multi-repo-environments-building-off-ou
+  source_release: cursor-2026-05-13-3-4-https-cursor-com-changelog-05-13-26-685b1c4c
+  source_type: cursor_changelog
+  theme: agent-mode
+  theme_matches:
+  - matched_terms:
+    - agent
+    - agents
+    score: 100
+    theme: agent-mode
+  - matched_terms:
+    - automations
+    score: 50
+    theme: automation-scheduling
+  title: Cloud agents and automations now support multi-repo environments, building
+    off o
+  type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-13-to-take-engineering-tasks-from-start-to-finish-agents-need-a-development-environ|cursor-2026-05-13-2235e3]]'
 - '[[Changes/Cursor/2026-05-13-files-changes-canvases-prs-browsers-and-terminals-can-expand-to-fill-the-entire|cursor-2026-05-13-28d4e5]]'
 - '[[Changes/Cursor/2026-05-13-this-release-introduces-quality-of-life-improvements-to-the-agents-window|cursor-2026-05-13-8b8717]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-13-3-4-https-cursor-com-changelog-05-13-26-685b1c4c|cursor-2026-05-13-3-4-https-cursor-com-changelog-05-13-26-685b1c4c]]'
+source_type: cursor_changelog
 theme: agent-mode
+title: Cloud agents and automations now support multi-repo environments, building
+  off o
 type: change
 ---
 
 # Cloud agents and automations now support multi-repo environments, building off o
 
 <!-- chronolog:begin region="description" -->
-Cloud agents and automations now support multi-repo environments, building off our work on multi-root workspaces. You can configure a single environment with all the repositories an agent needs for its work, with re-use across sessions.
+Cursor — Development environments for cloud agents: Cloud agents and automations now support multi-repo environments, building off our work on multi-root workspaces. You can configure a single environment with all the repositories an agent needs for its work, with re-use across sessions.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +77,15 @@ Cloud agents and automations now support multi-repo environments, building off o
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Cursor/2026-05-13-this-release-introduces-quality-of-life-improvements-to-the-agents-window|cursor-2026-05-13-8b8717]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: agent-mode
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: variant
+- Role: later-observed
 - First In Tracked: [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]
 - Lag Days: 1042
 - Tracked Products Count: 3

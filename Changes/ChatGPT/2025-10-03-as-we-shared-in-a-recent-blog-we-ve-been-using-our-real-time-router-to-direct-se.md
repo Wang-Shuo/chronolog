@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-10-03-we-re-updating-gpt-5-instant-to-better-recognize-and-support-people-in-moments-o|chatgpt-2025-10-03-379009]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: ea1d55ecab956c22ce10c0538598dda37c713bff7179fc6fea76b28ce3237cf2
+machine_hash: f11c11ba05602796b51299d2d787027fe36bba42836f87d02afa0c03d6397d3d
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-10-03-this-update-to-gpt-5-instant-is-starting-to-roll-out-to-chatgpt-users-today-we-r|chatgpt-2025-10-03-240ee1]]'
 - '[[Changes/ChatGPT/2025-10-03-we-re-updating-gpt-5-instant-to-better-recognize-and-support-people-in-moments-o|chatgpt-2025-10-03-379009]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-03-updating-gpt-5-a6c090c8|chatgpt-2025-10-03-updating-gpt-5-a6c090c8]]'
+superseded: true
 theme: model-support
 type: change
 ---

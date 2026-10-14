@@ -15,7 +15,7 @@ export const sharedPageComponents: SharedLayout = {
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
-    Component.ArticleTitle(),
+    // Vault pages already have their own H1; avoid repeating long card titles.
     Component.ContentMeta(),
     Component.TagList(),
   ],

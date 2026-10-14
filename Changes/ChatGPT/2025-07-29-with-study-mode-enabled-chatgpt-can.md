@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-07-29-guide-understanding-with-socratic-style-questions|chatgpt-2025-07-29-b76bfc]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 50c6edd84b36766a339ee1ca0b97567d901f0c9db68e842e3ccd7d21b198a322
+machine_hash: 96d67fef06502df3dd0f1dce5f173a519372c206a1d121311b26ea86068d4fab
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-07-29-study-mode-is-a-new-learning-experience-in-chatgpt-designed-to-help-you-build-a|chatgpt-2025-07-29-a5eb84]]'
 - '[[Changes/ChatGPT/2025-07-29-guide-understanding-with-socratic-style-questions|chatgpt-2025-07-29-b76bfc]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-07-29-study-mode-ffbfbea6|chatgpt-2025-07-29-study-mode-ffbfbea6]]'
+superseded: true
 theme: learning-tools
 type: change
 ---

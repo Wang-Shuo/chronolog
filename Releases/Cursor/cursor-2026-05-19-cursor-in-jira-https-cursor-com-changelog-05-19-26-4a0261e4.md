@@ -1,9 +1,19 @@
 ---
 changes_count: 4
 date: '2026-05-19'
-machine_hash: db278da7504cd2ae0212dc33d25f369f4959fa8f0df6f65fe93f980b50c8a0c7
+machine_hash: 01fc37e9413370ff650752ff22cf2a205cb207bb725985820b6e2664bcd21d17
 product: cursor
 product_name: Cursor
+record:
+  date: '2026-05-19'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2026-05-19-cursor-in-jira-https-cursor-com-changelog-05-19-26-4a0261e4
+  source_summary: Cursor is now available in Jira.
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/05-19-26
+  title: Cursor in Jira
+  version: Cursor in Jira
 release_id: cursor-2026-05-19-cursor-in-jira-https-cursor-com-changelog-05-19-26-4a0261e4
 source_release: Cursor in Jira
 source_type: cursor_changelog
@@ -11,6 +21,7 @@ source_url: https://cursor.com/changelog/05-19-26
 tags:
 - release
 - cursor
+title: Cursor — Cursor in Jira
 version: Cursor in Jira
 ---
 

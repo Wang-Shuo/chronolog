@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-06-07-additionally-rare-hallucinations-in-voice-mode-persist-with-this-update-resultin|chatgpt-2025-06-07-2f15b4]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: e8b21742db6a7fb09537b1a04e9c10fc7676335c60683a2a77938041e0141802
+machine_hash: 21592df009d8754bdc6b8003cd86d50dd9188a0edb40cbdb47d02400480f6112
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-05-01-launched-on-april-1-as-a-one-month-surprise-our-monday-personality-available-in|chatgpt-2025-05-01-c83f5d]]'
 - '[[Changes/ChatGPT/2025-06-07-additionally-rare-hallucinations-in-voice-mode-persist-with-this-update-resultin|chatgpt-2025-06-07-2f15b4]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-07-updates-to-advanced-voice-mode-for-paid-users-55969446|chatgpt-2025-06-07-updates-to-advanced-voice-mode-for-paid-users-55969446]]'
+superseded: true
 theme: voice
 type: change
 ---

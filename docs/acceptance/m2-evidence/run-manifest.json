@@ -1,0 +1,80 @@
+{
+  "run_id": "m2-2026-10-13-accepted-code",
+  "started_at": "2026-10-13T11:40:31Z",
+  "today": "2026-10-13",
+  "timezone": "Asia/Shanghai",
+  "status": "published",
+  "reconcile": true,
+  "recovered_run": null,
+  "sources": [
+    {
+      "product": "chatgpt",
+      "status": "success",
+      "collected_at": "2026-10-13T11:00:27Z",
+      "complete": true,
+      "coverage": "available-endpoint",
+      "count": 292,
+      "earliest": "2022-12-15",
+      "latest": "2026-10-07",
+      "error": null,
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "acquisition": "browser-snapshot",
+      "acquired_at": "2026-10-13T10:59:17Z",
+      "known_gaps": "Official changelog entries only; Codex-only entries excluded. Rollout dates are not universal availability dates.",
+      "snapshot_sha256": "8340926d2048cdaea962e28fa229a5c8e155121a59c05903beba4e76e353c2ff"
+    },
+    {
+      "product": "claude-code",
+      "status": "success",
+      "collected_at": "2026-10-13T11:00:27Z",
+      "complete": true,
+      "coverage": "available-endpoint",
+      "count": 241,
+      "earliest": "2025-12-19",
+      "latest": "2026-10-09",
+      "error": null,
+      "url": "https://api.github.com/repos/anthropics/claude-code/releases",
+      "acquisition": "http",
+      "acquired_at": "2026-10-13T10:57:19.300643+00:00",
+      "known_gaps": "GitHub Releases starts at v2.0.73 on 2025-12-19. Official CHANGELOG.md contains 0.2.x–2.0.72 history without publication dates; not imported."
+    },
+    {
+      "product": "cursor",
+      "status": "success",
+      "collected_at": "2026-10-13T11:00:27Z",
+      "complete": true,
+      "coverage": "available-endpoint",
+      "count": 254,
+      "earliest": "2023-03-14",
+      "latest": "2026-10-06",
+      "error": null,
+      "url": "https://cursor.com/changelog",
+      "acquisition": "http",
+      "acquired_at": "2026-10-13T10:53:45Z",
+      "known_gaps": "Official paginated changelog only; unannounced changes are outside scope."
+    }
+  ],
+  "mode": "full",
+  "collection_errors": [],
+  "phase": "complete",
+  "round1": {
+    "passed": 1940,
+    "pending_theme_review": 143,
+    "failed": 0
+  },
+  "requested_products": [
+    "chatgpt",
+    "claude-code",
+    "cursor"
+  ],
+  "reconcile_products": [
+    "chatgpt",
+    "claude-code",
+    "cursor"
+  ],
+  "merged_releases": 787,
+  "merged_cards": 1940,
+  "pending_theme_review": 143,
+  "changed_files": 15,
+  "completed_at": "2026-10-13T11:40:58Z"
+}

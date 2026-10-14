@@ -33,4 +33,4 @@ def test_fixture_pipeline_generates_vault_content(tmp_path: Path):
     assert (project / "Alerts").exists()
     assert (project / "index.md").exists()
     assert any((project / "Themes").glob("*.md"))
-    assert "```mermaid" in next((project / "Themes").glob("*.md")).read_text()
+    assert "same-theme chronology" in next((project / "Themes").glob("*.md")).read_text()

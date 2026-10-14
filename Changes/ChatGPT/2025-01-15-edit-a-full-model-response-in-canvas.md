@@ -2,49 +2,85 @@
 card_id: chatgpt-2025-01-15-1662f4
 date: '2025-01-15'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week|chatgpt-2023-07-06-63388c]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|chatgpt-2023-07-06-66255e]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 559
-  role: variant
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: file-data
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/ChatGPT/2024-12-13-advanced-data-analysis|chatgpt-2024-12-13-6708ef]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: significant
-machine_hash: d856fb87d5ab43f1a5affcbb896245caad5a666cd4c30a12198cd3d5d984663d
+machine_hash: 4c0404ad4f46cafa4137a232686cc88c078fd4818029fab0aad80cde0312925c
 product: chatgpt
 product_name: ChatGPT
+record:
+  ai_generated: true
+  card_id: chatgpt-2025-01-15-1662f4
+  comparison: ''
+  confidence: low
+  date: '2025-01-15'
+  description: 'ChatGPT — Import from Chat into Canvas: Edit a full model response
+    in Canvas'
+  evidence:
+  - quote: Edit a full model response in Canvas
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#import-from-chat-into-canvas
+  extractor_version: fallback-v3
+  impact: significant
+  product: chatgpt
+  product_name: ChatGPT
+  slug: edit-a-full-model-response-in-canvas
+  source_release: chatgpt-2025-01-15-import-from-chat-into-canvas-e328bc82
+  source_type: chatgpt_changelog
+  theme: file-data
+  theme_matches:
+  - matched_terms:
+    - canvas
+    score: 50
+    theme: file-data
+  - matched_terms:
+    - model
+    score: 50
+    theme: model-support
+  theme_resolution: manual-semantic-rule-v1
+  title: Edit a full model response in Canvas
+  type: change
 related_changes:
 - '[[Changes/ChatGPT/2024-12-10-canvas-shortcut-you-can-now-paste-content-into-chatgpt-and-instantly-open-it-in|chatgpt-2024-12-10-50d408]]'
 - '[[Changes/ChatGPT/2024-12-10-canvas-in-toolbox-canvas-has-been-added-as-an-option-in-the-toolbox|chatgpt-2024-12-10-e5af93]]'
 - '[[Changes/ChatGPT/2024-12-13-advanced-data-analysis|chatgpt-2024-12-13-6708ef]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-01-15-import-from-chat-into-canvas-e328bc82|chatgpt-2025-01-15-import-from-chat-into-canvas-e328bc82]]'
+source_type: chatgpt_changelog
 theme: file-data
+title: Edit a full model response in Canvas
 type: change
 ---
 
 # Edit a full model response in Canvas
 
 <!-- chronolog:begin region="description" -->
-Edit a full model response in Canvas
+ChatGPT — Import from Chat into Canvas: Edit a full model response in Canvas
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Edit a full model response in Canvas
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_db21108595
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#import-from-chat-into-canvas
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/ChatGPT/2024-12-13-advanced-data-analysis|chatgpt-2024-12-13-6708ef]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: file-data
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: variant
-- First In Tracked: [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week|chatgpt-2023-07-06-63388c]]
+- Role: later-observed
+- First In Tracked: [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|chatgpt-2023-07-06-66255e]]
 - Lag Days: 559
 - Tracked Products Count: 3
 <!-- chronolog:end -->

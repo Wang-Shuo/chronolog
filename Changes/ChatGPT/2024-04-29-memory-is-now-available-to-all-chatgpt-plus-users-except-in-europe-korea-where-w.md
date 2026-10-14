@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2024-04-29-memory-can-be-turned-on-or-off-in-settings-team-enterprise-and-gpts-to-come|chatgpt-2024-04-29-9bedfd]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: 7ca92561edea76bb1c1595a500ce048cc2fc792f4a7b2ee0622ad7306e3cddc7
+machine_hash: 8c96460d5ce812c2a289d99ef461c14b57a7ec8f8d95a1f0e910f6ec569e2b10
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2024-02-13-you-re-in-control-of-chatgpt-s-memory-you-can-explicitly-tell-it-to-remember-som|chatgpt-2024-02-13-bb22bc]]'
 - '[[Changes/ChatGPT/2024-04-29-memory-can-be-turned-on-or-off-in-settings-team-enterprise-and-gpts-to-come|chatgpt-2024-04-29-9bedfd]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-04-29-memory-is-now-available-to-plus-users-4ba2f306|chatgpt-2024-04-29-memory-is-now-available-to-plus-users-4ba2f306]]'
+superseded: true
 theme: memory
 type: change
 ---

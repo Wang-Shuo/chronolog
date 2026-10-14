@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2025-06-04-automatic-code-review-with-bugbot|cursor-2025-06-04-4aacce]]'
 extractor_version: fallback-v2
 impact: paradigm-shift
-machine_hash: 4241f995da1db1a27efde596f1a3e82b5ba91902371e2882c3c7a556029001c8
+machine_hash: 3a509dce085805e1e224f4c22f3f748921bffab8bbf8b425d4673804d43e5178
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2025-06-04-bugbot-automatically-reviews-your-prs-and-catches-potential-bugs-and-issues|cursor-2025-06-04-1e5499]]'
 - '[[Changes/Cursor/2025-06-04-automatic-code-review-with-bugbot|cursor-2025-06-04-4aacce]]'
 source_release: '[[Releases/Cursor/cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3|cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3]]'
+superseded: true
 theme: developer-workflow
 type: change
 ---

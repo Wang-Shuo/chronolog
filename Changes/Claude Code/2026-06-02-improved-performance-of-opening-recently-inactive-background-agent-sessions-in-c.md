@@ -3,31 +3,69 @@ card_id: claude-code-2026-06-02-ab10e4
 date: '2026-06-02'
 diffusion:
   first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1062
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: agent-mode
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Claude Code/2026-05-29-claude-agents-the-agent-field-in-settings-json-is-now-honored-for-dispatched-ses|claude-code-2026-05-29-371def]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: paradigm-shift
-machine_hash: c565fd1ab074d9e2463f12660aa7a37c7c848bffed0aac00a690663231256750
+machine_hash: f69eb907f879089da6c45dcf6955524b7a5c4d6c55d9fbd5f788986a9a1344e3
 product: claude-code
 product_name: Claude Code
+record:
+  ai_generated: true
+  card_id: claude-code-2026-06-02-ab10e4
+  comparison: ''
+  confidence: low
+  date: '2026-06-02'
+  description: 'Claude Code — v2.1.160: Improved performance of opening recently-inactive
+    background agent sessions in `claude agents`'
+  evidence:
+  - quote: Improved performance of opening recently-inactive background agent sessions
+      in `claude agents`
+    source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.160
+  extractor_version: fallback-v3
+  impact: paradigm-shift
+  product: claude-code
+  product_name: Claude Code
+  slug: improved-performance-of-opening-recently-inactive-background-agent-sessions-in-c
+  source_release: claude-code-2026-06-02-v2-1-160-github-332740156-03dd8b5a
+  source_type: github_releases
+  theme: agent-mode
+  theme_matches:
+  - matched_terms:
+    - agent
+    - agents
+    - background agent
+    score: 160
+    theme: agent-mode
+  - matched_terms:
+    - performance
+    score: 50
+    theme: reliability-performance
+  title: Improved performance of opening recently-inactive background agent sessions
+    in `
+  type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-29-claude-agents-the-agent-field-in-settings-json-is-now-honored-for-dispatched-ses|claude-code-2026-05-29-371def]]'
 - '[[Changes/Cursor/2026-05-29-auto-review-is-a-new-run-mode-that-allows-cursor-to-work-for-longer-with-fewer-a|cursor-2026-05-29-3941c1]]'
 - '[[Changes/Cursor/2026-05-29-configure-your-run-mode-in-settings-cursor-settings-agents-approvals-execution-y|cursor-2026-05-29-d4afd0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-02-v2-1-160-github-332740156-03dd8b5a|claude-code-2026-06-02-v2-1-160-github-332740156-03dd8b5a]]'
+source_type: github_releases
 theme: agent-mode
+title: 'Improved performance of opening recently-inactive background agent sessions
+  in '
 type: change
 ---
 
 # Improved performance of opening recently-inactive background agent sessions in `
 
 <!-- chronolog:begin region="description" -->
-Improved performance of opening recently-inactive background agent sessions in `claude agents`
+Claude Code — v2.1.160: Improved performance of opening recently-inactive background agent sessions in `claude agents`
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +75,15 @@ Improved performance of opening recently-inactive background agent sessions in `
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Claude Code/2026-05-29-claude-agents-the-agent-field-in-settings-json-is-now-honored-for-dispatched-ses|claude-code-2026-05-29-371def]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: agent-mode
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
+- Role: later-observed
 - First In Tracked: [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]
 - Lag Days: 1062
 - Tracked Products Count: 3

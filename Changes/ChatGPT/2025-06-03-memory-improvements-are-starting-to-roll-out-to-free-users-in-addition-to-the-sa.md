@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-05-08-free-tier-users-have-access-to-saved-memories-only|chatgpt-2025-05-08-dd7f2f]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: fedefb956001eba4dfd33df10de8a0cd455b04db684da94bb71b745969ba4833
+machine_hash: bcb4db702171237e7e23e665b616ed5bc999b550a6ed22a273bd6fcd605f52d9
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-05-08-enhanced-memory-rolling-out-to-all-plus-and-pro-users-including-the-eu-the-new-m|chatgpt-2025-05-08-bb9a62]]'
 - '[[Changes/ChatGPT/2025-05-08-free-tier-users-have-access-to-saved-memories-only|chatgpt-2025-05-08-dd7f2f]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-03-memory-is-now-more-comprehensive-for-free-users-32de8dd3|chatgpt-2025-06-03-memory-is-now-more-comprehensive-for-free-users-32de8dd3]]'
+superseded: true
 theme: memory
 type: change
 ---

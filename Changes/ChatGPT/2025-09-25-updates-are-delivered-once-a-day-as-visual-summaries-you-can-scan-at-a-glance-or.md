@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-06-03-opt-in-reminders|chatgpt-2025-06-03-f5eb2b]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 77ddd19a174677469e9af9b27950a02ebd7d19574749b0fc46604828c8b665ca
+machine_hash: 8ee57bf3305ae87b9de474187dcaa039d0a470de4007d56894c08fa26a71ce08
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-05-08-opt-in-reminders|chatgpt-2025-05-08-6dc49e]]'
 - '[[Changes/ChatGPT/2025-06-03-opt-in-reminders|chatgpt-2025-06-03-f5eb2b]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-25-introducing-chatgpt-pulse-for-pro-users-5be6c168|chatgpt-2025-09-25-introducing-chatgpt-pulse-for-pro-users-5be6c168]]'
+superseded: true
 theme: automation-scheduling
 type: change
 ---

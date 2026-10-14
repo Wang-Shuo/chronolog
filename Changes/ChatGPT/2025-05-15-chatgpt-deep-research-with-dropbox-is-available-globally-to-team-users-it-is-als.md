@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-05-12-you-can-now-export-your-deep-research-reports-as-well-formatted-pdfs-complete-wi|chatgpt-2025-05-12-e6da85]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 724c7d74e0694f1b0600ad266550b10e496161ceb9872b70abc19c382f4e8ec4
+machine_hash: 5184ec7ebae50e6c94f76902ef7b2ddd6affa106c91ba3c7eacaa5a5c14ee8b2
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-05-12-chatgpt-deep-research-with-sharepoint-and-onedrive-is-available-globally-to-team|chatgpt-2025-05-12-327525]]'
 - '[[Changes/ChatGPT/2025-05-12-you-can-now-export-your-deep-research-reports-as-well-formatted-pdfs-complete-wi|chatgpt-2025-05-12-e6da85]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-15-dropbox-connector-for-deep-research-for-plus-pro-team-25e1576a|chatgpt-2025-05-15-dropbox-connector-for-deep-research-for-plus-pro-team-25e1576a]]'
+superseded: true
 theme: search-browsing
 type: change
 ---

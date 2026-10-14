@@ -12,12 +12,13 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-01-14-scheduled-tasks-is-in-early-beta-for-plus-pro-and-teams-eventually-this-will-be|chatgpt-2025-01-14-24a2be]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: 78211b33d77c03a672a8ff2e32977e9701a66aee9eff3a4ebef7f79a1d29b2b1
+machine_hash: c768e98d12a414bc1e48f5e7153cfc4551df28d4d27ffb3cd84cc3d9a7acf960
 product: chatgpt
 product_name: ChatGPT
 related_changes:
 - '[[Changes/ChatGPT/2025-01-14-scheduled-tasks-is-in-early-beta-for-plus-pro-and-teams-eventually-this-will-be|chatgpt-2025-01-14-24a2be]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-01-14-scheduled-tasks-in-chatgpt-b8005b4a|chatgpt-2025-01-14-scheduled-tasks-in-chatgpt-b8005b4a]]'
+superseded: true
 theme: automation-scheduling
 type: change
 ---

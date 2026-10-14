@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2025-04-15-you-can-now-generate-rules-directly-from-a-conversation-using-the-generate-curso|cursor-2025-04-15-c77526]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 2563551faa89e5dcef5b7bfeb1c39f20c0ef5928e4d06bafbec1e35d0385a79b
+machine_hash: e1a10a28b386e42f8e92e204bea31826c493eafc3d4c63ee66330f47c3bfc3c4
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2025-01-23-summarize-previous-composers-when-conversations-grow-too-long-you-can-start-a-ne|cursor-2025-01-23-94ee00]]'
 - '[[Changes/Cursor/2025-04-15-you-can-now-generate-rules-directly-from-a-conversation-using-the-generate-curso|cursor-2025-04-15-c77526]]'
 source_release: '[[Releases/Cursor/cursor-2025-06-12-1-1-https-cursor-com-changelog-1-1-0f0190fc|cursor-2025-06-12-1-1-https-cursor-com-changelog-1-1-0f0190fc]]'
+superseded: true
 theme: context-window
 type: change
 ---

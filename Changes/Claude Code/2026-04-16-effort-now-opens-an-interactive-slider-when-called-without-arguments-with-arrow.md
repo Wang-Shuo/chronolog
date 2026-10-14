@@ -3,31 +3,57 @@ card_id: claude-code-2026-04-16-626106
 date: '2026-04-16'
 diffusion:
   first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1193
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: interface-experience
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Claude Code/2026-04-15-improved-the-extended-thinking-indicator-with-a-rotating-progress-hint|claude-code-2026-04-15-f46ce4]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 20808df699e00880bb08a50cf2958de5a1a3f1fafbf39811bfb2e62520c73926
+machine_hash: 2335910058c184b1c9cc00c56df175f1df06677ef894c5dcb9803dae009b4b82
 product: claude-code
 product_name: Claude Code
+record:
+  card_id: claude-code-2026-04-16-626106
+  comparison: ''
+  date: '2026-04-16'
+  description: 'Claude Code — v2.1.111: `/effort` now opens an interactive slider
+    when called without arguments, with arrow-key navigation between levels and Enter
+    to confirm'
+  evidence:
+  - quote: '`/effort` now opens an interactive slider when called without arguments,
+      with arrow-key navigation between levels and Enter to confirm'
+    source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.111
+  extractor_version: fallback-v3
+  impact: incremental
+  product: claude-code
+  product_name: Claude Code
+  slug: effort-now-opens-an-interactive-slider-when-called-without-arguments-with-arrow
+  source_release: claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78
+  source_type: github_releases
+  theme: interface-experience
+  title: '`/effort` now opens an interactive slider when called without arguments,
+    with ar'
+  type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-15-added-autoscrollenabled-config-to-disable-conversation-auto-scroll-in-fullscreen|claude-code-2026-04-15-308081]]'
+- '[[Changes/Claude Code/2026-04-15-changed-ctrl-o-to-toggle-between-normal-and-verbose-transcript-only-focus-view-i|claude-code-2026-04-15-4c9427]]'
 - '[[Changes/Claude Code/2026-04-15-added-tui-command-and-tui-setting-run-tui-fullscreen-to-switch-to-flicker-free-r|claude-code-2026-04-15-55d9a6]]'
 - '[[Changes/Claude Code/2026-04-15-improved-the-extended-thinking-indicator-with-a-rotating-progress-hint|claude-code-2026-04-15-f46ce4]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78|claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78]]'
+source_type: github_releases
 theme: interface-experience
+title: /effort now opens an interactive slider when called without arguments, with
+  ar
 type: change
 ---
 
 # `/effort` now opens an interactive slider when called without arguments, with ar
 
 <!-- chronolog:begin region="description" -->
-`/effort` now opens an interactive slider when called without arguments, with arrow-key navigation between levels and Enter to confirm
+Claude Code — v2.1.111: `/effort` now opens an interactive slider when called without arguments, with arrow-key navigation between levels and Enter to confirm
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +63,15 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Claude Code/2026-04-15-improved-the-extended-thinking-indicator-with-a-rotating-progress-hint|claude-code-2026-04-15-f46ce4]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: interface-experience
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
+- Role: later-observed
 - First In Tracked: [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]
 - Lag Days: 1193
 - Tracked Products Count: 3

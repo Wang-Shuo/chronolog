@@ -3,31 +3,62 @@ card_id: chatgpt-2025-03-27-d8484d
 date: '2025-03-27'
 diffusion:
   first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 808
-  role: variant
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: model-support
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/ChatGPT/2025-03-27-smarter-problem-solving-in-stem-and-coding|chatgpt-2025-03-27-ad8aff]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: c31d00b355b77d3c46a7e02ab5ba68d8ddf041e6bb3ecf456ae0e76c210f1357
+machine_hash: 12abbf9f40897bb65a2854cd8879bb065239a57983fcb68dc38cf16487c8142a
 product: chatgpt
 product_name: ChatGPT
+record:
+  card_id: chatgpt-2025-03-27-d8484d
+  comparison: ''
+  date: '2025-03-27'
+  description: 'ChatGPT — Improvements to GPT-4o: GPT-4o is now more adept at following
+    detailed instructions, especially for prompts containing multiple or complex requests.
+    It improves on generating outputs according to the format requested and achieves
+    higher accuracy in classification tasks.'
+  evidence:
+  - quote: GPT-4o is now more adept at following detailed instructions, especially
+      for prompts containing multiple or complex requests. It improves on generating
+      outputs according to the format requested and achieves higher accuracy in classification
+      tasks.
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-gpt-4o
+  extractor_version: fallback-v3
+  impact: incremental
+  product: chatgpt
+  product_name: ChatGPT
+  slug: gpt-4o-is-now-more-adept-at-following-detailed-instructions-especially-for-promp
+  source_release: chatgpt-2025-03-27-improvements-to-gpt-4o-4bcfc1a7
+  source_type: chatgpt_changelog
+  theme: model-support
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v2
+  title: GPT-4o is now more adept at following detailed instructions, especially for
+    prom
+  type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-03-27-we-ve-made-improvements-to-gpt-4o-it-now-feels-more-intuitive-creative-and-colla|chatgpt-2025-03-27-5afb48]]'
+- '[[Changes/ChatGPT/2025-03-27-early-testers-say-that-the-model-seems-to-better-understand-the-implied-intent-b|chatgpt-2025-03-27-800de1]]'
 - '[[Changes/ChatGPT/2025-03-27-gpt-4o-has-further-improved-its-capability-to-tackle-complex-technical-and-codin|chatgpt-2025-03-27-9fca00]]'
-- '[[Changes/ChatGPT/2025-03-27-smarter-problem-solving-in-stem-and-coding|chatgpt-2025-03-27-ad8aff]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-03-27-improvements-to-gpt-4o-4bcfc1a7|chatgpt-2025-03-27-improvements-to-gpt-4o-4bcfc1a7]]'
+source_type: chatgpt_changelog
 theme: model-support
+title: GPT-4o is now more adept at following detailed instructions, especially for
+  prom
 type: change
 ---
 
 # GPT-4o is now more adept at following detailed instructions, especially for prom
 
 <!-- chronolog:begin region="description" -->
-GPT-4o is now more adept at following detailed instructions, especially for prompts containing multiple or complex requests. It improves on generating outputs according to the format requested and achieves higher accuracy in classification tasks.
+ChatGPT — Improvements to GPT-4o: GPT-4o is now more adept at following detailed instructions, especially for prompts containing multiple or complex requests. It improves on generating outputs according to the format requested and achieves higher accuracy in classification tasks.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +68,15 @@ GPT-4o is now more adept at following detailed instructions, especially for prom
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/ChatGPT/2025-03-27-smarter-problem-solving-in-stem-and-coding|chatgpt-2025-03-27-ad8aff]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: model-support
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: variant
+- Role: later-observed
 - First In Tracked: [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]
 - Lag Days: 808
 - Tracked Products Count: 3

@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2026-01-08-use-the-new-agent-models-command-list-models-flag-or-models-slash-command-to-lis|cursor-2026-01-08-26a5de]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 8f6100630abd4df1c59e26e854d56532b158784ff50c62def8bc10839623df62
+machine_hash: 793f75b901e2d01e8ebce7cf72fb388c26f41c7f83e462fe07d8ec3d7762530c
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Claude Code/2026-02-04-reduced-layout-jitter-in-the-terminal-when-the-spinner-appears-and-disappears-du|claude-code-2026-02-04-f162af]]'
 - '[[Changes/Claude Code/2026-02-10-improved-heredoc-delimiter-parsing-to-prevent-command-smuggling|claude-code-2026-02-10-ac3a58]]'
 source_release: '[[Releases/Cursor/cursor-2026-02-18-cli-improvements-and-mermaid-ascii-diagrams-https-cursor-com-cha-a75d36c7|cursor-2026-02-18-cli-improvements-and-mermaid-ascii-diagrams-https-cursor-com-cha-a75d36c7]]'
+superseded: true
 theme: developer-workflow
 type: change
 ---

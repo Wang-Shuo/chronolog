@@ -2,32 +2,58 @@
 card_id: claude-code-2026-03-17-331b63
 date: '2026-03-17'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed|chatgpt-2023-03-23-86e5a9]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1090
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Claude Code/2026-03-14-added-mcp-elicitation-support-mcp-servers-can-now-request-structured-input-mid-t|claude-code-2026-03-14-928360]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 419730ff49129f4b4cfb3c3ef1f5bce6f0ce140b732fbd96cde68d6c8f81c872
+machine_hash: a2a247fe8f69554d19d3f259d7c45c3c98d5195f0cbc12633c238dd51107443f
 product: claude-code
 product_name: Claude Code
+record:
+  card_id: claude-code-2026-03-17-331b63
+  comparison: ''
+  date: '2026-03-17'
+  description: 'Claude Code — v2.1.78: Added `StopFailure` hook event that fires when
+    the turn ends due to an API error (rate limit, auth failure, etc.)'
+  evidence:
+  - quote: Added `StopFailure` hook event that fires when the turn ends due to an
+      API error (rate limit, auth failure, etc.)
+    source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.78
+  extractor_version: fallback-v3
+  impact: incremental
+  product: claude-code
+  product_name: Claude Code
+  slug: added-stopfailure-hook-event-that-fires-when-the-turn-ends-due-to-an-api-error-r
+  source_release: claude-code-2026-03-17-v2-1-78-github-298204446-1f2c1721
+  source_type: github_releases
+  theme: apps-integrations
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v1
+  title: Added `StopFailure` hook event that fires when the turn ends due to an API
+    error
+  type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-12-changed-plugin-dir-so-local-dev-copies-now-override-installed-marketplace-plugin|claude-code-2026-03-12-f0c0b4]]'
 - '[[Changes/Claude Code/2026-03-14-added-new-elicitation-and-elicitationresult-hooks-to-intercept-and-override-resp|claude-code-2026-03-14-00facb]]'
 - '[[Changes/Claude Code/2026-03-14-added-mcp-elicitation-support-mcp-servers-can-now-request-structured-input-mid-t|claude-code-2026-03-14-928360]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-17-v2-1-78-github-298204446-1f2c1721|claude-code-2026-03-17-v2-1-78-github-298204446-1f2c1721]]'
+source_type: github_releases
 theme: apps-integrations
+title: Added StopFailure hook event that fires when the turn ends due to an API error
 type: change
 ---
 
 # Added `StopFailure` hook event that fires when the turn ends due to an API error
 
 <!-- chronolog:begin region="description" -->
-Added `StopFailure` hook event that fires when the turn ends due to an API error (rate limit, auth failure, etc.)
+Claude Code — v2.1.78: Added `StopFailure` hook event that fires when the turn ends due to an API error (rate limit, auth failure, etc.)
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,14 +63,16 @@ Added `StopFailure` hook event that fires when the turn ends due to an API error
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Claude Code/2026-03-14-added-mcp-elicitation-support-mcp-servers-can-now-request-structured-input-mid-t|claude-code-2026-03-14-928360]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: apps-integrations
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
-- First In Tracked: [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed|chatgpt-2023-03-23-86e5a9]]
+- Role: later-observed
+- First In Tracked: [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]
 - Lag Days: 1090
 - Tracked Products Count: 3
 <!-- chronolog:end -->

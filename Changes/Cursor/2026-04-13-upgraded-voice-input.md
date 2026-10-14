@@ -11,7 +11,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: b72daa1d65122162da03d1b4a317c904bc0ea7ebe0fa5fc7f23d44768ba11953
+machine_hash: ce412024c457a509b35563650dfa712e5d9f66b0174d9f4665bf0ca060a3abc6
 product: cursor
 product_name: Cursor
 related_changes:
@@ -19,6 +19,7 @@ related_changes:
 - '[[Changes/Claude Code/2026-03-05-added-voice-stt-support-for-10-new-languages-20-total-russian-polish-turkish-dut|claude-code-2026-03-05-69ebb8]]'
 - '[[Changes/Claude Code/2026-03-07-added-voice-pushtotalk-keybinding-to-make-the-voice-activation-key-rebindable-in|claude-code-2026-03-07-c19380]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313|cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313]]'
+superseded: true
 theme: voice
 type: change
 ---

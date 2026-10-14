@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-02-28-gpt-4-5-was-released-to-users-on-the-pro-plan-in-chatgpt|chatgpt-2025-02-28-fff647]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 9a2b401a07dfbeeafe41ee21e06cb642a0ef4e737510a1e61b0aee7cb4cb6431
+machine_hash: affc641a47453afc970a1f9790609b08d9a617ef29e844311d4e69692575f2c8
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2025-03-11-0-47-7-max-mode-for-3-7-sonnet-with-and-without-thinking|cursor-2025-03-11-0d40ed]]'
 - '[[Changes/Cursor/2025-03-11-0-47-5-client-side-support-for-upcoming-max-mode-compatibility-for-claude-3-7-so|cursor-2025-03-11-79e4bd]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-03-18-web-and-the-windows-desktop-app-ef646255|chatgpt-2025-03-18-web-and-the-windows-desktop-app-ef646255]]'
+superseded: true
 theme: model-support
 type: change
 ---

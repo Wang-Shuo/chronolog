@@ -1,9 +1,20 @@
 ---
 changes_count: 5
 date: '2026-05-11'
-machine_hash: b3ef3c559e51f82857f53512c0223be571991999c946df44df4769af0b2b7b8d
+machine_hash: a7783c21bcd83161698880458e3a8d442f729066373ee33d4a41553c25c9a143
 product: cursor
 product_name: Cursor
+record:
+  date: '2026-05-11'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2026-05-11-bugbot-effort-levels-https-cursor-com-changelog-05-11-26-b41d8617
+  source_summary: 'Teams admins and Individual plan users can now customize the effort
+    level Bugbot uses for its PR reviews, with three different configurations:'
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/05-11-26
+  title: Bugbot Effort Levels
+  version: Bugbot Effort Levels
 release_id: cursor-2026-05-11-bugbot-effort-levels-https-cursor-com-changelog-05-11-26-b41d8617
 source_release: Bugbot Effort Levels
 source_type: cursor_changelog
@@ -11,6 +22,7 @@ source_url: https://cursor.com/changelog/05-11-26
 tags:
 - release
 - cursor
+title: Cursor — Bugbot Effort Levels
 version: Bugbot Effort Levels
 ---
 

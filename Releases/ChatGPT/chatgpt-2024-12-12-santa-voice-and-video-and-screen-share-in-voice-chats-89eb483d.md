@@ -1,16 +1,27 @@
 ---
 changes_count: 5
 date: '2024-12-12'
-machine_hash: 2e7542045b90d58ce471a0f33367b236ac9dca84a7c12ca4be854cc543465df0
+machine_hash: 56e9d6d3a0e369c74a48ea23c53756260933b87469e19694704155554f387575
 product: chatgpt
 product_name: ChatGPT
+record:
+  date: '2024-12-12'
+  product: chatgpt
+  product_name: ChatGPT
+  release_id: chatgpt-2024-12-12-santa-voice-and-video-and-screen-share-in-voice-chats-89eb483d
+  source_summary: 'Today we started rolling out two updates to voice mode in ChatGPT:'
+  source_type: chatgpt_changelog
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#santa-voice-and-video-and-screen-share-in-voice-chats
+  title: Santa Voice and Video and Screen Share in Voice Chats
+  version: Santa Voice and Video and Screen Share in Voice Chats
 release_id: chatgpt-2024-12-12-santa-voice-and-video-and-screen-share-in-voice-chats-89eb483d
 source_release: Santa Voice and Video and Screen Share in Voice Chats
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_45b0e6f55e
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#santa-voice-and-video-and-screen-share-in-voice-chats
 tags:
 - release
 - chatgpt
+title: ChatGPT — Santa Voice and Video and Screen Share in Voice Chats
 version: Santa Voice and Video and Screen Share in Voice Chats
 ---
 
@@ -20,7 +31,7 @@ version: Santa Voice and Video and Screen Share in Voice Chats
 <!-- chronolog:begin region="summary" -->
 Today we started rolling out two updates to voice mode in ChatGPT:
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_45b0e6f55e)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#santa-voice-and-video-and-screen-share-in-voice-chats)
 
 Tracked cards: 5
 <!-- chronolog:end -->

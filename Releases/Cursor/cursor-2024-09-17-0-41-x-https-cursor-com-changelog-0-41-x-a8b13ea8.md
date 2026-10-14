@@ -1,9 +1,19 @@
 ---
 changes_count: 5
 date: '2024-09-17'
-machine_hash: edc38ef793663b109a14f48e36a93b5b5939229c944c2602a5693c362a26e389
+machine_hash: 3779658e2502a63340ace8062c3e8f206a1a90f40ce72b10c4182b4774f649a5
 product: cursor
 product_name: Cursor
+record:
+  date: '2024-09-17'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2024-09-17-0-41-x-https-cursor-com-changelog-0-41-x-a8b13ea8
+  source_summary: 'This update fixes the following security issue: CVE-2024-45599.'
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-41-x
+  title: Cursor Tab Python Auto Import, Composer Improvements, Remote SSH to Mac Support
+  version: 0.41.x
 release_id: cursor-2024-09-17-0-41-x-https-cursor-com-changelog-0-41-x-a8b13ea8
 source_release: Cursor Tab Python Auto Import, Composer Improvements, Remote SSH to
   Mac Support
@@ -12,6 +22,8 @@ source_url: https://cursor.com/changelog/0-41-x
 tags:
 - release
 - cursor
+title: Cursor — Cursor Tab Python Auto Import, Composer Improvements, Remote SSH to
+  Mac Support
 version: 0.41.x
 ---
 

@@ -1,0 +1,60 @@
+{
+  "baseline_commit": "997692de8a9c23d8de09bbbaad2633b2c03c669c",
+  "implementation": "uncommitted working tree; code hashes in each quality.json",
+  "offline": {
+    "run_id": "m3-auth-final",
+    "input_kind": "replay",
+    "status": "no-change",
+    "counts_as_schedule": false,
+    "tests_passed": 148
+  },
+  "live_failure": {
+    "run_id": "m3-live-manual",
+    "status": "failed",
+    "counts_as_schedule": false,
+    "note": "Actual HTTP + dated snapshot fallback; before optional GitHub read-token fix."
+  },
+  "actionlint": {
+    "version": "1.7.7",
+    "exit_code": 0,
+    "shellcheck": false,
+    "files": [
+      ".github/workflows/quality.yml",
+      ".github/workflows/generate.yml",
+      ".github/workflows/deploy.yml"
+    ]
+  },
+  "remote_configured": false,
+  "public_deployment_verified": false,
+  "archive_notes": [
+    "Candidate and rendered site are reproducible and omitted.",
+    "collection.json is stored as collection.json.gz; live chatgpt.html is stored as chatgpt.html.gz. Original per-run evidence ledgers retain original filenames and hashes.",
+    "Live snapshot capture retains its original acquisition timestamp.",
+    "All local engineering gates passed; C1-C5 remain pending."
+  ],
+  "sha256": {
+    "actionlint.log": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "installation.log": "2e59cc4488c1d981b95546a4e461d0a65cc8841f6331537dc7faf8f6821dca73",
+    "live-failure/chatgpt.html.gz": "2d04c0b199a653a5cdc400db3a8207f52eee134ab00aa50382cc12087c638f8f",
+    "live-failure/collection.json.gz": "673f41fd58696963e6d02895c1d0f8fa26b3f0632edaf9d550835ec5ca86261a",
+    "live-failure/evidence-sha256.json": "f1e2532ad8153bbdc8d2efa31510408712a91699724e7c98bc89a99fe3bf0f38",
+    "live-failure/quality.json": "9f86a7c23ca809a222f04373b0239235f7c1fd4b50b8e68678b274b8cbdcc5d9",
+    "live-failure/quality.md": "db8aa983c9198fd4f0ea9abc49adba2eb5b653a5a4ebe08126103efe680e9b8d",
+    "live-failure/snapshot-capture.json": "38ffe357422f86a542f76823f3ffbb81eda70bcc7ac8acb3e371ce7ea2487d5a",
+    "offline/build.log": "e544209c4f7d256f2ea09dd67b207802514ec31efa5e5d1ef5f2c6955e52ae9c",
+    "offline/collection.json.gz": "8b28617796db6c95c899181c0fb3a367f040001eb281205de3792dcd4ab55a3b",
+    "offline/evidence-sha256.json": "1e33414b4126df2560246fcfb871df15aeba8549a2a43f92670eee18d892015e",
+    "offline/publication.json": "5e40a48c13527609446b2feed412d7ea45c5db4e4e735f4afd4f9972c5744396",
+    "offline/quality.json": "86409ee0ac65011a945d3d3de3dc08d3c979af936a68a076f369201e122231b6",
+    "offline/quality.md": "00b52aa0b60e2eec14430b64fd09eb92d60e9b4c41deb772326f824f2769d59f",
+    "offline/tests.log": "62162022108cee99b28b5cf9031d37f880216ae410b82f5a0b4030466daf5086",
+    "offline/vault-validation.json": "eb7e133bb5ef9f78d7dd26c4e0a384c6e3ee2214a63834a2e2c6074a913c486d",
+    "vault-unchanged.json": "9883e0ada6b63bbeab1494dfa88a4f89fdc201f979fe0a4701457f668c1da3aa",
+    "schedule-attempt-tests.log": "4c836d3b6941559a212443d21d890f1026ecd07d3b46659da7fc549eda447a5e",
+    "schedule-attempt-verification.json": "3d7cd7c0ed4eccfc5a18a9db630e08e20825be995f08e98d0f67abba9943eca8"
+  },
+  "follow_up": {
+    "report": "schedule-attempt-verification.json",
+    "tests_passed": 151
+  }
+}

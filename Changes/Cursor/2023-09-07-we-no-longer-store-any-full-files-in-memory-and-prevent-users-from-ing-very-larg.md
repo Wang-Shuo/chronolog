@@ -2,31 +2,57 @@
 card_id: cursor-2023-09-07-17aeac
 date: '2023-09-07'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat|chatgpt-2023-07-20-4592e6]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|chatgpt-2023-07-20-37833c]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 49
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v2
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 4e3bcc7925f4de59ba9cb3dd39ff88fe44852bbe3cbdb22cc4182c6d42ba1fb5
+machine_hash: 5335b2fcb9226e9b41f9809a8d602ecd3824583f3e1729932b0b5a8e77bcb6dc
 product: cursor
 product_name: Cursor
+record:
+  card_id: cursor-2023-09-07-17aeac
+  comparison: ''
+  date: '2023-09-07'
+  description: 'Cursor — Better State Management: We no longer store any full files
+    in memory and prevent users from @''ing very large files (> 2MB)'
+  evidence:
+  - quote: We no longer store any full files in memory and prevent users from @'ing
+      very large files (> 2MB)
+    source_release: https://cursor.com/changelog/0-9-7-nightly
+  extractor_version: fallback-v3
+  impact: incremental
+  product: cursor
+  product_name: Cursor
+  slug: we-no-longer-store-any-full-files-in-memory-and-prevent-users-from-ing-very-larg
+  source_release: cursor-2023-09-07-0-9-7-nightly-https-cursor-com-changelog-0-9-7-nightly-87d1216f
+  source_type: cursor_changelog
+  theme: memory
+  title: We no longer store any full files in memory and prevent users from @'ing
+    very la
+  type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-08-09-custom-instructions-are-now-available-to-chatgpt-users-on-the-free-plan-except-f|chatgpt-2023-08-09-2dce55]]'
-- '[[Changes/ChatGPT/2023-08-09-customize-your-interactions-with-chatgpt-by-providing-specific-details-and-guide|chatgpt-2023-08-09-81031c]]'
-- '[[Changes/ChatGPT/2023-08-21-custom-instructions-are-now-available-to-users-in-the-european-union-united-king|chatgpt-2023-08-21-4da8d4]]'
+- '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|chatgpt-2023-07-20-37833c]]'
+- '[[Changes/ChatGPT/2023-08-09-custom-instructions-are-now-available-to-chatgpt-users-on-the-free-plan-except-f-963d1e|chatgpt-2023-08-09-963d1e]]'
+- '[[Changes/ChatGPT/2023-08-21-custom-instructions-are-now-available-to-users-in-the-european-union-united-king-cfc1d5|chatgpt-2023-08-21-cfc1d5]]'
 source_release: '[[Releases/Cursor/cursor-2023-09-07-0-9-7-nightly-https-cursor-com-changelog-0-9-7-nightly-87d1216f|cursor-2023-09-07-0-9-7-nightly-https-cursor-com-changelog-0-9-7-nightly-87d1216f]]'
+source_type: cursor_changelog
 theme: memory
+title: We no longer store any full files in memory and prevent users from @'ing very
+  la
 type: change
 ---
 
 # We no longer store any full files in memory and prevent users from @'ing very la
 
 <!-- chronolog:begin region="description" -->
-We no longer store any full files in memory and prevent users from @'ing very large files (> 2MB)
+Cursor — Better State Management: We no longer store any full files in memory and prevent users from @'ing very large files (> 2MB)
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -36,14 +62,16 @@ We no longer store any full files in memory and prevent users from @'ing very la
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-No prior tracked change.
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: memory
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
-- First In Tracked: [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat|chatgpt-2023-07-20-4592e6]]
+- Role: later-observed
+- First In Tracked: [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|chatgpt-2023-07-20-37833c]]
 - Lag Days: 49
 - Tracked Products Count: 3
 <!-- chronolog:end -->

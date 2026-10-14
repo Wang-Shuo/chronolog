@@ -2,50 +2,109 @@
 card_id: chatgpt-2026-03-18-64ffa1
 date: '2026-03-18'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-27-enterprise-support|cursor-2023-07-27-4d0704]]'
-  lag_days: 965
-  role: follower
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1164
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
-  theme: enterprise-admin
+  theme: model-support
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/ChatGPT/2026-03-17-we-ve-simplified-the-model-picker-to-make-it-easier-to-choose-the-right-level-of|chatgpt-2026-03-17-2fd325]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: significant
-machine_hash: 5ca07117c3004d16f4bbd41df1a489157034da2594383c39704200a5f4c0fbfb
+machine_hash: cd968a8e5aa26f21d71e28ff12b19938210e798265872f2e1c221ffd20ae8871
 product: chatgpt
 product_name: ChatGPT
+record:
+  ai_generated: true
+  card_id: chatgpt-2026-03-18-64ffa1
+  comparison: ''
+  confidence: low
+  date: '2026-03-18'
+  description: 'ChatGPT — GPT-5.4 mini in ChatGPT: We’re rolling out GPT-5.4 mini
+    in ChatGPT. GPT-5.4 mini is available to Free and Go users via the “Thinking”
+    feature in the + menu. For all other users, GPT-5.4 mini is available as a rate
+    limit fallback for GPT-5.4 Thinking.For Plus, Pro, and other paid users, GPT-5.4
+    mini will be used as a fallback for GPT-5.4 Thinking when rate limits are reached,
+    helping with continued access to reasoning capabilities during high usage. Enterprise
+    customers will retain the option to default Auto routing to GPT-5.4 mini, if preferred.GPT-5.4
+    mini will not appear as a selectable model in the model picker. Learn more in
+    our blog post.'
+  evidence:
+  - quote: We’re rolling out GPT-5.4 mini in ChatGPT. GPT-5.4 mini is available to
+      Free and Go users via the “Thinking” feature in the + menu. For all other users,
+      GPT-5.4 mini is available as a rate limit fallback for GPT-5.4 Thinking.For
+      Plus, Pro, and other paid users, GPT-5.4 mini will be used as a fallback for
+      GPT-5.4 Thinking when rate limits are reached, helping with continued access
+      to reasoning capabilities during high usage. Enterprise customers will retain
+      the option to default Auto routing to GPT-5.4 mini, if preferred.GPT-5.4 mini
+      will not appear as a selectable model in the model picker. Learn more in our
+      blog post.
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-54-mini-in-chatgpt
+  extractor_version: fallback-v3
+  impact: significant
+  product: chatgpt
+  product_name: ChatGPT
+  slug: we-re-rolling-out-gpt-5-4-mini-in-chatgpt-gpt-5-4-mini-is-available-to-free-and
+  source_release: chatgpt-2026-03-18-gpt-5-4-mini-in-chatgpt-2d1677c3
+  source_type: chatgpt_changelog
+  theme: model-support
+  theme_matches:
+  - matched_terms:
+    - gpt 5
+    - model
+    score: 110
+    theme: model-support
+  - matched_terms:
+    - menu
+    - picker
+    score: 100
+    theme: interface-experience
+  - matched_terms:
+    - enterprise
+    score: 50
+    theme: enterprise-admin
+  theme_resolution: manual-semantic-rule-v2
+  title: We’re rolling out GPT-5.4 mini in ChatGPT. GPT-5.4 mini is available to Free
+    and
+  type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-12-22-this-experience-is-rolling-out-gradually-throughout-the-day-so-it-may-not-be-ava|chatgpt-2025-12-22-9b0733]]'
-- '[[Changes/Cursor/2026-03-03-on-teams-and-enterprise-plans-admins-can-now-create-team-marketplaces-to-share-p|cursor-2026-03-03-ba695c]]'
-- '[[Changes/ChatGPT/2026-03-17-we-ve-simplified-the-model-picker-to-make-it-easier-to-choose-the-right-level-of|chatgpt-2026-03-17-2fd325]]'
+- '[[Changes/ChatGPT/2026-03-17-pro-the-most-advanced-reasoning-models|chatgpt-2026-03-17-a8f1a3]]'
+- '[[Changes/ChatGPT/2026-03-17-thinking-deeper-reasoning-for-more-complex-tasks|chatgpt-2026-03-17-acdeda]]'
+- '[[Changes/Claude Code/2026-03-17-increased-default-maximum-output-token-limits-for-claude-opus-4-6-to-64k-tokens|claude-code-2026-03-17-edeb5b]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-18-gpt-5-4-mini-in-chatgpt-2d1677c3|chatgpt-2026-03-18-gpt-5-4-mini-in-chatgpt-2d1677c3]]'
-theme: enterprise-admin
+source_type: chatgpt_changelog
+theme: model-support
+title: We’re rolling out GPT-5.4 mini in ChatGPT. GPT-5.4 mini is available to Free
+  and
 type: change
 ---
 
 # We’re rolling out GPT-5.4 mini in ChatGPT. GPT-5.4 mini is available to Free and
 
 <!-- chronolog:begin region="description" -->
-We’re rolling out GPT-5.4 mini in ChatGPT. GPT-5.4 mini is available to Free and Go users via the “Thinking” feature in the + menu. For all other users, GPT-5.4 mini is available as a rate limit fallback for GPT-5.4 Thinking. For Plus, Pro, and other paid users, GPT-5.4 mini will be used as a fallback for GPT-5.4 Thinking when rate limits are reached, helping with continued access to reasoning capabilities during high usage. Enterprise customers will retain the option to default Auto routing to GPT-5.4 mini, if preferred. GPT-5.4 mini will not appear as a selectable model in the model picker. Learn more in our blog post.
+ChatGPT — GPT-5.4 mini in ChatGPT: We’re rolling out GPT-5.4 mini in ChatGPT. GPT-5.4 mini is available to Free and Go users via the “Thinking” feature in the + menu. For all other users, GPT-5.4 mini is available as a rate limit fallback for GPT-5.4 Thinking.For Plus, Pro, and other paid users, GPT-5.4 mini will be used as a fallback for GPT-5.4 Thinking when rate limits are reached, helping with continued access to reasoning capabilities during high usage. Enterprise customers will retain the option to default Auto routing to GPT-5.4 mini, if preferred.GPT-5.4 mini will not appear as a selectable model in the model picker. Learn more in our blog post.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
-> We’re rolling out GPT-5.4 mini in ChatGPT. GPT-5.4 mini is available to Free and Go users via the “Thinking” feature in the + menu. For all other users, GPT-5.4 mini is available as a rate limit fallback for GPT-5.4 Thinking. For Plus, Pro, and other paid users, GPT-5.4 mini will be used as a fallback for GPT-5.4 Thinking when rate limits are reached, helping with continued access to reasoning capabilities during high usage. Enterprise customers will retain the option to default Auto routing to GPT-5.4 mini, if preferred. GPT-5.4 mini will not appear as a selectable model in the model picker. Learn more in our blog post.
+> We’re rolling out GPT-5.4 mini in ChatGPT. GPT-5.4 mini is available to Free and Go users via the “Thinking” feature in the + menu. For all other users, GPT-5.4 mini is available as a rate limit fallback for GPT-5.4 Thinking.For Plus, Pro, and other paid users, GPT-5.4 mini will be used as a fallback for GPT-5.4 Thinking when rate limits are reached, helping with continued access to reasoning capabilities during high usage. Enterprise customers will retain the option to default Auto routing to GPT-5.4 mini, if preferred.GPT-5.4 mini will not appear as a selectable model in the model picker. Learn more in our blog post.
 >
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-54-mini-in-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/ChatGPT/2026-03-17-we-ve-simplified-the-model-picker-to-make-it-easier-to-choose-the-right-level-of|chatgpt-2026-03-17-2fd325]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
-- Theme: enterprise-admin
+- Theme: model-support
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
-- First In Tracked: [[Changes/Cursor/2023-07-27-enterprise-support|cursor-2023-07-27-4d0704]]
-- Lag Days: 965
+- Role: later-observed
+- First In Tracked: [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]
+- Lag Days: 1164
 - Tracked Products Count: 3
 <!-- chronolog:end -->
 

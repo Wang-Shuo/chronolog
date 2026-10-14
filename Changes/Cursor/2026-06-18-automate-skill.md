@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2026-06-18-describe-the-task-you-want-to-automate-in-plain-language-and-cursor-will-configu|cursor-2026-06-18-60aec9]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 60e826195e9303452ac9cd6af974d3b1d1a14d85961824656a613d5099b10ddd
+machine_hash: 2121ba18195f2fb7aa1722eddbe1a6092fd46cf774ddfc1ffd5b467e01b8b1c3
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2026-06-18-use-automate-to-create-an-automation-directly-in-your-local-agent-session|cursor-2026-06-18-45d667]]'
 - '[[Changes/Cursor/2026-06-18-describe-the-task-you-want-to-automate-in-plain-language-and-cursor-will-configu|cursor-2026-06-18-60aec9]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-18-3-8-https-cursor-com-changelog-06-18-26-0b493e15|cursor-2026-06-18-3-8-https-cursor-com-changelog-06-18-26-0b493e15]]'
+superseded: true
 theme: automation-scheduling
 type: change
 ---

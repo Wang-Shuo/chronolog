@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-02-14-updated-launch-animations-and-composer-design-on-android|chatgpt-2025-02-14-fb60f1]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 8c788b381a755b97efcdac95a1aca7b748ab6e96e9e67483552ca322011109ab
+machine_hash: 7315ea7adb63f44338e28ad389b859f7137e88d79418b5e5690e6691b6870a2a
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-02-14-confirmation-dialog-for-logging-out-ios-web|chatgpt-2025-02-14-b3e6ab]]'
 - '[[Changes/ChatGPT/2025-02-14-updated-launch-animations-and-composer-design-on-android|chatgpt-2025-02-14-fb60f1]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-02-21-1-6b86b273|chatgpt-2025-02-21-1-6b86b273]]'
+superseded: true
 theme: mobile-desktop
 type: change
 ---

@@ -11,13 +11,14 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 25211377769e2b6ad12b62c2dab440e313ad4472ae77ff15a19666555b19a8a9
+machine_hash: 0bdf7412902de7a0f98f06b693bfc5e17e4871736a564f1bb368b0eb85f8c4d0
 product: chatgpt
 product_name: ChatGPT
 related_changes:
 - '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|cursor-2023-05-04-00d3b7]]'
 - '[[Changes/Cursor/2023-05-04-alpha-feature-alpha-feature-ask-questions-about-your-entire-repo-we-are-experime|cursor-2023-05-04-83ddab]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-05-12-web-browsing-and-plugins-are-now-rolling-out-in-beta-5dbe86e7|chatgpt-2023-05-12-web-browsing-and-plugins-are-now-rolling-out-in-beta-5dbe86e7]]'
+superseded: true
 theme: context-window
 type: change
 ---

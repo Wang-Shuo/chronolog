@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2023-02-13-we-rolled-out-the-ability-to-purchase-chatgpt-plus-internationally|chatgpt-2023-02-13-d327ff]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: 4c098d396462b9d0a997b7dab0411c1cb12ec816a6b35d559bc7e9c8aa9c17af
+machine_hash: 41962008c328548d2772d88d7e03e49af5ce0c4394eb31e84188d58422b31177
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2025-05-15-we-ve-heard-your-feedback-and-are-rolling-out-a-unified-pricing-model-to-make-it|cursor-2025-05-15-c48d0c]]'
 - '[[Changes/Cursor/2025-05-15-all-model-usage-is-now-unified-into-request-based-pricing|cursor-2025-05-15-fcfeee]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-18-introducing-chatgpt-go-fbc1ef7a|chatgpt-2025-08-18-introducing-chatgpt-go-fbc1ef7a]]'
+superseded: true
 theme: pricing-model
 type: change
 ---

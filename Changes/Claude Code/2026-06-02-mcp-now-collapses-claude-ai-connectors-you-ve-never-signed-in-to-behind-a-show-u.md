@@ -2,32 +2,57 @@
 card_id: claude-code-2026-06-02-187c5a
 date: '2026-06-02'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed|chatgpt-2023-03-23-86e5a9]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1167
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Claude Code/2026-05-29-added-autocomplete-for-plugin-arguments-subcommands-installed-plugin-names-and-p|claude-code-2026-05-29-adc504]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 512b3e43f99d8875e0d3ee903e7f7768de9437e5358837441a83040d02cd0b2f
+machine_hash: 6ce2f8fedb3aae6d27385a50481247581e8877de12a19bc0041b841b4cf79884
 product: claude-code
 product_name: Claude Code
+record:
+  card_id: claude-code-2026-06-02-187c5a
+  comparison: ''
+  date: '2026-06-02'
+  description: 'Claude Code — v2.1.161: `/mcp` now collapses claude.ai connectors
+    you''ve never signed in to behind a "Show unused connectors" row'
+  evidence:
+  - quote: '`/mcp` now collapses claude.ai connectors you''ve never signed in to behind
+      a "Show unused connectors" row'
+    source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.161
+  extractor_version: fallback-v3
+  impact: incremental
+  product: claude-code
+  product_name: Claude Code
+  slug: mcp-now-collapses-claude-ai-connectors-you-ve-never-signed-in-to-behind-a-show-u
+  source_release: claude-code-2026-06-02-v2-1-161-github-333271302-7337e6fa
+  source_type: github_releases
+  theme: apps-integrations
+  title: '`/mcp` now collapses claude.ai connectors you''ve never signed in to behind
+    a "Sh'
+  type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-29-added-claude-plugin-init-name-to-scaffold-a-new-plugin-in-claude-skills|claude-code-2026-05-29-7272e1]]'
 - '[[Changes/Claude Code/2026-05-29-plugins-in-claude-skills-directories-are-now-automatically-loaded-no-marketplace|claude-code-2026-05-29-84ef75]]'
 - '[[Changes/Claude Code/2026-05-29-added-autocomplete-for-plugin-arguments-subcommands-installed-plugin-names-and-p|claude-code-2026-05-29-adc504]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-02-v2-1-161-github-333271302-7337e6fa|claude-code-2026-06-02-v2-1-161-github-333271302-7337e6fa]]'
+source_type: github_releases
 theme: apps-integrations
+title: /mcp now collapses claude.ai connectors you've never signed in to behind a
+  "Sh
 type: change
 ---
 
 # `/mcp` now collapses claude.ai connectors you've never signed in to behind a "Sh
 
 <!-- chronolog:begin region="description" -->
-`/mcp` now collapses claude.ai connectors you've never signed in to behind a "Show unused connectors" row
+Claude Code — v2.1.161: `/mcp` now collapses claude.ai connectors you've never signed in to behind a "Show unused connectors" row
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,14 +62,16 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Claude Code/2026-05-29-added-autocomplete-for-plugin-arguments-subcommands-installed-plugin-names-and-p|claude-code-2026-05-29-adc504]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: apps-integrations
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
-- First In Tracked: [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed|chatgpt-2023-03-23-86e5a9]]
+- Role: later-observed
+- First In Tracked: [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]
 - Lag Days: 1167
 - Tracked Products Count: 3
 <!-- chronolog:end -->

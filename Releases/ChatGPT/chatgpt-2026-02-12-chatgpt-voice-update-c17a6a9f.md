@@ -1,9 +1,23 @@
 ---
 changes_count: 1
 date: '2026-02-12'
-machine_hash: 0e6ba17f184996c0fd37772c22037a0a31f4cd6dc7b4a1beff2a60886c57859a
+machine_hash: 757f9bb1b72182fd931c1effbc99e9b8099243715898843e04f6c7fb0f5cf8a4
 product: chatgpt
 product_name: ChatGPT
+record:
+  date: '2026-02-12'
+  product: chatgpt
+  product_name: ChatGPT
+  release_id: chatgpt-2026-02-12-chatgpt-voice-update-c17a6a9f
+  source_summary: We’re making an update to ChatGPT Voice that improves its ability
+    to follow user instructions, and usage of tools like web search to provide better
+    responses. This update applies to the version of Voice primarily used by those
+    on the free ChatGPT plan, and by Plus users when limits are reached for the main
+    model.
+  source_type: chatgpt_changelog
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-voice-update
+  title: ChatGPT Voice Update
+  version: ChatGPT Voice Update
 release_id: chatgpt-2026-02-12-chatgpt-voice-update-c17a6a9f
 source_release: ChatGPT Voice Update
 source_type: chatgpt_changelog
@@ -11,6 +25,7 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ch
 tags:
 - release
 - chatgpt
+title: ChatGPT — ChatGPT Voice Update
 version: ChatGPT Voice Update
 ---
 

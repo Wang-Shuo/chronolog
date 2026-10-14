@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2026-05-14-generated-images-will-continue-to-appear-in-the-images-tab-storage-management-is|chatgpt-2026-05-14-8895ca]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 202be2d98881bf4b550a67e9d7c2576d780526b134038c90f115388556b544cd
+machine_hash: 7317fb852647c113c7684cc99b4685a2733f34b86bf9fb95b57d5348a9921710
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2026-05-14-codex-is-now-available-in-preview-in-the-chatgpt-mobile-app-so-you-can-stay-conn|chatgpt-2026-05-14-366d1d]]'
 - '[[Changes/ChatGPT/2026-05-14-generated-images-will-continue-to-appear-in-the-images-tab-storage-management-is|chatgpt-2026-05-14-8895ca]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5]]'
+superseded: true
 theme: mobile-desktop
 type: change
 ---

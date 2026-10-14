@@ -1,16 +1,28 @@
 ---
 changes_count: 3
 date: '2022-12-15'
-machine_hash: d8db411eb17db40c5eda249ee938fab9d3138992fb14a04dea4bf4c5c1eeebcf
+machine_hash: 37891a70ce73594efb70bcf2f888dda37976d66557e3f91a2e0c32236b951aff
 product: chatgpt
 product_name: ChatGPT
+record:
+  date: '2022-12-15'
+  product: chatgpt
+  product_name: ChatGPT
+  release_id: chatgpt-2022-12-15-performance-updates-to-chatgpt-d9abf59d
+  source_summary: 'We''re excited to announce several updates to ChatGPT! Here''s
+    what''s new:'
+  source_type: chatgpt_changelog
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#performance-updates-to-chatgpt
+  title: Performance updates to ChatGPT
+  version: Performance updates to ChatGPT
 release_id: chatgpt-2022-12-15-performance-updates-to-chatgpt-d9abf59d
 source_release: Performance updates to ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_026e1e86a4
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#performance-updates-to-chatgpt
 tags:
 - release
 - chatgpt
+title: ChatGPT — Performance updates to ChatGPT
 version: Performance updates to ChatGPT
 ---
 
@@ -20,7 +32,7 @@ version: Performance updates to ChatGPT
 <!-- chronolog:begin region="summary" -->
 We're excited to announce several updates to ChatGPT! Here's what's new:
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_026e1e86a4)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#performance-updates-to-chatgpt)
 
 Tracked cards: 3
 <!-- chronolog:end -->

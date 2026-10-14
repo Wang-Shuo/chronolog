@@ -1,9 +1,21 @@
 ---
 changes_count: 3
 date: '2026-03-11'
-machine_hash: dc99cf6839e7b78bfbb0ddd8d2602f31ad94a395dfe7d2478b05adb81df5d8e4
+machine_hash: e6cd09827f19f4a39e6852b20033d86fdb1d1f5a1cb16a9a174ab95421f28737
 product: cursor
 product_name: Cursor
+record:
+  date: '2026-03-11'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2026-03-11-new-plugins-on-the-cursor-marketplace-https-cursor-com-changelog-f5d077c3
+  source_summary: We've added more than 30 new plugins from partners such as Atlassian,
+    Datadog, GitLab, Glean, Hugging Face, monday.com, and PlanetScale. Cursor can
+    now read from, write to, and take actions across more of your stack.
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/03-11-26
+  title: New Plugins on the Cursor Marketplace
+  version: New Plugins on the Cursor Marketplace
 release_id: cursor-2026-03-11-new-plugins-on-the-cursor-marketplace-https-cursor-com-changelog-f5d077c3
 source_release: New Plugins on the Cursor Marketplace
 source_type: cursor_changelog
@@ -11,6 +23,7 @@ source_url: https://cursor.com/changelog/03-11-26
 tags:
 - release
 - cursor
+title: Cursor — New Plugins on the Cursor Marketplace
 version: New Plugins on the Cursor Marketplace
 ---
 

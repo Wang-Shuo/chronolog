@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-06-13-we-ve-upgraded-chatgpt-search-for-all-users-to-provide-even-more-comprehensive-u|chatgpt-2025-06-13-2cebee]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: b55b635b3af8f900e2fad96f357764a50114de46b1a7d981e3ab5c1b4887890f
+machine_hash: 95d463f22fbe23f30b44cfe5e4362392fca8558cb72d352a779717e2c89abb6c
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-06-04-chatgpt-team-enterprise-and-edu-customers-globally-can-use-connectors-in-deep-re|chatgpt-2025-06-04-83d3de]]'
 - '[[Changes/ChatGPT/2025-06-13-we-ve-upgraded-chatgpt-search-for-all-users-to-provide-even-more-comprehensive-u|chatgpt-2025-06-13-2cebee]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-07-24-canva-and-notion-connectors-pro-0091bf22|chatgpt-2025-07-24-canva-and-notion-connectors-pro-0091bf22]]'
+superseded: true
 theme: search-browsing
 type: change
 ---

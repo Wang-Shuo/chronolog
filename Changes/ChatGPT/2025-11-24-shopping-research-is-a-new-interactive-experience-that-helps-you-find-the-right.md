@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-11-12-we-re-updating-chatgpt-s-tone-controls-so-it-s-easier-to-make-responses-sound-th|chatgpt-2025-11-12-5f0133]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: 8957dc57bdcbce45c52858dab985f9b8237d7804be08e31827ab9d492dda9638
+machine_hash: 16ed688b40f0f47bfea4d9dcbe1ba3448dbb206f88dd779ff132a8a783df41b1
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-11-12-changes-you-make-in-personalization-now-apply-across-all-chats-immediately-inclu|chatgpt-2025-11-12-361e6a]]'
 - '[[Changes/ChatGPT/2025-11-12-we-re-updating-chatgpt-s-tone-controls-so-it-s-easier-to-make-responses-sound-th|chatgpt-2025-11-12-5f0133]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-24-shopping-research-in-chatgpt-1b8ce931|chatgpt-2025-11-24-shopping-research-in-chatgpt-1b8ce931]]'
+superseded: true
 theme: memory
 type: change
 ---

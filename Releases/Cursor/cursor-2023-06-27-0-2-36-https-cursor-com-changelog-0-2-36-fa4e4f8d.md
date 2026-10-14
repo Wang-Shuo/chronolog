@@ -1,9 +1,19 @@
 ---
 changes_count: 5
 date: '2023-06-27'
-machine_hash: 7c94422174552f4af12d35a76345c85fb4cbf9ececdbb440743451ff2f3ce273
+machine_hash: aaa547c927e4ab2afcb2af51e5e628798caf1381f52f6511422ffa205dae97d0
 product: cursor
 product_name: Cursor
+record:
+  date: '2023-06-27'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2023-06-27-0-2-36-https-cursor-com-changelog-0-2-36-fa4e4f8d
+  source_summary: Chat works if you don't have a folder open again
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-2-36
+  title: Hotfixes
+  version: 0.2.36
 release_id: cursor-2023-06-27-0-2-36-https-cursor-com-changelog-0-2-36-fa4e4f8d
 source_release: Hotfixes
 source_type: cursor_changelog
@@ -11,6 +21,7 @@ source_url: https://cursor.com/changelog/0-2-36
 tags:
 - release
 - cursor
+title: Cursor — Hotfixes
 version: 0.2.36
 ---
 

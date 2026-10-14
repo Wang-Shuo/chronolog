@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-06-10-o3-pro-is-available-in-the-model-picker-for-pro-and-team-users-starting-today-re|chatgpt-2025-06-10-e9a72d]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: db48224f4fc0375bc06d9ca2ce6f1124b85d2829d99e1684aa0aff718877d1c9
+machine_hash: 27c7d374cb40492ac6be367c48ca18247617496081832eba221ea639b33b6e32
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-06-10-in-expert-evaluations-reviewers-consistently-prefer-o3-pro-over-o3-in-every-test|chatgpt-2025-06-10-e1b38f]]'
 - '[[Changes/ChatGPT/2025-06-10-o3-pro-is-available-in-the-model-picker-for-pro-and-team-users-starting-today-re|chatgpt-2025-06-10-e9a72d]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-10-today-we-re-launching-openai-o3-pro-available-now-for-pro-users-43fd47c2|chatgpt-2025-06-10-today-we-re-launching-openai-o3-pro-available-now-for-pro-users-43fd47c2]]'
+superseded: true
 theme: model-support
 type: change
 ---

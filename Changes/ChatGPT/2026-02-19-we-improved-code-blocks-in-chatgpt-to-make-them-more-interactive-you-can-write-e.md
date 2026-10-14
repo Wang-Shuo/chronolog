@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2026-02-19-write-and-edit-text-in-line|chatgpt-2026-02-19-2288b5]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 5fafa561ea407403a94b13a89c48993dbe30137ba58b578cc12c3cbbfcbd1c3f
+machine_hash: 26eee906b1ca0147f0004ed9b14669877a833103931d3f8f18b15dcb5bd60a67
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Claude Code/2026-01-28-improved-claude-to-prefer-file-operation-tools-read-edit-write-over-bash-equival|claude-code-2026-01-28-4c47bb]]'
 - '[[Changes/ChatGPT/2026-02-19-write-and-edit-text-in-line|chatgpt-2026-02-19-2288b5]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-19-interactive-code-blocks-in-chatgpt-c2254f84|chatgpt-2026-02-19-interactive-code-blocks-in-chatgpt-c2254f84]]'
+superseded: true
 theme: editor-experience
 type: change
 ---

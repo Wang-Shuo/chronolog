@@ -1,9 +1,19 @@
 ---
 changes_count: 5
 date: '2023-11-15'
-machine_hash: e05a220b6df520aba0f0ca0cdd35b18224149d10394739387d1eaa2f57689756
+machine_hash: 7e067fe52913a24609dee082c557f3f7c7f99484ce44d92c3d28700678eaaec1
 product: cursor
 product_name: Cursor
+record:
+  date: '2023-11-15'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2023-11-15-0-16-0-https-cursor-com-changelog-0-16-0-5861ed6e
+  source_summary: 'Copilot++ improvements:'
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-16-0
+  title: Copilot++ improvements and VS Code 1.84.2
+  version: 0.16.0
 release_id: cursor-2023-11-15-0-16-0-https-cursor-com-changelog-0-16-0-5861ed6e
 source_release: Copilot++ improvements and VS Code 1.84.2
 source_type: cursor_changelog
@@ -11,6 +21,7 @@ source_url: https://cursor.com/changelog/0-16-0
 tags:
 - release
 - cursor
+title: Cursor — Copilot++ improvements and VS Code 1.84.2
 version: 0.16.0
 ---
 

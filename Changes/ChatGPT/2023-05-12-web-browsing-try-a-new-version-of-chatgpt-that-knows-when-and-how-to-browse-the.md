@@ -3,45 +3,75 @@ card_id: chatgpt-2023-05-12-b6aa27
 date: '2023-05-12'
 diffusion:
   first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|chatgpt-2023-03-23-c03c55]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 50
-  role: variant
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: search-browsing
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|chatgpt-2023-03-23-c03c55]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: significant
-machine_hash: 9be1eb8429fe5ec510d9d70e1a2c31213b37efbc4573f2521c5bdac4c94c9369
+machine_hash: 51541a2f0f3e066b7839d8f197881976419f7182ad1273fdd5b081afac4767d0
 product: chatgpt
 product_name: ChatGPT
+record:
+  ai_generated: true
+  card_id: chatgpt-2023-05-12-b6aa27
+  comparison: ''
+  confidence: low
+  date: '2023-05-12'
+  description: 'ChatGPT — Web browsing and Plugins are now rolling out in beta: Web
+    browsing: Try a new version of ChatGPT that knows when and how to browse the internet
+    to answer questions about recent topics and events.'
+  evidence:
+  - quote: 'Web browsing: Try a new version of ChatGPT that knows when and how to
+      browse the internet to answer questions about recent topics and events.'
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#web-browsing-and-plugins-are-now-rolling-out-in-beta
+  extractor_version: fallback-v3
+  impact: significant
+  product: chatgpt
+  product_name: ChatGPT
+  slug: web-browsing-try-a-new-version-of-chatgpt-that-knows-when-and-how-to-browse-the
+  source_release: chatgpt-2023-05-12-web-browsing-and-plugins-are-now-rolling-out-in-beta-5dbe86e7
+  source_type: chatgpt_changelog
+  theme: search-browsing
+  title: 'Web browsing: Try a new version of ChatGPT that knows when and how to browse
+    the'
+  type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|chatgpt-2023-03-23-c03c55]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-05-12-web-browsing-and-plugins-are-now-rolling-out-in-beta-5dbe86e7|chatgpt-2023-05-12-web-browsing-and-plugins-are-now-rolling-out-in-beta-5dbe86e7]]'
+source_type: chatgpt_changelog
 theme: search-browsing
+title: 'Web browsing: Try a new version of ChatGPT that knows when and how to browse
+  the'
 type: change
 ---
 
 # Web browsing: Try a new version of ChatGPT that knows when and how to browse the
 
 <!-- chronolog:begin region="description" -->
-Web browsing: Try a new version of ChatGPT that knows when and how to browse the internet to answer questions about recent topics and events.
+ChatGPT — Web browsing and Plugins are now rolling out in beta: Web browsing: Try a new version of ChatGPT that knows when and how to browse the internet to answer questions about recent topics and events.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Web browsing: Try a new version of ChatGPT that knows when and how to browse the internet to answer questions about recent topics and events.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_9894d7b0a4
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#web-browsing-and-plugins-are-now-rolling-out-in-beta
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|chatgpt-2023-03-23-c03c55]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: search-browsing
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: variant
+- Role: later-observed
 - First In Tracked: [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|chatgpt-2023-03-23-c03c55]]
 - Lag Days: 50
 - Tracked Products Count: 3

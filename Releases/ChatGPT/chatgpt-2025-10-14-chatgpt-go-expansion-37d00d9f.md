@@ -1,9 +1,22 @@
 ---
 changes_count: 4
 date: '2025-10-14'
-machine_hash: 7bd9c05f4d2f84973247091e5d5d59bbdde53811bfca881747327e353281931a
+machine_hash: d9e5481bf1e00f2edaf152f1da95cb5ceeeebaa7e29e509b951f21ac1a7b30a6
 product: chatgpt
 product_name: ChatGPT
+record:
+  date: '2025-10-14'
+  product: chatgpt
+  product_name: ChatGPT
+  release_id: chatgpt-2025-10-14-chatgpt-go-expansion-37d00d9f
+  source_summary: 'We''re excited to announce that ChatGPT Go, our low cost subscription
+    plan, is now available in 71 additional countries, bringing total coverage to
+    89 countries.For an affordable price, ChatGPT Go provides everything included
+    in the Free plan, and:'
+  source_type: chatgpt_changelog
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-expansion
+  title: ChatGPT Go expansion
+  version: ChatGPT Go expansion
 release_id: chatgpt-2025-10-14-chatgpt-go-expansion-37d00d9f
 source_release: ChatGPT Go expansion
 source_type: chatgpt_changelog
@@ -11,6 +24,7 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ch
 tags:
 - release
 - chatgpt
+title: ChatGPT — ChatGPT Go expansion
 version: ChatGPT Go expansion
 ---
 
@@ -18,7 +32,7 @@ version: ChatGPT Go expansion
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
-We're excited to announce that ChatGPT Go, our low cost subscription plan, is now available in 71 additional countries, bringing total coverage to 89 countries.
+We're excited to announce that ChatGPT Go, our low cost subscription plan, is now available in 71 additional countries, bringing total coverage to 89 countries.For an affordable price, ChatGPT Go provides everything included in the Free plan, and:
 
 [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-expansion)
 
@@ -28,7 +42,7 @@ Tracked cards: 4
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
 - memory: [[Changes/ChatGPT/2025-10-14-longer-memory-for-more-personalized-responses|Longer memory for more personalized responses]]
+- mobile-desktop: [[Changes/ChatGPT/2025-10-14-available-on-web-mobile-ios-android-and-desktop-macos-windows-note-in-cambodia-l|Available on web, mobile (iOS & Android), and desktop (macOS & Windows).Note: In]]
 - image-generation: [[Changes/ChatGPT/2025-10-14-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]]
-- pricing-model: [[Changes/ChatGPT/2025-10-14-for-an-affordable-price-chatgpt-go-provides-everything-included-in-the-free-plan|For an affordable price, ChatGPT Go provides everything included in the Free pla]]
-- pricing-model: [[Changes/ChatGPT/2025-10-14-we-re-excited-to-announce-that-chatgpt-go-our-low-cost-subscription-plan-is-now|We're excited to announce that ChatGPT Go, our low cost subscription plan, is no]]
+- pricing-model: [[Changes/ChatGPT/2025-10-14-we-re-excited-to-announce-that-chatgpt-go-our-low-cost-subscription-plan-is-now-d58cbb|We're excited to announce that ChatGPT Go, our low cost subscription plan, is no]]
 <!-- chronolog:end -->

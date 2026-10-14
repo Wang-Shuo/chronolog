@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2023-07-28-but-copilot-can-be-slow-and-sometimes-just-not-smart-enough-so-we-re-trying-to-s|cursor-2023-07-28-10c378]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 43eef25c75acf14d08b32135dc8865f55f9727beca6a14fd73113b4b9aff0e7d
+machine_hash: 24fbeea900d3443a78f25d024e906f915e99f6735bc8b700b612801b772df74e
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2023-07-27-experimental-codebase-support-in-the-chat-and-coming-to-the-cmd-k-soon|cursor-2023-07-27-39d9ae]]'
 - '[[Changes/Cursor/2023-07-28-but-copilot-can-be-slow-and-sometimes-just-not-smart-enough-so-we-re-trying-to-s|cursor-2023-07-28-10c378]]'
 source_release: '[[Releases/Cursor/cursor-2023-07-28-0-6-0-https-cursor-com-changelog-0-6-0-ec91c991|cursor-2023-07-28-0-6-0-https-cursor-com-changelog-0-6-0-ec91c991]]'
+superseded: true
 theme: editor-experience
 type: change
 ---

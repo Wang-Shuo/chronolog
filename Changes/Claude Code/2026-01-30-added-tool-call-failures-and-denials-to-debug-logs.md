@@ -3,31 +3,55 @@ card_id: claude-code-2026-01-30-aab171
 date: '2026-01-30'
 diffusion:
   first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|cursor-2023-03-18-76a713]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1049
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Claude Code/2026-01-30-sessions-are-now-automatically-linked-to-prs-when-created-via-gh-pr-create|claude-code-2026-01-30-59b443]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 32148cbd358ed73ad5574f45f8f7a3def2e64e89d0cdd2c48efe4895181fe9cf
+machine_hash: 88d8aeb22827f06de3e0706309eeb613e4109d7d089bd67e7372229ad257a66d
 product: claude-code
 product_name: Claude Code
+record:
+  card_id: claude-code-2026-01-30-aab171
+  comparison: ''
+  date: '2026-01-30'
+  description: 'Claude Code — v2.1.27: Added tool call failures and denials to debug
+    logs'
+  evidence:
+  - quote: Added tool call failures and denials to debug logs
+    source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.27
+  extractor_version: fallback-v3
+  impact: incremental
+  product: claude-code
+  product_name: Claude Code
+  slug: added-tool-call-failures-and-denials-to-debug-logs
+  source_release: claude-code-2026-01-30-v2-1-27-github-281663155-d003937d
+  source_type: github_releases
+  theme: developer-workflow
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v1
+  title: Added tool call failures and denials to debug logs
+  type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-28-vscode-added-automatic-python-virtual-environment-activation-ensuring-python-and|claude-code-2026-01-28-6a32ec]]'
 - '[[Changes/Claude Code/2026-01-29-changed-bash-commands-to-show-timeout-duration-alongside-elapsed-time|claude-code-2026-01-29-e261ae]]'
 - '[[Changes/Claude Code/2026-01-30-sessions-are-now-automatically-linked-to-prs-when-created-via-gh-pr-create|claude-code-2026-01-30-59b443]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-30-v2-1-27-github-281663155-d003937d|claude-code-2026-01-30-v2-1-27-github-281663155-d003937d]]'
+source_type: github_releases
 theme: developer-workflow
+title: Added tool call failures and denials to debug logs
 type: change
 ---
 
 # Added tool call failures and denials to debug logs
 
 <!-- chronolog:begin region="description" -->
-Added tool call failures and denials to debug logs
+Claude Code — v2.1.27: Added tool call failures and denials to debug logs
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +61,15 @@ Added tool call failures and denials to debug logs
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Claude Code/2026-01-30-sessions-are-now-automatically-linked-to-prs-when-created-via-gh-pr-create|claude-code-2026-01-30-59b443]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: developer-workflow
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
+- Role: later-observed
 - First In Tracked: [[Changes/Cursor/2023-03-18-built-in-terminal|cursor-2023-03-18-76a713]]
 - Lag Days: 1049
 - Tracked Products Count: 3

@@ -3,31 +3,56 @@ card_id: claude-code-2026-01-29-e46c5e
 date: '2026-01-29'
 diffusion:
   first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1116
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: interface-experience
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Claude Code/2026-01-29-added-customizable-spinner-verbs-setting-spinnerverbs|claude-code-2026-01-29-9071b9]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 3d0d06e0bd6adf876700ae206f18d9e36ee0df327b04ddaa9799476687a9c3e7
+machine_hash: 78746d32c2c739dc415e9a6572c524581c642c1f800e1f03eed73d570750468a
 product: claude-code
 product_name: Claude Code
+record:
+  card_id: claude-code-2026-01-29-e46c5e
+  comparison: ''
+  date: '2026-01-29'
+  description: 'Claude Code — v2.1.23: Changed merged pull requests to show a purple
+    status indicator in the prompt footer'
+  evidence:
+  - quote: Changed merged pull requests to show a purple status indicator in the prompt
+      footer
+    source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.23
+  extractor_version: fallback-v3
+  impact: incremental
+  product: claude-code
+  product_name: Claude Code
+  slug: changed-merged-pull-requests-to-show-a-purple-status-indicator-in-the-prompt-foo
+  source_release: claude-code-2026-01-29-v2-1-23-github-280926274-b1e77a6a
+  source_type: github_releases
+  theme: interface-experience
+  title: Changed merged pull requests to show a purple status indicator in the prompt
+    foo
+  type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-28-improved-read-search-progress-indicators-to-show-reading-while-in-progress-and-r|claude-code-2026-01-28-1903fa]]'
 - '[[Changes/Claude Code/2026-01-29-improved-terminal-rendering-performance-with-optimized-screen-data-layout|claude-code-2026-01-29-850461]]'
 - '[[Changes/Claude Code/2026-01-29-added-customizable-spinner-verbs-setting-spinnerverbs|claude-code-2026-01-29-9071b9]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-29-v2-1-23-github-280926274-b1e77a6a|claude-code-2026-01-29-v2-1-23-github-280926274-b1e77a6a]]'
+source_type: github_releases
 theme: interface-experience
+title: Changed merged pull requests to show a purple status indicator in the prompt
+  foo
 type: change
 ---
 
 # Changed merged pull requests to show a purple status indicator in the prompt foo
 
 <!-- chronolog:begin region="description" -->
-Changed merged pull requests to show a purple status indicator in the prompt footer
+Claude Code — v2.1.23: Changed merged pull requests to show a purple status indicator in the prompt footer
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +62,15 @@ Changed merged pull requests to show a purple status indicator in the prompt foo
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Claude Code/2026-01-29-added-customizable-spinner-verbs-setting-spinnerverbs|claude-code-2026-01-29-9071b9]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: interface-experience
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
+- Role: later-observed
 - First In Tracked: [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]
 - Lag Days: 1116
 - Tracked Products Count: 3

@@ -1,9 +1,19 @@
 ---
 changes_count: 3
 date: '2023-07-19'
-machine_hash: b6e64a91a9742c0925a1f2024d4b828280aa44ae7a39c263fe7fd1f3021c7cdb
+machine_hash: 06079f8c353a43bb17b920617979935a7d83c423530c0944345b7f73615ccaa1
 product: cursor
 product_name: Cursor
+record:
+  date: '2023-07-19'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2023-07-19-0-2-49-https-cursor-com-changelog-0-2-49-69872598
+  source_summary: 'This build includes:'
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-2-49
+  title: Advanced context for codebase-wide chat
+  version: 0.2.49
 release_id: cursor-2023-07-19-0-2-49-https-cursor-com-changelog-0-2-49-69872598
 source_release: Advanced context for codebase-wide chat
 source_type: cursor_changelog
@@ -11,6 +21,7 @@ source_url: https://cursor.com/changelog/0-2-49
 tags:
 - release
 - cursor
+title: Cursor — Advanced context for codebase-wide chat
 version: 0.2.49
 ---
 

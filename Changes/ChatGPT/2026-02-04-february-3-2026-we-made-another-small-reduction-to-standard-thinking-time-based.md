@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2026-02-04-february-4-2026-we-re-restoring-the-extended-thinking-level-for-gpt-5-2-thinking|chatgpt-2026-02-04-63f8b6]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: c55b0c4bad833408004ad4becde652613218f4930617cabd45d1d6b6172b070e
+machine_hash: 7e08f43120e5e18e262d14ed921844a31b72fdf9325adab8d5726ad08f4eae41
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2026-02-04-jan-10-2026-we-lowered-the-standard-and-light-thinking-time-as-we-observed-users|chatgpt-2026-02-04-24aba4]]'
 - '[[Changes/ChatGPT/2026-02-04-february-4-2026-we-re-restoring-the-extended-thinking-level-for-gpt-5-2-thinking|chatgpt-2026-02-04-63f8b6]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-04-update-on-thinking-time-settings-for-gpt-5-2-thinking-in-chatgpt-6e7ea431|chatgpt-2026-02-04-update-on-thinking-time-settings-for-gpt-5-2-thinking-in-chatgpt-6e7ea431]]'
+superseded: true
 theme: model-support
 type: change
 ---
