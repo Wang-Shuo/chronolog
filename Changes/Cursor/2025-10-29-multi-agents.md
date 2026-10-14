@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2025-09-29-agent-can-take-screenshots-improve-ui-and-debug-client-issues-read-more-about-br|cursor-2025-09-29-81c2ee]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: b88feae9a583a209ca8e957fc63b8d626aeb96f73f5957cb96f889d683c894af
+machine_hash: b9b01a69780988b997d87bd2bd8f58f28f49316e05d44049d82cdd5584d4f127
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2025-09-29-cursor-can-now-write-detailed-plans-before-starting-complex-tasks-this-allows-ag|cursor-2025-09-29-6a34b4]]'
 - '[[Changes/Cursor/2025-09-29-agent-can-take-screenshots-improve-ui-and-debug-client-issues-read-more-about-br|cursor-2025-09-29-81c2ee]]'
 source_release: '[[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e]]'
+superseded: true
 theme: agent-mode
 type: change
 ---

@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-09-09-last-month-we-announced-that-everyone-now-has-access-to-advanced-voice-mode-with|chatgpt-2025-09-09-36ad28]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 5efb1f0aef9651dcb2a33d980660b70f25dfd2ee89fa7b20162855bdf35bd42d
+machine_hash: b1343c43492ba621d9d1327e4d373d7e6da02fb3fda9302370638562e20cc461
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-08-07-for-paid-users-voice-now-adapts-to-your-instructions-adjusting-its-speaking-styl|chatgpt-2025-08-07-ea463f]]'
 - '[[Changes/ChatGPT/2025-09-09-last-month-we-announced-that-everyone-now-has-access-to-advanced-voice-mode-with|chatgpt-2025-09-09-36ad28]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-09-chatgpt-voice-update-c17a6a9f|chatgpt-2025-09-09-chatgpt-voice-update-c17a6a9f]]'
+superseded: true
 theme: voice
 type: change
 ---

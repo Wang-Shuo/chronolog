@@ -1,9 +1,20 @@
 ---
 changes_count: 5
 date: '2026-05-07'
-machine_hash: b918c360af1fcda62b3eca0d7556d3dfe39d003fa5b5cc6119e4dce070fc3d83
+machine_hash: b3fa9e4396e5986c349c4e1fcbe0c00e0ca132a88e59c90cb24608da2957bc9d
 product: cursor
 product_name: Cursor
+record:
+  date: '2026-05-07'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2026-05-07-3-3-https-cursor-com-changelog-05-07-26-9d8a16d3
+  source_summary: This release introduces a new PR review experience, faster execution
+    on plans through parallel agents, and new quick-action pills for common workflows.
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/05-07-26
+  title: PR Review, Build Plan in Parallel, and Split PRs
+  version: '3.3'
 release_id: cursor-2026-05-07-3-3-https-cursor-com-changelog-05-07-26-9d8a16d3
 source_release: PR Review, Build Plan in Parallel, and Split PRs
 source_type: cursor_changelog
@@ -11,6 +22,7 @@ source_url: https://cursor.com/changelog/05-07-26
 tags:
 - release
 - cursor
+title: Cursor — PR Review, Build Plan in Parallel, and Split PRs
 version: '3.3'
 ---
 

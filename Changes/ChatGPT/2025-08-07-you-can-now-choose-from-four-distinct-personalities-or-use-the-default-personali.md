@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-08-07-robot-precise-efficient-and-emotionless-delivering-direct-answers-without-extra|chatgpt-2025-08-07-b8d448]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 96e5d3c8e19229165fdcd9e0253180ee52d259f1e980436c9d4198cc1d0ad897
+machine_hash: 9e35cc6f03a2d5019bf67688a82dc9c1df70196690215e0bf9dde194652745ac
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-08-07-cynic-sarcastic-and-dry-delivers-blunt-help-with-wit-often-teases-but-provides-d|chatgpt-2025-08-07-937da7]]'
 - '[[Changes/ChatGPT/2025-08-07-robot-precise-efficient-and-emotionless-delivering-direct-answers-without-extra|chatgpt-2025-08-07-b8d448]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-07-personalities-0d95bb60|chatgpt-2025-08-07-personalities-0d95bb60]]'
+superseded: true
 theme: memory
 type: change
 ---

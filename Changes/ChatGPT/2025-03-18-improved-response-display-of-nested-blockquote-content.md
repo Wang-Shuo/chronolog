@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-03-18-added-long-press-on-your-message-to-open-menu-actions-copy-edit|chatgpt-2025-03-18-4dfad5]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 913315eb4c4ffc565f62187703df5c3bc6d05581911e5fc3e6bb034c7c026eed
+machine_hash: b0a943c58eb87ac2483e6aa3dbf3bea61366adbb37617dfe1db0a80e3933a32f
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-02-28-the-temporary-chat-icon-is-now-in-top-bar-to-make-the-temporary-chat-experience|chatgpt-2025-02-28-9ca296]]'
 - '[[Changes/ChatGPT/2025-03-18-added-long-press-on-your-message-to-open-menu-actions-copy-edit|chatgpt-2025-03-18-4dfad5]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-03-18-ios-app-6a42bb0f|chatgpt-2025-03-18-ios-app-6a42bb0f]]'
+superseded: true
 theme: interface-experience
 type: change
 ---

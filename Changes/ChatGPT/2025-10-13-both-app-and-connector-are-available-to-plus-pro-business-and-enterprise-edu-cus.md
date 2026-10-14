@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-10-13-we-re-rolling-out-two-new-ways-to-bring-slack-and-chatgpt-together-a-connector-t|chatgpt-2025-10-13-8424ee]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 1863732a9570b1bbbb7b5ac290ca6d05c862e639d5d1a7ad3b13f88fb221e842
+machine_hash: 036ec9efbd6474862e7eaaf0adf0482aaa91cd6b748aad5300660cbabb8e110a
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-10-13-installing-the-app-requires-the-connector-to-be-enabled-for-your-account|chatgpt-2025-10-13-2a4d49]]'
 - '[[Changes/ChatGPT/2025-10-13-we-re-rolling-out-two-new-ways-to-bring-slack-and-chatgpt-together-a-connector-t|chatgpt-2025-10-13-8424ee]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-13-slack-connector-and-app-931a6153|chatgpt-2025-10-13-slack-connector-and-app-931a6153]]'
+superseded: true
 theme: apps-integrations
 type: change
 ---

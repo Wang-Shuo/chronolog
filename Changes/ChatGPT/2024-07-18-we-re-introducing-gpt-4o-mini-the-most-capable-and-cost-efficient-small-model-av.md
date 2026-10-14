@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2024-05-16-data-analysis-improvements-are-available-in-our-new-flagship-model-gpt-4o-for-ch|chatgpt-2024-05-16-43e26c]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: fe0b1baa65c3fb4a1cb87baa7880b383450323a582953c7d82b53412109768ba
+machine_hash: 26e8639d11513987a3f1d17d88055f2d39bff5a9d6f68726f86a476018f21cb8
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2024-05-26-gemini-1-5-flash-is-available-in-long-context-mode|cursor-2024-05-26-2f147d]]'
 - '[[Changes/Cursor/2024-06-08-update-0-35-1-disables-copilot-partial-accepts-by-default-and-makes-the-keybindi|cursor-2024-06-08-551198]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-07-18-introducing-gpt-4o-mini-e0bf3077|chatgpt-2024-07-18-introducing-gpt-4o-mini-e0bf3077]]'
+superseded: true
 theme: model-support
 type: change
 ---

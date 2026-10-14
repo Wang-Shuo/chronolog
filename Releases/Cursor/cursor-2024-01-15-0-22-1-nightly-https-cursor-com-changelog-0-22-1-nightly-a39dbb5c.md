@@ -1,9 +1,20 @@
 ---
 changes_count: 4
 date: '2024-01-15'
-machine_hash: 87d0996afb85d92e428f03bf4f42205cc768126b8cb0d288692f7b9d93ffcbeb
+machine_hash: 3a89eb42455f56a14c8bf175f8fa776822569ce71b87ce1dba633993540f3f6a
 product: cursor
 product_name: Cursor
+record:
+  date: '2024-01-15'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2024-01-15-0-22-1-nightly-https-cursor-com-changelog-0-22-1-nightly-a39dbb5c
+  source_summary: Cursor-Fast is a newly trained model between gpt-3.5 and gpt-4 coding
+    capabilities, with very fast response times (~3.5 speed).
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-22-1-nightly
+  title: Cursor-Fast Model
+  version: 0.22.1-nightly
 release_id: cursor-2024-01-15-0-22-1-nightly-https-cursor-com-changelog-0-22-1-nightly-a39dbb5c
 source_release: Cursor-Fast Model
 source_type: cursor_changelog
@@ -11,6 +22,7 @@ source_url: https://cursor.com/changelog/0-22-1-nightly
 tags:
 - release
 - cursor
+title: Cursor — Cursor-Fast Model
 version: 0.22.1-nightly
 ---
 

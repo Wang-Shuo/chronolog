@@ -1,9 +1,19 @@
 ---
 changes_count: 2
 date: '2023-04-29'
-machine_hash: 76b9b65c57411cfeadaa6d1ad9ea0e8903b7adbe7e92ebd5da9d3114726636f1
+machine_hash: 9c3e8a8b044b0360776902223c2cdccc1077775aadef57f065c3c26b7222d271
 product: cursor
 product_name: Cursor
+record:
+  date: '2023-04-29'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2023-04-29-0-2-8-https-cursor-com-changelog-0-2-8-dcee1ea7
+  source_summary: '#New Features'
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-2-8
+  title: Multi-File Diffs & Remote SSH (2023-04-29)
+  version: 0.2.8
 release_id: cursor-2023-04-29-0-2-8-https-cursor-com-changelog-0-2-8-dcee1ea7
 source_release: Multi-File Diffs & Remote SSH (2023-04-29)
 source_type: cursor_changelog
@@ -11,6 +21,7 @@ source_url: https://cursor.com/changelog/0-2-8
 tags:
 - release
 - cursor
+title: Cursor — Multi-File Diffs & Remote SSH (2023-04-29)
 version: 0.2.8
 ---
 

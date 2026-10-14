@@ -1,16 +1,28 @@
 ---
 changes_count: 1
 date: '2023-01-30'
-machine_hash: 5242c099e071433373d89bc12f421436498e501e65be4404ee72ab983aa91fb1
+machine_hash: d87f82cc6b5a9c448e82de3c93d9ace2c33b9fbddc8f39e849f9a66d755424b0
 product: chatgpt
 product_name: ChatGPT
+record:
+  date: '2023-01-30'
+  product: chatgpt
+  product_name: ChatGPT
+  release_id: chatgpt-2023-01-30-factuality-and-mathematical-improvements-bde45cd9
+  source_summary: We’ve upgraded the ChatGPT model with improved factuality and mathematical
+    capabilities.
+  source_type: chatgpt_changelog
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#factuality-and-mathematical-improvements
+  title: Factuality and mathematical improvements
+  version: Factuality and mathematical improvements
 release_id: chatgpt-2023-01-30-factuality-and-mathematical-improvements-bde45cd9
 source_release: Factuality and mathematical improvements
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_f46bd1d771
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#factuality-and-mathematical-improvements
 tags:
 - release
 - chatgpt
+title: ChatGPT — Factuality and mathematical improvements
 version: Factuality and mathematical improvements
 ---
 
@@ -20,7 +32,7 @@ version: Factuality and mathematical improvements
 <!-- chronolog:begin region="summary" -->
 We’ve upgraded the ChatGPT model with improved factuality and mathematical capabilities.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_f46bd1d771)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#factuality-and-mathematical-improvements)
 
 Tracked cards: 1
 <!-- chronolog:end -->

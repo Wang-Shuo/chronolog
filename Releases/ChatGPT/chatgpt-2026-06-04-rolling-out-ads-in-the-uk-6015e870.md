@@ -1,9 +1,20 @@
 ---
 changes_count: 1
 date: '2026-06-04'
-machine_hash: 5803ceb9416550f6939a273cdda96ada539f7df73c5d3be5f2d8508a95e9802c
+machine_hash: 062e2593ec1ec6a71879f63fa954b363dbffc94b0f342f4fbc561b878ecda7e5
 product: chatgpt
 product_name: ChatGPT
+record:
+  date: '2026-06-04'
+  product: chatgpt
+  product_name: ChatGPT
+  release_id: chatgpt-2026-06-04-rolling-out-ads-in-the-uk-6015e870
+  source_summary: We're beginning to roll out ads for users on Free and Go plans in
+    the UK. Plus, Pro, Business, Enterprise, and Education plans will remain ad-free.
+  source_type: chatgpt_changelog
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#rolling-out-ads-in-the-uk
+  title: Rolling out ads in the UK
+  version: Rolling out ads in the UK
 release_id: chatgpt-2026-06-04-rolling-out-ads-in-the-uk-6015e870
 source_release: Rolling out ads in the UK
 source_type: chatgpt_changelog
@@ -11,6 +22,7 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ro
 tags:
 - release
 - chatgpt
+title: ChatGPT — Rolling out ads in the UK
 version: Rolling out ads in the UK
 ---
 

@@ -1,16 +1,27 @@
 ---
-changes_count: 3
+changes_count: 2
 date: '2025-01-15'
-machine_hash: 40ad56b02c33b9c2c3df5b0b184d6bc10e682db900b68cb2b9b36aae17e50061
+machine_hash: 40970c19060eb1a2bed87c7f80786cf84c7f0571fef4d59adf3c663a844cb899
 product: chatgpt
 product_name: ChatGPT
+record:
+  date: '2025-01-15'
+  product: chatgpt
+  product_name: ChatGPT
+  release_id: chatgpt-2025-01-15-import-from-chat-into-canvas-e328bc82
+  source_summary: Edit a full model response in Canvas
+  source_type: chatgpt_changelog
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#import-from-chat-into-canvas
+  title: Import from Chat into Canvas
+  version: Import from Chat into Canvas
 release_id: chatgpt-2025-01-15-import-from-chat-into-canvas-e328bc82
 source_release: Import from Chat into Canvas
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_db21108595
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#import-from-chat-into-canvas
 tags:
 - release
 - chatgpt
+title: ChatGPT — Import from Chat into Canvas
 version: Import from Chat into Canvas
 ---
 
@@ -20,14 +31,13 @@ version: Import from Chat into Canvas
 <!-- chronolog:begin region="summary" -->
 Edit a full model response in Canvas
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_db21108595)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#import-from-chat-into-canvas)
 
-Tracked cards: 3
+Tracked cards: 2
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
 - file-data: [[Changes/ChatGPT/2025-01-15-edit-a-full-model-response-in-canvas|Edit a full model response in Canvas]]
-- mobile-desktop: [[Changes/ChatGPT/2025-01-15-web-only-no-desktop-or-mobile-in-this-release|Web only (no desktop or mobile in this release).]]
 - file-data: [[Changes/ChatGPT/2025-01-15-edit-a-code-block-in-canvas|Edit a code block in Canvas]]
 <!-- chronolog:end -->

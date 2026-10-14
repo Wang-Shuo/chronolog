@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-03-27-gpt-4o-is-now-more-adept-at-following-detailed-instructions-especially-for-promp|chatgpt-2025-03-27-d8484d]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: c633ca5204a5aa5af683f6ffcf96c24a6a07249bf6d00c0f83dd3f7879b5f045
+machine_hash: d693c13868f906c089439fa17eabae907b9d29600f773ca4fb8e1bd0f59ee70a
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-03-27-smarter-problem-solving-in-stem-and-coding|chatgpt-2025-03-27-ad8aff]]'
 - '[[Changes/ChatGPT/2025-03-27-gpt-4o-is-now-more-adept-at-following-detailed-instructions-especially-for-promp|chatgpt-2025-03-27-d8484d]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-04-10-sunsetting-gpt-4-in-chatgpt-fe1e4ad7|chatgpt-2025-04-10-sunsetting-gpt-4-in-chatgpt-fe1e4ad7]]'
+superseded: true
 theme: model-support
 type: change
 ---

@@ -2,32 +2,78 @@
 card_id: claude-code-2026-06-30-c16f43
 date: '2026-06-30'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|cursor-2023-05-04-00d3b7]]'
-  lag_days: 1153
-  role: follower
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1268
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
-  theme: context-window
+  theme: model-support
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Claude Code/2026-06-12-vscode-added-usage-attribution-to-the-account-usage-dialog-usage-showing-cache-m|claude-code-2026-06-12-7832d6]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: paradigm-shift
-machine_hash: 2d92e01597761a22ccc9d00ff48fda905c8d988fa6cb72fd38ebdc25cb4c6d51
+machine_hash: c8d9f383321a553a4d6d593e3a627083f75339ee7dae4cc7570e100a90c03beb
 product: claude-code
 product_name: Claude Code
+record:
+  ai_generated: true
+  card_id: claude-code-2026-06-30-c16f43
+  comparison: ''
+  confidence: low
+  date: '2026-06-30'
+  description: 'Claude Code — v2.1.197: Introducing Claude Sonnet 5: now the default
+    model in Claude Code, with a native 1M-token context window and promotional pricing
+    of $2/$10 per Mtok through August 31. Update to version 2.1.197 for access. https://www.anthropic.com/news/claude-sonnet-5'
+  evidence:
+  - quote: 'Introducing Claude Sonnet 5: now the default model in Claude Code, with
+      a native 1M-token context window and promotional pricing of $2/$10 per Mtok
+      through August 31. Update to version 2.1.197 for access. https://www.anthropic.com/news/claude-sonnet-5'
+    source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.197
+  extractor_version: fallback-v3
+  impact: paradigm-shift
+  product: claude-code
+  product_name: Claude Code
+  slug: introducing-claude-sonnet-5-now-the-default-model-in-claude-code-with-a-native-1
+  source_release: claude-code-2026-06-30-v2-1-197-github-346856026-11e4aa1f
+  source_type: github_releases
+  theme: model-support
+  theme_matches:
+  - matched_terms:
+    - context window
+    - context
+    score: 170
+    theme: context-window
+  - matched_terms:
+    - claude sonnet
+    - model
+    - sonnet
+    score: 160
+    theme: model-support
+  - matched_terms:
+    - pricing
+    score: 50
+    theme: pricing-model
+  theme_resolution: manual-semantic-rule-v2
+  title: 'Introducing Claude Sonnet 5: now the default model in Claude Code, with
+    a native'
+  type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-08-added-cd-command-to-move-a-session-to-a-new-working-directory-without-breaking-t|claude-code-2026-06-08-c60825]]'
-- '[[Changes/Claude Code/2026-06-12-vscode-added-usage-attribution-to-the-account-usage-dialog-usage-showing-cache-m|claude-code-2026-06-12-7832d6]]'
-- '[[Changes/ChatGPT/2026-06-22-starting-today-for-chatgpt-free-and-go-users-long-pastes-are-handled-differently|chatgpt-2026-06-22-e5a8ab]]'
+- '[[Changes/Claude Code/2026-06-25-added-claude-code-assistant-response-opentelemetry-log-event-containing-the-mode|claude-code-2026-06-25-82838a]]'
+- '[[Changes/ChatGPT/2026-06-26-as-of-june-26-2026-gpt-4-5-is-no-longer-available-in-chatgpt-including-for-custo|chatgpt-2026-06-26-46ba84]]'
+- '[[Changes/Claude Code/2026-06-29-added-support-for-organization-default-models-admins-set-it-in-the-org-console-i|claude-code-2026-06-29-34190b]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-30-v2-1-197-github-346856026-11e4aa1f|claude-code-2026-06-30-v2-1-197-github-346856026-11e4aa1f]]'
-theme: context-window
+source_type: github_releases
+theme: model-support
+title: 'Introducing Claude Sonnet 5: now the default model in Claude Code, with a
+  native'
 type: change
 ---
 
 # Introducing Claude Sonnet 5: now the default model in Claude Code, with a native
 
 <!-- chronolog:begin region="description" -->
-Introducing Claude Sonnet 5: now the default model in Claude Code, with a native 1M-token context window and promotional pricing of $2/$10 per Mtok through August 31. Update to version 2.1.197 for access. https://www.anthropic.com/news/claude-sonnet-5
+Claude Code — v2.1.197: Introducing Claude Sonnet 5: now the default model in Claude Code, with a native 1M-token context window and promotional pricing of $2/$10 per Mtok through August 31. Update to version 2.1.197 for access. https://www.anthropic.com/news/claude-sonnet-5
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,15 +83,17 @@ Introducing Claude Sonnet 5: now the default model in Claude Code, with a native
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Claude Code/2026-06-12-vscode-added-usage-attribution-to-the-account-usage-dialog-usage-showing-cache-m|claude-code-2026-06-12-7832d6]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
-- Theme: context-window
+- Theme: model-support
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
-- First In Tracked: [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|cursor-2023-05-04-00d3b7]]
-- Lag Days: 1153
+- Role: later-observed
+- First In Tracked: [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]
+- Lag Days: 1268
 - Tracked Products Count: 3
 <!-- chronolog:end -->
 

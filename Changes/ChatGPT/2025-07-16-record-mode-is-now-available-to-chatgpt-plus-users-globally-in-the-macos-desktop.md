@@ -3,47 +3,73 @@ card_id: chatgpt-2025-07-16-86ff26
 date: '2025-07-16'
 diffusion:
   first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 855
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/ChatGPT/2025-06-03-free-users-must-be-logged-in-and-on-up-to-date-apps-ios-android-v1-2025-147|chatgpt-2025-06-03-dfd284]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 3575f1a3ad8c02dee84b06ecdb554575c1f4a459087b661c57fdf1ff9c1efd1e
+machine_hash: dfed69e6f333e2f4d6b6b4a6f38ce0fa38bb016159fc15d5800cdca97875b102
 product: chatgpt
 product_name: ChatGPT
+record:
+  card_id: chatgpt-2025-07-16-86ff26
+  comparison: ''
+  date: '2025-07-16'
+  description: 'ChatGPT — Record mode in ChatGPT macOS desktop app (Plus): Record
+    mode is now available to ChatGPT Plus users globally in the macOS desktop app.'
+  evidence:
+  - quote: Record mode is now available to ChatGPT Plus users globally in the macOS
+      desktop app.
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#record-mode-in-chatgpt-macos-desktop-app-plus
+  extractor_version: fallback-v3
+  impact: incremental
+  product: chatgpt
+  product_name: ChatGPT
+  slug: record-mode-is-now-available-to-chatgpt-plus-users-globally-in-the-macos-desktop
+  source_release: chatgpt-2025-07-16-record-mode-in-chatgpt-macos-desktop-app-plus-3cdaccb1
+  source_type: chatgpt_changelog
+  theme: mobile-desktop
+  title: Record mode is now available to ChatGPT Plus users globally in the macOS
+    desktop
+  type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-03-18-improved-table-copying-functionality-out-of-chatgpt-responses-on-ios-and-macos|chatgpt-2025-03-18-92f17b]]'
-- '[[Changes/ChatGPT/2025-05-06-we-ve-removed-the-row-of-individual-tool-icons-from-the-mobile-composer-and-repl|chatgpt-2025-05-06-f6fb2d]]'
-- '[[Changes/ChatGPT/2025-06-03-free-users-must-be-logged-in-and-on-up-to-date-apps-ios-android-v1-2025-147|chatgpt-2025-06-03-dfd284]]'
+- '[[Changes/ChatGPT/2025-03-18-1-improved-table-copying-functionality-out-of-chatgpt-responses-on-ios-and-macos|chatgpt-2025-03-18-12d17c]]'
+- '[[Changes/ChatGPT/2025-03-18-we-have-been-working-on-a-variety-of-usability-and-performance-improvements-and|chatgpt-2025-03-18-3de287]]'
+- '[[Changes/ChatGPT/2025-05-06-we-ve-removed-the-row-of-individual-tool-icons-from-the-mobile-composer-and-repl-a7377a|chatgpt-2025-05-06-a7377a]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-07-16-record-mode-in-chatgpt-macos-desktop-app-plus-3cdaccb1|chatgpt-2025-07-16-record-mode-in-chatgpt-macos-desktop-app-plus-3cdaccb1]]'
+source_type: chatgpt_changelog
 theme: mobile-desktop
+title: Record mode is now available to ChatGPT Plus users globally in the macOS desktop
 type: change
 ---
 
 # Record mode is now available to ChatGPT Plus users globally in the macOS desktop
 
 <!-- chronolog:begin region="description" -->
-Record mode is now available to ChatGPT Plus users globally in the macOS desktop app.
+ChatGPT — Record mode in ChatGPT macOS desktop app (Plus): Record mode is now available to ChatGPT Plus users globally in the macOS desktop app.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Record mode is now available to ChatGPT Plus users globally in the macOS desktop app.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_3bfabcc648
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#record-mode-in-chatgpt-macos-desktop-app-plus
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/ChatGPT/2025-06-03-free-users-must-be-logged-in-and-on-up-to-date-apps-ios-android-v1-2025-147|chatgpt-2025-06-03-dfd284]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: mobile-desktop
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
+- Role: later-observed
 - First In Tracked: [[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]
 - Lag Days: 855
 - Tracked Products Count: 3

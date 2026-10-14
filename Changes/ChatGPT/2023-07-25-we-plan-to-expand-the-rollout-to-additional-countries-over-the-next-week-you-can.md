@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2023-06-22-we-ve-made-two-updates-to-the-mobile-chatgpt-app|chatgpt-2023-06-22-88b23f]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: d820085b5027998190ef9e525ff1b871d3100de488f3478c915245f656cfdd77
+machine_hash: e1907f645803b62cb72f09fd35e03f6db520c72d4d158626d7bc2a23c6555532
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2023-05-24-we-will-continue-to-roll-out-to-more-countries-and-regions-in-the-coming-weeks-y|chatgpt-2023-05-24-eb92cf]]'
 - '[[Changes/ChatGPT/2023-06-22-we-ve-made-two-updates-to-the-mobile-chatgpt-app|chatgpt-2023-06-22-88b23f]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-07-25-introducing-the-chatgpt-app-for-android-a5c30ad5|chatgpt-2023-07-25-introducing-the-chatgpt-app-for-android-a5c30ad5]]'
+superseded: true
 theme: mobile-desktop
 type: change
 ---

@@ -2,32 +2,56 @@
 card_id: cursor-2026-04-15-d2c23f
 date: '2026-04-15'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week|chatgpt-2023-07-06-63388c]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|chatgpt-2023-07-06-66255e]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1014
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: file-data
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Cursor/2026-04-15-these-visualizations-can-include-dashboards-and-custom-interfaces-built-using-fi|cursor-2026-04-15-c2d400]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: b7e3968a179a16e8f73212a24f7b85d4e9915070c9cf163f5c71572ca4428180
+machine_hash: 09115d0b53fe4cc40d6054319b1a596df4e1b81229803df91a5bbb3c2783fb71
 product: cursor
 product_name: Cursor
+record:
+  card_id: cursor-2026-04-15-d2c23f
+  comparison: ''
+  date: '2026-04-15'
+  description: 'Cursor — Canvases: Cursor can now respond by creating interactive
+    canvases.'
+  evidence:
+  - quote: Cursor can now respond by creating interactive canvases.
+    source_release: https://cursor.com/changelog/04-15-26
+  extractor_version: fallback-v3
+  impact: incremental
+  product: cursor
+  product_name: Cursor
+  slug: cursor-can-now-respond-by-creating-interactive-canvases
+  source_release: cursor-2026-04-15-canvases-https-cursor-com-changelog-04-15-26-cd056bf7
+  source_type: cursor_changelog
+  theme: file-data
+  theme_matches: []
+  theme_resolution: manual-backfill-review-v1
+  title: Cursor can now respond by creating interactive canvases.
+  type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-02-13-expanded-file-type-support-we-now-support-additional-text-and-code-file-formats|chatgpt-2026-02-13-b3a162]]'
 - '[[Changes/ChatGPT/2026-02-27-export-visuals-from-code-blocks-flowcharts-diagrams-and-data-visualizations-crea|chatgpt-2026-02-27-c8b816]]'
 - '[[Changes/Cursor/2026-04-15-these-visualizations-can-include-dashboards-and-custom-interfaces-built-using-fi|cursor-2026-04-15-c2d400]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-15-canvases-https-cursor-com-changelog-04-15-26-cd056bf7|cursor-2026-04-15-canvases-https-cursor-com-changelog-04-15-26-cd056bf7]]'
+source_type: cursor_changelog
 theme: file-data
+title: Cursor can now respond by creating interactive canvases.
 type: change
 ---
 
 # Cursor can now respond by creating interactive canvases.
 
 <!-- chronolog:begin region="description" -->
-Cursor can now respond by creating interactive canvases.
+Cursor — Canvases: Cursor can now respond by creating interactive canvases.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,14 +61,16 @@ Cursor can now respond by creating interactive canvases.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Cursor/2026-04-15-these-visualizations-can-include-dashboards-and-custom-interfaces-built-using-fi|cursor-2026-04-15-c2d400]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: file-data
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
-- First In Tracked: [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week|chatgpt-2023-07-06-63388c]]
+- Role: later-observed
+- First In Tracked: [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|chatgpt-2023-07-06-66255e]]
 - Lag Days: 1014
 - Tracked Products Count: 3
 <!-- chronolog:end -->

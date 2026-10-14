@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-10-14-longer-memory-for-more-personalized-responses|chatgpt-2025-10-14-0bd42a]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 40268c65715c24b9741ec5fa7d98bb00dac7d716e71944de3dac8da3501d417c
+machine_hash: 87a1e889f061cc28c613efa8917c0706331da2ff498d28cc474545242ee72e92
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-10-08-longer-memory-for-more-personalized-responses|chatgpt-2025-10-08-e8dde8]]'
 - '[[Changes/ChatGPT/2025-10-14-longer-memory-for-more-personalized-responses|chatgpt-2025-10-14-0bd42a]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-15-chatgpt-can-now-automatically-manage-saved-memories-so-it-s-even-00bd082a|chatgpt-2025-10-15-chatgpt-can-now-automatically-manage-saved-memories-so-it-s-even-00bd082a]]'
+superseded: true
 theme: memory
 type: change
 ---

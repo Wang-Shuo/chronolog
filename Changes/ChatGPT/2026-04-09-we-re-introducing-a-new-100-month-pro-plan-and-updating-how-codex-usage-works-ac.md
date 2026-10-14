@@ -3,31 +3,60 @@ card_id: chatgpt-2026-04-09-441673
 date: '2026-04-09'
 diffusion:
   first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|chatgpt-2022-12-15-6d306d]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1211
-  role: variant
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: pricing-model
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/ChatGPT/2026-03-24-we-ve-improved-shopping-in-chatgpt-to-make-it-easier-to-discover-compare-and-dec|chatgpt-2026-03-24-93a63f]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: significant
-machine_hash: c05d837c0962034d999459bbe7a93dffc1966862d1b52a12630b2a27746f573a
+machine_hash: e326ea46bfe3d75b8e8964b5e51fb56f26a70a112403f5b21c6151a49d08ff1f
 product: chatgpt
 product_name: ChatGPT
+record:
+  ai_generated: true
+  card_id: chatgpt-2026-04-09-441673
+  comparison: ''
+  confidence: low
+  date: '2026-04-09'
+  description: 'ChatGPT — New Pro plan options: We’re introducing a new $100/month
+    Pro plan and updating how Codex usage works across Plus and Pro.'
+  evidence:
+  - quote: We’re introducing a new $100/month Pro plan and updating how Codex usage
+      works across Plus and Pro.
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-pro-plan-options
+  extractor_version: fallback-v3
+  impact: significant
+  product: chatgpt
+  product_name: ChatGPT
+  slug: we-re-introducing-a-new-100-month-pro-plan-and-updating-how-codex-usage-works-ac
+  source_release: chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2
+  source_type: chatgpt_changelog
+  theme: pricing-model
+  theme_matches: []
+  theme_resolution: manual-backfill-review-v1
+  title: We’re introducing a new $100/month Pro plan and updating how Codex usage
+    works a
+  type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-03-10-eligible-chatgpt-plus-and-pro-users-can-now-turn-on-auto-top-up-for-credits-used|chatgpt-2026-03-10-e9ab25]]'
-- '[[Changes/ChatGPT/2026-03-24-we-ve-improved-shopping-in-chatgpt-to-make-it-easier-to-discover-compare-and-dec|chatgpt-2026-03-24-93a63f]]'
+- '[[Changes/Cursor/2026-03-19-fast-default-1-50-m-input-7-50-m-output-tokens|cursor-2026-03-19-425e73]]'
 - '[[Changes/Claude Code/2026-04-04-added-per-model-and-cache-hit-breakdown-to-cost-for-subscription-users|claude-code-2026-04-04-fba1f6]]'
+- '[[Changes/ChatGPT/2026-04-09-pro-100-month-built-for-longer-high-intensity-codex-sessions-it-includes-unlimit|chatgpt-2026-04-09-384163]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2|chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2]]'
+source_type: chatgpt_changelog
 theme: pricing-model
+title: We’re introducing a new USD 100/month Pro plan and updating how Codex usage
+  works a
 type: change
 ---
 
 # We’re introducing a new $100/month Pro plan and updating how Codex usage works a
 
 <!-- chronolog:begin region="description" -->
-We’re introducing a new $100/month Pro plan and updating how Codex usage works across Plus and Pro.
+ChatGPT — New Pro plan options: We’re introducing a new $100/month Pro plan and updating how Codex usage works across Plus and Pro.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +66,15 @@ We’re introducing a new $100/month Pro plan and updating how Codex usage works
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/ChatGPT/2026-03-24-we-ve-improved-shopping-in-chatgpt-to-make-it-easier-to-discover-compare-and-dec|chatgpt-2026-03-24-93a63f]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: pricing-model
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: variant
+- Role: later-observed
 - First In Tracked: [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|chatgpt-2022-12-15-6d306d]]
 - Lag Days: 1211
 - Tracked Products Count: 3

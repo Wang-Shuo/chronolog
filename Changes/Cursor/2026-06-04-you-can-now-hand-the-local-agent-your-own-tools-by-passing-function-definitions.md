@@ -3,31 +3,77 @@ card_id: cursor-2026-06-04-020531
 date: '2026-06-04'
 diffusion:
   first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|cursor-2023-04-16-f0e22a]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1145
-  role: variant
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Cursor/2026-06-03-teams-are-the-operating-unit-for-a-department-region-or-subsidiary-this-is-what|cursor-2026-06-03-df00e8]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: paradigm-shift
-machine_hash: 4ded14a3975fc0022d384a56c20b45e75b75792ae43a4211448906c1ed660418
+machine_hash: a158f566d848de2071d99ef5d82ddf0e1174a45709dab2a28aaa7995a59d317e
 product: cursor
 product_name: Cursor
+record:
+  ai_generated: true
+  card_id: cursor-2026-06-04-020531
+  comparison: ''
+  confidence: low
+  date: '2026-06-04'
+  description: 'Cursor — Custom stores, custom tools, and auto-review for the Cursor
+    SDK: You can now hand the local agent your own tools by passing function definitions
+    through local.customTools, on Agent.create() or per send(). The SDK exposes them
+    to the agent through a built-in MCP server called custom-user-tools, so the model
+    calls your code through the same path and the same permission gate as any other
+    MCP tool.'
+  evidence:
+  - quote: You can now hand the local agent your own tools by passing function definitions
+      through local.customTools, on Agent.create() or per send(). The SDK exposes
+      them to the agent through a built-in MCP server called custom-user-tools, so
+      the model calls your code through the same path and the same permission gate
+      as any other MCP tool.
+    source_release: https://cursor.com/changelog/sdk-updates-jun-2026
+  extractor_version: fallback-v3
+  impact: paradigm-shift
+  product: cursor
+  product_name: Cursor
+  slug: you-can-now-hand-the-local-agent-your-own-tools-by-passing-function-definitions
+  source_release: cursor-2026-06-04-custom-stores-custom-tools-and-auto-review-for-the-cursor-sdk-ht-612f6856
+  source_type: cursor_changelog
+  theme: safety-privacy
+  theme_matches:
+  - matched_terms:
+    - agent
+    score: 50
+    theme: agent-mode
+  - matched_terms:
+    - mcp
+    score: 50
+    theme: apps-integrations
+  - matched_terms:
+    - model
+    score: 50
+    theme: model-support
+  theme_resolution: manual-semantic-rule-v2
+  title: You can now hand the local agent your own tools by passing function definitions
+  type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-03-claude-agents-json-now-includes-waitingfor-showing-what-a-waiting-session-is-blo|claude-code-2026-06-03-cc3caf]]'
 - '[[Changes/Cursor/2026-06-03-enterprise-customers-can-now-manage-multiple-cursor-teams-from-one-place-with-di|cursor-2026-06-03-812ca7]]'
 - '[[Changes/Cursor/2026-06-03-teams-are-the-operating-unit-for-a-department-region-or-subsidiary-this-is-what|cursor-2026-06-03-df00e8]]'
+- '[[Changes/ChatGPT/2026-06-04-lockdown-mode-is-now-available-to-all-logged-in-users-across-account-types-and-w|chatgpt-2026-06-04-88660d]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-04-custom-stores-custom-tools-and-auto-review-for-the-cursor-sdk-ht-612f6856|cursor-2026-06-04-custom-stores-custom-tools-and-auto-review-for-the-cursor-sdk-ht-612f6856]]'
+source_type: cursor_changelog
 theme: safety-privacy
+title: You can now hand the local agent your own tools by passing function definitions
 type: change
 ---
 
 # You can now hand the local agent your own tools by passing function definitions
 
 <!-- chronolog:begin region="description" -->
-You can now hand the local agent your own tools by passing function definitions through local.customTools, on Agent.create() or per send(). The SDK exposes them to the agent through a built-in MCP server called custom-user-tools, so the model calls your code through the same path and the same permission gate as any other MCP tool.
+Cursor — Custom stores, custom tools, and auto-review for the Cursor SDK: You can now hand the local agent your own tools by passing function definitions through local.customTools, on Agent.create() or per send(). The SDK exposes them to the agent through a built-in MCP server called custom-user-tools, so the model calls your code through the same path and the same permission gate as any other MCP tool.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +83,15 @@ You can now hand the local agent your own tools by passing function definitions 
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Cursor/2026-06-03-teams-are-the-operating-unit-for-a-department-region-or-subsidiary-this-is-what|cursor-2026-06-03-df00e8]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: safety-privacy
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: variant
+- Role: later-observed
 - First In Tracked: [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|cursor-2023-04-16-f0e22a]]
 - Lag Days: 1145
 - Tracked Products Count: 3

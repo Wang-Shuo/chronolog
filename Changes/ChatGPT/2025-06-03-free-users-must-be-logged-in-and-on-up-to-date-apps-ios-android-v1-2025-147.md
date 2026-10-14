@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-05-06-we-ve-removed-the-row-of-individual-tool-icons-from-the-mobile-composer-and-repl|chatgpt-2025-05-06-f6fb2d]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 0797ef0119ada445c43cb9a969ad02b5fbbc67e6f66445a56d2a0ba92aa383b3
+machine_hash: 8240110b4847a206d16df4d8e7c8c29729fee3a9596ee6b9445b43085e5af98c
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-03-18-improved-table-copying-functionality-out-of-chatgpt-responses-on-ios-and-macos|chatgpt-2025-03-18-92f17b]]'
 - '[[Changes/ChatGPT/2025-05-06-we-ve-removed-the-row-of-individual-tool-icons-from-the-mobile-composer-and-repl|chatgpt-2025-05-06-f6fb2d]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-03-memory-is-now-more-comprehensive-for-free-users-32de8dd3|chatgpt-2025-06-03-memory-is-now-more-comprehensive-for-free-users-32de8dd3]]'
+superseded: true
 theme: mobile-desktop
 type: change
 ---

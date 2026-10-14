@@ -2,50 +2,75 @@
 card_id: chatgpt-2025-08-11-5966c6
 date: '2025-08-11'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|chatgpt-2023-05-24-9617fc]]'
-  lag_days: 810
-  role: variant
+  first_in_tracked: '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|cursor-2023-09-08-8ba960]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 703
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: collaboration
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/ChatGPT/2025-08-11-pro-microsoft-teams-and-github|chatgpt-2025-08-11-196b01]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: d488a73fd7c7afe1541f130fd12b88035b50d142e7a99539a593a78e8a3cbf69
+machine_hash: 3bcdb99e75fe1f562977a661c43fc0c4432c3bcb48fed020c4924295fbeadcca
 product: chatgpt
 product_name: ChatGPT
+record:
+  card_id: chatgpt-2025-08-11-5966c6
+  comparison: ''
+  date: '2025-08-11'
+  description: 'ChatGPT — Additional connectors for Plus and Pro: Plus: Box, Canva,
+    Dropbox, HubSpot, Notion, Microsoft SharePoint, and Microsoft Teams'
+  evidence:
+  - quote: 'Plus: Box, Canva, Dropbox, HubSpot, Notion, Microsoft SharePoint, and
+      Microsoft Teams'
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#additional-connectors-for-plus-and-pro
+  extractor_version: fallback-v3
+  impact: incremental
+  product: chatgpt
+  product_name: ChatGPT
+  slug: plus-box-canva-dropbox-hubspot-notion-microsoft-sharepoint-and-microsoft-teams
+  source_release: chatgpt-2025-08-11-additional-connectors-for-plus-and-pro-6d22248a
+  source_type: chatgpt_changelog
+  theme: collaboration
+  title: 'Plus: Box, Canva, Dropbox, HubSpot, Notion, Microsoft SharePoint, and Microsoft'
+  type: change
 related_changes:
+- '[[Changes/ChatGPT/2025-06-12-sharing-chats-from-projects|chatgpt-2025-06-12-1db390]]'
 - '[[Changes/ChatGPT/2025-06-12-starting-today-we-re-adding-several-updates-to-projects-in-chatgpt-to-help-you-d|chatgpt-2025-06-12-a56e91]]'
-- '[[Changes/Cursor/2025-06-12-use-cursor-where-your-team-works|cursor-2025-06-12-503cc5]]'
 - '[[Changes/ChatGPT/2025-08-11-pro-microsoft-teams-and-github|chatgpt-2025-08-11-196b01]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-11-additional-connectors-for-plus-and-pro-6d22248a|chatgpt-2025-08-11-additional-connectors-for-plus-and-pro-6d22248a]]'
+source_type: chatgpt_changelog
 theme: collaboration
+title: 'Plus: Box, Canva, Dropbox, HubSpot, Notion, Microsoft SharePoint, and Microsoft'
 type: change
 ---
 
 # Plus: Box, Canva, Dropbox, HubSpot, Notion, Microsoft SharePoint, and Microsoft
 
 <!-- chronolog:begin region="description" -->
-Plus: Box, Canva, Dropbox, HubSpot, Notion, Microsoft SharePoint, and Microsoft Teams
+ChatGPT — Additional connectors for Plus and Pro: Plus: Box, Canva, Dropbox, HubSpot, Notion, Microsoft SharePoint, and Microsoft Teams
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Plus: Box, Canva, Dropbox, HubSpot, Notion, Microsoft SharePoint, and Microsoft Teams
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_8bd863b7b4
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#additional-connectors-for-plus-and-pro
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/ChatGPT/2025-08-11-pro-microsoft-teams-and-github|chatgpt-2025-08-11-196b01]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: collaboration
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: variant
-- First In Tracked: [[Changes/ChatGPT/2023-05-24-shared-links|chatgpt-2023-05-24-9617fc]]
-- Lag Days: 810
+- Role: later-observed
+- First In Tracked: [[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|cursor-2023-09-08-8ba960]]
+- Lag Days: 703
 - Tracked Products Count: 3
 <!-- chronolog:end -->
 

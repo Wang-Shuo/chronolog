@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2023-07-27-enterprise-support|cursor-2023-07-27-4d0704]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 099e653519356f8f561a05436762e8b53c9911bb39413e9a5feba20e2ee554be
+machine_hash: 2ed1e4bd9997d405635c7597e1706222c4f66e558377c3dacfca0a1c5cba1d49
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-08-12-this-capability-is-part-of-gpt-5-and-will-begin-rolling-out-to-pro-users-globall|chatgpt-2025-08-12-33bffb]]'
 - '[[Changes/ChatGPT/2025-09-03-we-ve-also-updated-file-uploads-on-paid-tiers-plus-go-and-edu-support-up-to-25-f|chatgpt-2025-09-03-52f60b]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-18-enterprise-insights-billing-groups-service-accounts-and-improved-23eccccb|cursor-2025-12-18-enterprise-insights-billing-groups-service-accounts-and-improved-23eccccb]]'
+superseded: true
 theme: enterprise-admin
 type: change
 ---

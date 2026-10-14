@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2025-12-10-move-elements-update-colors-test-layouts-and-experiment-with-css-in-real-time-th|cursor-2025-12-10-07fdf8]]'
 extractor_version: fallback-v2
 impact: paradigm-shift
-machine_hash: b7a8bd7becb0ce7431b070c70112055dab05b4e575fa0d03f4c0fda314354ced
+machine_hash: d63076acb6ea1a3e063d2348399fa106a262a55375c6dfcd3b40b6cf2f8bd8f1
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2025-11-21-improved-plan-mode|cursor-2025-11-21-ec6970]]'
 - '[[Changes/Cursor/2025-12-10-move-elements-update-colors-test-layouts-and-experiment-with-css-in-real-time-th|cursor-2025-12-10-07fdf8]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-18-enterprise-insights-billing-groups-service-accounts-and-improved-23eccccb|cursor-2025-12-18-enterprise-insights-billing-groups-service-accounts-and-improved-23eccccb]]'
+superseded: true
 theme: agent-mode
 type: change
 ---

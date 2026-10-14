@@ -2,50 +2,75 @@
 card_id: chatgpt-2025-12-17-d1d8fe
 date: '2025-12-17'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2025-01-14-scheduled-tasks-is-in-early-beta-for-plus-pro-and-teams-eventually-this-will-be|chatgpt-2025-01-14-24a2be]]'
-  lag_days: 337
-  role: variant
+  first_in_tracked: '[[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now|chatgpt-2025-12-17-d1d8fe]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 0
+  relation: same-theme-chronology
+  role: first-observed
   scope: tracked-products-only
   theme: automation-scheduling
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/ChatGPT/2025-09-25-if-you-ask-for-something-new-in-the-evening-we-aim-to-include-it-the-next-mornin|chatgpt-2025-09-25-e0561d]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: bd96184b49484e554342c554b2bbc848030fb5713baebe3d228662dbea7c274f
+machine_hash: 749ca368a1e7ed6e5c78ac9fc6919e1f5230102ba6819c3eab854ccdc3edb43c
 product: chatgpt
 product_name: ChatGPT
-related_changes:
-- '[[Changes/ChatGPT/2025-06-03-opt-in-reminders|chatgpt-2025-06-03-f5eb2b]]'
-- '[[Changes/ChatGPT/2025-09-25-updates-are-delivered-once-a-day-as-visual-summaries-you-can-scan-at-a-glance-or|chatgpt-2025-09-25-42e39f]]'
-- '[[Changes/ChatGPT/2025-09-25-if-you-ask-for-something-new-in-the-evening-we-aim-to-include-it-the-next-mornin|chatgpt-2025-09-25-e0561d]]'
+record:
+  card_id: chatgpt-2025-12-17-d1d8fe
+  comparison: ''
+  date: '2025-12-17'
+  description: 'ChatGPT — Tasks are now in Pulse: Tasks let you set up automated prompts
+    that ChatGPT can run for you.You can now manage all your tasks directly in Pulse:'
+  evidence:
+  - quote: 'Tasks let you set up automated prompts that ChatGPT can run for you.You
+      can now manage all your tasks directly in Pulse:'
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#tasks-are-now-in-pulse
+  extractor_version: fallback-v3
+  impact: incremental
+  product: chatgpt
+  product_name: ChatGPT
+  slug: tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now
+  source_release: chatgpt-2025-12-17-tasks-are-now-in-pulse-15c01c44
+  source_type: chatgpt_changelog
+  theme: automation-scheduling
+  theme_matches: []
+  theme_resolution: manual-backfill-review-v1
+  title: Tasks let you set up automated prompts that ChatGPT can run for you.You can
+    now
+  type: change
 source_release: '[[Releases/ChatGPT/chatgpt-2025-12-17-tasks-are-now-in-pulse-15c01c44|chatgpt-2025-12-17-tasks-are-now-in-pulse-15c01c44]]'
+source_type: chatgpt_changelog
 theme: automation-scheduling
+title: Tasks let you set up automated prompts that ChatGPT can run for you.You can
+  now
 type: change
 ---
 
 # Tasks let you set up automated prompts that ChatGPT can run for you. You can now
 
 <!-- chronolog:begin region="description" -->
-Tasks let you set up automated prompts that ChatGPT can run for you. You can now manage all your tasks directly in Pulse:
+ChatGPT — Tasks are now in Pulse: Tasks let you set up automated prompts that ChatGPT can run for you.You can now manage all your tasks directly in Pulse:
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
-> Tasks let you set up automated prompts that ChatGPT can run for you. You can now manage all your tasks directly in Pulse:
+> Tasks let you set up automated prompts that ChatGPT can run for you.You can now manage all your tasks directly in Pulse:
 >
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#tasks-are-now-in-pulse
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/ChatGPT/2025-09-25-if-you-ask-for-something-new-in-the-evening-we-aim-to-include-it-the-next-mornin|chatgpt-2025-09-25-e0561d]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: automation-scheduling
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: variant
-- First In Tracked: [[Changes/ChatGPT/2025-01-14-scheduled-tasks-is-in-early-beta-for-plus-pro-and-teams-eventually-this-will-be|chatgpt-2025-01-14-24a2be]]
-- Lag Days: 337
+- Role: first-observed
+- First In Tracked: [[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now|chatgpt-2025-12-17-d1d8fe]]
+- Lag Days: 0
 - Tracked Products Count: 3
 <!-- chronolog:end -->
 

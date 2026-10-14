@@ -1,9 +1,22 @@
 ---
 changes_count: 4
 date: '2024-02-09'
-machine_hash: e661128ce18785d5f25d56553281a42da3d93113bc140fdc0f65b795a9b58b8a
+machine_hash: 74e68482b855e752e45a4d2ae39e76d1c124b9febebdf823f452231ab7b68f09
 product: cursor
 product_name: Cursor
+record:
+  date: '2024-02-09'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2024-02-09-0-26-https-cursor-com-changelog-0-26-9569782c
+  source_summary: 'AI Previews: this is an experimental new code reading feature.
+    After enabling in the "More" tab beside Chat, just hold shift to see a generate
+    some quick notes about the symbol you''re on. If you''d like us to dedicate more
+    time to this direction, please let us know.'
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-26
+  title: AI Previews Beta
+  version: '0.26'
 release_id: cursor-2024-02-09-0-26-https-cursor-com-changelog-0-26-9569782c
 source_release: AI Previews Beta
 source_type: cursor_changelog
@@ -11,6 +24,7 @@ source_url: https://cursor.com/changelog/0-26
 tags:
 - release
 - cursor
+title: Cursor — AI Previews Beta
 version: '0.26'
 ---
 

@@ -13,6 +13,7 @@ ROOT = Path(__file__).resolve().parents[1]
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
+from _scripts.editorial import render_coverage
 from _scripts.common import PipelinePaths, machine_hash, read_json, slugify, write_json, write_text
 
 
@@ -50,6 +51,9 @@ MACHINE_FIELD_NAMES = {
     "top_themes",
     "eras",
     "title",
+    "record",
+    "coverage",
+    "publication",
 }
 
 
@@ -64,7 +68,7 @@ def replace_machine_region(existing: str, region: str, content: str) -> str:
         re.S,
     )
     if pattern.search(existing):
-        return pattern.sub(rendered, existing)
+        return pattern.sub(lambda _match: rendered, existing)
     return existing.rstrip() + "\n\n" + rendered + "\n"
 
 
@@ -122,7 +126,19 @@ def write_markdown_file(
     rendered_regions = extract_machine_regions(rendered_post.content)
     merged_body = existing_post.content
     for region, content in rendered_regions.items():
-        merged_body = replace_machine_region(merged_body, region, content)
+        if region not in extract_machine_regions(merged_body) and region in {'featured', 'coverage', 'narrative'}:
+            # Insert new reading sections before long existing archives, preserving
+            # all original human text. Subsequent runs replace just this region.
+            heading = {'featured': 'Start exploring', 'coverage': 'Source coverage',
+                       'narrative': 'Research summary'}[region]
+            section = f"## {heading}\n{machine_region(region, content)}\n\n"
+            position = merged_body.find('\n## ')
+            if position >= 0:
+                merged_body = merged_body[:position + 1] + section + merged_body[position + 1:]
+            else:
+                merged_body = merged_body.rstrip() + '\n\n' + section
+        else:
+            merged_body = replace_machine_region(merged_body, region, content)
 
     merged_metadata = {
         key: value
@@ -130,9 +146,19 @@ def write_markdown_file(
         if key not in MACHINE_FIELD_NAMES and key != "machine_hash"
     }
     merged_metadata.update(rendered_post.metadata)
-    merged_metadata["machine_hash"] = machine_hash(machine_fields(merged_metadata), rendered_regions)
+    merged_metadata["machine_hash"] = machine_hash(
+        machine_fields(merged_metadata), extract_machine_regions(merged_body)
+    )
     write_text(target, render_frontmatter(merged_metadata, merged_body))
     return True
+
+
+def wiki_label(text: str) -> str:
+    text = re.sub(r"[`*\[\]]", "", text)
+    text = text.replace('|', ' / ').replace('<', '').replace('>', '')
+    text = re.sub(r"https?://\S+", "(source link)", text)
+    text = text.replace("#", "♯").replace("$", "USD ")
+    return re.sub(r"(?<!\w)_|_(?!\w)", "", text)
 
 
 def card_link(
@@ -145,7 +171,9 @@ def card_link(
         if card_targets and card["card_id"] in card_targets
         else f"{card['date']}-{card['slug']}"
     )
-    return f"[[{target}|{label or card['title']}]]"
+    # Markdown code/emphasis inside a wiki alias splits the parser's text node,
+    # leaving literal [[...]] in Quartz instead of a navigable link.
+    return f"[[{target}|{wiki_label(label or card['title'])}]]"
 
 
 def relation_link(card_id: str, card_targets: dict[str, str] | None) -> str:
@@ -158,31 +186,39 @@ def render_theme_markdown(
     theme: str,
     cards: list[dict[str, Any]],
     card_targets: dict[str, str] | None = None,
+    editorial: str = "",
 ) -> str:
     ordered = sorted(cards, key=lambda card: (card["date"], card["product_name"], card["card_id"]))
-    timeline = ["```mermaid", "timeline", f"    title {theme}"]
-    for card in ordered:
-        timeline.append(
-            f"    {card['date']} : {card['product_name']} : {card['title']}".rstrip()
+    years = sorted({card["date"][:4] for card in ordered}, reverse=True)
+    timeline = ["Scope: tracked-products-only. Entries show same-theme chronology; "
+                "they do not establish equivalent capabilities, adoption, or causation.", ""]
+    for year in years:
+        timeline.extend([f"### {year}", ""])
+        timeline.extend(
+            f"- {card['date']} · {card['product_name']}: {card_link(card, card_targets)}"
+            for card in reversed(ordered) if card["date"].startswith(year)
         )
-    timeline.append("```")
+        timeline.append("")
     links = "\n".join(
         f"- {card['date']} {card['product_name']}: {card_link(card, card_targets)}"
         for card in ordered
     )
-    regions = {"timeline": "\n".join(timeline), "cards": links or "No changes yet."}
+    regions = {"timeline": "\n".join(timeline).rstrip(), "cards": f"Active changes: {len(ordered)}. Use the dated links above to inspect each card." if ordered else "No changes yet.",
+               "narrative": editorial or "Explore the dated evidence below."}
     fields = {
         "tags": ["theme", "moc"],
+        "title": theme.replace("-", " ").title(),
         "status": "official",
+        "publication": "fixture" if ordered and all(c.get("source_type") == "fixture" for c in ordered) else "active",
         "theme": theme,
         "products_involved": sorted({card["product_name"] for card in ordered}),
-        "date": ordered[-1]["date"],
-        "created": ordered[0]["date"],
-        "modified": ordered[-1]["date"],
     }
+    if ordered:
+        fields.update(date=ordered[-1]["date"], created=ordered[0]["date"], modified=ordered[-1]["date"])
     fields["machine_hash"] = machine_hash(fields, regions)
     body = (
         f"# Theme: {theme}\n\n"
+        f"## Research summary\n{machine_region('narrative', regions['narrative'])}\n\n"
         f"## Cross-Product Timeline\n{machine_region('timeline', regions['timeline'])}\n\n"
         f"## Change Cards\n{machine_region('cards', regions['cards'])}\n"
     )
@@ -208,9 +244,12 @@ def render_change_markdown(
             "theme",
             "impact",
             "extractor_version",
+            "source_type",
         ]
         if key in card
     }
+    metadata["title"] = wiki_label(card["title"])
+    metadata["record"] = {key: value for key, value in card.items() if not key.startswith("_")}
     if release_target:
         metadata["source_release"] = f"[[{release_target}|{card['source_release']}]]"
     evolves_from = [
@@ -239,7 +278,7 @@ def render_change_markdown(
         "description": card["description"].rstrip(),
         "evidence": evidence,
         "evolution": "\n".join(f"- {item}" for item in evolves_from)
-        or "No prior tracked change.",
+        or "No evidence-backed evolution relationship assigned.",
         "diffusion": "\n".join(
             f"- {key.replace('_', ' ').title()}: {value}"
             for key, value in diffusion.items()
@@ -271,7 +310,11 @@ def render_product_markdown(
     for era in product_info.get("eras", []):
         date_range = f"{era['from']} to {era.get('to') or 'present'}"
         sparse = " data_sparse" if era.get("data_sparse") else ""
-        era_lines.append(f"- **{era['name']}** ({date_range}){sparse}: {era['summary']}")
+        era_lines.append(f"### {era['name']}\n\n{date_range}{sparse}\n\n{era['summary']}")
+        for evidence in era.get('evidence', []):
+            target = (release_targets or {}).get(evidence['release_id'])
+            internal = f" · [[{target}|Archived release]]" if target else ""
+            era_lines.append(f"- {evidence['date']}: [{evidence['title']}]({evidence['url']}){internal}")
     change_lines = [
         f"- {card['date']} {card['theme']}: {card_link(card, card_targets)}"
         for card in ordered
@@ -279,17 +322,22 @@ def render_product_markdown(
     release_lines = [
         (
             f"- {release['date']}: "
-            f"[[{release_targets[release['release_id']]}|{release['title']}]]"
+            f"[[{release_targets[release['release_id']]}|{wiki_label(release['title'])}]]"
         )
         for release in ordered_releases
         if release_targets and release["release_id"] in release_targets
     ] or ["- No releases collected yet."]
     regions = {
         "summary": (
-            f"verbosity_baseline: {product_info['verbosity_baseline']}\n"
-            f"top_themes: {', '.join(product_info.get('top_themes', []))}"
-        ),
-        "eras": "\n".join(era_lines) or "No eras yet.",
+            f"{product_info['product_name']}: {len(ordered_releases)} archived releases and "
+            f"{len(ordered)} tracked changes.\n\n"
+            f"Most represented themes: {', '.join(product_info.get('top_themes', [])[:5])}."
+        ).rstrip(),
+        "coverage": render_coverage(product_info.get('coverage', {})),
+        "narrative": (product_info.get('narrative_summary', '') + '\n\n' +
+                      product_info.get('narrative_limitations', '')).strip() or
+                     'The release archive records announced changes; a reviewed phase narrative is not yet available.',
+        "eras": "\n\n".join(era_lines) or "No reviewed capability turning points assigned yet. The archive below is chronological.",
         "releases": "\n".join(release_lines),
         "changes": "\n".join(change_lines),
     }
@@ -298,10 +346,13 @@ def render_product_markdown(
     ]
     fields = {
         "tags": ["product"],
+        "title": product_info["product_name"],
         "product": product,
         "product_name": product_info["product_name"],
         "verbosity_baseline": product_info["verbosity_baseline"],
         "top_themes": product_info.get("top_themes", []),
+        "coverage": product_info.get("coverage", {}),
+        "publication": "fixture" if ordered_releases and all(r.get("source_type") == "fixture" for r in ordered_releases) else "active",
     }
     if timeline_dates:
         fields.update(
@@ -315,6 +366,8 @@ def render_product_markdown(
     body = (
         f"# {product_info['product_name']}\n\n"
         f"## Summary\n{machine_region('summary', regions['summary'])}\n\n"
+        f"## Coverage\n{machine_region('coverage', regions['coverage'])}\n\n"
+        f"## Capability turning points\n{machine_region('narrative', regions['narrative'])}\n\n"
         f"## Eras\n{machine_region('eras', regions['eras'])}\n\n"
         f"## Release Archive\n{machine_region('releases', regions['releases'])}\n\n"
         f"## Change Timeline\n{machine_region('changes', regions['changes'])}\n\n"
@@ -341,6 +394,11 @@ def render_release_markdown(
     }
     fields = {
         "tags": ["release", release["product"]],
+        "title": wiki_label(f"{release['product_name']} — {release['title']}"),
+        "record": {
+            key: value for key, value in release.items()
+            if key not in {"body", "cards"} and not key.startswith("_")
+        },
         "release_id": release["release_id"],
         "product": release["product"],
         "product_name": release["product_name"],
@@ -402,10 +460,19 @@ def render_index_markdown(
             f"Alert count: {len(silence.get('alerts', []))}\n"
             f"Pending theme review: {pending_theme_review}"
         ),
+        "coverage": "\n\n".join(
+            f"### {info['product_name']}\n\n{render_coverage(info.get('coverage', {}))}"
+            for info in products.values()),
+        "featured": "\n".join(
+            f"- [[Themes/{theme}|{theme}]] — {label}"
+            for theme, label in [('agent-mode', 'From assisted edits to delegated work'),
+                                 ('pricing-model', 'Plans, allowances, and usage charging')]
+            if theme in themes) or "No featured themes yet.",
         "products": product_links or "No products yet.",
         "themes": theme_links or "No themes yet.",
     }
-    fields = {"tags": ["index"], "title": "ChronoLog"}
+    fields = {"tags": ["index"], "title": "ChronoLog",
+              "publication": "fixture" if cards and all(c.get("source_type") == "fixture" for c in cards) else "active"}
     if cards:
         ordered_dates = sorted(card["date"] for card in cards)
         fields.update(
@@ -418,6 +485,10 @@ def render_index_markdown(
     fields["machine_hash"] = machine_hash(fields, regions)
     body = (
         "# ChronoLog\n\n"
+        "Research changes in ChatGPT, Claude Code, and Cursor through official release evidence. "
+        "Counts cover accepted active records; fixtures, pending review, and superseded records are excluded.\n\n"
+        f"## Start exploring\n{machine_region('featured', regions['featured'])}\n\n"
+        f"## Source coverage\n{machine_region('coverage', regions['coverage'])}\n\n"
         f"## Overview\n{machine_region('overview', regions['overview'])}\n\n"
         f"## Products\n{machine_region('products', regions['products'])}\n\n"
         f"## Themes\n{machine_region('themes', regions['themes'])}\n"
@@ -618,6 +689,7 @@ def write_run(
     run_id: str,
     root: Path = ROOT,
     reconcile: bool = False,
+    reconcile_products: set[str] | None = None,
 ) -> list[dict[str, str]]:
     paths = PipelinePaths(run_id, root=root)
     ensure_vault_dirs(paths.root)
@@ -755,11 +827,19 @@ def write_run(
             conflicts,
         )
 
+    # A complete reconciliation may retire the last card in a theme. Refresh that
+    # existing aggregate too, preserving its human-owned sections and stable URL.
+    if reconcile:
+        managed_names = {info["product_name"] for info in products_info.values()}
+        for path in (paths.root / "Themes").glob("*.md"):
+            post = frontmatter.load(path)
+            if managed_names.intersection(post.get("products_involved", [])) and post.get("theme"):
+                cards_by_theme.setdefault(post["theme"], [])
     for theme, theme_cards in cards_by_theme.items():
         target = paths.root / "Themes" / f"{theme}.md"
         write_markdown_file(
             target,
-            render_theme_markdown(theme, theme_cards, card_targets),
+            render_theme_markdown(theme, theme_cards, card_targets, analysis_b.get("editorial", {}).get(theme, "")),
             conflicts,
         )
 
@@ -780,7 +860,7 @@ def write_run(
     )
 
     if reconcile:
-        reconcile_products = {
+        reconcile_products = reconcile_products if reconcile_products is not None else {
             str(release["product"]) for release in collected.get("releases", [])
         }
         active_card_ids = {card["card_id"] for card in cards}

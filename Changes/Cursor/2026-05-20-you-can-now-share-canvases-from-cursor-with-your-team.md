@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2026-05-20-shared-canvases|cursor-2026-05-20-496ec1]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: f0d95197ce4a5be46c1becf9ae5a4b9cda4de37742f1e50afbac0e3a81329f99
+machine_hash: 56582c608b43cbd70cd6dba3e6fd3d8eaeff2475e48ab12291ea1770efeb8bc0
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2026-05-11-cursor-is-now-available-in-microsoft-teams|cursor-2026-05-11-cc179a]]'
 - '[[Changes/Cursor/2026-05-20-shared-canvases|cursor-2026-05-20-496ec1]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-20-3-5-https-cursor-com-changelog-shared-canvases-68b3b2da|cursor-2026-05-20-3-5-https-cursor-com-changelog-shared-canvases-68b3b2da]]'
+superseded: true
 theme: collaboration
 type: change
 ---

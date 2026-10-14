@@ -11,10 +11,11 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v2
 impact: significant
-machine_hash: 0337cd4ff5ca27dab1e794471bcd097956abf8c1397c8c513e9f4242329fa51f
+machine_hash: 5792c3a56c5befaa0e87f2e734995320b213d9b6101432954e93e5d58298ec3a
 product: cursor
 product_name: Cursor
 source_release: '[[Releases/Cursor/cursor-2023-07-27-0-5-0-https-cursor-com-changelog-0-5-0-55901f62|cursor-2023-07-27-0-5-0-https-cursor-com-changelog-0-5-0-55901f62]]'
+superseded: true
 theme: enterprise-admin
 type: change
 ---

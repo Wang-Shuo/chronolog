@@ -2,49 +2,77 @@
 card_id: chatgpt-2025-06-24-e74d4b
 date: '2025-06-24'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week|chatgpt-2023-07-06-63388c]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|chatgpt-2023-07-06-66255e]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 719
-  role: variant
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: file-data
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/ChatGPT/2025-02-06-for-more-details-about-the-canvas-feature-in-chatgpt-check-out-the-following-hel|chatgpt-2025-02-06-0f1765]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: significant
-machine_hash: 4709031d4e6f4e58b20bb62742b313eeac2744f032dff789395525b55527e7c2
+machine_hash: 54af9eb03b018ad63e3c2a6c57abfbebf36dfd5e11e95e11f9ea108eb434f53c
 product: chatgpt
 product_name: ChatGPT
+record:
+  ai_generated: true
+  card_id: chatgpt-2025-06-24-e74d4b
+  comparison: ''
+  confidence: low
+  date: '2025-06-24'
+  description: 'ChatGPT — Project file limit increased (Pro): Projects can now support
+    40 uploaded files, up from 20, for Pro users.'
+  evidence:
+  - quote: Projects can now support 40 uploaded files, up from 20, for Pro users.
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#project-file-limit-increased-pro
+  extractor_version: fallback-v3
+  impact: significant
+  product: chatgpt
+  product_name: ChatGPT
+  slug: projects-can-now-support-40-uploaded-files-up-from-20-for-pro-users
+  source_release: chatgpt-2025-06-24-project-file-limit-increased-pro-a6870635
+  source_type: chatgpt_changelog
+  theme: file-data
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v1
+  title: Projects can now support 40 uploaded files, up from 20, for Pro users.
+  type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-01-15-edit-a-code-block-in-canvas|chatgpt-2025-01-15-f32a4e]]'
 - '[[Changes/ChatGPT/2025-02-06-users-can-now-share-a-canvas-asset-such-as-rendered-react-html-code-document-or|chatgpt-2025-02-06-009605]]'
 - '[[Changes/ChatGPT/2025-02-06-for-more-details-about-the-canvas-feature-in-chatgpt-check-out-the-following-hel|chatgpt-2025-02-06-0f1765]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-24-project-file-limit-increased-pro-a6870635|chatgpt-2025-06-24-project-file-limit-increased-pro-a6870635]]'
+source_type: chatgpt_changelog
 theme: file-data
+title: Projects can now support 40 uploaded files, up from 20, for Pro users.
 type: change
 ---
 
 # Projects can now support 40 uploaded files, up from 20, for Pro users.
 
 <!-- chronolog:begin region="description" -->
-Projects can now support 40 uploaded files, up from 20, for Pro users.
+ChatGPT — Project file limit increased (Pro): Projects can now support 40 uploaded files, up from 20, for Pro users.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Projects can now support 40 uploaded files, up from 20, for Pro users.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_f2f58eebf7
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#project-file-limit-increased-pro
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/ChatGPT/2025-02-06-for-more-details-about-the-canvas-feature-in-chatgpt-check-out-the-following-hel|chatgpt-2025-02-06-0f1765]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: file-data
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: variant
-- First In Tracked: [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week|chatgpt-2023-07-06-63388c]]
+- Role: later-observed
+- First In Tracked: [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|chatgpt-2023-07-06-66255e]]
 - Lag Days: 719
 - Tracked Products Count: 3
 <!-- chronolog:end -->

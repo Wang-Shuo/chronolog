@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2025-07-03-queued-messages|cursor-2025-07-03-4d907a]]'
 extractor_version: fallback-v2
 impact: paradigm-shift
-machine_hash: 8d7a320930d66d78acd2c8ec7326cd15b58a095366dc49a82c13eb73aec7caa6
+machine_hash: 74ac94886809a8deffe945abcff31a5099f81edbc3b612ba8bc7ce3e964f2ade
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2025-07-03-agents-now-plan-ahead-with-structured-to-do-lists-making-long-horizon-tasks-easi|cursor-2025-07-03-14aa9b]]'
 - '[[Changes/Cursor/2025-07-03-queued-messages|cursor-2025-07-03-4d907a]]'
 source_release: '[[Releases/Cursor/cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d|cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d]]'
+superseded: true
 theme: agent-mode
 type: change
 ---

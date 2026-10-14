@@ -11,7 +11,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: dbedb6307ff9639eb4557c97a88e67dbd193685778436ade7a7e762bc7eac60c
+machine_hash: c35f4f594a736302cd62c08a1b1ad5d16a0c465f0bd1399971f1facba5c7d6b9
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -19,6 +19,7 @@ related_changes:
 - '[[Changes/Cursor/2025-08-21-you-can-now-start-background-agents-directly-from-linear-delegate-tasks-to-curso|cursor-2025-08-21-927f5c]]'
 - '[[Changes/Cursor/2025-08-21-os-notifications-from-agent|cursor-2025-08-21-b66ace]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-29-introducing-instant-checkout-and-the-agentic-commerce-protocol-6ba1bd7e|chatgpt-2025-09-29-introducing-instant-checkout-and-the-agentic-commerce-protocol-6ba1bd7e]]'
+superseded: true
 theme: agent-mode
 type: change
 ---

@@ -3,31 +3,59 @@ card_id: cursor-2025-04-15-1d3ec5
 date: '2025-04-15'
 diffusion:
   first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 649
-  role: variant
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: agent-mode
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Cursor/2025-01-23-cursor-rules-users-can-write-several-repository-level-rules-to-disk-in-the-curso|cursor-2025-01-23-eed3a4]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: paradigm-shift
-machine_hash: a1ed16dfa66ae3c29a25ebdee5c54bda042f9e2a8e7c4e7fd288fe8cc5cab9de
+machine_hash: 1e08f8b302626867f446285669493b363dd8f02cdf80bbb3b283c8efeada08bc
 product: cursor
 product_name: Cursor
+record:
+  ai_generated: true
+  card_id: cursor-2025-04-15-1d3ec5
+  comparison: ''
+  confidence: low
+  date: '2025-04-15'
+  description: 'Cursor — Rules generation, improved agent terminal and MCP images:
+    We’ve also fixed a long-standing issue where Always attached rules now persist
+    across longer conversations. Agent can now also edit rules reliably.'
+  evidence:
+  - quote: We’ve also fixed a long-standing issue where Always attached rules now
+      persist across longer conversations. Agent can now also edit rules reliably.
+    source_release: https://cursor.com/changelog/0-49
+  extractor_version: fallback-v3
+  impact: paradigm-shift
+  product: cursor
+  product_name: Cursor
+  slug: we-ve-also-fixed-a-long-standing-issue-where-always-attached-rules-now-persist-a
+  source_release: cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f
+  source_type: cursor_changelog
+  theme: agent-mode
+  title: We’ve also fixed a long-standing issue where Always attached rules now persist
+    a
+  type: change
 related_changes:
-- '[[Changes/Cursor/2024-12-17-docs-git-web-and-folder-are-now-available-in-the-agent|cursor-2024-12-17-dd6bb2]]'
 - '[[Changes/Cursor/2025-01-23-agent-sees-recent-changes-the-agent-can-use-a-tool-to-see-your-recent-changes-it|cursor-2025-01-23-2ce8ba]]'
 - '[[Changes/Cursor/2025-01-23-cursor-rules-users-can-write-several-repository-level-rules-to-disk-in-the-curso|cursor-2025-01-23-eed3a4]]'
+- '[[Changes/Cursor/2025-04-15-reviewing-agent-generated-code-is-now-easier-with-a-built-in-diff-view-at-the-en|cursor-2025-04-15-1a9804]]'
 source_release: '[[Releases/Cursor/cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f|cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f]]'
+source_type: cursor_changelog
 theme: agent-mode
+title: We’ve also fixed a long-standing issue where Always attached rules now persist
+  a
 type: change
 ---
 
 # We’ve also fixed a long-standing issue where Always attached rules now persist a
 
 <!-- chronolog:begin region="description" -->
-We’ve also fixed a long-standing issue where Always attached rules now persist across longer conversations. Agent can now also edit rules reliably.
+Cursor — Rules generation, improved agent terminal and MCP images: We’ve also fixed a long-standing issue where Always attached rules now persist across longer conversations. Agent can now also edit rules reliably.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +65,15 @@ We’ve also fixed a long-standing issue where Always attached rules now persist
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Cursor/2025-01-23-cursor-rules-users-can-write-several-repository-level-rules-to-disk-in-the-curso|cursor-2025-01-23-eed3a4]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: agent-mode
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: variant
+- Role: later-observed
 - First In Tracked: [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]
 - Lag Days: 649
 - Tracked Products Count: 3

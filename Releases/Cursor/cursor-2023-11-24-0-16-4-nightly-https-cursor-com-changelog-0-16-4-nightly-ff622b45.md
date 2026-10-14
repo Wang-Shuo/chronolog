@@ -1,9 +1,20 @@
 ---
 changes_count: 1
 date: '2023-11-24'
-machine_hash: a6c38970642637235e8da788d069c05618b494301850de6514f2a6ea6b5c77b9
+machine_hash: 09cb6811fc30271c4c66d4e240102a2c03e55262070afdd843eeb29a4f38b8ab
 product: cursor
 product_name: Cursor
+record:
+  date: '2023-11-24'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2023-11-24-0-16-4-nightly-https-cursor-com-changelog-0-16-4-nightly-ff622b45
+  source_summary: You can now @folder in the chat to chat with a folder. Let us know
+    what you think!
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-16-4-nightly
+  title: '@folder'
+  version: 0.16.4-nightly
 release_id: cursor-2023-11-24-0-16-4-nightly-https-cursor-com-changelog-0-16-4-nightly-ff622b45
 source_release: '@folder'
 source_type: cursor_changelog
@@ -11,6 +22,7 @@ source_url: https://cursor.com/changelog/0-16-4-nightly
 tags:
 - release
 - cursor
+title: Cursor — @folder
 version: 0.16.4-nightly
 ---
 

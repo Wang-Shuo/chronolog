@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-04-16-today-we-re-releasing-openai-o3-and-o4-mini-the-latest-in-our-o-series-of-models|chatgpt-2025-04-16-cebd09]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: a48f527143b913ada1850b99a9b00dea65ce2a6c502704f2d167071cea40cfda
+machine_hash: 465c8973b729a1fa2d6a654e8e578ddf3a9c9098d898fb40aaaefd6868c622fa
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-04-10-gpt-4-marked-a-pivotal-moment-in-chatgpt-s-evolution-we-re-grateful-for-the-brea|chatgpt-2025-04-10-e86a80]]'
 - '[[Changes/ChatGPT/2025-04-16-today-we-re-releasing-openai-o3-and-o4-mini-the-latest-in-our-o-series-of-models|chatgpt-2025-04-16-cebd09]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-04-29-updates-to-gpt-4o-3c847c95|chatgpt-2025-04-29-updates-to-gpt-4o-3c847c95]]'
+superseded: true
 theme: model-support
 type: change
 ---

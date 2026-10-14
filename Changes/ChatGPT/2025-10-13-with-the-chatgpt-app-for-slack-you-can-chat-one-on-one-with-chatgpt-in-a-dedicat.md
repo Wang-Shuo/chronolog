@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-10-13-both-app-and-connector-are-available-to-plus-pro-business-and-enterprise-edu-cus|chatgpt-2025-10-13-cdb156]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 78015117e2cd37edd027690ecd4d22889cff93cd4deaf53a5f7d90237a3d6e98
+machine_hash: f32e0e09190712224bb0e96d5388f356bd8b3e6933b1a5066b62411d4a86c6b9
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-10-13-we-re-rolling-out-two-new-ways-to-bring-slack-and-chatgpt-together-a-connector-t|chatgpt-2025-10-13-8424ee]]'
 - '[[Changes/ChatGPT/2025-10-13-both-app-and-connector-are-available-to-plus-pro-business-and-enterprise-edu-cus|chatgpt-2025-10-13-cdb156]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-13-slack-connector-and-app-931a6153|chatgpt-2025-10-13-slack-connector-and-app-931a6153]]'
+superseded: true
 theme: apps-integrations
 type: change
 ---

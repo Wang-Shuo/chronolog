@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-05-01-launched-on-april-1-as-a-one-month-surprise-our-monday-personality-available-in|chatgpt-2025-05-01-c83f5d]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 2e77dc47e5b8a156ea33c463715d8dd702a89bf43adf7b399c70c65f4aff9be1
+machine_hash: 2cbb09fbb8d6628ab15a965b9378b61cb6a380acfc208cea406840ff8d7c9148
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2024-12-12-the-first-time-you-chat-with-santa-your-advanced-voice-limit-will-reset-one-time|chatgpt-2024-12-12-dc93c9]]'
 - '[[Changes/ChatGPT/2025-05-01-launched-on-april-1-as-a-one-month-surprise-our-monday-personality-available-in|chatgpt-2025-05-01-c83f5d]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-07-updates-to-advanced-voice-mode-for-paid-users-55969446|chatgpt-2025-06-07-updates-to-advanced-voice-mode-for-paid-users-55969446]]'
+superseded: true
 theme: voice
 type: change
 ---

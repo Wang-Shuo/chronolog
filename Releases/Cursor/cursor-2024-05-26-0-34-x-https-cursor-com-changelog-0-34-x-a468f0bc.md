@@ -1,9 +1,20 @@
 ---
 changes_count: 5
 date: '2024-05-26'
-machine_hash: c6af94044238beb394f28d3ec0ecc8249d67f091fb115a859dada01a8cba051d
+machine_hash: 2745203d5a6f782e82b98ea12ba1ff64b5759f4b03e32cefed1fbb5ad22d1c4f
 product: cursor
 product_name: Cursor
+record:
+  date: '2024-05-26'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2024-05-26-0-34-x-https-cursor-com-changelog-0-34-x-a468f0bc
+  source_summary: Merges VS Code 1.89 into Cursor
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-34-x
+  title: VS Code 1.89, New Cursor Prediction UI, Gemini 1.5 Flash, Copilot++ partial
+    completion
+  version: 0.34.x
 release_id: cursor-2024-05-26-0-34-x-https-cursor-com-changelog-0-34-x-a468f0bc
 source_release: VS Code 1.89, New Cursor Prediction UI, Gemini 1.5 Flash, Copilot++
   partial completion
@@ -12,6 +23,8 @@ source_url: https://cursor.com/changelog/0-34-x
 tags:
 - release
 - cursor
+title: Cursor — VS Code 1.89, New Cursor Prediction UI, Gemini 1.5 Flash, Copilot++
+  partial completion
 version: 0.34.x
 ---
 

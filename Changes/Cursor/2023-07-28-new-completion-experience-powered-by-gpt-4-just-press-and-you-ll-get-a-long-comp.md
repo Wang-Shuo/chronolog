@@ -2,32 +2,69 @@
 card_id: cursor-2023-07-28-3dcb54
 date: '2023-07-28'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 200
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
-  theme: interface-experience
+  theme: model-support
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Cursor/2023-07-27-c-and-f-now-properly-render-in-the-chat|cursor-2023-07-27-8b3ad9]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: significant
-machine_hash: f2afb3d5e190cfd60050e3c409a3231081819a99f25ae33cad2dbc7cd9617df4
+machine_hash: 96e11fbcf3f8f634e50096ca30b6f9cf07536893247db7a7ce61f0ecdf471d78
 product: cursor
 product_name: Cursor
+record:
+  ai_generated: true
+  card_id: cursor-2023-07-28-3dcb54
+  comparison: ''
+  confidence: low
+  date: '2023-07-28'
+  description: 'Cursor — A copilot experience powered by gpt-4: new completion experience
+    powered by gpt-4. Just press ⌘/^+↩️ and you''ll get a long completion from gpt-4.'
+  evidence:
+  - quote: new completion experience powered by gpt-4. Just press ⌘/^+↩️ and you'll
+      get a long completion from gpt-4.
+    source_release: https://cursor.com/changelog/0-6-0
+  extractor_version: fallback-v3
+  impact: significant
+  product: cursor
+  product_name: Cursor
+  slug: new-completion-experience-powered-by-gpt-4-just-press-and-you-ll-get-a-long-comp
+  source_release: cursor-2023-07-28-0-6-0-https-cursor-com-changelog-0-6-0-ec91c991
+  source_type: cursor_changelog
+  theme: model-support
+  theme_matches:
+  - matched_terms:
+    - gpt 4
+    score: 60
+    theme: model-support
+  - matched_terms:
+    - completion
+    score: 50
+    theme: editor-experience
+  theme_resolution: manual-semantic-rule-v2
+  title: new completion experience powered by gpt-4. Just press ⌘/^+↩️ and you'll
+    get a l
+  type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-07-chat-edit-tooltip-blocks-less-code|cursor-2023-07-07-1407d3]]'
-- '[[Changes/Cursor/2023-07-07-better-symbol-keyboard-ergonomics|cursor-2023-07-07-194f00]]'
-- '[[Changes/Cursor/2023-07-27-c-and-f-now-properly-render-in-the-chat|cursor-2023-07-27-8b3ad9]]'
+- '[[Changes/Cursor/2023-06-01-check-out-the-more-tab-to-have-gpt-3-5-or-gpt-4-review-your-code-periodically-fo|cursor-2023-06-01-3accfa]]'
+- '[[Changes/ChatGPT/2023-06-22-browsing-plus-users-can-now-use-browsing-to-get-comprehensive-answers-and-curren|chatgpt-2023-06-22-1011b0]]'
+- '[[Changes/ChatGPT/2023-07-19-we-re-doubling-the-number-of-messages-chatgpt-plus-customers-can-send-with-gpt-4|chatgpt-2023-07-19-3f0b5f]]'
 source_release: '[[Releases/Cursor/cursor-2023-07-28-0-6-0-https-cursor-com-changelog-0-6-0-ec91c991|cursor-2023-07-28-0-6-0-https-cursor-com-changelog-0-6-0-ec91c991]]'
-theme: interface-experience
+source_type: cursor_changelog
+theme: model-support
+title: new completion experience powered by gpt-4. Just press ⌘/^+↩️ and you'll get
+  a l
 type: change
 ---
 
 # new completion experience powered by gpt-4. Just press ⌘/^+↩️ and you'll get a l
 
 <!-- chronolog:begin region="description" -->
-new completion experience powered by gpt-4. Just press ⌘/^+↩️ and you'll get a long completion from gpt-4.
+Cursor — A copilot experience powered by gpt-4: new completion experience powered by gpt-4. Just press ⌘/^+↩️ and you'll get a long completion from gpt-4.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,14 +74,16 @@ new completion experience powered by gpt-4. Just press ⌘/^+↩️ and you'll g
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Cursor/2023-07-27-c-and-f-now-properly-render-in-the-chat|cursor-2023-07-27-8b3ad9]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
-- Theme: interface-experience
+- Theme: model-support
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
-- First In Tracked: [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]
+- Role: later-observed
+- First In Tracked: [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]
 - Lag Days: 200
 - Tracked Products Count: 3
 <!-- chronolog:end -->

@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-11-12-changes-you-make-in-personalization-now-apply-across-all-chats-immediately-inclu|chatgpt-2025-11-12-361e6a]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 81e0ca10e16fe7b140045f68c6af8d1ed507ee22ec50c16f30531f3759313c27
+machine_hash: dcf2198830d7bbfe45825692996668d76273ef94ecc3655e93e114803dcaacbd
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-11-07-previously-changes-you-made-to-your-chatgpt-personality-or-custom-instructions-o|chatgpt-2025-11-07-2c37c7]]'
 - '[[Changes/ChatGPT/2025-11-12-changes-you-make-in-personalization-now-apply-across-all-chats-immediately-inclu|chatgpt-2025-11-12-361e6a]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-12-new-tone-and-personalization-controls-8052eeb3|chatgpt-2025-11-12-new-tone-and-personalization-controls-8052eeb3]]'
+superseded: true
 theme: memory
 type: change
 ---

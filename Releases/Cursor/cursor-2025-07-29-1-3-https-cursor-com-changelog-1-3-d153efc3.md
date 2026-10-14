@@ -1,9 +1,19 @@
 ---
-changes_count: 5
+changes_count: 4
 date: '2025-07-29'
-machine_hash: 57ccec68945b6bce9dec8b33ca344e1cca2d1fac0b02b7209b1176d3ef4b0e38
+machine_hash: 68a311aefec2ceb3f55f65ccf5281abfefcdca6d35f9c6137256d9199d55526f
 product: cursor
 product_name: Cursor
+record:
+  date: '2025-07-29'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3
+  source_summary: '#Share terminal with Agent'
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/1-3
+  title: Shared terminal with Agent, context usage in chat, and faster edits
+  version: '1.3'
 release_id: cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3
 source_release: Shared terminal with Agent, context usage in chat, and faster edits
 source_type: cursor_changelog
@@ -11,6 +21,7 @@ source_url: https://cursor.com/changelog/1-3
 tags:
 - release
 - cursor
+title: Cursor — Shared terminal with Agent, context usage in chat, and faster edits
 version: '1.3'
 ---
 
@@ -22,14 +33,13 @@ version: '1.3'
 
 [Official release notes](https://cursor.com/changelog/1-3)
 
-Tracked cards: 5
+Tracked cards: 4
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- developer-workflow: [[Changes/Cursor/2025-07-29-share-terminal-with-agent|Share terminal with Agent]]
+- reliability-performance: [[Changes/Cursor/2025-07-29-agent-edits-are-now-faster-by-lazy-loading-linter-errors-search-replace-edit-lat|Agent edits are now faster by lazy loading linter errors. Search & Replace edit]]
 - agent-mode: [[Changes/Cursor/2025-07-29-agents-can-now-use-your-native-terminal-a-new-terminal-will-be-created-when-need|Agents can now use your native terminal. A new terminal will be created when nee]]
 - context-window: [[Changes/Cursor/2025-07-29-at-the-end-of-a-conversation-you-can-now-see-how-much-of-the-context-window-is-u|At the end of a conversation you can now see how much of the context window is u]]
-- reliability-performance: [[Changes/Cursor/2025-07-29-faster-edits|Faster edits]]
-- context-window: [[Changes/Cursor/2025-07-29-view-context-usage-in-chat|View context usage in Chat]]
+- editor-experience: [[Changes/Cursor/2025-07-29-active-tab-in-chat|Active Tab in Chat]]
 <!-- chronolog:end -->

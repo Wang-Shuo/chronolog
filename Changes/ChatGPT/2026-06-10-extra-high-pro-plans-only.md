@@ -3,31 +3,55 @@ card_id: chatgpt-2026-06-10-336657
 date: '2026-06-10'
 diffusion:
   first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1248
-  role: variant
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: model-support
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/ChatGPT/2026-06-10-pro-extended-pro-plans-only|chatgpt-2026-06-10-2ffb2a]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 96e90ab566d492ff358ab39c33859c785eac33fc050e838085d67c839277a6b8
+machine_hash: 44e91395f21a2e766039004782d215f7478b962f4afd315ca0b9db2eaf3b3283
 product: chatgpt
 product_name: ChatGPT
+record:
+  card_id: chatgpt-2026-06-10-336657
+  comparison: ''
+  date: '2026-06-10'
+  description: 'ChatGPT — Simplified controls in the model picker: Extra High [Pro
+    plans only]'
+  evidence:
+  - quote: Extra High [Pro plans only]
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#simplified-controls-in-the-model-picker
+  extractor_version: fallback-v3
+  impact: incremental
+  product: chatgpt
+  product_name: ChatGPT
+  slug: extra-high-pro-plans-only
+  source_release: chatgpt-2026-06-10-simplified-controls-in-the-model-picker-32a1fdba
+  source_type: chatgpt_changelog
+  theme: model-support
+  theme_matches: []
+  theme_resolution: manual-backfill-review-v1
+  title: Extra High [Pro plans only]
+  type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-08-added-a-disablebundledskills-setting-and-claude-code-disable-bundled-skills-envi|claude-code-2026-06-08-b5f6b1]]'
 - '[[Changes/Claude Code/2026-06-09-introducing-claude-fable-5-a-mythos-class-model-that-we-ve-made-safe-for-general|claude-code-2026-06-09-f60c22]]'
 - '[[Changes/ChatGPT/2026-06-10-pro-extended-pro-plans-only|chatgpt-2026-06-10-2ffb2a]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-10-simplified-controls-in-the-model-picker-32a1fdba|chatgpt-2026-06-10-simplified-controls-in-the-model-picker-32a1fdba]]'
+source_type: chatgpt_changelog
 theme: model-support
+title: Extra High Pro plans only
 type: change
 ---
 
 # Extra High [Pro plans only]
 
 <!-- chronolog:begin region="description" -->
-Extra High [Pro plans only]
+ChatGPT — Simplified controls in the model picker: Extra High [Pro plans only]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +61,15 @@ Extra High [Pro plans only]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/ChatGPT/2026-06-10-pro-extended-pro-plans-only|chatgpt-2026-06-10-2ffb2a]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: model-support
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: variant
+- Role: later-observed
 - First In Tracked: [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]
 - Lag Days: 1248
 - Tracked Products Count: 3

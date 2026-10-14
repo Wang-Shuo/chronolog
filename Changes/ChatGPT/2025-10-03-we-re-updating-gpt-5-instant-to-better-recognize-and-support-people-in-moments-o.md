@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-10-03-this-update-to-gpt-5-instant-is-starting-to-roll-out-to-chatgpt-users-today-we-r|chatgpt-2025-10-03-240ee1]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: e128b32443a4be6283a958cb94b895f824feee982efd9c7697845a683b78aa9a
+machine_hash: a30c013cb2ef8061296cfc5b95d6c80871a28dd6c8cc187a7936144cca94d25e
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-10-03-the-model-is-trained-to-more-accurately-detect-and-respond-to-potential-signs-of|chatgpt-2025-10-03-06bd2f]]'
 - '[[Changes/ChatGPT/2025-10-03-this-update-to-gpt-5-instant-is-starting-to-roll-out-to-chatgpt-users-today-we-r|chatgpt-2025-10-03-240ee1]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-03-updating-gpt-5-a6c090c8|chatgpt-2025-10-03-updating-gpt-5-a6c090c8]]'
+superseded: true
 theme: model-support
 type: change
 ---

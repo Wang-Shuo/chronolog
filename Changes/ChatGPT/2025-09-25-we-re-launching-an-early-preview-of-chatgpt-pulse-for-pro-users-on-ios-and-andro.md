@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-09-25-as-a-preview-pulse-has-some-limitations-it-aims-to-show-you-what-s-most-relevant|chatgpt-2025-09-25-14a5fc]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: 55481e1f121ac2c0715d587d40fc6c99a9f2f271698a1ce53fb5f4ed3c7d2c08
+machine_hash: df34e98a629ec053fef3bae1f48f5393058ebb416fea5b904bc8b0b89c8afd1b
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-09-25-it-requires-saved-memory-and-chat-history-to-be-turned-on-and-you-can-switch-pul|chatgpt-2025-09-25-023d95]]'
 - '[[Changes/ChatGPT/2025-09-25-as-a-preview-pulse-has-some-limitations-it-aims-to-show-you-what-s-most-relevant|chatgpt-2025-09-25-14a5fc]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-25-introducing-chatgpt-pulse-for-pro-users-5be6c168|chatgpt-2025-09-25-introducing-chatgpt-pulse-for-pro-users-5be6c168]]'
+superseded: true
 theme: memory
 type: change
 ---

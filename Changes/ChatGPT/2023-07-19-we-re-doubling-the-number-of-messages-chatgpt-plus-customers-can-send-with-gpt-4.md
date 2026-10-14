@@ -3,47 +3,80 @@ card_id: chatgpt-2023-07-19-3f0b5f
 date: '2023-07-19'
 diffusion:
   first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 191
-  role: variant
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: model-support
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/ChatGPT/2023-05-03-we-are-deprecating-the-legacy-gpt-3-5-model-on-may-10th-users-will-be-able-to-co|chatgpt-2023-05-03-6c50c1]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: significant
-machine_hash: ed7a042b25a29818b913f54154ef80ebb871754778005d5d4abc1211f946e667
+machine_hash: f5ba6b8e58393282d347b8088580075444b962b541806af5794c6b15fd72754e
 product: chatgpt
 product_name: ChatGPT
+record:
+  ai_generated: true
+  card_id: chatgpt-2023-07-19-3f0b5f
+  comparison: ''
+  confidence: low
+  date: '2023-07-19'
+  description: 'ChatGPT — Higher message limits for GPT-4: We''re doubling the number
+    of messages ChatGPT Plus customers can send with GPT-4. Rolling out over the next
+    week, the new message limit will be 40 every 3 hours.'
+  evidence:
+  - quote: We're doubling the number of messages ChatGPT Plus customers can send with
+      GPT-4. Rolling out over the next week, the new message limit will be 40 every
+      3 hours.
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#higher-message-limits-for-gpt-4
+  extractor_version: fallback-v3
+  impact: significant
+  product: chatgpt
+  product_name: ChatGPT
+  slug: we-re-doubling-the-number-of-messages-chatgpt-plus-customers-can-send-with-gpt-4
+  source_release: chatgpt-2023-07-19-higher-message-limits-for-gpt-4-1b971518
+  source_type: chatgpt_changelog
+  theme: model-support
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v2
+  title: We're doubling the number of messages ChatGPT Plus customers can send with
+    GPT-4
+  type: change
 related_changes:
 - '[[Changes/Cursor/2023-05-20-all-users-get-10-free-gpt-4-requests|cursor-2023-05-20-980551]]'
-- '[[Changes/Cursor/2023-05-20-upgrades-to-gpt-4|cursor-2023-05-20-eeddea]]'
 - '[[Changes/Cursor/2023-06-01-check-out-the-more-tab-to-have-gpt-3-5-or-gpt-4-review-your-code-periodically-fo|cursor-2023-06-01-3accfa]]'
+- '[[Changes/ChatGPT/2023-06-22-browsing-plus-users-can-now-use-browsing-to-get-comprehensive-answers-and-curren|chatgpt-2023-06-22-1011b0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-07-19-higher-message-limits-for-gpt-4-1b971518|chatgpt-2023-07-19-higher-message-limits-for-gpt-4-1b971518]]'
+source_type: chatgpt_changelog
 theme: model-support
+title: We're doubling the number of messages ChatGPT Plus customers can send with
+  GPT-4
 type: change
 ---
 
 # We're doubling the number of messages ChatGPT Plus customers can send with GPT-4
 
 <!-- chronolog:begin region="description" -->
-We're doubling the number of messages ChatGPT Plus customers can send with GPT-4. Rolling out over the next week, the new message limit will be 40 every 3 hours.
+ChatGPT — Higher message limits for GPT-4: We're doubling the number of messages ChatGPT Plus customers can send with GPT-4. Rolling out over the next week, the new message limit will be 40 every 3 hours.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We're doubling the number of messages ChatGPT Plus customers can send with GPT-4. Rolling out over the next week, the new message limit will be 40 every 3 hours.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_e65b44764b
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#higher-message-limits-for-gpt-4
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/ChatGPT/2023-05-03-we-are-deprecating-the-legacy-gpt-3-5-model-on-may-10th-users-will-be-able-to-co|chatgpt-2023-05-03-6c50c1]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: model-support
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: variant
+- Role: later-observed
 - First In Tracked: [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]
 - Lag Days: 191
 - Tracked Products Count: 3

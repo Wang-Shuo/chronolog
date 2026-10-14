@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-09-29-parents-don-t-have-access-to-their-teen-s-conversations-except-in-rare-cases-whe|chatgpt-2025-09-29-950e22]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: dc734d06bd2eafca440d3adb687f9812ae23ffbd92bf77d99aa24d85275ba4d0
+machine_hash: 6b9db4fc99a81eb795f4314e58df1060cd05f4c02b6e15933c17688ade18521e
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-09-29-to-set-up-parental-controls-a-parent-or-guardian-sends-an-invite-to-their-teen-t|chatgpt-2025-09-29-1fc5f5]]'
 - '[[Changes/ChatGPT/2025-09-29-parents-don-t-have-access-to-their-teen-s-conversations-except-in-rare-cases-whe|chatgpt-2025-09-29-950e22]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-29-parental-controls-8b95b69a|chatgpt-2025-09-29-parental-controls-8b95b69a]]'
+superseded: true
 theme: safety-privacy
 type: change
 ---

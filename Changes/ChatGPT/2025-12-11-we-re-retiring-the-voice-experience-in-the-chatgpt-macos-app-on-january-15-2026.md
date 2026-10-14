@@ -2,32 +2,73 @@
 card_id: chatgpt-2025-12-11-178cb1
 date: '2025-12-11'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-voice-beta-is-now-rolling-out-to-plus-users-on-ios-and-android|chatgpt-2023-09-25-5ff815]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|chatgpt-2023-09-25-13666e]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 808
-  role: variant
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: voice
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/ChatGPT/2025-11-25-refer-back-to-earlier-messages-without-interrupting-the-conversation|chatgpt-2025-11-25-dc78fa]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 496b60a56dafb68dfb6a8d20dbf95947a7dcd8552b24460f89ee83b51badd5a5
+machine_hash: 927acf7f0bf0aca467798f90881cae9f092685aad101ea82901223f4211bf43f
 product: chatgpt
 product_name: ChatGPT
+record:
+  card_id: chatgpt-2025-12-11-178cb1
+  comparison: ''
+  date: '2025-12-11'
+  description: 'ChatGPT — Voice on macOS desktop app is retiring (effective January
+    15, 2026): We’re retiring the Voice experience in the ChatGPT macOS app on January
+    15, 2026. This change allows us to focus on more unified and improved voice experiences
+    across our apps.'
+  evidence:
+  - quote: We’re retiring the Voice experience in the ChatGPT macOS app on January
+      15, 2026. This change allows us to focus on more unified and improved voice
+      experiences across our apps.
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#voice-on-macos-desktop-app-is-retiring-effective-january-15-2026
+  extractor_version: fallback-v3
+  impact: incremental
+  product: chatgpt
+  product_name: ChatGPT
+  slug: we-re-retiring-the-voice-experience-in-the-chatgpt-macos-app-on-january-15-2026
+  source_release: chatgpt-2025-12-11-voice-on-macos-desktop-app-is-retiring-effective-january-15-2026-189e8580
+  source_type: chatgpt_changelog
+  theme: voice
+  theme_matches:
+  - matched_terms:
+    - voice
+    score: 110
+    theme: voice
+  - matched_terms:
+    - apps
+    score: 50
+    theme: apps-integrations
+  - matched_terms:
+    - macos
+    score: 50
+    theme: mobile-desktop
+  title: We’re retiring the Voice experience in the ChatGPT macOS app on January 15,
+    2026
+  type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-11-25-many-of-you-have-asked-for-a-more-flexible-voice-experience-now-you-can-speak-li|chatgpt-2025-11-25-865dda]]'
 - '[[Changes/ChatGPT/2025-11-25-follow-along-with-typed-answers-as-you-listen|chatgpt-2025-11-25-a24f1e]]'
+- '[[Changes/ChatGPT/2025-11-25-we-re-making-chatgpt-voice-a-seamless-part-of-the-chatgpt-experience-so-you-can-daf32e|chatgpt-2025-11-25-daf32e]]'
 - '[[Changes/ChatGPT/2025-11-25-refer-back-to-earlier-messages-without-interrupting-the-conversation|chatgpt-2025-11-25-dc78fa]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-12-11-voice-on-macos-desktop-app-is-retiring-effective-january-15-2026-189e8580|chatgpt-2025-12-11-voice-on-macos-desktop-app-is-retiring-effective-january-15-2026-189e8580]]'
+source_type: chatgpt_changelog
 theme: voice
+title: We’re retiring the Voice experience in the ChatGPT macOS app on January 15,
+  2026
 type: change
 ---
 
 # We’re retiring the Voice experience in the ChatGPT macOS app on January 15, 2026
 
 <!-- chronolog:begin region="description" -->
-We’re retiring the Voice experience in the ChatGPT macOS app on January 15, 2026. This change allows us to focus on more unified and improved voice experiences across our apps.
+ChatGPT — Voice on macOS desktop app is retiring (effective January 15, 2026): We’re retiring the Voice experience in the ChatGPT macOS app on January 15, 2026. This change allows us to focus on more unified and improved voice experiences across our apps.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,14 +78,16 @@ We’re retiring the Voice experience in the ChatGPT macOS app on January 15, 20
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/ChatGPT/2025-11-25-refer-back-to-earlier-messages-without-interrupting-the-conversation|chatgpt-2025-11-25-dc78fa]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: voice
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: variant
-- First In Tracked: [[Changes/ChatGPT/2023-09-25-voice-beta-is-now-rolling-out-to-plus-users-on-ios-and-android|chatgpt-2023-09-25-5ff815]]
+- Role: later-observed
+- First In Tracked: [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|chatgpt-2023-09-25-13666e]]
 - Lag Days: 808
 - Tracked Products Count: 3
 <!-- chronolog:end -->

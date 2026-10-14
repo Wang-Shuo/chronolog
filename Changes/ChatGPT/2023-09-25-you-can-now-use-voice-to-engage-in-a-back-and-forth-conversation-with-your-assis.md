@@ -12,12 +12,13 @@ evolves_from:
 - '[[Changes/ChatGPT/2023-09-25-voice-beta-is-now-rolling-out-to-plus-users-on-ios-and-android|chatgpt-2023-09-25-5ff815]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: a3296d7dc5db029002e6b392f346d9c6a2ae86142713ba2e633871b6e5c08a23
+machine_hash: 91bdac379c0e10c79d1a1370ba803c48425c090e803a568dd791bb73c771fbab
 product: chatgpt
 product_name: ChatGPT
 related_changes:
 - '[[Changes/ChatGPT/2023-09-25-voice-beta-is-now-rolling-out-to-plus-users-on-ios-and-android|chatgpt-2023-09-25-5ff815]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-09-25-new-voice-and-image-capabilities-in-chatgpt-e8c88ec7|chatgpt-2023-09-25-new-voice-and-image-capabilities-in-chatgpt-e8c88ec7]]'
+superseded: true
 theme: voice
 type: change
 ---

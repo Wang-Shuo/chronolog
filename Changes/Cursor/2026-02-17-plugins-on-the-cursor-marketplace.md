@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2026-02-17-plugins-package-skills-subagents-mcp-servers-hooks-and-rules-into-a-single-insta|cursor-2026-02-17-7bed14]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 1112ca16193c89567460fa8969fa08fc0fcafedbeaa96fa943e4f90c3767f623
+machine_hash: e956cd9ba542d27139a7afa79bb8b81bc3cdf85daac555402b3ae71b9ce081c7
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Claude Code/2026-02-17-added-sdkratelimitinfo-and-sdkratelimitevent-types-to-the-sdk-enabling-consumers|claude-code-2026-02-17-2ceb36]]'
 - '[[Changes/Cursor/2026-02-17-plugins-package-skills-subagents-mcp-servers-hooks-and-rules-into-a-single-insta|cursor-2026-02-17-7bed14]]'
 source_release: '[[Releases/Cursor/cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320|cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320]]'
+superseded: true
 theme: apps-integrations
 type: change
 ---

@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-11-03-eligible-customers-in-india-can-get-now-get-12-months-of-chatgpt-go-at-no-cost-n|chatgpt-2025-11-03-0f3865]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: 1768b63a94be35a260875cab631f0013c645094e50d9cda210c68e2cad46a425
+machine_hash: cd6378879d331ebdd04388c44e82059638b66d77661da1ba06913865516db607
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-10-23-starting-today-project-sharing-is-available-to-all-chatgpt-users-including-for-f|chatgpt-2025-10-23-45fe51]]'
 - '[[Changes/ChatGPT/2025-11-03-eligible-customers-in-india-can-get-now-get-12-months-of-chatgpt-go-at-no-cost-n|chatgpt-2025-11-03-0f3865]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-13-group-chats-in-chatgpt-8a8193ad|chatgpt-2025-11-13-group-chats-in-chatgpt-8a8193ad]]'
+superseded: true
 theme: mobile-desktop
 type: change
 ---

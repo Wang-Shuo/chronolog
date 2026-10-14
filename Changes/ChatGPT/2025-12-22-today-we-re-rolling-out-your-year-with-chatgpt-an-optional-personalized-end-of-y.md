@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-09-04-you-can-now-branch-conversations-in-chatgpt-making-it-easier-to-explore-differen|chatgpt-2025-09-04-8b978c]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 8b2c9131c48e050e7a887a9f056fa10187b2d012cafecb0122d6540e6ec2950a
+machine_hash: e0b819a2580b170a27a208b59de2926e9800f6dc6bdfe0d47863dda6dc3ac68b
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-09-04-you-can-now-branch-conversations-in-chatgpt-making-it-easier-to-explore-differen|chatgpt-2025-09-04-8b978c]]'
 - '[[Changes/Claude Code/2025-12-19-added-support-for-custom-session-ids-when-forking-sessions-with-session-id-combi|claude-code-2025-12-19-ad2ecb]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-12-22-your-year-with-chatgpt-6dbbef4d|chatgpt-2025-12-22-your-year-with-chatgpt-6dbbef4d]]'
+superseded: true
 theme: projects-workspaces
 type: change
 ---

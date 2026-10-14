@@ -1,9 +1,19 @@
 ---
 changes_count: 2
 date: '2026-05-06'
-machine_hash: 9a6949fb47fd38d1f0dbbc22826a01ae8d3d1995d8c3eef47b5608f4eadd7177
+machine_hash: abb2ec7d5b3162c21098b88d0551cb2c8ea7572fd0b046fecf51411f184e4e49
 product: cursor
 product_name: Cursor
+record:
+  date: '2026-05-06'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2026-05-06-3-3-https-cursor-com-changelog-05-06-26-2cf56c40
+  source_summary: You can now see a breakdown of your agent's context usage.
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/05-06-26
+  title: Context Usage Breakdown
+  version: '3.3'
 release_id: cursor-2026-05-06-3-3-https-cursor-com-changelog-05-06-26-2cf56c40
 source_release: Context Usage Breakdown
 source_type: cursor_changelog
@@ -11,6 +21,7 @@ source_url: https://cursor.com/changelog/05-06-26
 tags:
 - release
 - cursor
+title: Cursor — Context Usage Breakdown
 version: '3.3'
 ---
 

@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-06-10-to-assess-the-key-strength-of-o3-pro-we-once-again-use-our-rigorous-4-4-reliabil|chatgpt-2025-06-10-53c7dc]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: d4c919f5c636d570216b6bb6a0826643de0a9100294f8d8368315dc8731a6116
+machine_hash: d776b355f626895e61fc835a3ff17324088d6650268bc9ce62d29a92d63246a7
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-06-10-academic-evaluations-show-that-o3-pro-consistently-outperforms-both-o1-pro-and-o|chatgpt-2025-06-10-14dc39]]'
 - '[[Changes/ChatGPT/2025-06-10-to-assess-the-key-strength-of-o3-pro-we-once-again-use-our-rigorous-4-4-reliabil|chatgpt-2025-06-10-53c7dc]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-10-today-we-re-launching-openai-o3-pro-available-now-for-pro-users-43fd47c2|chatgpt-2025-06-10-today-we-re-launching-openai-o3-pro-available-now-for-pro-users-43fd47c2]]'
+superseded: true
 theme: model-support
 type: change
 ---

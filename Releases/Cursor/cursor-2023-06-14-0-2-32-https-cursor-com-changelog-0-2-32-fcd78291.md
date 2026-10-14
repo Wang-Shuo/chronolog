@@ -1,9 +1,20 @@
 ---
 changes_count: 1
 date: '2023-06-14'
-machine_hash: 3fb2b4b3e216519f49586a02fbc7eebd6e7aa6c1581fe6b5d06d57fd0766025f
+machine_hash: a7b3b598d099ccd35c658e77bd168fc8541fa9cd01033b73e845ea918dbe8471
 product: cursor
 product_name: Cursor
+record:
+  date: '2023-06-14'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2023-06-14-0-2-32-https-cursor-com-changelog-0-2-32-fcd78291
+  source_summary: Small fix for a format-on-save bug that was introduced in the last
+    release. Some small improvements to the AI linter and codebase-wide chat.
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-2-32
+  title: Small improvements
+  version: 0.2.32
 release_id: cursor-2023-06-14-0-2-32-https-cursor-com-changelog-0-2-32-fcd78291
 source_release: Small improvements
 source_type: cursor_changelog
@@ -11,6 +22,7 @@ source_url: https://cursor.com/changelog/0-2-32
 tags:
 - release
 - cursor
+title: Cursor — Small improvements
 version: 0.2.32
 ---
 

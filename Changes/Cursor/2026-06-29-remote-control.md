@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2026-06-22-plugins-skills-and-mcps-let-you-customize-cursor-for-your-workflows-the-new-cust|cursor-2026-06-22-f6fbff]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 3e45ed4b6301a6fd0038cbd88cb97045254601e5db33f224ed592b1715b464a7
+machine_hash: b95180ed278b51f540a54c72cedf7e984a2f8ca089e672c8e8536cee0ec448d5
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Claude Code/2026-06-24-improved-mcp-error-messages-http-404-errors-now-show-the-url-and-point-to-your-m|claude-code-2026-06-24-19fdcd]]'
 - '[[Changes/Claude Code/2026-06-24-improved-mcp-server-reliability-capability-discovery-tools-list-prompts-list-res|claude-code-2026-06-24-4529fd]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-29-3-9-https-cursor-com-changelog-ios-mobile-app-d7278607|cursor-2026-06-29-3-9-https-cursor-com-changelog-ios-mobile-app-d7278607]]'
+superseded: true
 theme: apps-integrations
 type: change
 ---

@@ -1,9 +1,20 @@
 ---
 changes_count: 5
 date: '2025-12-22'
-machine_hash: a2b4fa99aba39d6bd062c022b6171d154fed8a24cd5764704020456767f13b32
+machine_hash: ad731dcc135742179d800e50d267a713778b3d2a110e6a63a95355c3fbbf2671
 product: cursor
 product_name: Cursor
+record:
+  date: '2025-12-22'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2025-12-22-2-3-https-cursor-com-changelog-2-3-fe418465
+  source_summary: For this holiday release, we've focused entirely on fixing bugs
+    and improving stability.
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/2-3
+  title: Layout Customization and Stability Improvements
+  version: '2.3'
 release_id: cursor-2025-12-22-2-3-https-cursor-com-changelog-2-3-fe418465
 source_release: Layout Customization and Stability Improvements
 source_type: cursor_changelog
@@ -11,6 +22,7 @@ source_url: https://cursor.com/changelog/2-3
 tags:
 - release
 - cursor
+title: Cursor — Layout Customization and Stability Improvements
 version: '2.3'
 ---
 

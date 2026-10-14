@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2024-08-08-just-ask-chatgpt-to-create-an-image-for-a-slide-deck-personalize-a-card-for-a-fr|chatgpt-2024-08-08-9e2a49]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: e11f40eb585e13bf34d458a6e0fd7a4853496144e35b07ac72146091e73287b9
+machine_hash: 3ac1161bf0d360b948b6b46d5289b2a13b14401b68e2d26b47413cc5f187cdcc
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com|chatgpt-2024-01-10-3e6f37]]'
 - '[[Changes/ChatGPT/2024-08-08-just-ask-chatgpt-to-create-an-image-for-a-slide-deck-personalize-a-card-for-a-fr|chatgpt-2024-08-08-9e2a49]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-08-08-dall-e-3-for-chatgpt-free-users-379feaa2|chatgpt-2024-08-08-dall-e-3-for-chatgpt-free-users-379feaa2]]'
+superseded: true
 theme: image-generation
 type: change
 ---

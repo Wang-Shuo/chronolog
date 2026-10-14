@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2026-06-03-organizations|cursor-2026-06-03-604006]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: e6be25e581cfd3225f2a9b6e9c87486f72464a2e208635b6d0f1a9479843f8f3
+machine_hash: c1e7c055390d261d719337415975544427cd5c833291cfca93aa0c0b1c3eebb2
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2026-06-04-we-re-beginning-to-roll-out-ads-for-users-on-free-and-go-plans-in-the-uk-plus-pr|chatgpt-2026-06-04-586af0]]'
 - '[[Changes/Claude Code/2026-06-04-added-requiredminimumversion-and-requiredmaximumversion-managed-settings-claude|claude-code-2026-06-04-e5de26]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-30-3-10-https-cursor-com-changelog-team-marketplace-updates-eb3caab2|cursor-2026-06-30-3-10-https-cursor-com-changelog-team-marketplace-updates-eb3caab2]]'
+superseded: true
 theme: enterprise-admin
 type: change
 ---

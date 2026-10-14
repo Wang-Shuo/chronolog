@@ -1,9 +1,19 @@
 ---
 changes_count: 5
 date: '2024-06-08'
-machine_hash: f866562e378de0d051a8cc15c6e9085b8f2d734f788b28d8fddc89ee01b88bec
+machine_hash: bdc641e5f6a23c9b08f684883811df504bbfde8d246a1f5629358a2679e267c0
 product: cursor
 product_name: Cursor
+record:
+  date: '2024-06-08'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2024-06-08-0-35-x-https-cursor-com-changelog-0-35-x-b4216e90
+  source_summary: Default-on Cursor Prediction with a new UI
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-35-x
+  title: Default-on Cursor Prediction, Remote Tunnels & More Robust SSH
+  version: 0.35.x
 release_id: cursor-2024-06-08-0-35-x-https-cursor-com-changelog-0-35-x-b4216e90
 source_release: Default-on Cursor Prediction, Remote Tunnels & More Robust SSH
 source_type: cursor_changelog
@@ -11,6 +21,7 @@ source_url: https://cursor.com/changelog/0-35-x
 tags:
 - release
 - cursor
+title: Cursor — Default-on Cursor Prediction, Remote Tunnels & More Robust SSH
 version: 0.35.x
 ---
 

@@ -1,0 +1,324 @@
+{
+  "recorded_at": "2026-10-13T11:45:42.184669+00:00",
+  "baseline_commit": "997692de8a9c23d8de09bbbaad2633b2c03c669c",
+  "working_tree": "uncommitted M1 and M2 changes",
+  "python": "3.11.15",
+  "node": "v22.1.0",
+  "human_accepted": true,
+  "run_id": "m2-2026-10-13-accepted-code",
+  "tests": {
+    "command": ".venv/bin/python -m pytest -q --tb=short",
+    "passed": 121,
+    "exit_code": 0,
+    "log": "pytest.txt"
+  },
+  "build": {
+    "command": "npm run build -- --output /tmp/chronolog-m2-first/site",
+    "exit_code": 0,
+    "log": "build.txt"
+  },
+  "replay": {
+    "formal_vault_equals_isolated_copy": true,
+    "repeat_status": "no-change",
+    "repeat_changed_files": 0
+  },
+  "publication_report": "publication.json",
+  "code": {
+    "_scripts/__init__.py": {
+      "sha256": "548143042d89b0de05fe644bf56db2da7cf281c65b6b0fab30a2c2ac7719d016",
+      "bytes": 34
+    },
+    "_scripts/analyze_a.py": {
+      "sha256": "0d9c4da8cb19cf48c7f3079de31574221a16ba33510990a9aad41938adf3420a",
+      "bytes": 1838
+    },
+    "_scripts/analyze_b.py": {
+      "sha256": "03f28cdc35c656e4e169ac5cedf167e479d9ffbbc4bea73fc66ffc36d80fd8a4",
+      "bytes": 2439
+    },
+    "_scripts/backfill_review.yaml": {
+      "sha256": "524c4847f92701bea24ebf66c9408c0fda6781d83b135ebe16288bf1854541b3",
+      "bytes": 19683
+    },
+    "_scripts/collect.py": {
+      "sha256": "618500e7238d2a6e772beccb2edeb1adbf47c5c35bca043dab49a8f775380cad",
+      "bytes": 27516
+    },
+    "_scripts/common.py": {
+      "sha256": "c7eb29e6e1e8b571831bbf912d95e6caac817d8f2fcf97e2eda21fb04cf35b43",
+      "bytes": 3975
+    },
+    "_scripts/editorial.py": {
+      "sha256": "5150bf6ea08f30e91085f714a3d0c323c6726ffa5e57e47e86fc78f0ca2fe6ba",
+      "bytes": 2931
+    },
+    "_scripts/editorial.yaml": {
+      "sha256": "96951aa62912f7537b94c5e1de256494f3f5d0077e77ba9ac53aa0cfe4d130cb",
+      "bytes": 7047
+    },
+    "_scripts/extract.py": {
+      "sha256": "5ba24a0db7b0bd807920fdbb0fc68014399c63a709aecfd608502a98af238b35",
+      "bytes": 25442
+    },
+    "_scripts/history.py": {
+      "sha256": "4f0352e67316dedd2160669f03aaa0da3214eb9aed57a55759dd80f3019626a8",
+      "bytes": 6369
+    },
+    "_scripts/m2_review.yaml": {
+      "sha256": "a8a22507f9843c053c6827ca7cf7439b3bfce297dbc848a5a6fccea15c2805f9",
+      "bytes": 1087
+    },
+    "_scripts/pipeline.py": {
+      "sha256": "9fa5af67c67c7c5100fbe178846fc2aa705b9a0392b758c2503ecae9978c20b8",
+      "bytes": 12590
+    },
+    "_scripts/publication_filter.ts": {
+      "sha256": "1f6a2b50a008d430791996c3c2aef7a754897937cf2f575345b93b6604dd64a6",
+      "bytes": 804
+    },
+    "_scripts/quartz_build_wrapper.mjs": {
+      "sha256": "18a21de08763efff53daea948af6e4a7af0124ee4f71483e54b5b8cffceaed13",
+      "bytes": 572
+    },
+    "_scripts/run_pipeline.py": {
+      "sha256": "608d98f80fa9942c1eb96a368b385b940718016e3f7d24f105945b449fd6da22",
+      "bytes": 2774
+    },
+    "_scripts/setup_quartz.mjs": {
+      "sha256": "73035cd1996465ea203fc0fb4bd36f09e1a42f969bf82f0f8d398120a69bd219",
+      "bytes": 816
+    },
+    "_scripts/silence_monitor.py": {
+      "sha256": "a147d2e299554708305c732a065414c1bb6bd074ca90c648a339c6ddab916cb6",
+      "bytes": 3390
+    },
+    "_scripts/sources.yaml": {
+      "sha256": "940ac115fd697c3754e3e4503beb2e87f1513680c9903164b4f03c8a0c923226",
+      "bytes": 2769
+    },
+    "_scripts/themes.yaml": {
+      "sha256": "f55c688e154f10763f3471090de7ca51a84e970d71b45612b9073c9a81881faa",
+      "bytes": 5289
+    },
+    "_scripts/transaction.py": {
+      "sha256": "19a056acbbef8208b42b8d293352dc82edcadbd607778b684e8c49c9d6c240da",
+      "bytes": 7064
+    },
+    "_scripts/validate.py": {
+      "sha256": "c857d9b14ae796a03b5e821011b65ae516d646eb2df74aff41c12708418c0a94",
+      "bytes": 14709
+    },
+    "_scripts/writer.py": {
+      "sha256": "614f7bd039d4cf0d8ebbe86d737e57a21a81521f6df53ba835d0a4caf0fb29cf",
+      "bytes": 33534
+    },
+    "package-lock.json": {
+      "sha256": "2938793315a93cc0727a86bfa45b9e7d392f0505dfc991745943c4371ce54774",
+      "bytes": 251445
+    },
+    "package.json": {
+      "sha256": "e6cd1394cf6fa563f2ca27c8e962c86d21ac20c60f746a0174338688fd6f0136",
+      "bytes": 348
+    },
+    "quartz.config.ts": {
+      "sha256": "daf09aa3905905a0d44686541c7bd4bee30c6e1d24ff43eb22a97dccd407e068",
+      "bytes": 2314
+    },
+    "quartz.layout.ts": {
+      "sha256": "025a8f35fcafc67f6f5e53cdc175f0101cc5f431eb92eb36cd35ed61455c3110",
+      "bytes": 1204
+    },
+    "tests/fixtures/releases.json": {
+      "sha256": "f22a9085e3bd8dbaec98800d33ba761f7c798f6d6d3bd3b0b8bc0411226662bc",
+      "bytes": 3302
+    },
+    "tests/golden/m2/cards.json": {
+      "sha256": "45f57447a1611077c6ce7f3ae3675b2eebda5ad78adf0926ff8933e418a2c1ab",
+      "bytes": 67441
+    },
+    "tests/golden/m2/relations.json": {
+      "sha256": "f6beaceee4cbe86983100a31a7b9237da28ae35acb7fdd52fcc14d0ad80bb33b",
+      "bytes": 59065
+    },
+    "tests/manual/check_m2_publication.py": {
+      "sha256": "71cdfa3796db361d1e780628492ce51e6e194410c9a629fa1be450d7c4ad182a",
+      "bytes": 5600
+    },
+    "tests/manual/verify_m1_replay.py": {
+      "sha256": "a5f0499ade4221e91b21711cf4d693884be92f96bef247a47b10ab3e2bced74c",
+      "bytes": 6053
+    },
+    "tests/manual/verify_m2.py": {
+      "sha256": "1862ed2c6af42da889d72779aca9fc323ec284096840df349844be8bea0c3755",
+      "bytes": 1512
+    },
+    "tests/test_analyze.py": {
+      "sha256": "9c1fda88ef382dae47db6a810313fbf651d77dc55603579bbd7727f27a13b9f4",
+      "bytes": 3142
+    },
+    "tests/test_collect.py": {
+      "sha256": "f53d65f2495793c14a9992df6bc3d1292807e139310f86015b96f71df479fa3c",
+      "bytes": 19004
+    },
+    "tests/test_common.py": {
+      "sha256": "903823a961a61417bf745151a2e9bbbabdd5e984c5db136c955461215945570f",
+      "bytes": 1980
+    },
+    "tests/test_extract.py": {
+      "sha256": "55195f3f076a280da5ab9714bf659eec1a1d5e9b6a7b77720625a29fa35bb5cf",
+      "bytes": 10609
+    },
+    "tests/test_m2_content.py": {
+      "sha256": "fce65dab43555377d58b464366721281a2a1053d65017fbe5a1cf4dc550cc607",
+      "bytes": 7876
+    },
+    "tests/test_pipeline.py": {
+      "sha256": "492489122235fae8a0bcfeb79aa370a83a422ce468e09792c4e706ad40eb6e00",
+      "bytes": 1035
+    },
+    "tests/test_project_scaffold.py": {
+      "sha256": "21cd2289af7bb94cb2179fd2492f1142df2f2cb6ce2055a9946b5732eb8c8827",
+      "bytes": 1363
+    },
+    "tests/test_quartz_config.py": {
+      "sha256": "7d26de39cab424caa2731ee4cee86120827ecfd15ece971583ef41f9e0717b78",
+      "bytes": 798
+    },
+    "tests/test_reliable_pipeline.py": {
+      "sha256": "675e8a3e281b65cb8c045f3ec6e770d457fe9682c6acc4dc36badbdb6813cd0d",
+      "bytes": 22964
+    },
+    "tests/test_silence_monitor.py": {
+      "sha256": "0a582428675ab577de58645f183ba7234233d84e73afeba3ac1ff50aa5860a9e",
+      "bytes": 1571
+    },
+    "tests/test_validate.py": {
+      "sha256": "0488b918e6e88034f6ff8804c40b724d1e7e351094236486c3bc4237d96460bb",
+      "bytes": 9492
+    },
+    "tests/test_writer.py": {
+      "sha256": "b0ad609e25c5080b45b9f00539d1c06d11eec11383aa87abadeb1159736b7689",
+      "bytes": 8264
+    }
+  },
+  "evidence": {
+    "agent-mode.png": {
+      "sha256": "ce73964663824d9454d155df07bbb44b29d3ea24be97fd0c2768c0406b0bfde9",
+      "bytes": 105260
+    },
+    "agent-year-navigation.png": {
+      "sha256": "8eac732310646f2e4c2ac7a5d3c24f4712612f1507450a2b1ba94ca5cb92f053",
+      "bytes": 125869
+    },
+    "build.txt": {
+      "sha256": "bffe72f853c998737ed6c4a96ca31a52ebce19154dbb1664857a2f562be31bf7",
+      "bytes": 1402
+    },
+    "chatgpt-eras.png": {
+      "sha256": "095825cb1717898b24b13235df5eb0278ebc5d173d83ef1441cca9c042c0d80c",
+      "bytes": 102891
+    },
+    "chatgpt-product.png": {
+      "sha256": "bbdb12bd3f37267de136a9517e69a790ee6fd24daf106a4080fc52553475e078",
+      "bytes": 85068
+    },
+    "chatgpt.html.gz": {
+      "sha256": "2d04c0b199a653a5cdc400db3a8207f52eee134ab00aa50382cc12087c638f8f",
+      "bytes": 232729
+    },
+    "claude-code-changelog.md.gz": {
+      "sha256": "1b635800d08458ee3930e561bc272e3850d857f13b7d5c81eff1c93aceacebb7",
+      "bytes": 329168
+    },
+    "claude-code-releases.json.gz": {
+      "sha256": "2904ea7137fc437da473a665b5f2b5560ca4eaece4b80c6dde07149ce2b88348",
+      "bytes": 534646
+    },
+    "collection.json.gz": {
+      "sha256": "5ed67c2008608d08d15f45a41549ca2057bd70d45509414663c5c00051d13ab0",
+      "bytes": 506731
+    },
+    "documentation-links.json": {
+      "sha256": "a3ecddc308e1c7fa73ce09de8a5ae24e2742c25c74c581ef8ec46bc9f5849c7c",
+      "bytes": 192
+    },
+    "human-acceptance.json": {
+      "sha256": "fcafc6637dd8367f36dafdc089808611cddd2ccb8ee2746baf0e312cbde0c80a",
+      "bytes": 402
+    },
+    "idempotent-repeat.json": {
+      "sha256": "edb6468b443c42be4e46d48b754212031ee7e34b4f8b04fcfad10312932c7954",
+      "bytes": 2465
+    },
+    "isolated-replay.json": {
+      "sha256": "b8cd8077088d4dd597a4386d8a1b2c7fdf8980b17529775e2b99ef742c28574b",
+      "bytes": 2462
+    },
+    "pricing-card.png": {
+      "sha256": "203a616abcc59373cca95bb9f152f4e5412471a4f991330f9f7bacbfb47f671e",
+      "bytes": 111950
+    },
+    "pricing-model.png": {
+      "sha256": "955eb6ab15f5b61e7f484e76f230f5c9438f2ac0fbe74edaaedefbb0709be8ad",
+      "bytes": 98308
+    },
+    "publication.json": {
+      "sha256": "215eb2f79e2f8cc4bba1dbafa5b5fb0be61d92484264e321a1988e079b0b4255",
+      "bytes": 1393
+    },
+    "pytest.txt": {
+      "sha256": "76d0257899bf15d6fc63928e898ae43dbd9350eb2ca5581f135f336f1d12fca6",
+      "bytes": 180
+    },
+    "run-manifest.json": {
+      "sha256": "6d5d888f0f02a14b79736919896d205f3837b2bddafbd6f820954b9a475c36fb",
+      "bytes": 2477
+    },
+    "search-fixture.png": {
+      "sha256": "59e09e3dae1a31991c375cd658bb1868a131f6580900dd5ada46acdfce80e86f",
+      "bytes": 31610
+    },
+    "vault-sha256.json": {
+      "sha256": "8a59a57960785644a564b062ebfee51a7725e3395507de2226b68ba46505a7a0",
+      "bytes": 554187
+    }
+  },
+  "human_acceptance": {
+    "status": "passed",
+    "date": "2026-10-13",
+    "timezone": "Asia/Shanghai",
+    "reviewer": "project user in current conversation",
+    "statement": "人工复核通过。",
+    "scope": "M2 review packet: C01-C60, R01-R20, ChatGPT product and agent-mode/pricing-model narratives; B4-B6",
+    "method": "User accepted the existing review packet as a whole; no separate per-item score sheet was supplied."
+  },
+  "signoff_audit": {
+    "date": "2026-10-13",
+    "timezone": "Asia/Shanghai",
+    "implementation_code_unchanged": true,
+    "vault_unchanged": true,
+    "golden_metadata_only_updated": [
+      "tests/golden/m2/cards.json",
+      "tests/golden/m2/relations.json"
+    ],
+    "tests_passed": 121,
+    "build_and_publication_evidence_unchanged": true,
+    "requirements_passed": [
+      "M2.1",
+      "M2.2",
+      "M2.3",
+      "M2.4",
+      "M2.5",
+      "M2.6",
+      "M2.7",
+      "M2.8",
+      "B1",
+      "B2",
+      "B3",
+      "B4",
+      "B5",
+      "B6",
+      "B7"
+    ]
+  }
+}

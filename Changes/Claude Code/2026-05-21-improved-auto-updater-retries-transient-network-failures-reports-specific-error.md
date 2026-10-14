@@ -3,31 +3,60 @@ card_id: claude-code-2026-05-21-4e9152
 date: '2026-05-21'
 diffusion:
   first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|chatgpt-2022-12-15-9c6f9c]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1253
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Claude Code/2026-05-21-improved-diff-rendering-performance-for-large-file-edits-4ddf04|claude-code-2026-05-21-4ddf04]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 6779f3063d2e3ccaf6f9547ec061c8271faf55f786232348387c4aaadc303e08
+machine_hash: d1401bf79b8bb5b1bcf8bbe0df97af1562c57730ff898c9fcf6f59443ac57b4a
 product: claude-code
 product_name: Claude Code
+record:
+  card_id: claude-code-2026-05-21-4e9152
+  comparison: ''
+  date: '2026-05-21'
+  description: 'Claude Code — v2.1.147: Improved auto-updater: retries transient network
+    failures, reports specific error categories and OS error codes on failure, and
+    shows the current version when an update fails'
+  evidence:
+  - quote: 'Improved auto-updater: retries transient network failures, reports specific
+      error categories and OS error codes on failure, and shows the current version
+      when an update fails'
+    source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.147
+  extractor_version: fallback-v3
+  impact: incremental
+  product: claude-code
+  product_name: Claude Code
+  slug: improved-auto-updater-retries-transient-network-failures-reports-specific-error
+  source_release: claude-code-2026-05-21-v2-1-147-github-327133263-73928fcd
+  source_type: github_releases
+  theme: reliability-performance
+  theme_matches: []
+  theme_resolution: manual-backfill-review-v1
+  title: 'Improved auto-updater: retries transient network failures, reports specific
+    erro'
+  type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-21-improved-diff-rendering-performance-for-large-file-edits|claude-code-2026-05-21-10b050]]'
 - '[[Changes/Claude Code/2026-05-21-improved-auto-updater-reliability-native-version-checks-and-downloads-now-retry|claude-code-2026-05-21-279dd2]]'
 - '[[Changes/Claude Code/2026-05-21-improved-diff-rendering-performance-for-large-file-edits-4ddf04|claude-code-2026-05-21-4ddf04]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-21-v2-1-147-github-327133263-73928fcd|claude-code-2026-05-21-v2-1-147-github-327133263-73928fcd]]'
+source_type: github_releases
 theme: reliability-performance
+title: 'Improved auto-updater: retries transient network failures, reports specific
+  erro'
 type: change
 ---
 
 # Improved auto-updater: retries transient network failures, reports specific erro
 
 <!-- chronolog:begin region="description" -->
-Improved auto-updater: retries transient network failures, reports specific error categories and OS error codes on failure, and shows the current version when an update fails
+Claude Code — v2.1.147: Improved auto-updater: retries transient network failures, reports specific error categories and OS error codes on failure, and shows the current version when an update fails
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +66,15 @@ Improved auto-updater: retries transient network failures, reports specific erro
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Claude Code/2026-05-21-improved-diff-rendering-performance-for-large-file-edits-4ddf04|claude-code-2026-05-21-4ddf04]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: reliability-performance
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
+- Role: later-observed
 - First In Tracked: [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|chatgpt-2022-12-15-9c6f9c]]
 - Lag Days: 1253
 - Tracked Products Count: 3

@@ -3,45 +3,74 @@ card_id: chatgpt-2023-02-09-3bb148
 date: '2023-02-09'
 diffusion:
   first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 31
-  role: variant
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: interface-experience
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 694c5915bec390fb07af8f5f53c53648fae24989e297a5ab67b1fcab03a02832
+machine_hash: 4fe6c5129acdf5e0d602ac3d6dd058209c24fd95fff20e5fec8d6ce527996e7c
 product: chatgpt
 product_name: ChatGPT
+record:
+  card_id: chatgpt-2023-02-09-3bb148
+  comparison: ''
+  date: '2023-02-09'
+  description: 'ChatGPT — Introducing ChatGPT Plus: Version selection is made easy
+    with a dedicated dropdown menu at the top of the page. Depending on feedback,
+    we may roll out this feature (or just Turbo) to all users soon.'
+  evidence:
+  - quote: Version selection is made easy with a dedicated dropdown menu at the top
+      of the page. Depending on feedback, we may roll out this feature (or just Turbo)
+      to all users soon.
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-plus
+  extractor_version: fallback-v3
+  impact: incremental
+  product: chatgpt
+  product_name: ChatGPT
+  slug: version-selection-is-made-easy-with-a-dedicated-dropdown-menu-at-the-top-of-the
+  source_release: chatgpt-2023-02-09-introducing-chatgpt-plus-380a3524
+  source_type: chatgpt_changelog
+  theme: interface-experience
+  title: Version selection is made easy with a dedicated dropdown menu at the top
+    of the
+  type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-02-09-introducing-chatgpt-plus-380a3524|chatgpt-2023-02-09-introducing-chatgpt-plus-380a3524]]'
+source_type: chatgpt_changelog
 theme: interface-experience
+title: Version selection is made easy with a dedicated dropdown menu at the top of
+  the
 type: change
 ---
 
 # Version selection is made easy with a dedicated dropdown menu at the top of the
 
 <!-- chronolog:begin region="description" -->
-Version selection is made easy with a dedicated dropdown menu at the top of the page. Depending on feedback, we may roll out this feature (or just Turbo) to all users soon.
+ChatGPT — Introducing ChatGPT Plus: Version selection is made easy with a dedicated dropdown menu at the top of the page. Depending on feedback, we may roll out this feature (or just Turbo) to all users soon.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Version selection is made easy with a dedicated dropdown menu at the top of the page. Depending on feedback, we may roll out this feature (or just Turbo) to all users soon.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_0be048126c
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-plus
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: interface-experience
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: variant
+- Role: later-observed
 - First In Tracked: [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]
 - Lag Days: 31
 - Tracked Products Count: 3

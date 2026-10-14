@@ -2,32 +2,54 @@
 card_id: chatgpt-2025-10-30-62644d
 date: '2025-10-30'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat|chatgpt-2023-07-20-4592e6]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|chatgpt-2023-07-20-37833c]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 833
-  role: variant
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: memory
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/ChatGPT/2025-10-29-with-pulse-chatgpt-can-do-asynchronous-research-on-your-behalf-once-a-day-based|chatgpt-2025-10-29-325bfc]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 2929d829b64ae07ed52c1bb7a550594b9bf2eee3ff4b0b125d0230ca24362ff7
+machine_hash: 3851adbe884c56b622dd0bff2a97572629435374c1477967d24f26315b082342
 product: chatgpt
 product_name: ChatGPT
+record:
+  card_id: chatgpt-2025-10-30-62644d
+  comparison: ''
+  date: '2025-10-30'
+  description: 'ChatGPT — ChatGPT Go expansion: Longer memory for more personalized
+    responses'
+  evidence:
+  - quote: Longer memory for more personalized responses
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-expansion
+  extractor_version: fallback-v3
+  impact: incremental
+  product: chatgpt
+  product_name: ChatGPT
+  slug: longer-memory-for-more-personalized-responses
+  source_release: chatgpt-2025-10-30-chatgpt-go-expansion-37d00d9f
+  source_type: chatgpt_changelog
+  theme: memory
+  title: Longer memory for more personalized responses
+  type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-10-23-chatgpt-can-draw-from-anything-in-the-shared-project-including-chats-uploaded-fi|chatgpt-2025-10-23-5716f3]]'
+- '[[Changes/ChatGPT/2025-10-15-chatgpt-now-manages-saved-memories-automatically-by-keeping-the-most-relevant-de-997f64|chatgpt-2025-10-15-997f64]]'
 - '[[Changes/ChatGPT/2025-10-28-longer-memory-for-more-personalized-responses|chatgpt-2025-10-28-9fade2]]'
-- '[[Changes/ChatGPT/2025-10-29-with-pulse-chatgpt-can-do-asynchronous-research-on-your-behalf-once-a-day-based|chatgpt-2025-10-29-325bfc]]'
+- '[[Changes/ChatGPT/2025-10-29-chatgpt-pulse-is-now-available-on-web-and-rolling-out-to-atlas-for-pro-users-wit|chatgpt-2025-10-29-4e6c68]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-30-chatgpt-go-expansion-37d00d9f|chatgpt-2025-10-30-chatgpt-go-expansion-37d00d9f]]'
+source_type: chatgpt_changelog
 theme: memory
+title: Longer memory for more personalized responses
 type: change
 ---
 
 # Longer memory for more personalized responses
 
 <!-- chronolog:begin region="description" -->
-Longer memory for more personalized responses
+ChatGPT — ChatGPT Go expansion: Longer memory for more personalized responses
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,14 +59,16 @@ Longer memory for more personalized responses
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/ChatGPT/2025-10-29-with-pulse-chatgpt-can-do-asynchronous-research-on-your-behalf-once-a-day-based|chatgpt-2025-10-29-325bfc]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: memory
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: variant
-- First In Tracked: [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat|chatgpt-2023-07-20-4592e6]]
+- Role: later-observed
+- First In Tracked: [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|chatgpt-2023-07-20-37833c]]
 - Lag Days: 833
 - Tracked Products Count: 3
 <!-- chronolog:end -->

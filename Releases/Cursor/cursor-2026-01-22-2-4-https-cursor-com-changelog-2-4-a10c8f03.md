@@ -1,9 +1,21 @@
 ---
 changes_count: 5
 date: '2026-01-22'
-machine_hash: 9143078f7c61c1050378663f2380f5d2be8e6d7515f9fe672abf1a4724cc6e68
+machine_hash: bcf189453d1dce51973afee989353d698e213777865250ac7f5809321201a0fd
 product: cursor
 product_name: Cursor
+record:
+  date: '2026-01-22'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03
+  source_summary: Agents are solving increasingly complex, long-running tasks across
+    your codebase. This release introduces new agent harness improvements for better
+    context management, as well as many quality-of-life fixes in the editor and CLI.
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/2-4
+  title: Subagents, Skills, and Image Generation
+  version: '2.4'
 release_id: cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03
 source_release: Subagents, Skills, and Image Generation
 source_type: cursor_changelog
@@ -11,6 +23,7 @@ source_url: https://cursor.com/changelog/2-4
 tags:
 - release
 - cursor
+title: Cursor — Subagents, Skills, and Image Generation
 version: '2.4'
 ---
 

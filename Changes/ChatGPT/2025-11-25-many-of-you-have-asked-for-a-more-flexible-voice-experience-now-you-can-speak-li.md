@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-11-25-this-makes-voice-chats-clearer-richer-and-more-contextual-by-pairing-spoken-answ|chatgpt-2025-11-25-72abc5]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 9178d9ab3cde84e7723fe8f1aab01051b623c9f637b0dd7e9fd705ba95ae4eb7
+machine_hash: 2be26f168a3a49540fb6e69e99d557f5dcb2df0d15cf756a1fa7262ced22f527
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-11-25-we-re-making-chatgpt-voice-a-seamless-part-of-the-chatgpt-experience-so-you-can|chatgpt-2025-11-25-577387]]'
 - '[[Changes/ChatGPT/2025-11-25-this-makes-voice-chats-clearer-richer-and-more-contextual-by-pairing-spoken-answ|chatgpt-2025-11-25-72abc5]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-25-an-improved-voice-interface-the-audio-you-know-with-text-and-vis-29758d37|chatgpt-2025-11-25-an-improved-voice-interface-the-audio-you-know-with-text-and-vis-29758d37]]'
+superseded: true
 theme: voice
 type: change
 ---

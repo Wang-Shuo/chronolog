@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2023-09-27-choose-browse-with-bing-in-the-selector-under-gpt-4|chatgpt-2023-09-27-53ecfb]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: b0e94e97269c19c16f854ce0d399f12c2c9e481cdf3630276d690ab5b4afaa32
+machine_hash: 39a327ffa8ebb2c99d746c93911479d974ae6d6ff50b251585ec3b195b7ad410
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2023-09-27-to-try-it-out-enable-browsing-in-your-beta-features-setting|chatgpt-2023-09-27-50ebed]]'
 - '[[Changes/ChatGPT/2023-09-27-choose-browse-with-bing-in-the-selector-under-gpt-4|chatgpt-2023-09-27-53ecfb]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-09-27-browsing-is-rolling-back-out-to-plus-users-73e98403|chatgpt-2023-09-27-browsing-is-rolling-back-out-to-plus-users-73e98403]]'
+superseded: true
 theme: search-browsing
 type: change
 ---

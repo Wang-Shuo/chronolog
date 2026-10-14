@@ -1,9 +1,20 @@
 ---
 changes_count: 5
 date: '2023-11-03'
-machine_hash: 34607fc86a7cd89d5010814ff8a26e642df3968216b3df75fc152cc29ce1acbc
+machine_hash: 7f17a7828d4fea5c78de9ba15a57bdfe0507b3fee690af03639c9c329f22ccba
 product: cursor
 product_name: Cursor
+record:
+  date: '2023-11-03'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2023-11-03-0-14-0-https-cursor-com-changelog-0-14-0-45a47acf
+  source_summary: 'Pro++ plan: if you hit your fast request limit and prefer to purchase
+    more, you now can.'
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-14-0
+  title: Pro++, Word-wrapping diffs, and more
+  version: 0.14.0
 release_id: cursor-2023-11-03-0-14-0-https-cursor-com-changelog-0-14-0-45a47acf
 source_release: Pro++, Word-wrapping diffs, and more
 source_type: cursor_changelog
@@ -11,6 +22,7 @@ source_url: https://cursor.com/changelog/0-14-0
 tags:
 - release
 - cursor
+title: Cursor — Pro++, Word-wrapping diffs, and more
 version: 0.14.0
 ---
 

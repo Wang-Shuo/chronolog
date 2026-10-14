@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2025-09-29-when-writing-prompts-autocomplete-suggestions-will-appear-based-on-recent-change|cursor-2025-09-29-19a9cb]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 1645d9c5c8763029762adf38f2f54c2e66d7d2bfe8a5ca0499943d1b8fa99444
+machine_hash: b1f377d6acc78727c4da5c6c6982c98e91afda32d18323bdae075170e50a3fc4
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-08-07-on-web-click-your-profile-icon-at-the-bottom-left-select-settings-go-to-the-gene|chatgpt-2025-08-07-7e6239]]'
 - '[[Changes/Cursor/2025-09-29-when-writing-prompts-autocomplete-suggestions-will-appear-based-on-recent-change|cursor-2025-09-29-19a9cb]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323|cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323]]'
+superseded: true
 theme: editor-experience
 type: change
 ---

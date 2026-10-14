@@ -3,31 +3,71 @@ card_id: claude-code-2026-02-19-e831c2
 date: '2026-02-19'
 diffusion:
   first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|cursor-2023-03-30-3bf00d]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1057
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: account-access
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Claude Code/2026-02-13-added-claude-auth-login-claude-auth-status-and-claude-auth-logout-cli-subcommand|claude-code-2026-02-13-19875c]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: ae82d74c43482a68a35b7b9ec4f5ab97c5b81245af1cefc4ac776657ca44c9dd
+machine_hash: 5e2026f3456db56feaa428c233da94c4d6f4454ac5bfa435d4289200bb7943a1
 product: claude-code
 product_name: Claude Code
+record:
+  card_id: claude-code-2026-02-19-e831c2
+  comparison: ''
+  date: '2026-02-19'
+  description: 'Claude Code — v2.1.49: Improved performance by caching authentication
+    failures for HTTP and SSE MCP servers, avoiding repeated connection attempts to
+    servers requiring auth'
+  evidence:
+  - quote: Improved performance by caching authentication failures for HTTP and SSE
+      MCP servers, avoiding repeated connection attempts to servers requiring auth
+    source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.49
+  extractor_version: fallback-v3
+  impact: incremental
+  product: claude-code
+  product_name: Claude Code
+  slug: improved-performance-by-caching-authentication-failures-for-http-and-sse-mcp-ser
+  source_release: claude-code-2026-02-19-v2-1-49-github-288498923-7c27a140
+  source_type: github_releases
+  theme: account-access
+  theme_matches:
+  - matched_terms:
+    - authentication
+    score: 50
+    theme: account-access
+  - matched_terms:
+    - mcp
+    score: 50
+    theme: apps-integrations
+  - matched_terms:
+    - performance
+    score: 50
+    theme: reliability-performance
+  theme_resolution: manual-semantic-rule-v1
+  title: Improved performance by caching authentication failures for HTTP and SSE
+    MCP ser
+  type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-22-vscode-added-ability-for-oauth-users-to-browse-and-resume-remote-claude-sessions|claude-code-2026-01-22-5b6a2e]]'
 - '[[Changes/Claude Code/2026-02-03-added-pre-configured-oauth-client-credentials-for-mcp-servers-that-don-t-support|claude-code-2026-02-03-1c4ec2]]'
 - '[[Changes/Claude Code/2026-02-13-added-claude-auth-login-claude-auth-status-and-claude-auth-logout-cli-subcommand|claude-code-2026-02-13-19875c]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-19-v2-1-49-github-288498923-7c27a140|claude-code-2026-02-19-v2-1-49-github-288498923-7c27a140]]'
+source_type: github_releases
 theme: account-access
+title: Improved performance by caching authentication failures for HTTP and SSE MCP
+  ser
 type: change
 ---
 
 # Improved performance by caching authentication failures for HTTP and SSE MCP ser
 
 <!-- chronolog:begin region="description" -->
-Improved performance by caching authentication failures for HTTP and SSE MCP servers, avoiding repeated connection attempts to servers requiring auth
+Claude Code — v2.1.49: Improved performance by caching authentication failures for HTTP and SSE MCP servers, avoiding repeated connection attempts to servers requiring auth
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +77,15 @@ Improved performance by caching authentication failures for HTTP and SSE MCP ser
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Claude Code/2026-02-13-added-claude-auth-login-claude-auth-status-and-claude-auth-logout-cli-subcommand|claude-code-2026-02-13-19875c]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: account-access
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
+- Role: later-observed
 - First In Tracked: [[Changes/Cursor/2023-03-30-ai-now-requires-login|cursor-2023-03-30-3bf00d]]
 - Lag Days: 1057
 - Tracked Products Count: 3

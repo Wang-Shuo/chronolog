@@ -2,32 +2,62 @@
 card_id: cursor-2023-09-17-a51110
 date: '2023-09-17'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed|chatgpt-2023-03-23-86e5a9]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 178
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Cursor/2023-09-11-we-serve-extensions-now-using-cursor-s-extension-marketplace|cursor-2023-09-11-06d1dd]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: significant
-machine_hash: df1970d61e56c1f3b4b0ae55e962893d74cde725a2d4d708073c7f64887e142c
+machine_hash: e5e6ffb94fcc06a8bb333fbe7d6f9bf2957eaffab87582c72208c50403d5010f
 product: cursor
 product_name: Cursor
+record:
+  ai_generated: true
+  card_id: cursor-2023-09-17-a51110
+  comparison: ''
+  confidence: low
+  date: '2023-09-17'
+  description: 'Cursor — Cursor Python and Cursor Marketplace: We point to a different
+    marketplace for downloading extensions, and use a fork of ms-python and pyright
+    to provide python support.'
+  evidence:
+  - quote: We point to a different marketplace for downloading extensions, and use
+      a fork of ms-python and pyright to provide python support.
+    source_release: https://cursor.com/changelog/0-11-1
+  extractor_version: fallback-v3
+  impact: significant
+  product: cursor
+  product_name: Cursor
+  slug: we-point-to-a-different-marketplace-for-downloading-extensions-and-use-a-fork-of
+  source_release: cursor-2023-09-17-0-11-1-nightly-https-cursor-com-changelog-0-11-1-9c40f1bf
+  source_type: cursor_changelog
+  theme: apps-integrations
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v1
+  title: We point to a different marketplace for downloading extensions, and use a
+    fork o
+  type: change
 related_changes:
 - '[[Changes/Cursor/2023-07-28-more-robust-extension-handling-you-can-now-use-pre-release-extensions-again|cursor-2023-07-28-bfe30f]]'
 - '[[Changes/Cursor/2023-09-08-the-main-addition-in-this-update-is-better-docs-support-this-means-you-can-add-a|cursor-2023-09-08-1160cc]]'
 - '[[Changes/Cursor/2023-09-11-we-serve-extensions-now-using-cursor-s-extension-marketplace|cursor-2023-09-11-06d1dd]]'
 source_release: '[[Releases/Cursor/cursor-2023-09-17-0-11-1-nightly-https-cursor-com-changelog-0-11-1-9c40f1bf|cursor-2023-09-17-0-11-1-nightly-https-cursor-com-changelog-0-11-1-9c40f1bf]]'
+source_type: cursor_changelog
 theme: apps-integrations
+title: We point to a different marketplace for downloading extensions, and use a fork
+  o
 type: change
 ---
 
 # We point to a different marketplace for downloading extensions, and use a fork o
 
 <!-- chronolog:begin region="description" -->
-We point to a different marketplace for downloading extensions, and use a fork of ms-python and pyright to provide python support.
+Cursor — Cursor Python and Cursor Marketplace: We point to a different marketplace for downloading extensions, and use a fork of ms-python and pyright to provide python support.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,14 +67,16 @@ We point to a different marketplace for downloading extensions, and use a fork o
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Cursor/2023-09-11-we-serve-extensions-now-using-cursor-s-extension-marketplace|cursor-2023-09-11-06d1dd]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: apps-integrations
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
-- First In Tracked: [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed|chatgpt-2023-03-23-86e5a9]]
+- Role: later-observed
+- First In Tracked: [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]
 - Lag Days: 178
 - Tracked Products Count: 3
 <!-- chronolog:end -->

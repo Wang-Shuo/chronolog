@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2023-02-09-as-we-recently-announced-our-plus-plan-comes-with-early-access-to-new-experiment|chatgpt-2023-02-09-cdeb13]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: b09de44a6d3d95d21b1e2642c76a141475e78029f23caf7d308912fde1f9895f
+machine_hash: 587e6b862cfb0d7c8bdd313ae1dd9892a387a9d6afc584f7efc20e9a81d56c66
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2023-02-09-default-the-standard-chatgpt-model|chatgpt-2023-02-09-6b7506]]'
 - '[[Changes/ChatGPT/2023-02-09-as-we-recently-announced-our-plus-plan-comes-with-early-access-to-new-experiment|chatgpt-2023-02-09-cdeb13]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-03-14-announcing-gpt-4-in-chatgpt-43063370|chatgpt-2023-03-14-announcing-gpt-4-in-chatgpt-43063370]]'
+superseded: true
 theme: model-support
 type: change
 ---

@@ -1,0 +1,25 @@
+Using Python 3.11.15 environment at: /tmp/chronolog-m3-ci-venv
+Resolved 17 packages in 1.11s
+   Building chronolog @ file:///Users/wangshuo/SideProjects/chronolog
+Downloading pygments (1.2MiB)
+ Downloaded pygments
+      Built chronolog @ file:///Users/wangshuo/SideProjects/chronolog
+Prepared 17 packages in 3.06s
+Installed 17 packages in 68ms
+ + anyio==4.15.1
+ + certifi==2026.7.22
+ + chronolog==0.1.0 (from file:///Users/wangshuo/SideProjects/chronolog)
+ + feedparser==6.0.14
+ + feedparser-sgmllib==2.1.0
+ + h11==0.16.0
+ + httpcore==1.0.9
+ + httpx==0.28.1
+ + idna==3.20
+ + iniconfig==2.3.1
+ + packaging==26.3
+ + pluggy==1.6.0
+ + pygments==2.21.0
+ + pytest==9.1.1
+ + python-frontmatter==1.3.0
+ + pyyaml==6.0.3
+ + typing-extensions==4.16.0

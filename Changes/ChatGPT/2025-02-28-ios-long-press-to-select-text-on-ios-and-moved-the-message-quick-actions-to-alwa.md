@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-02-28-long-press-to-select-text-on-ios-and-moved-the-message-quick-actions-to-always-b|chatgpt-2025-02-28-08a12e]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 8b7784f2d26d858c1779dce046a37c2a62661227b23f9a6a51b5d37ac6f0a4cd
+machine_hash: 613fcb1f46e2cff6cb0182ba8b0ecdb88025c4c62459840c6cdb81d49aadf796
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-02-21-ios-widget-see-below|chatgpt-2025-02-21-c3d18b]]'
 - '[[Changes/ChatGPT/2025-02-28-long-press-to-select-text-on-ios-and-moved-the-message-quick-actions-to-always-b|chatgpt-2025-02-28-08a12e]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-02-28-general-gpt-4-5-was-released-to-users-on-the-pro-plan-in-chatgpt-79d54e18|chatgpt-2025-02-28-general-gpt-4-5-was-released-to-users-on-the-pro-plan-in-chatgpt-79d54e18]]'
+superseded: true
 theme: mobile-desktop
 type: change
 ---

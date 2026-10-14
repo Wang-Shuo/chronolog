@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-11-07-previously-changes-you-made-to-your-chatgpt-personality-or-custom-instructions-o|chatgpt-2025-11-07-2c37c7]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 5ece941bc85ac980e5f54e7b73f66ce325a6d554e54f4b7f511df1df7379d664
+machine_hash: e38cea4dea0ad23b59e1055c299ad068d2e133f6d6574e4f85f64325eca08dcd
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-10-30-longer-memory-for-more-personalized-responses|chatgpt-2025-10-30-62644d]]'
 - '[[Changes/ChatGPT/2025-11-07-previously-changes-you-made-to-your-chatgpt-personality-or-custom-instructions-o|chatgpt-2025-11-07-2c37c7]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-12-new-tone-and-personalization-controls-8052eeb3|chatgpt-2025-11-12-new-tone-and-personalization-controls-8052eeb3]]'
+superseded: true
 theme: memory
 type: change
 ---

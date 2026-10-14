@@ -1,0 +1,76 @@
+{
+  "input_sha256": "1786e17c9a46f5b8403b7f65df97853db93302d46e590c2bd30690a6711a1dec",
+  "input_release_count": 648,
+  "products": [
+    "chatgpt",
+    "claude-code",
+    "cursor"
+  ],
+  "execution": "offline historical replay; no live source freshness claim",
+  "code_sha256": {
+    "_scripts/__init__.py": "548143042d89b0de05fe644bf56db2da7cf281c65b6b0fab30a2c2ac7719d016",
+    "_scripts/analyze_a.py": "422014651b1a0c97cd43251a40cb4b2893c19eedb59501e530084817d4d7ad9d",
+    "_scripts/analyze_b.py": "5381b5d30839af4063cf37b24aaacc784f7be11563597424a4b29305df4e782b",
+    "_scripts/collect.py": "8b28544f9f8a663dc5598c6bd2a0265fe3a44e5f40234cd582c510e21e83cce8",
+    "_scripts/common.py": "c7eb29e6e1e8b571831bbf912d95e6caac817d8f2fcf97e2eda21fb04cf35b43",
+    "_scripts/extract.py": "86980e5be821666be0a44a66e634abe38cd3425482f730a0a073d15d142ef9e6",
+    "_scripts/history.py": "4f0352e67316dedd2160669f03aaa0da3214eb9aed57a55759dd80f3019626a8",
+    "_scripts/pipeline.py": "fd238cf3b804ebc93b1502994732c625a7f9390681c0495b3f5b370a4bc1f2e8",
+    "_scripts/run_pipeline.py": "608d98f80fa9942c1eb96a368b385b940718016e3f7d24f105945b449fd6da22",
+    "_scripts/silence_monitor.py": "a147d2e299554708305c732a065414c1bb6bd074ca90c648a339c6ddab916cb6",
+    "_scripts/transaction.py": "19a056acbbef8208b42b8d293352dc82edcadbd607778b684e8c49c9d6c240da",
+    "_scripts/validate.py": "ecd2d2f601e1821a57a2e703f9b6d1e60d68dfec5ffc59583c817cfefed29c80",
+    "_scripts/writer.py": "575461d13eea508157251cc4cba39d0a7d65fcff7a543c7b5d70676956af2c59"
+  },
+  "steps": [
+    {
+      "run_id": "full",
+      "status": "published",
+      "changed_files": 2407,
+      "merged_releases": 648,
+      "merged_cards": 1759,
+      "pending_theme_review": 0,
+      "validation_errors": 0,
+      "links_checked": 19832
+    },
+    {
+      "run_id": "incremental",
+      "status": "no-change",
+      "changed_files": 0,
+      "merged_releases": 648,
+      "merged_cards": 1759,
+      "pending_theme_review": 0,
+      "validation_errors": 0,
+      "links_checked": 19832
+    },
+    {
+      "run_id": "repeat",
+      "status": "no-change",
+      "changed_files": 0,
+      "merged_releases": 648,
+      "merged_cards": 1759,
+      "pending_theme_review": 0,
+      "validation_errors": 0,
+      "links_checked": 19832
+    },
+    {
+      "run_id": "recovered",
+      "status": "no-change",
+      "changed_files": 0,
+      "merged_releases": 648,
+      "merged_cards": 1759,
+      "pending_theme_review": 0,
+      "validation_errors": 0,
+      "links_checked": 19832
+    }
+  ],
+  "fault": {
+    "writes_before_failure": 3,
+    "vault_restored": true,
+    "manifest_status": "failed"
+  },
+  "human_edits_preserved": true,
+  "prior_run_json_removed": true,
+  "source_vault_unchanged": true,
+  "passed": true
+}

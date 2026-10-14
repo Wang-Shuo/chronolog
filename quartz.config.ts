@@ -1,5 +1,6 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+import { ActiveChronolog } from "./_scripts/publication_filter"
 
 const config: QuartzConfig = {
   configuration: {
@@ -8,12 +9,16 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "localhost:8080",
+    baseUrl: process.env.CHRONOLOG_BASE_URL ?? "localhost:8080",
     ignorePatterns: [
       "private",
       "templates",
       ".obsidian",
       "_pipeline",
+      "_scripts",
+      "_review",
+      "_inputs",
+      ".github",
       "docs",
       "tests",
       "content",
@@ -60,21 +65,21 @@ const config: QuartzConfig = {
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({ priority: ["frontmatter", "filesystem"] }),
       Plugin.SyntaxHighlighting(),
-      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
+      // Source quotes can contain #Heading fragments; taxonomy comes from frontmatter.
+      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false, parseTags: false }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
-      Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
+      Plugin.CrawlLinks({ markdownLinkResolution: "shortest", prettyLinks: false }),
       Plugin.Description(),
-      Plugin.Latex({ renderEngine: "katex" }),
     ],
-    filters: [Plugin.RemoveDrafts()],
+    filters: [Plugin.RemoveDrafts(), ActiveChronolog()],
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
       Plugin.FolderPage(),
       Plugin.TagPage(),
-      Plugin.ContentIndex({ enableSiteMap: true, enableRSS: false }),
+      Plugin.ContentIndex({ enableSiteMap: true, enableRSS: true, rssLimit: 30 }),
       Plugin.Assets(),
       Plugin.Static(),
       Plugin.Favicon(),

@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-06-16-gpts-with-custom-actions-currently-support-gpt-4o-and-4-1|chatgpt-2025-06-16-7f1646]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: 51b254a8be08cc58b5be59a49566eb9e4ef53c21e05a768c01f1dbd52e832554
+machine_hash: 232959ff05ae70956cb711cc1773b09cbd68f73328c38922afbbc7b1a96ff5e2
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-06-16-gpts-without-custom-actions-can-use-the-model-picker-to-select-from-all-models-a|chatgpt-2025-06-16-4a2e39]]'
 - '[[Changes/ChatGPT/2025-06-16-gpts-with-custom-actions-currently-support-gpt-4o-and-4-1|chatgpt-2025-06-16-7f1646]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-07-gpt-5-a50b91bc|chatgpt-2025-08-07-gpt-5-a50b91bc]]'
+superseded: true
 theme: model-support
 type: change
 ---

@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-11-19-today-we-re-updating-gpt-5-pro-to-gpt-5-1-pro-in-early-testing-users-consistentl|chatgpt-2025-11-19-ec8610]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 92a73175a427f3169181b2cb388403d29b3d906f99bb6295e7c8705817afeedd
+machine_hash: 0443b995779e42b1dea65abcd0b67c6bdae15d343771081849a43ab6b4d20979
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-11-19-gpt-5-1-pro-is-rolling-out-today-for-all-chatgpt-pro-users-and-is-available-in-t|chatgpt-2025-11-19-511f86]]'
 - '[[Changes/ChatGPT/2025-11-19-today-we-re-updating-gpt-5-pro-to-gpt-5-1-pro-in-early-testing-users-consistentl|chatgpt-2025-11-19-ec8610]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-21-more-images-in-answers-f12c1477|chatgpt-2025-11-21-more-images-in-answers-f12c1477]]'
+superseded: true
 theme: model-support
 type: change
 ---

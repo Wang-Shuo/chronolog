@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2026-05-11-teams-admins-and-individual-plan-users-can-now-customize-the-effort-level-bugbot|cursor-2026-05-11-91c39e]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: c1a02d4a4c6ea09061eb1ea3b7da698a18eaff234ca29c148a04dcfed6e5d3b7
+machine_hash: 6d4c08f99fded94704c38603873e38599bf851c3dc7b24a80150f46be009be8a
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2026-05-11-teams-admins-and-individual-plan-users-can-now-customize-the-effort-level-bugbot|cursor-2026-05-11-91c39e]]'
 - '[[Changes/Claude Code/2026-05-13-added-anthropic-workspace-id-environment-variable-for-workload-identity-federati|claude-code-2026-05-13-fdd0e0]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-03-organizations-for-cursor-enterprise-https-cursor-com-changelog-e-b5c7f576|cursor-2026-06-03-organizations-for-cursor-enterprise-https-cursor-com-changelog-e-b5c7f576]]'
+superseded: true
 theme: enterprise-admin
 type: change
 ---

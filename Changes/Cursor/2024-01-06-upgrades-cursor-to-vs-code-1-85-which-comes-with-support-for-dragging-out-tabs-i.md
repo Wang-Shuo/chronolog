@@ -3,31 +3,60 @@ card_id: cursor-2024-01-06-8d431d
 date: '2024-01-06'
 diffusion:
   first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|cursor-2023-03-14-24e9bf]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 298
-  role: variant
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: editor-experience
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Cursor/2023-12-31-you-can-now-use-chat-and-cmd-k-in-the-aux-window-without-too-many-problems|cursor-2023-12-31-0890c3]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: significant
-machine_hash: a87e7f34e1d71c2e6e20f85f31b42595e232540da07e31622c2deb0699e29814
+machine_hash: 82e82b1a2c5014893f21aad9b26897b7e12ef2e328578914cf129589e83aa444
 product: cursor
 product_name: Cursor
+record:
+  ai_generated: true
+  card_id: cursor-2024-01-06-8d431d
+  comparison: ''
+  confidence: low
+  date: '2024-01-06'
+  description: 'Cursor — Dev Containers: Upgrades Cursor to VS Code 1.85, which comes
+    with support for dragging out tabs into a new window.'
+  evidence:
+  - quote: Upgrades Cursor to VS Code 1.85, which comes with support for dragging
+      out tabs into a new window.
+    source_release: https://cursor.com/changelog/0-22-0
+  extractor_version: fallback-v3
+  impact: significant
+  product: cursor
+  product_name: Cursor
+  slug: upgrades-cursor-to-vs-code-1-85-which-comes-with-support-for-dragging-out-tabs-i
+  source_release: cursor-2024-01-06-0-22-0-https-cursor-com-changelog-0-22-0-04c2cd2c
+  source_type: cursor_changelog
+  theme: editor-experience
+  theme_matches: []
+  theme_resolution: manual-backfill-review-v1
+  title: Upgrades Cursor to VS Code 1.85, which comes with support for dragging out
+    tabs
+  type: change
 related_changes:
-- '[[Changes/Cursor/2023-12-16-ai-review-beta-this-is-a-new-experimental-feature-that-let-s-gpt-4-scan-your-git|cursor-2023-12-16-218d68]]'
 - '[[Changes/Cursor/2023-12-29-you-can-now-run-multiple-command-k-s-in-parallel-also-it-should-now-be-easier-to|cursor-2023-12-29-cc94ca]]'
 - '[[Changes/Cursor/2023-12-31-you-can-now-use-chat-and-cmd-k-in-the-aux-window-without-too-many-problems|cursor-2023-12-31-0890c3]]'
+- '[[Changes/Cursor/2024-01-03-hold-down-command-press-and-release-shift-and-continue-holding-down-command-this|cursor-2024-01-03-7e1934]]'
 source_release: '[[Releases/Cursor/cursor-2024-01-06-0-22-0-https-cursor-com-changelog-0-22-0-04c2cd2c|cursor-2024-01-06-0-22-0-https-cursor-com-changelog-0-22-0-04c2cd2c]]'
+source_type: cursor_changelog
 theme: editor-experience
+title: Upgrades Cursor to VS Code 1.85, which comes with support for dragging out
+  tabs
 type: change
 ---
 
 # Upgrades Cursor to VS Code 1.85, which comes with support for dragging out tabs
 
 <!-- chronolog:begin region="description" -->
-Upgrades Cursor to VS Code 1.85, which comes with support for dragging out tabs into a new window.
+Cursor — Dev Containers: Upgrades Cursor to VS Code 1.85, which comes with support for dragging out tabs into a new window.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +66,15 @@ Upgrades Cursor to VS Code 1.85, which comes with support for dragging out tabs 
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Cursor/2023-12-31-you-can-now-use-chat-and-cmd-k-in-the-aux-window-without-too-many-problems|cursor-2023-12-31-0890c3]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: editor-experience
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: variant
+- Role: later-observed
 - First In Tracked: [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|cursor-2023-03-14-24e9bf]]
 - Lag Days: 298
 - Tracked Products Count: 3

@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2023-05-09-includes-some-updates-to-option-enter-in-the-chat|cursor-2023-05-09-fcfb7b]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 9ed09320278c765f2776e332e4a316668c4bf9e6e2034212007af678f6908cc9
+machine_hash: ceeb717835a00220ab0693b7bf71a3640774fc45850723350ec0b63ee9273bdb
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2023-05-04-added-the-ability-to-hide-the-tooltip-cursor-config-advanced-chat-edit-tooltip|cursor-2023-05-04-8b05df]]'
 - '[[Changes/Cursor/2023-05-09-includes-some-updates-to-option-enter-in-the-chat|cursor-2023-05-09-fcfb7b]]'
 source_release: '[[Releases/Cursor/cursor-2023-05-17-0-2-16-https-cursor-com-changelog-0-2-16-e0618ec3|cursor-2023-05-17-0-2-16-https-cursor-com-changelog-0-2-16-e0618ec3]]'
+superseded: true
 theme: interface-experience
 type: change
 ---

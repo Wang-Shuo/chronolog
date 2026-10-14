@@ -11,7 +11,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: ef2862ebade15482940f5ad0bd746c37d0e20021244df0dbd4d713805507349a
+machine_hash: f16c0e2fe0d20d050305edc33ca881db848585982146830bc7b7b30e2e9e2683
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -19,6 +19,7 @@ related_changes:
 - '[[Changes/Cursor/2023-07-03-long-code-selections-no-longer-brick-the-editor|cursor-2023-07-03-1a9c7d]]'
 - '[[Changes/Cursor/2023-07-03-cmd-k-s-ui-has-been-changed-it-s-in-editor-sticky-and-symbol-compatible|cursor-2023-07-03-5dfeb5]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-07-06-code-interpreter-is-now-rolling-out-in-beta-on-web-427b9bc0|chatgpt-2023-07-06-code-interpreter-is-now-rolling-out-in-beta-on-web-427b9bc0]]'
+superseded: true
 theme: editor-experience
 type: change
 ---

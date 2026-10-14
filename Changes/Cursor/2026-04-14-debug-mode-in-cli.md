@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2026-04-14-we-ve-shipped-quality-of-life-improvements-to-the-cursor-cli-to-make-working-wit|cursor-2026-04-14-5ba084]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: baf85c30d4e6eb5e53a65f68d6af4a7e2e3ebff299591c2e5a0c91439cde3e11
+machine_hash: 29b9ae4ef8fe8615fcf4f7e6e51608fc2386c5c7cf46cd750fc1c3a8f8092f0a
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2026-04-14-use-debug-to-find-root-causes-and-fix-tricky-bugs-that-are-hard-to-reproduce-or|cursor-2026-04-14-4c038c]]'
 - '[[Changes/Cursor/2026-04-14-we-ve-shipped-quality-of-life-improvements-to-the-cursor-cli-to-make-working-wit|cursor-2026-04-14-5ba084]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-14-cli-debug-mode-and-btw-support-https-cursor-com-changelog-04-14-43ba096a|cursor-2026-04-14-cli-debug-mode-and-btw-support-https-cursor-com-changelog-04-14-43ba096a]]'
+superseded: true
 theme: developer-workflow
 type: change
 ---

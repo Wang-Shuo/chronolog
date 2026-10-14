@@ -3,42 +3,73 @@ card_id: chatgpt-2023-01-09-5af3d4
 date: '2023-01-09'
 diffusion:
   first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 0
-  role: originator
+  relation: same-theme-chronology
+  role: first-observed
   scope: tracked-products-only
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v2
+extractor_version: fallback-v3
 impact: significant
-machine_hash: ae7bc7470dee07000f7368403984a640a2ebeefa07c094daa4cf004e4c48491f
+machine_hash: d169821120078d4dd739655537070eb90e1d4a933778f9aff6c520b9f4648fa4
 product: chatgpt
 product_name: ChatGPT
+record:
+  ai_generated: true
+  card_id: chatgpt-2023-01-09-5af3d4
+  comparison: ''
+  confidence: low
+  date: '2023-01-09'
+  description: 'ChatGPT — Updates to ChatGPT: We made more improvements to the ChatGPT
+    model! It should be generally better across a wide range of topics and has improved
+    factuality.'
+  evidence:
+  - quote: We made more improvements to the ChatGPT model! It should be generally
+      better across a wide range of topics and has improved factuality.
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt
+  extractor_version: fallback-v3
+  impact: significant
+  product: chatgpt
+  product_name: ChatGPT
+  slug: we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr
+  source_release: chatgpt-2023-01-09-updates-to-chatgpt-0d776ee3
+  source_type: chatgpt_changelog
+  theme: model-support
+  title: We made more improvements to the ChatGPT model! It should be generally better
+    ac
+  type: change
 source_release: '[[Releases/ChatGPT/chatgpt-2023-01-09-updates-to-chatgpt-0d776ee3|chatgpt-2023-01-09-updates-to-chatgpt-0d776ee3]]'
+source_type: chatgpt_changelog
 theme: model-support
+title: We made more improvements to the ChatGPT model! It should be generally better
+  ac
 type: change
 ---
 
 # We made more improvements to the ChatGPT model! It should be generally better ac
 
 <!-- chronolog:begin region="description" -->
-We made more improvements to the ChatGPT model! It should be generally better across a wide range of topics and has improved factuality.
+ChatGPT — Updates to ChatGPT: We made more improvements to the ChatGPT model! It should be generally better across a wide range of topics and has improved factuality.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We made more improvements to the ChatGPT model! It should be generally better across a wide range of topics and has improved factuality.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_b1c7f24762
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-No prior tracked change.
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: model-support
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: originator
+- Role: first-observed
 - First In Tracked: [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]
 - Lag Days: 0
 - Tracked Products Count: 3

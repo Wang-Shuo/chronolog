@@ -1,9 +1,19 @@
 ---
 changes_count: 3
 date: '2023-04-14'
-machine_hash: 983e411ff11b94a0fb181f68e9e5664d51bd7fcb62eb5c8c8c0d299e8533a142
+machine_hash: 393cee6c9b5df4455a954e2a4f72512170d9ab7dd77391c5e44266c7677ea0d1
 product: cursor
 product_name: Cursor
+record:
+  date: '2023-04-14'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2023-04-14-0-2-3-https-cursor-com-changelog-0-2-3-08345344
+  source_summary: '#New Features'
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-2-3
+  title: Enhanced Error Handling (2023-04-14)
+  version: 0.2.3
 release_id: cursor-2023-04-14-0-2-3-https-cursor-com-changelog-0-2-3-08345344
 source_release: Enhanced Error Handling (2023-04-14)
 source_type: cursor_changelog
@@ -11,6 +21,7 @@ source_url: https://cursor.com/changelog/0-2-3
 tags:
 - release
 - cursor
+title: Cursor — Enhanced Error Handling (2023-04-14)
 version: 0.2.3
 ---
 

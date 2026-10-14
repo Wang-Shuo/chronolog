@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2025-03-11-0-47-6-faster-applies-warns-user-when-edits-fails-because-of-cursorignore|cursor-2025-03-11-e25337]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 3796a6d99bff4c4193108237301cb03055bf6135f8a32a47fe7703532af9275f
+machine_hash: 1c2d83896a8700162722dae18cad1c290bb40e0dbe64e67b92127822f955e383
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-03-18-improved-display-and-faster-streaming-of-conversations-and-message-menu-actions|chatgpt-2025-03-18-d84098]]'
 - '[[Changes/ChatGPT/2025-06-13-more-robust-ability-to-follow-instructions-especially-in-longer-conversations-si|chatgpt-2025-06-13-147d5c]]'
 source_release: '[[Releases/Cursor/cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3|cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3]]'
+superseded: true
 theme: reliability-performance
 type: change
 ---

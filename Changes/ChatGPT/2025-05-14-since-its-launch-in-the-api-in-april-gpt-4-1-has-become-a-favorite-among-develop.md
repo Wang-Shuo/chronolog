@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-05-14-evals-for-gpt-4-1-and-gpt-4-1-mini-were-originally-shared-in-the-blog-post-accom|chatgpt-2025-05-14-b48caa]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 7a4c2918140e3f7132771f9820a5da8bf43eec97f22d0d4ac40aca5a9ec0041b
+machine_hash: d2a486a219be30896f81517356d527854e51ba296f43972f6ad0d25e7ea6b6ad
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-05-14-gpt-4-1-is-a-specialized-model-that-excels-at-coding-tasks-compared-to-gpt-4o-it|chatgpt-2025-05-14-8bf9fe]]'
 - '[[Changes/ChatGPT/2025-05-14-evals-for-gpt-4-1-and-gpt-4-1-mini-were-originally-shared-in-the-blog-post-accom|chatgpt-2025-05-14-b48caa]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-14-releasing-gpt-4-1-in-chatgpt-for-all-paid-users-ab6fd3aa|chatgpt-2025-05-14-releasing-gpt-4-1-in-chatgpt-for-all-paid-users-ab6fd3aa]]'
+superseded: true
 theme: model-support
 type: change
 ---

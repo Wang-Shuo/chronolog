@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2023-08-21-custom-instructions-are-now-available-to-users-in-the-european-union-united-king|chatgpt-2023-08-21-4da8d4]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 856c0f1f7a570280a585b9edd12641de2c95d4f226ed609b1b2d24a75640fd42
+machine_hash: 4418f6bba243897b79325348b5297c83e906a255712e1af4cdae961658931cc0
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2023-09-07-we-no-longer-store-any-full-files-in-memory-and-prevent-users-from-ing-very-larg|cursor-2023-09-07-17aeac]]'
 - '[[Changes/Cursor/2023-09-07-this-should-reduce-any-significant-memory-issues-that-users-have-been-experienci|cursor-2023-09-07-384c8c]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-02-13-memory-and-new-controls-for-chatgpt-2fd43ded|chatgpt-2024-02-13-memory-and-new-controls-for-chatgpt-2fd43ded]]'
+superseded: true
 theme: memory
 type: change
 ---

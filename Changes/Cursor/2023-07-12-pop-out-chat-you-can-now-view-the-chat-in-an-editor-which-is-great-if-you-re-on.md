@@ -3,31 +3,56 @@ card_id: cursor-2023-07-12-37b730
 date: '2023-07-12'
 diffusion:
   first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|cursor-2023-03-14-24e9bf]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 120
-  role: variant
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: editor-experience
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Cursor/2023-07-11-this-update-improves-the-prompt-for-cmd-k-when-you-don-t-have-any-code-selected|cursor-2023-07-11-9c2b47]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 2f9a8e384643a4cc63f352450b2232a9769552f8ad7e2b9ac2bad9b94d65e08a
+machine_hash: be02d79d0993a0d549ebd6eb839f4a1d36f69e86326b6b568e3ae3ab4efc2333
 product: cursor
 product_name: Cursor
+record:
+  card_id: cursor-2023-07-12-37b730
+  comparison: ''
+  date: '2023-07-12'
+  description: 'Cursor — Small things!: Pop-out chat! You can now view the chat in
+    an editor, which is great if you''re on a small screen.'
+  evidence:
+  - quote: Pop-out chat! You can now view the chat in an editor, which is great if
+      you're on a small screen.
+    source_release: https://cursor.com/changelog/0-2-48-nightly
+  extractor_version: fallback-v3
+  impact: incremental
+  product: cursor
+  product_name: Cursor
+  slug: pop-out-chat-you-can-now-view-the-chat-in-an-editor-which-is-great-if-you-re-on
+  source_release: cursor-2023-07-12-0-2-48-nightly-https-cursor-com-changelog-0-2-48-nightly-d738eefc
+  source_type: cursor_changelog
+  theme: editor-experience
+  title: Pop-out chat! You can now view the chat in an editor, which is great if you're
+    o
+  type: change
 related_changes:
+- '[[Changes/Cursor/2023-07-03-long-code-selections-no-longer-brick-the-editor|cursor-2023-07-03-1a9c7d]]'
 - '[[Changes/Cursor/2023-07-03-cmd-k-s-ui-has-been-changed-it-s-in-editor-sticky-and-symbol-compatible|cursor-2023-07-03-5dfeb5]]'
-- '[[Changes/ChatGPT/2023-07-06-it-lets-chatgpt-run-code-optionally-with-access-to-files-you-ve-uploaded-you-can|chatgpt-2023-07-06-ec066c]]'
 - '[[Changes/Cursor/2023-07-11-this-update-improves-the-prompt-for-cmd-k-when-you-don-t-have-any-code-selected|cursor-2023-07-11-9c2b47]]'
 source_release: '[[Releases/Cursor/cursor-2023-07-12-0-2-48-nightly-https-cursor-com-changelog-0-2-48-nightly-d738eefc|cursor-2023-07-12-0-2-48-nightly-https-cursor-com-changelog-0-2-48-nightly-d738eefc]]'
+source_type: cursor_changelog
 theme: editor-experience
+title: Pop-out chat! You can now view the chat in an editor, which is great if you're
+  o
 type: change
 ---
 
 # Pop-out chat! You can now view the chat in an editor, which is great if you're o
 
 <!-- chronolog:begin region="description" -->
-Pop-out chat! You can now view the chat in an editor, which is great if you're on a small screen.
+Cursor — Small things!: Pop-out chat! You can now view the chat in an editor, which is great if you're on a small screen.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +62,15 @@ Pop-out chat! You can now view the chat in an editor, which is great if you're o
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Cursor/2023-07-11-this-update-improves-the-prompt-for-cmd-k-when-you-don-t-have-any-code-selected|cursor-2023-07-11-9c2b47]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: editor-experience
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: variant
+- Role: later-observed
 - First In Tracked: [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|cursor-2023-03-14-24e9bf]]
 - Lag Days: 120
 - Tracked Products Count: 3

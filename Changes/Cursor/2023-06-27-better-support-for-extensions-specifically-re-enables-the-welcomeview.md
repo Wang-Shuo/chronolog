@@ -2,32 +2,58 @@
 card_id: cursor-2023-06-27-acdb05
 date: '2023-06-27'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed|chatgpt-2023-03-23-86e5a9]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 96
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Cursor/2023-06-27-cursor-deep-linking-works-now-so-you-should-be-able-to-log-in-to-extensions|cursor-2023-06-27-2d16b7]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: significant
-machine_hash: b2df408021e34c596163c339a2bfd17123a07f447a829c37914ccb3601af4268
+machine_hash: 9c92bacc129054810f602232e3d83a0f5ecc8d1cddb3f6f75c4103ad4b577b01
 product: cursor
 product_name: Cursor
+record:
+  ai_generated: true
+  card_id: cursor-2023-06-27-acdb05
+  comparison: ''
+  confidence: low
+  date: '2023-06-27'
+  description: 'Cursor — More fixes: Better support for extensions (specifically re-enables
+    the welcomeView)'
+  evidence:
+  - quote: Better support for extensions (specifically re-enables the welcomeView)
+    source_release: https://cursor.com/changelog/0-2-37
+  extractor_version: fallback-v3
+  impact: significant
+  product: cursor
+  product_name: Cursor
+  slug: better-support-for-extensions-specifically-re-enables-the-welcomeview
+  source_release: cursor-2023-06-27-0-2-37-https-cursor-com-changelog-0-2-37-335b554a
+  source_type: cursor_changelog
+  theme: apps-integrations
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v1
+  title: Better support for extensions (specifically re-enables the welcomeView)
+  type: change
 related_changes:
 - '[[Changes/Cursor/2023-06-09-you-can-now-have-the-ai-read-documentation-on-your-behalf-this-will-improve-it-s|cursor-2023-06-09-4eec89]]'
 - '[[Changes/Cursor/2023-06-16-we-ve-added-support-for-using-your-azure-openai-credentials-also-small-improveme|cursor-2023-06-16-9e6a55]]'
 - '[[Changes/Cursor/2023-06-27-cursor-deep-linking-works-now-so-you-should-be-able-to-log-in-to-extensions|cursor-2023-06-27-2d16b7]]'
 source_release: '[[Releases/Cursor/cursor-2023-06-27-0-2-37-https-cursor-com-changelog-0-2-37-335b554a|cursor-2023-06-27-0-2-37-https-cursor-com-changelog-0-2-37-335b554a]]'
+source_type: cursor_changelog
 theme: apps-integrations
+title: Better support for extensions (specifically re-enables the welcomeView)
 type: change
 ---
 
 # Better support for extensions (specifically re-enables the welcomeView)
 
 <!-- chronolog:begin region="description" -->
-Better support for extensions (specifically re-enables the welcomeView)
+Cursor — More fixes: Better support for extensions (specifically re-enables the welcomeView)
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,14 +63,16 @@ Better support for extensions (specifically re-enables the welcomeView)
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Cursor/2023-06-27-cursor-deep-linking-works-now-so-you-should-be-able-to-log-in-to-extensions|cursor-2023-06-27-2d16b7]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: apps-integrations
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
-- First In Tracked: [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed|chatgpt-2023-03-23-86e5a9]]
+- Role: later-observed
+- First In Tracked: [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]
 - Lag Days: 96
 - Tracked Products Count: 3
 <!-- chronolog:end -->

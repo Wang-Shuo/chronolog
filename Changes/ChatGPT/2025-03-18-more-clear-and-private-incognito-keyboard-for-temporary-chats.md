@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2023-08-28-today-we-re-launching-chatgpt-enterprise-which-offers-enterprise-grade-security|chatgpt-2023-08-28-524683]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 35d2a3b5ab7f1645d43c3e25bae1f25e0f548f94e12dc609ba8f9a11fb2e4b57
+machine_hash: 4e4db917fdb766db481cf04228f3a34db7aa081258dca92c9e182225d36bc18c
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2023-08-30-api-key-input-box-is-now-a-password-type|cursor-2023-08-30-9cb314]]'
 - '[[Changes/Cursor/2024-09-17-this-update-fixes-the-following-security-issue-cve-2024-45599|cursor-2024-09-17-98704c]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-03-18-android-app-c47c961b|chatgpt-2025-03-18-android-app-c47c961b]]'
+superseded: true
 theme: safety-privacy
 type: change
 ---

@@ -3,31 +3,69 @@ card_id: chatgpt-2026-06-02-61d936
 date: '2026-06-02'
 diffusion:
   first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|cursor-2023-04-16-f0e22a]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1143
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/ChatGPT/2026-05-07-over-the-coming-weeks-we-ll-be-rolling-out-trusted-contact-an-optional-safety-fe|chatgpt-2026-05-07-d104ca]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 95162117cacccd4b3a96849e7ad21cd48398384ed9ba12bf87f6d895869e2b20
+machine_hash: 7b6e5d7bfedf5980642347abbab0a6f1148ed8b0dd9452a48bb5be4902064e4d
 product: chatgpt
 product_name: ChatGPT
+record:
+  card_id: chatgpt-2026-06-02-61d936
+  comparison: ''
+  date: '2026-06-02'
+  description: 'ChatGPT — Active account session controls: Review first-party OpenAI
+    sessions from Settings > Security > Active sessions, with available details such
+    as device, app, approximate location, sign-in time, trusted-device status, and
+    whether it is the current session'
+  evidence:
+  - quote: Review first-party OpenAI sessions from Settings > Security > Active sessions,
+      with available details such as device, app, approximate location, sign-in time,
+      trusted-device status, and whether it is the current session
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#active-account-session-controls
+  extractor_version: fallback-v3
+  impact: incremental
+  product: chatgpt
+  product_name: ChatGPT
+  slug: review-first-party-openai-sessions-from-settings-security-active-sessions-with-a
+  source_release: chatgpt-2026-06-02-active-account-session-controls-0830d01c
+  source_type: chatgpt_changelog
+  theme: safety-privacy
+  theme_matches:
+  - matched_terms:
+    - sign in
+    score: 60
+    theme: account-access
+  - matched_terms:
+    - security
+    score: 50
+    theme: safety-privacy
+  theme_resolution: manual-semantic-rule-v1
+  title: Review first-party OpenAI sessions from Settings > Security > Active sessions,
+    w
+  type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-15-powershell-tool-now-passes-executionpolicy-bypass-opt-out-with-claude-code-power|claude-code-2026-05-15-e48e4c]]'
 - '[[Changes/Claude Code/2026-05-22-fixed-a-powershell-permission-bypass-built-in-cd-functions-cd-cd-cd-x-changed-th|claude-code-2026-05-22-e2e039]]'
 - '[[Changes/Cursor/2026-05-29-auto-review-applies-to-shell-mcp-and-fetch-tool-calls-allowlisted-calls-run-imme|cursor-2026-05-29-e786d9]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-02-active-account-session-controls-0830d01c|chatgpt-2026-06-02-active-account-session-controls-0830d01c]]'
+source_type: chatgpt_changelog
 theme: safety-privacy
+title: Review first-party OpenAI sessions from Settings  Security  Active sessions,
+  w
 type: change
 ---
 
 # Review first-party OpenAI sessions from Settings > Security > Active sessions, w
 
 <!-- chronolog:begin region="description" -->
-Review first-party OpenAI sessions from Settings > Security > Active sessions, with available details such as device, app, approximate location, sign-in time, trusted-device status, and whether it is the current session
+ChatGPT — Active account session controls: Review first-party OpenAI sessions from Settings > Security > Active sessions, with available details such as device, app, approximate location, sign-in time, trusted-device status, and whether it is the current session
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +75,15 @@ Review first-party OpenAI sessions from Settings > Security > Active sessions, w
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/ChatGPT/2026-05-07-over-the-coming-weeks-we-ll-be-rolling-out-trusted-contact-an-optional-safety-fe|chatgpt-2026-05-07-d104ca]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: safety-privacy
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
+- Role: later-observed
 - First In Tracked: [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|cursor-2023-04-16-f0e22a]]
 - Lag Days: 1143
 - Tracked Products Count: 3

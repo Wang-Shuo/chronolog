@@ -2,32 +2,61 @@
 card_id: claude-code-2026-06-04-e5de26
 date: '2026-06-04'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-27-enterprise-support|cursor-2023-07-27-4d0704]]'
-  lag_days: 1043
-  role: follower
+  first_in_tracked: '[[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|chatgpt-2025-06-12-1cc56f]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 357
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Claude Code/2026-05-13-added-anthropic-workspace-id-environment-variable-for-workload-identity-federati|claude-code-2026-05-13-fdd0e0]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: effc7015d109b93eb2c24a32d64a46858a79579b26386c664a81701dab47e7ce
+machine_hash: ee2d960f2da0fdd7e739346e34463e016386c820750177b1d555f971ab0d626b
 product: claude-code
 product_name: Claude Code
+record:
+  card_id: claude-code-2026-06-04-e5de26
+  comparison: ''
+  date: '2026-06-04'
+  description: 'Claude Code — v2.1.163: Added `requiredMinimumVersion` and `requiredMaximumVersion`
+    managed settings — Claude Code refuses to start if its version is outside the
+    allowed range and directs the user to an approved version'
+  evidence:
+  - quote: Added `requiredMinimumVersion` and `requiredMaximumVersion` managed settings
+      — Claude Code refuses to start if its version is outside the allowed range and
+      directs the user to an approved version
+    source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.163
+  extractor_version: fallback-v3
+  impact: incremental
+  product: claude-code
+  product_name: Claude Code
+  slug: added-requiredminimumversion-and-requiredmaximumversion-managed-settings-claude
+  source_release: claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988
+  source_type: github_releases
+  theme: enterprise-admin
+  theme_matches: []
+  theme_resolution: manual-backfill-review-v1
+  title: Added `requiredMinimumVersion` and `requiredMaximumVersion` managed settings
+    — C
+  type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-13-added-anthropic-workspace-id-environment-variable-for-workload-identity-federati|claude-code-2026-05-13-fdd0e0]]'
-- '[[Changes/Cursor/2026-06-03-organizations|cursor-2026-06-03-604006]]'
+- '[[Changes/Cursor/2026-05-20-teammates-open-a-shared-canvas-from-its-link-with-read-only-access-the-shared-ca|cursor-2026-05-20-3794f7]]'
 - '[[Changes/ChatGPT/2026-06-04-we-re-beginning-to-roll-out-ads-for-users-on-free-and-go-plans-in-the-uk-plus-pr|chatgpt-2026-06-04-586af0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988|claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988]]'
+source_type: github_releases
 theme: enterprise-admin
+title: Added requiredMinimumVersion and requiredMaximumVersion managed settings —
+  C
 type: change
 ---
 
 # Added `requiredMinimumVersion` and `requiredMaximumVersion` managed settings — C
 
 <!-- chronolog:begin region="description" -->
-Added `requiredMinimumVersion` and `requiredMaximumVersion` managed settings — Claude Code refuses to start if its version is outside the allowed range and directs the user to an approved version
+Claude Code — v2.1.163: Added `requiredMinimumVersion` and `requiredMaximumVersion` managed settings — Claude Code refuses to start if its version is outside the allowed range and directs the user to an approved version
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,15 +66,17 @@ Added `requiredMinimumVersion` and `requiredMaximumVersion` managed settings —
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Claude Code/2026-05-13-added-anthropic-workspace-id-environment-variable-for-workload-identity-federati|claude-code-2026-05-13-fdd0e0]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: enterprise-admin
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
-- First In Tracked: [[Changes/Cursor/2023-07-27-enterprise-support|cursor-2023-07-27-4d0704]]
-- Lag Days: 1043
+- Role: later-observed
+- First In Tracked: [[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|chatgpt-2025-06-12-1cc56f]]
+- Lag Days: 357
 - Tracked Products Count: 3
 <!-- chronolog:end -->
 

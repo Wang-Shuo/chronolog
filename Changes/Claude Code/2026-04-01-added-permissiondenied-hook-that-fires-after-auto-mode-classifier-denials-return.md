@@ -3,31 +3,69 @@ card_id: claude-code-2026-04-01-e43a95
 date: '2026-04-01'
 diffusion:
   first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1000
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: agent-mode
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Claude Code/2026-03-26-added-taskcreated-hook-that-fires-when-a-task-is-created-via-taskcreate|claude-code-2026-03-26-484bd3]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: significant
-machine_hash: ab0f94445049eb55f7b175069ab4dc35b0e65828a2b141201d92203e9581b25d
+machine_hash: d170be0bdd57f95cb03f02e48d9bf4fd3b4be9d7939b9ded12f4ca36d87feaf0
 product: claude-code
 product_name: Claude Code
+record:
+  ai_generated: true
+  card_id: claude-code-2026-04-01-e43a95
+  comparison: ''
+  confidence: low
+  date: '2026-04-01'
+  description: 'Claude Code — v2.1.89: Added `PermissionDenied` hook that fires after
+    auto mode classifier denials — return `{retry: true}` to tell the model it can
+    retry'
+  evidence:
+  - quote: 'Added `PermissionDenied` hook that fires after auto mode classifier denials
+      — return `{retry: true}` to tell the model it can retry'
+    source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.89
+  extractor_version: fallback-v3
+  impact: significant
+  product: claude-code
+  product_name: Claude Code
+  slug: added-permissiondenied-hook-that-fires-after-auto-mode-classifier-denials-return
+  source_release: claude-code-2026-04-01-v2-1-89-github-303967782-358023f0
+  source_type: github_releases
+  theme: agent-mode
+  theme_matches:
+  - matched_terms:
+    - auto mode
+    score: 60
+    theme: agent-mode
+  - matched_terms:
+    - model
+    score: 50
+    theme: model-support
+  theme_resolution: manual-semantic-rule-v1
+  title: Added `PermissionDenied` hook that fires after auto mode classifier denials
+    — re
+  type: change
 related_changes:
-- '[[Changes/Cursor/2026-03-25-try-it-out-today-by-enabling-self-hosted-cloud-agents-in-your-cursor-dashboard-r|cursor-2026-03-25-8c41d9]]'
+- '[[Changes/Cursor/2026-03-25-your-codebase-build-outputs-and-secrets-all-stay-on-internal-machines-running-in|cursor-2026-03-25-6430ab]]'
 - '[[Changes/Cursor/2026-03-25-cursor-now-supports-self-hosted-cloud-agents-that-keep-your-code-and-tool-execut|cursor-2026-03-25-ef9cb1]]'
 - '[[Changes/Claude Code/2026-03-26-added-taskcreated-hook-that-fires-when-a-task-is-created-via-taskcreate|claude-code-2026-03-26-484bd3]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-01-v2-1-89-github-303967782-358023f0|claude-code-2026-04-01-v2-1-89-github-303967782-358023f0]]'
+source_type: github_releases
 theme: agent-mode
+title: Added PermissionDenied hook that fires after auto mode classifier denials —
+  re
 type: change
 ---
 
 # Added `PermissionDenied` hook that fires after auto mode classifier denials — re
 
 <!-- chronolog:begin region="description" -->
-Added `PermissionDenied` hook that fires after auto mode classifier denials — return `{retry: true}` to tell the model it can retry
+Claude Code — v2.1.89: Added `PermissionDenied` hook that fires after auto mode classifier denials — return `{retry: true}` to tell the model it can retry
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +75,15 @@ Added `PermissionDenied` hook that fires after auto mode classifier denials — 
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Claude Code/2026-03-26-added-taskcreated-hook-that-fires-when-a-task-is-created-via-taskcreate|claude-code-2026-03-26-484bd3]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: agent-mode
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
+- Role: later-observed
 - First In Tracked: [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]
 - Lag Days: 1000
 - Tracked Products Count: 3

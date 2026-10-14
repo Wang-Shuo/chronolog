@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2023-07-06-it-lets-chatgpt-run-code-optionally-with-access-to-files-you-ve-uploaded-you-can|chatgpt-2023-07-06-ec066c]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 5a10e1de8b8b7fb57c2ae43e024a17f23d8cd28523941ff2d53f9dc122192b98
+machine_hash: bee97fd3ca7165a7d497f0ef7fd277a92ee3c7619f18a4bb5915f111a1faaed7
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2025-03-11-0-47-2-cursor-tab-accepts-work-with-single-line-selections|cursor-2025-03-11-478e32]]'
 - '[[Changes/Cursor/2025-06-04-when-an-issue-is-found-bugbot-leaves-a-comment-on-your-prs-in-github-you-can-cli|cursor-2025-06-04-b160b1]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-07-accent-colors-d6573a1d|chatgpt-2025-08-07-accent-colors-d6573a1d]]'
+superseded: true
 theme: editor-experience
 type: change
 ---

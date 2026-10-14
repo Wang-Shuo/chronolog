@@ -1,9 +1,20 @@
 ---
 changes_count: 1
 date: '2023-12-14'
-machine_hash: 873c93ac683f5c7754f68047f266eae8b9ee3cd9c38bc550d747c6228ed41748
+machine_hash: 962dfb74b56c293c0e18c39fa2b144370654251dabb441ce5588fed4c7ad52a6
 product: cursor
 product_name: Cursor
+record:
+  date: '2023-12-14'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2023-12-14-0-19-0-https-cursor-com-changelog-0-19-0-d991f76e
+  source_summary: We made Copilot++ faster, smarter, more constrained, and switched
+    to a ghost-text + hit-Tab-to-accept UI. Would love your feedback.
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-19-0
+  title: Copilot++ Improvements
+  version: 0.19.0
 release_id: cursor-2023-12-14-0-19-0-https-cursor-com-changelog-0-19-0-d991f76e
 source_release: Copilot++ Improvements
 source_type: cursor_changelog
@@ -11,6 +22,7 @@ source_url: https://cursor.com/changelog/0-19-0
 tags:
 - release
 - cursor
+title: Cursor — Copilot++ Improvements
 version: 0.19.0
 ---
 

@@ -1,9 +1,23 @@
 ---
-changes_count: 2
+changes_count: 1
 date: '2025-11-12'
-machine_hash: ab233fae63425d75dced03a1531725c7fb7c3ed6af5ed487f7815d6fb4e2146d
+machine_hash: e930b5ddd1d778e7023df7a64a6c3e4b478292157849c16393aad15bb54c6589
 product: chatgpt
 product_name: ChatGPT
+record:
+  date: '2025-11-12'
+  product: chatgpt
+  product_name: ChatGPT
+  release_id: chatgpt-2025-11-12-new-tone-and-personalization-controls-8052eeb3
+  source_summary: We’re updating ChatGPT’s tone controls so it’s easier to make responses
+    sound the way you prefer. You can now choose from updated presets like Default,
+    Friendly, Efficient, Professional, Candid, and Quirky (with Cynical and Nerdy
+    still available), and we’re experimenting with more granular controls over how
+    concise…
+  source_type: chatgpt_changelog
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-tone-and-personalization-controls
+  title: New tone and personalization controls
+  version: New tone and personalization controls
 release_id: chatgpt-2025-11-12-new-tone-and-personalization-controls-8052eeb3
 source_release: New tone and personalization controls
 source_type: chatgpt_changelog
@@ -11,6 +25,7 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ne
 tags:
 - release
 - chatgpt
+title: ChatGPT — New tone and personalization controls
 version: New tone and personalization controls
 ---
 
@@ -22,11 +37,10 @@ We’re updating ChatGPT’s tone controls so it’s easier to make responses so
 
 [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-tone-and-personalization-controls)
 
-Tracked cards: 2
+Tracked cards: 1
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- memory: [[Changes/ChatGPT/2025-11-12-changes-you-make-in-personalization-now-apply-across-all-chats-immediately-inclu|Changes you make in Personalization now apply across all chats immediately (incl]]
-- memory: [[Changes/ChatGPT/2025-11-12-we-re-updating-chatgpt-s-tone-controls-so-it-s-easier-to-make-responses-sound-th|We’re updating ChatGPT’s tone controls so it’s easier to make responses sound th]]
+- model-support: [[Changes/ChatGPT/2025-11-12-we-re-updating-chatgpt-s-tone-controls-so-it-s-easier-to-make-responses-sound-th-d3a253|We’re updating ChatGPT’s tone controls so it’s easier to make responses sound th]]
 <!-- chronolog:end -->

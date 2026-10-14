@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2024-05-13-plus-users-will-have-a-message-limit-that-is-up-to-5x-greater-than-free-users-an|chatgpt-2024-05-13-9c1bc8]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 8a8bcaef8fd1a1346303cf908e84410b0a147cb4e4b4ca4c8fc3b124866de0f5
+machine_hash: dd41d01c4355cff68f9444f6e9d1ecddbf1e92e13027b5d7651df4a1cf77ac12
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2023-08-28-chatgpt-enterprise-also-provides-unlimited-access-to-advanced-data-analysis-prev|chatgpt-2023-08-28-ccb8ca]]'
 - '[[Changes/ChatGPT/2024-05-13-plus-users-will-have-a-message-limit-that-is-up-to-5x-greater-than-free-users-an|chatgpt-2024-05-13-9c1bc8]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-11-19-advanced-voice-for-chatgpt-web-e7868264|chatgpt-2024-11-19-advanced-voice-for-chatgpt-web-e7868264]]'
+superseded: true
 theme: enterprise-admin
 type: change
 ---

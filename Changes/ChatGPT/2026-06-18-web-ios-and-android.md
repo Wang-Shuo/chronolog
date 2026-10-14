@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2026-06-10-on-ios-and-android-you-can-find-the-picker-at-the-top-of-the-conversation-on-web|chatgpt-2026-06-10-4b01b5]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 6a9666c224eccf31d25c895e68cf663abf90192a98c40272e6428752473f4724
+machine_hash: fdba11e87dd734e73106dec2411f543ddd4941250768bbb889514dd42eb71a39
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Claude Code/2026-06-17-added-claude-client-presence-file-environment-variable-point-it-at-a-marker-file|claude-code-2026-06-17-197b9f]]'
 - '[[Changes/Cursor/2026-06-17-this-release-introduces-updates-to-cloud-agents-in-the-agents-window-of-the-curs|cursor-2026-06-17-eb2180]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5]]'
+superseded: true
 theme: mobile-desktop
 type: change
 ---

@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-07-17-the-advanced-voice-upgrades-we-announced-on-june-7th-are-now-rolling-out-to-chat|chatgpt-2025-07-17-ce1159]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: ad3ccf22779a26dc295c2a634606ce821f40340066091b5079202367d5384647
+machine_hash: 42e0a26237c052ce79b459453cbdb8483a14e540b3ec15c42d0f59ad806c2164
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-07-16-record-live-conversations-like-team-meetings-or-voice-notes-and-turn-those-into|chatgpt-2025-07-16-3ba6e4]]'
 - '[[Changes/ChatGPT/2025-07-17-the-advanced-voice-upgrades-we-announced-on-june-7th-are-now-rolling-out-to-chat|chatgpt-2025-07-17-ce1159]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-07-accent-colors-d6573a1d|chatgpt-2025-08-07-accent-colors-d6573a1d]]'
+superseded: true
 theme: voice
 type: change
 ---

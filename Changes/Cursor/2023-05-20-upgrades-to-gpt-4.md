@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2023-05-20-all-users-get-10-free-gpt-4-requests|cursor-2023-05-20-980551]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 98946fa6746c69c31b54d4bb04cdc22424b3309ae323f31a9a32d22fb111274b
+machine_hash: b707a84fad081b0e008ac6104f31862af3ed30d327b8549d3342d48d355a2196
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2023-05-20-switching-between-models-is-a-lot-more-easy-and-the-transition-to-gpt-4-is-a-lot|cursor-2023-05-20-790c2a]]'
 - '[[Changes/Cursor/2023-05-20-all-users-get-10-free-gpt-4-requests|cursor-2023-05-20-980551]]'
 source_release: '[[Releases/Cursor/cursor-2023-05-20-0-2-18-https-cursor-com-changelog-0-2-18-ba8b7390|cursor-2023-05-20-0-2-18-https-cursor-com-changelog-0-2-18-ba8b7390]]'
+superseded: true
 theme: model-support
 type: change
 ---

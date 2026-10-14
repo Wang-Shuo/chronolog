@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2026-03-11-we-ve-added-more-than-30-new-plugins-from-partners-such-as-atlassian-datadog-git|cursor-2026-03-11-d051e9]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: b36eeb29d3d8010a3f6f1e1c92d0a85bbc0eace91260cff22c8452b5a00ae541
+machine_hash: 8b56ce7b55e02cf69171260d33bd7fcbcd8a3b39a2dd2b882cc97a61d5894176
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Claude Code/2026-04-07-added-compact-slacked-channel-header-with-a-clickable-channel-link-for-slack-mcp|claude-code-2026-04-07-6ed963]]'
 - '[[Changes/Claude Code/2026-04-07-added-keep-coding-instructions-frontmatter-field-support-for-plugin-output-style|claude-code-2026-04-07-f07863]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-08-bugbot-learned-rules-and-mcp-support-https-cursor-com-changelog-cba7cd11|cursor-2026-04-08-bugbot-learned-rules-and-mcp-support-https-cursor-com-changelog-cba7cd11]]'
+superseded: true
 theme: apps-integrations
 type: change
 ---

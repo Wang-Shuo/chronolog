@@ -3,31 +3,56 @@ card_id: claude-code-2026-02-10-bb3bbc
 date: '2026-02-10'
 diffusion:
   first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|cursor-2023-04-16-f0e22a]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1031
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Claude Code/2026-02-10-blocked-writes-to-claude-skills-directory-in-sandbox-mode|claude-code-2026-02-10-9fba55]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 3af54a094bee8e5dae986f050d74aa921604ea49ba74dce2ea2e688cbc0c6c97
+machine_hash: 18131f59b04d2a90ee1a346d9fc89c25343ecb9b4b7fd4c9f287e1a412352109
 product: claude-code
 product_name: Claude Code
+record:
+  card_id: claude-code-2026-02-10-bb3bbc
+  comparison: ''
+  date: '2026-02-10'
+  description: 'Claude Code — v2.1.38: Fixed bash permission matching for commands
+    using environment variable wrappers'
+  evidence:
+  - quote: Fixed bash permission matching for commands using environment variable
+      wrappers
+    source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.38
+  extractor_version: fallback-v3
+  impact: incremental
+  product: claude-code
+  product_name: Claude Code
+  slug: fixed-bash-permission-matching-for-commands-using-environment-variable-wrappers
+  source_release: claude-code-2026-02-10-v2-1-38-github-284624259-26f7a748
+  source_type: github_releases
+  theme: safety-privacy
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v2
+  title: Fixed bash permission matching for commands using environment variable wrappers
+  type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-30-permissions-now-respect-content-level-ask-over-tool-level-allow-previously-allow|claude-code-2026-01-30-3cd8a3]]'
 - '[[Changes/Claude Code/2026-02-06-fixed-a-bug-where-commands-excluded-from-sandboxing-via-sandbox-excludedcommands|claude-code-2026-02-06-1233de]]'
 - '[[Changes/Claude Code/2026-02-10-blocked-writes-to-claude-skills-directory-in-sandbox-mode|claude-code-2026-02-10-9fba55]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-10-v2-1-38-github-284624259-26f7a748|claude-code-2026-02-10-v2-1-38-github-284624259-26f7a748]]'
+source_type: github_releases
 theme: safety-privacy
+title: Fixed bash permission matching for commands using environment variable wrappers
 type: change
 ---
 
 # Fixed bash permission matching for commands using environment variable wrappers
 
 <!-- chronolog:begin region="description" -->
-Fixed bash permission matching for commands using environment variable wrappers
+Claude Code — v2.1.38: Fixed bash permission matching for commands using environment variable wrappers
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +62,15 @@ Fixed bash permission matching for commands using environment variable wrappers
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Claude Code/2026-02-10-blocked-writes-to-claude-skills-directory-in-sandbox-mode|claude-code-2026-02-10-9fba55]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: safety-privacy
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
+- Role: later-observed
 - First In Tracked: [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|cursor-2023-04-16-f0e22a]]
 - Lag Days: 1031
 - Tracked Products Count: 3

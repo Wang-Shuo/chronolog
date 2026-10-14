@@ -3,31 +3,55 @@ card_id: cursor-2023-05-20-980551
 date: '2023-05-20'
 diffusion:
   first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 131
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: model-support
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Cursor/2023-05-20-switching-between-models-is-a-lot-more-easy-and-the-transition-to-gpt-4-is-a-lot|cursor-2023-05-20-790c2a]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 5ff4e801909459918ffdb5f309934698116a9194622e81b8d0ce92ad63bc544a
+machine_hash: e9009dea2121cd2dfeda57ac10aa3365e56592b9cd965ba24e01026d5862ea17
 product: cursor
 product_name: Cursor
+record:
+  card_id: cursor-2023-05-20-980551
+  comparison: ''
+  date: '2023-05-20'
+  description: 'Cursor — Upgrades to GPT-4 and Please give us feedback!! (2023-05-20):
+    All users get 10 free gpt-4 requests !!!'
+  evidence:
+  - quote: All users get 10 free gpt-4 requests !!!
+    source_release: https://cursor.com/changelog/0-2-18
+  extractor_version: fallback-v3
+  impact: incremental
+  product: cursor
+  product_name: Cursor
+  slug: all-users-get-10-free-gpt-4-requests
+  source_release: cursor-2023-05-20-0-2-18-https-cursor-com-changelog-0-2-18-ba8b7390
+  source_type: cursor_changelog
+  theme: model-support
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v2
+  title: All users get 10 free gpt-4 requests !!!
+  type: change
 related_changes:
 - '[[Changes/Cursor/2023-04-19-gpt-4-now-available-for-pro-users|cursor-2023-04-19-b16c39]]'
 - '[[Changes/ChatGPT/2023-05-03-we-are-deprecating-the-legacy-gpt-3-5-model-on-may-10th-users-will-be-able-to-co|chatgpt-2023-05-03-6c50c1]]'
 - '[[Changes/Cursor/2023-05-20-switching-between-models-is-a-lot-more-easy-and-the-transition-to-gpt-4-is-a-lot|cursor-2023-05-20-790c2a]]'
 source_release: '[[Releases/Cursor/cursor-2023-05-20-0-2-18-https-cursor-com-changelog-0-2-18-ba8b7390|cursor-2023-05-20-0-2-18-https-cursor-com-changelog-0-2-18-ba8b7390]]'
+source_type: cursor_changelog
 theme: model-support
+title: All users get 10 free gpt-4 requests !!!
 type: change
 ---
 
 # All users get 10 free gpt-4 requests !!!
 
 <!-- chronolog:begin region="description" -->
-All users get 10 free gpt-4 requests !!!
+Cursor — Upgrades to GPT-4 and Please give us feedback!! (2023-05-20): All users get 10 free gpt-4 requests !!!
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +61,15 @@ All users get 10 free gpt-4 requests !!!
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Cursor/2023-05-20-switching-between-models-is-a-lot-more-easy-and-the-transition-to-gpt-4-is-a-lot|cursor-2023-05-20-790c2a]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: model-support
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
+- Role: later-observed
 - First In Tracked: [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]
 - Lag Days: 131
 - Tracked Products Count: 3

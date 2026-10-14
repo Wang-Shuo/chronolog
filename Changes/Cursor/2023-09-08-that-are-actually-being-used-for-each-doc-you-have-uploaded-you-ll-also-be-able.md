@@ -3,31 +3,59 @@ card_id: cursor-2023-09-08-438ba5
 date: '2023-09-08'
 diffusion:
   first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 242
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: model-support
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Cursor/2023-07-28-if-you-press-on-any-line-you-will-now-get-gpt-4-powering-fast-completions-for-yo|cursor-2023-07-28-8606dd]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: b0ce59faa372c202e9461b40da39422b2ff98a9e6816194ef399fedfd355e259
+machine_hash: eaa5751228bcf0a56c885a32fc8743a0a74c6eb97c1f7632bb6857c7ce6ef8ce
 product: cursor
 product_name: Cursor
+record:
+  card_id: cursor-2023-09-08-438ba5
+  comparison: ''
+  date: '2023-09-08'
+  description: 'Cursor — Better Docs Management, Staged Rollouts: that are actually
+    being used for each doc you have uploaded. You''ll also be able to see what webpages
+    end up being shown to GPT-4 to provide you an answer.'
+  evidence:
+  - quote: that are actually being used for each doc you have uploaded. You'll also
+      be able to see what webpages end up being shown to GPT-4 to provide you an answer.
+    source_release: https://cursor.com/changelog/0-10-0
+  extractor_version: fallback-v3
+  impact: incremental
+  product: cursor
+  product_name: Cursor
+  slug: that-are-actually-being-used-for-each-doc-you-have-uploaded-you-ll-also-be-able
+  source_release: cursor-2023-09-08-0-10-0-https-cursor-com-changelog-0-10-0-8f32d699
+  source_type: cursor_changelog
+  theme: model-support
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v2
+  title: that are actually being used for each doc you have uploaded. You'll also
+    be able
+  type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-07-19-we-re-doubling-the-number-of-messages-chatgpt-plus-customers-can-send-with-gpt-4|chatgpt-2023-07-19-3f0b5f]]'
+- '[[Changes/Cursor/2023-07-28-new-completion-experience-powered-by-gpt-4-just-press-and-you-ll-get-a-long-comp|cursor-2023-07-28-3dcb54]]'
 - '[[Changes/Cursor/2023-07-28-if-you-press-on-any-line-you-will-now-get-gpt-4-powering-fast-completions-for-yo|cursor-2023-07-28-8606dd]]'
-- '[[Changes/ChatGPT/2023-08-03-gpt-4-by-default-finally-when-starting-a-new-chat-as-a-plus-user-chatgpt-will-re|chatgpt-2023-08-03-f620bf]]'
+- '[[Changes/ChatGPT/2023-08-03-we-re-rolling-out-a-bunch-of-small-updates-to-improve-the-chatgpt-experience-shi|chatgpt-2023-08-03-054cc2]]'
 source_release: '[[Releases/Cursor/cursor-2023-09-08-0-10-0-https-cursor-com-changelog-0-10-0-8f32d699|cursor-2023-09-08-0-10-0-https-cursor-com-changelog-0-10-0-8f32d699]]'
+source_type: cursor_changelog
 theme: model-support
+title: that are actually being used for each doc you have uploaded. You'll also be
+  able
 type: change
 ---
 
 # that are actually being used for each doc you have uploaded. You'll also be able
 
 <!-- chronolog:begin region="description" -->
-that are actually being used for each doc you have uploaded. You'll also be able to see what webpages end up being shown to GPT-4 to provide you an answer.
+Cursor — Better Docs Management, Staged Rollouts: that are actually being used for each doc you have uploaded. You'll also be able to see what webpages end up being shown to GPT-4 to provide you an answer.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +65,15 @@ that are actually being used for each doc you have uploaded. You'll also be able
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Cursor/2023-07-28-if-you-press-on-any-line-you-will-now-get-gpt-4-powering-fast-completions-for-yo|cursor-2023-07-28-8606dd]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: model-support
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
+- Role: later-observed
 - First In Tracked: [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]
 - Lag Days: 242
 - Tracked Products Count: 3

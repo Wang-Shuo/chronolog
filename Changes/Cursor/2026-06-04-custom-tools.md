@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2026-05-19-install-the-integration-from-cursor-integrations-you-need-cursor-admin-access-an|cursor-2026-05-19-af93f5]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 88e9276991a9f7500613e411f2650ea43ca6a2835afa85378966a7650e48fda6
+machine_hash: e596961da0e7f6f38c397b3868cbacb83b9d1e83226b0474e4ac0013d8005c4f
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Claude Code/2026-06-04-hooks-stop-and-subagentstop-hooks-can-now-return-hookspecificoutput-additionalco|claude-code-2026-06-04-d9a4ce]]'
 - '[[Changes/Claude Code/2026-06-04-added-plugin-list-command-to-list-installed-plugins-with-enabled-disabled-filter|claude-code-2026-06-04-ddcc08]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-04-custom-stores-custom-tools-and-auto-review-for-the-cursor-sdk-ht-612f6856|cursor-2026-06-04-custom-stores-custom-tools-and-auto-review-for-the-cursor-sdk-ht-612f6856]]'
+superseded: true
 theme: apps-integrations
 type: change
 ---

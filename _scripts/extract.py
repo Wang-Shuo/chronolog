@@ -47,6 +47,9 @@ INSTRUCTION_PREFIXES = (
     "to share ",
     "to use ",
     "try using ",
+    "try it out ",
+    "download the ",
+    "web only ",
     "we hope ",
     "learn more",
     "read more",
@@ -477,10 +480,26 @@ def load_review_decisions(
 
 def split_release_lines(body: str) -> list[str]:
     lines = []
+    fence = None
     for raw in body.splitlines():
         stripped = raw.strip()
-        stripped = re.sub(r"^#{1,6}\s*", "", stripped)
+        marker = re.match(r"^(`{3,}|~{3,})", stripped)
+        if marker:
+            token = marker.group(1)
+            if fence is None:
+                fence = token
+            elif token[0] == fence[0] and len(token) >= len(fence):
+                fence = None
+            continue
+        if fence is not None:
+            continue
+        if stripped.startswith("#"):
+            continue
         line = re.sub(r"^(?:[-*]\s+|\d+[.)]\s+)", "", stripped).strip()
+        # HTML changelog text may flatten <pre> blocks without Markdown fences.
+        # These TypeScript statements are examples, not release announcements.
+        if re.match(r"^(?:(?:const|let|var)\s+\w+\s*=|import\s+[{*]|import\s+\w+\s+from\s|for\s+await\s*\(|console\.log\s*\()", line):
+            continue
         if len(line) >= 12:
             lines.append(line)
     return lines
@@ -581,6 +600,19 @@ def semantic_preclassification_override(
     themes: dict[str, dict[str, Any]],
 ) -> str | None:
     normalized = normalize_match_text(text)
+    specific = (
+        ('agent-mode', r'^ChatGPT Work is an agent|^We[’\']re introducing dots'),
+        ('collaboration', r'share with specific people|share across your workspace|library sharing|assign viewer or editor'),
+        ('model-support', r'^(?:Added|Introducing) (?:Claude )?(?:Opus|Sonnet|Haiku|Fable|GPT[- ])'),
+        ('pricing-model', r'\$\d|(?:request|token)[ -]based pricing|\bcredits?\b.*\b(?:usage|top.up|allowance)\b'),
+        ('safety-privacy', r'lockdown mode|credentials? from subprocess|(?:permission|classifier) rules'),
+        ('developer-workflow', r'login shell'),
+        ('interface-experience', r'recent (?:chats|conversations)|new chat ux|new settings|theme picker|focus view'),
+        ('context-window', r'auto.compact|autocompactwindow'),
+    )
+    for theme, pattern in specific:
+        if theme in themes and re.search(pattern, text, re.I):
+            return theme
     technical_memory_phrases = (
         "memory allocation",
         "memory issue",
@@ -609,7 +641,7 @@ def semantic_preclassification_override(
     ):
         return "context-window"
     if "model-support" in themes and re.search(
-        r"\b(?:gpt ?4(?:o|\.\d+)?|gpt ?5(?:\.\d+)?|o[134](?:-pro|-mini)?|"
+        r"\b(?:gpt[- ]?4(?:o|\.\d+)?|gpt[- ]?[56](?:\.\d+)?|o[134](?:-pro|-mini)?|"
         r"sonnet|opus|gemini)\b",
         text,
         re.I,
@@ -663,7 +695,10 @@ def extract_cards_from_release(
     themes: dict[str, dict[str, Any]],
     review_decisions: dict[str, str] | None = None,
 ) -> list[dict[str, Any]]:
-    lines = split_release_lines(release.get("body", "")) or [release["title"]]
+    lines = split_release_lines(release.get("body", ""))
+    if not lines and release.get("source_type") not in {None, "fixture"}:
+        return []
+    lines = lines or [release["title"]]
     cards = []
     seen_card_ids: set[str] = set()
     source_release = release.get("release_id") or (
@@ -725,10 +760,11 @@ def extract_cards_from_release(
             "slug": slugify(line)[:80].strip("-"),
             "theme": classification["theme"],
             "impact": impact,
-            "description": line,
+            "description": f"{release['product_name']} — {release['title']}: {line}",
             "comparison": "",
             "evidence": [{"source_release": release.get("source_url", ""), "quote": line}],
-            "extractor_version": "fallback-v2" if release_scoped_identity else "fallback-v1",
+            "extractor_version": "fallback-v3" if release_scoped_identity else "fallback-v1",
+            "source_type": release.get("source_type", "unknown"),
         }
         card.update({key: value for key, value in classification.items() if key != "theme"})
         if impact in {"significant", "paradigm-shift"}:
@@ -740,13 +776,14 @@ def extract_cards_from_release(
     return cards
 
 
-def extract_run(run_id: str) -> list[dict[str, Any]]:
-    paths = PipelinePaths(run_id)
-    themes = load_theme_vocabulary(ROOT / "_scripts/themes.yaml")
+def extract_run(run_id: str, root: Path = ROOT) -> list[dict[str, Any]]:
+    paths = PipelinePaths(run_id, root=root)
+    themes = load_theme_vocabulary(root / "_scripts/themes.yaml")
     review_decisions = load_review_decisions(
-        ROOT / "_scripts/backfill_review.yaml",
+        root / "_scripts/backfill_review.yaml",
         themes,
     )
+    review_decisions.update(load_review_decisions(root / "_scripts/m2_review.yaml", themes))
     releases = read_json(paths.collected)["releases"]
     cards = [
         card

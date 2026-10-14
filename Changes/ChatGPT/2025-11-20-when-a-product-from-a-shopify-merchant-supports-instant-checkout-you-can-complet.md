@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-11-20-instant-checkout-is-available-for-logged-in-plus-pro-and-free-users-in-the-us|chatgpt-2025-11-20-12ee51]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: cf650b0eac58b7288cfb5783305abc1edf9c27f143e637234981783406d60a1c
+machine_hash: 940b144b42079dcb2d17e7075d84f35b7693250e76cc0deda5be45995e5b0ea7
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-10-13-with-the-chatgpt-connector-for-slack-you-can-securely-bring-in-context-from-your|chatgpt-2025-10-13-574d85]]'
 - '[[Changes/ChatGPT/2025-11-20-instant-checkout-is-available-for-logged-in-plus-pro-and-free-users-in-the-us|chatgpt-2025-11-20-12ee51]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-20-instant-checkout-now-rolling-out-to-shopify-merchants-87a5d6b7|chatgpt-2025-11-20-instant-checkout-now-rolling-out-to-shopify-merchants-87a5d6b7]]'
+superseded: true
 theme: search-browsing
 type: change
 ---

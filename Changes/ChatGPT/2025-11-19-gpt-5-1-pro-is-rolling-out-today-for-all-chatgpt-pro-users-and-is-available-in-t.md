@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-11-12-we-re-updating-gpt-5-to-gpt-5-1-instant-and-gpt-5-1-thinking-making-answers-both|chatgpt-2025-11-12-f038af]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: cfee32d715004e5382acd2c7c96e389e6daafa67b245d3c56e1d843336559ea1
+machine_hash: c9af6abffc2ea57c88567d176ce881a12ccf5759692300d05389a5fd2dcff287
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-11-12-gpt-5-1-auto-continues-to-route-each-query-to-the-best-model-and-gpt-5-models-re|chatgpt-2025-11-12-3a1902]]'
 - '[[Changes/ChatGPT/2025-11-12-we-re-updating-gpt-5-to-gpt-5-1-instant-and-gpt-5-1-thinking-making-answers-both|chatgpt-2025-11-12-f038af]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-19-gpt-5-1-pro-clearer-more-capable-answers-for-complex-work-78316657|chatgpt-2025-11-19-gpt-5-1-pro-clearer-more-capable-answers-for-complex-work-78316657]]'
+superseded: true
 theme: model-support
 type: change
 ---

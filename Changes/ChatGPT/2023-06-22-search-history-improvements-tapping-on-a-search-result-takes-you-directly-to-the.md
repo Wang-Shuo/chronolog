@@ -3,47 +3,76 @@ card_id: chatgpt-2023-06-22-8758f2
 date: '2023-06-22'
 diffusion:
   first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|chatgpt-2023-03-23-c03c55]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 91
-  role: variant
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: search-browsing
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/ChatGPT/2023-06-22-browsing-plus-users-can-now-use-browsing-to-get-comprehensive-answers-and-curren|chatgpt-2023-06-22-1011b0]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 05e32580c3235c202f2be9982cc6f7bdf61a810a34dac63a5fc453e85cffdc3c
+machine_hash: e064a6f703dfabe25566bf73e455f3e41c93156084213325d96fe895a52281de
 product: chatgpt
 product_name: ChatGPT
+record:
+  card_id: chatgpt-2023-06-22-8758f2
+  comparison: ''
+  date: '2023-06-22'
+  description: 'ChatGPT — Browsing and search on mobile: Search History Improvements:
+    Tapping on a search result takes you directly to the respective point in the conversation.'
+  evidence:
+  - quote: 'Search History Improvements: Tapping on a search result takes you directly
+      to the respective point in the conversation.'
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-and-search-on-mobile
+  extractor_version: fallback-v3
+  impact: incremental
+  product: chatgpt
+  product_name: ChatGPT
+  slug: search-history-improvements-tapping-on-a-search-result-takes-you-directly-to-the
+  source_release: chatgpt-2023-06-22-browsing-and-search-on-mobile-989ccb98
+  source_type: chatgpt_changelog
+  theme: search-browsing
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v1
+  title: 'Search History Improvements: Tapping on a search result takes you directly
+    to th'
+  type: change
 related_changes:
+- '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|chatgpt-2023-03-23-c03c55]]'
 - '[[Changes/ChatGPT/2023-05-12-web-browsing-try-a-new-version-of-chatgpt-that-knows-when-and-how-to-browse-the|chatgpt-2023-05-12-b6aa27]]'
 - '[[Changes/ChatGPT/2023-05-24-browse-with-bing-we-ve-integrated-the-browsing-feature-currently-in-beta-for-pai|chatgpt-2023-05-24-d5e485]]'
-- '[[Changes/ChatGPT/2023-06-22-browsing-plus-users-can-now-use-browsing-to-get-comprehensive-answers-and-curren|chatgpt-2023-06-22-1011b0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-06-22-browsing-and-search-on-mobile-989ccb98|chatgpt-2023-06-22-browsing-and-search-on-mobile-989ccb98]]'
+source_type: chatgpt_changelog
 theme: search-browsing
+title: 'Search History Improvements: Tapping on a search result takes you directly
+  to th'
 type: change
 ---
 
 # Search History Improvements: Tapping on a search result takes you directly to th
 
 <!-- chronolog:begin region="description" -->
-Search History Improvements: Tapping on a search result takes you directly to the respective point in the conversation.
+ChatGPT — Browsing and search on mobile: Search History Improvements: Tapping on a search result takes you directly to the respective point in the conversation.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Search History Improvements: Tapping on a search result takes you directly to the respective point in the conversation.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_b444a710ea
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-and-search-on-mobile
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/ChatGPT/2023-06-22-browsing-plus-users-can-now-use-browsing-to-get-comprehensive-answers-and-curren|chatgpt-2023-06-22-1011b0]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: search-browsing
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: variant
+- Role: later-observed
 - First In Tracked: [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|chatgpt-2023-03-23-c03c55]]
 - Lag Days: 91
 - Tracked Products Count: 3

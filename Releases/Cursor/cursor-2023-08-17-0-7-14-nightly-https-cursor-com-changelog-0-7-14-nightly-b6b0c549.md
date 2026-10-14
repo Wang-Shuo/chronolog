@@ -1,9 +1,19 @@
 ---
 changes_count: 2
 date: '2023-08-17'
-machine_hash: f50c59103d251b6a2dda7830a04e7743870e052e86c472f4ddd07fc2144c0755
+machine_hash: 8ad21b304ed1ebcb6c9d5cd989e3ad1135df169ec9c4df5a9c3bea8164424edf
 product: cursor
 product_name: Cursor
+record:
+  date: '2023-08-17'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2023-08-17-0-7-14-nightly-https-cursor-com-changelog-0-7-14-nightly-b6b0c549
+  source_summary: Small things!
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-7-14-nightly
+  title: Small improvements
+  version: 0.7.14-nightly
 release_id: cursor-2023-08-17-0-7-14-nightly-https-cursor-com-changelog-0-7-14-nightly-b6b0c549
 source_release: Small improvements
 source_type: cursor_changelog
@@ -11,6 +21,7 @@ source_url: https://cursor.com/changelog/0-7-14-nightly
 tags:
 - release
 - cursor
+title: Cursor — Small improvements
 version: 0.7.14-nightly
 ---
 

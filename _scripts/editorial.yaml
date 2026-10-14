@@ -1,0 +1,89 @@
+review:
+  author: Codex
+  date: '2026-10-13'
+  status: awaiting-human-acceptance
+products:
+  chatgpt:
+    summary: >-
+      ChatGPT's tracked history moves from a conversational interface to tool use,
+      multimodal and persistent context, and finally delegated work. These are editorial
+      boundaries supported by the announcements below, not divisions by release volume.
+    limitations: >-
+      Dates are changelog announcement dates, not universal availability dates.
+      Rollouts differ by plan, region, device and admin policy. The archive begins
+      on 2022-12-15; it does not establish the product's launch date. These selected
+      turning points do not claim that one phase replaced all capabilities of another.
+    eras:
+      - name: Conversation quality and paid access
+        from: '2022-12-15'
+        to: '2023-03-22'
+        summary: >-
+          The early record emphasizes answer quality, saved conversations and access.
+          Plus adds early access and model selection. This establishes a conversational
+          product with differentiated access, before the tracked plugin announcement.
+        releases:
+          - chatgpt-2022-12-15-performance-updates-to-chatgpt-d9abf59d
+          - chatgpt-2023-02-09-introducing-chatgpt-plus-380a3524
+      - name: Tools extend the conversation
+        from: '2023-03-23'
+        to: '2023-09-24'
+        summary: >-
+          Experimental plugins introduce browsing, Python computation and third-party
+          services. Code Interpreter's later beta rollout turns uploaded files into
+          inputs for computational work. The boundary is access to tools, not just a newer model.
+        releases:
+          - chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8
+          - chatgpt-2023-07-06-code-interpreter-is-now-rolling-out-in-beta-on-web-427b9bc0
+      - name: Multimodal interaction and persistent context
+        from: '2023-09-25'
+        to: '2025-01-13'
+        summary: >-
+          Voice and image input change how users provide context. The memory test
+          later carries information between conversations with user controls; GPT-4o
+          broadens the model experience. These are related interface and context shifts,
+          not evidence that all features were available to everyone at the boundary.
+        releases:
+          - chatgpt-2023-09-25-new-voice-and-image-capabilities-in-chatgpt-e8c88ec7
+          - chatgpt-2024-02-13-memory-and-new-controls-for-chatgpt-2fd43ded
+          - chatgpt-2024-05-13-introducing-gpt-4o-0a0709f8
+      - name: Work can start later and repeat
+        from: '2025-01-14'
+        to: '2026-07-08'
+        summary: >-
+          Scheduled Tasks beta introduces reminders and recurring actions at a future
+          time. This changes the trigger from an immediate conversation to scheduled
+          execution. It does not establish a general autonomous agent or prove task reliability.
+        releases:
+          - chatgpt-2025-01-14-scheduled-tasks-in-chatgpt-b8005b4a
+      - name: Delegated work and ongoing agents
+        from: '2026-07-09'
+        to: null
+        summary: >-
+          Work explicitly handles longer tasks across apps and files and produces finished
+          deliverables, with progress visibility and approvals. September's dots announcement
+          adds ongoing goals on a cloud computer. Access remains staged and conditional;
+          these announcements do not measure completion quality or unattended reliability.
+        releases:
+          - chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272
+          - chatgpt-2026-09-29-meet-your-dot-8b9f914b
+themes:
+  agent-mode: |-
+    **Research question: what changed in delegated execution?**
+
+    Cursor's [2025-05-15 release](https://cursor.com/changelog/0-50) introduces Background Agent for parallel task execution. The [2025-06-04 release](https://cursor.com/changelog/1-0) expands access to the remote coding agent, with privacy-mode limitations at that time. This is a supported within-product expansion of the same named capability.
+
+    ChatGPT's [2026-07-09 Work announcement](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-work) describes longer research and creation tasks across apps and files, with user direction and approvals. [Dots on 2026-09-29](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#meet-your-dot) adds ongoing goals on a cloud computer, with plan and regional restrictions. These are general-work agents; they are not interchangeable with Cursor's repository-oriented remote coding agent.
+
+    Claude Code's [v2.1.296](https://github.com/anthropics/claude-code/releases/tag/v2.1.296) adds a workflow-subagent model setting and per-subagent auto-compaction. These are controls over an existing execution system, not its launch. Our dated Claude Code Releases coverage starts at v2.0.73, so its first appearance here cannot establish when agent functionality first existed.
+
+    **Uncertainty and scope:** tracked-products-only. Similar names and dates do not establish identical autonomy, reliability, adoption, or influence. The timeline below is a sequence of evidence, not a diffusion claim. Generic permission fixes and unrelated uses of “mode” do not by themselves qualify as agent capabilities.
+  pricing-model: |-
+    **Research question: what is being charged for, and what does a plan unlock?**
+
+    Cursor's [2025-05-15 announcement](https://cursor.com/changelog/0-50) distinguishes request-based ordinary usage from token-based Max Mode and says plan quotas were unchanged at that time. It is a dated mechanism change, not a current price list.
+
+    ChatGPT's [2026-04-09 Pro changes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-pro-plan-options) introduce a $100/month Pro option alongside $200/month Pro and describe usage allowances. The [2026-09-29 Pro 500 announcement](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#a-new-pro-plan-with-astra-ultrafast) adds a $500/month tier and gates Ultrafast to that tier: buying credits on Pro 100 or Pro 200 does not unlock it. Included allowances and purchased credits are distinct from feature eligibility.
+
+    Claude Code's [v2.1.296](https://github.com/anthropics/claude-code/releases/tag/v2.1.296) updates displayed Sonnet 5.5 cache-read cost figures from $0.20 to $0.10 per million tokens in cost reporting and budget controls. A client cost-accounting update is not evidence of a new Claude subscription price or of every user's billed price.
+
+    **Uncertainty and scope:** tracked-products-only. Subscriptions, requests, token metering, credits and client cost estimates are different mechanisms. Prices are historical statements with plan and rollout qualifications. This evidence does not support “one product followed another,” universal price comparisons, or claims about current invoices. References to shopping prices are outside this theme unless they change the AI product's own charging mechanism.

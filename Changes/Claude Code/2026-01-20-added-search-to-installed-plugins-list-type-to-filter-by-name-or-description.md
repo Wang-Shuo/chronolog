@@ -2,32 +2,54 @@
 card_id: claude-code-2026-01-20-5e8d97
 date: '2026-01-20'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed|chatgpt-2023-03-23-86e5a9]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1034
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Claude Code/2026-01-20-added-support-for-pinning-plugins-to-specific-git-commit-shas-allowing-marketpla|claude-code-2026-01-20-5e4e1d]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 54b4ab9d419718f864ab4ed3ab3d8ff025a10ce14a2fe9895d936ee7c48af49b
+machine_hash: 11a76785951e6225722b2842c6439a065e71b54fb820093d52f64a4533ef6a02
 product: claude-code
 product_name: Claude Code
+record:
+  card_id: claude-code-2026-01-20-5e8d97
+  comparison: ''
+  date: '2026-01-20'
+  description: 'Claude Code — v2.1.14: Added search to installed plugins list - type
+    to filter by name or description'
+  evidence:
+  - quote: Added search to installed plugins list - type to filter by name or description
+    source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.14
+  extractor_version: fallback-v3
+  impact: incremental
+  product: claude-code
+  product_name: Claude Code
+  slug: added-search-to-installed-plugins-list-type-to-filter-by-name-or-description
+  source_release: claude-code-2026-01-20-v2-1-14-github-278458927-a7d53111
+  source_type: github_releases
+  theme: apps-integrations
+  title: Added search to installed plugins list - type to filter by name or description
+  type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-09-added-force-autoupdate-plugins-environment-variable-to-allow-plugin-autoupdate-e|claude-code-2026-01-09-b218b1]]'
 - '[[Changes/Claude Code/2026-01-13-added-automatic-discovery-of-skills-from-nested-claude-skills-directories-when-w|claude-code-2026-01-13-33c9c4]]'
 - '[[Changes/Claude Code/2026-01-20-added-support-for-pinning-plugins-to-specific-git-commit-shas-allowing-marketpla|claude-code-2026-01-20-5e4e1d]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-20-v2-1-14-github-278458927-a7d53111|claude-code-2026-01-20-v2-1-14-github-278458927-a7d53111]]'
+source_type: github_releases
 theme: apps-integrations
+title: Added search to installed plugins list - type to filter by name or description
 type: change
 ---
 
 # Added search to installed plugins list - type to filter by name or description
 
 <!-- chronolog:begin region="description" -->
-Added search to installed plugins list - type to filter by name or description
+Claude Code — v2.1.14: Added search to installed plugins list - type to filter by name or description
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,14 +59,16 @@ Added search to installed plugins list - type to filter by name or description
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Claude Code/2026-01-20-added-support-for-pinning-plugins-to-specific-git-commit-shas-allowing-marketpla|claude-code-2026-01-20-5e4e1d]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: apps-integrations
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
-- First In Tracked: [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed|chatgpt-2023-03-23-86e5a9]]
+- Role: later-observed
+- First In Tracked: [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]
 - Lag Days: 1034
 - Tracked Products Count: 3
 <!-- chronolog:end -->

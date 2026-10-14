@@ -1,9 +1,20 @@
 ---
 changes_count: 3
 date: '2025-10-28'
-machine_hash: 69b8a11b3d8c8fde299171064746c5838e5d71b1ef80e14704469c4a3224c408
+machine_hash: 2713ad51ac6a93e2bcba17e087f9f01733e936a8626e8578e7f1b0b7df1c506a
 product: chatgpt
 product_name: ChatGPT
+record:
+  date: '2025-10-28'
+  product: chatgpt
+  product_name: ChatGPT
+  release_id: chatgpt-2025-10-28-chatgpt-go-now-available-in-brazil-6c8c9319
+  source_summary: 'We''re launching ChatGPT Go, our low cost subscription plan, in
+    Brazil. ChatGPT Go provides everything included in the Free plan, and:'
+  source_type: chatgpt_changelog
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-now-available-in-brazil
+  title: ChatGPT Go now available in Brazil
+  version: ChatGPT Go now available in Brazil
 release_id: chatgpt-2025-10-28-chatgpt-go-now-available-in-brazil-6c8c9319
 source_release: ChatGPT Go now available in Brazil
 source_type: chatgpt_changelog
@@ -11,6 +22,7 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ch
 tags:
 - release
 - chatgpt
+title: ChatGPT — ChatGPT Go now available in Brazil
 version: ChatGPT Go now available in Brazil
 ---
 

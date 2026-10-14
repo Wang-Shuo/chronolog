@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-04-29-we-ve-reverted-the-most-recent-update-to-gpt-4o-due-to-issues-with-overly-agreea|chatgpt-2025-04-29-59b91b]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: 593c631cd82d9b4008a3e4a94332817741b24a634e42d7dcfb05a1b61d59b1b4
+machine_hash: 7c7ccb6b03ea7d5dd4254f66aa7a4bf198f20b5adb2278b398250893aadac641
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-04-16-today-we-re-releasing-openai-o3-and-o4-mini-the-latest-in-our-o-series-of-models|chatgpt-2025-04-16-cebd09]]'
 - '[[Changes/ChatGPT/2025-04-29-we-ve-reverted-the-most-recent-update-to-gpt-4o-due-to-issues-with-overly-agreea|chatgpt-2025-04-29-59b91b]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-14-introducing-gpt-4-1-mini-replacing-gpt-4o-mini-in-chatgpt-for-al-05dfeae0|chatgpt-2025-05-14-introducing-gpt-4-1-mini-replacing-gpt-4o-mini-in-chatgpt-for-al-05dfeae0]]'
+superseded: true
 theme: model-support
 type: change
 ---

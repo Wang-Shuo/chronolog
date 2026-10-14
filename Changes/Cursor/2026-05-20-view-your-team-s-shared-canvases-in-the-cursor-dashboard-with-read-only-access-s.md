@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2026-05-20-you-can-now-share-canvases-from-cursor-with-your-team|cursor-2026-05-20-61c2bc]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 98cc55bed6b64a38888890d3441a62090aa9be9a7114b28788bc0508dd671b56
+machine_hash: a6339665d41b67e6bf272a5b346299ea7dd02688a3f32f6cf3e06bcaf7b789a5
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2026-05-20-shared-canvases|cursor-2026-05-20-496ec1]]'
 - '[[Changes/Cursor/2026-05-20-you-can-now-share-canvases-from-cursor-with-your-team|cursor-2026-05-20-61c2bc]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-20-3-5-https-cursor-com-changelog-shared-canvases-68b3b2da|cursor-2026-05-20-3-5-https-cursor-com-changelog-shared-canvases-68b3b2da]]'
+superseded: true
 theme: collaboration
 type: change
 ---

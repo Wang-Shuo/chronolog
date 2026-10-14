@@ -1,32 +1,48 @@
 ---
 changes_count: 1
 date: '2025-05-12'
-machine_hash: c0601a82bdf8f1040fa176eb027f03a01c65cc3944fae1645223eed825fed0c5
+machine_hash: 909a52f480cae2cd32f8f26a609b05663652d4c1c454d058144ff67df1fe144b
 product: chatgpt
 product_name: ChatGPT
+record:
+  date: '2025-05-12'
+  product: chatgpt
+  product_name: ChatGPT
+  release_id: chatgpt-2025-05-12-microsoft-sharepoint-and-onedrive-connector-for-deep-research-fo-f616305b
+  source_summary: 'ChatGPT deep research with SharePoint and OneDrive is available
+    globally to Team users. It is also gradually rolling out to Plus and Pro users,
+    except for those in the EEA, Switzerland, and the UK. Enterprise user access will
+    be announced at a later date.See: Connecting SharePoint and Microsoft OneDrive
+    to ChatGPT deep…'
+  source_type: chatgpt_changelog
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#microsoft-sharepoint-and-onedrive-connector-for-deep-research-for-plusproteam
+  title: Microsoft SharePoint and OneDrive connector for deep research for Plus/Pro/Team
+  version: Microsoft SharePoint and OneDrive connector for deep research for Plus/Pro/Team
 release_id: chatgpt-2025-05-12-microsoft-sharepoint-and-onedrive-connector-for-deep-research-fo-f616305b
-source_release: Microsoft Sharepoint and OneDrive connector for deep research for
+source_release: Microsoft SharePoint and OneDrive connector for deep research for
   Plus/Pro/Team
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_bf4e42247f
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#microsoft-sharepoint-and-onedrive-connector-for-deep-research-for-plusproteam
 tags:
 - release
 - chatgpt
-version: Microsoft Sharepoint and OneDrive connector for deep research for Plus/Pro/Team
+title: ChatGPT — Microsoft SharePoint and OneDrive connector for deep research for
+  Plus/Pro/Team
+version: Microsoft SharePoint and OneDrive connector for deep research for Plus/Pro/Team
 ---
 
 # ChatGPT Microsoft Sharepoint and OneDrive connector for deep research for Plus/Pro/Team
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
-ChatGPT deep research with Sharepoint and OneDrive is available globally to Team users. It is also gradually rolling out to Plus and Pro users, except for those in the EEA, Switzerland, and the UK. Enterprise user access will be announced at a later date.
+ChatGPT deep research with SharePoint and OneDrive is available globally to Team users. It is also gradually rolling out to Plus and Pro users, except for those in the EEA, Switzerland, and the UK. Enterprise user access will be announced at a later date.See: Connecting SharePoint and Microsoft OneDrive to ChatGPT deep…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_bf4e42247f)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#microsoft-sharepoint-and-onedrive-connector-for-deep-research-for-plusproteam)
 
 Tracked cards: 1
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- search-browsing: [[Changes/ChatGPT/2025-05-12-chatgpt-deep-research-with-sharepoint-and-onedrive-is-available-globally-to-team|ChatGPT deep research with Sharepoint and OneDrive is available globally to Team]]
+- search-browsing: [[Changes/ChatGPT/2025-05-12-chatgpt-deep-research-with-sharepoint-and-onedrive-is-available-globally-to-team-c5147c|ChatGPT deep research with SharePoint and OneDrive is available globally to Team]]
 <!-- chronolog:end -->

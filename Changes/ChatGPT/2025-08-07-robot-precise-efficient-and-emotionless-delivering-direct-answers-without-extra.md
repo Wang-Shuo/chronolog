@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-08-07-cynic-sarcastic-and-dry-delivers-blunt-help-with-wit-often-teases-but-provides-d|chatgpt-2025-08-07-937da7]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 2953c91c57f3015e5628511d1db4cb5e69188d5009abafb0b3df9d643db37028
+machine_hash: fc28024236e01458067a498790114840f3f62814add3019dcc8f625bb6438fd5
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-08-07-listener-warm-and-laid-back-reflecting-your-thoughts-back-with-calm-clarity-and|chatgpt-2025-08-07-89fad6]]'
 - '[[Changes/ChatGPT/2025-08-07-cynic-sarcastic-and-dry-delivers-blunt-help-with-wit-often-teases-but-provides-d|chatgpt-2025-08-07-937da7]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-07-personalities-0d95bb60|chatgpt-2025-08-07-personalities-0d95bb60]]'
+superseded: true
 theme: memory
 type: change
 ---

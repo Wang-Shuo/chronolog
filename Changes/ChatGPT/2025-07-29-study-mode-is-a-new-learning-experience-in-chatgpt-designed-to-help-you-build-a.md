@@ -12,12 +12,13 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-07-29-break-concepts-into-easy-to-follow-sections-starting-simple-and-adding-complexit|chatgpt-2025-07-29-37b667]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: 960e764026aa04250958972e40b803c138f225cf3df1a79c28252bdb7c519199
+machine_hash: 5db50c0da400c0d6e78af8a8c86c552b0a5918894fe22f7bc9d6bfa20cc6405b
 product: chatgpt
 product_name: ChatGPT
 related_changes:
 - '[[Changes/ChatGPT/2025-07-29-break-concepts-into-easy-to-follow-sections-starting-simple-and-adding-complexit|chatgpt-2025-07-29-37b667]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-07-29-study-mode-ffbfbea6|chatgpt-2025-07-29-study-mode-ffbfbea6]]'
+superseded: true
 theme: learning-tools
 type: change
 ---

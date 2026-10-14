@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2023-11-06-we-re-rolling-out-custom-versions-of-chatgpt-that-you-can-create-for-a-specific|chatgpt-2023-11-06-fb06c1]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 5d73ac659a196698c905bf6184d10c7e4537b1931adcd1281bfbe792ded29f65
+machine_hash: fab0ad2c1a1cc6b221da68d639d08d3ead5df879cbc7c644a1588212682d674c
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|cursor-2023-09-08-8ba960]]'
 - '[[Changes/ChatGPT/2023-11-06-we-re-rolling-out-custom-versions-of-chatgpt-that-you-can-create-for-a-specific|chatgpt-2023-11-06-fb06c1]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-01-10-introducing-the-gpt-store-and-chatgpt-team-plan-7f1ed4cd|chatgpt-2024-01-10-introducing-the-gpt-store-and-chatgpt-team-plan-7f1ed4cd]]'
+superseded: true
 theme: collaboration
 type: change
 ---

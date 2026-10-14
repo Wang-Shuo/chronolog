@@ -2,49 +2,77 @@
 card_id: chatgpt-2025-06-03-62a4bc
 date: '2025-06-03'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat|chatgpt-2023-07-20-4592e6]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|chatgpt-2023-07-20-37833c]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 684
-  role: variant
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: memory
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/ChatGPT/2025-06-03-free-users-in-eea-eu-uk-switzerland-norway-iceland-or-liechtenstein-will-see-a-p|chatgpt-2025-06-03-4d2e47]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 48375c389ff06b1daae5b53caef92ceeda7627dc16456b52d086e583b90186e5
+machine_hash: 6fa8ca66718093f619627ff3a2545b9ae589749455552c9fb72c2f81d07ed27d
 product: chatgpt
 product_name: ChatGPT
+record:
+  card_id: chatgpt-2025-06-03-62a4bc
+  comparison: ''
+  date: '2025-06-03'
+  description: 'ChatGPT — Memory is now more comprehensive for Free users: Outside
+    the European regions listed above, all Free users that have memory enabled will
+    receive the upgrade automatically.'
+  evidence:
+  - quote: Outside the European regions listed above, all Free users that have memory
+      enabled will receive the upgrade automatically.
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-is-now-more-comprehensive-for-free-users
+  extractor_version: fallback-v3
+  impact: incremental
+  product: chatgpt
+  product_name: ChatGPT
+  slug: outside-the-european-regions-listed-above-all-free-users-that-have-memory-enable
+  source_release: chatgpt-2025-06-03-memory-is-now-more-comprehensive-for-free-users-32de8dd3
+  source_type: chatgpt_changelog
+  theme: memory
+  title: Outside the European regions listed above, all Free users that have memory
+    enabl
+  type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-05-08-free-tier-users-have-access-to-saved-memories-only|chatgpt-2025-05-08-dd7f2f]]'
-- '[[Changes/ChatGPT/2025-06-03-memory-improvements-are-starting-to-roll-out-to-free-users-in-addition-to-the-sa|chatgpt-2025-06-03-14baea]]'
+- '[[Changes/ChatGPT/2025-05-08-enhanced-memory-rolling-out-to-all-plus-and-pro-users-including-the-eu-the-new-m|chatgpt-2025-05-08-bb9a62]]'
+- '[[Changes/ChatGPT/2025-06-03-you-can-turn-off-memory-anytime-in-settings-learn-more-in-our-memory-faq|chatgpt-2025-06-03-0a537a]]'
 - '[[Changes/ChatGPT/2025-06-03-free-users-in-eea-eu-uk-switzerland-norway-iceland-or-liechtenstein-will-see-a-p|chatgpt-2025-06-03-4d2e47]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-03-memory-is-now-more-comprehensive-for-free-users-32de8dd3|chatgpt-2025-06-03-memory-is-now-more-comprehensive-for-free-users-32de8dd3]]'
+source_type: chatgpt_changelog
 theme: memory
+title: Outside the European regions listed above, all Free users that have memory
+  enabl
 type: change
 ---
 
 # Outside the European regions listed above, all Free users that have memory enabl
 
 <!-- chronolog:begin region="description" -->
-Outside the European regions listed above, all Free users that have memory enabled will receive the upgrade automatically.
+ChatGPT — Memory is now more comprehensive for Free users: Outside the European regions listed above, all Free users that have memory enabled will receive the upgrade automatically.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Outside the European regions listed above, all Free users that have memory enabled will receive the upgrade automatically.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_252f356852
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-is-now-more-comprehensive-for-free-users
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/ChatGPT/2025-06-03-free-users-in-eea-eu-uk-switzerland-norway-iceland-or-liechtenstein-will-see-a-p|chatgpt-2025-06-03-4d2e47]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: memory
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: variant
-- First In Tracked: [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat|chatgpt-2023-07-20-4592e6]]
+- Role: later-observed
+- First In Tracked: [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|chatgpt-2023-07-20-37833c]]
 - Lag Days: 684
 - Tracked Products Count: 3
 <!-- chronolog:end -->

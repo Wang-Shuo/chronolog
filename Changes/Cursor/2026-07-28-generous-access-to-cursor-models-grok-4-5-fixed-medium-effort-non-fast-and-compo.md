@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2026-07-22-balance-strong-quality-matching-the-frontier-models-that-most-people-like-to-dai|cursor-2026-07-22-ffb740]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: a28a45ea9669f3b788a542b0c7960c4163660f7b280e19d9224a9345efa0d478
+machine_hash: fa6c81f890bed9d6ae156dcda46a3c6a7dac688312cdb71c4687a5140fd184ec
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2026-07-22-balance-strong-quality-matching-the-frontier-models-that-most-people-like-to-dai|cursor-2026-07-22-ffb740]]'
 - '[[Changes/Claude Code/2026-07-24-added-claude-opus-5-claude-opus-5-now-the-default-opus-model-1m-context-fast-mod|claude-code-2026-07-24-9e4b09]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-28-cursor-start-https-cursor-com-changelog-cursor-start-386914df|cursor-2026-07-28-cursor-start-https-cursor-com-changelog-cursor-start-386914df]]'
+superseded: true
 theme: model-support
 type: change
 ---

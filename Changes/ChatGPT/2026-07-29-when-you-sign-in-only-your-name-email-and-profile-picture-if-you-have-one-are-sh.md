@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2026-07-29-we-re-beginning-to-roll-out-sign-in-with-chatgpt-in-beta-across-select-plugins-a|chatgpt-2026-07-29-b0c690]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 02e4e5da43cc631d4661161be826e0fcdac16494c8361b6669c108ca8a70c1b4
+machine_hash: 4d6a64bf77fee6a3a5d6b7bcb80d2f556d3c820aed8879d52c61c89bad280c75
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2026-07-29-research-rarely-happens-alone-chatgpt-for-academic-researchers-gives-faculty-and|chatgpt-2026-07-29-aad3b3]]'
 - '[[Changes/ChatGPT/2026-07-29-we-re-beginning-to-roll-out-sign-in-with-chatgpt-in-beta-across-select-plugins-a|chatgpt-2026-07-29-b0c690]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-29-sign-in-with-chatgpt-beta-98094157|chatgpt-2026-07-29-sign-in-with-chatgpt-beta-98094157]]'
+superseded: true
 theme: account-access
 type: change
 ---

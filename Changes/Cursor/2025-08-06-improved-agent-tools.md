@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2025-08-06-more-agent-steerability|cursor-2025-08-06-0d276f]]'
 extractor_version: fallback-v2
 impact: paradigm-shift
-machine_hash: 18cfc7ab90ff4177b402a4169edb6a1e0883621620deca89382bf09145e289e3
+machine_hash: 55391eb8a1e6afa1273e95781de0d41582b7cc9070bba1226b80927cb166bff1
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2025-07-29-agents-can-now-use-your-native-terminal-a-new-terminal-will-be-created-when-need|cursor-2025-07-29-54a1c8]]'
 - '[[Changes/Cursor/2025-08-06-more-agent-steerability|cursor-2025-08-06-0d276f]]'
 source_release: '[[Releases/Cursor/cursor-2025-08-06-1-4-https-cursor-com-changelog-1-4-5a085889|cursor-2025-08-06-1-4-https-cursor-com-changelog-1-4-5a085889]]'
+superseded: true
 theme: agent-mode
 type: change
 ---

@@ -2,32 +2,66 @@
 card_id: cursor-2024-03-20-362eb0
 date: '2024-03-20'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|chatgpt-2023-05-24-9617fc]]'
-  lag_days: 301
-  role: follower
+  first_in_tracked: '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|cursor-2023-09-08-8ba960]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 194
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: collaboration
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|cursor-2023-09-08-8ba960]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 356e756a2c0131a35505e5a73c0d6001ae82ad74eb944e349251732c608f8068
+machine_hash: 27025dcf163945b544f4c05f8d0f1f430b767540c5c688616343aa817e3f93dc
 product: cursor
 product_name: Cursor
+record:
+  card_id: cursor-2024-03-20-362eb0
+  comparison: ''
+  date: '2024-03-20'
+  description: 'Cursor — Faster Copilot++, Claude: Admin improvements: Team admins
+    can now mark themselves as unpaid users and can see the last time team members
+    used the product.'
+  evidence:
+  - quote: 'Admin improvements: Team admins can now mark themselves as unpaid users
+      and can see the last time team members used the product.'
+    source_release: https://cursor.com/changelog/0-30-x
+  extractor_version: fallback-v3
+  impact: incremental
+  product: cursor
+  product_name: Cursor
+  slug: admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s
+  source_release: cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e
+  source_type: cursor_changelog
+  theme: collaboration
+  theme_matches:
+  - matched_terms:
+    - team
+    score: 50
+    theme: collaboration
+  - matched_terms:
+    - admins
+    score: 50
+    theme: enterprise-admin
+  theme_resolution: manual-semantic-rule-v1
+  title: 'Admin improvements: Team admins can now mark themselves as unpaid users
+    and can'
+  type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-01-10-use-chatgpt-alongside-your-team|chatgpt-2024-01-10-3068d2]]'
-- '[[Changes/ChatGPT/2024-01-10-we-re-launching-a-new-chatgpt-plan-for-teams-of-all-sizes-which-provides-a-secur|chatgpt-2024-01-10-df2f38]]'
-- '[[Changes/ChatGPT/2024-02-13-we-are-rolling-out-to-a-small-portion-of-chatgpt-free-and-plus-users-this-week-t|chatgpt-2024-02-13-3cac14]]'
+- '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|cursor-2023-09-08-8ba960]]'
 source_release: '[[Releases/Cursor/cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e|cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e]]'
+source_type: cursor_changelog
 theme: collaboration
+title: 'Admin improvements: Team admins can now mark themselves as unpaid users and
+  can'
 type: change
 ---
 
 # Admin improvements: Team admins can now mark themselves as unpaid users and can
 
 <!-- chronolog:begin region="description" -->
-Admin improvements: Team admins can now mark themselves as unpaid users and can see the last time team members used the product.
+Cursor — Faster Copilot++, Claude: Admin improvements: Team admins can now mark themselves as unpaid users and can see the last time team members used the product.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,15 +71,17 @@ Admin improvements: Team admins can now mark themselves as unpaid users and can 
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|cursor-2023-09-08-8ba960]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: collaboration
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
-- First In Tracked: [[Changes/ChatGPT/2023-05-24-shared-links|chatgpt-2023-05-24-9617fc]]
-- Lag Days: 301
+- Role: later-observed
+- First In Tracked: [[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|cursor-2023-09-08-8ba960]]
+- Lag Days: 194
 - Tracked Products Count: 3
 <!-- chronolog:end -->
 

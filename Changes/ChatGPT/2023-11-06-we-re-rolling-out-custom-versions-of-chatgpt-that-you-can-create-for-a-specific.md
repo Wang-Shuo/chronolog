@@ -12,13 +12,14 @@ evolves_from:
 - '[[Changes/ChatGPT/2023-05-24-shared-links|chatgpt-2023-05-24-9617fc]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: 87683df985661410b8bf12493be3935d3c4900ffe95b153e0240294375e3ff45
+machine_hash: f3ba7f3c765b4a17712b9f389749a591628053d4ba1bc3af1bd9d295056fc4af
 product: chatgpt
 product_name: ChatGPT
 related_changes:
 - '[[Changes/ChatGPT/2023-05-24-shared-links|chatgpt-2023-05-24-9617fc]]'
 - '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|cursor-2023-09-08-8ba960]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-11-06-introducing-gpts-3721c457|chatgpt-2023-11-06-introducing-gpts-3721c457]]'
+superseded: true
 theme: collaboration
 type: change
 ---

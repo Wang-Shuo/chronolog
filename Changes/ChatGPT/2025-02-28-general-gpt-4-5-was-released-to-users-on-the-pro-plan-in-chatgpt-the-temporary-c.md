@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2024-07-18-you-can-read-more-about-gpt-4o-mini-in-the-blog-announcement-here|chatgpt-2024-07-18-e4997a]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 14c75594f364944ecf119f1ab627b823c29bffa576e7fe5c692bf9f27fec0bb1
+machine_hash: 72c3dddcf0bf3d1dbe04ca9d7ba80de62de19a285f6a1cd295a6d8bc538382db
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2025-01-23-deepseek-models-deepseek-r1-and-deepseek-v3-are-supported-in-0-45-and-0-44-you-c|cursor-2025-01-23-36d94e]]'
 - '[[Changes/Cursor/2025-01-23-better-codebase-understanding-we-ve-trained-a-new-model-for-codebase-understandi|cursor-2025-01-23-b4d95f]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-02-28-general-gpt-4-5-was-released-to-users-on-the-pro-plan-in-chatgpt-79d54e18|chatgpt-2025-02-28-general-gpt-4-5-was-released-to-users-on-the-pro-plan-in-chatgpt-79d54e18]]'
+superseded: true
 theme: model-support
 type: change
 ---

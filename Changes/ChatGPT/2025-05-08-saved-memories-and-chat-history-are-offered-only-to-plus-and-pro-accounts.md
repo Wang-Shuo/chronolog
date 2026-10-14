@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-04-16-chatgpt-can-also-use-memories-to-inform-search-queries-when-chatgpt-searches-the|chatgpt-2025-04-16-c95e51]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: d5d692580142490f6fe5b061a3a4718224c9a48bf18eba19ea473ea95d631731
+machine_hash: 0a1a0df5855b631270a9e6c1220bfc1bc7b03f43012175e631bde62472c27d47
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2025-02-19-crashes-enhanced-stability-through-memory-and-performance-improvements-with-addi|cursor-2025-02-19-b95ba8]]'
 - '[[Changes/ChatGPT/2025-04-16-chatgpt-can-also-use-memories-to-inform-search-queries-when-chatgpt-searches-the|chatgpt-2025-04-16-c95e51]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-08-enhanced-memory-in-chatgpt-including-eu-on-plus-pro-b6107d35|chatgpt-2025-05-08-enhanced-memory-in-chatgpt-including-eu-on-plus-pro-b6107d35]]'
+superseded: true
 theme: memory
 type: change
 ---

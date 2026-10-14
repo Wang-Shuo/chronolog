@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2026-06-05-multi-select-elements|cursor-2026-06-05-89cf24]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 2b1a4f33b0b7b03064b8df591aef1d74e22db09f8e54aa661cf23d9ea79d1754
+machine_hash: 4ef1013fec8b50c50181a94cd1c38372034318845841b347472a2578459b111e
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Claude Code/2026-06-26-added-claude-code-disable-mouse-clicks-to-disable-mouse-click-drag-hover-in-full|claude-code-2026-06-26-0f04df]]'
 - '[[Changes/Claude Code/2026-07-03-changed-askuserquestion-dialogs-to-no-longer-auto-continue-by-default-opt-into-a|claude-code-2026-07-03-53ba6a]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-10-3-11-https-cursor-com-changelog-side-chat-c762410d|cursor-2026-07-10-3-11-https-cursor-com-changelog-side-chat-c762410d]]'
+superseded: true
 theme: interface-experience
 type: change
 ---

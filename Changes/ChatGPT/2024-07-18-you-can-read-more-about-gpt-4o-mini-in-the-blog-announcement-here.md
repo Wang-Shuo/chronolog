@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2024-07-18-we-re-introducing-gpt-4o-mini-the-most-capable-and-cost-efficient-small-model-av|chatgpt-2024-07-18-2802b8]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: a9a00639e7819497c2d943c0db49fa1492f17f784a28df1502cf28d19f575735
+machine_hash: 3b85d309e6460d6cbed63fe8c21fe70f1bcad7be5fd971a3d0fc0b89a0559c69
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2024-06-08-update-0-35-1-disables-copilot-partial-accepts-by-default-and-makes-the-keybindi|cursor-2024-06-08-551198]]'
 - '[[Changes/ChatGPT/2024-07-18-we-re-introducing-gpt-4o-mini-the-most-capable-and-cost-efficient-small-model-av|chatgpt-2024-07-18-2802b8]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-07-18-introducing-gpt-4o-mini-e0bf3077|chatgpt-2024-07-18-introducing-gpt-4o-mini-e0bf3077]]'
+superseded: true
 theme: model-support
 type: change
 ---

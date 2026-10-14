@@ -2,32 +2,59 @@
 card_id: chatgpt-2025-10-23-52a8ca
 date: '2025-10-23'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|chatgpt-2023-05-24-9617fc]]'
-  lag_days: 883
-  role: variant
+  first_in_tracked: '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|cursor-2023-09-08-8ba960]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 776
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: collaboration
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/ChatGPT/2025-08-11-plus-box-canva-dropbox-hubspot-notion-microsoft-sharepoint-and-microsoft-teams|chatgpt-2025-08-11-5966c6]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: f5c8343533fd302709fae50e5fecd591abc717569c8871c89aa3fa0cba695cac
+machine_hash: f17deb9640a3ecf802a9804d540647735e566bd3458d5d91079903f45d8d173b
 product: chatgpt
 product_name: ChatGPT
+record:
+  card_id: chatgpt-2025-10-23-52a8ca
+  comparison: ''
+  date: '2025-10-23'
+  description: 'ChatGPT — Shared projects: Content creation: Apply project-specific
+    instructions to keep tone and style consistent across contributors.'
+  evidence:
+  - quote: 'Content creation: Apply project-specific instructions to keep tone and
+      style consistent across contributors.'
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#shared-projects
+  extractor_version: fallback-v3
+  impact: incremental
+  product: chatgpt
+  product_name: ChatGPT
+  slug: content-creation-apply-project-specific-instructions-to-keep-tone-and-style-cons
+  source_release: chatgpt-2025-10-23-shared-projects-217fa07d
+  source_type: chatgpt_changelog
+  theme: collaboration
+  theme_matches: []
+  theme_resolution: manual-backfill-review-v1
+  title: 'Content creation: Apply project-specific instructions to keep tone and style
+    con'
+  type: change
 related_changes:
-- '[[Changes/Cursor/2025-06-12-use-cursor-where-your-team-works|cursor-2025-06-12-503cc5]]'
+- '[[Changes/ChatGPT/2025-06-12-starting-today-we-re-adding-several-updates-to-projects-in-chatgpt-to-help-you-d|chatgpt-2025-06-12-a56e91]]'
 - '[[Changes/ChatGPT/2025-08-11-pro-microsoft-teams-and-github|chatgpt-2025-08-11-196b01]]'
 - '[[Changes/ChatGPT/2025-08-11-plus-box-canva-dropbox-hubspot-notion-microsoft-sharepoint-and-microsoft-teams|chatgpt-2025-08-11-5966c6]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-23-shared-projects-217fa07d|chatgpt-2025-10-23-shared-projects-217fa07d]]'
+source_type: chatgpt_changelog
 theme: collaboration
+title: 'Content creation: Apply project-specific instructions to keep tone and style
+  con'
 type: change
 ---
 
 # Content creation: Apply project-specific instructions to keep tone and style con
 
 <!-- chronolog:begin region="description" -->
-Content creation: Apply project-specific instructions to keep tone and style consistent across contributors.
+ChatGPT — Shared projects: Content creation: Apply project-specific instructions to keep tone and style consistent across contributors.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,15 +64,17 @@ Content creation: Apply project-specific instructions to keep tone and style con
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/ChatGPT/2025-08-11-plus-box-canva-dropbox-hubspot-notion-microsoft-sharepoint-and-microsoft-teams|chatgpt-2025-08-11-5966c6]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: collaboration
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: variant
-- First In Tracked: [[Changes/ChatGPT/2023-05-24-shared-links|chatgpt-2023-05-24-9617fc]]
-- Lag Days: 883
+- Role: later-observed
+- First In Tracked: [[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|cursor-2023-09-08-8ba960]]
+- Lag Days: 776
 - Tracked Products Count: 3
 <!-- chronolog:end -->
 

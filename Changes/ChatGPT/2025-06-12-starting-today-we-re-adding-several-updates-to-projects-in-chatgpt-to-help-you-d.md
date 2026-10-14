@@ -2,50 +2,79 @@
 card_id: chatgpt-2025-06-12-a56e91
 date: '2025-06-12'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|chatgpt-2023-05-24-9617fc]]'
-  lag_days: 750
-  role: variant
+  first_in_tracked: '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|cursor-2023-09-08-8ba960]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 643
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: collaboration
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/ChatGPT/2025-06-12-sharing-chats-from-projects|chatgpt-2025-06-12-1db390]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: feaeb37474ae53daa97964f387c6256cfc9bd82d01ee39ea5e960ca1b83f5281
+machine_hash: a54a212189c6c78f9168c40f41c9b81f2a5b8c95b7c2a873ad1d56a42bf48303
 product: chatgpt
 product_name: ChatGPT
+record:
+  card_id: chatgpt-2025-06-12-a56e91
+  comparison: ''
+  date: '2025-06-12'
+  description: 'ChatGPT — Adding More Capabilities to Projects: Starting today, we’re
+    adding several updates to projects in ChatGPT to help you do more focused work.
+    These updates are available for Plus, Pro, and Team users.'
+  evidence:
+  - quote: Starting today, we’re adding several updates to projects in ChatGPT to
+      help you do more focused work. These updates are available for Plus, Pro, and
+      Team users.
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#adding-more-capabilities-to-projects
+  extractor_version: fallback-v3
+  impact: incremental
+  product: chatgpt
+  product_name: ChatGPT
+  slug: starting-today-we-re-adding-several-updates-to-projects-in-chatgpt-to-help-you-d
+  source_release: chatgpt-2025-06-12-adding-more-capabilities-to-projects-a384b6f8
+  source_type: chatgpt_changelog
+  theme: collaboration
+  title: Starting today, we’re adding several updates to projects in ChatGPT to help
+    you
+  type: change
 related_changes:
 - '[[Changes/Cursor/2025-03-23-improved-indexing-performance-for-teams-sharing-codebases|cursor-2025-03-23-3b6996]]'
 - '[[Changes/Cursor/2025-03-23-enhanced-visibility-of-auto-run-controls-configured-by-team-admins-clarifying-wh|cursor-2025-03-23-6fd38a]]'
 - '[[Changes/ChatGPT/2025-06-12-sharing-chats-from-projects|chatgpt-2025-06-12-1db390]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-12-adding-more-capabilities-to-projects-a384b6f8|chatgpt-2025-06-12-adding-more-capabilities-to-projects-a384b6f8]]'
+source_type: chatgpt_changelog
 theme: collaboration
+title: Starting today, we’re adding several updates to projects in ChatGPT to help
+  you
 type: change
 ---
 
 # Starting today, we’re adding several updates to projects in ChatGPT to help you
 
 <!-- chronolog:begin region="description" -->
-Starting today, we’re adding several updates to projects in ChatGPT to help you do more focused work. These updates are available for Plus, Pro, and Team users.
+ChatGPT — Adding More Capabilities to Projects: Starting today, we’re adding several updates to projects in ChatGPT to help you do more focused work. These updates are available for Plus, Pro, and Team users.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Starting today, we’re adding several updates to projects in ChatGPT to help you do more focused work. These updates are available for Plus, Pro, and Team users.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_4c7f139c2c
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#adding-more-capabilities-to-projects
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/ChatGPT/2025-06-12-sharing-chats-from-projects|chatgpt-2025-06-12-1db390]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: collaboration
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: variant
-- First In Tracked: [[Changes/ChatGPT/2023-05-24-shared-links|chatgpt-2023-05-24-9617fc]]
-- Lag Days: 750
+- Role: later-observed
+- First In Tracked: [[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|cursor-2023-09-08-8ba960]]
+- Lag Days: 643
 - Tracked Products Count: 3
 <!-- chronolog:end -->
 

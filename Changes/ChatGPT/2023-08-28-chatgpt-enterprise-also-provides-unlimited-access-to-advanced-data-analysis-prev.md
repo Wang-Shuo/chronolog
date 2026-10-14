@@ -11,12 +11,13 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 9529ffe143ecd697fa5279be97ff8404641b1c481ae8e5346ade982afca0ff2a
+machine_hash: 4fcdd5b9ff736ddaf780330f1aaaefd07fccf9ba9b3cb0b197a1e12ae1fe07e5
 product: chatgpt
 product_name: ChatGPT
 related_changes:
 - '[[Changes/Cursor/2023-07-27-enterprise-support|cursor-2023-07-27-4d0704]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-08-28-introducing-chatgpt-enterprise-eb7127e6|chatgpt-2023-08-28-introducing-chatgpt-enterprise-eb7127e6]]'
+superseded: true
 theme: enterprise-admin
 type: change
 ---

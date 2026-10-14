@@ -26,45 +26,9 @@ def analyze_products(cards: list[dict[str, Any]]) -> dict[str, Any]:
         theme_counts = Counter(card["theme"] for card in ordered)
         baseline = round(len(ordered) / max(len(releases), 1), 2)
 
-        cards_by_release: dict[str, list[dict[str, Any]]] = defaultdict(list)
-        for card in ordered:
-            cards_by_release[card["source_release"]].append(card)
-        release_groups = sorted(
-            cards_by_release.values(),
-            key=lambda group: (group[0]["date"], group[0]["source_release"]),
-        )
-        midpoint = max(len(release_groups) // 2, 1)
-        era_groups = (
-            [
-                [card for release in release_groups[:midpoint] for card in release],
-                [card for release in release_groups[midpoint:] for card in release],
-            ]
-            if len(release_groups) >= 2
-            else [ordered]
-        )
+        # Chronology alone is not evidence of capability evolution. Product
+        # narratives are curated separately with cited turning points.
         eras = []
-        for index, era_cards in enumerate(era_groups, start=1):
-            dominant = Counter(card["theme"] for card in era_cards).most_common(1)[0][0]
-            eras.append(
-                {
-                    "name": f"{dominant.replace('-', ' ').title()} Era",
-                    "from": era_cards[0]["date"],
-                    "to": era_cards[-1]["date"] if index < len(era_groups) else None,
-                    "summary": (
-                        f"{product} focused on {dominant} across "
-                        f"{len(era_cards)} tracked changes."
-                    ),
-                    "dominant_theme": dominant,
-                    "data_sparse": len(release_groups) < 3,
-                }
-            )
-
-        previous_by_theme: dict[str, str] = {}
-        for card in ordered:
-            previous = previous_by_theme.get(card["theme"])
-            if previous:
-                evolves_from[card["card_id"]] = [previous]
-            previous_by_theme[card["theme"]] = card["card_id"]
 
         products[product] = {
             "product_name": ordered[0]["product_name"],

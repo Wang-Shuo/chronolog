@@ -3,31 +3,58 @@ card_id: claude-code-2026-02-24-b4a332
 date: '2026-02-24'
 diffusion:
   first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|cursor-2023-04-16-f0e22a]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1045
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Claude Code/2026-02-19-permission-suggestions-are-now-populated-when-safety-checks-trigger-an-ask-respo|claude-code-2026-02-19-e3327d]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 36d98f210c5b814ffa8f7eb4da4d7d7a872c1f745efc3dc7533622209e3bb9c7
+machine_hash: 90b536b33f1f73b6de5e587aac76c7ea24a7a5dd20a831927bb785a07681dc29
 product: claude-code
 product_name: Claude Code
+record:
+  card_id: claude-code-2026-02-24-b4a332
+  comparison: ''
+  date: '2026-02-24'
+  description: 'Claude Code — v2.1.51: Fixed a security issue where `statusLine` and
+    `fileSuggestion` hook commands could execute without workspace trust acceptance
+    in interactive mode.'
+  evidence:
+  - quote: Fixed a security issue where `statusLine` and `fileSuggestion` hook commands
+      could execute without workspace trust acceptance in interactive mode.
+    source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.51
+  extractor_version: fallback-v3
+  impact: incremental
+  product: claude-code
+  product_name: Claude Code
+  slug: fixed-a-security-issue-where-statusline-and-filesuggestion-hook-commands-could-e
+  source_release: claude-code-2026-02-24-v2-1-51-github-289665343-b4bbdd9c
+  source_type: github_releases
+  theme: safety-privacy
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v2
+  title: Fixed a security issue where `statusLine` and `fileSuggestion` hook commands
+    cou
+  type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-10-fixed-bash-permission-matching-for-commands-using-environment-variable-wrappers|claude-code-2026-02-10-bb3bbc]]'
 - '[[Changes/Claude Code/2026-02-13-fixed-permission-wait-time-being-included-in-subagent-elapsed-time-display|claude-code-2026-02-13-b41cef]]'
+- '[[Changes/Cursor/2026-02-17-the-sandbox-now-supports-granular-network-access-controls-as-well-as-controls-fo|cursor-2026-02-17-d49ecd]]'
 - '[[Changes/Claude Code/2026-02-19-permission-suggestions-are-now-populated-when-safety-checks-trigger-an-ask-respo|claude-code-2026-02-19-e3327d]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-24-v2-1-51-github-289665343-b4bbdd9c|claude-code-2026-02-24-v2-1-51-github-289665343-b4bbdd9c]]'
+source_type: github_releases
 theme: safety-privacy
+title: Fixed a security issue where statusLine and fileSuggestion hook commands cou
 type: change
 ---
 
 # Fixed a security issue where `statusLine` and `fileSuggestion` hook commands cou
 
 <!-- chronolog:begin region="description" -->
-Fixed a security issue where `statusLine` and `fileSuggestion` hook commands could execute without workspace trust acceptance in interactive mode.
+Claude Code — v2.1.51: Fixed a security issue where `statusLine` and `fileSuggestion` hook commands could execute without workspace trust acceptance in interactive mode.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +64,15 @@ Fixed a security issue where `statusLine` and `fileSuggestion` hook commands cou
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Claude Code/2026-02-19-permission-suggestions-are-now-populated-when-safety-checks-trigger-an-ask-respo|claude-code-2026-02-19-e3327d]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: safety-privacy
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
+- Role: later-observed
 - First In Tracked: [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|cursor-2023-04-16-f0e22a]]
 - Lag Days: 1045
 - Tracked Products Count: 3

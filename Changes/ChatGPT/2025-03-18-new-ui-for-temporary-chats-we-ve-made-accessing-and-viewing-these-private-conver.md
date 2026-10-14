@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-03-18-more-clear-and-private-incognito-keyboard-for-temporary-chats|chatgpt-2025-03-18-493059]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: 21797534ab4db35b9307a5047a1bc2a73d968bce3289f4a54a0dc4bb199eb274
+machine_hash: 5b3db893a7e4f47b76925aec2a2bfa0bf93908b41737d45da3a648911babd298
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2024-09-17-this-update-fixes-the-following-security-issue-cve-2024-45599|cursor-2024-09-17-98704c]]'
 - '[[Changes/ChatGPT/2025-03-18-more-clear-and-private-incognito-keyboard-for-temporary-chats|chatgpt-2025-03-18-493059]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-03-18-web-and-the-windows-desktop-app-ef646255|chatgpt-2025-03-18-web-and-the-windows-desktop-app-ef646255]]'
+superseded: true
 theme: safety-privacy
 type: change
 ---

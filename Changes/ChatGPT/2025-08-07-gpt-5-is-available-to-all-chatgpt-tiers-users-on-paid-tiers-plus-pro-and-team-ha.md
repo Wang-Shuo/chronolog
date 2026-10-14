@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-08-07-gpt-5-in-chatgpt-is-our-next-flagship-model-and-the-new-default-for-all-logged-i|chatgpt-2025-08-07-036124]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: c2108390fa1d379459323cd5a3dc99a3faa971d161385012a1f35276f75aa46f
+machine_hash: 6dd10ce0aa3c8cb69d53c3d4834dc69a0f6dc6590420dfb0473e19525159c1e2
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-06-16-gpts-with-custom-actions-currently-support-gpt-4o-and-4-1|chatgpt-2025-06-16-7f1646]]'
 - '[[Changes/ChatGPT/2025-08-07-gpt-5-in-chatgpt-is-our-next-flagship-model-and-the-new-default-for-all-logged-i|chatgpt-2025-08-07-036124]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-07-gpt-5-a50b91bc|chatgpt-2025-08-07-gpt-5-a50b91bc]]'
+superseded: true
 theme: model-support
 type: change
 ---

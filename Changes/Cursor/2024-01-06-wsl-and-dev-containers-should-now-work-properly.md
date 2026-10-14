@@ -3,31 +3,53 @@ card_id: cursor-2024-01-06-3c3785
 date: '2024-01-06'
 diffusion:
   first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|cursor-2023-03-18-76a713]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 294
-  role: variant
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Cursor/2023-10-20-also-there-s-an-experimental-bash-mode-enable-it-in-the-settings-and-let-the-cha|cursor-2023-10-20-c108a2]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 0bf0231ee7edd9b829fa5ef5f4bbadde6ab2571963e593404ba8b3ad6f421713
+machine_hash: 60ede5d84230e465d05607df7254030273ea38676bdad108a4de53eed7952fc3
 product: cursor
 product_name: Cursor
+record:
+  card_id: cursor-2024-01-06-3c3785
+  comparison: ''
+  date: '2024-01-06'
+  description: 'Cursor — Better Remote Support: WSL and Dev Containers should now
+    work properly.'
+  evidence:
+  - quote: WSL and Dev Containers should now work properly.
+    source_release: https://cursor.com/changelog/0-21-6-nightly
+  extractor_version: fallback-v3
+  impact: incremental
+  product: cursor
+  product_name: Cursor
+  slug: wsl-and-dev-containers-should-now-work-properly
+  source_release: cursor-2024-01-06-0-21-6-nightly-https-cursor-com-changelog-0-21-6-nightly-197640be
+  source_type: cursor_changelog
+  theme: developer-workflow
+  title: WSL and Dev Containers should now work properly.
+  type: change
 related_changes:
 - '[[Changes/Cursor/2023-09-23-never-lets-your-root-directory-be-in-the-gitignore|cursor-2023-09-23-9b8c15]]'
 - '[[Changes/Cursor/2023-10-01-ask-about-git-commits-and-prs-using-git-in-chat|cursor-2023-10-01-3b67a3]]'
 - '[[Changes/Cursor/2023-10-20-also-there-s-an-experimental-bash-mode-enable-it-in-the-settings-and-let-the-cha|cursor-2023-10-20-c108a2]]'
 source_release: '[[Releases/Cursor/cursor-2024-01-06-0-21-6-nightly-https-cursor-com-changelog-0-21-6-nightly-197640be|cursor-2024-01-06-0-21-6-nightly-https-cursor-com-changelog-0-21-6-nightly-197640be]]'
+source_type: cursor_changelog
 theme: developer-workflow
+title: WSL and Dev Containers should now work properly.
 type: change
 ---
 
 # WSL and Dev Containers should now work properly.
 
 <!-- chronolog:begin region="description" -->
-WSL and Dev Containers should now work properly.
+Cursor — Better Remote Support: WSL and Dev Containers should now work properly.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +59,15 @@ WSL and Dev Containers should now work properly.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Cursor/2023-10-20-also-there-s-an-experimental-bash-mode-enable-it-in-the-settings-and-let-the-cha|cursor-2023-10-20-c108a2]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: developer-workflow
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: variant
+- Role: later-observed
 - First In Tracked: [[Changes/Cursor/2023-03-18-built-in-terminal|cursor-2023-03-18-76a713]]
 - Lag Days: 294
 - Tracked Products Count: 3

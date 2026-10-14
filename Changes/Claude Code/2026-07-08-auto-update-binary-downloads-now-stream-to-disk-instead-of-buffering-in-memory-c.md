@@ -3,31 +3,57 @@ card_id: claude-code-2026-07-08-bf6c5c
 date: '2026-07-08'
 diffusion:
   first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|chatgpt-2022-12-15-9c6f9c]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1301
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Claude Code/2026-07-07-improved-responsiveness-while-long-responses-stream-live-preview-updates-no-long|claude-code-2026-07-07-8a4dff]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 303a512ec90577a22f317cbdf67e97b7d4ad2a0ba3011018921d28a68df70835
+machine_hash: 2c149bea5d93bd426e375e0bda7d68dc169a21a01e655e59541bcfa84131fc10
 product: claude-code
 product_name: Claude Code
+record:
+  card_id: claude-code-2026-07-08-bf6c5c
+  comparison: ''
+  date: '2026-07-08'
+  description: 'Claude Code — v2.1.205: Auto-update binary downloads now stream to
+    disk instead of buffering in memory, cutting the updater''s peak memory usage
+    by roughly 400 MB'
+  evidence:
+  - quote: Auto-update binary downloads now stream to disk instead of buffering in
+      memory, cutting the updater's peak memory usage by roughly 400 MB
+    source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.205
+  extractor_version: fallback-v3
+  impact: incremental
+  product: claude-code
+  product_name: Claude Code
+  slug: auto-update-binary-downloads-now-stream-to-disk-instead-of-buffering-in-memory-c
+  source_release: claude-code-2026-07-08-v2-1-205-github-351140412-aeced5ba
+  source_type: github_releases
+  theme: reliability-performance
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v2
+  title: Auto-update binary downloads now stream to disk instead of buffering in memory,
+  type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-02-claude-code-retry-watchdog-now-raises-the-default-retry-count-for-non-capacity-t|claude-code-2026-07-02-ebe592]]'
 - '[[Changes/Claude Code/2026-07-03-improved-the-install-script-to-explain-when-installation-is-killed-by-the-system|claude-code-2026-07-03-39f603]]'
 - '[[Changes/Claude Code/2026-07-07-improved-responsiveness-while-long-responses-stream-live-preview-updates-no-long|claude-code-2026-07-07-8a4dff]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-08-v2-1-205-github-351140412-aeced5ba|claude-code-2026-07-08-v2-1-205-github-351140412-aeced5ba]]'
+source_type: github_releases
 theme: reliability-performance
+title: Auto-update binary downloads now stream to disk instead of buffering in memory,
 type: change
 ---
 
 # Auto-update binary downloads now stream to disk instead of buffering in memory,
 
 <!-- chronolog:begin region="description" -->
-Auto-update binary downloads now stream to disk instead of buffering in memory, cutting the updater's peak memory usage by roughly 400 MB
+Claude Code — v2.1.205: Auto-update binary downloads now stream to disk instead of buffering in memory, cutting the updater's peak memory usage by roughly 400 MB
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +63,15 @@ Auto-update binary downloads now stream to disk instead of buffering in memory, 
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Claude Code/2026-07-07-improved-responsiveness-while-long-responses-stream-live-preview-updates-no-long|claude-code-2026-07-07-8a4dff]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: reliability-performance
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
+- Role: later-observed
 - First In Tracked: [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|chatgpt-2022-12-15-9c6f9c]]
 - Lag Days: 1301
 - Tracked Products Count: 3

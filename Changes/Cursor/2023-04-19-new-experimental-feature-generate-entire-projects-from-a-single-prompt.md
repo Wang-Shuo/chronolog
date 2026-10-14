@@ -3,28 +3,55 @@ card_id: cursor-2023-04-19-416e9a
 date: '2023-04-19'
 diffusion:
   first_in_tracked: '[[Changes/ChatGPT/2022-12-15-conversation-history-you-ll-soon-be-able-to-view-past-conversations-with-chatgpt|chatgpt-2022-12-15-23a232]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 125
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v2
+extractor_version: fallback-v3
 impact: significant
-machine_hash: 5be49b41f6bbcbc961766060f797ca39da08c218c8c88ed59a3b2331d74fa303
+machine_hash: 4cca3dbcb203e5b6e95eabed628a5076a44b05ce7516ad1d8efccab2d2b4ff35
 product: cursor
 product_name: Cursor
+record:
+  ai_generated: true
+  card_id: cursor-2023-04-19-416e9a
+  comparison: ''
+  confidence: low
+  date: '2023-04-19'
+  description: 'Cursor — GPT-4 & Project Generation (2023-04-19): New experimental
+    feature: Generate entire projects from a single prompt'
+  evidence:
+  - quote: 'New experimental feature: Generate entire projects from a single prompt'
+    source_release: https://cursor.com/changelog/0-2-6
+  extractor_version: fallback-v3
+  impact: significant
+  product: cursor
+  product_name: Cursor
+  slug: new-experimental-feature-generate-entire-projects-from-a-single-prompt
+  source_release: cursor-2023-04-19-0-2-6-https-cursor-com-changelog-0-2-6-a339bef2
+  source_type: cursor_changelog
+  theme: projects-workspaces
+  theme_matches: []
+  theme_resolution: manual-backfill-review-v1
+  title: 'New experimental feature: Generate entire projects from a single prompt'
+  type: change
 related_changes:
 - '[[Changes/ChatGPT/2022-12-15-conversation-history-you-ll-soon-be-able-to-view-past-conversations-with-chatgpt|chatgpt-2022-12-15-23a232]]'
 source_release: '[[Releases/Cursor/cursor-2023-04-19-0-2-6-https-cursor-com-changelog-0-2-6-a339bef2|cursor-2023-04-19-0-2-6-https-cursor-com-changelog-0-2-6-a339bef2]]'
+source_type: cursor_changelog
 theme: projects-workspaces
+title: 'New experimental feature: Generate entire projects from a single prompt'
 type: change
 ---
 
 # New experimental feature: Generate entire projects from a single prompt
 
 <!-- chronolog:begin region="description" -->
-New experimental feature: Generate entire projects from a single prompt
+Cursor — GPT-4 & Project Generation (2023-04-19): New experimental feature: Generate entire projects from a single prompt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -34,13 +61,15 @@ New experimental feature: Generate entire projects from a single prompt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-No prior tracked change.
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: projects-workspaces
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
+- Role: later-observed
 - First In Tracked: [[Changes/ChatGPT/2022-12-15-conversation-history-you-ll-soon-be-able-to-view-past-conversations-with-chatgpt|chatgpt-2022-12-15-23a232]]
 - Lag Days: 125
 - Tracked Products Count: 3

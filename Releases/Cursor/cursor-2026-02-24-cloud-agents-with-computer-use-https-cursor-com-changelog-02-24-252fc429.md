@@ -1,9 +1,20 @@
 ---
 changes_count: 4
 date: '2026-02-24'
-machine_hash: 6630c59c54fcf267a6cc006fe2bb48909bbdb0398375b698e3fcaeb906616f82
+machine_hash: 1ddc8d1feac39cd4af506a742d9db27896e73f10dfaf9341df05fcb42f07dc05
 product: cursor
 product_name: Cursor
+record:
+  date: '2026-02-24'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2026-02-24-cloud-agents-with-computer-use-https-cursor-com-changelog-02-24-252fc429
+  source_summary: Cloud agents can now use the software they create to test changes
+    and demo their work.
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/02-24-26
+  title: Cloud Agents with Computer Use
+  version: Cloud Agents with Computer Use
 release_id: cursor-2026-02-24-cloud-agents-with-computer-use-https-cursor-com-changelog-02-24-252fc429
 source_release: Cloud Agents with Computer Use
 source_type: cursor_changelog
@@ -11,6 +22,7 @@ source_url: https://cursor.com/changelog/02-24-26
 tags:
 - release
 - cursor
+title: Cursor — Cloud Agents with Computer Use
 version: Cloud Agents with Computer Use
 ---
 

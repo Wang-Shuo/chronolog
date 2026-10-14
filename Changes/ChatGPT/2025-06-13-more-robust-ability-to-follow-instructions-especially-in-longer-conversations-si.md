@@ -3,47 +3,75 @@ card_id: chatgpt-2025-06-13-147d5c
 date: '2025-06-13'
 diffusion:
   first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|chatgpt-2022-12-15-9c6f9c]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 911
-  role: variant
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/ChatGPT/2025-03-18-improved-display-and-faster-streaming-of-conversations-and-message-menu-actions|chatgpt-2025-03-18-d84098]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 618451c05a4918a1626ec2900e5f9d51142a7f28fe2d64501667b61812ba7672
+machine_hash: 71226e635f736ce41dacc52f0e074fd38c0fd2b53e4bb1ce69af88a84b682a06
 product: chatgpt
 product_name: ChatGPT
+record:
+  card_id: chatgpt-2025-06-13-147d5c
+  comparison: ''
+  date: '2025-06-13'
+  description: 'ChatGPT — Improvements to the ChatGPT search response quality: More
+    robust ability to follow instructions, especially in longer conversations, significantly
+    reducing repetitive responses.'
+  evidence:
+  - quote: More robust ability to follow instructions, especially in longer conversations,
+      significantly reducing repetitive responses.
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-the-chatgpt-search-response-quality
+  extractor_version: fallback-v3
+  impact: incremental
+  product: chatgpt
+  product_name: ChatGPT
+  slug: more-robust-ability-to-follow-instructions-especially-in-longer-conversations-si
+  source_release: chatgpt-2025-06-13-improvements-to-the-chatgpt-search-response-quality-2791e464
+  source_type: chatgpt_changelog
+  theme: reliability-performance
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v1
+  title: More robust ability to follow instructions, especially in longer conversations,
+  type: change
 related_changes:
 - '[[Changes/Cursor/2025-03-11-0-47-6-faster-applies-warns-user-when-edits-fails-because-of-cursorignore|cursor-2025-03-11-e25337]]'
-- '[[Changes/ChatGPT/2025-03-18-in-line-message-error-retries-if-you-encounter-a-message-error-you-can-retry-or|chatgpt-2025-03-18-3efd26]]'
-- '[[Changes/ChatGPT/2025-03-18-improved-display-and-faster-streaming-of-conversations-and-message-menu-actions|chatgpt-2025-03-18-d84098]]'
+- '[[Changes/ChatGPT/2025-03-18-4-improved-display-and-faster-streaming-of-conversations-and-message-menu-action|chatgpt-2025-03-18-d5c139]]'
+- '[[Changes/ChatGPT/2025-05-08-outside-the-european-regions-listed-above-all-plus-and-pro-accounts-that-have-me-507581|chatgpt-2025-05-08-507581]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-13-improvements-to-the-chatgpt-search-response-quality-2791e464|chatgpt-2025-06-13-improvements-to-the-chatgpt-search-response-quality-2791e464]]'
+source_type: chatgpt_changelog
 theme: reliability-performance
+title: More robust ability to follow instructions, especially in longer conversations,
 type: change
 ---
 
 # More robust ability to follow instructions, especially in longer conversations,
 
 <!-- chronolog:begin region="description" -->
-More robust ability to follow instructions, especially in longer conversations, significantly reducing repetitive responses.
+ChatGPT — Improvements to the ChatGPT search response quality: More robust ability to follow instructions, especially in longer conversations, significantly reducing repetitive responses.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > More robust ability to follow instructions, especially in longer conversations, significantly reducing repetitive responses.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_ad67f97a87
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-the-chatgpt-search-response-quality
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/ChatGPT/2025-03-18-improved-display-and-faster-streaming-of-conversations-and-message-menu-actions|chatgpt-2025-03-18-d84098]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: reliability-performance
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: variant
+- Role: later-observed
 - First In Tracked: [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|chatgpt-2022-12-15-9c6f9c]]
 - Lag Days: 911
 - Tracked Products Count: 3

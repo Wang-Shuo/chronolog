@@ -1,0 +1,24 @@
+# Codex semantic review, 2026-10-13. Human acceptance remains a separate gate.
+# Stable evidence IDs; see tests/golden/m2/cards.json for before/after reasons.
+decisions:
+  chatgpt-2025-01-15-b9d2e0: skip
+  chatgpt-2026-08-21-9fd387: interface-experience
+  chatgpt-2026-10-07-a7a761: model-support
+  chatgpt-2026-06-04-88660d: safety-privacy
+  chatgpt-2026-03-24-93a63f: search-browsing
+  chatgpt-2025-09-29-6b8b01: skip
+  claude-code-2026-02-24-30f423: developer-workflow
+  claude-code-2026-03-25-502a32: safety-privacy
+  claude-code-2026-08-08-b44230: interface-experience
+  claude-code-2026-08-25-a69932: safety-privacy
+  claude-code-2026-10-09-bc35b4: context-window
+  cursor-2023-04-19-66f3f5: pricing-model
+  cursor-2023-07-27-4d0704: skip
+  cursor-2024-01-03-7e1934: editor-experience
+  cursor-2024-03-20-8c6212: interface-experience
+  cursor-2024-08-22-65c952: interface-experience
+  cursor-2025-07-03-bac341: agent-mode
+  cursor-2026-03-25-8c41d9: skip
+  cursor-2026-08-03-281f44: apps-integrations
+  cursor-2026-10-06-ce6f11: skip
+  chatgpt-2026-07-09-81aed6: artifact-creation

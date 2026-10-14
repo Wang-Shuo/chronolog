@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2023-02-09-default-the-standard-chatgpt-model|chatgpt-2023-02-09-6b7506]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: ac78363b2eca2ecfd6d4bae3bc30646c16649a264bde301ae8dec6cfbb25e6c3
+machine_hash: 96e24f660fc3ff7ee9bca8b83db00a0e4b76275c1162b1b822763287815fb1da
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2023-01-30-we-ve-upgraded-the-chatgpt-model-with-improved-factuality-and-mathematical-capab|chatgpt-2023-01-30-2d26b7]]'
 - '[[Changes/ChatGPT/2023-02-09-default-the-standard-chatgpt-model|chatgpt-2023-02-09-6b7506]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-02-09-introducing-chatgpt-plus-380a3524|chatgpt-2023-02-09-introducing-chatgpt-plus-380a3524]]'
+superseded: true
 theme: model-support
 type: change
 ---

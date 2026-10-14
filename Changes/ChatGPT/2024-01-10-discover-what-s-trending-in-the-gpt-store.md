@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2024-01-10-explore-gpts-at-chatgpt-com-gpts|chatgpt-2024-01-10-50deb9]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 91ff35ae732a92a6e17755eb8f4b64ad63f291f3eb873a8975de1b3e475064a8
+machine_hash: fccd6b1cfbe6ddaeae3919c83b1829cd94ede1c143abe4503c62caea6a8cc2f4
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2023-12-16-copilot-we-ve-continued-to-improve-the-copilot-ghost-text-experience-surprisingl|cursor-2023-12-16-75e90f]]'
 - '[[Changes/ChatGPT/2024-01-10-explore-gpts-at-chatgpt-com-gpts|chatgpt-2024-01-10-50deb9]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-01-10-introducing-the-gpt-store-and-chatgpt-team-plan-7f1ed4cd|chatgpt-2024-01-10-introducing-the-gpt-store-and-chatgpt-team-plan-7f1ed4cd]]'
+superseded: true
 theme: apps-integrations
 type: change
 ---

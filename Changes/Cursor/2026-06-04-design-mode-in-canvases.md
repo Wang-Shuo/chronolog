@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2026-05-20-canvases-are-interactive-artifacts-created-by-agents-like-reports-dashboards-and|cursor-2026-05-20-d26b7e]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 1b517687b7f3b9705fcafa997e54262ccc5ecb814779fae3377c3c0101683bde
+machine_hash: 654e1245fd785332bbc054adeae0ac45d9ad8fb136d58b4bf3487702b15db086
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2026-05-15-we-re-starting-to-roll-out-a-new-personal-finance-experience-in-chatgpt-pro-user|chatgpt-2026-05-15-337daf]]'
 - '[[Changes/Cursor/2026-05-20-canvases-are-interactive-artifacts-created-by-agents-like-reports-dashboards-and|cursor-2026-05-20-d26b7e]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-04-3-7-https-cursor-com-changelog-canvas-improvements-6f42df85|cursor-2026-06-04-3-7-https-cursor-com-changelog-canvas-improvements-6f42df85]]'
+superseded: true
 theme: file-data
 type: change
 ---

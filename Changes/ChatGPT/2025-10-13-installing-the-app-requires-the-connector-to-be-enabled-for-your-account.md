@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-10-09-we-re-adding-notion-and-linear-as-synced-connectors-for-pro-users-so-you-can-sec|chatgpt-2025-10-09-d379c1]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: e7b8389d9d9e09f18e954c86f0e3991ebe392cc168c59859e2b46aaaf5c22e7e
+machine_hash: 9e7fdc7374f640fee9fca54f9cbdf1bad8ca8d2683f371030f5fc2e9123db0dc
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2025-09-29-browser-controls|cursor-2025-09-29-c550bd]]'
 - '[[Changes/ChatGPT/2025-10-09-we-re-adding-notion-and-linear-as-synced-connectors-for-pro-users-so-you-can-sec|chatgpt-2025-10-09-d379c1]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-13-slack-connector-and-app-931a6153|chatgpt-2025-10-13-slack-connector-and-app-931a6153]]'
+superseded: true
 theme: apps-integrations
 type: change
 ---

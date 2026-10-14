@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-08-22-an-improvement-to-projects-is-now-available-when-creating-a-project-users-have-t|chatgpt-2025-08-22-f5509b]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: a3eafa7c3d1eb5d15d74deb57f956cc0ac91331414e2329e3ea0037447e9c9f5
+machine_hash: 0c3aa3c8e885846470853c0da9abdf024957d9a4d5047b0e3fbfd7fabddab118
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-08-22-personal-memory-must-be-enabled-to-utilize-this-feature-settings-personalization|chatgpt-2025-08-22-51c0ac]]'
 - '[[Changes/ChatGPT/2025-08-22-an-improvement-to-projects-is-now-available-when-creating-a-project-users-have-t|chatgpt-2025-08-22-f5509b]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-22-project-only-memory-3424a221|chatgpt-2025-08-22-project-only-memory-3424a221]]'
+superseded: true
 theme: memory
 type: change
 ---

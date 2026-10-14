@@ -1,9 +1,22 @@
 ---
-changes_count: 3
+changes_count: 1
 date: '2025-11-12'
-machine_hash: ab1a64434641d459e4d847e70afb06a4abd81fad9a4b2828b5d51ce392851360
+machine_hash: eb5233007878944aeca1b7fa5053f8218cefb1ca376f2417d14f06243c3e3b9f
 product: chatgpt
 product_name: ChatGPT
+record:
+  date: '2025-11-12'
+  product: chatgpt
+  product_name: ChatGPT
+  release_id: chatgpt-2025-11-12-gpt-5-1-in-chatgpt-3b83bb2f
+  source_summary: We’re updating GPT-5 to GPT-5.1 Instant and GPT-5.1 Thinking, making
+    answers both smarter and more conversational. GPT-5.1 Instant now uses light adaptive
+    reasoning for tougher questions while staying fast, and GPT-5.1 Thinking adapts
+    its thinking time more precisely for complex tasks with clearer, less jargony…
+  source_type: chatgpt_changelog
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-51-in-chatgpt
+  title: GPT-5.1 in ChatGPT
+  version: GPT-5.1 in ChatGPT
 release_id: chatgpt-2025-11-12-gpt-5-1-in-chatgpt-3b83bb2f
 source_release: GPT-5.1 in ChatGPT
 source_type: chatgpt_changelog
@@ -11,6 +24,7 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gp
 tags:
 - release
 - chatgpt
+title: ChatGPT — GPT-5.1 in ChatGPT
 version: GPT-5.1 in ChatGPT
 ---
 
@@ -22,12 +36,10 @@ We’re updating GPT-5 to GPT-5.1 Instant and GPT-5.1 Thinking, making answers b
 
 [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-51-in-chatgpt)
 
-Tracked cards: 3
+Tracked cards: 1
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2025-11-12-gpt-5-1-instant-and-thinking-are-rolling-out-first-to-paid-pro-plus-go-business|GPT-5.1 Instant and Thinking are rolling out first to paid (Pro, Plus, Go, Busin]]
-- model-support: [[Changes/ChatGPT/2025-11-12-gpt-5-1-auto-continues-to-route-each-query-to-the-best-model-and-gpt-5-models-re|GPT-5.1 Auto continues to route each query to the best model, and GPT-5 models r]]
-- model-support: [[Changes/ChatGPT/2025-11-12-we-re-updating-gpt-5-to-gpt-5-1-instant-and-gpt-5-1-thinking-making-answers-both|We’re updating GPT-5 to GPT-5.1 Instant and GPT-5.1 Thinking, making answers bot]]
+- model-support: [[Changes/ChatGPT/2025-11-12-we-re-updating-gpt-5-to-gpt-5-1-instant-and-gpt-5-1-thinking-making-answers-both-d702c4|We’re updating GPT-5 to GPT-5.1 Instant and GPT-5.1 Thinking, making answers bot]]
 <!-- chronolog:end -->

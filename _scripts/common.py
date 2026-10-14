@@ -90,6 +90,10 @@ class PipelinePaths:
     run_id: str
     root: Path = ROOT
 
+    def __post_init__(self) -> None:
+        if not re.fullmatch(r"[A-Za-z0-9][A-Za-z0-9._-]*", self.run_id):
+            raise ValueError("run-id must be a single alphanumeric path component")
+
     @property
     def run_dir(self) -> Path:
         return self.root / "_pipeline" / self.run_id

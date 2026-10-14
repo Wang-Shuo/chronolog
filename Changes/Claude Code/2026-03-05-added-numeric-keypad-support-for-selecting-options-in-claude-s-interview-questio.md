@@ -3,31 +3,60 @@ card_id: claude-code-2026-03-05-b1f867
 date: '2026-03-05'
 diffusion:
   first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1151
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: interface-experience
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Claude Code/2026-02-26-added-copy-command-to-show-an-interactive-picker-when-code-blocks-are-present-al|claude-code-2026-02-26-a51fd0]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: significant
-machine_hash: b8a24d08b79678435beca0806cedeb43fad808bdeca8277a4647f494ccc96eff
+machine_hash: 728db380db9206b53e065a273feed5a810c129e59fff7a4eef8072158af00554
 product: claude-code
 product_name: Claude Code
+record:
+  ai_generated: true
+  card_id: claude-code-2026-03-05-b1f867
+  comparison: ''
+  confidence: low
+  date: '2026-03-05'
+  description: 'Claude Code — v2.1.69: Added numeric keypad support for selecting
+    options in Claude''s interview questions (previously only the number row above
+    QWERTY worked)'
+  evidence:
+  - quote: Added numeric keypad support for selecting options in Claude's interview
+      questions (previously only the number row above QWERTY worked)
+    source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.69
+  extractor_version: fallback-v3
+  impact: significant
+  product: claude-code
+  product_name: Claude Code
+  slug: added-numeric-keypad-support-for-selecting-options-in-claude-s-interview-questio
+  source_release: claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44
+  source_type: github_releases
+  theme: interface-experience
+  theme_matches: []
+  theme_resolution: manual-backfill-review-v1
+  title: Added numeric keypad support for selecting options in Claude's interview
+    questio
+  type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-26-improved-ordering-of-short-task-lists|claude-code-2026-02-26-8a4d6a]]'
 - '[[Changes/Claude Code/2026-02-26-added-copy-command-to-show-an-interactive-picker-when-code-blocks-are-present-al|claude-code-2026-02-26-a51fd0]]'
 - '[[Changes/ChatGPT/2026-02-27-automatic-scroll-to-latest-message-existing-conversations-now-automatically-scro|chatgpt-2026-02-27-0e79ba]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44|claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44]]'
+source_type: github_releases
 theme: interface-experience
+title: Added numeric keypad support for selecting options in Claude's interview questio
 type: change
 ---
 
 # Added numeric keypad support for selecting options in Claude's interview questio
 
 <!-- chronolog:begin region="description" -->
-Added numeric keypad support for selecting options in Claude's interview questions (previously only the number row above QWERTY worked)
+Claude Code — v2.1.69: Added numeric keypad support for selecting options in Claude's interview questions (previously only the number row above QWERTY worked)
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +66,15 @@ Added numeric keypad support for selecting options in Claude's interview questio
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Claude Code/2026-02-26-added-copy-command-to-show-an-interactive-picker-when-code-blocks-are-present-al|claude-code-2026-02-26-a51fd0]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: interface-experience
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
+- Role: later-observed
 - First In Tracked: [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]
 - Lag Days: 1151
 - Tracked Products Count: 3

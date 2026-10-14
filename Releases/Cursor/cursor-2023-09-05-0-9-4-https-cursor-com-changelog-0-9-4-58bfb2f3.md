@@ -1,9 +1,19 @@
 ---
 changes_count: 1
 date: '2023-09-05'
-machine_hash: 3115a2ef2d9fe6a4e0b9a206debcab9c7b73c7eb702c267602928881a1d8d075
+machine_hash: 3ea3ff024b12b224314241084f778cbc9346b6f32c6bb29816693076b1e2f5df
 product: cursor
 product_name: Cursor
+record:
+  date: '2023-09-05'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2023-09-05-0-9-4-https-cursor-com-changelog-0-9-4-58bfb2f3
+  source_summary: Cmd-K will no longer output backticks if you do @file.
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-9-4
+  title: Hotfix Cmd-K unexpectedly outputting backticks
+  version: 0.9.4
 release_id: cursor-2023-09-05-0-9-4-https-cursor-com-changelog-0-9-4-58bfb2f3
 source_release: Hotfix Cmd-K unexpectedly outputting backticks
 source_type: cursor_changelog
@@ -11,6 +21,7 @@ source_url: https://cursor.com/changelog/0-9-4
 tags:
 - release
 - cursor
+title: Cursor — Hotfix Cmd-K unexpectedly outputting backticks
 version: 0.9.4
 ---
 

@@ -1,9 +1,20 @@
 ---
 changes_count: 5
 date: '2024-12-17'
-machine_hash: 667ab2b9ee181e571d2542799f65a5e17b2a0bc797bd5b59708fb8dd58bc43c9
+machine_hash: 0b76fab72960c0bdd72f1deda0c1ea2de64a5847bac480a857c7bd01a22522f3
 product: cursor
 product_name: Cursor
+record:
+  date: '2024-12-17'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2024-12-17-0-44-x-https-cursor-com-changelog-0-44-x-b137ff8e
+  source_summary: Agent sees terminal exit codes, can run commands in the background,
+    and commands are now editable
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-44-x
+  title: Agent Improvements, Yolo Mode, Cursor Tab Update
+  version: 0.44.x
 release_id: cursor-2024-12-17-0-44-x-https-cursor-com-changelog-0-44-x-b137ff8e
 source_release: Agent Improvements, Yolo Mode, Cursor Tab Update
 source_type: cursor_changelog
@@ -11,6 +22,7 @@ source_url: https://cursor.com/changelog/0-44-x
 tags:
 - release
 - cursor
+title: Cursor — Agent Improvements, Yolo Mode, Cursor Tab Update
 version: 0.44.x
 ---
 

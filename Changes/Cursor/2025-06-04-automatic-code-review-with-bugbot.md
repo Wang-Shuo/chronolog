@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2025-06-04-bugbot-automatically-reviews-your-prs-and-catches-potential-bugs-and-issues|cursor-2025-06-04-1e5499]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 9d28906aae0da9b45bb3cb4ba251185926284532b5403507e7ac4985fff588d3
+machine_hash: 5ccd1af850ec1ae90cb6c6a41bcea45d7476eabd41e86706fd1f430a6ab8a040
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2025-02-19-windows-fixed-newline-errors-in-chat-codeblocks-and-resolved-auto-uninstallation|cursor-2025-02-19-6b2714]]'
 - '[[Changes/Cursor/2025-06-04-bugbot-automatically-reviews-your-prs-and-catches-potential-bugs-and-issues|cursor-2025-06-04-1e5499]]'
 source_release: '[[Releases/Cursor/cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca|cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca]]'
+superseded: true
 theme: developer-workflow
 type: change
 ---

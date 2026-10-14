@@ -3,45 +3,68 @@ card_id: chatgpt-2023-02-09-b74e9d
 date: '2023-02-09'
 diffusion:
   first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|chatgpt-2022-12-15-9c6f9c]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 56
-  role: variant
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|chatgpt-2022-12-15-9c6f9c]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 362ba333b9beec8fb70a4b9f0827d6b52c11bbec74ae9d940d14ed5bf63807a9
+machine_hash: ade54ee8055a0f20093d64f4f6e9890a49eb6757e6c00301f046185f7594b3f1
 product: chatgpt
 product_name: ChatGPT
+record:
+  card_id: chatgpt-2023-02-09-b74e9d
+  comparison: ''
+  date: '2023-02-09'
+  description: 'ChatGPT — Introducing ChatGPT Plus: Turbo: optimized for speed (alpha)'
+  evidence:
+  - quote: 'Turbo: optimized for speed (alpha)'
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-plus
+  extractor_version: fallback-v3
+  impact: incremental
+  product: chatgpt
+  product_name: ChatGPT
+  slug: turbo-optimized-for-speed-alpha
+  source_release: chatgpt-2023-02-09-introducing-chatgpt-plus-380a3524
+  source_type: chatgpt_changelog
+  theme: reliability-performance
+  title: 'Turbo: optimized for speed (alpha)'
+  type: change
 related_changes:
 - '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|chatgpt-2022-12-15-9c6f9c]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-02-09-introducing-chatgpt-plus-380a3524|chatgpt-2023-02-09-introducing-chatgpt-plus-380a3524]]'
+source_type: chatgpt_changelog
 theme: reliability-performance
+title: 'Turbo: optimized for speed (alpha)'
 type: change
 ---
 
 # Turbo: optimized for speed (alpha)
 
 <!-- chronolog:begin region="description" -->
-Turbo: optimized for speed (alpha)
+ChatGPT — Introducing ChatGPT Plus: Turbo: optimized for speed (alpha)
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Turbo: optimized for speed (alpha)
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_0be048126c
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-plus
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|chatgpt-2022-12-15-9c6f9c]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: reliability-performance
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: variant
+- Role: later-observed
 - First In Tracked: [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|chatgpt-2022-12-15-9c6f9c]]
 - Lag Days: 56
 - Tracked Products Count: 3

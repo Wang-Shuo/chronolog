@@ -2,32 +2,58 @@
 card_id: cursor-2026-07-17-39b8ba
 date: '2026-07-17'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed|chatgpt-2023-03-23-86e5a9]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1212
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Cursor/2026-06-30-admins-can-now-configure-team-mcp-servers-once-and-distribute-them-across-cloud|cursor-2026-06-30-e783cf]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 6b915f8fff079f128f40e6d32f675cf08761c11c593cf66ec32ba76add7667b7
+machine_hash: 7bf914355ecda58f7317d2f8648a5b844844a90f3327c7d5fea70769fc8c5175
 product: cursor
 product_name: Cursor
+record:
+  card_id: cursor-2026-07-17-39b8ba
+  comparison: ''
+  date: '2026-07-17'
+  description: 'Cursor — Improvements to Cursor in Slack: Cursor in Slack now shares
+    a plan before it starts, runs in multi-repo environments, and can work across
+    channels and threads.'
+  evidence:
+  - quote: Cursor in Slack now shares a plan before it starts, runs in multi-repo
+      environments, and can work across channels and threads.
+    source_release: https://cursor.com/changelog/slack-improvements
+  extractor_version: fallback-v3
+  impact: incremental
+  product: cursor
+  product_name: Cursor
+  slug: cursor-in-slack-now-shares-a-plan-before-it-starts-runs-in-multi-repo-environmen
+  source_release: cursor-2026-07-17-improvements-to-cursor-in-slack-https-cursor-com-changelog-slack-f233f9c6
+  source_type: cursor_changelog
+  theme: apps-integrations
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v1
+  title: Cursor in Slack now shares a plan before it starts, runs in multi-repo environme
+  type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-13-chatgpt-is-also-available-on-kakao-in-south-korea-and-viber-in-supported-markets|chatgpt-2026-07-13-68bda1]]'
 - '[[Changes/Claude Code/2026-07-15-hardened-synced-skill-plugin-directory-naming-on-windows-and-kept-ccr-web-fetch|claude-code-2026-07-15-a7c9ca]]'
 - '[[Changes/Claude Code/2026-07-17-mcp-tool-calls-running-longer-than-2-minutes-now-move-to-the-background-automati|claude-code-2026-07-17-0b1708]]'
+- '[[Changes/Cursor/2026-07-17-from-slack-cursor-can-now-start-in-a-named-multi-repo-environment-instead-of-a-s|cursor-2026-07-17-0c31db]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-17-improvements-to-cursor-in-slack-https-cursor-com-changelog-slack-f233f9c6|cursor-2026-07-17-improvements-to-cursor-in-slack-https-cursor-com-changelog-slack-f233f9c6]]'
+source_type: cursor_changelog
 theme: apps-integrations
+title: Cursor in Slack now shares a plan before it starts, runs in multi-repo environme
 type: change
 ---
 
 # Cursor in Slack now shares a plan before it starts, runs in multi-repo environme
 
 <!-- chronolog:begin region="description" -->
-Cursor in Slack now shares a plan before it starts, runs in multi-repo environments, and can work across channels and threads.
+Cursor — Improvements to Cursor in Slack: Cursor in Slack now shares a plan before it starts, runs in multi-repo environments, and can work across channels and threads.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,14 +63,16 @@ Cursor in Slack now shares a plan before it starts, runs in multi-repo environme
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Cursor/2026-06-30-admins-can-now-configure-team-mcp-servers-once-and-distribute-them-across-cloud|cursor-2026-06-30-e783cf]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: apps-integrations
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
-- First In Tracked: [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed|chatgpt-2023-03-23-86e5a9]]
+- Role: later-observed
+- First In Tracked: [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]
 - Lag Days: 1212
 - Tracked Products Count: 3
 <!-- chronolog:end -->

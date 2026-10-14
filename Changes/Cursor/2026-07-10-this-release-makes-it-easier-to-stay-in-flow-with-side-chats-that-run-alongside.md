@@ -3,31 +3,58 @@ card_id: cursor-2026-07-10-90d48c
 date: '2026-07-10'
 diffusion:
   first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1100
-  role: variant
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: agent-mode
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Cursor/2026-07-10-by-default-side-chats-focus-on-reading-searching-and-answering-use-them-to-ask-c|cursor-2026-07-10-430112]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: paradigm-shift
-machine_hash: bd3fd768a2e658adf3674c1d47a66045c70af69b396a845f90a96f0d926a55cb
+machine_hash: fcf33269384f6268573a043fee8e9264d7f931ea4d4cdfe0d385f014a22e7de8
 product: cursor
 product_name: Cursor
+record:
+  ai_generated: true
+  card_id: cursor-2026-07-10-90d48c
+  comparison: ''
+  confidence: low
+  date: '2026-07-10'
+  description: 'Cursor — Side Chats and Conversation Search: This release makes it
+    easier to stay in flow with side chats that run alongside your main chat, the
+    ability to search agent transcripts, and simplified project and repo pickers.'
+  evidence:
+  - quote: This release makes it easier to stay in flow with side chats that run alongside
+      your main chat, the ability to search agent transcripts, and simplified project
+      and repo pickers.
+    source_release: https://cursor.com/changelog/side-chat
+  extractor_version: fallback-v3
+  impact: paradigm-shift
+  product: cursor
+  product_name: Cursor
+  slug: this-release-makes-it-easier-to-stay-in-flow-with-side-chats-that-run-alongside
+  source_release: cursor-2026-07-10-3-11-https-cursor-com-changelog-side-chat-c762410d
+  source_type: cursor_changelog
+  theme: agent-mode
+  title: This release makes it easier to stay in flow with side chats that run alongside
+  type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-08-added-an-auto-mode-rule-that-blocks-tampering-with-session-transcript-files|claude-code-2026-07-08-344f27]]'
 - '[[Changes/Claude Code/2026-07-08-improved-agent-view-sessions-that-edit-merge-comment-on-or-push-to-an-existing-p|claude-code-2026-07-08-bbb222]]'
+- '[[Changes/ChatGPT/2026-07-09-chatgpt-work-is-an-agent-for-longer-more-involved-tasks-it-can-research-and-anal|chatgpt-2026-07-09-ad1325]]'
 - '[[Changes/Cursor/2026-07-10-by-default-side-chats-focus-on-reading-searching-and-answering-use-them-to-ask-c|cursor-2026-07-10-430112]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-10-3-11-https-cursor-com-changelog-side-chat-c762410d|cursor-2026-07-10-3-11-https-cursor-com-changelog-side-chat-c762410d]]'
+source_type: cursor_changelog
 theme: agent-mode
+title: This release makes it easier to stay in flow with side chats that run alongside
 type: change
 ---
 
 # This release makes it easier to stay in flow with side chats that run alongside
 
 <!-- chronolog:begin region="description" -->
-This release makes it easier to stay in flow with side chats that run alongside your main chat, the ability to search agent transcripts, and simplified project and repo pickers.
+Cursor — Side Chats and Conversation Search: This release makes it easier to stay in flow with side chats that run alongside your main chat, the ability to search agent transcripts, and simplified project and repo pickers.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +64,15 @@ This release makes it easier to stay in flow with side chats that run alongside 
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Cursor/2026-07-10-by-default-side-chats-focus-on-reading-searching-and-answering-use-them-to-ask-c|cursor-2026-07-10-430112]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: agent-mode
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: variant
+- Role: later-observed
 - First In Tracked: [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]
 - Lag Days: 1100
 - Tracked Products Count: 3

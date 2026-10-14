@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2023-08-09-customize-your-interactions-with-chatgpt-by-providing-specific-details-and-guide|chatgpt-2023-08-09-81031c]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 59a953c2550ac2379b9800f8ae161ad94e280b3ba463747ddf9ab4ceb11cef0a
+machine_hash: 7f33c0cc3d66a78ac5752c6301834a592609f64761752d062937db30e4798d3a
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2023-08-09-custom-instructions-are-now-available-to-chatgpt-users-on-the-free-plan-except-f|chatgpt-2023-08-09-2dce55]]'
 - '[[Changes/ChatGPT/2023-08-09-customize-your-interactions-with-chatgpt-by-providing-specific-details-and-guide|chatgpt-2023-08-09-81031c]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-08-21-custom-instructions-are-now-available-to-users-in-the-eu-uk-c7c52345|chatgpt-2023-08-21-custom-instructions-are-now-available-to-users-in-the-eu-uk-c7c52345]]'
+superseded: true
 theme: memory
 type: change
 ---

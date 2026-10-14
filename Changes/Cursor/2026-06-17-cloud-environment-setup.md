@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2026-06-17-cloud-subagents-with-in-cloud|cursor-2026-06-17-4c6d0e]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: d3e80f62f6a267354a196ad9e5ce7feac34734eb635644ab878c1a74954d234e
+machine_hash: a1150656b6ca815be867d2f1b5934e2e21ae0b6b57be4cd679d4eac216145024
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Claude Code/2026-06-15-nested-claude-directories-the-agent-workflow-and-output-style-closest-to-the-wor|claude-code-2026-06-15-f824ca]]'
 - '[[Changes/Cursor/2026-06-17-cloud-subagents-with-in-cloud|cursor-2026-06-17-4c6d0e]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-17-3-7-https-cursor-com-changelog-cloud-in-agents-window-d40d64fa|cursor-2026-06-17-3-7-https-cursor-com-changelog-cloud-in-agents-window-d40d64fa]]'
+superseded: true
 theme: agent-mode
 type: change
 ---

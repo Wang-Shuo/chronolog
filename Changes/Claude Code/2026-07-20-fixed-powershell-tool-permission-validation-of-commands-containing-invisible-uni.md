@@ -3,31 +3,58 @@ card_id: claude-code-2026-07-20-e38a9f
 date: '2026-07-20'
 diffusion:
   first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|cursor-2023-04-16-f0e22a]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1191
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Claude Code/2026-07-20-fixed-bash-command-permission-checking-for-compound-statements-with-redirects-in|claude-code-2026-07-20-cdef23]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 1f05711d354a5f04185b87c67662b357d4fd3144fb0597b473b2828e163b610d
+machine_hash: 484a83a6d837dff0aa7dab969fa87ae3a3018306c67bbc7790883873a241d4cc
 product: claude-code
 product_name: Claude Code
+record:
+  card_id: claude-code-2026-07-20-e38a9f
+  comparison: ''
+  date: '2026-07-20'
+  description: 'Claude Code — v2.1.216: Fixed PowerShell tool permission validation
+    of commands containing invisible Unicode characters'
+  evidence:
+  - quote: Fixed PowerShell tool permission validation of commands containing invisible
+      Unicode characters
+    source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.216
+  extractor_version: fallback-v3
+  impact: incremental
+  product: claude-code
+  product_name: Claude Code
+  slug: fixed-powershell-tool-permission-validation-of-commands-containing-invisible-uni
+  source_release: claude-code-2026-07-20-v2-1-216-github-356972381-87e422ae
+  source_type: github_releases
+  theme: safety-privacy
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v2
+  title: Fixed PowerShell tool permission validation of commands containing invisible
+    Uni
+  type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-20-added-sandbox-filesystem-disabled-setting-to-skip-filesystem-isolation-while-kee|claude-code-2026-07-20-b887a9]]'
 - '[[Changes/Claude Code/2026-07-20-fixed-read-only-commands-on-windows-accessing-network-paths-without-a-permission|claude-code-2026-07-20-bb1a4e]]'
 - '[[Changes/Claude Code/2026-07-20-fixed-bash-command-permission-checking-for-compound-statements-with-redirects-in|claude-code-2026-07-20-cdef23]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-20-v2-1-216-github-356972381-87e422ae|claude-code-2026-07-20-v2-1-216-github-356972381-87e422ae]]'
+source_type: github_releases
 theme: safety-privacy
+title: Fixed PowerShell tool permission validation of commands containing invisible
+  Uni
 type: change
 ---
 
 # Fixed PowerShell tool permission validation of commands containing invisible Uni
 
 <!-- chronolog:begin region="description" -->
-Fixed PowerShell tool permission validation of commands containing invisible Unicode characters
+Claude Code — v2.1.216: Fixed PowerShell tool permission validation of commands containing invisible Unicode characters
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +64,15 @@ Fixed PowerShell tool permission validation of commands containing invisible Uni
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Claude Code/2026-07-20-fixed-bash-command-permission-checking-for-compound-statements-with-redirects-in|claude-code-2026-07-20-cdef23]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: safety-privacy
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
+- Role: later-observed
 - First In Tracked: [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|cursor-2023-04-16-f0e22a]]
 - Lag Days: 1191
 - Tracked Products Count: 3

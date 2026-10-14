@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-08-07-gpt-5-is-slowly-rolling-out-to-all-users-on-chatgpt-plus-pro-team-and-free-plans|chatgpt-2025-08-07-186f1e]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: dc0450845d40418be3101a3b11b9ae4ea8c197f2be87e47d42130ac498d9bd6a
+machine_hash: fbd015af63d8857fcbf7b88f19ae6b61742c96fdf41e30b692dd3fba969a358c
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-07-29-study-mode-is-currently-available-to-users-in-free-plus-pro-and-teams-plans-glob|chatgpt-2025-07-29-bf2b3b]]'
 - '[[Changes/ChatGPT/2025-08-07-gpt-5-is-slowly-rolling-out-to-all-users-on-chatgpt-plus-pro-team-and-free-plans|chatgpt-2025-08-07-186f1e]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-07-accent-colors-d6573a1d|chatgpt-2025-08-07-accent-colors-d6573a1d]]'
+superseded: true
 theme: mobile-desktop
 type: change
 ---

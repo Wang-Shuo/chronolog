@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-09-29-to-set-up-parental-controls-a-parent-or-guardian-sends-an-invite-to-their-teen-t|chatgpt-2025-09-29-1fc5f5]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: 7fe89acc2fdf5eb039db8eeb45bb398534bf7833e0ed0924e038aefd96cf1592
+machine_hash: 8c86664e3fb1715849b2ae3d643de008f73f8fb41b6481bc9691bd8b3e7f3157
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-03-18-new-ui-for-temporary-chats-we-ve-made-accessing-and-viewing-these-private-conver|chatgpt-2025-03-18-9d39f1]]'
 - '[[Changes/ChatGPT/2025-09-29-to-set-up-parental-controls-a-parent-or-guardian-sends-an-invite-to-their-teen-t|chatgpt-2025-09-29-1fc5f5]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-29-parental-controls-8b95b69a|chatgpt-2025-09-29-parental-controls-8b95b69a]]'
+superseded: true
 theme: safety-privacy
 type: change
 ---

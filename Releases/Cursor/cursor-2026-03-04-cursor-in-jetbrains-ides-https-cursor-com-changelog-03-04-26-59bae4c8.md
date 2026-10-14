@@ -1,9 +1,20 @@
 ---
 changes_count: 3
 date: '2026-03-04'
-machine_hash: 623651d2dec39549d9492814bd1e3d842f34fde7e9805bc2c99d4b7f75f8e65f
+machine_hash: 9efa33a5092eaa154d8a054bd563bf6e41959e1deef61121866436fd524a920f
 product: cursor
 product_name: Cursor
+record:
+  date: '2026-03-04'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2026-03-04-cursor-in-jetbrains-ides-https-cursor-com-changelog-03-04-26-59bae4c8
+  source_summary: Cursor is now available in IntelliJ IDEA, PyCharm, WebStorm, and
+    other JetBrains IDEs through the Agent Client Protocol (ACP).
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/03-04-26
+  title: Cursor in JetBrains IDEs
+  version: Cursor in JetBrains IDEs
 release_id: cursor-2026-03-04-cursor-in-jetbrains-ides-https-cursor-com-changelog-03-04-26-59bae4c8
 source_release: Cursor in JetBrains IDEs
 source_type: cursor_changelog
@@ -11,6 +22,7 @@ source_url: https://cursor.com/changelog/03-04-26
 tags:
 - release
 - cursor
+title: Cursor — Cursor in JetBrains IDEs
 version: Cursor in JetBrains IDEs
 ---
 

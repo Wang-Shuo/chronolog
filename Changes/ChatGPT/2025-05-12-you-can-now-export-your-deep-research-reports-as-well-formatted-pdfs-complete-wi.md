@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-05-12-chatgpt-deep-research-with-sharepoint-and-onedrive-is-available-globally-to-team|chatgpt-2025-05-12-327525]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 6d6a04d3c7679fb0f5776d598ecd26365689da1d5bdf407d31f70b8c2b19cad0
+machine_hash: 20d82a2699f9b240a6b206e0215a37b6a4f79f1db46b7549a15a5fc5f0a53282
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-05-08-chatgpt-deep-research-with-github-is-available-globally-to-team-users-it-is-also|chatgpt-2025-05-08-1519fc]]'
 - '[[Changes/ChatGPT/2025-05-12-chatgpt-deep-research-with-sharepoint-and-onedrive-is-available-globally-to-team|chatgpt-2025-05-12-327525]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-12-export-deep-research-as-pdf-for-plus-pro-team-27caae9f|chatgpt-2025-05-12-export-deep-research-as-pdf-for-plus-pro-team-27caae9f]]'
+superseded: true
 theme: search-browsing
 type: change
 ---

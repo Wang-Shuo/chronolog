@@ -1,9 +1,20 @@
 ---
 changes_count: 1
 date: '2023-08-10'
-machine_hash: 11f1f419c688638950ce163fac58e1a506f79c2c547921b8568d6a2df8999ed6
+machine_hash: 3a8e4e95d033d26f31343d839c481e27eb16b755c055d88c08b509599069d54c
 product: cursor
 product_name: Cursor
+record:
+  date: '2023-08-10'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2023-08-10-0-7-1-nightly-https-cursor-com-changelog-0-7-1-nightly-cdbf86e6
+  source_summary: Cmd-K now has a fast mode! It is about 1 second faster, and we're
+    working on making it even faster. Let us know what you think!
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-7-1-nightly
+  title: Cmd-K fast mode
+  version: 0.7.1-nightly
 release_id: cursor-2023-08-10-0-7-1-nightly-https-cursor-com-changelog-0-7-1-nightly-cdbf86e6
 source_release: Cmd-K fast mode
 source_type: cursor_changelog
@@ -11,6 +22,7 @@ source_url: https://cursor.com/changelog/0-7-1-nightly
 tags:
 - release
 - cursor
+title: Cursor — Cmd-K fast mode
 version: 0.7.1-nightly
 ---
 

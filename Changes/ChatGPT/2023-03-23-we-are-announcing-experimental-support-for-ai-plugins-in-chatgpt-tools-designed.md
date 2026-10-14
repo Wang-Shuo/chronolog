@@ -11,10 +11,11 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v2
 impact: significant
-machine_hash: 1dbb0db1d8ff419b31e7361c4eeedad6b2fca0f8cc9c66e83da9ef95186dac80
+machine_hash: 19f35069ff5525ab0d677038ac622b99801f519ba208c8f9fd4ef931aa50d43a
 product: chatgpt
 product_name: ChatGPT
 source_release: '[[Releases/ChatGPT/chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8|chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8]]'
+superseded: true
 theme: apps-integrations
 type: change
 ---

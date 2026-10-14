@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-08-22-this-feature-will-initially-only-be-available-on-the-chatgpt-website-and-windows|chatgpt-2025-08-22-8db6f0]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 0dfe72d1b0e4e5003109504ecc28d104889e85b186eba14eb9a6a21948636e8a
+machine_hash: b0ad03d3aef4e771e2b872dbdd38ea2fffc6b4407f4d32fc988247a72df463ba
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-08-07-on-mobile-ios-and-android-tap-your-profile-icon-at-the-bottom-go-to-personalizat|chatgpt-2025-08-07-29bba7]]'
 - '[[Changes/ChatGPT/2025-08-22-this-feature-will-initially-only-be-available-on-the-chatgpt-website-and-windows|chatgpt-2025-08-22-8db6f0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-29-parental-controls-8b95b69a|chatgpt-2025-09-29-parental-controls-8b95b69a]]'
+superseded: true
 theme: mobile-desktop
 type: change
 ---

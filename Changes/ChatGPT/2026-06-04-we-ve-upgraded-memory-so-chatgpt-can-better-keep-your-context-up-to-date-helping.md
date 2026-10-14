@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2026-05-05-starting-today-we-re-rolling-out-memory-improvements-to-chatgpt-plus-and-pro-use|chatgpt-2026-05-05-163a8e]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 69ff33514187bbba152fef04b8d2098b46448d19e84e53030b956beeae42d004
+machine_hash: 80ebc9018c2ca462b631f2c23102f2c8a39353510d532d14e6c6d5bce4119737
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2026-04-22-sometimes-you-just-want-the-right-answer-as-quickly-as-possible-we-re-rolling-ou|chatgpt-2026-04-22-29853c]]'
 - '[[Changes/ChatGPT/2026-05-05-starting-today-we-re-rolling-out-memory-improvements-to-chatgpt-plus-and-pro-use|chatgpt-2026-05-05-163a8e]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-04-memory-that-stays-more-up-to-date-8fc83f65|chatgpt-2026-06-04-memory-that-stays-more-up-to-date-8fc83f65]]'
+superseded: true
 theme: memory
 type: change
 ---

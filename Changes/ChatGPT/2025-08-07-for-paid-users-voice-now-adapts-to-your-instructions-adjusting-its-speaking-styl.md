@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-08-07-today-we-re-rolling-out-improvements-to-voice-mode-to-make-it-more-accessible-an|chatgpt-2025-08-07-772d24]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 2d87497f3e473ed7c264fb5aead1afc9b646255b136820575614ec329e509d1f
+machine_hash: efba02800c1423ceec37f43bb29e920930cec849006e631a1ccb79c148bf37b9
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-08-07-you-can-now-set-an-accent-color-that-applies-to-elements-in-chatgpt-including-yo|chatgpt-2025-08-07-1d4fbe]]'
 - '[[Changes/ChatGPT/2025-08-07-today-we-re-rolling-out-improvements-to-voice-mode-to-make-it-more-accessible-an|chatgpt-2025-08-07-772d24]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-07-chatgpt-voice-updates-1159fad7|chatgpt-2025-08-07-chatgpt-voice-updates-1159fad7]]'
+superseded: true
 theme: voice
 type: change
 ---

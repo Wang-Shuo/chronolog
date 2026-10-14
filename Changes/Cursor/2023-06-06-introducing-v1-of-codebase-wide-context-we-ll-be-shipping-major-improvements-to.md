@@ -3,31 +3,59 @@ card_id: cursor-2023-06-06-1965a6
 date: '2023-06-06'
 diffusion:
   first_in_tracked: '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|cursor-2023-05-04-00d3b7]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 33
-  role: variant
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: context-window
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Cursor/2023-05-17-press-cmd-shift-l-and-the-model-will-add-the-terminal-context-to-chat|cursor-2023-05-17-6647d4]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: paradigm-shift
-machine_hash: 6ab0d3026a3bc3aa5b48aec5a65dd6768b445f81ecc3387df797d829c0c35cd1
+machine_hash: aa8f712457d7635871a88277ff9e820d159a787126ab89b5198fac6acbeee746
 product: cursor
 product_name: Cursor
+record:
+  ai_generated: true
+  card_id: cursor-2023-06-06-1965a6
+  comparison: ''
+  confidence: low
+  date: '2023-06-06'
+  description: 'Cursor — Codebase Context v1: Introducing v1 of codebase-wide context!
+    We''ll be shipping major improvements to this in the next few days, but we''d
+    love to hear your feedback.'
+  evidence:
+  - quote: Introducing v1 of codebase-wide context! We'll be shipping major improvements
+      to this in the next few days, but we'd love to hear your feedback.
+    source_release: https://cursor.com/changelog/0-2-26
+  extractor_version: fallback-v3
+  impact: paradigm-shift
+  product: cursor
+  product_name: Cursor
+  slug: introducing-v1-of-codebase-wide-context-we-ll-be-shipping-major-improvements-to
+  source_release: cursor-2023-06-06-0-2-26-https-cursor-com-changelog-0-2-26-1b7664cb
+  source_type: cursor_changelog
+  theme: context-window
+  title: Introducing v1 of codebase-wide context! We'll be shipping major improvements
+    to
+  type: change
 related_changes:
-- '[[Changes/Cursor/2023-05-04-alpha-feature-alpha-feature-ask-questions-about-your-entire-repo-we-are-experime|cursor-2023-05-04-83ddab]]'
-- '[[Changes/ChatGPT/2023-05-12-in-addition-to-the-beta-panel-users-can-now-choose-to-continue-generating-a-mess|chatgpt-2023-05-12-df8699]]'
+- '[[Changes/ChatGPT/2023-05-12-for-more-information-on-our-rollout-process-please-check-out-the-article-here-in|chatgpt-2023-05-12-2955f7]]'
 - '[[Changes/Cursor/2023-05-17-press-cmd-shift-l-and-the-model-will-add-the-terminal-context-to-chat|cursor-2023-05-17-6647d4]]'
+- '[[Changes/Cursor/2023-05-17-context-ingestion-across-a-full-notebook|cursor-2023-05-17-965246]]'
 source_release: '[[Releases/Cursor/cursor-2023-06-06-0-2-26-https-cursor-com-changelog-0-2-26-1b7664cb|cursor-2023-06-06-0-2-26-https-cursor-com-changelog-0-2-26-1b7664cb]]'
+source_type: cursor_changelog
 theme: context-window
+title: Introducing v1 of codebase-wide context! We'll be shipping major improvements
+  to
 type: change
 ---
 
 # Introducing v1 of codebase-wide context! We'll be shipping major improvements to
 
 <!-- chronolog:begin region="description" -->
-Introducing v1 of codebase-wide context! We'll be shipping major improvements to this in the next few days, but we'd love to hear your feedback.
+Cursor — Codebase Context v1: Introducing v1 of codebase-wide context! We'll be shipping major improvements to this in the next few days, but we'd love to hear your feedback.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +65,15 @@ Introducing v1 of codebase-wide context! We'll be shipping major improvements to
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Cursor/2023-05-17-press-cmd-shift-l-and-the-model-will-add-the-terminal-context-to-chat|cursor-2023-05-17-6647d4]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: context-window
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: variant
+- Role: later-observed
 - First In Tracked: [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|cursor-2023-05-04-00d3b7]]
 - Lag Days: 33
 - Tracked Products Count: 3

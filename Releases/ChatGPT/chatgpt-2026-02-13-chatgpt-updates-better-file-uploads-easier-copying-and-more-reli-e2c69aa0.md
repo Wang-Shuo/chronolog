@@ -1,9 +1,21 @@
 ---
 changes_count: 5
 date: '2026-02-13'
-machine_hash: a4dedd588e7e6e61ef5fa02fbece714a0428fce9de90e90f22d3297bc75f68e6
+machine_hash: ea28656cc005b8b7a499fe12fa3e93676dd5a563024567660fd0f094b762c357
 product: chatgpt
 product_name: ChatGPT
+record:
+  date: '2026-02-13'
+  product: chatgpt
+  product_name: ChatGPT
+  release_id: chatgpt-2026-02-13-chatgpt-updates-better-file-uploads-easier-copying-and-more-reli-e2c69aa0
+  source_summary: Web
+  source_type: chatgpt_changelog
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-updates-better-file-uploads-easier-copying-and-more-reliable-long-chats
+  title: 'ChatGPT updates: Better file uploads, easier copying, and more reliable
+    long chats'
+  version: 'ChatGPT updates: Better file uploads, easier copying, and more reliable
+    long chats'
 release_id: chatgpt-2026-02-13-chatgpt-updates-better-file-uploads-easier-copying-and-more-reli-e2c69aa0
 source_release: 'ChatGPT updates: Better file uploads, easier copying, and more reliable
   long chats'
@@ -12,6 +24,8 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ch
 tags:
 - release
 - chatgpt
+title: 'ChatGPT — ChatGPT updates: Better file uploads, easier copying, and more reliable
+  long chats'
 version: 'ChatGPT updates: Better file uploads, easier copying, and more reliable
   long chats'
 ---

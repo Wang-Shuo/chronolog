@@ -12,12 +12,13 @@ evolves_from:
 - '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week|chatgpt-2023-07-06-63388c]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: f2bc6f8ca45be68df58b13645aa3bca25613b7b902ee53335d2b490935eb30d9
+machine_hash: aa40e8fe3f8d9362180f7216a96bab02ad3a3e6cbc3956a8a2913931a9f0e404
 product: chatgpt
 product_name: ChatGPT
 related_changes:
 - '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week|chatgpt-2023-07-06-63388c]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-08-03-updates-to-chatgpt-0d776ee3|chatgpt-2023-08-03-updates-to-chatgpt-0d776ee3]]'
+superseded: true
 theme: file-data
 type: change
 ---

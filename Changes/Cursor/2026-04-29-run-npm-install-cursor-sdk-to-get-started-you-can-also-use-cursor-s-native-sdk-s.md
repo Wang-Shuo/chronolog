@@ -2,32 +2,60 @@
 card_id: cursor-2026-04-29-67550c
 date: '2026-04-29'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed|chatgpt-2023-03-23-86e5a9]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1133
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Cursor/2026-04-29-we-re-introducing-the-cursor-sdk-so-you-can-build-agents-with-the-same-runtime-h|cursor-2026-04-29-5b34ee]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: d9dd9c4e599889fde662da07dcb30daa8a23a2eac8ca379459c852a210914f9b
+machine_hash: 9bd9825edbd151f3b5e6c63ffae633f75bd1cbbb1d5750341f4178bc8cf0e4b3
 product: cursor
 product_name: Cursor
+record:
+  card_id: cursor-2026-04-29-67550c
+  comparison: ''
+  date: '2026-04-29'
+  description: 'Cursor — Build programmatic agents with the Cursor SDK: Run npm install
+    @cursor/sdk to get started. You can also use Cursor''s native /sdk skill to help
+    you start building.'
+  evidence:
+  - quote: Run npm install @cursor/sdk to get started. You can also use Cursor's native
+      /sdk skill to help you start building.
+    source_release: https://cursor.com/changelog/sdk-release
+  extractor_version: fallback-v3
+  impact: incremental
+  product: cursor
+  product_name: Cursor
+  slug: run-npm-install-cursor-sdk-to-get-started-you-can-also-use-cursor-s-native-sdk-s
+  source_release: cursor-2026-04-29-build-programmatic-agents-with-the-cursor-sdk-https-cursor-com-c-b4665fa3
+  source_type: cursor_changelog
+  theme: apps-integrations
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v1
+  title: Run npm install @cursor/sdk to get started. You can also use Cursor's native
+    /sd
+  type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-28-added-alwaysload-option-to-mcp-server-config-when-true-all-tools-from-that-serve|claude-code-2026-04-28-c60884]]'
 - '[[Changes/Claude Code/2026-04-28-posttooluse-hooks-can-now-replace-tool-output-for-all-tools-via-hookspecificoutp|claude-code-2026-04-28-cd9249]]'
 - '[[Changes/Cursor/2026-04-29-we-re-introducing-the-cursor-sdk-so-you-can-build-agents-with-the-same-runtime-h|cursor-2026-04-29-5b34ee]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-29-build-programmatic-agents-with-the-cursor-sdk-https-cursor-com-c-b4665fa3|cursor-2026-04-29-build-programmatic-agents-with-the-cursor-sdk-https-cursor-com-c-b4665fa3]]'
+source_type: cursor_changelog
 theme: apps-integrations
+title: Run npm install @cursor/sdk to get started. You can also use Cursor's native
+  /sd
 type: change
 ---
 
 # Run npm install @cursor/sdk to get started. You can also use Cursor's native /sd
 
 <!-- chronolog:begin region="description" -->
-Run npm install @cursor/sdk to get started. You can also use Cursor's native /sdk skill to help you start building.
+Cursor — Build programmatic agents with the Cursor SDK: Run npm install @cursor/sdk to get started. You can also use Cursor's native /sdk skill to help you start building.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,14 +65,16 @@ Run npm install @cursor/sdk to get started. You can also use Cursor's native /sd
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Cursor/2026-04-29-we-re-introducing-the-cursor-sdk-so-you-can-build-agents-with-the-same-runtime-h|cursor-2026-04-29-5b34ee]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: apps-integrations
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
-- First In Tracked: [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed|chatgpt-2023-03-23-86e5a9]]
+- Role: later-observed
+- First In Tracked: [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]
 - Lag Days: 1133
 - Tracked Products Count: 3
 <!-- chronolog:end -->

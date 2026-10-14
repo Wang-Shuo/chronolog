@@ -11,10 +11,11 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 3abae7c26af18628ce6db3898c753ae961141fcfd56248147c3a58bc0f4151c9
+machine_hash: 50040ca75292a80a9abd94fc51dc7260142c3f229cae36c8c4f79ba95e75a378
 product: chatgpt
 product_name: ChatGPT
 source_release: '[[Releases/ChatGPT/chatgpt-2023-07-20-custom-instructions-are-rolling-out-in-beta-bf9360b9|chatgpt-2023-07-20-custom-instructions-are-rolling-out-in-beta-bf9360b9]]'
+superseded: true
 theme: memory
 type: change
 ---

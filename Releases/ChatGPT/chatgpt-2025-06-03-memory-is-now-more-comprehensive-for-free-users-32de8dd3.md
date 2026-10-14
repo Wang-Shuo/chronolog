@@ -1,16 +1,30 @@
 ---
-changes_count: 5
+changes_count: 4
 date: '2025-06-03'
-machine_hash: c8bb93be775846fd1e5d114828b1a1728dc2d1e51ce0c3535e00220b0261f9d0
+machine_hash: 751064b1a987205b7a8b55bebf9100d456076bc21f50cafbdfdb6f465bfaf4ee
 product: chatgpt
 product_name: ChatGPT
+record:
+  date: '2025-06-03'
+  product: chatgpt
+  product_name: ChatGPT
+  release_id: chatgpt-2025-06-03-memory-is-now-more-comprehensive-for-free-users-32de8dd3
+  source_summary: Memory improvements are starting to roll out to Free users. In addition
+    to the saved memories that were there before, ChatGPT now references your recent
+    conversations to deliver responses that feel more relevant and tailored to you.Free
+    users must be logged in and on up-to-date apps (iOS/Android v1.2025.147+).
+  source_type: chatgpt_changelog
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-is-now-more-comprehensive-for-free-users
+  title: Memory is now more comprehensive for Free users
+  version: Memory is now more comprehensive for Free users
 release_id: chatgpt-2025-06-03-memory-is-now-more-comprehensive-for-free-users-32de8dd3
 source_release: Memory is now more comprehensive for Free users
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_252f356852
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-is-now-more-comprehensive-for-free-users
 tags:
 - release
 - chatgpt
+title: ChatGPT — Memory is now more comprehensive for Free users
 version: Memory is now more comprehensive for Free users
 ---
 
@@ -18,18 +32,17 @@ version: Memory is now more comprehensive for Free users
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
-Memory improvements are starting to roll out to Free users. In addition to the saved memories that were there before, ChatGPT now references your recent conversations to deliver responses that feel more relevant and tailored to you.
+Memory improvements are starting to roll out to Free users. In addition to the saved memories that were there before, ChatGPT now references your recent conversations to deliver responses that feel more relevant and tailored to you.Free users must be logged in and on up-to-date apps (iOS/Android v1.2025.147+).
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_252f356852)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-is-now-more-comprehensive-for-free-users)
 
-Tracked cards: 5
+Tracked cards: 4
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- memory: [[Changes/ChatGPT/2025-06-03-memory-improvements-are-starting-to-roll-out-to-free-users-in-addition-to-the-sa|Memory improvements are starting to roll out to Free users. In addition to the s]]
+- memory: [[Changes/ChatGPT/2025-06-03-you-can-turn-off-memory-anytime-in-settings-learn-more-in-our-memory-faq|You can turn off memory anytime in settings. Learn more in our Memory FAQ.]]
 - memory: [[Changes/ChatGPT/2025-06-03-free-users-in-eea-eu-uk-switzerland-norway-iceland-or-liechtenstein-will-see-a-p|Free users in EEA (EU + UK), Switzerland, Norway, Iceland, or Liechtenstein will]]
 - memory: [[Changes/ChatGPT/2025-06-03-outside-the-european-regions-listed-above-all-free-users-that-have-memory-enable|Outside the European regions listed above, all Free users that have memory enabl]]
-- mobile-desktop: [[Changes/ChatGPT/2025-06-03-free-users-must-be-logged-in-and-on-up-to-date-apps-ios-android-v1-2025-147|Free users must be logged in and on up-to-date apps (iOS/Android v1.2025.147+).]]
-- automation-scheduling: [[Changes/ChatGPT/2025-06-03-opt-in-reminders|Opt‑in reminders]]
+- interface-experience: [[Changes/ChatGPT/2025-06-03-memory-improvements-are-starting-to-roll-out-to-free-users-in-addition-to-the-sa-a02494|Memory improvements are starting to roll out to Free users. In addition to the s]]
 <!-- chronolog:end -->

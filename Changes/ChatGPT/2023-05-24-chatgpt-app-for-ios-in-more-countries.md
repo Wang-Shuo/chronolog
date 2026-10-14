@@ -11,12 +11,13 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 2d6b142c6bc86943a7d1ddc903a23a7082ebd9f247495d8c39d6da64af092cc2
+machine_hash: 72ba80ac840e1a94a24d52dd1ff01108c3056ae5c4d801db50328523ce6e1e3c
 product: chatgpt
 product_name: ChatGPT
 related_changes:
 - '[[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-05-24-ios-app-available-in-more-countries-shared-links-in-alpha-bing-p-9800ed96|chatgpt-2023-05-24-ios-app-available-in-more-countries-shared-links-in-alpha-bing-p-9800ed96]]'
+superseded: true
 theme: mobile-desktop
 type: change
 ---

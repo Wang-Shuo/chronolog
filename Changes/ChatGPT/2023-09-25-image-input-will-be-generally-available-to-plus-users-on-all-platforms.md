@@ -11,10 +11,11 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 38484b98aacb0c52602b30c1556d0e242e87426779185d6681775ad86ed7ed16
+machine_hash: f1858c6781be75177c60014ac417ff88889a2fb66ffc09ea347c48f7e0d74f15
 product: chatgpt
 product_name: ChatGPT
 source_release: '[[Releases/ChatGPT/chatgpt-2023-09-25-new-voice-and-image-capabilities-in-chatgpt-e8c88ec7|chatgpt-2023-09-25-new-voice-and-image-capabilities-in-chatgpt-e8c88ec7]]'
+superseded: true
 theme: multimodal
 type: change
 ---

@@ -1,9 +1,20 @@
 ---
 changes_count: 1
 date: '2023-09-05'
-machine_hash: f01ad4b9edef6bd2e36b29acec4ebc08b7270e8db59b915c91f5edbca6629e5e
+machine_hash: 550f8d287de59f52ea6f3c4ec9cf5450a0c1a75edf8d1f01e20cbfa6161cb935
 product: cursor
 product_name: Cursor
+record:
+  date: '2023-09-05'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2023-09-05-0-9-5-nightly-https-cursor-com-changelog-0-9-5-nightly-83383c54
+  source_summary: Ships with cursor-python, a Language-Server fork of pyright built
+    for Cursor
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-9-5-nightly
+  title: Cursor-Python LSP
+  version: 0.9.5-nightly
 release_id: cursor-2023-09-05-0-9-5-nightly-https-cursor-com-changelog-0-9-5-nightly-83383c54
 source_release: Cursor-Python LSP
 source_type: cursor_changelog
@@ -11,6 +22,7 @@ source_url: https://cursor.com/changelog/0-9-5-nightly
 tags:
 - release
 - cursor
+title: Cursor — Cursor-Python LSP
 version: 0.9.5-nightly
 ---
 

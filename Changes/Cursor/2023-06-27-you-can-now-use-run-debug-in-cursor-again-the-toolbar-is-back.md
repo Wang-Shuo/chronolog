@@ -3,31 +3,55 @@ card_id: cursor-2023-06-27-0d3900
 date: '2023-06-27'
 diffusion:
   first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|cursor-2023-03-18-76a713]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 101
-  role: variant
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Cursor/2023-06-24-chat-was-failing-on-some-non-git-folders-that-is-now-fixed|cursor-2023-06-24-9dd0de]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: d4bf89b70b439badebc38cf109a4a35585cfd01ae20708428933834a456d1124
+machine_hash: 4b61471c01a87e36ea57d1634fc025baf866e123c22c9aae953e086dbfbbe47d
 product: cursor
 product_name: Cursor
+record:
+  card_id: cursor-2023-06-27-0d3900
+  comparison: ''
+  date: '2023-06-27'
+  description: 'Cursor — Hotfixes: You can now use Run & debug in Cursor again (the
+    toolbar is back)'
+  evidence:
+  - quote: You can now use Run & debug in Cursor again (the toolbar is back)
+    source_release: https://cursor.com/changelog/0-2-36
+  extractor_version: fallback-v3
+  impact: incremental
+  product: cursor
+  product_name: Cursor
+  slug: you-can-now-use-run-debug-in-cursor-again-the-toolbar-is-back
+  source_release: cursor-2023-06-27-0-2-36-https-cursor-com-changelog-0-2-36-fa4e4f8d
+  source_type: cursor_changelog
+  theme: developer-workflow
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v1
+  title: You can now use Run & debug in Cursor again (the toolbar is back)
+  type: change
 related_changes:
 - '[[Changes/Cursor/2023-06-14-small-fix-for-a-format-on-save-bug-that-was-introduced-in-the-last-release-some|cursor-2023-06-14-8baa9f]]'
 - '[[Changes/Cursor/2023-06-17-the-ai-linter-now-shows-diffs|cursor-2023-06-17-39d301]]'
 - '[[Changes/Cursor/2023-06-24-chat-was-failing-on-some-non-git-folders-that-is-now-fixed|cursor-2023-06-24-9dd0de]]'
 source_release: '[[Releases/Cursor/cursor-2023-06-27-0-2-36-https-cursor-com-changelog-0-2-36-fa4e4f8d|cursor-2023-06-27-0-2-36-https-cursor-com-changelog-0-2-36-fa4e4f8d]]'
+source_type: cursor_changelog
 theme: developer-workflow
+title: You can now use Run & debug in Cursor again (the toolbar is back)
 type: change
 ---
 
 # You can now use Run & debug in Cursor again (the toolbar is back)
 
 <!-- chronolog:begin region="description" -->
-You can now use Run & debug in Cursor again (the toolbar is back)
+Cursor — Hotfixes: You can now use Run & debug in Cursor again (the toolbar is back)
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +61,15 @@ You can now use Run & debug in Cursor again (the toolbar is back)
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Cursor/2023-06-24-chat-was-failing-on-some-non-git-folders-that-is-now-fixed|cursor-2023-06-24-9dd0de]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: developer-workflow
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: variant
+- Role: later-observed
 - First In Tracked: [[Changes/Cursor/2023-03-18-built-in-terminal|cursor-2023-03-18-76a713]]
 - Lag Days: 101
 - Tracked Products Count: 3

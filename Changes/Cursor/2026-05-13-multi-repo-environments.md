@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2026-05-13-environment-configuration-as-code|cursor-2026-05-13-7a81bc]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: d6231a2d2bd6141c92740c257031b9d603ba611bafb261b9dc7540517a41d2c3
+machine_hash: b2e7c28cbdb23537aed1c1b4c023216c2fc1abfe55b4d9297d2ce7c091342705
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Claude Code/2026-05-13-feedback-can-now-include-recent-sessions-last-24-hours-or-7-days-for-issues-span|claude-code-2026-05-13-a1d58a]]'
 - '[[Changes/Cursor/2026-05-13-environment-configuration-as-code|cursor-2026-05-13-7a81bc]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-13-3-4-https-cursor-com-changelog-05-13-26-685b1c4c|cursor-2026-05-13-3-4-https-cursor-com-changelog-05-13-26-685b1c4c]]'
+superseded: true
 theme: projects-workspaces
 type: change
 ---

@@ -1,9 +1,21 @@
 ---
 changes_count: 2
 date: '2023-10-20'
-machine_hash: 798f8a20f324ae97cddb2f3e154fcedce8bc4946c230ea8618d5a0a5b7c8e1da
+machine_hash: 87f75bad68272a03fe8cb30714403408ca40222c3519cab1ce8c53804e72e579
 product: cursor
 product_name: Cursor
+record:
+  date: '2023-10-20'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2023-10-20-0-13-0-0-13-4-https-cursor-com-changelog-0-13-0-0-13-4-5f700e1b
+  source_summary: Cursor is now based on VS Code 1.83.1. This ensures that the newest
+    versions of all extensions will work without problem in Cursor. Thank you to everyone
+    who urged us to do this on the forum!
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-13-0-0-13-4
+  title: New VS Code version
+  version: 0.13.0-0.13.4
 release_id: cursor-2023-10-20-0-13-0-0-13-4-https-cursor-com-changelog-0-13-0-0-13-4-5f700e1b
 source_release: New VS Code version
 source_type: cursor_changelog
@@ -11,6 +23,7 @@ source_url: https://cursor.com/changelog/0-13-0-0-13-4
 tags:
 - release
 - cursor
+title: Cursor — New VS Code version
 version: 0.13.0-0.13.4
 ---
 

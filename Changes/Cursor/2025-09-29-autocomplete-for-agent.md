@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2025-04-15-more-accessible-history|cursor-2025-04-15-d08e87]]'
 extractor_version: fallback-v2
 impact: paradigm-shift
-machine_hash: 57e4f97b3bd3be9b46331463aa2c270d984eff96ef9b5c057328face9e996cb7
+machine_hash: 0c04778647bc551a9902475ae886b8d1a3de911b948b81a3293af7b17c51f272
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-05-06-no-tools-are-deprecated-access-is-simply-consolidated-to-clear-space-and-reduce|chatgpt-2025-05-06-7fa221]]'
 - '[[Changes/ChatGPT/2025-09-16-formatting-answers-are-better-formatted-for-quick-understanding-without-losing-d|chatgpt-2025-09-16-853082]]'
 source_release: '[[Releases/Cursor/cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae|cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae]]'
+superseded: true
 theme: interface-experience
 type: change
 ---

@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2026-03-26-to-give-you-more-space-to-view-your-most-critical-chats-and-projects-the-sidebar|chatgpt-2026-03-26-1b70e7]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 5c18878d26f7012d92f35d2f9ce9f052b48a1c281f8e0106a0521a9a045ea6a0
+machine_hash: 6d6a612e2f6ff5838e39a97da9e894c4253280c5fe187b63845e6b007bf5e672
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2026-03-23-now-it-s-easier-to-find-reuse-and-build-on-your-files-over-time-when-you-upload|chatgpt-2026-03-23-acdb79]]'
 - '[[Changes/ChatGPT/2026-03-26-to-give-you-more-space-to-view-your-most-critical-chats-and-projects-the-sidebar|chatgpt-2026-03-26-1b70e7]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-26-location-sharing-b07f88a6|chatgpt-2026-03-26-location-sharing-b07f88a6]]'
+superseded: true
 theme: mobile-desktop
 type: change
 ---

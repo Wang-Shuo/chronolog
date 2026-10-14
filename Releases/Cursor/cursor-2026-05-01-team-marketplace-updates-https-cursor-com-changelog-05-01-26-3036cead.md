@@ -1,9 +1,21 @@
 ---
 changes_count: 5
 date: '2026-05-01'
-machine_hash: 8fb2dec7b299c9b80487a7b8ebbda9bda3ce7aa52a4f317a912591aebacbfc28
+machine_hash: 3a80bf6522ad4b1cba69bc06ef17f8e5b7afd42c507b7a7d841bf1c592a92510
 product: cursor
 product_name: Cursor
+record:
+  date: '2026-05-01'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2026-05-01-team-marketplace-updates-https-cursor-com-changelog-05-01-26-3036cead
+  source_summary: Admins can now create a team marketplace without connecting a repository
+    first. Add, remove, and configure install behavior for first-party plugins directly
+    in team marketplace settings.
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/05-01-26
+  title: Team Marketplace Updates
+  version: Team Marketplace Updates
 release_id: cursor-2026-05-01-team-marketplace-updates-https-cursor-com-changelog-05-01-26-3036cead
 source_release: Team Marketplace Updates
 source_type: cursor_changelog
@@ -11,6 +23,7 @@ source_url: https://cursor.com/changelog/05-01-26
 tags:
 - release
 - cursor
+title: Cursor — Team Marketplace Updates
 version: Team Marketplace Updates
 ---
 

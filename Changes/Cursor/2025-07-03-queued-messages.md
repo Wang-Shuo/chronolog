@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2025-07-03-agents-now-plan-ahead-with-structured-to-do-lists-making-long-horizon-tasks-easi|cursor-2025-07-03-14aa9b]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: b37395e7605682ec0678d223c6170fd0934d92ad0bd56b0031b6392722a4a6ff
+machine_hash: b4d2e8c9125f25661a2ffa6fcbf153a0d2cc9ecf1c675f7a264cb468f0bd667a
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2025-06-12-agents-run-remotely-in-a-secure-environment-and-you-ll-get-updates-directly-in-s|cursor-2025-06-12-2bf13a]]'
 - '[[Changes/Cursor/2025-07-03-agents-now-plan-ahead-with-structured-to-do-lists-making-long-horizon-tasks-easi|cursor-2025-07-03-14aa9b]]'
 source_release: '[[Releases/Cursor/cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d|cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d]]'
+superseded: true
 theme: agent-mode
 type: change
 ---

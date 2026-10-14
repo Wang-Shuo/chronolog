@@ -3,31 +3,70 @@ card_id: claude-code-2026-02-18-a65c80
 date: '2026-02-18'
 diffusion:
   first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|chatgpt-2022-12-15-9c6f9c]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1161
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Claude Code/2026-02-18-improved-performance-of-file-mentions-file-suggestions-now-appear-faster-by-pre|claude-code-2026-02-18-9dd752]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: paradigm-shift
-machine_hash: d322a1a34a73466cf715a314d96de6732c316bb2f8ea5fb7a9256df5df388332
+machine_hash: e57d9107c7553ac7450cebbfa47ca1f5229fb95013536454a99b4c5d1d316658
 product: claude-code
 product_name: Claude Code
+record:
+  ai_generated: true
+  card_id: claude-code-2026-02-18-a65c80
+  comparison: ''
+  confidence: low
+  date: '2026-02-18'
+  description: 'Claude Code — v2.1.47: Improved memory usage in long-running sessions
+    by releasing API stream buffers, agent context, and skill state after use'
+  evidence:
+  - quote: Improved memory usage in long-running sessions by releasing API stream
+      buffers, agent context, and skill state after use
+    source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.47
+  extractor_version: fallback-v3
+  impact: paradigm-shift
+  product: claude-code
+  product_name: Claude Code
+  slug: improved-memory-usage-in-long-running-sessions-by-releasing-api-stream-buffers-a
+  source_release: claude-code-2026-02-18-v2-1-47-github-287886320-98b6e931
+  source_type: github_releases
+  theme: reliability-performance
+  theme_matches:
+  - matched_terms:
+    - memory
+    score: 110
+    theme: memory
+  - matched_terms:
+    - agent
+    score: 50
+    theme: agent-mode
+  - matched_terms:
+    - context
+    score: 50
+    theme: context-window
+  theme_resolution: manual-semantic-rule-v2
+  title: Improved memory usage in long-running sessions by releasing API stream buffers,
+  type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-18-improved-memory-usage-by-trimming-agent-task-message-history-after-tasks-complet|claude-code-2026-02-18-7be345]]'
 - '[[Changes/Claude Code/2026-02-18-improved-startup-performance-by-deferring-sessionstart-hook-execution-reducing-t|claude-code-2026-02-18-91c0ec]]'
 - '[[Changes/Claude Code/2026-02-18-improved-performance-of-file-mentions-file-suggestions-now-appear-faster-by-pre|claude-code-2026-02-18-9dd752]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-18-v2-1-47-github-287886320-98b6e931|claude-code-2026-02-18-v2-1-47-github-287886320-98b6e931]]'
+source_type: github_releases
 theme: reliability-performance
+title: Improved memory usage in long-running sessions by releasing API stream buffers,
 type: change
 ---
 
 # Improved memory usage in long-running sessions by releasing API stream buffers,
 
 <!-- chronolog:begin region="description" -->
-Improved memory usage in long-running sessions by releasing API stream buffers, agent context, and skill state after use
+Claude Code — v2.1.47: Improved memory usage in long-running sessions by releasing API stream buffers, agent context, and skill state after use
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +76,15 @@ Improved memory usage in long-running sessions by releasing API stream buffers, 
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Claude Code/2026-02-18-improved-performance-of-file-mentions-file-suggestions-now-appear-faster-by-pre|claude-code-2026-02-18-9dd752]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: reliability-performance
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
+- Role: later-observed
 - First In Tracked: [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|chatgpt-2022-12-15-9c6f9c]]
 - Lag Days: 1161
 - Tracked Products Count: 3

@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-09-17-all-queries-default-to-standard-unless-you-choose-to-change-it-once-you-choose-a|chatgpt-2025-09-17-d10c30]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: e955c2798cfebc40b75aca0c9564f01eaff9b9326cd3eb601138f16881421a07
+machine_hash: c21f840bd0a866eea1bbe9f95fc73788f32d4a9c5bc89f189a3fd497e4512033
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-09-17-when-you-select-gpt-5-with-thinking-in-chatgpt-you-ll-see-a-new-thinking-time-to|chatgpt-2025-09-17-389c90]]'
 - '[[Changes/ChatGPT/2025-09-17-all-queries-default-to-standard-unless-you-choose-to-change-it-once-you-choose-a|chatgpt-2025-09-17-d10c30]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-03-updating-gpt-5-a6c090c8|chatgpt-2025-10-03-updating-gpt-5-a6c090c8]]'
+superseded: true
 theme: model-support
 type: change
 ---

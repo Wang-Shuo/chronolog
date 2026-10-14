@@ -3,31 +3,54 @@ card_id: cursor-2023-03-18-188639
 date: '2023-03-18'
 diffusion:
   first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|cursor-2023-03-14-24e9bf]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 4
-  role: variant
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: editor-experience
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Cursor/2023-03-14-edits-can-be-as-long-as-you-d-like|cursor-2023-03-14-7b1ba3]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: c111cf806f04486058d36d3cf4fcee957f03937b5cfc62f6883528412aa53947
+machine_hash: 66e4aadd5614e2fccf4e335f20539abc58a6669dbd4daf788afadd0112f9aa7b
 product: cursor
 product_name: Cursor
+record:
+  card_id: cursor-2023-03-18-188639
+  comparison: ''
+  date: '2023-03-18'
+  description: 'Cursor — v0.1.2-0.1.3 (2023-03-18): Diffs automatically continue'
+  evidence:
+  - quote: Diffs automatically continue
+    source_release: https://cursor.com/changelog/0-1-2
+  extractor_version: fallback-v3
+  impact: incremental
+  product: cursor
+  product_name: Cursor
+  slug: diffs-automatically-continue
+  source_release: cursor-2023-03-18-0-1-2-https-cursor-com-changelog-0-1-2-154cc875
+  source_type: cursor_changelog
+  theme: editor-experience
+  theme_matches: []
+  theme_resolution: manual-backfill-review-v1
+  title: Diffs automatically continue
+  type: change
 related_changes:
 - '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|cursor-2023-03-14-24e9bf]]'
 - '[[Changes/Cursor/2023-03-14-editing-works-for-same-file-on-multiple-tabs|cursor-2023-03-14-47ddc1]]'
 - '[[Changes/Cursor/2023-03-14-edits-can-be-as-long-as-you-d-like|cursor-2023-03-14-7b1ba3]]'
 source_release: '[[Releases/Cursor/cursor-2023-03-18-0-1-2-https-cursor-com-changelog-0-1-2-154cc875|cursor-2023-03-18-0-1-2-https-cursor-com-changelog-0-1-2-154cc875]]'
+source_type: cursor_changelog
 theme: editor-experience
+title: Diffs automatically continue
 type: change
 ---
 
 # Diffs automatically continue
 
 <!-- chronolog:begin region="description" -->
-Diffs automatically continue
+Cursor — v0.1.2-0.1.3 (2023-03-18): Diffs automatically continue
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +60,15 @@ Diffs automatically continue
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Cursor/2023-03-14-edits-can-be-as-long-as-you-d-like|cursor-2023-03-14-7b1ba3]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: editor-experience
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: variant
+- Role: later-observed
 - First In Tracked: [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|cursor-2023-03-14-24e9bf]]
 - Lag Days: 4
 - Tracked Products Count: 3

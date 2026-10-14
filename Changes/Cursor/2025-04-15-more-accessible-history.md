@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2025-03-23-the-vertical-sidebar-option-will-temporarily-be-unavailable-for-users-who-opted|cursor-2025-03-23-5937a4]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 6d43cd5e9bdbe3931a18358b58e8cd234d9fdd4a9caa5d71834fd6ef8befc36c
+machine_hash: c5938c1047faa6240c4fc76df70dc98a7bff8c2cf75f6151c15708b5f24c5798
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-03-18-improved-response-display-of-nested-blockquote-content|chatgpt-2025-03-18-e948eb]]'
 - '[[Changes/Cursor/2025-03-23-the-vertical-sidebar-option-will-temporarily-be-unavailable-for-users-who-opted|cursor-2025-03-23-5937a4]]'
 source_release: '[[Releases/Cursor/cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f|cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f]]'
+superseded: true
 theme: interface-experience
 type: change
 ---

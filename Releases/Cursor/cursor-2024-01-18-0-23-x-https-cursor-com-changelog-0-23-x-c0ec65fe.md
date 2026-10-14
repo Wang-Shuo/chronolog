@@ -1,9 +1,20 @@
 ---
 changes_count: 4
 date: '2024-01-18'
-machine_hash: 3ce4bd381fc7f35439684499f70e8467fab5277284b39d2c2501dcf598abb366
+machine_hash: 1a8fc022572a16b61210d69532235e55268291c60aac38cd0ab489facfc07708
 product: cursor
 product_name: Cursor
+record:
+  date: '2024-01-18'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2024-01-18-0-23-x-https-cursor-com-changelog-0-23-x-c0ec65fe
+  source_summary: '"cursor-fast": This is a new model available in command-k and chat.
+    Expect it to be a bit smarter than gpt-3.5, and with many fewer formatting errors.'
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-23-x
+  title: New Model, Apply Button v2
+  version: 0.23.x
 release_id: cursor-2024-01-18-0-23-x-https-cursor-com-changelog-0-23-x-c0ec65fe
 source_release: New Model, Apply Button v2
 source_type: cursor_changelog
@@ -11,6 +22,7 @@ source_url: https://cursor.com/changelog/0-23-x
 tags:
 - release
 - cursor
+title: Cursor — New Model, Apply Button v2
 version: 0.23.x
 ---
 

@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-10-23-content-creation-apply-project-specific-instructions-to-keep-tone-and-style-cons|chatgpt-2025-10-23-52a8ca]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: b9ca59a10d99e3fd4145e7dc071e3b9e24fd268744815d7db0fcb77e642d63a5
+machine_hash: 9ae0746379d9d342c7a2a98bb72490dd60d675ce1cd2741c9cff36426cc373e3
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-08-11-plus-box-canva-dropbox-hubspot-notion-microsoft-sharepoint-and-microsoft-teams|chatgpt-2025-08-11-5966c6]]'
 - '[[Changes/ChatGPT/2025-10-23-content-creation-apply-project-specific-instructions-to-keep-tone-and-style-cons|chatgpt-2025-10-23-52a8ca]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-23-shared-projects-217fa07d|chatgpt-2025-10-23-shared-projects-217fa07d]]'
+superseded: true
 theme: collaboration
 type: change
 ---

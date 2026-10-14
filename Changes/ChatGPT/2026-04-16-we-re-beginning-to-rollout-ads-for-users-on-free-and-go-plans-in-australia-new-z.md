@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2026-03-18-we-re-rolling-out-gpt-5-4-mini-in-chatgpt-gpt-5-4-mini-is-available-to-free-and|chatgpt-2026-03-18-64ffa1]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: 3c37a77eda03725c55d699d9467ed83bdc9c36f3ca132ffdf947a62656f19397
+machine_hash: c55a9290b885b8587297ee0efb20f5c8d90eb229d48317b8a2f9157e1a6cb4fd
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Claude Code/2026-04-07-changed-default-effort-level-from-medium-to-high-for-api-key-bedrock-vertex-foun|claude-code-2026-04-07-ff50d2]]'
 - '[[Changes/Claude Code/2026-04-10-added-os-ca-certificate-store-trust-by-default-so-enterprise-tls-proxies-work-wi|claude-code-2026-04-10-efc05f]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-04-16-rolling-out-ads-in-australia-new-zealand-and-canada-82e516b1|chatgpt-2026-04-16-rolling-out-ads-in-australia-new-zealand-and-canada-82e516b1]]'
+superseded: true
 theme: enterprise-admin
 type: change
 ---

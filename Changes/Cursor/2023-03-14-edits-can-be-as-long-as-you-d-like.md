@@ -3,30 +3,53 @@ card_id: cursor-2023-03-14-7b1ba3
 date: '2023-03-14'
 diffusion:
   first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|cursor-2023-03-14-24e9bf]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 0
-  role: variant
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: editor-experience
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Cursor/2023-03-14-editing-works-for-same-file-on-multiple-tabs|cursor-2023-03-14-47ddc1]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: f0c05b70a7473c90e6d4a7a1cede883303dceb8ebf0f5c1b96a0e40afedcae34
+machine_hash: 6dda664b9e8d5af8ce717f7cd679da66d2f0d4e9c771e26a53cb9e4000a5014c
 product: cursor
 product_name: Cursor
+record:
+  card_id: cursor-2023-03-14-7b1ba3
+  comparison: ''
+  date: '2023-03-14'
+  description: 'Cursor — v0.0.37 (2023-03-14): Edits can be as long as you''d like'
+  evidence:
+  - quote: Edits can be as long as you'd like
+    source_release: https://cursor.com/changelog/0-0-37
+  extractor_version: fallback-v3
+  impact: incremental
+  product: cursor
+  product_name: Cursor
+  slug: edits-can-be-as-long-as-you-d-like
+  source_release: cursor-2023-03-14-0-0-37-https-cursor-com-changelog-0-0-37-236c8006
+  source_type: cursor_changelog
+  theme: editor-experience
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v1
+  title: Edits can be as long as you'd like
+  type: change
 related_changes:
 - '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|cursor-2023-03-14-24e9bf]]'
 - '[[Changes/Cursor/2023-03-14-editing-works-for-same-file-on-multiple-tabs|cursor-2023-03-14-47ddc1]]'
 source_release: '[[Releases/Cursor/cursor-2023-03-14-0-0-37-https-cursor-com-changelog-0-0-37-236c8006|cursor-2023-03-14-0-0-37-https-cursor-com-changelog-0-0-37-236c8006]]'
+source_type: cursor_changelog
 theme: editor-experience
+title: Edits can be as long as you'd like
 type: change
 ---
 
 # Edits can be as long as you'd like
 
 <!-- chronolog:begin region="description" -->
-Edits can be as long as you'd like
+Cursor — v0.0.37 (2023-03-14): Edits can be as long as you'd like
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -36,13 +59,15 @@ Edits can be as long as you'd like
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Cursor/2023-03-14-editing-works-for-same-file-on-multiple-tabs|cursor-2023-03-14-47ddc1]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: editor-experience
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: variant
+- Role: later-observed
 - First In Tracked: [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|cursor-2023-03-14-24e9bf]]
 - Lag Days: 0
 - Tracked Products Count: 3

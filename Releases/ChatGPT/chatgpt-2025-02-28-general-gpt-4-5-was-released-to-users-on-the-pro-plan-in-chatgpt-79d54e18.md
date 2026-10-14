@@ -1,13 +1,14 @@
 ---
 changes_count: 5
 date: '2025-02-28'
-machine_hash: 3ab92ee4238812c633cf55dd4edcb5e07c56176ecdf30a6f8768655c53d6af7b
+machine_hash: 403b1a16c77767924ef32650589c66f765fd2d134f8f72512235e4da5380e0db
 product: chatgpt
 product_name: ChatGPT
 release_id: chatgpt-2025-02-28-general-gpt-4-5-was-released-to-users-on-the-pro-plan-in-chatgpt-79d54e18
 source_release: '- General GPT-4.5 was released to users on the Pro plan in ChatGPT.'
 source_type: chatgpt_changelog
 source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+superseded: true
 tags:
 - release
 - chatgpt

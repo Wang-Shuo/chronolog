@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2024-04-29-memory-is-now-available-to-all-chatgpt-plus-users-except-in-europe-korea-where-w|chatgpt-2024-04-29-c3370d]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: c1bccf16dd547f07a3374cc6a16b9278a37ba0b53a16030f7e3a7bed6df0d5a1
+machine_hash: 39e4fdac39e3a4016d45a360b3c85956b951380b28b748e6b33606de6a514ab1
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2024-04-29-memory-can-be-turned-on-or-off-in-settings-team-enterprise-and-gpts-to-come|chatgpt-2024-04-29-9bedfd]]'
 - '[[Changes/ChatGPT/2024-04-29-memory-is-now-available-to-all-chatgpt-plus-users-except-in-europe-korea-where-w|chatgpt-2024-04-29-c3370d]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-01-17-more-personalization-in-custom-instructions-bab36367|chatgpt-2025-01-17-more-personalization-in-custom-instructions-bab36367]]'
+superseded: true
 theme: memory
 type: change
 ---

@@ -1,9 +1,20 @@
 ---
 changes_count: 4
 date: '2023-11-27'
-machine_hash: 885e29b3a116970a39502d37f15b3328af08d25053ea9f73985e82f1e6dd9fcc
+machine_hash: 8a33777bd574171ce7927346b54c6eb30f740ffa21a81a2f186989343c859323
 product: cursor
 product_name: Cursor
+record:
+  date: '2023-11-27'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2023-11-27-0-17-0-https-cursor-com-changelog-0-17-0-871d6ce3
+  source_summary: 'Image Support in Chat: You can now drag and drop images into the
+    chat to send them to the AI.'
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-17-0
+  title: Image Support, Interpreter Mode Beta, @ Folders
+  version: 0.17.0
 release_id: cursor-2023-11-27-0-17-0-https-cursor-com-changelog-0-17-0-871d6ce3
 source_release: Image Support, Interpreter Mode Beta, @ Folders
 source_type: cursor_changelog
@@ -11,6 +22,7 @@ source_url: https://cursor.com/changelog/0-17-0
 tags:
 - release
 - cursor
+title: Cursor — Image Support, Interpreter Mode Beta, @ Folders
 version: 0.17.0
 ---
 

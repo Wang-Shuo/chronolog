@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2026-04-02-you-can-switch-back-to-the-ide-anytime-or-have-both-open-simultaneously|cursor-2026-04-02-ed78a6]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: beb16194bd9762c88cf87064d2e7b248a406c97a67116a288cb9323b710efe75
+machine_hash: ed98441bec3b88d0d96af1787da33f04ea35f923235ebf4f05110aa19a2dc81c
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Claude Code/2026-04-08-added-focus-view-toggle-ctrl-o-in-no-flicker-mode-showing-prompt-one-line-tool-s|claude-code-2026-04-08-e9c02e]]'
 - '[[Changes/Claude Code/2026-04-09-added-claude-code-perforce-mode-env-var-when-set-edit-write-notebookedit-fail-on|claude-code-2026-04-09-cbd468]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-15-canvases-https-cursor-com-changelog-04-15-26-cd056bf7|cursor-2026-04-15-canvases-https-cursor-com-changelog-04-15-26-cd056bf7]]'
+superseded: true
 theme: editor-experience
 type: change
 ---

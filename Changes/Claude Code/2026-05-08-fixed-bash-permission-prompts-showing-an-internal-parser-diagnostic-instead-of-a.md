@@ -3,31 +3,58 @@ card_id: claude-code-2026-05-08-05c237
 date: '2026-05-08'
 diffusion:
   first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|cursor-2023-04-16-f0e22a]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1118
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Claude Code/2026-05-07-added-sandbox-bwrappath-and-sandbox-socatpath-managed-settings-linux-wsl-to-spec|claude-code-2026-05-07-b75d47]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: c05236bea8d022d44cc086ce039efbe914d59f9ca891712b24ab8515add40ac8
+machine_hash: a2a5f9bc1afcc1f5f199f1302591f8c7c5ea1d63fb7e61661849835f0603862f
 product: claude-code
 product_name: Claude Code
+record:
+  card_id: claude-code-2026-05-08-05c237
+  comparison: ''
+  date: '2026-05-08'
+  description: 'Claude Code — v2.1.136: Fixed Bash permission prompts showing an internal
+    parser diagnostic instead of a user-readable explanation'
+  evidence:
+  - quote: Fixed Bash permission prompts showing an internal parser diagnostic instead
+      of a user-readable explanation
+    source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.136
+  extractor_version: fallback-v3
+  impact: incremental
+  product: claude-code
+  product_name: Claude Code
+  slug: fixed-bash-permission-prompts-showing-an-internal-parser-diagnostic-instead-of-a
+  source_release: claude-code-2026-05-08-v2-1-136-github-319609716-58f21368
+  source_type: github_releases
+  theme: safety-privacy
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v2
+  title: Fixed Bash permission prompts showing an internal parser diagnostic instead
+    of a
+  type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-06-fixed-permission-mode-flag-being-ignored-when-resuming-a-plan-mode-session-with|claude-code-2026-05-06-ab7de0]]'
 - '[[Changes/ChatGPT/2026-05-07-over-the-coming-weeks-we-ll-be-rolling-out-trusted-contact-an-optional-safety-fe|chatgpt-2026-05-07-d104ca]]'
 - '[[Changes/Claude Code/2026-05-07-added-sandbox-bwrappath-and-sandbox-socatpath-managed-settings-linux-wsl-to-spec|claude-code-2026-05-07-b75d47]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-08-v2-1-136-github-319609716-58f21368|claude-code-2026-05-08-v2-1-136-github-319609716-58f21368]]'
+source_type: github_releases
 theme: safety-privacy
+title: Fixed Bash permission prompts showing an internal parser diagnostic instead
+  of a
 type: change
 ---
 
 # Fixed Bash permission prompts showing an internal parser diagnostic instead of a
 
 <!-- chronolog:begin region="description" -->
-Fixed Bash permission prompts showing an internal parser diagnostic instead of a user-readable explanation
+Claude Code — v2.1.136: Fixed Bash permission prompts showing an internal parser diagnostic instead of a user-readable explanation
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +64,15 @@ Fixed Bash permission prompts showing an internal parser diagnostic instead of a
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Claude Code/2026-05-07-added-sandbox-bwrappath-and-sandbox-socatpath-managed-settings-linux-wsl-to-spec|claude-code-2026-05-07-b75d47]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: safety-privacy
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
+- Role: later-observed
 - First In Tracked: [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|cursor-2023-04-16-f0e22a]]
 - Lag Days: 1118
 - Tracked Products Count: 3

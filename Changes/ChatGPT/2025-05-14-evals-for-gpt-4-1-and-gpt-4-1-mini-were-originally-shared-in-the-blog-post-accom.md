@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-05-14-gpt-4-1-is-a-specialized-model-that-excels-at-coding-tasks-compared-to-gpt-4o-it|chatgpt-2025-05-14-8bf9fe]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 8061a29b506096e73a7fd4ea7441d56ec2aaa9ea3387a8bf19ba3af1ad07f7b7
+machine_hash: ef30f2e67886f5c9aa07cde473073d124853671dfef4e18b41f486447f47630d
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-05-14-gpt-4-1-mini-is-a-fast-capable-and-efficient-small-model-delivering-significant|chatgpt-2025-05-14-2d07ab]]'
 - '[[Changes/ChatGPT/2025-05-14-gpt-4-1-is-a-specialized-model-that-excels-at-coding-tasks-compared-to-gpt-4o-it|chatgpt-2025-05-14-8bf9fe]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-14-introducing-gpt-4-1-mini-replacing-gpt-4o-mini-in-chatgpt-for-al-05dfeae0|chatgpt-2025-05-14-introducing-gpt-4-1-mini-replacing-gpt-4o-mini-in-chatgpt-for-al-05dfeae0]]'
+superseded: true
 theme: model-support
 type: change
 ---

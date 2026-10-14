@@ -11,10 +11,11 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 05a1f676c3ce31ef120a3a2d20ee52ac17215498056f9f3923a7a5c7789e80c5
+machine_hash: 4b58890e9e33d614e35a50cf18fe0154987eb17e7b7cd9bb90c06c20f4a3da87
 product: chatgpt
 product_name: ChatGPT
 source_release: '[[Releases/ChatGPT/chatgpt-2023-05-24-ios-app-available-in-more-countries-shared-links-in-alpha-bing-p-9800ed96|chatgpt-2023-05-24-ios-app-available-in-more-countries-shared-links-in-alpha-bing-p-9800ed96]]'
+superseded: true
 theme: collaboration
 type: change
 ---

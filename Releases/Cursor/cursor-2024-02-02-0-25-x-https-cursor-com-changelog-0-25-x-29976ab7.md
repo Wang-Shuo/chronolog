@@ -1,9 +1,19 @@
 ---
 changes_count: 4
 date: '2024-02-02'
-machine_hash: 3cffa2f1c22e01619bd93e73f635f4f3084d1ea3ae6c97d361347a826cb5abc3
+machine_hash: 7fb60139326ba3273fb1187cb2c93ece695f3ab3f0b30cd86d467a33de5b88b5
 product: cursor
 product_name: Cursor
+record:
+  date: '2024-02-02'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2024-02-02-0-25-x-https-cursor-com-changelog-0-25-x-29976ab7
+  source_summary: You can now drag images into the Command-K prompt bar!
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-25-x
+  title: Command-K Vision Support
+  version: 0.25.x
 release_id: cursor-2024-02-02-0-25-x-https-cursor-com-changelog-0-25-x-29976ab7
 source_release: Command-K Vision Support
 source_type: cursor_changelog
@@ -11,6 +21,7 @@ source_url: https://cursor.com/changelog/0-25-x
 tags:
 - release
 - cursor
+title: Cursor — Command-K Vision Support
 version: 0.25.x
 ---
 

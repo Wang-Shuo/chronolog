@@ -1,0 +1,25 @@
+
+> chronolog@0.1.0 build
+> quartz build --output /tmp/chronolog-m2-first/site
+
+
+ Quartz v0.1.0  
+
+(node:52313) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Cleaned output directory `/tmp/chronolog-m2-first/site` in 441ms
+Found 3129 input files from `.` in 205ms
+Parsing input files using 4 threads
+(node:52313) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:52313) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:52313) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:52313) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Parsed 3129 Markdown files in 8s
+Filtered out 373 files in 16ms
+Emitting files
+Emitted 2804 files to `/tmp/chronolog-m2-first/site` in 5s
+Done processing 3129 files in 14s

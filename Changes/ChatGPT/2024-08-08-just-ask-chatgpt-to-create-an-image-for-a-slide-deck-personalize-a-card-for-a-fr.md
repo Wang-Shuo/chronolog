@@ -12,13 +12,14 @@ evolves_from:
 - '[[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com|chatgpt-2024-01-10-3e6f37]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: f6e3474197aec92f548802150a0c348e5adb8af438cae61cc2a8636f801b9cc7
+machine_hash: 10469204f6b3bd05e16f86a474030048788d3d6648d70bda2ea23d48dce10653
 product: chatgpt
 product_name: ChatGPT
 related_changes:
 - '[[Changes/ChatGPT/2023-10-16-we-ve-integrated-dall-e-3-with-chatgpt-allowing-it-to-respond-to-your-requests-w|chatgpt-2023-10-16-1425df]]'
 - '[[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com|chatgpt-2024-01-10-3e6f37]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-08-08-dall-e-3-for-chatgpt-free-users-379feaa2|chatgpt-2024-08-08-dall-e-3-for-chatgpt-free-users-379feaa2]]'
+superseded: true
 theme: image-generation
 type: change
 ---

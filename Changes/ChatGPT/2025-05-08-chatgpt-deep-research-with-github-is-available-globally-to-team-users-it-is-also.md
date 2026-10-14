@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-02-14-set-chatgpt-as-default-search-engine-in-safari|chatgpt-2025-02-14-6ee943]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 3066d33981e12bf881f94e15deb93d1ae04dca92047b941aa837723154b2937f
+machine_hash: edd9ac785aae91f84b1db3209b9bfdad2bedf1ac825cdafdaf5fd79ebae4d26a
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2024-01-25-using-web-in-chat-will-give-the-ai-the-ability-to-crawl-the-web-the-tools-it-can|cursor-2024-01-25-e32ad8]]'
 - '[[Changes/ChatGPT/2025-02-14-set-chatgpt-as-default-search-engine-in-safari|chatgpt-2025-02-14-6ee943]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-08-github-connector-for-deep-research-for-plus-pro-team-498e1135|chatgpt-2025-05-08-github-connector-for-deep-research-for-plus-pro-team-498e1135]]'
+superseded: true
 theme: search-browsing
 type: change
 ---

@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-02-28-the-temporary-chat-icon-is-now-in-top-bar-to-make-the-temporary-chat-experience|chatgpt-2025-02-28-9ca296]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: a162e0f1733a0461f5301ff0e841561fa9f71d5bcd7895f94ee652291a3b670c
+machine_hash: ee315520ac64152b24fb5b7b3f114315d18aef769a22d5fd11b12a426c3d9bcb
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2025-02-19-0-46-3-enhanced-download-reliability-fixed-keybinding-issue|cursor-2025-02-19-686f4b]]'
 - '[[Changes/ChatGPT/2025-02-28-the-temporary-chat-icon-is-now-in-top-bar-to-make-the-temporary-chat-experience|chatgpt-2025-02-28-9ca296]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-03-18-ios-app-6a42bb0f|chatgpt-2025-03-18-ios-app-6a42bb0f]]'
+superseded: true
 theme: interface-experience
 type: change
 ---

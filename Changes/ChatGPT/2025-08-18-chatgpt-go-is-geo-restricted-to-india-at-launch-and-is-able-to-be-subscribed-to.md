@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-08-18-we-re-launching-chatgpt-go-a-new-low-cost-subscription-plan-this-will-initially|chatgpt-2025-08-18-c0fbcb]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 9b83346fce66211624945d4e654e30c0cd6d2be73cd5caddffc55f1136685644
+machine_hash: b7834d48a2f16f8368be957ed7e529c014e92b1335f1bbab569d76750d1983b6
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2025-05-15-all-model-usage-is-now-unified-into-request-based-pricing|cursor-2025-05-15-fcfeee]]'
 - '[[Changes/ChatGPT/2025-08-18-we-re-launching-chatgpt-go-a-new-low-cost-subscription-plan-this-will-initially|chatgpt-2025-08-18-c0fbcb]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-18-introducing-chatgpt-go-fbc1ef7a|chatgpt-2025-08-18-introducing-chatgpt-go-fbc1ef7a]]'
+superseded: true
 theme: pricing-model
 type: change
 ---

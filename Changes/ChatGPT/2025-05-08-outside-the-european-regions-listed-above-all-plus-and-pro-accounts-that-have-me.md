@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-05-08-saved-memories-and-chat-history-are-offered-only-to-plus-and-pro-accounts|chatgpt-2025-05-08-151bd2]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 3178422d816097d390e728523473228bc7db45b5b2ba29118387a1db7dcdc67e
+machine_hash: b45a8ff09d761a010b6a9d709bb5bec8e691d335d08f04a23205c46bd2414ccf
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-04-16-chatgpt-can-also-use-memories-to-inform-search-queries-when-chatgpt-searches-the|chatgpt-2025-04-16-c95e51]]'
 - '[[Changes/ChatGPT/2025-05-08-saved-memories-and-chat-history-are-offered-only-to-plus-and-pro-accounts|chatgpt-2025-05-08-151bd2]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-08-enhanced-memory-in-chatgpt-including-eu-on-plus-pro-b6107d35|chatgpt-2025-05-08-enhanced-memory-in-chatgpt-including-eu-on-plus-pro-b6107d35]]'
+superseded: true
 theme: memory
 type: change
 ---

@@ -1,9 +1,20 @@
 ---
 changes_count: 4
 date: '2026-03-05'
-machine_hash: 4757ce59a404ff9dd0a0a17942bea4db2ca746bc93b0c1d12d141fc8a0b6bf85
+machine_hash: fd550282a951e7d05dd34b24cca24fc8c676eff4a8c5616a57f0d7ee004db783
 product: cursor
 product_name: Cursor
+record:
+  date: '2026-03-05'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2026-03-05-automations-https-cursor-com-changelog-03-05-26-be367422
+  source_summary: Cursor now supports automations for building always-on agents that
+    run based on triggers and instructions you define.
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/03-05-26
+  title: Automations
+  version: Automations
 release_id: cursor-2026-03-05-automations-https-cursor-com-changelog-03-05-26-be367422
 source_release: Automations
 source_type: cursor_changelog
@@ -11,6 +22,7 @@ source_url: https://cursor.com/changelog/03-05-26
 tags:
 - release
 - cursor
+title: Cursor — Automations
 version: Automations
 ---
 

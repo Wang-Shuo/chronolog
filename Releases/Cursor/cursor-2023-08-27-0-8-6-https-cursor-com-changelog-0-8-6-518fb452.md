@@ -1,9 +1,19 @@
 ---
 changes_count: 0
 date: '2023-08-27'
-machine_hash: e452e219826a43e6a8887cd876bc574a5c3281eca9d26fde2f7b8b71b6806eb6
+machine_hash: 7161416af53f0d8b9572b7972244b01b0662d4546cb0b14296060cccf3433ce3
 product: cursor
 product_name: Cursor
+record:
+  date: '2023-08-27'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2023-08-27-0-8-6-https-cursor-com-changelog-0-8-6-518fb452
+  source_summary: The email under the logout button in Cursor settings was not updating.
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-8-6
+  title: Email in settings
+  version: 0.8.6
 release_id: cursor-2023-08-27-0-8-6-https-cursor-com-changelog-0-8-6-518fb452
 source_release: Email in settings
 source_type: cursor_changelog
@@ -11,6 +21,7 @@ source_url: https://cursor.com/changelog/0-8-6
 tags:
 - release
 - cursor
+title: Cursor — Email in settings
 version: 0.8.6
 ---
 

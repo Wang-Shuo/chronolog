@@ -36,13 +36,13 @@ def analyze_themes(cards: list[dict[str, Any]]) -> dict[str, Any]:
         }
         for index, card in enumerate(ordered):
             previous = [other["card_id"] for other in ordered[max(0, index - 3) : index]]
-            role = "originator" if card["card_id"] == first["card_id"] else "follower"
-            if card["product"] == first["product"] and role != "originator":
-                role = "variant"
+            role = "first-observed" if card["card_id"] == first["card_id"] else "later-observed"
             patches[card["card_id"]] = {
                 "related_changes": previous,
                 "diffusion": {
                     "theme": theme,
+                    "relation": "same-theme-chronology",
+                    "inference": "No adoption, equivalence, or causation claim.",
                     "scope": "tracked-products-only",
                     "role": role,
                     "first_in_tracked": first["card_id"],

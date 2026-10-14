@@ -2,31 +2,66 @@
 card_id: cursor-2026-03-05-d7b50e
 date: '2026-03-05'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2025-01-14-scheduled-tasks-is-in-early-beta-for-plus-pro-and-teams-eventually-this-will-be|chatgpt-2025-01-14-24a2be]]'
-  lag_days: 415
-  role: follower
+  first_in_tracked: '[[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now|chatgpt-2025-12-17-d1d8fe]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 78
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v2
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: fa19eb1c3046cfa2331c41e96d2973c8494df54430966bffd00650e2dceb3f07
+machine_hash: 700b5b5fd5342cf55dffbcc2c48e102efd4f7e2101f98099b719de5714dd1cdc
 product: cursor
 product_name: Cursor
+record:
+  card_id: cursor-2026-03-05-d7b50e
+  comparison: ''
+  date: '2026-03-05'
+  description: 'Cursor — Automations: Cursor now supports automations for building
+    always-on agents that run based on triggers and instructions you define.'
+  evidence:
+  - quote: Cursor now supports automations for building always-on agents that run
+      based on triggers and instructions you define.
+    source_release: https://cursor.com/changelog/03-05-26
+  extractor_version: fallback-v3
+  impact: incremental
+  product: cursor
+  product_name: Cursor
+  slug: cursor-now-supports-automations-for-building-always-on-agents-that-run-based-on
+  source_release: cursor-2026-03-05-automations-https-cursor-com-changelog-03-05-26-be367422
+  source_type: cursor_changelog
+  theme: automation-scheduling
+  theme_matches:
+  - matched_terms:
+    - agents
+    score: 50
+    theme: agent-mode
+  - matched_terms:
+    - automations
+    score: 50
+    theme: automation-scheduling
+  theme_resolution: manual-semantic-rule-v1
+  title: Cursor now supports automations for building always-on agents that run based
+    on
+  type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-09-25-if-you-ask-for-something-new-in-the-evening-we-aim-to-include-it-the-next-mornin|chatgpt-2025-09-25-e0561d]]'
 - '[[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now|chatgpt-2025-12-17-d1d8fe]]'
 - '[[Changes/ChatGPT/2025-12-17-create-tasks-in-chat-or-in-pulse-whatever-s-easier-in-the-moment|chatgpt-2025-12-17-f3fe78]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-05-automations-https-cursor-com-changelog-03-05-26-be367422|cursor-2026-03-05-automations-https-cursor-com-changelog-03-05-26-be367422]]'
+source_type: cursor_changelog
 theme: automation-scheduling
+title: Cursor now supports automations for building always-on agents that run based
+  on
 type: change
 ---
 
 # Cursor now supports automations for building always-on agents that run based on
 
 <!-- chronolog:begin region="description" -->
-Cursor now supports automations for building always-on agents that run based on triggers and instructions you define.
+Cursor — Automations: Cursor now supports automations for building always-on agents that run based on triggers and instructions you define.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -36,15 +71,17 @@ Cursor now supports automations for building always-on agents that run based on 
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-No prior tracked change.
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: automation-scheduling
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
-- First In Tracked: [[Changes/ChatGPT/2025-01-14-scheduled-tasks-is-in-early-beta-for-plus-pro-and-teams-eventually-this-will-be|chatgpt-2025-01-14-24a2be]]
-- Lag Days: 415
+- Role: later-observed
+- First In Tracked: [[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now|chatgpt-2025-12-17-d1d8fe]]
+- Lag Days: 78
 - Tracked Products Count: 3
 <!-- chronolog:end -->
 

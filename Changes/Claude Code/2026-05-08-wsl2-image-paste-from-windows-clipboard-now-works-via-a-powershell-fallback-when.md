@@ -2,32 +2,59 @@
 card_id: claude-code-2026-05-08-2b3d18
 date: '2026-05-08'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-image-input-will-be-generally-available-to-plus-users-on-all-platforms|chatgpt-2023-09-25-8f3fc7]]'
-  lag_days: 956
-  role: follower
+  first_in_tracked: '[[Changes/Cursor/2023-11-27-image-support-in-chat-you-can-now-drag-and-drop-images-into-the-chat-to-send-the|cursor-2023-11-27-1702a4]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 893
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: multimodal
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Claude Code/2025-12-19-added-clickable-image-n-links-that-open-attached-images-in-the-default-viewer|claude-code-2025-12-19-4f76b7]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: de8061f01ba83e9cdbfe614a79594dc8ad8fac9350a0c791da7e822aaaceadd7
+machine_hash: 63c495eaddaa64234712a0848651392373a683764a13bc58b6c38959e2f66523
 product: claude-code
 product_name: Claude Code
+record:
+  card_id: claude-code-2026-05-08-2b3d18
+  comparison: ''
+  date: '2026-05-08'
+  description: 'Claude Code — v2.1.136: WSL2: image paste from Windows clipboard now
+    works via a PowerShell fallback when xclip/wl-paste cannot read image data'
+  evidence:
+  - quote: 'WSL2: image paste from Windows clipboard now works via a PowerShell fallback
+      when xclip/wl-paste cannot read image data'
+    source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.136
+  extractor_version: fallback-v3
+  impact: incremental
+  product: claude-code
+  product_name: Claude Code
+  slug: wsl2-image-paste-from-windows-clipboard-now-works-via-a-powershell-fallback-when
+  source_release: claude-code-2026-05-08-v2-1-136-github-319609716-58f21368
+  source_type: github_releases
+  theme: multimodal
+  theme_matches: []
+  theme_resolution: manual-backfill-review-v1
+  title: 'WSL2: image paste from Windows clipboard now works via a PowerShell fallback
+    whe'
+  type: change
 related_changes:
 - '[[Changes/Cursor/2023-11-27-image-support-in-chat-you-can-now-drag-and-drop-images-into-the-chat-to-send-the|cursor-2023-11-27-1702a4]]'
 - '[[Changes/ChatGPT/2024-12-12-use-the-controls-at-the-bottom-of-the-screen-like-the-camera-button-below-to-get|chatgpt-2024-12-12-5a71ee]]'
 - '[[Changes/Claude Code/2025-12-19-added-clickable-image-n-links-that-open-attached-images-in-the-default-viewer|claude-code-2025-12-19-4f76b7]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-08-v2-1-136-github-319609716-58f21368|claude-code-2026-05-08-v2-1-136-github-319609716-58f21368]]'
+source_type: github_releases
 theme: multimodal
+title: 'WSL2: image paste from Windows clipboard now works via a PowerShell fallback
+  whe'
 type: change
 ---
 
 # WSL2: image paste from Windows clipboard now works via a PowerShell fallback whe
 
 <!-- chronolog:begin region="description" -->
-WSL2: image paste from Windows clipboard now works via a PowerShell fallback when xclip/wl-paste cannot read image data
+Claude Code — v2.1.136: WSL2: image paste from Windows clipboard now works via a PowerShell fallback when xclip/wl-paste cannot read image data
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,15 +64,17 @@ WSL2: image paste from Windows clipboard now works via a PowerShell fallback whe
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Claude Code/2025-12-19-added-clickable-image-n-links-that-open-attached-images-in-the-default-viewer|claude-code-2025-12-19-4f76b7]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: multimodal
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
-- First In Tracked: [[Changes/ChatGPT/2023-09-25-image-input-will-be-generally-available-to-plus-users-on-all-platforms|chatgpt-2023-09-25-8f3fc7]]
-- Lag Days: 956
+- Role: later-observed
+- First In Tracked: [[Changes/Cursor/2023-11-27-image-support-in-chat-you-can-now-drag-and-drop-images-into-the-chat-to-send-the|cursor-2023-11-27-1702a4]]
+- Lag Days: 893
 - Tracked Products Count: 3
 <!-- chronolog:end -->
 

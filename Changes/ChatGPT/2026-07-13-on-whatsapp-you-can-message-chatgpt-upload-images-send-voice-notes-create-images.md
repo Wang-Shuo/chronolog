@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2026-07-08-we-re-rolling-out-a-new-chatgpt-voice-experience-chatgpt-voice-is-now-powered-by|chatgpt-2026-07-08-b5acef]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: c6425b2f444e53168bc6942e177a4852a07f96c1849e23840ad37b9996c9061d
+machine_hash: f3e1f28c7d71a9b452d3442c32855377b1be5480e50d2b770caa0e452e49c114
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2026-06-29-open-the-cursor-mobile-app-choose-a-repo-and-launch-an-agent-the-same-way-you-wo|cursor-2026-06-29-fe852a]]'
 - '[[Changes/ChatGPT/2026-07-08-we-re-rolling-out-a-new-chatgpt-voice-experience-chatgpt-voice-is-now-powered-by|chatgpt-2026-07-08-b5acef]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-13-chatgpt-returns-to-whatsapp-in-the-eea-ce61ee08|chatgpt-2026-07-13-chatgpt-returns-to-whatsapp-in-the-eea-ce61ee08]]'
+superseded: true
 theme: voice
 type: change
 ---

@@ -3,31 +3,65 @@ card_id: claude-code-2026-07-02-883324
 date: '2026-07-02'
 diffusion:
   first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|cursor-2023-03-18-76a713]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1202
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Claude Code/2026-06-15-improved-doctor-with-consistent-flat-tree-layout-across-all-sections-clearer-sec|claude-code-2026-06-15-a6ee0d]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 731b270affbdae76f85e1a39d7be004fb21e61e72c184a1a0e9a221c50c81000
+machine_hash: 16cd153319da437188f8c37d3908eaae1a6597f69a21e452d885eab86905f842
 product: claude-code
 product_name: Claude Code
+record:
+  card_id: claude-code-2026-07-02-883324
+  comparison: ''
+  date: '2026-07-02'
+  description: 'Claude Code — v2.1.199: `claude agents` session rows now show pull-request
+    links as bare `#N` without the redundant "PR" label'
+  evidence:
+  - quote: '`claude agents` session rows now show pull-request links as bare `#N`
+      without the redundant "PR" label'
+    source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.199
+  extractor_version: fallback-v3
+  impact: incremental
+  product: claude-code
+  product_name: Claude Code
+  slug: claude-agents-session-rows-now-show-pull-request-links-as-bare-n-without-the-red
+  source_release: claude-code-2026-07-02-v2-1-199-github-348195313-a8a76d9f
+  source_type: github_releases
+  theme: developer-workflow
+  theme_matches:
+  - matched_terms:
+    - pull request
+    score: 60
+    theme: developer-workflow
+  - matched_terms:
+    - agents
+    score: 50
+    theme: agent-mode
+  theme_resolution: manual-semantic-rule-v1
+  title: '`claude agents` session rows now show pull-request links as bare `#N` without
+    th'
+  type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-10-run-bugbot-before-you-push|cursor-2026-06-10-a3e43e]]'
+- '[[Changes/Claude Code/2026-06-04-skills-added-escape-syntax-to-include-a-literal-before-a-digit-in-command-bodies|claude-code-2026-06-04-c16d8f]]'
 - '[[Changes/Claude Code/2026-06-15-improved-doctor-with-consistent-flat-tree-layout-across-all-sections-clearer-sec|claude-code-2026-06-15-a6ee0d]]'
 - '[[Changes/Cursor/2026-06-17-cursor-can-now-help-you-set-up-your-dev-environment-in-the-cloud-in-less-than-10|cursor-2026-06-17-acb560]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-02-v2-1-199-github-348195313-a8a76d9f|claude-code-2026-07-02-v2-1-199-github-348195313-a8a76d9f]]'
+source_type: github_releases
 theme: developer-workflow
+title: claude agents session rows now show pull-request links as bare ♯N without th
 type: change
 ---
 
 # `claude agents` session rows now show pull-request links as bare `#N` without th
 
 <!-- chronolog:begin region="description" -->
-`claude agents` session rows now show pull-request links as bare `#N` without the redundant "PR" label
+Claude Code — v2.1.199: `claude agents` session rows now show pull-request links as bare `#N` without the redundant "PR" label
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +71,15 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Claude Code/2026-06-15-improved-doctor-with-consistent-flat-tree-layout-across-all-sections-clearer-sec|claude-code-2026-06-15-a6ee0d]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: developer-workflow
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
+- Role: later-observed
 - First In Tracked: [[Changes/Cursor/2023-03-18-built-in-terminal|cursor-2023-03-18-76a713]]
 - Lag Days: 1202
 - Tracked Products Count: 3

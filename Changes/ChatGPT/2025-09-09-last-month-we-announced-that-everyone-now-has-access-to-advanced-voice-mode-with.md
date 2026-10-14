@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-08-07-for-paid-users-voice-now-adapts-to-your-instructions-adjusting-its-speaking-styl|chatgpt-2025-08-07-ea463f]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: 8484b7706659aaa970ad0aeddf0c1d9d628810a18f31d67cad70cf608a1402b4
+machine_hash: 9fd5a14e0a73d994f8880e21c553670fffc916b5355672f2f377d9b3213cae6b
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-08-07-today-we-re-rolling-out-improvements-to-voice-mode-to-make-it-more-accessible-an|chatgpt-2025-08-07-772d24]]'
 - '[[Changes/ChatGPT/2025-08-07-for-paid-users-voice-now-adapts-to-your-instructions-adjusting-its-speaking-styl|chatgpt-2025-08-07-ea463f]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-09-chatgpt-voice-update-c17a6a9f|chatgpt-2025-09-09-chatgpt-voice-update-c17a6a9f]]'
+superseded: true
 theme: voice
 type: change
 ---

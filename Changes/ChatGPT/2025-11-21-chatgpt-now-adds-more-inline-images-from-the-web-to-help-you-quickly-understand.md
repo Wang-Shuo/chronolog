@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-11-20-you-can-now-find-and-buy-from-shopify-merchants-starting-with-spanx-skims-and-gl|chatgpt-2025-11-20-ceaccf]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 514b76e1cb7819c010c280aeac7295bf103ba7ee579f77e5da9dbd9dbc09791c
+machine_hash: 1779b51e688c4c08e41e3ba0f52ed2e7b101c1969af75f014a54bf64fc681338
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-11-20-when-a-product-from-a-shopify-merchant-supports-instant-checkout-you-can-complet|chatgpt-2025-11-20-a64914]]'
 - '[[Changes/ChatGPT/2025-11-20-you-can-now-find-and-buy-from-shopify-merchants-starting-with-spanx-skims-and-gl|chatgpt-2025-11-20-ceaccf]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-21-more-images-in-answers-f12c1477|chatgpt-2025-11-21-more-images-in-answers-f12c1477]]'
+superseded: true
 theme: search-browsing
 type: change
 ---

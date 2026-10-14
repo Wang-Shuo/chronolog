@@ -1,9 +1,19 @@
 ---
 changes_count: 0
 date: '2023-06-02'
-machine_hash: 6a2337605e9967d6c2f2d43c38c1bd38faaaea8ec91ee7f02cc35c1c3d659636
+machine_hash: 98e0bc745889fd0b2ecb86f5154ca230d62dab54e1302522cc14a25d58e014ab
 product: cursor
 product_name: Cursor
+record:
+  date: '2023-06-02'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2023-06-02-0-2-24-https-cursor-com-changelog-0-2-24-a04cf8d2
+  source_summary: Small fixes for the toolformer and the AI linter.
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-2-24
+  title: Minor fixes (2023-06-02)
+  version: 0.2.24
 release_id: cursor-2023-06-02-0-2-24-https-cursor-com-changelog-0-2-24-a04cf8d2
 source_release: Minor fixes (2023-06-02)
 source_type: cursor_changelog
@@ -11,6 +21,7 @@ source_url: https://cursor.com/changelog/0-2-24
 tags:
 - release
 - cursor
+title: Cursor — Minor fixes (2023-06-02)
 version: 0.2.24
 ---
 

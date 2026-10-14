@@ -1,9 +1,19 @@
 ---
 changes_count: 5
 date: '2025-03-23'
-machine_hash: cb7e603f29f8f2f288c8ccd8aafef4793572b9f12b130e29fa0039188c552646
+machine_hash: 5e98ea2af8ad85479e2de71bba5d1b4f25a194595eef40ba0180735e14697105
 product: cursor
 product_name: Cursor
+record:
+  date: '2025-03-23'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b
+  source_summary: Other (6)↓↑
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-48-x
+  title: Chat tabs, Custom modes & Faster indexing
+  version: 0.48.x
 release_id: cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b
 source_release: Chat tabs, Custom modes & Faster indexing
 source_type: cursor_changelog
@@ -11,6 +21,7 @@ source_url: https://cursor.com/changelog/0-48-x
 tags:
 - release
 - cursor
+title: Cursor — Chat tabs, Custom modes & Faster indexing
 version: 0.48.x
 ---
 

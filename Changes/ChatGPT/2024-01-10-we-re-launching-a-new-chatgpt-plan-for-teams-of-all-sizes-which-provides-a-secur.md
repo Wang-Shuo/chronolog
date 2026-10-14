@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2024-01-10-use-chatgpt-alongside-your-team|chatgpt-2024-01-10-3068d2]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: ea0de310144cc0129e65ea67032f89b46e23e0b02b42db8ca689137b5966d58f
+machine_hash: c4ca8982978b1721055549e2f3b5492772c6c9f0d793577d7b3351b90493f90a
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2023-11-06-we-re-rolling-out-custom-versions-of-chatgpt-that-you-can-create-for-a-specific|chatgpt-2023-11-06-fb06c1]]'
 - '[[Changes/ChatGPT/2024-01-10-use-chatgpt-alongside-your-team|chatgpt-2024-01-10-3068d2]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-01-10-introducing-the-gpt-store-and-chatgpt-team-plan-7f1ed4cd|chatgpt-2024-01-10-introducing-the-gpt-store-and-chatgpt-team-plan-7f1ed4cd]]'
+superseded: true
 theme: collaboration
 type: change
 ---

@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2026-05-11-cursor-is-now-available-in-microsoft-teams|cursor-2026-05-11-cc179a]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: bff6f6188940a0f150e9356acd3ffd29e18f8ee4d6394bc32334f309d17c282e
+machine_hash: 2b152d910589c1daa98b291f3d60fae2c68422ef8d92884a6671fa09f9e5b79a
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2026-05-04-customers-with-existing-blocklists-will-need-to-migrate-to-the-new-system-by-jun|cursor-2026-05-04-af4668]]'
 - '[[Changes/Cursor/2026-05-11-cursor-is-now-available-in-microsoft-teams|cursor-2026-05-11-cc179a]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-20-3-5-https-cursor-com-changelog-shared-canvases-68b3b2da|cursor-2026-05-20-3-5-https-cursor-com-changelog-shared-canvases-68b3b2da]]'
+superseded: true
 theme: collaboration
 type: change
 ---

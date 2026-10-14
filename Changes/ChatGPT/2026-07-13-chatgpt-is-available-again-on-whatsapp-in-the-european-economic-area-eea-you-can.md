@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2026-07-09-beginning-july-9-users-on-web-ios-and-android-will-no-longer-be-able-to-create-n|chatgpt-2026-07-09-ed8dc0]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 660d26300aa226ca28bcb6ef64831993285f64105e4d35d99c2cd6c3fe714fc6
+machine_hash: cc54f05da02cfd4ff98036223aa0b537e9442fff8df63a7a7c1f6c1965fc1a33
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2026-07-09-the-new-chatgpt-desktop-app-is-available-globally-for-macos-and-windows-it-combi|chatgpt-2026-07-09-e26c54]]'
 - '[[Changes/ChatGPT/2026-07-09-beginning-july-9-users-on-web-ios-and-android-will-no-longer-be-able-to-create-n|chatgpt-2026-07-09-ed8dc0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-13-chatgpt-returns-to-whatsapp-in-the-eea-ce61ee08|chatgpt-2026-07-13-chatgpt-returns-to-whatsapp-in-the-eea-ce61ee08]]'
+superseded: true
 theme: mobile-desktop
 type: change
 ---

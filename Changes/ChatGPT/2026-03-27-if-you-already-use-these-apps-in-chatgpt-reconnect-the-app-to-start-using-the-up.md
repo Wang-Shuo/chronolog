@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2026-03-27-we-re-rolling-out-updated-box-notion-linear-and-dropbox-apps-in-chatgpt-these-up|chatgpt-2026-03-27-5201f1]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: fdbd0e348e0396fd08978b6e4249800d8a7b0e147170323e0ac06778768e6db2
+machine_hash: 47c70b4299a6411e41825a1e92e7231abaf3ac39f7f7d35565e3a680fb4ef250
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Claude Code/2026-03-26-deep-link-queries-claude-cli-open-q-now-support-up-to-5-000-characters-with-a-sc|claude-code-2026-03-26-7f4ed1]]'
 - '[[Changes/ChatGPT/2026-03-27-we-re-rolling-out-updated-box-notion-linear-and-dropbox-apps-in-chatgpt-these-up|chatgpt-2026-03-27-5201f1]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-27-updated-box-notion-linear-and-dropbox-apps-c362d055|chatgpt-2026-03-27-updated-box-notion-linear-and-dropbox-apps-c362d055]]'
+superseded: true
 theme: apps-integrations
 type: change
 ---

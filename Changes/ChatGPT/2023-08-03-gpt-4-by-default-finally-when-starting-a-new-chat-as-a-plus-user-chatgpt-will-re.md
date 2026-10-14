@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2023-07-19-we-re-doubling-the-number-of-messages-chatgpt-plus-customers-can-send-with-gpt-4|chatgpt-2023-07-19-3f0b5f]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: 550c2985c490e6279475cbd89b629f42749b74e5c793e1b4369ac8525fc4ebf5
+machine_hash: 635533ca6b09d120c47b28c7861866d25e9b447397bbe914d3b4d18633cd7185
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2023-07-19-we-re-doubling-the-number-of-messages-chatgpt-plus-customers-can-send-with-gpt-4|chatgpt-2023-07-19-3f0b5f]]'
 - '[[Changes/Cursor/2023-07-28-if-you-press-on-any-line-you-will-now-get-gpt-4-powering-fast-completions-for-yo|cursor-2023-07-28-8606dd]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-08-03-updates-to-chatgpt-0d776ee3|chatgpt-2023-08-03-updates-to-chatgpt-0d776ee3]]'
+superseded: true
 theme: model-support
 type: change
 ---

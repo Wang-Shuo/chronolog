@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-06-04-admins-and-users-can-now-build-and-deploy-custom-connectors-to-proprietary-syste|chatgpt-2025-06-04-d1ee85]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 46e597ba80ac29448617a9daccb9714b554738a10b94f57c2c40b0f77820a5df
+machine_hash: b06b73412ec3a1eb0878ff77a418bda3a950c569cfce14c3307330b710fd76fe
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-06-04-admins-and-users-can-now-build-and-deploy-custom-connectors-to-proprietary-syste|chatgpt-2025-06-04-d1ee85]]'
 - '[[Changes/Cursor/2025-06-12-mention-cursor-in-any-thread-with-a-prompt-like|cursor-2025-06-12-48f707]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-24-chat-search-connectors-pro-a20d1d1a|chatgpt-2025-06-24-chat-search-connectors-pro-a20d1d1a]]'
+superseded: true
 theme: apps-integrations
 type: change
 ---

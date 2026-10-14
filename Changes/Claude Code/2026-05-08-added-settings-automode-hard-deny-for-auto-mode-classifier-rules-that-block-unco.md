@@ -2,32 +2,60 @@
 card_id: claude-code-2026-05-08-32284a
 date: '2026-05-08'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]'
-  lag_days: 1037
-  role: follower
+  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|cursor-2023-04-16-f0e22a]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1118
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
-  theme: agent-mode
+  theme: safety-privacy
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Claude Code/2026-04-23-print-mode-now-honors-the-agent-s-tools-and-disallowedtools-frontmatter-matching|claude-code-2026-04-23-5a8186]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: e2f6e02d5a9bd3790a00d339638961cff7cf3a7bf00592b94962fae9780bb9a4
+machine_hash: a867be57b9d6051180980f24cd23406e2d2fec5e10b209fd10b4f25842ff7a92
 product: claude-code
 product_name: Claude Code
+record:
+  card_id: claude-code-2026-05-08-32284a
+  comparison: ''
+  date: '2026-05-08'
+  description: 'Claude Code — v2.1.136: Added `settings.autoMode.hard_deny` for auto
+    mode classifier rules that block unconditionally regardless of user intent or
+    allow exceptions'
+  evidence:
+  - quote: Added `settings.autoMode.hard_deny` for auto mode classifier rules that
+      block unconditionally regardless of user intent or allow exceptions
+    source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.136
+  extractor_version: fallback-v3
+  impact: incremental
+  product: claude-code
+  product_name: Claude Code
+  slug: added-settings-automode-hard-deny-for-auto-mode-classifier-rules-that-block-unco
+  source_release: claude-code-2026-05-08-v2-1-136-github-319609716-58f21368
+  source_type: github_releases
+  theme: safety-privacy
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v2
+  title: Added `settings.autoMode.hard_deny` for auto mode classifier rules that block
+    un
+  type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-24-worktrees-in-agents-window|cursor-2026-04-24-cde9ab]]'
-- '[[Changes/Cursor/2026-04-29-import-agent-from-cursor-sdk|cursor-2026-04-29-6adbd7]]'
-- '[[Changes/Cursor/2026-04-29-const-agent-await-agent-create|cursor-2026-04-29-ecf889]]'
+- '[[Changes/ChatGPT/2026-05-07-over-the-coming-weeks-we-ll-be-rolling-out-trusted-contact-an-optional-safety-fe|chatgpt-2026-05-07-d104ca]]'
+- '[[Changes/Claude Code/2026-05-07-added-sandbox-bwrappath-and-sandbox-socatpath-managed-settings-linux-wsl-to-spec|claude-code-2026-05-07-b75d47]]'
+- '[[Changes/Claude Code/2026-05-08-fixed-bash-permission-prompts-showing-an-internal-parser-diagnostic-instead-of-a|claude-code-2026-05-08-05c237]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-08-v2-1-136-github-319609716-58f21368|claude-code-2026-05-08-v2-1-136-github-319609716-58f21368]]'
-theme: agent-mode
+source_type: github_releases
+theme: safety-privacy
+title: Added settings.autoMode.hard_deny for auto mode classifier rules that block
+  un
 type: change
 ---
 
 # Added `settings.autoMode.hard_deny` for auto mode classifier rules that block un
 
 <!-- chronolog:begin region="description" -->
-Added `settings.autoMode.hard_deny` for auto mode classifier rules that block unconditionally regardless of user intent or allow exceptions
+Claude Code — v2.1.136: Added `settings.autoMode.hard_deny` for auto mode classifier rules that block unconditionally regardless of user intent or allow exceptions
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,15 +65,17 @@ Added `settings.autoMode.hard_deny` for auto mode classifier rules that block un
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Claude Code/2026-04-23-print-mode-now-honors-the-agent-s-tools-and-disallowedtools-frontmatter-matching|claude-code-2026-04-23-5a8186]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
-- Theme: agent-mode
+- Theme: safety-privacy
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
-- First In Tracked: [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]
-- Lag Days: 1037
+- Role: later-observed
+- First In Tracked: [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|cursor-2023-04-16-f0e22a]]
+- Lag Days: 1118
 - Tracked Products Count: 3
 <!-- chronolog:end -->
 

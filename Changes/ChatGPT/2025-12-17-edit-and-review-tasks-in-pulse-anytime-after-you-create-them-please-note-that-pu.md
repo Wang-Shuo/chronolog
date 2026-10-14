@@ -3,31 +3,58 @@ card_id: chatgpt-2025-12-17-9f65ee
 date: '2025-12-17'
 diffusion:
   first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|cursor-2023-03-14-24e9bf]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1009
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: editor-experience
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/ChatGPT/2025-08-07-on-web-click-your-profile-icon-at-the-bottom-left-select-settings-go-to-the-gene|chatgpt-2025-08-07-7e6239]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 3b00e6152879e90838b2374af353aebc4d796d46b15877b1b59d3bc22779fa33
+machine_hash: f99e0f804c7433e2f812336506f94a79ad6f0247a1a9606d037f4b531a13d5bb
 product: chatgpt
 product_name: ChatGPT
+record:
+  card_id: chatgpt-2025-12-17-9f65ee
+  comparison: ''
+  date: '2025-12-17'
+  description: 'ChatGPT — Tasks are now in Pulse: Edit and review tasks in Pulse anytime
+    after you create them. Please note that Pulse is only available in ChatGPT Pro.'
+  evidence:
+  - quote: Edit and review tasks in Pulse anytime after you create them. Please note
+      that Pulse is only available in ChatGPT Pro.
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#tasks-are-now-in-pulse
+  extractor_version: fallback-v3
+  impact: incremental
+  product: chatgpt
+  product_name: ChatGPT
+  slug: edit-and-review-tasks-in-pulse-anytime-after-you-create-them-please-note-that-pu
+  source_release: chatgpt-2025-12-17-tasks-are-now-in-pulse-15c01c44
+  source_type: chatgpt_changelog
+  theme: editor-experience
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v1
+  title: Edit and review tasks in Pulse anytime after you create them. Please note
+    that P
+  type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-08-07-on-web-click-your-profile-icon-at-the-bottom-left-select-settings-go-to-the-gene|chatgpt-2025-08-07-7e6239]]'
+- '[[Changes/Cursor/2025-07-29-active-tab-in-chat|cursor-2025-07-29-72e87c]]'
 - '[[Changes/Cursor/2025-09-29-when-writing-prompts-autocomplete-suggestions-will-appear-based-on-recent-change|cursor-2025-09-29-19a9cb]]'
-- '[[Changes/Cursor/2025-12-10-browser-layout-and-style-editor|cursor-2025-12-10-2dd35f]]'
+- '[[Changes/Cursor/2025-10-29-browser-can-now-be-embedded-in-editor-including-powerful-new-tools-to-select-ele|cursor-2025-10-29-596728]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-12-17-tasks-are-now-in-pulse-15c01c44|chatgpt-2025-12-17-tasks-are-now-in-pulse-15c01c44]]'
+source_type: chatgpt_changelog
 theme: editor-experience
+title: Edit and review tasks in Pulse anytime after you create them. Please note that
+  P
 type: change
 ---
 
 # Edit and review tasks in Pulse anytime after you create them. Please note that P
 
 <!-- chronolog:begin region="description" -->
-Edit and review tasks in Pulse anytime after you create them. Please note that Pulse is only available in ChatGPT Pro.
+ChatGPT — Tasks are now in Pulse: Edit and review tasks in Pulse anytime after you create them. Please note that Pulse is only available in ChatGPT Pro.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +64,15 @@ Edit and review tasks in Pulse anytime after you create them. Please note that P
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/ChatGPT/2025-08-07-on-web-click-your-profile-icon-at-the-bottom-left-select-settings-go-to-the-gene|chatgpt-2025-08-07-7e6239]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: editor-experience
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
+- Role: later-observed
 - First In Tracked: [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|cursor-2023-03-14-24e9bf]]
 - Lag Days: 1009
 - Tracked Products Count: 3

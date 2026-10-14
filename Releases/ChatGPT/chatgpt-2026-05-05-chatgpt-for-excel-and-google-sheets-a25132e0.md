@@ -1,9 +1,23 @@
 ---
 changes_count: 1
 date: '2026-05-05'
-machine_hash: d839832d051fc3b1e55a4c0fc1ee2668e5af9b59d5ad04027efd5763fe0ce55b
+machine_hash: d02d8a0e0c1e96f12ff26ae6727edbaae65fa389b1ed7fe28c85816db407f499
 product: chatgpt
 product_name: ChatGPT
+record:
+  date: '2026-05-05'
+  product: chatgpt
+  product_name: ChatGPT
+  release_id: chatgpt-2026-05-05-chatgpt-for-excel-and-google-sheets-a25132e0
+  source_summary: ChatGPT for Excel and Google Sheets is now available globally, bringing
+    ChatGPT into a sidebar in Microsoft Excel and Google Sheets so you can build,
+    update, and understand spreadsheets in place. It can help with trackers, budgets,
+    formulas, multi-tab files, scenario work, and spreadsheet cleanup, and supports
+    Skills…
+  source_type: chatgpt_changelog
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-for-excel-and-google-sheets
+  title: ChatGPT for Excel and Google Sheets
+  version: ChatGPT for Excel and Google Sheets
 release_id: chatgpt-2026-05-05-chatgpt-for-excel-and-google-sheets-a25132e0
 source_release: ChatGPT for Excel and Google Sheets
 source_type: chatgpt_changelog
@@ -11,6 +25,7 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ch
 tags:
 - release
 - chatgpt
+title: ChatGPT — ChatGPT for Excel and Google Sheets
 version: ChatGPT for Excel and Google Sheets
 ---
 

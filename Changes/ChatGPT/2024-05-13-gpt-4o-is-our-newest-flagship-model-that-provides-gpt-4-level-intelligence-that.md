@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2023-10-17-plus-and-enterprise-users-no-longer-need-to-switch-the-beta-toggle-to-use-browse|chatgpt-2023-10-17-74be86]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: 28f4f744107747ee653200e81a242728ec5a58314ec2ebe030f882161a9db39c
+machine_hash: 605c7c9066cab22129034dcfc6c4eeacc34fdae2ddaef2b7d6e70b21fb76b6b3
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2024-03-20-stable-claude-support-all-the-newest-claude-models-are-available-for-pro-and-api|cursor-2024-03-20-2986d9]]'
 - '[[Changes/Cursor/2024-04-12-new-gpt-4-model-as-of-a-couple-of-days-ago-you-can-try-out-gpt-4-turbo-2024-04-0|cursor-2024-04-12-291ad9]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-05-13-introducing-gpt-4o-0a0709f8|chatgpt-2024-05-13-introducing-gpt-4o-0a0709f8]]'
+superseded: true
 theme: model-support
 type: change
 ---

@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-03-18-o1-and-o3-mini-now-offer-python-powered-data-analysis-in-chatgpt-you-can-now-ask|chatgpt-2025-03-18-958f63]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 0e6579eb34c085613ae6c24a8ea9db878af10b8b87a0aea1e1ade18c82ede6b3
+machine_hash: 6dbcb77940fbad47f6478e7fdca8469ea13f0bc796db8c5f15fe0c6a76efa6e1
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2025-03-11-0-47-5-client-side-support-for-upcoming-max-mode-compatibility-for-claude-3-7-so|cursor-2025-03-11-79e4bd]]'
 - '[[Changes/ChatGPT/2025-03-18-o1-and-o3-mini-now-offer-python-powered-data-analysis-in-chatgpt-you-can-now-ask|chatgpt-2025-03-18-958f63]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-03-27-improvements-to-gpt-4o-4bcfc1a7|chatgpt-2025-03-27-improvements-to-gpt-4o-4bcfc1a7]]'
+superseded: true
 theme: model-support
 type: change
 ---

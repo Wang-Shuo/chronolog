@@ -2,32 +2,76 @@
 card_id: chatgpt-2026-07-09-baa5ca
 date: '2026-07-09'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed|chatgpt-2023-03-23-86e5a9]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1204
-  role: variant
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/ChatGPT/2026-07-09-we-re-also-replacing-the-app-directory-with-the-plugin-directory-existing-app-co|chatgpt-2026-07-09-9c5d58]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: c205a769d52a3d211b41abb5ff5e6f360f6c510b3dfa1164409a43e6532e5947
+machine_hash: 77a0728a740199493e44d4b7a70771e5cd4d43a5b1bb2c8d20358fa9c28173e0
 product: chatgpt
 product_name: ChatGPT
+record:
+  card_id: chatgpt-2026-07-09-baa5ca
+  comparison: ''
+  date: '2026-07-09'
+  description: 'ChatGPT — Skills are now generally available: Enterprise and Edu users
+    can find skills under Plugins in the sidebar, on the Skills tab in the Plugin
+    Directory.'
+  evidence:
+  - quote: Enterprise and Edu users can find skills under Plugins in the sidebar,
+      on the Skills tab in the Plugin Directory.
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#skills-are-now-generally-available
+  extractor_version: fallback-v3
+  impact: incremental
+  product: chatgpt
+  product_name: ChatGPT
+  slug: enterprise-and-edu-users-can-find-skills-under-plugins-in-the-sidebar-on-the-ski
+  source_release: chatgpt-2026-07-09-skills-are-now-generally-available-24f58f9d
+  source_type: chatgpt_changelog
+  theme: apps-integrations
+  theme_matches:
+  - matched_terms:
+    - plugin
+    - plugins
+    score: 100
+    theme: apps-integrations
+  - matched_terms:
+    - tab
+    score: 50
+    theme: editor-experience
+  - matched_terms:
+    - enterprise
+    score: 50
+    theme: enterprise-admin
+  - matched_terms:
+    - sidebar
+    score: 50
+    theme: interface-experience
+  title: Enterprise and Edu users can find skills under Plugins in the sidebar, on
+    the Sk
+  type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-06-improved-mcp-error-messages-clearer-error-when-a-server-config-has-url-but-no-ty|claude-code-2026-07-06-975aeb]]'
 - '[[Changes/Claude Code/2026-07-07-added-the-session-s-additional-working-directories-to-mcp-roots-list-with-notifi|claude-code-2026-07-07-12c2be]]'
 - '[[Changes/ChatGPT/2026-07-09-we-re-also-replacing-the-app-directory-with-the-plugin-directory-existing-app-co|chatgpt-2026-07-09-9c5d58]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-skills-are-now-generally-available-24f58f9d|chatgpt-2026-07-09-skills-are-now-generally-available-24f58f9d]]'
+source_type: chatgpt_changelog
 theme: apps-integrations
+title: Enterprise and Edu users can find skills under Plugins in the sidebar, on the
+  Sk
 type: change
 ---
 
 # Enterprise and Edu users can find skills under Plugins in the sidebar, on the Sk
 
 <!-- chronolog:begin region="description" -->
-Enterprise and Edu users can find skills under Plugins in the sidebar, on the Skills tab in the Plugin Directory.
+ChatGPT — Skills are now generally available: Enterprise and Edu users can find skills under Plugins in the sidebar, on the Skills tab in the Plugin Directory.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,14 +81,16 @@ Enterprise and Edu users can find skills under Plugins in the sidebar, on the Sk
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/ChatGPT/2026-07-09-we-re-also-replacing-the-app-directory-with-the-plugin-directory-existing-app-co|chatgpt-2026-07-09-9c5d58]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: apps-integrations
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: variant
-- First In Tracked: [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed|chatgpt-2023-03-23-86e5a9]]
+- Role: later-observed
+- First In Tracked: [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]
 - Lag Days: 1204
 - Tracked Products Count: 3
 <!-- chronolog:end -->

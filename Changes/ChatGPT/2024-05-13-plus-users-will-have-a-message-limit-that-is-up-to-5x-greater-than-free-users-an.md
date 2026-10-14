@@ -12,13 +12,14 @@ evolves_from:
 - '[[Changes/ChatGPT/2023-08-28-chatgpt-enterprise-also-provides-unlimited-access-to-advanced-data-analysis-prev|chatgpt-2023-08-28-ccb8ca]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: b9f803a1cdf85423ab564b49aec58050a80c01eb04a9c8c59ee49a744036aae2
+machine_hash: 4d4c7bb5e3483370498d1cbf8f1720ed6c27ced00e578842cafd94b51d511e58
 product: chatgpt
 product_name: ChatGPT
 related_changes:
 - '[[Changes/Cursor/2023-07-27-enterprise-support|cursor-2023-07-27-4d0704]]'
 - '[[Changes/ChatGPT/2023-08-28-chatgpt-enterprise-also-provides-unlimited-access-to-advanced-data-analysis-prev|chatgpt-2023-08-28-ccb8ca]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-05-13-introducing-gpt-4o-0a0709f8|chatgpt-2024-05-13-introducing-gpt-4o-0a0709f8]]'
+superseded: true
 theme: enterprise-admin
 type: change
 ---

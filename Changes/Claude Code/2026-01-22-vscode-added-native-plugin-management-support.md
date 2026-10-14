@@ -2,32 +2,55 @@
 card_id: claude-code-2026-01-22-3dded3
 date: '2026-01-22'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed|chatgpt-2023-03-23-86e5a9]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1036
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Claude Code/2026-01-20-added-search-to-installed-plugins-list-type-to-filter-by-name-or-description|claude-code-2026-01-20-5e8d97]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: significant
-machine_hash: db3f08c2a951db3b34f211222db1b8d7fca43728245f44e52d395baa536f482d
+machine_hash: db7da81f6930c33e505f6cbc98454269f72bbe123cfbda32b9e576dda16eabac
 product: claude-code
 product_name: Claude Code
+record:
+  ai_generated: true
+  card_id: claude-code-2026-01-22-3dded3
+  comparison: ''
+  confidence: low
+  date: '2026-01-22'
+  description: 'Claude Code — v2.1.16: [VSCode] Added native plugin management support'
+  evidence:
+  - quote: '[VSCode] Added native plugin management support'
+    source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.16
+  extractor_version: fallback-v3
+  impact: significant
+  product: claude-code
+  product_name: Claude Code
+  slug: vscode-added-native-plugin-management-support
+  source_release: claude-code-2026-01-22-v2-1-16-github-279146529-0e5b3428
+  source_type: github_releases
+  theme: apps-integrations
+  title: '[VSCode] Added native plugin management support'
+  type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-13-added-automatic-discovery-of-skills-from-nested-claude-skills-directories-when-w|claude-code-2026-01-13-33c9c4]]'
 - '[[Changes/Claude Code/2026-01-20-added-support-for-pinning-plugins-to-specific-git-commit-shas-allowing-marketpla|claude-code-2026-01-20-5e4e1d]]'
 - '[[Changes/Claude Code/2026-01-20-added-search-to-installed-plugins-list-type-to-filter-by-name-or-description|claude-code-2026-01-20-5e8d97]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-22-v2-1-16-github-279146529-0e5b3428|claude-code-2026-01-22-v2-1-16-github-279146529-0e5b3428]]'
+source_type: github_releases
 theme: apps-integrations
+title: VSCode Added native plugin management support
 type: change
 ---
 
 # [VSCode] Added native plugin management support
 
 <!-- chronolog:begin region="description" -->
-[VSCode] Added native plugin management support
+Claude Code — v2.1.16: [VSCode] Added native plugin management support
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,14 +60,16 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Claude Code/2026-01-20-added-search-to-installed-plugins-list-type-to-filter-by-name-or-description|claude-code-2026-01-20-5e8d97]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: apps-integrations
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
-- First In Tracked: [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed|chatgpt-2023-03-23-86e5a9]]
+- Role: later-observed
+- First In Tracked: [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]
 - Lag Days: 1036
 - Tracked Products Count: 3
 <!-- chronolog:end -->

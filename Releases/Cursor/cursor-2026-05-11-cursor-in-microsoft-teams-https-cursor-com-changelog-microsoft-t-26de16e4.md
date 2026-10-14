@@ -1,9 +1,19 @@
 ---
 changes_count: 4
 date: '2026-05-11'
-machine_hash: 83a28a22029adcc7fb5f26513956008dc2b62266f343ee6126c5145db952c11c
+machine_hash: 28fc6dbb18527aa2558edd8851bc426427e795d5a5bf93d08acd3b24e283afff
 product: cursor
 product_name: Cursor
+record:
+  date: '2026-05-11'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2026-05-11-cursor-in-microsoft-teams-https-cursor-com-changelog-microsoft-t-26de16e4
+  source_summary: Cursor is now available in Microsoft Teams.
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/microsoft-teams
+  title: Cursor in Microsoft Teams
+  version: Cursor in Microsoft Teams
 release_id: cursor-2026-05-11-cursor-in-microsoft-teams-https-cursor-com-changelog-microsoft-t-26de16e4
 source_release: Cursor in Microsoft Teams
 source_type: cursor_changelog
@@ -11,6 +21,7 @@ source_url: https://cursor.com/changelog/microsoft-teams
 tags:
 - release
 - cursor
+title: Cursor — Cursor in Microsoft Teams
 version: Cursor in Microsoft Teams
 ---
 

@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2023-08-09-custom-instructions-are-now-available-to-chatgpt-users-on-the-free-plan-except-f|chatgpt-2023-08-09-2dce55]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 7f03771b919a5d81eb710e954dd2979887dac2ffc73ec7075bb7b265f3e47d2e
+machine_hash: 8122775706c25dd6bf8e1867663c825463986fc90319cb140fa6f99896281a50
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2023-07-20-custom-instructions-are-available-to-all-plus-users-and-expanding-to-all-users-i|chatgpt-2023-07-20-f7a05b]]'
 - '[[Changes/ChatGPT/2023-08-09-custom-instructions-are-now-available-to-chatgpt-users-on-the-free-plan-except-f|chatgpt-2023-08-09-2dce55]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-08-09-custom-instructions-are-now-available-to-free-users-47df9fa5|chatgpt-2023-08-09-custom-instructions-are-now-available-to-free-users-47df9fa5]]'
+superseded: true
 theme: memory
 type: change
 ---

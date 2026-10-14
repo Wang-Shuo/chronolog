@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2023-08-03-gpt-4-by-default-finally-when-starting-a-new-chat-as-a-plus-user-chatgpt-will-re|chatgpt-2023-08-03-f620bf]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: c6a95ae2e778a6204e508eaf53b8006efc81dca605fffe4c0074386bf0ea8a10
+machine_hash: 577e7ead08b65b988cca28bf7e09ff4128618ef7af29738ce6ddb0a9a37acd1f
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2023-09-08-that-are-actually-being-used-for-each-doc-you-have-uploaded-you-ll-also-be-able|cursor-2023-09-08-438ba5]]'
 - '[[Changes/Cursor/2023-10-01-use-edit-in-the-chat-to-edit-a-whole-file-if-less-than-400-lines-expect-the-edit|cursor-2023-10-01-be4968]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-10-17-browsing-is-now-out-of-beta-6432b7b5|chatgpt-2023-10-17-browsing-is-now-out-of-beta-6432b7b5]]'
+superseded: true
 theme: model-support
 type: change
 ---

@@ -1,9 +1,19 @@
 ---
 changes_count: 5
 date: '2025-03-11'
-machine_hash: 6d2bc557a3a2706a46f05ee4cda0a10bf644ae451bc79fd60b330e0e7e2b51af
+machine_hash: 46c8658e3cd6f01e4086638b62a9f3820de927e4334aa793bfc51bc825e308bc
 product: cursor
 product_name: Cursor
+record:
+  date: '2025-03-11'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2025-03-11-0-47-x-https-cursor-com-changelog-0-47-x-eebf8f2e
+  source_summary: Patches (11)↓↑
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-47-x
+  title: Reliability, Keyboard Shortcuts & Early access opt-in
+  version: 0.47.x
 release_id: cursor-2025-03-11-0-47-x-https-cursor-com-changelog-0-47-x-eebf8f2e
 source_release: Reliability, Keyboard Shortcuts & Early access opt-in
 source_type: cursor_changelog
@@ -11,6 +21,7 @@ source_url: https://cursor.com/changelog/0-47-x
 tags:
 - release
 - cursor
+title: Cursor — Reliability, Keyboard Shortcuts & Early access opt-in
 version: 0.47.x
 ---
 

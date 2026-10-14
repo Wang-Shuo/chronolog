@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-02-21-ios-widget-see-below|chatgpt-2025-02-21-c3d18b]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 58e8a45450f2823e63c0648596370f164d8b6c5bff9f4e4ee39c3fcebf7567d5
+machine_hash: 8673d84cb59916b7b3d63731c467d9484967fed400df6a748da3820082153a31
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-02-14-updated-launch-animations-and-composer-design-on-android|chatgpt-2025-02-14-fb60f1]]'
 - '[[Changes/ChatGPT/2025-02-21-ios-widget-see-below|chatgpt-2025-02-21-c3d18b]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-02-28-general-gpt-4-5-was-released-to-users-on-the-pro-plan-in-chatgpt-79d54e18|chatgpt-2025-02-28-general-gpt-4-5-was-released-to-users-on-the-pro-plan-in-chatgpt-79d54e18]]'
+superseded: true
 theme: mobile-desktop
 type: change
 ---

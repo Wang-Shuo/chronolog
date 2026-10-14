@@ -1,9 +1,20 @@
 ---
 changes_count: 1
 date: '2023-08-26'
-machine_hash: c9ea6e848933a773e8b769ca7ebc8e809705d06967c3295d988bdf9db937bf04
+machine_hash: 5f5bb27d8efb733485d614c8c45b534df780695ddbcb49e87044996f4f6ac37e
 product: cursor
 product_name: Cursor
+record:
+  date: '2023-08-26'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2023-08-26-0-8-3-nightly-https-cursor-com-changelog-0-8-3-nightly-e8ac9c3e
+  source_summary: We had a big bug for people on language packs. Thank you to all
+    who helped us debug! This should now be fixed, and should not happen again.
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-8-3-nightly
+  title: Bug fix for people on language packs
+  version: 0.8.3-nightly
 release_id: cursor-2023-08-26-0-8-3-nightly-https-cursor-com-changelog-0-8-3-nightly-e8ac9c3e
 source_release: Bug fix for people on language packs
 source_type: cursor_changelog
@@ -11,6 +22,7 @@ source_url: https://cursor.com/changelog/0-8-3-nightly
 tags:
 - release
 - cursor
+title: Cursor — Bug fix for people on language packs
 version: 0.8.3-nightly
 ---
 

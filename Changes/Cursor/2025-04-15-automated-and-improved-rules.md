@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2025-04-15-for-auto-attached-rules-with-path-patterns-defined-agent-will-now-automatically|cursor-2025-04-15-465624]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 30a02d4cde7878b9898d3550e9019722c1a542c17c275df066a826b6c0f02115
+machine_hash: 6ef5282774c05dcb2b0630a63deab14dc3dbb546cba8b6887e33b38d41cc24f7
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2025-04-15-we-ve-also-fixed-a-long-standing-issue-where-always-attached-rules-now-persist-a|cursor-2025-04-15-1d3ec5]]'
 - '[[Changes/Cursor/2025-04-15-for-auto-attached-rules-with-path-patterns-defined-agent-will-now-automatically|cursor-2025-04-15-465624]]'
 source_release: '[[Releases/Cursor/cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f|cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f]]'
+superseded: true
 theme: agent-mode
 type: change
 ---

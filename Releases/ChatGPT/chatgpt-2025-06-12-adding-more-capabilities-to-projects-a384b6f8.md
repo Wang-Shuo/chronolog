@@ -1,16 +1,29 @@
 ---
 changes_count: 5
 date: '2025-06-12'
-machine_hash: 6c5b45e23cbd7e776030feaa1abf66bdf0cdce70a4604ad2f3cdb46ec1769b90
+machine_hash: 6fc7f951f14ed3c7769c3a2e3af84ee385f47eb438802d714c8ec718692951a9
 product: chatgpt
 product_name: ChatGPT
+record:
+  date: '2025-06-12'
+  product: chatgpt
+  product_name: ChatGPT
+  release_id: chatgpt-2025-06-12-adding-more-capabilities-to-projects-a384b6f8
+  source_summary: Starting today, we’re adding several updates to projects in ChatGPT
+    to help you do more focused work. These updates are available for Plus, Pro, and
+    Team users.
+  source_type: chatgpt_changelog
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#adding-more-capabilities-to-projects
+  title: Adding More Capabilities to Projects
+  version: Adding More Capabilities to Projects
 release_id: chatgpt-2025-06-12-adding-more-capabilities-to-projects-a384b6f8
 source_release: Adding More Capabilities to Projects
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_4c7f139c2c
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#adding-more-capabilities-to-projects
 tags:
 - release
 - chatgpt
+title: ChatGPT — Adding More Capabilities to Projects
 version: Adding More Capabilities to Projects
 ---
 
@@ -20,7 +33,7 @@ version: Adding More Capabilities to Projects
 <!-- chronolog:begin region="summary" -->
 Starting today, we’re adding several updates to projects in ChatGPT to help you do more focused work. These updates are available for Plus, Pro, and Team users.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_4c7f139c2c)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#adding-more-capabilities-to-projects)
 
 Tracked cards: 5
 <!-- chronolog:end -->
@@ -30,6 +43,6 @@ Tracked cards: 5
 - collaboration: [[Changes/ChatGPT/2025-06-12-sharing-chats-from-projects|Sharing chats from projects]]
 - projects-workspaces: [[Changes/ChatGPT/2025-06-12-starting-a-new-project-directly-from-a-chat|Starting a new project directly from a chat]]
 - collaboration: [[Changes/ChatGPT/2025-06-12-starting-today-we-re-adding-several-updates-to-projects-in-chatgpt-to-help-you-d|Starting today, we’re adding several updates to projects in ChatGPT to help you]]
-- memory: [[Changes/ChatGPT/2025-06-12-improvements-to-memory-to-reference-past-chats-in-a-project|Improvements to memory to reference past chats in a project*]]
+- memory: [[Changes/ChatGPT/2025-06-12-improvements-to-memory-to-reference-past-chats-in-a-project|Improvements to memory to reference past chats in a project]]
 - voice: [[Changes/ChatGPT/2025-06-12-deep-research-and-voice-mode-support|Deep research and voice mode support]]
 <!-- chronolog:end -->

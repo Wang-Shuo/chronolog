@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-07-16-record-mode-is-now-available-to-chatgpt-plus-users-globally-in-the-macos-desktop|chatgpt-2025-07-16-86ff26]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: 060571d4d914ecad4ce8a75874d2f7c62a7e70bd80e40b5c64beeace6ad61f82
+machine_hash: 805d5ad4cb7de393a2d2cd268ffcb36cec17f615db870607117f56bb7f43741e
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-06-03-free-users-must-be-logged-in-and-on-up-to-date-apps-ios-android-v1-2025-147|chatgpt-2025-06-03-dfd284]]'
 - '[[Changes/ChatGPT/2025-07-16-record-mode-is-now-available-to-chatgpt-plus-users-globally-in-the-macos-desktop|chatgpt-2025-07-16-86ff26]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-07-29-study-mode-ffbfbea6|chatgpt-2025-07-29-study-mode-ffbfbea6]]'
+superseded: true
 theme: mobile-desktop
 type: change
 ---

@@ -1,9 +1,23 @@
 ---
 changes_count: 1
 date: '2026-04-28'
-machine_hash: 9f7a4df8646eb8e64ba22ae2de7a8252caa8d42ec4d1adb3435784d88c10d4af
+machine_hash: 8a88d23cd0596f37d779c52116a6f8e71a647ba249d344cd0a411b0e81262a1d
 product: chatgpt
 product_name: ChatGPT
+record:
+  date: '2026-04-28'
+  product: chatgpt
+  product_name: ChatGPT
+  release_id: chatgpt-2026-04-28-easier-model-selection-in-chatgpt-f4badb6d
+  source_summary: We’re making it easier to choose the right model before you send
+    a message. Model selection now appears in the composer, so you can find and switch
+    models from the same place where you write your prompt.We’re also moving thinking
+    effort controls into the model picker. When you choose a Thinking or Pro model,
+    you can…
+  source_type: chatgpt_changelog
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#easier-model-selection-in-chatgpt
+  title: Easier model selection in ChatGPT
+  version: Easier model selection in ChatGPT
 release_id: chatgpt-2026-04-28-easier-model-selection-in-chatgpt-f4badb6d
 source_release: Easier model selection in ChatGPT
 source_type: chatgpt_changelog
@@ -11,6 +25,7 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ea
 tags:
 - release
 - chatgpt
+title: ChatGPT — Easier model selection in ChatGPT
 version: Easier model selection in ChatGPT
 ---
 
@@ -18,7 +33,7 @@ version: Easier model selection in ChatGPT
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
-We’re making it easier to choose the right model before you send a message. Model selection now appears in the composer, so you can find and switch models from the same place where you write your prompt. We’re also moving thinking effort controls into the model picker. When you choose a Thinking or Pro model, you can…
+We’re making it easier to choose the right model before you send a message. Model selection now appears in the composer, so you can find and switch models from the same place where you write your prompt.We’re also moving thinking effort controls into the model picker. When you choose a Thinking or Pro model, you can…
 
 [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#easier-model-selection-in-chatgpt)
 

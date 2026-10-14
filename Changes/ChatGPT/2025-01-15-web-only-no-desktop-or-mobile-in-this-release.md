@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2024-11-19-starting-today-we-re-beginning-to-roll-out-advanced-voice-mode-on-web-already-av|chatgpt-2024-11-19-2e8f94]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 6aeab6b7a2ff89cdac393d4a76416b6b501c87fe3e9e8aaec25b9ce4f5fa352b
+machine_hash: 43d8537b3a5d6eb41ce0d6e117f513065be206a538f21be5d4f4150d359e045f
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2023-12-30-cursor-is-now-based-on-vs-code-1-85-1-which-among-other-things-includes-floating|cursor-2023-12-30-784eeb]]'
 - '[[Changes/ChatGPT/2024-11-19-starting-today-we-re-beginning-to-roll-out-advanced-voice-mode-on-web-already-av|chatgpt-2024-11-19-2e8f94]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-01-15-import-from-chat-into-canvas-e328bc82|chatgpt-2025-01-15-import-from-chat-into-canvas-e328bc82]]'
+superseded: true
 theme: mobile-desktop
 type: change
 ---

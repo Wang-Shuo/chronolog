@@ -2,49 +2,74 @@
 card_id: chatgpt-2025-08-22-51c0ac
 date: '2025-08-22'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat|chatgpt-2023-07-20-4592e6]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|chatgpt-2023-07-20-37833c]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 764
-  role: variant
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: memory
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/ChatGPT/2025-08-18-longer-memory-for-more-personalized-responses|chatgpt-2025-08-18-ae5e80]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: cc62211347e0d6ea842b8701c934d45a12d83cdc5a86316fbaf5a5b2cab419e4
+machine_hash: 1b0630b3fcccaddfbfc6fbb68865ca5870774c2d01ac1775df7b8c6dd4e77cb2
 product: chatgpt
 product_name: ChatGPT
+record:
+  card_id: chatgpt-2025-08-22-51c0ac
+  comparison: ''
+  date: '2025-08-22'
+  description: 'ChatGPT — Project-only memory: Personal Memory must be enabled to
+    utilize this feature.Settings -> Personalization -> Memory'
+  evidence:
+  - quote: Personal Memory must be enabled to utilize this feature.Settings -> Personalization
+      -> Memory
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#project-only-memory
+  extractor_version: fallback-v3
+  impact: incremental
+  product: chatgpt
+  product_name: ChatGPT
+  slug: personal-memory-must-be-enabled-to-utilize-this-feature-settings-personalization
+  source_release: chatgpt-2025-08-22-project-only-memory-3424a221
+  source_type: chatgpt_changelog
+  theme: memory
+  title: Personal Memory must be enabled to utilize this feature.Settings -> Personalizat
+  type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-08-15-warmth-here-means-small-acknowledgements-that-make-interactions-feel-more-person|chatgpt-2025-08-15-047ba8]]'
-- '[[Changes/ChatGPT/2025-08-15-we-re-making-gpt-5-s-default-personality-warmer-and-more-familiar-this-is-in-res|chatgpt-2025-08-15-fc5fb6]]'
+- '[[Changes/Cursor/2025-07-03-memories-is-now-ga-since-1-0-we-ve-improved-memory-generation-quality-added-in-e|cursor-2025-07-03-14294e]]'
+- '[[Changes/ChatGPT/2025-07-29-personalize-responses-based-on-your-past-chats-if-memory-is-on-using-examples-an|chatgpt-2025-07-29-81a5aa]]'
 - '[[Changes/ChatGPT/2025-08-18-longer-memory-for-more-personalized-responses|chatgpt-2025-08-18-ae5e80]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-22-project-only-memory-3424a221|chatgpt-2025-08-22-project-only-memory-3424a221]]'
+source_type: chatgpt_changelog
 theme: memory
+title: Personal Memory must be enabled to utilize this feature.Settings - Personalizat
 type: change
 ---
 
 # Personal Memory must be enabled to utilize this feature. Settings -> Personaliza
 
 <!-- chronolog:begin region="description" -->
-Personal Memory must be enabled to utilize this feature. Settings -> Personalization -> Memory
+ChatGPT — Project-only memory: Personal Memory must be enabled to utilize this feature.Settings -> Personalization -> Memory
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
-> Personal Memory must be enabled to utilize this feature. Settings -> Personalization -> Memory
+> Personal Memory must be enabled to utilize this feature.Settings -> Personalization -> Memory
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_76ef02082f
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#project-only-memory
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/ChatGPT/2025-08-18-longer-memory-for-more-personalized-responses|chatgpt-2025-08-18-ae5e80]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: memory
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: variant
-- First In Tracked: [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat|chatgpt-2023-07-20-4592e6]]
+- Role: later-observed
+- First In Tracked: [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|chatgpt-2023-07-20-37833c]]
 - Lag Days: 764
 - Tracked Products Count: 3
 <!-- chronolog:end -->

@@ -2,32 +2,57 @@
 card_id: chatgpt-2026-06-17-b41991
 date: '2026-06-17'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2025-01-14-scheduled-tasks-is-in-early-beta-for-plus-pro-and-teams-eventually-this-will-be|chatgpt-2025-01-14-24a2be]]'
-  lag_days: 519
-  role: variant
+  first_in_tracked: '[[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now|chatgpt-2025-12-17-d1d8fe]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 182
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/ChatGPT/2025-12-17-create-tasks-in-chat-or-in-pulse-whatever-s-easier-in-the-moment|chatgpt-2025-12-17-f3fe78]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 267cfdfc64cadf6bfadf0a58c5f3ede6ee39608c631f6d09751b652352b3a2e1
+machine_hash: 26b905413af2fa773ef6403344128af7fbc240a96b15e92d6362c29559243faf
 product: chatgpt
 product_name: ChatGPT
+record:
+  card_id: chatgpt-2026-06-17-b41991
+  comparison: ''
+  date: '2026-06-17'
+  description: 'ChatGPT — Scheduled tasks in ChatGPT: Users can schedule work for
+    specific times or broader windows, such as morning, afternoon, or evening.'
+  evidence:
+  - quote: Users can schedule work for specific times or broader windows, such as
+      morning, afternoon, or evening.
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-in-chatgpt
+  extractor_version: fallback-v3
+  impact: incremental
+  product: chatgpt
+  product_name: ChatGPT
+  slug: users-can-schedule-work-for-specific-times-or-broader-windows-such-as-morning-af
+  source_release: chatgpt-2026-06-17-scheduled-tasks-in-chatgpt-b8005b4a
+  source_type: chatgpt_changelog
+  theme: automation-scheduling
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v1
+  title: Users can schedule work for specific times or broader windows, such as morning,
+  type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-20-cursor-automations-are-now-available-in-the-agents-window-in-addition-to-cursor|cursor-2026-05-20-b1abb1]]'
 - '[[Changes/Cursor/2026-05-20-this-release-brings-cursor-automations-to-the-agents-window-and-introduces-the-a|cursor-2026-05-20-c0e77c]]'
 - '[[Changes/Claude Code/2026-06-08-workflows-now-opens-immediately-even-while-a-turn-is-in-progress|claude-code-2026-06-08-9dd051]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-17-scheduled-tasks-in-chatgpt-b8005b4a|chatgpt-2026-06-17-scheduled-tasks-in-chatgpt-b8005b4a]]'
+source_type: chatgpt_changelog
 theme: automation-scheduling
+title: Users can schedule work for specific times or broader windows, such as morning,
 type: change
 ---
 
 # Users can schedule work for specific times or broader windows, such as morning,
 
 <!-- chronolog:begin region="description" -->
-Users can schedule work for specific times or broader windows, such as morning, afternoon, or evening.
+ChatGPT — Scheduled tasks in ChatGPT: Users can schedule work for specific times or broader windows, such as morning, afternoon, or evening.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,15 +62,17 @@ Users can schedule work for specific times or broader windows, such as morning, 
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/ChatGPT/2025-12-17-create-tasks-in-chat-or-in-pulse-whatever-s-easier-in-the-moment|chatgpt-2025-12-17-f3fe78]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: automation-scheduling
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: variant
-- First In Tracked: [[Changes/ChatGPT/2025-01-14-scheduled-tasks-is-in-early-beta-for-plus-pro-and-teams-eventually-this-will-be|chatgpt-2025-01-14-24a2be]]
-- Lag Days: 519
+- Role: later-observed
+- First In Tracked: [[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now|chatgpt-2025-12-17-d1d8fe]]
+- Lag Days: 182
 - Tracked Products Count: 3
 <!-- chronolog:end -->
 

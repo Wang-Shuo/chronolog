@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-01-17-if-you-re-already-using-custom-instructions-this-won-t-change-your-current-setti|chatgpt-2025-01-17-5a2437]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: dd68d506e821eed024f620d5921293641fba6c3026b25c5ca0ad3938b3ea798d
+machine_hash: 99ce8efa92ceedf05c9d0c6e0f31496e58f655ca5e187b7a38b8d9206bc6a72d
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2024-04-29-memory-is-now-available-to-all-chatgpt-plus-users-except-in-europe-korea-where-w|chatgpt-2024-04-29-c3370d]]'
 - '[[Changes/ChatGPT/2025-01-17-if-you-re-already-using-custom-instructions-this-won-t-change-your-current-setti|chatgpt-2025-01-17-5a2437]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-01-17-more-personalization-in-custom-instructions-bab36367|chatgpt-2025-01-17-more-personalization-in-custom-instructions-bab36367]]'
+superseded: true
 theme: memory
 type: change
 ---

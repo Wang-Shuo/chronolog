@@ -1,9 +1,21 @@
 ---
 changes_count: 5
 date: '2023-10-01'
-machine_hash: 1e981505d51ef41877d76668aa9a811a79a329c62c69f41f9ef586aeca333b00
+machine_hash: 4dc02217ce7729b577bfa98098fe0bfdc244c42d583abba533ab99b9146c56ce
 product: cursor
 product_name: Cursor
+record:
+  date: '2023-10-01'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2023-10-01-0-12-0-https-cursor-com-changelog-0-12-0-2555ff30
+  source_summary: Indexing should now be faster, more stable, and use less of your
+    system resources. You can also configure ignored files in a .cursorignore. The
+    controls are in the "More" tab.
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-12-0
+  title: Indexing, cmd-k in terminal, @git, /edit, bugfixes
+  version: 0.12.0
 release_id: cursor-2023-10-01-0-12-0-https-cursor-com-changelog-0-12-0-2555ff30
 source_release: Indexing, cmd-k in terminal, @git, /edit, bugfixes
 source_type: cursor_changelog
@@ -11,6 +23,7 @@ source_url: https://cursor.com/changelog/0-12-0
 tags:
 - release
 - cursor
+title: Cursor — Indexing, cmd-k in terminal, @git, /edit, bugfixes
 version: 0.12.0
 ---
 

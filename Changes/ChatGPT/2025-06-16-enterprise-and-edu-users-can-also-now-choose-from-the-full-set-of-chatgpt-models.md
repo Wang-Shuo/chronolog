@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-06-13-handles-longer-conversational-contexts-allowing-better-intelligence-in-longer-co|chatgpt-2025-06-13-c0b056]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 232d01829dda3f28a0fea2405e0ef61d89c5fc7e732f8e1a0447d30ca7853d8a
+machine_hash: de1bd3a0624190f2eb8d1168e37fce9e48cc7ee11a5e3c999c7405f7aa30e97b
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-06-13-smarter-responses-that-are-more-intelligent-are-better-at-understanding-what-you|chatgpt-2025-06-13-963aca]]'
 - '[[Changes/ChatGPT/2025-06-13-handles-longer-conversational-contexts-allowing-better-intelligence-in-longer-co|chatgpt-2025-06-13-c0b056]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-16-expanded-model-support-for-custom-gpts-55f4555f|chatgpt-2025-06-16-expanded-model-support-for-custom-gpts-55f4555f]]'
+superseded: true
 theme: model-support
 type: change
 ---

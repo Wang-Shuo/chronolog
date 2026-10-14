@@ -27,7 +27,9 @@ def detect_silence(
     today_date = date.fromisoformat(today)
     by_product: dict[str, list[date]] = defaultdict(list)
     for release in releases:
-        by_product[release["product"]].append(date.fromisoformat(release["date"]))
+        release_day = date.fromisoformat(release["date"])
+        if release_day <= today_date:
+            by_product[release["product"]].append(release_day)
 
     alerts = []
     pending = []

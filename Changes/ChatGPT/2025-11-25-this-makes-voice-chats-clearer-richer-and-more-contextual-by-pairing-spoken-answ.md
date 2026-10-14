@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-11-25-we-re-making-chatgpt-voice-a-seamless-part-of-the-chatgpt-experience-so-you-can|chatgpt-2025-11-25-577387]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 69259a1135aa57bec10b60bd5f2480e0d79e1dd9eabea99096352afa5c96cadf
+machine_hash: 06eb970930259365b72c47b67a126fad1e2da30aeba6c1bb5e4270325806ff4f
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-09-18-we-re-improving-the-quality-and-latency-of-responses-of-the-version-of-advanced|chatgpt-2025-09-18-34d11c]]'
 - '[[Changes/ChatGPT/2025-11-25-we-re-making-chatgpt-voice-a-seamless-part-of-the-chatgpt-experience-so-you-can|chatgpt-2025-11-25-577387]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-25-an-improved-voice-interface-the-audio-you-know-with-text-and-vis-29758d37|chatgpt-2025-11-25-an-improved-voice-interface-the-audio-you-know-with-text-and-vis-29758d37]]'
+superseded: true
 theme: voice
 type: change
 ---

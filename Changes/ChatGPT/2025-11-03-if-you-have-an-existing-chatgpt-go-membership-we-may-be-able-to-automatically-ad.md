@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-10-30-we-re-excited-to-announce-that-chatgpt-go-our-low-cost-subscription-plan-is-now|chatgpt-2025-10-30-db38a4]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 5e8e8ed7b1e65b8d40c998619a58dab6ef36c79ec77def144ab6ec98f43bdba3
+machine_hash: 503bb840df3cad1788385c62e0cd9da57320130b08b4fb0d923e8bfe498c8ef1
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-10-30-for-an-affordable-price-chatgpt-go-provides-everything-included-in-the-free-plan|chatgpt-2025-10-30-2e2401]]'
 - '[[Changes/ChatGPT/2025-10-30-we-re-excited-to-announce-that-chatgpt-go-our-low-cost-subscription-plan-is-now|chatgpt-2025-10-30-db38a4]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-03-chatgpt-go-promo-india-d9dd74b7|chatgpt-2025-11-03-chatgpt-go-promo-india-d9dd74b7]]'
+superseded: true
 theme: pricing-model
 type: change
 ---

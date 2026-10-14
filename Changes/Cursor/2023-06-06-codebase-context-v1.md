@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2023-06-06-introducing-v1-of-codebase-wide-context-we-ll-be-shipping-major-improvements-to|cursor-2023-06-06-1965a6]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 878f2d924464f6cd6104a9915b92bbc5860443ffa91679a80e4dc1179f8713fc
+machine_hash: 2df58bb9dc9f094e00d3b340bad5e6cb01f4c0f43e1f75c1f21109702e65ef5d
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2023-05-17-press-cmd-shift-l-and-the-model-will-add-the-terminal-context-to-chat|cursor-2023-05-17-6647d4]]'
 - '[[Changes/Cursor/2023-06-06-introducing-v1-of-codebase-wide-context-we-ll-be-shipping-major-improvements-to|cursor-2023-06-06-1965a6]]'
 source_release: '[[Releases/Cursor/cursor-2023-06-06-0-2-26-https-cursor-com-changelog-0-2-26-1b7664cb|cursor-2023-06-06-0-2-26-https-cursor-com-changelog-0-2-26-1b7664cb]]'
+superseded: true
 theme: context-window
 type: change
 ---

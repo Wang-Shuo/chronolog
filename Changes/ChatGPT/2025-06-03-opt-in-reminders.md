@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-05-08-opt-in-reminders|chatgpt-2025-05-08-6dc49e]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: ff7b77533ca5579dc4a43d7a036d91ae066cb19db92e1005eceee23ba0a411d5
+machine_hash: 37a4518e6a535aeb0d47f1ed2a8834e2ff9b7a8631cd33571e354707bc4b9a0e
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-04-25-we-re-making-additional-improvements-to-gpt-4o-optimizing-when-it-saves-memories|chatgpt-2025-04-25-6ac8ab]]'
 - '[[Changes/ChatGPT/2025-05-08-opt-in-reminders|chatgpt-2025-05-08-6dc49e]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-03-memory-is-now-more-comprehensive-for-free-users-32de8dd3|chatgpt-2025-06-03-memory-is-now-more-comprehensive-for-free-users-32de8dd3]]'
+superseded: true
 theme: automation-scheduling
 type: change
 ---

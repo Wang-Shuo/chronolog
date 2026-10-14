@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2026-07-29-research-rarely-happens-alone-chatgpt-for-academic-researchers-gives-faculty-and|chatgpt-2026-07-29-aad3b3]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 12dba3692ff5847b457c8bb0a59e1baa13260b8d42efb95bbab552ace6e4d091
+machine_hash: 345001735d4c7e12dd74690863a86e134c0dcd7a80e6d9ceb59f16a2ab90da1b
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2026-07-29-when-you-connect-a-supported-app-from-the-plugin-directory-chatgpt-you-can-use-s|chatgpt-2026-07-29-82446b]]'
 - '[[Changes/ChatGPT/2026-07-29-research-rarely-happens-alone-chatgpt-for-academic-researchers-gives-faculty-and|chatgpt-2026-07-29-aad3b3]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-29-sign-in-with-chatgpt-beta-98094157|chatgpt-2026-07-29-sign-in-with-chatgpt-beta-98094157]]'
+superseded: true
 theme: account-access
 type: change
 ---

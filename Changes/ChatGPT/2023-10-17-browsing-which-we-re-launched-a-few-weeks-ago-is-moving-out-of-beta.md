@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2023-09-27-browsing-is-rolling-out-to-all-plus-users-chatgpt-can-now-browse-the-internet-to|chatgpt-2023-09-27-689079]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 5801ee6f6e8cc8aa0cbf9454fe4348aa17451c7984e09bf49ed7e73d8e7c74ac
+machine_hash: 146f4896beec2fffe4f1b71eaf8edb4f2853a1306195a2158955b6d3e7c3716e
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2023-09-27-choose-browse-with-bing-in-the-selector-under-gpt-4|chatgpt-2023-09-27-53ecfb]]'
 - '[[Changes/ChatGPT/2023-09-27-browsing-is-rolling-out-to-all-plus-users-chatgpt-can-now-browse-the-internet-to|chatgpt-2023-09-27-689079]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-10-17-browsing-is-now-out-of-beta-6432b7b5|chatgpt-2023-10-17-browsing-is-now-out-of-beta-6432b7b5]]'
+superseded: true
 theme: search-browsing
 type: change
 ---

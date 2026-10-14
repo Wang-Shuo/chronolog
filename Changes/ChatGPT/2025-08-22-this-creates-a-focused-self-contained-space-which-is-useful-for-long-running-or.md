@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-08-12-chatgpt-plus-users-now-have-3-000-messages-week-with-gpt-5-thinking-and-then-ext|chatgpt-2025-08-12-cb82ee]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 7884133807fd1d0d10ac98b4f05c9e98d476f9c8478e7b1dc7328d6292607c86
+machine_hash: b26554587975b08123d607fdf61a88104ceae1b4e9ae4d6f1a2442812230575f
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2025-08-06-agents-are-significantly-improved-when-operating-across-large-codebases-context|cursor-2025-08-06-b4a9ac]]'
 - '[[Changes/ChatGPT/2025-08-12-chatgpt-plus-users-now-have-3-000-messages-week-with-gpt-5-thinking-and-then-ext|chatgpt-2025-08-12-cb82ee]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-22-project-only-memory-3424a221|chatgpt-2025-08-22-project-only-memory-3424a221]]'
+superseded: true
 theme: context-window
 type: change
 ---

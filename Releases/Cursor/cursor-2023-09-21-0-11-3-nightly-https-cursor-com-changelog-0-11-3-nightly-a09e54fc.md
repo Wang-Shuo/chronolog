@@ -1,9 +1,20 @@
 ---
 changes_count: 1
 date: '2023-09-21'
-machine_hash: 43319fbce368f6d8140b990c6ec3e3b21576d5cd84b02ee8ecb40ffd0d70b533
+machine_hash: b9dbdee8d1fe2bb0342dcd74fabbfb28147eba8b74aa4202728eaf005c12cc8f
 product: cursor
 product_name: Cursor
+record:
+  date: '2023-09-21'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2023-09-21-0-11-3-nightly-https-cursor-com-changelog-0-11-3-nightly-a09e54fc
+  source_summary: Hacky first version of cmd-K in the terminal! Let us know what you
+    think.
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-11-3-nightly
+  title: Cmd-K in the terminal!
+  version: 0.11.3-nightly
 release_id: cursor-2023-09-21-0-11-3-nightly-https-cursor-com-changelog-0-11-3-nightly-a09e54fc
 source_release: Cmd-K in the terminal!
 source_type: cursor_changelog
@@ -11,6 +22,7 @@ source_url: https://cursor.com/changelog/0-11-3-nightly
 tags:
 - release
 - cursor
+title: Cursor — Cmd-K in the terminal!
 version: 0.11.3-nightly
 ---
 

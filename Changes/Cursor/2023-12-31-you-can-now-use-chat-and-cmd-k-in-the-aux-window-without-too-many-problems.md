@@ -3,31 +3,53 @@ card_id: cursor-2023-12-31-0890c3
 date: '2023-12-31'
 diffusion:
   first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|cursor-2023-03-14-24e9bf]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 292
-  role: variant
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: editor-experience
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Cursor/2023-12-29-you-can-now-run-multiple-command-k-s-in-parallel-also-it-should-now-be-easier-to|cursor-2023-12-29-cc94ca]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 7f36a341ffe091831cd3b486221c9410499fea908d6138966f1b5aed91c7a683
+machine_hash: 1dde69956e293969e457ea6e25bca74f13cbfcc64effa3bc8a38178282d98d4c
 product: cursor
 product_name: Cursor
+record:
+  card_id: cursor-2023-12-31-0890c3
+  comparison: ''
+  date: '2023-12-31'
+  description: 'Cursor — Aux Window Fixes: You can now use chat and cmd-k in the aux
+    window without too many problems.'
+  evidence:
+  - quote: You can now use chat and cmd-k in the aux window without too many problems.
+    source_release: https://cursor.com/changelog/0-21-4-nightly
+  extractor_version: fallback-v3
+  impact: incremental
+  product: cursor
+  product_name: Cursor
+  slug: you-can-now-use-chat-and-cmd-k-in-the-aux-window-without-too-many-problems
+  source_release: cursor-2023-12-31-0-21-4-nightly-https-cursor-com-changelog-0-21-4-nightly-8e148bcb
+  source_type: cursor_changelog
+  theme: editor-experience
+  title: You can now use chat and cmd-k in the aux window without too many problems.
+  type: change
 related_changes:
+- '[[Changes/Cursor/2023-12-14-we-made-copilot-faster-smarter-more-constrained-and-switched-to-a-ghost-text-hit|cursor-2023-12-14-b0f721]]'
 - '[[Changes/Cursor/2023-12-16-update-0-20-1-0-20-2-we-added-tldrs-to-make-it-easier-to-sort-through-the-bugs-f|cursor-2023-12-16-0f03d7]]'
-- '[[Changes/Cursor/2023-12-16-ai-review-beta-this-is-a-new-experimental-feature-that-let-s-gpt-4-scan-your-git|cursor-2023-12-16-218d68]]'
 - '[[Changes/Cursor/2023-12-29-you-can-now-run-multiple-command-k-s-in-parallel-also-it-should-now-be-easier-to|cursor-2023-12-29-cc94ca]]'
 source_release: '[[Releases/Cursor/cursor-2023-12-31-0-21-4-nightly-https-cursor-com-changelog-0-21-4-nightly-8e148bcb|cursor-2023-12-31-0-21-4-nightly-https-cursor-com-changelog-0-21-4-nightly-8e148bcb]]'
+source_type: cursor_changelog
 theme: editor-experience
+title: You can now use chat and cmd-k in the aux window without too many problems.
 type: change
 ---
 
 # You can now use chat and cmd-k in the aux window without too many problems.
 
 <!-- chronolog:begin region="description" -->
-You can now use chat and cmd-k in the aux window without too many problems.
+Cursor — Aux Window Fixes: You can now use chat and cmd-k in the aux window without too many problems.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +59,15 @@ You can now use chat and cmd-k in the aux window without too many problems.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Cursor/2023-12-29-you-can-now-run-multiple-command-k-s-in-parallel-also-it-should-now-be-easier-to|cursor-2023-12-29-cc94ca]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: editor-experience
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: variant
+- Role: later-observed
 - First In Tracked: [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|cursor-2023-03-14-24e9bf]]
 - Lag Days: 292
 - Tracked Products Count: 3

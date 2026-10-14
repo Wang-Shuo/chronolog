@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2026-06-22-add-any-to-your-setup-with-one-click-from-the-new-customize-page-and-extend-curs|cursor-2026-06-22-9e3376]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 913750eb97a8423467760d47bc901015ae7b8382d9eabc5885cf4d3e7e885be0
+machine_hash: b2e86f5127a378ebb0220d1fe1726e320cf84c1e05b3576d09a1d7a736198e6e
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2026-06-22-you-can-now-add-and-manage-plugins-skills-mcps-subagents-rules-commands-and-hook|cursor-2026-06-22-111413]]'
 - '[[Changes/Cursor/2026-06-22-add-any-to-your-setup-with-one-click-from-the-new-customize-page-and-extend-curs|cursor-2026-06-22-9e3376]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-22-3-9-https-cursor-com-changelog-customize-7ff4b6b2|cursor-2026-06-22-3-9-https-cursor-com-changelog-customize-7ff4b6b2]]'
+superseded: true
 theme: apps-integrations
 type: change
 ---

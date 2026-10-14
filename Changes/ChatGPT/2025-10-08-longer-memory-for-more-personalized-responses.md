@@ -2,32 +2,54 @@
 card_id: chatgpt-2025-10-08-e8dde8
 date: '2025-10-08'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat|chatgpt-2023-07-20-4592e6]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|chatgpt-2023-07-20-37833c]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 811
-  role: variant
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: memory
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/ChatGPT/2025-09-25-we-re-launching-an-early-preview-of-chatgpt-pulse-for-pro-users-on-ios-and-andro|chatgpt-2025-09-25-bafa22]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 362d29066991b5e53dccf3d2988967bba7b1e23eafc77449df4fbc0d5509a42c
+machine_hash: dfa34e68f8ec0da106dea73eb703196e327f8671f9dfae5ab3adab34362a909c
 product: chatgpt
 product_name: ChatGPT
+record:
+  card_id: chatgpt-2025-10-08-e8dde8
+  comparison: ''
+  date: '2025-10-08'
+  description: 'ChatGPT — ChatGPT Go expansion: Longer memory for more personalized
+    responses'
+  evidence:
+  - quote: Longer memory for more personalized responses
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-expansion
+  extractor_version: fallback-v3
+  impact: incremental
+  product: chatgpt
+  product_name: ChatGPT
+  slug: longer-memory-for-more-personalized-responses
+  source_release: chatgpt-2025-10-08-chatgpt-go-expansion-37d00d9f
+  source_type: chatgpt_changelog
+  theme: memory
+  title: Longer memory for more personalized responses
+  type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-09-25-it-requires-saved-memory-and-chat-history-to-be-turned-on-and-you-can-switch-pul|chatgpt-2025-09-25-023d95]]'
-- '[[Changes/ChatGPT/2025-09-25-as-a-preview-pulse-has-some-limitations-it-aims-to-show-you-what-s-most-relevant|chatgpt-2025-09-25-14a5fc]]'
-- '[[Changes/ChatGPT/2025-09-25-we-re-launching-an-early-preview-of-chatgpt-pulse-for-pro-users-on-ios-and-andro|chatgpt-2025-09-25-bafa22]]'
+- '[[Changes/ChatGPT/2025-09-22-longer-memory-for-more-personalized-responses|chatgpt-2025-09-22-6c0a54]]'
+- '[[Changes/ChatGPT/2025-09-25-we-re-launching-an-early-preview-of-chatgpt-pulse-for-pro-users-on-ios-and-andro-cf8064|chatgpt-2025-09-25-cf8064]]'
+- '[[Changes/ChatGPT/2025-09-29-turn-off-memory-so-chatgpt-won-t-save-and-use-memories-when-responding|chatgpt-2025-09-29-d14d2e]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-08-chatgpt-go-expansion-37d00d9f|chatgpt-2025-10-08-chatgpt-go-expansion-37d00d9f]]'
+source_type: chatgpt_changelog
 theme: memory
+title: Longer memory for more personalized responses
 type: change
 ---
 
 # Longer memory for more personalized responses
 
 <!-- chronolog:begin region="description" -->
-Longer memory for more personalized responses
+ChatGPT — ChatGPT Go expansion: Longer memory for more personalized responses
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,14 +59,16 @@ Longer memory for more personalized responses
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/ChatGPT/2025-09-25-we-re-launching-an-early-preview-of-chatgpt-pulse-for-pro-users-on-ios-and-andro|chatgpt-2025-09-25-bafa22]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: memory
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: variant
-- First In Tracked: [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat|chatgpt-2023-07-20-4592e6]]
+- Role: later-observed
+- First In Tracked: [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|chatgpt-2023-07-20-37833c]]
 - Lag Days: 811
 - Tracked Products Count: 3
 <!-- chronolog:end -->

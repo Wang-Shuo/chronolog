@@ -2,32 +2,56 @@
 card_id: cursor-2025-02-19-76c9e5
 date: '2025-02-19'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed|chatgpt-2023-03-23-86e5a9]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 699
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Cursor/2025-02-19-mcp-improved-reliability-and-quality-of-life-enhancements-for-building-mcp-serve|cursor-2025-02-19-24beb8]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 18db7c8993d0681caaadddff855b00dfaad4e7aac8860dad6ff1738f1df1ddb1
+machine_hash: b81ff87e3187c600a76ee81a9f17829cdcc117583deff8940ef49c9108f78894
 product: cursor
 product_name: Cursor
+record:
+  card_id: cursor-2025-02-19-76c9e5
+  comparison: ''
+  date: '2025-02-19'
+  description: 'Cursor — Agent is ready and UI refresh: 0.46.2: Improved MCP reliability,
+    added option to disable yolo mode for MCP'
+  evidence:
+  - quote: '0.46.2: Improved MCP reliability, added option to disable yolo mode for
+      MCP'
+    source_release: https://cursor.com/changelog/0-46-x
+  extractor_version: fallback-v3
+  impact: incremental
+  product: cursor
+  product_name: Cursor
+  slug: 0-46-2-improved-mcp-reliability-added-option-to-disable-yolo-mode-for-mcp
+  source_release: cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10
+  source_type: cursor_changelog
+  theme: apps-integrations
+  title: '0.46.2: Improved MCP reliability, added option to disable yolo mode for
+    MCP'
+  type: change
 related_changes:
+- '[[Changes/ChatGPT/2024-05-16-upload-the-latest-file-versions-directly-from-google-drive-microsoft-onedrive-pe|chatgpt-2024-05-16-51ea0b]]'
 - '[[Changes/Cursor/2024-07-03-docs-management-go-to-cursor-settings-features-docs-to-re-index-your-docs|cursor-2024-07-03-5b1528]]'
-- '[[Changes/ChatGPT/2024-11-22-recent-gpts-pinned-gpt-s-are-now-displayed-below-conversations|chatgpt-2024-11-22-5b68b5]]'
 - '[[Changes/Cursor/2025-02-19-mcp-improved-reliability-and-quality-of-life-enhancements-for-building-mcp-serve|cursor-2025-02-19-24beb8]]'
 source_release: '[[Releases/Cursor/cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10|cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10]]'
+source_type: cursor_changelog
 theme: apps-integrations
+title: '0.46.2: Improved MCP reliability, added option to disable yolo mode for MCP'
 type: change
 ---
 
 # 0.46.2: Improved MCP reliability, added option to disable yolo mode for MCP
 
 <!-- chronolog:begin region="description" -->
-0.46.2: Improved MCP reliability, added option to disable yolo mode for MCP
+Cursor — Agent is ready and UI refresh: 0.46.2: Improved MCP reliability, added option to disable yolo mode for MCP
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,14 +61,16 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Cursor/2025-02-19-mcp-improved-reliability-and-quality-of-life-enhancements-for-building-mcp-serve|cursor-2025-02-19-24beb8]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: apps-integrations
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
-- First In Tracked: [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed|chatgpt-2023-03-23-86e5a9]]
+- Role: later-observed
+- First In Tracked: [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]
 - Lag Days: 699
 - Tracked Products Count: 3
 <!-- chronolog:end -->

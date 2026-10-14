@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2024-02-13-you-can-read-more-about-memory-and-controls-here|chatgpt-2024-02-13-4b6d7c]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 4726668859912947ce6031b764efe634bcb087f45d930429426d1fd80f9e2e4d
+machine_hash: 8cf593b7dfac6fa9951c97b96b4211f9110939d97096921e65edbd4635271f18
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2024-02-13-we-re-testing-memory-with-chatgpt-remembering-things-you-discuss-across-all-chat|chatgpt-2024-02-13-44f07a]]'
 - '[[Changes/ChatGPT/2024-02-13-you-can-read-more-about-memory-and-controls-here|chatgpt-2024-02-13-4b6d7c]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-02-13-memory-and-new-controls-for-chatgpt-2fd43ded|chatgpt-2024-02-13-memory-and-new-controls-for-chatgpt-2fd43ded]]'
+superseded: true
 theme: memory
 type: change
 ---

@@ -3,31 +3,67 @@ card_id: claude-code-2026-02-18-7be345
 date: '2026-02-18'
 diffusion:
   first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|chatgpt-2022-12-15-9c6f9c]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1161
-  role: follower
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/Claude Code/2026-01-21-improved-ui-rendering-performance-with-react-compiler|claude-code-2026-01-21-5000b9]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: paradigm-shift
-machine_hash: 22b74e3218c6e3588073892c9368bd4fe97088fc09f73b1691248d84265a14ab
+machine_hash: 8526a7e356fa44c16881d62cc8a0d4d61f942e02efa26ec75013914bd006bca0
 product: claude-code
 product_name: Claude Code
+record:
+  ai_generated: true
+  card_id: claude-code-2026-02-18-7be345
+  comparison: ''
+  confidence: low
+  date: '2026-02-18'
+  description: 'Claude Code — v2.1.47: Improved memory usage by trimming agent task
+    message history after tasks complete'
+  evidence:
+  - quote: Improved memory usage by trimming agent task message history after tasks
+      complete
+    source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.47
+  extractor_version: fallback-v3
+  impact: paradigm-shift
+  product: claude-code
+  product_name: Claude Code
+  slug: improved-memory-usage-by-trimming-agent-task-message-history-after-tasks-complet
+  source_release: claude-code-2026-02-18-v2-1-47-github-287886320-98b6e931
+  source_type: github_releases
+  theme: reliability-performance
+  theme_matches:
+  - matched_terms:
+    - memory
+    score: 110
+    theme: memory
+  - matched_terms:
+    - agent
+    score: 50
+    theme: agent-mode
+  theme_resolution: manual-semantic-rule-v2
+  title: Improved memory usage by trimming agent task message history after tasks
+    complet
+  type: change
 related_changes:
 - '[[Changes/Cursor/2025-12-22-for-this-holiday-release-we-ve-focused-entirely-on-fixing-bugs-and-improving-sta|cursor-2025-12-22-1c2a12]]'
 - '[[Changes/Claude Code/2026-01-14-improved-typing-responsiveness-by-reducing-memory-allocation-overhead-in-termina|claude-code-2026-01-14-59caaf]]'
 - '[[Changes/Claude Code/2026-01-21-improved-ui-rendering-performance-with-react-compiler|claude-code-2026-01-21-5000b9]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-18-v2-1-47-github-287886320-98b6e931|claude-code-2026-02-18-v2-1-47-github-287886320-98b6e931]]'
+source_type: github_releases
 theme: reliability-performance
+title: Improved memory usage by trimming agent task message history after tasks complet
 type: change
 ---
 
 # Improved memory usage by trimming agent task message history after tasks complet
 
 <!-- chronolog:begin region="description" -->
-Improved memory usage by trimming agent task message history after tasks complete
+Claude Code — v2.1.47: Improved memory usage by trimming agent task message history after tasks complete
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +73,15 @@ Improved memory usage by trimming agent task message history after tasks complet
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/Claude Code/2026-01-21-improved-ui-rendering-performance-with-react-compiler|claude-code-2026-01-21-5000b9]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: reliability-performance
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
+- Role: later-observed
 - First In Tracked: [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|chatgpt-2022-12-15-9c6f9c]]
 - Lag Days: 1161
 - Tracked Products Count: 3

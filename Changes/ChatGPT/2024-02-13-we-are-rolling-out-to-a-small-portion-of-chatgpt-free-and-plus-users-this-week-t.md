@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2024-01-10-we-re-launching-a-new-chatgpt-plan-for-teams-of-all-sizes-which-provides-a-secur|chatgpt-2024-01-10-df2f38]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: f24dbd80b4991476f1a4d5bdc7020045ded6780f390786a81cba2b036b5c82be
+machine_hash: cf05996c32860de9924ad1df2b8de9ff5dc837d0f6d330e9094fb60a84f6bd2b
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2024-01-10-use-chatgpt-alongside-your-team|chatgpt-2024-01-10-3068d2]]'
 - '[[Changes/ChatGPT/2024-01-10-we-re-launching-a-new-chatgpt-plan-for-teams-of-all-sizes-which-provides-a-secur|chatgpt-2024-01-10-df2f38]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-02-13-memory-and-new-controls-for-chatgpt-2fd43ded|chatgpt-2024-02-13-memory-and-new-controls-for-chatgpt-2fd43ded]]'
+superseded: true
 theme: collaboration
 type: change
 ---

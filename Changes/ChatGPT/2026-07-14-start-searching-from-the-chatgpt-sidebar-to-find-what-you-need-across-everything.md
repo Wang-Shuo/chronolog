@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2026-06-17-a-new-scheduled-page-discoverable-in-the-sidebar-gives-users-one-place-to-view-a|chatgpt-2026-06-17-a1660a]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: ba5bc4899a250533b571cd84917e78bf4d22c723f8688456250b50b66cda254b
+machine_hash: 8debadb3eea3e6872082d6ad3d844f9207f37969253e414df607a48f37c4a550
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2026-07-10-conversation-search|cursor-2026-07-10-8aebd8]]'
 - '[[Changes/Claude Code/2026-07-11-improved-agent-view-pasting-the-same-text-again-now-expands-the-collapsed-pasted|claude-code-2026-07-11-3783f7]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-14-search-across-chats-projects-and-files-is-now-supercharged-90a28571|chatgpt-2026-07-14-search-across-chats-projects-and-files-is-now-supercharged-90a28571]]'
+superseded: true
 theme: interface-experience
 type: change
 ---

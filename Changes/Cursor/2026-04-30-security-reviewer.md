@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2026-03-05-when-invoked-the-agent-spins-up-a-cloud-sandbox-and-follows-your-instructions-us|cursor-2026-03-05-9c8870]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 714f98db24d5cae8dcced45b33cc5974eb997a35910a05cb7e7e877d4892645a
+machine_hash: 03be4238f038c4b3df632c048ca7362e2e9fb928c26c6508b8b67b938df875f0
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Claude Code/2026-04-17-added-sandbox-network-denieddomains-setting-to-block-specific-domains-even-when|claude-code-2026-04-17-856cba]]'
 - '[[Changes/Claude Code/2026-04-18-fixed-a-crash-in-the-permission-dialog-when-an-agent-teams-teammate-requested-to|claude-code-2026-04-18-f53068]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-30-cursor-security-review-https-cursor-com-changelog-04-30-26-640898b1|cursor-2026-04-30-cursor-security-review-https-cursor-com-changelog-04-30-26-640898b1]]'
+superseded: true
 theme: safety-privacy
 type: change
 ---

@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-07-29-study-mode-is-currently-available-to-users-in-free-plus-pro-and-teams-plans-glob|chatgpt-2025-07-29-bf2b3b]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 5ce6826f86fc2bc2182b788422455fa55b28abca9513880c6423bbd52c3e4d52
+machine_hash: 8a87ade39d380919368165d8852ff43a8a45cc5bd9e2d56749cbb133904853b3
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-07-16-record-mode-is-now-available-to-chatgpt-plus-users-globally-in-the-macos-desktop|chatgpt-2025-07-16-86ff26]]'
 - '[[Changes/ChatGPT/2025-07-29-study-mode-is-currently-available-to-users-in-free-plus-pro-and-teams-plans-glob|chatgpt-2025-07-29-bf2b3b]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-07-gpt-5-a50b91bc|chatgpt-2025-08-07-gpt-5-a50b91bc]]'
+superseded: true
 theme: mobile-desktop
 type: change
 ---

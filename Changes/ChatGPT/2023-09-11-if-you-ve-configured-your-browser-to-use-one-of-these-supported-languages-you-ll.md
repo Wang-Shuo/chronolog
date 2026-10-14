@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2023-08-03-prompt-examples-a-blank-page-can-be-intimidating-at-the-beginning-of-a-new-chat|chatgpt-2023-08-03-e496aa]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: e6dcf4b650900e6c456cbce8e8286e22dc2719f6154ce1fe2fd2d540d3050ccc
+machine_hash: d13e0453f7d2f02ffccd494a874acd44b4ef0ba08fed78713100e521088add34
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2023-08-22-nicer-error-messages-in-the-chat-fewer-annoying-popups|cursor-2023-08-22-e455fc]]'
 - '[[Changes/Cursor/2023-08-30-you-can-now-switch-to-the-vs-code-sidebar-orientation|cursor-2023-08-30-7d074c]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-09-11-chatgpt-language-support-alpha-on-web-2a9614e3|chatgpt-2023-09-11-chatgpt-language-support-alpha-on-web-2a9614e3]]'
+superseded: true
 theme: interface-experience
 type: change
 ---

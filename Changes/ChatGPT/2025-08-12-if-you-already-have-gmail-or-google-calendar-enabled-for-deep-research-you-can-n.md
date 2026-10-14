@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-08-11-the-following-connectors-are-now-available-to-search-by-chat-in-addition-to-deep|chatgpt-2025-08-11-cbf6bb]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: 0ff82344d34d6fc09f73c1efcf02a7587fa62246ef1ec6acb51ae178e4b11eec
+machine_hash: 2e4dfad450f4f372dd769b2c6e58162c6020c967f50f34fe7ad508a575611715
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-07-24-pro-users-can-now-connect-to-canva-and-notion-for-both-chat-search-and-deep-rese|chatgpt-2025-07-24-a2799a]]'
 - '[[Changes/ChatGPT/2025-08-11-the-following-connectors-are-now-available-to-search-by-chat-in-addition-to-deep|chatgpt-2025-08-11-cbf6bb]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-12-gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-db727e12|chatgpt-2025-08-12-gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-db727e12]]'
+superseded: true
 theme: search-browsing
 type: change
 ---

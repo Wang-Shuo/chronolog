@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-03-18-in-line-message-error-retries-if-you-encounter-a-message-error-you-can-retry-or|chatgpt-2025-03-18-3efd26]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: bc9e329b1e82d9526faf72daa7a0538ce1626c4bc6a3d3c48c16a6a43c2cc68b
+machine_hash: fff92bc9fc3615fe5b74bbced73cfb438d798ad74902d9d176107462ae139895
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2025-03-11-0-47-6-faster-applies-warns-user-when-edits-fails-because-of-cursorignore|cursor-2025-03-11-e25337]]'
 - '[[Changes/ChatGPT/2025-03-18-in-line-message-error-retries-if-you-encounter-a-message-error-you-can-retry-or|chatgpt-2025-03-18-3efd26]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-03-18-ios-app-6a42bb0f|chatgpt-2025-03-18-ios-app-6a42bb0f]]'
+superseded: true
 theme: reliability-performance
 type: change
 ---

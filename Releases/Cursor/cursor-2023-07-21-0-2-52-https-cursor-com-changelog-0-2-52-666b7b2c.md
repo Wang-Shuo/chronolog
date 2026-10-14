@@ -1,9 +1,20 @@
 ---
 changes_count: 0
 date: '2023-07-21'
-machine_hash: 99c71c6d4632e36ee994e65edb9ac2835f23a4df9bc926b124162c307d6c7ed2
+machine_hash: eaa7114eec7efd214008fcbe953c12db9fbe2471de01987408cff1f6c006d8d6
 product: cursor
 product_name: Cursor
+record:
+  date: '2023-07-21'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2023-07-21-0-2-52-https-cursor-com-changelog-0-2-52-666b7b2c
+  source_summary: Fixes a bug with CMD-k prompt history that would freeze the input
+    box.
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-2-52
+  title: Bug fix
+  version: 0.2.52
 release_id: cursor-2023-07-21-0-2-52-https-cursor-com-changelog-0-2-52-666b7b2c
 source_release: Bug fix
 source_type: cursor_changelog
@@ -11,6 +22,7 @@ source_url: https://cursor.com/changelog/0-2-52
 tags:
 - release
 - cursor
+title: Cursor — Bug fix
 version: 0.2.52
 ---
 

@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-06-12-gpts-with-custom-actions-currently-support-gpt-4o-and-4-1|chatgpt-2025-06-12-b1cb25]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: b0740a631a5c19fda036a313caf4b89f8bd912ca71b1fade980539c520b44c44
+machine_hash: ab8be74ea575eeec96b87970e4096574391f4d419a26d4ff082e3c6c1c6118ec
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-06-12-gpts-without-custom-actions-can-use-the-model-picker-to-select-from-all-models-a|chatgpt-2025-06-12-acceca]]'
 - '[[Changes/ChatGPT/2025-06-12-gpts-with-custom-actions-currently-support-gpt-4o-and-4-1|chatgpt-2025-06-12-b1cb25]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-13-improvements-to-the-chatgpt-search-response-quality-2791e464|chatgpt-2025-06-13-improvements-to-the-chatgpt-search-response-quality-2791e464]]'
+superseded: true
 theme: model-support
 type: change
 ---

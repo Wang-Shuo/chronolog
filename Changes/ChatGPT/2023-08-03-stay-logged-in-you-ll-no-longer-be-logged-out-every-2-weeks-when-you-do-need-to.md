@@ -11,7 +11,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 7c9754df3e80107b5c24f05c59c4f7a69a109f29125748fcbc62238feb0883e6
+machine_hash: 396b9bd5ec184a1cb31d45742e1d2d7af2071bfb54fbe332aff9e89d95e9f59a
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -19,6 +19,7 @@ related_changes:
 - '[[Changes/Cursor/2023-06-27-if-you-re-not-logged-in-we-show-the-popup-to-log-in-again|cursor-2023-06-27-2e6d58]]'
 - '[[Changes/Cursor/2023-07-25-you-can-now-chat-with-any-codebase-no-need-to-have-a-github-repo-login-through-g|cursor-2023-07-25-7fef5d]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-08-03-updates-to-chatgpt-0d776ee3|chatgpt-2023-08-03-updates-to-chatgpt-0d776ee3]]'
+superseded: true
 theme: account-access
 type: change
 ---

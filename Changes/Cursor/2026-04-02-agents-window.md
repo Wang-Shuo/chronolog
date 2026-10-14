@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2026-03-25-cursor-now-supports-self-hosted-cloud-agents-that-keep-your-code-and-tool-execut|cursor-2026-03-25-ef9cb1]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 337fca73684fe523926b196e201cf46d926dd3b432963df74d4e82db0c2e9a49
+machine_hash: b2360498db0e89ce1d3343551369a615662bc20372bb1fd025ef0cb6da3d5abb
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Claude Code/2026-04-01-added-permissiondenied-hook-that-fires-after-auto-mode-classifier-denials-return|claude-code-2026-04-01-e43a95]]'
 - '[[Changes/Claude Code/2026-04-01-added-named-subagents-to-mention-typeahead-suggestions|claude-code-2026-04-01-fa9274]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad|cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad]]'
+superseded: true
 theme: agent-mode
 type: change
 ---

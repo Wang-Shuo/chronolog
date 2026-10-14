@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-08-11-note-connectors-for-plus-pro-plans-are-not-available-in-eea-switzerland-and-the|chatgpt-2025-08-11-78b4c1]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: f6cbf1ad6cffecc8faa25c800284900559e9822f2c9013f953305fd65a38dbba
+machine_hash: 6822f0e914030ec7f6eb26292adfd5624dd105ba7131c356f860d8641ccd92bd
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-07-24-pro-users-can-now-utilize-chat-search-with-hubspot-and-custom-connectors-mcp-in|chatgpt-2025-07-24-d18381]]'
 - '[[Changes/ChatGPT/2025-08-11-note-connectors-for-plus-pro-plans-are-not-available-in-eea-switzerland-and-the|chatgpt-2025-08-11-78b4c1]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-11-additional-connectors-for-plus-and-pro-6d22248a|chatgpt-2025-08-11-additional-connectors-for-plus-and-pro-6d22248a]]'
+superseded: true
 theme: apps-integrations
 type: change
 ---

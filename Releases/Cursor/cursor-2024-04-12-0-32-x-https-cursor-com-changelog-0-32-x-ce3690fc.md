@@ -1,9 +1,20 @@
 ---
 changes_count: 4
 date: '2024-04-12'
-machine_hash: 5414c8d55c00385031bf3cc3e1de802bb80c811b2a46a613645d163d4ddabc1c
+machine_hash: 54918a23a7d92968fe0112610e9016e853f3979135791a7bd97ecfadb8af71a8
 product: cursor
 product_name: Cursor
+record:
+  date: '2024-04-12'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2024-04-12-0-32-x-https-cursor-com-changelog-0-32-x-ce3690fc
+  source_summary: 'Copilot++ UX: Suggestion previews now have syntax highlighting,
+    which we find makes it much easier to quickly understand the changes.'
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-32-x
+  title: Improved Copilot++ UX, New GPT-4 Model
+  version: 0.32.x
 release_id: cursor-2024-04-12-0-32-x-https-cursor-com-changelog-0-32-x-ce3690fc
 source_release: Improved Copilot++ UX, New GPT-4 Model
 source_type: cursor_changelog
@@ -11,6 +22,7 @@ source_url: https://cursor.com/changelog/0-32-x
 tags:
 - release
 - cursor
+title: Cursor — Improved Copilot++ UX, New GPT-4 Model
 version: 0.32.x
 ---
 

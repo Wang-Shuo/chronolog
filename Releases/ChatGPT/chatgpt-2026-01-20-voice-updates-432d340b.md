@@ -1,9 +1,21 @@
 ---
 changes_count: 1
 date: '2026-01-20'
-machine_hash: d6bf2ea3b90a9c486f2aa4766fceacbd5af36101ef7c4232a2c500db196dcc03
+machine_hash: dfa82fe26ad47bbf20a41eeb3bec59210f95c128665672fb7f1cdb5069561a31
 product: chatgpt
 product_name: ChatGPT
+record:
+  date: '2026-01-20'
+  product: chatgpt
+  product_name: ChatGPT
+  release_id: chatgpt-2026-01-20-voice-updates-432d340b
+  source_summary: We’re making an update to ChatGPT Voice for paid users that improves
+    its ability to follow user instructions, as well as fixes a bug where Voice can
+    sometimes repeat back custom instructions.
+  source_type: chatgpt_changelog
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#voice-updates
+  title: Voice Updates
+  version: Voice Updates
 release_id: chatgpt-2026-01-20-voice-updates-432d340b
 source_release: Voice Updates
 source_type: chatgpt_changelog
@@ -11,6 +23,7 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#vo
 tags:
 - release
 - chatgpt
+title: ChatGPT — Voice Updates
 version: Voice Updates
 ---
 

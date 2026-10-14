@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-04-25-we-re-making-additional-improvements-to-gpt-4o-optimizing-when-it-saves-memories|chatgpt-2025-04-25-6ac8ab]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: d3c68a7e74682506c983da4841b64c38e89eed48f0ad722e0e482fd19fb2e3c2
+machine_hash: 9c69bf6f32f7801c7aeb24f7f907b8a7b5307430d3f6b5f3513e7f690491e440
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-01-14-today-we-re-rolling-out-a-beta-version-of-tasks-a-new-way-to-ask-chatgpt-to-do-t|chatgpt-2025-01-14-26eec5]]'
 - '[[Changes/ChatGPT/2025-04-25-we-re-making-additional-improvements-to-gpt-4o-optimizing-when-it-saves-memories|chatgpt-2025-04-25-6ac8ab]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-08-enhanced-memory-in-chatgpt-including-eu-on-plus-pro-b6107d35|chatgpt-2025-05-08-enhanced-memory-in-chatgpt-including-eu-on-plus-pro-b6107d35]]'
+superseded: true
 theme: automation-scheduling
 type: change
 ---

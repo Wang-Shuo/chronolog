@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/Cursor/2025-12-10-cursor-instruments-your-app-with-runtime-logs-to-find-the-root-cause-it-works-ac|cursor-2025-12-10-d05968]]'
 extractor_version: fallback-v2
 impact: significant
-machine_hash: 92c23f12077b05e1f864dcf532c074551deed6f2214d14c6f87b3866b0c6306c
+machine_hash: dddbc7837502827b21304efe91fba96cdebdf00dfbd10bf81141646dd6f7878d
 product: cursor
 product_name: Cursor
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/Cursor/2025-12-10-cursor-instruments-your-app-with-runtime-logs-to-find-the-root-cause-it-works-ac|cursor-2025-12-10-d05968]]'
 - '[[Changes/ChatGPT/2025-12-11-today-we-re-releasing-gpt-5-2-the-next-upgrade-to-the-gpt-5-series-gpt-5-2-is-sm|chatgpt-2025-12-11-aa40e1]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-08-new-cli-features-and-improved-cli-performance-https-cursor-com-c-8afb8542|cursor-2026-01-08-new-cli-features-and-improved-cli-performance-https-cursor-com-c-8afb8542]]'
+superseded: true
 theme: model-support
 type: change
 ---

@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-09-29-ask-chatgpt-a-shopping-question-and-it-finds-organic-unsponsored-product-results|chatgpt-2025-09-29-f21703]]'
 extractor_version: fallback-v2
 impact: paradigm-shift
-machine_hash: d69a28df9691540da13c45d9a90105969be534305eb72bc4b7ce535518f5d235
+machine_hash: bd0734963f1a2ed8f74f9bfc484cf49bb5ede2dd4c317793af0be185cc3414e8
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-09-29-instant-checkout|chatgpt-2025-09-29-97e7c0]]'
 - '[[Changes/ChatGPT/2025-09-29-ask-chatgpt-a-shopping-question-and-it-finds-organic-unsponsored-product-results|chatgpt-2025-09-29-f21703]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-13-slack-connector-and-app-931a6153|chatgpt-2025-10-13-slack-connector-and-app-931a6153]]'
+superseded: true
 theme: search-browsing
 type: change
 ---

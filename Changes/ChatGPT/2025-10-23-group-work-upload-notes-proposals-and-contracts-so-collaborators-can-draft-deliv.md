@@ -3,31 +3,56 @@ card_id: chatgpt-2025-10-23-a05ea1
 date: '2025-10-23'
 diffusion:
   first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|chatgpt-2022-12-15-9c6f9c]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 1043
-  role: variant
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/ChatGPT/2025-09-17-standard-new-default-balancing-speed-and-intelligence-and-extended-the-previous|chatgpt-2025-09-17-c599c2]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 9b16ff74331a44695d88e960533fe241a2b7f6829e98b7ea5997c0a5bfd6ec93
+machine_hash: 3b5d0c5d7e375c3265397768e5b57a73476a706a8f737a7ccb04b63bcd3b142a
 product: chatgpt
 product_name: ChatGPT
+record:
+  card_id: chatgpt-2025-10-23-a05ea1
+  comparison: ''
+  date: '2025-10-23'
+  description: 'ChatGPT — Shared projects: Group work: Upload notes, proposals, and
+    contracts so collaborators can draft deliverables faster and stay in sync.'
+  evidence:
+  - quote: 'Group work: Upload notes, proposals, and contracts so collaborators can
+      draft deliverables faster and stay in sync.'
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#shared-projects
+  extractor_version: fallback-v3
+  impact: incremental
+  product: chatgpt
+  product_name: ChatGPT
+  slug: group-work-upload-notes-proposals-and-contracts-so-collaborators-can-draft-deliv
+  source_release: chatgpt-2025-10-23-shared-projects-217fa07d
+  source_type: chatgpt_changelog
+  theme: reliability-performance
+  title: 'Group work: Upload notes, proposals, and contracts so collaborators can
+    draft de'
+  type: change
 related_changes:
-- '[[Changes/Cursor/2025-07-29-faster-edits|cursor-2025-07-29-7fac10]]'
-- '[[Changes/ChatGPT/2025-08-12-gmail-google-calendar-and-google-contacts-are-now-available-to-connect-and-use-i|chatgpt-2025-08-12-e544dd]]'
+- '[[Changes/ChatGPT/2025-06-13-more-robust-ability-to-follow-instructions-especially-in-longer-conversations-si|chatgpt-2025-06-13-147d5c]]'
+- '[[Changes/Cursor/2025-07-29-agent-edits-are-now-faster-by-lazy-loading-linter-errors-search-replace-edit-lat|cursor-2025-07-29-4ed3b7]]'
 - '[[Changes/ChatGPT/2025-09-17-standard-new-default-balancing-speed-and-intelligence-and-extended-the-previous|chatgpt-2025-09-17-c599c2]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-23-shared-projects-217fa07d|chatgpt-2025-10-23-shared-projects-217fa07d]]'
+source_type: chatgpt_changelog
 theme: reliability-performance
+title: 'Group work: Upload notes, proposals, and contracts so collaborators can draft
+  de'
 type: change
 ---
 
 # Group work: Upload notes, proposals, and contracts so collaborators can draft de
 
 <!-- chronolog:begin region="description" -->
-Group work: Upload notes, proposals, and contracts so collaborators can draft deliverables faster and stay in sync.
+ChatGPT — Shared projects: Group work: Upload notes, proposals, and contracts so collaborators can draft deliverables faster and stay in sync.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,13 +62,15 @@ Group work: Upload notes, proposals, and contracts so collaborators can draft de
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/ChatGPT/2025-09-17-standard-new-default-balancing-speed-and-intelligence-and-extended-the-previous|chatgpt-2025-09-17-c599c2]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: reliability-performance
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: variant
+- Role: later-observed
 - First In Tracked: [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|chatgpt-2022-12-15-9c6f9c]]
 - Lag Days: 1043
 - Tracked Products Count: 3

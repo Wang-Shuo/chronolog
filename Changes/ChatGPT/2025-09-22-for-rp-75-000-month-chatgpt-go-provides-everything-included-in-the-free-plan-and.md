@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-09-22-we-re-launching-chatgpt-go-our-low-cost-subscription-plan-in-indonesia|chatgpt-2025-09-22-8c233a]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 17c83b10b76670d4465081e4d00b305a425d8530be072c73bdd1274e6cba9691
+machine_hash: 64ee22d085f912941199243a3be7a8c0c287041c9f5e3f206070f53b64924636
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-08-18-for-399-month-gst-included-chatgpt-go-provides-everything-included-in-the-free-p|chatgpt-2025-08-18-e774c8]]'
 - '[[Changes/ChatGPT/2025-09-22-we-re-launching-chatgpt-go-our-low-cost-subscription-plan-in-indonesia|chatgpt-2025-09-22-8c233a]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-22-chatgpt-go-now-available-in-indonesia-27c365a7|chatgpt-2025-09-22-chatgpt-go-now-available-in-indonesia-27c365a7]]'
+superseded: true
 theme: pricing-model
 type: change
 ---

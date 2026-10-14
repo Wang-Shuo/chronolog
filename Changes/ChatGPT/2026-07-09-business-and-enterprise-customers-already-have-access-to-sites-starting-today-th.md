@@ -2,32 +2,59 @@
 card_id: chatgpt-2026-07-09-6ad0f1
 date: '2026-07-09'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-27-enterprise-support|cursor-2023-07-27-4d0704]]'
-  lag_days: 1078
-  role: follower
+  first_in_tracked: '[[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|chatgpt-2025-06-12-1cc56f]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 392
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/ChatGPT/2026-06-04-we-re-beginning-to-roll-out-ads-for-users-on-free-and-go-plans-in-the-uk-plus-pr|chatgpt-2026-06-04-586af0]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v3
 impact: incremental
-machine_hash: 05cfabbfc98ea2fd07130d0502cdd047e28db46a10be44ed737d7da737de9e20
+machine_hash: db6d21fc50ca1035ee08b1371dbcd97f8c01b92d346995b39a44f43a0138ce7f
 product: chatgpt
 product_name: ChatGPT
+record:
+  card_id: chatgpt-2026-07-09-6ad0f1
+  comparison: ''
+  date: '2026-07-09'
+  description: 'ChatGPT — Introducing ChatGPT Sites in public beta: Business and Enterprise
+    customers already have access to Sites. Starting today, they can also publish
+    Sites publicly and share them with anyone through a URL, expanding Sites beyond
+    people in their workspace.'
+  evidence:
+  - quote: Business and Enterprise customers already have access to Sites. Starting
+      today, they can also publish Sites publicly and share them with anyone through
+      a URL, expanding Sites beyond people in their workspace.
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-sites-in-public-beta
+  extractor_version: fallback-v3
+  impact: incremental
+  product: chatgpt
+  product_name: ChatGPT
+  slug: business-and-enterprise-customers-already-have-access-to-sites-starting-today-th
+  source_release: chatgpt-2026-07-09-introducing-chatgpt-sites-in-public-beta-4d20edcd
+  source_type: chatgpt_changelog
+  theme: enterprise-admin
+  title: Business and Enterprise customers already have access to Sites. Starting
+    today,
+  type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-06-04-we-re-beginning-to-roll-out-ads-for-users-on-free-and-go-plans-in-the-uk-plus-pr|chatgpt-2026-06-04-586af0]]'
 - '[[Changes/Claude Code/2026-06-04-added-requiredminimumversion-and-requiredmaximumversion-managed-settings-claude|claude-code-2026-06-04-e5de26]]'
-- '[[Changes/Cursor/2026-06-30-marketplace-access-by-organization-group|cursor-2026-06-30-c4f19d]]'
+- '[[Changes/ChatGPT/2026-06-08-send-an-email-directly-from-within-a-chat-if-you-ve-connected-gmail-or-outlook-y|chatgpt-2026-06-08-5e6d65]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-sites-in-public-beta-4d20edcd|chatgpt-2026-07-09-introducing-chatgpt-sites-in-public-beta-4d20edcd]]'
+source_type: chatgpt_changelog
 theme: enterprise-admin
+title: Business and Enterprise customers already have access to Sites. Starting today,
 type: change
 ---
 
 # Business and Enterprise customers already have access to Sites. Starting today,
 
 <!-- chronolog:begin region="description" -->
-Business and Enterprise customers already have access to Sites. Starting today, they can also publish Sites publicly and share them with anyone through a URL, expanding Sites beyond people in their workspace.
+ChatGPT — Introducing ChatGPT Sites in public beta: Business and Enterprise customers already have access to Sites. Starting today, they can also publish Sites publicly and share them with anyone through a URL, expanding Sites beyond people in their workspace.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -37,15 +64,17 @@ Business and Enterprise customers already have access to Sites. Starting today, 
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
-- [[Changes/ChatGPT/2026-06-04-we-re-beginning-to-roll-out-ads-for-users-on-free-and-go-plans-in-the-uk-plus-pr|chatgpt-2026-06-04-586af0]]
+No evidence-backed evolution relationship assigned.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="diffusion" -->
 - Theme: enterprise-admin
+- Relation: same-theme-chronology
+- Inference: No adoption, equivalence, or causation claim.
 - Scope: tracked-products-only
-- Role: follower
-- First In Tracked: [[Changes/Cursor/2023-07-27-enterprise-support|cursor-2023-07-27-4d0704]]
-- Lag Days: 1078
+- Role: later-observed
+- First In Tracked: [[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|chatgpt-2025-06-12-1cc56f]]
+- Lag Days: 392
 - Tracked Products Count: 3
 <!-- chronolog:end -->
 

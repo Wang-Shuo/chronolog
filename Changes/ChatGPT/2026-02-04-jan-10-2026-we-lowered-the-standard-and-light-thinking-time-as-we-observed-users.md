@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2026-01-29-on-february-13-2026-alongside-the-previously-announced-retirement-of-gpt-5-insta|chatgpt-2026-01-29-23f4fe]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: b0e188160d7f9083371bd77dbb6908645991d470f20404a6c480598a3643a600
+machine_hash: f3a3b58f0457761019b3d0a8d4f135da60d0022683f66e72d2adffe6a6051f30
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2026-01-22-we-re-updating-gpt-5-2-instant-s-default-personality-to-be-more-conversational-a|chatgpt-2026-01-22-e38ffc]]'
 - '[[Changes/ChatGPT/2026-01-29-on-february-13-2026-alongside-the-previously-announced-retirement-of-gpt-5-insta|chatgpt-2026-01-29-23f4fe]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-04-update-on-thinking-time-settings-for-gpt-5-2-thinking-in-chatgpt-6e7ea431|chatgpt-2026-02-04-update-on-thinking-time-settings-for-gpt-5-2-thinking-in-chatgpt-6e7ea431]]'
+superseded: true
 theme: model-support
 type: change
 ---

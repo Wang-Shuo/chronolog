@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2026-07-14-we-ve-rolled-out-a-new-way-to-search-your-chats-projects-images-and-documents-in|chatgpt-2026-07-14-0297b2]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: a5b599a0e42623435de92a50c67022622f0ab3001c2ae228e9b311a77946e632
+machine_hash: 80a9122a28ebdf602f14b8979ff633efdd74090966fce563866821a8e8085bca
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2026-07-13-chatgpt-is-available-again-on-whatsapp-in-the-european-economic-area-eea-you-can|chatgpt-2026-07-13-b3bb73]]'
 - '[[Changes/ChatGPT/2026-07-14-we-ve-rolled-out-a-new-way-to-search-your-chats-projects-images-and-documents-in|chatgpt-2026-07-14-0297b2]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-16-chatgpt-desktop-app-experience-updates-936a13ad|chatgpt-2026-07-16-chatgpt-desktop-app-experience-updates-936a13ad]]'
+superseded: true
 theme: mobile-desktop
 type: change
 ---

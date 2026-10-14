@@ -12,7 +12,7 @@ evolves_from:
 - '[[Changes/ChatGPT/2025-08-22-personal-memory-must-be-enabled-to-utilize-this-feature-settings-personalization|chatgpt-2025-08-22-51c0ac]]'
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: 36dee227cc99c49b9dec7b89d68660e8924bcd345c993a6311c1ef04bf9a1388
+machine_hash: 20e3d61d59e1f6fb5915f15513489430ac257c01ae6ec52e5f9e1cbe6a60d35a
 product: chatgpt
 product_name: ChatGPT
 related_changes:
@@ -20,6 +20,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-08-18-longer-memory-for-more-personalized-responses|chatgpt-2025-08-18-ae5e80]]'
 - '[[Changes/ChatGPT/2025-08-22-personal-memory-must-be-enabled-to-utilize-this-feature-settings-personalization|chatgpt-2025-08-22-51c0ac]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-22-project-only-memory-3424a221|chatgpt-2025-08-22-project-only-memory-3424a221]]'
+superseded: true
 theme: memory
 type: change
 ---

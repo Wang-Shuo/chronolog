@@ -11,10 +11,11 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v2
 impact: incremental
-machine_hash: f1bb7ee1a9bfb6aa2db13ef094d185d845eba555f6dc100eb15e4a98da48ebb4
+machine_hash: f35900b71c6f941e5461b50f09db68c4baa7e2984e047a4109e32896e26164c1
 product: chatgpt
 product_name: ChatGPT
 source_release: '[[Releases/ChatGPT/chatgpt-2023-10-16-dall-e-3-is-now-rolling-out-in-beta-d2dd292b|chatgpt-2023-10-16-dall-e-3-is-now-rolling-out-in-beta-d2dd292b]]'
+superseded: true
 theme: image-generation
 type: change
 ---

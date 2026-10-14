@@ -1,9 +1,19 @@
 ---
 changes_count: 3
 date: '2023-03-27'
-machine_hash: e9bee579481dacf6379fb44b8c46ded0f2fa1f15e9103cd87de38e210251c562
+machine_hash: 28e73fcdba4dc6ff456aa8b088e93e3baee866f523a3b13ebfd1e81b4a3dc7fe
 product: cursor
 product_name: Cursor
+record:
+  date: '2023-03-27'
+  product: cursor
+  product_name: Cursor
+  release_id: cursor-2023-03-27-0-1-9-https-cursor-com-changelog-0-1-9-431f2ddc
+  source_summary: '#New Features'
+  source_type: cursor_changelog
+  source_url: https://cursor.com/changelog/0-1-9
+  title: v0.1.9 (2023-03-27)
+  version: 0.1.9
 release_id: cursor-2023-03-27-0-1-9-https-cursor-com-changelog-0-1-9-431f2ddc
 source_release: v0.1.9 (2023-03-27)
 source_type: cursor_changelog
@@ -11,6 +21,7 @@ source_url: https://cursor.com/changelog/0-1-9
 tags:
 - release
 - cursor
+title: Cursor — v0.1.9 (2023-03-27)
 version: 0.1.9
 ---
 
