@@ -1,6 +1,6 @@
 # M3 Actions 临时凭据改造 — 2026-10-14
 
-**实现和本地验证完成，待机器人交付 PR 的远端 Quality 与人工审核。默认分支合并前仍使用原工作流；M3 整体验收未完成。**
+**实现、本地和首轮远端验证完成；合并前须确认最终 head 的 Quality 通过并由人工批准。默认分支合并前仍使用原工作流；M3 整体验收未完成。**
 
 ## 改造范围
 
@@ -22,6 +22,13 @@
 | 生产地址构建 | pytest、Vault、Quartz、发布集合与 RSS 门禁全部通过 | [quality.json](m3-evidence/ephemeral-credentials-local/quality.json)、[publication.json](m3-evidence/ephemeral-credentials-local/publication.json) |
 
 本地质量报告运行时 HEAD 是 `d8a7b71`，改造尚在工作区；报告中的 `code_sha256` 记录实际验证文件摘要，不应把报告解释为该旧提交已经包含本次改造。线上证据以交付 PR 最终 head 的 Actions 检查为准。
+
+## 远端临时凭据验证
+
+- [Open delivery PR 38584767963](https://github.com/Wang-Shuo/chronolog/actions/runs/38584767963) 成功，以 `github-actions[bot]` 身份创建 [PR #3](https://github.com/Wang-Shuo/chronolog/pull/3)，并使用自身的临时 `GITHUB_TOKEN` 派发 Quality。没有配置长期 bot secret。
+- [Quality 38584794898](https://github.com/Wang-Shuo/chronolog/actions/runs/38584794898) 是实际 `workflow_dispatch` 事件，head 为 `c104650e8cbaacdc5f03493ffce8640a0c40b8a7`。提交核对通过，160 项测试及构建、Vault、发布集合、RSS 门禁全部成功。报告和摘要见[归档清单](m3-evidence/ephemeral-quality-38584794898/archive.json)。
+- GitHub REST check-runs 返回该 head 的 `quality: success`，关联 PR #3。主分支仍要求 `quality`、一名批准人和更新后撤销旧批准，管理员也受规则约束。合并时须再次检查最终 head，不以此归档替代后续提交的 CI。
+- 本节及远端归档在上述首轮检查后追加；后续文档提交也须重新派发 Quality。真实日常 `generate → publish` 的远端执行仍待改造合并至默认分支后验证；本次机器人交付不能替代该验收。
 
 ## 合并后的验收与操作
 
