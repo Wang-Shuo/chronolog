@@ -208,6 +208,8 @@ def test_workflows_keep_prs_unprivileged_and_deploy_behind_review_and_build():
     assert workflows['generate']['concurrency']['cancel-in-progress']=='false'
     deploy=workflows['deploy']['jobs']
     assert deploy['deploy']['needs']=='build'
+    assert deploy['build']['permissions']=={'contents':'read','pull-requests':'read','pages':'read'}
+    assert deploy['deploy']['permissions']['pages']=='write'
     steps=deploy['build']['steps']
     assert any('_scripts.review_gate' in s.get('run','') for s in steps)
     assert any('_scripts.operations' in s.get('run','') and '--production' in s['run'] for s in steps)

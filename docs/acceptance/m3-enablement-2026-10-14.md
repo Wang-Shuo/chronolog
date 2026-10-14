@@ -16,6 +16,7 @@
 - 用户明确授权开启仓库级 Actions 创建/批准 PR 设置；API 已确认 `can_approve_pull_request_reviews=true`，默认 workflow 权限保持 `read`。当前建 PR 工作流只创建 PR，不执行批准；部署门禁仍拒绝机器人批准。
 - 默认分支的手动 `Open initial delivery PR` 工作流已[运行成功](https://github.com/Wang-Shuo/chronolog/actions/runs/38561392052)，创建[机器人交付 PR #2](https://github.com/Wang-Shuo/chronolog/pull/2)，作者已核对为 `app/github-actions`。原人工账号创建的 PR #1 已关闭保留历史。首次设置提交 `9c15d32` 不包含站点部署。
 - PR #2 的最终 head 需要完成 Quality 检查，再由 Wang-Shuo 在 GitHub 批准。后续变更会撤销旧批准；只有最终 head 审核通过并合并，才触发部署。
+- 首次发布前核对官方 `configure-pages@v5` 实现，确认构建 job 调用 Pages GET API；已补齐该 job 的 `pages: read`，保留代码和 PR 读取权限。`pages: write` 仍仅在实际部署 job 中授予；新增工作流权限断言防止遗漏。
 
 ## 启用顺序及证据
 
