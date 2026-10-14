@@ -8,6 +8,8 @@
 - 部署目标：GitHub Pages，预期地址 `https://wang-shuo.github.io/chronolog/`，当前未上线。
 - 已安装官方 GitHub CLI 2.102.0，并核对官方 SHA-256；尚未登录，待用户完成浏览器授权。
 - 工程基线：[M3 本地验收记录](m3-2026-10-13.md)，最新完整 Python 回归 151 项通过。此前的离线、真实失败采集和代码摘要是历史证据，保留原貌。
+- 已形成可审阅交付提交 `17f3e73`，分支为 `codex/m3-delivery`；本地 `main` 仍保留 `997692d` 基线。
+- 已对 `17f3e73` 使用正式 base URL `wang-shuo.github.io/chronolog` 完成全部本地门禁：151 项测试通过，构建、Vault、2,756 个活动页面及 RSS 30 项均通过。证据：[报告](m3-evidence/github-preflight-20261014/quality.json)、[测试](m3-evidence/github-preflight-20261014/tests.log)、[发布检查](m3-evidence/github-preflight-20261014/publication.json)。这证明本地构建可用，不代表已上线。
 
 ## 启用顺序及证据
 
