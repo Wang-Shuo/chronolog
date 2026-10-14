@@ -16,7 +16,7 @@
     "deployment/deploy/vault-validation.json": "eb7e133bb5ef9f78d7dd26c4e0a384c6e3ee2214a63834a2e2c6074a913c486d",
     "deployment/review-gate.json": "044d8a36940c4314f3e18af9057ae1e156db22155823bddd220d7b5657679b10",
     "deployment-run.json": "8bf6c300c8ccdcb10ecdaf22d0970f7134d6336db8dc8c322e4d6cbaf175407a",
-    "generation/operations/candidate/_pipeline/daily-38587902325-1/manifest.json": "ab4acf6639d6b883871a78da6d4afb5ef31569dda41adacff2f3699693a2b763",
+    "generation/manifests/daily-38587902325-1.json": "ab4acf6639d6b883871a78da6d4afb5ef31569dda41adacff2f3699693a2b763",
     "generation/operations/collection.json": "18f5d7c28df7fb880093c5f8585dbd388fa27b29c9b99387f58e3f06b1328747",
     "generation/operations/collection.json.gz": "f6823d52f52a76b7184f521600df7e49ac7ea77e1b3ebb6fa49c8a4f833e44f4",
     "generation/operations/evidence-sha256.json": "4c3761aa1d126a604e38875613f68fc4806528ffdaffa9214653dc44af91f41d",
@@ -25,5 +25,6 @@
     "generation/rolling-state.json": "63bb8ed8d3f0d5cedf61ff897cb41abd0b08a9ad77f102ce16c7753f4de7c78e",
     "generation-run.json": "d65f16d38e40a123f854aebd40047ea322aa36406f827250759aedf452595102",
     "public-check/public-verification.json": "c9ade3ee18c1bc0030977d233577bd11090e01b2bebb2343e9653811fd93e69f"
-  }
+  },
+  "manifest_note": "Copied generation manifest to generation/manifests because nested _pipeline directories are ignored by Git."
 }
