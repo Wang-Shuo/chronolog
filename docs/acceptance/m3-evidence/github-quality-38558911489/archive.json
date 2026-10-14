@@ -1,0 +1,21 @@
+{
+  "run_url": "https://github.com/Wang-Shuo/chronolog/actions/runs/38558911489",
+  "run_id": 38558911489,
+  "attempt": 1,
+  "event": "pull_request",
+  "pull_request": 1,
+  "head_sha": "7bf33924fb3632a427a2211e10cce36a1d222695",
+  "checked_merge_sha": "eb85dd58fb9e3f38f3bf0b4b0225345a286ac477",
+  "artifact": "quality-38558911489-1",
+  "counts_as_schedule": false,
+  "deployed": false,
+  "sha256": {
+    "build.log": "397335bd5a176caf4ebc1eb0cc93bef154845e950ba09c947bb8f94880cc73b3",
+    "evidence-sha256.json": "485a168b6cc2d6e205f7babebf694de6324df767692b69097401d97ef3d7e516",
+    "publication.json": "819041916acc8786ff7559adb8ce18683088df9ab95d7c7b94b646240af407d4",
+    "quality.json": "cc3614d5e974637482ec98b58b333e7ba7ec9c1b963534a018783bedddb612ca",
+    "quality.md": "f202cd8f78a42f155d684c21fccf8a094a303484200f215388b5aebea4ee1ff4",
+    "tests.log": "1e16d7c5fd27916a983a6e74f6e0bb45398b7a50e177b48824e03b51d7d9cbee",
+    "vault-validation.json": "eb7e133bb5ef9f78d7dd26c4e0a384c6e3ee2214a63834a2e2c6074a913c486d"
+  }
+}

@@ -10,7 +10,7 @@ M3 使用 GitHub Actions 采集并生成一个持续更新的待审 PR，经人�
 4. 设置 `main` 分支规则：要求通过 PR 合并、至少一名人工批准、更新后撤销旧批准，并将 **Quality / quality** 设为 required check。不得让生成机器人绕过此规则。部署脚本另行检查合并 commit 对应 PR 的最终 head 获人工批准，拒绝直接推送、旧 head 批准和 bot 批准。
 5. 先手工运行 Quality，再运行 Generate review candidate。确认报告和 artifact 可下载，新的真实来源更新进入 `codex/chronolog-updates`，无需第二个并行 PR。
 
-当前仓库地址及部署目标已确认；本地 GitHub CLI 登录与上述远端设置仍待完成，不能据本地 YAML 宣称已生效。最新执行状态见[2026-10-14 启用记录](acceptance/m3-enablement-2026-10-14.md)。
+当前仓库地址及部署目标已确认，GitHub CLI 已登录；Pages 来源、base URL 和主分支规则已配置，首次远端 Quality 已通过。机器人配置及审核发布仍待完成。最新执行状态见[2026-10-14 启用记录](acceptance/m3-enablement-2026-10-14.md)。
 
 GitHub Release 采集使用工作流的只读 `github.token`，通过 `CHRONOLOG_GITHUB_READ_TOKEN` 注入，避免匿名共享 IP 限流；不会使用 PR 写入 token。令牌仅用于固定 `api.github.com` 请求，带认证时不跟随重定向。仓库迁移导致 3xx 时应修正 `sources.yaml`。本地未设置该变量时仍使用匿名请求，限流会留下失败记录并停止该批发布。
 
