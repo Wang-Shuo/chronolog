@@ -206,6 +206,19 @@ def test_workflows_keep_prs_unprivileged_and_deploy_behind_review_and_build():
     assert 'pull_request_target' not in workflows['quality']['on']
     assert workflows['quality']['permissions']=={'contents':'read'}
     assert workflows['generate']['concurrency']['cancel-in-progress']=='false'
+    generate = workflows['generate']['jobs']
+    assert generate['generate']['permissions'] == {'contents': 'read', 'pull-requests': 'read'}
+    assert generate['publish']['needs'] == 'generate'
+    assert generate['publish']['permissions'] == {'contents': 'write', 'pull-requests': 'write', 'actions': 'write'}
+    assert 'default_branch' in generate['generate']['if']
+    publisher = generate['publish']['steps']
+    checkout = next(s for s in publisher if s.get('uses') == 'actions/checkout@v4')
+    assert checkout['with']['ref'] == '${{ github.sha }}'
+    assert checkout['with']['persist-credentials'] == 'false'
+    assert not any('pip install' in s.get('run', '') or 'npm' in s.get('run', '') for s in publisher)
+    assert 'CHRONOLOG_BOT_TOKEN' not in (ROOT/'.github/workflows/generate.yml').read_text()
+    assert 'expected_head' in workflows['quality']['on']['workflow_dispatch']['inputs']
+    assert any('test "$GITHUB_SHA" = "$EXPECTED_HEAD"' in s.get('run', '') for s in workflows['quality']['jobs']['quality']['steps'])
     deploy=workflows['deploy']['jobs']
     assert deploy['deploy']['needs']=='build'
     assert deploy['build']['permissions']=={'contents':'read','pull-requests':'read','pages':'read'}
