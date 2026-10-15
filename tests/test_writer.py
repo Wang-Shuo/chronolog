@@ -6,9 +6,11 @@ import pytest
 
 from _scripts.common import PipelinePaths, load_site, machine_hash, write_json
 from _scripts.history import merge_history
+from _scripts.quality import normalized_page
 from _scripts.writer import (
     MIGRATION_PENDING_REASON,
     change_card_paths,
+    counted,
     ensure_vault_dirs,
     extract_machine_regions,
     legacy_residue,
@@ -17,6 +19,7 @@ from _scripts.writer import (
     reconcile_missing_change_cards,
     relation_link,
     render_change_markdown,
+    render_about_markdown,
     render_frontmatter,
     render_index_markdown,
     render_product_markdown,
@@ -770,7 +773,7 @@ def test_theme_display_names_label_theme_index_and_product_pages():
 
     index = render_index_markdown([card], {"products": {}}, {"themes": {"agent-mode": {}, "mobile-desktop": {}}},
                                   {}, theme_labels=labels)
-    assert "- [[Themes/mobile-desktop|Mobile and Desktop]]" in index
+    assert "**Other** · [[Themes/mobile-desktop|Mobile and Desktop]] (1)" in index
     assert "- [[Themes/agent-mode|Agent Mode]] — From assisted edits to delegated work" in index
 
     info = {"product_name": "Cursor", "verbosity_baseline": 1, "eras": [],
@@ -869,3 +872,293 @@ def test_write_run_reports_legacy_pages_kept_for_manual_migration(tmp_path: Path
     assert pending == [{"file": "Changes/Cursor/2025-02-01-agent-shell.md",
                         "reason": MIGRATION_PENDING_REASON}]
     assert "Keep me." in target.read_text(encoding="utf-8")
+
+
+# --- W1 PR 3: reader home page and About page ----------------------------------------
+
+HOME_VOCABULARY = {
+    "agent-mode": {"display_name": "Agent Mode", "category": "paradigm"},
+    "model-support": {"display_name": "Model Support", "category": "capability"},
+    "context-window": {"display_name": "Context Window", "category": "capability"},
+    "safety-privacy": {"display_name": "Safety and Privacy", "category": "trust"},
+}
+HOME_LABELS = {slug: theme["display_name"] for slug, theme in HOME_VOCABULARY.items()}
+
+
+def home_card(product: str, product_name: str, date: str, theme: str, suffix: str) -> dict:
+    return {**change_card(), "card_id": f"{product}-{date}-{suffix}", "product": product,
+            "product_name": product_name, "date": date, "theme": theme,
+            "title": f"{product_name} {suffix}", "slug": f"{theme}-{suffix}",
+            "source_release": f"{product}-{date}-r"}
+
+
+def home_release(product: str, product_name: str, date: str) -> dict:
+    return {"release_id": f"{product}-{date}-r", "product": product,
+            "product_name": product_name, "date": date}
+
+
+HOME_COVERAGE = {
+    "chatgpt": {"acquisition": "browser-snapshot", "snapshot_captured_at": "2026-10-14T23:26:11+0800",
+                "earliest": "2025-01-01", "latest": "2026-10-01", "release_count": 3,
+                "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+                "known_gaps": "Codex-only entries excluded."},
+    "claude-code": {"acquisition": "http", "last_successful_fetch": "2026-10-15T01:55:15Z",
+                    "earliest": "2026-10-14", "latest": "2026-10-14", "release_count": 1,
+                    "url": "https://api.github.com/repos/anthropics/claude-code/releases"},
+    "cursor": {"acquisition": "http", "last_successful_fetch": "2026-10-15T01:55:30Z",
+               "earliest": "2026-08-01", "latest": "2026-10-13", "release_count": 2,
+               "url": "https://cursor.com/changelog"},
+}
+
+
+def home_inputs(coverage=None):
+    """Three products whose newest card (2026-10-14) anchors a 2026-09-15 window."""
+    coverage = coverage or HOME_COVERAGE
+    products = {
+        product: {"product_name": name, "coverage": coverage[product]}
+        for product, name in (("chatgpt", "ChatGPT"), ("claude-code", "Claude Code"), ("cursor", "Cursor"))
+    }
+    cards = [home_card("chatgpt", "ChatGPT", "2026-01-01", "model-support", "aaaaaa")]
+    cards += [home_card("cursor", "Cursor", f"2026-10-{day:02d}", "agent-mode", f"c{day:05d}")
+              for day in range(1, 10)]
+    cards += [home_card("cursor", "Cursor", "2026-08-01", "model-support", "cold00")]
+    cards += [home_card("claude-code", "Claude Code", "2026-10-14", theme, suffix)
+              for theme, suffix in (("safety-privacy", "bbbbb1"), ("context-window", "bbbbb2"),
+                                    ("context-window", "bbbbb0"), ("mystery-theme", "bbbbb3"))]
+    releases = {
+        "chatgpt": [home_release("chatgpt", "ChatGPT", day)
+                    for day in ("2025-01-01", "2026-07-20", "2026-10-01")],
+        "claude-code": [home_release("claude-code", "Claude Code", "2026-10-14")],
+        "cursor": [home_release("cursor", "Cursor", day) for day in ("2026-08-01", "2026-10-13")],
+    }
+    themes = {"themes": {theme: {} for theme in {card["theme"] for card in cards}}}
+    return cards, {"products": products}, themes, releases
+
+
+def render_home(silence=None, coverage=None):
+    cards, analysis_a, analysis_b, releases = home_inputs(coverage)
+    return render_index_markdown(
+        cards, analysis_a, analysis_b, silence or {"alerts": []}, theme_labels=HOME_LABELS,
+        releases_by_product=releases, vocabulary=HOME_VOCABULARY,
+    )
+
+
+def test_counted_groups_thousands_for_headline_numbers():
+    assert counted(1949, "tracked change") == "1,949 tracked changes"
+    assert counted(1, "product") == "1 product"
+
+
+def test_home_page_leads_with_latest_changes_anchored_on_data():
+    post = frontmatter.loads(render_home(
+        {"alerts": [{"product_name": "ChatGPT", "message": "No release for two months."}]}))
+    regions = extract_machine_regions(post.content)
+
+    assert list(regions) == ["header", "recent", "featured", "products", "themes", "coverage"]
+    assert [line for line in post.content.splitlines() if line.startswith("## ")] == [
+        "## Latest changes", "## Start exploring", "## Products", "## Themes", "## About the data"]
+    assert regions["header"] == (
+        "# ChronoLog\n\nTracked changes in ChatGPT, Claude Code and Cursor, from official release "
+        "notes. 3 products · 15 tracked changes · 5 themes · archive to 2026-10-14 · "
+        "[[About|About the data]]")
+    recent = regions["recent"].split("\n\n")
+    assert recent[0] == "- ⚠ ChatGPT: No release for two months."
+    # The window ends at the newest card (2026-10-14), not at today's date.
+    assert recent[1] == "### ChatGPT\n- No changes archived between 2026-09-15 and 2026-10-14."
+    # Same date: ordered by theme, then card_id.
+    assert recent[2] == "\n".join([
+        "### Claude Code",
+        "- 2026-10-14 · Context Window: [[2026-10-14-context-window-bbbbb0|Claude Code bbbbb0]]",
+        "- 2026-10-14 · Context Window: [[2026-10-14-context-window-bbbbb2|Claude Code bbbbb2]]",
+        "- 2026-10-14 · Mystery Theme: [[2026-10-14-mystery-theme-bbbbb3|Claude Code bbbbb3]]",
+        "- 2026-10-14 · Safety and Privacy: [[2026-10-14-safety-privacy-bbbbb1|Claude Code bbbbb1]]",
+    ])
+    cursor = recent[3].splitlines()
+    assert cursor[0] == "### Cursor"
+    assert [line.split(" · ")[0] for line in cursor[1:7]] == [
+        f"- 2026-10-{day:02d}" for day in range(9, 3, -1)]
+    # Nine Cursor cards fall in the window; the 2026-08-01 card does not.
+    assert cursor[7:] == ["- 3 more in this window → [[Products/Cursor|Cursor]]"]
+
+
+def test_home_page_products_themes_and_coverage_summary():
+    post = frontmatter.loads(render_home())
+    regions = extract_machine_regions(post.content)
+
+    # Releases in the 90 days ending at the newest release of any product (2026-10-14).
+    assert regions["products"] == "\n".join([
+        "- [[Products/ChatGPT|ChatGPT]] · 3 releases · 2025-01-01 → 2026-10-01 · "
+        "2 releases in the last 90 days",
+        "- [[Products/Claude Code|Claude Code]] · 1 release · 2026-10-14 → 2026-10-14 · "
+        "1 release in the last 90 days",
+        "- [[Products/Cursor|Cursor]] · 2 releases · 2026-08-01 → 2026-10-13 · "
+        "2 releases in the last 90 days",
+    ])
+    assert regions["themes"] == "\n\n".join([
+        "**Paradigm** · [[Themes/agent-mode|Agent Mode]] (9)",
+        "**Capability** · [[Themes/context-window|Context Window]] (2) · "
+        "[[Themes/model-support|Model Support]] (2)",
+        "**Trust** · [[Themes/safety-privacy|Safety and Privacy]] (1)",
+        "**Other** · [[Themes/mystery-theme|Mystery Theme]] (1)",
+    ])
+    assert regions["coverage"] == "\n".join([
+        "- ChatGPT · 3 releases · 2025-01-01 → 2026-10-01 · [official source]"
+        "(https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · "
+        "Codex-only entries excluded.",
+        "- Claude Code · 1 release · 2026-10-14 → 2026-10-14 · [official source]"
+        "(https://github.com/anthropics/claude-code/releases)",
+        "- Cursor · 2 releases · 2026-08-01 → 2026-10-13 · [official source](https://cursor.com/changelog)",
+        "",
+        "Acquisition times, sampling rules, review status and glossary: [[About|About the data]].",
+    ])
+    assert "Agent Mode]] — From assisted edits to delegated work" in regions["featured"]
+    # Review counts and acquisition timestamps live on the About page only.
+    for text in ("Pending theme review", "Alert count", "Overview", "T01:55", "+0800", "fetch"):
+        assert text not in post.content
+
+
+def legacy_index_markdown(lead: str = "") -> str:
+    """index.md as the pre-W1 writer left it (production has no lead paragraph)."""
+    regions = {
+        "coverage": "### Cursor\n\nArchived release dates: 2026-08-01 → 2026-10-13.\n\n"
+                    "Last successful fetch: 2026-10-15T01:55:30Z.",
+        "featured": "- [[Themes/agent-mode|Agent Mode]] — From assisted edits to delegated work",
+        "overview": "Product count: 1\nChange count: 1\nTheme count: 1\nAlert count: 0\n"
+                    "Pending theme review: 0",
+        "products": "- [[Products/Cursor|Cursor]]",
+        "themes": "- [[Themes/agent-mode|Agent Mode]]",
+    }
+    fields = {"tags": ["index"], "title": "ChronoLog", "publication": "active",
+              "date": "2026-10-13", "created": "2026-08-01", "modified": "2026-10-13"}
+    fields["machine_hash"] = machine_hash(fields, regions)
+    sections = [("Source coverage", "coverage"), ("Start exploring", "featured"),
+                ("Overview", "overview"), ("Products", "products"), ("Themes", "themes")]
+    body = "# ChronoLog\n\n" + (f"{lead}\n\n" if lead else "") + "\n\n".join(
+        f"## {heading}\n{machine_region(region, regions[region])}" for heading, region in sections
+    ) + "\n"
+    return render_frontmatter(fields, body)
+
+
+PRE_W1_INDEX_LEAD = (
+    "Research changes in ChatGPT, Claude Code, and Cursor through official release evidence. "
+    "Counts cover accepted active records; fixtures, pending review, and superseded records are excluded.")
+
+
+@pytest.mark.parametrize("lead", ["", PRE_W1_INDEX_LEAD])
+def test_legacy_index_migrates_to_the_reader_home_skeleton(tmp_path: Path, lead: str):
+    target = tmp_path / "index.md"
+    target.write_text(legacy_index_markdown(lead), encoding="utf-8")
+    rendered = render_home()
+    conflicts: list[dict[str, str]] = []
+    pending: list[dict[str, str]] = []
+
+    assert write_markdown_file(target, rendered, conflicts, pending) is True
+
+    post = frontmatter.load(target)
+    assert conflicts == [] and pending == []
+    assert post.content == frontmatter.loads(rendered).content
+    assert "## Overview" not in post.content and "Product count:" not in post.content
+    assert "Research changes in" not in post.content
+    migrated = target.read_bytes()
+    write_markdown_file(target, rendered, conflicts, pending)
+    assert target.read_bytes() == migrated and conflicts == [] and pending == []
+    fresh = tmp_path / "fresh.md"
+    write_markdown_file(fresh, rendered, [], [])
+    assert fresh.read_bytes() == migrated
+
+
+def test_legacy_index_with_human_text_keeps_its_structure_and_is_reported(tmp_path: Path):
+    target = tmp_path / "index.md"
+    target.write_text(legacy_index_markdown("A note a reviewer wrote."), encoding="utf-8")
+    conflicts: list[dict[str, str]] = []
+    pending: list[dict[str, str]] = []
+
+    assert write_markdown_file(target, render_home(), conflicts, pending) is True
+
+    post = frontmatter.load(target)
+    assert conflicts == []
+    assert pending == [{"file": str(target), "reason": MIGRATION_PENDING_REASON}]
+    assert "A note a reviewer wrote." in post.content and "## Overview" in post.content
+    assert list(extract_machine_regions(post.content)) == [
+        "coverage", "featured", "overview", "products", "themes"]
+    assert "[[Products/Cursor|Cursor]] · 2 releases" in post.content
+    # The kept file stays consistent, so the next run is not blocked by a hash conflict.
+    assert write_markdown_file(target, render_home(), conflicts, []) is True and conflicts == []
+
+
+def render_about(coverage=None, repository=REPOSITORY, pending=149):
+    cards, analysis_a, _, releases = home_inputs(coverage)
+    return render_about_markdown(cards, analysis_a["products"], releases, {"alerts": []},
+                                 pending_theme_review=pending, repository=repository)
+
+
+def test_about_page_documents_sources_method_status_and_feedback():
+    post = frontmatter.loads(render_about(pending=1234))
+    regions = extract_machine_regions(post.content)
+
+    assert post["title"] == "About the data" and post["tags"] == ["about"]
+    assert post["publication"] == "active" and len(post["description"]) <= 160
+    assert post.content.startswith("# About the data\n\n")
+    assert list(regions) == ["intro", "sources", "method", "status", "glossary", "feedback"]
+    assert "three products: ChatGPT, Claude Code and Cursor" in regions["intro"]
+    assert regions["sources"].split("\n\n")[0] == "\n".join([
+        "### ChatGPT",
+        "- Official source: [ChatGPT release notes]"
+        "(https://help.openai.com/en/articles/6825453-chatgpt-release-notes)",
+        "- Archived releases: 3, dated 2025-01-01 → 2026-10-01",
+        "- Official browser snapshot captured: 2026-10-14T23:26:11+0800. "
+        "Imported snapshot; this is not a successful automatic HTTP fetch.",
+        "- Known gaps: Codex-only entries excluded.",
+    ])
+    assert ("- Official source: [Claude Code GitHub releases]"
+            "(https://github.com/anthropics/claude-code/releases)") in regions["sources"]
+    assert "- Last successful fetch: 2026-10-15T01:55:15Z." in regions["sources"]
+    assert "At most five cards are kept per release" in regions["method"]
+    assert "Tracked N of M candidate lines" in regions["method"]
+    assert regions["status"].startswith(
+        "3 products · 6 archived releases · 15 tracked changes · 5 themes. "
+        "Pending theme review: 1,234. Silence alerts: 0.")
+    for term in ("Change Card", "Release", "Theme", "Era", "Tracked products only", "Candidate line"):
+        assert f"- **{term}**: " in regions["glossary"]
+    assert regions["feedback"].endswith(f"open an issue at [{REPOSITORY}/issues]({REPOSITORY}/issues).")
+    assert extract_machine_regions(render_about(repository=""))["feedback"] == ""
+
+
+def test_acquisition_time_only_refresh_is_not_a_content_change(tmp_path: Path):
+    later = {
+        "chatgpt": {**HOME_COVERAGE["chatgpt"], "snapshot_captured_at": "2026-10-16T08:00:00+0800",
+                    "acquired_at": "2026-10-16T08:00:00+0800"},
+        "claude-code": {**HOME_COVERAGE["claude-code"], "last_successful_fetch": "2026-10-16T01:15:02Z"},
+        "cursor": {**HOME_COVERAGE["cursor"], "last_successful_fetch": "2026-10-16T01:15:09Z"},
+    }
+    cards, analysis_a, _, releases = home_inputs()
+    pages = {}
+    for name, coverage in (("before", HOME_COVERAGE), ("after", later)):
+        about = tmp_path / name / "About.md"
+        about.parent.mkdir()
+        about.write_text(render_about(coverage), encoding="utf-8")
+        product = tmp_path / name / "ChatGPT.md"
+        product.write_text(render_product_markdown(
+            "chatgpt", {"product_name": "ChatGPT", "verbosity_baseline": 1, "coverage": coverage["chatgpt"]},
+            [cards[0]], releases=releases["chatgpt"]), encoding="utf-8")
+        pages[name] = (about, product)
+
+    for before, after in zip(pages["before"], pages["after"]):
+        assert before.read_text() != after.read_text()
+        assert normalized_page(before) == normalized_page(after)
+    # A changed source fact is still a content change.
+    gaps = {**HOME_COVERAGE, "cursor": {**HOME_COVERAGE["cursor"], "known_gaps": "New gap."}}
+    changed = tmp_path / "changed.md"
+    changed.write_text(render_about(gaps), encoding="utf-8")
+    assert normalized_page(changed) != normalized_page(pages["before"][0])
+
+
+def test_product_coverage_region_is_a_one_line_summary_linking_about():
+    info = {"product_name": "ChatGPT", "verbosity_baseline": 1, "coverage": HOME_COVERAGE["chatgpt"]}
+    cards, _, _, releases = home_inputs()
+    regions = extract_machine_regions(frontmatter.loads(
+        render_product_markdown("chatgpt", info, [cards[0]], releases=releases["chatgpt"])).content)
+    assert regions["coverage"] == (
+        "3 releases · 2025-01-01 → 2026-10-01 · [official source]"
+        "(https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · "
+        "Codex-only entries excluded.\n\n"
+        "Acquisition details, sampling rules and known gaps: [[About]].")

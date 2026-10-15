@@ -1,6 +1,8 @@
 """Cited editorial narratives, activated only when their evidence is in the run."""
 from pathlib import Path
+import re
 from typing import Any
+from urllib.parse import urlsplit
 from _scripts.common import read_yaml
 
 
@@ -44,17 +46,84 @@ def source_coverage(source: dict | None, releases: list[dict], previous: dict | 
     return state
 
 
+def acquisition_line(state: dict) -> str:
+    """How the archive was last acquired, on one line.
+
+    ``quality.normalized_page`` masks the timestamp after these exact prefixes, so a
+    refresh that only moves the acquisition time is not a content change.
+    """
+    if state.get('acquisition') == 'browser-snapshot':
+        return (f"Official browser snapshot captured: {state.get('snapshot_captured_at', 'unknown')}. "
+                'Imported snapshot; this is not a successful automatic HTTP fetch.')
+    return f"Last successful fetch: {state.get('last_successful_fetch', 'not recorded')}."
+
+
 def render_coverage(state: dict) -> str:
     if not state:
         return 'Source acquisition time has not been recorded.'
-    lines = [f"Archived release dates: {state.get('earliest', 'unknown')} → {state.get('latest', 'unknown')}."]
-    if state.get('acquisition') == 'browser-snapshot':
-        lines.append(f"Official browser snapshot captured: {state.get('snapshot_captured_at', 'unknown')}. "
-                     'Imported snapshot; this is not a successful automatic HTTP fetch.')
-    else:
-        lines.append(f"Last successful fetch: {state.get('last_successful_fetch', 'not recorded')}.")
+    lines = [f"Archived release dates: {state.get('earliest', 'unknown')} → {state.get('latest', 'unknown')}.",
+             acquisition_line(state)]
     if state.get('url'):
         lines.append(f"[Source]({state['url']}).")
     if state.get('known_gaps'):
         lines.append(f"Coverage limits: {state['known_gaps']}")
     return '\n\n'.join(lines)
+
+
+GITHUB_RELEASES_API_RE = re.compile(r'^https://api\.github\.com/repos/([^/\s]+)/([^/\s]+)/releases/?$')
+
+
+def reader_source_url(url: str) -> str:
+    """Human-readable page for a source URL (the GitHub releases page, not its API)."""
+    match = GITHUB_RELEASES_API_RE.match(str(url).strip())
+    return f'https://github.com/{match.group(1)}/{match.group(2)}/releases' if match else str(url).strip()
+
+
+def source_label(product_name: str, url: str) -> str:
+    host = urlsplit(str(url)).netloc
+    if host.endswith('github.com'):
+        return f'{product_name} GitHub releases'
+    if 'changelog' in str(url).lower():
+        return f'{product_name} changelog'
+    return f'{product_name} release notes'
+
+
+def _releases(count: int) -> str:
+    return f"{count} release" if count == 1 else f"{count} releases"
+
+
+def render_coverage_summary(state: dict, release_count: int | None = None) -> str:
+    """One reader-facing line: releases, release date range, source and known gaps.
+
+    Acquisition timestamps are left to the About page and run artifacts.
+    """
+    state = state or {}
+    count = release_count if release_count is not None else int(state.get('release_count') or 0)
+    parts = [_releases(count)]
+    if state.get('earliest') and state.get('latest'):
+        parts.append(f"{state['earliest']} → {state['latest']}")
+    if state.get('url'):
+        parts.append(f"[official source]({reader_source_url(state['url'])})")
+    line = ' · '.join(parts)
+    if state.get('known_gaps'):
+        line += ' · ' + ' '.join(str(state['known_gaps']).split())
+    return line
+
+
+def render_source_details(product_name: str, state: dict, release_count: int | None = None) -> str:
+    """About-page block for one source; the acquisition sentence keeps its exact wording."""
+    state = state or {}
+    count = release_count if release_count is not None else int(state.get('release_count') or 0)
+    lines = [f'### {product_name}']
+    if state.get('url'):
+        lines.append(f"- Official source: [{source_label(product_name, state['url'])}]"
+                     f"({reader_source_url(state['url'])})")
+    archived = f'- Archived releases: {count}'
+    if state.get('earliest') and state.get('latest'):
+        archived += f", dated {state['earliest']} → {state['latest']}"
+    lines.append(archived)
+    lines.append(f'- {acquisition_line(state)}' if state else
+                 '- Source acquisition time has not been recorded.')
+    if state.get('known_gaps'):
+        lines.append(f"- Known gaps: {' '.join(str(state['known_gaps']).split())}")
+    return '\n'.join(lines)

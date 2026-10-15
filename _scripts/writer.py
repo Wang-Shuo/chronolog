@@ -4,6 +4,7 @@ import argparse
 import re
 import sys
 from collections import Counter, defaultdict
+from datetime import date, timedelta
 from pathlib import Path
 from typing import Any
 from urllib.parse import quote, urlencode
@@ -14,7 +15,7 @@ ROOT = Path(__file__).resolve().parents[1]
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
-from _scripts.editorial import render_coverage
+from _scripts.editorial import render_coverage_summary, render_source_details
 from _scripts.common import (
     PipelinePaths,
     load_site,
@@ -24,7 +25,12 @@ from _scripts.common import (
     write_json,
     write_text,
 )
-from _scripts.extract import GENERIC_HEADING_RE, load_theme_vocabulary, split_release_lines
+from _scripts.extract import (
+    GENERIC_HEADING_RE,
+    MAX_CARDS_PER_RELEASE,
+    load_theme_vocabulary,
+    split_release_lines,
+)
 
 
 REGION_RE = re.compile(
@@ -78,6 +84,15 @@ SKELETON_HEADINGS = {
     "change": frozenset({"## Editor Notes"}),
     "release": frozenset({"## Summary", "## Change Cards"}),
     "theme": frozenset({"## Research summary", "## Cross-Product Timeline", "## Change Cards"}),
+    # Home page: the pre-W1 headings and lead paragraph, plus the current headings, so
+    # an untouched legacy index is replaced and later renders stay idempotent.
+    "index": frozenset({
+        "## Source coverage", "## Start exploring", "## Overview", "## Products", "## Themes",
+        "Research changes in ChatGPT, Claude Code, and Cursor through official release evidence. "
+        "Counts cover accepted active records; fixtures, pending review, and superseded records "
+        "are excluded.",
+        "## Latest changes", "## About the data",
+    }),
 }
 MIGRATION_PENDING_REASON = "legacy skeleton with human text; manual migration needed"
 
@@ -125,13 +140,16 @@ def ensure_vault_dirs(root: Path) -> None:
 
 
 def page_type(metadata: dict[str, Any]) -> str | None:
-    """Kind of page whose skeleton the writer migrates (products and index are not)."""
+    """Kind of page whose skeleton the writer migrates (products and About are not)."""
+    tags = metadata.get("tags") or []
     if metadata.get("type") == "change":
         return "change"
     if metadata.get("release_id"):
         return "release"
-    if metadata.get("theme") and "theme" in (metadata.get("tags") or []):
+    if metadata.get("theme") and "theme" in tags:
         return "theme"
+    if "index" in tags:
+        return "index"
     return None
 
 
@@ -233,7 +251,7 @@ def merge_page_body(
     kind: str,
     migration_pending: list[dict[str, str]] | None = None,
 ) -> str:
-    """Merge a change, release or theme page, migrating an untouched skeleton.
+    """Merge a change, release, theme or index page, migrating an untouched skeleton.
 
     Without human text outside the machine regions the whole body becomes the rendered
     body, so a legacy skeleton is replaced instead of receiving appended regions. With
@@ -308,7 +326,7 @@ def write_markdown_file(
 
     rendered_post = frontmatter.loads(rendered)
     kind = page_type(existing_post.metadata)
-    if kind is not None:
+    if kind in SKELETON_HEADINGS:
         merged_body = merge_page_body(
             target,
             existing_post.content,
@@ -668,7 +686,13 @@ def render_product_markdown(
             f"{len(ordered)} tracked changes.\n\n"
             f"Most represented themes: {', '.join(top_themes)}."
         ).rstrip(),
-        "coverage": render_coverage(product_info.get('coverage', {})),
+        "coverage": (
+            render_coverage_summary(
+                product_info.get("coverage", {}),
+                len(ordered_releases) if releases is not None else None,
+            )
+            + "\n\nAcquisition details, sampling rules and known gaps: [[About]]."
+        ),
         "narrative": (product_info.get('narrative_summary', '') + '\n\n' +
                       product_info.get('narrative_limitations', '')).strip() or
                      'The release archive records announced changes; a reviewed phase narrative is not yet available.',
@@ -838,64 +862,310 @@ def render_alert_markdown(alert: dict[str, Any]) -> str:
     return render_frontmatter(fields, body)
 
 
+SITE_TITLE = "ChronoLog"
+ABOUT_LINK = "[[About|About the data]]"
+FEATURED_THEMES = (
+    ("agent-mode", "From assisted edits to delegated work"),
+    ("pricing-model", "Plans, allowances, and usage charging"),
+)
+THEME_CATEGORY_ORDER = (
+    "paradigm", "capability", "workflow", "platform", "ecosystem", "business", "trust", "quality",
+)
+RECENT_WINDOW_DAYS = 30
+RECENT_PER_PRODUCT = 6
+RELEASE_ACTIVITY_DAYS = 90
+NUMBER_WORDS = ("no", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten")
+
+
+def number_word(count: int) -> str:
+    return NUMBER_WORDS[count] if 0 <= count < len(NUMBER_WORDS) else str(count)
+
+
+def counted(count: int, noun: str) -> str:
+    """``plural`` with thousands separators, for headline counts."""
+    return f"{count:,} {noun}" if count == 1 else f"{count:,} {noun}s"
+
+
+def window_start(end: str, days: int) -> str:
+    """First day of the ``days``-day window that ends on (and includes) ``end``."""
+    return (date.fromisoformat(end) - timedelta(days=days - 1)).isoformat()
+
+
+def site_lead(product_names: list[str]) -> str:
+    scope = f" in {natural_join(product_names)}" if product_names else ""
+    return f"Tracked changes{scope}, from official release notes."
+
+
+def aggregate_publication(cards: list[dict[str, Any]]) -> str:
+    return "fixture" if cards and all(c.get("source_type") == "fixture" for c in cards) else "active"
+
+
+def aggregate_dates(cards: list[dict[str, Any]]) -> dict[str, str]:
+    if not cards:
+        return {}
+    ordered_dates = sorted(card["date"] for card in cards)
+    return {"date": ordered_dates[-1], "created": ordered_dates[0], "modified": ordered_dates[-1]}
+
+
+def ordered_products(products: dict[str, dict[str, Any]]) -> list[tuple[str, dict[str, Any]]]:
+    return sorted(products.items(), key=lambda item: (item[1]["product_name"], item[0]))
+
+
+def recent_changes(
+    cards: list[dict[str, Any]],
+    products: list[tuple[str, dict[str, Any]]],
+    alerts: list[dict[str, Any]],
+    card_targets: dict[str, str] | None,
+    theme_labels: dict[str, str] | None,
+) -> str:
+    """Newest cards per product in the window ending at the latest card date (not today)."""
+    warnings = [f"- ⚠ {alert['product_name']}: {alert['message']}" for alert in alerts]
+    sections = ["\n".join(warnings)] if warnings else []
+    if not cards:
+        return "\n\n".join(sections + ["No changes archived yet."])
+    anchor = max(card["date"] for card in cards)
+    start = window_start(anchor, RECENT_WINDOW_DAYS)
+    for product, info in products:
+        name = info["product_name"]
+        in_window = sorted(
+            (card for card in cards
+             if card["product"] == product and start <= card["date"] <= anchor),
+            key=lambda card: (card["theme"], card["card_id"]),
+        )
+        in_window.sort(key=lambda card: card["date"], reverse=True)
+        entries = [
+            f"- {card['date']} · {theme_label(card['theme'], theme_labels)}: "
+            f"{card_link(card, card_targets)}"
+            for card in in_window[:RECENT_PER_PRODUCT]
+        ] or [f"- No changes archived between {start} and {anchor}."]
+        remaining = len(in_window) - RECENT_PER_PRODUCT
+        if remaining > 0:
+            entries.append(f"- {remaining} more in this window → [[Products/{name}|{name}]]")
+        sections.append(f"### {name}\n" + "\n".join(entries))
+    return "\n\n".join(sections)
+
+
+def product_activity(
+    products: list[tuple[str, dict[str, Any]]],
+    releases_by_product: dict[str, list[dict[str, Any]]],
+) -> str:
+    """Release count, range and releases in the window ending at the latest release overall."""
+    all_dates = [release["date"] for releases in releases_by_product.values() for release in releases]
+    latest = max(all_dates) if all_dates else None
+    lines = []
+    for product, info in products:
+        name = info["product_name"]
+        dates = sorted(release["date"] for release in releases_by_product.get(product, []))
+        if not dates or latest is None:
+            lines.append(f"- [[Products/{name}|{name}]] · No releases archived yet.")
+            continue
+        start = window_start(latest, RELEASE_ACTIVITY_DAYS)
+        recent = sum(start <= value <= latest for value in dates)
+        lines.append(
+            f"- [[Products/{name}|{name}]] · {plural(len(dates), 'release')} · "
+            f"{dates[0]} → {dates[-1]} · {plural(recent, 'release')} in the last "
+            f"{RELEASE_ACTIVITY_DAYS} days"
+        )
+    return "\n".join(lines)
+
+
+def theme_groups(
+    theme_counts: Counter,
+    vocabulary: dict[str, dict[str, Any]] | None,
+    theme_labels: dict[str, str] | None,
+) -> str:
+    """Themes with active cards, grouped by vocabulary category."""
+    grouped: dict[str, list[tuple[str, int]]] = defaultdict(list)
+    for theme, count in theme_counts.items():
+        category = str((vocabulary or {}).get(theme, {}).get("category") or "other")
+        grouped[category].append((theme, count))
+
+    def category_key(category: str) -> tuple[int, str]:
+        known = category in THEME_CATEGORY_ORDER
+        return (THEME_CATEGORY_ORDER.index(category) if known else len(THEME_CATEGORY_ORDER), category)
+
+    lines = []
+    for category in sorted(grouped, key=category_key):
+        entries = sorted(
+            grouped[category], key=lambda item: (-item[1], theme_label(item[0], theme_labels))
+        )
+        links = " · ".join(
+            f"[[Themes/{theme}|{wiki_label(theme_label(theme, theme_labels))}]] ({count})"
+            for theme, count in entries
+        )
+        lines.append(f"**{category.title()}** · {links}")
+    return "\n\n".join(lines)
+
+
+def release_count(releases_by_product: dict[str, list[dict[str, Any]]], product: str) -> int | None:
+    return len(releases_by_product[product]) if product in releases_by_product else None
+
+
 def render_index_markdown(
     cards: list[dict[str, Any]],
     analysis_a: dict[str, Any],
     analysis_b: dict[str, Any],
     silence: dict[str, Any],
-    pending_theme_review: int = 0,
     theme_labels: dict[str, str] | None = None,
+    *,
+    releases_by_product: dict[str, list[dict[str, Any]]] | None = None,
+    vocabulary: dict[str, dict[str, Any]] | None = None,
+    card_targets: dict[str, str] | None = None,
 ) -> str:
-    products = analysis_a.get("products", {})
+    """Reader home page: latest changes, products, themes and a coverage summary.
+
+    Every number is derived from the data (no clock): the latest-changes window ends at
+    the newest card date and the release activity window at the newest release date.
+    Acquisition timestamps and review counts live on the About page.
+    """
+    products = ordered_products(analysis_a.get("products", {}))
     themes = analysis_b.get("themes", {})
-    product_links = "\n".join(
-        f"- [[Products/{info['product_name']}|{info['product_name']}]]"
-        for _, info in sorted(products.items())
+    releases_by_product = releases_by_product or {}
+    theme_counts = Counter(card["theme"] for card in cards)
+    release_dates = [r["date"] for releases in releases_by_product.values() for r in releases]
+    archive_end = max(release_dates) if release_dates else max(
+        (card["date"] for card in cards), default=None
     )
-    theme_links = "\n".join(
-        f"- [[Themes/{theme}|{wiki_label(theme_label(theme, theme_labels))}]]"
-        for theme in sorted(themes)
-    )
+    stats = [
+        counted(len(products), "product"),
+        counted(len(cards), "tracked change"),
+        counted(len(theme_counts), "theme"),
+    ]
+    if archive_end:
+        stats.append(f"archive to {archive_end}")
+    stats.append(ABOUT_LINK)
+    product_names = [info["product_name"] for _, info in products]
+    coverage_lines = [
+        f"- {info['product_name']} · "
+        + render_coverage_summary(info.get("coverage", {}), release_count(releases_by_product, product))
+        for product, info in products
+    ]
     regions = {
-        "overview": (
-            f"Product count: {len(products)}\n"
-            f"Change count: {len(cards)}\n"
-            f"Theme count: {len(themes)}\n"
-            f"Alert count: {len(silence.get('alerts', []))}\n"
-            f"Pending theme review: {pending_theme_review}"
+        "header": f"# {SITE_TITLE}\n\n{site_lead(product_names)} " + " · ".join(stats),
+        "recent": recent_changes(
+            cards, products, silence.get("alerts", []), card_targets, theme_labels
         ),
-        "coverage": "\n\n".join(
-            f"### {info['product_name']}\n\n{render_coverage(info.get('coverage', {}))}"
-            for info in products.values()),
         "featured": "\n".join(
             f"- [[Themes/{theme}|{wiki_label(theme_label(theme, theme_labels))}]] — {label}"
-            for theme, label in [('agent-mode', 'From assisted edits to delegated work'),
-                                 ('pricing-model', 'Plans, allowances, and usage charging')]
+            for theme, label in FEATURED_THEMES
             if theme in themes) or "No featured themes yet.",
-        "products": product_links or "No products yet.",
-        "themes": theme_links or "No themes yet.",
+        "products": product_activity(products, releases_by_product) or "No products yet.",
+        "themes": theme_groups(theme_counts, vocabulary, theme_labels) or "No themes yet.",
+        "coverage": (
+            ("\n".join(coverage_lines) or "No sources recorded yet.")
+            + f"\n\nAcquisition times, sampling rules, review status and glossary: {ABOUT_LINK}."
+        ),
     }
-    fields = {"tags": ["index"], "title": "ChronoLog",
-              "publication": "fixture" if cards and all(c.get("source_type") == "fixture" for c in cards) else "active"}
-    if cards:
-        ordered_dates = sorted(card["date"] for card in cards)
-        fields.update(
-            {
-                "date": ordered_dates[-1],
-                "created": ordered_dates[0],
-                "modified": ordered_dates[-1],
-            }
-        )
+    fields = {"tags": ["index"], "title": SITE_TITLE, "publication": aggregate_publication(cards)}
+    fields.update(aggregate_dates(cards))
     fields["machine_hash"] = machine_hash(fields, regions)
     body = (
-        "# ChronoLog\n\n"
-        "Research changes in ChatGPT, Claude Code, and Cursor through official release evidence. "
-        "Counts cover accepted active records; fixtures, pending review, and superseded records are excluded.\n\n"
+        f"{machine_region('header', regions['header'])}\n\n"
+        f"## Latest changes\n{machine_region('recent', regions['recent'])}\n\n"
         f"## Start exploring\n{machine_region('featured', regions['featured'])}\n\n"
-        f"## Source coverage\n{machine_region('coverage', regions['coverage'])}\n\n"
-        f"## Overview\n{machine_region('overview', regions['overview'])}\n\n"
         f"## Products\n{machine_region('products', regions['products'])}\n\n"
-        f"## Themes\n{machine_region('themes', regions['themes'])}\n"
+        f"## Themes\n{machine_region('themes', regions['themes'])}\n\n"
+        f"## About the data\n{machine_region('coverage', regions['coverage'])}\n"
+    )
+    return render_frontmatter(fields, body)
+
+
+ABOUT_METHOD = "\n".join([
+    "- Each archived release is split into lines.",
+    "- Headings, version-only lines, availability notes, instructions and unclassified "
+    "bug-fix lines are skipped.",
+    "- Each remaining line becomes one Change Card with one theme from a fixed vocabulary.",
+    f"- At most {number_word(MAX_CARDS_PER_RELEASE)} cards are kept per release, so long "
+    "GitHub release notes are sampled; each release page shows "
+    "\"Tracked N of M candidate lines\".",
+    "- Lines without a confident theme wait in a review queue and are not published.",
+    "- Dates are announcement dates, not availability dates.",
+    "- Relations between cards are same-theme chronology only; they never claim adoption "
+    "or causation.",
+])
+ABOUT_GLOSSARY = "\n".join([
+    "- **Change Card**: one announced change, taken from one line of an official release, "
+    "with a date, one theme and the quoted source line.",
+    "- **Release**: one archived entry of an official changelog or release page; its page "
+    "lists the cards tracked from it.",
+    "- **Theme**: a category from a fixed vocabulary that groups cards across products.",
+    "- **Era**: a reviewed phase of one product's history, bounded by cited releases.",
+    "- **Tracked products only**: comparisons and \"earliest\" statements cover only the "
+    "tracked products, not the wider market.",
+    "- **Candidate line**: a line of release text that could become a card; Markdown headings, "
+    "code samples and very short lines are not counted. \"Tracked N of M candidate lines\" "
+    "compares the cards kept with these lines.",
+])
+
+
+def render_about_markdown(
+    cards: list[dict[str, Any]],
+    products: dict[str, dict[str, Any]],
+    releases_by_product: dict[str, list[dict[str, Any]]],
+    silence: dict[str, Any],
+    pending_theme_review: int = 0,
+    repository: str = "",
+) -> str:
+    """``About.md``: sources, acquisition, method, review status, glossary and feedback.
+
+    The only page that shows acquisition timestamps; their sentences use the exact
+    ``editorial.acquisition_line`` wording that ``quality.normalized_page`` masks.
+    """
+    ordered = ordered_products(products)
+    names = [info["product_name"] for _, info in ordered]
+    scope = f"{number_word(len(names))} {'product' if len(names) == 1 else 'products'}"
+    intro = (
+        f"ChronoLog tracks announced changes in {scope}: {natural_join(names)}. "
+        if names else "ChronoLog tracks announced product changes. "
+    ) + (
+        "It reads official release notes only, turns each release into dated Change Cards and "
+        "groups them by theme. Every record is reviewed before it is published."
+    )
+    archived = sum(len(releases) for releases in releases_by_product.values())
+    themes = len({card["theme"] for card in cards})
+    alerts = len(silence.get("alerts", []))
+    issues = f"{repository.rstrip('/')}/issues" if repository else ""
+    regions = {
+        "intro": intro,
+        "sources": "\n\n".join(
+            render_source_details(
+                info["product_name"], info.get("coverage", {}),
+                release_count(releases_by_product, product),
+            )
+            for product, info in ordered
+        ) or "No sources recorded yet.",
+        "method": ABOUT_METHOD,
+        "status": (
+            f"{counted(len(names), 'product')} · {counted(archived, 'archived release')} · "
+            f"{counted(len(cards), 'tracked change')} · {counted(themes, 'theme')}. "
+            f"Pending theme review: {pending_theme_review:,}. Silence alerts: {alerts:,}. "
+            "Every generated batch is reviewed in a pull request before it is published."
+        ),
+        "glossary": ABOUT_GLOSSARY,
+        "feedback": (
+            "Every card ends with a link that opens a prefilled issue. "
+            f"For anything else, open an issue at [{issues}]({issues})."
+        ) if issues else "",
+    }
+    fields = {
+        "tags": ["about"],
+        "title": "About the data",
+        "description": cap_text(
+            "Where ChronoLog's data comes from, how official release notes become reviewed "
+            "Change Cards, what is sampled or skipped, and how to report a problem."
+        ),
+        "publication": aggregate_publication(cards),
+    }
+    fields.update(aggregate_dates(cards))
+    fields["machine_hash"] = machine_hash(fields, regions)
+    body = (
+        "# About the data\n\n"
+        f"{machine_region('intro', regions['intro'])}\n\n"
+        f"## Sources and coverage\n{machine_region('sources', regions['sources'])}\n\n"
+        f"## How cards are made\n{machine_region('method', regions['method'])}\n\n"
+        f"## Review status\n{machine_region('status', regions['status'])}\n\n"
+        f"## Glossary\n{machine_region('glossary', regions['glossary'])}\n\n"
+        f"## Feedback\n{machine_region('feedback', regions['feedback'])}\n"
     )
     return render_frontmatter(fields, body)
 
@@ -1131,7 +1401,9 @@ def write_run(
     paths = PipelinePaths(run_id, root=root)
     ensure_vault_dirs(paths.root)
     config = config_root or root
-    theme_labels = load_theme_labels(config / "_scripts" / "themes.yaml")
+    themes_path = config / "_scripts" / "themes.yaml"
+    theme_labels = load_theme_labels(themes_path)
+    vocabulary = load_theme_vocabulary(themes_path) if themes_path.exists() else {}
     repository = str(load_site(config / "_scripts" / "sources.yaml").get("repository") or "")
     migration_pending: list[dict[str, str]] = []
     valid_payload = read_json(paths.valid_cards)
@@ -1319,8 +1591,23 @@ def write_run(
             analysis_for_render,
             analysis_b,
             silence,
-            pending_theme_review=len(pending_theme_review),
             theme_labels=theme_labels,
+            releases_by_product=releases_by_product,
+            vocabulary=vocabulary,
+            card_targets=card_targets,
+        ),
+        conflicts,
+        migration_pending,
+    )
+    write_markdown_file(
+        paths.root / "About.md",
+        render_about_markdown(
+            cards,
+            products_info,
+            releases_by_product,
+            silence,
+            pending_theme_review=len(pending_theme_review),
+            repository=repository,
         ),
         conflicts,
     )

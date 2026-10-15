@@ -9,7 +9,7 @@ import sys
 ROOT = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(ROOT))
 from _scripts.pipeline import run_pipeline
-from _scripts.transaction import DIRECTORIES, snapshot
+from _scripts.transaction import copy_pages, snapshot
 
 
 def main():
@@ -22,10 +22,7 @@ def main():
     before = snapshot(ROOT)
     vault = out / 'vault'
     shutil.copytree(ROOT / '_scripts', vault / '_scripts', ignore=shutil.ignore_patterns('__pycache__'))
-    for directory in DIRECTORIES:
-        if (ROOT / directory).exists():
-            shutil.copytree(ROOT / directory, vault / directory)
-    shutil.copy2(ROOT / 'index.md', vault / 'index.md')
+    copy_pages(ROOT, vault)
     payload = json.loads(gzip.decompress((ROOT / 'docs/acceptance/m2-evidence/collection.json.gz').read_bytes()))
     result = run_pipeline(vault, 'm2-replay', collection=payload, reconcile=True, today='2026-10-13')
     assert snapshot(ROOT) == before

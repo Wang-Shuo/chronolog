@@ -240,3 +240,98 @@ def test_html_audit_resolves_project_prefix_and_rejects_escaping_links(tmp_path)
     p.write_text('<a href="../../../tags/Heading">Wrong root</a>')
     with pytest.raises(AssertionError,match='escapes deployment path'):
         mod.audit_html(tmp_path,'owner.github.io/chronolog')
+
+
+def root_page_vault(root):
+    """A minimal Vault with both root pages and one product page, without wiki links."""
+    for name, title in (('index.md', 'ChronoLog'), ('About.md', 'About the data'),
+                        ('Products/Cursor.md', 'Cursor')):
+        path = root / name
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_text(f'---\ntitle: {title}\n---\n\n# {title}\n')
+    return root
+
+
+def test_about_is_enumerated_wherever_index_is(tmp_path, monkeypatch):
+    from _scripts import rolling_pr
+    from _scripts.transaction import DIRECTORIES, copy_pages, files
+    from _scripts.validate import ROOT_PAGES, VAULT_DIRECTORIES, vault_markdown_files
+    assert ROOT_PAGES == ('index.md', 'About.md')
+    vault = root_page_vault(tmp_path / 'vault')
+
+    assert {'index.md', 'About.md'} <= set(files(vault))
+    assert {vault / 'index.md', vault / 'About.md'} <= set(vault_markdown_files(vault))
+    # Content scope of the rolling PR publisher (kept literal there).
+    assert set(rolling_pr.VAULT) == {*VAULT_DIRECTORIES, '_review', *ROOT_PAGES}
+    assert set(DIRECTORIES) == {*VAULT_DIRECTORIES, '_review'}
+    # Pipeline stage and manual replays copy with copy_pages.
+    stage = tmp_path / 'stage'
+    stage.mkdir()
+    copy_pages(vault, stage, create_missing=True)
+    assert (stage / 'About.md').exists() and (stage / 'Releases').is_dir()
+    # Candidate copy.
+    source = root_page_vault(tmp_path / 'source')
+    (source / '_scripts').mkdir()
+    operations.copy_vault(source, tmp_path / 'candidate')
+    assert (tmp_path / 'candidate/About.md').read_text() == (source / 'About.md').read_text()
+    # Quality report counts root pages by kind.
+    before = inventory(vault)
+    about = vault / 'About.md'
+    about.write_text(about.read_text() + '\nChanged.\n')
+    report = changes(before, inventory(vault))
+    assert report['by_kind']['About.md']['modified'] == 1
+    assert report['by_kind']['index.md']['modified'] == 0
+    # The Quartz build copy of validate_site.
+    built = {}
+
+    def fake_command(args, root, out, name, report, env=None):
+        if name == 'build':
+            build_vault = Path(args[args.index('--directory') + 1])
+            built.update({p.relative_to(build_vault).as_posix(): True for p in build_vault.rglob('*.md')})
+
+    class Stop(Exception):
+        pass
+
+    def stop(*args):
+        raise Stop()
+
+    monkeypatch.setattr(operations, 'command', fake_command)
+    monkeypatch.setattr(operations, 'audit', stop)
+    out = tmp_path / 'out'
+    out.mkdir()
+    with pytest.raises(Stop):
+        operations.validate_site(ROOT, vault, out, {'checks': {}}, 'localhost:8080')
+    assert {'index.md', 'About.md', 'Products/Cursor.md'} <= set(built)
+
+
+def test_pipeline_stage_keeps_human_text_on_about(vault):
+    run_pipeline(vault, 'seed', collection=payload(), today='2026-10-13')
+    about = vault / 'About.md'
+    assert '## Sources and coverage' in about.read_text()
+    about.write_text(about.read_text() + '\nReviewer note kept outside the regions.\n')
+    run_pipeline(vault, 'again', collection=payload(acquired='2026-10-14T10:00:00Z'), today='2026-10-14')
+    text = about.read_text()
+    assert 'Reviewer note kept outside the regions.' in text
+    assert 'Last successful fetch: 2026-10-14T10:00:00Z.' in text
+
+
+def test_publication_audit_expects_both_root_pages(tmp_path):
+    import importlib.util
+    import json
+    spec = importlib.util.spec_from_file_location('m2_audit', ROOT / 'tests/manual/check_m2_publication.py')
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    vault = root_page_vault(tmp_path / 'vault')
+    (vault / 'Products/Cursor.md').unlink()
+    site = tmp_path / 'site'
+    (site / 'static').mkdir(parents=True)
+    for slug in ('index', 'About'):
+        (site / f'{slug}.html').write_text('<a href="./About">About the data</a>')
+    index = {'index': {'content': '3 products · 0 tracked changes · 0 themes', 'links': []},
+             'About': {'content': 'About the data', 'links': []}}
+    (site / 'static/contentIndex.json').write_text(json.dumps(index))
+    assert mod.audit(vault, site)['active_pages'] == 2
+    del index['About']
+    (site / 'static/contentIndex.json').write_text(json.dumps(index))
+    with pytest.raises(AssertionError):
+        mod.audit(vault, site)

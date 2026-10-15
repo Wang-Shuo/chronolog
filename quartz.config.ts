@@ -1,6 +1,7 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 import { ActiveChronolog } from "./_scripts/publication_filter"
+import { ChronologFeed } from "./_scripts/feed"
 
 const config: QuartzConfig = {
   configuration: {
@@ -41,7 +42,8 @@ const config: QuartzConfig = {
           gray: "#6c6a63",
           darkgray: "#34332f",
           dark: "#171714",
-          secondary: "#9b6a19",
+          // 5.4:1 on `light` (WCAG AA body text needs 4.5:1).
+          secondary: "#8a5c12",
           tertiary: "#3f6f6b",
           highlight: "rgba(155, 106, 25, 0.15)",
           textHighlight: "#fff0bd",
@@ -79,7 +81,9 @@ const config: QuartzConfig = {
       Plugin.ContentPage(),
       Plugin.FolderPage(),
       Plugin.TagPage(),
-      Plugin.ContentIndex({ enableSiteMap: true, enableRSS: true, rssLimit: 30 }),
+      // The feed is ChronologFeed (cards and releases only), not the stock all-pages RSS.
+      Plugin.ContentIndex({ enableSiteMap: true, enableRSS: false }),
+      ChronologFeed(),
       Plugin.Assets(),
       Plugin.Static(),
       Plugin.Favicon(),

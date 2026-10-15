@@ -61,7 +61,7 @@ def test_a1_full_then_incremental_uses_markdown_without_previous_run_json(vault)
     assert result["merged_releases"] == 3
     assert old["release_id"] in (vault / "Products/Cursor.md").read_text()
     assert "2025-01-01" in (vault / "Themes/agent-mode.md").read_text()
-    assert "Change count: 3" in (vault / "index.md").read_text()
+    assert "3 tracked changes" in (vault / "index.md").read_text()
     cursor = sorted((c for c in cards(vault) if c["product"] == "cursor"), key=lambda c: c["date"])
     assert cursor[1]["evolves_from"] == []
     earlier = next(p for p in (vault / "Changes").rglob("*.md")

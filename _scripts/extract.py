@@ -18,6 +18,8 @@ IMPACT_WORDS = {
     "significant": ["support", "new", "expanded", "integration", "model"],
 }
 AMBIGUITY_MARGIN = 25
+# Cards kept per release; longer release notes are sampled (pages show N of M lines).
+MAX_CARDS_PER_RELEASE = 5
 GENERIC_HEADING_RE = re.compile(
     r"^(?:#+\s*)?(?:new features?|features?|improvements?|bug fixes?|fixes?|"
     r"other changes?|breaking changes?|what[’']?s (?:new|changed)|coming soon|changelog|"
@@ -996,7 +998,7 @@ def extract_cards_from_release(
             card["ai_generated"] = True
             card["confidence"] = "low"
         cards.append(card)
-        if len(cards) >= 5:
+        if len(cards) >= MAX_CARDS_PER_RELEASE:
             break
     return cards
 

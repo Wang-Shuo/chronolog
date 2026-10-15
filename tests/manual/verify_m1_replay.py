@@ -20,7 +20,7 @@ sys.path.insert(0, str(ROOT))
 from _scripts.collect import source_result
 from _scripts.common import PipelinePaths, read_json, write_json
 from _scripts.pipeline import run_pipeline
-from _scripts.transaction import DIRECTORIES, snapshot
+from _scripts.transaction import copy_pages, snapshot
 
 
 def envelope(releases, mode):
@@ -49,10 +49,7 @@ def main():
     destination.mkdir(parents=True)
     vault = destination / "vault"
     shutil.copytree(ROOT / "_scripts", vault / "_scripts", ignore=shutil.ignore_patterns("__pycache__"))
-    for name in DIRECTORIES:
-        if (ROOT / name).exists():
-            shutil.copytree(ROOT / name, vault / name)
-    shutil.copy2(ROOT / "index.md", vault / "index.md")
+    copy_pages(ROOT, vault)
     results = {
         "input_sha256": hashlib.sha256(args.collection.read_bytes()).hexdigest(),
         "input_release_count": len(releases), "products": products,

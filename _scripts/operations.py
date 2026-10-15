@@ -29,7 +29,7 @@ from _scripts.pipeline import run_pipeline, check_machine_hashes
 from _scripts.publication import audit
 from _scripts.quality import inventory, changes, markdown
 from _scripts.snapshot_bundle import load_bundle, SOURCE
-from _scripts.transaction import DIRECTORIES, snapshot, publish, recover, vault_lock
+from _scripts.transaction import copy_pages, snapshot, publish, recover, vault_lock
 from _scripts.validate import validate_vault_links
 
 
@@ -87,10 +87,7 @@ def validate_site(root: Path, vault: Path, out: Path, report: dict, base_url: st
     with tempfile.TemporaryDirectory(prefix='chronolog-build-') as temp:
         build_vault = Path(temp) / 'vault'
         build_vault.mkdir()
-        for directory in DIRECTORIES:
-            if (vault / directory).exists():
-                shutil.copytree(vault / directory, build_vault / directory)
-        shutil.copy2(vault / 'index.md', build_vault / 'index.md')
+        copy_pages(vault, build_vault)
         command(['npm', 'run', 'build', '--', '--directory', str(build_vault), '--output', str(out / 'site')],
                 root, out, 'build', report, env)
     report['checks']['publication'] = {'status': 'running'}
@@ -136,11 +133,7 @@ def collect(root: Path, out: Path, bundle: Path | None) -> dict:
 def copy_vault(root: Path, candidate: Path) -> None:
     candidate.mkdir()
     shutil.copytree(root / '_scripts', candidate / '_scripts', ignore=shutil.ignore_patterns('__pycache__'))
-    for directory in DIRECTORIES:
-        if (root / directory).exists():
-            shutil.copytree(root / directory, candidate / directory)
-    if (root / 'index.md').exists():
-        shutil.copy2(root / 'index.md', candidate / 'index.md')
+    copy_pages(root, candidate)
 
 
 def run(root: Path, run_id: str, out: Path, *, mode: str, base_url: str,
