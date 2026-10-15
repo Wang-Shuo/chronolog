@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: ef5ed2ba2ec84d13e8eb68e5ce14f5ea147a0502e6039196f2326ccd4e8c62ab
+machine_hash: a1e180363283623f7808477bed01b57e4b53c68f4ed7b4680e0e877ed6a99dbc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,7 +44,7 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-09-updated-models-and-usage-limits-in-chatgpt-voice-03e6b03f|chatgpt-2026-09-09-updated-models-and-usage-limits-in-chatgpt-voice-03e6b03f]]'
 source_type: chatgpt_changelog
 theme: pricing-model
-title: 'Pro (USD 100/month): Up to 15 hours with GPT-Live-1.'
+title: 'Pro ($100/month): Up to 15 hours with GPT-Live-1.'
 type: change
 ---
 

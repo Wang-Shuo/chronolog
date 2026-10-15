@@ -1,7 +1,7 @@
 ---
 created: '2023-07-06'
 date: '2026-10-14'
-machine_hash: 300ab232bbe11f826cc40413e08c916435830c818133e0586ccd461876fe5519
+machine_hash: 83a2e0fc8a11a0e0100cf824e06b19365f6ec23ae7f55ce43d4a14f728ce7926
 modified: '2026-10-14'
 products_involved:
 - ChatGPT
@@ -29,7 +29,7 @@ Scope: tracked-products-only. Entries show same-theme chronology; they do not es
 
 ### 2026
 
-- 2026-10-14 · Claude Code: [[Changes/Claude Code/2026-10-14-added-prompt-media-so-a-prompt-submit-hook-of-a-mod-installed-by-managed-setting|Added USD .prompt.media so a prompt.submit hook of a mod installed by managed s]]
+- 2026-10-14 · Claude Code: [[Changes/Claude Code/2026-10-14-added-prompt-media-so-a-prompt-submit-hook-of-a-mod-installed-by-managed-setting|Added $.prompt.media so a prompt.submit hook of a mod installed by managed s]]
 - 2026-10-01 · ChatGPT: [[Changes/ChatGPT/2026-10-01-it-s-now-easier-to-bring-your-notes-and-documents-into-chatgpt-on-your-phone-cap|It’s now easier to bring your notes and documents into ChatGPT on your phone. Ca]]
 - 2026-08-07 · ChatGPT: [[Changes/ChatGPT/2026-08-07-we-ve-made-it-easier-to-bring-documents-and-saved-files-into-your-conversations|We’ve made it easier to bring documents and saved files into your conversations,]]
 - 2026-08-07 · ChatGPT: [[Changes/ChatGPT/2026-08-07-get-answers-that-stay-closer-to-your-documents-chatgpt-makes-better-use-of-infor|Get answers that stay closer to your documents. ChatGPT makes better use of info]]

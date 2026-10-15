@@ -1,7 +1,7 @@
 ---
 created: '2023-01-09'
 date: '2026-10-07'
-machine_hash: f5e72b4b0f6a5ab87fd213605c4ed313cbf226f73e1cc6eb579bf42dcd66d6c2
+machine_hash: 2a4ffb5253c1ba375eff499e0f54e1cb69f5d079dc2921d6e08bc9cf25189d8d
 modified: '2026-10-07'
 products_involved:
 - ChatGPT
@@ -31,7 +31,7 @@ Scope: tracked-products-only. Entries show same-theme chronology; they do not es
 
 - 2026-10-07 · Claude Code: [[Changes/Claude Code/2026-10-07-added-claude-haiku-5-5-claude-haiku-5-5-now-the-default-haiku-model-on-the-anthr|Added Claude Haiku 5.5 (claude-haiku-5-5), now the default Haiku model on the]]
 - 2026-10-07 · ChatGPT: [[Changes/ChatGPT/2026-10-07-we-re-introducing-gpt-6-with-intelligent-ui-in-chatgpt-chatgpt-can-now-combine-t|We’re introducing GPT-6 with Intelligent UI in ChatGPT. ChatGPT can now combine]]
-- 2026-10-06 · Claude Code: [[Changes/Claude Code/2026-10-06-added-prompt-caching-to-model-complete-for-mods-prompt-and-system-take-blocks-of|Added prompt caching to USD .model.complete for mods: prompt and system take]]
+- 2026-10-06 · Claude Code: [[Changes/Claude Code/2026-10-06-added-prompt-caching-to-model-complete-for-mods-prompt-and-system-take-blocks-of|Added prompt caching to $.model.complete for mods: prompt and system take]]
 - 2026-09-29 · ChatGPT: [[Changes/ChatGPT/2026-09-29-eligible-plus-and-pro-users-can-authorize-participating-apps-to-use-their-chatgp|Eligible Plus and Pro users can authorize participating apps to use their ChatGP]]
 - 2026-09-29 · ChatGPT: [[Changes/ChatGPT/2026-09-29-gpt-6-1-sol-improves-on-gpt-6-sol-in-agentic-coding-computer-use-and-professiona|GPT-6.1 Sol improves on GPT-6 Sol in agentic coding, computer use, and professio]]
 - 2026-09-29 · ChatGPT: [[Changes/ChatGPT/2026-09-29-for-availability-and-model-selection-see-chatgpt-work-and-codex|For availability and model selection, see: ChatGPT Work and Codex.]]

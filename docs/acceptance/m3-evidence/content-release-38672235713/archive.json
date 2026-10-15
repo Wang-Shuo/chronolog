@@ -1,0 +1,20 @@
+{
+  "generation_run": 38668187171,
+  "deployment_run": 38672235713,
+  "approved_head": "7afb4fbb521ca82da18df8272412ea4a00771a5f",
+  "merge_commit": "0940c9a8bd832b8a029e0fa6ea0e988cba45921e",
+  "pr": 5,
+  "files": {
+    "approved-pr.json": "1867db747e7c2cbb65c115005ccdcb1f209a4b37658e4f8d2065aab32315132e",
+    "deployment/deploy/build.log": "c3c04de443b121fa2d9de5c14252f0ca51ca09ecf35eaf51153cf60bbc66fa8b",
+    "deployment/deploy/evidence-sha256.json": "e51686d6b086ec222cb6a89494b55d4e9df010f8e3f663ff6ba58763292e98ca",
+    "deployment/deploy/publication.json": "664559752e56cb973f00a18c63332716add349f43b5c59d76d05aa1f53a3d18a",
+    "deployment/deploy/quality.json": "87e63460b80c2792c05142e2fa8f22789a3ea32c7deb92a074cf4db24ebbc95d",
+    "deployment/deploy/quality.md": "36232d4a583199b9125eb7fd0b3b15b359de3518b5b08b991b7b3a285fb490b6",
+    "deployment/deploy/site/deployment.json": "2b5db034851d849739d4d267cbd516f33754f4e65630dcb3227ac97909b2082b",
+    "deployment/deploy/tests.log": "561eea926323dfb3462fd2662f3a5a32802a9929d9d1098b96231d984b81b313",
+    "deployment/deploy/vault-validation.json": "214ce265df60c136dffb8f2f67bae1e56e14c2f6f6d0c5b570758a0373280d64",
+    "deployment/review-gate.json": "e4b328d6a4be0da33ba19b62114364f3894108581e5ffff2988aa575d1bd1739",
+    "public-check/public-verification.json": "76887775d8e47a01c78c4a0627cdb7295244b758400237590186ce321c27abc1"
+  }
+}

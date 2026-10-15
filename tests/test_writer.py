@@ -253,3 +253,29 @@ def change_card() -> dict[str, object]:
         ],
         "extractor_version": "fallback-v1",
     }
+
+
+@pytest.mark.parametrize("source_title, visible_title", [
+    ("Added `$.prompt.media` for managed mods", "Added $.prompt.media for managed mods"),
+    ("Added `$.ui.view({ agentId })`", "Added $.ui.view({ agentId })"),
+    ("Read `$SHELL`, `$1`, and `$(pwd)`", "Read $SHELL, $1, and $(pwd)"),
+    ("Pricing: $0.10/$0.50 per Mtok", "Pricing: $0.10/$0.50 per Mtok"),
+    ("Keep $$ and a trailing $", "Keep $$ and a trailing $"),
+])
+def test_dollar_symbols_survive_card_titles_and_navigation(source_title, visible_title):
+    from _scripts.writer import card_link
+    card = {**change_card(), "title": source_title}
+    target = "Changes/Cursor/2025-02-01-agent-shell"
+    targets = {card["card_id"]: target}
+    post = frontmatter.loads(render_change_markdown(card, {}, {}, targets))
+    assert post["title"] == visible_title
+    assert post["record"]["title"] == source_title
+    expected_link = f"[[{target}|{visible_title}]]"
+    assert card_link(card, targets) == expected_link
+    assert expected_link in render_theme_markdown("agent-mode", [card], card_targets=targets)
+    release = {"release_id": "r", "product": "cursor", "product_name": "Cursor",
+               "title": source_title, "date": card["date"],
+               "source_url": "https://cursor.com/changelog/test", "cards": [card]}
+    rendered_release = render_release_markdown(release, targets)
+    assert frontmatter.loads(rendered_release)["title"] == "Cursor — " + visible_title
+    assert expected_link in rendered_release

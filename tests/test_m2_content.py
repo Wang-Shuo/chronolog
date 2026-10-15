@@ -117,9 +117,9 @@ def test_fixture_aggregates_are_marked_nonpublic_even_for_enabled_products():
     assert all(frontmatter.loads(page)['publication'] == 'fixture' for page in pages)
 
 
-def test_wiki_alias_avoids_math_autolinks_and_heading_delimiters():
+def test_wiki_alias_preserves_currency_and_avoids_autolinks_and_heading_delimiters():
     from _scripts.writer import wiki_label
-    assert wiki_label('C# $0.50/M at https://example.com/docs') == 'C♯ USD 0.50/M at (source link)'
+    assert wiki_label('C# $0.50/M at https://example.com/docs') == 'C♯ $0.50/M at (source link)'
 
 
 def test_model_introduction_with_price_is_not_a_pricing_only_change():

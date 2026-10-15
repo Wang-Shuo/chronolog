@@ -12,7 +12,7 @@ coverage:
   url: https://api.github.com/repos/anthropics/claude-code/releases
 created: '2025-12-19'
 date: '2026-10-14'
-machine_hash: 43e129e0b23b0892ca6cb2dc8dcefc472cfa4f4987a35af2af931eee2909b99c
+machine_hash: 8fdcfb2c5a8b006723f70761b6ef2ac2a4dfbaf96f382a56041985f1370c7fc7
 modified: '2026-10-14'
 product: claude-code
 product_name: Claude Code
@@ -374,11 +374,11 @@ No reviewed capability turning points assigned yet. The archive below is chronol
 - 2026-01-22 account-access: [[Changes/Claude Code/2026-01-22-vscode-added-ability-for-oauth-users-to-browse-and-resume-remote-claude-sessions|VSCode Added ability for OAuth users to browse and resume remote Claude sessio]]
 - 2026-01-22 developer-workflow: [[Changes/Claude Code/2026-01-22-added-new-task-management-system-including-new-capabilities-like-dependency-trac|Added new task management system, including new capabilities like dependency tra]]
 - 2026-01-22 mobile-desktop: [[Changes/Claude Code/2026-01-22-ide-fixed-a-race-condition-on-windows-where-the-claude-code-sidebar-view-contain|IDE Fixed a race condition on Windows where the Claude Code sidebar view conta]]
-- 2026-01-23 developer-workflow: [[Changes/Claude Code/2026-01-23-changed-indexed-argument-syntax-from-arguments-0-to-arguments-0-bracket-syntax|Changed indexed argument syntax from USD ARGUMENTS.0 to USD ARGUMENTS0 (bracket]]
+- 2026-01-23 developer-workflow: [[Changes/Claude Code/2026-01-23-changed-indexed-argument-syntax-from-arguments-0-to-arguments-0-bracket-syntax|Changed indexed argument syntax from $ARGUMENTS.0 to $ARGUMENTS0 (bracket]]
 - 2026-01-23 apps-integrations: [[Changes/Claude Code/2026-01-23-changed-skills-without-additional-permissions-or-hooks-to-be-allowed-without-req|Changed skills without additional permissions or hooks to be allowed without req]]
 - 2026-01-23 agent-mode: [[Changes/Claude Code/2026-01-23-added-env-var-claude-code-enable-tasks-set-to-false-to-keep-the-old-system-tempo|Added env var CLAUDE_CODE_ENABLE_TASKS, set to false to keep the old system]]
 - 2026-01-23 apps-integrations: [[Changes/Claude Code/2026-01-23-sdk-added-replay-of-queued-command-attachment-messages-as-sdkusermessagereplay-e|SDK Added replay of queued_command attachment messages as SDKUserMessageRep]]
-- 2026-01-23 developer-workflow: [[Changes/Claude Code/2026-01-23-added-shorthand-0-1-etc-for-accessing-individual-arguments-in-custom-commands|Added shorthand USD 0, USD 1, etc. for accessing individual arguments in custom co]]
+- 2026-01-23 developer-workflow: [[Changes/Claude Code/2026-01-23-added-shorthand-0-1-etc-for-accessing-individual-arguments-in-custom-commands|Added shorthand $0, $1, etc. for accessing individual arguments in custom co]]
 - 2026-01-27 agent-mode: [[Changes/Claude Code/2026-01-27-added-ability-to-delete-tasks-via-the-taskupdate-tool|Added ability to delete tasks via the TaskUpdate tool]]
 - 2026-01-27 editor-experience: [[Changes/Claude Code/2026-01-27-added-external-editor-shortcut-ctrl-g-to-the-help-menu-for-better-discoverabilit|Added external editor shortcut (Ctrl+G) to the help menu for better discoverabil]]
 - 2026-01-27 interface-experience: [[Changes/Claude Code/2026-01-27-added-pr-review-status-indicator-to-the-prompt-footer-showing-the-current-branch|Added PR review status indicator to the prompt footer, showing the current branc]]
@@ -511,7 +511,7 @@ No reviewed capability turning points assigned yet. The archive below is chronol
 - 2026-03-17 apps-integrations: [[Changes/Claude Code/2026-03-17-added-effort-maxturns-and-disallowedtools-frontmatter-support-for-plugin-shipped|Added effort, maxTurns, and disallowedTools frontmatter support for plugin]]
 - 2026-03-17 safety-privacy: [[Changes/Claude Code/2026-03-17-fixed-always-allow-on-compound-bash-commands-e-g-cd-src-npm-test-saving-a-single|Fixed "Always Allow" on compound bash commands (e.g. cd src && npm test) savin]]
 - 2026-03-17 interface-experience: [[Changes/Claude Code/2026-03-17-response-text-now-streams-line-by-line-as-it-s-generated|Response text now streams line-by-line as it's generated]]
-- 2026-03-17 apps-integrations: [[Changes/Claude Code/2026-03-17-added-claude-plugin-data-variable-for-plugin-persistent-state-that-survives-plug|Added USD {CLAUDE_PLUGIN_DATA} variable for plugin persistent state that survives]]
+- 2026-03-17 apps-integrations: [[Changes/Claude Code/2026-03-17-added-claude-plugin-data-variable-for-plugin-persistent-state-that-survives-plug|Added ${CLAUDE_PLUGIN_DATA} variable for plugin persistent state that survives]]
 - 2026-03-17 model-support: [[Changes/Claude Code/2026-03-17-increased-default-maximum-output-token-limits-for-claude-opus-4-6-to-64k-tokens|Increased default maximum output token limits for Claude Opus 4.6 to 64k tokens,]]
 - 2026-03-17 safety-privacy: [[Changes/Claude Code/2026-03-17-fixed-pretooluse-hooks-returning-allow-bypassing-deny-permission-rules-including|Fixed PreToolUse hooks returning "allow" bypassing deny permission rules, in]]
 - 2026-03-17 developer-workflow: [[Changes/Claude Code/2026-03-17-terminal-notifications-iterm2-kitty-ghostty-popups-progress-bar-now-reach-the-ou|Terminal notifications (iTerm2/Kitty/Ghostty popups, progress bar) now reach the]]
@@ -763,7 +763,7 @@ No reviewed capability turning points assigned yet. The archive below is chronol
 - 2026-06-03 apps-integrations: [[Changes/Claude Code/2026-06-03-remote-control-now-shows-as-a-persistent-footer-pill-with-a-link-to-the-session|Remote Control now shows as a persistent footer pill (with a link to the session]]
 - 2026-06-03 model-support: [[Changes/Claude Code/2026-06-03-effort-now-confirms-when-your-chosen-level-will-persist-as-the-default-for-new-s|/effort now confirms when your chosen level will persist as the default for ne]]
 - 2026-06-04 interface-experience: [[Changes/Claude Code/2026-06-04-added-a-c-to-copy-shortcut-to-btw-that-copies-the-raw-markdown-answer-to-the-cli|Added a "c to copy" shortcut to /btw that copies the raw markdown answer to th]]
-- 2026-06-04 developer-workflow: [[Changes/Claude Code/2026-06-04-skills-added-escape-syntax-to-include-a-literal-before-a-digit-in-command-bodies|Skills: added \USD  escape syntax to include a literal USD  before a digit in comm]]
+- 2026-06-04 developer-workflow: [[Changes/Claude Code/2026-06-04-skills-added-escape-syntax-to-include-a-literal-before-a-digit-in-command-bodies|Skills: added \$ escape syntax to include a literal $ before a digit in comm]]
 - 2026-06-04 apps-integrations: [[Changes/Claude Code/2026-06-04-hooks-stop-and-subagentstop-hooks-can-now-return-hookspecificoutput-additionalco|Hooks: Stop and SubagentStop hooks can now return hookSpecificOutput.additional]]
 - 2026-06-04 apps-integrations: [[Changes/Claude Code/2026-06-04-added-plugin-list-command-to-list-installed-plugins-with-enabled-disabled-filter|Added /plugin list command to list installed plugins, with --enabled/--disa]]
 - 2026-06-04 enterprise-admin: [[Changes/Claude Code/2026-06-04-added-requiredminimumversion-and-requiredmaximumversion-managed-settings-claude|Added requiredMinimumVersion and requiredMaximumVersion managed settings — C]]
@@ -1080,7 +1080,7 @@ No reviewed capability turning points assigned yet. The archive below is chronol
 - 2026-10-02 account-access: [[Changes/Claude Code/2026-10-02-added-a-re-authenticate-prompt-when-an-mcp-server-asks-for-more-oauth-scope-duri|Added a re-authenticate prompt when an MCP server asks for more OAuth scope duri]]
 - 2026-10-02 developer-workflow: [[Changes/Claude Code/2026-10-02-added-a-built-in-gh-api-to-cloud-sessions-whose-image-has-no-github-cli-and-fixe|Added a built-in gh api to cloud sessions whose image has no GitHub CLI, and f]]
 - 2026-10-02 developer-workflow: [[Changes/Claude Code/2026-10-02-added-max-findings-n-all-to-code-review-to-report-more-or-fewer-findings-than-th|Added --max-findings n / all to /code-review to report more or fewer findings]]
-- 2026-10-02 interface-experience: [[Changes/Claude Code/2026-10-02-added-ui-selection-for-mods-returns-the-text-you-last-selected-in-fullscreen-mod|Added USD .ui.selection() for mods: returns the text you last selected in fullscr]]
+- 2026-10-02 interface-experience: [[Changes/Claude Code/2026-10-02-added-ui-selection-for-mods-returns-the-text-you-last-selected-in-fullscreen-mod|Added $.ui.selection() for mods: returns the text you last selected in fullscr]]
 - 2026-10-03 apps-integrations: [[Changes/Claude Code/2026-10-03-added-agent-spawn-for-teammates-one-agent-id-across-plugin-hook-events-and-idle|Added agent.spawn for teammates, one agent id across plugin hook events, and i]]
 - 2026-10-03 apps-integrations: [[Changes/Claude Code/2026-10-03-improved-how-quickly-large-files-open-in-a-plugin-code-pane-by-laying-the-highli|Improved how quickly large files open in a plugin code pane by laying the highli]]
 - 2026-10-05 apps-integrations: [[Changes/Claude Code/2026-10-05-added-themekey-and-color-types-to-the-plugin-hooks-typings-so-an-editor-lists-th|Added ThemeKey and Color types to the plugin hooks typings, so an editor lis]]
@@ -1090,7 +1090,7 @@ No reviewed capability turning points assigned yet. The archive below is chronol
 - 2026-10-06 editor-experience: [[Changes/Claude Code/2026-10-06-added-prompt-autocomplete-an-event-a-mod-hooks-to-add-its-own-rows-to-the-prompt|Added prompt.autocomplete, an event a mod hooks to add its own rows to the pro]]
 - 2026-10-06 apps-integrations: [[Changes/Claude Code/2026-10-06-added-marketplace-source-to-claude-plugin-install-adds-the-marketplace-if-needed|Added --marketplace source to claude plugin install: adds the marketplace]]
 - 2026-10-06 agent-mode: [[Changes/Claude Code/2026-10-06-added-an-effort-parameter-to-the-agent-tool-so-claude-runs-a-sub-agent-at-the-ef|Added an effort parameter to the Agent tool, so Claude runs a sub-agent at the]]
-- 2026-10-06 model-support: [[Changes/Claude Code/2026-10-06-added-prompt-caching-to-model-complete-for-mods-prompt-and-system-take-blocks-of|Added prompt caching to USD .model.complete for mods: prompt and system take]]
+- 2026-10-06 model-support: [[Changes/Claude Code/2026-10-06-added-prompt-caching-to-model-complete-for-mods-prompt-and-system-take-blocks-of|Added prompt caching to $.model.complete for mods: prompt and system take]]
 - 2026-10-07 model-support: [[Changes/Claude Code/2026-10-07-added-claude-haiku-5-5-claude-haiku-5-5-now-the-default-haiku-model-on-the-anthr|Added Claude Haiku 5.5 (claude-haiku-5-5), now the default Haiku model on the]]
 - 2026-10-07 safety-privacy: [[Changes/Claude Code/2026-10-07-fixed-claude-being-told-to-continue-or-message-subagents-with-sendmessage-in-ses|Fixed Claude being told to continue or message subagents with SendMessage in s]]
 - 2026-10-07 safety-privacy: [[Changes/Claude Code/2026-10-07-fixed-claude-agents-offering-bypass-permissions-that-background-sessions-then-ig|Fixed claude agents offering bypass permissions that background sessions then]]
@@ -1104,10 +1104,10 @@ No reviewed capability turning points assigned yet. The archive below is chronol
 - 2026-10-09 mobile-desktop: [[Changes/Claude Code/2026-10-09-added-a-code-key-to-the-claude-apps-gateway-s-managed-policies-the-same-settings|Added a code key to the Claude apps gateway's managed.policies: the same s]]
 - 2026-10-09 agent-mode: [[Changes/Claude Code/2026-10-09-added-claude-code-workflow-subagent-model-to-run-every-workflow-agent-on-one-mod|Added CLAUDE_CODE_WORKFLOW_SUBAGENT_MODEL to run every workflow agent on one m]]
 - 2026-10-09 context-window: [[Changes/Claude Code/2026-10-09-added-autocompactwindow-to-subagent-frontmatter-and-agents-definitions-so-a-suba|Added autoCompactWindow to subagent frontmatter and --agents definitions, so]]
-- 2026-10-14 file-data: [[Changes/Claude Code/2026-10-14-added-prompt-media-so-a-prompt-submit-hook-of-a-mod-installed-by-managed-setting|Added USD .prompt.media so a prompt.submit hook of a mod installed by managed s]]
+- 2026-10-14 file-data: [[Changes/Claude Code/2026-10-14-added-prompt-media-so-a-prompt-submit-hook-of-a-mod-installed-by-managed-setting|Added $.prompt.media so a prompt.submit hook of a mod installed by managed s]]
 - 2026-10-14 context-window: [[Changes/Claude Code/2026-10-14-added-cache-creation-5m-tokens-and-cache-creation-1h-tokens-to-the-opentelemetry|Added cache_creation_5m_tokens and cache_creation_1h_tokens to the OpenTelem]]
 - 2026-10-14 developer-workflow: [[Changes/Claude Code/2026-10-14-added-a-dir-prop-on-a-mod-s-text-for-right-to-left-text-on-windows-and-in-vs-cod|Added a dir prop on a mod's Text for right-to-left text: on Windows and in V]]
-- 2026-10-14 agent-mode: [[Changes/Claude Code/2026-10-14-added-ui-view-agentid-for-mods-shows-an-agent-s-transcript-in-the-main-view-when|Added USD .ui.view({ agentId }) for mods: shows an agent's transcript in the main]]
+- 2026-10-14 agent-mode: [[Changes/Claude Code/2026-10-14-added-ui-view-agentid-for-mods-shows-an-agent-s-transcript-in-the-main-view-when|Added $.ui.view({ agentId }) for mods: shows an agent's transcript in the main]]
 - 2026-10-14 context-window: [[Changes/Claude Code/2026-10-14-added-claude-code-idle-compact-min-tokens-to-change-idle-compaction-s-200k-token|Added CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS to change idle compaction's 200K-tok]]
 - 2026-10-14 developer-workflow: [[Changes/Claude Code/2026-10-14-added-idle-compaction-in-the-terminal-a-200k-token-conversation-left-idle-for-ab|Added idle compaction in the terminal: a 200K+ token conversation left idle for]]
 <!-- chronolog:end -->

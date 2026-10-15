@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 9c5afda27402143cb98e5a510747499c7c8eb08300753469e8dd1473434becee
+machine_hash: 080c7964980474f72585f514a37d5086301aacee9f37a70a85f7dca3883a0fdb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -66,7 +66,7 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-a-new-pro-plan-with-astra-ultrafast-f0c84e90|chatgpt-2026-09-29-a-new-pro-plan-with-astra-ultrafast-f0c84e90]]'
 source_type: chatgpt_changelog
 theme: pricing-model
-title: We’re introducing Pro 500, a new USD 500/month plan with the highest included
+title: We’re introducing Pro 500, a new $500/month plan with the highest included
   usage
 type: change
 ---

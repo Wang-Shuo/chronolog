@@ -1,7 +1,7 @@
 ---
 created: '2023-03-23'
 date: '2026-10-13'
-machine_hash: 915a9e89dc1acaab46ab2f8cd3cd2f09f6a5a6b45872c34e6671243a5bc74486
+machine_hash: 066006cc7cfd89f2cd182695ffe66baa4ffd26c327c722ae1ad4d9aac3f83591
 modified: '2026-10-13'
 products_involved:
 - ChatGPT
@@ -207,7 +207,7 @@ Scope: tracked-products-only. Entries show same-theme chronology; they do not es
 - 2026-03-19 · Claude Code: [[Changes/Claude Code/2026-03-19-added-cli-tool-usage-detection-to-plugin-tips-in-addition-to-file-pattern-matchi|Added CLI tool usage detection to plugin tips, in addition to file pattern match]]
 - 2026-03-19 · Claude Code: [[Changes/Claude Code/2026-03-19-added-channels-research-preview-allow-mcp-servers-to-push-messages-into-your-ses|Added --channels (research preview) — allow MCP servers to push messages into]]
 - 2026-03-19 · Claude Code: [[Changes/Claude Code/2026-03-19-added-source-settings-plugin-marketplace-source-declare-plugin-entries-inline-in|Added source: 'settings' plugin marketplace source — declare plugin entries in]]
-- 2026-03-17 · Claude Code: [[Changes/Claude Code/2026-03-17-added-claude-plugin-data-variable-for-plugin-persistent-state-that-survives-plug|Added USD {CLAUDE_PLUGIN_DATA} variable for plugin persistent state that survives]]
+- 2026-03-17 · Claude Code: [[Changes/Claude Code/2026-03-17-added-claude-plugin-data-variable-for-plugin-persistent-state-that-survives-plug|Added ${CLAUDE_PLUGIN_DATA} variable for plugin persistent state that survives]]
 - 2026-03-17 · Claude Code: [[Changes/Claude Code/2026-03-17-added-effort-maxturns-and-disallowedtools-frontmatter-support-for-plugin-shipped|Added effort, maxTurns, and disallowedTools frontmatter support for plugin]]
 - 2026-03-17 · Claude Code: [[Changes/Claude Code/2026-03-17-added-stopfailure-hook-event-that-fires-when-the-turn-ends-due-to-an-api-error-r|Added StopFailure hook event that fires when the turn ends due to an API error]]
 - 2026-03-14 · Claude Code: [[Changes/Claude Code/2026-03-14-added-mcp-elicitation-support-mcp-servers-can-now-request-structured-input-mid-t|Added MCP elicitation support — MCP servers can now request structured input mid]]

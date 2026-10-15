@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: paradigm-shift
-machine_hash: ff8a5a9abbec406d167b26eed1053ff267a4d373ab53974babcc007f22d3f509
+machine_hash: b5906c2f5d1e103fcbca14f08ef1eb54ad1aa88ad7ae9da567ef0321cfb41914
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,8 +47,8 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0|claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0]]'
 source_type: github_releases
 theme: agent-mode
-title: 'Added USD .ui.view({ agentId }) for mods: shows an agent''s transcript in
-  the main'
+title: 'Added $.ui.view({ agentId }) for mods: shows an agent''s transcript in the
+  main'
 type: change
 ---
 

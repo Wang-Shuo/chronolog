@@ -1,0 +1,25 @@
+
+> chronolog@0.1.0 build
+> quartz build --directory /var/folders/l_/zfv9sxqn3v16__82whff46ym0000gp/T/chronolog-build-09rypvzh/vault --output /Users/wangshuo/SideProjects/chronolog/_pipeline/dollar-title-replay-20261015/site
+
+
+[42m[30m Quartz v0.1.0 [39m[49m 
+
+(node:64976) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Cleaned output directory `/Users/wangshuo/SideProjects/chronolog/_pipeline/dollar-title-replay-20261015/site` in [33m3ms[39m
+Found 3141 input files from `/var/folders/l_/zfv9sxqn3v16__82whff46ym0000gp/T/chronolog-build-09rypvzh/vault` in [33m128ms[39m
+Parsing input files using 4 threads
+(node:64976) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:64976) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:64976) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:64976) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Parsed 3141 Markdown files in [33m7s[39m
+Filtered out 373 files in [33m4ms[39m
+Emitting files
+Emitted 2794 files to `/Users/wangshuo/SideProjects/chronolog/_pipeline/dollar-title-replay-20261015/site` in [33m4s[39m
+[32mDone processing 3141 files in [33m12s[39m[39m

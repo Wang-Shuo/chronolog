@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: ddd98444d58880fbcb5fd321fadb6823ad4b27e2df38d687856fc696ce358ac7
+machine_hash: b1ae5a6aadb96793b6a71908d5e1f5a71a3873d76dcbf579800fc4056342cebf
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,7 +47,7 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab|claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab]]'
 source_type: github_releases
 theme: model-support
-title: 'Added prompt caching to USD .model.complete for mods: prompt and system take'
+title: 'Added prompt caching to $.model.complete for mods: prompt and system take'
 type: change
 ---
 

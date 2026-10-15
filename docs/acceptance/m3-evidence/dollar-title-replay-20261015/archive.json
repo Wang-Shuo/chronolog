@@ -1,0 +1,17 @@
+{
+  "kind": "local-rendering-repair-replay",
+  "baseline_commit": "0940c9a8bd832b8a029e0fa6ea0e988cba45921e",
+  "input_kind": "replay",
+  "input_archive": "../live-generation-38668187171/generation/collection.json.gz",
+  "input_sha256": "d486934b507f33f9a6652cb1fa8a46ebdcbbd306872bb931ba5340cb55800731",
+  "files": {
+    "build.log": "874f05f7bd725afc6ca2d1406bc2ae9af71d59455d34c7d7f606855a5a485b79",
+    "dollar-rendering.json": "3161a2d92f94b2b905aa00d99610aaf97c8e3bb6c9f9b5688a74db609d7325d4",
+    "publication.json": "3d881072bf8086cb8344b7fac2837981ee5048b59638eb7796159ec7337ab68a",
+    "quality.json": "afdea06b0fea16789dd5b9f37271c6bc9ec8de05bc593ff67e9ae1a8e09dd9b9",
+    "quality.md": "1250fab18395bf003381dba93263f963239f567a4dbd4e1b263c7e20fdc0a1fc",
+    "tests.log": "58eabd0d9dfd5d266cde873ba38a6b7eff67b5b7481ba840564d91a003d0f6c0",
+    "vault-validation.json": "214ce265df60c136dffb8f2f67bae1e56e14c2f6f6d0c5b570758a0373280d64",
+    "verify_rendering.py": "98aef5766a5678dbf53b7652d3648dfa68bb62ba41175894f9d5d46f1243d22a"
+  }
+}

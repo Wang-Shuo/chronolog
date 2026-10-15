@@ -13,7 +13,7 @@ coverage:
   url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 created: '2022-12-15'
 date: '2026-10-07'
-machine_hash: cf4e3656702480645f73d5e19b40aaf5053ce1879869e8f1a8df70c64fefe3c5
+machine_hash: 16b72c1527b7fda06ca4831c268025fec496f929ffbe8c86e9a9bba4a264c67b
 modified: '2026-10-07'
 product: chatgpt
 product_name: ChatGPT
@@ -754,10 +754,10 @@ Work explicitly handles longer tasks across apps and files and produces finished
 - 2026-03-27 apps-integrations: [[Changes/ChatGPT/2026-03-27-we-re-rolling-out-updated-box-notion-linear-and-dropbox-apps-in-chatgpt-these-up-9f6ee9|We’re rolling out updated Box, Notion, Linear, and Dropbox apps in ChatGPT. Thes]]
 - 2026-04-02 mobile-desktop: [[Changes/ChatGPT/2026-04-02-we-re-rolling-out-chatgpt-in-carplay-giving-you-access-to-a-hands-free-chatgpt-e|We’re rolling out ChatGPT in CarPlay, giving you access to a hands-free ChatGPT]]
 - 2026-04-08 search-browsing: [[Changes/ChatGPT/2026-04-08-the-outlook-email-and-calendar-apps-for-chatgpt-can-now-help-with-delegated-or-s|The Outlook Email and Calendar apps for ChatGPT can now help with delegated or s]]
-- 2026-04-09 pricing-model: [[Changes/ChatGPT/2026-04-09-pro-100-month-built-for-longer-high-intensity-codex-sessions-it-includes-unlimit|Pro (USD 100/month): Built for longer, high-intensity Codex sessions. It includes u]]
-- 2026-04-09 pricing-model: [[Changes/ChatGPT/2026-04-09-we-re-introducing-a-new-100-month-pro-plan-and-updating-how-codex-usage-works-ac|We’re introducing a new USD 100/month Pro plan and updating how Codex usage works a]]
-- 2026-04-09 pricing-model: [[Changes/ChatGPT/2026-04-09-plus-20-month-plus-remains-best-for-steady-day-to-day-use-as-the-temporary-codex|Plus (USD 20/month): Plus remains best for steady, day-to-day use. As the temporary]]
-- 2026-04-09 pricing-model: [[Changes/ChatGPT/2026-04-09-pro-200-month-our-highest-usage-option-remains-available-and-continues-on-its-cu|Pro (USD 200/month): Our highest-usage option remains available and continues on it]]
+- 2026-04-09 pricing-model: [[Changes/ChatGPT/2026-04-09-pro-100-month-built-for-longer-high-intensity-codex-sessions-it-includes-unlimit|Pro ($100/month): Built for longer, high-intensity Codex sessions. It includes u]]
+- 2026-04-09 pricing-model: [[Changes/ChatGPT/2026-04-09-we-re-introducing-a-new-100-month-pro-plan-and-updating-how-codex-usage-works-ac|We’re introducing a new $100/month Pro plan and updating how Codex usage works a]]
+- 2026-04-09 pricing-model: [[Changes/ChatGPT/2026-04-09-plus-20-month-plus-remains-best-for-steady-day-to-day-use-as-the-temporary-codex|Plus ($20/month): Plus remains best for steady, day-to-day use. As the temporary]]
+- 2026-04-09 pricing-model: [[Changes/ChatGPT/2026-04-09-pro-200-month-our-highest-usage-option-remains-available-and-continues-on-its-cu|Pro ($200/month): Our highest-usage option remains available and continues on it]]
 - 2026-04-09 pricing-model: [[Changes/ChatGPT/2026-04-09-you-can-upgrade-switch-or-cancel-your-plan-from-settings-my-plan-or-from-the-pri|You can upgrade, switch, or cancel your plan from Settings  My Plan or from the]]
 - 2026-04-09 model-support: [[Changes/ChatGPT/2026-04-09-today-we-re-releasing-gpt-5-3-instant-mini-in-chatgpt-it-replaces-gpt-5-instant|Today, we’re releasing GPT-5.3 Instant Mini in ChatGPT. It replaces GPT-5 Instan]]
 - 2026-04-16 enterprise-admin: [[Changes/ChatGPT/2026-04-16-we-re-beginning-to-roll-out-ads-for-users-on-free-and-go-plans-in-australia-new|We're beginning to roll out ads for users on Free and Go plans in Australia, New]]
@@ -913,7 +913,7 @@ Work explicitly handles longer tasks across apps and files and produces finished
 - 2026-09-08 mobile-desktop: [[Changes/ChatGPT/2026-09-08-edit-and-comment-on-mobile-open-a-generated-image-full-screen-to-edit-it-or-add|Edit and comment. On mobile, open a generated image full-screen to edit it or ad]]
 - 2026-09-08 mobile-desktop: [[Changes/ChatGPT/2026-09-08-turn-a-sketch-into-an-image-on-mobile-type-in-the-message-box-and-select-sketch|Turn a sketch into an image. On mobile, type @ in the message box and select Ske]]
 - 2026-09-09 model-support: [[Changes/ChatGPT/2026-09-09-chatgpt-voice-can-now-use-gpt-5-6-or-gpt-6-astra-when-it-needs-to-search-or-reas|ChatGPT Voice can now use GPT-5.6 or GPT-6 Astra when it needs to search or reas]]
-- 2026-09-09 pricing-model: [[Changes/ChatGPT/2026-09-09-pro-100-month-up-to-15-hours-with-gpt-live-1|Pro (USD 100/month): Up to 15 hours with GPT-Live-1.]]
+- 2026-09-09 pricing-model: [[Changes/ChatGPT/2026-09-09-pro-100-month-up-to-15-hours-with-gpt-live-1|Pro ($100/month): Up to 15 hours with GPT-Live-1.]]
 - 2026-09-09 collaboration: [[Changes/ChatGPT/2026-09-09-share-with-specific-people-invite-recipients-and-assign-viewer-or-editor-access|Share with specific people. Invite recipients and assign Viewer or Editor access]]
 - 2026-09-09 collaboration: [[Changes/ChatGPT/2026-09-09-manage-access-review-who-has-access-change-permissions-or-remove-access-from-the|Manage access. Review who has access, change permissions, or remove access from]]
 - 2026-09-09 collaboration: [[Changes/ChatGPT/2026-09-09-find-and-use-shared-content-access-items-in-shared-with-me-and-use-shared-files|Find and use shared content. Access items in Shared with me and use shared files]]
@@ -939,13 +939,13 @@ Work explicitly handles longer tasks across apps and files and produces finished
 - 2026-09-25 safety-privacy: [[Changes/ChatGPT/2026-09-25-we-re-introducing-security-history-a-new-way-to-review-recent-security-activity|We’re introducing security history, a new way to review recent security activity]]
 - 2026-09-25 safety-privacy: [[Changes/ChatGPT/2026-09-25-to-view-your-history-in-chatgpt-on-the-web-go-to-settings-security-and-login-the|To view your history in ChatGPT on the web, go to Settings  Security and login,]]
 - 2026-09-28 editor-experience: [[Changes/ChatGPT/2026-09-28-you-can-now-select-a-chart-metric-or-record-in-the-health-tab-to-get-personalize|You can now select a chart, metric, or record in the Health tab to get personali]]
-- 2026-09-29 pricing-model: [[Changes/ChatGPT/2026-09-29-pro-200-is-available-for-new-subscriptions-again-at-200-month|Pro 200 is available for new subscriptions again at USD 200/month.]]
+- 2026-09-29 pricing-model: [[Changes/ChatGPT/2026-09-29-pro-200-is-available-for-new-subscriptions-again-at-200-month|Pro 200 is available for new subscriptions again at $200/month.]]
 - 2026-09-29 apps-integrations: [[Changes/ChatGPT/2026-09-29-plugins-can-now-include-interactive-panels-sidebar-views-and-viewers-or-editors|Plugins can now include interactive panels, sidebar views, and viewers or editor]]
 - 2026-09-29 enterprise-admin: [[Changes/ChatGPT/2026-09-29-profile-sharing-and-the-sites-showcase-are-available-on-web-and-desktop-in-busin|Profile sharing and the Sites showcase are available on web and desktop. In Busi]]
 - 2026-09-29 collaboration: [[Changes/ChatGPT/2026-09-29-space-brings-your-pages-files-and-related-work-together-in-chatgpt-create-a-spac|Space brings your Pages, files, and related work together in ChatGPT. Create a s]]
 - 2026-09-29 pricing-model: [[Changes/ChatGPT/2026-09-29-included-usage-allowances-are-changing-users-affected-by-these-changes-will-rece|Included usage allowances are changing. Users affected by these changes will rec]]
 - 2026-09-29 model-support: [[Changes/ChatGPT/2026-09-29-for-availability-and-model-selection-see-chatgpt-work-and-codex|For availability and model selection, see: ChatGPT Work and Codex.]]
-- 2026-09-29 pricing-model: [[Changes/ChatGPT/2026-09-29-we-re-introducing-pro-500-a-new-500-month-plan-with-the-highest-included-usage-o|We’re introducing Pro 500, a new USD 500/month plan with the highest included usage]]
+- 2026-09-29 pricing-model: [[Changes/ChatGPT/2026-09-29-we-re-introducing-pro-500-a-new-500-month-plan-with-the-highest-included-usage-o|We’re introducing Pro 500, a new $500/month plan with the highest included usage]]
 - 2026-09-29 memory: [[Changes/ChatGPT/2026-09-29-pages-follow-space-s-availability-and-sharing-settings-sharing-a-page-does-not-g|Pages follow Space’s availability and sharing settings. Sharing a Page does not]]
 - 2026-09-29 automation-scheduling: [[Changes/ChatGPT/2026-09-29-site-owners-can-also-create-recurring-cloud-schedules-from-automations-these-upd|Site owners can also create recurring cloud schedules from Automations. These up]]
 - 2026-09-29 mobile-desktop: [[Changes/ChatGPT/2026-09-29-site-owners-and-editors-on-plus-and-pro-can-select-edit-site-from-a-published-si|Site owners and editors on Plus and Pro can select Edit site from a published Si]]

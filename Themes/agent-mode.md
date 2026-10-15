@@ -1,7 +1,7 @@
 ---
 created: '2023-07-06'
 date: '2026-10-14'
-machine_hash: 8da6bf46ae9eccafd4294b73cf1561b03b4fdc8786e172b0563da47a1d2a5d55
+machine_hash: 3cadf11a49dbb124a6086350dbe65530df92335524661a40ec929d5324e70dc9
 modified: '2026-10-14'
 products_involved:
 - ChatGPT
@@ -37,7 +37,7 @@ Scope: tracked-products-only. Entries show same-theme chronology; they do not es
 
 ### 2026
 
-- 2026-10-14 · Claude Code: [[Changes/Claude Code/2026-10-14-added-ui-view-agentid-for-mods-shows-an-agent-s-transcript-in-the-main-view-when|Added USD .ui.view({ agentId }) for mods: shows an agent's transcript in the main]]
+- 2026-10-14 · Claude Code: [[Changes/Claude Code/2026-10-14-added-ui-view-agentid-for-mods-shows-an-agent-s-transcript-in-the-main-view-when|Added $.ui.view({ agentId }) for mods: shows an agent's transcript in the main]]
 - 2026-10-09 · Claude Code: [[Changes/Claude Code/2026-10-09-added-claude-code-workflow-subagent-model-to-run-every-workflow-agent-on-one-mod|Added CLAUDE_CODE_WORKFLOW_SUBAGENT_MODEL to run every workflow agent on one m]]
 - 2026-10-07 · Claude Code: [[Changes/Claude Code/2026-10-07-added-agenttype-to-the-subagentstatusline-payload-so-scripts-can-tell-custom-sub|Added agentType to the subagentStatusLine payload, so scripts can tell custo]]
 - 2026-10-06 · Cursor: [[Changes/Cursor/2026-10-06-remote-control-doesn-t-move-your-agents-anywhere-it-keeps-running-on-your-comput|Remote control doesn't move your agents anywhere. It keeps running on your compu]]
