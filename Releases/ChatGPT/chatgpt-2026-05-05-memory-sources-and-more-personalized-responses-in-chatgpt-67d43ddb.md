@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2026-05-05'
-machine_hash: d8848b5c73452eac4df2e77efd95c3082052792b06494f3e341e86b6eb58c97d
+description: 'ChatGPT release Memory sources and more personalized responses in ChatGPT
+  on 2026-05-05: 1 tracked change across Memory and Personalization'
+machine_hash: eb421da39f6ae71c81e418bcde2d3be805c1f39ec5f92976e01e1903b04d5695
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 1
   date: '2026-05-05'
   product: chatgpt
   product_name: ChatGPT
@@ -25,22 +28,24 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Memory sources and more personalized responses in ChatGPT
+title: ChatGPT · Memory sources and more personalized responses in ChatGPT
 version: Memory sources and more personalized responses in ChatGPT
 ---
 
-# ChatGPT Memory sources and more personalized responses in ChatGPT
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Memory sources and more personalized responses in ChatGPT
+
+**ChatGPT** · 2026-05-05 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Starting today, we’re rolling out memory improvements to ChatGPT Plus and Pro users that make responses more personalized, useful, and continuous over time. ChatGPT can now better pull in relevant context from your past chats, saved memories, and, where available, files and connected Gmail app to offer more tailored…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- memory: [[Changes/ChatGPT/2026-05-05-starting-today-we-re-rolling-out-memory-improvements-to-chatgpt-plus-and-pro-use|Starting today, we’re rolling out memory improvements to ChatGPT Plus and Pro users…]]
+- [[Changes/ChatGPT/2026-05-05-starting-today-we-re-rolling-out-memory-improvements-to-chatgpt-plus-and-pro-use|Starting today, we’re rolling out memory improvements to ChatGPT Plus and Pro users…]] · Memory and Personalization
 <!-- chronolog:end -->

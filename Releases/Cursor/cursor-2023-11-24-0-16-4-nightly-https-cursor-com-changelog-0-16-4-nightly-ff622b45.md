@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2023-11-24'
-machine_hash: 9f5b2ce7eca10fbe2b440223c10e8cbf263d3ebb64c74f352263bd24d9a17536
+description: 'Cursor release @folder on 2023-11-24: 1 tracked change across Context
+  Window'
+machine_hash: a6f53889490e72da2b39a7e559c5b109df748ef38c9617d8dc667b338faa837e
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2023-11-24'
   product: cursor
   product_name: Cursor
@@ -22,22 +25,24 @@ source_url: https://cursor.com/changelog/0-16-4-nightly
 tags:
 - release
 - cursor
-title: Cursor — @folder
+title: Cursor · @folder
 version: 0.16.4-nightly
 ---
 
-# Cursor @folder
+<!-- chronolog:begin region="header" -->
+# Cursor · @folder
+
+**Cursor** · 2023-11-24 · [Official release notes](https://cursor.com/changelog/0-16-4-nightly)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 You can now @folder in the chat to chat with a folder. Let us know what you think!
 
-[Official release notes](https://cursor.com/changelog/0-16-4-nightly)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- context-window: [[Changes/Cursor/2023-11-24-you-can-now-folder-in-the-chat-to-chat-with-a-folder-let-us-know-what-you-think|@folder in the chat to chat with a folder]]
+- [[Changes/Cursor/2023-11-24-you-can-now-folder-in-the-chat-to-chat-with-a-folder-let-us-know-what-you-think|@folder in the chat to chat with a folder]] · Context Window
 <!-- chronolog:end -->

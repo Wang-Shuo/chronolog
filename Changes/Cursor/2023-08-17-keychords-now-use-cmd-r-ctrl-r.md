@@ -1,8 +1,10 @@
 ---
 card_id: cursor-2023-08-17-0cf9da
 date: '2023-08-17'
+description: 'Cursor · 2023-08-17 · Interface Experience: Keychords now use Cmd+R/Ctrl+R.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
+    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 220
   relation: same-theme-chronology
@@ -13,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6d6da71344529cb199813cf96f95c4c8d76f2f7418f2f9fb50e051faf8e2daf2
+machine_hash: 8e5831a1d5f699bda0340381f4b97eb7c4163bf4f03e5fc0beb0cdf50dd10484
 product: cursor
 product_name: Cursor
 record:
@@ -37,9 +39,12 @@ record:
   title: Keychords now use Cmd+R/Ctrl+R
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-07-chat-edit-tooltip-blocks-less-code|cursor-2023-07-07-1407d3]]'
-- '[[Changes/Cursor/2023-07-07-better-symbol-keyboard-ergonomics|cursor-2023-07-07-194f00]]'
-- '[[Changes/Cursor/2023-07-27-c-and-f-now-properly-render-in-the-chat|cursor-2023-07-27-8b3ad9]]'
+- '[[Changes/Cursor/2023-07-07-chat-edit-tooltip-blocks-less-code|Chat/Edit tooltip
+  blocks less code]]'
+- '[[Changes/Cursor/2023-07-07-better-symbol-keyboard-ergonomics|Better @ symbol keyboard
+  ergonomics]]'
+- '[[Changes/Cursor/2023-07-27-c-and-f-now-properly-render-in-the-chat|C♯ and F♯ now
+  properly render in the chat]]'
 source_release: '[[Releases/Cursor/cursor-2023-08-17-0-7-14-nightly-https-cursor-com-changelog-0-7-14-nightly-b6b0c549|cursor-2023-08-17-0-7-14-nightly-https-cursor-com-changelog-0-7-14-nightly-b6b0c549]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -47,10 +52,10 @@ title: Keychords now use Cmd+R/Ctrl+R
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Keychords now use Cmd+R/Ctrl+R
 
-<!-- chronolog:begin region="description" -->
-Cursor — Small improvements: Keychords now use Cmd+R/Ctrl+R.
+**Cursor** · 2023-08-17 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://cursor.com/changelog/0-7-14-nightly) · from [[Releases/Cursor/cursor-2023-08-17-0-7-14-nightly-https-cursor-com-changelog-0-7-14-nightly-b6b0c549|Small improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -59,19 +64,25 @@ Cursor — Small improvements: Keychords now use Cmd+R/Ctrl+R.
 > Source: https://cursor.com/changelog/0-7-14-nightly
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2023-08-17-the-cursor-nightly-command-now-works-on-mac|The cursor-nightly command now works on Mac]] · Developer Workflow
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: interface-experience
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]
-- Lag Days: 220
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Interface Experience
+
+- Earlier: 2023-07-27 · Cursor · [[Changes/Cursor/2023-07-27-c-and-f-now-properly-render-in-the-chat|C♯ and F♯ now properly render in the chat]]
+- Later: 2023-08-21 · Cursor · [[Changes/Cursor/2023-08-21-activity-bar-elements-can-now-be-reordered-with-drag-and-drop|Activity bar elements can now be reordered with drag-and-drop]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2023-08-17-0cf9da&body=Card%3A%20Changes%2FCursor%2F2023-08-17-keychords-now-use-cmd-r-ctrl-r.md%0ACard%20ID%3A%20cursor-2023-08-17-0cf9da%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F0-7-14-nightly%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

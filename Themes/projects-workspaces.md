@@ -1,7 +1,9 @@
 ---
 created: '2022-12-15'
 date: '2026-07-16'
-machine_hash: 8bcf561e1de625294967e248ac8fb740cbaa0754722c327370ed8d0e24aa0ce1
+description: Cross-product timeline of Projects and Workspaces changes in ChatGPT,
+  Claude Code and Cursor.
+machine_hash: 97287b3d8094c004713b7f5b693fc8047e053b85f2f4cd3c336f6e5d24809f49
 modified: '2026-07-16'
 products_involved:
 - ChatGPT
@@ -13,10 +15,12 @@ tags:
 - theme
 - moc
 theme: projects-workspaces
-title: Projects Workspaces
+title: Projects and Workspaces
 ---
 
-# Theme: projects-workspaces
+<!-- chronolog:begin region="header" -->
+# Projects and Workspaces
+<!-- chronolog:end -->
 
 ## Research summary
 <!-- chronolog:begin region="narrative" -->

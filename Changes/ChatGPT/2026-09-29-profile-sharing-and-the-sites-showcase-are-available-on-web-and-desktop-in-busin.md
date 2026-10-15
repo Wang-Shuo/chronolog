@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2026-09-29-0fde0c
 date: '2026-09-29'
+description: 'ChatGPT · 2026-09-29 · Enterprise and Administration: Profile sharing
+  and the Sites showcase are available on web and desktop. In Business workspaces…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|chatgpt-2025-06-12-1cc56f]]'
+  first_in_tracked: '[[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise
+    and Edu rollout coming soon]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 474
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: b40b0c1f501fa1376f076e38d146b1b1688bd203aab70ee76489f0367839d65a
+machine_hash: 189bad2749b67a111a3543a03033efd9450cd353f2ed881a949f88e5c32821cb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,9 +57,12 @@ record:
   title: Profile sharing and the Sites showcase are available on web and desktop
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-09-02-team-pools-are-named-queues-of-workers-for-a-team-or-enterprise-capacity-can-gro|cursor-2026-09-02-4687fa]]'
-- '[[Changes/ChatGPT/2026-09-10-box-dropbox-and-sharepoint-integrations-are-now-rolling-out-to-go-plus-pro-busin|chatgpt-2026-09-10-b97838]]'
-- '[[Changes/Cursor/2026-09-23-both-are-available-today-on-teams-and-enterprise-plans|cursor-2026-09-23-a75ad6]]'
+- '[[Changes/Cursor/2026-09-02-team-pools-are-named-queues-of-workers-for-a-team-or-enterprise-capacity-can-gro|Team
+  pools are named queues of workers for a team or enterprise]]'
+- '[[Changes/ChatGPT/2026-09-10-box-dropbox-and-sharepoint-integrations-are-now-rolling-out-to-go-plus-pro-busin|Box,
+  Dropbox, and SharePoint integrations are now rolling out to Go, Plus, Pro…]]'
+- '[[Changes/Cursor/2026-09-23-both-are-available-today-on-teams-and-enterprise-plans|Both
+  are available today on Teams and Enterprise plans]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-share-your-profile-and-showcase-your-sites-b1579ad3|chatgpt-2026-09-29-share-your-profile-and-showcase-your-sites-b1579ad3]]'
 source_type: chatgpt_changelog
 theme: enterprise-admin
@@ -64,10 +70,10 @@ title: Profile sharing and the Sites showcase are available on web and desktop
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Profile sharing and the Sites showcase are available on web and desktop
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Share your profile and showcase your Sites: Profile sharing and the Sites showcase are available on web and desktop. In Business workspaces, administrators control whether coworkers can view workspace profiles. Enterprise access is coming later.
+**ChatGPT** · 2026-09-29 · [[Themes/enterprise-admin|Enterprise and Administration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-29-share-your-profile-and-showcase-your-sites-b1579ad3|Share your profile and showcase your Sites]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -76,19 +82,25 @@ ChatGPT — Share your profile and showcase your Sites: Profile sharing and the 
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2026-09-29-your-chatgpt-profile-now-brings-together-your-bio-activity-and-sites-you-choose|Your ChatGPT profile now brings together your bio, activity, and Sites you choose…]] · Collaboration
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: enterprise-admin
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|chatgpt-2025-06-12-1cc56f]]
-- Lag Days: 474
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Enterprise and Administration
+
+- Earlier: 2026-09-23 · Cursor · [[Changes/Cursor/2026-09-23-both-are-available-today-on-teams-and-enterprise-plans|Both are available today on Teams and Enterprise plans]]
+- Later: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-dots-are-rolling-out-gradually-to-eligible-pro-and-business-premium-users-aged-1|Dots are rolling out gradually to eligible Pro and Business Premium users aged 18…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise and Edu rollout coming soon]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-29-0fde0c&body=Card%3A%20Changes%2FChatGPT%2F2026-09-29-profile-sharing-and-the-sites-showcase-are-available-on-web-and-desktop-in-busin.md%0ACard%20ID%3A%20chatgpt-2026-09-29-0fde0c%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

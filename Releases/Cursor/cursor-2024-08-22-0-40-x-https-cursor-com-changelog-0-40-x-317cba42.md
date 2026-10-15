@@ -1,10 +1,13 @@
 ---
 changes_count: 4
 date: '2024-08-22'
-machine_hash: 2f71c9d374aa69187cd1b4a78ab673e40dce984d34b80b479520130bb3a94d2d
+description: 'Cursor release New Chat UX, Default-On Composer, New Cursor Tab Model
+  on 2024-08-22: 4 tracked changes across Collaboration, Context Window, Editor Experience…'
+machine_hash: 0a292d8b192fd7a9efbb4d503130478762a34b61aca1392438d47c9df9f6c3ff
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 5
   date: '2024-08-22'
   product: cursor
   product_name: Cursor
@@ -22,25 +25,27 @@ source_url: https://cursor.com/changelog/0-40-x
 tags:
 - release
 - cursor
-title: Cursor — New Chat UX, Default-On Composer, New Cursor Tab Model
+title: Cursor · New Chat UX, Default-On Composer, New Cursor Tab Model
 version: 0.40.x
 ---
 
-# Cursor New Chat UX, Default-On Composer, New Cursor Tab Model
+<!-- chronolog:begin region="header" -->
+# Cursor · New Chat UX, Default-On Composer, New Cursor Tab Model
+
+**Cursor** · 2024-08-22 · [Official release notes](https://cursor.com/changelog/0-40-x)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 We have a new chat UX! Excited for you to try it out and share your thoughts.
 
-[Official release notes](https://cursor.com/changelog/0-40-x)
-
-Tracked cards: 4
+Tracked 4 of 5 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- editor-experience: [[Changes/Cursor/2024-08-22-auto-imports-beta-for-cursor-tab-for-typescript-files-when-tab-suggests-an-unimp|Auto imports (beta) for Cursor Tab for TypeScript files]]
-- context-window: [[Changes/Cursor/2024-08-22-we-ve-also-trained-a-new-cursor-tab-model-that-s-smarter-and-more-context-aware|We've also trained a new Cursor Tab model that's smarter and more context-aware]]
-- interface-experience: [[Changes/Cursor/2024-08-22-we-have-a-new-chat-ux-excited-for-you-to-try-it-out-and-share-your-thoughts|We have a new chat UX!]]
-- collaboration: [[Changes/Cursor/2024-08-22-composer-is-now-default-on-and-available-to-all-pro-business-users-by-hitting-cm|Composer is now default-on and available to all Pro/Business users by hitting cmd+I]]
+- [[Changes/Cursor/2024-08-22-auto-imports-beta-for-cursor-tab-for-typescript-files-when-tab-suggests-an-unimp|Auto imports (beta) for Cursor Tab for TypeScript files]] · Editor Experience
+- [[Changes/Cursor/2024-08-22-we-ve-also-trained-a-new-cursor-tab-model-that-s-smarter-and-more-context-aware|We've also trained a new Cursor Tab model that's smarter and more context-aware]] · Context Window
+- [[Changes/Cursor/2024-08-22-we-have-a-new-chat-ux-excited-for-you-to-try-it-out-and-share-your-thoughts|We have a new chat UX!]] · Interface Experience
+- [[Changes/Cursor/2024-08-22-composer-is-now-default-on-and-available-to-all-pro-business-users-by-hitting-cm|Composer is now default-on and available to all Pro/Business users by hitting cmd+I]] · Collaboration
 <!-- chronolog:end -->

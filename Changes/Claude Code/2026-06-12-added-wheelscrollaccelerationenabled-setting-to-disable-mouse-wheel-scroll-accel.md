@@ -1,8 +1,11 @@
 ---
 card_id: claude-code-2026-06-12-e09c0a
 date: '2026-06-12'
+description: 'Claude Code · 2026-06-12 · Interface Experience: Added `wheelScrollAccelerationEnabled`
+  setting to disable mouse-wheel scroll acceleration in fullscreen mode'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
+    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1250
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 13a0cde85decb0b8c3354e73d2149d417b9519beeb649a4982f3e0c44974e0b5
+machine_hash: 286649c54770b6dfb455e76706a70f234bcc2831c311343301fc770a6565ffd8
 product: claude-code
 product_name: Claude Code
 record:
@@ -37,9 +40,12 @@ record:
   title: Added `wheelScrollAccelerationEnabled` setting to disable mouse-wheel scroll…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-08-table-of-contents-in-longer-conversations-conversations-longer-than-five-respons|chatgpt-2026-06-08-7c23e0]]'
-- '[[Changes/ChatGPT/2026-06-10-we-re-updating-the-model-picker-to-make-it-easier-to-choose-the-balance-of-speed|chatgpt-2026-06-10-b483a0]]'
-- '[[Changes/Claude Code/2026-06-12-added-footerlinksregexes-setting-for-regex-matched-link-badges-in-the-footer-row|claude-code-2026-06-12-7dc248]]'
+- '[[Changes/ChatGPT/2026-06-08-table-of-contents-in-longer-conversations-conversations-longer-than-five-respons|Table
+  of contents in longer conversations]]'
+- '[[Changes/ChatGPT/2026-06-10-we-re-updating-the-model-picker-to-make-it-easier-to-choose-the-balance-of-speed|We’re
+  updating the model picker to make it easier to choose the balance of speed…]]'
+- '[[Changes/Claude Code/2026-06-12-added-footerlinksregexes-setting-for-regex-matched-link-badges-in-the-footer-row|Added
+  footerLinksRegexes setting for regex-matched link badges in the footer row…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-12-v2-1-174-github-338280944-f2fd4f4d|claude-code-2026-06-12-v2-1-174-github-338280944-f2fd4f4d]]'
 source_type: github_releases
 theme: interface-experience
@@ -47,10 +53,10 @@ title: Added wheelScrollAccelerationEnabled setting to disable mouse-wheel scrol
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Added `wheelScrollAccelerationEnabled` setting to disable mouse-wheel scroll…
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.174: Added `wheelScrollAccelerationEnabled` setting to disable mouse-wheel scroll acceleration in fullscreen mode
+**Claude Code** · 2026-06-12 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.174) · from [[Releases/Claude Code/claude-code-2026-06-12-v2-1-174-github-338280944-f2fd4f4d|v2.1.174]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -59,19 +65,25 @@ Claude Code — v2.1.174: Added `wheelScrollAccelerationEnabled` setting to disa
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.174
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-06-12-vscode-added-usage-attribution-to-the-account-usage-dialog-usage-showing-cache-m|VSCode Added usage attribution to the Account & usage dialog (/usage) showing…]] · Context Window
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: interface-experience
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]
-- Lag Days: 1250
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Interface Experience
+
+- Earlier: 2026-06-12 · Claude Code · [[Changes/Claude Code/2026-06-12-added-footerlinksregexes-setting-for-regex-matched-link-badges-in-the-footer-row|Added footerLinksRegexes setting for regex-matched link badges in the footer row…]]
+- Later: 2026-06-17 · ChatGPT · [[Changes/ChatGPT/2026-06-17-a-new-scheduled-page-discoverable-in-the-sidebar-gives-users-one-place-to-view-a|A new Scheduled page, discoverable in the sidebar, gives users one place to view…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-06-12-e09c0a&body=Card%3A%20Changes%2FClaude%20Code%2F2026-06-12-added-wheelscrollaccelerationenabled-setting-to-disable-mouse-wheel-scroll-accel.md%0ACard%20ID%3A%20claude-code-2026-06-12-e09c0a%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.174%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

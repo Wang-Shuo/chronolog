@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2023-09-10-c91c4b
 date: '2023-09-10'
+description: 'Cursor · 2023-09-10 · Context Window: Ask a question about an edit that
+  the model with option+enter, or bring in context from the chat with @chat! An early…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|cursor-2023-05-04-00d3b7]]'
+  first_in_tracked: '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended
+    prompt length for project generation]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 129
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 0b6713ce06d23b6f1590ea03406717cb1d8939b593a0ebd78a917a8e897c48a9
+machine_hash: 0e189ae63fa3d53b5bf960016ee35762de5951cf20832c9606d782c07e7a4b2d
 product: cursor
 product_name: Cursor
 record:
@@ -52,9 +55,12 @@ record:
     context…
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-08-26-have-the-advanced-context-button-show-up-for-non-git-repos|cursor-2023-08-26-3822be]]'
-- '[[Changes/Cursor/2023-08-30-for-with-codebase-chats-you-can-now-see-the-codebase-context-that-cursor-shows-g|cursor-2023-08-30-e21849]]'
-- '[[Changes/Cursor/2023-09-08-you-can-also-paste-a-url-into-the-chat-and-the-model-will-automatically-include|cursor-2023-09-08-9110f3]]'
+- '[[Changes/Cursor/2023-08-26-have-the-advanced-context-button-show-up-for-non-git-repos|Have
+  the advanced context button show up for non git repos]]'
+- '[[Changes/Cursor/2023-08-30-for-with-codebase-chats-you-can-now-see-the-codebase-context-that-cursor-shows-g|For
+  "with codebase" chats, you can now see the codebase context that Cursor shows GPT-4]]'
+- '[[Changes/Cursor/2023-09-08-you-can-also-paste-a-url-into-the-chat-and-the-model-will-automatically-include|You
+  can also paste a url into the chat and the model will automatically include…]]'
 source_release: '[[Releases/Cursor/cursor-2023-09-10-0-10-4-nightly-https-cursor-com-changelog-0-10-4-nightly-5b4d809f|cursor-2023-09-10-0-10-4-nightly-https-cursor-com-changelog-0-10-4-nightly-5b4d809f]]'
 source_type: cursor_changelog
 theme: context-window
@@ -63,10 +69,10 @@ title: Ask a question about an edit that the model with option+enter, or bring i
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Ask a question about an edit that the model with option+enter, or bring in context…
 
-<!-- chronolog:begin region="description" -->
-Cursor — Quick question and @chat in cmd+k: Ask a question about an edit that the model with option+enter, or bring in context from the chat with @chat! An early preview, so please let us know what you think.
+**Cursor** · 2023-09-10 · [[Themes/context-window|Context Window]] · [Official source](https://cursor.com/changelog/0-10-4-nightly) · from [[Releases/Cursor/cursor-2023-09-10-0-10-4-nightly-https-cursor-com-changelog-0-10-4-nightly-5b4d809f|Quick question and @chat in cmd+k]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -75,19 +81,23 @@ Cursor — Quick question and @chat in cmd+k: Ask a question about an edit that 
 > Source: https://cursor.com/changelog/0-10-4-nightly
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: context-window
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|cursor-2023-05-04-00d3b7]]
-- Lag Days: 129
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Context Window
+
+- Earlier: 2023-09-08 · Cursor · [[Changes/Cursor/2023-09-08-you-can-also-paste-a-url-into-the-chat-and-the-model-will-automatically-include|You can also paste a url into the chat and the model will automatically include…]]
+- Later: 2023-11-10 · Cursor · [[Changes/Cursor/2023-11-10-copilot-beta-this-is-an-add-on-to-copilot-that-suggests-diffs-around-your-cursor|Copilot++ (beta): this is an "add-on" to Copilot that suggests diffs around…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended prompt length for project generation]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2023-09-10-c91c4b&body=Card%3A%20Changes%2FCursor%2F2023-09-10-ask-a-question-about-an-edit-that-the-model-with-option-enter-or-bring-in-contex.md%0ACard%20ID%3A%20cursor-2023-09-10-c91c4b%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F0-10-4-nightly%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

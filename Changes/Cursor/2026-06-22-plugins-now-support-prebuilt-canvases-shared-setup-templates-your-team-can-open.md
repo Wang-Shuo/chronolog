@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2026-06-22-5e8870
 date: '2026-06-22'
+description: 'Cursor · 2026-06-22 · Collaboration: Plugins now support prebuilt canvases:
+  shared setup templates your team can open and reuse.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|cursor-2023-09-08-8ba960]]'
+  first_in_tracked: '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams
+    can also share private docs]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1018
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: c8eed8e6a8c5aa4de2bd1ecbc639b86170be5d7d9f927cc5b677e3262a0b0378
+machine_hash: d271a51d9a4c9e34266cdd2be55f38324d42df8119696985283beb047d75c5e4
 product: cursor
 product_name: Cursor
 record:
@@ -50,9 +53,12 @@ record:
     can open and reuse'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-03-a-user-can-belong-to-more-than-one-team-with-a-different-role-in-each-for-curren|cursor-2026-06-03-af2e9e]]'
-- '[[Changes/Cursor/2026-06-04-with-canvases-agents-can-create-interactive-artifacts-like-dashboards-reports-an|cursor-2026-06-04-b7e396]]'
-- '[[Changes/ChatGPT/2026-06-18-world-cup-updates-chatgpt-can-now-help-you-follow-the-tournament-in-a-more-conve|chatgpt-2026-06-18-429264]]'
+- '[[Changes/Cursor/2026-06-03-a-user-can-belong-to-more-than-one-team-with-a-different-role-in-each-for-curren|A
+  user can belong to more than one team, with a different role in each]]'
+- '[[Changes/Cursor/2026-06-04-with-canvases-agents-can-create-interactive-artifacts-like-dashboards-reports-an|With
+  canvases, agents can create interactive artifacts like dashboards, reports…]]'
+- '[[Changes/ChatGPT/2026-06-18-world-cup-updates-chatgpt-can-now-help-you-follow-the-tournament-in-a-more-conve|World
+  Cup updates]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-22-3-9-https-cursor-com-changelog-customize-7ff4b6b2|cursor-2026-06-22-3-9-https-cursor-com-changelog-customize-7ff4b6b2]]'
 source_type: cursor_changelog
 theme: collaboration
@@ -61,10 +67,10 @@ title: 'Plugins now support prebuilt canvases: shared setup templates your team 
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Plugins now support prebuilt canvases: shared setup templates your team can open and reuse
 
-<!-- chronolog:begin region="description" -->
-Cursor — Customize Cursor: Plugins now support prebuilt canvases: shared setup templates your team can open and reuse.
+**Cursor** · 2026-06-22 · [[Themes/collaboration|Collaboration]] · [Official source](https://cursor.com/changelog/customize) · from [[Releases/Cursor/cursor-2026-06-22-3-9-https-cursor-com-changelog-customize-7ff4b6b2|Customize Cursor]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -73,19 +79,28 @@ Cursor — Customize Cursor: Plugins now support prebuilt canvases: shared setup
 > Source: https://cursor.com/changelog/customize
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2026-06-22-you-can-now-add-and-manage-plugins-skills-mcps-subagents-rules-commands-and-hook|Add and manage plugins, skills, MCPs, subagents, rules, commands, and hooks…]] · Apps and Integrations
+- [[Changes/Cursor/2026-06-22-add-any-to-your-setup-with-one-click-from-the-new-customize-page-and-extend-curs|Add any to your setup with one click from the new Customize page and extend Cursor…]] · Apps and Integrations
+- [[Changes/Cursor/2026-06-22-cursor-now-shows-you-a-leaderboard-of-the-most-popular-plugins-skills-and-mcps-a|Cursor now shows you a leaderboard of the most popular plugins, skills, and MCPs…]] · Collaboration
+- [[Changes/Cursor/2026-06-22-plugins-skills-and-mcps-let-you-customize-cursor-for-your-workflows-the-new-cust|Plugins, skills, and MCPs let you customize Cursor for your workflows]] · Apps and Integrations
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: collaboration
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|cursor-2023-09-08-8ba960]]
-- Lag Days: 1018
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Collaboration
+
+- Earlier: 2026-06-18 · ChatGPT · [[Changes/ChatGPT/2026-06-18-world-cup-updates-chatgpt-can-now-help-you-follow-the-tournament-in-a-more-conve|World Cup updates]]
+- Later: 2026-06-30 · Cursor · [[Changes/Cursor/2026-06-30-under-dashboard-plugins-mcps-team-marketplaces-restrict-marketplace-access-to-sp|Under Dashboard - Plugins & MCPs - Team Marketplaces, restrict marketplace access…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-09-08 · Cursor · [[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams can also share private docs]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2026-06-22-5e8870&body=Card%3A%20Changes%2FCursor%2F2026-06-22-plugins-now-support-prebuilt-canvases-shared-setup-templates-your-team-can-open.md%0ACard%20ID%3A%20cursor-2026-06-22-5e8870%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2Fcustomize%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

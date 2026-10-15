@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2025-07-29-6bb48b
 date: '2025-07-29'
+description: 'Cursor · 2025-07-29 · Context Window: At the end of a conversation you
+  can now see how much of the context window is used.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|cursor-2023-05-04-00d3b7]]'
+  first_in_tracked: '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended
+    prompt length for project generation]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 817
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3bd8b9826c311ed9b4817922d25b9442990ca9421665efbc6a51b1d4cfed19fb
+machine_hash: 2ea27504dbf98d6b17ff7d1be05c4d4ec342c5609d2745ff716d574602c0719d
 product: cursor
 product_name: Cursor
 record:
@@ -41,9 +44,12 @@ record:
     is used
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-01-23-summarize-previous-composers-when-conversations-grow-too-long-you-can-start-a-ne|cursor-2025-01-23-94ee00]]'
-- '[[Changes/Cursor/2025-04-15-you-can-now-generate-rules-directly-from-a-conversation-using-the-generate-curso|cursor-2025-04-15-c77526]]'
-- '[[Changes/Cursor/2025-05-15-premium-tool-calls-and-long-context-mode-are-removed-to-keep-it-simple|cursor-2025-05-15-d5b1cd]]'
+- '[[Changes/Cursor/2025-01-23-summarize-previous-composers-when-conversations-grow-too-long-you-can-start-a-ne|Summarize
+  Previous Composers]]'
+- '[[Changes/Cursor/2025-04-15-you-can-now-generate-rules-directly-from-a-conversation-using-the-generate-curso|Generate
+  rules directly from a conversation using the /Generate Cursor Rules command]]'
+- '[[Changes/Cursor/2025-05-15-premium-tool-calls-and-long-context-mode-are-removed-to-keep-it-simple|Premium
+  tool calls and long context mode are removed to keep it simple]]'
 source_release: '[[Releases/Cursor/cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3|cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3]]'
 source_type: cursor_changelog
 theme: context-window
@@ -52,10 +58,10 @@ title: At the end of a conversation you can now see how much of the context wind
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # At the end of a conversation you can now see how much of the context window is used
 
-<!-- chronolog:begin region="description" -->
-Cursor — Shared terminal with Agent, context usage in chat, and faster edits: At the end of a conversation you can now see how much of the context window is used.
+**Cursor** · 2025-07-29 · [[Themes/context-window|Context Window]] · [Official source](https://cursor.com/changelog/1-3) · from [[Releases/Cursor/cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3|Shared terminal with Agent, context usage in chat, and faster edits]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -64,19 +70,27 @@ Cursor — Shared terminal with Agent, context usage in chat, and faster edits: 
 > Source: https://cursor.com/changelog/1-3
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2025-07-29-agent-edits-are-now-faster-by-lazy-loading-linter-errors-search-replace-edit-lat|Agent edits are now faster by lazy loading linter errors]] · Reliability and Performance
+- [[Changes/Cursor/2025-07-29-agents-can-now-use-your-native-terminal-a-new-terminal-will-be-created-when-need|Agents can now use your native terminal]] · Agent Mode
+- [[Changes/Cursor/2025-07-29-active-tab-in-chat|Active Tab in Chat]] · Editor Experience
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: context-window
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|cursor-2023-05-04-00d3b7]]
-- Lag Days: 817
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Context Window
+
+- Earlier: 2025-05-15 · Cursor · [[Changes/Cursor/2025-05-15-premium-tool-calls-and-long-context-mode-are-removed-to-keep-it-simple|Premium tool calls and long context mode are removed to keep it simple]]
+- Later: 2025-08-06 · Cursor · [[Changes/Cursor/2025-08-06-agents-are-significantly-improved-when-operating-across-large-codebases-context|Agents are significantly improved when operating across large codebases]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended prompt length for project generation]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2025-07-29-6bb48b&body=Card%3A%20Changes%2FCursor%2F2025-07-29-at-the-end-of-a-conversation-you-can-now-see-how-much-of-the-context-window-is-u.md%0ACard%20ID%3A%20cursor-2025-07-29-6bb48b%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F1-3%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

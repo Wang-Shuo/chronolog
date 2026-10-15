@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2026-06-04-376176
 date: '2026-06-04'
+description: 'Cursor · 2026-06-04 · Context Window: Cursor can now show your agent''s
+  context usage as an interactive report in a canvas.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|cursor-2023-05-04-00d3b7]]'
+  first_in_tracked: '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended
+    prompt length for project generation]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1127
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: f6a84100f001c2011e594b7127627db99142119a8af562f01953ca5ee34a7a59
+machine_hash: 391a8d2a19632e17a1fb7b27cec0c02e80c02cb6af74afaf813c557b3472c969
 product: cursor
 product_name: Cursor
 record:
@@ -54,9 +57,12 @@ record:
     a canvas
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-11-cursor-automatically-picks-the-right-repository-and-model-based-on-your-prompt-a|cursor-2026-05-11-9965be]]'
-- '[[Changes/Cursor/2026-05-13-compact-chats-give-you-a-tighter-view-of-your-agent-conversations-so-you-can-rea|cursor-2026-05-13-0b8ff5]]'
-- '[[Changes/Claude Code/2026-05-28-claude-now-reserves-the-multiple-choice-question-prompt-for-decisions-it-genuine|claude-code-2026-05-28-e3cabb]]'
+- '[[Changes/Cursor/2026-05-11-cursor-automatically-picks-the-right-repository-and-model-based-on-your-prompt-a|Cursor
+  automatically picks the right repository and model based on your prompt…]]'
+- '[[Changes/Cursor/2026-05-13-compact-chats-give-you-a-tighter-view-of-your-agent-conversations-so-you-can-rea|Compact
+  chats give you a tighter view of your agent conversations so you can read…]]'
+- '[[Changes/Claude Code/2026-05-28-claude-now-reserves-the-multiple-choice-question-prompt-for-decisions-it-genuine|Claude
+  now reserves the multiple-choice question prompt for decisions it genuinely…]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-04-3-7-https-cursor-com-changelog-canvas-improvements-6f42df85|cursor-2026-06-04-3-7-https-cursor-com-changelog-canvas-improvements-6f42df85]]'
 source_type: cursor_changelog
 theme: context-window
@@ -65,10 +71,10 @@ title: Cursor can now show your agent's context usage as an interactive report i
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Cursor can now show your agent's context usage as an interactive report in a canvas
 
-<!-- chronolog:begin region="description" -->
-Cursor — Canvas Design Mode and Context Usage Report: Cursor can now show your agent's context usage as an interactive report in a canvas.
+**Cursor** · 2026-06-04 · [[Themes/context-window|Context Window]] · [Official source](https://cursor.com/changelog/canvas-improvements) · from [[Releases/Cursor/cursor-2026-06-04-3-7-https-cursor-com-changelog-canvas-improvements-6f42df85|Canvas Design Mode and Context Usage Report]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -77,19 +83,28 @@ Cursor — Canvas Design Mode and Context Usage Report: Cursor can now show your
 > Source: https://cursor.com/changelog/canvas-improvements
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2026-06-04-this-release-introduces-design-mode-for-faster-canvas-editing-new-ways-to-unders|Cursor introduces Design Mode for faster canvas editing, new ways to understand…]] · Context Window
+- [[Changes/Cursor/2026-06-04-design-mode-is-now-available-in-canvases|Design Mode is now available in canvases]] · Files and Data
+- [[Changes/Cursor/2026-06-04-the-context-explorer-breaks-down-where-tokens-go-across-the-system-prompt-tool-d|The context explorer breaks down where tokens go across the system prompt, tool…]] · Context Window
+- [[Changes/Cursor/2026-06-04-with-canvases-agents-can-create-interactive-artifacts-like-dashboards-reports-an|With canvases, agents can create interactive artifacts like dashboards, reports…]] · Collaboration
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: context-window
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|cursor-2023-05-04-00d3b7]]
-- Lag Days: 1127
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Context Window
+
+- Earlier: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-claude-now-reserves-the-multiple-choice-question-prompt-for-decisions-it-genuine|Claude now reserves the multiple-choice question prompt for decisions it genuinely…]]
+- Later: 2026-06-08 · Claude Code · [[Changes/Claude Code/2026-06-08-added-cd-command-to-move-a-session-to-a-new-working-directory-without-breaking-t|Added /cd command to move a session to a new working directory without breaking…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended prompt length for project generation]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2026-06-04-376176&body=Card%3A%20Changes%2FCursor%2F2026-06-04-cursor-can-now-show-your-agent-s-context-usage-as-an-interactive-report-in-a-can.md%0ACard%20ID%3A%20cursor-2026-06-04-376176%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2Fcanvas-improvements%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

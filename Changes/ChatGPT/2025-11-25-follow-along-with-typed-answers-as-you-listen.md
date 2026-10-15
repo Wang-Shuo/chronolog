@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2025-11-25-a24f1e
 date: '2025-11-25'
+description: 'ChatGPT · 2025-11-25 · Voice and Audio: Follow along with typed answers
+  as you listen'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|chatgpt-2023-09-25-13666e]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Use
+    voice to engage in a back-and-forth conversation with your assistant]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 792
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4089f2bee85198fc7ba10141b46baa3f7eb93bdd3be95b435d2768b2ee14d1c4
+machine_hash: d34c9762b14266e0be54b8c3370dfb104f8434c5ac1c7ffd1b246fa9d2fd8782
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,9 +41,12 @@ record:
   title: Follow along with typed answers as you listen
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-09-09-last-month-we-announced-that-everyone-now-has-access-to-advanced-voice-mode-with-d861d2|chatgpt-2025-09-09-d861d2]]'
-- '[[Changes/ChatGPT/2025-09-29-turn-off-voice-mode-to-remove-the-option-to-use-voice-mode-in-chatgpt|chatgpt-2025-09-29-9d6772]]'
-- '[[Changes/ChatGPT/2025-11-25-type-back-when-you-can-t-talk-and-still-get-a-voice-response|chatgpt-2025-11-25-38e99e]]'
+- '[[Changes/ChatGPT/2025-09-09-last-month-we-announced-that-everyone-now-has-access-to-advanced-voice-mode-with-d861d2|Last
+  month we announced that everyone now has access to Advanced Voice Mode…]]'
+- '[[Changes/ChatGPT/2025-09-29-turn-off-voice-mode-to-remove-the-option-to-use-voice-mode-in-chatgpt|Turn
+  off voice mode, to remove the option to use voice mode in ChatGPT]]'
+- '[[Changes/ChatGPT/2025-11-25-type-back-when-you-can-t-talk-and-still-get-a-voice-response|Type
+  back when you can’t talk and still get a Voice response]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-25-an-improved-voice-interface-the-audio-you-know-with-text-and-vis-29758d37|chatgpt-2025-11-25-an-improved-voice-interface-the-audio-you-know-with-text-and-vis-29758d37]]'
 source_type: chatgpt_changelog
 theme: voice
@@ -48,10 +54,10 @@ title: Follow along with typed answers as you listen
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Follow along with typed answers as you listen
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — An improved Voice interface: the audio you know, with text and visuals when you need them.: Follow along with typed answers as you listen
+**ChatGPT** · 2025-11-25 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-11-25-an-improved-voice-interface-the-audio-you-know-with-text-and-vis-29758d37|An improved Voice interface: the audio you know, with text and visuals when you need them.]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -60,19 +66,28 @@ ChatGPT — An improved Voice interface: the audio you know, with text and visua
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2025-11-25-type-back-when-you-can-t-talk-and-still-get-a-voice-response|Type back when you can’t talk and still get a Voice response]] · Voice and Audio
+- [[Changes/ChatGPT/2025-11-25-we-re-making-chatgpt-voice-a-seamless-part-of-the-chatgpt-experience-so-you-can-daf32e|We’re making ChatGPT Voice a seamless part of the ChatGPT experience, so you can use…]] · Voice and Audio
+- [[Changes/ChatGPT/2025-11-25-refer-back-to-earlier-messages-without-interrupting-the-conversation|Refer back to earlier messages without interrupting the conversation]] · Voice and Audio
+- [[Changes/ChatGPT/2025-11-25-share-photos-to-discuss-them-out-loud|Share photos to discuss them out loud]] · Collaboration
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: voice
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|chatgpt-2023-09-25-13666e]]
-- Lag Days: 792
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Voice and Audio
+
+- Earlier: 2025-09-29 · ChatGPT · [[Changes/ChatGPT/2025-09-29-turn-off-voice-mode-to-remove-the-option-to-use-voice-mode-in-chatgpt|Turn off voice mode, to remove the option to use voice mode in ChatGPT]]
+- Later: 2025-12-11 · ChatGPT · [[Changes/ChatGPT/2025-12-11-we-re-retiring-the-voice-experience-in-the-chatgpt-macos-app-on-january-15-2026|We’re retiring the Voice experience in the ChatGPT macOS app on January 15, 2026]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Use voice to engage in a back-and-forth conversation with your assistant]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-11-25-a24f1e&body=Card%3A%20Changes%2FChatGPT%2F2025-11-25-follow-along-with-typed-answers-as-you-listen.md%0ACard%20ID%3A%20chatgpt-2025-11-25-a24f1e%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

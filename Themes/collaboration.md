@@ -1,7 +1,9 @@
 ---
 created: '2023-09-08'
 date: '2026-10-13'
-machine_hash: 64222c971537329c1c1e177432e7eb48914bf364fafc1d3944efecf660b58b8a
+description: Cross-product timeline of Collaboration changes in ChatGPT, Claude Code
+  and Cursor.
+machine_hash: bfa79a6b8001475cdd1441fd7512e3f75483dff2ecaeb6ebfb7df0e79fe5f705
 modified: '2026-10-13'
 products_involved:
 - ChatGPT
@@ -16,7 +18,9 @@ theme: collaboration
 title: Collaboration
 ---
 
-# Theme: collaboration
+<!-- chronolog:begin region="header" -->
+# Collaboration
+<!-- chronolog:end -->
 
 ## Research summary
 <!-- chronolog:begin region="narrative" -->

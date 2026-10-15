@@ -1,10 +1,13 @@
 ---
 changes_count: 2
 date: '2026-09-29'
-machine_hash: a4545e27af3c428a7def22cbf679211b5ee9288ae412bc08384474079abeb711
+description: 'ChatGPT release Use your ChatGPT allowance in participating apps on
+  2026-09-29: 2 tracked changes across Apps and Integrations, Model Support'
+machine_hash: 6988c70f472c435ee076f4543927d210dde3ac1a4a4e3c51866a9952424d0463
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 3
   date: '2026-09-29'
   product: chatgpt
   product_name: ChatGPT
@@ -24,23 +27,25 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Use your ChatGPT allowance in participating apps
+title: ChatGPT · Use your ChatGPT allowance in participating apps
 version: Use your ChatGPT allowance in participating apps
 ---
 
-# ChatGPT Use your ChatGPT allowance in participating apps
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Use your ChatGPT allowance in participating apps
+
+**ChatGPT** · 2026-09-29 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Eligible Plus and Pro users can authorize participating apps to use their ChatGPT model allowance without creating an API key. Choose which apps can use your allowance and set an app-specific limit. Usage counts toward your existing plan allowance; connecting an app does not add more usage.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 2
+Tracked 2 of 3 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- apps-integrations: [[Changes/ChatGPT/2026-09-29-this-is-a-limited-preview-with-participating-integrations-using-purchased-credit|This is a limited preview with participating integrations]]
-- model-support: [[Changes/ChatGPT/2026-09-29-eligible-plus-and-pro-users-can-authorize-participating-apps-to-use-their-chatgp|Eligible Plus and Pro users can authorize participating apps to use their ChatGPT…]]
+- [[Changes/ChatGPT/2026-09-29-this-is-a-limited-preview-with-participating-integrations-using-purchased-credit|This is a limited preview with participating integrations]] · Apps and Integrations
+- [[Changes/ChatGPT/2026-09-29-eligible-plus-and-pro-users-can-authorize-participating-apps-to-use-their-chatgp|Eligible Plus and Pro users can authorize participating apps to use their ChatGPT…]] · Model Support
 <!-- chronolog:end -->

@@ -1,10 +1,12 @@
 ---
 changes_count: 0
 date: '2023-06-06'
-machine_hash: 75da88cab9dd7406bc0526ef8301fb063fec287128a7e99e3438e113aa1a7cae
+description: 'Cursor release Codebase Context fixes on 2023-06-06: no tracked changes'
+machine_hash: 9c2f6e2032bb3659ae34882bb0795953a542b4f902873a62104c724fa9703d4f
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2023-06-06'
   product: cursor
   product_name: Cursor
@@ -21,19 +23,21 @@ source_url: https://cursor.com/changelog/0-2-28-0-2-29
 tags:
 - release
 - cursor
-title: Cursor — Codebase Context fixes
+title: Cursor · Codebase Context fixes
 version: 0.2.28-0.2.29
 ---
 
-# Cursor Codebase Context fixes
+<!-- chronolog:begin region="header" -->
+# Cursor · Codebase Context fixes
+
+**Cursor** · 2023-06-06 · [Official release notes](https://cursor.com/changelog/0-2-28-0-2-29)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Hotfixes to v1 of Codebase Context
 
-[Official release notes](https://cursor.com/changelog/0-2-28-0-2-29)
-
-Tracked cards: 0
+Tracked 0 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

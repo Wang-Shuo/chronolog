@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2026-04-16'
-machine_hash: 292d20ed0488af2e1d6dc4277b7143eeb6df55660cc7a850c9b51096e7acf6dc
+description: 'ChatGPT release Rolling out ads in Australia, New Zealand, and Canada
+  on 2026-04-16: 1 tracked change across Enterprise and Administration'
+machine_hash: 416275ad9e61b53ab5c030b24e7d9539c9e5d380ea0d6d2ddbf34edccea01e37
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 1
   date: '2026-04-16'
   product: chatgpt
   product_name: ChatGPT
@@ -23,22 +26,24 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Rolling out ads in Australia, New Zealand, and Canada
+title: ChatGPT · Rolling out ads in Australia, New Zealand, and Canada
 version: Rolling out ads in Australia, New Zealand, and Canada
 ---
 
-# ChatGPT Rolling out ads in Australia, New Zealand, and Canada
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Rolling out ads in Australia, New Zealand, and Canada
+
+**ChatGPT** · 2026-04-16 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 We're beginning to roll out ads for users on Free and Go plans in Australia, New Zealand, and Canada. Plus, Pro, Business, Enterprise, and Education plans do not have ads.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- enterprise-admin: [[Changes/ChatGPT/2026-04-16-we-re-beginning-to-roll-out-ads-for-users-on-free-and-go-plans-in-australia-new|We're beginning to roll out ads for users on Free and Go plans in Australia, New…]]
+- [[Changes/ChatGPT/2026-04-16-we-re-beginning-to-roll-out-ads-for-users-on-free-and-go-plans-in-australia-new|We're beginning to roll out ads for users on Free and Go plans in Australia, New…]] · Enterprise and Administration
 <!-- chronolog:end -->

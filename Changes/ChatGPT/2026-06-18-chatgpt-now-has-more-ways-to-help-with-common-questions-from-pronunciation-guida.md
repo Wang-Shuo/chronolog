@@ -1,8 +1,12 @@
 ---
 card_id: chatgpt-2026-06-18-f650fa
 date: '2026-06-18'
+description: 'ChatGPT · 2026-06-18 · Mobile and Desktop: ChatGPT now has more ways
+  to help with common questions, from pronunciation guidance to World Cup updates.
+  It’s also…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support 🥳]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1192
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0763993f7a3676ee172cb461482bd17945c0e0465424bf0037711d4f542fb491
+machine_hash: fd05edf10a47811c7b10a4eef5cebd5b7a29e27f521c29924443fb342df474e8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -60,9 +64,12 @@ record:
     guidance…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-10-on-ios-and-android-you-can-find-the-picker-at-the-top-of-the-conversation-on-web|chatgpt-2026-06-10-4b01b5]]'
-- '[[Changes/Claude Code/2026-06-17-added-claude-client-presence-file-environment-variable-point-it-at-a-marker-file|claude-code-2026-06-17-197b9f]]'
-- '[[Changes/Cursor/2026-06-17-this-release-introduces-updates-to-cloud-agents-in-the-agents-window-of-the-curs|cursor-2026-06-17-eb2180]]'
+- '[[Changes/ChatGPT/2026-06-10-on-ios-and-android-you-can-find-the-picker-at-the-top-of-the-conversation-on-web|On
+  iOS and Android, you can find the picker at the top of the conversation]]'
+- '[[Changes/Claude Code/2026-06-17-added-claude-client-presence-file-environment-variable-point-it-at-a-marker-file|Added
+  CLAUDE_CLIENT_PRESENCE_FILE environment variable]]'
+- '[[Changes/Cursor/2026-06-17-this-release-introduces-updates-to-cloud-agents-in-the-agents-window-of-the-curs|Cursor
+  introduces updates to cloud agents in the Agents Window of the Cursor desktop app]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -71,10 +78,10 @@ title: ChatGPT now has more ways to help with common questions, from pronunciati
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # ChatGPT now has more ways to help with common questions, from pronunciation guidance…
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — ChatGPT app experience updates: ChatGPT now has more ways to help with common questions, from pronunciation guidance to World Cup updates. It’s also smoother to use, with easier chat organization and sharing, more control over connected apps, and faster photo uploads on iOS, and more.
+**ChatGPT** · 2026-06-18 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -83,19 +90,28 @@ ChatGPT — ChatGPT app experience updates: ChatGPT now has more ways to help wi
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2026-06-18-app-permission-controls-you-can-now-choose-when-chatgpt-asks-before-using-connec|App permission controls: You can now choose when ChatGPT asks before using connected apps]] · Safety and Privacy
+- [[Changes/ChatGPT/2026-06-18-world-cup-updates-chatgpt-can-now-help-you-follow-the-tournament-in-a-more-conve|World Cup updates]] · Collaboration
+- [[Changes/ChatGPT/2026-06-18-easier-pinning-and-sidebar-organization-it-s-now-easier-to-keep-important-work-c|Easier pinning and sidebar organization]] · Interface Experience
+- [[Changes/ChatGPT/2026-06-18-help-with-pronunciations-chatgpt-can-now-include-text-and-audio-pronunciation-gu|Help with pronunciations]] · Voice and Audio
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: mobile-desktop
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]
-- Lag Days: 1192
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Mobile and Desktop
+
+- Earlier: 2026-06-17 · Cursor · [[Changes/Cursor/2026-06-17-this-release-introduces-updates-to-cloud-agents-in-the-agents-window-of-the-curs|Cursor introduces updates to cloud agents in the Agents Window of the Cursor desktop app]]
+- Later: 2026-06-29 · Claude Code · [[Changes/Claude Code/2026-06-29-improved-background-session-reliability-long-running-commands-and-workflows-now|Improved background session reliability]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-18-f650fa&body=Card%3A%20Changes%2FChatGPT%2F2026-06-18-chatgpt-now-has-more-ways-to-help-with-common-questions-from-pronunciation-guida.md%0ACard%20ID%3A%20chatgpt-2026-06-18-f650fa%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

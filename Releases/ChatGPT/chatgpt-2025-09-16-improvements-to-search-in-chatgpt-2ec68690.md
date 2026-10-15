@@ -1,10 +1,13 @@
 ---
 changes_count: 4
 date: '2025-09-16'
-machine_hash: c5aaf792acdf95836e80d44c3ed4cc13050492716e9f087f1003fa594986af82
+description: 'ChatGPT release Improvements to search in ChatGPT on 2025-09-16: 4 tracked
+  changes across Search and Browsing, Interface Experience, Model Support'
+machine_hash: 8c0f204b0f9bd05ba136187a37a2f0f15d3a26dde434abc0caa1ddb88c26c9c5
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 4
   date: '2025-09-16'
   product: chatgpt
   product_name: ChatGPT
@@ -22,25 +25,27 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Improvements to search in ChatGPT
+title: ChatGPT · Improvements to search in ChatGPT
 version: Improvements to search in ChatGPT
 ---
 
-# ChatGPT Improvements to search in ChatGPT
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Improvements to search in ChatGPT
+
+**ChatGPT** · 2025-09-16 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 We’ve made further improvements to search in ChatGPT, making results more accurate, reliable, and useful.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 4
+Tracked 4 of 4 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2025-09-16-factuality-fewer-hallucinations-improving-answer-quality|Factuality: Fewer hallucinations, improving answer quality]]
-- search-browsing: [[Changes/ChatGPT/2025-09-16-we-ve-made-further-improvements-to-search-in-chatgpt-making-results-more-accurat|ChatGPT makes further improvements to search, making results more accurate…]]
-- interface-experience: [[Changes/ChatGPT/2025-09-16-formatting-answers-are-better-formatted-for-quick-understanding-without-losing-d|Formatting: Answers are better formatted for quick understanding without losing…]]
-- search-browsing: [[Changes/ChatGPT/2025-09-16-shopping-search-is-better-at-detecting-shopping-intent-showing-products-when-you|Shopping: Search is better at detecting shopping intent, showing products when you…]]
+- [[Changes/ChatGPT/2025-09-16-factuality-fewer-hallucinations-improving-answer-quality|Factuality: Fewer hallucinations, improving answer quality]] · Model Support
+- [[Changes/ChatGPT/2025-09-16-we-ve-made-further-improvements-to-search-in-chatgpt-making-results-more-accurat|ChatGPT makes further improvements to search, making results more accurate…]] · Search and Browsing
+- [[Changes/ChatGPT/2025-09-16-formatting-answers-are-better-formatted-for-quick-understanding-without-losing-d|Formatting: Answers are better formatted for quick understanding without losing…]] · Interface Experience
+- [[Changes/ChatGPT/2025-09-16-shopping-search-is-better-at-detecting-shopping-intent-showing-products-when-you|Shopping: Search is better at detecting shopping intent, showing products when you…]] · Search and Browsing
 <!-- chronolog:end -->

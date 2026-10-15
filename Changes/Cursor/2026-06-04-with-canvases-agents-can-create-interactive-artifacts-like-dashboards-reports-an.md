@@ -1,8 +1,12 @@
 ---
 card_id: cursor-2026-06-04-b7e396
 date: '2026-06-04'
+description: 'Cursor · 2026-06-04 · Collaboration: With canvases, agents can create
+  interactive artifacts like dashboards, reports, and internal tools that you can
+  share…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|cursor-2023-09-08-8ba960]]'
+  first_in_tracked: '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams
+    can also share private docs]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1000
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 22ecdf085c5890719adc061260927795a5edfeb11088f0e9d4cb180fb39c2412
+machine_hash: 1c3d61e3a6860aecabd98f4dcf17886ff06453f00e59537a055e0e6c10888ea0
 product: cursor
 product_name: Cursor
 record:
@@ -48,9 +52,12 @@ record:
   title: With canvases, agents can create interactive artifacts like dashboards, reports…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-03-an-organization-is-the-top-level-container-for-your-company-s-identity-administr|cursor-2026-06-03-37d95d]]'
-- '[[Changes/Cursor/2026-06-03-groups-are-a-lightweight-collection-of-users-that-can-sit-across-or-within-teams|cursor-2026-06-03-712ba7]]'
-- '[[Changes/Cursor/2026-06-03-a-user-can-belong-to-more-than-one-team-with-a-different-role-in-each-for-curren|cursor-2026-06-03-af2e9e]]'
+- '[[Changes/Cursor/2026-06-03-an-organization-is-the-top-level-container-for-your-company-s-identity-administr|An
+  organization is the top-level container for your company''s identity…]]'
+- '[[Changes/Cursor/2026-06-03-groups-are-a-lightweight-collection-of-users-that-can-sit-across-or-within-teams|Groups
+  are a lightweight collection of users that can sit across or within teams]]'
+- '[[Changes/Cursor/2026-06-03-a-user-can-belong-to-more-than-one-team-with-a-different-role-in-each-for-curren|A
+  user can belong to more than one team, with a different role in each]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-04-3-7-https-cursor-com-changelog-canvas-improvements-6f42df85|cursor-2026-06-04-3-7-https-cursor-com-changelog-canvas-improvements-6f42df85]]'
 source_type: cursor_changelog
 theme: collaboration
@@ -58,10 +65,10 @@ title: With canvases, agents can create interactive artifacts like dashboards, r
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # With canvases, agents can create interactive artifacts like dashboards, reports…
 
-<!-- chronolog:begin region="description" -->
-Cursor — Canvas Design Mode and Context Usage Report: With canvases, agents can create interactive artifacts like dashboards, reports, and internal tools that you can share with your team.
+**Cursor** · 2026-06-04 · [[Themes/collaboration|Collaboration]] · [Official source](https://cursor.com/changelog/canvas-improvements) · from [[Releases/Cursor/cursor-2026-06-04-3-7-https-cursor-com-changelog-canvas-improvements-6f42df85|Canvas Design Mode and Context Usage Report]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -70,19 +77,28 @@ Cursor — Canvas Design Mode and Context Usage Report: With canvases, agents ca
 > Source: https://cursor.com/changelog/canvas-improvements
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2026-06-04-cursor-can-now-show-your-agent-s-context-usage-as-an-interactive-report-in-a-can|Cursor can now show your agent's context usage as an interactive report in a canvas]] · Context Window
+- [[Changes/Cursor/2026-06-04-this-release-introduces-design-mode-for-faster-canvas-editing-new-ways-to-unders|Cursor introduces Design Mode for faster canvas editing, new ways to understand…]] · Context Window
+- [[Changes/Cursor/2026-06-04-design-mode-is-now-available-in-canvases|Design Mode is now available in canvases]] · Files and Data
+- [[Changes/Cursor/2026-06-04-the-context-explorer-breaks-down-where-tokens-go-across-the-system-prompt-tool-d|The context explorer breaks down where tokens go across the system prompt, tool…]] · Context Window
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: collaboration
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|cursor-2023-09-08-8ba960]]
-- Lag Days: 1000
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Collaboration
+
+- Earlier: 2026-06-03 · Cursor · [[Changes/Cursor/2026-06-03-a-user-can-belong-to-more-than-one-team-with-a-different-role-in-each-for-curren|A user can belong to more than one team, with a different role in each]]
+- Later: 2026-06-18 · ChatGPT · [[Changes/ChatGPT/2026-06-18-world-cup-updates-chatgpt-can-now-help-you-follow-the-tournament-in-a-more-conve|World Cup updates]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-09-08 · Cursor · [[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams can also share private docs]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2026-06-04-b7e396&body=Card%3A%20Changes%2FCursor%2F2026-06-04-with-canvases-agents-can-create-interactive-artifacts-like-dashboards-reports-an.md%0ACard%20ID%3A%20cursor-2026-06-04-b7e396%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2Fcanvas-improvements%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

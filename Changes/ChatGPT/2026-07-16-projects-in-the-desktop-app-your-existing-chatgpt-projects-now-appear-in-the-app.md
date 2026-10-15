@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2026-07-16-434e7b
 date: '2026-07-16'
+description: 'ChatGPT · 2026-07-16 · Projects and Workspaces: Projects in the desktop
+  app: Your existing ChatGPT Projects now appear in the app. You can start a Chat…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-conversation-history-you-ll-soon-be-able-to-view-past-conversations-with-chatgpt|chatgpt-2022-12-15-23a232]]'
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-conversation-history-you-ll-soon-be-able-to-view-past-conversations-with-chatgpt|Conversation
+    history: You’ll soon be able to view past conversations with ChatGPT…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1309
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 86e1232a279bd7eec49533d9281304181c5ea49569d56eb2e2869c600b707f31
+machine_hash: e182a654b58a9c4d3cc6283743af42ed2a604676df05a57b81227636ea69ad8d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,9 +57,12 @@ record:
     the app'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-26-improved-remote-session-startup-with-a-provisioning-checklist-while-the-containe|claude-code-2026-06-26-223a05]]'
-- '[[Changes/Claude Code/2026-06-29-added-readable-default-names-for-sessions-at-start-making-them-easier-to-identif|claude-code-2026-06-29-4a9225]]'
-- '[[Changes/ChatGPT/2026-07-16-unified-recents-chat-and-work-conversations-now-appear-together-in-recents-where|chatgpt-2026-07-16-3704a0]]'
+- '[[Changes/Claude Code/2026-06-26-improved-remote-session-startup-with-a-provisioning-checklist-while-the-containe|Improved
+  Remote session startup with a provisioning checklist while the container starts]]'
+- '[[Changes/Claude Code/2026-06-29-added-readable-default-names-for-sessions-at-start-making-them-easier-to-identif|Added
+  readable default names for sessions at start, making them easier to identify…]]'
+- '[[Changes/ChatGPT/2026-07-16-unified-recents-chat-and-work-conversations-now-appear-together-in-recents-where|Unified
+  Recents: Chat and Work conversations now appear together in Recents, where…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-16-chatgpt-desktop-app-experience-updates-936a13ad|chatgpt-2026-07-16-chatgpt-desktop-app-experience-updates-936a13ad]]'
 source_type: chatgpt_changelog
 theme: projects-workspaces
@@ -65,10 +71,10 @@ title: 'Projects in the desktop app: Your existing ChatGPT Projects now appear i
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Projects in the desktop app: Your existing ChatGPT Projects now appear in the app
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — ChatGPT desktop app experience updates: Projects in the desktop app: Your existing ChatGPT Projects now appear in the app. You can start a Chat conversation inside a Project or begin a Work thread using Project context.
+**ChatGPT** · 2026-07-16 · [[Themes/projects-workspaces|Projects and Workspaces]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-07-16-chatgpt-desktop-app-experience-updates-936a13ad|ChatGPT desktop app experience updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -77,19 +83,27 @@ ChatGPT — ChatGPT desktop app experience updates: Projects in the desktop app:
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2026-07-16-unified-recents-chat-and-work-conversations-now-appear-together-in-recents-where|Unified Recents: Chat and Work conversations now appear together in Recents, where…]] · Projects and Workspaces
+- [[Changes/ChatGPT/2026-07-16-a-clearer-desktop-layout-a-global-switcher-lets-you-choose-between-chatgpt-and-c|A clearer desktop layout: A global switcher lets you choose between ChatGPT and Codex]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-07-16-we-ve-updated-the-chatgpt-desktop-app-to-make-it-easier-to-choose-between-chat-a|ChatGPT updates the ChatGPT desktop app to make it easier to choose between Chat…]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-07-16-continue-work-across-devices-cloud-work-conversations-now-sync-across-web-mobile|Continue Work across devices]] · Mobile and Desktop
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: projects-workspaces
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2022-12-15-conversation-history-you-ll-soon-be-able-to-view-past-conversations-with-chatgpt|chatgpt-2022-12-15-23a232]]
-- Lag Days: 1309
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Projects and Workspaces
+
+- Earlier: 2026-06-29 · Claude Code · [[Changes/Claude Code/2026-06-29-added-readable-default-names-for-sessions-at-start-making-them-easier-to-identif|Added readable default names for sessions at start, making them easier to identify…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-conversation-history-you-ll-soon-be-able-to-view-past-conversations-with-chatgpt|Conversation history: You’ll soon be able to view past conversations with ChatGPT…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-07-16-434e7b&body=Card%3A%20Changes%2FChatGPT%2F2026-07-16-projects-in-the-desktop-app-your-existing-chatgpt-projects-now-appear-in-the-app.md%0ACard%20ID%3A%20chatgpt-2026-07-16-434e7b%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

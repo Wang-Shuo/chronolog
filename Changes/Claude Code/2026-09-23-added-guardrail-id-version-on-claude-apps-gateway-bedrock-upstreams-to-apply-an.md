@@ -1,8 +1,11 @@
 ---
 card_id: claude-code-2026-09-23-ce7d18
 date: '2026-09-23'
+description: 'Claude Code · 2026-09-23 · Apps and Integrations: Added `guardrail:
+  {id, version}` on Claude apps gateway Bedrock upstreams to apply an Amazon Bedrock…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
+    can join the waitlist to try plugins here]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1280
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 49c5bffe2777a8ab8e146e51148780b7365d7ca3d4cfca417693aef6b8c4fdf0
+machine_hash: e18eeb0e0e093851e7e19747a0b530871d8a8a8616014a402d144ec035b689e3
 product: claude-code
 product_name: Claude Code
 record:
@@ -40,9 +43,12 @@ record:
     to apply…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-18-added-an-optional-headers-map-on-claude-apps-gateway-upstreams-to-send-static-he|claude-code-2026-09-18-c95b70]]'
-- '[[Changes/Claude Code/2026-09-22-added-mouse-support-to-more-lists-in-fullscreen-mode-the-wheel-scrolls-the-skill|claude-code-2026-09-22-723a04]]'
-- '[[Changes/Claude Code/2026-09-22-added-claude-code-max-mcp-description-length-to-change-the-2-048-character-cap-o|claude-code-2026-09-22-e69314]]'
+- '[[Changes/Claude Code/2026-09-18-added-an-optional-headers-map-on-claude-apps-gateway-upstreams-to-send-static-he|Added
+  an optional headers: map on Claude apps gateway upstreams, to send static…]]'
+- '[[Changes/Claude Code/2026-09-22-added-mouse-support-to-more-lists-in-fullscreen-mode-the-wheel-scrolls-the-skill|Added
+  mouse support to more lists in fullscreen mode]]'
+- '[[Changes/Claude Code/2026-09-22-added-claude-code-max-mcp-description-length-to-change-the-2-048-character-cap-o|Added
+  CLAUDE_CODE_MAX_MCP_DESCRIPTION_LENGTH to change the 2,048-character cap…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-23-v2-1-281-github-394877414-9173ae95|claude-code-2026-09-23-v2-1-281-github-394877414-9173ae95]]'
 source_type: github_releases
 theme: apps-integrations
@@ -51,10 +57,10 @@ title: 'Added guardrail: {id, version} on Claude apps gateway Bedrock upstreams 
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Added `guardrail: {id, version}` on Claude apps gateway Bedrock upstreams to apply…
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.281: Added `guardrail: {id, version}` on Claude apps gateway Bedrock upstreams to apply an Amazon Bedrock guardrail to every request sent through them (set it on all Bedrock upstreams or none)
+**Claude Code** · 2026-09-23 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.281) · from [[Releases/Claude Code/claude-code-2026-09-23-v2-1-281-github-394877414-9173ae95|v2.1.281]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -63,19 +69,28 @@ Claude Code — v2.1.281: Added `guardrail: {id, version}` on Claude apps gatewa
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.281
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-09-23-added-claude-apps-gateway-support-for-newer-claude-desktop-keys-in-desktop-polic|Added Claude apps gateway support for newer Claude Desktop keys in desktop policy…]] · Mobile and Desktop
+- [[Changes/Claude Code/2026-09-23-added-assume-role-on-claude-apps-gateway-bedrock-upstreams-the-gateway-calls-bed|Added assume_role on Claude apps gateway Bedrock upstreams]] · Apps and Integrations
+- [[Changes/Claude Code/2026-09-23-added-attribution-false-in-settings-json-to-hide-all-commit-and-pr-attribution-o|Added "attribution": false in settings.json to hide all commit and PR attribution]] · Developer Workflow
+- [[Changes/Claude Code/2026-09-23-added-telemetry-resource-attributes-to-the-claude-apps-gateway-config-to-put-fix|Added telemetry.resource_attributes to the Claude apps gateway config, to put…]] · Account and Access
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: apps-integrations
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]
-- Lag Days: 1280
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Apps and Integrations
+
+- Earlier: 2026-09-22 · Claude Code · [[Changes/Claude Code/2026-09-22-added-claude-code-max-mcp-description-length-to-change-the-2-048-character-cap-o|Added CLAUDE_CODE_MAX_MCP_DESCRIPTION_LENGTH to change the 2,048-character cap…]]
+- Later: 2026-09-24 · Claude Code · [[Changes/Claude Code/2026-09-24-added-store-readiness-grace-seconds-to-the-claude-apps-gateway-so-readyz-can-sta|Added store.readiness_grace_seconds to the Claude apps gateway so /readyz can…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-09-23-ce7d18&body=Card%3A%20Changes%2FClaude%20Code%2F2026-09-23-added-guardrail-id-version-on-claude-apps-gateway-bedrock-upstreams-to-apply-an.md%0ACard%20ID%3A%20claude-code-2026-09-23-ce7d18%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.281%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

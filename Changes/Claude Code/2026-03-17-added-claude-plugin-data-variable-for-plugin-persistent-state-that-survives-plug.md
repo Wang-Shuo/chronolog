@@ -1,8 +1,11 @@
 ---
 card_id: claude-code-2026-03-17-d73d30
 date: '2026-03-17'
+description: 'Claude Code · 2026-03-17 · Apps and Integrations: Added `${CLAUDE_PLUGIN_DATA}`
+  variable for plugin persistent state that survives plugin updates; `/plugin…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
+    can join the waitlist to try plugins here]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1090
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 73ab6d85bb3ffcd5841b745cde59124a820655c03b4d654894f419a518014c3c
+machine_hash: 0eed358f464c624d7fa9329a826c6421999a5d87c2891b90366d756471b23102
 product: claude-code
 product_name: Claude Code
 record:
@@ -38,9 +41,12 @@ record:
   title: Added `${CLAUDE_PLUGIN_DATA}` variable for plugin persistent state that survives…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-14-added-mcp-elicitation-support-mcp-servers-can-now-request-structured-input-mid-t|claude-code-2026-03-14-928360]]'
-- '[[Changes/Claude Code/2026-03-17-added-stopfailure-hook-event-that-fires-when-the-turn-ends-due-to-an-api-error-r|claude-code-2026-03-17-331b63]]'
-- '[[Changes/Claude Code/2026-03-17-added-effort-maxturns-and-disallowedtools-frontmatter-support-for-plugin-shipped|claude-code-2026-03-17-567e32]]'
+- '[[Changes/Claude Code/2026-03-14-added-mcp-elicitation-support-mcp-servers-can-now-request-structured-input-mid-t|Added
+  MCP elicitation support]]'
+- '[[Changes/Claude Code/2026-03-17-added-stopfailure-hook-event-that-fires-when-the-turn-ends-due-to-an-api-error-r|Added
+  StopFailure hook event that fires when the turn ends due to an API error…]]'
+- '[[Changes/Claude Code/2026-03-17-added-effort-maxturns-and-disallowedtools-frontmatter-support-for-plugin-shipped|Added
+  effort, maxTurns, and disallowedTools frontmatter support…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-17-v2-1-78-github-298204446-1f2c1721|claude-code-2026-03-17-v2-1-78-github-298204446-1f2c1721]]'
 source_type: github_releases
 theme: apps-integrations
@@ -48,10 +54,10 @@ title: Added ${CLAUDE_PLUGIN_DATA} variable for plugin persistent state that sur
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Added `${CLAUDE_PLUGIN_DATA}` variable for plugin persistent state that survives…
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.78: Added `${CLAUDE_PLUGIN_DATA}` variable for plugin persistent state that survives plugin updates; `/plugin uninstall` prompts before deleting it
+**Claude Code** · 2026-03-17 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.78) · from [[Releases/Claude Code/claude-code-2026-03-17-v2-1-78-github-298204446-1f2c1721|v2.1.78]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -60,19 +66,28 @@ Claude Code — v2.1.78: Added `${CLAUDE_PLUGIN_DATA}` variable for plugin persi
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.78
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-03-17-added-stopfailure-hook-event-that-fires-when-the-turn-ends-due-to-an-api-error-r|Added StopFailure hook event that fires when the turn ends due to an API error…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-03-17-added-effort-maxturns-and-disallowedtools-frontmatter-support-for-plugin-shipped|Added effort, maxTurns, and disallowedTools frontmatter support…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-03-17-response-text-now-streams-line-by-line-as-it-s-generated|Response text now streams line-by-line as it's generated]] · Interface Experience
+- [[Changes/Claude Code/2026-03-17-terminal-notifications-iterm2-kitty-ghostty-popups-progress-bar-now-reach-the-ou|Terminal notifications (iTerm2/Kitty/Ghostty popups, progress bar) now reach…]] · Developer Workflow
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: apps-integrations
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]
-- Lag Days: 1090
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Apps and Integrations
+
+- Earlier: 2026-03-14 · Claude Code · [[Changes/Claude Code/2026-03-14-added-mcp-elicitation-support-mcp-servers-can-now-request-structured-input-mid-t|Added MCP elicitation support]]
+- Later: 2026-03-19 · Claude Code · [[Changes/Claude Code/2026-03-19-added-source-settings-plugin-marketplace-source-declare-plugin-entries-inline-in|Added source: 'settings' plugin marketplace source]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-03-17-d73d30&body=Card%3A%20Changes%2FClaude%20Code%2F2026-03-17-added-claude-plugin-data-variable-for-plugin-persistent-state-that-survives-plug.md%0ACard%20ID%3A%20claude-code-2026-03-17-d73d30%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.78%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

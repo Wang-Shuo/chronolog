@@ -1,7 +1,9 @@
 ---
 created: '2023-03-30'
 date: '2026-10-02'
-machine_hash: 35300e4a928c6b0ed00d914f87b6c869ddb0919ffc8e2cf58e9d64d35d2b7274
+description: Cross-product timeline of Account and Access changes in ChatGPT, Claude
+  Code and Cursor.
+machine_hash: 71f36688a75b22da6c225324c3fd0cf404b8675dda967be027b41c3fd8d9f73e
 modified: '2026-10-02'
 products_involved:
 - ChatGPT
@@ -13,10 +15,12 @@ tags:
 - theme
 - moc
 theme: account-access
-title: Account Access
+title: Account and Access
 ---
 
-# Theme: account-access
+<!-- chronolog:begin region="header" -->
+# Account and Access
+<!-- chronolog:end -->
 
 ## Research summary
 <!-- chronolog:begin region="narrative" -->

@@ -1,8 +1,12 @@
 ---
 card_id: chatgpt-2026-08-20-936a3f
 date: '2026-08-20'
+description: 'ChatGPT · 2026-08-20 · Mobile and Desktop: Keep pinned chats in sync.
+  Pinned chats now stay in sync between the ChatGPT desktop app and iOS when you use
+  the…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support 🥳]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1255
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0783ea3ed561cc53959887fb23a068ca90f7feccbb8fe991876756171f67190c
+machine_hash: cec7121b8ab8aa1834c5f92363dcb6bbb5a93f0f04e966cf04356b2d57c3fa28
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,9 +44,12 @@ record:
   title: Keep pinned chats in sync
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-14-practice-with-interactive-quizzes-ask-chatgpt-to-quiz-you-on-a-topic-and-answer|chatgpt-2026-08-14-7492f8]]'
-- '[[Changes/Claude Code/2026-08-19-added-notify-when-idle-to-cross-session-sendmessage-ask-another-claude-code-sess|claude-code-2026-08-19-755018]]'
-- '[[Changes/ChatGPT/2026-08-20-use-computer-history-in-more-regions-computer-history-is-now-available-in-the-ee|chatgpt-2026-08-20-13542d]]'
+- '[[Changes/ChatGPT/2026-08-14-practice-with-interactive-quizzes-ask-chatgpt-to-quiz-you-on-a-topic-and-answer|Practice
+  with interactive quizzes]]'
+- '[[Changes/Claude Code/2026-08-19-added-notify-when-idle-to-cross-session-sendmessage-ask-another-claude-code-sess|Added
+  notify_when_idle to cross-session SendMessage]]'
+- '[[Changes/ChatGPT/2026-08-20-use-computer-history-in-more-regions-computer-history-is-now-available-in-the-ee|Use
+  Computer History in more regions]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574|chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -50,10 +57,10 @@ title: Keep pinned chats in sync
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Keep pinned chats in sync
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Codex and ChatGPT feature updates: Keep pinned chats in sync. Pinned chats now stay in sync between the ChatGPT desktop app and iOS when you use the same Codex account. Android is not included in this release. Learn more about organizing projects and chats.
+**ChatGPT** · 2026-08-20 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574|Codex and ChatGPT feature updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -62,19 +69,27 @@ ChatGPT — Codex and ChatGPT feature updates: Keep pinned chats in sync. Pinned
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2026-08-20-use-computer-history-in-more-regions-computer-history-is-now-available-in-the-ee|Use Computer History in more regions]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-08-20-use-apple-messages-from-codex-and-chatgpt-work-on-apple-silicon-macs-the-apple-m|Use Apple Messages from Codex and ChatGPT Work]] · Apps and Integrations
+- [[Changes/ChatGPT/2026-08-20-share-a-read-only-snapshot-of-a-codex-chat-personal-share-links-can-be-opened-by|Share a read-only snapshot of a Codex chat]] · Collaboration
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: mobile-desktop
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]
-- Lag Days: 1255
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Mobile and Desktop
+
+- Earlier: 2026-08-19 · Claude Code · [[Changes/Claude Code/2026-08-19-added-notify-when-idle-to-cross-session-sendmessage-ask-another-claude-code-sess|Added notify_when_idle to cross-session SendMessage]]
+- Later: 2026-08-21 · ChatGPT · [[Changes/ChatGPT/2026-08-21-available-in-the-chatgpt-app-for-android-version-1-2026-216-or-later|Available in the ChatGPT app for Android, version 1.2026.216 or later]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-20-936a3f&body=Card%3A%20Changes%2FChatGPT%2F2026-08-20-keep-pinned-chats-in-sync-pinned-chats-now-stay-in-sync-between-the-chatgpt-desk.md%0ACard%20ID%3A%20chatgpt-2026-08-20-936a3f%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

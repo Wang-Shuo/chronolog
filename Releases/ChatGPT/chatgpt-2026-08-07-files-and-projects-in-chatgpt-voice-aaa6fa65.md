@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2026-08-07'
-machine_hash: 2a52940bb7f43bda82ed09f6a9cc02cfb06625a81b63ceb3da95888dcdbf4f25
+description: 'ChatGPT release Files and Projects in ChatGPT Voice on 2026-08-07: 1
+  tracked change across Voice and Audio'
+machine_hash: 8f478fd121e474e5d4fcbce27eb25500669cc436e0ddd410b27b94cd6d9cc374
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 1
   date: '2026-08-07'
   product: chatgpt
   product_name: ChatGPT
@@ -24,22 +27,24 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Files and Projects in ChatGPT Voice
+title: ChatGPT · Files and Projects in ChatGPT Voice
 version: Files and Projects in ChatGPT Voice
 ---
 
-# ChatGPT Files and Projects in ChatGPT Voice
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Files and Projects in ChatGPT Voice
+
+**ChatGPT** · 2026-08-07 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 GPT-Live in ChatGPT Voice now supports file uploads and Projects. You can now upload files in a voice conversation and analyze its contents or ask questions. You can also use voice in Projects, referencing recent project chats, sources, and project instructions.Learn more about ChatGPT Voice.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- voice: [[Changes/ChatGPT/2026-08-07-gpt-live-in-chatgpt-voice-now-supports-file-uploads-and-projects-you-can-now-upl|GPT-Live in ChatGPT Voice now supports file uploads and Projects]]
+- [[Changes/ChatGPT/2026-08-07-gpt-live-in-chatgpt-voice-now-supports-file-uploads-and-projects-you-can-now-upl|GPT-Live in ChatGPT Voice now supports file uploads and Projects]] · Voice and Audio
 <!-- chronolog:end -->

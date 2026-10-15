@@ -1,10 +1,13 @@
 ---
 changes_count: 5
 date: '2025-11-21'
-machine_hash: cc02483009f1108d6cb7dae8b62dc908d546d730b5fd716f569c4b34db7f2e8b
+description: 'Cursor release Improved Plan Mode, AI Code Review in Editor, and Instant
+  Grep on 2025-11-21: 5 tracked changes across Agent Mode, Developer Workflow…'
+machine_hash: bcd1d2c21bc38cbebbccdde3dceb6eaae1c3a4c87c723ba4fa81a02f0c6f02d2
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 26
   date: '2025-11-21'
   product: cursor
   product_name: Cursor
@@ -21,26 +24,28 @@ source_url: https://cursor.com/changelog/2-1
 tags:
 - release
 - cursor
-title: Cursor — Improved Plan Mode, AI Code Review in Editor, and Instant Grep
+title: Cursor · Improved Plan Mode, AI Code Review in Editor, and Instant Grep
 version: '2.1'
 ---
 
-# Cursor Improved Plan Mode, AI Code Review in Editor, and Instant Grep
+<!-- chronolog:begin region="header" -->
+# Cursor · Improved Plan Mode, AI Code Review in Editor, and Instant Grep
+
+**Cursor** · 2025-11-21 · [Official release notes](https://cursor.com/changelog/2-1)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 #Improved Plan Mode
 
-[Official release notes](https://cursor.com/changelog/2-1)
-
-Tracked cards: 5
+Tracked 5 of 26 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- developer-workflow: [[Changes/Cursor/2025-11-21-you-can-now-find-and-fix-bugs-directly-in-cursor-with-ai-code-reviews-it-will-lo|Find and fix bugs directly in Cursor with AI code reviews]]
-- enterprise-admin: [[Changes/Cursor/2025-11-21-this-is-in-addition-to-bugbot-which-runs-on-your-source-control-provider-like-gi|This is in addition to Bugbot, which runs on your source control provider like…]]
-- interface-experience: [[Changes/Cursor/2025-11-21-you-can-also-f-to-search-inside-generated-plans|You can also ⌘+F to search inside generated plans]]
-- agent-mode: [[Changes/Cursor/2025-11-21-all-grep-commands-run-by-the-agent-are-now-instant|All grep commands run by the agent are now instant]]
-- agent-mode: [[Changes/Cursor/2025-11-21-when-creating-plans-cursor-responds-with-clarifying-questions-to-improve-the-pla|When creating plans, Cursor responds with clarifying questions to improve the plan quality]]
+- [[Changes/Cursor/2025-11-21-you-can-now-find-and-fix-bugs-directly-in-cursor-with-ai-code-reviews-it-will-lo|Find and fix bugs directly in Cursor with AI code reviews]] · Developer Workflow
+- [[Changes/Cursor/2025-11-21-this-is-in-addition-to-bugbot-which-runs-on-your-source-control-provider-like-gi|This is in addition to Bugbot, which runs on your source control provider like…]] · Enterprise and Administration
+- [[Changes/Cursor/2025-11-21-you-can-also-f-to-search-inside-generated-plans|You can also ⌘+F to search inside generated plans]] · Interface Experience
+- [[Changes/Cursor/2025-11-21-all-grep-commands-run-by-the-agent-are-now-instant|All grep commands run by the agent are now instant]] · Agent Mode
+- [[Changes/Cursor/2025-11-21-when-creating-plans-cursor-responds-with-clarifying-questions-to-improve-the-pla|When creating plans, Cursor responds with clarifying questions to improve the plan quality]] · Agent Mode
 <!-- chronolog:end -->

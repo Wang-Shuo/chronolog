@@ -1,10 +1,13 @@
 ---
 changes_count: 2
 date: '2025-07-16'
-machine_hash: f39ed05f6988ebdf4f40d8f6855a4fcebefa06efb7aef0d83e24765dbec21efe
+description: 'ChatGPT release Record mode in ChatGPT macOS desktop app (Plus) on 2025-07-16:
+  2 tracked changes across Mobile and Desktop, Voice and Audio'
+machine_hash: fc21f1c569d129931ad7ab40e396601fbdf572f4320745bdb45e436f3ded14ca
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 4
   date: '2025-07-16'
   product: chatgpt
   product_name: ChatGPT
@@ -22,23 +25,25 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Record mode in ChatGPT macOS desktop app (Plus)
+title: ChatGPT · Record mode in ChatGPT macOS desktop app (Plus)
 version: Record mode in ChatGPT macOS desktop app (Plus)
 ---
 
-# ChatGPT Record mode in ChatGPT macOS desktop app (Plus)
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Record mode in ChatGPT macOS desktop app (Plus)
+
+**ChatGPT** · 2025-07-16 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Record mode is now available to ChatGPT Plus users globally in the macOS desktop app.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 2
+Tracked 2 of 4 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- voice: [[Changes/ChatGPT/2025-07-16-record-live-conversations-like-team-meetings-or-voice-notes-and-turn-those-into|Record live conversations like team meetings or voice notes, and turn those…]]
-- mobile-desktop: [[Changes/ChatGPT/2025-07-16-record-mode-is-now-available-to-chatgpt-plus-users-globally-in-the-macos-desktop|Record mode is now available to ChatGPT Plus users globally in the macOS desktop app]]
+- [[Changes/ChatGPT/2025-07-16-record-live-conversations-like-team-meetings-or-voice-notes-and-turn-those-into|Record live conversations like team meetings or voice notes, and turn those…]] · Voice and Audio
+- [[Changes/ChatGPT/2025-07-16-record-mode-is-now-available-to-chatgpt-plus-users-globally-in-the-macos-desktop|Record mode is now available to ChatGPT Plus users globally in the macOS desktop app]] · Mobile and Desktop
 <!-- chronolog:end -->

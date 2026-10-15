@@ -1,7 +1,9 @@
 ---
 created: '2023-05-04'
 date: '2026-10-14'
-machine_hash: 4e0cb7a1c39df79b4e92406d8ae59451d34e1cf2dcd72f40d5326632027eb2d8
+description: Cross-product timeline of Context Window changes in ChatGPT, Claude Code
+  and Cursor.
+machine_hash: bcea813238727c556885458379fca1a34078b2f2dbcee5176dccd4586a112314
 modified: '2026-10-14'
 products_involved:
 - ChatGPT
@@ -16,7 +18,9 @@ theme: context-window
 title: Context Window
 ---
 
-# Theme: context-window
+<!-- chronolog:begin region="header" -->
+# Context Window
+<!-- chronolog:end -->
 
 ## Research summary
 <!-- chronolog:begin region="narrative" -->

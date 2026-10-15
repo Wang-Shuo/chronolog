@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2025-06-12-e6eb10
 date: '2025-06-12'
+description: 'ChatGPT · 2025-06-12 · Voice and Audio: Deep research and voice mode
+  support'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|chatgpt-2023-09-25-13666e]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Use
+    voice to engage in a back-and-forth conversation with your assistant]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 626
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 19f9dea92670f831b5ecf1f4288f8135c9a683249d225317248a8eb8482d5966
+machine_hash: 6934ce69255020f1a6e7c3301b442850733c68797afe073d6a708281bb6a0c09
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,9 +50,12 @@ record:
   title: Deep research and voice mode support
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-05-01-launched-on-april-1-as-a-one-month-surprise-our-monday-personality-available-in|chatgpt-2025-05-01-c83f5d]]'
-- '[[Changes/ChatGPT/2025-06-07-we-re-upgrading-advanced-voice-in-chatgpt-for-paid-users-with-significant-enhanc-ad0b3e|chatgpt-2025-06-07-ad0b3e]]'
-- '[[Changes/ChatGPT/2025-06-07-in-testing-we-ve-observed-that-this-update-may-occasionally-cause-minor-decrease-ca0630|chatgpt-2025-06-07-ca0630]]'
+- '[[Changes/ChatGPT/2025-05-01-launched-on-april-1-as-a-one-month-surprise-our-monday-personality-available-in|Launched
+  on April 1 as a one-month surprise, our “Monday” personality…]]'
+- '[[Changes/ChatGPT/2025-06-07-we-re-upgrading-advanced-voice-in-chatgpt-for-paid-users-with-significant-enhanc-ad0b3e|We''re
+  upgrading Advanced Voice in ChatGPT for paid users with significant…]]'
+- '[[Changes/ChatGPT/2025-06-07-in-testing-we-ve-observed-that-this-update-may-occasionally-cause-minor-decrease-ca0630|In
+  testing, we''ve observed that this update may occasionally cause minor decreases…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-12-adding-more-capabilities-to-projects-a384b6f8|chatgpt-2025-06-12-adding-more-capabilities-to-projects-a384b6f8]]'
 source_type: chatgpt_changelog
 theme: voice
@@ -57,10 +63,10 @@ title: Deep research and voice mode support
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Deep research and voice mode support
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Adding More Capabilities to Projects: Deep research and voice mode support
+**ChatGPT** · 2025-06-12 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-06-12-adding-more-capabilities-to-projects-a384b6f8|Adding More Capabilities to Projects]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -69,19 +75,28 @@ ChatGPT — Adding More Capabilities to Projects: Deep research and voice mode s
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2025-06-12-sharing-chats-from-projects|Sharing chats from projects]] · Collaboration
+- [[Changes/ChatGPT/2025-06-12-starting-a-new-project-directly-from-a-chat|Starting a new project directly from a chat]] · Projects and Workspaces
+- [[Changes/ChatGPT/2025-06-12-starting-today-we-re-adding-several-updates-to-projects-in-chatgpt-to-help-you-d|Starting today, we’re adding several updates to projects in ChatGPT to help you do…]] · Collaboration
+- [[Changes/ChatGPT/2025-06-12-improvements-to-memory-to-reference-past-chats-in-a-project|Improvements to memory to reference past chats in a project]] · Memory and Personalization
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: voice
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|chatgpt-2023-09-25-13666e]]
-- Lag Days: 626
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Voice and Audio
+
+- Earlier: 2025-06-07 · ChatGPT · [[Changes/ChatGPT/2025-06-07-in-testing-we-ve-observed-that-this-update-may-occasionally-cause-minor-decrease-ca0630|In testing, we've observed that this update may occasionally cause minor decreases…]]
+- Later: 2025-06-18 · ChatGPT · [[Changes/ChatGPT/2025-06-18-chatgpt-will-transcribe-summarize-and-turn-them-into-helpful-outputs-like-follow|ChatGPT will transcribe, summarize, and turn them into helpful outputs like…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Use voice to engage in a back-and-forth conversation with your assistant]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-06-12-e6eb10&body=Card%3A%20Changes%2FChatGPT%2F2025-06-12-deep-research-and-voice-mode-support.md%0ACard%20ID%3A%20chatgpt-2025-06-12-e6eb10%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

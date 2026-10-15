@@ -1,10 +1,12 @@
 ---
 changes_count: 0
 date: '2023-09-08'
-machine_hash: 5e8a09e2a51f4116b82de33a44e6568c3e202559d2dd81be3f3d47a4390192c7
+description: 'Cursor release @definitions in cmd+k on 2023-09-08: no tracked changes'
+machine_hash: ae71ada5c9a33959d4a3de432ead2974383d49caf3cb16fcc0358707e5da6d58
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2023-09-08'
   product: cursor
   product_name: Cursor
@@ -22,19 +24,21 @@ source_url: https://cursor.com/changelog/0-9-9-nightly
 tags:
 - release
 - cursor
-title: Cursor — @definitions in cmd+k
+title: Cursor · @definitions in cmd+k
 version: 0.9.9-nightly
 ---
 
-# Cursor @definitions in cmd+k
+<!-- chronolog:begin region="header" -->
+# Cursor · @definitions in cmd+k
+
+**Cursor** · 2023-09-08 · [Official release notes](https://cursor.com/changelog/0-9-9-nightly)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Also fixes a few cmd+k bugs, as well as introduces new cmd+k bugs! Please report all cmd+k bugs you find to us in the Discord channel.
 
-[Official release notes](https://cursor.com/changelog/0-9-9-nightly)
-
-Tracked cards: 0
+Tracked 0 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

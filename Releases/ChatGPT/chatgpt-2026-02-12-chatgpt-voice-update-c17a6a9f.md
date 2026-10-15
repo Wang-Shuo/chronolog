@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2026-02-12'
-machine_hash: 47d0d2a0b1fd73d67781809a4ced1fa5ec9f5e0ae46baacf714b51ee4e12cb21
+description: 'ChatGPT release ChatGPT Voice Update on 2026-02-12: 1 tracked change
+  across Voice and Audio'
+machine_hash: 98b52c27a6c08848d5ec9c51c3fc5fd231a63d3f3ca2e046a887965d7fe40f3d
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 1
   date: '2026-02-12'
   product: chatgpt
   product_name: ChatGPT
@@ -25,22 +28,24 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — ChatGPT Voice Update
+title: ChatGPT Voice Update
 version: ChatGPT Voice Update
 ---
 
-# ChatGPT ChatGPT Voice Update
+<!-- chronolog:begin region="header" -->
+# ChatGPT Voice Update
+
+**ChatGPT** · 2026-02-12 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 We’re making an update to ChatGPT Voice that improves its ability to follow user instructions, and usage of tools like web search to provide better responses. This update applies to the version of Voice primarily used by those on the free ChatGPT plan, and by Plus users when limits are reached for the main model.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- voice: [[Changes/ChatGPT/2026-02-12-we-re-making-an-update-to-chatgpt-voice-that-improves-its-ability-to-follow-user|We’re making an update to ChatGPT Voice that improves its ability to follow user…]]
+- [[Changes/ChatGPT/2026-02-12-we-re-making-an-update-to-chatgpt-voice-that-improves-its-ability-to-follow-user|We’re making an update to ChatGPT Voice that improves its ability to follow user…]] · Voice and Audio
 <!-- chronolog:end -->

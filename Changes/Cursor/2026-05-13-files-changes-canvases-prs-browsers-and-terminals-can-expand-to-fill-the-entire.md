@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2026-05-13-28d4e5
 date: '2026-05-13'
+description: 'Cursor · 2026-05-13 · Agent Mode: Files, changes, canvases, PRs, browsers,
+  and terminals can expand to fill the entire working area. This replaces the agent…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
+    to the first nightly release!]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1042
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: cab919779ad7a4d48ffefc590887a5b66d6b0b118a481d7330eb8478954b7ddf
+machine_hash: 565590710bf54c5230ab0013199232fe9fdf687bf4ef04e3a6834c751e76b21c
 product: cursor
 product_name: Cursor
 record:
@@ -42,9 +45,12 @@ record:
     the entire…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-12-updated-agent-color-palette|claude-code-2026-05-12-443dac]]'
-- '[[Changes/Claude Code/2026-05-13-added-claude-agents-cwd-path-to-scope-the-session-list-to-a-directory|claude-code-2026-05-13-31bba2]]'
-- '[[Changes/Cursor/2026-05-13-to-take-engineering-tasks-from-start-to-finish-agents-need-a-development-environ|cursor-2026-05-13-2235e3]]'
+- '[[Changes/Claude Code/2026-05-12-updated-agent-color-palette|Updated agent color
+  palette]]'
+- '[[Changes/Claude Code/2026-05-13-added-claude-agents-cwd-path-to-scope-the-session-list-to-a-directory|Added
+  claude agents --cwd path to scope the session list to a directory]]'
+- '[[Changes/Cursor/2026-05-13-to-take-engineering-tasks-from-start-to-finish-agents-need-a-development-environ|To
+  take engineering tasks from start to finish, agents need a development…]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-13-3-4-https-cursor-com-changelog-3-4-7fe50a9d|cursor-2026-05-13-3-4-https-cursor-com-changelog-3-4-7fe50a9d]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -53,10 +59,10 @@ title: Files, changes, canvases, PRs, browsers, and terminals can expand to fill
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Files, changes, canvases, PRs, browsers, and terminals can expand to fill the entire…
 
-<!-- chronolog:begin region="description" -->
-Cursor — Full-screen Tabs and Compact Chats: Files, changes, canvases, PRs, browsers, and terminals can expand to fill the entire working area. This replaces the agent chat with a floating prompt bar.
+**Cursor** · 2026-05-13 · [[Themes/agent-mode|Agent Mode]] · [Official source](https://cursor.com/changelog/3-4) · from [[Releases/Cursor/cursor-2026-05-13-3-4-https-cursor-com-changelog-3-4-7fe50a9d|Full-screen Tabs and Compact Chats]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -65,19 +71,28 @@ Cursor — Full-screen Tabs and Compact Chats: Files, changes, canvases, PRs, br
 > Source: https://cursor.com/changelog/3-4
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2026-05-13-compact-chats-give-you-a-tighter-view-of-your-agent-conversations-so-you-can-rea|Compact chats give you a tighter view of your agent conversations so you can read…]] · Context Window
+- [[Changes/Cursor/2026-05-13-full-screen-maximizes-the-right-panel-so-you-can-focus-on-a-single-tab|Full screen maximizes the right panel so you can focus on a single tab]] · Interface Experience
+- [[Changes/Cursor/2026-05-13-this-release-introduces-quality-of-life-improvements-to-the-agents-window|Cursor introduces quality-of-life improvements to the Agents Window]] · Agent Mode
+- [[Changes/Cursor/2026-05-13-enter-and-exit-full-screen-by-clicking-on-the-expand-contract-button-in-the-pane|Enter and exit full screen by clicking on the expand/contract button in the panel…]] · Interface Experience
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: agent-mode
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]
-- Lag Days: 1042
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Agent Mode
+
+- Earlier: 2026-05-13 · Cursor · [[Changes/Cursor/2026-05-13-to-take-engineering-tasks-from-start-to-finish-agents-need-a-development-environ|To take engineering tasks from start to finish, agents need a development…]]
+- Later: 2026-05-13 · Cursor · [[Changes/Cursor/2026-05-13-cloud-agents-and-automations-now-support-multi-repo-environments-building-off-ou|Cloud agents and automations now support multi-repo environments, building off our…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2026-05-13-28d4e5&body=Card%3A%20Changes%2FCursor%2F2026-05-13-files-changes-canvases-prs-browsers-and-terminals-can-expand-to-fill-the-entire.md%0ACard%20ID%3A%20cursor-2026-05-13-28d4e5%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F3-4%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

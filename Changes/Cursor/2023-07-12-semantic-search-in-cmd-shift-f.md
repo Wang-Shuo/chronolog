@@ -1,8 +1,10 @@
 ---
 card_id: cursor-2023-07-12-427c92
 date: '2023-07-12'
+description: 'Cursor · 2023-07-12 · Editor Experience: Semantic search in Cmd-Shift-F'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|cursor-2023-03-14-24e9bf]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant
+    fix all lint errors with AI 😎]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 120
   relation: same-theme-chronology
@@ -13,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: e54864eebce687a8349614c90d9e0fdc69fb0843f17d286d193bc8906f7450ac
+machine_hash: 408aaa31be8600f5aea81d049a7bf0143aec1aa7ab1ebf1bd021c982d14b0131
 product: cursor
 product_name: Cursor
 record:
@@ -37,9 +39,12 @@ record:
   title: Semantic search in Cmd-Shift-F
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-03-cmd-k-s-ui-has-been-changed-it-s-in-editor-sticky-and-symbol-compatible|cursor-2023-07-03-5dfeb5]]'
-- '[[Changes/Cursor/2023-07-11-this-update-improves-the-prompt-for-cmd-k-when-you-don-t-have-any-code-selected|cursor-2023-07-11-9c2b47]]'
-- '[[Changes/Cursor/2023-07-12-pop-out-chat-you-can-now-view-the-chat-in-an-editor-which-is-great-if-you-re-on|cursor-2023-07-12-37b730]]'
+- '[[Changes/Cursor/2023-07-03-cmd-k-s-ui-has-been-changed-it-s-in-editor-sticky-and-symbol-compatible|Cmd+K''s
+  UI has been changed: it''s in-editor, "sticky," and @-symbol-compatible]]'
+- '[[Changes/Cursor/2023-07-11-this-update-improves-the-prompt-for-cmd-k-when-you-don-t-have-any-code-selected|This
+  update improves the prompt for Cmd-k when you don''t have any code selected]]'
+- '[[Changes/Cursor/2023-07-12-pop-out-chat-you-can-now-view-the-chat-in-an-editor-which-is-great-if-you-re-on|Pop-out
+  chat!]]'
 source_release: '[[Releases/Cursor/cursor-2023-07-12-0-2-48-nightly-https-cursor-com-changelog-0-2-48-nightly-d738eefc|cursor-2023-07-12-0-2-48-nightly-https-cursor-com-changelog-0-2-48-nightly-d738eefc]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -47,10 +52,10 @@ title: Semantic search in Cmd-Shift-F
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Semantic search in Cmd-Shift-F
 
-<!-- chronolog:begin region="description" -->
-Cursor — Small things!: Semantic search in Cmd-Shift-F
+**Cursor** · 2023-07-12 · [[Themes/editor-experience|Editor Experience]] · [Official source](https://cursor.com/changelog/0-2-48-nightly) · from [[Releases/Cursor/cursor-2023-07-12-0-2-48-nightly-https-cursor-com-changelog-0-2-48-nightly-d738eefc|Small things!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -59,19 +64,25 @@ Cursor — Small things!: Semantic search in Cmd-Shift-F
 > Source: https://cursor.com/changelog/0-2-48-nightly
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2023-07-12-pop-out-chat-you-can-now-view-the-chat-in-an-editor-which-is-great-if-you-re-on|Pop-out chat!]] · Editor Experience
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: editor-experience
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|cursor-2023-03-14-24e9bf]]
-- Lag Days: 120
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Editor Experience
+
+- Earlier: 2023-07-11 · Cursor · [[Changes/Cursor/2023-07-11-this-update-improves-the-prompt-for-cmd-k-when-you-don-t-have-any-code-selected|This update improves the prompt for Cmd-k when you don't have any code selected]]
+- Later: 2023-07-19 · Cursor · [[Changes/Cursor/2023-07-19-a-better-flow-for-getting-cmd-k-to-produce-code-with-no-linter-errors-you-should|A better flow for getting CMD-k to produce code with no linter errors…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all lint errors with AI 😎]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2023-07-12-427c92&body=Card%3A%20Changes%2FCursor%2F2023-07-12-semantic-search-in-cmd-shift-f.md%0ACard%20ID%3A%20cursor-2023-07-12-427c92%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F0-2-48-nightly%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

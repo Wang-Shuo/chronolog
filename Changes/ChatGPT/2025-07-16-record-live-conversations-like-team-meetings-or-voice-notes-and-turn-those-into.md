@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2025-07-16-3ba6e4
 date: '2025-07-16'
+description: 'ChatGPT · 2025-07-16 · Voice and Audio: Record live conversations like
+  team meetings or voice notes, and turn those into an editable summary in canvas.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|chatgpt-2023-09-25-13666e]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Use
+    voice to engage in a back-and-forth conversation with your assistant]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 660
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: c3decee44acda26da8e5ccfa37c9b64e96fda86afd089de3d44ce41da4c1a6cc
+machine_hash: 0de5b1dff1dbab60e7dafc014114dbf829fa6df42ff3e8a8045ec09cad658afc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,9 +54,12 @@ record:
   title: Record live conversations like team meetings or voice notes, and turn those…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-12-deep-research-and-voice-mode-support|chatgpt-2025-06-12-e6eb10]]'
-- '[[Changes/ChatGPT/2025-06-18-chatgpt-will-transcribe-summarize-and-turn-them-into-helpful-outputs-like-follow|chatgpt-2025-06-18-65ad93]]'
-- '[[Changes/ChatGPT/2025-06-18-capture-meetings-brainstorms-or-voice-notes-launching-today-for-pro-enterprise-a|chatgpt-2025-06-18-7680b9]]'
+- '[[Changes/ChatGPT/2025-06-12-deep-research-and-voice-mode-support|Deep research
+  and voice mode support]]'
+- '[[Changes/ChatGPT/2025-06-18-chatgpt-will-transcribe-summarize-and-turn-them-into-helpful-outputs-like-follow|ChatGPT
+  will transcribe, summarize, and turn them into helpful outputs like…]]'
+- '[[Changes/ChatGPT/2025-06-18-capture-meetings-brainstorms-or-voice-notes-launching-today-for-pro-enterprise-a|Capture
+  meetings, brainstorms, or voice notes]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-07-16-record-mode-in-chatgpt-macos-desktop-app-plus-3cdaccb1|chatgpt-2025-07-16-record-mode-in-chatgpt-macos-desktop-app-plus-3cdaccb1]]'
 source_type: chatgpt_changelog
 theme: voice
@@ -61,10 +67,10 @@ title: Record live conversations like team meetings or voice notes, and turn tho
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Record live conversations like team meetings or voice notes, and turn those…
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Record mode in ChatGPT macOS desktop app (Plus): Record live conversations like team meetings or voice notes, and turn those into an editable summary in canvas.
+**ChatGPT** · 2025-07-16 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-07-16-record-mode-in-chatgpt-macos-desktop-app-plus-3cdaccb1|Record mode in ChatGPT macOS desktop app (Plus)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -73,19 +79,25 @@ ChatGPT — Record mode in ChatGPT macOS desktop app (Plus): Record live convers
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2025-07-16-record-mode-is-now-available-to-chatgpt-plus-users-globally-in-the-macos-desktop|Record mode is now available to ChatGPT Plus users globally in the macOS desktop app]] · Mobile and Desktop
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: voice
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|chatgpt-2023-09-25-13666e]]
-- Lag Days: 660
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Voice and Audio
+
+- Earlier: 2025-06-18 · ChatGPT · [[Changes/ChatGPT/2025-06-18-capture-meetings-brainstorms-or-voice-notes-launching-today-for-pro-enterprise-a|Capture meetings, brainstorms, or voice notes]]
+- Later: 2025-07-17 · ChatGPT · [[Changes/ChatGPT/2025-07-17-the-advanced-voice-upgrades-we-announced-on-june-7th-are-now-rolling-out-to-chat|The Advanced Voice upgrades we announced on June 7th are now rolling out to ChatGPT…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Use voice to engage in a back-and-forth conversation with your assistant]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-07-16-3ba6e4&body=Card%3A%20Changes%2FChatGPT%2F2025-07-16-record-live-conversations-like-team-meetings-or-voice-notes-and-turn-those-into.md%0ACard%20ID%3A%20chatgpt-2025-07-16-3ba6e4%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

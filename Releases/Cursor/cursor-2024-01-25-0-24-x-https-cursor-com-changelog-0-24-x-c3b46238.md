@@ -1,10 +1,13 @@
 ---
 changes_count: 3
 date: '2024-01-25'
-machine_hash: c2cc907b050b8f87bb1f92caf17325a22ce796120ea6c70a45859c73fb01ee0a
+description: 'Cursor release @Web, gpt-4-0125-preview on 2024-01-25: 3 tracked changes
+  across Apps and Integrations, Model Support, Search and Browsing'
+machine_hash: 13f8d27906f53ffaff8fedf3076f5420ceaceee9a466f56e627384fbbb3d0656
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 4
   date: '2024-01-25'
   product: cursor
   product_name: Cursor
@@ -22,24 +25,26 @@ source_url: https://cursor.com/changelog/0-24-x
 tags:
 - release
 - cursor
-title: Cursor — @Web, gpt-4-0125-preview
+title: Cursor · @Web, gpt-4-0125-preview
 version: 0.24.x
 ---
 
-# Cursor @Web, gpt-4-0125-preview
+<!-- chronolog:begin region="header" -->
+# Cursor · @Web, gpt-4-0125-preview
+
+**Cursor** · 2024-01-25 · [Official release notes](https://cursor.com/changelog/0-24-x)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Using @Web in chat will give the AI the ability to crawl the web! The tools it can use include a search engine and a documentation site crawler.
 
-[Official release notes](https://cursor.com/changelog/0-24-x)
-
-Tracked cards: 3
+Tracked 3 of 4 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- apps-integrations: [[Changes/Cursor/2024-01-25-update-0-24-3-0-24-4-adds-ability-to-configure-openai-base-url-fixes-getcursor-c|UPDATE (0.24.3-0.24.4): Adds ability to configure OpenAI base URL, fixes…]]
-- search-browsing: [[Changes/Cursor/2024-01-25-using-web-in-chat-will-give-the-ai-the-ability-to-crawl-the-web-the-tools-it-can|Using @Web in chat will give the AI the ability to crawl the web!]]
-- model-support: [[Changes/Cursor/2024-01-25-both-pro-and-api-key-users-can-also-try-out-gpt-4-0125-preview-by-configuring-th|Both pro and API key users can also try out gpt-4-0125-preview by configuring…]]
+- [[Changes/Cursor/2024-01-25-update-0-24-3-0-24-4-adds-ability-to-configure-openai-base-url-fixes-getcursor-c|UPDATE (0.24.3-0.24.4): Adds ability to configure OpenAI base URL, fixes…]] · Apps and Integrations
+- [[Changes/Cursor/2024-01-25-using-web-in-chat-will-give-the-ai-the-ability-to-crawl-the-web-the-tools-it-can|Using @Web in chat will give the AI the ability to crawl the web!]] · Search and Browsing
+- [[Changes/Cursor/2024-01-25-both-pro-and-api-key-users-can-also-try-out-gpt-4-0125-preview-by-configuring-th|Both pro and API key users can also try out gpt-4-0125-preview by configuring…]] · Model Support
 <!-- chronolog:end -->

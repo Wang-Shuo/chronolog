@@ -1,8 +1,12 @@
 ---
 card_id: cursor-2023-12-16-0f03d7
 date: '2023-12-16'
+description: 'Cursor · 2023-12-16 · Editor Experience: UPDATE (0.20.1-0.20.2): We
+  added TLDRs to make it easier to sort through the bugs flagged by the AI review
+  and fixed a…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|cursor-2023-03-14-24e9bf]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant
+    fix all lint errors with AI 😎]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 277
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5b010d24fa25f1d08223e10becad0e17b5bbb11bba2daf4262a3d696626f5c9e
+machine_hash: 7f4ccd36a258bd601a1d9b1156b6b7258be1e34c6b1a0273ed3d7f4be047637a
 product: cursor
 product_name: Cursor
 record:
@@ -41,9 +45,12 @@ record:
     the bugs…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-11-30-more-reliable-copilot-changes-less-flashing-better-highlighting-of-what-s-new|cursor-2023-11-30-ba8f3b]]'
-- '[[Changes/Cursor/2023-12-02-running-cmd-enter-on-followups-should-result-in-much-better-codebase-results|cursor-2023-12-02-a1992a]]'
-- '[[Changes/Cursor/2023-12-14-we-made-copilot-faster-smarter-more-constrained-and-switched-to-a-ghost-text-hit|cursor-2023-12-14-b0f721]]'
+- '[[Changes/Cursor/2023-11-30-more-reliable-copilot-changes-less-flashing-better-highlighting-of-what-s-new|More
+  reliable Copilot++ changes: less flashing, better highlighting of what''s new]]'
+- '[[Changes/Cursor/2023-12-02-running-cmd-enter-on-followups-should-result-in-much-better-codebase-results|Running
+  Cmd+enter on followups should result in much better codebase results]]'
+- '[[Changes/Cursor/2023-12-14-we-made-copilot-faster-smarter-more-constrained-and-switched-to-a-ghost-text-hit|We
+  made Copilot++ faster, smarter, more constrained, and switched to a ghost-text…]]'
 source_release: '[[Releases/Cursor/cursor-2023-12-16-0-20-0-https-cursor-com-changelog-0-20-0-fecb080e|cursor-2023-12-16-0-20-0-https-cursor-com-changelog-0-20-0-fecb080e]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -52,10 +59,10 @@ title: 'UPDATE (0.20.1-0.20.2): We added TLDRs to make it easier to sort through
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # UPDATE (0.20.1-0.20.2): We added TLDRs to make it easier to sort through the bugs…
 
-<!-- chronolog:begin region="description" -->
-Cursor — Copilot++, @ previews, AI Review: UPDATE (0.20.1-0.20.2): We added TLDRs to make it easier to sort through the bugs flagged by the AI review and fixed a bug with "Diff with Main."
+**Cursor** · 2023-12-16 · [[Themes/editor-experience|Editor Experience]] · [Official source](https://cursor.com/changelog/0-20-0) · from [[Releases/Cursor/cursor-2023-12-16-0-20-0-https-cursor-com-changelog-0-20-0-fecb080e|Copilot++, @ previews, AI Review]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -64,19 +71,27 @@ Cursor — Copilot++, @ previews, AI Review: UPDATE (0.20.1-0.20.2): We added TL
 > Source: https://cursor.com/changelog/0-20-0
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2023-12-16-ai-review-beta-this-is-a-new-experimental-feature-that-let-s-gpt-4-scan-your-git|AI Review (beta)]] · Model Support
+- [[Changes/Cursor/2023-12-16-previews-we-made-it-easier-to-see-what-codeblock-you-re-ing|@ previews: We made it easier to see what codeblock you're @'ing]] · Interface Experience
+- [[Changes/Cursor/2023-12-16-copilot-we-ve-continued-to-improve-the-copilot-ghost-text-experience-surprisingl|Copilot++: We've continued to improve the Copilot++ ghost text experience]] · Apps and Integrations
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: editor-experience
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|cursor-2023-03-14-24e9bf]]
-- Lag Days: 277
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Editor Experience
+
+- Earlier: 2023-12-14 · Cursor · [[Changes/Cursor/2023-12-14-we-made-copilot-faster-smarter-more-constrained-and-switched-to-a-ghost-text-hit|We made Copilot++ faster, smarter, more constrained, and switched to a ghost-text…]]
+- Later: 2023-12-29 · Cursor · [[Changes/Cursor/2023-12-29-you-can-now-run-multiple-command-k-s-in-parallel-also-it-should-now-be-easier-to|Run multiple Command-K's in parallel!]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all lint errors with AI 😎]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2023-12-16-0f03d7&body=Card%3A%20Changes%2FCursor%2F2023-12-16-update-0-20-1-0-20-2-we-added-tldrs-to-make-it-easier-to-sort-through-the-bugs-f.md%0ACard%20ID%3A%20cursor-2023-12-16-0f03d7%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F0-20-0%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

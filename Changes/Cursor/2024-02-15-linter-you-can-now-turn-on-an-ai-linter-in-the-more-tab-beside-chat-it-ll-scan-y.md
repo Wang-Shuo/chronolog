@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2024-02-15-7ac01a
 date: '2024-02-15'
+description: 'Cursor · 2024-02-15 · Developer Workflow: Linter: You can now turn on
+  an AI linter in the "More" tab beside Chat. It''ll scan your file for small bugs
+  every…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|cursor-2023-03-18-76a713]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 334
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 429746ce22e8de21f4330964746213348ada23666f1e02733495c101f66c4d4d
+machine_hash: 55a2d955e7003735fc91f124d722c91083328484ee710321f89233bf0c63fccf
 product: cursor
 product_name: Cursor
 record:
@@ -48,9 +51,11 @@ record:
   title: 'Linter: You can now turn on an AI linter in the "More" tab beside Chat'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-01-06-dev-containers-are-now-supported-this-build-also|cursor-2024-01-06-bafbc7]]'
-- '[[Changes/Cursor/2024-01-06-improves-the-stability-of-wsl|cursor-2024-01-06-ccf46a]]'
-- '[[Changes/Cursor/2024-01-15-working-wsl-codebase-search|cursor-2024-01-15-618118]]'
+- '[[Changes/Cursor/2024-01-06-dev-containers-are-now-supported-this-build-also|Dev
+  containers are now supported!]]'
+- '[[Changes/Cursor/2024-01-06-improves-the-stability-of-wsl|Improves the stability
+  of WSL]]'
+- '[[Changes/Cursor/2024-01-15-working-wsl-codebase-search|Working WSL codebase search]]'
 source_release: '[[Releases/Cursor/cursor-2024-02-15-0-27-x-https-cursor-com-changelog-0-27-x-29975100|cursor-2024-02-15-0-27-x-https-cursor-com-changelog-0-27-x-29975100]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -58,10 +63,10 @@ title: 'Linter: You can now turn on an AI linter in the "More" tab beside Chat'
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Linter: You can now turn on an AI linter in the "More" tab beside Chat
 
-<!-- chronolog:begin region="description" -->
-Cursor — Linter, Interpreter Mode Updates: Linter: You can now turn on an AI linter in the "More" tab beside Chat. It'll scan your file for small bugs every time you save.
+**Cursor** · 2024-02-15 · [[Themes/developer-workflow|Developer Workflow]] · [Official source](https://cursor.com/changelog/0-27-x) · from [[Releases/Cursor/cursor-2024-02-15-0-27-x-https-cursor-com-changelog-0-27-x-29975100|Linter, Interpreter Mode Updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -70,19 +75,25 @@ Cursor — Linter, Interpreter Mode Updates: Linter: You can now turn on an AI l
 > Source: https://cursor.com/changelog/0-27-x
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2024-02-15-interpreter-mode-we-ve-made-some-big-improvements-to-the-backend-powering-interp|Interpreter Mode: We've made some big improvements to the backend powering…]] · Agent Mode
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: developer-workflow
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-18-built-in-terminal|cursor-2023-03-18-76a713]]
-- Lag Days: 334
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Developer Workflow
+
+- Earlier: 2024-01-15 · Cursor · [[Changes/Cursor/2024-01-15-working-wsl-codebase-search|Working WSL codebase search]]
+- Later: 2024-06-08 · Cursor · [[Changes/Cursor/2024-06-08-remote-tunnels-are-now-supported-remote-ssh-support-is-also-more-robust-now-supp|Remote tunnels are now supported!]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2024-02-15-7ac01a&body=Card%3A%20Changes%2FCursor%2F2024-02-15-linter-you-can-now-turn-on-an-ai-linter-in-the-more-tab-beside-chat-it-ll-scan-y.md%0ACard%20ID%3A%20cursor-2024-02-15-7ac01a%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F0-27-x%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

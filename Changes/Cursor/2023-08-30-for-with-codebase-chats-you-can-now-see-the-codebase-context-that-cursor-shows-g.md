@@ -1,8 +1,12 @@
 ---
 card_id: cursor-2023-08-30-e21849
 date: '2023-08-30'
+description: 'Cursor · 2023-08-30 · Context Window: For "with codebase" chats, you
+  can now see the codebase context that Cursor shows GPT-4. We hope this will make
+  it easier…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|cursor-2023-05-04-00d3b7]]'
+  first_in_tracked: '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended
+    prompt length for project generation]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 118
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: ac5abc695edd3198e65f0d03814cc4a86d18aae367dd6bf68ba8599a688e7007
+machine_hash: 238af133424c6a4abcfbe58a9fbc8189dc85c2c0500b0d784205c4dd85bb8904
 product: cursor
 product_name: Cursor
 record:
@@ -49,9 +53,12 @@ record:
     shows GPT-4
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-08-22-follow-up-chat-messages-to-with-codebase-will-keep-the-codebase-context|cursor-2023-08-22-8a6a3a]]'
-- '[[Changes/Cursor/2023-08-22-if-you-reference-a-long-file-that-will-be-cutoff-by-the-context-limit-you-ll-be|cursor-2023-08-22-9181ad]]'
-- '[[Changes/Cursor/2023-08-26-have-the-advanced-context-button-show-up-for-non-git-repos|cursor-2023-08-26-3822be]]'
+- '[[Changes/Cursor/2023-08-22-follow-up-chat-messages-to-with-codebase-will-keep-the-codebase-context|Follow-up
+  chat messages to "with codebase" will keep the codebase context]]'
+- '[[Changes/Cursor/2023-08-22-if-you-reference-a-long-file-that-will-be-cutoff-by-the-context-limit-you-ll-be|If
+  you @ reference a long file that will be cutoff by the context limit, you''ll…]]'
+- '[[Changes/Cursor/2023-08-26-have-the-advanced-context-button-show-up-for-non-git-repos|Have
+  the advanced context button show up for non git repos]]'
 source_release: '[[Releases/Cursor/cursor-2023-08-30-0-9-0-https-cursor-com-changelog-0-9-0-1c913df4|cursor-2023-08-30-0-9-0-https-cursor-com-changelog-0-9-0-1c913df4]]'
 source_type: cursor_changelog
 theme: context-window
@@ -60,10 +67,10 @@ title: For "with codebase" chats, you can now see the codebase context that Curs
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # For "with codebase" chats, you can now see the codebase context that Cursor shows GPT-4
 
-<!-- chronolog:begin region="description" -->
-Cursor — Auditable codebase context, VS Code left bar: For "with codebase" chats, you can now see the codebase context that Cursor shows GPT-4. We hope this will make it easier to prompt codebase answers.
+**Cursor** · 2023-08-30 · [[Themes/context-window|Context Window]] · [Official source](https://cursor.com/changelog/0-9-0) · from [[Releases/Cursor/cursor-2023-08-30-0-9-0-https-cursor-com-changelog-0-9-0-1c913df4|Auditable codebase context, VS Code left bar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -72,19 +79,26 @@ Cursor — Auditable codebase context, VS Code left bar: For "with codebase" cha
 > Source: https://cursor.com/changelog/0-9-0
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2023-08-30-you-can-now-switch-to-the-vs-code-sidebar-orientation|Switch to the VS Code sidebar orientation]] · Interface Experience
+- [[Changes/Cursor/2023-08-30-api-key-input-box-is-now-a-password-type|API Key input box is now a password type]] · Safety and Privacy
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: context-window
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|cursor-2023-05-04-00d3b7]]
-- Lag Days: 118
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Context Window
+
+- Earlier: 2023-08-26 · Cursor · [[Changes/Cursor/2023-08-26-have-the-advanced-context-button-show-up-for-non-git-repos|Have the advanced context button show up for non git repos]]
+- Later: 2023-09-08 · Cursor · [[Changes/Cursor/2023-09-08-you-can-also-paste-a-url-into-the-chat-and-the-model-will-automatically-include|You can also paste a url into the chat and the model will automatically include…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended prompt length for project generation]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2023-08-30-e21849&body=Card%3A%20Changes%2FCursor%2F2023-08-30-for-with-codebase-chats-you-can-now-see-the-codebase-context-that-cursor-shows-g.md%0ACard%20ID%3A%20cursor-2023-08-30-e21849%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F0-9-0%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

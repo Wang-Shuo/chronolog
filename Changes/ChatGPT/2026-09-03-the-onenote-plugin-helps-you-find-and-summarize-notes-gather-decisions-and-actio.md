@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2026-09-03-1687e9
 date: '2026-09-03'
+description: 'ChatGPT · 2026-09-03 · Apps and Integrations: The OneNote plugin helps
+  you find and summarize notes, gather decisions and action items, and create or update…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
+    can join the waitlist to try plugins here]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1260
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3948672d17e869fac093340c3086adc084a499c7ec10df96c28326b79540cc1a
+machine_hash: 9495f50b7767d3f53c9eb8daea675313f83bd7a3361b1a766a4d683367547efd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,9 +43,12 @@ record:
     action…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-01-eligible-chatgpt-for-clinicians-users-in-the-united-states-can-now-use-healthcar|chatgpt-2026-09-01-613673]]'
-- '[[Changes/Claude Code/2026-09-02-added-json-to-claude-plugin-validate-for-a-machine-readable-validation-report|claude-code-2026-09-02-077441]]'
-- '[[Changes/Claude Code/2026-09-02-added-managedmcpservers-managed-setting-organizations-can-provide-http-sse-mcp-s|claude-code-2026-09-02-67251e]]'
+- '[[Changes/ChatGPT/2026-09-01-eligible-chatgpt-for-clinicians-users-in-the-united-states-can-now-use-healthcar|Eligible
+  ChatGPT for Clinicians users in the United States can now use Healthcare…]]'
+- '[[Changes/Claude Code/2026-09-02-added-json-to-claude-plugin-validate-for-a-machine-readable-validation-report|Added
+  --json to claude plugin validate for a machine-readable validation report]]'
+- '[[Changes/Claude Code/2026-09-02-added-managedmcpservers-managed-setting-organizations-can-provide-http-sse-mcp-s|Added
+  managedMcpServers managed setting]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-03-zendesk-onenote-plugins-in-chatgpt-and-codex-beta-d31462ff|chatgpt-2026-09-03-zendesk-onenote-plugins-in-chatgpt-and-codex-beta-d31462ff]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -51,10 +57,10 @@ title: The OneNote plugin helps you find and summarize notes, gather decisions a
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # The OneNote plugin helps you find and summarize notes, gather decisions and action…
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Zendesk & OneNote Plugins in ChatGPT and Codex [Beta]: The OneNote plugin helps you find and summarize notes, gather decisions and action items, and create or update notes through supported actions in ChatGPT and Codex.
+**ChatGPT** · 2026-09-03 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-03-zendesk-onenote-plugins-in-chatgpt-and-codex-beta-d31462ff|Zendesk & OneNote Plugins in ChatGPT and Codex Beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -63,19 +69,25 @@ ChatGPT — Zendesk & OneNote Plugins in ChatGPT and Codex [Beta]: The OneNote p
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2026-09-03-today-we-added-the-zendesk-and-onenote-plugins-in-the-plugin-directory-the-zende|Today, we added the Zendesk and OneNote plugins in the Plugin directory]] · Apps and Integrations
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: apps-integrations
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]
-- Lag Days: 1260
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Apps and Integrations
+
+- Earlier: 2026-09-02 · Claude Code · [[Changes/Claude Code/2026-09-02-added-managedmcpservers-managed-setting-organizations-can-provide-http-sse-mcp-s|Added managedMcpServers managed setting]]
+- Later: 2026-09-03 · Claude Code · [[Changes/Claude Code/2026-09-03-added-oidc-scope-on-refresh-to-the-claude-apps-gateway-for-idps-that-return-an-i|Added oidc.scope_on_refresh to the Claude apps gateway for IdPs that return…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-03-1687e9&body=Card%3A%20Changes%2FChatGPT%2F2026-09-03-the-onenote-plugin-helps-you-find-and-summarize-notes-gather-decisions-and-actio.md%0ACard%20ID%3A%20chatgpt-2026-09-03-1687e9%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

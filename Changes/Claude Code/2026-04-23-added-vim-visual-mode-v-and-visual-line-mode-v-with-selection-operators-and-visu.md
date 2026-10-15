@@ -1,8 +1,11 @@
 ---
 card_id: claude-code-2026-04-23-8ff90a
 date: '2026-04-23'
+description: 'Claude Code · 2026-04-23 · Interface Experience: Added vim visual mode
+  (`v`) and visual-line mode (`V`) with selection, operators, and visual feedback'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
+    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1200
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 68de1cdbb9392dc9706e499b4ee14379af024f6e66b716d497e5ec4cfa12cb79
+machine_hash: 87cea1ee11f6bf0af715a4a2db71622a0d9e99ec42899715fc7be3ce1f12b7fe
 product: claude-code
 product_name: Claude Code
 record:
@@ -39,9 +42,12 @@ record:
   title: Added vim visual mode (`v`) and visual-line mode (`V`) with selection, operators…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-17-ctrl-a-and-ctrl-e-now-move-to-the-start-end-of-the-current-logical-line-in-multi|claude-code-2026-04-17-a2c41c]]'
-- '[[Changes/Claude Code/2026-04-20-thinking-spinner-now-shows-progress-inline-still-thinking-thinking-more-almost-d|claude-code-2026-04-20-c71453]]'
-- '[[Changes/Claude Code/2026-04-20-smoother-fullscreen-scrolling-in-vs-code-cursor-and-windsurf-terminals-terminal|claude-code-2026-04-20-f519b5]]'
+- '[[Changes/Claude Code/2026-04-17-ctrl-a-and-ctrl-e-now-move-to-the-start-end-of-the-current-logical-line-in-multi|Ctrl+A
+  and Ctrl+E now move to the start/end of the current logical line…]]'
+- '[[Changes/Claude Code/2026-04-20-thinking-spinner-now-shows-progress-inline-still-thinking-thinking-more-almost-d|Thinking
+  spinner now shows progress inline…]]'
+- '[[Changes/Claude Code/2026-04-20-smoother-fullscreen-scrolling-in-vs-code-cursor-and-windsurf-terminals-terminal|Smoother
+  fullscreen scrolling in VS Code, Cursor, and Windsurf terminals]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-23-v2-1-118-github-312487295-b3c6b04c|claude-code-2026-04-23-v2-1-118-github-312487295-b3c6b04c]]'
 source_type: github_releases
 theme: interface-experience
@@ -49,10 +55,10 @@ title: Added vim visual mode (v) and visual-line mode (V) with selection, operat
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Added vim visual mode (`v`) and visual-line mode (`V`) with selection, operators…
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.118: Added vim visual mode (`v`) and visual-line mode (`V`) with selection, operators, and visual feedback
+**Claude Code** · 2026-04-23 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.118) · from [[Releases/Claude Code/claude-code-2026-04-23-v2-1-118-github-312487295-b3c6b04c|v2.1.118]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -61,19 +67,28 @@ Claude Code — v2.1.118: Added vim visual mode (`v`) and visual-line mode (`V`)
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.118
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-04-23-create-and-switch-between-named-custom-themes-from-theme-or-hand-edit-json-files|Create and switch between named custom themes from /theme, or hand-edit JSON files…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-04-23-added-disable-updates-env-var-to-completely-block-all-update-paths-including-man|Added DISABLE_UPDATES env var to completely block all update paths including…]] · Enterprise and Administration
+- [[Changes/Claude Code/2026-04-23-merged-cost-and-stats-into-usage-both-remain-as-typing-shortcuts-that-open-the-r|Merged /cost and /stats into /usage]] · Editor Experience
+- [[Changes/Claude Code/2026-04-23-hooks-can-now-invoke-mcp-tools-directly-via-type-mcp-tool|Hooks can now invoke MCP tools directly via type: "mcp_tool"]] · Apps and Integrations
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: interface-experience
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]
-- Lag Days: 1200
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Interface Experience
+
+- Earlier: 2026-04-20 · Claude Code · [[Changes/Claude Code/2026-04-20-smoother-fullscreen-scrolling-in-vs-code-cursor-and-windsurf-terminals-terminal|Smoother fullscreen scrolling in VS Code, Cursor, and Windsurf terminals]]
+- Later: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-added-claude-code-hide-cwd-environment-variable-to-hide-the-working-directory-in|Added CLAUDE_CODE_HIDE_CWD environment variable to hide the working directory…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-04-23-8ff90a&body=Card%3A%20Changes%2FClaude%20Code%2F2026-04-23-added-vim-visual-mode-v-and-visual-line-mode-v-with-selection-operators-and-visu.md%0ACard%20ID%3A%20claude-code-2026-04-23-8ff90a%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.118%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2025-09-22-6c0a54
 date: '2025-09-22'
+description: 'ChatGPT · 2025-09-22 · Memory and Personalization: Longer memory for
+  more personalized responses'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|chatgpt-2023-07-20-37833c]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re
+    starting to roll out custom instructions, giving you more control over…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 795
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: a25c458d6d2c6a61066bfe010a9171494e023553b9f53efd88796a87e5608b71
+machine_hash: 99ccdf2d1f0eac8071050d7d5085d4a2b2998c99b3e48248d9425af71bc3a7e8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -36,9 +39,12 @@ record:
   title: Longer memory for more personalized responses
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-08-22-personal-memory-must-be-enabled-to-utilize-this-feature-settings-personalization|chatgpt-2025-08-22-51c0ac]]'
-- '[[Changes/ChatGPT/2025-08-22-an-improvement-to-projects-is-now-available-when-creating-a-project-users-have-t-aa77f4|chatgpt-2025-08-22-aa77f4]]'
-- '[[Changes/ChatGPT/2025-09-15-personalization-no-longer-opens-in-a-separate-modal-you-can-manage-personalizati|chatgpt-2025-09-15-ed5e00]]'
+- '[[Changes/ChatGPT/2025-08-22-personal-memory-must-be-enabled-to-utilize-this-feature-settings-personalization|Personal
+  Memory must be enabled to utilize this feature]]'
+- '[[Changes/ChatGPT/2025-08-22-an-improvement-to-projects-is-now-available-when-creating-a-project-users-have-t-aa77f4|An
+  improvement to projects is now available]]'
+- '[[Changes/ChatGPT/2025-09-15-personalization-no-longer-opens-in-a-separate-modal-you-can-manage-personalizati|Personalization
+  no longer opens in a separate modal]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-22-chatgpt-go-now-available-in-indonesia-27c365a7|chatgpt-2025-09-22-chatgpt-go-now-available-in-indonesia-27c365a7]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -46,10 +52,10 @@ title: Longer memory for more personalized responses
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Longer memory for more personalized responses
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — ChatGPT Go now available in Indonesia: Longer memory for more personalized responses
+**ChatGPT** · 2025-09-22 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-09-22-chatgpt-go-now-available-in-indonesia-27c365a7|ChatGPT Go now available in Indonesia]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -58,19 +64,26 @@ ChatGPT — ChatGPT Go now available in Indonesia: Longer memory for more person
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2025-09-22-we-re-launching-chatgpt-go-our-low-cost-subscription-plan-in-indonesia-for-rp-75|ChatGPT launches ChatGPT Go, our low cost subscription plan, in Indonesia]] · Pricing Model
+- [[Changes/ChatGPT/2025-09-22-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]] · Image Generation
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: memory
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|chatgpt-2023-07-20-37833c]]
-- Lag Days: 795
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Memory and Personalization
+
+- Earlier: 2025-09-15 · ChatGPT · [[Changes/ChatGPT/2025-09-15-personalization-no-longer-opens-in-a-separate-modal-you-can-manage-personalizati|Personalization no longer opens in a separate modal]]
+- Later: 2025-09-25 · ChatGPT · [[Changes/ChatGPT/2025-09-25-we-re-launching-an-early-preview-of-chatgpt-pulse-for-pro-users-on-ios-and-andro-cf8064|ChatGPT launches an early preview of ChatGPT pulse for Pro users on iOS and Android]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re starting to roll out custom instructions, giving you more control over…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-09-22-6c0a54&body=Card%3A%20Changes%2FChatGPT%2F2025-09-22-longer-memory-for-more-personalized-responses.md%0ACard%20ID%3A%20chatgpt-2025-09-22-6c0a54%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

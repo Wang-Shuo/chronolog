@@ -1,10 +1,12 @@
 ---
 changes_count: 0
 date: '2023-11-09'
-machine_hash: 900040a22e80a1f5b0b4465a7208ad39bd356f9919373fd8d082d616115fa734
+description: 'Cursor release Indexing fixes on 2023-11-09: no tracked changes'
+machine_hash: 585905f47ccc080f056fb9bc7273fb6bcbb0ea4f083b0628192e7fdee097e59c
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2023-11-09'
   product: cursor
   product_name: Cursor
@@ -22,19 +24,21 @@ source_url: https://cursor.com/changelog/0-14-1
 tags:
 - release
 - cursor
-title: Cursor — Indexing fixes
+title: Cursor · Indexing fixes
 version: 0.14.1
 ---
 
-# Cursor Indexing fixes
+<!-- chronolog:begin region="header" -->
+# Cursor · Indexing fixes
+
+**Cursor** · 2023-11-09 · [Official release notes](https://cursor.com/changelog/0-14-1)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Fixes a problem where indexing got stuck. Indexing capacity is now also allocated by-user, so it should be more fair and faster for most users.
 
-[Official release notes](https://cursor.com/changelog/0-14-1)
-
-Tracked cards: 0
+Tracked 0 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

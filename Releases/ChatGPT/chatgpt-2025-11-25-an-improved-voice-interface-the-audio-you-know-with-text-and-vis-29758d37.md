@@ -1,10 +1,14 @@
 ---
 changes_count: 5
 date: '2025-11-25'
-machine_hash: db48b9c1dab163f6d0629618e493074ece21ff1de78e080a3c19da26dd53f8ac
+description: 'ChatGPT release An improved Voice interface: the audio you know, with
+  text and visuals when you need them. on 2025-11-25: 5 tracked changes across Voice
+  and…'
+machine_hash: 7364683d8f28feb1a23bc1e9a7787a232877e24de69194bb1dd999a16adb002d
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 7
   date: '2025-11-25'
   product: chatgpt
   product_name: ChatGPT
@@ -27,28 +31,30 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: 'ChatGPT — An improved Voice interface: the audio you know, with text and visuals
+title: 'ChatGPT · An improved Voice interface: the audio you know, with text and visuals
   when you need them.'
 version: 'An improved Voice interface: the audio you know, with text and visuals when
   you need them.'
 ---
 
-# ChatGPT An improved Voice interface: the audio you know, with text and visuals when you need them.
+<!-- chronolog:begin region="header" -->
+# ChatGPT · An improved Voice interface: the audio you know, with text and visuals when you need them.
+
+**ChatGPT** · 2025-11-25 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 We’re making ChatGPT Voice a seamless part of the ChatGPT experience, so you can use voice right inside the chat interface you already use every day—no separate mode required.Many of you have asked for a more flexible Voice experience—now, you can speak, listen, and see your conversation at the same time. Answers will…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 5
+Tracked 5 of 7 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- voice: [[Changes/ChatGPT/2025-11-25-type-back-when-you-can-t-talk-and-still-get-a-voice-response|Type back when you can’t talk and still get a Voice response]]
-- voice: [[Changes/ChatGPT/2025-11-25-follow-along-with-typed-answers-as-you-listen|Follow along with typed answers as you listen]]
-- voice: [[Changes/ChatGPT/2025-11-25-we-re-making-chatgpt-voice-a-seamless-part-of-the-chatgpt-experience-so-you-can-daf32e|We’re making ChatGPT Voice a seamless part of the ChatGPT experience, so you can use…]]
-- voice: [[Changes/ChatGPT/2025-11-25-refer-back-to-earlier-messages-without-interrupting-the-conversation|Refer back to earlier messages without interrupting the conversation]]
-- collaboration: [[Changes/ChatGPT/2025-11-25-share-photos-to-discuss-them-out-loud|Share photos to discuss them out loud]]
+- [[Changes/ChatGPT/2025-11-25-type-back-when-you-can-t-talk-and-still-get-a-voice-response|Type back when you can’t talk and still get a Voice response]] · Voice and Audio
+- [[Changes/ChatGPT/2025-11-25-follow-along-with-typed-answers-as-you-listen|Follow along with typed answers as you listen]] · Voice and Audio
+- [[Changes/ChatGPT/2025-11-25-we-re-making-chatgpt-voice-a-seamless-part-of-the-chatgpt-experience-so-you-can-daf32e|We’re making ChatGPT Voice a seamless part of the ChatGPT experience, so you can use…]] · Voice and Audio
+- [[Changes/ChatGPT/2025-11-25-refer-back-to-earlier-messages-without-interrupting-the-conversation|Refer back to earlier messages without interrupting the conversation]] · Voice and Audio
+- [[Changes/ChatGPT/2025-11-25-share-photos-to-discuss-them-out-loud|Share photos to discuss them out loud]] · Collaboration
 <!-- chronolog:end -->

@@ -1,10 +1,13 @@
 ---
 changes_count: 3
 date: '2026-05-29'
-machine_hash: 6032dc3765f6254ff0b0ef7eaadeda07d31907317054ac07c67cea92042ed3a4
+description: 'Cursor release Auto-review Run Mode on 2026-05-29: 3 tracked changes
+  across Agent Mode, Safety and Privacy'
+machine_hash: 0dea7b7cc6c89dbe1a1145d418fcb7fb33b43431df0d4e71f82cb45007df6c05
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 4
   date: '2026-05-29'
   product: cursor
   product_name: Cursor
@@ -22,24 +25,26 @@ source_url: https://cursor.com/changelog/auto-review
 tags:
 - release
 - cursor
-title: Cursor — Auto-review Run Mode
+title: Cursor · Auto-review Run Mode
 version: '3.6'
 ---
 
-# Cursor Auto-review Run Mode
+<!-- chronolog:begin region="header" -->
+# Cursor · Auto-review Run Mode
+
+**Cursor** · 2026-05-29 · [Official release notes](https://cursor.com/changelog/auto-review)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Auto-review is a new run mode that allows Cursor to work for longer with fewer approval prompts and safer execution.
 
-[Official release notes](https://cursor.com/changelog/auto-review)
-
-Tracked cards: 3
+Tracked 3 of 4 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- agent-mode: [[Changes/Cursor/2026-05-29-auto-review-is-a-new-run-mode-that-allows-cursor-to-work-for-longer-with-fewer-a|Auto-review is a new run mode that allows Cursor to work for longer with fewer…]]
-- agent-mode: [[Changes/Cursor/2026-05-29-configure-your-run-mode-in-settings-cursor-settings-agents-approvals-execution-y|Configure your run mode in Settings  Cursor Settings  Agents  Approvals & Execution]]
-- safety-privacy: [[Changes/Cursor/2026-05-29-auto-review-applies-to-shell-mcp-and-fetch-tool-calls-allowlisted-calls-run-imme|Auto-review applies to Shell, MCP, and Fetch tool calls]]
+- [[Changes/Cursor/2026-05-29-auto-review-is-a-new-run-mode-that-allows-cursor-to-work-for-longer-with-fewer-a|Auto-review is a new run mode that allows Cursor to work for longer with fewer…]] · Agent Mode
+- [[Changes/Cursor/2026-05-29-configure-your-run-mode-in-settings-cursor-settings-agents-approvals-execution-y|Configure your run mode in Settings  Cursor Settings  Agents  Approvals & Execution]] · Agent Mode
+- [[Changes/Cursor/2026-05-29-auto-review-applies-to-shell-mcp-and-fetch-tool-calls-allowlisted-calls-run-imme|Auto-review applies to Shell, MCP, and Fetch tool calls]] · Safety and Privacy
 <!-- chronolog:end -->

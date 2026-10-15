@@ -1,7 +1,9 @@
 ---
 created: '2023-07-06'
 date: '2026-10-14'
-machine_hash: a7ed0e73077433ef6c7ad8cb5a2e4831defba0ba02cc29041994bbeb6e97d9a4
+description: Cross-product timeline of Files and Data changes in ChatGPT, Claude Code
+  and Cursor.
+machine_hash: 6f6527321f4fca795d7052e218a52ea8f75bf690279f364df4b2d55c926c2006
 modified: '2026-10-14'
 products_involved:
 - ChatGPT
@@ -13,10 +15,12 @@ tags:
 - theme
 - moc
 theme: file-data
-title: File Data
+title: Files and Data
 ---
 
-# Theme: file-data
+<!-- chronolog:begin region="header" -->
+# Files and Data
+<!-- chronolog:end -->
 
 ## Research summary
 <!-- chronolog:begin region="narrative" -->

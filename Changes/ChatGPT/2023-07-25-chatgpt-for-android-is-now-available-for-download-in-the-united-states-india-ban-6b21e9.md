@@ -1,8 +1,12 @@
 ---
 card_id: chatgpt-2023-07-25-6b21e9
 date: '2023-07-25'
+description: 'ChatGPT · 2023-07-25 · Mobile and Desktop: ChatGPT for Android is now
+  available for download in the United States, India, Bangladesh, and Brazil from
+  the…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support 🥳]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 133
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1a71a1851539d2308e9463819457f0c994bd39c9fe72a299bc544d342eb0849f
+machine_hash: 8c160dfa93e12ea262bff7aa7f5223db38f18409e13846694debc9c346f322e9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,9 +45,12 @@ record:
   title: ChatGPT for Android is now available for download in the United States, India…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-05-24-good-news-we-re-expanding-availability-of-the-chatgpt-app-for-ios-to-more-countr-1a3e7f|chatgpt-2023-05-24-1a3e7f]]'
-- '[[Changes/ChatGPT/2023-05-24-you-can-now-disable-your-chat-history-on-ios-conversations-started-on-your-devic|chatgpt-2023-05-24-d0a573]]'
-- '[[Changes/ChatGPT/2023-06-22-we-ve-made-two-updates-to-the-mobile-chatgpt-app|chatgpt-2023-06-22-88b23f]]'
+- '[[Changes/ChatGPT/2023-05-24-good-news-we-re-expanding-availability-of-the-chatgpt-app-for-ios-to-more-countr-1a3e7f|ChatGPT
+  expands availability of the ChatGPT app for iOS to more countries and regions]]'
+- '[[Changes/ChatGPT/2023-05-24-you-can-now-disable-your-chat-history-on-ios-conversations-started-on-your-devic|Disable
+  your chat history on iOS]]'
+- '[[Changes/ChatGPT/2023-06-22-we-ve-made-two-updates-to-the-mobile-chatgpt-app|ChatGPT
+  makes two updates to the mobile ChatGPT app]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-07-25-introducing-the-chatgpt-app-for-android-a5c30ad5|chatgpt-2023-07-25-introducing-the-chatgpt-app-for-android-a5c30ad5]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -51,10 +58,10 @@ title: ChatGPT for Android is now available for download in the United States, I
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # ChatGPT for Android is now available for download in the United States, India…
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Introducing the ChatGPT app for Android: ChatGPT for Android is now available for download in the United States, India, Bangladesh, and Brazil from the Google Play Store.We plan to expand the rollout to additional countries over the next week. You can track the Android rollout here.
+**ChatGPT** · 2023-07-25 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-07-25-introducing-the-chatgpt-app-for-android-a5c30ad5|Introducing the ChatGPT app for Android]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -63,19 +70,23 @@ ChatGPT — Introducing the ChatGPT app for Android: ChatGPT for Android is now 
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: mobile-desktop
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]
-- Lag Days: 133
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Mobile and Desktop
+
+- Earlier: 2023-06-22 · ChatGPT · [[Changes/ChatGPT/2023-06-22-we-ve-made-two-updates-to-the-mobile-chatgpt-app|ChatGPT makes two updates to the mobile ChatGPT app]]
+- Later: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Show ChatGPT one or more images]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-07-25-6b21e9&body=Card%3A%20Changes%2FChatGPT%2F2023-07-25-chatgpt-for-android-is-now-available-for-download-in-the-united-states-india-ban-6b21e9.md%0ACard%20ID%3A%20chatgpt-2023-07-25-6b21e9%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

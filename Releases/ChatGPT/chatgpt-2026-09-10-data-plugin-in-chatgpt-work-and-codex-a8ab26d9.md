@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2026-09-10'
-machine_hash: c4529bf336aaf555e27df8276158466c0478a46005d72256729f4975334f1250
+description: 'ChatGPT release Data plugin in ChatGPT Work and Codex on 2026-09-10:
+  1 tracked change across Apps and Integrations'
+machine_hash: c54ff66358a3f1a7b66153a700ee474957be2aa3c422d1cbfabc89ac98b9e44c
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 1
   date: '2026-09-10'
   product: chatgpt
   product_name: ChatGPT
@@ -24,22 +27,24 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Data plugin in ChatGPT Work and Codex
+title: ChatGPT · Data plugin in ChatGPT Work and Codex
 version: Data plugin in ChatGPT Work and Codex
 ---
 
-# ChatGPT Data plugin in ChatGPT Work and Codex
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Data plugin in ChatGPT Work and Codex
+
+**ChatGPT** · 2026-09-10 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 The Data plugin helps you analyze connected business data in ChatGPT Work and Codex. Ask a business question, investigate changes, or create an interactive dashboard or report. You can refine the analysis with follow-up questions and bring in your team’s metric definitions and other business context.To get started…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- apps-integrations: [[Changes/ChatGPT/2026-09-10-the-data-plugin-helps-you-analyze-connected-business-data-in-chatgpt-work-and-co|The Data plugin helps you analyze connected business data in ChatGPT Work and Codex]]
+- [[Changes/ChatGPT/2026-09-10-the-data-plugin-helps-you-analyze-connected-business-data-in-chatgpt-work-and-co|The Data plugin helps you analyze connected business data in ChatGPT Work and Codex]] · Apps and Integrations
 <!-- chronolog:end -->

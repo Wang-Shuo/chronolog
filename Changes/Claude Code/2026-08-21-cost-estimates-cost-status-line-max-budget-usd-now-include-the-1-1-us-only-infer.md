@@ -1,8 +1,12 @@
 ---
 card_id: claude-code-2026-08-21-47dab0
 date: '2026-08-21'
+description: 'Claude Code · 2026-08-21 · Interface Experience: Cost estimates (`/cost`,
+  status line, `--max-budget-usd`) now include the 1.1× US-only-inference premium
+  for…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
+    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1320
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: e15537ad33155a02bb8b1737f6d79e032e17fb1caa32c8f580430bdfa988d07c
+machine_hash: d8a062cd868426f5d579b2d05a95b5670d1ff9c7c8aed5034d21a91281ce0296
 product: claude-code
 product_name: Claude Code
 record:
@@ -37,9 +41,12 @@ record:
   title: Cost estimates (`/cost`, status line, `--max-budget-usd`) now include…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-17-added-the-selection-clear-keybinding-action-so-a-key-can-be-bound-to-clear-an-in|claude-code-2026-08-17-500eef]]'
-- '[[Changes/ChatGPT/2026-08-21-keep-recent-chats-easier-to-browse-your-sidebar-now-shows-up-to-eight-recent-con|chatgpt-2026-08-21-9fd387]]'
-- '[[Changes/ChatGPT/2026-08-21-generated-images-are-easier-to-view-and-your-recent-conversations-are-easier-to|chatgpt-2026-08-21-f1d36c]]'
+- '[[Changes/Claude Code/2026-08-17-added-the-selection-clear-keybinding-action-so-a-key-can-be-bound-to-clear-an-in|Added
+  the selection:clear keybinding action, so a key can be bound to clear…]]'
+- '[[Changes/ChatGPT/2026-08-21-keep-recent-chats-easier-to-browse-your-sidebar-now-shows-up-to-eight-recent-con|Keep
+  recent chats easier to browse]]'
+- '[[Changes/ChatGPT/2026-08-21-generated-images-are-easier-to-view-and-your-recent-conversations-are-easier-to|Generated
+  images are easier to view, and your recent conversations are easier to browse]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-21-v2-1-239-github-374556322-5f6b8918|claude-code-2026-08-21-v2-1-239-github-374556322-5f6b8918]]'
 source_type: github_releases
 theme: interface-experience
@@ -47,10 +54,10 @@ title: Cost estimates (/cost, status line, --max-budget-usd) now include…
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Cost estimates (`/cost`, status line, `--max-budget-usd`) now include…
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.239: Cost estimates (`/cost`, status line, `--max-budget-usd`) now include the 1.1× US-only-inference premium for data-residency workspaces
+**Claude Code** · 2026-08-21 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.239) · from [[Releases/Claude Code/claude-code-2026-08-21-v2-1-239-github-374556322-5f6b8918|v2.1.239]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -59,19 +66,27 @@ Claude Code — v2.1.239: Cost estimates (`/cost`, status line, `--max-budget-us
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.239
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-08-21-added-the-one-time-fullscreen-renderer-offer-on-bedrock-vertex-foundry-and-other|Added the one-time fullscreen renderer offer on Bedrock, Vertex, Foundry and other…]] · Interface Experience
+- [[Changes/Claude Code/2026-08-21-cloud-sessions-plugins-synced-from-claude-ai-now-show-as-name-synced-work-with-c|Cloud sessions: plugins synced from claude.ai now show as name@synced, work…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-08-21-alpine-musl-builds-native-image-paste-clipboard-and-audio-capture-add-ons-now-lo|Alpine/musl builds: native image paste, clipboard, and audio-capture add-ons now…]] · Voice and Audio
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: interface-experience
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]
-- Lag Days: 1320
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Interface Experience
+
+- Earlier: 2026-08-21 · ChatGPT · [[Changes/ChatGPT/2026-08-21-generated-images-are-easier-to-view-and-your-recent-conversations-are-easier-to|Generated images are easier to view, and your recent conversations are easier to browse]]
+- Later: 2026-08-27 · Claude Code · [[Changes/Claude Code/2026-08-27-added-server-managed-settings-diagnostics-a-startup-warning-when-the-settings-fa|Added server-managed settings diagnostics]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-08-21-47dab0&body=Card%3A%20Changes%2FClaude%20Code%2F2026-08-21-cost-estimates-cost-status-line-max-budget-usd-now-include-the-1-1-us-only-infer.md%0ACard%20ID%3A%20claude-code-2026-08-21-47dab0%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.239%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

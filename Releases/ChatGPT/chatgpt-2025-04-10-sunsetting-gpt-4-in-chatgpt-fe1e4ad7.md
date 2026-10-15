@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2025-04-10'
-machine_hash: 44393a8ee4bfc534f695f16754c29c3b67af51ea035291b8f366c745d32c1457
+description: 'ChatGPT release Sunsetting GPT‑4 in ChatGPT on 2025-04-10: 1 tracked
+  change across Model Support'
+machine_hash: b9972d3861f9ecc34f64e0f1c13dd8ed8014444dbb596fbdc47f7c91f721c202
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 1
   date: '2025-04-10'
   product: chatgpt
   product_name: ChatGPT
@@ -24,22 +27,24 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Sunsetting GPT‑4 in ChatGPT
+title: ChatGPT · Sunsetting GPT‑4 in ChatGPT
 version: Sunsetting GPT‑4 in ChatGPT
 ---
 
-# ChatGPT Sunsetting GPT‑4 in ChatGPT
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Sunsetting GPT‑4 in ChatGPT
+
+**ChatGPT** · 2025-04-10 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Effective April 30, 2025, GPT‑4 will be retired from ChatGPT and fully replaced by GPT‑4o.GPT‑4o is our newer, natively multimodal model. In head‑to‑head evaluations it consistently surpasses GPT‑4 in writing, coding, STEM, and more.Recent upgrades have further improved GPT‑4o’s instruction following, problem solving…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2025-04-10-effective-april-30-2025-gpt-4-will-be-retired-from-chatgpt-and-fully-replaced-by-d03b3b|Effective April 30, 2025, GPT‑4 will be retired from ChatGPT and fully replaced by GPT‑4o]]
+- [[Changes/ChatGPT/2025-04-10-effective-april-30-2025-gpt-4-will-be-retired-from-chatgpt-and-fully-replaced-by-d03b3b|Effective April 30, 2025, GPT‑4 will be retired from ChatGPT and fully replaced by GPT‑4o]] · Model Support
 <!-- chronolog:end -->

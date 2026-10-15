@@ -1,10 +1,13 @@
 ---
 changes_count: 2
 date: '2026-08-28'
-machine_hash: 784db3ab14e6a6bc0708720bf009e6fdc7635f0af3283dd1635580d8e92e00d2
+description: 'ChatGPT release Connect multiple Google accounts to ChatGPT on 2026-08-28:
+  2 tracked changes across Apps and Integrations, Mobile and Desktop'
+machine_hash: e837acaab017dae1d92d4f5ba6a62a7106e97e6de0609b798a3c1456696fe16b
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 2
   date: '2026-08-28'
   product: chatgpt
   product_name: ChatGPT
@@ -24,23 +27,25 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Connect multiple Google accounts to ChatGPT
+title: ChatGPT · Connect multiple Google accounts to ChatGPT
 version: Connect multiple Google accounts to ChatGPT
 ---
 
-# ChatGPT Connect multiple Google accounts to ChatGPT
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Connect multiple Google accounts to ChatGPT
+
+**ChatGPT** · 2026-08-28 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 You can now connect multiple accounts for Gmail, Google Calendar, and Google Contacts plugins in ChatGPT, bringing your personal and work accounts into the same conversation. Ask ChatGPT to check your calendars together when planning your day or find emails across your connected inboxes.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 2
+Tracked 2 of 2 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- mobile-desktop: [[Changes/ChatGPT/2026-08-28-available-globally-on-supported-plus-pro-business-and-enterprise-plans-across-we|Available globally on supported Plus, Pro, Business, and Enterprise plans across…]]
-- apps-integrations: [[Changes/ChatGPT/2026-08-28-you-can-now-connect-multiple-accounts-for-gmail-google-calendar-and-google-conta|Connect multiple accounts for Gmail, Google Calendar, and Google Contacts plugins…]]
+- [[Changes/ChatGPT/2026-08-28-available-globally-on-supported-plus-pro-business-and-enterprise-plans-across-we|Available globally on supported Plus, Pro, Business, and Enterprise plans across…]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-08-28-you-can-now-connect-multiple-accounts-for-gmail-google-calendar-and-google-conta|Connect multiple accounts for Gmail, Google Calendar, and Google Contacts plugins…]] · Apps and Integrations
 <!-- chronolog:end -->

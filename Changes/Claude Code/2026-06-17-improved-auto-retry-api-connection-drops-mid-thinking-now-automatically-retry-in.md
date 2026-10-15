@@ -1,8 +1,11 @@
 ---
 card_id: claude-code-2026-06-17-acfb36
 date: '2026-06-17'
+description: 'Claude Code · 2026-06-17 · Reliability and Performance: Improved auto-retry:
+  API connection drops mid-thinking now automatically retry instead of showing…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|chatgpt-2022-12-15-9c6f9c]]'
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
+    performance: Among other improvements, users will notice that ChatGPT is now…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1280
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3cb3e65e99de603cfe843190282adcc14baba744099e4000e1b9f56e2f3f7d23
+machine_hash: 80ed1968edcb33e44c5fc09d05e785acc56529554ef7edabcd92de9d83c37ad5
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,9 +44,12 @@ record:
     retry…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-12-improved-bedrock-credential-caching-credentials-from-awscredentialexport-are-now|claude-code-2026-06-12-c6b174]]'
-- '[[Changes/ChatGPT/2026-06-17-with-scheduled-tasks-users-can-ask-chatgpt-to-send-reminders-handle-recurring-wo|chatgpt-2026-06-17-09675e]]'
-- '[[Changes/ChatGPT/2026-06-17-all-tasks-are-faster-and-more-reliable|chatgpt-2026-06-17-281370]]'
+- '[[Changes/Claude Code/2026-06-12-improved-bedrock-credential-caching-credentials-from-awscredentialexport-are-now|Improved
+  Bedrock credential caching]]'
+- '[[Changes/ChatGPT/2026-06-17-with-scheduled-tasks-users-can-ask-chatgpt-to-send-reminders-handle-recurring-wo|With
+  scheduled tasks, users can ask ChatGPT to send reminders, handle recurring…]]'
+- '[[Changes/ChatGPT/2026-06-17-all-tasks-are-faster-and-more-reliable|All tasks are
+  faster and more reliable]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-17-v2-1-181-github-340975229-c771c493|claude-code-2026-06-17-v2-1-181-github-340975229-c771c493]]'
 source_type: github_releases
 theme: reliability-performance
@@ -51,10 +57,10 @@ title: 'Improved auto-retry: API connection drops mid-thinking now automatically
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Improved auto-retry: API connection drops mid-thinking now automatically retry…
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.181: Improved auto-retry: API connection drops mid-thinking now automatically retry instead of showing "Connection closed while thinking"
+**Claude Code** · 2026-06-17 · [[Themes/reliability-performance|Reliability and Performance]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.181) · from [[Releases/Claude Code/claude-code-2026-06-17-v2-1-181-github-340975229-c771c493|v2.1.181]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -63,19 +69,28 @@ Claude Code — v2.1.181: Improved auto-retry: API connection drops mid-thinking
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.181
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-06-17-added-claude-client-presence-file-environment-variable-point-it-at-a-marker-file|Added CLAUDE_CLIENT_PRESENCE_FILE environment variable]] · Mobile and Desktop
+- [[Changes/Claude Code/2026-06-17-added-config-key-value-syntax-to-set-any-setting-from-the-prompt-e-g-config-thin|Added /config key=value syntax to set any setting from the prompt…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-06-17-added-sandbox-allowappleevents-opt-in-setting-that-lets-sandboxed-commands-send|Added sandbox.allowAppleEvents opt-in setting that lets sandboxed commands send…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-06-17-improved-streaming-of-long-paragraphs-text-now-appears-line-by-line-instead-of-w|Improved streaming of long paragraphs]] · Interface Experience
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: reliability-performance
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|chatgpt-2022-12-15-9c6f9c]]
-- Lag Days: 1280
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Reliability and Performance
+
+- Earlier: 2026-06-17 · ChatGPT · [[Changes/ChatGPT/2026-06-17-all-tasks-are-faster-and-more-reliable|All tasks are faster and more reliable]]
+- Later: 2026-06-17 · Cursor · [[Changes/Cursor/2026-06-17-your-environment-is-captured-in-a-reusable-snapshot-so-future-cloud-agents-start|Your environment is captured in a reusable snapshot, so future cloud agents start up…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-06-17-acfb36&body=Card%3A%20Changes%2FClaude%20Code%2F2026-06-17-improved-auto-retry-api-connection-drops-mid-thinking-now-automatically-retry-in.md%0ACard%20ID%3A%20claude-code-2026-06-17-acfb36%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.181%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

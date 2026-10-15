@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2023-09-11-bac960
 date: '2023-09-11'
+description: 'ChatGPT · 2023-09-11 · Accessibility and Localization: ChatGPT now supports
+  a limited selection of languages in the interface:'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|chatgpt-2023-09-11-bac960]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT
+    now supports a limited selection of languages in the interface]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 0
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 50250078e988bf62c5784aa500d6403909a897b2646f1478d84e4c8340225f0c
+machine_hash: 8db4cf2ee8f95c3a0987917d6639ee586005e14f2662d012233dd1d6d060afb2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,10 +47,10 @@ title: ChatGPT now supports a limited selection of languages in the interface
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # ChatGPT now supports a limited selection of languages in the interface
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — ChatGPT language support - Alpha on web: ChatGPT now supports a limited selection of languages in the interface:
+**ChatGPT** · 2023-09-11 · [[Themes/accessibility-localization|Accessibility and Localization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-09-11-chatgpt-language-support-alpha-on-web-2a9614e3|ChatGPT language support - Alpha on web]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -56,19 +59,24 @@ ChatGPT — ChatGPT language support - Alpha on web: ChatGPT now supports a limi
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2023-09-11-if-you-ve-configured-your-browser-to-use-one-of-these-supported-languages-you-ll-e4857e|If you've configured your browser to use one of these supported languages, you'll…]] · Interface Experience
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: accessibility-localization
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: first-observed
-- First In Tracked: [[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|chatgpt-2023-09-11-bac960]]
-- Lag Days: 0
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Accessibility and Localization
+
+- Later: 2026-01-28 · Claude Code · [[Changes/Claude Code/2026-01-28-added-support-for-full-width-zenkaku-number-input-from-japanese-ime-in-option-se|Added support for full-width (zenkaku) number input from Japanese IME in option…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry among the 3 tracked products.
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-09-11-bac960&body=Card%3A%20Changes%2FChatGPT%2F2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface.md%0ACard%20ID%3A%20chatgpt-2023-09-11-bac960%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

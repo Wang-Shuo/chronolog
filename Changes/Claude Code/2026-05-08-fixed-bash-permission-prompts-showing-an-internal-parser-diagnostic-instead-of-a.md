@@ -1,8 +1,11 @@
 ---
 card_id: claude-code-2026-05-08-05c237
 date: '2026-05-08'
+description: 'Claude Code · 2026-05-08 · Safety and Privacy: Fixed Bash permission
+  prompts showing an internal parser diagnostic instead of a user-readable explanation'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|cursor-2023-04-16-f0e22a]]'
+  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
+    mode for opting out of storing any kind of data on our servers]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1118
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3200d565a61ddd56b8be4442fe9f829a0980c0cc7a1b8137288c53237eba87ff
+machine_hash: c222730bcffadde702661c8be057f5e692581d37b0183113ff0ca6b5e6160ad9
 product: claude-code
 product_name: Claude Code
 record:
@@ -39,9 +42,12 @@ record:
   title: Fixed Bash permission prompts showing an internal parser diagnostic instead…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-06-fixed-permission-mode-flag-being-ignored-when-resuming-a-plan-mode-session-with|claude-code-2026-05-06-ab7de0]]'
-- '[[Changes/ChatGPT/2026-05-07-over-the-coming-weeks-we-ll-be-rolling-out-trusted-contact-an-optional-safety-fe|chatgpt-2026-05-07-d104ca]]'
-- '[[Changes/Claude Code/2026-05-07-added-sandbox-bwrappath-and-sandbox-socatpath-managed-settings-linux-wsl-to-spec|claude-code-2026-05-07-b75d47]]'
+- '[[Changes/Claude Code/2026-05-06-fixed-permission-mode-flag-being-ignored-when-resuming-a-plan-mode-session-with|Fixed
+  --permission-mode flag being ignored when resuming a plan-mode session…]]'
+- '[[Changes/ChatGPT/2026-05-07-over-the-coming-weeks-we-ll-be-rolling-out-trusted-contact-an-optional-safety-fe|Over
+  the coming weeks, we''ll be rolling out trusted contact, an optional safety…]]'
+- '[[Changes/Claude Code/2026-05-07-added-sandbox-bwrappath-and-sandbox-socatpath-managed-settings-linux-wsl-to-spec|Added
+  sandbox.bwrapPath and sandbox.socatPath managed settings (Linux/WSL)…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-08-v2-1-136-github-319609716-58f21368|claude-code-2026-05-08-v2-1-136-github-319609716-58f21368]]'
 source_type: github_releases
 theme: safety-privacy
@@ -49,10 +55,10 @@ title: Fixed Bash permission prompts showing an internal parser diagnostic inste
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Fixed Bash permission prompts showing an internal parser diagnostic instead…
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.136: Fixed Bash permission prompts showing an internal parser diagnostic instead of a user-readable explanation
+**Claude Code** · 2026-05-08 · [[Themes/safety-privacy|Safety and Privacy]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.136) · from [[Releases/Claude Code/claude-code-2026-05-08-v2-1-136-github-319609716-58f21368|v2.1.136]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -61,19 +67,28 @@ Claude Code — v2.1.136: Fixed Bash permission prompts showing an internal pars
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.136
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-05-08-wsl2-image-paste-from-windows-clipboard-now-works-via-a-powershell-fallback-when|WSL2: image paste from Windows clipboard now works via a PowerShell fallback…]] · Multimodal Input
+- [[Changes/Claude Code/2026-05-08-added-settings-automode-hard-deny-for-auto-mode-classifier-rules-that-block-unco|Added settings.autoMode.hard_deny for auto mode classifier rules that block…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-05-08-improved-visual-consistency-across-slash-command-dialogs-standardized-footer-hin|Improved visual consistency across slash command dialogs]] · Developer Workflow
+- [[Changes/Claude Code/2026-05-08-added-claude-code-enable-feedback-survey-for-otel-to-re-enable-the-session-quali|Added CLAUDE_CODE_ENABLE_FEEDBACK_SURVEY_FOR_OTEL to re-enable the session quality…]] · Enterprise and Administration
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: safety-privacy
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|cursor-2023-04-16-f0e22a]]
-- Lag Days: 1118
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Safety and Privacy
+
+- Earlier: 2026-05-07 · Claude Code · [[Changes/Claude Code/2026-05-07-added-sandbox-bwrappath-and-sandbox-socatpath-managed-settings-linux-wsl-to-spec|Added sandbox.bwrapPath and sandbox.socatPath managed settings (Linux/WSL)…]]
+- Later: 2026-05-14 · Claude Code · [[Changes/Claude Code/2026-05-14-added-new-claude-agents-flags-add-dir-settings-mcp-config-plugin-dir-permission|Added new claude agents flags]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-05-08-05c237&body=Card%3A%20Changes%2FClaude%20Code%2F2026-05-08-fixed-bash-permission-prompts-showing-an-internal-parser-diagnostic-instead-of-a.md%0ACard%20ID%3A%20claude-code-2026-05-08-05c237%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.136%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

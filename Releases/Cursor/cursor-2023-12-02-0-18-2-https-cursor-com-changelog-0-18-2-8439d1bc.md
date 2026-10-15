@@ -1,10 +1,12 @@
 ---
 changes_count: 0
 date: '2023-12-02'
-machine_hash: b32d066aef58cc36f1d195303ee189d5d78c29a0bfdd93a6511160e4c0c203dd
+description: 'Cursor release Lowercase @ Folders Fix on 2023-12-02: no tracked changes'
+machine_hash: 0a71d46a1be2ba0942ae9e2170a67288df17d9367de8bf6f151cd9ca74d5f12a
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2023-12-02'
   product: cursor
   product_name: Cursor
@@ -22,19 +24,21 @@ source_url: https://cursor.com/changelog/0-18-2
 tags:
 - release
 - cursor
-title: Cursor — Lowercase @ Folders Fix
+title: Cursor · Lowercase @ Folders Fix
 version: 0.18.2
 ---
 
-# Cursor Lowercase @ Folders Fix
+<!-- chronolog:begin region="header" -->
+# Cursor · Lowercase @ Folders Fix
+
+**Cursor** · 2023-12-02 · [Official release notes](https://cursor.com/changelog/0-18-2)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Fixes the bug where all folders are switched to lowercase when using @ folder in chat.
 
-[Official release notes](https://cursor.com/changelog/0-18-2)
-
-Tracked cards: 0
+Tracked 0 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

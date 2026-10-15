@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2026-07-29-49015f
 date: '2026-07-29'
+description: 'Cursor · 2026-07-29 · Multimodal Input: Markup gets more room to work
+  too. Attach a screenshot, then tap to drop a comment at a specific point, or draw…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-11-27-image-support-in-chat-you-can-now-drag-and-drop-images-into-the-chat-to-send-the|cursor-2023-11-27-1702a4]]'
+  first_in_tracked: '[[Changes/Cursor/2023-11-27-image-support-in-chat-you-can-now-drag-and-drop-images-into-the-chat-to-send-the|Image
+    Support in Chat]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 975
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: e875fac39d5599cc0a0da5d86857da0939ee0f1a722d5fa938554be3a48c5902
+machine_hash: 541ff9712dd7319f48e830cd8eea857a0d92e67de01df5a71955d43699a63d07
 product: cursor
 product_name: Cursor
 record:
@@ -40,9 +43,12 @@ record:
   title: Markup gets more room to work too
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-12-12-use-the-controls-at-the-bottom-of-the-screen-like-the-camera-button-below-to-get|chatgpt-2024-12-12-5a71ee]]'
-- '[[Changes/Claude Code/2025-12-19-added-clickable-image-n-links-that-open-attached-images-in-the-default-viewer|claude-code-2025-12-19-4f76b7]]'
-- '[[Changes/Claude Code/2026-05-08-wsl2-image-paste-from-windows-clipboard-now-works-via-a-powershell-fallback-when|claude-code-2026-05-08-2b3d18]]'
+- '[[Changes/ChatGPT/2024-12-12-use-the-controls-at-the-bottom-of-the-screen-like-the-camera-button-below-to-get|Use
+  the controls at the bottom of the screen, like the camera button below, to get started]]'
+- '[[Changes/Claude Code/2025-12-19-added-clickable-image-n-links-that-open-attached-images-in-the-default-viewer|Added
+  clickable Image ♯N links that open attached images in the default viewer]]'
+- '[[Changes/Claude Code/2026-05-08-wsl2-image-paste-from-windows-clipboard-now-works-via-a-powershell-fallback-when|WSL2:
+  image paste from Windows clipboard now works via a PowerShell fallback…]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-29-cursor-now-on-ipad-https-cursor-com-changelog-ipad-d2eeee4c|cursor-2026-07-29-cursor-now-on-ipad-https-cursor-com-changelog-ipad-d2eeee4c]]'
 source_type: cursor_changelog
 theme: multimodal
@@ -50,10 +56,10 @@ title: Markup gets more room to work too
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Markup gets more room to work too
 
-<!-- chronolog:begin region="description" -->
-Cursor — Cursor, now on iPad: Markup gets more room to work too. Attach a screenshot, then tap to drop a comment at a specific point, or draw directly on the image with Apple Pencil.
+**Cursor** · 2026-07-29 · [[Themes/multimodal|Multimodal Input]] · [Official source](https://cursor.com/changelog/ipad) · from [[Releases/Cursor/cursor-2026-07-29-cursor-now-on-ipad-https-cursor-com-changelog-ipad-d2eeee4c|Cursor, now on iPad]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -62,19 +68,27 @@ Cursor — Cursor, now on iPad: Markup gets more room to work too. Attach a scre
 > Source: https://cursor.com/changelog/ipad
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2026-07-29-the-ipad-layout-is-rebuilt-around-the-extra-space-sidebar-chats-stay-pinned-so-y|The iPad layout is rebuilt around the extra space]] · Mobile and Desktop
+- [[Changes/Cursor/2026-07-29-on-iphone-and-ipad-the-review-screen-now-covers-the-full-pr-comments-checks-and|On iPhone and iPad, the review screen now covers the full PR]] · Mobile and Desktop
+- [[Changes/Cursor/2026-07-29-cursor-for-ipad-is-now-available-on-all-paid-plans|Cursor for iPad is now available on all paid plans]] · Mobile and Desktop
+- [[Changes/Cursor/2026-07-29-new-to-both-iphone-and-ipad-an-inbox-to-stay-organized-and-a-review-experience-t|New to both iPhone and iPad]] · Mobile and Desktop
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: multimodal
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-11-27-image-support-in-chat-you-can-now-drag-and-drop-images-into-the-chat-to-send-the|cursor-2023-11-27-1702a4]]
-- Lag Days: 975
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Multimodal Input
+
+- Earlier: 2026-05-08 · Claude Code · [[Changes/Claude Code/2026-05-08-wsl2-image-paste-from-windows-clipboard-now-works-via-a-powershell-fallback-when|WSL2: image paste from Windows clipboard now works via a PowerShell fallback…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-11-27 · Cursor · [[Changes/Cursor/2023-11-27-image-support-in-chat-you-can-now-drag-and-drop-images-into-the-chat-to-send-the|Image Support in Chat]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2026-07-29-49015f&body=Card%3A%20Changes%2FCursor%2F2026-07-29-markup-gets-more-room-to-work-too-attach-a-screenshot-then-tap-to-drop-a-comment.md%0ACard%20ID%3A%20cursor-2026-07-29-49015f%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2Fipad%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

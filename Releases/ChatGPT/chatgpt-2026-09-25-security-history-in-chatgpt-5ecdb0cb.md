@@ -1,10 +1,13 @@
 ---
 changes_count: 2
 date: '2026-09-25'
-machine_hash: 31e98c8ac797854b6b0e4b8d2e7b9464e5f6eac049ca96218d4b14bf077f3740
+description: 'ChatGPT release Security history in ChatGPT on 2026-09-25: 2 tracked
+  changes across Safety and Privacy'
+machine_hash: 0f68ee75638668d34e188592ae22150d8c47793053c0b957975a09bd530be98c
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 2
   date: '2026-09-25'
   product: chatgpt
   product_name: ChatGPT
@@ -25,23 +28,25 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Security history in ChatGPT
+title: ChatGPT · Security history in ChatGPT
 version: Security history in ChatGPT
 ---
 
-# ChatGPT Security history in ChatGPT
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Security history in ChatGPT
+
+**ChatGPT** · 2026-09-25 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 We’re introducing security history, a new way to review recent security activity for your OpenAI account. You can see sign-ins, sign-outs, and changes to multi-factor authentication (MFA), passkeys, and other security settings. Events include the time, location, and device details. Some details may be approximate or…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 2
+Tracked 2 of 2 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- safety-privacy: [[Changes/ChatGPT/2026-09-25-we-re-introducing-security-history-a-new-way-to-review-recent-security-activity|ChatGPT introduces security history, a new way to review recent security activity…]]
-- safety-privacy: [[Changes/ChatGPT/2026-09-25-to-view-your-history-in-chatgpt-on-the-web-go-to-settings-security-and-login-the|To view your history in ChatGPT on the web, go to Settings  Security and login…]]
+- [[Changes/ChatGPT/2026-09-25-we-re-introducing-security-history-a-new-way-to-review-recent-security-activity|ChatGPT introduces security history, a new way to review recent security activity…]] · Safety and Privacy
+- [[Changes/ChatGPT/2026-09-25-to-view-your-history-in-chatgpt-on-the-web-go-to-settings-security-and-login-the|To view your history in ChatGPT on the web, go to Settings  Security and login…]] · Safety and Privacy
 <!-- chronolog:end -->

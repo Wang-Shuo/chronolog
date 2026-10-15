@@ -1,8 +1,10 @@
 ---
 card_id: claude-code-2026-01-30-aab171
 date: '2026-01-30'
+description: 'Claude Code · 2026-01-30 · Developer Workflow: Added tool call failures
+  and denials to debug logs'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|cursor-2023-03-18-76a713]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1049
   relation: same-theme-chronology
@@ -13,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6dcb2c7972dd19919c37e5f6821f21ab604d4d7b271831a2909f875965823088
+machine_hash: 917597286c935cebf6b379cb6a25c8af7b67edf654b8fd1c4d397b1055377b11
 product: claude-code
 product_name: Claude Code
 record:
@@ -38,9 +40,12 @@ record:
   title: Added tool call failures and denials to debug logs
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-28-vscode-added-automatic-python-virtual-environment-activation-ensuring-python-and|claude-code-2026-01-28-6a32ec]]'
-- '[[Changes/Claude Code/2026-01-29-changed-bash-commands-to-show-timeout-duration-alongside-elapsed-time|claude-code-2026-01-29-e261ae]]'
-- '[[Changes/Claude Code/2026-01-30-sessions-are-now-automatically-linked-to-prs-when-created-via-gh-pr-create|claude-code-2026-01-30-59b443]]'
+- '[[Changes/Claude Code/2026-01-28-vscode-added-automatic-python-virtual-environment-activation-ensuring-python-and|VSCode
+  Added automatic Python virtual environment activation, ensuring python…]]'
+- '[[Changes/Claude Code/2026-01-29-changed-bash-commands-to-show-timeout-duration-alongside-elapsed-time|Changed
+  Bash commands to show timeout duration alongside elapsed time]]'
+- '[[Changes/Claude Code/2026-01-30-sessions-are-now-automatically-linked-to-prs-when-created-via-gh-pr-create|Sessions
+  are now automatically linked to PRs when created via gh pr create]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-30-v2-1-27-github-281663155-d003937d|claude-code-2026-01-30-v2-1-27-github-281663155-d003937d]]'
 source_type: github_releases
 theme: developer-workflow
@@ -48,10 +53,10 @@ title: Added tool call failures and denials to debug logs
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Added tool call failures and denials to debug logs
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.27: Added tool call failures and denials to debug logs
+**Claude Code** · 2026-01-30 · [[Themes/developer-workflow|Developer Workflow]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.27) · from [[Releases/Claude Code/claude-code-2026-01-30-v2-1-27-github-281663155-d003937d|v2.1.27]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -60,19 +65,28 @@ Claude Code — v2.1.27: Added tool call failures and denials to debug logs
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.27
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-01-30-permissions-now-respect-content-level-ask-over-tool-level-allow-previously-allow|Permissions now respect content-level ask over tool-level allow]] · Safety and Privacy
+- [[Changes/Claude Code/2026-01-30-sessions-are-now-automatically-linked-to-prs-when-created-via-gh-pr-create|Sessions are now automatically linked to PRs when created via gh pr create]] · Developer Workflow
+- [[Changes/Claude Code/2026-01-30-added-from-pr-flag-to-resume-sessions-linked-to-a-specific-github-pr-number-or-u|Added --from-pr flag to resume sessions linked to a specific GitHub PR number or URL]] · Projects and Workspaces
+- [[Changes/Claude Code/2026-01-30-vscode-enabled-claude-in-chrome-integration|VSCode: Enabled Claude in Chrome integration]] · Apps and Integrations
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: developer-workflow
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-18-built-in-terminal|cursor-2023-03-18-76a713]]
-- Lag Days: 1049
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Developer Workflow
+
+- Earlier: 2026-01-29 · Claude Code · [[Changes/Claude Code/2026-01-29-changed-bash-commands-to-show-timeout-duration-alongside-elapsed-time|Changed Bash commands to show timeout duration alongside elapsed time]]
+- Later: 2026-02-03 · Claude Code · [[Changes/Claude Code/2026-02-03-added-support-for-additional-git-log-and-git-show-flags-in-read-only-mode-e-g-to|Added support for additional git log and git show flags in read-only mode…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-01-30-aab171&body=Card%3A%20Changes%2FClaude%20Code%2F2026-01-30-added-tool-call-failures-and-denials-to-debug-logs.md%0ACard%20ID%3A%20claude-code-2026-01-30-aab171%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.27%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

@@ -1,8 +1,11 @@
 ---
 card_id: claude-code-2026-09-25-0414cd
 date: '2026-09-25'
+description: 'Claude Code · 2026-09-25 · Model Support: Added `deniedModels` managed
+  setting to block specific models, even when `availableModels` allows them'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We
+    made more improvements to the ChatGPT model!]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1355
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8f9d20a87137e078dac1b205493dd0759c3ecf9b8df73bc2a9c835817bbfeab6
+machine_hash: ecef0c764b654344aacc7fcc28f4434a996e7e316d734c8ec84fdee0737254ac
 product: claude-code
 product_name: Claude Code
 record:
@@ -37,9 +40,12 @@ record:
   title: Added `deniedModels` managed setting to block specific models, even…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-17-added-a-send-now-key-ctrl-enter-or-ctrl-x-ctrl-s-that-interrupts-the-current-tur|claude-code-2026-09-17-a922c8]]'
-- '[[Changes/Claude Code/2026-09-22-added-claude-opus-5-5-claude-opus-5-5-now-the-default-opus-model-1m-context-4-20|claude-code-2026-09-22-09ab0e]]'
-- '[[Changes/Claude Code/2026-09-25-added-availablemodelsmatch-managed-setting-with-exact-an-availablemodels-entry-a|claude-code-2026-09-25-017617]]'
+- '[[Changes/Claude Code/2026-09-17-added-a-send-now-key-ctrl-enter-or-ctrl-x-ctrl-s-that-interrupts-the-current-tur|Added
+  a send-now key (ctrl+enter, or ctrl+x ctrl+s) that interrupts the current turn…]]'
+- '[[Changes/Claude Code/2026-09-22-added-claude-opus-5-5-claude-opus-5-5-now-the-default-opus-model-1m-context-4-20|Added
+  Claude Opus 5.5 (claude-opus-5-5), now the default Opus model]]'
+- '[[Changes/Claude Code/2026-09-25-added-availablemodelsmatch-managed-setting-with-exact-an-availablemodels-entry-a|Added
+  availableModelsMatch managed setting]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-25-v2-1-283-github-396845205-9a5a07f8|claude-code-2026-09-25-v2-1-283-github-396845205-9a5a07f8]]'
 source_type: github_releases
 theme: model-support
@@ -47,10 +53,10 @@ title: Added deniedModels managed setting to block specific models, even…
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Added `deniedModels` managed setting to block specific models, even…
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.283: Added `deniedModels` managed setting to block specific models, even when `availableModels` allows them
+**Claude Code** · 2026-09-25 · [[Themes/model-support|Model Support]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.283) · from [[Releases/Claude Code/claude-code-2026-09-25-v2-1-283-github-396845205-9a5a07f8|v2.1.283]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -59,19 +65,27 @@ Claude Code — v2.1.283: Added `deniedModels` managed setting to block specific
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.283
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-09-25-added-availablemodelsmatch-managed-setting-with-exact-an-availablemodels-entry-a|Added availableModelsMatch managed setting]] · Model Support
+- [[Changes/Claude Code/2026-09-25-added-mcp-tool-webfetch-and-websearch-outputs-to-the-tool-output-opentelemetry-s|Added MCP tool, WebFetch and WebSearch outputs to the tool.output OpenTelemetry…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-09-25-added-x-claude-code-prompt-id-to-the-gateway-hint-headers-so-llm-gateways-can-gr|Added x-claude-code-prompt-id to the gateway hint headers so LLM gateways can…]] · Model Support
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: model-support
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]
-- Lag Days: 1355
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Model Support
+
+- Earlier: 2026-09-22 · Claude Code · [[Changes/Claude Code/2026-09-22-added-claude-opus-5-5-claude-opus-5-5-now-the-default-opus-model-1m-context-4-20|Added Claude Opus 5.5 (claude-opus-5-5), now the default Opus model]]
+- Later: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-added-claude-sonnet-5-5-claude-sonnet-5-5-now-the-default-sonnet-model-on-the-an|Added Claude Sonnet 5.5 (claude-sonnet-5-5), now the default Sonnet model…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We made more improvements to the ChatGPT model!]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-09-25-0414cd&body=Card%3A%20Changes%2FClaude%20Code%2F2026-09-25-added-deniedmodels-managed-setting-to-block-specific-models-even-when-availablem.md%0ACard%20ID%3A%20claude-code-2026-09-25-0414cd%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.283%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

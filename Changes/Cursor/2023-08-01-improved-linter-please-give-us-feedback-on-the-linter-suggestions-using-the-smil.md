@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2023-08-01-decc4a
 date: '2023-08-01'
+description: 'Cursor · 2023-08-01 · Developer Workflow: Improved linter! Please give
+  us feedback on the linter suggestions using the smiley faces. If you would like,
+  you can…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|cursor-2023-03-18-76a713]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 136
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: eb138010b7f937fc31e1ab8fab3f332e4e4bdec8dea2d89f9d26f41dc926184b
+machine_hash: 08afa610a527200043af1b4852102be5aad3183b63195527e5bd4b3b6e799ac3
 product: cursor
 product_name: Cursor
 record:
@@ -52,9 +55,12 @@ record:
     the smiley faces
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-12-this-update-patches-search-cmd-win-shift-f-and-many-extensions-for-and-wsl-and-s|cursor-2023-07-12-75f4dc]]'
-- '[[Changes/Cursor/2023-07-27-linter-is-back|cursor-2023-07-27-579924]]'
-- '[[Changes/Cursor/2023-07-28-remote-ssh-is-now-built-in-to-cursor-you-do-not-need-to-edit-the-behavior-it-sho|cursor-2023-07-28-a55dba]]'
+- '[[Changes/Cursor/2023-07-12-this-update-patches-search-cmd-win-shift-f-and-many-extensions-for-and-wsl-and-s|This
+  update patches search (Cmd/Win+Shift+F) and many extensions for and WSL and SSH
+  users]]'
+- '[[Changes/Cursor/2023-07-27-linter-is-back|Linter is back!]]'
+- '[[Changes/Cursor/2023-07-28-remote-ssh-is-now-built-in-to-cursor-you-do-not-need-to-edit-the-behavior-it-sho|Remote-ssh
+  is now built-in to cursor]]'
 source_release: '[[Releases/Cursor/cursor-2023-08-01-0-6-1-nightly-0-6-2-nightly-https-cursor-com-changelog-0-6-1-nig-1e98131d|cursor-2023-08-01-0-6-1-nightly-0-6-2-nightly-https-cursor-com-changelog-0-6-1-nig-1e98131d]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -63,10 +69,10 @@ title: Improved linter! Please give us feedback on the linter suggestions using 
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Improved linter! Please give us feedback on the linter suggestions using the smiley faces
 
-<!-- chronolog:begin region="description" -->
-Cursor — Improved linter: Improved linter! Please give us feedback on the linter suggestions using the smiley faces. If you would like, you can make it more aggressive by going to the More tab and then clicking on "Advanced linter settings" at the bottom. Let us know what you think in the Discord.
+**Cursor** · 2023-08-01 · [[Themes/developer-workflow|Developer Workflow]] · [Official source](https://cursor.com/changelog/0-6-1-nightly-0-6-2-nightly) · from [[Releases/Cursor/cursor-2023-08-01-0-6-1-nightly-0-6-2-nightly-https-cursor-com-changelog-0-6-1-nig-1e98131d|Improved linter]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -75,19 +81,23 @@ Cursor — Improved linter: Improved linter! Please give us feedback on the lint
 > Source: https://cursor.com/changelog/0-6-1-nightly-0-6-2-nightly
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: developer-workflow
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-18-built-in-terminal|cursor-2023-03-18-76a713]]
-- Lag Days: 136
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Developer Workflow
+
+- Earlier: 2023-07-28 · Cursor · [[Changes/Cursor/2023-07-28-remote-ssh-is-now-built-in-to-cursor-you-do-not-need-to-edit-the-behavior-it-sho|Remote-ssh is now built-in to cursor]]
+- Later: 2023-08-03 · Cursor · [[Changes/Cursor/2023-08-03-also-the-linter-is-slightly-improved|Also, the linter is slightly improved]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2023-08-01-decc4a&body=Card%3A%20Changes%2FCursor%2F2023-08-01-improved-linter-please-give-us-feedback-on-the-linter-suggestions-using-the-smil.md%0ACard%20ID%3A%20cursor-2023-08-01-decc4a%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F0-6-1-nightly-0-6-2-nightly%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

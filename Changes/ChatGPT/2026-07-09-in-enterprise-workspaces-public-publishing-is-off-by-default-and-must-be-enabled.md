@@ -1,8 +1,12 @@
 ---
 card_id: chatgpt-2026-07-09-bd8946
 date: '2026-07-09'
+description: 'ChatGPT · 2026-07-09 · Enterprise and Administration: In Enterprise
+  workspaces, public publishing is off by default and must be enabled by an admin.
+  Sites is…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|chatgpt-2025-06-12-1cc56f]]'
+  first_in_tracked: '[[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise
+    and Edu rollout coming soon]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 392
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: f902dac7205606f395c6e00ec12e5e05f3e162f2791dbcea93f33245a83a8204
+machine_hash: 741cc34d584e089b0fd98be5ce8ab1e26e5cd0e059a07a8281b51578e250906c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,9 +51,12 @@ record:
     enabled…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-09-business-and-enterprise-customers-already-have-access-to-sites-starting-today-th|chatgpt-2026-07-09-6ad0f1]]'
-- '[[Changes/ChatGPT/2026-07-09-on-web-and-mobile-work-is-rolling-out-to-paid-plans-except-free-and-go-pro-pro-l|chatgpt-2026-07-09-82ffb9]]'
-- '[[Changes/ChatGPT/2026-07-09-on-web-and-mobile-enterprise-and-edu-workspaces-have-a-two-week-preview-period-w|chatgpt-2026-07-09-a35fd3]]'
+- '[[Changes/ChatGPT/2026-07-09-business-and-enterprise-customers-already-have-access-to-sites-starting-today-th|Business
+  and Enterprise customers already have access to Sites]]'
+- '[[Changes/ChatGPT/2026-07-09-on-web-and-mobile-work-is-rolling-out-to-paid-plans-except-free-and-go-pro-pro-l|On
+  web and mobile, Work is rolling out to paid plans except Free and Go]]'
+- '[[Changes/ChatGPT/2026-07-09-on-web-and-mobile-enterprise-and-edu-workspaces-have-a-two-week-preview-period-w|On
+  web and mobile, Enterprise and Edu workspaces have a two-week preview period]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-sites-in-public-beta-4d20edcd|chatgpt-2026-07-09-introducing-chatgpt-sites-in-public-beta-4d20edcd]]'
 source_type: chatgpt_changelog
 theme: enterprise-admin
@@ -57,10 +64,10 @@ title: In Enterprise workspaces, public publishing is off by default and must be
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # In Enterprise workspaces, public publishing is off by default and must be enabled…
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Introducing ChatGPT Sites in public beta: In Enterprise workspaces, public publishing is off by default and must be enabled by an admin. Sites is also rolling out in public beta to Pro, Pro Lite, and Edu users, with Plus users following over the coming days. Sites is not available on Free or Go plans. Public publishing and the expanded beta rollout are not available in the EEA, Switzerland, or the United Kingdom at launch.
+**ChatGPT** · 2026-07-09 · [[Themes/enterprise-admin|Enterprise and Administration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-sites-in-public-beta-4d20edcd|Introducing ChatGPT Sites in public beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -69,19 +76,27 @@ ChatGPT — Introducing ChatGPT Sites in public beta: In Enterprise workspaces, 
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2026-07-09-to-create-a-site-start-in-chatgpt-work-on-the-web-or-in-work-or-codex-in-the-cha|To create a Site, start in ChatGPT Work on the web or in Work or Codex…]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-07-09-business-and-enterprise-customers-already-have-access-to-sites-starting-today-th|Business and Enterprise customers already have access to Sites]] · Enterprise and Administration
+- [[Changes/ChatGPT/2026-07-09-chatgpt-sites-lets-you-turn-your-work-or-ideas-into-an-interactive-website-or-li|ChatGPT Sites lets you turn your work or ideas into an interactive website…]] · Artifact Creation
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: enterprise-admin
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|chatgpt-2025-06-12-1cc56f]]
-- Lag Days: 392
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Enterprise and Administration
+
+- Earlier: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-on-web-and-mobile-enterprise-and-edu-workspaces-have-a-two-week-preview-period-w|On web and mobile, Enterprise and Edu workspaces have a two-week preview period]]
+- Later: 2026-07-15 · ChatGPT · [[Changes/ChatGPT/2026-07-15-we-re-increasing-the-character-limit-for-custom-instructions-in-chatgpt-plus-pro|We’re increasing the character limit for custom instructions in ChatGPT]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise and Edu rollout coming soon]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-07-09-bd8946&body=Card%3A%20Changes%2FChatGPT%2F2026-07-09-in-enterprise-workspaces-public-publishing-is-off-by-default-and-must-be-enabled.md%0ACard%20ID%3A%20chatgpt-2026-07-09-bd8946%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2026-01-22'
-machine_hash: 327f51140e2a3e3b7c14cc5f884d673885205732d187d3c9a1e34970ae00e1af
+description: 'ChatGPT release 5.2 Personality System Prompt Update on 2026-01-22:
+  1 tracked change across Model Support'
+machine_hash: 5694025f7ba0615d4e4995646dac201fa07cb9daef90ca656e7ecd71ea6513d4
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 1
   date: '2026-01-22'
   product: chatgpt
   product_name: ChatGPT
@@ -25,22 +28,24 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — 5.2 Personality System Prompt Update
+title: ChatGPT · 5.2 Personality System Prompt Update
 version: 5.2 Personality System Prompt Update
 ---
 
-# ChatGPT 5.2 Personality System Prompt Update
+<!-- chronolog:begin region="header" -->
+# ChatGPT · 5.2 Personality System Prompt Update
+
+**ChatGPT** · 2026-01-22 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 We’re updating GPT-5.2 Instant’s default personality to be more conversational and better at adapting its tone contextually, making exchanges feel smoother and more natural. You can still select a different base style and tone for ChatGPT, along with tuning characteristics like warmth and emoji use, within the…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2026-01-22-we-re-updating-gpt-5-2-instant-s-default-personality-to-be-more-conversational-a|We’re updating GPT-5.2 Instant’s default personality to be more conversational…]]
+- [[Changes/ChatGPT/2026-01-22-we-re-updating-gpt-5-2-instant-s-default-personality-to-be-more-conversational-a|We’re updating GPT-5.2 Instant’s default personality to be more conversational…]] · Model Support
 <!-- chronolog:end -->

@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2026-04-08-733761
 date: '2026-04-08'
+description: 'ChatGPT · 2026-04-08 · Search and Browsing: The Outlook Email and Calendar
+  apps for ChatGPT can now help with delegated or shared Outlook resources, when you…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|chatgpt-2023-03-23-c03c55]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
+    An experimental model that knows when and how to browse the internet]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1112
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: de763a57cfb88b45af67c6b300d87ac90c8046db159972aaf7a749f4b2a90fe2
+machine_hash: 1145731425d3b202eb2c4def723b0a6490bb9198341fcc057da802da6bfe8077
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -61,9 +64,12 @@ record:
   title: The Outlook Email and Calendar apps for ChatGPT can now help with delegated…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-27-open-search-results-in-a-new-tab-cmd-click-in-the-search-panel-now-opens-results|chatgpt-2026-02-27-2bf79d]]'
-- '[[Changes/ChatGPT/2026-03-19-the-legacy-deep-research-mode-will-be-removed-on-thursday-march-26-2026-this-cha|chatgpt-2026-03-19-f2d483]]'
-- '[[Changes/ChatGPT/2026-03-24-we-ve-improved-shopping-in-chatgpt-to-make-it-easier-to-discover-compare-and-dec|chatgpt-2026-03-24-93a63f]]'
+- '[[Changes/ChatGPT/2026-02-27-open-search-results-in-a-new-tab-cmd-click-in-the-search-panel-now-opens-results|Open
+  search results in a new tab]]'
+- '[[Changes/ChatGPT/2026-03-19-the-legacy-deep-research-mode-will-be-removed-on-thursday-march-26-2026-this-cha|The
+  legacy deep research mode will be removed on Thursday, March 26, 2026]]'
+- '[[Changes/ChatGPT/2026-03-24-we-ve-improved-shopping-in-chatgpt-to-make-it-easier-to-discover-compare-and-dec|ChatGPT
+  improves shopping to make it easier to discover, compare, and decide on products]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-04-08-outlook-shared-mailboxes-and-calendars-in-chatgpt-51092ccc|chatgpt-2026-04-08-outlook-shared-mailboxes-and-calendars-in-chatgpt-51092ccc]]'
 source_type: chatgpt_changelog
 theme: search-browsing
@@ -71,10 +77,10 @@ title: The Outlook Email and Calendar apps for ChatGPT can now help with delegat
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # The Outlook Email and Calendar apps for ChatGPT can now help with delegated…
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Outlook shared mailboxes and calendars in ChatGPT: The Outlook Email and Calendar apps for ChatGPT can now help with delegated or shared Outlook resources, when you have access. You can ask ChatGPT to read messages from a shared mailbox, browse its folders, mark mail read or unread, move messages, or send plain-text email from or on behalf of that mailbox. For shared Outlook calendars, ChatGPT can help create, update, RSVP to, cancel, delete, or add small attachments to events.To use this, connect the Outlook Email or Outlook Calendar app and provide the exact shared mailbox address or target calendar when asking ChatGPT. Availability may depend on your Microsoft permissions and workspace app settings. Learn more.
+**ChatGPT** · 2026-04-08 · [[Themes/search-browsing|Search and Browsing]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-04-08-outlook-shared-mailboxes-and-calendars-in-chatgpt-51092ccc|Outlook shared mailboxes and calendars in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -83,19 +89,23 @@ ChatGPT — Outlook shared mailboxes and calendars in ChatGPT: The Outlook Email
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: search-browsing
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|chatgpt-2023-03-23-c03c55]]
-- Lag Days: 1112
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Search and Browsing
+
+- Earlier: 2026-03-24 · ChatGPT · [[Changes/ChatGPT/2026-03-24-we-ve-improved-shopping-in-chatgpt-to-make-it-easier-to-discover-compare-and-dec|ChatGPT improves shopping to make it easier to discover, compare, and decide on products]]
+- Later: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-the-plugin-browse-and-discover-panes-now-show-when-a-plugin-was-last-updated|The /plugin browse and discover panes now show when a plugin was last updated]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-04-08-733761&body=Card%3A%20Changes%2FChatGPT%2F2026-04-08-the-outlook-email-and-calendar-apps-for-chatgpt-can-now-help-with-delegated-or-s.md%0ACard%20ID%3A%20chatgpt-2026-04-08-733761%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

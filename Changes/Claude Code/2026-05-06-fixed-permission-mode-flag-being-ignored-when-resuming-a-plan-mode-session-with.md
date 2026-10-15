@@ -1,8 +1,11 @@
 ---
 card_id: claude-code-2026-05-06-ab7de0
 date: '2026-05-06'
+description: 'Claude Code · 2026-05-06 · Safety and Privacy: Fixed `--permission-mode`
+  flag being ignored when resuming a plan-mode session with `-p --continue`/`--resume`…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|cursor-2023-04-16-f0e22a]]'
+  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
+    mode for opting out of storing any kind of data on our servers]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1116
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 361904df3147fec26d81dced34e3d34362391a7be866933bd201df43677cbf09
+machine_hash: e0e43c0389879fc151f4b10785a2d4194cba2350d45ea26218a8363f769aa574
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,9 +44,12 @@ record:
   title: Fixed `--permission-mode` flag being ignored when resuming a plan-mode session…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-30-customize-cursor-managed-security-agents-by-adjusting-triggers-adding-your-own-i|cursor-2026-04-30-bbeb40]]'
-- '[[Changes/Claude Code/2026-05-01-dangerously-skip-permissions-now-bypasses-prompts-for-writes-to-claude-git-vscod|claude-code-2026-05-01-92258f]]'
-- '[[Changes/Cursor/2026-05-01-default-off-users-can-discover-and-opt-in|cursor-2026-05-01-759bfb]]'
+- '[[Changes/Cursor/2026-04-30-customize-cursor-managed-security-agents-by-adjusting-triggers-adding-your-own-i|Customize
+  Cursor-managed security agents by adjusting triggers, adding your own…]]'
+- '[[Changes/Claude Code/2026-05-01-dangerously-skip-permissions-now-bypasses-prompts-for-writes-to-claude-git-vscod|--dangerously-skip-permissions
+  now bypasses prompts for writes to .claude/…]]'
+- '[[Changes/Cursor/2026-05-01-default-off-users-can-discover-and-opt-in|Default Off:
+  users can discover and opt in]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-06-v2-1-132-github-318578987-ed60d664|claude-code-2026-05-06-v2-1-132-github-318578987-ed60d664]]'
 source_type: github_releases
 theme: safety-privacy
@@ -51,10 +57,10 @@ title: Fixed --permission-mode flag being ignored when resuming a plan-mode sess
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Fixed `--permission-mode` flag being ignored when resuming a plan-mode session…
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.132: Fixed `--permission-mode` flag being ignored when resuming a plan-mode session with `-p --continue`/`--resume`, and plan mode not being re-applied after `ExitPlanMode` within the same session
+**Claude Code** · 2026-05-06 · [[Themes/safety-privacy|Safety and Privacy]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.132) · from [[Releases/Claude Code/claude-code-2026-05-06-v2-1-132-github-318578987-ed60d664|v2.1.132]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -63,19 +69,28 @@ Claude Code — v2.1.132: Fixed `--permission-mode` flag being ignored when resu
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.132
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-05-06-added-claude-code-session-id-environment-variable-to-the-bash-tool-subprocess-en|Added CLAUDE_CODE_SESSION_ID environment variable to the Bash tool subprocess…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-05-06-improved-visual-consistency-in-slash-command-dialogs-and-login-upgrade-extra-usa|Improved visual consistency in slash command dialogs and /login, /upgrade…]] · Account and Access
+- [[Changes/Claude Code/2026-05-06-added-claude-code-disable-alternate-screen-1-env-var-to-opt-out-of-the-fullscree|Added CLAUDE_CODE_DISABLE_ALTERNATE_SCREEN=1 env var to opt out of the fullscreen…]] · Interface Experience
+- [[Changes/Claude Code/2026-05-06-added-a-pasting-footer-hint-while-a-ctrl-v-image-paste-is-being-read-from-the-cl|Added a "Pasting…" footer hint while a Ctrl+V image paste is being read from the clipboard]] · Interface Experience
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: safety-privacy
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|cursor-2023-04-16-f0e22a]]
-- Lag Days: 1116
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Safety and Privacy
+
+- Earlier: 2026-05-01 · Cursor · [[Changes/Cursor/2026-05-01-default-off-users-can-discover-and-opt-in|Default Off: users can discover and opt in]]
+- Later: 2026-05-07 · ChatGPT · [[Changes/ChatGPT/2026-05-07-over-the-coming-weeks-we-ll-be-rolling-out-trusted-contact-an-optional-safety-fe|Over the coming weeks, we'll be rolling out trusted contact, an optional safety…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-05-06-ab7de0&body=Card%3A%20Changes%2FClaude%20Code%2F2026-05-06-fixed-permission-mode-flag-being-ignored-when-resuming-a-plan-mode-session-with.md%0ACard%20ID%3A%20claude-code-2026-05-06-ab7de0%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.132%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

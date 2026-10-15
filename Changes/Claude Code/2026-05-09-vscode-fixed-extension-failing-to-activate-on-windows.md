@@ -1,8 +1,11 @@
 ---
 card_id: claude-code-2026-05-09-519945
 date: '2026-05-09'
+description: 'Claude Code · 2026-05-09 · Mobile and Desktop: [VSCode] Fixed extension
+  failing to activate on Windows'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support 🥳]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1152
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: a0f7c46bd05dcf1fd8f6542e141fc909b74ea56c2938795c7c19509f1f3283cd
+machine_hash: 347b2abe036fa496465b8171a7f1c7721ab7504343bbfe61d2f17d20cc223add
 product: claude-code
 product_name: Claude Code
 record:
@@ -38,9 +41,12 @@ record:
   title: '[VSCode] Fixed extension failing to activate on Windows'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-04-02-we-re-rolling-out-chatgpt-in-carplay-giving-you-access-to-a-hands-free-chatgpt-e|chatgpt-2026-04-02-7b440e]]'
-- '[[Changes/Claude Code/2026-04-15-added-push-notification-tool-claude-can-send-mobile-push-notifications-when-remo|claude-code-2026-04-15-681083]]'
-- '[[Changes/Cursor/2026-04-29-the-agents-that-run-in-the-cursor-desktop-app-cli-and-web-app-are-now-accessible|cursor-2026-04-29-b8902d]]'
+- '[[Changes/ChatGPT/2026-04-02-we-re-rolling-out-chatgpt-in-carplay-giving-you-access-to-a-hands-free-chatgpt-e|ChatGPT
+  rolls out ChatGPT in CarPlay, giving you access to a hands-free ChatGPT…]]'
+- '[[Changes/Claude Code/2026-04-15-added-push-notification-tool-claude-can-send-mobile-push-notifications-when-remo|Added
+  push notification tool]]'
+- '[[Changes/Cursor/2026-04-29-the-agents-that-run-in-the-cursor-desktop-app-cli-and-web-app-are-now-accessible|The
+  agents that run in the Cursor desktop app, CLI, and web app are now accessible…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-09-v2-1-137-github-319788705-015f319d|claude-code-2026-05-09-v2-1-137-github-319788705-015f319d]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -48,10 +54,10 @@ title: VSCode Fixed extension failing to activate on Windows
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # [VSCode] Fixed extension failing to activate on Windows
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.137: [VSCode] Fixed extension failing to activate on Windows
+**Claude Code** · 2026-05-09 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.137) · from [[Releases/Claude Code/claude-code-2026-05-09-v2-1-137-github-319788705-015f319d|v2.1.137]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -60,19 +66,23 @@ Claude Code — v2.1.137: [VSCode] Fixed extension failing to activate on Window
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.137
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: mobile-desktop
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]
-- Lag Days: 1152
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Mobile and Desktop
+
+- Earlier: 2026-04-29 · Cursor · [[Changes/Cursor/2026-04-29-the-agents-that-run-in-the-cursor-desktop-app-cli-and-web-app-are-now-accessible|The agents that run in the Cursor desktop app, CLI, and web app are now accessible…]]
+- Later: 2026-05-12 · ChatGPT · [[Changes/ChatGPT/2026-05-12-free-users-in-chatgpt-will-now-see-more-inline-images-from-the-web-to-help-make|Free users in ChatGPT will now see more inline images from the web to help make…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-05-09-519945&body=Card%3A%20Changes%2FClaude%20Code%2F2026-05-09-vscode-fixed-extension-failing-to-activate-on-windows.md%0ACard%20ID%3A%20claude-code-2026-05-09-519945%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.137%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

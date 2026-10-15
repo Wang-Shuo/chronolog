@@ -1,10 +1,13 @@
 ---
 changes_count: 4
 date: '2023-06-06'
-machine_hash: 2702338651e2058540740d27be17d62cb60cb1b79395b7eca3f42b580d6ca821
+description: 'Cursor release Codebase Context v2 on 2023-06-06: 4 tracked changes
+  across Context Window, Account and Access, Editor Experience'
+machine_hash: 784d164d827fa1f59bf475898c9e244e9ba5092483000ab1d57fbbe641e8bcc2
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 4
   date: '2023-06-06'
   product: cursor
   product_name: Cursor
@@ -21,25 +24,27 @@ source_url: https://cursor.com/changelog/0-2-27
 tags:
 - release
 - cursor
-title: Cursor — Codebase Context v2
+title: Cursor · Codebase Context v2
 version: 0.2.27
 ---
 
-# Cursor Codebase Context v2
+<!-- chronolog:begin region="header" -->
+# Cursor · Codebase Context v2
+
+**Cursor** · 2023-06-06 · [Official release notes](https://cursor.com/changelog/0-2-27)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 We've improved codebase context!
 
-[Official release notes](https://cursor.com/changelog/0-2-27)
-
-Tracked cards: 4
+Tracked 4 of 4 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- account-access: [[Changes/Cursor/2023-06-06-login-via-github-then-add-the-repo-you-wish-to-sync|Login via github, then add the repo you wish to sync!]]
-- context-window: [[Changes/Cursor/2023-06-06-we-ve-improved-codebase-context|Cursor improves codebase context!]]
-- editor-experience: [[Changes/Cursor/2023-06-06-in-order-to-take-full-advantage-navigate-to-settings-top-right-button-then-sync|In order to take full advantage, navigate to Settings (top right button), then…]]
-- context-window: [[Changes/Cursor/2023-06-06-following-this-you-ll-be-able-to-see-an-improved-version-of-codebase-context-in|Following this, you'll be able to see an improved version of codebase context…]]
+- [[Changes/Cursor/2023-06-06-login-via-github-then-add-the-repo-you-wish-to-sync|Login via github, then add the repo you wish to sync!]] · Account and Access
+- [[Changes/Cursor/2023-06-06-we-ve-improved-codebase-context|Cursor improves codebase context!]] · Context Window
+- [[Changes/Cursor/2023-06-06-in-order-to-take-full-advantage-navigate-to-settings-top-right-button-then-sync|In order to take full advantage, navigate to Settings (top right button), then…]] · Editor Experience
+- [[Changes/Cursor/2023-06-06-following-this-you-ll-be-able-to-see-an-improved-version-of-codebase-context-in|Following this, you'll be able to see an improved version of codebase context…]] · Context Window
 <!-- chronolog:end -->

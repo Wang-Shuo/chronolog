@@ -1,7 +1,9 @@
 ---
 created: '2025-06-12'
 date: '2026-10-06'
-machine_hash: af60bdb237c5c070e86997d791fd88178351f0a7ba273430d6a0faf214688fce
+description: Cross-product timeline of Enterprise and Administration changes in ChatGPT,
+  Claude Code and Cursor.
+machine_hash: 332303ecb2f852a1610f75c40e598806a9af88ded344c52f8bfe70ecb6d443ba
 modified: '2026-10-06'
 products_involved:
 - ChatGPT
@@ -13,10 +15,12 @@ tags:
 - theme
 - moc
 theme: enterprise-admin
-title: Enterprise Admin
+title: Enterprise and Administration
 ---
 
-# Theme: enterprise-admin
+<!-- chronolog:begin region="header" -->
+# Enterprise and Administration
+<!-- chronolog:end -->
 
 ## Research summary
 <!-- chronolog:begin region="narrative" -->

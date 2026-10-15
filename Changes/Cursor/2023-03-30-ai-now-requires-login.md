@@ -1,8 +1,10 @@
 ---
 card_id: cursor-2023-03-30-3bf00d
 date: '2023-03-30'
+description: 'Cursor · 2023-03-30 · Account and Access: AI now requires login'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|cursor-2023-03-30-3bf00d]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
+    login]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 0
   relation: same-theme-chronology
@@ -13,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: df7487c093c8a54175f36bd55d3308337b1a663520b078aa856fa0e441ac0eb2
+machine_hash: a85e7e0cfe37dfdb346113551f5a801407b12f804b09d44dc979077225985f03
 product: cursor
 product_name: Cursor
 record:
@@ -41,10 +43,10 @@ title: AI now requires login
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # AI now requires login
 
-<!-- chronolog:begin region="description" -->
-Cursor — v0.1.12 (2023-03-30): AI now requires login
+**Cursor** · 2023-03-30 · [[Themes/account-access|Account and Access]] · [Official source](https://cursor.com/changelog/0-1-12) · from [[Releases/Cursor/cursor-2023-03-30-0-1-12-https-cursor-com-changelog-0-1-12-f3e1800c|v0.1.12 (2023-03-30)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -53,19 +55,25 @@ Cursor — v0.1.12 (2023-03-30): AI now requires login
 > Source: https://cursor.com/changelog/0-1-12
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2023-03-30-cleaned-up-chat-styling|Cleaned up chat styling]] · Interface Experience
+- [[Changes/Cursor/2023-03-30-use-an-openai-api-key-for-unlimited-requests-at-cost-gpt-4-access-if-available|Use an OpenAI API key for unlimited requests at cost (GPT-4 access if available)]] · Model Support
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: account-access
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: first-observed
-- First In Tracked: [[Changes/Cursor/2023-03-30-ai-now-requires-login|cursor-2023-03-30-3bf00d]]
-- Lag Days: 0
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Account and Access
+
+- Later: 2023-06-06 · Cursor · [[Changes/Cursor/2023-06-06-login-via-github-then-add-the-repo-you-wish-to-sync|Login via github, then add the repo you wish to sync!]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry among the 3 tracked products.
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2023-03-30-3bf00d&body=Card%3A%20Changes%2FCursor%2F2023-03-30-ai-now-requires-login.md%0ACard%20ID%3A%20cursor-2023-03-30-3bf00d%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F0-1-12%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

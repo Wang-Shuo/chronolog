@@ -1,8 +1,12 @@
 ---
 card_id: chatgpt-2026-07-09-6ac3cb
 date: '2026-07-09'
+description: 'ChatGPT · 2026-07-09 · Safety and Privacy: On desktop, Work can use
+  local files and desktop apps with your permission. The built-in browser lets ChatGPT
+  gather…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|cursor-2023-04-16-f0e22a]]'
+  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
+    mode for opting out of storing any kind of data on our servers]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1180
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 6db5d1410bf329df528da25cee5417ca7994ad99dda57a29d6a2a456dedd5861
+machine_hash: 548243d310112a818b168c117934449181926fa7c4fb07759dfab5b669c1c698
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -64,9 +68,12 @@ record:
   title: On desktop, Work can use local files and desktop apps with your permission
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-07-added-a-grey-badge-to-the-footer-when-in-manual-permission-mode-making-the-activ|claude-code-2026-07-07-16e820]]'
-- '[[Changes/Claude Code/2026-07-08-background-task-notifications-now-explicitly-state-that-no-human-input-has-occur|claude-code-2026-07-08-e5045d]]'
-- '[[Changes/ChatGPT/2026-07-09-if-you-already-use-the-codex-app-update-it-as-usual-to-move-to-the-new-chatgpt-d|chatgpt-2026-07-09-6457ba]]'
+- '[[Changes/Claude Code/2026-07-07-added-a-grey-badge-to-the-footer-when-in-manual-permission-mode-making-the-activ|Added
+  a grey ⏸ badge to the footer when in manual permission mode, making the active…]]'
+- '[[Changes/Claude Code/2026-07-08-background-task-notifications-now-explicitly-state-that-no-human-input-has-occur|Background
+  task notifications now explicitly state that no human input has occurred…]]'
+- '[[Changes/ChatGPT/2026-07-09-if-you-already-use-the-codex-app-update-it-as-usual-to-move-to-the-new-chatgpt-d|If
+  you already use the Codex app, update it as usual to move to the new ChatGPT…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together-90482810|chatgpt-2026-07-09-the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together-90482810]]'
 source_type: chatgpt_changelog
 theme: safety-privacy
@@ -74,10 +81,10 @@ title: On desktop, Work can use local files and desktop apps with your permissio
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # On desktop, Work can use local files and desktop apps with your permission
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — The new ChatGPT desktop app brings Chat, Work, and Codex together: On desktop, Work can use local files and desktop apps with your permission. The built-in browser lets ChatGPT gather information from websites and work with supported web-based tools and files. Codex also adds inline editing within diffs, pull-request review in the side panel, faster computer use, and support for multiple repositories in one project.
+**ChatGPT** · 2026-07-09 · [[Themes/safety-privacy|Safety and Privacy]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-07-09-the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together-90482810|The new ChatGPT desktop app brings Chat, Work, and Codex together]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -86,19 +93,26 @@ ChatGPT — The new ChatGPT desktop app brings Chat, Work, and Codex together: O
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2026-07-09-if-you-already-use-the-codex-app-update-it-as-usual-to-move-to-the-new-chatgpt-d|If you already use the Codex app, update it as usual to move to the new ChatGPT…]] · Safety and Privacy
+- [[Changes/ChatGPT/2026-07-09-the-new-chatgpt-desktop-app-is-available-globally-for-macos-and-windows-it-combi|The new ChatGPT desktop app is available globally for macOS and Windows]] · Mobile and Desktop
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: safety-privacy
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|cursor-2023-04-16-f0e22a]]
-- Lag Days: 1180
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Safety and Privacy
+
+- Earlier: 2026-07-08 · Claude Code · [[Changes/Claude Code/2026-07-08-background-task-notifications-now-explicitly-state-that-no-human-input-has-occur|Background task notifications now explicitly state that no human input has occurred…]]
+- Later: 2026-07-11 · Claude Code · [[Changes/Claude Code/2026-07-11-fixed-compound-commands-with-cd-prompting-for-permission-when-the-only-output-re|Fixed compound commands with cd prompting for permission when the only output…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-07-09-6ac3cb&body=Card%3A%20Changes%2FChatGPT%2F2026-07-09-on-desktop-work-can-use-local-files-and-desktop-apps-with-your-permission-the-bu.md%0ACard%20ID%3A%20chatgpt-2026-07-09-6ac3cb%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

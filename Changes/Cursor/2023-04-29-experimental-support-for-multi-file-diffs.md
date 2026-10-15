@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2023-04-29-6cec2b
 date: '2023-04-29'
+description: 'Cursor · 2023-04-29 · Editor Experience: Experimental support for multi-file
+  diffs'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|cursor-2023-03-14-24e9bf]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant
+    fix all lint errors with AI 😎]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 46
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 38a3c3da7b79644b31de44343c764f37e2514138c1fe8c1779668ef12c702a6a
+machine_hash: 55b5b778b2ded496b249fc551d3aae4fcc4e7ed94416f6fb14a9eadb4f4584d2
 product: cursor
 product_name: Cursor
 record:
@@ -40,9 +43,12 @@ record:
   title: Experimental support for multi-file diffs
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-04-06-our-goal-is-to-create-an-ide-optimized-for-pair-programming-with-ai|cursor-2023-04-06-d3d258]]'
-- '[[Changes/Cursor/2023-04-14-hover-over-an-error-to-have-the-ai-explain-it-fix-it|cursor-2023-04-14-1f7f6d]]'
-- '[[Changes/Cursor/2023-04-16-nicer-edits-now-work-with-cmd-z|cursor-2023-04-16-aa385e]]'
+- '[[Changes/Cursor/2023-04-06-our-goal-is-to-create-an-ide-optimized-for-pair-programming-with-ai|Our
+  goal is to create an IDE optimized for pair-programming with AI]]'
+- '[[Changes/Cursor/2023-04-14-hover-over-an-error-to-have-the-ai-explain-it-fix-it|Hover
+  over an error to have the AI explain it/fix it]]'
+- '[[Changes/Cursor/2023-04-16-nicer-edits-now-work-with-cmd-z|Nicer edits, now work
+  with cmd-Z]]'
 source_release: '[[Releases/Cursor/cursor-2023-04-29-0-2-8-https-cursor-com-changelog-0-2-8-dcee1ea7|cursor-2023-04-29-0-2-8-https-cursor-com-changelog-0-2-8-dcee1ea7]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -50,10 +56,10 @@ title: Experimental support for multi-file diffs
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Experimental support for multi-file diffs
 
-<!-- chronolog:begin region="description" -->
-Cursor — Multi-File Diffs & Remote SSH (2023-04-29): Experimental support for multi-file diffs
+**Cursor** · 2023-04-29 · [[Themes/editor-experience|Editor Experience]] · [Official source](https://cursor.com/changelog/0-2-8) · from [[Releases/Cursor/cursor-2023-04-29-0-2-8-https-cursor-com-changelog-0-2-8-dcee1ea7|Multi-File Diffs & Remote SSH (2023-04-29)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -62,19 +68,25 @@ Cursor — Multi-File Diffs & Remote SSH (2023-04-29): Experimental support for 
 > Source: https://cursor.com/changelog/0-2-8
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2023-04-29-working-remote-ssh-support-through-the-openremote-ssh-extension|🌐 Working remote ssh support through the "OpenRemote - SSH" extension]] · Developer Workflow
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: editor-experience
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|cursor-2023-03-14-24e9bf]]
-- Lag Days: 46
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Editor Experience
+
+- Earlier: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-nicer-edits-now-work-with-cmd-z|Nicer edits, now work with cmd-Z]]
+- Later: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-improved-prompting-for-edits-and-generates|Improved prompting for edits and generates]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all lint errors with AI 😎]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2023-04-29-6cec2b&body=Card%3A%20Changes%2FCursor%2F2023-04-29-experimental-support-for-multi-file-diffs.md%0ACard%20ID%3A%20cursor-2023-04-29-6cec2b%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F0-2-8%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

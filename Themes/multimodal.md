@@ -1,7 +1,9 @@
 ---
 created: '2023-11-27'
 date: '2026-07-29'
-machine_hash: f88980920da7623c366ab8dfe559ecc35214318ab8b9944cf99ce3f537bd930d
+description: Cross-product timeline of Multimodal Input changes in ChatGPT, Claude
+  Code and Cursor.
+machine_hash: f4ddf7c686f6808bdb3decdf38ec4b7f1c757ad12f63cbeb36886b3d1f972f4d
 modified: '2026-07-29'
 products_involved:
 - ChatGPT
@@ -13,10 +15,12 @@ tags:
 - theme
 - moc
 theme: multimodal
-title: Multimodal
+title: Multimodal Input
 ---
 
-# Theme: multimodal
+<!-- chronolog:begin region="header" -->
+# Multimodal Input
+<!-- chronolog:end -->
 
 ## Research summary
 <!-- chronolog:begin region="narrative" -->

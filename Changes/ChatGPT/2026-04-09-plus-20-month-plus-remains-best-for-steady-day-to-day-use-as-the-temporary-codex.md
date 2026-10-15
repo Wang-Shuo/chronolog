@@ -1,8 +1,12 @@
 ---
 card_id: chatgpt-2026-04-09-66d25c
 date: '2026-04-09'
+description: 'ChatGPT · 2026-04-09 · Pricing Model: Plus ($20/month): Plus remains
+  best for steady, day-to-day use. As the temporary Codex promotion on Plus ends,
+  we’re…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|chatgpt-2022-12-15-6d306d]]'
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
+    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1211
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: d9dfd4ec1a09a42b585877d7dfa38df15abc7255f82582d91eb7b332f12502b0
+machine_hash: 1368e193b27db0e7671df3ee312cbe120a9297ac9a3c9dc99479f218afe4d599
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,9 +49,12 @@ record:
   title: 'Plus ($20/month): Plus remains best for steady, day-to-day use'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-04-added-per-model-and-cache-hit-breakdown-to-cost-for-subscription-users|claude-code-2026-04-04-fba1f6]]'
-- '[[Changes/ChatGPT/2026-04-09-pro-100-month-built-for-longer-high-intensity-codex-sessions-it-includes-unlimit|chatgpt-2026-04-09-384163]]'
-- '[[Changes/ChatGPT/2026-04-09-we-re-introducing-a-new-100-month-pro-plan-and-updating-how-codex-usage-works-ac|chatgpt-2026-04-09-441673]]'
+- '[[Changes/Claude Code/2026-04-04-added-per-model-and-cache-hit-breakdown-to-cost-for-subscription-users|Added
+  per-model and cache-hit breakdown to /cost for subscription users]]'
+- '[[Changes/ChatGPT/2026-04-09-pro-100-month-built-for-longer-high-intensity-codex-sessions-it-includes-unlimit|Pro
+  ($100/month): Built for longer, high-intensity Codex sessions]]'
+- '[[Changes/ChatGPT/2026-04-09-we-re-introducing-a-new-100-month-pro-plan-and-updating-how-codex-usage-works-ac|We’re
+  introducing a new $100/month Pro plan and updating how Codex usage works…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2|chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2]]'
 source_type: chatgpt_changelog
 theme: pricing-model
@@ -55,10 +62,10 @@ title: 'Plus ($20/month): Plus remains best for steady, day-to-day use'
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Plus ($20/month): Plus remains best for steady, day-to-day use
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — New Pro plan options: Plus ($20/month): Plus remains best for steady, day-to-day use. As the temporary Codex promotion on Plus ends, we’re rebalancing Plus usage to support more sessions across the week, rather than longer, high-intensity sessions on a single day.
+**ChatGPT** · 2026-04-09 · [[Themes/pricing-model|Pricing Model]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2|New Pro plan options]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -67,19 +74,28 @@ ChatGPT — New Pro plan options: Plus ($20/month): Plus remains best for steady
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2026-04-09-pro-100-month-built-for-longer-high-intensity-codex-sessions-it-includes-unlimit|Pro ($100/month): Built for longer, high-intensity Codex sessions]] · Pricing Model
+- [[Changes/ChatGPT/2026-04-09-we-re-introducing-a-new-100-month-pro-plan-and-updating-how-codex-usage-works-ac|We’re introducing a new $100/month Pro plan and updating how Codex usage works…]] · Pricing Model
+- [[Changes/ChatGPT/2026-04-09-pro-200-month-our-highest-usage-option-remains-available-and-continues-on-its-cu|Pro ($200/month): Our highest-usage option remains available and continues…]] · Pricing Model
+- [[Changes/ChatGPT/2026-04-09-you-can-upgrade-switch-or-cancel-your-plan-from-settings-my-plan-or-from-the-pri|You can upgrade, switch, or cancel your plan from Settings  My Plan or…]] · Pricing Model
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: pricing-model
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|chatgpt-2022-12-15-6d306d]]
-- Lag Days: 1211
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Pricing Model
+
+- Earlier: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-added-per-model-and-cache-hit-breakdown-to-cost-for-subscription-users|Added per-model and cache-hit breakdown to /cost for subscription users]]
+- Later: 2026-05-11 · Cursor · [[Changes/Cursor/2026-05-11-customers-must-be-on-usage-based-billing-for-bugbot-to-customize-effort-levels-l|Customers must be on usage-based billing for Bugbot to customize effort levels]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-04-09-66d25c&body=Card%3A%20Changes%2FChatGPT%2F2026-04-09-plus-20-month-plus-remains-best-for-steady-day-to-day-use-as-the-temporary-codex.md%0ACard%20ID%3A%20chatgpt-2026-04-09-66d25c%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

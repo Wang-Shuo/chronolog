@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2026-10-06'
-machine_hash: 83ef2eaf517c5e86e48fb46b3076946a82968fef667c6c8bfbea2d77d5005826
+description: 'ChatGPT release Audio uploads in ChatGPT on 2026-10-06: 1 tracked change
+  across Voice and Audio'
+machine_hash: 8d7fbe6fde2804dceb8f5e060898ae44803081f0a98615257fc987123bf897a5
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 1
   date: '2026-10-06'
   product: chatgpt
   product_name: ChatGPT
@@ -25,22 +28,24 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Audio uploads in ChatGPT
+title: ChatGPT · Audio uploads in ChatGPT
 version: Audio uploads in ChatGPT
 ---
 
-# ChatGPT Audio uploads in ChatGPT
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Audio uploads in ChatGPT
+
+**ChatGPT** · 2026-10-06 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Upload audio files to ChatGPT to create transcripts, summarize recordings, and ask questions about their contents. You can turn a meeting, interview, or lecture into structured notes or a follow-up email draft. To get started, attach a supported audio file to a conversation and describe what you need.Audio uploads are…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- voice: [[Changes/ChatGPT/2026-10-06-upload-audio-files-to-chatgpt-to-create-transcripts-summarize-recordings-and-ask|Upload audio files to ChatGPT to create transcripts, summarize recordings, and ask…]]
+- [[Changes/ChatGPT/2026-10-06-upload-audio-files-to-chatgpt-to-create-transcripts-summarize-recordings-and-ask|Upload audio files to ChatGPT to create transcripts, summarize recordings, and ask…]] · Voice and Audio
 <!-- chronolog:end -->

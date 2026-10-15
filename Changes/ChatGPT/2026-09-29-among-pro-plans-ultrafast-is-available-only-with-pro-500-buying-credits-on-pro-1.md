@@ -1,8 +1,12 @@
 ---
 card_id: chatgpt-2026-09-29-fd9149
 date: '2026-09-29'
+description: 'ChatGPT · 2026-09-29 · Pricing Model: Among Pro plans, Ultrafast is
+  available only with Pro 500. Buying credits on Pro 100 or Pro 200 does not unlock
+  it. Pro…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|chatgpt-2022-12-15-6d306d]]'
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
+    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1384
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 96037dab8fcf57acdfc6d9b1439d9bb1f872cb2b43fb150e1fd6efaec0002eef
+machine_hash: a3a0b7332a4d46bdabbb922fa41761e61a3f54dab04e453c1fb3eeaf3ef6faa2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,9 +45,12 @@ record:
   title: Among Pro plans, Ultrafast is available only with Pro 500
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-29-pro-200-is-available-for-new-subscriptions-again-at-200-month|chatgpt-2026-09-29-043e41]]'
-- '[[Changes/ChatGPT/2026-09-29-included-usage-allowances-are-changing-users-affected-by-these-changes-will-rece|chatgpt-2026-09-29-1581df]]'
-- '[[Changes/ChatGPT/2026-09-29-we-re-introducing-pro-500-a-new-500-month-plan-with-the-highest-included-usage-o|chatgpt-2026-09-29-2a3d81]]'
+- '[[Changes/ChatGPT/2026-09-29-pro-200-is-available-for-new-subscriptions-again-at-200-month|Pro
+  200 is available for new subscriptions again at $200/month]]'
+- '[[Changes/ChatGPT/2026-09-29-included-usage-allowances-are-changing-users-affected-by-these-changes-will-rece|Included
+  usage allowances are changing]]'
+- '[[Changes/ChatGPT/2026-09-29-we-re-introducing-pro-500-a-new-500-month-plan-with-the-highest-included-usage-o|ChatGPT
+  introduces Pro 500, a new $500/month plan with the highest included usage…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-a-new-pro-plan-with-astra-ultrafast-f0c84e90|chatgpt-2026-09-29-a-new-pro-plan-with-astra-ultrafast-f0c84e90]]'
 source_type: chatgpt_changelog
 theme: pricing-model
@@ -51,10 +58,10 @@ title: Among Pro plans, Ultrafast is available only with Pro 500
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Among Pro plans, Ultrafast is available only with Pro 500
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — A new Pro plan with Astra Ultrafast: Among Pro plans, Ultrafast is available only with Pro 500. Buying credits on Pro 100 or Pro 200 does not unlock it. Pro 500 subscriptions are available through ChatGPT on the web at launch.
+**ChatGPT** · 2026-09-29 · [[Themes/pricing-model|Pricing Model]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-29-a-new-pro-plan-with-astra-ultrafast-f0c84e90|A new Pro plan with Astra Ultrafast]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -63,19 +70,24 @@ ChatGPT — A new Pro plan with Astra Ultrafast: Among Pro plans, Ultrafast is a
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2026-09-29-we-re-introducing-pro-500-a-new-500-month-plan-with-the-highest-included-usage-o|ChatGPT introduces Pro 500, a new $500/month plan with the highest included usage…]] · Pricing Model
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: pricing-model
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|chatgpt-2022-12-15-6d306d]]
-- Lag Days: 1384
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Pricing Model
+
+- Earlier: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-included-usage-allowances-are-changing-users-affected-by-these-changes-will-rece|Included usage allowances are changing]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-29-fd9149&body=Card%3A%20Changes%2FChatGPT%2F2026-09-29-among-pro-plans-ultrafast-is-available-only-with-pro-500-buying-credits-on-pro-1.md%0ACard%20ID%3A%20chatgpt-2026-09-29-fd9149%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

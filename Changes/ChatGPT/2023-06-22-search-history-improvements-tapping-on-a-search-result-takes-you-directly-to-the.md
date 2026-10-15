@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2023-06-22-8758f2
 date: '2023-06-22'
+description: 'ChatGPT · 2023-06-22 · Search and Browsing: Search History Improvements:
+  Tapping on a search result takes you directly to the respective point in the…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|chatgpt-2023-03-23-c03c55]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
+    An experimental model that knows when and how to browse the internet]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 91
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: bf126c2f37c5db8e86c9f939275f40f2cde3aa812fd0ecb0b7c1fdc3faf400ac
+machine_hash: 2c7314d12f54b621bfe110b5462b76e72014ea2eae102f19cd32cd999bcf396a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,9 +42,12 @@ record:
   title: Search History Improvements
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|chatgpt-2023-03-23-c03c55]]'
-- '[[Changes/ChatGPT/2023-05-12-web-browsing-try-a-new-version-of-chatgpt-that-knows-when-and-how-to-browse-the|chatgpt-2023-05-12-b6aa27]]'
-- '[[Changes/ChatGPT/2023-05-24-browse-with-bing-we-ve-integrated-the-browsing-feature-currently-in-beta-for-pai|chatgpt-2023-05-24-d5e485]]'
+- '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
+  An experimental model that knows when and how to browse the internet]]'
+- '[[Changes/ChatGPT/2023-05-12-web-browsing-try-a-new-version-of-chatgpt-that-knows-when-and-how-to-browse-the|Web
+  browsing: Try a new version of ChatGPT that knows when and how to browse…]]'
+- '[[Changes/ChatGPT/2023-05-24-browse-with-bing-we-ve-integrated-the-browsing-feature-currently-in-beta-for-pai|Browse
+  with Bing]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-06-22-browsing-and-search-on-mobile-989ccb98|chatgpt-2023-06-22-browsing-and-search-on-mobile-989ccb98]]'
 source_type: chatgpt_changelog
 theme: search-browsing
@@ -49,10 +55,10 @@ title: Search History Improvements
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Search History Improvements
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Browsing and search on mobile: Search History Improvements: Tapping on a search result takes you directly to the respective point in the conversation.
+**ChatGPT** · 2023-06-22 · [[Themes/search-browsing|Search and Browsing]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-06-22-browsing-and-search-on-mobile-989ccb98|Browsing and search on mobile]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -61,19 +67,26 @@ ChatGPT — Browsing and search on mobile: Search History Improvements: Tapping 
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2023-06-22-browsing-plus-users-can-now-use-browsing-to-get-comprehensive-answers-and-curren|Browsing: Plus users can now use Browsing to get comprehensive answers and current…]] · Model Support
+- [[Changes/ChatGPT/2023-06-22-we-ve-made-two-updates-to-the-mobile-chatgpt-app|ChatGPT makes two updates to the mobile ChatGPT app]] · Mobile and Desktop
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: search-browsing
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|chatgpt-2023-03-23-c03c55]]
-- Lag Days: 91
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Search and Browsing
+
+- Earlier: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-browse-with-bing-we-ve-integrated-the-browsing-feature-currently-in-beta-for-pai|Browse with Bing]]
+- Later: 2023-07-03 · ChatGPT · [[Changes/ChatGPT/2023-07-03-we-ve-learned-that-the-browsing-beta-can-occasionally-display-content-in-ways-we|We've learned that the browsing beta can occasionally display content in ways we…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-06-22-8758f2&body=Card%3A%20Changes%2FChatGPT%2F2023-06-22-search-history-improvements-tapping-on-a-search-result-takes-you-directly-to-the.md%0ACard%20ID%3A%20chatgpt-2023-06-22-8758f2%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

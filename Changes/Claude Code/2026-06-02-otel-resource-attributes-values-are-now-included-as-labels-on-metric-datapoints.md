@@ -1,8 +1,12 @@
 ---
 card_id: claude-code-2026-06-02-dc5a23
 date: '2026-06-02'
+description: 'Claude Code · 2026-06-02 · Collaboration: `OTEL_RESOURCE_ATTRIBUTES`
+  values are now included as labels on metric datapoints, so you can slice usage metrics
+  by…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|cursor-2023-09-08-8ba960]]'
+  first_in_tracked: '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams
+    can also share private docs]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 998
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: fb2961cea11b5987167fda2a30db11d68f3bf6272d7910891a697a1bef9d51dd
+machine_hash: 1985c75dd6fff4c30da7fc094f3038c4ffac95ca8cb73f38baf921763fb57279
 product: claude-code
 product_name: Claude Code
 record:
@@ -39,9 +43,12 @@ record:
   title: '`OTEL_RESOURCE_ATTRIBUTES` values are now included as labels on metric datapoints…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-04-customers-with-existing-blocklists-will-need-to-migrate-to-the-new-system-by-jun|cursor-2026-05-04-af4668]]'
-- '[[Changes/Cursor/2026-05-11-cursor-is-now-available-in-microsoft-teams|cursor-2026-05-11-cc179a]]'
-- '[[Changes/Cursor/2026-05-20-you-can-now-share-canvases-from-cursor-with-your-teammates|cursor-2026-05-20-601cac]]'
+- '[[Changes/Cursor/2026-05-04-customers-with-existing-blocklists-will-need-to-migrate-to-the-new-system-by-jun|Customers
+  with existing blocklists will need to migrate to the new system by June 1st]]'
+- '[[Changes/Cursor/2026-05-11-cursor-is-now-available-in-microsoft-teams|Cursor is
+  now available in Microsoft Teams]]'
+- '[[Changes/Cursor/2026-05-20-you-can-now-share-canvases-from-cursor-with-your-teammates|Share
+  canvases from Cursor with your teammates]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-02-v2-1-161-github-333271302-7337e6fa|claude-code-2026-06-02-v2-1-161-github-333271302-7337e6fa]]'
 source_type: github_releases
 theme: collaboration
@@ -49,10 +56,10 @@ title: OTEL_RESOURCE_ATTRIBUTES values are now included as labels on metric data
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # `OTEL_RESOURCE_ATTRIBUTES` values are now included as labels on metric datapoints…
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.161: `OTEL_RESOURCE_ATTRIBUTES` values are now included as labels on metric datapoints, so you can slice usage metrics by custom dimensions like team or repo
+**Claude Code** · 2026-06-02 · [[Themes/collaboration|Collaboration]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.161) · from [[Releases/Claude Code/claude-code-2026-06-02-v2-1-161-github-333271302-7337e6fa|v2.1.161]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -61,19 +68,28 @@ Claude Code — v2.1.161: `OTEL_RESOURCE_ATTRIBUTES` values are now included as 
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.161
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-06-02-mcp-now-collapses-claude-ai-connectors-you-ve-never-signed-in-to-behind-a-show-u|/mcp now collapses claude.ai connectors you've never signed in to behind…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-06-02-parallel-tool-calls-a-failed-bash-command-no-longer-cancels-other-calls-in-the-s|Parallel tool calls]] · Developer Workflow
+- [[Changes/Claude Code/2026-06-02-claude-agents-rows-now-show-done-total-before-the-detail-when-work-is-fanned-out|claude agents rows now show done/total before the detail when work is fanned out]] · Agent Mode
+- [[Changes/Claude Code/2026-06-02-fullscreen-mode-clipboard-now-uses-wl-copy-xclip-xsel-on-linux-when-available-co|Fullscreen mode: clipboard now uses wl-copy/xclip/xsel on Linux…]] · Interface Experience
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: collaboration
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|cursor-2023-09-08-8ba960]]
-- Lag Days: 998
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Collaboration
+
+- Earlier: 2026-05-20 · Cursor · [[Changes/Cursor/2026-05-20-you-can-now-share-canvases-from-cursor-with-your-teammates|Share canvases from Cursor with your teammates]]
+- Later: 2026-06-03 · Cursor · [[Changes/Cursor/2026-06-03-an-organization-is-the-top-level-container-for-your-company-s-identity-administr|An organization is the top-level container for your company's identity…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-09-08 · Cursor · [[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams can also share private docs]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-06-02-dc5a23&body=Card%3A%20Changes%2FClaude%20Code%2F2026-06-02-otel-resource-attributes-values-are-now-included-as-labels-on-metric-datapoints.md%0ACard%20ID%3A%20claude-code-2026-06-02-dc5a23%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.161%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

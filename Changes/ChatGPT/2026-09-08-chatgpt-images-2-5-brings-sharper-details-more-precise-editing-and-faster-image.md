@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2026-09-08-1e4394
 date: '2026-09-08'
+description: 'ChatGPT · 2026-09-08 · Image Generation: ChatGPT Images 2.5 brings sharper
+  details, more precise editing, and faster image generation. We’re also introducing…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|chatgpt-2024-01-10-71db32]]'
+  first_in_tracked: '[[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|The
+    store features a diverse range of GPTs developed by our partners and the community]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 972
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 02e0f67a6a50fbd3213bf26917e4431e1038ca155b30ac0eaad9a7480518fd9a
+machine_hash: 59dff2c825371cf7d0699937a60f4b4f269df0437c2917a49291ff4d8a26f3ad
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,9 +53,12 @@ record:
     image…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-12-16-we-ve-introduced-a-new-and-improved-version-of-chatgpt-images-powered-by-our-bes-a63d5c|chatgpt-2025-12-16-a63d5c]]'
-- '[[Changes/ChatGPT/2026-04-21-we-re-introducing-chatgpt-images-2-0-our-new-image-generation-model-in-chatgpt-c|chatgpt-2026-04-21-a5c0ef]]'
-- '[[Changes/ChatGPT/2026-07-31-on-august-30-2026-we-re-retiring-the-official-dall-e-gpt-in-chatgpt-we-encourage|chatgpt-2026-07-31-6515a2]]'
+- '[[Changes/ChatGPT/2025-12-16-we-ve-introduced-a-new-and-improved-version-of-chatgpt-images-powered-by-our-bes-a63d5c|We’ve
+  introduced a new and improved version of ChatGPT Images, powered by our best…]]'
+- '[[Changes/ChatGPT/2026-04-21-we-re-introducing-chatgpt-images-2-0-our-new-image-generation-model-in-chatgpt-c|ChatGPT
+  introduces ChatGPT Images 2.0, our new image generation model]]'
+- '[[Changes/ChatGPT/2026-07-31-on-august-30-2026-we-re-retiring-the-official-dall-e-gpt-in-chatgpt-we-encourage|On
+  August 30, 2026, we’re retiring the official DALL·E GPT in ChatGPT]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-08-chatgpt-images-2-5-new-ways-to-create-and-edit-11ada24d|chatgpt-2026-09-08-chatgpt-images-2-5-new-ways-to-create-and-edit-11ada24d]]'
 source_type: chatgpt_changelog
 theme: image-generation
@@ -61,10 +67,10 @@ title: ChatGPT Images 2.5 brings sharper details, more precise editing, and fast
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # ChatGPT Images 2.5 brings sharper details, more precise editing, and faster image…
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — ChatGPT Images 2.5: new ways to create and edit: ChatGPT Images 2.5 brings sharper details, more precise editing, and faster image generation. We’re also introducing new ways to create and share:
+**ChatGPT** · 2026-09-08 · [[Themes/image-generation|Image Generation]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-08-chatgpt-images-2-5-new-ways-to-create-and-edit-11ada24d|ChatGPT Images 2.5: new ways to create and edit]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -73,19 +79,26 @@ ChatGPT — ChatGPT Images 2.5: new ways to create and edit: ChatGPT Images 2.5 
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2026-09-08-share-a-prompt-share-the-prompt-for-a-generated-image-so-others-can-create-their|Share a prompt]] · Collaboration
+- [[Changes/ChatGPT/2026-09-08-edit-and-comment-on-mobile-open-a-generated-image-full-screen-to-edit-it-or-add|Edit and comment]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-09-08-turn-a-sketch-into-an-image-on-mobile-type-in-the-message-box-and-select-sketch|Turn a sketch into an image]] · Mobile and Desktop
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: image-generation
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|chatgpt-2024-01-10-71db32]]
-- Lag Days: 972
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Image Generation
+
+- Earlier: 2026-07-31 · ChatGPT · [[Changes/ChatGPT/2026-07-31-on-august-30-2026-we-re-retiring-the-official-dall-e-gpt-in-chatgpt-we-encourage|On August 30, 2026, we’re retiring the official DALL·E GPT in ChatGPT]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2024-01-10 · ChatGPT · [[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|The store features a diverse range of GPTs developed by our partners and the community]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-08-1e4394&body=Card%3A%20Changes%2FChatGPT%2F2026-09-08-chatgpt-images-2-5-brings-sharper-details-more-precise-editing-and-faster-image.md%0ACard%20ID%3A%20chatgpt-2026-09-08-1e4394%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

@@ -1,8 +1,10 @@
 ---
 card_id: cursor-2023-03-18-188639
 date: '2023-03-18'
+description: 'Cursor · 2023-03-18 · Editor Experience: Diffs automatically continue'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|cursor-2023-03-14-24e9bf]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant
+    fix all lint errors with AI 😎]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 4
   relation: same-theme-chronology
@@ -13,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 419423e3299a6268ffb3c3a29d94cb1f31b70dd6d063506af81a387bb2bc8371
+machine_hash: 2a7cc7cb28a2507518d427369eb05fd65a055e37d7c5946450bf1004d2d0b396
 product: cursor
 product_name: Cursor
 record:
@@ -37,9 +39,12 @@ record:
   title: Diffs automatically continue
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|cursor-2023-03-14-24e9bf]]'
-- '[[Changes/Cursor/2023-03-14-editing-works-for-same-file-on-multiple-tabs|cursor-2023-03-14-47ddc1]]'
-- '[[Changes/Cursor/2023-03-14-edits-can-be-as-long-as-you-d-like|cursor-2023-03-14-7b1ba3]]'
+- '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all
+  lint errors with AI 😎]]'
+- '[[Changes/Cursor/2023-03-14-editing-works-for-same-file-on-multiple-tabs|Editing
+  works for same file on multiple tabs]]'
+- '[[Changes/Cursor/2023-03-14-edits-can-be-as-long-as-you-d-like|Edits can be as
+  long as you''d like]]'
 source_release: '[[Releases/Cursor/cursor-2023-03-18-0-1-2-https-cursor-com-changelog-0-1-2-154cc875|cursor-2023-03-18-0-1-2-https-cursor-com-changelog-0-1-2-154cc875]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -47,10 +52,10 @@ title: Diffs automatically continue
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Diffs automatically continue
 
-<!-- chronolog:begin region="description" -->
-Cursor — v0.1.2-0.1.3 (2023-03-18): Diffs automatically continue
+**Cursor** · 2023-03-18 · [[Themes/editor-experience|Editor Experience]] · [Official source](https://cursor.com/changelog/0-1-2) · from [[Releases/Cursor/cursor-2023-03-18-0-1-2-https-cursor-com-changelog-0-1-2-154cc875|v0.1.2-0.1.3 (2023-03-18)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -59,19 +64,28 @@ Cursor — v0.1.2-0.1.3 (2023-03-18): Diffs automatically continue
 > Source: https://cursor.com/changelog/0-1-2
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]] · Developer Workflow
+- [[Changes/Cursor/2023-03-18-can-open-chat-history-from-the-prompt-bar|Can open chat history from the prompt bar]] · Interface Experience
+- [[Changes/Cursor/2023-03-18-up-and-down-arrow-in-prompt-bar-have-been-mapped-to-less-annoying-keybindings|Up and down arrow in prompt bar have been mapped to less annoying keybindings]] · Interface Experience
+- [[Changes/Cursor/2023-03-18-have-chat-auto-insert-suggested-changes-into-editor|Have chat auto-insert suggested changes into editor]] · Editor Experience
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: editor-experience
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|cursor-2023-03-14-24e9bf]]
-- Lag Days: 4
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Editor Experience
+
+- Earlier: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-edits-can-be-as-long-as-you-d-like|Edits can be as long as you'd like]]
+- Later: 2023-03-23 · Cursor · [[Changes/Cursor/2023-03-23-automatically-apply-chat-suggestion|Automatically apply chat suggestion]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all lint errors with AI 😎]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2023-03-18-188639&body=Card%3A%20Changes%2FCursor%2F2023-03-18-diffs-automatically-continue.md%0ACard%20ID%3A%20cursor-2023-03-18-188639%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F0-1-2%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

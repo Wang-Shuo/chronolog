@@ -64,7 +64,11 @@ def test_a1_full_then_incremental_uses_markdown_without_previous_run_json(vault)
     assert "Change count: 3" in (vault / "index.md").read_text()
     cursor = sorted((c for c in cards(vault) if c["product"] == "cursor"), key=lambda c: c["date"])
     assert cursor[1]["evolves_from"] == []
-    assert cursor[0]["card_id"] in cursor[1]["related_changes"][0]
+    earlier = next(p for p in (vault / "Changes").rglob("*.md")
+                   if frontmatter.load(p)["card_id"] == cursor[0]["card_id"])
+    target = earlier.relative_to(vault).with_suffix("").as_posix()
+    # Relation links name the target card by its title, not its card_id.
+    assert cursor[1]["related_changes"][0] == f"[[{target}|{cursor[0]['title']}]]"
     assert read_json(PipelinePaths("incremental", vault).validation_round2)["errors"] == []
 
 
@@ -328,6 +332,36 @@ def test_legacy_markdown_without_record_field_can_be_merged(vault):
     result = run(vault, "migrate", collection([release()], mode="incremental"))
     assert result["merged_cards"] == 2
     assert len(read_history(vault, {"cursor", "chatgpt"})[0]) == 2
+
+
+def test_legacy_card_with_human_notes_is_reported_not_blocking(vault):
+    from _scripts.writer import content_machine_hash, extract_machine_regions, machine_region
+    run(vault, "seed", collection([release()]))
+    path = next((vault / "Changes").rglob("*.md"))
+    post = frontmatter.load(path)
+    evidence = extract_machine_regions(post.content)["evidence"]
+    post.content = (f"# {post['record']['title']}\n\n{machine_region('evidence', evidence)}\n\n"
+                    "## Editor Notes\n\nHuman research notes.")
+    post["machine_hash"] = content_machine_hash(frontmatter.dumps(post))
+    path.write_text(frontmatter.dumps(post))
+    result = run(vault, "legacy", collection([release()]), reconcile=True)
+    assert result["writer_migration_pending"] == 1
+    pending = read_json(vault / "_pipeline/legacy/writer-migration-pending.json")
+    assert pending == [{"file": path.relative_to(vault).as_posix(),
+                        "reason": "legacy skeleton with human text; manual migration needed"}]
+    assert "Human research notes." in path.read_text()
+    assert "Report an issue" not in path.read_text()
+    result = run(vault, "clean", collection([release()]), reconcile=True)
+    assert result["writer_migration_pending"] == 1
+    path.write_text(path.read_text().replace("\n\nHuman research notes.", ""))
+    post = frontmatter.load(path)
+    post["machine_hash"] = content_machine_hash(frontmatter.dumps(post))
+    path.write_text(frontmatter.dumps(post))
+    result = run(vault, "migrated", collection([release()]), reconcile=True)
+    assert result["writer_migration_pending"] == 0
+    assert not (vault / "_pipeline/migrated/writer-migration-pending.json").exists()
+    assert list(extract_machine_regions(frontmatter.load(path).content)) == [
+        "header", "evidence", "context", "nearby", "relations", "footer"]
 
 
 def test_fixture_cannot_overwrite_live_vault(vault):

@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2023-09-01'
-machine_hash: 131bedaf3ecc9c5b6572a864af0c926e9d1e8466340f9aefdbedbb093dabd3e4
+description: 'Cursor release Hotfix Github Auth on 2023-09-01: 1 tracked change across
+  Account and Access'
+machine_hash: ce37f35902d79fb647a8a450ecd7b7043e6df19c289d9c47a98d915756e701f5
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2023-09-01'
   product: cursor
   product_name: Cursor
@@ -21,22 +24,24 @@ source_url: https://cursor.com/changelog/0-9-3
 tags:
 - release
 - cursor
-title: Cursor — Hotfix Github Auth
+title: Cursor · Hotfix Github Auth
 version: 0.9.3
 ---
 
-# Cursor Hotfix Github Auth
+<!-- chronolog:begin region="header" -->
+# Cursor · Hotfix Github Auth
+
+**Cursor** · 2023-09-01 · [Official release notes](https://cursor.com/changelog/0-9-3)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 You should now be able to sign in with GitHub again.
 
-[Official release notes](https://cursor.com/changelog/0-9-3)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- account-access: [[Changes/Cursor/2023-09-01-you-should-now-be-able-to-sign-in-with-github-again|You should now be able to sign in with GitHub again]]
+- [[Changes/Cursor/2023-09-01-you-should-now-be-able-to-sign-in-with-github-again|You should now be able to sign in with GitHub again]] · Account and Access
 <!-- chronolog:end -->

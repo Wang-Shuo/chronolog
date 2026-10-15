@@ -1,8 +1,12 @@
 ---
 card_id: cursor-2023-09-07-a25517
 date: '2023-09-07'
+description: 'Cursor · 2023-09-07 · Projects and Workspaces: It still struggles with
+  coherently producing large complex projects, but produces much better first drafts
+  than…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-conversation-history-you-ll-soon-be-able-to-view-past-conversations-with-chatgpt|chatgpt-2022-12-15-23a232]]'
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-conversation-history-you-ll-soon-be-able-to-view-past-conversations-with-chatgpt|Conversation
+    history: You’ll soon be able to view past conversations with ChatGPT…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 266
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: a391c8de8f5a97f29b1b1addf1cd99f9cc57947f84f5c5ec2a363454fd7be5ff
+machine_hash: a4513fd3e88ded6ed50d042791fc8588a8606c32d94754356e9ae6406416583f
 product: cursor
 product_name: Cursor
 record:
@@ -40,9 +44,12 @@ record:
     produces…
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-05-18-reintroduces-the-new-ai-project|cursor-2023-05-18-f9fb93]]'
-- '[[Changes/Cursor/2023-07-21-can-see-recent-folders-on-the-new-window-screen|cursor-2023-07-21-c4ca08]]'
-- '[[Changes/Cursor/2023-09-07-ux-for-producing-a-project-end-to-end|cursor-2023-09-07-2e852b]]'
+- '[[Changes/Cursor/2023-05-18-reintroduces-the-new-ai-project|Reintroduces the "New
+  AI Project"]]'
+- '[[Changes/Cursor/2023-07-21-can-see-recent-folders-on-the-new-window-screen|Can
+  see recent folders on the new window screen]]'
+- '[[Changes/Cursor/2023-09-07-ux-for-producing-a-project-end-to-end|UX for producing
+  a project end-to-end]]'
 source_release: '[[Releases/Cursor/cursor-2023-09-07-0-9-8-nightly-https-cursor-com-changelog-0-9-8-nightly-bc635135|cursor-2023-09-07-0-9-8-nightly-https-cursor-com-changelog-0-9-8-nightly-bc635135]]'
 source_type: cursor_changelog
 theme: projects-workspaces
@@ -50,10 +57,10 @@ title: It still struggles with coherently producing large complex projects, but 
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # It still struggles with coherently producing large complex projects, but produces…
 
-<!-- chronolog:begin region="description" -->
-Cursor — New AI Project: It still struggles with coherently producing large complex projects, but produces much better first drafts than previously
+**Cursor** · 2023-09-07 · [[Themes/projects-workspaces|Projects and Workspaces]] · [Official source](https://cursor.com/changelog/0-9-8-nightly) · from [[Releases/Cursor/cursor-2023-09-07-0-9-8-nightly-https-cursor-com-changelog-0-9-8-nightly-bc635135|New AI Project]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -62,19 +69,26 @@ Cursor — New AI Project: It still struggles with coherently producing large co
 > Source: https://cursor.com/changelog/0-9-8-nightly
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2023-09-07-ux-for-producing-a-project-end-to-end|UX for producing a project end-to-end]] · Projects and Workspaces
+- [[Changes/Cursor/2023-09-07-we-release-an-improved-new-ai-project-feature-to-nightly-users-this-is-a-more-ro|We release an improved New AI Project feature to nightly users]] · Reliability and Performance
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: projects-workspaces
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2022-12-15-conversation-history-you-ll-soon-be-able-to-view-past-conversations-with-chatgpt|chatgpt-2022-12-15-23a232]]
-- Lag Days: 266
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Projects and Workspaces
+
+- Earlier: 2023-07-21 · Cursor · [[Changes/Cursor/2023-07-21-can-see-recent-folders-on-the-new-window-screen|Can see recent folders on the new window screen]]
+- Later: 2024-02-02 · Cursor · [[Changes/Cursor/2024-02-02-you-can-now-search-through-past-chats|Search through past chats]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-conversation-history-you-ll-soon-be-able-to-view-past-conversations-with-chatgpt|Conversation history: You’ll soon be able to view past conversations with ChatGPT…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2023-09-07-a25517&body=Card%3A%20Changes%2FCursor%2F2023-09-07-it-still-struggles-with-coherently-producing-large-complex-projects-but-produces.md%0ACard%20ID%3A%20cursor-2023-09-07-a25517%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F0-9-8-nightly%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

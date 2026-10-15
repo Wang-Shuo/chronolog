@@ -1,10 +1,13 @@
 ---
 changes_count: 5
 date: '2024-03-20'
-machine_hash: 28d84add36b694dbba1bf279502f863c8dd816dfd152da1e60c048bbe5720d52
+description: 'Cursor release Faster Copilot++, Claude on 2024-03-20: 5 tracked changes
+  across Collaboration, Editor Experience, Interface Experience, Model Support…'
+machine_hash: 8afa189df4a2d2fc06b0dc0c9ce2c45e082cbe2516d5f8d8cac2523a4fa0914a
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 5
   date: '2024-03-20'
   product: cursor
   product_name: Cursor
@@ -24,26 +27,28 @@ source_url: https://cursor.com/changelog/0-30-x
 tags:
 - release
 - cursor
-title: Cursor — Faster Copilot++, Claude
+title: Cursor · Faster Copilot++, Claude
 version: 0.30.x
 ---
 
-# Cursor Faster Copilot++, Claude
+<!-- chronolog:begin region="header" -->
+# Cursor · Faster Copilot++, Claude
+
+**Cursor** · 2024-03-20 · [Official release notes](https://cursor.com/changelog/0-30-x)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Faster Copilot++: We've made Copilot++ ~2x faster! This speed bump comes from a new model / faster inference. ~50% of users are already on this model, and it will roll out to everyone over a few days. If you'd like to enable the model immediately, you can control your model in the bottom bar of the editor.
 
-[Official release notes](https://cursor.com/changelog/0-30-x)
-
-Tracked cards: 5
+Tracked 5 of 5 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/Cursor/2024-03-20-stable-claude-support-all-the-newest-claude-models-are-available-for-pro-and-api|Stable Claude Support]]
-- editor-experience: [[Changes/Cursor/2024-03-20-team-invites-we-made-it-a-bit-easier-for-you-to-invite-your-colleagues-to-your-c|Team invites: We made it a bit easier for you to invite your colleagues…]]
-- collaboration: [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
-- interface-experience: [[Changes/Cursor/2024-03-20-new-settings-we-moved-all-our-settings-to-be-accessible-by-the-gear-in-the-top-r|New Settings: We moved all our settings to be accessible by the gear in the top right]]
-- reliability-performance: [[Changes/Cursor/2024-03-20-faster-copilot-we-ve-made-copilot-2x-faster-this-speed-bump-comes-from-a-new-mod|Faster Copilot++: We've made Copilot++ ~2x faster!]]
+- [[Changes/Cursor/2024-03-20-stable-claude-support-all-the-newest-claude-models-are-available-for-pro-and-api|Stable Claude Support]] · Model Support
+- [[Changes/Cursor/2024-03-20-team-invites-we-made-it-a-bit-easier-for-you-to-invite-your-colleagues-to-your-c|Team invites: We made it a bit easier for you to invite your colleagues…]] · Editor Experience
+- [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]] · Collaboration
+- [[Changes/Cursor/2024-03-20-new-settings-we-moved-all-our-settings-to-be-accessible-by-the-gear-in-the-top-r|New Settings: We moved all our settings to be accessible by the gear in the top right]] · Interface Experience
+- [[Changes/Cursor/2024-03-20-faster-copilot-we-ve-made-copilot-2x-faster-this-speed-bump-comes-from-a-new-mod|Faster Copilot++: We've made Copilot++ ~2x faster!]] · Reliability and Performance
 <!-- chronolog:end -->

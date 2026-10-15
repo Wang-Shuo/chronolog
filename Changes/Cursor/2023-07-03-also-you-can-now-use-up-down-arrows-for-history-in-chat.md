@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2023-07-03-90bbb6
 date: '2023-07-03'
+description: 'Cursor · 2023-07-03 · Interface Experience: (Also, you can now use up/down
+  arrows for history in chat.)'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
+    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 175
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 31c26114d7698bf52bda36e1bfc5432b6e30dd59a8a36a418462ff9a23539e64
+machine_hash: 4ee5bee060aa9bc086b89ec8f48d8de7c7d93c12ef00aba615ea296c459d0544
 product: cursor
 product_name: Cursor
 record:
@@ -38,9 +41,12 @@ record:
   title: (Also, you can now use up/down arrows for history in chat.)
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-05-20-we-ve-added-a-new-feedback-button-at-the-top-right-of-the-app-we-really-do|cursor-2023-05-20-ba1f43]]'
-- '[[Changes/Cursor/2023-06-24-the-chat-has-been-revamped-you-can-now-use-symbols-to-show-files-code-docs-to-th|cursor-2023-06-24-a50962]]'
-- '[[Changes/Cursor/2023-06-27-better-symbol-keyboard-ergonomics|cursor-2023-06-27-080573]]'
+- '[[Changes/Cursor/2023-05-20-we-ve-added-a-new-feedback-button-at-the-top-right-of-the-app-we-really-do|Cursor
+  adds a new feedback button at the top right of the app]]'
+- '[[Changes/Cursor/2023-06-24-the-chat-has-been-revamped-you-can-now-use-symbols-to-show-files-code-docs-to-th|The
+  chat has been revamped!]]'
+- '[[Changes/Cursor/2023-06-27-better-symbol-keyboard-ergonomics|Better @ symbol keyboard
+  ergonomics]]'
 source_release: '[[Releases/Cursor/cursor-2023-07-03-0-2-39-https-cursor-com-changelog-0-2-39-cbfe6a5f|cursor-2023-07-03-0-2-39-https-cursor-com-changelog-0-2-39-cbfe6a5f]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -48,10 +54,10 @@ title: (Also, you can now use up/down arrows for history in chat.)
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # (Also, you can now use up/down arrows for history in chat.)
 
-<!-- chronolog:begin region="description" -->
-Cursor — New inline edits: (Also, you can now use up/down arrows for history in chat.)
+**Cursor** · 2023-07-03 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://cursor.com/changelog/0-2-39) · from [[Releases/Cursor/cursor-2023-07-03-0-2-39-https-cursor-com-changelog-0-2-39-cbfe6a5f|New inline edits]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -60,19 +66,27 @@ Cursor — New inline edits: (Also, you can now use up/down arrows for history i
 > Source: https://cursor.com/changelog/0-2-39
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2023-07-03-long-code-selections-no-longer-brick-the-editor|Long code selections no longer brick the editor]] · Editor Experience
+- [[Changes/Cursor/2023-07-03-cmd-k-s-ui-has-been-changed-it-s-in-editor-sticky-and-symbol-compatible|Cmd+K's UI has been changed: it's in-editor, "sticky," and @-symbol-compatible]] · Editor Experience
+- [[Changes/Cursor/2023-07-03-also-cursor-s-ai-will-now-use-popular-documentation-to-improve-the-answers-to-yo|Also, Cursor's AI will now use popular documentation to improve the answers…]] · Apps and Integrations
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: interface-experience
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]
-- Lag Days: 175
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Interface Experience
+
+- Earlier: 2023-06-27 · Cursor · [[Changes/Cursor/2023-06-27-better-symbol-keyboard-ergonomics|Better @ symbol keyboard ergonomics]]
+- Later: 2023-07-07 · Cursor · [[Changes/Cursor/2023-07-07-chat-edit-tooltip-blocks-less-code|Chat/Edit tooltip blocks less code]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2023-07-03-90bbb6&body=Card%3A%20Changes%2FCursor%2F2023-07-03-also-you-can-now-use-up-down-arrows-for-history-in-chat.md%0ACard%20ID%3A%20cursor-2023-07-03-90bbb6%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F0-2-39%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

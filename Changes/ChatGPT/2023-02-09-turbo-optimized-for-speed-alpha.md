@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2023-02-09-b74e9d
 date: '2023-02-09'
+description: 'ChatGPT · 2023-02-09 · Reliability and Performance: Turbo: optimized
+  for speed (alpha)'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|chatgpt-2022-12-15-9c6f9c]]'
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
+    performance: Among other improvements, users will notice that ChatGPT is now…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 56
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 305bcdba240762eaca6b4ff8c9f3150136191a343a384e5faab3d3648d442ce6
+machine_hash: 234a9af24d78e2f2cb312fbb0c6cb8683d39a39c2c2e10a484bc079bb09a1efe
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,7 +38,8 @@ record:
   title: 'Turbo: optimized for speed (alpha)'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|chatgpt-2022-12-15-9c6f9c]]'
+- '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
+  performance: Among other improvements, users will notice that ChatGPT is now…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-02-09-introducing-chatgpt-plus-380a3524|chatgpt-2023-02-09-introducing-chatgpt-plus-380a3524]]'
 source_type: chatgpt_changelog
 theme: reliability-performance
@@ -43,10 +47,10 @@ title: 'Turbo: optimized for speed (alpha)'
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Turbo: optimized for speed (alpha)
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Introducing ChatGPT Plus: Turbo: optimized for speed (alpha)
+**ChatGPT** · 2023-02-09 · [[Themes/reliability-performance|Reliability and Performance]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-02-09-introducing-chatgpt-plus-380a3524|Introducing ChatGPT Plus]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -55,19 +59,26 @@ ChatGPT — Introducing ChatGPT Plus: Turbo: optimized for speed (alpha)
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2023-02-09-version-selection-is-made-easy-with-a-dedicated-dropdown-menu-at-the-top-of-the|Version selection is made easy with a dedicated dropdown menu at the top of the page]] · Interface Experience
+- [[Changes/ChatGPT/2023-02-09-default-the-standard-chatgpt-model|Default: the standard ChatGPT model]] · Model Support
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: reliability-performance
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|chatgpt-2022-12-15-9c6f9c]]
-- Lag Days: 56
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Reliability and Performance
+
+- Earlier: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Later: 2023-02-13 · ChatGPT · [[Changes/ChatGPT/2023-02-13-based-on-user-feedback-we-are-now-defaulting-plus-users-to-a-faster-version-of-c|Based on user feedback, we are now defaulting Plus users to a faster version…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-02-09-b74e9d&body=Card%3A%20Changes%2FChatGPT%2F2023-02-09-turbo-optimized-for-speed-alpha.md%0ACard%20ID%3A%20chatgpt-2023-02-09-b74e9d%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

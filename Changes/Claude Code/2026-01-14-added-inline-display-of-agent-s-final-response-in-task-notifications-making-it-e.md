@@ -1,8 +1,11 @@
 ---
 card_id: claude-code-2026-01-14-1c7708
 date: '2026-01-14'
+description: 'Claude Code · 2026-01-14 · Agent Mode: Added inline display of agent''s
+  final response in task notifications, making it easier to see results without reading…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
+    to the first nightly release!]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 923
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: d3ae10a1d58224d64bd14a1a9e72b63703414939cc4f847c9287d9c1f89b2820
+machine_hash: a284a5afecd0cdd80e0af4f58b7cde4b6e451bbeb4a608db0afdc518862f3af3
 product: claude-code
 product_name: Claude Code
 record:
@@ -40,9 +43,12 @@ record:
   title: Added inline display of agent's final response in task notifications, making…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-10-plan-mode-now-supports-inline-mermaid-diagrams-allowing-the-agent-to-automatical|cursor-2025-12-10-8fb01a]]'
-- '[[Changes/Cursor/2025-12-22-this-includes-the-core-agent-layout-controls-viewing-code-diffs-and-more-we-will|cursor-2025-12-22-8b0c63]]'
-- '[[Changes/Claude Code/2026-01-11-added-claude-code-disable-background-tasks-environment-variable-to-disable-all-b|claude-code-2026-01-11-456334]]'
+- '[[Changes/Cursor/2025-12-10-plan-mode-now-supports-inline-mermaid-diagrams-allowing-the-agent-to-automatical|Plan
+  Mode now supports inline Mermaid diagrams, allowing the agent to automatically…]]'
+- '[[Changes/Cursor/2025-12-22-this-includes-the-core-agent-layout-controls-viewing-code-diffs-and-more-we-will|This
+  includes the core agent, layout controls, viewing code diffs, and more]]'
+- '[[Changes/Claude Code/2026-01-11-added-claude-code-disable-background-tasks-environment-variable-to-disable-all-b|Added
+  CLAUDE_CODE_DISABLE_BACKGROUND_TASKS environment variable to disable all…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-14-v2-1-7-github-276555327-bf21dc80|claude-code-2026-01-14-v2-1-7-github-276555327-bf21dc80]]'
 source_type: github_releases
 theme: agent-mode
@@ -50,10 +56,10 @@ title: Added inline display of agent's final response in task notifications, mak
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Added inline display of agent's final response in task notifications, making…
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.7: Added inline display of agent's final response in task notifications, making it easier to see results without reading the full transcript file
+**Claude Code** · 2026-01-14 · [[Themes/agent-mode|Agent Mode]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.7) · from [[Releases/Claude Code/claude-code-2026-01-14-v2-1-7-github-276555327-bf21dc80|v2.1.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -62,19 +68,28 @@ Claude Code — v2.1.7: Added inline display of agent's final response in task n
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.7
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-01-14-improved-typing-responsiveness-by-reducing-memory-allocation-overhead-in-termina|Improved typing responsiveness by reducing memory allocation overhead in terminal…]] · Reliability and Performance
+- [[Changes/Claude Code/2026-01-14-added-ability-to-provide-feedback-when-accepting-permission-prompts|Added ability to provide feedback when accepting permission prompts]] · Safety and Privacy
+- [[Changes/Claude Code/2026-01-14-fixed-security-vulnerability-where-wildcard-permission-rules-could-match-compoun|Fixed security vulnerability where wildcard permission rules could match compound…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-01-14-added-showturnduration-setting-to-hide-turn-duration-messages-e-g-cooked-for-1m|Added showTurnDuration setting to hide turn duration messages (e.g., "Cooked for 1m 6s")]] · Interface Experience
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: agent-mode
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]
-- Lag Days: 923
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Agent Mode
+
+- Earlier: 2026-01-11 · Claude Code · [[Changes/Claude Code/2026-01-11-added-claude-code-disable-background-tasks-environment-variable-to-disable-all-b|Added CLAUDE_CODE_DISABLE_BACKGROUND_TASKS environment variable to disable all…]]
+- Later: 2026-01-16 · Claude Code · [[Changes/Claude Code/2026-01-16-added-plansdirectory-setting-to-customize-where-plan-files-are-stored|Added plansDirectory setting to customize where plan files are stored]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-01-14-1c7708&body=Card%3A%20Changes%2FClaude%20Code%2F2026-01-14-added-inline-display-of-agent-s-final-response-in-task-notifications-making-it-e.md%0ACard%20ID%3A%20claude-code-2026-01-14-1c7708%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.7%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

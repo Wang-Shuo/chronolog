@@ -1,8 +1,12 @@
 ---
 card_id: chatgpt-2026-05-14-8895ca
 date: '2026-05-14'
+description: 'ChatGPT · 2026-05-14 · Mobile and Desktop: Generated images will continue
+  to appear in the Images tab.Storage management is currently available on web and
+  you…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support 🥳]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1157
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5ca61bfc5126112fc0633403805f1f6406349c19505af7bb0da96564c9dec46c
+machine_hash: 2639a3cf5f3f8e556482c4c583ef775b419b38d6733228250dfef6858fae43eb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -60,9 +64,12 @@ record:
   title: Generated images will continue to appear in the Images tab
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-09-vscode-fixed-extension-failing-to-activate-on-windows|claude-code-2026-05-09-519945]]'
-- '[[Changes/ChatGPT/2026-05-12-free-users-in-chatgpt-will-now-see-more-inline-images-from-the-web-to-help-make|chatgpt-2026-05-12-635177]]'
-- '[[Changes/ChatGPT/2026-05-14-codex-is-now-available-in-preview-in-the-chatgpt-mobile-app-so-you-can-stay-conn|chatgpt-2026-05-14-366d1d]]'
+- '[[Changes/Claude Code/2026-05-09-vscode-fixed-extension-failing-to-activate-on-windows|VSCode
+  Fixed extension failing to activate on Windows]]'
+- '[[Changes/ChatGPT/2026-05-12-free-users-in-chatgpt-will-now-see-more-inline-images-from-the-web-to-help-make|Free
+  users in ChatGPT will now see more inline images from the web to help make…]]'
+- '[[Changes/ChatGPT/2026-05-14-codex-is-now-available-in-preview-in-the-chatgpt-mobile-app-so-you-can-stay-conn|Codex
+  is now available in preview in the ChatGPT mobile app, so you can stay…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-05-14-file-library-expands-to-free-and-go-users-with-storage-managemen-94a98ddb|chatgpt-2026-05-14-file-library-expands-to-free-and-go-users-with-storage-managemen-94a98ddb]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -70,10 +77,10 @@ title: Generated images will continue to appear in the Images tab
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Generated images will continue to appear in the Images tab
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — File library expands to Free and Go users, with storage management: Generated images will continue to appear in the Images tab.Storage management is currently available on web and you can access it from Settings > Storage; you can also delete files directly from Library.Files remain in your Library until you delete them. Files uploaded in Temporary Chat aren’t saved to Library.Library and ‘Recent files’ in the composer are supported on web, iOS, and Android. Learn more about File storage and Library in ChatGPT.
+**ChatGPT** · 2026-05-14 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-05-14-file-library-expands-to-free-and-go-users-with-storage-managemen-94a98ddb|File library expands to Free and Go users, with storage management]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -82,19 +89,27 @@ ChatGPT — File library expands to Free and Go users, with storage management: 
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2026-05-14-free-500-mb|Free: 500 MB]] · Files and Data
+- [[Changes/ChatGPT/2026-05-14-plus-and-business-20-gb|Plus and Business: 20 GB]] · Files and Data
+- [[Changes/ChatGPT/2026-05-14-file-library-is-expanding-to-free-and-go-users-including-to-users-in-the-europea|File library is expanding to Free and Go users, including to users in the European…]] · Files and Data
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: mobile-desktop
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]
-- Lag Days: 1157
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Mobile and Desktop
+
+- Earlier: 2026-05-14 · ChatGPT · [[Changes/ChatGPT/2026-05-14-codex-is-now-available-in-preview-in-the-chatgpt-mobile-app-so-you-can-stay-conn|Codex is now available in preview in the ChatGPT mobile app, so you can stay…]]
+- Later: 2026-06-10 · ChatGPT · [[Changes/ChatGPT/2026-06-10-on-ios-and-android-you-can-find-the-picker-at-the-top-of-the-conversation-on-web|On iOS and Android, you can find the picker at the top of the conversation]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-05-14-8895ca&body=Card%3A%20Changes%2FChatGPT%2F2026-05-14-generated-images-will-continue-to-appear-in-the-images-tab-storage-management-is.md%0ACard%20ID%3A%20chatgpt-2026-05-14-8895ca%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

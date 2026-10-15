@@ -1,8 +1,12 @@
 ---
 card_id: chatgpt-2026-07-06-e2a8ae
 date: '2026-07-06'
+description: 'ChatGPT · 2026-07-06 · Account and Access: ChatGPT for PowerPoint is
+  now generally available globally. From a sidebar in Microsoft PowerPoint, you can
+  create…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|cursor-2023-03-30-3bf00d]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
+    login]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1194
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: a67a44adde9b854dc64b6045954598e487e02ff833a4eb03ddf5580d54067933
+machine_hash: 8be0f31d6bd2ff3004075c634bbe6d93e13db0b8b5193037efd8859810e6083b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -78,9 +82,12 @@ record:
   title: ChatGPT for PowerPoint is now generally available globally
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-22-added-claude-platform-on-aws-refresh-credentials-option-to-login-when-awsauthref|claude-code-2026-06-22-886889]]'
-- '[[Changes/Claude Code/2026-06-24-improved-mcp-oauth-discovery-and-token-requests-now-retry-once-after-transient-n|claude-code-2026-06-24-e72d98]]'
-- '[[Changes/Claude Code/2026-06-25-added-a-startup-notice-when-mcp-servers-need-authentication-pointing-at-mcp|claude-code-2026-06-25-b7eec5]]'
+- '[[Changes/Claude Code/2026-06-22-added-claude-platform-on-aws-refresh-credentials-option-to-login-when-awsauthref|Added
+  "Claude Platform on AWS - refresh credentials" option to /login…]]'
+- '[[Changes/Claude Code/2026-06-24-improved-mcp-oauth-discovery-and-token-requests-now-retry-once-after-transient-n|Improved
+  MCP OAuth]]'
+- '[[Changes/Claude Code/2026-06-25-added-a-startup-notice-when-mcp-servers-need-authentication-pointing-at-mcp|Added
+  a startup notice when MCP servers need authentication, pointing at /mcp]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-06-chatgpt-for-powerpoint-is-now-generally-available-fc1a6be9|chatgpt-2026-07-06-chatgpt-for-powerpoint-is-now-generally-available-fc1a6be9]]'
 source_type: chatgpt_changelog
 theme: account-access
@@ -88,10 +95,10 @@ title: ChatGPT for PowerPoint is now generally available globally
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # ChatGPT for PowerPoint is now generally available globally
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — ChatGPT for PowerPoint is now generally available: ChatGPT for PowerPoint is now generally available globally. From a sidebar in Microsoft PowerPoint, you can create new slides and decks, revise existing presentations, ask questions about a deck’s story and structure, and use Skills and apps to work with repeatable workflows and connected sources. Slides remain editable in PowerPoint, although advanced edits and template matching may still require review.The add-in is available to Free, Go, Plus, Pro, Business, Enterprise, ChatGPT Edu, and K-12 users, subject to plan limits and workspace settings. Install it from Microsoft Marketplace, sign in with your eligible ChatGPT account, and review important claims, numbers, and slide changes before sharing. Learn more about ChatGPT for PowerPoint.
+**ChatGPT** · 2026-07-06 · [[Themes/account-access|Account and Access]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-07-06-chatgpt-for-powerpoint-is-now-generally-available-fc1a6be9|ChatGPT for PowerPoint is now generally available]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -100,19 +107,23 @@ ChatGPT — ChatGPT for PowerPoint is now generally available: ChatGPT for Power
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: account-access
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-30-ai-now-requires-login|cursor-2023-03-30-3bf00d]]
-- Lag Days: 1194
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Account and Access
+
+- Earlier: 2026-06-25 · Claude Code · [[Changes/Claude Code/2026-06-25-added-a-startup-notice-when-mcp-servers-need-authentication-pointing-at-mcp|Added a startup notice when MCP servers need authentication, pointing at /mcp]]
+- Later: 2026-07-07 · Claude Code · [[Changes/Claude Code/2026-07-07-added-a-warning-when-your-login-is-about-to-expire-so-you-can-re-authenticate-be|Added a warning when your login is about to expire, so you can re-authenticate…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-07-06-e2a8ae&body=Card%3A%20Changes%2FChatGPT%2F2026-07-06-chatgpt-for-powerpoint-is-now-generally-available-globally-from-a-sidebar-in-mic.md%0ACard%20ID%3A%20chatgpt-2026-07-06-e2a8ae%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

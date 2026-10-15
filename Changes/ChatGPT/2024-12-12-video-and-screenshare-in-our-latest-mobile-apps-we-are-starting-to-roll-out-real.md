@@ -1,8 +1,12 @@
 ---
 card_id: chatgpt-2024-12-12-176239
 date: '2024-12-12'
+description: 'ChatGPT · 2024-12-12 · Voice and Audio: Video and screenshare: In our
+  latest mobile apps, we are starting to roll out real-time video, screen share, and
+  image…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|chatgpt-2023-09-25-13666e]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Use
+    voice to engage in a back-and-forth conversation with your assistant]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 444
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: b69e0155e344ca49de5251ebcbcf75811c2166794027458a51d0a0b1d6ed75bd
+machine_hash: 0c2a1844af62e8fc4e40fb256c31f710d1fa14085828a9c33bfb94ae3a20d929
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -70,9 +74,12 @@ record:
   title: Video and screenshare
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|chatgpt-2023-09-25-13666e]]'
-- '[[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|chatgpt-2023-09-25-cc74ad]]'
-- '[[Changes/ChatGPT/2023-11-21-chatgpt-with-voice-is-now-available-to-all-free-users-download-the-app-on-your-p|chatgpt-2023-11-21-13b864]]'
+- '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Use
+  voice to engage in a back-and-forth conversation with your assistant]]'
+- '[[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We
+  are beginning to roll out new voice and image capabilities in ChatGPT]]'
+- '[[Changes/ChatGPT/2023-11-21-chatgpt-with-voice-is-now-available-to-all-free-users-download-the-app-on-your-p|ChatGPT
+  with voice is now available to all free users]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-12-12-santa-voice-and-video-and-screen-share-in-voice-chats-89eb483d|chatgpt-2024-12-12-santa-voice-and-video-and-screen-share-in-voice-chats-89eb483d]]'
 source_type: chatgpt_changelog
 theme: voice
@@ -80,10 +87,10 @@ title: Video and screenshare
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Video and screenshare
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Santa Voice and Video and Screen Share in Voice Chats: Video and screenshare: In our latest mobile apps, we are starting to roll out real-time video, screen share, and image upload capabilities in advanced voice. We expect to complete this rollout to all Team and most Plus and Pro users, except for those in the European Union, Switzerland, Iceland, Norway, and Liechtenstein, over the next week. Video and screen share are subject to daily usage limits for all plans, and image uploads are subject to ChatGPT vision message limits.
+**ChatGPT** · 2024-12-12 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2024-12-12-santa-voice-and-video-and-screen-share-in-voice-chats-89eb483d|Santa Voice and Video and Screen Share in Voice Chats]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -92,19 +99,28 @@ ChatGPT — Santa Voice and Video and Screen Share in Voice Chats: Video and scr
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2024-12-12-use-the-controls-at-the-bottom-of-the-screen-like-the-camera-button-below-to-get|Use the controls at the bottom of the screen, like the camera button below, to get started]] · Multimodal Input
+- [[Changes/ChatGPT/2024-12-12-today-we-started-rolling-out-two-updates-to-voice-mode-in-chatgpt|Today we started rolling out two updates to voice mode in ChatGPT]] · Voice and Audio
+- [[Changes/ChatGPT/2024-12-12-santa-voice-you-can-now-chat-with-santa-in-chatgpt-until-early-january-you-can-f|Santa voice: You can now chat with Santa in ChatGPT!]] · Voice and Audio
+- [[Changes/ChatGPT/2024-12-12-the-first-time-you-chat-with-santa-your-advanced-voice-limit-will-reset-one-time|The first time you chat with Santa, your advanced voice limit will reset one time]] · Voice and Audio
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: voice
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|chatgpt-2023-09-25-13666e]]
-- Lag Days: 444
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Voice and Audio
+
+- Earlier: 2023-11-21 · ChatGPT · [[Changes/ChatGPT/2023-11-21-chatgpt-with-voice-is-now-available-to-all-free-users-download-the-app-on-your-p|ChatGPT with voice is now available to all free users]]
+- Later: 2025-05-01 · ChatGPT · [[Changes/ChatGPT/2025-05-01-launched-on-april-1-as-a-one-month-surprise-our-monday-personality-available-in|Launched on April 1 as a one-month surprise, our “Monday” personality…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Use voice to engage in a back-and-forth conversation with your assistant]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2024-12-12-176239&body=Card%3A%20Changes%2FChatGPT%2F2024-12-12-video-and-screenshare-in-our-latest-mobile-apps-we-are-starting-to-roll-out-real.md%0ACard%20ID%3A%20chatgpt-2024-12-12-176239%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

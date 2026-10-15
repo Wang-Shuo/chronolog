@@ -1,10 +1,12 @@
 ---
 changes_count: 0
 date: '2023-10-05'
-machine_hash: 32dbef6fd876625b3120fd9e073e31bfaf872e7db437c977ff8f60404adbf398
+description: 'Cursor release Small fixes on 2023-10-05: no tracked changes'
+machine_hash: 9b83e04274325d7cfa1096ded352437ad6579e8d1bd87131c0104be27e4fad4a
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2023-10-05'
   product: cursor
   product_name: Cursor
@@ -25,19 +27,21 @@ source_url: https://cursor.com/changelog/0-12-1-0-12-3
 tags:
 - release
 - cursor
-title: Cursor — Small fixes
+title: Cursor · Small fixes
 version: 0.12.1-0.12.3
 ---
 
-# Cursor Small fixes
+<!-- chronolog:begin region="header" -->
+# Cursor · Small fixes
+
+**Cursor** · 2023-10-05 · [Official release notes](https://cursor.com/changelog/0-12-1-0-12-3)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Bug fixes: (1) .cursorignore now completely respects .gitignore syntax, (2) codebase queries use the embeddings index if >= 80% of it is indexed, instead of requiring the entire thing to be indexed, (3) removed fade-in animation on startup, (4) no longer overrides cmd-delete in the terminal, (5) fixes problem where…
 
-[Official release notes](https://cursor.com/changelog/0-12-1-0-12-3)
-
-Tracked cards: 0
+Tracked 0 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

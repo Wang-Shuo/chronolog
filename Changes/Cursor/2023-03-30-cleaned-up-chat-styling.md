@@ -1,8 +1,10 @@
 ---
 card_id: cursor-2023-03-30-54bb0c
 date: '2023-03-30'
+description: 'Cursor · 2023-03-30 · Interface Experience: Cleaned up chat styling'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
+    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 80
   relation: same-theme-chronology
@@ -13,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: f6c3b2ed25fbbf3748cca9f94c3b15e676316395b98f412a8ebeb40ddd5a0014
+machine_hash: ab0388f650781ed76b00c42c9c90bd1b78bc0b05e9de931ecd88998b4b7609c7
 product: cursor
 product_name: Cursor
 record:
@@ -37,9 +39,11 @@ record:
   title: Cleaned up chat styling
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-03-23-chat-history-saved-between-sessions|cursor-2023-03-23-3eda0b]]'
-- '[[Changes/Cursor/2023-03-23-resizable-sidebar|cursor-2023-03-23-6803ad]]'
-- '[[Changes/Cursor/2023-03-27-changes-autoupdate-to-notify-you-when-there-s-a-new-version|cursor-2023-03-27-b56ff8]]'
+- '[[Changes/Cursor/2023-03-23-chat-history-saved-between-sessions|Chat history saved
+  between sessions]]'
+- '[[Changes/Cursor/2023-03-23-resizable-sidebar|Resizable sidebar]]'
+- '[[Changes/Cursor/2023-03-27-changes-autoupdate-to-notify-you-when-there-s-a-new-version|Changes
+  autoupdate to notify you when there''s a new version]]'
 source_release: '[[Releases/Cursor/cursor-2023-03-30-0-1-12-https-cursor-com-changelog-0-1-12-f3e1800c|cursor-2023-03-30-0-1-12-https-cursor-com-changelog-0-1-12-f3e1800c]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -47,10 +51,10 @@ title: Cleaned up chat styling
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Cleaned up chat styling
 
-<!-- chronolog:begin region="description" -->
-Cursor — v0.1.12 (2023-03-30): Cleaned up chat styling
+**Cursor** · 2023-03-30 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://cursor.com/changelog/0-1-12) · from [[Releases/Cursor/cursor-2023-03-30-0-1-12-https-cursor-com-changelog-0-1-12-f3e1800c|v0.1.12 (2023-03-30)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -59,19 +63,26 @@ Cursor — v0.1.12 (2023-03-30): Cleaned up chat styling
 > Source: https://cursor.com/changelog/0-1-12
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]] · Account and Access
+- [[Changes/Cursor/2023-03-30-use-an-openai-api-key-for-unlimited-requests-at-cost-gpt-4-access-if-available|Use an OpenAI API key for unlimited requests at cost (GPT-4 access if available)]] · Model Support
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: interface-experience
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]
-- Lag Days: 80
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Interface Experience
+
+- Earlier: 2023-03-27 · Cursor · [[Changes/Cursor/2023-03-27-changes-autoupdate-to-notify-you-when-there-s-a-new-version|Changes autoupdate to notify you when there's a new version]]
+- Later: 2023-05-03 · ChatGPT · [[Changes/ChatGPT/2023-05-03-you-can-now-turn-off-chat-history-and-export-your-data-from-the-chatgpt-settings|Turn off chat history and export your data from the ChatGPT settings]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2023-03-30-54bb0c&body=Card%3A%20Changes%2FCursor%2F2023-03-30-cleaned-up-chat-styling.md%0ACard%20ID%3A%20cursor-2023-03-30-54bb0c%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F0-1-12%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

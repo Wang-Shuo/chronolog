@@ -1,10 +1,12 @@
 ---
 changes_count: 0
 date: '2023-06-11'
-machine_hash: e14bd3dda586e491eca8bf7065131fa6717c2ff9aca893b2c749caf0c7dd6ea2
+description: 'Cursor release Hotfix for chat focus on 2023-06-11: no tracked changes'
+machine_hash: 3224274202a33444e7e02e7ecb3d3b0500e922dad6d8bd9d825862a38c56c8f2
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2023-06-11'
   product: cursor
   product_name: Cursor
@@ -21,19 +23,21 @@ source_url: https://cursor.com/changelog/0-2-31
 tags:
 - release
 - cursor
-title: Cursor — Hotfix for chat focus
+title: Cursor · Hotfix for chat focus
 version: 0.2.31
 ---
 
-# Cursor Hotfix for chat focus
+<!-- chronolog:begin region="header" -->
+# Cursor · Hotfix for chat focus
+
+**Cursor** · 2023-06-11 · [Official release notes](https://cursor.com/changelog/0-2-31)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Chat should not steal your focus away! This is now fixed.
 
-[Official release notes](https://cursor.com/changelog/0-2-31)
-
-Tracked cards: 0
+Tracked 0 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

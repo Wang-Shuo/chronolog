@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2022-12-15-9c6f9c
 date: '2022-12-15'
+description: 'ChatGPT · 2022-12-15 · Reliability and Performance: General performance:
+  Among other improvements, users will notice that ChatGPT is now less likely to refuse…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|chatgpt-2022-12-15-9c6f9c]]'
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
+    performance: Among other improvements, users will notice that ChatGPT is now…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 0
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: a572442b630f07916efa43f75853d3749f0dd8aea81db7f0bb0f0112e2d48422
+machine_hash: eb9654dd035aab7e1a3df9da362c03b6da8cde5acc875cde0984a19474b49397
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,10 +49,10 @@ title: 'General performance: Among other improvements, users will notice that Ch
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # General performance: Among other improvements, users will notice that ChatGPT is now…
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Performance updates to ChatGPT: General performance: Among other improvements, users will notice that ChatGPT is now less likely to refuse to answer questions.
+**ChatGPT** · 2022-12-15 · [[Themes/reliability-performance|Reliability and Performance]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2022-12-15-performance-updates-to-chatgpt-d9abf59d|Performance updates to ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -58,19 +61,25 @@ ChatGPT — Performance updates to ChatGPT: General performance: Among other imp
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2022-12-15-conversation-history-you-ll-soon-be-able-to-view-past-conversations-with-chatgpt|Conversation history: You’ll soon be able to view past conversations with ChatGPT…]] · Projects and Workspaces
+- [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]] · Pricing Model
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: reliability-performance
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: first-observed
-- First In Tracked: [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|chatgpt-2022-12-15-9c6f9c]]
-- Lag Days: 0
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Reliability and Performance
+
+- Later: 2023-02-09 · ChatGPT · [[Changes/ChatGPT/2023-02-09-turbo-optimized-for-speed-alpha|Turbo: optimized for speed (alpha)]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry among the 3 tracked products.
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2022-12-15-9c6f9c&body=Card%3A%20Changes%2FChatGPT%2F2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n.md%0ACard%20ID%3A%20chatgpt-2022-12-15-9c6f9c%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

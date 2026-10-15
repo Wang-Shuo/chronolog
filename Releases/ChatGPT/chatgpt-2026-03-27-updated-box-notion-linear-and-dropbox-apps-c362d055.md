@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2026-03-27'
-machine_hash: 2c008e07707e51ae31024e492109cd82cf6058c657177362015a7fff9bac2045
+description: 'ChatGPT release Updated Box, Notion, Linear, and Dropbox apps on 2026-03-27:
+  1 tracked change across Apps and Integrations'
+machine_hash: 634db765c68ba558d580f53c6ccab2c95543627b49d1c45add2f6e4605ae43ec
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 1
   date: '2026-03-27'
   product: chatgpt
   product_name: ChatGPT
@@ -25,22 +28,24 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Updated Box, Notion, Linear, and Dropbox apps
+title: ChatGPT · Updated Box, Notion, Linear, and Dropbox apps
 version: Updated Box, Notion, Linear, and Dropbox apps
 ---
 
-# ChatGPT Updated Box, Notion, Linear, and Dropbox apps
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Updated Box, Notion, Linear, and Dropbox apps
+
+**ChatGPT** · 2026-03-27 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 We’re rolling out updated Box, Notion, Linear, and Dropbox apps in ChatGPT. These updates add new app actions, including new write capabilities where supported, and bring the latest app experience into ChatGPT. If you already use these apps in ChatGPT, reconnect the app to start using the updated experience. Existing…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- apps-integrations: [[Changes/ChatGPT/2026-03-27-we-re-rolling-out-updated-box-notion-linear-and-dropbox-apps-in-chatgpt-these-up-9f6ee9|ChatGPT rolls out updated Box, Notion, Linear, and Dropbox apps]]
+- [[Changes/ChatGPT/2026-03-27-we-re-rolling-out-updated-box-notion-linear-and-dropbox-apps-in-chatgpt-these-up-9f6ee9|ChatGPT rolls out updated Box, Notion, Linear, and Dropbox apps]] · Apps and Integrations
 <!-- chronolog:end -->

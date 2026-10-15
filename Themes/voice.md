@@ -1,7 +1,9 @@
 ---
 created: '2023-09-25'
 date: '2026-10-06'
-machine_hash: 7e924f9bfb98e3ebfc6402f162ae3b2a6d411c30a9eb8101ccbcef5291e8899c
+description: Cross-product timeline of Voice and Audio changes in ChatGPT, Claude
+  Code and Cursor.
+machine_hash: 5a908fbfd250b3d0b5fd6fdf220669540e6ad0c438612c4a4aebff5ec9f731c5
 modified: '2026-10-06'
 products_involved:
 - ChatGPT
@@ -13,10 +15,12 @@ tags:
 - theme
 - moc
 theme: voice
-title: Voice
+title: Voice and Audio
 ---
 
-# Theme: voice
+<!-- chronolog:begin region="header" -->
+# Voice and Audio
+<!-- chronolog:end -->
 
 ## Research summary
 <!-- chronolog:begin region="narrative" -->

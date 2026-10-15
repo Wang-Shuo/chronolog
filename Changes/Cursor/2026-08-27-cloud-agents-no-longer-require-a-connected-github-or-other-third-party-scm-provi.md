@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2026-08-27-4f17c1
 date: '2026-08-27'
+description: 'Cursor · 2026-08-27 · Agent Mode: Cloud Agents no longer require a connected
+  GitHub or other third-party SCM provider to get started. Prompt from the get-go…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
+    to the first nightly release!]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1148
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: d933730b96a8115340a46c9283d0add3b21d6f7359164b962e75e8ac8d76f417
+machine_hash: a6f8f3e8c2805881645f69040bb1248bf7d8cb00fe7fb28b4b63ccad4332b23a
 product: cursor
 product_name: Cursor
 record:
@@ -40,9 +43,12 @@ record:
     provider…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-08-19-cursor-can-now-monitor-your-prs-watch-a-slack-thread-or-run-scheduled-tasks-curs|cursor-2026-08-19-cb3dac]]'
-- '[[Changes/Cursor/2026-08-19-we-re-continuing-to-improve-cloud-agents-and-the-cursor-harness-so-always-on-age|cursor-2026-08-19-e687fa]]'
-- '[[Changes/Claude Code/2026-08-27-added-experimental-cachettl-5m-or-1h-to-agent-frontmatter-a-per-agent-prompt-cac|claude-code-2026-08-27-4c06f7]]'
+- '[[Changes/Cursor/2026-08-19-cursor-can-now-monitor-your-prs-watch-a-slack-thread-or-run-scheduled-tasks-curs|Cursor
+  can now monitor your PRs, watch a Slack thread, or run scheduled tasks]]'
+- '[[Changes/Cursor/2026-08-19-we-re-continuing-to-improve-cloud-agents-and-the-cursor-harness-so-always-on-age|We''re
+  continuing to improve cloud agents and the Cursor harness so always-on agents…]]'
+- '[[Changes/Claude Code/2026-08-27-added-experimental-cachettl-5m-or-1h-to-agent-frontmatter-a-per-agent-prompt-cac|Added
+  experimental.cacheTtl ("5m" or "1h") to agent frontmatter]]'
 source_release: '[[Releases/Cursor/cursor-2026-08-27-start-from-scratch-without-a-repo-https-cursor-com-changelog-sta-d75d62ae|cursor-2026-08-27-start-from-scratch-without-a-repo-https-cursor-com-changelog-sta-d75d62ae]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -51,10 +57,10 @@ title: Cloud Agents no longer require a connected GitHub or other third-party SC
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Cloud Agents no longer require a connected GitHub or other third-party SCM provider…
 
-<!-- chronolog:begin region="description" -->
-Cursor — Start from scratch, without a repo: Cloud Agents no longer require a connected GitHub or other third-party SCM provider to get started. Prompt from the get-go, then save your work to a Cursor Origin repo.
+**Cursor** · 2026-08-27 · [[Themes/agent-mode|Agent Mode]] · [Official source](https://cursor.com/changelog/start-from-scratch) · from [[Releases/Cursor/cursor-2026-08-27-start-from-scratch-without-a-repo-https-cursor-com-changelog-sta-d75d62ae|Start from scratch, without a repo]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -63,19 +69,26 @@ Cursor — Start from scratch, without a repo: Cloud Agents no longer require a 
 > Source: https://cursor.com/changelog/start-from-scratch
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2026-08-27-once-the-agent-s-build-is-to-your-liking-click-the-create-repo-button-to-save-yo|Once the agent's build is to your liking, click the Create repo button to save…]] · Editor Experience
+- [[Changes/Cursor/2026-08-27-cursor-now-port-forwards-your-cloud-agent-s-live-environment-straight-to-your-br|Cursor now port-forwards your cloud agent's live environment straight…]] · Agent Mode
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: agent-mode
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]
-- Lag Days: 1148
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Agent Mode
+
+- Earlier: 2026-08-27 · Claude Code · [[Changes/Claude Code/2026-08-27-added-experimental-cachettl-5m-or-1h-to-agent-frontmatter-a-per-agent-prompt-cac|Added experimental.cacheTtl ("5m" or "1h") to agent frontmatter]]
+- Later: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-added-live-streaming-of-a-foreground-subagent-s-tool-calls-and-results-to-remote|Added live streaming of a foreground subagent's tool calls and results to Remote…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2026-08-27-4f17c1&body=Card%3A%20Changes%2FCursor%2F2026-08-27-cloud-agents-no-longer-require-a-connected-github-or-other-third-party-scm-provi.md%0ACard%20ID%3A%20cursor-2026-08-27-4f17c1%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2Fstart-from-scratch%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

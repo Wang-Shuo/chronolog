@@ -1,10 +1,13 @@
 ---
 changes_count: 0
 date: '2023-09-01'
-machine_hash: 35cacf6389efc3f8d79acdb6f8b453dfa37ee7d37115052ffe18d96228dc5b2a
+description: 'Cursor release Hotfix for large persisted state on 2023-09-01: no tracked
+  changes'
+machine_hash: eb9b880416d0e9974ea980badc39b3bd0d86e1bbab666e461e35dd9d57c30062
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2023-09-01'
   product: cursor
   product_name: Cursor
@@ -21,19 +24,21 @@ source_url: https://cursor.com/changelog/0-9-2-nightly
 tags:
 - release
 - cursor
-title: Cursor — Hotfix for large persisted state
+title: Cursor · Hotfix for large persisted state
 version: 0.9.2-nightly
 ---
 
-# Cursor Hotfix for large persisted state
+<!-- chronolog:begin region="header" -->
+# Cursor · Hotfix for large persisted state
+
+**Cursor** · 2023-09-01 · [Official release notes](https://cursor.com/changelog/0-9-2-nightly)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Could cause getcursor/cursor#843.
 
-[Official release notes](https://cursor.com/changelog/0-9-2-nightly)
-
-Tracked cards: 0
+Tracked 0 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

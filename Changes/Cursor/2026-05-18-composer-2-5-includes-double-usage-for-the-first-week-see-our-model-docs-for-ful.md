@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2026-05-18-a27a8c
 date: '2026-05-18'
+description: 'Cursor · 2026-05-18 · Model Support: Composer 2.5 includes double usage
+  for the first week. See our model docs for full details.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We
+    made more improvements to the ChatGPT model!]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1225
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 6bb3dc413b9873d8f21c546ce8d51dec638ea41716e74362ec840a96430a48b9
+machine_hash: afdfb188e6ea53845b3bd539f8ecf87d745a8335308074eca25c4beb7abff15d
 product: cursor
 product_name: Cursor
 record:
@@ -39,9 +42,12 @@ record:
   title: Composer 2.5 includes double usage for the first week
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-11-custom-describe-in-natural-language-when-bugbot-should-use-default-or-high-effor|cursor-2026-05-11-7647fd]]'
-- '[[Changes/Claude Code/2026-05-14-fast-mode-now-uses-opus-4-7-by-default-previously-opus-4-6-set-claude-code-opus|claude-code-2026-05-14-47ff02]]'
-- '[[Changes/Claude Code/2026-05-15-background-sessions-now-preserve-the-model-and-effort-level-you-set-after-waking|claude-code-2026-05-15-ac2b70]]'
+- '[[Changes/Cursor/2026-05-11-custom-describe-in-natural-language-when-bugbot-should-use-default-or-high-effor|Custom:
+  Describe in natural language when Bugbot should use default or high effort]]'
+- '[[Changes/Claude Code/2026-05-14-fast-mode-now-uses-opus-4-7-by-default-previously-opus-4-6-set-claude-code-opus|Fast
+  mode now uses Opus 4.7 by default (previously Opus 4.6)]]'
+- '[[Changes/Claude Code/2026-05-15-background-sessions-now-preserve-the-model-and-effort-level-you-set-after-waking|Background
+  sessions now preserve the model and effort level you set after waking from idle]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-18-composer-2-5-https-cursor-com-changelog-composer-2-5-1dffe5a1|cursor-2026-05-18-composer-2-5-https-cursor-com-changelog-composer-2-5-1dffe5a1]]'
 source_type: cursor_changelog
 theme: model-support
@@ -49,10 +55,10 @@ title: Composer 2.5 includes double usage for the first week
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Composer 2.5 includes double usage for the first week
 
-<!-- chronolog:begin region="description" -->
-Cursor — Composer 2.5: Composer 2.5 includes double usage for the first week. See our model docs for full details.
+**Cursor** · 2026-05-18 · [[Themes/model-support|Model Support]] · [Official source](https://cursor.com/changelog/composer-2-5) · from [[Releases/Cursor/cursor-2026-05-18-composer-2-5-https-cursor-com-changelog-composer-2-5-1dffe5a1|Composer 2.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -61,19 +67,28 @@ Cursor — Composer 2.5: Composer 2.5 includes double usage for the first week. 
 > Source: https://cursor.com/changelog/composer-2-5
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2026-05-18-fast-default-3-00-m-input-15-00-m-output-tokens|Fast (default): $3.00/M input, $15.00/M output tokens]] · Pricing Model
+- [[Changes/Cursor/2026-05-18-composer-2-5-is-now-available-in-cursor|Composer 2.5 is now available in Cursor]] · Agent Mode
+- [[Changes/Cursor/2026-05-18-standard-0-50-m-input-2-50-m-output-tokens|Standard: $0.50/M input, $2.50/M output tokens]] · Pricing Model
+- [[Changes/Cursor/2026-05-18-it-s-a-substantial-improvement-in-intelligence-and-behavior-over-composer-2-it-i|It's a substantial improvement in intelligence and behavior over Composer 2]] · Model Support
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: model-support
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]
-- Lag Days: 1225
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Model Support
+
+- Earlier: 2026-05-15 · Claude Code · [[Changes/Claude Code/2026-05-15-background-sessions-now-preserve-the-model-and-effort-level-you-set-after-waking|Background sessions now preserve the model and effort level you set after waking from idle]]
+- Later: 2026-05-27 · Claude Code · [[Changes/Claude Code/2026-05-27-skills-and-slash-commands-can-now-set-disallowed-tools-in-frontmatter-to-remove|Skills and slash commands can now set disallowed-tools in frontmatter to remove…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We made more improvements to the ChatGPT model!]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2026-05-18-a27a8c&body=Card%3A%20Changes%2FCursor%2F2026-05-18-composer-2-5-includes-double-usage-for-the-first-week-see-our-model-docs-for-ful.md%0ACard%20ID%3A%20cursor-2026-05-18-a27a8c%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2Fcomposer-2-5%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

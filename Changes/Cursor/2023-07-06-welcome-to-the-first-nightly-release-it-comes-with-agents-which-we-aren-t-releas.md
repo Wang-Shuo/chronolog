@@ -1,8 +1,12 @@
 ---
 card_id: cursor-2023-07-06-d7057e
 date: '2023-07-06'
+description: 'Cursor · 2023-07-06 · Agent Mode: Welcome to the first nightly release!
+  It comes with agents, which we aren''t releasing to the general public yet because
+  we…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
+    to the first nightly release!]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 0
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 644f858a7c60403dce618e18e699dfba73c2b1ff8cbcb075c52821cfafbeb69a
+machine_hash: 314ca55660d68bbf1d5f1bfe03814a19efca0fbe57bac0d353d9cf3e8f47588a
 product: cursor
 product_name: Cursor
 record:
@@ -46,10 +50,10 @@ title: Welcome to the first nightly release!
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Welcome to the first nightly release!
 
-<!-- chronolog:begin region="description" -->
-Cursor — Agents, new docs: Welcome to the first nightly release! It comes with agents, which we aren't releasing to the general public yet because we aren't convinced that they are useful. If you like them, please let us know what you use them for!
+**Cursor** · 2023-07-06 · [[Themes/agent-mode|Agent Mode]] · [Official source](https://cursor.com/changelog/0-2-44-nightly) · from [[Releases/Cursor/cursor-2023-07-06-0-2-44-nightly-https-cursor-com-changelog-0-2-44-nightly-3bedc80b|Agents, new docs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -58,19 +62,22 @@ Cursor — Agents, new docs: Welcome to the first nightly release! It comes with
 > Source: https://cursor.com/changelog/0-2-44-nightly
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: agent-mode
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: first-observed
-- First In Tracked: [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]
-- Lag Days: 0
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Agent Mode
+
+- Later: 2023-07-10 · Cursor · [[Changes/Cursor/2023-07-10-this-nightly-build-comes-with-experimental-interface-agent-support|This nightly build comes with experimental interface agent support!]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry among the 3 tracked products.
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2023-07-06-d7057e&body=Card%3A%20Changes%2FCursor%2F2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas.md%0ACard%20ID%3A%20cursor-2023-07-06-d7057e%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F0-2-44-nightly%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

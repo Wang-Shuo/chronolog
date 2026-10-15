@@ -1,10 +1,13 @@
 ---
 changes_count: 3
 date: '2023-02-09'
-machine_hash: b0c6b239240915e09f0c374e85a2c3ff8c276b93902f826dfae3ffe40ee96c9b
+description: 'ChatGPT release Introducing ChatGPT Plus on 2023-02-09: 3 tracked changes
+  across Interface Experience, Model Support, Reliability and Performance'
+machine_hash: 41f50e5ed17e9459043eba0c9ca38c85a6e0d9402aa5d7a978a1ae0f13e60e65
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 4
   date: '2023-02-09'
   product: chatgpt
   product_name: ChatGPT
@@ -23,24 +26,26 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Introducing ChatGPT Plus
+title: ChatGPT · Introducing ChatGPT Plus
 version: Introducing ChatGPT Plus
 ---
 
-# ChatGPT Introducing ChatGPT Plus
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Introducing ChatGPT Plus
+
+**ChatGPT** · 2023-02-09 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 As we recently announced, our Plus plan comes with early access to new, experimental features. We are beginning to roll out the ability for Plus users to choose between different versions of ChatGPT:
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 3
+Tracked 3 of 4 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- interface-experience: [[Changes/ChatGPT/2023-02-09-version-selection-is-made-easy-with-a-dedicated-dropdown-menu-at-the-top-of-the|Version selection is made easy with a dedicated dropdown menu at the top of the page]]
-- model-support: [[Changes/ChatGPT/2023-02-09-default-the-standard-chatgpt-model|Default: the standard ChatGPT model]]
-- reliability-performance: [[Changes/ChatGPT/2023-02-09-turbo-optimized-for-speed-alpha|Turbo: optimized for speed (alpha)]]
+- [[Changes/ChatGPT/2023-02-09-version-selection-is-made-easy-with-a-dedicated-dropdown-menu-at-the-top-of-the|Version selection is made easy with a dedicated dropdown menu at the top of the page]] · Interface Experience
+- [[Changes/ChatGPT/2023-02-09-default-the-standard-chatgpt-model|Default: the standard ChatGPT model]] · Model Support
+- [[Changes/ChatGPT/2023-02-09-turbo-optimized-for-speed-alpha|Turbo: optimized for speed (alpha)]] · Reliability and Performance
 <!-- chronolog:end -->

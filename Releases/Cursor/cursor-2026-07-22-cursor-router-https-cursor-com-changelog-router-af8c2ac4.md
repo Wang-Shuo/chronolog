@@ -1,10 +1,13 @@
 ---
 changes_count: 5
 date: '2026-07-22'
-machine_hash: 1255f68d22be61cf4d3b6f90ff244a7163332f0fe4b358f77ac114cacff38af9
+description: 'Cursor release Cursor Router on 2026-07-22: 5 tracked changes across
+  Model Support, Agent Mode, Pricing Model'
+machine_hash: f0c9931313c8679874790c07a77a1825946ff15569f0ac67f3cdeafc6155c6c1
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 17
   date: '2026-07-22'
   product: cursor
   product_name: Cursor
@@ -21,26 +24,28 @@ source_url: https://cursor.com/changelog/router
 tags:
 - release
 - cursor
-title: Cursor — Cursor Router
+title: Cursor Router
 version: Cursor Router
 ---
 
-# Cursor Cursor Router
+<!-- chronolog:begin region="header" -->
+# Cursor Router
+
+**Cursor** · 2026-07-22 · [Official release notes](https://cursor.com/changelog/router)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Auto mode is now powered by Cursor Router.
 
-[Official release notes](https://cursor.com/changelog/router)
-
-Tracked cards: 5
+Tracked 5 of 17 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/Cursor/2026-07-22-cursor-router-is-our-intelligent-model-router-it-analyzes-each-request-and-sends|Cursor Router is our intelligent model router]]
-- pricing-model: [[Changes/Cursor/2026-07-22-cost-good-quality-reaching-the-highest-available-intelligence-while-optimizing-t|Cost: Good quality, reaching the highest available intelligence while optimizing…]]
-- agent-mode: [[Changes/Cursor/2026-07-22-auto-mode-is-now-powered-by-cursor-router|Auto mode is now powered by Cursor Router]]
-- model-support: [[Changes/Cursor/2026-07-22-intelligence-frontier-quality-matching-the-most-expensive-and-powerful-models-th|Intelligence: Frontier quality, matching the most expensive and powerful models…]]
-- model-support: [[Changes/Cursor/2026-07-22-balance-strong-quality-matching-the-frontier-models-that-most-people-like-to-dai|Balance: Strong quality, matching the frontier models that most people like to daily drive]]
+- [[Changes/Cursor/2026-07-22-cursor-router-is-our-intelligent-model-router-it-analyzes-each-request-and-sends|Cursor Router is our intelligent model router]] · Model Support
+- [[Changes/Cursor/2026-07-22-cost-good-quality-reaching-the-highest-available-intelligence-while-optimizing-t|Cost: Good quality, reaching the highest available intelligence while optimizing…]] · Pricing Model
+- [[Changes/Cursor/2026-07-22-auto-mode-is-now-powered-by-cursor-router|Auto mode is now powered by Cursor Router]] · Agent Mode
+- [[Changes/Cursor/2026-07-22-intelligence-frontier-quality-matching-the-most-expensive-and-powerful-models-th|Intelligence: Frontier quality, matching the most expensive and powerful models…]] · Model Support
+- [[Changes/Cursor/2026-07-22-balance-strong-quality-matching-the-frontier-models-that-most-people-like-to-dai|Balance: Strong quality, matching the frontier models that most people like to daily drive]] · Model Support
 <!-- chronolog:end -->

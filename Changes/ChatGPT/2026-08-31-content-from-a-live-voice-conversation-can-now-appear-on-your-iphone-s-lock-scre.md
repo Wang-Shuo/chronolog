@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2026-08-31-114d55
 date: '2026-08-31'
+description: 'ChatGPT · 2026-08-31 · Voice and Audio: Content from a Live voice conversation
+  can now appear on your iPhone’s Lock Screen and, on iPhones with Dynamic Island…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|chatgpt-2023-09-25-13666e]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Use
+    voice to engage in a back-and-forth conversation with your assistant]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1071
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4cce96f2ed191e017c8915c39a4603199752c188a5f5de840e54fcc3e41146db
+machine_hash: f92769fbae694adfe8cb412ff5a1f471a6e29eea11fb0897a97db001a12fa105
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,9 +51,12 @@ record:
     Screen…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-23-chatgpt-voice-is-now-available-in-work-and-codex-in-the-chatgpt-desktop-app-star|chatgpt-2026-07-23-de2af4]]'
-- '[[Changes/ChatGPT/2026-08-07-gpt-live-in-chatgpt-voice-now-supports-file-uploads-and-projects-you-can-now-upl|chatgpt-2026-08-07-d320ca]]'
-- '[[Changes/Claude Code/2026-08-21-alpine-musl-builds-native-image-paste-clipboard-and-audio-capture-add-ons-now-lo|claude-code-2026-08-21-dda5ae]]'
+- '[[Changes/ChatGPT/2026-07-23-chatgpt-voice-is-now-available-in-work-and-codex-in-the-chatgpt-desktop-app-star|ChatGPT
+  Voice is now available in Work and Codex in the ChatGPT desktop app]]'
+- '[[Changes/ChatGPT/2026-08-07-gpt-live-in-chatgpt-voice-now-supports-file-uploads-and-projects-you-can-now-upl|GPT-Live
+  in ChatGPT Voice now supports file uploads and Projects]]'
+- '[[Changes/Claude Code/2026-08-21-alpine-musl-builds-native-image-paste-clipboard-and-audio-capture-add-ons-now-lo|Alpine/musl
+  builds: native image paste, clipboard, and audio-capture add-ons now…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-31-see-live-voice-content-on-your-lock-screen-3b9abebd|chatgpt-2026-08-31-see-live-voice-content-on-your-lock-screen-3b9abebd]]'
 source_type: chatgpt_changelog
 theme: voice
@@ -59,10 +65,10 @@ title: Content from a Live voice conversation can now appear on your iPhone’s 
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Content from a Live voice conversation can now appear on your iPhone’s Lock Screen…
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — See Live voice content on your Lock Screen: Content from a Live voice conversation can now appear on your iPhone’s Lock Screen and, on iPhones with Dynamic Island, in the Dynamic Island.
+**ChatGPT** · 2026-08-31 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-08-31-see-live-voice-content-on-your-lock-screen-3b9abebd|See Live voice content on your Lock Screen]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -71,19 +77,26 @@ ChatGPT — See Live voice content on your Lock Screen: Content from a Live voic
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2026-08-31-follow-along-outside-the-app-live-activities-can-show-content-from-your-voice-co|Follow along outside the app]] · Voice and Audio
+- [[Changes/ChatGPT/2026-08-31-to-continue-a-voice-conversation-outside-chatgpt-turn-on-background-conversation|To continue a Voice conversation outside ChatGPT, turn on Background conversations…]] · Voice and Audio
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: voice
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|chatgpt-2023-09-25-13666e]]
-- Lag Days: 1071
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Voice and Audio
+
+- Earlier: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-alpine-musl-builds-native-image-paste-clipboard-and-audio-capture-add-ons-now-lo|Alpine/musl builds: native image paste, clipboard, and audio-capture add-ons now…]]
+- Later: 2026-09-23 · ChatGPT · [[Changes/ChatGPT/2026-09-23-free-and-go-users-can-use-voice-in-chat-with-the-plugins-their-plan-supports-voi|Free and Go users can use Voice in Chat with the plugins their plan supports]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Use voice to engage in a back-and-forth conversation with your assistant]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-31-114d55&body=Card%3A%20Changes%2FChatGPT%2F2026-08-31-content-from-a-live-voice-conversation-can-now-appear-on-your-iphone-s-lock-scre.md%0ACard%20ID%3A%20chatgpt-2026-08-31-114d55%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

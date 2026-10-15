@@ -1,8 +1,12 @@
 ---
 card_id: cursor-2023-11-21-4df6f2
 date: '2023-11-21'
+description: 'Cursor · 2023-11-21 · Context Window: Integrates GPT-V into chat for
+  the editor. This means you can take screenshots/images and drag it into the chat
+  inputbox…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|cursor-2023-05-04-00d3b7]]'
+  first_in_tracked: '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended
+    prompt length for project generation]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 201
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 19b4d7b6eed0d2d23bb9b7207a7951fc59df106fdf0b0deeddae936d011352bd
+machine_hash: 5bb724fc735f4974470d6c529a5aec1ad9661996423b890d0d313fb3348aa963
 product: cursor
 product_name: Cursor
 record:
@@ -48,9 +52,12 @@ record:
   title: Integrates GPT-V into chat for the editor
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-09-08-you-can-also-paste-a-url-into-the-chat-and-the-model-will-automatically-include|cursor-2023-09-08-9110f3]]'
-- '[[Changes/Cursor/2023-09-10-ask-a-question-about-an-edit-that-the-model-with-option-enter-or-bring-in-contex|cursor-2023-09-10-c91c4b]]'
-- '[[Changes/Cursor/2023-11-10-copilot-beta-this-is-an-add-on-to-copilot-that-suggests-diffs-around-your-cursor|cursor-2023-11-10-2c3c8d]]'
+- '[[Changes/Cursor/2023-09-08-you-can-also-paste-a-url-into-the-chat-and-the-model-will-automatically-include|You
+  can also paste a url into the chat and the model will automatically include…]]'
+- '[[Changes/Cursor/2023-09-10-ask-a-question-about-an-edit-that-the-model-with-option-enter-or-bring-in-contex|Ask
+  a question about an edit that the model with option+enter, or bring in context…]]'
+- '[[Changes/Cursor/2023-11-10-copilot-beta-this-is-an-add-on-to-copilot-that-suggests-diffs-around-your-cursor|Copilot++
+  (beta): this is an "add-on" to Copilot that suggests diffs around…]]'
 source_release: '[[Releases/Cursor/cursor-2023-11-21-0-16-2-nightly-https-cursor-com-changelog-0-16-2-nightly-872eb87e|cursor-2023-11-21-0-16-2-nightly-https-cursor-com-changelog-0-16-2-nightly-872eb87e]]'
 source_type: cursor_changelog
 theme: context-window
@@ -58,10 +65,10 @@ title: Integrates GPT-V into chat for the editor
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Integrates GPT-V into chat for the editor
 
-<!-- chronolog:begin region="description" -->
-Cursor — GPT-V Support: Integrates GPT-V into chat for the editor. This means you can take screenshots/images and drag it into the chat inputbox to have Cursor use them as context.
+**Cursor** · 2023-11-21 · [[Themes/context-window|Context Window]] · [Official source](https://cursor.com/changelog/0-16-2-nightly) · from [[Releases/Cursor/cursor-2023-11-21-0-16-2-nightly-https-cursor-com-changelog-0-16-2-nightly-872eb87e|GPT-V Support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -70,19 +77,23 @@ Cursor — GPT-V Support: Integrates GPT-V into chat for the editor. This means 
 > Source: https://cursor.com/changelog/0-16-2-nightly
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: context-window
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|cursor-2023-05-04-00d3b7]]
-- Lag Days: 201
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Context Window
+
+- Earlier: 2023-11-10 · Cursor · [[Changes/Cursor/2023-11-10-copilot-beta-this-is-an-add-on-to-copilot-that-suggests-diffs-around-your-cursor|Copilot++ (beta): this is an "add-on" to Copilot that suggests diffs around…]]
+- Later: 2023-11-24 · Cursor · [[Changes/Cursor/2023-11-24-you-can-now-folder-in-the-chat-to-chat-with-a-folder-let-us-know-what-you-think|@folder in the chat to chat with a folder]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended prompt length for project generation]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2023-11-21-4df6f2&body=Card%3A%20Changes%2FCursor%2F2023-11-21-integrates-gpt-v-into-chat-for-the-editor-this-means-you-can-take-screenshots-im.md%0ACard%20ID%3A%20cursor-2023-11-21-4df6f2%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F0-16-2-nightly%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

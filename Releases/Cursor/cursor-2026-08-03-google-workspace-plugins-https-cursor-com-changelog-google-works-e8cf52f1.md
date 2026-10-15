@@ -1,10 +1,13 @@
 ---
 changes_count: 2
 date: '2026-08-03'
-machine_hash: 9a2c63442c5c52ffa48e9386929cd261bf61d32cf08e822b3f569ec46a7a5898
+description: 'Cursor release Google Workspace Plugins on 2026-08-03: 2 tracked changes
+  across Apps and Integrations'
+machine_hash: e43f81bd8340850541c197a6e3a9c9c9354157e2c2700ce11ddbc3547f066a1a
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 7
   date: '2026-08-03'
   product: cursor
   product_name: Cursor
@@ -21,23 +24,25 @@ source_url: https://cursor.com/changelog/google-workspace-plugins
 tags:
 - release
 - cursor
-title: Cursor — Google Workspace Plugins
+title: Cursor · Google Workspace Plugins
 version: Google Workspace Plugins
 ---
 
-# Cursor Google Workspace Plugins
+<!-- chronolog:begin region="header" -->
+# Cursor · Google Workspace Plugins
+
+**Cursor** · 2026-08-03 · [Official release notes](https://cursor.com/changelog/google-workspace-plugins)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Cursor can now read, write, and act across your Google Workspace.
 
-[Official release notes](https://cursor.com/changelog/google-workspace-plugins)
-
-Tracked cards: 2
+Tracked 2 of 7 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- apps-integrations: [[Changes/Cursor/2026-08-03-new-plugins-give-coding-agents-direct-access-to-gmail-google-drive-and-calendar|New plugins give coding agents direct access to Gmail, Google Drive, and Calendar…]]
-- apps-integrations: [[Changes/Cursor/2026-08-03-install-plugins-to-connect|Install plugins to connect]]
+- [[Changes/Cursor/2026-08-03-new-plugins-give-coding-agents-direct-access-to-gmail-google-drive-and-calendar|New plugins give coding agents direct access to Gmail, Google Drive, and Calendar…]] · Apps and Integrations
+- [[Changes/Cursor/2026-08-03-install-plugins-to-connect|Install plugins to connect]] · Apps and Integrations
 <!-- chronolog:end -->

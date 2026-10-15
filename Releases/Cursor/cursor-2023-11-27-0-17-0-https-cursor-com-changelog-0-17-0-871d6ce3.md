@@ -1,10 +1,13 @@
 ---
 changes_count: 4
 date: '2023-11-27'
-machine_hash: 044933588984d8405bd74f946a80eb276a389a120c9ae656a35cc86f43c1dba0
+description: 'Cursor release Image Support, Interpreter Mode Beta, @ Folders on 2023-11-27:
+  4 tracked changes across Context Window, Editor Experience, Interface Experience…'
+machine_hash: 7b1cc7e2bbe1e9742789aba3049f7676e2e89b2ab3d277b87cb8d354ad0a24b0
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 4
   date: '2023-11-27'
   product: cursor
   product_name: Cursor
@@ -22,25 +25,27 @@ source_url: https://cursor.com/changelog/0-17-0
 tags:
 - release
 - cursor
-title: Cursor — Image Support, Interpreter Mode Beta, @ Folders
+title: Cursor · Image Support, Interpreter Mode Beta, @ Folders
 version: 0.17.0
 ---
 
-# Cursor Image Support, Interpreter Mode Beta, @ Folders
+<!-- chronolog:begin region="header" -->
+# Cursor · Image Support, Interpreter Mode Beta, @ Folders
+
+**Cursor** · 2023-11-27 · [Official release notes](https://cursor.com/changelog/0-17-0)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Image Support in Chat: You can now drag and drop images into the chat to send them to the AI.
 
-[Official release notes](https://cursor.com/changelog/0-17-0)
-
-Tracked cards: 4
+Tracked 4 of 4 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- multimodal: [[Changes/Cursor/2023-11-27-image-support-in-chat-you-can-now-drag-and-drop-images-into-the-chat-to-send-the|Image Support in Chat]]
-- editor-experience: [[Changes/Cursor/2023-11-27-interpreter-mode-beta-you-can-now-enable-interpreter-mode-in-the-more-tab-this-g|Interpreter Mode Beta: You can now enable Interpreter Mode in the "More" tab]]
-- interface-experience: [[Changes/Cursor/2023-11-27-copilot-improvements-we-ve-spent-some-time-improving-the-latency-of-copilot-and|Copilot++ Improvements: We've spent some time improving the latency…]]
-- context-window: [[Changes/Cursor/2023-11-27-folders-you-can-now-use-the-symbol-to-reference-specific-folders-we-ll-try-to-pi|@ folders: You can now use the @ symbol to reference specific folders!]]
+- [[Changes/Cursor/2023-11-27-image-support-in-chat-you-can-now-drag-and-drop-images-into-the-chat-to-send-the|Image Support in Chat]] · Multimodal Input
+- [[Changes/Cursor/2023-11-27-interpreter-mode-beta-you-can-now-enable-interpreter-mode-in-the-more-tab-this-g|Interpreter Mode Beta: You can now enable Interpreter Mode in the "More" tab]] · Editor Experience
+- [[Changes/Cursor/2023-11-27-copilot-improvements-we-ve-spent-some-time-improving-the-latency-of-copilot-and|Copilot++ Improvements: We've spent some time improving the latency…]] · Interface Experience
+- [[Changes/Cursor/2023-11-27-folders-you-can-now-use-the-symbol-to-reference-specific-folders-we-ll-try-to-pi|@ folders: You can now use the @ symbol to reference specific folders!]] · Context Window
 <!-- chronolog:end -->

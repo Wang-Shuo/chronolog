@@ -1,8 +1,9 @@
 ---
 card_id: cursor-2023-07-27-579924
 date: '2023-07-27'
+description: 'Cursor · 2023-07-27 · Developer Workflow: Linter is back!'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|cursor-2023-03-18-76a713]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 131
   relation: same-theme-chronology
@@ -13,7 +14,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 67e51417c59fb8924b55edcd1c80e30e32dccf23a191ab8b7846cb235d65e480
+machine_hash: d31f900e9c0ffb967fcff367ff19dbc3ba920468b9d2bc25b9b1a87f076fce86
 product: cursor
 product_name: Cursor
 record:
@@ -35,9 +36,13 @@ record:
   title: Linter is back!
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-06-27-you-can-now-use-run-debug-in-cursor-again-the-toolbar-is-back|cursor-2023-06-27-0d3900]]'
-- '[[Changes/Cursor/2023-06-27-early-support-for-slash-commands|cursor-2023-06-27-6862ce]]'
-- '[[Changes/Cursor/2023-07-12-this-update-patches-search-cmd-win-shift-f-and-many-extensions-for-and-wsl-and-s|cursor-2023-07-12-75f4dc]]'
+- '[[Changes/Cursor/2023-06-27-you-can-now-use-run-debug-in-cursor-again-the-toolbar-is-back|Use
+  Run & debug in Cursor again (the toolbar is back)]]'
+- '[[Changes/Cursor/2023-06-27-early-support-for-slash-commands|Early support for
+  slash commands]]'
+- '[[Changes/Cursor/2023-07-12-this-update-patches-search-cmd-win-shift-f-and-many-extensions-for-and-wsl-and-s|This
+  update patches search (Cmd/Win+Shift+F) and many extensions for and WSL and SSH
+  users]]'
 source_release: '[[Releases/Cursor/cursor-2023-07-27-0-5-0-https-cursor-com-changelog-0-5-0-55901f62|cursor-2023-07-27-0-5-0-https-cursor-com-changelog-0-5-0-55901f62]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -45,10 +50,10 @@ title: Linter is back!
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Linter is back!
 
-<!-- chronolog:begin region="description" -->
-Cursor — Enterprise subscription support & misc fixes: Linter is back!
+**Cursor** · 2023-07-27 · [[Themes/developer-workflow|Developer Workflow]] · [Official source](https://cursor.com/changelog/0-5-0) · from [[Releases/Cursor/cursor-2023-07-27-0-5-0-https-cursor-com-changelog-0-5-0-55901f62|Enterprise subscription support & misc fixes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -57,19 +62,26 @@ Cursor — Enterprise subscription support & misc fixes: Linter is back!
 > Source: https://cursor.com/changelog/0-5-0
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2023-07-27-experimental-codebase-support-in-the-chat-and-coming-to-the-cmd-k-soon|Experimental @Codebase support in the chat (and coming to the cmd-k soon!)]] · Editor Experience
+- [[Changes/Cursor/2023-07-27-c-and-f-now-properly-render-in-the-chat|C♯ and F♯ now properly render in the chat]] · Interface Experience
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: developer-workflow
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-18-built-in-terminal|cursor-2023-03-18-76a713]]
-- Lag Days: 131
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Developer Workflow
+
+- Earlier: 2023-07-12 · Cursor · [[Changes/Cursor/2023-07-12-this-update-patches-search-cmd-win-shift-f-and-many-extensions-for-and-wsl-and-s|This update patches search (Cmd/Win+Shift+F) and many extensions for and WSL and SSH users]]
+- Later: 2023-07-28 · Cursor · [[Changes/Cursor/2023-07-28-remote-ssh-is-now-built-in-to-cursor-you-do-not-need-to-edit-the-behavior-it-sho|Remote-ssh is now built-in to cursor]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2023-07-27-579924&body=Card%3A%20Changes%2FCursor%2F2023-07-27-linter-is-back.md%0ACard%20ID%3A%20cursor-2023-07-27-579924%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F0-5-0%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

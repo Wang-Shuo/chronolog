@@ -1,10 +1,13 @@
 ---
 changes_count: 4
 date: '2023-03-14'
-machine_hash: bb342bfc9975cdb42cc1fab431c4bb0e6be458c3f55c876647cb233844b0c39d
+description: 'Cursor release v0.0.37 (2023-03-14) on 2023-03-14: 4 tracked changes
+  across Editor Experience, Mobile and Desktop'
+machine_hash: 41670fd211cdef665f8b38183958fcf566b543ad749dbaf7e366e4b521fb2116
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 5
   date: '2023-03-14'
   product: cursor
   product_name: Cursor
@@ -21,25 +24,27 @@ source_url: https://cursor.com/changelog/0-0-37
 tags:
 - release
 - cursor
-title: Cursor — v0.0.37 (2023-03-14)
+title: Cursor · v0.0.37 (2023-03-14)
 version: 0.0.37
 ---
 
-# Cursor v0.0.37 (2023-03-14)
+<!-- chronolog:begin region="header" -->
+# Cursor · v0.0.37 (2023-03-14)
+
+**Cursor** · 2023-03-14 · [Official release notes](https://cursor.com/changelog/0-0-37)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
-#New Features
+4 tracked changes across 2 themes: Editor Experience, Mobile and Desktop.
 
-[Official release notes](https://cursor.com/changelog/0-0-37)
-
-Tracked cards: 4
+Tracked 4 of 5 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- mobile-desktop: [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
-- editor-experience: [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all lint errors with AI 😎]]
-- editor-experience: [[Changes/Cursor/2023-03-14-editing-works-for-same-file-on-multiple-tabs|Editing works for same file on multiple tabs]]
-- editor-experience: [[Changes/Cursor/2023-03-14-edits-can-be-as-long-as-you-d-like|Edits can be as long as you'd like]]
+- [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]] · Mobile and Desktop
+- [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all lint errors with AI 😎]] · Editor Experience
+- [[Changes/Cursor/2023-03-14-editing-works-for-same-file-on-multiple-tabs|Editing works for same file on multiple tabs]] · Editor Experience
+- [[Changes/Cursor/2023-03-14-edits-can-be-as-long-as-you-d-like|Edits can be as long as you'd like]] · Editor Experience
 <!-- chronolog:end -->

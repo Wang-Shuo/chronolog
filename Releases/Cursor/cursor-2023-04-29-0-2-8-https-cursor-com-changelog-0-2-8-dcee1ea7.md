@@ -1,10 +1,13 @@
 ---
 changes_count: 2
 date: '2023-04-29'
-machine_hash: 9c3e8a8b044b0360776902223c2cdccc1077775aadef57f065c3c26b7222d271
+description: 'Cursor release Multi-File Diffs & Remote SSH (2023-04-29) on 2023-04-29:
+  2 tracked changes across Developer Workflow, Editor Experience'
+machine_hash: e5f174afb23a4c612ad07967ec590331fac5c9c1463df28e9bcc04cf79e6314e
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 2
   date: '2023-04-29'
   product: cursor
   product_name: Cursor
@@ -21,23 +24,25 @@ source_url: https://cursor.com/changelog/0-2-8
 tags:
 - release
 - cursor
-title: Cursor — Multi-File Diffs & Remote SSH (2023-04-29)
+title: Cursor · Multi-File Diffs & Remote SSH (2023-04-29)
 version: 0.2.8
 ---
 
-# Cursor Multi-File Diffs & Remote SSH (2023-04-29)
+<!-- chronolog:begin region="header" -->
+# Cursor · Multi-File Diffs & Remote SSH (2023-04-29)
+
+**Cursor** · 2023-04-29 · [Official release notes](https://cursor.com/changelog/0-2-8)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
-#New Features
+2 tracked changes across 2 themes: Developer Workflow, Editor Experience.
 
-[Official release notes](https://cursor.com/changelog/0-2-8)
-
-Tracked cards: 2
+Tracked 2 of 2 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- editor-experience: [[Changes/Cursor/2023-04-29-experimental-support-for-multi-file-diffs|Experimental support for multi-file diffs]]
-- developer-workflow: [[Changes/Cursor/2023-04-29-working-remote-ssh-support-through-the-openremote-ssh-extension|🌐 Working remote ssh support through the "OpenRemote - SSH" extension]]
+- [[Changes/Cursor/2023-04-29-experimental-support-for-multi-file-diffs|Experimental support for multi-file diffs]] · Editor Experience
+- [[Changes/Cursor/2023-04-29-working-remote-ssh-support-through-the-openremote-ssh-extension|🌐 Working remote ssh support through the "OpenRemote - SSH" extension]] · Developer Workflow
 <!-- chronolog:end -->

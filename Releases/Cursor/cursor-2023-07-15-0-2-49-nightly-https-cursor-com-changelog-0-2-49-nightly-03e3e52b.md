@@ -1,10 +1,12 @@
 ---
 changes_count: 0
 date: '2023-07-15'
-machine_hash: 12474fd0a9cececbe03528242ddf07298e75e81a305a240e6c6f40bf1755a85e
+description: 'Cursor release Patches on 2023-07-15: no tracked changes'
+machine_hash: 382324ad5b271a2a2bd59747aec969c6c19d17f533d35aca4f719fc3f10bac51
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 3
   date: '2023-07-15'
   product: cursor
   product_name: Cursor
@@ -21,19 +23,21 @@ source_url: https://cursor.com/changelog/0-2-49-nightly
 tags:
 - release
 - cursor
-title: Cursor — Patches
+title: Cursor · Patches
 version: 0.2.49-nightly
 ---
 
-# Cursor Patches
+<!-- chronolog:begin region="header" -->
+# Cursor · Patches
+
+**Cursor** · 2023-07-15 · [Official release notes](https://cursor.com/changelog/0-2-49-nightly)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Fixed agent editing ability
 
-[Official release notes](https://cursor.com/changelog/0-2-49-nightly)
-
-Tracked cards: 0
+Tracked 0 of 3 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

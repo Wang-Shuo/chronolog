@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2023-07-26'
-machine_hash: a506dbaf35c3f0474ba96e35101823d6723ae9be0b2d26d2d19806c1526d0cab
+description: 'Cursor release Hotfixes on 2023-07-26: 1 tracked change across Reliability
+  and Performance'
+machine_hash: b9cda8da3e1d8cc4140f74479ccad444c6448a77e16d85887bf6c12c0372314a
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2023-07-26'
   product: cursor
   product_name: Cursor
@@ -22,22 +25,24 @@ source_url: https://cursor.com/changelog/0-4-1-0-4-2
 tags:
 - release
 - cursor
-title: Cursor — Hotfixes
+title: Cursor · Hotfixes
 version: 0.4.1-0.4.2
 ---
 
-# Cursor Hotfixes
+<!-- chronolog:begin region="header" -->
+# Cursor · Hotfixes
+
+**Cursor** · 2023-07-26 · [Official release notes](https://cursor.com/changelog/0-4-1-0-4-2)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Removes a check in the chat that slows the chat down in certain cases.
 
-[Official release notes](https://cursor.com/changelog/0-4-1-0-4-2)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- reliability-performance: [[Changes/Cursor/2023-07-26-removes-a-check-in-the-chat-that-slows-the-chat-down-in-certain-cases|Removes a check in the chat that slows the chat down in certain cases]]
+- [[Changes/Cursor/2023-07-26-removes-a-check-in-the-chat-that-slows-the-chat-down-in-certain-cases|Removes a check in the chat that slows the chat down in certain cases]] · Reliability and Performance
 <!-- chronolog:end -->

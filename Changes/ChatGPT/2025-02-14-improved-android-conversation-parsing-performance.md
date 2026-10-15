@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2025-02-14-70171a
 date: '2025-02-14'
+description: 'ChatGPT · 2025-02-14 · Mobile and Desktop: Improved Android conversation
+  parsing performance.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support 🥳]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 703
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7b0fa49bc281b7920b66852d73e9387d47c475ad87462d931b191b323c148f31
+machine_hash: 446e01ea6cfd69ea917c2b726e670bb79be6cbd88ccd081100993305055d5510
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,9 +49,12 @@ record:
   title: Improved Android conversation parsing performance
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-12-30-cursor-is-now-based-on-vs-code-1-85-1-which-among-other-things-includes-floating|cursor-2023-12-30-784eeb]]'
-- '[[Changes/ChatGPT/2024-11-19-starting-today-we-re-beginning-to-roll-out-advanced-voice-mode-on-web-already-av-3d4db6|chatgpt-2024-11-19-3d4db6]]'
-- '[[Changes/ChatGPT/2025-01-17-we-ve-updated-custom-instructions-to-make-it-easier-to-customize-how-chatgpt-res-e42760|chatgpt-2025-01-17-e42760]]'
+- '[[Changes/Cursor/2023-12-30-cursor-is-now-based-on-vs-code-1-85-1-which-among-other-things-includes-floating|Cursor
+  is now based on VS Code 1.85.1, which, among other things, includes floating…]]'
+- '[[Changes/ChatGPT/2024-11-19-starting-today-we-re-beginning-to-roll-out-advanced-voice-mode-on-web-already-av-3d4db6|Starting
+  today, we’re beginning to roll out Advanced Voice Mode on web…]]'
+- '[[Changes/ChatGPT/2025-01-17-we-ve-updated-custom-instructions-to-make-it-easier-to-customize-how-chatgpt-res-e42760|ChatGPT
+  updates custom instructions to make it easier to customize how ChatGPT…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-02-14-set-chatgpt-as-default-search-engine-in-safari-11ec014b|chatgpt-2025-02-14-set-chatgpt-as-default-search-engine-in-safari-11ec014b]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -56,10 +62,10 @@ title: Improved Android conversation parsing performance
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Improved Android conversation parsing performance
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — - Set ChatGPT as default search engine in Safari.: Improved Android conversation parsing performance.
+**ChatGPT** · 2025-02-14 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-02-14-set-chatgpt-as-default-search-engine-in-safari-11ec014b|- Set ChatGPT as default search engine in Safari.]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -68,19 +74,28 @@ ChatGPT — - Set ChatGPT as default search engine in Safari.: Improved Android 
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2025-02-14-set-chatgpt-as-default-search-engine-in-safari|Set ChatGPT as default search engine in Safari]] · Search and Browsing
+- [[Changes/ChatGPT/2025-02-14-ios-performance-fixes|iOS performance fixes]] · Mobile and Desktop
+- [[Changes/ChatGPT/2025-02-14-confirmation-dialog-for-logging-out-ios-web|Confirmation dialog for logging out (iOS, web)]] · Mobile and Desktop
+- [[Changes/ChatGPT/2025-02-14-updated-launch-animations-and-composer-design-on-android|Updated launch animations and composer design on Android]] · Mobile and Desktop
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: mobile-desktop
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]
-- Lag Days: 703
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Mobile and Desktop
+
+- Earlier: 2025-01-17 · ChatGPT · [[Changes/ChatGPT/2025-01-17-we-ve-updated-custom-instructions-to-make-it-easier-to-customize-how-chatgpt-res-e42760|ChatGPT updates custom instructions to make it easier to customize how ChatGPT…]]
+- Later: 2025-02-21 · ChatGPT · [[Changes/ChatGPT/2025-02-21-1-ios-widget-see-below|iOS widget (see below)]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-02-14-70171a&body=Card%3A%20Changes%2FChatGPT%2F2025-02-14-improved-android-conversation-parsing-performance.md%0ACard%20ID%3A%20chatgpt-2025-02-14-70171a%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

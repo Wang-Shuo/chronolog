@@ -1,10 +1,12 @@
 ---
 changes_count: 0
 date: '2023-07-19'
-machine_hash: 3176a16a35662161ad1515126f37aabade87e9a1210099d9671ca9f628315b35
+description: 'Cursor release Updates on 2023-07-19: no tracked changes'
+machine_hash: 54a7e649df2841c8b5235796636441c1fd468393588e4eab64c44ef648a33c3f
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2023-07-19'
   product: cursor
   product_name: Cursor
@@ -21,19 +23,21 @@ source_url: https://cursor.com/changelog/0-2-52-nightly
 tags:
 - release
 - cursor
-title: Cursor — Updates
+title: Cursor · Updates
 version: 0.2.52-nightly
 ---
 
-# Cursor Updates
+<!-- chronolog:begin region="header" -->
+# Cursor · Updates
+
+**Cursor** · 2023-07-19 · [Official release notes](https://cursor.com/changelog/0-2-52-nightly)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Hotfixes etc.
 
-[Official release notes](https://cursor.com/changelog/0-2-52-nightly)
-
-Tracked cards: 0
+Tracked 0 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

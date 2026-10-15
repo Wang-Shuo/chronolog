@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2026-03-26'
-machine_hash: d9fcf5d234322e719ba26ae7eaeb82582855b1725ef3944b01e7b4b06f668359
+description: 'ChatGPT release A simplified sidebar on mobile on 2026-03-26: 1 tracked
+  change across Mobile and Desktop'
+machine_hash: 60d61bff701339c26ee94c41a099d5f5d9d69210895aa460ecaf20de405905dc
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 1
   date: '2026-03-26'
   product: chatgpt
   product_name: ChatGPT
@@ -24,22 +27,24 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — A simplified sidebar on mobile
+title: ChatGPT · A simplified sidebar on mobile
 version: A simplified sidebar on mobile
 ---
 
-# ChatGPT A simplified sidebar on mobile
+<!-- chronolog:begin region="header" -->
+# ChatGPT · A simplified sidebar on mobile
+
+**ChatGPT** · 2026-03-26 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 To give you more space to view your most critical chats and projects, the sidebar menu is now simplified on iOS and Android. ChatGPT experiences available to you based on your plan and usage—like Images, Codex, Pulse, and Apps—now appear in a horizontal bar above your chats and projects.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- mobile-desktop: [[Changes/ChatGPT/2026-03-26-to-give-you-more-space-to-view-your-most-critical-chats-and-projects-the-sidebar|To give you more space to view your most critical chats and projects, the sidebar…]]
+- [[Changes/ChatGPT/2026-03-26-to-give-you-more-space-to-view-your-most-critical-chats-and-projects-the-sidebar|To give you more space to view your most critical chats and projects, the sidebar…]] · Mobile and Desktop
 <!-- chronolog:end -->

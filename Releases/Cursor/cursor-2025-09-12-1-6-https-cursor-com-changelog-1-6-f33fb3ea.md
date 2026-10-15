@@ -1,10 +1,13 @@
 ---
 changes_count: 5
 date: '2025-09-12'
-machine_hash: e63d8641f9fe9a1e89eee385a5c3201e92b6d67a31a64674c495100c52838895
+description: 'Cursor release Slash commands, summarization, and improved Agent terminal
+  on 2025-09-12: 5 tracked changes across Apps and Integrations, Developer Workflow…'
+machine_hash: 6c12c75b816dee78ee5f6284f7e49b5bebf3895f8d1492e7b84760a97021ab9d
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 33
   date: '2025-09-12'
   product: cursor
   product_name: Cursor
@@ -21,26 +24,28 @@ source_url: https://cursor.com/changelog/1-6
 tags:
 - release
 - cursor
-title: Cursor — Slash commands, summarization, and improved Agent terminal
+title: Cursor · Slash commands, summarization, and improved Agent terminal
 version: '1.6'
 ---
 
-# Cursor Slash commands, summarization, and improved Agent terminal
+<!-- chronolog:begin region="header" -->
+# Cursor · Slash commands, summarization, and improved Agent terminal
+
+**Cursor** · 2025-09-12 · [Official release notes](https://cursor.com/changelog/1-6)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 #Custom slash commands
 
-[Official release notes](https://cursor.com/changelog/1-6)
-
-Tracked cards: 5
+Tracked 5 of 33 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- apps-integrations: [[Changes/Cursor/2025-09-12-we-ve-added-support-for-mcp-resources-resources-allow-servers-to-share-data-that|Cursor adds support for MCP Resources]]
-- apps-integrations: [[Changes/Cursor/2025-09-12-additionally-interpolated-variables-are-now-supported-for-mcp-this-enables-using|Additionally, interpolated variables are now supported for MCP]]
-- context-window: [[Changes/Cursor/2025-09-12-cursor-automatically-summarizes-long-conversation-for-you-when-reaching-the-cont|Cursor automatically summarizes long conversation for you when reaching the context…]]
-- developer-workflow: [[Changes/Cursor/2025-09-12-you-can-now-create-reusable-prompts-and-quickly-share-them-with-your-team-comman|Create reusable prompts and quickly share them with your team]]
-- developer-workflow: [[Changes/Cursor/2025-09-12-we-ve-been-using-them-for-running-linters-fixing-compile-errors-and-creating-prs|We've been using them for running linters, fixing compile errors, and creating PRs…]]
+- [[Changes/Cursor/2025-09-12-we-ve-added-support-for-mcp-resources-resources-allow-servers-to-share-data-that|Cursor adds support for MCP Resources]] · Apps and Integrations
+- [[Changes/Cursor/2025-09-12-additionally-interpolated-variables-are-now-supported-for-mcp-this-enables-using|Additionally, interpolated variables are now supported for MCP]] · Apps and Integrations
+- [[Changes/Cursor/2025-09-12-cursor-automatically-summarizes-long-conversation-for-you-when-reaching-the-cont|Cursor automatically summarizes long conversation for you when reaching the context…]] · Context Window
+- [[Changes/Cursor/2025-09-12-you-can-now-create-reusable-prompts-and-quickly-share-them-with-your-team-comman|Create reusable prompts and quickly share them with your team]] · Developer Workflow
+- [[Changes/Cursor/2025-09-12-we-ve-been-using-them-for-running-linters-fixing-compile-errors-and-creating-prs|We've been using them for running linters, fixing compile errors, and creating PRs…]] · Developer Workflow
 <!-- chronolog:end -->

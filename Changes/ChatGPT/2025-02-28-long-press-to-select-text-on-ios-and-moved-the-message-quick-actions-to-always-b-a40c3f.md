@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2025-02-28-a40c3f
 date: '2025-02-28'
+description: 'ChatGPT · 2025-02-28 · Mobile and Desktop: Long press to select text
+  on iOS and moved the message quick actions to always be visible below the message:'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support 🥳]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 717
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 34d49c52b94fc519c35ec58cfd17e70a89a626091161893514f09085cbd598e8
+machine_hash: 90a772090b7e98ec3640e5cd3b365a87c03b681622294d61e4c2c87c763bbf18
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,9 +42,11 @@ record:
   title: Long press to select text on iOS and moved the message quick actions to always…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-02-14-updated-launch-animations-and-composer-design-on-android|chatgpt-2025-02-14-fb60f1]]'
-- '[[Changes/ChatGPT/2025-02-21-1-ios-widget-see-below|chatgpt-2025-02-21-d134d2]]'
-- '[[Changes/ChatGPT/2025-02-28-2-bug-fixes-and-small-improvements-in-the-1-2025-056-ios-release-3-a-setting-to|chatgpt-2025-02-28-4b3cbf]]'
+- '[[Changes/ChatGPT/2025-02-14-updated-launch-animations-and-composer-design-on-android|Updated
+  launch animations and composer design on Android]]'
+- '[[Changes/ChatGPT/2025-02-21-1-ios-widget-see-below|iOS widget (see below)]]'
+- '[[Changes/ChatGPT/2025-02-28-2-bug-fixes-and-small-improvements-in-the-1-2025-056-ios-release-3-a-setting-to|Bug
+  fixes and small improvements in the 1.2025.056 iOS release]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-02-28-general-ios-long-press-to-select-text-on-ios-and-moved-the-messa-04ecc8ba|chatgpt-2025-02-28-general-ios-long-press-to-select-text-on-ios-and-moved-the-messa-04ecc8ba]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -49,10 +54,10 @@ title: Long press to select text on iOS and moved the message quick actions to a
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Long press to select text on iOS and moved the message quick actions to always…
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — - General - iOS - Long press to select text on iOS and moved the message quick actions to always be visible below the me: Long press to select text on iOS and moved the message quick actions to always be visible below the message:
+**ChatGPT** · 2025-02-28 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-02-28-general-ios-long-press-to-select-text-on-ios-and-moved-the-messa-04ecc8ba|- General - iOS - Long press to select text on iOS and moved the message quick actions to always be visible below the me]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -61,19 +66,25 @@ ChatGPT — - General - iOS - Long press to select text on iOS and moved the mes
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2025-02-28-2-bug-fixes-and-small-improvements-in-the-1-2025-056-ios-release-3-a-setting-to|Bug fixes and small improvements in the 1.2025.056 iOS release]] · Mobile and Desktop
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: mobile-desktop
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]
-- Lag Days: 717
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Mobile and Desktop
+
+- Earlier: 2025-02-21 · ChatGPT · [[Changes/ChatGPT/2025-02-21-1-ios-widget-see-below|iOS widget (see below)]]
+- Later: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-1-improved-table-copying-functionality-out-of-chatgpt-responses-on-ios-and-macos|Improved table-copying functionality out of ChatGPT responses on iOS and macOS]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-02-28-a40c3f&body=Card%3A%20Changes%2FChatGPT%2F2025-02-28-long-press-to-select-text-on-ios-and-moved-the-message-quick-actions-to-always-b-a40c3f.md%0ACard%20ID%3A%20chatgpt-2025-02-28-a40c3f%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

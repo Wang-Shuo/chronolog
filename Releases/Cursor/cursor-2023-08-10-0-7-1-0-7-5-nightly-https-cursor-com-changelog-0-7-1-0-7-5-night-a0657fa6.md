@@ -1,10 +1,13 @@
 ---
 changes_count: 0
 date: '2023-08-10'
-machine_hash: b84bbbcbaffb51d55aa8fc05474f92c6c8a25dad2158a23327eb41d0d53d2aa2
+description: 'Cursor release Fix: Cursor in the wrong place on 2023-08-10: no tracked
+  changes'
+machine_hash: ef23602c20f0c1a60dc222371c6860cc075751457ebfcf6d2e5460813853846f
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 5
   date: '2023-08-10'
   product: cursor
   product_name: Cursor
@@ -21,19 +24,21 @@ source_url: https://cursor.com/changelog/0-7-1-0-7-5-nightly
 tags:
 - release
 - cursor
-title: 'Cursor — Fix: Cursor in the wrong place'
+title: 'Cursor · Fix: Cursor in the wrong place'
 version: 0.7.1-0.7.5-nightly
 ---
 
-# Cursor Fix: Cursor in the wrong place
+<!-- chronolog:begin region="header" -->
+# Cursor · Fix: Cursor in the wrong place
+
+**Cursor** · 2023-08-10 · [Official release notes](https://cursor.com/changelog/0-7-1-0-7-5-nightly)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Fix getcursor/cursor#711.
 
-[Official release notes](https://cursor.com/changelog/0-7-1-0-7-5-nightly)
-
-Tracked cards: 0
+Tracked 0 of 5 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

@@ -1,10 +1,13 @@
 ---
 changes_count: 3
 date: '2025-10-28'
-machine_hash: dd9c43e96b2c710f9404fa1b6cca27da3df16193c60405d1d7cf04af108482d0
+description: 'ChatGPT release ChatGPT Go now available in Brazil on 2025-10-28: 3
+  tracked changes across Image Generation, Memory and Personalization, Pricing Model'
+machine_hash: 977e1e16a812b1f8ef4ece762c3d1b0dcf1577d341fb92f8331c8d026dddf78c
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 5
   date: '2025-10-28'
   product: chatgpt
   product_name: ChatGPT
@@ -22,24 +25,26 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — ChatGPT Go now available in Brazil
+title: ChatGPT Go now available in Brazil
 version: ChatGPT Go now available in Brazil
 ---
 
-# ChatGPT ChatGPT Go now available in Brazil
+<!-- chronolog:begin region="header" -->
+# ChatGPT Go now available in Brazil
+
+**ChatGPT** · 2025-10-28 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 We're launching ChatGPT Go, our low cost subscription plan, in Brazil. ChatGPT Go provides everything included in the Free plan, and:
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 3
+Tracked 3 of 5 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- pricing-model: [[Changes/ChatGPT/2025-10-28-we-re-launching-chatgpt-go-our-low-cost-subscription-plan-in-brazil-chatgpt-go-p|ChatGPT launches ChatGPT Go, our low cost subscription plan, in Brazil]]
-- image-generation: [[Changes/ChatGPT/2025-10-28-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]]
-- memory: [[Changes/ChatGPT/2025-10-28-longer-memory-for-more-personalized-responses|Longer memory for more personalized responses]]
+- [[Changes/ChatGPT/2025-10-28-we-re-launching-chatgpt-go-our-low-cost-subscription-plan-in-brazil-chatgpt-go-p|ChatGPT launches ChatGPT Go, our low cost subscription plan, in Brazil]] · Pricing Model
+- [[Changes/ChatGPT/2025-10-28-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]] · Image Generation
+- [[Changes/ChatGPT/2025-10-28-longer-memory-for-more-personalized-responses|Longer memory for more personalized responses]] · Memory and Personalization
 <!-- chronolog:end -->

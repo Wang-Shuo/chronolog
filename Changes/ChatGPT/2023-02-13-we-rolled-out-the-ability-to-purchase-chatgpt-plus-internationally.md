@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2023-02-13-d327ff
 date: '2023-02-13'
+description: 'ChatGPT · 2023-02-13 · Pricing Model: We rolled out the ability to purchase
+  ChatGPT Plus internationally.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|chatgpt-2022-12-15-6d306d]]'
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
+    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 60
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: fd327b9222596a0edc2d6d982b3696add9bb3bc7c9e086880a739022bdb86fb1
+machine_hash: 3552f51f0429f52cdc7c55d5557fe61cd65495d1a8cd04166114b4e87b17a01b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,7 +41,8 @@ record:
   title: We rolled out the ability to purchase ChatGPT Plus internationally
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|chatgpt-2022-12-15-6d306d]]'
+- '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
+  limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-02-13-updates-to-chatgpt-0d776ee3|chatgpt-2023-02-13-updates-to-chatgpt-0d776ee3]]'
 source_type: chatgpt_changelog
 theme: pricing-model
@@ -46,10 +50,10 @@ title: We rolled out the ability to purchase ChatGPT Plus internationally
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # We rolled out the ability to purchase ChatGPT Plus internationally
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Updates to ChatGPT: We rolled out the ability to purchase ChatGPT Plus internationally.
+**ChatGPT** · 2023-02-13 · [[Themes/pricing-model|Pricing Model]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-02-13-updates-to-chatgpt-0d776ee3|Updates to ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -58,19 +62,26 @@ ChatGPT — Updates to ChatGPT: We rolled out the ability to purchase ChatGPT Pl
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2023-02-13-based-on-user-feedback-we-are-now-defaulting-plus-users-to-a-faster-version-of-c|Based on user feedback, we are now defaulting Plus users to a faster version…]] · Reliability and Performance
+- [[Changes/ChatGPT/2023-02-13-we-ve-updated-performance-of-the-chatgpt-model-on-our-free-plan-in-order-to-serv|ChatGPT updates performance of the ChatGPT model on our free plan in order to serve…]] · Reliability and Performance
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: pricing-model
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|chatgpt-2022-12-15-6d306d]]
-- Lag Days: 60
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Pricing Model
+
+- Earlier: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Later: 2023-03-27 · Cursor · [[Changes/Cursor/2023-03-27-adds-an-optional-paid-plan-if-you-d-like-to-avoid-the-server-capacity-rate-limit|Adds an optional paid plan if you'd like to avoid the server capacity rate limits]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-02-13-d327ff&body=Card%3A%20Changes%2FChatGPT%2F2023-02-13-we-rolled-out-the-ability-to-purchase-chatgpt-plus-internationally.md%0ACard%20ID%3A%20chatgpt-2023-02-13-d327ff%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

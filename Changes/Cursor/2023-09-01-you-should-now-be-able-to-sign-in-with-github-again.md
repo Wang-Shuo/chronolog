@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2023-09-01-272a25
 date: '2023-09-01'
+description: 'Cursor · 2023-09-01 · Account and Access: You should now be able to
+  sign in with GitHub again.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|cursor-2023-03-30-3bf00d]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
+    login]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 155
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: b031012826351e25870dff0b13aa96e2c671dcae15b8d74581e36ef45592c933
+machine_hash: 992fb97ba9b6572417b2486285c419dcafa2165a63739e38136235b49799440c
 product: cursor
 product_name: Cursor
 record:
@@ -36,9 +39,12 @@ record:
   title: You should now be able to sign in with GitHub again
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-06-06-login-via-github-then-add-the-repo-you-wish-to-sync|cursor-2023-06-06-3d3f42]]'
-- '[[Changes/Cursor/2023-06-27-if-you-re-not-logged-in-we-show-the-popup-to-log-in-again|cursor-2023-06-27-2e6d58]]'
-- '[[Changes/Cursor/2023-07-25-you-can-now-chat-with-any-codebase-no-need-to-have-a-github-repo-login-through-g|cursor-2023-07-25-7fef5d]]'
+- '[[Changes/Cursor/2023-06-06-login-via-github-then-add-the-repo-you-wish-to-sync|Login
+  via github, then add the repo you wish to sync!]]'
+- '[[Changes/Cursor/2023-06-27-if-you-re-not-logged-in-we-show-the-popup-to-log-in-again|If
+  you''re not logged in, we show the popup to log in again]]'
+- '[[Changes/Cursor/2023-07-25-you-can-now-chat-with-any-codebase-no-need-to-have-a-github-repo-login-through-g|Chat
+  with any codebase]]'
 source_release: '[[Releases/Cursor/cursor-2023-09-01-0-9-3-https-cursor-com-changelog-0-9-3-b92abfc8|cursor-2023-09-01-0-9-3-https-cursor-com-changelog-0-9-3-b92abfc8]]'
 source_type: cursor_changelog
 theme: account-access
@@ -46,10 +52,10 @@ title: You should now be able to sign in with GitHub again
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # You should now be able to sign in with GitHub again
 
-<!-- chronolog:begin region="description" -->
-Cursor — Hotfix Github Auth: You should now be able to sign in with GitHub again.
+**Cursor** · 2023-09-01 · [[Themes/account-access|Account and Access]] · [Official source](https://cursor.com/changelog/0-9-3) · from [[Releases/Cursor/cursor-2023-09-01-0-9-3-https-cursor-com-changelog-0-9-3-b92abfc8|Hotfix Github Auth]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -58,19 +64,23 @@ Cursor — Hotfix Github Auth: You should now be able to sign in with GitHub aga
 > Source: https://cursor.com/changelog/0-9-3
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: account-access
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-30-ai-now-requires-login|cursor-2023-03-30-3bf00d]]
-- Lag Days: 155
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Account and Access
+
+- Earlier: 2023-07-25 · Cursor · [[Changes/Cursor/2023-07-25-you-can-now-chat-with-any-codebase-no-need-to-have-a-github-repo-login-through-g|Chat with any codebase]]
+- Later: 2024-04-01 · ChatGPT · [[Changes/ChatGPT/2024-04-01-we-re-making-it-easier-for-people-to-experience-the-benefits-of-ai-without-needi|We’re making it easier for people to experience the benefits of AI without needing…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2023-09-01-272a25&body=Card%3A%20Changes%2FCursor%2F2023-09-01-you-should-now-be-able-to-sign-in-with-github-again.md%0ACard%20ID%3A%20cursor-2023-09-01-272a25%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F0-9-3%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2025-05-08-bb9a62
 date: '2025-05-08'
+description: 'ChatGPT · 2025-05-08 · Memory and Personalization: Enhanced memory rolling
+  out to all Plus and Pro users (including the EU). The new memory features are…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|chatgpt-2023-07-20-37833c]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re
+    starting to roll out custom instructions, giving you more control over…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 658
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 23527b2db9d510de15eddc02b8f21bbfdc14bffbd1ff749a1e42de4f5873b48a
+machine_hash: b94a3c8aa4cb778c87b0480fb566a402a7bdb471d20a733af1d9fd8f3b3191f4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,9 +47,12 @@ record:
   title: Enhanced memory rolling out to all Plus and Pro users (including the EU)
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-02-19-crashes-enhanced-stability-through-memory-and-performance-improvements-with-addi|cursor-2025-02-19-b95ba8]]'
-- '[[Changes/ChatGPT/2025-04-16-chatgpt-can-also-use-memories-to-inform-search-queries-when-chatgpt-searches-the|chatgpt-2025-04-16-c95e51]]'
-- '[[Changes/ChatGPT/2025-05-08-saved-memories-and-chat-history-are-offered-only-to-plus-and-pro-accounts-free-t|chatgpt-2025-05-08-2800fc]]'
+- '[[Changes/Cursor/2025-02-19-crashes-enhanced-stability-through-memory-and-performance-improvements-with-addi|Crashes:
+  Enhanced stability through memory and performance improvements…]]'
+- '[[Changes/ChatGPT/2025-04-16-chatgpt-can-also-use-memories-to-inform-search-queries-when-chatgpt-searches-the|ChatGPT
+  can also use memories to inform search queries when ChatGPT searches the web…]]'
+- '[[Changes/ChatGPT/2025-05-08-saved-memories-and-chat-history-are-offered-only-to-plus-and-pro-accounts-free-t|•
+  Saved memories and Chat history are offered only to Plus and Pro…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-08-enhanced-memory-in-chatgpt-including-eu-on-plus-pro-b6107d35|chatgpt-2025-05-08-enhanced-memory-in-chatgpt-including-eu-on-plus-pro-b6107d35]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -54,10 +60,10 @@ title: Enhanced memory rolling out to all Plus and Pro users (including the EU)
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Enhanced memory rolling out to all Plus and Pro users (including the EU)
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Enhanced Memory in ChatGPT (including EU) on Plus/Pro: Enhanced memory rolling out to all Plus and Pro users (including the EU). The new memory features are available in the EEA (EU + UK), Switzerland, Norway, Iceland, or Liechtenstein. These features are OFF by default and must be enabled in Settings > Personalization > Reference Chat History.
+**ChatGPT** · 2025-05-08 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-05-08-enhanced-memory-in-chatgpt-including-eu-on-plus-pro-b6107d35|Enhanced Memory in ChatGPT (including EU) on Plus/Pro]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -66,19 +72,26 @@ ChatGPT — Enhanced Memory in ChatGPT (including EU) on Plus/Pro: Enhanced memo
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2025-05-08-saved-memories-and-chat-history-are-offered-only-to-plus-and-pro-accounts-free-t|• Saved memories and Chat history are offered only to Plus and Pro…]] · Memory and Personalization
+- [[Changes/ChatGPT/2025-05-08-outside-the-european-regions-listed-above-all-plus-and-pro-accounts-that-have-me-507581|• Outside the European regions listed above, all Plus and Pro accounts that have…]] · Reliability and Performance
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: memory
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|chatgpt-2023-07-20-37833c]]
-- Lag Days: 658
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Memory and Personalization
+
+- Earlier: 2025-04-16 · ChatGPT · [[Changes/ChatGPT/2025-04-16-chatgpt-can-also-use-memories-to-inform-search-queries-when-chatgpt-searches-the|ChatGPT can also use memories to inform search queries when ChatGPT searches the web…]]
+- Later: 2025-06-03 · ChatGPT · [[Changes/ChatGPT/2025-06-03-you-can-turn-off-memory-anytime-in-settings-learn-more-in-our-memory-faq|You can turn off memory anytime in settings]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re starting to roll out custom instructions, giving you more control over…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-05-08-bb9a62&body=Card%3A%20Changes%2FChatGPT%2F2025-05-08-enhanced-memory-rolling-out-to-all-plus-and-pro-users-including-the-eu-the-new-m.md%0ACard%20ID%3A%20chatgpt-2025-05-08-bb9a62%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

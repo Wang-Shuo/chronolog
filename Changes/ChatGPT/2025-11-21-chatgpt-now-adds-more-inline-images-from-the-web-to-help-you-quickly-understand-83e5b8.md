@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2025-11-21-83e5b8
 date: '2025-11-21'
+description: 'ChatGPT · 2025-11-21 · Model Support: ChatGPT now adds more inline images
+  from the web to help you quickly understand topics like well-known people, places…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We
+    made more improvements to the ChatGPT model!]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1047
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6cb6189aacc7e65676de2887f0f52c5d254a30a4c909eafa2c8ad6cf34e4f9f2
+machine_hash: 297fbd2d709b9630f62f40aecd609c192b52f3b833ac76275b45ba0d3b27bacb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -58,9 +61,12 @@ record:
   title: ChatGPT now adds more inline images from the web to help you quickly understand…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-11-12-we-re-updating-chatgpt-s-tone-controls-so-it-s-easier-to-make-responses-sound-th-d3a253|chatgpt-2025-11-12-d3a253]]'
-- '[[Changes/ChatGPT/2025-11-12-we-re-updating-gpt-5-to-gpt-5-1-instant-and-gpt-5-1-thinking-making-answers-both-d702c4|chatgpt-2025-11-12-d702c4]]'
-- '[[Changes/ChatGPT/2025-11-19-today-we-re-updating-gpt-5-pro-to-gpt-5-1-pro-in-early-testing-users-consistentl-191826|chatgpt-2025-11-19-191826]]'
+- '[[Changes/ChatGPT/2025-11-12-we-re-updating-chatgpt-s-tone-controls-so-it-s-easier-to-make-responses-sound-th-d3a253|We’re
+  updating ChatGPT’s tone controls so it’s easier to make responses sound…]]'
+- '[[Changes/ChatGPT/2025-11-12-we-re-updating-gpt-5-to-gpt-5-1-instant-and-gpt-5-1-thinking-making-answers-both-d702c4|We’re
+  updating GPT-5 to GPT-5.1 Instant and GPT-5.1 Thinking, making answers both…]]'
+- '[[Changes/ChatGPT/2025-11-19-today-we-re-updating-gpt-5-pro-to-gpt-5-1-pro-in-early-testing-users-consistentl-191826|Today
+  we’re updating GPT-5 Pro to GPT-5.1 Pro]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-21-more-images-in-answers-f12c1477|chatgpt-2025-11-21-more-images-in-answers-f12c1477]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -68,10 +74,10 @@ title: ChatGPT now adds more inline images from the web to help you quickly unde
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # ChatGPT now adds more inline images from the web to help you quickly understand…
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — More images in answers: ChatGPT now adds more inline images from the web to help you quickly understand topics like well-known people, places, and products. When visuals can add clarity, you’ll see images placed beside the relevant paragraph. You can click on any of the images to see them in original dimensions and with the source attribution.These improvements are gradually rolling out globally across all ChatGPT plans, on web, iOS, and Android for responses using GPT 5.1.
+**ChatGPT** · 2025-11-21 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-11-21-more-images-in-answers-f12c1477|More images in answers]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -80,19 +86,23 @@ ChatGPT — More images in answers: ChatGPT now adds more inline images from the
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: model-support
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]
-- Lag Days: 1047
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Model Support
+
+- Earlier: 2025-11-19 · ChatGPT · [[Changes/ChatGPT/2025-11-19-today-we-re-updating-gpt-5-pro-to-gpt-5-1-pro-in-early-testing-users-consistentl-191826|Today we’re updating GPT-5 Pro to GPT-5.1 Pro]]
+- Later: 2025-12-10 · Cursor · [[Changes/Cursor/2025-12-10-cursor-instruments-your-app-with-runtime-logs-to-find-the-root-cause-it-works-ac|Cursor instruments your app with runtime logs to find the root cause]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We made more improvements to the ChatGPT model!]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-11-21-83e5b8&body=Card%3A%20Changes%2FChatGPT%2F2025-11-21-chatgpt-now-adds-more-inline-images-from-the-web-to-help-you-quickly-understand-83e5b8.md%0ACard%20ID%3A%20chatgpt-2025-11-21-83e5b8%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2023-04-16-f0e22a
 date: '2023-04-16'
+description: 'Cursor · 2023-04-16 · Safety and Privacy: Ghost mode for opting out
+  of storing any kind of data on our servers'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|cursor-2023-04-16-f0e22a]]'
+  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
+    mode for opting out of storing any kind of data on our servers]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 0
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: bcb531b4738c1477f1b4935beb33e1faf0073cd59f1e6f05c874c753367ca05f
+machine_hash: c7dab17025747c912784a8da38bdf84ae56c9f41e86f18a5bd4814c0a82dc244
 product: cursor
 product_name: Cursor
 record:
@@ -44,10 +47,10 @@ title: Ghost mode for opting out of storing any kind of data on our servers
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Ghost mode for opting out of storing any kind of data on our servers
 
-<!-- chronolog:begin region="description" -->
-Cursor — Chat Scrolling & Ghost Mode (2023-04-16): Ghost mode for opting out of storing any kind of data on our servers
+**Cursor** · 2023-04-16 · [[Themes/safety-privacy|Safety and Privacy]] · [Official source](https://cursor.com/changelog/0-2-4) · from [[Releases/Cursor/cursor-2023-04-16-0-2-4-https-cursor-com-changelog-0-2-4-1ed55ed8|Chat Scrolling & Ghost Mode (2023-04-16)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -56,19 +59,24 @@ Cursor — Chat Scrolling & Ghost Mode (2023-04-16): Ghost mode for opting out o
 > Source: https://cursor.com/changelog/0-2-4
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2023-04-16-nicer-edits-now-work-with-cmd-z|Nicer edits, now work with cmd-Z]] · Editor Experience
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: safety-privacy
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: first-observed
-- First In Tracked: [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|cursor-2023-04-16-f0e22a]]
-- Lag Days: 0
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Safety and Privacy
+
+- Later: 2023-06-27 · Cursor · [[Changes/Cursor/2023-06-27-cursor-is-now-based-on-version-1-79-2-of-vscodium-which-comes-with-security-upda|Cursor is now based on version 1.79.2 of VSCodium, which comes with security updates…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry among the 3 tracked products.
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2023-04-16-f0e22a&body=Card%3A%20Changes%2FCursor%2F2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers.md%0ACard%20ID%3A%20cursor-2023-04-16-f0e22a%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F0-2-4%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2026-03-17'
-machine_hash: 680c772842e4b80e630984a3d6b4dbe7b0d516d14d0c076ba7fd443ff62a6420
+description: 'ChatGPT release Sunsetting the “Nerdy” base style on 2026-03-17: 1 tracked
+  change across Memory and Personalization'
+machine_hash: 055bfa53c54d857e49fda0b8c74cdbdcb78e711500cbda3fb3e77e5af7a5ca4a
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 1
   date: '2026-03-17'
   product: chatgpt
   product_name: ChatGPT
@@ -24,22 +27,24 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Sunsetting the “Nerdy” base style
+title: ChatGPT · Sunsetting the “Nerdy” base style
 version: Sunsetting the “Nerdy” base style
 ---
 
-# ChatGPT Sunsetting the “Nerdy” base style
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Sunsetting the “Nerdy” base style
+
+**ChatGPT** · 2026-03-17 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 We’re sunsetting the preset Nerdy base style to simplify options and improve response quality. Users who selected it will be moved to the default personality. You can manage personality settings anytime in ChatGPT under Settings → Personalization.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- memory: [[Changes/ChatGPT/2026-03-17-we-re-sunsetting-the-preset-nerdy-base-style-to-simplify-options-and-improve-res|We’re sunsetting the preset Nerdy base style to simplify options and improve…]]
+- [[Changes/ChatGPT/2026-03-17-we-re-sunsetting-the-preset-nerdy-base-style-to-simplify-options-and-improve-res|We’re sunsetting the preset Nerdy base style to simplify options and improve…]] · Memory and Personalization
 <!-- chronolog:end -->

@@ -1,8 +1,12 @@
 ---
 card_id: cursor-2026-10-06-62ad73
 date: '2026-10-06'
+description: 'Cursor · 2026-10-06 · Enterprise and Administration: Remote control
+  is on by default, except for Enterprise organizations. Enterprise admins can turn
+  it on in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|chatgpt-2025-06-12-1cc56f]]'
+  first_in_tracked: '[[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise
+    and Edu rollout coming soon]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 481
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: f1fbb6617e67369ad91fe0c9cfcf08698bf57c4e4cf5af5a97be051df309dc73
+machine_hash: 2bec4199d4d06b509f1bc475cbba984c60a07e8845d49ab88e2c145ae3a9ca58
 product: cursor
 product_name: Cursor
 record:
@@ -48,9 +52,12 @@ record:
   title: Remote control is on by default, except for Enterprise organizations
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-29-profile-sharing-and-the-sites-showcase-are-available-on-web-and-desktop-in-busin|chatgpt-2026-09-29-0fde0c]]'
-- '[[Changes/ChatGPT/2026-09-29-dots-are-rolling-out-gradually-to-eligible-pro-and-business-premium-users-aged-1|chatgpt-2026-09-29-5031cc]]'
-- '[[Changes/ChatGPT/2026-09-29-for-the-next-month-dots-usage-won-t-count-toward-eligible-pro-business-and-enter|chatgpt-2026-09-29-cf91af]]'
+- '[[Changes/ChatGPT/2026-09-29-profile-sharing-and-the-sites-showcase-are-available-on-web-and-desktop-in-busin|Profile
+  sharing and the Sites showcase are available on web and desktop]]'
+- '[[Changes/ChatGPT/2026-09-29-dots-are-rolling-out-gradually-to-eligible-pro-and-business-premium-users-aged-1|Dots
+  are rolling out gradually to eligible Pro and Business Premium users aged 18…]]'
+- '[[Changes/ChatGPT/2026-09-29-for-the-next-month-dots-usage-won-t-count-toward-eligible-pro-business-and-enter|For
+  the next month, dots usage won’t count toward eligible Pro, Business…]]'
 source_release: '[[Releases/Cursor/cursor-2026-10-06-remote-control-for-local-agents-https-cursor-com-changelog-remot-bb6325fd|cursor-2026-10-06-remote-control-for-local-agents-https-cursor-com-changelog-remot-bb6325fd]]'
 source_type: cursor_changelog
 theme: enterprise-admin
@@ -58,10 +65,10 @@ title: Remote control is on by default, except for Enterprise organizations
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Remote control is on by default, except for Enterprise organizations
 
-<!-- chronolog:begin region="description" -->
-Cursor — Remote control for local agents: Remote control is on by default, except for Enterprise organizations. Enterprise admins can turn it on in Org settings > Security and identity > Remote control.
+**Cursor** · 2026-10-06 · [[Themes/enterprise-admin|Enterprise and Administration]] · [Official source](https://cursor.com/changelog/remote-control-local-agents) · from [[Releases/Cursor/cursor-2026-10-06-remote-control-for-local-agents-https-cursor-com-changelog-remot-bb6325fd|Remote control for local agents]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -70,19 +77,27 @@ Cursor — Remote control for local agents: Remote control is on by default, exc
 > Source: https://cursor.com/changelog/remote-control-local-agents
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2026-10-06-to-stop-your-computer-from-sleeping-while-you-re-away-turn-on-keep-this-computer|To stop your computer from sleeping while you're away, turn…]] · Mobile and Desktop
+- [[Changes/Cursor/2026-10-06-you-can-now-see-and-reply-to-the-local-agents-running-on-your-computer-from-the|See and reply to the local agents running on your computer from the Cursor iOS app]] · Mobile and Desktop
+- [[Changes/Cursor/2026-10-06-remote-control-is-on-by-default-for-everyone-except-enterprise-organizations|Remote Control is on by default for everyone except Enterprise organizations]] · Enterprise and Administration
+- [[Changes/Cursor/2026-10-06-remote-control-doesn-t-move-your-agents-anywhere-it-keeps-running-on-your-comput|Remote control doesn't move your agents anywhere]] · Agent Mode
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: enterprise-admin
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|chatgpt-2025-06-12-1cc56f]]
-- Lag Days: 481
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Enterprise and Administration
+
+- Earlier: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-for-the-next-month-dots-usage-won-t-count-toward-eligible-pro-business-and-enter|For the next month, dots usage won’t count toward eligible Pro, Business…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise and Edu rollout coming soon]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2026-10-06-62ad73&body=Card%3A%20Changes%2FCursor%2F2026-10-06-remote-control-is-on-by-default-except-for-enterprise-organizations-enterprise-a.md%0ACard%20ID%3A%20cursor-2026-10-06-62ad73%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2Fremote-control-local-agents%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

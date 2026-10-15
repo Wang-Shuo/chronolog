@@ -4,7 +4,9 @@ ChronoLog turns official product release histories into an Obsidian/Quartz vault
 Release pages, normalized Change Cards, product timelines, and cross-product themes.
 
 Current implementation status, priorities, and acceptance criteria are tracked in the
-[development plan (2026-10-13)](docs/development-plan-2026-10-13.md).
+[development plan (2026-10-13)](docs/development-plan-2026-10-13.md). Product, UI and
+content design recommendations for the reader-facing site are in the
+[design review (2026-10-15)](docs/design-review-2026-10-15.md).
 The pipeline merges historical Markdown with each new batch, validates a staged vault,
 and publishes through a recoverable transaction. Content-quality and public-release
 acceptance remain separate milestones.

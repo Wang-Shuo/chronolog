@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2025-09-29-8cbf19
 date: '2025-09-29'
+description: 'ChatGPT · 2025-09-29 · Agent Mode: We’re introducing Instant Checkout
+  in ChatGPT and the Agentic Commerce Protocol that powers it, built with Stripe.ChatGPT…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
+    to the first nightly release!]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 816
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 16bdd31e39e7b9a9f8531027f4fd2b230e6e4c026d7ee8e37dfdad0fba40c2ad
+machine_hash: bbf604fc8c588af8914e47388a14f500e1b393ae307f997e46ad44884bdab111
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,9 +50,12 @@ record:
     powers…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-08-06-sending-messages-while-cursor-is-working-now-does-a-better-job-of-steering-the-a|cursor-2025-08-06-9e7586]]'
-- '[[Changes/Cursor/2025-08-21-you-can-now-start-background-agents-directly-from-linear-delegate-tasks-to-curso|cursor-2025-08-21-927f5c]]'
-- '[[Changes/Cursor/2025-08-21-get-native-os-notifications-when-an-agent-run-finishes-or-when-input-is-required|cursor-2025-08-21-f36fb1]]'
+- '[[Changes/Cursor/2025-08-06-sending-messages-while-cursor-is-working-now-does-a-better-job-of-steering-the-a|Sending
+  messages while Cursor is working now does a better job of steering the agent]]'
+- '[[Changes/Cursor/2025-08-21-you-can-now-start-background-agents-directly-from-linear-delegate-tasks-to-curso|Start
+  Background Agents directly from Linear]]'
+- '[[Changes/Cursor/2025-08-21-get-native-os-notifications-when-an-agent-run-finishes-or-when-input-is-required|Get
+  native OS notifications when an agent run finishes or when input is required…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-29-introducing-instant-checkout-and-the-agentic-commerce-protocol-6ba1bd7e|chatgpt-2025-09-29-introducing-instant-checkout-and-the-agentic-commerce-protocol-6ba1bd7e]]'
 source_type: chatgpt_changelog
 theme: agent-mode
@@ -58,10 +64,10 @@ title: ChatGPT introduces Instant Checkout and the Agentic Commerce Protocol tha
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # ChatGPT introduces Instant Checkout and the Agentic Commerce Protocol that powers…
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Introducing Instant Checkout and the Agentic Commerce Protocol: We’re introducing Instant Checkout in ChatGPT and the Agentic Commerce Protocol that powers it, built with Stripe.ChatGPT can help you find anything on the web and now with Instant Checkout, you can seamlessly buy directly from the merchant, right in chat. Starting today, U.S. ChatGPT Plus, Pro, and Free users can buy directly from U.S. Etsy sellers through ChatGPT, with over 1 million Shopify merchants, like Glossier, SKIMS, Spanx and Vuori, coming soon.
+**ChatGPT** · 2025-09-29 · [[Themes/agent-mode|Agent Mode]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-09-29-introducing-instant-checkout-and-the-agentic-commerce-protocol-6ba1bd7e|Introducing Instant Checkout and the Agentic Commerce Protocol]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -70,19 +76,26 @@ ChatGPT — Introducing Instant Checkout and the Agentic Commerce Protocol: We�
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2025-09-29-instant-checkout-makes-it-easy-to-go-from-chat-to-checkout-in-just-a-few-taps|Instant Checkout makes it easy to go from chat to checkout in just a few taps]] · Search and Browsing
+- [[Changes/ChatGPT/2025-09-29-ask-chatgpt-a-shopping-question-and-it-finds-organic-unsponsored-product-results|Ask ChatGPT a shopping question and it finds organic, unsponsored product results…]] · Search and Browsing
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: agent-mode
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]
-- Lag Days: 816
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Agent Mode
+
+- Earlier: 2025-08-21 · Cursor · [[Changes/Cursor/2025-08-21-get-native-os-notifications-when-an-agent-run-finishes-or-when-input-is-required|Get native OS notifications when an agent run finishes or when input is required…]]
+- Later: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-cursor-can-now-write-detailed-plans-before-starting-complex-tasks-this-allows-ag|Cursor can now write detailed plans before starting complex tasks]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-09-29-8cbf19&body=Card%3A%20Changes%2FChatGPT%2F2025-09-29-we-re-introducing-instant-checkout-in-chatgpt-and-the-agentic-commerce-protocol-8cbf19.md%0ACard%20ID%3A%20chatgpt-2025-09-29-8cbf19%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

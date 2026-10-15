@@ -1,8 +1,12 @@
 ---
 card_id: cursor-2026-06-17-1edb5b
 date: '2026-06-17'
+description: 'Cursor · 2026-06-17 · Editor Experience: This is especially useful for
+  isolating long-running or parallel work like fixing CI, investigating an issue,
+  or…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|cursor-2023-03-14-24e9bf]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant
+    fix all lint errors with AI 😎]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1191
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: b03fdafdb8654f7f115d15dc288da0fe976bb3fb9b92018d01b665c46f823658
+machine_hash: 0cc30e7034e4e5d70406b9600a228b81de184e1bdfc330e4b2adf0aad4319379
 product: cursor
 product_name: Cursor
 record:
@@ -42,9 +46,12 @@ record:
     fixing…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-22-diff-detail-view-can-now-be-scrolled-with-the-keyboard-arrows-j-k-pgup-pgdn-spac|claude-code-2026-05-22-d23d37]]'
-- '[[Changes/Claude Code/2026-06-02-edit-no-longer-requires-a-separate-read-after-viewing-a-file-with-grep-single-fi|claude-code-2026-06-02-a2671c]]'
-- '[[Changes/Cursor/2026-06-10-review-also-syncs-with-bugbot-on-github-and-gitlab-if-you-run-review-and-then-op|cursor-2026-06-10-ce252c]]'
+- '[[Changes/Claude Code/2026-05-22-diff-detail-view-can-now-be-scrolled-with-the-keyboard-arrows-j-k-pgup-pgdn-spac|/diff
+  detail view can now be scrolled with the keyboard…]]'
+- '[[Changes/Claude Code/2026-06-02-edit-no-longer-requires-a-separate-read-after-viewing-a-file-with-grep-single-fi|Edit
+  no longer requires a separate Read after viewing a file with grep]]'
+- '[[Changes/Cursor/2026-06-10-review-also-syncs-with-bugbot-on-github-and-gitlab-if-you-run-review-and-then-op|/review
+  also syncs with Bugbot on GitHub and GitLab]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-17-3-7-https-cursor-com-changelog-cloud-in-agents-window-d40d64fa|cursor-2026-06-17-3-7-https-cursor-com-changelog-cloud-in-agents-window-d40d64fa]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -53,10 +60,10 @@ title: This is especially useful for isolating long-running or parallel work lik
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # This is especially useful for isolating long-running or parallel work like fixing…
 
-<!-- chronolog:begin region="description" -->
-Cursor — Cloud Environment Setup and Cloud Subagents in Agents Window: This is especially useful for isolating long-running or parallel work like fixing CI, investigating an issue, or exploring a codebase while you keep working locally.
+**Cursor** · 2026-06-17 · [[Themes/editor-experience|Editor Experience]] · [Official source](https://cursor.com/changelog/cloud-in-agents-window) · from [[Releases/Cursor/cursor-2026-06-17-3-7-https-cursor-com-changelog-cloud-in-agents-window-d40d64fa|Cloud Environment Setup and Cloud Subagents in Agents Window]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -65,19 +72,28 @@ Cursor — Cloud Environment Setup and Cloud Subagents in Agents Window: This is
 > Source: https://cursor.com/changelog/cloud-in-agents-window
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2026-06-17-cursor-can-now-help-you-set-up-your-dev-environment-in-the-cloud-in-less-than-10|Cursor can now help you set up your dev environment in the cloud in less than 10 minutes]] · Developer Workflow
+- [[Changes/Cursor/2026-06-17-use-in-cloud-to-spin-up-a-cloud-subagent-in-its-own-vm-to-work-on-the-next-task|Use /in-cloud to spin up a cloud subagent in its own VM to work on the next task you…]] · Agent Mode
+- [[Changes/Cursor/2026-06-17-this-release-introduces-updates-to-cloud-agents-in-the-agents-window-of-the-curs|Cursor introduces updates to cloud agents in the Agents Window of the Cursor desktop app]] · Mobile and Desktop
+- [[Changes/Cursor/2026-06-17-your-environment-is-captured-in-a-reusable-snapshot-so-future-cloud-agents-start|Your environment is captured in a reusable snapshot, so future cloud agents start up…]] · Reliability and Performance
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: editor-experience
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|cursor-2023-03-14-24e9bf]]
-- Lag Days: 1191
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Editor Experience
+
+- Earlier: 2026-06-10 · Cursor · [[Changes/Cursor/2026-06-10-review-also-syncs-with-bugbot-on-github-and-gitlab-if-you-run-review-and-then-op|/review also syncs with Bugbot on GitHub and GitLab]]
+- Later: 2026-06-25 · Claude Code · [[Changes/Claude Code/2026-06-25-added-live-file-path-autocomplete-to-bash-mode|Added live file path autocomplete to bash mode (!)]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all lint errors with AI 😎]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2026-06-17-1edb5b&body=Card%3A%20Changes%2FCursor%2F2026-06-17-this-is-especially-useful-for-isolating-long-running-or-parallel-work-like-fixin.md%0ACard%20ID%3A%20cursor-2026-06-17-1edb5b%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2Fcloud-in-agents-window%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

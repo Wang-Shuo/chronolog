@@ -1,10 +1,12 @@
 ---
 changes_count: 0
 date: '2023-10-03'
-machine_hash: 1d9c4e258c850a535d2445f95d7a6413f3899fe173d06c5af41d7a9b89df0ad8
+description: 'Cursor release Jupyter Import Fix on 2023-10-03: no tracked changes'
+machine_hash: 917b089a7b457bddd5b6654e8a095c1c20473812843377bdfa114b5cde98fad5
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2023-10-03'
   product: cursor
   product_name: Cursor
@@ -22,19 +24,21 @@ source_url: https://cursor.com/changelog/0-12-9-nightly
 tags:
 - release
 - cursor
-title: Cursor — Jupyter Import Fix
+title: Cursor · Jupyter Import Fix
 version: 0.12.9-nightly
 ---
 
-# Cursor Jupyter Import Fix
+<!-- chronolog:begin region="header" -->
+# Cursor · Jupyter Import Fix
+
+**Cursor** · 2023-10-03 · [Official release notes](https://cursor.com/changelog/0-12-9-nightly)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Fixes a bug that prevents importing the jupyter extension from VS Code.
 
-[Official release notes](https://cursor.com/changelog/0-12-9-nightly)
-
-Tracked cards: 0
+Tracked 0 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

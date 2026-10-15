@@ -1,10 +1,13 @@
 ---
 changes_count: 5
 date: '2023-04-06'
-machine_hash: c4a04dde398c9778c7a1d9528c3287761808b1e47beba074281a4bb5e8c46d0a
+description: 'Cursor release Introducing Cursor 0.2.0! (2023-04-06) on 2023-04-06:
+  5 tracked changes across Editor Experience'
+machine_hash: f627dc0ed46c0d8cf30eab65998b5c45735016762e19d8407d730a2e491f2484
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 6
   date: '2023-04-06'
   product: cursor
   product_name: Cursor
@@ -22,26 +25,28 @@ source_url: https://cursor.com/changelog/0-2-0
 tags:
 - release
 - cursor
-title: Cursor — Introducing Cursor 0.2.0! (2023-04-06)
+title: Cursor · Introducing Cursor 0.2.0! (2023-04-06)
 version: 0.2.0
 ---
 
-# Cursor Introducing Cursor 0.2.0! (2023-04-06)
+<!-- chronolog:begin region="header" -->
+# Cursor · Introducing Cursor 0.2.0! (2023-04-06)
+
+**Cursor** · 2023-04-06 · [Official release notes](https://cursor.com/changelog/0-2-0)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 We've transitioned to building Cursor on top of a fork of VSCodium, moving away from our previous Codemirror-based approach.
 
-[Official release notes](https://cursor.com/changelog/0-2-0)
-
-Tracked cards: 5
+Tracked 5 of 6 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- editor-experience: [[Changes/Cursor/2023-04-06-while-currently-similar-to-a-standard-code-editor-with-ai-features-we-plan-to-ev|While currently similar to a standard code editor with AI features, we plan…]]
-- editor-experience: [[Changes/Cursor/2023-04-06-this-allows-us-to-focus-on-ai-features-while-leveraging-vs-code-s-mature-text-ed|This allows us to focus on AI features while leveraging VS Code's mature text…]]
-- editor-experience: [[Changes/Cursor/2023-04-06-transitioned-to-building-cursor-on-top-of-a-fork-of-vscodium|Transitioned to building Cursor on top of a fork of VSCodium]]
-- editor-experience: [[Changes/Cursor/2023-04-06-we-ve-transitioned-to-building-cursor-on-top-of-a-fork-of-vscodium-moving-away-f|We've transitioned to building Cursor on top of a fork of VSCodium, moving away…]]
-- editor-experience: [[Changes/Cursor/2023-04-06-our-goal-is-to-create-an-ide-optimized-for-pair-programming-with-ai|Our goal is to create an IDE optimized for pair-programming with AI]]
+- [[Changes/Cursor/2023-04-06-while-currently-similar-to-a-standard-code-editor-with-ai-features-we-plan-to-ev|While currently similar to a standard code editor with AI features, we plan…]] · Editor Experience
+- [[Changes/Cursor/2023-04-06-this-allows-us-to-focus-on-ai-features-while-leveraging-vs-code-s-mature-text-ed|This allows us to focus on AI features while leveraging VS Code's mature text…]] · Editor Experience
+- [[Changes/Cursor/2023-04-06-transitioned-to-building-cursor-on-top-of-a-fork-of-vscodium|Transitioned to building Cursor on top of a fork of VSCodium]] · Editor Experience
+- [[Changes/Cursor/2023-04-06-we-ve-transitioned-to-building-cursor-on-top-of-a-fork-of-vscodium-moving-away-f|We've transitioned to building Cursor on top of a fork of VSCodium, moving away…]] · Editor Experience
+- [[Changes/Cursor/2023-04-06-our-goal-is-to-create-an-ide-optimized-for-pair-programming-with-ai|Our goal is to create an IDE optimized for pair-programming with AI]] · Editor Experience
 <!-- chronolog:end -->

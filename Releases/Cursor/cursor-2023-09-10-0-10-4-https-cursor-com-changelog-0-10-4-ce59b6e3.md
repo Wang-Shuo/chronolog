@@ -1,10 +1,13 @@
 ---
 changes_count: 0
 date: '2023-09-10'
-machine_hash: 74c2c8a7528b20eefb4205f902da1591ae148dac822e3f1367fe74eb65e8874a
+description: 'Cursor release Fixed builtin cursor-python defaults on 2023-09-10: no
+  tracked changes'
+machine_hash: 41042b340134d8b604413fde1bec97039436423ab8eeb8a14410dd619ada0ece
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 2
   date: '2023-09-10'
   product: cursor
   product_name: Cursor
@@ -22,19 +25,21 @@ source_url: https://cursor.com/changelog/0-10-4
 tags:
 - release
 - cursor
-title: Cursor — Fixed builtin cursor-python defaults
+title: Cursor · Fixed builtin cursor-python defaults
 version: 0.10.4
 ---
 
-# Cursor Fixed builtin cursor-python defaults
+<!-- chronolog:begin region="header" -->
+# Cursor · Fixed builtin cursor-python defaults
+
+**Cursor** · 2023-09-10 · [Official release notes](https://cursor.com/changelog/0-10-4)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 The defaults for cursor python are different than pylance, which has affected several users. We make them
 
-[Official release notes](https://cursor.com/changelog/0-10-4)
-
-Tracked cards: 0
+Tracked 0 of 2 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

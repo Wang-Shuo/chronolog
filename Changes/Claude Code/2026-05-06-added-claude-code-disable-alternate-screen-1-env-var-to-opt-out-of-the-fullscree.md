@@ -1,8 +1,11 @@
 ---
 card_id: claude-code-2026-05-06-6aaf8f
 date: '2026-05-06'
+description: 'Claude Code · 2026-05-06 · Interface Experience: Added `CLAUDE_CODE_DISABLE_ALTERNATE_SCREEN=1`
+  env var to opt out of the fullscreen alternate-screen renderer…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
+    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1213
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: bbdcbb205495bcfeb8a61adc72c38f2096ff07f3f07cf3b89530294bb3429fe2
+machine_hash: 1eb4db647382eabeb3ae1960755e89bd010d92d36da64173bff56c8c12aac19f
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,9 +53,12 @@ record:
     fullscreen…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-28-fullscreen-mode-typing-into-the-prompt-no-longer-jumps-scroll-back-to-the-bottom|claude-code-2026-04-28-8a2fb3]]'
-- '[[Changes/Claude Code/2026-05-04-bare-color-no-args-now-picks-a-random-session-color|claude-code-2026-05-04-7e0d02]]'
-- '[[Changes/Claude Code/2026-05-06-added-claude-code-force-sync-output-1-env-var-to-force-enable-synchronized-outpu|claude-code-2026-05-06-652aeb]]'
+- '[[Changes/Claude Code/2026-04-28-fullscreen-mode-typing-into-the-prompt-no-longer-jumps-scroll-back-to-the-bottom|Fullscreen
+  mode: typing into the prompt no longer jumps scroll back to the bottom…]]'
+- '[[Changes/Claude Code/2026-05-04-bare-color-no-args-now-picks-a-random-session-color|Bare
+  /color (no args) now picks a random session color]]'
+- '[[Changes/Claude Code/2026-05-06-added-claude-code-force-sync-output-1-env-var-to-force-enable-synchronized-outpu|Added
+  CLAUDE_CODE_FORCE_SYNC_OUTPUT=1 env var to force-enable synchronized output…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-06-v2-1-132-github-318578987-ed60d664|claude-code-2026-05-06-v2-1-132-github-318578987-ed60d664]]'
 source_type: github_releases
 theme: interface-experience
@@ -60,10 +66,10 @@ title: Added CLAUDE_CODE_DISABLE_ALTERNATE_SCREEN=1 env var to opt out of the fu
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Added `CLAUDE_CODE_DISABLE_ALTERNATE_SCREEN=1` env var to opt out of the fullscreen…
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.132: Added `CLAUDE_CODE_DISABLE_ALTERNATE_SCREEN=1` env var to opt out of the fullscreen alternate-screen renderer and keep the conversation in the terminal's native scrollback
+**Claude Code** · 2026-05-06 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.132) · from [[Releases/Claude Code/claude-code-2026-05-06-v2-1-132-github-318578987-ed60d664|v2.1.132]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -72,19 +78,28 @@ Claude Code — v2.1.132: Added `CLAUDE_CODE_DISABLE_ALTERNATE_SCREEN=1` env var
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.132
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-05-06-added-claude-code-session-id-environment-variable-to-the-bash-tool-subprocess-en|Added CLAUDE_CODE_SESSION_ID environment variable to the Bash tool subprocess…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-05-06-improved-visual-consistency-in-slash-command-dialogs-and-login-upgrade-extra-usa|Improved visual consistency in slash command dialogs and /login, /upgrade…]] · Account and Access
+- [[Changes/Claude Code/2026-05-06-fixed-permission-mode-flag-being-ignored-when-resuming-a-plan-mode-session-with|Fixed --permission-mode flag being ignored when resuming a plan-mode session…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-05-06-added-a-pasting-footer-hint-while-a-ctrl-v-image-paste-is-being-read-from-the-cl|Added a "Pasting…" footer hint while a Ctrl+V image paste is being read from the clipboard]] · Interface Experience
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: interface-experience
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]
-- Lag Days: 1213
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Interface Experience
+
+- Earlier: 2026-05-06 · Claude Code · [[Changes/Claude Code/2026-05-06-added-claude-code-force-sync-output-1-env-var-to-force-enable-synchronized-outpu|Added CLAUDE_CODE_FORCE_SYNC_OUTPUT=1 env var to force-enable synchronized output…]]
+- Later: 2026-05-07 · Claude Code · [[Changes/Claude Code/2026-05-07-improved-focus-mode-behavior|Improved focus mode behavior]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-05-06-6aaf8f&body=Card%3A%20Changes%2FClaude%20Code%2F2026-05-06-added-claude-code-disable-alternate-screen-1-env-var-to-opt-out-of-the-fullscree.md%0ACard%20ID%3A%20claude-code-2026-05-06-6aaf8f%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.132%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

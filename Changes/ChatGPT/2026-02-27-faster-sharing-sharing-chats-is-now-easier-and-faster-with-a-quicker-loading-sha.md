@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2026-02-27-4554e1
 date: '2026-02-27'
+description: 'ChatGPT · 2026-02-27 · Reliability and Performance: Faster sharing.
+  Sharing chats is now easier and faster, with a quicker-loading share menu.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|chatgpt-2022-12-15-9c6f9c]]'
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
+    performance: Among other improvements, users will notice that ChatGPT is now…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1170
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: fe67d34f0c751e275716982a26e268d0ef285a106e229f4dec4a6248223f4aa0
+machine_hash: aab4d3959f196623a3298c9c9d3aaacda20f4343eca7be6e1ef0b8e5dcbed022
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,9 +56,12 @@ record:
     share menu
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-19-improved-performance-in-non-interactive-mode-p-by-skipping-unnecessary-api-calls|claude-code-2026-02-19-4f3f6a]]'
-- '[[Changes/Claude Code/2026-02-20-improved-memory-usage-during-long-sessions-by-clearing-internal-caches-after-com|claude-code-2026-02-20-6d4065]]'
-- '[[Changes/Claude Code/2026-02-26-improved-memory-usage-in-multi-agent-sessions-by-releasing-completed-subagent-ta|claude-code-2026-02-26-6d6fdb]]'
+- '[[Changes/Claude Code/2026-02-19-improved-performance-in-non-interactive-mode-p-by-skipping-unnecessary-api-calls|Improved
+  performance in non-interactive mode (-p) by skipping unnecessary API…]]'
+- '[[Changes/Claude Code/2026-02-20-improved-memory-usage-during-long-sessions-by-clearing-internal-caches-after-com|Improved
+  memory usage during long sessions by clearing internal caches after compaction]]'
+- '[[Changes/Claude Code/2026-02-26-improved-memory-usage-in-multi-agent-sessions-by-releasing-completed-subagent-ta|Improved
+  memory usage in multi-agent sessions by releasing completed subagent task state]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-27-chatgpt-web-and-android-updates-edit-image-prompts-share-faster-abef696c|chatgpt-2026-02-27-chatgpt-web-and-android-updates-edit-image-prompts-share-faster-abef696c]]'
 source_type: chatgpt_changelog
 theme: reliability-performance
@@ -64,10 +70,10 @@ title: Faster sharing. Sharing chats is now easier and faster, with a quicker-lo
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Faster sharing. Sharing chats is now easier and faster, with a quicker-loading share menu
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — ChatGPT Web and Android updates: Edit image prompts, share faster, and smoother conversations: Faster sharing. Sharing chats is now easier and faster, with a quicker-loading share menu.
+**ChatGPT** · 2026-02-27 · [[Themes/reliability-performance|Reliability and Performance]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-02-27-chatgpt-web-and-android-updates-edit-image-prompts-share-faster-abef696c|ChatGPT Web and Android updates: Edit image prompts, share faster, and smoother conversations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -76,19 +82,28 @@ ChatGPT — ChatGPT Web and Android updates: Edit image prompts, share faster, a
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2026-02-27-automatic-scroll-to-latest-message-existing-conversations-now-automatically-scro|Automatic scroll to latest message]] · Interface Experience
+- [[Changes/ChatGPT/2026-02-27-open-search-results-in-a-new-tab-cmd-click-in-the-search-panel-now-opens-results|Open search results in a new tab]] · Search and Browsing
+- [[Changes/ChatGPT/2026-02-27-export-visuals-from-code-blocks-flowcharts-diagrams-and-data-visualizations-crea|Export visuals from Code Blocks]] · Files and Data
+- [[Changes/ChatGPT/2026-02-27-edit-messages-with-images-you-can-now-edit-messages-that-include-image-attachmen|Edit messages with images]] · Editor Experience
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: reliability-performance
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|chatgpt-2022-12-15-9c6f9c]]
-- Lag Days: 1170
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Reliability and Performance
+
+- Earlier: 2026-02-26 · Claude Code · [[Changes/Claude Code/2026-02-26-improved-memory-usage-in-multi-agent-sessions-by-releasing-completed-subagent-ta|Improved memory usage in multi-agent sessions by releasing completed subagent task state]]
+- Later: 2026-03-06 · Claude Code · [[Changes/Claude Code/2026-03-06-reduced-prompt-input-re-renders-during-turns-by-74|Reduced prompt input re-renders during turns by ~74%]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-02-27-4554e1&body=Card%3A%20Changes%2FChatGPT%2F2026-02-27-faster-sharing-sharing-chats-is-now-easier-and-faster-with-a-quicker-loading-sha.md%0ACard%20ID%3A%20chatgpt-2026-02-27-4554e1%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

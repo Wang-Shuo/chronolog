@@ -1,10 +1,13 @@
 ---
 changes_count: 0
 date: '2025-01-14'
-machine_hash: 4b376ed4d438184b3bfd2b424cf3aca55c3bfd33805a7a617553e22c72534181
+description: 'ChatGPT release Scheduled tasks in ChatGPT on 2025-01-14: no tracked
+  changes'
+machine_hash: 27a139be219a008f21cae6dcba1335e461781ab7c859dc2867d59e827f236d39
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 1
   date: '2025-01-14'
   product: chatgpt
   product_name: ChatGPT
@@ -25,19 +28,21 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Scheduled tasks in ChatGPT
+title: ChatGPT · Scheduled tasks in ChatGPT
 version: Scheduled tasks in ChatGPT
 ---
 
-# ChatGPT Scheduled tasks in ChatGPT
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Scheduled tasks in ChatGPT
+
+**ChatGPT** · 2025-01-14 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Today we’re rolling out a beta version of tasks—a new way to ask ChatGPT to do things for you at a future time. Whether it's one-time reminders or recurring actions, tell ChatGPT what you need and when, and it will automatically take care of it.Scheduled tasks is in early beta for Plus, Pro, and Teams. Eventually this…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 0
+Tracked 0 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

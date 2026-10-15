@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2023-07-22-fec6b0
 date: '2023-07-22'
+description: 'Cursor · 2023-07-22 · Editor Experience: Cmd-K can again see all of
+  your cells in Jupyter!'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|cursor-2023-03-14-24e9bf]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant
+    fix all lint errors with AI 😎]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 130
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 66de4c752ec46ab71173017d57283523f457f75c329903ec7ce0fdcb0a367b6d
+machine_hash: 8b14a0bc87ecbb2ee6eb8d67986bede04d4643c27cbaa138406c50456a711c9d
 product: cursor
 product_name: Cursor
 record:
@@ -36,9 +39,10 @@ record:
   title: Cmd-K can again see all of your cells in Jupyter!
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-12-semantic-search-in-cmd-shift-f|cursor-2023-07-12-427c92]]'
-- '[[Changes/Cursor/2023-07-19-a-better-flow-for-getting-cmd-k-to-produce-code-with-no-linter-errors-you-should|cursor-2023-07-19-b6f719]]'
-- '[[Changes/Cursor/2023-07-19-some-ui-ux-tweaks-to-cmd-k|cursor-2023-07-19-f27fbe]]'
+- '[[Changes/Cursor/2023-07-12-semantic-search-in-cmd-shift-f|Semantic search in Cmd-Shift-F]]'
+- '[[Changes/Cursor/2023-07-19-a-better-flow-for-getting-cmd-k-to-produce-code-with-no-linter-errors-you-should|A
+  better flow for getting CMD-k to produce code with no linter errors…]]'
+- '[[Changes/Cursor/2023-07-19-some-ui-ux-tweaks-to-cmd-k|Some UI/UX tweaks to CMD-K]]'
 source_release: '[[Releases/Cursor/cursor-2023-07-22-0-3-1-https-cursor-com-changelog-0-3-1-9afe11b9|cursor-2023-07-22-0-3-1-https-cursor-com-changelog-0-3-1-9afe11b9]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -46,10 +50,10 @@ title: Cmd-K can again see all of your cells in Jupyter!
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Cmd-K can again see all of your cells in Jupyter!
 
-<!-- chronolog:begin region="description" -->
-Cursor — Jupyter CMD-k Context Building: Cmd-K can again see all of your cells in Jupyter!
+**Cursor** · 2023-07-22 · [[Themes/editor-experience|Editor Experience]] · [Official source](https://cursor.com/changelog/0-3-1) · from [[Releases/Cursor/cursor-2023-07-22-0-3-1-https-cursor-com-changelog-0-3-1-9afe11b9|Jupyter CMD-k Context Building]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -58,19 +62,23 @@ Cursor — Jupyter CMD-k Context Building: Cmd-K can again see all of your cells
 > Source: https://cursor.com/changelog/0-3-1
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: editor-experience
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|cursor-2023-03-14-24e9bf]]
-- Lag Days: 130
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Editor Experience
+
+- Earlier: 2023-07-19 · Cursor · [[Changes/Cursor/2023-07-19-some-ui-ux-tweaks-to-cmd-k|Some UI/UX tweaks to CMD-K]]
+- Later: 2023-07-27 · Cursor · [[Changes/Cursor/2023-07-27-experimental-codebase-support-in-the-chat-and-coming-to-the-cmd-k-soon|Experimental @Codebase support in the chat (and coming to the cmd-k soon!)]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all lint errors with AI 😎]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2023-07-22-fec6b0&body=Card%3A%20Changes%2FCursor%2F2023-07-22-cmd-k-can-again-see-all-of-your-cells-in-jupyter.md%0ACard%20ID%3A%20cursor-2023-07-22-fec6b0%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F0-3-1%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

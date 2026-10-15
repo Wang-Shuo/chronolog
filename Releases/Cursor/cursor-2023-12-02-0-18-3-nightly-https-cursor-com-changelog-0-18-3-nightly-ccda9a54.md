@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2023-12-02'
-machine_hash: a9449650b10c689b983a3f42517683aa6fca58439cb6fc8cf5fae17a2bae2bfd
+description: 'Cursor release Smarter Followups on 2023-12-02: 1 tracked change across
+  Editor Experience'
+machine_hash: e0639090a0577c1af6f63db0d4269d4ab0605074440eab6caae102944d8f57ae
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2023-12-02'
   product: cursor
   product_name: Cursor
@@ -22,22 +25,24 @@ source_url: https://cursor.com/changelog/0-18-3-nightly
 tags:
 - release
 - cursor
-title: Cursor — Smarter Followups
+title: Cursor · Smarter Followups
 version: 0.18.3-nightly
 ---
 
-# Cursor Smarter Followups
+<!-- chronolog:begin region="header" -->
+# Cursor · Smarter Followups
+
+**Cursor** · 2023-12-02 · [Official release notes](https://cursor.com/changelog/0-18-3-nightly)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Running Cmd+enter on followups should result in much better codebase results.
 
-[Official release notes](https://cursor.com/changelog/0-18-3-nightly)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- editor-experience: [[Changes/Cursor/2023-12-02-running-cmd-enter-on-followups-should-result-in-much-better-codebase-results|Running Cmd+enter on followups should result in much better codebase results]]
+- [[Changes/Cursor/2023-12-02-running-cmd-enter-on-followups-should-result-in-much-better-codebase-results|Running Cmd+enter on followups should result in much better codebase results]] · Editor Experience
 <!-- chronolog:end -->

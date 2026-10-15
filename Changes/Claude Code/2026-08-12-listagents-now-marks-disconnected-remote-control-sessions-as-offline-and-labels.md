@@ -1,8 +1,12 @@
 ---
 card_id: claude-code-2026-08-12-5f8233
 date: '2026-08-12'
+description: 'Claude Code · 2026-08-12 · Apps and Integrations: `ListAgents` now marks
+  disconnected Remote Control sessions as `offline` and labels your cloud sessions
+  as…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
+    can join the waitlist to try plugins here]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1238
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 94d67eb9a12274fe592007d3706d75c34a9ae8360ba5544d2d636947d676b68a
+machine_hash: ac0a31d954213ce702eb979a8ad5f8da7c704af072d15b73fffab44d334afeea
 product: claude-code
 product_name: Claude Code
 record:
@@ -40,9 +44,12 @@ record:
     and labels…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-11-improved-cross-session-messages-the-sender-and-body-now-display-inline-instead-o|claude-code-2026-08-11-08cd3b]]'
-- '[[Changes/Claude Code/2026-08-11-hardened-skills-synced-from-claude-ai-they-no-longer-shadow-local-commands-or-mc|claude-code-2026-08-11-731f30]]'
-- '[[Changes/Claude Code/2026-08-12-added-plugin-marketplace-command-sources-a-local-command-e-g-an-ide-prints-the-p|claude-code-2026-08-12-5a7eeb]]'
+- '[[Changes/Claude Code/2026-08-11-improved-cross-session-messages-the-sender-and-body-now-display-inline-instead-o|Improved
+  cross-session messages]]'
+- '[[Changes/Claude Code/2026-08-11-hardened-skills-synced-from-claude-ai-they-no-longer-shadow-local-commands-or-mc|Hardened
+  skills synced from claude.ai]]'
+- '[[Changes/Claude Code/2026-08-12-added-plugin-marketplace-command-sources-a-local-command-e-g-an-ide-prints-the-p|Added
+  plugin marketplace command sources]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-12-v2-1-229-github-369475532-b063933d|claude-code-2026-08-12-v2-1-229-github-369475532-b063933d]]'
 source_type: github_releases
 theme: apps-integrations
@@ -50,10 +57,10 @@ title: ListAgents now marks disconnected Remote Control sessions as offline and 
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # `ListAgents` now marks disconnected Remote Control sessions as `offline` and labels…
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.229: `ListAgents` now marks disconnected Remote Control sessions as `offline` and labels your cloud sessions as `cloud`
+**Claude Code** · 2026-08-12 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.229) · from [[Releases/Claude Code/claude-code-2026-08-12-v2-1-229-github-369475532-b063933d|v2.1.229]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -62,19 +69,26 @@ Claude Code — v2.1.229: `ListAgents` now marks disconnected Remote Control ses
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.229
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-08-12-added-plugin-marketplace-command-sources-a-local-command-e-g-an-ide-prints-the-p|Added plugin marketplace command sources]] · Apps and Integrations
+- [[Changes/Claude Code/2026-08-12-documented-claude-remote-control-continue-for-resuming-the-most-recent-remote-co|Documented claude remote-control --continue for resuming the most recent Remote…]] · Apps and Integrations
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: apps-integrations
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]
-- Lag Days: 1238
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Apps and Integrations
+
+- Earlier: 2026-08-11 · Claude Code · [[Changes/Claude Code/2026-08-11-hardened-skills-synced-from-claude-ai-they-no-longer-shadow-local-commands-or-mc|Hardened skills synced from claude.ai]]
+- Later: 2026-08-14 · Claude Code · [[Changes/Claude Code/2026-08-14-added-an-opt-in-forward-user-identity-apps-gateway-setting-on-anthropic-upstream|Added an opt-in forward_user_identity apps gateway setting on Anthropic upstreams…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-08-12-5f8233&body=Card%3A%20Changes%2FClaude%20Code%2F2026-08-12-listagents-now-marks-disconnected-remote-control-sessions-as-offline-and-labels.md%0ACard%20ID%3A%20claude-code-2026-08-12-5f8233%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.229%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

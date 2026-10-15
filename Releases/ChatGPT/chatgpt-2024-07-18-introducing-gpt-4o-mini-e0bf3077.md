@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2024-07-18'
-machine_hash: 808203d880246c29104d5f59dfdd49f1b83652b3ff4184df0f8ef5814cf02498
+description: 'ChatGPT release Introducing GPT-4o mini on 2024-07-18: 1 tracked change
+  across Model Support'
+machine_hash: 6971f8362f1d751fb68cbb1f3f1ecabe34c4ff9a1fd9f433260791bbce1b981f
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 1
   date: '2024-07-18'
   product: chatgpt
   product_name: ChatGPT
@@ -25,22 +28,24 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Introducing GPT-4o mini
+title: ChatGPT · Introducing GPT-4o mini
 version: Introducing GPT-4o mini
 ---
 
-# ChatGPT Introducing GPT-4o mini
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Introducing GPT-4o mini
+
+**ChatGPT** · 2024-07-18 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 We’re introducing GPT-4o mini, the most capable and cost-efficient small model available today. GPT-4o mini surpasses GPT-3.5 Turbo and other small models on academic benchmarks across both textual intelligence and multimodal reasoning and supports the same range of languages as GPT-4o. It also demonstrates strong…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2024-07-18-we-re-introducing-gpt-4o-mini-the-most-capable-and-cost-efficient-small-model-av-af297b|ChatGPT introduces GPT-4o mini, the most capable and cost-efficient small model…]]
+- [[Changes/ChatGPT/2024-07-18-we-re-introducing-gpt-4o-mini-the-most-capable-and-cost-efficient-small-model-av-af297b|ChatGPT introduces GPT-4o mini, the most capable and cost-efficient small model…]] · Model Support
 <!-- chronolog:end -->

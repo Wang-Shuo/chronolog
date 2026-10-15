@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2023-05-09-fcfb7b
 date: '2023-05-09'
+description: 'Cursor · 2023-05-09 · Interface Experience: Includes some updates to
+  "Option+Enter" in the chat'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
+    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 120
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 2b6a1332d82863a9117a1cc37b06237deb01e9f9674e43343575b43d74379572
+machine_hash: 76a0fea72e392b3944109d6d7277bdb549f66bcfd55a549f1241da7c56adddfe
 product: cursor
 product_name: Cursor
 record:
@@ -38,9 +41,11 @@ record:
   title: Includes some updates to "Option+Enter" in the chat
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-03-30-cleaned-up-chat-styling|cursor-2023-03-30-54bb0c]]'
-- '[[Changes/ChatGPT/2023-05-03-you-can-now-turn-off-chat-history-and-export-your-data-from-the-chatgpt-settings|chatgpt-2023-05-03-96ffb8]]'
-- '[[Changes/Cursor/2023-05-04-added-the-ability-to-hide-the-tooltip-cursor-config-advanced-chat-edit-tooltip|cursor-2023-05-04-8b05df]]'
+- '[[Changes/Cursor/2023-03-30-cleaned-up-chat-styling|Cleaned up chat styling]]'
+- '[[Changes/ChatGPT/2023-05-03-you-can-now-turn-off-chat-history-and-export-your-data-from-the-chatgpt-settings|Turn
+  off chat history and export your data from the ChatGPT settings]]'
+- '[[Changes/Cursor/2023-05-04-added-the-ability-to-hide-the-tooltip-cursor-config-advanced-chat-edit-tooltip|Added
+  the ability to hide the tooltip (Cursor config  Advanced  Chat/Edit Tooltip)]]'
 source_release: '[[Releases/Cursor/cursor-2023-05-09-0-2-11-https-cursor-com-changelog-0-2-11-c9d7431c|cursor-2023-05-09-0-2-11-https-cursor-com-changelog-0-2-11-c9d7431c]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -48,10 +53,10 @@ title: Includes some updates to "Option+Enter" in the chat
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Includes some updates to "Option+Enter" in the chat
 
-<!-- chronolog:begin region="description" -->
-Cursor — Enhanced Chat Experience (2023-05-09): Includes some updates to "Option+Enter" in the chat
+**Cursor** · 2023-05-09 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://cursor.com/changelog/0-2-11) · from [[Releases/Cursor/cursor-2023-05-09-0-2-11-https-cursor-com-changelog-0-2-11-c9d7431c|Enhanced Chat Experience (2023-05-09)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -60,19 +65,23 @@ Cursor — Enhanced Chat Experience (2023-05-09): Includes some updates to "Opti
 > Source: https://cursor.com/changelog/0-2-11
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: interface-experience
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]
-- Lag Days: 120
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Interface Experience
+
+- Earlier: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-added-the-ability-to-hide-the-tooltip-cursor-config-advanced-chat-edit-tooltip|Added the ability to hide the tooltip (Cursor config  Advanced  Chat/Edit Tooltip)]]
+- Later: 2023-05-20 · Cursor · [[Changes/Cursor/2023-05-20-we-ve-added-a-new-feedback-button-at-the-top-right-of-the-app-we-really-do|Cursor adds a new feedback button at the top right of the app]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2023-05-09-fcfb7b&body=Card%3A%20Changes%2FCursor%2F2023-05-09-includes-some-updates-to-option-enter-in-the-chat.md%0ACard%20ID%3A%20cursor-2023-05-09-fcfb7b%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F0-2-11%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

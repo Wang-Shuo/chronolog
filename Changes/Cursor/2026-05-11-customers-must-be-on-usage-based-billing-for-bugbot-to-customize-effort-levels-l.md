@@ -1,8 +1,12 @@
 ---
 card_id: cursor-2026-05-11-aea5c1
 date: '2026-05-11'
+description: 'Cursor · 2026-05-11 · Pricing Model: Customers must be on usage-based
+  billing for Bugbot to customize effort levels. Learn more in our docs and go to
+  your…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|chatgpt-2022-12-15-6d306d]]'
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
+    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1243
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3efc37851c6cf8d0f11b7a8907ebabc5501f82727b961f90e7f074dbbc2021d9
+machine_hash: 3e73f21367c08e4f7a31008c32d493d7ba0d8fea218a9941f2fe883cfaf71814
 product: cursor
 product_name: Cursor
 record:
@@ -38,9 +42,12 @@ record:
   title: Customers must be on usage-based billing for Bugbot to customize effort levels
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-04-09-plus-20-month-plus-remains-best-for-steady-day-to-day-use-as-the-temporary-codex|chatgpt-2026-04-09-66d25c]]'
-- '[[Changes/ChatGPT/2026-04-09-pro-200-month-our-highest-usage-option-remains-available-and-continues-on-its-cu|chatgpt-2026-04-09-6c3292]]'
-- '[[Changes/ChatGPT/2026-04-09-you-can-upgrade-switch-or-cancel-your-plan-from-settings-my-plan-or-from-the-pri|chatgpt-2026-04-09-c070f4]]'
+- '[[Changes/ChatGPT/2026-04-09-plus-20-month-plus-remains-best-for-steady-day-to-day-use-as-the-temporary-codex|Plus
+  ($20/month): Plus remains best for steady, day-to-day use]]'
+- '[[Changes/ChatGPT/2026-04-09-pro-200-month-our-highest-usage-option-remains-available-and-continues-on-its-cu|Pro
+  ($200/month): Our highest-usage option remains available and continues…]]'
+- '[[Changes/ChatGPT/2026-04-09-you-can-upgrade-switch-or-cancel-your-plan-from-settings-my-plan-or-from-the-pri|You
+  can upgrade, switch, or cancel your plan from Settings  My Plan or…]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-11-bugbot-effort-levels-https-cursor-com-changelog-05-11-26-b41d8617|cursor-2026-05-11-bugbot-effort-levels-https-cursor-com-changelog-05-11-26-b41d8617]]'
 source_type: cursor_changelog
 theme: pricing-model
@@ -48,10 +55,10 @@ title: Customers must be on usage-based billing for Bugbot to customize effort l
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Customers must be on usage-based billing for Bugbot to customize effort levels
 
-<!-- chronolog:begin region="description" -->
-Cursor — Bugbot Effort Levels: Customers must be on usage-based billing for Bugbot to customize effort levels. Learn more in our docs and go to your Bugbot dashboard to get started.
+**Cursor** · 2026-05-11 · [[Themes/pricing-model|Pricing Model]] · [Official source](https://cursor.com/changelog/05-11-26) · from [[Releases/Cursor/cursor-2026-05-11-bugbot-effort-levels-https-cursor-com-changelog-05-11-26-b41d8617|Bugbot Effort Levels]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -60,19 +67,28 @@ Cursor — Bugbot Effort Levels: Customers must be on usage-based billing for Bu
 > Source: https://cursor.com/changelog/05-11-26
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2026-05-11-high-bugbot-spends-more-time-reasoning-reviews-are-more-expensive-and-take-longe|High: Bugbot spends more time reasoning]] · Model Support
+- [[Changes/Cursor/2026-05-11-custom-describe-in-natural-language-when-bugbot-should-use-default-or-high-effor|Custom: Describe in natural language when Bugbot should use default or high effort]] · Model Support
+- [[Changes/Cursor/2026-05-11-teams-admins-and-individual-plan-users-can-now-customize-the-effort-level-bugbot|Teams admins and Individual plan users can now customize the effort level Bugbot…]] · Enterprise and Administration
+- [[Changes/Cursor/2026-05-11-default-bugbot-continues-to-use-the-same-effort-level-as-it-does-today-optimized|Default: Bugbot continues to use the same effort level as it does today]] · Reliability and Performance
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: pricing-model
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|chatgpt-2022-12-15-6d306d]]
-- Lag Days: 1243
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Pricing Model
+
+- Earlier: 2026-04-09 · ChatGPT · [[Changes/ChatGPT/2026-04-09-you-can-upgrade-switch-or-cancel-your-plan-from-settings-my-plan-or-from-the-pri|You can upgrade, switch, or cancel your plan from Settings  My Plan or…]]
+- Later: 2026-05-15 · Claude Code · [[Changes/Claude Code/2026-05-15-added-projected-context-cost-per-turn-and-per-invocation-token-estimates-to-the|Added projected context cost (per-turn and per-invocation token estimates)…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2026-05-11-aea5c1&body=Card%3A%20Changes%2FCursor%2F2026-05-11-customers-must-be-on-usage-based-billing-for-bugbot-to-customize-effort-levels-l.md%0ACard%20ID%3A%20cursor-2026-05-11-aea5c1%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F05-11-26%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

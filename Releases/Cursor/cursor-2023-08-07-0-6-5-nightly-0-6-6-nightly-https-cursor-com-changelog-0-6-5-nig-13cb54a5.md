@@ -1,10 +1,12 @@
 ---
 changes_count: 0
 date: '2023-08-07'
-machine_hash: c51a1a1e9240715912f5b021c662c0b0f45d642cd026ce8c424ed45e02f302a2
+description: 'Cursor release New cmd-K keybindings on 2023-08-07: no tracked changes'
+machine_hash: b4a7dee7abf5457d252d6690ca098fcda93d53c8a0a8b5d8aea1ba7a1a220df3
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2023-08-07'
   product: cursor
   product_name: Cursor
@@ -21,19 +23,21 @@ source_url: https://cursor.com/changelog/0-6-5-nightly-0-6-6-nightly
 tags:
 - release
 - cursor
-title: Cursor — New cmd-K keybindings
+title: Cursor · New cmd-K keybindings
 version: 0.6.5-nightly-0.6.6-nightly
 ---
 
-# Cursor New cmd-K keybindings
+<!-- chronolog:begin region="header" -->
+# Cursor · New cmd-K keybindings
+
+**Cursor** · 2023-08-07 · [Official release notes](https://cursor.com/changelog/0-6-5-nightly-0-6-6-nightly)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 And a few other quality-of-life updates.
 
-[Official release notes](https://cursor.com/changelog/0-6-5-nightly-0-6-6-nightly)
-
-Tracked cards: 0
+Tracked 0 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

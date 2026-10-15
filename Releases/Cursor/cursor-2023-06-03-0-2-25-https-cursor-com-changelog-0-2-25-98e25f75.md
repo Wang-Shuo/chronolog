@@ -1,10 +1,13 @@
 ---
 changes_count: 0
 date: '2023-06-03'
-machine_hash: 01b34d6955cf8c4fb736ebf2c3cab8d21a8d6074eba65c7cad501741e05aa04b
+description: 'Cursor release Hot-fix for extensions (2023-06-03) on 2023-06-03: no
+  tracked changes'
+machine_hash: ec56cb012ad26f0c832367e0a2a88095e3faca67f38841c0639364b4bd8c60b0
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2023-06-03'
   product: cursor
   product_name: Cursor
@@ -22,19 +25,21 @@ source_url: https://cursor.com/changelog/0-2-25
 tags:
 - release
 - cursor
-title: Cursor — Hot-fix for extensions (2023-06-03)
+title: Cursor · Hot-fix for extensions (2023-06-03)
 version: 0.2.25
 ---
 
-# Cursor Hot-fix for extensions (2023-06-03)
+<!-- chronolog:begin region="header" -->
+# Cursor · Hot-fix for extensions (2023-06-03)
+
+**Cursor** · 2023-06-03 · [Official release notes](https://cursor.com/changelog/0-2-25)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Also potentially fixes the Jupyter problem that many people are experiencing.
 
-[Official release notes](https://cursor.com/changelog/0-2-25)
-
-Tracked cards: 0
+Tracked 0 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

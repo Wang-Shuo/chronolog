@@ -1,10 +1,13 @@
 ---
 changes_count: 3
 date: '2025-06-16'
-machine_hash: d664ac7b215c628833ff751346de30f05c61e199e74506a985846e78409e16ca
+description: 'ChatGPT release Expanded Model Support for Custom GPTs on 2025-06-16:
+  3 tracked changes across Model Support'
+machine_hash: ab805d8ade65dcab2a3091b368ebe9268d90c7615c976045785883bf56b63eb4
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 4
   date: '2025-06-16'
   product: chatgpt
   product_name: ChatGPT
@@ -23,24 +26,26 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Expanded Model Support for Custom GPTs
+title: ChatGPT · Expanded Model Support for Custom GPTs
 version: Expanded Model Support for Custom GPTs
 ---
 
-# ChatGPT Expanded Model Support for Custom GPTs
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Expanded Model Support for Custom GPTs
+
+**ChatGPT** · 2025-06-16 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Enterprise and Edu users can also now choose from the full set of ChatGPT models (GPT-4o, o3, o4-mini and more) when building Custom GPTs. This was launched to Plus, Pro and Team users earlier this month.Key details:
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 3
+Tracked 3 of 4 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2025-06-16-gpts-without-custom-actions-can-use-the-model-picker-to-select-from-all-models-a|GPTs without Custom Actions can use the model picker to select from all models…]]
-- model-support: [[Changes/ChatGPT/2025-06-16-gpts-with-custom-actions-currently-support-gpt-4o-and-4-1|GPTs with Custom Actions currently support GPT-4o and 4.1]]
-- model-support: [[Changes/ChatGPT/2025-06-16-enterprise-and-edu-users-can-also-now-choose-from-the-full-set-of-chatgpt-models-c891f9|Enterprise and Edu users can also now choose from the full set of ChatGPT models…]]
+- [[Changes/ChatGPT/2025-06-16-gpts-without-custom-actions-can-use-the-model-picker-to-select-from-all-models-a|GPTs without Custom Actions can use the model picker to select from all models…]] · Model Support
+- [[Changes/ChatGPT/2025-06-16-gpts-with-custom-actions-currently-support-gpt-4o-and-4-1|GPTs with Custom Actions currently support GPT-4o and 4.1]] · Model Support
+- [[Changes/ChatGPT/2025-06-16-enterprise-and-edu-users-can-also-now-choose-from-the-full-set-of-chatgpt-models-c891f9|Enterprise and Edu users can also now choose from the full set of ChatGPT models…]] · Model Support
 <!-- chronolog:end -->

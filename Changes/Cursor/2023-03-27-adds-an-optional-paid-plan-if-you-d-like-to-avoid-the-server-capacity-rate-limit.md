@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2023-03-27-65c59e
 date: '2023-03-27'
+description: 'Cursor · 2023-03-27 · Pricing Model: Adds an optional paid plan if you''d
+  like to avoid the server capacity rate limits'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|chatgpt-2022-12-15-6d306d]]'
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
+    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 102
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5cf3b7bd7711b4b14849ae26e6a6359d36d72b210e63928a394f150eaa9ef556
+machine_hash: 8d942644dc1d39f8eab8eefda7625ad7ff92549086da58509a1f6e590f40f5e8
 product: cursor
 product_name: Cursor
 record:
@@ -40,8 +43,10 @@ record:
     limits
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|chatgpt-2022-12-15-6d306d]]'
-- '[[Changes/ChatGPT/2023-02-13-we-rolled-out-the-ability-to-purchase-chatgpt-plus-internationally|chatgpt-2023-02-13-d327ff]]'
+- '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
+  limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+- '[[Changes/ChatGPT/2023-02-13-we-rolled-out-the-ability-to-purchase-chatgpt-plus-internationally|We
+  rolled out the ability to purchase ChatGPT Plus internationally]]'
 source_release: '[[Releases/Cursor/cursor-2023-03-27-0-1-9-https-cursor-com-changelog-0-1-9-431f2ddc|cursor-2023-03-27-0-1-9-https-cursor-com-changelog-0-1-9-431f2ddc]]'
 source_type: cursor_changelog
 theme: pricing-model
@@ -50,10 +55,10 @@ title: Adds an optional paid plan if you'd like to avoid the server capacity rat
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Adds an optional paid plan if you'd like to avoid the server capacity rate limits
 
-<!-- chronolog:begin region="description" -->
-Cursor — v0.1.9 (2023-03-27): Adds an optional paid plan if you'd like to avoid the server capacity rate limits
+**Cursor** · 2023-03-27 · [[Themes/pricing-model|Pricing Model]] · [Official source](https://cursor.com/changelog/0-1-9) · from [[Releases/Cursor/cursor-2023-03-27-0-1-9-https-cursor-com-changelog-0-1-9-431f2ddc|v0.1.9 (2023-03-27)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -62,19 +67,26 @@ Cursor — v0.1.9 (2023-03-27): Adds an optional paid plan if you'd like to avoi
 > Source: https://cursor.com/changelog/0-1-9
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2023-03-27-changes-autoupdate-to-notify-you-when-there-s-a-new-version|Changes autoupdate to notify you when there's a new version]] · Interface Experience
+- [[Changes/Cursor/2023-03-27-opens-the-terminal-in-your-current-folder|Opens the terminal in your current folder]] · Developer Workflow
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: pricing-model
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|chatgpt-2022-12-15-6d306d]]
-- Lag Days: 102
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Pricing Model
+
+- Earlier: 2023-02-13 · ChatGPT · [[Changes/ChatGPT/2023-02-13-we-rolled-out-the-ability-to-purchase-chatgpt-plus-internationally|We rolled out the ability to purchase ChatGPT Plus internationally]]
+- Later: 2023-04-19 · Cursor · [[Changes/Cursor/2023-04-19-150k-gpt-4-tokens-included|150k GPT-4 tokens included]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2023-03-27-65c59e&body=Card%3A%20Changes%2FCursor%2F2023-03-27-adds-an-optional-paid-plan-if-you-d-like-to-avoid-the-server-capacity-rate-limit.md%0ACard%20ID%3A%20cursor-2023-03-27-65c59e%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F0-1-9%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

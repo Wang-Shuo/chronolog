@@ -1,7 +1,9 @@
 ---
 created: '2023-03-23'
 date: '2026-10-13'
-machine_hash: d7e546ac04062bcb06cb985860ca440c4f86899525506223513eeb1fc09a1cd8
+description: Cross-product timeline of Apps and Integrations changes in ChatGPT, Claude
+  Code and Cursor.
+machine_hash: a60b7f963c13c6ff927def810f40c05569b83fddf2b3b5248c01de79cccd5ecf
 modified: '2026-10-13'
 products_involved:
 - ChatGPT
@@ -13,10 +15,12 @@ tags:
 - theme
 - moc
 theme: apps-integrations
-title: Apps Integrations
+title: Apps and Integrations
 ---
 
-# Theme: apps-integrations
+<!-- chronolog:begin region="header" -->
+# Apps and Integrations
+<!-- chronolog:end -->
 
 ## Research summary
 <!-- chronolog:begin region="narrative" -->

@@ -1,10 +1,13 @@
 ---
 changes_count: 4
 date: '2026-07-17'
-machine_hash: aac11ff5c4df8603ce7f363f76038a7fc76a81274c7cd35364bfb913e0a301de
+description: 'Cursor release Improvements to Cursor in Slack on 2026-07-17: 4 tracked
+  changes across Apps and Integrations, Agent Mode'
+machine_hash: 790bcd9281351a9192ee78c223dc3300726dbc47c9ac9a521ea1c1939d939a2b
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 7
   date: '2026-07-17'
   product: cursor
   product_name: Cursor
@@ -22,25 +25,27 @@ source_url: https://cursor.com/changelog/slack-improvements
 tags:
 - release
 - cursor
-title: Cursor — Improvements to Cursor in Slack
+title: Cursor · Improvements to Cursor in Slack
 version: Improvements to Cursor in Slack
 ---
 
-# Cursor Improvements to Cursor in Slack
+<!-- chronolog:begin region="header" -->
+# Cursor · Improvements to Cursor in Slack
+
+**Cursor** · 2026-07-17 · [Official release notes](https://cursor.com/changelog/slack-improvements)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Cursor in Slack now shares a plan before it starts, runs in multi-repo environments, and can work across channels and threads.
 
-[Official release notes](https://cursor.com/changelog/slack-improvements)
-
-Tracked cards: 4
+Tracked 4 of 7 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- apps-integrations: [[Changes/Cursor/2026-07-17-from-slack-cursor-can-now-start-in-a-named-multi-repo-environment-instead-of-a-s|From Slack, Cursor can now start in a named multi-repo environment instead…]]
-- agent-mode: [[Changes/Cursor/2026-07-17-cursor-now-responds-with-a-plan-before-it-begins-so-you-can-jump-in-and-redirect|Cursor now responds with a plan before it begins, so you can jump in and redirect early]]
-- apps-integrations: [[Changes/Cursor/2026-07-17-cursor-in-slack-now-shares-a-plan-before-it-starts-runs-in-multi-repo-environmen|Cursor in Slack now shares a plan before it starts, runs in multi-repo environments…]]
-- apps-integrations: [[Changes/Cursor/2026-07-17-we-also-refined-how-cursor-s-responses-look-in-slack-in-message-buttons-are-gone|We also refined how Cursor's responses look in Slack]]
+- [[Changes/Cursor/2026-07-17-from-slack-cursor-can-now-start-in-a-named-multi-repo-environment-instead-of-a-s|From Slack, Cursor can now start in a named multi-repo environment instead…]] · Apps and Integrations
+- [[Changes/Cursor/2026-07-17-cursor-now-responds-with-a-plan-before-it-begins-so-you-can-jump-in-and-redirect|Cursor now responds with a plan before it begins, so you can jump in and redirect early]] · Agent Mode
+- [[Changes/Cursor/2026-07-17-cursor-in-slack-now-shares-a-plan-before-it-starts-runs-in-multi-repo-environmen|Cursor in Slack now shares a plan before it starts, runs in multi-repo environments…]] · Apps and Integrations
+- [[Changes/Cursor/2026-07-17-we-also-refined-how-cursor-s-responses-look-in-slack-in-message-buttons-are-gone|We also refined how Cursor's responses look in Slack]] · Apps and Integrations
 <!-- chronolog:end -->

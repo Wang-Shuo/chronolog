@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2023-09-22'
-machine_hash: 887c0d2887a692a9d18b02447e64db8f71c7fa25680af770fb83161b3d8c3ddd
+description: 'Cursor release Stable Indexing v0.1 on 2023-09-22: 1 tracked change
+  across Reliability and Performance'
+machine_hash: 93c94ae5cee33e39bbab4c8052566e9488e9427a76cc3988bf4a7e4eb852a2e5
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2023-09-22'
   product: cursor
   product_name: Cursor
@@ -22,22 +25,24 @@ source_url: https://cursor.com/changelog/0-11-5-nightly
 tags:
 - release
 - cursor
-title: Cursor — Stable Indexing v0.1
+title: Cursor · Stable Indexing v0.1
 version: 0.11.5-nightly
 ---
 
-# Cursor Stable Indexing v0.1
+<!-- chronolog:begin region="header" -->
+# Cursor · Stable Indexing v0.1
+
+**Cursor** · 2023-09-22 · [Official release notes](https://cursor.com/changelog/0-11-5-nightly)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Stable version of indexing. this should be much more stable than previous versions.
 
-[Official release notes](https://cursor.com/changelog/0-11-5-nightly)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- reliability-performance: [[Changes/Cursor/2023-09-22-stable-version-of-indexing-this-should-be-much-more-stable-than-previous-version|Stable version of indexing. this should be much more stable than previous versions]]
+- [[Changes/Cursor/2023-09-22-stable-version-of-indexing-this-should-be-much-more-stable-than-previous-version|Stable version of indexing. this should be much more stable than previous versions]] · Reliability and Performance
 <!-- chronolog:end -->

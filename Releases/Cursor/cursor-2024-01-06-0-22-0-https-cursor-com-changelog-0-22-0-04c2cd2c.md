@@ -1,10 +1,13 @@
 ---
 changes_count: 3
 date: '2024-01-06'
-machine_hash: 0806c8e8d64e3070d95261abee403d7030a07ab302b303680cfdd7b353483518
+description: 'Cursor release Dev Containers on 2024-01-06: 3 tracked changes across
+  Developer Workflow, Editor Experience'
+machine_hash: 297f076a360d4b49ce10186373100ee8ab7241c4551f55df7a53f8cb5cdbbfc1
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 3
   date: '2024-01-06'
   product: cursor
   product_name: Cursor
@@ -21,24 +24,26 @@ source_url: https://cursor.com/changelog/0-22-0
 tags:
 - release
 - cursor
-title: Cursor — Dev Containers
+title: Cursor · Dev Containers
 version: 0.22.0
 ---
 
-# Cursor Dev Containers
+<!-- chronolog:begin region="header" -->
+# Cursor · Dev Containers
+
+**Cursor** · 2024-01-06 · [Official release notes](https://cursor.com/changelog/0-22-0)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Dev containers are now supported! This build also:
 
-[Official release notes](https://cursor.com/changelog/0-22-0)
-
-Tracked cards: 3
+Tracked 3 of 3 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- editor-experience: [[Changes/Cursor/2024-01-06-upgrades-cursor-to-vs-code-1-85-which-comes-with-support-for-dragging-out-tabs-i|Upgrades Cursor to VS Code 1.85, which comes with support for dragging out tabs…]]
-- developer-workflow: [[Changes/Cursor/2024-01-06-dev-containers-are-now-supported-this-build-also|Dev containers are now supported!]]
-- developer-workflow: [[Changes/Cursor/2024-01-06-improves-the-stability-of-wsl|Improves the stability of WSL]]
+- [[Changes/Cursor/2024-01-06-upgrades-cursor-to-vs-code-1-85-which-comes-with-support-for-dragging-out-tabs-i|Upgrades Cursor to VS Code 1.85, which comes with support for dragging out tabs…]] · Editor Experience
+- [[Changes/Cursor/2024-01-06-dev-containers-are-now-supported-this-build-also|Dev containers are now supported!]] · Developer Workflow
+- [[Changes/Cursor/2024-01-06-improves-the-stability-of-wsl|Improves the stability of WSL]] · Developer Workflow
 <!-- chronolog:end -->

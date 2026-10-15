@@ -1,8 +1,12 @@
 ---
 card_id: cursor-2026-06-04-73350b
 date: '2026-06-04'
+description: 'Cursor · 2026-06-04 · Apps and Integrations: We''ve shipped a batch
+  of new functionality across the TypeScript and Python SDKs. You can now choose how
+  agent and…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
+    can join the waitlist to try plugins here]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1169
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: cd3bdf026f3e3ac6736879c97e0ad36a2bf3725529af9eec5cc01efb33a351b0
+machine_hash: 89fa51fe56dbe9ff1e9ebf61d6a7efae03878bae27f79485eec6b307ebdd3f86
 product: cursor
 product_name: Cursor
 record:
@@ -66,9 +70,12 @@ record:
     SDKs
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-03-remote-control-now-shows-as-a-persistent-footer-pill-with-a-link-to-the-session|claude-code-2026-06-03-ede705]]'
-- '[[Changes/Claude Code/2026-06-04-hooks-stop-and-subagentstop-hooks-can-now-return-hookspecificoutput-additionalco|claude-code-2026-06-04-d9a4ce]]'
-- '[[Changes/Claude Code/2026-06-04-added-plugin-list-command-to-list-installed-plugins-with-enabled-disabled-filter|claude-code-2026-06-04-ddcc08]]'
+- '[[Changes/Claude Code/2026-06-03-remote-control-now-shows-as-a-persistent-footer-pill-with-a-link-to-the-session|Remote
+  Control now shows as a persistent footer pill (with a link to the session)…]]'
+- '[[Changes/Claude Code/2026-06-04-hooks-stop-and-subagentstop-hooks-can-now-return-hookspecificoutput-additionalco|Hooks:
+  Stop and SubagentStop hooks can now return…]]'
+- '[[Changes/Claude Code/2026-06-04-added-plugin-list-command-to-list-installed-plugins-with-enabled-disabled-filter|Added
+  /plugin list command to list installed plugins…]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-04-custom-stores-custom-tools-and-auto-review-for-the-cursor-sdk-ht-612f6856|cursor-2026-06-04-custom-stores-custom-tools-and-auto-review-for-the-cursor-sdk-ht-612f6856]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -77,10 +84,10 @@ title: We've shipped a batch of new functionality across the TypeScript and Pyth
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # We've shipped a batch of new functionality across the TypeScript and Python SDKs
 
-<!-- chronolog:begin region="description" -->
-Cursor — Custom stores, custom tools, and auto-review for the Cursor SDK: We've shipped a batch of new functionality across the TypeScript and Python SDKs. You can now choose how agent and run metadata is persisted, expose your own functions to the agent as tools, route local tool calls through auto-review, and nest subagents to any depth. This release also brings a set of reliability, performance, and platform fixes that make local and cloud SDK agents easier to run in production scripts, CI, and custom integrations.
+**Cursor** · 2026-06-04 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://cursor.com/changelog/sdk-updates-jun-2026) · from [[Releases/Cursor/cursor-2026-06-04-custom-stores-custom-tools-and-auto-review-for-the-cursor-sdk-ht-612f6856|Custom stores, custom tools, and auto-review for the Cursor SDK]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -89,19 +96,27 @@ Cursor — Custom stores, custom tools, and auto-review for the Cursor SDK: We'v
 > Source: https://cursor.com/changelog/sdk-updates-jun-2026
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2026-06-04-you-can-now-hand-the-local-agent-your-own-tools-by-passing-function-definitions|Hand the local agent your own tools by passing function definitions through…]] · Safety and Privacy
+- [[Changes/Cursor/2026-06-04-before-this-exposing-a-custom-capability-meant-standing-up-your-own-stdio-or-rem|Before this, exposing a custom capability meant standing up your own stdio or remote…]] · Agent Mode
+- [[Changes/Cursor/2026-06-04-by-default-a-local-sdk-agent-runs-tool-calls-without-asking-for-approval-since-t|By default, a local SDK agent runs tool calls without asking for approval, since…]] · Agent Mode
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: apps-integrations
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]
-- Lag Days: 1169
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Apps and Integrations
+
+- Earlier: 2026-06-04 · Claude Code · [[Changes/Claude Code/2026-06-04-added-plugin-list-command-to-list-installed-plugins-with-enabled-disabled-filter|Added /plugin list command to list installed plugins…]]
+- Later: 2026-06-06 · Claude Code · [[Changes/Claude Code/2026-06-06-added-glob-pattern-support-in-deny-rule-tool-name-position-denies-all-tools-allo|Added glob pattern support in deny rule tool-name position ("" denies all tools)]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2026-06-04-73350b&body=Card%3A%20Changes%2FCursor%2F2026-06-04-we-ve-shipped-a-batch-of-new-functionality-across-the-typescript-and-python-sdks.md%0ACard%20ID%3A%20cursor-2026-06-04-73350b%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2Fsdk-updates-jun-2026%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

@@ -1,8 +1,10 @@
 ---
 card_id: claude-code-2026-02-05-66b174
 date: '2026-02-05'
+description: 'Claude Code · 2026-02-05 · Model Support: Claude Opus 4.6 is now available!'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We
+    made more improvements to the ChatGPT model!]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1123
   relation: same-theme-chronology
@@ -13,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: eeae98d3f489759a30ec012f9e9303c74d1e0f0fe99d6a06492f82a3ee4a10e5
+machine_hash: c7274eafd922cd679e898a7953c895475582310ced9fc8c73bcd1114184969c9
 product: claude-code
 product_name: Claude Code
 record:
@@ -37,9 +39,12 @@ record:
   title: Claude Opus 4.6 is now available!
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-01-29-on-february-13-2026-alongside-the-previously-announced-retirement-of-gpt-5-insta|chatgpt-2026-01-29-23f4fe]]'
-- '[[Changes/ChatGPT/2026-02-04-jan-10-2026-we-lowered-the-standard-and-light-thinking-time-as-we-observed-users-e93d5a|chatgpt-2026-02-04-e93d5a]]'
-- '[[Changes/Claude Code/2026-02-04-improved-system-prompts-to-more-clearly-guide-the-model-toward-using-dedicated-t|claude-code-2026-02-04-78de84]]'
+- '[[Changes/ChatGPT/2026-01-29-on-february-13-2026-alongside-the-previously-announced-retirement-of-gpt-5-insta|On
+  February 13, 2026, alongside the previously announced retirement of GPT‑5…]]'
+- '[[Changes/ChatGPT/2026-02-04-jan-10-2026-we-lowered-the-standard-and-light-thinking-time-as-we-observed-users-e93d5a|Jan
+  10, 2026: We lowered the Standard and Light thinking time as we observed users…]]'
+- '[[Changes/Claude Code/2026-02-04-improved-system-prompts-to-more-clearly-guide-the-model-toward-using-dedicated-t|Improved
+  system prompts to more clearly guide the model toward using dedicated tools…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0|claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0]]'
 source_type: github_releases
 theme: model-support
@@ -47,10 +52,10 @@ title: Claude Opus 4.6 is now available!
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Claude Opus 4.6 is now available!
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.32: Claude Opus 4.6 is now available!
+**Claude Code** · 2026-02-05 · [[Themes/model-support|Model Support]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.32) · from [[Releases/Claude Code/claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0|v2.1.32]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -59,19 +64,28 @@ Claude Code — v2.1.32: Claude Opus 4.6 is now available!
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.32
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-02-05-added-research-preview-agent-teams-feature-for-multi-agent-collaboration-token-i|Added research preview agent teams feature for multi-agent collaboration…]] · Collaboration
+- [[Changes/Claude Code/2026-02-05-skills-defined-in-claude-skills-within-additional-directories-add-dir-are-now-lo|Skills defined in .claude/skills/ within additional directories (--add-dir)…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-02-05-added-summarize-from-here-to-the-message-selector-allowing-partial-conversation|Added "Summarize from here" to the message selector, allowing partial conversation…]] · Context Window
+- [[Changes/Claude Code/2026-02-05-claude-now-automatically-records-and-recalls-memories-as-it-works|Claude now automatically records and recalls memories as it works]] · Memory and Personalization
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: model-support
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]
-- Lag Days: 1123
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Model Support
+
+- Earlier: 2026-02-04 · Claude Code · [[Changes/Claude Code/2026-02-04-improved-system-prompts-to-more-clearly-guide-the-model-toward-using-dedicated-t|Improved system prompts to more clearly guide the model toward using dedicated tools…]]
+- Later: 2026-02-07 · Claude Code · [[Changes/Claude Code/2026-02-07-fast-mode-is-now-available-for-opus-4-6-learn-more-at-https-code-claude-com-docs|Fast mode is now available for Opus 4.6]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We made more improvements to the ChatGPT model!]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-02-05-66b174&body=Card%3A%20Changes%2FClaude%20Code%2F2026-02-05-claude-opus-4-6-is-now-available.md%0ACard%20ID%3A%20claude-code-2026-02-05-66b174%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.32%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2026-09-03'
-machine_hash: fd6fc58eed74f41550d7cccdcbebac53a783ee8d64d312ca3370ea7b1353fb48
+description: 'ChatGPT release Share Sites with people outside your workspace on 2026-09-03:
+  1 tracked change across Collaboration'
+machine_hash: a9c401a93d55ebeab98eafd9f3ced254ade65b9fbde061418591a04dc5b0d501
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 1
   date: '2026-09-03'
   product: chatgpt
   product_name: ChatGPT
@@ -25,22 +28,24 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Share Sites with people outside your workspace
+title: ChatGPT · Share Sites with people outside your workspace
 version: Share Sites with people outside your workspace
 ---
 
-# ChatGPT Share Sites with people outside your workspace
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Share Sites with people outside your workspace
+
+**ChatGPT** · 2026-09-03 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Eligible Site owners can now share a live ChatGPT Site with named people outside their workspace, without making the Site public. External viewers can use the shared Site but cannot edit or publish it.To share, open the Site, select Share, enter the recipient’s email, and save their viewer access. The recipient signs…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- collaboration: [[Changes/ChatGPT/2026-09-03-eligible-site-owners-can-now-share-a-live-chatgpt-site-with-named-people-outside|Eligible Site owners can now share a live ChatGPT Site with named people outside…]]
+- [[Changes/ChatGPT/2026-09-03-eligible-site-owners-can-now-share-a-live-chatgpt-site-with-named-people-outside|Eligible Site owners can now share a live ChatGPT Site with named people outside…]] · Collaboration
 <!-- chronolog:end -->

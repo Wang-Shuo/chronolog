@@ -1,10 +1,12 @@
 ---
 changes_count: 0
 date: '2023-07-28'
-machine_hash: 4a8be3ae896b75f73861e4ffdf0ff5eb40de1b1c958adea4a3880f26ec772a83
+description: 'Cursor release Performance hotfix on 2023-07-28: no tracked changes'
+machine_hash: 80ea932b4581e73ff3109e385c51adcbbccdaf141e20f1511f68835334d74612
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2023-07-28'
   product: cursor
   product_name: Cursor
@@ -21,19 +23,21 @@ source_url: https://cursor.com/changelog/0-5-1
 tags:
 - release
 - cursor
-title: Cursor — Performance hotfix
+title: Cursor · Performance hotfix
 version: 0.5.1
 ---
 
-# Cursor Performance hotfix
+<!-- chronolog:begin region="header" -->
+# Cursor · Performance hotfix
+
+**Cursor** · 2023-07-28 · [Official release notes](https://cursor.com/changelog/0-5-1)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Fixes a performance bug that would happen if you use cmd-k a lot.
 
-[Official release notes](https://cursor.com/changelog/0-5-1)
-
-Tracked cards: 0
+Tracked 0 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

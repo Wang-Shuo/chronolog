@@ -1,8 +1,11 @@
 ---
 card_id: claude-code-2026-07-10-829123
 date: '2026-07-10'
+description: 'Claude Code · 2026-07-10 · Account and Access: Gateway: `/login` now
+  supports Anthropic-operated public gateway endpoints'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|cursor-2023-03-30-3bf00d]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
+    login]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1198
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: e80c9458363f68667fc12b6f07e8b125d7778fff659cb593301abcfddfd367b5
+machine_hash: 9d2e47305ea01999ca163dc86cf18c28eed40e052351da8ac890d1d6f1c28d4a
 product: claude-code
 product_name: Claude Code
 record:
@@ -36,9 +39,12 @@ record:
   title: 'Gateway: `/login` now supports Anthropic-operated public gateway endpoints'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-06-chatgpt-for-powerpoint-is-now-generally-available-globally-from-a-sidebar-in-mic|chatgpt-2026-07-06-e2a8ae]]'
-- '[[Changes/Claude Code/2026-07-07-added-a-warning-when-your-login-is-about-to-expire-so-you-can-re-authenticate-be|claude-code-2026-07-07-a69d51]]'
-- '[[Changes/ChatGPT/2026-07-09-we-re-deprecating-atlas-as-we-bring-browser-based-agentic-capabilities-into-chat|chatgpt-2026-07-09-ce8700]]'
+- '[[Changes/ChatGPT/2026-07-06-chatgpt-for-powerpoint-is-now-generally-available-globally-from-a-sidebar-in-mic|ChatGPT
+  for PowerPoint is now generally available globally]]'
+- '[[Changes/Claude Code/2026-07-07-added-a-warning-when-your-login-is-about-to-expire-so-you-can-re-authenticate-be|Added
+  a warning when your login is about to expire, so you can re-authenticate…]]'
+- '[[Changes/ChatGPT/2026-07-09-we-re-deprecating-atlas-as-we-bring-browser-based-agentic-capabilities-into-chat|We’re
+  deprecating Atlas as we bring browser-based agentic capabilities into ChatGPT…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-10-v2-1-206-github-351694341-0226036e|claude-code-2026-07-10-v2-1-206-github-351694341-0226036e]]'
 source_type: github_releases
 theme: account-access
@@ -46,10 +52,10 @@ title: 'Gateway: /login now supports Anthropic-operated public gateway endpoints
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Gateway: `/login` now supports Anthropic-operated public gateway endpoints
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.206: Gateway: `/login` now supports Anthropic-operated public gateway endpoints
+**Claude Code** · 2026-07-10 · [[Themes/account-access|Account and Access]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.206) · from [[Releases/Claude Code/claude-code-2026-07-10-v2-1-206-github-351694341-0226036e|v2.1.206]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -58,19 +64,28 @@ Claude Code — v2.1.206: Gateway: `/login` now supports Anthropic-operated publ
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.206
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-07-10-added-a-doctor-check-that-proposes-trimming-checked-in-claude-md-files-by-cuttin|Added a /doctor check that proposes trimming checked-in CLAUDE.md files…]] · Editor Experience
+- [[Changes/Claude Code/2026-07-10-enterworktree-now-asks-for-confirmation-before-entering-a-git-worktree-outside-t|EnterWorktree now asks for confirmation before entering a git worktree outside…]] · Developer Workflow
+- [[Changes/Claude Code/2026-07-10-commit-push-pr-now-auto-allows-git-push-to-the-repo-s-configured-push-remote-rem|/commit-push-pr now auto-allows git push to the repo's configured push remote…]] · Developer Workflow
+- [[Changes/Claude Code/2026-07-10-added-directory-path-suggestions-to-cd-matching-add-dir-behavior|Added directory path suggestions to /cd, matching /add-dir behavior]] · Developer Workflow
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: account-access
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-30-ai-now-requires-login|cursor-2023-03-30-3bf00d]]
-- Lag Days: 1198
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Account and Access
+
+- Earlier: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-we-re-deprecating-atlas-as-we-bring-browser-based-agentic-capabilities-into-chat|We’re deprecating Atlas as we bring browser-based agentic capabilities into ChatGPT…]]
+- Later: 2026-07-21 · Claude Code · [[Changes/Claude Code/2026-07-21-changed-the-login-expiry-warning-to-appear-3-days-before-expiry-instead-of-5|Changed the login-expiry warning to appear 3 days before expiry instead of 5]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-07-10-829123&body=Card%3A%20Changes%2FClaude%20Code%2F2026-07-10-gateway-login-now-supports-anthropic-operated-public-gateway-endpoints.md%0ACard%20ID%3A%20claude-code-2026-07-10-829123%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.206%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

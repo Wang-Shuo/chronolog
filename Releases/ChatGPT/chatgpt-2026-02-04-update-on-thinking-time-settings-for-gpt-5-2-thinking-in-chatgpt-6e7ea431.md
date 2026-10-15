@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2026-02-04'
-machine_hash: 0a5e5eaff8584a5b003297d539ac54e08cb73237661531bf9c9918b262ede402
+description: 'ChatGPT release Update on thinking time settings for GPT-5.2 Thinking
+  in ChatGPT on 2026-02-04: 1 tracked change across Model Support'
+machine_hash: 17803ef50271ecc9bf7d7717d54da42ebc3c23fe7c3674bad2affeb9461884c5
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 1
   date: '2026-02-04'
   product: chatgpt
   product_name: ChatGPT
@@ -25,22 +28,24 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Update on thinking time settings for GPT-5.2 Thinking in ChatGPT
+title: ChatGPT · Update on thinking time settings for GPT-5.2 Thinking in ChatGPT
 version: Update on thinking time settings for GPT-5.2 Thinking in ChatGPT
 ---
 
-# ChatGPT Update on thinking time settings for GPT-5.2 Thinking in ChatGPT
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Update on thinking time settings for GPT-5.2 Thinking in ChatGPT
+
+**ChatGPT** · 2026-02-04 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Jan 10, 2026: We lowered the Standard and Light thinking time as we observed users prefer faster responses. As part of this update, the Extended thinking setting for GPT-5.2 was unintentionally changed to be lower which we have now fixed.February 3, 2026: We made another small reduction to Standard thinking time based…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2026-02-04-jan-10-2026-we-lowered-the-standard-and-light-thinking-time-as-we-observed-users-e93d5a|Jan 10, 2026: We lowered the Standard and Light thinking time as we observed users…]]
+- [[Changes/ChatGPT/2026-02-04-jan-10-2026-we-lowered-the-standard-and-light-thinking-time-as-we-observed-users-e93d5a|Jan 10, 2026: We lowered the Standard and Light thinking time as we observed users…]] · Model Support
 <!-- chronolog:end -->

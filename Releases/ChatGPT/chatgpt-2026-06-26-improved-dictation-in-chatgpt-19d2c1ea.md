@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2026-06-26'
-machine_hash: 4d140685c26a53a4a15c1273d62772c347db91b58f514f2111909c4cd8a41b88
+description: 'ChatGPT release Improved dictation in ChatGPT on 2026-06-26: 1 tracked
+  change across Voice and Audio'
+machine_hash: 209f1844e770c1536227c97d6b6aab53af55a5e24426dea017c005508fc0eda2
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 1
   date: '2026-06-26'
   product: chatgpt
   product_name: ChatGPT
@@ -24,22 +27,24 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Improved dictation in ChatGPT
+title: ChatGPT · Improved dictation in ChatGPT
 version: Improved dictation in ChatGPT
 ---
 
-# ChatGPT Improved dictation in ChatGPT
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Improved dictation in ChatGPT
+
+**ChatGPT** · 2026-06-26 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 We’re rolling out a new speech-to-text model for dictation in ChatGPT across all plans. This is a behind-the-scenes update, so there are no changes to how you use dictation.The update improves transcription accuracy across languages and accents, including when multilingual speakers mix or switch between languages…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- voice: [[Changes/ChatGPT/2026-06-26-we-re-rolling-out-a-new-speech-to-text-model-for-dictation-in-chatgpt-across-all|ChatGPT rolls out a new speech-to-text model for dictation across all plans]]
+- [[Changes/ChatGPT/2026-06-26-we-re-rolling-out-a-new-speech-to-text-model-for-dictation-in-chatgpt-across-all|ChatGPT rolls out a new speech-to-text model for dictation across all plans]] · Voice and Audio
 <!-- chronolog:end -->

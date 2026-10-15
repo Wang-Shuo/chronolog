@@ -1,8 +1,12 @@
 ---
 card_id: chatgpt-2026-02-09-199344
 date: '2026-02-09'
+description: 'ChatGPT · 2026-02-09 · Memory and Personalization: We’re beginning to
+  roll out a test for ads in ChatGPT in the U.S. for logged-in adults on the Free
+  and Go…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|chatgpt-2023-07-20-37833c]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re
+    starting to roll out custom instructions, giving you more control over…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 935
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 90325a527062ddb73b1436b2b3c59dd4db552f68906e29ead2cd6824caf8b1f3
+machine_hash: f8f55296fe5cfdbd7db5151c8de15d26894072cfef33eda9732a937a06ceb389
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -82,9 +86,12 @@ record:
   title: We’re beginning to roll out a test for ads in ChatGPT in the U.S. for logged-in…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-01-15-when-reference-chat-history-is-enabled-chatgpt-can-now-more-reliably-find-specif|chatgpt-2026-01-15-a3ac65]]'
-- '[[Changes/Claude Code/2026-02-05-claude-now-automatically-records-and-recalls-memories-as-it-works|claude-code-2026-02-05-b2014f]]'
-- '[[Changes/Claude Code/2026-02-06-added-memory-frontmatter-field-support-for-agents-enabling-persistent-memory-wit|claude-code-2026-02-06-92317f]]'
+- '[[Changes/ChatGPT/2026-01-15-when-reference-chat-history-is-enabled-chatgpt-can-now-more-reliably-find-specif|When
+  reference chat history is enabled, ChatGPT can now more reliably find specific…]]'
+- '[[Changes/Claude Code/2026-02-05-claude-now-automatically-records-and-recalls-memories-as-it-works|Claude
+  now automatically records and recalls memories as it works]]'
+- '[[Changes/Claude Code/2026-02-06-added-memory-frontmatter-field-support-for-agents-enabling-persistent-memory-wit|Added
+  memory frontmatter field support for agents, enabling persistent memory…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-09-testing-ads-in-chatgpt-free-go-df231623|chatgpt-2026-02-09-testing-ads-in-chatgpt-free-go-df231623]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -92,10 +99,10 @@ title: We’re beginning to roll out a test for ads in ChatGPT in the U.S. for l
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # We’re beginning to roll out a test for ads in ChatGPT in the U.S. for logged-in…
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Testing ads in ChatGPT (Free, Go): We’re beginning to roll out a test for ads in ChatGPT in the U.S. for logged-in adults on the Free and Go tiers. Plus, Pro, Business, Enterprise, and Education plans do not have ads. The test will be a subset of users to start. We will expand over the coming weeks as we learn from this test.ChatGPT’s answers are generated independently from advertising. Answers are optimized based on what’s most helpful to you. When you see an ad, they are always clearly labeled as sponsored and visually separated from the organic answer.Ads are shown using information that stays within ChatGPT and is not shared with advertisers. This includes what you’re discussing, how you interact with ads (such as ads you hide or engage with), and your past chats and memories, if you have ads personalization enabled. You’re in control of this experience: you can dismiss ads, share feedback, learn how and why you’re being shown an ad, delete your ad data with one tap, and manage ad personalization at any time.Advertisers never see your chats or personal details and receive only aggregated performance information, like impressions and clicks. During the test, ads do not appear in chats about sensitive topics or regulated topics, including health, mental health, or politics, and are not shown to users who tell us or we predict are under 18.
+**ChatGPT** · 2026-02-09 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-02-09-testing-ads-in-chatgpt-free-go-df231623|Testing ads in ChatGPT (Free, Go)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -104,19 +111,23 @@ ChatGPT — Testing ads in ChatGPT (Free, Go): We’re beginning to roll out a t
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: memory
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|chatgpt-2023-07-20-37833c]]
-- Lag Days: 935
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Memory and Personalization
+
+- Earlier: 2026-02-06 · Claude Code · [[Changes/Claude Code/2026-02-06-added-memory-frontmatter-field-support-for-agents-enabling-persistent-memory-wit|Added memory frontmatter field support for agents, enabling persistent memory…]]
+- Later: 2026-02-26 · Claude Code · [[Changes/Claude Code/2026-02-26-claude-automatically-saves-useful-context-to-auto-memory-manage-with-memory|Claude automatically saves useful context to auto-memory]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re starting to roll out custom instructions, giving you more control over…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-02-09-199344&body=Card%3A%20Changes%2FChatGPT%2F2026-02-09-we-re-beginning-to-roll-out-a-test-for-ads-in-chatgpt-in-the-u-s-for-logged-in-a.md%0ACard%20ID%3A%20chatgpt-2026-02-09-199344%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2025-11-24'
-machine_hash: e40ac35d13633286f46f4555a2dcbe93967ed3dee0a2c069bde8e1e800ae807e
+description: 'ChatGPT release Shopping research in ChatGPT on 2025-11-24: 1 tracked
+  change across Memory and Personalization'
+machine_hash: c49faa7ce2b5ae311b059a52bfb87467d38be534494aad6582f01fc012b56731
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 1
   date: '2025-11-24'
   product: chatgpt
   product_name: ChatGPT
@@ -24,22 +27,24 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Shopping research in ChatGPT
+title: ChatGPT · Shopping research in ChatGPT
 version: Shopping research in ChatGPT
 ---
 
-# ChatGPT Shopping research in ChatGPT
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Shopping research in ChatGPT
+
+**ChatGPT** · 2025-11-24 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Shopping research is a new interactive experience that helps you find the right products without doing all the research yourself. Describe what you need—like a quiet cordless vacuum for a small apartment, a gift for a four‑year‑old who loves art, or a way to choose between three bikes—and ChatGPT will ask clarifying…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- memory: [[Changes/ChatGPT/2025-11-24-shopping-research-is-a-new-interactive-experience-that-helps-you-find-the-right-0a021d|Shopping research is a new interactive experience that helps you find the right…]]
+- [[Changes/ChatGPT/2025-11-24-shopping-research-is-a-new-interactive-experience-that-helps-you-find-the-right-0a021d|Shopping research is a new interactive experience that helps you find the right…]] · Memory and Personalization
 <!-- chronolog:end -->

@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2026-08-13-513ff2
 date: '2026-08-13'
+description: 'ChatGPT · 2026-08-13 · Enterprise and Administration: Computer History
+  is an optional feature in the ChatGPT macOS app that lets ChatGPT and Codex reference…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|chatgpt-2025-06-12-1cc56f]]'
+  first_in_tracked: '[[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise
+    and Edu rollout coming soon]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 427
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4c8575b28cf5abf5fdeb185dffe1cb82b93621a209706c12f5d3eb512bafe319
+machine_hash: c4171701aece736dcfcc286ec74851e76ac5f94d672d77a84202f639bd8ee111
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -75,9 +78,12 @@ record:
     ChatGPT…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-09-in-enterprise-workspaces-public-publishing-is-off-by-default-and-must-be-enabled|chatgpt-2026-07-09-bd8946]]'
-- '[[Changes/ChatGPT/2026-07-15-we-re-increasing-the-character-limit-for-custom-instructions-in-chatgpt-plus-pro|chatgpt-2026-07-15-f04dc1]]'
-- '[[Changes/ChatGPT/2026-08-04-starting-today-for-chatgpt-enterprise-and-education-users-long-pastes-are-handle|chatgpt-2026-08-04-eade3c]]'
+- '[[Changes/ChatGPT/2026-07-09-in-enterprise-workspaces-public-publishing-is-off-by-default-and-must-be-enabled|In
+  Enterprise workspaces, public publishing is off by default and must be enabled…]]'
+- '[[Changes/ChatGPT/2026-07-15-we-re-increasing-the-character-limit-for-custom-instructions-in-chatgpt-plus-pro|We’re
+  increasing the character limit for custom instructions in ChatGPT]]'
+- '[[Changes/ChatGPT/2026-08-04-starting-today-for-chatgpt-enterprise-and-education-users-long-pastes-are-handle|Starting
+  today for ChatGPT Enterprise and Education users, long pastes are handled…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-13-computer-history-for-macos-4b03e9a3|chatgpt-2026-08-13-computer-history-for-macos-4b03e9a3]]'
 source_type: chatgpt_changelog
 theme: enterprise-admin
@@ -86,10 +92,10 @@ title: Computer History is an optional feature in the ChatGPT macOS app that let
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Computer History is an optional feature in the ChatGPT macOS app that lets ChatGPT…
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Computer History for macOS: Computer History is an optional feature in the ChatGPT macOS app that lets ChatGPT and Codex reference selected activity from apps and websites, helping users continue work without re-explaining every detail. It records interaction events—not screenshots, screen recordings, microphone input, or system audio—and private browsing is not included.Computer History is off by default and available to Pro, Business, and Enterprise users. Business and Enterprise admins must grant access before members can opt in. Users can pause Computer History, choose included apps and sites, and inspect or delete timeline items. Note that Computer History is not currently available in the EEA, UK or Switzerland.
+**ChatGPT** · 2026-08-13 · [[Themes/enterprise-admin|Enterprise and Administration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-08-13-computer-history-for-macos-4b03e9a3|Computer History for macOS]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -98,19 +104,23 @@ ChatGPT — Computer History for macOS: Computer History is an optional feature 
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: enterprise-admin
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|chatgpt-2025-06-12-1cc56f]]
-- Lag Days: 427
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Enterprise and Administration
+
+- Earlier: 2026-08-04 · ChatGPT · [[Changes/ChatGPT/2026-08-04-starting-today-for-chatgpt-enterprise-and-education-users-long-pastes-are-handle|Starting today for ChatGPT Enterprise and Education users, long pastes are handled…]]
+- Later: 2026-09-02 · Cursor · [[Changes/Cursor/2026-09-02-team-pools-are-named-queues-of-workers-for-a-team-or-enterprise-capacity-can-gro|Team pools are named queues of workers for a team or enterprise]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise and Edu rollout coming soon]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-13-513ff2&body=Card%3A%20Changes%2FChatGPT%2F2026-08-13-computer-history-is-an-optional-feature-in-the-chatgpt-macos-app-that-lets-chatg.md%0ACard%20ID%3A%20chatgpt-2026-08-13-513ff2%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

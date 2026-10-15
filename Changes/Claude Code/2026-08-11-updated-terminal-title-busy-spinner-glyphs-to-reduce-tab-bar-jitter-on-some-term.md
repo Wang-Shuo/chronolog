@@ -1,8 +1,11 @@
 ---
 card_id: claude-code-2026-08-11-7e48ce
 date: '2026-08-11'
+description: 'Claude Code · 2026-08-11 · Interface Experience: Updated terminal title
+  busy-spinner glyphs to reduce tab-bar jitter on some terminals'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
+    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1310
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 291ce7b69c0b0959579d233c205dce937ada411452ea46c6c66dbfbe898f0293
+machine_hash: 7399ebc411ebb14dca190802e326e05573d782bfc807a8c3f78afc930e0b6d02
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,9 +51,12 @@ record:
     terminals
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-07-add-saved-files-without-uploading-them-again-open-the-composer-menu-on-the-web-s|chatgpt-2026-08-07-07b56e]]'
-- '[[Changes/Claude Code/2026-08-08-vscode-fixed-focus-view-folding-away-the-latest-to-do-list-a-pending-question-s|claude-code-2026-08-08-b44230]]'
-- '[[Changes/Claude Code/2026-08-10-improved-slash-command-menu-blue-now-marks-only-the-selected-row-matched-charact|claude-code-2026-08-10-20bd06]]'
+- '[[Changes/ChatGPT/2026-08-07-add-saved-files-without-uploading-them-again-open-the-composer-menu-on-the-web-s|Add
+  saved files without uploading them again]]'
+- '[[Changes/Claude Code/2026-08-08-vscode-fixed-focus-view-folding-away-the-latest-to-do-list-a-pending-question-s|VSCode
+  Fixed Focus view folding away the latest to-do list, a pending question''s…]]'
+- '[[Changes/Claude Code/2026-08-10-improved-slash-command-menu-blue-now-marks-only-the-selected-row-matched-charact|Improved
+  slash-command menu]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-11-v2-1-228-github-368745796-47d0c6b9|claude-code-2026-08-11-v2-1-228-github-368745796-47d0c6b9]]'
 source_type: github_releases
 theme: interface-experience
@@ -59,10 +65,10 @@ title: Updated terminal title busy-spinner glyphs to reduce tab-bar jitter on so
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Updated terminal title busy-spinner glyphs to reduce tab-bar jitter on some terminals
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.228: Updated terminal title busy-spinner glyphs to reduce tab-bar jitter on some terminals
+**Claude Code** · 2026-08-11 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.228) · from [[Releases/Claude Code/claude-code-2026-08-11-v2-1-228-github-368745796-47d0c6b9|v2.1.228]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -71,19 +77,27 @@ Claude Code — v2.1.228: Updated terminal title busy-spinner glyphs to reduce t
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.228
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-08-11-improved-cross-session-messages-the-sender-and-body-now-display-inline-instead-o|Improved cross-session messages]] · Apps and Integrations
+- [[Changes/Claude Code/2026-08-11-hardened-skills-synced-from-claude-ai-they-no-longer-shadow-local-commands-or-mc|Hardened skills synced from claude.ai]] · Apps and Integrations
+- [[Changes/Claude Code/2026-08-11-improved-compaction-progress-the-retry-countdown-and-stall-hint-now-appear-durin|Improved compaction progress]] · Context Window
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: interface-experience
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]
-- Lag Days: 1310
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Interface Experience
+
+- Earlier: 2026-08-10 · Claude Code · [[Changes/Claude Code/2026-08-10-improved-slash-command-menu-blue-now-marks-only-the-selected-row-matched-charact|Improved slash-command menu]]
+- Later: 2026-08-17 · Claude Code · [[Changes/Claude Code/2026-08-17-added-the-selection-clear-keybinding-action-so-a-key-can-be-bound-to-clear-an-in|Added the selection:clear keybinding action, so a key can be bound to clear…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-08-11-7e48ce&body=Card%3A%20Changes%2FClaude%20Code%2F2026-08-11-updated-terminal-title-busy-spinner-glyphs-to-reduce-tab-bar-jitter-on-some-term.md%0ACard%20ID%3A%20claude-code-2026-08-11-7e48ce%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.228%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

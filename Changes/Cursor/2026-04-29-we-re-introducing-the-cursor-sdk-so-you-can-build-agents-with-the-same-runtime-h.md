@@ -1,8 +1,12 @@
 ---
 card_id: cursor-2026-04-29-5b34ee
 date: '2026-04-29'
+description: 'Cursor · 2026-04-29 · Apps and Integrations: We''re introducing the
+  Cursor SDK so you can build agents with the same runtime, harness, and models that
+  power…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
+    can join the waitlist to try plugins here]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1133
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: a22763fb38d8877a8313e7a4892429a078f207bbbf82e21e73b03c305a9aa214
+machine_hash: af058382f28f94c37305979e5f2816ce1e9cbfeda4cd87ce37b7eaa774815617
 product: cursor
 product_name: Cursor
 record:
@@ -48,9 +52,12 @@ record:
   title: Cursor introduces the Cursor SDK so you can build agents with the same runtime…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-28-mcp-now-shows-claude-ai-connectors-hidden-by-a-manually-added-server-with-the-sa|claude-code-2026-04-28-ae0713]]'
-- '[[Changes/Claude Code/2026-04-28-added-alwaysload-option-to-mcp-server-config-when-true-all-tools-from-that-serve|claude-code-2026-04-28-c60884]]'
-- '[[Changes/Claude Code/2026-04-28-posttooluse-hooks-can-now-replace-tool-output-for-all-tools-via-hookspecificoutp|claude-code-2026-04-28-cd9249]]'
+- '[[Changes/Claude Code/2026-04-28-mcp-now-shows-claude-ai-connectors-hidden-by-a-manually-added-server-with-the-sa|/mcp
+  now shows claude.ai connectors hidden by a manually-added server…]]'
+- '[[Changes/Claude Code/2026-04-28-added-alwaysload-option-to-mcp-server-config-when-true-all-tools-from-that-serve|Added
+  alwaysLoad option to MCP server config]]'
+- '[[Changes/Claude Code/2026-04-28-posttooluse-hooks-can-now-replace-tool-output-for-all-tools-via-hookspecificoutp|PostToolUse
+  hooks can now replace tool output for all tools…]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-29-build-programmatic-agents-with-the-cursor-sdk-https-cursor-com-c-b4665fa3|cursor-2026-04-29-build-programmatic-agents-with-the-cursor-sdk-https-cursor-com-c-b4665fa3]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -58,10 +65,10 @@ title: Cursor introduces the Cursor SDK so you can build agents with the same ru
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Cursor introduces the Cursor SDK so you can build agents with the same runtime…
 
-<!-- chronolog:begin region="description" -->
-Cursor — Build programmatic agents with the Cursor SDK: We're introducing the Cursor SDK so you can build agents with the same runtime, harness, and models that power Cursor.
+**Cursor** · 2026-04-29 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://cursor.com/changelog/sdk-release) · from [[Releases/Cursor/cursor-2026-04-29-build-programmatic-agents-with-the-cursor-sdk-https-cursor-com-c-b4665fa3|Build programmatic agents with the Cursor SDK]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -70,19 +77,27 @@ Cursor — Build programmatic agents with the Cursor SDK: We're introducing the 
 > Source: https://cursor.com/changelog/sdk-release
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2026-04-29-run-npm-install-cursor-sdk-to-get-started-you-can-also-use-cursor-s-native-sdk-s|Run npm install @cursor/sdk to get started]] · Apps and Integrations
+- [[Changes/Cursor/2026-04-29-model-id-composer-2-5|model: { id: "composer-2.5" },]] · Model Support
+- [[Changes/Cursor/2026-04-29-the-agents-that-run-in-the-cursor-desktop-app-cli-and-web-app-are-now-accessible|The agents that run in the Cursor desktop app, CLI, and web app are now accessible…]] · Mobile and Desktop
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: apps-integrations
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]
-- Lag Days: 1133
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Apps and Integrations
+
+- Earlier: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-posttooluse-hooks-can-now-replace-tool-output-for-all-tools-via-hookspecificoutp|PostToolUse hooks can now replace tool output for all tools…]]
+- Later: 2026-05-01 · Cursor · [[Changes/Cursor/2026-05-01-plugins-bundle-capabilities-like-mcp-servers-skills-subagents-rules-and-hooks-th|Plugins bundle capabilities like MCP servers, skills, subagents, rules, and hooks…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2026-04-29-5b34ee&body=Card%3A%20Changes%2FCursor%2F2026-04-29-we-re-introducing-the-cursor-sdk-so-you-can-build-agents-with-the-same-runtime-h.md%0ACard%20ID%3A%20cursor-2026-04-29-5b34ee%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2Fsdk-release%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

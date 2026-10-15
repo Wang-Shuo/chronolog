@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2023-06-24'
-machine_hash: 70cc1df5cd6487e26fbdcff6dac1c2c85a9b7b638e0c7a0886281482aad7ee4a
+description: 'Cursor release Hotfix for Chat on 2023-06-24: 1 tracked change across
+  Developer Workflow'
+machine_hash: c7029ee567386c00dd63f5195f2dace0298a44c22d27bfb50cfb4ca302fac7e4
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2023-06-24'
   product: cursor
   product_name: Cursor
@@ -21,22 +24,24 @@ source_url: https://cursor.com/changelog/0-2-35
 tags:
 - release
 - cursor
-title: Cursor — Hotfix for Chat
+title: Cursor · Hotfix for Chat
 version: 0.2.35
 ---
 
-# Cursor Hotfix for Chat
+<!-- chronolog:begin region="header" -->
+# Cursor · Hotfix for Chat
+
+**Cursor** · 2023-06-24 · [Official release notes](https://cursor.com/changelog/0-2-35)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Chat was failing on some non-git folders. That is now fixed.
 
-[Official release notes](https://cursor.com/changelog/0-2-35)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- developer-workflow: [[Changes/Cursor/2023-06-24-chat-was-failing-on-some-non-git-folders-that-is-now-fixed|Chat was failing on some non-git folders]]
+- [[Changes/Cursor/2023-06-24-chat-was-failing-on-some-non-git-folders-that-is-now-fixed|Chat was failing on some non-git folders]] · Developer Workflow
 <!-- chronolog:end -->

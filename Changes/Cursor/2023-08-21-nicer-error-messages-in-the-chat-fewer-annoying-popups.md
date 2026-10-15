@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2023-08-21-703386
 date: '2023-08-21'
+description: 'Cursor · 2023-08-21 · Interface Experience: Nicer error messages in
+  the chat! Fewer annoying popups.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
+    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 224
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: ae24208395f3c5dd02c27a29d97550c229c1e8c3ac064aad9d5e64e8ee58b3b9
+machine_hash: 1f474cd7f5a6b9a54a3ccd5604448eaeb705ec3a1539616768c9e91299b71212
 product: cursor
 product_name: Cursor
 record:
@@ -38,9 +41,11 @@ record:
   title: Nicer error messages in the chat!
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-27-c-and-f-now-properly-render-in-the-chat|cursor-2023-07-27-8b3ad9]]'
-- '[[Changes/Cursor/2023-08-17-keychords-now-use-cmd-r-ctrl-r|cursor-2023-08-17-0cf9da]]'
-- '[[Changes/Cursor/2023-08-21-activity-bar-elements-can-now-be-reordered-with-drag-and-drop|cursor-2023-08-21-0d2a6c]]'
+- '[[Changes/Cursor/2023-07-27-c-and-f-now-properly-render-in-the-chat|C♯ and F♯ now
+  properly render in the chat]]'
+- '[[Changes/Cursor/2023-08-17-keychords-now-use-cmd-r-ctrl-r|Keychords now use Cmd+R/Ctrl+R]]'
+- '[[Changes/Cursor/2023-08-21-activity-bar-elements-can-now-be-reordered-with-drag-and-drop|Activity
+  bar elements can now be reordered with drag-and-drop]]'
 source_release: '[[Releases/Cursor/cursor-2023-08-21-0-7-18-nightly-https-cursor-com-changelog-0-7-18-nightly-011c03c1|cursor-2023-08-21-0-7-18-nightly-https-cursor-com-changelog-0-7-18-nightly-011c03c1]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -48,10 +53,10 @@ title: Nicer error messages in the chat!
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Nicer error messages in the chat!
 
-<!-- chronolog:begin region="description" -->
-Cursor — Small fixes: Nicer error messages in the chat! Fewer annoying popups.
+**Cursor** · 2023-08-21 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://cursor.com/changelog/0-7-18-nightly) · from [[Releases/Cursor/cursor-2023-08-21-0-7-18-nightly-https-cursor-com-changelog-0-7-18-nightly-011c03c1|Small fixes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -60,19 +65,25 @@ Cursor — Small fixes: Nicer error messages in the chat! Fewer annoying popups.
 > Source: https://cursor.com/changelog/0-7-18-nightly
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2023-08-21-activity-bar-elements-can-now-be-reordered-with-drag-and-drop|Activity bar elements can now be reordered with drag-and-drop]] · Interface Experience
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: interface-experience
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]
-- Lag Days: 224
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Interface Experience
+
+- Earlier: 2023-08-17 · Cursor · [[Changes/Cursor/2023-08-17-keychords-now-use-cmd-r-ctrl-r|Keychords now use Cmd+R/Ctrl+R]]
+- Later: 2023-08-22 · Cursor · [[Changes/Cursor/2023-08-22-nicer-error-messages-in-the-chat-fewer-annoying-popups|Nicer error messages in the chat!]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2023-08-21-703386&body=Card%3A%20Changes%2FCursor%2F2023-08-21-nicer-error-messages-in-the-chat-fewer-annoying-popups.md%0ACard%20ID%3A%20cursor-2023-08-21-703386%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F0-7-18-nightly%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

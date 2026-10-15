@@ -1,8 +1,12 @@
 ---
 card_id: chatgpt-2025-10-03-ea32fc
 date: '2025-10-03'
+description: 'ChatGPT · 2025-10-03 · Model Support: We’re updating GPT-5 Instant to
+  better recognize and support people in moments of distress.The model is trained
+  to more…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We
+    made more improvements to the ChatGPT model!]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 998
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: c9b3c7482ba9c2de3df966573bdda07565bce788e025b88c4fd002bd44cb197f
+machine_hash: fbfffe3fd2c7669fea66a6912ab3d59741ed84b90b5872e02f1f3caacd44133e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -68,9 +72,12 @@ record:
     of distress
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-09-17-when-you-select-gpt-5-with-thinking-in-chatgpt-you-ll-see-a-new-thinking-time-to|chatgpt-2025-09-17-389c90]]'
-- '[[Changes/ChatGPT/2025-09-17-all-queries-default-to-standard-unless-you-choose-to-change-it-once-you-choose-a|chatgpt-2025-09-17-d10c30]]'
-- '[[Changes/ChatGPT/2025-09-18-we-re-improving-the-quality-and-latency-of-responses-of-the-version-of-advanced|chatgpt-2025-09-18-34d11c]]'
+- '[[Changes/ChatGPT/2025-09-17-when-you-select-gpt-5-with-thinking-in-chatgpt-you-ll-see-a-new-thinking-time-to|When
+  you select GPT-5 with Thinking in ChatGPT, you’ll see a new thinking time…]]'
+- '[[Changes/ChatGPT/2025-09-17-all-queries-default-to-standard-unless-you-choose-to-change-it-once-you-choose-a|All
+  queries default to Standard unless you choose to change it]]'
+- '[[Changes/ChatGPT/2025-09-18-we-re-improving-the-quality-and-latency-of-responses-of-the-version-of-advanced|We’re
+  improving the quality and latency of responses of the version of Advanced…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-03-updating-gpt-5-a6c090c8|chatgpt-2025-10-03-updating-gpt-5-a6c090c8]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -79,10 +86,10 @@ title: We’re updating GPT-5 Instant to better recognize and support people in 
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # We’re updating GPT-5 Instant to better recognize and support people in moments of distress
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Updating GPT-5: We’re updating GPT-5 Instant to better recognize and support people in moments of distress.The model is trained to more accurately detect and respond to potential signs of mental and emotional distress. These updates were guided by mental health experts, and help ChatGPT de-escalate conversations and point people to real-world crisis resources when appropriate, while still using language that feels supportive and grounding.As we shared in a recent blog, we've been using our real-time router to direct sensitive parts of conversations—such as those showing signs of acute distress—to reasoning models. GPT-5 Instant now performs just as well as GPT-5 Thinking on these types of questions. When GPT-5 Auto or a non-reasoning model is selected, we'll instead route these conversations to GPT-5 Instant to more quickly provide helpful and beneficial responses. ChatGPT will continue to tell users which model is active when asked.This update to GPT-5 Instant is starting to roll out to ChatGPT users today. We’re continuing to work on improvements and will keep updating the model to make it smarter and safer over time.
+**ChatGPT** · 2025-10-03 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-10-03-updating-gpt-5-a6c090c8|Updating GPT-5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -91,19 +98,23 @@ ChatGPT — Updating GPT-5: We’re updating GPT-5 Instant to better recognize a
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: model-support
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]
-- Lag Days: 998
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Model Support
+
+- Earlier: 2025-09-18 · ChatGPT · [[Changes/ChatGPT/2025-09-18-we-re-improving-the-quality-and-latency-of-responses-of-the-version-of-advanced|We’re improving the quality and latency of responses of the version of Advanced…]]
+- Later: 2025-10-22 · ChatGPT · [[Changes/ChatGPT/2025-10-22-we-re-updating-the-model-for-signed-out-users-to-gpt-5-instant-giving-more-peopl|We’re updating the model for signed-out users to GPT-5 Instant, giving more people…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We made more improvements to the ChatGPT model!]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-10-03-ea32fc&body=Card%3A%20Changes%2FChatGPT%2F2025-10-03-we-re-updating-gpt-5-instant-to-better-recognize-and-support-people-in-moments-o-ea32fc.md%0ACard%20ID%3A%20chatgpt-2025-10-03-ea32fc%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

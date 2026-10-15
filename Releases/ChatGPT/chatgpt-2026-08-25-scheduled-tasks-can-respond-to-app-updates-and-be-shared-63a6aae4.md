@@ -1,10 +1,13 @@
 ---
 changes_count: 4
 date: '2026-08-25'
-machine_hash: 0fe7f7c7ef91879f7eb22a9e2901b329446a42848a1566e26548215d864436aa
+description: 'ChatGPT release Scheduled tasks can respond to app updates and be shared
+  on 2026-08-25: 4 tracked changes across Automation and Scheduling, Mobile and Desktop'
+machine_hash: f028d8066a58e5718d8b1791730fbf3ddf1bbf61ee464c5a5b0075b872180374
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 4
   date: '2026-08-25'
   product: chatgpt
   product_name: ChatGPT
@@ -25,25 +28,27 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Scheduled tasks can respond to app updates and be shared
+title: ChatGPT · Scheduled tasks can respond to app updates and be shared
 version: Scheduled tasks can respond to app updates and be shared
 ---
 
-# ChatGPT Scheduled tasks can respond to app updates and be shared
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Scheduled tasks can respond to app updates and be shared
+
+**ChatGPT** · 2026-08-25 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Scheduled tasks in ChatGPT Work can use webhooks to respond when something changes in a supported app, helping you keep work moving without repeatedly checking for updates. You can also share a task so someone else can review and customize it, connect their own apps, and schedule an independent copy.Supported webhooks…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 4
+Tracked 4 of 4 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- automation-scheduling: [[Changes/ChatGPT/2026-08-25-scheduled-tasks-in-chatgpt-work-can-use-webhooks-to-respond-when-something-chang|Scheduled tasks in ChatGPT Work can use webhooks to respond when something changes…]]
-- automation-scheduling: [[Changes/ChatGPT/2026-08-25-free-go-plus-and-pro-users-can-share-scheduled-tasks-recipients-can-review-and-c|Free, Go, Plus, and Pro users can share scheduled tasks]]
-- automation-scheduling: [[Changes/ChatGPT/2026-08-25-free-users-can-create-up-to-three-active-scheduled-tasks-tasks-can-run-once-or-r|Free users can create up to three active scheduled tasks]]
-- mobile-desktop: [[Changes/ChatGPT/2026-08-25-plus-and-pro-users-can-ask-work-on-web-ios-and-android-to-respond-when-a-new-gma|Plus and Pro users can ask Work on web, iOS, and Android to respond when a new Gmail…]]
+- [[Changes/ChatGPT/2026-08-25-scheduled-tasks-in-chatgpt-work-can-use-webhooks-to-respond-when-something-chang|Scheduled tasks in ChatGPT Work can use webhooks to respond when something changes…]] · Automation and Scheduling
+- [[Changes/ChatGPT/2026-08-25-free-go-plus-and-pro-users-can-share-scheduled-tasks-recipients-can-review-and-c|Free, Go, Plus, and Pro users can share scheduled tasks]] · Automation and Scheduling
+- [[Changes/ChatGPT/2026-08-25-free-users-can-create-up-to-three-active-scheduled-tasks-tasks-can-run-once-or-r|Free users can create up to three active scheduled tasks]] · Automation and Scheduling
+- [[Changes/ChatGPT/2026-08-25-plus-and-pro-users-can-ask-work-on-web-ios-and-android-to-respond-when-a-new-gma|Plus and Pro users can ask Work on web, iOS, and Android to respond when a new Gmail…]] · Mobile and Desktop
 <!-- chronolog:end -->

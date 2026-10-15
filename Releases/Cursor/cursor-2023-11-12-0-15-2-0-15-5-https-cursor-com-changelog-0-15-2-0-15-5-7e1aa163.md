@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2023-11-12'
-machine_hash: 2a8f54df566f99c48b0b8cf37e4eb05e8a34aaaa2250446770cbd3e7254d72bc
+description: 'Cursor release Copilot++ improvements, Bug fixes on 2023-11-12: 1 tracked
+  change across Interface Experience'
+machine_hash: 67b6512bbd0f2d2b8ba9e7749432721293f6a9bbdda45d8f8f8578f2c550a8d2
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 2
   date: '2023-11-12'
   product: cursor
   product_name: Cursor
@@ -24,22 +27,24 @@ source_url: https://cursor.com/changelog/0-15-2-0-15-5
 tags:
 - release
 - cursor
-title: Cursor — Copilot++ improvements, Bug fixes
+title: Cursor · Copilot++ improvements, Bug fixes
 version: 0.15.2-0.15.5
 ---
 
-# Cursor Copilot++ improvements, Bug fixes
+<!-- chronolog:begin region="header" -->
+# Cursor · Copilot++ improvements, Bug fixes
+
+**Cursor** · 2023-11-12 · [Official release notes](https://cursor.com/changelog/0-15-2-0-15-5)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Copilot++ improvements: Includes green highlights to see what Copilot++ has added, the ability to accept multiple Copilot++ suggestions immediately one after another, support for Copilot++ on SSH, and fixes to how Copilot++ UI interacts with autocomplete plugins.
 
-[Official release notes](https://cursor.com/changelog/0-15-2-0-15-5)
-
-Tracked cards: 1
+Tracked 1 of 2 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- interface-experience: [[Changes/Cursor/2023-11-12-copilot-improvements-includes-green-highlights-to-see-what-copilot-has-added-the|Copilot++ improvements: Includes green highlights to see what Copilot++ has added…]]
+- [[Changes/Cursor/2023-11-12-copilot-improvements-includes-green-highlights-to-see-what-copilot-has-added-the|Copilot++ improvements: Includes green highlights to see what Copilot++ has added…]] · Interface Experience
 <!-- chronolog:end -->

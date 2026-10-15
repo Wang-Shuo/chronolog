@@ -1,10 +1,13 @@
 ---
 changes_count: 0
 date: '2023-08-11'
-machine_hash: 03095c53d24b4b2d09c65cdc5386e170d529a852d2dc96f5052b95af941b908e
+description: 'Cursor release Fix cmd-k generate with large file on 2023-08-11: no
+  tracked changes'
+machine_hash: 54d8990d83a362baab861b6249515894421a593cb2ad251683dc0578c111e1d4
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2023-08-11'
   product: cursor
   product_name: Cursor
@@ -21,19 +24,21 @@ source_url: https://cursor.com/changelog/0-7-2-0-7-6-nightly
 tags:
 - release
 - cursor
-title: Cursor — Fix cmd-k generate with large file
+title: Cursor · Fix cmd-k generate with large file
 version: 0.7.2-0.7.6-nightly
 ---
 
-# Cursor Fix cmd-k generate with large file
+<!-- chronolog:begin region="header" -->
+# Cursor · Fix cmd-k generate with large file
+
+**Cursor** · 2023-08-11 · [Official release notes](https://cursor.com/changelog/0-7-2-0-7-6-nightly)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 No more cognitive computing!
 
-[Official release notes](https://cursor.com/changelog/0-7-2-0-7-6-nightly)
-
-Tracked cards: 0
+Tracked 0 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

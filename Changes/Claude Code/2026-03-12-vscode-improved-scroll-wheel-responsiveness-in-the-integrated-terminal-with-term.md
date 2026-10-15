@@ -1,8 +1,10 @@
 ---
 card_id: claude-code-2026-03-12-e3878f
 date: '2026-03-12'
+description: 'Claude Code · 2026-03-12 · Developer Workflow: [VSCode] Improved scroll
+  wheel responsiveness in the integrated terminal with terminal-aware acceleration'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|cursor-2023-03-18-76a713]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1090
   relation: same-theme-chronology
@@ -13,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9951b59f7f615168cf8745b824f54f49c1ff44ae438c81c9821163bbe9a6fcc8
+machine_hash: 041879cb4ab3ac7d2e1ba38e005122a6657831e2a0c5f30efe5b40513217cb30
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,9 +49,12 @@ record:
   title: '[VSCode] Improved scroll wheel responsiveness in the integrated terminal…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-05-added-ctrl-u-on-an-empty-bash-prompt-to-exit-bash-mode-matching-escape-and-backs|claude-code-2026-03-05-3c133d]]'
-- '[[Changes/Claude Code/2026-03-07-added-fmt-comm-cmp-numfmt-expr-test-printf-getconf-seq-tsort-and-pr-to-the-bash|claude-code-2026-03-07-de91e9]]'
-- '[[Changes/Claude Code/2026-03-10-added-exitworktree-tool-to-leave-an-enterworktree-session|claude-code-2026-03-10-e6cb03]]'
+- '[[Changes/Claude Code/2026-03-05-added-ctrl-u-on-an-empty-bash-prompt-to-exit-bash-mode-matching-escape-and-backs|Added
+  Ctrl+U on an empty bash prompt (!) to exit bash mode, matching escape…]]'
+- '[[Changes/Claude Code/2026-03-07-added-fmt-comm-cmp-numfmt-expr-test-printf-getconf-seq-tsort-and-pr-to-the-bash|Added
+  fmt, comm, cmp, numfmt, expr, test, printf, getconf, seq…]]'
+- '[[Changes/Claude Code/2026-03-10-added-exitworktree-tool-to-leave-an-enterworktree-session|Added
+  ExitWorktree tool to leave an EnterWorktree session]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-12-v2-1-74-github-295929475-2ee971ae|claude-code-2026-03-12-v2-1-74-github-295929475-2ee971ae]]'
 source_type: github_releases
 theme: developer-workflow
@@ -57,10 +62,10 @@ title: VSCode Improved scroll wheel responsiveness in the integrated terminal…
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # [VSCode] Improved scroll wheel responsiveness in the integrated terminal…
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.74: [VSCode] Improved scroll wheel responsiveness in the integrated terminal with terminal-aware acceleration
+**Claude Code** · 2026-03-12 · [[Themes/developer-workflow|Developer Workflow]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.74) · from [[Releases/Claude Code/claude-code-2026-03-12-v2-1-74-github-295929475-2ee971ae|v2.1.74]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -69,19 +74,28 @@ Claude Code — v2.1.74: [VSCode] Improved scroll wheel responsiveness in the in
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.74
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-03-12-added-automemorydirectory-setting-to-configure-a-custom-directory-for-auto-memor|Added autoMemoryDirectory setting to configure a custom directory for auto-memory…]] · Memory and Personalization
+- [[Changes/Claude Code/2026-03-12-fixed-voice-mode-silently-failing-on-the-macos-native-binary-for-users-whose-ter|Fixed voice mode silently failing on the macOS native binary for users whose…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-03-12-added-actionable-suggestions-to-context-command-identifies-context-heavy-tools-m|Added actionable suggestions to /context command]] · Memory and Personalization
+- [[Changes/Claude Code/2026-03-12-changed-plugin-dir-so-local-dev-copies-now-override-installed-marketplace-plugin|Changed --plugin-dir so local dev copies now override installed marketplace…]] · Apps and Integrations
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: developer-workflow
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-18-built-in-terminal|cursor-2023-03-18-76a713]]
-- Lag Days: 1090
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Developer Workflow
+
+- Earlier: 2026-03-10 · Claude Code · [[Changes/Claude Code/2026-03-10-added-exitworktree-tool-to-leave-an-enterworktree-session|Added ExitWorktree tool to leave an EnterWorktree session]]
+- Later: 2026-03-14 · Claude Code · [[Changes/Claude Code/2026-03-14-added-worktree-sparsepaths-setting-for-claude-worktree-in-large-monorepos-to-che|Added worktree.sparsePaths setting for claude --worktree in large monorepos…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-03-12-e3878f&body=Card%3A%20Changes%2FClaude%20Code%2F2026-03-12-vscode-improved-scroll-wheel-responsiveness-in-the-integrated-terminal-with-term.md%0ACard%20ID%3A%20claude-code-2026-03-12-e3878f%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.74%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

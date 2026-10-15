@@ -1,8 +1,12 @@
 ---
 card_id: cursor-2026-10-13-e078e6
 date: '2026-10-13'
+description: 'Cursor · 2026-10-13 · Collaboration: Starting today, the marketplace
+  is also open to public submissions, so any team building developer tools can publish
+  an…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|cursor-2023-09-08-8ba960]]'
+  first_in_tracked: '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams
+    can also share private docs]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1131
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: dd771eb111b1e2a1f70f58d844be84dba1d60144196359dc8186c18563ec0e4b
+machine_hash: 47fefbf44847e8ef2b022e5e2b9599a66dcb16bff88cb25325e6fcaba3930bba
 product: cursor
 product_name: Cursor
 record:
@@ -49,9 +53,12 @@ record:
     team…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-17-chatgpt-for-word-is-available-on-all-chatgpt-plans-including-free-your-plan-s-to|chatgpt-2026-09-17-c49c1f]]'
-- '[[Changes/ChatGPT/2026-09-29-space-brings-your-pages-files-and-related-work-together-in-chatgpt-create-a-spac|chatgpt-2026-09-29-100bf5]]'
-- '[[Changes/ChatGPT/2026-09-29-your-chatgpt-profile-now-brings-together-your-bio-activity-and-sites-you-choose|chatgpt-2026-09-29-ee33ec]]'
+- '[[Changes/ChatGPT/2026-09-17-chatgpt-for-word-is-available-on-all-chatgpt-plans-including-free-your-plan-s-to|ChatGPT
+  for Word is available on all ChatGPT plans, including Free]]'
+- '[[Changes/ChatGPT/2026-09-29-space-brings-your-pages-files-and-related-work-together-in-chatgpt-create-a-spac|Space
+  brings your Pages, files, and related work together in ChatGPT]]'
+- '[[Changes/ChatGPT/2026-09-29-your-chatgpt-profile-now-brings-together-your-bio-activity-and-sites-you-choose|Your
+  ChatGPT profile now brings together your bio, activity, and Sites you choose…]]'
 source_release: '[[Releases/Cursor/cursor-2026-10-13-origin-app-marketplace-https-cursor-com-changelog-origin-app-mar-54aa7e2c|cursor-2026-10-13-origin-app-marketplace-https-cursor-com-changelog-origin-app-mar-54aa7e2c]]'
 source_type: cursor_changelog
 theme: collaboration
@@ -60,10 +67,10 @@ title: Starting today, the marketplace is also open to public submissions, so an
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Starting today, the marketplace is also open to public submissions, so any team…
 
-<!-- chronolog:begin region="description" -->
-Cursor — Origin App Marketplace: Starting today, the marketplace is also open to public submissions, so any team building developer tools can publish an app for Origin.
+**Cursor** · 2026-10-13 · [[Themes/collaboration|Collaboration]] · [Official source](https://cursor.com/changelog/origin-app-marketplace) · from [[Releases/Cursor/cursor-2026-10-13-origin-app-marketplace-https-cursor-com-changelog-origin-app-mar-54aa7e2c|Origin App Marketplace]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -72,19 +79,25 @@ Cursor — Origin App Marketplace: Starting today, the marketplace is also open 
 > Source: https://cursor.com/changelog/origin-app-marketplace
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2026-10-13-origin-now-integrates-with-over-20-apps-for-deployments-ci-code-review-security|Origin now integrates with over 20 apps for deployments, CI, code review, security…]] · Safety and Privacy
+- [[Changes/Cursor/2026-10-13-the-marketplace-now-includes-apps-for|The marketplace now includes apps for]] · Apps and Integrations
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: collaboration
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|cursor-2023-09-08-8ba960]]
-- Lag Days: 1131
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Collaboration
+
+- Earlier: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-your-chatgpt-profile-now-brings-together-your-bio-activity-and-sites-you-choose|Your ChatGPT profile now brings together your bio, activity, and Sites you choose…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-09-08 · Cursor · [[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams can also share private docs]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2026-10-13-e078e6&body=Card%3A%20Changes%2FCursor%2F2026-10-13-starting-today-the-marketplace-is-also-open-to-public-submissions-so-any-team-bu.md%0ACard%20ID%3A%20cursor-2026-10-13-e078e6%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2Forigin-app-marketplace%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

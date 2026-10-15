@@ -1,10 +1,13 @@
 ---
 changes_count: 5
 date: '2025-12-19'
-machine_hash: f2293002f4aa3d10c93c1f45bf7bf4aa3c6aa4ba795f434cf6c7cfa58e2a4390
+description: 'ChatGPT release New detailed characteristic controls on 2025-12-19:
+  5 tracked changes across Memory and Personalization'
+machine_hash: 6fc6918f0fb3c4b336479d5810694f65d0376533024ced9712f5e1fa43a6322e
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 5
   date: '2025-12-19'
   product: chatgpt
   product_name: ChatGPT
@@ -23,26 +26,28 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — New detailed characteristic controls
+title: ChatGPT · New detailed characteristic controls
 version: New detailed characteristic controls
 ---
 
-# ChatGPT New detailed characteristic controls
+<!-- chronolog:begin region="header" -->
+# ChatGPT · New detailed characteristic controls
+
+**ChatGPT** · 2025-12-19 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 In addition to selecting a base style and tone preset—like candid and friendly—you can now adjust specific characteristics individually. From the ‘personalization’ pane in settings, you can adjust ChatGPT to:
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 5
+Tracked 5 of 5 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- memory: [[Changes/ChatGPT/2025-12-19-be-more-or-less-warm|Be more or less warm]]
-- memory: [[Changes/ChatGPT/2025-12-19-use-more-or-fewer-emojis|Use more or fewer emojis]]
-- memory: [[Changes/ChatGPT/2025-12-19-be-more-or-less-enthusiastic|Be more or less enthusiastic]]
-- memory: [[Changes/ChatGPT/2025-12-19-in-addition-to-selecting-a-base-style-and-tone-preset-like-candid-and-friendly-y|In addition to selecting a base style and tone preset—like candid and friendly—you…]]
-- memory: [[Changes/ChatGPT/2025-12-19-use-more-or-fewer-headers-lists|Use more or fewer headers & lists]]
+- [[Changes/ChatGPT/2025-12-19-be-more-or-less-warm|Be more or less warm]] · Memory and Personalization
+- [[Changes/ChatGPT/2025-12-19-use-more-or-fewer-emojis|Use more or fewer emojis]] · Memory and Personalization
+- [[Changes/ChatGPT/2025-12-19-be-more-or-less-enthusiastic|Be more or less enthusiastic]] · Memory and Personalization
+- [[Changes/ChatGPT/2025-12-19-in-addition-to-selecting-a-base-style-and-tone-preset-like-candid-and-friendly-y|In addition to selecting a base style and tone preset—like candid and friendly—you…]] · Memory and Personalization
+- [[Changes/ChatGPT/2025-12-19-use-more-or-fewer-headers-lists|Use more or fewer headers & lists]] · Memory and Personalization
 <!-- chronolog:end -->

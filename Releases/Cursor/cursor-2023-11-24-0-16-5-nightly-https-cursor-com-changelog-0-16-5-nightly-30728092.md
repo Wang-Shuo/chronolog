@@ -1,10 +1,12 @@
 ---
 changes_count: 0
 date: '2023-11-24'
-machine_hash: c0693c15fe46914ce2df5ab3056907960908f393e634a2851911076d251dbd9c
+description: 'Cursor release GPT-V Windows Bug-fixes on 2023-11-24: no tracked changes'
+machine_hash: 3318e658ce07bc4a4732d0747d0a1fb1544d7384b234c7b74dc301efb8afc96d
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2023-11-24'
   product: cursor
   product_name: Cursor
@@ -22,19 +24,21 @@ source_url: https://cursor.com/changelog/0-16-5-nightly
 tags:
 - release
 - cursor
-title: Cursor — GPT-V Windows Bug-fixes
+title: Cursor · GPT-V Windows Bug-fixes
 version: 0.16.5-nightly
 ---
 
-# Cursor GPT-V Windows Bug-fixes
+<!-- chronolog:begin region="header" -->
+# Cursor · GPT-V Windows Bug-fixes
+
+**Cursor** · 2023-11-24 · [Official release notes](https://cursor.com/changelog/0-16-5-nightly)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Fixes the bug where images weren't showing up or being sent to server on Windows.
 
-[Official release notes](https://cursor.com/changelog/0-16-5-nightly)
-
-Tracked cards: 0
+Tracked 0 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

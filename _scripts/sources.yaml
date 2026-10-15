@@ -1,3 +1,5 @@
+site:
+  repository: https://github.com/Wang-Shuo/chronolog
 products:
   - name: chatgpt
     display_name: ChatGPT

@@ -1,10 +1,12 @@
 ---
 changes_count: 0
 date: '2023-09-07'
-machine_hash: 87e62469ea2cb7ace0bb61f489eda0070994f8fdb7c162a6c90784efb7fe15ea
+description: 'Cursor release Hotfix for indexing on 2023-09-07: no tracked changes'
+machine_hash: db1a8edb3b1462a42a943e08efe904f6d36174067c17ccda1c5ba79d3bf4e6c3
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2023-09-07'
   product: cursor
   product_name: Cursor
@@ -21,19 +23,21 @@ source_url: https://cursor.com/changelog/0-9-5
 tags:
 - release
 - cursor
-title: Cursor — Hotfix for indexing
+title: Cursor · Hotfix for indexing
 version: 0.9.5
 ---
 
-# Cursor Hotfix for indexing
+<!-- chronolog:begin region="header" -->
+# Cursor · Hotfix for indexing
+
+**Cursor** · 2023-09-07 · [Official release notes](https://cursor.com/changelog/0-9-5)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Fixes a bug with indexing if you had turned off indexing by default.
 
-[Official release notes](https://cursor.com/changelog/0-9-5)
-
-Tracked cards: 0
+Tracked 0 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

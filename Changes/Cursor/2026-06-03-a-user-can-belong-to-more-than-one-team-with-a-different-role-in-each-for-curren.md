@@ -1,8 +1,12 @@
 ---
 card_id: cursor-2026-06-03-af2e9e
 date: '2026-06-03'
+description: 'Cursor · 2026-06-03 · Collaboration: A user can belong to more than
+  one team, with a different role in each. For current customers, your existing team
+  is…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|cursor-2023-09-08-8ba960]]'
+  first_in_tracked: '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams
+    can also share private docs]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 999
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 616984b3fd8422d8b21dd9a234272655eaaa1b29756c4330ada854430700b54b
+machine_hash: 71b43e59595e1b82f2cb72740e80cce31cc4a01effc482c53a27f8ca20d9923b
 product: cursor
 product_name: Cursor
 record:
@@ -52,9 +56,12 @@ record:
   title: A user can belong to more than one team, with a different role in each
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-02-otel-resource-attributes-values-are-now-included-as-labels-on-metric-datapoints|claude-code-2026-06-02-dc5a23]]'
-- '[[Changes/Cursor/2026-06-03-an-organization-is-the-top-level-container-for-your-company-s-identity-administr|cursor-2026-06-03-37d95d]]'
-- '[[Changes/Cursor/2026-06-03-groups-are-a-lightweight-collection-of-users-that-can-sit-across-or-within-teams|cursor-2026-06-03-712ba7]]'
+- '[[Changes/Claude Code/2026-06-02-otel-resource-attributes-values-are-now-included-as-labels-on-metric-datapoints|OTEL_RESOURCE_ATTRIBUTES
+  values are now included as labels on metric datapoints…]]'
+- '[[Changes/Cursor/2026-06-03-an-organization-is-the-top-level-container-for-your-company-s-identity-administr|An
+  organization is the top-level container for your company''s identity…]]'
+- '[[Changes/Cursor/2026-06-03-groups-are-a-lightweight-collection-of-users-that-can-sit-across-or-within-teams|Groups
+  are a lightweight collection of users that can sit across or within teams]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-03-organizations-for-cursor-enterprise-https-cursor-com-changelog-e-b5c7f576|cursor-2026-06-03-organizations-for-cursor-enterprise-https-cursor-com-changelog-e-b5c7f576]]'
 source_type: cursor_changelog
 theme: collaboration
@@ -62,10 +69,10 @@ title: A user can belong to more than one team, with a different role in each
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # A user can belong to more than one team, with a different role in each
 
-<!-- chronolog:begin region="description" -->
-Cursor — Organizations for Cursor Enterprise: A user can belong to more than one team, with a different role in each. For current customers, your existing team is preserved and becomes the default home for login, routing, and creating new teams.
+**Cursor** · 2026-06-03 · [[Themes/collaboration|Collaboration]] · [Official source](https://cursor.com/changelog/enterprise-organizations) · from [[Releases/Cursor/cursor-2026-06-03-organizations-for-cursor-enterprise-https-cursor-com-changelog-e-b5c7f576|Organizations for Cursor Enterprise]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -74,19 +81,28 @@ Cursor — Organizations for Cursor Enterprise: A user can belong to more than o
 > Source: https://cursor.com/changelog/enterprise-organizations
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2026-06-03-an-organization-is-the-top-level-container-for-your-company-s-identity-administr|An organization is the top-level container for your company's identity…]] · Collaboration
+- [[Changes/Cursor/2026-06-03-groups-are-a-lightweight-collection-of-users-that-can-sit-across-or-within-teams|Groups are a lightweight collection of users that can sit across or within teams]] · Collaboration
+- [[Changes/Cursor/2026-06-03-enterprise-customers-can-now-manage-multiple-cursor-teams-from-one-place-with-di|Enterprise customers can now manage multiple Cursor teams from one place…]] · Safety and Privacy
+- [[Changes/Cursor/2026-06-03-teams-are-the-operating-unit-for-a-department-region-or-subsidiary-this-is-what|Teams are the operating unit for a department, region, or subsidiary]] · Safety and Privacy
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: collaboration
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|cursor-2023-09-08-8ba960]]
-- Lag Days: 999
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Collaboration
+
+- Earlier: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-otel-resource-attributes-values-are-now-included-as-labels-on-metric-datapoints|OTEL_RESOURCE_ATTRIBUTES values are now included as labels on metric datapoints…]]
+- Later: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-with-canvases-agents-can-create-interactive-artifacts-like-dashboards-reports-an|With canvases, agents can create interactive artifacts like dashboards, reports…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-09-08 · Cursor · [[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams can also share private docs]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2026-06-03-af2e9e&body=Card%3A%20Changes%2FCursor%2F2026-06-03-a-user-can-belong-to-more-than-one-team-with-a-different-role-in-each-for-curren.md%0ACard%20ID%3A%20cursor-2026-06-03-af2e9e%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2Fenterprise-organizations%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

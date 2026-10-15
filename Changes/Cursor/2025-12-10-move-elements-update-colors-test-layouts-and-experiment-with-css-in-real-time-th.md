@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2025-12-10-07fdf8
 date: '2025-12-10'
+description: 'Cursor · 2025-12-10 · Agent Mode: Move elements, update colors, test
+  layouts, and experiment with CSS in real time, then instantly apply changes to your…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
+    to the first nightly release!]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 888
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 76865aab9b4f692ba9f489ac6ff1520c4bc51f3029ddea1583d1a0e9495645e2
+machine_hash: 6ce9e4c6580941b95b8c443e9cb031bd1fe6e7ed874e013711c3c888c634a436
 product: cursor
 product_name: Cursor
 record:
@@ -45,9 +48,12 @@ record:
     time…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-10-29-run-up-to-eight-agents-in-parallel-on-a-single-prompt-this-uses-git-worktrees-or|cursor-2025-10-29-79b7a8]]'
-- '[[Changes/Cursor/2025-11-21-all-grep-commands-run-by-the-agent-are-now-instant|cursor-2025-11-21-af1861]]'
-- '[[Changes/Cursor/2025-11-21-when-creating-plans-cursor-responds-with-clarifying-questions-to-improve-the-pla|cursor-2025-11-21-c66e0a]]'
+- '[[Changes/Cursor/2025-10-29-run-up-to-eight-agents-in-parallel-on-a-single-prompt-this-uses-git-worktrees-or|Run
+  up to eight agents in parallel on a single prompt]]'
+- '[[Changes/Cursor/2025-11-21-all-grep-commands-run-by-the-agent-are-now-instant|All
+  grep commands run by the agent are now instant]]'
+- '[[Changes/Cursor/2025-11-21-when-creating-plans-cursor-responds-with-clarifying-questions-to-improve-the-pla|When
+  creating plans, Cursor responds with clarifying questions to improve the plan quality]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323|cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -56,10 +62,10 @@ title: Move elements, update colors, test layouts, and experiment with CSS in re
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Move elements, update colors, test layouts, and experiment with CSS in real time…
 
-<!-- chronolog:begin region="description" -->
-Cursor — Debug Mode, Plan Mode Improvements, Multi-Agent Judging, and Pinned Chats: Move elements, update colors, test layouts, and experiment with CSS in real time, then instantly apply changes to your codebase using agent. You can also click on multiple elements and describe changes in text to kick off an agent to make visual changes.
+**Cursor** · 2025-12-10 · [[Themes/agent-mode|Agent Mode]] · [Official source](https://cursor.com/changelog/2-2) · from [[Releases/Cursor/cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323|Debug Mode, Plan Mode Improvements, Multi-Agent Judging, and Pinned Chats]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -68,19 +74,28 @@ Cursor — Debug Mode, Plan Mode Improvements, Multi-Agent Judging, and Pinned C
 > Source: https://cursor.com/changelog/2-2
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2025-12-10-design-and-code-simultaneously-with-a-brand-new-browser-sidebar-and-component-tr|Design and code simultaneously with a brand new browser sidebar and component tree]] · Interface Experience
+- [[Changes/Cursor/2025-12-10-plan-mode-now-supports-inline-mermaid-diagrams-allowing-the-agent-to-automatical|Plan Mode now supports inline Mermaid diagrams, allowing the agent to automatically…]] · Agent Mode
+- [[Changes/Cursor/2025-12-10-debug-mode-helps-you-reproduce-and-fix-the-most-tricky-bugs|Debug Mode helps you reproduce and fix the most tricky bugs]] · Developer Workflow
+- [[Changes/Cursor/2025-12-10-cursor-instruments-your-app-with-runtime-logs-to-find-the-root-cause-it-works-ac|Cursor instruments your app with runtime logs to find the root cause]] · Model Support
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: agent-mode
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]
-- Lag Days: 888
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Agent Mode
+
+- Earlier: 2025-11-21 · Cursor · [[Changes/Cursor/2025-11-21-when-creating-plans-cursor-responds-with-clarifying-questions-to-improve-the-pla|When creating plans, Cursor responds with clarifying questions to improve the plan quality]]
+- Later: 2025-12-22 · Cursor · [[Changes/Cursor/2025-12-22-this-includes-the-core-agent-layout-controls-viewing-code-diffs-and-more-we-will|This includes the core agent, layout controls, viewing code diffs, and more]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2025-12-10-07fdf8&body=Card%3A%20Changes%2FCursor%2F2025-12-10-move-elements-update-colors-test-layouts-and-experiment-with-css-in-real-time-th.md%0ACard%20ID%3A%20cursor-2025-12-10-07fdf8%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F2-2%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

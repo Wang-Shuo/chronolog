@@ -1,8 +1,12 @@
 ---
 card_id: cursor-2024-02-15-0880b4
 date: '2024-02-15'
+description: 'Cursor · 2024-02-15 · Agent Mode: Interpreter Mode: We''ve made some
+  big improvements to the backend powering interpreter mode! It should now be much
+  better at…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
+    to the first nightly release!]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 224
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 309be6412782d58d021aac75a66fc697827562cb29ae41ed6a7d82579f25d926
+machine_hash: f41a541063bee172802ae571089be3a7c0eaaf63e2606f16bdc63c27b2f2f524
 product: cursor
 product_name: Cursor
 record:
@@ -41,9 +45,12 @@ record:
   title: 'Interpreter Mode: We''ve made some big improvements to the backend powering…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]'
-- '[[Changes/Cursor/2023-07-10-this-nightly-build-comes-with-experimental-interface-agent-support|cursor-2023-07-10-6617f2]]'
-- '[[Changes/Cursor/2023-07-10-the-goal-you-write-an-interface-specification-and-an-agent-writes-both-the-tests|cursor-2023-07-10-ddb656]]'
+- '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
+  to the first nightly release!]]'
+- '[[Changes/Cursor/2023-07-10-this-nightly-build-comes-with-experimental-interface-agent-support|This
+  nightly build comes with experimental interface agent support!]]'
+- '[[Changes/Cursor/2023-07-10-the-goal-you-write-an-interface-specification-and-an-agent-writes-both-the-tests|The
+  goal: you write an interface specification, and an agent writes both the tests…]]'
 source_release: '[[Releases/Cursor/cursor-2024-02-15-0-27-x-https-cursor-com-changelog-0-27-x-29975100|cursor-2024-02-15-0-27-x-https-cursor-com-changelog-0-27-x-29975100]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -51,10 +58,10 @@ title: 'Interpreter Mode: We''ve made some big improvements to the backend power
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Interpreter Mode: We've made some big improvements to the backend powering…
 
-<!-- chronolog:begin region="description" -->
-Cursor — Linter, Interpreter Mode Updates: Interpreter Mode: We've made some big improvements to the backend powering interpreter mode! It should now be much better at using tools and understanding your project.
+**Cursor** · 2024-02-15 · [[Themes/agent-mode|Agent Mode]] · [Official source](https://cursor.com/changelog/0-27-x) · from [[Releases/Cursor/cursor-2024-02-15-0-27-x-https-cursor-com-changelog-0-27-x-29975100|Linter, Interpreter Mode Updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -63,19 +70,25 @@ Cursor — Linter, Interpreter Mode Updates: Interpreter Mode: We've made some b
 > Source: https://cursor.com/changelog/0-27-x
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2024-02-15-linter-you-can-now-turn-on-an-ai-linter-in-the-more-tab-beside-chat-it-ll-scan-y|Linter: You can now turn on an AI linter in the "More" tab beside Chat]] · Developer Workflow
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: agent-mode
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]
-- Lag Days: 224
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Agent Mode
+
+- Earlier: 2023-07-10 · Cursor · [[Changes/Cursor/2023-07-10-the-goal-you-write-an-interface-specification-and-an-agent-writes-both-the-tests|The goal: you write an interface specification, and an agent writes both the tests…]]
+- Later: 2024-08-02 · Cursor · [[Changes/Cursor/2024-08-02-concurrent-composers-support-composer-control-panel-and-various-bug-fixes-such-a|Concurrent composers support, composer control panel, and various bug fixes such…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2024-02-15-0880b4&body=Card%3A%20Changes%2FCursor%2F2024-02-15-interpreter-mode-we-ve-made-some-big-improvements-to-the-backend-powering-interp.md%0ACard%20ID%3A%20cursor-2024-02-15-0880b4%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F0-27-x%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

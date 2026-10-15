@@ -1,10 +1,13 @@
 ---
 changes_count: 0
 date: '2023-07-04'
-machine_hash: 88fec3ff50640b59515a169725e9460217f2136cb6a1e1305f224f85967ac0d6
+description: 'Cursor release Hotfix for "with codebase" on 2023-07-04: no tracked
+  changes'
+machine_hash: 0e50665fee7f41acbc45290ead374fa04d3cbc4a088f8f96f56e0e1574e357cd
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2023-07-04'
   product: cursor
   product_name: Cursor
@@ -21,19 +24,21 @@ source_url: https://cursor.com/changelog/0-2-41
 tags:
 - release
 - cursor
-title: Cursor — Hotfix for "with codebase"
+title: Cursor · Hotfix for "with codebase"
 version: 0.2.41
 ---
 
-# Cursor Hotfix for "with codebase"
+<!-- chronolog:begin region="header" -->
+# Cursor · Hotfix for "with codebase"
+
+**Cursor** · 2023-07-04 · [Official release notes](https://cursor.com/changelog/0-2-41)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Includes a fix for the chat "with codebase" feature.
 
-[Official release notes](https://cursor.com/changelog/0-2-41)
-
-Tracked cards: 0
+Tracked 0 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

@@ -1,7 +1,8 @@
 ---
 created: '2022-12-15'
 date: '2026-09-29'
-machine_hash: 8666bddc78c2aa71b78557fca08b14afa9a59810880562aadc64699d71c79e1a
+description: 'Research question: what is being charged for, and what does a plan unlock?'
+machine_hash: 0c0599a8663116a40c4252c6c00ce67261fcc1a8169359259d847db376924f36
 modified: '2026-09-29'
 products_involved:
 - ChatGPT
@@ -16,7 +17,9 @@ theme: pricing-model
 title: Pricing Model
 ---
 
-# Theme: pricing-model
+<!-- chronolog:begin region="header" -->
+# Pricing Model
+<!-- chronolog:end -->
 
 ## Research summary
 <!-- chronolog:begin region="narrative" -->

@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2026-05-20-601cac
 date: '2026-05-20'
+description: 'Cursor · 2026-05-20 · Collaboration: You can now share canvases from
+  Cursor with your teammates.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|cursor-2023-09-08-8ba960]]'
+  first_in_tracked: '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams
+    can also share private docs]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 985
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: edbdaebb9cde62e4d5d71ad03b14fc67b139c7eaaba334558d3f402eb0f0292c
+machine_hash: 346dede5eff4bdc10d9c1d88b2181877a411094bd5d00203e44b043d014bdaf2
 product: cursor
 product_name: Cursor
 record:
@@ -38,9 +41,12 @@ record:
   title: Share canvases from Cursor with your teammates
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-01-admins-can-now-create-a-team-marketplace-without-connecting-a-repository-first-a|cursor-2026-05-01-6de28d]]'
-- '[[Changes/Cursor/2026-05-04-customers-with-existing-blocklists-will-need-to-migrate-to-the-new-system-by-jun|cursor-2026-05-04-af4668]]'
-- '[[Changes/Cursor/2026-05-11-cursor-is-now-available-in-microsoft-teams|cursor-2026-05-11-cc179a]]'
+- '[[Changes/Cursor/2026-05-01-admins-can-now-create-a-team-marketplace-without-connecting-a-repository-first-a|Admins
+  can now create a team marketplace without connecting a repository first]]'
+- '[[Changes/Cursor/2026-05-04-customers-with-existing-blocklists-will-need-to-migrate-to-the-new-system-by-jun|Customers
+  with existing blocklists will need to migrate to the new system by June 1st]]'
+- '[[Changes/Cursor/2026-05-11-cursor-is-now-available-in-microsoft-teams|Cursor is
+  now available in Microsoft Teams]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-20-3-5-https-cursor-com-changelog-shared-canvases-68b3b2da|cursor-2026-05-20-3-5-https-cursor-com-changelog-shared-canvases-68b3b2da]]'
 source_type: cursor_changelog
 theme: collaboration
@@ -48,10 +54,10 @@ title: Share canvases from Cursor with your teammates
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Share canvases from Cursor with your teammates
 
-<!-- chronolog:begin region="description" -->
-Cursor — Shared Canvases and /loop Skill: You can now share canvases from Cursor with your teammates.
+**Cursor** · 2026-05-20 · [[Themes/collaboration|Collaboration]] · [Official source](https://cursor.com/changelog/shared-canvases) · from [[Releases/Cursor/cursor-2026-05-20-3-5-https-cursor-com-changelog-shared-canvases-68b3b2da|Shared Canvases and /loop Skill]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -60,19 +66,28 @@ Cursor — Shared Canvases and /loop Skill: You can now share canvases from Curs
 > Source: https://cursor.com/changelog/shared-canvases
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2026-05-20-teammates-open-a-shared-canvas-from-its-link-with-read-only-access-the-shared-ca|Teammates open a shared canvas from its link with read-only access]] · Enterprise and Administration
+- [[Changes/Cursor/2026-05-20-use-the-loop-skill-for-local-long-running-agents-for-example-you-can-ask-it-to-c|Use the /loop skill for local long-running agents]] · Agent Mode
+- [[Changes/Cursor/2026-05-20-with-loop-cursor-can-run-a-prompt-repeatedly-on-a-local-schedule-until-a-certain|With /loop, Cursor can run a prompt repeatedly on a local schedule, until a certain…]] · Agent Mode
+- [[Changes/Cursor/2026-05-20-canvases-are-interactive-artifacts-created-by-agents-like-reports-dashboards-and|Canvases are interactive artifacts created by agents, like reports, dashboards…]] · Files and Data
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: collaboration
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|cursor-2023-09-08-8ba960]]
-- Lag Days: 985
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Collaboration
+
+- Earlier: 2026-05-11 · Cursor · [[Changes/Cursor/2026-05-11-cursor-is-now-available-in-microsoft-teams|Cursor is now available in Microsoft Teams]]
+- Later: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-otel-resource-attributes-values-are-now-included-as-labels-on-metric-datapoints|OTEL_RESOURCE_ATTRIBUTES values are now included as labels on metric datapoints…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-09-08 · Cursor · [[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams can also share private docs]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2026-05-20-601cac&body=Card%3A%20Changes%2FCursor%2F2026-05-20-you-can-now-share-canvases-from-cursor-with-your-teammates.md%0ACard%20ID%3A%20cursor-2026-05-20-601cac%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2Fshared-canvases%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

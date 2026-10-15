@@ -1,10 +1,13 @@
 ---
 changes_count: 4
 date: '2025-08-21'
-machine_hash: 85c8af812018324694dbadc89c6548cdb28bf21f57705650a28061be39b5d7f8
+description: 'Cursor release Linear integration, improved Agent terminal, and OS notifications
+  on 2025-08-21: 4 tracked changes across Agent Mode, Apps and Integrations…'
+machine_hash: d483dabcb83124fa485151225c5b814fca73b62097c42e66929ee2ef642d731d
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 18
   date: '2025-08-21'
   product: cursor
   product_name: Cursor
@@ -21,25 +24,27 @@ source_url: https://cursor.com/changelog/1-5
 tags:
 - release
 - cursor
-title: Cursor — Linear integration, improved Agent terminal, and OS notifications
+title: Cursor · Linear integration, improved Agent terminal, and OS notifications
 version: '1.5'
 ---
 
-# Cursor Linear integration, improved Agent terminal, and OS notifications
+<!-- chronolog:begin region="header" -->
+# Cursor · Linear integration, improved Agent terminal, and OS notifications
+
+**Cursor** · 2025-08-21 · [Official release notes](https://cursor.com/changelog/1-5)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 #Run Agents in Linear
 
-[Official release notes](https://cursor.com/changelog/1-5)
-
-Tracked cards: 4
+Tracked 4 of 18 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- apps-integrations: [[Changes/Cursor/2025-08-21-cursor-now-supports-mcp-elicitation-a-new-feature-in-the-mcp-spec-that-allows-se|Cursor now supports MCP elicitation, a new feature in the MCP spec that allows…]]
-- agent-mode: [[Changes/Cursor/2025-08-21-you-can-now-start-background-agents-directly-from-linear-delegate-tasks-to-curso|Start Background Agents directly from Linear]]
-- developer-workflow: [[Changes/Cursor/2025-08-21-the-terminal-now-opens-on-the-left-with-a-clear-backdrop-and-border-animation-to|The terminal now opens on the left with a clear backdrop and border animation…]]
-- agent-mode: [[Changes/Cursor/2025-08-21-get-native-os-notifications-when-an-agent-run-finishes-or-when-input-is-required|Get native OS notifications when an agent run finishes or when input is required…]]
+- [[Changes/Cursor/2025-08-21-cursor-now-supports-mcp-elicitation-a-new-feature-in-the-mcp-spec-that-allows-se|Cursor now supports MCP elicitation, a new feature in the MCP spec that allows…]] · Apps and Integrations
+- [[Changes/Cursor/2025-08-21-you-can-now-start-background-agents-directly-from-linear-delegate-tasks-to-curso|Start Background Agents directly from Linear]] · Agent Mode
+- [[Changes/Cursor/2025-08-21-the-terminal-now-opens-on-the-left-with-a-clear-backdrop-and-border-animation-to|The terminal now opens on the left with a clear backdrop and border animation…]] · Developer Workflow
+- [[Changes/Cursor/2025-08-21-get-native-os-notifications-when-an-agent-run-finishes-or-when-input-is-required|Get native OS notifications when an agent run finishes or when input is required…]] · Agent Mode
 <!-- chronolog:end -->

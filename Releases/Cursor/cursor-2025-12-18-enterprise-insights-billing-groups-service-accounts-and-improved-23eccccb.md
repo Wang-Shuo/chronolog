@@ -1,10 +1,13 @@
 ---
 changes_count: 5
 date: '2025-12-18'
-machine_hash: 812146c04c119ce890c6917134ce07cbe9182ab17a698092ec0e59f3a18d91fc
+description: 'Cursor release Enterprise Insights, Billing Groups, Service Accounts,
+  and Improved Security Controls on 2025-12-18: 5 tracked changes across Context Window…'
+machine_hash: 89249eb1c25641413e5fe84fdb8ac11737c2d09138e3afeeaccea78e5294ac55
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 17
   date: '2025-12-18'
   product: cursor
   product_name: Cursor
@@ -25,28 +28,30 @@ source_url: https://cursor.com/changelog/enterprise-dec-2025
 tags:
 - release
 - cursor
-title: Cursor — Enterprise Insights, Billing Groups, Service Accounts, and Improved
+title: Cursor · Enterprise Insights, Billing Groups, Service Accounts, and Improved
   Security Controls
 version: Enterprise Insights, Billing Groups, Service Accounts, and Improved Security
   Controls
 ---
 
-# Cursor Enterprise Insights, Billing Groups, Service Accounts, and Improved Security Controls
+<!-- chronolog:begin region="header" -->
+# Cursor · Enterprise Insights, Billing Groups, Service Accounts, and Improved Security Controls
+
+**Cursor** · 2025-12-18 · [Official release notes](https://cursor.com/changelog/enterprise-dec-2025)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Many of the largest software companies in the world have adopted Cursor for Enterprise. Here are some of the new features we're releasing today:
 
-[Official release notes](https://cursor.com/changelog/enterprise-dec-2025)
-
-Tracked cards: 5
+Tracked 5 of 17 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- safety-privacy: [[Changes/Cursor/2025-12-18-enterprise-customers-can-also-extend-these-categories-across-their-organization|Enterprise customers can also extend these categories across their organization and teams]]
-- enterprise-admin: [[Changes/Cursor/2025-12-18-many-of-the-largest-software-companies-in-the-world-have-adopted-cursor-for-ente|Many of the largest software companies in the world have adopted Cursor for Enterprise]]
-- context-window: [[Changes/Cursor/2025-12-18-generate-a-read-only-transcript-of-any-agent-conversation-to-include-in-your-prs|Generate a read-only transcript of any agent conversation to include in your PRs…]]
-- context-window: [[Changes/Cursor/2025-12-18-cursor-can-now-analyze-the-code-and-context-in-each-agent-session-to-understand|Cursor can now analyze the code and context in each agent session to understand…]]
-- collaboration: [[Changes/Cursor/2025-12-18-you-can-now-share-agent-conversations-with-your-team|Share agent conversations with your team]]
+- [[Changes/Cursor/2025-12-18-enterprise-customers-can-also-extend-these-categories-across-their-organization|Enterprise customers can also extend these categories across their organization and teams]] · Safety and Privacy
+- [[Changes/Cursor/2025-12-18-many-of-the-largest-software-companies-in-the-world-have-adopted-cursor-for-ente|Many of the largest software companies in the world have adopted Cursor for Enterprise]] · Enterprise and Administration
+- [[Changes/Cursor/2025-12-18-generate-a-read-only-transcript-of-any-agent-conversation-to-include-in-your-prs|Generate a read-only transcript of any agent conversation to include in your PRs…]] · Context Window
+- [[Changes/Cursor/2025-12-18-cursor-can-now-analyze-the-code-and-context-in-each-agent-session-to-understand|Cursor can now analyze the code and context in each agent session to understand…]] · Context Window
+- [[Changes/Cursor/2025-12-18-you-can-now-share-agent-conversations-with-your-team|Share agent conversations with your team]] · Collaboration
 <!-- chronolog:end -->

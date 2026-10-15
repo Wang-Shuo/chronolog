@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2023-02-09-6b7506
 date: '2023-02-09'
+description: 'ChatGPT · 2023-02-09 · Model Support: Default: the standard ChatGPT
+  model'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We
+    made more improvements to the ChatGPT model!]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 31
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 8c867685f81738ff996ac42184bbab9b9467bc21ec9d05825f8c08b8f1d5df88
+machine_hash: e50cd03ef587a0428594fac82a76cfbd841286f9da5df3ffbaf8b18b8150353c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,8 +41,10 @@ record:
   title: 'Default: the standard ChatGPT model'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]'
-- '[[Changes/ChatGPT/2023-01-30-we-ve-upgraded-the-chatgpt-model-with-improved-factuality-and-mathematical-capab|chatgpt-2023-01-30-2d26b7]]'
+- '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We
+  made more improvements to the ChatGPT model!]]'
+- '[[Changes/ChatGPT/2023-01-30-we-ve-upgraded-the-chatgpt-model-with-improved-factuality-and-mathematical-capab|We’ve
+  upgraded the ChatGPT model with improved factuality and mathematical capabilities]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-02-09-introducing-chatgpt-plus-380a3524|chatgpt-2023-02-09-introducing-chatgpt-plus-380a3524]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -47,10 +52,10 @@ title: 'Default: the standard ChatGPT model'
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Default: the standard ChatGPT model
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Introducing ChatGPT Plus: Default: the standard ChatGPT model
+**ChatGPT** · 2023-02-09 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-02-09-introducing-chatgpt-plus-380a3524|Introducing ChatGPT Plus]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -59,19 +64,26 @@ ChatGPT — Introducing ChatGPT Plus: Default: the standard ChatGPT model
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2023-02-09-version-selection-is-made-easy-with-a-dedicated-dropdown-menu-at-the-top-of-the|Version selection is made easy with a dedicated dropdown menu at the top of the page]] · Interface Experience
+- [[Changes/ChatGPT/2023-02-09-turbo-optimized-for-speed-alpha|Turbo: optimized for speed (alpha)]] · Reliability and Performance
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: model-support
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]
-- Lag Days: 31
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Model Support
+
+- Earlier: 2023-01-30 · ChatGPT · [[Changes/ChatGPT/2023-01-30-we-ve-upgraded-the-chatgpt-model-with-improved-factuality-and-mathematical-capab|We’ve upgraded the ChatGPT model with improved factuality and mathematical capabilities]]
+- Later: 2023-03-14 · ChatGPT · [[Changes/ChatGPT/2023-03-14-advanced-reasoning|Advanced reasoning]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We made more improvements to the ChatGPT model!]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-02-09-6b7506&body=Card%3A%20Changes%2FChatGPT%2F2023-02-09-default-the-standard-chatgpt-model.md%0ACard%20ID%3A%20chatgpt-2023-02-09-6b7506%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

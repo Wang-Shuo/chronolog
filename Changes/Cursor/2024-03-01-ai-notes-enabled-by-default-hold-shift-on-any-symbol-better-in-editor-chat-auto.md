@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2024-03-01-2c2dbe
 date: '2024-03-01'
+description: 'Cursor · 2024-03-01 · Interface Experience: AI Notes enabled by default
+  (hold shift on any symbol), better in-editor chat, auto-execute interpreter mode…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
+    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 417
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: ff26d9d78ba3cc7a89262e7463c678c41abd396e1580040610b8b0dcc375cb21
+machine_hash: f73e10222f7288efbcaa3dfe37e69a1dee38e328b6452754467421447cb4f7f8
 product: cursor
 product_name: Cursor
 record:
@@ -50,9 +53,12 @@ record:
     chat…
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-02-02-you-can-now-drag-images-into-the-command-k-prompt-bar|cursor-2024-02-02-35dabe]]'
-- '[[Changes/Cursor/2024-02-09-smoother-onboarding-fix-windows-settings-import-option-to-import-folder-window-s|cursor-2024-02-09-02fe26]]'
-- '[[Changes/Cursor/2024-02-09-fine-grained-chat-replies-start-by-hovering-over-the-area-of-the-response-you-wa|cursor-2024-02-09-e891c3]]'
+- '[[Changes/Cursor/2024-02-02-you-can-now-drag-images-into-the-command-k-prompt-bar|Drag
+  images into the Command-K prompt bar!]]'
+- '[[Changes/Cursor/2024-02-09-smoother-onboarding-fix-windows-settings-import-option-to-import-folder-window-s|Smoother
+  onboarding (fix Windows settings import, option to import folder/window state)]]'
+- '[[Changes/Cursor/2024-02-09-fine-grained-chat-replies-start-by-hovering-over-the-area-of-the-response-you-wa|Fine-grained
+  chat replies…]]'
 source_release: '[[Releases/Cursor/cursor-2024-03-01-0-29-x-https-cursor-com-changelog-0-29-x-259e5626|cursor-2024-03-01-0-29-x-https-cursor-com-changelog-0-29-x-259e5626]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -60,10 +66,10 @@ title: AI Notes enabled by default (hold shift on any symbol), better in-editor 
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # AI Notes enabled by default (hold shift on any symbol), better in-editor chat…
 
-<!-- chronolog:begin region="description" -->
-Cursor — Polish: AI Notes enabled by default (hold shift on any symbol), better in-editor chat, auto-execute interpreter mode, better onboarding styling, nicer feedback modal, and a few stability fixes.
+**Cursor** · 2024-03-01 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://cursor.com/changelog/0-29-x) · from [[Releases/Cursor/cursor-2024-03-01-0-29-x-https-cursor-com-changelog-0-29-x-259e5626|Polish]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -72,19 +78,23 @@ Cursor — Polish: AI Notes enabled by default (hold shift on any symbol), bette
 > Source: https://cursor.com/changelog/0-29-x
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: interface-experience
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]
-- Lag Days: 417
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Interface Experience
+
+- Earlier: 2024-02-09 · Cursor · [[Changes/Cursor/2024-02-09-fine-grained-chat-replies-start-by-hovering-over-the-area-of-the-response-you-wa|Fine-grained chat replies…]]
+- Later: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-new-settings-we-moved-all-our-settings-to-be-accessible-by-the-gear-in-the-top-r|New Settings: We moved all our settings to be accessible by the gear in the top right]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2024-03-01-2c2dbe&body=Card%3A%20Changes%2FCursor%2F2024-03-01-ai-notes-enabled-by-default-hold-shift-on-any-symbol-better-in-editor-chat-auto.md%0ACard%20ID%3A%20cursor-2024-03-01-2c2dbe%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F0-29-x%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

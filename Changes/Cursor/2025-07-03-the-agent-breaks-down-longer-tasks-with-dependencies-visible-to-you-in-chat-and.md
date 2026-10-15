@@ -1,8 +1,12 @@
 ---
 card_id: cursor-2025-07-03-bac341
 date: '2025-07-03'
+description: 'Cursor · 2025-07-03 · Agent Mode: The agent breaks down longer tasks
+  with dependencies, visible to you in chat and streamed into Slack when relevant.
+  It can…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
+    to the first nightly release!]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 728
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 0b49c1aef6a90704343558ed9f78ce5e89df2696c66e067248721ad17e4d33ad
+machine_hash: 4d3a01873e183b9b00e291a03435d8d554b12133d7a10b41d3330e602a4f2e6e
 product: cursor
 product_name: Cursor
 record:
@@ -52,9 +56,12 @@ record:
   title: The agent breaks down longer tasks with dependencies, visible to you in chat…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-06-12-agents-run-remotely-in-a-secure-environment-and-you-ll-get-updates-directly-in-s|cursor-2025-06-12-2bf13a]]'
-- '[[Changes/Cursor/2025-07-03-agents-now-plan-ahead-with-structured-to-do-lists-making-long-horizon-tasks-easi|cursor-2025-07-03-14aa9b]]'
-- '[[Changes/Cursor/2025-07-03-you-can-now-queue-follow-up-messages-for-agent-once-it-s-done-with-current-task|cursor-2025-07-03-4a34b1]]'
+- '[[Changes/Cursor/2025-06-12-agents-run-remotely-in-a-secure-environment-and-you-ll-get-updates-directly-in-s|Agents
+  run remotely in a secure environment and you''ll get updates directly…]]'
+- '[[Changes/Cursor/2025-07-03-agents-now-plan-ahead-with-structured-to-do-lists-making-long-horizon-tasks-easi|Agents
+  now plan ahead with structured to-do lists, making long-horizon tasks easier…]]'
+- '[[Changes/Cursor/2025-07-03-you-can-now-queue-follow-up-messages-for-agent-once-it-s-done-with-current-task|Queue
+  follow-up messages for Agent once it''s done with current task]]'
 source_release: '[[Releases/Cursor/cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d|cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -62,10 +69,10 @@ title: The agent breaks down longer tasks with dependencies, visible to you in c
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # The agent breaks down longer tasks with dependencies, visible to you in chat…
 
-<!-- chronolog:begin region="description" -->
-Cursor — Agent Planning, Better Context & Faster Tab: The agent breaks down longer tasks with dependencies, visible to you in chat and streamed into Slack when relevant. It can update this list as work progresses, keeping context fresh and interactions predictable.
+**Cursor** · 2025-07-03 · [[Themes/agent-mode|Agent Mode]] · [Official source](https://cursor.com/changelog/1-2) · from [[Releases/Cursor/cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d|Agent Planning, Better Context & Faster Tab]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -74,19 +81,28 @@ Cursor — Agent Planning, Better Context & Faster Tab: The agent breaks down lo
 > Source: https://cursor.com/changelog/1-2
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2025-07-03-memories-is-now-ga-since-1-0-we-ve-improved-memory-generation-quality-added-in-e|Memories is now GA]] · Memory and Personalization
+- [[Changes/Cursor/2025-07-03-agents-now-plan-ahead-with-structured-to-do-lists-making-long-horizon-tasks-easi|Agents now plan ahead with structured to-do lists, making long-horizon tasks easier…]] · Agent Mode
+- [[Changes/Cursor/2025-07-03-you-can-now-queue-follow-up-messages-for-agent-once-it-s-done-with-current-task|Queue follow-up messages for Agent once it's done with current task]] · Agent Mode
+- [[Changes/Cursor/2025-07-03-to-dos-are-also-visible-in-slack-if-integration-is-setup|To-dos are also visible in Slack if integration is setup!]] · Apps and Integrations
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: agent-mode
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]
-- Lag Days: 728
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Agent Mode
+
+- Earlier: 2025-06-12 · Cursor · [[Changes/Cursor/2025-06-12-agents-run-remotely-in-a-secure-environment-and-you-ll-get-updates-directly-in-s|Agents run remotely in a secure environment and you'll get updates directly…]]
+- Later: 2025-07-29 · Cursor · [[Changes/Cursor/2025-07-29-agents-can-now-use-your-native-terminal-a-new-terminal-will-be-created-when-need|Agents can now use your native terminal]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2025-07-03-bac341&body=Card%3A%20Changes%2FCursor%2F2025-07-03-the-agent-breaks-down-longer-tasks-with-dependencies-visible-to-you-in-chat-and.md%0ACard%20ID%3A%20cursor-2025-07-03-bac341%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F1-2%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

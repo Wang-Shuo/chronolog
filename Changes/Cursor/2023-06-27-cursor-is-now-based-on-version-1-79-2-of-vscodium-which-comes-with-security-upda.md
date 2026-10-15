@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2023-06-27-59245f
 date: '2023-06-27'
+description: 'Cursor · 2023-06-27 · Safety and Privacy: Cursor is now based on version
+  1.79.2 of VSCodium, which comes with security updates and minor features'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|cursor-2023-04-16-f0e22a]]'
+  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
+    mode for opting out of storing any kind of data on our servers]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 72
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6724c4c4db330c9296c852b7728a601953bc098be7cf96d76d1b09aa4627bc3a
+machine_hash: 3e4df8df7cb294aec8310de659c9d74f1b0df7385a464baee15a0b3c34dc913a
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +41,8 @@ record:
     updates…
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|cursor-2023-04-16-f0e22a]]'
+- '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
+  mode for opting out of storing any kind of data on our servers]]'
 source_release: '[[Releases/Cursor/cursor-2023-06-27-0-2-36-https-cursor-com-changelog-0-2-36-fa4e4f8d|cursor-2023-06-27-0-2-36-https-cursor-com-changelog-0-2-36-fa4e4f8d]]'
 source_type: cursor_changelog
 theme: safety-privacy
@@ -47,10 +51,10 @@ title: Cursor is now based on version 1.79.2 of VSCodium, which comes with secur
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Cursor is now based on version 1.79.2 of VSCodium, which comes with security updates…
 
-<!-- chronolog:begin region="description" -->
-Cursor — Hotfixes: Cursor is now based on version 1.79.2 of VSCodium, which comes with security updates and minor features
+**Cursor** · 2023-06-27 · [[Themes/safety-privacy|Safety and Privacy]] · [Official source](https://cursor.com/changelog/0-2-36) · from [[Releases/Cursor/cursor-2023-06-27-0-2-36-https-cursor-com-changelog-0-2-36-fa4e4f8d|Hotfixes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -59,19 +63,28 @@ Cursor — Hotfixes: Cursor is now based on version 1.79.2 of VSCodium, which co
 > Source: https://cursor.com/changelog/0-2-36
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2023-06-27-you-can-now-use-run-debug-in-cursor-again-the-toolbar-is-back|Use Run & debug in Cursor again (the toolbar is back)]] · Developer Workflow
+- [[Changes/Cursor/2023-06-27-cursor-deep-linking-works-now-so-you-should-be-able-to-log-in-to-extensions|cursor:// deep linking works now, so you should be able to log in to extensions]] · Apps and Integrations
+- [[Changes/Cursor/2023-06-27-if-you-re-not-logged-in-we-show-the-popup-to-log-in-again|If you're not logged in, we show the popup to log in again]] · Account and Access
+- [[Changes/Cursor/2023-06-27-early-support-for-slash-commands|Early support for slash commands]] · Developer Workflow
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: safety-privacy
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|cursor-2023-04-16-f0e22a]]
-- Lag Days: 72
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Safety and Privacy
+
+- Earlier: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Later: 2023-08-28 · ChatGPT · [[Changes/ChatGPT/2023-08-28-today-we-re-launching-chatgpt-enterprise-which-offers-enterprise-grade-security-4958cf|ChatGPT launches ChatGPT Enterprise, which offers enterprise-grade security…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2023-06-27-59245f&body=Card%3A%20Changes%2FCursor%2F2023-06-27-cursor-is-now-based-on-version-1-79-2-of-vscodium-which-comes-with-security-upda.md%0ACard%20ID%3A%20cursor-2023-06-27-59245f%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F0-2-36%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

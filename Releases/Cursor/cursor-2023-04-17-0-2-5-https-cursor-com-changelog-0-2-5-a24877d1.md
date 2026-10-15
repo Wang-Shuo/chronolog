@@ -1,10 +1,13 @@
 ---
 changes_count: 0
 date: '2023-04-17'
-machine_hash: 14194abf75eff483fffdd5775547f2acfea61366dfaa046b6f49beb94af9bcee
+description: 'Cursor release Scroll Bar Hotfix (2023-04-17) on 2023-04-17: no tracked
+  changes'
+machine_hash: d1658403d56bc8a5803e4022877086bce789f11e96d7c860fb0bd4ff62fa922f
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2023-04-17'
   product: cursor
   product_name: Cursor
@@ -21,19 +24,21 @@ source_url: https://cursor.com/changelog/0-2-5
 tags:
 - release
 - cursor
-title: Cursor — Scroll Bar Hotfix (2023-04-17)
+title: Cursor · Scroll Bar Hotfix (2023-04-17)
 version: 0.2.5
 ---
 
-# Cursor Scroll Bar Hotfix (2023-04-17)
+<!-- chronolog:begin region="header" -->
+# Cursor · Scroll Bar Hotfix (2023-04-17)
+
+**Cursor** · 2023-04-17 · [Official release notes](https://cursor.com/changelog/0-2-5)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
-#Bug Fixes
+No change cards extracted.
 
-[Official release notes](https://cursor.com/changelog/0-2-5)
-
-Tracked cards: 0
+Tracked 0 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

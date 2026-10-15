@@ -1,8 +1,11 @@
 ---
 card_id: claude-code-2026-09-03-e75dba
 date: '2026-09-03'
+description: 'Claude Code · 2026-09-03 · Apps and Integrations: Added `/reload-plugins`
+  to headless sessions, so it appears in the Claude Code Desktop and SDK command lists'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
+    can join the waitlist to try plugins here]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1260
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9c9ad3e78e60a5523e1c90d3352fcc4d6cc8e4f9026c7d9dd9a8fd74e80a29ec
+machine_hash: 6aab3f7c91b0fd8a2ab643d3b449fb860eca74ceb961ed788dc53d31b228d0ed
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,9 +51,12 @@ record:
     Code…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-03-today-we-added-the-zendesk-and-onenote-plugins-in-the-plugin-directory-the-zende|chatgpt-2026-09-03-1f24d3]]'
-- '[[Changes/Claude Code/2026-09-03-added-oidc-scope-on-refresh-to-the-claude-apps-gateway-for-idps-that-return-an-i|claude-code-2026-09-03-58c928]]'
-- '[[Changes/Claude Code/2026-09-03-added-a-text-form-of-advisor-advisor-advisor-model-advisor-off-for-the-desktop-a|claude-code-2026-09-03-a26521]]'
+- '[[Changes/ChatGPT/2026-09-03-today-we-added-the-zendesk-and-onenote-plugins-in-the-plugin-directory-the-zende|Today,
+  we added the Zendesk and OneNote plugins in the Plugin directory]]'
+- '[[Changes/Claude Code/2026-09-03-added-oidc-scope-on-refresh-to-the-claude-apps-gateway-for-idps-that-return-an-i|Added
+  oidc.scope_on_refresh to the Claude apps gateway for IdPs that return…]]'
+- '[[Changes/Claude Code/2026-09-03-added-a-text-form-of-advisor-advisor-advisor-model-advisor-off-for-the-desktop-a|Added
+  a text form of /advisor (/advisor, /advisor model, /advisor off)…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc|claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc]]'
 source_type: github_releases
 theme: apps-integrations
@@ -58,10 +64,10 @@ title: Added /reload-plugins to headless sessions, so it appears in the Claude C
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Added `/reload-plugins` to headless sessions, so it appears in the Claude Code…
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.260: Added `/reload-plugins` to headless sessions, so it appears in the Claude Code Desktop and SDK command lists
+**Claude Code** · 2026-09-03 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.260) · from [[Releases/Claude Code/claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc|v2.1.260]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -70,19 +76,28 @@ Claude Code — v2.1.260: Added `/reload-plugins` to headless sessions, so it ap
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.260
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-09-03-added-oidc-scope-on-refresh-to-the-claude-apps-gateway-for-idps-that-return-an-i|Added oidc.scope_on_refresh to the Claude apps gateway for IdPs that return…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-09-03-added-a-likely-cause-for-prompt-cache-misses-e-g-tool-definitions-or-system-prom|Added a likely cause for prompt-cache misses…]] · Interface Experience
+- [[Changes/Claude Code/2026-09-03-added-a-diff-panel-that-opens-beside-the-conversation-in-fullscreen-mode-and-sho|Added a diff panel that opens beside the conversation in fullscreen mode and shows…]] · Interface Experience
+- [[Changes/Claude Code/2026-09-03-added-a-text-form-of-advisor-advisor-advisor-model-advisor-off-for-the-desktop-a|Added a text form of /advisor (/advisor, /advisor model, /advisor off)…]] · Apps and Integrations
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: apps-integrations
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]
-- Lag Days: 1260
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Apps and Integrations
+
+- Earlier: 2026-09-03 · ChatGPT · [[Changes/ChatGPT/2026-09-03-today-we-added-the-zendesk-and-onenote-plugins-in-the-plugin-directory-the-zende|Today, we added the Zendesk and OneNote plugins in the Plugin directory]]
+- Later: 2026-09-08 · Claude Code · [[Changes/Claude Code/2026-09-08-added-support-for-pointing-plugin-dir-at-a-folder-of-plugins-each-child-folder-w|Added support for pointing --plugin-dir at a folder of plugins]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-09-03-e75dba&body=Card%3A%20Changes%2FClaude%20Code%2F2026-09-03-added-reload-plugins-to-headless-sessions-so-it-appears-in-the-claude-code-deskt.md%0ACard%20ID%3A%20claude-code-2026-09-03-e75dba%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.260%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

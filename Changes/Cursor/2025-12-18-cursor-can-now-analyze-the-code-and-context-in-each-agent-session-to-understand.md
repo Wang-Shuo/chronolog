@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2025-12-18-becfd8
 date: '2025-12-18'
+description: 'Cursor · 2025-12-18 · Context Window: Cursor can now analyze the code
+  and context in each agent session to understand the type of work that is being done…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|cursor-2023-05-04-00d3b7]]'
+  first_in_tracked: '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended
+    prompt length for project generation]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 959
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 5f7356a8cd2fa4ce5b342cdb762a715468ca967876868609f7b5cdd3d412bc60
+machine_hash: 05524a02f6cd83624008a49a1b85c4138021a86ec31babdc683df9e8489b7083
 product: cursor
 product_name: Cursor
 record:
@@ -50,9 +53,12 @@ record:
   title: Cursor can now analyze the code and context in each agent session to understand…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-08-06-agents-are-significantly-improved-when-operating-across-large-codebases-context|cursor-2025-08-06-b4a9ac]]'
-- '[[Changes/Cursor/2025-09-12-cursor-automatically-summarizes-long-conversation-for-you-when-reaching-the-cont|cursor-2025-09-12-7d0a07]]'
-- '[[Changes/Cursor/2025-12-18-generate-a-read-only-transcript-of-any-agent-conversation-to-include-in-your-prs|cursor-2025-12-18-9e7fb7]]'
+- '[[Changes/Cursor/2025-08-06-agents-are-significantly-improved-when-operating-across-large-codebases-context|Agents
+  are significantly improved when operating across large codebases]]'
+- '[[Changes/Cursor/2025-09-12-cursor-automatically-summarizes-long-conversation-for-you-when-reaching-the-cont|Cursor
+  automatically summarizes long conversation for you when reaching the context…]]'
+- '[[Changes/Cursor/2025-12-18-generate-a-read-only-transcript-of-any-agent-conversation-to-include-in-your-prs|Generate
+  a read-only transcript of any agent conversation to include in your PRs…]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-18-enterprise-insights-billing-groups-service-accounts-and-improved-23eccccb|cursor-2025-12-18-enterprise-insights-billing-groups-service-accounts-and-improved-23eccccb]]'
 source_type: cursor_changelog
 theme: context-window
@@ -60,10 +66,10 @@ title: Cursor can now analyze the code and context in each agent session to unde
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Cursor can now analyze the code and context in each agent session to understand…
 
-<!-- chronolog:begin region="description" -->
-Cursor — Enterprise Insights, Billing Groups, Service Accounts, and Improved Security Controls: Cursor can now analyze the code and context in each agent session to understand the type of work that is being done, including:
+**Cursor** · 2025-12-18 · [[Themes/context-window|Context Window]] · [Official source](https://cursor.com/changelog/enterprise-dec-2025) · from [[Releases/Cursor/cursor-2025-12-18-enterprise-insights-billing-groups-service-accounts-and-improved-23eccccb|Enterprise Insights, Billing Groups, Service Accounts, and Improved Security Controls]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -72,19 +78,28 @@ Cursor — Enterprise Insights, Billing Groups, Service Accounts, and Improved S
 > Source: https://cursor.com/changelog/enterprise-dec-2025
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2025-12-18-enterprise-customers-can-also-extend-these-categories-across-their-organization|Enterprise customers can also extend these categories across their organization and teams]] · Safety and Privacy
+- [[Changes/Cursor/2025-12-18-many-of-the-largest-software-companies-in-the-world-have-adopted-cursor-for-ente|Many of the largest software companies in the world have adopted Cursor for Enterprise]] · Enterprise and Administration
+- [[Changes/Cursor/2025-12-18-generate-a-read-only-transcript-of-any-agent-conversation-to-include-in-your-prs|Generate a read-only transcript of any agent conversation to include in your PRs…]] · Context Window
+- [[Changes/Cursor/2025-12-18-you-can-now-share-agent-conversations-with-your-team|Share agent conversations with your team]] · Collaboration
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: context-window
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|cursor-2023-05-04-00d3b7]]
-- Lag Days: 959
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Context Window
+
+- Earlier: 2025-09-12 · Cursor · [[Changes/Cursor/2025-09-12-cursor-automatically-summarizes-long-conversation-for-you-when-reaching-the-cont|Cursor automatically summarizes long conversation for you when reaching the context…]]
+- Later: 2026-01-13 · Claude Code · [[Changes/Claude Code/2026-01-13-added-context-window-used-percentage-and-context-window-remaining-percentage-fie|Added context_window.used_percentage and context_window.remaining_percentage…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended prompt length for project generation]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2025-12-18-becfd8&body=Card%3A%20Changes%2FCursor%2F2025-12-18-cursor-can-now-analyze-the-code-and-context-in-each-agent-session-to-understand.md%0ACard%20ID%3A%20cursor-2025-12-18-becfd8%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2Fenterprise-dec-2025%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

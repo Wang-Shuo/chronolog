@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2023-11-30-ba8f3b
 date: '2023-11-30'
+description: 'Cursor · 2023-11-30 · Editor Experience: More reliable Copilot++ changes:
+  less flashing, better highlighting of what''s new.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|cursor-2023-03-14-24e9bf]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant
+    fix all lint errors with AI 😎]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 261
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 6f9dd5249efd8f7813f5aebd3a93e3c6ff345c9a2a0fd410b87fa9b8acca892d
+machine_hash: a51e6acf322c4a6c918925a2955e69b2aa1d9efeeea7b1503936567ac2d4a95d
 product: cursor
 product_name: Cursor
 record:
@@ -42,9 +45,12 @@ record:
     new'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-11-15-copilot-sees-your-lint-errors-and-will-use-this-to-improve-its-suggestions|cursor-2023-11-15-ef0a36]]'
-- '[[Changes/Cursor/2023-11-22-experimental-feature-go-to-more-interpreter-mode-to-enable-it-gives-the-model-ac|cursor-2023-11-22-2f083d]]'
-- '[[Changes/Cursor/2023-11-27-interpreter-mode-beta-you-can-now-enable-interpreter-mode-in-the-more-tab-this-g|cursor-2023-11-27-3e8c49]]'
+- '[[Changes/Cursor/2023-11-15-copilot-sees-your-lint-errors-and-will-use-this-to-improve-its-suggestions|Copilot++
+  sees your lint errors and will use this to improve its suggestions]]'
+- '[[Changes/Cursor/2023-11-22-experimental-feature-go-to-more-interpreter-mode-to-enable-it-gives-the-model-ac|Experimental
+  feature: go to "More"  "Interpreter Mode" to enable it]]'
+- '[[Changes/Cursor/2023-11-27-interpreter-mode-beta-you-can-now-enable-interpreter-mode-in-the-more-tab-this-g|Interpreter
+  Mode Beta: You can now enable Interpreter Mode in the "More" tab]]'
 source_release: '[[Releases/Cursor/cursor-2023-11-30-0-18-0-https-cursor-com-changelog-0-18-0-f0874043|cursor-2023-11-30-0-18-0-https-cursor-com-changelog-0-18-0-f0874043]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -53,10 +59,10 @@ title: 'More reliable Copilot++ changes: less flashing, better highlighting of w
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # More reliable Copilot++ changes: less flashing, better highlighting of what's new
 
-<!-- chronolog:begin region="description" -->
-Cursor — Better Context Chat, Faster Copilot++: More reliable Copilot++ changes: less flashing, better highlighting of what's new.
+**Cursor** · 2023-11-30 · [[Themes/editor-experience|Editor Experience]] · [Official source](https://cursor.com/changelog/0-18-0) · from [[Releases/Cursor/cursor-2023-11-30-0-18-0-https-cursor-com-changelog-0-18-0-f0874043|Better Context Chat, Faster Copilot++]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -65,19 +71,26 @@ Cursor — Better Context Chat, Faster Copilot++: More reliable Copilot++ change
 > Source: https://cursor.com/changelog/0-18-0
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2023-11-30-faster-copilot-a-few-hundred-milliseconds-faster-through-various-networking-opti|Faster Copilot++: a few hundred milliseconds faster, through various networking…]] · Reliability and Performance
+- [[Changes/Cursor/2023-11-30-better-context-chat-in-particular-followups-are-now-smarter|Better context chat: in particular, followups are now smarter!]] · Context Window
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: editor-experience
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|cursor-2023-03-14-24e9bf]]
-- Lag Days: 261
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Editor Experience
+
+- Earlier: 2023-11-27 · Cursor · [[Changes/Cursor/2023-11-27-interpreter-mode-beta-you-can-now-enable-interpreter-mode-in-the-more-tab-this-g|Interpreter Mode Beta: You can now enable Interpreter Mode in the "More" tab]]
+- Later: 2023-12-02 · Cursor · [[Changes/Cursor/2023-12-02-running-cmd-enter-on-followups-should-result-in-much-better-codebase-results|Running Cmd+enter on followups should result in much better codebase results]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all lint errors with AI 😎]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2023-11-30-ba8f3b&body=Card%3A%20Changes%2FCursor%2F2023-11-30-more-reliable-copilot-changes-less-flashing-better-highlighting-of-what-s-new.md%0ACard%20ID%3A%20cursor-2023-11-30-ba8f3b%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F0-18-0%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

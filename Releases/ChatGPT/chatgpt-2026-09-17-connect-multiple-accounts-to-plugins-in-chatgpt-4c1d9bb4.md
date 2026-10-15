@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2026-09-17'
-machine_hash: 89c0fa06706231efee657abe703bdac1afbcc7692572ccc9858c979d9ca628ad
+description: 'ChatGPT release Connect multiple accounts to plugins in ChatGPT on 2026-09-17:
+  1 tracked change across Mobile and Desktop'
+machine_hash: eb32f22fa774015f017dcbce565e32e27423546cd83858120e6e841869af7a3d
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 1
   date: '2026-09-17'
   product: chatgpt
   product_name: ChatGPT
@@ -24,22 +27,24 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Connect multiple accounts to plugins in ChatGPT
+title: ChatGPT · Connect multiple accounts to plugins in ChatGPT
 version: Connect multiple accounts to plugins in ChatGPT
 ---
 
-# ChatGPT Connect multiple accounts to plugins in ChatGPT
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Connect multiple accounts to plugins in ChatGPT
+
+**ChatGPT** · 2026-09-17 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 You can now connect multiple accounts to plugins in ChatGPT, expanding support beyond Gmail, Google Calendar, and Google Contacts. Bring your personal and work accounts into the same conversation, so ChatGPT can help you find information and get things done across your personal and work accounts. Available on all…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- mobile-desktop: [[Changes/ChatGPT/2026-09-17-you-can-now-connect-multiple-accounts-to-plugins-in-chatgpt-expanding-support-be|Connect multiple accounts to plugins in ChatGPT, expanding support beyond Gmail…]]
+- [[Changes/ChatGPT/2026-09-17-you-can-now-connect-multiple-accounts-to-plugins-in-chatgpt-expanding-support-be|Connect multiple accounts to plugins in ChatGPT, expanding support beyond Gmail…]] · Mobile and Desktop
 <!-- chronolog:end -->

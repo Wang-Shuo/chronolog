@@ -1,8 +1,12 @@
 ---
 card_id: chatgpt-2026-06-17-09675e
 date: '2026-06-17'
+description: 'ChatGPT · 2026-06-17 · Reliability and Performance: With scheduled tasks,
+  users can ask ChatGPT to send reminders, handle recurring work, or monitor things
+  for…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|chatgpt-2022-12-15-9c6f9c]]'
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
+    performance: Among other improvements, users will notice that ChatGPT is now…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1280
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3bffc5daba2af6843f15e3450a9fa1bdbdb488c9c2d7b9f68ecdad3933e3d5ec
+machine_hash: a9a602bb54b8415a9a54dd9a0da4dee259b1e2885ec530fb5f584913b93deac4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,9 +54,12 @@ record:
   title: With scheduled tasks, users can ask ChatGPT to send reminders, handle recurring…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-10-the-average-review-time-for-bugbot-is-now-90-seconds-down-from-5-minutes-bugbot|cursor-2026-06-10-a23fef]]'
-- '[[Changes/Claude Code/2026-06-12-background-sessions-now-show-clearer-guidance-when-a-window-left-open-across-an|claude-code-2026-06-12-59f62e]]'
-- '[[Changes/Claude Code/2026-06-12-improved-bedrock-credential-caching-credentials-from-awscredentialexport-are-now|claude-code-2026-06-12-c6b174]]'
+- '[[Changes/Cursor/2026-06-10-the-average-review-time-for-bugbot-is-now-90-seconds-down-from-5-minutes-bugbot|The
+  average review time for Bugbot is now ~90 seconds, down from ~5 minutes]]'
+- '[[Changes/Claude Code/2026-06-12-background-sessions-now-show-clearer-guidance-when-a-window-left-open-across-an|Background
+  sessions now show clearer guidance when a window left open across…]]'
+- '[[Changes/Claude Code/2026-06-12-improved-bedrock-credential-caching-credentials-from-awscredentialexport-are-now|Improved
+  Bedrock credential caching]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-17-scheduled-tasks-in-chatgpt-b8005b4a|chatgpt-2026-06-17-scheduled-tasks-in-chatgpt-b8005b4a]]'
 source_type: chatgpt_changelog
 theme: reliability-performance
@@ -60,10 +67,10 @@ title: With scheduled tasks, users can ask ChatGPT to send reminders, handle rec
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # With scheduled tasks, users can ask ChatGPT to send reminders, handle recurring…
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Scheduled tasks in ChatGPT: With scheduled tasks, users can ask ChatGPT to send reminders, handle recurring work, or monitor things for them. This update makes tasks easier to find and manage, faster and more reliable, with more useful notifications.What’s changing
+**ChatGPT** · 2026-06-17 · [[Themes/reliability-performance|Reliability and Performance]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-06-17-scheduled-tasks-in-chatgpt-b8005b4a|Scheduled tasks in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -72,19 +79,28 @@ ChatGPT — Scheduled tasks in ChatGPT: With scheduled tasks, users can ask Chat
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2026-06-17-all-tasks-are-faster-and-more-reliable|All tasks are faster and more reliable]] · Reliability and Performance
+- [[Changes/ChatGPT/2026-06-17-monitoring-tasks-can-search-the-web-and-check-connected-apps-for-changes-and-not|Monitoring tasks can search the web and check connected apps for changes and notify…]] · Apps and Integrations
+- [[Changes/ChatGPT/2026-06-17-a-new-scheduled-page-discoverable-in-the-sidebar-gives-users-one-place-to-view-a|A new Scheduled page, discoverable in the sidebar, gives users one place to view…]] · Interface Experience
+- [[Changes/ChatGPT/2026-06-17-users-can-schedule-work-for-specific-times-or-broader-windows-such-as-morning-af|Users can schedule work for specific times or broader windows, such as morning…]] · Automation and Scheduling
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: reliability-performance
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|chatgpt-2022-12-15-9c6f9c]]
-- Lag Days: 1280
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Reliability and Performance
+
+- Earlier: 2026-06-12 · Claude Code · [[Changes/Claude Code/2026-06-12-improved-bedrock-credential-caching-credentials-from-awscredentialexport-are-now|Improved Bedrock credential caching]]
+- Later: 2026-06-17 · Claude Code · [[Changes/Claude Code/2026-06-17-improved-auto-retry-api-connection-drops-mid-thinking-now-automatically-retry-in|Improved auto-retry: API connection drops mid-thinking now automatically retry…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-17-09675e&body=Card%3A%20Changes%2FChatGPT%2F2026-06-17-with-scheduled-tasks-users-can-ask-chatgpt-to-send-reminders-handle-recurring-wo.md%0ACard%20ID%3A%20chatgpt-2026-06-17-09675e%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

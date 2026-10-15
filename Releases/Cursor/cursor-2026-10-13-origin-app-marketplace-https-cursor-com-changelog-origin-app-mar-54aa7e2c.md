@@ -1,10 +1,13 @@
 ---
 changes_count: 3
 date: '2026-10-13'
-machine_hash: a32614c1feb724f200f0018b3ab58493aa239aaa4e27d97d7ad82ac9898d0eb9
+description: 'Cursor release Origin App Marketplace on 2026-10-13: 3 tracked changes
+  across Apps and Integrations, Collaboration, Safety and Privacy'
+machine_hash: fad422c764f4c4e39b55e566dbbe51090f968d175bad37cf397ee60f028f22d1
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 17
   date: '2026-10-13'
   product: cursor
   product_name: Cursor
@@ -23,24 +26,26 @@ source_url: https://cursor.com/changelog/origin-app-marketplace
 tags:
 - release
 - cursor
-title: Cursor — Origin App Marketplace
+title: Cursor · Origin App Marketplace
 version: Origin App Marketplace
 ---
 
-# Cursor Origin App Marketplace
+<!-- chronolog:begin region="header" -->
+# Cursor · Origin App Marketplace
+
+**Cursor** · 2026-10-13 · [Official release notes](https://cursor.com/changelog/origin-app-marketplace)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Origin now integrates with over 20 apps for deployments, CI, code review, security, monitoring, and project management, from partners including Cloudflare, Linear, Sentry, and Socket Security.
 
-[Official release notes](https://cursor.com/changelog/origin-app-marketplace)
-
-Tracked cards: 3
+Tracked 3 of 17 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- safety-privacy: [[Changes/Cursor/2026-10-13-origin-now-integrates-with-over-20-apps-for-deployments-ci-code-review-security|Origin now integrates with over 20 apps for deployments, CI, code review, security…]]
-- apps-integrations: [[Changes/Cursor/2026-10-13-the-marketplace-now-includes-apps-for|The marketplace now includes apps for]]
-- collaboration: [[Changes/Cursor/2026-10-13-starting-today-the-marketplace-is-also-open-to-public-submissions-so-any-team-bu|Starting today, the marketplace is also open to public submissions, so any team…]]
+- [[Changes/Cursor/2026-10-13-origin-now-integrates-with-over-20-apps-for-deployments-ci-code-review-security|Origin now integrates with over 20 apps for deployments, CI, code review, security…]] · Safety and Privacy
+- [[Changes/Cursor/2026-10-13-the-marketplace-now-includes-apps-for|The marketplace now includes apps for]] · Apps and Integrations
+- [[Changes/Cursor/2026-10-13-starting-today-the-marketplace-is-also-open-to-public-submissions-so-any-team-bu|Starting today, the marketplace is also open to public submissions, so any team…]] · Collaboration
 <!-- chronolog:end -->

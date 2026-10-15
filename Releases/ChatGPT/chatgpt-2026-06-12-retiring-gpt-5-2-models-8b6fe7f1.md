@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2026-06-12'
-machine_hash: e4d820c6a5d8ae33486e0b6f3741ee26883c0d2400c056df05e20ef9d9d8ffc1
+description: 'ChatGPT release Retiring GPT-5.2 models on 2026-06-12: 1 tracked change
+  across Model Support'
+machine_hash: f11479918e1da4b09997da842a82649c106548f62a7bcde7425e10d7346d2538
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 1
   date: '2026-06-12'
   product: chatgpt
   product_name: ChatGPT
@@ -24,22 +27,24 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Retiring GPT-5.2 models
+title: ChatGPT · Retiring GPT-5.2 models
 version: Retiring GPT-5.2 models
 ---
 
-# ChatGPT Retiring GPT-5.2 models
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Retiring GPT-5.2 models
+
+**ChatGPT** · 2026-06-12 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 As of June 12, 2026, GPT-5.2 models are no longer available in ChatGPT.This applies to GPT-5.2 Instant, GPT-5.2 Thinking, and GPT-5.2 Pro. Existing conversations that used GPT-5.2 will automatically continue on the corresponding GPT-5.5 model. GPT-5.5 models remain available in ChatGPT.This retirement was previously…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2026-06-12-as-of-june-12-2026-gpt-5-2-models-are-no-longer-available-in-chatgpt-this-applie|As of June 12, 2026, GPT-5.2 models are no longer available in ChatGPT.This applies…]]
+- [[Changes/ChatGPT/2026-06-12-as-of-june-12-2026-gpt-5-2-models-are-no-longer-available-in-chatgpt-this-applie|As of June 12, 2026, GPT-5.2 models are no longer available in ChatGPT.This applies…]] · Model Support
 <!-- chronolog:end -->

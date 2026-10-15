@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2026-08-14-7492f8
 date: '2026-08-14'
+description: 'ChatGPT · 2026-08-14 · Mobile and Desktop: Practice with interactive
+  quizzes. Ask ChatGPT to quiz you on a topic and answer questions directly in your…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support 🥳]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1249
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: bb90025c2846cf4b779526efdca717b668f8fb581ff902e69458c1a4fe0442d2
+machine_hash: e84ab68065c5616221392802b791a39584f3751ae0faa91217c243b63b47c83d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,9 +43,12 @@ record:
   title: Practice with interactive quizzes
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-07-find-folders-files-and-past-conversations-faster-search-now-includes-folders-and|chatgpt-2026-08-07-e589aa]]'
-- '[[Changes/Claude Code/2026-08-07-added-self-hosted-environments-claude-self-hosted-runner-turns-your-own-machines|claude-code-2026-08-07-27a4fb]]'
-- '[[Changes/ChatGPT/2026-08-10-chatgpt-can-now-help-you-find-available-restaurant-reservations-with-opentable-r|chatgpt-2026-08-10-7c31a4]]'
+- '[[Changes/ChatGPT/2026-08-07-find-folders-files-and-past-conversations-faster-search-now-includes-folders-and|Find
+  folders, files, and past conversations faster]]'
+- '[[Changes/Claude Code/2026-08-07-added-self-hosted-environments-claude-self-hosted-runner-turns-your-own-machines|Added
+  self-hosted environments]]'
+- '[[Changes/ChatGPT/2026-08-10-chatgpt-can-now-help-you-find-available-restaurant-reservations-with-opentable-r|ChatGPT
+  can now help you find available restaurant reservations with OpenTable…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-14-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-08-14-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -50,10 +56,10 @@ title: Practice with interactive quizzes
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Practice with interactive quizzes
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — ChatGPT app experience updates: Practice with interactive quizzes. Ask ChatGPT to quiz you on a topic and answer questions directly in your conversation. Available to all consumer ChatGPT plans and Edu plans on web and mobile.
+**ChatGPT** · 2026-08-14 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-08-14-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -62,19 +68,26 @@ ChatGPT — ChatGPT app experience updates: Practice with interactive quizzes. A
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2026-08-14-we-ve-made-it-easier-to-study-with-interactive-quizzes-manage-project-memory-and|ChatGPT makes it easier to study with interactive quizzes, manage project memory…]] · Memory and Personalization
+- [[Changes/ChatGPT/2026-08-14-change-an-existing-project-s-memory-setting-for-eligible-unshared-projects-switc|Change an existing project’s memory setting]] · Memory and Personalization
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: mobile-desktop
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]
-- Lag Days: 1249
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Mobile and Desktop
+
+- Earlier: 2026-08-10 · ChatGPT · [[Changes/ChatGPT/2026-08-10-chatgpt-can-now-help-you-find-available-restaurant-reservations-with-opentable-r|ChatGPT can now help you find available restaurant reservations with OpenTable…]]
+- Later: 2026-08-19 · Claude Code · [[Changes/Claude Code/2026-08-19-added-notify-when-idle-to-cross-session-sendmessage-ask-another-claude-code-sess|Added notify_when_idle to cross-session SendMessage]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-14-7492f8&body=Card%3A%20Changes%2FChatGPT%2F2026-08-14-practice-with-interactive-quizzes-ask-chatgpt-to-quiz-you-on-a-topic-and-answer.md%0ACard%20ID%3A%20chatgpt-2026-08-14-7492f8%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

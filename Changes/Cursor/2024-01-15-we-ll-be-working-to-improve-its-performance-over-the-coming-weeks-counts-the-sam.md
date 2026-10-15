@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2024-01-15-f3f291
 date: '2024-01-15'
+description: 'Cursor · 2024-01-15 · Reliability and Performance: We''ll be working
+  to improve its performance over the coming weeks. Counts the same as 3.5 usage.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|chatgpt-2022-12-15-9c6f9c]]'
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
+    performance: Among other improvements, users will notice that ChatGPT is now…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 396
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0652ba8148d225211023b5a1e5eda87b779f91d01fbf23ffcee2e63fe25a4058
+machine_hash: 440205ad4ea85e33dde647679c14350b4d9cc8f3e3fa6a6b7e4c8331b92e31e0
 product: cursor
 product_name: Cursor
 record:
@@ -37,9 +40,11 @@ record:
   title: We'll be working to improve its performance over the coming weeks
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-10-01-bugfixes-fixed-the-ejected-from-slow-mode-ui-added-auto-switching-logic-for-the|cursor-2023-10-01-bf6551]]'
-- '[[Changes/Cursor/2023-11-03-shipped-better-error-logging-which-should-help-us-improve-stability|cursor-2023-11-03-68ce7c]]'
-- '[[Changes/Cursor/2023-11-30-faster-copilot-a-few-hundred-milliseconds-faster-through-various-networking-opti|cursor-2023-11-30-4f78ac]]'
+- '[[Changes/Cursor/2023-10-01-bugfixes-fixed-the-ejected-from-slow-mode-ui-added-auto-switching-logic-for-the|Bugfixes!]]'
+- '[[Changes/Cursor/2023-11-03-shipped-better-error-logging-which-should-help-us-improve-stability|Shipped
+  better error logging, which should help us improve stability]]'
+- '[[Changes/Cursor/2023-11-30-faster-copilot-a-few-hundred-milliseconds-faster-through-various-networking-opti|Faster
+  Copilot++: a few hundred milliseconds faster, through various networking…]]'
 source_release: '[[Releases/Cursor/cursor-2024-01-15-0-22-1-nightly-https-cursor-com-changelog-0-22-1-nightly-a39dbb5c|cursor-2024-01-15-0-22-1-nightly-https-cursor-com-changelog-0-22-1-nightly-a39dbb5c]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -47,10 +52,10 @@ title: We'll be working to improve its performance over the coming weeks
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # We'll be working to improve its performance over the coming weeks
 
-<!-- chronolog:begin region="description" -->
-Cursor — Cursor-Fast Model: We'll be working to improve its performance over the coming weeks. Counts the same as 3.5 usage.
+**Cursor** · 2024-01-15 · [[Themes/reliability-performance|Reliability and Performance]] · [Official source](https://cursor.com/changelog/0-22-1-nightly) · from [[Releases/Cursor/cursor-2024-01-15-0-22-1-nightly-https-cursor-com-changelog-0-22-1-nightly-a39dbb5c|Cursor-Fast Model]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -59,19 +64,27 @@ Cursor — Cursor-Fast Model: We'll be working to improve its performance over t
 > Source: https://cursor.com/changelog/0-22-1-nightly
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2024-01-15-working-wsl-codebase-search|Working WSL codebase search]] · Developer Workflow
+- [[Changes/Cursor/2024-01-15-cursor-fast-is-a-newly-trained-model-between-gpt-3-5-and-gpt-4-coding-capabiliti|Cursor-Fast is a newly trained model between gpt-3.5 and gpt-4 coding capabilities…]] · Model Support
+- [[Changes/Cursor/2024-01-15-supports-newer-version-of-python-extension|Supports newer version of python extension]] · Apps and Integrations
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: reliability-performance
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|chatgpt-2022-12-15-9c6f9c]]
-- Lag Days: 396
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Reliability and Performance
+
+- Earlier: 2023-11-30 · Cursor · [[Changes/Cursor/2023-11-30-faster-copilot-a-few-hundred-milliseconds-faster-through-various-networking-opti|Faster Copilot++: a few hundred milliseconds faster, through various networking…]]
+- Later: 2024-02-02 · Cursor · [[Changes/Cursor/2024-02-02-0-25-2-copilot-performance-improvements|0.25.2: Copilot++ performance improvements]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2024-01-15-f3f291&body=Card%3A%20Changes%2FCursor%2F2024-01-15-we-ll-be-working-to-improve-its-performance-over-the-coming-weeks-counts-the-sam.md%0ACard%20ID%3A%20cursor-2024-01-15-f3f291%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F0-22-1-nightly%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

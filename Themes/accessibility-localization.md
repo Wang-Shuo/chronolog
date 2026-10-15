@@ -1,7 +1,9 @@
 ---
 created: '2023-09-11'
 date: '2026-07-22'
-machine_hash: 65b668070c0c8b7dec0efab9692ad7414689fc8e4d6f5dca488392bff890b6a7
+description: Cross-product timeline of Accessibility and Localization changes in ChatGPT
+  and Claude Code.
+machine_hash: 9b1732daab4c9c9b8b2f1f2308615a22ce941a25d7184076e06e20c5263e6480
 modified: '2026-07-22'
 products_involved:
 - ChatGPT
@@ -12,10 +14,12 @@ tags:
 - theme
 - moc
 theme: accessibility-localization
-title: Accessibility Localization
+title: Accessibility and Localization
 ---
 
-# Theme: accessibility-localization
+<!-- chronolog:begin region="header" -->
+# Accessibility and Localization
+<!-- chronolog:end -->
 
 ## Research summary
 <!-- chronolog:begin region="narrative" -->

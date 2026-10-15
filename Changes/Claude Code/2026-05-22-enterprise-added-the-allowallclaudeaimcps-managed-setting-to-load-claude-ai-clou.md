@@ -1,8 +1,12 @@
 ---
 card_id: claude-code-2026-05-22-f593da
 date: '2026-05-22'
+description: 'Claude Code · 2026-05-22 · Apps and Integrations: Enterprise: added
+  the `allowAllClaudeAiMcps` managed setting to load claude.ai cloud MCP connectors
+  alongside…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
+    can join the waitlist to try plugins here]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1156
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: a54145f4a1ca887bbc52e280ab269c6acf58d8e01800a39f9ae161395369f05e
+machine_hash: c3240ceb2a9c49516a7a44da944275bbae58825ef5520987f58e98a8a99723c1
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,9 +52,12 @@ record:
     cloud…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-19-you-can-ask-cursor-to-fix-bugs-add-features-update-tests-or-investigate-somethin|cursor-2026-05-19-6f8441]]'
-- '[[Changes/Cursor/2026-05-19-install-the-integration-from-cursor-integrations-you-need-cursor-admin-access-an|cursor-2026-05-19-af93f5]]'
-- '[[Changes/Claude Code/2026-05-22-usage-now-shows-a-per-category-breakdown-of-what-s-driving-your-limits-usage-ski|claude-code-2026-05-22-82ca7e]]'
+- '[[Changes/Cursor/2026-05-19-you-can-ask-cursor-to-fix-bugs-add-features-update-tests-or-investigate-somethin|You
+  can ask Cursor to fix bugs, add features, update tests, or investigate something…]]'
+- '[[Changes/Cursor/2026-05-19-install-the-integration-from-cursor-integrations-you-need-cursor-admin-access-an|Install
+  the integration from Cursor integrations]]'
+- '[[Changes/Claude Code/2026-05-22-usage-now-shows-a-per-category-breakdown-of-what-s-driving-your-limits-usage-ski|/usage
+  now shows a per-category breakdown of what''s driving your limits usage]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-22-v2-1-149-github-328077450-086ee33f|claude-code-2026-05-22-v2-1-149-github-328077450-086ee33f]]'
 source_type: github_releases
 theme: apps-integrations
@@ -59,10 +66,10 @@ title: 'Enterprise: added the allowAllClaudeAiMcps managed setting to load claud
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Enterprise: added the `allowAllClaudeAiMcps` managed setting to load claude.ai cloud…
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.149: Enterprise: added the `allowAllClaudeAiMcps` managed setting to load claude.ai cloud MCP connectors alongside `managed-mcp.json`
+**Claude Code** · 2026-05-22 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.149) · from [[Releases/Claude Code/claude-code-2026-05-22-v2-1-149-github-328077450-086ee33f|v2.1.149]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -71,19 +78,28 @@ Claude Code — v2.1.149: Enterprise: added the `allowAllClaudeAiMcps` managed s
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.149
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-05-22-markdown-output-now-renders-gfm-task-list-checkboxes-todo-x-done-instead-of-plai|Markdown output now renders GFM task list checkboxes (-   todo / - x done)…]] · Interface Experience
+- [[Changes/Claude Code/2026-05-22-usage-now-shows-a-per-category-breakdown-of-what-s-driving-your-limits-usage-ski|/usage now shows a per-category breakdown of what's driving your limits usage]] · Apps and Integrations
+- [[Changes/Claude Code/2026-05-22-diff-detail-view-can-now-be-scrolled-with-the-keyboard-arrows-j-k-pgup-pgdn-spac|/diff detail view can now be scrolled with the keyboard…]] · Editor Experience
+- [[Changes/Claude Code/2026-05-22-fixed-a-powershell-permission-bypass-built-in-cd-functions-cd-cd-cd-x-changed-th|Fixed a PowerShell permission bypass]] · Safety and Privacy
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: apps-integrations
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]
-- Lag Days: 1156
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Apps and Integrations
+
+- Earlier: 2026-05-19 · Cursor · [[Changes/Cursor/2026-05-19-install-the-integration-from-cursor-integrations-you-need-cursor-admin-access-an|Install the integration from Cursor integrations]]
+- Later: 2026-05-27 · Claude Code · [[Changes/Claude Code/2026-05-27-sessionstart-hooks-can-now-set-the-session-title-via-hookspecificoutput-sessiont|SessionStart hooks can now set the session title…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-05-22-f593da&body=Card%3A%20Changes%2FClaude%20Code%2F2026-05-22-enterprise-added-the-allowallclaudeaimcps-managed-setting-to-load-claude-ai-clou.md%0ACard%20ID%3A%20claude-code-2026-05-22-f593da%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.149%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

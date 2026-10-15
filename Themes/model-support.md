@@ -1,7 +1,9 @@
 ---
 created: '2023-01-09'
 date: '2026-10-07'
-machine_hash: 63b262d50110fe99b57bd24f635ba219e56b1579dba6526bdf6810965d713623
+description: Cross-product timeline of Model Support changes in ChatGPT, Claude Code
+  and Cursor.
+machine_hash: 8ebe8d2443277b8f0538e04e2ca77e736aeb50b63e0772ea441146f21aa28202
 modified: '2026-10-07'
 products_involved:
 - ChatGPT
@@ -16,7 +18,9 @@ theme: model-support
 title: Model Support
 ---
 
-# Theme: model-support
+<!-- chronolog:begin region="header" -->
+# Model Support
+<!-- chronolog:end -->
 
 ## Research summary
 <!-- chronolog:begin region="narrative" -->

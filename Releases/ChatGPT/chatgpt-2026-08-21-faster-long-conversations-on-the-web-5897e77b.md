@@ -1,10 +1,13 @@
 ---
 changes_count: 0
 date: '2026-08-21'
-machine_hash: ab012521d2592af2113477709e2eb070ff91e908ceef0699367148a5a564f547
+description: 'ChatGPT release Faster long conversations on the web on 2026-08-21:
+  no tracked changes'
+machine_hash: 6c0845ac98844f5a78308bb79938c2da21f496998b8c6a5e02b4276062ec7061
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 2
   date: '2026-08-21'
   product: chatgpt
   product_name: ChatGPT
@@ -21,19 +24,21 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Faster long conversations on the web
+title: ChatGPT · Faster long conversations on the web
 version: Faster long conversations on the web
 ---
 
-# ChatGPT Faster long conversations on the web
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Faster long conversations on the web
+
+**ChatGPT** · 2026-08-21 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Long conversations now load more efficiently in ChatGPT on the web.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 0
+Tracked 0 of 2 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

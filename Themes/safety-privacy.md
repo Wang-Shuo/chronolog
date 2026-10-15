@@ -1,7 +1,9 @@
 ---
 created: '2023-04-16'
 date: '2026-10-13'
-machine_hash: cc564f162344f53daccfa79b529c964173d48c533a943b6039d6227986db21f9
+description: Cross-product timeline of Safety and Privacy changes in ChatGPT, Claude
+  Code and Cursor.
+machine_hash: 408b0e456452618cbac9ac3e4c17f49b1aa0c9189bb06e8a5aae20b8ea13e85b
 modified: '2026-10-13'
 products_involved:
 - ChatGPT
@@ -13,10 +15,12 @@ tags:
 - theme
 - moc
 theme: safety-privacy
-title: Safety Privacy
+title: Safety and Privacy
 ---
 
-# Theme: safety-privacy
+<!-- chronolog:begin region="header" -->
+# Safety and Privacy
+<!-- chronolog:end -->
 
 ## Research summary
 <!-- chronolog:begin region="narrative" -->

@@ -1,10 +1,13 @@
 ---
 changes_count: 2
 date: '2026-09-29'
-machine_hash: 97545b2919b16c0b6130a6d8cc35223628ee79fe7e1bc9d5ccb2e2b4432c89f0
+description: 'ChatGPT release Meetings plugin on 2026-09-29: 2 tracked changes across
+  Apps and Integrations, Mobile and Desktop'
+machine_hash: 8a9deafa14b6e79568cb65d047829878b55fab2cbb9aa3ff45f13d218fb5807c
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 2
   date: '2026-09-29'
   product: chatgpt
   product_name: ChatGPT
@@ -25,23 +28,25 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Meetings plugin
+title: ChatGPT · Meetings plugin
 version: Meetings plugin
 ---
 
-# ChatGPT Meetings plugin
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Meetings plugin
+
+**ChatGPT** · 2026-09-29 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 We’re making it easier to bring meeting context into ChatGPT so you can act on next steps faster. The Meetings plugin takes notes for you based on what’s said in the meeting and saves personalized summaries with action items in ChatGPT Space. You can keep them private or share them with your team, then ask ChatGPT to…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 2
+Tracked 2 of 2 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- apps-integrations: [[Changes/ChatGPT/2026-09-29-we-re-making-it-easier-to-bring-meeting-context-into-chatgpt-so-you-can-act-on-n|We’re making it easier to bring meeting context into ChatGPT so you can act on next…]]
-- mobile-desktop: [[Changes/ChatGPT/2026-09-29-audio-is-deleted-once-your-notes-are-ready-and-can-t-be-accessed-or-replayed-ava|Audio is deleted once your notes are ready and can’t be accessed or replayed]]
+- [[Changes/ChatGPT/2026-09-29-we-re-making-it-easier-to-bring-meeting-context-into-chatgpt-so-you-can-act-on-n|We’re making it easier to bring meeting context into ChatGPT so you can act on next…]] · Apps and Integrations
+- [[Changes/ChatGPT/2026-09-29-audio-is-deleted-once-your-notes-are-ready-and-can-t-be-accessed-or-replayed-ava|Audio is deleted once your notes are ready and can’t be accessed or replayed]] · Mobile and Desktop
 <!-- chronolog:end -->

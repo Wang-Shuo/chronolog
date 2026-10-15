@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2026-02-10'
-machine_hash: 7d20dab411f73c94ec45b08cdbf2004e48f762bf478c98f9e0697122d23c5543
+description: 'ChatGPT release Updates to deep research on 2026-02-10: 1 tracked change
+  across Interface Experience'
+machine_hash: 43fbb1f7cb6d9d7ab3b0b688681c5814002a54b30fe21f4ef19975061cb24ac8
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 2
   date: '2026-02-10'
   product: chatgpt
   product_name: ChatGPT
@@ -25,22 +28,24 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Updates to deep research
+title: ChatGPT · Updates to deep research
 version: Updates to deep research
 ---
 
-# ChatGPT Updates to deep research
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Updates to deep research
+
+**ChatGPT** · 2026-02-10 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 We’re introducing improvements to deep research in ChatGPT to help produce more accurate, credible reports with greater control. You can now focus research on specific websites and a larger collection of connected apps as trusted sources. A redesigned sidebar entry point and fullscreen report view make it easier to…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 1
+Tracked 1 of 2 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- interface-experience: [[Changes/ChatGPT/2026-02-10-we-re-introducing-improvements-to-deep-research-in-chatgpt-to-help-produce-more|ChatGPT introduces improvements to deep research to help produce more accurate…]]
+- [[Changes/ChatGPT/2026-02-10-we-re-introducing-improvements-to-deep-research-in-chatgpt-to-help-produce-more|ChatGPT introduces improvements to deep research to help produce more accurate…]] · Interface Experience
 <!-- chronolog:end -->

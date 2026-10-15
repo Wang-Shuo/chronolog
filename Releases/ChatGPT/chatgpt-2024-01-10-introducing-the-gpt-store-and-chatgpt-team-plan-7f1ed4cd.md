@@ -1,10 +1,13 @@
 ---
 changes_count: 2
 date: '2024-01-10'
-machine_hash: df5f98f7a23166a43dfc466f4b9ab95c849428c954a8ef703cb9587fc0ecc338
+description: 'ChatGPT release Introducing the GPT Store and ChatGPT Team plan on 2024-01-10:
+  2 tracked changes across Image Generation, Safety and Privacy'
+machine_hash: 375d747f551da8aa6256b6d4438c9a44e8151dbe8163aec417bb435e1d7d6df9
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 2
   date: '2024-01-10'
   product: chatgpt
   product_name: ChatGPT
@@ -21,23 +24,25 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Introducing the GPT Store and ChatGPT Team plan
+title: ChatGPT · Introducing the GPT Store and ChatGPT Team plan
 version: Introducing the GPT Store and ChatGPT Team plan
 ---
 
-# ChatGPT Introducing the GPT Store and ChatGPT Team plan
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Introducing the GPT Store and ChatGPT Team plan
+
+**ChatGPT** · 2024-01-10 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Discover what’s trending in the GPT Store
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 2
+Tracked 2 of 2 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- image-generation: [[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|The store features a diverse range of GPTs developed by our partners and the community]]
-- safety-privacy: [[Changes/ChatGPT/2024-01-10-we-re-launching-a-new-chatgpt-plan-for-teams-of-all-sizes-which-provides-a-secur-c68432|ChatGPT launches a new ChatGPT plan for teams of all sizes, which provides a secure…]]
+- [[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|The store features a diverse range of GPTs developed by our partners and the community]] · Image Generation
+- [[Changes/ChatGPT/2024-01-10-we-re-launching-a-new-chatgpt-plan-for-teams-of-all-sizes-which-provides-a-secur-c68432|ChatGPT launches a new ChatGPT plan for teams of all sizes, which provides a secure…]] · Safety and Privacy
 <!-- chronolog:end -->

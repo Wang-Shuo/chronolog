@@ -1,10 +1,12 @@
 ---
 changes_count: 0
 date: '2023-07-15'
-machine_hash: e0779c2f6fd07243140fb3f369f47305f02af6b8d9319531b217998d6402d91c
+description: 'Cursor release infinite chat loop hotfix on 2023-07-15: no tracked changes'
+machine_hash: 3b536fb26f76200b9164f2495aeca18d47f8b6b636730f012a96f4fe36fb550f
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2023-07-15'
   product: cursor
   product_name: Cursor
@@ -21,19 +23,21 @@ source_url: https://cursor.com/changelog/0-2-48
 tags:
 - release
 - cursor
-title: Cursor — infinite chat loop hotfix
+title: Cursor · infinite chat loop hotfix
 version: 0.2.48
 ---
 
-# Cursor infinite chat loop hotfix
+<!-- chronolog:begin region="header" -->
+# Cursor · infinite chat loop hotfix
+
+**Cursor** · 2023-07-15 · [Official release notes](https://cursor.com/changelog/0-2-48)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 This update fixes the infinite loop bug in the chat pane.
 
-[Official release notes](https://cursor.com/changelog/0-2-48)
-
-Tracked cards: 0
+Tracked 0 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

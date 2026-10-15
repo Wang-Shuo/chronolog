@@ -1,7 +1,8 @@
 ---
 created: '2024-01-10'
 date: '2026-09-08'
-machine_hash: aa2cd9178de9a20d8c9243a112f6af5657f4533d449fc8f2a710071c611380f9
+description: Cross-product timeline of Image Generation changes in ChatGPT.
+machine_hash: 5c9cc80d353b7d43ada402260e66bb96a1cf6ed2f300e76de4eaf78b7c117783
 modified: '2026-09-08'
 products_involved:
 - ChatGPT
@@ -14,7 +15,9 @@ theme: image-generation
 title: Image Generation
 ---
 
-# Theme: image-generation
+<!-- chronolog:begin region="header" -->
+# Image Generation
+<!-- chronolog:end -->
 
 ## Research summary
 <!-- chronolog:begin region="narrative" -->

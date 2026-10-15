@@ -1,8 +1,11 @@
 ---
 card_id: claude-code-2026-06-24-659e5b
 date: '2026-06-24'
+description: 'Claude Code · 2026-06-24 · Projects and Workspaces: Added `/rewind`
+  support for resuming a conversation from before `/clear` was run'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-conversation-history-you-ll-soon-be-able-to-view-past-conversations-with-chatgpt|chatgpt-2022-12-15-23a232]]'
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-conversation-history-you-ll-soon-be-able-to-view-past-conversations-with-chatgpt|Conversation
+    history: You’ll soon be able to view past conversations with ChatGPT…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1287
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 76890dadbd3316a968e7e7e5c2268cc2e5762ee97585a6a8eac066a8d185d060
+machine_hash: 06c89a4c3a4aa688e0df092677af457265f5f6baa8c47133a69bb55eb5b520a9
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,9 +45,12 @@ record:
     was run
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-14-added-n-name-name-cli-flag-to-set-a-display-name-for-the-session-at-startup|claude-code-2026-03-14-75b9e4]]'
-- '[[Changes/Claude Code/2026-05-01-added-claude-project-purge-path-to-delete-all-claude-code-state-for-a-project-tr|claude-code-2026-05-01-6897b7]]'
-- '[[Changes/Claude Code/2026-05-13-feedback-can-now-include-recent-sessions-last-24-hours-or-7-days-for-issues-span|claude-code-2026-05-13-a1d58a]]'
+- '[[Changes/Claude Code/2026-03-14-added-n-name-name-cli-flag-to-set-a-display-name-for-the-session-at-startup|Added
+  -n / --name name CLI flag to set a display name for the session at startup]]'
+- '[[Changes/Claude Code/2026-05-01-added-claude-project-purge-path-to-delete-all-claude-code-state-for-a-project-tr|-
+  Added claude project purge path to delete all Claude Code state for a project…]]'
+- '[[Changes/Claude Code/2026-05-13-feedback-can-now-include-recent-sessions-last-24-hours-or-7-days-for-issues-span|/feedback
+  can now include recent sessions (last 24 hours or 7 days) for issues…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-24-v2-1-191-github-344307226-67cdfb27|claude-code-2026-06-24-v2-1-191-github-344307226-67cdfb27]]'
 source_type: github_releases
 theme: projects-workspaces
@@ -52,10 +58,10 @@ title: Added /rewind support for resuming a conversation from before /clear was 
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Added `/rewind` support for resuming a conversation from before `/clear` was run
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.191: Added `/rewind` support for resuming a conversation from before `/clear` was run
+**Claude Code** · 2026-06-24 · [[Themes/projects-workspaces|Projects and Workspaces]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.191) · from [[Releases/Claude Code/claude-code-2026-06-24-v2-1-191-github-344307226-67cdfb27|v2.1.191]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -64,19 +70,28 @@ Claude Code — v2.1.191: Added `/rewind` support for resuming a conversation fr
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.191
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-06-24-improved-mcp-error-messages-http-404-errors-now-show-the-url-and-point-to-your-m|Improved MCP error messages: HTTP 404 errors now show the URL and point to your MCP config]] · Apps and Integrations
+- [[Changes/Claude Code/2026-06-24-improved-mcp-server-reliability-capability-discovery-tools-list-prompts-list-res|Improved MCP server reliability]] · Apps and Integrations
+- [[Changes/Claude Code/2026-06-24-improved-sandbox-network-permission-dialog-hosts-you-allow-with-yes-are-now-reme|Improved sandbox network permission dialog]] · Safety and Privacy
+- [[Changes/Claude Code/2026-06-24-improved-mcp-oauth-discovery-and-token-requests-now-retry-once-after-transient-n|Improved MCP OAuth]] · Account and Access
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: projects-workspaces
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2022-12-15-conversation-history-you-ll-soon-be-able-to-view-past-conversations-with-chatgpt|chatgpt-2022-12-15-23a232]]
-- Lag Days: 1287
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Projects and Workspaces
+
+- Earlier: 2026-05-13 · Claude Code · [[Changes/Claude Code/2026-05-13-feedback-can-now-include-recent-sessions-last-24-hours-or-7-days-for-issues-span|/feedback can now include recent sessions (last 24 hours or 7 days) for issues…]]
+- Later: 2026-06-26 · Claude Code · [[Changes/Claude Code/2026-06-26-improved-remote-session-startup-with-a-provisioning-checklist-while-the-containe|Improved Remote session startup with a provisioning checklist while the container starts]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-conversation-history-you-ll-soon-be-able-to-view-past-conversations-with-chatgpt|Conversation history: You’ll soon be able to view past conversations with ChatGPT…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-06-24-659e5b&body=Card%3A%20Changes%2FClaude%20Code%2F2026-06-24-added-rewind-support-for-resuming-a-conversation-from-before-clear-was-run.md%0ACard%20ID%3A%20claude-code-2026-06-24-659e5b%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.191%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

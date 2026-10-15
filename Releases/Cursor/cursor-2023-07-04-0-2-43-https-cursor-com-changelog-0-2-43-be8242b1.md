@@ -1,10 +1,12 @@
 ---
 changes_count: 0
 date: '2023-07-04'
-machine_hash: a5e892734ff03b4482e10c17fe2a68bbe73002c8eb42ef4fc29a01fcb8fc299b
+description: 'Cursor release Fix for Cmd+K on 2023-07-04: no tracked changes'
+machine_hash: 5e5e1859afe3cf621ca76aabf1bbe860849db00d8d8f0754dedeee1a98a6c859
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2023-07-04'
   product: cursor
   product_name: Cursor
@@ -21,19 +23,21 @@ source_url: https://cursor.com/changelog/0-2-43
 tags:
 - release
 - cursor
-title: Cursor — Fix for Cmd+K
+title: Cursor · Fix for Cmd+K
 version: 0.2.43
 ---
 
-# Cursor Fix for Cmd+K
+<!-- chronolog:begin region="header" -->
+# Cursor · Fix for Cmd+K
+
+**Cursor** · 2023-07-04 · [Official release notes](https://cursor.com/changelog/0-2-43)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Patches a few edgecases with Cmd+K.
 
-[Official release notes](https://cursor.com/changelog/0-2-43)
-
-Tracked cards: 0
+Tracked 0 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

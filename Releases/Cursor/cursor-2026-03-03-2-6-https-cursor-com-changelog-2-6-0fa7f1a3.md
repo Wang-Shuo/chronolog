@@ -1,10 +1,13 @@
 ---
 changes_count: 5
 date: '2026-03-03'
-machine_hash: 6d1b89e83cb029ca075c365ca27426157d15cbaeb960eb7ea1ab272a65d5d19c
+description: 'Cursor release MCP Apps and Team Marketplaces for Plugins on 2026-03-03:
+  5 tracked changes across Developer Workflow, Apps and Integrations, Enterprise and…'
+machine_hash: b25d75477f48ec2e71f1c5b37e193f3545f9c0e9e1e5f82df2cdc073576c53dc
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 33
   date: '2026-03-03'
   product: cursor
   product_name: Cursor
@@ -23,26 +26,28 @@ source_url: https://cursor.com/changelog/2-6
 tags:
 - release
 - cursor
-title: Cursor — MCP Apps and Team Marketplaces for Plugins
+title: Cursor · MCP Apps and Team Marketplaces for Plugins
 version: '2.6'
 ---
 
-# Cursor MCP Apps and Team Marketplaces for Plugins
+<!-- chronolog:begin region="header" -->
+# Cursor · MCP Apps and Team Marketplaces for Plugins
+
+**Cursor** · 2026-03-03 · [Official release notes](https://cursor.com/changelog/2-6)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 This release introduces interactive UIs in agent chats, a way for teams to share private plugins, and improvements to core capabilities like Debug mode.
 
-[Official release notes](https://cursor.com/changelog/2-6)
-
-Tracked cards: 5
+Tracked 5 of 33 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- apps-integrations: [[Changes/Cursor/2026-03-03-mcp-apps-support-interactive-user-interfaces-like-charts-from-amplitude-diagrams|MCP Apps support interactive user interfaces like charts from Amplitude, diagrams…]]
-- developer-workflow: [[Changes/Cursor/2026-03-03-added-support-for-multiple-parallel-debug-mode-sessions|Added support for multiple parallel Debug mode sessions]]
-- mobile-desktop: [[Changes/Cursor/2026-03-03-desktop-improvements-15|Desktop Improvements (15)↓↑]]
-- enterprise-admin: [[Changes/Cursor/2026-03-03-on-teams-and-enterprise-plans-admins-can-now-create-team-marketplaces-to-share-p|On Teams and Enterprise plans, Admins can now create team marketplaces to share…]]
-- developer-workflow: [[Changes/Cursor/2026-03-03-this-release-introduces-interactive-uis-in-agent-chats-a-way-for-teams-to-share|Cursor introduces interactive UIs in agent chats, a way for teams to share private…]]
+- [[Changes/Cursor/2026-03-03-mcp-apps-support-interactive-user-interfaces-like-charts-from-amplitude-diagrams|MCP Apps support interactive user interfaces like charts from Amplitude, diagrams…]] · Apps and Integrations
+- [[Changes/Cursor/2026-03-03-added-support-for-multiple-parallel-debug-mode-sessions|Added support for multiple parallel Debug mode sessions]] · Developer Workflow
+- [[Changes/Cursor/2026-03-03-desktop-improvements-15|Desktop Improvements (15)↓↑]] · Mobile and Desktop
+- [[Changes/Cursor/2026-03-03-on-teams-and-enterprise-plans-admins-can-now-create-team-marketplaces-to-share-p|On Teams and Enterprise plans, Admins can now create team marketplaces to share…]] · Enterprise and Administration
+- [[Changes/Cursor/2026-03-03-this-release-introduces-interactive-uis-in-agent-chats-a-way-for-teams-to-share|Cursor introduces interactive UIs in agent chats, a way for teams to share private…]] · Developer Workflow
 <!-- chronolog:end -->

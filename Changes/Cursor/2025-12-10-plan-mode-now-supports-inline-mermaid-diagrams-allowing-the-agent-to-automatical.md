@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2025-12-10-8fb01a
 date: '2025-12-10'
+description: 'Cursor · 2025-12-10 · Agent Mode: Plan Mode now supports inline Mermaid
+  diagrams, allowing the agent to automatically generate and stream visuals into your…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
+    to the first nightly release!]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 888
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 720fbdc73a75f05cdb8f4331987690615e7a53ee19c9db471b112cbd4af673e0
+machine_hash: 124fe7fffe01dc6666141129549d2902e653485f8500fa67c601660fd12c6697
 product: cursor
 product_name: Cursor
 record:
@@ -43,9 +46,12 @@ record:
   title: Plan Mode now supports inline Mermaid diagrams, allowing the agent to automatically…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-11-21-all-grep-commands-run-by-the-agent-are-now-instant|cursor-2025-11-21-af1861]]'
-- '[[Changes/Cursor/2025-11-21-when-creating-plans-cursor-responds-with-clarifying-questions-to-improve-the-pla|cursor-2025-11-21-c66e0a]]'
-- '[[Changes/Cursor/2025-12-10-move-elements-update-colors-test-layouts-and-experiment-with-css-in-real-time-th|cursor-2025-12-10-07fdf8]]'
+- '[[Changes/Cursor/2025-11-21-all-grep-commands-run-by-the-agent-are-now-instant|All
+  grep commands run by the agent are now instant]]'
+- '[[Changes/Cursor/2025-11-21-when-creating-plans-cursor-responds-with-clarifying-questions-to-improve-the-pla|When
+  creating plans, Cursor responds with clarifying questions to improve the plan quality]]'
+- '[[Changes/Cursor/2025-12-10-move-elements-update-colors-test-layouts-and-experiment-with-css-in-real-time-th|Move
+  elements, update colors, test layouts, and experiment with CSS in real time…]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323|cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -53,10 +59,10 @@ title: Plan Mode now supports inline Mermaid diagrams, allowing the agent to aut
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Plan Mode now supports inline Mermaid diagrams, allowing the agent to automatically…
 
-<!-- chronolog:begin region="description" -->
-Cursor — Debug Mode, Plan Mode Improvements, Multi-Agent Judging, and Pinned Chats: Plan Mode now supports inline Mermaid diagrams, allowing the agent to automatically generate and stream visuals into your plans. You also have more control over how you build them, with the option to send selected to-dos to new agents.
+**Cursor** · 2025-12-10 · [[Themes/agent-mode|Agent Mode]] · [Official source](https://cursor.com/changelog/2-2) · from [[Releases/Cursor/cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323|Debug Mode, Plan Mode Improvements, Multi-Agent Judging, and Pinned Chats]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -65,19 +71,28 @@ Cursor — Debug Mode, Plan Mode Improvements, Multi-Agent Judging, and Pinned C
 > Source: https://cursor.com/changelog/2-2
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2025-12-10-move-elements-update-colors-test-layouts-and-experiment-with-css-in-real-time-th|Move elements, update colors, test layouts, and experiment with CSS in real time…]] · Agent Mode
+- [[Changes/Cursor/2025-12-10-design-and-code-simultaneously-with-a-brand-new-browser-sidebar-and-component-tr|Design and code simultaneously with a brand new browser sidebar and component tree]] · Interface Experience
+- [[Changes/Cursor/2025-12-10-debug-mode-helps-you-reproduce-and-fix-the-most-tricky-bugs|Debug Mode helps you reproduce and fix the most tricky bugs]] · Developer Workflow
+- [[Changes/Cursor/2025-12-10-cursor-instruments-your-app-with-runtime-logs-to-find-the-root-cause-it-works-ac|Cursor instruments your app with runtime logs to find the root cause]] · Model Support
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: agent-mode
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]
-- Lag Days: 888
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Agent Mode
+
+- Earlier: 2025-11-21 · Cursor · [[Changes/Cursor/2025-11-21-when-creating-plans-cursor-responds-with-clarifying-questions-to-improve-the-pla|When creating plans, Cursor responds with clarifying questions to improve the plan quality]]
+- Later: 2025-12-22 · Cursor · [[Changes/Cursor/2025-12-22-this-includes-the-core-agent-layout-controls-viewing-code-diffs-and-more-we-will|This includes the core agent, layout controls, viewing code diffs, and more]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2025-12-10-8fb01a&body=Card%3A%20Changes%2FCursor%2F2025-12-10-plan-mode-now-supports-inline-mermaid-diagrams-allowing-the-agent-to-automatical.md%0ACard%20ID%3A%20cursor-2025-12-10-8fb01a%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F2-2%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

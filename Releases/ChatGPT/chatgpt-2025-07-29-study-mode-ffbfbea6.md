@@ -1,10 +1,13 @@
 ---
 changes_count: 4
 date: '2025-07-29'
-machine_hash: 5b87e0ac10255392c835bd39b093eb66e5f3c7a8026cae451c121345db1a39df
+description: 'ChatGPT release Study Mode on 2025-07-29: 4 tracked changes across Learning
+  Tools, Memory and Personalization, Mobile and Desktop'
+machine_hash: 89fc2952ba7970151ad75d9d63ce99933653ea8efd760e08a184fb62f6ef5764
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 7
   date: '2025-07-29'
   product: chatgpt
   product_name: ChatGPT
@@ -24,25 +27,27 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Study Mode
+title: ChatGPT · Study Mode
 version: Study Mode
 ---
 
-# ChatGPT Study Mode
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Study Mode
+
+**ChatGPT** · 2025-07-29 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Study mode is currently available to users in Free, Plus, Pro, and Teams plans globally and will expand to Edu plans in the coming weeks. Study mode works with any model available in ChatGPT on iOS, Android, web, and desktop.Study mode is a new learning experience in ChatGPT designed to help you build a deeper…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 4
+Tracked 4 of 7 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- learning-tools: [[Changes/ChatGPT/2025-07-29-break-concepts-into-easy-to-follow-sections-starting-simple-and-adding-complexit|Break concepts into easy to follow sections starting simple and adding complexity…]]
-- memory: [[Changes/ChatGPT/2025-07-29-personalize-responses-based-on-your-past-chats-if-memory-is-on-using-examples-an|Personalize responses based on your past chats if memory is on, using examples…]]
-- mobile-desktop: [[Changes/ChatGPT/2025-07-29-study-mode-is-currently-available-to-users-in-free-plus-pro-and-teams-plans-glob-96fd94|Study mode is currently available to users in Free, Plus, Pro, and Teams plans…]]
-- learning-tools: [[Changes/ChatGPT/2025-07-29-guide-understanding-with-socratic-style-questions|Guide understanding with Socratic-style questions]]
+- [[Changes/ChatGPT/2025-07-29-break-concepts-into-easy-to-follow-sections-starting-simple-and-adding-complexit|Break concepts into easy to follow sections starting simple and adding complexity…]] · Learning Tools
+- [[Changes/ChatGPT/2025-07-29-personalize-responses-based-on-your-past-chats-if-memory-is-on-using-examples-an|Personalize responses based on your past chats if memory is on, using examples…]] · Memory and Personalization
+- [[Changes/ChatGPT/2025-07-29-study-mode-is-currently-available-to-users-in-free-plus-pro-and-teams-plans-glob-96fd94|Study mode is currently available to users in Free, Plus, Pro, and Teams plans…]] · Mobile and Desktop
+- [[Changes/ChatGPT/2025-07-29-guide-understanding-with-socratic-style-questions|Guide understanding with Socratic-style questions]] · Learning Tools
 <!-- chronolog:end -->

@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2023-03-30-e2bc03
 date: '2023-03-30'
+description: 'Cursor · 2023-03-30 · Model Support: Use an OpenAI API key for unlimited
+  requests at cost (GPT-4 access if available)'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We
+    made more improvements to the ChatGPT model!]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 80
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 64e17e6ab302ec26ab01d2a332c1f6625a719cb207424c2ddd181213c57ef3b1
+machine_hash: 91b3458df28f69480212f29fa817dc84088177428d5ba49ed47e38c812aa18cf
 product: cursor
 product_name: Cursor
 record:
@@ -38,9 +41,12 @@ record:
   title: Use an OpenAI API key for unlimited requests at cost (GPT-4 access if available)
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-03-14-we-re-excited-to-bring-gpt-4-our-latest-model-to-our-chatgpt-plus-subscribers-gp|chatgpt-2023-03-14-d7797b]]'
-- '[[Changes/ChatGPT/2023-03-23-third-party-plugins-an-experimental-model-that-knows-when-and-how-to-use-externa|chatgpt-2023-03-23-3b27d2]]'
-- '[[Changes/ChatGPT/2023-03-23-code-interpreter-an-experimental-chatgpt-model-that-can-use-python-and-handles-u|chatgpt-2023-03-23-f4fabc]]'
+- '[[Changes/ChatGPT/2023-03-14-we-re-excited-to-bring-gpt-4-our-latest-model-to-our-chatgpt-plus-subscribers-gp|ChatGPT
+  brings GPT-4, our latest model, to our ChatGPT Plus subscribers]]'
+- '[[Changes/ChatGPT/2023-03-23-third-party-plugins-an-experimental-model-that-knows-when-and-how-to-use-externa|Third-party
+  plugins: An experimental model that knows when and how to use external plugins]]'
+- '[[Changes/ChatGPT/2023-03-23-code-interpreter-an-experimental-chatgpt-model-that-can-use-python-and-handles-u|Code
+  Interpreter: An experimental ChatGPT model that can use Python, and handles…]]'
 source_release: '[[Releases/Cursor/cursor-2023-03-30-0-1-12-https-cursor-com-changelog-0-1-12-f3e1800c|cursor-2023-03-30-0-1-12-https-cursor-com-changelog-0-1-12-f3e1800c]]'
 source_type: cursor_changelog
 theme: model-support
@@ -48,10 +54,10 @@ title: Use an OpenAI API key for unlimited requests at cost (GPT-4 access if ava
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Use an OpenAI API key for unlimited requests at cost (GPT-4 access if available)
 
-<!-- chronolog:begin region="description" -->
-Cursor — v0.1.12 (2023-03-30): Use an OpenAI API key for unlimited requests at cost (GPT-4 access if available)
+**Cursor** · 2023-03-30 · [[Themes/model-support|Model Support]] · [Official source](https://cursor.com/changelog/0-1-12) · from [[Releases/Cursor/cursor-2023-03-30-0-1-12-https-cursor-com-changelog-0-1-12-f3e1800c|v0.1.12 (2023-03-30)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -60,19 +66,26 @@ Cursor — v0.1.12 (2023-03-30): Use an OpenAI API key for unlimited requests at
 > Source: https://cursor.com/changelog/0-1-12
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]] · Account and Access
+- [[Changes/Cursor/2023-03-30-cleaned-up-chat-styling|Cleaned up chat styling]] · Interface Experience
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: model-support
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]
-- Lag Days: 80
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Model Support
+
+- Earlier: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-code-interpreter-an-experimental-chatgpt-model-that-can-use-python-and-handles-u|Code Interpreter: An experimental ChatGPT model that can use Python, and handles…]]
+- Later: 2023-04-14 · Cursor · [[Changes/Cursor/2023-04-14-gpt-4-support|GPT-4 support]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We made more improvements to the ChatGPT model!]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2023-03-30-e2bc03&body=Card%3A%20Changes%2FCursor%2F2023-03-30-use-an-openai-api-key-for-unlimited-requests-at-cost-gpt-4-access-if-available.md%0ACard%20ID%3A%20cursor-2023-03-30-e2bc03%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F0-1-12%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

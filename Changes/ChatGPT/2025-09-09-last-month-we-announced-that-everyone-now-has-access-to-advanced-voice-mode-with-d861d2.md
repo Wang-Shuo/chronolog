@@ -1,8 +1,12 @@
 ---
 card_id: chatgpt-2025-09-09-d861d2
 date: '2025-09-09'
+description: 'ChatGPT · 2025-09-09 · Voice and Audio: Last month we announced that
+  everyone now has access to Advanced Voice Mode, with usage expanded from minutes
+  per day…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|chatgpt-2023-09-25-13666e]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Use
+    voice to engage in a back-and-forth conversation with your assistant]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 715
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: e8d7d3e870be2bf64e5db88fef84bac2e03b4d4a1b276abda2767c6748f5fd0f
+machine_hash: 6c1445562cc49a5820b930952debb6c0832f9c34469224de030b9c74c9ec1224
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,9 +55,12 @@ record:
   title: Last month we announced that everyone now has access to Advanced Voice Mode…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-07-17-the-advanced-voice-upgrades-we-announced-on-june-7th-are-now-rolling-out-to-chat|chatgpt-2025-07-17-ce1159]]'
-- '[[Changes/ChatGPT/2025-08-07-today-we-re-rolling-out-improvements-to-voice-mode-to-make-it-more-accessible-an-055388|chatgpt-2025-08-07-055388]]'
-- '[[Changes/ChatGPT/2025-08-07-you-can-now-choose-from-four-distinct-personalities-or-use-the-default-personali-b6826c|chatgpt-2025-08-07-b6826c]]'
+- '[[Changes/ChatGPT/2025-07-17-the-advanced-voice-upgrades-we-announced-on-june-7th-are-now-rolling-out-to-chat|The
+  Advanced Voice upgrades we announced on June 7th are now rolling out to ChatGPT…]]'
+- '[[Changes/ChatGPT/2025-08-07-today-we-re-rolling-out-improvements-to-voice-mode-to-make-it-more-accessible-an-055388|ChatGPT
+  rolls out improvements to Voice Mode to make it more accessible and useful…]]'
+- '[[Changes/ChatGPT/2025-08-07-you-can-now-choose-from-four-distinct-personalities-or-use-the-default-personali-b6826c|Choose
+  from four distinct personalities or use the Default personality…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-09-chatgpt-voice-update-c17a6a9f|chatgpt-2025-09-09-chatgpt-voice-update-c17a6a9f]]'
 source_type: chatgpt_changelog
 theme: voice
@@ -61,10 +68,10 @@ title: Last month we announced that everyone now has access to Advanced Voice Mo
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Last month we announced that everyone now has access to Advanced Voice Mode…
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — ChatGPT Voice Update: Last month we announced that everyone now has access to Advanced Voice Mode, with usage expanded from minutes per day to hours for Free users, and near-unlimited use for Plus.We also shared that Standard Voice Mode would be retired following a 30-day sunset period. We’ve heard feedback that Standard Voice is special to some folks, and we want to make sure the transition feels right. To that end, we’re keeping Standard Voice available while we address some feedback from its users about Advanced Voice.Stay tuned—more improvements to Voice are coming soon.
+**ChatGPT** · 2025-09-09 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-09-09-chatgpt-voice-update-c17a6a9f|ChatGPT Voice Update]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -73,19 +80,23 @@ ChatGPT — ChatGPT Voice Update: Last month we announced that everyone now has 
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: voice
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|chatgpt-2023-09-25-13666e]]
-- Lag Days: 715
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Voice and Audio
+
+- Earlier: 2025-08-07 · ChatGPT · [[Changes/ChatGPT/2025-08-07-you-can-now-choose-from-four-distinct-personalities-or-use-the-default-personali-b6826c|Choose from four distinct personalities or use the Default personality…]]
+- Later: 2025-09-29 · ChatGPT · [[Changes/ChatGPT/2025-09-29-turn-off-voice-mode-to-remove-the-option-to-use-voice-mode-in-chatgpt|Turn off voice mode, to remove the option to use voice mode in ChatGPT]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Use voice to engage in a back-and-forth conversation with your assistant]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-09-09-d861d2&body=Card%3A%20Changes%2FChatGPT%2F2025-09-09-last-month-we-announced-that-everyone-now-has-access-to-advanced-voice-mode-with-d861d2.md%0ACard%20ID%3A%20chatgpt-2025-09-09-d861d2%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2026-09-08-1e7f3d
 date: '2026-09-08'
+description: 'ChatGPT · 2026-09-08 · Collaboration: Share a prompt. Share the prompt
+  for a generated image so others can create their own version.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|cursor-2023-09-08-8ba960]]'
+  first_in_tracked: '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams
+    can also share private docs]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1096
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 13833bda5f6d69c5aca7b455fd87c18c57dbf445a7836e9d7277eea41e8178d5
+machine_hash: b20e5c49fcebb6de82155e7d67b7e0e126939ec650ef3dda7602759b4483aa23
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,9 +43,12 @@ record:
   title: Share a prompt
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-20-share-a-read-only-snapshot-of-a-codex-chat-personal-share-links-can-be-opened-by|chatgpt-2026-08-20-eac99b]]'
-- '[[Changes/ChatGPT/2026-08-31-share-your-stickers-in-messaging-apps-download-your-pack-or-add-it-to-imessage-o|chatgpt-2026-08-31-30dd60]]'
-- '[[Changes/ChatGPT/2026-09-03-eligible-site-owners-can-now-share-a-live-chatgpt-site-with-named-people-outside|chatgpt-2026-09-03-e222bc]]'
+- '[[Changes/ChatGPT/2026-08-20-share-a-read-only-snapshot-of-a-codex-chat-personal-share-links-can-be-opened-by|Share
+  a read-only snapshot of a Codex chat]]'
+- '[[Changes/ChatGPT/2026-08-31-share-your-stickers-in-messaging-apps-download-your-pack-or-add-it-to-imessage-o|Share
+  your stickers in messaging apps]]'
+- '[[Changes/ChatGPT/2026-09-03-eligible-site-owners-can-now-share-a-live-chatgpt-site-with-named-people-outside|Eligible
+  Site owners can now share a live ChatGPT Site with named people outside…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-08-chatgpt-images-2-5-new-ways-to-create-and-edit-11ada24d|chatgpt-2026-09-08-chatgpt-images-2-5-new-ways-to-create-and-edit-11ada24d]]'
 source_type: chatgpt_changelog
 theme: collaboration
@@ -50,10 +56,10 @@ title: Share a prompt
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Share a prompt
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — ChatGPT Images 2.5: new ways to create and edit: Share a prompt. Share the prompt for a generated image so others can create their own version.
+**ChatGPT** · 2026-09-08 · [[Themes/collaboration|Collaboration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-08-chatgpt-images-2-5-new-ways-to-create-and-edit-11ada24d|ChatGPT Images 2.5: new ways to create and edit]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -62,19 +68,27 @@ ChatGPT — ChatGPT Images 2.5: new ways to create and edit: Share a prompt. Sha
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2026-09-08-chatgpt-images-2-5-brings-sharper-details-more-precise-editing-and-faster-image|ChatGPT Images 2.5 brings sharper details, more precise editing, and faster image…]] · Image Generation
+- [[Changes/ChatGPT/2026-09-08-edit-and-comment-on-mobile-open-a-generated-image-full-screen-to-edit-it-or-add|Edit and comment]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-09-08-turn-a-sketch-into-an-image-on-mobile-type-in-the-message-box-and-select-sketch|Turn a sketch into an image]] · Mobile and Desktop
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: collaboration
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|cursor-2023-09-08-8ba960]]
-- Lag Days: 1096
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Collaboration
+
+- Earlier: 2026-09-03 · ChatGPT · [[Changes/ChatGPT/2026-09-03-eligible-site-owners-can-now-share-a-live-chatgpt-site-with-named-people-outside|Eligible Site owners can now share a live ChatGPT Site with named people outside…]]
+- Later: 2026-09-09 · ChatGPT · [[Changes/ChatGPT/2026-09-09-share-with-specific-people-invite-recipients-and-assign-viewer-or-editor-access|Share with specific people]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-09-08 · Cursor · [[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams can also share private docs]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-08-1e7f3d&body=Card%3A%20Changes%2FChatGPT%2F2026-09-08-share-a-prompt-share-the-prompt-for-a-generated-image-so-others-can-create-their.md%0ACard%20ID%3A%20chatgpt-2026-09-08-1e7f3d%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

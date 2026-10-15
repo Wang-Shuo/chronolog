@@ -1,8 +1,10 @@
 ---
 card_id: chatgpt-2025-02-21-d134d2
 date: '2025-02-21'
+description: 'ChatGPT · 2025-02-21 · Mobile and Desktop: 1⁠. iOS widget (see below):'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support 🥳]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 710
   relation: same-theme-chronology
@@ -13,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 34eda066b1c3784c5313a23c14aeb385670494a6ced795fd3ef77313417c154d
+machine_hash: f6086cc0ff4fc9a1d66df1d4a6b3ea2ed6195310a82adde7f4a6e1a6220a6d82
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,9 +37,11 @@ record:
   title: iOS widget (see below)
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-02-14-ios-performance-fixes|chatgpt-2025-02-14-9f7f55]]'
-- '[[Changes/ChatGPT/2025-02-14-confirmation-dialog-for-logging-out-ios-web|chatgpt-2025-02-14-b3e6ab]]'
-- '[[Changes/ChatGPT/2025-02-14-updated-launch-animations-and-composer-design-on-android|chatgpt-2025-02-14-fb60f1]]'
+- '[[Changes/ChatGPT/2025-02-14-ios-performance-fixes|iOS performance fixes]]'
+- '[[Changes/ChatGPT/2025-02-14-confirmation-dialog-for-logging-out-ios-web|Confirmation
+  dialog for logging out (iOS, web)]]'
+- '[[Changes/ChatGPT/2025-02-14-updated-launch-animations-and-composer-design-on-android|Updated
+  launch animations and composer design on Android]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-02-21-1-6b86b273|chatgpt-2025-02-21-1-6b86b273]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -45,10 +49,10 @@ title: iOS widget (see below)
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # iOS widget (see below)
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — 1⁠.: 1⁠. iOS widget (see below):
+**ChatGPT** · 2025-02-21 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-02-21-1-6b86b273|1⁠.]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -57,19 +61,25 @@ ChatGPT — 1⁠.: 1⁠. iOS widget (see below):
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2025-02-21-2-text-selection-improvements-you-can-now-select-text-across-horizontal-rulers-3|Text selection improvements: you can now select text across horizontal rulers]] · Reliability and Performance
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: mobile-desktop
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]
-- Lag Days: 710
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Mobile and Desktop
+
+- Earlier: 2025-02-14 · ChatGPT · [[Changes/ChatGPT/2025-02-14-updated-launch-animations-and-composer-design-on-android|Updated launch animations and composer design on Android]]
+- Later: 2025-02-28 · ChatGPT · [[Changes/ChatGPT/2025-02-28-2-bug-fixes-and-small-improvements-in-the-1-2025-056-ios-release-3-a-setting-to|Bug fixes and small improvements in the 1.2025.056 iOS release]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-02-21-d134d2&body=Card%3A%20Changes%2FChatGPT%2F2025-02-21-1-ios-widget-see-below.md%0ACard%20ID%3A%20chatgpt-2025-02-21-d134d2%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

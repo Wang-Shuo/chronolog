@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2026-06-01'
-machine_hash: af697f1596df48336d1885f4835d2ba3f3af6e2a89e8279417cc4dc0f0522e34
+description: 'ChatGPT release Find live jobs and format your resume in ChatGPT on
+  2026-06-01: 1 tracked change across Search and Browsing'
+machine_hash: 63972607b7be8ce5cadc035b3df2d3152c8bb57e75e553af6ec539a22c0632da
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 3
   date: '2026-06-01'
   product: chatgpt
   product_name: ChatGPT
@@ -24,22 +27,24 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Find live jobs and format your resume in ChatGPT
+title: ChatGPT · Find live jobs and format your resume in ChatGPT
 version: Find live jobs and format your resume in ChatGPT
 ---
 
-# ChatGPT Find live jobs and format your resume in ChatGPT
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Find live jobs and format your resume in ChatGPT
+
+**ChatGPT** · 2026-06-01 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 ChatGPT can now help with more of the job search process, from finding relevant live roles to tailoring a resume for a specific opportunity. When you search for jobs, ChatGPT can surface live listings and freelance opportunities from sources like Indeed, Upwork, Appcast, and across the web. Results are personalized…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 1
+Tracked 1 of 3 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- search-browsing: [[Changes/ChatGPT/2026-06-01-chatgpt-can-now-help-with-more-of-the-job-search-process-from-finding-relevant-l|ChatGPT can now help with more of the job search process, from finding relevant live…]]
+- [[Changes/ChatGPT/2026-06-01-chatgpt-can-now-help-with-more-of-the-job-search-process-from-finding-relevant-l|ChatGPT can now help with more of the job search process, from finding relevant live…]] · Search and Browsing
 <!-- chronolog:end -->

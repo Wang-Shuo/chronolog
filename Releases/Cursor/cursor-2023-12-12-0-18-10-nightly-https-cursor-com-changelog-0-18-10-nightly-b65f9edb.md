@@ -1,10 +1,12 @@
 ---
 changes_count: 0
 date: '2023-12-12'
-machine_hash: 859accbce7a3825bdd284e1bdaa300d2137f9ba6b84188c2136df98575692090
+description: 'Cursor release Minor Bug Fixes on 2023-12-12: no tracked changes'
+machine_hash: f59a4c30a892e874c123767cd0c41ede9a5239eecc75cad4f5e097b47878bd98
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2023-12-12'
   product: cursor
   product_name: Cursor
@@ -21,19 +23,21 @@ source_url: https://cursor.com/changelog/0-18-10-nightly
 tags:
 - release
 - cursor
-title: Cursor — Minor Bug Fixes
+title: Cursor · Minor Bug Fixes
 version: 0.18.10-nightly
 ---
 
-# Cursor Minor Bug Fixes
+<!-- chronolog:begin region="header" -->
+# Cursor · Minor Bug Fixes
+
+**Cursor** · 2023-12-12 · [Official release notes](https://cursor.com/changelog/0-18-10-nightly)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Mino bug fixes.
 
-[Official release notes](https://cursor.com/changelog/0-18-10-nightly)
-
-Tracked cards: 0
+Tracked 0 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

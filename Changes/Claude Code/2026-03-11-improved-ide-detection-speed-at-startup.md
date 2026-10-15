@@ -1,8 +1,11 @@
 ---
 card_id: claude-code-2026-03-11-0796c1
 date: '2026-03-11'
+description: 'Claude Code · 2026-03-11 · Reliability and Performance: Improved IDE
+  detection speed at startup'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|chatgpt-2022-12-15-9c6f9c]]'
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
+    performance: Among other improvements, users will notice that ChatGPT is now…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1182
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5f2606f8c9d233ceeab6de6c9cfa039b0f4f1c2de1e00615321eef12d43011d8
+machine_hash: e3b03866a64f739f3aa236c109ff171a7101d0a2f54b78b7087882ad7e1104c6
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,9 +48,12 @@ record:
   title: Improved IDE detection speed at startup
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-27-faster-sharing-sharing-chats-is-now-easier-and-faster-with-a-quicker-loading-sha|chatgpt-2026-02-27-4554e1]]'
-- '[[Changes/Claude Code/2026-03-06-reduced-prompt-input-re-renders-during-turns-by-74|claude-code-2026-03-06-230546]]'
-- '[[Changes/Claude Code/2026-03-06-improved-compaction-to-preserve-images-in-the-summarizer-request-allowing-prompt|claude-code-2026-03-06-520da5]]'
+- '[[Changes/ChatGPT/2026-02-27-faster-sharing-sharing-chats-is-now-easier-and-faster-with-a-quicker-loading-sha|Faster
+  sharing. Sharing chats is now easier and faster, with a quicker-loading share menu]]'
+- '[[Changes/Claude Code/2026-03-06-reduced-prompt-input-re-renders-during-turns-by-74|Reduced
+  prompt input re-renders during turns by ~74%]]'
+- '[[Changes/Claude Code/2026-03-06-improved-compaction-to-preserve-images-in-the-summarizer-request-allowing-prompt|Improved
+  compaction to preserve images in the summarizer request, allowing prompt…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-11-v2-1-73-github-295814700-0abb054f|claude-code-2026-03-11-v2-1-73-github-295814700-0abb054f]]'
 source_type: github_releases
 theme: reliability-performance
@@ -55,10 +61,10 @@ title: Improved IDE detection speed at startup
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Improved IDE detection speed at startup
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.73: Improved IDE detection speed at startup
+**Claude Code** · 2026-03-11 · [[Themes/reliability-performance|Reliability and Performance]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.73) · from [[Releases/Claude Code/claude-code-2026-03-11-v2-1-73-github-295814700-0abb054f|v2.1.73]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -67,19 +73,28 @@ Claude Code — v2.1.73: Improved IDE detection speed at startup
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.73
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-03-11-improved-up-arrow-after-interrupting-claude-now-restores-the-interrupted-prompt|Improved Up arrow after interrupting Claude]] · Interface Experience
+- [[Changes/Claude Code/2026-03-11-added-modeloverrides-setting-to-map-model-picker-entries-to-custom-provider-mode|Added modelOverrides setting to map model picker entries to custom provider model…]] · Interface Experience
+- [[Changes/Claude Code/2026-03-11-added-actionable-guidance-when-oauth-login-or-connectivity-checks-fail-due-to-ss|Added actionable guidance when OAuth login or connectivity checks fail due to SSL…]] · Account and Access
+- [[Changes/Claude Code/2026-03-11-fixed-freezes-and-100-cpu-loops-triggered-by-permission-prompts-for-complex-bash|Fixed freezes and 100% CPU loops triggered by permission prompts for complex bash commands]] · Safety and Privacy
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: reliability-performance
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|chatgpt-2022-12-15-9c6f9c]]
-- Lag Days: 1182
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Reliability and Performance
+
+- Earlier: 2026-03-06 · Claude Code · [[Changes/Claude Code/2026-03-06-improved-compaction-to-preserve-images-in-the-summarizer-request-allowing-prompt|Improved compaction to preserve images in the summarizer request, allowing prompt…]]
+- Later: 2026-03-18 · Claude Code · [[Changes/Claude Code/2026-03-18-improved-startup-memory-usage-by-18mb-across-all-scenarios|Improved startup memory usage by ~18MB across all scenarios]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-03-11-0796c1&body=Card%3A%20Changes%2FClaude%20Code%2F2026-03-11-improved-ide-detection-speed-at-startup.md%0ACard%20ID%3A%20claude-code-2026-03-11-0796c1%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.73%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

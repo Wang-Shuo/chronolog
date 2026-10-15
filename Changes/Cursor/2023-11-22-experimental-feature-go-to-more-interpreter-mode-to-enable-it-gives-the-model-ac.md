@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2023-11-22-2f083d
 date: '2023-11-22'
+description: 'Cursor · 2023-11-22 · Editor Experience: Experimental feature: go to
+  "More" > "Interpreter Mode" to enable it. Gives the model access to a Python notebook…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|cursor-2023-03-14-24e9bf]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant
+    fix all lint errors with AI 😎]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 253
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: ea4e568cb9862c9430a6d5390b52bc12fb9cf38ac6d01796fc22ab91423842b7
+machine_hash: b38fe87d3fe3a0835c590beebd1ccae332153ec7e78b7d271deda08533bfd20c
 product: cursor
 product_name: Cursor
 record:
@@ -53,9 +56,11 @@ record:
   title: 'Experimental feature: go to "More" > "Interpreter Mode" to enable it'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-11-15-copilot-improvements|cursor-2023-11-15-c7e100]]'
-- '[[Changes/Cursor/2023-11-15-do-not-interfere-with-intellisense-and-cmd-k|cursor-2023-11-15-d0b679]]'
-- '[[Changes/Cursor/2023-11-15-copilot-sees-your-lint-errors-and-will-use-this-to-improve-its-suggestions|cursor-2023-11-15-ef0a36]]'
+- '[[Changes/Cursor/2023-11-15-copilot-improvements|Copilot++ improvements]]'
+- '[[Changes/Cursor/2023-11-15-do-not-interfere-with-intellisense-and-cmd-k|Do not
+  interfere with intellisense and cmd-k]]'
+- '[[Changes/Cursor/2023-11-15-copilot-sees-your-lint-errors-and-will-use-this-to-improve-its-suggestions|Copilot++
+  sees your lint errors and will use this to improve its suggestions]]'
 source_release: '[[Releases/Cursor/cursor-2023-11-22-0-16-3-nightly-https-cursor-com-changelog-0-16-3-nightly-03172b46|cursor-2023-11-22-0-16-3-nightly-https-cursor-com-changelog-0-16-3-nightly-03172b46]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -63,10 +68,10 @@ title: 'Experimental feature: go to "More"  "Interpreter Mode" to enable it'
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Experimental feature: go to "More" > "Interpreter Mode" to enable it
 
-<!-- chronolog:begin region="description" -->
-Cursor — Interpreter Mode Beta: Experimental feature: go to "More" > "Interpreter Mode" to enable it. Gives the model access to a Python notebook where it can take actions in the editor. Please give us feedback in the Discord! We'd love to know if you find it useful.
+**Cursor** · 2023-11-22 · [[Themes/editor-experience|Editor Experience]] · [Official source](https://cursor.com/changelog/0-16-3-nightly) · from [[Releases/Cursor/cursor-2023-11-22-0-16-3-nightly-https-cursor-com-changelog-0-16-3-nightly-03172b46|Interpreter Mode Beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -75,19 +80,23 @@ Cursor — Interpreter Mode Beta: Experimental feature: go to "More" > "Interpre
 > Source: https://cursor.com/changelog/0-16-3-nightly
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: editor-experience
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|cursor-2023-03-14-24e9bf]]
-- Lag Days: 253
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Editor Experience
+
+- Earlier: 2023-11-15 · Cursor · [[Changes/Cursor/2023-11-15-copilot-sees-your-lint-errors-and-will-use-this-to-improve-its-suggestions|Copilot++ sees your lint errors and will use this to improve its suggestions]]
+- Later: 2023-11-27 · Cursor · [[Changes/Cursor/2023-11-27-interpreter-mode-beta-you-can-now-enable-interpreter-mode-in-the-more-tab-this-g|Interpreter Mode Beta: You can now enable Interpreter Mode in the "More" tab]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all lint errors with AI 😎]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2023-11-22-2f083d&body=Card%3A%20Changes%2FCursor%2F2023-11-22-experimental-feature-go-to-more-interpreter-mode-to-enable-it-gives-the-model-ac.md%0ACard%20ID%3A%20cursor-2023-11-22-2f083d%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F0-16-3-nightly%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

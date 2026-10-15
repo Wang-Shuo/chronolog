@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2026-05-12-635177
 date: '2026-05-12'
+description: 'ChatGPT · 2026-05-12 · Mobile and Desktop: Free users in ChatGPT will
+  now see more inline images from the web to help make visual topics easier to understand…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support 🥳]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1155
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 244c8c444beccae826c6b5f6f3732a7f6b02e572667277e4fb5e9763afe31f41
+machine_hash: 1e6a1b04f5e4d3f899151d4d9a7f17044cff698008dde1667946728bf990e772
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,9 +49,12 @@ record:
     make…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-15-added-push-notification-tool-claude-can-send-mobile-push-notifications-when-remo|claude-code-2026-04-15-681083]]'
-- '[[Changes/Cursor/2026-04-29-the-agents-that-run-in-the-cursor-desktop-app-cli-and-web-app-are-now-accessible|cursor-2026-04-29-b8902d]]'
-- '[[Changes/Claude Code/2026-05-09-vscode-fixed-extension-failing-to-activate-on-windows|claude-code-2026-05-09-519945]]'
+- '[[Changes/Claude Code/2026-04-15-added-push-notification-tool-claude-can-send-mobile-push-notifications-when-remo|Added
+  push notification tool]]'
+- '[[Changes/Cursor/2026-04-29-the-agents-that-run-in-the-cursor-desktop-app-cli-and-web-app-are-now-accessible|The
+  agents that run in the Cursor desktop app, CLI, and web app are now accessible…]]'
+- '[[Changes/Claude Code/2026-05-09-vscode-fixed-extension-failing-to-activate-on-windows|VSCode
+  Fixed extension failing to activate on Windows]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-05-12-more-images-in-answers-for-free-users-34680cb9|chatgpt-2026-05-12-more-images-in-answers-for-free-users-34680cb9]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -57,10 +63,10 @@ title: Free users in ChatGPT will now see more inline images from the web to hel
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Free users in ChatGPT will now see more inline images from the web to help make…
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — More images in answers for Free users: Free users in ChatGPT will now see more inline images from the web to help make visual topics easier to understand, including well-known people, places, and products. When visuals can add clarity, images may appear alongside relevant parts of an answer. You can click any image to view it at its original size and see source attribution.This is rolling out globally on web and iOS to Free users for responses using 5.5-Instant.
+**ChatGPT** · 2026-05-12 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-05-12-more-images-in-answers-for-free-users-34680cb9|More images in answers for Free users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -69,19 +75,23 @@ ChatGPT — More images in answers for Free users: Free users in ChatGPT will no
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: mobile-desktop
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]
-- Lag Days: 1155
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Mobile and Desktop
+
+- Earlier: 2026-05-09 · Claude Code · [[Changes/Claude Code/2026-05-09-vscode-fixed-extension-failing-to-activate-on-windows|VSCode Fixed extension failing to activate on Windows]]
+- Later: 2026-05-14 · ChatGPT · [[Changes/ChatGPT/2026-05-14-codex-is-now-available-in-preview-in-the-chatgpt-mobile-app-so-you-can-stay-conn|Codex is now available in preview in the ChatGPT mobile app, so you can stay…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-05-12-635177&body=Card%3A%20Changes%2FChatGPT%2F2026-05-12-free-users-in-chatgpt-will-now-see-more-inline-images-from-the-web-to-help-make.md%0ACard%20ID%3A%20chatgpt-2026-05-12-635177%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

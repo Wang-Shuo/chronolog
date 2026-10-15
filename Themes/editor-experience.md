@@ -1,7 +1,9 @@
 ---
 created: '2023-03-14'
 date: '2026-10-06'
-machine_hash: ccbede50be9089018f0786a0c30545dc2871a5e22f651fb2829591689cc514aa
+description: Cross-product timeline of Editor Experience changes in ChatGPT, Claude
+  Code and Cursor.
+machine_hash: ab6a704768764570b57a3dc56f8f03b114505c84ce841f9541e308b2468c8df1
 modified: '2026-10-06'
 products_involved:
 - ChatGPT
@@ -16,7 +18,9 @@ theme: editor-experience
 title: Editor Experience
 ---
 
-# Theme: editor-experience
+<!-- chronolog:begin region="header" -->
+# Editor Experience
+<!-- chronolog:end -->
 
 ## Research summary
 <!-- chronolog:begin region="narrative" -->
