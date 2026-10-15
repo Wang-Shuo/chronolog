@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2025-06-04'
-machine_hash: 7efc4107118fbcc75a6bb6f45b860b01b7edbbd3aa7ca71d0609988e78c88470
+machine_hash: b96779feb5f70829016d78a9e7c33b988fc6adbfbd7f59be2b8ef424c5913a35
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -14,14 +14,14 @@ record:
     EEA, and the UK) to generate long-form, cited responses that include your company’s
     internal tools.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#connectors-in-beta-for-deep-research-plus-pro-team-enterprise-edu
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Connectors in beta for deep research (Plus, Pro, Team, Enterprise, Edu)
   version: Connectors in beta for deep research (Plus, Pro, Team, Enterprise, Edu)
 release_id: chatgpt-2025-06-04-connectors-in-beta-for-deep-research-plus-pro-team-enterprise-ed-6bb21f0f
 source_release: Connectors in beta for deep research (Plus, Pro, Team, Enterprise,
   Edu)
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#connectors-in-beta-for-deep-research-plus-pro-team-enterprise-edu
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -36,7 +36,7 @@ version: Connectors in beta for deep research (Plus, Pro, Team, Enterprise, Edu)
 <!-- chronolog:begin region="summary" -->
 ChatGPT Team, Enterprise, and Edu customers globally can use connectors in deep research, as well as Pro and Plus users (excluding users in Switzerland, EEA, and the UK) to generate long-form, cited responses that include your company’s internal tools.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#connectors-in-beta-for-deep-research-plus-pro-team-enterprise-edu)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 3
 <!-- chronolog:end -->

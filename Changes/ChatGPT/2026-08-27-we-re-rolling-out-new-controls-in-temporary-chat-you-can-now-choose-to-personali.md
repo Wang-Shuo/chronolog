@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: c4b44de1f6497ea5d63d23ca17f04a204388fe50e8f7c292c3f42d0780c02874
+machine_hash: 4e1c51c55cd57c8c74e68fe1be0288e231ad2e8cbe0cc3f6e7f3a48879e61e2a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
   - quote: We’re rolling out new controls in temporary chat. You can now choose to
       personalize responses in a temporary chat with memory, plugins, and custom instructions
       from your regular chat settings. You can also choose to save a temporary chat.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-controls-in-temporary-chat
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -71,7 +71,7 @@ ChatGPT — More controls in temporary chat: We’re rolling out new controls in
 <!-- chronolog:begin region="evidence" -->
 > We’re rolling out new controls in temporary chat. You can now choose to personalize responses in a temporary chat with memory, plugins, and custom instructions from your regular chat settings. You can also choose to save a temporary chat.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-controls-in-temporary-chat
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

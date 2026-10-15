@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 2c9554d8401ac939e7649e684fedd1dbaa7461d686284c7a0d268688c1a256ba
+machine_hash: 406e786bd7a5678300bfd99c62d6b2c6a12cf12a73a35ba8ecc12f95632522df
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: On web and mobile, Work is rolling out to paid plans except Free and Go.
       Pro, Pro Lite, Enterprise, and Edu users receive access first; Plus and Business
       users will follow over the coming days. Work is available in all supported regions.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-work
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -71,7 +71,7 @@ ChatGPT — Introducing ChatGPT Work: On web and mobile, Work is rolling out to 
 <!-- chronolog:begin region="evidence" -->
 > On web and mobile, Work is rolling out to paid plans except Free and Go. Pro, Pro Lite, Enterprise, and Edu users receive access first; Plus and Business users will follow over the coming days. Work is available in all supported regions.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-work
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

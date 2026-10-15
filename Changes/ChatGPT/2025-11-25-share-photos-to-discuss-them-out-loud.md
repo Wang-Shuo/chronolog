@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: df213987ec44a533ea78f1be7947e13dda658f3b3522f3c1c44c659e0909b13b
+machine_hash: 906fadb526de8e577b2e85bd217b086fd1df08861a50a5a275fe3e4dc90e6c86
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,7 +24,7 @@ record:
     and visuals when you need them.: Share photos to discuss them out loud'
   evidence:
   - quote: Share photos to discuss them out loud
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#an-improved-voice-interface-the-audio-you-know-with-text-and-visuals-when-you-need-them
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -57,7 +57,7 @@ ChatGPT — An improved Voice interface: the audio you know, with text and visua
 <!-- chronolog:begin region="evidence" -->
 > Share photos to discuss them out loud
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#an-improved-voice-interface-the-audio-you-know-with-text-and-visuals-when-you-need-them
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 48dc949d231394274afa39dcbfbfbdaecf2a48b159e404af531b140faf0745c3
+machine_hash: 97bf5196e918231e53cd33835f846206cfad0f0f582664e8cd8e49d4814dcc27
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
       conversations. You can read more about custom instructions in the blogpost here.Custom
       instructions are available to all Plus users and expanding to all users in the
       coming weeks.To enable beta features:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#custom-instructions-are-rolling-out-in-beta
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -61,7 +61,7 @@ ChatGPT — Custom instructions are rolling out in beta: We’re starting to rol
 <!-- chronolog:begin region="evidence" -->
 > We’re starting to roll out custom instructions, giving you more control over ChatGPT’s responses. Set your preferences once, and they’ll steer future conversations. You can read more about custom instructions in the blogpost here.Custom instructions are available to all Plus users and expanding to all users in the coming weeks.To enable beta features:
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#custom-instructions-are-rolling-out-in-beta
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

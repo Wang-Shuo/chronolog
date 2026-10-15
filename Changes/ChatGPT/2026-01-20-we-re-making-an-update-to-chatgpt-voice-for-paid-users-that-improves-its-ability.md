@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 0586d4684de181ce28884e3f8dfb737a1b7ee3de19ee4e1ee3f1e46b633dd582
+machine_hash: 7b96ad6a70b0a47301fe64314b4cfefcd2ee98098ef3044356f2bfb4f1ca1d5b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: We’re making an update to ChatGPT Voice for paid users that improves its
       ability to follow user instructions, as well as fixes a bug where Voice can
       sometimes repeat back custom instructions.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#voice-updates
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -68,7 +68,7 @@ ChatGPT — Voice Updates: We’re making an update to ChatGPT Voice for paid us
 <!-- chronolog:begin region="evidence" -->
 > We’re making an update to ChatGPT Voice for paid users that improves its ability to follow user instructions, as well as fixes a bug where Voice can sometimes repeat back custom instructions.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#voice-updates
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 7c495f55e2d7c69b3df13f77f95432af0f9f5e04d04cb5d256fbb6b8845071f7
+machine_hash: dbcd46b0151003c72e91683efb17503bf2cade46f11435be712402a2c4d6252b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -23,7 +23,7 @@ record:
   description: 'ChatGPT — Projects in ChatGPT: Advanced data analysis'
   evidence:
   - quote: Advanced data analysis
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#projects-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -54,7 +54,7 @@ ChatGPT — Projects in ChatGPT: Advanced data analysis
 <!-- chronolog:begin region="evidence" -->
 > Advanced data analysis
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#projects-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

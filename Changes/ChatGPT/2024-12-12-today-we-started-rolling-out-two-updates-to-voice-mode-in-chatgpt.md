@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 8a49af352a8c1117d6fc4f7df8f114dded6b96cf3d3bae990573453c85db6022
+machine_hash: 61aee2cd4a16e5ae03bcd6727d05598ff8e814a26d489b0a1e36f5981d182e28
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,7 +24,7 @@ record:
     we started rolling out two updates to voice mode in ChatGPT:'
   evidence:
   - quote: 'Today we started rolling out two updates to voice mode in ChatGPT:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#santa-voice-and-video-and-screen-share-in-voice-chats
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -55,7 +55,7 @@ ChatGPT — Santa Voice and Video and Screen Share in Voice Chats: Today we star
 <!-- chronolog:begin region="evidence" -->
 > Today we started rolling out two updates to voice mode in ChatGPT:
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#santa-voice-and-video-and-screen-share-in-voice-chats
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 2028e3df209f57c0a78e01f533d6c494b38875ae8f1931afdd7430832df8c4d2
+machine_hash: 946cd81f76bce820df2f8ecf875d5ebaccbf6dbaf352bdb7299b9782b8066594
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
       parts of an answer. You can click any image to view it at its original size
       and see source attribution.This is rolling out globally on web and iOS to Free
       users for responses using 5.5-Instant.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-images-in-answers-for-free-users
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -66,7 +66,7 @@ ChatGPT — More images in answers for Free users: Free users in ChatGPT will no
 <!-- chronolog:begin region="evidence" -->
 > Free users in ChatGPT will now see more inline images from the web to help make visual topics easier to understand, including well-known people, places, and products. When visuals can add clarity, images may appear alongside relevant parts of an answer. You can click any image to view it at its original size and see source attribution.This is rolling out globally on web and iOS to Free users for responses using 5.5-Instant.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-images-in-answers-for-free-users
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

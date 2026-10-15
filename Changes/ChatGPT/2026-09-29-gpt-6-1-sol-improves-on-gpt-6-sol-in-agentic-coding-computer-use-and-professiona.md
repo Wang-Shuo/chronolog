@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 7f5ef9ec10b648ffff40e44168c9e755a4c074705b3d00f0d7c6774891acd3ee
+machine_hash: a7bdf74b850d1c8eec68b1f28b13d53725470e7e63116e7a42a37ee975554647
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -36,7 +36,7 @@ record:
       and Edu workspace owners can enable model access in Workspace settings > Permissions
       & roles, on the Workspace tab or through a custom role. Learn how to manage
       model access with role-based access control.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-61-sol-in-chatgpt-work-and-codex
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -85,7 +85,7 @@ ChatGPT — GPT-6.1 Sol in ChatGPT Work and Codex: GPT-6.1 Sol improves on GPT-6
 <!-- chronolog:begin region="evidence" -->
 > GPT-6.1 Sol improves on GPT-6 Sol in agentic coding, computer use, and professional work. We’re rolling it out in ChatGPT Work and Codex, starting with Pro users and expanding to Plus, Business, Enterprise, and Edu. Enterprise and Edu workspace owners can enable model access in Workspace settings > Permissions & roles, on the Workspace tab or through a custom role. Learn how to manage model access with role-based access control.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-61-sol-in-chatgpt-work-and-codex
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 658faa690248df77510037b31a79eb7f10b4dc6a74feca85ffb82852f4a1affd
+machine_hash: bd696e6f0868ab4607d6e1e45ec3bc11f930e1ac9d650c38fa2a7bfc0d57d661
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,7 +24,7 @@ record:
     and use memories when responding.'
   evidence:
   - quote: Turn off memory, so ChatGPT won’t save and use memories when responding.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#parental-controls
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -55,7 +55,7 @@ ChatGPT — Parental Controls: Turn off memory, so ChatGPT won’t save and use 
 <!-- chronolog:begin region="evidence" -->
 > Turn off memory, so ChatGPT won’t save and use memories when responding.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#parental-controls
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: b6638f4516442ab77da8387d0acf4b374d9da6e2e7e23fe299bbbcf49bd56761
+machine_hash: eddd3601e310ab4b4de045d51a98b3bb5b7e168194df9243f1f4fd5956fac6a6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,7 +35,7 @@ record:
       memories and remain out of your chat history unless you save them. Personalization
       can be set only when you start a temporary chat and cannot be changed after
       the conversation begins.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-controls-in-temporary-chat
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -77,7 +77,7 @@ ChatGPT — More controls in temporary chat: Personalized: When you create a tem
 <!-- chronolog:begin region="evidence" -->
 > Personalized: When you create a temporary chat, you can choose to have personalized responses. Personalized temporary chats can use your memories, custom instructions, and plugins to tailor responses. They do not create new memories and remain out of your chat history unless you save them. Personalization can be set only when you start a temporary chat and cannot be changed after the conversation begins.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-controls-in-temporary-chat
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

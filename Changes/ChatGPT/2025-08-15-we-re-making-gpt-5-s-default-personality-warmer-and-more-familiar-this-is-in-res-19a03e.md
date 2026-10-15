@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 8618cf62d6dbac9f36ec5517440028f12d1c6e92f2a8fa0db9ed87c37ced9e4c
+machine_hash: 8a03062172fd385bd5d48131f3510fdcb187b8f9162a4ca880e659b4dd6fee6e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,7 +47,7 @@ record:
       ran and detailed in our system card. Teaching models to be warm without being
       sycophantic is an ongoing research challenge, and we will continue iterating
       to get this right. More updates are coming soon.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-5-updates
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -91,7 +91,7 @@ ChatGPT — GPT-5 Updates: We’re making GPT-5’s default personality warmer a
 <!-- chronolog:begin region="evidence" -->
 > We’re making GPT-5’s default personality warmer and more familiar. This is in response to user feedback that the initial version of GPT-5 came across as too reserved and professional. The differences in personality should feel subtle but create a noticeably more approachable ChatGPT experience.Warmth here means small acknowledgements that make interactions feel more personable — for example, “Good question,” “Great start,” or briefly recognizing the user’s circumstances when relevant. This is different from sycophancy, which we define as excessive flattery that can feel insincere. You can find more about our learnings on reducing sycophancy here.This update does not show an increase in sycophancy compared to the previous personality of GPT-5, measured by the same internal evals we ran and detailed in our system card. Teaching models to be warm without being sycophantic is an ongoing research challenge, and we will continue iterating to get this right. More updates are coming soon.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-5-updates
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

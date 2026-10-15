@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 2aba268748e3553be37cd1ec21be28e4fbf1c053232994c4df99262a7198dfb0
+machine_hash: f79e2c3f5c78bd530a72b01d06367cb0341f55fbcbfd9cfc474f31d3daecf528
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,7 +48,7 @@ record:
       updates are designed to make saved memory feel seamless, reliable, and easy
       to manage. We’re beginning to roll this out to Plus and Pro users globally on
       the web.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-can-now-automatically-manage-saved-memories-so-its-even-better-at-remembering-whats-important-to-you
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -81,7 +81,7 @@ ChatGPT — ChatGPT can now automatically manage saved memories so it’s even b
 <!-- chronolog:begin region="evidence" -->
 > ChatGPT now manages saved memories automatically by keeping the most relevant details prioritized and moving less important ones to the background. This helps prevent saved memories from reaching capacity and helps avoid “memory full” state in your ChatGPT account.To decide which memories stay top of mind, ChatGPT considers factors such as how recent a detail is and how often you talk about a topic. You can now also search your saved memories more easily and sort them by newest or oldest.You’re always in control: you can turn off automatic memory management at any time, and you can see which memories are currently top of mind and choose to prioritize or deprioritize any specific memory yourself in settings. You can also view and restore prior versions of saved memories.These updates are designed to make saved memory feel seamless, reliable, and easy to manage. We’re beginning to roll this out to Plus and Pro users globally on the web.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-can-now-automatically-manage-saved-memories-so-its-even-better-at-remembering-whats-important-to-you
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

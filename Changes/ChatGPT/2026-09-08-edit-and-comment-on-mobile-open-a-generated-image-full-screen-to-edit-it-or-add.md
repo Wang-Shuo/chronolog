@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 612eace09100afcd5a4c0609497b9ea8dc956911b47ba382026e16ea12f4ff9d
+machine_hash: 1e2091501c11ec77986f7495c964dd849fec06cea98f362ddf6f2b9209aa9a50
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: Edit and comment. On mobile, open a generated image full-screen to edit
       it or add comments to tell ChatGPT what you’d like to change..
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-images-25-new-ways-to-create-and-edit
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -69,7 +69,7 @@ ChatGPT — ChatGPT Images 2.5: new ways to create and edit: Edit and comment. O
 <!-- chronolog:begin region="evidence" -->
 > Edit and comment. On mobile, open a generated image full-screen to edit it or add comments to tell ChatGPT what you’d like to change..
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-images-25-new-ways-to-create-and-edit
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

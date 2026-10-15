@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: aa6375f24ae7d56510e943ddb7704b1309583d017cdc80baeac8825b81d8531a
+machine_hash: 999285aaee1438046b55c58eac27190188413959aa1c8298bc944644d22bd8e6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
       The new memory features are available in the EEA (EU + UK), Switzerland, Norway,
       Iceland, or Liechtenstein. These features are OFF by default and must be enabled
       in Settings > Personalization > Reference Chat History.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#enhanced-memory-in-chatgpt-including-eu-on-pluspro
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -65,7 +65,7 @@ ChatGPT — Enhanced Memory in ChatGPT (including EU) on Plus/Pro: Enhanced memo
 <!-- chronolog:begin region="evidence" -->
 > Enhanced memory rolling out to all Plus and Pro users (including the EU). The new memory features are available in the EEA (EU + UK), Switzerland, Norway, Iceland, or Liechtenstein. These features are OFF by default and must be enabled in Settings > Personalization > Reference Chat History.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#enhanced-memory-in-chatgpt-including-eu-on-pluspro
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

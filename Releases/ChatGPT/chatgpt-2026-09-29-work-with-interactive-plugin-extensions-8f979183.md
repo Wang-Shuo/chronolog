@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2026-09-29'
-machine_hash: 52c2a16284ef7dd00339d91d0f340da28cf600375991eb882c4092a137c252b6
+machine_hash: 4648c73fb13b68efa080f9e5e2dcc65a952cf4afa6d4301aedc804a6fcb45b85
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -14,13 +14,13 @@ record:
     select the information you want ChatGPT to use, or complete a form provided by
     the plugin.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#work-with-interactive-plugin-extensions
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Work with interactive plugin extensions
   version: Work with interactive plugin extensions
 release_id: chatgpt-2026-09-29-work-with-interactive-plugin-extensions-8f979183
 source_release: Work with interactive plugin extensions
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#work-with-interactive-plugin-extensions
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Work with interactive plugin extensions
 <!-- chronolog:begin region="summary" -->
 Plugins can now include interactive panels, sidebar views, and viewers or editors for supported file types. Work with an app alongside your conversation, select the information you want ChatGPT to use, or complete a form provided by the plugin.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#work-with-interactive-plugin-extensions)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 2
 <!-- chronolog:end -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 10688c65d351d4cf90f132397a84b096e223bd3b483d56267b8e1fc49f69a2b1
+machine_hash: fed098dbed7f04b89fca24c17e0e825aa0cfa40851a7e325e84e74d72d8d64cc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
       applies to GPT-5.1 Instant, GPT-5.1 Thinking, and GPT-5.1 Pro. Existing conversations
       that used GPT-5.1 will automatically continue on the corresponding current model:
       GPT-5.3 Instant, GPT-5.4 Thinking, or GPT-5.4 Pro.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-gpt-51-models
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -67,7 +67,7 @@ ChatGPT — Retiring GPT-5.1 models: As of March 11, 2026, GPT-5.1 models are no
 <!-- chronolog:begin region="evidence" -->
 > As of March 11, 2026, GPT-5.1 models are no longer available in ChatGPT.This applies to GPT-5.1 Instant, GPT-5.1 Thinking, and GPT-5.1 Pro. Existing conversations that used GPT-5.1 will automatically continue on the corresponding current model: GPT-5.3 Instant, GPT-5.4 Thinking, or GPT-5.4 Pro.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-gpt-51-models
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

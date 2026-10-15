@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: fb939558d7c0b78a1f84423f18b54443e32df2c69634c58478e3ba86554088ba
+machine_hash: 6d3bb9d13901fd7e3821f2fb9186f202ca91b95d5c9ddaacc7d94e2352c1a868
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -37,7 +37,7 @@ record:
       reflects what we’ve seen from users: more than 70% of Health users already choose
       to allow ChatGPT to use data connected in Health without asking for permission
       each time.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updated-permissions-for-new-health-connections
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -70,7 +70,7 @@ ChatGPT — Updated permissions for new Health connections: If you make no chang
 <!-- chronolog:begin region="evidence" -->
 > If you make no changes to your Plugins settings, the default permission setting is “Allow low-risk actions.” This means that once you’ve connected your information in Health, ChatGPT can use it when relevant without asking for permission each time, unless you are attempting a sensitive action, such as asking ChatGPT to email a training plan based on your data to a running partner. This change reflects what we’ve seen from users: more than 70% of Health users already choose to allow ChatGPT to use data connected in Health without asking for permission each time.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updated-permissions-for-new-health-connections
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

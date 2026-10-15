@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 25774425dd0ecc59179393d76222b7080b734900455891ea9285a1e3fecc2b8a
+machine_hash: 825403a806cd438189f364d1d0cbef86f5dbabd29cf2bf0bf33651c692c287bb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Live now supports plugins on web, iOS, and Android. You can use the plugins
       and connected apps available to your account during a Voice conversation and
       follow written responses in the chat.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-plugins-in-voice-and-get-work-done-by-speaking
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -77,7 +77,7 @@ ChatGPT — Use plugins in Voice and get work done by speaking: Live now support
 <!-- chronolog:begin region="evidence" -->
 > Live now supports plugins on web, iOS, and Android. You can use the plugins and connected apps available to your account during a Voice conversation and follow written responses in the chat.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-plugins-in-voice-and-get-work-done-by-speaking
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

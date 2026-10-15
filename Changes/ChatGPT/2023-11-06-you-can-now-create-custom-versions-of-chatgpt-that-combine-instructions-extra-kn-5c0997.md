@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: f0726c522ebd09d98c303fd9992bbaed5a7ee6ce735027d8d663c99c05f82b3f
+machine_hash: 59bd59ba94e97282323cea381c8e397a31d4aa923f2fb7749b6753536811e80c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,7 +43,7 @@ record:
       and Enterprise users can start creating GPTs this week. Later this month, we’ll
       launch the GPT Store, so people can feature and make money from their GPTs.
       We plan to offer GPTs to more users soon.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpts
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -78,7 +78,7 @@ ChatGPT — Introducing GPTs: You can now create custom versions of ChatGPT that
 <!-- chronolog:begin region="evidence" -->
 > You can now create custom versions of ChatGPT that combine instructions, extra knowledge, and any combination of skills. Learn more here.We’re rolling out custom versions of ChatGPT that you can create for a specific purpose—called GPTs. GPTs are a new way for anyone to create a tailored version of ChatGPT to be more helpful in their daily life, at specific tasks, at work, or at home—and then share that creation with others. For example, GPTs can help you learn the rules to any board game, help teach your kids math, or design stickers.Plus and Enterprise users can start creating GPTs this week. Later this month, we’ll launch the GPT Store, so people can feature and make money from their GPTs. We plan to offer GPTs to more users soon.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpts
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

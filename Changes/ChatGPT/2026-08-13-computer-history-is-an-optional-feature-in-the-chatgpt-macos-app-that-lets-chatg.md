@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 645724d8ef71d4f333e40d3eb4aa02d1c282e5b0febf40058b33eaf43378cd67
+machine_hash: 0022e7b94ed7f1f6e3b4018e836d1a2aca7d3f0d023fa507ddff7477727630de
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,7 +40,7 @@ record:
       grant access before members can opt in. Users can pause Computer History, choose
       included apps and sites, and inspect or delete timeline items. Note that Computer
       History is not currently available in the EEA, UK or Switzerland.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#computer-history-for-macos
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -95,7 +95,7 @@ ChatGPT — Computer History for macOS: Computer History is an optional feature 
 <!-- chronolog:begin region="evidence" -->
 > Computer History is an optional feature in the ChatGPT macOS app that lets ChatGPT and Codex reference selected activity from apps and websites, helping users continue work without re-explaining every detail. It records interaction events—not screenshots, screen recordings, microphone input, or system audio—and private browsing is not included.Computer History is off by default and available to Pro, Business, and Enterprise users. Business and Enterprise admins must grant access before members can opt in. Users can pause Computer History, choose included apps and sites, and inspect or delete timeline items. Note that Computer History is not currently available in the EEA, UK or Switzerland.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#computer-history-for-macos
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

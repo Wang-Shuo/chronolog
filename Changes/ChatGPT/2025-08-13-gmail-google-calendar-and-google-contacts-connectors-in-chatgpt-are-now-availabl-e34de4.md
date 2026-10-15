@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 2c65f5220d69916ae04fcdca0af005e8c05a4d5f8c59eed66d1634eabebc739f
+machine_hash: fd6d986b958675885ac07c1d6025fe3289662a2ba47914d8c8f2a0f43a33e697
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       available to Plus users globally. Access will be granted to users throughout
       today.This was previously made available to Pro users on August 12, 2025.Learn
       more about connectors.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-plus
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -62,7 +62,7 @@ ChatGPT — Gmail, Google Calendar, and Google Contacts Connectors in ChatGPT (P
 <!-- chronolog:begin region="evidence" -->
 > Gmail, Google Calendar, and Google Contacts Connectors in ChatGPT are now available to Plus users globally. Access will be granted to users throughout today.This was previously made available to Pro users on August 12, 2025.Learn more about connectors.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-plus
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 1481d34f2c2b52b46cf3914b31e457c44af1ee5d5bffc9a606821de420cdf8d8
+machine_hash: ef29832b42f969f7fcc39b0fd72c1f63e11084ec3bf8bbb7f212b064b3ff16c4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Keep pinned chats in sync. Pinned chats now stay in sync between the ChatGPT
       desktop app and iOS when you use the same Codex account. Android is not included
       in this release. Learn more about organizing projects and chats.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#codex-and-chatgpt-feature-updates
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -61,7 +61,7 @@ ChatGPT — Codex and ChatGPT feature updates: Keep pinned chats in sync. Pinned
 <!-- chronolog:begin region="evidence" -->
 > Keep pinned chats in sync. Pinned chats now stay in sync between the ChatGPT desktop app and iOS when you use the same Codex account. Android is not included in this release. Learn more about organizing projects and chats.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#codex-and-chatgpt-feature-updates
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

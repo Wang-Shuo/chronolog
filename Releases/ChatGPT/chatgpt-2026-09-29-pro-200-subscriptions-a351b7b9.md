@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2026-09-29'
-machine_hash: 6c0efec762de27f802c5fa83a3b699da71bda6a7bbaabec7d9834d0226397672
+machine_hash: 64527eaa844a57f782d8967e1950f64a6c056ad4fced463d069e991108d990b4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -11,13 +11,13 @@ record:
   release_id: chatgpt-2026-09-29-pro-200-subscriptions-a351b7b9
   source_summary: Pro 200 is available for new subscriptions again at $200/month.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#pro-200-subscriptions
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Pro 200 subscriptions
   version: Pro 200 subscriptions
 release_id: chatgpt-2026-09-29-pro-200-subscriptions-a351b7b9
 source_release: Pro 200 subscriptions
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#pro-200-subscriptions
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -31,7 +31,7 @@ version: Pro 200 subscriptions
 <!-- chronolog:begin region="summary" -->
 Pro 200 is available for new subscriptions again at $200/month.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#pro-200-subscriptions)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 2
 <!-- chronolog:end -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 87609101b2994100e83665b51685981b96054aa684c120bb35a479bd30857246
+machine_hash: 0b069de85a8d237279083e7370058de28a0dc241fa80aa28a5e8a1fb3bf141e8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Audio is deleted once your notes are ready and can’t be accessed or replayed.
       Available in beta in the ChatGPT desktop app on macOS to Pro and Business users,
       with Enterprise coming soon. Learn more.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#meetings-plugin
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -74,7 +74,7 @@ ChatGPT — Meetings plugin: Audio is deleted once your notes are ready and can�
 <!-- chronolog:begin region="evidence" -->
 > Audio is deleted once your notes are ready and can’t be accessed or replayed. Available in beta in the ChatGPT desktop app on macOS to Pro and Business users, with Enterprise coming soon. Learn more.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#meetings-plugin
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

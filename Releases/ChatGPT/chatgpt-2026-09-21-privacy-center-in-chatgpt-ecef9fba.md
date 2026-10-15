@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2026-09-21'
-machine_hash: 7b9f95c381eda9f47f8fa7b064b71a6d75988e82e06f6d84dc5065d6f593f023
+machine_hash: 0b3d8c0ad918db125297a76fc7932b4ce2c19d05f4fc0a1deb975de94bb91980
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -14,13 +14,13 @@ record:
     data use, connected apps, and account security, with links to the settings that
     manage them. Your privacy controls remain in ChatGPT Settings.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#privacy-center-in-chatgpt
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Privacy Center in ChatGPT
   version: Privacy Center in ChatGPT
 release_id: chatgpt-2026-09-21-privacy-center-in-chatgpt-ecef9fba
 source_release: Privacy Center in ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#privacy-center-in-chatgpt
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Privacy Center in ChatGPT
 <!-- chronolog:begin region="summary" -->
 Privacy Center is rolling out to signed-in ChatGPT Free, Go, Plus, and Pro users. It brings together information about chat privacy, memory, personalization, data use, connected apps, and account security, with links to the settings that manage them. Your privacy controls remain in ChatGPT Settings.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#privacy-center-in-chatgpt)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 2
 <!-- chronolog:end -->

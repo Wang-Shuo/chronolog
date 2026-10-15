@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: d5dab49ef70d58f03e9e1233a1bd71dbae2904ab108fa8dac7befb112c039234
+machine_hash: f6401e3d5a4f08266ccd5e7141eb0ab0a48fe9c5570f2f16c1f2be1273819b6d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,7 +39,7 @@ record:
       right. To that end, we’re keeping Standard Voice available while we address
       some feedback from its users about Advanced Voice.Stay tuned—more improvements
       to Voice are coming soon.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-voice-update
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -72,7 +72,7 @@ ChatGPT — ChatGPT Voice Update: Last month we announced that everyone now has 
 <!-- chronolog:begin region="evidence" -->
 > Last month we announced that everyone now has access to Advanced Voice Mode, with usage expanded from minutes per day to hours for Free users, and near-unlimited use for Plus.We also shared that Standard Voice Mode would be retired following a 30-day sunset period. We’ve heard feedback that Standard Voice is special to some folks, and we want to make sure the transition feels right. To that end, we’re keeping Standard Voice available while we address some feedback from its users about Advanced Voice.Stay tuned—more improvements to Voice are coming soon.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-voice-update
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

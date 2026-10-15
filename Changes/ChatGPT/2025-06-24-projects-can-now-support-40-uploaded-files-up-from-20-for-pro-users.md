@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 54af9eb03b018ad63e3c2a6c57abfbebf36dfd5e11e95e11f9ea108eb434f53c
+machine_hash: 5d40a50785b562058bdf863f92dd7e8cfeb3ad781527286d6149560361a7b88a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
     40 uploaded files, up from 20, for Pro users.'
   evidence:
   - quote: Projects can now support 40 uploaded files, up from 20, for Pro users.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#project-file-limit-increased-pro
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -59,7 +59,7 @@ ChatGPT — Project file limit increased (Pro): Projects can now support 40 uplo
 <!-- chronolog:begin region="evidence" -->
 > Projects can now support 40 uploaded files, up from 20, for Pro users.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#project-file-limit-increased-pro
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

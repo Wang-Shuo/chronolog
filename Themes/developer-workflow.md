@@ -1,8 +1,8 @@
 ---
 created: '2023-03-18'
-date: '2026-10-08'
-machine_hash: 3a72b676e96160cb6302855b9a3c21a3afa12c6906c3310ee047096bf8ebf24e
-modified: '2026-10-08'
+date: '2026-10-14'
+machine_hash: ad35e1d0cf509b96dc06dbb6556bb18d2295d36435534abcf9ad403dd4285460
+modified: '2026-10-14'
 products_involved:
 - ChatGPT
 - Claude Code
@@ -29,6 +29,8 @@ Scope: tracked-products-only. Entries show same-theme chronology; they do not es
 
 ### 2026
 
+- 2026-10-14 · Claude Code: [[Changes/Claude Code/2026-10-14-added-idle-compaction-in-the-terminal-a-200k-token-conversation-left-idle-for-ab|Added idle compaction in the terminal: a 200K+ token conversation left idle for]]
+- 2026-10-14 · Claude Code: [[Changes/Claude Code/2026-10-14-added-a-dir-prop-on-a-mod-s-text-for-right-to-left-text-on-windows-and-in-vs-cod|Added a dir prop on a mod's Text for right-to-left text: on Windows and in V]]
 - 2026-10-08 · Claude Code: [[Changes/Claude Code/2026-10-08-added-a-line-on-stderr-when-it-is-a-terminal-that-says-what-a-claude-p-run-is-wa|Added a line on stderr, when it is a terminal, that says what a claude -p run]]
 - 2026-10-02 · Claude Code: [[Changes/Claude Code/2026-10-02-added-max-findings-n-all-to-code-review-to-report-more-or-fewer-findings-than-th|Added --max-findings n / all to /code-review to report more or fewer findings]]
 - 2026-10-02 · Claude Code: [[Changes/Claude Code/2026-10-02-added-a-built-in-gh-api-to-cloud-sessions-whose-image-has-no-github-cli-and-fixe|Added a built-in gh api to cloud sessions whose image has no GitHub CLI, and f]]
@@ -186,5 +188,5 @@ Scope: tracked-products-only. Entries show same-theme chronology; they do not es
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-Active changes: 144. Use the dated links above to inspect each card.
+Active changes: 146. Use the dated links above to inspect each card.
 <!-- chronolog:end -->

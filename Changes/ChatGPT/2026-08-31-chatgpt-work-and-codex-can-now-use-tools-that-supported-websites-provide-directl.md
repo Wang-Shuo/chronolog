@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 4e6957aad12f28c1ef7cabebfbf38fe8fdfd6c0f22d6a7c3204696d5b73d6772
+machine_hash: 4cdb3993c8a9a1e58676d376e3d629a425ce325a3fa6dd85c7f474b0634e6e13
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: ChatGPT Work and Codex can now use tools that supported websites provide
       directly in the desktop app’s built-in browser.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-website-tools-in-the-desktop-browser
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -58,7 +58,7 @@ ChatGPT — Use website tools in the desktop browser: ChatGPT Work and Codex can
 <!-- chronolog:begin region="evidence" -->
 > ChatGPT Work and Codex can now use tools that supported websites provide directly in the desktop app’s built-in browser.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-website-tools-in-the-desktop-browser
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

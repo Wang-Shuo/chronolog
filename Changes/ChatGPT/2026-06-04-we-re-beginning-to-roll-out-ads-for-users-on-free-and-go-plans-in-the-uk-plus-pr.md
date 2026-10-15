@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 52448e88b2fdd624be63f915ca6dad09cc7ddf5e0c2198d212f28ba2e4fd1ad8
+machine_hash: 0a48b5743ce9ad90a19311432c5fc70fae892ffdc653b52e166b2e46dc5a93ee
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: We're beginning to roll out ads for users on Free and Go plans in the UK.
       Plus, Pro, Business, Enterprise, and Education plans will remain ad-free.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#rolling-out-ads-in-the-uk
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -58,7 +58,7 @@ ChatGPT — Rolling out ads in the UK: We're beginning to roll out ads for users
 <!-- chronolog:begin region="evidence" -->
 > We're beginning to roll out ads for users on Free and Go plans in the UK. Plus, Pro, Business, Enterprise, and Education plans will remain ad-free.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#rolling-out-ads-in-the-uk
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: e064a6f703dfabe25566bf73e455f3e41c93156084213325d96fe895a52281de
+machine_hash: 54c71325ecfc8471004a33139587f839f17234e6fd64a35db8448fb8559bc0ab
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: 'Search History Improvements: Tapping on a search result takes you directly
       to the respective point in the conversation.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-and-search-on-mobile
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -60,7 +60,7 @@ ChatGPT — Browsing and search on mobile: Search History Improvements: Tapping 
 <!-- chronolog:begin region="evidence" -->
 > Search History Improvements: Tapping on a search result takes you directly to the respective point in the conversation.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-and-search-on-mobile
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

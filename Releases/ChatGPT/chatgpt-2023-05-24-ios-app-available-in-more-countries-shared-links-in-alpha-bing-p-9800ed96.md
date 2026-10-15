@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2023-05-24'
-machine_hash: c1ae545d47cca09ee0211b90765df1447fc24996538214a234822c20027e7727
+machine_hash: 00cfeaf6a841ec3639d63c75add0b2d99010a6d43de19893dfd52a75f0722323
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -11,7 +11,7 @@ record:
   release_id: chatgpt-2023-05-24-ios-app-available-in-more-countries-shared-links-in-alpha-bing-p-9800ed96
   source_summary: ChatGPT app for iOS in more countries
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ios-app-available-in-more-countries-shared-links-in-alpha-bing-plugin-disable-history-on-ios
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: iOS app available in more countries, shared links in alpha, Bing Plugin,
     disable history on iOS
   version: iOS app available in more countries, shared links in alpha, Bing Plugin,
@@ -20,7 +20,7 @@ release_id: chatgpt-2023-05-24-ios-app-available-in-more-countries-shared-links-
 source_release: iOS app available in more countries, shared links in alpha, Bing Plugin,
   disable history on iOS
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ios-app-available-in-more-countries-shared-links-in-alpha-bing-plugin-disable-history-on-ios
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -36,7 +36,7 @@ version: iOS app available in more countries, shared links in alpha, Bing Plugin
 <!-- chronolog:begin region="summary" -->
 ChatGPT app for iOS in more countries
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ios-app-available-in-more-countries-shared-links-in-alpha-bing-plugin-disable-history-on-ios)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 3
 <!-- chronolog:end -->

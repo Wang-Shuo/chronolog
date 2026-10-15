@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-11-19'
-machine_hash: e9f95344d6cc2beb7fd6ada69282749e0f500a28c5bb571a8ebf05a4e2a6421b
+machine_hash: a2e27202d5adcf26ab6b0f48ef30de236f495c598886ef6e5789e27a0068d5f6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -15,13 +15,13 @@ record:
     the model’s improved clarity, relevance, and structure in its responses.GPT-5.1
     Pro is rolling…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-51-pro-clearer-more-capable-answers-for-complex-work
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: 'GPT-5.1 Pro: Clearer, more capable answers for complex work'
   version: 'GPT-5.1 Pro: Clearer, more capable answers for complex work'
 release_id: chatgpt-2025-11-19-gpt-5-1-pro-clearer-more-capable-answers-for-complex-work-78316657
 source_release: 'GPT-5.1 Pro: Clearer, more capable answers for complex work'
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-51-pro-clearer-more-capable-answers-for-complex-work
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: 'GPT-5.1 Pro: Clearer, more capable answers for complex work'
 <!-- chronolog:begin region="summary" -->
 Today we’re updating GPT-5 Pro to GPT-5.1 Pro. In early testing, users consistently preferred GPT-5.1 Pro over GPT-5 Pro, rating it especially highly for writing help, data science, and business questions. Testers highlighted the model’s improved clarity, relevance, and structure in its responses.GPT-5.1 Pro is rolling…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-51-pro-clearer-more-capable-answers-for-complex-work)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 1
 <!-- chronolog:end -->

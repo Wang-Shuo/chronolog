@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 220226902cda1f2cb159f3d32be0ed0312803923f23ab8bc3d71d0a60cc47b53
+machine_hash: 69b12ca1fa3ce10bfd59f3d92fbef0f84bb01b12d9f74bdb1d62c8abdd4b6d82
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       in deep research, as well as Pro and Plus users (excluding users in Switzerland,
       EEA, and the UK) to generate long-form, cited responses that include your company’s
       internal tools.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#connectors-in-beta-for-deep-research-plus-pro-team-enterprise-edu
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -81,7 +81,7 @@ ChatGPT — Connectors in beta for deep research (Plus, Pro, Team, Enterprise, E
 <!-- chronolog:begin region="evidence" -->
 > ChatGPT Team, Enterprise, and Edu customers globally can use connectors in deep research, as well as Pro and Plus users (excluding users in Switzerland, EEA, and the UK) to generate long-form, cited responses that include your company’s internal tools.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#connectors-in-beta-for-deep-research-plus-pro-team-enterprise-edu
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

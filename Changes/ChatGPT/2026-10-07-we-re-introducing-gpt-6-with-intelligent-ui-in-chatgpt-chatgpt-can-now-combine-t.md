@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: f6cc9e38363df76e79dd426bb7d3fe500622a89a7059dfa627ef40d86a61290b
+machine_hash: 55ef691a0079486a527b8672d828e8f5acdce47c734e2e98a93b707c2a7c16af
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,7 +51,7 @@ record:
       Extra High reasoning. The Pro reasoning option continues to use GPT-6 Astra
       and doesn’t support Intelligent UI. The models powering Work and Codex aren’t
       changing with this release.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-6-and-intelligent-ui-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -96,7 +96,7 @@ ChatGPT — GPT-6 and Intelligent UI in ChatGPT: We’re introducing GPT-6 with 
 <!-- chronolog:begin region="evidence" -->
 > We’re introducing GPT-6 with Intelligent UI in ChatGPT. ChatGPT can now combine text, visuals, and interactive elements to fit your question, from side-by-side comparisons and diagrams to tools you can use directly in the conversation, such as calculators, bill splitters, and games. It can choose the format automatically, and still use a simple text answer when that works best.GPT-6 can also begin answering while it continues to think or use tools, then add more findings without another prompt. You can start reading before the full answer is ready.The rollout starts globally today for Plus, Pro, Business, and Enterprise in the Chat tab, and expands to Free and Go starting tomorrow. Enterprise availability depends on workspace admin settings.Plus, Pro, Business, and Enterprise use GPT-6 Sol; Free and Go use GPT-6 Luna. Intelligent UI is available from Instant through Extra High reasoning. The Pro reasoning option continues to use GPT-6 Astra and doesn’t support Intelligent UI. The models powering Work and Codex aren’t changing with this release.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-6-and-intelligent-ui-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

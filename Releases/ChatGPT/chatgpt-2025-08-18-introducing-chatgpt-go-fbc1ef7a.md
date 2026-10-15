@@ -1,7 +1,7 @@
 ---
 changes_count: 4
 date: '2025-08-18'
-machine_hash: 2b124c498519f6503b0b56b24ee024fafc87019df07549cbbfb17ae64bc830b7
+machine_hash: eac7355c0e0b2045edd8553fd36c0f44c2820f0df37a3d2010930d81514f24da
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -13,13 +13,13 @@ record:
     will initially be available for users in India only.For ₹399/month (GST included),
     ChatGPT Go provides everything included in the Free plan, and:'
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-go
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Introducing ChatGPT Go
   version: Introducing ChatGPT Go
 release_id: chatgpt-2025-08-18-introducing-chatgpt-go-fbc1ef7a
 source_release: Introducing ChatGPT Go
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-go
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -33,7 +33,7 @@ version: Introducing ChatGPT Go
 <!-- chronolog:begin region="summary" -->
 We’re launching ChatGPT Go, a new low-cost subscription plan. This will initially be available for users in India only.For ₹399/month (GST included), ChatGPT Go provides everything included in the Free plan, and:
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-go)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 4
 <!-- chronolog:end -->

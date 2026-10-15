@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 21741c1b74f2fa52e1011b9696bff6866bdb361978be84fc8b9568ebc31954c1
+machine_hash: c86c705b51e8816e0cd6fbe7092a023f8d243a98bb4526ac6985440e9576f1f8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: This update is available on all ChatGPT plans. Shared projects continue
       to use project-only memory and cannot be switched to default memory. ChatGPT
       Work is not available in projects using project-only memory.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#edit-memory-settings-for-existing-projects
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -61,7 +61,7 @@ ChatGPT — Edit memory settings for existing projects: This update is available
 <!-- chronolog:begin region="evidence" -->
 > This update is available on all ChatGPT plans. Shared projects continue to use project-only memory and cannot be switched to default memory. ChatGPT Work is not available in projects using project-only memory.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#edit-memory-settings-for-existing-projects
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

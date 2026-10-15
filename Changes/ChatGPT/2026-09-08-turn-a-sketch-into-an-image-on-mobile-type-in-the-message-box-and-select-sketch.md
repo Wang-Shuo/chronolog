@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: a5b5faec105badf1fbf93d67c7b282e09f949f93129b55d8b54b134a8150db62
+machine_hash: 5a086115318979a07a83a72d76306402094133eccbe2c147813425229c7d1ec2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: Turn a sketch into an image. On mobile, type @ in the message box and select
       Sketch. Draw your idea, then describe the image you want to create.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-images-25-new-ways-to-create-and-edit
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -59,7 +59,7 @@ ChatGPT — ChatGPT Images 2.5: new ways to create and edit: Turn a sketch into 
 <!-- chronolog:begin region="evidence" -->
 > Turn a sketch into an image. On mobile, type @ in the message box and select Sketch. Draw your idea, then describe the image you want to create.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-images-25-new-ways-to-create-and-edit
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

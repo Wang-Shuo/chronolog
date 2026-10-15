@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 14709629a0900d8773cd27bec96db5cd00a2859e79805f1948e846ed54b19e81
+machine_hash: 33de492b9501baf3ac66f87f887e89c8a2844aa28a62e73c9e20512db63e0351
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: 'Pro ($200/month): Our highest-usage option remains available and continues
       on its current Codex promotion through May 31.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-pro-plan-options
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -61,7 +61,7 @@ ChatGPT — New Pro plan options: Pro ($200/month): Our highest-usage option rem
 <!-- chronolog:begin region="evidence" -->
 > Pro ($200/month): Our highest-usage option remains available and continues on its current Codex promotion through May 31.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-pro-plan-options
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

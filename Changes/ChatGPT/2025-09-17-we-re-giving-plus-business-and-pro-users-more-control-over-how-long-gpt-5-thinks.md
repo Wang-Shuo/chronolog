@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 685428f74606e12c60bd30a32470ea78272dacf468ebd0363a45e0ccd1bdfd19
+machine_hash: 33e4c2a98a345ba98837dfbcd889f315d9107fb3e5bedc4caed93dc6bead810a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       thinks before responding. You can now choose the level of reasoning time, so
       you can decide whether you want a quicker answer or more in-depth reasoning
       for your task.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#toggle-thinking-time-in-the-message-composer
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -64,7 +64,7 @@ ChatGPT — Toggle thinking time in the message composer: We’re giving Plus, B
 <!-- chronolog:begin region="evidence" -->
 > We’re giving Plus, Business, and Pro users more control over how long GPT-5 thinks before responding. You can now choose the level of reasoning time, so you can decide whether you want a quicker answer or more in-depth reasoning for your task.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#toggle-thinking-time-in-the-message-composer
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

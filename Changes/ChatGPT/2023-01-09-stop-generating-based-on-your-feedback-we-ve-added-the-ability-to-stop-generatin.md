@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 89614817aa6ee2892d88c66a295707e8c4a781326727b1ca4a133816388a8ce8
+machine_hash: 4cd77714d4fe978b8285a54ad1493f3d84c13ce18b530c3496b547c441f51be1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: 'Stop generating: Based on your feedback, we''ve added the ability to stop
       generating ChatGPT''s response'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -56,7 +56,7 @@ ChatGPT — Updates to ChatGPT: Stop generating: Based on your feedback, we've a
 <!-- chronolog:begin region="evidence" -->
 > Stop generating: Based on your feedback, we've added the ability to stop generating ChatGPT's response
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

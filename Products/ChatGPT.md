@@ -1,6 +1,6 @@
 ---
 coverage:
-  acquired_at: '2026-10-13T10:59:17Z'
+  acquired_at: 2026-10-14T23:26:11+0800
   acquisition: browser-snapshot
   coverage: available-endpoint
   earliest: '2022-12-15'
@@ -8,12 +8,12 @@ coverage:
     dates are not universal availability dates.
   latest: '2026-10-07'
   release_count: 292
-  snapshot_captured_at: '2026-10-13T10:59:17Z'
-  snapshot_sha256: 8340926d2048cdaea962e28fa229a5c8e155121a59c05903beba4e76e353c2ff
+  snapshot_captured_at: 2026-10-14T23:26:11+0800
+  snapshot_sha256: 9601c0d938715c586eecca02c102c585bc7c86d5d2fdb14a185bdc311e16c4c9
   url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 created: '2022-12-15'
 date: '2026-10-07'
-machine_hash: 0cbfa67d0c2069908a93d6f5e8258039c3473699f6925ef6a4f75f205269567d
+machine_hash: cf4e3656702480645f73d5e19b40aaf5053ce1879869e8f1a8df70c64fefe3c5
 modified: '2026-10-07'
 product: chatgpt
 product_name: ChatGPT
@@ -63,7 +63,7 @@ Dates are changelog announcement dates, not universal availability dates. Rollou
 <!-- chronolog:begin region="coverage" -->
 Archived release dates: 2022-12-15 → 2026-10-07.
 
-Official browser snapshot captured: 2026-10-13T10:59:17Z. Imported snapshot; this is not a successful automatic HTTP fetch.
+Official browser snapshot captured: 2026-10-14T23:26:11+0800. Imported snapshot; this is not a successful automatic HTTP fetch.
 
 [Source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes).
 
@@ -85,9 +85,9 @@ Most represented themes: model-support, mobile-desktop, memory, apps-integration
 
 The early record emphasizes answer quality, saved conversations and access. Plus adds early access and model selection. This establishes a conversational product with differentiated access, before the tracked plugin announcement.
 
-- 2022-12-15: [Performance updates to ChatGPT](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#performance-updates-to-chatgpt) · [[Releases/ChatGPT/chatgpt-2022-12-15-performance-updates-to-chatgpt-d9abf59d|Archived release]]
+- 2022-12-15: [Performance updates to ChatGPT](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · [[Releases/ChatGPT/chatgpt-2022-12-15-performance-updates-to-chatgpt-d9abf59d|Archived release]]
 
-- 2023-02-09: [Introducing ChatGPT Plus](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-plus) · [[Releases/ChatGPT/chatgpt-2023-02-09-introducing-chatgpt-plus-380a3524|Archived release]]
+- 2023-02-09: [Introducing ChatGPT Plus](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · [[Releases/ChatGPT/chatgpt-2023-02-09-introducing-chatgpt-plus-380a3524|Archived release]]
 
 ### Tools extend the conversation
 
@@ -95,9 +95,9 @@ The early record emphasizes answer quality, saved conversations and access. Plus
 
 Experimental plugins introduce browsing, Python computation and third-party services. Code Interpreter's later beta rollout turns uploaded files into inputs for computational work. The boundary is access to tools, not just a newer model.
 
-- 2023-03-23: [Introducing plugins in ChatGPT](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-plugins-in-chatgpt) · [[Releases/ChatGPT/chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8|Archived release]]
+- 2023-03-23: [Introducing plugins in ChatGPT](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · [[Releases/ChatGPT/chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8|Archived release]]
 
-- 2023-07-06: [Code interpreter is now rolling out in beta on web](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#code-interpreter-is-now-rolling-out-in-beta-on-web) · [[Releases/ChatGPT/chatgpt-2023-07-06-code-interpreter-is-now-rolling-out-in-beta-on-web-427b9bc0|Archived release]]
+- 2023-07-06: [Code interpreter is now rolling out in beta on web](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · [[Releases/ChatGPT/chatgpt-2023-07-06-code-interpreter-is-now-rolling-out-in-beta-on-web-427b9bc0|Archived release]]
 
 ### Multimodal interaction and persistent context
 
@@ -105,11 +105,11 @@ Experimental plugins introduce browsing, Python computation and third-party serv
 
 Voice and image input change how users provide context. The memory test later carries information between conversations with user controls; GPT-4o broadens the model experience. These are related interface and context shifts, not evidence that all features were available to everyone at the boundary.
 
-- 2023-09-25: [New voice and image capabilities in ChatGPT](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-voice-and-image-capabilities-in-chatgpt) · [[Releases/ChatGPT/chatgpt-2023-09-25-new-voice-and-image-capabilities-in-chatgpt-e8c88ec7|Archived release]]
+- 2023-09-25: [New voice and image capabilities in ChatGPT](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · [[Releases/ChatGPT/chatgpt-2023-09-25-new-voice-and-image-capabilities-in-chatgpt-e8c88ec7|Archived release]]
 
-- 2024-02-13: [Memory and new controls for ChatGPT](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-and-new-controls-for-chatgpt) · [[Releases/ChatGPT/chatgpt-2024-02-13-memory-and-new-controls-for-chatgpt-2fd43ded|Archived release]]
+- 2024-02-13: [Memory and new controls for ChatGPT](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · [[Releases/ChatGPT/chatgpt-2024-02-13-memory-and-new-controls-for-chatgpt-2fd43ded|Archived release]]
 
-- 2024-05-13: [Introducing GPT-4o](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpt-4o) · [[Releases/ChatGPT/chatgpt-2024-05-13-introducing-gpt-4o-0a0709f8|Archived release]]
+- 2024-05-13: [Introducing GPT-4o](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · [[Releases/ChatGPT/chatgpt-2024-05-13-introducing-gpt-4o-0a0709f8|Archived release]]
 
 ### Work can start later and repeat
 
@@ -117,7 +117,7 @@ Voice and image input change how users provide context. The memory test later ca
 
 Scheduled Tasks beta introduces reminders and recurring actions at a future time. This changes the trigger from an immediate conversation to scheduled execution. It does not establish a general autonomous agent or prove task reliability.
 
-- 2025-01-14: [Scheduled tasks in ChatGPT](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-in-chatgpt) · [[Releases/ChatGPT/chatgpt-2025-01-14-scheduled-tasks-in-chatgpt-b8005b4a|Archived release]]
+- 2025-01-14: [Scheduled tasks in ChatGPT](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · [[Releases/ChatGPT/chatgpt-2025-01-14-scheduled-tasks-in-chatgpt-b8005b4a|Archived release]]
 
 ### Delegated work and ongoing agents
 
@@ -125,9 +125,9 @@ Scheduled Tasks beta introduces reminders and recurring actions at a future time
 
 Work explicitly handles longer tasks across apps and files and produces finished deliverables, with progress visibility and approvals. September's dots announcement adds ongoing goals on a cloud computer. Access remains staged and conditional; these announcements do not measure completion quality or unattended reliability.
 
-- 2026-07-09: [Introducing ChatGPT Work](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-work) · [[Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272|Archived release]]
+- 2026-07-09: [Introducing ChatGPT Work](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · [[Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272|Archived release]]
 
-- 2026-09-29: [Meet your dot](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#meet-your-dot) · [[Releases/ChatGPT/chatgpt-2026-09-29-meet-your-dot-8b9f914b|Archived release]]
+- 2026-09-29: [Meet your dot](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · [[Releases/ChatGPT/chatgpt-2026-09-29-meet-your-dot-8b9f914b|Archived release]]
 <!-- chronolog:end -->
 
 ## Release Archive

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 43e60ea58f7fd6d07dc5ba3d91e74779d704b3ee183ac4c504d5c2e006577a77
+machine_hash: dfa3113d6dd606760b95b2d5bf556dc79ca7dd726d6ad209283b9fab6b564b40
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,7 +34,7 @@ record:
       the merchant, right in chat. Starting today, U.S. ChatGPT Plus, Pro, and Free
       users can buy directly from U.S. Etsy sellers through ChatGPT, with over 1 million
       Shopify merchants, like Glossier, SKIMS, Spanx and Vuori, coming soon.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-instant-checkout-and-the-agentic-commerce-protocol
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -65,7 +65,7 @@ ChatGPT — Introducing Instant Checkout and the Agentic Commerce Protocol: We�
 <!-- chronolog:begin region="evidence" -->
 > We’re introducing Instant Checkout in ChatGPT and the Agentic Commerce Protocol that powers it, built with Stripe.ChatGPT can help you find anything on the web and now with Instant Checkout, you can seamlessly buy directly from the merchant, right in chat. Starting today, U.S. ChatGPT Plus, Pro, and Free users can buy directly from U.S. Etsy sellers through ChatGPT, with over 1 million Shopify merchants, like Glossier, SKIMS, Spanx and Vuori, coming soon.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-instant-checkout-and-the-agentic-commerce-protocol
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

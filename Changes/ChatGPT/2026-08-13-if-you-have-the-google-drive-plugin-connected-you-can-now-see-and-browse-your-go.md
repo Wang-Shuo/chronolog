@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 0d1e5a622a0211d2347a1fd7bd7c7e00363c8bf89eab7dad1051de092875721d
+machine_hash: efa37137de5441112964d491c976e7a26adea5fe41217ac3f013d2fc9015c24c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       your Google Drive files and folders directly from Library, including items shared
       directly with you. You can also quickly pull up a Drive file from the composer
       or with @mentions and add it to any chat—without uploading it again.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#google-drive-is-now-in-library
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -73,7 +73,7 @@ ChatGPT — Google Drive is now in Library: If you have the Google Drive plugin 
 <!-- chronolog:begin region="evidence" -->
 > If you have the Google Drive plugin connected, you can now see and browse your Google Drive files and folders directly from Library, including items shared directly with you. You can also quickly pull up a Drive file from the composer or with @mentions and add it to any chat—without uploading it again.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#google-drive-is-now-in-library
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

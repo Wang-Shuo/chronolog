@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 9330dcd12ff4edca9b8d81a9139537ca3114fbb93e0f8640d5dacae7719dc9d4
+machine_hash: b5b8cfa29ebdc0a04bdb150daa2f9aa9988529ec071d867e2c8d798df5a2e8d7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: Ask ChatGPT a shopping question and it finds organic, unsponsored product
       results from across the web.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-instant-checkout-and-the-agentic-commerce-protocol
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -60,7 +60,7 @@ ChatGPT — Introducing Instant Checkout and the Agentic Commerce Protocol: Ask 
 <!-- chronolog:begin region="evidence" -->
 > Ask ChatGPT a shopping question and it finds organic, unsponsored product results from across the web.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-instant-checkout-and-the-agentic-commerce-protocol
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

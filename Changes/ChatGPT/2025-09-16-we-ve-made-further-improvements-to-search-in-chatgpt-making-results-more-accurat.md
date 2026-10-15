@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 9b4211b9be4188f5a7ecbe1d8250fba81809002ccd9e94a1107a29560fe483c0
+machine_hash: 097a136eae3038372be9d5241bb357600975260fcbe594634535d598af1e2474
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: We’ve made further improvements to search in ChatGPT, making results more
       accurate, reliable, and useful.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-search-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -59,7 +59,7 @@ ChatGPT — Improvements to search in ChatGPT: We’ve made further improvements
 <!-- chronolog:begin region="evidence" -->
 > We’ve made further improvements to search in ChatGPT, making results more accurate, reliable, and useful.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-search-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

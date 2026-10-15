@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 5dd9023c8db097aa06d556f04a202f63533e1566ab9a209b62817abfe6422b29
+machine_hash: 3308b9f8832be90d3fd12d58a355b3d359dfff8d170b77e68f2d2a191ffc0f2c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   evidence:
   - quote: Admins and users can now build and deploy custom connectors to proprietary
       systems using Model Context Protocol (MCP).
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#custom-connectors-via-model-context-protocol-pro-team-enterprise-edu
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -79,7 +79,7 @@ ChatGPT — Custom connectors via Model Context Protocol (Pro, Team, Enterprise,
 <!-- chronolog:begin region="evidence" -->
 > Admins and users can now build and deploy custom connectors to proprietary systems using Model Context Protocol (MCP).
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#custom-connectors-via-model-context-protocol-pro-team-enterprise-edu
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

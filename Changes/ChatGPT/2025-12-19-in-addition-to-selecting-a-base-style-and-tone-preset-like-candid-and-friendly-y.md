@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 499cc53ded42d0921c33605be9d8d2df265830581b6fbf59456ba69a94ea389b
+machine_hash: 93c416f88416a9d5629aeabadbacfff5bc5fdab98c85f32d87fe475b9311fe7f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: 'In addition to selecting a base style and tone preset—like candid and
       friendly—you can now adjust specific characteristics individually. From the
       ‘personalization’ pane in settings, you can adjust ChatGPT to:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-detailed-characteristic-controls
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -59,7 +59,7 @@ ChatGPT — New detailed characteristic controls: In addition to selecting a bas
 <!-- chronolog:begin region="evidence" -->
 > In addition to selecting a base style and tone preset—like candid and friendly—you can now adjust specific characteristics individually. From the ‘personalization’ pane in settings, you can adjust ChatGPT to:
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-detailed-characteristic-controls
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

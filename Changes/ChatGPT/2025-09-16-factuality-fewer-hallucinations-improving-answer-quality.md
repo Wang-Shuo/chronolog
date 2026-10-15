@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 812aa010d5501e61a6879657ad8cdd2fb901fd0bc475270fcf84d96fb50b0bc2
+machine_hash: a121a6fe4b303c16e29ca4e08f06dddce97d4ede79d5652380c502c3a3bd8a91
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,7 +24,7 @@ record:
     improving answer quality.'
   evidence:
   - quote: 'Factuality: Fewer hallucinations, improving answer quality.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-search-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -57,7 +57,7 @@ ChatGPT — Improvements to search in ChatGPT: Factuality: Fewer hallucinations,
 <!-- chronolog:begin region="evidence" -->
 > Factuality: Fewer hallucinations, improving answer quality.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-search-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 7f63a179f509a7213c847baaaa2270621d72a661d6178f6948625da1eb8f590c
+machine_hash: 883f84878237980468930aef47d51cf727c6a0b9a906e4650d00812161c82d35
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: Work can also keep projects moving through Scheduled Tasks that run once,
       repeat on a schedule or trigger, or monitor for changes.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-work
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -58,7 +58,7 @@ ChatGPT — Introducing ChatGPT Work: Work can also keep projects moving through
 <!-- chronolog:begin region="evidence" -->
 > Work can also keep projects moving through Scheduled Tasks that run once, repeat on a schedule or trigger, or monitor for changes.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-work
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

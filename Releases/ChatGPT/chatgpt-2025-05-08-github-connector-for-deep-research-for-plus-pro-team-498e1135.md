@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-05-08'
-machine_hash: 3d66b5594008789c42bf87dba7a84288413ee9d30fcb8040fa76141ca81fc861
+machine_hash: dd70d643562a57f5bc13c8141dc3031b9d73efa37f46c5ed4faa5b227959eef3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -14,13 +14,13 @@ record:
     in the EEA, Switzerland, and the UK. Enterprise user access will be announced
     at a later date.See: Connecting GitHub to ChatGPT deep research.'
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#github-connector-for-deep-research-for-plusproteam
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: GitHub connector for deep research for Plus/Pro/Team
   version: GitHub connector for deep research for Plus/Pro/Team
 release_id: chatgpt-2025-05-08-github-connector-for-deep-research-for-plus-pro-team-498e1135
 source_release: GitHub connector for deep research for Plus/Pro/Team
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#github-connector-for-deep-research-for-plusproteam
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: GitHub connector for deep research for Plus/Pro/Team
 <!-- chronolog:begin region="summary" -->
 ChatGPT deep research with GitHub is available globally to Team users. It is also gradually rolling out to Plus and Pro users, except for those in the EEA, Switzerland, and the UK. Enterprise user access will be announced at a later date.See: Connecting GitHub to ChatGPT deep research.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#github-connector-for-deep-research-for-plusproteam)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 1
 <!-- chronolog:end -->

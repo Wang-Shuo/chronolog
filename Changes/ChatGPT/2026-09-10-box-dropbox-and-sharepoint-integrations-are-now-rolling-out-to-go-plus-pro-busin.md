@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 59d0cc3634d9ff8470e16653fa4e20b0e02dd3fac90591b1024f8ecd514d2cfc
+machine_hash: 735e25aa1e56df71fde491bc3f1991a15f7919245692d9adbd1d1bca3bd4bd92
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       Pro, Business, Edu, Healthcare and Enterprise users on the web in both Chat
       and Work. Existing file permissions and workspace controls apply. Mobile support
       will follow.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#box-dropbox-and-sharepoint-are-now-in-library
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -78,7 +78,7 @@ ChatGPT — Box, Dropbox, and SharePoint are now in Library: Box, Dropbox, and S
 <!-- chronolog:begin region="evidence" -->
 > Box, Dropbox, and SharePoint integrations are now rolling out to Go, Plus, Pro, Business, Edu, Healthcare and Enterprise users on the web in both Chat and Work. Existing file permissions and workspace controls apply. Mobile support will follow.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#box-dropbox-and-sharepoint-are-now-in-library
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: b7d89859129d3b317c52716274ed83112679f6ca45bb3c49b281bcbbfb3fe575
+machine_hash: d07e4eedd8639b9a47bd425f7049d0b468b6ed42bc1c9cf9dd9316c6004cbb53
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,7 +34,7 @@ record:
       and bring the latest app experience into ChatGPT. If you already use these apps
       in ChatGPT, reconnect the app to start using the updated experience. Existing
       sync functionality (Pro users only) for these apps is not affected.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updated-box-notion-linear-and-dropbox-apps
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -67,7 +67,7 @@ ChatGPT — Updated Box, Notion, Linear, and Dropbox apps: We’re rolling out u
 <!-- chronolog:begin region="evidence" -->
 > We’re rolling out updated Box, Notion, Linear, and Dropbox apps in ChatGPT. These updates add new app actions, including new write capabilities where supported, and bring the latest app experience into ChatGPT. If you already use these apps in ChatGPT, reconnect the app to start using the updated experience. Existing sync functionality (Pro users only) for these apps is not affected.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updated-box-notion-linear-and-dropbox-apps
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

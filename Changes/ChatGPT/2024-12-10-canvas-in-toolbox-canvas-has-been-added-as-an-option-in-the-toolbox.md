@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: d9040dd91dc158575feebfbe1bdbb15a5785811175adaae50a707ef491918996
+machine_hash: f7ac54796334e89779ac34a850972df6e1688f3dd1074132f2167455ac0bb18a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,7 +24,7 @@ record:
     in the toolbox.'
   evidence:
   - quote: 'Canvas in Toolbox: Canvas has been added as an option in the toolbox.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#canvas
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -55,7 +55,7 @@ ChatGPT — Canvas: Canvas in Toolbox: Canvas has been added as an option in the
 <!-- chronolog:begin region="evidence" -->
 > Canvas in Toolbox: Canvas has been added as an option in the toolbox.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#canvas
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

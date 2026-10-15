@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: cea36f1d577a8a0f9cc0ea1ef1a93166bf641823bc3e314330582380f78a66ce
+machine_hash: 78be35e29d31aa0b9a939211975c25770e4b4876580811bf4c350f4e792f19ae
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,7 +39,7 @@ record:
       now available in ChatGPT and in the API as the newest snapshot of chatgpt-4o-latest.
       We plan to bring these improvements to a dated model in the API in the coming
       weeks.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-gpt-4o
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -72,7 +72,7 @@ ChatGPT — Improvements to GPT-4o: Early testers say that the model seems to be
 <!-- chronolog:begin region="evidence" -->
 > Early testers say that the model seems to better understand the implied intent behind their prompts, especially when it comes to creative and collaborative tasks. It’s also slightly more concise and clear, using fewer markdown hierarchies and emojis for responses that are easier to read, less cluttered, and more focused. We're curious to see if our users also find this to be the case.This model is now available in ChatGPT and in the API as the newest snapshot of chatgpt-4o-latest. We plan to bring these improvements to a dated model in the API in the coming weeks.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-gpt-4o
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

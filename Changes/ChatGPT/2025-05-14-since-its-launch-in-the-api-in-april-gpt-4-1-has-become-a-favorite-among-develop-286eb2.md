@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: cc888b48a4298047b161f4ec8346bae606f5da4a4ce5c44726606842b1f60d1e
+machine_hash: 8becb0fa64a5d7380db623e19a10f79bcfd7542d86da34e35ca49ed1956a2fcd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,7 +41,7 @@ record:
       the "more models" dropdown in the model picker. Enterprise and Edu users will
       get access in the coming weeks. GPT-4.1 has the same rate limits as GPT-4o for
       paid users.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#releasing-gpt-41-in-chatgpt-for-all-paid-users
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -95,7 +95,7 @@ ChatGPT — Releasing GPT-4.1 in ChatGPT for all paid users: Since its launch in
 <!-- chronolog:begin region="evidence" -->
 > Since its launch in the API in April, GPT-4.1 has become a favorite among developers—by popular demand, we’re making it available directly in ChatGPT.GPT-4.1 is a specialized model that excels at coding tasks. Compared to GPT-4o, it's even stronger at precise instruction following and web development tasks, and offers an alternative to OpenAI o3 and OpenAI o4-mini for simpler, everyday coding needs.Starting today, Plus, Pro, and Team users can access GPT-4.1 via the "more models" dropdown in the model picker. Enterprise and Edu users will get access in the coming weeks. GPT-4.1 has the same rate limits as GPT-4o for paid users.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#releasing-gpt-41-in-chatgpt-for-all-paid-users
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 884f512ebb993bdf80d7e5fa1783ceb67e959185c908d577e6612e6b3a87bbbd
+machine_hash: 548430e0ad9fc7cac2ece5a3f2af7ccb14b689368ea2bbfde34e4b4cf5fcafc6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: 'Code Interpreter: An experimental ChatGPT model that can use Python, and
       handles uploads and downloads'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-plugins-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -59,7 +59,7 @@ ChatGPT — Introducing plugins in ChatGPT: Code Interpreter: An experimental Ch
 <!-- chronolog:begin region="evidence" -->
 > Code Interpreter: An experimental ChatGPT model that can use Python, and handles uploads and downloads
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-plugins-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

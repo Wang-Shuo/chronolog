@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 89d2b71a1e8769dd84535620025d5f7ce68cb484e87e1bf4545162f3783f3464
+machine_hash: 444477c5379abaa5ad0b44804f4497b126dc9ae4ac6e744923bc98bb03f53b09
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: Voice will continue to be available on chatgpt.com, iOS, Android, and Windows
       app.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#voice-on-macos-desktop-app-is-retiring-effective-january-15-2026
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -70,7 +70,7 @@ ChatGPT — Voice on macOS desktop app is retiring (effective January 15, 2026):
 <!-- chronolog:begin region="evidence" -->
 > Voice will continue to be available on chatgpt.com, iOS, Android, and Windows app.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#voice-on-macos-desktop-app-is-retiring-effective-january-15-2026
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

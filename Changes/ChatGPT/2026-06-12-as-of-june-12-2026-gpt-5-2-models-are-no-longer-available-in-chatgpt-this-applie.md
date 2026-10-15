@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 0723e2ec75a8505222f542804b44e01f18e1fd7df6d5ff9d20631512ad7c926b
+machine_hash: d96fe2b398a4e0ff29507b90c5109491a34ea859439082848ae2ad747f3fd15e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,7 +35,7 @@ record:
       GPT-5.5 models remain available in ChatGPT.This retirement was previously announced
       with the release of GPT-5.3 Instant. Models will generally remain available
       in ChatGPT for 90 days after a successor is released.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-gpt-52-models
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -70,7 +70,7 @@ ChatGPT — Retiring GPT-5.2 models: As of June 12, 2026, GPT-5.2 models are no 
 <!-- chronolog:begin region="evidence" -->
 > As of June 12, 2026, GPT-5.2 models are no longer available in ChatGPT.This applies to GPT-5.2 Instant, GPT-5.2 Thinking, and GPT-5.2 Pro. Existing conversations that used GPT-5.2 will automatically continue on the corresponding GPT-5.5 model. GPT-5.5 models remain available in ChatGPT.This retirement was previously announced with the release of GPT-5.3 Instant. Models will generally remain available in ChatGPT for 90 days after a successor is released.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-gpt-52-models
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

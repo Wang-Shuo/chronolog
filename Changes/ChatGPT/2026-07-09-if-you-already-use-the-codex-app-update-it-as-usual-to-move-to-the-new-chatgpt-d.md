@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: paradigm-shift
-machine_hash: 4aa5ec85a50862a042d296c5612f97aedd7919c9354bbaea4e1f8125c30fbffa
+machine_hash: 16495bc2dd0c20010b2e7e529a1289ca066b389f04a9afcd411346a882c8464b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -36,7 +36,7 @@ record:
       as ChatGPT Classic. ChatGPT Classic continues to receive model updates, bug
       fixes, security patches, and support for its existing Enterprise capabilities,
       while new agent features such as Work and Codex are available in the new app.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: paradigm-shift
   product: chatgpt
@@ -89,7 +89,7 @@ ChatGPT — The new ChatGPT desktop app brings Chat, Work, and Codex together: I
 <!-- chronolog:begin region="evidence" -->
 > If you already use the Codex app, update it as usual to move to the new ChatGPT desktop app. If you use the previous ChatGPT desktop app, follow the prompt in the app to download the new version. The previous app may remain installed as ChatGPT Classic. ChatGPT Classic continues to receive model updates, bug fixes, security patches, and support for its existing Enterprise capabilities, while new agent features such as Work and Codex are available in the new app.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: d0f5574429e8fea9660bfc61cb14604e4d74759ee759d60480772a132268a25c
+machine_hash: 67f4c95fb37e98363c2b99765c2ac416ced63b865ddd071fdc1b8c4a5c69fe1a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: 'App permission controls: You can now choose when ChatGPT asks before using
       connected apps. Set ChatGPT to always ask, ask before making changes, or only
       ask before important changes. Manage preferences in Settings > Apps.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -63,7 +63,7 @@ ChatGPT — ChatGPT app experience updates: App permission controls: You can now
 <!-- chronolog:begin region="evidence" -->
 > App permission controls: You can now choose when ChatGPT asks before using connected apps. Set ChatGPT to always ask, ask before making changes, or only ask before important changes. Manage preferences in Settings > Apps.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

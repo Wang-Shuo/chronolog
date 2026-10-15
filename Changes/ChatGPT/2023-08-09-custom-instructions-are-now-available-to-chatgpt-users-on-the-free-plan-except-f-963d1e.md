@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: aa00371964c8802f9735234b4e02f28dc5f4955f42839aac38bb7d54281f8e04
+machine_hash: d70cc5561418581b7b475a7051c242e320683bafdfe24cf2e018589fee2e5be0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       except for in the EU UK where we will be rolling it out soon!Customize your
       interactions with ChatGPT by providing specific details and guidelines for your
       chats.To add your instructions:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#custom-instructions-are-now-available-to-free-users
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -60,7 +60,7 @@ ChatGPT — Custom instructions are now available to free users: Custom instruct
 <!-- chronolog:begin region="evidence" -->
 > Custom instructions are now available to ChatGPT users on the free plan, except for in the EU UK where we will be rolling it out soon!Customize your interactions with ChatGPT by providing specific details and guidelines for your chats.To add your instructions:
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#custom-instructions-are-now-available-to-free-users
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

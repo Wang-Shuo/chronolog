@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-07-06'
-machine_hash: 71537fb8bb931d2ad327ed720a093735107ef3177aa95163c252ec044e02f763
+machine_hash: 163e6d95c89cafdf8a432ec5cbfc54b35b7b2dfb4da6d22242a06b78f0bafde7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -14,13 +14,13 @@ record:
     or Auto rate limits. Because it serves as a fallback, it won’t appear in the model
     picker. This update does not affect the API or Codex.Compared with GPT-5.3 Instant…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-55-instant-mini-in-chatgpt
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: GPT-5.5 Instant Mini in ChatGPT
   version: GPT-5.5 Instant Mini in ChatGPT
 release_id: chatgpt-2026-07-06-gpt-5-5-instant-mini-in-chatgpt-1ce53754
 source_release: GPT-5.5 Instant Mini in ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-55-instant-mini-in-chatgpt
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: GPT-5.5 Instant Mini in ChatGPT
 <!-- chronolog:begin region="summary" -->
 We’re rolling out GPT-5.5 Instant Mini in ChatGPT. It replaces GPT-5.3 Instant Mini as the fallback model users reach after hitting their GPT-5.5 Instant or Auto rate limits. Because it serves as a fallback, it won’t appear in the model picker. This update does not affect the API or Codex.Compared with GPT-5.3 Instant…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-55-instant-mini-in-chatgpt)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 1
 <!-- chronolog:end -->

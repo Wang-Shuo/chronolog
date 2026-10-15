@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 2ad8ff8826ce9e992d630e358a17f8743ec47545e56584a7db1744b723338047
+machine_hash: 277be8de54e5a0b892041cda2c80d8c47f0876257ccb35ba37f0abf78b2b4388
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -23,7 +23,7 @@ record:
   description: 'ChatGPT — Announcing GPT-4 in ChatGPT: Complex instructions'
   evidence:
   - quote: Complex instructions
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#announcing-gpt-4-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -56,7 +56,7 @@ ChatGPT — Announcing GPT-4 in ChatGPT: Complex instructions
 <!-- chronolog:begin region="evidence" -->
 > Complex instructions
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#announcing-gpt-4-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 50d1bb6ad41032cf94286c6d4e8f689053e052352ebe121b298c409284e12790
+machine_hash: 6583f6c45af4db9108eab0d7e56ea42be05c9e0ed24430fb7107f3082fbed0aa
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: We’ve improved search responses in ChatGPT Voice to deliver more complete,
       up-to-date answers, including better access to shopping results.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-search-response-quality-in-voice
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -59,7 +59,7 @@ ChatGPT — Improvements to search response quality in Voice: We’ve improved s
 <!-- chronolog:begin region="evidence" -->
 > We’ve improved search responses in ChatGPT Voice to deliver more complete, up-to-date answers, including better access to shopping results.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-search-response-quality-in-voice
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

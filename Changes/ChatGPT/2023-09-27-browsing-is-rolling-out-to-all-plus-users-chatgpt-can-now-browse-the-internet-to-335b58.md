@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: ba56dab3819f0c3faccd4d7f912275b10c1c520d682e6ffc15d5d9eb51efa8d5
+machine_hash: 833613cf5cec645f594eeb6edf57e2e1dcb523c5bde91bf94181e3a65cd106c0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       to provide you with current and authoritative information, complete with direct
       links to sources. It is no longer limited to data before September 2021.To try
       it out, enable Browsing in your beta features setting.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-is-rolling-back-out-to-plus-users
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -63,7 +63,7 @@ ChatGPT — Browsing is rolling back out to Plus users: Browsing is rolling out 
 <!-- chronolog:begin region="evidence" -->
 > Browsing is rolling out to all Plus users. ChatGPT can now browse the internet to provide you with current and authoritative information, complete with direct links to sources. It is no longer limited to data before September 2021.To try it out, enable Browsing in your beta features setting.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-is-rolling-back-out-to-plus-users
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

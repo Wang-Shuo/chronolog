@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 3c76d3887e76c72ce0361e53556f2e3ad72767d1cda1bfe7b53eae564ed9b0ab
+machine_hash: 00b8d60455da4d0e847f3ab79c0ce56a8beb829dec4947f7e1ddf3aa2542b24d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,7 +42,7 @@ record:
       useful. These improvements are rolling out to all ChatGPT users this week.These
       updates improve how ChatGPT retrieves and presents product information from
       merchants and other providers using the Agentic Commerce Protocol (ACP).
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#shopping-updates-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -89,7 +89,7 @@ ChatGPT — Shopping updates in ChatGPT: We’ve improved shopping in ChatGPT to
 <!-- chronolog:begin region="evidence" -->
 > We’ve improved shopping in ChatGPT to make it easier to discover, compare, and decide on products.Product results are now more visually rich, with improved detail and relevance. You can browse products in chat, refine results through conversation, and upload images to find similar items. Products can also be compared side by side with key details such as price, reviews, and features, making it easier to compare without opening multiple tabs.We’ve also improved product data coverage, freshness, and speed so results are more up to date and useful. These improvements are rolling out to all ChatGPT users this week.These updates improve how ChatGPT retrieves and presents product information from merchants and other providers using the Agentic Commerce Protocol (ACP).
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#shopping-updates-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

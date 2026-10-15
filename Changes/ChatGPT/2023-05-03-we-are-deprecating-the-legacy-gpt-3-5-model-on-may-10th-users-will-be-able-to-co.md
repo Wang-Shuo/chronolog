@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: de05a0a50278338e7e1fdce135108914323221716b055afe9998f382f6f254fc
+machine_hash: f273832a98834624824bded4955f9b6569d69ebf4bbc551fced726075fdeb39e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
   - quote: We are deprecating the Legacy (GPT-3.5) model on May 10th. Users will be
       able to continue their existing conversations with this model, but new messages
       will use the default model.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -62,7 +62,7 @@ ChatGPT — Updates to ChatGPT: We are deprecating the Legacy (GPT-3.5) model on
 <!-- chronolog:begin region="evidence" -->
 > We are deprecating the Legacy (GPT-3.5) model on May 10th. Users will be able to continue their existing conversations with this model, but new messages will use the default model.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

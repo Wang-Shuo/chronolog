@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 5050ca54bfde18640fe7c9aaabf54498f606a07e0875503b56960e9a3d03d57a
+machine_hash: bd0c578d76bc3b7a403b96c6700443eb5294ecd3e7eb9c980b14f5697d27eb79
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       you choose to showcase. Personal profiles are private by default. You can make
       yours public and share its link with other people signed in to ChatGPT. Shared
       profiles do not show conversation titles or content.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#share-your-profile-and-showcase-your-sites
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -65,7 +65,7 @@ ChatGPT — Share your profile and showcase your Sites: Your ChatGPT profile now
 <!-- chronolog:begin region="evidence" -->
 > Your ChatGPT profile now brings together your bio, activity, and Sites you choose to showcase. Personal profiles are private by default. You can make yours public and share its link with other people signed in to ChatGPT. Shared profiles do not show conversation titles or content.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#share-your-profile-and-showcase-your-sites
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

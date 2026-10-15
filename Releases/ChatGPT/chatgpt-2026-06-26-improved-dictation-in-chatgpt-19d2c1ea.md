@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-06-26'
-machine_hash: bdd4d209082367288076c55de2cbbc3027e27c773c6159d5e78df10c93af6ea9
+machine_hash: a9a8f69cfd89822ba7957213e5c7f87f5387ab9f6db07382b348cfd064355e50
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -14,13 +14,13 @@ record:
     to how you use dictation.The update improves transcription accuracy across languages
     and accents, including when multilingual speakers mix or switch between languages…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improved-dictation-in-chatgpt
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Improved dictation in ChatGPT
   version: Improved dictation in ChatGPT
 release_id: chatgpt-2026-06-26-improved-dictation-in-chatgpt-19d2c1ea
 source_release: Improved dictation in ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improved-dictation-in-chatgpt
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Improved dictation in ChatGPT
 <!-- chronolog:begin region="summary" -->
 We’re rolling out a new speech-to-text model for dictation in ChatGPT across all plans. This is a behind-the-scenes update, so there are no changes to how you use dictation.The update improves transcription accuracy across languages and accents, including when multilingual speakers mix or switch between languages…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improved-dictation-in-chatgpt)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 1
 <!-- chronolog:end -->

@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2025-08-22'
-machine_hash: 4d50ed9f369c68be97ff9cfc77d2128524c9717f7bbc6ddce31cb9dc0895ff03
+machine_hash: 74275ce1e6981ec012e6db9e340c506f6e8584cbb3d04187d332d1162a215344
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -14,13 +14,13 @@ record:
     ChatGPT can use other conversations in that project for additional context, and
     won’t use your saved memories from outside the project to shape responses…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#project-only-memory
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Project-only memory
   version: Project-only memory
 release_id: chatgpt-2025-08-22-project-only-memory-3424a221
 source_release: Project-only memory
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#project-only-memory
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Project-only memory
 <!-- chronolog:begin region="summary" -->
 An improvement to projects is now available. When creating a project, users have the option to enable project-only memory.With project-only memory enabled, ChatGPT can use other conversations in that project for additional context, and won’t use your saved memories from outside the project to shape responses…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#project-only-memory)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 3
 <!-- chronolog:end -->

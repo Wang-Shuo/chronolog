@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 4592fcf4dc2fea329db8d34ede159cb22542601f65101e35dbe67afd130b0016
+machine_hash: 94084fe04522531914ab78c4d17a8fd7c1f19af99651956f4a40c53e888e3b9c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
       and replaced it with the new sliders‑style icon to open the Skills menu; tapping
       that button opens a bottom‑sheet menu where users can choose tools like Create
       an image or Search the web.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#mobile-ui-iosandroid-changing-on-freepluspro-plans
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -75,7 +75,7 @@ ChatGPT — Mobile UI (iOS/Android) changing on Free/Plus/Pro plans: We've remov
 <!-- chronolog:begin region="evidence" -->
 > We've removed the row of individual tool icons from the mobile composer and replaced it with the new sliders‑style icon to open the Skills menu; tapping that button opens a bottom‑sheet menu where users can choose tools like Create an image or Search the web.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#mobile-ui-iosandroid-changing-on-freepluspro-plans
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

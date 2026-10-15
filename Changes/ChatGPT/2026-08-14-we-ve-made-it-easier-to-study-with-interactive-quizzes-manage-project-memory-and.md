@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 808e5ea848c776e819812d857cf92c63e51f9d782c9fe5abbaf94cc111d9f1b7
+machine_hash: 45c4384fea50fa654cfc35961e93ee2bc5ed012143a9e87de5370f7b9509a7d3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: We’ve made it easier to study with interactive quizzes, manage project
       memory, and move between typing, dictation, and desktop work.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -72,7 +72,7 @@ ChatGPT — ChatGPT app experience updates: We’ve made it easier to study with
 <!-- chronolog:begin region="evidence" -->
 > We’ve made it easier to study with interactive quizzes, manage project memory, and move between typing, dictation, and desktop work.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

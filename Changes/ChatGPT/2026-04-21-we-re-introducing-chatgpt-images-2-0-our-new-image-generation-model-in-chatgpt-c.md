@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 5d1ec10787a2f9aade601e34c6bf1387f65b3458628af7b7f59511ffd5dee787
+machine_hash: 9ae3d95f9b7f903479d7d0e4c98f32f4882a0e1f6190137deafb1241f8d6c06f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,7 +34,7 @@ record:
       images with thinking. When given more time to think, it can plan and refine
       image outputs before generating them.Images with thinking is available on all
       paid ChatGPT plans. It is available when you select Thinking and Pro models.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-images-20-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -76,7 +76,7 @@ ChatGPT — ChatGPT Images 2.0 in ChatGPT: We’re introducing ChatGPT Images 2.
 <!-- chronolog:begin region="evidence" -->
 > We’re introducing ChatGPT Images 2.0, our new image generation model in ChatGPT. ChatGPT Images 2.0 is available on all ChatGPT plans.We’re also introducing images with thinking. When given more time to think, it can plan and refine image outputs before generating them.Images with thinking is available on all paid ChatGPT plans. It is available when you select Thinking and Pro models.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-images-20-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

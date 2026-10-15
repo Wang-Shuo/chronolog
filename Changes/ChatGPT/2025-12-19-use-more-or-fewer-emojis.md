@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 9b73561f484bb79d970d1f65a6eeee59269b5c9808e32fbbf24e30facc05ddee
+machine_hash: c59ea38ba2f046d794bb0e398d38beb72dab8855373caca286effe697bc8391f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,7 +24,7 @@ record:
     emojis'
   evidence:
   - quote: Use more or fewer emojis
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-detailed-characteristic-controls
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -57,7 +57,7 @@ ChatGPT — New detailed characteristic controls: Use more or fewer emojis
 <!-- chronolog:begin region="evidence" -->
 > Use more or fewer emojis
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-detailed-characteristic-controls
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 8555f78b1fbcafc4a45916455ce61f2697c01fd561ebb2bbd69514a63dc5b97f
+machine_hash: d064270088799d80b88c5a1580dad6857f3660aea98cd0b9032097f47b7245d6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       or editors for supported file types. Work with an app alongside your conversation,
       select the information you want ChatGPT to use, or complete a form provided
       by the plugin.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#work-with-interactive-plugin-extensions
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -71,7 +71,7 @@ ChatGPT — Work with interactive plugin extensions: Plugins can now include int
 <!-- chronolog:begin region="evidence" -->
 > Plugins can now include interactive panels, sidebar views, and viewers or editors for supported file types. Work with an app alongside your conversation, select the information you want ChatGPT to use, or complete a form provided by the plugin.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#work-with-interactive-plugin-extensions
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

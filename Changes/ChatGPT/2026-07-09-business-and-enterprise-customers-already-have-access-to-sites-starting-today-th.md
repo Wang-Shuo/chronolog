@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: db6d21fc50ca1035ee08b1371dbcd97f8c01b92d346995b39a44f43a0138ce7f
+machine_hash: 514a378cd9523c2387ce62685fcdd29c18d10bea7953923060431a224fcbe617
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Business and Enterprise customers already have access to Sites. Starting
       today, they can also publish Sites publicly and share them with anyone through
       a URL, expanding Sites beyond people in their workspace.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-sites-in-public-beta
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -60,7 +60,7 @@ ChatGPT — Introducing ChatGPT Sites in public beta: Business and Enterprise cu
 <!-- chronolog:begin region="evidence" -->
 > Business and Enterprise customers already have access to Sites. Starting today, they can also publish Sites publicly and share them with anyone through a URL, expanding Sites beyond people in their workspace.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-sites-in-public-beta
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

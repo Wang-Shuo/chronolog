@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: c09dd51ba813238be9e1f2fea6aa0e5364690dad5e56f0027807762174b70bd9
+machine_hash: 2144d9fafb7f5184ee88885b7546e8eb54b2ac4c7c48aead5350652c4801ec36
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,7 +48,7 @@ record:
       meet a minimum activity threshold. If you have very limited activity, you’ll
       only see basic chat statistics.At launch, this experience is available in English
       in the United States, United Kingdom, Canada, Australia, and New Zealand.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#your-year-with-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -89,7 +89,7 @@ ChatGPT — Your Year with ChatGPT: Today we’re rolling out Your Year with Cha
 <!-- chronolog:begin region="evidence" -->
 > Today we’re rolling out Your Year with ChatGPT, an optional, personalized end-of-year experience that reflects on how you interacted with ChatGPT in 2025. It highlights high-level themes from your conversations and includes summary statistics about your usage over the year.This experience is rolling out gradually throughout the day, so it may not be available to everyone immediately. It’s available to Free, Plus, and Pro users in the United States, the United Kingdom, Canada, Australia, and New Zealand as well as Go, Plus, and Pro users in India, and is not available on Business, Enterprise, or Edu plans.To see Your Year with ChatGPT, Memory and Reference Chat History must be turned on, and you must meet a minimum activity threshold. If you have very limited activity, you’ll only see basic chat statistics.At launch, this experience is available in English in the United States, United Kingdom, Canada, Australia, and New Zealand.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#your-year-with-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

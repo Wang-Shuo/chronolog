@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: df99a8ff05db6c4f7fa55eb9dbb39c38de5919cfbf5728ee29474beb65ee9c8d
+machine_hash: 7bb7b23dc67e9d430b7fba54fd21e513065a3e4fe0e78e7ebff950722d772684
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -36,7 +36,7 @@ record:
       install Data from the plugin directory, then start a conversation with @Data.
       Connected sources may require setup or authorization, and queries use your connected
       account’s existing permissions. Learn more.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#data-plugin-in-chatgpt-work-and-codex
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -83,7 +83,7 @@ ChatGPT — Data plugin in ChatGPT Work and Codex: The Data plugin helps you ana
 <!-- chronolog:begin region="evidence" -->
 > The Data plugin helps you analyze connected business data in ChatGPT Work and Codex. Ask a business question, investigate changes, or create an interactive dashboard or report. You can refine the analysis with follow-up questions and bring in your team’s metric definitions and other business context.To get started, install Data from the plugin directory, then start a conversation with @Data. Connected sources may require setup or authorization, and queries use your connected account’s existing permissions. Learn more.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#data-plugin-in-chatgpt-work-and-codex
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

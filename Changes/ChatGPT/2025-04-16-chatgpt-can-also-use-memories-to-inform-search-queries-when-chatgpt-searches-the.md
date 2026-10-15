@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 66b1b1f48bc3a5183636a1c1e4887cc2514fa6b328c7f27d3ac56fd0f04ca9ff
+machine_hash: d7f2489273f0a3cad63a04eac4f2d2151a17823093e4e4f69fa17be6fe6ff155
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: ChatGPT can also use memories to inform search queries when ChatGPT searches
       the web using third-party search providers. Learn more about search.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-with-search
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -59,7 +59,7 @@ ChatGPT — Memory with Search: ChatGPT can also use memories to inform search q
 <!-- chronolog:begin region="evidence" -->
 > ChatGPT can also use memories to inform search queries when ChatGPT searches the web using third-party search providers. Learn more about search.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-with-search
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

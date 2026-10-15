@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: daf356742828e76a72e14482e9cdf428e1a5a31d92c38a9c863bc1b3266896a3
+machine_hash: 266c3a47f2760290ec809572d032395855e0bceb2a9cb03eed8e5989fc8615ac
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       take or upload a selfie to generate a virtual try-on with ChatGPT Images. Your
       reference photo is saved for future try-ons. You can change or delete it in
       Settings → Personalization → Reference photos.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-ways-to-shop-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -64,7 +64,7 @@ ChatGPT — New ways to shop in ChatGPT: Virtually try on clothing and accessori
 <!-- chronolog:begin region="evidence" -->
 > Virtually try on clothing and accessories: A “Try on” button will appear on product listings for clothes and accessories in ChatGPT. Select it, then take or upload a selfie to generate a virtual try-on with ChatGPT Images. Your reference photo is saved for future try-ons. You can change or delete it in Settings → Personalization → Reference photos.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-ways-to-shop-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

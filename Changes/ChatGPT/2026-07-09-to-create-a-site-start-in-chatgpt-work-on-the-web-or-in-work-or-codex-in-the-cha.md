@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 58dfb45b58140a22607fd7c9d6a837380fb19dd2ab8f796453297faa50f8501e
+machine_hash: 321ddd6c0d03da18211a3415e58ba41b62d97dd6181df9493add191983b36000
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       in the ChatGPT desktop app. Describe what you want to build, add any relevant
       content, files, data, links, or constraints, and review the private preview
       before publishing.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-sites-in-public-beta
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -62,7 +62,7 @@ ChatGPT — Introducing ChatGPT Sites in public beta: To create a Site, start in
 <!-- chronolog:begin region="evidence" -->
 > To create a Site, start in ChatGPT Work on the web or in Work or Codex in the ChatGPT desktop app. Describe what you want to build, add any relevant content, files, data, links, or constraints, and review the private preview before publishing.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-sites-in-public-beta
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

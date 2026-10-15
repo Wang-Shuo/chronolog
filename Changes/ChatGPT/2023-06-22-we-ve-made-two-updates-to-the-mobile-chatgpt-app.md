@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 11b16edee7edda331a0357b8badd29eca759d27e551ee4de4e2258cdc749eedd
+machine_hash: 20b192daea90c3e45349f8ec839acebc5d6c39549f6dba4eab688a4fcad5ab86
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,7 +24,7 @@ record:
     the mobile ChatGPT app:'
   evidence:
   - quote: 'We’ve made two updates to the mobile ChatGPT app:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-and-search-on-mobile
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -55,7 +55,7 @@ ChatGPT — Browsing and search on mobile: We’ve made two updates to the mobil
 <!-- chronolog:begin region="evidence" -->
 > We’ve made two updates to the mobile ChatGPT app:
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-and-search-on-mobile
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

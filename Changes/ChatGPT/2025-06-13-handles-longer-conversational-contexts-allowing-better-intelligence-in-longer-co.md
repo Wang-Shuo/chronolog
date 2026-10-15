@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: febba5619aa4627654dc16310300128bdb7365e9a3bbcbcd2ca4456b51d52eb1
+machine_hash: 40262b157a37b111961208e627d3439e08031d354a2b32cb6433ceb443f3a0f8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Handles longer conversational contexts, allowing better intelligence in
       longer conversations.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-the-chatgpt-search-response-quality
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -60,7 +60,7 @@ ChatGPT — Improvements to the ChatGPT search response quality: Handles longer 
 <!-- chronolog:begin region="evidence" -->
 > Handles longer conversational contexts, allowing better intelligence in longer conversations.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-the-chatgpt-search-response-quality
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

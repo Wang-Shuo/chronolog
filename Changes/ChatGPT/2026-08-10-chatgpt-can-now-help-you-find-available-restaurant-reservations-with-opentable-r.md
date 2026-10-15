@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: aa0a1f3b52c24ab108f1aebcf381aeca3530f8ddeca7a6979b13e60676c5d250
+machine_hash: e99c2547d922b767586e7d1d458e215dfca2c5f40e1cd4e3d79c113657cff41d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,7 +40,7 @@ record:
       across all ChatGPT plans on mobile, web, and desktop. Reservations are available
       globally with OpenTable and in the US with Resy and in the US and Canada with
       Yelp. ChatGPT Work does not include restaurant reservation search.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#restaurant-reservations-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -71,7 +71,7 @@ ChatGPT — Restaurant reservations in ChatGPT: ChatGPT can now help you find av
 <!-- chronolog:begin region="evidence" -->
 > ChatGPT can now help you find available restaurant reservations with OpenTable, Resy, and Yelp.Ask in the chat and include where and when you’d like to eat, your party size, and any preferences, such as cuisine, budget, dietary needs, or atmosphere. You’ll see available reservation times directly in the response. You can also ask follow-up questions to narrow your options or check a specific restaurant. When you find a time that works, select it to book it.Rolling out across all ChatGPT plans on mobile, web, and desktop. Reservations are available globally with OpenTable and in the US with Resy and in the US and Canada with Yelp. ChatGPT Work does not include restaurant reservation search.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#restaurant-reservations-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

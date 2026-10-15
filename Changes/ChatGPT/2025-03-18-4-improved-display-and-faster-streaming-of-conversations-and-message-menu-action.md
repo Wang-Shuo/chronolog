@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 782acaa235f64cbe8415d4c3a2b81d358e11a125c844fa82db8e72a081924c25
+machine_hash: cd45e3cc3054eefe2e7626a73203265426d0bd3e81e4d0c0f13059fea64e7768
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: 4⁠. Improved display and faster streaming of conversations and message
       menu actions.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ios-app
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -68,7 +68,7 @@ ChatGPT — iOS App: 4⁠. Improved display and faster streaming of conversation
 <!-- chronolog:begin region="evidence" -->
 > 4⁠. Improved display and faster streaming of conversations and message menu actions.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ios-app
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

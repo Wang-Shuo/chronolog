@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2026-09-29'
-machine_hash: a5d5cce11bc2695e08a8df548a8beff34264f4d821dd30f0c72965b5033edc8d
+machine_hash: 52547435bf26a723d2f0b7320470291f8a0c86cf1be4754e68c7db3edb3e4da8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -15,13 +15,13 @@ record:
     GPT-6 Astra. It uses your included allowance first, then your credit balance after
     that…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#a-new-pro-plan-with-astra-ultrafast
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: A new Pro plan with Astra Ultrafast
   version: A new Pro plan with Astra Ultrafast
 release_id: chatgpt-2026-09-29-a-new-pro-plan-with-astra-ultrafast-f0c84e90
 source_release: A new Pro plan with Astra Ultrafast
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#a-new-pro-plan-with-astra-ultrafast
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: A new Pro plan with Astra Ultrafast
 <!-- chronolog:begin region="summary" -->
 We’re introducing Pro 500, a new $500/month plan with the highest included usage of the Pro plans and access to Astra Ultrafast in ChatGPT Work and Codex. Select Ultrafast in the model picker to use a faster service tier for GPT-6 Astra. It uses your included allowance first, then your credit balance after that…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#a-new-pro-plan-with-astra-ultrafast)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 2
 <!-- chronolog:end -->

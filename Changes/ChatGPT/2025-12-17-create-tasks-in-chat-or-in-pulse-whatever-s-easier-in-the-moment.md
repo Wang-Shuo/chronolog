@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 435b874494dba6bd401d5e127d301b6ba661773fa595ceedc8634a15f9879e8f
+machine_hash: 56c58a3046d64e23aa3c689c2e6a684732c67c480b96b5942629712ffe139f51
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,7 +24,7 @@ record:
     easier in the moment.'
   evidence:
   - quote: Create tasks in chat or in Pulse—whatever’s easier in the moment.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#tasks-are-now-in-pulse
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -55,7 +55,7 @@ ChatGPT — Tasks are now in Pulse: Create tasks in chat or in Pulse—whatever�
 <!-- chronolog:begin region="evidence" -->
 > Create tasks in chat or in Pulse—whatever’s easier in the moment.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#tasks-are-now-in-pulse
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

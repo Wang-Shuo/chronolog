@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 097b7dc04496264596aa43bfea4af8917d84337219ba63409637530d3d0a7c09
+machine_hash: aa03d115228338740d1066d1e4a992ba1e5bd300adaaf596768ed520b7c348ed
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       It is also gradually rolling out to Plus and Pro users, except for those in
       the EEA, Switzerland, and the UK. Enterprise user access will be announced at
       a later date.See: Connect apps to ChatGPT deep research'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#dropbox-connector-for-deep-research-for-plusproteam
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -81,7 +81,7 @@ ChatGPT — Dropbox connector for deep research for Plus/Pro/Team: ChatGPT deep 
 <!-- chronolog:begin region="evidence" -->
 > ChatGPT deep research with Dropbox is available globally to Team users. It is also gradually rolling out to Plus and Pro users, except for those in the EEA, Switzerland, and the UK. Enterprise user access will be announced at a later date.See: Connect apps to ChatGPT deep research
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#dropbox-connector-for-deep-research-for-plusproteam
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

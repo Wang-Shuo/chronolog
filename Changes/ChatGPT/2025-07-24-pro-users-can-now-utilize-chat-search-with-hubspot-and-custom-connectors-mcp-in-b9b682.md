@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: a5e45cc888a2efe0d0ddfb8f5004583125148c5105f93219148bdb5b920eab74
+machine_hash: d1c3386c54f0ea16b483868bede8d833afe432b77a8f53a2224ff9500dc99350
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       (MCP) in addition to deep research.Note this feature is currently limited to
       users located outside of the EEA, Switzerland, and the UK.Learn more about connectors,
       as well as how to create a custom connector using MCP.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chat-search-for-hubspot-and-custom-connectors-mcp-pro
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -74,7 +74,7 @@ ChatGPT — Chat search for HubSpot and custom connectors (MCP) (Pro): Pro users
 <!-- chronolog:begin region="evidence" -->
 > Pro users can now utilize chat search with HubSpot and custom connectors (MCP) in addition to deep research.Note this feature is currently limited to users located outside of the EEA, Switzerland, and the UK.Learn more about connectors, as well as how to create a custom connector using MCP.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chat-search-for-hubspot-and-custom-connectors-mcp-pro
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

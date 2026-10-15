@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 2bef0c28819550bed09766109a7d1e87a1ca297d80ccd4befc41b4605ec8d868
+machine_hash: 50fa3041014330943e1a23f5a9f8f08344e3d7244ee5807775091c9939181935
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
   - quote: 'Non-personalized: By default, temporary chats are not personalized. Non-personalized
       temporary chats do not use memory, custom instructions, or plugins, and they
       do not create new memories.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-controls-in-temporary-chat
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -71,7 +71,7 @@ ChatGPT — More controls in temporary chat: Non-personalized: By default, tempo
 <!-- chronolog:begin region="evidence" -->
 > Non-personalized: By default, temporary chats are not personalized. Non-personalized temporary chats do not use memory, custom instructions, or plugins, and they do not create new memories.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-controls-in-temporary-chat
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: bd0f8c8544d14c179ce3750cecc6e20a40d2a7e8d4e9bac7c8be2bc1a1667556
+machine_hash: 6d5b153bcc3e845a992930d0a4cb33dfe6bb16b6e454f526ac9ead484ebce4b0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: Bring your browser into Work and Codex. Mention open tabs to use them as
       context, or ask ChatGPT to complete a browser task from the desktop app.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-the-browser-extension-in-more-browsers
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -68,7 +68,7 @@ ChatGPT — Use the browser extension in more browsers: Bring your browser into 
 <!-- chronolog:begin region="evidence" -->
 > Bring your browser into Work and Codex. Mention open tabs to use them as context, or ask ChatGPT to complete a browser task from the desktop app.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-the-browser-extension-in-more-browsers
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

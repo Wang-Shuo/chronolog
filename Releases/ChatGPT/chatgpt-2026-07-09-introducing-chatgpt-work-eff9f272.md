@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2026-07-09'
-machine_hash: 36cf01d4eb1e66ed8807bcbb25fe5213faef1397622f8dc6a5fc6e8469462443
+machine_hash: af3e7f4a7f4634dfe46802250e4f1cbbbf6d43d99ea1ff3dc98481e281749ba8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -15,13 +15,13 @@ record:
     its progress, answer questions, change direction, and approve important actions
     as it…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-work
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Introducing ChatGPT Work
   version: Introducing ChatGPT Work
 release_id: chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272
 source_release: Introducing ChatGPT Work
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-work
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Introducing ChatGPT Work
 <!-- chronolog:begin region="summary" -->
 ChatGPT Work is an agent for longer, more involved tasks. It can research and analyze information, work across connected apps and files, and create finished documents, spreadsheets, presentations, reports, and Sites. You can follow its progress, answer questions, change direction, and approve important actions as it…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-work)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 5
 <!-- chronolog:end -->

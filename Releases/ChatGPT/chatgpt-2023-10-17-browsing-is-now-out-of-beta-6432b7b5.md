@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-10-17'
-machine_hash: 214fd7e6fd2e29d0f827c3b81c3633a736c4019922a7e7c91fd288ba543e1653
+machine_hash: a52fe332944c998eca581f28774f09c9e5a30370c385a1eac92e80ac77e73517
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -13,13 +13,13 @@ record:
     beta.Plus and Enterprise users no longer need to switch the beta toggle to use
     browse, and are able to choose "Browse with Bing" from the GPT-4 model selector.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-is-now-out-of-beta
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Browsing is now out of beta
   version: Browsing is now out of beta
 release_id: chatgpt-2023-10-17-browsing-is-now-out-of-beta-6432b7b5
 source_release: Browsing is now out of beta
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-is-now-out-of-beta
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -33,7 +33,7 @@ version: Browsing is now out of beta
 <!-- chronolog:begin region="summary" -->
 Browsing, which we re-launched a few weeks ago, is moving out of beta.Plus and Enterprise users no longer need to switch the beta toggle to use browse, and are able to choose "Browse with Bing" from the GPT-4 model selector.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-is-now-out-of-beta)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 1
 <!-- chronolog:end -->

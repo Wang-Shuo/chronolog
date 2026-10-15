@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 976cfd1de764bb5af1a8203b6b4509bad5f9acb39986044952d667426d9f5642
+machine_hash: 7c2eea1f91ed44e081a5b6c853a627847e63a605dbc061d02ea3eeb0bdd59ff8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   evidence:
   - quote: Quick tools in the composer. A new quick-tools menu in the message composer
       makes common actions easier to access.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-updates-better-file-uploads-easier-copying-and-more-reliable-long-chats
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -61,7 +61,7 @@ ChatGPT — ChatGPT updates: Better file uploads, easier copying, and more relia
 <!-- chronolog:begin region="evidence" -->
 > Quick tools in the composer. A new quick-tools menu in the message composer makes common actions easier to access.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-updates-better-file-uploads-easier-copying-and-more-reliable-long-chats
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

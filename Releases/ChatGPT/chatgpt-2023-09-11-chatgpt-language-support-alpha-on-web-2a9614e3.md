@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2023-09-11'
-machine_hash: 80cd31a7f5698f0f22edb42bf9253bcb09e4f08fd4ddfe75eea6b14f31217ab9
+machine_hash: bb1393487403b752e99e8936651eb1d15f0ec71570825a55e94ae3646876d671
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -11,13 +11,13 @@ record:
   release_id: chatgpt-2023-09-11-chatgpt-language-support-alpha-on-web-2a9614e3
   source_summary: 'ChatGPT now supports a limited selection of languages in the interface:'
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-language-support-alpha-on-web
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: ChatGPT language support - Alpha on web
   version: ChatGPT language support - Alpha on web
 release_id: chatgpt-2023-09-11-chatgpt-language-support-alpha-on-web-2a9614e3
 source_release: ChatGPT language support - Alpha on web
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-language-support-alpha-on-web
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -31,7 +31,7 @@ version: ChatGPT language support - Alpha on web
 <!-- chronolog:begin region="summary" -->
 ChatGPT now supports a limited selection of languages in the interface:
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-language-support-alpha-on-web)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 2
 <!-- chronolog:end -->

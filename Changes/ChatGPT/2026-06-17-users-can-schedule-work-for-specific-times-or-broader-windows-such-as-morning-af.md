@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 26b905413af2fa773ef6403344128af7fbc240a96b15e92d6362c29559243faf
+machine_hash: af815908daf8ad1a94b75559676b18bd53ec3e3035d417ef51576862d45176c2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Users can schedule work for specific times or broader windows, such as
       morning, afternoon, or evening.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -58,7 +58,7 @@ ChatGPT — Scheduled tasks in ChatGPT: Users can schedule work for specific tim
 <!-- chronolog:begin region="evidence" -->
 > Users can schedule work for specific times or broader windows, such as morning, afternoon, or evening.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

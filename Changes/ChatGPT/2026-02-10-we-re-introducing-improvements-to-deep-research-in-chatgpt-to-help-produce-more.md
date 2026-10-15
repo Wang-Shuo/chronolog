@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: ff954a84257b254a9e19602b4f6baba2ea24641c1af29977f21399055e298951
+machine_hash: 0eaeb002d366043e81833900e23aeb58eb98524a2630379ad362884761e37ca1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,7 +35,7 @@ record:
       start, review, and manage research in one place. Create and edit a research
       plan before it begins, and track progress with the ability to adjust direction
       mid-run.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-deep-research
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -82,7 +82,7 @@ ChatGPT — Updates to deep research: We’re introducing improvements to deep r
 <!-- chronolog:begin region="evidence" -->
 > We’re introducing improvements to deep research in ChatGPT to help produce more accurate, credible reports with greater control. You can now focus research on specific websites and a larger collection of connected apps as trusted sources. A redesigned sidebar entry point and fullscreen report view make it easier to start, review, and manage research in one place. Create and edit a research plan before it begins, and track progress with the ability to adjust direction mid-run.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-deep-research
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: b2296de7fac83c6a2073f69221871ab61a8fb973dde23f2b0cc5a5fea762e5cb
+machine_hash: 5f5ac52db3634d9443709e51b7c7a31dacd7de537f9a8157c99252e735ba7b1d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,7 +38,7 @@ record:
       users to learn and continue refining the experience. At launch, Health is available
       on web and iOS, with Android coming soon to ChatGPT Free, Go, Plus, and Pro
       users in supported countries (excluding the EEA, Switzerland, and the UK).
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#health-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -79,7 +79,7 @@ ChatGPT — Health in ChatGPT: Health appears as a new space in the ChatGPT side
 <!-- chronolog:begin region="evidence" -->
 > Health appears as a new space in the ChatGPT sidebar. If you ask a health-related question in a regular chat, ChatGPT may also suggest continuing in Health. If you’re interested in getting access as it becomes available, you can sign up for the waitlist. We’re starting by providing access to a small group of early users to learn and continue refining the experience. At launch, Health is available on web and iOS, with Android coming soon to ChatGPT Free, Go, Plus, and Pro users in supported countries (excluding the EEA, Switzerland, and the UK).
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#health-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: e6fe73bad3b54c3e02a3b92bcc000d6cf258e3482a4ba62862b5601879086d85
+machine_hash: 7679d0bba7dc841ec81fae9fa8b41d7e57416c60f46fbfc2fdd5b84bcbe2dce5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: 'Canvas shortcut: You can now paste content into ChatGPT and instantly
       open it in canvas via a shortcut in the upper right corner of the composer.⁠'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#canvas
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -59,7 +59,7 @@ ChatGPT — Canvas: Canvas shortcut: You can now paste content into ChatGPT and 
 <!-- chronolog:begin region="evidence" -->
 > Canvas shortcut: You can now paste content into ChatGPT and instantly open it in canvas via a shortcut in the upper right corner of the composer.⁠
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#canvas
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

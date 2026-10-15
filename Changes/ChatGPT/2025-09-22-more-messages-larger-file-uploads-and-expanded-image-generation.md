@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 7dca5219340227acff8e8663f82c7116da31c0249690e678d73719d3662f1750
+machine_hash: 340e8b1ef04b6c69630c813db164908c56a8f1220bd5061df64058c6b00c76fa
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
     file uploads, and expanded image generation'
   evidence:
   - quote: More messages, larger file uploads, and expanded image generation
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-now-available-in-indonesia
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -57,7 +57,7 @@ ChatGPT — ChatGPT Go now available in Indonesia: More messages, larger file up
 <!-- chronolog:begin region="evidence" -->
 > More messages, larger file uploads, and expanded image generation
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-now-available-in-indonesia
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

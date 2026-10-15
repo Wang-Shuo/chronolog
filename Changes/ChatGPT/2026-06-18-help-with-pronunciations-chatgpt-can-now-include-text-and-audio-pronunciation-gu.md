@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: aeedd3c348603559e31fef108919d622741baa4f99a1a8762451e1e150fed21a
+machine_hash: d72421dc140830080d57faac62cab12c105b82c35d096287ce4c0a5ffd3f8817
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: 'Help with pronunciations: ChatGPT can now include text and audio pronunciation
       guidance for words in more than 60 languages. Ask how to pronounce a word and
       ChatGPT can explain it with both audio and text in the conversation.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -61,7 +61,7 @@ ChatGPT — ChatGPT app experience updates: Help with pronunciations: ChatGPT ca
 <!-- chronolog:begin region="evidence" -->
 > Help with pronunciations: ChatGPT can now include text and audio pronunciation guidance for words in more than 60 languages. Ask how to pronounce a word and ChatGPT can explain it with both audio and text in the conversation.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

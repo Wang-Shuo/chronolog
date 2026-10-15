@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: f06f30b6b4b3300e22dd0f00eda5866b0a23de52f7e887151fd6c9d53259fa15
+machine_hash: 4e296f301223b951810ad39ab4badc12b2e335624e730e59804b7687d4d8ec05
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,7 +35,7 @@ record:
       unifying all users onto our latest voice experience.For paid users, Voice now
       adapts to your instructions, adjusting its speaking style (length, speed, tone,
       and more) to fit the moment.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-voice-updates
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -77,7 +77,7 @@ ChatGPT — ChatGPT Voice updates: Today we’re rolling out improvements to Voi
 <!-- chronolog:begin region="evidence" -->
 > Today we’re rolling out improvements to Voice Mode to make it more accessible and useful for everyone. It also now works with custom GPTs. We’re expanding access with near-unlimited use for Plus users and hours each day for Free users. To simplify the experience, Standard Voice Mode will be retired in 30 days, unifying all users onto our latest voice experience.For paid users, Voice now adapts to your instructions, adjusting its speaking style (length, speed, tone, and more) to fit the moment.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-voice-updates
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

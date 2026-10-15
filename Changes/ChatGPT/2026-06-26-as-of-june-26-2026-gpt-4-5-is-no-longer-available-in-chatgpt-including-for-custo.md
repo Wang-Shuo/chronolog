@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 508350e49d3988ce8340fd54f0a0fff6465887bcf78d2dae7f4f24757968e723
+machine_hash: 5a0cf09a683786dc9f0530a5b75f9f3ff482f3bff8e0e338e359c40b0c874ad3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       for custom GPTs. Existing conversations that used GPT-4.5 can continue with
       GPT-5.5.This retirement was previously announced on May 28, 2026. It applies
       to ChatGPT only; there are no changes to the API.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-gpt-45
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -64,7 +64,7 @@ ChatGPT — Retiring GPT-4.5: As of June 26, 2026, GPT-4.5 is no longer availabl
 <!-- chronolog:begin region="evidence" -->
 > As of June 26, 2026, GPT-4.5 is no longer available in ChatGPT, including for custom GPTs. Existing conversations that used GPT-4.5 can continue with GPT-5.5.This retirement was previously announced on May 28, 2026. It applies to ChatGPT only; there are no changes to the API.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-gpt-45
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

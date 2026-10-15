@@ -1,8 +1,8 @@
 ---
 created: '2023-09-08'
-date: '2026-09-29'
-machine_hash: b5c737b5840a1da7d91821418814adf99472c3c85c974dd745d5a2da1d9e9bd5
-modified: '2026-09-29'
+date: '2026-10-13'
+machine_hash: 614cb27f2eae8e6d4b97b6c4dad056416b3d4a3b0207ac2fa896cf5d69dfb36d
+modified: '2026-10-13'
 products_involved:
 - ChatGPT
 - Claude Code
@@ -29,6 +29,7 @@ Scope: tracked-products-only. Entries show same-theme chronology; they do not es
 
 ### 2026
 
+- 2026-10-13 · Cursor: [[Changes/Cursor/2026-10-13-starting-today-the-marketplace-is-also-open-to-public-submissions-so-any-team-bu|Starting today, the marketplace is also open to public submissions, so any team]]
 - 2026-09-29 · ChatGPT: [[Changes/ChatGPT/2026-09-29-your-chatgpt-profile-now-brings-together-your-bio-activity-and-sites-you-choose|Your ChatGPT profile now brings together your bio, activity, and Sites you choos]]
 - 2026-09-29 · ChatGPT: [[Changes/ChatGPT/2026-09-29-space-brings-your-pages-files-and-related-work-together-in-chatgpt-create-a-spac|Space brings your Pages, files, and related work together in ChatGPT. Create a s]]
 - 2026-09-17 · ChatGPT: [[Changes/ChatGPT/2026-09-17-chatgpt-for-word-is-available-on-all-chatgpt-plans-including-free-your-plan-s-to|ChatGPT for Word is available on all ChatGPT plans, including Free. Your plan’s]]
@@ -88,5 +89,5 @@ Scope: tracked-products-only. Entries show same-theme chronology; they do not es
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-Active changes: 46. Use the dated links above to inspect each card.
+Active changes: 47. Use the dated links above to inspect each card.
 <!-- chronolog:end -->

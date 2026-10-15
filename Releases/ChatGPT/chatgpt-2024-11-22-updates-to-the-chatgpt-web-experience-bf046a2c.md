@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2024-11-22'
-machine_hash: 8f106071abafbe74ba11acd681b9ac8dc2de3fe3cddfa5e70e52e8e2071a0afd
+machine_hash: 659039a2105240bc8f7cdecf79327f6bae685ee8ac2d90f8145b393ef5b10547
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -12,13 +12,13 @@ record:
   source_summary: We are rolling out the following updates over the next two weeks
     to all ChatGPT users.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-chatgpt-web-experience
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Updates to the ChatGPT Web experience
   version: Updates to the ChatGPT Web experience
 release_id: chatgpt-2024-11-22-updates-to-the-chatgpt-web-experience-bf046a2c
 source_release: Updates to the ChatGPT Web experience
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-chatgpt-web-experience
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -32,7 +32,7 @@ version: Updates to the ChatGPT Web experience
 <!-- chronolog:begin region="summary" -->
 We are rolling out the following updates over the next two weeks to all ChatGPT users.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-chatgpt-web-experience)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 3
 <!-- chronolog:end -->

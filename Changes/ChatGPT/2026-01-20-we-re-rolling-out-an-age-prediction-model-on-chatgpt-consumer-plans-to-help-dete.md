@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 4a51b49051ac0b51d016d1b966fa67ccbfbe8b025c55217241a9f74df656c035
+machine_hash: 112e4ae5972d7e0f7cde23667975a4485b7ce3c8a4465f6b61ea0371487c78e2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,7 +41,7 @@ record:
       by mistake, they can quickly verify their age with a selfie through Persona,
       a verification service available in Settings > Account. Users can check whether
       safeguards have been added and verify at any time.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#rolling-out-age-prediction
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -84,7 +84,7 @@ ChatGPT — Rolling out age prediction: We're rolling out an age prediction mode
 <!-- chronolog:begin region="evidence" -->
 > We're rolling out an age prediction model on ChatGPT consumer plans to help determine whether an account likely belongs to someone under 18, so we can apply the right experience and safeguards for teens. The model looks at a combination of behavioral and account-level signals, including how long an account has existed, typical times of day when someone is active, usage patterns over time, and a user’s stated age.If an adult is placed in the under-18 experience by mistake, they can quickly verify their age with a selfie through Persona, a verification service available in Settings > Account. Users can check whether safeguards have been added and verify at any time.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#rolling-out-age-prediction
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

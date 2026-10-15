@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 5825e7c9d85a85b24324e069e278dc731db10315750052dcaa462cd91eb15589
+machine_hash: d45459e15b8a202230efdd5b3c4a917a1b93a0df55c4cf88ac2563742a1d6e41
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
     file uploads, and expanded image generation'
   evidence:
   - quote: More messages, larger file uploads, and expanded image generation
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-now-available-in-brazil
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -57,7 +57,7 @@ ChatGPT — ChatGPT Go now available in Brazil: More messages, larger file uploa
 <!-- chronolog:begin region="evidence" -->
 > More messages, larger file uploads, and expanded image generation
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-now-available-in-brazil
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

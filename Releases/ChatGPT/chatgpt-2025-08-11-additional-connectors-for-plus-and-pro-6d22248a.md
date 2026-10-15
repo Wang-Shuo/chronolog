@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2025-08-11'
-machine_hash: 88eba3b054cb0142d61f4e1b31a30c21c41721fe2a30e3004dda4d5e24b6e196
+machine_hash: 91c8b0fd545ede1ee1284fb0fb6f66dd664bff835843ed9a37277e6eb85fa91c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -13,13 +13,13 @@ record:
     in chat.The following connectors are now available to search by chat in addition
     to deep research.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#additional-connectors-for-plus-and-pro
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Additional connectors for Plus and Pro
   version: Additional connectors for Plus and Pro
 release_id: chatgpt-2025-08-11-additional-connectors-for-plus-and-pro-6d22248a
 source_release: Additional connectors for Plus and Pro
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#additional-connectors-for-plus-and-pro
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -33,7 +33,7 @@ version: Additional connectors for Plus and Pro
 <!-- chronolog:begin region="summary" -->
 Now connect even more tools in ChatGPT for useful, relevant responses in chat.The following connectors are now available to search by chat in addition to deep research.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#additional-connectors-for-plus-and-pro)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 3
 <!-- chronolog:end -->

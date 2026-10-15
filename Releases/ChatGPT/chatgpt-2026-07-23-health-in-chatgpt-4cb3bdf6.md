@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2026-07-23'
-machine_hash: 5a106e0871936235e2510c1cc1769ce7959f513e042aa2a9b1720ded75dca745
+machine_hash: e99875c64a505a5cbb6281a411eabd562cd804c239643022caa9b3ad4d761ce1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -14,13 +14,13 @@ record:
     connect supported health records and Apple Health data, see a dashboard of their
     health information, and ask questions grounded in their personal health context.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#health-in-chatgpt
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Health in ChatGPT
   version: Health in ChatGPT
 release_id: chatgpt-2026-07-23-health-in-chatgpt-4cb3bdf6
 source_release: Health in ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#health-in-chatgpt
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Health in ChatGPT
 <!-- chronolog:begin region="summary" -->
 We’re starting to roll out a new health experience in ChatGPT. Logged-in Free, Go, Plus, and Pro users in the United States who are 18 or older can securely connect supported health records and Apple Health data, see a dashboard of their health information, and ask questions grounded in their personal health context.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#health-in-chatgpt)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 3
 <!-- chronolog:end -->

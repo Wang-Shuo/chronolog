@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 188050cbe0d9b2e6aff6a6fd033cbf350b37d478f195653524e51413d0cebce3
+machine_hash: a3076a89698ff3dcb5a00ed13f24c2ea339539d899b9abb95a08f492635ba043
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       in the EEA, Switzerland, and the United Kingdom for Pro users in the ChatGPT
       desktop app on macOS. It is off by default and requires Memories. Learn more
       about Computer History.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#codex-and-chatgpt-feature-updates
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -72,7 +72,7 @@ ChatGPT — Codex and ChatGPT feature updates: Use Computer History in more regi
 <!-- chronolog:begin region="evidence" -->
 > Use Computer History in more regions. Computer History is now available in the EEA, Switzerland, and the United Kingdom for Pro users in the ChatGPT desktop app on macOS. It is off by default and requires Memories. Learn more about Computer History.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#codex-and-chatgpt-feature-updates
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

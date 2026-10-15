@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2026-03-17'
-machine_hash: eac705b2967cd8585a6fd9d9231d3c092840be010fe3ca2fa9bc543354006fc9
+machine_hash: 018c5a2e3ebc10e263b3009a050f7b3dd35b979ccf5654131c17c8477e6946ca
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -13,13 +13,13 @@ record:
     right level of reasoning.Users on Plus, Pro, Business, Enterprise, and Edu accounts
     will see a set of model options depending on their plan, including:'
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-model-picker-in-chatgpt
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Updates to the model picker in ChatGPT
   version: Updates to the model picker in ChatGPT
 release_id: chatgpt-2026-03-17-updates-to-the-model-picker-in-chatgpt-764a9949
 source_release: Updates to the model picker in ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-model-picker-in-chatgpt
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -33,7 +33,7 @@ version: Updates to the model picker in ChatGPT
 <!-- chronolog:begin region="summary" -->
 We’ve simplified the model picker to make it easier to choose the right level of reasoning.Users on Plus, Pro, Business, Enterprise, and Edu accounts will see a set of model options depending on their plan, including:
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-model-picker-in-chatgpt)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 5
 <!-- chronolog:end -->

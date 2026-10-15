@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 77cc14818cf11d767380134f5e3eda4424d94349d2e0a85791b60203bc1b80d5
+machine_hash: 1c4e7b94814beafdf422176c4a81b2776f610a78f5cbade3c8f25672fce7f36e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
     and expanded image generation'
   evidence:
   - quote: More messages, larger file uploads, and expanded image generation
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-go
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -57,7 +57,7 @@ ChatGPT — Introducing ChatGPT Go: More messages, larger file uploads, and expa
 <!-- chronolog:begin region="evidence" -->
 > More messages, larger file uploads, and expanded image generation
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-go
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

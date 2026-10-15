@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 7f1bc9dbaf26c55b4071c80fbe690d8704cab37f0ae06f7912b709e1efb0b54e
+machine_hash: 038f2da98a7edb6b154e58437f2cdff95236302783ddcec35d1c289cd0f724df
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: We’ve updated the ChatGPT desktop app to make it easier to choose between
       Chat and Work, find your conversations and Projects, and continue Work across
       devices. These updates are now live for all plans on macOS and Windows.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-desktop-app-experience-updates
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -61,7 +61,7 @@ ChatGPT — ChatGPT desktop app experience updates: We’ve updated the ChatGPT 
 <!-- chronolog:begin region="evidence" -->
 > We’ve updated the ChatGPT desktop app to make it easier to choose between Chat and Work, find your conversations and Projects, and continue Work across devices. These updates are now live for all plans on macOS and Windows.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-desktop-app-experience-updates
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

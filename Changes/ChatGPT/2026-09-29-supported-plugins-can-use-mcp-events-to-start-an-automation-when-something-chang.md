@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: bb83ad5d70760d04104c8c2102c758f87b2ce18ef132b35889a33e16804c83f4
+machine_hash: a86fbc8f95ac28907cfd77c7404b4bf5e5b8701908a5b2ff2402596276d79031
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
       changes in a connected app. Describe what you want ChatGPT to follow and what
       it should do with matching updates—for example, prepare a summary when new information
       arrives in a channel you have asked it to monitor.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#start-automations-from-connected-app-events
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -75,7 +75,7 @@ ChatGPT — Start automations from connected-app events: Supported plugins can u
 <!-- chronolog:begin region="evidence" -->
 > Supported plugins can use MCP events to start an automation when something changes in a connected app. Describe what you want ChatGPT to follow and what it should do with matching updates—for example, prepare a summary when new information arrives in a channel you have asked it to monitor.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#start-automations-from-connected-app-events
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

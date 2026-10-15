@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-07-14'
-machine_hash: 7c450dcd9509742df7883111ce993bacbe74219cf63c66736a8be20d91eb61fa
+machine_hash: d60fa1be0be26fc159438a5c49fda5bb533fec461aa280e915b812708b7df271
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -15,13 +15,13 @@ record:
     sidebar to find what you need across everything, or use filters to narrow results
     by…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#search-across-chats-projects-and-files-is-now-supercharged
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Search across chats, projects, and files is now supercharged.
   version: Search across chats, projects, and files is now supercharged.
 release_id: chatgpt-2026-07-14-search-across-chats-projects-and-files-is-now-supercharged-90a28571
 source_release: Search across chats, projects, and files is now supercharged.
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#search-across-chats-projects-and-files-is-now-supercharged
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Search across chats, projects, and files is now supercharged.
 <!-- chronolog:begin region="summary" -->
 We’ve rolled out a new way to search your chats, projects, images, and documents in ChatGPT on web, iOS, and Android. You can quickly find past chats, projects, images, and documents from one place.Start searching from the ChatGPT sidebar to find what you need across everything, or use filters to narrow results by…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#search-across-chats-projects-and-files-is-now-supercharged)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 1
 <!-- chronolog:end -->

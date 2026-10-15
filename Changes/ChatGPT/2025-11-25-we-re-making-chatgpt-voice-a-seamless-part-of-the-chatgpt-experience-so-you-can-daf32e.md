@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 3f788cee72543899c970155bab6ba25c36abbf4c2274363f3728e2f2eef78cc1
+machine_hash: 2c9d7162a2b7f2c2e82434fe42de274baff8d2af7caaeed362c96b7c8e3d26ff
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,7 +38,7 @@ record:
       etc.) and more—right in the same chat thread.This makes voice chats clearer,
       richer and more contextual by pairing spoken answers with visual context. You
       can:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#an-improved-voice-interface-the-audio-you-know-with-text-and-visuals-when-you-need-them
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -85,7 +85,7 @@ ChatGPT — An improved Voice interface: the audio you know, with text and visua
 <!-- chronolog:begin region="evidence" -->
 > We’re making ChatGPT Voice a seamless part of the ChatGPT experience, so you can use voice right inside the chat interface you already use every day—no separate mode required.Many of you have asked for a more flexible Voice experience—now, you can speak, listen, and see your conversation at the same time. Answers will be spoken alongside streamed text, image search results, widgets (maps, weather, etc.) and more—right in the same chat thread.This makes voice chats clearer, richer and more contextual by pairing spoken answers with visual context. You can:
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#an-improved-voice-interface-the-audio-you-know-with-text-and-visuals-when-you-need-them
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

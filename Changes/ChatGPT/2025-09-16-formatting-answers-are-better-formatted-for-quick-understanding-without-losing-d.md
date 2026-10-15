@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 88e319bfd65b03c696635824c8d7aaec307d703ce7ba0b7ab67fa519670b8c56
+machine_hash: 1912e5f56c345f22c31a90fc1c56d20347f982a79cd038cd59b42b96b168afc2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: 'Formatting: Answers are better formatted for quick understanding without
       losing detail or quality.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-search-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -59,7 +59,7 @@ ChatGPT — Improvements to search in ChatGPT: Formatting: Answers are better fo
 <!-- chronolog:begin region="evidence" -->
 > Formatting: Answers are better formatted for quick understanding without losing detail or quality.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-search-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

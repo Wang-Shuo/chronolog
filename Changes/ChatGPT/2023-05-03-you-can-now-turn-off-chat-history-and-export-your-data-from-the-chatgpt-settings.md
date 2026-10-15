@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 86420092c665da221b992ada092e4c2b51e92876a996bf1b5de3d69c1a789e08
+machine_hash: 58392ad4113c8ba6762255466ea34006ecddd63fbe4c18d32dcb2978bfc7e9e2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: You can now turn off chat history and export your data from the ChatGPT
       settings. Conversations that are started when chat history is disabled won’t
       be used to train and improve our models, and won’t appear in the history sidebar.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -69,7 +69,7 @@ ChatGPT — Updates to ChatGPT: You can now turn off chat history and export you
 <!-- chronolog:begin region="evidence" -->
 > You can now turn off chat history and export your data from the ChatGPT settings. Conversations that are started when chat history is disabled won’t be used to train and improve our models, and won’t appear in the history sidebar.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

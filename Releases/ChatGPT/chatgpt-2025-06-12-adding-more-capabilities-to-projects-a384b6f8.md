@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2025-06-12'
-machine_hash: 6fc7f951f14ed3c7769c3a2e3af84ee385f47eb438802d714c8ec718692951a9
+machine_hash: c6b03615257701b241da09e27a8937554324e5ab8e58a9f465f10c7f98c39a19
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -13,13 +13,13 @@ record:
     to help you do more focused work. These updates are available for Plus, Pro, and
     Team users.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#adding-more-capabilities-to-projects
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Adding More Capabilities to Projects
   version: Adding More Capabilities to Projects
 release_id: chatgpt-2025-06-12-adding-more-capabilities-to-projects-a384b6f8
 source_release: Adding More Capabilities to Projects
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#adding-more-capabilities-to-projects
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -33,7 +33,7 @@ version: Adding More Capabilities to Projects
 <!-- chronolog:begin region="summary" -->
 Starting today, we’re adding several updates to projects in ChatGPT to help you do more focused work. These updates are available for Plus, Pro, and Team users.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#adding-more-capabilities-to-projects)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 5
 <!-- chronolog:end -->

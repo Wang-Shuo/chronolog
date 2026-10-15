@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: bc1137ae67f230ce20e68f39e6e6b6d80c0a05ce8cec726f17cf8a8fba0cc298
+machine_hash: 3b5478a37dda1d995b5912aa5e61c0bd9d4b6a80823f4bdb422838fa9cc6a834
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
       calls or shell input and output. Codex redacts known secret patterns, but users
       should review the snapshot because sensitive paths, diffs, images, or other
       content may remain. Learn more about sharing a Codex chat.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#codex-and-chatgpt-feature-updates
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -65,7 +65,7 @@ ChatGPT — Codex and ChatGPT feature updates: Share a read-only snapshot of a C
 <!-- chronolog:begin region="evidence" -->
 > Share a read-only snapshot of a Codex chat. Personal share links can be opened by anyone with the link. A snapshot is static and does not include tool calls or shell input and output. Codex redacts known secret patterns, but users should review the snapshot because sensitive paths, diffs, images, or other content may remain. Learn more about sharing a Codex chat.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#codex-and-chatgpt-feature-updates
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

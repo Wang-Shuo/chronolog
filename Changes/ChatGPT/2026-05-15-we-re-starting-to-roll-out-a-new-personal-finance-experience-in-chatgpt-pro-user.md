@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 900ab480efed3b3f5d7970d6a7d26fcec06448fdc7419fc3ff57ae3c44df71ee
+machine_hash: 27fb686f4a0d52949e825201d8adb8fc1da544a960fefaf1f25fe21034cf8514
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,7 +47,7 @@ record:
       users may not see it right away.ChatGPT can help users understand and plan,
       but it cannot move money, pay bills, place trades, file taxes, or act as a financial,
       legal, tax, or investment adviser.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#personal-finances-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -90,7 +90,7 @@ ChatGPT — Personal finances in ChatGPT: We’re starting to roll out a new per
 <!-- chronolog:begin region="evidence" -->
 > We’re starting to roll out a new personal finance experience in ChatGPT. Pro users in the United States can securely connect supported financial accounts, see a dashboard of where their money is going, and ask questions grounded in their financial context.Available on web and iOS, Finances lets you view spending, bills, subscriptions, net worth, and investment information in one place. You can ask questions directly in ChatGPT or use the Finances page to explore insights, review upcoming payments, track recurring charges, and think through budgets, savings goals, debt payoff, and other financial decisions.Users can connect accounts through Plaid. This experience is rolling out gradually, so some eligible users may not see it right away.ChatGPT can help users understand and plan, but it cannot move money, pay bills, place trades, file taxes, or act as a financial, legal, tax, or investment adviser.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#personal-finances-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

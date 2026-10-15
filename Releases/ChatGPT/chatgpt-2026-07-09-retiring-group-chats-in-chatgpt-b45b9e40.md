@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2026-07-09'
-machine_hash: 0f934b043e3f0abbb1792bb69652abe8a04c9bae43de3f9458c6b9bc907c2dcf
+machine_hash: 4fcb918c1fd71c816be099fce21e37af596e79e83048b07113e31c0a4d0ba18f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -13,13 +13,13 @@ record:
     be able to create new group chats, turn existing conversations into group chats,
     or join a group chat through an invite link.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-group-chats-in-chatgpt
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Retiring group chats in ChatGPT
   version: Retiring group chats in ChatGPT
 release_id: chatgpt-2026-07-09-retiring-group-chats-in-chatgpt-b45b9e40
 source_release: Retiring group chats in ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-group-chats-in-chatgpt
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -33,7 +33,7 @@ version: Retiring group chats in ChatGPT
 <!-- chronolog:begin region="summary" -->
 Beginning July 9, users on web, iOS, and Android will no longer be able to create new group chats, turn existing conversations into group chats, or join a group chat through an invite link.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-group-chats-in-chatgpt)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 2
 <!-- chronolog:end -->

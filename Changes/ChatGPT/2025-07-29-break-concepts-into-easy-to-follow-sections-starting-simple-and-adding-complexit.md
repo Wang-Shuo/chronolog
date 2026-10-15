@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: f1f1668ba9784035605405bc65664a18e9d2285b009947585cb520ea7021e8a5
+machine_hash: d890e0628c54b74457a2fe02381071417ab3525440748469543533e7fafc1233
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Break concepts into easy to follow sections starting simple and adding
       complexity as you progress.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#study-mode
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -54,7 +54,7 @@ ChatGPT — Study Mode: Break concepts into easy to follow sections starting sim
 <!-- chronolog:begin region="evidence" -->
 > Break concepts into easy to follow sections starting simple and adding complexity as you progress.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#study-mode
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

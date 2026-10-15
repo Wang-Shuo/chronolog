@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 4513d58a7ff481b0bbbb57ad7d113c79eaf9e28eb4e2464f1c5b693af949d12b
+machine_hash: 827c7485d192a2a232cd95f8a3005bbc65e12ee398ce5928f9e74eaf43a05745
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,7 +46,7 @@ record:
       is not available in ChatGPT Business, Enterprise, or Edu workspaces at launch.
       GPT-Live-1 does not support video or screen sharing at this time; eligible subscribers
       can continue using those capabilities with Advanced Voice Mode.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpt-live-1-in-chatgpt-voice
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -118,7 +118,7 @@ ChatGPT — Introducing GPT-Live-1 in ChatGPT Voice: We’re rolling out a new C
 <!-- chronolog:begin region="evidence" -->
 > We’re rolling out a new ChatGPT Voice experience. ChatGPT Voice is now powered by GPT-Live-1 for paid users and GPT-Live-1 mini for Free users. Both models can listen and speak at the same time, making turn-taking and interruptions feel more natural.GPT-Live-1 works inside a ChatGPT chat, with spoken responses appearing alongside streamed text. It can use web search and memory, show visual results through supported widgets, and work with text and images in the same conversation.GPT-Live-1 is rolling out across consumer plans, including Free, on chatgpt.com and the ChatGPT iOS and Android apps in supported regions. It is not available in ChatGPT Business, Enterprise, or Edu workspaces at launch. GPT-Live-1 does not support video or screen sharing at this time; eligible subscribers can continue using those capabilities with Advanced Voice Mode.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpt-live-1-in-chatgpt-voice
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

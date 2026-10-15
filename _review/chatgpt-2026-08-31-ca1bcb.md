@@ -1,6 +1,6 @@
 ---
 draft: true
-machine_hash: b2c3177eacf3c7d29bdb8e881e5996eccba7b13681c1ce6f7b2ae17b97f95f62
+machine_hash: 52486bc7a2a670509ad027dea530359d4b12edbcf9c988d05601cd0e048affdd
 product: chatgpt
 record:
   card_id: chatgpt-2026-08-31-ca1bcb
@@ -12,7 +12,7 @@ record:
   evidence:
   - quote: Start with a prompt or template. Ask ChatGPT to make a sticker pack, or
       choose a sticker template from the home screen or Images.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#create-and-share-personalized-sticker-packs
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 44e91395f21a2e766039004782d215f7478b962f4afd315ca0b9db2eaf3b3283
+machine_hash: d1c15623e7e7073832d8c98d65195069937d15db68ddf79daf7d541d3f6159ea
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,7 +24,7 @@ record:
     plans only]'
   evidence:
   - quote: Extra High [Pro plans only]
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#simplified-controls-in-the-model-picker
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -57,7 +57,7 @@ ChatGPT — Simplified controls in the model picker: Extra High [Pro plans only]
 <!-- chronolog:begin region="evidence" -->
 > Extra High [Pro plans only]
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#simplified-controls-in-the-model-picker
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

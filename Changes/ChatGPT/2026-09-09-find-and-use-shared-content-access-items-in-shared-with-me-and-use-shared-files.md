@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 4e3b7b3f274a00738d53bb56b5fa04b1cfaf3ce4cd01325820588610fa7d1eb7
+machine_hash: d9928ca45911c6fd69d16226ecdd84f102d6f17d795d0ad6199c96c98e09c4bf
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: Find and use shared content. Access items in Shared with me and use shared
       files in conversations with ChatGPT.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#share-files-and-folders-from-your-library
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -61,7 +61,7 @@ ChatGPT — Share files and folders from your Library: Find and use shared conte
 <!-- chronolog:begin region="evidence" -->
 > Find and use shared content. Access items in Shared with me and use shared files in conversations with ChatGPT.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#share-files-and-folders-from-your-library
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

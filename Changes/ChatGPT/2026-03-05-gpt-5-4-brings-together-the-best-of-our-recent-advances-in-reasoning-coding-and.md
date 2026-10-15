@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 78568c980e0a820c7b6692c996bf80d02910d361bc51f58663c1329c4a9fe95c
+machine_hash: b0cd1fde5d12a7f90fc1313b17bb54584026533ef309a41e5d9928ba41a8471d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,7 +53,7 @@ record:
       management that supports its ability to think for longer. Together, these improvements
       mean higher-quality answers that arrive faster and stay relevant to the task
       at hand.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-54-thinking-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -111,7 +111,7 @@ ChatGPT — GPT-5.4 Thinking in ChatGPT: GPT‑5.4 brings together the best of o
 <!-- chronolog:begin region="evidence" -->
 > GPT‑5.4 brings together the best of our recent advances in reasoning, coding, and agentic workflows into a single frontier model. It incorporates the industry-leading coding capabilities of GPT‑5.3‑Codex⁠ while improving how the model works across tools, software environments, and professional tasks involving spreadsheets, presentations, and documents. The result is a model that gets complex real work done accurately, effectively, and efficiently—delivering what you asked for with less back and forth.In ChatGPT, GPT‑5.4 Thinking can now provide an upfront plan of its thinking, so you can adjust course mid-response while it’s working, and arrive at a final output that’s more closely aligned with what you need without additional turns. GPT‑5.4 Thinking improves deep web research, particularly for highly specific queries, while better maintaining context for questions that require longer thinking. GPT‑5.4 Thinking also has improved context window management that supports its ability to think for longer. Together, these improvements mean higher-quality answers that arrive faster and stay relevant to the task at hand.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-54-thinking-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: be66d06a76e3c15fd4cb38364132bd5f92d9873ee93d8f6d72349fd77d871293
+machine_hash: a904993401c922f49370cd89a95d896c0a3d019e2544b06e469ee845346a02a2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,7 +34,7 @@ record:
       Lite, and Edu users, with Plus users following over the coming days. Sites is
       not available on Free or Go plans. Public publishing and the expanded beta rollout
       are not available in the EEA, Switzerland, or the United Kingdom at launch.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-sites-in-public-beta
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -66,7 +66,7 @@ ChatGPT — Introducing ChatGPT Sites in public beta: In Enterprise workspaces, 
 <!-- chronolog:begin region="evidence" -->
 > In Enterprise workspaces, public publishing is off by default and must be enabled by an admin. Sites is also rolling out in public beta to Pro, Pro Lite, and Edu users, with Plus users following over the coming days. Sites is not available on Free or Go plans. Public publishing and the expanded beta rollout are not available in the EEA, Switzerland, or the United Kingdom at launch.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-sites-in-public-beta
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -1,7 +1,7 @@
 ---
 changes_count: 4
 date: '2025-06-13'
-machine_hash: fb9cdacf6b99a21c5646b331e6738dbe0ce708dc4955aa6ab8c8e4ff30066f6a
+machine_hash: 94e06d6c38e5d2e68e91484fb352d03b21ffa023843e1d8dd6de087fa5988239
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -13,13 +13,13 @@ record:
     comprehensive, up-to-date responses. In testing, we found users preferred these
     search improvements over our previous search experience.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-the-chatgpt-search-response-quality
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Improvements to the ChatGPT search response quality
   version: Improvements to the ChatGPT search response quality
 release_id: chatgpt-2025-06-13-improvements-to-the-chatgpt-search-response-quality-2791e464
 source_release: Improvements to the ChatGPT search response quality
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-the-chatgpt-search-response-quality
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -33,7 +33,7 @@ version: Improvements to the ChatGPT search response quality
 <!-- chronolog:begin region="summary" -->
 We’ve upgraded ChatGPT search for all users to provide even more comprehensive, up-to-date responses. In testing, we found users preferred these search improvements over our previous search experience.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-the-chatgpt-search-response-quality)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 4
 <!-- chronolog:end -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 02f5e95bbbe320e01763f226055b7197445533927632a27c303039d777513451
+machine_hash: aef4997048c08e986dcfdaee1960d5a321146b2319bd0978d869b0c6921bcc7c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: 'Sources from apps: Paste a link to a Slack channel or Google Drive file
       or folder to add it directly as a project source.Additionally, use connected
       apps directly in chats.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#add-sources-to-your-projects-from-anywhere
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -60,7 +60,7 @@ ChatGPT — Add sources to your projects from anywhere: Sources from apps: Paste
 <!-- chronolog:begin region="evidence" -->
 > Sources from apps: Paste a link to a Slack channel or Google Drive file or folder to add it directly as a project source.Additionally, use connected apps directly in chats.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#add-sources-to-your-projects-from-anywhere
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

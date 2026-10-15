@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 00ed5c230abb43d7b658cdb6d410838d230d5aa82127220522d9ea424ba6b249
+machine_hash: f8236b4861c0c17d155ba062e30d84293d9e0833ec7928a409875797d00e07b9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       temporary Codex promotion on Plus ends, we’re rebalancing Plus usage to support
       more sessions across the week, rather than longer, high-intensity sessions on
       a single day.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-pro-plan-options
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -65,7 +65,7 @@ ChatGPT — New Pro plan options: Plus ($20/month): Plus remains best for steady
 <!-- chronolog:begin region="evidence" -->
 > Plus ($20/month): Plus remains best for steady, day-to-day use. As the temporary Codex promotion on Plus ends, we’re rebalancing Plus usage to support more sessions across the week, rather than longer, high-intensity sessions on a single day.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-pro-plan-options
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

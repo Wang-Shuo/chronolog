@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 81c773ff4b6735c4d35b5823971c41df14e90842bcec30b532b9cb9cf39a2014
+machine_hash: b11370488e9166b5298c1142e7aa4eafcd27ea12da69526b6d30c0c546bf5a88
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,7 +48,7 @@ record:
       ChatGPT Edu institutions can still apply, but when approved, follow an institution-managed
       Edu route instead. The program covers ChatGPT access, not API credits.Read the
       full eligibility and program details in ChatGPT for Academic Researchers.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-for-academic-researchers
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -91,7 +91,7 @@ ChatGPT — ChatGPT for Academic Researchers: Research rarely happens alone. Cha
 <!-- chronolog:begin region="evidence" -->
 > Research rarely happens alone. ChatGPT for Academic Researchers gives faculty and postdoctoral researchers the ability to apply for 12 months of complimentary access to a dedicated ChatGPT workspace for a small, verified team. Each workspace supports up to five members and includes business data protections and ChatGPT Pro-level usage limits, helping researchers collaborate while keeping team research in its own workspace.To apply, researchers sign in with an institutional email, verify their affiliation through SheerID, and share a qualifying paper and a short description of their intended research use. Approved applicants complete a $0 checkout with a valid card, create the workspace, and can invite up to four verified collaborators from the same institution. Researchers at existing ChatGPT Edu institutions can still apply, but when approved, follow an institution-managed Edu route instead. The program covers ChatGPT access, not API credits.Read the full eligibility and program details in ChatGPT for Academic Researchers.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-for-academic-researchers
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

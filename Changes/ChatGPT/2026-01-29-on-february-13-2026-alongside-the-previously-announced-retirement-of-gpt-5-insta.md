@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 472deaef1951e0af60da1420e07e1a92f86382a561d9491e2d6d2b06fdeaae27
+machine_hash: 410ec55b86d9dc8970d47996e507679c2d1e73c89c9588dd3d49a4ada77fdfa7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       GPT‑5 (Instant and Thinking), we will retire GPT‑4o, GPT‑4.1, GPT‑4.1 mini,
       and OpenAI o4-mini from ChatGPT. In the API, there are no changes at this time.
       For more, see our blog post or help center.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-gpt-4o-and-other-legacy-models
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -65,7 +65,7 @@ ChatGPT — Retiring GPT-4o and other legacy models: On February 13, 2026, along
 <!-- chronolog:begin region="evidence" -->
 > On February 13, 2026, alongside the previously announced retirement⁠ of GPT‑5 (Instant and Thinking), we will retire GPT‑4o, GPT‑4.1, GPT‑4.1 mini, and OpenAI o4-mini from ChatGPT. In the API, there are no changes at this time. For more, see our blog post or help center.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-gpt-4o-and-other-legacy-models
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

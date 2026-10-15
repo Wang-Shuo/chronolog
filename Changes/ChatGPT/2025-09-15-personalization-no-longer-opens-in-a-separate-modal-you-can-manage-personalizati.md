@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 77163bae9a0dee0db10d3a4cbeb83215ed80bb6c5a4ace6a45aec08e1f0162d3
+machine_hash: 29bd6a9069a5d46eaeeb177f859ed598954dedff4b04ddbcf46a8a91e142e5f3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Personalization no longer opens in a separate modal. You can manage personalization,
       choose a ChatGPT personality, add custom instructions, and update Memory directly
       in Settings → Personalization.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#personalization-settings-are-now-in-settings
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -59,7 +59,7 @@ ChatGPT — Personalization settings are now in Settings: Personalization no lon
 <!-- chronolog:begin region="evidence" -->
 > Personalization no longer opens in a separate modal. You can manage personalization, choose a ChatGPT personality, add custom instructions, and update Memory directly in Settings → Personalization.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#personalization-settings-are-now-in-settings
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 68d86302c1c245b1710b890e4b15d983e99191cd1b5e96642a9d37fbb8bf45ed
+machine_hash: 09e7ba306b9fcbc65651bd8017526c4165d6ab30cbc34f2a186d9cafb04250b3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Cleaner “Select All” behavior (Cmd+A). Cmd+A now selects only the conversation
       content, excluding surrounding interface elements for cleaner copying and sharing
       of chat transcripts.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-updates-better-file-uploads-easier-copying-and-more-reliable-long-chats
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -61,7 +61,7 @@ ChatGPT — ChatGPT updates: Better file uploads, easier copying, and more relia
 <!-- chronolog:begin region="evidence" -->
 > Cleaner “Select All” behavior (Cmd+A). Cmd+A now selects only the conversation content, excluding surrounding interface elements for cleaner copying and sharing of chat transcripts.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-updates-better-file-uploads-easier-copying-and-more-reliable-long-chats
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

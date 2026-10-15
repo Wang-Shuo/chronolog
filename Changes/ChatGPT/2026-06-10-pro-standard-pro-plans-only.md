@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 9e39039cfe51a6b9f8a817d952772710f9555c756b3a97a6a1e8f48ccb9211a1
+machine_hash: 977b157a410c2f88a5435aa34b56d1fa2f69b0957cf42ddb88e959839bfdba10
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,7 +24,7 @@ record:
     plans only]'
   evidence:
   - quote: Pro Standard [Pro plans only]
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#simplified-controls-in-the-model-picker
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -57,7 +57,7 @@ ChatGPT — Simplified controls in the model picker: Pro Standard [Pro plans onl
 <!-- chronolog:begin region="evidence" -->
 > Pro Standard [Pro plans only]
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#simplified-controls-in-the-model-picker
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

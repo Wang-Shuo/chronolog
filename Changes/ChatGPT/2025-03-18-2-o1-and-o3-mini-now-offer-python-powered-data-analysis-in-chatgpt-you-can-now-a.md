@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 43941b19a7674280ad030dbe57ac7a3be8b9f27fea7dfff2f2aa431d5d786a50
+machine_hash: fefd659f9f35bf252a7f785c6d547d8e231d3c53370686885b6ceea2a11a8d30
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       data, visualizing complex business metrics, and conducting scenario-based simulations.3⁠.
       Conversation Drafts: Unsubmitted messages in your message prompt will now be
       saved.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#web-and-the-windows-desktop-app
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -74,7 +74,7 @@ ChatGPT — Web and the Windows desktop app: 2⁠. o1 and o3-mini now offer Pyth
 <!-- chronolog:begin region="evidence" -->
 > 2⁠. o1 and o3-mini now offer Python-powered data analysis in ChatGPT: You can now ask these models to perform tasks like running regressions on test data, visualizing complex business metrics, and conducting scenario-based simulations.3⁠. Conversation Drafts: Unsubmitted messages in your message prompt will now be saved.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#web-and-the-windows-desktop-app
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

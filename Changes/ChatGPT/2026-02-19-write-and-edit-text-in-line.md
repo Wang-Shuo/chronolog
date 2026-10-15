@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 4909e3a0cb02659fb9e7e5a17de456a76c3fdf6955e63d0c5d997c0d10c94bc3
+machine_hash: 45293f242a7df6544256d850c4f73446a3286238727c11f0450faac577523d84
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,7 +24,7 @@ record:
     in-line'
   evidence:
   - quote: Write and edit text in-line
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#interactive-code-blocks-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -57,7 +57,7 @@ ChatGPT — Interactive Code Blocks in ChatGPT: Write and edit text in-line
 <!-- chronolog:begin region="evidence" -->
 > Write and edit text in-line
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#interactive-code-blocks-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

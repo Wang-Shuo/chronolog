@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 072112929eb6274dcf1a28f333e9c10998023ee9742e671b55d42337a3b56613
+machine_hash: 7b82a2338de09a5f5023f0540728d0ca34980b1c52581213a52ab86034447afe
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -36,7 +36,7 @@ record:
       that registration has opened, or draft next steps after a client shares feedback
       in Slack. Add @ChatGPT to each monitored Slack channel. Actions that require
       approval pause until you review them.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-can-respond-to-app-updates-and-be-shared
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -79,7 +79,7 @@ ChatGPT — Scheduled tasks can respond to app updates and be shared: Plus and P
 <!-- chronolog:begin region="evidence" -->
 > Plus and Pro users can ask Work on web, iOS, and Android to respond when a new Gmail message arrives, a Slack channel receives a message, or a GitHub pull request changes. For example, ask ChatGPT to summarize an email announcing that registration has opened, or draft next steps after a client shares feedback in Slack. Add @ChatGPT to each monitored Slack channel. Actions that require approval pause until you review them.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-can-respond-to-app-updates-and-be-shared
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

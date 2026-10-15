@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2025-07-16'
-machine_hash: af575808fcf83520f441137a80d3d83f400b4a4b4c698962c8b04b80d2d4f5e8
+machine_hash: 0c8d727a1a3a106923618eda4672055e39280ff586e325f74b603d3f6b04f34d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -12,13 +12,13 @@ record:
   source_summary: Record mode is now available to ChatGPT Plus users globally in the
     macOS desktop app.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#record-mode-in-chatgpt-macos-desktop-app-plus
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Record mode in ChatGPT macOS desktop app (Plus)
   version: Record mode in ChatGPT macOS desktop app (Plus)
 release_id: chatgpt-2025-07-16-record-mode-in-chatgpt-macos-desktop-app-plus-3cdaccb1
 source_release: Record mode in ChatGPT macOS desktop app (Plus)
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#record-mode-in-chatgpt-macos-desktop-app-plus
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -32,7 +32,7 @@ version: Record mode in ChatGPT macOS desktop app (Plus)
 <!-- chronolog:begin region="summary" -->
 Record mode is now available to ChatGPT Plus users globally in the macOS desktop app.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#record-mode-in-chatgpt-macos-desktop-app-plus)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 2
 <!-- chronolog:end -->

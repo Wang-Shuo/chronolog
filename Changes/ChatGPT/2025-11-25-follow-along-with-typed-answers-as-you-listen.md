@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 27bdf4d34b17db7b98c9b9e835f412d62ff1e3ec6531720f5019f1a846c4064c
+machine_hash: 275ac62d515fdd4e5404f282a83606dd51b9b88746051bb327cd0d554ed0c69d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,7 +24,7 @@ record:
     and visuals when you need them.: Follow along with typed answers as you listen'
   evidence:
   - quote: Follow along with typed answers as you listen
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#an-improved-voice-interface-the-audio-you-know-with-text-and-visuals-when-you-need-them
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -57,7 +57,7 @@ ChatGPT — An improved Voice interface: the audio you know, with text and visua
 <!-- chronolog:begin region="evidence" -->
 > Follow along with typed answers as you listen
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#an-improved-voice-interface-the-audio-you-know-with-text-and-visuals-when-you-need-them
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

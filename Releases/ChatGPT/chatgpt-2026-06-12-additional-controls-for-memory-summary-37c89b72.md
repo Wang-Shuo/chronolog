@@ -1,7 +1,7 @@
 ---
 changes_count: 4
 date: '2026-06-12'
-machine_hash: 25dac7afefa08f4437bb7c6fbcb9370bd3df2c8b7c0e7eb48b3bd6d34916303a
+machine_hash: 5d1735cef29230132507953b99bb8b65ee1164c31ac680460d45636ed272d492
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -15,13 +15,13 @@ record:
     ChatGPT may create new memories from chats that remain in your chat history. This
     control is…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#additional-controls-for-memory-summary
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Additional controls for memory summary
   version: Additional controls for memory summary
 release_id: chatgpt-2026-06-12-additional-controls-for-memory-summary-37c89b72
 source_release: Additional controls for memory summary
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#additional-controls-for-memory-summary
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Additional controls for memory summary
 <!-- chronolog:begin region="summary" -->
 You can now delete the memories shown on your memory summary page and turn memory off by selecting “Delete and turn off memory” from the three-dot menu. This does not delete your past chats. If you turn memory back on later, ChatGPT may create new memories from chats that remain in your chat history. This control is…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#additional-controls-for-memory-summary)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 4
 <!-- chronolog:end -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: da734ed0a9c75a942e6c88773ff7915a8b8995eb3b1960371c0859cd10f7da5c
+machine_hash: b145c633dfa2f8e92bd7031f967725d2b8ad275020c5eb745c929a4123bfa271
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: On the web, open your account menu, select Help, then select Privacy Center.
       On mobile, open Settings, then select Privacy Center on iOS or Privacy center
       on Android. Available options depend on your plan, region, and workspace settings.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#privacy-center-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -77,7 +77,7 @@ ChatGPT — Privacy Center in ChatGPT: On the web, open your account menu, selec
 <!-- chronolog:begin region="evidence" -->
 > On the web, open your account menu, select Help, then select Privacy Center. On mobile, open Settings, then select Privacy Center on iOS or Privacy center on Android. Available options depend on your plan, region, and workspace settings.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#privacy-center-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

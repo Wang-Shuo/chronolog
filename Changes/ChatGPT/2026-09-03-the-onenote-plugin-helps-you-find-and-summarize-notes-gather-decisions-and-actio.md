@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 043dde832fdcf0e062e80a942b5d1b93667b9545f366512aba7a421785d41cfb
+machine_hash: 106f6f3e146676c27542ed3231dce69a469285ac81a3aeb777e7aa6fb11333f5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: The OneNote plugin helps you find and summarize notes, gather decisions
       and action items, and create or update notes through supported actions in ChatGPT
       and Codex.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#zendesk-onenote-plugins-in-chatgpt-and-codex-beta
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -60,7 +60,7 @@ ChatGPT — Zendesk & OneNote Plugins in ChatGPT and Codex [Beta]: The OneNote p
 <!-- chronolog:begin region="evidence" -->
 > The OneNote plugin helps you find and summarize notes, gather decisions and action items, and create or update notes through supported actions in ChatGPT and Codex.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#zendesk-onenote-plugins-in-chatgpt-and-codex-beta
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: acd5b7279279f37b20a8baebcf4898164df225b08203e90612f0dec139d8c1ef
+machine_hash: 61bb403a83eca90002e6404ae71a0fe5fde458e43c2f0f22cfdface3f48a9cd1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,7 +35,7 @@ record:
       preferences. For example, if you have memory enabled and save a temporary chat,
       this will become part of your chat history and can be referenced to personalized
       future responses.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-controls-in-temporary-chat
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -78,7 +78,7 @@ ChatGPT — More controls in temporary chat: Saving a temporary chat: When a con
 <!-- chronolog:begin region="evidence" -->
 > Saving a temporary chat: When a conversation becomes useful for the future, you can add it to your chat history. Saving converts it into a regular chat, so it then follows your account-level personalization settings and model-improvement preferences. For example, if you have memory enabled and save a temporary chat, this will become part of your chat history and can be referenced to personalized future responses.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-controls-in-temporary-chat
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

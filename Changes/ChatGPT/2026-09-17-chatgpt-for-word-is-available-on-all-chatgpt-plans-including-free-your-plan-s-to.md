@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 5b39793bd3d0f0e28f554b135064d0748ac4091cb850bb85687a9db298af2a18
+machine_hash: 609881c86b8403e657e48f152920b8b07778cd02c5b982d3e0ed790a0d8e08fb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: ChatGPT for Word is available on all ChatGPT plans, including Free. Your
       plan’s token limits apply, and Word draws from the shared usage allowance for
       Codex and other premium features on plans that include it.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-for-word
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -62,7 +62,7 @@ ChatGPT — ChatGPT for Word: ChatGPT for Word is available on all ChatGPT plans
 <!-- chronolog:begin region="evidence" -->
 > ChatGPT for Word is available on all ChatGPT plans, including Free. Your plan’s token limits apply, and Word draws from the shared usage allowance for Codex and other premium features on plans that include it.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-for-word
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

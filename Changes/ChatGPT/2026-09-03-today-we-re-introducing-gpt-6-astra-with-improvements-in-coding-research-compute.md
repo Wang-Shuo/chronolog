@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 06d846185e1bf10e38b123bc73a30c2603b766beb9447b55a4d61a929e133105
+machine_hash: 47e7549b601df306cea87ae81a970bd4bf336b93ca0d8d6ce08330c2d69d6565
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       computer use, and complex, multi-step work. Astra can create documents, spreadsheets,
       and presentations that follow your templates and instructions, and adapt when
       you add requirements or change direction.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpt-6-astra
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -64,7 +64,7 @@ ChatGPT — Introducing GPT-6 Astra: Today we’re introducing GPT-6 Astra, with
 <!-- chronolog:begin region="evidence" -->
 > Today we’re introducing GPT-6 Astra, with improvements in coding, research, computer use, and complex, multi-step work. Astra can create documents, spreadsheets, and presentations that follow your templates and instructions, and adapt when you add requirements or change direction.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpt-6-astra
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 67e8b57c6bd8d6645158f798df8c88e36c95e1421acc123ee54c87f60c739bc6
+machine_hash: df442fa18bdd2a4ae614e2029082f1904e857ce1c642b6839b936016d8051bb6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,7 +24,7 @@ record:
     headers & lists'
   evidence:
   - quote: Use more or fewer headers & lists
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-detailed-characteristic-controls
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -57,7 +57,7 @@ ChatGPT — New detailed characteristic controls: Use more or fewer headers & li
 <!-- chronolog:begin region="evidence" -->
 > Use more or fewer headers & lists
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-detailed-characteristic-controls
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 9abca3113eaef27242067e5199060e4acda3b9caaa0ac8a33d93e481460eb046
+machine_hash: 8c0f558fa5bc3165cd0f49ca9370fa4e155a44269cb69a909f7c6194e580d86f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,7 +44,7 @@ record:
       Install it from Microsoft Marketplace, sign in with your eligible ChatGPT account,
       and review important claims, numbers, and slide changes before sharing. Learn
       more about ChatGPT for PowerPoint.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-for-powerpoint-is-now-generally-available
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -99,7 +99,7 @@ ChatGPT — ChatGPT for PowerPoint is now generally available: ChatGPT for Power
 <!-- chronolog:begin region="evidence" -->
 > ChatGPT for PowerPoint is now generally available globally. From a sidebar in Microsoft PowerPoint, you can create new slides and decks, revise existing presentations, ask questions about a deck’s story and structure, and use Skills and apps to work with repeatable workflows and connected sources. Slides remain editable in PowerPoint, although advanced edits and template matching may still require review.The add-in is available to Free, Go, Plus, Pro, Business, Enterprise, ChatGPT Edu, and K-12 users, subject to plan limits and workspace settings. Install it from Microsoft Marketplace, sign in with your eligible ChatGPT account, and review important claims, numbers, and slide changes before sharing. Learn more about ChatGPT for PowerPoint.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-for-powerpoint-is-now-generally-available
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

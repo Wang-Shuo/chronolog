@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 99a98981cc53fbfff7c6d93bc7427867b379acfc410048b3b9b0de2900ff15d5
+machine_hash: 0c7096a320daedab0c480e9ac1f39ee84f33d881445c8f4b38d510b253cad4d7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: You can now change a project’s memory setting after you create it. Open
       the project, select the three-dot menu, choose Project settings, and select
       Default memory or Project-only memory under Memory.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#edit-memory-settings-for-existing-projects
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -70,7 +70,7 @@ ChatGPT — Edit memory settings for existing projects: You can now change a pro
 <!-- chronolog:begin region="evidence" -->
 > You can now change a project’s memory setting after you create it. Open the project, select the three-dot menu, choose Project settings, and select Default memory or Project-only memory under Memory.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#edit-memory-settings-for-existing-projects
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

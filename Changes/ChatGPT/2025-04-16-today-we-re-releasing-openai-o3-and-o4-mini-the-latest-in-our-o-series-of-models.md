@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 15bf01571f8e2e96fc3d95763957c2683c2856cd1cf228cdf4974646f6fe3e57
+machine_hash: 5e8a4050abc588a33d82e9dfa951f2376eae3df9c7647fbae0ffdbbc87d1523d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,7 +53,7 @@ record:
       with full tool access translates into significantly stronger performance across
       academic benchmarks and real-world tasks, setting a new standard in both intelligence
       and usefulness.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#o3-and-o4-mini-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -100,7 +100,7 @@ ChatGPT — o3 and o4-mini in ChatGPT: Today, we’re releasing OpenAI o3 and o4
 <!-- chronolog:begin region="evidence" -->
 > Today, we’re releasing OpenAI o3 and o4-mini, the latest in our o-series of models trained to think for longer before responding. These are the smartest models we’ve released to date, representing a step change in ChatGPT's capabilities for everyone from curious users to advanced researchers. For the first time, our reasoning models can agentically use and combine every tool within ChatGPT—this includes searching the web, analyzing uploaded files and other data with Python, reasoning deeply about visual inputs, and even generating images. Critically, these models are trained to reason about when and how to use tools to produce detailed and thoughtful answers in the right output formats, typically in under a minute, to solve more complex problems. This allows them to tackle multi-faceted questions more effectively, a step toward a more agentic ChatGPT that can independently execute tasks on your behalf. The combined power of state-of-the-art reasoning with full tool access translates into significantly stronger performance across academic benchmarks and real-world tasks, setting a new standard in both intelligence and usefulness.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#o3-and-o4-mini-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: be5a7c40587d8806ec32c640d36958833ce63a1a00c59f052173565f07f1b90a
+machine_hash: 9c5afda27402143cb98e5a510747499c7c8eb08300753469e8dd1473434becee
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
       Select Ultrafast in the model picker to use a faster service tier for GPT-6
       Astra. It uses your included allowance first, then your credit balance after
       that allowance is used.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#a-new-pro-plan-with-astra-ultrafast
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -80,7 +80,7 @@ ChatGPT — A new Pro plan with Astra Ultrafast: We’re introducing Pro 500, a 
 <!-- chronolog:begin region="evidence" -->
 > We’re introducing Pro 500, a new $500/month plan with the highest included usage of the Pro plans and access to Astra Ultrafast in ChatGPT Work and Codex. Select Ultrafast in the model picker to use a faster service tier for GPT-6 Astra. It uses your included allowance first, then your credit balance after that allowance is used.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#a-new-pro-plan-with-astra-ultrafast
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

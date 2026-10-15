@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 0b1de5475458cc6a03e5a149cb89838bbb62398d34e65b725cabbe04f157cf04
+machine_hash: f53f6ea50b32d832151aa780e9f5340654be59cbbb2e5549f0bd2cad32d7525b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,7 +24,7 @@ record:
     mini apps directly in chat'
   evidence:
   - quote: Preview diagrams and mini apps directly in chat
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#interactive-code-blocks-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -55,7 +55,7 @@ ChatGPT — Interactive Code Blocks in ChatGPT: Preview diagrams and mini apps d
 <!-- chronolog:begin region="evidence" -->
 > Preview diagrams and mini apps directly in chat
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#interactive-code-blocks-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-09-04'
-machine_hash: 446ada432d04e51fd1a20a92f037e456468b843f16faea6a5888005fbd19854c
+machine_hash: a5280e21610a162ba34d4877a7f3aff6ad3477ffc7a3fecd583054cea8a8fd7c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -15,13 +15,13 @@ record:
     conversation from that point.This feature is available today for all logged-in
     users on web.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#branch-conversations-on-web
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Branch conversations on web
   version: Branch conversations on web
 release_id: chatgpt-2025-09-04-branch-conversations-on-web-335d0aa3
 source_release: Branch conversations on web
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#branch-conversations-on-web
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Branch conversations on web
 <!-- chronolog:begin region="summary" -->
 You can now branch conversations in ChatGPT, making it easier to explore different directions without losing your original thread. Hover over a message, click More actions (⋯), and select Branch in new chat to start a separate conversation from that point.This feature is available today for all logged-in users on web.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#branch-conversations-on-web)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 1
 <!-- chronolog:end -->

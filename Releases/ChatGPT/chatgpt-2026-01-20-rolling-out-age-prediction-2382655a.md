@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-01-20'
-machine_hash: 6cffecdf251c40b73a2fea48e9f1cd4ae7314b05756ff56aa49ac21bc860d44e
+machine_hash: e72f0adf37029128b5afb57a8b61b7901ec00aa4c2a9a75aa6974b11170ec9d1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -15,13 +15,13 @@ record:
     combination of behavioral and account-level signals, including how long an account
     has existed…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#rolling-out-age-prediction
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Rolling out age prediction
   version: Rolling out age prediction
 release_id: chatgpt-2026-01-20-rolling-out-age-prediction-2382655a
 source_release: Rolling out age prediction
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#rolling-out-age-prediction
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Rolling out age prediction
 <!-- chronolog:begin region="summary" -->
 We're rolling out an age prediction model on ChatGPT consumer plans to help determine whether an account likely belongs to someone under 18, so we can apply the right experience and safeguards for teens. The model looks at a combination of behavioral and account-level signals, including how long an account has existed…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#rolling-out-age-prediction)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 1
 <!-- chronolog:end -->

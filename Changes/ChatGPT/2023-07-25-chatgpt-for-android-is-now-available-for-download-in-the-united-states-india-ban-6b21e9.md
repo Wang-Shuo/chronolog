@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 0372126a1d9a5ae8fb371cf80a5fcaca8bf2c55ac36efbe01a4209e7b802b58b
+machine_hash: 9876b9e59a681e1cd1ad5ddc92c378996a9943311b8246de8e36ac5ae6077071
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       India, Bangladesh, and Brazil from the Google Play Store.We plan to expand the
       rollout to additional countries over the next week. You can track the Android
       rollout here.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-the-chatgpt-app-for-android
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -62,7 +62,7 @@ ChatGPT — Introducing the ChatGPT app for Android: ChatGPT for Android is now 
 <!-- chronolog:begin region="evidence" -->
 > ChatGPT for Android is now available for download in the United States, India, Bangladesh, and Brazil from the Google Play Store.We plan to expand the rollout to additional countries over the next week. You can track the Android rollout here.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-the-chatgpt-app-for-android
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

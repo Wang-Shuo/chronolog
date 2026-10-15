@@ -1,7 +1,7 @@
 ---
 changes_count: 4
 date: '2026-08-07'
-machine_hash: 353bdd1e0b35075f76f76427c11cf1e469509a16b8d38bb03c7f211942b7d859
+machine_hash: 26e955b9c046da3e10e1a65add0c272d24b6811bf353787aaaf9e9d70da4b98e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -12,13 +12,13 @@ record:
   source_summary: We’ve made it easier to bring documents and saved files into your
     conversations, find what you need, and pick up where you left off.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: ChatGPT app experience updates
   version: ChatGPT app experience updates
 release_id: chatgpt-2026-08-07-chatgpt-app-experience-updates-d15f55c5
 source_release: ChatGPT app experience updates
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -32,7 +32,7 @@ version: ChatGPT app experience updates
 <!-- chronolog:begin region="summary" -->
 We’ve made it easier to bring documents and saved files into your conversations, find what you need, and pick up where you left off.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 4
 <!-- chronolog:end -->

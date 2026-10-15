@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 538b428bf170d1c99e9864a3d40367844fa65f3a6af50b1cd8871348c6f8180c
+machine_hash: ba5a163350403c6fa977e80d9c1f0033b45125cebcbfaac295b679e2f0b27375
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       that have memory enabled will receive the upgrade automatically.• If you previously
       opted out of memory, ChatGPT will not reference past conversations unless you
       opt back in.See Memory FAQ.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#enhanced-memory-in-chatgpt-including-eu-on-pluspro
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -65,7 +65,7 @@ ChatGPT — Enhanced Memory in ChatGPT (including EU) on Plus/Pro: • Outside t
 <!-- chronolog:begin region="evidence" -->
 > • Outside the European regions listed above, all Plus and Pro accounts that have memory enabled will receive the upgrade automatically.• If you previously opted out of memory, ChatGPT will not reference past conversations unless you opt back in.See Memory FAQ.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#enhanced-memory-in-chatgpt-including-eu-on-pluspro
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

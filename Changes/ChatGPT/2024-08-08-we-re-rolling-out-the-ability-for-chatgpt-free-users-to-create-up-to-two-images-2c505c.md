@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: ae8ee3aca575f5a6c970358c3fc51c8c990824edd63316c9f492e343f691b460
+machine_hash: 81d80d45608b8d52f18ea73d7fc763721b21b50aad4e5a5bb640ce9227a3d806
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: We’re rolling out the ability for ChatGPT Free users to create up to two
       images per day with DALL·E 3.Just ask ChatGPT to create an image for a slide
       deck, personalize a card for a friend, or show you what something looks like.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#dalle-3-for-chatgpt-free-users
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -58,7 +58,7 @@ ChatGPT — DALL·E 3 for ChatGPT Free users: We’re rolling out the ability fo
 <!-- chronolog:begin region="evidence" -->
 > We’re rolling out the ability for ChatGPT Free users to create up to two images per day with DALL·E 3.Just ask ChatGPT to create an image for a slide deck, personalize a card for a friend, or show you what something looks like.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#dalle-3-for-chatgpt-free-users
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

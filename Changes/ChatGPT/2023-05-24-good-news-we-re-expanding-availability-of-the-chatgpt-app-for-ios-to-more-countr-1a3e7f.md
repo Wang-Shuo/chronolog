@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 077e694179fd0c5a33d109e15b98a84528543dce467a10d518ac496ea826462b
+machine_hash: a29bc907e838c811797db12022e7e8504e50b9a5d7ff3e8a6dc6daed027c5429
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -36,7 +36,7 @@ record:
       Germany, Ireland, Jamaica, Korea, New Zealand, Nicaragua, Nigeria, and the United
       Kingdom.We will continue to roll out to more countries and regions in the coming
       weeks. You can track the iOS app rollout here.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ios-app-available-in-more-countries-shared-links-in-alpha-bing-plugin-disable-history-on-ios
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -67,7 +67,7 @@ ChatGPT — iOS app available in more countries, shared links in alpha, Bing Plu
 <!-- chronolog:begin region="evidence" -->
 > Good news! We’re expanding availability of the ChatGPT app for iOS to more countries and regions. Users in 11 countries can now download the ChatGPT app in the Apple App Store including the United States: Albania, Croatia, France, Germany, Ireland, Jamaica, Korea, New Zealand, Nicaragua, Nigeria, and the United Kingdom.We will continue to roll out to more countries and regions in the coming weeks. You can track the iOS app rollout here.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ios-app-available-in-more-countries-shared-links-in-alpha-bing-plugin-disable-history-on-ios
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

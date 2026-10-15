@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 24b383a7d032bb29e5a9f3c2d9da14eec8d531c894db8561f4cfaafaf85d71c2
+machine_hash: b2fdefab2a10cc8c12c03d6a72d29f14a93c91f134ad27d48f78871762df0cc3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,7 +39,7 @@ record:
       Email or Outlook Calendar app and provide the exact shared mailbox address or
       target calendar when asking ChatGPT. Availability may depend on your Microsoft
       permissions and workspace app settings. Learn more.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#outlook-shared-mailboxes-and-calendars-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -82,7 +82,7 @@ ChatGPT — Outlook shared mailboxes and calendars in ChatGPT: The Outlook Email
 <!-- chronolog:begin region="evidence" -->
 > The Outlook Email and Calendar apps for ChatGPT can now help with delegated or shared Outlook resources, when you have access. You can ask ChatGPT to read messages from a shared mailbox, browse its folders, mark mail read or unread, move messages, or send plain-text email from or on behalf of that mailbox. For shared Outlook calendars, ChatGPT can help create, update, RSVP to, cancel, delete, or add small attachments to events.To use this, connect the Outlook Email or Outlook Calendar app and provide the exact shared mailbox address or target calendar when asking ChatGPT. Availability may depend on your Microsoft permissions and workspace app settings. Learn more.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#outlook-shared-mailboxes-and-calendars-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

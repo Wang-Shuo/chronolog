@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: ad3f7b6270e514ea8741f2aca0ada655a4bc4e266f2077896ef53a0d6156e9ea
+machine_hash: 769e194632b9c594fed705874aac9907a214a5235e6d921921fcad47e46ca22b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Profile sharing and the Sites showcase are available on web and desktop.
       In Business workspaces, administrators control whether coworkers can view workspace
       profiles. Enterprise access is coming later.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#share-your-profile-and-showcase-your-sites
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -75,7 +75,7 @@ ChatGPT — Share your profile and showcase your Sites: Profile sharing and the 
 <!-- chronolog:begin region="evidence" -->
 > Profile sharing and the Sites showcase are available on web and desktop. In Business workspaces, administrators control whether coworkers can view workspace profiles. Enterprise access is coming later.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#share-your-profile-and-showcase-your-sites
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

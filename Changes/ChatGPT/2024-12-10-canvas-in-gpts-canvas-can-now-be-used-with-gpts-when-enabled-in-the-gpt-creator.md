@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 5a52aa8a93e42befa36292ce33f5b3c685131ed10082a015bc4096d4dc9cd930
+machine_hash: fbaae076612699e54310ed60b0273d63b4a107e523f6ebf911c68d9227444ed7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: 'Canvas in GPTs: Canvas can now be used with GPTs when enabled in the GPT
       creator. This toggle will be enabled for newly created GPTs by default.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#canvas
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -58,7 +58,7 @@ ChatGPT — Canvas: Canvas in GPTs: Canvas can now be used with GPTs when enable
 <!-- chronolog:begin region="evidence" -->
 > Canvas in GPTs: Canvas can now be used with GPTs when enabled in the GPT creator. This toggle will be enabled for newly created GPTs by default.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#canvas
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

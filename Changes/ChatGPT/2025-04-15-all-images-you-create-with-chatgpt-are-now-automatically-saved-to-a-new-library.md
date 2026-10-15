@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 44e8c757ed97128385b29a941c24f75abf02d3c43258461a11a6420eab9f9d11
+machine_hash: cc19dd6a0f8a3881aaea588c4c724b869e6b6673ce19b4a8fc9ab2c6133e2c31
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -37,7 +37,7 @@ record:
       support coming soon). For now, it displays images generated with 4o Image Generation
       while we backfill older creations, and you can remove an image by deleting the
       conversation where it was made.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-image-library
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -91,7 +91,7 @@ ChatGPT — ChatGPT Image Library: All images you create with ChatGPT are now au
 <!-- chronolog:begin region="evidence" -->
 > All images you create with ChatGPT are now automatically saved to a new Library in the sidebar, giving you one place to browse, revisit, and reuse your work without digging through past conversations. The Library is rolling out today on Web, iOS, and Android for Free, Plus, and Pro users (Enterprise / Edu support coming soon). For now, it displays images generated with 4o Image Generation while we backfill older creations, and you can remove an image by deleting the conversation where it was made.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-image-library
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

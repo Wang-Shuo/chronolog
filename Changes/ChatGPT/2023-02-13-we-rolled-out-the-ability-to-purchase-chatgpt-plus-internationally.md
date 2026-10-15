@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: c48cae117a327dae72c786f8f1c7d7f4e8dbf2a8cd483065f5f017996f368809
+machine_hash: f00c85d31e2240f32b05d6824ee0d3208f553280c268313e21dc700b000b8cd2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,7 +24,7 @@ record:
     ChatGPT Plus internationally.'
   evidence:
   - quote: We rolled out the ability to purchase ChatGPT Plus internationally.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -55,7 +55,7 @@ ChatGPT — Updates to ChatGPT: We rolled out the ability to purchase ChatGPT Pl
 <!-- chronolog:begin region="evidence" -->
 > We rolled out the ability to purchase ChatGPT Plus internationally.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

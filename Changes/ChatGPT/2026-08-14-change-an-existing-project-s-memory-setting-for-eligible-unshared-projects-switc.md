@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: d97d9ac13cbdbf77cb8016b23c4026e2a3a678b9c1805b622aaaa7ba11f99d8c
+machine_hash: c861310311197c69a30cd87ed3383bee908dd4ddd7a8ea51196135e0e7d28bd2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
   - quote: Change an existing project’s memory setting. For eligible unshared projects,
       switch between default and project-only memory without starting a new project.
       Shared projects remain project-only.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -62,7 +62,7 @@ ChatGPT — ChatGPT app experience updates: Change an existing project’s memor
 <!-- chronolog:begin region="evidence" -->
 > Change an existing project’s memory setting. For eligible unshared projects, switch between default and project-only memory without starting a new project. Shared projects remain project-only.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

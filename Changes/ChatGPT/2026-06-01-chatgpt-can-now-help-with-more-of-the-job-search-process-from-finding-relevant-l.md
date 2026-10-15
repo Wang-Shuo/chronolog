@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 9e1df30cc6a4fd3bc1afbbefb91fd2e20dabec67405728f9e040da49f3094d74
+machine_hash: c43fb1c5adf08ff6c773b6c19cf833246eb13312016039e4a652afdfa038b579
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,7 +38,7 @@ record:
       fit. You can follow links to apply directly on the source sites.You can now
       also upload or create a resume in ChatGPT, tailor it to a specific role, and
       download it in a polished, professional format.Availability:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#find-live-jobs-and-format-your-resume-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -71,7 +71,7 @@ ChatGPT — Find live jobs and format your resume in ChatGPT: ChatGPT can now he
 <!-- chronolog:begin region="evidence" -->
 > ChatGPT can now help with more of the job search process, from finding relevant live roles to tailoring a resume for a specific opportunity. When you search for jobs, ChatGPT can surface live listings and freelance opportunities from sources like Indeed, Upwork, Appcast, and across the web. Results are personalized using your experience, skills, and goals to highlight roles that may be a strong fit. You can follow links to apply directly on the source sites.You can now also upload or create a resume in ChatGPT, tailor it to a specific role, and download it in a polished, professional format.Availability:
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#find-live-jobs-and-format-your-resume-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

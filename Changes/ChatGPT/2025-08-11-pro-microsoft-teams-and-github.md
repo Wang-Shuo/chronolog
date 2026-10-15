@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 04f828013a61374b83e19cbae20a641c28d16d0a1750aece51666ec43bc97b6c
+machine_hash: fc73391f26254fcf158962ae27255a5e10cfb9b843dffe57a151dc2b3ceaa721
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,7 +24,7 @@ record:
     and GitHub'
   evidence:
   - quote: 'Pro: Microsoft Teams and GitHub'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#additional-connectors-for-plus-and-pro
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -55,7 +55,7 @@ ChatGPT — Additional connectors for Plus and Pro: Pro: Microsoft Teams and Git
 <!-- chronolog:begin region="evidence" -->
 > Pro: Microsoft Teams and GitHub
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#additional-connectors-for-plus-and-pro
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

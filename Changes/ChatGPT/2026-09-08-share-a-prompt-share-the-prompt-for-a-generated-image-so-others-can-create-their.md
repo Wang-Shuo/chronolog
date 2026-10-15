@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 99e385e9f0dce893668a8d85116954040c06159409e436ba597ea2f7489508a9
+machine_hash: 7112795ea46b832b9b536c127fdf7e5f80bbbdab83fb24678dd4aa8f33c86950
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: Share a prompt. Share the prompt for a generated image so others can create
       their own version.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-images-25-new-ways-to-create-and-edit
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -61,7 +61,7 @@ ChatGPT — ChatGPT Images 2.5: new ways to create and edit: Share a prompt. Sha
 <!-- chronolog:begin region="evidence" -->
 > Share a prompt. Share the prompt for a generated image so others can create their own version.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-images-25-new-ways-to-create-and-edit
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

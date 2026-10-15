@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 5ba08eea745604edd403fb5d3b9e35838e3e9fe1a1eed565d15152c4025551ad
+machine_hash: f9cf687458e70343f316551f8496927fcb4f22647a4953551124b77d2d4934b0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Among Pro plans, Ultrafast is available only with Pro 500. Buying credits
       on Pro 100 or Pro 200 does not unlock it. Pro 500 subscriptions are available
       through ChatGPT on the web at launch.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#a-new-pro-plan-with-astra-ultrafast
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -62,7 +62,7 @@ ChatGPT — A new Pro plan with Astra Ultrafast: Among Pro plans, Ultrafast is a
 <!-- chronolog:begin region="evidence" -->
 > Among Pro plans, Ultrafast is available only with Pro 500. Buying credits on Pro 100 or Pro 200 does not unlock it. Pro 500 subscriptions are available through ChatGPT on the web at launch.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#a-new-pro-plan-with-astra-ultrafast
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

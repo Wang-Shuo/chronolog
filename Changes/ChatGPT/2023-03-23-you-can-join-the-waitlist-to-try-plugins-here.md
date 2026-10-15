@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 6f0a915f508027623f3bdd5163e8e9fe3bb61455847ff79676d9e26a471b9a12
+machine_hash: 9d65ac61e940e9636516218d4995d8c7e3b04883beeca2d172d96766e74a26ca
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,7 +24,7 @@ record:
     to try plugins here:'
   evidence:
   - quote: 'You can join the waitlist to try plugins here:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-plugins-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -51,7 +51,7 @@ ChatGPT — Introducing plugins in ChatGPT: You can join the waitlist to try plu
 <!-- chronolog:begin region="evidence" -->
 > You can join the waitlist to try plugins here:
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-plugins-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

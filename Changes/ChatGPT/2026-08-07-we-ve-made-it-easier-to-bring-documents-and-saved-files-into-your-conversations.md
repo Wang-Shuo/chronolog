@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 050377b1b87e0b602dacd9e17aee886bd1c5f2038ca9f0243d77017a41fa9de1
+machine_hash: 3ee6fc7f942c5e55a13e34045ac797cff101e4286fe9a527c4918fb5838aa13e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: We’ve made it easier to bring documents and saved files into your conversations,
       find what you need, and pick up where you left off.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -57,7 +57,7 @@ ChatGPT — ChatGPT app experience updates: We’ve made it easier to bring docu
 <!-- chronolog:begin region="evidence" -->
 > We’ve made it easier to bring documents and saved files into your conversations, find what you need, and pick up where you left off.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 3b34892ceef6f86320710b9c3c6b622722405d02a74d1407c3a8edd5da6ff5ef
+machine_hash: 477920bf80f1dd7479551070eb6d7ed17fb70d5b595f62c41d41238ab6152c37
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
     model'
   evidence:
   - quote: 'Default: the standard ChatGPT model'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-plus
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -56,7 +56,7 @@ ChatGPT — Introducing ChatGPT Plus: Default: the standard ChatGPT model
 <!-- chronolog:begin region="evidence" -->
 > Default: the standard ChatGPT model
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-plus
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

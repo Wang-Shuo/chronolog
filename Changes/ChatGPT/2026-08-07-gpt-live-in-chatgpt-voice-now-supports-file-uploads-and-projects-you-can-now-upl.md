@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: ec5b1fc492262f70f75fe6de796fac57217549ce0f2448e40646e9875b2345d7
+machine_hash: 4410842740402bef328024099ba74ad8a998f4b410ccb6b838d80d0b7a18220e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       now upload files in a voice conversation and analyze its contents or ask questions.
       You can also use voice in Projects, referencing recent project chats, sources,
       and project instructions.Learn more about ChatGPT Voice.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#files-and-projects-in-chatgpt-voice
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -63,7 +63,7 @@ ChatGPT — Files and Projects in ChatGPT Voice: GPT-Live in ChatGPT Voice now s
 <!-- chronolog:begin region="evidence" -->
 > GPT-Live in ChatGPT Voice now supports file uploads and Projects. You can now upload files in a voice conversation and analyze its contents or ask questions. You can also use voice in Projects, referencing recent project chats, sources, and project instructions.Learn more about ChatGPT Voice.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#files-and-projects-in-chatgpt-voice
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

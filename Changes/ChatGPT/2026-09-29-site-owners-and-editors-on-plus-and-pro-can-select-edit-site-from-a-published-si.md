@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 4ad30f0d9e99e377f6a46c31fda195cbd957dc282da942680c028ddaa604d66a
+machine_hash: 1c5a8eadb2a9d3f5f4d0dba610670d7c8819608a638fd1a0605acd2153898fc1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Site owners and editors on Plus and Pro can select Edit site from a published
       Site in a desktop browser to continue editing in ChatGPT, review changes, and
       publish when ready.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#creating-editing-and-scheduling-sites
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -60,7 +60,7 @@ ChatGPT — Creating, editing, and scheduling Sites: Site owners and editors on 
 <!-- chronolog:begin region="evidence" -->
 > Site owners and editors on Plus and Pro can select Edit site from a published Site in a desktop browser to continue editing in ChatGPT, review changes, and publish when ready.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#creating-editing-and-scheduling-sites
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2025-01-15'
-machine_hash: 40970c19060eb1a2bed87c7f80786cf84c7f0571fef4d59adf3c663a844cb899
+machine_hash: 8c3b8b2cb855fc8699b7286120822012770433d996bb1352a1136bddcb9c1118
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -11,13 +11,13 @@ record:
   release_id: chatgpt-2025-01-15-import-from-chat-into-canvas-e328bc82
   source_summary: Edit a full model response in Canvas
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#import-from-chat-into-canvas
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Import from Chat into Canvas
   version: Import from Chat into Canvas
 release_id: chatgpt-2025-01-15-import-from-chat-into-canvas-e328bc82
 source_release: Import from Chat into Canvas
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#import-from-chat-into-canvas
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -31,7 +31,7 @@ version: Import from Chat into Canvas
 <!-- chronolog:begin region="summary" -->
 Edit a full model response in Canvas
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#import-from-chat-into-canvas)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 2
 <!-- chronolog:end -->

@@ -1,18 +1,18 @@
 ---
 coverage:
-  acquired_at: '2026-10-13T10:53:45Z'
+  acquired_at: '2026-10-15T01:55:30Z'
   acquisition: http
   coverage: available-endpoint
   earliest: '2023-03-14'
   known_gaps: Official paginated changelog only; unannounced changes are outside scope.
-  last_successful_fetch: '2026-10-13T10:53:45Z'
-  latest: '2026-10-06'
-  release_count: 254
+  last_successful_fetch: '2026-10-15T01:55:30Z'
+  latest: '2026-10-13'
+  release_count: 255
   url: https://cursor.com/changelog
 created: '2023-03-14'
-date: '2026-10-06'
-machine_hash: 86874fcd39c5c6c503d89c35962b4e88f03c273fe976aa54d4a88e295f892b93
-modified: '2026-10-06'
+date: '2026-10-13'
+machine_hash: 7bfc2896eca7324cd33be3160ed859a493c47e903ad5b8dbca1f190b3b9c2ebc
+modified: '2026-10-13'
 product: cursor
 product_name: Cursor
 publication: active
@@ -53,9 +53,9 @@ The release archive records announced changes; a reviewed phase narrative is not
 
 ## Source coverage
 <!-- chronolog:begin region="coverage" -->
-Archived release dates: 2023-03-14 → 2026-10-06.
+Archived release dates: 2023-03-14 → 2026-10-13.
 
-Last successful fetch: 2026-10-13T10:53:45Z.
+Last successful fetch: 2026-10-15T01:55:30Z.
 
 [Source](https://cursor.com/changelog).
 
@@ -64,7 +64,7 @@ Coverage limits: Official paginated changelog only; unannounced changes are outs
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
-Cursor: 254 archived releases and 621 tracked changes.
+Cursor: 255 archived releases and 624 tracked changes.
 
 Most represented themes: agent-mode, editor-experience, apps-integrations, developer-workflow, interface-experience.
 <!-- chronolog:end -->
@@ -697,6 +697,9 @@ No reviewed capability turning points assigned yet. The archive below is chronol
 - 2026-10-06 mobile-desktop: [[Changes/Cursor/2026-10-06-you-can-now-see-and-reply-to-the-local-agents-running-on-your-computer-from-the|You can now see and reply to the local agents running on your computer from the]]
 - 2026-10-06 enterprise-admin: [[Changes/Cursor/2026-10-06-remote-control-is-on-by-default-for-everyone-except-enterprise-organizations|Remote Control is on by default for everyone except Enterprise organizations.]]
 - 2026-10-06 agent-mode: [[Changes/Cursor/2026-10-06-remote-control-doesn-t-move-your-agents-anywhere-it-keeps-running-on-your-comput|Remote control doesn't move your agents anywhere. It keeps running on your compu]]
+- 2026-10-13 safety-privacy: [[Changes/Cursor/2026-10-13-origin-now-integrates-with-over-20-apps-for-deployments-ci-code-review-security|Origin now integrates with over 20 apps for deployments, CI, code review, securi]]
+- 2026-10-13 apps-integrations: [[Changes/Cursor/2026-10-13-the-marketplace-now-includes-apps-for|The marketplace now includes apps for:]]
+- 2026-10-13 collaboration: [[Changes/Cursor/2026-10-13-starting-today-the-marketplace-is-also-open-to-public-submissions-so-any-team-bu|Starting today, the marketplace is also open to public submissions, so any team]]
 <!-- chronolog:end -->
 
 ## Editor Notes
@@ -956,4 +959,5 @@ No reviewed capability turning points assigned yet. The archive below is chronol
 - 2026-09-10: [[Releases/Cursor/cursor-2026-09-10-cursor-projects-https-cursor-com-changelog-projects-105aab75|Cursor Projects]]
 - 2026-09-23: [[Releases/Cursor/cursor-2026-09-23-rollouts-and-security-review-https-cursor-com-changelog-rollouts-b860a5fb|Rollouts and Security Review]]
 - 2026-10-06: [[Releases/Cursor/cursor-2026-10-06-remote-control-for-local-agents-https-cursor-com-changelog-remot-bb6325fd|Remote control for local agents]]
+- 2026-10-13: [[Releases/Cursor/cursor-2026-10-13-origin-app-marketplace-https-cursor-com-changelog-origin-app-mar-54aa7e2c|Origin App Marketplace]]
 <!-- chronolog:end -->

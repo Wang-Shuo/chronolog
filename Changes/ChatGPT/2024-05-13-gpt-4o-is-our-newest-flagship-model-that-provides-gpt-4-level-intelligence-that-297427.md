@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: f76f447438ce8c4f1b60252f184c23a5d9b5dbded35bfea6e9ffa7115b13850d
+machine_hash: b358d3a05b35417621ff9aade57d66c2a3f35794d3a0ee3080a7bd0ad59f08b4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,7 +35,7 @@ record:
       out. You can read more about the announcement here.Plus users will have a message
       limit that is up to 5x greater than free users, and Team and Enterprise users
       will have even higher limits.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpt-4o
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -96,7 +96,7 @@ ChatGPT — Introducing GPT-4o: GPT-4o is our newest flagship model that provide
 <!-- chronolog:begin region="evidence" -->
 > GPT-4o is our newest flagship model that provides GPT-4-level intelligence that is much faster and improves on its capabilities across text, voice, and vision. Currently, only the new text and image capabilities have been rolled out. You can read more about the announcement here.Plus users will have a message limit that is up to 5x greater than free users, and Team and Enterprise users will have even higher limits.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpt-4o
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

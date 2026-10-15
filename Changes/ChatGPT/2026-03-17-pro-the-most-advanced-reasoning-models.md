@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 3fec9369ea39c7ad88dca9ebb3c217ea7e4aaa0cd26352c6c0ce90a9ceefb41f
+machine_hash: 8fcedfcb1611d4408c920486fb71918b9ee9d4fa69e5d4579267187e3d2c3d57
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,7 +24,7 @@ record:
     reasoning models'
   evidence:
   - quote: Pro – the most advanced reasoning models
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-model-picker-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -55,7 +55,7 @@ ChatGPT — Updates to the model picker in ChatGPT: Pro – the most advanced re
 <!-- chronolog:begin region="evidence" -->
 > Pro – the most advanced reasoning models
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-model-picker-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

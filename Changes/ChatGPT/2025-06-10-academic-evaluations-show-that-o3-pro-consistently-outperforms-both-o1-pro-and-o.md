@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 94e2851fd0a42e597298086e2676478d9c77677ca3e2b150bafc6fc748686a89
+machine_hash: 23ae3a2ca35d15d3b1171cee96c6b4a607235805d608a4a9731233fa965e6fa0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: Academic evaluations show that o3-pro consistently outperforms both o1-pro
       and o3.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#today-were-launching-openai-o3-proavailable-now-for-pro-users-in-chatgpt-and-in-our-api
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -61,7 +61,7 @@ ChatGPT — Today, we're launching OpenAI o3-pro—available now for Pro users i
 <!-- chronolog:begin region="evidence" -->
 > Academic evaluations show that o3-pro consistently outperforms both o1-pro and o3.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#today-were-launching-openai-o3-proavailable-now-for-pro-users-in-chatgpt-and-in-our-api
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

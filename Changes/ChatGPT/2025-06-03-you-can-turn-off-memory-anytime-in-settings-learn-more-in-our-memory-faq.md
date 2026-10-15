@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 497346f053b0438cf1a02e808e321183e86f20c10827a8e0aec0dc28c363a057
+machine_hash: 4dc034429242232ae73266396024a49e469185fbef923df2eee9e1e8cb1035c9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,7 +24,7 @@ record:
     turn off memory anytime in settings. Learn more in our Memory FAQ.'
   evidence:
   - quote: You can turn off memory anytime in settings. Learn more in our Memory FAQ.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-is-now-more-comprehensive-for-free-users
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -55,7 +55,7 @@ ChatGPT — Memory is now more comprehensive for Free users: You can turn off me
 <!-- chronolog:begin region="evidence" -->
 > You can turn off memory anytime in settings. Learn more in our Memory FAQ.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-is-now-more-comprehensive-for-free-users
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

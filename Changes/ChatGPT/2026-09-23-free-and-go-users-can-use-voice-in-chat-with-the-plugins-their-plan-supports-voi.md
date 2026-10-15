@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: e18f627d7561b4016307acbcc6e91944ff2d5fa722786c8a24c41301a1ee70a7
+machine_hash: 3418d579ed84ac75e9d644b46b41fb310c19890fdb6f21966a2bd3877a364af1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Free and Go users can use Voice in Chat with the plugins their plan supports.
       Voice in Work requires both Voice and Work access. Existing app connections,
       permissions, and usage limits apply.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-plugins-in-voice-and-get-work-done-by-speaking
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -70,7 +70,7 @@ ChatGPT — Use plugins in Voice and get work done by speaking: Free and Go user
 <!-- chronolog:begin region="evidence" -->
 > Free and Go users can use Voice in Chat with the plugins their plan supports. Voice in Work requires both Voice and Work access. Existing app connections, permissions, and usage limits apply.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-plugins-in-voice-and-get-work-done-by-speaking
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

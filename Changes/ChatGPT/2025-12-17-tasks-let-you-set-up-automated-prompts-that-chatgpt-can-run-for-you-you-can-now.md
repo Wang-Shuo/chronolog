@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 749ca368a1e7ed6e5c78ac9fc6919e1f5230102ba6819c3eab854ccdc3edb43c
+machine_hash: 8919809bbf229505cf5750f1dc3bc5abc48b9530f042713690f683a73db45163
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: 'Tasks let you set up automated prompts that ChatGPT can run for you.You
       can now manage all your tasks directly in Pulse:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#tasks-are-now-in-pulse
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -56,7 +56,7 @@ ChatGPT — Tasks are now in Pulse: Tasks let you set up automated prompts that 
 <!-- chronolog:begin region="evidence" -->
 > Tasks let you set up automated prompts that ChatGPT can run for you.You can now manage all your tasks directly in Pulse:
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#tasks-are-now-in-pulse
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

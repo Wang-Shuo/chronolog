@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: fa20df263079e7b358e3876357bc7f1887f0549195f6a34dd7a85e56af9a5d58
+machine_hash: 2f87cb73f896eb34fc796d24b4dbf8f66960df1ac5411390a93fee3b9cd5ef6b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,7 +24,7 @@ record:
     generated images.'
   evidence:
   - quote: 1⁠. Increased the default size for in‐line generated images.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#android-app
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -54,7 +54,7 @@ ChatGPT — Android App: 1⁠. Increased the default size for in‐line generate
 <!-- chronolog:begin region="evidence" -->
 > 1⁠. Increased the default size for in‐line generated images.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#android-app
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

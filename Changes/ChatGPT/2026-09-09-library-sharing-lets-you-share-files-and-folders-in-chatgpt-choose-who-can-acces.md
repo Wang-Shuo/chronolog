@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 17915c7df557470ca4aa385ca4564d5c6e0362e8b978e830ec288275979a20af
+machine_hash: cf4ea373357dff81fa9ecd6f5379ea88774a6ce51a0790313e689b8432be87f4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: Library sharing lets you share files and folders in ChatGPT, choose who
       can access them, and work with shared content directly in your conversations.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#share-files-and-folders-from-your-library
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -61,7 +61,7 @@ ChatGPT — Share files and folders from your Library: Library sharing lets you 
 <!-- chronolog:begin region="evidence" -->
 > Library sharing lets you share files and folders in ChatGPT, choose who can access them, and work with shared content directly in your conversations.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#share-files-and-folders-from-your-library
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 6ab968fd0e4afc028a7852d93a561fdad5fb0d2773ceb9688d10767e249cb4c1
+machine_hash: c909241a26037d3ab81689a6525b45594e8f5e6ea3f3660170aba815e99dd412
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: 1⁠. Improved table-copying functionality out of ChatGPT responses on iOS
       and macOS.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ios-app
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -58,7 +58,7 @@ ChatGPT — iOS App: 1⁠. Improved table-copying functionality out of ChatGPT r
 <!-- chronolog:begin region="evidence" -->
 > 1⁠. Improved table-copying functionality out of ChatGPT responses on iOS and macOS.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ios-app
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

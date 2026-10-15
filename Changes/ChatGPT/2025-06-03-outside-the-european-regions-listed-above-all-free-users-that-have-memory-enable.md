@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 6fa8ca66718093f619627ff3a2545b9ae589749455552c9fb72c2f81d07ed27d
+machine_hash: e025edfbdc95fd62e15f70f1d1680f8dc938fb399e40ea1eeea70bd486202e72
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: Outside the European regions listed above, all Free users that have memory
       enabled will receive the upgrade automatically.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-is-now-more-comprehensive-for-free-users
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -59,7 +59,7 @@ ChatGPT — Memory is now more comprehensive for Free users: Outside the Europea
 <!-- chronolog:begin region="evidence" -->
 > Outside the European regions listed above, all Free users that have memory enabled will receive the upgrade automatically.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-is-now-more-comprehensive-for-free-users
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

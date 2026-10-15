@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: e5d2d5d5d11616b9f5e851b86cc4b5d21a91fcb7a6b5265efe1da3ce02c1b340
+machine_hash: 15d0c3719d507f66b08ff8f0961dc085a9b85c2d635f977bfafe049afc778b3e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,7 +34,7 @@ record:
       memories or create new memories.Memory updates, including memory summary, are
       still rolling out across ChatGPT plans and countries. You’ll be notified in
       ChatGPT when memory updates are available to you.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#additional-controls-for-memory-summary
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -67,7 +67,7 @@ ChatGPT — Additional controls for memory summary: If you don’t want informat
 <!-- chronolog:begin region="evidence" -->
 > If you don’t want information from a chat to be used to personalize responses, you can turn off memory or use Temporary Chat. Temporary Chats don’t use existing memories or create new memories.Memory updates, including memory summary, are still rolling out across ChatGPT plans and countries. You’ll be notified in ChatGPT when memory updates are available to you.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#additional-controls-for-memory-summary
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

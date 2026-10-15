@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: dfed69e6f333e2f4d6b6b4a6f38ce0fa38bb016159fc15d5800cdca97875b102
+machine_hash: 218e9abd08154e9645c50e6a0bef20f043887ef7631c37e6c653b85eefbcae88
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Record mode is now available to ChatGPT Plus users globally in the macOS
       desktop app.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#record-mode-in-chatgpt-macos-desktop-app-plus
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -57,7 +57,7 @@ ChatGPT — Record mode in ChatGPT macOS desktop app (Plus): Record mode is now 
 <!-- chronolog:begin region="evidence" -->
 > Record mode is now available to ChatGPT Plus users globally in the macOS desktop app.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#record-mode-in-chatgpt-macos-desktop-app-plus
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

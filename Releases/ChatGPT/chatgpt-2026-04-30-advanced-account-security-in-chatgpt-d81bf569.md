@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-04-30'
-machine_hash: e24b8f226c138c0fba7cc761ba6b8c34b1e7242d342df74613a819409c7eae9a
+machine_hash: 6cfa557e36af79f962eb924b24182c7ea3cdb4fab91492f9bc05b6e6dfd1d3b4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -15,13 +15,13 @@ record:
     access, and data exposure.With Advanced Account Security enabled, ChatGPT uses
     stronger…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#advanced-account-security-in-chatgpt
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Advanced Account Security in ChatGPT
   version: Advanced Account Security in ChatGPT
 release_id: chatgpt-2026-04-30-advanced-account-security-in-chatgpt-d81bf569
 source_release: Advanced Account Security in ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#advanced-account-security-in-chatgpt
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Advanced Account Security in ChatGPT
 <!-- chronolog:begin region="summary" -->
 We’re rolling out Advanced Account Security, an optional setting for personal ChatGPT accounts that adds stronger sign-in requirements and stricter account safeguards to help reduce the risk of ATO (account take over), unauthorized access, and data exposure.With Advanced Account Security enabled, ChatGPT uses stronger…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#advanced-account-security-in-chatgpt)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 1
 <!-- chronolog:end -->

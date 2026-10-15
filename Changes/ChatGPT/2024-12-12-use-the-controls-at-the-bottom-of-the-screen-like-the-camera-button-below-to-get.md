@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: af4b09e3c86a455a580e3ca0d93efa6864dde2785c8c734da189a19ab0e91d2c
+machine_hash: 3dbbef9ddb777bd2914f23d47fe5057df055c67158c5e2517cd667facc2ecbbd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Use the controls at the bottom of the screen, like the camera button below,
       to get started. You can find screen share and image upload controls under the
       “...” menu at the bottom of the screen.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#santa-voice-and-video-and-screen-share-in-voice-chats
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -69,7 +69,7 @@ ChatGPT — Santa Voice and Video and Screen Share in Voice Chats: Use the contr
 <!-- chronolog:begin region="evidence" -->
 > Use the controls at the bottom of the screen, like the camera button below, to get started. You can find screen share and image upload controls under the “...” menu at the bottom of the screen.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#santa-voice-and-video-and-screen-share-in-voice-chats
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

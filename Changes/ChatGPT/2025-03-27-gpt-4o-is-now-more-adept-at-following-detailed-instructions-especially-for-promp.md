@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 12abbf9f40897bb65a2854cd8879bb065239a57983fcb68dc38cf16487c8142a
+machine_hash: d6550fec1d89f45125fc7118eb0c699eeb092077afc097b8328d7b2972a7aab4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       for prompts containing multiple or complex requests. It improves on generating
       outputs according to the format requested and achieves higher accuracy in classification
       tasks.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-gpt-4o
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -64,7 +64,7 @@ ChatGPT — Improvements to GPT-4o: GPT-4o is now more adept at following detail
 <!-- chronolog:begin region="evidence" -->
 > GPT-4o is now more adept at following detailed instructions, especially for prompts containing multiple or complex requests. It improves on generating outputs according to the format requested and achieves higher accuracy in classification tasks.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-gpt-4o
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

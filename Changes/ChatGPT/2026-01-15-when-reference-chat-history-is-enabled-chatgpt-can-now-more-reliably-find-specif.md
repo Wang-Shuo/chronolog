@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 95576e6e89a6b1e51bb428d92081306dec17675b1917aff380aad39e3fda71c6
+machine_hash: 0e5b164a2df3091c0e1a13e99785b9efccf187f715a85603240770f8b9061a3f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       specific details from your past chats when you ask. Any past chat used to answer
       your question now appears as a source so you can open and review the original
       context.This memory improvement is now available for Plus and Pro users globally.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improved-memory-for-finding-details-from-past-chats-plus-pro
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -72,7 +72,7 @@ ChatGPT — Improved memory for finding details from past chats (Plus & Pro): Wh
 <!-- chronolog:begin region="evidence" -->
 > When reference chat history is enabled, ChatGPT can now more reliably find specific details from your past chats when you ask. Any past chat used to answer your question now appears as a source so you can open and review the original context.This memory improvement is now available for Plus and Pro users globally.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improved-memory-for-finding-details-from-past-chats-plus-pro
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

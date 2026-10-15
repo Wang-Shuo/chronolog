@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 830f602d0fd76131a16466cd911b9e5e8b3bf5e2a965d52b600fb79f470f8488
+machine_hash: 9d4b0ccd6ec385a6a349385c0566461d577e81864e6ad4a276d8bd1eed058219
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,7 +34,7 @@ record:
       options, and much more.ChatGPT Enterprise also provides unlimited access to
       Advanced Data Analysis, previously known as Code Interpreter.Learn more on our
       website and connect with our sales team to get started.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-enterprise
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -95,7 +95,7 @@ ChatGPT — Introducing ChatGPT Enterprise: Today we’re launching ChatGPT Ente
 <!-- chronolog:begin region="evidence" -->
 > Today we’re launching ChatGPT Enterprise, which offers enterprise-grade security and privacy, unlimited higher-speed GPT-4 access, longer context windows for processing longer inputs, advanced data analysis capabilities, customization options, and much more.ChatGPT Enterprise also provides unlimited access to Advanced Data Analysis, previously known as Code Interpreter.Learn more on our website and connect with our sales team to get started.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-enterprise
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

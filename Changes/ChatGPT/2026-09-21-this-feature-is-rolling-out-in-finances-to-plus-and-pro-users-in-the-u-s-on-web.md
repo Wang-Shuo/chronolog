@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 2fa329edd2c50619a44f1073eb8c70bebad7c0d5b6f42ff1a810ef6868b2aab8
+machine_hash: 831f0ba4ac67377c65e4d32c6c2c519eafb6af151ce15bd2d1030b22f49312c4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: This feature is rolling out in Finances to Plus and Pro users in the U.S.
       on web, iOS, and Android. Some eligible users may not see it right away.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#credit-scores-in-finances
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -59,7 +59,7 @@ ChatGPT — Credit scores in Finances: This feature is rolling out in Finances t
 <!-- chronolog:begin region="evidence" -->
 > This feature is rolling out in Finances to Plus and Pro users in the U.S. on web, iOS, and Android. Some eligible users may not see it right away.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#credit-scores-in-finances
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

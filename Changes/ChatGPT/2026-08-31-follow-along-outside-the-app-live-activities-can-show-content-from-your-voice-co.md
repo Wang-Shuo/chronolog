@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: ec7fb537015c0c551ca7dc05ac23bdd846845895fed77f13729727f7b6483d1d
+machine_hash: a8a7a5eeb520984716967db0c8686b0df5f908d89eb32282b54798aa39623f02
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: Follow along outside the app. Live Activities can show content from your
       voice conversation while you use another app or your phone is locked.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#see-live-voice-content-on-your-lock-screen
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -59,7 +59,7 @@ ChatGPT — See Live voice content on your Lock Screen: Follow along outside the
 <!-- chronolog:begin region="evidence" -->
 > Follow along outside the app. Live Activities can show content from your voice conversation while you use another app or your phone is locked.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#see-live-voice-content-on-your-lock-screen
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

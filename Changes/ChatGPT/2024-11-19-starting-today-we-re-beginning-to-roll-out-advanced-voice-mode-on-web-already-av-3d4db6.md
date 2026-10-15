@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 4a1c7c729ae107e633ff4a854f7c2d81db93255f2d6375ba4ec77bc121490c66
+machine_hash: 9c079a93bc6ed0a03b5e45fe7666664646c69f0d06fc228385b30da8e7623bbf
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
       ChatGPT while doing tasks like shopping, planning, writing, and brainstorming.We’re
       starting to roll out to all paid (Plus, Team, Enterprise, and Edu) users today,
       and expect it to take a few days.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#advanced-voice-for-chatgpt-web
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -87,7 +87,7 @@ ChatGPT — Advanced Voice for ChatGPT Web: Starting today, we’re beginning to
 <!-- chronolog:begin region="evidence" -->
 > Starting today, we’re beginning to roll out Advanced Voice Mode on web (already available on mobile and desktop apps). You can now start a voice chat on chatgpt.com on your desktop and have real-time, natural conversations with ChatGPT while doing tasks like shopping, planning, writing, and brainstorming.We’re starting to roll out to all paid (Plus, Team, Enterprise, and Edu) users today, and expect it to take a few days.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#advanced-voice-for-chatgpt-web
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

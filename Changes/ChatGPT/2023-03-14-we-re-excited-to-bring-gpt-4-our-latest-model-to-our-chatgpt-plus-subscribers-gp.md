@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 9e87e8ea53fb39dfa19d1c3d81db2f126ace624602d74e4780ce204dcf1a4839
+machine_hash: ede0cd69369e0c333d4000844f56c3f8a7f919edc0856f1e1fc356c4b05767b1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   evidence:
   - quote: 'We’re excited to bring GPT-4, our latest model, to our ChatGPT Plus subscribers.GPT-4
       has enhanced capabilities in:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#announcing-gpt-4-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -61,7 +61,7 @@ ChatGPT — Announcing GPT-4 in ChatGPT: We’re excited to bring GPT-4, our lat
 <!-- chronolog:begin region="evidence" -->
 > We’re excited to bring GPT-4, our latest model, to our ChatGPT Plus subscribers.GPT-4 has enhanced capabilities in:
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#announcing-gpt-4-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 20fc21d96e2af0e39e403b491550c23493223408e2c79df9756edf01a7f616aa
+machine_hash: 87f20b9f6a6fab7a3468957ffdeaba29610dfae463f5efc281e27a333898b98f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: We have been working on a variety of usability and performance improvements
       and bug fixes across Web, Android, and iOS. Below are a small number of specific
       callouts. For updates on the ChatGPT macOS app, please see this page.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#web-and-the-windows-desktop-app
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -72,7 +72,7 @@ ChatGPT — Web and the Windows desktop app: We have been working on a variety o
 <!-- chronolog:begin region="evidence" -->
 > We have been working on a variety of usability and performance improvements and bug fixes across Web, Android, and iOS. Below are a small number of specific callouts. For updates on the ChatGPT macOS app, please see this page.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#web-and-the-windows-desktop-app
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

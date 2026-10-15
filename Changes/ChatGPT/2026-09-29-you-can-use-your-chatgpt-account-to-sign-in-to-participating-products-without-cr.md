@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 83cd518e041aea9fefdfb57a08713baf8431423f99f5290a86f85ec9ce4baf25
+machine_hash: 80228aed4e29eca155ada60271ce64eb3ca44438f9e084ef8f3e2b9695a91bdf
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       creating another password. The product receives your name, email address, and
       profile picture if you have one. Signing in does not share your ChatGPT conversations
       or memory; you approve any additional access separately.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#sign-in-to-other-products-with-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -72,7 +72,7 @@ ChatGPT — Sign in to other products with ChatGPT: You can use your ChatGPT acc
 <!-- chronolog:begin region="evidence" -->
 > You can use your ChatGPT account to sign in to participating products without creating another password. The product receives your name, email address, and profile picture if you have one. Signing in does not share your ChatGPT conversations or memory; you approve any additional access separately.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#sign-in-to-other-products-with-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

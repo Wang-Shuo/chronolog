@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: ef3e922ac03b1e724a2153bfe017c08a6bd390186eff339c62440cd56b385459
+machine_hash: 660f81a2256fc2c561bab014bd9ac15c1b951e54f230f9dc5c5036a71597c370
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
     tables and charts in a new expandable view'
   evidence:
   - quote: Interact with tables and charts in a new expandable view
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-data-analysis-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -58,7 +58,7 @@ ChatGPT — Improvements to data analysis in ChatGPT: Interact with tables and c
 <!-- chronolog:begin region="evidence" -->
 > Interact with tables and charts in a new expandable view
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-data-analysis-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

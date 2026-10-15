@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: ac960d6c02225e7ee12bfd86daf94a3b0e27b1939781e532b80e48d1dee6cf4c
+machine_hash: 9b6b36139a70eae529f3b03f34b3d2877b156e05b1c85576c23987cf5a2b5ee9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: The plugins are available through ChatGPT Edu and ChatGPT for Teachers
       district deployments. Schools and institutions control which tools and permissions
       are available.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-education-plugins-for-students-and-educators
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -58,7 +58,7 @@ ChatGPT — New education plugins for students and educators: The plugins are av
 <!-- chronolog:begin region="evidence" -->
 > The plugins are available through ChatGPT Edu and ChatGPT for Teachers district deployments. Schools and institutions control which tools and permissions are available.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-education-plugins-for-students-and-educators
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

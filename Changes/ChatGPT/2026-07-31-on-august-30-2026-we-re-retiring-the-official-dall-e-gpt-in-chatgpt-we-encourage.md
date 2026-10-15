@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 41eabb97c0e242034c67c5ff683937cbc8614f38dacac693d67fece83cc3ca6f
+machine_hash: a0614b81cb5adeb670124fd3b745824809eee142c309229546a73d158acc5183
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       We encourage you to download any images you want to keep before then.To continue
       creating or editing images, use ChatGPT Images. User-created GPTs with image
       generation enabled are not affected.Learn more in Images in ChatGPT.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-the-dalle-gpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -62,7 +62,7 @@ ChatGPT — Retiring the DALL·E GPT: On August 30, 2026, we’re retiring the o
 <!-- chronolog:begin region="evidence" -->
 > On August 30, 2026, we’re retiring the official DALL·E GPT in ChatGPT. We encourage you to download any images you want to keep before then.To continue creating or editing images, use ChatGPT Images. User-created GPTs with image generation enabled are not affected.Learn more in Images in ChatGPT.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-the-dalle-gpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

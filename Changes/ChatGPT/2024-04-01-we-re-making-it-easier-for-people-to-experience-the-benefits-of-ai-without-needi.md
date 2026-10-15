@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 94cb11210e2a733e3a61d55b0a5d6de82d27bf111d3347f8277126d3f9bbf886
+machine_hash: 433cf478fcd8ab580766f3d5093bf9a7dc836f0b3736baae9b8bce2979adb305
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       needing to sign up. Starting today, you can use ChatGPT instantly, without needing
       to sign-up. We're rolling this out gradually, with the aim to make AI accessible
       to anyone curious about its capabilities.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#start-using-chatgpt-instantly
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -65,7 +65,7 @@ ChatGPT — Start using ChatGPT instantly: We’re making it easier for people t
 <!-- chronolog:begin region="evidence" -->
 > We’re making it easier for people to experience the benefits of AI without needing to sign up. Starting today, you can use ChatGPT instantly, without needing to sign-up. We're rolling this out gradually, with the aim to make AI accessible to anyone curious about its capabilities.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#start-using-chatgpt-instantly
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

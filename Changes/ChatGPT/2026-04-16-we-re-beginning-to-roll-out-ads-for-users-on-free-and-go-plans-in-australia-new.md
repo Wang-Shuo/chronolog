@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 89d12a7af148cc35d780c363856a227029b7a61fd48ff80927192500b41b3916
+machine_hash: 3a1521ea460852df10b765ad794a211ac975ff31911c7d56537f4f11d90b8cce
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
   - quote: We're beginning to roll out ads for users on Free and Go plans in Australia,
       New Zealand, and Canada. Plus, Pro, Business, Enterprise, and Education plans
       do not have ads.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#rolling-out-ads-in-australia-new-zealand-and-canada
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -62,7 +62,7 @@ ChatGPT — Rolling out ads in Australia, New Zealand, and Canada: We're beginni
 <!-- chronolog:begin region="evidence" -->
 > We're beginning to roll out ads for users on Free and Go plans in Australia, New Zealand, and Canada. Plus, Pro, Business, Enterprise, and Education plans do not have ads.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#rolling-out-ads-in-australia-new-zealand-and-canada
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

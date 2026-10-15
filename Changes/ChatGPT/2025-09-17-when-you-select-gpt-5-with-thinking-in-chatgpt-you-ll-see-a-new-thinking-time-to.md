@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: f576186890566bc5dba3dec5f47d5b873b2a6c89d89c61750f9dbf87bbff7b89
+machine_hash: 309c195ed550289ffd2f7a49b019edef35db8485b27a7188a81d4d4435826d42
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   evidence:
   - quote: When you select GPT-5 with Thinking in ChatGPT, you’ll see a new thinking
       time toggle in the message composer.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#toggle-thinking-time-in-the-message-composer
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -63,7 +63,7 @@ ChatGPT — Toggle thinking time in the message composer: When you select GPT-5 
 <!-- chronolog:begin region="evidence" -->
 > When you select GPT-5 with Thinking in ChatGPT, you’ll see a new thinking time toggle in the message composer.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#toggle-thinking-time-in-the-message-composer
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

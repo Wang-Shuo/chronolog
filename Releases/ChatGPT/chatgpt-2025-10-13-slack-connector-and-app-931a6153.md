@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-10-13'
-machine_hash: 8e6a73edb9026261bd6557d105cd8eade0a307655bbc0c7c4b14f55773197900
+machine_hash: ae44f02a53fbebe206d89cd5d895dc873c85402a4ca376db1ed30331c9102cc3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -15,13 +15,13 @@ record:
     the ChatGPT app for Slack, you can chat one-on-one with ChatGPT in a dedicated
     Slack…'
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#slack-connector-and-app
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Slack connector and app
   version: Slack connector and app
 release_id: chatgpt-2025-10-13-slack-connector-and-app-931a6153
 source_release: Slack connector and app
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#slack-connector-and-app
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Slack connector and app
 <!-- chronolog:begin region="summary" -->
 We’re rolling out two new ways to bring Slack and ChatGPT together: a connector that brings your Slack context into ChatGPT, and a ChatGPT app for Slack – an integration that enables you to chat with ChatGPT from inside Slack.With the ChatGPT app for Slack, you can chat one-on-one with ChatGPT in a dedicated Slack…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#slack-connector-and-app)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 1
 <!-- chronolog:end -->

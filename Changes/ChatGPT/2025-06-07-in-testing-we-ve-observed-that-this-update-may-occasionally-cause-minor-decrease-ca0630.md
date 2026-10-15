@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 2827c535d57c5af7b38943e53db8b907c31837ee72691c2190bfef071e59425e
+machine_hash: ae3ee98f8f8b29b749c26b921c61b451ddc997503958d65f4ad50b7e9d4a91e4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,7 +35,7 @@ record:
       persist with this update, resulting in unintended sounds resembling ads, gibberish,
       or background music. We are actively investigating these issues and working
       toward a solution.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-advanced-voice-mode-for-paid-users
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -67,7 +67,7 @@ ChatGPT — Updates to Advanced Voice Mode for paid users: In testing, we've obs
 <!-- chronolog:begin region="evidence" -->
 > In testing, we've observed that this update may occasionally cause minor decreases in audio quality, including unexpected variations in tone and pitch. These issues are more noticeable with certain voice options. We expect to improve audio consistency over time.Additionally, rare hallucinations in Voice Mode persist with this update, resulting in unintended sounds resembling ads, gibberish, or background music. We are actively investigating these issues and working toward a solution.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-advanced-voice-mode-for-paid-users
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

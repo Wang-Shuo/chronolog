@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: ad79b1fe7f70ea4ece9d160dcb2a074bc17d6c6dc4305793613661a694f3755e
+machine_hash: 30de1dc8602b9de0ba855bf72aa4b9283e9d3abf61d264076568cea1855a3817
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       For more details, check out our blog post explaining what happened and our initial
       findings, and this blog post where we expand on what we missed with sycophancy
       and the changes we're going to make going forward.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-gpt-4o
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -65,7 +65,7 @@ ChatGPT — Updates to GPT-4o: We've reverted the most recent update to GPT-4o d
 <!-- chronolog:begin region="evidence" -->
 > We've reverted the most recent update to GPT-4o due to issues with overly agreeable responses (sycophancy).We’re actively working on further improvements. For more details, check out our blog post explaining what happened and our initial findings, and this blog post where we expand on what we missed with sycophancy and the changes we're going to make going forward.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-gpt-4o
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2026-08-04'
-machine_hash: 58dfa197231c22484511b4857f6bc90f3e240a1772c358310b6007139ac94ee2
+machine_hash: aad8691125e0a5568c0dc0b8c3f428b5c2d0c4639257fe6cc4e07a6bbd053f70
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -12,13 +12,13 @@ record:
   source_summary: Starting today for ChatGPT Enterprise and Education users, long
     pastes are handled differently in ChatGPT.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#large-pastes-are-now-handled-as-attachments-for-all-plans
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Large pastes are now handled as attachments for all plans
   version: Large pastes are now handled as attachments for all plans
 release_id: chatgpt-2026-08-04-large-pastes-are-now-handled-as-attachments-for-all-plans-8f11f30a
 source_release: Large pastes are now handled as attachments for all plans
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#large-pastes-are-now-handled-as-attachments-for-all-plans
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -32,7 +32,7 @@ version: Large pastes are now handled as attachments for all plans
 <!-- chronolog:begin region="summary" -->
 Starting today for ChatGPT Enterprise and Education users, long pastes are handled differently in ChatGPT.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#large-pastes-are-now-handled-as-attachments-for-all-plans)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 2
 <!-- chronolog:end -->

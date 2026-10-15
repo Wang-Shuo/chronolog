@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: d13905ab2847da5d8e46b18f236bb6392c3fe58512b07a02cd8b479bff752ad8
+machine_hash: 99120877c7523993cd9675802f93f3cbb34ea7959032394e942de067c0cde87d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,7 +24,7 @@ record:
     in the memory summary to make a specific correction.'
   evidence:
   - quote: Highlight any text in the memory summary to make a specific correction.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#additional-controls-for-memory-summary
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -55,7 +55,7 @@ ChatGPT — Additional controls for memory summary: Highlight any text in the me
 <!-- chronolog:begin region="evidence" -->
 > Highlight any text in the memory summary to make a specific correction.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#additional-controls-for-memory-summary
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

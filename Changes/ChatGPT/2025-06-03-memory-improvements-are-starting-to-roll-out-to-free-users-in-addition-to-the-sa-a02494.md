@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 8e7e9d557b342da2e11780ddb169b04ebb19db94904e3992a36ceb92a2f55636
+machine_hash: ed998129916ed6e8ec291133677cc21209b4fa8bcf14b2320d1435b4e89d76e9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       to the saved memories that were there before, ChatGPT now references your recent
       conversations to deliver responses that feel more relevant and tailored to you.Free
       users must be logged in and on up-to-date apps (iOS/Android v1.2025.147+).
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-is-now-more-comprehensive-for-free-users
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -79,7 +79,7 @@ ChatGPT — Memory is now more comprehensive for Free users: Memory improvements
 <!-- chronolog:begin region="evidence" -->
 > Memory improvements are starting to roll out to Free users. In addition to the saved memories that were there before, ChatGPT now references your recent conversations to deliver responses that feel more relevant and tailored to you.Free users must be logged in and on up-to-date apps (iOS/Android v1.2025.147+).
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-is-now-more-comprehensive-for-free-users
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

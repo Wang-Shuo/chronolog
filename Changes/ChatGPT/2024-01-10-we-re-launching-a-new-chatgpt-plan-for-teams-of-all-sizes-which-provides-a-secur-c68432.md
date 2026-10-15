@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 3f4037a2a3b7003014e2cdda0f2fe93f5603959f6c256aba7476a2baf4ee0985
+machine_hash: 041f7f2cd3f1f760c45ec2e32903b3425e3f65058aa51d8f454f9539ff510b3b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,7 +42,7 @@ record:
       business data or conversations, and our models don’t learn from your usage.
       More details on our data privacy practices can be found on our privacy page
       and Trust Portal.You can learn more about the ChatGPT Team plan here.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-the-gpt-store-and-chatgpt-team-plan
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -103,7 +103,7 @@ ChatGPT — Introducing the GPT Store and ChatGPT Team plan: We’re launching a
 <!-- chronolog:begin region="evidence" -->
 > We’re launching a new ChatGPT plan for teams of all sizes, which provides a secure, collaborative workspace to get the most out of ChatGPT at work.ChatGPT Team offers access to our advanced models like GPT-4 and DALL·E 3, and tools like Advanced Data Analysis. It additionally includes a dedicated collaborative workspace for your team and admin tools for team management. As with ChatGPT Enterprise, you own and control your business data — we do not train on your business data or conversations, and our models don’t learn from your usage. More details on our data privacy practices can be found on our privacy page and Trust Portal.You can learn more about the ChatGPT Team plan here.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-the-gpt-store-and-chatgpt-team-plan
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

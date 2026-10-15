@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: ea72bcb0c475184d4a522100af94084623f039f79f38dde073876ab3a26c6f35
+machine_hash: b4822b072d4a5f17820416b674ee9b2aefb4017a57c94280d3b761d9da4aaa8f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,7 +38,7 @@ record:
       Instant Mini, GPT-5.5 Instant Mini better tracks evolving user intent, calibrates
       tone, and avoids repetitive or overly structured responses. Testing also showed
       stronger personalization and fewer factual issues.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-55-instant-mini-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -86,7 +86,7 @@ ChatGPT — GPT-5.5 Instant Mini in ChatGPT: We’re rolling out GPT-5.5 Instant
 <!-- chronolog:begin region="evidence" -->
 > We’re rolling out GPT-5.5 Instant Mini in ChatGPT. It replaces GPT-5.3 Instant Mini as the fallback model users reach after hitting their GPT-5.5 Instant or Auto rate limits. Because it serves as a fallback, it won’t appear in the model picker. This update does not affect the API or Codex.Compared with GPT-5.3 Instant Mini, GPT-5.5 Instant Mini better tracks evolving user intent, calibrates tone, and avoids repetitive or overly structured responses. Testing also showed stronger personalization and fewer factual issues.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-55-instant-mini-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

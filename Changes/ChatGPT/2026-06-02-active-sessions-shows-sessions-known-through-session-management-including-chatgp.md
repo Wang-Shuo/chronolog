@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 04681197826f21ad278ed41bb5244f4298fcb5e6243e5d7acc0672c906de39e1
+machine_hash: a400387479429914373d82f5bfade3f75cb4634605e33435bcde5c46cb63ae84
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       third-party app sessions, connected apps, Sign in with ChatGPT sessions used
       only for third-party services, or Codex CLI sessions.Learn more: Managing active
       sessions in ChatGPT'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#active-account-session-controls
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -74,7 +74,7 @@ ChatGPT — Active account session controls: Active sessions shows sessions know
 <!-- chronolog:begin region="evidence" -->
 > Active sessions shows sessions known through session management, including ChatGPT, Codex, and API Platform sessions where available. It does not manage third-party app sessions, connected apps, Sign in with ChatGPT sessions used only for third-party services, or Codex CLI sessions.Learn more: Managing active sessions in ChatGPT
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#active-account-session-controls
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

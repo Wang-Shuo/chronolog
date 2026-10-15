@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: a187a4239072f8141d84fe5f2f95a2984096d77f831964a3b5bd682d8eea42b0
+machine_hash: 889cebf9a795c47f2e3f073f514baa2ea93d593c24d3c6cb06f42451698400ad
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
       Free, Go, Plus, and Pro users in the United States who are 18 or older can securely
       connect supported health records and Apple Health data, see a dashboard of their
       health information, and ask questions grounded in their personal health context.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#health-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -67,7 +67,7 @@ ChatGPT — Health in ChatGPT: We’re starting to roll out a new health experie
 <!-- chronolog:begin region="evidence" -->
 > We’re starting to roll out a new health experience in ChatGPT. Logged-in Free, Go, Plus, and Pro users in the United States who are 18 or older can securely connect supported health records and Apple Health data, see a dashboard of their health information, and ask questions grounded in their personal health context.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#health-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

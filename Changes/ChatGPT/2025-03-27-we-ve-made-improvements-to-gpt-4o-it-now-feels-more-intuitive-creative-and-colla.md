@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: e681a4d6e1dacefb0c8a921322d795e619046d6b56f18949405ebb7e3b11768c
+machine_hash: 7be360c5a7682a682f281ee76c7a15e75926f9707d08b1020472196fb513e1ea
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: We’ve made improvements to GPT-4o—it now feels more intuitive, creative,
       and collaborative, with enhanced instruction-following, smarter coding capabilities,
       and a clearer communication style.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-gpt-4o
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -62,7 +62,7 @@ ChatGPT — Improvements to GPT-4o: We’ve made improvements to GPT-4o—it now
 <!-- chronolog:begin region="evidence" -->
 > We’ve made improvements to GPT-4o—it now feels more intuitive, creative, and collaborative, with enhanced instruction-following, smarter coding capabilities, and a clearer communication style.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-gpt-4o
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

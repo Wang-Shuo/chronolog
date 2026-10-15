@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2026-08-28'
-machine_hash: c53b12f16d2a238c251d62788ad9f5f62043b6aeade4f9c1e52c59ab1486fe15
+machine_hash: a0a05793b710682120addf68c12fbb6ed3ebc2206ed2809dd53461fceff2427b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -14,13 +14,13 @@ record:
     into the same conversation. Ask ChatGPT to check your calendars together when
     planning your day or find emails across your connected inboxes.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#connect-multiple-google-accounts-to-chatgpt
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Connect multiple Google accounts to ChatGPT
   version: Connect multiple Google accounts to ChatGPT
 release_id: chatgpt-2026-08-28-connect-multiple-google-accounts-to-chatgpt-06db9b52
 source_release: Connect multiple Google accounts to ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#connect-multiple-google-accounts-to-chatgpt
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Connect multiple Google accounts to ChatGPT
 <!-- chronolog:begin region="summary" -->
 You can now connect multiple accounts for Gmail, Google Calendar, and Google Contacts plugins in ChatGPT, bringing your personal and work accounts into the same conversation. Ask ChatGPT to check your calendars together when planning your day or find emails across your connected inboxes.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#connect-multiple-google-accounts-to-chatgpt)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 2
 <!-- chronolog:end -->

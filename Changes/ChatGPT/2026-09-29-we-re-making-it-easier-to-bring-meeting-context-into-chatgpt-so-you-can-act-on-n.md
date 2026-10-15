@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 6008b2afd8d60cfc387de319987ebed6c6da2f1344cd6184d4ed5bf6bd27ff4b
+machine_hash: 97548824d38db639787ebd59a3939ac2887e3ea1acfb8f608718dd7435230aba
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       said in the meeting and saves personalized summaries with action items in ChatGPT
       Space. You can keep them private or share them with your team, then ask ChatGPT
       to update a project plan or draft a follow-up.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#meetings-plugin
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -82,7 +82,7 @@ ChatGPT — Meetings plugin: We’re making it easier to bring meeting context i
 <!-- chronolog:begin region="evidence" -->
 > We’re making it easier to bring meeting context into ChatGPT so you can act on next steps faster. The Meetings plugin takes notes for you based on what’s said in the meeting and saves personalized summaries with action items in ChatGPT Space. You can keep them private or share them with your team, then ask ChatGPT to update a project plan or draft a follow-up.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#meetings-plugin
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

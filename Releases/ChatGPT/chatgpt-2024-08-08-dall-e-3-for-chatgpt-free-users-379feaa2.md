@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2024-08-08'
-machine_hash: 8e315d6ec42b4b6cef95dcdaf1987583c3b29af93770eb27505e206dccd404d0
+machine_hash: e93bfbddf004c1a6fd51d057dc1bcff7cc3f0646c35ea47e2383a6fad3431d93
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -14,13 +14,13 @@ record:
     slide deck, personalize a card for a friend, or show you what something looks
     like.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#dalle-3-for-chatgpt-free-users
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: DALL·E 3 for ChatGPT Free users
   version: DALL·E 3 for ChatGPT Free users
 release_id: chatgpt-2024-08-08-dall-e-3-for-chatgpt-free-users-379feaa2
 source_release: DALL·E 3 for ChatGPT Free users
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#dalle-3-for-chatgpt-free-users
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: DALL·E 3 for ChatGPT Free users
 <!-- chronolog:begin region="summary" -->
 We’re rolling out the ability for ChatGPT Free users to create up to two images per day with DALL·E 3.Just ask ChatGPT to create an image for a slide deck, personalize a card for a friend, or show you what something looks like.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#dalle-3-for-chatgpt-free-users)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 1
 <!-- chronolog:end -->

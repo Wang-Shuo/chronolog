@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 193bf230542d5da9af6f84376eae826cfad6efbc28d89395546587a354529d97
+machine_hash: 5d5facaca2b4480d224001ff88721a886793990521c4c5a376f1e1b2dc1d0bbc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,7 +34,7 @@ record:
       with supported web-based tools and files. Codex also adds inline editing within
       diffs, pull-request review in the side panel, faster computer use, and support
       for multiple repositories in one project.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -85,7 +85,7 @@ ChatGPT — The new ChatGPT desktop app brings Chat, Work, and Codex together: O
 <!-- chronolog:begin region="evidence" -->
 > On desktop, Work can use local files and desktop apps with your permission. The built-in browser lets ChatGPT gather information from websites and work with supported web-based tools and files. Codex also adds inline editing within diffs, pull-request review in the side panel, faster computer use, and support for multiple repositories in one project.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

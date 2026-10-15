@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: d112f3ce636bd85e13bceda063203dbeef7f6972710555d8c28bb76f832a4c4a
+machine_hash: e55392052d5c39144c29462d35bd540df849bd43358682625389639ba44b2bfa
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
   - quote: This feature will initially only be available on the ChatGPT website and
       Windows app. Support for mobile (iOS and Android) and macOS app will follow
       in the coming weeks.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#project-only-memory
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -61,7 +61,7 @@ ChatGPT — Project-only memory: This feature will initially only be available o
 <!-- chronolog:begin region="evidence" -->
 > This feature will initially only be available on the ChatGPT website and Windows app. Support for mobile (iOS and Android) and macOS app will follow in the coming weeks.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#project-only-memory
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

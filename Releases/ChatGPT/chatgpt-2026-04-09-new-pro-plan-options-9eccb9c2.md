@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2026-04-09'
-machine_hash: 1fbcf2f0f2e7c61a768e2ac1d975e1aeb0f2b014c65d1fe6181022fd6d03a697
+machine_hash: abc14dd32f9167032a2b78116a96891095718f1ecd66d68dbb6ffc2a26c8845b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -12,13 +12,13 @@ record:
   source_summary: We’re introducing a new $100/month Pro plan and updating how Codex
     usage works across Plus and Pro.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-pro-plan-options
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: New Pro plan options
   version: New Pro plan options
 release_id: chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2
 source_release: New Pro plan options
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-pro-plan-options
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -32,7 +32,7 @@ version: New Pro plan options
 <!-- chronolog:begin region="summary" -->
 We’re introducing a new $100/month Pro plan and updating how Codex usage works across Plus and Pro.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-pro-plan-options)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 5
 <!-- chronolog:end -->

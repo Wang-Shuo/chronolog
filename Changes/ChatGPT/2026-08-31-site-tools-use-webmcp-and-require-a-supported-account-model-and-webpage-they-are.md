@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: ee82ff0dc8e2a5e2fb0827dfb606e963657df075e7c9351211d139bd98d86866
+machine_hash: b7c340e964175c1eff426d895bb523d5520a262ef9d1f1f13b2bdc81c0fbed48
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
   - quote: Site tools use WebMCP and require a supported account, model, and webpage.
       They are available in the built-in desktop browser, not through the Chrome extension.
       Existing website-access and sensitive-action confirmations still apply.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-website-tools-in-the-desktop-browser
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -73,7 +73,7 @@ ChatGPT — Use website tools in the desktop browser: Site tools use WebMCP and 
 <!-- chronolog:begin region="evidence" -->
 > Site tools use WebMCP and require a supported account, model, and webpage. They are available in the built-in desktop browser, not through the Chrome extension. Existing website-access and sensitive-action confirmations still apply.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-website-tools-in-the-desktop-browser
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

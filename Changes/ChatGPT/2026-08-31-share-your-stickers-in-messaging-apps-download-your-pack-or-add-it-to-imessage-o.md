@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 78c0f3d55ea2fca255608bf5334da9ae49de0ed17d4b8649e012cfa0d9ef1fe1
+machine_hash: 2f547012668954698d0b94c8e8328a1ef0546b7175f02057390e2c31a27fbb0f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: Share your stickers in messaging apps. Download your pack or add it to
       iMessage or WhatsApp on supported devices.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#create-and-share-personalized-sticker-packs
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -67,7 +67,7 @@ ChatGPT — Create and share personalized sticker packs: Share your stickers in 
 <!-- chronolog:begin region="evidence" -->
 > Share your stickers in messaging apps. Download your pack or add it to iMessage or WhatsApp on supported devices.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#create-and-share-personalized-sticker-packs
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

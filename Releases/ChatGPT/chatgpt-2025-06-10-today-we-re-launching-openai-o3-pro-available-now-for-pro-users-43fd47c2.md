@@ -1,7 +1,7 @@
 ---
 changes_count: 4
 date: '2025-06-10'
-machine_hash: 2db674a58464881e5988fe5b9cc58a15161845f65fa93f84c92737126e9d0d3b
+machine_hash: 82a1a6420bf31b7f3c4ff3ca910d35dd099e3282c49695a2f59ce7264df24e7a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -15,7 +15,7 @@ record:
     and coding—areas where o3-pro continues to excel, as shown in academic evaluations.
     Like o3…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#today-were-launching-openai-o3-proavailable-now-for-pro-users-in-chatgpt-and-in-our-api
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Today, we're launching OpenAI o3-pro—available now for Pro users in ChatGPT
     and in our API.
   version: Today, we're launching OpenAI o3-pro—available now for Pro users in ChatGPT
@@ -24,7 +24,7 @@ release_id: chatgpt-2025-06-10-today-we-re-launching-openai-o3-pro-available-now
 source_release: Today, we're launching OpenAI o3-pro—available now for Pro users in
   ChatGPT and in our API.
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#today-were-launching-openai-o3-proavailable-now-for-pro-users-in-chatgpt-and-in-our-api
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -40,7 +40,7 @@ version: Today, we're launching OpenAI o3-pro—available now for Pro users in C
 <!-- chronolog:begin region="summary" -->
 Like o1-pro, o3-pro is a version of our most intelligent model, o3, designed to think longer and provide the most reliable responses. Since the launch of o1-pro, users have favored this model for domains such as math, science, and coding—areas where o3-pro continues to excel, as shown in academic evaluations. Like o3…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#today-were-launching-openai-o3-proavailable-now-for-pro-users-in-chatgpt-and-in-our-api)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 4
 <!-- chronolog:end -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 3df61f1ba577d9d8d565958f11ccc3a083c605940c7a5f08d12cea8b93c8f031
+machine_hash: 38ac358c6d31f997f776f12da1d53013b38c6a71bba3b465a9afdfb7b538cc9f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
       Starting next week, they’ll also have unlimited text chats and access to a new
       Think button for harder questions (subject to abuse guardrails). Limits will
       still apply for file uploads, images and other tools.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-gpt56-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -65,7 +65,7 @@ ChatGPT — Updates to GPT‑5.6 in ChatGPT: GPT‑5.6 Luna will become the defa
 <!-- chronolog:begin region="evidence" -->
 > GPT‑5.6 Luna will become the default model for Free and Go users this week. Starting next week, they’ll also have unlimited text chats and access to a new Think button for harder questions (subject to abuse guardrails). Limits will still apply for file uploads, images and other tools.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-gpt56-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

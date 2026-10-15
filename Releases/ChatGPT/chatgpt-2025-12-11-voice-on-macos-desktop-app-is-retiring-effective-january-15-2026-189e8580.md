@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2025-12-11'
-machine_hash: f07bd1bfd4f28294509493c7c23a1eaa3d30c1a2b1a303297f4f882174a9d16c
+machine_hash: 86bbf04c6a9360fa131984990e02286b15e093de04b87c2eb5460e4b8a46826d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -13,13 +13,13 @@ record:
     January 15, 2026. This change allows us to focus on more unified and improved
     voice experiences across our apps.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#voice-on-macos-desktop-app-is-retiring-effective-january-15-2026
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Voice on macOS desktop app is retiring (effective January 15, 2026)
   version: Voice on macOS desktop app is retiring (effective January 15, 2026)
 release_id: chatgpt-2025-12-11-voice-on-macos-desktop-app-is-retiring-effective-january-15-2026-189e8580
 source_release: Voice on macOS desktop app is retiring (effective January 15, 2026)
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#voice-on-macos-desktop-app-is-retiring-effective-january-15-2026
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -33,7 +33,7 @@ version: Voice on macOS desktop app is retiring (effective January 15, 2026)
 <!-- chronolog:begin region="summary" -->
 We’re retiring the Voice experience in the ChatGPT macOS app on January 15, 2026. This change allows us to focus on more unified and improved voice experiences across our apps.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#voice-on-macos-desktop-app-is-retiring-effective-january-15-2026)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 2
 <!-- chronolog:end -->

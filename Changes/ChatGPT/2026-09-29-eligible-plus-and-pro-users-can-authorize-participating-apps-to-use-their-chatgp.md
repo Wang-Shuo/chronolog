@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 65b148859f7ddbe6f34028227fa5f0c888f3f99b4ea860f42885c9246d623855
+machine_hash: f81815b325fec27d9efac24c754dd6f77c537e3f78546867bea6e29e3ce9384b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
       ChatGPT model allowance without creating an API key. Choose which apps can use
       your allowance and set an app-specific limit. Usage counts toward your existing
       plan allowance; connecting an app does not add more usage.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-your-chatgpt-allowance-in-participating-apps
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -74,7 +74,7 @@ ChatGPT — Use your ChatGPT allowance in participating apps: Eligible Plus and 
 <!-- chronolog:begin region="evidence" -->
 > Eligible Plus and Pro users can authorize participating apps to use their ChatGPT model allowance without creating an API key. Choose which apps can use your allowance and set an app-specific limit. Usage counts toward your existing plan allowance; connecting an app does not add more usage.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-your-chatgpt-allowance-in-participating-apps
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

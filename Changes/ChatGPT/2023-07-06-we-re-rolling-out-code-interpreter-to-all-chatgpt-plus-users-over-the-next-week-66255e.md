@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 0c138181fb27ef555cb718b22d53923afa2903daf657366be0a8542fe57942e2
+machine_hash: 23b1dc06bb148bc69370d0c5e2ffba0efe39b11fe434c35fa54641c50d273f9b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
       math, etc.We’ll be making these features accessible to Plus users on the web
       via the beta panel in your settings over the course of the next week.To enable
       code interpreter:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#code-interpreter-is-now-rolling-out-in-beta-on-web
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -64,7 +64,7 @@ ChatGPT — Code interpreter is now rolling out in beta on web: We’re rolling 
 <!-- chronolog:begin region="evidence" -->
 > We’re rolling out code interpreter to all ChatGPT Plus users over the next week.It lets ChatGPT run code, optionally with access to files you've uploaded. You can ask ChatGPT to analyze data, create charts, edit files, perform math, etc.We’ll be making these features accessible to Plus users on the web via the beta panel in your settings over the course of the next week.To enable code interpreter:
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#code-interpreter-is-now-rolling-out-in-beta-on-web
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

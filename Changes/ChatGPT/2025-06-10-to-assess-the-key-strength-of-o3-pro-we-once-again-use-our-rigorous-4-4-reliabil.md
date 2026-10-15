@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 6ed52573a9a6b9d2d88e1e8bf77fe1068349c4a1d9e654f80d6ce0753394638b
+machine_hash: 7648d36cc0eafa1e380bf9cde24e05b5a1a983e1eb9f786ed70a7fb730e2bc60
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
   - quote: 'To assess the key strength of o3-pro, we once again use our rigorous "4/4
       reliability" evaluation, where a model is considered successful only if it correctly
       answers a question in all four attempts, not just one:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#today-were-launching-openai-o3-proavailable-now-for-pro-users-in-chatgpt-and-in-our-api
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -65,7 +65,7 @@ ChatGPT — Today, we're launching OpenAI o3-pro—available now for Pro users i
 <!-- chronolog:begin region="evidence" -->
 > To assess the key strength of o3-pro, we once again use our rigorous "4/4 reliability" evaluation, where a model is considered successful only if it correctly answers a question in all four attempts, not just one:
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#today-were-launching-openai-o3-proavailable-now-for-pro-users-in-chatgpt-and-in-our-api
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

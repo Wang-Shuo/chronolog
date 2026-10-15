@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: e2dc035a41606722dcd98b37285117246b261cb57630e6ddfc68c80a4ea6683a
+machine_hash: aab5b99f84e44ae673e4936bfd3adaeb452ef444667a349c5b26a48bbce80ee6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,7 +41,7 @@ record:
       back with calm clarity and light wit.Nerd – Playful and curious, explaining
       concepts clearly while celebrating knowledge and discovery.Please note that
       these personalities will not apply to Voice mode.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#personalities
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -81,7 +81,7 @@ ChatGPT — Personalities: You can now choose from four distinct personalities o
 <!-- chronolog:begin region="evidence" -->
 > You can now choose from four distinct personalities or use the Default personality in your Customize ChatGPT settings. Default is the standard ChatGPT style: clear, neutral, and adaptable. The other personalities each have their own style and tone, described below.Cynic – Sarcastic and dry, delivers blunt help with wit. Often teases, but provides direct, practical answers when it matters.Robot – Precise, efficient, and emotionless, delivering direct answers without extra words.Listener – Warm and laid-back, reflecting your thoughts back with calm clarity and light wit.Nerd – Playful and curious, explaining concepts clearly while celebrating knowledge and discovery.Please note that these personalities will not apply to Voice mode.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#personalities
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

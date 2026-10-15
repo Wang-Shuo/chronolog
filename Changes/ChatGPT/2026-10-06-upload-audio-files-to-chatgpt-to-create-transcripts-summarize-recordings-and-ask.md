@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 5b630fb88f6f575daaf6765ed4ab0568716b4dd82132bb0b76327d33f33595d7
+machine_hash: 0ed175b4781dd990340dc770338f8baa7454532a46b260630928d14b7a33f1f8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,7 +39,7 @@ record:
       vary by workspace settings, region, client version, and model. Transcripts may
       contain errors, and performance may vary across languages.For more information,
       see: Uploading files and audio to ChatGPT.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#audio-uploads-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -86,7 +86,7 @@ ChatGPT — Audio uploads in ChatGPT: Upload audio files to ChatGPT to create tr
 <!-- chronolog:begin region="evidence" -->
 > Upload audio files to ChatGPT to create transcripts, summarize recordings, and ask questions about their contents. You can turn a meeting, interview, or lecture into structured notes or a follow-up email draft. To get started, attach a supported audio file to a conversation and describe what you need.Audio uploads are available with paid ChatGPT subscriptions and workspaces. Availability may vary by workspace settings, region, client version, and model. Transcripts may contain errors, and performance may vary across languages.For more information, see: Uploading files and audio to ChatGPT.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#audio-uploads-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

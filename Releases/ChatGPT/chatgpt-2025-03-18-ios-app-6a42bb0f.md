@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2025-03-18'
-machine_hash: 33e68b5aa6e1960df91bc438beee416d4904a1ae7a243a70368f21cc6d3d469e
+machine_hash: fbaffdece9eb552df03a1490c325dfa8432d2df48195d306d098ef6e7858c3f3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -12,13 +12,13 @@ record:
   source_summary: 1⁠. Improved table-copying functionality out of ChatGPT responses
     on iOS and macOS.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ios-app
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: iOS App
   version: iOS App
 release_id: chatgpt-2025-03-18-ios-app-6a42bb0f
 source_release: iOS App
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ios-app
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -32,7 +32,7 @@ version: iOS App
 <!-- chronolog:begin region="summary" -->
 1⁠. Improved table-copying functionality out of ChatGPT responses on iOS and macOS.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ios-app)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 3
 <!-- chronolog:end -->

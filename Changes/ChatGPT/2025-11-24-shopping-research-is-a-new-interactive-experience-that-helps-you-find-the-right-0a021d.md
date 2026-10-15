@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: fb8ff510445e6998dff6931c2ac24dd972aff06fc45c38ca805f3f542096a59c
+machine_hash: 7d4ef9fd9604ab85a551281a2bf14d6216fa31042dd2e4e1c16cd6ff6f4e634a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,7 +47,7 @@ record:
       on ChatGPT Web, iOS, and Android for logged‑in Free, Go, Plus, and Pro users.
       To help with holiday shopping, we’re making usage nearly unlimited across plans
       through the season. To learn more, visit the blog.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#shopping-research-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -94,7 +94,7 @@ ChatGPT — Shopping research in ChatGPT: Shopping research is a new interactive
 <!-- chronolog:begin region="evidence" -->
 > Shopping research is a new interactive experience that helps you find the right products without doing all the research yourself. Describe what you need—like a quiet cordless vacuum for a small apartment, a gift for a four‑year‑old who loves art, or a way to choose between three bikes—and ChatGPT will ask clarifying questions, research deeply across the internet, review quality sources, and build on ChatGPT’s understanding of you from past conversations and memory to return a personalized buyer’s guide with options, tradeoffs, and links to buy.ChatGPT learns what you like through an interactive interface allowing you to guide the research based on your real-time feedback.Shopping research is available on ChatGPT Web, iOS, and Android for logged‑in Free, Go, Plus, and Pro users. To help with holiday shopping, we’re making usage nearly unlimited across plans through the season. To learn more, visit the blog.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#shopping-research-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

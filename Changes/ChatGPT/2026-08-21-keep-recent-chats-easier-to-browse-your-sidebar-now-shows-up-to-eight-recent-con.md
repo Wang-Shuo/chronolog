@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 5a32dc835ef7eb4d7e7b34cd0589b35e4bfcc80a32c434b02369ed1c91777dde
+machine_hash: b1a2bc9d49d8571cd3412bf5a6948443f49a24c8cc465f5665d8dd34c8cecd2f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Keep recent chats easier to browse. Your sidebar now shows up to eight
       recent conversations.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt-on-android
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -68,7 +68,7 @@ ChatGPT — Updates to ChatGPT on Android: Keep recent chats easier to browse. Y
 <!-- chronolog:begin region="evidence" -->
 > Keep recent chats easier to browse. Your sidebar now shows up to eight recent conversations.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt-on-android
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

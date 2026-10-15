@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: c13706539ff4f4e43be88abd48e177a3c622d854532c68bb2809283d14229558
+machine_hash: f77fcb7fdcfe5434c48c530aafca18e6cbcaee8555a98d4c50ebd8bdc6424b29
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
       to multi-factor authentication (MFA), passkeys, and other security settings.
       Events include the time, location, and device details. Some details may be approximate
       or unavailable.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#security-history-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -74,7 +74,7 @@ ChatGPT — Security history in ChatGPT: We’re introducing security history, a
 <!-- chronolog:begin region="evidence" -->
 > We’re introducing security history, a new way to review recent security activity for your OpenAI account. You can see sign-ins, sign-outs, and changes to multi-factor authentication (MFA), passkeys, and other security settings. Events include the time, location, and device details. Some details may be approximate or unavailable.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#security-history-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

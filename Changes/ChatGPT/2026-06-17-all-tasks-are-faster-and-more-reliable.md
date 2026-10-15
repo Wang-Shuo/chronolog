@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 84f6fc1eb0b598b33e54614f0b9b25c61c74d53110d03d2d5558dbbf44a1ea6d
+machine_hash: 426c254df6759d13959b2b54f54db450ddaa0108aa36d44797c812b129276011
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,7 +24,7 @@ record:
     reliable.'
   evidence:
   - quote: All tasks are faster and more reliable.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -55,7 +55,7 @@ ChatGPT — Scheduled tasks in ChatGPT: All tasks are faster and more reliable.
 <!-- chronolog:begin region="evidence" -->
 > All tasks are faster and more reliable.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

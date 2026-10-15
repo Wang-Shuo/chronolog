@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: e4c64189fe76861241697ecbbee7202dde82f5e4d863403cab74fbf8150eca5c
+machine_hash: db48d7aed1c075a25ce0f52102bc7068896c2131cc2d59bb0422c5be3d66cd94
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: A small settings icon was added in larger viewports when the sidebar is
       not open
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-chatgpt-web-experience
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -58,7 +58,7 @@ ChatGPT — Updates to the ChatGPT Web experience: A small settings icon was add
 <!-- chronolog:begin region="evidence" -->
 > A small settings icon was added in larger viewports when the sidebar is not open
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-chatgpt-web-experience
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

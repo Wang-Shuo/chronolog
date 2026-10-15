@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 62de62ff5c425e39cfb9e5700847efd939bb171c8056815f5dddae115514fa96
+machine_hash: 9f2c0a6eee1a4bd74ddeb6f3217547490873bf50cee0574dce9a06076558b03e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
       The research is delivered to you proactively the next day as a series of visual
       summaries that you can scan at a glance, expand for more detail, save for later,
       or ask follow up questions.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-pulse-on-web
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -64,7 +64,7 @@ ChatGPT — ChatGPT Pulse on Web: ChatGPT Pulse is now available on web and roll
 <!-- chronolog:begin region="evidence" -->
 > ChatGPT Pulse is now available on web and rolling out to Atlas for Pro users.With Pulse, ChatGPT can do asynchronous research on your behalf once a day based on your past chats, memory, and feedback to help you get things done. The research is delivered to you proactively the next day as a series of visual summaries that you can scan at a glance, expand for more detail, save for later, or ask follow up questions.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-pulse-on-web
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

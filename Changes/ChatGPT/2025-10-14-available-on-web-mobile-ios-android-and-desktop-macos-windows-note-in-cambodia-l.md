@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 6680f79e7c2d35fffe5e45652b41fb9c0725c1c490daa7091cd7c8a80aa44152
+machine_hash: 72beb7e4a1ca5c07a573a638bbcaf6dac310e670b7431ced216a128b294e761e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       In Cambodia, Laos, and Nepal, ChatGPT Go subscriptions aren’t available in the
       iOS app currently. Web and Android subscriptions remain available.Learn more
       about ChatGPT Go.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-expansion
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -62,7 +62,7 @@ ChatGPT — ChatGPT Go expansion: Available on web, mobile (iOS & Android), and 
 <!-- chronolog:begin region="evidence" -->
 > Available on web, mobile (iOS & Android), and desktop (macOS & Windows).Note: In Cambodia, Laos, and Nepal, ChatGPT Go subscriptions aren’t available in the iOS app currently. Web and Android subscriptions remain available.Learn more about ChatGPT Go.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-expansion
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: fd7b814445c28ceb2890a3ca374003c04378a603694274dd29e864b467852131
+machine_hash: 00451bfefbc8c90319a3f199e51cbc5a05b366316cc36d784013053b4fea16e4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,7 +24,7 @@ record:
     personalized responses'
   evidence:
   - quote: Longer memory for more personalized responses
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-now-available-in-brazil
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -55,7 +55,7 @@ ChatGPT — ChatGPT Go now available in Brazil: Longer memory for more personali
 <!-- chronolog:begin region="evidence" -->
 > Longer memory for more personalized responses
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-now-available-in-brazil
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

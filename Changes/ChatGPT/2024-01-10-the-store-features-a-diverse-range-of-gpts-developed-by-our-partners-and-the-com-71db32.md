@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 41dbac826cd563ea76e531074473168d6c7b8f03c7e7549ed59022bf09fa67b2
+machine_hash: a34c07934536ed618f7e1a033b86af45efcd776f1cd820bd5fb3f596e986df68
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       the community. Browse popular and trending GPTs on the community leaderboard,
       with categories like DALL·E, writing, research, programming, education, and
       lifestyle.Explore GPTs at chatgpt.com/gpts.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-the-gpt-store-and-chatgpt-team-plan
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -69,7 +69,7 @@ ChatGPT — Introducing the GPT Store and ChatGPT Team plan: The store features 
 <!-- chronolog:begin region="evidence" -->
 > The store features a diverse range of GPTs developed by our partners and the community. Browse popular and trending GPTs on the community leaderboard, with categories like DALL·E, writing, research, programming, education, and lifestyle.Explore GPTs at chatgpt.com/gpts.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-the-gpt-store-and-chatgpt-team-plan
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

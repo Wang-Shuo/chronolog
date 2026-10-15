@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: aad85e73611f1b7e03b5e1232515d13a5624c52483e850c2f8954589a3a04331
+machine_hash: 79e8802ad897ecfe94c60534ad5abfcfbefc76bdd208d804316f7c45ed2591c3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
       same conversation. ChatGPT will create a draft and you can choose to send it
       without leaving ChatGPT. Sending emails is available on the web for users on
       Plus, Pro, Business, and Enterprise plans with Gmail or Outlook connected.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -64,7 +64,7 @@ ChatGPT — ChatGPT app experience updates: Send an email directly from within a
 <!-- chronolog:begin region="evidence" -->
 > Send an email directly from within a chat: If you’ve connected Gmail or Outlook, you can now ask ChatGPT to draft and send emails directly from the same conversation. ChatGPT will create a draft and you can choose to send it without leaving ChatGPT. Sending emails is available on the web for users on Plus, Pro, Business, and Enterprise plans with Gmail or Outlook connected.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

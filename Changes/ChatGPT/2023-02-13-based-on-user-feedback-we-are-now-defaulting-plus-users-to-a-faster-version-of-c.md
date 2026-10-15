@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 634a4c4d5cd9f2ecc875fc5fd9585cdda8cb2dd94cd3e60bb16a309d71c050e1
+machine_hash: a480b3d04de200518f1689acd9313894234fe0c7eec0f72896d00a20253e6806
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Based on user feedback, we are now defaulting Plus users to a faster version
       of ChatGPT, formerly known as “Turbo”. We’ll keep the previous version around
       for a while.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -59,7 +59,7 @@ ChatGPT — Updates to ChatGPT: Based on user feedback, we are now defaulting Pl
 <!-- chronolog:begin region="evidence" -->
 > Based on user feedback, we are now defaulting Plus users to a faster version of ChatGPT, formerly known as “Turbo”. We’ll keep the previous version around for a while.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

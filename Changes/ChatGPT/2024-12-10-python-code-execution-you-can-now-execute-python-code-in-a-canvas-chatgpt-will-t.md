@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 8b4bcfcf5f9d1c90153458f1852830f4b4a39ccf686d00f4776efda91ea9a183
+machine_hash: ff6ff9b96ee4edfb58a53e848e80f2928939d0bf37622876c9cd8661b62492e5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: 'Python code execution: You can now execute Python code in a canvas. ChatGPT
       will take a pass on fixing bugs in your code and provide comments on errors.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#canvas
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -59,7 +59,7 @@ ChatGPT — Canvas: Python code execution: You can now execute Python code in a 
 <!-- chronolog:begin region="evidence" -->
 > Python code execution: You can now execute Python code in a canvas. ChatGPT will take a pass on fixing bugs in your code and provide comments on errors.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#canvas
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

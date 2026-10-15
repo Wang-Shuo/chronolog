@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 0234a11071fbbe2fb37e397d84407f1138d08de718ec7554b3c0fe6a6d660221
+machine_hash: de230d827d627fff6b3fc7ba9b26eeaac73612e37f2609fd43f8787f097af165
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -36,7 +36,7 @@ record:
       mobile app and opt into voice conversations. Then, tap the headphone button
       located in the top-right corner of the home screen and choose your preferred
       voice out of five different voices.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-voice-and-image-capabilities-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -74,7 +74,7 @@ ChatGPT — New voice and image capabilities in ChatGPT: You can now use voice t
 <!-- chronolog:begin region="evidence" -->
 > You can now use voice to engage in a back-and-forth conversation with your assistant. Speak with it on the go, request a bedtime story, or settle a dinner table debate.To get started with voice, head to Settings → New Features on the mobile app and opt into voice conversations. Then, tap the headphone button located in the top-right corner of the home screen and choose your preferred voice out of five different voices.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-voice-and-image-capabilities-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

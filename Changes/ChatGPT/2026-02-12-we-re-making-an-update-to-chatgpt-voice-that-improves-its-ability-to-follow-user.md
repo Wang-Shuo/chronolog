@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 5c11dc8b81c3ed33906e650e8f420dcfac3555b6f22f08084df56ef5e5ee6acb
+machine_hash: fdfa804a7800f8d9e02b1cc9138643692ae26d6f7b7069b686f23a4c7a08caf9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
       user instructions, and usage of tools like web search to provide better responses.
       This update applies to the version of Voice primarily used by those on the free
       ChatGPT plan, and by Plus users when limits are reached for the main model.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-voice-update
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -78,7 +78,7 @@ ChatGPT — ChatGPT Voice Update: We’re making an update to ChatGPT Voice that
 <!-- chronolog:begin region="evidence" -->
 > We’re making an update to ChatGPT Voice that improves its ability to follow user instructions, and usage of tools like web search to provide better responses. This update applies to the version of Voice primarily used by those on the free ChatGPT plan, and by Plus users when limits are reached for the main model.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-voice-update
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

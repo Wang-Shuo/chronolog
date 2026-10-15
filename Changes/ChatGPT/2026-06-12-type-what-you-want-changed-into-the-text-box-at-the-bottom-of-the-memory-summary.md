@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 9c026f55634d3f1dcf14ba8417cdbb5328c82a4537e2921a68fa05e60ef1e4b4
+machine_hash: 030764dc4e1fba363141bfb705b3f415439c4c30b14d9f028c94aaa4fa1bd15f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: Type what you want changed into the text box at the bottom of the memory
       summary, and it will update accordingly.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#additional-controls-for-memory-summary
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -58,7 +58,7 @@ ChatGPT — Additional controls for memory summary: Type what you want changed i
 <!-- chronolog:begin region="evidence" -->
 > Type what you want changed into the text box at the bottom of the memory summary, and it will update accordingly.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#additional-controls-for-memory-summary
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

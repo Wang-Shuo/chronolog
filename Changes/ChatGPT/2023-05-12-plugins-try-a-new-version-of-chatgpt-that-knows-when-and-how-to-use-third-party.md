@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 825cff43885c87c1949b20bb940418a821b194a4ec29c8bcfa26e94c79ce466c
+machine_hash: d2bea396e324887ad9a98049267b7fc6a23994d843d23ac2b257303832bbaf08
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   evidence:
   - quote: 'Plugins: Try a new version of ChatGPT that knows when and how to use third-party
       plugins that you enable.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#web-browsing-and-plugins-are-now-rolling-out-in-beta
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -59,7 +59,7 @@ ChatGPT — Web browsing and Plugins are now rolling out in beta: Plugins: Try a
 <!-- chronolog:begin region="evidence" -->
 > Plugins: Try a new version of ChatGPT that knows when and how to use third-party plugins that you enable.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#web-browsing-and-plugins-are-now-rolling-out-in-beta
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

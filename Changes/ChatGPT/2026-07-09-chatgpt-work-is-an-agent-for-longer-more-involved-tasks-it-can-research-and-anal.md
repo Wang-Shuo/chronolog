@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: paradigm-shift
-machine_hash: 3c1ea5f827502835a337b599effed760ad36a957e8929772eef7d1a7c702c1fb
+machine_hash: f29290b242e6343533cd181be6755b595544b7c46b67ad185d9ccaf7548c6d7b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
       documents, spreadsheets, presentations, reports, and Sites. You can follow its
       progress, answer questions, change direction, and approve important actions
       as it works.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-work
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: paradigm-shift
   product: chatgpt
@@ -81,7 +81,7 @@ ChatGPT — Introducing ChatGPT Work: ChatGPT Work is an agent for longer, more 
 <!-- chronolog:begin region="evidence" -->
 > ChatGPT Work is an agent for longer, more involved tasks. It can research and analyze information, work across connected apps and files, and create finished documents, spreadsheets, presentations, reports, and Sites. You can follow its progress, answer questions, change direction, and approve important actions as it works.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-work
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

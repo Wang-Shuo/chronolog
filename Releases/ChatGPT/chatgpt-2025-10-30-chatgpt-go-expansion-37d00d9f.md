@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2025-10-30'
-machine_hash: a4848c3a363377c20c09509c9ddca40ea83b5454fcd16e90a19956115af4ee21
+machine_hash: 57cd70e15694ef5c835bfcafd2aab64a4db0f757dbdbad23428c29cf5f40b0b6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -14,13 +14,13 @@ record:
     to 98 countries. The new countries we added are Austria, Czech Republic, Denmark,
     Norway, Poland, Portugal, Spain and Sweden.For an affordable price, ChatGPT Go…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-expansion
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: ChatGPT Go expansion
   version: ChatGPT Go expansion
 release_id: chatgpt-2025-10-30-chatgpt-go-expansion-37d00d9f
 source_release: ChatGPT Go expansion
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-expansion
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: ChatGPT Go expansion
 <!-- chronolog:begin region="summary" -->
 We're excited to announce that ChatGPT Go, our low cost subscription plan, is now available in 8 additional countries in Europe, bringing total coverage to 98 countries. The new countries we added are Austria, Czech Republic, Denmark, Norway, Poland, Portugal, Spain and Sweden.For an affordable price, ChatGPT Go…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-expansion)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 3
 <!-- chronolog:end -->

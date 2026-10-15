@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 1929b37f30ad9f942f7f842672b258b3a6e3fedf0b7ae0bf21a0d170b613fa90
+machine_hash: aaf999c8f5a863d440a183b8d6f7cd394b0fb816d5f05767c65b5fb09263713e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -37,7 +37,7 @@ record:
       chats outside of the project.This creates a focused, self-contained space, which
       is useful for long-running or sensitive work where you want ChatGPT to stay
       anchored to that project’s tone, context, and history.Note:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#project-only-memory
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -80,7 +80,7 @@ ChatGPT — Project-only memory: An improvement to projects is now available. Wh
 <!-- chronolog:begin region="evidence" -->
 > An improvement to projects is now available. When creating a project, users have the option to enable project-only memory.With project-only memory enabled, ChatGPT can use other conversations in that project for additional context, and won’t use your saved memories from outside the project to shape responses. Additionally, it won’t carry anything from the project into future chats outside of the project.This creates a focused, self-contained space, which is useful for long-running or sensitive work where you want ChatGPT to stay anchored to that project’s tone, context, and history.Note:
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#project-only-memory
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

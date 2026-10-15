@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: bb64f11d37e4e892fa5092f55fb43d5098f3a011cde67ef4199f7886b114cb55
+machine_hash: f29cf3c3c0f98820c7c1020a4e016eb8b0ba7360dbef4627690f645c84a099d9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       directly in Space. Edit the text yourself or ask ChatGPT to revise it, add charts,
       or create interactive content. Collaborators can work on the same Page and leave
       comments, with each person using their own ChatGPT.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#create-and-collaborate-on-pages
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -64,7 +64,7 @@ ChatGPT — Create and collaborate on Pages: Turn a conversation into a Page, st
 <!-- chronolog:begin region="evidence" -->
 > Turn a conversation into a Page, start from a template, or begin writing directly in Space. Edit the text yourself or ask ChatGPT to revise it, add charts, or create interactive content. Collaborators can work on the same Page and leave comments, with each person using their own ChatGPT.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#create-and-collaborate-on-pages
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

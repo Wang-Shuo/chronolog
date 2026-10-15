@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-11-12'
-machine_hash: e930b5ddd1d778e7023df7a64a6c3e4b478292157849c16393aad15bb54c6589
+machine_hash: 89dc291379fa7f3fb9dd897df9c06df14eb449fbaa81c4dcf52359149ef2150e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -15,13 +15,13 @@ record:
     still available), and we’re experimenting with more granular controls over how
     concise…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-tone-and-personalization-controls
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: New tone and personalization controls
   version: New tone and personalization controls
 release_id: chatgpt-2025-11-12-new-tone-and-personalization-controls-8052eeb3
 source_release: New tone and personalization controls
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-tone-and-personalization-controls
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: New tone and personalization controls
 <!-- chronolog:begin region="summary" -->
 We’re updating ChatGPT’s tone controls so it’s easier to make responses sound the way you prefer. You can now choose from updated presets like Default, Friendly, Efficient, Professional, Candid, and Quirky (with Cynical and Nerdy still available), and we’re experimenting with more granular controls over how concise…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-tone-and-personalization-controls)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 1
 <!-- chronolog:end -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 5c008480d87b2f725423ba70aeba5930cb85c6030bc1d50d318d6c99291b9548
+machine_hash: dbb49e2e4ab3ab85f3088a35babe4af8ed9c9c7408a1883064e2f275ff1bf18c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
     directly from a chat'
   evidence:
   - quote: Starting a new project directly from a chat
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#adding-more-capabilities-to-projects
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -59,7 +59,7 @@ ChatGPT — Adding More Capabilities to Projects: Starting a new project directl
 <!-- chronolog:begin region="evidence" -->
 > Starting a new project directly from a chat
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#adding-more-capabilities-to-projects
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

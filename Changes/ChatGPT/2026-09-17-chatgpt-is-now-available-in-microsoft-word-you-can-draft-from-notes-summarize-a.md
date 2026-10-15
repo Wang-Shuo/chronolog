@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 26f998cbb988b7ae6118e6d0d4df410fc62bbc431c09674895c75d2b2cb222e4
+machine_hash: 9fe1d91b66b9f0710bfe49bbc9bdaf288701a87efeded827fd624f18ebc0cff5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       a document, revise selected text, and adjust headings and formatting from the
       ChatGPT sidebar. Word joins Excel and PowerPoint through the same Microsoft
       add-in.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-for-word
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -60,7 +60,7 @@ ChatGPT — ChatGPT for Word: ChatGPT is now available in Microsoft Word. You ca
 <!-- chronolog:begin region="evidence" -->
 > ChatGPT is now available in Microsoft Word. You can draft from notes, summarize a document, revise selected text, and adjust headings and formatting from the ChatGPT sidebar. Word joins Excel and PowerPoint through the same Microsoft add-in.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-for-word
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

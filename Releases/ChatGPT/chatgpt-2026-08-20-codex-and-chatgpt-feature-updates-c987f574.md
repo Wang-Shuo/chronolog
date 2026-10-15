@@ -1,7 +1,7 @@
 ---
 changes_count: 4
 date: '2026-08-20'
-machine_hash: 7e08486a7e629a725f0a6592ea9185a57aa555388dabab3df980b94584505348
+machine_hash: f3babac15cdc781e66c2b73c371bff9af9d5b1008c765d2ea48756fcc5936bed
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -15,13 +15,13 @@ record:
     custom domains remain separate and unchanged. In the Site’s settings, select Change
     URL…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#codex-and-chatgpt-feature-updates
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Codex and ChatGPT feature updates
   version: Codex and ChatGPT feature updates
 release_id: chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574
 source_release: Codex and ChatGPT feature updates
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#codex-and-chatgpt-feature-updates
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Codex and ChatGPT feature updates
 <!-- chronolog:begin region="summary" -->
 Choose a new URL for a ChatGPT Site. Site owners on Plus and Pro can change an existing Site’s ChatGPT-hosted URL without redeploying it. The previous address redirects to the new URL, including routes and query parameters, while custom domains remain separate and unchanged. In the Site’s settings, select Change URL…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#codex-and-chatgpt-feature-updates)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 4
 <!-- chronolog:end -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 77a0728a740199493e44d4b7a70771e5cd4d43a5b1bb2c8d20358fa9c28173e0
+machine_hash: c032971ec9bd9325432342fd56941d75d3a2d8b67f7042b6c4638872d4bd4134
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: Enterprise and Edu users can find skills under Plugins in the sidebar,
       on the Skills tab in the Plugin Directory.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#skills-are-now-generally-available
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -77,7 +77,7 @@ ChatGPT — Skills are now generally available: Enterprise and Edu users can fin
 <!-- chronolog:begin region="evidence" -->
 > Enterprise and Edu users can find skills under Plugins in the sidebar, on the Skills tab in the Plugin Directory.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#skills-are-now-generally-available
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

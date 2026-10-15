@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 79c53faf338138aed1e986d3c1c591fce2e0253acb4f57f048b0fafa9d917492
+machine_hash: 2e1e9bad2afd7e7024d6a21422796ea4be91dcab583ef9a618f5077729fa53b1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       thinks through existing code to identify necessary changes, and consistently
       produces coding outputs that successfully compile and run, streamlining your
       coding workflows.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-gpt-4o
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -66,7 +66,7 @@ ChatGPT — Improvements to GPT-4o: GPT-4o has further improved its capability t
 <!-- chronolog:begin region="evidence" -->
 > GPT-4o has further improved its capability to tackle complex technical and coding problems. It now generates cleaner, simpler frontend code, more accurately thinks through existing code to identify necessary changes, and consistently produces coding outputs that successfully compile and run, streamlining your coding workflows.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-gpt-4o
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 8bcae99f8b9d702c88c37d14124e12fc37f07cd2ac5d5af9e7a84a697461e550
+machine_hash: 224caca322361af4c01b97ef5320f0c00847d3c0832028079abd1ac9785900e8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,7 +34,7 @@ record:
       to 98 countries. The new countries we added are Austria, Czech Republic, Denmark,
       Norway, Poland, Portugal, Spain and Sweden.For an affordable price, ChatGPT
       Go provides everything included in the Free plan, and:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-expansion
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -67,7 +67,7 @@ ChatGPT — ChatGPT Go expansion: We're excited to announce that ChatGPT Go, our
 <!-- chronolog:begin region="evidence" -->
 > We're excited to announce that ChatGPT Go, our low cost subscription plan, is now available in 8 additional countries in Europe, bringing total coverage to 98 countries. The new countries we added are Austria, Czech Republic, Denmark, Norway, Poland, Portugal, Spain and Sweden.For an affordable price, ChatGPT Go provides everything included in the Free plan, and:
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-expansion
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

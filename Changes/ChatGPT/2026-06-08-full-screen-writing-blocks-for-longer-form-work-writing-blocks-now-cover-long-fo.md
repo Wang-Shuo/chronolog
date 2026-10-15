@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 3df2bf708eb6010d0ca42074b36108e29089ba6b43cce026896326645589c07e
+machine_hash: a2e8da951ceb0dadb173a97b10be027305fdd63287bd9d63d09dd6dc246c5298
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,7 +38,7 @@ record:
       edit documents later. The experience also adds a wider document layout, cleaner
       titles, a table of contents for long documents, download support, undo and redo
       fixes, improved save behavior, and clearer loading states.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -85,7 +85,7 @@ ChatGPT — ChatGPT app experience updates: Full-screen writing blocks for longe
 <!-- chronolog:begin region="evidence" -->
 > Full-screen writing blocks for longer-form work: Writing blocks now cover long-form writing use cases, including essays, PRDs, reports, blog posts, notes, and other document work. Longer writing can now open in a focused full-screen editor. You can save your document to the Library, so you can find, reuse, or edit documents later. The experience also adds a wider document layout, cleaner titles, a table of contents for long documents, download support, undo and redo fixes, improved save behavior, and clearer loading states.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

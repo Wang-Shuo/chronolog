@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 1f78b3eb96a9e01705e015ad470b0fb6ecf0cfc8fa1ead059e80498ac69b1c3e
+machine_hash: ac00ab0c8442ca8bdacc24df9fa3c9a97b325d45ff1038d1e286a00a2c81d9b7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,7 +24,7 @@ record:
     responses'
   evidence:
   - quote: Longer memory for more personalized responses
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-expansion
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -55,7 +55,7 @@ ChatGPT — ChatGPT Go expansion: Longer memory for more personalized responses
 <!-- chronolog:begin region="evidence" -->
 > Longer memory for more personalized responses
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-expansion
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

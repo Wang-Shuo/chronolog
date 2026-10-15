@@ -1,7 +1,7 @@
 ---
 changes_count: 0
 date: '2026-08-21'
-machine_hash: 30af6b39bfae08467431f2c4a919df0b354d5fbbcd7ab28c05d776a3be6e1d56
+machine_hash: 1ef10ee113d846aeb868bc4cdab7cf0cd7c7f7d016157bdb2bd521254342f12e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -11,13 +11,13 @@ record:
   release_id: chatgpt-2026-08-21-more-time-aware-answers-3575e557
   source_summary: ChatGPT now has a better sense of your local time during a conversation.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-time-aware-answers
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: More time-aware answers
   version: More time-aware answers
 release_id: chatgpt-2026-08-21-more-time-aware-answers-3575e557
 source_release: More time-aware answers
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-time-aware-answers
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -31,7 +31,7 @@ version: More time-aware answers
 <!-- chronolog:begin region="summary" -->
 ChatGPT now has a better sense of your local time during a conversation.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-time-aware-answers)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 0
 <!-- chronolog:end -->

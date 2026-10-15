@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 3deba8331aac39f832d7d018734e21f7dc014246505d157342dac7023451ca7b
+machine_hash: d30673b7a9d5e3425e6cc538fc975f483c4ad6ba4da3368fe0bdd2f9bc389d0d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Generated images are easier to view, and your recent conversations are
       easier to browse.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt-on-android
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -68,7 +68,7 @@ ChatGPT — Updates to ChatGPT on Android: Generated images are easier to view, 
 <!-- chronolog:begin region="evidence" -->
 > Generated images are easier to view, and your recent conversations are easier to browse.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt-on-android
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

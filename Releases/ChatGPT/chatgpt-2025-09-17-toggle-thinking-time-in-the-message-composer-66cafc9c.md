@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2025-09-17'
-machine_hash: a060da6f92baa86b8dd8d30f7c2cded93df038024c4fa355f6980c5a936e32a0
+machine_hash: d97208475f999c1f543cc5f013fa6bf0ed68875899152e02dec9d1cd9f1ea01b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -11,13 +11,13 @@ record:
   release_id: chatgpt-2025-09-17-toggle-thinking-time-in-the-message-composer-66cafc9c
   source_summary: What’s new
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#toggle-thinking-time-in-the-message-composer
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Toggle thinking time in the message composer
   version: Toggle thinking time in the message composer
 release_id: chatgpt-2025-09-17-toggle-thinking-time-in-the-message-composer-66cafc9c
 source_release: Toggle thinking time in the message composer
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#toggle-thinking-time-in-the-message-composer
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -31,7 +31,7 @@ version: Toggle thinking time in the message composer
 <!-- chronolog:begin region="summary" -->
 What’s new
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#toggle-thinking-time-in-the-message-composer)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 5
 <!-- chronolog:end -->

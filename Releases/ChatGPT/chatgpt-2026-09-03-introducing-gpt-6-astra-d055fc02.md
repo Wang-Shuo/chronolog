@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-09-03'
-machine_hash: 8831b3c6bbf089ce1df58f632a30b3a384ec46f8defb9dea82fff8540ee2a6e9
+machine_hash: 7c0d31a4b9bbbedbe5e7bb328d332f1550bf7775fe7a3dce043d38b9b44cedad
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -14,13 +14,13 @@ record:
     spreadsheets, and presentations that follow your templates and instructions, and
     adapt when you add requirements or change direction.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpt-6-astra
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Introducing GPT-6 Astra
   version: Introducing GPT-6 Astra
 release_id: chatgpt-2026-09-03-introducing-gpt-6-astra-d055fc02
 source_release: Introducing GPT-6 Astra
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpt-6-astra
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Introducing GPT-6 Astra
 <!-- chronolog:begin region="summary" -->
 Today we’re introducing GPT-6 Astra, with improvements in coding, research, computer use, and complex, multi-step work. Astra can create documents, spreadsheets, and presentations that follow your templates and instructions, and adapt when you add requirements or change direction.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpt-6-astra)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 1
 <!-- chronolog:end -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: e91b24f6416376c12851d5583d5599c7d37e75b2776b9f499b8cd2531ee228f2
+machine_hash: 1014fba3ee7739e996b345e382ab0ec91030d65bed59e7e010db1744ec1a5711
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
     added with soft dismiss behavior'
   evidence:
   - quote: New floating mode added with soft dismiss behavior
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-chatgpt-web-experience
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -59,7 +59,7 @@ ChatGPT — Updates to the ChatGPT Web experience: New floating mode added with 
 <!-- chronolog:begin region="evidence" -->
 > New floating mode added with soft dismiss behavior
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-chatgpt-web-experience
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

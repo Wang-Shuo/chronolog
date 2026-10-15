@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2026-06-18'
-machine_hash: 66931136cc0b8484c8926a3b165f021af61cc630f25c6a4b5896a0ae2d79c309
+machine_hash: f39a656fb103c16ec38788aa4ae0f6289b8a838f860b6df4f07cdbcacb4d9942
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -14,13 +14,13 @@ record:
     and sharing, more control over connected apps, and faster photo uploads on iOS,
     and more.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: ChatGPT app experience updates
   version: ChatGPT app experience updates
 release_id: chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5
 source_release: ChatGPT app experience updates
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: ChatGPT app experience updates
 <!-- chronolog:begin region="summary" -->
 ChatGPT now has more ways to help with common questions, from pronunciation guidance to World Cup updates. It’s also smoother to use, with easier chat organization and sharing, more control over connected apps, and faster photo uploads on iOS, and more.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 5
 <!-- chronolog:end -->

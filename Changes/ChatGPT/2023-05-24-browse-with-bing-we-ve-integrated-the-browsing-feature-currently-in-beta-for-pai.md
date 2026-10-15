@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: af4853b6322a2477e12a0adc468c6b826e4d5c384cd6f89e08adbcc2344207c7
+machine_hash: ce4d70ef0896007816e092f62e68a6db7d34e7b36473ada36ce7b26ef503878e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
   - quote: Browse with Bing. We’ve integrated the browsing feature - currently in
       beta for paid users - more deeply with Bing. You can now click into queries
       that the model is performing. We look forward to expanding the integration soon.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ios-app-available-in-more-countries-shared-links-in-alpha-bing-plugin-disable-history-on-ios
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -77,7 +77,7 @@ ChatGPT — iOS app available in more countries, shared links in alpha, Bing Plu
 <!-- chronolog:begin region="evidence" -->
 > Browse with Bing. We’ve integrated the browsing feature - currently in beta for paid users - more deeply with Bing. You can now click into queries that the model is performing. We look forward to expanding the integration soon.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ios-app-available-in-more-countries-shared-links-in-alpha-bing-plugin-disable-history-on-ios
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

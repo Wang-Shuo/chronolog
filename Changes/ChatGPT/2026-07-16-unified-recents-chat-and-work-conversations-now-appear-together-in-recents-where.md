@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: cba4de55a633b7aba278ee03aed4c23522c2c45b819f084665c546c14930ca81
+machine_hash: f6a7bba75b492cff331a6c25d89261a3c3702392836723363b6f84f50af23717
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: 'Unified Recents: Chat and Work conversations now appear together in Recents,
       where you can sort, filter, and pin them.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-desktop-app-experience-updates
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -61,7 +61,7 @@ ChatGPT — ChatGPT desktop app experience updates: Unified Recents: Chat and Wo
 <!-- chronolog:begin region="evidence" -->
 > Unified Recents: Chat and Work conversations now appear together in Recents, where you can sort, filter, and pin them.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-desktop-app-experience-updates
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 9e2491272b66bf3d1d27f71582e80368f429f7db2773927f6cc151345ed011d7
+machine_hash: 820908c37d93270aada7377b289f7f70dfd93a0b2f5538c63ccc45553866c841
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,7 +35,7 @@ record:
       to open a side panel with key facts and trusted sources, making it easy to understand
       the context without asking follow-up questions. Rolling out globally on iOS,
       Android, web.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-visual-responses
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -82,7 +82,7 @@ ChatGPT — More visual responses: Responses in ChatGPT are now more visual and 
 <!-- chronolog:begin region="evidence" -->
 > Responses in ChatGPT are now more visual and easier to scan.For everyday questions, responses may include at-a-glance visuals—like checking your team’s latest stats, converting units, or doing a quick calculation.Answers now also highlight important people, places, products, and ideas. You can tap any highlight to open a side panel with key facts and trusted sources, making it easy to understand the context without asking follow-up questions. Rolling out globally on iOS, Android, web.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-visual-responses
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

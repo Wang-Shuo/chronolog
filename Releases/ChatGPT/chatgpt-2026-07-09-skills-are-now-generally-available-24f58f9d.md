@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-07-09'
-machine_hash: af114d0fdc0323e3f3bd6885d70ced08c9df3db37a0d9712a3a0415ff07cc978
+machine_hash: c39d72445e6c459847d9cadb6c8962a11c00597011a96ca082d451b1595c32fb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -12,13 +12,13 @@ record:
   source_summary: Enterprise and Edu users can find skills under Plugins in the sidebar,
     on the Skills tab in the Plugin Directory.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#skills-are-now-generally-available
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Skills are now generally available
   version: Skills are now generally available
 release_id: chatgpt-2026-07-09-skills-are-now-generally-available-24f58f9d
 source_release: Skills are now generally available
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#skills-are-now-generally-available
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -32,7 +32,7 @@ version: Skills are now generally available
 <!-- chronolog:begin region="summary" -->
 Enterprise and Edu users can find skills under Plugins in the sidebar, on the Skills tab in the Plugin Directory.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#skills-are-now-generally-available)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 1
 <!-- chronolog:end -->

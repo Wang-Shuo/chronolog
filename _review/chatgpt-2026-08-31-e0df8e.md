@@ -1,6 +1,6 @@
 ---
 draft: true
-machine_hash: 108ac1f216c42a6ba290560fe299ad313ea6e4d45732c111c99640a9a47a3b83
+machine_hash: 0dee23ea2ebfbd903cbd3422d1934a22d45106281d322fc22094c5ade1b09edd
 product: chatgpt
 record:
   card_id: chatgpt-2026-08-31-e0df8e
@@ -13,7 +13,7 @@ record:
   - quote: Work directly with a website’s tools. ChatGPT can discover tools for your
       task without a separate connection. Select the arrow in the address bar to see
       the tools a page provides.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-website-tools-in-the-desktop-browser
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt

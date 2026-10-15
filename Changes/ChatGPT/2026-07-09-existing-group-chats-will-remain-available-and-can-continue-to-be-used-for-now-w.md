@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: d71a462134358073c9b2434d422cbae409fdf2a9be94454eb361dd592aaf347b
+machine_hash: eb748c0df64bf860eadf4055e3f61d7e6e6496f137230f2a3742d2caf1fb3bd9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       for now. When an existing group chat becomes read-only, users will retain access
       to the messages, files, and images already shared there. Individual ChatGPT
       conversations are unaffected.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-group-chats-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -64,7 +64,7 @@ ChatGPT — Retiring group chats in ChatGPT: Existing group chats will remain av
 <!-- chronolog:begin region="evidence" -->
 > Existing group chats will remain available and can continue to be used for now. When an existing group chat becomes read-only, users will retain access to the messages, files, and images already shared there. Individual ChatGPT conversations are unaffected.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-group-chats-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

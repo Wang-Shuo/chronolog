@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 49c42d67f0f4eeb57feb4f992bd44b9e4c6a633779afa3ac77e3e9798be312fd
+machine_hash: b901cbfe1ba49bb55e3ea25a3a34953f4f53fc7e588ddab52be4caa81599e162
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: ChatGPT now has a total context window length of 256k tokens (128k input
       and 128k max output) when you manually select Thinking. Previously it was 196k
       total tokens.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#expanded-context-window-for-thinking
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -62,7 +62,7 @@ ChatGPT — Expanded context window for Thinking: ChatGPT now has a total contex
 <!-- chronolog:begin region="evidence" -->
 > ChatGPT now has a total context window length of 256k tokens (128k input and 128k max output) when you manually select Thinking. Previously it was 196k total tokens.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#expanded-context-window-for-thinking
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

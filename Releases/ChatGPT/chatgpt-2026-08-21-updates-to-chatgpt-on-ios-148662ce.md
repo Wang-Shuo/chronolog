@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2026-08-21'
-machine_hash: 432678f587b789bd735790811265d7eccbbfb831bea3890975879e85eaecee29
+machine_hash: e8ce59b25f31645b02f2a26390d9565c1c6ff0af133c4c1169b45717ec24a5d1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -12,13 +12,13 @@ record:
   source_summary: Recent photos are easier to reach, and connection-status messages
     are clearer.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt-on-ios
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Updates to ChatGPT on iOS
   version: Updates to ChatGPT on iOS
 release_id: chatgpt-2026-08-21-updates-to-chatgpt-on-ios-148662ce
 source_release: Updates to ChatGPT on iOS
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt-on-ios
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -32,7 +32,7 @@ version: Updates to ChatGPT on iOS
 <!-- chronolog:begin region="summary" -->
 Recent photos are easier to reach, and connection-status messages are clearer.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt-on-ios)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 2
 <!-- chronolog:end -->

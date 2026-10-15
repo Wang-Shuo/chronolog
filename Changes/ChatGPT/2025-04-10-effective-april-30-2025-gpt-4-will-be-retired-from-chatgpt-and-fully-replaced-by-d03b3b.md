@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 1bd87d15f63edd5f14913d083b3ebf9eeac00dc339003bd5d6dcf84737dc052d
+machine_hash: fb44ddf783547e81eab40e94b5a1a160d05a34a2d0828720ec93ac3f291e1fac
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,7 +41,7 @@ record:
       We’re grateful for the breakthroughs it enabled and for the feedback that helped
       shape its successor. GPT‑4o builds on that foundation to deliver even greater
       capability, consistency, and creativity.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#sunsetting-gpt4-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -84,7 +84,7 @@ ChatGPT — Sunsetting GPT‑4 in ChatGPT: Effective April 30, 2025, GPT‑4 wil
 <!-- chronolog:begin region="evidence" -->
 > Effective April 30, 2025, GPT‑4 will be retired from ChatGPT and fully replaced by GPT‑4o.GPT‑4o is our newer, natively multimodal model. In head‑to‑head evaluations it consistently surpasses GPT‑4 in writing, coding, STEM, and more.Recent upgrades have further improved GPT‑4o’s instruction following, problem solving, and conversational flow, making it a natural successor to GPT‑4.GPT-4 will still be available in the API.GPT‑4 marked a pivotal moment in ChatGPT’s evolution. We’re grateful for the breakthroughs it enabled and for the feedback that helped shape its successor. GPT‑4o builds on that foundation to deliver even greater capability, consistency, and creativity.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#sunsetting-gpt4-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

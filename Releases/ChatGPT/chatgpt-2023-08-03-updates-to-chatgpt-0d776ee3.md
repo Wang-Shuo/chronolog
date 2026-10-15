@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-08-03'
-machine_hash: 14a195c3e884ffb611e498284f56280599b1e9fded980ce2298b5ae95cd2a166
+machine_hash: cbd0bd5950b5bcaa80885e429aa3b25dd48969046307740fd1dc804b8791e97b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -15,13 +15,13 @@ record:
     you get started.2⁠. Suggested replies: Go deeper with a click. ChatGPT now suggests
     relevant…'
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Updates to ChatGPT
   version: Updates to ChatGPT
 release_id: chatgpt-2023-08-03-updates-to-chatgpt-0d776ee3
 source_release: Updates to ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Updates to ChatGPT
 <!-- chronolog:begin region="summary" -->
 We’re rolling out a bunch of small updates to improve the ChatGPT experience. Shipping over the next week:1⁠. Prompt examples: A blank page can be intimidating. At the beginning of a new chat, you’ll now see examples to help you get started.2⁠. Suggested replies: Go deeper with a click. ChatGPT now suggests relevant…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 1
 <!-- chronolog:end -->

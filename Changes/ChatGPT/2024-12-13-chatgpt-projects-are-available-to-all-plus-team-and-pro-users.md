@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 1be82acf57ff47b9d08a0224122d9d88afe7c485a473e2a5131ab0665cc31e7b
+machine_hash: 8e88923444414de2946ad8a554dc7c398939e7c33007408a5b1081400e9e6b59
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,7 +24,7 @@ record:
     Plus, Team, and Pro users.'
   evidence:
   - quote: ChatGPT Projects are available to all Plus, Team, and Pro users.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#projects-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -55,7 +55,7 @@ ChatGPT — Projects in ChatGPT: ChatGPT Projects are available to all Plus, Tea
 <!-- chronolog:begin region="evidence" -->
 > ChatGPT Projects are available to all Plus, Team, and Pro users.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#projects-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

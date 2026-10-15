@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: e996ec0674ba9ace54c7102c29973c21a1e3cb20743c4252129b9a9c89118ff7
+machine_hash: 96d0e0a80eacada297fcfde5d40f147aedf6ff8e035bf3657efc7e99abe4da42
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: 'We''re launching ChatGPT Go, our low cost subscription plan, in Indonesia.For
       Rp 75.000/month, ChatGPT Go provides everything included in the Free plan, and:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-now-available-in-indonesia
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -59,7 +59,7 @@ ChatGPT — ChatGPT Go now available in Indonesia: We're launching ChatGPT Go, o
 <!-- chronolog:begin region="evidence" -->
 > We're launching ChatGPT Go, our low cost subscription plan, in Indonesia.For Rp 75.000/month, ChatGPT Go provides everything included in the Free plan, and:
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-now-available-in-indonesia
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 02d0faa9dca522035924af78d04e281395e5e158da0dd327fb2a16335e758b09
+machine_hash: d673f4a9126a7046b32d4e7650fb14d180d0a0697f9e38da807316aa65416d60
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: We’re improving our dictation capabilities in ChatGPT for all logged-in
       users, significantly reducing empty transcriptions and improving accuracy.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#dictation-updates
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -59,7 +59,7 @@ ChatGPT — Dictation Updates: We’re improving our dictation capabilities in C
 <!-- chronolog:begin region="evidence" -->
 > We’re improving our dictation capabilities in ChatGPT for all logged-in users, significantly reducing empty transcriptions and improving accuracy.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#dictation-updates
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

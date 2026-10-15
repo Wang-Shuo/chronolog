@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 7828bf8b37b604bb7f94a3bc4849ad7c61df6520ae80007bf6e389e468b8a488
+machine_hash: fdd2618f972a31e0ed4c61f2c7f5cc03670c50b8cba0105b53f198809784375e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
   - quote: 'We’re launching ChatGPT Go, a new low-cost subscription plan. This will
       initially be available for users in India only.For ₹399/month (GST included),
       ChatGPT Go provides everything included in the Free plan, and:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-go
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -61,7 +61,7 @@ ChatGPT — Introducing ChatGPT Go: We’re launching ChatGPT Go, a new low-cost
 <!-- chronolog:begin region="evidence" -->
 > We’re launching ChatGPT Go, a new low-cost subscription plan. This will initially be available for users in India only.For ₹399/month (GST included), ChatGPT Go provides everything included in the Free plan, and:
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-go
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

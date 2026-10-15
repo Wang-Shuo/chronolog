@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 1b276e9dc22da4b6ec3d66fb449d13b6bab0fd32d39fb1afa8d0131fee7552d5
+machine_hash: 8beafa5b4e9d616b70fd409157798c8713c3e83be2b79d69efec857943c1564f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Updated plugin recommendations make it easier to find tools people continue
       to use.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improved-plugin-discovery-on-web-and-mobile
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -58,7 +58,7 @@ ChatGPT — Improved plugin discovery on web and mobile: Updated plugin recommen
 <!-- chronolog:begin region="evidence" -->
 > Updated plugin recommendations make it easier to find tools people continue to use.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improved-plugin-discovery-on-web-and-mobile
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

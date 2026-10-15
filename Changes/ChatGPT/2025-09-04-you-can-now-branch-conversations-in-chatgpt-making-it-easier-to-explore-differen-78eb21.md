@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: c906eeca268becfaca1f77dc2b57192bc72cf19e58332e601c348b39f854e0c2
+machine_hash: a285310a51ef3aaf16aa4c24c0c830844af716644cc6a10046e0c04d2c537629
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
       different directions without losing your original thread. Hover over a message,
       click More actions (⋯), and select Branch in new chat to start a separate conversation
       from that point.This feature is available today for all logged-in users on web.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#branch-conversations-on-web
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -66,7 +66,7 @@ ChatGPT — Branch conversations on web: You can now branch conversations in Cha
 <!-- chronolog:begin region="evidence" -->
 > You can now branch conversations in ChatGPT, making it easier to explore different directions without losing your original thread. Hover over a message, click More actions (⋯), and select Branch in new chat to start a separate conversation from that point.This feature is available today for all logged-in users on web.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#branch-conversations-on-web
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

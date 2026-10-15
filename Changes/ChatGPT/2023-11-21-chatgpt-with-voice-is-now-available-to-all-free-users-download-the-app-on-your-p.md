@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 957a26b7cf1724da37e32014b1968b58f47f62dfb2ee842ca178e059e61129ff
+machine_hash: 65437d6238b1310c6ccf21c6658a285241f2481c0d4773e8ada103c972dc621d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: ChatGPT with voice is now available to all free users. Download the app
       on your phone and tap the headphones icon to start a conversation.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-with-voice-is-available-to-all-users
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -58,7 +58,7 @@ ChatGPT — ChatGPT with voice is available to all users: ChatGPT with voice is 
 <!-- chronolog:begin region="evidence" -->
 > ChatGPT with voice is now available to all free users. Download the app on your phone and tap the headphones icon to start a conversation.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-with-voice-is-available-to-all-users
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

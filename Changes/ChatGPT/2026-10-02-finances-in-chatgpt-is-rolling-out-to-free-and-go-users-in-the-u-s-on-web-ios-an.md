@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 05ba900e9bedba451d53fe1c97e7c4d93749ce8445d4c223527a8fee51a91bef
+machine_hash: f49121be7d804b492d131cca79f3fb75321c5dfc3735ca0201862084fd98b58c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       web, iOS, and Android. You can securely connect your financial accounts to find
       ways to save, understand your spending, and make sense of your investments,
       with answers grounded in your finances.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#finances-expands-to-free-and-go-users
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -63,7 +63,7 @@ ChatGPT — Finances expands to Free and Go users: Finances in ChatGPT is rollin
 <!-- chronolog:begin region="evidence" -->
 > Finances in ChatGPT is rolling out to Free and Go users in the U.S. on web, iOS, and Android. You can securely connect your financial accounts to find ways to save, understand your spending, and make sense of your investments, with answers grounded in your finances.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#finances-expands-to-free-and-go-users
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

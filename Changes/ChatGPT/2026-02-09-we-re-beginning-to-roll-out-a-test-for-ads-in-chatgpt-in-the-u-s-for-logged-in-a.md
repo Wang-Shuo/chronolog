@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 934fd0fd1728b05c08bb590a79280127b7cd60b93c28bc3b7f2b3b29ca165796
+machine_hash: cf36d3f4dcc3b45f417caaebf63dc77ed628a3e6afda2259fe08a6199dbd82a2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -56,7 +56,7 @@ record:
       and clicks. During the test, ads do not appear in chats about sensitive topics
       or regulated topics, including health, mental health, or politics, and are not
       shown to users who tell us or we predict are under 18.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#testing-ads-in-chatgpt-free-go
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -101,7 +101,7 @@ ChatGPT — Testing ads in ChatGPT (Free, Go): We’re beginning to roll out a t
 <!-- chronolog:begin region="evidence" -->
 > We’re beginning to roll out a test for ads in ChatGPT in the U.S. for logged-in adults on the Free and Go tiers. Plus, Pro, Business, Enterprise, and Education plans do not have ads. The test will be a subset of users to start. We will expand over the coming weeks as we learn from this test.ChatGPT’s answers are generated independently from advertising. Answers are optimized based on what’s most helpful to you. When you see an ad, they are always clearly labeled as sponsored and visually separated from the organic answer.Ads are shown using information that stays within ChatGPT and is not shared with advertisers. This includes what you’re discussing, how you interact with ads (such as ads you hide or engage with), and your past chats and memories, if you have ads personalization enabled. You’re in control of this experience: you can dismiss ads, share feedback, learn how and why you’re being shown an ad, delete your ad data with one tap, and manage ad personalization at any time.Advertisers never see your chats or personal details and receive only aggregated performance information, like impressions and clicks. During the test, ads do not appear in chats about sensitive topics or regulated topics, including health, mental health, or politics, and are not shown to users who tell us or we predict are under 18.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#testing-ads-in-chatgpt-free-go
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

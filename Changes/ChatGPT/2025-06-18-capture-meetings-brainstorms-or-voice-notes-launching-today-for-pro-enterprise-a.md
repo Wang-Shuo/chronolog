@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: c77b8390c1c9059f887cda8abf9a2315ffcb96f7f34192464a7989a18a1cd40e
+machine_hash: 5a2137ea3dbcb937cd38b265a915389216cda881997ae0d26a06033a57afa7d2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: Capture meetings, brainstorms, or voice notes. Launching today for Pro,
       Enterprise, and Edu users. Previously launched for Team users on June 4, 2025.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-record-mode
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -70,7 +70,7 @@ ChatGPT — ChatGPT record mode: Capture meetings, brainstorms, or voice notes. 
 <!-- chronolog:begin region="evidence" -->
 > Capture meetings, brainstorms, or voice notes. Launching today for Pro, Enterprise, and Edu users. Previously launched for Team users on June 4, 2025.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-record-mode
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2023-03-23'
-machine_hash: 0bddf38df9b00ffc2f392279e8f2c81a5870d2edc39fbc892ef79971c393af99
+machine_hash: 43e633001bc5a7476430c4b165712747666972ed1946ed4ead15244b12ad931d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -15,13 +15,13 @@ record:
     learn more about plugins here.Today, we will begin extending plugin access to
     users and…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-plugins-in-chatgpt
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Introducing plugins in ChatGPT
   version: Introducing plugins in ChatGPT
 release_id: chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8
 source_release: Introducing plugins in ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-plugins-in-chatgpt
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Introducing plugins in ChatGPT
 <!-- chronolog:begin region="summary" -->
 We are announcing experimental support for AI plugins in ChatGPT — tools designed specifically for language models. Plugins can help ChatGPT access up-to-date information, run computations, or use third-party services. You can learn more about plugins here.Today, we will begin extending plugin access to users and…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-plugins-in-chatgpt)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 5
 <!-- chronolog:end -->

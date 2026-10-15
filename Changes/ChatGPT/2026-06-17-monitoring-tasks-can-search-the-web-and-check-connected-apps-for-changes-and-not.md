@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 15e3b67620237e0b94e0028f4dd3e388f100d8b54252092ac466618798ef8ae3
+machine_hash: 3cbc04136d8fa685b965afe08281c0765f1f33b8dcb72ad79f8ea0aa4c03bbf0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: Monitoring tasks can search the web and check connected apps for changes
       and notify users only when there is something worth reporting.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -59,7 +59,7 @@ ChatGPT — Scheduled tasks in ChatGPT: Monitoring tasks can search the web and 
 <!-- chronolog:begin region="evidence" -->
 > Monitoring tasks can search the web and check connected apps for changes and notify users only when there is something worth reporting.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

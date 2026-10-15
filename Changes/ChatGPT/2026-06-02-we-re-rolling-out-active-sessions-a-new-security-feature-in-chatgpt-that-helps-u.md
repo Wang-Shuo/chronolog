@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: a2e217006ed54ebf15223cb275a2c72bb2505caead28697733e6b80228fb11cf
+machine_hash: 5b6b04abb74da70456b51fb212d60291c795791b13c4f80d69f2a622c1ef54ba
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
   - quote: 'We’re rolling out Active sessions, a new security feature in ChatGPT that
       helps users review sessions associated with their account and sign out of sessions
       they don’t recognize.Users can now:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#active-account-session-controls
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -61,7 +61,7 @@ ChatGPT — Active account session controls: We’re rolling out Active sessions
 <!-- chronolog:begin region="evidence" -->
 > We’re rolling out Active sessions, a new security feature in ChatGPT that helps users review sessions associated with their account and sign out of sessions they don’t recognize.Users can now:
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#active-account-session-controls
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

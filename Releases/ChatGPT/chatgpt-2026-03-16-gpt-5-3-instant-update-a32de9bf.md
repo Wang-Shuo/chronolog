@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-03-16'
-machine_hash: f09f7a1ad80b6f5d9cc5998ad9d6094191c53fb39d30a65828e13db45748bafa
+machine_hash: d368129d1f079a25d7c28a01017410b56fc89a97df7646d9ae5cf8d5459bb9f0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -13,13 +13,13 @@ record:
     tone and reduces teaser-style phrasing in responses (e.g., “If you want…”, “You’ll
     never believe…”, “I can tell you these three things that…”).
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-53-instant-update
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: GPT-5.3 Instant update
   version: GPT-5.3 Instant update
 release_id: chatgpt-2026-03-16-gpt-5-3-instant-update-a32de9bf
 source_release: GPT-5.3 Instant update
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-53-instant-update
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -33,7 +33,7 @@ version: GPT-5.3 Instant update
 <!-- chronolog:begin region="summary" -->
 We’re rolling out an update to GPT-5.3 Instant that improves follow-up tone and reduces teaser-style phrasing in responses (e.g., “If you want…”, “You’ll never believe…”, “I can tell you these three things that…”).
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-53-instant-update)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 1
 <!-- chronolog:end -->

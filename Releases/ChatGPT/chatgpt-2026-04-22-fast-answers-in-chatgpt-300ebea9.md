@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-04-22'
-machine_hash: 1120fdefb014b6091dbe6e65797b5b858d0e5426f6c97cf3ce47730e0bb0f1f4
+machine_hash: 786be36d66cdad1a3d9e1cffe3b9ccddcc738be10c11de463b2f9ac3de8036a5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -15,13 +15,13 @@ record:
     football team has the most super bowl titles?”When your question doesn’t require
     a…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#fast-answers-in-chatgpt
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Fast answers in ChatGPT
   version: Fast answers in ChatGPT
 release_id: chatgpt-2026-04-22-fast-answers-in-chatgpt-300ebea9
 source_release: Fast answers in ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#fast-answers-in-chatgpt
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Fast answers in ChatGPT
 <!-- chronolog:begin region="summary" -->
 Sometimes, you just want the right answer as quickly as possible. We’re rolling out Fast answers, a quicker way to get responses to common information-seeking questions in ChatGPT, like “Show me the Seven Wonders of the World” or “Which football team has the most super bowl titles?”When your question doesn’t require a…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#fast-answers-in-chatgpt)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 1
 <!-- chronolog:end -->

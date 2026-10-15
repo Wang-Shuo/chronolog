@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 4dc56c7f74351fc73799042d16081831e6aac9f94e55d1b92b3629d16810f094
+machine_hash: bf379ded52fb8be02caf8a2685d6a4ed06e21d0786ebd54bb82aa4713f028d32
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,7 +41,7 @@ record:
       users also now have a “Show additional models” toggle in ChatGPT web settings
       which will add models like o3, o4-mini, 4.1, and GPT-5 Thinking mini. 4.5 is
       only available to Pro users due to GPUs.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-5-updates
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -90,7 +90,7 @@ ChatGPT — GPT-5 Updates: You can now choose between “Auto”, “Fast”, an
 <!-- chronolog:begin region="evidence" -->
 > You can now choose between “Auto”, “Fast”, and “Thinking” for GPT-5. Most users will want Auto, but the additional control will be useful for some people.ChatGPT Plus users now have 3,000 messages/week with GPT-5 Thinking, and then extra capacity on GPT-5 Thinking mini after that limit. The context limit for GPT-5 Thinking is 196k tokens. We may have to update rate limits over time depending on usage.4o is back in the model picker for all paid users by default. Paid users also now have a “Show additional models” toggle in ChatGPT web settings which will add models like o3, o4-mini, 4.1, and GPT-5 Thinking mini. 4.5 is only available to Pro users due to GPUs.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-5-updates
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

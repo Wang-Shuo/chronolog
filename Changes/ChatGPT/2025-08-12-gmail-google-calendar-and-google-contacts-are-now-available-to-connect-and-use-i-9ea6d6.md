@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: bc1d0e83cef636b98d25e131b461c08588ecf2f0c4fed787c952470b4b1e7d02
+machine_hash: c701904a22eaa481b4a222d0a11bf81b7bcb05e6a119abea24c3bde3fbe03913
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,7 +46,7 @@ record:
       them in chat. To use them in deep research, you will still need to enable each
       connector separately and select it every time you start a new deep research
       request.Learn more about connectors.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-pro
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -106,7 +106,7 @@ ChatGPT — Gmail, Google Calendar, and Google Contacts Connectors in ChatGPT (P
 <!-- chronolog:begin region="evidence" -->
 > Gmail, Google Calendar, and Google Contacts are now available to connect and use in chat. Once you enable them, ChatGPT will automatically reference them when relevant, making it faster and easier to bring information from these tools into your conversations without having to manually select them each time.This capability is part of GPT-5 and will begin rolling out to Pro users globally this week, followed by Plus, Team, Enterprise, and Edu plans in the coming weeks. To enable, visit Settings → Connectors→ Connect on the application.If you already have Gmail or Google Calendar enabled for deep research, you can now also use them in chat. To use them in deep research, you will still need to enable each connector separately and select it every time you start a new deep research request.Learn more about connectors.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-pro
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: ade54ee8055a0f20093d64f4f6e9890a49eb6757e6c00301f046185f7594b3f1
+machine_hash: e9771bf6aa705ed688c4e5e47d68cb6bbc680a968968da184ce935e09be2c08c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -23,7 +23,7 @@ record:
   description: 'ChatGPT — Introducing ChatGPT Plus: Turbo: optimized for speed (alpha)'
   evidence:
   - quote: 'Turbo: optimized for speed (alpha)'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-plus
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -52,7 +52,7 @@ ChatGPT — Introducing ChatGPT Plus: Turbo: optimized for speed (alpha)
 <!-- chronolog:begin region="evidence" -->
 > Turbo: optimized for speed (alpha)
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-plus
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

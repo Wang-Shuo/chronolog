@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: a03f7a8b1bf1fec65128a84cab10434cef856ea491e9f2fd7a5ad39d1ab49a7e
+machine_hash: e46ed4174522fc64584d2dba4650c7f70df833aba4b9b586e4f53a755eb49389
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -57,7 +57,7 @@ record:
       who have set up parental controls can choose to disable device location sharing
       for their teen.Rolling out to all ChatGPT consumer plans on iOS, Android, and
       web.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#location-sharing
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -105,7 +105,7 @@ ChatGPT — Location Sharing: Users can now choose to share their device locatio
 <!-- chronolog:begin region="evidence" -->
 > Users can now choose to share their device location so ChatGPT can provide more relevant information, such as local recommendations, news, and weather. Sharing your device location is completely optional and off until you choose to enable it. You can update device location sharing in Settings > Data Controls at any time.Enabling location sharing will also enable precise location. Precise location means ChatGPT can use your device’s specific location, such as an exact address, to provide more tailored results. For example, if you ask “what are the best coffee shops near me?”, ChatGPT can use your precise location to provide more relevant nearby results. On mobile devices, you can choose to toggle off precise location separately while keeping approximate device location sharing on for additional control.ChatGPT deletes precise location data after it’s used to provide a more relevant response. If ChatGPT’s response includes information related to your specific location, such as the names of nearby restaurants or maps, that information becomes part of your conversation like any other response and will remain in your chat history unless you delete the conversation.Parents who have set up parental controls can choose to disable device location sharing for their teen.Rolling out to all ChatGPT consumer plans on iOS, Android, and web.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#location-sharing
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

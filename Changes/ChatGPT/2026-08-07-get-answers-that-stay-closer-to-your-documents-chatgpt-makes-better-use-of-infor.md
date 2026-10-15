@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: ec4bb65e99702c7d0c34769cc3bd6b8b1388ec8a1f5d97b0980b2d86c40bb784
+machine_hash: 91e3d5064c91dfbc1e553478736e4298f193da99c0003df6fd74b91f71290de1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Get answers that stay closer to your documents. ChatGPT makes better use
       of information in attached files when you ask it to summarize a document, find
       specific details, review material, or draft from a source.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -61,7 +61,7 @@ ChatGPT — ChatGPT app experience updates: Get answers that stay closer to your
 <!-- chronolog:begin region="evidence" -->
 > Get answers that stay closer to your documents. ChatGPT makes better use of information in attached files when you ask it to summarize a document, find specific details, review material, or draft from a source.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

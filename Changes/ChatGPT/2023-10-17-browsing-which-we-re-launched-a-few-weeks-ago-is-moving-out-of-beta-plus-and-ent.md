@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: a23c8c11a87896dbcf002258c8efe69ac59d01d3e6bd647e817ebd36d28951a3
+machine_hash: 4855ecb86599d88774640baf415b5d789e8fafec5cd8fdd826d1d9c20eddd5aa
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
   - quote: Browsing, which we re-launched a few weeks ago, is moving out of beta.Plus
       and Enterprise users no longer need to switch the beta toggle to use browse,
       and are able to choose "Browse with Bing" from the GPT-4 model selector.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-is-now-out-of-beta
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -79,7 +79,7 @@ ChatGPT — Browsing is now out of beta: Browsing, which we re-launched a few we
 <!-- chronolog:begin region="evidence" -->
 > Browsing, which we re-launched a few weeks ago, is moving out of beta.Plus and Enterprise users no longer need to switch the beta toggle to use browse, and are able to choose "Browse with Bing" from the GPT-4 model selector.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-is-now-out-of-beta
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 3f24fc3165e45862874d92e4d46f70fcb2be88200abdfd28002c475ab948c45d
+machine_hash: a6c8f25413698cb2c811f1f79b790b7df2994cd4baeb7b8201ae8426650e5ab0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: Starting today for ChatGPT Enterprise and Education users, long pastes
       are handled differently in ChatGPT.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#large-pastes-are-now-handled-as-attachments-for-all-plans
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -59,7 +59,7 @@ ChatGPT — Large pastes are now handled as attachments for all plans: Starting 
 <!-- chronolog:begin region="evidence" -->
 > Starting today for ChatGPT Enterprise and Education users, long pastes are handled differently in ChatGPT.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#large-pastes-are-now-handled-as-attachments-for-all-plans
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 0c9774663b1f583ce0dce78d6a96f5669256e8f7543e8aece044e387c85dd2e7
+machine_hash: a47ea944120b2f97014abd0044950a11199cf28d30371212e1be9106c09a66bf
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,7 +41,7 @@ record:
       may be able to automatically add the promotion for you at the end of your current
       billing cycle - review ChatGPT Go Promotion (India) for more details.Update:
       as of January 21, 2026, the promo has ended'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-promo-india
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -84,7 +84,7 @@ ChatGPT — ChatGPT Go Promo - India: Eligible customers in India can now get 12
 <!-- chronolog:begin region="evidence" -->
 > Eligible customers in India can now get 12 months of ChatGPT Go at no cost. New users can redeem now on ChatGPT web or the Android app (Google Play). The Apple App Store option arrives next week - no promo code is required for redemption.Available to users in India who are new, on the free plan, or are current ChatGPT Go subscribers - one redemption per account. Requires a payment method (credit card or UPI).If you have an existing ChatGPT Go membership, we may be able to automatically add the promotion for you at the end of your current billing cycle - review ChatGPT Go Promotion (India) for more details.Update: as of January 21, 2026, the promo has ended
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-promo-india
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

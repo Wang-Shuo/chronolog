@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: f57c9cab5627adb18e6b43437f02dd7e701d5bc0f541e6f7e7e1eeff0bd80768
+machine_hash: fb7ed114faeb83287bba69755ce2886c2125796d2eb2e60360d5dcce1d6d2506
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -37,7 +37,7 @@ record:
       a small portion of ChatGPT free and Plus users this week to learn how useful
       it is. We will share plans for a broader roll out soon.You can read more about
       memory and controls here.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-and-new-controls-for-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -70,7 +70,7 @@ ChatGPT — Memory and new controls for ChatGPT: We’re testing memory with Cha
 <!-- chronolog:begin region="evidence" -->
 > We’re testing memory with ChatGPT. Remembering things you discuss across all chats saves you from having to repeat information and makes future conversations more helpful.You're in control of ChatGPT's memory. You can explicitly tell it to remember something, ask it what it remembers, and tell it to forget conversationally or through settings. You can also turn it off entirely.We are rolling out to a small portion of ChatGPT free and Plus users this week to learn how useful it is. We will share plans for a broader roll out soon.You can read more about memory and controls here.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-and-new-controls-for-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

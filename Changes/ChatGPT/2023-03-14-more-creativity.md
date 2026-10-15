@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 881525152af123135d27b925ed554ec4cafee1bb7cab7dfccd763ce4411ac5b1
+machine_hash: e5d5cdb7a7e86a6668849cc9aff0daa3f1d1d93ca51402266f5994fb9893700b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -23,7 +23,7 @@ record:
   description: 'ChatGPT — Announcing GPT-4 in ChatGPT: More creativity'
   evidence:
   - quote: More creativity
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#announcing-gpt-4-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -56,7 +56,7 @@ ChatGPT — Announcing GPT-4 in ChatGPT: More creativity
 <!-- chronolog:begin region="evidence" -->
 > More creativity
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#announcing-gpt-4-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

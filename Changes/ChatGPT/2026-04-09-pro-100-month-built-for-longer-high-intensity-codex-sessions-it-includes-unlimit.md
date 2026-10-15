@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: fac505ce55bfa460bc6d7b06e0b68d1c371f073dd7bb0913ba3c80c38b80298b
+machine_hash: f6e6fdd9ab25ed27af41e1aa35dac8a713f1ccc22c8ac6b50240f95f904cda6e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: 'Pro ($100/month): Built for longer, high-intensity Codex sessions. It
       includes unlimited access to GPT-5.4, access to GPT-5.4 Pro, and, for a limited
       time, up to 10x more Codex usage than Plus (up from 5X standard usage allowance).'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-pro-plan-options
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -63,7 +63,7 @@ ChatGPT — New Pro plan options: Pro ($100/month): Built for longer, high-inten
 <!-- chronolog:begin region="evidence" -->
 > Pro ($100/month): Built for longer, high-intensity Codex sessions. It includes unlimited access to GPT-5.4, access to GPT-5.4 Pro, and, for a limited time, up to 10x more Codex usage than Plus (up from 5X standard usage allowance).
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-pro-plan-options
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

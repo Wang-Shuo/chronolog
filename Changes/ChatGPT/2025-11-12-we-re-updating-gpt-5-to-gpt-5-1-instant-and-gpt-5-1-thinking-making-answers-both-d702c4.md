@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 8385e9c894172dd7de4e5126c4fd29d568e8fc62c1b2b3b2bd80c376e68d5933
+machine_hash: eaeee8ecc892fa7e4e777c71ce76b7d9fcc5726080d5919e9525c59d6abcd9f7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,7 +45,7 @@ record:
       and logged-out users, with Enterprise and Edu getting a temporary early-access
       toggle; GPT-5.1 will also be available soon in the API as gpt-5.1-chat-latest
       (Instant) and gpt-5.1 (Thinking).
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-51-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -91,7 +91,7 @@ ChatGPT — GPT-5.1 in ChatGPT: We’re updating GPT-5 to GPT-5.1 Instant and GP
 <!-- chronolog:begin region="evidence" -->
 > We’re updating GPT-5 to GPT-5.1 Instant and GPT-5.1 Thinking, making answers both smarter and more conversational. GPT-5.1 Instant now uses light adaptive reasoning for tougher questions while staying fast, and GPT-5.1 Thinking adapts its thinking time more precisely for complex tasks with clearer, less jargony responses.GPT-5.1 Auto continues to route each query to the best model, and GPT-5 models remain available for three months under the Legacy models dropdown so you can compare and transition at your own pace.GPT-5.1 Instant and Thinking are rolling out first to paid (Pro, Plus, Go, Business) users, then to free and logged-out users, with Enterprise and Edu getting a temporary early-access toggle; GPT-5.1 will also be available soon in the API as gpt-5.1-chat-latest (Instant) and gpt-5.1 (Thinking).
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-51-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

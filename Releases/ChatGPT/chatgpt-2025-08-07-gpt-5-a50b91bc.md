@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-08-07'
-machine_hash: c81d1214afec3f63f6b477fc39961d562fcba21bf758e1534ed06065b02ec9eb
+machine_hash: 6e642604d2f8b41547eebc8edf6294b3cf0a809f33a559dda992570a4a86855f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -15,13 +15,13 @@ record:
     model and the new default for all logged-in users. It simplifies ChatGPT to a
     single…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-5
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: GPT-5
   version: GPT-5
 release_id: chatgpt-2025-08-07-gpt-5-a50b91bc
 source_release: GPT-5
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-5
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: GPT-5
 <!-- chronolog:begin region="summary" -->
 GPT-5 is slowly rolling out to all users on ChatGPT Plus, Pro, Team, and Free plans worldwide across web, mobile, and desktop. GPT-5 will be available to ChatGPT Enterprise and Edu plans soon.GPT-5 in ChatGPT is our next flagship model and the new default for all logged-in users. It simplifies ChatGPT to a single…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-5)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 1
 <!-- chronolog:end -->

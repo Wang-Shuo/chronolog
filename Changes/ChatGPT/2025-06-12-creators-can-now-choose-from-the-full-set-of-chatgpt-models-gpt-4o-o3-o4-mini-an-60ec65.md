@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 2248ce640ca797f6d5179d8102abe345acb904d4b09a491c43cdc3658fea041d
+machine_hash: 13e65995a2916cc3792cbec1de21061e1ed494fdcf1f2de846cb1554c8dc1102
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
       o4-mini and more) when building Custom GPTs—making it easier to fine-tune performance
       for different tasks, industries, and workflows. Creators can also set a recommended
       model to guide users.Key details:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#expanded-model-support-for-custom-gpts
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -76,7 +76,7 @@ ChatGPT — Expanded Model Support for Custom GPTs: Creators can now choose from
 <!-- chronolog:begin region="evidence" -->
 > Creators can now choose from the full set of ChatGPT models (GPT-4o, o3, o4-mini and more) when building Custom GPTs—making it easier to fine-tune performance for different tasks, industries, and workflows. Creators can also set a recommended model to guide users.Key details:
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#expanded-model-support-for-custom-gpts
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

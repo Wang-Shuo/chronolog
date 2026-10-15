@@ -1,6 +1,6 @@
 ---
 draft: true
-machine_hash: 47b7d832cf026d5379f39749b29e69135deef40ad1514d0fd5a7a697b065cd81
+machine_hash: e620c330e4dfa2a28481e53a79ec1cb8ddd1a23966755706e563f0eae3e009a4
 product: chatgpt
 record:
   card_id: chatgpt-2026-08-21-afff63
@@ -10,7 +10,7 @@ record:
     now load more efficiently in ChatGPT on the web.'
   evidence:
   - quote: Long conversations now load more efficiently in ChatGPT on the web.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#faster-long-conversations-on-the-web
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt

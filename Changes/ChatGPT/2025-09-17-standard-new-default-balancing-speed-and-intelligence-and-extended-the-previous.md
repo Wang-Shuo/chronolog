@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: be6dff7b31099285da971d2e459fc2d49b4afd5d11748f00b39a50a47f7e731f
+machine_hash: 1de72c1b22059832a58e26c47cf97245631d5e6a06e4325382ec450285a2949d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   evidence:
   - quote: Standard (new default, balancing speed and intelligence) and Extended (the
       previous default for Plus) are available to all Plus, Business users
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#toggle-thinking-time-in-the-message-composer
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -61,7 +61,7 @@ ChatGPT — Toggle thinking time in the message composer: Standard (new default,
 <!-- chronolog:begin region="evidence" -->
 > Standard (new default, balancing speed and intelligence) and Extended (the previous default for Plus) are available to all Plus, Business users
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#toggle-thinking-time-in-the-message-composer
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

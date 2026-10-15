@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2026-08-31'
-machine_hash: 08f500ee3ffd0cb242a5b30f57bc9b18ef71bb8be2933383fae8720800997bbd
+machine_hash: 7bfdef6f0ab35d4776c8c1a932f501c2469cca10f351c3b424acb5cf01eeeeac
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -12,13 +12,13 @@ record:
   source_summary: The ChatGPT browser extension now supports Microsoft Edge, Brave,
     Opera, and Vivaldi.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-the-browser-extension-in-more-browsers
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Use the browser extension in more browsers
   version: Use the browser extension in more browsers
 release_id: chatgpt-2026-08-31-use-the-browser-extension-in-more-browsers-87a64682
 source_release: Use the browser extension in more browsers
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-the-browser-extension-in-more-browsers
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -32,7 +32,7 @@ version: Use the browser extension in more browsers
 <!-- chronolog:begin region="summary" -->
 The ChatGPT browser extension now supports Microsoft Edge, Brave, Opera, and Vivaldi.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-the-browser-extension-in-more-browsers)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 2
 <!-- chronolog:end -->

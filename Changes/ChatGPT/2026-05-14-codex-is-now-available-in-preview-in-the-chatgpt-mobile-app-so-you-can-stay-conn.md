@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: dc0eab9dc37671337c241f40e5b6b9f276f6bb0342528c8eb84372fb4b98dba0
+machine_hash: 3827c9573549f315804b88f2bcf5c1a9039314b4c6530bb5a624f280a4876ead
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,7 +54,7 @@ record:
       app and the Codex app on macOS. Setup starts in the Codex App on the host and
       continues in ChatGPT after scanning a QR code; the host must remain awake, online,
       and running Codex for remote access to continue.Learn more in Remote connections.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#codex-remote-access-from-the-chatgpt-mobile-app
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -111,7 +111,7 @@ ChatGPT — Codex remote access from the ChatGPT mobile app: Codex is now availa
 <!-- chronolog:begin region="evidence" -->
 > Codex is now available in preview in the ChatGPT mobile app, so you can stay connected to active work from your phone while Codex continues running on the connected Mac host. From mobile, you can start or continue threads, answer questions, change direction, approve actions, review what Codex found, and move across connected hosts without stepping away from the work. That means you can keep an investigation moving, make a decision when Codex reaches a fork, or spin up a new idea before you are back at your desk. You can currently connect your phone to Codex running on macOS.The mobile experience loads live context from the machine where Codex is operating, including project context, approvals, plugins, screenshots, terminal output, diffs, and test results. Codex in the ChatGPT mobile app is rolling out on iOS and Android across all plans, including Free and Go, in supported regions. To try it, update both the ChatGPT mobile app and the Codex app on macOS. Setup starts in the Codex App on the host and continues in ChatGPT after scanning a QR code; the host must remain awake, online, and running Codex for remote access to continue.Learn more in Remote connections.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#codex-remote-access-from-the-chatgpt-mobile-app
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

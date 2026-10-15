@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 9f1e6b9d5fb1c23daf5e279773c103b901a28d42abcf96dc7b7bf22404378aee
+machine_hash: b39cf5a01f5ffa1b8539a84b768a9cf4fc84c4e1bc39251c3436faa366034afb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Available on web, mobile (iOS & Android), and desktop (macOS & Windows).ChatGPT
       Go is geo-restricted to India at launch, and is able to be subscribed to by
       credit card or UPI.Learn more about ChatGPT Go.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-go
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -59,7 +59,7 @@ ChatGPT — Introducing ChatGPT Go: Available on web, mobile (iOS & Android), an
 <!-- chronolog:begin region="evidence" -->
 > Available on web, mobile (iOS & Android), and desktop (macOS & Windows).ChatGPT Go is geo-restricted to India at launch, and is able to be subscribed to by credit card or UPI.Learn more about ChatGPT Go.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-go
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: d124e42c1a129a35126afd46862b2e29050f80c8e737d77f3c1970b24fe89fae
+machine_hash: 4d4b70da1c0acbf30a426d7143607a64c47687e69c6c84bdd442c2ea520a94b7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,7 +24,7 @@ record:
     management: Plus and Business: 20 GB'
   evidence:
   - quote: 'Plus and Business: 20 GB'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#file-library-expands-to-free-and-go-users-with-storage-management
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -57,7 +57,7 @@ ChatGPT — File library expands to Free and Go users, with storage management: 
 <!-- chronolog:begin region="evidence" -->
 > Plus and Business: 20 GB
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#file-library-expands-to-free-and-go-users-with-storage-management
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

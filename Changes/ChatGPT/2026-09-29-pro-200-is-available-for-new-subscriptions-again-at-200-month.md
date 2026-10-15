@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 1e14ff97cbc2239a0fd7c555baf5272b678268b529037080096a810edbf6d97d
+machine_hash: b0aa648c5a216037b8146a63910ed43a700bb5ec9847f5c5d1ae4f7ac786b3c3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
     again at $200/month.'
   evidence:
   - quote: Pro 200 is available for new subscriptions again at $200/month.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#pro-200-subscriptions
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -59,7 +59,7 @@ ChatGPT — Pro 200 subscriptions: Pro 200 is available for new subscriptions ag
 <!-- chronolog:begin region="evidence" -->
 > Pro 200 is available for new subscriptions again at $200/month.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#pro-200-subscriptions
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
