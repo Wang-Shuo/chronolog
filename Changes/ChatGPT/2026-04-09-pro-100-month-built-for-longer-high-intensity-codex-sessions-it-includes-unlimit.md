@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: f6e6fdd9ab25ed27af41e1aa35dac8a713f1ccc22c8ac6b50240f95f904cda6e
+machine_hash: b75283e810746985381d023250d22733ecb65fe663ff3e9dcf548037064950cd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,7 +49,7 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2|chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2]]'
 source_type: chatgpt_changelog
 theme: pricing-model
-title: 'Pro (USD 100/month): Built for longer, high-intensity Codex sessions. It includes
+title: 'Pro ($100/month): Built for longer, high-intensity Codex sessions. It includes
   u'
 type: change
 ---

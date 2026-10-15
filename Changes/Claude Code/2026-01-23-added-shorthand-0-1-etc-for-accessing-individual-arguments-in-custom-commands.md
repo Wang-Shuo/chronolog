@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: fbcf5a4a2f1aaf797104f5795419769976dae906d7413e73f1db54d2fa9825e1
+machine_hash: e51052958fca29ee06c8b68fd3d40844d8d3524204c0095a6e8cdaf232643627
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,7 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-01-23-v2-1-19-github-279515857-4e1f7640|claude-code-2026-01-23-v2-1-19-github-279515857-4e1f7640]]'
 source_type: github_releases
 theme: developer-workflow
-title: Added shorthand USD 0, USD 1, etc. for accessing individual arguments in custom
-  co
+title: Added shorthand $0, $1, etc. for accessing individual arguments in custom co
 type: change
 ---
 

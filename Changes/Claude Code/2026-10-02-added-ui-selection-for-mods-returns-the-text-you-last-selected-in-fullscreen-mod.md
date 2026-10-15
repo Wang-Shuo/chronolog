@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 584298e086b9138b3705af3b8e487c95b5f8a05b262dfc8ba40aec2c53b5c652
+machine_hash: b3605b938359dc85c0b8c9de04b196a3d22162da1d16d950959de6ca38d60ee8
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,7 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-10-02-v2-1-288-github-402056988-39eb9ac6|claude-code-2026-10-02-v2-1-288-github-402056988-39eb9ac6]]'
 source_type: github_releases
 theme: interface-experience
-title: 'Added USD .ui.selection() for mods: returns the text you last selected in
-  fullscr'
+title: 'Added $.ui.selection() for mods: returns the text you last selected in fullscr'
 type: change
 ---
 

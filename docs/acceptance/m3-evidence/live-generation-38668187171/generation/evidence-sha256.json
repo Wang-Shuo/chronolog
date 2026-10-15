@@ -1,0 +1,12 @@
+{
+  "build.log": "791cbe2ac243c8639d7b356b11d8831dc453170cddaa2535f4251b7bd98da203",
+  "chatgpt.html": "9601c0d938715c586eecca02c102c585bc7c86d5d2fdb14a185bdc311e16c4c9",
+  "collection.json": "b093117eb4a03f093d5e84a80891aebe1ebed3024715536460cfece22b97a67d",
+  "collection.json.gz": "3da077cadd5c1ee0e372f7657685bd1202b19bf2cf9b27f66975786befb17c46",
+  "publication.json": "664559752e56cb973f00a18c63332716add349f43b5c59d76d05aa1f53a3d18a",
+  "quality.json": "109bc31acedba4d9fcc4e298cf7a8af26280c992bf528840136fa96922b16927",
+  "quality.md": "3a0b93958858b277cd61ef955331745d64b7afdd35c89f8cb377d248c4f85e41",
+  "snapshot-capture.json": "83a80c9dfbd615a6da242648a3a35ec66636bcc140fd60d6a112f630c17ca687",
+  "tests.log": "fc2c7ad329daec486791e697c5a71b44fce41838c7f51bf66fe98ad5bdee594f",
+  "vault-validation.json": "214ce265df60c136dffb8f2f67bae1e56e14c2f6f6d0c5b570758a0373280d64"
+}

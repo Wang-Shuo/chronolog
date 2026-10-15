@@ -1,7 +1,7 @@
 ---
 created: '2023-01-09'
 date: '2026-10-08'
-machine_hash: ef585721b91fd1e45084d63aa61e3c6dde1f2e0bc76dfe99516383c9ef700116
+machine_hash: bef1d454893d664be8a99963b1c2bfc3df7167bcd0271590f25599f2506229a8
 modified: '2026-10-08'
 products_involved:
 - ChatGPT
@@ -30,7 +30,7 @@ Scope: tracked-products-only. Entries show same-theme chronology; they do not es
 ### 2026
 
 - 2026-10-08 · Claude Code: [[Changes/Claude Code/2026-10-08-added-quoted-text-to-the-copy-picker-so-a-drafted-message-copies-without-its-mar|Added quoted text to the /copy picker, so a drafted message copies without its]]
-- 2026-10-02 · Claude Code: [[Changes/Claude Code/2026-10-02-added-ui-selection-for-mods-returns-the-text-you-last-selected-in-fullscreen-mod|Added USD .ui.selection() for mods: returns the text you last selected in fullscr]]
+- 2026-10-02 · Claude Code: [[Changes/Claude Code/2026-10-02-added-ui-selection-for-mods-returns-the-text-you-last-selected-in-fullscreen-mod|Added $.ui.selection() for mods: returns the text you last selected in fullscr]]
 - 2026-09-30 · Claude Code: [[Changes/Claude Code/2026-09-30-added-mouse-support-for-the-n-more-rows-of-lists-in-fullscreen-mode-click-one-to|Added mouse support for the "N more" rows of lists in fullscreen mode: click one]]
 - 2026-09-28 · Claude Code: [[Changes/Claude Code/2026-09-28-added-rate-limit-options-to-help-and-the-command-menu-for-claude-ai-subscribers|Added /rate-limit-options to /help and the command menu for claude.ai subscr]]
 - 2026-09-28 · Claude Code: [[Changes/Claude Code/2026-09-28-added-effortslider-decreaseeffort-increaseeffort-and-toggleultracode-keybinding|Added effortSlider:decreaseEffort, increaseEffort and toggleUltracode keyb]]

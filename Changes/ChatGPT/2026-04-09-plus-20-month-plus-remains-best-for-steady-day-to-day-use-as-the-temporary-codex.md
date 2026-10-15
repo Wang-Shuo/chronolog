@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: f8236b4861c0c17d155ba062e30d84293d9e0833ec7928a409875797d00e07b9
+machine_hash: 787c7c949625f8297fd7c7a210c08163c9b558d7b5dc51d5dca5ccc306c2eac3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,8 +51,7 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2|chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2]]'
 source_type: chatgpt_changelog
 theme: pricing-model
-title: 'Plus (USD 20/month): Plus remains best for steady, day-to-day use. As the
-  temporary'
+title: 'Plus ($20/month): Plus remains best for steady, day-to-day use. As the temporary'
 type: change
 ---
 

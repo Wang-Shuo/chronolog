@@ -157,7 +157,7 @@ def wiki_label(text: str) -> str:
     text = re.sub(r"[`*\[\]]", "", text)
     text = text.replace('|', ' / ').replace('<', '').replace('>', '')
     text = re.sub(r"https?://\S+", "(source link)", text)
-    text = text.replace("#", "♯").replace("$", "USD ")
+    text = text.replace("#", "♯")
     return re.sub(r"(?<!\w)_|_(?!\w)", "", text)
 
 

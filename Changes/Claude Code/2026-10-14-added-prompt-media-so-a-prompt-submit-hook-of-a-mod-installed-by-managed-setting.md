@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: c8ea42902cb1811bf0c8671e43a425e570ac134d012cf3aeb6b4f323afc11cfb
+machine_hash: 161bb846d0217b4cfbe082b1cfbf7aef7c37f089bb8253569345c747a346c311
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,7 +48,7 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-299-github-412217284-623d9162|claude-code-2026-10-14-v2-1-299-github-412217284-623d9162]]'
 source_type: github_releases
 theme: file-data
-title: Added USD .prompt.media so a prompt.submit hook of a mod installed by managed
+title: Added $.prompt.media so a prompt.submit hook of a mod installed by managed
   s
 type: change
 ---

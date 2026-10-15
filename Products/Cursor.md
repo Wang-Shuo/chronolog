@@ -11,7 +11,7 @@ coverage:
   url: https://cursor.com/changelog
 created: '2023-03-14'
 date: '2026-10-13'
-machine_hash: 7bfc2896eca7324cd33be3160ed859a493c47e903ad5b8dbca1f190b3b9c2ebc
+machine_hash: 7094f4d781bae598340ae32b96a323aec5f26600675bbda2d2dbd8778a83021c
 modified: '2026-10-13'
 product: cursor
 product_name: Cursor
@@ -497,8 +497,8 @@ No reviewed capability turning points assigned yet. The archive below is chronol
 - 2026-03-11 automation-scheduling: [[Changes/Cursor/2026-03-11-most-plugins-contain-mcps-that-cloud-agents-can-use-when-kicked-off-manually-or|Most plugins contain MCPs that cloud agents can use when kicked off manually or]]
 - 2026-03-11 apps-integrations: [[Changes/Cursor/2026-03-11-try-out-the-new-plugins-at-cursor-com-marketplace-or-read-more-in-our-announceme|Try out the new plugins at cursor.com/marketplace, or read more in our announcem]]
 - 2026-03-11 apps-integrations: [[Changes/Cursor/2026-03-11-we-ve-added-more-than-30-new-plugins-from-partners-such-as-atlassian-datadog-git|We've added more than 30 new plugins from partners such as Atlassian, Datadog, G]]
-- 2026-03-19 pricing-model: [[Changes/Cursor/2026-03-19-standard-0-50-m-input-2-50-m-output-tokens|Standard: USD 0.50/M input, USD 2.50/M output tokens]]
-- 2026-03-19 pricing-model: [[Changes/Cursor/2026-03-19-fast-default-1-50-m-input-7-50-m-output-tokens|Fast (default): USD 1.50/M input, USD 7.50/M output tokens]]
+- 2026-03-19 pricing-model: [[Changes/Cursor/2026-03-19-standard-0-50-m-input-2-50-m-output-tokens|Standard: $0.50/M input, $2.50/M output tokens]]
+- 2026-03-19 pricing-model: [[Changes/Cursor/2026-03-19-fast-default-1-50-m-input-7-50-m-output-tokens|Fast (default): $1.50/M input, $7.50/M output tokens]]
 - 2026-03-19 reliability-performance: [[Changes/Cursor/2026-03-19-composer-2-is-now-available-in-cursor-frontier-level-coding-performance-with-str|Composer 2 is now available in Cursor: frontier-level coding performance with st]]
 - 2026-03-25 agent-mode: [[Changes/Cursor/2026-03-25-your-codebase-build-outputs-and-secrets-all-stay-on-internal-machines-running-in|Your codebase, build outputs, and secrets all stay on internal machines running]]
 - 2026-03-25 model-support: [[Changes/Cursor/2026-03-25-self-hosted-cloud-agents-offer-the-same-capabilities-as-cursor-hosted-cloud-agen|Self-hosted cloud agents offer the same capabilities as Cursor-hosted cloud agen]]
@@ -572,9 +572,9 @@ No reviewed capability turning points assigned yet. The archive below is chronol
 - 2026-05-13 agent-mode: [[Changes/Cursor/2026-05-13-this-includes-support-for-build-secrets-making-it-easy-to-securely-access-privat|This includes support for build secrets, making it easy to securely access priva]]
 - 2026-05-13 interface-experience: [[Changes/Cursor/2026-05-13-enter-and-exit-full-screen-by-clicking-on-the-expand-contract-button-in-the-pane|Enter and exit full screen by clicking on the expand/contract button in the pane]]
 - 2026-05-13 agent-mode: [[Changes/Cursor/2026-05-13-this-release-introduces-new-tools-for-teams-to-configure-development-environment|This release introduces new tools for teams to configure development environment]]
-- 2026-05-18 pricing-model: [[Changes/Cursor/2026-05-18-fast-default-3-00-m-input-15-00-m-output-tokens|Fast (default): USD 3.00/M input, USD 15.00/M output tokens]]
+- 2026-05-18 pricing-model: [[Changes/Cursor/2026-05-18-fast-default-3-00-m-input-15-00-m-output-tokens|Fast (default): $3.00/M input, $15.00/M output tokens]]
 - 2026-05-18 agent-mode: [[Changes/Cursor/2026-05-18-composer-2-5-is-now-available-in-cursor|Composer 2.5 is now available in Cursor.]]
-- 2026-05-18 pricing-model: [[Changes/Cursor/2026-05-18-standard-0-50-m-input-2-50-m-output-tokens|Standard: USD 0.50/M input, USD 2.50/M output tokens]]
+- 2026-05-18 pricing-model: [[Changes/Cursor/2026-05-18-standard-0-50-m-input-2-50-m-output-tokens|Standard: $0.50/M input, $2.50/M output tokens]]
 - 2026-05-18 model-support: [[Changes/Cursor/2026-05-18-composer-2-5-includes-double-usage-for-the-first-week-see-our-model-docs-for-ful|Composer 2.5 includes double usage for the first week. See our model docs for fu]]
 - 2026-05-18 model-support: [[Changes/Cursor/2026-05-18-it-s-a-substantial-improvement-in-intelligence-and-behavior-over-composer-2-it-i|It's a substantial improvement in intelligence and behavior over Composer 2. It]]
 - 2026-05-19 agent-mode: [[Changes/Cursor/2026-05-19-assign-work-items-to-cursor-or-mention-cursor-in-a-comment-to-kick-off-a-cloud-a|Assign work items to Cursor, or mention @Cursor in a comment to kick off a cloud]]

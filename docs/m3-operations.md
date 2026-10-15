@@ -10,7 +10,7 @@ M3 使用 GitHub Actions 采集并生成一个持续更新的待审 PR，经人�
 4. 设置 `main` 分支规则：要求通过 PR 合并、至少一名人工批准、更新后撤销旧批准，并将 **Quality / quality** 设为 required check。不得让生成机器人绕过此规则。部署脚本另行检查合并 commit 对应 PR 的最终 head 获人工批准，拒绝直接推送、旧 head 批准和 bot 批准。
 5. 先手工运行 Quality，再运行 Generate review candidate。确认报告和 artifact 可下载，新的真实来源更新进入 `codex/chronolog-updates`，无需第二个并行 PR。
 
-当前仓库地址及部署目标已确认，GitHub CLI 已登录；Pages 来源、base URL 和主分支规则已配置。PR #2 已经最终 head 人工批准、合并并成功上线，见[2026-10-14 公开部署记录](acceptance/m3-live-2026-10-14.md)。临时凭据改造已随 PR #3 审核合并并部署，首次真实运行的凭据准备通过；ChatGPT 自动访问被阻止且缺少备用快照，采集按门禁停止，见[首次运行记录](acceptance/m3-ephemeral-runtime-2026-10-14.md)。连续运行与恢复交接仍待验收。
+当前仓库地址及部署目标已确认，GitHub CLI 已登录；Pages 来源、base URL 和主分支规则已配置。PR #2 已经最终 head 人工批准、合并并成功上线，见[2026-10-14 公开部署记录](acceptance/m3-live-2026-10-14.md)。临时凭据改造已随 PR #3 审核合并并部署，首次真实运行的凭据准备通过；ChatGPT 自动访问被阻止且缺少备用快照，采集按门禁停止，见[首次运行记录](acceptance/m3-ephemeral-runtime-2026-10-14.md)。随后 PR #4 合并有效快照，2026-10-15 [真实采集与临时凭据发布](acceptance/m3-first-live-generation-2026-10-15.md)成功，内容 PR #5 已获用户对最终 head 的人工批准并成功部署，见[首次真实内容发布](acceptance/m3-first-reviewed-content-release-2026-10-15.md)。API 标题显示问题已在本次交付分支修复并重生成，待人工批准后发布，见[标题修复验收](acceptance/m3-dollar-title-fix-2026-10-15.md)。连续运行与恢复交接仍待验收。
 
 GitHub Release 采集使用工作流的只读 `github.token`，通过 `CHRONOLOG_GITHUB_READ_TOKEN` 注入，避免匿名共享 IP 限流；不会使用 PR 写入 token。令牌仅用于固定 `api.github.com` 请求，带认证时不跟随重定向。仓库迁移导致 3xx 时应修正 `sources.yaml`。本地未设置该变量时仍使用匿名请求，限流会留下失败记录并停止该批发布。
 

@@ -1,0 +1,346 @@
+{
+  "status": "passed",
+  "baseline_commit": "0940c9a8bd832b8a029e0fa6ea0e988cba45921e",
+  "input_kind": "replay",
+  "scope": "Changed pages differ only by literal-dollar restoration and derived machine_hash; active dollar titles match HTML title and index; dollar wiki aliases render as anchors. Global target checks are in publication.json.",
+  "changed_files": [
+    "Changes/ChatGPT/2026-04-09-plus-20-month-plus-remains-best-for-steady-day-to-day-use-as-the-temporary-codex.md",
+    "Changes/ChatGPT/2026-04-09-pro-100-month-built-for-longer-high-intensity-codex-sessions-it-includes-unlimit.md",
+    "Changes/ChatGPT/2026-04-09-pro-200-month-our-highest-usage-option-remains-available-and-continues-on-its-cu.md",
+    "Changes/ChatGPT/2026-04-09-we-re-introducing-a-new-100-month-pro-plan-and-updating-how-codex-usage-works-ac.md",
+    "Changes/ChatGPT/2026-09-09-pro-100-month-up-to-15-hours-with-gpt-live-1.md",
+    "Changes/ChatGPT/2026-09-29-pro-200-is-available-for-new-subscriptions-again-at-200-month.md",
+    "Changes/ChatGPT/2026-09-29-we-re-introducing-pro-500-a-new-500-month-plan-with-the-highest-included-usage-o.md",
+    "Changes/Claude Code/2026-01-23-added-shorthand-0-1-etc-for-accessing-individual-arguments-in-custom-commands.md",
+    "Changes/Claude Code/2026-01-23-changed-indexed-argument-syntax-from-arguments-0-to-arguments-0-bracket-syntax.md",
+    "Changes/Claude Code/2026-03-17-added-claude-plugin-data-variable-for-plugin-persistent-state-that-survives-plug.md",
+    "Changes/Claude Code/2026-06-04-skills-added-escape-syntax-to-include-a-literal-before-a-digit-in-command-bodies.md",
+    "Changes/Claude Code/2026-10-02-added-ui-selection-for-mods-returns-the-text-you-last-selected-in-fullscreen-mod.md",
+    "Changes/Claude Code/2026-10-06-added-prompt-caching-to-model-complete-for-mods-prompt-and-system-take-blocks-of.md",
+    "Changes/Claude Code/2026-10-14-added-prompt-media-so-a-prompt-submit-hook-of-a-mod-installed-by-managed-setting.md",
+    "Changes/Claude Code/2026-10-14-added-ui-view-agentid-for-mods-shows-an-agent-s-transcript-in-the-main-view-when.md",
+    "Changes/Cursor/2026-03-19-fast-default-1-50-m-input-7-50-m-output-tokens.md",
+    "Changes/Cursor/2026-03-19-standard-0-50-m-input-2-50-m-output-tokens.md",
+    "Changes/Cursor/2026-05-18-fast-default-3-00-m-input-15-00-m-output-tokens.md",
+    "Changes/Cursor/2026-05-18-standard-0-50-m-input-2-50-m-output-tokens.md",
+    "Products/ChatGPT.md",
+    "Products/Claude Code.md",
+    "Products/Cursor.md",
+    "Releases/ChatGPT/chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2.md",
+    "Releases/ChatGPT/chatgpt-2026-09-09-updated-models-and-usage-limits-in-chatgpt-voice-03e6b03f.md",
+    "Releases/ChatGPT/chatgpt-2026-09-29-a-new-pro-plan-with-astra-ultrafast-f0c84e90.md",
+    "Releases/ChatGPT/chatgpt-2026-09-29-pro-200-subscriptions-a351b7b9.md",
+    "Releases/Claude Code/claude-code-2026-01-23-v2-1-19-github-279515857-4e1f7640.md",
+    "Releases/Claude Code/claude-code-2026-03-17-v2-1-78-github-298204446-1f2c1721.md",
+    "Releases/Claude Code/claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988.md",
+    "Releases/Claude Code/claude-code-2026-10-02-v2-1-288-github-402056988-39eb9ac6.md",
+    "Releases/Claude Code/claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab.md",
+    "Releases/Claude Code/claude-code-2026-10-14-v2-1-299-github-412217284-623d9162.md",
+    "Releases/Claude Code/claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0.md",
+    "Releases/Cursor/cursor-2026-03-19-composer-2-https-cursor-com-changelog-composer-2-8a6d25c8.md",
+    "Releases/Cursor/cursor-2026-05-18-composer-2-5-https-cursor-com-changelog-composer-2-5-1dffe5a1.md",
+    "Themes/agent-mode.md",
+    "Themes/apps-integrations.md",
+    "Themes/developer-workflow.md",
+    "Themes/file-data.md",
+    "Themes/interface-experience.md",
+    "Themes/model-support.md",
+    "Themes/pricing-model.md"
+  ],
+  "changed_file_count": 42,
+  "pages_checked": 42,
+  "dollar_link_labels_checked": 57,
+  "content_index_sha256": "412fd26c566d12c519be02f2d0e61339947a669237559bcae9a2a9cb86adf6bd",
+  "checks": [
+    {
+      "slug": "Changes/ChatGPT/2026-04-09-plus-20-month-plus-remains-best-for-steady-day-to-day-use-as-the-temporary-codex",
+      "title": "Plus ($20/month): Plus remains best for steady, day-to-day use. As the temporary",
+      "dollar_link_labels": []
+    },
+    {
+      "slug": "Changes/ChatGPT/2026-04-09-pro-100-month-built-for-longer-high-intensity-codex-sessions-it-includes-unlimit",
+      "title": "Pro ($100/month): Built for longer, high-intensity Codex sessions. It includes u",
+      "dollar_link_labels": []
+    },
+    {
+      "slug": "Changes/ChatGPT/2026-04-09-pro-200-month-our-highest-usage-option-remains-available-and-continues-on-its-cu",
+      "title": "Pro ($200/month): Our highest-usage option remains available and continues on it",
+      "dollar_link_labels": []
+    },
+    {
+      "slug": "Changes/ChatGPT/2026-04-09-we-re-introducing-a-new-100-month-pro-plan-and-updating-how-codex-usage-works-ac",
+      "title": "We’re introducing a new $100/month Pro plan and updating how Codex usage works a",
+      "dollar_link_labels": []
+    },
+    {
+      "slug": "Changes/ChatGPT/2026-09-09-pro-100-month-up-to-15-hours-with-gpt-live-1",
+      "title": "Pro ($100/month): Up to 15 hours with GPT-Live-1.",
+      "dollar_link_labels": []
+    },
+    {
+      "slug": "Changes/ChatGPT/2026-09-29-pro-200-is-available-for-new-subscriptions-again-at-200-month",
+      "title": "Pro 200 is available for new subscriptions again at $200/month.",
+      "dollar_link_labels": []
+    },
+    {
+      "slug": "Changes/ChatGPT/2026-09-29-we-re-introducing-pro-500-a-new-500-month-plan-with-the-highest-included-usage-o",
+      "title": "We’re introducing Pro 500, a new $500/month plan with the highest included usage",
+      "dollar_link_labels": []
+    },
+    {
+      "slug": "Changes/Claude-Code/2026-01-23-added-shorthand-0-1-etc-for-accessing-individual-arguments-in-custom-commands",
+      "title": "Added shorthand $0, $1, etc. for accessing individual arguments in custom co",
+      "dollar_link_labels": []
+    },
+    {
+      "slug": "Changes/Claude-Code/2026-01-23-changed-indexed-argument-syntax-from-arguments-0-to-arguments-0-bracket-syntax",
+      "title": "Changed indexed argument syntax from $ARGUMENTS.0 to $ARGUMENTS0 (bracket",
+      "dollar_link_labels": []
+    },
+    {
+      "slug": "Changes/Claude-Code/2026-03-17-added-claude-plugin-data-variable-for-plugin-persistent-state-that-survives-plug",
+      "title": "Added ${CLAUDE_PLUGIN_DATA} variable for plugin persistent state that survives",
+      "dollar_link_labels": []
+    },
+    {
+      "slug": "Changes/Claude-Code/2026-06-04-skills-added-escape-syntax-to-include-a-literal-before-a-digit-in-command-bodies",
+      "title": "Skills: added \\$ escape syntax to include a literal $ before a digit in comm",
+      "dollar_link_labels": []
+    },
+    {
+      "slug": "Changes/Claude-Code/2026-10-02-added-ui-selection-for-mods-returns-the-text-you-last-selected-in-fullscreen-mod",
+      "title": "Added $.ui.selection() for mods: returns the text you last selected in fullscr",
+      "dollar_link_labels": []
+    },
+    {
+      "slug": "Changes/Claude-Code/2026-10-06-added-prompt-caching-to-model-complete-for-mods-prompt-and-system-take-blocks-of",
+      "title": "Added prompt caching to $.model.complete for mods: prompt and system take",
+      "dollar_link_labels": []
+    },
+    {
+      "slug": "Changes/Claude-Code/2026-10-14-added-prompt-media-so-a-prompt-submit-hook-of-a-mod-installed-by-managed-setting",
+      "title": "Added $.prompt.media so a prompt.submit hook of a mod installed by managed s",
+      "dollar_link_labels": []
+    },
+    {
+      "slug": "Changes/Claude-Code/2026-10-14-added-ui-view-agentid-for-mods-shows-an-agent-s-transcript-in-the-main-view-when",
+      "title": "Added $.ui.view({ agentId }) for mods: shows an agent's transcript in the main",
+      "dollar_link_labels": []
+    },
+    {
+      "slug": "Changes/Cursor/2026-03-19-fast-default-1-50-m-input-7-50-m-output-tokens",
+      "title": "Fast (default): $1.50/M input, $7.50/M output tokens",
+      "dollar_link_labels": []
+    },
+    {
+      "slug": "Changes/Cursor/2026-03-19-standard-0-50-m-input-2-50-m-output-tokens",
+      "title": "Standard: $0.50/M input, $2.50/M output tokens",
+      "dollar_link_labels": []
+    },
+    {
+      "slug": "Changes/Cursor/2026-05-18-fast-default-3-00-m-input-15-00-m-output-tokens",
+      "title": "Fast (default): $3.00/M input, $15.00/M output tokens",
+      "dollar_link_labels": []
+    },
+    {
+      "slug": "Changes/Cursor/2026-05-18-standard-0-50-m-input-2-50-m-output-tokens",
+      "title": "Standard: $0.50/M input, $2.50/M output tokens",
+      "dollar_link_labels": []
+    },
+    {
+      "slug": "Releases/ChatGPT/chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2",
+      "title": "ChatGPT — New Pro plan options",
+      "dollar_link_labels": [
+        "Pro ($100/month): Built for longer, high-intensity Codex sessions. It includes u",
+        "We’re introducing a new $100/month Pro plan and updating how Codex usage works a",
+        "Plus ($20/month): Plus remains best for steady, day-to-day use. As the temporary",
+        "Pro ($200/month): Our highest-usage option remains available and continues on it"
+      ]
+    },
+    {
+      "slug": "Releases/ChatGPT/chatgpt-2026-09-09-updated-models-and-usage-limits-in-chatgpt-voice-03e6b03f",
+      "title": "ChatGPT — Updated models and usage limits in ChatGPT Voice",
+      "dollar_link_labels": [
+        "Pro ($100/month): Up to 15 hours with GPT-Live-1."
+      ]
+    },
+    {
+      "slug": "Releases/ChatGPT/chatgpt-2026-09-29-a-new-pro-plan-with-astra-ultrafast-f0c84e90",
+      "title": "ChatGPT — A new Pro plan with Astra Ultrafast",
+      "dollar_link_labels": [
+        "We’re introducing Pro 500, a new $500/month plan with the highest included usage"
+      ]
+    },
+    {
+      "slug": "Releases/ChatGPT/chatgpt-2026-09-29-pro-200-subscriptions-a351b7b9",
+      "title": "ChatGPT — Pro 200 subscriptions",
+      "dollar_link_labels": [
+        "Pro 200 is available for new subscriptions again at $200/month."
+      ]
+    },
+    {
+      "slug": "Releases/Claude-Code/claude-code-2026-01-23-v2-1-19-github-279515857-4e1f7640",
+      "title": "Claude Code — v2.1.19",
+      "dollar_link_labels": [
+        "Changed indexed argument syntax from $ARGUMENTS.0 to $ARGUMENTS0 (bracket",
+        "Added shorthand $0, $1, etc. for accessing individual arguments in custom co"
+      ]
+    },
+    {
+      "slug": "Releases/Claude-Code/claude-code-2026-03-17-v2-1-78-github-298204446-1f2c1721",
+      "title": "Claude Code — v2.1.78",
+      "dollar_link_labels": [
+        "Added ${CLAUDE_PLUGIN_DATA} variable for plugin persistent state that survives"
+      ]
+    },
+    {
+      "slug": "Releases/Claude-Code/claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988",
+      "title": "Claude Code — v2.1.163",
+      "dollar_link_labels": [
+        "Skills: added \\$ escape syntax to include a literal $ before a digit in comm"
+      ]
+    },
+    {
+      "slug": "Releases/Claude-Code/claude-code-2026-10-02-v2-1-288-github-402056988-39eb9ac6",
+      "title": "Claude Code — v2.1.288",
+      "dollar_link_labels": [
+        "Added $.ui.selection() for mods: returns the text you last selected in fullscr"
+      ]
+    },
+    {
+      "slug": "Releases/Claude-Code/claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab",
+      "title": "Claude Code — v2.1.292",
+      "dollar_link_labels": [
+        "Added prompt caching to $.model.complete for mods: prompt and system take"
+      ]
+    },
+    {
+      "slug": "Releases/Claude-Code/claude-code-2026-10-14-v2-1-299-github-412217284-623d9162",
+      "title": "Claude Code — v2.1.299",
+      "dollar_link_labels": [
+        "Added $.prompt.media so a prompt.submit hook of a mod installed by managed s"
+      ]
+    },
+    {
+      "slug": "Releases/Claude-Code/claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0",
+      "title": "Claude Code — v2.1.300",
+      "dollar_link_labels": [
+        "Added $.ui.view({ agentId }) for mods: shows an agent's transcript in the main"
+      ]
+    },
+    {
+      "slug": "Releases/Cursor/cursor-2026-03-19-composer-2-https-cursor-com-changelog-composer-2-8a6d25c8",
+      "title": "Cursor — Composer 2",
+      "dollar_link_labels": [
+        "Standard: $0.50/M input, $2.50/M output tokens",
+        "Fast (default): $1.50/M input, $7.50/M output tokens"
+      ]
+    },
+    {
+      "slug": "Releases/Cursor/cursor-2026-05-18-composer-2-5-https-cursor-com-changelog-composer-2-5-1dffe5a1",
+      "title": "Cursor — Composer 2.5",
+      "dollar_link_labels": [
+        "Fast (default): $3.00/M input, $15.00/M output tokens",
+        "Standard: $0.50/M input, $2.50/M output tokens"
+      ]
+    },
+    {
+      "slug": "Products/ChatGPT",
+      "title": "ChatGPT",
+      "dollar_link_labels": [
+        "Pro ($100/month): Built for longer, high-intensity Codex sessions. It includes u",
+        "We’re introducing a new $100/month Pro plan and updating how Codex usage works a",
+        "Plus ($20/month): Plus remains best for steady, day-to-day use. As the temporary",
+        "Pro ($200/month): Our highest-usage option remains available and continues on it",
+        "Pro ($100/month): Up to 15 hours with GPT-Live-1.",
+        "Pro 200 is available for new subscriptions again at $200/month.",
+        "We’re introducing Pro 500, a new $500/month plan with the highest included usage"
+      ]
+    },
+    {
+      "slug": "Products/Claude-Code",
+      "title": "Claude Code",
+      "dollar_link_labels": [
+        "Changed indexed argument syntax from $ARGUMENTS.0 to $ARGUMENTS0 (bracket",
+        "Added shorthand $0, $1, etc. for accessing individual arguments in custom co",
+        "Added ${CLAUDE_PLUGIN_DATA} variable for plugin persistent state that survives",
+        "Skills: added \\$ escape syntax to include a literal $ before a digit in comm",
+        "Added $.ui.selection() for mods: returns the text you last selected in fullscr",
+        "Added prompt caching to $.model.complete for mods: prompt and system take",
+        "Added $.prompt.media so a prompt.submit hook of a mod installed by managed s",
+        "Added $.ui.view({ agentId }) for mods: shows an agent's transcript in the main"
+      ]
+    },
+    {
+      "slug": "Products/Cursor",
+      "title": "Cursor",
+      "dollar_link_labels": [
+        "Standard: $0.50/M input, $2.50/M output tokens",
+        "Fast (default): $1.50/M input, $7.50/M output tokens",
+        "Fast (default): $3.00/M input, $15.00/M output tokens",
+        "Standard: $0.50/M input, $2.50/M output tokens"
+      ]
+    },
+    {
+      "slug": "Themes/agent-mode",
+      "title": "Agent Mode",
+      "dollar_link_labels": [
+        "Added $.ui.view({ agentId }) for mods: shows an agent's transcript in the main"
+      ]
+    },
+    {
+      "slug": "Themes/apps-integrations",
+      "title": "Apps Integrations",
+      "dollar_link_labels": [
+        "Added ${CLAUDE_PLUGIN_DATA} variable for plugin persistent state that survives"
+      ]
+    },
+    {
+      "slug": "Themes/developer-workflow",
+      "title": "Developer Workflow",
+      "dollar_link_labels": [
+        "Skills: added \\$ escape syntax to include a literal $ before a digit in comm",
+        "Added shorthand $0, $1, etc. for accessing individual arguments in custom co",
+        "Changed indexed argument syntax from $ARGUMENTS.0 to $ARGUMENTS0 (bracket"
+      ]
+    },
+    {
+      "slug": "Themes/file-data",
+      "title": "File Data",
+      "dollar_link_labels": [
+        "Added $.prompt.media so a prompt.submit hook of a mod installed by managed s"
+      ]
+    },
+    {
+      "slug": "Themes/interface-experience",
+      "title": "Interface Experience",
+      "dollar_link_labels": [
+        "Added $.ui.selection() for mods: returns the text you last selected in fullscr"
+      ]
+    },
+    {
+      "slug": "Themes/model-support",
+      "title": "Model Support",
+      "dollar_link_labels": [
+        "Added prompt caching to $.model.complete for mods: prompt and system take"
+      ]
+    },
+    {
+      "slug": "Themes/pricing-model",
+      "title": "Pricing Model",
+      "dollar_link_labels": [
+        "We’re introducing Pro 500, a new $500/month plan with the highest included usage",
+        "Pro 200 is available for new subscriptions again at $200/month.",
+        "Pro ($100/month): Up to 15 hours with GPT-Live-1.",
+        "Standard: $0.50/M input, $2.50/M output tokens",
+        "Fast (default): $3.00/M input, $15.00/M output tokens",
+        "Pro ($200/month): Our highest-usage option remains available and continues on it",
+        "Plus ($20/month): Plus remains best for steady, day-to-day use. As the temporary",
+        "We’re introducing a new $100/month Pro plan and updating how Codex usage works a",
+        "Pro ($100/month): Built for longer, high-intensity Codex sessions. It includes u",
+        "Fast (default): $1.50/M input, $7.50/M output tokens",
+        "Standard: $0.50/M input, $2.50/M output tokens"
+      ]
+    }
+  ]
+}

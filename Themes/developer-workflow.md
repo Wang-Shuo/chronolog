@@ -1,7 +1,7 @@
 ---
 created: '2023-03-18'
 date: '2026-10-14'
-machine_hash: ad35e1d0cf509b96dc06dbb6556bb18d2295d36435534abcf9ad403dd4285460
+machine_hash: 3d7bc3ddc8c7542e4d5ba29ec3745fb06cce2783b164fe76e24047da2a902757
 modified: '2026-10-14'
 products_involved:
 - ChatGPT
@@ -58,7 +58,7 @@ Scope: tracked-products-only. Entries show same-theme chronology; they do not es
 - 2026-07-02 · Claude Code: [[Changes/Claude Code/2026-07-02-claude-agents-session-rows-now-show-pull-request-links-as-bare-n-without-the-red|claude agents session rows now show pull-request links as bare ♯N without th]]
 - 2026-06-17 · Cursor: [[Changes/Cursor/2026-06-17-cursor-can-now-help-you-set-up-your-dev-environment-in-the-cloud-in-less-than-10|Cursor can now help you set up your dev environment in the cloud in less than 10]]
 - 2026-06-15 · Claude Code: [[Changes/Claude Code/2026-06-15-improved-doctor-with-consistent-flat-tree-layout-across-all-sections-clearer-sec|Improved /doctor with consistent flat tree layout across all sections, clearer]]
-- 2026-06-04 · Claude Code: [[Changes/Claude Code/2026-06-04-skills-added-escape-syntax-to-include-a-literal-before-a-digit-in-command-bodies|Skills: added \USD  escape syntax to include a literal USD  before a digit in comm]]
+- 2026-06-04 · Claude Code: [[Changes/Claude Code/2026-06-04-skills-added-escape-syntax-to-include-a-literal-before-a-digit-in-command-bodies|Skills: added \$ escape syntax to include a literal $ before a digit in comm]]
 - 2026-06-03 · Claude Code: [[Changes/Claude Code/2026-06-03-tools-explicitly-listing-grep-glob-now-provides-the-dedicated-search-tools-on-na|--tools: explicitly listing Grep/Glob now provides the dedicated search tools]]
 - 2026-06-02 · Claude Code: [[Changes/Claude Code/2026-06-02-parallel-tool-calls-a-failed-bash-command-no-longer-cancels-other-calls-in-the-s|Parallel tool calls: a failed Bash command no longer cancels other calls in the]]
 - 2026-06-02 · Claude Code: [[Changes/Claude Code/2026-06-02-acceptedits-mode-now-prompts-before-writing-build-tool-config-files-that-grant-c|acceptEdits mode now prompts before writing build-tool config files that grant]]
@@ -118,8 +118,8 @@ Scope: tracked-products-only. Entries show same-theme chronology; they do not es
 - 2026-01-29 · Claude Code: [[Changes/Claude Code/2026-01-29-changed-bash-commands-to-show-timeout-duration-alongside-elapsed-time|Changed Bash commands to show timeout duration alongside elapsed time]]
 - 2026-01-28 · Claude Code: [[Changes/Claude Code/2026-01-28-vscode-added-automatic-python-virtual-environment-activation-ensuring-python-and|VSCode Added automatic Python virtual environment activation, ensuring python]]
 - 2026-01-27 · Claude Code: [[Changes/Claude Code/2026-01-27-added-support-for-loading-claude-md-files-from-additional-directories-specified|Added support for loading CLAUDE.md files from additional directories specifie]]
-- 2026-01-23 · Claude Code: [[Changes/Claude Code/2026-01-23-added-shorthand-0-1-etc-for-accessing-individual-arguments-in-custom-commands|Added shorthand USD 0, USD 1, etc. for accessing individual arguments in custom co]]
-- 2026-01-23 · Claude Code: [[Changes/Claude Code/2026-01-23-changed-indexed-argument-syntax-from-arguments-0-to-arguments-0-bracket-syntax|Changed indexed argument syntax from USD ARGUMENTS.0 to USD ARGUMENTS0 (bracket]]
+- 2026-01-23 · Claude Code: [[Changes/Claude Code/2026-01-23-added-shorthand-0-1-etc-for-accessing-individual-arguments-in-custom-commands|Added shorthand $0, $1, etc. for accessing individual arguments in custom co]]
+- 2026-01-23 · Claude Code: [[Changes/Claude Code/2026-01-23-changed-indexed-argument-syntax-from-arguments-0-to-arguments-0-bracket-syntax|Changed indexed argument syntax from $ARGUMENTS.0 to $ARGUMENTS0 (bracket]]
 - 2026-01-22 · Claude Code: [[Changes/Claude Code/2026-01-22-added-new-task-management-system-including-new-capabilities-like-dependency-trac|Added new task management system, including new capabilities like dependency tra]]
 - 2026-01-21 · Claude Code: [[Changes/Claude Code/2026-01-21-added-deprecation-notification-for-npm-installations-run-claude-install-or-see-h|Added deprecation notification for npm installations - run claude install or s]]
 - 2026-01-20 · Claude Code: [[Changes/Claude Code/2026-01-20-vscode-added-usage-command-to-display-current-plan-usage|VSCode Added /usage command to display current plan usage]]

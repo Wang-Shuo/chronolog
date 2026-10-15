@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 1195817b4f9c4edd5dd9cfeff59d93810f98ec2aa2d13e7178ff72aac55539bc
+machine_hash: 9b7fcf26044582d7a153eaaf81838ad3e8a036686001ad0dcb87d11fb3d4c721
 product: cursor
 product_name: Cursor
 record:
@@ -43,7 +43,7 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-05-18-composer-2-5-https-cursor-com-changelog-composer-2-5-1dffe5a1|cursor-2026-05-18-composer-2-5-https-cursor-com-changelog-composer-2-5-1dffe5a1]]'
 source_type: cursor_changelog
 theme: pricing-model
-title: 'Standard: USD 0.50/M input, USD 2.50/M output tokens'
+title: 'Standard: $0.50/M input, $2.50/M output tokens'
 type: change
 ---
 

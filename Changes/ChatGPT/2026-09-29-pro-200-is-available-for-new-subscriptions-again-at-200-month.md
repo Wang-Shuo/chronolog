@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: b0aa648c5a216037b8146a63910ed43a700bb5ec9847f5c5d1ae4f7ac786b3c3
+machine_hash: 4082ecfa148f9d50cc37d2de99a7ab577024f138093c3243f86893648e4550c8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,7 +46,7 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-pro-200-subscriptions-a351b7b9|chatgpt-2026-09-29-pro-200-subscriptions-a351b7b9]]'
 source_type: chatgpt_changelog
 theme: pricing-model
-title: Pro 200 is available for new subscriptions again at USD 200/month.
+title: Pro 200 is available for new subscriptions again at $200/month.
 type: change
 ---
 

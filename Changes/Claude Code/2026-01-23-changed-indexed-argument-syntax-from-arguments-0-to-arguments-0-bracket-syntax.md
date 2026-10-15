@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 2564b42eea969e007d35208ffa835980cc9a0538f6ae39f0f72173b11e595fd0
+machine_hash: 7916f5aa1b0f4b5187baf46a721b109dc5c4c690ab357f21ca45a5c1ac71b18f
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,7 +45,7 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-01-23-v2-1-19-github-279515857-4e1f7640|claude-code-2026-01-23-v2-1-19-github-279515857-4e1f7640]]'
 source_type: github_releases
 theme: developer-workflow
-title: Changed indexed argument syntax from USD ARGUMENTS.0 to USD ARGUMENTS0 (bracket
+title: Changed indexed argument syntax from $ARGUMENTS.0 to $ARGUMENTS0 (bracket
 type: change
 ---
 

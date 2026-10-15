@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 7ad3a7df9d13bb6a986f325ade09e2309528381c2e65258f8e370b30aba7cf2c
+machine_hash: b563035f9d684133d9667fb99580985444358bf6da2ae60e8ca7fec7accc9712
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,7 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988|claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988]]'
 source_type: github_releases
 theme: developer-workflow
-title: 'Skills: added \USD  escape syntax to include a literal USD  before a digit
-  in comm'
+title: 'Skills: added \$ escape syntax to include a literal $ before a digit in comm'
 type: change
 ---
 

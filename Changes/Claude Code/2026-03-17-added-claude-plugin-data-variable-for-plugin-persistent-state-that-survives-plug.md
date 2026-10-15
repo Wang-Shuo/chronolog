@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: c21d77aa9834810df965f66c75cac4cdf78abd73e68139bd42f66070bef96656
+machine_hash: 57090245ec14d6cef1752bd98f14aa481b27d0ddcb9b1fa7c752f3b9aec80673
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,7 +44,7 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-17-v2-1-78-github-298204446-1f2c1721|claude-code-2026-03-17-v2-1-78-github-298204446-1f2c1721]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added USD {CLAUDE_PLUGIN_DATA} variable for plugin persistent state that survives
+title: Added ${CLAUDE_PLUGIN_DATA} variable for plugin persistent state that survives
 type: change
 ---
 
