@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2026-05-06-d58e0b
 date: '2026-05-06'
+description: 'Cursor · 2026-05-06 · Context Window: You can now see a breakdown of
+  your agent''s context usage.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|cursor-2023-05-04-00d3b7]]'
+  first_in_tracked: '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended
+    prompt length for project generation]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1098
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: f68c8e7055f4f8a842c4266eb8a1c353df68f49573616eddfcfbd5a44e2f0890
+machine_hash: aced0fe2dfa422cd2d6ccdb1a210d9f85d0a472a563153d3696cab4ce36a2bd5
 product: cursor
 product_name: Cursor
 record:
@@ -48,9 +51,12 @@ record:
   title: See a breakdown of your agent's context usage
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-15-added-option-to-show-claude-s-last-response-as-commented-context-in-the-ctrl-g-e|claude-code-2026-04-15-980a64]]'
-- '[[Changes/Cursor/2026-05-04-admins-can-now-set-more-granular-allow-or-blocklists-at-the-model-and-provider-l|cursor-2026-05-04-50f164]]'
-- '[[Changes/Cursor/2026-05-06-use-these-stats-to-diagnose-context-issues-and-improve-your-setup-across-rules-s|cursor-2026-05-06-b2f248]]'
+- '[[Changes/Claude Code/2026-04-15-added-option-to-show-claude-s-last-response-as-commented-context-in-the-ctrl-g-e|Added
+  option to show Claude''s last response as commented context in the Ctrl+G…]]'
+- '[[Changes/Cursor/2026-05-04-admins-can-now-set-more-granular-allow-or-blocklists-at-the-model-and-provider-l|Admins
+  can now set more granular allow or blocklists at the model and provider level]]'
+- '[[Changes/Cursor/2026-05-06-use-these-stats-to-diagnose-context-issues-and-improve-your-setup-across-rules-s|Use
+  these stats to diagnose context issues and improve your setup across rules…]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-06-3-3-https-cursor-com-changelog-05-06-26-2cf56c40|cursor-2026-05-06-3-3-https-cursor-com-changelog-05-06-26-2cf56c40]]'
 source_type: cursor_changelog
 theme: context-window
@@ -58,10 +64,10 @@ title: See a breakdown of your agent's context usage
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # See a breakdown of your agent's context usage
 
-<!-- chronolog:begin region="description" -->
-Cursor — Context Usage Breakdown: You can now see a breakdown of your agent's context usage.
+**Cursor** · 2026-05-06 · [[Themes/context-window|Context Window]] · [Official source](https://cursor.com/changelog/05-06-26) · from [[Releases/Cursor/cursor-2026-05-06-3-3-https-cursor-com-changelog-05-06-26-2cf56c40|Context Usage Breakdown]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -70,19 +76,25 @@ Cursor — Context Usage Breakdown: You can now see a breakdown of your agent's 
 > Source: https://cursor.com/changelog/05-06-26
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2026-05-06-use-these-stats-to-diagnose-context-issues-and-improve-your-setup-across-rules-s|Use these stats to diagnose context issues and improve your setup across rules…]] · Context Window
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: context-window
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|cursor-2023-05-04-00d3b7]]
-- Lag Days: 1098
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Context Window
+
+- Earlier: 2026-05-04 · Cursor · [[Changes/Cursor/2026-05-04-admins-can-now-set-more-granular-allow-or-blocklists-at-the-model-and-provider-l|Admins can now set more granular allow or blocklists at the model and provider level]]
+- Later: 2026-05-11 · Cursor · [[Changes/Cursor/2026-05-11-cursor-automatically-picks-the-right-repository-and-model-based-on-your-prompt-a|Cursor automatically picks the right repository and model based on your prompt…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended prompt length for project generation]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2026-05-06-d58e0b&body=Card%3A%20Changes%2FCursor%2F2026-05-06-you-can-now-see-a-breakdown-of-your-agent-s-context-usage.md%0ACard%20ID%3A%20cursor-2026-05-06-d58e0b%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F05-06-26%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

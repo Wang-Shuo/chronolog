@@ -1,10 +1,13 @@
 ---
 changes_count: 5
 date: '2024-11-24'
-machine_hash: 9d8a97bd5c10ccf331a9b8fb69b8b289fa7765e9a0b8a22ebef80a12f7fcb654
+description: 'Cursor release New Composer UI, Agent, Commit Messages on 2024-11-24:
+  5 tracked changes across Context Window, Developer Workflow, Interface Experience'
+machine_hash: d68ecbd9e30ad33aa701091ebd2ae1bffd7eb33005dcf8c20294b6b45525c144
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 8
   date: '2024-11-24'
   product: cursor
   product_name: Cursor
@@ -21,26 +24,28 @@ source_url: https://cursor.com/changelog/0-43-x
 tags:
 - release
 - cursor
-title: Cursor — New Composer UI, Agent, Commit Messages
+title: Cursor · New Composer UI, Agent, Commit Messages
 version: 0.43.x
 ---
 
-# Cursor New Composer UI, Agent, Commit Messages
+<!-- chronolog:begin region="header" -->
+# Cursor · New Composer UI, Agent, Commit Messages
+
+**Cursor** · 2024-11-24 · [Official release notes](https://cursor.com/changelog/0-43-x)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Composer UI in the sidebar with inline diffs
 
-[Official release notes](https://cursor.com/changelog/0-43-x)
-
-Tracked cards: 5
+Tracked 5 of 8 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- context-window: [[Changes/Cursor/2024-11-24-recommended-in-chat-composer-to-semantically-search-for-context|@Recommended in chat/composer to semantically search for context]]
-- developer-workflow: [[Changes/Cursor/2024-11-24-generation-of-git-commit-messages|Generation of git commit messages]]
-- interface-experience: [[Changes/Cursor/2024-11-24-composer-ui-in-the-sidebar-with-inline-diffs|Composer UI in the sidebar with inline diffs]]
-- context-window: [[Changes/Cursor/2024-11-24-file-pill-recommendations-in-chat-composer|File pill recommendations in chat/composer]]
-- context-window: [[Changes/Cursor/2024-11-24-early-version-of-an-agent-in-composer-that-can-pick-its-own-context-and-use-the|Early version of an agent in composer that can pick its own context and use the terminal]]
+- [[Changes/Cursor/2024-11-24-recommended-in-chat-composer-to-semantically-search-for-context|@Recommended in chat/composer to semantically search for context]] · Context Window
+- [[Changes/Cursor/2024-11-24-generation-of-git-commit-messages|Generation of git commit messages]] · Developer Workflow
+- [[Changes/Cursor/2024-11-24-composer-ui-in-the-sidebar-with-inline-diffs|Composer UI in the sidebar with inline diffs]] · Interface Experience
+- [[Changes/Cursor/2024-11-24-file-pill-recommendations-in-chat-composer|File pill recommendations in chat/composer]] · Context Window
+- [[Changes/Cursor/2024-11-24-early-version-of-an-agent-in-composer-that-can-pick-its-own-context-and-use-the|Early version of an agent in composer that can pick its own context and use the terminal]] · Context Window
 <!-- chronolog:end -->

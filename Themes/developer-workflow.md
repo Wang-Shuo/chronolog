@@ -1,7 +1,9 @@
 ---
 created: '2023-03-18'
 date: '2026-10-14'
-machine_hash: 79a97e6b3a5c88f40028f7821559279051b5ed71b3cbb09eafef63674bcc250b
+description: Cross-product timeline of Developer Workflow changes in ChatGPT, Claude
+  Code and Cursor.
+machine_hash: 1bd57c4beaa560a9599add40ae34ece147779808c47b548787a2871fa253a885
 modified: '2026-10-14'
 products_involved:
 - ChatGPT
@@ -16,7 +18,9 @@ theme: developer-workflow
 title: Developer Workflow
 ---
 
-# Theme: developer-workflow
+<!-- chronolog:begin region="header" -->
+# Developer Workflow
+<!-- chronolog:end -->
 
 ## Research summary
 <!-- chronolog:begin region="narrative" -->

@@ -1,8 +1,12 @@
 ---
 card_id: claude-code-2026-09-08-4f567a
 date: '2026-09-08'
+description: 'Claude Code · 2026-09-08 · Apps and Integrations: Added support for
+  pointing `--plugin-dir` at a folder of plugins: each child folder with a manifest
+  loads…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
+    can join the waitlist to try plugins here]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1265
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: aae0c73a39352ba6c3b9208a67037db07eb07528052cdba9f451d218d6b8d3c2
+machine_hash: 1f22337039e2cbfabe568f0422b5d8257dc1657f65e1e70c862a6ede2f6374d1
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,9 +45,12 @@ record:
   title: Added support for pointing `--plugin-dir` at a folder of plugins
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-03-added-oidc-scope-on-refresh-to-the-claude-apps-gateway-for-idps-that-return-an-i|claude-code-2026-09-03-58c928]]'
-- '[[Changes/Claude Code/2026-09-03-added-a-text-form-of-advisor-advisor-advisor-model-advisor-off-for-the-desktop-a|claude-code-2026-09-03-a26521]]'
-- '[[Changes/Claude Code/2026-09-03-added-reload-plugins-to-headless-sessions-so-it-appears-in-the-claude-code-deskt|claude-code-2026-09-03-e75dba]]'
+- '[[Changes/Claude Code/2026-09-03-added-oidc-scope-on-refresh-to-the-claude-apps-gateway-for-idps-that-return-an-i|Added
+  oidc.scope_on_refresh to the Claude apps gateway for IdPs that return…]]'
+- '[[Changes/Claude Code/2026-09-03-added-a-text-form-of-advisor-advisor-advisor-model-advisor-off-for-the-desktop-a|Added
+  a text form of /advisor (/advisor, /advisor model, /advisor off)…]]'
+- '[[Changes/Claude Code/2026-09-03-added-reload-plugins-to-headless-sessions-so-it-appears-in-the-claude-code-deskt|Added
+  /reload-plugins to headless sessions, so it appears in the Claude Code…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-08-v2-1-265-github-384990084-dc34b405|claude-code-2026-09-08-v2-1-265-github-384990084-dc34b405]]'
 source_type: github_releases
 theme: apps-integrations
@@ -51,10 +58,10 @@ title: Added support for pointing --plugin-dir at a folder of plugins
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Added support for pointing `--plugin-dir` at a folder of plugins
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.265: Added support for pointing `--plugin-dir` at a folder of plugins: each child folder with a manifest loads, and children added or removed while running are picked up
+**Claude Code** · 2026-09-08 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.265) · from [[Releases/Claude Code/claude-code-2026-09-08-v2-1-265-github-384990084-dc34b405|v2.1.265]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -63,19 +70,27 @@ Claude Code — v2.1.265: Added support for pointing `--plugin-dir` at a folder 
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.265
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-09-08-fixed-syntax-highlighted-code-in-permission-prompts-and-messages-sometimes-omitt|Fixed syntax-highlighted code in permission prompts and messages sometimes omitting…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-09-08-added-user-email-and-user-groups-to-the-telemetry-claude-desktop-and-cowork-send|Added user.email and user.groups to the telemetry Claude Desktop and Cowork send…]] · Mobile and Desktop
+- [[Changes/Claude Code/2026-09-08-windows-fixed-read-write-and-edit-refusing-every-file-symlink-resolution-changed|Windows: Fixed Read, Write and Edit refusing every file…]] · Safety and Privacy
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: apps-integrations
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]
-- Lag Days: 1265
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Apps and Integrations
+
+- Earlier: 2026-09-03 · Claude Code · [[Changes/Claude Code/2026-09-03-added-reload-plugins-to-headless-sessions-so-it-appears-in-the-claude-code-deskt|Added /reload-plugins to headless sessions, so it appears in the Claude Code…]]
+- Later: 2026-09-10 · ChatGPT · [[Changes/ChatGPT/2026-09-10-the-data-plugin-helps-you-analyze-connected-business-data-in-chatgpt-work-and-co|The Data plugin helps you analyze connected business data in ChatGPT Work and Codex]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-09-08-4f567a&body=Card%3A%20Changes%2FClaude%20Code%2F2026-09-08-added-support-for-pointing-plugin-dir-at-a-folder-of-plugins-each-child-folder-w.md%0ACard%20ID%3A%20claude-code-2026-09-08-4f567a%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.265%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

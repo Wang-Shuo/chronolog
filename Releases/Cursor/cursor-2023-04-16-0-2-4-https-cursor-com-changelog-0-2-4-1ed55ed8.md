@@ -1,10 +1,13 @@
 ---
 changes_count: 2
 date: '2023-04-16'
-machine_hash: d25846ce21de924ff92d54725dce0bdc778b4395a68b181f23dadb2417722e4e
+description: 'Cursor release Chat Scrolling & Ghost Mode (2023-04-16) on 2023-04-16:
+  2 tracked changes across Editor Experience, Safety and Privacy'
+machine_hash: 8683718738ec5ef2d7c37d48f384cfbc99c28251c993c5b188a2a92173a099af
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 4
   date: '2023-04-16'
   product: cursor
   product_name: Cursor
@@ -21,23 +24,25 @@ source_url: https://cursor.com/changelog/0-2-4
 tags:
 - release
 - cursor
-title: Cursor — Chat Scrolling & Ghost Mode (2023-04-16)
+title: Cursor · Chat Scrolling & Ghost Mode (2023-04-16)
 version: 0.2.4
 ---
 
-# Cursor Chat Scrolling & Ghost Mode (2023-04-16)
+<!-- chronolog:begin region="header" -->
+# Cursor · Chat Scrolling & Ghost Mode (2023-04-16)
+
+**Cursor** · 2023-04-16 · [Official release notes](https://cursor.com/changelog/0-2-4)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
-#New Features
+2 tracked changes across 2 themes: Editor Experience, Safety and Privacy.
 
-[Official release notes](https://cursor.com/changelog/0-2-4)
-
-Tracked cards: 2
+Tracked 2 of 4 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- editor-experience: [[Changes/Cursor/2023-04-16-nicer-edits-now-work-with-cmd-z|Nicer edits, now work with cmd-Z]]
-- safety-privacy: [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- [[Changes/Cursor/2023-04-16-nicer-edits-now-work-with-cmd-z|Nicer edits, now work with cmd-Z]] · Editor Experience
+- [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]] · Safety and Privacy
 <!-- chronolog:end -->

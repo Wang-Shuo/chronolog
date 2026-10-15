@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2025-09-16-fa547e
 date: '2025-09-16'
+description: 'ChatGPT · 2025-09-16 · Search and Browsing: Shopping: Search is better
+  at detecting shopping intent, showing products when you want them and keeping results…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|chatgpt-2023-03-23-c03c55]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
+    An experimental model that knows when and how to browse the internet]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 908
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 65b9b57ea16fe6d8d12b2b436df799df0f03ed18fb052ffd168a0a4616ebea41
+machine_hash: 592d0774a4f6d229927f684876d46b780ee5739489f017519e146cc2ac6f832b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,9 +44,12 @@ record:
     when you…'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-07-24-pro-users-can-now-connect-to-canva-and-notion-for-both-chat-search-and-deep-rese-bd2af2|chatgpt-2025-07-24-bd2af2]]'
-- '[[Changes/ChatGPT/2025-08-11-now-connect-even-more-tools-in-chatgpt-for-useful-relevant-responses-in-chat-the|chatgpt-2025-08-11-906abd]]'
-- '[[Changes/ChatGPT/2025-09-16-we-ve-made-further-improvements-to-search-in-chatgpt-making-results-more-accurat|chatgpt-2025-09-16-60a139]]'
+- '[[Changes/ChatGPT/2025-07-24-pro-users-can-now-connect-to-canva-and-notion-for-both-chat-search-and-deep-rese-bd2af2|Pro
+  users can now connect to Canva and Notion for both chat search and deep research]]'
+- '[[Changes/ChatGPT/2025-08-11-now-connect-even-more-tools-in-chatgpt-for-useful-relevant-responses-in-chat-the|Now
+  connect even more tools in ChatGPT for useful, relevant responses in chat]]'
+- '[[Changes/ChatGPT/2025-09-16-we-ve-made-further-improvements-to-search-in-chatgpt-making-results-more-accurat|ChatGPT
+  makes further improvements to search, making results more accurate…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-16-improvements-to-search-in-chatgpt-2ec68690|chatgpt-2025-09-16-improvements-to-search-in-chatgpt-2ec68690]]'
 source_type: chatgpt_changelog
 theme: search-browsing
@@ -52,10 +58,10 @@ title: 'Shopping: Search is better at detecting shopping intent, showing product
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Shopping: Search is better at detecting shopping intent, showing products when you…
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Improvements to search in ChatGPT: Shopping: Search is better at detecting shopping intent, showing products when you want them and keeping results focused when you don’t.
+**ChatGPT** · 2025-09-16 · [[Themes/search-browsing|Search and Browsing]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-09-16-improvements-to-search-in-chatgpt-2ec68690|Improvements to search in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -64,19 +70,27 @@ ChatGPT — Improvements to search in ChatGPT: Shopping: Search is better at det
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2025-09-16-factuality-fewer-hallucinations-improving-answer-quality|Factuality: Fewer hallucinations, improving answer quality]] · Model Support
+- [[Changes/ChatGPT/2025-09-16-we-ve-made-further-improvements-to-search-in-chatgpt-making-results-more-accurat|ChatGPT makes further improvements to search, making results more accurate…]] · Search and Browsing
+- [[Changes/ChatGPT/2025-09-16-formatting-answers-are-better-formatted-for-quick-understanding-without-losing-d|Formatting: Answers are better formatted for quick understanding without losing…]] · Interface Experience
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: search-browsing
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|chatgpt-2023-03-23-c03c55]]
-- Lag Days: 908
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Search and Browsing
+
+- Earlier: 2025-08-11 · ChatGPT · [[Changes/ChatGPT/2025-08-11-now-connect-even-more-tools-in-chatgpt-for-useful-relevant-responses-in-chat-the|Now connect even more tools in ChatGPT for useful, relevant responses in chat]]
+- Later: 2025-09-29 · ChatGPT · [[Changes/ChatGPT/2025-09-29-instant-checkout-makes-it-easy-to-go-from-chat-to-checkout-in-just-a-few-taps|Instant Checkout makes it easy to go from chat to checkout in just a few taps]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-09-16-fa547e&body=Card%3A%20Changes%2FChatGPT%2F2025-09-16-shopping-search-is-better-at-detecting-shopping-intent-showing-products-when-you.md%0ACard%20ID%3A%20chatgpt-2025-09-16-fa547e%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

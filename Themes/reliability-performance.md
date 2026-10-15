@@ -1,7 +1,9 @@
 ---
 created: '2022-12-15'
 date: '2026-09-17'
-machine_hash: 2c5a2f5bbd36603a6ec4eef6f60c0ce3397d82325a75d55f22cd2cf353887c5b
+description: Cross-product timeline of Reliability and Performance changes in ChatGPT,
+  Claude Code and Cursor.
+machine_hash: 32d1f88c2e7d5ddecbfe043c194f3282d27347b6870a9041399e03deeca992ab
 modified: '2026-09-17'
 products_involved:
 - ChatGPT
@@ -13,10 +15,12 @@ tags:
 - theme
 - moc
 theme: reliability-performance
-title: Reliability Performance
+title: Reliability and Performance
 ---
 
-# Theme: reliability-performance
+<!-- chronolog:begin region="header" -->
+# Reliability and Performance
+<!-- chronolog:end -->
 
 ## Research summary
 <!-- chronolog:begin region="narrative" -->

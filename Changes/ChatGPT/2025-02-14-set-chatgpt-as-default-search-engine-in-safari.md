@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2025-02-14-6ee943
 date: '2025-02-14'
+description: 'ChatGPT · 2025-02-14 · Search and Browsing: Set ChatGPT as default search
+  engine in Safari.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|chatgpt-2023-03-23-c03c55]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
+    An experimental model that knows when and how to browse the internet]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 694
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: e49dd67734a4dd4c05d6290892563db57a5899d00bbdb097f42eee3fa02aa4c4
+machine_hash: 74b0146fa85cce88589d1230456d675040436fac4772db62c2adddfe650353ad
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,9 +41,12 @@ record:
   title: Set ChatGPT as default search engine in Safari
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-07-03-we-ve-learned-that-the-browsing-beta-can-occasionally-display-content-in-ways-we|chatgpt-2023-07-03-f27b70]]'
-- '[[Changes/ChatGPT/2023-09-27-browsing-is-rolling-out-to-all-plus-users-chatgpt-can-now-browse-the-internet-to-335b58|chatgpt-2023-09-27-335b58]]'
-- '[[Changes/Cursor/2024-01-25-using-web-in-chat-will-give-the-ai-the-ability-to-crawl-the-web-the-tools-it-can|cursor-2024-01-25-e32ad8]]'
+- '[[Changes/ChatGPT/2023-07-03-we-ve-learned-that-the-browsing-beta-can-occasionally-display-content-in-ways-we|We''ve
+  learned that the browsing beta can occasionally display content in ways we…]]'
+- '[[Changes/ChatGPT/2023-09-27-browsing-is-rolling-out-to-all-plus-users-chatgpt-can-now-browse-the-internet-to-335b58|Browsing
+  is rolling out to all Plus users]]'
+- '[[Changes/Cursor/2024-01-25-using-web-in-chat-will-give-the-ai-the-ability-to-crawl-the-web-the-tools-it-can|Using
+  @Web in chat will give the AI the ability to crawl the web!]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-02-14-set-chatgpt-as-default-search-engine-in-safari-11ec014b|chatgpt-2025-02-14-set-chatgpt-as-default-search-engine-in-safari-11ec014b]]'
 source_type: chatgpt_changelog
 theme: search-browsing
@@ -48,10 +54,10 @@ title: Set ChatGPT as default search engine in Safari
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Set ChatGPT as default search engine in Safari
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — - Set ChatGPT as default search engine in Safari.: Set ChatGPT as default search engine in Safari.
+**ChatGPT** · 2025-02-14 · [[Themes/search-browsing|Search and Browsing]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-02-14-set-chatgpt-as-default-search-engine-in-safari-11ec014b|- Set ChatGPT as default search engine in Safari.]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -60,19 +66,28 @@ ChatGPT — - Set ChatGPT as default search engine in Safari.: Set ChatGPT as de
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2025-02-14-improved-android-conversation-parsing-performance|Improved Android conversation parsing performance]] · Mobile and Desktop
+- [[Changes/ChatGPT/2025-02-14-ios-performance-fixes|iOS performance fixes]] · Mobile and Desktop
+- [[Changes/ChatGPT/2025-02-14-confirmation-dialog-for-logging-out-ios-web|Confirmation dialog for logging out (iOS, web)]] · Mobile and Desktop
+- [[Changes/ChatGPT/2025-02-14-updated-launch-animations-and-composer-design-on-android|Updated launch animations and composer design on Android]] · Mobile and Desktop
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: search-browsing
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|chatgpt-2023-03-23-c03c55]]
-- Lag Days: 694
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Search and Browsing
+
+- Earlier: 2024-01-25 · Cursor · [[Changes/Cursor/2024-01-25-using-web-in-chat-will-give-the-ai-the-ability-to-crawl-the-web-the-tools-it-can|Using @Web in chat will give the AI the ability to crawl the web!]]
+- Later: 2025-05-08 · ChatGPT · [[Changes/ChatGPT/2025-05-08-chatgpt-deep-research-with-github-is-available-globally-to-team-users-it-is-also-ad2e25|ChatGPT deep research with GitHub is available globally to Team users]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-02-14-6ee943&body=Card%3A%20Changes%2FChatGPT%2F2025-02-14-set-chatgpt-as-default-search-engine-in-safari.md%0ACard%20ID%3A%20chatgpt-2025-02-14-6ee943%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

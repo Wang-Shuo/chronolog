@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2025-09-18'
-machine_hash: c410291a7e1651a525f92eb5a8c1a116b47d962375835edb6cf62d6b41ecbf74
+description: 'ChatGPT release Voice Updates on 2025-09-18: 1 tracked change across
+  Model Support'
+machine_hash: 331242317441578500de3a76f882d0899185888f02a237d4c5867dedb3ea8a77
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 1
   date: '2025-09-18'
   product: chatgpt
   product_name: ChatGPT
@@ -22,22 +25,24 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Voice Updates
+title: ChatGPT · Voice Updates
 version: Voice Updates
 ---
 
-# ChatGPT Voice Updates
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Voice Updates
+
+**ChatGPT** · 2025-09-18 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 We’re improving the quality and latency of responses of the version of Advanced Voice powered by GPT-4o mini.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2025-09-18-we-re-improving-the-quality-and-latency-of-responses-of-the-version-of-advanced|We’re improving the quality and latency of responses of the version of Advanced…]]
+- [[Changes/ChatGPT/2025-09-18-we-re-improving-the-quality-and-latency-of-responses-of-the-version-of-advanced|We’re improving the quality and latency of responses of the version of Advanced…]] · Model Support
 <!-- chronolog:end -->

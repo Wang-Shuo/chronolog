@@ -1,8 +1,12 @@
 ---
 card_id: cursor-2026-07-17-0c31db
 date: '2026-07-17'
+description: 'Cursor · 2026-07-17 · Apps and Integrations: From Slack, Cursor can
+  now start in a named multi-repo environment instead of a single default repository.
+  If your…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
+    can join the waitlist to try plugins here]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1212
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: b00a4f30e17c5fcdda1124897a052867b97f764ae0b3c7971c34e74fe23be035
+machine_hash: d80263439e6cace8929f8347676206ad165a77a73f7ca6346d0deaf4cb27c62a
 product: cursor
 product_name: Cursor
 record:
@@ -43,9 +47,12 @@ record:
   title: From Slack, Cursor can now start in a named multi-repo environment instead…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-09-enterprise-and-edu-users-can-find-skills-under-plugins-in-the-sidebar-on-the-ski|chatgpt-2026-07-09-baa5ca]]'
-- '[[Changes/Claude Code/2026-07-15-hardened-synced-skill-plugin-directory-naming-on-windows-and-kept-ccr-web-fetch|claude-code-2026-07-15-a7c9ca]]'
-- '[[Changes/Claude Code/2026-07-17-mcp-tool-calls-running-longer-than-2-minutes-now-move-to-the-background-automati|claude-code-2026-07-17-0b1708]]'
+- '[[Changes/ChatGPT/2026-07-09-enterprise-and-edu-users-can-find-skills-under-plugins-in-the-sidebar-on-the-ski|Enterprise
+  and Edu users can find skills under Plugins in the sidebar, on the Skills…]]'
+- '[[Changes/Claude Code/2026-07-15-hardened-synced-skill-plugin-directory-naming-on-windows-and-kept-ccr-web-fetch|Hardened
+  synced skill/plugin directory naming on Windows and kept CCR web…]]'
+- '[[Changes/Claude Code/2026-07-17-mcp-tool-calls-running-longer-than-2-minutes-now-move-to-the-background-automati|MCP
+  tool calls running longer than 2 minutes now move to the background…]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-17-improvements-to-cursor-in-slack-https-cursor-com-changelog-slack-f233f9c6|cursor-2026-07-17-improvements-to-cursor-in-slack-https-cursor-com-changelog-slack-f233f9c6]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -53,10 +60,10 @@ title: From Slack, Cursor can now start in a named multi-repo environment instea
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # From Slack, Cursor can now start in a named multi-repo environment instead…
 
-<!-- chronolog:begin region="description" -->
-Cursor — Improvements to Cursor in Slack: From Slack, Cursor can now start in a named multi-repo environment instead of a single default repository. If your frontend, backend, and shared code live in separate repos, Cursor reads your request and targets the environment that gives it access to all of them.
+**Cursor** · 2026-07-17 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://cursor.com/changelog/slack-improvements) · from [[Releases/Cursor/cursor-2026-07-17-improvements-to-cursor-in-slack-https-cursor-com-changelog-slack-f233f9c6|Improvements to Cursor in Slack]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -65,19 +72,27 @@ Cursor — Improvements to Cursor in Slack: From Slack, Cursor can now start in 
 > Source: https://cursor.com/changelog/slack-improvements
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2026-07-17-cursor-now-responds-with-a-plan-before-it-begins-so-you-can-jump-in-and-redirect|Cursor now responds with a plan before it begins, so you can jump in and redirect early]] · Agent Mode
+- [[Changes/Cursor/2026-07-17-cursor-in-slack-now-shares-a-plan-before-it-starts-runs-in-multi-repo-environmen|Cursor in Slack now shares a plan before it starts, runs in multi-repo environments…]] · Apps and Integrations
+- [[Changes/Cursor/2026-07-17-we-also-refined-how-cursor-s-responses-look-in-slack-in-message-buttons-are-gone|We also refined how Cursor's responses look in Slack]] · Apps and Integrations
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: apps-integrations
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]
-- Lag Days: 1212
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Apps and Integrations
+
+- Earlier: 2026-07-17 · Claude Code · [[Changes/Claude Code/2026-07-17-mcp-tool-calls-running-longer-than-2-minutes-now-move-to-the-background-automati|MCP tool calls running longer than 2 minutes now move to the background…]]
+- Later: 2026-07-22 · Claude Code · [[Changes/Claude Code/2026-07-22-added-http-status-and-error-text-to-claude-mcp-list-and-mcp-when-a-server-fails|Added HTTP status and error text to claude mcp list and /mcp when a server fails…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2026-07-17-0c31db&body=Card%3A%20Changes%2FCursor%2F2026-07-17-from-slack-cursor-can-now-start-in-a-named-multi-repo-environment-instead-of-a-s.md%0ACard%20ID%3A%20cursor-2026-07-17-0c31db%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2Fslack-improvements%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

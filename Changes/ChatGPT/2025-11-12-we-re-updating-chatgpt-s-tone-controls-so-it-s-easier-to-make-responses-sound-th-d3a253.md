@@ -1,8 +1,12 @@
 ---
 card_id: chatgpt-2025-11-12-d3a253
 date: '2025-11-12'
+description: 'ChatGPT · 2025-11-12 · Model Support: We’re updating ChatGPT’s tone
+  controls so it’s easier to make responses sound the way you prefer. You can now
+  choose from…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We
+    made more improvements to the ChatGPT model!]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1038
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1895dcb49327c6a9db3a41fc6afe0e24e64412bd9e216b34bce0a64f73cb721a
+machine_hash: e68978ddda35ef7d6c9bdc42419a89c9da68650964d1d6f179ddb0f89f7255de
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -62,9 +66,12 @@ record:
   title: We’re updating ChatGPT’s tone controls so it’s easier to make responses sound…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-10-22-we-re-updating-the-model-for-signed-out-users-to-gpt-5-instant-giving-more-peopl|chatgpt-2025-10-22-23dfff]]'
-- '[[Changes/Cursor/2025-10-29-introducing-our-first-agentic-coding-model-composer-is-a-frontier-model-that-is|cursor-2025-10-29-6d4dc6]]'
-- '[[Changes/ChatGPT/2025-11-05-you-can-now-interrupt-long-running-queries-such-as-deep-research-or-gpt-5-pro-to|chatgpt-2025-11-05-04febe]]'
+- '[[Changes/ChatGPT/2025-10-22-we-re-updating-the-model-for-signed-out-users-to-gpt-5-instant-giving-more-peopl|We’re
+  updating the model for signed-out users to GPT-5 Instant, giving more people…]]'
+- '[[Changes/Cursor/2025-10-29-introducing-our-first-agentic-coding-model-composer-is-a-frontier-model-that-is|Introducing
+  our first agentic coding model]]'
+- '[[Changes/ChatGPT/2025-11-05-you-can-now-interrupt-long-running-queries-such-as-deep-research-or-gpt-5-pro-to|Interrupt
+  long-running queries (such as deep research or GPT-5 Pro) to refine what…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-12-new-tone-and-personalization-controls-8052eeb3|chatgpt-2025-11-12-new-tone-and-personalization-controls-8052eeb3]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -72,10 +79,10 @@ title: We’re updating ChatGPT’s tone controls so it’s easier to make respo
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # We’re updating ChatGPT’s tone controls so it’s easier to make responses sound…
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — New tone and personalization controls: We’re updating ChatGPT’s tone controls so it’s easier to make responses sound the way you prefer. You can now choose from updated presets like Default, Friendly, Efficient, Professional, Candid, and Quirky (with Cynical and Nerdy still available), and we’re experimenting with more granular controls over how concise, warm, or scannable responses are, plus how often emojis appear.Changes you make in Personalization now apply across all chats immediately (including existing conversations), and GPT-5.1 models follow your custom instructions and style preferences more reliably.
+**ChatGPT** · 2025-11-12 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-11-12-new-tone-and-personalization-controls-8052eeb3|New tone and personalization controls]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -84,19 +91,23 @@ ChatGPT — New tone and personalization controls: We’re updating ChatGPT’s 
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: model-support
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]
-- Lag Days: 1038
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Model Support
+
+- Earlier: 2025-11-05 · ChatGPT · [[Changes/ChatGPT/2025-11-05-you-can-now-interrupt-long-running-queries-such-as-deep-research-or-gpt-5-pro-to|Interrupt long-running queries (such as deep research or GPT-5 Pro) to refine what…]]
+- Later: 2025-11-12 · ChatGPT · [[Changes/ChatGPT/2025-11-12-we-re-updating-gpt-5-to-gpt-5-1-instant-and-gpt-5-1-thinking-making-answers-both-d702c4|We’re updating GPT-5 to GPT-5.1 Instant and GPT-5.1 Thinking, making answers both…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We made more improvements to the ChatGPT model!]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-11-12-d3a253&body=Card%3A%20Changes%2FChatGPT%2F2025-11-12-we-re-updating-chatgpt-s-tone-controls-so-it-s-easier-to-make-responses-sound-th-d3a253.md%0ACard%20ID%3A%20chatgpt-2025-11-12-d3a253%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

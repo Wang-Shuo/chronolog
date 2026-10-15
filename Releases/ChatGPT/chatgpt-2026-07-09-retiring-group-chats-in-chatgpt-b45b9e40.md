@@ -1,10 +1,13 @@
 ---
 changes_count: 2
 date: '2026-07-09'
-machine_hash: 3c628080e7e991fd462daf84ce024b2c71d8f2132e9ad7043ced9d8760c2f502
+description: 'ChatGPT release Retiring group chats in ChatGPT on 2026-07-09: 2 tracked
+  changes across Collaboration, Mobile and Desktop'
+machine_hash: bef80763025ea13f61d0ea4d1813bceac250215d91705122ef669b8dcc6c9a78
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 2
   date: '2026-07-09'
   product: chatgpt
   product_name: ChatGPT
@@ -23,23 +26,25 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Retiring group chats in ChatGPT
+title: ChatGPT · Retiring group chats in ChatGPT
 version: Retiring group chats in ChatGPT
 ---
 
-# ChatGPT Retiring group chats in ChatGPT
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Retiring group chats in ChatGPT
+
+**ChatGPT** · 2026-07-09 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Beginning July 9, users on web, iOS, and Android will no longer be able to create new group chats, turn existing conversations into group chats, or join a group chat through an invite link.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 2
+Tracked 2 of 2 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- collaboration: [[Changes/ChatGPT/2026-07-09-existing-group-chats-will-remain-available-and-can-continue-to-be-used-for-now-w|Existing group chats will remain available and can continue to be used for now]]
-- mobile-desktop: [[Changes/ChatGPT/2026-07-09-beginning-july-9-users-on-web-ios-and-android-will-no-longer-be-able-to-create-n|Beginning July 9, users on web, iOS, and Android will no longer be able to create…]]
+- [[Changes/ChatGPT/2026-07-09-existing-group-chats-will-remain-available-and-can-continue-to-be-used-for-now-w|Existing group chats will remain available and can continue to be used for now]] · Collaboration
+- [[Changes/ChatGPT/2026-07-09-beginning-july-9-users-on-web-ios-and-android-will-no-longer-be-able-to-create-n|Beginning July 9, users on web, iOS, and Android will no longer be able to create…]] · Mobile and Desktop
 <!-- chronolog:end -->

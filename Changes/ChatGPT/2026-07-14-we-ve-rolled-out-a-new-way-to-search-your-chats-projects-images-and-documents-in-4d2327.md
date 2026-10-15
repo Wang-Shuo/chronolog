@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2026-07-14-4d2327
 date: '2026-07-14'
+description: 'ChatGPT · 2026-07-14 · Mobile and Desktop: We’ve rolled out a new way
+  to search your chats, projects, images, and documents in ChatGPT on web, iOS, and…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support 🥳]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1218
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 2d8b6d92e5fb4d9dcc65b796896d1b9da8a8fbbff45fb1190a6c858295595080
+machine_hash: fcda286ba35727028260907e7319d5273c79840b0f0c22473055a79a4de4ad15
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -66,9 +69,12 @@ record:
   title: We’ve rolled out a new way to search your chats, projects, images, and documents…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-09-to-create-a-site-start-in-chatgpt-work-on-the-web-or-in-work-or-codex-in-the-cha|chatgpt-2026-07-09-55908c]]'
-- '[[Changes/ChatGPT/2026-07-09-the-new-chatgpt-desktop-app-is-available-globally-for-macos-and-windows-it-combi|chatgpt-2026-07-09-e26c54]]'
-- '[[Changes/ChatGPT/2026-07-09-beginning-july-9-users-on-web-ios-and-android-will-no-longer-be-able-to-create-n|chatgpt-2026-07-09-ed8dc0]]'
+- '[[Changes/ChatGPT/2026-07-09-to-create-a-site-start-in-chatgpt-work-on-the-web-or-in-work-or-codex-in-the-cha|To
+  create a Site, start in ChatGPT Work on the web or in Work or Codex…]]'
+- '[[Changes/ChatGPT/2026-07-09-the-new-chatgpt-desktop-app-is-available-globally-for-macos-and-windows-it-combi|The
+  new ChatGPT desktop app is available globally for macOS and Windows]]'
+- '[[Changes/ChatGPT/2026-07-09-beginning-july-9-users-on-web-ios-and-android-will-no-longer-be-able-to-create-n|Beginning
+  July 9, users on web, iOS, and Android will no longer be able to create…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-14-search-across-chats-projects-and-files-is-now-supercharged-90a28571|chatgpt-2026-07-14-search-across-chats-projects-and-files-is-now-supercharged-90a28571]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -76,10 +82,10 @@ title: We’ve rolled out a new way to search your chats, projects, images, and 
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # We’ve rolled out a new way to search your chats, projects, images, and documents…
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Search across chats, projects, and files is now supercharged.: We’ve rolled out a new way to search your chats, projects, images, and documents in ChatGPT on web, iOS, and Android. You can quickly find past chats, projects, images, and documents from one place.Start searching from the ChatGPT sidebar to find what you need across everything, or use filters to narrow results by content type. Select a result to open the chat, project, or file directly in ChatGPT.Available on all ChatGPT plans globally.
+**ChatGPT** · 2026-07-14 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-07-14-search-across-chats-projects-and-files-is-now-supercharged-90a28571|Search across chats, projects, and files is now supercharged.]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -88,19 +94,23 @@ ChatGPT — Search across chats, projects, and files is now supercharged.: We’
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: mobile-desktop
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]
-- Lag Days: 1218
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Mobile and Desktop
+
+- Earlier: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-beginning-july-9-users-on-web-ios-and-android-will-no-longer-be-able-to-create-n|Beginning July 9, users on web, iOS, and Android will no longer be able to create…]]
+- Later: 2026-07-16 · ChatGPT · [[Changes/ChatGPT/2026-07-16-a-clearer-desktop-layout-a-global-switcher-lets-you-choose-between-chatgpt-and-c|A clearer desktop layout: A global switcher lets you choose between ChatGPT and Codex]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-07-14-4d2327&body=Card%3A%20Changes%2FChatGPT%2F2026-07-14-we-ve-rolled-out-a-new-way-to-search-your-chats-projects-images-and-documents-in-4d2327.md%0ACard%20ID%3A%20chatgpt-2026-07-14-4d2327%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

@@ -1,10 +1,13 @@
 ---
 changes_count: 0
 date: '2023-08-22'
-machine_hash: 3cfc36b22ab48df4747fbb22afed763f6a9c95cb5b2a886c11bf0d7e1e991fb0
+description: 'Cursor release Codebase indexing controls on 2023-08-22: no tracked
+  changes'
+machine_hash: dcdd187c53deebd6111789a902575915c8d67ea6ec5bbf4c4414f247250465de
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2023-08-22'
   product: cursor
   product_name: Cursor
@@ -22,19 +25,21 @@ source_url: https://cursor.com/changelog/0-8-3
 tags:
 - release
 - cursor
-title: Cursor — Codebase indexing controls
+title: Cursor · Codebase indexing controls
 version: 0.8.3
 ---
 
-# Cursor Codebase indexing controls
+<!-- chronolog:begin region="header" -->
+# Cursor · Codebase indexing controls
+
+**Cursor** · 2023-08-22 · [Official release notes](https://cursor.com/changelog/0-8-3)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Fixes a bug were codebase indexing controls where inadvertently removed.
 
-[Official release notes](https://cursor.com/changelog/0-8-3)
-
-Tracked cards: 0
+Tracked 0 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

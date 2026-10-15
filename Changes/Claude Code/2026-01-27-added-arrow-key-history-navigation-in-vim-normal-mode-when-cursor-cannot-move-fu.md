@@ -1,8 +1,11 @@
 ---
 card_id: claude-code-2026-01-27-c77ded
 date: '2026-01-27'
+description: 'Claude Code · 2026-01-27 · Interface Experience: Added arrow key history
+  navigation in vim normal mode when cursor cannot move further'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
+    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1114
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4bd22e153c7bd29cf7a56e65623e25564c3007d5bac8d68b3f5e3626a53beff6
+machine_hash: ea4adfbee72f80322bec08b8ebf9e8b2ef3c69a20c78aff35ac1a3240e725507
 product: claude-code
 product_name: Claude Code
 record:
@@ -38,9 +41,12 @@ record:
     move further
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-14-added-showturnduration-setting-to-hide-turn-duration-messages-e-g-cooked-for-1m|claude-code-2026-01-14-a1d079]]'
-- '[[Changes/Claude Code/2026-01-20-improved-backspace-to-delete-pasted-text-as-a-single-token-instead-of-one-charac|claude-code-2026-01-20-f21dc2]]'
-- '[[Changes/Claude Code/2026-01-27-added-pr-review-status-indicator-to-the-prompt-footer-showing-the-current-branch|claude-code-2026-01-27-459dd4]]'
+- '[[Changes/Claude Code/2026-01-14-added-showturnduration-setting-to-hide-turn-duration-messages-e-g-cooked-for-1m|Added
+  showTurnDuration setting to hide turn duration messages (e.g., "Cooked for 1m 6s")]]'
+- '[[Changes/Claude Code/2026-01-20-improved-backspace-to-delete-pasted-text-as-a-single-token-instead-of-one-charac|Improved
+  backspace to delete pasted text as a single token instead of one character…]]'
+- '[[Changes/Claude Code/2026-01-27-added-pr-review-status-indicator-to-the-prompt-footer-showing-the-current-branch|Added
+  PR review status indicator to the prompt footer, showing the current branch''s…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-27-v2-1-20-github-280123443-38431f59|claude-code-2026-01-27-v2-1-20-github-280123443-38431f59]]'
 source_type: github_releases
 theme: interface-experience
@@ -49,10 +55,10 @@ title: Added arrow key history navigation in vim normal mode when cursor cannot 
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Added arrow key history navigation in vim normal mode when cursor cannot move further
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.20: Added arrow key history navigation in vim normal mode when cursor cannot move further
+**Claude Code** · 2026-01-27 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.20) · from [[Releases/Claude Code/claude-code-2026-01-27-v2-1-20-github-280123443-38431f59|v2.1.20]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -61,19 +67,28 @@ Claude Code — v2.1.20: Added arrow key history navigation in vim normal mode w
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.20
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-01-27-added-ability-to-delete-tasks-via-the-taskupdate-tool|Added ability to delete tasks via the TaskUpdate tool]] · Agent Mode
+- [[Changes/Claude Code/2026-01-27-added-external-editor-shortcut-ctrl-g-to-the-help-menu-for-better-discoverabilit|Added external editor shortcut (Ctrl+G) to the help menu for better discoverability]] · Editor Experience
+- [[Changes/Claude Code/2026-01-27-added-pr-review-status-indicator-to-the-prompt-footer-showing-the-current-branch|Added PR review status indicator to the prompt footer, showing the current branch's…]] · Interface Experience
+- [[Changes/Claude Code/2026-01-27-added-support-for-loading-claude-md-files-from-additional-directories-specified|Added support for loading CLAUDE.md files from additional directories specified…]] · Developer Workflow
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: interface-experience
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]
-- Lag Days: 1114
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Interface Experience
+
+- Earlier: 2026-01-20 · Claude Code · [[Changes/Claude Code/2026-01-20-improved-backspace-to-delete-pasted-text-as-a-single-token-instead-of-one-charac|Improved backspace to delete pasted text as a single token instead of one character…]]
+- Later: 2026-01-28 · Claude Code · [[Changes/Claude Code/2026-01-28-improved-read-search-progress-indicators-to-show-reading-while-in-progress-and-r|Improved read/search progress indicators to show "Reading…" while in progress…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-01-27-c77ded&body=Card%3A%20Changes%2FClaude%20Code%2F2026-01-27-added-arrow-key-history-navigation-in-vim-normal-mode-when-cursor-cannot-move-fu.md%0ACard%20ID%3A%20claude-code-2026-01-27-c77ded%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.20%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

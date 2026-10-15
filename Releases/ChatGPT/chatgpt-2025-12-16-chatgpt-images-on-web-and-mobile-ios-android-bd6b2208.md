@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2025-12-16'
-machine_hash: 8ad5f6ed413d7d703193ed0556fdea26926f46237726852a43a2515e769b7110
+description: 'ChatGPT release ChatGPT Images on Web and Mobile (iOS & Android) on
+  2025-12-16: 1 tracked change across Image Generation'
+machine_hash: fca6ce661351d59bd250f558a7e5646a39a5490e0f560da9dac5842af4d3654c
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 1
   date: '2025-12-16'
   product: chatgpt
   product_name: ChatGPT
@@ -25,22 +28,24 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — ChatGPT Images on Web and Mobile (iOS & Android)
+title: ChatGPT Images on Web and Mobile (iOS & Android)
 version: ChatGPT Images on Web and Mobile (iOS & Android)
 ---
 
-# ChatGPT ChatGPT Images on Web and Mobile (iOS & Android)
+<!-- chronolog:begin region="header" -->
+# ChatGPT Images on Web and Mobile (iOS & Android)
+
+**ChatGPT** · 2025-12-16 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 We’ve introduced a new and improved version of ChatGPT Images, powered by our best image generation model yet. With ChatGPT Images, precise instruction following and editing makes AI image creation not just more fun, but meaningfully more useful—from everyday edits to creative transformations.All images you create with…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- image-generation: [[Changes/ChatGPT/2025-12-16-we-ve-introduced-a-new-and-improved-version-of-chatgpt-images-powered-by-our-bes-a63d5c|We’ve introduced a new and improved version of ChatGPT Images, powered by our best…]]
+- [[Changes/ChatGPT/2025-12-16-we-ve-introduced-a-new-and-improved-version-of-chatgpt-images-powered-by-our-bes-a63d5c|We’ve introduced a new and improved version of ChatGPT Images, powered by our best…]] · Image Generation
 <!-- chronolog:end -->

@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2025-09-29-259524
 date: '2025-09-29'
+description: 'ChatGPT · 2025-09-29 · Image Generation: Remove image generation, so
+  ChatGPT won’t have the ability to create or edit images.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|chatgpt-2024-01-10-71db32]]'
+  first_in_tracked: '[[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|The
+    store features a diverse range of GPTs developed by our partners and the community]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 628
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: a1e6f8e51cdcaeaab8620633a5d232310e5fbb4ff139b0d8359b00c60422fa31
+machine_hash: 36a56a5adfa00265c9767644c751a423b0184f6e0ca768e7a71112e18ed830f9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,9 +41,12 @@ record:
     images
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-08-08-we-re-rolling-out-a-small-update-to-image-generation-for-chatgpt-free-tier-users|chatgpt-2025-08-08-76f37a]]'
-- '[[Changes/ChatGPT/2025-08-18-more-messages-larger-file-uploads-and-expanded-image-generation|chatgpt-2025-08-18-d19989]]'
-- '[[Changes/ChatGPT/2025-09-22-more-messages-larger-file-uploads-and-expanded-image-generation|chatgpt-2025-09-22-a782f6]]'
+- '[[Changes/ChatGPT/2025-08-08-we-re-rolling-out-a-small-update-to-image-generation-for-chatgpt-free-tier-users|ChatGPT
+  rolls out a small update to image generation for ChatGPT Free tier users…]]'
+- '[[Changes/ChatGPT/2025-08-18-more-messages-larger-file-uploads-and-expanded-image-generation|More
+  messages, larger file uploads, and expanded image generation]]'
+- '[[Changes/ChatGPT/2025-09-22-more-messages-larger-file-uploads-and-expanded-image-generation|More
+  messages, larger file uploads, and expanded image generation]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-29-parental-controls-8b95b69a|chatgpt-2025-09-29-parental-controls-8b95b69a]]'
 source_type: chatgpt_changelog
 theme: image-generation
@@ -49,10 +55,10 @@ title: Remove image generation, so ChatGPT won’t have the ability to create or
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Remove image generation, so ChatGPT won’t have the ability to create or edit images
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Parental Controls: Remove image generation, so ChatGPT won’t have the ability to create or edit images.
+**ChatGPT** · 2025-09-29 · [[Themes/image-generation|Image Generation]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-09-29-parental-controls-8b95b69a|Parental Controls]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -61,19 +67,27 @@ ChatGPT — Parental Controls: Remove image generation, so ChatGPT won’t have 
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2025-09-29-we-re-rolling-out-parental-controls-globally-in-chatgpt-to-help-families-guide-h-86eaab|ChatGPT rolls out parental controls globally to help families guide how ChatGPT…]] · Safety and Privacy
+- [[Changes/ChatGPT/2025-09-29-turn-off-voice-mode-to-remove-the-option-to-use-voice-mode-in-chatgpt|Turn off voice mode, to remove the option to use voice mode in ChatGPT]] · Voice and Audio
+- [[Changes/ChatGPT/2025-09-29-turn-off-memory-so-chatgpt-won-t-save-and-use-memories-when-responding|Turn off memory, so ChatGPT won’t save and use memories when responding]] · Memory and Personalization
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: image-generation
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|chatgpt-2024-01-10-71db32]]
-- Lag Days: 628
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Image Generation
+
+- Earlier: 2025-09-22 · ChatGPT · [[Changes/ChatGPT/2025-09-22-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]]
+- Later: 2025-10-08 · ChatGPT · [[Changes/ChatGPT/2025-10-08-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2024-01-10 · ChatGPT · [[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|The store features a diverse range of GPTs developed by our partners and the community]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-09-29-259524&body=Card%3A%20Changes%2FChatGPT%2F2025-09-29-remove-image-generation-so-chatgpt-won-t-have-the-ability-to-create-or-edit-imag.md%0ACard%20ID%3A%20chatgpt-2025-09-29-259524%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2026-05-13-39dfaf
 date: '2026-05-13'
+description: 'Cursor · 2026-05-13 · Interface Experience: Full screen maximizes the
+  right panel so you can focus on a single tab.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
+    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1220
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7079594abc9db17534f907244ec2ef183722967431cec23de90fe0c3224db6f8
+machine_hash: 709d1045850788c6cddf2ae838dddcc70147c8c1a26e4582034c5423b17fd93f
 product: cursor
 product_name: Cursor
 record:
@@ -46,9 +49,13 @@ record:
   title: Full screen maximizes the right panel so you can focus on a single tab
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-07-improved-focus-mode-behavior|claude-code-2026-05-07-b0a67e]]'
-- '[[Changes/Cursor/2026-05-07-the-changes-tab-makes-it-easier-to-navigate-larger-prs-with-a-file-tree-and-chan|cursor-2026-05-07-9cdfdf]]'
-- '[[Changes/Claude Code/2026-05-11-added-transcript-view-navigation-for-keyboard-shortcuts-to-jump-between-user-pro|claude-code-2026-05-11-f9ade4]]'
+- '[[Changes/Claude Code/2026-05-07-improved-focus-mode-behavior|Improved focus mode
+  behavior]]'
+- '[[Changes/Cursor/2026-05-07-the-changes-tab-makes-it-easier-to-navigate-larger-prs-with-a-file-tree-and-chan|The
+  Changes tab makes it easier to navigate larger PRs with a file tree and changes
+  picker]]'
+- '[[Changes/Claude Code/2026-05-11-added-transcript-view-navigation-for-keyboard-shortcuts-to-jump-between-user-pro|Added
+  transcript view navigation]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-13-3-4-https-cursor-com-changelog-3-4-7fe50a9d|cursor-2026-05-13-3-4-https-cursor-com-changelog-3-4-7fe50a9d]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -56,10 +63,10 @@ title: Full screen maximizes the right panel so you can focus on a single tab
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Full screen maximizes the right panel so you can focus on a single tab
 
-<!-- chronolog:begin region="description" -->
-Cursor — Full-screen Tabs and Compact Chats: Full screen maximizes the right panel so you can focus on a single tab.
+**Cursor** · 2026-05-13 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://cursor.com/changelog/3-4) · from [[Releases/Cursor/cursor-2026-05-13-3-4-https-cursor-com-changelog-3-4-7fe50a9d|Full-screen Tabs and Compact Chats]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -68,19 +75,28 @@ Cursor — Full-screen Tabs and Compact Chats: Full screen maximizes the right p
 > Source: https://cursor.com/changelog/3-4
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2026-05-13-compact-chats-give-you-a-tighter-view-of-your-agent-conversations-so-you-can-rea|Compact chats give you a tighter view of your agent conversations so you can read…]] · Context Window
+- [[Changes/Cursor/2026-05-13-files-changes-canvases-prs-browsers-and-terminals-can-expand-to-fill-the-entire|Files, changes, canvases, PRs, browsers, and terminals can expand to fill the entire…]] · Agent Mode
+- [[Changes/Cursor/2026-05-13-this-release-introduces-quality-of-life-improvements-to-the-agents-window|Cursor introduces quality-of-life improvements to the Agents Window]] · Agent Mode
+- [[Changes/Cursor/2026-05-13-enter-and-exit-full-screen-by-clicking-on-the-expand-contract-button-in-the-pane|Enter and exit full screen by clicking on the expand/contract button in the panel…]] · Interface Experience
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: interface-experience
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]
-- Lag Days: 1220
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Interface Experience
+
+- Earlier: 2026-05-11 · Claude Code · [[Changes/Claude Code/2026-05-11-added-transcript-view-navigation-for-keyboard-shortcuts-to-jump-between-user-pro|Added transcript view navigation]]
+- Later: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-status-line-json-input-now-includes-github-repo-and-pr-information-when-detected|Status line JSON input now includes GitHub repo and PR information when detected]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2026-05-13-39dfaf&body=Card%3A%20Changes%2FCursor%2F2026-05-13-full-screen-maximizes-the-right-panel-so-you-can-focus-on-a-single-tab.md%0ACard%20ID%3A%20cursor-2026-05-13-39dfaf%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F3-4%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

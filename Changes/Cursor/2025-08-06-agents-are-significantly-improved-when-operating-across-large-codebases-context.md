@@ -1,8 +1,12 @@
 ---
 card_id: cursor-2025-08-06-b4a9ac
 date: '2025-08-06'
+description: 'Cursor · 2025-08-06 · Context Window: Agents are significantly improved
+  when operating across large codebases. Context selection is more relevant, token
+  use is…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|cursor-2023-05-04-00d3b7]]'
+  first_in_tracked: '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended
+    prompt length for project generation]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 825
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0854ac5f693b2d237669580f1d4e04cd1e9cd39918ffd663caa9fec2f3a1c9ea
+machine_hash: c10c4fcee578f1821f5ce80873b2dd8f3fdb0c509a107e676c1cddcd64ffd8ba
 product: cursor
 product_name: Cursor
 record:
@@ -49,9 +53,12 @@ record:
   title: Agents are significantly improved when operating across large codebases
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-04-15-you-can-now-generate-rules-directly-from-a-conversation-using-the-generate-curso|cursor-2025-04-15-c77526]]'
-- '[[Changes/Cursor/2025-05-15-premium-tool-calls-and-long-context-mode-are-removed-to-keep-it-simple|cursor-2025-05-15-d5b1cd]]'
-- '[[Changes/Cursor/2025-07-29-at-the-end-of-a-conversation-you-can-now-see-how-much-of-the-context-window-is-u|cursor-2025-07-29-6bb48b]]'
+- '[[Changes/Cursor/2025-04-15-you-can-now-generate-rules-directly-from-a-conversation-using-the-generate-curso|Generate
+  rules directly from a conversation using the /Generate Cursor Rules command]]'
+- '[[Changes/Cursor/2025-05-15-premium-tool-calls-and-long-context-mode-are-removed-to-keep-it-simple|Premium
+  tool calls and long context mode are removed to keep it simple]]'
+- '[[Changes/Cursor/2025-07-29-at-the-end-of-a-conversation-you-can-now-see-how-much-of-the-context-window-is-u|At
+  the end of a conversation you can now see how much of the context window is used]]'
 source_release: '[[Releases/Cursor/cursor-2025-08-06-1-4-https-cursor-com-changelog-1-4-5a085889|cursor-2025-08-06-1-4-https-cursor-com-changelog-1-4-5a085889]]'
 source_type: cursor_changelog
 theme: context-window
@@ -59,10 +66,10 @@ title: Agents are significantly improved when operating across large codebases
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Agents are significantly improved when operating across large codebases
 
-<!-- chronolog:begin region="description" -->
-Cursor — Improved Agent tools, steerability, and usage visibility: Agents are significantly improved when operating across large codebases. Context selection is more relevant, token use is more efficient, and edit quality is higher:
+**Cursor** · 2025-08-06 · [[Themes/context-window|Context Window]] · [Official source](https://cursor.com/changelog/1-4) · from [[Releases/Cursor/cursor-2025-08-06-1-4-https-cursor-com-changelog-1-4-5a085889|Improved Agent tools, steerability, and usage visibility]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -71,19 +78,26 @@ Cursor — Improved Agent tools, steerability, and usage visibility: Agents are 
 > Source: https://cursor.com/changelog/1-4
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2025-08-06-read-file-now-reads-full-files-when-appropriate-and-the-2mb-cap-is-removed|Read file: Now reads full files when appropriate and the 2MB cap is removed]] · Files and Data
+- [[Changes/Cursor/2025-08-06-sending-messages-while-cursor-is-working-now-does-a-better-job-of-steering-the-a|Sending messages while Cursor is working now does a better job of steering the agent]] · Agent Mode
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: context-window
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|cursor-2023-05-04-00d3b7]]
-- Lag Days: 825
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Context Window
+
+- Earlier: 2025-07-29 · Cursor · [[Changes/Cursor/2025-07-29-at-the-end-of-a-conversation-you-can-now-see-how-much-of-the-context-window-is-u|At the end of a conversation you can now see how much of the context window is used]]
+- Later: 2025-09-12 · Cursor · [[Changes/Cursor/2025-09-12-cursor-automatically-summarizes-long-conversation-for-you-when-reaching-the-cont|Cursor automatically summarizes long conversation for you when reaching the context…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended prompt length for project generation]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2025-08-06-b4a9ac&body=Card%3A%20Changes%2FCursor%2F2025-08-06-agents-are-significantly-improved-when-operating-across-large-codebases-context.md%0ACard%20ID%3A%20cursor-2025-08-06-b4a9ac%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F1-4%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

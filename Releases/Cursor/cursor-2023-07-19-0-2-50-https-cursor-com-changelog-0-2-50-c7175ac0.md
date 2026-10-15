@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2023-07-19'
-machine_hash: e4fe46218de17ce709c87d90aa33ffd6e191f1105ebb4779cc3d9496ddaeefc6
+description: 'Cursor release Hotfixes on 2023-07-19: 1 tracked change across Context
+  Window'
+machine_hash: 98546c28369b235c43a2fb82e134139bec13f0ec53a02382263178d6cfb2061c
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 2
   date: '2023-07-19'
   product: cursor
   product_name: Cursor
@@ -21,22 +24,24 @@ source_url: https://cursor.com/changelog/0-2-50
 tags:
 - release
 - cursor
-title: Cursor — Hotfixes
+title: Cursor · Hotfixes
 version: 0.2.50
 ---
 
-# Cursor Hotfixes
+<!-- chronolog:begin region="header" -->
+# Cursor · Hotfixes
+
+**Cursor** · 2023-07-19 · [Official release notes](https://cursor.com/changelog/0-2-50)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Cmd-L now properly focuses the chat again
 
-[Official release notes](https://cursor.com/changelog/0-2-50)
-
-Tracked cards: 1
+Tracked 1 of 2 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- context-window: [[Changes/Cursor/2023-07-19-advanced-context-controls-only-show-up-if-you-have-indexed-your-codebase|Advanced context controls only show up if you have indexed your codebase]]
+- [[Changes/Cursor/2023-07-19-advanced-context-controls-only-show-up-if-you-have-indexed-your-codebase|Advanced context controls only show up if you have indexed your codebase]] · Context Window
 <!-- chronolog:end -->

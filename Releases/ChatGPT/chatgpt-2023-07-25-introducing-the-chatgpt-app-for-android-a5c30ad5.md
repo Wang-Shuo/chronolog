@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2023-07-25'
-machine_hash: 8a3c6bb9dabf9a920fb0c77045626deac7a55882afb96012e5b536a9e1208818
+description: 'ChatGPT release Introducing the ChatGPT app for Android on 2023-07-25:
+  1 tracked change across Mobile and Desktop'
+machine_hash: 0a6d04c2138733baaec5853203b6c1c0aa6ef6a5fabbe9db535fe5032eddd00f
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 1
   date: '2023-07-25'
   product: chatgpt
   product_name: ChatGPT
@@ -24,22 +27,24 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Introducing the ChatGPT app for Android
+title: ChatGPT · Introducing the ChatGPT app for Android
 version: Introducing the ChatGPT app for Android
 ---
 
-# ChatGPT Introducing the ChatGPT app for Android
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Introducing the ChatGPT app for Android
+
+**ChatGPT** · 2023-07-25 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 ChatGPT for Android is now available for download in the United States, India, Bangladesh, and Brazil from the Google Play Store.We plan to expand the rollout to additional countries over the next week. You can track the Android rollout here.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- mobile-desktop: [[Changes/ChatGPT/2023-07-25-chatgpt-for-android-is-now-available-for-download-in-the-united-states-india-ban-6b21e9|ChatGPT for Android is now available for download in the United States, India…]]
+- [[Changes/ChatGPT/2023-07-25-chatgpt-for-android-is-now-available-for-download-in-the-united-states-india-ban-6b21e9|ChatGPT for Android is now available for download in the United States, India…]] · Mobile and Desktop
 <!-- chronolog:end -->

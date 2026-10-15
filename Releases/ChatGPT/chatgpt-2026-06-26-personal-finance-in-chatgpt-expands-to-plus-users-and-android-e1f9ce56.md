@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2026-06-26'
-machine_hash: 1a03f432f5a36465f9b282ead69c8106c7049386893b25f3b758c62b711b6744
+description: 'ChatGPT release Personal finance in ChatGPT expands to Plus users and
+  Android on 2026-06-26: 1 tracked change across Files and Data'
+machine_hash: c5790471a7e4e8740aae9450ea2127f47b9bb31cd9c3ae5a76ee148bb9abcbeb
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 1
   date: '2026-06-26'
   product: chatgpt
   product_name: ChatGPT
@@ -25,22 +28,24 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Personal finance in ChatGPT expands to Plus users and Android
+title: ChatGPT · Personal finance in ChatGPT expands to Plus users and Android
 version: Personal finance in ChatGPT expands to Plus users and Android
 ---
 
-# ChatGPT Personal finance in ChatGPT expands to Plus users and Android
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Personal finance in ChatGPT expands to Plus users and Android
+
+**ChatGPT** · 2026-06-26 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 The personal finance experience in ChatGPT is rolling out to Plus users in the U.S. on web and iOS. It is also now available on Android for Pro and Plus users in the U.S.Eligible users can securely connect supported financial accounts, view a dashboard of their finances, and ask ChatGPT questions grounded in their…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- file-data: [[Changes/ChatGPT/2026-06-26-the-personal-finance-experience-in-chatgpt-is-rolling-out-to-plus-users-in-the-u|The personal finance experience in ChatGPT is rolling out to Plus users…]]
+- [[Changes/ChatGPT/2026-06-26-the-personal-finance-experience-in-chatgpt-is-rolling-out-to-plus-users-in-the-u|The personal finance experience in ChatGPT is rolling out to Plus users…]] · Files and Data
 <!-- chronolog:end -->

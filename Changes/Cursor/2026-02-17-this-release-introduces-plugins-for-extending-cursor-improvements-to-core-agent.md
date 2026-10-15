@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2026-02-17-cb83e0
 date: '2026-02-17'
+description: 'Cursor · 2026-02-17 · Agent Mode: This release introduces plugins for
+  extending Cursor, improvements to core agent capabilities like subagents, and…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
+    to the first nightly release!]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 957
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 856ea84de969d7445e4cdf07c47a2f138fc1cb40db6abacd7bcd0a083d459281
+machine_hash: f28d1b5622da32c995136e2c1313155054a77ed1ea710f4f1b05367aae71cb16
 product: cursor
 product_name: Cursor
 record:
@@ -51,9 +54,12 @@ record:
   title: Cursor introduces plugins for extending Cursor, improvements to core agent…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-12-cursor-s-long-running-agent-is-now-available-at-cursor-com-agents-for-ultra-team|cursor-2026-02-12-b5e750]]'
-- '[[Changes/Cursor/2026-02-12-in-research-preview-and-internal-testing-long-running-agents-completed-work-that|cursor-2026-02-12-cd9dcf]]'
-- '[[Changes/Cursor/2026-02-12-cursor-can-now-work-autonomously-over-longer-horizons-to-complete-larger-more-co|cursor-2026-02-12-def8fc]]'
+- '[[Changes/Cursor/2026-02-12-cursor-s-long-running-agent-is-now-available-at-cursor-com-agents-for-ultra-team|Cursor''s
+  long-running agent is now available at cursor.com/agents for Ultra, Teams…]]'
+- '[[Changes/Cursor/2026-02-12-in-research-preview-and-internal-testing-long-running-agents-completed-work-that|In
+  research preview and internal testing, long-running agents completed work…]]'
+- '[[Changes/Cursor/2026-02-12-cursor-can-now-work-autonomously-over-longer-horizons-to-complete-larger-more-co|Cursor
+  can now work autonomously over longer horizons to complete larger, more…]]'
 source_release: '[[Releases/Cursor/cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320|cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -61,10 +67,10 @@ title: Cursor introduces plugins for extending Cursor, improvements to core agen
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Cursor introduces plugins for extending Cursor, improvements to core agent…
 
-<!-- chronolog:begin region="description" -->
-Cursor — Plugins, Sandbox Access Controls, and Async Subagents: This release introduces plugins for extending Cursor, improvements to core agent capabilities like subagents, and fine-grained network controls for sandboxed commands.
+**Cursor** · 2026-02-17 · [[Themes/agent-mode|Agent Mode]] · [Official source](https://cursor.com/changelog/2-5) · from [[Releases/Cursor/cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320|Plugins, Sandbox Access Controls, and Async Subagents]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -73,19 +79,28 @@ Cursor — Plugins, Sandbox Access Controls, and Async Subagents: This release i
 > Source: https://cursor.com/changelog/2-5
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2026-02-17-plugins-package-skills-subagents-mcp-servers-hooks-and-rules-into-a-single-insta|Plugins package skills, subagents, MCP servers, hooks, and rules, into a single install]] · Apps and Integrations
+- [[Changes/Cursor/2026-02-17-browse-plugins-at-cursor-com-marketplace-or-install-directly-in-the-editor-with|Browse plugins at cursor.com/marketplace or install directly in the editor…]] · Apps and Integrations
+- [[Changes/Cursor/2026-02-17-our-initial-partners-include-amplitude-aws-figma-linear-stripe-and-more-these-pl|Our initial partners include Amplitude, AWS, Figma, Linear, Stripe, and more]] · Apps and Integrations
+- [[Changes/Cursor/2026-02-17-the-sandbox-now-supports-granular-network-access-controls-as-well-as-controls-fo|The sandbox now supports granular network access controls, as well as controls…]] · Safety and Privacy
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: agent-mode
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]
-- Lag Days: 957
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Agent Mode
+
+- Earlier: 2026-02-12 · Cursor · [[Changes/Cursor/2026-02-12-cursor-can-now-work-autonomously-over-longer-horizons-to-complete-larger-more-co|Cursor can now work autonomously over longer horizons to complete larger, more…]]
+- Later: 2026-02-18 · Claude Code · [[Changes/Claude Code/2026-02-18-improved-vs-code-plan-preview-auto-updates-as-claude-iterates-enables-commenting|Improved VS Code plan preview]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2026-02-17-cb83e0&body=Card%3A%20Changes%2FCursor%2F2026-02-17-this-release-introduces-plugins-for-extending-cursor-improvements-to-core-agent.md%0ACard%20ID%3A%20cursor-2026-02-17-cb83e0%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F2-5%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

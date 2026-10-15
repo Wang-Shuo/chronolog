@@ -1,7 +1,7 @@
 ---
 created: '2022-12-15'
 date: '2026-10-14'
-machine_hash: 428a346c367c6717191b9b25033a39944cc49a7a70e7a9b2e47a7a66c6693acf
+machine_hash: 180bf7474d5aa561452c4e1b798a10d49c9779dac3180c7b05215df5fbf224e8
 modified: '2026-10-14'
 publication: active
 tags:
@@ -46,8 +46,8 @@ Coverage limits: GitHub Releases starts at v2.0.73 on 2025-12-19. Official CHANG
 
 ## Start exploring
 <!-- chronolog:begin region="featured" -->
-- [[Themes/agent-mode|agent-mode]] — From assisted edits to delegated work
-- [[Themes/pricing-model|pricing-model]] — Plans, allowances, and usage charging
+- [[Themes/agent-mode|Agent Mode]] — From assisted edits to delegated work
+- [[Themes/pricing-model|Pricing Model]] — Plans, allowances, and usage charging
 <!-- chronolog:end -->
 
 ## Overview
@@ -68,29 +68,29 @@ Pending theme review: 149
 
 ## Themes
 <!-- chronolog:begin region="themes" -->
-- [[Themes/accessibility-localization|accessibility-localization]]
-- [[Themes/account-access|account-access]]
-- [[Themes/agent-mode|agent-mode]]
-- [[Themes/apps-integrations|apps-integrations]]
-- [[Themes/artifact-creation|artifact-creation]]
-- [[Themes/automation-scheduling|automation-scheduling]]
-- [[Themes/collaboration|collaboration]]
-- [[Themes/context-window|context-window]]
-- [[Themes/developer-workflow|developer-workflow]]
-- [[Themes/editor-experience|editor-experience]]
-- [[Themes/enterprise-admin|enterprise-admin]]
-- [[Themes/file-data|file-data]]
-- [[Themes/image-generation|image-generation]]
-- [[Themes/interface-experience|interface-experience]]
-- [[Themes/learning-tools|learning-tools]]
-- [[Themes/memory|memory]]
-- [[Themes/mobile-desktop|mobile-desktop]]
-- [[Themes/model-support|model-support]]
-- [[Themes/multimodal|multimodal]]
-- [[Themes/pricing-model|pricing-model]]
-- [[Themes/projects-workspaces|projects-workspaces]]
-- [[Themes/reliability-performance|reliability-performance]]
-- [[Themes/safety-privacy|safety-privacy]]
-- [[Themes/search-browsing|search-browsing]]
-- [[Themes/voice|voice]]
+- [[Themes/accessibility-localization|Accessibility and Localization]]
+- [[Themes/account-access|Account and Access]]
+- [[Themes/agent-mode|Agent Mode]]
+- [[Themes/apps-integrations|Apps and Integrations]]
+- [[Themes/artifact-creation|Artifact Creation]]
+- [[Themes/automation-scheduling|Automation and Scheduling]]
+- [[Themes/collaboration|Collaboration]]
+- [[Themes/context-window|Context Window]]
+- [[Themes/developer-workflow|Developer Workflow]]
+- [[Themes/editor-experience|Editor Experience]]
+- [[Themes/enterprise-admin|Enterprise and Administration]]
+- [[Themes/file-data|Files and Data]]
+- [[Themes/image-generation|Image Generation]]
+- [[Themes/interface-experience|Interface Experience]]
+- [[Themes/learning-tools|Learning Tools]]
+- [[Themes/memory|Memory and Personalization]]
+- [[Themes/mobile-desktop|Mobile and Desktop]]
+- [[Themes/model-support|Model Support]]
+- [[Themes/multimodal|Multimodal Input]]
+- [[Themes/pricing-model|Pricing Model]]
+- [[Themes/projects-workspaces|Projects and Workspaces]]
+- [[Themes/reliability-performance|Reliability and Performance]]
+- [[Themes/safety-privacy|Safety and Privacy]]
+- [[Themes/search-browsing|Search and Browsing]]
+- [[Themes/voice|Voice and Audio]]
 <!-- chronolog:end -->

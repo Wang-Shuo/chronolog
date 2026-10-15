@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2023-07-25-7fef5d
 date: '2023-07-25'
+description: 'Cursor · 2023-07-25 · Account and Access: You can now chat with any
+  codebase. No need to have a Github repo / login through Github.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|cursor-2023-03-30-3bf00d]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
+    login]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 117
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 41de57dcd9f9629ecd975e27e096e8c975377a0a9a501849ad17d179a7bd5083
+machine_hash: d4ac561d71f146dbdd4e40ee7248a938847bcdf10ea60916e69f89e43f2ce5f5
 product: cursor
 product_name: Cursor
 record:
@@ -37,9 +40,11 @@ record:
   title: Chat with any codebase
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-03-30-ai-now-requires-login|cursor-2023-03-30-3bf00d]]'
-- '[[Changes/Cursor/2023-06-06-login-via-github-then-add-the-repo-you-wish-to-sync|cursor-2023-06-06-3d3f42]]'
-- '[[Changes/Cursor/2023-06-27-if-you-re-not-logged-in-we-show-the-popup-to-log-in-again|cursor-2023-06-27-2e6d58]]'
+- '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]'
+- '[[Changes/Cursor/2023-06-06-login-via-github-then-add-the-repo-you-wish-to-sync|Login
+  via github, then add the repo you wish to sync!]]'
+- '[[Changes/Cursor/2023-06-27-if-you-re-not-logged-in-we-show-the-popup-to-log-in-again|If
+  you''re not logged in, we show the popup to log in again]]'
 source_release: '[[Releases/Cursor/cursor-2023-07-25-0-4-0-https-cursor-com-changelog-0-4-0-5b417e1b|cursor-2023-07-25-0-4-0-https-cursor-com-changelog-0-4-0-5b417e1b]]'
 source_type: cursor_changelog
 theme: account-access
@@ -47,10 +52,10 @@ title: Chat with any codebase
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Chat with any codebase
 
-<!-- chronolog:begin region="description" -->
-Cursor — "with codebase" for all codebases!: You can now chat with any codebase. No need to have a Github repo / login through Github.
+**Cursor** · 2023-07-25 · [[Themes/account-access|Account and Access]] · [Official source](https://cursor.com/changelog/0-4-0) · from [[Releases/Cursor/cursor-2023-07-25-0-4-0-https-cursor-com-changelog-0-4-0-5b417e1b|"with codebase" for all codebases!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -59,19 +64,23 @@ Cursor — "with codebase" for all codebases!: You can now chat with any codebas
 > Source: https://cursor.com/changelog/0-4-0
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: account-access
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-30-ai-now-requires-login|cursor-2023-03-30-3bf00d]]
-- Lag Days: 117
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Account and Access
+
+- Earlier: 2023-06-27 · Cursor · [[Changes/Cursor/2023-06-27-if-you-re-not-logged-in-we-show-the-popup-to-log-in-again|If you're not logged in, we show the popup to log in again]]
+- Later: 2023-09-01 · Cursor · [[Changes/Cursor/2023-09-01-you-should-now-be-able-to-sign-in-with-github-again|You should now be able to sign in with GitHub again]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2023-07-25-7fef5d&body=Card%3A%20Changes%2FCursor%2F2023-07-25-you-can-now-chat-with-any-codebase-no-need-to-have-a-github-repo-login-through-g.md%0ACard%20ID%3A%20cursor-2023-07-25-7fef5d%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F0-4-0%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

@@ -1,10 +1,13 @@
 ---
 changes_count: 5
 date: '2023-06-27'
-machine_hash: e678f3d8598cc1f4cd96db33fdaf61e82dd2bcf4a7de029109063675e1718e5b
+description: 'Cursor release Hotfixes on 2023-06-27: 5 tracked changes across Developer
+  Workflow, Account and Access, Apps and Integrations, Safety and Privacy'
+machine_hash: 9064a5a42b57015759768316553f71e7722aba2efe29854489ce0ae433f3754b
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 9
   date: '2023-06-27'
   product: cursor
   product_name: Cursor
@@ -21,26 +24,28 @@ source_url: https://cursor.com/changelog/0-2-36
 tags:
 - release
 - cursor
-title: Cursor — Hotfixes
+title: Cursor · Hotfixes
 version: 0.2.36
 ---
 
-# Cursor Hotfixes
+<!-- chronolog:begin region="header" -->
+# Cursor · Hotfixes
+
+**Cursor** · 2023-06-27 · [Official release notes](https://cursor.com/changelog/0-2-36)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Chat works if you don't have a folder open again
 
-[Official release notes](https://cursor.com/changelog/0-2-36)
-
-Tracked cards: 5
+Tracked 5 of 9 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- developer-workflow: [[Changes/Cursor/2023-06-27-you-can-now-use-run-debug-in-cursor-again-the-toolbar-is-back|Use Run & debug in Cursor again (the toolbar is back)]]
-- apps-integrations: [[Changes/Cursor/2023-06-27-cursor-deep-linking-works-now-so-you-should-be-able-to-log-in-to-extensions|cursor:// deep linking works now, so you should be able to log in to extensions]]
-- account-access: [[Changes/Cursor/2023-06-27-if-you-re-not-logged-in-we-show-the-popup-to-log-in-again|If you're not logged in, we show the popup to log in again]]
-- safety-privacy: [[Changes/Cursor/2023-06-27-cursor-is-now-based-on-version-1-79-2-of-vscodium-which-comes-with-security-upda|Cursor is now based on version 1.79.2 of VSCodium, which comes with security updates…]]
-- developer-workflow: [[Changes/Cursor/2023-06-27-early-support-for-slash-commands|Early support for slash commands]]
+- [[Changes/Cursor/2023-06-27-you-can-now-use-run-debug-in-cursor-again-the-toolbar-is-back|Use Run & debug in Cursor again (the toolbar is back)]] · Developer Workflow
+- [[Changes/Cursor/2023-06-27-cursor-deep-linking-works-now-so-you-should-be-able-to-log-in-to-extensions|cursor:// deep linking works now, so you should be able to log in to extensions]] · Apps and Integrations
+- [[Changes/Cursor/2023-06-27-if-you-re-not-logged-in-we-show-the-popup-to-log-in-again|If you're not logged in, we show the popup to log in again]] · Account and Access
+- [[Changes/Cursor/2023-06-27-cursor-is-now-based-on-version-1-79-2-of-vscodium-which-comes-with-security-upda|Cursor is now based on version 1.79.2 of VSCodium, which comes with security updates…]] · Safety and Privacy
+- [[Changes/Cursor/2023-06-27-early-support-for-slash-commands|Early support for slash commands]] · Developer Workflow
 <!-- chronolog:end -->

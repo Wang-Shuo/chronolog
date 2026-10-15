@@ -1,8 +1,12 @@
 ---
 card_id: chatgpt-2023-05-12-2955f7
 date: '2023-05-12'
+description: 'ChatGPT · 2023-05-12 · Context Window: For more information on our rollout
+  process, please check out the article here.In addition to the beta panel, users
+  can…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|cursor-2023-05-04-00d3b7]]'
+  first_in_tracked: '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended
+    prompt length for project generation]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 8
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6948925868a2c0a1c77a57a13e4e3ddd9adec36514d3314905612f1413fd787a
+machine_hash: 04a63252311b70a83a6da21e20f5efa4a24a4e1dd5eb43a9e4dd18bfaada4412
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,8 +48,10 @@ record:
     here
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|cursor-2023-05-04-00d3b7]]'
-- '[[Changes/Cursor/2023-05-04-alpha-feature-alpha-feature-ask-questions-about-your-entire-repo-we-are-experime|cursor-2023-05-04-83ddab]]'
+- '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended
+  prompt length for project generation]]'
+- '[[Changes/Cursor/2023-05-04-alpha-feature-alpha-feature-ask-questions-about-your-entire-repo-we-are-experime|Alpha
+  feature: 🧠 Alpha feature: Ask questions about your entire repo 🛠️]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-05-12-web-browsing-and-plugins-are-now-rolling-out-in-beta-5dbe86e7|chatgpt-2023-05-12-web-browsing-and-plugins-are-now-rolling-out-in-beta-5dbe86e7]]'
 source_type: chatgpt_changelog
 theme: context-window
@@ -53,10 +59,10 @@ title: For more information on our rollout process, please check out the article
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # For more information on our rollout process, please check out the article here
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Web browsing and Plugins are now rolling out in beta: For more information on our rollout process, please check out the article here.In addition to the beta panel, users can now choose to continue generating a message beyond the maximum token limit. Each continuation counts towards the message allowance.
+**ChatGPT** · 2023-05-12 · [[Themes/context-window|Context Window]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-05-12-web-browsing-and-plugins-are-now-rolling-out-in-beta-5dbe86e7|Web browsing and Plugins are now rolling out in beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -65,19 +71,27 @@ ChatGPT — Web browsing and Plugins are now rolling out in beta: For more infor
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2023-05-12-plugins-try-a-new-version-of-chatgpt-that-knows-when-and-how-to-use-third-party|Plugins: Try a new version of ChatGPT that knows when and how to use third-party…]] · Apps and Integrations
+- [[Changes/ChatGPT/2023-05-12-web-browsing-try-a-new-version-of-chatgpt-that-knows-when-and-how-to-browse-the|Web browsing: Try a new version of ChatGPT that knows when and how to browse…]] · Search and Browsing
+- [[Changes/ChatGPT/2023-05-12-in-the-plugins-dropdown-click-plugin-store-to-install-and-enable-new-plugins|In the “Plugins” dropdown, click “Plugin Store” to install and enable new plugins]] · Apps and Integrations
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: context-window
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|cursor-2023-05-04-00d3b7]]
-- Lag Days: 8
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Context Window
+
+- Earlier: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-alpha-feature-alpha-feature-ask-questions-about-your-entire-repo-we-are-experime|Alpha feature: 🧠 Alpha feature: Ask questions about your entire repo 🛠️]]
+- Later: 2023-05-17 · Cursor · [[Changes/Cursor/2023-05-17-press-cmd-shift-l-and-the-model-will-add-the-terminal-context-to-chat|Press Cmd+Shift+L, and the model will add the terminal context to chat]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended prompt length for project generation]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-05-12-2955f7&body=Card%3A%20Changes%2FChatGPT%2F2023-05-12-for-more-information-on-our-rollout-process-please-check-out-the-article-here-in.md%0ACard%20ID%3A%20chatgpt-2023-05-12-2955f7%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

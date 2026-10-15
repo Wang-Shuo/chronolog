@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2024-01-18-f95dc7
 date: '2024-01-18'
+description: 'Cursor · 2024-01-18 · Editor Experience: Chat lints: If the AI suggests
+  a code change in chat that involves a made up code symbol, we''ll underline it…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|cursor-2023-03-14-24e9bf]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant
+    fix all lint errors with AI 😎]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 310
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 527c712fa4f2a7d7afc3479a97604bc32239ef21b7d5583a4836543da6f464c5
+machine_hash: 11dae40aa327db6d6bd882aed47446a1d2d458a01dd4f35a2c63d423b7c18e7f
 product: cursor
 product_name: Cursor
 record:
@@ -41,9 +44,12 @@ record:
     up code…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-01-06-upgrades-cursor-to-vs-code-1-85-which-comes-with-support-for-dragging-out-tabs-i|cursor-2024-01-06-8d431d]]'
-- '[[Changes/Cursor/2024-01-18-more-chat-symbol-links-when-the-chat-references-a-code-symbol-you-ll-often-be-ab|cursor-2024-01-18-a6778f]]'
-- '[[Changes/Cursor/2024-01-18-apply-button-we-ve-added-some-polish-to-the-apply-codeblock-experience-in-chat|cursor-2024-01-18-cc8d3d]]'
+- '[[Changes/Cursor/2024-01-06-upgrades-cursor-to-vs-code-1-85-which-comes-with-support-for-dragging-out-tabs-i|Upgrades
+  Cursor to VS Code 1.85, which comes with support for dragging out tabs…]]'
+- '[[Changes/Cursor/2024-01-18-more-chat-symbol-links-when-the-chat-references-a-code-symbol-you-ll-often-be-ab|More
+  chat symbol links]]'
+- '[[Changes/Cursor/2024-01-18-apply-button-we-ve-added-some-polish-to-the-apply-codeblock-experience-in-chat|Apply
+  button: We''ve added some polish to the "apply codeblock" experience in chat]]'
 source_release: '[[Releases/Cursor/cursor-2024-01-18-0-23-x-https-cursor-com-changelog-0-23-x-c0ec65fe|cursor-2024-01-18-0-23-x-https-cursor-com-changelog-0-23-x-c0ec65fe]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -52,10 +58,10 @@ title: 'Chat lints: If the AI suggests a code change in chat that involves a mad
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Chat lints: If the AI suggests a code change in chat that involves a made up code…
 
-<!-- chronolog:begin region="description" -->
-Cursor — New Model, Apply Button v2: Chat lints: If the AI suggests a code change in chat that involves a made up code symbol, we'll underline it. Available for Python, Typescript, Rust.
+**Cursor** · 2024-01-18 · [[Themes/editor-experience|Editor Experience]] · [Official source](https://cursor.com/changelog/0-23-x) · from [[Releases/Cursor/cursor-2024-01-18-0-23-x-https-cursor-com-changelog-0-23-x-c0ec65fe|New Model, Apply Button v2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -64,19 +70,27 @@ Cursor — New Model, Apply Button v2: Chat lints: If the AI suggests a code cha
 > Source: https://cursor.com/changelog/0-23-x
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2024-01-18-cursor-fast-this-is-a-new-model-available-in-command-k-and-chat-expect-it-to-be|"cursor-fast": This is a new model available in command-k and chat]] · Model Support
+- [[Changes/Cursor/2024-01-18-more-chat-symbol-links-when-the-chat-references-a-code-symbol-you-ll-often-be-ab|More chat symbol links]] · Editor Experience
+- [[Changes/Cursor/2024-01-18-apply-button-we-ve-added-some-polish-to-the-apply-codeblock-experience-in-chat|Apply button: We've added some polish to the "apply codeblock" experience in chat]] · Editor Experience
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: editor-experience
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|cursor-2023-03-14-24e9bf]]
-- Lag Days: 310
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Editor Experience
+
+- Earlier: 2024-01-06 · Cursor · [[Changes/Cursor/2024-01-06-upgrades-cursor-to-vs-code-1-85-which-comes-with-support-for-dragging-out-tabs-i|Upgrades Cursor to VS Code 1.85, which comes with support for dragging out tabs…]]
+- Later: 2024-02-02 · Cursor · [[Changes/Cursor/2024-02-02-hold-down-cmd-i-over-a-selection-to-heal-the-code-with-gpt-4-useful-for-writing|Hold down cmd-I over a selection to heal the code with GPT-4]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all lint errors with AI 😎]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2024-01-18-f95dc7&body=Card%3A%20Changes%2FCursor%2F2024-01-18-chat-lints-if-the-ai-suggests-a-code-change-in-chat-that-involves-a-made-up-code.md%0ACard%20ID%3A%20cursor-2024-01-18-f95dc7%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F0-23-x%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

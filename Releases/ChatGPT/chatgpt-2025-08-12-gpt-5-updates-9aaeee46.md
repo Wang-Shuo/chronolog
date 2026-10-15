@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2025-08-12'
-machine_hash: 3670b8c63d2423ff5e8f88e6a40289ca798f70fb08fe223f39e4a63f766bfdc1
+description: 'ChatGPT release GPT-5 Updates on 2025-08-12: 1 tracked change across
+  Model Support'
+machine_hash: f4c126eea2bac5a1f4e9ebf0a851b47b41b6db1c47d6a6100182a0e0966de16b
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 1
   date: '2025-08-12'
   product: chatgpt
   product_name: ChatGPT
@@ -25,22 +28,24 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — GPT-5 Updates
+title: ChatGPT · GPT-5 Updates
 version: GPT-5 Updates
 ---
 
-# ChatGPT GPT-5 Updates
+<!-- chronolog:begin region="header" -->
+# ChatGPT · GPT-5 Updates
+
+**ChatGPT** · 2025-08-12 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 You can now choose between “Auto”, “Fast”, and “Thinking” for GPT-5. Most users will want Auto, but the additional control will be useful for some people.ChatGPT Plus users now have 3,000 messages/week with GPT-5 Thinking, and then extra capacity on GPT-5 Thinking mini after that limit. The context limit for GPT-5…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2025-08-12-you-can-now-choose-between-auto-fast-and-thinking-for-gpt-5-most-users-will-want-f4c05b|Choose between “Auto”, “Fast”, and “Thinking” for GPT-5]]
+- [[Changes/ChatGPT/2025-08-12-you-can-now-choose-between-auto-fast-and-thinking-for-gpt-5-most-users-will-want-f4c05b|Choose between “Auto”, “Fast”, and “Thinking” for GPT-5]] · Model Support
 <!-- chronolog:end -->

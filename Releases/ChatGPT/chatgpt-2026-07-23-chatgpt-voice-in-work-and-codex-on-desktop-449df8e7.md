@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2026-07-23'
-machine_hash: 787c43d5725e0210ff509eff45ede9ea3136d91b58f12b5bfc8e154e50eda7df
+description: 'ChatGPT release ChatGPT Voice in Work and Codex on desktop on 2026-07-23:
+  1 tracked change across Voice and Audio'
+machine_hash: 1e53230003d519f35059c40a7ec420dab754d5762af738f7079d243b5094c307
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 2
   date: '2026-07-23'
   product: chatgpt
   product_name: ChatGPT
@@ -24,22 +27,24 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — ChatGPT Voice in Work and Codex on desktop
+title: ChatGPT Voice in Work and Codex on desktop
 version: ChatGPT Voice in Work and Codex on desktop
 ---
 
-# ChatGPT ChatGPT Voice in Work and Codex on desktop
+<!-- chronolog:begin region="header" -->
+# ChatGPT Voice in Work and Codex on desktop
+
+**ChatGPT** · 2026-07-23 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 ChatGPT Voice is now available in Work and Codex in the ChatGPT desktop app. Start a new task in Voice to speak naturally, interrupt, and ask Voice to start or coordinate work using the tools and permissions available to the selected experience.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 1
+Tracked 1 of 2 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- voice: [[Changes/ChatGPT/2026-07-23-chatgpt-voice-is-now-available-in-work-and-codex-in-the-chatgpt-desktop-app-star|ChatGPT Voice is now available in Work and Codex in the ChatGPT desktop app]]
+- [[Changes/ChatGPT/2026-07-23-chatgpt-voice-is-now-available-in-work-and-codex-in-the-chatgpt-desktop-app-star|ChatGPT Voice is now available in Work and Codex in the ChatGPT desktop app]] · Voice and Audio
 <!-- chronolog:end -->

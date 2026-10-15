@@ -1,10 +1,13 @@
 ---
 changes_count: 5
 date: '2023-03-18'
-machine_hash: 947088d216410819f5e5629c1e862b01449602656f45afbb226c49f28f00622a
+description: 'Cursor release v0.1.2-0.1.3 (2023-03-18) on 2023-03-18: 5 tracked changes
+  across Editor Experience, Interface Experience, Developer Workflow'
+machine_hash: a307633315f171d30fa39b3ccf5a55d5a4f9605342280a5cdcaaa808c83a75ee
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 6
   date: '2023-03-18'
   product: cursor
   product_name: Cursor
@@ -21,26 +24,28 @@ source_url: https://cursor.com/changelog/0-1-2
 tags:
 - release
 - cursor
-title: Cursor — v0.1.2-0.1.3 (2023-03-18)
+title: Cursor · v0.1.2-0.1.3 (2023-03-18)
 version: 0.1.2
 ---
 
-# Cursor v0.1.2-0.1.3 (2023-03-18)
+<!-- chronolog:begin region="header" -->
+# Cursor · v0.1.2-0.1.3 (2023-03-18)
+
+**Cursor** · 2023-03-18 · [Official release notes](https://cursor.com/changelog/0-1-2)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
-#New Features
+5 tracked changes across 3 themes: Editor Experience, Interface Experience, Developer Workflow.
 
-[Official release notes](https://cursor.com/changelog/0-1-2)
-
-Tracked cards: 5
+Tracked 5 of 6 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- editor-experience: [[Changes/Cursor/2023-03-18-diffs-automatically-continue|Diffs automatically continue]]
-- developer-workflow: [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
-- interface-experience: [[Changes/Cursor/2023-03-18-can-open-chat-history-from-the-prompt-bar|Can open chat history from the prompt bar]]
-- interface-experience: [[Changes/Cursor/2023-03-18-up-and-down-arrow-in-prompt-bar-have-been-mapped-to-less-annoying-keybindings|Up and down arrow in prompt bar have been mapped to less annoying keybindings]]
-- editor-experience: [[Changes/Cursor/2023-03-18-have-chat-auto-insert-suggested-changes-into-editor|Have chat auto-insert suggested changes into editor]]
+- [[Changes/Cursor/2023-03-18-diffs-automatically-continue|Diffs automatically continue]] · Editor Experience
+- [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]] · Developer Workflow
+- [[Changes/Cursor/2023-03-18-can-open-chat-history-from-the-prompt-bar|Can open chat history from the prompt bar]] · Interface Experience
+- [[Changes/Cursor/2023-03-18-up-and-down-arrow-in-prompt-bar-have-been-mapped-to-less-annoying-keybindings|Up and down arrow in prompt bar have been mapped to less annoying keybindings]] · Interface Experience
+- [[Changes/Cursor/2023-03-18-have-chat-auto-insert-suggested-changes-into-editor|Have chat auto-insert suggested changes into editor]] · Editor Experience
 <!-- chronolog:end -->

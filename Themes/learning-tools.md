@@ -1,7 +1,9 @@
 ---
 created: '2025-07-29'
 date: '2026-04-01'
-machine_hash: d53d97f30fec3da5c4e0a81eb0ee8b8d11ad0f782f3e6756edcefd5a84f37a8f
+description: Cross-product timeline of Learning Tools changes in ChatGPT and Claude
+  Code.
+machine_hash: 430b496123229bddc920a3e8b66adc9267a2745b7375cf00e2b7ac35ec94833d
 modified: '2026-04-01'
 products_involved:
 - ChatGPT
@@ -15,7 +17,9 @@ theme: learning-tools
 title: Learning Tools
 ---
 
-# Theme: learning-tools
+<!-- chronolog:begin region="header" -->
+# Learning Tools
+<!-- chronolog:end -->
 
 ## Research summary
 <!-- chronolog:begin region="narrative" -->

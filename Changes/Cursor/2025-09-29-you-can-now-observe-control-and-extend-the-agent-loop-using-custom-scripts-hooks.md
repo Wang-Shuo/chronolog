@@ -1,8 +1,12 @@
 ---
 card_id: cursor-2025-09-29-cf3808
 date: '2025-09-29'
+description: 'Cursor · 2025-09-29 · Agent Mode: You can now observe, control, and
+  extend the Agent loop using custom scripts. Hooks give you a way to customize and
+  influence…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
+    to the first nightly release!]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 816
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 9446113362ea30f958d6c57817fb1d3aea4561d51fa9b43fad80de137ffc8881
+machine_hash: 213350b64c92e1715fd3672a095af0a05621b9089ec90cb6398b74e6bb67e753
 product: cursor
 product_name: Cursor
 record:
@@ -40,9 +44,12 @@ record:
   title: Observe, control, and extend the Agent loop using custom scripts
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-09-29-we-re-introducing-instant-checkout-in-chatgpt-and-the-agentic-commerce-protocol-8cbf19|chatgpt-2025-09-29-8cbf19]]'
-- '[[Changes/Cursor/2025-09-29-cursor-can-now-write-detailed-plans-before-starting-complex-tasks-this-allows-ag|cursor-2025-09-29-6a34b4]]'
-- '[[Changes/Cursor/2025-09-29-agent-can-take-screenshots-improve-ui-and-debug-client-issues-read-more-about-br|cursor-2025-09-29-81c2ee]]'
+- '[[Changes/ChatGPT/2025-09-29-we-re-introducing-instant-checkout-in-chatgpt-and-the-agentic-commerce-protocol-8cbf19|ChatGPT
+  introduces Instant Checkout and the Agentic Commerce Protocol that powers…]]'
+- '[[Changes/Cursor/2025-09-29-cursor-can-now-write-detailed-plans-before-starting-complex-tasks-this-allows-ag|Cursor
+  can now write detailed plans before starting complex tasks]]'
+- '[[Changes/Cursor/2025-09-29-agent-can-take-screenshots-improve-ui-and-debug-client-issues-read-more-about-br|Agent
+  can take screenshots, improve UI, and debug client issues]]'
 source_release: '[[Releases/Cursor/cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae|cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -50,10 +57,10 @@ title: Observe, control, and extend the Agent loop using custom scripts
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Observe, control, and extend the Agent loop using custom scripts
 
-<!-- chronolog:begin region="description" -->
-Cursor — Browser Controls, Plan Mode, and Hooks: You can now observe, control, and extend the Agent loop using custom scripts. Hooks give you a way to customize and influence Agent behavior at runtime.
+**Cursor** · 2025-09-29 · [[Themes/agent-mode|Agent Mode]] · [Official source](https://cursor.com/changelog/1-7) · from [[Releases/Cursor/cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae|Browser Controls, Plan Mode, and Hooks]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -62,19 +69,28 @@ Cursor — Browser Controls, Plan Mode, and Hooks: You can now observe, control,
 > Source: https://cursor.com/changelog/1-7
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2025-09-29-when-writing-prompts-autocomplete-suggestions-will-appear-based-on-recent-change|When writing prompts, autocomplete suggestions will appear based on recent changes]] · Editor Experience
+- [[Changes/Cursor/2025-09-29-cursor-can-now-write-detailed-plans-before-starting-complex-tasks-this-allows-ag|Cursor can now write detailed plans before starting complex tasks]] · Agent Mode
+- [[Changes/Cursor/2025-09-29-agent-can-take-screenshots-improve-ui-and-debug-client-issues-read-more-about-br|Agent can take screenshots, improve UI, and debug client issues]] · Agent Mode
+- [[Changes/Cursor/2025-09-29-use-hooks-to-audit-agent-usage-block-commands-or-redact-secrets-from-context-it|Use Hooks to audit Agent usage, block commands, or redact secrets from context]] · Apps and Integrations
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: agent-mode
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]
-- Lag Days: 816
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Agent Mode
+
+- Earlier: 2025-09-29 · ChatGPT · [[Changes/ChatGPT/2025-09-29-we-re-introducing-instant-checkout-in-chatgpt-and-the-agentic-commerce-protocol-8cbf19|ChatGPT introduces Instant Checkout and the Agentic Commerce Protocol that powers…]]
+- Later: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-run-up-to-eight-agents-in-parallel-on-a-single-prompt-this-uses-git-worktrees-or|Run up to eight agents in parallel on a single prompt]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2025-09-29-cf3808&body=Card%3A%20Changes%2FCursor%2F2025-09-29-you-can-now-observe-control-and-extend-the-agent-loop-using-custom-scripts-hooks.md%0ACard%20ID%3A%20cursor-2025-09-29-cf3808%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F1-7%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

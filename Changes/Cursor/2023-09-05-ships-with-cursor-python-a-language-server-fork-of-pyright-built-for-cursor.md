@@ -1,8 +1,10 @@
 ---
 card_id: cursor-2023-09-05-66b064
 date: '2023-09-05'
+description: 'Cursor · 2023-09-05 · Developer Workflow: Ships with cursor-python,
+  a Language-Server fork of pyright built for Cursor'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|cursor-2023-03-18-76a713]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 171
   relation: same-theme-chronology
@@ -13,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: ec4f8dead463efdf593b2593803fc5e0d2c1a03c09b271238f6b0254caa803f2
+machine_hash: a07ab739042b38bb6fdb2a1ea9f7a74e301cf2702a9bc68a760f9b4c97a4345d
 product: cursor
 product_name: Cursor
 record:
@@ -36,9 +38,12 @@ record:
   title: Ships with cursor-python, a Language-Server fork of pyright built for Cursor
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-08-17-the-cursor-nightly-command-now-works-on-mac|cursor-2023-08-17-26ebd4]]'
-- '[[Changes/Cursor/2023-08-22-applies-the-patch-from-github-across-all-your-wsl-windows-subsystem-for-linux-di|cursor-2023-08-22-79dbc9]]'
-- '[[Changes/Cursor/2023-08-26-we-had-a-big-bug-for-people-on-language-packs-thank-you-to-all-who-helped-us-deb|cursor-2023-08-26-55827c]]'
+- '[[Changes/Cursor/2023-08-17-the-cursor-nightly-command-now-works-on-mac|The cursor-nightly
+  command now works on Mac]]'
+- '[[Changes/Cursor/2023-08-22-applies-the-patch-from-github-across-all-your-wsl-windows-subsystem-for-linux-di|Applies
+  the patch from Github across all your WSL (Windows Subsystem for Linux)…]]'
+- '[[Changes/Cursor/2023-08-26-we-had-a-big-bug-for-people-on-language-packs-thank-you-to-all-who-helped-us-deb|We
+  had a big bug for people on language packs]]'
 source_release: '[[Releases/Cursor/cursor-2023-09-05-0-9-5-nightly-https-cursor-com-changelog-0-9-5-nightly-83383c54|cursor-2023-09-05-0-9-5-nightly-https-cursor-com-changelog-0-9-5-nightly-83383c54]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -46,10 +51,10 @@ title: Ships with cursor-python, a Language-Server fork of pyright built for Cur
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Ships with cursor-python, a Language-Server fork of pyright built for Cursor
 
-<!-- chronolog:begin region="description" -->
-Cursor — Cursor-Python LSP: Ships with cursor-python, a Language-Server fork of pyright built for Cursor
+**Cursor** · 2023-09-05 · [[Themes/developer-workflow|Developer Workflow]] · [Official source](https://cursor.com/changelog/0-9-5-nightly) · from [[Releases/Cursor/cursor-2023-09-05-0-9-5-nightly-https-cursor-com-changelog-0-9-5-nightly-83383c54|Cursor-Python LSP]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -58,19 +63,23 @@ Cursor — Cursor-Python LSP: Ships with cursor-python, a Language-Server fork o
 > Source: https://cursor.com/changelog/0-9-5-nightly
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: developer-workflow
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-18-built-in-terminal|cursor-2023-03-18-76a713]]
-- Lag Days: 171
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Developer Workflow
+
+- Earlier: 2023-08-26 · Cursor · [[Changes/Cursor/2023-08-26-we-had-a-big-bug-for-people-on-language-packs-thank-you-to-all-who-helped-us-deb|We had a big bug for people on language packs]]
+- Later: 2023-09-23 · Cursor · [[Changes/Cursor/2023-09-23-never-lets-your-root-directory-be-in-the-gitignore|never lets your root directory be in the gitignore]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2023-09-05-66b064&body=Card%3A%20Changes%2FCursor%2F2023-09-05-ships-with-cursor-python-a-language-server-fork-of-pyright-built-for-cursor.md%0ACard%20ID%3A%20cursor-2023-09-05-66b064%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F0-9-5-nightly%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

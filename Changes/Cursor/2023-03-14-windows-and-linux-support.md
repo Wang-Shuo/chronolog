@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2023-03-14-0021fe
 date: '2023-03-14'
+description: 'Cursor · 2023-03-14 · Mobile and Desktop: Windows and Linux support
+  🥳'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support 🥳]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 0
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 5550ce4ca168678e89f5c2ff671db98bf198b2f8f5c4bed5879152af54cb5865
+machine_hash: 20e890920e97d0e61e0c5e6ff08798c515bdb96b9c85cbfe50b2f04bfe9084ee
 product: cursor
 product_name: Cursor
 record:
@@ -45,10 +48,10 @@ title: Windows and Linux support 🥳
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Windows and Linux support 🥳
 
-<!-- chronolog:begin region="description" -->
-Cursor — v0.0.37 (2023-03-14): Windows and Linux support 🥳
+**Cursor** · 2023-03-14 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://cursor.com/changelog/0-0-37) · from [[Releases/Cursor/cursor-2023-03-14-0-0-37-https-cursor-com-changelog-0-0-37-236c8006|v0.0.37 (2023-03-14)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -57,19 +60,26 @@ Cursor — v0.0.37 (2023-03-14): Windows and Linux support 🥳
 > Source: https://cursor.com/changelog/0-0-37
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all lint errors with AI 😎]] · Editor Experience
+- [[Changes/Cursor/2023-03-14-editing-works-for-same-file-on-multiple-tabs|Editing works for same file on multiple tabs]] · Editor Experience
+- [[Changes/Cursor/2023-03-14-edits-can-be-as-long-as-you-d-like|Edits can be as long as you'd like]] · Editor Experience
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: mobile-desktop
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: first-observed
-- First In Tracked: [[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]
-- Lag Days: 0
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Mobile and Desktop
+
+- Later: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-good-news-we-re-expanding-availability-of-the-chatgpt-app-for-ios-to-more-countr-1a3e7f|ChatGPT expands availability of the ChatGPT app for iOS to more countries and regions]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry among the 3 tracked products.
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2023-03-14-0021fe&body=Card%3A%20Changes%2FCursor%2F2023-03-14-windows-and-linux-support.md%0ACard%20ID%3A%20cursor-2023-03-14-0021fe%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F0-0-37%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

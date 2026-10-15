@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2026-04-09-384163
 date: '2026-04-09'
+description: 'ChatGPT · 2026-04-09 · Pricing Model: Pro ($100/month): Built for longer,
+  high-intensity Codex sessions. It includes unlimited access to GPT-5.4, access to…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|chatgpt-2022-12-15-6d306d]]'
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
+    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1211
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 894dce50982a4998b83ce56edab4380fa90573675f515c34a005b91ec1f75154
+machine_hash: 059dd346aae9824356f3026495c32af3d5dc7d6e3d30956591e48338e9c06aac
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,9 +45,12 @@ record:
   title: 'Pro ($100/month): Built for longer, high-intensity Codex sessions'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-03-19-standard-0-50-m-input-2-50-m-output-tokens|cursor-2026-03-19-2ef7b6]]'
-- '[[Changes/Cursor/2026-03-19-fast-default-1-50-m-input-7-50-m-output-tokens|cursor-2026-03-19-425e73]]'
-- '[[Changes/Claude Code/2026-04-04-added-per-model-and-cache-hit-breakdown-to-cost-for-subscription-users|claude-code-2026-04-04-fba1f6]]'
+- '[[Changes/Cursor/2026-03-19-standard-0-50-m-input-2-50-m-output-tokens|Standard:
+  $0.50/M input, $2.50/M output tokens]]'
+- '[[Changes/Cursor/2026-03-19-fast-default-1-50-m-input-7-50-m-output-tokens|Fast
+  (default): $1.50/M input, $7.50/M output tokens]]'
+- '[[Changes/Claude Code/2026-04-04-added-per-model-and-cache-hit-breakdown-to-cost-for-subscription-users|Added
+  per-model and cache-hit breakdown to /cost for subscription users]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2|chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2]]'
 source_type: chatgpt_changelog
 theme: pricing-model
@@ -52,10 +58,10 @@ title: 'Pro ($100/month): Built for longer, high-intensity Codex sessions'
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Pro ($100/month): Built for longer, high-intensity Codex sessions
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — New Pro plan options: Pro ($100/month): Built for longer, high-intensity Codex sessions. It includes unlimited access to GPT-5.4, access to GPT-5.4 Pro, and, for a limited time, up to 10x more Codex usage than Plus (up from 5X standard usage allowance).
+**ChatGPT** · 2026-04-09 · [[Themes/pricing-model|Pricing Model]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2|New Pro plan options]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -64,19 +70,28 @@ ChatGPT — New Pro plan options: Pro ($100/month): Built for longer, high-inten
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2026-04-09-we-re-introducing-a-new-100-month-pro-plan-and-updating-how-codex-usage-works-ac|We’re introducing a new $100/month Pro plan and updating how Codex usage works…]] · Pricing Model
+- [[Changes/ChatGPT/2026-04-09-plus-20-month-plus-remains-best-for-steady-day-to-day-use-as-the-temporary-codex|Plus ($20/month): Plus remains best for steady, day-to-day use]] · Pricing Model
+- [[Changes/ChatGPT/2026-04-09-pro-200-month-our-highest-usage-option-remains-available-and-continues-on-its-cu|Pro ($200/month): Our highest-usage option remains available and continues…]] · Pricing Model
+- [[Changes/ChatGPT/2026-04-09-you-can-upgrade-switch-or-cancel-your-plan-from-settings-my-plan-or-from-the-pri|You can upgrade, switch, or cancel your plan from Settings  My Plan or…]] · Pricing Model
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: pricing-model
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|chatgpt-2022-12-15-6d306d]]
-- Lag Days: 1211
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Pricing Model
+
+- Earlier: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-added-per-model-and-cache-hit-breakdown-to-cost-for-subscription-users|Added per-model and cache-hit breakdown to /cost for subscription users]]
+- Later: 2026-05-11 · Cursor · [[Changes/Cursor/2026-05-11-customers-must-be-on-usage-based-billing-for-bugbot-to-customize-effort-levels-l|Customers must be on usage-based billing for Bugbot to customize effort levels]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-04-09-384163&body=Card%3A%20Changes%2FChatGPT%2F2026-04-09-pro-100-month-built-for-longer-high-intensity-codex-sessions-it-includes-unlimit.md%0ACard%20ID%3A%20chatgpt-2026-04-09-384163%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

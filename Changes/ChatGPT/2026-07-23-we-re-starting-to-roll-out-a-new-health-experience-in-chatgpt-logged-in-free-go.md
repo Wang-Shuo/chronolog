@@ -1,8 +1,12 @@
 ---
 card_id: chatgpt-2026-07-23-23b836
 date: '2026-07-23'
+description: 'ChatGPT · 2026-07-23 · Files and Data: We’re starting to roll out a
+  new health experience in ChatGPT. Logged-in Free, Go, Plus, and Pro users in the
+  United…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|chatgpt-2023-07-06-66255e]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|ChatGPT
+    rolls out code interpreter to all ChatGPT Plus users over the next week]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1113
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 1b9baeea86c884a91e03e909b0242848b46319cb1c075bd605c224f0d5a62f4c
+machine_hash: eed53459bbc97c4366f21276ab96235f94ffb281402f144b2a59e833da2f6a59
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,9 +50,12 @@ record:
   title: We’re starting to roll out a new health experience in ChatGPT
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-08-full-screen-writing-blocks-for-longer-form-work-writing-blocks-now-cover-long-fo|chatgpt-2026-06-08-95da8e]]'
-- '[[Changes/ChatGPT/2026-06-26-the-personal-finance-experience-in-chatgpt-is-rolling-out-to-plus-users-in-the-u|chatgpt-2026-06-26-531a97]]'
-- '[[Changes/Claude Code/2026-06-29-added-clickable-file-attachments-in-chat-cmd-ctrl-click-reveals-the-file-in-find|claude-code-2026-06-29-67122d]]'
+- '[[Changes/ChatGPT/2026-06-08-full-screen-writing-blocks-for-longer-form-work-writing-blocks-now-cover-long-fo|Full-screen
+  writing blocks for longer-form work]]'
+- '[[Changes/ChatGPT/2026-06-26-the-personal-finance-experience-in-chatgpt-is-rolling-out-to-plus-users-in-the-u|The
+  personal finance experience in ChatGPT is rolling out to Plus users…]]'
+- '[[Changes/Claude Code/2026-06-29-added-clickable-file-attachments-in-chat-cmd-ctrl-click-reveals-the-file-in-find|Added
+  clickable file attachments in chat]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-23-health-in-chatgpt-4cb3bdf6|chatgpt-2026-07-23-health-in-chatgpt-4cb3bdf6]]'
 source_type: chatgpt_changelog
 theme: file-data
@@ -56,10 +63,10 @@ title: We’re starting to roll out a new health experience in ChatGPT
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # We’re starting to roll out a new health experience in ChatGPT
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Health in ChatGPT: We’re starting to roll out a new health experience in ChatGPT. Logged-in Free, Go, Plus, and Pro users in the United States who are 18 or older can securely connect supported health records and Apple Health data, see a dashboard of their health information, and ask questions grounded in their personal health context.
+**ChatGPT** · 2026-07-23 · [[Themes/file-data|Files and Data]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-07-23-health-in-chatgpt-4cb3bdf6|Health in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -68,19 +75,26 @@ ChatGPT — Health in ChatGPT: We’re starting to roll out a new health experie
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2026-07-23-health-is-built-with-layered-privacy-and-security-safeguards-connected-medical-r|Health is built with layered privacy and security safeguards]] · Safety and Privacy
+- [[Changes/ChatGPT/2026-07-23-available-on-web-and-ios-health-lets-you-view-lab-results-medications-activity-s|Available on web and iOS, Health lets you view lab results, medications, activity…]] · Mobile and Desktop
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: file-data
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|chatgpt-2023-07-06-66255e]]
-- Lag Days: 1113
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Files and Data
+
+- Earlier: 2026-06-29 · Claude Code · [[Changes/Claude Code/2026-06-29-added-clickable-file-attachments-in-chat-cmd-ctrl-click-reveals-the-file-in-find|Added clickable file attachments in chat]]
+- Later: 2026-08-07 · ChatGPT · [[Changes/ChatGPT/2026-08-07-get-answers-that-stay-closer-to-your-documents-chatgpt-makes-better-use-of-infor|Get answers that stay closer to your documents]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|ChatGPT rolls out code interpreter to all ChatGPT Plus users over the next week]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-07-23-23b836&body=Card%3A%20Changes%2FChatGPT%2F2026-07-23-we-re-starting-to-roll-out-a-new-health-experience-in-chatgpt-logged-in-free-go.md%0ACard%20ID%3A%20chatgpt-2026-07-23-23b836%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

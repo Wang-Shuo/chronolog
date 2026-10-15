@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2025-05-08'
-machine_hash: b174548abb3887b102bf50c6a145344b3bf777f29bdda250bbe9ad4478a14898
+description: 'ChatGPT release GitHub connector for deep research for Plus/Pro/Team
+  on 2025-05-08: 1 tracked change across Search and Browsing'
+machine_hash: fa64d60a7ad1940834c54729aa5df56a04e0998d3f63bd8b8382a65b3a7570da
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 1
   date: '2025-05-08'
   product: chatgpt
   product_name: ChatGPT
@@ -24,22 +27,24 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — GitHub connector for deep research for Plus/Pro/Team
+title: ChatGPT · GitHub connector for deep research for Plus/Pro/Team
 version: GitHub connector for deep research for Plus/Pro/Team
 ---
 
-# ChatGPT GitHub connector for deep research for Plus/Pro/Team
+<!-- chronolog:begin region="header" -->
+# ChatGPT · GitHub connector for deep research for Plus/Pro/Team
+
+**ChatGPT** · 2025-05-08 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 ChatGPT deep research with GitHub is available globally to Team users. It is also gradually rolling out to Plus and Pro users, except for those in the EEA, Switzerland, and the UK. Enterprise user access will be announced at a later date.See: Connecting GitHub to ChatGPT deep research.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- search-browsing: [[Changes/ChatGPT/2025-05-08-chatgpt-deep-research-with-github-is-available-globally-to-team-users-it-is-also-ad2e25|ChatGPT deep research with GitHub is available globally to Team users]]
+- [[Changes/ChatGPT/2025-05-08-chatgpt-deep-research-with-github-is-available-globally-to-team-users-it-is-also-ad2e25|ChatGPT deep research with GitHub is available globally to Team users]] · Search and Browsing
 <!-- chronolog:end -->

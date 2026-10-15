@@ -1,10 +1,13 @@
 ---
 changes_count: 2
 date: '2025-06-18'
-machine_hash: 11942858913c80536a0f979dd16567cd70f950b98c36c26b023c25cd4f5ea072
+description: 'ChatGPT release ChatGPT record mode on 2025-06-18: 2 tracked changes
+  across Voice and Audio'
+machine_hash: e98d0c7452ee77b1275a1445b7607d0010e6e93a9b08e5ae855aa91ce190ff1f
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 4
   date: '2025-06-18'
   product: chatgpt
   product_name: ChatGPT
@@ -23,23 +26,25 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — ChatGPT record mode
+title: ChatGPT record mode
 version: ChatGPT record mode
 ---
 
-# ChatGPT ChatGPT record mode
+<!-- chronolog:begin region="header" -->
+# ChatGPT record mode
+
+**ChatGPT** · 2025-06-18 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Capture meetings, brainstorms, or voice notes. Launching today for Pro, Enterprise, and Edu users. Previously launched for Team users on June 4, 2025.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 2
+Tracked 2 of 4 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- voice: [[Changes/ChatGPT/2025-06-18-chatgpt-will-transcribe-summarize-and-turn-them-into-helpful-outputs-like-follow|ChatGPT will transcribe, summarize, and turn them into helpful outputs like…]]
-- voice: [[Changes/ChatGPT/2025-06-18-capture-meetings-brainstorms-or-voice-notes-launching-today-for-pro-enterprise-a|Capture meetings, brainstorms, or voice notes]]
+- [[Changes/ChatGPT/2025-06-18-chatgpt-will-transcribe-summarize-and-turn-them-into-helpful-outputs-like-follow|ChatGPT will transcribe, summarize, and turn them into helpful outputs like…]] · Voice and Audio
+- [[Changes/ChatGPT/2025-06-18-capture-meetings-brainstorms-or-voice-notes-launching-today-for-pro-enterprise-a|Capture meetings, brainstorms, or voice notes]] · Voice and Audio
 <!-- chronolog:end -->

@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2025-02-14-b3e6ab
 date: '2025-02-14'
+description: 'ChatGPT · 2025-02-14 · Mobile and Desktop: Confirmation dialog for logging
+  out (iOS, web).'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support 🥳]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 703
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8b3a9b195dfd83f2a453c7dc648e91440d41e22b048dead35ba1e8262e97a422
+machine_hash: cacee72dedcbf0c1bdc78ad2f52483ac5cdd1880e41c51897d473a090c3587a9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -36,9 +39,11 @@ record:
   title: Confirmation dialog for logging out (iOS, web)
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-01-17-we-ve-updated-custom-instructions-to-make-it-easier-to-customize-how-chatgpt-res-e42760|chatgpt-2025-01-17-e42760]]'
-- '[[Changes/ChatGPT/2025-02-14-improved-android-conversation-parsing-performance|chatgpt-2025-02-14-70171a]]'
-- '[[Changes/ChatGPT/2025-02-14-ios-performance-fixes|chatgpt-2025-02-14-9f7f55]]'
+- '[[Changes/ChatGPT/2025-01-17-we-ve-updated-custom-instructions-to-make-it-easier-to-customize-how-chatgpt-res-e42760|ChatGPT
+  updates custom instructions to make it easier to customize how ChatGPT…]]'
+- '[[Changes/ChatGPT/2025-02-14-improved-android-conversation-parsing-performance|Improved
+  Android conversation parsing performance]]'
+- '[[Changes/ChatGPT/2025-02-14-ios-performance-fixes|iOS performance fixes]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-02-14-set-chatgpt-as-default-search-engine-in-safari-11ec014b|chatgpt-2025-02-14-set-chatgpt-as-default-search-engine-in-safari-11ec014b]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -46,10 +51,10 @@ title: Confirmation dialog for logging out (iOS, web)
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Confirmation dialog for logging out (iOS, web)
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — - Set ChatGPT as default search engine in Safari.: Confirmation dialog for logging out (iOS, web).
+**ChatGPT** · 2025-02-14 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-02-14-set-chatgpt-as-default-search-engine-in-safari-11ec014b|- Set ChatGPT as default search engine in Safari.]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -58,19 +63,28 @@ ChatGPT — - Set ChatGPT as default search engine in Safari.: Confirmation dial
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2025-02-14-set-chatgpt-as-default-search-engine-in-safari|Set ChatGPT as default search engine in Safari]] · Search and Browsing
+- [[Changes/ChatGPT/2025-02-14-improved-android-conversation-parsing-performance|Improved Android conversation parsing performance]] · Mobile and Desktop
+- [[Changes/ChatGPT/2025-02-14-ios-performance-fixes|iOS performance fixes]] · Mobile and Desktop
+- [[Changes/ChatGPT/2025-02-14-updated-launch-animations-and-composer-design-on-android|Updated launch animations and composer design on Android]] · Mobile and Desktop
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: mobile-desktop
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]
-- Lag Days: 703
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Mobile and Desktop
+
+- Earlier: 2025-01-17 · ChatGPT · [[Changes/ChatGPT/2025-01-17-we-ve-updated-custom-instructions-to-make-it-easier-to-customize-how-chatgpt-res-e42760|ChatGPT updates custom instructions to make it easier to customize how ChatGPT…]]
+- Later: 2025-02-21 · ChatGPT · [[Changes/ChatGPT/2025-02-21-1-ios-widget-see-below|iOS widget (see below)]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-02-14-b3e6ab&body=Card%3A%20Changes%2FChatGPT%2F2025-02-14-confirmation-dialog-for-logging-out-ios-web.md%0ACard%20ID%3A%20chatgpt-2025-02-14-b3e6ab%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2026-09-29-90a0e4
 date: '2026-09-29'
+description: 'ChatGPT · 2026-09-29 · Agent Mode: We’re introducing dots: always-on
+  agents in ChatGPT that can take on ongoing work and keep making progress between…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
+    to the first nightly release!]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1181
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3c4001343d2518f32618ac8be6764ab260f7d06495ec6701d62af3668a61831f
+machine_hash: b81873e893d9ac4591739e0f1d65ef4b2dd8d05b2c8254454140808d75ae8793
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -52,9 +55,12 @@ record:
   title: ChatGPT introduces dots
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-18-added-agents-md-support-in-a-project-with-no-claude-md-claude-code-reads-agents|claude-code-2026-09-18-8eae3a]]'
-- '[[Changes/Claude Code/2026-09-19-added-an-auto-mode-server-row-to-status-showing-whether-this-session-s-auto-mode|claude-code-2026-09-19-341582]]'
-- '[[Changes/Claude Code/2026-09-28-added-a-yes-but-ask-again-next-time-answer-to-auto-mode-s-prompt-before-a-read-o|claude-code-2026-09-28-09976e]]'
+- '[[Changes/Claude Code/2026-09-18-added-agents-md-support-in-a-project-with-no-claude-md-claude-code-reads-agents|Added
+  AGENTS.md support]]'
+- '[[Changes/Claude Code/2026-09-19-added-an-auto-mode-server-row-to-status-showing-whether-this-session-s-auto-mode|Added
+  an Auto mode server row to /status showing whether this session''s auto…]]'
+- '[[Changes/Claude Code/2026-09-28-added-a-yes-but-ask-again-next-time-answer-to-auto-mode-s-prompt-before-a-read-o|Added
+  a "Yes, but ask again next time" answer to auto mode''s prompt before a read…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-meet-your-dot-8b9f914b|chatgpt-2026-09-29-meet-your-dot-8b9f914b]]'
 source_type: chatgpt_changelog
 theme: agent-mode
@@ -62,10 +68,10 @@ title: ChatGPT introduces dots
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # ChatGPT introduces dots
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Meet your dot: We’re introducing dots: always-on agents in ChatGPT that can take on ongoing work and keep making progress between conversations. Give your dot a goal, connect the apps it needs, and define what it can do on its own. Powered by GPT-6 Astra, your dot has its own cloud computer and can bring results back for your review.
+**ChatGPT** · 2026-09-29 · [[Themes/agent-mode|Agent Mode]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-29-meet-your-dot-8b9f914b|Meet your dot]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -74,19 +80,26 @@ ChatGPT — Meet your dot: We’re introducing dots: always-on agents in ChatGPT
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2026-09-29-dots-are-rolling-out-gradually-to-eligible-pro-and-business-premium-users-aged-1|Dots are rolling out gradually to eligible Pro and Business Premium users aged 18…]] · Enterprise and Administration
+- [[Changes/ChatGPT/2026-09-29-for-the-next-month-dots-usage-won-t-count-toward-eligible-pro-business-and-enter|For the next month, dots usage won’t count toward eligible Pro, Business…]] · Enterprise and Administration
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: agent-mode
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]
-- Lag Days: 1181
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Agent Mode
+
+- Earlier: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-added-a-yes-but-ask-again-next-time-answer-to-auto-mode-s-prompt-before-a-read-o|Added a "Yes, but ask again next time" answer to auto mode's prompt before a read…]]
+- Later: 2026-09-30 · Claude Code · [[Changes/Claude Code/2026-09-30-improved-send-now-ctrl-enter-in-a-subagent-s-view-it-now-moves-the-subagent-s-ru|Improved send now (ctrl+enter) in a subagent's view]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-29-90a0e4&body=Card%3A%20Changes%2FChatGPT%2F2026-09-29-we-re-introducing-dots-always-on-agents-in-chatgpt-that-can-take-on-ongoing-work.md%0ACard%20ID%3A%20chatgpt-2026-09-29-90a0e4%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

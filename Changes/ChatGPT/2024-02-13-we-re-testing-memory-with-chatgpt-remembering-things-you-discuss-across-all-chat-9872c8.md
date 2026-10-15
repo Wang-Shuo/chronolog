@@ -1,8 +1,12 @@
 ---
 card_id: chatgpt-2024-02-13-9872c8
 date: '2024-02-13'
+description: 'ChatGPT · 2024-02-13 · Memory and Personalization: We’re testing memory
+  with ChatGPT. Remembering things you discuss across all chats saves you from having
+  to…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|chatgpt-2023-07-20-37833c]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re
+    starting to roll out custom instructions, giving you more control over…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 208
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: e611842bc0bf0e7e20e71694dec6197a5bce7964a44cc032a3bd533d7d5180c1
+machine_hash: 36dd2063bc36efdd32a21005848e1c1d7d671281e96f5b45075ce95a9f6a8243
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,9 +53,12 @@ record:
   title: We’re testing memory with ChatGPT
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-08-21-custom-instructions-are-now-available-to-users-in-the-european-union-united-king-cfc1d5|chatgpt-2023-08-21-cfc1d5]]'
-- '[[Changes/Cursor/2023-09-07-we-no-longer-store-any-full-files-in-memory-and-prevent-users-from-ing-very-larg|cursor-2023-09-07-17aeac]]'
-- '[[Changes/Cursor/2023-09-07-this-should-reduce-any-significant-memory-issues-that-users-have-been-experienci|cursor-2023-09-07-384c8c]]'
+- '[[Changes/ChatGPT/2023-08-21-custom-instructions-are-now-available-to-users-in-the-european-union-united-king-cfc1d5|Custom
+  instructions are now available to users in the European Union United Kingdom]]'
+- '[[Changes/Cursor/2023-09-07-we-no-longer-store-any-full-files-in-memory-and-prevent-users-from-ing-very-larg|We
+  no longer store any full files in memory and prevent users from @''ing very large…]]'
+- '[[Changes/Cursor/2023-09-07-this-should-reduce-any-significant-memory-issues-that-users-have-been-experienci|This
+  should reduce any significant memory issues that users have been experiencing]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-02-13-memory-and-new-controls-for-chatgpt-2fd43ded|chatgpt-2024-02-13-memory-and-new-controls-for-chatgpt-2fd43ded]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -59,10 +66,10 @@ title: We’re testing memory with ChatGPT
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # We’re testing memory with ChatGPT
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Memory and new controls for ChatGPT: We’re testing memory with ChatGPT. Remembering things you discuss across all chats saves you from having to repeat information and makes future conversations more helpful.You're in control of ChatGPT's memory. You can explicitly tell it to remember something, ask it what it remembers, and tell it to forget conversationally or through settings. You can also turn it off entirely.We are rolling out to a small portion of ChatGPT free and Plus users this week to learn how useful it is. We will share plans for a broader roll out soon.You can read more about memory and controls here.
+**ChatGPT** · 2024-02-13 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2024-02-13-memory-and-new-controls-for-chatgpt-2fd43ded|Memory and new controls for ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -71,19 +78,23 @@ ChatGPT — Memory and new controls for ChatGPT: We’re testing memory with Cha
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: memory
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|chatgpt-2023-07-20-37833c]]
-- Lag Days: 208
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Memory and Personalization
+
+- Earlier: 2023-09-07 · Cursor · [[Changes/Cursor/2023-09-07-this-should-reduce-any-significant-memory-issues-that-users-have-been-experienci|This should reduce any significant memory issues that users have been experiencing]]
+- Later: 2024-04-29 · ChatGPT · [[Changes/ChatGPT/2024-04-29-memory-is-now-available-to-all-chatgpt-plus-users-except-in-europe-korea-where-w-4db29a|Memory is now available to all ChatGPT Plus users, except in Europe Korea where we…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re starting to roll out custom instructions, giving you more control over…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2024-02-13-9872c8&body=Card%3A%20Changes%2FChatGPT%2F2024-02-13-we-re-testing-memory-with-chatgpt-remembering-things-you-discuss-across-all-chat-9872c8.md%0ACard%20ID%3A%20chatgpt-2024-02-13-9872c8%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

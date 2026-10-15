@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2023-07-11'
-machine_hash: 3493d26317dfa075159280d908da175d868832b557b84384a0b862581b0a1e4c
+description: 'Cursor release 0.2.46 - Patch for Cmd-k Generates on 2023-07-11: 1 tracked
+  change across Editor Experience'
+machine_hash: 42f7243a4f8cd7bb9942bd4d51fbf2b0f858a0e8fd92402c632132e03569a201
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2023-07-11'
   product: cursor
   product_name: Cursor
@@ -22,22 +25,24 @@ source_url: https://cursor.com/changelog/0-2-46
 tags:
 - release
 - cursor
-title: Cursor — 0.2.46 - Patch for Cmd-k Generates
+title: Cursor · 0.2.46 - Patch for Cmd-k Generates
 version: 0.2.46
 ---
 
-# Cursor 0.2.46 - Patch for Cmd-k Generates
+<!-- chronolog:begin region="header" -->
+# Cursor · 0.2.46 - Patch for Cmd-k Generates
+
+**Cursor** · 2023-07-11 · [Official release notes](https://cursor.com/changelog/0-2-46)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 This update improves the prompt for Cmd-k when you don't have any code selected.
 
-[Official release notes](https://cursor.com/changelog/0-2-46)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- editor-experience: [[Changes/Cursor/2023-07-11-this-update-improves-the-prompt-for-cmd-k-when-you-don-t-have-any-code-selected|This update improves the prompt for Cmd-k when you don't have any code selected]]
+- [[Changes/Cursor/2023-07-11-this-update-improves-the-prompt-for-cmd-k-when-you-don-t-have-any-code-selected|This update improves the prompt for Cmd-k when you don't have any code selected]] · Editor Experience
 <!-- chronolog:end -->

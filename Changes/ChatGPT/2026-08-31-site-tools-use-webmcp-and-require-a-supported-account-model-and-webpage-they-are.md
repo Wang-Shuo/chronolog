@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2026-08-31-f1b6a5
 date: '2026-08-31'
+description: 'ChatGPT · 2026-08-31 · Mobile and Desktop: Site tools use WebMCP and
+  require a supported account, model, and webpage. They are available in the built-in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support 🥳]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1266
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: fb05f4b34be94274701a5ca7977a8ab493b0c84e1b2a11e5ead87fb0e1233a85
+machine_hash: a66b587ed2c7a7ddb9fe524ad0b02132433c42d378bd144cb3a869bba20c69c6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -52,9 +55,12 @@ record:
   title: Site tools use WebMCP and require a supported account, model, and webpage
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-31-side-chat-is-available-in-edge-brave-and-vivaldi-opera-supports-tab-mentions-and|chatgpt-2026-08-31-251b78]]'
-- '[[Changes/ChatGPT/2026-08-31-bring-your-browser-into-work-and-codex-mention-open-tabs-to-use-them-as-context|chatgpt-2026-08-31-39d388]]'
-- '[[Changes/ChatGPT/2026-08-31-chatgpt-work-and-codex-can-now-use-tools-that-supported-websites-provide-directl|chatgpt-2026-08-31-5aa461]]'
+- '[[Changes/ChatGPT/2026-08-31-side-chat-is-available-in-edge-brave-and-vivaldi-opera-supports-tab-mentions-and|Side
+  chat is available in Edge, Brave, and Vivaldi]]'
+- '[[Changes/ChatGPT/2026-08-31-bring-your-browser-into-work-and-codex-mention-open-tabs-to-use-them-as-context|Bring
+  your browser into Work and Codex]]'
+- '[[Changes/ChatGPT/2026-08-31-chatgpt-work-and-codex-can-now-use-tools-that-supported-websites-provide-directl|ChatGPT
+  Work and Codex can now use tools that supported websites provide directly…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-31-use-website-tools-in-the-desktop-browser-6c07f08a|chatgpt-2026-08-31-use-website-tools-in-the-desktop-browser-6c07f08a]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -62,10 +68,10 @@ title: Site tools use WebMCP and require a supported account, model, and webpage
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Site tools use WebMCP and require a supported account, model, and webpage
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Use website tools in the desktop browser: Site tools use WebMCP and require a supported account, model, and webpage. They are available in the built-in desktop browser, not through the Chrome extension. Existing website-access and sensitive-action confirmations still apply.
+**ChatGPT** · 2026-08-31 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-08-31-use-website-tools-in-the-desktop-browser-6c07f08a|Use website tools in the desktop browser]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -74,19 +80,25 @@ ChatGPT — Use website tools in the desktop browser: Site tools use WebMCP and 
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2026-08-31-chatgpt-work-and-codex-can-now-use-tools-that-supported-websites-provide-directl|ChatGPT Work and Codex can now use tools that supported websites provide directly…]] · Mobile and Desktop
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: mobile-desktop
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]
-- Lag Days: 1266
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Mobile and Desktop
+
+- Earlier: 2026-08-31 · ChatGPT · [[Changes/ChatGPT/2026-08-31-bring-your-browser-into-work-and-codex-mention-open-tabs-to-use-them-as-context|Bring your browser into Work and Codex]]
+- Later: 2026-09-08 · ChatGPT · [[Changes/ChatGPT/2026-09-08-edit-and-comment-on-mobile-open-a-generated-image-full-screen-to-edit-it-or-add|Edit and comment]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-31-f1b6a5&body=Card%3A%20Changes%2FChatGPT%2F2026-08-31-site-tools-use-webmcp-and-require-a-supported-account-model-and-webpage-they-are.md%0ACard%20ID%3A%20chatgpt-2026-08-31-f1b6a5%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

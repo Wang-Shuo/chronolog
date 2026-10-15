@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2026-03-24'
-machine_hash: 117fc7bd9dd7d474285b4fe681b306ee84c18d99b61ec6e4d78e2f28f880802e
+description: 'ChatGPT release Shopping updates in ChatGPT on 2026-03-24: 1 tracked
+  change across Search and Browsing'
+machine_hash: 04a6dbc1ddbcbd2aa52ea1a0fd6d45a6a91773a0b8f785f0e7fde6c78d7834c5
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 1
   date: '2026-03-24'
   product: chatgpt
   product_name: ChatGPT
@@ -25,22 +28,24 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Shopping updates in ChatGPT
+title: ChatGPT · Shopping updates in ChatGPT
 version: Shopping updates in ChatGPT
 ---
 
-# ChatGPT Shopping updates in ChatGPT
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Shopping updates in ChatGPT
+
+**ChatGPT** · 2026-03-24 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 We’ve improved shopping in ChatGPT to make it easier to discover, compare, and decide on products.Product results are now more visually rich, with improved detail and relevance. You can browse products in chat, refine results through conversation, and upload images to find similar items. Products can also be compared…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- search-browsing: [[Changes/ChatGPT/2026-03-24-we-ve-improved-shopping-in-chatgpt-to-make-it-easier-to-discover-compare-and-dec|ChatGPT improves shopping to make it easier to discover, compare, and decide on products]]
+- [[Changes/ChatGPT/2026-03-24-we-ve-improved-shopping-in-chatgpt-to-make-it-easier-to-discover-compare-and-dec|ChatGPT improves shopping to make it easier to discover, compare, and decide on products]] · Search and Browsing
 <!-- chronolog:end -->

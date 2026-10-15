@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2026-07-09-af71cf
 date: '2026-07-09'
+description: 'ChatGPT · 2026-07-09 · Collaboration: Existing group chats will remain
+  available and can continue to be used for now. When an existing group chat becomes…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|cursor-2023-09-08-8ba960]]'
+  first_in_tracked: '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams
+    can also share private docs]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1035
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 118788a6f7f27b37b8023f6f5a54bf30c67a74eb7d78b7e7fd9c79e9f9e46896
+machine_hash: d96717c24f645af07407995de8a2aac920c82618703a4758fa871874811779d6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,9 +47,12 @@ record:
     now
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-30-under-dashboard-plugins-mcps-team-marketplaces-restrict-marketplace-access-to-sp|cursor-2026-06-30-2b0a50]]'
-- '[[Changes/Cursor/2026-06-30-team-marketplaces-now-support-organization-groups-in-addition-to-team-level-scim|cursor-2026-06-30-509bdf]]'
-- '[[Changes/Cursor/2026-06-30-we-ve-expanded-team-marketplaces-to-support-team-mcps-and-organization-groups|cursor-2026-06-30-f93470]]'
+- '[[Changes/Cursor/2026-06-30-under-dashboard-plugins-mcps-team-marketplaces-restrict-marketplace-access-to-sp|Under
+  Dashboard - Plugins & MCPs - Team Marketplaces, restrict marketplace access…]]'
+- '[[Changes/Cursor/2026-06-30-team-marketplaces-now-support-organization-groups-in-addition-to-team-level-scim|Team
+  marketplaces now support organization groups, in addition to team-level SCIM…]]'
+- '[[Changes/Cursor/2026-06-30-we-ve-expanded-team-marketplaces-to-support-team-mcps-and-organization-groups|Cursor
+  expands team marketplaces to support Team MCPs and organization groups]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-retiring-group-chats-in-chatgpt-b45b9e40|chatgpt-2026-07-09-retiring-group-chats-in-chatgpt-b45b9e40]]'
 source_type: chatgpt_changelog
 theme: collaboration
@@ -55,10 +61,10 @@ title: Existing group chats will remain available and can continue to be used fo
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Existing group chats will remain available and can continue to be used for now
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Retiring group chats in ChatGPT: Existing group chats will remain available and can continue to be used for now. When an existing group chat becomes read-only, users will retain access to the messages, files, and images already shared there. Individual ChatGPT conversations are unaffected.
+**ChatGPT** · 2026-07-09 · [[Themes/collaboration|Collaboration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-07-09-retiring-group-chats-in-chatgpt-b45b9e40|Retiring group chats in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -67,19 +73,25 @@ ChatGPT — Retiring group chats in ChatGPT: Existing group chats will remain av
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2026-07-09-beginning-july-9-users-on-web-ios-and-android-will-no-longer-be-able-to-create-n|Beginning July 9, users on web, iOS, and Android will no longer be able to create…]] · Mobile and Desktop
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: collaboration
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|cursor-2023-09-08-8ba960]]
-- Lag Days: 1035
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Collaboration
+
+- Earlier: 2026-06-30 · Cursor · [[Changes/Cursor/2026-06-30-we-ve-expanded-team-marketplaces-to-support-team-mcps-and-organization-groups|Cursor expands team marketplaces to support Team MCPs and organization groups]]
+- Later: 2026-08-13 · ChatGPT · [[Changes/ChatGPT/2026-08-13-the-initial-experience-includes-my-drive-and-files-and-folders-shared-directly-w|The initial experience includes My Drive and files and folders shared directly with you]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-09-08 · Cursor · [[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams can also share private docs]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-07-09-af71cf&body=Card%3A%20Changes%2FChatGPT%2F2026-07-09-existing-group-chats-will-remain-available-and-can-continue-to-be-used-for-now-w.md%0ACard%20ID%3A%20chatgpt-2026-07-09-af71cf%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

@@ -1,8 +1,12 @@
 ---
 card_id: cursor-2026-08-19-0b85af
 date: '2026-08-19'
+description: 'Cursor · 2026-08-19 · Agent Mode: With this release, cloud agents can
+  automatically pick up work in response to events, hold a goal until it''s met, and
+  stay on…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
+    to the first nightly release!]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1140
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: c267ef1ecb51cb20cb59e5ef54ce941a9732496cc9456121ff129e57d7bfa6df
+machine_hash: 6e1fa757a3a455d488c42987859c5eb9095e1cabb9119c4c2489861a866197eb
 product: cursor
 product_name: Cursor
 record:
@@ -39,9 +43,12 @@ record:
   title: With this release, cloud agents can automatically pick up work in response…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-08-13-when-a-bad-commit-or-dependency-update-breaks-your-environment-agents-keep-using|cursor-2026-08-13-8929fd]]'
-- '[[Changes/Cursor/2026-08-13-use-your-install-command-for-anything-that-can-be-prepared-ahead-of-time-the-sta|cursor-2026-08-13-d55c47]]'
-- '[[Changes/Claude Code/2026-08-19-improved-auto-mode-monitor-allow-rules-are-now-set-aside-while-auto-mode-is-acti|claude-code-2026-08-19-a14b9f]]'
+- '[[Changes/Cursor/2026-08-13-when-a-bad-commit-or-dependency-update-breaks-your-environment-agents-keep-using|When
+  a bad commit or dependency update breaks your environment, agents keep using…]]'
+- '[[Changes/Cursor/2026-08-13-use-your-install-command-for-anything-that-can-be-prepared-ahead-of-time-the-sta|Use
+  your install command for anything that can be prepared ahead of time]]'
+- '[[Changes/Claude Code/2026-08-19-improved-auto-mode-monitor-allow-rules-are-now-set-aside-while-auto-mode-is-acti|Improved
+  auto mode]]'
 source_release: '[[Releases/Cursor/cursor-2026-08-19-cloud-agents-and-cursor-harness-improvements-https-cursor-com-ch-a4daf0c1|cursor-2026-08-19-cloud-agents-and-cursor-harness-improvements-https-cursor-com-ch-a4daf0c1]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -49,10 +56,10 @@ title: With this release, cloud agents can automatically pick up work in respons
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # With this release, cloud agents can automatically pick up work in response…
 
-<!-- chronolog:begin region="description" -->
-Cursor — Cloud Agents and Cursor Harness Improvements: With this release, cloud agents can automatically pick up work in response to events, hold a goal until it's met, and stay on course through long-running sessions.
+**Cursor** · 2026-08-19 · [[Themes/agent-mode|Agent Mode]] · [Official source](https://cursor.com/changelog/08-19-26) · from [[Releases/Cursor/cursor-2026-08-19-cloud-agents-and-cursor-harness-improvements-https-cursor-com-ch-a4daf0c1|Cloud Agents and Cursor Harness Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -61,19 +68,28 @@ Cursor — Cloud Agents and Cursor Harness Improvements: With this release, clou
 > Source: https://cursor.com/changelog/08-19-26
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2026-08-19-use-any-skill-as-a-custom-mode-a-skill-that-stays-pinned-in-the-chat-custom-mode|Use any skill as a Custom Mode: a skill that stays pinned in the chat]] · Agent Mode
+- [[Changes/Cursor/2026-08-19-cloud-agents-automatically-subscribe-to-prs-they-create-and-drive-them-to-comple|Cloud agents automatically subscribe to PRs they create and drive them…]] · Apps and Integrations
+- [[Changes/Cursor/2026-08-19-cursor-can-now-monitor-your-prs-watch-a-slack-thread-or-run-scheduled-tasks-curs|Cursor can now monitor your PRs, watch a Slack thread, or run scheduled tasks]] · Agent Mode
+- [[Changes/Cursor/2026-08-19-we-re-continuing-to-improve-cloud-agents-and-the-cursor-harness-so-always-on-age|We're continuing to improve cloud agents and the Cursor harness so always-on agents…]] · Agent Mode
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: agent-mode
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]
-- Lag Days: 1140
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Agent Mode
+
+- Earlier: 2026-08-19 · Claude Code · [[Changes/Claude Code/2026-08-19-improved-auto-mode-monitor-allow-rules-are-now-set-aside-while-auto-mode-is-acti|Improved auto mode]]
+- Later: 2026-08-27 · Claude Code · [[Changes/Claude Code/2026-08-27-added-experimental-cachettl-5m-or-1h-to-agent-frontmatter-a-per-agent-prompt-cac|Added experimental.cacheTtl ("5m" or "1h") to agent frontmatter]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2026-08-19-0b85af&body=Card%3A%20Changes%2FCursor%2F2026-08-19-with-this-release-cloud-agents-can-automatically-pick-up-work-in-response-to-eve.md%0ACard%20ID%3A%20cursor-2026-08-19-0b85af%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F08-19-26%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

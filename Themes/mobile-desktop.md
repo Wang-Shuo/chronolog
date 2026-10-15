@@ -1,7 +1,9 @@
 ---
 created: '2023-03-14'
 date: '2026-10-09'
-machine_hash: fe46501259d74a22063e765016952e81e0ed20e9d38409bba79dfe02c8100b80
+description: Cross-product timeline of Mobile and Desktop changes in ChatGPT, Claude
+  Code and Cursor.
+machine_hash: 2058bd681bdc5a1a39909b502270fb5b4d52f3e69a789087b6ab925018bda083
 modified: '2026-10-09'
 products_involved:
 - ChatGPT
@@ -13,10 +15,12 @@ tags:
 - theme
 - moc
 theme: mobile-desktop
-title: Mobile Desktop
+title: Mobile and Desktop
 ---
 
-# Theme: mobile-desktop
+<!-- chronolog:begin region="header" -->
+# Mobile and Desktop
+<!-- chronolog:end -->
 
 ## Research summary
 <!-- chronolog:begin region="narrative" -->

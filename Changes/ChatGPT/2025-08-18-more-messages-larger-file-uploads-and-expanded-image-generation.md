@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2025-08-18-d19989
 date: '2025-08-18'
+description: 'ChatGPT · 2025-08-18 · Image Generation: More messages, larger file
+  uploads, and expanded image generation'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|chatgpt-2024-01-10-71db32]]'
+  first_in_tracked: '[[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|The
+    store features a diverse range of GPTs developed by our partners and the community]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 586
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 8a4dea18cadda7913185358d980ae5faa4dd450c76450fa0cec41e54df76328e
+machine_hash: ff407cbcbaf4cb115eb5f8a971911b75564e5106516f45972f330a259466599c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,9 +41,12 @@ record:
   title: More messages, larger file uploads, and expanded image generation
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-03-18-1-increased-the-default-size-for-in-line-generated-images|chatgpt-2025-03-18-c062cb]]'
-- '[[Changes/ChatGPT/2025-04-15-all-images-you-create-with-chatgpt-are-now-automatically-saved-to-a-new-library|chatgpt-2025-04-15-98ee2f]]'
-- '[[Changes/ChatGPT/2025-08-08-we-re-rolling-out-a-small-update-to-image-generation-for-chatgpt-free-tier-users|chatgpt-2025-08-08-76f37a]]'
+- '[[Changes/ChatGPT/2025-03-18-1-increased-the-default-size-for-in-line-generated-images|Increased
+  the default size for in‐line generated images]]'
+- '[[Changes/ChatGPT/2025-04-15-all-images-you-create-with-chatgpt-are-now-automatically-saved-to-a-new-library|All
+  images you create with ChatGPT are now automatically saved to a new Library…]]'
+- '[[Changes/ChatGPT/2025-08-08-we-re-rolling-out-a-small-update-to-image-generation-for-chatgpt-free-tier-users|ChatGPT
+  rolls out a small update to image generation for ChatGPT Free tier users…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-18-introducing-chatgpt-go-fbc1ef7a|chatgpt-2025-08-18-introducing-chatgpt-go-fbc1ef7a]]'
 source_type: chatgpt_changelog
 theme: image-generation
@@ -48,10 +54,10 @@ title: More messages, larger file uploads, and expanded image generation
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # More messages, larger file uploads, and expanded image generation
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Introducing ChatGPT Go: More messages, larger file uploads, and expanded image generation
+**ChatGPT** · 2025-08-18 · [[Themes/image-generation|Image Generation]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-08-18-introducing-chatgpt-go-fbc1ef7a|Introducing ChatGPT Go]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -60,19 +66,27 @@ ChatGPT — Introducing ChatGPT Go: More messages, larger file uploads, and expa
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2025-08-18-available-on-web-mobile-ios-android-and-desktop-macos-windows-chatgpt-go-is-geo|Available on web, mobile (iOS & Android), and desktop (macOS & Windows)]] · Mobile and Desktop
+- [[Changes/ChatGPT/2025-08-18-longer-memory-for-more-personalized-responses|Longer memory for more personalized responses]] · Memory and Personalization
+- [[Changes/ChatGPT/2025-08-18-we-re-launching-chatgpt-go-a-new-low-cost-subscription-plan-this-will-initially-e5f740|ChatGPT launches ChatGPT Go, a new low-cost subscription plan]] · Pricing Model
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: image-generation
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|chatgpt-2024-01-10-71db32]]
-- Lag Days: 586
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Image Generation
+
+- Earlier: 2025-08-08 · ChatGPT · [[Changes/ChatGPT/2025-08-08-we-re-rolling-out-a-small-update-to-image-generation-for-chatgpt-free-tier-users|ChatGPT rolls out a small update to image generation for ChatGPT Free tier users…]]
+- Later: 2025-09-22 · ChatGPT · [[Changes/ChatGPT/2025-09-22-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2024-01-10 · ChatGPT · [[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|The store features a diverse range of GPTs developed by our partners and the community]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-08-18-d19989&body=Card%3A%20Changes%2FChatGPT%2F2025-08-18-more-messages-larger-file-uploads-and-expanded-image-generation.md%0ACard%20ID%3A%20chatgpt-2025-08-18-d19989%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

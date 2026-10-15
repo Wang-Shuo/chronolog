@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2026-05-07-9cdfdf
 date: '2026-05-07'
+description: 'Cursor · 2026-05-07 · Interface Experience: The Changes tab makes it
+  easier to navigate larger PRs with a file tree and changes picker.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
+    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1214
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: a6379dd7942210edf71437b14482c191e62924e36c825c50dcbbd1f2b3790b6b
+machine_hash: 8c0382330ea5070940bf3cbb3d7d08523579e6d100c77d7e1566192b6a07221a
 product: cursor
 product_name: Cursor
 record:
@@ -48,9 +51,12 @@ record:
     changes picker
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-06-added-claude-code-disable-alternate-screen-1-env-var-to-opt-out-of-the-fullscree|claude-code-2026-05-06-6aaf8f]]'
-- '[[Changes/Claude Code/2026-05-06-added-a-pasting-footer-hint-while-a-ctrl-v-image-paste-is-being-read-from-the-cl|claude-code-2026-05-06-ad5c79]]'
-- '[[Changes/Claude Code/2026-05-07-improved-focus-mode-behavior|claude-code-2026-05-07-b0a67e]]'
+- '[[Changes/Claude Code/2026-05-06-added-claude-code-disable-alternate-screen-1-env-var-to-opt-out-of-the-fullscree|Added
+  CLAUDE_CODE_DISABLE_ALTERNATE_SCREEN=1 env var to opt out of the fullscreen…]]'
+- '[[Changes/Claude Code/2026-05-06-added-a-pasting-footer-hint-while-a-ctrl-v-image-paste-is-being-read-from-the-cl|Added
+  a "Pasting…" footer hint while a Ctrl+V image paste is being read from the clipboard]]'
+- '[[Changes/Claude Code/2026-05-07-improved-focus-mode-behavior|Improved focus mode
+  behavior]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-07-3-3-https-cursor-com-changelog-05-07-26-9d8a16d3|cursor-2026-05-07-3-3-https-cursor-com-changelog-05-07-26-9d8a16d3]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -59,10 +65,10 @@ title: The Changes tab makes it easier to navigate larger PRs with a file tree a
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # The Changes tab makes it easier to navigate larger PRs with a file tree and changes picker
 
-<!-- chronolog:begin region="description" -->
-Cursor — PR Review, Build Plan in Parallel, and Split PRs: The Changes tab makes it easier to navigate larger PRs with a file tree and changes picker.
+**Cursor** · 2026-05-07 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://cursor.com/changelog/05-07-26) · from [[Releases/Cursor/cursor-2026-05-07-3-3-https-cursor-com-changelog-05-07-26-9d8a16d3|PR Review, Build Plan in Parallel, and Split PRs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -71,19 +77,28 @@ Cursor — PR Review, Build Plan in Parallel, and Split PRs: The Changes tab mak
 > Source: https://cursor.com/changelog/05-07-26
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2026-05-07-a-new-pr-review-experience-is-now-available-in-cursor-3-take-prs-from-creation-t|A new PR review experience is now available in Cursor 3]] · Developer Workflow
+- [[Changes/Cursor/2026-05-07-the-commits-tab-gives-you-a-focused-view-of-commit-history-for-the-pr|The Commits tab gives you a focused view of commit history for the PR]] · Editor Experience
+- [[Changes/Cursor/2026-05-07-this-release-introduces-a-new-pr-review-experience-faster-execution-on-plans-thr|Cursor introduces a new PR review experience, faster execution on plans through…]] · Developer Workflow
+- [[Changes/Cursor/2026-05-07-the-reviews-tab-now-shows-inline-review-threads-and-top-level-pr-comments|The Reviews tab now shows inline review threads and top-level PR comments]] · Editor Experience
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: interface-experience
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]
-- Lag Days: 1214
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Interface Experience
+
+- Earlier: 2026-05-07 · Claude Code · [[Changes/Claude Code/2026-05-07-improved-focus-mode-behavior|Improved focus mode behavior]]
+- Later: 2026-05-11 · Claude Code · [[Changes/Claude Code/2026-05-11-added-transcript-view-navigation-for-keyboard-shortcuts-to-jump-between-user-pro|Added transcript view navigation]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2026-05-07-9cdfdf&body=Card%3A%20Changes%2FCursor%2F2026-05-07-the-changes-tab-makes-it-easier-to-navigate-larger-prs-with-a-file-tree-and-chan.md%0ACard%20ID%3A%20cursor-2026-05-07-9cdfdf%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F05-07-26%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

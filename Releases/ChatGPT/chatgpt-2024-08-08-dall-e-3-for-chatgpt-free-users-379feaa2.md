@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2024-08-08'
-machine_hash: 4ec617b9647ff696d21ce247c00c5c51530bf298e92c421907606573df3675b6
+description: 'ChatGPT release DALL·E 3 for ChatGPT Free users on 2024-08-08: 1 tracked
+  change across Image Generation'
+machine_hash: 97236f8220d5eb5c3ef387ed35811526f766e091170a4534a55b9ec1f053a528
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 1
   date: '2024-08-08'
   product: chatgpt
   product_name: ChatGPT
@@ -24,22 +27,24 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — DALL·E 3 for ChatGPT Free users
+title: ChatGPT · DALL·E 3 for ChatGPT Free users
 version: DALL·E 3 for ChatGPT Free users
 ---
 
-# ChatGPT DALL·E 3 for ChatGPT Free users
+<!-- chronolog:begin region="header" -->
+# ChatGPT · DALL·E 3 for ChatGPT Free users
+
+**ChatGPT** · 2024-08-08 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 We’re rolling out the ability for ChatGPT Free users to create up to two images per day with DALL·E 3.Just ask ChatGPT to create an image for a slide deck, personalize a card for a friend, or show you what something looks like.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- image-generation: [[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|ChatGPT rolls out the ability for ChatGPT Free users to create up to two images per…]]
+- [[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|ChatGPT rolls out the ability for ChatGPT Free users to create up to two images per…]] · Image Generation
 <!-- chronolog:end -->

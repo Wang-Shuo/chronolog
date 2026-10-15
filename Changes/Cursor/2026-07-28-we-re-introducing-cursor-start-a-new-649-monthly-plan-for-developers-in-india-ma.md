@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2026-07-28-50e16f
 date: '2026-07-28'
+description: 'Cursor · 2026-07-28 · Pricing Model: We''re introducing Cursor Start,
+  a new ₹649 monthly plan for developers in India, making daily agentic development…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|chatgpt-2022-12-15-6d306d]]'
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
+    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1321
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 3e62d36c8f5b9a1f31344bcd5ba7c03590112eac1eaaedb900baa76d150c459b
+machine_hash: 7e4d5d2571c5b4276f76cb0752d768b7bcf995e7c1aa8248b473becfacc14dfc
 product: cursor
 product_name: Cursor
 record:
@@ -52,9 +55,12 @@ record:
     India…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-18-standard-0-50-m-input-2-50-m-output-tokens|cursor-2026-05-18-5a9507]]'
-- '[[Changes/Claude Code/2026-05-19-renamed-extra-usage-to-usage-credits-across-cli-copy-extra-usage-is-now-usage-cr|claude-code-2026-05-19-3cdb1c]]'
-- '[[Changes/Cursor/2026-07-22-cost-good-quality-reaching-the-highest-available-intelligence-while-optimizing-t|cursor-2026-07-22-a97786]]'
+- '[[Changes/Cursor/2026-05-18-standard-0-50-m-input-2-50-m-output-tokens|Standard:
+  $0.50/M input, $2.50/M output tokens]]'
+- '[[Changes/Claude Code/2026-05-19-renamed-extra-usage-to-usage-credits-across-cli-copy-extra-usage-is-now-usage-cr|Renamed
+  "extra usage" to "usage credits" across CLI copy]]'
+- '[[Changes/Cursor/2026-07-22-cost-good-quality-reaching-the-highest-available-intelligence-while-optimizing-t|Cost:
+  Good quality, reaching the highest available intelligence while optimizing…]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-28-cursor-start-https-cursor-com-changelog-cursor-start-386914df|cursor-2026-07-28-cursor-start-https-cursor-com-changelog-cursor-start-386914df]]'
 source_type: cursor_changelog
 theme: pricing-model
@@ -62,10 +68,10 @@ title: Cursor introduces Cursor Start, a new ₹649 monthly plan for developers 
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Cursor introduces Cursor Start, a new ₹649 monthly plan for developers in India…
 
-<!-- chronolog:begin region="description" -->
-Cursor — Cursor Start: We're introducing Cursor Start, a new ₹649 monthly plan for developers in India, making daily agentic development accessible and payment easy with local pricing and UPI.
+**Cursor** · 2026-07-28 · [[Themes/pricing-model|Pricing Model]] · [Official source](https://cursor.com/changelog/cursor-start) · from [[Releases/Cursor/cursor-2026-07-28-cursor-start-https-cursor-com-changelog-cursor-start-386914df|Cursor Start]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -74,19 +80,27 @@ Cursor — Cursor Start: We're introducing Cursor Start, a new ₹649 monthly pl
 > Source: https://cursor.com/changelog/cursor-start
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2026-07-28-start-bills-monthly-with-auto-renewal-and-is-available-from-july-28-2026|Start bills monthly with auto-renewal and is available from July 28, 2026]] · Pricing Model
+- [[Changes/Cursor/2026-07-28-always-on-cloud-agents-that-build-test-and-ship-code-while-you-keep-working|Always-on cloud agents that build, test, and ship code while you keep working]] · Agent Mode
+- [[Changes/Cursor/2026-07-28-existing-free-users-in-india-can-upgrade-their-plan-from-the-dashboard-new-users|Existing Free users in India can upgrade their plan from the dashboard]] · Interface Experience
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: pricing-model
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|chatgpt-2022-12-15-6d306d]]
-- Lag Days: 1321
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Pricing Model
+
+- Earlier: 2026-07-22 · Cursor · [[Changes/Cursor/2026-07-22-cost-good-quality-reaching-the-highest-available-intelligence-while-optimizing-t|Cost: Good quality, reaching the highest available intelligence while optimizing…]]
+- Later: 2026-07-29 · ChatGPT · [[Changes/ChatGPT/2026-07-29-research-rarely-happens-alone-chatgpt-for-academic-researchers-gives-faculty-and|Research rarely happens alone]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2026-07-28-50e16f&body=Card%3A%20Changes%2FCursor%2F2026-07-28-we-re-introducing-cursor-start-a-new-649-monthly-plan-for-developers-in-india-ma.md%0ACard%20ID%3A%20cursor-2026-07-28-50e16f%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2Fcursor-start%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

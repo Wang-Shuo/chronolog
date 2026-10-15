@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2023-08-01'
-machine_hash: 9ff8ede66ba2083a7350701097212fa4b78141e07895471272cdecbb4f36d73c
+description: 'Cursor release Improved linter on 2023-08-01: 1 tracked change across
+  Developer Workflow'
+machine_hash: 857c3e6f52e8c2b4433c094641d90af17fe82be4adfbd9c6fa1cdea8adf7df8e
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2023-08-01'
   product: cursor
   product_name: Cursor
@@ -24,22 +27,24 @@ source_url: https://cursor.com/changelog/0-6-1-nightly-0-6-2-nightly
 tags:
 - release
 - cursor
-title: Cursor — Improved linter
+title: Cursor · Improved linter
 version: 0.6.1-nightly-0.6.2-nightly
 ---
 
-# Cursor Improved linter
+<!-- chronolog:begin region="header" -->
+# Cursor · Improved linter
+
+**Cursor** · 2023-08-01 · [Official release notes](https://cursor.com/changelog/0-6-1-nightly-0-6-2-nightly)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Improved linter! Please give us feedback on the linter suggestions using the smiley faces. If you would like, you can make it more aggressive by going to the More tab and then clicking on "Advanced linter settings" at the bottom. Let us know what you think in the Discord.
 
-[Official release notes](https://cursor.com/changelog/0-6-1-nightly-0-6-2-nightly)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- developer-workflow: [[Changes/Cursor/2023-08-01-improved-linter-please-give-us-feedback-on-the-linter-suggestions-using-the-smil|Improved linter! Please give us feedback on the linter suggestions using the smiley faces]]
+- [[Changes/Cursor/2023-08-01-improved-linter-please-give-us-feedback-on-the-linter-suggestions-using-the-smil|Improved linter! Please give us feedback on the linter suggestions using the smiley faces]] · Developer Workflow
 <!-- chronolog:end -->

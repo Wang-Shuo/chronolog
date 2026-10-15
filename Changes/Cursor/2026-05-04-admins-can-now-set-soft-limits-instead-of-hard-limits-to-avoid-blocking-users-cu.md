@@ -1,8 +1,12 @@
 ---
 card_id: cursor-2026-05-04-fb350d
 date: '2026-05-04'
+description: 'Cursor · 2026-05-04 · Enterprise and Administration: Admins can now
+  set soft limits instead of hard limits to avoid blocking users. Cursor can also
+  monitor…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|chatgpt-2025-06-12-1cc56f]]'
+  first_in_tracked: '[[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise
+    and Edu rollout coming soon]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 326
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 10e4c818ce44b2aecdb37ad7bd20bd90b947c6553e2850501eeb48aede60b376
+machine_hash: e6610853bf170b2026b5a7b026a51b2555ec77a48b824e2c532125c76cb0a52f
 product: cursor
 product_name: Cursor
 record:
@@ -40,9 +44,12 @@ record:
   title: Admins can now set soft limits instead of hard limits to avoid blocking users
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-23-added-disable-updates-env-var-to-completely-block-all-update-paths-including-man|claude-code-2026-04-23-85de42]]'
-- '[[Changes/Claude Code/2026-04-28-pasting-a-pr-url-into-the-resume-search-box-now-finds-the-session-that-created-t|claude-code-2026-04-28-318ef9]]'
-- '[[Changes/Cursor/2026-05-04-this-release-introduces-updates-for-enterprise-admins-a-new-system-for-model-con|cursor-2026-05-04-3db092]]'
+- '[[Changes/Claude Code/2026-04-23-added-disable-updates-env-var-to-completely-block-all-update-paths-including-man|Added
+  DISABLE_UPDATES env var to completely block all update paths including…]]'
+- '[[Changes/Claude Code/2026-04-28-pasting-a-pr-url-into-the-resume-search-box-now-finds-the-session-that-created-t|Pasting
+  a PR URL into the /resume search box now finds the session that created…]]'
+- '[[Changes/Cursor/2026-05-04-this-release-introduces-updates-for-enterprise-admins-a-new-system-for-model-con|Cursor
+  introduces updates for Enterprise admins]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-04-model-controls-spend-management-and-usage-analytics-https-cursor-1ab41047|cursor-2026-05-04-model-controls-spend-management-and-usage-analytics-https-cursor-1ab41047]]'
 source_type: cursor_changelog
 theme: enterprise-admin
@@ -50,10 +57,10 @@ title: Admins can now set soft limits instead of hard limits to avoid blocking u
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Admins can now set soft limits instead of hard limits to avoid blocking users
 
-<!-- chronolog:begin region="description" -->
-Cursor — Model controls, spend management, and usage analytics: Admins can now set soft limits instead of hard limits to avoid blocking users. Cursor can also monitor usage and sends automatic alerts to users reaching 50%, 80%, and 100% of their soft or hard limits.
+**Cursor** · 2026-05-04 · [[Themes/enterprise-admin|Enterprise and Administration]] · [Official source](https://cursor.com/changelog/05-04-26) · from [[Releases/Cursor/cursor-2026-05-04-model-controls-spend-management-and-usage-analytics-https-cursor-1ab41047|Model controls, spend management, and usage analytics]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -62,19 +69,28 @@ Cursor — Model controls, spend management, and usage analytics: Admins can now
 > Source: https://cursor.com/changelog/05-04-26
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2026-05-04-this-release-introduces-updates-for-enterprise-admins-a-new-system-for-model-con|Cursor introduces updates for Enterprise admins]] · Enterprise and Administration
+- [[Changes/Cursor/2026-05-04-admins-can-now-set-more-granular-allow-or-blocklists-at-the-model-and-provider-l|Admins can now set more granular allow or blocklists at the model and provider level]] · Context Window
+- [[Changes/Cursor/2026-05-04-enterprises-also-have-the-option-to-block-new-providers-or-model-versions-by-def|Enterprises also have the option to block new providers or model versions by default]] · Model Support
+- [[Changes/Cursor/2026-05-04-customers-with-existing-blocklists-will-need-to-migrate-to-the-new-system-by-jun|Customers with existing blocklists will need to migrate to the new system by June 1st]] · Collaboration
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: enterprise-admin
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|chatgpt-2025-06-12-1cc56f]]
-- Lag Days: 326
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Enterprise and Administration
+
+- Earlier: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-pasting-a-pr-url-into-the-resume-search-box-now-finds-the-session-that-created-t|Pasting a PR URL into the /resume search box now finds the session that created…]]
+- Later: 2026-05-07 · Claude Code · [[Changes/Claude Code/2026-05-07-added-parentsettingsbehavior-admin-tier-key-first-wins-merge-to-let-admins-opt-s|Added parentSettingsBehavior admin-tier key ('first-wins'  /  'merge') to let…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise and Edu rollout coming soon]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2026-05-04-fb350d&body=Card%3A%20Changes%2FCursor%2F2026-05-04-admins-can-now-set-soft-limits-instead-of-hard-limits-to-avoid-blocking-users-cu.md%0ACard%20ID%3A%20cursor-2026-05-04-fb350d%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F05-04-26%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2023-09-11'
-machine_hash: a3d309c72d50f5a839a59d46de3ec77b38cb2907effcbca370c18d2933c49792
+description: 'Cursor release Cursor Marketplace on 2023-09-11: 1 tracked change across
+  Apps and Integrations'
+machine_hash: 5ef0549c89244848384dc082a6e0e3b2e6053fd792cc6fcc8e80c21574bbe160
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2023-09-11'
   product: cursor
   product_name: Cursor
@@ -21,22 +24,24 @@ source_url: https://cursor.com/changelog/0-10-6-nightly
 tags:
 - release
 - cursor
-title: Cursor — Cursor Marketplace
+title: Cursor Marketplace
 version: 0.10.6-nightly
 ---
 
-# Cursor Cursor Marketplace
+<!-- chronolog:begin region="header" -->
+# Cursor Marketplace
+
+**Cursor** · 2023-09-11 · [Official release notes](https://cursor.com/changelog/0-10-6-nightly)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 We serve extensions now using Cursor's Extension Marketplace
 
-[Official release notes](https://cursor.com/changelog/0-10-6-nightly)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- apps-integrations: [[Changes/Cursor/2023-09-11-we-serve-extensions-now-using-cursor-s-extension-marketplace|We serve extensions now using Cursor's Extension Marketplace]]
+- [[Changes/Cursor/2023-09-11-we-serve-extensions-now-using-cursor-s-extension-marketplace|We serve extensions now using Cursor's Extension Marketplace]] · Apps and Integrations
 <!-- chronolog:end -->

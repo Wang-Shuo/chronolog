@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2025-02-21-ddab00
 date: '2025-02-21'
+description: 'ChatGPT · 2025-02-21 · Reliability and Performance: 2⁠. Text selection
+  improvements: you can now select text across horizontal rulers. 3. Performance…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|chatgpt-2022-12-15-9c6f9c]]'
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
+    performance: Among other improvements, users will notice that ChatGPT is now…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 799
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: b7cf0e4b8226fbeae58d551d9082b2934f8cf7befbb33a683bf0c4001cad19f9
+machine_hash: 7941049e38b49a80f41cd55a3e41592d0bd46c724cec44bd37447e170502c59f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -57,9 +60,12 @@ record:
   title: 'Text selection improvements: you can now select text across horizontal rulers'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-09-17-apply-and-composer-are-slightly-faster-in-this-release|cursor-2024-09-17-178242]]'
-- '[[Changes/Cursor/2024-09-17-cursor-tab-now-auto-imports-symbols-in-python-files-we-ve-also-significantly-imp|cursor-2024-09-17-4f345d]]'
-- '[[Changes/Cursor/2024-09-17-composer-can-now-be-added-to-the-ai-pane-this-release-also-includes-many-stabili|cursor-2024-09-17-962474]]'
+- '[[Changes/Cursor/2024-09-17-apply-and-composer-are-slightly-faster-in-this-release|Apply
+  and Composer are slightly faster in this release]]'
+- '[[Changes/Cursor/2024-09-17-cursor-tab-now-auto-imports-symbols-in-python-files-we-ve-also-significantly-imp|Cursor
+  Tab now auto-imports symbols in Python files!]]'
+- '[[Changes/Cursor/2024-09-17-composer-can-now-be-added-to-the-ai-pane-this-release-also-includes-many-stabili|Composer
+  can now be added to the AI pane]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-02-21-1-6b86b273|chatgpt-2025-02-21-1-6b86b273]]'
 source_type: chatgpt_changelog
 theme: reliability-performance
@@ -67,10 +73,10 @@ title: 'Text selection improvements: you can now select text across horizontal r
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Text selection improvements: you can now select text across horizontal rulers
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — 1⁠.: 2⁠. Text selection improvements: you can now select text across horizontal rulers. 3. Performance improvements: Improved model header loading behavior. Conversation history and GPTs show up faster. 4. Bug fix for logged-out users: 401s when dismissing tooltips. 401s logging out users on Android.
+**ChatGPT** · 2025-02-21 · [[Themes/reliability-performance|Reliability and Performance]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-02-21-1-6b86b273|1⁠.]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -79,19 +85,25 @@ ChatGPT — 1⁠.: 2⁠. Text selection improvements: you can now select text ac
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2025-02-21-1-ios-widget-see-below|iOS widget (see below)]] · Mobile and Desktop
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: reliability-performance
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|chatgpt-2022-12-15-9c6f9c]]
-- Lag Days: 799
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Reliability and Performance
+
+- Earlier: 2024-09-17 · Cursor · [[Changes/Cursor/2024-09-17-composer-can-now-be-added-to-the-ai-pane-this-release-also-includes-many-stabili|Composer can now be added to the AI pane]]
+- Later: 2025-03-11 · Cursor · [[Changes/Cursor/2025-03-11-0-47-1-improved-performance-added-back-play-button-to-apply-code-blocks|0.47.1: Improved performance, added back play button to apply code blocks]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-02-21-ddab00&body=Card%3A%20Changes%2FChatGPT%2F2025-02-21-2-text-selection-improvements-you-can-now-select-text-across-horizontal-rulers-3.md%0ACard%20ID%3A%20chatgpt-2025-02-21-ddab00%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

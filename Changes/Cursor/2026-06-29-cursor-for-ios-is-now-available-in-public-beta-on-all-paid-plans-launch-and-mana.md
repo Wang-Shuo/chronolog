@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2026-06-29-6ebb5e
 date: '2026-06-29'
+description: 'Cursor · 2026-06-29 · Mobile and Desktop: Cursor for iOS is now available
+  in public beta on all paid plans. Launch and manage always-on agents from anywhere.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support 🥳]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1203
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 77a9bcfa32ecd4c7636dcf663e5ecc3c4ab035ef7d436f92d5326daabe84138b
+machine_hash: 6afbc52ef6b52bd13504fd919399ba675da536146c8622e6f0e37ecd73949540
 product: cursor
 product_name: Cursor
 record:
@@ -47,9 +50,12 @@ record:
   title: Cursor for iOS is now available in public beta on all paid plans
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-17-this-release-introduces-updates-to-cloud-agents-in-the-agents-window-of-the-curs|cursor-2026-06-17-eb2180]]'
-- '[[Changes/ChatGPT/2026-06-18-chatgpt-now-has-more-ways-to-help-with-common-questions-from-pronunciation-guida|chatgpt-2026-06-18-f650fa]]'
-- '[[Changes/Claude Code/2026-06-29-improved-background-session-reliability-long-running-commands-and-workflows-now|claude-code-2026-06-29-a914be]]'
+- '[[Changes/Cursor/2026-06-17-this-release-introduces-updates-to-cloud-agents-in-the-agents-window-of-the-curs|Cursor
+  introduces updates to cloud agents in the Agents Window of the Cursor desktop app]]'
+- '[[Changes/ChatGPT/2026-06-18-chatgpt-now-has-more-ways-to-help-with-common-questions-from-pronunciation-guida|ChatGPT
+  now has more ways to help with common questions, from pronunciation guidance…]]'
+- '[[Changes/Claude Code/2026-06-29-improved-background-session-reliability-long-running-commands-and-workflows-now|Improved
+  background session reliability]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-29-3-9-https-cursor-com-changelog-ios-mobile-app-d7278607|cursor-2026-06-29-3-9-https-cursor-com-changelog-ios-mobile-app-d7278607]]'
 source_type: cursor_changelog
 theme: mobile-desktop
@@ -57,10 +63,10 @@ title: Cursor for iOS is now available in public beta on all paid plans
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Cursor for iOS is now available in public beta on all paid plans
 
-<!-- chronolog:begin region="description" -->
-Cursor — Cursor Mobile App for iOS: Cursor for iOS is now available in public beta on all paid plans. Launch and manage always-on agents from anywhere.
+**Cursor** · 2026-06-29 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://cursor.com/changelog/ios-mobile-app) · from [[Releases/Cursor/cursor-2026-06-29-3-9-https-cursor-com-changelog-ios-mobile-app-d7278607|Cursor Mobile App for iOS]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -69,19 +75,27 @@ Cursor — Cursor Mobile App for iOS: Cursor for iOS is now available in public 
 > Source: https://cursor.com/changelog/ios-mobile-app
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2026-06-29-use-remote-control-in-the-agents-window-to-take-an-agent-you-re-running-on-your|Use Remote Control in the Agents Window to take an agent you're running…]] · Agent Mode
+- [[Changes/Cursor/2026-06-29-cloud-agents-run-in-isolated-virtual-machines-with-full-development-environments|Cloud agents run in isolated virtual machines with full development environments…]] · Agent Mode
+- [[Changes/Cursor/2026-06-29-open-the-cursor-mobile-app-choose-a-repo-and-launch-an-agent-the-same-way-you-wo|Open the Cursor mobile app, choose a repo, and launch an agent the same way you…]] · Voice and Audio
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: mobile-desktop
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]
-- Lag Days: 1203
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Mobile and Desktop
+
+- Earlier: 2026-06-29 · Claude Code · [[Changes/Claude Code/2026-06-29-improved-background-session-reliability-long-running-commands-and-workflows-now|Improved background session reliability]]
+- Later: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-to-create-a-site-start-in-chatgpt-work-on-the-web-or-in-work-or-codex-in-the-cha|To create a Site, start in ChatGPT Work on the web or in Work or Codex…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2026-06-29-6ebb5e&body=Card%3A%20Changes%2FCursor%2F2026-06-29-cursor-for-ios-is-now-available-in-public-beta-on-all-paid-plans-launch-and-mana.md%0ACard%20ID%3A%20cursor-2026-06-29-6ebb5e%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2Fios-mobile-app%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

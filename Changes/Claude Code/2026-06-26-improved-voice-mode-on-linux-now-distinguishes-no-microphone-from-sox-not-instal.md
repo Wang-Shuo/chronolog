@@ -1,8 +1,12 @@
 ---
 card_id: claude-code-2026-06-26-ebd81f
 date: '2026-06-26'
+description: 'Claude Code · 2026-06-26 · Voice and Audio: Improved voice mode on Linux:
+  now distinguishes "no microphone" from "SoX not installed" when SoX is present but
+  no…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|chatgpt-2023-09-25-13666e]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Use
+    voice to engage in a back-and-forth conversation with your assistant]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1005
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 957ea05e5f1a760d651c68c1962dd02f2ae29f978a49d33e14787692d8a2cd7d
+machine_hash: 940d6f2bd338cecb65c2242fc835207c50217ab52f9a87c8465c11a806944013
 product: claude-code
 product_name: Claude Code
 record:
@@ -38,9 +42,12 @@ record:
   title: Improved voice mode on Linux
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-05-with-design-mode-in-the-cursor-browser-you-can-click-draw-or-describe-changes-by|cursor-2026-06-05-a584ba]]'
-- '[[Changes/ChatGPT/2026-06-18-help-with-pronunciations-chatgpt-can-now-include-text-and-audio-pronunciation-gu|chatgpt-2026-06-18-659ffb]]'
-- '[[Changes/ChatGPT/2026-06-26-we-re-rolling-out-a-new-speech-to-text-model-for-dictation-in-chatgpt-across-all|chatgpt-2026-06-26-0ad2eb]]'
+- '[[Changes/Cursor/2026-06-05-with-design-mode-in-the-cursor-browser-you-can-click-draw-or-describe-changes-by|With
+  Design Mode in the Cursor browser, you can click, draw, or describe changes…]]'
+- '[[Changes/ChatGPT/2026-06-18-help-with-pronunciations-chatgpt-can-now-include-text-and-audio-pronunciation-gu|Help
+  with pronunciations]]'
+- '[[Changes/ChatGPT/2026-06-26-we-re-rolling-out-a-new-speech-to-text-model-for-dictation-in-chatgpt-across-all|ChatGPT
+  rolls out a new speech-to-text model for dictation across all plans]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-26-v2-1-195-github-345467919-2d39e460|claude-code-2026-06-26-v2-1-195-github-345467919-2d39e460]]'
 source_type: github_releases
 theme: voice
@@ -48,10 +55,10 @@ title: Improved voice mode on Linux
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Improved voice mode on Linux
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.195: Improved voice mode on Linux: now distinguishes "no microphone" from "SoX not installed" when SoX is present but no audio capture device exists
+**Claude Code** · 2026-06-26 · [[Themes/voice|Voice and Audio]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.195) · from [[Releases/Claude Code/claude-code-2026-06-26-v2-1-195-github-345467919-2d39e460|v2.1.195]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -60,19 +67,28 @@ Claude Code — v2.1.195: Improved voice mode on Linux: now distinguishes "no mi
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.195
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-06-26-fixed-external-plugins-enabled-only-by-project-claude-settings-json-not-requirin|Fixed external plugins enabled only by project .claude/settings.json not requiring…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-06-26-added-claude-code-disable-mouse-clicks-to-disable-mouse-click-drag-hover-in-full|Added CLAUDE_CODE_DISABLE_MOUSE_CLICKS to disable mouse click/drag/hover…]] · Interface Experience
+- [[Changes/Claude Code/2026-06-26-improved-remote-session-startup-with-a-provisioning-checklist-while-the-containe|Improved Remote session startup with a provisioning checklist while the container starts]] · Projects and Workspaces
+- [[Changes/Claude Code/2026-06-26-improved-claude-agents-completed-list-to-fill-available-vertical-space-on-short|Improved claude agents completed list to fill available vertical space]] · Agent Mode
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: voice
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|chatgpt-2023-09-25-13666e]]
-- Lag Days: 1005
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Voice and Audio
+
+- Earlier: 2026-06-26 · ChatGPT · [[Changes/ChatGPT/2026-06-26-we-re-rolling-out-a-new-speech-to-text-model-for-dictation-in-chatgpt-across-all|ChatGPT rolls out a new speech-to-text model for dictation across all plans]]
+- Later: 2026-06-29 · Cursor · [[Changes/Cursor/2026-06-29-open-the-cursor-mobile-app-choose-a-repo-and-launch-an-agent-the-same-way-you-wo|Open the Cursor mobile app, choose a repo, and launch an agent the same way you…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Use voice to engage in a back-and-forth conversation with your assistant]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-06-26-ebd81f&body=Card%3A%20Changes%2FClaude%20Code%2F2026-06-26-improved-voice-mode-on-linux-now-distinguishes-no-microphone-from-sox-not-instal.md%0ACard%20ID%3A%20claude-code-2026-06-26-ebd81f%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.195%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

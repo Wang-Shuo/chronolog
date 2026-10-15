@@ -1,10 +1,13 @@
 ---
 changes_count: 5
 date: '2023-08-22'
-machine_hash: df3adfb7de249774588db424efc69a13cfe42a78de747116bf5ec1f09a030194
+description: 'Cursor release Cmd-k Followups, chat with large files, and more on 2023-08-22:
+  5 tracked changes across Context Window, Editor Experience, Interface Experience'
+machine_hash: 5421c9a9e7c2ea5108daa1343409c8ab6bf78ba5290b2c9e4c68ed9a4e099319
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 7
   date: '2023-08-22'
   product: cursor
   product_name: Cursor
@@ -22,26 +25,28 @@ source_url: https://cursor.com/changelog/0-8-2
 tags:
 - release
 - cursor
-title: Cursor — Cmd-k Followups, chat with large files, and more
+title: Cursor · Cmd-k Followups, chat with large files, and more
 version: 0.8.2
 ---
 
-# Cursor Cmd-k Followups, chat with large files, and more
+<!-- chronolog:begin region="header" -->
+# Cursor · Cmd-k Followups, chat with large files, and more
+
+**Cursor** · 2023-08-22 · [Official release notes](https://cursor.com/changelog/0-8-2)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 You can now reply to Cmd-K outputs, making it much easier to have the model revise its work.
 
-[Official release notes](https://cursor.com/changelog/0-8-2)
-
-Tracked cards: 5
+Tracked 5 of 7 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- editor-experience: [[Changes/Cursor/2023-08-22-codeblocks-and-code-symbols-in-with-codebase-responses-will-now-often-be-clickab|Codeblocks and code symbols in "with codebase" responses will now often be clickable]]
-- context-window: [[Changes/Cursor/2023-08-22-follow-up-chat-messages-to-with-codebase-will-keep-the-codebase-context|Follow-up chat messages to "with codebase" will keep the codebase context]]
-- context-window: [[Changes/Cursor/2023-08-22-if-you-reference-a-long-file-that-will-be-cutoff-by-the-context-limit-you-ll-be|If you @ reference a long file that will be cutoff by the context limit, you'll…]]
-- editor-experience: [[Changes/Cursor/2023-08-22-you-can-now-reply-to-cmd-k-outputs-making-it-much-easier-to-have-the-model-revis|Reply to Cmd-K outputs, making it much easier to have the model revise its work]]
-- interface-experience: [[Changes/Cursor/2023-08-22-nicer-error-messages-in-the-chat-fewer-annoying-popups|Nicer error messages in the chat!]]
+- [[Changes/Cursor/2023-08-22-codeblocks-and-code-symbols-in-with-codebase-responses-will-now-often-be-clickab|Codeblocks and code symbols in "with codebase" responses will now often be clickable]] · Editor Experience
+- [[Changes/Cursor/2023-08-22-follow-up-chat-messages-to-with-codebase-will-keep-the-codebase-context|Follow-up chat messages to "with codebase" will keep the codebase context]] · Context Window
+- [[Changes/Cursor/2023-08-22-if-you-reference-a-long-file-that-will-be-cutoff-by-the-context-limit-you-ll-be|If you @ reference a long file that will be cutoff by the context limit, you'll…]] · Context Window
+- [[Changes/Cursor/2023-08-22-you-can-now-reply-to-cmd-k-outputs-making-it-much-easier-to-have-the-model-revis|Reply to Cmd-K outputs, making it much easier to have the model revise its work]] · Editor Experience
+- [[Changes/Cursor/2023-08-22-nicer-error-messages-in-the-chat-fewer-annoying-popups|Nicer error messages in the chat!]] · Interface Experience
 <!-- chronolog:end -->

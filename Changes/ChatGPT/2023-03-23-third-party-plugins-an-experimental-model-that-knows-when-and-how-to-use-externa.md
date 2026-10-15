@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2023-03-23-3b27d2
 date: '2023-03-23'
+description: 'ChatGPT · 2023-03-23 · Model Support: Third-party plugins: An experimental
+  model that knows when and how to use external plugins.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We
+    made more improvements to the ChatGPT model!]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 73
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 4214ff40300502b98099874335a33f92b9a79338596dec5376cd201a93bc5bce
+machine_hash: 346f11fecffcc1d2f08fc75770db1f449151ecf56913dc54742562f109a6e1fe
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,9 +53,10 @@ record:
     external plugins'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-03-14-complex-instructions|chatgpt-2023-03-14-7438c4]]'
-- '[[Changes/ChatGPT/2023-03-14-more-creativity|chatgpt-2023-03-14-8f3013]]'
-- '[[Changes/ChatGPT/2023-03-14-we-re-excited-to-bring-gpt-4-our-latest-model-to-our-chatgpt-plus-subscribers-gp|chatgpt-2023-03-14-d7797b]]'
+- '[[Changes/ChatGPT/2023-03-14-complex-instructions|Complex instructions]]'
+- '[[Changes/ChatGPT/2023-03-14-more-creativity|More creativity]]'
+- '[[Changes/ChatGPT/2023-03-14-we-re-excited-to-bring-gpt-4-our-latest-model-to-our-chatgpt-plus-subscribers-gp|ChatGPT
+  brings GPT-4, our latest model, to our ChatGPT Plus subscribers]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8|chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -61,10 +65,10 @@ title: 'Third-party plugins: An experimental model that knows when and how to us
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Third-party plugins: An experimental model that knows when and how to use external plugins
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Introducing plugins in ChatGPT: Third-party plugins: An experimental model that knows when and how to use external plugins.
+**ChatGPT** · 2023-03-23 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8|Introducing plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -73,19 +77,28 @@ ChatGPT — Introducing plugins in ChatGPT: Third-party plugins: An experimental
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]] · Apps and Integrations
+- [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-b62dc8|We are announcing experimental support for AI plugins in ChatGPT]] · Apps and Integrations
+- [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]] · Search and Browsing
+- [[Changes/ChatGPT/2023-03-23-code-interpreter-an-experimental-chatgpt-model-that-can-use-python-and-handles-u|Code Interpreter: An experimental ChatGPT model that can use Python, and handles…]] · Model Support
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: model-support
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]
-- Lag Days: 73
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Model Support
+
+- Earlier: 2023-03-14 · ChatGPT · [[Changes/ChatGPT/2023-03-14-we-re-excited-to-bring-gpt-4-our-latest-model-to-our-chatgpt-plus-subscribers-gp|ChatGPT brings GPT-4, our latest model, to our ChatGPT Plus subscribers]]
+- Later: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-use-an-openai-api-key-for-unlimited-requests-at-cost-gpt-4-access-if-available|Use an OpenAI API key for unlimited requests at cost (GPT-4 access if available)]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We made more improvements to the ChatGPT model!]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-03-23-3b27d2&body=Card%3A%20Changes%2FChatGPT%2F2023-03-23-third-party-plugins-an-experimental-model-that-knows-when-and-how-to-use-externa.md%0ACard%20ID%3A%20chatgpt-2023-03-23-3b27d2%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

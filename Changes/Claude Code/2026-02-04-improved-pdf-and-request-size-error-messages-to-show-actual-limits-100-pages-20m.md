@@ -1,8 +1,11 @@
 ---
 card_id: claude-code-2026-02-04-497470
 date: '2026-02-04'
+description: 'Claude Code · 2026-02-04 · Files and Data: Improved PDF and request
+  size error messages to show actual limits (100 pages, 20MB)'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|chatgpt-2023-07-06-66255e]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|ChatGPT
+    rolls out code interpreter to all ChatGPT Plus users over the next week]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 944
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 453c3b01c93db27ca552eeac2ef07b6e46e2651bf377a0f52571859629c798b8
+machine_hash: c998b16cc18db9b0402e1194cebbada3a4045d78d0c327f9f3366d13dd18e318
 product: claude-code
 product_name: Claude Code
 record:
@@ -40,9 +43,12 @@ record:
     20MB)
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-02-06-for-more-details-about-the-canvas-feature-in-chatgpt-check-out-the-following-hel|chatgpt-2025-02-06-0f1765]]'
-- '[[Changes/ChatGPT/2025-06-24-projects-can-now-support-40-uploaded-files-up-from-20-for-pro-users|chatgpt-2025-06-24-e74d4b]]'
-- '[[Changes/Cursor/2025-08-06-read-file-now-reads-full-files-when-appropriate-and-the-2mb-cap-is-removed|cursor-2025-08-06-7fb099]]'
+- '[[Changes/ChatGPT/2025-02-06-for-more-details-about-the-canvas-feature-in-chatgpt-check-out-the-following-hel|For
+  more details about the canvas feature in ChatGPT, check out the following Help…]]'
+- '[[Changes/ChatGPT/2025-06-24-projects-can-now-support-40-uploaded-files-up-from-20-for-pro-users|Projects
+  can now support 40 uploaded files, up from 20, for Pro users]]'
+- '[[Changes/Cursor/2025-08-06-read-file-now-reads-full-files-when-appropriate-and-the-2mb-cap-is-removed|Read
+  file: Now reads full files when appropriate and the 2MB cap is removed]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-04-v2-1-31-github-282782741-04ea99e1|claude-code-2026-02-04-v2-1-31-github-282782741-04ea99e1]]'
 source_type: github_releases
 theme: file-data
@@ -51,10 +57,10 @@ title: Improved PDF and request size error messages to show actual limits (100 p
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Improved PDF and request size error messages to show actual limits (100 pages, 20MB)
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.31: Improved PDF and request size error messages to show actual limits (100 pages, 20MB)
+**Claude Code** · 2026-02-04 · [[Themes/file-data|Files and Data]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.31) · from [[Releases/Claude Code/claude-code-2026-02-04-v2-1-31-github-282782741-04ea99e1|v2.1.31]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -63,19 +69,28 @@ Claude Code — v2.1.31: Improved PDF and request size error messages to show ac
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.31
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-02-04-added-support-for-full-width-zenkaku-space-input-from-japanese-ime-in-checkbox-s|Added support for full-width (zenkaku) space input from Japanese IME in checkbox selection]] · Accessibility and Localization
+- [[Changes/Claude Code/2026-02-04-improved-system-prompts-to-more-clearly-guide-the-model-toward-using-dedicated-t|Improved system prompts to more clearly guide the model toward using dedicated tools…]] · Model Support
+- [[Changes/Claude Code/2026-02-04-added-session-resume-hint-on-exit-showing-how-to-continue-your-conversation-late|Added session resume hint on exit, showing how to continue your conversation later]] · Projects and Workspaces
+- [[Changes/Claude Code/2026-02-04-reduced-layout-jitter-in-the-terminal-when-the-spinner-appears-and-disappears-du|Reduced layout jitter in the terminal when the spinner appears and disappears during…]] · Developer Workflow
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: file-data
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|chatgpt-2023-07-06-66255e]]
-- Lag Days: 944
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Files and Data
+
+- Earlier: 2025-08-06 · Cursor · [[Changes/Cursor/2025-08-06-read-file-now-reads-full-files-when-appropriate-and-the-2mb-cap-is-removed|Read file: Now reads full files when appropriate and the 2MB cap is removed]]
+- Later: 2026-02-13 · ChatGPT · [[Changes/ChatGPT/2026-02-13-expanded-file-type-support-we-now-support-additional-text-and-code-file-formats|Expanded file type support]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|ChatGPT rolls out code interpreter to all ChatGPT Plus users over the next week]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-02-04-497470&body=Card%3A%20Changes%2FClaude%20Code%2F2026-02-04-improved-pdf-and-request-size-error-messages-to-show-actual-limits-100-pages-20m.md%0ACard%20ID%3A%20claude-code-2026-02-04-497470%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.31%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

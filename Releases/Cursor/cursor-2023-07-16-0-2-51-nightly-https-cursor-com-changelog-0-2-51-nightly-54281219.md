@@ -1,10 +1,12 @@
 ---
 changes_count: 0
 date: '2023-07-16'
-machine_hash: 0d0fef03a11d1d5a2c6867a71ec5402b774a642ea0e87a8474dc0c682ef605f4
+description: 'Cursor release hanging chat hotfix on 2023-07-16: no tracked changes'
+machine_hash: 07f383c9fbed1b17545ebec04add65c1f8f9806605500cd472cd7bc0f787a1ef
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2023-07-16'
   product: cursor
   product_name: Cursor
@@ -22,19 +24,21 @@ source_url: https://cursor.com/changelog/0-2-51-nightly
 tags:
 - release
 - cursor
-title: Cursor — hanging chat hotfix
+title: Cursor · hanging chat hotfix
 version: 0.2.51-nightly
 ---
 
-# Cursor hanging chat hotfix
+<!-- chronolog:begin region="header" -->
+# Cursor · hanging chat hotfix
+
+**Cursor** · 2023-07-16 · [Official release notes](https://cursor.com/changelog/0-2-51-nightly)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 This update fixes the bug where we hang on chat for up to 20s when not in a git repo
 
-[Official release notes](https://cursor.com/changelog/0-2-51-nightly)
-
-Tracked cards: 0
+Tracked 0 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2023-08-13'
-machine_hash: 91c43c5cdd87a1ca462b460d31abf2cb47081506f8ecfd799aeb80b9a7c7770a
+description: 'Cursor release Long-file experience on 2023-08-13: 1 tracked change
+  across Editor Experience'
+machine_hash: c7a8b6a939ad09d3f3d07a14af3e7c12558426e877cdd37cac97f9626f8b7307
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2023-08-13'
   product: cursor
   product_name: Cursor
@@ -21,22 +24,24 @@ source_url: https://cursor.com/changelog/0-7-9-nightly-0-7-10-nightly
 tags:
 - release
 - cursor
-title: Cursor — Long-file experience
+title: Cursor · Long-file experience
 version: 0.7.9-nightly-0.7.10-nightly
 ---
 
-# Cursor Long-file experience
+<!-- chronolog:begin region="header" -->
+# Cursor · Long-file experience
+
+**Cursor** · 2023-08-13 · [Official release notes](https://cursor.com/changelog/0-7-9-nightly-0-7-10-nightly)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Better experience for long files!
 
-[Official release notes](https://cursor.com/changelog/0-7-9-nightly-0-7-10-nightly)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- editor-experience: [[Changes/Cursor/2023-08-13-better-experience-for-long-files|Better experience for long files!]]
+- [[Changes/Cursor/2023-08-13-better-experience-for-long-files|Better experience for long files!]] · Editor Experience
 <!-- chronolog:end -->

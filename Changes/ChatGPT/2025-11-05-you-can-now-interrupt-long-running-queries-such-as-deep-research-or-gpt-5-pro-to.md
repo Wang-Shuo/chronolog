@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2025-11-05-04febe
 date: '2025-11-05'
+description: 'ChatGPT · 2025-11-05 · Model Support: You can now interrupt long-running
+  queries (such as deep research or GPT-5 Pro) to refine what you’re asking—no restart…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We
+    made more improvements to the ChatGPT model!]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1031
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 9b34fc3cfccda65e82ccf03225e9eae9f588939dff7e395c182528020c68cc8e
+machine_hash: 42afc58ca536e46778bc3732a8f7d88a9f084d70f61dfce7af9b99fc508a7dbf
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -64,9 +67,12 @@ record:
     what…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-10-03-we-re-updating-gpt-5-instant-to-better-recognize-and-support-people-in-moments-o-ea32fc|chatgpt-2025-10-03-ea32fc]]'
-- '[[Changes/ChatGPT/2025-10-22-we-re-updating-the-model-for-signed-out-users-to-gpt-5-instant-giving-more-peopl|chatgpt-2025-10-22-23dfff]]'
-- '[[Changes/Cursor/2025-10-29-introducing-our-first-agentic-coding-model-composer-is-a-frontier-model-that-is|cursor-2025-10-29-6d4dc6]]'
+- '[[Changes/ChatGPT/2025-10-03-we-re-updating-gpt-5-instant-to-better-recognize-and-support-people-in-moments-o-ea32fc|We’re
+  updating GPT-5 Instant to better recognize and support people in moments of distress]]'
+- '[[Changes/ChatGPT/2025-10-22-we-re-updating-the-model-for-signed-out-users-to-gpt-5-instant-giving-more-peopl|We’re
+  updating the model for signed-out users to GPT-5 Instant, giving more people…]]'
+- '[[Changes/Cursor/2025-10-29-introducing-our-first-agentic-coding-model-composer-is-a-frontier-model-that-is|Introducing
+  our first agentic coding model]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-05-interrupt-chatgpt-f1320118|chatgpt-2025-11-05-interrupt-chatgpt-f1320118]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -75,10 +81,10 @@ title: Interrupt long-running queries (such as deep research or GPT-5 Pro) to re
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Interrupt long-running queries (such as deep research or GPT-5 Pro) to refine what…
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Interrupt ChatGPT: You can now interrupt long-running queries (such as deep research or GPT-5 Pro) to refine what you’re asking—no restart required or progress lost. For example, if you're researching the perfect bookshelf and suddenly remember that your wall is 72" wide and you can't drill into it, you can simply add that information midstream by clicking “update” in the sidebar and sending the new information as a message. The model will adjust its approach based on your new requirements.
+**ChatGPT** · 2025-11-05 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-11-05-interrupt-chatgpt-f1320118|Interrupt ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -87,19 +93,23 @@ ChatGPT — Interrupt ChatGPT: You can now interrupt long-running queries (such 
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: model-support
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]
-- Lag Days: 1031
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Model Support
+
+- Earlier: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-introducing-our-first-agentic-coding-model-composer-is-a-frontier-model-that-is|Introducing our first agentic coding model]]
+- Later: 2025-11-12 · ChatGPT · [[Changes/ChatGPT/2025-11-12-we-re-updating-chatgpt-s-tone-controls-so-it-s-easier-to-make-responses-sound-th-d3a253|We’re updating ChatGPT’s tone controls so it’s easier to make responses sound…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We made more improvements to the ChatGPT model!]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-11-05-04febe&body=Card%3A%20Changes%2FChatGPT%2F2025-11-05-you-can-now-interrupt-long-running-queries-such-as-deep-research-or-gpt-5-pro-to.md%0ACard%20ID%3A%20chatgpt-2025-11-05-04febe%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

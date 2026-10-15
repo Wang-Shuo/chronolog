@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2025-03-18'
-machine_hash: 22bf3d7ef029851c273b1c6e99cbf04690d3b2fcf648a48ae275e3336c7194ee
+description: 'ChatGPT release Android App on 2025-03-18: 1 tracked change across Image
+  Generation'
+machine_hash: df2411a554ca0b42ade5f91cbba067a69cc6a4c9987c09fb543ec1f748919037
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 2
   date: '2025-03-18'
   product: chatgpt
   product_name: ChatGPT
@@ -21,22 +24,24 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Android App
+title: ChatGPT · Android App
 version: Android App
 ---
 
-# ChatGPT Android App
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Android App
+
+**ChatGPT** · 2025-03-18 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 1⁠. Increased the default size for in‐line generated images.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 1
+Tracked 1 of 2 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- image-generation: [[Changes/ChatGPT/2025-03-18-1-increased-the-default-size-for-in-line-generated-images|Increased the default size for in‐line generated images]]
+- [[Changes/ChatGPT/2025-03-18-1-increased-the-default-size-for-in-line-generated-images|Increased the default size for in‐line generated images]] · Image Generation
 <!-- chronolog:end -->

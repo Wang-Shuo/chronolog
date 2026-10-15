@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2026-03-05-e7f5c3
 date: '2026-03-05'
+description: 'Cursor · 2026-03-05 · Automation and Scheduling: Create automations
+  at cursor.com/automations, or start from a template. Read more in our announcement.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now|chatgpt-2025-12-17-d1d8fe]]'
+  first_in_tracked: '[[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now|Tasks
+    let you set up automated prompts that ChatGPT can run for you]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 78
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: ab2e42f6a243ee04b940c75f8308a6daaba7d4b77e83138872a0c5157aa9e7b3
+machine_hash: b00c0d3fdd689ec22a976b4fef3fc7ec77938db73101d57b2e96937af37b0394
 product: cursor
 product_name: Cursor
 record:
@@ -37,9 +40,12 @@ record:
   title: Create automations at cursor.com/automations, or start from a template
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now|chatgpt-2025-12-17-d1d8fe]]'
-- '[[Changes/ChatGPT/2025-12-17-create-tasks-in-chat-or-in-pulse-whatever-s-easier-in-the-moment|chatgpt-2025-12-17-f3fe78]]'
-- '[[Changes/Cursor/2026-03-05-cursor-now-supports-automations-for-building-always-on-agents-that-run-based-on|cursor-2026-03-05-d7b50e]]'
+- '[[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now|Tasks
+  let you set up automated prompts that ChatGPT can run for you]]'
+- '[[Changes/ChatGPT/2025-12-17-create-tasks-in-chat-or-in-pulse-whatever-s-easier-in-the-moment|Create
+  tasks in chat or in Pulse—whatever’s easier in the moment]]'
+- '[[Changes/Cursor/2026-03-05-cursor-now-supports-automations-for-building-always-on-agents-that-run-based-on|Cursor
+  now supports automations for building always-on agents that run based…]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-05-automations-https-cursor-com-changelog-03-05-26-be367422|cursor-2026-03-05-automations-https-cursor-com-changelog-03-05-26-be367422]]'
 source_type: cursor_changelog
 theme: automation-scheduling
@@ -47,10 +53,10 @@ title: Create automations at cursor.com/automations, or start from a template
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Create automations at cursor.com/automations, or start from a template
 
-<!-- chronolog:begin region="description" -->
-Cursor — Automations: Create automations at cursor.com/automations, or start from a template. Read more in our announcement.
+**Cursor** · 2026-03-05 · [[Themes/automation-scheduling|Automation and Scheduling]] · [Official source](https://cursor.com/changelog/03-05-26) · from [[Releases/Cursor/cursor-2026-03-05-automations-https-cursor-com-changelog-03-05-26-be367422|Automations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -59,19 +65,27 @@ Cursor — Automations: Create automations at cursor.com/automations, or start f
 > Source: https://cursor.com/changelog/03-05-26
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2026-03-05-when-invoked-the-agent-spins-up-a-cloud-sandbox-and-follows-your-instructions-us|When invoked, the agent spins up a cloud sandbox and follows your instructions using…]] · Safety and Privacy
+- [[Changes/Cursor/2026-03-05-cursor-now-supports-automations-for-building-always-on-agents-that-run-based-on|Cursor now supports automations for building always-on agents that run based…]] · Automation and Scheduling
+- [[Changes/Cursor/2026-03-05-automations-run-on-schedules-or-are-triggered-by-events-from-slack-linear-github|Automations run on schedules or are triggered by events from Slack, Linear, GitHub…]] · Automation and Scheduling
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: automation-scheduling
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now|chatgpt-2025-12-17-d1d8fe]]
-- Lag Days: 78
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Automation and Scheduling
+
+- Earlier: 2025-12-17 · ChatGPT · [[Changes/ChatGPT/2025-12-17-create-tasks-in-chat-or-in-pulse-whatever-s-easier-in-the-moment|Create tasks in chat or in Pulse—whatever’s easier in the moment]]
+- Later: 2026-03-07 · Claude Code · [[Changes/Claude Code/2026-03-07-added-cron-scheduling-tools-for-recurring-prompts-within-a-session|Added cron scheduling tools for recurring prompts within a session]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2025-12-17 · ChatGPT · [[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now|Tasks let you set up automated prompts that ChatGPT can run for you]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2026-03-05-e7f5c3&body=Card%3A%20Changes%2FCursor%2F2026-03-05-create-automations-at-cursor-com-automations-or-start-from-a-template-read-more.md%0ACard%20ID%3A%20cursor-2026-03-05-e7f5c3%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F03-05-26%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

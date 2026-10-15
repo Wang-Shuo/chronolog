@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2025-06-24'
-machine_hash: 703b12e949249509965939075ad45bfca4f74ae02eb07d3de137fd74cc33a8a1
+description: 'ChatGPT release Chat search connectors (Pro) on 2025-06-24: 1 tracked
+  change across Apps and Integrations'
+machine_hash: 3789825651549a8c91cc4017fbe1b9533e6feb8ec6f50cd5abf9db61332cb47e
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 1
   date: '2025-06-24'
   product: chatgpt
   product_name: ChatGPT
@@ -24,22 +27,24 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Chat search connectors (Pro)
+title: ChatGPT · Chat search connectors (Pro)
 version: Chat search connectors (Pro)
 ---
 
-# ChatGPT Chat search connectors (Pro)
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Chat search connectors (Pro)
+
+**ChatGPT** · 2025-06-24 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Pro users are now able to use chat search connectors (in addition to deep research connectors) for the following integrations: Dropbox, Box, Google Drive (synced and non-synced), Microsoft OneDrive (Business), Microsoft SharePoint.Note this feature is currently limited to users located outside of the EEA, Switzerland…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- apps-integrations: [[Changes/ChatGPT/2025-06-24-pro-users-are-now-able-to-use-chat-search-connectors-in-addition-to-deep-researc-9d5a85|Pro users are now able to use chat search connectors…]]
+- [[Changes/ChatGPT/2025-06-24-pro-users-are-now-able-to-use-chat-search-connectors-in-addition-to-deep-researc-9d5a85|Pro users are now able to use chat search connectors…]] · Apps and Integrations
 <!-- chronolog:end -->

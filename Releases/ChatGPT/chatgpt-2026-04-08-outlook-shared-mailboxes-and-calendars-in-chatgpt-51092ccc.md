@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2026-04-08'
-machine_hash: 2bc8d00e6e6715ad044db6fff26b3a17eb1fdcf581c76a1bbaeb2e85ff5ade97
+description: 'ChatGPT release Outlook shared mailboxes and calendars in ChatGPT on
+  2026-04-08: 1 tracked change across Search and Browsing'
+machine_hash: 26dbafb4f24720be390c70ec317b48dd5894c752420f4411656ae29d9a0ca1d1
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 1
   date: '2026-04-08'
   product: chatgpt
   product_name: ChatGPT
@@ -25,22 +28,24 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Outlook shared mailboxes and calendars in ChatGPT
+title: ChatGPT · Outlook shared mailboxes and calendars in ChatGPT
 version: Outlook shared mailboxes and calendars in ChatGPT
 ---
 
-# ChatGPT Outlook shared mailboxes and calendars in ChatGPT
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Outlook shared mailboxes and calendars in ChatGPT
+
+**ChatGPT** · 2026-04-08 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 The Outlook Email and Calendar apps for ChatGPT can now help with delegated or shared Outlook resources, when you have access. You can ask ChatGPT to read messages from a shared mailbox, browse its folders, mark mail read or unread, move messages, or send plain-text email from or on behalf of that mailbox. For shared…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- search-browsing: [[Changes/ChatGPT/2026-04-08-the-outlook-email-and-calendar-apps-for-chatgpt-can-now-help-with-delegated-or-s|The Outlook Email and Calendar apps for ChatGPT can now help with delegated…]]
+- [[Changes/ChatGPT/2026-04-08-the-outlook-email-and-calendar-apps-for-chatgpt-can-now-help-with-delegated-or-s|The Outlook Email and Calendar apps for ChatGPT can now help with delegated…]] · Search and Browsing
 <!-- chronolog:end -->

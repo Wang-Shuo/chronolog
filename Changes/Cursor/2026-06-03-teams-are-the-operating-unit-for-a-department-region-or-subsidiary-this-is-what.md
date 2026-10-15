@@ -1,8 +1,12 @@
 ---
 card_id: cursor-2026-06-03-df00e8
 date: '2026-06-03'
+description: 'Cursor · 2026-06-03 · Safety and Privacy: Teams are the operating unit
+  for a department, region, or subsidiary. This is what admins manage as their Cursor
+  org…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|cursor-2023-04-16-f0e22a]]'
+  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
+    mode for opting out of storing any kind of data on our servers]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1144
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: a3a536898238288ed665252f2b94a50864e5fee3e7b02d087ec4818bfd2ef724
+machine_hash: 8486c180b6f9e7a2f70b7bf917aa8ca40ee60bbe750ba615cd589d1170e55370
 product: cursor
 product_name: Cursor
 record:
@@ -55,9 +59,12 @@ record:
   title: Teams are the operating unit for a department, region, or subsidiary
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-02-we-re-rolling-out-active-sessions-a-new-security-feature-in-chatgpt-that-helps-u|chatgpt-2026-06-02-afa8b4]]'
-- '[[Changes/Claude Code/2026-06-03-claude-agents-json-now-includes-waitingfor-showing-what-a-waiting-session-is-blo|claude-code-2026-06-03-cc3caf]]'
-- '[[Changes/Cursor/2026-06-03-enterprise-customers-can-now-manage-multiple-cursor-teams-from-one-place-with-di|cursor-2026-06-03-812ca7]]'
+- '[[Changes/ChatGPT/2026-06-02-we-re-rolling-out-active-sessions-a-new-security-feature-in-chatgpt-that-helps-u|ChatGPT
+  rolls out Active sessions, a new security feature that helps users review…]]'
+- '[[Changes/Claude Code/2026-06-03-claude-agents-json-now-includes-waitingfor-showing-what-a-waiting-session-is-blo|claude
+  agents --json now includes waitingFor showing what a waiting session…]]'
+- '[[Changes/Cursor/2026-06-03-enterprise-customers-can-now-manage-multiple-cursor-teams-from-one-place-with-di|Enterprise
+  customers can now manage multiple Cursor teams from one place…]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-03-organizations-for-cursor-enterprise-https-cursor-com-changelog-e-b5c7f576|cursor-2026-06-03-organizations-for-cursor-enterprise-https-cursor-com-changelog-e-b5c7f576]]'
 source_type: cursor_changelog
 theme: safety-privacy
@@ -65,10 +72,10 @@ title: Teams are the operating unit for a department, region, or subsidiary
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Teams are the operating unit for a department, region, or subsidiary
 
-<!-- chronolog:begin region="description" -->
-Cursor — Organizations for Cursor Enterprise: Teams are the operating unit for a department, region, or subsidiary. This is what admins manage as their Cursor org today. We've moved that unit under an organization, so you can run multiple teams, each with its own security, governance, spend, and feature settings.
+**Cursor** · 2026-06-03 · [[Themes/safety-privacy|Safety and Privacy]] · [Official source](https://cursor.com/changelog/enterprise-organizations) · from [[Releases/Cursor/cursor-2026-06-03-organizations-for-cursor-enterprise-https-cursor-com-changelog-e-b5c7f576|Organizations for Cursor Enterprise]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -77,19 +84,28 @@ Cursor — Organizations for Cursor Enterprise: Teams are the operating unit for
 > Source: https://cursor.com/changelog/enterprise-organizations
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2026-06-03-an-organization-is-the-top-level-container-for-your-company-s-identity-administr|An organization is the top-level container for your company's identity…]] · Collaboration
+- [[Changes/Cursor/2026-06-03-groups-are-a-lightweight-collection-of-users-that-can-sit-across-or-within-teams|Groups are a lightweight collection of users that can sit across or within teams]] · Collaboration
+- [[Changes/Cursor/2026-06-03-enterprise-customers-can-now-manage-multiple-cursor-teams-from-one-place-with-di|Enterprise customers can now manage multiple Cursor teams from one place…]] · Safety and Privacy
+- [[Changes/Cursor/2026-06-03-a-user-can-belong-to-more-than-one-team-with-a-different-role-in-each-for-curren|A user can belong to more than one team, with a different role in each]] · Collaboration
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: safety-privacy
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|cursor-2023-04-16-f0e22a]]
-- Lag Days: 1144
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Safety and Privacy
+
+- Earlier: 2026-06-03 · Claude Code · [[Changes/Claude Code/2026-06-03-claude-agents-json-now-includes-waitingfor-showing-what-a-waiting-session-is-blo|claude agents --json now includes waitingFor showing what a waiting session…]]
+- Later: 2026-06-04 · ChatGPT · [[Changes/ChatGPT/2026-06-04-lockdown-mode-is-now-available-to-all-logged-in-users-across-account-types-and-w|Lockdown Mode is now available to all logged-in users across account types and workspaces]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2026-06-03-df00e8&body=Card%3A%20Changes%2FCursor%2F2026-06-03-teams-are-the-operating-unit-for-a-department-region-or-subsidiary-this-is-what.md%0ACard%20ID%3A%20cursor-2026-06-03-df00e8%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2Fenterprise-organizations%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

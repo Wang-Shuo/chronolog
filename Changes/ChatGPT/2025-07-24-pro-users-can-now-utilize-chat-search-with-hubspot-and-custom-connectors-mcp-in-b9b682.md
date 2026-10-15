@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2025-07-24-b9b682
 date: '2025-07-24'
+description: 'ChatGPT · 2025-07-24 · Apps and Integrations: Pro users can now utilize
+  chat search with HubSpot and custom connectors (MCP) in addition to deep research.Note…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
+    can join the waitlist to try plugins here]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 854
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 2d73c8035c995cd5e6b49116a0913fb0198f9a90a2d57da607bc0c4df5c99c14
+machine_hash: d3c120a35f39181436cadc0c784fe688c6ca1353ba2ef217bb95cd806f80b030
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,9 +57,12 @@ record:
     (MCP)…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-06-12-mention-cursor-in-any-thread-with-a-prompt-like|cursor-2025-06-12-48f707]]'
-- '[[Changes/ChatGPT/2025-06-24-pro-users-are-now-able-to-use-chat-search-connectors-in-addition-to-deep-researc-9d5a85|chatgpt-2025-06-24-9d5a85]]'
-- '[[Changes/Cursor/2025-07-03-to-dos-are-also-visible-in-slack-if-integration-is-setup|cursor-2025-07-03-572f9b]]'
+- '[[Changes/Cursor/2025-06-12-mention-cursor-in-any-thread-with-a-prompt-like|Mention
+  @Cursor in any thread with a prompt like]]'
+- '[[Changes/ChatGPT/2025-06-24-pro-users-are-now-able-to-use-chat-search-connectors-in-addition-to-deep-researc-9d5a85|Pro
+  users are now able to use chat search connectors…]]'
+- '[[Changes/Cursor/2025-07-03-to-dos-are-also-visible-in-slack-if-integration-is-setup|To-dos
+  are also visible in Slack if integration is setup!]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-07-24-chat-search-for-hubspot-and-custom-connectors-mcp-pro-f49427a3|chatgpt-2025-07-24-chat-search-for-hubspot-and-custom-connectors-mcp-pro-f49427a3]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -64,10 +70,10 @@ title: Pro users can now utilize chat search with HubSpot and custom connectors 
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Pro users can now utilize chat search with HubSpot and custom connectors (MCP)…
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Chat search for HubSpot and custom connectors (MCP) (Pro): Pro users can now utilize chat search with HubSpot and custom connectors (MCP) in addition to deep research.Note this feature is currently limited to users located outside of the EEA, Switzerland, and the UK.Learn more about connectors, as well as how to create a custom connector using MCP.
+**ChatGPT** · 2025-07-24 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-07-24-chat-search-for-hubspot-and-custom-connectors-mcp-pro-f49427a3|Chat search for HubSpot and custom connectors (MCP) (Pro)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -76,19 +82,23 @@ ChatGPT — Chat search for HubSpot and custom connectors (MCP) (Pro): Pro users
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: apps-integrations
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]
-- Lag Days: 854
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Apps and Integrations
+
+- Earlier: 2025-07-03 · Cursor · [[Changes/Cursor/2025-07-03-to-dos-are-also-visible-in-slack-if-integration-is-setup|To-dos are also visible in Slack if integration is setup!]]
+- Later: 2025-08-13 · ChatGPT · [[Changes/ChatGPT/2025-08-13-gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-are-now-availabl-e34de4|Gmail, Google Calendar, and Google Contacts Connectors in ChatGPT are now available…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-07-24-b9b682&body=Card%3A%20Changes%2FChatGPT%2F2025-07-24-pro-users-can-now-utilize-chat-search-with-hubspot-and-custom-connectors-mcp-in-b9b682.md%0ACard%20ID%3A%20chatgpt-2025-07-24-b9b682%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2023-08-22'
-machine_hash: bfaf8ec438f92d825dfa6597adf5f04304c59fae5e80937eecc5cec95194d926
+description: 'Cursor release WSL Fixes on 2023-08-22: 1 tracked change across Developer
+  Workflow'
+machine_hash: 57ef832800cd08e002b99d96c6ba2423631ccf44ecc792bc3b18a7110e1ae33e
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2023-08-22'
   product: cursor
   product_name: Cursor
@@ -23,22 +26,24 @@ source_url: https://cursor.com/changelog/0-8-4
 tags:
 - release
 - cursor
-title: Cursor — WSL Fixes
+title: Cursor · WSL Fixes
 version: 0.8.4
 ---
 
-# Cursor WSL Fixes
+<!-- chronolog:begin region="header" -->
+# Cursor · WSL Fixes
+
+**Cursor** · 2023-08-22 · [Official release notes](https://cursor.com/changelog/0-8-4)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Applies the patch from Github across all your WSL (Windows Subsystem for Linux) distros, either automatically or through the "Fix WSL" command palette command.
 
-[Official release notes](https://cursor.com/changelog/0-8-4)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- developer-workflow: [[Changes/Cursor/2023-08-22-applies-the-patch-from-github-across-all-your-wsl-windows-subsystem-for-linux-di|Applies the patch from Github across all your WSL (Windows Subsystem for Linux)…]]
+- [[Changes/Cursor/2023-08-22-applies-the-patch-from-github-across-all-your-wsl-windows-subsystem-for-linux-di|Applies the patch from Github across all your WSL (Windows Subsystem for Linux)…]] · Developer Workflow
 <!-- chronolog:end -->

@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2025-09-17-d10c30
 date: '2025-09-17'
+description: 'ChatGPT · 2025-09-17 · Model Support: All queries default to Standard
+  unless you choose to change it. Once you choose a different thinking time, your…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We
+    made more improvements to the ChatGPT model!]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 982
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: b5bc55a4ca6efbb0d04ac7444a0d72aaf20ab29d14848988d8bddd9261babb59
+machine_hash: 49aafb289844440513c44b0b6c11c7330087cd46d85db61e8165aaf2256a5071
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,9 +45,12 @@ record:
   title: All queries default to Standard unless you choose to change it
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-09-17-pro-users-get-two-additional-options-light-snappiest-and-heavy-deeper-reasoning|chatgpt-2025-09-17-1071e8]]'
-- '[[Changes/ChatGPT/2025-09-17-we-re-giving-plus-business-and-pro-users-more-control-over-how-long-gpt-5-thinks|chatgpt-2025-09-17-2788f7]]'
-- '[[Changes/ChatGPT/2025-09-17-when-you-select-gpt-5-with-thinking-in-chatgpt-you-ll-see-a-new-thinking-time-to|chatgpt-2025-09-17-389c90]]'
+- '[[Changes/ChatGPT/2025-09-17-pro-users-get-two-additional-options-light-snappiest-and-heavy-deeper-reasoning|Pro
+  users get two additional options: Light (snappiest) and Heavy (deeper reasoning)]]'
+- '[[Changes/ChatGPT/2025-09-17-we-re-giving-plus-business-and-pro-users-more-control-over-how-long-gpt-5-thinks|We’re
+  giving Plus, Business, and Pro users more control over how long GPT-5 thinks…]]'
+- '[[Changes/ChatGPT/2025-09-17-when-you-select-gpt-5-with-thinking-in-chatgpt-you-ll-see-a-new-thinking-time-to|When
+  you select GPT-5 with Thinking in ChatGPT, you’ll see a new thinking time…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-17-toggle-thinking-time-in-the-message-composer-66cafc9c|chatgpt-2025-09-17-toggle-thinking-time-in-the-message-composer-66cafc9c]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -52,10 +58,10 @@ title: All queries default to Standard unless you choose to change it
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # All queries default to Standard unless you choose to change it
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Toggle thinking time in the message composer: All queries default to Standard unless you choose to change it. Once you choose a different thinking time, your preference is saved and used for future queries until you switch again.
+**ChatGPT** · 2025-09-17 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-09-17-toggle-thinking-time-in-the-message-composer-66cafc9c|Toggle thinking time in the message composer]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -64,19 +70,28 @@ ChatGPT — Toggle thinking time in the message composer: All queries default to
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2025-09-17-pro-users-get-two-additional-options-light-snappiest-and-heavy-deeper-reasoning|Pro users get two additional options: Light (snappiest) and Heavy (deeper reasoning)]] · Model Support
+- [[Changes/ChatGPT/2025-09-17-we-re-giving-plus-business-and-pro-users-more-control-over-how-long-gpt-5-thinks|We’re giving Plus, Business, and Pro users more control over how long GPT-5 thinks…]] · Model Support
+- [[Changes/ChatGPT/2025-09-17-when-you-select-gpt-5-with-thinking-in-chatgpt-you-ll-see-a-new-thinking-time-to|When you select GPT-5 with Thinking in ChatGPT, you’ll see a new thinking time…]] · Model Support
+- [[Changes/ChatGPT/2025-09-17-standard-new-default-balancing-speed-and-intelligence-and-extended-the-previous|Standard (new default, balancing speed and intelligence) and Extended…]] · Reliability and Performance
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: model-support
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]
-- Lag Days: 982
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Model Support
+
+- Earlier: 2025-09-16 · ChatGPT · [[Changes/ChatGPT/2025-09-16-factuality-fewer-hallucinations-improving-answer-quality|Factuality: Fewer hallucinations, improving answer quality]]
+- Later: 2025-09-18 · ChatGPT · [[Changes/ChatGPT/2025-09-18-we-re-improving-the-quality-and-latency-of-responses-of-the-version-of-advanced|We’re improving the quality and latency of responses of the version of Advanced…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We made more improvements to the ChatGPT model!]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-09-17-d10c30&body=Card%3A%20Changes%2FChatGPT%2F2025-09-17-all-queries-default-to-standard-unless-you-choose-to-change-it-once-you-choose-a.md%0ACard%20ID%3A%20chatgpt-2025-09-17-d10c30%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

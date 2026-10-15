@@ -62,6 +62,18 @@ def read_yaml(path: Path) -> Any:
     return yaml.safe_load(path.read_text(encoding="utf-8"))
 
 
+def load_site(path: Path) -> dict[str, Any]:
+    """Read the optional top-level ``site:`` block of sources.yaml.
+
+    A missing file or block yields ``{}`` so callers can skip site features.
+    """
+    if not path.exists():
+        return {}
+    data = read_yaml(path) or {}
+    site = data.get("site") if isinstance(data, dict) else None
+    return dict(site) if isinstance(site, dict) else {}
+
+
 def write_text(path: Path, content: str) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(content, encoding="utf-8")

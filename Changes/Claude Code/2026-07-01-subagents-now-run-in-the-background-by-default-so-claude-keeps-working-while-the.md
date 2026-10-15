@@ -1,8 +1,11 @@
 ---
 card_id: claude-code-2026-07-01-0bd143
 date: '2026-07-01'
+description: 'Claude Code · 2026-07-01 · Agent Mode: Subagents now run in the background
+  by default, so Claude keeps working while they run and is notified when they finish…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
+    to the first nightly release!]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1091
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1c59ec42dad137c1af6fb5da15d7d3847d5cea4cea0c237fb56fbd8df808e3bd
+machine_hash: 5a1851018d0ad54659479c2f4deb16e4535f2c93214ac3a48e43b6fc989c8435
 product: claude-code
 product_name: Claude Code
 record:
@@ -39,9 +42,12 @@ record:
     they…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-26-improved-claude-agents-completed-list-to-fill-available-vertical-space-on-short|claude-code-2026-06-26-3f8647]]'
-- '[[Changes/Cursor/2026-06-29-use-remote-control-in-the-agents-window-to-take-an-agent-you-re-running-on-your|cursor-2026-06-29-191c1b]]'
-- '[[Changes/Cursor/2026-06-29-cloud-agents-run-in-isolated-virtual-machines-with-full-development-environments|cursor-2026-06-29-40b244]]'
+- '[[Changes/Claude Code/2026-06-26-improved-claude-agents-completed-list-to-fill-available-vertical-space-on-short|Improved
+  claude agents completed list to fill available vertical space]]'
+- '[[Changes/Cursor/2026-06-29-use-remote-control-in-the-agents-window-to-take-an-agent-you-re-running-on-your|Use
+  Remote Control in the Agents Window to take an agent you''re running…]]'
+- '[[Changes/Cursor/2026-06-29-cloud-agents-run-in-isolated-virtual-machines-with-full-development-environments|Cloud
+  agents run in isolated virtual machines with full development environments…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-01-v2-1-198-github-347599701-9cec0dab|claude-code-2026-07-01-v2-1-198-github-347599701-9cec0dab]]'
 source_type: github_releases
 theme: agent-mode
@@ -50,10 +56,10 @@ title: Subagents now run in the background by default, so Claude keeps working w
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Subagents now run in the background by default, so Claude keeps working while they…
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.198: Subagents now run in the background by default, so Claude keeps working while they run and is notified when they finish (previously a gradual rollout)
+**Claude Code** · 2026-07-01 · [[Themes/agent-mode|Agent Mode]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.198) · from [[Releases/Claude Code/claude-code-2026-07-01-v2-1-198-github-347599701-9cec0dab|v2.1.198]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -62,19 +68,28 @@ Claude Code — v2.1.198: Subagents now run in the background by default, so Cla
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.198
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-07-01-added-background-agent-notifications-in-claude-agents-sessions-that-need-input-o|Added background agent notifications in claude agents]] · Agent Mode
+- [[Changes/Claude Code/2026-07-01-claude-in-chrome-is-now-generally-available|Claude in Chrome is now generally available]] · Apps and Integrations
+- [[Changes/Claude Code/2026-07-01-gateway-added-claude-platform-on-aws-anthropicaws-as-an-upstream-provider-model|Gateway: added Claude Platform on AWS (anthropicAws) as an upstream provider]] · Model Support
+- [[Changes/Claude Code/2026-07-01-added-dataviz-skill-for-chart-and-dashboard-design-guidance-with-a-runnable-colo|Added /dataviz skill for chart and dashboard design guidance with a runnable…]] · Apps and Integrations
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: agent-mode
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]
-- Lag Days: 1091
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Agent Mode
+
+- Earlier: 2026-06-29 · Cursor · [[Changes/Cursor/2026-06-29-cloud-agents-run-in-isolated-virtual-machines-with-full-development-environments|Cloud agents run in isolated virtual machines with full development environments…]]
+- Later: 2026-07-06 · Claude Code · [[Changes/Claude Code/2026-07-06-added-a-dynamic-workflow-size-setting-in-config-for-controlling-how-large-claude|Added a "Dynamic workflow size" setting in /config for controlling how large…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-07-01-0bd143&body=Card%3A%20Changes%2FClaude%20Code%2F2026-07-01-subagents-now-run-in-the-background-by-default-so-claude-keeps-working-while-the.md%0ACard%20ID%3A%20claude-code-2026-07-01-0bd143%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.198%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

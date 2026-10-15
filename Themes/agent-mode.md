@@ -1,7 +1,8 @@
 ---
 created: '2023-07-06'
 date: '2026-10-14'
-machine_hash: 0b29d1511a57c5ac4b4f902ec879feb56205e36f4689b66bc6579b7c4b898641
+description: 'Research question: what changed in delegated execution?'
+machine_hash: 08e4d8ed2e5162adb6a85e55b0596d31ef4f527b379af94a97773df73bd9c990
 modified: '2026-10-14'
 products_involved:
 - ChatGPT
@@ -16,7 +17,9 @@ theme: agent-mode
 title: Agent Mode
 ---
 
-# Theme: agent-mode
+<!-- chronolog:begin region="header" -->
+# Agent Mode
+<!-- chronolog:end -->
 
 ## Research summary
 <!-- chronolog:begin region="narrative" -->

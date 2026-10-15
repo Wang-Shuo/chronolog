@@ -1,8 +1,11 @@
 ---
 card_id: claude-code-2026-08-06-73ea01
 date: '2026-08-06'
+description: 'Claude Code · 2026-08-06 · Agent Mode: Added a `/teleport` hint in cloud
+  sessions showing how to continue locally with `claude --teleport <session id>`'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
+    to the first nightly release!]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1127
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: bce56870d816f312c2dde687fbffadfe5cce31a0b830b6bbd0acd48ae03ab4af
+machine_hash: a5676d8417cd7010d01797864932dbd9afb635f784a5aec204dc62691f35cfa1
 product: claude-code
 product_name: Claude Code
 record:
@@ -39,9 +42,12 @@ record:
   title: Added a `/teleport` hint in cloud sessions showing how to continue locally…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-24-added-the-workflowsizeguideline-settings-key-so-the-advisory-dynamic-workflow-si|claude-code-2026-07-24-29e2ed]]'
-- '[[Changes/Cursor/2026-07-28-always-on-cloud-agents-that-build-test-and-ship-code-while-you-keep-working|cursor-2026-07-28-700458]]'
-- '[[Changes/Claude Code/2026-08-06-added-a-warning-when-workflow-agents-forked-skills-slash-commands-or-resumed-bac|claude-code-2026-08-06-2ba9f2]]'
+- '[[Changes/Claude Code/2026-07-24-added-the-workflowsizeguideline-settings-key-so-the-advisory-dynamic-workflow-si|Added
+  the workflowSizeGuideline settings key so the advisory Dynamic workflow size…]]'
+- '[[Changes/Cursor/2026-07-28-always-on-cloud-agents-that-build-test-and-ship-code-while-you-keep-working|Always-on
+  cloud agents that build, test, and ship code while you keep working]]'
+- '[[Changes/Claude Code/2026-08-06-added-a-warning-when-workflow-agents-forked-skills-slash-commands-or-resumed-bac|Added
+  a warning when workflow agents, forked skills, slash commands, or resumed…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-06-v2-1-223-github-365870283-03a5b13d|claude-code-2026-08-06-v2-1-223-github-365870283-03a5b13d]]'
 source_type: github_releases
 theme: agent-mode
@@ -49,10 +55,10 @@ title: Added a /teleport hint in cloud sessions showing how to continue locally�
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Added a `/teleport` hint in cloud sessions showing how to continue locally…
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.223: Added a `/teleport` hint in cloud sessions showing how to continue locally with `claude --teleport <session id>`
+**Claude Code** · 2026-08-06 · [[Themes/agent-mode|Agent Mode]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.223) · from [[Releases/Claude Code/claude-code-2026-08-06-v2-1-223-github-365870283-03a5b13d|v2.1.223]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -61,19 +67,27 @@ Claude Code — v2.1.223: Added a `/teleport` hint in cloud sessions showing how
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.223
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-08-06-added-a-warning-when-workflow-agents-forked-skills-slash-commands-or-resumed-bac|Added a warning when workflow agents, forked skills, slash commands, or resumed…]] · Agent Mode
+- [[Changes/Claude Code/2026-08-06-fixed-a-bash-permission-bypass-where-a-crafted-command-could-hide-parts-of-itsel|Fixed a Bash permission bypass where a crafted command could hide parts of itself…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-08-06-fixed-permission-prompts-so-commands-padded-with-tabs-or-invisible-unicode-can-n|Fixed permission prompts so commands padded with tabs or invisible Unicode can no…]] · Safety and Privacy
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: agent-mode
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]
-- Lag Days: 1127
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Agent Mode
+
+- Earlier: 2026-07-28 · Cursor · [[Changes/Cursor/2026-07-28-always-on-cloud-agents-that-build-test-and-ship-code-while-you-keep-working|Always-on cloud agents that build, test, and ship code while you keep working]]
+- Later: 2026-08-13 · Claude Code · [[Changes/Claude Code/2026-08-13-subagent-forking-is-now-on-by-default-a-subagent-type-fork-subagent-inherits-the|Subagent forking is now on by default]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-08-06-73ea01&body=Card%3A%20Changes%2FClaude%20Code%2F2026-08-06-added-a-teleport-hint-in-cloud-sessions-showing-how-to-continue-locally-with-cla.md%0ACard%20ID%3A%20claude-code-2026-08-06-73ea01%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.223%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

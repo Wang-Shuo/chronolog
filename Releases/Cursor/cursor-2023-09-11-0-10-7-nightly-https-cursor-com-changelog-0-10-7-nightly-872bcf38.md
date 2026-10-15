@@ -1,10 +1,12 @@
 ---
 changes_count: 0
 date: '2023-09-11'
-machine_hash: c7de357131bd9770bb0adb2afb2e87a35e63ef85343ca6174a661afd46c878c6
+description: 'Cursor release Re-enable Cursor Python on 2023-09-11: no tracked changes'
+machine_hash: 7c3b0fafddbfedf74a4146b3f3242f615b98814491a88356aa97106906a4d1a5
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2023-09-11'
   product: cursor
   product_name: Cursor
@@ -22,19 +24,21 @@ source_url: https://cursor.com/changelog/0-10-7-nightly
 tags:
 - release
 - cursor
-title: Cursor — Re-enable Cursor Python
+title: Cursor · Re-enable Cursor Python
 version: 0.10.7-nightly
 ---
 
-# Cursor Re-enable Cursor Python
+<!-- chronolog:begin region="header" -->
+# Cursor · Re-enable Cursor Python
+
+**Cursor** · 2023-09-11 · [Official release notes](https://cursor.com/changelog/0-10-7-nightly)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 We re-enable cursor python in nightly, this time with defaults that more closely resemble pylance.
 
-[Official release notes](https://cursor.com/changelog/0-10-7-nightly)
-
-Tracked cards: 0
+Tracked 0 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

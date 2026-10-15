@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2024-11-24-5c27a3
 date: '2024-11-24'
+description: 'Cursor · 2024-11-24 · Interface Experience: Composer UI in the sidebar
+  with inline diffs'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
+    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 685
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: aa93fe2832355bb1cc3da4b2e42de0e59054e313c2f1044e9609138b3593aadd
+machine_hash: 171021084bf97705eda24729c6a3071454f62e4f0cdd47effba1de5c21178099
 product: cursor
 product_name: Cursor
 record:
@@ -36,9 +39,12 @@ record:
   title: Composer UI in the sidebar with inline diffs
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-11-22-a-small-settings-icon-was-added-in-larger-viewports-when-the-sidebar-is-not-open|chatgpt-2024-11-22-08b195]]'
-- '[[Changes/ChatGPT/2024-11-22-new-floating-mode-added-with-soft-dismiss-behavior|chatgpt-2024-11-22-aba009]]'
-- '[[Changes/ChatGPT/2024-11-22-recent-conversations-are-now-limited-in-the-sidebar-with-an-unlimited-infinite-s|chatgpt-2024-11-22-e6183f]]'
+- '[[Changes/ChatGPT/2024-11-22-a-small-settings-icon-was-added-in-larger-viewports-when-the-sidebar-is-not-open|A
+  small settings icon was added in larger viewports when the sidebar is not open]]'
+- '[[Changes/ChatGPT/2024-11-22-new-floating-mode-added-with-soft-dismiss-behavior|New
+  floating mode added with soft dismiss behavior]]'
+- '[[Changes/ChatGPT/2024-11-22-recent-conversations-are-now-limited-in-the-sidebar-with-an-unlimited-infinite-s|Recent
+  conversations are now limited in the sidebar, with an unlimited infinite…]]'
 source_release: '[[Releases/Cursor/cursor-2024-11-24-0-43-x-https-cursor-com-changelog-0-43-x-18aee492|cursor-2024-11-24-0-43-x-https-cursor-com-changelog-0-43-x-18aee492]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -46,10 +52,10 @@ title: Composer UI in the sidebar with inline diffs
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Composer UI in the sidebar with inline diffs
 
-<!-- chronolog:begin region="description" -->
-Cursor — New Composer UI, Agent, Commit Messages: Composer UI in the sidebar with inline diffs
+**Cursor** · 2024-11-24 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://cursor.com/changelog/0-43-x) · from [[Releases/Cursor/cursor-2024-11-24-0-43-x-https-cursor-com-changelog-0-43-x-18aee492|New Composer UI, Agent, Commit Messages]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -58,19 +64,28 @@ Cursor — New Composer UI, Agent, Commit Messages: Composer UI in the sidebar w
 > Source: https://cursor.com/changelog/0-43-x
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2024-11-24-recommended-in-chat-composer-to-semantically-search-for-context|@Recommended in chat/composer to semantically search for context]] · Context Window
+- [[Changes/Cursor/2024-11-24-generation-of-git-commit-messages|Generation of git commit messages]] · Developer Workflow
+- [[Changes/Cursor/2024-11-24-file-pill-recommendations-in-chat-composer|File pill recommendations in chat/composer]] · Context Window
+- [[Changes/Cursor/2024-11-24-early-version-of-an-agent-in-composer-that-can-pick-its-own-context-and-use-the|Early version of an agent in composer that can pick its own context and use the terminal]] · Context Window
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: interface-experience
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]
-- Lag Days: 685
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Interface Experience
+
+- Earlier: 2024-11-22 · ChatGPT · [[Changes/ChatGPT/2024-11-22-recent-conversations-are-now-limited-in-the-sidebar-with-an-unlimited-infinite-s|Recent conversations are now limited in the sidebar, with an unlimited infinite…]]
+- Later: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-0-46-3-enhanced-download-reliability-fixed-keybinding-issue|0.46.3: Enhanced download reliability, fixed keybinding issue]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2024-11-24-5c27a3&body=Card%3A%20Changes%2FCursor%2F2024-11-24-composer-ui-in-the-sidebar-with-inline-diffs.md%0ACard%20ID%3A%20cursor-2024-11-24-5c27a3%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F0-43-x%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

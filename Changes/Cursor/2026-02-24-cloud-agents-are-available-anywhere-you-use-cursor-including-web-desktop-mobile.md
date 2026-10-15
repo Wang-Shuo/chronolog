@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2026-02-24-be269a
 date: '2026-02-24'
+description: 'Cursor · 2026-02-24 · Mobile and Desktop: Cloud agents are available
+  anywhere you use Cursor, including web, desktop, mobile, Slack, and GitHub.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support 🥳]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1078
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: cdd9ec7ea27720dd79b51693a91f7d5a49fad5d9d47ff91a1ead49ed74749789
+machine_hash: 809bb90b2bccddea746b877977e0456e51b85a21bc1c599f2606967b15de9253
 product: cursor
 product_name: Cursor
 record:
@@ -48,9 +51,12 @@ record:
     mobile…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-09-added-support-for-windows-package-manager-winget-installations-with-automatic-de|claude-code-2026-01-09-e25bf9]]'
-- '[[Changes/Claude Code/2026-01-22-ide-fixed-a-race-condition-on-windows-where-the-claude-code-sidebar-view-contain|claude-code-2026-01-22-dd923a]]'
-- '[[Changes/Claude Code/2026-02-13-added-windows-arm64-win32-arm64-native-binary-support|claude-code-2026-02-13-1162d1]]'
+- '[[Changes/Claude Code/2026-01-09-added-support-for-windows-package-manager-winget-installations-with-automatic-de|Added
+  support for Windows Package Manager (winget) installations with automatic…]]'
+- '[[Changes/Claude Code/2026-01-22-ide-fixed-a-race-condition-on-windows-where-the-claude-code-sidebar-view-contain|IDE
+  Fixed a race condition on Windows where the Claude Code sidebar view container…]]'
+- '[[Changes/Claude Code/2026-02-13-added-windows-arm64-win32-arm64-native-binary-support|Added
+  Windows ARM64 (win32-arm64) native binary support]]'
 source_release: '[[Releases/Cursor/cursor-2026-02-24-cloud-agents-with-computer-use-https-cursor-com-changelog-02-24-252fc429|cursor-2026-02-24-cloud-agents-with-computer-use-https-cursor-com-changelog-02-24-252fc429]]'
 source_type: cursor_changelog
 theme: mobile-desktop
@@ -59,10 +65,10 @@ title: Cloud agents are available anywhere you use Cursor, including web, deskto
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Cloud agents are available anywhere you use Cursor, including web, desktop, mobile…
 
-<!-- chronolog:begin region="description" -->
-Cursor — Cloud Agents with Computer Use: Cloud agents are available anywhere you use Cursor, including web, desktop, mobile, Slack, and GitHub.
+**Cursor** · 2026-02-24 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://cursor.com/changelog/02-24-26) · from [[Releases/Cursor/cursor-2026-02-24-cloud-agents-with-computer-use-https-cursor-com-changelog-02-24-252fc429|Cloud Agents with Computer Use]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -71,19 +77,27 @@ Cursor — Cloud Agents with Computer Use: Cloud agents are available anywhere y
 > Source: https://cursor.com/changelog/02-24-26
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2026-02-24-cloud-agents-can-now-use-the-software-they-create-to-test-changes-and-demo-their|Cloud agents can now use the software they create to test changes and demo their work]] · Agent Mode
+- [[Changes/Cursor/2026-02-24-after-onboarding-onto-your-codebase-each-agent-runs-in-its-own-isolated-vm-with|After onboarding onto your codebase, each agent runs in its own isolated VM…]] · Agent Mode
+- [[Changes/Cursor/2026-02-24-get-started-at-cursor-com-onboard-to-watch-the-agent-configure-itself-and-record|Get started at cursor.com/onboard to watch the agent configure itself and record a demo]] · Agent Mode
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: mobile-desktop
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]
-- Lag Days: 1078
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Mobile and Desktop
+
+- Earlier: 2026-02-13 · Claude Code · [[Changes/Claude Code/2026-02-13-added-windows-arm64-win32-arm64-native-binary-support|Added Windows ARM64 (win32-arm64) native binary support]]
+- Later: 2026-03-03 · Cursor · [[Changes/Cursor/2026-03-03-desktop-improvements-15|Desktop Improvements (15)↓↑]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2026-02-24-be269a&body=Card%3A%20Changes%2FCursor%2F2026-02-24-cloud-agents-are-available-anywhere-you-use-cursor-including-web-desktop-mobile.md%0ACard%20ID%3A%20cursor-2026-02-24-be269a%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F02-24-26%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

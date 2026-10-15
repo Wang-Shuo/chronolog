@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2026-03-25'
-machine_hash: 6b799fa84fb4fd82b96a359d8755aad086f34bd03ff026ba39c333ce7474fbc4
+description: 'ChatGPT release Large pastes are now handled as attachments on 2026-03-25:
+  1 tracked change across Context Window'
+machine_hash: 7347a938a88d25b92e6d14a6469451d011787adf7147036386057cac28950a07
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 1
   date: '2026-03-25'
   product: chatgpt
   product_name: ChatGPT
@@ -25,22 +28,24 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Large pastes are now handled as attachments
+title: ChatGPT · Large pastes are now handled as attachments
 version: Large pastes are now handled as attachments
 ---
 
-# ChatGPT Large pastes are now handled as attachments
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Large pastes are now handled as attachments
+
+**ChatGPT** · 2026-03-25 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Starting today for ChatGPT Plus, Pro, and Business users, long pastes are handled differently in ChatGPT. If you paste more than 5k characters into the composer, ChatGPT will automatically convert the content into an attachment instead of inserting it directly into the text field. This keeps the composer cleaner and…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- context-window: [[Changes/ChatGPT/2026-03-25-starting-today-for-chatgpt-plus-pro-and-business-users-long-pastes-are-handled-d|Starting today for ChatGPT Plus, Pro, and Business users, long pastes are handled…]]
+- [[Changes/ChatGPT/2026-03-25-starting-today-for-chatgpt-plus-pro-and-business-users-long-pastes-are-handled-d|Starting today for ChatGPT Plus, Pro, and Business users, long pastes are handled…]] · Context Window
 <!-- chronolog:end -->

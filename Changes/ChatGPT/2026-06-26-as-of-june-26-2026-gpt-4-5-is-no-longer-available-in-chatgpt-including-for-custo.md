@@ -1,8 +1,12 @@
 ---
 card_id: chatgpt-2026-06-26-46ba84
 date: '2026-06-26'
+description: 'ChatGPT · 2026-06-26 · Model Support: As of June 26, 2026, GPT-4.5 is
+  no longer available in ChatGPT, including for custom GPTs. Existing conversations
+  that…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We
+    made more improvements to the ChatGPT model!]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1264
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 23d5772f142b63022e43f3c5fe114b08efe035987f65d8c35bc87755f6a25d51
+machine_hash: 3fb0832af9a75327720746da2959c3cc4979883fcc1f1d0dcb26319c54417316
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,9 +48,12 @@ record:
     for custom GPTs
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-19-added-a-warning-when-the-requested-model-is-deprecated-or-automatically-updated|claude-code-2026-06-19-7f158e]]'
-- '[[Changes/ChatGPT/2026-06-24-we-re-updating-gpt-5-5-instant-our-most-used-model-in-chatgpt-to-improve-convers|chatgpt-2026-06-24-0f2a65]]'
-- '[[Changes/Claude Code/2026-06-25-added-claude-code-assistant-response-opentelemetry-log-event-containing-the-mode|claude-code-2026-06-25-82838a]]'
+- '[[Changes/Claude Code/2026-06-19-added-a-warning-when-the-requested-model-is-deprecated-or-automatically-updated|Added
+  a warning when the requested model is deprecated or automatically updated…]]'
+- '[[Changes/ChatGPT/2026-06-24-we-re-updating-gpt-5-5-instant-our-most-used-model-in-chatgpt-to-improve-convers|We’re
+  updating GPT-5.5 Instant, our most-used model in ChatGPT, to improve…]]'
+- '[[Changes/Claude Code/2026-06-25-added-claude-code-assistant-response-opentelemetry-log-event-containing-the-mode|Added
+  claude_code.assistant_response OpenTelemetry log event containing…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-26-retiring-gpt-4-5-41879baf|chatgpt-2026-06-26-retiring-gpt-4-5-41879baf]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -55,10 +62,10 @@ title: As of June 26, 2026, GPT-4.5 is no longer available in ChatGPT, including
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # As of June 26, 2026, GPT-4.5 is no longer available in ChatGPT, including for custom GPTs
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Retiring GPT-4.5: As of June 26, 2026, GPT-4.5 is no longer available in ChatGPT, including for custom GPTs. Existing conversations that used GPT-4.5 can continue with GPT-5.5.This retirement was previously announced on May 28, 2026. It applies to ChatGPT only; there are no changes to the API.
+**ChatGPT** · 2026-06-26 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-06-26-retiring-gpt-4-5-41879baf|Retiring GPT-4.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -67,19 +74,23 @@ ChatGPT — Retiring GPT-4.5: As of June 26, 2026, GPT-4.5 is no longer availabl
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: model-support
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]
-- Lag Days: 1264
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Model Support
+
+- Earlier: 2026-06-25 · Claude Code · [[Changes/Claude Code/2026-06-25-added-claude-code-assistant-response-opentelemetry-log-event-containing-the-mode|Added claude_code.assistant_response OpenTelemetry log event containing…]]
+- Later: 2026-06-29 · Claude Code · [[Changes/Claude Code/2026-06-29-added-support-for-organization-default-models-admins-set-it-in-the-org-console-i|Added support for organization default models]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We made more improvements to the ChatGPT model!]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-26-46ba84&body=Card%3A%20Changes%2FChatGPT%2F2026-06-26-as-of-june-26-2026-gpt-4-5-is-no-longer-available-in-chatgpt-including-for-custo.md%0ACard%20ID%3A%20chatgpt-2026-06-26-46ba84%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

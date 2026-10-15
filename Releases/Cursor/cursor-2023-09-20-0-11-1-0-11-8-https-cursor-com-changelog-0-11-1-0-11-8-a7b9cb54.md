@@ -1,10 +1,12 @@
 ---
 changes_count: 0
 date: '2023-09-20'
-machine_hash: 68c9bc54573a65129312d7dc4364ae9f25b8093c433ff16a8e068a3e5813df5b
+description: 'Cursor release Patches on 2023-09-20: no tracked changes'
+machine_hash: eeb032e7957e06d77332fc8f2ea0cb07130385c5187f8fc040a9ab42d1b454bb
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2023-09-20'
   product: cursor
   product_name: Cursor
@@ -22,19 +24,21 @@ source_url: https://cursor.com/changelog/0-11-1-0-11-8
 tags:
 - release
 - cursor
-title: Cursor — Patches
+title: Cursor · Patches
 version: 0.11.1-0.11.8
 ---
 
-# Cursor Patches
+<!-- chronolog:begin region="header" -->
+# Cursor · Patches
+
+**Cursor** · 2023-09-20 · [Official release notes](https://cursor.com/changelog/0-11-1-0-11-8)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Fixes issues with Cmd-k, SSH, Python support, Vim (rolling back to 1.25.2 until this issue is fixed: VSCodeVim/Vim#8603), and other extensions.
 
-[Official release notes](https://cursor.com/changelog/0-11-1-0-11-8)
-
-Tracked cards: 0
+Tracked 0 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

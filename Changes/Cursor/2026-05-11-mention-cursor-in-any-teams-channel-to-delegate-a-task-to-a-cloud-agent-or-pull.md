@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2026-05-11-5515f3
 date: '2026-05-11'
+description: 'Cursor · 2026-05-11 · Agent Mode: Mention @Cursor in any Teams channel
+  to delegate a task to a cloud agent or pull information from Cursor into Teams.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
+    to the first nightly release!]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1040
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 3aaafddb22bf943b6c978733bd3ec322478c63e0082a123c4c540ac41a5430c5
+machine_hash: 7875243e24b1e2d4fb41f5cd4970a49bbdff0eb8cbd30a20c9b3ad5058b7bee7
 product: cursor
 product_name: Cursor
 record:
@@ -50,9 +53,12 @@ record:
     or pull…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-24-with-multitask-cursor-will-run-async-subagents-to-parallelize-your-requests-inst|cursor-2026-04-24-a02402]]'
-- '[[Changes/Cursor/2026-04-24-we-ve-added-new-and-improved-worktrees-in-the-agents-window|cursor-2026-04-24-fa21dd]]'
-- '[[Changes/Claude Code/2026-05-11-added-agent-view-research-preview-a-single-list-of-every-claude-code-session-run|claude-code-2026-05-11-1877ff]]'
+- '[[Changes/Cursor/2026-04-24-with-multitask-cursor-will-run-async-subagents-to-parallelize-your-requests-inst|With
+  /multitask, Cursor will run async subagents to parallelize your requests…]]'
+- '[[Changes/Cursor/2026-04-24-we-ve-added-new-and-improved-worktrees-in-the-agents-window|Cursor
+  adds new and improved worktrees in the Agents Window]]'
+- '[[Changes/Claude Code/2026-05-11-added-agent-view-research-preview-a-single-list-of-every-claude-code-session-run|Added
+  agent view (Research Preview)]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-11-cursor-in-microsoft-teams-https-cursor-com-changelog-microsoft-t-26de16e4|cursor-2026-05-11-cursor-in-microsoft-teams-https-cursor-com-changelog-microsoft-t-26de16e4]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -61,10 +67,10 @@ title: Mention @Cursor in any Teams channel to delegate a task to a cloud agent 
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Mention @Cursor in any Teams channel to delegate a task to a cloud agent or pull…
 
-<!-- chronolog:begin region="description" -->
-Cursor — Cursor in Microsoft Teams: Mention @Cursor in any Teams channel to delegate a task to a cloud agent or pull information from Cursor into Teams.
+**Cursor** · 2026-05-11 · [[Themes/agent-mode|Agent Mode]] · [Official source](https://cursor.com/changelog/microsoft-teams) · from [[Releases/Cursor/cursor-2026-05-11-cursor-in-microsoft-teams-https-cursor-com-changelog-microsoft-t-26de16e4|Cursor in Microsoft Teams]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -73,19 +79,27 @@ Cursor — Cursor in Microsoft Teams: Mention @Cursor in any Teams channel to de
 > Source: https://cursor.com/changelog/microsoft-teams
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2026-05-11-cursor-automatically-picks-the-right-repository-and-model-based-on-your-prompt-a|Cursor automatically picks the right repository and model based on your prompt…]] · Context Window
+- [[Changes/Cursor/2026-05-11-cursor-is-now-available-in-microsoft-teams|Cursor is now available in Microsoft Teams]] · Collaboration
+- [[Changes/Cursor/2026-05-11-get-started-by-installing-the-integration-in-the-cursor-dashboard-learn-more-in|Get started by installing the integration in the Cursor dashboard]] · Apps and Integrations
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: agent-mode
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]
-- Lag Days: 1040
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Agent Mode
+
+- Earlier: 2026-05-11 · Claude Code · [[Changes/Claude Code/2026-05-11-added-agent-view-research-preview-a-single-list-of-every-claude-code-session-run|Added agent view (Research Preview)]]
+- Later: 2026-05-12 · Claude Code · [[Changes/Claude Code/2026-05-12-improved-agent-tool-subagent-type-matching-to-accept-case-and-separator-insensit|Improved Agent tool subagent_type matching to accept case…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2026-05-11-5515f3&body=Card%3A%20Changes%2FCursor%2F2026-05-11-mention-cursor-in-any-teams-channel-to-delegate-a-task-to-a-cloud-agent-or-pull.md%0ACard%20ID%3A%20cursor-2026-05-11-5515f3%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2Fmicrosoft-teams%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

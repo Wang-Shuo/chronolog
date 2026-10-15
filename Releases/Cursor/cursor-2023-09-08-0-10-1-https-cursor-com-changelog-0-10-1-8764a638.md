@@ -1,10 +1,12 @@
 ---
 changes_count: 0
 date: '2023-09-08'
-machine_hash: 8c3d8c10749b6ed51ed294c2de5bbfe8a1b4e20285164366d6492394ab9a65ca
+description: 'Cursor release Styling on 2023-09-08: no tracked changes'
+machine_hash: 3c39e1e29d345009290bd60537e398f91a8baf3f4e988e9b4b30d87321d0c8e4
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2023-09-08'
   product: cursor
   product_name: Cursor
@@ -21,19 +23,21 @@ source_url: https://cursor.com/changelog/0-10-1
 tags:
 - release
 - cursor
-title: Cursor — Styling
+title: Cursor · Styling
 version: 0.10.1
 ---
 
-# Cursor Styling
+<!-- chronolog:begin region="header" -->
+# Cursor · Styling
+
+**Cursor** · 2023-09-08 · [Official release notes](https://cursor.com/changelog/0-10-1)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Updated some css!
 
-[Official release notes](https://cursor.com/changelog/0-10-1)
-
-Tracked cards: 0
+Tracked 0 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

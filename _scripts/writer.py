@@ -3,9 +3,10 @@ from __future__ import annotations
 import argparse
 import re
 import sys
-from collections import defaultdict
+from collections import Counter, defaultdict
 from pathlib import Path
 from typing import Any
+from urllib.parse import quote, urlencode
 
 import frontmatter
 
@@ -14,7 +15,16 @@ if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
 from _scripts.editorial import render_coverage
-from _scripts.common import PipelinePaths, machine_hash, read_json, slugify, write_json, write_text
+from _scripts.common import (
+    PipelinePaths,
+    load_site,
+    machine_hash,
+    read_json,
+    slugify,
+    write_json,
+    write_text,
+)
+from _scripts.extract import GENERIC_HEADING_RE, load_theme_vocabulary, split_release_lines
 
 
 REGION_RE = re.compile(
@@ -23,6 +33,11 @@ REGION_RE = re.compile(
     r"<!-- chronolog:end -->",
     re.S,
 )
+REGION_BLOCK_RE = re.compile(
+    r"<!-- chronolog:begin region=\"[^\"]+\" -->.*?<!-- chronolog:end -->",
+    re.S,
+)
+REGION_BEGIN = "<!-- chronolog:begin region="
 MACHINE_FIELD_NAMES = {
     "tags",
     "type",
@@ -54,7 +69,17 @@ MACHINE_FIELD_NAMES = {
     "record",
     "coverage",
     "publication",
+    "description",
 }
+DESCRIPTION_MAX_CHARS = 160
+# Static headings of the pre-W1 skeletons. A body holding only these, the generated H1
+# and machine regions carries no human text and can be replaced by the new template.
+SKELETON_HEADINGS = {
+    "change": frozenset({"## Editor Notes"}),
+    "release": frozenset({"## Summary", "## Change Cards"}),
+    "theme": frozenset({"## Research summary", "## Cross-Product Timeline", "## Change Cards"}),
+}
+MIGRATION_PENDING_REASON = "legacy skeleton with human text; manual migration needed"
 
 
 def machine_region(region: str, content: str) -> str:
@@ -99,35 +124,169 @@ def ensure_vault_dirs(root: Path) -> None:
         (root / name).mkdir(parents=True, exist_ok=True)
 
 
+def page_type(metadata: dict[str, Any]) -> str | None:
+    """Kind of page whose skeleton the writer migrates (products and index are not)."""
+    if metadata.get("type") == "change":
+        return "change"
+    if metadata.get("release_id"):
+        return "release"
+    if metadata.get("theme") and "theme" in (metadata.get("tags") or []):
+        return "theme"
+    return None
+
+
+def region_names(markdown_body: str) -> list[str]:
+    return [match.group("name") for match in REGION_RE.finditer(markdown_body)]
+
+
+def _first_heading(markdown_body: str) -> str:
+    return next(
+        (line.rstrip() for line in markdown_body.splitlines() if line.startswith("# ")), ""
+    )
+
+
+def _leading_heading(body: str) -> tuple[int, str] | None:
+    """Line index and text of the first H1 that precedes every machine region.
+
+    Legacy skeletons put the generated H1 there; the new templates keep it inside the
+    ``header`` region, so a ``# `` line after the regions is human text.
+    """
+    first_region = body.find(REGION_BEGIN)
+    head = body if first_region < 0 else body[:first_region]
+    for index, line in enumerate(head.split("\n")):
+        if line.startswith("# "):
+            return index, line.rstrip()
+    return None
+
+
+def legacy_residue(body: str, page_type: str | None) -> str:
+    """Return the text a person wrote outside the generated skeleton of a page.
+
+    Removes every machine region, the first ``# `` line (the generated H1, which comes
+    before the regions) and the static section headings of ``page_type``.
+    """
+    lines = body.split("\n")
+    heading = _leading_heading(body)
+    if heading is not None:
+        del lines[heading[0]]
+    text = REGION_BLOCK_RE.sub("", "\n".join(lines))
+    skeleton = SKELETON_HEADINGS.get(page_type or "", frozenset())
+    return "\n".join(
+        line for line in text.split("\n") if line.rstrip() not in skeleton
+    ).strip()
+
+
+def _is_generated_heading(
+    heading: str,
+    metadata: dict[str, Any],
+    kind: str | None,
+    rendered_heading: str,
+) -> bool:
+    """Whether a leading H1 is still the text an earlier writer version produced."""
+    if heading == rendered_heading:
+        return True
+    record = metadata.get("record") if isinstance(metadata.get("record"), dict) else {}
+    if kind == "change":
+        if record.get("title"):
+            return heading == f"# {str(record['title']).rstrip()}"
+        return bool(metadata.get("title")) and wiki_label(heading[2:]) == str(metadata["title"])
+    if kind == "release":
+        product_name = record.get("product_name") or metadata.get("product_name")
+        title = record.get("title") or metadata.get("source_release")
+        return heading == f"# {product_name} {title}".rstrip()
+    if kind == "theme":
+        return heading == f"# Theme: {metadata.get('theme')}"
+    return False
+
+
 def refresh_generated_heading(
     body: str,
     existing_metadata: dict[str, Any],
     rendered_body: str,
+    kind: str | None = "change",
 ) -> str:
-    """Replace a card H1 that still equals the previously generated title.
+    """Replace a leading H1 that still equals the previously generated heading.
 
-    The H1 sits outside the machine regions, so it is human-owned once edited. It is
-    refreshed only while it matches the old ``record.title``; any other heading is kept.
-    It is not part of ``machine_hash``.
+    In a legacy skeleton the H1 sits outside the machine regions, so it is human-owned
+    once edited: it is refreshed only while it matches what the writer generated
+    (``record.title`` for cards); any other heading is kept. It is not part of
+    ``machine_hash``.
     """
-    record = existing_metadata.get("record")
-    old_title = str(record.get("title", "")).rstrip() if isinstance(record, dict) else ""
-    new_heading = next((line for line in rendered_body.splitlines() if line.startswith("# ")), "")
-    if not old_title or not new_heading:
+    new_heading = _first_heading(rendered_body)
+    heading = _leading_heading(body)
+    if (
+        not new_heading
+        or heading is None
+        or not _is_generated_heading(heading[1], existing_metadata, kind, new_heading)
+    ):
         return body
     lines = body.split("\n")
-    for index, line in enumerate(lines):
-        if line.startswith("# "):
-            if line.rstrip() == f"# {old_title}":
-                lines[index] = new_heading.rstrip()
-            break
+    lines[heading[0]] = new_heading
     return "\n".join(lines)
+
+
+def merge_page_body(
+    target: Path,
+    body: str,
+    metadata: dict[str, Any],
+    rendered_body: str,
+    kind: str,
+    migration_pending: list[dict[str, str]] | None = None,
+) -> str:
+    """Merge a change, release or theme page, migrating an untouched skeleton.
+
+    Without human text outside the machine regions the whole body becomes the rendered
+    body, so a legacy skeleton is replaced instead of receiving appended regions. With
+    human text the existing structure is kept: only regions the file already has are
+    replaced, and a file whose regions differ from the template is reported as pending
+    manual migration (not a conflict).
+
+    A legacy card H1 that no longer matches ``record.title`` was edited by a person
+    (PR 1 refreshed generated card headings), so it counts as human text. Release and
+    theme H1s were never refreshed and may be stale, so they are always generated.
+    """
+    heading = _leading_heading(body)
+    edited_heading = (
+        kind == "change"
+        and heading is not None
+        and not _is_generated_heading(heading[1], metadata, kind, _first_heading(rendered_body))
+    )
+    if not edited_heading and not legacy_residue(body, kind):
+        return rendered_body
+    merged = refresh_generated_heading(body, metadata, rendered_body, kind)
+    present = set(region_names(merged))
+    rendered_regions = extract_machine_regions(rendered_body)
+    for region, content in rendered_regions.items():
+        if region in present:
+            merged = replace_machine_region(merged, region, content)
+    if region_names(merged) != list(rendered_regions) and migration_pending is not None:
+        migration_pending.append({"file": str(target), "reason": MIGRATION_PENDING_REASON})
+    return merged
+
+
+def merge_machine_regions(body: str, rendered_regions: dict[str, str]) -> str:
+    for region, content in rendered_regions.items():
+        if region not in extract_machine_regions(body) and region in {'featured', 'coverage', 'narrative'}:
+            # Insert new reading sections before long existing archives, preserving
+            # all original human text. Subsequent runs replace just this region.
+            heading = {'featured': 'Start exploring', 'coverage': 'Source coverage',
+                       'narrative': 'Research summary'}[region]
+            section = f"## {heading}\n{machine_region(region, content)}\n\n"
+            position = body.find('\n## ')
+            if position >= 0:
+                body = body[:position + 1] + section + body[position + 1:]
+            else:
+                body = body.rstrip() + '\n\n' + section
+        else:
+            body = replace_machine_region(body, region, content)
+    return body
 
 
 def write_markdown_file(
     target: Path,
     rendered: str,
     conflicts: list[dict[str, str]] | None = None,
+    migration_pending: list[dict[str, str]] | None = None,
 ) -> bool:
     if not target.exists():
         write_text(target, rendered)
@@ -148,26 +307,20 @@ def write_markdown_file(
         return False
 
     rendered_post = frontmatter.loads(rendered)
-    rendered_regions = extract_machine_regions(rendered_post.content)
-    merged_body = existing_post.content
-    if existing_post.metadata.get("type") == "change":
-        merged_body = refresh_generated_heading(
-            merged_body, existing_post.metadata, rendered_post.content
+    kind = page_type(existing_post.metadata)
+    if kind is not None:
+        merged_body = merge_page_body(
+            target,
+            existing_post.content,
+            existing_post.metadata,
+            rendered_post.content,
+            kind,
+            migration_pending,
         )
-    for region, content in rendered_regions.items():
-        if region not in extract_machine_regions(merged_body) and region in {'featured', 'coverage', 'narrative'}:
-            # Insert new reading sections before long existing archives, preserving
-            # all original human text. Subsequent runs replace just this region.
-            heading = {'featured': 'Start exploring', 'coverage': 'Source coverage',
-                       'narrative': 'Research summary'}[region]
-            section = f"## {heading}\n{machine_region(region, content)}\n\n"
-            position = merged_body.find('\n## ')
-            if position >= 0:
-                merged_body = merged_body[:position + 1] + section + merged_body[position + 1:]
-            else:
-                merged_body = merged_body.rstrip() + '\n\n' + section
-        else:
-            merged_body = replace_machine_region(merged_body, region, content)
+    else:
+        merged_body = merge_machine_regions(
+            existing_post.content, extract_machine_regions(rendered_post.content)
+        )
 
     merged_metadata = {
         key: value
@@ -205,10 +358,79 @@ def card_link(
     return f"[[{target}|{wiki_label(label or card['title'])}]]"
 
 
-def relation_link(card_id: str, card_targets: dict[str, str] | None) -> str:
+def relation_link(
+    card_id: str,
+    card_targets: dict[str, str] | None,
+    card_titles: dict[str, str] | None = None,
+) -> str:
     if card_targets and card_id in card_targets:
-        return f"[[{card_targets[card_id]}|{card_id}]]"
+        title = (card_titles or {}).get(card_id)
+        return f"[[{card_targets[card_id]}|{wiki_label(title) if title else card_id}]]"
     return card_id
+
+
+def theme_label(theme: str, theme_labels: dict[str, str] | None = None) -> str:
+    return (theme_labels or {}).get(theme) or theme.replace("-", " ").title()
+
+
+def load_theme_labels(path: Path) -> dict[str, str]:
+    """Map theme slugs to vocabulary display names; empty when the file is absent."""
+    if not path.exists():
+        return {}
+    return {
+        slug: str(theme["display_name"])
+        for slug, theme in load_theme_vocabulary(path).items()
+        if theme.get("display_name")
+    }
+
+
+def cap_text(text: str, limit: int = DESCRIPTION_MAX_CHARS) -> str:
+    """Collapse whitespace and cap at ``limit`` characters on a word boundary."""
+    text = " ".join(str(text).split())
+    if len(text) <= limit:
+        return text
+    cut = text[: limit - 1]
+    if text[limit - 1] != " " and " " in cut:
+        cut = cut.rsplit(" ", 1)[0]
+    return cut.rstrip(" ,;:.·—–-") + "…"
+
+
+def markdown_url(url: str) -> str:
+    return str(url).strip().replace(" ", "%20").replace("(", "%28").replace(")", "%29")
+
+
+def plural(count: int, noun: str) -> str:
+    return f"{count} {noun}" if count == 1 else f"{count} {noun}s"
+
+
+def natural_join(items: list[str]) -> str:
+    if len(items) <= 2:
+        return " and ".join(items)
+    return ", ".join(items[:-1]) + " and " + items[-1]
+
+
+def feedback_url(repository: str, card_id: str, card_path: str, source_url: str) -> str:
+    """Prefilled GitHub issue for one card; empty when no repository is configured."""
+    if not repository:
+        return ""
+    body = (
+        f"Card: {card_path}\n"
+        f"Card ID: {card_id}\n"
+        f"Source: {source_url}\n\n"
+        "What should be corrected?\n"
+    )
+    query = urlencode({"title": f"Card feedback: {card_id}", "body": body}, quote_via=quote)
+    return f"{repository.rstrip('/')}/issues/new?{query}"
+
+
+def editorial_lead(editorial: str) -> str:
+    """First paragraph of an editorial narrative as plain text."""
+    first = editorial.strip().split("\n\n", 1)[0] if editorial else ""
+    text = re.sub(r"!?\[([^\]]*)\]\((?:[^()\s]|\([^()\s]*\))*\)", r"\1", first)
+    text = re.sub(r"\*\*|\*|`", "", text)
+    # Underscore emphasis only at word boundaries, so snake_case names survive.
+    text = re.sub(r"(?<!\w)(__|_)(?=\S)(.+?)(?<=\S)\1(?!\w)", r"\2", text)
+    return " ".join(text.split())
 
 
 def render_theme_markdown(
@@ -216,7 +438,9 @@ def render_theme_markdown(
     cards: list[dict[str, Any]],
     card_targets: dict[str, str] | None = None,
     editorial: str = "",
+    theme_labels: dict[str, str] | None = None,
 ) -> str:
+    display = theme_label(theme, theme_labels)
     ordered = sorted(cards, key=lambda card: (card["date"], card["product_name"], card["card_id"]))
     years = sorted({card["date"][:4] for card in ordered}, reverse=True)
     timeline = ["Scope: tracked-products-only. Entries show same-theme chronology; "
@@ -228,30 +452,41 @@ def render_theme_markdown(
             for card in reversed(ordered) if card["date"].startswith(year)
         )
         timeline.append("")
-    links = "\n".join(
-        f"- {card['date']} {card['product_name']}: {card_link(card, card_targets)}"
-        for card in ordered
-    )
-    regions = {"timeline": "\n".join(timeline).rstrip(), "cards": f"Active changes: {len(ordered)}. Use the dated links above to inspect each card." if ordered else "No changes yet.",
+    regions = {"header": f"# {display}",
+               "timeline": "\n".join(timeline).rstrip(), "cards": f"Active changes: {len(ordered)}. Use the dated links above to inspect each card." if ordered else "No changes yet.",
                "narrative": editorial or "Explore the dated evidence below."}
+    products_involved = sorted({card["product_name"] for card in ordered})
+    lead = editorial_lead(editorial)
+    if not lead:
+        scope = f" in {natural_join(products_involved)}" if products_involved else ""
+        lead = f"Cross-product timeline of {display} changes{scope}."
     fields = {
         "tags": ["theme", "moc"],
-        "title": theme.replace("-", " ").title(),
+        "title": wiki_label(display),
+        "description": cap_text(lead),
         "status": "official",
         "publication": "fixture" if ordered and all(c.get("source_type") == "fixture" for c in ordered) else "active",
         "theme": theme,
-        "products_involved": sorted({card["product_name"] for card in ordered}),
+        "products_involved": products_involved,
     }
     if ordered:
         fields.update(date=ordered[-1]["date"], created=ordered[0]["date"], modified=ordered[-1]["date"])
     fields["machine_hash"] = machine_hash(fields, regions)
     body = (
-        f"# Theme: {theme}\n\n"
+        f"{machine_region('header', regions['header'])}\n\n"
         f"## Research summary\n{machine_region('narrative', regions['narrative'])}\n\n"
         f"## Cross-Product Timeline\n{machine_region('timeline', regions['timeline'])}\n\n"
         f"## Change Cards\n{machine_region('cards', regions['cards'])}\n"
     )
     return render_frontmatter(fields, body)
+
+
+def change_description(card: dict[str, Any], theme_labels: dict[str, str] | None = None) -> str:
+    quote_text = card["evidence"][0]["quote"] if card.get("evidence") else card["title"]
+    return cap_text(
+        f"{card['product_name']} · {card['date']} · "
+        f"{theme_label(card['theme'], theme_labels)}: {quote_text}"
+    )
 
 
 def render_change_markdown(
@@ -260,7 +495,32 @@ def render_change_markdown(
     patch_b: dict[str, Any],
     card_targets: dict[str, str] | None = None,
     release_target: str | None = None,
+    *,
+    release_title: str | None = None,
+    cards_by_id: dict[str, dict[str, Any]] | None = None,
+    siblings: list[dict[str, Any]] | None = None,
+    earlier: dict[str, Any] | None = None,
+    later: dict[str, Any] | None = None,
+    theme_labels: dict[str, str] | None = None,
+    repository: str = "",
 ) -> str:
+    """Render a Change Card whose body consists of machine regions only.
+
+    ``siblings`` are the other active cards of the same release; ``earlier``/``later``
+    are the neighbouring cards of the same theme across products. Section headings
+    live inside their regions, so a section without content renders nothing.
+    """
+    cards_by_id = cards_by_id or {}
+    raw_diffusion = dict(patch_b.get("diffusion", {}))
+    linked_ids = [
+        *patch_a.get("evolves_from", []),
+        *patch_b.get("related_changes", []),
+        raw_diffusion.get("first_in_tracked"),
+    ]
+    card_titles = {
+        card_id: cards_by_id[card_id]["title"] for card_id in linked_ids if card_id in cards_by_id
+    }
+    display = theme_label(card["theme"], theme_labels)
     metadata = {
         key: card[key]
         for key in [
@@ -278,47 +538,91 @@ def render_change_markdown(
         if key in card
     }
     metadata["title"] = wiki_label(card["title"])
+    metadata["description"] = change_description(card, theme_labels)
     metadata["record"] = {key: value for key, value in card.items() if not key.startswith("_")}
     if release_target:
         metadata["source_release"] = f"[[{release_target}|{card['source_release']}]]"
     evolves_from = [
-        relation_link(card_id, card_targets)
+        relation_link(card_id, card_targets, card_titles)
         for card_id in patch_a.get("evolves_from", [])
     ]
     related_changes = [
-        relation_link(card_id, card_targets)
+        relation_link(card_id, card_targets, card_titles)
         for card_id in patch_b.get("related_changes", [])
     ]
-    diffusion = dict(patch_b.get("diffusion", {}))
+    diffusion = dict(raw_diffusion)
     if diffusion.get("first_in_tracked"):
         diffusion["first_in_tracked"] = relation_link(
             diffusion["first_in_tracked"],
             card_targets,
+            card_titles,
         )
     metadata["evolves_from"] = evolves_from
     if related_changes:
         metadata["related_changes"] = related_changes
     if diffusion:
         metadata["diffusion"] = diffusion
+
+    source_url = card["evidence"][0]["source_release"] if card.get("evidence") else ""
+    meta_line = [
+        f"**{card['product_name']}**",
+        card["date"],
+        f"[[Themes/{card['theme']}|{wiki_label(display)}]]",
+    ]
+    if source_url:
+        meta_line.append(f"[Official source]({markdown_url(source_url)})")
+    if release_target and release_title:
+        meta_line.append(f"from [[{release_target}|{wiki_label(release_title)}]]")
     evidence = "\n\n".join(
         f"> {item['quote']}\n>\n> Source: {item['source_release']}" for item in card["evidence"]
     )
-    body_regions = {
-        "description": card["description"].rstrip(),
-        "evidence": evidence,
-        "evolution": "\n".join(f"- {item}" for item in evolves_from)
-        or "No evidence-backed evolution relationship assigned.",
-        "diffusion": "\n".join(
-            f"- {key.replace('_', ' ').title()}: {value}"
-            for key, value in diffusion.items()
+    context_lines = [
+        f"- {card_link(other, card_targets)} · {theme_label(other['theme'], theme_labels)}"
+        for other in sorted(siblings or [], key=lambda item: item["card_id"])
+        if other["card_id"] != card["card_id"]
+    ]
+    nearby_lines = [
+        f"- {label}: {other['date']} · {other['product_name']} · {card_link(other, card_targets)}"
+        for label, other in (("Earlier", earlier), ("Later", later))
+        if other
+    ]
+    relation_lines = [f"- Builds on: {link}" for link in evolves_from]
+    role = raw_diffusion.get("role")
+    if role == "later-observed":
+        first = cards_by_id.get(str(raw_diffusion.get("first_in_tracked", "")))
+        if first:
+            relation_lines.append(
+                "- Earliest same-theme entry in the tracked set: "
+                f"{first['date']} · {first['product_name']} · {card_link(first, card_targets)}"
+            )
+    elif role == "first-observed":
+        count = raw_diffusion.get("tracked_products_count")
+        relation_lines.append(
+            f"- Earliest same-theme entry among the {count} tracked products."
+            if count
+            else "- Earliest same-theme entry in the tracked set."
         )
-        or "- Scope: tracked-products-only",
+    card_path = (
+        (card_targets or {}).get(card["card_id"])
+        or f"Changes/{card['product_name']}/{card['date']}-{card['slug']}"
+    )
+    report_url = feedback_url(repository, card["card_id"], f"{card_path}.md", source_url)
+
+    def section(heading: str, lines: list[str]) -> str:
+        return f"## {heading}\n\n" + "\n".join(lines) if lines else ""
+
+    body_regions = {
+        "header": f"# {card['title'].rstrip()}\n\n" + " · ".join(meta_line),
+        "evidence": evidence,
+        "context": section("Also in this release", context_lines),
+        "nearby": section(f"Nearby in {wiki_label(display)}", nearby_lines),
+        "relations": section("Related", relation_lines),
+        "footer": f"[Report an issue with this card]({report_url})" if report_url else "",
     }
     metadata["machine_hash"] = machine_hash(metadata, body_regions)
-    body = f"# {card['title'].rstrip()}\n\n" + "\n\n".join(
+    body = "\n\n".join(
         machine_region(name, content) for name, content in body_regions.items()
     )
-    body += "\n\n## Editor Notes\n"
     return render_frontmatter(metadata, body)
 
 
@@ -329,6 +633,7 @@ def render_product_markdown(
     card_targets: dict[str, str] | None = None,
     releases: list[dict[str, Any]] | None = None,
     release_targets: dict[str, str] | None = None,
+    theme_labels: dict[str, str] | None = None,
 ) -> str:
     ordered = sorted(cards, key=lambda item: (item["date"], item["card_id"]))
     ordered_releases = sorted(
@@ -345,7 +650,7 @@ def render_product_markdown(
             internal = f" · [[{target}|Archived release]]" if target else ""
             era_lines.append(f"- {evidence['date']}: [{evidence['title']}]({evidence['url']}){internal}")
     change_lines = [
-        f"- {card['date']} {card['theme']}: {card_link(card, card_targets)}"
+        f"- {card['date']} · {theme_label(card['theme'], theme_labels)}: {card_link(card, card_targets)}"
         for card in ordered
     ] or ["- No tracked changes yet."]
     release_lines = [
@@ -356,11 +661,12 @@ def render_product_markdown(
         for release in ordered_releases
         if release_targets and release["release_id"] in release_targets
     ] or ["- No releases collected yet."]
+    top_themes = [theme_label(theme, theme_labels) for theme in product_info.get("top_themes", [])[:5]]
     regions = {
         "summary": (
             f"{product_info['product_name']}: {len(ordered_releases)} archived releases and "
             f"{len(ordered)} tracked changes.\n\n"
-            f"Most represented themes: {', '.join(product_info.get('top_themes', [])[:5])}."
+            f"Most represented themes: {', '.join(top_themes)}."
         ).rstrip(),
         "coverage": render_coverage(product_info.get('coverage', {})),
         "narrative": (product_info.get('narrative_summary', '') + '\n\n' +
@@ -405,29 +711,94 @@ def render_product_markdown(
     return render_frontmatter(fields, body)
 
 
+def release_heading(release: dict[str, Any]) -> str:
+    """``Product · Title``, without repeating a product name the title already starts with."""
+    title = str(release["title"]).strip()
+    product_name = str(release["product_name"])
+    if title.casefold().startswith(product_name.casefold()):
+        return title
+    return f"{product_name} · {title}"
+
+
+def candidate_line_count(release: dict[str, Any]) -> int | None:
+    """Release lines eligible for extraction, from the body or the persisted record."""
+    if release.get("body") is not None:
+        return len(split_release_lines(str(release["body"])))
+    stored = release.get("candidate_line_count")
+    return int(stored) if isinstance(stored, int) and not isinstance(stored, bool) else None
+
+
+def informative_summary(summary: Any, title: Any) -> bool:
+    text = str(summary or "").strip()
+    return (
+        bool(text)
+        and text.casefold() != str(title or "").strip().casefold()
+        and not GENERIC_HEADING_RE.fullmatch(text)
+    )
+
+
 def render_release_markdown(
     release: dict[str, Any],
     card_targets: dict[str, str] | None = None,
+    theme_labels: dict[str, str] | None = None,
 ) -> str:
     cards = sorted(release.get("cards", []), key=lambda card: (card["date"], card["card_id"]))
-    card_lines = [
-        f"- {card['theme']}: {card_link(card, card_targets)}" for card in cards
+    count = len(cards)
+    theme_counts = Counter(card["theme"] for card in cards)
+    theme_displays = [
+        theme_label(theme, theme_labels)
+        for theme, _ in sorted(
+            theme_counts.items(),
+            key=lambda item: (-item[1], theme_label(item[0], theme_labels)),
+        )
     ]
+    heading = release_heading(release)
+    candidates = candidate_line_count(release)
+    card_lines = [
+        f"- {card_link(card, card_targets)} · {theme_label(card['theme'], theme_labels)}"
+        for card in cards
+    ]
+    if informative_summary(release.get("source_summary"), release["title"]):
+        summary = str(release["source_summary"]).strip()
+    elif cards:
+        summary = (
+            f"{plural(count, 'tracked change')} across {plural(len(theme_displays), 'theme')}: "
+            f"{', '.join(theme_displays)}."
+        )
+    else:
+        summary = "No change cards extracted."
+    if candidates is not None and candidates >= count:
+        tracked = f"Tracked {count} of {plural(candidates, 'candidate line')}."
+    else:
+        tracked = f"Tracked {plural(count, 'change')}."
     regions = {
-        "summary": (
-            f"{release.get('source_summary') or release['title']}\n\n"
-            f"[Official release notes]({release['source_url']})\n\n"
-            f"Tracked cards: {len(cards)}"
+        "header": (
+            f"# {heading}\n\n"
+            f"**{release['product_name']}** · {release['date']} · "
+            f"[Official release notes]({markdown_url(release['source_url'])})"
         ),
+        "summary": f"{summary}\n\n{tracked}",
         "cards": "\n".join(card_lines) or "No change cards extracted.",
     }
+    description = (
+        f"{release['product_name']} release {wiki_label(str(release['title']))} on {release['date']}: "
+        + (
+            f"{plural(count, 'tracked change')} across {', '.join(theme_displays)}"
+            if cards
+            else "no tracked changes"
+        )
+    )
+    record = {
+        key: value for key, value in release.items()
+        if key not in {"body", "cards"} and not key.startswith("_")
+    }
+    if candidates is not None:
+        record["candidate_line_count"] = candidates
     fields = {
         "tags": ["release", release["product"]],
-        "title": wiki_label(f"{release['product_name']} — {release['title']}"),
-        "record": {
-            key: value for key, value in release.items()
-            if key not in {"body", "cards"} and not key.startswith("_")
-        },
+        "title": wiki_label(heading),
+        "description": cap_text(description),
+        "record": record,
         "release_id": release["release_id"],
         "product": release["product"],
         "product_name": release["product_name"],
@@ -435,12 +806,12 @@ def render_release_markdown(
         "version": release.get("version") or release["title"],
         "source_url": release["source_url"],
         "source_type": release.get("source_type", "unknown"),
-        "changes_count": len(cards),
+        "changes_count": count,
         "date": release["date"],
     }
     fields["machine_hash"] = machine_hash(fields, regions)
     body = (
-        f"# {release['product_name']} {release['title']}\n\n"
+        f"{machine_region('header', regions['header'])}\n\n"
         f"## Summary\n{machine_region('summary', regions['summary'])}\n\n"
         f"## Change Cards\n{machine_region('cards', regions['cards'])}\n"
     )
@@ -473,6 +844,7 @@ def render_index_markdown(
     analysis_b: dict[str, Any],
     silence: dict[str, Any],
     pending_theme_review: int = 0,
+    theme_labels: dict[str, str] | None = None,
 ) -> str:
     products = analysis_a.get("products", {})
     themes = analysis_b.get("themes", {})
@@ -480,7 +852,10 @@ def render_index_markdown(
         f"- [[Products/{info['product_name']}|{info['product_name']}]]"
         for _, info in sorted(products.items())
     )
-    theme_links = "\n".join(f"- [[Themes/{theme}|{theme}]]" for theme in sorted(themes))
+    theme_links = "\n".join(
+        f"- [[Themes/{theme}|{wiki_label(theme_label(theme, theme_labels))}]]"
+        for theme in sorted(themes)
+    )
     regions = {
         "overview": (
             f"Product count: {len(products)}\n"
@@ -493,7 +868,7 @@ def render_index_markdown(
             f"### {info['product_name']}\n\n{render_coverage(info.get('coverage', {}))}"
             for info in products.values()),
         "featured": "\n".join(
-            f"- [[Themes/{theme}|{theme}]] — {label}"
+            f"- [[Themes/{theme}|{wiki_label(theme_label(theme, theme_labels))}]] — {label}"
             for theme, label in [('agent-mode', 'From assisted edits to delegated work'),
                                  ('pricing-model', 'Plans, allowances, and usage charging')]
             if theme in themes) or "No featured themes yet.",
@@ -710,6 +1085,33 @@ def reconcile_missing_releases(
     return superseded
 
 
+def nearby_cards(
+    theme_cards: list[dict[str, Any]],
+) -> dict[str, tuple[dict[str, Any] | None, dict[str, Any] | None]]:
+    """Earlier and later card of one theme for each card, across products.
+
+    Cards are ordered by ``(date, product_name, card_id)``. Cards of the same release
+    are skipped in both directions, since "Also in this release" already lists them.
+    """
+    ordered = sorted(
+        theme_cards, key=lambda item: (item["date"], item["product_name"], item["card_id"])
+    )
+
+    def closest(index: int, step: int) -> dict[str, Any] | None:
+        release = ordered[index]["source_release"]
+        index += step
+        while 0 <= index < len(ordered):
+            if ordered[index]["source_release"] != release:
+                return ordered[index]
+            index += step
+        return None
+
+    return {
+        card["card_id"]: (closest(index, -1), closest(index, 1))
+        for index, card in enumerate(ordered)
+    }
+
+
 def relative_wiki_target(root: Path, path: Path) -> str:
     return path.relative_to(root).with_suffix("").as_posix()
 
@@ -719,9 +1121,19 @@ def write_run(
     root: Path = ROOT,
     reconcile: bool = False,
     reconcile_products: set[str] | None = None,
+    config_root: Path | None = None,
 ) -> list[dict[str, str]]:
+    """Render every page of a run into ``root``.
+
+    ``config_root`` holds ``_scripts/themes.yaml`` and ``_scripts/sources.yaml`` (the
+    pipeline renders into a staging copy without them); it defaults to ``root``.
+    """
     paths = PipelinePaths(run_id, root=root)
     ensure_vault_dirs(paths.root)
+    config = config_root or root
+    theme_labels = load_theme_labels(config / "_scripts" / "themes.yaml")
+    repository = str(load_site(config / "_scripts" / "sources.yaml").get("repository") or "")
+    migration_pending: list[dict[str, str]] = []
     valid_payload = read_json(paths.valid_cards)
     cards = valid_payload["change_cards"]
     pending_theme_review = valid_payload.get("pending_theme_review", [])
@@ -784,9 +1196,16 @@ def write_run(
             continue
         release["cards"].append(card)
 
+    cards_by_id = {card["card_id"]: card for card in cards}
+    theme_neighbours: dict[str, tuple[dict[str, Any] | None, dict[str, Any] | None]] = {}
+    for theme_cards in cards_by_theme.values():
+        theme_neighbours.update(nearby_cards(theme_cards))
+
     for card in cards:
         if card["source_release"] not in release_paths:
             continue
+        release = releases_by_id.get(card["source_release"])
+        earlier, later = theme_neighbours.get(card["card_id"], (None, None))
         patch_a = {
             "evolves_from": analysis_a.get("evolves_from", {}).get(card["card_id"], [])
         }
@@ -803,8 +1222,16 @@ def write_run(
                 patch_b,
                 card_targets=card_targets,
                 release_target=release_target,
+                release_title=release["title"] if release else None,
+                cards_by_id=cards_by_id,
+                siblings=release["cards"] if release else [],
+                earlier=earlier,
+                later=later,
+                theme_labels=theme_labels,
+                repository=repository,
             ),
             conflicts,
+            migration_pending,
         )
 
     products_info = dict(analysis_a.get("products", {}))
@@ -845,6 +1272,7 @@ def write_run(
                 card_targets,
                 releases=releases_by_product[product],
                 release_targets=release_targets,
+                theme_labels=theme_labels,
             ),
             conflicts,
         )
@@ -852,8 +1280,9 @@ def write_run(
     for release in collected_releases:
         write_markdown_file(
             release_paths[release["release_id"]],
-            render_release_markdown(release, card_targets),
+            render_release_markdown(release, card_targets, theme_labels),
             conflicts,
+            migration_pending,
         )
 
     # A complete reconciliation may retire the last card in a theme. Refresh that
@@ -868,8 +1297,15 @@ def write_run(
         target = paths.root / "Themes" / f"{theme}.md"
         write_markdown_file(
             target,
-            render_theme_markdown(theme, theme_cards, card_targets, analysis_b.get("editorial", {}).get(theme, "")),
+            render_theme_markdown(
+                theme,
+                theme_cards,
+                card_targets,
+                analysis_b.get("editorial", {}).get(theme, ""),
+                theme_labels=theme_labels,
+            ),
             conflicts,
+            migration_pending,
         )
 
     for alert in silence.get("alerts", []):
@@ -884,6 +1320,7 @@ def write_run(
             analysis_b,
             silence,
             pending_theme_review=len(pending_theme_review),
+            theme_labels=theme_labels,
         ),
         conflicts,
     )
@@ -912,6 +1349,15 @@ def write_run(
         write_json(conflict_path, {"failed": conflicts})
     else:
         conflict_path.unlink(missing_ok=True)
+    # Non-blocking: pages that keep a legacy skeleton because a person wrote in them.
+    pending_path = paths.run_dir / "writer-migration-pending.json"
+    if migration_pending:
+        write_json(pending_path, [
+            {**item, "file": Path(item["file"]).relative_to(paths.root).as_posix()}
+            for item in migration_pending
+        ])
+    else:
+        pending_path.unlink(missing_ok=True)
     return conflicts
 
 

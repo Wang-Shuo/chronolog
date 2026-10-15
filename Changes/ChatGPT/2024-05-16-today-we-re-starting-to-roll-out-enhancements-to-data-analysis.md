@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2024-05-16-053bf2
 date: '2024-05-16'
+description: 'ChatGPT · 2024-05-16 · Files and Data: Today, we’re starting to roll
+  out enhancements to data analysis:'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|chatgpt-2023-07-06-66255e]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|ChatGPT
+    rolls out code interpreter to all ChatGPT Plus users over the next week]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 315
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3e61461bdf3a4c3b412a3e45442296ca3726d80c3f177bebc7e39958c05ce96a
+machine_hash: 4a20701eecb1be24bc88d400c1966a6c39006a3ee3036667aaa8f7dfdf7bb94a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -36,7 +39,8 @@ record:
   title: Today, we’re starting to roll out enhancements to data analysis
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|chatgpt-2023-07-06-66255e]]'
+- '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|ChatGPT
+  rolls out code interpreter to all ChatGPT Plus users over the next week]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-05-16-improvements-to-data-analysis-in-chatgpt-a2e63572|chatgpt-2024-05-16-improvements-to-data-analysis-in-chatgpt-a2e63572]]'
 source_type: chatgpt_changelog
 theme: file-data
@@ -44,10 +48,10 @@ title: Today, we’re starting to roll out enhancements to data analysis
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Today, we’re starting to roll out enhancements to data analysis
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Improvements to data analysis in ChatGPT: Today, we’re starting to roll out enhancements to data analysis:
+**ChatGPT** · 2024-05-16 · [[Themes/file-data|Files and Data]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2024-05-16-improvements-to-data-analysis-in-chatgpt-a2e63572|Improvements to data analysis in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -56,19 +60,28 @@ ChatGPT — Improvements to data analysis in ChatGPT: Today, we’re starting to
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2024-05-16-interact-with-tables-and-charts-in-a-new-expandable-view|Interact with tables and charts in a new expandable view]] · Files and Data
+- [[Changes/ChatGPT/2024-05-16-data-analysis-improvements-are-available-in-our-new-flagship-model-gpt-4o-for-ch|Data analysis improvements are available in our new flagship model, GPT-4o…]] · Model Support
+- [[Changes/ChatGPT/2024-05-16-upload-the-latest-file-versions-directly-from-google-drive-microsoft-onedrive-pe|Upload the latest file versions directly from Google Drive, Microsoft OneDrive…]] · Apps and Integrations
+- [[Changes/ChatGPT/2024-05-16-customize-and-download-presentation-ready-charts-and-documents|Customize and download presentation-ready charts and documents]] · Files and Data
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: file-data
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|chatgpt-2023-07-06-66255e]]
-- Lag Days: 315
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Files and Data
+
+- Earlier: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|ChatGPT rolls out code interpreter to all ChatGPT Plus users over the next week]]
+- Later: 2024-12-10 · ChatGPT · [[Changes/ChatGPT/2024-12-10-canvas-in-gpts-canvas-can-now-be-used-with-gpts-when-enabled-in-the-gpt-creator|Canvas in GPTs: Canvas can now be used with GPTs when enabled in the GPT creator]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|ChatGPT rolls out code interpreter to all ChatGPT Plus users over the next week]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2024-05-16-053bf2&body=Card%3A%20Changes%2FChatGPT%2F2024-05-16-today-we-re-starting-to-roll-out-enhancements-to-data-analysis.md%0ACard%20ID%3A%20chatgpt-2024-05-16-053bf2%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

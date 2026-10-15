@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2023-07-12'
-machine_hash: 75b2e9a6a9c7208decbe7a00ad362f21d27327010a25b2867259f2e85dc5544c
+description: 'Cursor release Patch for WSL/SSH (Search and Extensions) on 2023-07-12:
+  1 tracked change across Developer Workflow'
+machine_hash: b5749e8ee6a216372c36e526760f6780f6f88e42b1521084c94b43a25d828738
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2023-07-12'
   product: cursor
   product_name: Cursor
@@ -22,22 +25,24 @@ source_url: https://cursor.com/changelog/0-2-47
 tags:
 - release
 - cursor
-title: Cursor — Patch for WSL/SSH (Search and Extensions)
+title: Cursor · Patch for WSL/SSH (Search and Extensions)
 version: 0.2.47
 ---
 
-# Cursor Patch for WSL/SSH (Search and Extensions)
+<!-- chronolog:begin region="header" -->
+# Cursor · Patch for WSL/SSH (Search and Extensions)
+
+**Cursor** · 2023-07-12 · [Official release notes](https://cursor.com/changelog/0-2-47)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 This update patches search (Cmd/Win+Shift+F) and many extensions for and WSL and SSH users.
 
-[Official release notes](https://cursor.com/changelog/0-2-47)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- developer-workflow: [[Changes/Cursor/2023-07-12-this-update-patches-search-cmd-win-shift-f-and-many-extensions-for-and-wsl-and-s|This update patches search (Cmd/Win+Shift+F) and many extensions for and WSL and SSH users]]
+- [[Changes/Cursor/2023-07-12-this-update-patches-search-cmd-win-shift-f-and-many-extensions-for-and-wsl-and-s|This update patches search (Cmd/Win+Shift+F) and many extensions for and WSL and SSH users]] · Developer Workflow
 <!-- chronolog:end -->

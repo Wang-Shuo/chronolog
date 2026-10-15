@@ -1,10 +1,14 @@
 ---
 changes_count: 4
 date: '2025-07-29'
-machine_hash: 378e2678d0aa03a0d458cffbb7a1dec35ef88f856e0f386c241114bcd8e6c348
+description: 'Cursor release Shared terminal with Agent, context usage in chat, and
+  faster edits on 2025-07-29: 4 tracked changes across Agent Mode, Context Window,
+  Editor…'
+machine_hash: fbf7b6ae0107dfd2e8e0f30e4898cd411b1dc5a80d2d9071ff6584c02ecfae15
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 24
   date: '2025-07-29'
   product: cursor
   product_name: Cursor
@@ -21,25 +25,27 @@ source_url: https://cursor.com/changelog/1-3
 tags:
 - release
 - cursor
-title: Cursor — Shared terminal with Agent, context usage in chat, and faster edits
+title: Cursor · Shared terminal with Agent, context usage in chat, and faster edits
 version: '1.3'
 ---
 
-# Cursor Shared terminal with Agent, context usage in chat, and faster edits
+<!-- chronolog:begin region="header" -->
+# Cursor · Shared terminal with Agent, context usage in chat, and faster edits
+
+**Cursor** · 2025-07-29 · [Official release notes](https://cursor.com/changelog/1-3)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 #Share terminal with Agent
 
-[Official release notes](https://cursor.com/changelog/1-3)
-
-Tracked cards: 4
+Tracked 4 of 24 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- reliability-performance: [[Changes/Cursor/2025-07-29-agent-edits-are-now-faster-by-lazy-loading-linter-errors-search-replace-edit-lat|Agent edits are now faster by lazy loading linter errors]]
-- agent-mode: [[Changes/Cursor/2025-07-29-agents-can-now-use-your-native-terminal-a-new-terminal-will-be-created-when-need|Agents can now use your native terminal]]
-- context-window: [[Changes/Cursor/2025-07-29-at-the-end-of-a-conversation-you-can-now-see-how-much-of-the-context-window-is-u|At the end of a conversation you can now see how much of the context window is used]]
-- editor-experience: [[Changes/Cursor/2025-07-29-active-tab-in-chat|Active Tab in Chat]]
+- [[Changes/Cursor/2025-07-29-agent-edits-are-now-faster-by-lazy-loading-linter-errors-search-replace-edit-lat|Agent edits are now faster by lazy loading linter errors]] · Reliability and Performance
+- [[Changes/Cursor/2025-07-29-agents-can-now-use-your-native-terminal-a-new-terminal-will-be-created-when-need|Agents can now use your native terminal]] · Agent Mode
+- [[Changes/Cursor/2025-07-29-at-the-end-of-a-conversation-you-can-now-see-how-much-of-the-context-window-is-u|At the end of a conversation you can now see how much of the context window is used]] · Context Window
+- [[Changes/Cursor/2025-07-29-active-tab-in-chat|Active Tab in Chat]] · Editor Experience
 <!-- chronolog:end -->

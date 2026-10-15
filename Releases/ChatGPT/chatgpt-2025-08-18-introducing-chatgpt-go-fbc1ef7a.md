@@ -1,10 +1,14 @@
 ---
 changes_count: 4
 date: '2025-08-18'
-machine_hash: 7f8bdbe8edfea9c1bf8b26632d693f000ede5782de6d9d09379ccb9525768860
+description: 'ChatGPT release Introducing ChatGPT Go on 2025-08-18: 4 tracked changes
+  across Image Generation, Memory and Personalization, Mobile and Desktop, Pricing
+  Model'
+machine_hash: 63521d7096a35bfbb2675407fe7ed4a8dfe543c862ffd997de8bde06abc5608f
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 5
   date: '2025-08-18'
   product: chatgpt
   product_name: ChatGPT
@@ -23,25 +27,27 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Introducing ChatGPT Go
+title: ChatGPT · Introducing ChatGPT Go
 version: Introducing ChatGPT Go
 ---
 
-# ChatGPT Introducing ChatGPT Go
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Introducing ChatGPT Go
+
+**ChatGPT** · 2025-08-18 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 We’re launching ChatGPT Go, a new low-cost subscription plan. This will initially be available for users in India only.For ₹399/month (GST included), ChatGPT Go provides everything included in the Free plan, and:
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 4
+Tracked 4 of 5 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- mobile-desktop: [[Changes/ChatGPT/2025-08-18-available-on-web-mobile-ios-android-and-desktop-macos-windows-chatgpt-go-is-geo|Available on web, mobile (iOS & Android), and desktop (macOS & Windows)]]
-- memory: [[Changes/ChatGPT/2025-08-18-longer-memory-for-more-personalized-responses|Longer memory for more personalized responses]]
-- image-generation: [[Changes/ChatGPT/2025-08-18-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]]
-- pricing-model: [[Changes/ChatGPT/2025-08-18-we-re-launching-chatgpt-go-a-new-low-cost-subscription-plan-this-will-initially-e5f740|ChatGPT launches ChatGPT Go, a new low-cost subscription plan]]
+- [[Changes/ChatGPT/2025-08-18-available-on-web-mobile-ios-android-and-desktop-macos-windows-chatgpt-go-is-geo|Available on web, mobile (iOS & Android), and desktop (macOS & Windows)]] · Mobile and Desktop
+- [[Changes/ChatGPT/2025-08-18-longer-memory-for-more-personalized-responses|Longer memory for more personalized responses]] · Memory and Personalization
+- [[Changes/ChatGPT/2025-08-18-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]] · Image Generation
+- [[Changes/ChatGPT/2025-08-18-we-re-launching-chatgpt-go-a-new-low-cost-subscription-plan-this-will-initially-e5f740|ChatGPT launches ChatGPT Go, a new low-cost subscription plan]] · Pricing Model
 <!-- chronolog:end -->

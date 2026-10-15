@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2026-04-21'
-machine_hash: 2353531d92bba0b0a90b621e92fb947433d34c74b21b9ab5c3a53adc2ea9430c
+description: 'ChatGPT release ChatGPT Images 2.0 in ChatGPT on 2026-04-21: 1 tracked
+  change across Image Generation'
+machine_hash: e7bcac7a92227d38e8a09ff899efbafb08c862d81749967cda72ce9693819e87
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 1
   date: '2026-04-21'
   product: chatgpt
   product_name: ChatGPT
@@ -24,22 +27,24 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — ChatGPT Images 2.0 in ChatGPT
+title: ChatGPT Images 2.0 in ChatGPT
 version: ChatGPT Images 2.0 in ChatGPT
 ---
 
-# ChatGPT ChatGPT Images 2.0 in ChatGPT
+<!-- chronolog:begin region="header" -->
+# ChatGPT Images 2.0 in ChatGPT
+
+**ChatGPT** · 2026-04-21 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 We’re introducing ChatGPT Images 2.0, our new image generation model in ChatGPT. ChatGPT Images 2.0 is available on all ChatGPT plans.We’re also introducing images with thinking. When given more time to think, it can plan and refine image outputs before generating them.Images with thinking is available on all paid…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- image-generation: [[Changes/ChatGPT/2026-04-21-we-re-introducing-chatgpt-images-2-0-our-new-image-generation-model-in-chatgpt-c|ChatGPT introduces ChatGPT Images 2.0, our new image generation model]]
+- [[Changes/ChatGPT/2026-04-21-we-re-introducing-chatgpt-images-2-0-our-new-image-generation-model-in-chatgpt-c|ChatGPT introduces ChatGPT Images 2.0, our new image generation model]] · Image Generation
 <!-- chronolog:end -->

@@ -1,10 +1,13 @@
 ---
 changes_count: 3
 date: '2023-08-30'
-machine_hash: bac19d26da748746e75f5f365cff83053dcf48eedc2921d8622379ca59aef495
+description: 'Cursor release Auditable codebase context, VS Code left bar on 2023-08-30:
+  3 tracked changes across Context Window, Interface Experience, Safety and Privacy'
+machine_hash: c62cccc975b130b2bfff1378c608a440049842f094b28eda00e12130d57d0f4f
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 5
   date: '2023-08-30'
   product: cursor
   product_name: Cursor
@@ -21,24 +24,26 @@ source_url: https://cursor.com/changelog/0-9-0
 tags:
 - release
 - cursor
-title: Cursor — Auditable codebase context, VS Code left bar
+title: Cursor · Auditable codebase context, VS Code left bar
 version: 0.9.0
 ---
 
-# Cursor Auditable codebase context, VS Code left bar
+<!-- chronolog:begin region="header" -->
+# Cursor · Auditable codebase context, VS Code left bar
+
+**Cursor** · 2023-08-30 · [Official release notes](https://cursor.com/changelog/0-9-0)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 You can now switch to the VS Code sidebar orientation
 
-[Official release notes](https://cursor.com/changelog/0-9-0)
-
-Tracked cards: 3
+Tracked 3 of 5 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- interface-experience: [[Changes/Cursor/2023-08-30-you-can-now-switch-to-the-vs-code-sidebar-orientation|Switch to the VS Code sidebar orientation]]
-- safety-privacy: [[Changes/Cursor/2023-08-30-api-key-input-box-is-now-a-password-type|API Key input box is now a password type]]
-- context-window: [[Changes/Cursor/2023-08-30-for-with-codebase-chats-you-can-now-see-the-codebase-context-that-cursor-shows-g|For "with codebase" chats, you can now see the codebase context that Cursor shows GPT-4]]
+- [[Changes/Cursor/2023-08-30-you-can-now-switch-to-the-vs-code-sidebar-orientation|Switch to the VS Code sidebar orientation]] · Interface Experience
+- [[Changes/Cursor/2023-08-30-api-key-input-box-is-now-a-password-type|API Key input box is now a password type]] · Safety and Privacy
+- [[Changes/Cursor/2023-08-30-for-with-codebase-chats-you-can-now-see-the-codebase-context-that-cursor-shows-g|For "with codebase" chats, you can now see the codebase context that Cursor shows GPT-4]] · Context Window
 <!-- chronolog:end -->

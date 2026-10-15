@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2023-03-23-b62dc8
 date: '2023-03-23'
+description: 'ChatGPT · 2023-03-23 · Apps and Integrations: We are announcing experimental
+  support for AI plugins in ChatGPT — tools designed specifically for language…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
+    can join the waitlist to try plugins here]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 0
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 8739fd8703da7a3e0e36a7ee2619d06423dc59b01369cf2029efca0b4d14b29d
+machine_hash: 19a0bfcf32a6d067face226b8c6f7ea7d83c9c6d071a3369f243ce0a9722963e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -56,7 +59,8 @@ record:
   title: We are announcing experimental support for AI plugins in ChatGPT
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]'
+- '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
+  can join the waitlist to try plugins here]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8|chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -64,10 +68,10 @@ title: We are announcing experimental support for AI plugins in ChatGPT
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # We are announcing experimental support for AI plugins in ChatGPT
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Introducing plugins in ChatGPT: We are announcing experimental support for AI plugins in ChatGPT — tools designed specifically for language models. Plugins can help ChatGPT access up-to-date information, run computations, or use third-party services. You can learn more about plugins here.Today, we will begin extending plugin access to users and developers from our waitlist. The plugins we are rolling out with are:
+**ChatGPT** · 2023-03-23 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8|Introducing plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -76,19 +80,27 @@ ChatGPT — Introducing plugins in ChatGPT: We are announcing experimental suppo
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2023-03-23-third-party-plugins-an-experimental-model-that-knows-when-and-how-to-use-externa|Third-party plugins: An experimental model that knows when and how to use external plugins]] · Model Support
+- [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]] · Apps and Integrations
+- [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]] · Search and Browsing
+- [[Changes/ChatGPT/2023-03-23-code-interpreter-an-experimental-chatgpt-model-that-can-use-python-and-handles-u|Code Interpreter: An experimental ChatGPT model that can use Python, and handles…]] · Model Support
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: apps-integrations
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]
-- Lag Days: 0
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Apps and Integrations
+
+- Later: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-one-click-extension-import-from-vs-code-beta-as-a-highly-requested-feature-we-re|One-Click Extension Import from VS Code (beta)]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-03-23-b62dc8&body=Card%3A%20Changes%2FChatGPT%2F2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-b62dc8.md%0ACard%20ID%3A%20chatgpt-2023-03-23-b62dc8%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

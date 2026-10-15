@@ -1,8 +1,12 @@
 ---
 card_id: chatgpt-2024-12-12-5a71ee
 date: '2024-12-12'
+description: 'ChatGPT · 2024-12-12 · Multimodal Input: Use the controls at the bottom
+  of the screen, like the camera button below, to get started. You can find screen
+  share…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-11-27-image-support-in-chat-you-can-now-drag-and-drop-images-into-the-chat-to-send-the|cursor-2023-11-27-1702a4]]'
+  first_in_tracked: '[[Changes/Cursor/2023-11-27-image-support-in-chat-you-can-now-drag-and-drop-images-into-the-chat-to-send-the|Image
+    Support in Chat]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 381
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7c3df72472d5dc3b8d6876f7e23f08cebf681459e82c6b840ebcb61443be6cbd
+machine_hash: a648f1db45bd82a9fe02699c86276478283e095080d8e13bca149eafb568d20c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,7 +55,8 @@ record:
     to get started
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-11-27-image-support-in-chat-you-can-now-drag-and-drop-images-into-the-chat-to-send-the|cursor-2023-11-27-1702a4]]'
+- '[[Changes/Cursor/2023-11-27-image-support-in-chat-you-can-now-drag-and-drop-images-into-the-chat-to-send-the|Image
+  Support in Chat]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-12-12-santa-voice-and-video-and-screen-share-in-voice-chats-89eb483d|chatgpt-2024-12-12-santa-voice-and-video-and-screen-share-in-voice-chats-89eb483d]]'
 source_type: chatgpt_changelog
 theme: multimodal
@@ -60,10 +65,10 @@ title: Use the controls at the bottom of the screen, like the camera button belo
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Use the controls at the bottom of the screen, like the camera button below, to get started
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Santa Voice and Video and Screen Share in Voice Chats: Use the controls at the bottom of the screen, like the camera button below, to get started. You can find screen share and image upload controls under the “...” menu at the bottom of the screen.
+**ChatGPT** · 2024-12-12 · [[Themes/multimodal|Multimodal Input]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2024-12-12-santa-voice-and-video-and-screen-share-in-voice-chats-89eb483d|Santa Voice and Video and Screen Share in Voice Chats]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -72,19 +77,28 @@ ChatGPT — Santa Voice and Video and Screen Share in Voice Chats: Use the contr
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2024-12-12-video-and-screenshare-in-our-latest-mobile-apps-we-are-starting-to-roll-out-real|Video and screenshare]] · Voice and Audio
+- [[Changes/ChatGPT/2024-12-12-today-we-started-rolling-out-two-updates-to-voice-mode-in-chatgpt|Today we started rolling out two updates to voice mode in ChatGPT]] · Voice and Audio
+- [[Changes/ChatGPT/2024-12-12-santa-voice-you-can-now-chat-with-santa-in-chatgpt-until-early-january-you-can-f|Santa voice: You can now chat with Santa in ChatGPT!]] · Voice and Audio
+- [[Changes/ChatGPT/2024-12-12-the-first-time-you-chat-with-santa-your-advanced-voice-limit-will-reset-one-time|The first time you chat with Santa, your advanced voice limit will reset one time]] · Voice and Audio
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: multimodal
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-11-27-image-support-in-chat-you-can-now-drag-and-drop-images-into-the-chat-to-send-the|cursor-2023-11-27-1702a4]]
-- Lag Days: 381
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Multimodal Input
+
+- Earlier: 2023-11-27 · Cursor · [[Changes/Cursor/2023-11-27-image-support-in-chat-you-can-now-drag-and-drop-images-into-the-chat-to-send-the|Image Support in Chat]]
+- Later: 2025-12-19 · Claude Code · [[Changes/Claude Code/2025-12-19-added-clickable-image-n-links-that-open-attached-images-in-the-default-viewer|Added clickable Image ♯N links that open attached images in the default viewer]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-11-27 · Cursor · [[Changes/Cursor/2023-11-27-image-support-in-chat-you-can-now-drag-and-drop-images-into-the-chat-to-send-the|Image Support in Chat]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2024-12-12-5a71ee&body=Card%3A%20Changes%2FChatGPT%2F2024-12-12-use-the-controls-at-the-bottom-of-the-screen-like-the-camera-button-below-to-get.md%0ACard%20ID%3A%20chatgpt-2024-12-12-5a71ee%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

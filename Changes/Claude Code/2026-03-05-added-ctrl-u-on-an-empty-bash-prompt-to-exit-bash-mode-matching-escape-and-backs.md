@@ -1,8 +1,10 @@
 ---
 card_id: claude-code-2026-03-05-3c133d
 date: '2026-03-05'
+description: 'Claude Code · 2026-03-05 · Developer Workflow: Added Ctrl+U on an empty
+  bash prompt (`!`) to exit bash mode, matching `escape` and `backspace`'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|cursor-2023-03-18-76a713]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1083
   relation: same-theme-chronology
@@ -13,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 60c0a7d8153e9981697e1b8596fdc08dfc3e463a910751c001b025757f7133c3
+machine_hash: d2970610f133e777f2d86f941f32add40d55362e16cd2ece67e7af540432d18c
 product: claude-code
 product_name: Claude Code
 record:
@@ -39,9 +41,12 @@ record:
   title: Added Ctrl+U on an empty bash prompt (`!`) to exit bash mode, matching `escape`…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-28-added-simplify-and-batch-bundled-slash-commands|claude-code-2026-02-28-e4d867]]'
-- '[[Changes/Cursor/2026-03-03-added-support-for-multiple-parallel-debug-mode-sessions|cursor-2026-03-03-6534aa]]'
-- '[[Changes/Cursor/2026-03-03-this-release-introduces-interactive-uis-in-agent-chats-a-way-for-teams-to-share|cursor-2026-03-03-e2dc21]]'
+- '[[Changes/Claude Code/2026-02-28-added-simplify-and-batch-bundled-slash-commands|Added
+  /simplify and /batch bundled slash commands]]'
+- '[[Changes/Cursor/2026-03-03-added-support-for-multiple-parallel-debug-mode-sessions|Added
+  support for multiple parallel Debug mode sessions]]'
+- '[[Changes/Cursor/2026-03-03-this-release-introduces-interactive-uis-in-agent-chats-a-way-for-teams-to-share|Cursor
+  introduces interactive UIs in agent chats, a way for teams to share private…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44|claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44]]'
 source_type: github_releases
 theme: developer-workflow
@@ -49,10 +54,10 @@ title: Added Ctrl+U on an empty bash prompt (!) to exit bash mode, matching esca
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Added Ctrl+U on an empty bash prompt (`!`) to exit bash mode, matching `escape`…
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.69: Added Ctrl+U on an empty bash prompt (`!`) to exit bash mode, matching `escape` and `backspace`
+**Claude Code** · 2026-03-05 · [[Themes/developer-workflow|Developer Workflow]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.69) · from [[Releases/Claude Code/claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44|v2.1.69]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -61,19 +66,28 @@ Claude Code — v2.1.69: Added Ctrl+U on an empty bash prompt (`!`) to exit bash
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.69
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-03-05-added-the-claude-api-skill-for-building-applications-with-the-claude-api-and-ant|Added the /claude-api skill for building applications with the Claude API…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-03-05-added-voice-stt-support-for-10-new-languages-20-total-russian-polish-turkish-dut|Added Voice STT support for 10 new languages (20 total)]] · Voice and Audio
+- [[Changes/Claude Code/2026-03-05-added-numeric-keypad-support-for-selecting-options-in-claude-s-interview-questio|Added numeric keypad support for selecting options in Claude's interview questions…]] · Interface Experience
+- [[Changes/Claude Code/2026-03-05-added-optional-name-argument-to-remote-control-and-claude-remote-control-remote|Added optional name argument to /remote-control and claude remote-control…]] · Apps and Integrations
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: developer-workflow
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-18-built-in-terminal|cursor-2023-03-18-76a713]]
-- Lag Days: 1083
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Developer Workflow
+
+- Earlier: 2026-03-03 · Cursor · [[Changes/Cursor/2026-03-03-this-release-introduces-interactive-uis-in-agent-chats-a-way-for-teams-to-share|Cursor introduces interactive UIs in agent chats, a way for teams to share private…]]
+- Later: 2026-03-07 · Claude Code · [[Changes/Claude Code/2026-03-07-added-fmt-comm-cmp-numfmt-expr-test-printf-getconf-seq-tsort-and-pr-to-the-bash|Added fmt, comm, cmp, numfmt, expr, test, printf, getconf, seq…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-03-05-3c133d&body=Card%3A%20Changes%2FClaude%20Code%2F2026-03-05-added-ctrl-u-on-an-empty-bash-prompt-to-exit-bash-mode-matching-escape-and-backs.md%0ACard%20ID%3A%20claude-code-2026-03-05-3c133d%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.69%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

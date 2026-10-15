@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2026-07-09-e26c54
 date: '2026-07-09'
+description: 'ChatGPT · 2026-07-09 · Mobile and Desktop: The new ChatGPT desktop app
+  is available globally for macOS and Windows. It combines Chat for questions and…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support 🥳]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1213
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: a5ae17975689220ca52600b6947b90db062d8c0913a3f6cb83baa615deda8428
+machine_hash: d89d8eed1c1936845d2dcc10ce2bd67a78c676c59ecbd1a914a1cb2b01c5f508
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,9 +45,12 @@ record:
   title: The new ChatGPT desktop app is available globally for macOS and Windows
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-29-improved-background-session-reliability-long-running-commands-and-workflows-now|claude-code-2026-06-29-a914be]]'
-- '[[Changes/Cursor/2026-06-29-cursor-for-ios-is-now-available-in-public-beta-on-all-paid-plans-launch-and-mana|cursor-2026-06-29-6ebb5e]]'
-- '[[Changes/ChatGPT/2026-07-09-to-create-a-site-start-in-chatgpt-work-on-the-web-or-in-work-or-codex-in-the-cha|chatgpt-2026-07-09-55908c]]'
+- '[[Changes/Claude Code/2026-06-29-improved-background-session-reliability-long-running-commands-and-workflows-now|Improved
+  background session reliability]]'
+- '[[Changes/Cursor/2026-06-29-cursor-for-ios-is-now-available-in-public-beta-on-all-paid-plans-launch-and-mana|Cursor
+  for iOS is now available in public beta on all paid plans]]'
+- '[[Changes/ChatGPT/2026-07-09-to-create-a-site-start-in-chatgpt-work-on-the-web-or-in-work-or-codex-in-the-cha|To
+  create a Site, start in ChatGPT Work on the web or in Work or Codex…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together-90482810|chatgpt-2026-07-09-the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together-90482810]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -52,10 +58,10 @@ title: The new ChatGPT desktop app is available globally for macOS and Windows
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # The new ChatGPT desktop app is available globally for macOS and Windows
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — The new ChatGPT desktop app brings Chat, Work, and Codex together: The new ChatGPT desktop app is available globally for macOS and Windows. It combines Chat for questions and conversation, Work for research and finished deliverables, and Codex for software development in one app.
+**ChatGPT** · 2026-07-09 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-07-09-the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together-90482810|The new ChatGPT desktop app brings Chat, Work, and Codex together]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -64,19 +70,26 @@ ChatGPT — The new ChatGPT desktop app brings Chat, Work, and Codex together: T
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2026-07-09-if-you-already-use-the-codex-app-update-it-as-usual-to-move-to-the-new-chatgpt-d|If you already use the Codex app, update it as usual to move to the new ChatGPT…]] · Safety and Privacy
+- [[Changes/ChatGPT/2026-07-09-on-desktop-work-can-use-local-files-and-desktop-apps-with-your-permission-the-bu|On desktop, Work can use local files and desktop apps with your permission]] · Safety and Privacy
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: mobile-desktop
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]
-- Lag Days: 1213
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Mobile and Desktop
+
+- Earlier: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-to-create-a-site-start-in-chatgpt-work-on-the-web-or-in-work-or-codex-in-the-cha|To create a Site, start in ChatGPT Work on the web or in Work or Codex…]]
+- Later: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-beginning-july-9-users-on-web-ios-and-android-will-no-longer-be-able-to-create-n|Beginning July 9, users on web, iOS, and Android will no longer be able to create…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-07-09-e26c54&body=Card%3A%20Changes%2FChatGPT%2F2026-07-09-the-new-chatgpt-desktop-app-is-available-globally-for-macos-and-windows-it-combi.md%0ACard%20ID%3A%20chatgpt-2026-07-09-e26c54%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

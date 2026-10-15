@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2026-02-04-e93d5a
 date: '2026-02-04'
+description: 'ChatGPT · 2026-02-04 · Model Support: Jan 10, 2026: We lowered the Standard
+  and Light thinking time as we observed users prefer faster responses. As part of…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We
+    made more improvements to the ChatGPT model!]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1122
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 542761610df3ac145f3440a8445c13d44562231b48de91958c8177c9740670e4
+machine_hash: c56f276f5cb2dcbdca3d8250d5bb911c5ba335d676994b11fae087aa7e614807
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -84,9 +87,12 @@ record:
     users…'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-01-20-we-re-rolling-out-an-age-prediction-model-on-chatgpt-consumer-plans-to-help-dete|chatgpt-2026-01-20-1a215f]]'
-- '[[Changes/ChatGPT/2026-01-22-we-re-updating-gpt-5-2-instant-s-default-personality-to-be-more-conversational-a|chatgpt-2026-01-22-e38ffc]]'
-- '[[Changes/ChatGPT/2026-01-29-on-february-13-2026-alongside-the-previously-announced-retirement-of-gpt-5-insta|chatgpt-2026-01-29-23f4fe]]'
+- '[[Changes/ChatGPT/2026-01-20-we-re-rolling-out-an-age-prediction-model-on-chatgpt-consumer-plans-to-help-dete|ChatGPT
+  rolls out an age prediction model on ChatGPT consumer plans to help…]]'
+- '[[Changes/ChatGPT/2026-01-22-we-re-updating-gpt-5-2-instant-s-default-personality-to-be-more-conversational-a|We’re
+  updating GPT-5.2 Instant’s default personality to be more conversational…]]'
+- '[[Changes/ChatGPT/2026-01-29-on-february-13-2026-alongside-the-previously-announced-retirement-of-gpt-5-insta|On
+  February 13, 2026, alongside the previously announced retirement of GPT‑5…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-04-update-on-thinking-time-settings-for-gpt-5-2-thinking-in-chatgpt-6e7ea431|chatgpt-2026-02-04-update-on-thinking-time-settings-for-gpt-5-2-thinking-in-chatgpt-6e7ea431]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -95,10 +101,10 @@ title: 'Jan 10, 2026: We lowered the Standard and Light thinking time as we obse
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Jan 10, 2026: We lowered the Standard and Light thinking time as we observed users…
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Update on thinking time settings for GPT-5.2 Thinking in ChatGPT: Jan 10, 2026: We lowered the Standard and Light thinking time as we observed users prefer faster responses. As part of this update, the Extended thinking setting for GPT-5.2 was unintentionally changed to be lower which we have now fixed.February 3, 2026: We made another small reduction to Standard thinking time based on testing.February 4, 2026: We’re restoring the Extended thinking level for GPT-5.2 Thinking to its prior setting, correcting the inadvertent reduction from January. Extended is now back to its prior level.We periodically adjust the default thinking time for our reasoning models. These changes are based on ongoing experiments to find the best balance between answer quality and response speed for users.The thinking level toggle introduced in September 2025 gives users more choice beyond Standard, allowing them to select the right thinking level for their question—whether they want lighter, faster responses or more extended reasoning when depth and accuracy matter more.Thinking time is not directly comparable across different models. Each model is tuned independently to what works best for users. We’ll continue to adjust these settings as models evolve, and will keep giving users clear controls when there are meaningful tradeoffs to choose from.
+**ChatGPT** · 2026-02-04 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-02-04-update-on-thinking-time-settings-for-gpt-5-2-thinking-in-chatgpt-6e7ea431|Update on thinking time settings for GPT-5.2 Thinking in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -107,19 +113,23 @@ ChatGPT — Update on thinking time settings for GPT-5.2 Thinking in ChatGPT: Ja
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: model-support
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]
-- Lag Days: 1122
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Model Support
+
+- Earlier: 2026-01-29 · ChatGPT · [[Changes/ChatGPT/2026-01-29-on-february-13-2026-alongside-the-previously-announced-retirement-of-gpt-5-insta|On February 13, 2026, alongside the previously announced retirement of GPT‑5…]]
+- Later: 2026-02-04 · Claude Code · [[Changes/Claude Code/2026-02-04-improved-system-prompts-to-more-clearly-guide-the-model-toward-using-dedicated-t|Improved system prompts to more clearly guide the model toward using dedicated tools…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We made more improvements to the ChatGPT model!]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-02-04-e93d5a&body=Card%3A%20Changes%2FChatGPT%2F2026-02-04-jan-10-2026-we-lowered-the-standard-and-light-thinking-time-as-we-observed-users-e93d5a.md%0ACard%20ID%3A%20chatgpt-2026-02-04-e93d5a%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

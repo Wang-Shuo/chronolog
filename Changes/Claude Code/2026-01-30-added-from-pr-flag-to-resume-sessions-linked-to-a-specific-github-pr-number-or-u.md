@@ -1,8 +1,11 @@
 ---
 card_id: claude-code-2026-01-30-ccc8e3
 date: '2026-01-30'
+description: 'Claude Code · 2026-01-30 · Projects and Workspaces: Added `--from-pr`
+  flag to resume sessions linked to a specific GitHub PR number or URL'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-conversation-history-you-ll-soon-be-able-to-view-past-conversations-with-chatgpt|chatgpt-2022-12-15-23a232]]'
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-conversation-history-you-ll-soon-be-able-to-view-past-conversations-with-chatgpt|Conversation
+    history: You’ll soon be able to view past conversations with ChatGPT…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1142
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 09254f6f96d22f3adeb41df90dd1d1417d52226cbccbb192c6610c7af1d7f95e
+machine_hash: 1e0b453add3cccbad824066ccf46efcab519184c31837a52405131b06f965352
 product: claude-code
 product_name: Claude Code
 record:
@@ -40,9 +43,12 @@ record:
     number or URL
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-12-starting-a-new-project-directly-from-a-chat|chatgpt-2025-06-12-6e1e0c]]'
-- '[[Changes/ChatGPT/2025-09-04-you-can-now-branch-conversations-in-chatgpt-making-it-easier-to-explore-differen-78eb21|chatgpt-2025-09-04-78eb21]]'
-- '[[Changes/Claude Code/2025-12-19-added-support-for-custom-session-ids-when-forking-sessions-with-session-id-combi|claude-code-2025-12-19-ad2ecb]]'
+- '[[Changes/ChatGPT/2025-06-12-starting-a-new-project-directly-from-a-chat|Starting
+  a new project directly from a chat]]'
+- '[[Changes/ChatGPT/2025-09-04-you-can-now-branch-conversations-in-chatgpt-making-it-easier-to-explore-differen-78eb21|Branch
+  conversations in ChatGPT, making it easier to explore different directions…]]'
+- '[[Changes/Claude Code/2025-12-19-added-support-for-custom-session-ids-when-forking-sessions-with-session-id-combi|Added
+  support for custom session IDs when forking sessions with --session-id…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-30-v2-1-27-github-281663155-d003937d|claude-code-2026-01-30-v2-1-27-github-281663155-d003937d]]'
 source_type: github_releases
 theme: projects-workspaces
@@ -51,10 +57,10 @@ title: Added --from-pr flag to resume sessions linked to a specific GitHub PR nu
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Added `--from-pr` flag to resume sessions linked to a specific GitHub PR number or URL
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.27: Added `--from-pr` flag to resume sessions linked to a specific GitHub PR number or URL
+**Claude Code** · 2026-01-30 · [[Themes/projects-workspaces|Projects and Workspaces]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.27) · from [[Releases/Claude Code/claude-code-2026-01-30-v2-1-27-github-281663155-d003937d|v2.1.27]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -63,19 +69,28 @@ Claude Code — v2.1.27: Added `--from-pr` flag to resume sessions linked to a s
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.27
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-01-30-permissions-now-respect-content-level-ask-over-tool-level-allow-previously-allow|Permissions now respect content-level ask over tool-level allow]] · Safety and Privacy
+- [[Changes/Claude Code/2026-01-30-sessions-are-now-automatically-linked-to-prs-when-created-via-gh-pr-create|Sessions are now automatically linked to PRs when created via gh pr create]] · Developer Workflow
+- [[Changes/Claude Code/2026-01-30-added-tool-call-failures-and-denials-to-debug-logs|Added tool call failures and denials to debug logs]] · Developer Workflow
+- [[Changes/Claude Code/2026-01-30-vscode-enabled-claude-in-chrome-integration|VSCode: Enabled Claude in Chrome integration]] · Apps and Integrations
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: projects-workspaces
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2022-12-15-conversation-history-you-ll-soon-be-able-to-view-past-conversations-with-chatgpt|chatgpt-2022-12-15-23a232]]
-- Lag Days: 1142
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Projects and Workspaces
+
+- Earlier: 2025-12-19 · Claude Code · [[Changes/Claude Code/2025-12-19-added-support-for-custom-session-ids-when-forking-sessions-with-session-id-combi|Added support for custom session IDs when forking sessions with --session-id…]]
+- Later: 2026-02-04 · Claude Code · [[Changes/Claude Code/2026-02-04-added-session-resume-hint-on-exit-showing-how-to-continue-your-conversation-late|Added session resume hint on exit, showing how to continue your conversation later]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-conversation-history-you-ll-soon-be-able-to-view-past-conversations-with-chatgpt|Conversation history: You’ll soon be able to view past conversations with ChatGPT…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-01-30-ccc8e3&body=Card%3A%20Changes%2FClaude%20Code%2F2026-01-30-added-from-pr-flag-to-resume-sessions-linked-to-a-specific-github-pr-number-or-u.md%0ACard%20ID%3A%20claude-code-2026-01-30-ccc8e3%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.27%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

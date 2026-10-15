@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2024-01-03'
-machine_hash: b93848909dd28f1d40641c2c921fc753295e6549451c18693bd3cc305eb091d8
+description: 'Cursor release Early Preview: Hold-cmd-tap-shift to Trigger AI Rewrite
+  on 2024-01-03: 1 tracked change across Editor Experience'
+machine_hash: bbdc9090e96294cf54935e632582e80a4f2932a720f2c4d180742bb563ee4b8f
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2024-01-03'
   product: cursor
   product_name: Cursor
@@ -25,22 +28,24 @@ source_url: https://cursor.com/changelog/0-21-5-nightly
 tags:
 - release
 - cursor
-title: 'Cursor — Early Preview: Hold-cmd-tap-shift to Trigger AI Rewrite'
+title: 'Cursor · Early Preview: Hold-cmd-tap-shift to Trigger AI Rewrite'
 version: 0.21.5-nightly
 ---
 
-# Cursor Early Preview: Hold-cmd-tap-shift to Trigger AI Rewrite
+<!-- chronolog:begin region="header" -->
+# Cursor · Early Preview: Hold-cmd-tap-shift to Trigger AI Rewrite
+
+**Cursor** · 2024-01-03 · [Official release notes](https://cursor.com/changelog/0-21-5-nightly)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Hold down command, press and release shift, and continue holding down command. This will trigger the AI to rewrite code around your Cursor — you can think of it as a manually triggered GPT-4-powered Copilot++. You can use it to write pseudocode and have the AI correct it, or for tedious refactors where Copilot++…
 
-[Official release notes](https://cursor.com/changelog/0-21-5-nightly)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- editor-experience: [[Changes/Cursor/2024-01-03-hold-down-command-press-and-release-shift-and-continue-holding-down-command-this|Hold down command, press and release shift, and continue holding down command]]
+- [[Changes/Cursor/2024-01-03-hold-down-command-press-and-release-shift-and-continue-holding-down-command-this|Hold down command, press and release shift, and continue holding down command]] · Editor Experience
 <!-- chronolog:end -->

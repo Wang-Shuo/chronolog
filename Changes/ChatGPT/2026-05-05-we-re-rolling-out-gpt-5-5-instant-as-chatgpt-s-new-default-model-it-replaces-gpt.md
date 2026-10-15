@@ -1,8 +1,12 @@
 ---
 card_id: chatgpt-2026-05-05-224f9a
 date: '2026-05-05'
+description: 'ChatGPT · 2026-05-05 · Model Support: We’re rolling out GPT-5.5 Instant
+  as ChatGPT’s new default model. It replaces GPT-5.3 Instant for all ChatGPT users
+  and…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We
+    made more improvements to the ChatGPT model!]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1212
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 7cbba51d7a65cbfebb50cad2a6dd8d7d45458cad5c4d6c16e386621b95c3d29a
+machine_hash: 027508ef86d052a65682691f41437f1cfb3b6a5732056de22bbba4c9d14f4fb3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -73,9 +77,12 @@ record:
   title: ChatGPT rolls out GPT-5.5 Instant as ChatGPT’s new default model
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-01-the-model-picker-now-lists-models-from-your-gateway-s-v1-models-endpoint-when-an|claude-code-2026-05-01-f3cdd1]]'
-- '[[Changes/Claude Code/2026-05-04-updated-model-picker-collapsed-duplicate-opus-4-7-entries-and-current-opus-now-s|claude-code-2026-05-04-cbf221]]'
-- '[[Changes/Cursor/2026-05-04-enterprises-also-have-the-option-to-block-new-providers-or-model-versions-by-def|cursor-2026-05-04-793636]]'
+- '[[Changes/Claude Code/2026-05-01-the-model-picker-now-lists-models-from-your-gateway-s-v1-models-endpoint-when-an|The
+  /model picker now lists models from your gateway''s /v1/models endpoint…]]'
+- '[[Changes/Claude Code/2026-05-04-updated-model-picker-collapsed-duplicate-opus-4-7-entries-and-current-opus-now-s|Updated
+  /model picker]]'
+- '[[Changes/Cursor/2026-05-04-enterprises-also-have-the-option-to-block-new-providers-or-model-versions-by-def|Enterprises
+  also have the option to block new providers or model versions by default]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-05-05-gpt-5-5-instant-in-chatgpt-6a2694d3|chatgpt-2026-05-05-gpt-5-5-instant-in-chatgpt-6a2694d3]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -83,10 +90,10 @@ title: ChatGPT rolls out GPT-5.5 Instant as ChatGPT’s new default model
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # ChatGPT rolls out GPT-5.5 Instant as ChatGPT’s new default model
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — GPT-5.5 Instant in ChatGPT: We’re rolling out GPT-5.5 Instant as ChatGPT’s new default model. It replaces GPT-5.3 Instant for all ChatGPT users and improves everyday answers across accuracy, clarity and conciseness, image understanding, STEM questions, and when ChatGPT decides to search the web.GPT-5.5 Instant is more factually reliable, especially for prompts where accuracy matters most. It also gives tighter, more direct answers without losing useful details, asks fewer unnecessary follow-up questions, and reduces clutter like overformatting and gratuitous emojis.For Plus and Pro users using ChatGPT on web, GPT-5.5 Instant can more effectively use context from past chats, files, and Gmail, when connected, to make responses more relevant. This can help ChatGPT tailor suggestions, pick up ongoing work, and reduce the need to repeat context across conversations.GPT-5.5 Instant is rolling out starting today to all ChatGPT users. Paid users can continue using GPT-5.3 Instant for three months through model configuration settings before it is retired.
+**ChatGPT** · 2026-05-05 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-05-05-gpt-5-5-instant-in-chatgpt-6a2694d3|GPT-5.5 Instant in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -95,19 +102,23 @@ ChatGPT — GPT-5.5 Instant in ChatGPT: We’re rolling out GPT-5.5 Instant as C
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: model-support
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]
-- Lag Days: 1212
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Model Support
+
+- Earlier: 2026-05-04 · Cursor · [[Changes/Cursor/2026-05-04-enterprises-also-have-the-option-to-block-new-providers-or-model-versions-by-def|Enterprises also have the option to block new providers or model versions by default]]
+- Later: 2026-05-06 · Claude Code · [[Changes/Claude Code/2026-05-06-gateway-v1-models-discovery-for-the-model-picker-is-now-opt-in-via-claude-code-e|Gateway /v1/models discovery for the /model picker is now opt-in…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We made more improvements to the ChatGPT model!]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-05-05-224f9a&body=Card%3A%20Changes%2FChatGPT%2F2026-05-05-we-re-rolling-out-gpt-5-5-instant-as-chatgpt-s-new-default-model-it-replaces-gpt.md%0ACard%20ID%3A%20chatgpt-2026-05-05-224f9a%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

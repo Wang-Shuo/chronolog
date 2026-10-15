@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2026-05-01-e1fccb
 date: '2026-05-01'
+description: 'Cursor · 2026-05-01 · Apps and Integrations: Default On: users get the
+  plugin installed by default, but can opt out'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
+    can join the waitlist to try plugins here]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1135
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: b1247f12e3941d292690937c15d5fa11cbb1962cbac36a131d02ec75984718c3
+machine_hash: 230d2b8e80041b64ea7c3ee1073798e0c5b819c26c39f58b5dbc9cc6bd4b54d4
 product: cursor
 product_name: Cursor
 record:
@@ -36,9 +39,12 @@ record:
   title: 'Default On: users get the plugin installed by default, but can opt out'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-29-run-npm-install-cursor-sdk-to-get-started-you-can-also-use-cursor-s-native-sdk-s|cursor-2026-04-29-67550c]]'
-- '[[Changes/Cursor/2026-05-01-plugins-bundle-capabilities-like-mcp-servers-skills-subagents-rules-and-hooks-th|cursor-2026-05-01-39dbef]]'
-- '[[Changes/Cursor/2026-05-01-required-users-always-have-the-plugin-and-cannot-uninstall-it|cursor-2026-05-01-9625ed]]'
+- '[[Changes/Cursor/2026-04-29-run-npm-install-cursor-sdk-to-get-started-you-can-also-use-cursor-s-native-sdk-s|Run
+  npm install @cursor/sdk to get started]]'
+- '[[Changes/Cursor/2026-05-01-plugins-bundle-capabilities-like-mcp-servers-skills-subagents-rules-and-hooks-th|Plugins
+  bundle capabilities like MCP servers, skills, subagents, rules, and hooks…]]'
+- '[[Changes/Cursor/2026-05-01-required-users-always-have-the-plugin-and-cannot-uninstall-it|Required:
+  users always have the plugin and cannot uninstall it]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-01-team-marketplace-updates-https-cursor-com-changelog-05-01-26-3036cead|cursor-2026-05-01-team-marketplace-updates-https-cursor-com-changelog-05-01-26-3036cead]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -46,10 +52,10 @@ title: 'Default On: users get the plugin installed by default, but can opt out'
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Default On: users get the plugin installed by default, but can opt out
 
-<!-- chronolog:begin region="description" -->
-Cursor — Team Marketplace Updates: Default On: users get the plugin installed by default, but can opt out
+**Cursor** · 2026-05-01 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://cursor.com/changelog/05-01-26) · from [[Releases/Cursor/cursor-2026-05-01-team-marketplace-updates-https-cursor-com-changelog-05-01-26-3036cead|Team Marketplace Updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -58,19 +64,28 @@ Cursor — Team Marketplace Updates: Default On: users get the plugin installed 
 > Source: https://cursor.com/changelog/05-01-26
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2026-05-01-plugins-bundle-capabilities-like-mcp-servers-skills-subagents-rules-and-hooks-th|Plugins bundle capabilities like MCP servers, skills, subagents, rules, and hooks…]] · Apps and Integrations
+- [[Changes/Cursor/2026-05-01-admins-can-now-create-a-team-marketplace-without-connecting-a-repository-first-a|Admins can now create a team marketplace without connecting a repository first]] · Collaboration
+- [[Changes/Cursor/2026-05-01-default-off-users-can-discover-and-opt-in|Default Off: users can discover and opt in]] · Safety and Privacy
+- [[Changes/Cursor/2026-05-01-required-users-always-have-the-plugin-and-cannot-uninstall-it|Required: users always have the plugin and cannot uninstall it]] · Apps and Integrations
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: apps-integrations
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]
-- Lag Days: 1135
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Apps and Integrations
+
+- Earlier: 2026-04-29 · Cursor · [[Changes/Cursor/2026-04-29-run-npm-install-cursor-sdk-to-get-started-you-can-also-use-cursor-s-native-sdk-s|Run npm install @cursor/sdk to get started]]
+- Later: 2026-05-04 · Claude Code · [[Changes/Claude Code/2026-05-04-plugin-dir-now-accepts-zip-plugin-archives-in-addition-to-directories|--plugin-dir now accepts .zip plugin archives in addition to directories]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2026-05-01-e1fccb&body=Card%3A%20Changes%2FCursor%2F2026-05-01-default-on-users-get-the-plugin-installed-by-default-but-can-opt-out.md%0ACard%20ID%3A%20cursor-2026-05-01-e1fccb%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F05-01-26%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

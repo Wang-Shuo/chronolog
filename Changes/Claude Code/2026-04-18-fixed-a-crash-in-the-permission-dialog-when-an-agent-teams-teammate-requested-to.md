@@ -1,8 +1,11 @@
 ---
 card_id: claude-code-2026-04-18-f53068
 date: '2026-04-18'
+description: 'Claude Code · 2026-04-18 · Safety and Privacy: Fixed a crash in the
+  permission dialog when an agent teams teammate requested tool permission'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|cursor-2023-04-16-f0e22a]]'
+  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
+    mode for opting out of storing any kind of data on our servers]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1098
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 1a65f7b5d0490c28365c6ea0a1a993ffffc2732171d30a29d89b41f70bf10977
+machine_hash: c39a48aea725a752dba5b54c6384ca2fab5b9ca922f45eca7fecfbb34f000ebd
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,9 +53,12 @@ record:
     tool…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-09-added-subprocess-sandboxing-with-pid-namespace-isolation-on-linux-when-claude-co|claude-code-2026-04-09-5db0ee]]'
-- '[[Changes/Claude Code/2026-04-14-the-model-can-now-discover-and-invoke-built-in-slash-commands-like-init-review-a|claude-code-2026-04-14-eb6e81]]'
-- '[[Changes/Claude Code/2026-04-17-added-sandbox-network-denieddomains-setting-to-block-specific-domains-even-when|claude-code-2026-04-17-856cba]]'
+- '[[Changes/Claude Code/2026-04-09-added-subprocess-sandboxing-with-pid-namespace-isolation-on-linux-when-claude-co|Added
+  subprocess sandboxing with PID namespace isolation on Linux…]]'
+- '[[Changes/Claude Code/2026-04-14-the-model-can-now-discover-and-invoke-built-in-slash-commands-like-init-review-a|The
+  model can now discover and invoke built-in slash commands like /init…]]'
+- '[[Changes/Claude Code/2026-04-17-added-sandbox-network-denieddomains-setting-to-block-specific-domains-even-when|Added
+  sandbox.network.deniedDomains setting to block specific domains even…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-18-v2-1-114-github-310615961-aa4049e4|claude-code-2026-04-18-v2-1-114-github-310615961-aa4049e4]]'
 source_type: github_releases
 theme: safety-privacy
@@ -61,10 +67,10 @@ title: Fixed a crash in the permission dialog when an agent teams teammate reque
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Fixed a crash in the permission dialog when an agent teams teammate requested tool…
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.114: Fixed a crash in the permission dialog when an agent teams teammate requested tool permission
+**Claude Code** · 2026-04-18 · [[Themes/safety-privacy|Safety and Privacy]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.114) · from [[Releases/Claude Code/claude-code-2026-04-18-v2-1-114-github-310615961-aa4049e4|v2.1.114]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -73,19 +79,23 @@ Claude Code — v2.1.114: Fixed a crash in the permission dialog when an agent t
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.114
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: safety-privacy
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|cursor-2023-04-16-f0e22a]]
-- Lag Days: 1098
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Safety and Privacy
+
+- Earlier: 2026-04-17 · Claude Code · [[Changes/Claude Code/2026-04-17-added-sandbox-network-denieddomains-setting-to-block-specific-domains-even-when|Added sandbox.network.deniedDomains setting to block specific domains even…]]
+- Later: 2026-04-30 · Cursor · [[Changes/Cursor/2026-04-30-we-re-also-continuously-improving-the-runtime-harness-and-models-powering-cursor|We're also continuously improving the runtime, harness, and models powering Cursor…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-04-18-f53068&body=Card%3A%20Changes%2FClaude%20Code%2F2026-04-18-fixed-a-crash-in-the-permission-dialog-when-an-agent-teams-teammate-requested-to.md%0ACard%20ID%3A%20claude-code-2026-04-18-f53068%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.114%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

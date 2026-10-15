@@ -1,8 +1,11 @@
 ---
 card_id: claude-code-2026-05-14-4abb1d
 date: '2026-05-14'
+description: 'Claude Code · 2026-05-14 · Apps and Integrations: The `/plugin` details
+  pane and `claude plugin details` now show LSP servers a plugin provides'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
+    can join the waitlist to try plugins here]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1148
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3ca959537d0ff01c49d8cfb58c97356e1015aa8eaaa47365f1a2d10504a6ba63
+machine_hash: 39064bd79ccd00afea7cd1ab288840f301a4dd1eec96d83d5af318e44ee77169
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,9 +51,12 @@ record:
     a plugin…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-13-added-terminalsequence-field-to-hook-json-output-so-hooks-can-emit-desktop-notif|claude-code-2026-05-13-df56c4]]'
-- '[[Changes/Claude Code/2026-05-13-added-claude-code-plugin-prefer-https-to-clone-github-plugin-sources-over-https|claude-code-2026-05-13-e49017]]'
-- '[[Changes/Claude Code/2026-05-14-plugins-with-a-root-level-skill-md-and-no-skills-subdirectory-are-now-surfaced-a|claude-code-2026-05-14-236f0b]]'
+- '[[Changes/Claude Code/2026-05-13-added-terminalsequence-field-to-hook-json-output-so-hooks-can-emit-desktop-notif|Added
+  terminalSequence field to hook JSON output so hooks can emit desktop…]]'
+- '[[Changes/Claude Code/2026-05-13-added-claude-code-plugin-prefer-https-to-clone-github-plugin-sources-over-https|Added
+  CLAUDE_CODE_PLUGIN_PREFER_HTTPS to clone GitHub plugin sources over HTTPS…]]'
+- '[[Changes/Claude Code/2026-05-14-plugins-with-a-root-level-skill-md-and-no-skills-subdirectory-are-now-surfaced-a|Plugins
+  with a root-level SKILL.md and no skills/ subdirectory are now surfaced…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-14-v2-1-142-github-322792825-ffda4d4f|claude-code-2026-05-14-v2-1-142-github-322792825-ffda4d4f]]'
 source_type: github_releases
 theme: apps-integrations
@@ -58,10 +64,10 @@ title: The /plugin details pane and claude plugin details now show LSP servers a
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # The `/plugin` details pane and `claude plugin details` now show LSP servers a plugin…
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.142: The `/plugin` details pane and `claude plugin details` now show LSP servers a plugin provides
+**Claude Code** · 2026-05-14 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.142) · from [[Releases/Claude Code/claude-code-2026-05-14-v2-1-142-github-322792825-ffda4d4f|v2.1.142]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -70,19 +76,28 @@ Claude Code — v2.1.142: The `/plugin` details pane and `claude plugin details`
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.142
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-05-14-plugins-with-a-root-level-skill-md-and-no-skills-subdirectory-are-now-surfaced-a|Plugins with a root-level SKILL.md and no skills/ subdirectory are now surfaced…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-05-14-added-new-claude-agents-flags-add-dir-settings-mcp-config-plugin-dir-permission|Added new claude agents flags]] · Safety and Privacy
+- [[Changes/Claude Code/2026-05-14-fast-mode-now-uses-opus-4-7-by-default-previously-opus-4-6-set-claude-code-opus|Fast mode now uses Opus 4.7 by default (previously Opus 4.6)]] · Model Support
+- [[Changes/Claude Code/2026-05-14-web-setup-warns-before-replacing-an-existing-github-app-connection|/web-setup warns before replacing an existing GitHub App connection]] · Apps and Integrations
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: apps-integrations
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]
-- Lag Days: 1148
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Apps and Integrations
+
+- Earlier: 2026-05-13 · Claude Code · [[Changes/Claude Code/2026-05-13-added-claude-code-plugin-prefer-https-to-clone-github-plugin-sources-over-https|Added CLAUDE_CODE_PLUGIN_PREFER_HTTPS to clone GitHub plugin sources over HTTPS…]]
+- Later: 2026-05-15 · Claude Code · [[Changes/Claude Code/2026-05-15-added-plugin-dependency-enforcement-claude-plugin-disable-now-refuses-when-anoth|Added plugin dependency enforcement]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-05-14-4abb1d&body=Card%3A%20Changes%2FClaude%20Code%2F2026-05-14-the-plugin-details-pane-and-claude-plugin-details-now-show-lsp-servers-a-plugin.md%0ACard%20ID%3A%20claude-code-2026-05-14-4abb1d%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.142%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

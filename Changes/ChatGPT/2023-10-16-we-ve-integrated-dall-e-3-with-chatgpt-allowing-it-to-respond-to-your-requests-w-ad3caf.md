@@ -1,8 +1,12 @@
 ---
 card_id: chatgpt-2023-10-16-ad3caf
 date: '2023-10-16'
+description: 'ChatGPT · 2023-10-16 · Model Support: We’ve integrated DALL·E 3 with
+  ChatGPT, allowing it to respond to your requests with images. From a simple sentence
+  to a…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We
+    made more improvements to the ChatGPT model!]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 280
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: e524ce67f58ef2d33464d66e55c10e624644e17e19ae2ea9f35e3bed35431723
+machine_hash: 0c103db9b5068a8511fcba187956dca13b0b40323f0a0f2f41b9bad3ff1680e2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -58,9 +62,12 @@ record:
   title: We’ve integrated DALL·E 3 with ChatGPT, allowing it to respond to your requests…
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-09-08-that-are-actually-being-used-for-each-doc-you-have-uploaded-you-ll-also-be-able|cursor-2023-09-08-438ba5]]'
-- '[[Changes/ChatGPT/2023-09-27-choose-browse-with-bing-in-the-selector-under-gpt-4|chatgpt-2023-09-27-53ecfb]]'
-- '[[Changes/Cursor/2023-10-01-use-edit-in-the-chat-to-edit-a-whole-file-if-less-than-400-lines-expect-the-edit|cursor-2023-10-01-be4968]]'
+- '[[Changes/Cursor/2023-09-08-that-are-actually-being-used-for-each-doc-you-have-uploaded-you-ll-also-be-able|that
+  are actually being used for each doc you have uploaded]]'
+- '[[Changes/ChatGPT/2023-09-27-choose-browse-with-bing-in-the-selector-under-gpt-4|Choose
+  Browse with Bing in the selector under GPT-4]]'
+- '[[Changes/Cursor/2023-10-01-use-edit-in-the-chat-to-edit-a-whole-file-if-less-than-400-lines-expect-the-edit|Use
+  /edit in the chat to edit a whole file (if less than 400 lines)]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-10-16-dall-e-3-is-now-rolling-out-in-beta-d2dd292b|chatgpt-2023-10-16-dall-e-3-is-now-rolling-out-in-beta-d2dd292b]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -68,10 +75,10 @@ title: We’ve integrated DALL·E 3 with ChatGPT, allowing it to respond to your
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # We’ve integrated DALL·E 3 with ChatGPT, allowing it to respond to your requests…
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — DALL·E 3 is now rolling out in beta: We’ve integrated DALL·E 3 with ChatGPT, allowing it to respond to your requests with images. From a simple sentence to a detailed paragraph, ask ChatGPT what you want to see and it will translate your ideas into exceptionally accurate images.To use DALL·E 3 on both web and mobile, choose DALL·E 3 in the selector under GPT-4. The message limit may vary based on capacity.
+**ChatGPT** · 2023-10-16 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-10-16-dall-e-3-is-now-rolling-out-in-beta-d2dd292b|DALL·E 3 is now rolling out in beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -80,19 +87,23 @@ ChatGPT — DALL·E 3 is now rolling out in beta: We’ve integrated DALL·E 3 w
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: model-support
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]
-- Lag Days: 280
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Model Support
+
+- Earlier: 2023-10-01 · Cursor · [[Changes/Cursor/2023-10-01-use-edit-in-the-chat-to-edit-a-whole-file-if-less-than-400-lines-expect-the-edit|Use /edit in the chat to edit a whole file (if less than 400 lines)]]
+- Later: 2023-10-17 · ChatGPT · [[Changes/ChatGPT/2023-10-17-browsing-which-we-re-launched-a-few-weeks-ago-is-moving-out-of-beta-plus-and-ent|Browsing, which we re-launched a few weeks ago, is moving out of beta]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We made more improvements to the ChatGPT model!]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-10-16-ad3caf&body=Card%3A%20Changes%2FChatGPT%2F2023-10-16-we-ve-integrated-dall-e-3-with-chatgpt-allowing-it-to-respond-to-your-requests-w-ad3caf.md%0ACard%20ID%3A%20chatgpt-2023-10-16-ad3caf%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

@@ -1,8 +1,11 @@
 ---
 card_id: claude-code-2026-10-02-eab925
 date: '2026-10-02'
+description: 'Claude Code · 2026-10-02 · Interface Experience: Added `$.ui.selection()`
+  for mods: returns the text you last selected in fullscreen mode and, when the…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
+    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1362
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 45e57bc6aed8dd43ffe3b974d87df7c8d4e081c8cb5882c082d37d38fd208b8e
+machine_hash: a192e2e7ffee81f2ceb1294e50c168b60559cc1343bb77501775cafb31b4e42c
 product: claude-code
 product_name: Claude Code
 record:
@@ -39,9 +42,12 @@ record:
   title: Added `$.ui.selection()` for mods
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-28-added-effortslider-decreaseeffort-increaseeffort-and-toggleultracode-keybinding|claude-code-2026-09-28-1db355]]'
-- '[[Changes/Claude Code/2026-09-28-added-rate-limit-options-to-help-and-the-command-menu-for-claude-ai-subscribers|claude-code-2026-09-28-d0d342]]'
-- '[[Changes/Claude Code/2026-09-30-added-mouse-support-for-the-n-more-rows-of-lists-in-fullscreen-mode-click-one-to|claude-code-2026-09-30-603ffc]]'
+- '[[Changes/Claude Code/2026-09-28-added-effortslider-decreaseeffort-increaseeffort-and-toggleultracode-keybinding|Added
+  effortSlider:decreaseEffort, increaseEffort and toggleUltracode…]]'
+- '[[Changes/Claude Code/2026-09-28-added-rate-limit-options-to-help-and-the-command-menu-for-claude-ai-subscribers|Added
+  /rate-limit-options to /help and the command menu for claude.ai…]]'
+- '[[Changes/Claude Code/2026-09-30-added-mouse-support-for-the-n-more-rows-of-lists-in-fullscreen-mode-click-one-to|Added
+  mouse support for the "N more" rows of lists in fullscreen mode]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-02-v2-1-288-github-402056988-39eb9ac6|claude-code-2026-10-02-v2-1-288-github-402056988-39eb9ac6]]'
 source_type: github_releases
 theme: interface-experience
@@ -49,10 +55,10 @@ title: Added $.ui.selection() for mods
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Added `$.ui.selection()` for mods
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.288: Added `$.ui.selection()` for mods: returns the text you last selected in fullscreen mode and, when the selection lies within one transcript row, that row
+**Claude Code** · 2026-10-02 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.288) · from [[Releases/Claude Code/claude-code-2026-10-02-v2-1-288-github-402056988-39eb9ac6|v2.1.288]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -61,19 +67,27 @@ Claude Code — v2.1.288: Added `$.ui.selection()` for mods: returns the text yo
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.288
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-10-02-added-a-re-authenticate-prompt-when-an-mcp-server-asks-for-more-oauth-scope-duri|Added a re-authenticate prompt when an MCP server asks for more OAuth scope during…]] · Account and Access
+- [[Changes/Claude Code/2026-10-02-added-a-built-in-gh-api-to-cloud-sessions-whose-image-has-no-github-cli-and-fixe|Added a built-in gh api to cloud sessions whose image has no GitHub CLI, and fixed…]] · Developer Workflow
+- [[Changes/Claude Code/2026-10-02-added-max-findings-n-all-to-code-review-to-report-more-or-fewer-findings-than-th|Added --max-findings n / all to /code-review to report more or fewer findings than…]] · Developer Workflow
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: interface-experience
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]
-- Lag Days: 1362
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Interface Experience
+
+- Earlier: 2026-09-30 · Claude Code · [[Changes/Claude Code/2026-09-30-added-mouse-support-for-the-n-more-rows-of-lists-in-fullscreen-mode-click-one-to|Added mouse support for the "N more" rows of lists in fullscreen mode]]
+- Later: 2026-10-08 · Claude Code · [[Changes/Claude Code/2026-10-08-added-quoted-text-to-the-copy-picker-so-a-drafted-message-copies-without-its-mar|Added quoted text to the /copy picker, so a drafted message copies without its …]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-10-02-eab925&body=Card%3A%20Changes%2FClaude%20Code%2F2026-10-02-added-ui-selection-for-mods-returns-the-text-you-last-selected-in-fullscreen-mod.md%0ACard%20ID%3A%20claude-code-2026-10-02-eab925%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.288%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

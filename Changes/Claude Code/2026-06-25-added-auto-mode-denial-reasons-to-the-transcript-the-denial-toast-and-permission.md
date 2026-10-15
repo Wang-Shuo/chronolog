@@ -1,8 +1,11 @@
 ---
 card_id: claude-code-2026-06-25-1a6f27
 date: '2026-06-25'
+description: 'Claude Code · 2026-06-25 · Agent Mode: Added auto-mode denial reasons
+  to the transcript, the denial toast, and `/permissions` recent denials'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
+    to the first nightly release!]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1085
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1ddc0c66abb37ef08b17400dedd8f66a039d279a188c8b82b9c13b71dd6979be
+machine_hash: 03bc7b121c616dd5142b9d7355d337ea94a172e71d011862fdc1b3576af90a26
 product: claude-code
 product_name: Claude Code
 record:
@@ -37,9 +40,12 @@ record:
   title: Added auto-mode denial reasons to the transcript, the denial toast…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-19-improved-auto-mode-safety-destructive-git-commands-git-reset-hard-git-checkout-g|claude-code-2026-06-19-dbf355]]'
-- '[[Changes/Claude Code/2026-06-22-added-teammatemode-iterm2-setting-with-a-warning-when-auto-mode-cannot-find-the|claude-code-2026-06-22-3c587e]]'
-- '[[Changes/Claude Code/2026-06-22-added-status-filtering-press-f-to-the-workflows-agent-detail-view|claude-code-2026-06-22-f1d8a2]]'
+- '[[Changes/Claude Code/2026-06-19-improved-auto-mode-safety-destructive-git-commands-git-reset-hard-git-checkout-g|Improved
+  auto mode safety]]'
+- '[[Changes/Claude Code/2026-06-22-added-teammatemode-iterm2-setting-with-a-warning-when-auto-mode-cannot-find-the|Added
+  teammateMode: "iterm2" setting with a warning when auto mode cannot find…]]'
+- '[[Changes/Claude Code/2026-06-22-added-status-filtering-press-f-to-the-workflows-agent-detail-view|Added
+  status filtering (press f) to the /workflows agent detail view]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-25-v2-1-193-github-344922230-0655000d|claude-code-2026-06-25-v2-1-193-github-344922230-0655000d]]'
 source_type: github_releases
 theme: agent-mode
@@ -47,10 +53,10 @@ title: Added auto-mode denial reasons to the transcript, the denial toast…
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Added auto-mode denial reasons to the transcript, the denial toast…
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.193: Added auto-mode denial reasons to the transcript, the denial toast, and `/permissions` recent denials
+**Claude Code** · 2026-06-25 · [[Themes/agent-mode|Agent Mode]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.193) · from [[Releases/Claude Code/claude-code-2026-06-25-v2-1-193-github-344922230-0655000d|v2.1.193]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -59,19 +65,28 @@ Claude Code — v2.1.193: Added auto-mode denial reasons to the transcript, the 
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.193
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-06-25-added-live-file-path-autocomplete-to-bash-mode|Added live file path autocomplete to bash mode (!)]] · Editor Experience
+- [[Changes/Claude Code/2026-06-25-added-claude-code-assistant-response-opentelemetry-log-event-containing-the-mode|Added claude_code.assistant_response OpenTelemetry log event containing…]] · Model Support
+- [[Changes/Claude Code/2026-06-25-added-a-startup-notice-when-mcp-servers-need-authentication-pointing-at-mcp|Added a startup notice when MCP servers need authentication, pointing at /mcp]] · Account and Access
+- [[Changes/Claude Code/2026-06-25-added-automode-classifyallshell-setting-to-route-all-bash-powershell-commands-th|Added autoMode.classifyAllShell setting to route all Bash/PowerShell commands…]] · Agent Mode
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: agent-mode
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]
-- Lag Days: 1085
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Agent Mode
+
+- Earlier: 2026-06-22 · Claude Code · [[Changes/Claude Code/2026-06-22-added-status-filtering-press-f-to-the-workflows-agent-detail-view|Added status filtering (press f) to the /workflows agent detail view]]
+- Later: 2026-06-26 · Claude Code · [[Changes/Claude Code/2026-06-26-improved-claude-agents-completed-list-to-fill-available-vertical-space-on-short|Improved claude agents completed list to fill available vertical space]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-06-25-1a6f27&body=Card%3A%20Changes%2FClaude%20Code%2F2026-06-25-added-auto-mode-denial-reasons-to-the-transcript-the-denial-toast-and-permission.md%0ACard%20ID%3A%20claude-code-2026-06-25-1a6f27%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.193%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

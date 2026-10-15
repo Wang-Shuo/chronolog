@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2024-02-09-02fe26
 date: '2024-02-09'
+description: 'Cursor · 2024-02-09 · Interface Experience: Smoother onboarding (fix
+  Windows settings import, option to import folder/window state)'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
+    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 396
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4d4d5c89d383079b8fdb1dadb51aa5dc939fe6b4e8524bb17ff3b08014fb2c9c
+machine_hash: 091fb9a50970715d7c1285c0334d0557bea396a84780a572a76a76f8e22ecd85
 product: cursor
 product_name: Cursor
 record:
@@ -40,9 +43,11 @@ record:
     state)
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-12-06-minor-onboarding-changes|cursor-2023-12-06-4f6032]]'
-- '[[Changes/Cursor/2023-12-16-previews-we-made-it-easier-to-see-what-codeblock-you-re-ing|cursor-2023-12-16-2b94f7]]'
-- '[[Changes/Cursor/2024-02-02-you-can-now-drag-images-into-the-command-k-prompt-bar|cursor-2024-02-02-35dabe]]'
+- '[[Changes/Cursor/2023-12-06-minor-onboarding-changes|Minor onboarding changes]]'
+- '[[Changes/Cursor/2023-12-16-previews-we-made-it-easier-to-see-what-codeblock-you-re-ing|@
+  previews: We made it easier to see what codeblock you''re @''ing]]'
+- '[[Changes/Cursor/2024-02-02-you-can-now-drag-images-into-the-command-k-prompt-bar|Drag
+  images into the Command-K prompt bar!]]'
 source_release: '[[Releases/Cursor/cursor-2024-02-09-0-26-https-cursor-com-changelog-0-26-9569782c|cursor-2024-02-09-0-26-https-cursor-com-changelog-0-26-9569782c]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -51,10 +56,10 @@ title: Smoother onboarding (fix Windows settings import, option to import folder
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Smoother onboarding (fix Windows settings import, option to import folder/window state)
 
-<!-- chronolog:begin region="description" -->
-Cursor — AI Previews Beta: Smoother onboarding (fix Windows settings import, option to import folder/window state)
+**Cursor** · 2024-02-09 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://cursor.com/changelog/0-26) · from [[Releases/Cursor/cursor-2024-02-09-0-26-https-cursor-com-changelog-0-26-9569782c|AI Previews Beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -63,19 +68,27 @@ Cursor — AI Previews Beta: Smoother onboarding (fix Windows settings import, o
 > Source: https://cursor.com/changelog/0-26
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2024-02-09-copilot-quality-of-life-improvements-show-ghost-text-more-often-toggle-on-off-on|Copilot++ quality of life improvements…]] · Editor Experience
+- [[Changes/Cursor/2024-02-09-ai-previews-this-is-an-experimental-new-code-reading-feature-after-enabling-in-t|AI Previews: this is an experimental new code reading feature]] · Editor Experience
+- [[Changes/Cursor/2024-02-09-fine-grained-chat-replies-start-by-hovering-over-the-area-of-the-response-you-wa|Fine-grained chat replies…]] · Interface Experience
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: interface-experience
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]
-- Lag Days: 396
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Interface Experience
+
+- Earlier: 2024-02-02 · Cursor · [[Changes/Cursor/2024-02-02-you-can-now-drag-images-into-the-command-k-prompt-bar|Drag images into the Command-K prompt bar!]]
+- Later: 2024-03-01 · Cursor · [[Changes/Cursor/2024-03-01-ai-notes-enabled-by-default-hold-shift-on-any-symbol-better-in-editor-chat-auto|AI Notes enabled by default (hold shift on any symbol), better in-editor chat…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2024-02-09-02fe26&body=Card%3A%20Changes%2FCursor%2F2024-02-09-smoother-onboarding-fix-windows-settings-import-option-to-import-folder-window-s.md%0ACard%20ID%3A%20cursor-2024-02-09-02fe26%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F0-26%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

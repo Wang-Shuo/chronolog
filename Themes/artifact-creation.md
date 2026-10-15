@@ -1,7 +1,8 @@
 ---
 created: '2026-07-09'
 date: '2026-07-09'
-machine_hash: 8ee1561db3c5699e6eb362950589f1454bf533c1d47bf416e3027f3e701d02eb
+description: Cross-product timeline of Artifact Creation changes in ChatGPT.
+machine_hash: 7fb690f5d94fb3255e74dccd6c1cd447d1106d3b472d4f003b175162c77d309a
 modified: '2026-07-09'
 products_involved:
 - ChatGPT
@@ -14,7 +15,9 @@ theme: artifact-creation
 title: Artifact Creation
 ---
 
-# Theme: artifact-creation
+<!-- chronolog:begin region="header" -->
+# Artifact Creation
+<!-- chronolog:end -->
 
 ## Research summary
 <!-- chronolog:begin region="narrative" -->

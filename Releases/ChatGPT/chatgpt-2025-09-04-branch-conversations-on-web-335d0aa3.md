@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2025-09-04'
-machine_hash: e303edcca873b4981479e033047c5ae0e040210e1601ffb2763c5d16566bde25
+description: 'ChatGPT release Branch conversations on web on 2025-09-04: 1 tracked
+  change across Projects and Workspaces'
+machine_hash: 327e9c4dfeac66587ca182f3e837384240ad22fe2a2ffabf0edf6199c1941d63
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 1
   date: '2025-09-04'
   product: chatgpt
   product_name: ChatGPT
@@ -25,22 +28,24 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Branch conversations on web
+title: ChatGPT · Branch conversations on web
 version: Branch conversations on web
 ---
 
-# ChatGPT Branch conversations on web
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Branch conversations on web
+
+**ChatGPT** · 2025-09-04 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 You can now branch conversations in ChatGPT, making it easier to explore different directions without losing your original thread. Hover over a message, click More actions (⋯), and select Branch in new chat to start a separate conversation from that point.This feature is available today for all logged-in users on web.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- projects-workspaces: [[Changes/ChatGPT/2025-09-04-you-can-now-branch-conversations-in-chatgpt-making-it-easier-to-explore-differen-78eb21|Branch conversations in ChatGPT, making it easier to explore different directions…]]
+- [[Changes/ChatGPT/2025-09-04-you-can-now-branch-conversations-in-chatgpt-making-it-easier-to-explore-differen-78eb21|Branch conversations in ChatGPT, making it easier to explore different directions…]] · Projects and Workspaces
 <!-- chronolog:end -->

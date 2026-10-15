@@ -1,10 +1,13 @@
 ---
 changes_count: 5
 date: '2026-02-13'
-machine_hash: b3de3a685df943cad101f621f9744b7cdc1922f8d5e6ffa69a5a569cb1c42cdc
+description: 'ChatGPT release ChatGPT updates: Better file uploads, easier copying,
+  and more reliable long chats on 2026-02-13: 5 tracked changes across Interface…'
+machine_hash: eb7ab60adf353cb6b113a5ff991e012c09fe71f7e3f0f059e42301f59f79262f
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 7
   date: '2026-02-13'
   product: chatgpt
   product_name: ChatGPT
@@ -24,28 +27,30 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: 'ChatGPT — ChatGPT updates: Better file uploads, easier copying, and more reliable
-  long chats'
+title: 'ChatGPT updates: Better file uploads, easier copying, and more reliable long
+  chats'
 version: 'ChatGPT updates: Better file uploads, easier copying, and more reliable
   long chats'
 ---
 
-# ChatGPT ChatGPT updates: Better file uploads, easier copying, and more reliable long chats
+<!-- chronolog:begin region="header" -->
+# ChatGPT updates: Better file uploads, easier copying, and more reliable long chats
+
+**ChatGPT** · 2026-02-13 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Web
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 5
+Tracked 5 of 7 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- interface-experience: [[Changes/ChatGPT/2026-02-13-quick-tools-in-the-composer-a-new-quick-tools-menu-in-the-message-composer-makes|Quick tools in the composer]]
-- interface-experience: [[Changes/ChatGPT/2026-02-13-simplified-composer-the-message-composer-has-been-streamlined-to-reduce-visual-c|Simplified composer]]
-- context-window: [[Changes/ChatGPT/2026-02-13-attach-up-to-20-files-in-a-single-message-you-can-now-upload-up-to-20-files-at-o|Attach up to 20 files in a single message]]
-- file-data: [[Changes/ChatGPT/2026-02-13-expanded-file-type-support-we-now-support-additional-text-and-code-file-formats|Expanded file type support]]
-- collaboration: [[Changes/ChatGPT/2026-02-13-cleaner-select-all-behavior-cmd-a-cmd-a-now-selects-only-the-conversation-conten|Cleaner “Select All” behavior (Cmd+A)]]
+- [[Changes/ChatGPT/2026-02-13-quick-tools-in-the-composer-a-new-quick-tools-menu-in-the-message-composer-makes|Quick tools in the composer]] · Interface Experience
+- [[Changes/ChatGPT/2026-02-13-simplified-composer-the-message-composer-has-been-streamlined-to-reduce-visual-c|Simplified composer]] · Interface Experience
+- [[Changes/ChatGPT/2026-02-13-attach-up-to-20-files-in-a-single-message-you-can-now-upload-up-to-20-files-at-o|Attach up to 20 files in a single message]] · Context Window
+- [[Changes/ChatGPT/2026-02-13-expanded-file-type-support-we-now-support-additional-text-and-code-file-formats|Expanded file type support]] · Files and Data
+- [[Changes/ChatGPT/2026-02-13-cleaner-select-all-behavior-cmd-a-cmd-a-now-selects-only-the-conversation-conten|Cleaner “Select All” behavior (Cmd+A)]] · Collaboration
 <!-- chronolog:end -->

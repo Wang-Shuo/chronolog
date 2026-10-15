@@ -1,8 +1,12 @@
 ---
 card_id: chatgpt-2025-06-04-1334fc
 date: '2025-06-04'
+description: 'ChatGPT · 2025-06-04 · Apps and Integrations: Supported connectors:
+  Google Drive, SharePoint, Dropbox, Box, Outlook, Gmail, Google Calendar, Linear,
+  GitHub…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
+    can join the waitlist to try plugins here]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 804
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 756f2aafe846a017ce66958d49b7fdd8b3618a781974ed3def663ed6deb1afac
+machine_hash: 50d9d92d726e9ce0f5711143e0f83f3de2327a9dbcd85b70a1504a5b1021f304
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,9 +53,12 @@ record:
     Google…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-02-19-0-46-2-improved-mcp-reliability-added-option-to-disable-yolo-mode-for-mcp|cursor-2025-02-19-76c9e5]]'
-- '[[Changes/Cursor/2025-03-23-projects-with-mcp-servers-will-now-prompt-users-to-enable-them|cursor-2025-03-23-8a68d4]]'
-- '[[Changes/ChatGPT/2025-05-15-the-github-connector-is-now-available-globally-to-plus-pro-team-users-including|chatgpt-2025-05-15-483667]]'
+- '[[Changes/Cursor/2025-02-19-0-46-2-improved-mcp-reliability-added-option-to-disable-yolo-mode-for-mcp|0.46.2:
+  Improved MCP reliability, added option to disable yolo mode for MCP]]'
+- '[[Changes/Cursor/2025-03-23-projects-with-mcp-servers-will-now-prompt-users-to-enable-them|Projects
+  with MCP servers will now prompt users to enable them]]'
+- '[[Changes/ChatGPT/2025-05-15-the-github-connector-is-now-available-globally-to-plus-pro-team-users-including|The
+  GitHub connector is now available globally to Plus/Pro/Team users, including…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-04-connectors-in-beta-for-deep-research-plus-pro-team-enterprise-ed-6bb21f0f|chatgpt-2025-06-04-connectors-in-beta-for-deep-research-plus-pro-team-enterprise-ed-6bb21f0f]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -60,10 +67,10 @@ title: 'Supported connectors: Google Drive, SharePoint, Dropbox, Box, Outlook, G
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Supported connectors: Google Drive, SharePoint, Dropbox, Box, Outlook, Gmail, Google…
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Connectors in beta for deep research (Plus, Pro, Team, Enterprise, Edu): Supported connectors: Google Drive, SharePoint, Dropbox, Box, Outlook, Gmail, Google Calendar, Linear, GitHub, HubSpot, and Teams
+**ChatGPT** · 2025-06-04 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-06-04-connectors-in-beta-for-deep-research-plus-pro-team-enterprise-ed-6bb21f0f|Connectors in beta for deep research (Plus, Pro, Team, Enterprise, Edu)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -72,19 +79,26 @@ ChatGPT — Connectors in beta for deep research (Plus, Pro, Team, Enterprise, E
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2025-06-04-combines-internal-web-sources-for-synthesis|Combines internal + web sources for synthesis]] · Search and Browsing
+- [[Changes/ChatGPT/2025-06-04-chatgpt-team-enterprise-and-edu-customers-globally-can-use-connectors-in-deep-re|ChatGPT Team, Enterprise, and Edu customers globally can use connectors in deep…]] · Search and Browsing
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: apps-integrations
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]
-- Lag Days: 804
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Apps and Integrations
+
+- Earlier: 2025-05-15 · ChatGPT · [[Changes/ChatGPT/2025-05-15-the-github-connector-is-now-available-globally-to-plus-pro-team-users-including|The GitHub connector is now available globally to Plus/Pro/Team users, including…]]
+- Later: 2025-06-04 · ChatGPT · [[Changes/ChatGPT/2025-06-04-admin-published-connectors-appear-in-the-connector-list-for-all-users|Admin-published connectors appear in the connector list for all users]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-06-04-1334fc&body=Card%3A%20Changes%2FChatGPT%2F2025-06-04-supported-connectors-google-drive-sharepoint-dropbox-box-outlook-gmail-google-ca.md%0ACard%20ID%3A%20chatgpt-2025-06-04-1334fc%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

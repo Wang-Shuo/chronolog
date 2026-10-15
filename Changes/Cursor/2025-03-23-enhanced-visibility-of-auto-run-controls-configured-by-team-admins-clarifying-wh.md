@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2025-03-23-6fd38a
 date: '2025-03-23'
+description: 'Cursor · 2025-03-23 · Collaboration: Enhanced visibility of auto-run
+  controls configured by team admins, clarifying when they are active'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|cursor-2023-09-08-8ba960]]'
+  first_in_tracked: '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams
+    can also share private docs]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 562
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: fa77de65cf8958e8afbf7c778ee7a7949dfaae6412e44d98d9bf158a9310c0b7
+machine_hash: 15e9929179461b8ea91b2cda468cfa201a91dead7c221ef846249f22bbdc14dd
 product: cursor
 product_name: Cursor
 record:
@@ -47,9 +50,12 @@ record:
   title: Enhanced visibility of auto-run controls configured by team admins, clarifying…
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-08-22-composer-is-now-default-on-and-available-to-all-pro-business-users-by-hitting-cm|cursor-2024-08-22-915f5c]]'
-- '[[Changes/ChatGPT/2024-12-13-chatgpt-projects-are-available-to-all-plus-team-and-pro-users|chatgpt-2024-12-13-d600c9]]'
-- '[[Changes/Cursor/2025-03-23-improved-indexing-performance-for-teams-sharing-codebases|cursor-2025-03-23-3b6996]]'
+- '[[Changes/Cursor/2024-08-22-composer-is-now-default-on-and-available-to-all-pro-business-users-by-hitting-cm|Composer
+  is now default-on and available to all Pro/Business users by hitting cmd+I]]'
+- '[[Changes/ChatGPT/2024-12-13-chatgpt-projects-are-available-to-all-plus-team-and-pro-users|ChatGPT
+  Projects are available to all Plus, Team, and Pro users]]'
+- '[[Changes/Cursor/2025-03-23-improved-indexing-performance-for-teams-sharing-codebases|Improved
+  indexing performance for teams sharing codebases]]'
 source_release: '[[Releases/Cursor/cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b|cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b]]'
 source_type: cursor_changelog
 theme: collaboration
@@ -57,10 +63,10 @@ title: Enhanced visibility of auto-run controls configured by team admins, clari
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Enhanced visibility of auto-run controls configured by team admins, clarifying…
 
-<!-- chronolog:begin region="description" -->
-Cursor — Chat tabs, Custom modes & Faster indexing: Enhanced visibility of auto-run controls configured by team admins, clarifying when they are active
+**Cursor** · 2025-03-23 · [[Themes/collaboration|Collaboration]] · [Official source](https://cursor.com/changelog/0-48-x) · from [[Releases/Cursor/cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b|Chat tabs, Custom modes & Faster indexing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -69,19 +75,28 @@ Cursor — Chat tabs, Custom modes & Faster indexing: Enhanced visibility of aut
 > Source: https://cursor.com/changelog/0-48-x
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2025-03-23-improved-indexing-performance-for-teams-sharing-codebases|Improved indexing performance for teams sharing codebases]] · Collaboration
+- [[Changes/Cursor/2025-03-23-the-vertical-sidebar-option-will-temporarily-be-unavailable-for-users-who-opted|The vertical sidebar option will temporarily be unavailable for users who opted…]] · Interface Experience
+- [[Changes/Cursor/2025-03-23-chat-will-now-display-a-notification-about-usage-based-pricing-when-approaching|Chat will now display a notification about usage-based pricing when approaching fast…]] · Pricing Model
+- [[Changes/Cursor/2025-03-23-projects-with-mcp-servers-will-now-prompt-users-to-enable-them|Projects with MCP servers will now prompt users to enable them]] · Apps and Integrations
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: collaboration
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|cursor-2023-09-08-8ba960]]
-- Lag Days: 562
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Collaboration
+
+- Earlier: 2024-12-13 · ChatGPT · [[Changes/ChatGPT/2024-12-13-chatgpt-projects-are-available-to-all-plus-team-and-pro-users|ChatGPT Projects are available to all Plus, Team, and Pro users]]
+- Later: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-sharing-chats-from-projects|Sharing chats from projects]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-09-08 · Cursor · [[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams can also share private docs]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2025-03-23-6fd38a&body=Card%3A%20Changes%2FCursor%2F2025-03-23-enhanced-visibility-of-auto-run-controls-configured-by-team-admins-clarifying-wh.md%0ACard%20ID%3A%20cursor-2025-03-23-6fd38a%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F0-48-x%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

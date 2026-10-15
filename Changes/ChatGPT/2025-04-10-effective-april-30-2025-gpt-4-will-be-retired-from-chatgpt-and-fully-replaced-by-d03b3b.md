@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2025-04-10-d03b3b
 date: '2025-04-10'
+description: 'ChatGPT · 2025-04-10 · Model Support: Effective April 30, 2025, GPT‑4
+  will be retired from ChatGPT and fully replaced by GPT‑4o.GPT‑4o is our newer, natively…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We
+    made more improvements to the ChatGPT model!]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 822
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 838e45e9fee38fdcf33d25ba717f84a439bf82979739be8181e4ccdeba194a50
+machine_hash: 69549a8b8d522a87df04c99689eba5a73fb706f5ec1d1d4f995bf3d16676537c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -66,9 +69,12 @@ record:
     by GPT‑4o
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-03-27-early-testers-say-that-the-model-seems-to-better-understand-the-implied-intent-b|chatgpt-2025-03-27-800de1]]'
-- '[[Changes/ChatGPT/2025-03-27-gpt-4o-has-further-improved-its-capability-to-tackle-complex-technical-and-codin|chatgpt-2025-03-27-9fca00]]'
-- '[[Changes/ChatGPT/2025-03-27-gpt-4o-is-now-more-adept-at-following-detailed-instructions-especially-for-promp|chatgpt-2025-03-27-d8484d]]'
+- '[[Changes/ChatGPT/2025-03-27-early-testers-say-that-the-model-seems-to-better-understand-the-implied-intent-b|Early
+  testers say that the model seems to better understand the implied intent…]]'
+- '[[Changes/ChatGPT/2025-03-27-gpt-4o-has-further-improved-its-capability-to-tackle-complex-technical-and-codin|GPT-4o
+  has further improved its capability to tackle complex technical and coding problems]]'
+- '[[Changes/ChatGPT/2025-03-27-gpt-4o-is-now-more-adept-at-following-detailed-instructions-especially-for-promp|GPT-4o
+  is now more adept at following detailed instructions, especially for prompts…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-04-10-sunsetting-gpt-4-in-chatgpt-fe1e4ad7|chatgpt-2025-04-10-sunsetting-gpt-4-in-chatgpt-fe1e4ad7]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -77,10 +83,10 @@ title: Effective April 30, 2025, GPT‑4 will be retired from ChatGPT and fully 
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Effective April 30, 2025, GPT‑4 will be retired from ChatGPT and fully replaced by GPT‑4o
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Sunsetting GPT‑4 in ChatGPT: Effective April 30, 2025, GPT‑4 will be retired from ChatGPT and fully replaced by GPT‑4o.GPT‑4o is our newer, natively multimodal model. In head‑to‑head evaluations it consistently surpasses GPT‑4 in writing, coding, STEM, and more.Recent upgrades have further improved GPT‑4o’s instruction following, problem solving, and conversational flow, making it a natural successor to GPT‑4.GPT-4 will still be available in the API.GPT‑4 marked a pivotal moment in ChatGPT’s evolution. We’re grateful for the breakthroughs it enabled and for the feedback that helped shape its successor. GPT‑4o builds on that foundation to deliver even greater capability, consistency, and creativity.
+**ChatGPT** · 2025-04-10 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-04-10-sunsetting-gpt-4-in-chatgpt-fe1e4ad7|Sunsetting GPT‑4 in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -89,19 +95,23 @@ ChatGPT — Sunsetting GPT‑4 in ChatGPT: Effective April 30, 2025, GPT‑4 wil
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: model-support
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]
-- Lag Days: 822
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Model Support
+
+- Earlier: 2025-03-27 · ChatGPT · [[Changes/ChatGPT/2025-03-27-gpt-4o-is-now-more-adept-at-following-detailed-instructions-especially-for-promp|GPT-4o is now more adept at following detailed instructions, especially for prompts…]]
+- Later: 2025-04-16 · ChatGPT · [[Changes/ChatGPT/2025-04-16-today-we-re-releasing-openai-o3-and-o4-mini-the-latest-in-our-o-series-of-models|Today, we’re releasing OpenAI o3 and o4-mini, the latest in our o-series of models…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We made more improvements to the ChatGPT model!]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-04-10-d03b3b&body=Card%3A%20Changes%2FChatGPT%2F2025-04-10-effective-april-30-2025-gpt-4-will-be-retired-from-chatgpt-and-fully-replaced-by-d03b3b.md%0ACard%20ID%3A%20chatgpt-2025-04-10-d03b3b%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

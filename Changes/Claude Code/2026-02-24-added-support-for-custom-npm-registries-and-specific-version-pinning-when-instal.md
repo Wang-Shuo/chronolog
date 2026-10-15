@@ -1,8 +1,12 @@
 ---
 card_id: claude-code-2026-02-24-9b2df2
 date: '2026-02-24'
+description: 'Claude Code · 2026-02-24 · Apps and Integrations: Added support for
+  custom npm registries and specific version pinning when installing plugins from
+  npm sources'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
+    can join the waitlist to try plugins here]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1069
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 4492dab70f8ed1b3b2de83a0880328c9dd96023ffefe7acff462a4c7849e1091
+machine_hash: 5f81c04a2d73f2eab3ac25a5abd3da1758ffa3eaceb02a04d55668b5e5650f3b
 product: claude-code
 product_name: Claude Code
 record:
@@ -40,9 +44,12 @@ record:
     installing…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-17-our-initial-partners-include-amplitude-aws-figma-linear-stripe-and-more-these-pl|cursor-2026-02-17-c273f4]]'
-- '[[Changes/ChatGPT/2026-02-19-preview-diagrams-and-mini-apps-directly-in-chat|chatgpt-2026-02-19-80a3b7]]'
-- '[[Changes/Claude Code/2026-02-20-claude-code-simple-mode-now-also-disables-mcp-tools-attachments-hooks-and-claude|claude-code-2026-02-20-a36260]]'
+- '[[Changes/Cursor/2026-02-17-our-initial-partners-include-amplitude-aws-figma-linear-stripe-and-more-these-pl|Our
+  initial partners include Amplitude, AWS, Figma, Linear, Stripe, and more]]'
+- '[[Changes/ChatGPT/2026-02-19-preview-diagrams-and-mini-apps-directly-in-chat|Preview
+  diagrams and mini apps directly in chat]]'
+- '[[Changes/Claude Code/2026-02-20-claude-code-simple-mode-now-also-disables-mcp-tools-attachments-hooks-and-claude|CLAUDE_CODE_SIMPLE
+  mode now also disables MCP tools, attachments, hooks…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-24-v2-1-51-github-289665343-b4bbdd9c|claude-code-2026-02-24-v2-1-51-github-289665343-b4bbdd9c]]'
 source_type: github_releases
 theme: apps-integrations
@@ -50,10 +57,10 @@ title: Added support for custom npm registries and specific version pinning when
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Added support for custom npm registries and specific version pinning when installing…
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.51: Added support for custom npm registries and specific version pinning when installing plugins from npm sources
+**Claude Code** · 2026-02-24 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.51) · from [[Releases/Claude Code/claude-code-2026-02-24-v2-1-51-github-289665343-b4bbdd9c|v2.1.51]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -62,19 +69,28 @@ Claude Code — v2.1.51: Added support for custom npm registries and specific ve
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.51
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-02-24-bashtool-now-skips-login-shell-l-flag-by-default-when-a-shell-snapshot-is-availa|BashTool now skips login shell (-l flag) by default when a shell snapshot…]] · Developer Workflow
+- [[Changes/Claude Code/2026-02-24-fixed-a-security-issue-where-statusline-and-filesuggestion-hook-commands-could-e|Fixed a security issue where statusLine and fileSuggestion hook commands could…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-02-24-added-claude-remote-control-subcommand-for-external-builds-enabling-local-enviro|Added claude remote-control subcommand for external builds, enabling local…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-02-24-updated-plugin-marketplace-default-git-timeout-from-30s-to-120s-and-added-claude|Updated plugin marketplace default git timeout from 30s to 120s and added…]] · Apps and Integrations
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: apps-integrations
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]
-- Lag Days: 1069
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Apps and Integrations
+
+- Earlier: 2026-02-20 · Claude Code · [[Changes/Claude Code/2026-02-20-claude-code-simple-mode-now-also-disables-mcp-tools-attachments-hooks-and-claude|CLAUDE_CODE_SIMPLE mode now also disables MCP tools, attachments, hooks…]]
+- Later: 2026-02-25 · ChatGPT · [[Changes/ChatGPT/2026-02-25-sources-from-apps-paste-a-link-to-a-slack-channel-or-google-drive-file-or-folder|Sources from apps]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-02-24-9b2df2&body=Card%3A%20Changes%2FClaude%20Code%2F2026-02-24-added-support-for-custom-npm-registries-and-specific-version-pinning-when-instal.md%0ACard%20ID%3A%20claude-code-2026-02-24-9b2df2%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.51%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

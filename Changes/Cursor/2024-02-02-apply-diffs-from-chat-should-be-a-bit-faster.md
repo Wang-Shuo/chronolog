@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2024-02-02-cfb170
 date: '2024-02-02'
+description: 'Cursor · 2024-02-02 · Reliability and Performance: "Apply Diffs" from
+  chat should be a bit faster.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|chatgpt-2022-12-15-9c6f9c]]'
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
+    performance: Among other improvements, users will notice that ChatGPT is now…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 414
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6284508bddbc4f11cc18172ffbf2f4cd143ac973866d5f2b6af74cec9311d27c
+machine_hash: 9d2ba1db4096584ca5c53c52d9b852a5993d73662b126c0497296f7ad3018e95
 product: cursor
 product_name: Cursor
 record:
@@ -36,9 +39,12 @@ record:
   title: '"Apply Diffs" from chat should be a bit faster'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-11-30-faster-copilot-a-few-hundred-milliseconds-faster-through-various-networking-opti|cursor-2023-11-30-4f78ac]]'
-- '[[Changes/Cursor/2024-01-15-we-ll-be-working-to-improve-its-performance-over-the-coming-weeks-counts-the-sam|cursor-2024-01-15-f3f291]]'
-- '[[Changes/Cursor/2024-02-02-0-25-2-copilot-performance-improvements|cursor-2024-02-02-4a484a]]'
+- '[[Changes/Cursor/2023-11-30-faster-copilot-a-few-hundred-milliseconds-faster-through-various-networking-opti|Faster
+  Copilot++: a few hundred milliseconds faster, through various networking…]]'
+- '[[Changes/Cursor/2024-01-15-we-ll-be-working-to-improve-its-performance-over-the-coming-weeks-counts-the-sam|We''ll
+  be working to improve its performance over the coming weeks]]'
+- '[[Changes/Cursor/2024-02-02-0-25-2-copilot-performance-improvements|0.25.2: Copilot++
+  performance improvements]]'
 source_release: '[[Releases/Cursor/cursor-2024-02-02-0-25-x-https-cursor-com-changelog-0-25-x-29976ab7|cursor-2024-02-02-0-25-x-https-cursor-com-changelog-0-25-x-29976ab7]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -46,10 +52,10 @@ title: '"Apply Diffs" from chat should be a bit faster'
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # "Apply Diffs" from chat should be a bit faster
 
-<!-- chronolog:begin region="description" -->
-Cursor — Command-K Vision Support: "Apply Diffs" from chat should be a bit faster.
+**Cursor** · 2024-02-02 · [[Themes/reliability-performance|Reliability and Performance]] · [Official source](https://cursor.com/changelog/0-25-x) · from [[Releases/Cursor/cursor-2024-02-02-0-25-x-https-cursor-com-changelog-0-25-x-29976ab7|Command-K Vision Support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -58,19 +64,27 @@ Cursor — Command-K Vision Support: "Apply Diffs" from chat should be a bit fas
 > Source: https://cursor.com/changelog/0-25-x
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2024-02-02-you-can-now-drag-images-into-the-command-k-prompt-bar|Drag images into the Command-K prompt bar!]] · Interface Experience
+- [[Changes/Cursor/2024-02-02-0-25-2-copilot-performance-improvements|0.25.2: Copilot++ performance improvements]] · Reliability and Performance
+- [[Changes/Cursor/2024-02-02-you-can-now-search-through-past-chats|Search through past chats]] · Projects and Workspaces
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: reliability-performance
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|chatgpt-2022-12-15-9c6f9c]]
-- Lag Days: 414
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Reliability and Performance
+
+- Earlier: 2024-01-15 · Cursor · [[Changes/Cursor/2024-01-15-we-ll-be-working-to-improve-its-performance-over-the-coming-weeks-counts-the-sam|We'll be working to improve its performance over the coming weeks]]
+- Later: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-faster-copilot-we-ve-made-copilot-2x-faster-this-speed-bump-comes-from-a-new-mod|Faster Copilot++: We've made Copilot++ ~2x faster!]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2024-02-02-cfb170&body=Card%3A%20Changes%2FCursor%2F2024-02-02-apply-diffs-from-chat-should-be-a-bit-faster.md%0ACard%20ID%3A%20cursor-2024-02-02-cfb170%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F0-25-x%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

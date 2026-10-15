@@ -1,10 +1,12 @@
 ---
 changes_count: 0
 date: '2023-08-30'
-machine_hash: e90cf57b1a9df01aca6e576f23048b3a70526546ecb0076e15d8a32545906065
+description: 'Cursor release Hotfix SSH on 2023-08-30: no tracked changes'
+machine_hash: f724c07bdcfe9d6d62fcb7455d21d580e823a965708737e1b702047b952a5faf
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2023-08-30'
   product: cursor
   product_name: Cursor
@@ -21,19 +23,21 @@ source_url: https://cursor.com/changelog/0-9-1
 tags:
 - release
 - cursor
-title: Cursor — Hotfix SSH
+title: Cursor · Hotfix SSH
 version: 0.9.1
 ---
 
-# Cursor Hotfix SSH
+<!-- chronolog:begin region="header" -->
+# Cursor · Hotfix SSH
+
+**Cursor** · 2023-08-30 · [Official release notes](https://cursor.com/changelog/0-9-1)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Hotfixes a problem with SSH.
 
-[Official release notes](https://cursor.com/changelog/0-9-1)
-
-Tracked cards: 0
+Tracked 0 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

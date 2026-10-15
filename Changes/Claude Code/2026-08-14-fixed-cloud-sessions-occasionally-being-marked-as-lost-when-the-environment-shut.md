@@ -1,8 +1,12 @@
 ---
 card_id: claude-code-2026-08-14-e227c6
 date: '2026-08-14'
+description: 'Claude Code · 2026-08-14 · Safety and Privacy: Fixed cloud sessions
+  occasionally being marked as lost when the environment shut down while Claude was
+  waiting…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|cursor-2023-04-16-f0e22a]]'
+  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
+    mode for opting out of storing any kind of data on our servers]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1216
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3dc9c3e7b52b6f5aad8895105e7cdcc5cdfedc60f0650005cd1bc47018552bda
+machine_hash: 6dcdd697f5f58338a62d0913f90e855ff28c4e691c8a5966eb9c27bc9da70fb7
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,9 +45,12 @@ record:
     shut…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-06-fixed-permission-prompts-so-commands-padded-with-tabs-or-invisible-unicode-can-n|claude-code-2026-08-06-c063c5]]'
-- '[[Changes/Claude Code/2026-08-08-added-a-workspace-trust-prompt-to-claude-agents-for-untrusted-directories-matchi|claude-code-2026-08-08-d35e2a]]'
-- '[[Changes/Claude Code/2026-08-08-fixed-auto-mode-counting-a-safety-filter-refusal-of-its-own-permission-check-tow|claude-code-2026-08-08-f19c8f]]'
+- '[[Changes/Claude Code/2026-08-06-fixed-permission-prompts-so-commands-padded-with-tabs-or-invisible-unicode-can-n|Fixed
+  permission prompts so commands padded with tabs or invisible Unicode can no…]]'
+- '[[Changes/Claude Code/2026-08-08-added-a-workspace-trust-prompt-to-claude-agents-for-untrusted-directories-matchi|Added
+  a workspace trust prompt to claude agents for untrusted directories…]]'
+- '[[Changes/Claude Code/2026-08-08-fixed-auto-mode-counting-a-safety-filter-refusal-of-its-own-permission-check-tow|Fixed
+  auto mode counting a safety-filter refusal of its own permission check toward…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-14-v2-1-233-github-370762090-de6823a9|claude-code-2026-08-14-v2-1-233-github-370762090-de6823a9]]'
 source_type: github_releases
 theme: safety-privacy
@@ -52,10 +59,10 @@ title: Fixed cloud sessions occasionally being marked as lost when the environme
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Fixed cloud sessions occasionally being marked as lost when the environment shut…
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.233: Fixed cloud sessions occasionally being marked as lost when the environment shut down while Claude was waiting on a permission prompt
+**Claude Code** · 2026-08-14 · [[Themes/safety-privacy|Safety and Privacy]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.233) · from [[Releases/Claude Code/claude-code-2026-08-14-v2-1-233-github-370762090-de6823a9|v2.1.233]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -64,19 +71,27 @@ Claude Code — v2.1.233: Fixed cloud sessions occasionally being marked as lost
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.233
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-08-14-added-an-opt-in-forward-user-identity-apps-gateway-setting-on-anthropic-upstream|Added an opt-in forward_user_identity apps gateway setting on Anthropic upstreams…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-08-14-added-opt-in-memory-cgroup-support-for-bash-tool-commands-on-linux-claude-code-t|Added opt-in memory cgroup support for Bash tool commands on Linux…]] · Memory and Personalization
+- [[Changes/Claude Code/2026-08-14-added-gitlab-merge-request-url-support-to-the-worktree-flag-and-the-claude-agent|Added GitLab merge request URL support to the --worktree flag…]] · Developer Workflow
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: safety-privacy
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|cursor-2023-04-16-f0e22a]]
-- Lag Days: 1216
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Safety and Privacy
+
+- Earlier: 2026-08-08 · Claude Code · [[Changes/Claude Code/2026-08-08-fixed-auto-mode-counting-a-safety-filter-refusal-of-its-own-permission-check-tow|Fixed auto mode counting a safety-filter refusal of its own permission check toward…]]
+- Later: 2026-08-18 · Claude Code · [[Changes/Claude Code/2026-08-18-improved-permission-dialogs-display-text-and-don-t-ask-again-options-now-always|Improved permission dialogs]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-08-14-e227c6&body=Card%3A%20Changes%2FClaude%20Code%2F2026-08-14-fixed-cloud-sessions-occasionally-being-marked-as-lost-when-the-environment-shut.md%0ACard%20ID%3A%20claude-code-2026-08-14-e227c6%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.233%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

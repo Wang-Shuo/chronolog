@@ -1,10 +1,13 @@
 ---
 changes_count: 4
 date: '2026-04-08'
-machine_hash: 9a2ccdcb6f302d6f03a960e4574b590161967501efd72ae74dd86d1f8cb839d5
+description: 'Cursor release Bugbot Learned Rules and MCP Support on 2026-04-08: 4
+  tracked changes across Apps and Integrations, Developer Workflow'
+machine_hash: 2808422e67abdfcab0e858a43f072a6b7ea39ded4ae6e105bc48c4f0488b1a03
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 16
   date: '2026-04-08'
   product: cursor
   product_name: Cursor
@@ -23,25 +26,27 @@ source_url: https://cursor.com/changelog/04-08-26
 tags:
 - release
 - cursor
-title: Cursor — Bugbot Learned Rules and MCP Support
+title: Cursor · Bugbot Learned Rules and MCP Support
 version: Bugbot Learned Rules and MCP Support
 ---
 
-# Cursor Bugbot Learned Rules and MCP Support
+<!-- chronolog:begin region="header" -->
+# Cursor · Bugbot Learned Rules and MCP Support
+
+**Cursor** · 2026-04-08 · [Official release notes](https://cursor.com/changelog/04-08-26)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 This release introduces updates to Bugbot including the ability to self-improve in real time, MCP support, improvements to Bugbot Autofix, and the highest resolution rate to date.
 
-[Official release notes](https://cursor.com/changelog/04-08-26)
-
-Tracked cards: 4
+Tracked 4 of 16 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- apps-integrations: [[Changes/Cursor/2026-04-08-it-looks-at-reactions-and-replies-to-bugbot-comments-and-comments-from-human-rev|It looks at reactions and replies to Bugbot comments and comments from human…]]
-- apps-integrations: [[Changes/Cursor/2026-04-08-give-bugbot-access-to-mcp-servers-for-additional-context-during-code-reviews-on|Give Bugbot access to MCP servers for additional context during code reviews]]
-- developer-workflow: [[Changes/Cursor/2026-04-08-bugbot-can-now-learn-from-feedback-on-pull-requests-and-turn-those-signals-into|Bugbot can now learn from feedback on pull requests and turn those signals…]]
-- apps-integrations: [[Changes/Cursor/2026-04-08-this-release-introduces-updates-to-bugbot-including-the-ability-to-self-improve|Cursor introduces updates to Bugbot including the ability to self-improve in real…]]
+- [[Changes/Cursor/2026-04-08-it-looks-at-reactions-and-replies-to-bugbot-comments-and-comments-from-human-rev|It looks at reactions and replies to Bugbot comments and comments from human…]] · Apps and Integrations
+- [[Changes/Cursor/2026-04-08-give-bugbot-access-to-mcp-servers-for-additional-context-during-code-reviews-on|Give Bugbot access to MCP servers for additional context during code reviews]] · Apps and Integrations
+- [[Changes/Cursor/2026-04-08-bugbot-can-now-learn-from-feedback-on-pull-requests-and-turn-those-signals-into|Bugbot can now learn from feedback on pull requests and turn those signals…]] · Developer Workflow
+- [[Changes/Cursor/2026-04-08-this-release-introduces-updates-to-bugbot-including-the-ability-to-self-improve|Cursor introduces updates to Bugbot including the ability to self-improve in real…]] · Apps and Integrations
 <!-- chronolog:end -->

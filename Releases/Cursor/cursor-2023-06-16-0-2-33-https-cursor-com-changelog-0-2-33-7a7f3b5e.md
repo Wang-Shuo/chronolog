@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2023-06-16'
-machine_hash: fcc5661b9cd1c4d69091580bb575ab55a36181522887f61765c218f6d45fd03e
+description: 'Cursor release Azure Support on 2023-06-16: 1 tracked change across
+  Apps and Integrations'
+machine_hash: 944c291353671dc41d60c4e29aa746cc995d1fe2c0e27652f6c90d32d7fb1c21
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2023-06-16'
   product: cursor
   product_name: Cursor
@@ -22,22 +25,24 @@ source_url: https://cursor.com/changelog/0-2-33
 tags:
 - release
 - cursor
-title: Cursor — Azure Support
+title: Cursor · Azure Support
 version: 0.2.33
 ---
 
-# Cursor Azure Support
+<!-- chronolog:begin region="header" -->
+# Cursor · Azure Support
+
+**Cursor** · 2023-06-16 · [Official release notes](https://cursor.com/changelog/0-2-33)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 We've added support for using your Azure OpenAI credentials. Also, small improvements / fixes.
 
-[Official release notes](https://cursor.com/changelog/0-2-33)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- apps-integrations: [[Changes/Cursor/2023-06-16-we-ve-added-support-for-using-your-azure-openai-credentials-also-small-improveme|Cursor adds support for using your Azure OpenAI credentials]]
+- [[Changes/Cursor/2023-06-16-we-ve-added-support-for-using-your-azure-openai-credentials-also-small-improveme|Cursor adds support for using your Azure OpenAI credentials]] · Apps and Integrations
 <!-- chronolog:end -->

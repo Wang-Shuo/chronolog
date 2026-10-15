@@ -1,8 +1,11 @@
 ---
 card_id: claude-code-2025-12-19-9ee70f
 date: '2025-12-19'
+description: 'Claude Code · 2025-12-19 · Mobile and Desktop: Added guidance for macOS
+  users when Alt shortcuts fail due to terminal configuration'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support 🥳]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1011
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7094e301952715a515749a54affe2d5b4a925a62941d519605625da97b4b6304
+machine_hash: 589fcbdd00abeb8d02e13467c4068e957dd749d25bbefcf0aa077637153e7ecf
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,9 +50,12 @@ record:
   title: Added guidance for macOS users when Alt shortcuts fail due to terminal configuration
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-10-23-starting-today-project-sharing-is-available-to-all-chatgpt-users-including-for-f-9033cc|chatgpt-2025-10-23-9033cc]]'
-- '[[Changes/ChatGPT/2025-11-13-we-re-piloting-group-chats-so-you-can-bring-people-and-chatgpt-into-the-same-con-21fa05|chatgpt-2025-11-13-21fa05]]'
-- '[[Changes/ChatGPT/2025-12-18-you-can-now-pin-chats-to-the-top-of-your-list-for-quick-access-to-important-conv|chatgpt-2025-12-18-ed71ce]]'
+- '[[Changes/ChatGPT/2025-10-23-starting-today-project-sharing-is-available-to-all-chatgpt-users-including-for-f-9033cc|Starting
+  today, project sharing is available to all ChatGPT users, including…]]'
+- '[[Changes/ChatGPT/2025-11-13-we-re-piloting-group-chats-so-you-can-bring-people-and-chatgpt-into-the-same-con-21fa05|We’re
+  piloting group chats so you can bring people - and ChatGPT - into the same…]]'
+- '[[Changes/ChatGPT/2025-12-18-you-can-now-pin-chats-to-the-top-of-your-list-for-quick-access-to-important-conv|Pin
+  chats to the top of your list for quick access to important conversations]]'
 source_release: '[[Releases/Claude Code/claude-code-2025-12-19-v2-0-74-github-271886909-2070ef10|claude-code-2025-12-19-v2-0-74-github-271886909-2070ef10]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -57,10 +63,10 @@ title: Added guidance for macOS users when Alt shortcuts fail due to terminal co
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Added guidance for macOS users when Alt shortcuts fail due to terminal configuration
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.0.74: Added guidance for macOS users when Alt shortcuts fail due to terminal configuration
+**Claude Code** · 2025-12-19 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.0.74) · from [[Releases/Claude Code/claude-code-2025-12-19-v2-0-74-github-271886909-2070ef10|v2.0.74]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -69,19 +75,28 @@ Claude Code — v2.0.74: Added guidance for macOS users when Alt shortcuts fail 
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.0.74
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2025-12-19-added-syntax-highlighting-info-to-theme-picker|Added syntax highlighting info to theme picker]] · Interface Experience
+- [[Changes/Claude Code/2025-12-19-added-lsp-language-server-protocol-tool-for-code-intelligence-features-like-go-t|Added LSP (Language Server Protocol) tool for code intelligence features like…]] · Developer Workflow
+- [[Changes/Claude Code/2025-12-19-added-ctrl-t-shortcut-in-theme-to-toggle-syntax-highlighting-on-off|Added ctrl+t shortcut in /theme to toggle syntax highlighting on/off]] · Interface Experience
+- [[Changes/Claude Code/2025-12-19-added-terminal-setup-support-for-kitty-alacritty-zed-and-warp-terminals|Added /terminal-setup support for Kitty, Alacritty, Zed, and Warp terminals]] · Developer Workflow
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: mobile-desktop
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]
-- Lag Days: 1011
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Mobile and Desktop
+
+- Earlier: 2025-12-18 · ChatGPT · [[Changes/ChatGPT/2025-12-18-you-can-now-pin-chats-to-the-top-of-your-list-for-quick-access-to-important-conv|Pin chats to the top of your list for quick access to important conversations]]
+- Later: 2026-01-07 · ChatGPT · [[Changes/ChatGPT/2026-01-07-health-appears-as-a-new-space-in-the-chatgpt-sidebar-if-you-ask-a-health-related|Health appears as a new space in the ChatGPT sidebar]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2025-12-19-9ee70f&body=Card%3A%20Changes%2FClaude%20Code%2F2025-12-19-added-guidance-for-macos-users-when-alt-shortcuts-fail-due-to-terminal-configura.md%0ACard%20ID%3A%20claude-code-2025-12-19-9ee70f%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.0.74%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

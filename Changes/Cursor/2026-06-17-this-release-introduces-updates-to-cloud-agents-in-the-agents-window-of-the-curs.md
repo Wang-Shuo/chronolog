@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2026-06-17-eb2180
 date: '2026-06-17'
+description: 'Cursor · 2026-06-17 · Mobile and Desktop: This release introduces updates
+  to cloud agents in the Agents Window of the Cursor desktop app.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support 🥳]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1191
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 73cd8b8574e3293397a3fdd9ccc764b2cd865e0a9fa7b83fec41a977a490d7b8
+machine_hash: 8c81d45d36a35ad5a86960b3ac08620349968529d214b3005c3f37022b836567
 product: cursor
 product_name: Cursor
 record:
@@ -49,9 +52,12 @@ record:
     desktop app
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-05-14-generated-images-will-continue-to-appear-in-the-images-tab-storage-management-is|chatgpt-2026-05-14-8895ca]]'
-- '[[Changes/ChatGPT/2026-06-10-on-ios-and-android-you-can-find-the-picker-at-the-top-of-the-conversation-on-web|chatgpt-2026-06-10-4b01b5]]'
-- '[[Changes/Claude Code/2026-06-17-added-claude-client-presence-file-environment-variable-point-it-at-a-marker-file|claude-code-2026-06-17-197b9f]]'
+- '[[Changes/ChatGPT/2026-05-14-generated-images-will-continue-to-appear-in-the-images-tab-storage-management-is|Generated
+  images will continue to appear in the Images tab]]'
+- '[[Changes/ChatGPT/2026-06-10-on-ios-and-android-you-can-find-the-picker-at-the-top-of-the-conversation-on-web|On
+  iOS and Android, you can find the picker at the top of the conversation]]'
+- '[[Changes/Claude Code/2026-06-17-added-claude-client-presence-file-environment-variable-point-it-at-a-marker-file|Added
+  CLAUDE_CLIENT_PRESENCE_FILE environment variable]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-17-3-7-https-cursor-com-changelog-cloud-in-agents-window-d40d64fa|cursor-2026-06-17-3-7-https-cursor-com-changelog-cloud-in-agents-window-d40d64fa]]'
 source_type: cursor_changelog
 theme: mobile-desktop
@@ -60,10 +66,10 @@ title: Cursor introduces updates to cloud agents in the Agents Window of the Cur
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Cursor introduces updates to cloud agents in the Agents Window of the Cursor desktop app
 
-<!-- chronolog:begin region="description" -->
-Cursor — Cloud Environment Setup and Cloud Subagents in Agents Window: This release introduces updates to cloud agents in the Agents Window of the Cursor desktop app.
+**Cursor** · 2026-06-17 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://cursor.com/changelog/cloud-in-agents-window) · from [[Releases/Cursor/cursor-2026-06-17-3-7-https-cursor-com-changelog-cloud-in-agents-window-d40d64fa|Cloud Environment Setup and Cloud Subagents in Agents Window]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -72,19 +78,28 @@ Cursor — Cloud Environment Setup and Cloud Subagents in Agents Window: This re
 > Source: https://cursor.com/changelog/cloud-in-agents-window
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2026-06-17-this-is-especially-useful-for-isolating-long-running-or-parallel-work-like-fixin|This is especially useful for isolating long-running or parallel work like fixing…]] · Editor Experience
+- [[Changes/Cursor/2026-06-17-cursor-can-now-help-you-set-up-your-dev-environment-in-the-cloud-in-less-than-10|Cursor can now help you set up your dev environment in the cloud in less than 10 minutes]] · Developer Workflow
+- [[Changes/Cursor/2026-06-17-use-in-cloud-to-spin-up-a-cloud-subagent-in-its-own-vm-to-work-on-the-next-task|Use /in-cloud to spin up a cloud subagent in its own VM to work on the next task you…]] · Agent Mode
+- [[Changes/Cursor/2026-06-17-your-environment-is-captured-in-a-reusable-snapshot-so-future-cloud-agents-start|Your environment is captured in a reusable snapshot, so future cloud agents start up…]] · Reliability and Performance
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: mobile-desktop
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]
-- Lag Days: 1191
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Mobile and Desktop
+
+- Earlier: 2026-06-17 · Claude Code · [[Changes/Claude Code/2026-06-17-added-claude-client-presence-file-environment-variable-point-it-at-a-marker-file|Added CLAUDE_CLIENT_PRESENCE_FILE environment variable]]
+- Later: 2026-06-18 · ChatGPT · [[Changes/ChatGPT/2026-06-18-chatgpt-now-has-more-ways-to-help-with-common-questions-from-pronunciation-guida|ChatGPT now has more ways to help with common questions, from pronunciation guidance…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2026-06-17-eb2180&body=Card%3A%20Changes%2FCursor%2F2026-06-17-this-release-introduces-updates-to-cloud-agents-in-the-agents-window-of-the-curs.md%0ACard%20ID%3A%20cursor-2026-06-17-eb2180%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2Fcloud-in-agents-window%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

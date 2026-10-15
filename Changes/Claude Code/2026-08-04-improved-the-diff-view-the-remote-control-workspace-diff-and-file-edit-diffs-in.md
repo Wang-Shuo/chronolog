@@ -1,8 +1,12 @@
 ---
 card_id: claude-code-2026-08-04-f32488
 date: '2026-08-04'
+description: 'Claude Code · 2026-08-04 · Apps and Integrations: Improved the `/diff`
+  view, the Remote Control workspace diff, and file-edit diffs in Claude Code on the
+  web…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
+    can join the waitlist to try plugins here]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1230
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 19a8c46a0f29f6b9359d205364c42a2bed8963f0a5d039fcd4c10c35c72ffe92
+machine_hash: cb8da17ff95c8db9e4959e7fbe3bf9c61ead6de678205f64bb9f1e399805d405
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,9 +46,12 @@ record:
     diffs…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-04-the-plugins-are-available-through-chatgpt-edu-and-chatgpt-for-teachers-district|chatgpt-2026-08-04-38ce38]]'
-- '[[Changes/Claude Code/2026-08-04-changed-remote-control-auto-start-so-repo-local-settings-claude-settings-json-or|claude-code-2026-08-04-12f511]]'
-- '[[Changes/Claude Code/2026-08-04-added-warnings-to-claude-plugin-validate-when-a-marketplace-or-plugin-name-would|claude-code-2026-08-04-ea0083]]'
+- '[[Changes/ChatGPT/2026-08-04-the-plugins-are-available-through-chatgpt-edu-and-chatgpt-for-teachers-district|The
+  plugins are available through ChatGPT Edu and ChatGPT for Teachers district…]]'
+- '[[Changes/Claude Code/2026-08-04-changed-remote-control-auto-start-so-repo-local-settings-claude-settings-json-or|Changed
+  Remote Control auto-start so repo-local settings…]]'
+- '[[Changes/Claude Code/2026-08-04-added-warnings-to-claude-plugin-validate-when-a-marketplace-or-plugin-name-would|Added
+  warnings to claude plugin validate when a marketplace or plugin name would…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-04-v2-1-222-github-365137491-9ea4d4a2|claude-code-2026-08-04-v2-1-222-github-365137491-9ea4d4a2]]'
 source_type: github_releases
 theme: apps-integrations
@@ -52,10 +59,10 @@ title: Improved the /diff view, the Remote Control workspace diff, and file-edit
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Improved the `/diff` view, the Remote Control workspace diff, and file-edit diffs…
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.222: Improved the `/diff` view, the Remote Control workspace diff, and file-edit diffs in Claude Code on the web sessions to use raw git blob content, ignoring workspace-configured diff drivers and textconv
+**Claude Code** · 2026-08-04 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.222) · from [[Releases/Claude Code/claude-code-2026-08-04-v2-1-222-github-365137491-9ea4d4a2|v2.1.222]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -64,19 +71,27 @@ Claude Code — v2.1.222: Improved the `/diff` view, the Remote Control workspac
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.222
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-08-04-changed-remote-control-auto-start-so-repo-local-settings-claude-settings-json-or|Changed Remote Control auto-start so repo-local settings…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-08-04-improved-auto-mode-safety-messages-sent-to-other-agent-sessions-via-sendmessage|Improved auto mode safety]] · Safety and Privacy
+- [[Changes/Claude Code/2026-08-04-improved-the-refusal-when-claude-tries-to-invoke-a-skill-with-disable-model-invo|Improved the refusal when Claude tries to invoke a skill with disable-model-invocation]] · Model Support
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: apps-integrations
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]
-- Lag Days: 1230
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Apps and Integrations
+
+- Earlier: 2026-08-04 · Claude Code · [[Changes/Claude Code/2026-08-04-added-warnings-to-claude-plugin-validate-when-a-marketplace-or-plugin-name-would|Added warnings to claude plugin validate when a marketplace or plugin name would…]]
+- Later: 2026-08-07 · Claude Code · [[Changes/Claude Code/2026-08-07-added-archive-plugin-source-install-plugins-from-a-zip-over-https-without-git-or|Added archive plugin source]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-08-04-f32488&body=Card%3A%20Changes%2FClaude%20Code%2F2026-08-04-improved-the-diff-view-the-remote-control-workspace-diff-and-file-edit-diffs-in.md%0ACard%20ID%3A%20claude-code-2026-08-04-f32488%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.222%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

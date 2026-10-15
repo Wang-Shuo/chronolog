@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2023-09-23'
-machine_hash: 0453a70aa6176afb8b472c19662950a5805657f14f98acb9cdd3c21656b60e38
+description: 'Cursor release gitignore and search hotfix on 2023-09-23: 1 tracked
+  change across Developer Workflow'
+machine_hash: d87ee50ec9ee7e7bf3ee7c959753cb03c126b0f8fb3c1fadd51fd65f7b9aa48b
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 3
   date: '2023-09-23'
   product: cursor
   product_name: Cursor
@@ -21,22 +24,24 @@ source_url: https://cursor.com/changelog/0-11-13-nightly
 tags:
 - release
 - cursor
-title: Cursor — gitignore and search hotfix
+title: Cursor · gitignore and search hotfix
 version: 0.11.13-nightly
 ---
 
-# Cursor gitignore and search hotfix
+<!-- chronolog:begin region="header" -->
+# Cursor · gitignore and search hotfix
+
+**Cursor** · 2023-09-23 · [Official release notes](https://cursor.com/changelog/0-11-13-nightly)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Fixes an annoying gitignore path bug
 
-[Official release notes](https://cursor.com/changelog/0-11-13-nightly)
-
-Tracked cards: 1
+Tracked 1 of 3 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- developer-workflow: [[Changes/Cursor/2023-09-23-never-lets-your-root-directory-be-in-the-gitignore|never lets your root directory be in the gitignore]]
+- [[Changes/Cursor/2023-09-23-never-lets-your-root-directory-be-in-the-gitignore|never lets your root directory be in the gitignore]] · Developer Workflow
 <!-- chronolog:end -->

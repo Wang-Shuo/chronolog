@@ -1,10 +1,13 @@
 ---
 changes_count: 2
 date: '2026-10-01'
-machine_hash: b39172473a04433f384ce1d244c98a43858f0f296cb66ae8a541a39524e8ca3d
+description: 'ChatGPT release New ways to shop in ChatGPT on 2026-10-01: 2 tracked
+  changes across Memory and Personalization, Mobile and Desktop'
+machine_hash: 2950052852e4b1a5b4a21c0f737b8558aede576f524d3118710bcba9856f7a0c
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 4
   date: '2026-10-01'
   product: chatgpt
   product_name: ChatGPT
@@ -22,23 +25,25 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — New ways to shop in ChatGPT
+title: ChatGPT · New ways to shop in ChatGPT
 version: New ways to shop in ChatGPT
 ---
 
-# ChatGPT New ways to shop in ChatGPT
+<!-- chronolog:begin region="header" -->
+# ChatGPT · New ways to shop in ChatGPT
+
+**ChatGPT** · 2026-10-01 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 See how clothes and accessories could look on you and save your favorites for later.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 2
+Tracked 2 of 4 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- memory: [[Changes/ChatGPT/2026-10-01-virtually-try-on-clothing-and-accessories-a-try-on-button-will-appear-on-product|Virtually try on clothing and accessories]]
-- mobile-desktop: [[Changes/ChatGPT/2026-10-01-available-in-chatgpt-on-mobile-and-web|Available in ChatGPT on mobile and web]]
+- [[Changes/ChatGPT/2026-10-01-virtually-try-on-clothing-and-accessories-a-try-on-button-will-appear-on-product|Virtually try on clothing and accessories]] · Memory and Personalization
+- [[Changes/ChatGPT/2026-10-01-available-in-chatgpt-on-mobile-and-web|Available in ChatGPT on mobile and web]] · Mobile and Desktop
 <!-- chronolog:end -->

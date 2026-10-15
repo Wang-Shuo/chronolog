@@ -1,10 +1,13 @@
 ---
 changes_count: 3
 date: '2023-03-30'
-machine_hash: cac492e3ae584ae33d2bfdbbba6743a93df901ff00b9a7150cf09056883a391c
+description: 'Cursor release v0.1.12 (2023-03-30) on 2023-03-30: 3 tracked changes
+  across Account and Access, Interface Experience, Model Support'
+machine_hash: 9f4460efb256a521fdd5a6abfbaac85e76313bdbb2f72224afd4fd5fcbf1c6a6
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 4
   date: '2023-03-30'
   product: cursor
   product_name: Cursor
@@ -21,24 +24,26 @@ source_url: https://cursor.com/changelog/0-1-12
 tags:
 - release
 - cursor
-title: Cursor — v0.1.12 (2023-03-30)
+title: Cursor · v0.1.12 (2023-03-30)
 version: 0.1.12
 ---
 
-# Cursor v0.1.12 (2023-03-30)
+<!-- chronolog:begin region="header" -->
+# Cursor · v0.1.12 (2023-03-30)
+
+**Cursor** · 2023-03-30 · [Official release notes](https://cursor.com/changelog/0-1-12)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
-#New Features
+3 tracked changes across 3 themes: Account and Access, Interface Experience, Model Support.
 
-[Official release notes](https://cursor.com/changelog/0-1-12)
-
-Tracked cards: 3
+Tracked 3 of 4 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- account-access: [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
-- interface-experience: [[Changes/Cursor/2023-03-30-cleaned-up-chat-styling|Cleaned up chat styling]]
-- model-support: [[Changes/Cursor/2023-03-30-use-an-openai-api-key-for-unlimited-requests-at-cost-gpt-4-access-if-available|Use an OpenAI API key for unlimited requests at cost (GPT-4 access if available)]]
+- [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]] · Account and Access
+- [[Changes/Cursor/2023-03-30-cleaned-up-chat-styling|Cleaned up chat styling]] · Interface Experience
+- [[Changes/Cursor/2023-03-30-use-an-openai-api-key-for-unlimited-requests-at-cost-gpt-4-access-if-available|Use an OpenAI API key for unlimited requests at cost (GPT-4 access if available)]] · Model Support
 <!-- chronolog:end -->

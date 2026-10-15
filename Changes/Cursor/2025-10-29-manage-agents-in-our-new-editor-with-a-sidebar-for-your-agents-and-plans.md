@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2025-10-29-c279fb
 date: '2025-10-29'
+description: 'Cursor · 2025-10-29 · Interface Experience: Manage agents in our new
+  editor, with a sidebar for your agents and plans.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
+    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1024
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 13cac56dfb127ac7e1978c75132e13dcd51e1af2268897eaaf1242c234d5015d
+machine_hash: 4d9f9dbb4389d2744e66987e2ca35621aac518e7b20b4c7688a9954d78f08fd7
 product: cursor
 product_name: Cursor
 record:
@@ -52,9 +55,12 @@ record:
   title: Manage agents in our new editor, with a sidebar for your agents and plans
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-05-06-no-tools-are-deprecated-access-is-simply-consolidated-to-clear-space-and-reduce|chatgpt-2025-05-06-7fa221]]'
-- '[[Changes/ChatGPT/2025-06-03-memory-improvements-are-starting-to-roll-out-to-free-users-in-addition-to-the-sa-a02494|chatgpt-2025-06-03-a02494]]'
-- '[[Changes/ChatGPT/2025-09-16-formatting-answers-are-better-formatted-for-quick-understanding-without-losing-d|chatgpt-2025-09-16-853082]]'
+- '[[Changes/ChatGPT/2025-05-06-no-tools-are-deprecated-access-is-simply-consolidated-to-clear-space-and-reduce|No
+  tools are deprecated—access is simply consolidated to clear space and reduce…]]'
+- '[[Changes/ChatGPT/2025-06-03-memory-improvements-are-starting-to-roll-out-to-free-users-in-addition-to-the-sa-a02494|Memory
+  improvements are starting to roll out to Free users]]'
+- '[[Changes/ChatGPT/2025-09-16-formatting-answers-are-better-formatted-for-quick-understanding-without-losing-d|Formatting:
+  Answers are better formatted for quick understanding without losing…]]'
 source_release: '[[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -62,10 +68,10 @@ title: Manage agents in our new editor, with a sidebar for your agents and plans
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Manage agents in our new editor, with a sidebar for your agents and plans
 
-<!-- chronolog:begin region="description" -->
-Cursor — New Coding Model and Agent Interface: Manage agents in our new editor, with a sidebar for your agents and plans.
+**Cursor** · 2025-10-29 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://cursor.com/changelog/2-0) · from [[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|New Coding Model and Agent Interface]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -74,19 +80,28 @@ Cursor — New Coding Model and Agent Interface: Manage agents in our new editor
 > Source: https://cursor.com/changelog/2-0
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2025-10-29-launched-in-beta-in-1-7-browser-for-agent-is-now-ga-we-ve-added-additional-suppo|Launched in beta in 1.7, browser for Agent is now GA]] · Enterprise and Administration
+- [[Changes/Cursor/2025-10-29-browser-can-now-be-embedded-in-editor-including-powerful-new-tools-to-select-ele|Browser can now be embedded in-editor, including powerful new tools to select…]] · Editor Experience
+- [[Changes/Cursor/2025-10-29-introducing-our-first-agentic-coding-model-composer-is-a-frontier-model-that-is|Introducing our first agentic coding model]] · Model Support
+- [[Changes/Cursor/2025-10-29-run-up-to-eight-agents-in-parallel-on-a-single-prompt-this-uses-git-worktrees-or|Run up to eight agents in parallel on a single prompt]] · Agent Mode
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: interface-experience
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]
-- Lag Days: 1024
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Interface Experience
+
+- Earlier: 2025-09-16 · ChatGPT · [[Changes/ChatGPT/2025-09-16-formatting-answers-are-better-formatted-for-quick-understanding-without-losing-d|Formatting: Answers are better formatted for quick understanding without losing…]]
+- Later: 2025-11-21 · Cursor · [[Changes/Cursor/2025-11-21-you-can-also-f-to-search-inside-generated-plans|You can also ⌘+F to search inside generated plans]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2025-10-29-c279fb&body=Card%3A%20Changes%2FCursor%2F2025-10-29-manage-agents-in-our-new-editor-with-a-sidebar-for-your-agents-and-plans.md%0ACard%20ID%3A%20cursor-2025-10-29-c279fb%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F2-0%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

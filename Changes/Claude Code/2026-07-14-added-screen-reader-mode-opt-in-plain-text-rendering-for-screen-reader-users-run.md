@@ -1,8 +1,11 @@
 ---
 card_id: claude-code-2026-07-14-e7f86d
 date: '2026-07-14'
+description: 'Claude Code · 2026-07-14 · Accessibility and Localization: Added screen
+  reader mode: opt-in plain-text rendering for screen reader users. Run `claude…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|chatgpt-2023-09-11-bac960]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT
+    now supports a limited selection of languages in the interface]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1037
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: f93d0610f4399ef9f92738a6526c77210a9d8c4ddfd5bedc6f77bfe16163dfc3
+machine_hash: f16d7af517522c85071c424f32a0cf13597a480a5cb80ca2d9728bef140fd502
 product: claude-code
 product_name: Claude Code
 record:
@@ -40,9 +43,12 @@ record:
     users'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-04-added-support-for-full-width-zenkaku-space-input-from-japanese-ime-in-checkbox-s|claude-code-2026-02-04-0a49b9]]'
-- '[[Changes/Claude Code/2026-06-12-session-titles-are-now-generated-in-the-language-of-your-conversation-set-the-la|claude-code-2026-06-12-f7d6f6]]'
-- '[[Changes/Claude Code/2026-07-03-improved-screen-reader-output-decorative-glyphs-are-now-hidden-transcript-symbol|claude-code-2026-07-03-347d88]]'
+- '[[Changes/Claude Code/2026-02-04-added-support-for-full-width-zenkaku-space-input-from-japanese-ime-in-checkbox-s|Added
+  support for full-width (zenkaku) space input from Japanese IME in checkbox selection]]'
+- '[[Changes/Claude Code/2026-06-12-session-titles-are-now-generated-in-the-language-of-your-conversation-set-the-la|Session
+  titles are now generated in the language of your conversation…]]'
+- '[[Changes/Claude Code/2026-07-03-improved-screen-reader-output-decorative-glyphs-are-now-hidden-transcript-symbol|Improved
+  screen-reader output]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-14-v2-1-208-github-353442054-2756b984|claude-code-2026-07-14-v2-1-208-github-353442054-2756b984]]'
 source_type: github_releases
 theme: accessibility-localization
@@ -50,10 +56,10 @@ title: 'Added screen reader mode: opt-in plain-text rendering for screen reader 
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Added screen reader mode: opt-in plain-text rendering for screen reader users
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.208: Added screen reader mode: opt-in plain-text rendering for screen reader users. Run `claude --ax-screen-reader`, set CLAUDE_AX_SCREEN_READER=1, or add "axScreenReader": true to settings.
+**Claude Code** · 2026-07-14 · [[Themes/accessibility-localization|Accessibility and Localization]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.208) · from [[Releases/Claude Code/claude-code-2026-07-14-v2-1-208-github-353442054-2756b984|v2.1.208]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -62,19 +68,28 @@ Claude Code — v2.1.208: Added screen reader mode: opt-in plain-text rendering 
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.208
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-07-14-added-mouse-click-support-for-multi-select-menus-and-other-input-rows-in-fullscr|Added mouse-click support for multi-select menus and "Other" input rows in fullscreen mode]] · Interface Experience
+- [[Changes/Claude Code/2026-07-14-added-viminsertmoderemaps-setting-map-two-key-insert-mode-sequences-like-jj-to-e|Added vimInsertModeRemaps setting]] · Editor Experience
+- [[Changes/Claude Code/2026-07-14-fixed-multi-second-per-turn-slowdowns-in-sessions-with-many-permission-deny-ask|Fixed multi-second per-turn slowdowns in sessions with many permission deny/ask rules]] · Safety and Privacy
+- [[Changes/Claude Code/2026-07-14-added-claude-code-process-wrapper-agent-view-and-the-background-service-now-hono|Added CLAUDE_CODE_PROCESS_WRAPPER: agent view and the background service now honor…]] · Agent Mode
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: accessibility-localization
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|chatgpt-2023-09-11-bac960]]
-- Lag Days: 1037
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Accessibility and Localization
+
+- Earlier: 2026-07-03 · Claude Code · [[Changes/Claude Code/2026-07-03-improved-screen-reader-output-decorative-glyphs-are-now-hidden-transcript-symbol|Improved screen-reader output]]
+- Later: 2026-07-22 · Claude Code · [[Changes/Claude Code/2026-07-22-added-screen-reader-announcements-of-deleted-text-for-word-and-line-deletions-op|Added screen-reader announcements of deleted text for word and line deletions…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-09-11 · ChatGPT · [[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT now supports a limited selection of languages in the interface]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-07-14-e7f86d&body=Card%3A%20Changes%2FClaude%20Code%2F2026-07-14-added-screen-reader-mode-opt-in-plain-text-rendering-for-screen-reader-users-run.md%0ACard%20ID%3A%20claude-code-2026-07-14-e7f86d%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.208%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

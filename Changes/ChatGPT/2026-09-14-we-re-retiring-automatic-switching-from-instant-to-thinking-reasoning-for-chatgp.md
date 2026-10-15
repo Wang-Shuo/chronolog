@@ -1,8 +1,12 @@
 ---
 card_id: chatgpt-2026-09-14-40fdb5
 date: '2026-09-14'
+description: 'ChatGPT · 2026-09-14 · Model Support: We’re retiring automatic switching
+  from Instant to Thinking (reasoning) for ChatGPT Plus and Pro users globally. You
+  can…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We
+    made more improvements to the ChatGPT model!]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1344
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: a6a95ef72134b3cb046ca7f2847b44569e5499c6964ddff257c82950dd4b478f
+machine_hash: 62b4ae885cb9c74386d5b5124eb6dbff3ad639511d660f7d6736d54d278095df
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -64,9 +68,12 @@ record:
     ChatGPT…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-09-chatgpt-voice-can-now-use-gpt-5-6-or-gpt-6-astra-when-it-needs-to-search-or-reas|chatgpt-2026-09-09-200a70]]'
-- '[[Changes/Claude Code/2026-09-09-added-maxeffortlevel-setting-top-level-or-per-model-under-modelsettings-caps-the|claude-code-2026-09-09-dfdb1b]]'
-- '[[Changes/Claude Code/2026-09-11-added-claude-code-gateway-model-discovery-timeout-ms-to-extend-the-llm-gateway-v|claude-code-2026-09-11-be6b15]]'
+- '[[Changes/ChatGPT/2026-09-09-chatgpt-voice-can-now-use-gpt-5-6-or-gpt-6-astra-when-it-needs-to-search-or-reas|ChatGPT
+  Voice can now use GPT-5.6 or GPT-6 Astra when it needs to search or reason…]]'
+- '[[Changes/Claude Code/2026-09-09-added-maxeffortlevel-setting-top-level-or-per-model-under-modelsettings-caps-the|Added
+  maxEffortLevel setting (top-level or per model under modelSettings)]]'
+- '[[Changes/Claude Code/2026-09-11-added-claude-code-gateway-model-discovery-timeout-ms-to-extend-the-llm-gateway-v|Added
+  CLAUDE_CODE_GATEWAY_MODEL_DISCOVERY_TIMEOUT_MS to extend the LLM gateway…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-14-changes-to-automatic-switching-to-thinking-in-chatgpt-plus-and-p-54d16c58|chatgpt-2026-09-14-changes-to-automatic-switching-to-thinking-in-chatgpt-plus-and-p-54d16c58]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -75,10 +82,10 @@ title: We’re retiring automatic switching from Instant to Thinking (reasoning)
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # We’re retiring automatic switching from Instant to Thinking (reasoning) for ChatGPT…
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Changes to automatic switching to thinking in ChatGPT (Plus and Pro): We’re retiring automatic switching from Instant to Thinking (reasoning) for ChatGPT Plus and Pro users globally. You can still select an available option in the model picker to give ChatGPT more time to think or reason. We’re also removing the Higher intelligence setting from ChatGPT on the web for these plans. ChatGPT can still switch automatically for safety purposes. For more information, see: GPT-5.6 and GPT-6 Pro in ChatGPT.
+**ChatGPT** · 2026-09-14 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-14-changes-to-automatic-switching-to-thinking-in-chatgpt-plus-and-p-54d16c58|Changes to automatic switching to thinking in ChatGPT (Plus and Pro)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -87,19 +94,23 @@ ChatGPT — Changes to automatic switching to thinking in ChatGPT (Plus and Pro)
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: model-support
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]
-- Lag Days: 1344
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Model Support
+
+- Earlier: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-added-claude-code-gateway-model-discovery-timeout-ms-to-extend-the-llm-gateway-v|Added CLAUDE_CODE_GATEWAY_MODEL_DISCOVERY_TIMEOUT_MS to extend the LLM gateway…]]
+- Later: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-added-effort-attribute-to-the-claude-code-llm-request-opentelemetry-trace-span-m|Added effort attribute to the claude_code.llm_request OpenTelemetry trace span…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We made more improvements to the ChatGPT model!]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-14-40fdb5&body=Card%3A%20Changes%2FChatGPT%2F2026-09-14-we-re-retiring-automatic-switching-from-instant-to-thinking-reasoning-for-chatgp.md%0ACard%20ID%3A%20chatgpt-2026-09-14-40fdb5%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

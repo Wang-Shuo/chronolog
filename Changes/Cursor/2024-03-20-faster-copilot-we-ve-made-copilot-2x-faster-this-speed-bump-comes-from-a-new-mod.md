@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2024-03-20-daa089
 date: '2024-03-20'
+description: 'Cursor · 2024-03-20 · Reliability and Performance: Faster Copilot++:
+  We''ve made Copilot++ ~2x faster! This speed bump comes from a new model / faster…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|chatgpt-2022-12-15-9c6f9c]]'
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
+    performance: Among other improvements, users will notice that ChatGPT is now…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 461
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 1966e858185bbbb208fc7a1bffbf2dafa38d9a5cf47294b6616ec78ac97eed55
+machine_hash: de69f607fd72d0386dbc47f346f78bf93be42b736c0456a04aad96821196df1e
 product: cursor
 product_name: Cursor
 record:
@@ -58,9 +61,12 @@ record:
   title: 'Faster Copilot++: We''ve made Copilot++ ~2x faster!'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-01-15-we-ll-be-working-to-improve-its-performance-over-the-coming-weeks-counts-the-sam|cursor-2024-01-15-f3f291]]'
-- '[[Changes/Cursor/2024-02-02-0-25-2-copilot-performance-improvements|cursor-2024-02-02-4a484a]]'
-- '[[Changes/Cursor/2024-02-02-apply-diffs-from-chat-should-be-a-bit-faster|cursor-2024-02-02-cfb170]]'
+- '[[Changes/Cursor/2024-01-15-we-ll-be-working-to-improve-its-performance-over-the-coming-weeks-counts-the-sam|We''ll
+  be working to improve its performance over the coming weeks]]'
+- '[[Changes/Cursor/2024-02-02-0-25-2-copilot-performance-improvements|0.25.2: Copilot++
+  performance improvements]]'
+- '[[Changes/Cursor/2024-02-02-apply-diffs-from-chat-should-be-a-bit-faster|"Apply
+  Diffs" from chat should be a bit faster]]'
 source_release: '[[Releases/Cursor/cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e|cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -68,10 +74,10 @@ title: 'Faster Copilot++: We''ve made Copilot++ ~2x faster!'
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Faster Copilot++: We've made Copilot++ ~2x faster!
 
-<!-- chronolog:begin region="description" -->
-Cursor — Faster Copilot++, Claude: Faster Copilot++: We've made Copilot++ ~2x faster! This speed bump comes from a new model / faster inference. ~50% of users are already on this model, and it will roll out to everyone over a few days. If you'd like to enable the model immediately, you can control your model in the bottom bar of the editor.
+**Cursor** · 2024-03-20 · [[Themes/reliability-performance|Reliability and Performance]] · [Official source](https://cursor.com/changelog/0-30-x) · from [[Releases/Cursor/cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e|Faster Copilot++, Claude]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -80,19 +86,28 @@ Cursor — Faster Copilot++, Claude: Faster Copilot++: We've made Copilot++ ~2x 
 > Source: https://cursor.com/changelog/0-30-x
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2024-03-20-stable-claude-support-all-the-newest-claude-models-are-available-for-pro-and-api|Stable Claude Support]] · Model Support
+- [[Changes/Cursor/2024-03-20-team-invites-we-made-it-a-bit-easier-for-you-to-invite-your-colleagues-to-your-c|Team invites: We made it a bit easier for you to invite your colleagues…]] · Editor Experience
+- [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]] · Collaboration
+- [[Changes/Cursor/2024-03-20-new-settings-we-moved-all-our-settings-to-be-accessible-by-the-gear-in-the-top-r|New Settings: We moved all our settings to be accessible by the gear in the top right]] · Interface Experience
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: reliability-performance
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|chatgpt-2022-12-15-9c6f9c]]
-- Lag Days: 461
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Reliability and Performance
+
+- Earlier: 2024-02-02 · Cursor · [[Changes/Cursor/2024-02-02-apply-diffs-from-chat-should-be-a-bit-faster|"Apply Diffs" from chat should be a bit faster]]
+- Later: 2024-05-03 · Cursor · [[Changes/Cursor/2024-05-03-update-0-33-1-0-33-3-fix-to-settings-toggles-fix-to-copilot-diffbox-performance|UPDATE (0.33.1–0.33.3): Fix to settings toggles, fix to Copilot++ diffbox…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2024-03-20-daa089&body=Card%3A%20Changes%2FCursor%2F2024-03-20-faster-copilot-we-ve-made-copilot-2x-faster-this-speed-bump-comes-from-a-new-mod.md%0ACard%20ID%3A%20cursor-2024-03-20-daa089%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F0-30-x%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

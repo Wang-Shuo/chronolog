@@ -1,10 +1,12 @@
 ---
 changes_count: 0
 date: '2023-07-10'
-machine_hash: a957235a57085a7efc7762603aca97d4be81b0a39b5c8cc360a11367e1d9b008
+description: 'Cursor release ARM Windows Cmd-Shift-F on 2023-07-10: no tracked changes'
+machine_hash: f5a5c353debc9940474ad4f8383e56676639213b4e7259860efcc6dacc195369
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2023-07-10'
   product: cursor
   product_name: Cursor
@@ -22,19 +24,21 @@ source_url: https://cursor.com/changelog/0-2-45
 tags:
 - release
 - cursor
-title: Cursor — ARM Windows Cmd-Shift-F
+title: Cursor · ARM Windows Cmd-Shift-F
 version: 0.2.45
 ---
 
-# Cursor ARM Windows Cmd-Shift-F
+<!-- chronolog:begin region="header" -->
+# Cursor · ARM Windows Cmd-Shift-F
+
+**Cursor** · 2023-07-10 · [Official release notes](https://cursor.com/changelog/0-2-45)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 This update contains an optimistic patch to Ctrl+Shift+F for ARM Windows computers.
 
-[Official release notes](https://cursor.com/changelog/0-2-45)
-
-Tracked cards: 0
+Tracked 0 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

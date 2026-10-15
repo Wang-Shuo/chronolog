@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2025-04-25'
-machine_hash: ca1340eb9d73588c687f0735de4c0392ca99a828d63f76801670e8842c6a795c
+description: 'ChatGPT release Improvements to GPT-4o on 2025-04-25: 1 tracked change
+  across Model Support'
+machine_hash: 567060150207528a6b3e8bb0c309ec3e6936e30322d9885660747b7f770dea60
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 1
   date: '2025-04-25'
   product: chatgpt
   product_name: ChatGPT
@@ -25,22 +28,24 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Improvements to GPT-4o
+title: ChatGPT · Improvements to GPT-4o
 version: Improvements to GPT-4o
 ---
 
-# ChatGPT Improvements to GPT-4o
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Improvements to GPT-4o
+
+**ChatGPT** · 2025-04-25 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 We’re making additional improvements to GPT-4o, optimizing when it saves memories and enhancing problem-solving capabilities for STEM. We’ve also made subtle changes to the way it responds, making it more proactive and better at guiding conversations toward productive outcomes. We think these updates help GPT-4o feel…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2025-04-25-we-re-making-additional-improvements-to-gpt-4o-optimizing-when-it-saves-memories|We’re making additional improvements to GPT-4o, optimizing when it saves memories…]]
+- [[Changes/ChatGPT/2025-04-25-we-re-making-additional-improvements-to-gpt-4o-optimizing-when-it-saves-memories|We’re making additional improvements to GPT-4o, optimizing when it saves memories…]] · Model Support
 <!-- chronolog:end -->

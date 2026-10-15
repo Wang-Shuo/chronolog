@@ -1,7 +1,9 @@
 ---
 created: '2023-07-20'
 date: '2026-10-01'
-machine_hash: 57e8db7bbafc290254fa5f531027cee84655cc8ff62d007a6dcdefdb5c3ec6f1
+description: Cross-product timeline of Memory and Personalization changes in ChatGPT,
+  Claude Code and Cursor.
+machine_hash: 3006199d31827bb1279685c1ee343fa30f76aecb9b3b98c516435c8acae7a672
 modified: '2026-10-01'
 products_involved:
 - ChatGPT
@@ -13,10 +15,12 @@ tags:
 - theme
 - moc
 theme: memory
-title: Memory
+title: Memory and Personalization
 ---
 
-# Theme: memory
+<!-- chronolog:begin region="header" -->
+# Memory and Personalization
+<!-- chronolog:end -->
 
 ## Research summary
 <!-- chronolog:begin region="narrative" -->

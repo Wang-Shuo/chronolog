@@ -1,8 +1,11 @@
 ---
 card_id: claude-code-2026-03-18-dd12a8
 date: '2026-03-18'
+description: 'Claude Code · 2026-03-18 · Interface Experience: Added "Show turn duration"
+  toggle to the `/config` menu'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
+    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1164
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4a8dcd08c5e88d181501db03f9a0082686af2c53a82aad996ef43212a6166112
+machine_hash: 9ed4cffdbfe2ed465cf195b4ba0380898807c12eb810b4073799c4faf334f2c9
 product: claude-code
 product_name: Claude Code
 record:
@@ -36,9 +39,12 @@ record:
   title: Added "Show turn duration" toggle to the `/config` menu
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-03-17-the-auto-functionality-can-be-accessed-by-clicking-configure-in-the-model-picker|chatgpt-2026-03-17-d07eb7]]'
-- '[[Changes/Claude Code/2026-03-17-copy-now-accepts-an-optional-index-copy-n-copies-the-nth-latest-assistant-respon|claude-code-2026-03-17-4c7440]]'
-- '[[Changes/Claude Code/2026-03-17-response-text-now-streams-line-by-line-as-it-s-generated|claude-code-2026-03-17-cd3956]]'
+- '[[Changes/ChatGPT/2026-03-17-the-auto-functionality-can-be-accessed-by-clicking-configure-in-the-model-picker|The
+  Auto functionality can be accessed by clicking Configure in the model picker…]]'
+- '[[Changes/Claude Code/2026-03-17-copy-now-accepts-an-optional-index-copy-n-copies-the-nth-latest-assistant-respon|/copy
+  now accepts an optional index: /copy N copies the Nth-latest assistant response]]'
+- '[[Changes/Claude Code/2026-03-17-response-text-now-streams-line-by-line-as-it-s-generated|Response
+  text now streams line-by-line as it''s generated]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-18-v2-1-79-github-298704791-2ebf4bbd|claude-code-2026-03-18-v2-1-79-github-298704791-2ebf4bbd]]'
 source_type: github_releases
 theme: interface-experience
@@ -46,10 +52,10 @@ title: Added "Show turn duration" toggle to the /config menu
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Added "Show turn duration" toggle to the `/config` menu
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.79: Added "Show turn duration" toggle to the `/config` menu
+**Claude Code** · 2026-03-18 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.79) · from [[Releases/Claude Code/claude-code-2026-03-18-v2-1-79-github-298704791-2ebf4bbd|v2.1.79]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -58,19 +64,28 @@ Claude Code — v2.1.79: Added "Show turn duration" toggle to the `/config` menu
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.79
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-03-18-added-console-flag-to-claude-auth-login-for-anthropic-console-api-billing-authen|Added --console flag to claude auth login for Anthropic Console (API billing)…]] · Account and Access
+- [[Changes/Claude Code/2026-03-18-improved-startup-memory-usage-by-18mb-across-all-scenarios|Improved startup memory usage by ~18MB across all scenarios]] · Reliability and Performance
+- [[Changes/Claude Code/2026-03-18-fixed-custom-status-line-showing-nothing-when-workspace-trust-is-blocking-it|Fixed custom status line showing nothing when workspace trust is blocking it]] · Safety and Privacy
+- [[Changes/Claude Code/2026-03-18-improved-non-streaming-api-fallback-with-a-2-minute-per-attempt-timeout-preventi|Improved non-streaming API fallback with a 2-minute per-attempt timeout, preventing…]] · Reliability and Performance
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: interface-experience
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]
-- Lag Days: 1164
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Interface Experience
+
+- Earlier: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-response-text-now-streams-line-by-line-as-it-s-generated|Response text now streams line-by-line as it's generated]]
+- Later: 2026-03-19 · Claude Code · [[Changes/Claude Code/2026-03-19-added-rate-limits-field-to-statusline-scripts-for-displaying-claude-ai-rate-limi|Added rate_limits field to statusline scripts for displaying Claude.ai rate limit…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-03-18-dd12a8&body=Card%3A%20Changes%2FClaude%20Code%2F2026-03-18-added-show-turn-duration-toggle-to-the-config-menu.md%0ACard%20ID%3A%20claude-code-2026-03-18-dd12a8%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.79%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2026-01-20'
-machine_hash: f7bbc7dc18f01c96560a97e6a148446557edea035f9dc4c06cb669e83086a8b0
+description: 'ChatGPT release Rolling out age prediction on 2026-01-20: 1 tracked
+  change across Model Support'
+machine_hash: 41e5cbc0ffe9cd02543a664b461b58d27ba64d30564b4df1cf3539c48db30610
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 1
   date: '2026-01-20'
   product: chatgpt
   product_name: ChatGPT
@@ -25,22 +28,24 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Rolling out age prediction
+title: ChatGPT · Rolling out age prediction
 version: Rolling out age prediction
 ---
 
-# ChatGPT Rolling out age prediction
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Rolling out age prediction
+
+**ChatGPT** · 2026-01-20 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 We're rolling out an age prediction model on ChatGPT consumer plans to help determine whether an account likely belongs to someone under 18, so we can apply the right experience and safeguards for teens. The model looks at a combination of behavioral and account-level signals, including how long an account has existed…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2026-01-20-we-re-rolling-out-an-age-prediction-model-on-chatgpt-consumer-plans-to-help-dete|ChatGPT rolls out an age prediction model on ChatGPT consumer plans to help…]]
+- [[Changes/ChatGPT/2026-01-20-we-re-rolling-out-an-age-prediction-model-on-chatgpt-consumer-plans-to-help-dete|ChatGPT rolls out an age prediction model on ChatGPT consumer plans to help…]] · Model Support
 <!-- chronolog:end -->

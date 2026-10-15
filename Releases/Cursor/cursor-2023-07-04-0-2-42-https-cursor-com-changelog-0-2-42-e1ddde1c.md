@@ -1,10 +1,13 @@
 ---
 changes_count: 0
 date: '2023-07-04'
-machine_hash: 12450096fd6c3bd020f274645a4d131e30940d4289d4604e563a555b8f140219
+description: 'Cursor release Fix for Cmd+Shift+F (Mac ARM) on 2023-07-04: no tracked
+  changes'
+machine_hash: 14fa76e9e32f2de7136de9f2bf1c1f8e7d45564765d99c262ebd58655023ea08
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2023-07-04'
   product: cursor
   product_name: Cursor
@@ -22,19 +25,21 @@ source_url: https://cursor.com/changelog/0-2-42
 tags:
 - release
 - cursor
-title: Cursor — Fix for Cmd+Shift+F (Mac ARM)
+title: Cursor · Fix for Cmd+Shift+F (Mac ARM)
 version: 0.2.42
 ---
 
-# Cursor Fix for Cmd+Shift+F (Mac ARM)
+<!-- chronolog:begin region="header" -->
+# Cursor · Fix for Cmd+Shift+F (Mac ARM)
+
+**Cursor** · 2023-07-04 · [Official release notes](https://cursor.com/changelog/0-2-42)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Fixes the VS Code codebase wide search for Mac ARM users without Rosetta.
 
-[Official release notes](https://cursor.com/changelog/0-2-42)
-
-Tracked cards: 0
+Tracked 0 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

@@ -1,10 +1,13 @@
 ---
 changes_count: 5
 date: '2026-10-06'
-machine_hash: 4584daba033a61de9e4746c1c0df6bb5ec60c7080dd65156b996efa34bbba200
+description: 'Cursor release Remote control for local agents on 2026-10-06: 5 tracked
+  changes across Enterprise and Administration, Mobile and Desktop, Agent Mode'
+machine_hash: ceacfd37da36d2708312e34e130e23bc0dd6ce8914bf591cd062cabcf4c77abe
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 8
   date: '2026-10-06'
   product: cursor
   product_name: Cursor
@@ -22,26 +25,28 @@ source_url: https://cursor.com/changelog/remote-control-local-agents
 tags:
 - release
 - cursor
-title: Cursor — Remote control for local agents
+title: Cursor · Remote control for local agents
 version: Remote control for local agents
 ---
 
-# Cursor Remote control for local agents
+<!-- chronolog:begin region="header" -->
+# Cursor · Remote control for local agents
+
+**Cursor** · 2026-10-06 · [Official release notes](https://cursor.com/changelog/remote-control-local-agents)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 You can now see and reply to the local agents running on your computer from the Cursor iOS app.
 
-[Official release notes](https://cursor.com/changelog/remote-control-local-agents)
-
-Tracked cards: 5
+Tracked 5 of 8 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- mobile-desktop: [[Changes/Cursor/2026-10-06-to-stop-your-computer-from-sleeping-while-you-re-away-turn-on-keep-this-computer|To stop your computer from sleeping while you're away, turn…]]
-- enterprise-admin: [[Changes/Cursor/2026-10-06-remote-control-is-on-by-default-except-for-enterprise-organizations-enterprise-a|Remote control is on by default, except for Enterprise organizations]]
-- mobile-desktop: [[Changes/Cursor/2026-10-06-you-can-now-see-and-reply-to-the-local-agents-running-on-your-computer-from-the|See and reply to the local agents running on your computer from the Cursor iOS app]]
-- enterprise-admin: [[Changes/Cursor/2026-10-06-remote-control-is-on-by-default-for-everyone-except-enterprise-organizations|Remote Control is on by default for everyone except Enterprise organizations]]
-- agent-mode: [[Changes/Cursor/2026-10-06-remote-control-doesn-t-move-your-agents-anywhere-it-keeps-running-on-your-comput|Remote control doesn't move your agents anywhere]]
+- [[Changes/Cursor/2026-10-06-to-stop-your-computer-from-sleeping-while-you-re-away-turn-on-keep-this-computer|To stop your computer from sleeping while you're away, turn…]] · Mobile and Desktop
+- [[Changes/Cursor/2026-10-06-remote-control-is-on-by-default-except-for-enterprise-organizations-enterprise-a|Remote control is on by default, except for Enterprise organizations]] · Enterprise and Administration
+- [[Changes/Cursor/2026-10-06-you-can-now-see-and-reply-to-the-local-agents-running-on-your-computer-from-the|See and reply to the local agents running on your computer from the Cursor iOS app]] · Mobile and Desktop
+- [[Changes/Cursor/2026-10-06-remote-control-is-on-by-default-for-everyone-except-enterprise-organizations|Remote Control is on by default for everyone except Enterprise organizations]] · Enterprise and Administration
+- [[Changes/Cursor/2026-10-06-remote-control-doesn-t-move-your-agents-anywhere-it-keeps-running-on-your-comput|Remote control doesn't move your agents anywhere]] · Agent Mode
 <!-- chronolog:end -->

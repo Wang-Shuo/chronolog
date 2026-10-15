@@ -1,10 +1,13 @@
 ---
 changes_count: 0
 date: '2023-04-06'
-machine_hash: b079fbb6c7c94d9df97e0f2f5994006e796d787ccf7228800f298caca643f9e5
+description: 'Cursor release More Bug Fixes (2023-04-06) on 2023-04-06: no tracked
+  changes'
+machine_hash: 44d3da09f58b7fe7a389202b5b0f0cb33f6443ddae50394acd66e3bd8b552254
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2023-04-06'
   product: cursor
   product_name: Cursor
@@ -21,19 +24,21 @@ source_url: https://cursor.com/changelog/0-2-1
 tags:
 - release
 - cursor
-title: Cursor — More Bug Fixes (2023-04-06)
+title: Cursor · More Bug Fixes (2023-04-06)
 version: 0.2.1
 ---
 
-# Cursor More Bug Fixes (2023-04-06)
+<!-- chronolog:begin region="header" -->
+# Cursor · More Bug Fixes (2023-04-06)
+
+**Cursor** · 2023-04-06 · [Official release notes](https://cursor.com/changelog/0-2-1)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
-#Bug Fixes
+No change cards extracted.
 
-[Official release notes](https://cursor.com/changelog/0-2-1)
-
-Tracked cards: 0
+Tracked 0 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

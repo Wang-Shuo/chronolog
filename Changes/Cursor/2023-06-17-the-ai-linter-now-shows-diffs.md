@@ -1,8 +1,9 @@
 ---
 card_id: cursor-2023-06-17-39d301
 date: '2023-06-17'
+description: 'Cursor · 2023-06-17 · Developer Workflow: The AI linter now shows diffs!'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|cursor-2023-03-18-76a713]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 91
   relation: same-theme-chronology
@@ -13,7 +14,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 62be5f24710ddeb385fb92412b2d6b88304fe36745a0e3f0144080381b49d1cd
+machine_hash: 1b389d7c75a3afb51946e43471973d08bcb98b040817b8aa349e3502ba60a160
 product: cursor
 product_name: Cursor
 record:
@@ -35,9 +36,12 @@ record:
   title: The AI linter now shows diffs!
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-04-29-working-remote-ssh-support-through-the-openremote-ssh-extension|cursor-2023-04-29-d5dbb1]]'
-- '[[Changes/Cursor/2023-05-17-press-cmd-d-to-auto-debug-a-terminal-error|cursor-2023-05-17-d21a52]]'
-- '[[Changes/Cursor/2023-06-14-small-fix-for-a-format-on-save-bug-that-was-introduced-in-the-last-release-some|cursor-2023-06-14-8baa9f]]'
+- '[[Changes/Cursor/2023-04-29-working-remote-ssh-support-through-the-openremote-ssh-extension|🌐
+  Working remote ssh support through the "OpenRemote - SSH" extension]]'
+- '[[Changes/Cursor/2023-05-17-press-cmd-d-to-auto-debug-a-terminal-error|Press Cmd+D
+  to auto-debug a terminal error]]'
+- '[[Changes/Cursor/2023-06-14-small-fix-for-a-format-on-save-bug-that-was-introduced-in-the-last-release-some|Small
+  fix for a format-on-save bug that was introduced in the last release]]'
 source_release: '[[Releases/Cursor/cursor-2023-06-17-0-2-34-nightly-https-cursor-com-changelog-0-2-34-nightly-12d24396|cursor-2023-06-17-0-2-34-nightly-https-cursor-com-changelog-0-2-34-nightly-12d24396]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -45,10 +49,10 @@ title: The AI linter now shows diffs!
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # The AI linter now shows diffs!
 
-<!-- chronolog:begin region="description" -->
-Cursor — Diffs in AI linter feedback: The AI linter now shows diffs!
+**Cursor** · 2023-06-17 · [[Themes/developer-workflow|Developer Workflow]] · [Official source](https://cursor.com/changelog/0-2-34-nightly) · from [[Releases/Cursor/cursor-2023-06-17-0-2-34-nightly-https-cursor-com-changelog-0-2-34-nightly-12d24396|Diffs in AI linter feedback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -57,19 +61,23 @@ Cursor — Diffs in AI linter feedback: The AI linter now shows diffs!
 > Source: https://cursor.com/changelog/0-2-34-nightly
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: developer-workflow
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-18-built-in-terminal|cursor-2023-03-18-76a713]]
-- Lag Days: 91
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Developer Workflow
+
+- Earlier: 2023-06-14 · Cursor · [[Changes/Cursor/2023-06-14-small-fix-for-a-format-on-save-bug-that-was-introduced-in-the-last-release-some|Small fix for a format-on-save bug that was introduced in the last release]]
+- Later: 2023-06-24 · Cursor · [[Changes/Cursor/2023-06-24-chat-was-failing-on-some-non-git-folders-that-is-now-fixed|Chat was failing on some non-git folders]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2023-06-17-39d301&body=Card%3A%20Changes%2FCursor%2F2023-06-17-the-ai-linter-now-shows-diffs.md%0ACard%20ID%3A%20cursor-2023-06-17-39d301%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F0-2-34-nightly%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

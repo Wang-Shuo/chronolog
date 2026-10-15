@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2025-06-13-c0b056
 date: '2025-06-13'
+description: 'ChatGPT · 2025-06-13 · Model Support: Handles longer conversational
+  contexts, allowing better intelligence in longer conversations.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We
+    made more improvements to the ChatGPT model!]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 886
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 722fb27cca6c3986b357ac1136733f4d8134bde354845e87aed867f0ae4c4c29
+machine_hash: eb6e8430ae50dfc8ec18beb4245590521cd1f750f113073faba395c4ccd89424
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,9 +42,12 @@ record:
   title: Handles longer conversational contexts, allowing better intelligence in longer…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-12-gpts-without-custom-actions-can-use-the-model-picker-to-select-from-all-models-a|chatgpt-2025-06-12-acceca]]'
-- '[[Changes/ChatGPT/2025-06-12-gpts-with-custom-actions-currently-support-gpt-4o-and-4-1|chatgpt-2025-06-12-b1cb25]]'
-- '[[Changes/ChatGPT/2025-06-13-smarter-responses-that-are-more-intelligent-are-better-at-understanding-what-you|chatgpt-2025-06-13-963aca]]'
+- '[[Changes/ChatGPT/2025-06-12-gpts-without-custom-actions-can-use-the-model-picker-to-select-from-all-models-a|GPTs
+  without Custom Actions can use the model picker to select from all models…]]'
+- '[[Changes/ChatGPT/2025-06-12-gpts-with-custom-actions-currently-support-gpt-4o-and-4-1|GPTs
+  with Custom Actions currently support GPT-4o and 4.1]]'
+- '[[Changes/ChatGPT/2025-06-13-smarter-responses-that-are-more-intelligent-are-better-at-understanding-what-you|Smarter
+  responses that are more intelligent, are better at understanding what you’re…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-13-improvements-to-the-chatgpt-search-response-quality-2791e464|chatgpt-2025-06-13-improvements-to-the-chatgpt-search-response-quality-2791e464]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -49,10 +55,10 @@ title: Handles longer conversational contexts, allowing better intelligence in l
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Handles longer conversational contexts, allowing better intelligence in longer…
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Improvements to the ChatGPT search response quality: Handles longer conversational contexts, allowing better intelligence in longer conversations.
+**ChatGPT** · 2025-06-13 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-06-13-improvements-to-the-chatgpt-search-response-quality-2791e464|Improvements to the ChatGPT search response quality]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -61,19 +67,27 @@ ChatGPT — Improvements to the ChatGPT search response quality: Handles longer 
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2025-06-13-more-robust-ability-to-follow-instructions-especially-in-longer-conversations-si|More robust ability to follow instructions, especially in longer conversations…]] · Reliability and Performance
+- [[Changes/ChatGPT/2025-06-13-we-ve-upgraded-chatgpt-search-for-all-users-to-provide-even-more-comprehensive-u|We’ve upgraded ChatGPT search for all users to provide even more comprehensive…]] · Search and Browsing
+- [[Changes/ChatGPT/2025-06-13-smarter-responses-that-are-more-intelligent-are-better-at-understanding-what-you|Smarter responses that are more intelligent, are better at understanding what you’re…]] · Model Support
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: model-support
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]
-- Lag Days: 886
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Model Support
+
+- Earlier: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-gpts-with-custom-actions-currently-support-gpt-4o-and-4-1|GPTs with Custom Actions currently support GPT-4o and 4.1]]
+- Later: 2025-06-16 · ChatGPT · [[Changes/ChatGPT/2025-06-16-gpts-without-custom-actions-can-use-the-model-picker-to-select-from-all-models-a|GPTs without Custom Actions can use the model picker to select from all models…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We made more improvements to the ChatGPT model!]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-06-13-c0b056&body=Card%3A%20Changes%2FChatGPT%2F2025-06-13-handles-longer-conversational-contexts-allowing-better-intelligence-in-longer-co.md%0ACard%20ID%3A%20chatgpt-2025-06-13-c0b056%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

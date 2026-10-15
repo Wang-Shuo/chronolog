@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2023-01-30-2d26b7
 date: '2023-01-30'
+description: 'ChatGPT · 2023-01-30 · Model Support: We’ve upgraded the ChatGPT model
+  with improved factuality and mathematical capabilities.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We
+    made more improvements to the ChatGPT model!]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 21
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 9024e6984e0f6d7ac3c2b11ec00e4972acf5414f59d85342c0b4f73411c747f2
+machine_hash: 3c0e4f414b74027461e8cdff96ad306cd996d795d7ddc1dc8badff0457020bd1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,7 +43,8 @@ record:
     capabilities
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]'
+- '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We
+  made more improvements to the ChatGPT model!]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-01-30-factuality-and-mathematical-improvements-bde45cd9|chatgpt-2023-01-30-factuality-and-mathematical-improvements-bde45cd9]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -49,10 +53,10 @@ title: We’ve upgraded the ChatGPT model with improved factuality and mathemati
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # We’ve upgraded the ChatGPT model with improved factuality and mathematical capabilities
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Factuality and mathematical improvements: We’ve upgraded the ChatGPT model with improved factuality and mathematical capabilities.
+**ChatGPT** · 2023-01-30 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-01-30-factuality-and-mathematical-improvements-bde45cd9|Factuality and mathematical improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -61,19 +65,23 @@ ChatGPT — Factuality and mathematical improvements: We’ve upgraded the ChatG
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: model-support
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]
-- Lag Days: 21
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Model Support
+
+- Earlier: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We made more improvements to the ChatGPT model!]]
+- Later: 2023-02-09 · ChatGPT · [[Changes/ChatGPT/2023-02-09-default-the-standard-chatgpt-model|Default: the standard ChatGPT model]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We made more improvements to the ChatGPT model!]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-01-30-2d26b7&body=Card%3A%20Changes%2FChatGPT%2F2023-01-30-we-ve-upgraded-the-chatgpt-model-with-improved-factuality-and-mathematical-capab.md%0ACard%20ID%3A%20chatgpt-2023-01-30-2d26b7%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

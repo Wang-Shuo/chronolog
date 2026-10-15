@@ -1,8 +1,12 @@
 ---
 card_id: cursor-2026-07-22-f8c3d9
 date: '2026-07-22'
+description: 'Cursor · 2026-07-22 · Model Support: Intelligence: Frontier quality,
+  matching the most expensive and powerful models that might be out of reach for daily
+  use.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We
+    made more improvements to the ChatGPT model!]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1290
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: bd68362d9a76dec2e0ffb8b32d086dc5ba58b1bc91d93f8c75bda6b77d5345bd
+machine_hash: abc9e96042ddd99e3a58c433865b71883b829e367d566c4d435c4b207723d0c2
 product: cursor
 product_name: Cursor
 record:
@@ -38,9 +42,12 @@ record:
     models…'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-06-we-re-rolling-out-gpt-5-5-instant-mini-in-chatgpt-it-replaces-gpt-5-3-instant-mi|chatgpt-2026-07-06-367b99]]'
-- '[[Changes/Claude Code/2026-07-14-improved-the-bash-powershell-tool-message-when-a-command-hits-its-timeout-and-is|claude-code-2026-07-14-610e14]]'
-- '[[Changes/Cursor/2026-07-22-cursor-router-is-our-intelligent-model-router-it-analyzes-each-request-and-sends|cursor-2026-07-22-295b82]]'
+- '[[Changes/ChatGPT/2026-07-06-we-re-rolling-out-gpt-5-5-instant-mini-in-chatgpt-it-replaces-gpt-5-3-instant-mi|ChatGPT
+  rolls out GPT-5.5 Instant Mini]]'
+- '[[Changes/Claude Code/2026-07-14-improved-the-bash-powershell-tool-message-when-a-command-hits-its-timeout-and-is|Improved
+  the Bash/PowerShell tool message when a command hits its timeout…]]'
+- '[[Changes/Cursor/2026-07-22-cursor-router-is-our-intelligent-model-router-it-analyzes-each-request-and-sends|Cursor
+  Router is our intelligent model router]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-22-cursor-router-https-cursor-com-changelog-router-af8c2ac4|cursor-2026-07-22-cursor-router-https-cursor-com-changelog-router-af8c2ac4]]'
 source_type: cursor_changelog
 theme: model-support
@@ -48,10 +55,10 @@ title: 'Intelligence: Frontier quality, matching the most expensive and powerful
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Intelligence: Frontier quality, matching the most expensive and powerful models…
 
-<!-- chronolog:begin region="description" -->
-Cursor — Cursor Router: Intelligence: Frontier quality, matching the most expensive and powerful models that might be out of reach for daily use.
+**Cursor** · 2026-07-22 · [[Themes/model-support|Model Support]] · [Official source](https://cursor.com/changelog/router) · from [[Releases/Cursor/cursor-2026-07-22-cursor-router-https-cursor-com-changelog-router-af8c2ac4|Cursor Router]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -60,19 +67,28 @@ Cursor — Cursor Router: Intelligence: Frontier quality, matching the most expe
 > Source: https://cursor.com/changelog/router
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2026-07-22-cursor-router-is-our-intelligent-model-router-it-analyzes-each-request-and-sends|Cursor Router is our intelligent model router]] · Model Support
+- [[Changes/Cursor/2026-07-22-cost-good-quality-reaching-the-highest-available-intelligence-while-optimizing-t|Cost: Good quality, reaching the highest available intelligence while optimizing…]] · Pricing Model
+- [[Changes/Cursor/2026-07-22-auto-mode-is-now-powered-by-cursor-router|Auto mode is now powered by Cursor Router]] · Agent Mode
+- [[Changes/Cursor/2026-07-22-balance-strong-quality-matching-the-frontier-models-that-most-people-like-to-dai|Balance: Strong quality, matching the frontier models that most people like to daily drive]] · Model Support
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: model-support
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]
-- Lag Days: 1290
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Model Support
+
+- Earlier: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-improved-the-bash-powershell-tool-message-when-a-command-hits-its-timeout-and-is|Improved the Bash/PowerShell tool message when a command hits its timeout…]]
+- Later: 2026-07-24 · Claude Code · [[Changes/Claude Code/2026-07-24-added-claude-opus-5-claude-opus-5-now-the-default-opus-model-1m-context-fast-mod|Added Claude Opus 5 (claude-opus-5), now the default Opus model]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We made more improvements to the ChatGPT model!]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2026-07-22-f8c3d9&body=Card%3A%20Changes%2FCursor%2F2026-07-22-intelligence-frontier-quality-matching-the-most-expensive-and-powerful-models-th.md%0ACard%20ID%3A%20cursor-2026-07-22-f8c3d9%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2Frouter%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

@@ -1,8 +1,11 @@
 ---
 card_id: claude-code-2026-09-22-723a04
 date: '2026-09-22'
+description: 'Claude Code · 2026-09-22 · Apps and Integrations: Added mouse support
+  to more lists in fullscreen mode: the wheel scrolls the `/skills` list, and a skill''s…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
+    can join the waitlist to try plugins here]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1279
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: ab2abcbd75413759634f381f540248a0d605be41da89d09cc03251d0517d0649
+machine_hash: cf57478e1add06bf3e58cbaa39728880d93bae430b9cb6eccc68d6dec35f260e
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,9 +53,12 @@ record:
   title: Added mouse support to more lists in fullscreen mode
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-17-added-plugin-install-plugin-marketplace-source-which-offers-to-add-the-marketpla|claude-code-2026-09-17-f354ad]]'
-- '[[Changes/Claude Code/2026-09-18-added-claude-gateway-proxy-is-egress-boundary-1-for-claude-apps-gateways-whose-o|claude-code-2026-09-18-1d1508]]'
-- '[[Changes/Claude Code/2026-09-18-added-an-optional-headers-map-on-claude-apps-gateway-upstreams-to-send-static-he|claude-code-2026-09-18-c95b70]]'
+- '[[Changes/Claude Code/2026-09-17-added-plugin-install-plugin-marketplace-source-which-offers-to-add-the-marketpla|Added
+  /plugin install plugin --marketplace source, which offers to add…]]'
+- '[[Changes/Claude Code/2026-09-18-added-claude-gateway-proxy-is-egress-boundary-1-for-claude-apps-gateways-whose-o|Added
+  CLAUDE_GATEWAY_PROXY_IS_EGRESS_BOUNDARY=1 for Claude apps gateways whose…]]'
+- '[[Changes/Claude Code/2026-09-18-added-an-optional-headers-map-on-claude-apps-gateway-upstreams-to-send-static-he|Added
+  an optional headers: map on Claude apps gateway upstreams, to send static…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b|claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b]]'
 source_type: github_releases
 theme: apps-integrations
@@ -60,10 +66,10 @@ title: Added mouse support to more lists in fullscreen mode
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Added mouse support to more lists in fullscreen mode
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.280: Added mouse support to more lists in fullscreen mode: the wheel scrolls the `/skills` list, and a skill's state options in `/plugin` can be clicked
+**Claude Code** · 2026-09-22 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.280) · from [[Releases/Claude Code/claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b|v2.1.280]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -72,19 +78,27 @@ Claude Code — v2.1.280: Added mouse support to more lists in fullscreen mode: 
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.280
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-09-22-added-claude-opus-5-5-claude-opus-5-5-now-the-default-opus-model-1m-context-4-20|Added Claude Opus 5.5 (claude-opus-5-5), now the default Opus model]] · Model Support
+- [[Changes/Claude Code/2026-09-22-fixed-home-and-end-doing-nothing-in-the-config-settings-list-and-in-selection-li|Fixed Home and End doing nothing in the /config settings list and in selection…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-09-22-added-claude-code-max-mcp-description-length-to-change-the-2-048-character-cap-o|Added CLAUDE_CODE_MAX_MCP_DESCRIPTION_LENGTH to change the 2,048-character cap…]] · Apps and Integrations
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: apps-integrations
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]
-- Lag Days: 1279
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Apps and Integrations
+
+- Earlier: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-added-an-optional-headers-map-on-claude-apps-gateway-upstreams-to-send-static-he|Added an optional headers: map on Claude apps gateway upstreams, to send static…]]
+- Later: 2026-09-23 · Claude Code · [[Changes/Claude Code/2026-09-23-added-guardrail-id-version-on-claude-apps-gateway-bedrock-upstreams-to-apply-an|Added guardrail: {id, version} on Claude apps gateway Bedrock upstreams to apply…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-09-22-723a04&body=Card%3A%20Changes%2FClaude%20Code%2F2026-09-22-added-mouse-support-to-more-lists-in-fullscreen-mode-the-wheel-scrolls-the-skill.md%0ACard%20ID%3A%20claude-code-2026-09-22-723a04%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.280%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

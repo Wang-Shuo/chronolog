@@ -1,8 +1,11 @@
 ---
 card_id: claude-code-2026-02-06-92317f
 date: '2026-02-06'
+description: 'Claude Code · 2026-02-06 · Memory and Personalization: Added `memory`
+  frontmatter field support for agents, enabling persistent memory with `user`, `project`…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|chatgpt-2023-07-20-37833c]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re
+    starting to roll out custom instructions, giving you more control over…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 932
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: a352e904deba38e730aac18aa4c8c533b61bc38c82de0bd7397b4d3472594554
+machine_hash: d8a4369c3351fd9608d40a7389fffcf324d79680841fdc23a251da7a8cd1093a
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,9 +52,12 @@ record:
     memory…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-01-07-we-re-starting-to-roll-out-health-a-dedicated-space-in-chatgpt-for-health-and-we|chatgpt-2026-01-07-b64cd3]]'
-- '[[Changes/ChatGPT/2026-01-15-when-reference-chat-history-is-enabled-chatgpt-can-now-more-reliably-find-specif|chatgpt-2026-01-15-a3ac65]]'
-- '[[Changes/Claude Code/2026-02-05-claude-now-automatically-records-and-recalls-memories-as-it-works|claude-code-2026-02-05-b2014f]]'
+- '[[Changes/ChatGPT/2026-01-07-we-re-starting-to-roll-out-health-a-dedicated-space-in-chatgpt-for-health-and-we|We’re
+  starting to roll out Health, a dedicated space in ChatGPT for health…]]'
+- '[[Changes/ChatGPT/2026-01-15-when-reference-chat-history-is-enabled-chatgpt-can-now-more-reliably-find-specif|When
+  reference chat history is enabled, ChatGPT can now more reliably find specific…]]'
+- '[[Changes/Claude Code/2026-02-05-claude-now-automatically-records-and-recalls-memories-as-it-works|Claude
+  now automatically records and recalls memories as it works]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-06-v2-1-33-github-283581096-0f5b01a0|claude-code-2026-02-06-v2-1-33-github-283581096-0f5b01a0]]'
 source_type: github_releases
 theme: memory
@@ -59,10 +65,10 @@ title: Added memory frontmatter field support for agents, enabling persistent me
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Added `memory` frontmatter field support for agents, enabling persistent memory…
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.33: Added `memory` frontmatter field support for agents, enabling persistent memory with `user`, `project`, or `local` scope
+**Claude Code** · 2026-02-06 · [[Themes/memory|Memory and Personalization]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.33) · from [[Releases/Claude Code/claude-code-2026-02-06-v2-1-33-github-283581096-0f5b01a0|v2.1.33]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -71,19 +77,28 @@ Claude Code — v2.1.33: Added `memory` frontmatter field support for agents, en
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.33
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-02-06-added-support-for-restricting-which-sub-agents-can-be-spawned-via-task-agent-typ|Added support for restricting which sub-agents can be spawned via Task(agent_type)…]] · Agent Mode
+- [[Changes/Claude Code/2026-02-06-added-teammateidle-and-taskcompleted-hook-events-for-multi-agent-workflows|Added TeammateIdle and TaskCompleted hook events for multi-agent workflows]] · Agent Mode
+- [[Changes/Claude Code/2026-02-06-added-plugin-name-to-skill-descriptions-and-skills-menu-for-better-discoverabili|Added plugin name to skill descriptions and /skills menu for better discoverability]] · Apps and Integrations
+- [[Changes/Claude Code/2026-02-06-improved-error-messages-for-api-connection-failures-now-shows-specific-cause-e-g|Improved error messages for API connection failures]] · Interface Experience
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: memory
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|chatgpt-2023-07-20-37833c]]
-- Lag Days: 932
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Memory and Personalization
+
+- Earlier: 2026-02-05 · Claude Code · [[Changes/Claude Code/2026-02-05-claude-now-automatically-records-and-recalls-memories-as-it-works|Claude now automatically records and recalls memories as it works]]
+- Later: 2026-02-09 · ChatGPT · [[Changes/ChatGPT/2026-02-09-we-re-beginning-to-roll-out-a-test-for-ads-in-chatgpt-in-the-u-s-for-logged-in-a|We’re beginning to roll out a test for ads in ChatGPT in the U.S. for logged-in…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re starting to roll out custom instructions, giving you more control over…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-02-06-92317f&body=Card%3A%20Changes%2FClaude%20Code%2F2026-02-06-added-memory-frontmatter-field-support-for-agents-enabling-persistent-memory-wit.md%0ACard%20ID%3A%20claude-code-2026-02-06-92317f%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.33%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

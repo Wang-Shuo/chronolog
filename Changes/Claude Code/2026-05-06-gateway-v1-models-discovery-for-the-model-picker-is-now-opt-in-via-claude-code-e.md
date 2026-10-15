@@ -1,8 +1,11 @@
 ---
 card_id: claude-code-2026-05-06-5398e4
 date: '2026-05-06'
+description: 'Claude Code · 2026-05-06 · Model Support: Gateway `/v1/models` discovery
+  for the `/model` picker is now opt-in via…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We
+    made more improvements to the ChatGPT model!]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1213
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 0d65d9daa0d13d3319ecc185707c992fb1af93bf90167e52dd3b550db278cefe
+machine_hash: 4240a36fc84051bbecf73bede78e96bc11d7eeb5a3600413bcd25307861c4ced
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,9 +53,12 @@ record:
   title: Gateway `/v1/models` discovery for the `/model` picker is now opt-in…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-04-updated-model-picker-collapsed-duplicate-opus-4-7-entries-and-current-opus-now-s|claude-code-2026-05-04-cbf221]]'
-- '[[Changes/Cursor/2026-05-04-enterprises-also-have-the-option-to-block-new-providers-or-model-versions-by-def|cursor-2026-05-04-793636]]'
-- '[[Changes/ChatGPT/2026-05-05-we-re-rolling-out-gpt-5-5-instant-as-chatgpt-s-new-default-model-it-replaces-gpt|chatgpt-2026-05-05-224f9a]]'
+- '[[Changes/Claude Code/2026-05-04-updated-model-picker-collapsed-duplicate-opus-4-7-entries-and-current-opus-now-s|Updated
+  /model picker]]'
+- '[[Changes/Cursor/2026-05-04-enterprises-also-have-the-option-to-block-new-providers-or-model-versions-by-def|Enterprises
+  also have the option to block new providers or model versions by default]]'
+- '[[Changes/ChatGPT/2026-05-05-we-re-rolling-out-gpt-5-5-instant-as-chatgpt-s-new-default-model-it-replaces-gpt|ChatGPT
+  rolls out GPT-5.5 Instant as ChatGPT’s new default model]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-06-v2-1-129-github-317982632-ec56fc0f|claude-code-2026-05-06-v2-1-129-github-317982632-ec56fc0f]]'
 source_type: github_releases
 theme: model-support
@@ -60,10 +66,10 @@ title: Gateway /v1/models discovery for the /model picker is now opt-in…
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Gateway `/v1/models` discovery for the `/model` picker is now opt-in…
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.129: Gateway `/v1/models` discovery for the `/model` picker is now opt-in via `CLAUDE_CODE_ENABLE_GATEWAY_MODEL_DISCOVERY=1` (was automatic in 2.1.126–2.1.128)
+**Claude Code** · 2026-05-06 · [[Themes/model-support|Model Support]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.129) · from [[Releases/Claude Code/claude-code-2026-05-06-v2-1-129-github-317982632-ec56fc0f|v2.1.129]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -72,19 +78,28 @@ Claude Code — v2.1.129: Gateway `/v1/models` discovery for the `/model` picker
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.129
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-05-06-added-claude-code-package-manager-auto-update-when-set-on-homebrew-or-winget-ins|Added CLAUDE_CODE_PACKAGE_MANAGER_AUTO_UPDATE: when set on Homebrew or WinGet…]] · Developer Workflow
+- [[Changes/Claude Code/2026-05-06-plugin-manifests-themes-and-monitors-should-now-be-declared-under-experimental-t|Plugin manifests: themes and monitors should now be declared under…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-05-06-added-claude-code-force-sync-output-1-env-var-to-force-enable-synchronized-outpu|Added CLAUDE_CODE_FORCE_SYNC_OUTPUT=1 env var to force-enable synchronized output…]] · Interface Experience
+- [[Changes/Claude Code/2026-05-06-added-plugin-url-url-flag-to-fetch-a-plugin-zip-archive-from-a-url-for-the-curre|Added --plugin-url url flag to fetch a plugin .zip archive from a URL…]] · Apps and Integrations
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: model-support
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]
-- Lag Days: 1213
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Model Support
+
+- Earlier: 2026-05-05 · ChatGPT · [[Changes/ChatGPT/2026-05-05-we-re-rolling-out-gpt-5-5-instant-as-chatgpt-s-new-default-model-it-replaces-gpt|ChatGPT rolls out GPT-5.5 Instant as ChatGPT’s new default model]]
+- Later: 2026-05-11 · Cursor · [[Changes/Cursor/2026-05-11-high-bugbot-spends-more-time-reasoning-reviews-are-more-expensive-and-take-longe|High: Bugbot spends more time reasoning]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We made more improvements to the ChatGPT model!]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-05-06-5398e4&body=Card%3A%20Changes%2FClaude%20Code%2F2026-05-06-gateway-v1-models-discovery-for-the-model-picker-is-now-opt-in-via-claude-code-e.md%0ACard%20ID%3A%20claude-code-2026-05-06-5398e4%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.129%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

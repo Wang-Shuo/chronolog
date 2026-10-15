@@ -1,10 +1,12 @@
 ---
 changes_count: 0
 date: '2023-09-02'
-machine_hash: 9228dce0a8b289fd2bc90a7348cfc817aeca4e09b0bfee6f00b4787e23782a08
+description: 'Cursor release Staged Rollouts on 2023-09-02: no tracked changes'
+machine_hash: 25b998c7c7005bd0292d6f6f8efaeca88669a0e46984f29659cedacdf18628f5
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2023-09-02'
   product: cursor
   product_name: Cursor
@@ -22,19 +24,21 @@ source_url: https://cursor.com/changelog/0-9-4-nightly
 tags:
 - release
 - cursor
-title: Cursor — Staged Rollouts
+title: Cursor · Staged Rollouts
 version: 0.9.4-nightly
 ---
 
-# Cursor Staged Rollouts
+<!-- chronolog:begin region="header" -->
+# Cursor · Staged Rollouts
+
+**Cursor** · 2023-09-02 · [Official release notes](https://cursor.com/changelog/0-9-4-nightly)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 We can push an update to a randomly sampled small fraction of our users before rolling out to everyone.
 
-[Official release notes](https://cursor.com/changelog/0-9-4-nightly)
-
-Tracked cards: 0
+Tracked 0 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

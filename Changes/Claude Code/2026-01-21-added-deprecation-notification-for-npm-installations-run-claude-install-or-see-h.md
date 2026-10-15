@@ -1,8 +1,10 @@
 ---
 card_id: claude-code-2026-01-21-9799a0
 date: '2026-01-21'
+description: 'Claude Code · 2026-01-21 · Developer Workflow: Added deprecation notification
+  for npm installations - run `claude install` or see…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|cursor-2023-03-18-76a713]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1040
   relation: same-theme-chronology
@@ -13,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: d5b4e0e330a97bc28dcf2a696fb68499abad9a931133e5a60ac6118f00c6e192
+machine_hash: c19b938d2004ff0cb7541dc056693b9646becdd54607586fc78748ed2fe58cfd
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,9 +44,12 @@ record:
     or see…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-13-added-search-functionality-to-config-command-for-quickly-filtering-settings|claude-code-2026-01-13-7f916b]]'
-- '[[Changes/Claude Code/2026-01-16-added-session-url-attribution-to-commits-and-prs-created-from-web-sessions|claude-code-2026-01-16-205e7c]]'
-- '[[Changes/Claude Code/2026-01-20-vscode-added-usage-command-to-display-current-plan-usage|claude-code-2026-01-20-2bf45f]]'
+- '[[Changes/Claude Code/2026-01-13-added-search-functionality-to-config-command-for-quickly-filtering-settings|Added
+  search functionality to /config command for quickly filtering settings]]'
+- '[[Changes/Claude Code/2026-01-16-added-session-url-attribution-to-commits-and-prs-created-from-web-sessions|Added
+  session URL attribution to commits and PRs created from web sessions]]'
+- '[[Changes/Claude Code/2026-01-20-vscode-added-usage-command-to-display-current-plan-usage|VSCode
+  Added /usage command to display current plan usage]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-21-v2-1-15-github-278799996-0b5b2e8b|claude-code-2026-01-21-v2-1-15-github-278799996-0b5b2e8b]]'
 source_type: github_releases
 theme: developer-workflow
@@ -53,10 +58,10 @@ title: Added deprecation notification for npm installations - run claude install
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Added deprecation notification for npm installations - run `claude install` or see…
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.15: Added deprecation notification for npm installations - run `claude install` or see https://docs.anthropic.com/en/docs/claude-code/getting-started for more options
+**Claude Code** · 2026-01-21 · [[Themes/developer-workflow|Developer Workflow]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.15) · from [[Releases/Claude Code/claude-code-2026-01-21-v2-1-15-github-278799996-0b5b2e8b|v2.1.15]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -65,19 +70,25 @@ Claude Code — v2.1.15: Added deprecation notification for npm installations - 
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.15
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-01-21-improved-ui-rendering-performance-with-react-compiler|Improved UI rendering performance with React Compiler]] · Reliability and Performance
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: developer-workflow
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-18-built-in-terminal|cursor-2023-03-18-76a713]]
-- Lag Days: 1040
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Developer Workflow
+
+- Earlier: 2026-01-20 · Claude Code · [[Changes/Claude Code/2026-01-20-vscode-added-usage-command-to-display-current-plan-usage|VSCode Added /usage command to display current plan usage]]
+- Later: 2026-01-22 · Claude Code · [[Changes/Claude Code/2026-01-22-added-new-task-management-system-including-new-capabilities-like-dependency-trac|Added new task management system, including new capabilities like dependency tracking]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-01-21-9799a0&body=Card%3A%20Changes%2FClaude%20Code%2F2026-01-21-added-deprecation-notification-for-npm-installations-run-claude-install-or-see-h.md%0ACard%20ID%3A%20claude-code-2026-01-21-9799a0%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.15%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

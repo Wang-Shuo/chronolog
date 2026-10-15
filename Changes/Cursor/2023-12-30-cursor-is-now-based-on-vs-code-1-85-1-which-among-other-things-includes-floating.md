@@ -1,8 +1,12 @@
 ---
 card_id: cursor-2023-12-30-784eeb
 date: '2023-12-30'
+description: 'Cursor · 2023-12-30 · Mobile and Desktop: Cursor is now based on VS
+  Code 1.85.1, which, among other things, includes floating editor windows. Just drag
+  and…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support 🥳]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 291
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 047c0fe6917403b4baabad2559ac9f11b5f432ade2b3d996861870430f15e490
+machine_hash: 1347947630b6ca03f0a6b45bdfe1b5866211ec73b3b9c8f64fdf2722031b2a37
 product: cursor
 product_name: Cursor
 record:
@@ -50,9 +54,12 @@ record:
     floating…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-06-22-we-ve-made-two-updates-to-the-mobile-chatgpt-app|chatgpt-2023-06-22-88b23f]]'
-- '[[Changes/ChatGPT/2023-07-25-chatgpt-for-android-is-now-available-for-download-in-the-united-states-india-ban-6b21e9|chatgpt-2023-07-25-6b21e9]]'
-- '[[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|chatgpt-2023-09-25-e42bd6]]'
+- '[[Changes/ChatGPT/2023-06-22-we-ve-made-two-updates-to-the-mobile-chatgpt-app|ChatGPT
+  makes two updates to the mobile ChatGPT app]]'
+- '[[Changes/ChatGPT/2023-07-25-chatgpt-for-android-is-now-available-for-download-in-the-united-states-india-ban-6b21e9|ChatGPT
+  for Android is now available for download in the United States, India…]]'
+- '[[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Show
+  ChatGPT one or more images]]'
 source_release: '[[Releases/Cursor/cursor-2023-12-30-0-21-3-nightly-https-cursor-com-changelog-0-21-3-nightly-0516160f|cursor-2023-12-30-0-21-3-nightly-https-cursor-com-changelog-0-21-3-nightly-0516160f]]'
 source_type: cursor_changelog
 theme: mobile-desktop
@@ -61,10 +68,10 @@ title: Cursor is now based on VS Code 1.85.1, which, among other things, include
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Cursor is now based on VS Code 1.85.1, which, among other things, includes floating…
 
-<!-- chronolog:begin region="description" -->
-Cursor — VS Code 1.85.1: Cursor is now based on VS Code 1.85.1, which, among other things, includes floating editor windows. Just drag and drop an editor onto your desktop to try it out.
+**Cursor** · 2023-12-30 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://cursor.com/changelog/0-21-3-nightly) · from [[Releases/Cursor/cursor-2023-12-30-0-21-3-nightly-https-cursor-com-changelog-0-21-3-nightly-0516160f|VS Code 1.85.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -73,19 +80,23 @@ Cursor — VS Code 1.85.1: Cursor is now based on VS Code 1.85.1, which, among o
 > Source: https://cursor.com/changelog/0-21-3-nightly
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: mobile-desktop
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]
-- Lag Days: 291
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Mobile and Desktop
+
+- Earlier: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Show ChatGPT one or more images]]
+- Later: 2024-11-19 · ChatGPT · [[Changes/ChatGPT/2024-11-19-starting-today-we-re-beginning-to-roll-out-advanced-voice-mode-on-web-already-av-3d4db6|Starting today, we’re beginning to roll out Advanced Voice Mode on web…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2023-12-30-784eeb&body=Card%3A%20Changes%2FCursor%2F2023-12-30-cursor-is-now-based-on-vs-code-1-85-1-which-among-other-things-includes-floating.md%0ACard%20ID%3A%20cursor-2023-12-30-784eeb%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F0-21-3-nightly%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

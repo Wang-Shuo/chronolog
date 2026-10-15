@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2025-12-18-ed71ce
 date: '2025-12-18'
+description: 'ChatGPT · 2025-12-18 · Mobile and Desktop: You can now pin chats to
+  the top of your list for quick access to important conversations. Pinned chats are…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support 🥳]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1010
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4803d7d5ecc2f4ecd53f7c63e7ad1481d2f46d22f3cc57fae1b8fc47496620e4
+machine_hash: 07aa36e010b295d606bd48b64c101c3dcd9445a33091ed2be6ab19536e5b4b78
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -52,9 +55,12 @@ record:
   title: Pin chats to the top of your list for quick access to important conversations
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-10-14-available-on-web-mobile-ios-android-and-desktop-macos-windows-note-in-cambodia-l|chatgpt-2025-10-14-2cf3c2]]'
-- '[[Changes/ChatGPT/2025-10-23-starting-today-project-sharing-is-available-to-all-chatgpt-users-including-for-f-9033cc|chatgpt-2025-10-23-9033cc]]'
-- '[[Changes/ChatGPT/2025-11-13-we-re-piloting-group-chats-so-you-can-bring-people-and-chatgpt-into-the-same-con-21fa05|chatgpt-2025-11-13-21fa05]]'
+- '[[Changes/ChatGPT/2025-10-14-available-on-web-mobile-ios-android-and-desktop-macos-windows-note-in-cambodia-l|Available
+  on web, mobile (iOS & Android), and desktop (macOS & Windows)]]'
+- '[[Changes/ChatGPT/2025-10-23-starting-today-project-sharing-is-available-to-all-chatgpt-users-including-for-f-9033cc|Starting
+  today, project sharing is available to all ChatGPT users, including…]]'
+- '[[Changes/ChatGPT/2025-11-13-we-re-piloting-group-chats-so-you-can-bring-people-and-chatgpt-into-the-same-con-21fa05|We’re
+  piloting group chats so you can bring people - and ChatGPT - into the same…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-12-18-pinned-chats-in-chatgpt-f0483839|chatgpt-2025-12-18-pinned-chats-in-chatgpt-f0483839]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -62,10 +68,10 @@ title: Pin chats to the top of your list for quick access to important conversat
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Pin chats to the top of your list for quick access to important conversations
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Pinned chats in ChatGPT: You can now pin chats to the top of your list for quick access to important conversations. Pinned chats are available on iOS, Android, Web, and Atlas. On web, hover over a chat in the left-hand sidebar, click ⋯, and select Pin chat. On mobile, long-press a chat and select Pin chat.
+**ChatGPT** · 2025-12-18 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-12-18-pinned-chats-in-chatgpt-f0483839|Pinned chats in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -74,19 +80,23 @@ ChatGPT — Pinned chats in ChatGPT: You can now pin chats to the top of your li
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: mobile-desktop
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]
-- Lag Days: 1010
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Mobile and Desktop
+
+- Earlier: 2025-11-13 · ChatGPT · [[Changes/ChatGPT/2025-11-13-we-re-piloting-group-chats-so-you-can-bring-people-and-chatgpt-into-the-same-con-21fa05|We’re piloting group chats so you can bring people - and ChatGPT - into the same…]]
+- Later: 2025-12-19 · Claude Code · [[Changes/Claude Code/2025-12-19-added-guidance-for-macos-users-when-alt-shortcuts-fail-due-to-terminal-configura|Added guidance for macOS users when Alt shortcuts fail due to terminal configuration]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-12-18-ed71ce&body=Card%3A%20Changes%2FChatGPT%2F2025-12-18-you-can-now-pin-chats-to-the-top-of-your-list-for-quick-access-to-important-conv.md%0ACard%20ID%3A%20chatgpt-2025-12-18-ed71ce%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

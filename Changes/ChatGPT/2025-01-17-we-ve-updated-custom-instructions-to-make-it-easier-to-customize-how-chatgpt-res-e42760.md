@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2025-01-17-e42760
 date: '2025-01-17'
+description: 'ChatGPT · 2025-01-17 · Mobile and Desktop: We''ve updated custom instructions
+  to make it easier to customize how ChatGPT responds to you. With the new UI, you…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support 🥳]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 675
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 402ee311d0102aa5fd2b3ade7855c1d02b43b5a7a97ed132bd9ae4b36f43536e
+machine_hash: aff7647dc3ca11c6cf11e95e730a6a0095c019103c3239eab26f5713b4994f0b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -62,9 +65,12 @@ record:
   title: ChatGPT updates custom instructions to make it easier to customize how ChatGPT…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|chatgpt-2023-09-25-e42bd6]]'
-- '[[Changes/Cursor/2023-12-30-cursor-is-now-based-on-vs-code-1-85-1-which-among-other-things-includes-floating|cursor-2023-12-30-784eeb]]'
-- '[[Changes/ChatGPT/2024-11-19-starting-today-we-re-beginning-to-roll-out-advanced-voice-mode-on-web-already-av-3d4db6|chatgpt-2024-11-19-3d4db6]]'
+- '[[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Show
+  ChatGPT one or more images]]'
+- '[[Changes/Cursor/2023-12-30-cursor-is-now-based-on-vs-code-1-85-1-which-among-other-things-includes-floating|Cursor
+  is now based on VS Code 1.85.1, which, among other things, includes floating…]]'
+- '[[Changes/ChatGPT/2024-11-19-starting-today-we-re-beginning-to-roll-out-advanced-voice-mode-on-web-already-av-3d4db6|Starting
+  today, we’re beginning to roll out Advanced Voice Mode on web…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-01-17-more-personalization-in-custom-instructions-bab36367|chatgpt-2025-01-17-more-personalization-in-custom-instructions-bab36367]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -72,10 +78,10 @@ title: ChatGPT updates custom instructions to make it easier to customize how Ch
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # ChatGPT updates custom instructions to make it easier to customize how ChatGPT…
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — More personalization in Custom Instructions: We've updated custom instructions to make it easier to customize how ChatGPT responds to you. With the new UI, you can tell ChatGPT the traits you want it to have, how you want it to talk to you, and any rules you want it to follow.If you're already using custom instructions, this won't change your current settings.The new UI is rolling out now on http://chatgpt.com and desktop on Windows, and is coming to mobile and desktop on macOS in the next few weeks. Available soon to ChatGPT users in the EU, Norway, Iceland, Liechtenstein, and Switzerland.
+**ChatGPT** · 2025-01-17 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-01-17-more-personalization-in-custom-instructions-bab36367|More personalization in Custom Instructions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -84,19 +90,23 @@ ChatGPT — More personalization in Custom Instructions: We've updated custom in
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: mobile-desktop
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]
-- Lag Days: 675
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Mobile and Desktop
+
+- Earlier: 2024-11-19 · ChatGPT · [[Changes/ChatGPT/2024-11-19-starting-today-we-re-beginning-to-roll-out-advanced-voice-mode-on-web-already-av-3d4db6|Starting today, we’re beginning to roll out Advanced Voice Mode on web…]]
+- Later: 2025-02-14 · ChatGPT · [[Changes/ChatGPT/2025-02-14-improved-android-conversation-parsing-performance|Improved Android conversation parsing performance]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-01-17-e42760&body=Card%3A%20Changes%2FChatGPT%2F2025-01-17-we-ve-updated-custom-instructions-to-make-it-easier-to-customize-how-chatgpt-res-e42760.md%0ACard%20ID%3A%20chatgpt-2025-01-17-e42760%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

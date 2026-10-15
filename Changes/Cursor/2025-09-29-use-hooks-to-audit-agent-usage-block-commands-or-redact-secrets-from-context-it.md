@@ -1,8 +1,12 @@
 ---
 card_id: cursor-2025-09-29-97ce8c
 date: '2025-09-29'
+description: 'Cursor · 2025-09-29 · Apps and Integrations: Use Hooks to audit Agent
+  usage, block commands, or redact secrets from context. It''s still in beta and we''d
+  love…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
+    can join the waitlist to try plugins here]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 921
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: c78acfd768dc6a21d3fc187c3043792bbcbf699a4eebd4c01d57ca0f103899d1
+machine_hash: cdc62a1b569117312e8647e87263d0b041b47c5e24b8d38f579d01d22e294ddd
 product: cursor
 product_name: Cursor
 record:
@@ -50,9 +54,12 @@ record:
   title: Use Hooks to audit Agent usage, block commands, or redact secrets from context
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-08-21-cursor-now-supports-mcp-elicitation-a-new-feature-in-the-mcp-spec-that-allows-se|cursor-2025-08-21-3d3dca]]'
-- '[[Changes/Cursor/2025-09-12-we-ve-added-support-for-mcp-resources-resources-allow-servers-to-share-data-that|cursor-2025-09-12-301348]]'
-- '[[Changes/Cursor/2025-09-12-additionally-interpolated-variables-are-now-supported-for-mcp-this-enables-using|cursor-2025-09-12-6aae13]]'
+- '[[Changes/Cursor/2025-08-21-cursor-now-supports-mcp-elicitation-a-new-feature-in-the-mcp-spec-that-allows-se|Cursor
+  now supports MCP elicitation, a new feature in the MCP spec that allows…]]'
+- '[[Changes/Cursor/2025-09-12-we-ve-added-support-for-mcp-resources-resources-allow-servers-to-share-data-that|Cursor
+  adds support for MCP Resources]]'
+- '[[Changes/Cursor/2025-09-12-additionally-interpolated-variables-are-now-supported-for-mcp-this-enables-using|Additionally,
+  interpolated variables are now supported for MCP]]'
 source_release: '[[Releases/Cursor/cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae|cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -60,10 +67,10 @@ title: Use Hooks to audit Agent usage, block commands, or redact secrets from co
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Use Hooks to audit Agent usage, block commands, or redact secrets from context
 
-<!-- chronolog:begin region="description" -->
-Cursor — Browser Controls, Plan Mode, and Hooks: Use Hooks to audit Agent usage, block commands, or redact secrets from context. It's still in beta and we'd love to hear your feedback.
+**Cursor** · 2025-09-29 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://cursor.com/changelog/1-7) · from [[Releases/Cursor/cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae|Browser Controls, Plan Mode, and Hooks]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -72,19 +79,28 @@ Cursor — Browser Controls, Plan Mode, and Hooks: Use Hooks to audit Agent usag
 > Source: https://cursor.com/changelog/1-7
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2025-09-29-when-writing-prompts-autocomplete-suggestions-will-appear-based-on-recent-change|When writing prompts, autocomplete suggestions will appear based on recent changes]] · Editor Experience
+- [[Changes/Cursor/2025-09-29-cursor-can-now-write-detailed-plans-before-starting-complex-tasks-this-allows-ag|Cursor can now write detailed plans before starting complex tasks]] · Agent Mode
+- [[Changes/Cursor/2025-09-29-agent-can-take-screenshots-improve-ui-and-debug-client-issues-read-more-about-br|Agent can take screenshots, improve UI, and debug client issues]] · Agent Mode
+- [[Changes/Cursor/2025-09-29-you-can-now-observe-control-and-extend-the-agent-loop-using-custom-scripts-hooks|Observe, control, and extend the Agent loop using custom scripts]] · Agent Mode
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: apps-integrations
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]
-- Lag Days: 921
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Apps and Integrations
+
+- Earlier: 2025-09-12 · Cursor · [[Changes/Cursor/2025-09-12-additionally-interpolated-variables-are-now-supported-for-mcp-this-enables-using|Additionally, interpolated variables are now supported for MCP]]
+- Later: 2025-10-09 · ChatGPT · [[Changes/ChatGPT/2025-10-09-we-re-adding-notion-and-linear-as-synced-connectors-for-pro-users-so-you-can-sec|ChatGPT adds Notion and Linear as synced connectors (for Pro users), so you can…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2025-09-29-97ce8c&body=Card%3A%20Changes%2FCursor%2F2025-09-29-use-hooks-to-audit-agent-usage-block-commands-or-redact-secrets-from-context-it.md%0ACard%20ID%3A%20cursor-2025-09-29-97ce8c%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F1-7%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

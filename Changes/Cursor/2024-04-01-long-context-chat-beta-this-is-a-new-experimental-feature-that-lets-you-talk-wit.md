@@ -1,8 +1,12 @@
 ---
 card_id: cursor-2024-04-01-8f1901
 date: '2024-04-01'
+description: 'Cursor · 2024-04-01 · Context Window: Long Context Chat (Beta): This
+  is a new experimental feature that lets you talk with lots of files! To enable it,
+  head to…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|cursor-2023-05-04-00d3b7]]'
+  first_in_tracked: '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended
+    prompt length for project generation]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 333
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 7dd2b405abb2cc5a85f0d2d1c1f9a9e5528e1a3c63e9b59f130800ea8157cc1e
+machine_hash: 22fb59352b82e0767f84ad0b562979662d40a9954c9ef6d3478f158441b7d061
 product: cursor
 product_name: Cursor
 record:
@@ -45,9 +49,12 @@ record:
   title: Long Context Chat (Beta)
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-11-24-you-can-now-folder-in-the-chat-to-chat-with-a-folder-let-us-know-what-you-think|cursor-2023-11-24-79ee14]]'
-- '[[Changes/Cursor/2023-11-27-folders-you-can-now-use-the-symbol-to-reference-specific-folders-we-ll-try-to-pi|cursor-2023-11-27-4becb7]]'
-- '[[Changes/Cursor/2023-11-30-better-context-chat-in-particular-followups-are-now-smarter|cursor-2023-11-30-5a7191]]'
+- '[[Changes/Cursor/2023-11-24-you-can-now-folder-in-the-chat-to-chat-with-a-folder-let-us-know-what-you-think|@folder
+  in the chat to chat with a folder]]'
+- '[[Changes/Cursor/2023-11-27-folders-you-can-now-use-the-symbol-to-reference-specific-folders-we-ll-try-to-pi|@
+  folders: You can now use the @ symbol to reference specific folders!]]'
+- '[[Changes/Cursor/2023-11-30-better-context-chat-in-particular-followups-are-now-smarter|Better
+  context chat: in particular, followups are now smarter!]]'
 source_release: '[[Releases/Cursor/cursor-2024-04-01-0-31-x-https-cursor-com-changelog-0-31-x-f88ca4c9|cursor-2024-04-01-0-31-x-https-cursor-com-changelog-0-31-x-f88ca4c9]]'
 source_type: cursor_changelog
 theme: context-window
@@ -55,10 +62,10 @@ title: Long Context Chat (Beta)
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Long Context Chat (Beta)
 
-<!-- chronolog:begin region="description" -->
-Cursor — Long Context Chat Beta: Long Context Chat (Beta): This is a new experimental feature that lets you talk with lots of files! To enable it, head to Settings > Beta. Then, select "Long Context Chat" in the top right of a new chat and try @'ing a folder or the entire codebase.
+**Cursor** · 2024-04-01 · [[Themes/context-window|Context Window]] · [Official source](https://cursor.com/changelog/0-31-x) · from [[Releases/Cursor/cursor-2024-04-01-0-31-x-https-cursor-com-changelog-0-31-x-f88ca4c9|Long Context Chat Beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -67,19 +74,25 @@ Cursor — Long Context Chat Beta: Long Context Chat (Beta): This is a new exper
 > Source: https://cursor.com/changelog/0-31-x
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2024-04-01-update-0-31-1-0-31-3-adds-back-in-ai-review-alpha-fixes-the-cursor-settings-menu|UPDATE (0.31.1–0.31.3): Adds back in AI Review (alpha), fixes…]] · Interface Experience
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: context-window
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|cursor-2023-05-04-00d3b7]]
-- Lag Days: 333
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Context Window
+
+- Earlier: 2023-11-30 · Cursor · [[Changes/Cursor/2023-11-30-better-context-chat-in-particular-followups-are-now-smarter|Better context chat: in particular, followups are now smarter!]]
+- Later: 2024-04-12 · Cursor · [[Changes/Cursor/2024-04-12-cursorrules-you-can-write-down-repo-level-rules-for-the-ai-by-creating-a-cursorr|.cursorrules: You can write down repo-level rules for the AI by creating…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended prompt length for project generation]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2024-04-01-8f1901&body=Card%3A%20Changes%2FCursor%2F2024-04-01-long-context-chat-beta-this-is-a-new-experimental-feature-that-lets-you-talk-wit.md%0ACard%20ID%3A%20cursor-2024-04-01-8f1901%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F0-31-x%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

@@ -1,7 +1,9 @@
 ---
 created: '2025-12-17'
 date: '2026-09-29'
-machine_hash: 4c66d5f34417f51c279fdb38d4c1851109498d3a580fd348e1e928aec8e03515
+description: Cross-product timeline of Automation and Scheduling changes in ChatGPT,
+  Claude Code and Cursor.
+machine_hash: d5d7e04914484edb2a127707f171a0701c616033f0a41ef8837fff4bf8dd14fe
 modified: '2026-09-29'
 products_involved:
 - ChatGPT
@@ -13,10 +15,12 @@ tags:
 - theme
 - moc
 theme: automation-scheduling
-title: Automation Scheduling
+title: Automation and Scheduling
 ---
 
-# Theme: automation-scheduling
+<!-- chronolog:begin region="header" -->
+# Automation and Scheduling
+<!-- chronolog:end -->
 
 ## Research summary
 <!-- chronolog:begin region="narrative" -->

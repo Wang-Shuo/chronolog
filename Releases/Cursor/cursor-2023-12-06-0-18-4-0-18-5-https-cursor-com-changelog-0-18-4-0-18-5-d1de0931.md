@@ -1,10 +1,13 @@
 ---
 changes_count: 2
 date: '2023-12-06'
-machine_hash: c54cf327ade162ecb1d1a2cb1170e9464238ab14f2e13e79b8a53febb1d95842
+description: 'Cursor release Onboarding & Feedback on 2023-12-06: 2 tracked changes
+  across Interface Experience'
+machine_hash: 4a84d2bd404be0a6c77807af796daf7f0a6fd850604ce743947f17b36d23d679
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 2
   date: '2023-12-06'
   product: cursor
   product_name: Cursor
@@ -21,23 +24,25 @@ source_url: https://cursor.com/changelog/0-18-4-0-18-5
 tags:
 - release
 - cursor
-title: Cursor — Onboarding & Feedback
+title: Cursor · Onboarding & Feedback
 version: 0.18.4-0.18.5
 ---
 
-# Cursor Onboarding & Feedback
+<!-- chronolog:begin region="header" -->
+# Cursor · Onboarding & Feedback
+
+**Cursor** · 2023-12-06 · [Official release notes](https://cursor.com/changelog/0-18-4-0-18-5)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Minor onboarding changes.
 
-[Official release notes](https://cursor.com/changelog/0-18-4-0-18-5)
-
-Tracked cards: 2
+Tracked 2 of 2 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- interface-experience: [[Changes/Cursor/2023-12-06-allows-users-to-provide-feedback-on-the-chat-response|Allows users to provide feedback on the chat response]]
-- interface-experience: [[Changes/Cursor/2023-12-06-minor-onboarding-changes|Minor onboarding changes]]
+- [[Changes/Cursor/2023-12-06-allows-users-to-provide-feedback-on-the-chat-response|Allows users to provide feedback on the chat response]] · Interface Experience
+- [[Changes/Cursor/2023-12-06-minor-onboarding-changes|Minor onboarding changes]] · Interface Experience
 <!-- chronolog:end -->

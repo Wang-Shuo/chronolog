@@ -1,8 +1,11 @@
 ---
 card_id: claude-code-2026-04-01-4a94e1
 date: '2026-04-01'
+description: 'Claude Code · 2026-04-01 · Safety and Privacy: Fixed UI crash when malformed
+  tool input reached the permission dialog'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|cursor-2023-04-16-f0e22a]]'
+  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
+    mode for opting out of storing any kind of data on our servers]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1081
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: eb38c6346e69274bfeb9d7a58a045836e0ff49b2df4a90a15c32ef600f97ca75
+machine_hash: 70eec5e8e302dac2a2cf10180c566d701fa4e9a5df1678edf2bd84d07844be47
 product: claude-code
 product_name: Claude Code
 record:
@@ -38,9 +41,12 @@ record:
   title: Fixed UI crash when malformed tool input reached the permission dialog
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-26-added-conditional-if-field-for-hooks-using-permission-rule-syntax-e-g-bash-git-t|claude-code-2026-03-26-cf3617]]'
-- '[[Changes/Claude Code/2026-03-27-fixed-official-marketplace-plugin-scripts-failing-with-permission-denied-on-maco|claude-code-2026-03-27-6bd5a2]]'
-- '[[Changes/Claude Code/2026-04-01-added-husky-to-protected-directories-acceptedits-mode|claude-code-2026-04-01-1f4229]]'
+- '[[Changes/Claude Code/2026-03-26-added-conditional-if-field-for-hooks-using-permission-rule-syntax-e-g-bash-git-t|Added
+  conditional if field for hooks using permission rule syntax…]]'
+- '[[Changes/Claude Code/2026-03-27-fixed-official-marketplace-plugin-scripts-failing-with-permission-denied-on-maco|Fixed
+  official marketplace plugin scripts failing…]]'
+- '[[Changes/Claude Code/2026-04-01-added-husky-to-protected-directories-acceptedits-mode|Added
+  .husky to protected directories (acceptEdits mode)]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-01-v2-1-90-github-304453197-996aad1b|claude-code-2026-04-01-v2-1-90-github-304453197-996aad1b]]'
 source_type: github_releases
 theme: safety-privacy
@@ -48,10 +54,10 @@ title: Fixed UI crash when malformed tool input reached the permission dialog
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Fixed UI crash when malformed tool input reached the permission dialog
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.90: Fixed UI crash when malformed tool input reached the permission dialog
+**Claude Code** · 2026-04-01 · [[Themes/safety-privacy|Safety and Privacy]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.90) · from [[Releases/Claude Code/claude-code-2026-04-01-v2-1-90-github-304453197-996aad1b|v2.1.90]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -60,19 +66,28 @@ Claude Code — v2.1.90: Fixed UI crash when malformed tool input reached the pe
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.90
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-04-01-added-husky-to-protected-directories-acceptedits-mode|Added .husky to protected directories (acceptEdits mode)]] · Safety and Privacy
+- [[Changes/Claude Code/2026-04-01-added-claude-code-plugin-keep-marketplace-on-failure-env-var-to-keep-the-existin|Added CLAUDE_CODE_PLUGIN_KEEP_MARKETPLACE_ON_FAILURE env var to keep the existing…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-04-01-added-powerup-interactive-lessons-teaching-claude-code-features-with-animated-de|Added /powerup — interactive lessons teaching Claude Code features with animated demos]] · Learning Tools
+- [[Changes/Claude Code/2026-04-01-hardened-powershell-tool-permission-checks-fixed-trailing-background-job-bypass|Hardened PowerShell tool permission checks]] · Safety and Privacy
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: safety-privacy
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|cursor-2023-04-16-f0e22a]]
-- Lag Days: 1081
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Safety and Privacy
+
+- Earlier: 2026-03-27 · Claude Code · [[Changes/Claude Code/2026-03-27-fixed-official-marketplace-plugin-scripts-failing-with-permission-denied-on-maco|Fixed official marketplace plugin scripts failing…]]
+- Later: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-added-defer-permission-decision-to-pretooluse-hooks-headless-sessions-can-pause|Added "defer" permission decision to PreToolUse hooks]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-04-01-4a94e1&body=Card%3A%20Changes%2FClaude%20Code%2F2026-04-01-fixed-ui-crash-when-malformed-tool-input-reached-the-permission-dialog.md%0ACard%20ID%3A%20claude-code-2026-04-01-4a94e1%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.90%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

@@ -1,10 +1,12 @@
 ---
 changes_count: 0
 date: '2023-08-29'
-machine_hash: 5269dddc2352002ae86beb04f78ead0e82d4fbe81db0902d60d5952e735060bb
+description: 'Cursor release Small refactor on 2023-08-29: no tracked changes'
+machine_hash: 0ebc87c654e560bd773b6ec4f70d073bc141b7e5739cb9285f534761c95422ba
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2023-08-29'
   product: cursor
   product_name: Cursor
@@ -22,19 +24,21 @@ source_url: https://cursor.com/changelog/0-8-4-nightly
 tags:
 - release
 - cursor
-title: Cursor — Small refactor
+title: Cursor · Small refactor
 version: 0.8.4-nightly
 ---
 
-# Cursor Small refactor
+<!-- chronolog:begin region="header" -->
+# Cursor · Small refactor
+
+**Cursor** · 2023-08-29 · [Official release notes](https://cursor.com/changelog/0-8-4-nightly)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Small refactor that we want to make sure doesn't break! Please report bugs if you find them.
 
-[Official release notes](https://cursor.com/changelog/0-8-4-nightly)
-
-Tracked cards: 0
+Tracked 0 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

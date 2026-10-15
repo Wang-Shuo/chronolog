@@ -1,8 +1,12 @@
 ---
 card_id: cursor-2024-03-20-2b46f9
 date: '2024-03-20'
+description: 'Cursor · 2024-03-20 · Editor Experience: Team invites: We made it a
+  bit easier for you to invite your colleagues to your Cursor team. You can send these
+  from…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|cursor-2023-03-14-24e9bf]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant
+    fix all lint errors with AI 😎]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 372
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4151095fad222c987e20d1d35ca9050bd48f99c51e81598ce9e559083c3188f1
+machine_hash: 81f11529484754cdda47d453d876ffee6654f098ce110c58f5cdc3ae35ac27c1
 product: cursor
 product_name: Cursor
 record:
@@ -48,9 +52,12 @@ record:
   title: 'Team invites: We made it a bit easier for you to invite your colleagues…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-02-09-copilot-quality-of-life-improvements-show-ghost-text-more-often-toggle-on-off-on|cursor-2024-02-09-342460]]'
-- '[[Changes/Cursor/2024-02-09-ai-previews-this-is-an-experimental-new-code-reading-feature-after-enabling-in-t|cursor-2024-02-09-cad515]]'
-- '[[Changes/Cursor/2024-02-23-cursor-is-now-based-on-vs-code-1-86-2-among-other-things-this-adds-sticky-scroll|cursor-2024-02-23-b1a5b1]]'
+- '[[Changes/Cursor/2024-02-09-copilot-quality-of-life-improvements-show-ghost-text-more-often-toggle-on-off-on|Copilot++
+  quality of life improvements…]]'
+- '[[Changes/Cursor/2024-02-09-ai-previews-this-is-an-experimental-new-code-reading-feature-after-enabling-in-t|AI
+  Previews: this is an experimental new code reading feature]]'
+- '[[Changes/Cursor/2024-02-23-cursor-is-now-based-on-vs-code-1-86-2-among-other-things-this-adds-sticky-scroll|Cursor
+  is now based on VS Code 1.86.2!]]'
 source_release: '[[Releases/Cursor/cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e|cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -58,10 +65,10 @@ title: 'Team invites: We made it a bit easier for you to invite your colleagues�
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Team invites: We made it a bit easier for you to invite your colleagues…
 
-<!-- chronolog:begin region="description" -->
-Cursor — Faster Copilot++, Claude: Team invites: We made it a bit easier for you to invite your colleagues to your Cursor team. You can send these from the editor's settings or at cursor.com/settings.
+**Cursor** · 2024-03-20 · [[Themes/editor-experience|Editor Experience]] · [Official source](https://cursor.com/changelog/0-30-x) · from [[Releases/Cursor/cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e|Faster Copilot++, Claude]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -70,19 +77,28 @@ Cursor — Faster Copilot++, Claude: Team invites: We made it a bit easier for y
 > Source: https://cursor.com/changelog/0-30-x
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2024-03-20-stable-claude-support-all-the-newest-claude-models-are-available-for-pro-and-api|Stable Claude Support]] · Model Support
+- [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]] · Collaboration
+- [[Changes/Cursor/2024-03-20-new-settings-we-moved-all-our-settings-to-be-accessible-by-the-gear-in-the-top-r|New Settings: We moved all our settings to be accessible by the gear in the top right]] · Interface Experience
+- [[Changes/Cursor/2024-03-20-faster-copilot-we-ve-made-copilot-2x-faster-this-speed-bump-comes-from-a-new-mod|Faster Copilot++: We've made Copilot++ ~2x faster!]] · Reliability and Performance
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: editor-experience
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|cursor-2023-03-14-24e9bf]]
-- Lag Days: 372
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Editor Experience
+
+- Earlier: 2024-02-23 · Cursor · [[Changes/Cursor/2024-02-23-cursor-is-now-based-on-vs-code-1-86-2-among-other-things-this-adds-sticky-scroll|Cursor is now based on VS Code 1.86.2!]]
+- Later: 2024-04-12 · Cursor · [[Changes/Cursor/2024-04-12-copilot-ux-suggestion-previews-now-have-syntax-highlighting-which-we-find-makes|Copilot++ UX: Suggestion previews now have syntax highlighting, which we find makes…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all lint errors with AI 😎]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2024-03-20-2b46f9&body=Card%3A%20Changes%2FCursor%2F2024-03-20-team-invites-we-made-it-a-bit-easier-for-you-to-invite-your-colleagues-to-your-c.md%0ACard%20ID%3A%20cursor-2024-03-20-2b46f9%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F0-30-x%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

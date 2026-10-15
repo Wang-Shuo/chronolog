@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2026-03-19-2ef7b6
 date: '2026-03-19'
+description: 'Cursor · 2026-03-19 · Pricing Model: Standard: $0.50/M input, $2.50/M
+  output tokens'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|chatgpt-2022-12-15-6d306d]]'
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
+    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1190
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: dfb91c23b5df2aa0e9ed720aad5336a3bc95016601f87c4539b72489e275e1ba
+machine_hash: 4c38e1bf3e1b13791c137962d8c5758eae05cbfc3b244bada4ba0ebbde8beca6
 product: cursor
 product_name: Cursor
 record:
@@ -37,9 +40,12 @@ record:
   title: 'Standard: $0.50/M input, $2.50/M output tokens'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-11-03-eligible-customers-in-india-can-now-get-12-months-of-chatgpt-go-at-no-cost-new-u|chatgpt-2025-11-03-30492d]]'
-- '[[Changes/ChatGPT/2026-03-10-you-can-manage-auto-top-up-from-codex-settings-usage-dashboard-auto-top-up-appli|chatgpt-2026-03-10-4c6996]]'
-- '[[Changes/ChatGPT/2026-03-10-eligible-chatgpt-plus-and-pro-users-can-now-turn-on-auto-top-up-for-credits-used|chatgpt-2026-03-10-e9ab25]]'
+- '[[Changes/ChatGPT/2025-11-03-eligible-customers-in-india-can-now-get-12-months-of-chatgpt-go-at-no-cost-new-u|Eligible
+  customers in India can now get 12 months of ChatGPT Go at no cost]]'
+- '[[Changes/ChatGPT/2026-03-10-you-can-manage-auto-top-up-from-codex-settings-usage-dashboard-auto-top-up-appli|You
+  can manage auto top-up from Codex Settings → Usage Dashboard]]'
+- '[[Changes/ChatGPT/2026-03-10-eligible-chatgpt-plus-and-pro-users-can-now-turn-on-auto-top-up-for-credits-used|Eligible
+  ChatGPT Plus and Pro users can now turn on auto top-up for credits used…]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-19-composer-2-https-cursor-com-changelog-composer-2-8a6d25c8|cursor-2026-03-19-composer-2-https-cursor-com-changelog-composer-2-8a6d25c8]]'
 source_type: cursor_changelog
 theme: pricing-model
@@ -47,10 +53,10 @@ title: 'Standard: $0.50/M input, $2.50/M output tokens'
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Standard: $0.50/M input, $2.50/M output tokens
 
-<!-- chronolog:begin region="description" -->
-Cursor — Composer 2: Standard: $0.50/M input, $2.50/M output tokens
+**Cursor** · 2026-03-19 · [[Themes/pricing-model|Pricing Model]] · [Official source](https://cursor.com/changelog/composer-2) · from [[Releases/Cursor/cursor-2026-03-19-composer-2-https-cursor-com-changelog-composer-2-8a6d25c8|Composer 2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -59,19 +65,26 @@ Cursor — Composer 2: Standard: $0.50/M input, $2.50/M output tokens
 > Source: https://cursor.com/changelog/composer-2
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2026-03-19-fast-default-1-50-m-input-7-50-m-output-tokens|Fast (default): $1.50/M input, $7.50/M output tokens]] · Pricing Model
+- [[Changes/Cursor/2026-03-19-composer-2-is-now-available-in-cursor-frontier-level-coding-performance-with-str|Composer 2 is now available in Cursor]] · Reliability and Performance
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: pricing-model
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|chatgpt-2022-12-15-6d306d]]
-- Lag Days: 1190
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Pricing Model
+
+- Earlier: 2026-03-10 · ChatGPT · [[Changes/ChatGPT/2026-03-10-eligible-chatgpt-plus-and-pro-users-can-now-turn-on-auto-top-up-for-credits-used|Eligible ChatGPT Plus and Pro users can now turn on auto top-up for credits used…]]
+- Later: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-added-per-model-and-cache-hit-breakdown-to-cost-for-subscription-users|Added per-model and cache-hit breakdown to /cost for subscription users]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2026-03-19-2ef7b6&body=Card%3A%20Changes%2FCursor%2F2026-03-19-standard-0-50-m-input-2-50-m-output-tokens.md%0ACard%20ID%3A%20cursor-2026-03-19-2ef7b6%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2Fcomposer-2%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

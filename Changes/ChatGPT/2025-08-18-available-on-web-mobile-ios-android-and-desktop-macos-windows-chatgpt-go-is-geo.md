@@ -1,8 +1,12 @@
 ---
 card_id: chatgpt-2025-08-18-04d411
 date: '2025-08-18'
+description: 'ChatGPT · 2025-08-18 · Mobile and Desktop: Available on web, mobile
+  (iOS & Android), and desktop (macOS & Windows).ChatGPT Go is geo-restricted to India
+  at…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support 🥳]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 888
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4fdcfba94caf9c55ba65c49d4d09aed25598e344cdce70d3b353db24de952dbc
+machine_hash: 4c0858be6c1fbe7fc100125d2ee3755151ea0e8e8b5919e7e45dcf273c16c2c8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,9 +44,12 @@ record:
   title: Available on web, mobile (iOS & Android), and desktop (macOS & Windows)
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-07-16-record-mode-is-now-available-to-chatgpt-plus-users-globally-in-the-macos-desktop|chatgpt-2025-07-16-86ff26]]'
-- '[[Changes/ChatGPT/2025-07-29-study-mode-is-currently-available-to-users-in-free-plus-pro-and-teams-plans-glob-96fd94|chatgpt-2025-07-29-96fd94]]'
-- '[[Changes/ChatGPT/2025-08-07-you-can-now-set-an-accent-color-that-applies-to-elements-in-chatgpt-including-yo-865968|chatgpt-2025-08-07-865968]]'
+- '[[Changes/ChatGPT/2025-07-16-record-mode-is-now-available-to-chatgpt-plus-users-globally-in-the-macos-desktop|Record
+  mode is now available to ChatGPT Plus users globally in the macOS desktop app]]'
+- '[[Changes/ChatGPT/2025-07-29-study-mode-is-currently-available-to-users-in-free-plus-pro-and-teams-plans-glob-96fd94|Study
+  mode is currently available to users in Free, Plus, Pro, and Teams plans…]]'
+- '[[Changes/ChatGPT/2025-08-07-you-can-now-set-an-accent-color-that-applies-to-elements-in-chatgpt-including-yo-865968|Set
+  an accent color that applies to elements in ChatGPT, including your conversation…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-18-introducing-chatgpt-go-fbc1ef7a|chatgpt-2025-08-18-introducing-chatgpt-go-fbc1ef7a]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -50,10 +57,10 @@ title: Available on web, mobile (iOS & Android), and desktop (macOS & Windows)
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Available on web, mobile (iOS & Android), and desktop (macOS & Windows)
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Introducing ChatGPT Go: Available on web, mobile (iOS & Android), and desktop (macOS & Windows).ChatGPT Go is geo-restricted to India at launch, and is able to be subscribed to by credit card or UPI.Learn more about ChatGPT Go.
+**ChatGPT** · 2025-08-18 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-08-18-introducing-chatgpt-go-fbc1ef7a|Introducing ChatGPT Go]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -62,19 +69,27 @@ ChatGPT — Introducing ChatGPT Go: Available on web, mobile (iOS & Android), an
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2025-08-18-longer-memory-for-more-personalized-responses|Longer memory for more personalized responses]] · Memory and Personalization
+- [[Changes/ChatGPT/2025-08-18-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]] · Image Generation
+- [[Changes/ChatGPT/2025-08-18-we-re-launching-chatgpt-go-a-new-low-cost-subscription-plan-this-will-initially-e5f740|ChatGPT launches ChatGPT Go, a new low-cost subscription plan]] · Pricing Model
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: mobile-desktop
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]
-- Lag Days: 888
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Mobile and Desktop
+
+- Earlier: 2025-08-07 · ChatGPT · [[Changes/ChatGPT/2025-08-07-you-can-now-set-an-accent-color-that-applies-to-elements-in-chatgpt-including-yo-865968|Set an accent color that applies to elements in ChatGPT, including your conversation…]]
+- Later: 2025-08-22 · ChatGPT · [[Changes/ChatGPT/2025-08-22-this-feature-will-initially-only-be-available-on-the-chatgpt-website-and-windows|This feature will initially only be available on the ChatGPT website and Windows app]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-08-18-04d411&body=Card%3A%20Changes%2FChatGPT%2F2025-08-18-available-on-web-mobile-ios-android-and-desktop-macos-windows-chatgpt-go-is-geo.md%0ACard%20ID%3A%20chatgpt-2025-08-18-04d411%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

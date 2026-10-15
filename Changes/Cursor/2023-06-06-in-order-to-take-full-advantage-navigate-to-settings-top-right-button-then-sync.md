@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2023-06-06-a97747
 date: '2023-06-06'
+description: 'Cursor · 2023-06-06 · Editor Experience: In order to take full advantage,
+  navigate to Settings (top right button), then "Sync the current codebase"'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|cursor-2023-03-14-24e9bf]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant
+    fix all lint errors with AI 😎]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 84
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7d6e06eff64c870ed4a51ab7065cc8ece840315e5a9e2f8e3e7f04217227557d
+machine_hash: f616fd062e9736ead2c80a39afe6f2dccb9e45267747c0d3cbe9bb5da4e583b9
 product: cursor
 product_name: Cursor
 record:
@@ -40,9 +43,12 @@ record:
     then…
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-04-29-experimental-support-for-multi-file-diffs|cursor-2023-04-29-6cec2b]]'
-- '[[Changes/Cursor/2023-05-04-improved-prompting-for-edits-and-generates|cursor-2023-05-04-a3ec93]]'
-- '[[Changes/Cursor/2023-05-06-rarely-pressing-enter-in-the-editor-does-nothing|cursor-2023-05-06-3dfcf2]]'
+- '[[Changes/Cursor/2023-04-29-experimental-support-for-multi-file-diffs|Experimental
+  support for multi-file diffs]]'
+- '[[Changes/Cursor/2023-05-04-improved-prompting-for-edits-and-generates|Improved
+  prompting for edits and generates]]'
+- '[[Changes/Cursor/2023-05-06-rarely-pressing-enter-in-the-editor-does-nothing|Rarely,
+  pressing Enter in the editor does nothing]]'
 source_release: '[[Releases/Cursor/cursor-2023-06-06-0-2-27-https-cursor-com-changelog-0-2-27-f949eba0|cursor-2023-06-06-0-2-27-https-cursor-com-changelog-0-2-27-f949eba0]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -50,10 +56,10 @@ title: In order to take full advantage, navigate to Settings (top right button),
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # In order to take full advantage, navigate to Settings (top right button), then…
 
-<!-- chronolog:begin region="description" -->
-Cursor — Codebase Context v2: In order to take full advantage, navigate to Settings (top right button), then "Sync the current codebase"
+**Cursor** · 2023-06-06 · [[Themes/editor-experience|Editor Experience]] · [Official source](https://cursor.com/changelog/0-2-27) · from [[Releases/Cursor/cursor-2023-06-06-0-2-27-https-cursor-com-changelog-0-2-27-f949eba0|Codebase Context v2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -62,19 +68,27 @@ Cursor — Codebase Context v2: In order to take full advantage, navigate to Set
 > Source: https://cursor.com/changelog/0-2-27
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2023-06-06-login-via-github-then-add-the-repo-you-wish-to-sync|Login via github, then add the repo you wish to sync!]] · Account and Access
+- [[Changes/Cursor/2023-06-06-we-ve-improved-codebase-context|Cursor improves codebase context!]] · Context Window
+- [[Changes/Cursor/2023-06-06-following-this-you-ll-be-able-to-see-an-improved-version-of-codebase-context-in|Following this, you'll be able to see an improved version of codebase context…]] · Context Window
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: editor-experience
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|cursor-2023-03-14-24e9bf]]
-- Lag Days: 84
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Editor Experience
+
+- Earlier: 2023-05-06 · Cursor · [[Changes/Cursor/2023-05-06-rarely-pressing-enter-in-the-editor-does-nothing|Rarely, pressing Enter in the editor does nothing]]
+- Later: 2023-07-03 · Cursor · [[Changes/Cursor/2023-07-03-long-code-selections-no-longer-brick-the-editor|Long code selections no longer brick the editor]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all lint errors with AI 😎]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2023-06-06-a97747&body=Card%3A%20Changes%2FCursor%2F2023-06-06-in-order-to-take-full-advantage-navigate-to-settings-top-right-button-then-sync.md%0ACard%20ID%3A%20cursor-2023-06-06-a97747%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F0-2-27%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

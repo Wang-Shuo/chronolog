@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2025-09-12-7d0a07
 date: '2025-09-12'
+description: 'Cursor · 2025-09-12 · Context Window: Cursor automatically summarizes
+  long conversation for you when reaching the context window limit. You can now summarize…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|cursor-2023-05-04-00d3b7]]'
+  first_in_tracked: '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended
+    prompt length for project generation]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 862
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 849be793f67a9d7ab22077fc1fdd233e183395d16100fc46d3e1561c6fc00649
+machine_hash: f47c9fa4e23178df55f2a0993da2840a67cd631ee34e7cf0d327acc51783b99f
 product: cursor
 product_name: Cursor
 record:
@@ -47,9 +50,12 @@ record:
     context…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-05-15-premium-tool-calls-and-long-context-mode-are-removed-to-keep-it-simple|cursor-2025-05-15-d5b1cd]]'
-- '[[Changes/Cursor/2025-07-29-at-the-end-of-a-conversation-you-can-now-see-how-much-of-the-context-window-is-u|cursor-2025-07-29-6bb48b]]'
-- '[[Changes/Cursor/2025-08-06-agents-are-significantly-improved-when-operating-across-large-codebases-context|cursor-2025-08-06-b4a9ac]]'
+- '[[Changes/Cursor/2025-05-15-premium-tool-calls-and-long-context-mode-are-removed-to-keep-it-simple|Premium
+  tool calls and long context mode are removed to keep it simple]]'
+- '[[Changes/Cursor/2025-07-29-at-the-end-of-a-conversation-you-can-now-see-how-much-of-the-context-window-is-u|At
+  the end of a conversation you can now see how much of the context window is used]]'
+- '[[Changes/Cursor/2025-08-06-agents-are-significantly-improved-when-operating-across-large-codebases-context|Agents
+  are significantly improved when operating across large codebases]]'
 source_release: '[[Releases/Cursor/cursor-2025-09-12-1-6-https-cursor-com-changelog-1-6-f33fb3ea|cursor-2025-09-12-1-6-https-cursor-com-changelog-1-6-f33fb3ea]]'
 source_type: cursor_changelog
 theme: context-window
@@ -58,10 +64,10 @@ title: Cursor automatically summarizes long conversation for you when reaching t
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Cursor automatically summarizes long conversation for you when reaching the context…
 
-<!-- chronolog:begin region="description" -->
-Cursor — Slash commands, summarization, and improved Agent terminal: Cursor automatically summarizes long conversation for you when reaching the context window limit. You can now summarize context on-demand with the /summarize slash command. This can be useful when you don't want to create a new chat, but want to free up space in the context window.
+**Cursor** · 2025-09-12 · [[Themes/context-window|Context Window]] · [Official source](https://cursor.com/changelog/1-6) · from [[Releases/Cursor/cursor-2025-09-12-1-6-https-cursor-com-changelog-1-6-f33fb3ea|Slash commands, summarization, and improved Agent terminal]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -70,19 +76,28 @@ Cursor — Slash commands, summarization, and improved Agent terminal: Cursor au
 > Source: https://cursor.com/changelog/1-6
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2025-09-12-we-ve-added-support-for-mcp-resources-resources-allow-servers-to-share-data-that|Cursor adds support for MCP Resources]] · Apps and Integrations
+- [[Changes/Cursor/2025-09-12-additionally-interpolated-variables-are-now-supported-for-mcp-this-enables-using|Additionally, interpolated variables are now supported for MCP]] · Apps and Integrations
+- [[Changes/Cursor/2025-09-12-you-can-now-create-reusable-prompts-and-quickly-share-them-with-your-team-comman|Create reusable prompts and quickly share them with your team]] · Developer Workflow
+- [[Changes/Cursor/2025-09-12-we-ve-been-using-them-for-running-linters-fixing-compile-errors-and-creating-prs|We've been using them for running linters, fixing compile errors, and creating PRs…]] · Developer Workflow
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: context-window
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|cursor-2023-05-04-00d3b7]]
-- Lag Days: 862
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Context Window
+
+- Earlier: 2025-08-06 · Cursor · [[Changes/Cursor/2025-08-06-agents-are-significantly-improved-when-operating-across-large-codebases-context|Agents are significantly improved when operating across large codebases]]
+- Later: 2025-12-18 · Cursor · [[Changes/Cursor/2025-12-18-generate-a-read-only-transcript-of-any-agent-conversation-to-include-in-your-prs|Generate a read-only transcript of any agent conversation to include in your PRs…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended prompt length for project generation]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2025-09-12-7d0a07&body=Card%3A%20Changes%2FCursor%2F2025-09-12-cursor-automatically-summarizes-long-conversation-for-you-when-reaching-the-cont.md%0ACard%20ID%3A%20cursor-2025-09-12-7d0a07%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F1-6%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

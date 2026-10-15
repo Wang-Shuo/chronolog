@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2025-07-24'
-machine_hash: 963ca0bec601117cb43afb4d9a25c47115fb6055a6a67ce1d50f11784426842f
+description: 'ChatGPT release Chat search for HubSpot and custom connectors (MCP)
+  (Pro) on 2025-07-24: 1 tracked change across Apps and Integrations'
+machine_hash: a2edff04b0a4b94ec02b42b97606c8de9234be627fd35d7b5021ec6b3a552479
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 1
   date: '2025-07-24'
   product: chatgpt
   product_name: ChatGPT
@@ -24,22 +27,24 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Chat search for HubSpot and custom connectors (MCP) (Pro)
+title: ChatGPT · Chat search for HubSpot and custom connectors (MCP) (Pro)
 version: Chat search for HubSpot and custom connectors (MCP) (Pro)
 ---
 
-# ChatGPT Chat search for HubSpot and custom connectors (MCP) (Pro)
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Chat search for HubSpot and custom connectors (MCP) (Pro)
+
+**ChatGPT** · 2025-07-24 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Pro users can now utilize chat search with HubSpot and custom connectors (MCP) in addition to deep research.Note this feature is currently limited to users located outside of the EEA, Switzerland, and the UK.Learn more about connectors, as well as how to create a custom connector using MCP.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- apps-integrations: [[Changes/ChatGPT/2025-07-24-pro-users-can-now-utilize-chat-search-with-hubspot-and-custom-connectors-mcp-in-b9b682|Pro users can now utilize chat search with HubSpot and custom connectors (MCP)…]]
+- [[Changes/ChatGPT/2025-07-24-pro-users-can-now-utilize-chat-search-with-hubspot-and-custom-connectors-mcp-in-b9b682|Pro users can now utilize chat search with HubSpot and custom connectors (MCP)…]] · Apps and Integrations
 <!-- chronolog:end -->

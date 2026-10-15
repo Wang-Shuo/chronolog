@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2026-06-17-8bf603
 date: '2026-06-17'
+description: 'ChatGPT · 2026-06-17 · Apps and Integrations: Monitoring tasks can search
+  the web and check connected apps for changes and notify users only when there is…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
+    can join the waitlist to try plugins here]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1182
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: fa6d43733effb4575efa44f93da0bb4f309ad8784d4edd93c0b8da7a24bcd397
+machine_hash: ea73ee58f984c4a497d7fc3760442d0771b3041f25110d9cfa2e63014c8a41e5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,9 +42,12 @@ record:
     and notify…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-10-amazon-bedrock-now-reads-the-aws-region-from-aws-config-files-when-aws-region-is|claude-code-2026-06-10-3fd1c9]]'
-- '[[Changes/Claude Code/2026-06-15-skills-in-nested-claude-skills-directories-now-load-when-working-on-files-there|claude-code-2026-06-15-05b30a]]'
-- '[[Changes/Claude Code/2026-06-16-improved-plugin-loading-performance-in-remote-sessions|claude-code-2026-06-16-e5e65a]]'
+- '[[Changes/Claude Code/2026-06-10-amazon-bedrock-now-reads-the-aws-region-from-aws-config-files-when-aws-region-is|Amazon
+  Bedrock now reads the AWS region from ~/.aws config files when AWS_REGION…]]'
+- '[[Changes/Claude Code/2026-06-15-skills-in-nested-claude-skills-directories-now-load-when-working-on-files-there|Skills
+  in nested .claude/skills directories now load when working on files there]]'
+- '[[Changes/Claude Code/2026-06-16-improved-plugin-loading-performance-in-remote-sessions|Improved
+  plugin loading performance in remote sessions]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-17-scheduled-tasks-in-chatgpt-b8005b4a|chatgpt-2026-06-17-scheduled-tasks-in-chatgpt-b8005b4a]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -50,10 +56,10 @@ title: Monitoring tasks can search the web and check connected apps for changes 
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Monitoring tasks can search the web and check connected apps for changes and notify…
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Scheduled tasks in ChatGPT: Monitoring tasks can search the web and check connected apps for changes and notify users only when there is something worth reporting.
+**ChatGPT** · 2026-06-17 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-06-17-scheduled-tasks-in-chatgpt-b8005b4a|Scheduled tasks in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -62,19 +68,28 @@ ChatGPT — Scheduled tasks in ChatGPT: Monitoring tasks can search the web and 
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2026-06-17-with-scheduled-tasks-users-can-ask-chatgpt-to-send-reminders-handle-recurring-wo|With scheduled tasks, users can ask ChatGPT to send reminders, handle recurring…]] · Reliability and Performance
+- [[Changes/ChatGPT/2026-06-17-all-tasks-are-faster-and-more-reliable|All tasks are faster and more reliable]] · Reliability and Performance
+- [[Changes/ChatGPT/2026-06-17-a-new-scheduled-page-discoverable-in-the-sidebar-gives-users-one-place-to-view-a|A new Scheduled page, discoverable in the sidebar, gives users one place to view…]] · Interface Experience
+- [[Changes/ChatGPT/2026-06-17-users-can-schedule-work-for-specific-times-or-broader-windows-such-as-morning-af|Users can schedule work for specific times or broader windows, such as morning…]] · Automation and Scheduling
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: apps-integrations
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]
-- Lag Days: 1182
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Apps and Integrations
+
+- Earlier: 2026-06-16 · Claude Code · [[Changes/Claude Code/2026-06-16-improved-plugin-loading-performance-in-remote-sessions|Improved plugin loading performance in remote sessions]]
+- Later: 2026-06-17 · Claude Code · [[Changes/Claude Code/2026-06-17-added-config-key-value-syntax-to-set-any-setting-from-the-prompt-e-g-config-thin|Added /config key=value syntax to set any setting from the prompt…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-17-8bf603&body=Card%3A%20Changes%2FChatGPT%2F2026-06-17-monitoring-tasks-can-search-the-web-and-check-connected-apps-for-changes-and-not.md%0ACard%20ID%3A%20chatgpt-2026-06-17-8bf603%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2026-10-01'
-machine_hash: 109d35ad6b9d589c400563f29f17499795c35bf5d95ca15425e958009f44603b
+description: 'ChatGPT release Scan notes and documents more easily with ChatGPT camera
+  on 2026-10-01: 1 tracked change across Files and Data'
+machine_hash: 95978e6a8667a3b1a5809ec3e8906b0e0d9dedcb141894ee7683e96eab29116f
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 2
   date: '2026-10-01'
   product: chatgpt
   product_name: ChatGPT
@@ -23,22 +26,24 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Scan notes and documents more easily with ChatGPT camera
+title: ChatGPT · Scan notes and documents more easily with ChatGPT camera
 version: Scan notes and documents more easily with ChatGPT camera
 ---
 
-# ChatGPT Scan notes and documents more easily with ChatGPT camera
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Scan notes and documents more easily with ChatGPT camera
+
+**ChatGPT** · 2026-10-01 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 It’s now easier to bring your notes and documents into ChatGPT on your phone. Capture multiple pages in a row, and ChatGPT automatically combines them into a single PDF, ready to upload to your chat.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 1
+Tracked 1 of 2 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- file-data: [[Changes/ChatGPT/2026-10-01-it-s-now-easier-to-bring-your-notes-and-documents-into-chatgpt-on-your-phone-cap|It’s now easier to bring your notes and documents into ChatGPT on your phone]]
+- [[Changes/ChatGPT/2026-10-01-it-s-now-easier-to-bring-your-notes-and-documents-into-chatgpt-on-your-phone-cap|It’s now easier to bring your notes and documents into ChatGPT on your phone]] · Files and Data
 <!-- chronolog:end -->

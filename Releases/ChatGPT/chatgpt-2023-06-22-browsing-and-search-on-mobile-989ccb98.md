@@ -1,10 +1,13 @@
 ---
 changes_count: 3
 date: '2023-06-22'
-machine_hash: cda6812c87cc01c2356ac79cbc6a1d74843bab9fb7750063da171dcc8f864b73
+description: 'ChatGPT release Browsing and search on mobile on 2023-06-22: 3 tracked
+  changes across Mobile and Desktop, Model Support, Search and Browsing'
+machine_hash: 1048de6e8c65647cd0a692df9279d3994d0869943719e23869a5516e2009c5cd
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 3
   date: '2023-06-22'
   product: chatgpt
   product_name: ChatGPT
@@ -21,24 +24,26 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Browsing and search on mobile
+title: ChatGPT · Browsing and search on mobile
 version: Browsing and search on mobile
 ---
 
-# ChatGPT Browsing and search on mobile
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Browsing and search on mobile
+
+**ChatGPT** · 2023-06-22 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 We’ve made two updates to the mobile ChatGPT app:
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 3
+Tracked 3 of 3 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2023-06-22-browsing-plus-users-can-now-use-browsing-to-get-comprehensive-answers-and-curren|Browsing: Plus users can now use Browsing to get comprehensive answers and current…]]
-- search-browsing: [[Changes/ChatGPT/2023-06-22-search-history-improvements-tapping-on-a-search-result-takes-you-directly-to-the|Search History Improvements]]
-- mobile-desktop: [[Changes/ChatGPT/2023-06-22-we-ve-made-two-updates-to-the-mobile-chatgpt-app|ChatGPT makes two updates to the mobile ChatGPT app]]
+- [[Changes/ChatGPT/2023-06-22-browsing-plus-users-can-now-use-browsing-to-get-comprehensive-answers-and-curren|Browsing: Plus users can now use Browsing to get comprehensive answers and current…]] · Model Support
+- [[Changes/ChatGPT/2023-06-22-search-history-improvements-tapping-on-a-search-result-takes-you-directly-to-the|Search History Improvements]] · Search and Browsing
+- [[Changes/ChatGPT/2023-06-22-we-ve-made-two-updates-to-the-mobile-chatgpt-app|ChatGPT makes two updates to the mobile ChatGPT app]] · Mobile and Desktop
 <!-- chronolog:end -->

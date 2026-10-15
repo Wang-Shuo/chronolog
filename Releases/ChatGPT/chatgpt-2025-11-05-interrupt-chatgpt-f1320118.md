@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2025-11-05'
-machine_hash: a4af906f8f9004a4932a5a222c80ace526a4d2e929458b0381d1500c020ce16c
+description: 'ChatGPT release Interrupt ChatGPT on 2025-11-05: 1 tracked change across
+  Model Support'
+machine_hash: 62cb1c3140a4db1af13dee436e9da7d948ca31ca4e374856e48225b5b65ecb71
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 1
   date: '2025-11-05'
   product: chatgpt
   product_name: ChatGPT
@@ -25,22 +28,24 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Interrupt ChatGPT
+title: ChatGPT · Interrupt ChatGPT
 version: Interrupt ChatGPT
 ---
 
-# ChatGPT Interrupt ChatGPT
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Interrupt ChatGPT
+
+**ChatGPT** · 2025-11-05 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 You can now interrupt long-running queries (such as deep research or GPT-5 Pro) to refine what you’re asking—no restart required or progress lost. For example, if you're researching the perfect bookshelf and suddenly remember that your wall is 72" wide and you can't drill into it, you can simply add that information…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2025-11-05-you-can-now-interrupt-long-running-queries-such-as-deep-research-or-gpt-5-pro-to|Interrupt long-running queries (such as deep research or GPT-5 Pro) to refine what…]]
+- [[Changes/ChatGPT/2025-11-05-you-can-now-interrupt-long-running-queries-such-as-deep-research-or-gpt-5-pro-to|Interrupt long-running queries (such as deep research or GPT-5 Pro) to refine what…]] · Model Support
 <!-- chronolog:end -->

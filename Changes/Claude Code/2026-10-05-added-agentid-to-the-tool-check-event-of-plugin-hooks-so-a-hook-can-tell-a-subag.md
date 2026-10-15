@@ -1,8 +1,12 @@
 ---
 card_id: claude-code-2026-10-05-fd658b
 date: '2026-10-05'
+description: 'Claude Code · 2026-10-05 · Safety and Privacy: Added `agentId` to the
+  `tool.check` event of plugin hooks, so a hook can tell a subagent''s permission
+  check from…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|cursor-2023-04-16-f0e22a]]'
+  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
+    mode for opting out of storing any kind of data on our servers]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1268
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: d915f62072549c62e7830b2fa38bcaebcd58b854229c2ab3ec7874d95724761e
+machine_hash: 76f3d6aeace5ebc56dde803630c870246a3a2d1d590092f53a0eabda57278986
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,9 +53,12 @@ record:
     tell…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-25-we-re-introducing-security-history-a-new-way-to-review-recent-security-activity|chatgpt-2026-09-25-48984c]]'
-- '[[Changes/ChatGPT/2026-09-25-to-view-your-history-in-chatgpt-on-the-web-go-to-settings-security-and-login-the|chatgpt-2026-09-25-5908d0]]'
-- '[[Changes/Claude Code/2026-09-30-added-a-count-such-as-2-of-5-to-the-permission-prompt-when-several-permission-re|claude-code-2026-09-30-453980]]'
+- '[[Changes/ChatGPT/2026-09-25-we-re-introducing-security-history-a-new-way-to-review-recent-security-activity|ChatGPT
+  introduces security history, a new way to review recent security activity…]]'
+- '[[Changes/ChatGPT/2026-09-25-to-view-your-history-in-chatgpt-on-the-web-go-to-settings-security-and-login-the|To
+  view your history in ChatGPT on the web, go to Settings  Security and login…]]'
+- '[[Changes/Claude Code/2026-09-30-added-a-count-such-as-2-of-5-to-the-permission-prompt-when-several-permission-re|Added
+  a count such as "2 of 5" to the permission prompt when several permission…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-05-v2-1-290-github-403993621-ae06f2b6|claude-code-2026-10-05-v2-1-290-github-403993621-ae06f2b6]]'
 source_type: github_releases
 theme: safety-privacy
@@ -59,10 +66,10 @@ title: Added agentId to the tool.check event of plugin hooks, so a hook can tell
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Added `agentId` to the `tool.check` event of plugin hooks, so a hook can tell…
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.290: Added `agentId` to the `tool.check` event of plugin hooks, so a hook can tell a subagent's permission check from the main session's
+**Claude Code** · 2026-10-05 · [[Themes/safety-privacy|Safety and Privacy]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.290) · from [[Releases/Claude Code/claude-code-2026-10-05-v2-1-290-github-403993621-ae06f2b6|v2.1.290]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -71,19 +78,26 @@ Claude Code — v2.1.290: Added `agentId` to the `tool.check` event of plugin ho
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.290
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-10-05-added-themekey-and-color-types-to-the-plugin-hooks-typings-so-an-editor-lists-th|Added ThemeKey and Color types to the plugin hooks typings, so an editor lists…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-10-05-added-to-claude-plugin-validate-each-hook-a-mod-registers-at-a-gating-site-is-li|Added to claude plugin validate]] · Apps and Integrations
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: safety-privacy
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|cursor-2023-04-16-f0e22a]]
-- Lag Days: 1268
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Safety and Privacy
+
+- Earlier: 2026-09-30 · Claude Code · [[Changes/Claude Code/2026-09-30-added-a-count-such-as-2-of-5-to-the-permission-prompt-when-several-permission-re|Added a count such as "2 of 5" to the permission prompt when several permission…]]
+- Later: 2026-10-06 · Claude Code · [[Changes/Claude Code/2026-10-06-fixed-a-regression-in-2-1-290-where-cloud-sessions-could-drop-answers-to-permiss|Fixed a regression in 2.1.290 where cloud sessions could drop answers to permission…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-10-05-fd658b&body=Card%3A%20Changes%2FClaude%20Code%2F2026-10-05-added-agentid-to-the-tool-check-event-of-plugin-hooks-so-a-hook-can-tell-a-subag.md%0ACard%20ID%3A%20claude-code-2026-10-05-fd658b%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.290%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

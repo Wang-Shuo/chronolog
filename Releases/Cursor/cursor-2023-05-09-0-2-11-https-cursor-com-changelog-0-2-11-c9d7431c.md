@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2023-05-09'
-machine_hash: 605c12010421cb2b4a0b5739c047845a4e6635f508d419061f17229db4981792
+description: 'Cursor release Enhanced Chat Experience (2023-05-09) on 2023-05-09:
+  1 tracked change across Interface Experience'
+machine_hash: 0dd788d83ee27244accb9df32da3ec33b61d5813754a5ef135df1eb503759c0d
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 2
   date: '2023-05-09'
   product: cursor
   product_name: Cursor
@@ -21,22 +24,24 @@ source_url: https://cursor.com/changelog/0-2-11
 tags:
 - release
 - cursor
-title: Cursor — Enhanced Chat Experience (2023-05-09)
+title: Cursor · Enhanced Chat Experience (2023-05-09)
 version: 0.2.11
 ---
 
-# Cursor Enhanced Chat Experience (2023-05-09)
+<!-- chronolog:begin region="header" -->
+# Cursor · Enhanced Chat Experience (2023-05-09)
+
+**Cursor** · 2023-05-09 · [Official release notes](https://cursor.com/changelog/0-2-11)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
-#Bug Fixes
+1 tracked change across 1 theme: Interface Experience.
 
-[Official release notes](https://cursor.com/changelog/0-2-11)
-
-Tracked cards: 1
+Tracked 1 of 2 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- interface-experience: [[Changes/Cursor/2023-05-09-includes-some-updates-to-option-enter-in-the-chat|Includes some updates to "Option+Enter" in the chat]]
+- [[Changes/Cursor/2023-05-09-includes-some-updates-to-option-enter-in-the-chat|Includes some updates to "Option+Enter" in the chat]] · Interface Experience
 <!-- chronolog:end -->

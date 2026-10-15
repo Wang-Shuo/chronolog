@@ -1,10 +1,13 @@
 ---
 changes_count: 2
 date: '2025-01-15'
-machine_hash: 8c3b8b2cb855fc8699b7286120822012770433d996bb1352a1136bddcb9c1118
+description: 'ChatGPT release Import from Chat into Canvas on 2025-01-15: 2 tracked
+  changes across Files and Data'
+machine_hash: 30bc3347bd21f9348e202a83de9804cb68b24b7c627223a89fa3b628a6c4fd3d
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 3
   date: '2025-01-15'
   product: chatgpt
   product_name: ChatGPT
@@ -21,23 +24,25 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Import from Chat into Canvas
+title: ChatGPT · Import from Chat into Canvas
 version: Import from Chat into Canvas
 ---
 
-# ChatGPT Import from Chat into Canvas
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Import from Chat into Canvas
+
+**ChatGPT** · 2025-01-15 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Edit a full model response in Canvas
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 2
+Tracked 2 of 3 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- file-data: [[Changes/ChatGPT/2025-01-15-edit-a-full-model-response-in-canvas|Edit a full model response in Canvas]]
-- file-data: [[Changes/ChatGPT/2025-01-15-edit-a-code-block-in-canvas|Edit a code block in Canvas]]
+- [[Changes/ChatGPT/2025-01-15-edit-a-full-model-response-in-canvas|Edit a full model response in Canvas]] · Files and Data
+- [[Changes/ChatGPT/2025-01-15-edit-a-code-block-in-canvas|Edit a code block in Canvas]] · Files and Data
 <!-- chronolog:end -->

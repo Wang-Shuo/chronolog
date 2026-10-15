@@ -1,8 +1,12 @@
 ---
 card_id: claude-code-2026-08-20-b9a366
 date: '2026-08-20'
+description: 'Claude Code · 2026-08-20 · Apps and Integrations: Plugin marketplaces:
+  `headersHelper` on a url marketplace or a catalog entry runs a command that mints
+  HTTP…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
+    can join the waitlist to try plugins here]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1246
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7eeea7298410088e8c4bb41f15bfb64c5eed69ab262c1827a6fcf1e758429a0d
+machine_hash: b1c89687cdf35bb960c14249944b5ebfde7ff9e98ff1e2976687d782653a09d4
 product: claude-code
 product_name: Claude Code
 record:
@@ -40,9 +44,12 @@ record:
     runs…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-08-19-cloud-agents-automatically-subscribe-to-prs-they-create-and-drive-them-to-comple|cursor-2026-08-19-7c58cc]]'
-- '[[Changes/ChatGPT/2026-08-20-use-apple-messages-from-codex-and-chatgpt-work-on-apple-silicon-macs-the-apple-m|chatgpt-2026-08-20-96b57b]]'
-- '[[Changes/Claude Code/2026-08-20-a-catalog-entry-s-headershelper-runs-only-when-you-install-or-update-that-plugin|claude-code-2026-08-20-748bac]]'
+- '[[Changes/Cursor/2026-08-19-cloud-agents-automatically-subscribe-to-prs-they-create-and-drive-them-to-comple|Cloud
+  agents automatically subscribe to PRs they create and drive them…]]'
+- '[[Changes/ChatGPT/2026-08-20-use-apple-messages-from-codex-and-chatgpt-work-on-apple-silicon-macs-the-apple-m|Use
+  Apple Messages from Codex and ChatGPT Work]]'
+- '[[Changes/Claude Code/2026-08-20-a-catalog-entry-s-headershelper-runs-only-when-you-install-or-update-that-plugin|A
+  catalog entry''s headersHelper runs only when you install or update that plugin…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-20-v2-1-238-github-373927029-c96744e2|claude-code-2026-08-20-v2-1-238-github-373927029-c96744e2]]'
 source_type: github_releases
 theme: apps-integrations
@@ -51,10 +58,10 @@ title: 'Plugin marketplaces: headersHelper on a url marketplace or a catalog ent
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Plugin marketplaces: `headersHelper` on a url marketplace or a catalog entry runs…
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.238: Plugin marketplaces: `headersHelper` on a url marketplace or a catalog entry runs a command that mints HTTP headers (e.g. a short-lived token) for catalog and same-origin archive fetches
+**Claude Code** · 2026-08-20 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.238) · from [[Releases/Claude Code/claude-code-2026-08-20-v2-1-238-github-373927029-c96744e2|v2.1.238]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -63,19 +70,27 @@ Claude Code — v2.1.238: Plugin marketplaces: `headersHelper` on a url marketpl
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.238
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-08-20-added-claude-self-hosted-runner-proxy-authorization-command-proxy-authorization|Added claude self-hosted-runner --proxy-authorization-command…]] · Developer Workflow
+- [[Changes/Claude Code/2026-08-20-a-catalog-entry-s-headershelper-runs-only-when-you-install-or-update-that-plugin|A catalog entry's headersHelper runs only when you install or update that plugin…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-08-20-added-a-keybindingflavor-setting-set-it-to-readline-to-make-ctrl-w-in-the-prompt|Added a keybindingFlavor setting]] · Developer Workflow
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: apps-integrations
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]
-- Lag Days: 1246
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Apps and Integrations
+
+- Earlier: 2026-08-20 · ChatGPT · [[Changes/ChatGPT/2026-08-20-use-apple-messages-from-codex-and-chatgpt-work-on-apple-silicon-macs-the-apple-m|Use Apple Messages from Codex and ChatGPT Work]]
+- Later: 2026-08-21 · ChatGPT · [[Changes/ChatGPT/2026-08-21-updated-plugin-recommendations-make-it-easier-to-find-tools-people-continue-to-u|Updated plugin recommendations make it easier to find tools people continue to use]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-08-20-b9a366&body=Card%3A%20Changes%2FClaude%20Code%2F2026-08-20-plugin-marketplaces-headershelper-on-a-url-marketplace-or-a-catalog-entry-runs-a.md%0ACard%20ID%3A%20claude-code-2026-08-20-b9a366%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.238%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

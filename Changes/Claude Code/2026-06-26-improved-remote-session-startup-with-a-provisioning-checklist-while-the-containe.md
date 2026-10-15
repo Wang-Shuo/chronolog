@@ -1,8 +1,11 @@
 ---
 card_id: claude-code-2026-06-26-223a05
 date: '2026-06-26'
+description: 'Claude Code · 2026-06-26 · Projects and Workspaces: Improved Remote
+  session startup with a provisioning checklist while the container starts'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-conversation-history-you-ll-soon-be-able-to-view-past-conversations-with-chatgpt|chatgpt-2022-12-15-23a232]]'
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-conversation-history-you-ll-soon-be-able-to-view-past-conversations-with-chatgpt|Conversation
+    history: You’ll soon be able to view past conversations with ChatGPT…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1289
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 037389814e6f24d378bfc899e03d656f921d82b8533b0cd1e1cc42f77622af3c
+machine_hash: 0a116a96bf143e99fc69eb8975cd7e17e612d2d4eca98f85287337443a8b6dfb
 product: claude-code
 product_name: Claude Code
 record:
@@ -40,9 +43,12 @@ record:
     starts
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-01-added-claude-project-purge-path-to-delete-all-claude-code-state-for-a-project-tr|claude-code-2026-05-01-6897b7]]'
-- '[[Changes/Claude Code/2026-05-13-feedback-can-now-include-recent-sessions-last-24-hours-or-7-days-for-issues-span|claude-code-2026-05-13-a1d58a]]'
-- '[[Changes/Claude Code/2026-06-24-added-rewind-support-for-resuming-a-conversation-from-before-clear-was-run|claude-code-2026-06-24-659e5b]]'
+- '[[Changes/Claude Code/2026-05-01-added-claude-project-purge-path-to-delete-all-claude-code-state-for-a-project-tr|-
+  Added claude project purge path to delete all Claude Code state for a project…]]'
+- '[[Changes/Claude Code/2026-05-13-feedback-can-now-include-recent-sessions-last-24-hours-or-7-days-for-issues-span|/feedback
+  can now include recent sessions (last 24 hours or 7 days) for issues…]]'
+- '[[Changes/Claude Code/2026-06-24-added-rewind-support-for-resuming-a-conversation-from-before-clear-was-run|Added
+  /rewind support for resuming a conversation from before /clear was run]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-26-v2-1-195-github-345467919-2d39e460|claude-code-2026-06-26-v2-1-195-github-345467919-2d39e460]]'
 source_type: github_releases
 theme: projects-workspaces
@@ -51,10 +57,10 @@ title: Improved Remote session startup with a provisioning checklist while the c
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Improved Remote session startup with a provisioning checklist while the container starts
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.195: Improved Remote session startup with a provisioning checklist while the container starts
+**Claude Code** · 2026-06-26 · [[Themes/projects-workspaces|Projects and Workspaces]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.195) · from [[Releases/Claude Code/claude-code-2026-06-26-v2-1-195-github-345467919-2d39e460|v2.1.195]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -63,19 +69,28 @@ Claude Code — v2.1.195: Improved Remote session startup with a provisioning ch
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.195
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-06-26-fixed-external-plugins-enabled-only-by-project-claude-settings-json-not-requirin|Fixed external plugins enabled only by project .claude/settings.json not requiring…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-06-26-added-claude-code-disable-mouse-clicks-to-disable-mouse-click-drag-hover-in-full|Added CLAUDE_CODE_DISABLE_MOUSE_CLICKS to disable mouse click/drag/hover…]] · Interface Experience
+- [[Changes/Claude Code/2026-06-26-improved-claude-agents-completed-list-to-fill-available-vertical-space-on-short|Improved claude agents completed list to fill available vertical space]] · Agent Mode
+- [[Changes/Claude Code/2026-06-26-improved-voice-mode-on-linux-now-distinguishes-no-microphone-from-sox-not-instal|Improved voice mode on Linux]] · Voice and Audio
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: projects-workspaces
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2022-12-15-conversation-history-you-ll-soon-be-able-to-view-past-conversations-with-chatgpt|chatgpt-2022-12-15-23a232]]
-- Lag Days: 1289
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Projects and Workspaces
+
+- Earlier: 2026-06-24 · Claude Code · [[Changes/Claude Code/2026-06-24-added-rewind-support-for-resuming-a-conversation-from-before-clear-was-run|Added /rewind support for resuming a conversation from before /clear was run]]
+- Later: 2026-06-29 · Claude Code · [[Changes/Claude Code/2026-06-29-added-readable-default-names-for-sessions-at-start-making-them-easier-to-identif|Added readable default names for sessions at start, making them easier to identify…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-conversation-history-you-ll-soon-be-able-to-view-past-conversations-with-chatgpt|Conversation history: You’ll soon be able to view past conversations with ChatGPT…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-06-26-223a05&body=Card%3A%20Changes%2FClaude%20Code%2F2026-06-26-improved-remote-session-startup-with-a-provisioning-checklist-while-the-containe.md%0ACard%20ID%3A%20claude-code-2026-06-26-223a05%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.195%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

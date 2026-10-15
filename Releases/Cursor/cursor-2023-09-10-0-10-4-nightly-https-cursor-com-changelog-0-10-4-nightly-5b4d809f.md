@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2023-09-10'
-machine_hash: 408ca1322913dd7ca41f03ba6664f3613a2c58e125fdc55ac3deddcf51aee6eb
+description: 'Cursor release Quick question and @chat in cmd+k on 2023-09-10: 1 tracked
+  change across Context Window'
+machine_hash: f16ab478cb31da754f092aff448a51e0d919d0e09a7bb30618ba67ff1aae3d4b
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2023-09-10'
   product: cursor
   product_name: Cursor
@@ -23,22 +26,24 @@ source_url: https://cursor.com/changelog/0-10-4-nightly
 tags:
 - release
 - cursor
-title: Cursor — Quick question and @chat in cmd+k
+title: Cursor · Quick question and @chat in cmd+k
 version: 0.10.4-nightly
 ---
 
-# Cursor Quick question and @chat in cmd+k
+<!-- chronolog:begin region="header" -->
+# Cursor · Quick question and @chat in cmd+k
+
+**Cursor** · 2023-09-10 · [Official release notes](https://cursor.com/changelog/0-10-4-nightly)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Ask a question about an edit that the model with option+enter, or bring in context from the chat with @chat! An early preview, so please let us know what you think.
 
-[Official release notes](https://cursor.com/changelog/0-10-4-nightly)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- context-window: [[Changes/Cursor/2023-09-10-ask-a-question-about-an-edit-that-the-model-with-option-enter-or-bring-in-contex|Ask a question about an edit that the model with option+enter, or bring in context…]]
+- [[Changes/Cursor/2023-09-10-ask-a-question-about-an-edit-that-the-model-with-option-enter-or-bring-in-contex|Ask a question about an edit that the model with option+enter, or bring in context…]] · Context Window
 <!-- chronolog:end -->

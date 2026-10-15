@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2026-05-20-d26b7e
 date: '2026-05-20'
+description: 'Cursor · 2026-05-20 · Files and Data: Canvases are interactive artifacts
+  created by agents, like reports, dashboards, and custom interfaces. Instead of sharing…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|chatgpt-2023-07-06-66255e]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|ChatGPT
+    rolls out code interpreter to all ChatGPT Plus users over the next week]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1049
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: cf0e9cdca5f47f39aac7d132b6648bb440e7cdfe25a691740ed1ebb2851d18e9
+machine_hash: aaf25dc19edd718d7025b2e30f81aba4767ef0602c125eecd1eb2cd580d12e39
 product: cursor
 product_name: Cursor
 record:
@@ -54,9 +57,11 @@ record:
   title: Canvases are interactive artifacts created by agents, like reports, dashboards…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-05-14-plus-and-business-20-gb|chatgpt-2026-05-14-b947e4]]'
-- '[[Changes/ChatGPT/2026-05-14-file-library-is-expanding-to-free-and-go-users-including-to-users-in-the-europea|chatgpt-2026-05-14-d55c3d]]'
-- '[[Changes/ChatGPT/2026-05-15-we-re-starting-to-roll-out-a-new-personal-finance-experience-in-chatgpt-pro-user|chatgpt-2026-05-15-337daf]]'
+- '[[Changes/ChatGPT/2026-05-14-plus-and-business-20-gb|Plus and Business: 20 GB]]'
+- '[[Changes/ChatGPT/2026-05-14-file-library-is-expanding-to-free-and-go-users-including-to-users-in-the-europea|File
+  library is expanding to Free and Go users, including to users in the European…]]'
+- '[[Changes/ChatGPT/2026-05-15-we-re-starting-to-roll-out-a-new-personal-finance-experience-in-chatgpt-pro-user|We’re
+  starting to roll out a new personal finance experience in ChatGPT]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-20-3-5-https-cursor-com-changelog-shared-canvases-68b3b2da|cursor-2026-05-20-3-5-https-cursor-com-changelog-shared-canvases-68b3b2da]]'
 source_type: cursor_changelog
 theme: file-data
@@ -64,10 +69,10 @@ title: Canvases are interactive artifacts created by agents, like reports, dashb
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Canvases are interactive artifacts created by agents, like reports, dashboards…
 
-<!-- chronolog:begin region="description" -->
-Cursor — Shared Canvases and /loop Skill: Canvases are interactive artifacts created by agents, like reports, dashboards, and custom interfaces. Instead of sharing a full chat thread, you can share a link to a live snapshot of a canvas for teammates to open in the browser.
+**Cursor** · 2026-05-20 · [[Themes/file-data|Files and Data]] · [Official source](https://cursor.com/changelog/shared-canvases) · from [[Releases/Cursor/cursor-2026-05-20-3-5-https-cursor-com-changelog-shared-canvases-68b3b2da|Shared Canvases and /loop Skill]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -76,19 +81,28 @@ Cursor — Shared Canvases and /loop Skill: Canvases are interactive artifacts c
 > Source: https://cursor.com/changelog/shared-canvases
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2026-05-20-teammates-open-a-shared-canvas-from-its-link-with-read-only-access-the-shared-ca|Teammates open a shared canvas from its link with read-only access]] · Enterprise and Administration
+- [[Changes/Cursor/2026-05-20-you-can-now-share-canvases-from-cursor-with-your-teammates|Share canvases from Cursor with your teammates]] · Collaboration
+- [[Changes/Cursor/2026-05-20-use-the-loop-skill-for-local-long-running-agents-for-example-you-can-ask-it-to-c|Use the /loop skill for local long-running agents]] · Agent Mode
+- [[Changes/Cursor/2026-05-20-with-loop-cursor-can-run-a-prompt-repeatedly-on-a-local-schedule-until-a-certain|With /loop, Cursor can run a prompt repeatedly on a local schedule, until a certain…]] · Agent Mode
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: file-data
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|chatgpt-2023-07-06-66255e]]
-- Lag Days: 1049
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Files and Data
+
+- Earlier: 2026-05-15 · ChatGPT · [[Changes/ChatGPT/2026-05-15-we-re-starting-to-roll-out-a-new-personal-finance-experience-in-chatgpt-pro-user|We’re starting to roll out a new personal finance experience in ChatGPT]]
+- Later: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-design-mode-is-now-available-in-canvases|Design Mode is now available in canvases]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|ChatGPT rolls out code interpreter to all ChatGPT Plus users over the next week]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2026-05-20-d26b7e&body=Card%3A%20Changes%2FCursor%2F2026-05-20-canvases-are-interactive-artifacts-created-by-agents-like-reports-dashboards-and.md%0ACard%20ID%3A%20cursor-2026-05-20-d26b7e%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2Fshared-canvases%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

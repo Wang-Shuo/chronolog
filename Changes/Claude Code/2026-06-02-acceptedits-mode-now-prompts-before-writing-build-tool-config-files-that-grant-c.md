@@ -1,8 +1,10 @@
 ---
 card_id: claude-code-2026-06-02-58d83f
 date: '2026-06-02'
+description: 'Claude Code · 2026-06-02 · Developer Workflow: `acceptEdits` mode now
+  prompts before writing build-tool config files that grant code execution (`.npmrc`…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|cursor-2023-03-18-76a713]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1172
   relation: same-theme-chronology
@@ -13,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 854acd9fae7866d15bbaf34274b381c4a84d1127644501323f0ed1b452671d8e
+machine_hash: e2d3734c36af82c476ac6c83009b03eac7ab4864f16ce1ce0d4c1140d4767852
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,9 +44,12 @@ record:
     grant…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-27-added-reload-skills-command-to-re-scan-skill-directories-without-restarting-the|claude-code-2026-05-27-8c63c5]]'
-- '[[Changes/Claude Code/2026-05-28-status-line-commands-now-receive-columns-and-lines-environment-variables-so-scri|claude-code-2026-05-28-fe5ca3]]'
-- '[[Changes/Claude Code/2026-05-29-enterworktree-can-now-switch-between-claude-managed-worktrees-mid-session|claude-code-2026-05-29-8c413b]]'
+- '[[Changes/Claude Code/2026-05-27-added-reload-skills-command-to-re-scan-skill-directories-without-restarting-the|Added
+  /reload-skills command to re-scan skill directories without restarting the session]]'
+- '[[Changes/Claude Code/2026-05-28-status-line-commands-now-receive-columns-and-lines-environment-variables-so-scri|Status
+  line commands now receive COLUMNS and LINES environment variables…]]'
+- '[[Changes/Claude Code/2026-05-29-enterworktree-can-now-switch-between-claude-managed-worktrees-mid-session|EnterWorktree
+  can now switch between Claude-managed worktrees mid-session]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-02-v2-1-160-github-332740156-03dd8b5a|claude-code-2026-06-02-v2-1-160-github-332740156-03dd8b5a]]'
 source_type: github_releases
 theme: developer-workflow
@@ -52,10 +57,10 @@ title: acceptEdits mode now prompts before writing build-tool config files that 
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # `acceptEdits` mode now prompts before writing build-tool config files that grant…
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.160: `acceptEdits` mode now prompts before writing build-tool config files that grant code execution (`.npmrc`, `.yarnrc*`, `bunfig.toml`, `.bazelrc`, `.pre-commit-config.yaml`, `.devcontainer/`, etc.)
+**Claude Code** · 2026-06-02 · [[Themes/developer-workflow|Developer Workflow]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.160) · from [[Releases/Claude Code/claude-code-2026-06-02-v2-1-160-github-332740156-03dd8b5a|v2.1.160]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -64,19 +69,28 @@ Claude Code — v2.1.160: `acceptEdits` mode now prompts before writing build-to
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.160
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-06-02-improved-auto-mode-classifier-latency-by-reducing-reasoning-on-routine-actions-l|Improved auto mode classifier latency by reducing reasoning on routine actions…]] · Reliability and Performance
+- [[Changes/Claude Code/2026-06-02-added-a-prompt-before-writing-to-shell-startup-files-zshenv-zlogin-bash-login-an|Added a prompt before writing to shell startup files…]] · Account and Access
+- [[Changes/Claude Code/2026-06-02-edit-no-longer-requires-a-separate-read-after-viewing-a-file-with-grep-single-fi|Edit no longer requires a separate Read after viewing a file with grep]] · Editor Experience
+- [[Changes/Claude Code/2026-06-02-improved-performance-of-opening-recently-inactive-background-agent-sessions-in-c|Improved performance of opening recently-inactive background agent sessions…]] · Agent Mode
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: developer-workflow
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-18-built-in-terminal|cursor-2023-03-18-76a713]]
-- Lag Days: 1172
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Developer Workflow
+
+- Earlier: 2026-05-29 · Claude Code · [[Changes/Claude Code/2026-05-29-enterworktree-can-now-switch-between-claude-managed-worktrees-mid-session|EnterWorktree can now switch between Claude-managed worktrees mid-session]]
+- Later: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-parallel-tool-calls-a-failed-bash-command-no-longer-cancels-other-calls-in-the-s|Parallel tool calls]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-06-02-58d83f&body=Card%3A%20Changes%2FClaude%20Code%2F2026-06-02-acceptedits-mode-now-prompts-before-writing-build-tool-config-files-that-grant-c.md%0ACard%20ID%3A%20claude-code-2026-06-02-58d83f%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.160%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

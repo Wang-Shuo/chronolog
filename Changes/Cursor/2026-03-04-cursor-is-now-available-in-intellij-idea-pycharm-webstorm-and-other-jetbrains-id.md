@@ -1,8 +1,12 @@
 ---
 card_id: cursor-2026-03-04-f4e0fc
 date: '2026-03-04'
+description: 'Cursor · 2026-03-04 · Agent Mode: Cursor is now available in IntelliJ
+  IDEA, PyCharm, WebStorm, and other JetBrains IDEs through the Agent Client Protocol
+  (ACP).'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
+    to the first nightly release!]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 972
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: e1bb4823d8df5d2b2f79d7482683c562b41a0a2446f7b72fafd064aaf1f00e3e
+machine_hash: dcedf487deb553cb41e935ff36be0f2276b7997fcd3f39adb4ea1561dd84d198
 product: cursor
 product_name: Cursor
 record:
@@ -40,9 +44,12 @@ record:
   title: Cursor is now available in IntelliJ IDEA, PyCharm, WebStorm, and other JetBrains…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-26-autofix-runs-cloud-agents-on-their-own-machines-to-test-changes-and-propose-fixe|cursor-2026-02-26-ef0b88]]'
-- '[[Changes/Claude Code/2026-02-28-added-http-hooks-which-can-post-json-to-a-url-and-receive-json-instead-of-runnin|claude-code-2026-02-28-b47b10]]'
-- '[[Changes/Cursor/2026-03-04-with-cursor-acp-developers-who-rely-on-jetbrains-for-java-and-multilanguage-supp|cursor-2026-03-04-8743fd]]'
+- '[[Changes/Cursor/2026-02-26-autofix-runs-cloud-agents-on-their-own-machines-to-test-changes-and-propose-fixe|Autofix
+  runs cloud agents on their own machines to test changes and propose fixes…]]'
+- '[[Changes/Claude Code/2026-02-28-added-http-hooks-which-can-post-json-to-a-url-and-receive-json-instead-of-runnin|Added
+  HTTP hooks, which can POST JSON to a URL and receive JSON instead of running…]]'
+- '[[Changes/Cursor/2026-03-04-with-cursor-acp-developers-who-rely-on-jetbrains-for-java-and-multilanguage-supp|With
+  Cursor ACP, developers who rely on JetBrains for Java and multilanguage support…]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-04-cursor-in-jetbrains-ides-https-cursor-com-changelog-03-04-26-59bae4c8|cursor-2026-03-04-cursor-in-jetbrains-ides-https-cursor-com-changelog-03-04-26-59bae4c8]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -50,10 +57,10 @@ title: Cursor is now available in IntelliJ IDEA, PyCharm, WebStorm, and other Je
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Cursor is now available in IntelliJ IDEA, PyCharm, WebStorm, and other JetBrains…
 
-<!-- chronolog:begin region="description" -->
-Cursor — Cursor in JetBrains IDEs: Cursor is now available in IntelliJ IDEA, PyCharm, WebStorm, and other JetBrains IDEs through the Agent Client Protocol (ACP).
+**Cursor** · 2026-03-04 · [[Themes/agent-mode|Agent Mode]] · [Official source](https://cursor.com/changelog/03-04-26) · from [[Releases/Cursor/cursor-2026-03-04-cursor-in-jetbrains-ides-https-cursor-com-changelog-03-04-26-59bae4c8|Cursor in JetBrains IDEs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -62,19 +69,26 @@ Cursor — Cursor in JetBrains IDEs: Cursor is now available in IntelliJ IDEA, P
 > Source: https://cursor.com/changelog/03-04-26
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2026-03-04-with-cursor-acp-developers-who-rely-on-jetbrains-for-java-and-multilanguage-supp|With Cursor ACP, developers who rely on JetBrains for Java and multilanguage support…]] · Agent Mode
+- [[Changes/Cursor/2026-03-04-install-the-cursor-acp-directly-in-your-jetbrains-ide-from-the-acp-registry-and|Install the Cursor ACP directly in your JetBrains IDE from the ACP Registry…]] · Editor Experience
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: agent-mode
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]
-- Lag Days: 972
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Agent Mode
+
+- Earlier: 2026-02-28 · Claude Code · [[Changes/Claude Code/2026-02-28-added-http-hooks-which-can-post-json-to-a-url-and-receive-json-instead-of-runnin|Added HTTP hooks, which can POST JSON to a URL and receive JSON instead of running…]]
+- Later: 2026-03-10 · Claude Code · [[Changes/Claude Code/2026-03-10-added-optional-description-argument-to-plan-e-g-plan-fix-the-auth-bug-that-enter|Added optional description argument to /plan (e.g., /plan fix the auth bug)…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2026-03-04-f4e0fc&body=Card%3A%20Changes%2FCursor%2F2026-03-04-cursor-is-now-available-in-intellij-idea-pycharm-webstorm-and-other-jetbrains-id.md%0ACard%20ID%3A%20cursor-2026-03-04-f4e0fc%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F03-04-26%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

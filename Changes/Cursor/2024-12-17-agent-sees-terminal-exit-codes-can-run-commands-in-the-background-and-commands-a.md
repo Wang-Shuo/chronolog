@@ -1,8 +1,10 @@
 ---
 card_id: cursor-2024-12-17-97cd1c
 date: '2024-12-17'
+description: 'Cursor · 2024-12-17 · Developer Workflow: Agent sees terminal exit codes,
+  can run commands in the background, and commands are now editable'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|cursor-2023-03-18-76a713]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 640
   relation: same-theme-chronology
@@ -13,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: f26227417a860a0586e40ddf25ba38cabf422e8b1f9ede6b84c48c239b225e26
+machine_hash: de9a7bf1192dd61e9518c70e0e5bd6aeaa936360039573c031c8fc2b35380a18
 product: cursor
 product_name: Cursor
 record:
@@ -50,9 +52,12 @@ record:
   title: Agent sees terminal exit codes, can run commands in the background, and commands…
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-11-24-generation-of-git-commit-messages|cursor-2024-11-24-41d03c]]'
-- '[[Changes/Cursor/2024-12-17-agent-reads-linter-errors-to-automatically-fix-issues|cursor-2024-12-17-210a55]]'
-- '[[Changes/Cursor/2024-12-17-with-yolo-mode-the-agent-can-auto-run-terminal-commands|cursor-2024-12-17-4dac73]]'
+- '[[Changes/Cursor/2024-11-24-generation-of-git-commit-messages|Generation of git
+  commit messages]]'
+- '[[Changes/Cursor/2024-12-17-agent-reads-linter-errors-to-automatically-fix-issues|Agent
+  reads linter errors to automatically fix issues]]'
+- '[[Changes/Cursor/2024-12-17-with-yolo-mode-the-agent-can-auto-run-terminal-commands|With
+  Yolo Mode, the agent can auto-run terminal commands]]'
 source_release: '[[Releases/Cursor/cursor-2024-12-17-0-44-x-https-cursor-com-changelog-0-44-x-b137ff8e|cursor-2024-12-17-0-44-x-https-cursor-com-changelog-0-44-x-b137ff8e]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -60,10 +65,10 @@ title: Agent sees terminal exit codes, can run commands in the background, and c
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Agent sees terminal exit codes, can run commands in the background, and commands…
 
-<!-- chronolog:begin region="description" -->
-Cursor — Agent Improvements, Yolo Mode, Cursor Tab Update: Agent sees terminal exit codes, can run commands in the background, and commands are now editable
+**Cursor** · 2024-12-17 · [[Themes/developer-workflow|Developer Workflow]] · [Official source](https://cursor.com/changelog/0-44-x) · from [[Releases/Cursor/cursor-2024-12-17-0-44-x-https-cursor-com-changelog-0-44-x-b137ff8e|Agent Improvements, Yolo Mode, Cursor Tab Update]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -72,19 +77,28 @@ Cursor — Agent Improvements, Yolo Mode, Cursor Tab Update: Agent sees terminal
 > Source: https://cursor.com/changelog/0-44-x
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2024-12-17-agent-reads-linter-errors-to-automatically-fix-issues|Agent reads linter errors to automatically fix issues]] · Developer Workflow
+- [[Changes/Cursor/2024-12-17-with-yolo-mode-the-agent-can-auto-run-terminal-commands|With Yolo Mode, the agent can auto-run terminal commands]] · Developer Workflow
+- [[Changes/Cursor/2024-12-17-agent-auto-saves-changes-to-disk|Agent auto-saves changes to disk]] · Agent Mode
+- [[Changes/Cursor/2024-12-17-docs-git-web-and-folder-are-now-available-in-the-agent|@docs, @git, @web, and @folder are now available in the agent]] · Agent Mode
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: developer-workflow
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-18-built-in-terminal|cursor-2023-03-18-76a713]]
-- Lag Days: 640
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Developer Workflow
+
+- Earlier: 2024-11-24 · Cursor · [[Changes/Cursor/2024-11-24-generation-of-git-commit-messages|Generation of git commit messages]]
+- Later: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-windows-fixed-newline-errors-in-chat-codeblocks-and-resolved-auto-uninstallation|Windows: Fixed newline errors in Chat Codeblocks and resolved auto-uninstallation issues]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2024-12-17-97cd1c&body=Card%3A%20Changes%2FCursor%2F2024-12-17-agent-sees-terminal-exit-codes-can-run-commands-in-the-background-and-commands-a.md%0ACard%20ID%3A%20cursor-2024-12-17-97cd1c%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F0-44-x%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

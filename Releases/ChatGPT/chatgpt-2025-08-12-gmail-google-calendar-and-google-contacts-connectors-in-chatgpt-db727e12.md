@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2025-08-12'
-machine_hash: 6c670a732aa58894446ba1093f44ef9a50cb912559eee19db515286029920e4e
+description: 'ChatGPT release Gmail, Google Calendar, and Google Contacts Connectors
+  in ChatGPT (Pro) on 2025-08-12: 1 tracked change across Model Support'
+machine_hash: 8d3311f122514a4daf1a3b77def49c673f6bb07c3d22a276f2ba146d88358871
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 1
   date: '2025-08-12'
   product: chatgpt
   product_name: ChatGPT
@@ -25,23 +28,25 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Gmail, Google Calendar, and Google Contacts Connectors in ChatGPT
+title: ChatGPT · Gmail, Google Calendar, and Google Contacts Connectors in ChatGPT
   (Pro)
 version: Gmail, Google Calendar, and Google Contacts Connectors in ChatGPT (Pro)
 ---
 
-# ChatGPT Gmail, Google Calendar, and Google Contacts Connectors in ChatGPT (Pro)
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Gmail, Google Calendar, and Google Contacts Connectors in ChatGPT (Pro)
+
+**ChatGPT** · 2025-08-12 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Gmail, Google Calendar, and Google Contacts are now available to connect and use in chat. Once you enable them, ChatGPT will automatically reference them when relevant, making it faster and easier to bring information from these tools into your conversations without having to manually select them each time.This…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2025-08-12-gmail-google-calendar-and-google-contacts-are-now-available-to-connect-and-use-i-9ea6d6|Gmail, Google Calendar, and Google Contacts are now available to connect and use in chat]]
+- [[Changes/ChatGPT/2025-08-12-gmail-google-calendar-and-google-contacts-are-now-available-to-connect-and-use-i-9ea6d6|Gmail, Google Calendar, and Google Contacts are now available to connect and use in chat]] · Model Support
 <!-- chronolog:end -->

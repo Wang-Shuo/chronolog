@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2023-05-24-d0a573
 date: '2023-05-24'
+description: 'ChatGPT · 2023-05-24 · Mobile and Desktop: You can now disable your
+  chat history on iOS. Conversations started on your device when chat history is disabled…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support 🥳]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 71
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: bcbf50a590fcb3df0a0e2299734e610375d8d68ffa8bf51abf4812d3afd4fa8c
+machine_hash: 4ca84a115e078a5d88e90b3510640f3de8d4983d774de22af1720dddbd60ff69
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,8 +57,10 @@ record:
   title: Disable your chat history on iOS
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]'
-- '[[Changes/ChatGPT/2023-05-24-good-news-we-re-expanding-availability-of-the-chatgpt-app-for-ios-to-more-countr-1a3e7f|chatgpt-2023-05-24-1a3e7f]]'
+- '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support
+  🥳]]'
+- '[[Changes/ChatGPT/2023-05-24-good-news-we-re-expanding-availability-of-the-chatgpt-app-for-ios-to-more-countr-1a3e7f|ChatGPT
+  expands availability of the ChatGPT app for iOS to more countries and regions]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-05-24-ios-app-available-in-more-countries-shared-links-in-alpha-bing-p-9800ed96|chatgpt-2023-05-24-ios-app-available-in-more-countries-shared-links-in-alpha-bing-p-9800ed96]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -63,10 +68,10 @@ title: Disable your chat history on iOS
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Disable your chat history on iOS
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — iOS app available in more countries, shared links in alpha, Bing Plugin, disable history on iOS: You can now disable your chat history on iOS. Conversations started on your device when chat history is disabled won’t be used to improve our models, won’t appear in your history on your other devices, and will only be stored for 30 days. Similar to the functionality on the web, this setting does not sync across browsers or devices. Learn more.
+**ChatGPT** · 2023-05-24 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-05-24-ios-app-available-in-more-countries-shared-links-in-alpha-bing-p-9800ed96|iOS app available in more countries, shared links in alpha, Bing Plugin, disable history on iOS]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -75,19 +80,26 @@ ChatGPT — iOS app available in more countries, shared links in alpha, Bing Plu
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2023-05-24-good-news-we-re-expanding-availability-of-the-chatgpt-app-for-ios-to-more-countr-1a3e7f|ChatGPT expands availability of the ChatGPT app for iOS to more countries and regions]] · Mobile and Desktop
+- [[Changes/ChatGPT/2023-05-24-browse-with-bing-we-ve-integrated-the-browsing-feature-currently-in-beta-for-pai|Browse with Bing]] · Search and Browsing
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: mobile-desktop
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]
-- Lag Days: 71
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Mobile and Desktop
+
+- Earlier: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Later: 2023-06-22 · ChatGPT · [[Changes/ChatGPT/2023-06-22-we-ve-made-two-updates-to-the-mobile-chatgpt-app|ChatGPT makes two updates to the mobile ChatGPT app]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-05-24-d0a573&body=Card%3A%20Changes%2FChatGPT%2F2023-05-24-you-can-now-disable-your-chat-history-on-ios-conversations-started-on-your-devic.md%0ACard%20ID%3A%20chatgpt-2023-05-24-d0a573%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

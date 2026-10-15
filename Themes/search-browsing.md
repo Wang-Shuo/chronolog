@@ -1,7 +1,9 @@
 ---
 created: '2023-03-23'
 date: '2026-09-10'
-machine_hash: 842362f8b3cbfab8cbfaddb787a934a192b882f5c54074301edc58a0abe031b0
+description: Cross-product timeline of Search and Browsing changes in ChatGPT, Claude
+  Code and Cursor.
+machine_hash: 9d106286e0b454c0af0fb6a920746f07322c502983d4487705f01eee2380ede0
 modified: '2026-09-10'
 products_involved:
 - ChatGPT
@@ -13,10 +15,12 @@ tags:
 - theme
 - moc
 theme: search-browsing
-title: Search Browsing
+title: Search and Browsing
 ---
 
-# Theme: search-browsing
+<!-- chronolog:begin region="header" -->
+# Search and Browsing
+<!-- chronolog:end -->
 
 ## Research summary
 <!-- chronolog:begin region="narrative" -->

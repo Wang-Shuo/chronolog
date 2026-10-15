@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2025-12-18'
-machine_hash: ac07def07b844864eed43e156afff72bc1ec2bed8f4078dea4e093a26edb0f18
+description: 'ChatGPT release Pinned chats in ChatGPT on 2025-12-18: 1 tracked change
+  across Mobile and Desktop'
+machine_hash: 9a428c65ebfada6a3fa78751918e38d18bc6ce902cbc9e3001e6591608db2a84
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 1
   date: '2025-12-18'
   product: chatgpt
   product_name: ChatGPT
@@ -24,22 +27,24 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Pinned chats in ChatGPT
+title: ChatGPT · Pinned chats in ChatGPT
 version: Pinned chats in ChatGPT
 ---
 
-# ChatGPT Pinned chats in ChatGPT
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Pinned chats in ChatGPT
+
+**ChatGPT** · 2025-12-18 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 You can now pin chats to the top of your list for quick access to important conversations. Pinned chats are available on iOS, Android, Web, and Atlas. On web, hover over a chat in the left-hand sidebar, click ⋯, and select Pin chat. On mobile, long-press a chat and select Pin chat.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- mobile-desktop: [[Changes/ChatGPT/2025-12-18-you-can-now-pin-chats-to-the-top-of-your-list-for-quick-access-to-important-conv|Pin chats to the top of your list for quick access to important conversations]]
+- [[Changes/ChatGPT/2025-12-18-you-can-now-pin-chats-to-the-top-of-your-list-for-quick-access-to-important-conv|Pin chats to the top of your list for quick access to important conversations]] · Mobile and Desktop
 <!-- chronolog:end -->

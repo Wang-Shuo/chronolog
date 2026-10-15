@@ -1,10 +1,13 @@
 ---
 changes_count: 5
 date: '2023-04-19'
-machine_hash: 870d4c2fba3cb7b6355c76ca624d19a2f894738b65f484a92e858a1da5fdf7b5
+description: 'Cursor release GPT-4 & Project Generation (2023-04-19) on 2023-04-19:
+  5 tracked changes across Model Support, Pricing Model, Projects and Workspaces'
+machine_hash: 55871ee232056917d779a8927b7901d42a9eb16886ca690d852d15d7a60b7ccc
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 5
   date: '2023-04-19'
   product: cursor
   product_name: Cursor
@@ -21,26 +24,28 @@ source_url: https://cursor.com/changelog/0-2-6
 tags:
 - release
 - cursor
-title: Cursor — GPT-4 & Project Generation (2023-04-19)
+title: Cursor · GPT-4 & Project Generation (2023-04-19)
 version: 0.2.6
 ---
 
-# Cursor GPT-4 & Project Generation (2023-04-19)
+<!-- chronolog:begin region="header" -->
+# Cursor · GPT-4 & Project Generation (2023-04-19)
+
+**Cursor** · 2023-04-19 · [Official release notes](https://cursor.com/changelog/0-2-6)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
-#New Features
+5 tracked changes across 3 themes: Model Support, Pricing Model, Projects and Workspaces.
 
-[Official release notes](https://cursor.com/changelog/0-2-6)
-
-Tracked cards: 5
+Tracked 5 of 5 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- projects-workspaces: [[Changes/Cursor/2023-04-19-new-experimental-feature-generate-entire-projects-from-a-single-prompt|New experimental feature: Generate entire projects from a single prompt]]
-- pricing-model: [[Changes/Cursor/2023-04-19-150k-gpt-4-tokens-included|150k GPT-4 tokens included]]
-- model-support: [[Changes/Cursor/2023-04-19-switch-models-in-settings-gear|Switch models in settings gear]]
-- model-support: [[Changes/Cursor/2023-04-19-better-quality-for-all-ai-features|Better quality for all AI features]]
-- model-support: [[Changes/Cursor/2023-04-19-gpt-4-now-available-for-pro-users|GPT-4 now available for Pro users]]
+- [[Changes/Cursor/2023-04-19-new-experimental-feature-generate-entire-projects-from-a-single-prompt|New experimental feature: Generate entire projects from a single prompt]] · Projects and Workspaces
+- [[Changes/Cursor/2023-04-19-150k-gpt-4-tokens-included|150k GPT-4 tokens included]] · Pricing Model
+- [[Changes/Cursor/2023-04-19-switch-models-in-settings-gear|Switch models in settings gear]] · Model Support
+- [[Changes/Cursor/2023-04-19-better-quality-for-all-ai-features|Better quality for all AI features]] · Model Support
+- [[Changes/Cursor/2023-04-19-gpt-4-now-available-for-pro-users|GPT-4 now available for Pro users]] · Model Support
 <!-- chronolog:end -->

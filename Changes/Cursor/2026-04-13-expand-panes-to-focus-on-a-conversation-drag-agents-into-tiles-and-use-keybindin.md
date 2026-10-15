@@ -1,8 +1,12 @@
 ---
 card_id: cursor-2026-04-13-601bce
 date: '2026-04-13'
+description: 'Cursor · 2026-04-13 · Interface Experience: Expand panes to focus on
+  a conversation, drag agents into tiles, and use keybindings for quick navigation
+  and…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
+    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1190
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 63a8ec3e491c485900f8032594006fca44a2f4768dfb04105690ed236de08536
+machine_hash: adbef67202a1c16b2c0f68c5ebd0f754b2cabce6be9503071e4adb083ef2e12a
 product: cursor
 product_name: Cursor
 record:
@@ -50,9 +54,12 @@ record:
     keybindings…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-08-added-refreshinterval-status-line-setting-to-re-run-the-status-line-command-ever|claude-code-2026-04-08-b4a749]]'
-- '[[Changes/Claude Code/2026-04-08-added-focus-view-toggle-ctrl-o-in-no-flicker-mode-showing-prompt-one-line-tool-s|claude-code-2026-04-08-e9c02e]]'
-- '[[Changes/Claude Code/2026-04-10-improved-focus-mode-claude-now-writes-more-self-contained-summaries-since-it-kno|claude-code-2026-04-10-1d413d]]'
+- '[[Changes/Claude Code/2026-04-08-added-refreshinterval-status-line-setting-to-re-run-the-status-line-command-ever|Added
+  refreshInterval status line setting to re-run the status line command every…]]'
+- '[[Changes/Claude Code/2026-04-08-added-focus-view-toggle-ctrl-o-in-no-flicker-mode-showing-prompt-one-line-tool-s|Added
+  focus view toggle (Ctrl+O) in NO_FLICKER mode showing prompt, one-line…]]'
+- '[[Changes/Claude Code/2026-04-10-improved-focus-mode-claude-now-writes-more-self-contained-summaries-since-it-kno|Improved
+  focus mode]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313|cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -60,10 +67,10 @@ title: Expand panes to focus on a conversation, drag agents into tiles, and use 
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Expand panes to focus on a conversation, drag agents into tiles, and use keybindings…
 
-<!-- chronolog:begin region="description" -->
-Cursor — Tiled Layout and Upgraded Voice Input in the Agents Window: Expand panes to focus on a conversation, drag agents into tiles, and use keybindings for quick navigation and organization. Your setup also persists across sessions.
+**Cursor** · 2026-04-13 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://cursor.com/changelog/3-1) · from [[Releases/Cursor/cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313|Tiled Layout and Upgraded Voice Input in the Agents Window]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -72,19 +79,27 @@ Cursor — Tiled Layout and Upgraded Voice Input in the Agents Window: Expand pa
 > Source: https://cursor.com/changelog/3-1
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2026-04-13-this-release-introduces-improvements-to-our-agents-window-interface-as-part-of-c|Cursor introduces improvements to our Agents Window interface as part of Cursor 3]] · Agent Mode
+- [[Changes/Cursor/2026-04-13-dictation-through-voice-input-is-more-reliable-and-accurate-it-records-your-full|Dictation through voice input is more reliable and accurate]] · Voice and Audio
+- [[Changes/Cursor/2026-04-13-split-your-current-view-into-panes-to-run-and-manage-several-agents-in-parallel|Split your current view into panes to run and manage several agents in parallel]] · Agent Mode
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: interface-experience
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]
-- Lag Days: 1190
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Interface Experience
+
+- Earlier: 2026-04-10 · Claude Code · [[Changes/Claude Code/2026-04-10-improved-focus-mode-claude-now-writes-more-self-contained-summaries-since-it-kno|Improved focus mode]]
+- Later: 2026-04-14 · Claude Code · [[Changes/Claude Code/2026-04-14-undo-is-now-an-alias-for-rewind|/undo is now an alias for /rewind]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2026-04-13-601bce&body=Card%3A%20Changes%2FCursor%2F2026-04-13-expand-panes-to-focus-on-a-conversation-drag-agents-into-tiles-and-use-keybindin.md%0ACard%20ID%3A%20cursor-2026-04-13-601bce%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F3-1%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

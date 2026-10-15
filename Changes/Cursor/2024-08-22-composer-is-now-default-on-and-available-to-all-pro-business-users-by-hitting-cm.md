@@ -1,8 +1,12 @@
 ---
 card_id: cursor-2024-08-22-915f5c
 date: '2024-08-22'
+description: 'Cursor · 2024-08-22 · Collaboration: Composer is now default-on and
+  available to all Pro/Business users by hitting cmd+I. We''ve added Composer Projects
+  (beta)…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|cursor-2023-09-08-8ba960]]'
+  first_in_tracked: '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams
+    can also share private docs]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 349
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 34d639573b23c4eabab7c8a747b9e8296c452308d067228b7af391096fad99bf
+machine_hash: 0d36f8a97bb9989d41f7a85c1daaae5d8fa92b8ea9c6418d0e0a41fe25e1422e
 product: cursor
 product_name: Cursor
 record:
@@ -43,8 +47,10 @@ record:
     cmd+I
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|cursor-2023-09-08-8ba960]]'
-- '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|cursor-2024-03-20-362eb0]]'
+- '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams can also share
+  private docs]]'
+- '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
+  improvements: Team admins can now mark themselves as unpaid users and can see…]]'
 source_release: '[[Releases/Cursor/cursor-2024-08-22-0-40-x-https-cursor-com-changelog-0-40-x-317cba42|cursor-2024-08-22-0-40-x-https-cursor-com-changelog-0-40-x-317cba42]]'
 source_type: cursor_changelog
 theme: collaboration
@@ -53,10 +59,10 @@ title: Composer is now default-on and available to all Pro/Business users by hit
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Composer is now default-on and available to all Pro/Business users by hitting cmd+I
 
-<!-- chronolog:begin region="description" -->
-Cursor — New Chat UX, Default-On Composer, New Cursor Tab Model: Composer is now default-on and available to all Pro/Business users by hitting cmd+I. We've added Composer Projects (beta), which allows you to share instructions among several composers.
+**Cursor** · 2024-08-22 · [[Themes/collaboration|Collaboration]] · [Official source](https://cursor.com/changelog/0-40-x) · from [[Releases/Cursor/cursor-2024-08-22-0-40-x-https-cursor-com-changelog-0-40-x-317cba42|New Chat UX, Default-On Composer, New Cursor Tab Model]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -65,19 +71,27 @@ Cursor — New Chat UX, Default-On Composer, New Cursor Tab Model: Composer is n
 > Source: https://cursor.com/changelog/0-40-x
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2024-08-22-auto-imports-beta-for-cursor-tab-for-typescript-files-when-tab-suggests-an-unimp|Auto imports (beta) for Cursor Tab for TypeScript files]] · Editor Experience
+- [[Changes/Cursor/2024-08-22-we-ve-also-trained-a-new-cursor-tab-model-that-s-smarter-and-more-context-aware|We've also trained a new Cursor Tab model that's smarter and more context-aware]] · Context Window
+- [[Changes/Cursor/2024-08-22-we-have-a-new-chat-ux-excited-for-you-to-try-it-out-and-share-your-thoughts|We have a new chat UX!]] · Interface Experience
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: collaboration
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|cursor-2023-09-08-8ba960]]
-- Lag Days: 349
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Collaboration
+
+- Earlier: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Later: 2024-12-13 · ChatGPT · [[Changes/ChatGPT/2024-12-13-chatgpt-projects-are-available-to-all-plus-team-and-pro-users|ChatGPT Projects are available to all Plus, Team, and Pro users]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-09-08 · Cursor · [[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams can also share private docs]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2024-08-22-915f5c&body=Card%3A%20Changes%2FCursor%2F2024-08-22-composer-is-now-default-on-and-available-to-all-pro-business-users-by-hitting-cm.md%0ACard%20ID%3A%20cursor-2024-08-22-915f5c%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F0-40-x%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

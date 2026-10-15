@@ -1,10 +1,12 @@
 ---
 changes_count: 0
 date: '2023-03-28'
-machine_hash: af84181e6d918b5a9b987e24d1e3be7858d63d3a61f08b972f6f83aa8d992c98
+description: 'Cursor release v0.1.10 (2023-03-28) on 2023-03-28: no tracked changes'
+machine_hash: fef6a0b3a747ec240cefebac26494a506acca34bd61d31743b80372460cb5cfe
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 2
   date: '2023-03-28'
   product: cursor
   product_name: Cursor
@@ -21,19 +23,21 @@ source_url: https://cursor.com/changelog/0-1-10
 tags:
 - release
 - cursor
-title: Cursor — v0.1.10 (2023-03-28)
+title: Cursor · v0.1.10 (2023-03-28)
 version: 0.1.10
 ---
 
-# Cursor v0.1.10 (2023-03-28)
+<!-- chronolog:begin region="header" -->
+# Cursor · v0.1.10 (2023-03-28)
+
+**Cursor** · 2023-03-28 · [Official release notes](https://cursor.com/changelog/0-1-10)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
-#Bug Fixes
+No change cards extracted.
 
-[Official release notes](https://cursor.com/changelog/0-1-10)
-
-Tracked cards: 0
+Tracked 0 of 2 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

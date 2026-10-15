@@ -1,8 +1,12 @@
 ---
 card_id: claude-code-2026-06-09-f60c22
 date: '2026-06-09'
+description: 'Claude Code · 2026-06-09 · Model Support: Introducing Claude Fable 5:
+  a Mythos-class model that we’ve made safe for general use. Fable’s capabilities
+  exceed…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We
+    made more improvements to the ChatGPT model!]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1247
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: af189be007872078e45104ca7b64a18e1cbbdd198399f09df9b42fa2d1975bda
+machine_hash: 99a9f5d3ff5a51d34831048dad0f790a62e928fd211f249fd1019c200d6a8a70
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,9 +49,12 @@ record:
     general use'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-06-claude-code-now-retries-a-turn-once-on-the-fallback-model-when-the-api-rejects-a|claude-code-2026-06-06-1aecaf]]'
-- '[[Changes/Claude Code/2026-06-06-max-thinking-tokens-0-thinking-disabled-and-the-per-model-thinking-toggle-now-di|claude-code-2026-06-06-d2e989]]'
-- '[[Changes/Claude Code/2026-06-08-added-a-disablebundledskills-setting-and-claude-code-disable-bundled-skills-envi|claude-code-2026-06-08-b5f6b1]]'
+- '[[Changes/Claude Code/2026-06-06-claude-code-now-retries-a-turn-once-on-the-fallback-model-when-the-api-rejects-a|Claude
+  Code now retries a turn once on the fallback model when the API rejects…]]'
+- '[[Changes/Claude Code/2026-06-06-max-thinking-tokens-0-thinking-disabled-and-the-per-model-thinking-toggle-now-di|MAX_THINKING_TOKENS=0,
+  --thinking disabled, and the per-model thinking toggle…]]'
+- '[[Changes/Claude Code/2026-06-08-added-a-disablebundledskills-setting-and-claude-code-disable-bundled-skills-envi|Added
+  a disableBundledSkills setting and CLAUDE_CODE_DISABLE_BUNDLED_SKILLS…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-09-v2-1-170-github-336724522-461fd3b3|claude-code-2026-06-09-v2-1-170-github-336724522-461fd3b3]]'
 source_type: github_releases
 theme: model-support
@@ -56,10 +63,10 @@ title: 'Introducing Claude Fable 5: a Mythos-class model that we’ve made safe 
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Introducing Claude Fable 5: a Mythos-class model that we’ve made safe for general use
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.170: Introducing Claude Fable 5: a Mythos-class model that we’ve made safe for general use. Fable’s capabilities exceed those of any model we’ve ever made generally available. Update to version 2.1.170 for access. https://www.anthropic.com/news/claude-fable-5-mythos-5
+**Claude Code** · 2026-06-09 · [[Themes/model-support|Model Support]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.170) · from [[Releases/Claude Code/claude-code-2026-06-09-v2-1-170-github-336724522-461fd3b3|v2.1.170]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -68,19 +75,23 @@ Claude Code — v2.1.170: Introducing Claude Fable 5: a Mythos-class model that 
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.170
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: model-support
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]
-- Lag Days: 1247
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Model Support
+
+- Earlier: 2026-06-08 · Claude Code · [[Changes/Claude Code/2026-06-08-added-a-disablebundledskills-setting-and-claude-code-disable-bundled-skills-envi|Added a disableBundledSkills setting and CLAUDE_CODE_DISABLE_BUNDLED_SKILLS…]]
+- Later: 2026-06-10 · ChatGPT · [[Changes/ChatGPT/2026-06-10-pro-extended-pro-plans-only|Pro Extended Pro plans only]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We made more improvements to the ChatGPT model!]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-06-09-f60c22&body=Card%3A%20Changes%2FClaude%20Code%2F2026-06-09-introducing-claude-fable-5-a-mythos-class-model-that-we-ve-made-safe-for-general.md%0ACard%20ID%3A%20claude-code-2026-06-09-f60c22%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.170%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

@@ -1,7 +1,9 @@
 ---
 created: '2023-01-09'
 date: '2026-10-08'
-machine_hash: 0a961756cb7ca6a4ecaaa4cf0df7f9ee669367c12cbd00e1cb0ef74ad01cdf21
+description: Cross-product timeline of Interface Experience changes in ChatGPT, Claude
+  Code and Cursor.
+machine_hash: 97e7de9a7cf9aca97668f3a2d83d89cb74f323e0e9d2b501c8abc102bfc66379
 modified: '2026-10-08'
 products_involved:
 - ChatGPT
@@ -16,7 +18,9 @@ theme: interface-experience
 title: Interface Experience
 ---
 
-# Theme: interface-experience
+<!-- chronolog:begin region="header" -->
+# Interface Experience
+<!-- chronolog:end -->
 
 ## Research summary
 <!-- chronolog:begin region="narrative" -->

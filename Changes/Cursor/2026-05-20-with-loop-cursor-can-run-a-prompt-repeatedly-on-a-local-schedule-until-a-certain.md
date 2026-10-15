@@ -1,8 +1,12 @@
 ---
 card_id: cursor-2026-05-20-8c2c28
 date: '2026-05-20'
+description: 'Cursor · 2026-05-20 · Agent Mode: With /loop, Cursor can run a prompt
+  repeatedly on a local schedule, until a certain outcome is achieved, or until you
+  stop…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
+    to the first nightly release!]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1049
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 4b8bf7dec106f43f12ee801b76d0c938e51bf0c6614e89828972e85e5af5317b
+machine_hash: a10037088d1732a18e6b50a9660e80b214ee054d66eb03f26a2ce3f151cddbdd
 product: cursor
 product_name: Cursor
 record:
@@ -43,9 +47,12 @@ record:
     a certain…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-19-added-elapsed-duration-to-background-subagent-completion-notifications-e-g-agent|claude-code-2026-05-19-f74413]]'
-- '[[Changes/Cursor/2026-05-19-assign-work-items-to-cursor-or-mention-cursor-in-a-comment-to-kick-off-a-cloud-a|cursor-2026-05-19-269d26]]'
-- '[[Changes/Cursor/2026-05-20-use-the-loop-skill-for-local-long-running-agents-for-example-you-can-ask-it-to-c|cursor-2026-05-20-77ca28]]'
+- '[[Changes/Claude Code/2026-05-19-added-elapsed-duration-to-background-subagent-completion-notifications-e-g-agent|Added
+  elapsed duration to background subagent completion notifications…]]'
+- '[[Changes/Cursor/2026-05-19-assign-work-items-to-cursor-or-mention-cursor-in-a-comment-to-kick-off-a-cloud-a|Assign
+  work items to Cursor, or mention @Cursor in a comment to kick off a cloud agent]]'
+- '[[Changes/Cursor/2026-05-20-use-the-loop-skill-for-local-long-running-agents-for-example-you-can-ask-it-to-c|Use
+  the /loop skill for local long-running agents]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-20-3-5-https-cursor-com-changelog-shared-canvases-68b3b2da|cursor-2026-05-20-3-5-https-cursor-com-changelog-shared-canvases-68b3b2da]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -54,10 +61,10 @@ title: With /loop, Cursor can run a prompt repeatedly on a local schedule, until
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # With /loop, Cursor can run a prompt repeatedly on a local schedule, until a certain…
 
-<!-- chronolog:begin region="description" -->
-Cursor — Shared Canvases and /loop Skill: With /loop, Cursor can run a prompt repeatedly on a local schedule, until a certain outcome is achieved, or until you stop it. If you don't specify a fixed interval, the agent decides when or what event should wake it.
+**Cursor** · 2026-05-20 · [[Themes/agent-mode|Agent Mode]] · [Official source](https://cursor.com/changelog/shared-canvases) · from [[Releases/Cursor/cursor-2026-05-20-3-5-https-cursor-com-changelog-shared-canvases-68b3b2da|Shared Canvases and /loop Skill]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -66,19 +73,28 @@ Cursor — Shared Canvases and /loop Skill: With /loop, Cursor can run a prompt 
 > Source: https://cursor.com/changelog/shared-canvases
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2026-05-20-teammates-open-a-shared-canvas-from-its-link-with-read-only-access-the-shared-ca|Teammates open a shared canvas from its link with read-only access]] · Enterprise and Administration
+- [[Changes/Cursor/2026-05-20-you-can-now-share-canvases-from-cursor-with-your-teammates|Share canvases from Cursor with your teammates]] · Collaboration
+- [[Changes/Cursor/2026-05-20-use-the-loop-skill-for-local-long-running-agents-for-example-you-can-ask-it-to-c|Use the /loop skill for local long-running agents]] · Agent Mode
+- [[Changes/Cursor/2026-05-20-canvases-are-interactive-artifacts-created-by-agents-like-reports-dashboards-and|Canvases are interactive artifacts created by agents, like reports, dashboards…]] · Files and Data
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: agent-mode
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]
-- Lag Days: 1049
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Agent Mode
+
+- Earlier: 2026-05-19 · Cursor · [[Changes/Cursor/2026-05-19-assign-work-items-to-cursor-or-mention-cursor-in-a-comment-to-kick-off-a-cloud-a|Assign work items to Cursor, or mention @Cursor in a comment to kick off a cloud agent]]
+- Later: 2026-05-21 · Claude Code · [[Changes/Claude Code/2026-05-21-auto-mode-no-longer-suppresses-askuserquestion-when-the-user-or-a-skill-explicit|Auto mode no longer suppresses AskUserQuestion when the user or a skill explicitly…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2026-05-20-8c2c28&body=Card%3A%20Changes%2FCursor%2F2026-05-20-with-loop-cursor-can-run-a-prompt-repeatedly-on-a-local-schedule-until-a-certain.md%0ACard%20ID%3A%20cursor-2026-05-20-8c2c28%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2Fshared-canvases%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

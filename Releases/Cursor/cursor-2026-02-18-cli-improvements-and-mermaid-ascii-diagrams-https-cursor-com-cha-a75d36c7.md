@@ -1,10 +1,13 @@
 ---
 changes_count: 4
 date: '2026-02-18'
-machine_hash: 2f888bc269da8d410d0c58ed2420180f6e4b24721f48ceb3c879cdc0ef2357a9
+description: 'Cursor release CLI Improvements and Mermaid ASCII Diagrams on 2026-02-18:
+  4 tracked changes across Interface Experience, Agent Mode, Developer Workflow'
+machine_hash: b5ac89dc3e8a6a3b310282c99277506b80aae94c1008bf3d5909cffb12edb95f
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 50
   date: '2026-02-18'
   product: cursor
   product_name: Cursor
@@ -22,25 +25,27 @@ source_url: https://cursor.com/changelog/cli-feb-18-2026
 tags:
 - release
 - cursor
-title: Cursor — CLI Improvements and Mermaid ASCII Diagrams
+title: Cursor · CLI Improvements and Mermaid ASCII Diagrams
 version: CLI Improvements and Mermaid ASCII Diagrams
 ---
 
-# Cursor CLI Improvements and Mermaid ASCII Diagrams
+<!-- chronolog:begin region="header" -->
+# Cursor · CLI Improvements and Mermaid ASCII Diagrams
+
+**Cursor** · 2026-02-18 · [Official release notes](https://cursor.com/changelog/cli-feb-18-2026)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 This release introduces the ability to hand off plans from the CLI to the cloud, in-line rendering of ASCII diagrams, and many quality-of-life improvements.
 
-[Official release notes](https://cursor.com/changelog/cli-feb-18-2026)
-
-Tracked cards: 4
+Tracked 4 of 50 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- agent-mode: [[Changes/Cursor/2026-02-18-when-a-plan-is-generated-the-cli-now-shows-a-persistent-decision-menu-you-can-ch|When a plan is generated, the CLI now shows a persistent decision menu]]
-- interface-experience: [[Changes/Cursor/2026-02-18-typing-plan-takes-you-back-to-your-current-plan-and-its-action-menu-we-ve-also-a|Typing /plan takes you back to your current plan and its action menu]]
-- developer-workflow: [[Changes/Cursor/2026-02-18-mermaid-code-blocks-now-render-inline-as-ascii-diagrams-in-your-cli-conversation|Mermaid code blocks now render inline as ASCII diagrams in your CLI conversation]]
-- interface-experience: [[Changes/Cursor/2026-02-18-this-release-introduces-the-ability-to-hand-off-plans-from-the-cli-to-the-cloud|Cursor introduces the ability to hand off plans from the CLI to the cloud, in-line…]]
+- [[Changes/Cursor/2026-02-18-when-a-plan-is-generated-the-cli-now-shows-a-persistent-decision-menu-you-can-ch|When a plan is generated, the CLI now shows a persistent decision menu]] · Agent Mode
+- [[Changes/Cursor/2026-02-18-typing-plan-takes-you-back-to-your-current-plan-and-its-action-menu-we-ve-also-a|Typing /plan takes you back to your current plan and its action menu]] · Interface Experience
+- [[Changes/Cursor/2026-02-18-mermaid-code-blocks-now-render-inline-as-ascii-diagrams-in-your-cli-conversation|Mermaid code blocks now render inline as ASCII diagrams in your CLI conversation]] · Developer Workflow
+- [[Changes/Cursor/2026-02-18-this-release-introduces-the-ability-to-hand-off-plans-from-the-cli-to-the-cloud|Cursor introduces the ability to hand off plans from the CLI to the cloud, in-line…]] · Interface Experience
 <!-- chronolog:end -->

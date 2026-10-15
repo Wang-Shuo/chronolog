@@ -1,10 +1,13 @@
 ---
 changes_count: 2
 date: '2023-08-21'
-machine_hash: 896f9f35838398b7b74590fdb53944ba2827a08424a45b6a030af0443315c8f1
+description: 'Cursor release Small fixes on 2023-08-21: 2 tracked changes across Interface
+  Experience'
+machine_hash: 0844e543c40c82ab0389a7b6a1192985ff1e0522dd2a16afba42fc6bedde5532
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 2
   date: '2023-08-21'
   product: cursor
   product_name: Cursor
@@ -21,23 +24,25 @@ source_url: https://cursor.com/changelog/0-7-18-nightly
 tags:
 - release
 - cursor
-title: Cursor — Small fixes
+title: Cursor · Small fixes
 version: 0.7.18-nightly
 ---
 
-# Cursor Small fixes
+<!-- chronolog:begin region="header" -->
+# Cursor · Small fixes
+
+**Cursor** · 2023-08-21 · [Official release notes](https://cursor.com/changelog/0-7-18-nightly)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Nicer error messages in the chat! Fewer annoying popups.
 
-[Official release notes](https://cursor.com/changelog/0-7-18-nightly)
-
-Tracked cards: 2
+Tracked 2 of 2 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- interface-experience: [[Changes/Cursor/2023-08-21-activity-bar-elements-can-now-be-reordered-with-drag-and-drop|Activity bar elements can now be reordered with drag-and-drop]]
-- interface-experience: [[Changes/Cursor/2023-08-21-nicer-error-messages-in-the-chat-fewer-annoying-popups|Nicer error messages in the chat!]]
+- [[Changes/Cursor/2023-08-21-activity-bar-elements-can-now-be-reordered-with-drag-and-drop|Activity bar elements can now be reordered with drag-and-drop]] · Interface Experience
+- [[Changes/Cursor/2023-08-21-nicer-error-messages-in-the-chat-fewer-annoying-popups|Nicer error messages in the chat!]] · Interface Experience
 <!-- chronolog:end -->

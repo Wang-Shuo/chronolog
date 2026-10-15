@@ -1,8 +1,11 @@
 ---
 card_id: claude-code-2026-06-04-d9a4ce
 date: '2026-06-04'
+description: 'Claude Code · 2026-06-04 · Apps and Integrations: Hooks: Stop and SubagentStop
+  hooks can now return `hookSpecificOutput.additionalContext` to give Claude…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
+    can join the waitlist to try plugins here]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1169
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1514a80dc374f2baf21830c55cf1134cf38862196e4b9a3b0f9c8f5e45db1b9b
+machine_hash: 4eff9060ad3fcb067dbd0f695d54af9cb90597d4517f1e0ab5767a88c429b479
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,9 +44,12 @@ record:
   title: 'Hooks: Stop and SubagentStop hooks can now return…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-29-added-autocomplete-for-plugin-arguments-subcommands-installed-plugin-names-and-p|claude-code-2026-05-29-adc504]]'
-- '[[Changes/Claude Code/2026-06-02-mcp-now-collapses-claude-ai-connectors-you-ve-never-signed-in-to-behind-a-show-u|claude-code-2026-06-02-187c5a]]'
-- '[[Changes/Claude Code/2026-06-03-remote-control-now-shows-as-a-persistent-footer-pill-with-a-link-to-the-session|claude-code-2026-06-03-ede705]]'
+- '[[Changes/Claude Code/2026-05-29-added-autocomplete-for-plugin-arguments-subcommands-installed-plugin-names-and-p|Added
+  autocomplete for /plugin arguments]]'
+- '[[Changes/Claude Code/2026-06-02-mcp-now-collapses-claude-ai-connectors-you-ve-never-signed-in-to-behind-a-show-u|/mcp
+  now collapses claude.ai connectors you''ve never signed in to behind…]]'
+- '[[Changes/Claude Code/2026-06-03-remote-control-now-shows-as-a-persistent-footer-pill-with-a-link-to-the-session|Remote
+  Control now shows as a persistent footer pill (with a link to the session)…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988|claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988]]'
 source_type: github_releases
 theme: apps-integrations
@@ -51,10 +57,10 @@ title: 'Hooks: Stop and SubagentStop hooks can now return…'
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Hooks: Stop and SubagentStop hooks can now return…
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.163: Hooks: Stop and SubagentStop hooks can now return `hookSpecificOutput.additionalContext` to give Claude feedback and keep the turn going without being labeled a hook error
+**Claude Code** · 2026-06-04 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.163) · from [[Releases/Claude Code/claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988|v2.1.163]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -63,19 +69,28 @@ Claude Code — v2.1.163: Hooks: Stop and SubagentStop hooks can now return `hoo
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.163
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-06-04-added-a-c-to-copy-shortcut-to-btw-that-copies-the-raw-markdown-answer-to-the-cli|Added a "c to copy" shortcut to /btw that copies the raw markdown answer…]] · Interface Experience
+- [[Changes/Claude Code/2026-06-04-skills-added-escape-syntax-to-include-a-literal-before-a-digit-in-command-bodies|Skills: added \$ escape syntax to include a literal $ before a digit in command bodies]] · Developer Workflow
+- [[Changes/Claude Code/2026-06-04-added-plugin-list-command-to-list-installed-plugins-with-enabled-disabled-filter|Added /plugin list command to list installed plugins…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-06-04-added-requiredminimumversion-and-requiredmaximumversion-managed-settings-claude|Added requiredMinimumVersion and requiredMaximumVersion managed settings]] · Enterprise and Administration
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: apps-integrations
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]
-- Lag Days: 1169
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Apps and Integrations
+
+- Earlier: 2026-06-03 · Claude Code · [[Changes/Claude Code/2026-06-03-remote-control-now-shows-as-a-persistent-footer-pill-with-a-link-to-the-session|Remote Control now shows as a persistent footer pill (with a link to the session)…]]
+- Later: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-we-ve-shipped-a-batch-of-new-functionality-across-the-typescript-and-python-sdks|We've shipped a batch of new functionality across the TypeScript and Python SDKs]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-06-04-d9a4ce&body=Card%3A%20Changes%2FClaude%20Code%2F2026-06-04-hooks-stop-and-subagentstop-hooks-can-now-return-hookspecificoutput-additionalco.md%0ACard%20ID%3A%20claude-code-2026-06-04-d9a4ce%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.163%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

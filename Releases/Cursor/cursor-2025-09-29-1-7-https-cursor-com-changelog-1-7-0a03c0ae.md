@@ -1,10 +1,13 @@
 ---
 changes_count: 5
 date: '2025-09-29'
-machine_hash: f7430477db519452c892a0e471da3f8d9a75d97e82b8287031b3fafee727e56b
+description: 'Cursor release Browser Controls, Plan Mode, and Hooks on 2025-09-29:
+  5 tracked changes across Agent Mode, Apps and Integrations, Editor Experience'
+machine_hash: 84507e6f6b612215b5f996b1171c6ddb3b516bc963ffa42ed39f259c2a626e26
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 70
   date: '2025-09-29'
   product: cursor
   product_name: Cursor
@@ -21,26 +24,28 @@ source_url: https://cursor.com/changelog/1-7
 tags:
 - release
 - cursor
-title: Cursor — Browser Controls, Plan Mode, and Hooks
+title: Cursor · Browser Controls, Plan Mode, and Hooks
 version: '1.7'
 ---
 
-# Cursor Browser Controls, Plan Mode, and Hooks
+<!-- chronolog:begin region="header" -->
+# Cursor · Browser Controls, Plan Mode, and Hooks
+
+**Cursor** · 2025-09-29 · [Official release notes](https://cursor.com/changelog/1-7)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 #Browser Controls
 
-[Official release notes](https://cursor.com/changelog/1-7)
-
-Tracked cards: 5
+Tracked 5 of 70 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- editor-experience: [[Changes/Cursor/2025-09-29-when-writing-prompts-autocomplete-suggestions-will-appear-based-on-recent-change|When writing prompts, autocomplete suggestions will appear based on recent changes]]
-- agent-mode: [[Changes/Cursor/2025-09-29-cursor-can-now-write-detailed-plans-before-starting-complex-tasks-this-allows-ag|Cursor can now write detailed plans before starting complex tasks]]
-- agent-mode: [[Changes/Cursor/2025-09-29-agent-can-take-screenshots-improve-ui-and-debug-client-issues-read-more-about-br|Agent can take screenshots, improve UI, and debug client issues]]
-- apps-integrations: [[Changes/Cursor/2025-09-29-use-hooks-to-audit-agent-usage-block-commands-or-redact-secrets-from-context-it|Use Hooks to audit Agent usage, block commands, or redact secrets from context]]
-- agent-mode: [[Changes/Cursor/2025-09-29-you-can-now-observe-control-and-extend-the-agent-loop-using-custom-scripts-hooks|Observe, control, and extend the Agent loop using custom scripts]]
+- [[Changes/Cursor/2025-09-29-when-writing-prompts-autocomplete-suggestions-will-appear-based-on-recent-change|When writing prompts, autocomplete suggestions will appear based on recent changes]] · Editor Experience
+- [[Changes/Cursor/2025-09-29-cursor-can-now-write-detailed-plans-before-starting-complex-tasks-this-allows-ag|Cursor can now write detailed plans before starting complex tasks]] · Agent Mode
+- [[Changes/Cursor/2025-09-29-agent-can-take-screenshots-improve-ui-and-debug-client-issues-read-more-about-br|Agent can take screenshots, improve UI, and debug client issues]] · Agent Mode
+- [[Changes/Cursor/2025-09-29-use-hooks-to-audit-agent-usage-block-commands-or-redact-secrets-from-context-it|Use Hooks to audit Agent usage, block commands, or redact secrets from context]] · Apps and Integrations
+- [[Changes/Cursor/2025-09-29-you-can-now-observe-control-and-extend-the-agent-loop-using-custom-scripts-hooks|Observe, control, and extend the Agent loop using custom scripts]] · Agent Mode
 <!-- chronolog:end -->

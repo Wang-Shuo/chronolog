@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2026-09-14-d001f0
 date: '2026-09-14'
+description: 'ChatGPT · 2026-09-14 · Apps and Integrations: You can change your Health
+  permissions anytime in Settings → Plugins → Health. Learn more about how we keep…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
+    can join the waitlist to try plugins here]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1271
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: e172dd0c386436b86a03363dd914506b3e5e4d64d89dc6975e747371e9d2b05c
+machine_hash: 20b3e2b0d1afeaf84aba9b21a323e2b5878e453ff8c6ef241d2f09ef6d844f8e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,9 +41,12 @@ record:
   title: You can change your Health permissions anytime in Settings → Plugins → Health
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-11-added-output-style-name-to-list-and-switch-output-styles-including-over-remote-c|claude-code-2026-09-11-5bf521]]'
-- '[[Changes/Claude Code/2026-09-11-added-claude-plugin-eval-run-a-plugin-s-eval-suite-against-claude-code-and-get-s|claude-code-2026-09-11-e50c45]]'
-- '[[Changes/ChatGPT/2026-09-14-for-new-health-plugin-connections-chatgpt-will-now-default-to-each-user-s-global|chatgpt-2026-09-14-c10999]]'
+- '[[Changes/Claude Code/2026-09-11-added-output-style-name-to-list-and-switch-output-styles-including-over-remote-c|Added
+  /output-style name to list and switch output styles, including over Remote…]]'
+- '[[Changes/Claude Code/2026-09-11-added-claude-plugin-eval-run-a-plugin-s-eval-suite-against-claude-code-and-get-s|Added
+  claude plugin eval]]'
+- '[[Changes/ChatGPT/2026-09-14-for-new-health-plugin-connections-chatgpt-will-now-default-to-each-user-s-global|For
+  new Health plugin connections, ChatGPT will now default to each user’s global…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-14-updated-permissions-for-new-health-connections-8bc634b7|chatgpt-2026-09-14-updated-permissions-for-new-health-connections-8bc634b7]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -48,10 +54,10 @@ title: You can change your Health permissions anytime in Settings → Plugins �
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # You can change your Health permissions anytime in Settings → Plugins → Health
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Updated permissions for new Health connections: You can change your Health permissions anytime in Settings → Plugins → Health. Learn more about how we keep Health data private and secure.
+**ChatGPT** · 2026-09-14 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-14-updated-permissions-for-new-health-connections-8bc634b7|Updated permissions for new Health connections]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -60,19 +66,26 @@ ChatGPT — Updated permissions for new Health connections: You can change your 
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2026-09-14-if-you-make-no-changes-to-your-plugins-settings-the-default-permission-setting-i|If you make no changes to your Plugins settings, the default permission setting…]] · Safety and Privacy
+- [[Changes/ChatGPT/2026-09-14-for-new-health-plugin-connections-chatgpt-will-now-default-to-each-user-s-global|For new Health plugin connections, ChatGPT will now default to each user’s global…]] · Apps and Integrations
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: apps-integrations
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]
-- Lag Days: 1271
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Apps and Integrations
+
+- Earlier: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-added-claude-plugin-eval-run-a-plugin-s-eval-suite-against-claude-code-and-get-s|Added claude plugin eval]]
+- Later: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-added-forking-a-session-started-with-claude-remote-control-or-remote-control-fro|Added forking a session started with claude --remote-control or /remote-control…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-14-d001f0&body=Card%3A%20Changes%2FChatGPT%2F2026-09-14-you-can-change-your-health-permissions-anytime-in-settings-plugins-health-learn.md%0ACard%20ID%3A%20chatgpt-2026-09-14-d001f0%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

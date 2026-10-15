@@ -1,8 +1,10 @@
 ---
 card_id: claude-code-2026-07-19-3944a0
 date: '2026-07-19'
+description: 'Claude Code · 2026-07-19 · Developer Workflow: Claude no longer runs
+  the `/verify` and `/code-review` skills on its own; invoke them with `/verify` or…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|cursor-2023-03-18-76a713]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1219
   relation: same-theme-chronology
@@ -13,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: d0813cd078d22b45af3264a3237ba9e94102e54abe9c121b6968e374ce92c722
+machine_hash: 49da4caf0d903dfaa8253633387326a553b96a8916e82e9f473e8a2f7407cf44
 product: claude-code
 product_name: Claude Code
 record:
@@ -38,9 +40,12 @@ record:
   title: Claude no longer runs the `/verify` and `/code-review` skills on its own
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-10-enterworktree-now-asks-for-confirmation-before-entering-a-git-worktree-outside-t|claude-code-2026-07-10-67e616]]'
-- '[[Changes/Claude Code/2026-07-10-commit-push-pr-now-auto-allows-git-push-to-the-repo-s-configured-push-remote-rem|claude-code-2026-07-10-6bcc0f]]'
-- '[[Changes/Claude Code/2026-07-10-added-directory-path-suggestions-to-cd-matching-add-dir-behavior|claude-code-2026-07-10-e508b3]]'
+- '[[Changes/Claude Code/2026-07-10-enterworktree-now-asks-for-confirmation-before-entering-a-git-worktree-outside-t|EnterWorktree
+  now asks for confirmation before entering a git worktree outside…]]'
+- '[[Changes/Claude Code/2026-07-10-commit-push-pr-now-auto-allows-git-push-to-the-repo-s-configured-push-remote-rem|/commit-push-pr
+  now auto-allows git push to the repo''s configured push remote…]]'
+- '[[Changes/Claude Code/2026-07-10-added-directory-path-suggestions-to-cd-matching-add-dir-behavior|Added
+  directory path suggestions to /cd, matching /add-dir behavior]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-19-v2-1-215-github-356226333-6836aad6|claude-code-2026-07-19-v2-1-215-github-356226333-6836aad6]]'
 source_type: github_releases
 theme: developer-workflow
@@ -48,10 +53,10 @@ title: Claude no longer runs the /verify and /code-review skills on its own
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Claude no longer runs the `/verify` and `/code-review` skills on its own
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.215: Claude no longer runs the `/verify` and `/code-review` skills on its own; invoke them with `/verify` or `/code-review` when you want them
+**Claude Code** · 2026-07-19 · [[Themes/developer-workflow|Developer Workflow]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.215) · from [[Releases/Claude Code/claude-code-2026-07-19-v2-1-215-github-356226333-6836aad6|v2.1.215]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -60,19 +65,23 @@ Claude Code — v2.1.215: Claude no longer runs the `/verify` and `/code-review`
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.215
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: developer-workflow
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-18-built-in-terminal|cursor-2023-03-18-76a713]]
-- Lag Days: 1219
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Developer Workflow
+
+- Earlier: 2026-07-10 · Claude Code · [[Changes/Claude Code/2026-07-10-added-directory-path-suggestions-to-cd-matching-add-dir-behavior|Added directory path suggestions to /cd, matching /add-dir behavior]]
+- Later: 2026-07-21 · Claude Code · [[Changes/Claude Code/2026-07-21-improved-footer-pr-badge-links-to-be-clickable-hyperlinks-even-when-terminal-sup|Improved footer PR badge links to be clickable hyperlinks even when terminal support…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-07-19-3944a0&body=Card%3A%20Changes%2FClaude%20Code%2F2026-07-19-claude-no-longer-runs-the-verify-and-code-review-skills-on-its-own-invoke-them-w.md%0ACard%20ID%3A%20claude-code-2026-07-19-3944a0%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.215%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

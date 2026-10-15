@@ -1,8 +1,10 @@
 ---
 card_id: claude-code-2026-01-27-c86065
 date: '2026-01-27'
+description: 'Claude Code · 2026-01-27 · Developer Workflow: Added support for loading
+  `CLAUDE.md` files from additional directories specified via `--add-dir` flag (requires…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|cursor-2023-03-18-76a713]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1046
   relation: same-theme-chronology
@@ -13,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 10ed2c8e3631d8a25cede9bb346197a7d791ad2e49eaa3bbeb201cd6fe6fdfd7
+machine_hash: bc83730a30904ab691b0123bbfbdffea8ed9c392a3a41169cc69e50d192c1bda
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,9 +43,12 @@ record:
   title: Added support for loading `CLAUDE.md` files from additional directories specified…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-22-added-new-task-management-system-including-new-capabilities-like-dependency-trac|claude-code-2026-01-22-beb668]]'
-- '[[Changes/Claude Code/2026-01-23-changed-indexed-argument-syntax-from-arguments-0-to-arguments-0-bracket-syntax|claude-code-2026-01-23-48861a]]'
-- '[[Changes/Claude Code/2026-01-23-added-shorthand-0-1-etc-for-accessing-individual-arguments-in-custom-commands|claude-code-2026-01-23-e3d862]]'
+- '[[Changes/Claude Code/2026-01-22-added-new-task-management-system-including-new-capabilities-like-dependency-trac|Added
+  new task management system, including new capabilities like dependency tracking]]'
+- '[[Changes/Claude Code/2026-01-23-changed-indexed-argument-syntax-from-arguments-0-to-arguments-0-bracket-syntax|Changed
+  indexed argument syntax from $ARGUMENTS.0 to $ARGUMENTS0 (bracket syntax)]]'
+- '[[Changes/Claude Code/2026-01-23-added-shorthand-0-1-etc-for-accessing-individual-arguments-in-custom-commands|Added
+  shorthand $0, $1, etc. for accessing individual arguments in custom commands]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-27-v2-1-20-github-280123443-38431f59|claude-code-2026-01-27-v2-1-20-github-280123443-38431f59]]'
 source_type: github_releases
 theme: developer-workflow
@@ -51,10 +56,10 @@ title: Added support for loading CLAUDE.md files from additional directories spe
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Added support for loading `CLAUDE.md` files from additional directories specified…
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.20: Added support for loading `CLAUDE.md` files from additional directories specified via `--add-dir` flag (requires setting `CLAUDE_CODE_ADDITIONAL_DIRECTORIES_CLAUDE_MD=1`)
+**Claude Code** · 2026-01-27 · [[Themes/developer-workflow|Developer Workflow]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.20) · from [[Releases/Claude Code/claude-code-2026-01-27-v2-1-20-github-280123443-38431f59|v2.1.20]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -63,19 +68,28 @@ Claude Code — v2.1.20: Added support for loading `CLAUDE.md` files from additi
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.20
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-01-27-added-ability-to-delete-tasks-via-the-taskupdate-tool|Added ability to delete tasks via the TaskUpdate tool]] · Agent Mode
+- [[Changes/Claude Code/2026-01-27-added-external-editor-shortcut-ctrl-g-to-the-help-menu-for-better-discoverabilit|Added external editor shortcut (Ctrl+G) to the help menu for better discoverability]] · Editor Experience
+- [[Changes/Claude Code/2026-01-27-added-pr-review-status-indicator-to-the-prompt-footer-showing-the-current-branch|Added PR review status indicator to the prompt footer, showing the current branch's…]] · Interface Experience
+- [[Changes/Claude Code/2026-01-27-added-arrow-key-history-navigation-in-vim-normal-mode-when-cursor-cannot-move-fu|Added arrow key history navigation in vim normal mode when cursor cannot move further]] · Interface Experience
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: developer-workflow
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-18-built-in-terminal|cursor-2023-03-18-76a713]]
-- Lag Days: 1046
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Developer Workflow
+
+- Earlier: 2026-01-23 · Claude Code · [[Changes/Claude Code/2026-01-23-added-shorthand-0-1-etc-for-accessing-individual-arguments-in-custom-commands|Added shorthand $0, $1, etc. for accessing individual arguments in custom commands]]
+- Later: 2026-01-28 · Claude Code · [[Changes/Claude Code/2026-01-28-vscode-added-automatic-python-virtual-environment-activation-ensuring-python-and|VSCode Added automatic Python virtual environment activation, ensuring python…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-01-27-c86065&body=Card%3A%20Changes%2FClaude%20Code%2F2026-01-27-added-support-for-loading-claude-md-files-from-additional-directories-specified.md%0ACard%20ID%3A%20claude-code-2026-01-27-c86065%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.20%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

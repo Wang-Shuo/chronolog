@@ -1,8 +1,12 @@
 ---
 card_id: cursor-2026-04-15-c2d400
 date: '2026-04-15'
+description: 'Cursor · 2026-04-15 · Files and Data: These visualizations can include
+  dashboards and custom interfaces built using first-party components like tables,
+  boxes…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|chatgpt-2023-07-06-66255e]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|ChatGPT
+    rolls out code interpreter to all ChatGPT Plus users over the next week]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1014
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: dc9603e5d65abac7f1ee993e6dcbd70dc29a4fa72ac2ce669ee58c9744eacf31
+machine_hash: 60eccb112e2d23c4cca09352d92a477551437740680a3d6a3e93e530a2ac773b
 product: cursor
 product_name: Cursor
 record:
@@ -41,9 +45,12 @@ record:
   title: These visualizations can include dashboards and custom interfaces built using…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-04-improved-pdf-and-request-size-error-messages-to-show-actual-limits-100-pages-20m|claude-code-2026-02-04-497470]]'
-- '[[Changes/ChatGPT/2026-02-13-expanded-file-type-support-we-now-support-additional-text-and-code-file-formats|chatgpt-2026-02-13-b3a162]]'
-- '[[Changes/ChatGPT/2026-02-27-export-visuals-from-code-blocks-flowcharts-diagrams-and-data-visualizations-crea|chatgpt-2026-02-27-c8b816]]'
+- '[[Changes/Claude Code/2026-02-04-improved-pdf-and-request-size-error-messages-to-show-actual-limits-100-pages-20m|Improved
+  PDF and request size error messages to show actual limits (100 pages, 20MB)]]'
+- '[[Changes/ChatGPT/2026-02-13-expanded-file-type-support-we-now-support-additional-text-and-code-file-formats|Expanded
+  file type support]]'
+- '[[Changes/ChatGPT/2026-02-27-export-visuals-from-code-blocks-flowcharts-diagrams-and-data-visualizations-crea|Export
+  visuals from Code Blocks]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-15-canvases-https-cursor-com-changelog-04-15-26-cd056bf7|cursor-2026-04-15-canvases-https-cursor-com-changelog-04-15-26-cd056bf7]]'
 source_type: cursor_changelog
 theme: file-data
@@ -51,10 +58,10 @@ title: These visualizations can include dashboards and custom interfaces built u
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # These visualizations can include dashboards and custom interfaces built using…
 
-<!-- chronolog:begin region="description" -->
-Cursor — Canvases: These visualizations can include dashboards and custom interfaces built using first-party components like tables, boxes, diagrams, and charts, as well as existing Cursor components like diffs and to-do lists.
+**Cursor** · 2026-04-15 · [[Themes/file-data|Files and Data]] · [Official source](https://cursor.com/changelog/04-15-26) · from [[Releases/Cursor/cursor-2026-04-15-canvases-https-cursor-com-changelog-04-15-26-cd056bf7|Canvases]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -63,19 +70,26 @@ Cursor — Canvases: These visualizations can include dashboards and custom inte
 > Source: https://cursor.com/changelog/04-15-26
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2026-04-15-in-the-agents-window-canvases-are-durable-artifacts-that-live-in-the-side-panel|In the Agents Window, canvases are durable artifacts that live in the side panel…]] · Developer Workflow
+- [[Changes/Cursor/2026-04-15-cursor-can-now-respond-by-creating-interactive-canvases|Cursor can now respond by creating interactive canvases]] · Files and Data
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: file-data
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|chatgpt-2023-07-06-66255e]]
-- Lag Days: 1014
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Files and Data
+
+- Earlier: 2026-02-27 · ChatGPT · [[Changes/ChatGPT/2026-02-27-export-visuals-from-code-blocks-flowcharts-diagrams-and-data-visualizations-crea|Export visuals from Code Blocks]]
+- Later: 2026-05-14 · ChatGPT · [[Changes/ChatGPT/2026-05-14-free-500-mb|Free: 500 MB]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|ChatGPT rolls out code interpreter to all ChatGPT Plus users over the next week]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2026-04-15-c2d400&body=Card%3A%20Changes%2FCursor%2F2026-04-15-these-visualizations-can-include-dashboards-and-custom-interfaces-built-using-fi.md%0ACard%20ID%3A%20cursor-2026-04-15-c2d400%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F04-15-26%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

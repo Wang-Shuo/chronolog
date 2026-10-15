@@ -1,8 +1,11 @@
 ---
 card_id: claude-code-2026-03-25-f3027d
 date: '2026-03-25'
+description: 'Claude Code · 2026-03-25 · Apps and Integrations: Added `CwdChanged`
+  and `FileChanged` hook events for reactive environment management (e.g., direnv)'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
+    can join the waitlist to try plugins here]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1098
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 22b8c56bc757a03d86b229d0d3e67b8d00f651e9d54a945f5c7cedcbbe0be5b1
+machine_hash: e01fb925f78bdcfe1eebfba7be8145cae7d320b603c36c1c38917e01c8e4f0d3
 product: claude-code
 product_name: Claude Code
 record:
@@ -40,9 +43,12 @@ record:
     management…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-20-improved-mcp-read-search-tool-calls-to-collapse-into-a-single-queried-server-lin|claude-code-2026-03-20-a75158]]'
-- '[[Changes/ChatGPT/2026-03-25-google-s-file-connectors-in-chatgpt-are-now-unified-under-google-drive-providing|chatgpt-2026-03-25-6c2ae6]]'
-- '[[Changes/Claude Code/2026-03-25-added-disabledeeplinkregistration-setting-to-prevent-claude-cli-protocol-handler|claude-code-2026-03-25-7f5292]]'
+- '[[Changes/Claude Code/2026-03-20-improved-mcp-read-search-tool-calls-to-collapse-into-a-single-queried-server-lin|Improved
+  MCP read/search tool calls to collapse into a single…]]'
+- '[[Changes/ChatGPT/2026-03-25-google-s-file-connectors-in-chatgpt-are-now-unified-under-google-drive-providing|Google’s
+  file connectors in ChatGPT are now unified under Google Drive, providing…]]'
+- '[[Changes/Claude Code/2026-03-25-added-disabledeeplinkregistration-setting-to-prevent-claude-cli-protocol-handler|Added
+  disableDeepLinkRegistration setting to prevent claude-cli:// protocol…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317|claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317]]'
 source_type: github_releases
 theme: apps-integrations
@@ -50,10 +56,10 @@ title: Added CwdChanged and FileChanged hook events for reactive environment man
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Added `CwdChanged` and `FileChanged` hook events for reactive environment management…
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.83: Added `CwdChanged` and `FileChanged` hook events for reactive environment management (e.g., direnv)
+**Claude Code** · 2026-03-25 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.83) · from [[Releases/Claude Code/claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317|v2.1.83]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -62,19 +68,28 @@ Claude Code — v2.1.83: Added `CwdChanged` and `FileChanged` hook events for re
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.83
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-03-25-added-claude-code-subprocess-env-scrub-1-to-strip-anthropic-and-cloud-provider-c|Added CLAUDE_CODE_SUBPROCESS_ENV_SCRUB=1 to strip Anthropic and cloud provider…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-03-25-added-sandbox-failifunavailable-setting-to-exit-with-an-error-when-sandbox-is-en|Added sandbox.failIfUnavailable setting to exit with an error when sandbox…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-03-25-added-disabledeeplinkregistration-setting-to-prevent-claude-cli-protocol-handler|Added disableDeepLinkRegistration setting to prevent claude-cli:// protocol…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-03-25-added-managed-settings-d-drop-in-directory-alongside-managed-settings-json-letti|Added managed-settings.d/ drop-in directory alongside managed-settings.json…]] · Collaboration
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: apps-integrations
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]
-- Lag Days: 1098
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Apps and Integrations
+
+- Earlier: 2026-03-25 · ChatGPT · [[Changes/ChatGPT/2026-03-25-google-s-file-connectors-in-chatgpt-are-now-unified-under-google-drive-providing|Google’s file connectors in ChatGPT are now unified under Google Drive, providing…]]
+- Later: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-added-claude-code-mcp-server-name-and-claude-code-mcp-server-url-environment-var|Added CLAUDE_CODE_MCP_SERVER_NAME and CLAUDE_CODE_MCP_SERVER_URL environment…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-03-25-f3027d&body=Card%3A%20Changes%2FClaude%20Code%2F2026-03-25-added-cwdchanged-and-filechanged-hook-events-for-reactive-environment-management.md%0ACard%20ID%3A%20claude-code-2026-03-25-f3027d%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.83%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

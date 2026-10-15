@@ -1,8 +1,11 @@
 ---
 card_id: claude-code-2026-07-02-964eea
 date: '2026-07-02'
+description: 'Claude Code · 2026-07-02 · Reliability and Performance: Transient server
+  rate-limit errors (429s unrelated to your usage limit) are now retried automatically…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|chatgpt-2022-12-15-9c6f9c]]'
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
+    performance: Among other improvements, users will notice that ChatGPT is now…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1295
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 2e9d134f3a7edb0b4a264066a920889830414b835977c1728e37e84a8272d28a
+machine_hash: 25dc4b7b8342bce332792833b9a475f42c1cc276fe9e11ec15bfdd31153c96c2
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,9 +45,12 @@ record:
     now…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-17-improved-auto-retry-api-connection-drops-mid-thinking-now-automatically-retry-in|claude-code-2026-06-17-acfb36]]'
-- '[[Changes/Cursor/2026-06-17-your-environment-is-captured-in-a-reusable-snapshot-so-future-cloud-agents-start|cursor-2026-06-17-efeb40]]'
-- '[[Changes/Claude Code/2026-06-20-the-stream-stall-hint-now-reads-waiting-for-api-response-will-retry-in-instead-o|claude-code-2026-06-20-ef4f72]]'
+- '[[Changes/Claude Code/2026-06-17-improved-auto-retry-api-connection-drops-mid-thinking-now-automatically-retry-in|Improved
+  auto-retry: API connection drops mid-thinking now automatically retry…]]'
+- '[[Changes/Cursor/2026-06-17-your-environment-is-captured-in-a-reusable-snapshot-so-future-cloud-agents-start|Your
+  environment is captured in a reusable snapshot, so future cloud agents start up…]]'
+- '[[Changes/Claude Code/2026-06-20-the-stream-stall-hint-now-reads-waiting-for-api-response-will-retry-in-instead-o|The
+  stream-stall hint now reads "Waiting for API response · will retry in …" instead…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-02-v2-1-199-github-348195313-a8a76d9f|claude-code-2026-07-02-v2-1-199-github-348195313-a8a76d9f]]'
 source_type: github_releases
 theme: reliability-performance
@@ -53,10 +59,10 @@ title: Transient server rate-limit errors (429s unrelated to your usage limit) a
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Transient server rate-limit errors (429s unrelated to your usage limit) are now…
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.199: Transient server rate-limit errors (429s unrelated to your usage limit) are now retried automatically with backoff for subscribers instead of failing the turn
+**Claude Code** · 2026-07-02 · [[Themes/reliability-performance|Reliability and Performance]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.199) · from [[Releases/Claude Code/claude-code-2026-07-02-v2-1-199-github-348195313-a8a76d9f|v2.1.199]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -65,19 +71,27 @@ Claude Code — v2.1.199: Transient server rate-limit errors (429s unrelated to 
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.199
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-07-02-claude-agents-session-rows-now-show-pull-request-links-as-bare-n-without-the-red|claude agents session rows now show pull-request links as bare ♯N without…]] · Developer Workflow
+- [[Changes/Claude Code/2026-07-02-stacked-slash-skill-invocations-like-skill-a-skill-b-do-xyz-now-load-all-leading|Stacked slash-skill invocations like /skill-a /skill-b do XYZ now load all leading…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-07-02-claude-code-retry-watchdog-now-raises-the-default-retry-count-for-non-capacity-t|CLAUDE_CODE_RETRY_WATCHDOG now raises the default retry count for non-capacity…]] · Reliability and Performance
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: reliability-performance
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|chatgpt-2022-12-15-9c6f9c]]
-- Lag Days: 1295
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Reliability and Performance
+
+- Earlier: 2026-06-20 · Claude Code · [[Changes/Claude Code/2026-06-20-the-stream-stall-hint-now-reads-waiting-for-api-response-will-retry-in-instead-o|The stream-stall hint now reads "Waiting for API response · will retry in …" instead…]]
+- Later: 2026-07-03 · Claude Code · [[Changes/Claude Code/2026-07-03-improved-the-install-script-to-explain-when-installation-is-killed-by-the-system|Improved the install script to explain when installation is killed by the system…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-07-02-964eea&body=Card%3A%20Changes%2FClaude%20Code%2F2026-07-02-transient-server-rate-limit-errors-429s-unrelated-to-your-usage-limit-are-now-re.md%0ACard%20ID%3A%20claude-code-2026-07-02-964eea%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.199%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

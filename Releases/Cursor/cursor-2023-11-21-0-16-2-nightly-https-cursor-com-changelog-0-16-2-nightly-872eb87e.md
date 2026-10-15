@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2023-11-21'
-machine_hash: a9120c3a17db366cad3986d4361e8319f5f67079bd35a705f82b20cded998731
+description: 'Cursor release GPT-V Support on 2023-11-21: 1 tracked change across
+  Context Window'
+machine_hash: e266f8fac3140f1d338f699f943c327a8f6c683cc3463d3fc557a47598a48cb6
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 2
   date: '2023-11-21'
   product: cursor
   product_name: Cursor
@@ -23,22 +26,24 @@ source_url: https://cursor.com/changelog/0-16-2-nightly
 tags:
 - release
 - cursor
-title: Cursor — GPT-V Support
+title: Cursor · GPT-V Support
 version: 0.16.2-nightly
 ---
 
-# Cursor GPT-V Support
+<!-- chronolog:begin region="header" -->
+# Cursor · GPT-V Support
+
+**Cursor** · 2023-11-21 · [Official release notes](https://cursor.com/changelog/0-16-2-nightly)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Integrates GPT-V into chat for the editor. This means you can take screenshots/images and drag it into the chat inputbox to have Cursor use them as context.
 
-[Official release notes](https://cursor.com/changelog/0-16-2-nightly)
-
-Tracked cards: 1
+Tracked 1 of 2 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- context-window: [[Changes/Cursor/2023-11-21-integrates-gpt-v-into-chat-for-the-editor-this-means-you-can-take-screenshots-im|Integrates GPT-V into chat for the editor]]
+- [[Changes/Cursor/2023-11-21-integrates-gpt-v-into-chat-for-the-editor-this-means-you-can-take-screenshots-im|Integrates GPT-V into chat for the editor]] · Context Window
 <!-- chronolog:end -->

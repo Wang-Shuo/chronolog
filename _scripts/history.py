@@ -9,6 +9,7 @@ from typing import Any
 import frontmatter
 
 from _scripts.common import machine_hash, slugify
+from _scripts.extract import split_release_lines
 from _scripts.validate import normalize_wikilink_target
 from _scripts.writer import extract_machine_regions, machine_fields, render_frontmatter, write_markdown_file
 
@@ -27,13 +28,17 @@ def read_history(root: Path, products: set[str]) -> tuple[list[dict], list[dict]
         record = meta.get("record")
         if not record:
             regions = extract_machine_regions(post.content)
+            summary = regions.get("summary", "")
             record = {
                 "release_id": meta["release_id"], "product": product,
                 "product_name": meta["product_name"], "date": str(meta["date"]),
                 "title": meta["source_release"], "version": meta.get("version", ""),
                 "source_url": meta["source_url"], "source_type": meta.get("source_type", "unknown"),
-                "source_summary": regions.get("summary", "").split("\n\n[Official release notes]")[0],
+                "source_summary": historical_source_summary(summary),
             }
+            candidates = re.search(r"^Tracked \d+ of (\d+) candidate lines?\.$", summary, re.M)
+            if candidates:
+                record["candidate_line_count"] = int(candidates.group(1))
         releases.append(dict(record))
         release_targets[path.relative_to(root).with_suffix("").as_posix()] = record["release_id"]
 
@@ -62,8 +67,10 @@ def read_history(root: Path, products: set[str]) -> tuple[list[dict], list[dict]
             record = {key: meta[key] for key in (
                 "type", "card_id", "product", "product_name", "theme", "impact", "extractor_version"
             )}
+            # Cards rendered since W1 no longer carry a description region.
+            description = regions.get("description") or str(meta.get("description") or "")
             record.update(date=str(meta["date"]), source_release=source, title=title,
-                          slug=slugify(title)[:80].strip("-"), description=regions["description"],
+                          slug=slugify(title)[:80].strip("-"), description=description,
                           evidence=evidence, comparison="")
         cards.append(dict(record))
 
@@ -76,6 +83,23 @@ def read_history(root: Path, products: set[str]) -> tuple[list[dict], list[dict]
         if len(ids) != len(set(ids)):
             raise ValueError(f"duplicate historical {key}")
     return releases, cards, pending
+
+
+def historical_source_summary(summary: str) -> str:
+    """Official summary text of a Release ``summary`` region, without generated lines."""
+    text = re.split(r"\n\n(?:\[Official release notes\]|Tracked )", summary, maxsplit=1)[0].strip()
+    # A generated fallback is not an official summary; the writer recomputes it.
+    if re.match(r"^(?:\d+ tracked changes? across |No change cards extracted\.$)", text):
+        return ""
+    return text
+
+
+def without_body(release: dict) -> dict:
+    """Drop a release body, keeping its candidate line count for later Release pages."""
+    record = {key: value for key, value in release.items() if key != "body"}
+    if release.get("body") is not None:
+        record["candidate_line_count"] = len(split_release_lines(str(release["body"])))
+    return record
 
 
 def merge_history(
@@ -94,7 +118,7 @@ def merge_history(
     # Only an explicitly complete reconciliation can retire missing identities.
     card_map = {c["card_id"]: c for c in old_cards
                 if c["product"] not in reconcile_products or c["card_id"] in queue}
-    release_map.update({r["release_id"]: {k: v for k, v in r.items() if k != "body"} for r in releases})
+    release_map.update({r["release_id"]: without_body(r) for r in releases})
     card_map.update({c["card_id"]: c for c in cards})
     merged_cards = sorted(card_map.values(), key=lambda c: (c["date"], c["card_id"]))
     merged_releases = sorted(release_map.values(), key=lambda r: (r["date"], r["release_id"]))

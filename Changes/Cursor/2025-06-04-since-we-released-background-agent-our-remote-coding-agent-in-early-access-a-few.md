@@ -1,8 +1,11 @@
 ---
 card_id: cursor-2025-06-04-ace3ea
 date: '2025-06-04'
+description: 'Cursor · 2025-06-04 · Agent Mode: Since we released Background Agent,
+  our remote coding agent, in early access a few weeks ago, early signals have been…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
+    to the first nightly release!]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 699
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 9438c8dd7e51fcdabef77029e303a1e074fecf87303fbbc022d904ea7d4d96fe
+machine_hash: f88bb1f86814eab10ca231880a6c497562bcc8da4d29f368f40cae294397e6d5
 product: cursor
 product_name: Cursor
 record:
@@ -41,9 +44,12 @@ record:
     a few…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-04-15-we-ve-also-fixed-a-long-standing-issue-where-always-attached-rules-now-persist-a|cursor-2025-04-15-1d3ec5]]'
-- '[[Changes/Cursor/2025-04-15-for-auto-attached-rules-with-path-patterns-defined-agent-will-now-automatically|cursor-2025-04-15-465624]]'
-- '[[Changes/Cursor/2025-06-04-this-release-brings-bugbot-for-code-review-a-first-look-at-memories-one-click-mc|cursor-2025-06-04-8ddadd]]'
+- '[[Changes/Cursor/2025-04-15-we-ve-also-fixed-a-long-standing-issue-where-always-attached-rules-now-persist-a|Cursor
+  fixes a long-standing issue where Always attached rules now persist across…]]'
+- '[[Changes/Cursor/2025-04-15-for-auto-attached-rules-with-path-patterns-defined-agent-will-now-automatically|For
+  Auto Attached rules with path patterns defined, Agent will now automatically…]]'
+- '[[Changes/Cursor/2025-06-04-this-release-brings-bugbot-for-code-review-a-first-look-at-memories-one-click-mc|Cursor
+  brings Bugbot for code review, a first look at memories, one-click MCP setup…]]'
 source_release: '[[Releases/Cursor/cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca|cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -52,10 +58,10 @@ title: Since we released Background Agent, our remote coding agent, in early acc
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Since we released Background Agent, our remote coding agent, in early access a few…
 
-<!-- chronolog:begin region="description" -->
-Cursor — Bugbot, Background Agent access to everyone, and one-click MCP install: Since we released Background Agent, our remote coding agent, in early access a few weeks ago, early signals have been positive.
+**Cursor** · 2025-06-04 · [[Themes/agent-mode|Agent Mode]] · [Official source](https://cursor.com/changelog/1-0) · from [[Releases/Cursor/cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca|Bugbot, Background Agent access to everyone, and one-click MCP install]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -64,19 +70,28 @@ Cursor — Bugbot, Background Agent access to everyone, and one-click MCP instal
 > Source: https://cursor.com/changelog/1-0
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2025-06-04-bugbot-automatically-reviews-your-prs-and-catches-potential-bugs-and-issues|Bugbot automatically reviews your PRs and catches potential bugs and issues]] · Developer Workflow
+- [[Changes/Cursor/2025-06-04-this-release-brings-bugbot-for-code-review-a-first-look-at-memories-one-click-mc|Cursor brings Bugbot for code review, a first look at memories, one-click MCP setup…]] · Agent Mode
+- [[Changes/Cursor/2025-06-04-when-an-issue-is-found-bugbot-leaves-a-comment-on-your-prs-in-github-you-can-cli|When an issue is found, Bugbot leaves a comment on your PRs in GitHub]] · Editor Experience
+- [[Changes/Cursor/2025-06-04-we-re-now-excited-to-expand-background-agent-to-all-users-you-can-start-using-it|Cursor expands Background Agent to all users!]] · Safety and Privacy
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: agent-mode
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]
-- Lag Days: 699
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Agent Mode
+
+- Earlier: 2025-04-15 · Cursor · [[Changes/Cursor/2025-04-15-for-auto-attached-rules-with-path-patterns-defined-agent-will-now-automatically|For Auto Attached rules with path patterns defined, Agent will now automatically…]]
+- Later: 2025-06-12 · Cursor · [[Changes/Cursor/2025-06-12-you-can-now-launch-background-agents-directly-from-slack-by-mentioning-cursor-ag|Launch Background Agents directly from Slack by mentioning @Cursor]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2025-06-04-ace3ea&body=Card%3A%20Changes%2FCursor%2F2025-06-04-since-we-released-background-agent-our-remote-coding-agent-in-early-access-a-few.md%0ACard%20ID%3A%20cursor-2025-06-04-ace3ea%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F1-0%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

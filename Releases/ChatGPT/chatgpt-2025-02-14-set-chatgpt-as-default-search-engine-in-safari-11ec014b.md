@@ -1,10 +1,13 @@
 ---
 changes_count: 5
 date: '2025-02-14'
-machine_hash: 8be328a94ab7d0cfc793983ec0b13adde68d18c51b4472d04721a645ae0c0892
+description: 'ChatGPT release - Set ChatGPT as default search engine in Safari. on
+  2025-02-14: 5 tracked changes across Mobile and Desktop, Search and Browsing'
+machine_hash: 1b9e5ca43a50208c6bb58f2d5d9921e52d3dc6371859d676c10ab6fdc679a721
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 6
   date: '2025-02-14'
   product: chatgpt
   product_name: ChatGPT
@@ -21,26 +24,28 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — - Set ChatGPT as default search engine in Safari.
+title: ChatGPT · - Set ChatGPT as default search engine in Safari.
 version: '- Set ChatGPT as default search engine in Safari.'
 ---
 
-# ChatGPT - Set ChatGPT as default search engine in Safari.
+<!-- chronolog:begin region="header" -->
+# ChatGPT · - Set ChatGPT as default search engine in Safari.
+
+**ChatGPT** · 2025-02-14 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Set ChatGPT as default search engine in Safari.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 5
+Tracked 5 of 6 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- search-browsing: [[Changes/ChatGPT/2025-02-14-set-chatgpt-as-default-search-engine-in-safari|Set ChatGPT as default search engine in Safari]]
-- mobile-desktop: [[Changes/ChatGPT/2025-02-14-improved-android-conversation-parsing-performance|Improved Android conversation parsing performance]]
-- mobile-desktop: [[Changes/ChatGPT/2025-02-14-ios-performance-fixes|iOS performance fixes]]
-- mobile-desktop: [[Changes/ChatGPT/2025-02-14-confirmation-dialog-for-logging-out-ios-web|Confirmation dialog for logging out (iOS, web)]]
-- mobile-desktop: [[Changes/ChatGPT/2025-02-14-updated-launch-animations-and-composer-design-on-android|Updated launch animations and composer design on Android]]
+- [[Changes/ChatGPT/2025-02-14-set-chatgpt-as-default-search-engine-in-safari|Set ChatGPT as default search engine in Safari]] · Search and Browsing
+- [[Changes/ChatGPT/2025-02-14-improved-android-conversation-parsing-performance|Improved Android conversation parsing performance]] · Mobile and Desktop
+- [[Changes/ChatGPT/2025-02-14-ios-performance-fixes|iOS performance fixes]] · Mobile and Desktop
+- [[Changes/ChatGPT/2025-02-14-confirmation-dialog-for-logging-out-ios-web|Confirmation dialog for logging out (iOS, web)]] · Mobile and Desktop
+- [[Changes/ChatGPT/2025-02-14-updated-launch-animations-and-composer-design-on-android|Updated launch animations and composer design on Android]] · Mobile and Desktop
 <!-- chronolog:end -->

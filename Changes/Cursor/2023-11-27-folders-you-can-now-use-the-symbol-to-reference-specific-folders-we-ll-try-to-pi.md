@@ -1,8 +1,12 @@
 ---
 card_id: cursor-2023-11-27-4becb7
 date: '2023-11-27'
+description: 'Cursor · 2023-11-27 · Context Window: @ folders: You can now use the
+  @ symbol to reference specific folders! We''ll try to pick out the most relevant
+  code…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|cursor-2023-05-04-00d3b7]]'
+  first_in_tracked: '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended
+    prompt length for project generation]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 207
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: bff0a60e16033a393a6d35f47f658cb3b2d606891a1ccdfb6cc395d7fdc02ca2
+machine_hash: b63c707a371d73d29aaa3927a4def41f964152817a2bebae9707be68ebf07ac8
 product: cursor
 product_name: Cursor
 record:
@@ -40,9 +44,12 @@ record:
   title: '@ folders: You can now use the @ symbol to reference specific folders!'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-11-10-copilot-beta-this-is-an-add-on-to-copilot-that-suggests-diffs-around-your-cursor|cursor-2023-11-10-2c3c8d]]'
-- '[[Changes/Cursor/2023-11-21-integrates-gpt-v-into-chat-for-the-editor-this-means-you-can-take-screenshots-im|cursor-2023-11-21-4df6f2]]'
-- '[[Changes/Cursor/2023-11-24-you-can-now-folder-in-the-chat-to-chat-with-a-folder-let-us-know-what-you-think|cursor-2023-11-24-79ee14]]'
+- '[[Changes/Cursor/2023-11-10-copilot-beta-this-is-an-add-on-to-copilot-that-suggests-diffs-around-your-cursor|Copilot++
+  (beta): this is an "add-on" to Copilot that suggests diffs around…]]'
+- '[[Changes/Cursor/2023-11-21-integrates-gpt-v-into-chat-for-the-editor-this-means-you-can-take-screenshots-im|Integrates
+  GPT-V into chat for the editor]]'
+- '[[Changes/Cursor/2023-11-24-you-can-now-folder-in-the-chat-to-chat-with-a-folder-let-us-know-what-you-think|@folder
+  in the chat to chat with a folder]]'
 source_release: '[[Releases/Cursor/cursor-2023-11-27-0-17-0-https-cursor-com-changelog-0-17-0-871d6ce3|cursor-2023-11-27-0-17-0-https-cursor-com-changelog-0-17-0-871d6ce3]]'
 source_type: cursor_changelog
 theme: context-window
@@ -50,10 +57,10 @@ title: '@ folders: You can now use the @ symbol to reference specific folders!'
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # @ folders: You can now use the @ symbol to reference specific folders!
 
-<!-- chronolog:begin region="description" -->
-Cursor — Image Support, Interpreter Mode Beta, @ Folders: @ folders: You can now use the @ symbol to reference specific folders! We'll try to pick out the most relevant code snippets to show the AI.
+**Cursor** · 2023-11-27 · [[Themes/context-window|Context Window]] · [Official source](https://cursor.com/changelog/0-17-0) · from [[Releases/Cursor/cursor-2023-11-27-0-17-0-https-cursor-com-changelog-0-17-0-871d6ce3|Image Support, Interpreter Mode Beta, @ Folders]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -62,19 +69,27 @@ Cursor — Image Support, Interpreter Mode Beta, @ Folders: @ folders: You can n
 > Source: https://cursor.com/changelog/0-17-0
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2023-11-27-image-support-in-chat-you-can-now-drag-and-drop-images-into-the-chat-to-send-the|Image Support in Chat]] · Multimodal Input
+- [[Changes/Cursor/2023-11-27-interpreter-mode-beta-you-can-now-enable-interpreter-mode-in-the-more-tab-this-g|Interpreter Mode Beta: You can now enable Interpreter Mode in the "More" tab]] · Editor Experience
+- [[Changes/Cursor/2023-11-27-copilot-improvements-we-ve-spent-some-time-improving-the-latency-of-copilot-and|Copilot++ Improvements: We've spent some time improving the latency…]] · Interface Experience
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: context-window
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|cursor-2023-05-04-00d3b7]]
-- Lag Days: 207
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Context Window
+
+- Earlier: 2023-11-24 · Cursor · [[Changes/Cursor/2023-11-24-you-can-now-folder-in-the-chat-to-chat-with-a-folder-let-us-know-what-you-think|@folder in the chat to chat with a folder]]
+- Later: 2023-11-30 · Cursor · [[Changes/Cursor/2023-11-30-better-context-chat-in-particular-followups-are-now-smarter|Better context chat: in particular, followups are now smarter!]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended prompt length for project generation]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2023-11-27-4becb7&body=Card%3A%20Changes%2FCursor%2F2023-11-27-folders-you-can-now-use-the-symbol-to-reference-specific-folders-we-ll-try-to-pi.md%0ACard%20ID%3A%20cursor-2023-11-27-4becb7%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F0-17-0%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

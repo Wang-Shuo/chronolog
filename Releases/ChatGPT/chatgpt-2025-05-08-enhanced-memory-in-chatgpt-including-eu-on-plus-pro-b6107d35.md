@@ -1,10 +1,14 @@
 ---
 changes_count: 3
 date: '2025-05-08'
-machine_hash: 28f46d92495b1766258d40bcd561260e5500754364aba0f017ca3cd674ea9297
+description: 'ChatGPT release Enhanced Memory in ChatGPT (including EU) on Plus/Pro
+  on 2025-05-08: 3 tracked changes across Memory and Personalization, Reliability
+  and…'
+machine_hash: a98b54843dfaf3888281734c688768da538f8208fb499e7064ea46d22b46468d
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 3
   date: '2025-05-08'
   product: chatgpt
   product_name: ChatGPT
@@ -24,24 +28,26 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Enhanced Memory in ChatGPT (including EU) on Plus/Pro
+title: ChatGPT · Enhanced Memory in ChatGPT (including EU) on Plus/Pro
 version: Enhanced Memory in ChatGPT (including EU) on Plus/Pro
 ---
 
-# ChatGPT Enhanced Memory in ChatGPT (including EU) on Plus/Pro
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Enhanced Memory in ChatGPT (including EU) on Plus/Pro
+
+**ChatGPT** · 2025-05-08 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Enhanced memory rolling out to all Plus and Pro users (including the EU). The new memory features are available in the EEA (EU + UK), Switzerland, Norway, Iceland, or Liechtenstein. These features are OFF by default and must be enabled in Settings > Personalization > Reference Chat History.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 3
+Tracked 3 of 3 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- memory: [[Changes/ChatGPT/2025-05-08-saved-memories-and-chat-history-are-offered-only-to-plus-and-pro-accounts-free-t|• Saved memories and Chat history are offered only to Plus and Pro…]]
-- reliability-performance: [[Changes/ChatGPT/2025-05-08-outside-the-european-regions-listed-above-all-plus-and-pro-accounts-that-have-me-507581|• Outside the European regions listed above, all Plus and Pro accounts that have…]]
-- memory: [[Changes/ChatGPT/2025-05-08-enhanced-memory-rolling-out-to-all-plus-and-pro-users-including-the-eu-the-new-m|Enhanced memory rolling out to all Plus and Pro users (including the EU)]]
+- [[Changes/ChatGPT/2025-05-08-saved-memories-and-chat-history-are-offered-only-to-plus-and-pro-accounts-free-t|• Saved memories and Chat history are offered only to Plus and Pro…]] · Memory and Personalization
+- [[Changes/ChatGPT/2025-05-08-outside-the-european-regions-listed-above-all-plus-and-pro-accounts-that-have-me-507581|• Outside the European regions listed above, all Plus and Pro accounts that have…]] · Reliability and Performance
+- [[Changes/ChatGPT/2025-05-08-enhanced-memory-rolling-out-to-all-plus-and-pro-users-including-the-eu-the-new-m|Enhanced memory rolling out to all Plus and Pro users (including the EU)]] · Memory and Personalization
 <!-- chronolog:end -->

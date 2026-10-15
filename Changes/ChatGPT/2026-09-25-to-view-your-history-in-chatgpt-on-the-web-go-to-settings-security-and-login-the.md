@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2026-09-25-5908d0
 date: '2026-09-25'
+description: 'ChatGPT · 2026-09-25 · Safety and Privacy: To view your history in ChatGPT
+  on the web, go to Settings > Security and login, then select Security history. For…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|cursor-2023-04-16-f0e22a]]'
+  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
+    mode for opting out of storing any kind of data on our servers]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1258
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 65eaa11e7fee65dc791aecc15f059670c11405ca269f1f76c3b93465769da840
+machine_hash: 66ec225e15ee2ac76126a5cecc670c3b3f6a13d7669738d520aee7e5c798f5e0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,9 +54,12 @@ record:
     login…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-22-fixed-home-and-end-doing-nothing-in-the-config-settings-list-and-in-selection-li|claude-code-2026-09-22-4a568f]]'
-- '[[Changes/Cursor/2026-09-23-today-we-re-launching-two-cursor-bots-for-the-last-mile-of-shipping-code-rollout|cursor-2026-09-23-06ce09]]'
-- '[[Changes/ChatGPT/2026-09-25-we-re-introducing-security-history-a-new-way-to-review-recent-security-activity|chatgpt-2026-09-25-48984c]]'
+- '[[Changes/Claude Code/2026-09-22-fixed-home-and-end-doing-nothing-in-the-config-settings-list-and-in-selection-li|Fixed
+  Home and End doing nothing in the /config settings list and in selection…]]'
+- '[[Changes/Cursor/2026-09-23-today-we-re-launching-two-cursor-bots-for-the-last-mile-of-shipping-code-rollout|Cursor
+  launches two Cursor bots for the last mile of shipping code]]'
+- '[[Changes/ChatGPT/2026-09-25-we-re-introducing-security-history-a-new-way-to-review-recent-security-activity|ChatGPT
+  introduces security history, a new way to review recent security activity…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-25-security-history-in-chatgpt-5ecdb0cb|chatgpt-2026-09-25-security-history-in-chatgpt-5ecdb0cb]]'
 source_type: chatgpt_changelog
 theme: safety-privacy
@@ -61,10 +67,10 @@ title: To view your history in ChatGPT on the web, go to Settings  Security and 
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # To view your history in ChatGPT on the web, go to Settings > Security and login…
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Security history in ChatGPT: To view your history in ChatGPT on the web, go to Settings > Security and login, then select Security history. For help reviewing unfamiliar activity and securing your account, see: Keeping your OpenAI account secure.
+**ChatGPT** · 2026-09-25 · [[Themes/safety-privacy|Safety and Privacy]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-25-security-history-in-chatgpt-5ecdb0cb|Security history in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -73,19 +79,25 @@ ChatGPT — Security history in ChatGPT: To view your history in ChatGPT on the 
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2026-09-25-we-re-introducing-security-history-a-new-way-to-review-recent-security-activity|ChatGPT introduces security history, a new way to review recent security activity…]] · Safety and Privacy
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: safety-privacy
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|cursor-2023-04-16-f0e22a]]
-- Lag Days: 1258
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Safety and Privacy
+
+- Earlier: 2026-09-23 · Cursor · [[Changes/Cursor/2026-09-23-today-we-re-launching-two-cursor-bots-for-the-last-mile-of-shipping-code-rollout|Cursor launches two Cursor bots for the last mile of shipping code]]
+- Later: 2026-09-30 · Claude Code · [[Changes/Claude Code/2026-09-30-added-a-count-such-as-2-of-5-to-the-permission-prompt-when-several-permission-re|Added a count such as "2 of 5" to the permission prompt when several permission…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-25-5908d0&body=Card%3A%20Changes%2FChatGPT%2F2026-09-25-to-view-your-history-in-chatgpt-on-the-web-go-to-settings-security-and-login-the.md%0ACard%20ID%3A%20chatgpt-2026-09-25-5908d0%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

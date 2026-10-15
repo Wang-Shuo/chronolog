@@ -1,10 +1,13 @@
 ---
 changes_count: 0
 date: '2023-11-26'
-machine_hash: 8bc262563b03625f945522ad3ed2ed618fa4517e2bb6a1b3a2d5d6844d382b41
+description: 'Cursor release Interpreter Mode Windows Bug Fixes on 2023-11-26: no
+  tracked changes'
+machine_hash: bf0e5a675232f7d1afad8bd41b513fdac2f91158c5a9154638007ce67b1457c1
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2023-11-26'
   product: cursor
   product_name: Cursor
@@ -22,19 +25,21 @@ source_url: https://cursor.com/changelog/0-16-6-nightly-0-16-9-nightly
 tags:
 - release
 - cursor
-title: Cursor — Interpreter Mode Windows Bug Fixes
+title: Cursor · Interpreter Mode Windows Bug Fixes
 version: 0.16.6-nightly-0.16.9-nightly
 ---
 
-# Cursor Interpreter Mode Windows Bug Fixes
+<!-- chronolog:begin region="header" -->
+# Cursor · Interpreter Mode Windows Bug Fixes
+
+**Cursor** · 2023-11-26 · [Official release notes](https://cursor.com/changelog/0-16-6-nightly-0-16-9-nightly)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Fixes a bug where the interpreter mode just wouldn't run at all on Windows.
 
-[Official release notes](https://cursor.com/changelog/0-16-6-nightly-0-16-9-nightly)
-
-Tracked cards: 0
+Tracked 0 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

@@ -1,8 +1,12 @@
 ---
 card_id: chatgpt-2026-05-14-366d1d
 date: '2026-05-14'
+description: 'ChatGPT · 2026-05-14 · Mobile and Desktop: Codex is now available in
+  preview in the ChatGPT mobile app, so you can stay connected to active work from
+  your…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support 🥳]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1157
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: ac0d880236e6f75847c594ce4fde5309a4182085bce536bbec0170f501f606e4
+machine_hash: f1e5bca9d12e2f4914a1ad93204fb2760f785fff4f95f9503438a9daa152c591
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -90,9 +94,12 @@ record:
   title: Codex is now available in preview in the ChatGPT mobile app, so you can stay…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-29-the-agents-that-run-in-the-cursor-desktop-app-cli-and-web-app-are-now-accessible|cursor-2026-04-29-b8902d]]'
-- '[[Changes/Claude Code/2026-05-09-vscode-fixed-extension-failing-to-activate-on-windows|claude-code-2026-05-09-519945]]'
-- '[[Changes/ChatGPT/2026-05-12-free-users-in-chatgpt-will-now-see-more-inline-images-from-the-web-to-help-make|chatgpt-2026-05-12-635177]]'
+- '[[Changes/Cursor/2026-04-29-the-agents-that-run-in-the-cursor-desktop-app-cli-and-web-app-are-now-accessible|The
+  agents that run in the Cursor desktop app, CLI, and web app are now accessible…]]'
+- '[[Changes/Claude Code/2026-05-09-vscode-fixed-extension-failing-to-activate-on-windows|VSCode
+  Fixed extension failing to activate on Windows]]'
+- '[[Changes/ChatGPT/2026-05-12-free-users-in-chatgpt-will-now-see-more-inline-images-from-the-web-to-help-make|Free
+  users in ChatGPT will now see more inline images from the web to help make…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-05-14-codex-remote-access-from-the-chatgpt-mobile-app-50be5441|chatgpt-2026-05-14-codex-remote-access-from-the-chatgpt-mobile-app-50be5441]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -100,10 +107,10 @@ title: Codex is now available in preview in the ChatGPT mobile app, so you can s
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Codex is now available in preview in the ChatGPT mobile app, so you can stay…
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Codex remote access from the ChatGPT mobile app: Codex is now available in preview in the ChatGPT mobile app, so you can stay connected to active work from your phone while Codex continues running on the connected Mac host. From mobile, you can start or continue threads, answer questions, change direction, approve actions, review what Codex found, and move across connected hosts without stepping away from the work. That means you can keep an investigation moving, make a decision when Codex reaches a fork, or spin up a new idea before you are back at your desk. You can currently connect your phone to Codex running on macOS.The mobile experience loads live context from the machine where Codex is operating, including project context, approvals, plugins, screenshots, terminal output, diffs, and test results. Codex in the ChatGPT mobile app is rolling out on iOS and Android across all plans, including Free and Go, in supported regions. To try it, update both the ChatGPT mobile app and the Codex app on macOS. Setup starts in the Codex App on the host and continues in ChatGPT after scanning a QR code; the host must remain awake, online, and running Codex for remote access to continue.Learn more in Remote connections.
+**ChatGPT** · 2026-05-14 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-05-14-codex-remote-access-from-the-chatgpt-mobile-app-50be5441|Codex remote access from the ChatGPT mobile app]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -112,19 +119,23 @@ ChatGPT — Codex remote access from the ChatGPT mobile app: Codex is now availa
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: mobile-desktop
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]
-- Lag Days: 1157
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Mobile and Desktop
+
+- Earlier: 2026-05-12 · ChatGPT · [[Changes/ChatGPT/2026-05-12-free-users-in-chatgpt-will-now-see-more-inline-images-from-the-web-to-help-make|Free users in ChatGPT will now see more inline images from the web to help make…]]
+- Later: 2026-05-14 · ChatGPT · [[Changes/ChatGPT/2026-05-14-generated-images-will-continue-to-appear-in-the-images-tab-storage-management-is|Generated images will continue to appear in the Images tab]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-05-14-366d1d&body=Card%3A%20Changes%2FChatGPT%2F2026-05-14-codex-is-now-available-in-preview-in-the-chatgpt-mobile-app-so-you-can-stay-conn.md%0ACard%20ID%3A%20chatgpt-2026-05-14-366d1d%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

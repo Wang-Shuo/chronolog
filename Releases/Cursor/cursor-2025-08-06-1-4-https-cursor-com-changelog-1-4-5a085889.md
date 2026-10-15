@@ -1,10 +1,13 @@
 ---
 changes_count: 3
 date: '2025-08-06'
-machine_hash: e596bc41bb02304d68dac6610536af88ca54fbce85bc367a04a372b5dc4fb625
+description: 'Cursor release Improved Agent tools, steerability, and usage visibility
+  on 2025-08-06: 3 tracked changes across Agent Mode, Context Window, Files and Data'
+machine_hash: 8a58ce1cd1f46b34cfc6a43100fae756ce07c23b2b5990bb74b5856d9cc2d47b
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 24
   date: '2025-08-06'
   product: cursor
   product_name: Cursor
@@ -21,24 +24,26 @@ source_url: https://cursor.com/changelog/1-4
 tags:
 - release
 - cursor
-title: Cursor — Improved Agent tools, steerability, and usage visibility
+title: Cursor · Improved Agent tools, steerability, and usage visibility
 version: '1.4'
 ---
 
-# Cursor Improved Agent tools, steerability, and usage visibility
+<!-- chronolog:begin region="header" -->
+# Cursor · Improved Agent tools, steerability, and usage visibility
+
+**Cursor** · 2025-08-06 · [Official release notes](https://cursor.com/changelog/1-4)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 #More Agent steerability
 
-[Official release notes](https://cursor.com/changelog/1-4)
-
-Tracked cards: 3
+Tracked 3 of 24 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- file-data: [[Changes/Cursor/2025-08-06-read-file-now-reads-full-files-when-appropriate-and-the-2mb-cap-is-removed|Read file: Now reads full files when appropriate and the 2MB cap is removed]]
-- agent-mode: [[Changes/Cursor/2025-08-06-sending-messages-while-cursor-is-working-now-does-a-better-job-of-steering-the-a|Sending messages while Cursor is working now does a better job of steering the agent]]
-- context-window: [[Changes/Cursor/2025-08-06-agents-are-significantly-improved-when-operating-across-large-codebases-context|Agents are significantly improved when operating across large codebases]]
+- [[Changes/Cursor/2025-08-06-read-file-now-reads-full-files-when-appropriate-and-the-2mb-cap-is-removed|Read file: Now reads full files when appropriate and the 2MB cap is removed]] · Files and Data
+- [[Changes/Cursor/2025-08-06-sending-messages-while-cursor-is-working-now-does-a-better-job-of-steering-the-a|Sending messages while Cursor is working now does a better job of steering the agent]] · Agent Mode
+- [[Changes/Cursor/2025-08-06-agents-are-significantly-improved-when-operating-across-large-codebases-context|Agents are significantly improved when operating across large codebases]] · Context Window
 <!-- chronolog:end -->

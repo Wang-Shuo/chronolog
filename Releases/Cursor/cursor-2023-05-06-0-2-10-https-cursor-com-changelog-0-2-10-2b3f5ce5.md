@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2023-05-06'
-machine_hash: 7213f968ac743c2022336ec149c24c54234df13e62372b2a1afe8053cd98f859
+description: 'Cursor release Crucial Bug Fixes (2023-05-06) on 2023-05-06: 1 tracked
+  change across Editor Experience'
+machine_hash: b42d223b18545c26099f98a42444aa30af03e68ebb95d05989cb43742205b41b
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 3
   date: '2023-05-06'
   product: cursor
   product_name: Cursor
@@ -21,22 +24,24 @@ source_url: https://cursor.com/changelog/0-2-10
 tags:
 - release
 - cursor
-title: Cursor — Crucial Bug Fixes (2023-05-06)
+title: Cursor · Crucial Bug Fixes (2023-05-06)
 version: 0.2.10
 ---
 
-# Cursor Crucial Bug Fixes (2023-05-06)
+<!-- chronolog:begin region="header" -->
+# Cursor · Crucial Bug Fixes (2023-05-06)
+
+**Cursor** · 2023-05-06 · [Official release notes](https://cursor.com/changelog/0-2-10)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
-#Bug Fixes
+1 tracked change across 1 theme: Editor Experience.
 
-[Official release notes](https://cursor.com/changelog/0-2-10)
-
-Tracked cards: 1
+Tracked 1 of 3 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- editor-experience: [[Changes/Cursor/2023-05-06-rarely-pressing-enter-in-the-editor-does-nothing|Rarely, pressing Enter in the editor does nothing]]
+- [[Changes/Cursor/2023-05-06-rarely-pressing-enter-in-the-editor-does-nothing|Rarely, pressing Enter in the editor does nothing]] · Editor Experience
 <!-- chronolog:end -->

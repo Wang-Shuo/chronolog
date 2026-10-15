@@ -185,7 +185,14 @@ def run_pipeline(
                                 (paths.analyze_b, analysis_b), (paths.silence, silence)):
                 write_json(dest, value)
             conflicts = write_run(run_id, root=stage, reconcile=reconcile,
-                                  reconcile_products=reconcile_products)
+                                  reconcile_products=reconcile_products, config_root=root)
+            # Non-blocking list of pages kept on a legacy skeleton because of human text.
+            migration_pending = staged.run_dir / "writer-migration-pending.json"
+            manifest["writer_migration_pending"] = (
+                len(read_json(migration_pending)) if migration_pending.exists() else 0
+            )
+            if migration_pending.exists():
+                shutil.copy2(migration_pending, paths.run_dir / migration_pending.name)
             if conflicts:
                 write_json(paths.run_dir / "04-validated/writer-conflicts.json", conflicts)
                 raise ValueError("writer conflicts; staged changes were not published")

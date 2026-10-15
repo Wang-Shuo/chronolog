@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2026-03-17-670e29
 date: '2026-03-17'
+description: 'ChatGPT · 2026-03-17 · Model Support: Instant – fast responses for everyday
+  questions'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We
+    made more improvements to the ChatGPT model!]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1163
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: b751e24f14e542f74ebbb96465e04f87d40ca77fb80b1eb926a9b50c20b7727c
+machine_hash: 7f480b364750bb851be8591d577ecbba0e79ba56d5e58854149c5740e84cb5c0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,9 +41,12 @@ record:
   title: Instant – fast responses for everyday questions
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-04-re-introduced-the-ultrathink-keyword-to-enable-high-effort-for-the-next-turn|claude-code-2026-03-04-7ebdae]]'
-- '[[Changes/ChatGPT/2026-03-11-as-of-march-11-2026-gpt-5-1-models-are-no-longer-available-in-chatgpt-this-appli|chatgpt-2026-03-11-df3207]]'
-- '[[Changes/ChatGPT/2026-03-16-we-re-rolling-out-an-update-to-gpt-5-3-instant-that-improves-follow-up-tone-and|chatgpt-2026-03-16-e8105e]]'
+- '[[Changes/Claude Code/2026-03-04-re-introduced-the-ultrathink-keyword-to-enable-high-effort-for-the-next-turn|Re-introduced
+  the "ultrathink" keyword to enable high effort for the next turn]]'
+- '[[Changes/ChatGPT/2026-03-11-as-of-march-11-2026-gpt-5-1-models-are-no-longer-available-in-chatgpt-this-appli|As
+  of March 11, 2026, GPT-5.1 models are no longer available in ChatGPT.This applies…]]'
+- '[[Changes/ChatGPT/2026-03-16-we-re-rolling-out-an-update-to-gpt-5-3-instant-that-improves-follow-up-tone-and|ChatGPT
+  rolls out an update to GPT-5.3 Instant that improves follow-up tone…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-17-updates-to-the-model-picker-in-chatgpt-764a9949|chatgpt-2026-03-17-updates-to-the-model-picker-in-chatgpt-764a9949]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -48,10 +54,10 @@ title: Instant – fast responses for everyday questions
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Instant – fast responses for everyday questions
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Updates to the model picker in ChatGPT: Instant – fast responses for everyday questions
+**ChatGPT** · 2026-03-17 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-03-17-updates-to-the-model-picker-in-chatgpt-764a9949|Updates to the model picker in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -60,19 +66,28 @@ ChatGPT — Updates to the model picker in ChatGPT: Instant – fast responses f
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2026-03-17-we-ve-simplified-the-model-picker-to-make-it-easier-to-choose-the-right-level-of|We’ve simplified the model picker to make it easier to choose the right level of reasoning]] · Enterprise and Administration
+- [[Changes/ChatGPT/2026-03-17-pro-the-most-advanced-reasoning-models|Pro – the most advanced reasoning models]] · Model Support
+- [[Changes/ChatGPT/2026-03-17-thinking-deeper-reasoning-for-more-complex-tasks|Thinking – deeper reasoning for more complex tasks]] · Model Support
+- [[Changes/ChatGPT/2026-03-17-the-auto-functionality-can-be-accessed-by-clicking-configure-in-the-model-picker|The Auto functionality can be accessed by clicking Configure in the model picker…]] · Interface Experience
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: model-support
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]
-- Lag Days: 1163
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Model Support
+
+- Earlier: 2026-03-16 · ChatGPT · [[Changes/ChatGPT/2026-03-16-we-re-rolling-out-an-update-to-gpt-5-3-instant-that-improves-follow-up-tone-and|ChatGPT rolls out an update to GPT-5.3 Instant that improves follow-up tone…]]
+- Later: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-increased-default-maximum-output-token-limits-for-claude-opus-4-6-to-64k-tokens|Increased default maximum output token limits for Claude Opus 4.6 to 64k tokens…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We made more improvements to the ChatGPT model!]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-03-17-670e29&body=Card%3A%20Changes%2FChatGPT%2F2026-03-17-instant-fast-responses-for-everyday-questions.md%0ACard%20ID%3A%20chatgpt-2026-03-17-670e29%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

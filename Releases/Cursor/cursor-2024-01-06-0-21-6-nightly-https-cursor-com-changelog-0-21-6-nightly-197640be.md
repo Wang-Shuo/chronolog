@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2024-01-06'
-machine_hash: d11ffa779444a041237a359f4bb5036d3e0b6a0c5dc14cb5f52794225c59bbf3
+description: 'Cursor release Better Remote Support on 2024-01-06: 1 tracked change
+  across Developer Workflow'
+machine_hash: 83fd4651a2b92b7e3ef4c636fecb71108106c2032cadc3d51741f755b29a0366
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2024-01-06'
   product: cursor
   product_name: Cursor
@@ -21,22 +24,24 @@ source_url: https://cursor.com/changelog/0-21-6-nightly
 tags:
 - release
 - cursor
-title: Cursor — Better Remote Support
+title: Cursor · Better Remote Support
 version: 0.21.6-nightly
 ---
 
-# Cursor Better Remote Support
+<!-- chronolog:begin region="header" -->
+# Cursor · Better Remote Support
+
+**Cursor** · 2024-01-06 · [Official release notes](https://cursor.com/changelog/0-21-6-nightly)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 WSL and Dev Containers should now work properly.
 
-[Official release notes](https://cursor.com/changelog/0-21-6-nightly)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- developer-workflow: [[Changes/Cursor/2024-01-06-wsl-and-dev-containers-should-now-work-properly|WSL and Dev Containers should now work properly]]
+- [[Changes/Cursor/2024-01-06-wsl-and-dev-containers-should-now-work-properly|WSL and Dev Containers should now work properly]] · Developer Workflow
 <!-- chronolog:end -->

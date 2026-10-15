@@ -54,3 +54,10 @@ python -m _scripts.operations --mode generate --apply \
 ## 结论
 
 通过。待交付 PR 的最终 head 获人工批准、`quality` 检查成功并合并部署后，再以公共站点校验记为上线。
+
+## 上线记录（2026-10-15 补记）
+
+- 交付 PR：[PR #7](https://github.com/Wang-Shuo/chronolog/pull/7)，由 Actions 机器人创建；Wang-Shuo 批准最终 head `1e7be66`，合并提交 `8373f65`。
+- 检查：dispatch 的 Quality 运行 38687640803 成功；`pull_request` 事件的运行 38687642080 因机器人创建 PR 而处于 action_required，经 API 批准后同样成功，合并状态转为 CLEAN。
+- 部署：运行 38691323314 的 build 与 deploy 均成功；公开 `deployment.json` 的 `commit` 为 `8373f6502c94239c04566adac3be6bc086ff66a4`，`built_at` 2026-10-15T06:16:30Z。抽查 Cursor Projects 卡片页 `<title>` 为 "Cursor launches Projects"，`Themes/agent-mode` 时间线显示新标题。
+- 结论：已上线。

@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2026-02-13'
-machine_hash: 705d904778fb8d0ee8a149a0a62bab5d8d36a4e88fe75ca8ed6f3ba615e071bc
+description: 'ChatGPT release Retiring GPT-4o and other legacy models on 2026-02-13:
+  1 tracked change across Model Support'
+machine_hash: 3707d86ea98026ac2805770df159fb80605a3589d13d06f0ff88b9ec918159d2
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 1
   date: '2026-02-13'
   product: chatgpt
   product_name: ChatGPT
@@ -24,22 +27,24 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — Retiring GPT-4o and other legacy models
+title: ChatGPT · Retiring GPT-4o and other legacy models
 version: Retiring GPT-4o and other legacy models
 ---
 
-# ChatGPT Retiring GPT-4o and other legacy models
+<!-- chronolog:begin region="header" -->
+# ChatGPT · Retiring GPT-4o and other legacy models
+
+**ChatGPT** · 2026-02-13 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 As previously announced, we have retired GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini from ChatGPT. We are also retiring GPT-5 (Instant and Thinking), as previously announced. There are no API changes at this time. For details, see our blog post and Help Center.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2026-02-13-as-previously-announced-we-have-retired-gpt-4o-gpt-4-1-gpt-4-1-mini-and-openai-o|As previously announced, we have retired GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI…]]
+- [[Changes/ChatGPT/2026-02-13-as-previously-announced-we-have-retired-gpt-4o-gpt-4-1-gpt-4-1-mini-and-openai-o|As previously announced, we have retired GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI…]] · Model Support
 <!-- chronolog:end -->

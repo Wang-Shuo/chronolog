@@ -1,10 +1,13 @@
 ---
 changes_count: 0
 date: '2023-09-10'
-machine_hash: 4d24215096bbe0fbfc12fb01203ac6eaf5e2506a6e664f6a157ce78b13dc1ff1
+description: 'Cursor release Fix bug in @ symbol ranking on 2023-09-10: no tracked
+  changes'
+machine_hash: 4964fad4b091c7498f489eaf0c3535be2d595fde2267baceceb6678ecd787883
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2023-09-10'
   product: cursor
   product_name: Cursor
@@ -21,19 +24,21 @@ source_url: https://cursor.com/changelog/0-10-5-nightly
 tags:
 - release
 - cursor
-title: Cursor — Fix bug in @ symbol ranking
+title: Cursor · Fix bug in @ symbol ranking
 version: 0.10.5-nightly
 ---
 
-# Cursor Fix bug in @ symbol ranking
+<!-- chronolog:begin region="header" -->
+# Cursor · Fix bug in @ symbol ranking
+
+**Cursor** · 2023-09-10 · [Official release notes](https://cursor.com/changelog/0-10-5-nightly)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Fixes a bug where the @ symbol would rank suboptimally.
 
-[Official release notes](https://cursor.com/changelog/0-10-5-nightly)
-
-Tracked cards: 0
+Tracked 0 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

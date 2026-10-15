@@ -1,8 +1,12 @@
 ---
 card_id: cursor-2026-06-17-efeb40
 date: '2026-06-17'
+description: 'Cursor · 2026-06-17 · Reliability and Performance: Your environment
+  is captured in a reusable snapshot, so future cloud agents start up faster with
+  the ability…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|chatgpt-2022-12-15-9c6f9c]]'
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
+    performance: Among other improvements, users will notice that ChatGPT is now…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1280
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 61c35364ce647c5bc20a802af252d9167fc36f6116c41fdf57264abf4c94d48c
+machine_hash: b262ac4964e6ab68f9dbae6e47f87bb41d4024cf9d782b41ac82f61ceb773701
 product: cursor
 product_name: Cursor
 record:
@@ -57,9 +61,12 @@ record:
     start up…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-17-with-scheduled-tasks-users-can-ask-chatgpt-to-send-reminders-handle-recurring-wo|chatgpt-2026-06-17-09675e]]'
-- '[[Changes/ChatGPT/2026-06-17-all-tasks-are-faster-and-more-reliable|chatgpt-2026-06-17-281370]]'
-- '[[Changes/Claude Code/2026-06-17-improved-auto-retry-api-connection-drops-mid-thinking-now-automatically-retry-in|claude-code-2026-06-17-acfb36]]'
+- '[[Changes/ChatGPT/2026-06-17-with-scheduled-tasks-users-can-ask-chatgpt-to-send-reminders-handle-recurring-wo|With
+  scheduled tasks, users can ask ChatGPT to send reminders, handle recurring…]]'
+- '[[Changes/ChatGPT/2026-06-17-all-tasks-are-faster-and-more-reliable|All tasks are
+  faster and more reliable]]'
+- '[[Changes/Claude Code/2026-06-17-improved-auto-retry-api-connection-drops-mid-thinking-now-automatically-retry-in|Improved
+  auto-retry: API connection drops mid-thinking now automatically retry…]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-17-3-7-https-cursor-com-changelog-cloud-in-agents-window-d40d64fa|cursor-2026-06-17-3-7-https-cursor-com-changelog-cloud-in-agents-window-d40d64fa]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -68,10 +75,10 @@ title: Your environment is captured in a reusable snapshot, so future cloud agen
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Your environment is captured in a reusable snapshot, so future cloud agents start up…
 
-<!-- chronolog:begin region="description" -->
-Cursor — Cloud Environment Setup and Cloud Subagents in Agents Window: Your environment is captured in a reusable snapshot, so future cloud agents start up faster with the ability to test changes by running your software. It can iterate over long time horizons until outputs are verified. This benefits your entire team when committed to .cursor/environment.json.
+**Cursor** · 2026-06-17 · [[Themes/reliability-performance|Reliability and Performance]] · [Official source](https://cursor.com/changelog/cloud-in-agents-window) · from [[Releases/Cursor/cursor-2026-06-17-3-7-https-cursor-com-changelog-cloud-in-agents-window-d40d64fa|Cloud Environment Setup and Cloud Subagents in Agents Window]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -80,19 +87,28 @@ Cursor — Cloud Environment Setup and Cloud Subagents in Agents Window: Your en
 > Source: https://cursor.com/changelog/cloud-in-agents-window
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2026-06-17-this-is-especially-useful-for-isolating-long-running-or-parallel-work-like-fixin|This is especially useful for isolating long-running or parallel work like fixing…]] · Editor Experience
+- [[Changes/Cursor/2026-06-17-cursor-can-now-help-you-set-up-your-dev-environment-in-the-cloud-in-less-than-10|Cursor can now help you set up your dev environment in the cloud in less than 10 minutes]] · Developer Workflow
+- [[Changes/Cursor/2026-06-17-use-in-cloud-to-spin-up-a-cloud-subagent-in-its-own-vm-to-work-on-the-next-task|Use /in-cloud to spin up a cloud subagent in its own VM to work on the next task you…]] · Agent Mode
+- [[Changes/Cursor/2026-06-17-this-release-introduces-updates-to-cloud-agents-in-the-agents-window-of-the-curs|Cursor introduces updates to cloud agents in the Agents Window of the Cursor desktop app]] · Mobile and Desktop
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: reliability-performance
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|chatgpt-2022-12-15-9c6f9c]]
-- Lag Days: 1280
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Reliability and Performance
+
+- Earlier: 2026-06-17 · Claude Code · [[Changes/Claude Code/2026-06-17-improved-auto-retry-api-connection-drops-mid-thinking-now-automatically-retry-in|Improved auto-retry: API connection drops mid-thinking now automatically retry…]]
+- Later: 2026-06-20 · Claude Code · [[Changes/Claude Code/2026-06-20-the-stream-stall-hint-now-reads-waiting-for-api-response-will-retry-in-instead-o|The stream-stall hint now reads "Waiting for API response · will retry in …" instead…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2026-06-17-efeb40&body=Card%3A%20Changes%2FCursor%2F2026-06-17-your-environment-is-captured-in-a-reusable-snapshot-so-future-cloud-agents-start.md%0ACard%20ID%3A%20cursor-2026-06-17-efeb40%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2Fcloud-in-agents-window%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

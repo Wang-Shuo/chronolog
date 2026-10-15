@@ -1,10 +1,13 @@
 ---
 changes_count: 0
 date: '2023-09-09'
-machine_hash: 3a8bde43adeb3b7bf6ff6292b4dbef90caa63fbf2e37bb5556967cde4022cef3
+description: 'Cursor release Reduce extension recommendations on 2023-09-09: no tracked
+  changes'
+machine_hash: 088f2be0f3f34d9afa19642f9dcf8ec1f14f98674cc4c09fe3f4e3c779928696
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2023-09-09'
   product: cursor
   product_name: Cursor
@@ -22,19 +25,21 @@ source_url: https://cursor.com/changelog/0-10-2-0-10-3
 tags:
 - release
 - cursor
-title: Cursor — Reduce extension recommendations
+title: Cursor · Reduce extension recommendations
 version: 0.10.2-0.10.3
 ---
 
-# Cursor Reduce extension recommendations
+<!-- chronolog:begin region="header" -->
+# Cursor · Reduce extension recommendations
+
+**Cursor** · 2023-09-09 · [Official release notes](https://cursor.com/changelog/0-10-2-0-10-3)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Fixes an issue where some users were getting extension popup recommendations too often.
 
-[Official release notes](https://cursor.com/changelog/0-10-2-0-10-3)
-
-Tracked cards: 0
+Tracked 0 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

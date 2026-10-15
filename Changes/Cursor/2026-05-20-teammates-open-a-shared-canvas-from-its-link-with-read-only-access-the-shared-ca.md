@@ -1,8 +1,12 @@
 ---
 card_id: cursor-2026-05-20-3794f7
 date: '2026-05-20'
+description: 'Cursor · 2026-05-20 · Enterprise and Administration: Teammates open
+  a shared canvas from its link with read-only access. The Shared Canvases page in
+  the Cursor…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|chatgpt-2025-06-12-1cc56f]]'
+  first_in_tracked: '[[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise
+    and Edu rollout coming soon]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 342
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 813d622eeca112f3963b748b86187979a13aba1d7285ef5cce46134fad123c6a
+machine_hash: e9fa0c8180fba3b5643d19df428401716f5872dad427ffae1320da2fd5043d06
 product: cursor
 product_name: Cursor
 record:
@@ -55,9 +59,12 @@ record:
   title: Teammates open a shared canvas from its link with read-only access
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-08-added-claude-code-enable-feedback-survey-for-otel-to-re-enable-the-session-quali|claude-code-2026-05-08-cbfe28]]'
-- '[[Changes/Cursor/2026-05-11-teams-admins-and-individual-plan-users-can-now-customize-the-effort-level-bugbot|cursor-2026-05-11-91c39e]]'
-- '[[Changes/Claude Code/2026-05-13-added-anthropic-workspace-id-environment-variable-for-workload-identity-federati|claude-code-2026-05-13-fdd0e0]]'
+- '[[Changes/Claude Code/2026-05-08-added-claude-code-enable-feedback-survey-for-otel-to-re-enable-the-session-quali|Added
+  CLAUDE_CODE_ENABLE_FEEDBACK_SURVEY_FOR_OTEL to re-enable the session quality…]]'
+- '[[Changes/Cursor/2026-05-11-teams-admins-and-individual-plan-users-can-now-customize-the-effort-level-bugbot|Teams
+  admins and Individual plan users can now customize the effort level Bugbot…]]'
+- '[[Changes/Claude Code/2026-05-13-added-anthropic-workspace-id-environment-variable-for-workload-identity-federati|Added
+  ANTHROPIC_WORKSPACE_ID environment variable for workload identity federation]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-20-3-5-https-cursor-com-changelog-shared-canvases-68b3b2da|cursor-2026-05-20-3-5-https-cursor-com-changelog-shared-canvases-68b3b2da]]'
 source_type: cursor_changelog
 theme: enterprise-admin
@@ -65,10 +72,10 @@ title: Teammates open a shared canvas from its link with read-only access
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Teammates open a shared canvas from its link with read-only access
 
-<!-- chronolog:begin region="description" -->
-Cursor — Shared Canvases and /loop Skill: Teammates open a shared canvas from its link with read-only access. The Shared Canvases page in the Cursor Dashboard lists the canvases you've published, so you can manage your own shares. Shared canvases are available on Pro, Teams, and Enterprise plans.
+**Cursor** · 2026-05-20 · [[Themes/enterprise-admin|Enterprise and Administration]] · [Official source](https://cursor.com/changelog/shared-canvases) · from [[Releases/Cursor/cursor-2026-05-20-3-5-https-cursor-com-changelog-shared-canvases-68b3b2da|Shared Canvases and /loop Skill]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -77,19 +84,28 @@ Cursor — Shared Canvases and /loop Skill: Teammates open a shared canvas from 
 > Source: https://cursor.com/changelog/shared-canvases
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2026-05-20-you-can-now-share-canvases-from-cursor-with-your-teammates|Share canvases from Cursor with your teammates]] · Collaboration
+- [[Changes/Cursor/2026-05-20-use-the-loop-skill-for-local-long-running-agents-for-example-you-can-ask-it-to-c|Use the /loop skill for local long-running agents]] · Agent Mode
+- [[Changes/Cursor/2026-05-20-with-loop-cursor-can-run-a-prompt-repeatedly-on-a-local-schedule-until-a-certain|With /loop, Cursor can run a prompt repeatedly on a local schedule, until a certain…]] · Agent Mode
+- [[Changes/Cursor/2026-05-20-canvases-are-interactive-artifacts-created-by-agents-like-reports-dashboards-and|Canvases are interactive artifacts created by agents, like reports, dashboards…]] · Files and Data
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: enterprise-admin
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|chatgpt-2025-06-12-1cc56f]]
-- Lag Days: 342
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Enterprise and Administration
+
+- Earlier: 2026-05-13 · Claude Code · [[Changes/Claude Code/2026-05-13-added-anthropic-workspace-id-environment-variable-for-workload-identity-federati|Added ANTHROPIC_WORKSPACE_ID environment variable for workload identity federation]]
+- Later: 2026-06-04 · ChatGPT · [[Changes/ChatGPT/2026-06-04-we-re-beginning-to-roll-out-ads-for-users-on-free-and-go-plans-in-the-uk-plus-pr|We're beginning to roll out ads for users on Free and Go plans in the UK]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise and Edu rollout coming soon]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2026-05-20-3794f7&body=Card%3A%20Changes%2FCursor%2F2026-05-20-teammates-open-a-shared-canvas-from-its-link-with-read-only-access-the-shared-ca.md%0ACard%20ID%3A%20cursor-2026-05-20-3794f7%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2Fshared-canvases%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

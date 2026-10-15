@@ -1,8 +1,11 @@
 ---
 card_id: chatgpt-2023-05-12-bc9110
 date: '2023-05-12'
+description: 'ChatGPT · 2023-05-12 · Apps and Integrations: In the “Plugins” dropdown,
+  click “Plugin Store” to install and enable new plugins'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
+    can join the waitlist to try plugins here]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 50
   relation: same-theme-chronology
@@ -13,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 3c9c907d026e7182e1a4379773f71cb67d6f8da160ecd35ccc4c615ca3d6f1f6
+machine_hash: 573844ed2d8cc067684c2dbe75015c910bba11b56dfcda0907fe8972b45ce35b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,9 +43,12 @@ record:
     plugins
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-b62dc8|chatgpt-2023-03-23-b62dc8]]'
-- '[[Changes/Cursor/2023-05-04-one-click-extension-import-from-vs-code-beta-as-a-highly-requested-feature-we-re|cursor-2023-05-04-08653a]]'
-- '[[Changes/ChatGPT/2023-05-12-plugins-try-a-new-version-of-chatgpt-that-knows-when-and-how-to-use-third-party|chatgpt-2023-05-12-14e649]]'
+- '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-b62dc8|We
+  are announcing experimental support for AI plugins in ChatGPT]]'
+- '[[Changes/Cursor/2023-05-04-one-click-extension-import-from-vs-code-beta-as-a-highly-requested-feature-we-re|One-Click
+  Extension Import from VS Code (beta)]]'
+- '[[Changes/ChatGPT/2023-05-12-plugins-try-a-new-version-of-chatgpt-that-knows-when-and-how-to-use-third-party|Plugins:
+  Try a new version of ChatGPT that knows when and how to use third-party…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-05-12-web-browsing-and-plugins-are-now-rolling-out-in-beta-5dbe86e7|chatgpt-2023-05-12-web-browsing-and-plugins-are-now-rolling-out-in-beta-5dbe86e7]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -50,10 +56,10 @@ title: In the “Plugins” dropdown, click “Plugin Store” to install and en
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # In the “Plugins” dropdown, click “Plugin Store” to install and enable new plugins
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Web browsing and Plugins are now rolling out in beta: In the “Plugins” dropdown, click “Plugin Store” to install and enable new plugins
+**ChatGPT** · 2023-05-12 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-05-12-web-browsing-and-plugins-are-now-rolling-out-in-beta-5dbe86e7|Web browsing and Plugins are now rolling out in beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -62,19 +68,27 @@ ChatGPT — Web browsing and Plugins are now rolling out in beta: In the “Plug
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2023-05-12-plugins-try-a-new-version-of-chatgpt-that-knows-when-and-how-to-use-third-party|Plugins: Try a new version of ChatGPT that knows when and how to use third-party…]] · Apps and Integrations
+- [[Changes/ChatGPT/2023-05-12-for-more-information-on-our-rollout-process-please-check-out-the-article-here-in|For more information on our rollout process, please check out the article here]] · Context Window
+- [[Changes/ChatGPT/2023-05-12-web-browsing-try-a-new-version-of-chatgpt-that-knows-when-and-how-to-browse-the|Web browsing: Try a new version of ChatGPT that knows when and how to browse…]] · Search and Browsing
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: apps-integrations
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]
-- Lag Days: 50
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Apps and Integrations
+
+- Earlier: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-one-click-extension-import-from-vs-code-beta-as-a-highly-requested-feature-we-re|One-Click Extension Import from VS Code (beta)]]
+- Later: 2023-05-17 · Cursor · [[Changes/Cursor/2023-05-17-you-can-pin-custom-extensions-to-your-activity-bar-in-the-top-left|You can Pin custom extensions to your activity bar in the top left]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-05-12-bc9110&body=Card%3A%20Changes%2FChatGPT%2F2023-05-12-in-the-plugins-dropdown-click-plugin-store-to-install-and-enable-new-plugins.md%0ACard%20ID%3A%20chatgpt-2023-05-12-bc9110%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

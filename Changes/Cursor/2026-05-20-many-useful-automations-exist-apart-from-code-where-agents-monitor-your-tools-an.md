@@ -1,8 +1,12 @@
 ---
 card_id: cursor-2026-05-20-ae371e
 date: '2026-05-20'
+description: 'Cursor · 2026-05-20 · Automation and Scheduling: Many useful automations
+  exist apart from code, where agents monitor your tools and act on key signals. You
+  can…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now|chatgpt-2025-12-17-d1d8fe]]'
+  first_in_tracked: '[[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now|Tasks
+    let you set up automated prompts that ChatGPT can run for you]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 154
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: f3a3e0c7f56369599035a99a2acad570f7f6239d07d8d7e8577c47d702a95bcc
+machine_hash: f6a5f9534286cba3da8def5a36d27840f92bd0724051a2449b8f9688ad4f8244
 product: cursor
 product_name: Cursor
 record:
@@ -50,9 +54,12 @@ record:
     tools…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-01-claude-code-skill-activated-opentelemetry-event-now-fires-for-user-typed-slash-c|claude-code-2026-05-01-2a9a10]]'
-- '[[Changes/Cursor/2026-05-20-for-the-next-7-days-all-agent-runs-for-newly-created-automations-are-50-off|cursor-2026-05-20-24e41b]]'
-- '[[Changes/Cursor/2026-05-20-a-lot-of-engineering-work-spans-more-than-one-codebase-you-can-now-attach-multip|cursor-2026-05-20-426abf]]'
+- '[[Changes/Claude Code/2026-05-01-claude-code-skill-activated-opentelemetry-event-now-fires-for-user-typed-slash-c|claude_code.skill_activated
+  OpenTelemetry event now fires for user-typed slash…]]'
+- '[[Changes/Cursor/2026-05-20-for-the-next-7-days-all-agent-runs-for-newly-created-automations-are-50-off|For
+  the next 7 days, all agent runs for newly created automations are 50% off]]'
+- '[[Changes/Cursor/2026-05-20-a-lot-of-engineering-work-spans-more-than-one-codebase-you-can-now-attach-multip|A
+  lot of engineering work spans more than one codebase]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-20-3-5-https-cursor-com-changelog-05-20-26-f6af79ab|cursor-2026-05-20-3-5-https-cursor-com-changelog-05-20-26-f6af79ab]]'
 source_type: cursor_changelog
 theme: automation-scheduling
@@ -60,10 +67,10 @@ title: Many useful automations exist apart from code, where agents monitor your 
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Many useful automations exist apart from code, where agents monitor your tools…
 
-<!-- chronolog:begin region="description" -->
-Cursor — Improvements to Cursor Automations: Many useful automations exist apart from code, where agents monitor your tools and act on key signals. You can now create automations without an attached repository.
+**Cursor** · 2026-05-20 · [[Themes/automation-scheduling|Automation and Scheduling]] · [Official source](https://cursor.com/changelog/05-20-26) · from [[Releases/Cursor/cursor-2026-05-20-3-5-https-cursor-com-changelog-05-20-26-f6af79ab|Improvements to Cursor Automations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -72,19 +79,28 @@ Cursor — Improvements to Cursor Automations: Many useful automations exist apa
 > Source: https://cursor.com/changelog/05-20-26
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2026-05-20-for-the-next-7-days-all-agent-runs-for-newly-created-automations-are-50-off|For the next 7 days, all agent runs for newly created automations are 50% off]] · Automation and Scheduling
+- [[Changes/Cursor/2026-05-20-a-lot-of-engineering-work-spans-more-than-one-codebase-you-can-now-attach-multip|A lot of engineering work spans more than one codebase]] · Automation and Scheduling
+- [[Changes/Cursor/2026-05-20-cursor-automations-are-now-available-in-the-agents-window-in-addition-to-cursor|Cursor Automations are now available in the Agents Window, in addition…]] · Automation and Scheduling
+- [[Changes/Cursor/2026-05-20-this-release-brings-cursor-automations-to-the-agents-window-and-introduces-the-a|Cursor brings Cursor Automations to the Agents Window and introduces the ability…]] · Automation and Scheduling
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: automation-scheduling
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now|chatgpt-2025-12-17-d1d8fe]]
-- Lag Days: 154
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Automation and Scheduling
+
+- Earlier: 2026-05-01 · Claude Code · [[Changes/Claude Code/2026-05-01-claude-code-skill-activated-opentelemetry-event-now-fires-for-user-typed-slash-c|claude_code.skill_activated OpenTelemetry event now fires for user-typed slash…]]
+- Later: 2026-06-08 · Claude Code · [[Changes/Claude Code/2026-06-08-workflows-now-opens-immediately-even-while-a-turn-is-in-progress|/workflows now opens immediately even while a turn is in progress]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2025-12-17 · ChatGPT · [[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now|Tasks let you set up automated prompts that ChatGPT can run for you]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2026-05-20-ae371e&body=Card%3A%20Changes%2FCursor%2F2026-05-20-many-useful-automations-exist-apart-from-code-where-agents-monitor-your-tools-an.md%0ACard%20ID%3A%20cursor-2026-05-20-ae371e%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2F05-20-26%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

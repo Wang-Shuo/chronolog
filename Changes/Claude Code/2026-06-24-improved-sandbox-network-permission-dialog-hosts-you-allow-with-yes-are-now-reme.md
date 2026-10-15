@@ -1,8 +1,12 @@
 ---
 card_id: claude-code-2026-06-24-b762ff
 date: '2026-06-24'
+description: 'Claude Code · 2026-06-24 · Safety and Privacy: Improved sandbox network
+  permission dialog: hosts you allow with "Yes" are now remembered for the rest of
+  the…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|cursor-2023-04-16-f0e22a]]'
+  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
+    mode for opting out of storing any kind of data on our servers]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1165
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6997babe4672aa0bebbeaacf30230696d5da6d91b5173d56a87af4724942e4c3
+machine_hash: c1e837da31c2d4ad4d3a7a6480f5739e88a3dc32e9804708bf4c91f85ed70400
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,9 +45,13 @@ record:
   title: Improved sandbox network permission dialog
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-18-app-permission-controls-you-can-now-choose-when-chatgpt-asks-before-using-connec|chatgpt-2026-06-18-2159f8]]'
-- '[[Changes/Claude Code/2026-06-23-added-mouse-click-support-to-select-menus-permission-prompts-model-config-etc-in|claude-code-2026-06-23-1c0b3a]]'
-- '[[Changes/Claude Code/2026-06-23-added-sandbox-credentials-setting-to-block-sandboxed-commands-from-reading-crede|claude-code-2026-06-23-3d5454]]'
+- '[[Changes/ChatGPT/2026-06-18-app-permission-controls-you-can-now-choose-when-chatgpt-asks-before-using-connec|App
+  permission controls: You can now choose when ChatGPT asks before using connected
+  apps]]'
+- '[[Changes/Claude Code/2026-06-23-added-mouse-click-support-to-select-menus-permission-prompts-model-config-etc-in|Added
+  mouse click support to select menus…]]'
+- '[[Changes/Claude Code/2026-06-23-added-sandbox-credentials-setting-to-block-sandboxed-commands-from-reading-crede|Added
+  sandbox.credentials setting to block sandboxed commands from reading…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-24-v2-1-191-github-344307226-67cdfb27|claude-code-2026-06-24-v2-1-191-github-344307226-67cdfb27]]'
 source_type: github_releases
 theme: safety-privacy
@@ -51,10 +59,10 @@ title: Improved sandbox network permission dialog
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # Improved sandbox network permission dialog
 
-<!-- chronolog:begin region="description" -->
-Claude Code — v2.1.191: Improved sandbox network permission dialog: hosts you allow with "Yes" are now remembered for the rest of the session instead of re-prompting on every connection
+**Claude Code** · 2026-06-24 · [[Themes/safety-privacy|Safety and Privacy]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.191) · from [[Releases/Claude Code/claude-code-2026-06-24-v2-1-191-github-344307226-67cdfb27|v2.1.191]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -63,19 +71,28 @@ Claude Code — v2.1.191: Improved sandbox network permission dialog: hosts you 
 > Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.191
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-06-24-improved-mcp-error-messages-http-404-errors-now-show-the-url-and-point-to-your-m|Improved MCP error messages: HTTP 404 errors now show the URL and point to your MCP config]] · Apps and Integrations
+- [[Changes/Claude Code/2026-06-24-improved-mcp-server-reliability-capability-discovery-tools-list-prompts-list-res|Improved MCP server reliability]] · Apps and Integrations
+- [[Changes/Claude Code/2026-06-24-added-rewind-support-for-resuming-a-conversation-from-before-clear-was-run|Added /rewind support for resuming a conversation from before /clear was run]] · Projects and Workspaces
+- [[Changes/Claude Code/2026-06-24-improved-mcp-oauth-discovery-and-token-requests-now-retry-once-after-transient-n|Improved MCP OAuth]] · Account and Access
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: safety-privacy
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|cursor-2023-04-16-f0e22a]]
-- Lag Days: 1165
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Safety and Privacy
+
+- Earlier: 2026-06-23 · Claude Code · [[Changes/Claude Code/2026-06-23-added-sandbox-credentials-setting-to-block-sandboxed-commands-from-reading-crede|Added sandbox.credentials setting to block sandboxed commands from reading…]]
+- Later: 2026-06-26 · Claude Code · [[Changes/Claude Code/2026-06-26-fixed-external-plugins-enabled-only-by-project-claude-settings-json-not-requirin|Fixed external plugins enabled only by project .claude/settings.json not requiring…]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-06-24-b762ff&body=Card%3A%20Changes%2FClaude%20Code%2F2026-06-24-improved-sandbox-network-permission-dialog-hosts-you-allow-with-yes-are-now-reme.md%0ACard%20ID%3A%20claude-code-2026-06-24-b762ff%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.191%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

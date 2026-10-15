@@ -1,10 +1,13 @@
 ---
 changes_count: 1
 date: '2026-07-06'
-machine_hash: 6c2fffdc45de754559972cb011d24540c5b89d6c265e6efe5f0518afe40b238e
+description: 'ChatGPT release ChatGPT for PowerPoint is now generally available on
+  2026-07-06: 1 tracked change across Account and Access'
+machine_hash: dd117ea8f4dcd5b78bbb46094d73013b5d198aa3f9a6747e21aa1292ad18037e
 product: chatgpt
 product_name: ChatGPT
 record:
+  candidate_line_count: 1
   date: '2026-07-06'
   product: chatgpt
   product_name: ChatGPT
@@ -25,22 +28,24 @@ source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
-title: ChatGPT — ChatGPT for PowerPoint is now generally available
+title: ChatGPT for PowerPoint is now generally available
 version: ChatGPT for PowerPoint is now generally available
 ---
 
-# ChatGPT ChatGPT for PowerPoint is now generally available
+<!-- chronolog:begin region="header" -->
+# ChatGPT for PowerPoint is now generally available
+
+**ChatGPT** · 2026-07-06 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 ChatGPT for PowerPoint is now generally available globally. From a sidebar in Microsoft PowerPoint, you can create new slides and decks, revise existing presentations, ask questions about a deck’s story and structure, and use Skills and apps to work with repeatable workflows and connected sources. Slides remain…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
-Tracked cards: 1
+Tracked 1 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- account-access: [[Changes/ChatGPT/2026-07-06-chatgpt-for-powerpoint-is-now-generally-available-globally-from-a-sidebar-in-mic|ChatGPT for PowerPoint is now generally available globally]]
+- [[Changes/ChatGPT/2026-07-06-chatgpt-for-powerpoint-is-now-generally-available-globally-from-a-sidebar-in-mic|ChatGPT for PowerPoint is now generally available globally]] · Account and Access
 <!-- chronolog:end -->

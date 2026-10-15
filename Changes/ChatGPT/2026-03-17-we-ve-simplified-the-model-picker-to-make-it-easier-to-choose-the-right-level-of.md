@@ -1,8 +1,12 @@
 ---
 card_id: chatgpt-2026-03-17-2fd325
 date: '2026-03-17'
+description: 'ChatGPT · 2026-03-17 · Enterprise and Administration: We’ve simplified
+  the model picker to make it easier to choose the right level of reasoning.Users
+  on Plus…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|chatgpt-2025-06-12-1cc56f]]'
+  first_in_tracked: '[[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise
+    and Edu rollout coming soon]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 278
   relation: same-theme-chronology
@@ -13,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: f63f8769c50f6a27e11d6e0a0bee975d7b4580162e561a59b9cd65fcd30b9e57
+machine_hash: fb28c878112004d561aa949eadc0c8ab9cc1b9747a354bc086de88e2213aba39
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -57,9 +61,12 @@ record:
     of reasoning
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-11-21-this-is-in-addition-to-bugbot-which-runs-on-your-source-control-provider-like-gi|cursor-2025-11-21-25801d]]'
-- '[[Changes/Cursor/2025-12-18-many-of-the-largest-software-companies-in-the-world-have-adopted-cursor-for-ente|cursor-2025-12-18-96ec1d]]'
-- '[[Changes/Cursor/2026-03-03-on-teams-and-enterprise-plans-admins-can-now-create-team-marketplaces-to-share-p|cursor-2026-03-03-ba695c]]'
+- '[[Changes/Cursor/2025-11-21-this-is-in-addition-to-bugbot-which-runs-on-your-source-control-provider-like-gi|This
+  is in addition to Bugbot, which runs on your source control provider like…]]'
+- '[[Changes/Cursor/2025-12-18-many-of-the-largest-software-companies-in-the-world-have-adopted-cursor-for-ente|Many
+  of the largest software companies in the world have adopted Cursor for Enterprise]]'
+- '[[Changes/Cursor/2026-03-03-on-teams-and-enterprise-plans-admins-can-now-create-team-marketplaces-to-share-p|On
+  Teams and Enterprise plans, Admins can now create team marketplaces to share…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-17-updates-to-the-model-picker-in-chatgpt-764a9949|chatgpt-2026-03-17-updates-to-the-model-picker-in-chatgpt-764a9949]]'
 source_type: chatgpt_changelog
 theme: enterprise-admin
@@ -68,10 +75,10 @@ title: We’ve simplified the model picker to make it easier to choose the right
 type: change
 ---
 
+<!-- chronolog:begin region="header" -->
 # We’ve simplified the model picker to make it easier to choose the right level of reasoning
 
-<!-- chronolog:begin region="description" -->
-ChatGPT — Updates to the model picker in ChatGPT: We’ve simplified the model picker to make it easier to choose the right level of reasoning.Users on Plus, Pro, Business, Enterprise, and Edu accounts will see a set of model options depending on their plan, including:
+**ChatGPT** · 2026-03-17 · [[Themes/enterprise-admin|Enterprise and Administration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-03-17-updates-to-the-model-picker-in-chatgpt-764a9949|Updates to the model picker in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -80,19 +87,28 @@ ChatGPT — Updates to the model picker in ChatGPT: We’ve simplified the model
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-No evidence-backed evolution relationship assigned.
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2026-03-17-instant-fast-responses-for-everyday-questions|Instant – fast responses for everyday questions]] · Model Support
+- [[Changes/ChatGPT/2026-03-17-pro-the-most-advanced-reasoning-models|Pro – the most advanced reasoning models]] · Model Support
+- [[Changes/ChatGPT/2026-03-17-thinking-deeper-reasoning-for-more-complex-tasks|Thinking – deeper reasoning for more complex tasks]] · Model Support
+- [[Changes/ChatGPT/2026-03-17-the-auto-functionality-can-be-accessed-by-clicking-configure-in-the-model-picker|The Auto functionality can be accessed by clicking Configure in the model picker…]] · Interface Experience
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: enterprise-admin
-- Relation: same-theme-chronology
-- Inference: No adoption, equivalence, or causation claim.
-- Scope: tracked-products-only
-- Role: later-observed
-- First In Tracked: [[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|chatgpt-2025-06-12-1cc56f]]
-- Lag Days: 278
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Enterprise and Administration
+
+- Earlier: 2026-03-03 · Cursor · [[Changes/Cursor/2026-03-03-on-teams-and-enterprise-plans-admins-can-now-create-team-marketplaces-to-share-p|On Teams and Enterprise plans, Admins can now create team marketplaces to share…]]
+- Later: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-added-forceremotesettingsrefresh-policy-setting-when-set-the-cli-blocks-startup|Added forceRemoteSettingsRefresh policy setting]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise and Edu rollout coming soon]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-03-17-2fd325&body=Card%3A%20Changes%2FChatGPT%2F2026-03-17-we-ve-simplified-the-model-picker-to-make-it-easier-to-choose-the-right-level-of.md%0ACard%20ID%3A%20chatgpt-2026-03-17-2fd325%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

@@ -1,10 +1,13 @@
 ---
 changes_count: 0
 date: '2023-12-10'
-machine_hash: 15eafcb60ee01a6962cae366334785b2fa73292b2b0a2b01a956d103ab7e85e6
+description: 'Cursor release Fix Onboarding for Option Edits on 2023-12-10: no tracked
+  changes'
+machine_hash: 2a4046a60144f2ce2fc54820394a37fb14ecfb32389695d4189d18b57bfdea25
 product: cursor
 product_name: Cursor
 record:
+  candidate_line_count: 1
   date: '2023-12-10'
   product: cursor
   product_name: Cursor
@@ -21,19 +24,21 @@ source_url: https://cursor.com/changelog/0-18-9
 tags:
 - release
 - cursor
-title: Cursor — Fix Onboarding for Option Edits
+title: Cursor · Fix Onboarding for Option Edits
 version: 0.18.9
 ---
 
-# Cursor Fix Onboarding for Option Edits
+<!-- chronolog:begin region="header" -->
+# Cursor · Fix Onboarding for Option Edits
+
+**Cursor** · 2023-12-10 · [Official release notes](https://cursor.com/changelog/0-18-9)
+<!-- chronolog:end -->
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
 Minor onboarding fixes.
 
-[Official release notes](https://cursor.com/changelog/0-18-9)
-
-Tracked cards: 0
+Tracked 0 of 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
