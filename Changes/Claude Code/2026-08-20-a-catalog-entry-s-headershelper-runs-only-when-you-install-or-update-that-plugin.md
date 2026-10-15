@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 2be19b68ea00797b5b957692640f677d6a48d1c349bc70dce819a6cd41959e82
+machine_hash: 83c6c889a2d0795fc9f931655b9af945cd6ff9bde96170fbf90e0cbbbdd738f2
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       that plugin, after its command is shown; `claude plugin install/update` ask
       `[y/N]` (or pass `-y`)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.238
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   source_type: github_releases
   theme: apps-integrations
   title: A catalog entry's `headersHelper` runs only when you install or update that
-    plug
+    plugin…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-14-added-an-opt-in-forward-user-identity-apps-gateway-setting-on-anthropic-upstream|claude-code-2026-08-14-45978c]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-08-20-v2-1-238-github-373927029-c96744e2|claude-code-2026-08-20-v2-1-238-github-373927029-c96744e2]]'
 source_type: github_releases
 theme: apps-integrations
-title: A catalog entry's headersHelper runs only when you install or update that plug
+title: A catalog entry's headersHelper runs only when you install or update that plugin…
 type: change
 ---
 
-# A catalog entry's `headersHelper` runs only when you install or update that plug
+# A catalog entry's `headersHelper` runs only when you install or update that plugin…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.238: A catalog entry's `headersHelper` runs only when you install or update that plugin, after its command is shown; `claude plugin install/update` ask `[y/N]` (or pass `-y`)

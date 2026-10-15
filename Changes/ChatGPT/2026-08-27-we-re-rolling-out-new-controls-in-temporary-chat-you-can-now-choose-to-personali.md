@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 4e1c51c55cd57c8c74e68fe1be0288e231ad2e8cbe0cc3f6e7f3a48879e61e2a
+machine_hash: 9259f4f04289614a3aedeed94059db42cb4917cbb6d5311fcc773e16f92a7563
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       personalize responses in a temporary chat with memory, plugins, and custom instructions
       from your regular chat settings. You can also choose to save a temporary chat.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -49,7 +49,7 @@ record:
     - plugins
     score: 50
     theme: apps-integrations
-  title: We’re rolling out new controls in temporary chat. You can now choose to personal
+  title: ChatGPT rolls out new controls in temporary chat
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-08-27-saving-a-temporary-chat-when-a-conversation-becomes-useful-for-the-future-you-ca|chatgpt-2026-08-27-1985b0]]'
@@ -58,11 +58,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-27-more-controls-in-temporary-chat-5ca95d13|chatgpt-2026-08-27-more-controls-in-temporary-chat-5ca95d13]]'
 source_type: chatgpt_changelog
 theme: memory
-title: We’re rolling out new controls in temporary chat. You can now choose to personal
+title: ChatGPT rolls out new controls in temporary chat
 type: change
 ---
 
-# We’re rolling out new controls in temporary chat. You can now choose to personal
+# ChatGPT rolls out new controls in temporary chat
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — More controls in temporary chat: We’re rolling out new controls in temporary chat. You can now choose to personalize responses in a temporary chat with memory, plugins, and custom instructions from your regular chat settings. You can also choose to save a temporary chat.

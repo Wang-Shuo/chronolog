@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 155737445617f48db5b053608d44a088ddc03427429e73468392b134ca372793
+machine_hash: e46c853fe3fd601078df8676cdb55d48b58f6c098d52ee8e49f2d67569b51235
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       toggle now disable thinking on models that think by default via the Claude API
       (3P providers unchanged)'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.166
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -49,7 +49,7 @@ record:
     score: 50
     theme: context-window
   title: '`MAX_THINKING_TOKENS=0`, `--thinking disabled`, and the per-model thinking
-    toggl'
+    toggle…'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-03-effort-now-confirms-when-your-chosen-level-will-persist-as-the-default-for-new-s|claude-code-2026-06-03-ef012f]]'
@@ -58,11 +58,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-06-v2-1-166-github-335118845-ef990727|claude-code-2026-06-06-v2-1-166-github-335118845-ef990727]]'
 source_type: github_releases
 theme: model-support
-title: MAX_THINKING_TOKENS=0, --thinking disabled, and the per-model thinking toggl
+title: MAX_THINKING_TOKENS=0, --thinking disabled, and the per-model thinking toggle…
 type: change
 ---
 
-# `MAX_THINKING_TOKENS=0`, `--thinking disabled`, and the per-model thinking toggl
+# `MAX_THINKING_TOKENS=0`, `--thinking disabled`, and the per-model thinking toggle…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.166: `MAX_THINKING_TOKENS=0`, `--thinking disabled`, and the per-model thinking toggle now disable thinking on models that think by default via the Claude API (3P providers unchanged)

@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 054b4d323a9400299c1e84bd0e879a7dd65941c2c5376186f4bc21319584f2b6
+machine_hash: 938605a7099920dd850806164bc7275bf575bb911f2372c91ddfcb11b5604063
 product: cursor
 product_name: Cursor
 record:
@@ -32,7 +32,7 @@ record:
       attacks. It will leave inline comments at the exact diff location with severity
       and remediation.
     source_release: https://cursor.com/changelog/04-30-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -51,7 +51,7 @@ record:
     score: 50
     theme: agent-mode
   theme_resolution: manual-semantic-rule-v2
-  title: Security Reviewer checks every PR for security vulnerabilities, auth regressions
+  title: Security Reviewer checks every PR for security vulnerabilities, auth regressions…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-04-30-we-re-also-continuously-improving-the-runtime-harness-and-models-powering-cursor|cursor-2026-04-30-1f1876]]'
@@ -60,11 +60,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-04-30-cursor-security-review-https-cursor-com-changelog-04-30-26-640898b1|cursor-2026-04-30-cursor-security-review-https-cursor-com-changelog-04-30-26-640898b1]]'
 source_type: cursor_changelog
 theme: safety-privacy
-title: Security Reviewer checks every PR for security vulnerabilities, auth regressions
+title: Security Reviewer checks every PR for security vulnerabilities, auth regressions…
 type: change
 ---
 
-# Security Reviewer checks every PR for security vulnerabilities, auth regressions
+# Security Reviewer checks every PR for security vulnerabilities, auth regressions…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cursor Security Review: Security Reviewer checks every PR for security vulnerabilities, auth regressions, privacy and data-handling risks, agent tool auto-approvals, and prompt injection attacks. It will leave inline comments at the exact diff location with severity and remediation.

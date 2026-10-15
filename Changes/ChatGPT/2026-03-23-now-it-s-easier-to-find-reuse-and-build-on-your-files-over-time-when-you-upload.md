@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5432706b4c3923abb1dfd4f44df730645ab01cf8f06d4eec64ae421f5a9b3044
+machine_hash: b32132ae8427684a6106227fff41a348ed91ad728aafd44e4e79f846a8dd354d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,7 +46,7 @@ record:
       out globally for Plus, Pro, and Business users, coming soon to users in the
       European Economic Area, Switzerland, and the United Kingdom.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -76,8 +76,7 @@ record:
     - browse
     score: 50
     theme: search-browsing
-  title: Now, it’s easier to find, reuse, and build on your files over time. When
-    you upl
+  title: Now, it’s easier to find, reuse, and build on your files over time
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-13-added-windows-arm64-win32-arm64-native-binary-support|claude-code-2026-02-13-1162d1]]'
@@ -86,12 +85,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-23-file-library-in-chatgpt-7107c619|chatgpt-2026-03-23-file-library-in-chatgpt-7107c619]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: Now, it’s easier to find, reuse, and build on your files over time. When you
-  upl
+title: Now, it’s easier to find, reuse, and build on your files over time
 type: change
 ---
 
-# Now, it’s easier to find, reuse, and build on your files over time. When you upl
+# Now, it’s easier to find, reuse, and build on your files over time
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — File Library in ChatGPT: Now, it’s easier to find, reuse, and build on your files over time. When you upload or create a file—whether it’s a PDF, spreadsheet, image, or more—it’s automatically saved to your Library. Generated images will continue to appear in the Images tab.You can quickly reference files in a chat using recent files in the composer, or browse everything you’ve uploaded in the Library tab in the sidebar. You can also ask ChatGPT about files you’ve saved (“What should I know about the document I uploaded yesterday?”) Library is available on web only. ‘Recent files’ in the composer and file search in ChatGPT are supported on iOS and Android.Files remain in your Library until you delete them. Files uploaded in Temporary Chat are not saved to your Library.Availability: Rolling out globally for Plus, Pro, and Business users, coming soon to users in the European Economic Area, Switzerland, and the United Kingdom.

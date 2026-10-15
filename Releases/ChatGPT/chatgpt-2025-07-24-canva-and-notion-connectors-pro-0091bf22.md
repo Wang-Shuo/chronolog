@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-07-24'
-machine_hash: d4637f7a55ade2a6cd2cdf8a43d85d86d78c463613fc1f04272e0eea90055a17
+machine_hash: b0853f280b91cbc1d27b9f9aed1d6e25e8a91d59ab622b8b357f4dd76fd8c857
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,5 +40,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- search-browsing: [[Changes/ChatGPT/2025-07-24-pro-users-can-now-connect-to-canva-and-notion-for-both-chat-search-and-deep-rese-bd2af2|Pro users can now connect to Canva and Notion for both chat search and deep rese]]
+- search-browsing: [[Changes/ChatGPT/2025-07-24-pro-users-can-now-connect-to-canva-and-notion-for-both-chat-search-and-deep-rese-bd2af2|Pro users can now connect to Canva and Notion for both chat search and deep research]]
 <!-- chronolog:end -->

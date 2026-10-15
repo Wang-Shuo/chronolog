@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-05-15'
-machine_hash: ee2ab58d5aa83eecefd44b1e795be9380de7c53ceeb87ad0e43ff4f8353ecc16
+machine_hash: c7ad257b3063176bec91038e1a99fdcc69186c4c4494c26f24ebe61ef9f2e9b4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- search-browsing: [[Changes/ChatGPT/2025-05-15-chatgpt-deep-research-with-dropbox-is-available-globally-to-team-users-it-is-als-eaf8af|ChatGPT deep research with Dropbox is available globally to Team users. It is al]]
+- search-browsing: [[Changes/ChatGPT/2025-05-15-chatgpt-deep-research-with-dropbox-is-available-globally-to-team-users-it-is-als-eaf8af|ChatGPT deep research with Dropbox is available globally to Team users]]
 <!-- chronolog:end -->

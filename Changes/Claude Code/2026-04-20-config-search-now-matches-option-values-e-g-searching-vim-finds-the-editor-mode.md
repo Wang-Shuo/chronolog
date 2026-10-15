@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5ec4f59d8e7e95151b53fdb48933c71c1cad342e49892ec6ac003a176beb400d
+machine_hash: c52597a730a2f5011bb58ff29ce1577aab107d36eeb02fdf22dc7049ae7693a0
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: '`/config` search now matches option values (e.g. searching "vim" finds
       the Editor mode setting)'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.116
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -34,8 +34,7 @@ record:
   source_release: claude-code-2026-04-20-v2-1-116-github-311446114-3b24dc7e
   source_type: github_releases
   theme: editor-experience
-  title: '`/config` search now matches option values (e.g. searching "vim" finds the
-    Edito'
+  title: '`/config` search now matches option values…'
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-04-02-you-can-switch-back-to-the-ide-anytime-or-have-both-open-simultaneously|cursor-2026-04-02-ed78a6]]'
@@ -44,11 +43,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-20-v2-1-116-github-311446114-3b24dc7e|claude-code-2026-04-20-v2-1-116-github-311446114-3b24dc7e]]'
 source_type: github_releases
 theme: editor-experience
-title: /config search now matches option values (e.g. searching "vim" finds the Edito
+title: /config search now matches option values…
 type: change
 ---
 
-# `/config` search now matches option values (e.g. searching "vim" finds the Edito
+# `/config` search now matches option values…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.116: `/config` search now matches option values (e.g. searching "vim" finds the Editor mode setting)

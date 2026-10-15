@@ -11,9 +11,9 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f9cf687458e70343f316551f8496927fcb4f22647a4953551124b77d2d4934b0
+machine_hash: 96037dab8fcf57acdfc6d9b1439d9bb1f872cb2b43fb150e1fd6efaec0002eef
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
       on Pro 100 or Pro 200 does not unlock it. Pro 500 subscriptions are available
       through ChatGPT on the web at launch.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -38,8 +38,7 @@ record:
   theme: pricing-model
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Among Pro plans, Ultrafast is available only with Pro 500. Buying credits
-    on Pro
+  title: Among Pro plans, Ultrafast is available only with Pro 500
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-09-29-pro-200-is-available-for-new-subscriptions-again-at-200-month|chatgpt-2026-09-29-043e41]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-a-new-pro-plan-with-astra-ultrafast-f0c84e90|chatgpt-2026-09-29-a-new-pro-plan-with-astra-ultrafast-f0c84e90]]'
 source_type: chatgpt_changelog
 theme: pricing-model
-title: Among Pro plans, Ultrafast is available only with Pro 500. Buying credits on
-  Pro
+title: Among Pro plans, Ultrafast is available only with Pro 500
 type: change
 ---
 
-# Among Pro plans, Ultrafast is available only with Pro 500. Buying credits on Pro
+# Among Pro plans, Ultrafast is available only with Pro 500
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — A new Pro plan with Astra Ultrafast: Among Pro plans, Ultrafast is available only with Pro 500. Buying credits on Pro 100 or Pro 200 does not unlock it. Pro 500 subscriptions are available through ChatGPT on the web at launch.

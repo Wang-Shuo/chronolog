@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-06-26'
-machine_hash: a9a8f69cfd89822ba7957213e5c7f87f5387ab9f6db07382b348cfd064355e50
+machine_hash: 4d140685c26a53a4a15c1273d62772c347db91b58f514f2111909c4cd8a41b88
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- voice: [[Changes/ChatGPT/2026-06-26-we-re-rolling-out-a-new-speech-to-text-model-for-dictation-in-chatgpt-across-all|We’re rolling out a new speech-to-text model for dictation in ChatGPT across all]]
+- voice: [[Changes/ChatGPT/2026-06-26-we-re-rolling-out-a-new-speech-to-text-model-for-dictation-in-chatgpt-across-all|ChatGPT rolls out a new speech-to-text model for dictation across all plans]]
 <!-- chronolog:end -->

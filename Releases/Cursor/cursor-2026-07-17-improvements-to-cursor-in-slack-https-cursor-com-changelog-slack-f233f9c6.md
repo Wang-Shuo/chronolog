@@ -1,7 +1,7 @@
 ---
 changes_count: 4
 date: '2026-07-17'
-machine_hash: a8d7eabc38c73f41bc79bb3b346420b4d13fc474fb3270cff89528ee02eba885
+machine_hash: aac11ff5c4df8603ce7f363f76038a7fc76a81274c7cd35364bfb913e0a301de
 product: cursor
 product_name: Cursor
 record:
@@ -39,8 +39,8 @@ Tracked cards: 4
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- apps-integrations: [[Changes/Cursor/2026-07-17-from-slack-cursor-can-now-start-in-a-named-multi-repo-environment-instead-of-a-s|From Slack, Cursor can now start in a named multi-repo environment instead of a]]
-- agent-mode: [[Changes/Cursor/2026-07-17-cursor-now-responds-with-a-plan-before-it-begins-so-you-can-jump-in-and-redirect|Cursor now responds with a plan before it begins, so you can jump in and redirec]]
-- apps-integrations: [[Changes/Cursor/2026-07-17-cursor-in-slack-now-shares-a-plan-before-it-starts-runs-in-multi-repo-environmen|Cursor in Slack now shares a plan before it starts, runs in multi-repo environme]]
-- apps-integrations: [[Changes/Cursor/2026-07-17-we-also-refined-how-cursor-s-responses-look-in-slack-in-message-buttons-are-gone|We also refined how Cursor's responses look in Slack. In-message buttons are gon]]
+- apps-integrations: [[Changes/Cursor/2026-07-17-from-slack-cursor-can-now-start-in-a-named-multi-repo-environment-instead-of-a-s|From Slack, Cursor can now start in a named multi-repo environment instead…]]
+- agent-mode: [[Changes/Cursor/2026-07-17-cursor-now-responds-with-a-plan-before-it-begins-so-you-can-jump-in-and-redirect|Cursor now responds with a plan before it begins, so you can jump in and redirect early]]
+- apps-integrations: [[Changes/Cursor/2026-07-17-cursor-in-slack-now-shares-a-plan-before-it-starts-runs-in-multi-repo-environmen|Cursor in Slack now shares a plan before it starts, runs in multi-repo environments…]]
+- apps-integrations: [[Changes/Cursor/2026-07-17-we-also-refined-how-cursor-s-responses-look-in-slack-in-message-buttons-are-gone|We also refined how Cursor's responses look in Slack]]
 <!-- chronolog:end -->

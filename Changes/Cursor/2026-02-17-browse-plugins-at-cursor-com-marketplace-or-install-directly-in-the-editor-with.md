@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 873421628c1b05d41c331671e8aea9888294fefb4593c6e6f9abe8cfae001787
+machine_hash: bee922460ab6ef37f26edb2c80c61b692b0d3c5edc70b35d389988a9889c4dc4
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Browse plugins at cursor.com/marketplace or install directly in the editor
       with /add-plugin.
     source_release: https://cursor.com/changelog/2-5
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -48,8 +48,7 @@ record:
     - browse
     score: 50
     theme: search-browsing
-  title: Browse plugins at cursor.com/marketplace or install directly in the editor
-    with
+  title: Browse plugins at cursor.com/marketplace or install directly in the editor…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-17-added-support-for-reading-enabledplugins-and-extraknownmarketplaces-from-add-dir|claude-code-2026-02-17-25d065]]'
@@ -58,12 +57,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320|cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320]]'
 source_type: cursor_changelog
 theme: apps-integrations
-title: Browse plugins at cursor.com/marketplace or install directly in the editor
-  with
+title: Browse plugins at cursor.com/marketplace or install directly in the editor…
 type: change
 ---
 
-# Browse plugins at cursor.com/marketplace or install directly in the editor with
+# Browse plugins at cursor.com/marketplace or install directly in the editor…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Plugins, Sandbox Access Controls, and Async Subagents: Browse plugins at cursor.com/marketplace or install directly in the editor with /add-plugin.

@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-04-22'
-machine_hash: 786be36d66cdad1a3d9e1cffe3b9ccddcc738be10c11de463b2f9ac3de8036a5
+machine_hash: bb5947549bab4e49dba4ede6bd2d385b5cab37e429987650086cb467fc1a3d09
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- memory: [[Changes/ChatGPT/2026-04-22-sometimes-you-just-want-the-right-answer-as-quickly-as-possible-we-re-rolling-ou|Sometimes, you just want the right answer as quickly as possible. We’re rolling]]
+- memory: [[Changes/ChatGPT/2026-04-22-sometimes-you-just-want-the-right-answer-as-quickly-as-possible-we-re-rolling-ou|Sometimes, you just want the right answer as quickly as possible]]
 <!-- chronolog:end -->

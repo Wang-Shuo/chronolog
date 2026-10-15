@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 3617bff12b997f274792678c1c481f5fd9a7357aa5c9e8b6e263e7ff053c0002
+machine_hash: 8fb2e5c23c2d25b98d8ab8ad76153d9412fdf295b5ed8d4df7823e7f5905fef6
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Get started by installing the integration in the Cursor dashboard. Learn
       more in our docs.
     source_release: https://cursor.com/changelog/microsoft-teams
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -36,8 +36,7 @@ record:
   source_release: cursor-2026-05-11-cursor-in-microsoft-teams-https-cursor-com-changelog-microsoft-t-26de16e4
   source_type: cursor_changelog
   theme: apps-integrations
-  title: Get started by installing the integration in the Cursor dashboard. Learn
-    more in
+  title: Get started by installing the integration in the Cursor dashboard
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-07-hooks-now-receive-the-active-effort-level-via-the-effort-level-json-input-field|claude-code-2026-05-07-3826e7]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-05-11-cursor-in-microsoft-teams-https-cursor-com-changelog-microsoft-t-26de16e4|cursor-2026-05-11-cursor-in-microsoft-teams-https-cursor-com-changelog-microsoft-t-26de16e4]]'
 source_type: cursor_changelog
 theme: apps-integrations
-title: Get started by installing the integration in the Cursor dashboard. Learn more
-  in
+title: Get started by installing the integration in the Cursor dashboard
 type: change
 ---
 
-# Get started by installing the integration in the Cursor dashboard. Learn more in
+# Get started by installing the integration in the Cursor dashboard
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cursor in Microsoft Teams: Get started by installing the integration in the Cursor dashboard. Learn more in our docs.

@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: e6eb990e10dda1bb770879b76182562df4edab935d09f22d9d773c60d0b51501
+machine_hash: 2c7210f6111ab88d13d8f6fbb8abceffed922dbfe4d30c041ba6a230770b6102
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,7 +39,7 @@ record:
       within o3-pro—please use GPT-4o, OpenAI o3, or OpenAI o4-mini to generate images.Canvas
       is also currently not supported within o3-pro.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -79,8 +79,7 @@ record:
     score: 50
     theme: safety-privacy
   theme_resolution: manual-semantic-rule-v2
-  title: o3-pro is available in the model picker for Pro and Team users starting today,
-    r
+  title: o3-pro is available in the model picker for Pro and Team users starting today…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-05-14-gpt-4-1-mini-is-a-fast-capable-and-efficient-small-model-delivering-significant-722b7d|chatgpt-2025-05-14-722b7d]]'
@@ -89,12 +88,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-10-today-we-re-launching-openai-o3-pro-available-now-for-pro-users-43fd47c2|chatgpt-2025-06-10-today-we-re-launching-openai-o3-pro-available-now-for-pro-users-43fd47c2]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: o3-pro is available in the model picker for Pro and Team users starting today,
-  r
+title: o3-pro is available in the model picker for Pro and Team users starting today…
 type: change
 ---
 
-# o3-pro is available in the model picker for Pro and Team users starting today, r
+# o3-pro is available in the model picker for Pro and Team users starting today…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Today, we're launching OpenAI o3-pro—available now for Pro users in ChatGPT and in our API.: o3-pro is available in the model picker for Pro and Team users starting today, replacing o1-pro. Enterprise and Edu users will get access the week after.As o3-pro uses the same underlying model as o3, full safety details can be found in the o3 system card.LimitationsAt the moment, temporary chats are disabled for o3-pro as we resolve a technical issue.Image generation is not supported within o3-pro—please use GPT-4o, OpenAI o3, or OpenAI o4-mini to generate images.Canvas is also currently not supported within o3-pro.

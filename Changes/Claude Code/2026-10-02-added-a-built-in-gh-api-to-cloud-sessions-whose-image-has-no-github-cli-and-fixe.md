@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5b1023eb5b45f7cfeb3bb4a557e6539adcdabc300df48e1e3a57ac1ebe5179b3
+machine_hash: 3eb25735e17b20ed7c4d7547246a38dd53c1ed16832c7e1b279cf3c46ee92644
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       and fixed the built-in sending control characters from file names, jq filters
       or GitHub errors to the terminal
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.288
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   source_type: github_releases
   theme: developer-workflow
   title: Added a built-in `gh api` to cloud sessions whose image has no GitHub CLI,
-    and f
+    and fixed…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-09-23-enable-it-from-the-dashboard-and-connect-source-control-your-deploy-system-and-y|cursor-2026-09-23-90c29d]]'
@@ -47,11 +47,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-10-02-v2-1-288-github-4
 source_type: github_releases
 theme: developer-workflow
 title: Added a built-in gh api to cloud sessions whose image has no GitHub CLI, and
-  f
+  fixed…
 type: change
 ---
 
-# Added a built-in `gh api` to cloud sessions whose image has no GitHub CLI, and f
+# Added a built-in `gh api` to cloud sessions whose image has no GitHub CLI, and fixed…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.288: Added a built-in `gh api` to cloud sessions whose image has no GitHub CLI, and fixed the built-in sending control characters from file names, jq filters or GitHub errors to the terminal

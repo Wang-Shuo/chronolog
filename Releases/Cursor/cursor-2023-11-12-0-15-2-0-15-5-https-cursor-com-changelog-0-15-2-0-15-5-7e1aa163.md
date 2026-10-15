@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-11-12'
-machine_hash: 1743f1fb636afc218bb8d7d28afb5ea6313afea9b55c67d22338da2b4c0be3ed
+machine_hash: 2a8f54df566f99c48b0b8cf37e4eb05e8a34aaaa2250446770cbd3e7254d72bc
 product: cursor
 product_name: Cursor
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- interface-experience: [[Changes/Cursor/2023-11-12-copilot-improvements-includes-green-highlights-to-see-what-copilot-has-added-the|Copilot++ improvements: Includes green highlights to see what Copilot++ has adde]]
+- interface-experience: [[Changes/Cursor/2023-11-12-copilot-improvements-includes-green-highlights-to-see-what-copilot-has-added-the|Copilot++ improvements: Includes green highlights to see what Copilot++ has added…]]
 <!-- chronolog:end -->

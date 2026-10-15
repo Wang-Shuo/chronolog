@@ -11,9 +11,9 @@ diffusion:
   theme: search-browsing
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: b5b8cfa29ebdc0a04bdb150daa2f9aa9988529ec071d867e2c8d798df5a2e8d7
+machine_hash: 41cc67f163c76c326f538c2466f21558e67506360f54d3ba44c61d53f98f48f9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Ask ChatGPT a shopping question and it finds organic, unsponsored product
       results from across the web.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -38,7 +38,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: Ask ChatGPT a shopping question and it finds organic, unsponsored product
-    result
+    results…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-09-16-we-ve-made-further-improvements-to-search-in-chatgpt-making-results-more-accurat|chatgpt-2025-09-16-60a139]]'
@@ -47,11 +47,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-29-introducing-instant-checkout-and-the-agentic-commerce-protocol-6ba1bd7e|chatgpt-2025-09-29-introducing-instant-checkout-and-the-agentic-commerce-protocol-6ba1bd7e]]'
 source_type: chatgpt_changelog
 theme: search-browsing
-title: Ask ChatGPT a shopping question and it finds organic, unsponsored product result
+title: Ask ChatGPT a shopping question and it finds organic, unsponsored product results…
 type: change
 ---
 
-# Ask ChatGPT a shopping question and it finds organic, unsponsored product result
+# Ask ChatGPT a shopping question and it finds organic, unsponsored product results…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Introducing Instant Checkout and the Agentic Commerce Protocol: Ask ChatGPT a shopping question and it finds organic, unsponsored product results from across the web.

@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 3ca5a19470918dfdf708b66927eb372dc0517f734705793eef2368bad0c99e65
+machine_hash: b0eaeb4f6836350588be87fcae9b89fac60283f198c5d1f0fc6bce297282e355
 product: cursor
 product_name: Cursor
 record:
@@ -30,7 +30,7 @@ record:
       improved worktrees experience, and multi-root workspaces for making cross-repo
       changes.
     source_release: https://cursor.com/changelog/04-24-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -38,7 +38,8 @@ record:
   source_release: cursor-2026-04-24-3-2-https-cursor-com-changelog-04-24-26-9ab6a4bf
   source_type: cursor_changelog
   theme: agent-mode
-  title: This release introduces a new way to multitask with async subagents, an improved
+  title: Cursor introduces a new way to multitask with async subagents, an improved
+    worktrees…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-22-agent-frontmatter-mcpservers-are-now-loaded-for-main-thread-agent-sessions-via-a|claude-code-2026-04-22-50e627]]'
@@ -47,11 +48,12 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-04-24-3-2-https-cursor-com-changelog-04-24-26-9ab6a4bf|cursor-2026-04-24-3-2-https-cursor-com-changelog-04-24-26-9ab6a4bf]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: This release introduces a new way to multitask with async subagents, an improved
+title: Cursor introduces a new way to multitask with async subagents, an improved
+  worktrees…
 type: change
 ---
 
-# This release introduces a new way to multitask with async subagents, an improved
+# Cursor introduces a new way to multitask with async subagents, an improved worktrees…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Multitask, Worktrees, and Multi-root Workspaces: This release introduces a new way to multitask with async subagents, an improved worktrees experience, and multi-root workspaces for making cross-repo changes.

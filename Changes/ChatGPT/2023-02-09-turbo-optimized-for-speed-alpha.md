@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e9771bf6aa705ed688c4e5e47d68cb6bbc680a968968da184ce935e09be2c08c
+machine_hash: 305bcdba240762eaca6b4ff8c9f3150136191a343a384e5faab3d3648d442ce6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,7 +24,7 @@ record:
   evidence:
   - quote: 'Turbo: optimized for speed (alpha)'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT

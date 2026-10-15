@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 77a7641a14cb9541f0146b2ffcf844b1ec325eb596bf87e510a44b123c09aa8e
+machine_hash: bdbedee16169ed490a34db4c1499d894b7ad90e38d2cae387c6d5dffc20a8b0c
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Switch models in settings gear
     source_release: https://cursor.com/changelog/0-2-6
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

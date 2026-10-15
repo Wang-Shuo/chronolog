@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: f28b7a9cc4f6615d743587cda4eb69266a661b512973a7d4bf589e6dc50438cd
+machine_hash: 3fc461fd4badbb67757d3bf1dee4be23991e90881b2d460e4f4bb9bb5ec51678
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       rejects an unexpected non-retryable error; auth, rate-limit, request-size, and
       transport errors still surface immediately
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.166
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -38,8 +38,7 @@ record:
   source_release: claude-code-2026-06-06-v2-1-166-github-335118845-ef990727
   source_type: github_releases
   theme: model-support
-  title: Claude Code now retries a turn once on the fallback model when the API rejects
-    a
+  title: Claude Code now retries a turn once on the fallback model when the API rejects…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-30-auto-mode-is-now-available-on-bedrock-vertex-and-foundry-for-opus-4-7-and-opus-4|claude-code-2026-05-30-2e7a31]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-06-v2-1-166-github-335118845-ef990727|claude-code-2026-06-06-v2-1-166-github-335118845-ef990727]]'
 source_type: github_releases
 theme: model-support
-title: Claude Code now retries a turn once on the fallback model when the API rejects
-  a
+title: Claude Code now retries a turn once on the fallback model when the API rejects…
 type: change
 ---
 
-# Claude Code now retries a turn once on the fallback model when the API rejects a
+# Claude Code now retries a turn once on the fallback model when the API rejects…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.166: Claude Code now retries a turn once on the fallback model when the API rejects an unexpected non-retryable error; auth, rate-limit, request-size, and transport errors still surface immediately

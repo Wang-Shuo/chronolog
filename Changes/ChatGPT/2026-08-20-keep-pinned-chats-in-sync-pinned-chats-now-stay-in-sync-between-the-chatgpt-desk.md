@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ef29832b42f969f7fcc39b0fd72c1f63e11084ec3bf8bbb7f212b064b3ff16c4
+machine_hash: 0783ea3ed561cc53959887fb23a068ca90f7feccbb8fe991876756171f67190c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       desktop app and iOS when you use the same Codex account. Android is not included
       in this release. Learn more about organizing projects and chats.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -37,8 +37,7 @@ record:
   source_release: chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574
   source_type: chatgpt_changelog
   theme: mobile-desktop
-  title: Keep pinned chats in sync. Pinned chats now stay in sync between the ChatGPT
-    des
+  title: Keep pinned chats in sync
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-08-14-practice-with-interactive-quizzes-ask-chatgpt-to-quiz-you-on-a-topic-and-answer|chatgpt-2026-08-14-7492f8]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574|chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: Keep pinned chats in sync. Pinned chats now stay in sync between the ChatGPT
-  des
+title: Keep pinned chats in sync
 type: change
 ---
 
-# Keep pinned chats in sync. Pinned chats now stay in sync between the ChatGPT des
+# Keep pinned chats in sync
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Codex and ChatGPT feature updates: Keep pinned chats in sync. Pinned chats now stay in sync between the ChatGPT desktop app and iOS when you use the same Codex account. Android is not included in this release. Learn more about organizing projects and chats.

@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 751fb98a74db47a15329f0da96563737d0578dee34b3ed6322eb932a85b7f223
+machine_hash: f0d4cfd3128fccd69f1759a82990370467648ff84e80cd7b9dad26d50c29ad0c
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added a note in `/plugin` on a plugin whose hooks are left out because
       another enabled plugin has the same name
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.296
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -34,8 +34,7 @@ record:
   source_release: claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a
   source_type: github_releases
   theme: apps-integrations
-  title: Added a note in `/plugin` on a plugin whose hooks are left out because another
-    e
+  title: Added a note in `/plugin` on a plugin whose hooks are left out because another…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-10-08-improved-how-prompt-hooks-on-stop-and-subagentstop-written-as-instructions-such|claude-code-2026-10-08-1b32dd]]'
@@ -44,12 +43,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a|claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added a note in /plugin on a plugin whose hooks are left out because another
-  e
+title: Added a note in /plugin on a plugin whose hooks are left out because another…
 type: change
 ---
 
-# Added a note in `/plugin` on a plugin whose hooks are left out because another e
+# Added a note in `/plugin` on a plugin whose hooks are left out because another…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.296: Added a note in `/plugin` on a plugin whose hooks are left out because another enabled plugin has the same name

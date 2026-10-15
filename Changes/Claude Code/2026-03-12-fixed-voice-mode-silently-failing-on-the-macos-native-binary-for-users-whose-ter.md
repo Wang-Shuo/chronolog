@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 582b057b452c0095f4c08ca031786fc0c2d72c1a4d4c441f0b098d9661f3de7b
+machine_hash: 0b63c7186fc29b319a8b3f70340f50f04da1a9fa24b7b00940c6fc985e3115d7
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       whose terminal had never been granted microphone permission — the binary now
       includes the `audio-input` entitlement so macOS prompts correctly
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.74
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -51,8 +51,7 @@ record:
     score: 50
     theme: mobile-desktop
   theme_resolution: manual-semantic-rule-v2
-  title: Fixed voice mode silently failing on the macOS native binary for users whose
-    ter
+  title: Fixed voice mode silently failing on the macOS native binary for users whose…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-03-05-when-invoked-the-agent-spins-up-a-cloud-sandbox-and-follows-your-instructions-us|cursor-2026-03-05-9c8870]]'
@@ -61,12 +60,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-12-v2-1-74-github-295929475-2ee971ae|claude-code-2026-03-12-v2-1-74-github-295929475-2ee971ae]]'
 source_type: github_releases
 theme: safety-privacy
-title: Fixed voice mode silently failing on the macOS native binary for users whose
-  ter
+title: Fixed voice mode silently failing on the macOS native binary for users whose…
 type: change
 ---
 
-# Fixed voice mode silently failing on the macOS native binary for users whose ter
+# Fixed voice mode silently failing on the macOS native binary for users whose…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.74: Fixed voice mode silently failing on the macOS native binary for users whose terminal had never been granted microphone permission — the binary now includes the `audio-input` entitlement so macOS prompts correctly

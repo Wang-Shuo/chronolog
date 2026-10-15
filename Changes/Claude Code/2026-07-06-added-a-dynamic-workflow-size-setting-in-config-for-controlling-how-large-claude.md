@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: a879c6001a261086fa3b58558362788efda18c223b9abba5b24975e99641f89e
+machine_hash: ade557209ea3296beed26775795f3c4ae7ce268df4a8d3dfd0f7e8da7cbf1b47
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       large Claude generally makes dynamic workflows (small/medium/large agent counts)
       — an advisory guideline, not an enforced cap
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.202
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code
@@ -39,7 +39,7 @@ record:
   source_type: github_releases
   theme: agent-mode
   title: Added a "Dynamic workflow size" setting in `/config` for controlling how
-    large C
+    large…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-06-29-cloud-agents-run-in-isolated-virtual-machines-with-full-development-environments|cursor-2026-06-29-40b244]]'
@@ -48,12 +48,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-06-v2-1-202-github-349856235-58e6d3e8|claude-code-2026-07-06-v2-1-202-github-349856235-58e6d3e8]]'
 source_type: github_releases
 theme: agent-mode
-title: Added a "Dynamic workflow size" setting in /config for controlling how large
-  C
+title: Added a "Dynamic workflow size" setting in /config for controlling how large…
 type: change
 ---
 
-# Added a "Dynamic workflow size" setting in `/config` for controlling how large C
+# Added a "Dynamic workflow size" setting in `/config` for controlling how large…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.202: Added a "Dynamic workflow size" setting in `/config` for controlling how large Claude generally makes dynamic workflows (small/medium/large agent counts) — an advisory guideline, not an enforced cap

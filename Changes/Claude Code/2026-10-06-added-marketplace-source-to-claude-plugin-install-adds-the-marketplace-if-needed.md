@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8ab5f8aa066754912429a391faf72f0bce0d261f25f600fa5cd8cde1d3f4aa25
+machine_hash: 07fd286a7dd183d632ecff7b8dfbb70df989d977d0eeb78c32831be4310308f7
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       if needed, under the same policy checks as `claude plugin marketplace add`,
       then installs the plugin from it'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.292
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,7 +36,7 @@ record:
   source_release: claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab
   source_type: github_releases
   theme: apps-integrations
-  title: 'Added `--marketplace <source>` to `claude plugin install`: adds the marketplace'
+  title: Added `--marketplace <source>` to `claude plugin install`
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-10-03-improved-how-quickly-large-files-open-in-a-plugin-code-pane-by-laying-the-highli|claude-code-2026-10-03-e00ae7]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab|claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab]]'
 source_type: github_releases
 theme: apps-integrations
-title: 'Added --marketplace source to claude plugin install: adds the marketplace'
+title: Added --marketplace source to claude plugin install
 type: change
 ---
 
-# Added `--marketplace <source>` to `claude plugin install`: adds the marketplace
+# Added `--marketplace <source>` to `claude plugin install`
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.292: Added `--marketplace <source>` to `claude plugin install`: adds the marketplace if needed, under the same policy checks as `claude plugin marketplace add`, then installs the plugin from it

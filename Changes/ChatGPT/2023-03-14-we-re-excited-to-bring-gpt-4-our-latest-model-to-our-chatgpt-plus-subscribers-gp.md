@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: ede0cd69369e0c333d4000844f56c3f8a7f919edc0856f1e1fc356c4b05767b1
+machine_hash: 8baa31a97b96a72a219f4c4ad2fd154e081d2fb34252d16f69287f6183a94c08
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
   - quote: 'We’re excited to bring GPT-4, our latest model, to our ChatGPT Plus subscribers.GPT-4
       has enhanced capabilities in:'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -39,7 +39,7 @@ record:
   theme: model-support
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: We’re excited to bring GPT-4, our latest model, to our ChatGPT Plus subscribers.
+  title: ChatGPT brings GPT-4, our latest model, to our ChatGPT Plus subscribers
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-03-14-to-give-every-plus-subscriber-a-chance-to-try-the-model-we-ll-dynamically-adjust|chatgpt-2023-03-14-6c5845]]'
@@ -48,11 +48,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2023-03-14-announcing-gpt-4-in-chatgpt-43063370|chatgpt-2023-03-14-announcing-gpt-4-in-chatgpt-43063370]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: We’re excited to bring GPT-4, our latest model, to our ChatGPT Plus subscribers.
+title: ChatGPT brings GPT-4, our latest model, to our ChatGPT Plus subscribers
 type: change
 ---
 
-# We’re excited to bring GPT-4, our latest model, to our ChatGPT Plus subscribers.
+# ChatGPT brings GPT-4, our latest model, to our ChatGPT Plus subscribers
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Announcing GPT-4 in ChatGPT: We’re excited to bring GPT-4, our latest model, to our ChatGPT Plus subscribers.GPT-4 has enhanced capabilities in:

@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6f6b90eb9b9d29b6ba1c210ce696cf0428901801ef5ace81ac975fd9d842a2b3
+machine_hash: 86c0f3bd41d53bcece0ff0cc185336bc182b24f36158a4f0b580673174c24a4d
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Added `attribution.sessionUrl` setting to omit the claude.ai session link
       from commits and PRs in web and Remote Control sessions
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.183
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,8 +37,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Added `attribution.sessionUrl` setting to omit the claude.ai session link
-    from c
+  title: Added `attribution.sessionUrl` setting to omit the claude.ai session link…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-16-improved-plugin-loading-performance-in-remote-sessions|claude-code-2026-06-16-e5e65a]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-19-v2-1-183-github-341696059-98586912|claude-code-2026-06-19-v2-1-183-github-341696059-98586912]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added attribution.sessionUrl setting to omit the claude.ai session link from
-  c
+title: Added attribution.sessionUrl setting to omit the claude.ai session link…
 type: change
 ---
 
-# Added `attribution.sessionUrl` setting to omit the claude.ai session link from c
+# Added `attribution.sessionUrl` setting to omit the claude.ai session link…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.183: Added `attribution.sessionUrl` setting to omit the claude.ai session link from commits and PRs in web and Remote Control sessions

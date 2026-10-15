@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 944fbdafe88001a1b6469254225ea120ba216537ebfe8b47bcf8633549071b23
+machine_hash: 08854b31eb0ee2612873c30eb2f3a8a85a482a36837f3ef7132dccdd26d6dd91
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Blocked writes to `.claude/skills` directory in sandbox mode
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.38
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

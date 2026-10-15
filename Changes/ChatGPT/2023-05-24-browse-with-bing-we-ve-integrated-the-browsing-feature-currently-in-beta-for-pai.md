@@ -11,9 +11,9 @@ diffusion:
   theme: search-browsing
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: ce4d70ef0896007816e092f62e68a6db7d34e7b36473ada36ce7b26ef503878e
+machine_hash: 12943df446325fe8f4dde70160c524415b24eafe172b91820b49d585f6dd66bd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
       beta for paid users - more deeply with Bing. You can now click into queries
       that the model is performing. We look forward to expanding the integration soon.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -54,8 +54,7 @@ record:
     - model
     score: 50
     theme: model-support
-  title: Browse with Bing. We’ve integrated the browsing feature - currently in beta
-    for
+  title: Browse with Bing
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|chatgpt-2023-03-23-c03c55]]'
@@ -63,12 +62,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2023-05-24-ios-app-available-in-more-countries-shared-links-in-alpha-bing-p-9800ed96|chatgpt-2023-05-24-ios-app-available-in-more-countries-shared-links-in-alpha-bing-p-9800ed96]]'
 source_type: chatgpt_changelog
 theme: search-browsing
-title: Browse with Bing. We’ve integrated the browsing feature - currently in beta
-  for
+title: Browse with Bing
 type: change
 ---
 
-# Browse with Bing. We’ve integrated the browsing feature - currently in beta for
+# Browse with Bing
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — iOS app available in more countries, shared links in alpha, Bing Plugin, disable history on iOS: Browse with Bing. We’ve integrated the browsing feature - currently in beta for paid users - more deeply with Bing. You can now click into queries that the model is performing. We look forward to expanding the integration soon.

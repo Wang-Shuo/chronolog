@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9073c94b969122f633249c19c95629c1b07f7c949427e8e180063d5bab20a6b8
+machine_hash: 3ca959537d0ff01c49d8cfb58c97356e1015aa8eaaa47365f1a2d10504a6ba63
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: The `/plugin` details pane and `claude plugin details` now show LSP servers
       a plugin provides
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.142
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -45,7 +45,7 @@ record:
     theme: developer-workflow
   theme_resolution: manual-semantic-rule-v1
   title: The `/plugin` details pane and `claude plugin details` now show LSP servers
-    a pl
+    a plugin…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-13-added-terminalsequence-field-to-hook-json-output-so-hooks-can-emit-desktop-notif|claude-code-2026-05-13-df56c4]]'
@@ -54,11 +54,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-14-v2-1-142-github-322792825-ffda4d4f|claude-code-2026-05-14-v2-1-142-github-322792825-ffda4d4f]]'
 source_type: github_releases
 theme: apps-integrations
-title: The /plugin details pane and claude plugin details now show LSP servers a pl
+title: The /plugin details pane and claude plugin details now show LSP servers a plugin…
 type: change
 ---
 
-# The `/plugin` details pane and `claude plugin details` now show LSP servers a pl
+# The `/plugin` details pane and `claude plugin details` now show LSP servers a plugin…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.142: The `/plugin` details pane and `claude plugin details` now show LSP servers a plugin provides

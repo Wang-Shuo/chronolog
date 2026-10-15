@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6550c860a46c0d508e2e0ce68a001887a97e1a0bf7934a15404d1cf91913426a
+machine_hash: 9f377dac48f35a6f78b303b09560c229f66135c13d0dba690908df4ab7618f1d
 product: cursor
 product_name: Cursor
 record:
@@ -24,7 +24,7 @@ record:
   evidence:
   - quote: Improves the stability of WSL.
     source_release: https://cursor.com/changelog/0-22-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -42,7 +42,7 @@ record:
     score: 50
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v1
-  title: Improves the stability of WSL.
+  title: Improves the stability of WSL
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-10-20-also-there-s-an-experimental-bash-mode-enable-it-in-the-settings-and-let-the-cha|cursor-2023-10-20-c108a2]]'
@@ -51,11 +51,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-01-06-0-22-0-https-cursor-com-changelog-0-22-0-04c2cd2c|cursor-2024-01-06-0-22-0-https-cursor-com-changelog-0-22-0-04c2cd2c]]'
 source_type: cursor_changelog
 theme: developer-workflow
-title: Improves the stability of WSL.
+title: Improves the stability of WSL
 type: change
 ---
 
-# Improves the stability of WSL.
+# Improves the stability of WSL
 
 <!-- chronolog:begin region="description" -->
 Cursor — Dev Containers: Improves the stability of WSL.

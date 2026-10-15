@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-11-22'
-machine_hash: a82543c2d30fcf74ee785fb7232f5bdcf3dc4a6cbe17524a250e4fdff32e623b
+machine_hash: 9a6f8f50ae72794234944c328ff6b7326e8a8e9f3f377527d2c191219064b2ae
 product: cursor
 product_name: Cursor
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- editor-experience: [[Changes/Cursor/2023-11-22-experimental-feature-go-to-more-interpreter-mode-to-enable-it-gives-the-model-ac|Experimental feature: go to "More"  "Interpreter Mode" to enable it. Gives the]]
+- editor-experience: [[Changes/Cursor/2023-11-22-experimental-feature-go-to-more-interpreter-mode-to-enable-it-gives-the-model-ac|Experimental feature: go to "More"  "Interpreter Mode" to enable it]]
 <!-- chronolog:end -->

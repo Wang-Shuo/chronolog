@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-08-12'
-machine_hash: 57b12b4d086ff986390d56053aad0ca8e652d54e933b33e6ffcc70fb870f34d4
+machine_hash: 3670b8c63d2423ff5e8f88e6a40289ca798f70fb08fe223f39e4a63f766bfdc1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2025-08-12-you-can-now-choose-between-auto-fast-and-thinking-for-gpt-5-most-users-will-want-f4c05b|You can now choose between “Auto”, “Fast”, and “Thinking” for GPT-5. Most users]]
+- model-support: [[Changes/ChatGPT/2025-08-12-you-can-now-choose-between-auto-fast-and-thinking-for-gpt-5-most-users-will-want-f4c05b|Choose between “Auto”, “Fast”, and “Thinking” for GPT-5]]
 <!-- chronolog:end -->

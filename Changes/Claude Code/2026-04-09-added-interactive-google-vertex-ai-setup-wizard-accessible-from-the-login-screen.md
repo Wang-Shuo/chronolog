@@ -11,9 +11,9 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 6f14a661ab74b9109ffe8c11ce1fc8a8b521727e5bb99d7f38ee6dc65a9793c7
+machine_hash: 76e0b8931ea0cf6e6c84788516c01cbf54e0860fd18d2a793dd61b2e3300f399
 product: claude-code
 product_name: Claude Code
 record:
@@ -31,7 +31,7 @@ record:
       screen when selecting "3rd-party platform", guiding you through GCP authentication,
       project and region configuration, credential verification, and model pinning
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.98
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -50,7 +50,7 @@ record:
     score: 50
     theme: model-support
   title: Added interactive Google Vertex AI setup wizard accessible from the login
-    screen
+    screen…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-18-added-console-flag-to-claude-auth-login-for-anthropic-console-api-billing-authen|claude-code-2026-03-18-43d796]]'
@@ -59,11 +59,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-09-v2-1-98-github-307232194-a0774436|claude-code-2026-04-09-v2-1-98-github-307232194-a0774436]]'
 source_type: github_releases
 theme: account-access
-title: Added interactive Google Vertex AI setup wizard accessible from the login screen
+title: Added interactive Google Vertex AI setup wizard accessible from the login screen…
 type: change
 ---
 
-# Added interactive Google Vertex AI setup wizard accessible from the login screen
+# Added interactive Google Vertex AI setup wizard accessible from the login screen…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.98: Added interactive Google Vertex AI setup wizard accessible from the login screen when selecting "3rd-party platform", guiding you through GCP authentication, project and region configuration, credential verification, and model pinning

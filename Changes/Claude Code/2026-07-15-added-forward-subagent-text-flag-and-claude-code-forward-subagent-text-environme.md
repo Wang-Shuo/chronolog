@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d63135d8b66ede07b501672844dcb3ae0cc7fee764fc949f9eb11d833713e010
+machine_hash: bffc94cbbc16a1768871b4d2d8ba82dda696af9e701b5d7964fe029de8d10e6f
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `--forward-subagent-text` flag and `CLAUDE_CODE_FORWARD_SUBAGENT_TEXT`
       environment variable to include subagent text and thinking in stream-json output
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.211
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -34,8 +34,7 @@ record:
   source_release: claude-code-2026-07-15-v2-1-211-github-354658856-71e66e57
   source_type: github_releases
   theme: agent-mode
-  title: Added `--forward-subagent-text` flag and `CLAUDE_CODE_FORWARD_SUBAGENT_TEXT`
-    env
+  title: Added `--forward-subagent-text` flag and `CLAUDE_CODE_FORWARD_SUBAGENT_TEXT`…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-14-hardened-the-agent-tool-against-indirect-prompt-injection-via-content-a-subagent|claude-code-2026-07-14-b086cc]]'
@@ -44,11 +43,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-15-v2-1-211-github-354658856-71e66e57|claude-code-2026-07-15-v2-1-211-github-354658856-71e66e57]]'
 source_type: github_releases
 theme: agent-mode
-title: Added --forward-subagent-text flag and CLAUDE_CODE_FORWARD_SUBAGENT_TEXT env
+title: Added --forward-subagent-text flag and CLAUDE_CODE_FORWARD_SUBAGENT_TEXT…
 type: change
 ---
 
-# Added `--forward-subagent-text` flag and `CLAUDE_CODE_FORWARD_SUBAGENT_TEXT` env
+# Added `--forward-subagent-text` flag and `CLAUDE_CODE_FORWARD_SUBAGENT_TEXT`…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.211: Added `--forward-subagent-text` flag and `CLAUDE_CODE_FORWARD_SUBAGENT_TEXT` environment variable to include subagent text and thinking in stream-json output

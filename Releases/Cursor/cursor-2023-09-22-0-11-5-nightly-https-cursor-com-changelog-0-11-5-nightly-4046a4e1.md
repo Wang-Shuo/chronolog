@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-09-22'
-machine_hash: 8c4f77c2d20db3e3f278daa87c586c8ad63b4de04975dc854826b603a6985914
+machine_hash: 887c0d2887a692a9d18b02447e64db8f71c7fa25680af770fb83161b3d8c3ddd
 product: cursor
 product_name: Cursor
 record:
@@ -39,5 +39,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- reliability-performance: [[Changes/Cursor/2023-09-22-stable-version-of-indexing-this-should-be-much-more-stable-than-previous-version|Stable version of indexing. this should be much more stable than previous versio]]
+- reliability-performance: [[Changes/Cursor/2023-09-22-stable-version-of-indexing-this-should-be-much-more-stable-than-previous-version|Stable version of indexing. this should be much more stable than previous versions]]
 <!-- chronolog:end -->

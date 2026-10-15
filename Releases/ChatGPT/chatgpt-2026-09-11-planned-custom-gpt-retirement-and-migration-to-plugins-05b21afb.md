@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-09-11'
-machine_hash: 3939abcc03c69baa29b205de258fe66ca32fae219c6054a0c52c1553832c8339
+machine_hash: 421f27dafb119a9bb8fe049a15ddd48fb0cf4de66a71686a1e1278e741a0d31f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- apps-integrations: [[Changes/ChatGPT/2026-09-11-we-re-planning-to-retire-custom-gpts-across-chatgpt-plans-and-provide-a-migratio|We’re planning to retire custom GPTs across ChatGPT plans and provide a migratio]]
+- apps-integrations: [[Changes/ChatGPT/2026-09-11-we-re-planning-to-retire-custom-gpts-across-chatgpt-plans-and-provide-a-migratio|We’re planning to retire custom GPTs across ChatGPT plans and provide a migration…]]
 <!-- chronolog:end -->

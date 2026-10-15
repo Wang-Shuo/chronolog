@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2025-06-12'
-machine_hash: c6b03615257701b241da09e27a8937554324e5ab8e58a9f465f10c7f98c39a19
+machine_hash: 67442e27f4a26eaf5a67ee37fb858beea0ce5f8efc9a03d3dd0a3a6713e3ff0f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,7 +42,7 @@ Tracked cards: 5
 <!-- chronolog:begin region="cards" -->
 - collaboration: [[Changes/ChatGPT/2025-06-12-sharing-chats-from-projects|Sharing chats from projects]]
 - projects-workspaces: [[Changes/ChatGPT/2025-06-12-starting-a-new-project-directly-from-a-chat|Starting a new project directly from a chat]]
-- collaboration: [[Changes/ChatGPT/2025-06-12-starting-today-we-re-adding-several-updates-to-projects-in-chatgpt-to-help-you-d|Starting today, we’re adding several updates to projects in ChatGPT to help you]]
+- collaboration: [[Changes/ChatGPT/2025-06-12-starting-today-we-re-adding-several-updates-to-projects-in-chatgpt-to-help-you-d|Starting today, we’re adding several updates to projects in ChatGPT to help you do…]]
 - memory: [[Changes/ChatGPT/2025-06-12-improvements-to-memory-to-reference-past-chats-in-a-project|Improvements to memory to reference past chats in a project]]
 - voice: [[Changes/ChatGPT/2025-06-12-deep-research-and-voice-mode-support|Deep research and voice mode support]]
 <!-- chronolog:end -->

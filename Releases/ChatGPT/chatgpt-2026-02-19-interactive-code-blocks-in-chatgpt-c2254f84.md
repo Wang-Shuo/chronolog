@@ -1,7 +1,7 @@
 ---
 changes_count: 4
 date: '2026-02-19'
-machine_hash: 68dfa256064296266efee3fd84466a2791f897424de51e42fb53e69e5d1d093e
+machine_hash: 8975292d6eb57127423ee0f354ccc92895d3a9c9ce084fae3da27b59b984e65c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,7 +40,7 @@ Tracked cards: 4
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
 - editor-experience: [[Changes/ChatGPT/2026-02-19-write-and-edit-text-in-line|Write and edit text in-line]]
-- editor-experience: [[Changes/ChatGPT/2026-02-19-we-improved-code-blocks-in-chatgpt-to-make-them-more-interactive-you-can-write-e-69f629|We improved Code Blocks in ChatGPT to make them more interactive. You can write,]]
+- editor-experience: [[Changes/ChatGPT/2026-02-19-we-improved-code-blocks-in-chatgpt-to-make-them-more-interactive-you-can-write-e-69f629|We improved Code Blocks in ChatGPT to make them more interactive]]
 - apps-integrations: [[Changes/ChatGPT/2026-02-19-preview-diagrams-and-mini-apps-directly-in-chat|Preview diagrams and mini apps directly in chat]]
 - developer-workflow: [[Changes/ChatGPT/2026-02-19-review-code-in-split-screen-views|Review code in split-screen views]]
 <!-- chronolog:end -->

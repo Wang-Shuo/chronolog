@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: eb25fbd5e8b84bfe9cdc017c6adde1e3e6d031d4c69733264935f1e883d3092d
+machine_hash: 7553b211eb5809314c10d48a0270795b86adc4be8b6f121dab05b215a3fc1b89
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
       an unimported symbol, we'll now auto-import it to your current file. You can
       enable it in Settings > Features > Cursor Tab!
     source_release: https://cursor.com/changelog/0-40-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,8 +37,7 @@ record:
   source_release: cursor-2024-08-22-0-40-x-https-cursor-com-changelog-0-40-x-317cba42
   source_type: cursor_changelog
   theme: editor-experience
-  title: Auto imports (beta) for Cursor Tab for TypeScript files — when Tab suggests
-    an u
+  title: Auto imports (beta) for Cursor Tab for TypeScript files
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-07-13-this-build-comes-with-a-new-experimental-multi-file-editing-feature-to-enable-it|cursor-2024-07-13-1e4b80]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-08-22-0-40-x-https-cursor-com-changelog-0-40-x-317cba42|cursor-2024-08-22-0-40-x-https-cursor-com-changelog-0-40-x-317cba42]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: Auto imports (beta) for Cursor Tab for TypeScript files — when Tab suggests
-  an u
+title: Auto imports (beta) for Cursor Tab for TypeScript files
 type: change
 ---
 
-# Auto imports (beta) for Cursor Tab for TypeScript files — when Tab suggests an u
+# Auto imports (beta) for Cursor Tab for TypeScript files
 
 <!-- chronolog:begin region="description" -->
 Cursor — New Chat UX, Default-On Composer, New Cursor Tab Model: Auto imports (beta) for Cursor Tab for TypeScript files — when Tab suggests an unimported symbol, we'll now auto-import it to your current file. You can enable it in Settings > Features > Cursor Tab!

@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6d3304891b6af2c2aac3dba348268560e336703523b98e1869395d4e947a411d
+machine_hash: 5aede0f940576ca0c7ff33a285372b6e15e78c1831f73850c4398967a314ba44
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `/tui` command and `tui` setting — run `/tui fullscreen` to switch
       to flicker-free rendering in the same conversation
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.110
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -34,8 +34,7 @@ record:
   source_release: claude-code-2026-04-15-v2-1-110-github-309583669-83ce1e59
   source_type: github_releases
   theme: interface-experience
-  title: Added `/tui` command and `tui` setting — run `/tui fullscreen` to switch
-    to flic
+  title: Added `/tui` command and `tui` setting
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-14-show-thinking-hints-sooner-during-long-operations|claude-code-2026-04-14-8687a5]]'
@@ -44,11 +43,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-15-v2-1-110-github-309583669-83ce1e59|claude-code-2026-04-15-v2-1-110-github-309583669-83ce1e59]]'
 source_type: github_releases
 theme: interface-experience
-title: Added /tui command and tui setting — run /tui fullscreen to switch to flic
+title: Added /tui command and tui setting
 type: change
 ---
 
-# Added `/tui` command and `tui` setting — run `/tui fullscreen` to switch to flic
+# Added `/tui` command and `tui` setting
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.110: Added `/tui` command and `tui` setting — run `/tui fullscreen` to switch to flicker-free rendering in the same conversation

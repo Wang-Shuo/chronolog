@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: fe1fb4dd3bd278151b49556411b7a1a594c2d7da9470a7ab44b54b3323a18ca6
+machine_hash: d01b6f39fbb068153f2475e82579b14709adb6864d9f8b57af27f256264a5ecd
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Improved startup memory usage by ~18MB across all scenarios
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.79
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 4247b51078c4487eafce5a91312517378a3d7947409e36e75f7d753510fea21d
+machine_hash: 17fcfaf0a0b561e813b860a624f12e79d03d6d4a17eb32ff64952638f0802dcf
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Added external editor support (Ctrl+G) in AskUserQuestion "Other" input
       field
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.9
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code

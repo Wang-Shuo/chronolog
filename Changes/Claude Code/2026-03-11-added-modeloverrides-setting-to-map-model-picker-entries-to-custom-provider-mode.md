@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 87865928d61e3013fa1e4e682ec40ddfe344cb2076f14fb5947ba5575a059770
+machine_hash: 3948c0a81152d53e84ae1fddf9f106b7673ec99af1d9a33ca220f51f54b48400
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Added `modelOverrides` setting to map model picker entries to custom provider
       model IDs (e.g. Bedrock inference profile ARNs)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.73
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -47,7 +47,7 @@ record:
     theme: model-support
   theme_resolution: manual-semantic-rule-v1
   title: Added `modelOverrides` setting to map model picker entries to custom provider
-    mo
+    model…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-05-added-numeric-keypad-support-for-selecting-options-in-claude-s-interview-questio|claude-code-2026-03-05-b1f867]]'
@@ -57,11 +57,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-03-11-v2-1-73-github-29
 source_type: github_releases
 theme: interface-experience
 title: Added modelOverrides setting to map model picker entries to custom provider
-  mo
+  model…
 type: change
 ---
 
-# Added `modelOverrides` setting to map model picker entries to custom provider mo
+# Added `modelOverrides` setting to map model picker entries to custom provider model…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.73: Added `modelOverrides` setting to map model picker entries to custom provider model IDs (e.g. Bedrock inference profile ARNs)

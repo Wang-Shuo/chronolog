@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 397ed6de0eac8589c5358a344c6f61c2f97a306dea885f01663916c527629434
+machine_hash: 528c338f3e59961c0c565a053b9bdbd1a568e551824e4e8f1a1906562aa132dd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       more people access to higher-quality responses by default. See here to learn
       more about the intelligence of GPT-5.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -42,7 +42,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: We’re updating the model for signed-out users to GPT-5 Instant, giving more
-    peop
+    people…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-09-17-all-queries-default-to-standard-unless-you-choose-to-change-it-once-you-choose-a|chatgpt-2025-09-17-d10c30]]'
@@ -52,11 +52,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2025-10-22-we-re-updating-the-model-
 source_type: chatgpt_changelog
 theme: model-support
 title: We’re updating the model for signed-out users to GPT-5 Instant, giving more
-  peop
+  people…
 type: change
 ---
 
-# We’re updating the model for signed-out users to GPT-5 Instant, giving more peop
+# We’re updating the model for signed-out users to GPT-5 Instant, giving more people…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — We’re updating the model for signed-out users to GPT-5 Instant, giving more people access to higher-quality responses by: We’re updating the model for signed-out users to GPT-5 Instant, giving more people access to higher-quality responses by default. See here to learn more about the intelligence of GPT-5.

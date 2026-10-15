@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 04f2f09dff00b64c3d44f0a6e1f888cb312f78d84f5b8b4f292c1dcbcb68440f
+machine_hash: cef6138eecd73bc2813b92ec07ce19b4310aec039be27e7dd62a39c77c8e4757
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Added `fmt`, `comm`, `cmp`, `numfmt`, `expr`, `test`, `printf`, `getconf`,
       `seq`, `tsort`, and `pr` to the bash auto-approval allowlist
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.71
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,7 +38,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: Added `fmt`, `comm`, `cmp`, `numfmt`, `expr`, `test`, `printf`, `getconf`,
-    `seq`
+    `seq`…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-03-03-added-support-for-multiple-parallel-debug-mode-sessions|cursor-2026-03-03-6534aa]]'
@@ -47,11 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-07-v2-1-71-github-294146317-ab5a32e0|claude-code-2026-03-07-v2-1-71-github-294146317-ab5a32e0]]'
 source_type: github_releases
 theme: developer-workflow
-title: Added fmt, comm, cmp, numfmt, expr, test, printf, getconf, seq
+title: Added fmt, comm, cmp, numfmt, expr, test, printf, getconf, seq…
 type: change
 ---
 
-# Added `fmt`, `comm`, `cmp`, `numfmt`, `expr`, `test`, `printf`, `getconf`, `seq`
+# Added `fmt`, `comm`, `cmp`, `numfmt`, `expr`, `test`, `printf`, `getconf`, `seq`…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.71: Added `fmt`, `comm`, `cmp`, `numfmt`, `expr`, `test`, `printf`, `getconf`, `seq`, `tsort`, and `pr` to the bash auto-approval allowlist

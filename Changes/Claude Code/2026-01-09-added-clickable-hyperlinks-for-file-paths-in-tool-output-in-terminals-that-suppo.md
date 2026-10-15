@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 636f974221d1fcbcc1b4a0251bb35b8d707cdca3859de09028ac6c8564356649
+machine_hash: e157d70297c5af25909b141afa4b81c54f3e65f1cd53e9b938383bfa4d73ac7d
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Added clickable hyperlinks for file paths in tool output in terminals that
       support OSC 8 (like iTerm)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.2
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -39,7 +39,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: Added clickable hyperlinks for file paths in tool output in terminals that
-    suppo
+    support…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-01-08-use-the-new-agent-models-command-list-models-flag-or-models-slash-command-to-lis|cursor-2026-01-08-26a5de]]'
@@ -49,11 +49,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-01-09-v2-1-2-github-275
 source_type: github_releases
 theme: developer-workflow
 title: Added clickable hyperlinks for file paths in tool output in terminals that
-  suppo
+  support…
 type: change
 ---
 
-# Added clickable hyperlinks for file paths in tool output in terminals that suppo
+# Added clickable hyperlinks for file paths in tool output in terminals that support…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.2: Added clickable hyperlinks for file paths in tool output in terminals that support OSC 8 (like iTerm)

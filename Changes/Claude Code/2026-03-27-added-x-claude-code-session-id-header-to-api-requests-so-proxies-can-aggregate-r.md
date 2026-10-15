@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3dded10481888166d4422c034fe4f51e926f26eb7c9c62debf36f1d75e33aeb0
+machine_hash: eaa63eb7976e07940ec9cdcb0994a6c3b5396edf164b7bc80604909b2d2a002d
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Added `X-Claude-Code-Session-Id` header to API requests so proxies can
       aggregate requests by session without parsing the body
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.86
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme: developer-workflow
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Added `X-Claude-Code-Session-Id` header to API requests so proxies can aggregate
+  title: Added `X-Claude-Code-Session-Id` header to API requests so proxies can aggregate…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-20-resuming-a-session-that-was-in-a-worktree-now-switches-back-to-that-worktree|claude-code-2026-03-20-c20f4f]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-27-v2-1-86-github-302569462-d6b30859|claude-code-2026-03-27-v2-1-86-github-302569462-d6b30859]]'
 source_type: github_releases
 theme: developer-workflow
-title: Added X-Claude-Code-Session-Id header to API requests so proxies can aggregate
+title: Added X-Claude-Code-Session-Id header to API requests so proxies can aggregate…
 type: change
 ---
 
-# Added `X-Claude-Code-Session-Id` header to API requests so proxies can aggregate
+# Added `X-Claude-Code-Session-Id` header to API requests so proxies can aggregate…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.86: Added `X-Claude-Code-Session-Id` header to API requests so proxies can aggregate requests by session without parsing the body

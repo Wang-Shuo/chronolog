@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 01595dce4f38d96fab852590a66ffbbdbc2f6efbda34c7e78520118dfacfb62d
+machine_hash: 912905af2d0f408762a0eb4b1a26bab23ffd365e54f16ccb7023361ada922507
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Re-introduced the "ultrathink" keyword to enable high effort for the next
       turn
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.68
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

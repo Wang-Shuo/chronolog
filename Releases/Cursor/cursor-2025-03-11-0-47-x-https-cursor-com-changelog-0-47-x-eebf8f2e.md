@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2025-03-11'
-machine_hash: 46c8658e3cd6f01e4086638b62a9f3820de927e4334aa793bfc51bc825e308bc
+machine_hash: fc376a71533ef1659590a01d3415d66b59b8b4fb48fe4f301681e31f04e09de6
 product: cursor
 product_name: Cursor
 record:
@@ -40,7 +40,7 @@ Tracked cards: 5
 <!-- chronolog:begin region="cards" -->
 - model-support: [[Changes/Cursor/2025-03-11-0-47-7-max-mode-for-3-7-sonnet-with-and-without-thinking|0.47.7: MAX mode for 3.7 Sonnet with and without thinking]]
 - editor-experience: [[Changes/Cursor/2025-03-11-0-47-2-cursor-tab-accepts-work-with-single-line-selections|0.47.2: Cursor Tab accepts work with single-line selections]]
-- model-support: [[Changes/Cursor/2025-03-11-0-47-5-client-side-support-for-upcoming-max-mode-compatibility-for-claude-3-7-so|0.47.5: Client-side support for upcoming MAX mode compatibility for Claude 3.7 S]]
+- model-support: [[Changes/Cursor/2025-03-11-0-47-5-client-side-support-for-upcoming-max-mode-compatibility-for-claude-3-7-so|0.47.5: Client-side support for upcoming MAX mode compatibility for Claude 3.7 Sonnet]]
 - reliability-performance: [[Changes/Cursor/2025-03-11-0-47-1-improved-performance-added-back-play-button-to-apply-code-blocks|0.47.1: Improved performance, added back play button to apply code blocks]]
 - reliability-performance: [[Changes/Cursor/2025-03-11-0-47-6-faster-applies-warns-user-when-edits-fails-because-of-cursorignore|0.47.6: Faster applies, warns user when edits fails because of cursorignore]]
 <!-- chronolog:end -->

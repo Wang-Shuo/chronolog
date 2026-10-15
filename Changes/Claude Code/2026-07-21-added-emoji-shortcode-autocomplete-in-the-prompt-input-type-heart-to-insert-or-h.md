@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f4ab01190f935dfbbae9157c4c1e82d7e233ff45c80fa5347e500f0a7f719cc8
+machine_hash: 40c2c4419ff0b1077ab85882931299a3d46b0b861369b251c9616a4a64b0d52c
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       to insert ❤️, or `:hea` for suggestions — disable with the `emojiCompletionEnabled`
       setting'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.217
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   source_release: claude-code-2026-07-21-v2-1-217-github-357601516-b5c19f5d
   source_type: github_releases
   theme: editor-experience
-  title: 'Added emoji shortcode autocomplete in the prompt input: type `:heart:` to
-    insert'
+  title: Added emoji shortcode autocomplete in the prompt input
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-10-added-a-doctor-check-that-proposes-trimming-checked-in-claude-md-files-by-cuttin|claude-code-2026-07-10-25ebde]]'
@@ -46,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-21-v2-1-217-github-357601516-b5c19f5d|claude-code-2026-07-21-v2-1-217-github-357601516-b5c19f5d]]'
 source_type: github_releases
 theme: editor-experience
-title: 'Added emoji shortcode autocomplete in the prompt input: type :heart: to insert'
+title: Added emoji shortcode autocomplete in the prompt input
 type: change
 ---
 
-# Added emoji shortcode autocomplete in the prompt input: type `:heart:` to insert
+# Added emoji shortcode autocomplete in the prompt input
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.217: Added emoji shortcode autocomplete in the prompt input: type `:heart:` to insert ❤️, or `:hea` for suggestions — disable with the `emojiCompletionEnabled` setting

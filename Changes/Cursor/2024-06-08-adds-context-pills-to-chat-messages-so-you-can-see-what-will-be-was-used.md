@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f2b0acff64ae8e65996d45a93e65aef46b03947b2b4d69e23a94599ccf8fc93e
+machine_hash: aa4b4150d5afc4aed9ba43cab4fcf3c5cbb10aa3d942125a72b54cf33ce76577
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Adds context pills to chat messages, so you can see what will be/was used
     source_release: https://cursor.com/changelog/0-35-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

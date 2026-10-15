@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3cbc04136d8fa685b965afe08281c0765f1f33b8dcb72ad79f8ea0aa4c03bbf0
+machine_hash: fa6d43733effb4575efa44f93da0bb4f309ad8784d4edd93c0b8da7a24bcd397
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Monitoring tasks can search the web and check connected apps for changes
       and notify users only when there is something worth reporting.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -36,7 +36,7 @@ record:
   source_type: chatgpt_changelog
   theme: apps-integrations
   title: Monitoring tasks can search the web and check connected apps for changes
-    and not
+    and notify…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-10-amazon-bedrock-now-reads-the-aws-region-from-aws-config-files-when-aws-region-is|claude-code-2026-06-10-3fd1c9]]'
@@ -46,11 +46,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-06-17-scheduled-tasks-in-chatgp
 source_type: chatgpt_changelog
 theme: apps-integrations
 title: Monitoring tasks can search the web and check connected apps for changes and
-  not
+  notify…
 type: change
 ---
 
-# Monitoring tasks can search the web and check connected apps for changes and not
+# Monitoring tasks can search the web and check connected apps for changes and notify…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Scheduled tasks in ChatGPT: Monitoring tasks can search the web and check connected apps for changes and notify users only when there is something worth reporting.

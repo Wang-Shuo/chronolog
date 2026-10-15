@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ace2d8de08b79f91c2c5564f3d4b125de1d0fc82824630b99460705e22c39306
+machine_hash: 20db018c896dc3ad748db2c1d131059ec2a1f8e10554e9c0f2be8da6c7f80f6a
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
       work that was previously too hard for regular agents. This led to larger, more
       complete PRs with fewer obvious follow-ups.
     source_release: https://cursor.com/changelog/02-12-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,8 +37,7 @@ record:
   source_release: cursor-2026-02-12-long-running-agents-in-research-preview-https-cursor-com-changel-2b95c718
   source_type: cursor_changelog
   theme: agent-mode
-  title: In research preview and internal testing, long-running agents completed work
-    tha
+  title: In research preview and internal testing, long-running agents completed work…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-06-added-support-for-restricting-which-sub-agents-can-be-spawned-via-task-agent-typ|claude-code-2026-02-06-15e27b]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-02-12-long-running-agents-in-research-preview-https-cursor-com-changel-2b95c718|cursor-2026-02-12-long-running-agents-in-research-preview-https-cursor-com-changel-2b95c718]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: In research preview and internal testing, long-running agents completed work
-  tha
+title: In research preview and internal testing, long-running agents completed work…
 type: change
 ---
 
-# In research preview and internal testing, long-running agents completed work tha
+# In research preview and internal testing, long-running agents completed work…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Long-running Agents in Research Preview: In research preview and internal testing, long-running agents completed work that was previously too hard for regular agents. This led to larger, more complete PRs with fewer obvious follow-ups.

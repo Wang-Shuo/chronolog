@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a5f0eef1c5f5cedfd24aafaa791774b7d412be6764db0fc25a6c1813e24924bc
+machine_hash: 90c9b99ab98cfc611ba86538ed167c9dbf1f685c53b257bf843b1e2b34569f1b
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,7 +29,7 @@ record:
       sync, and skill directory walks; requires `ANTHROPIC_API_KEY` or an `apiKeyHelper`
       via `--settings` (OAuth and keychain auth disabled); auto-memory fully disabled
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.81
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -55,8 +55,7 @@ record:
     score: 50
     theme: developer-workflow
   theme_resolution: manual-backfill-review-v1
-  title: Added `--bare` flag for scripted `-p` calls — skips hooks, LSP, plugin sync,
-    and
+  title: Added `--bare` flag for scripted `-p` calls
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-14-added-worktree-sparsepaths-setting-for-claude-worktree-in-large-monorepos-to-che|claude-code-2026-03-14-d75873]]'
@@ -65,11 +64,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-20-v2-1-81-github-299621655-10d2d4fe|claude-code-2026-03-20-v2-1-81-github-299621655-10d2d4fe]]'
 source_type: github_releases
 theme: developer-workflow
-title: Added --bare flag for scripted -p calls — skips hooks, LSP, plugin sync, and
+title: Added --bare flag for scripted -p calls
 type: change
 ---
 
-# Added `--bare` flag for scripted `-p` calls — skips hooks, LSP, plugin sync, and
+# Added `--bare` flag for scripted `-p` calls
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.81: Added `--bare` flag for scripted `-p` calls — skips hooks, LSP, plugin sync, and skill directory walks; requires `ANTHROPIC_API_KEY` or an `apiKeyHelper` via `--settings` (OAuth and keychain auth disabled); auto-memory fully disabled

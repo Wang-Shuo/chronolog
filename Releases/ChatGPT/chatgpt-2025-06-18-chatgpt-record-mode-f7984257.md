@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2025-06-18'
-machine_hash: 09a778f9b13138c42293d2b2ab38748ef792a28f66e59bfb8c56c6dd9dd75466
+machine_hash: 11942858913c80536a0f979dd16567cd70f950b98c36c26b023c25cd4f5ea072
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,6 +40,6 @@ Tracked cards: 2
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- voice: [[Changes/ChatGPT/2025-06-18-chatgpt-will-transcribe-summarize-and-turn-them-into-helpful-outputs-like-follow|ChatGPT will transcribe, summarize, and turn them into helpful outputs like foll]]
-- voice: [[Changes/ChatGPT/2025-06-18-capture-meetings-brainstorms-or-voice-notes-launching-today-for-pro-enterprise-a|Capture meetings, brainstorms, or voice notes. Launching today for Pro, Enterpri]]
+- voice: [[Changes/ChatGPT/2025-06-18-chatgpt-will-transcribe-summarize-and-turn-them-into-helpful-outputs-like-follow|ChatGPT will transcribe, summarize, and turn them into helpful outputs like…]]
+- voice: [[Changes/ChatGPT/2025-06-18-capture-meetings-brainstorms-or-voice-notes-launching-today-for-pro-enterprise-a|Capture meetings, brainstorms, or voice notes]]
 <!-- chronolog:end -->

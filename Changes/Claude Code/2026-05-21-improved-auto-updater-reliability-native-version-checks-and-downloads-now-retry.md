@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d134941b0764c97c7ac79f23a3ea1e3864da643d5131cc785e1e6f85078f8240
+machine_hash: 3238e5217cbf9d7523a99653f9bb33b6b2c85d68baf3499378cc9f3402acc4ec
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: 'Improved auto-updater reliability: native version checks and downloads
       now retry transient network failures instead of failing immediately'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.146
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,8 +37,7 @@ record:
   theme: reliability-performance
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: 'Improved auto-updater reliability: native version checks and downloads now
-    retry'
+  title: Improved auto-updater reliability
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-11-added-scroll-speed-command-to-tune-mouse-wheel-scroll-speed-with-a-live-preview|claude-code-2026-05-11-f33a76]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-21-v2-1-146-github-326230049-ea612648|claude-code-2026-05-21-v2-1-146-github-326230049-ea612648]]'
 source_type: github_releases
 theme: reliability-performance
-title: 'Improved auto-updater reliability: native version checks and downloads now
-  retry'
+title: Improved auto-updater reliability
 type: change
 ---
 
-# Improved auto-updater reliability: native version checks and downloads now retry
+# Improved auto-updater reliability
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.146: Improved auto-updater reliability: native version checks and downloads now retry transient network failures instead of failing immediately

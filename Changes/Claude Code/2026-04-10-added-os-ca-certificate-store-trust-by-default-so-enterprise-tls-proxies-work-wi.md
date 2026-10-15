@@ -11,9 +11,9 @@ diffusion:
   theme: enterprise-admin
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9787679034bde5bbc763a2b22d1a81513a62774794546c0ceac84740f1677012
+machine_hash: ab84802713d19683ff09a8f2fd58d36865e80cc796428a8d9e97df4db9db2a55
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       work without extra setup (set `CLAUDE_CODE_CERT_STORE=bundled` to use only bundled
       CAs)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.101
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   source_type: github_releases
   theme: enterprise-admin
   title: Added OS CA certificate store trust by default, so enterprise TLS proxies
-    work w
+    work…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-03-17-we-ve-simplified-the-model-picker-to-make-it-easier-to-choose-the-right-level-of|chatgpt-2026-03-17-2fd325]]'
@@ -46,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-10-v2-1-101-github-307692858-ffcdf642|claude-code-2026-04-10-v2-1-101-github-307692858-ffcdf642]]'
 source_type: github_releases
 theme: enterprise-admin
-title: Added OS CA certificate store trust by default, so enterprise TLS proxies work
-  w
+title: Added OS CA certificate store trust by default, so enterprise TLS proxies work…
 type: change
 ---
 
-# Added OS CA certificate store trust by default, so enterprise TLS proxies work w
+# Added OS CA certificate store trust by default, so enterprise TLS proxies work…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.101: Added OS CA certificate store trust by default, so enterprise TLS proxies work without extra setup (set `CLAUDE_CODE_CERT_STORE=bundled` to use only bundled CAs)

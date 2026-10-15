@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-03-17'
-machine_hash: fe731eb3d9d5375b68fa6386112cee70b054dfffa4344a8658243642ab22a058
+machine_hash: 680c772842e4b80e630984a3d6b4dbe7b0d516d14d0c076ba7fd443ff62a6420
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- memory: [[Changes/ChatGPT/2026-03-17-we-re-sunsetting-the-preset-nerdy-base-style-to-simplify-options-and-improve-res|We’re sunsetting the preset Nerdy base style to simplify options and improve res]]
+- memory: [[Changes/ChatGPT/2026-03-17-we-re-sunsetting-the-preset-nerdy-base-style-to-simplify-options-and-improve-res|We’re sunsetting the preset Nerdy base style to simplify options and improve…]]
 <!-- chronolog:end -->

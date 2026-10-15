@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ca2588473ced40b9102bc4eeacc6634ba0bbfcd2df1b6e8803f4add71fd81e0d
+machine_hash: 34dd120bb779f300c7fbf3fac8414209f57f9bb3ab3f5b12b1e02539f4e7d2ee
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Added an auto mode rule that blocks tampering with session transcript files
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.205
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

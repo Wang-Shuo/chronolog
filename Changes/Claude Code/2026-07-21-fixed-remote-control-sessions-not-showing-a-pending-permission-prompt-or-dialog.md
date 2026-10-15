@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: fca2bd35c8e7cf75357ccc3aa9cc5b9151c98ebff01e0a4a6b63de1cbf5781b2
+machine_hash: c2ab8ad61fb979083e37729f6e50f07c65a36693a63eedb4d396dc23fab952c6
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Fixed Remote Control sessions not showing a pending permission prompt or
       dialog to viewers that connected after it appeared
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.217
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: Fixed Remote Control sessions not showing a pending permission prompt or
-    dialog
+    dialog…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-20-fixed-read-only-commands-on-windows-accessing-network-paths-without-a-permission|claude-code-2026-07-20-bb1a4e]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-21-v2-1-217-github-357601516-b5c19f5d|claude-code-2026-07-21-v2-1-217-github-357601516-b5c19f5d]]'
 source_type: github_releases
 theme: safety-privacy
-title: Fixed Remote Control sessions not showing a pending permission prompt or dialog
+title: Fixed Remote Control sessions not showing a pending permission prompt or dialog…
 type: change
 ---
 
-# Fixed Remote Control sessions not showing a pending permission prompt or dialog
+# Fixed Remote Control sessions not showing a pending permission prompt or dialog…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.217: Fixed Remote Control sessions not showing a pending permission prompt or dialog to viewers that connected after it appeared

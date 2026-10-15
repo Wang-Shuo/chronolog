@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6b202a941be0de8f10f8b0f3c0d204ff89484025aabed89b393f9912e3639ff5
+machine_hash: 4500f3d8915c23f36e72ac9ec7eeaa7472fcf14bd8d36521d640a7d7976b6ba8
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: 'Improved Remote Control: photos attached from the Claude app are now shown
       to Claude directly instead of being read from disk with a separate tool call'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.225
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,8 +37,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: 'Improved Remote Control: photos attached from the Claude app are now shown
-    to Cl'
+  title: Improved Remote Control
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-04-added-warnings-to-claude-plugin-validate-when-a-marketplace-or-plugin-name-would|claude-code-2026-08-04-ea0083]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-08-08-v2-1-225-github-367046190-ccb40049|claude-code-2026-08-08-v2-1-225-github-367046190-ccb40049]]'
 source_type: github_releases
 theme: apps-integrations
-title: 'Improved Remote Control: photos attached from the Claude app are now shown
-  to Cl'
+title: Improved Remote Control
 type: change
 ---
 
-# Improved Remote Control: photos attached from the Claude app are now shown to Cl
+# Improved Remote Control
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.225: Improved Remote Control: photos attached from the Claude app are now shown to Claude directly instead of being read from disk with a separate tool call

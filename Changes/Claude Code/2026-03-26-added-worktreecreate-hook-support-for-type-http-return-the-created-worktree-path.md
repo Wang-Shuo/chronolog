@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 71a354a453100bc918df8e4a8151efd367f0aef354dbad74e79e535ee5500f16
+machine_hash: bf1bfb751259f558d960c311fac3eb79350f95df9f27c65094e07e21005c5a31
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,7 +29,7 @@ record:
   - quote: 'Added `WorktreeCreate` hook support for `type: "http"` — return the created
       worktree path via `hookSpecificOutput.worktreePath` in the response JSON'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.84
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -37,8 +37,7 @@ record:
   source_release: claude-code-2026-03-26-v2-1-84-github-301540101-d02104aa
   source_type: github_releases
   theme: developer-workflow
-  title: 'Added `WorktreeCreate` hook support for `type: "http"` — return the created
-    work'
+  title: 'Added `WorktreeCreate` hook support for `type: "http"`'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-17-terminal-notifications-iterm2-kitty-ghostty-popups-progress-bar-now-reach-the-ou|claude-code-2026-03-17-feecd4]]'
@@ -47,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-26-v2-1-84-github-301540101-d02104aa|claude-code-2026-03-26-v2-1-84-github-301540101-d02104aa]]'
 source_type: github_releases
 theme: developer-workflow
-title: 'Added WorktreeCreate hook support for type: "http" — return the created work'
+title: 'Added WorktreeCreate hook support for type: "http"'
 type: change
 ---
 
-# Added `WorktreeCreate` hook support for `type: "http"` — return the created work
+# Added `WorktreeCreate` hook support for `type: "http"`
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.84: Added `WorktreeCreate` hook support for `type: "http"` — return the created worktree path via `hookSpecificOutput.worktreePath` in the response JSON

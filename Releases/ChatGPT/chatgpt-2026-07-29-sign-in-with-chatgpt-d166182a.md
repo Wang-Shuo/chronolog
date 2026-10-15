@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-07-29'
-machine_hash: a40e46b06bd47e3ab547258cfa57134a759f086f721550d0b0a9cab18b9b0b47
+machine_hash: 0f898d6fbb2086ca750cdda175aaf4a5aede15854007633135f6e9504315da49
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- apps-integrations: [[Changes/ChatGPT/2026-07-29-we-re-beginning-to-roll-out-sign-in-with-chatgpt-across-select-plugins-and-partn|We’re beginning to roll out Sign in with ChatGPT across select plugins and partn]]
+- apps-integrations: [[Changes/ChatGPT/2026-07-29-we-re-beginning-to-roll-out-sign-in-with-chatgpt-across-select-plugins-and-partn|We’re beginning to roll out Sign in with ChatGPT across select plugins and partner…]]
 <!-- chronolog:end -->

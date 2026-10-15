@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 14fa3650dc236c51ac426f818fa6ee5b93274a17f8e4a890b2e70de41c6183f2
+machine_hash: 642cf8746fed8f4df3eb8a6de29cc26fbba6b8d2c112c9c3262182dce2212781
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: '`claude agents`: autocomplete in the dispatch input now suggests native
       slash commands and bundled skills, not just project skills'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.153
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -46,7 +46,7 @@ record:
     theme: editor-experience
   theme_resolution: manual-semantic-rule-v1
   title: '`claude agents`: autocomplete in the dispatch input now suggests native
-    slash co'
+    slash…'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-19-model-now-changes-the-model-for-the-current-session-only-press-d-in-the-model-pi|claude-code-2026-05-19-dfe2a3]]'
@@ -55,12 +55,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-28-v2-1-153-github-330532213-2fa9c18a|claude-code-2026-05-28-v2-1-153-github-330532213-2fa9c18a]]'
 source_type: github_releases
 theme: interface-experience
-title: 'claude agents: autocomplete in the dispatch input now suggests native slash
-  co'
+title: 'claude agents: autocomplete in the dispatch input now suggests native slash…'
 type: change
 ---
 
-# `claude agents`: autocomplete in the dispatch input now suggests native slash co
+# `claude agents`: autocomplete in the dispatch input now suggests native slash…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.153: `claude agents`: autocomplete in the dispatch input now suggests native slash commands and bundled skills, not just project skills

@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8d2e710aac323513ac256df1e370e5ebca993a12f2189208c3228b5f1d33c159
+machine_hash: 9039a0ee6302e63b671db0f6b2a7d7a88b0df3e097c11ebd82560c5cdd10dee8
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Added plugin name to skill descriptions and `/skills` menu for better discoverability
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.33
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -43,7 +43,7 @@ record:
     score: 50
     theme: interface-experience
   theme_resolution: manual-semantic-rule-v1
-  title: Added plugin name to skill descriptions and `/skills` menu for better discoverab
+  title: Added plugin name to skill descriptions and `/skills` menu for better discoverability
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-23-sdk-added-replay-of-queued-command-attachment-messages-as-sdkusermessagereplay-e|claude-code-2026-01-23-d838c0]]'
@@ -52,11 +52,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-02-06-v2-1-33-github-283581096-0f5b01a0|claude-code-2026-02-06-v2-1-33-github-283581096-0f5b01a0]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added plugin name to skill descriptions and /skills menu for better discoverab
+title: Added plugin name to skill descriptions and /skills menu for better discoverability
 type: change
 ---
 
-# Added plugin name to skill descriptions and `/skills` menu for better discoverab
+# Added plugin name to skill descriptions and `/skills` menu for better discoverability
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.33: Added plugin name to skill descriptions and `/skills` menu for better discoverability

@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ab2d4519544808ee796dfb68abd189fc9f1fe2d9d1976ef44328238297dcf8db
+machine_hash: d4eaf46210418cff9e9040ffe0c104bd0ea47c6d4cb352d8d6901dcf6a7cc115
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Optionally, you can define custom subagents. Learn more in our docs.
     source_release: https://cursor.com/changelog/2-4
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -33,7 +33,7 @@ record:
   source_release: cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03
   source_type: cursor_changelog
   theme: agent-mode
-  title: Optionally, you can define custom subagents. Learn more in our docs.
+  title: Optionally, you can define custom subagents
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-01-16-use-plan-mode-to-design-your-approach-before-coding-cursor-will-ask-clarifying-q|cursor-2026-01-16-4777b9]]'
@@ -42,11 +42,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03|cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: Optionally, you can define custom subagents. Learn more in our docs.
+title: Optionally, you can define custom subagents
 type: change
 ---
 
-# Optionally, you can define custom subagents. Learn more in our docs.
+# Optionally, you can define custom subagents
 
 <!-- chronolog:begin region="description" -->
 Cursor — Subagents, Skills, and Image Generation: Optionally, you can define custom subagents. Learn more in our docs.

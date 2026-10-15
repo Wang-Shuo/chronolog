@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d461c684b6ebbdcd3c330759230ba32f2b4d9a8a0c35090d25e4a6c8a0d11887
+machine_hash: e6757543a6c1933adce628b68c5860fcab0a54ae46a52249a0aed57e59bcd587
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `autoMemoryDirectory` setting to configure a custom directory for
       auto-memory storage
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.74
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -34,7 +34,7 @@ record:
   source_release: claude-code-2026-03-12-v2-1-74-github-295929475-2ee971ae
   source_type: github_releases
   theme: memory
-  title: Added `autoMemoryDirectory` setting to configure a custom directory for auto-mem
+  title: Added `autoMemoryDirectory` setting to configure a custom directory for auto-memory…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-26-claude-automatically-saves-useful-context-to-auto-memory-manage-with-memory|claude-code-2026-02-26-1aa3a7]]'
@@ -43,11 +43,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-12-v2-1-74-github-295929475-2ee971ae|claude-code-2026-03-12-v2-1-74-github-295929475-2ee971ae]]'
 source_type: github_releases
 theme: memory
-title: Added autoMemoryDirectory setting to configure a custom directory for auto-mem
+title: Added autoMemoryDirectory setting to configure a custom directory for auto-memory…
 type: change
 ---
 
-# Added `autoMemoryDirectory` setting to configure a custom directory for auto-mem
+# Added `autoMemoryDirectory` setting to configure a custom directory for auto-memory…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.74: Added `autoMemoryDirectory` setting to configure a custom directory for auto-memory storage

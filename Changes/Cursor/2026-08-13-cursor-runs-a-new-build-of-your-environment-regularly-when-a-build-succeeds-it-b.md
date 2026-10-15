@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: b076faa5e81adfcaebd4d0e3989ce7faaf9859fb3fd95060b7abf825d22ba431
+machine_hash: b181ca86336662dfcce7f595d213595b0ad1cabaf2687273611be6e395b5e15e
 product: cursor
 product_name: Cursor
 record:
@@ -33,7 +33,7 @@ record:
       ready so the next agent does not wait. Internally, our environments now boot
       10x faster, with 3x faster time to first token.
     source_release: https://cursor.com/changelog/08-13-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -51,8 +51,7 @@ record:
     - faster
     score: 50
     theme: reliability-performance
-  title: Cursor runs a new build of your environment regularly. When a build succeeds,
-    it
+  title: Cursor runs a new build of your environment regularly
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-06-added-a-teleport-hint-in-cloud-sessions-showing-how-to-continue-locally-with-cla|claude-code-2026-08-06-73ea01]]'
@@ -61,12 +60,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-08-13-cloud-agents-start-3x-faster-with-builds-https-cursor-com-change-f8f503a3|cursor-2026-08-13-cloud-agents-start-3x-faster-with-builds-https-cursor-com-change-f8f503a3]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: Cursor runs a new build of your environment regularly. When a build succeeds,
-  it
+title: Cursor runs a new build of your environment regularly
 type: change
 ---
 
-# Cursor runs a new build of your environment regularly. When a build succeeds, it
+# Cursor runs a new build of your environment regularly
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cloud Agents Start 3x Faster with Builds: Cursor runs a new build of your environment regularly. When a build succeeds, it becomes the environment future agents start from. Cursor keeps warm copies ready so the next agent does not wait. Internally, our environments now boot 10x faster, with 3x faster time to first token.

@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 337e44194a5d2a86f845635ed0444cd540cff73521893acae207f5c7700ef3f6
+machine_hash: 674ccc96463e3760f08c38bded494e264f831695a6d22f696596085d19bb3971
 product: claude-code
 product_name: Claude Code
 record:
@@ -31,7 +31,7 @@ record:
       and flags things you or Claude might miss. Turn it on with `/plugin enable cc-plugin-you-should-know@builtin`
       (for first-party sessions with telemetry on)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.287
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code
@@ -50,7 +50,7 @@ record:
     theme: apps-integrations
   theme_resolution: manual-semantic-rule-v1
   title: Added You should know, a built-in mod where a side agent watches your back
-    and f
+    and flags…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-29-added-server-key-value-to-claude-plugin-install-config-so-a-bundled-mcpb-mcp-ser|claude-code-2026-09-29-3e6bbb]]'
@@ -60,11 +60,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-10-01-v2-1-287-github-4
 source_type: github_releases
 theme: apps-integrations
 title: Added You should know, a built-in mod where a side agent watches your back
-  and f
+  and flags…
 type: change
 ---
 
-# Added You should know, a built-in mod where a side agent watches your back and f
+# Added You should know, a built-in mod where a side agent watches your back and flags…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.287: Added You should know, a built-in mod where a side agent watches your back and flags things you or Claude might miss. Turn it on with `/plugin enable cc-plugin-you-should-know@builtin` (for first-party sessions with telemetry on)

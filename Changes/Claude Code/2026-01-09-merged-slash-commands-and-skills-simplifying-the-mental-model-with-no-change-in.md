@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: b660cfdd8abf5166ca3c27c852b36011185e6bb5a8e016c4a592ccbfb578241f
+machine_hash: 1697cd8c52199e9d6da0a21c050aaeaea55e781497d24b666b112d6115f7f5b0
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Merged slash commands and skills, simplifying the mental model with no
       change in behavior
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.3
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   source_type: github_releases
   theme: model-support
   title: Merged slash commands and skills, simplifying the mental model with no change
-    in
+    in behavior
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-11-21-chatgpt-now-adds-more-inline-images-from-the-web-to-help-you-quickly-understand-83e5b8|chatgpt-2025-11-21-83e5b8]]'
@@ -47,11 +47,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-01-09-v2-1-3-github-275
 source_type: github_releases
 theme: model-support
 title: Merged slash commands and skills, simplifying the mental model with no change
-  in
+  in behavior
 type: change
 ---
 
-# Merged slash commands and skills, simplifying the mental model with no change in
+# Merged slash commands and skills, simplifying the mental model with no change in behavior
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.3: Merged slash commands and skills, simplifying the mental model with no change in behavior

@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6d3bb9d13901fd7e3821f2fb9186f202ca91b95d5c9ddaacc7d94e2352c1a868
+machine_hash: a2482200b3fda999b0aa70d614708cc310a602c22f9a1d89d266356d6a763700
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,7 +38,7 @@ record:
       to allow ChatGPT to use data connected in Health without asking for permission
       each time.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -48,7 +48,7 @@ record:
   theme: safety-privacy
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: If you make no changes to your Plugins settings, the default permission setting
+  title: If you make no changes to your Plugins settings, the default permission setting…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-08-windows-fixed-read-write-and-edit-refusing-every-file-symlink-resolution-changed|claude-code-2026-09-08-67cfa2]]'
@@ -57,11 +57,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-14-updated-permissions-for-new-health-connections-8bc634b7|chatgpt-2026-09-14-updated-permissions-for-new-health-connections-8bc634b7]]'
 source_type: chatgpt_changelog
 theme: safety-privacy
-title: If you make no changes to your Plugins settings, the default permission setting
+title: If you make no changes to your Plugins settings, the default permission setting…
 type: change
 ---
 
-# If you make no changes to your Plugins settings, the default permission setting
+# If you make no changes to your Plugins settings, the default permission setting…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Updated permissions for new Health connections: If you make no changes to your Plugins settings, the default permission setting is “Allow low-risk actions.” This means that once you’ve connected your information in Health, ChatGPT can use it when relevant without asking for permission each time, unless you are attempting a sensitive action, such as asking ChatGPT to email a training plan based on your data to a running partner. This change reflects what we’ve seen from users: more than 70% of Health users already choose to allow ChatGPT to use data connected in Health without asking for permission each time.

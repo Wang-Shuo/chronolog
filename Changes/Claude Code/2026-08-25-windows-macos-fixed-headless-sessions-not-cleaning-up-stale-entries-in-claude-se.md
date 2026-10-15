@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1fd639d617226f2330fc315afd93cd128916d6906aa1828d0b770020b2599abb
+machine_hash: bc1b5a652ace7c4a2aa5828138aed38204c8ed5962001ae33e5c6d05ab57a9a4
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: 'Windows/macOS: Fixed headless sessions not cleaning up stale entries in
       `~/.claude/sessions` left by sessions that exited uncleanly'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.246
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,8 +35,7 @@ record:
   source_release: claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0
   source_type: github_releases
   theme: mobile-desktop
-  title: 'Windows/macOS: Fixed headless sessions not cleaning up stale entries in
-    `~/.clau'
+  title: 'Windows/macOS: Fixed headless sessions not cleaning up stale entries…'
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-08-21-available-in-the-chatgpt-app-for-android-version-1-2026-216-or-later|chatgpt-2026-08-21-8030a3]]'
@@ -45,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0|claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0]]'
 source_type: github_releases
 theme: mobile-desktop
-title: 'Windows/macOS: Fixed headless sessions not cleaning up stale entries in ~/.clau'
+title: 'Windows/macOS: Fixed headless sessions not cleaning up stale entries…'
 type: change
 ---
 
-# Windows/macOS: Fixed headless sessions not cleaning up stale entries in `~/.clau
+# Windows/macOS: Fixed headless sessions not cleaning up stale entries…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.246: Windows/macOS: Fixed headless sessions not cleaning up stale entries in `~/.claude/sessions` left by sessions that exited uncleanly

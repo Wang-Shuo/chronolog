@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ca1e9b9b34d29247ff846fa274882be729b6ec1eb0f330515e8e18423cf3b4e8
+machine_hash: dc3ec20aa2054a5ba0530507e5a5064ef0ec43348989e10767c700952455b7ad
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: 'Improved stalled API stream handling: streams now abort after 5 minutes
       of no data and retry non-streaming instead of hanging indefinitely'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.105
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,8 +37,7 @@ record:
   theme: reliability-performance
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: 'Improved stalled API stream handling: streams now abort after 5 minutes
-    of no da'
+  title: Improved stalled API stream handling
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-03-19-composer-2-is-now-available-in-cursor-frontier-level-coding-performance-with-str|cursor-2026-03-19-780a40]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-13-v2-1-105-github-308569432-65a12cd3|claude-code-2026-04-13-v2-1-105-github-308569432-65a12cd3]]'
 source_type: github_releases
 theme: reliability-performance
-title: 'Improved stalled API stream handling: streams now abort after 5 minutes of
-  no da'
+title: Improved stalled API stream handling
 type: change
 ---
 
-# Improved stalled API stream handling: streams now abort after 5 minutes of no da
+# Improved stalled API stream handling
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.105: Improved stalled API stream handling: streams now abort after 5 minutes of no data and retry non-streaming instead of hanging indefinitely

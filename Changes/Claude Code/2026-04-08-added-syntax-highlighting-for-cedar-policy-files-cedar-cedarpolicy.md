@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 70c2dcc33074812ffb2e134b6a4d804854bada1acb5d8b0d0e41507ccc0baf1a
+machine_hash: 04c396a3edf01b774d8f79a2686967c859f4162f7ef7b58ee53ef917e8e70909
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Added syntax highlighting for Cedar policy files (`.cedar`, `.cedarpolicy`)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.97
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

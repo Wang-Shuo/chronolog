@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-08-10'
-machine_hash: 36fa238f2484cfb81817869a30c5db7dcc576f0241b9a6fd187759f44b2ccee7
+machine_hash: e5d861a4599ffd0c6e8e604446d84927cf0a1173b1478e88844dcc5eee65113a
 product: cursor
 product_name: Cursor
 record:
@@ -39,5 +39,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- editor-experience: [[Changes/Cursor/2023-08-10-for-those-who-don-t-want-the-chat-side-by-side-you-can-now-pop-it-into-your-edit|For those who don't want the chat side-by-side, you can now pop it into your edi]]
+- editor-experience: [[Changes/Cursor/2023-08-10-for-those-who-don-t-want-the-chat-side-by-side-you-can-now-pop-it-into-your-edit|For those who don't want the chat side-by-side, you can now pop it into your editor!]]
 <!-- chronolog:end -->

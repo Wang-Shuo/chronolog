@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: fd8066a9e1fa3a074b9095cd3551de4e704f8b6c33320eff00f6aa5bcbbf2075
+machine_hash: 9f380f51f87198d02d9b4d52bdf340a71c23b488530ec0be1ec532f085c7d253
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: More robust extension handling. You can now use pre-release extensions
       again.
     source_release: https://cursor.com/changelog/0-5-1-nightly
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -36,7 +36,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: More robust extension handling. You can now use pre-release extensions again.
+  title: More robust extension handling
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-07-07-makes-it-clearer-which-docs-are-being-looked-at-by-the-ai|cursor-2023-07-07-9a4a13]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-07-28-0-5-1-nightly-https-cursor-com-changelog-0-5-1-nightly-a748d118|cursor-2023-07-28-0-5-1-nightly-https-cursor-com-changelog-0-5-1-nightly-a748d118]]'
 source_type: cursor_changelog
 theme: apps-integrations
-title: More robust extension handling. You can now use pre-release extensions again.
+title: More robust extension handling
 type: change
 ---
 
-# More robust extension handling. You can now use pre-release extensions again.
+# More robust extension handling
 
 <!-- chronolog:begin region="description" -->
 Cursor — More robust extension handling: More robust extension handling. You can now use pre-release extensions again.

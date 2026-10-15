@@ -11,9 +11,9 @@ diffusion:
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: cea355ef394e1832629dd0c2385611621e4093fe3bd0bdd52f0477fba400ae5c
+machine_hash: aa450c6ee19462a9b74d036d601ec54bf71e4c5d2e92615dd7f16dd6bb6aaf87
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
       access to specific organization groups. Marketplaces that already use SCIM directory
       groups keep that configuration.
     source_release: https://cursor.com/changelog/team-marketplace-updates
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -48,7 +48,7 @@ record:
     theme: collaboration
   theme_resolution: manual-semantic-rule-v1
   title: Under Dashboard -> Plugins & MCPs -> Team Marketplaces, restrict marketplace
-    acc
+    access…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-06-18-world-cup-updates-chatgpt-can-now-help-you-follow-the-tournament-in-a-more-conve|chatgpt-2026-06-18-429264]]'
@@ -58,11 +58,11 @@ source_release: '[[Releases/Cursor/cursor-2026-06-30-3-10-https-cursor-com-chang
 source_type: cursor_changelog
 theme: collaboration
 title: Under Dashboard - Plugins & MCPs - Team Marketplaces, restrict marketplace
-  acc
+  access…
 type: change
 ---
 
-# Under Dashboard -> Plugins & MCPs -> Team Marketplaces, restrict marketplace acc
+# Under Dashboard -> Plugins & MCPs -> Team Marketplaces, restrict marketplace access…
 
 <!-- chronolog:begin region="description" -->
 Cursor — MCPs and Organizations in Team Marketplaces: Under Dashboard -> Plugins & MCPs -> Team Marketplaces, restrict marketplace access to specific organization groups. Marketplaces that already use SCIM directory groups keep that configuration.

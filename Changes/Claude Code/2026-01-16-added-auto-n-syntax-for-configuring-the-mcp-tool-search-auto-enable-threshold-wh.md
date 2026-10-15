@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: b68b5ea30dba7b25911e635a5e43bd3b6c9cb287e444bb6f41846c2ab3c9fd58
+machine_hash: 9119ed1248cf1314394ed91048889c726751a73287edfc8fc4907f08b2e56ea7
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `auto:N` syntax for configuring the MCP tool search auto-enable threshold,
       where N is the context window percentage (0-100)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.9
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -45,7 +45,7 @@ record:
     score: 50
     theme: apps-integrations
   theme_resolution: manual-semantic-rule-v2
-  title: Added `auto:N` syntax for configuring the MCP tool search auto-enable threshold,
+  title: Added `auto:N` syntax for configuring the MCP tool search auto-enable threshold…
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-12-18-generate-a-read-only-transcript-of-any-agent-conversation-to-include-in-your-prs|cursor-2025-12-18-9e7fb7]]'
@@ -54,11 +54,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-01-16-v2-1-9-github-277250534-9563859d|claude-code-2026-01-16-v2-1-9-github-277250534-9563859d]]'
 source_type: github_releases
 theme: context-window
-title: Added auto:N syntax for configuring the MCP tool search auto-enable threshold,
+title: Added auto:N syntax for configuring the MCP tool search auto-enable threshold…
 type: change
 ---
 
-# Added `auto:N` syntax for configuring the MCP tool search auto-enable threshold,
+# Added `auto:N` syntax for configuring the MCP tool search auto-enable threshold…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.9: Added `auto:N` syntax for configuring the MCP tool search auto-enable threshold, where N is the context window percentage (0-100)

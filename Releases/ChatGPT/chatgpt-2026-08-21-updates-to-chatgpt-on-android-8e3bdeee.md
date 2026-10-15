@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2026-08-21'
-machine_hash: 1443f475c5ffc70f5d27b28d8e550420ead550a233fa52e3f659c59adeddd437
+machine_hash: 7fbf0f34b8d44f89849054b58965abf79118875094fde6edf7a0fbba8db0e5b8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,7 +39,7 @@ Tracked cards: 3
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- mobile-desktop: [[Changes/ChatGPT/2026-08-21-available-in-the-chatgpt-app-for-android-version-1-2026-216-or-later|Available in the ChatGPT app for Android, version 1.2026.216 or later.]]
-- interface-experience: [[Changes/ChatGPT/2026-08-21-keep-recent-chats-easier-to-browse-your-sidebar-now-shows-up-to-eight-recent-con|Keep recent chats easier to browse. Your sidebar now shows up to eight recent co]]
-- interface-experience: [[Changes/ChatGPT/2026-08-21-generated-images-are-easier-to-view-and-your-recent-conversations-are-easier-to|Generated images are easier to view, and your recent conversations are easier to]]
+- mobile-desktop: [[Changes/ChatGPT/2026-08-21-available-in-the-chatgpt-app-for-android-version-1-2026-216-or-later|Available in the ChatGPT app for Android, version 1.2026.216 or later]]
+- interface-experience: [[Changes/ChatGPT/2026-08-21-keep-recent-chats-easier-to-browse-your-sidebar-now-shows-up-to-eight-recent-con|Keep recent chats easier to browse]]
+- interface-experience: [[Changes/ChatGPT/2026-08-21-generated-images-are-easier-to-view-and-your-recent-conversations-are-easier-to|Generated images are easier to view, and your recent conversations are easier to browse]]
 <!-- chronolog:end -->

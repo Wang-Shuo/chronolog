@@ -11,9 +11,9 @@ diffusion:
   theme: image-generation
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a0614b81cb5adeb670124fd3b745824809eee142c309229546a73d158acc5183
+machine_hash: e92922b417bbe2254609be504cc7eb187299fba5bd20f9d1564e8372e643a75a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       creating or editing images, use ChatGPT Images. User-created GPTs with image
       generation enabled are not affected.Learn more in Images in ChatGPT.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -39,8 +39,7 @@ record:
   source_release: chatgpt-2026-07-31-retiring-the-dall-e-gpt-582d3c79
   source_type: chatgpt_changelog
   theme: image-generation
-  title: On August 30, 2026, we’re retiring the official DALL·E GPT in ChatGPT. We
-    encour
+  title: On August 30, 2026, we’re retiring the official DALL·E GPT in ChatGPT
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-10-30-more-messages-larger-file-uploads-and-expanded-image-generation|chatgpt-2025-10-30-cdbd56]]'
@@ -49,11 +48,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-31-retiring-the-dall-e-gpt-582d3c79|chatgpt-2026-07-31-retiring-the-dall-e-gpt-582d3c79]]'
 source_type: chatgpt_changelog
 theme: image-generation
-title: On August 30, 2026, we’re retiring the official DALL·E GPT in ChatGPT. We encour
+title: On August 30, 2026, we’re retiring the official DALL·E GPT in ChatGPT
 type: change
 ---
 
-# On August 30, 2026, we’re retiring the official DALL·E GPT in ChatGPT. We encour
+# On August 30, 2026, we’re retiring the official DALL·E GPT in ChatGPT
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Retiring the DALL·E GPT: On August 30, 2026, we’re retiring the official DALL·E GPT in ChatGPT. We encourage you to download any images you want to keep before then.To continue creating or editing images, use ChatGPT Images. User-created GPTs with image generation enabled are not affected.Learn more in Images in ChatGPT.

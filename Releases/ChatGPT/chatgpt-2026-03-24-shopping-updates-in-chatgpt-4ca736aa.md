@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-03-24'
-machine_hash: f7173276adfed9baa89061e798c32c82392108870a981f83510d87318ba54626
+machine_hash: 117fc7bd9dd7d474285b4fe681b306ee84c18d99b61ec6e4d78e2f28f880802e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- search-browsing: [[Changes/ChatGPT/2026-03-24-we-ve-improved-shopping-in-chatgpt-to-make-it-easier-to-discover-compare-and-dec|We’ve improved shopping in ChatGPT to make it easier to discover, compare, and d]]
+- search-browsing: [[Changes/ChatGPT/2026-03-24-we-ve-improved-shopping-in-chatgpt-to-make-it-easier-to-discover-compare-and-dec|ChatGPT improves shopping to make it easier to discover, compare, and decide on products]]
 <!-- chronolog:end -->

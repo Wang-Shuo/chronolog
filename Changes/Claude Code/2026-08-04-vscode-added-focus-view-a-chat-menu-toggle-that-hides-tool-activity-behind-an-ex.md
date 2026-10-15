@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: b9c9fc0b5b3c4e75d713dcf84d614e17767f2b5c07eb57f6760942cb7c8bd51c
+machine_hash: 83d42cda8ccfb48e87f7b88a6d360dc93d79795e27671a6039ed1f1e87ba9e18
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       behind an expandable per-turn summary with a live running-tool indicator, toggled
       with `Ctrl+Alt+F` or the "Claude Code: Toggle Focus view" command'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.221
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,8 +38,7 @@ record:
   theme: interface-experience
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: '[VSCode] Added Focus view: a chat-menu toggle that hides tool activity behind
-    an'
+  title: '[VSCode] Added Focus view'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-14-added-a-live-elapsed-time-counter-to-the-collapsed-tool-summary-line-so-long-run|claude-code-2026-07-14-aa590e]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-08-04-v2-1-221-github-364520051-d6a656ce|claude-code-2026-08-04-v2-1-221-github-364520051-d6a656ce]]'
 source_type: github_releases
 theme: interface-experience
-title: 'VSCode Added Focus view: a chat-menu toggle that hides tool activity behind
-  an'
+title: VSCode Added Focus view
 type: change
 ---
 
-# [VSCode] Added Focus view: a chat-menu toggle that hides tool activity behind an
+# [VSCode] Added Focus view
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.221: [VSCode] Added Focus view: a chat-menu toggle that hides tool activity behind an expandable per-turn summary with a live running-tool indicator, toggled with `Ctrl+Alt+F` or the "Claude Code: Toggle Focus view" command

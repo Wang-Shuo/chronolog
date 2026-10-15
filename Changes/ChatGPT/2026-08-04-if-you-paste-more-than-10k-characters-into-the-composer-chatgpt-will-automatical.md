@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 498e4edf3103b5871be41bfe0c36c92a93e7091c98404f06d05339213084dc6d
+machine_hash: e33fd54d320739388061a70d5da2f0f1662030b664e4a05e65d7befd37f3fc52
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       the text field. This keeps the composer cleaner and helps prevent large pastes
       from consuming your entire context window.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -41,7 +41,7 @@ record:
   theme: context-window
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: If you paste more than 10k characters into the composer, ChatGPT will automatica
+  title: If you paste more than 10k characters into the composer, ChatGPT will automatically…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-08-improved-auto-mode-to-ask-before-running-rm-rf-on-a-variable-it-can-t-resolve-fr|claude-code-2026-07-08-48d2d8]]'
@@ -50,11 +50,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-04-large-pastes-are-now-handled-as-attachments-for-all-plans-8f11f30a|chatgpt-2026-08-04-large-pastes-are-now-handled-as-attachments-for-all-plans-8f11f30a]]'
 source_type: chatgpt_changelog
 theme: context-window
-title: If you paste more than 10k characters into the composer, ChatGPT will automatica
+title: If you paste more than 10k characters into the composer, ChatGPT will automatically…
 type: change
 ---
 
-# If you paste more than 10k characters into the composer, ChatGPT will automatica
+# If you paste more than 10k characters into the composer, ChatGPT will automatically…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Large pastes are now handled as attachments for all plans: If you paste more than 10k characters into the composer, ChatGPT will automatically convert the content into an attachment instead of inserting it directly into the text field. This keeps the composer cleaner and helps prevent large pastes from consuming your entire context window.

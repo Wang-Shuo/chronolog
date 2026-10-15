@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e51052958fca29ee06c8b68fd3d40844d8d3524204c0095a6e8cdaf232643627
+machine_hash: 1b15bd83f0898b4daf68463e196b360ff282f960cfbd106a1bb20261245c4ef1
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added shorthand `$0`, `$1`, etc. for accessing individual arguments in
       custom commands
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.19
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: Added shorthand `$0`, `$1`, etc. for accessing individual arguments in custom
-    co
+    commands
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-21-added-deprecation-notification-for-npm-installations-run-claude-install-or-see-h|claude-code-2026-01-21-9799a0]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-01-23-v2-1-19-github-279515857-4e1f7640|claude-code-2026-01-23-v2-1-19-github-279515857-4e1f7640]]'
 source_type: github_releases
 theme: developer-workflow
-title: Added shorthand $0, $1, etc. for accessing individual arguments in custom co
+title: Added shorthand $0, $1, etc. for accessing individual arguments in custom commands
 type: change
 ---
 
-# Added shorthand `$0`, `$1`, etc. for accessing individual arguments in custom co
+# Added shorthand `$0`, `$1`, etc. for accessing individual arguments in custom commands
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.19: Added shorthand `$0`, `$1`, etc. for accessing individual arguments in custom commands

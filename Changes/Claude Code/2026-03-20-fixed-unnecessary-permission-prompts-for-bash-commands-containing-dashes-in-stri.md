@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 979f31514bbafc8844d97129492e6dcca227b437c4806e3aa1b5432cb0e13d6d
+machine_hash: 403d76fd91a9766cb3451f54eec61a17b0015768ca701d5caf37380689cf7c79
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Fixed unnecessary permission prompts for Bash commands containing dashes
       in strings
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.81
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: Fixed unnecessary permission prompts for Bash commands containing dashes
-    in stri
+    in strings
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-17-fixed-pretooluse-hooks-returning-allow-bypassing-deny-permission-rules-including|claude-code-2026-03-17-fa1290]]'
@@ -47,11 +47,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-03-20-v2-1-81-github-29
 source_type: github_releases
 theme: safety-privacy
 title: Fixed unnecessary permission prompts for Bash commands containing dashes in
-  stri
+  strings
 type: change
 ---
 
-# Fixed unnecessary permission prompts for Bash commands containing dashes in stri
+# Fixed unnecessary permission prompts for Bash commands containing dashes in strings
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.81: Fixed unnecessary permission prompts for Bash commands containing dashes in strings

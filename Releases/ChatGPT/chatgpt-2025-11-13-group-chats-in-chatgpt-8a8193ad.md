@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-11-13'
-machine_hash: 7a6f74f2c7e57f851da0d80800ee15d444d902c2482324fee1629014c6a848a0
+machine_hash: a013199a66debc4de00d038af38a263eb76907383535cefa16edf4f865f46b2d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- mobile-desktop: [[Changes/ChatGPT/2025-11-13-we-re-piloting-group-chats-so-you-can-bring-people-and-chatgpt-into-the-same-con-21fa05|We’re piloting group chats so you can bring people - and ChatGPT - into the same]]
+- mobile-desktop: [[Changes/ChatGPT/2025-11-13-we-re-piloting-group-chats-so-you-can-bring-people-and-chatgpt-into-the-same-con-21fa05|We’re piloting group chats so you can bring people - and ChatGPT - into the same…]]
 <!-- chronolog:end -->

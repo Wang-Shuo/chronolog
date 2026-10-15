@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 26c57db9f6d3a467f58d8bd5627e741b94ca2b660e51e2bb0a3d77f4fcfd1ff5
+machine_hash: d0fcd0b18823b4db53731d94dd3a09468d85a5de482f7cf9274b695f1c3c0554
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       folders and matches conversation titles across web, iOS, and Android. On the
       web, you can also search within Library to find your saved files.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -47,7 +47,7 @@ record:
     - faster
     score: 50
     theme: reliability-performance
-  title: Find folders, files, and past conversations faster. Search now includes folders
+  title: Find folders, files, and past conversations faster
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-07-29-on-iphone-and-ipad-the-review-screen-now-covers-the-full-pr-comments-checks-and|cursor-2026-07-29-40fd2a]]'
@@ -56,11 +56,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-07-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-08-07-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: Find folders, files, and past conversations faster. Search now includes folders
+title: Find folders, files, and past conversations faster
 type: change
 ---
 
-# Find folders, files, and past conversations faster. Search now includes folders
+# Find folders, files, and past conversations faster
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT app experience updates: Find folders, files, and past conversations faster. Search now includes folders and matches conversation titles across web, iOS, and Android. On the web, you can also search within Library to find your saved files.

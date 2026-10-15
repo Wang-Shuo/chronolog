@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 917d094940033cc9869fd25467b398b727b75c89e749adc7c95bd2096150e6f6
+machine_hash: b246f4c9f1bbbdb8c26163594d3964a571d75001a6e7bebb390ab67cb169fd63
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Added PowerShell tool for Windows as an opt-in preview. Learn more at https://code.claude.com/docs/en/tools-reference#powershell-tool
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.84
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,7 +35,7 @@ record:
   theme: mobile-desktop
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Added PowerShell tool for Windows as an opt-in preview. Learn more at https://co
+  title: Added PowerShell tool for Windows as an opt-in preview
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-03-23-now-it-s-easier-to-find-reuse-and-build-on-your-files-over-time-when-you-upload|chatgpt-2026-03-23-acdb79]]'
@@ -44,12 +44,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-26-v2-1-84-github-301540101-d02104aa|claude-code-2026-03-26-v2-1-84-github-301540101-d02104aa]]'
 source_type: github_releases
 theme: mobile-desktop
-title: Added PowerShell tool for Windows as an opt-in preview. Learn more at (source
-  link)
+title: Added PowerShell tool for Windows as an opt-in preview
 type: change
 ---
 
-# Added PowerShell tool for Windows as an opt-in preview. Learn more at https://co
+# Added PowerShell tool for Windows as an opt-in preview
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.84: Added PowerShell tool for Windows as an opt-in preview. Learn more at https://code.claude.com/docs/en/tools-reference#powershell-tool

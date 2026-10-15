@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 16495bc2dd0c20010b2e7e529a1289ca066b389f04a9afcd411346a882c8464b
+machine_hash: 0df7228b5b9b2a8cb6db430024aebf3ba38c985fbab1b3994ddb79d47c8d9f46
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -37,7 +37,7 @@ record:
       fixes, security patches, and support for its existing Enterprise capabilities,
       while new agent features such as Work and Codex are available in the new app.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: chatgpt
   product_name: ChatGPT
@@ -67,7 +67,7 @@ record:
     score: 50
     theme: safety-privacy
   theme_resolution: manual-semantic-rule-v1
-  title: If you already use the Codex app, update it as usual to move to the new ChatGPT
+  title: If you already use the Codex app, update it as usual to move to the new ChatGPT…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-06-fixed-remote-control-sessions-showing-the-wrong-permission-mode-in-the-mobile-an|claude-code-2026-07-06-9e3396]]'
@@ -76,11 +76,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together-90482810|chatgpt-2026-07-09-the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together-90482810]]'
 source_type: chatgpt_changelog
 theme: safety-privacy
-title: If you already use the Codex app, update it as usual to move to the new ChatGPT
+title: If you already use the Codex app, update it as usual to move to the new ChatGPT…
 type: change
 ---
 
-# If you already use the Codex app, update it as usual to move to the new ChatGPT
+# If you already use the Codex app, update it as usual to move to the new ChatGPT…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — The new ChatGPT desktop app brings Chat, Work, and Codex together: If you already use the Codex app, update it as usual to move to the new ChatGPT desktop app. If you use the previous ChatGPT desktop app, follow the prompt in the app to download the new version. The previous app may remain installed as ChatGPT Classic. ChatGPT Classic continues to receive model updates, bug fixes, security patches, and support for its existing Enterprise capabilities, while new agent features such as Work and Codex are available in the new app.

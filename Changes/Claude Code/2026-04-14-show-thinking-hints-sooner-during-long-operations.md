@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ed7bd2c044921c6c9593752832101aeb87d6ce796f574ebc041d8b11b095d6be
+machine_hash: 1e2a0da035e3ce7bf63d2deaab8c162b5572e0420083eae2335bc863d0b65687
 product: claude-code
 product_name: Claude Code
 record:
@@ -24,7 +24,7 @@ record:
   evidence:
   - quote: Show thinking hints sooner during long operations
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.107
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

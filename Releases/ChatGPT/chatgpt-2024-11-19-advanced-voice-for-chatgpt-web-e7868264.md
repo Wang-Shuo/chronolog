@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2024-11-19'
-machine_hash: f529556ff80e18b2ee201803b876bd822dd4c1fa3ecf462325e2386df537b81a
+machine_hash: 4164f9efe4e1a5eb52e63ccbeacdc47de1a4189d9b6e13400e89507d04f02d52
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- mobile-desktop: [[Changes/ChatGPT/2024-11-19-starting-today-we-re-beginning-to-roll-out-advanced-voice-mode-on-web-already-av-3d4db6|Starting today, we’re beginning to roll out Advanced Voice Mode on web (already]]
+- mobile-desktop: [[Changes/ChatGPT/2024-11-19-starting-today-we-re-beginning-to-roll-out-advanced-voice-mode-on-web-already-av-3d4db6|Starting today, we’re beginning to roll out Advanced Voice Mode on web…]]
 <!-- chronolog:end -->

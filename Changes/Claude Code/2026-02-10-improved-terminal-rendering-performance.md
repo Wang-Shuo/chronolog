@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4eadfd0f9610bbd5aff20f6325788809f9f398e81d468ec9a1f1e7177e95807b
+machine_hash: 6d29d9c5f8c75ff9c5ac7b33ca5fbb019edd8aba6cb02102de83c8857fe7becc
 product: claude-code
 product_name: Claude Code
 record:
@@ -24,7 +24,7 @@ record:
   evidence:
   - quote: Improved terminal rendering performance
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.39
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

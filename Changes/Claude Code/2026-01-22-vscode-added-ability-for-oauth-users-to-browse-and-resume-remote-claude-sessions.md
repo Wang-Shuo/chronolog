@@ -11,9 +11,9 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d3dadfdcd550d07df6bd7576731c9e3b4e1c92ab125d5bf8a393a729b21420f4
+machine_hash: 89e56581636fc0fa6bdad9a2ad3a9a9ce104ee90ba449b119e39ada95514c1a0
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: '[VSCode] Added ability for OAuth users to browse and resume remote Claude
       sessions from the Sessions dialog'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.16
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -45,7 +45,7 @@ record:
     theme: search-browsing
   theme_resolution: manual-semantic-rule-v1
   title: '[VSCode] Added ability for OAuth users to browse and resume remote Claude
-    sessio'
+    sessions…'
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-07-25-you-can-now-chat-with-any-codebase-no-need-to-have-a-github-repo-login-through-g|cursor-2023-07-25-7fef5d]]'
@@ -54,11 +54,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-01-22-v2-1-16-github-279146529-0e5b3428|claude-code-2026-01-22-v2-1-16-github-279146529-0e5b3428]]'
 source_type: github_releases
 theme: account-access
-title: VSCode Added ability for OAuth users to browse and resume remote Claude sessio
+title: VSCode Added ability for OAuth users to browse and resume remote Claude sessions…
 type: change
 ---
 
-# [VSCode] Added ability for OAuth users to browse and resume remote Claude sessio
+# [VSCode] Added ability for OAuth users to browse and resume remote Claude sessions…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.16: [VSCode] Added ability for OAuth users to browse and resume remote Claude sessions from the Sessions dialog

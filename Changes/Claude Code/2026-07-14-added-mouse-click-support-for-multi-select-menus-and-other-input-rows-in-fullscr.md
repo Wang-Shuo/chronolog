@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 320a91289e4853237e73d7ca9aee76038d0c88efb88c3322149864a0e220d5ed
+machine_hash: 2abd2881a9c2e8fc575b57b643160d730bcf2aad79d2747ebbc90d362bbca226
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Added mouse-click support for multi-select menus and "Other" input rows
       in fullscreen mode
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.208
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   source_type: github_releases
   theme: interface-experience
   title: Added mouse-click support for multi-select menus and "Other" input rows in
-    fulls
+    fullscreen mode
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-26-added-claude-code-disable-mouse-clicks-to-disable-mouse-click-drag-hover-in-full|claude-code-2026-06-26-0f04df]]'
@@ -47,11 +47,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-07-14-v2-1-208-github-3
 source_type: github_releases
 theme: interface-experience
 title: Added mouse-click support for multi-select menus and "Other" input rows in
-  fulls
+  fullscreen mode
 type: change
 ---
 
-# Added mouse-click support for multi-select menus and "Other" input rows in fulls
+# Added mouse-click support for multi-select menus and "Other" input rows in fullscreen mode
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.208: Added mouse-click support for multi-select menus and "Other" input rows in fullscreen mode

@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2024-07-18'
-machine_hash: 2d79fa3787a3863c833650f64e1a0c16b1155b901209ce3ade087aabfe1b6907
+machine_hash: 808203d880246c29104d5f59dfdd49f1b83652b3ff4184df0f8ef5814cf02498
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2024-07-18-we-re-introducing-gpt-4o-mini-the-most-capable-and-cost-efficient-small-model-av-af297b|We’re introducing GPT-4o mini, the most capable and cost-efficient small model a]]
+- model-support: [[Changes/ChatGPT/2024-07-18-we-re-introducing-gpt-4o-mini-the-most-capable-and-cost-efficient-small-model-av-af297b|ChatGPT introduces GPT-4o mini, the most capable and cost-efficient small model…]]
 <!-- chronolog:end -->

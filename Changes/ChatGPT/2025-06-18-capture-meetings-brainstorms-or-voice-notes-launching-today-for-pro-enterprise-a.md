@@ -11,9 +11,9 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5a2137ea3dbcb937cd38b265a915389216cda881997ae0d26a06033a57afa7d2
+machine_hash: 602fb1b01df706428d8605c2726a07bbc7b413e9ab93d9d99e0101b4a25ddc4d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Capture meetings, brainstorms, or voice notes. Launching today for Pro,
       Enterprise, and Edu users. Previously launched for Team users on June 4, 2025.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -48,7 +48,7 @@ record:
     - enterprise
     score: 50
     theme: enterprise-admin
-  title: Capture meetings, brainstorms, or voice notes. Launching today for Pro, Enterpri
+  title: Capture meetings, brainstorms, or voice notes
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-06-07-in-testing-we-ve-observed-that-this-update-may-occasionally-cause-minor-decrease-ca0630|chatgpt-2025-06-07-ca0630]]'
@@ -57,11 +57,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-18-chatgpt-record-mode-f7984257|chatgpt-2025-06-18-chatgpt-record-mode-f7984257]]'
 source_type: chatgpt_changelog
 theme: voice
-title: Capture meetings, brainstorms, or voice notes. Launching today for Pro, Enterpri
+title: Capture meetings, brainstorms, or voice notes
 type: change
 ---
 
-# Capture meetings, brainstorms, or voice notes. Launching today for Pro, Enterpri
+# Capture meetings, brainstorms, or voice notes
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT record mode: Capture meetings, brainstorms, or voice notes. Launching today for Pro, Enterprise, and Edu users. Previously launched for Team users on June 4, 2025.

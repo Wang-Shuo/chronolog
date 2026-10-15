@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 44c354e1d96675dde123dbc7aef969d87a0753d0a1aec608340b000a2e1b000c
+machine_hash: b1247f12e3941d292690937c15d5fa11cbb1962cbac36a131d02ec75984718c3
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: 'Default On: users get the plugin installed by default, but can opt out'
     source_release: https://cursor.com/changelog/05-01-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

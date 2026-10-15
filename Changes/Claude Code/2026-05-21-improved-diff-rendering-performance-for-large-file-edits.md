@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 59a86c8f33704e86c5f6dd24cf4de65c6145a081fb2d08612132bd3ee674e637
+machine_hash: 1f1d8235040e62138d00e0ec49d29f4c5f9e1ec9b6a1a2f2e6fa4ecc30ede99c
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Improved diff rendering performance for large file edits
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.147
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

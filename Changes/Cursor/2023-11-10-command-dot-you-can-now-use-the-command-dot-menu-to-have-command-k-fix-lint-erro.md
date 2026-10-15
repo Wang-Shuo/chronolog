@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: fdf05af9f91cd8a40e1deeb33813161bfbc3e73c606f61b92cb79d4758ab21cf
+machine_hash: b755a5df142a771182f20b262f7896396f671a6a8c0d83718f9a9c786ca73e4e
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: 'Command-dot: you can now use the Command-dot menu to have Command-K fix
       lint errors inline.'
     source_release: https://cursor.com/changelog/0-15-0-0-15-1
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,7 +35,7 @@ record:
   source_type: cursor_changelog
   theme: interface-experience
   title: 'Command-dot: you can now use the Command-dot menu to have Command-K fix
-    lint err'
+    lint errors inline'
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-09-11-if-you-ve-configured-your-browser-to-use-one-of-these-supported-languages-you-ll-e4857e|chatgpt-2023-09-11-e4857e]]'
@@ -45,11 +45,11 @@ source_release: '[[Releases/Cursor/cursor-2023-11-10-0-15-0-0-15-1-https-cursor-
 source_type: cursor_changelog
 theme: interface-experience
 title: 'Command-dot: you can now use the Command-dot menu to have Command-K fix lint
-  err'
+  errors inline'
 type: change
 ---
 
-# Command-dot: you can now use the Command-dot menu to have Command-K fix lint err
+# Command-dot: you can now use the Command-dot menu to have Command-K fix lint errors inline
 
 <!-- chronolog:begin region="description" -->
 Cursor — New models, Copilot++ beta: Command-dot: you can now use the Command-dot menu to have Command-K fix lint errors inline.

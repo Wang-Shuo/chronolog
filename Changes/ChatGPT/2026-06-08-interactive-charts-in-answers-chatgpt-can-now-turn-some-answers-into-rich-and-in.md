@@ -11,9 +11,9 @@ diffusion:
   theme: file-data
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 16a10fc7875cfa7bc26ab0e86f7e1eb34a6061f65c78667cc9319be8d9bcf586
+machine_hash: 352d5dc8680eefcb884c36550e83c63fc0f29d744637a02358350aaec97a4d46
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       Ask for a chart, or ChatGPT may include one when it helps make trends and comparisons
       easier to understand.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -40,8 +40,7 @@ record:
   theme: file-data
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: 'Interactive charts in answers: ChatGPT can now turn some answers into rich
-    and i'
+  title: Interactive charts in answers
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-05-15-we-re-starting-to-roll-out-a-new-personal-finance-experience-in-chatgpt-pro-user|chatgpt-2026-05-15-337daf]]'
@@ -50,12 +49,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
 theme: file-data
-title: 'Interactive charts in answers: ChatGPT can now turn some answers into rich
-  and i'
+title: Interactive charts in answers
 type: change
 ---
 
-# Interactive charts in answers: ChatGPT can now turn some answers into rich and i
+# Interactive charts in answers
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT app experience updates: Interactive charts in answers: ChatGPT can now turn some answers into rich and interactive bar, line, pie, and scatter charts directly in the conversation. Ask for a chart, or ChatGPT may include one when it helps make trends and comparisons easier to understand.

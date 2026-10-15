@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: fe405d851dc126526d97ea5c36cd41ae7ae4ee08d21f8c7da235dba3753fad16
+machine_hash: b8cc5e712161ae42d9be072f04bcf66ddbd0d4457999d39855b1d12589f96803
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: 'VSCode: Enabled Claude in Chrome integration'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.27
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code

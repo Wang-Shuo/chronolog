@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: c41c4ca69f63feb544d46859ff1cff9750d917fbfd352e42f57aef15dbd23853
+machine_hash: a572442b630f07916efa43f75853d3749f0dd8aea81db7f0bb0f0112e2d48422
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: 'General performance: Among other improvements, users will notice that
       ChatGPT is now less likely to refuse to answer questions.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -36,17 +36,17 @@ record:
   source_type: chatgpt_changelog
   theme: reliability-performance
   title: 'General performance: Among other improvements, users will notice that ChatGPT
-    is'
+    is now…'
   type: change
 source_release: '[[Releases/ChatGPT/chatgpt-2022-12-15-performance-updates-to-chatgpt-d9abf59d|chatgpt-2022-12-15-performance-updates-to-chatgpt-d9abf59d]]'
 source_type: chatgpt_changelog
 theme: reliability-performance
 title: 'General performance: Among other improvements, users will notice that ChatGPT
-  is'
+  is now…'
 type: change
 ---
 
-# General performance: Among other improvements, users will notice that ChatGPT is
+# General performance: Among other improvements, users will notice that ChatGPT is now…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Performance updates to ChatGPT: General performance: Among other improvements, users will notice that ChatGPT is now less likely to refuse to answer questions.

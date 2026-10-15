@@ -11,9 +11,9 @@ diffusion:
   theme: search-browsing
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e52383eb2d1450fd1875dbe5e3349f57fa58a13f2a9f221de461ad4c29cbaeea
+machine_hash: 2cff8d3e3d39f917e5ecfbb06ac8eaa7abcc721a41d3563ef49cfe71919b3929
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       it may inadvertently fulfill this request. We are temporarily disabling Browse
       while we fix this.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -39,7 +39,7 @@ record:
   source_type: chatgpt_changelog
   theme: search-browsing
   title: We've learned that the browsing beta can occasionally display content in
-    ways we
+    ways we…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-05-12-web-browsing-try-a-new-version-of-chatgpt-that-knows-when-and-how-to-browse-the|chatgpt-2023-05-12-b6aa27]]'
@@ -49,11 +49,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2023-07-03-browsing-is-temporarily-d
 source_type: chatgpt_changelog
 theme: search-browsing
 title: We've learned that the browsing beta can occasionally display content in ways
-  we
+  we…
 type: change
 ---
 
-# We've learned that the browsing beta can occasionally display content in ways we
+# We've learned that the browsing beta can occasionally display content in ways we…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Browsing is temporarily disabled: We've learned that the browsing beta can occasionally display content in ways we don't want, e.g. if a user specifically asks for a URL's full text, it may inadvertently fulfill this request. We are temporarily disabling Browse while we fix this.

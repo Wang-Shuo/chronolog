@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: b21d4a9099e41cd95eece08b13301968c8dc8c53fec954587ef263e780833ecd
+machine_hash: aeac2a580733bb6a1c4e0122ca5e8e3249e371da9ee31402d43d0b2908a0b853
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Added warnings to `claude plugin validate` when a marketplace or plugin
       name would be rejected by Claude Desktop's managed marketplace sync
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.221
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -46,7 +46,7 @@ record:
     theme: mobile-desktop
   theme_resolution: manual-semantic-rule-v1
   title: Added warnings to `claude plugin validate` when a marketplace or plugin name
-    wou
+    would…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-08-04-three-new-plugins-for-chatgpt-work-and-codex-help-students-and-educators-work-wi|chatgpt-2026-08-04-313bc2]]'
@@ -56,11 +56,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-08-04-v2-1-221-github-3
 source_type: github_releases
 theme: apps-integrations
 title: Added warnings to claude plugin validate when a marketplace or plugin name
-  wou
+  would…
 type: change
 ---
 
-# Added warnings to `claude plugin validate` when a marketplace or plugin name wou
+# Added warnings to `claude plugin validate` when a marketplace or plugin name would…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.221: Added warnings to `claude plugin validate` when a marketplace or plugin name would be rejected by Claude Desktop's managed marketplace sync

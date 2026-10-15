@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6d44ad9dd36541266d268f298f1fbf0db77114225739417e1d6582dd9d666ae8
+machine_hash: 7bf7c52f30ffb54a1b82759917c2b11cb32fe5326c5a2795fe2d53bec4aa730c
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Added the `selection:clear` keybinding action, so a key can be bound to
       clear an in-app text selection; also works in the agents view
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.234
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -45,8 +45,7 @@ record:
     score: 50
     theme: interface-experience
   theme_resolution: manual-semantic-rule-v1
-  title: Added the `selection:clear` keybinding action, so a key can be bound to clear
-    an
+  title: Added the `selection:clear` keybinding action, so a key can be bound to clear…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-08-vscode-fixed-focus-view-folding-away-the-latest-to-do-list-a-pending-question-s|claude-code-2026-08-08-b44230]]'
@@ -55,12 +54,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-08-17-v2-1-234-github-371864218-2ca32673|claude-code-2026-08-17-v2-1-234-github-371864218-2ca32673]]'
 source_type: github_releases
 theme: interface-experience
-title: Added the selection:clear keybinding action, so a key can be bound to clear
-  an
+title: Added the selection:clear keybinding action, so a key can be bound to clear…
 type: change
 ---
 
-# Added the `selection:clear` keybinding action, so a key can be bound to clear an
+# Added the `selection:clear` keybinding action, so a key can be bound to clear…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.234: Added the `selection:clear` keybinding action, so a key can be bound to clear an in-app text selection; also works in the agents view

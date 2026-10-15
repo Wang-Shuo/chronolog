@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ea49be699bb10f9d5bda25032bce02728130270b031464370b6314981b2f66fa
+machine_hash: 65eaa11e7fee65dc791aecc15f059670c11405ca269f1f76c3b93465769da840
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       and login, then select Security history. For help reviewing unfamiliar activity
       and securing your account, see: Keeping your OpenAI account secure.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -48,7 +48,7 @@ record:
     theme: safety-privacy
   theme_resolution: manual-semantic-rule-v1
   title: To view your history in ChatGPT on the web, go to Settings > Security and
-    login,
+    login…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-22-fixed-home-and-end-doing-nothing-in-the-config-settings-list-and-in-selection-li|claude-code-2026-09-22-4a568f]]'
@@ -57,11 +57,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-25-security-history-in-chatgpt-5ecdb0cb|chatgpt-2026-09-25-security-history-in-chatgpt-5ecdb0cb]]'
 source_type: chatgpt_changelog
 theme: safety-privacy
-title: To view your history in ChatGPT on the web, go to Settings  Security and login,
+title: To view your history in ChatGPT on the web, go to Settings  Security and login…
 type: change
 ---
 
-# To view your history in ChatGPT on the web, go to Settings > Security and login,
+# To view your history in ChatGPT on the web, go to Settings > Security and login…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Security history in ChatGPT: To view your history in ChatGPT on the web, go to Settings > Security and login, then select Security history. For help reviewing unfamiliar activity and securing your account, see: Keeping your OpenAI account secure.

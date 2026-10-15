@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: ac2015e7a010d66d3d1681973cf053a5d8357337470682be66f9cae858594837
+machine_hash: 104435bcb76f9a534ad0851cdf8e832c3d623b42848c21dd9848fcc6c90740d4
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Added an `effort` parameter to the Agent tool, so Claude runs a sub-agent
       at the effort level you ask for
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.292
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   source_release: claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab
   source_type: github_releases
   theme: agent-mode
-  title: Added an `effort` parameter to the Agent tool, so Claude runs a sub-agent
-    at the
+  title: Added an `effort` parameter to the Agent tool, so Claude runs a sub-agent…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-30-improved-send-now-ctrl-enter-in-a-subagent-s-view-it-now-moves-the-subagent-s-ru|claude-code-2026-09-30-d73a6f]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab|claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab]]'
 source_type: github_releases
 theme: agent-mode
-title: Added an effort parameter to the Agent tool, so Claude runs a sub-agent at
-  the
+title: Added an effort parameter to the Agent tool, so Claude runs a sub-agent…
 type: change
 ---
 
-# Added an `effort` parameter to the Agent tool, so Claude runs a sub-agent at the
+# Added an `effort` parameter to the Agent tool, so Claude runs a sub-agent…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.292: Added an `effort` parameter to the Agent tool, so Claude runs a sub-agent at the effort level you ask for

@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: c2622b1d076dc85cde7c14898401222001d7b6bc9b0b3031582a3674f3f161c9
+machine_hash: 9111938e2796e9f0c15b4d413211eecedc0be817781129e7a3b8dce641735b65
 product: cursor
 product_name: Cursor
 record:
@@ -33,7 +33,7 @@ record:
       new model right now for pro users to see if it performs better than all older
       versions of gpt-4. If so, will roll out as the default experience.
     source_release: https://cursor.com/changelog/0-24-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -43,8 +43,7 @@ record:
   theme: model-support
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: Both pro and API key users can also try out gpt-4-0125-preview by configuring
-    th
+  title: Both pro and API key users can also try out gpt-4-0125-preview by configuring…
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-12-16-ai-review-beta-this-is-a-new-experimental-feature-that-let-s-gpt-4-scan-your-git|cursor-2023-12-16-218d68]]'
@@ -53,12 +52,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-01-25-0-24-x-https-cursor-com-changelog-0-24-x-c3b46238|cursor-2024-01-25-0-24-x-https-cursor-com-changelog-0-24-x-c3b46238]]'
 source_type: cursor_changelog
 theme: model-support
-title: Both pro and API key users can also try out gpt-4-0125-preview by configuring
-  th
+title: Both pro and API key users can also try out gpt-4-0125-preview by configuring…
 type: change
 ---
 
-# Both pro and API key users can also try out gpt-4-0125-preview by configuring th
+# Both pro and API key users can also try out gpt-4-0125-preview by configuring…
 
 <!-- chronolog:begin region="description" -->
 Cursor — @Web, gpt-4-0125-preview: Both pro and API key users can also try out gpt-4-0125-preview by configuring the model under Settings > OpenAI API > Configure Models. We're testing the new model right now for pro users to see if it performs better than all older versions of gpt-4. If so, will roll out as the default experience.

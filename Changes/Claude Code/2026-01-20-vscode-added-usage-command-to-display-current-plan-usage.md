@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 29b1efed74fa443bb51b09c665d1511a1a9bde37d899eaf7827b63122c92ae9f
+machine_hash: ff375b3196fe2cbf5df196b99eb194e8d90b40141f34a00b226cfc6b1efd4ecb
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: '[VSCode] Added `/usage` command to display current plan usage'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.14
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

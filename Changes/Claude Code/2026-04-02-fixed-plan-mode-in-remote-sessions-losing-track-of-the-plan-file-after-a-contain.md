@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 30932c06943b58330a9f677db2f5617ea140a604b7e52455e7c4117e0e79bcac
+machine_hash: e412f71f1c693bb9be2b8b323583dc6c96c63fa6b76b0a12545b0a390be5443b
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       a container restart, which caused permission prompts on plan edits and an empty
       plan-approval modal
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.91
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -39,7 +39,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: Fixed plan mode in remote sessions losing track of the plan file after a
-    contain
+    container…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-01-fixed-ui-crash-when-malformed-tool-input-reached-the-permission-dialog|claude-code-2026-04-01-4a94e1]]'
@@ -48,11 +48,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-02-v2-1-91-github-304899951-a56266fc|claude-code-2026-04-02-v2-1-91-github-304899951-a56266fc]]'
 source_type: github_releases
 theme: safety-privacy
-title: Fixed plan mode in remote sessions losing track of the plan file after a contain
+title: Fixed plan mode in remote sessions losing track of the plan file after a container…
 type: change
 ---
 
-# Fixed plan mode in remote sessions losing track of the plan file after a contain
+# Fixed plan mode in remote sessions losing track of the plan file after a container…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.91: Fixed plan mode in remote sessions losing track of the plan file after a container restart, which caused permission prompts on plan edits and an empty plan-approval modal

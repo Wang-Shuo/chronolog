@@ -11,9 +11,9 @@ diffusion:
   theme: search-browsing
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: e72f904c9f5ac62531d3a133e8ee3b6011eeff93febfe52631d58a7f2d84beb1
+machine_hash: 747abc2a2d0780e2f8a17ebe7175835091d8f2aba015fdedf26fe692aa4b06bb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: 'Browsing: An experimental model that knows when and how to browse the
       internet'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT

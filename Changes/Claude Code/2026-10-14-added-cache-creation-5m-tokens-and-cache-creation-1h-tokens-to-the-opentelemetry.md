@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ca469848d6adb7e65dcb19e190f1440bc37643e63f7cc4ec7768ba250174c34c
+machine_hash: 0000e11737cbaf4610edc0da5aed314a838ffb7c043abfa714be8e8d691f6a1d
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `cache_creation_5m_tokens` and `cache_creation_1h_tokens` to the
       OpenTelemetry `api_request` event, splitting cache writes by lifetime
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.300
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -34,7 +34,7 @@ record:
   source_release: claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0
   source_type: github_releases
   theme: context-window
-  title: Added `cache_creation_5m_tokens` and `cache_creation_1h_tokens` to the OpenTelem
+  title: Added `cache_creation_5m_tokens` and `cache_creation_1h_tokens` to the OpenTelemetry…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-09-10-today-we-re-launching-projects-in-cursor-projects-lets-you-take-on-larger-bodies|cursor-2026-09-10-bf27c0]]'
@@ -43,11 +43,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0|claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0]]'
 source_type: github_releases
 theme: context-window
-title: Added cache_creation_5m_tokens and cache_creation_1h_tokens to the OpenTelem
+title: Added cache_creation_5m_tokens and cache_creation_1h_tokens to the OpenTelemetry…
 type: change
 ---
 
-# Added `cache_creation_5m_tokens` and `cache_creation_1h_tokens` to the OpenTelem
+# Added `cache_creation_5m_tokens` and `cache_creation_1h_tokens` to the OpenTelemetry…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.300: Added `cache_creation_5m_tokens` and `cache_creation_1h_tokens` to the OpenTelemetry `api_request` event, splitting cache writes by lifetime

@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 44028e2269e4e158be2ca8a975327b863b9b4df4c11ba1fc426e53905d6b0f0f
+machine_hash: ff8af511645f2e3e92a1970c5ff38c54bdf9ceca96776ff488e8d49824c57522
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Use Ask mode to explore code without making changes, just like in the editor.
       Start asking questions with /ask or --mode=ask.
     source_release: https://cursor.com/changelog/cli-jan-16-2026
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,8 +35,7 @@ record:
   source_release: cursor-2026-01-16-cli-agent-modes-and-cloud-handoff-https-cursor-com-changelog-cli-becd78b5
   source_type: cursor_changelog
   theme: editor-experience
-  title: Use Ask mode to explore code without making changes, just like in the editor.
-    St
+  title: Use Ask mode to explore code without making changes, just like in the editor
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-01-08-create-new-rules-and-edit-existing-ones-directly-from-the-cli-with-the-rules-com|cursor-2026-01-08-615d4c]]'
@@ -45,12 +44,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-01-16-cli-agent-modes-and-cloud-handoff-https-cursor-com-changelog-cli-becd78b5|cursor-2026-01-16-cli-agent-modes-and-cloud-handoff-https-cursor-com-changelog-cli-becd78b5]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: Use Ask mode to explore code without making changes, just like in the editor.
-  St
+title: Use Ask mode to explore code without making changes, just like in the editor
 type: change
 ---
 
-# Use Ask mode to explore code without making changes, just like in the editor. St
+# Use Ask mode to explore code without making changes, just like in the editor
 
 <!-- chronolog:begin region="description" -->
 Cursor — CLI Agent Modes and Cloud Handoff: Use Ask mode to explore code without making changes, just like in the editor. Start asking questions with /ask or --mode=ask.

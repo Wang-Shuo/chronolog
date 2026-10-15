@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-08-01'
-machine_hash: 08ce6c302890cbd0ce50015c3b0796ff79ff24bbd742d1d92926c89d44ca9c27
+machine_hash: 9ff8ede66ba2083a7350701097212fa4b78141e07895471272cdecbb4f36d73c
 product: cursor
 product_name: Cursor
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- developer-workflow: [[Changes/Cursor/2023-08-01-improved-linter-please-give-us-feedback-on-the-linter-suggestions-using-the-smil|Improved linter! Please give us feedback on the linter suggestions using the smi]]
+- developer-workflow: [[Changes/Cursor/2023-08-01-improved-linter-please-give-us-feedback-on-the-linter-suggestions-using-the-smil|Improved linter! Please give us feedback on the linter suggestions using the smiley faces]]
 <!-- chronolog:end -->

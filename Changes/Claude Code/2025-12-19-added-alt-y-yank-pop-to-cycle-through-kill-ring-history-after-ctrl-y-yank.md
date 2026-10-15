@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 648a5e97001c137a550ec7558ea8a1981d24786c996db9cc0ee657d73510b3c1
+machine_hash: 1a2c0dba85425bee993551eceb8dc4c93de6dcf01a8234fe8361bb79b885582a
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Added alt-y yank-pop to cycle through kill ring history after ctrl-y yank
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.0.73
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

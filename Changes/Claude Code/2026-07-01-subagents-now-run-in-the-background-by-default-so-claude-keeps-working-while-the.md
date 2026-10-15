@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: fa1ebdfa4a1838a4d031cfd5d558c53e7b295479c884ae4e337520def7444f5b
+machine_hash: 1c59ec42dad137c1af6fb5da15d7d3847d5cea4cea0c237fb56fbd8df808e3bd
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Subagents now run in the background by default, so Claude keeps working
       while they run and is notified when they finish (previously a gradual rollout)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.198
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,7 +36,7 @@ record:
   source_type: github_releases
   theme: agent-mode
   title: Subagents now run in the background by default, so Claude keeps working while
-    th
+    they…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-26-improved-claude-agents-completed-list-to-fill-available-vertical-space-on-short|claude-code-2026-06-26-3f8647]]'
@@ -46,11 +46,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-07-01-v2-1-198-github-3
 source_type: github_releases
 theme: agent-mode
 title: Subagents now run in the background by default, so Claude keeps working while
-  th
+  they…
 type: change
 ---
 
-# Subagents now run in the background by default, so Claude keeps working while th
+# Subagents now run in the background by default, so Claude keeps working while they…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.198: Subagents now run in the background by default, so Claude keeps working while they run and is notified when they finish (previously a gradual rollout)

@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 93c416f88416a9d5629aeabadbacfff5bc5fdab98c85f32d87fe475b9311fe7f
+machine_hash: 515b49b31385c0041122fc980bacd60cb9d09eeddae7c9d1891a4ddee5df8143
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       friendly—you can now adjust specific characteristics individually. From the
       ‘personalization’ pane in settings, you can adjust ChatGPT to:'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -37,7 +37,7 @@ record:
   source_release: chatgpt-2025-12-19-new-detailed-characteristic-controls-fa363df4
   source_type: chatgpt_changelog
   theme: memory
-  title: In addition to selecting a base style and tone preset—like candid and friendly—y
+  title: In addition to selecting a base style and tone preset—like candid and friendly—you…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-12-19-be-more-or-less-warm|chatgpt-2025-12-19-16e09a]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-12-19-new-detailed-characteristic-controls-fa363df4|chatgpt-2025-12-19-new-detailed-characteristic-controls-fa363df4]]'
 source_type: chatgpt_changelog
 theme: memory
-title: In addition to selecting a base style and tone preset—like candid and friendly—y
+title: In addition to selecting a base style and tone preset—like candid and friendly—you…
 type: change
 ---
 
-# In addition to selecting a base style and tone preset—like candid and friendly—y
+# In addition to selecting a base style and tone preset—like candid and friendly—you…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — New detailed characteristic controls: In addition to selecting a base style and tone preset—like candid and friendly—you can now adjust specific characteristics individually. From the ‘personalization’ pane in settings, you can adjust ChatGPT to:

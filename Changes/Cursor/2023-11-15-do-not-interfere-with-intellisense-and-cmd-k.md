@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 204166586a1de3fece852679ced9f1c0bc817ef67680ed3e791aace85215a544
+machine_hash: c5313169aa4b4b55ec10abfc459692485232d44c3800227c4cae139ce79f6558
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Do not interfere with intellisense and cmd-k.
     source_release: https://cursor.com/changelog/0-16-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -33,7 +33,7 @@ record:
   source_release: cursor-2023-11-15-0-16-0-https-cursor-com-changelog-0-16-0-5861ed6e
   source_type: cursor_changelog
   theme: editor-experience
-  title: Do not interfere with intellisense and cmd-k.
+  title: Do not interfere with intellisense and cmd-k
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-11-10-apply-chat-suggestions-click-on-the-play-button-on-any-code-block-to-have-the-ai|cursor-2023-11-10-533d06]]'
@@ -42,11 +42,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-11-15-0-16-0-https-cursor-com-changelog-0-16-0-5861ed6e|cursor-2023-11-15-0-16-0-https-cursor-com-changelog-0-16-0-5861ed6e]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: Do not interfere with intellisense and cmd-k.
+title: Do not interfere with intellisense and cmd-k
 type: change
 ---
 
-# Do not interfere with intellisense and cmd-k.
+# Do not interfere with intellisense and cmd-k
 
 <!-- chronolog:begin region="description" -->
 Cursor — Copilot++ improvements and VS Code 1.84.2: Do not interfere with intellisense and cmd-k.

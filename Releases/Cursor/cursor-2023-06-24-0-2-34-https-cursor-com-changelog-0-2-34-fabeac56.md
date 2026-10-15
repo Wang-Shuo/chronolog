@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-06-24'
-machine_hash: 045b424a9ee14057b39fcbb1fdf5974b755408e0c50a13a76e0463bc5f2ab3fa
+machine_hash: e844f4aabef3d7aef5bafa1e1fe333ec46917aff140c749c93959b631d121ac8
 product: cursor
 product_name: Cursor
 record:
@@ -40,5 +40,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- interface-experience: [[Changes/Cursor/2023-06-24-the-chat-has-been-revamped-you-can-now-use-symbols-to-show-files-code-docs-to-th|The chat has been revamped! You can now use @ symbols to show files/code/docs to]]
+- interface-experience: [[Changes/Cursor/2023-06-24-the-chat-has-been-revamped-you-can-now-use-symbols-to-show-files-code-docs-to-th|The chat has been revamped!]]
 <!-- chronolog:end -->

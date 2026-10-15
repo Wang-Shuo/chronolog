@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 2cbd02c50bbf69e7283392352d3ca8417182b5239c91f50325f76216c5abef85
+machine_hash: cc03d236dd55244f9950034fb53f4d67f53fc75a1ca5c489d32a4a88151b24f0
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: 'Added autocomplete for `/plugin` arguments: subcommands, installed plugin
       names, and plugins from known marketplaces'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.157
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -44,8 +44,7 @@ record:
     - autocomplete
     score: 50
     theme: editor-experience
-  title: 'Added autocomplete for `/plugin` arguments: subcommands, installed plugin
-    names,'
+  title: Added autocomplete for `/plugin` arguments
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-28-added-skiplfs-option-to-github-git-plugin-marketplace-sources-to-skip-git-lfs-do|claude-code-2026-05-28-bcae8e]]'
@@ -54,11 +53,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-29-v2-1-157-github-331670634-f5eda9d8|claude-code-2026-05-29-v2-1-157-github-331670634-f5eda9d8]]'
 source_type: github_releases
 theme: apps-integrations
-title: 'Added autocomplete for /plugin arguments: subcommands, installed plugin names,'
+title: Added autocomplete for /plugin arguments
 type: change
 ---
 
-# Added autocomplete for `/plugin` arguments: subcommands, installed plugin names,
+# Added autocomplete for `/plugin` arguments
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.157: Added autocomplete for `/plugin` arguments: subcommands, installed plugin names, and plugins from known marketplaces

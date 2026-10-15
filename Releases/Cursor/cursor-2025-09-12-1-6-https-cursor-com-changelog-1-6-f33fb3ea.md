@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2025-09-12'
-machine_hash: b4a8d603e4a4aae3956f5f5cf946679a05bd179af1c6cb8dfa4c7f02e6a93fcf
+machine_hash: e63d8641f9fe9a1e89eee385a5c3201e92b6d67a31a64674c495100c52838895
 product: cursor
 product_name: Cursor
 record:
@@ -38,9 +38,9 @@ Tracked cards: 5
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- apps-integrations: [[Changes/Cursor/2025-09-12-we-ve-added-support-for-mcp-resources-resources-allow-servers-to-share-data-that|We've added support for MCP Resources. Resources allow servers to share data tha]]
-- apps-integrations: [[Changes/Cursor/2025-09-12-additionally-interpolated-variables-are-now-supported-for-mcp-this-enables-using|Additionally, interpolated variables are now supported for MCP. This enables usi]]
-- context-window: [[Changes/Cursor/2025-09-12-cursor-automatically-summarizes-long-conversation-for-you-when-reaching-the-cont|Cursor automatically summarizes long conversation for you when reaching the cont]]
-- developer-workflow: [[Changes/Cursor/2025-09-12-you-can-now-create-reusable-prompts-and-quickly-share-them-with-your-team-comman|You can now create reusable prompts and quickly share them with your team. Comma]]
-- developer-workflow: [[Changes/Cursor/2025-09-12-we-ve-been-using-them-for-running-linters-fixing-compile-errors-and-creating-prs|We've been using them for running linters, fixing compile errors, and creating P]]
+- apps-integrations: [[Changes/Cursor/2025-09-12-we-ve-added-support-for-mcp-resources-resources-allow-servers-to-share-data-that|Cursor adds support for MCP Resources]]
+- apps-integrations: [[Changes/Cursor/2025-09-12-additionally-interpolated-variables-are-now-supported-for-mcp-this-enables-using|Additionally, interpolated variables are now supported for MCP]]
+- context-window: [[Changes/Cursor/2025-09-12-cursor-automatically-summarizes-long-conversation-for-you-when-reaching-the-cont|Cursor automatically summarizes long conversation for you when reaching the context…]]
+- developer-workflow: [[Changes/Cursor/2025-09-12-you-can-now-create-reusable-prompts-and-quickly-share-them-with-your-team-comman|Create reusable prompts and quickly share them with your team]]
+- developer-workflow: [[Changes/Cursor/2025-09-12-we-ve-been-using-them-for-running-linters-fixing-compile-errors-and-creating-prs|We've been using them for running linters, fixing compile errors, and creating PRs…]]
 <!-- chronolog:end -->

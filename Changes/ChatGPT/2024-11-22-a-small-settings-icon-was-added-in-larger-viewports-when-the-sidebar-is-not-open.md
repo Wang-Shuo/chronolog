@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: db48d7aed1c075a25ce0f52102bc7068896c2131cc2d59bb0422c5be3d66cd94
+machine_hash: 45c7eca5851ea00658944de57a13c5998f95f55f5e9efe5c15bd03873f79a1c5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   - quote: A small settings icon was added in larger viewports when the sidebar is
       not open
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT

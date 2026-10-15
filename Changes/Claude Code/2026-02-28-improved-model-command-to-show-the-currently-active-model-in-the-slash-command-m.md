@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: b50593743b49240f319e932d814dc9752f2fd7deaf367a10e3dde88443417a49
+machine_hash: 0f826896f823c6c1537621d78bd936609b226903c8fe2bbf4db53f9a9d6b851d
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Improved `/model` command to show the currently active model in the slash
       command menu
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.63
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -47,7 +47,7 @@ record:
     theme: model-support
   theme_resolution: manual-semantic-rule-v1
   title: Improved `/model` command to show the currently active model in the slash
-    comman
+    command menu
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-26-improved-always-allow-prefix-suggestions-for-compound-bash-commands-e-g-cd-tmp-g|claude-code-2026-02-26-d7531f]]'
@@ -56,11 +56,12 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-02-28-v2-1-63-github-291579549-8767ab9c|claude-code-2026-02-28-v2-1-63-github-291579549-8767ab9c]]'
 source_type: github_releases
 theme: developer-workflow
-title: Improved /model command to show the currently active model in the slash comman
+title: Improved /model command to show the currently active model in the slash command
+  menu
 type: change
 ---
 
-# Improved `/model` command to show the currently active model in the slash comman
+# Improved `/model` command to show the currently active model in the slash command menu
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.63: Improved `/model` command to show the currently active model in the slash command menu

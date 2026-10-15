@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 14c3faf78d691f4e04e1d0a98b21c0477e875bd70286056161610a5daf68bb74
+machine_hash: 3af88fe1bac6e910b9c76a050b032341e7d8d6973aa559ce6c0833ffce129e8f
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Added `alwaysLoad` option to MCP server config — when `true`, all tools
       from that server skip tool-search deferral and are always available
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.121
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,8 +35,7 @@ record:
   source_release: claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce
   source_type: github_releases
   theme: apps-integrations
-  title: Added `alwaysLoad` option to MCP server config — when `true`, all tools from
-    tha
+  title: Added `alwaysLoad` option to MCP server config
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-28-added-claude-plugin-prune-to-remove-orphaned-auto-installed-plugin-dependencies|claude-code-2026-04-28-1fc875]]'
@@ -45,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce|claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added alwaysLoad option to MCP server config — when true, all tools from tha
+title: Added alwaysLoad option to MCP server config
 type: change
 ---
 
-# Added `alwaysLoad` option to MCP server config — when `true`, all tools from tha
+# Added `alwaysLoad` option to MCP server config
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.121: Added `alwaysLoad` option to MCP server config — when `true`, all tools from that server skip tool-search deferral and are always available

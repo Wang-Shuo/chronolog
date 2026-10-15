@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3cbf274c6c94f33bedb28c094748442746f66e6757b6dbe63fa341fce5ff1315
+machine_hash: 9e06d016c995960e9145f9bbe8449846699fefc85c553dbe818f4c4a975e1c2d
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       single-file `grep`/`egrep`/`fgrep` commands now satisfy the read-before-edit
       check'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.160
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,8 +38,7 @@ record:
   theme: editor-experience
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: 'Edit no longer requires a separate Read after viewing a file with `grep`:
-    single'
+  title: Edit no longer requires a separate Read after viewing a file with `grep`
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-07-the-commits-tab-gives-you-a-focused-view-of-commit-history-for-the-pr|cursor-2026-05-07-c20a06]]'
@@ -48,11 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-02-v2-1-160-github-332740156-03dd8b5a|claude-code-2026-06-02-v2-1-160-github-332740156-03dd8b5a]]'
 source_type: github_releases
 theme: editor-experience
-title: 'Edit no longer requires a separate Read after viewing a file with grep: single'
+title: Edit no longer requires a separate Read after viewing a file with grep
 type: change
 ---
 
-# Edit no longer requires a separate Read after viewing a file with `grep`: single
+# Edit no longer requires a separate Read after viewing a file with `grep`
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.160: Edit no longer requires a separate Read after viewing a file with `grep`: single-file `grep`/`egrep`/`fgrep` commands now satisfy the read-before-edit check

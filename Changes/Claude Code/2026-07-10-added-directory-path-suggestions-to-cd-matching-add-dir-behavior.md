@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 99c83a285732c77c06b82ca8f8473a2a25eb51cede2c755cfc4c694f5a515b35
+machine_hash: 85cade5db14a8734cf417ca3bc2771575f0fa6e7db0f06398c27835d3b9c90a1
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Added directory path suggestions to `/cd`, matching `/add-dir` behavior
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.206
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

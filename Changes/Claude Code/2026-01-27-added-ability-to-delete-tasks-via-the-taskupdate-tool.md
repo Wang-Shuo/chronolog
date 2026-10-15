@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6f7bdb73d0c2f1b9cc2a8ca42ed8cbb06793fffbb85a8539bb59ef1ef00cfea0
+machine_hash: c5dd07788fdb7b224e0d7d4146ad980844335187067c8fef0a560638e11a1ccf
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Added ability to delete tasks via the `TaskUpdate` tool
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.20
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

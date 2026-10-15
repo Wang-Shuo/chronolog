@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: c2cb90442bed5f1d7831d780f3b25ba79149e4399f486a074ee742681693aa48
+machine_hash: 7094e301952715a515749a54affe2d5b4a925a62941d519605625da97b4b6304
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added guidance for macOS users when Alt shortcuts fail due to terminal
       configuration
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.0.74
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -44,7 +44,7 @@ record:
     score: 50
     theme: mobile-desktop
   theme_resolution: manual-semantic-rule-v1
-  title: Added guidance for macOS users when Alt shortcuts fail due to terminal configura
+  title: Added guidance for macOS users when Alt shortcuts fail due to terminal configuration
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-10-23-starting-today-project-sharing-is-available-to-all-chatgpt-users-including-for-f-9033cc|chatgpt-2025-10-23-9033cc]]'
@@ -53,11 +53,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2025-12-19-v2-0-74-github-271886909-2070ef10|claude-code-2025-12-19-v2-0-74-github-271886909-2070ef10]]'
 source_type: github_releases
 theme: mobile-desktop
-title: Added guidance for macOS users when Alt shortcuts fail due to terminal configura
+title: Added guidance for macOS users when Alt shortcuts fail due to terminal configuration
 type: change
 ---
 
-# Added guidance for macOS users when Alt shortcuts fail due to terminal configura
+# Added guidance for macOS users when Alt shortcuts fail due to terminal configuration
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.0.74: Added guidance for macOS users when Alt shortcuts fail due to terminal configuration

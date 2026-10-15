@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: fac36e1ec29caa88b9dcded362a3e44acc0857c0aef4cde5a8faf7a980f1afc2
+machine_hash: b74649e8e3727b1481f786f52af8bf1aa7db815e5a575f0ed684690d13a5ad78
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       or `/autofix-pr` run in the background — their event streams are no longer re-scanned
       and re-rendered on every update
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.235
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   source_release: claude-code-2026-08-18-v2-1-235-github-372521030-3c3fae7f
   source_type: github_releases
   theme: memory
-  title: Improved memory and CPU usage while cloud sessions such as `/ultrareview`
-    or `/a
+  title: Improved memory and CPU usage while cloud sessions such as `/ultrareview`…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-08-14-you-can-now-change-a-project-s-memory-setting-after-you-create-it-open-the-proje|chatgpt-2026-08-14-8ea4bc]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-08-18-v2-1-235-github-372521030-3c3fae7f|claude-code-2026-08-18-v2-1-235-github-372521030-3c3fae7f]]'
 source_type: github_releases
 theme: memory
-title: Improved memory and CPU usage while cloud sessions such as /ultrareview or
-  /a
+title: Improved memory and CPU usage while cloud sessions such as /ultrareview…
 type: change
 ---
 
-# Improved memory and CPU usage while cloud sessions such as `/ultrareview` or `/a
+# Improved memory and CPU usage while cloud sessions such as `/ultrareview`…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.235: Improved memory and CPU usage while cloud sessions such as `/ultrareview` or `/autofix-pr` run in the background — their event streams are no longer re-scanned and re-rendered on every update

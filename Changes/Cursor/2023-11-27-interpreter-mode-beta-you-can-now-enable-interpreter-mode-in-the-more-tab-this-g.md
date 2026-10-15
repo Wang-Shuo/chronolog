@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0de0f17155c0ed4d619a8b0767e514cae6d9c10730f7bdd08fd84f6a9fdafebd
+machine_hash: c95afdef1f6421d6e752b2c8a888ea64f560c930927bbb337301cb115f5ecd8f
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
       tab. This gives the chat access to a Python notebook, semantic search, and more
       tools.'
     source_release: https://cursor.com/changelog/0-17-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,7 +37,7 @@ record:
   source_type: cursor_changelog
   theme: editor-experience
   title: 'Interpreter Mode Beta: You can now enable Interpreter Mode in the "More"
-    tab. Th'
+    tab'
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-11-15-do-not-interfere-with-intellisense-and-cmd-k|cursor-2023-11-15-d0b679]]'
@@ -46,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-11-27-0-17-0-https-cursor-com-changelog-0-17-0-871d6ce3|cursor-2023-11-27-0-17-0-https-cursor-com-changelog-0-17-0-871d6ce3]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: 'Interpreter Mode Beta: You can now enable Interpreter Mode in the "More" tab.
-  Th'
+title: 'Interpreter Mode Beta: You can now enable Interpreter Mode in the "More" tab'
 type: change
 ---
 
-# Interpreter Mode Beta: You can now enable Interpreter Mode in the "More" tab. Th
+# Interpreter Mode Beta: You can now enable Interpreter Mode in the "More" tab
 
 <!-- chronolog:begin region="description" -->
 Cursor — Image Support, Interpreter Mode Beta, @ Folders: Interpreter Mode Beta: You can now enable Interpreter Mode in the "More" tab. This gives the chat access to a Python notebook, semantic search, and more tools.

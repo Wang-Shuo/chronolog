@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 768049ad1fafab4899ecd1592eeb1ddf81e56b1fd203864c8c6dfbcd26a6c3dc
+machine_hash: 6b8b2c8869741493d2f29ab47b84196ad154cb074b7e15fac8da6c73827f28f6
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Permission suggestions are now populated when safety checks trigger an
       ask response, enabling SDK consumers to display permission options
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.49
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,7 +38,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: Permission suggestions are now populated when safety checks trigger an ask
-    respo
+    response…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-10-fixed-bash-permission-matching-for-commands-using-environment-variable-wrappers|claude-code-2026-02-10-bb3bbc]]'
@@ -48,11 +48,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-02-19-v2-1-49-github-28
 source_type: github_releases
 theme: safety-privacy
 title: Permission suggestions are now populated when safety checks trigger an ask
-  respo
+  response…
 type: change
 ---
 
-# Permission suggestions are now populated when safety checks trigger an ask respo
+# Permission suggestions are now populated when safety checks trigger an ask response…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.49: Permission suggestions are now populated when safety checks trigger an ask response, enabling SDK consumers to display permission options

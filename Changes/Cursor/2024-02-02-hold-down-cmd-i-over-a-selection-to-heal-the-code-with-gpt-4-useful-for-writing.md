@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0140885379efff1758cd357b8852bb5829644bea266d2dfa61c5abef9bf55b1d
+machine_hash: d0c8ec12060bf7c0906fb03a96a7e68ecb4ecee584ada302763db0971c575ae5
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
       writing pseudocode and having the AI convert it into correct code. Please let
       us know if you find it useful!
     source_release: https://cursor.com/changelog/0-25-0-nightly
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -38,8 +38,7 @@ record:
   theme: editor-experience
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Hold down cmd-I over a selection to heal the code with GPT-4. Useful for
-    writing
+  title: Hold down cmd-I over a selection to heal the code with GPT-4
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-01-18-more-chat-symbol-links-when-the-chat-references-a-code-symbol-you-ll-often-be-ab|cursor-2024-01-18-a6778f]]'
@@ -48,11 +47,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-02-02-0-25-0-nightly-https-cursor-com-changelog-0-25-0-nightly-8ca356c1|cursor-2024-02-02-0-25-0-nightly-https-cursor-com-changelog-0-25-0-nightly-8ca356c1]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: Hold down cmd-I over a selection to heal the code with GPT-4. Useful for writing
+title: Hold down cmd-I over a selection to heal the code with GPT-4
 type: change
 ---
 
-# Hold down cmd-I over a selection to heal the code with GPT-4. Useful for writing
+# Hold down cmd-I over a selection to heal the code with GPT-4
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cmd-I to Heal: Hold down cmd-I over a selection to heal the code with GPT-4. Useful for writing pseudocode and having the AI convert it into correct code. Please let us know if you find it useful!

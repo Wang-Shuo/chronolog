@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2026-06-30'
-machine_hash: 8b4d42bd981a4110bc96a8d60aeb924694268751af950c53502c154b6ecd94ed
+machine_hash: 4b92400eec67dae3b48c7a0ba62a51f32ba08b280bb54dd3ad7216893b3adf86
 product: cursor
 product_name: Cursor
 record:
@@ -39,9 +39,9 @@ Tracked cards: 5
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- collaboration: [[Changes/Cursor/2026-06-30-under-dashboard-plugins-mcps-team-marketplaces-restrict-marketplace-access-to-sp|Under Dashboard - Plugins & MCPs - Team Marketplaces, restrict marketplace acc]]
-- apps-integrations: [[Changes/Cursor/2026-06-30-when-an-admin-sets-up-team-mcp-servers-for-cloud-agents-they-can-make-those-same-3d5f04|When an admin sets up Team MCP servers for cloud agents, they can make those sam]]
-- collaboration: [[Changes/Cursor/2026-06-30-team-marketplaces-now-support-organization-groups-in-addition-to-team-level-scim|Team marketplaces now support organization groups, in addition to team-level SCI]]
-- apps-integrations: [[Changes/Cursor/2026-06-30-admins-can-now-configure-team-mcp-servers-once-and-distribute-them-across-cloud|Admins can now configure Team MCP servers once and distribute them across cloud]]
-- collaboration: [[Changes/Cursor/2026-06-30-we-ve-expanded-team-marketplaces-to-support-team-mcps-and-organization-groups|We've expanded team marketplaces to support Team MCPs and organization groups.]]
+- collaboration: [[Changes/Cursor/2026-06-30-under-dashboard-plugins-mcps-team-marketplaces-restrict-marketplace-access-to-sp|Under Dashboard - Plugins & MCPs - Team Marketplaces, restrict marketplace access…]]
+- apps-integrations: [[Changes/Cursor/2026-06-30-when-an-admin-sets-up-team-mcp-servers-for-cloud-agents-they-can-make-those-same-3d5f04|When an admin sets up Team MCP servers for cloud agents, they can make those same…]]
+- collaboration: [[Changes/Cursor/2026-06-30-team-marketplaces-now-support-organization-groups-in-addition-to-team-level-scim|Team marketplaces now support organization groups, in addition to team-level SCIM…]]
+- apps-integrations: [[Changes/Cursor/2026-06-30-admins-can-now-configure-team-mcp-servers-once-and-distribute-them-across-cloud|Admins can now configure Team MCP servers once and distribute them across cloud…]]
+- collaboration: [[Changes/Cursor/2026-06-30-we-ve-expanded-team-marketplaces-to-support-team-mcps-and-organization-groups|Cursor expands team marketplaces to support Team MCPs and organization groups]]
 <!-- chronolog:end -->

@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 23ae3a2ca35d15d3b1171cee96c6b4a607235805d608a4a9731233fa965e6fa0
+machine_hash: 25a9779efa66b79927c9aafe72d08b0dd424a64ced880cec4ae460f8dd322869
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Academic evaluations show that o3-pro consistently outperforms both o1-pro
       and o3.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -38,7 +38,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: Academic evaluations show that o3-pro consistently outperforms both o1-pro
-    and o
+    and o3
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-04-29-we-ve-reverted-the-most-recent-update-to-gpt-4o-due-to-issues-with-overly-agreea-097503|chatgpt-2025-04-29-097503]]'
@@ -48,11 +48,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2025-06-10-today-we-re-launching-ope
 source_type: chatgpt_changelog
 theme: model-support
 title: Academic evaluations show that o3-pro consistently outperforms both o1-pro
-  and o
+  and o3
 type: change
 ---
 
-# Academic evaluations show that o3-pro consistently outperforms both o1-pro and o
+# Academic evaluations show that o3-pro consistently outperforms both o1-pro and o3
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Today, we're launching OpenAI o3-pro—available now for Pro users in ChatGPT and in our API.: Academic evaluations show that o3-pro consistently outperforms both o1-pro and o3.

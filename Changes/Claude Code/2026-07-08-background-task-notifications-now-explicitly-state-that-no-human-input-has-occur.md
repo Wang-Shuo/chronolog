@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0b1ce7b9b561419667ad73cef3265e50bd60222b3e9870dba561f694be98725a
+machine_hash: f50191e5d9393bc6a46158b4d0d8622f334ba9edb9a95b87d31551fad024e7f0
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       has occurred, preventing fabricated in-transcript approvals from being acted
       on
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.205
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -39,7 +39,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: Background task notifications now explicitly state that no human input has
-    occur
+    occurred…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-03-changed-the-default-permission-mode-to-manual-across-the-cli-help-vs-code-and-je|claude-code-2026-07-03-d5e33d]]'
@@ -49,11 +49,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-07-08-v2-1-205-github-3
 source_type: github_releases
 theme: safety-privacy
 title: Background task notifications now explicitly state that no human input has
-  occur
+  occurred…
 type: change
 ---
 
-# Background task notifications now explicitly state that no human input has occur
+# Background task notifications now explicitly state that no human input has occurred…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.205: Background task notifications now explicitly state that no human input has occurred, preventing fabricated in-transcript approvals from being acted on

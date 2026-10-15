@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e027e962dba94040b5eaabc908c4fe49b1cf1d69ecd32fa9bd78a4222cf09616
+machine_hash: 5ef58eed69fc08bd5f34ef9d255c9b542ca807e6b77a2e7c23c5a9b464855be2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       models (GPT-4o, o3, o4-mini and more) when building Custom GPTs. This was launched
       to Plus, Pro and Team users earlier this month.Key details:'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -53,7 +53,7 @@ record:
     theme: enterprise-admin
   theme_resolution: manual-semantic-rule-v2
   title: Enterprise and Edu users can also now choose from the full set of ChatGPT
-    models
+    models…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-06-13-handles-longer-conversational-contexts-allowing-better-intelligence-in-longer-co|chatgpt-2025-06-13-c0b056]]'
@@ -62,11 +62,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-16-expanded-model-support-for-custom-gpts-55f4555f|chatgpt-2025-06-16-expanded-model-support-for-custom-gpts-55f4555f]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: Enterprise and Edu users can also now choose from the full set of ChatGPT models
+title: Enterprise and Edu users can also now choose from the full set of ChatGPT models…
 type: change
 ---
 
-# Enterprise and Edu users can also now choose from the full set of ChatGPT models
+# Enterprise and Edu users can also now choose from the full set of ChatGPT models…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Expanded Model Support for Custom GPTs: Enterprise and Edu users can also now choose from the full set of ChatGPT models (GPT-4o, o3, o4-mini and more) when building Custom GPTs. This was launched to Plus, Pro and Team users earlier this month.Key details:

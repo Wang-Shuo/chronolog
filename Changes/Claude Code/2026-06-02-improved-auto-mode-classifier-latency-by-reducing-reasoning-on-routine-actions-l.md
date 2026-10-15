@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6752bf51b3f6d11c8ad00edb98e97ec4a4c1c5dc11b349ee10d240d5dc5cb34c
+machine_hash: d4b25af03679b7a3c3f3d92d2bb7564f24766d9f761087e302324df6e9c4c5bd
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Improved auto mode classifier latency by reducing reasoning on routine
       actions, lowering the chance of "could not evaluate this action" blocks
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.160
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -45,7 +45,7 @@ record:
     score: 50
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v1
-  title: Improved auto mode classifier latency by reducing reasoning on routine actions,
+  title: Improved auto mode classifier latency by reducing reasoning on routine actions…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-21-improved-auto-updater-retries-transient-network-failures-reports-specific-error|claude-code-2026-05-21-4e9152]]'
@@ -54,11 +54,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-02-v2-1-160-github-332740156-03dd8b5a|claude-code-2026-06-02-v2-1-160-github-332740156-03dd8b5a]]'
 source_type: github_releases
 theme: reliability-performance
-title: Improved auto mode classifier latency by reducing reasoning on routine actions,
+title: Improved auto mode classifier latency by reducing reasoning on routine actions…
 type: change
 ---
 
-# Improved auto mode classifier latency by reducing reasoning on routine actions,
+# Improved auto mode classifier latency by reducing reasoning on routine actions…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.160: Improved auto mode classifier latency by reducing reasoning on routine actions, lowering the chance of "could not evaluate this action" blocks

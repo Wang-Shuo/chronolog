@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 75cf4eea9416a5a6048cfcaa983eb17148cef2cf155d1e5c0c3f6a67c03c26d8
+machine_hash: 7e8d3a0d199c1471cacb48540572643b73252382913df4b11614175250c28246
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: 'Better context chat: in particular, followups are now smarter!'
     source_release: https://cursor.com/changelog/0-18-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

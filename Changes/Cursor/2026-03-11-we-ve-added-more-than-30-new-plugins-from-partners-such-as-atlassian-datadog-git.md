@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 4091a315b6e8c315de3d67952620888be43bb6366cd0c42e646a87dd45d66c2e
+machine_hash: e953dd395b878de06e88e27aea9b535e6ff2572a40b013bc50b1a67bbf9c2d3f
 product: cursor
 product_name: Cursor
 record:
@@ -31,7 +31,7 @@ record:
       GitLab, Glean, Hugging Face, monday.com, and PlanetScale. Cursor can now read
       from, write to, and take actions across more of your stack.
     source_release: https://cursor.com/changelog/03-11-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -39,8 +39,7 @@ record:
   source_release: cursor-2026-03-11-new-plugins-on-the-cursor-marketplace-https-cursor-com-changelog-f5d077c3
   source_type: cursor_changelog
   theme: apps-integrations
-  title: We've added more than 30 new plugins from partners such as Atlassian, Datadog,
-    G
+  title: Cursor adds more than 30 new plugins from partners such as Atlassian, Datadog…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-10-changed-tool-search-to-bypass-the-third-party-proxy-gate-when-the-environment-va|claude-code-2026-03-10-6b4661]]'
@@ -49,12 +48,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-03-11-new-plugins-on-the-cursor-marketplace-https-cursor-com-changelog-f5d077c3|cursor-2026-03-11-new-plugins-on-the-cursor-marketplace-https-cursor-com-changelog-f5d077c3]]'
 source_type: cursor_changelog
 theme: apps-integrations
-title: We've added more than 30 new plugins from partners such as Atlassian, Datadog,
-  G
+title: Cursor adds more than 30 new plugins from partners such as Atlassian, Datadog…
 type: change
 ---
 
-# We've added more than 30 new plugins from partners such as Atlassian, Datadog, G
+# Cursor adds more than 30 new plugins from partners such as Atlassian, Datadog…
 
 <!-- chronolog:begin region="description" -->
 Cursor — New Plugins on the Cursor Marketplace: We've added more than 30 new plugins from partners such as Atlassian, Datadog, GitLab, Glean, Hugging Face, monday.com, and PlanetScale. Cursor can now read from, write to, and take actions across more of your stack.

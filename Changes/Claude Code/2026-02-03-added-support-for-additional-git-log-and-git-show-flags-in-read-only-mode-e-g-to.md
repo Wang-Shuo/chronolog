@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 641466a9b5d77264a1d9e553cf2bf3363c0d023aeca7c51300ff119b4c40bd6c
+machine_hash: 9e370cbb79a9e46cb30bc192d834c045d090d2f74a6574e45791688e62613a0c
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,7 +29,7 @@ record:
   - quote: Added support for additional `git log` and `git show` flags in read-only
       mode (e.g., `--topo-order`, `--cherry-pick`, `--format`, `--raw`)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.30
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -40,7 +40,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: Added support for additional `git log` and `git show` flags in read-only
-    mode (e
+    mode…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-29-changed-bash-commands-to-show-timeout-duration-alongside-elapsed-time|claude-code-2026-01-29-e261ae]]'
@@ -49,11 +49,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-02-03-v2-1-30-github-282673902-7b2e46f2|claude-code-2026-02-03-v2-1-30-github-282673902-7b2e46f2]]'
 source_type: github_releases
 theme: developer-workflow
-title: Added support for additional git log and git show flags in read-only mode (e
+title: Added support for additional git log and git show flags in read-only mode…
 type: change
 ---
 
-# Added support for additional `git log` and `git show` flags in read-only mode (e
+# Added support for additional `git log` and `git show` flags in read-only mode…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.30: Added support for additional `git log` and `git show` flags in read-only mode (e.g., `--topo-order`, `--cherry-pick`, `--format`, `--raw`)

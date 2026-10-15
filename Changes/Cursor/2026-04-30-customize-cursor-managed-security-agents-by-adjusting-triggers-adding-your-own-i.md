@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: b59f40882af529fe82eb01e77bff92dc29610245c357bcc86881273d05e48ef6
+machine_hash: 6e2274cd873911fe1874b3e1373885d2930514c58c587a941f54e28b70d98e71
 product: cursor
 product_name: Cursor
 record:
@@ -31,7 +31,7 @@ record:
       are shared. For example, you can plug in MCP servers for your existing SAST,
       SCA, and secrets scanners for Cursor to use as part of the review.
     source_release: https://cursor.com/changelog/04-30-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -54,7 +54,7 @@ record:
     theme: safety-privacy
   theme_resolution: manual-semantic-rule-v1
   title: Customize Cursor-managed security agents by adjusting triggers, adding your
-    own
+    own…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-04-30-cursor-security-review-is-now-in-beta-on-teams-and-enterprise-plans-you-can-run|cursor-2026-04-30-619c31]]'
@@ -64,11 +64,11 @@ source_release: '[[Releases/Cursor/cursor-2026-04-30-cursor-security-review-http
 source_type: cursor_changelog
 theme: safety-privacy
 title: Customize Cursor-managed security agents by adjusting triggers, adding your
-  own
+  own…
 type: change
 ---
 
-# Customize Cursor-managed security agents by adjusting triggers, adding your own
+# Customize Cursor-managed security agents by adjusting triggers, adding your own…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cursor Security Review: Customize Cursor-managed security agents by adjusting triggers, adding your own instructions, giving them custom tooling, and choosing how outputs are shared. For example, you can plug in MCP servers for your existing SAST, SCA, and secrets scanners for Cursor to use as part of the review.

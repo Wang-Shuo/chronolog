@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 826e91fbf046fdc6e4863f1b06425217258801f071220bf13738283f89f71dba
+machine_hash: 1eb67463fa86d37f61e3390ee7f2865f27f48c956e28c5024990e5424f4dadf4
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Improved typing responsiveness by reducing memory allocation overhead in
       terminal rendering
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.7
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -49,7 +49,7 @@ record:
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v2
   title: Improved typing responsiveness by reducing memory allocation overhead in
-    termina
+    terminal…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-09-17-standard-new-default-balancing-speed-and-intelligence-and-extended-the-previous|chatgpt-2025-09-17-c599c2]]'
@@ -58,11 +58,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-01-14-v2-1-7-github-276555327-bf21dc80|claude-code-2026-01-14-v2-1-7-github-276555327-bf21dc80]]'
 source_type: github_releases
 theme: reliability-performance
-title: Improved typing responsiveness by reducing memory allocation overhead in termina
+title: Improved typing responsiveness by reducing memory allocation overhead in terminal…
 type: change
 ---
 
-# Improved typing responsiveness by reducing memory allocation overhead in termina
+# Improved typing responsiveness by reducing memory allocation overhead in terminal…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.7: Improved typing responsiveness by reducing memory allocation overhead in terminal rendering

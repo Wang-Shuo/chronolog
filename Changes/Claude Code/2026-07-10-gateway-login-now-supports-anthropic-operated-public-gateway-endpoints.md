@@ -11,9 +11,9 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ef5698c154c5f085d4a5ef5eda40302776fa6492e85a1416298e69fb3a3eeb5e
+machine_hash: e80c9458363f68667fc12b6f07e8b125d7778fff659cb593301abcfddfd367b5
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: 'Gateway: `/login` now supports Anthropic-operated public gateway endpoints'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.206
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9be8e510ede90e3efca14a869f86068d3ee5168a711f94d06ba1381bbc683952
+machine_hash: 7079594abc9db17534f907244ec2ef183722967431cec23de90fe0c3224db6f8
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Full screen maximizes the right panel so you can focus on a single tab.
     source_release: https://cursor.com/changelog/3-4
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -43,7 +43,7 @@ record:
     score: 50
     theme: editor-experience
   theme_resolution: manual-semantic-rule-v1
-  title: Full screen maximizes the right panel so you can focus on a single tab.
+  title: Full screen maximizes the right panel so you can focus on a single tab
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-07-improved-focus-mode-behavior|claude-code-2026-05-07-b0a67e]]'
@@ -52,11 +52,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-05-13-3-4-https-cursor-com-changelog-3-4-7fe50a9d|cursor-2026-05-13-3-4-https-cursor-com-changelog-3-4-7fe50a9d]]'
 source_type: cursor_changelog
 theme: interface-experience
-title: Full screen maximizes the right panel so you can focus on a single tab.
+title: Full screen maximizes the right panel so you can focus on a single tab
 type: change
 ---
 
-# Full screen maximizes the right panel so you can focus on a single tab.
+# Full screen maximizes the right panel so you can focus on a single tab
 
 <!-- chronolog:begin region="description" -->
 Cursor — Full-screen Tabs and Compact Chats: Full screen maximizes the right panel so you can focus on a single tab.

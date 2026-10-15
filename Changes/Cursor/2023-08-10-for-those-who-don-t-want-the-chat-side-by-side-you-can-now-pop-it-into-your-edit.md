@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9b48788efb7a612ef76aba78bb4736afbecd7c1ae9628bdf5713bf094a23d102
+machine_hash: 1a1720dd830df3e25c4d078b703dfb45f9ff025ac07adf67eb88fb816f5e7497
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: For those who don't want the chat side-by-side, you can now pop it into
       your editor! We've also fixed a number of bugs.
     source_release: https://cursor.com/changelog/0-7-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,7 +35,7 @@ record:
   source_type: cursor_changelog
   theme: editor-experience
   title: For those who don't want the chat side-by-side, you can now pop it into your
-    edi
+    editor!
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-07-27-experimental-codebase-support-in-the-chat-and-coming-to-the-cmd-k-soon|cursor-2023-07-27-39d9ae]]'
@@ -45,11 +45,11 @@ source_release: '[[Releases/Cursor/cursor-2023-08-10-0-7-0-https-cursor-com-chan
 source_type: cursor_changelog
 theme: editor-experience
 title: For those who don't want the chat side-by-side, you can now pop it into your
-  edi
+  editor!
 type: change
 ---
 
-# For those who don't want the chat side-by-side, you can now pop it into your edi
+# For those who don't want the chat side-by-side, you can now pop it into your editor!
 
 <!-- chronolog:begin region="description" -->
 Cursor — In-editor chat: For those who don't want the chat side-by-side, you can now pop it into your editor! We've also fixed a number of bugs.

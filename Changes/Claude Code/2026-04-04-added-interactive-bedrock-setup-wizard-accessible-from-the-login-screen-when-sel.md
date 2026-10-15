@@ -11,9 +11,9 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: ff932322ab8ef571c2719e3bfdea3e16f6788ff3246efe16bf683c35c6faae9f
+machine_hash: 22496299c89abe3508fcb3b9dca8fd5bf6281f1659c1bfc937af42c2b75bd7d6
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       when selecting "3rd-party platform" — guides you through AWS authentication,
       region configuration, credential verification, and model pinning
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.92
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -48,8 +48,7 @@ record:
     - model
     score: 50
     theme: model-support
-  title: Added interactive Bedrock setup wizard accessible from the login screen when
-    sel
+  title: Added interactive Bedrock setup wizard accessible from the login screen…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-11-added-actionable-guidance-when-oauth-login-or-connectivity-checks-fail-due-to-ss|claude-code-2026-03-11-5a9b80]]'
@@ -58,12 +57,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5|claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5]]'
 source_type: github_releases
 theme: account-access
-title: Added interactive Bedrock setup wizard accessible from the login screen when
-  sel
+title: Added interactive Bedrock setup wizard accessible from the login screen…
 type: change
 ---
 
-# Added interactive Bedrock setup wizard accessible from the login screen when sel
+# Added interactive Bedrock setup wizard accessible from the login screen…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.92: Added interactive Bedrock setup wizard accessible from the login screen when selecting "3rd-party platform" — guides you through AWS authentication, region configuration, credential verification, and model pinning

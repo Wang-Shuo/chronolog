@@ -11,9 +11,9 @@ diffusion:
   theme: enterprise-admin
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 69931e0283ab15f334223896777e7bd01025d3ddd5a30dd7d48e44013e3ba6ce
+machine_hash: a847a11a15af0f82eab50abaaf2222c6c037a8772c76cc1b6da0852c1ed49cb5
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: This is in addition to Bugbot, which runs on your source control provider
       like GitHub (including Enterprise Server), GitLab, and more.
     source_release: https://cursor.com/changelog/2-1
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -36,7 +36,7 @@ record:
   source_type: cursor_changelog
   theme: enterprise-admin
   title: This is in addition to Bugbot, which runs on your source control provider
-    like G
+    like…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|chatgpt-2025-06-12-1cc56f]]'
@@ -45,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-11-21-2-1-https-cursor-com-changelog-2-1-730bb490|cursor-2025-11-21-2-1-https-cursor-com-changelog-2-1-730bb490]]'
 source_type: cursor_changelog
 theme: enterprise-admin
-title: This is in addition to Bugbot, which runs on your source control provider like
-  G
+title: This is in addition to Bugbot, which runs on your source control provider like…
 type: change
 ---
 
-# This is in addition to Bugbot, which runs on your source control provider like G
+# This is in addition to Bugbot, which runs on your source control provider like…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Improved Plan Mode, AI Code Review in Editor, and Instant Grep: This is in addition to Bugbot, which runs on your source control provider like GitHub (including Enterprise Server), GitLab, and more.

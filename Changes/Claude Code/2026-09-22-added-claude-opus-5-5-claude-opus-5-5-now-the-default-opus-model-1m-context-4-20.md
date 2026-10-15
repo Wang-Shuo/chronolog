@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 01a11a9a0a13e94bab8cee423bf481927006eeb81309d8d9ba512e3b58063102
+machine_hash: 3d0809c37619ddf550fee11eddb9b4b901d6ca160d9d154742855640feaa9cbe
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,7 +29,7 @@ record:
   - quote: Added Claude Opus 5.5 (`claude-opus-5-5`), now the default Opus model —
       1M context, $4/$20 per Mtok with $0.20/Mtok cache reads
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.280
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -49,8 +49,7 @@ record:
     score: 50
     theme: context-window
   theme_resolution: manual-semantic-rule-v2
-  title: Added Claude Opus 5.5 (`claude-opus-5-5`), now the default Opus model — 1M
-    conte
+  title: Added Claude Opus 5.5 (`claude-opus-5-5`), now the default Opus model
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-09-14-we-re-retiring-automatic-switching-from-instant-to-thinking-reasoning-for-chatgp|chatgpt-2026-09-14-40fdb5]]'
@@ -59,11 +58,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b|claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b]]'
 source_type: github_releases
 theme: model-support
-title: Added Claude Opus 5.5 (claude-opus-5-5), now the default Opus model — 1M conte
+title: Added Claude Opus 5.5 (claude-opus-5-5), now the default Opus model
 type: change
 ---
 
-# Added Claude Opus 5.5 (`claude-opus-5-5`), now the default Opus model — 1M conte
+# Added Claude Opus 5.5 (`claude-opus-5-5`), now the default Opus model
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.280: Added Claude Opus 5.5 (`claude-opus-5-5`), now the default Opus model — 1M context, $4/$20 per Mtok with $0.20/Mtok cache reads

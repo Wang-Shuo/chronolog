@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 01d51d3f2688a7c9a42c146406ed25f8233f903093b6fcd0e420607f6e99bfa2
+machine_hash: e08f9d7453f65762f9ea591d6e43bda2c82ec0f7ed910869fe695356e6b5c6c1
 product: cursor
 product_name: Cursor
 record:
@@ -30,7 +30,7 @@ record:
       agents, including isolated VMs, full development environments, multi-model harnesses,
       plugins, and more.
     source_release: https://cursor.com/changelog/03-25-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -53,7 +53,7 @@ record:
     theme: model-support
   theme_resolution: manual-semantic-rule-v1
   title: Self-hosted cloud agents offer the same capabilities as Cursor-hosted cloud
-    agen
+    agents…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-17-increased-default-maximum-output-token-limits-for-claude-opus-4-6-to-64k-tokens|claude-code-2026-03-17-edeb5b]]'
@@ -63,11 +63,11 @@ source_release: '[[Releases/Cursor/cursor-2026-03-25-self-hosted-cloud-agents-ht
 source_type: cursor_changelog
 theme: model-support
 title: Self-hosted cloud agents offer the same capabilities as Cursor-hosted cloud
-  agen
+  agents…
 type: change
 ---
 
-# Self-hosted cloud agents offer the same capabilities as Cursor-hosted cloud agen
+# Self-hosted cloud agents offer the same capabilities as Cursor-hosted cloud agents…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Self-hosted Cloud Agents: Self-hosted cloud agents offer the same capabilities as Cursor-hosted cloud agents, including isolated VMs, full development environments, multi-model harnesses, plugins, and more.

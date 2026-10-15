@@ -1,7 +1,7 @@
 ---
 changes_count: 4
 date: '2026-02-18'
-machine_hash: 47bed4ee3a35df689d2956ea00e5666e8d864a0456969c1c433af2c93700b930
+machine_hash: 2f888bc269da8d410d0c58ed2420180f6e4b24721f48ceb3c879cdc0ef2357a9
 product: cursor
 product_name: Cursor
 record:
@@ -39,8 +39,8 @@ Tracked cards: 4
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- agent-mode: [[Changes/Cursor/2026-02-18-when-a-plan-is-generated-the-cli-now-shows-a-persistent-decision-menu-you-can-ch|When a plan is generated, the CLI now shows a persistent decision menu. You can]]
-- interface-experience: [[Changes/Cursor/2026-02-18-typing-plan-takes-you-back-to-your-current-plan-and-its-action-menu-we-ve-also-a|Typing /plan takes you back to your current plan and its action menu. We've also]]
+- agent-mode: [[Changes/Cursor/2026-02-18-when-a-plan-is-generated-the-cli-now-shows-a-persistent-decision-menu-you-can-ch|When a plan is generated, the CLI now shows a persistent decision menu]]
+- interface-experience: [[Changes/Cursor/2026-02-18-typing-plan-takes-you-back-to-your-current-plan-and-its-action-menu-we-ve-also-a|Typing /plan takes you back to your current plan and its action menu]]
 - developer-workflow: [[Changes/Cursor/2026-02-18-mermaid-code-blocks-now-render-inline-as-ascii-diagrams-in-your-cli-conversation|Mermaid code blocks now render inline as ASCII diagrams in your CLI conversation]]
-- interface-experience: [[Changes/Cursor/2026-02-18-this-release-introduces-the-ability-to-hand-off-plans-from-the-cli-to-the-cloud|This release introduces the ability to hand off plans from the CLI to the cloud,]]
+- interface-experience: [[Changes/Cursor/2026-02-18-this-release-introduces-the-ability-to-hand-off-plans-from-the-cli-to-the-cloud|Cursor introduces the ability to hand off plans from the CLI to the cloud, in-line…]]
 <!-- chronolog:end -->

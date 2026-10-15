@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3e2b52dfd691ab2796a777f9cb9deb3310858cb81c60acbb394cdeea485a1913
+machine_hash: 4906f059ee7659c8de469baec7c80ae0d829a99258da51340acf225d6d228631
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Added `terminalSequence` field to hook JSON output so hooks can emit desktop
       notifications, window titles, and bells without a controlling terminal
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.141
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -45,8 +45,7 @@ record:
     score: 50
     theme: mobile-desktop
   theme_resolution: manual-semantic-rule-v1
-  title: Added `terminalSequence` field to hook JSON output so hooks can emit desktop
-    not
+  title: Added `terminalSequence` field to hook JSON output so hooks can emit desktop…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-11-added-goal-command-set-a-completion-condition-and-claude-keeps-working-across-tu|claude-code-2026-05-11-368eed]]'
@@ -55,12 +54,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22|claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added terminalSequence field to hook JSON output so hooks can emit desktop
-  not
+title: Added terminalSequence field to hook JSON output so hooks can emit desktop…
 type: change
 ---
 
-# Added `terminalSequence` field to hook JSON output so hooks can emit desktop not
+# Added `terminalSequence` field to hook JSON output so hooks can emit desktop…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.141: Added `terminalSequence` field to hook JSON output so hooks can emit desktop notifications, window titles, and bells without a controlling terminal

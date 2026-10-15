@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: c43ba52359c4472c964ae13cb2feb8aa2fecf44516cb281650713ddd6c0af6bc
+machine_hash: 6207ec259fcd07b08ef53b9f183032fc7b10f36fe0e4e100a9b7168223d110ac
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Recent conversations are now limited in the sidebar, with an unlimited
       infinite scroll flyout for all conversations
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -37,7 +37,7 @@ record:
   theme: interface-experience
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: Recent conversations are now limited in the sidebar, with an unlimited infinite
+  title: Recent conversations are now limited in the sidebar, with an unlimited infinite…
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-08-22-we-have-a-new-chat-ux-excited-for-you-to-try-it-out-and-share-your-thoughts|cursor-2024-08-22-65c952]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2024-11-22-updates-to-the-chatgpt-web-experience-bf046a2c|chatgpt-2024-11-22-updates-to-the-chatgpt-web-experience-bf046a2c]]'
 source_type: chatgpt_changelog
 theme: interface-experience
-title: Recent conversations are now limited in the sidebar, with an unlimited infinite
+title: Recent conversations are now limited in the sidebar, with an unlimited infinite…
 type: change
 ---
 
-# Recent conversations are now limited in the sidebar, with an unlimited infinite
+# Recent conversations are now limited in the sidebar, with an unlimited infinite…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Updates to the ChatGPT Web experience: Recent conversations are now limited in the sidebar, with an unlimited infinite scroll flyout for all conversations

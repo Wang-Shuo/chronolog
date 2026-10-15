@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 1318bba23e6d1e0cfd146718f276a56ff9ea38b8620b0a4ac41b0e5e44a7aec0
+machine_hash: 6884590ad43780f2f4fccba9a0eb88ac0a3ac39bbb2f894837e86d738d2997c0
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,7 +29,7 @@ record:
   - quote: 'Fixed agent frontmatter hooks running from untrusted folders: hooks now
       require the agent file''s own folder to have accepted workspace trust'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.218
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code
@@ -39,8 +39,7 @@ record:
   theme: safety-privacy
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: 'Fixed agent frontmatter hooks running from untrusted folders: hooks now
-    require'
+  title: Fixed agent frontmatter hooks running from untrusted folders
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-20-fixed-powershell-tool-permission-validation-of-commands-containing-invisible-uni|claude-code-2026-07-20-e38a9f]]'
@@ -49,11 +48,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-22-v2-1-218-github-358276841-57d73db4|claude-code-2026-07-22-v2-1-218-github-358276841-57d73db4]]'
 source_type: github_releases
 theme: safety-privacy
-title: 'Fixed agent frontmatter hooks running from untrusted folders: hooks now require'
+title: Fixed agent frontmatter hooks running from untrusted folders
 type: change
 ---
 
-# Fixed agent frontmatter hooks running from untrusted folders: hooks now require
+# Fixed agent frontmatter hooks running from untrusted folders
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.218: Fixed agent frontmatter hooks running from untrusted folders: hooks now require the agent file's own folder to have accepted workspace trust

@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a5d4629bd340f306edde92a4edc6f96cb562908d1d45421a5e08fa7edab2e1b9
+machine_hash: 66596d5db9512b034c4a5ceb9dc2c5d9765a4cc2712f78a7cf9be7105660f9da
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Improved startup performance by deferring SessionStart hook execution,
       reducing time-to-interactive by ~500ms.
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.47
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -34,7 +34,7 @@ record:
   source_release: claude-code-2026-02-18-v2-1-47-github-287886320-98b6e931
   source_type: github_releases
   theme: reliability-performance
-  title: Improved startup performance by deferring SessionStart hook execution, reducing
+  title: Improved startup performance by deferring SessionStart hook execution, reducing…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-14-improved-typing-responsiveness-by-reducing-memory-allocation-overhead-in-termina|claude-code-2026-01-14-59caaf]]'
@@ -43,11 +43,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-02-18-v2-1-47-github-287886320-98b6e931|claude-code-2026-02-18-v2-1-47-github-287886320-98b6e931]]'
 source_type: github_releases
 theme: reliability-performance
-title: Improved startup performance by deferring SessionStart hook execution, reducing
+title: Improved startup performance by deferring SessionStart hook execution, reducing…
 type: change
 ---
 
-# Improved startup performance by deferring SessionStart hook execution, reducing
+# Improved startup performance by deferring SessionStart hook execution, reducing…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.47: Improved startup performance by deferring SessionStart hook execution, reducing time-to-interactive by ~500ms.

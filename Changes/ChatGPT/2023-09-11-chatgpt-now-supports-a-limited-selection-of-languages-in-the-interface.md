@@ -11,9 +11,9 @@ diffusion:
   theme: accessibility-localization
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: c70893a6de30a2a8de2df60f8a6d94fe7f29305fc414e14bda7494d0b3784faf
+machine_hash: 50250078e988bf62c5784aa500d6403909a897b2646f1478d84e4c8340225f0c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: 'ChatGPT now supports a limited selection of languages in the interface:'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -35,16 +35,16 @@ record:
   theme: accessibility-localization
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: 'ChatGPT now supports a limited selection of languages in the interface:'
+  title: ChatGPT now supports a limited selection of languages in the interface
   type: change
 source_release: '[[Releases/ChatGPT/chatgpt-2023-09-11-chatgpt-language-support-alpha-on-web-2a9614e3|chatgpt-2023-09-11-chatgpt-language-support-alpha-on-web-2a9614e3]]'
 source_type: chatgpt_changelog
 theme: accessibility-localization
-title: 'ChatGPT now supports a limited selection of languages in the interface:'
+title: ChatGPT now supports a limited selection of languages in the interface
 type: change
 ---
 
-# ChatGPT now supports a limited selection of languages in the interface:
+# ChatGPT now supports a limited selection of languages in the interface
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT language support - Alpha on web: ChatGPT now supports a limited selection of languages in the interface:

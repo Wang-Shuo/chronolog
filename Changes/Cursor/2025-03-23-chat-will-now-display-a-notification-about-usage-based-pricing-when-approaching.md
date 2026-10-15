@@ -11,9 +11,9 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: dc821527cd9e7dc7ef7466bd3f928592867ba1d894686d1b6adb51e13a170b9a
+machine_hash: b6f4d84a67372e1165ed32de53a351ed40932e5ed1e4163ae374aa71435bd49b
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
   - quote: Chat will now display a notification about usage-based pricing when approaching
       fast request or usage limits
     source_release: https://cursor.com/changelog/0-48-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -38,6 +38,7 @@ record:
   source_type: cursor_changelog
   theme: pricing-model
   title: Chat will now display a notification about usage-based pricing when approaching
+    fast…
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-03-27-adds-an-optional-paid-plan-if-you-d-like-to-avoid-the-server-capacity-rate-limit|cursor-2023-03-27-65c59e]]'
@@ -47,10 +48,11 @@ source_release: '[[Releases/Cursor/cursor-2025-03-23-0-48-x-https-cursor-com-cha
 source_type: cursor_changelog
 theme: pricing-model
 title: Chat will now display a notification about usage-based pricing when approaching
+  fast…
 type: change
 ---
 
-# Chat will now display a notification about usage-based pricing when approaching
+# Chat will now display a notification about usage-based pricing when approaching fast…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Chat tabs, Custom modes & Faster indexing: Chat will now display a notification about usage-based pricing when approaching fast request or usage limits

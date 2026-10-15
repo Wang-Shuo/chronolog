@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: b3d9edc40867de0fd46a73e64e11fdfe0ec39fe0dcd3ed442da4331669113df6
+machine_hash: d8049650eb6adab8a102d5ef5687c6cec1b2848601409964f4c120eef2cb1a28
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Reduced startup event-loop stalls when many claude.ai MCP connectors are
       configured (macOS keychain cache extended from 5s to 30s)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.86
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -46,7 +46,7 @@ record:
     score: 50
     theme: mobile-desktop
   title: Reduced startup event-loop stalls when many claude.ai MCP connectors are
-    configu
+    configured…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-26-added-claude-code-mcp-server-name-and-claude-code-mcp-server-url-environment-var|claude-code-2026-03-26-30d322]]'
@@ -55,11 +55,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-27-v2-1-86-github-302569462-d6b30859|claude-code-2026-03-27-v2-1-86-github-302569462-d6b30859]]'
 source_type: github_releases
 theme: apps-integrations
-title: Reduced startup event-loop stalls when many claude.ai MCP connectors are configu
+title: Reduced startup event-loop stalls when many claude.ai MCP connectors are configured…
 type: change
 ---
 
-# Reduced startup event-loop stalls when many claude.ai MCP connectors are configu
+# Reduced startup event-loop stalls when many claude.ai MCP connectors are configured…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.86: Reduced startup event-loop stalls when many claude.ai MCP connectors are configured (macOS keychain cache extended from 5s to 30s)

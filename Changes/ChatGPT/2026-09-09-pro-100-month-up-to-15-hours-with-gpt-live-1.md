@@ -11,9 +11,9 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a1e180363283623f7808477bed01b57e4b53c68f4ed7b4680e0e877ed6a99dbc
+machine_hash: f857bb7bf00330af504505d68c20491440b7e52c65bd5067929914a0a83a7db8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: 'Pro ($100/month): Up to 15 hours with GPT-Live-1.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -35,7 +35,7 @@ record:
   theme: pricing-model
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: 'Pro ($100/month): Up to 15 hours with GPT-Live-1.'
+  title: 'Pro ($100/month): Up to 15 hours with GPT-Live-1'
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-07-28-start-bills-monthly-with-auto-renewal-and-is-available-from-july-28-2026|cursor-2026-07-28-5937bc]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-09-updated-models-and-usage-limits-in-chatgpt-voice-03e6b03f|chatgpt-2026-09-09-updated-models-and-usage-limits-in-chatgpt-voice-03e6b03f]]'
 source_type: chatgpt_changelog
 theme: pricing-model
-title: 'Pro ($100/month): Up to 15 hours with GPT-Live-1.'
+title: 'Pro ($100/month): Up to 15 hours with GPT-Live-1'
 type: change
 ---
 
-# Pro ($100/month): Up to 15 hours with GPT-Live-1.
+# Pro ($100/month): Up to 15 hours with GPT-Live-1
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Updated models and usage limits in ChatGPT Voice: Pro ($100/month): Up to 15 hours with GPT-Live-1.

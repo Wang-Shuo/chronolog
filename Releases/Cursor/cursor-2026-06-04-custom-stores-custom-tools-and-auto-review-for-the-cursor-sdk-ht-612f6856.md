@@ -1,7 +1,7 @@
 ---
 changes_count: 4
 date: '2026-06-04'
-machine_hash: 8244554fa7ba2e01355bdbfd98c43f9e91475cbde9cb7996e9e9230742c26c6c
+machine_hash: e573d08ab3db4bf86491236722f0e4b12b9b119ad446d656d298527b34f5f198
 product: cursor
 product_name: Cursor
 record:
@@ -41,8 +41,8 @@ Tracked cards: 4
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- safety-privacy: [[Changes/Cursor/2026-06-04-you-can-now-hand-the-local-agent-your-own-tools-by-passing-function-definitions|You can now hand the local agent your own tools by passing function definitions]]
-- agent-mode: [[Changes/Cursor/2026-06-04-before-this-exposing-a-custom-capability-meant-standing-up-your-own-stdio-or-rem|Before this, exposing a custom capability meant standing up your own stdio or re]]
+- safety-privacy: [[Changes/Cursor/2026-06-04-you-can-now-hand-the-local-agent-your-own-tools-by-passing-function-definitions|Hand the local agent your own tools by passing function definitions through…]]
+- agent-mode: [[Changes/Cursor/2026-06-04-before-this-exposing-a-custom-capability-meant-standing-up-your-own-stdio-or-rem|Before this, exposing a custom capability meant standing up your own stdio or remote…]]
 - apps-integrations: [[Changes/Cursor/2026-06-04-we-ve-shipped-a-batch-of-new-functionality-across-the-typescript-and-python-sdks|We've shipped a batch of new functionality across the TypeScript and Python SDKs]]
-- agent-mode: [[Changes/Cursor/2026-06-04-by-default-a-local-sdk-agent-runs-tool-calls-without-asking-for-approval-since-t|By default, a local SDK agent runs tool calls without asking for approval, since]]
+- agent-mode: [[Changes/Cursor/2026-06-04-by-default-a-local-sdk-agent-runs-tool-calls-without-asking-for-approval-since-t|By default, a local SDK agent runs tool calls without asking for approval, since…]]
 <!-- chronolog:end -->

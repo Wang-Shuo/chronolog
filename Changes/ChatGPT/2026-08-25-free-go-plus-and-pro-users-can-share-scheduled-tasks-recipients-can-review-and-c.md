@@ -11,9 +11,9 @@ diffusion:
   theme: automation-scheduling
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a2f59ce15402eb25023d64d29af31ca1ac5ccdb8dfcf49c75f84798190729e62
+machine_hash: a013f5795852e94073c05fe04ca090b70346b42006a4bec0fd67e4d4a5229f84
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       their own apps, and create an independent copy. Running a shared webhook-triggered
       task requires access to Work and the recipient’s own connected app.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -49,8 +49,7 @@ record:
     score: 50
     theme: apps-integrations
   theme_resolution: manual-semantic-rule-v1
-  title: Free, Go, Plus, and Pro users can share scheduled tasks. Recipients can review
-    a
+  title: Free, Go, Plus, and Pro users can share scheduled tasks
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-06-18-react-to-any-slack-message-with-a-designated-emoji-to-kick-off-an-automation-at|cursor-2026-06-18-d27f9c]]'
@@ -59,12 +58,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-25-scheduled-tasks-can-respond-to-app-updates-and-be-shared-63a6aae4|chatgpt-2026-08-25-scheduled-tasks-can-respond-to-app-updates-and-be-shared-63a6aae4]]'
 source_type: chatgpt_changelog
 theme: automation-scheduling
-title: Free, Go, Plus, and Pro users can share scheduled tasks. Recipients can review
-  a
+title: Free, Go, Plus, and Pro users can share scheduled tasks
 type: change
 ---
 
-# Free, Go, Plus, and Pro users can share scheduled tasks. Recipients can review a
+# Free, Go, Plus, and Pro users can share scheduled tasks
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Scheduled tasks can respond to app updates and be shared: Free, Go, Plus, and Pro users can share scheduled tasks. Recipients can review and customize the instructions and, when applicable, the schedule, connect their own apps, and create an independent copy. Running a shared webhook-triggered task requires access to Work and the recipient’s own connected app.

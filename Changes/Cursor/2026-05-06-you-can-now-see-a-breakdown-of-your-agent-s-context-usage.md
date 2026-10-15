@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 2be7106764ff8cb66f55b9abe7084065c4691bdaf88d4ef00630f433bc275f02
+machine_hash: f68c8e7055f4f8a842c4266eb8a1c353df68f49573616eddfcfbd5a44e2f0890
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: You can now see a breakdown of your agent's context usage.
     source_release: https://cursor.com/changelog/05-06-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -45,7 +45,7 @@ record:
     score: 50
     theme: context-window
   theme_resolution: manual-semantic-rule-v1
-  title: You can now see a breakdown of your agent's context usage.
+  title: See a breakdown of your agent's context usage
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-15-added-option-to-show-claude-s-last-response-as-commented-context-in-the-ctrl-g-e|claude-code-2026-04-15-980a64]]'
@@ -54,11 +54,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-05-06-3-3-https-cursor-com-changelog-05-06-26-2cf56c40|cursor-2026-05-06-3-3-https-cursor-com-changelog-05-06-26-2cf56c40]]'
 source_type: cursor_changelog
 theme: context-window
-title: You can now see a breakdown of your agent's context usage.
+title: See a breakdown of your agent's context usage
 type: change
 ---
 
-# You can now see a breakdown of your agent's context usage.
+# See a breakdown of your agent's context usage
 
 <!-- chronolog:begin region="description" -->
 Cursor — Context Usage Breakdown: You can now see a breakdown of your agent's context usage.

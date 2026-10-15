@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7bf914355ecda58f7317d2f8648a5b844844a90f3327c7d5fea70769fc8c5175
+machine_hash: 5866fdf875fde9cc371b1bd4c67973ab99b03ccd9cae5fdda1b3d08deb6da25e
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Cursor in Slack now shares a plan before it starts, runs in multi-repo
       environments, and can work across channels and threads.
     source_release: https://cursor.com/changelog/slack-improvements
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,7 +37,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Cursor in Slack now shares a plan before it starts, runs in multi-repo environme
+  title: Cursor in Slack now shares a plan before it starts, runs in multi-repo environments…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-15-hardened-synced-skill-plugin-directory-naming-on-windows-and-kept-ccr-web-fetch|claude-code-2026-07-15-a7c9ca]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-07-17-improvements-to-cursor-in-slack-https-cursor-com-changelog-slack-f233f9c6|cursor-2026-07-17-improvements-to-cursor-in-slack-https-cursor-com-changelog-slack-f233f9c6]]'
 source_type: cursor_changelog
 theme: apps-integrations
-title: Cursor in Slack now shares a plan before it starts, runs in multi-repo environme
+title: Cursor in Slack now shares a plan before it starts, runs in multi-repo environments…
 type: change
 ---
 
-# Cursor in Slack now shares a plan before it starts, runs in multi-repo environme
+# Cursor in Slack now shares a plan before it starts, runs in multi-repo environments…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Improvements to Cursor in Slack: Cursor in Slack now shares a plan before it starts, runs in multi-repo environments, and can work across channels and threads.

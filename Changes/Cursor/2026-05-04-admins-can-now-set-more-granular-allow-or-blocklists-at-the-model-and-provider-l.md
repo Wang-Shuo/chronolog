@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 56a9d417ef8837f69da228202223c24d5d8c7c7b10a95b523226ac53e26bdd26
+machine_hash: 4b0cc7f9fae2159e1e46425cd57770f62d364910a17f95c2cc80f8ffecd555b7
 product: cursor
 product_name: Cursor
 record:
@@ -31,7 +31,7 @@ record:
       level. You can block entire providers or specific model configurations for speed
       and context window size.
     source_release: https://cursor.com/changelog/05-04-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -59,7 +59,7 @@ record:
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v2
   title: Admins can now set more granular allow or blocklists at the model and provider
-    l
+    level
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-14-added-enable-prompt-caching-1h-env-var-to-opt-into-1-hour-prompt-cache-ttl-on-ap|claude-code-2026-04-14-4bb7a3]]'
@@ -69,11 +69,11 @@ source_release: '[[Releases/Cursor/cursor-2026-05-04-model-controls-spend-manage
 source_type: cursor_changelog
 theme: context-window
 title: Admins can now set more granular allow or blocklists at the model and provider
-  l
+  level
 type: change
 ---
 
-# Admins can now set more granular allow or blocklists at the model and provider l
+# Admins can now set more granular allow or blocklists at the model and provider level
 
 <!-- chronolog:begin region="description" -->
 Cursor — Model controls, spend management, and usage analytics: Admins can now set more granular allow or blocklists at the model and provider level. You can block entire providers or specific model configurations for speed and context window size.

@@ -11,9 +11,9 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8e8f3118099ebe326be5b6c14468a7991bcedda4a3bf39583c5ad7cac0e3450d
+machine_hash: 0a05fe82df1b785aa0cb1fb4d059585fcf1d45f15937a590821655b24901b664
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       presentations, and spreadsheets, use connected apps, or work in a browser. When
       you end a Voice call in Work, an unfinished task can continue in text.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -56,8 +56,7 @@ record:
     score: 50
     theme: mobile-desktop
   theme_resolution: manual-semantic-rule-v1
-  title: Voice is also available in Work on web and mobile. Ask it to create documents,
-    p
+  title: Voice is also available in Work on web and mobile
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-08-31-to-continue-a-voice-conversation-outside-chatgpt-turn-on-background-conversation|chatgpt-2026-08-31-3e3ef6]]'
@@ -66,12 +65,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-23-use-plugins-in-voice-and-get-work-done-by-speaking-fa63def1|chatgpt-2026-09-23-use-plugins-in-voice-and-get-work-done-by-speaking-fa63def1]]'
 source_type: chatgpt_changelog
 theme: voice
-title: Voice is also available in Work on web and mobile. Ask it to create documents,
-  p
+title: Voice is also available in Work on web and mobile
 type: change
 ---
 
-# Voice is also available in Work on web and mobile. Ask it to create documents, p
+# Voice is also available in Work on web and mobile
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Use plugins in Voice and get work done by speaking: Voice is also available in Work on web and mobile. Ask it to create documents, presentations, and spreadsheets, use connected apps, or work in a browser. When you end a Voice call in Work, an unfinished task can continue in text.

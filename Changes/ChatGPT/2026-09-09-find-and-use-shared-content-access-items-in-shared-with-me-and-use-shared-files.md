@@ -11,9 +11,9 @@ diffusion:
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d9928ca45911c6fd69d16226ecdd84f102d6f17d795d0ad6199c96c98e09c4bf
+machine_hash: 8470a79340a9228b0ca16360ff5d569a819023074ee2adafdca20db598d95035
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Find and use shared content. Access items in Shared with me and use shared
       files in conversations with ChatGPT.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -37,8 +37,7 @@ record:
   theme: collaboration
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Find and use shared content. Access items in Shared with me and use shared
-    files
+  title: Find and use shared content
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-09-08-share-a-prompt-share-the-prompt-for-a-generated-image-so-others-can-create-their|chatgpt-2026-09-08-1e7f3d]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-09-share-files-and-folders-from-your-library-37c26e4d|chatgpt-2026-09-09-share-files-and-folders-from-your-library-37c26e4d]]'
 source_type: chatgpt_changelog
 theme: collaboration
-title: Find and use shared content. Access items in Shared with me and use shared
-  files
+title: Find and use shared content
 type: change
 ---
 
-# Find and use shared content. Access items in Shared with me and use shared files
+# Find and use shared content
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Share files and folders from your Library: Find and use shared content. Access items in Shared with me and use shared files in conversations with ChatGPT.

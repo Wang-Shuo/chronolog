@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 032e65f4a47d1f422c9adc6051b2f5187664a0d5096ef340d56449d5047b65f3
+machine_hash: e1d8b05565a94de268838dc6866a8e7e7760bfe355d4b4a772592feb36c4b74d
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Context ingestion across a full notebook
     source_release: https://cursor.com/changelog/0-2-16
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

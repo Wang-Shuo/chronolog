@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0ac04479b7000a81e7509981c3a8eee79527708aa5d81ade57f0b7b222c11528
+machine_hash: 99e3ac53bed51889dfe57245a15c7149a5ef16279f12d3cb323301b42d074a0a
 product: cursor
 product_name: Cursor
 record:
@@ -24,7 +24,7 @@ record:
   evidence:
   - quote: Ask AI to "fix" language errors
     source_release: https://cursor.com/changelog/0-1-5
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

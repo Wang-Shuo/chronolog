@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5685665c2ccd0a287181cdf6f151743b070bf2d70564d58c88a298bb5c35af85
+machine_hash: 69dba16b2e440b117a455650df87cd8c54e1807da49fb17323435b089281ba45
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Hacky first version of cmd-K in the terminal! Let us know what you think.
     source_release: https://cursor.com/changelog/0-11-3-nightly
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -43,7 +43,7 @@ record:
     score: 50
     theme: developer-workflow
   theme_resolution: manual-semantic-rule-v1
-  title: Hacky first version of cmd-K in the terminal! Let us know what you think.
+  title: Hacky first version of cmd-K in the terminal!
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-08-22-you-can-now-reply-to-cmd-k-outputs-making-it-much-easier-to-have-the-model-revis|cursor-2023-08-22-937de9]]'
@@ -52,11 +52,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-09-21-0-11-3-nightly-https-cursor-com-changelog-0-11-3-nightly-a09e54fc|cursor-2023-09-21-0-11-3-nightly-https-cursor-com-changelog-0-11-3-nightly-a09e54fc]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: Hacky first version of cmd-K in the terminal! Let us know what you think.
+title: Hacky first version of cmd-K in the terminal!
 type: change
 ---
 
-# Hacky first version of cmd-K in the terminal! Let us know what you think.
+# Hacky first version of cmd-K in the terminal!
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cmd-K in the terminal!: Hacky first version of cmd-K in the terminal! Let us know what you think.

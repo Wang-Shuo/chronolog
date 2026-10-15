@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: b81f5c7c81ae3bee00decaf4a0381e3a16723aa1d7feb4c6b8665ce08a9f5bbc
+machine_hash: ac87479bfede3e0dd961a62a5ddd3a5d3ea7fd518978ce3a536b199aebb95d85
 product: cursor
 product_name: Cursor
 record:
@@ -30,7 +30,7 @@ record:
       only supported if you do not use your own API key, since it relies on non-public
       models.
     source_release: https://cursor.com/changelog/0-11-15-nightly
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -52,8 +52,7 @@ record:
     score: 50
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v1
-  title: You can now use an early preview of /edit in the chat! It's significantly
-    faster
+  title: Use an early preview of /edit in the chat!
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-09-05-cmd-k-will-no-longer-output-backticks-if-you-do-file|cursor-2023-09-05-183916]]'
@@ -62,11 +61,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-09-27-0-11-15-nightly-https-cursor-com-changelog-0-11-15-nightly-eb6f797e|cursor-2023-09-27-0-11-15-nightly-https-cursor-com-changelog-0-11-15-nightly-eb6f797e]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: You can now use an early preview of /edit in the chat! It's significantly faster
+title: Use an early preview of /edit in the chat!
 type: change
 ---
 
-# You can now use an early preview of /edit in the chat! It's significantly faster
+# Use an early preview of /edit in the chat!
 
 <!-- chronolog:begin region="description" -->
 Cursor — /edit in chat: You can now use an early preview of /edit in the chat! It's significantly faster at editing entire files than just using cmd-k. The /edit feature is currently only supported if you do not use your own API key, since it relies on non-public models.

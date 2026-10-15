@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4a73ec66a37843d9e05bef6766de3faba10dc3e08a1abbbff1afafc0e2ff43f6
+machine_hash: cf8501a7077d48450f21ef39d96813131f2e6afd91cd86b06eabb5c696af8e5b
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       keybinding actions, so the `/effort` slider's arrow and Tab keys can be rebound
       in `keybindings.json`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.284
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -46,8 +46,7 @@ record:
     score: 50
     theme: interface-experience
   theme_resolution: manual-semantic-rule-v1
-  title: Added `effortSlider:decreaseEffort`, `increaseEffort` and `toggleUltracode`
-    keyb
+  title: Added `effortSlider:decreaseEffort`, `increaseEffort` and `toggleUltracode`…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-14-added-mouse-support-to-the-config-panel-in-fullscreen-mode-the-wheel-scrolls-the|claude-code-2026-09-14-823a76]]'
@@ -56,11 +55,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49|claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49]]'
 source_type: github_releases
 theme: interface-experience
-title: Added effortSlider:decreaseEffort, increaseEffort and toggleUltracode keyb
+title: Added effortSlider:decreaseEffort, increaseEffort and toggleUltracode…
 type: change
 ---
 
-# Added `effortSlider:decreaseEffort`, `increaseEffort` and `toggleUltracode` keyb
+# Added `effortSlider:decreaseEffort`, `increaseEffort` and `toggleUltracode`…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.284: Added `effortSlider:decreaseEffort`, `increaseEffort` and `toggleUltracode` keybinding actions, so the `/effort` slider's arrow and Tab keys can be rebound in `keybindings.json`

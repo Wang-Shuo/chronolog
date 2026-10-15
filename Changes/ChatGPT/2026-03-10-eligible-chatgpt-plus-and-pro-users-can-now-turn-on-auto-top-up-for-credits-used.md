@@ -11,9 +11,9 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: c8d30aa5ec74e52479757d22b77c83d6c571306b3802d2c8b0260b8ce0d36ead
+machine_hash: 9c9f5ef2b801dc27b86d50824ed4943d09c06d112f6d309e7f5636ff2d6361fb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
       default payment method on file to purchase only the amount needed to reach your
       target balance.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -43,7 +43,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: Eligible ChatGPT Plus and Pro users can now turn on auto top-up for credits
-    used
+    used…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-10-30-we-re-excited-to-announce-that-chatgpt-go-our-low-cost-subscription-plan-is-now-44be9d|chatgpt-2025-10-30-44be9d]]'
@@ -53,11 +53,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-03-10-auto-top-up-for-flexible-
 source_type: chatgpt_changelog
 theme: pricing-model
 title: Eligible ChatGPT Plus and Pro users can now turn on auto top-up for credits
-  used
+  used…
 type: change
 ---
 
-# Eligible ChatGPT Plus and Pro users can now turn on auto top-up for credits used
+# Eligible ChatGPT Plus and Pro users can now turn on auto top-up for credits used…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Auto top-up for flexible usage credits: Eligible ChatGPT Plus and Pro users can now turn on auto top-up for credits used with Codex and Sora. Auto top-up automatically replenishes your shared credit balance when it falls below the minimum balance you choose, using your default payment method on file to purchase only the amount needed to reach your target balance.

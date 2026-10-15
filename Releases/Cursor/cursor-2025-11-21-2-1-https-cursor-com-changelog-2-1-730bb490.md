@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2025-11-21'
-machine_hash: dc2c45fac0215161865858807dad6ecab6e9f2a8e45586ab4a0cd21c1e31e530
+machine_hash: cc02483009f1108d6cb7dae8b62dc908d546d730b5fd716f569c4b34db7f2e8b
 product: cursor
 product_name: Cursor
 record:
@@ -38,9 +38,9 @@ Tracked cards: 5
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- developer-workflow: [[Changes/Cursor/2025-11-21-you-can-now-find-and-fix-bugs-directly-in-cursor-with-ai-code-reviews-it-will-lo|You can now find and fix bugs directly in Cursor with AI code reviews. It will l]]
-- enterprise-admin: [[Changes/Cursor/2025-11-21-this-is-in-addition-to-bugbot-which-runs-on-your-source-control-provider-like-gi|This is in addition to Bugbot, which runs on your source control provider like G]]
-- interface-experience: [[Changes/Cursor/2025-11-21-you-can-also-f-to-search-inside-generated-plans|You can also ⌘+F to search inside generated plans.]]
-- agent-mode: [[Changes/Cursor/2025-11-21-all-grep-commands-run-by-the-agent-are-now-instant|All grep commands run by the agent are now instant.]]
-- agent-mode: [[Changes/Cursor/2025-11-21-when-creating-plans-cursor-responds-with-clarifying-questions-to-improve-the-pla|When creating plans, Cursor responds with clarifying questions to improve the pl]]
+- developer-workflow: [[Changes/Cursor/2025-11-21-you-can-now-find-and-fix-bugs-directly-in-cursor-with-ai-code-reviews-it-will-lo|Find and fix bugs directly in Cursor with AI code reviews]]
+- enterprise-admin: [[Changes/Cursor/2025-11-21-this-is-in-addition-to-bugbot-which-runs-on-your-source-control-provider-like-gi|This is in addition to Bugbot, which runs on your source control provider like…]]
+- interface-experience: [[Changes/Cursor/2025-11-21-you-can-also-f-to-search-inside-generated-plans|You can also ⌘+F to search inside generated plans]]
+- agent-mode: [[Changes/Cursor/2025-11-21-all-grep-commands-run-by-the-agent-are-now-instant|All grep commands run by the agent are now instant]]
+- agent-mode: [[Changes/Cursor/2025-11-21-when-creating-plans-cursor-responds-with-clarifying-questions-to-improve-the-pla|When creating plans, Cursor responds with clarifying questions to improve the plan quality]]
 <!-- chronolog:end -->

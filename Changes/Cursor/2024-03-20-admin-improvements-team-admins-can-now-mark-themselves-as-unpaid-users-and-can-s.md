@@ -11,9 +11,9 @@ diffusion:
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 27025dcf163945b544f4c05f8d0f1f430b767540c5c688616343aa817e3f93dc
+machine_hash: 429e2bcc29159a9e986401b4d21d1fa80b2caa255b936987fa035b5e9b9b5e47
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: 'Admin improvements: Team admins can now mark themselves as unpaid users
       and can see the last time team members used the product.'
     source_release: https://cursor.com/changelog/0-30-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -46,7 +46,7 @@ record:
     theme: enterprise-admin
   theme_resolution: manual-semantic-rule-v1
   title: 'Admin improvements: Team admins can now mark themselves as unpaid users
-    and can'
+    and can see…'
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|cursor-2023-09-08-8ba960]]'
@@ -54,11 +54,11 @@ source_release: '[[Releases/Cursor/cursor-2024-03-20-0-30-x-https-cursor-com-cha
 source_type: cursor_changelog
 theme: collaboration
 title: 'Admin improvements: Team admins can now mark themselves as unpaid users and
-  can'
+  can see…'
 type: change
 ---
 
-# Admin improvements: Team admins can now mark themselves as unpaid users and can
+# Admin improvements: Team admins can now mark themselves as unpaid users and can see…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Faster Copilot++, Claude: Admin improvements: Team admins can now mark themselves as unpaid users and can see the last time team members used the product.

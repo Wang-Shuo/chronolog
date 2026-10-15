@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2025-11-25'
-machine_hash: 71cd4d84534d7ab2a314caa9eb5d2a5f90b19f1b8521f633a1ff4e3e60bd2462
+machine_hash: db48b9c1dab163f6d0629618e493074ece21ff1de78e080a3c19da26dd53f8ac
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,7 +48,7 @@ Tracked cards: 5
 <!-- chronolog:begin region="cards" -->
 - voice: [[Changes/ChatGPT/2025-11-25-type-back-when-you-can-t-talk-and-still-get-a-voice-response|Type back when you can’t talk and still get a Voice response]]
 - voice: [[Changes/ChatGPT/2025-11-25-follow-along-with-typed-answers-as-you-listen|Follow along with typed answers as you listen]]
-- voice: [[Changes/ChatGPT/2025-11-25-we-re-making-chatgpt-voice-a-seamless-part-of-the-chatgpt-experience-so-you-can-daf32e|We’re making ChatGPT Voice a seamless part of the ChatGPT experience, so you can]]
+- voice: [[Changes/ChatGPT/2025-11-25-we-re-making-chatgpt-voice-a-seamless-part-of-the-chatgpt-experience-so-you-can-daf32e|We’re making ChatGPT Voice a seamless part of the ChatGPT experience, so you can use…]]
 - voice: [[Changes/ChatGPT/2025-11-25-refer-back-to-earlier-messages-without-interrupting-the-conversation|Refer back to earlier messages without interrupting the conversation]]
 - collaboration: [[Changes/ChatGPT/2025-11-25-share-photos-to-discuss-them-out-loud|Share photos to discuss them out loud]]
 <!-- chronolog:end -->

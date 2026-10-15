@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: b89a73b80605d4b7221a9ef0ee8a067203dc989da91cd8ec7ba40b47d0cfbd56
+machine_hash: cf5fd397d637cf601cd5f8dd3f243e44344ae700ae5469a49db5c9693fc5e108
 product: cursor
 product_name: Cursor
 record:
@@ -32,7 +32,7 @@ record:
       exactly which domains the agent is allowed to reach while running sandboxed
       commands:'
     source_release: https://cursor.com/changelog/2-5
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -42,8 +42,7 @@ record:
   theme: safety-privacy
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: The sandbox now supports granular network access controls, as well as controls
-    f
+  title: The sandbox now supports granular network access controls, as well as controls…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-10-blocked-writes-to-claude-skills-directory-in-sandbox-mode|claude-code-2026-02-10-9fba55]]'
@@ -52,12 +51,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320|cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320]]'
 source_type: cursor_changelog
 theme: safety-privacy
-title: The sandbox now supports granular network access controls, as well as controls
-  f
+title: The sandbox now supports granular network access controls, as well as controls…
 type: change
 ---
 
-# The sandbox now supports granular network access controls, as well as controls f
+# The sandbox now supports granular network access controls, as well as controls…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Plugins, Sandbox Access Controls, and Async Subagents: The sandbox now supports granular network access controls, as well as controls for access to directories and files on your local filesystem. Define exactly which domains the agent is allowed to reach while running sandboxed commands:

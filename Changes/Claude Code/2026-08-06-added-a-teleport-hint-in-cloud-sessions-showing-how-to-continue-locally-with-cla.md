@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 743e1d9b1208441e62321dab9fba0d24455b18287e2343e8f2fc4e247a71346c
+machine_hash: bce56870d816f312c2dde687fbffadfe5cce31a0b830b6bbd0acd48ae03ab4af
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added a `/teleport` hint in cloud sessions showing how to continue locally
       with `claude --teleport <session id>`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.223
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   theme: agent-mode
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Added a `/teleport` hint in cloud sessions showing how to continue locally
-    with
+  title: Added a `/teleport` hint in cloud sessions showing how to continue locally…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-24-added-the-workflowsizeguideline-settings-key-so-the-advisory-dynamic-workflow-si|claude-code-2026-07-24-29e2ed]]'
@@ -46,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-08-06-v2-1-223-github-365870283-03a5b13d|claude-code-2026-08-06-v2-1-223-github-365870283-03a5b13d]]'
 source_type: github_releases
 theme: agent-mode
-title: Added a /teleport hint in cloud sessions showing how to continue locally with
+title: Added a /teleport hint in cloud sessions showing how to continue locally…
 type: change
 ---
 
-# Added a `/teleport` hint in cloud sessions showing how to continue locally with
+# Added a `/teleport` hint in cloud sessions showing how to continue locally…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.223: Added a `/teleport` hint in cloud sessions showing how to continue locally with `claude --teleport <session id>`

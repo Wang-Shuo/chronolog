@@ -11,9 +11,9 @@ diffusion:
   theme: projects-workspaces
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 92c54b873f6ca6b76b08639f71f8905b0894a19472977261c1e53f18b66c3f2d
+machine_hash: 76890dadbd3316a968e7e7e5c2268cc2e5762ee97585a6a8eac066a8d185d060
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Added `/rewind` support for resuming a conversation from before `/clear`
       was run
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.191
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code

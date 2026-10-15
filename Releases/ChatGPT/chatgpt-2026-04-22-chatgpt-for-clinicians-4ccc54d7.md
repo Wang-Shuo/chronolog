@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-04-22'
-machine_hash: ab8b761570ce02b345ec982695fd8dda818937ebbb7ea2275cce65fc8e2e03ef
+machine_hash: 70cfd5967f56d0ab6b95fe7cb7a274d3bffd9a2451af5746522e6d3753d41331
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- account-access: [[Changes/ChatGPT/2026-04-22-we-re-launching-chatgpt-for-clinicians-a-free-version-of-chatgpt-for-verified-cl|We’re launching ChatGPT for Clinicians, a free version of ChatGPT for verified c]]
+- account-access: [[Changes/ChatGPT/2026-04-22-we-re-launching-chatgpt-for-clinicians-a-free-version-of-chatgpt-for-verified-cl|ChatGPT launches ChatGPT for Clinicians, a free version of ChatGPT for verified…]]
 <!-- chronolog:end -->

@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3971156177b4a4ad2dd1e4d18c4a7755a050a3a98b940362c4f92a991a9dc373
+machine_hash: fe135a7383f8c632502fc4785ccabf74c9c812177332711473a5007079dda4b7
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added "Summarize from here" to the message selector, allowing partial conversation
       summarization.
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.32
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,7 +36,7 @@ record:
   theme: context-window
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Added "Summarize from here" to the message selector, allowing partial conversati
+  title: Added "Summarize from here" to the message selector, allowing partial conversation…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-16-added-auto-n-syntax-for-configuring-the-mcp-tool-search-auto-enable-threshold-wh|claude-code-2026-01-16-35ca77]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0|claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0]]'
 source_type: github_releases
 theme: context-window
-title: Added "Summarize from here" to the message selector, allowing partial conversati
+title: Added "Summarize from here" to the message selector, allowing partial conversation…
 type: change
 ---
 
-# Added "Summarize from here" to the message selector, allowing partial conversati
+# Added "Summarize from here" to the message selector, allowing partial conversation…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.32: Added "Summarize from here" to the message selector, allowing partial conversation summarization.

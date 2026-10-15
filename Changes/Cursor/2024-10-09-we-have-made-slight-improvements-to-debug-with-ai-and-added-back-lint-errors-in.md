@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d42de95db332d6e624d312fe55afb464ec775e6ae47889456206d9d1162d35a5
+machine_hash: 7ee571d0c79617b7f5dd30e0ee73db9c728d6bc489151073e98da7342b4becd3
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: We have made slight improvements to Debug with AI and added back @Lint
       Errors in Chat.
     source_release: https://cursor.com/changelog/0-42-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: We have made slight improvements to Debug with AI and added back @Lint Errors
-    in
+    in Chat
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-02-15-linter-you-can-now-turn-on-an-ai-linter-in-the-more-tab-beside-chat-it-ll-scan-y|cursor-2024-02-15-7ac01a]]'
@@ -47,11 +47,11 @@ source_release: '[[Releases/Cursor/cursor-2024-10-09-0-42-x-https-cursor-com-cha
 source_type: cursor_changelog
 theme: developer-workflow
 title: We have made slight improvements to Debug with AI and added back @Lint Errors
-  in
+  in Chat
 type: change
 ---
 
-# We have made slight improvements to Debug with AI and added back @Lint Errors in
+# We have made slight improvements to Debug with AI and added back @Lint Errors in Chat
 
 <!-- chronolog:begin region="description" -->
 Cursor — Composer History, @Lint Errors, VS Code 1.93.1: We have made slight improvements to Debug with AI and added back @Lint Errors in Chat.

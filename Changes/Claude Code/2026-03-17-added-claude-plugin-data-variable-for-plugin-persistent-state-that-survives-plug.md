@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 57090245ec14d6cef1752bd98f14aa481b27d0ddcb9b1fa7c752f3b9aec80673
+machine_hash: 73ab6d85bb3ffcd5841b745cde59124a820655c03b4d654894f419a518014c3c
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Added `${CLAUDE_PLUGIN_DATA}` variable for plugin persistent state that
       survives plugin updates; `/plugin uninstall` prompts before deleting it
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.78
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,7 +35,7 @@ record:
   source_release: claude-code-2026-03-17-v2-1-78-github-298204446-1f2c1721
   source_type: github_releases
   theme: apps-integrations
-  title: Added `${CLAUDE_PLUGIN_DATA}` variable for plugin persistent state that survives
+  title: Added `${CLAUDE_PLUGIN_DATA}` variable for plugin persistent state that survives…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-14-added-mcp-elicitation-support-mcp-servers-can-now-request-structured-input-mid-t|claude-code-2026-03-14-928360]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-17-v2-1-78-github-298204446-1f2c1721|claude-code-2026-03-17-v2-1-78-github-298204446-1f2c1721]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added ${CLAUDE_PLUGIN_DATA} variable for plugin persistent state that survives
+title: Added ${CLAUDE_PLUGIN_DATA} variable for plugin persistent state that survives…
 type: change
 ---
 
-# Added `${CLAUDE_PLUGIN_DATA}` variable for plugin persistent state that survives
+# Added `${CLAUDE_PLUGIN_DATA}` variable for plugin persistent state that survives…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.78: Added `${CLAUDE_PLUGIN_DATA}` variable for plugin persistent state that survives plugin updates; `/plugin uninstall` prompts before deleting it

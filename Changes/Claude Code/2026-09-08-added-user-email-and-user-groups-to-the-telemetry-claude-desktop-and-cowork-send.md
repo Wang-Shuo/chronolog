@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1092ba8879082e86c01c5fa634a831d8677b44d0c49d6c7122d2abfbbeda4e75
+machine_hash: 92adc044d83acb60ed5501b6a99c62dfb79749f1fb91e5171c49663cd15969be
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Added `user.email` and `user.groups` to the telemetry Claude Desktop and
       Cowork send through a Claude apps gateway, matching terminal sessions
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.265
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -50,7 +50,7 @@ record:
     theme: mobile-desktop
   theme_resolution: manual-semantic-rule-v1
   title: Added `user.email` and `user.groups` to the telemetry Claude Desktop and
-    Cowork
+    Cowork send…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-08-31-site-tools-use-webmcp-and-require-a-supported-account-model-and-webpage-they-are|chatgpt-2026-08-31-f1b6a5]]'
@@ -60,10 +60,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-09-08-v2-1-265-github-3
 source_type: github_releases
 theme: mobile-desktop
 title: Added user.email and user.groups to the telemetry Claude Desktop and Cowork
+  send…
 type: change
 ---
 
-# Added `user.email` and `user.groups` to the telemetry Claude Desktop and Cowork
+# Added `user.email` and `user.groups` to the telemetry Claude Desktop and Cowork send…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.265: Added `user.email` and `user.groups` to the telemetry Claude Desktop and Cowork send through a Claude apps gateway, matching terminal sessions

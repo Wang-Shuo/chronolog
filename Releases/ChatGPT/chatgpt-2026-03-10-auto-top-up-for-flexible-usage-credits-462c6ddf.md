@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2026-03-10'
-machine_hash: 65b487b99b47b769e8ba44d1139346c5f05a1ebd7f192ff4ab9214bbf6ab3fb9
+machine_hash: c50fcccbad72d07a8008551834d9393e40f0239db89e5c53bab4ad0ae693bb50
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,6 +42,6 @@ Tracked cards: 2
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- pricing-model: [[Changes/ChatGPT/2026-03-10-you-can-manage-auto-top-up-from-codex-settings-usage-dashboard-auto-top-up-appli|You can manage auto top-up from Codex Settings → Usage Dashboard. Auto top-up ap]]
-- pricing-model: [[Changes/ChatGPT/2026-03-10-eligible-chatgpt-plus-and-pro-users-can-now-turn-on-auto-top-up-for-credits-used|Eligible ChatGPT Plus and Pro users can now turn on auto top-up for credits used]]
+- pricing-model: [[Changes/ChatGPT/2026-03-10-you-can-manage-auto-top-up-from-codex-settings-usage-dashboard-auto-top-up-appli|You can manage auto top-up from Codex Settings → Usage Dashboard]]
+- pricing-model: [[Changes/ChatGPT/2026-03-10-eligible-chatgpt-plus-and-pro-users-can-now-turn-on-auto-top-up-for-credits-used|Eligible ChatGPT Plus and Pro users can now turn on auto top-up for credits used…]]
 <!-- chronolog:end -->

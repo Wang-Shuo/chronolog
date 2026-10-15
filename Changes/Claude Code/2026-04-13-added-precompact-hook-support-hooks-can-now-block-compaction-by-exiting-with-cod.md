@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: a064a5be21b781d03228bf83983b101807c24e5d184138fa83c5a9f66b8c9ebb
+machine_hash: 8239ed0c5f1078f0d22b91fd4f96928f1af456addc3dc29003388a49f214c363
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: 'Added PreCompact hook support: hooks can now block compaction by exiting
       with code 2 or returning `{"decision":"block"}`'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.105
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -38,8 +38,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: 'Added PreCompact hook support: hooks can now block compaction by exiting
-    with co'
+  title: Added PreCompact hook support
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-04-08-give-bugbot-access-to-mcp-servers-for-additional-context-during-code-reviews-on|cursor-2026-04-08-bbecaa]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-13-v2-1-105-github-308569432-65a12cd3|claude-code-2026-04-13-v2-1-105-github-308569432-65a12cd3]]'
 source_type: github_releases
 theme: apps-integrations
-title: 'Added PreCompact hook support: hooks can now block compaction by exiting with
-  co'
+title: Added PreCompact hook support
 type: change
 ---
 
-# Added PreCompact hook support: hooks can now block compaction by exiting with co
+# Added PreCompact hook support
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.105: Added PreCompact hook support: hooks can now block compaction by exiting with code 2 or returning `{"decision":"block"}`

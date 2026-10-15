@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: b06b05cf398d0b2275c31ed20a097d83a4d685ac646ae8c4da26f9a9c1e685d8
+machine_hash: 3aaafddb22bf943b6c978733bd3ec322478c63e0082a123c4c540ac41a5430c5
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Mention @Cursor in any Teams channel to delegate a task to a cloud agent
       or pull information from Cursor into Teams.
     source_release: https://cursor.com/changelog/microsoft-teams
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -47,7 +47,7 @@ record:
     score: 50
     theme: collaboration
   title: Mention @Cursor in any Teams channel to delegate a task to a cloud agent
-    or pull
+    or pull…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-04-24-with-multitask-cursor-will-run-async-subagents-to-parallelize-your-requests-inst|cursor-2026-04-24-a02402]]'
@@ -57,11 +57,11 @@ source_release: '[[Releases/Cursor/cursor-2026-05-11-cursor-in-microsoft-teams-h
 source_type: cursor_changelog
 theme: agent-mode
 title: Mention @Cursor in any Teams channel to delegate a task to a cloud agent or
-  pull
+  pull…
 type: change
 ---
 
-# Mention @Cursor in any Teams channel to delegate a task to a cloud agent or pull
+# Mention @Cursor in any Teams channel to delegate a task to a cloud agent or pull…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cursor in Microsoft Teams: Mention @Cursor in any Teams channel to delegate a task to a cloud agent or pull information from Cursor into Teams.

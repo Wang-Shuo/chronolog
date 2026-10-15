@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9131036b2de706b39fb45630a376e1e1d7a513c304712431926366e681a3f529
+machine_hash: 518fdda4f4de44f7c700c4e3b8f182006ce13f7572a6296c3d3730353683c849
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       the same settings as `cli`, also applied in Claude Desktop''s Code tab; beside
       `desktop`, it turns on Claude Desktop''s gateway mode'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.296
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -50,8 +50,7 @@ record:
     score: 50
     theme: mobile-desktop
   theme_resolution: manual-semantic-rule-v1
-  title: 'Added a `code` key to the Claude apps gateway''s `managed.policies[]`: the
-    same s'
+  title: Added a `code` key to the Claude apps gateway's `managed.policies[]`
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-10-02-finances-in-chatgpt-is-rolling-out-to-free-and-go-users-in-the-u-s-on-web-ios-an|chatgpt-2026-10-02-a883ce]]'
@@ -60,12 +59,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a|claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a]]'
 source_type: github_releases
 theme: mobile-desktop
-title: 'Added a code key to the Claude apps gateway''s managed.policies: the same
-  s'
+title: Added a code key to the Claude apps gateway's managed.policies
 type: change
 ---
 
-# Added a `code` key to the Claude apps gateway's `managed.policies[]`: the same s
+# Added a `code` key to the Claude apps gateway's `managed.policies[]`
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.296: Added a `code` key to the Claude apps gateway's `managed.policies[]`: the same settings as `cli`, also applied in Claude Desktop's Code tab; beside `desktop`, it turns on Claude Desktop's gateway mode

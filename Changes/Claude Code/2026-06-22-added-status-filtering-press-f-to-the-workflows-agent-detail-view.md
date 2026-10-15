@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 2156d2cffa85d23174cd712f0be26a677504e60eb60898b4e24d223a0314ca07
+machine_hash: 54949be6e7bed08798ccf2784b1c0c379cb045de03de5585ddb10e418ad883ea
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: Added status filtering (press `f`) to the `/workflows` agent detail view
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.186
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code

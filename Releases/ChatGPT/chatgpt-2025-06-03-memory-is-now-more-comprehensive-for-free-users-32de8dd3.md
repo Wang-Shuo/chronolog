@@ -1,7 +1,7 @@
 ---
 changes_count: 4
 date: '2025-06-03'
-machine_hash: ca73ce0974c9e653463258df4cbf06f23e6d9a70ab87e4406dcf89b65fd0b344
+machine_hash: 02a1157e8e1f18b4b18d40a0e670911c350df91d384092f423dcdeadd711233e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,8 +41,8 @@ Tracked cards: 4
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- memory: [[Changes/ChatGPT/2025-06-03-you-can-turn-off-memory-anytime-in-settings-learn-more-in-our-memory-faq|You can turn off memory anytime in settings. Learn more in our Memory FAQ.]]
-- memory: [[Changes/ChatGPT/2025-06-03-free-users-in-eea-eu-uk-switzerland-norway-iceland-or-liechtenstein-will-see-a-p|Free users in EEA (EU + UK), Switzerland, Norway, Iceland, or Liechtenstein will]]
-- memory: [[Changes/ChatGPT/2025-06-03-outside-the-european-regions-listed-above-all-free-users-that-have-memory-enable|Outside the European regions listed above, all Free users that have memory enabl]]
-- interface-experience: [[Changes/ChatGPT/2025-06-03-memory-improvements-are-starting-to-roll-out-to-free-users-in-addition-to-the-sa-a02494|Memory improvements are starting to roll out to Free users. In addition to the s]]
+- memory: [[Changes/ChatGPT/2025-06-03-you-can-turn-off-memory-anytime-in-settings-learn-more-in-our-memory-faq|You can turn off memory anytime in settings]]
+- memory: [[Changes/ChatGPT/2025-06-03-free-users-in-eea-eu-uk-switzerland-norway-iceland-or-liechtenstein-will-see-a-p|Free users in EEA (EU + UK), Switzerland, Norway, Iceland, or Liechtenstein will see…]]
+- memory: [[Changes/ChatGPT/2025-06-03-outside-the-european-regions-listed-above-all-free-users-that-have-memory-enable|Outside the European regions listed above, all Free users that have memory enabled…]]
+- interface-experience: [[Changes/ChatGPT/2025-06-03-memory-improvements-are-starting-to-roll-out-to-free-users-in-addition-to-the-sa-a02494|Memory improvements are starting to roll out to Free users]]
 <!-- chronolog:end -->

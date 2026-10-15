@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 42cb9dbba67dd36fdd9e034ff93fffd999e724c71facf04b9ec58e0a40185d06
+machine_hash: bef3b3d3e61d6641182ba7285c29f496bf4e77e1eb1101d087bfe4304a9d320c
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       faster by pre-warming the index on startup and using session-based caching with
       background refresh.
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.47
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   source_release: claude-code-2026-02-18-v2-1-47-github-287886320-98b6e931
   source_type: github_releases
   theme: reliability-performance
-  title: Improved performance of `@` file mentions - file suggestions now appear faster
-    b
+  title: Improved performance of `@` file mentions - file suggestions now appear faster…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-21-improved-ui-rendering-performance-with-react-compiler|claude-code-2026-01-21-5000b9]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-02-18-v2-1-47-github-287886320-98b6e931|claude-code-2026-02-18-v2-1-47-github-287886320-98b6e931]]'
 source_type: github_releases
 theme: reliability-performance
-title: Improved performance of @ file mentions - file suggestions now appear faster
-  b
+title: Improved performance of @ file mentions - file suggestions now appear faster…
 type: change
 ---
 
-# Improved performance of `@` file mentions - file suggestions now appear faster b
+# Improved performance of `@` file mentions - file suggestions now appear faster…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.47: Improved performance of `@` file mentions - file suggestions now appear faster by pre-warming the index on startup and using session-based caching with background refresh.

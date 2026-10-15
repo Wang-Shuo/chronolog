@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7206a9792929d95a09e93fdddffe370350f5c91f9d0d44db2206fd98c5aceef4
+machine_hash: a51d6882c4b02ca3933f27a12167ed3fb44aa4eb052e7fbed65b6b1a4c6411ef
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       failure or why they weren''t fetched (Bedrock/Vertex/third-party provider, custom
       `ANTHROPIC_BASE_URL`)'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.248
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,8 +38,7 @@ record:
   source_release: claude-code-2026-08-27-v2-1-248-github-378106990-677106e3
   source_type: github_releases
   theme: interface-experience
-  title: 'Added server-managed settings diagnostics: a startup warning when the settings
-    f'
+  title: Added server-managed settings diagnostics
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-08-21-generated-images-are-easier-to-view-and-your-recent-conversations-are-easier-to|chatgpt-2026-08-21-f1d36c]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-08-27-v2-1-248-github-378106990-677106e3|claude-code-2026-08-27-v2-1-248-github-378106990-677106e3]]'
 source_type: github_releases
 theme: interface-experience
-title: 'Added server-managed settings diagnostics: a startup warning when the settings
-  f'
+title: Added server-managed settings diagnostics
 type: change
 ---
 
-# Added server-managed settings diagnostics: a startup warning when the settings f
+# Added server-managed settings diagnostics
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.248: Added server-managed settings diagnostics: a startup warning when the settings fail to load, and a `/doctor` and `/status` line explaining a load failure or why they weren't fetched (Bedrock/Vertex/third-party provider, custom `ANTHROPIC_BASE_URL`)

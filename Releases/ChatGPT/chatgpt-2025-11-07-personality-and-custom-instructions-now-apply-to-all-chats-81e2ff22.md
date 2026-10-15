@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-11-07'
-machine_hash: 0b9aef08f8db8d44766347852dd1c80d7598322fcc032ee642e782679ae936ef
+machine_hash: 9ef4b71c9486f9556ef9f323fc865d26b6abefa54ce389674d422055d2274cf0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- memory: [[Changes/ChatGPT/2025-11-07-previously-changes-you-made-to-your-chatgpt-personality-or-custom-instructions-o|Previously, changes you made to your ChatGPT personality or custom instructions]]
+- memory: [[Changes/ChatGPT/2025-11-07-previously-changes-you-made-to-your-chatgpt-personality-or-custom-instructions-o|Previously, changes you made to your ChatGPT personality or custom instructions only…]]
 <!-- chronolog:end -->

@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9b6b36139a70eae529f3b03f34b3d2877b156e05b1c85576c23987cf5a2b5ee9
+machine_hash: 1d730a56f03200bd819bf1e8d631920d2a939d96980803bdf171c9ddb10b550d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
       district deployments. Schools and institutions control which tools and permissions
       are available.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -36,7 +36,7 @@ record:
   source_release: chatgpt-2026-08-04-new-education-plugins-for-students-and-educators-d6701667
   source_type: chatgpt_changelog
   theme: apps-integrations
-  title: The plugins are available through ChatGPT Edu and ChatGPT for Teachers district
+  title: The plugins are available through ChatGPT Edu and ChatGPT for Teachers district…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-08-03-new-plugins-give-coding-agents-direct-access-to-gmail-google-drive-and-calendar|cursor-2026-08-03-281f44]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-04-new-education-plugins-for-students-and-educators-d6701667|chatgpt-2026-08-04-new-education-plugins-for-students-and-educators-d6701667]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
-title: The plugins are available through ChatGPT Edu and ChatGPT for Teachers district
+title: The plugins are available through ChatGPT Edu and ChatGPT for Teachers district…
 type: change
 ---
 
-# The plugins are available through ChatGPT Edu and ChatGPT for Teachers district
+# The plugins are available through ChatGPT Edu and ChatGPT for Teachers district…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — New education plugins for students and educators: The plugins are available through ChatGPT Edu and ChatGPT for Teachers district deployments. Schools and institutions control which tools and permissions are available.

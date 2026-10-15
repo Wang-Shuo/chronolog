@@ -11,9 +11,9 @@ diffusion:
   theme: projects-workspaces
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8227c21e829b4db75737701fba0f8c463995a53e423bb7b79df167cabab3fbc0
+machine_hash: a9858131d81eb4aedfe2b9880115c95a90cde269a1497751a139d926e79e96f2
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `-n` / `--name <name>` CLI flag to set a display name for the session
       at startup
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.76
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: Added `-n` / `--name <name>` CLI flag to set a display name for the session
-    at s
+    at startup
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-17-improved-startup-performance-by-removing-eager-loading-of-session-history-for-st|claude-code-2026-02-17-03b224]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc|claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc]]'
 source_type: github_releases
 theme: projects-workspaces
-title: Added -n / --name name CLI flag to set a display name for the session at s
+title: Added -n / --name name CLI flag to set a display name for the session at startup
 type: change
 ---
 
-# Added `-n` / `--name <name>` CLI flag to set a display name for the session at s
+# Added `-n` / `--name <name>` CLI flag to set a display name for the session at startup
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.76: Added `-n` / `--name <name>` CLI flag to set a display name for the session at startup

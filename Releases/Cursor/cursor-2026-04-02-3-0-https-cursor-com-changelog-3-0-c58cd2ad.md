@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2026-04-02'
-machine_hash: 49d7be20b43ecc47f23563233fb8402579609ecb561e35fc25dacd707d1f453f
+machine_hash: 64951f23c3818a1dac20eebe3e46fb3d753ebe3b8d52627de6cb0e06c93726ad
 product: cursor
 product_name: Cursor
 record:
@@ -38,9 +38,9 @@ Tracked cards: 5
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- agent-mode: [[Changes/Cursor/2026-04-02-in-the-agents-window-you-can-use-design-mode-to-annotate-and-target-ui-elements|In the Agents Window, you can use Design Mode to annotate and target UI elements]]
-- developer-workflow: [[Changes/Cursor/2026-04-02-the-new-cursor-interface-allows-you-to-run-many-agents-in-parallel-across-repos|The new Cursor interface allows you to run many agents in parallel across repos]]
-- agent-mode: [[Changes/Cursor/2026-04-02-it-s-simpler-more-powerful-and-centered-around-agents-while-keeping-the-depth-of|It's simpler, more powerful, and centered around agents, while keeping the depth]]
-- agent-mode: [[Changes/Cursor/2026-04-02-to-try-the-agents-window-upgrade-cursor-and-type-cmd-shift-p-agents-window|To try the Agents Window, upgrade Cursor and type Cmd+Shift+P - Agents Window.]]
-- editor-experience: [[Changes/Cursor/2026-04-02-you-can-switch-back-to-the-ide-anytime-or-have-both-open-simultaneously|You can switch back to the IDE anytime, or have both open simultaneously.]]
+- agent-mode: [[Changes/Cursor/2026-04-02-in-the-agents-window-you-can-use-design-mode-to-annotate-and-target-ui-elements|In the Agents Window, you can use Design Mode to annotate and target UI elements…]]
+- developer-workflow: [[Changes/Cursor/2026-04-02-the-new-cursor-interface-allows-you-to-run-many-agents-in-parallel-across-repos|The new Cursor interface allows you to run many agents in parallel across repos…]]
+- agent-mode: [[Changes/Cursor/2026-04-02-it-s-simpler-more-powerful-and-centered-around-agents-while-keeping-the-depth-of|It's simpler, more powerful, and centered around agents, while keeping the depth…]]
+- agent-mode: [[Changes/Cursor/2026-04-02-to-try-the-agents-window-upgrade-cursor-and-type-cmd-shift-p-agents-window|To try the Agents Window, upgrade Cursor and type Cmd+Shift+P - Agents Window]]
+- editor-experience: [[Changes/Cursor/2026-04-02-you-can-switch-back-to-the-ide-anytime-or-have-both-open-simultaneously|You can switch back to the IDE anytime, or have both open simultaneously]]
 <!-- chronolog:end -->

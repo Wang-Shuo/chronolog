@@ -11,9 +11,9 @@ diffusion:
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: da596b8437f2e0ddf7be30371f07c72a698c7078793565241600e99658ad0951
+machine_hash: 616984b3fd8422d8b21dd9a234272655eaaa1b29756c4330ada854430700b54b
 product: cursor
 product_name: Cursor
 record:
@@ -31,7 +31,7 @@ record:
       For current customers, your existing team is preserved and becomes the default
       home for login, routing, and creating new teams.
     source_release: https://cursor.com/changelog/enterprise-organizations
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -49,8 +49,7 @@ record:
     - login
     score: 50
     theme: account-access
-  title: A user can belong to more than one team, with a different role in each. For
-    curr
+  title: A user can belong to more than one team, with a different role in each
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-02-otel-resource-attributes-values-are-now-included-as-labels-on-metric-datapoints|claude-code-2026-06-02-dc5a23]]'
@@ -59,12 +58,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-06-03-organizations-for-cursor-enterprise-https-cursor-com-changelog-e-b5c7f576|cursor-2026-06-03-organizations-for-cursor-enterprise-https-cursor-com-changelog-e-b5c7f576]]'
 source_type: cursor_changelog
 theme: collaboration
-title: A user can belong to more than one team, with a different role in each. For
-  curr
+title: A user can belong to more than one team, with a different role in each
 type: change
 ---
 
-# A user can belong to more than one team, with a different role in each. For curr
+# A user can belong to more than one team, with a different role in each
 
 <!-- chronolog:begin region="description" -->
 Cursor — Organizations for Cursor Enterprise: A user can belong to more than one team, with a different role in each. For current customers, your existing team is preserved and becomes the default home for login, routing, and creating new teams.

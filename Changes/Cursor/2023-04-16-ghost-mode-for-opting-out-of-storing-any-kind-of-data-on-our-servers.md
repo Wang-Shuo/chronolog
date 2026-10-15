@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 328c4bfbaf6e67fde31993dc99f8ba534a660c852753b6a80deb41e7a353b3e1
+machine_hash: bcb531b4738c1477f1b4935beb33e1faf0073cd59f1e6f05c874c753367ca05f
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Ghost mode for opting out of storing any kind of data on our servers
     source_release: https://cursor.com/changelog/0-2-4
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

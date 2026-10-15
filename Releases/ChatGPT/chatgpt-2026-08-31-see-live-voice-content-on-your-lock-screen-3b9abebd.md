@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2026-08-31'
-machine_hash: 423b59dd9fafe1c90cd12f337b66a0e42b3a0a234676b1386f5e8e812d16b5f6
+machine_hash: 34e6c73060fb46772e95b43c69fa5c26728e3bf764536b892b8648b34b176d30
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,7 +39,7 @@ Tracked cards: 3
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- voice: [[Changes/ChatGPT/2026-08-31-content-from-a-live-voice-conversation-can-now-appear-on-your-iphone-s-lock-scre|Content from a Live voice conversation can now appear on your iPhone’s Lock Scre]]
-- voice: [[Changes/ChatGPT/2026-08-31-follow-along-outside-the-app-live-activities-can-show-content-from-your-voice-co|Follow along outside the app. Live Activities can show content from your voice c]]
-- voice: [[Changes/ChatGPT/2026-08-31-to-continue-a-voice-conversation-outside-chatgpt-turn-on-background-conversation|To continue a Voice conversation outside ChatGPT, turn on Background conversatio]]
+- voice: [[Changes/ChatGPT/2026-08-31-content-from-a-live-voice-conversation-can-now-appear-on-your-iphone-s-lock-scre|Content from a Live voice conversation can now appear on your iPhone’s Lock Screen…]]
+- voice: [[Changes/ChatGPT/2026-08-31-follow-along-outside-the-app-live-activities-can-show-content-from-your-voice-co|Follow along outside the app]]
+- voice: [[Changes/ChatGPT/2026-08-31-to-continue-a-voice-conversation-outside-chatgpt-turn-on-background-conversation|To continue a Voice conversation outside ChatGPT, turn on Background conversations…]]
 <!-- chronolog:end -->

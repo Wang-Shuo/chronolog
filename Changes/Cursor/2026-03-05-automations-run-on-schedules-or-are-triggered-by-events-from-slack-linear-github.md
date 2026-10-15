@@ -11,9 +11,9 @@ diffusion:
   theme: automation-scheduling
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 122c0d7833c555f928255bb7dd52bb86d04bb7932e8b08b8388d24303f8bcf90
+machine_hash: 6a31851c2cc8a1d03432f1b6cf8f0e81d6f4d36ea2258cc0213816cf237dc65f
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Automations run on schedules or are triggered by events from Slack, Linear,
       GitHub, PagerDuty, and webhooks.
     source_release: https://cursor.com/changelog/03-05-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,7 +35,7 @@ record:
   source_type: cursor_changelog
   theme: automation-scheduling
   title: Automations run on schedules or are triggered by events from Slack, Linear,
-    GitH
+    GitHub…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-12-17-create-tasks-in-chat-or-in-pulse-whatever-s-easier-in-the-moment|chatgpt-2025-12-17-f3fe78]]'
@@ -45,11 +45,11 @@ source_release: '[[Releases/Cursor/cursor-2026-03-05-automations-https-cursor-co
 source_type: cursor_changelog
 theme: automation-scheduling
 title: Automations run on schedules or are triggered by events from Slack, Linear,
-  GitH
+  GitHub…
 type: change
 ---
 
-# Automations run on schedules or are triggered by events from Slack, Linear, GitH
+# Automations run on schedules or are triggered by events from Slack, Linear, GitHub…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Automations: Automations run on schedules or are triggered by events from Slack, Linear, GitHub, PagerDuty, and webhooks.

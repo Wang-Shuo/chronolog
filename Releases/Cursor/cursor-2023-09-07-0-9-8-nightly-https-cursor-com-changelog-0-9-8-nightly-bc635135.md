@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2023-09-07'
-machine_hash: 323607c7fdbaece3b074065674c6abece1ac336b3fbb79ce4018057aa12bde86
+machine_hash: 634588faf5de987ace97fb88ec66bdd7bb5ffb288698534280514cf6c43e08b7
 product: cursor
 product_name: Cursor
 record:
@@ -39,7 +39,7 @@ Tracked cards: 3
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- projects-workspaces: [[Changes/Cursor/2023-09-07-ux-for-producing-a-project-end-to-end|UX for producing a project end-to-end.]]
-- reliability-performance: [[Changes/Cursor/2023-09-07-we-release-an-improved-new-ai-project-feature-to-nightly-users-this-is-a-more-ro|We release an improved New AI Project feature to nightly users. This is a more r]]
-- projects-workspaces: [[Changes/Cursor/2023-09-07-it-still-struggles-with-coherently-producing-large-complex-projects-but-produces|It still struggles with coherently producing large complex projects, but produce]]
+- projects-workspaces: [[Changes/Cursor/2023-09-07-ux-for-producing-a-project-end-to-end|UX for producing a project end-to-end]]
+- reliability-performance: [[Changes/Cursor/2023-09-07-we-release-an-improved-new-ai-project-feature-to-nightly-users-this-is-a-more-ro|We release an improved New AI Project feature to nightly users]]
+- projects-workspaces: [[Changes/Cursor/2023-09-07-it-still-struggles-with-coherently-producing-large-complex-projects-but-produces|It still struggles with coherently producing large complex projects, but produces…]]
 <!-- chronolog:end -->

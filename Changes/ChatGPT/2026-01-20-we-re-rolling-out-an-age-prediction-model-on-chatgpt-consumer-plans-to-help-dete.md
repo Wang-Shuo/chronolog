@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 112e4ae5972d7e0f7cde23667975a4485b7ce3c8a4465f6b61ea0371487c78e2
+machine_hash: 366c9ebbd00bb913e946f454fdaeb93af39ddb2e7918d1a69b15e99619ac01a4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,7 +42,7 @@ record:
       a verification service available in Settings > Account. Users can check whether
       safeguards have been added and verify at any time.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -60,8 +60,7 @@ record:
     score: 50
     theme: model-support
   theme_resolution: manual-semantic-rule-v1
-  title: We're rolling out an age prediction model on ChatGPT consumer plans to help
-    dete
+  title: ChatGPT rolls out an age prediction model on ChatGPT consumer plans to help…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-12-11-today-we-re-releasing-gpt-5-2-the-next-upgrade-to-the-gpt-5-series-gpt-5-2-is-sm|chatgpt-2025-12-11-aa40e1]]'
@@ -70,12 +69,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-01-20-rolling-out-age-prediction-2382655a|chatgpt-2026-01-20-rolling-out-age-prediction-2382655a]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: We're rolling out an age prediction model on ChatGPT consumer plans to help
-  dete
+title: ChatGPT rolls out an age prediction model on ChatGPT consumer plans to help…
 type: change
 ---
 
-# We're rolling out an age prediction model on ChatGPT consumer plans to help dete
+# ChatGPT rolls out an age prediction model on ChatGPT consumer plans to help…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Rolling out age prediction: We're rolling out an age prediction model on ChatGPT consumer plans to help determine whether an account likely belongs to someone under 18, so we can apply the right experience and safeguards for teens. The model looks at a combination of behavioral and account-level signals, including how long an account has existed, typical times of day when someone is active, usage patterns over time, and a user’s stated age.If an adult is placed in the under-18 experience by mistake, they can quickly verify their age with a selfie through Persona, a verification service available in Settings > Account. Users can check whether safeguards have been added and verify at any time.

@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 807f9105aeec01e6d6a7875eedb0bb7bec34a82aad755f36d780455253c49079
+machine_hash: bffdbe6cb80fe3958bb33b0922400853743feaa4a0506ad9aaacaee6a638ef27
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: The GitHub connector is now available globally to Plus/Pro/Team users,
       including those in the EEA, Switzerland, and the UK.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -45,7 +45,7 @@ record:
     score: 50
     theme: collaboration
   theme_resolution: manual-semantic-rule-v1
-  title: The GitHub connector is now available globally to Plus/Pro/Team users, including
+  title: The GitHub connector is now available globally to Plus/Pro/Team users, including…
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-02-19-mcp-improved-reliability-and-quality-of-life-enhancements-for-building-mcp-serve|cursor-2025-02-19-24beb8]]'
@@ -54,11 +54,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-15-github-connector-for-deep-research-0808a124|chatgpt-2025-05-15-github-connector-for-deep-research-0808a124]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
-title: The GitHub connector is now available globally to Plus/Pro/Team users, including
+title: The GitHub connector is now available globally to Plus/Pro/Team users, including…
 type: change
 ---
 
-# The GitHub connector is now available globally to Plus/Pro/Team users, including
+# The GitHub connector is now available globally to Plus/Pro/Team users, including…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — GitHub connector for deep research: The GitHub connector is now available globally to Plus/Pro/Team users, including those in the EEA, Switzerland, and the UK.

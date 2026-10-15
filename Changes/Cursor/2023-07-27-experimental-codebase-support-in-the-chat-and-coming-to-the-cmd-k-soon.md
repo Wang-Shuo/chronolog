@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: bcb428a7596252fa1d5bc09018ae8c51781ae2322c839d6e697014a1f340ac6f
+machine_hash: 9576480cb36b603fc8797e9aac1989a36bdb1a5128fa1492d366e28a1f31ad57
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: Experimental @Codebase support in the chat (and coming to the cmd-k soon!)
     source_release: https://cursor.com/changelog/0-5-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor

@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 831f0ba4ac67377c65e4d32c6c2c519eafb6af151ce15bd2d1030b22f49312c4
+machine_hash: 5860b43edf18088d3cdb79decec63452000c8dafd807d191d808d45b23109dc1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: This feature is rolling out in Finances to Plus and Pro users in the U.S.
       on web, iOS, and Android. Some eligible users may not see it right away.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -36,7 +36,7 @@ record:
   source_type: chatgpt_changelog
   theme: mobile-desktop
   title: This feature is rolling out in Finances to Plus and Pro users in the U.S.
-    on web
+    on web…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-09-08-turn-a-sketch-into-an-image-on-mobile-type-in-the-message-box-and-select-sketch|chatgpt-2026-09-08-e75392]]'
@@ -46,11 +46,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-09-21-credit-scores-in-finances
 source_type: chatgpt_changelog
 theme: mobile-desktop
 title: This feature is rolling out in Finances to Plus and Pro users in the U.S. on
-  web
+  web…
 type: change
 ---
 
-# This feature is rolling out in Finances to Plus and Pro users in the U.S. on web
+# This feature is rolling out in Finances to Plus and Pro users in the U.S. on web…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Credit scores in Finances: This feature is rolling out in Finances to Plus and Pro users in the U.S. on web, iOS, and Android. Some eligible users may not see it right away.

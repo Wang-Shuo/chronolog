@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 63df507087f5fef812e40b72b4a3acac02cdc6d35c38876569f0360326edea40
+machine_hash: c732d0567e4be5cd2ed84e6f4d29ca1dbe625ddf09ba152510c7200c9cb8c13a
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Improved compaction to preserve images in the summarizer request, allowing
       prompt cache reuse for faster and cheaper compaction
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.70
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,7 +35,7 @@ record:
   source_type: github_releases
   theme: reliability-performance
   title: Improved compaction to preserve images in the summarizer request, allowing
-    promp
+    prompt…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-26-improved-memory-usage-in-multi-agent-sessions-by-releasing-completed-subagent-ta|claude-code-2026-02-26-6d6fdb]]'
@@ -45,11 +45,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-03-06-v2-1-70-github-29
 source_type: github_releases
 theme: reliability-performance
 title: Improved compaction to preserve images in the summarizer request, allowing
-  promp
+  prompt…
 type: change
 ---
 
-# Improved compaction to preserve images in the summarizer request, allowing promp
+# Improved compaction to preserve images in the summarizer request, allowing prompt…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.70: Improved compaction to preserve images in the summarizer request, allowing prompt cache reuse for faster and cheaper compaction

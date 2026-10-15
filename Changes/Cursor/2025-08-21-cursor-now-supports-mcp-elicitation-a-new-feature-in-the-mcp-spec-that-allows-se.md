@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: ea7e3551b9c35f3c5e76c272139919efcf50d8c3c133e7d1233f7b17012249d7
+machine_hash: 72fcb7eecb163f88f13b69920a9559e421a49c1c5970129d01868a1ad85e54c6
 product: cursor
 product_name: Cursor
 record:
@@ -33,7 +33,7 @@ record:
       or configuration choice. Requests are defined with JSON schemas, giving servers
       validated responses while ensuring users stay in control of what they share.
     source_release: https://cursor.com/changelog/1-5
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -41,8 +41,7 @@ record:
   source_release: cursor-2025-08-21-1-5-https-cursor-com-changelog-1-5-f93efb89
   source_type: cursor_changelog
   theme: apps-integrations
-  title: Cursor now supports MCP elicitation, a new feature in the MCP spec that allows
-    s
+  title: Cursor now supports MCP elicitation, a new feature in the MCP spec that allows…
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-07-03-to-dos-are-also-visible-in-slack-if-integration-is-setup|cursor-2025-07-03-572f9b]]'
@@ -51,12 +50,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-08-21-1-5-https-cursor-com-changelog-1-5-f93efb89|cursor-2025-08-21-1-5-https-cursor-com-changelog-1-5-f93efb89]]'
 source_type: cursor_changelog
 theme: apps-integrations
-title: Cursor now supports MCP elicitation, a new feature in the MCP spec that allows
-  s
+title: Cursor now supports MCP elicitation, a new feature in the MCP spec that allows…
 type: change
 ---
 
-# Cursor now supports MCP elicitation, a new feature in the MCP spec that allows s
+# Cursor now supports MCP elicitation, a new feature in the MCP spec that allows…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Linear integration, improved Agent terminal, and OS notifications: Cursor now supports MCP elicitation, a new feature in the MCP spec that allows servers to request structured input from users, such as a user preference or configuration choice. Requests are defined with JSON schemas, giving servers validated responses while ensuring users stay in control of what they share.

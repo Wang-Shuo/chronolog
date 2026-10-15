@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9330f81cf28d86af87555a60351a5ab099f6513360a065452b14076dde234af1
+machine_hash: a49a50d45ea728e5736f815bb6f2c8e3cf1d0b525a8da37ebc7f48827ff23a04
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       commands through the auto-mode classifier instead of only arbitrary-code-execution
       patterns
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.193
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,7 +36,7 @@ record:
   source_release: claude-code-2026-06-25-v2-1-193-github-344922230-0655000d
   source_type: github_releases
   theme: agent-mode
-  title: Added `autoMode.classifyAllShell` setting to route all Bash/PowerShell commands
+  title: Added `autoMode.classifyAllShell` setting to route all Bash/PowerShell commands…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-22-added-teammatemode-iterm2-setting-with-a-warning-when-auto-mode-cannot-find-the|claude-code-2026-06-22-3c587e]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-25-v2-1-193-github-344922230-0655000d|claude-code-2026-06-25-v2-1-193-github-344922230-0655000d]]'
 source_type: github_releases
 theme: agent-mode
-title: Added autoMode.classifyAllShell setting to route all Bash/PowerShell commands
+title: Added autoMode.classifyAllShell setting to route all Bash/PowerShell commands…
 type: change
 ---
 
-# Added `autoMode.classifyAllShell` setting to route all Bash/PowerShell commands
+# Added `autoMode.classifyAllShell` setting to route all Bash/PowerShell commands…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.193: Added `autoMode.classifyAllShell` setting to route all Bash/PowerShell commands through the auto-mode classifier instead of only arbitrary-code-execution patterns

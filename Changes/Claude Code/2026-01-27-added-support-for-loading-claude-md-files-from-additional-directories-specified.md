@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 1ba6d9dc1897904db78704bf0315db5c749ace0f3edef7748c2119d9a499a3d6
+machine_hash: 10ed2c8e3631d8a25cede9bb346197a7d791ad2e49eaa3bbeb201cd6fe6fdfd7
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Added support for loading `CLAUDE.md` files from additional directories
       specified via `--add-dir` flag (requires setting `CLAUDE_CODE_ADDITIONAL_DIRECTORIES_CLAUDE_MD=1`)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.20
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -38,7 +38,7 @@ record:
   theme: developer-workflow
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Added support for loading `CLAUDE.md` files from additional directories specifie
+  title: Added support for loading `CLAUDE.md` files from additional directories specified…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-22-added-new-task-management-system-including-new-capabilities-like-dependency-trac|claude-code-2026-01-22-beb668]]'
@@ -47,11 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-01-27-v2-1-20-github-280123443-38431f59|claude-code-2026-01-27-v2-1-20-github-280123443-38431f59]]'
 source_type: github_releases
 theme: developer-workflow
-title: Added support for loading CLAUDE.md files from additional directories specifie
+title: Added support for loading CLAUDE.md files from additional directories specified…
 type: change
 ---
 
-# Added support for loading `CLAUDE.md` files from additional directories specifie
+# Added support for loading `CLAUDE.md` files from additional directories specified…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.20: Added support for loading `CLAUDE.md` files from additional directories specified via `--add-dir` flag (requires setting `CLAUDE_CODE_ADDITIONAL_DIRECTORIES_CLAUDE_MD=1`)

@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e8444d04e5164f6f45c994e1d1f97729b3f2fb6e3b515d6c2ba87992c5031d34
+machine_hash: 0efe39ad2f7b10f0f00849a5161d3756374dc6447b970e3d8d1ec57a0d9e691e
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: We had a big bug for people on language packs. Thank you to all who helped
       us debug! This should now be fixed, and should not happen again.
     source_release: https://cursor.com/changelog/0-8-3-nightly
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,8 +37,7 @@ record:
   theme: developer-workflow
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: We had a big bug for people on language packs. Thank you to all who helped
-    us de
+  title: We had a big bug for people on language packs
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-08-03-also-the-linter-is-slightly-improved|cursor-2023-08-03-58dccc]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-08-26-0-8-3-nightly-https-cursor-com-changelog-0-8-3-nightly-e8ac9c3e|cursor-2023-08-26-0-8-3-nightly-https-cursor-com-changelog-0-8-3-nightly-e8ac9c3e]]'
 source_type: cursor_changelog
 theme: developer-workflow
-title: We had a big bug for people on language packs. Thank you to all who helped
-  us de
+title: We had a big bug for people on language packs
 type: change
 ---
 
-# We had a big bug for people on language packs. Thank you to all who helped us de
+# We had a big bug for people on language packs
 
 <!-- chronolog:begin region="description" -->
 Cursor — Bug fix for people on language packs: We had a big bug for people on language packs. Thank you to all who helped us debug! This should now be fixed, and should not happen again.

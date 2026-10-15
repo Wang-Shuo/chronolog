@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: b79b76fe85c38c3693df4299f07c8fc2ce2a138ec1a73fc52f5d40d1eecce092
+machine_hash: fda4b67c5f2566b73af6c36049fb19a074bb247194f6e8a8757eba6beac7ac6c
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Hardened synced skill/plugin directory naming on Windows and kept CCR web
       fetch/search proxies working after `/clear`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.211
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -34,8 +34,7 @@ record:
   source_release: claude-code-2026-07-15-v2-1-211-github-354658856-71e66e57
   source_type: github_releases
   theme: apps-integrations
-  title: Hardened synced skill/plugin directory naming on Windows and kept CCR web
-    fetch/
+  title: Hardened synced skill/plugin directory naming on Windows and kept CCR web…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-07-added-the-session-s-additional-working-directories-to-mcp-roots-list-with-notifi|claude-code-2026-07-07-12c2be]]'
@@ -44,11 +43,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-15-v2-1-211-github-354658856-71e66e57|claude-code-2026-07-15-v2-1-211-github-354658856-71e66e57]]'
 source_type: github_releases
 theme: apps-integrations
-title: Hardened synced skill/plugin directory naming on Windows and kept CCR web fetch/
+title: Hardened synced skill/plugin directory naming on Windows and kept CCR web…
 type: change
 ---
 
-# Hardened synced skill/plugin directory naming on Windows and kept CCR web fetch/
+# Hardened synced skill/plugin directory naming on Windows and kept CCR web…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.211: Hardened synced skill/plugin directory naming on Windows and kept CCR web fetch/search proxies working after `/clear`

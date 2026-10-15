@@ -11,9 +11,9 @@ diffusion:
   theme: file-data
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: c7814464d8dc2351faa511a1a641f28540d6e45b63a97ad1e2b0656f3eaa3e74
+machine_hash: 453c3b01c93db27ca552eeac2ef07b6e46e2651bf377a0f52571859629c798b8
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Improved PDF and request size error messages to show actual limits (100
       pages, 20MB)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.31
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: Improved PDF and request size error messages to show actual limits (100 pages,
-    2
+    20MB)
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-02-06-for-more-details-about-the-canvas-feature-in-chatgpt-check-out-the-following-hel|chatgpt-2025-02-06-0f1765]]'
@@ -47,11 +47,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-02-04-v2-1-31-github-28
 source_type: github_releases
 theme: file-data
 title: Improved PDF and request size error messages to show actual limits (100 pages,
-  2
+  20MB)
 type: change
 ---
 
-# Improved PDF and request size error messages to show actual limits (100 pages, 2
+# Improved PDF and request size error messages to show actual limits (100 pages, 20MB)
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.31: Improved PDF and request size error messages to show actual limits (100 pages, 20MB)

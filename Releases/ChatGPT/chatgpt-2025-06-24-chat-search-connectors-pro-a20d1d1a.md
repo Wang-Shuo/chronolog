@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-06-24'
-machine_hash: 93b53302f7e35a88af930299d62c7185ebc3d6483e4810879070e4ae24a87309
+machine_hash: 703b12e949249509965939075ad45bfca4f74ae02eb07d3de137fd74cc33a8a1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- apps-integrations: [[Changes/ChatGPT/2025-06-24-pro-users-are-now-able-to-use-chat-search-connectors-in-addition-to-deep-researc-9d5a85|Pro users are now able to use chat search connectors (in addition to deep resear]]
+- apps-integrations: [[Changes/ChatGPT/2025-06-24-pro-users-are-now-able-to-use-chat-search-connectors-in-addition-to-deep-researc-9d5a85|Pro users are now able to use chat search connectors…]]
 <!-- chronolog:end -->

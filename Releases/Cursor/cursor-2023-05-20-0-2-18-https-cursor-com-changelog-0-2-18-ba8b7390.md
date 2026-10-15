@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2023-05-20'
-machine_hash: 5b4eaee5d763f3a0bb558a98456216055a636311f7cdbb3942363d188a7b8162
+machine_hash: 3fe449f070b63168b0353ed1b33d8a12e649cc8dea89a1eecc6797db428305c4
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ Tracked cards: 3
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/Cursor/2023-05-20-switching-between-models-is-a-lot-more-easy-and-the-transition-to-gpt-4-is-a-lot|Switching between models is a lot more easy, and the transition to gpt-4 is a lo]]
+- model-support: [[Changes/Cursor/2023-05-20-switching-between-models-is-a-lot-more-easy-and-the-transition-to-gpt-4-is-a-lot|Switching between models is a lot more easy, and the transition to gpt-4 is a lot smoother]]
 - model-support: [[Changes/Cursor/2023-05-20-all-users-get-10-free-gpt-4-requests|All users get 10 free gpt-4 requests !!!]]
-- interface-experience: [[Changes/Cursor/2023-05-20-we-ve-added-a-new-feedback-button-at-the-top-right-of-the-app-we-really-do|We've added a new feedback button at the top right of the app. - We really do]]
+- interface-experience: [[Changes/Cursor/2023-05-20-we-ve-added-a-new-feedback-button-at-the-top-right-of-the-app-we-really-do|Cursor adds a new feedback button at the top right of the app]]
 <!-- chronolog:end -->

@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 8bf52605919da3add47fc75a4bda27a1682971fcdc36d8854e038f901514593a
+machine_hash: ccddb46424d0919e64cb0a4e01983c3af987984dff02cec64ac8a09a46313891
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -60,7 +60,7 @@ record:
       enabled for your account.Visit the ChatGPT app for Slack page to get started
       with installation.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: chatgpt
   product_name: ChatGPT
@@ -101,7 +101,7 @@ record:
     - mobile
     score: 50
     theme: mobile-desktop
-  title: 'We’re rolling out two new ways to bring Slack and ChatGPT together: a connector'
+  title: ChatGPT rolls out two new ways to bring Slack and ChatGPT together
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-09-12-additionally-interpolated-variables-are-now-supported-for-mcp-this-enables-using|cursor-2025-09-12-6aae13]]'
@@ -110,11 +110,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-13-slack-connector-and-app-931a6153|chatgpt-2025-10-13-slack-connector-and-app-931a6153]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
-title: 'We’re rolling out two new ways to bring Slack and ChatGPT together: a connector'
+title: ChatGPT rolls out two new ways to bring Slack and ChatGPT together
 type: change
 ---
 
-# We’re rolling out two new ways to bring Slack and ChatGPT together: a connector
+# ChatGPT rolls out two new ways to bring Slack and ChatGPT together
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Slack connector and app: We’re rolling out two new ways to bring Slack and ChatGPT together: a connector that brings your Slack context into ChatGPT, and a ChatGPT app for Slack – an integration that enables you to chat with ChatGPT from inside Slack.With the ChatGPT app for Slack, you can chat one-on-one with ChatGPT in a dedicated Slack sidebar – a space to ask questions, summarize long threads into action items, draft replies, and search messages and files you already have access to. Chats you start in Slack also appear in your ChatGPT sidebar, so it’s easy to pick up later from web or mobile. Semantic search is supported for Slack customers with AI enabled on Business+ or Enterprise+ plans; all other plans use keyword search.With the ChatGPT connector for Slack, you can securely bring in context from your Slack channels and DMs, making responses more helpful. Available in chat, Deep Research, and Agent Mode. Users can enable from Settings > Apps & Connectors.Both app and connector are available to Plus, Pro, Business and Enterprise/Edu customers. Additionally, the ChatGPT app for Slack requires a paid Slack account; availability and workspace installation may depend on your Slack workspace settings.Installing the app requires the connector to be enabled for your account.Visit the ChatGPT app for Slack page to get started with installation.

@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 485b026fc94f8d219ca8e5048ebc72dae97b76fc6a658ca20f7964fd2f24d232
+machine_hash: c5c669afbee9e0d459fe9303e0fc86051b6e0ee60dbeac6fd231269157d460f7
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       much command and background-task output Claude receives inline before it is
       saved to a file, up to 128K characters
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.261
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -39,7 +39,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: Added `bashOutputMaxChars` and `taskOutputMaxChars` settings to raise how
-    much c
+    much…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-20-added-a-keybindingflavor-setting-set-it-to-readline-to-make-ctrl-w-in-the-prompt|claude-code-2026-08-20-812451]]'
@@ -48,12 +48,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-04-v2-1-261-github-382913543-2cb10519|claude-code-2026-09-04-v2-1-261-github-382913543-2cb10519]]'
 source_type: github_releases
 theme: developer-workflow
-title: Added bashOutputMaxChars and taskOutputMaxChars settings to raise how much
-  c
+title: Added bashOutputMaxChars and taskOutputMaxChars settings to raise how much…
 type: change
 ---
 
-# Added `bashOutputMaxChars` and `taskOutputMaxChars` settings to raise how much c
+# Added `bashOutputMaxChars` and `taskOutputMaxChars` settings to raise how much…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.261: Added `bashOutputMaxChars` and `taskOutputMaxChars` settings to raise how much command and background-task output Claude receives inline before it is saved to a file, up to 128K characters

@@ -11,9 +11,9 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 3f902d6f1d0ace44eea611752a6d0bc4e8557a8e0bbaba6bc3fd810c7571922a
+machine_hash: 3c37097a5b8a53296e5fb62e5dbc4bdcc81a0b74f53a043f44f2d6218e91a310
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
   - quote: 'We’ve heard your feedback and are rolling out a unified pricing model
       to make it less confusing. Here’s how it works:'
     source_release: https://cursor.com/changelog/0-50
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -48,7 +48,7 @@ record:
     score: 50
     theme: model-support
   title: We’ve heard your feedback and are rolling out a unified pricing model to
-    make it
+    make…
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-11-03-pro-plan-if-you-hit-your-fast-request-limit-and-prefer-to-purchase-more-you-now|cursor-2023-11-03-268faa]]'
@@ -57,12 +57,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998|cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998]]'
 source_type: cursor_changelog
 theme: pricing-model
-title: We’ve heard your feedback and are rolling out a unified pricing model to make
-  it
+title: We’ve heard your feedback and are rolling out a unified pricing model to make…
 type: change
 ---
 
-# We’ve heard your feedback and are rolling out a unified pricing model to make it
+# We’ve heard your feedback and are rolling out a unified pricing model to make…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Simplified Pricing, Background Agent and Refreshed Inline Edit: We’ve heard your feedback and are rolling out a unified pricing model to make it less confusing. Here’s how it works:

@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 130e2802ac4457a81aafef9aa3486cad95b2fc72c72ee9396260fd3031cc5d09
+machine_hash: 76a861b483e94f405ab407fde7202b6dd2869904ac7c630dc8f6022afb8b05c3
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: 'Improved Bedrock credential caching: credentials from `awsCredentialExport`
       are now cached until their `Expiration` instead of a fixed 1 hour'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.176
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,8 +37,7 @@ record:
   theme: reliability-performance
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: 'Improved Bedrock credential caching: credentials from `awsCredentialExport`
-    are'
+  title: Improved Bedrock credential caching
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-06-10-these-performance-gains-are-made-possible-by-progress-we-ve-made-training-compos|cursor-2026-06-10-573114]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-12-v2-1-176-github-338777362-91e3deb6|claude-code-2026-06-12-v2-1-176-github-338777362-91e3deb6]]'
 source_type: github_releases
 theme: reliability-performance
-title: 'Improved Bedrock credential caching: credentials from awsCredentialExport
-  are'
+title: Improved Bedrock credential caching
 type: change
 ---
 
-# Improved Bedrock credential caching: credentials from `awsCredentialExport` are
+# Improved Bedrock credential caching
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.176: Improved Bedrock credential caching: credentials from `awsCredentialExport` are now cached until their `Expiration` instead of a fixed 1 hour

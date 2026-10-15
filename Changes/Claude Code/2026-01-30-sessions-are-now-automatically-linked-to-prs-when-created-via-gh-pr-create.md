@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9bf8bb5bb46815b69b4e60963146d0b4320d3c6bfdf6b483138333b075a1439a
+machine_hash: ddfb2748ccf83ee442afe2054c4911cdaf9122e546807e5e12d12dbe0f0e6f09
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Sessions are now automatically linked to PRs when created via `gh pr create`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.27
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

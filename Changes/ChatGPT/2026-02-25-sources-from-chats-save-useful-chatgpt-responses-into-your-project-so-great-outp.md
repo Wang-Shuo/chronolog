@@ -11,9 +11,9 @@ diffusion:
   theme: projects-workspaces
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 239f71fc4c4ef1d6ec54df177b1d3ae9c44b3aaad2504db72603585a4b33839a
+machine_hash: 8f0f3f200e2f6589747b34f6ac217a05191368e945d9ac634148c2abd15bfab9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: 'Sources from chats: Save useful ChatGPT responses into your project so
       great outputs become reusable knowledge.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -37,8 +37,7 @@ record:
   theme: projects-workspaces
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: 'Sources from chats: Save useful ChatGPT responses into your project so great
-    out'
+  title: Sources from chats
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-30-added-from-pr-flag-to-resume-sessions-linked-to-a-specific-github-pr-number-or-u|claude-code-2026-01-30-ccc8e3]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-25-add-sources-to-your-projects-from-anywhere-83407292|chatgpt-2026-02-25-add-sources-to-your-projects-from-anywhere-83407292]]'
 source_type: chatgpt_changelog
 theme: projects-workspaces
-title: 'Sources from chats: Save useful ChatGPT responses into your project so great
-  out'
+title: Sources from chats
 type: change
 ---
 
-# Sources from chats: Save useful ChatGPT responses into your project so great out
+# Sources from chats
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Add sources to your projects from anywhere: Sources from chats: Save useful ChatGPT responses into your project so great outputs become reusable knowledge.

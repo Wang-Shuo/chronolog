@@ -11,9 +11,9 @@ diffusion:
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: f20107c329a5d62b159ad144992fc1a72fc0ba695acdd6e245787796a0c403f8
+machine_hash: ac20a60f5a26442f345aa443bd9263b76ddcdfeedbe90abb9a4e14f9ab9ff466
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Team marketplaces now support organization groups, in addition to team-level
       SCIM directory groups.
     source_release: https://cursor.com/changelog/team-marketplace-updates
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -37,7 +37,7 @@ record:
   source_type: cursor_changelog
   theme: collaboration
   title: Team marketplaces now support organization groups, in addition to team-level
-    SCI
+    SCIM…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-06-22-plugins-now-support-prebuilt-canvases-shared-setup-templates-your-team-can-open|cursor-2026-06-22-5e8870]]'
@@ -47,11 +47,11 @@ source_release: '[[Releases/Cursor/cursor-2026-06-30-3-10-https-cursor-com-chang
 source_type: cursor_changelog
 theme: collaboration
 title: Team marketplaces now support organization groups, in addition to team-level
-  SCI
+  SCIM…
 type: change
 ---
 
-# Team marketplaces now support organization groups, in addition to team-level SCI
+# Team marketplaces now support organization groups, in addition to team-level SCIM…
 
 <!-- chronolog:begin region="description" -->
 Cursor — MCPs and Organizations in Team Marketplaces: Team marketplaces now support organization groups, in addition to team-level SCIM directory groups.

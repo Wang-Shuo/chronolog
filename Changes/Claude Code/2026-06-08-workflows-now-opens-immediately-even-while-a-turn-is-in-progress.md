@@ -11,9 +11,9 @@ diffusion:
   theme: automation-scheduling
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f69cc4b6b2ebf29f5c90d6c5213147de43ae9b50d5df8c85b7ac2145a48c020b
+machine_hash: 389a945211fe42d81535203a0eb573d97cd23cff120b6e23eb5ceda3a94a3d59
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: '`/workflows` now opens immediately even while a turn is in progress'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.169
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

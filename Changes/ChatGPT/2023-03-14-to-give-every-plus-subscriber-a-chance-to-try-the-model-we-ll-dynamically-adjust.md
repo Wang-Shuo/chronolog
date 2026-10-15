@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 821f5fa24921d1f0ddf3fde46701b85058580cb1d3b6dbf58b1cbf57fa6baf96
+machine_hash: 8db820d92fd5203d047d526f8ab4d2749a8157a997da0617323f059fe385142a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       adjust the cap for GPT-4 usage based on demand. You can learn more about GPT-4
       here.For this release, there are no updates to free accounts.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -51,7 +51,7 @@ record:
     theme: pricing-model
   theme_resolution: manual-semantic-rule-v2
   title: To give every Plus subscriber a chance to try the model, we'll dynamically
-    adjus
+    adjust…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-01-30-we-ve-upgraded-the-chatgpt-model-with-improved-factuality-and-mathematical-capab|chatgpt-2023-01-30-2d26b7]]'
@@ -61,11 +61,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2023-03-14-announcing-gpt-4-in-chatg
 source_type: chatgpt_changelog
 theme: model-support
 title: To give every Plus subscriber a chance to try the model, we'll dynamically
-  adjus
+  adjust…
 type: change
 ---
 
-# To give every Plus subscriber a chance to try the model, we'll dynamically adjus
+# To give every Plus subscriber a chance to try the model, we'll dynamically adjust…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Announcing GPT-4 in ChatGPT: To give every Plus subscriber a chance to try the model, we'll dynamically adjust the cap for GPT-4 usage based on demand. You can learn more about GPT-4 here.For this release, there are no updates to free accounts.

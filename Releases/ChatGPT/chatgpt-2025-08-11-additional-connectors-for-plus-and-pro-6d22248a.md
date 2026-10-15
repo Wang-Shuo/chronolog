@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2025-08-11'
-machine_hash: 91c8b0fd545ede1ee1284fb0fb6f66dd664bff835843ed9a37277e6eb85fa91c
+machine_hash: 005380ee17b6525234d9ac762b10ad4b96d25bb372b3827abc762fc9a4ae991e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,6 +41,6 @@ Tracked cards: 3
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
 - collaboration: [[Changes/ChatGPT/2025-08-11-pro-microsoft-teams-and-github|Pro: Microsoft Teams and GitHub]]
-- collaboration: [[Changes/ChatGPT/2025-08-11-plus-box-canva-dropbox-hubspot-notion-microsoft-sharepoint-and-microsoft-teams|Plus: Box, Canva, Dropbox, HubSpot, Notion, Microsoft SharePoint, and Microsoft]]
-- search-browsing: [[Changes/ChatGPT/2025-08-11-now-connect-even-more-tools-in-chatgpt-for-useful-relevant-responses-in-chat-the|Now connect even more tools in ChatGPT for useful, relevant responses in chat.Th]]
+- collaboration: [[Changes/ChatGPT/2025-08-11-plus-box-canva-dropbox-hubspot-notion-microsoft-sharepoint-and-microsoft-teams|Plus: Box, Canva, Dropbox, HubSpot, Notion, Microsoft SharePoint, and Microsoft Teams]]
+- search-browsing: [[Changes/ChatGPT/2025-08-11-now-connect-even-more-tools-in-chatgpt-for-useful-relevant-responses-in-chat-the|Now connect even more tools in ChatGPT for useful, relevant responses in chat]]
 <!-- chronolog:end -->

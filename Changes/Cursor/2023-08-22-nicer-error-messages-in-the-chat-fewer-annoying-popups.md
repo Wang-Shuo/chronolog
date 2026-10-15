@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 2acbd30cfd9cd3b93884b3d0a9755ff8043a1217d8c40ac74446eba99ad20745
+machine_hash: 1e212fd8c48127b05dfbd81d7e70bfada740c770d8d4874784f4998895af7083
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Nicer error messages in the chat! Fewer annoying popups.
     source_release: https://cursor.com/changelog/0-8-2
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,7 +35,7 @@ record:
   theme: interface-experience
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Nicer error messages in the chat! Fewer annoying popups.
+  title: Nicer error messages in the chat!
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-08-17-keychords-now-use-cmd-r-ctrl-r|cursor-2023-08-17-0cf9da]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-08-22-0-8-2-https-cursor-com-changelog-0-8-2-866d920f|cursor-2023-08-22-0-8-2-https-cursor-com-changelog-0-8-2-866d920f]]'
 source_type: cursor_changelog
 theme: interface-experience
-title: Nicer error messages in the chat! Fewer annoying popups.
+title: Nicer error messages in the chat!
 type: change
 ---
 
-# Nicer error messages in the chat! Fewer annoying popups.
+# Nicer error messages in the chat!
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cmd-k Followups, chat with large files, and more: Nicer error messages in the chat! Fewer annoying popups.

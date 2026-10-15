@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 6f1aa7b0aa254e618def855d7e0ed7c58bad9d030e59b86c06637b7ba425fc2b
+machine_hash: 513bbf0aae4b552ab5e2319ce0feb88634a99ab09a3ceee290d74480f08e9df0
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,7 +29,7 @@ record:
   - quote: 'Improved the refusal when Claude tries to invoke a skill with `disable-model-invocation`:
       Claude is now told to ask you to run the skill instead of replicating its workflow'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.222
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   source_release: claude-code-2026-08-04-v2-1-222-github-365137491-9ea4d4a2
   source_type: github_releases
   theme: model-support
-  title: Improved the refusal when Claude tries to invoke a skill with `disable-model-inv
+  title: Improved the refusal when Claude tries to invoke a skill with `disable-model-invocation`
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-07-22-balance-strong-quality-matching-the-frontier-models-that-most-people-like-to-dai|cursor-2026-07-22-ffb740]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-08-04-v2-1-222-github-365137491-9ea4d4a2|claude-code-2026-08-04-v2-1-222-github-365137491-9ea4d4a2]]'
 source_type: github_releases
 theme: model-support
-title: Improved the refusal when Claude tries to invoke a skill with disable-model-inv
+title: Improved the refusal when Claude tries to invoke a skill with disable-model-invocation
 type: change
 ---
 
-# Improved the refusal when Claude tries to invoke a skill with `disable-model-inv
+# Improved the refusal when Claude tries to invoke a skill with `disable-model-invocation`
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.222: Improved the refusal when Claude tries to invoke a skill with `disable-model-invocation`: Claude is now told to ask you to run the skill instead of replicating its workflow

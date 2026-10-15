@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3387246682eeae9426797f3a6cb88763a5e5febe240b83b6f7614939e3785422
+machine_hash: c02ecc175f20d81d16e0a4a7e567fa2eaefb5356b1db24ca6e08ec1f84270b74
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Generation of git commit messages
     source_release: https://cursor.com/changelog/0-43-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2026-02-26'
-machine_hash: c9827ce749f4461629fed14aabb57a5b8f65d1615be96f96e63f78712bd4859e
+machine_hash: 06a5b64342f9f82b195e22ae32ee5c7bbccabcb1df683be9896ba0753a8fc490
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ Tracked cards: 3
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- developer-workflow: [[Changes/Cursor/2026-02-26-bugbot-will-post-a-comment-on-the-original-pr-with-a-preview-of-the-autofix-chan|Bugbot will post a comment on the original PR with a preview of the autofix chan]]
-- developer-workflow: [[Changes/Cursor/2026-02-26-bugbot-can-automatically-fix-issues-it-finds-in-pull-requests|Bugbot can automatically fix issues it finds in pull requests.]]
-- agent-mode: [[Changes/Cursor/2026-02-26-autofix-runs-cloud-agents-on-their-own-machines-to-test-changes-and-propose-fixe|Autofix runs cloud agents on their own machines to test changes and propose fixe]]
+- developer-workflow: [[Changes/Cursor/2026-02-26-bugbot-will-post-a-comment-on-the-original-pr-with-a-preview-of-the-autofix-chan|Bugbot will post a comment on the original PR with a preview of the autofix changes…]]
+- developer-workflow: [[Changes/Cursor/2026-02-26-bugbot-can-automatically-fix-issues-it-finds-in-pull-requests|Bugbot can automatically fix issues it finds in pull requests]]
+- agent-mode: [[Changes/Cursor/2026-02-26-autofix-runs-cloud-agents-on-their-own-machines-to-test-changes-and-propose-fixe|Autofix runs cloud agents on their own machines to test changes and propose fixes…]]
 <!-- chronolog:end -->

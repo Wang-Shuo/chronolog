@@ -11,9 +11,9 @@ diffusion:
   theme: image-generation
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 82808491e6dce758977f7fc66513098ffe3d66ad77f63d9841743a1159f20068
+machine_hash: c82dd806e031715cbfa13703cebbf0a4760463df70aa4d42ebb9718248f48aa1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: More messages, larger file uploads, and expanded image generation
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT

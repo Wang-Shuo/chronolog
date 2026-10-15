@@ -11,9 +11,9 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d7cd99f809f9465ae4cbe8e0165bd6212e9fdb88b7957e57fea8960525584efa
+machine_hash: 37281edbef28ace45957037b97f0b3ee6551d24557f6058625049bc1cfd618ec
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       to sign in. If a server no longer connects after this update, add "bareElicitationCapability":
       true to its MCP config entry'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.287
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -47,7 +47,7 @@ record:
     theme: apps-integrations
   theme_resolution: manual-semantic-rule-v1
   title: Added URL prompts from MCP servers on the 2025-11-25 protocol, for example
-    to si
+    to sign in
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-10-added-the-gatewayinternalnetworks-managed-setting-letting-administrators-allow-l|claude-code-2026-09-10-19e7e9]]'
@@ -57,11 +57,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-10-01-v2-1-287-github-4
 source_type: github_releases
 theme: account-access
 title: Added URL prompts from MCP servers on the 2025-11-25 protocol, for example
-  to si
+  to sign in
 type: change
 ---
 
-# Added URL prompts from MCP servers on the 2025-11-25 protocol, for example to si
+# Added URL prompts from MCP servers on the 2025-11-25 protocol, for example to sign in
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.287: Added URL prompts from MCP servers on the 2025-11-25 protocol, for example to sign in. If a server no longer connects after this update, add "bareElicitationCapability": true to its MCP config entry

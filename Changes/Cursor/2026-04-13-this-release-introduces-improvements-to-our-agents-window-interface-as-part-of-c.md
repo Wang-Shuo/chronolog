@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: cd8f1d7dc68a968cd007a5b90e048d2d7841c8b2d6e42adf393d8d69dfdcec0c
+machine_hash: ba13fe35d7ecea6b8a6c2f0894ad47c77a7c079f0b4dff7ea81452ac7fa71b03
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: This release introduces improvements to our Agents Window interface as
       part of Cursor 3.
     source_release: https://cursor.com/changelog/3-1
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,8 +35,8 @@ record:
   source_release: cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313
   source_type: cursor_changelog
   theme: agent-mode
-  title: This release introduces improvements to our Agents Window interface as part
-    of C
+  title: Cursor introduces improvements to our Agents Window interface as part of
+    Cursor 3
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-08-added-n-running-indicator-in-agents-next-to-agent-types-with-live-subagent-insta|claude-code-2026-04-08-27dc29]]'
@@ -45,12 +45,12 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313|cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: This release introduces improvements to our Agents Window interface as part
-  of C
+title: Cursor introduces improvements to our Agents Window interface as part of Cursor
+  3
 type: change
 ---
 
-# This release introduces improvements to our Agents Window interface as part of C
+# Cursor introduces improvements to our Agents Window interface as part of Cursor 3
 
 <!-- chronolog:begin region="description" -->
 Cursor — Tiled Layout and Upgraded Voice Input in the Agents Window: This release introduces improvements to our Agents Window interface as part of Cursor 3.

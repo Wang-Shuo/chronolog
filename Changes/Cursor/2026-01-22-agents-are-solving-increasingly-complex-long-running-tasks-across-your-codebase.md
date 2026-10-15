@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: fe122ef059c9a0a09faf20f17eca5ddda12a655f98fc0d951652e016a2a2677c
+machine_hash: ed995642582d6814314933f1977e26c2f6e5199ccb2d5606145b5a4b43415bc5
 product: cursor
 product_name: Cursor
 record:
@@ -32,7 +32,7 @@ record:
       context management, as well as many quality-of-life fixes in the editor and
       CLI.
     source_release: https://cursor.com/changelog/2-4
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor

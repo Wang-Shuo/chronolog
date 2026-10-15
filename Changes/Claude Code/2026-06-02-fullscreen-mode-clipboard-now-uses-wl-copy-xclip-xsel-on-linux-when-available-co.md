@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 58a97d55ff187d134b21de8ab572cbf8588fecd05e47ad290e0e3653475cdb97
+machine_hash: 968601bb2adbf2165e614999ef5a4ddc33efd473001f7e3ba6e0a8313d898db2
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       paste, and the "hold {key} for native selection" hint now shows the correct
       key per terminal'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.161
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -48,8 +48,7 @@ record:
     score: 50
     theme: interface-experience
   theme_resolution: manual-semantic-rule-v1
-  title: 'Fullscreen mode: clipboard now uses `wl-copy`/`xclip`/`xsel` on Linux when
-    avail'
+  title: 'Fullscreen mode: clipboard now uses `wl-copy`/`xclip`/`xsel` on Linux…'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-21-prompt-history-no-longer-records-consecutive-duplicate-entries-recalling-a-promp|claude-code-2026-05-21-a1a371]]'
@@ -58,11 +57,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-02-v2-1-161-github-333271302-7337e6fa|claude-code-2026-06-02-v2-1-161-github-333271302-7337e6fa]]'
 source_type: github_releases
 theme: interface-experience
-title: 'Fullscreen mode: clipboard now uses wl-copy/xclip/xsel on Linux when avail'
+title: 'Fullscreen mode: clipboard now uses wl-copy/xclip/xsel on Linux…'
 type: change
 ---
 
-# Fullscreen mode: clipboard now uses `wl-copy`/`xclip`/`xsel` on Linux when avail
+# Fullscreen mode: clipboard now uses `wl-copy`/`xclip`/`xsel` on Linux…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.161: Fullscreen mode: clipboard now uses `wl-copy`/`xclip`/`xsel` on Linux when available, copies to both the clipboard and PRIMARY selection for middle-click paste, and the "hold {key} for native selection" hint now shows the correct key per terminal

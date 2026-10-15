@@ -11,9 +11,9 @@ diffusion:
   theme: accessibility-localization
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: c0909b7f39e616676c66606459d40ee78dc97ef72ff3b993e0c062007d000ce9
+machine_hash: 5b6dd4d9756f05ffa90a2b14ec119e3d3a54321583524e0a37ed8b7b19b97074
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Added support for full-width (zenkaku) number input from Japanese IME in
       option selection prompts
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.21
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -37,18 +37,18 @@ record:
   source_type: github_releases
   theme: accessibility-localization
   title: Added support for full-width (zenkaku) number input from Japanese IME in
-    option
+    option…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|chatgpt-2023-09-11-bac960]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-28-v2-1-21-github-280523920-bba74245|claude-code-2026-01-28-v2-1-21-github-280523920-bba74245]]'
 source_type: github_releases
 theme: accessibility-localization
-title: Added support for full-width (zenkaku) number input from Japanese IME in option
+title: Added support for full-width (zenkaku) number input from Japanese IME in option…
 type: change
 ---
 
-# Added support for full-width (zenkaku) number input from Japanese IME in option
+# Added support for full-width (zenkaku) number input from Japanese IME in option…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.21: Added support for full-width (zenkaku) number input from Japanese IME in option selection prompts

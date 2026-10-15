@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-06-22'
-machine_hash: 171b94675974b0be77019e218179f1c90d0b05ed49c9471e926329d520481711
+machine_hash: 74a338c0454f9d813f25b64961f355051a855a6bf211386bfc53a8632bc6f830
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- context-window: [[Changes/ChatGPT/2026-06-22-starting-today-for-chatgpt-free-and-go-users-long-pastes-are-handled-differently|Starting today for ChatGPT Free and Go users, long pastes are handled differentl]]
+- context-window: [[Changes/ChatGPT/2026-06-22-starting-today-for-chatgpt-free-and-go-users-long-pastes-are-handled-differently|Starting today for ChatGPT Free and Go users, long pastes are handled differently…]]
 <!-- chronolog:end -->

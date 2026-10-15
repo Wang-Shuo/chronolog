@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 265a814c7924226da745788507ab06a6490028b3f43c78569905e6956fbe0917
+machine_hash: 6fdca04ffb910d6323b2e9de81fa290456a66fdb23ebca530f92be8282d120b3
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Ask about git commits and PRs using @git in chat!
     source_release: https://cursor.com/changelog/0-12-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

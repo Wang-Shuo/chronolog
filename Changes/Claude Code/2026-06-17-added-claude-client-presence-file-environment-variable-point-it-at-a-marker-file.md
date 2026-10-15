@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ee7c459d4622f97f210679af854fe97717a92d2c5c414f1d03167f0dacc208f9
+machine_hash: 8f27fec9bca549c868680be11affda2c405f01eb8e0ef3e590df5367c80b26fc
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: 'Added `CLAUDE_CLIENT_PRESENCE_FILE` environment variable: point it at
       a marker file to suppress mobile push notifications while you''re at the machine'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.181
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,8 +35,7 @@ record:
   source_release: claude-code-2026-06-17-v2-1-181-github-340975229-c771c493
   source_type: github_releases
   theme: mobile-desktop
-  title: 'Added `CLAUDE_CLIENT_PRESENCE_FILE` environment variable: point it at a
-    marker f'
+  title: Added `CLAUDE_CLIENT_PRESENCE_FILE` environment variable
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-05-14-codex-is-now-available-in-preview-in-the-chatgpt-mobile-app-so-you-can-stay-conn|chatgpt-2026-05-14-366d1d]]'
@@ -45,12 +44,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-17-v2-1-181-github-340975229-c771c493|claude-code-2026-06-17-v2-1-181-github-340975229-c771c493]]'
 source_type: github_releases
 theme: mobile-desktop
-title: 'Added CLAUDE_CLIENT_PRESENCE_FILE environment variable: point it at a marker
-  f'
+title: Added CLAUDE_CLIENT_PRESENCE_FILE environment variable
 type: change
 ---
 
-# Added `CLAUDE_CLIENT_PRESENCE_FILE` environment variable: point it at a marker f
+# Added `CLAUDE_CLIENT_PRESENCE_FILE` environment variable
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.181: Added `CLAUDE_CLIENT_PRESENCE_FILE` environment variable: point it at a marker file to suppress mobile push notifications while you're at the machine

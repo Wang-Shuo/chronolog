@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 07f328a8dad382dc3faed1a8164c1488a48f34e92c3a774d58d6202ede1e4778
+machine_hash: c68bd7c98fd5ffe544d8d3e48976ce616b4c10edcd9ab7e44777985b9addb51e
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Don't install "cursor" command on startup
     source_release: https://cursor.com/changelog/0-2-3
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

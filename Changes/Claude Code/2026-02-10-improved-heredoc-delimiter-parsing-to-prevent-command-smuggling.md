@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7712581bc135d7a9f0de71d093b8277ab36a24a9efabf3a9452292075be9d902
+machine_hash: 92657a6222dc9959303d0e974823a25f1c4c2221939cdd3b6019f00572c6e6f8
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Improved heredoc delimiter parsing to prevent command smuggling
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.38
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

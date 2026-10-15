@@ -11,9 +11,9 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1e6a4d17652f8ac5e3190c56df337467807f17b36bddeabcfacd7234e8eeab8b
+machine_hash: d7de87a90b19bc0ea5ab8b118f6944d7f19ef6d93792602cb299cd4e77664ded
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: 'We''re launching ChatGPT Go, our low cost subscription plan, in Brazil.
       ChatGPT Go provides everything included in the Free plan, and:'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -35,8 +35,7 @@ record:
   source_release: chatgpt-2025-10-28-chatgpt-go-now-available-in-brazil-6c8c9319
   source_type: chatgpt_changelog
   theme: pricing-model
-  title: We're launching ChatGPT Go, our low cost subscription plan, in Brazil. ChatGPT
-    G
+  title: ChatGPT launches ChatGPT Go, our low cost subscription plan, in Brazil
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-09-22-we-re-launching-chatgpt-go-our-low-cost-subscription-plan-in-indonesia-for-rp-75|chatgpt-2025-09-22-8031be]]'
@@ -45,12 +44,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-28-chatgpt-go-now-available-in-brazil-6c8c9319|chatgpt-2025-10-28-chatgpt-go-now-available-in-brazil-6c8c9319]]'
 source_type: chatgpt_changelog
 theme: pricing-model
-title: We're launching ChatGPT Go, our low cost subscription plan, in Brazil. ChatGPT
-  G
+title: ChatGPT launches ChatGPT Go, our low cost subscription plan, in Brazil
 type: change
 ---
 
-# We're launching ChatGPT Go, our low cost subscription plan, in Brazil. ChatGPT G
+# ChatGPT launches ChatGPT Go, our low cost subscription plan, in Brazil
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT Go now available in Brazil: We're launching ChatGPT Go, our low cost subscription plan, in Brazil. ChatGPT Go provides everything included in the Free plan, and:

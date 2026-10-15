@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 54251da9be60fb29ae917b26c9f380aea3f6713c7692d8547e829619e9bc11cb
+machine_hash: a87076f1cb2985a27de74379c5e4a70d8856ef06180d21aabd30acccf52b39a3
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Improved how quickly large files open in a plugin code pane by laying the
       highlighted view out once at its final width
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.289
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -34,8 +34,7 @@ record:
   source_release: claude-code-2026-10-03-v2-1-289-github-402671979-24326b23
   source_type: github_releases
   theme: apps-integrations
-  title: Improved how quickly large files open in a plugin code pane by laying the
-    highli
+  title: Improved how quickly large files open in a plugin code pane by laying…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-10-01-added-claude-mods-plugins-may-now-modify-deeper-behavior|claude-code-2026-10-01-719802]]'
@@ -44,11 +43,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-10-03-v2-1-289-github-402671979-24326b23|claude-code-2026-10-03-v2-1-289-github-402671979-24326b23]]'
 source_type: github_releases
 theme: apps-integrations
-title: Improved how quickly large files open in a plugin code pane by laying the highli
+title: Improved how quickly large files open in a plugin code pane by laying…
 type: change
 ---
 
-# Improved how quickly large files open in a plugin code pane by laying the highli
+# Improved how quickly large files open in a plugin code pane by laying…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.289: Improved how quickly large files open in a plugin code pane by laying the highlighted view out once at its final width

@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d3e090f37616dfe5172df9621016b9ab1c1a9d008a3fdc615b37c6e12b850dbf
+machine_hash: 46a88d00c218f5c69d035415c0bc959d143732611a4b5dedbebf293116f13e40
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Added `oidc.scope_on_refresh` to the Claude apps gateway for IdPs that
       return an id_token on refresh only when asked for `openid` again
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.260
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,8 +35,7 @@ record:
   source_release: claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc
   source_type: github_releases
   theme: apps-integrations
-  title: Added `oidc.scope_on_refresh` to the Claude apps gateway for IdPs that return
-    an
+  title: Added `oidc.scope_on_refresh` to the Claude apps gateway for IdPs that return…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-02-added-managedmcpservers-managed-setting-organizations-can-provide-http-sse-mcp-s|claude-code-2026-09-02-67251e]]'
@@ -45,12 +44,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc|claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added oidc.scope_on_refresh to the Claude apps gateway for IdPs that return
-  an
+title: Added oidc.scope_on_refresh to the Claude apps gateway for IdPs that return…
 type: change
 ---
 
-# Added `oidc.scope_on_refresh` to the Claude apps gateway for IdPs that return an
+# Added `oidc.scope_on_refresh` to the Claude apps gateway for IdPs that return…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.260: Added `oidc.scope_on_refresh` to the Claude apps gateway for IdPs that return an id_token on refresh only when asked for `openid` again

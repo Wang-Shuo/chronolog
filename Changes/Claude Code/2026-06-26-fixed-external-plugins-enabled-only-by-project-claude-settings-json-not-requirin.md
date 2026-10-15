@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: faf185f49bfa34b9e7bd870ac10340f475f846491fa0595c4cf35515f0d7eec6
+machine_hash: e133c4bc0a7616867aed65d8723e765390700266bc57dc1712920ad7002cd7cb
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Fixed external plugins enabled only by project `.claude/settings.json`
       not requiring explicit install consent on every loader path
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.195
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,7 +38,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: Fixed external plugins enabled only by project `.claude/settings.json` not
-    requi
+    requiring…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-23-added-mouse-click-support-to-select-menus-permission-prompts-model-config-etc-in|claude-code-2026-06-23-1c0b3a]]'
@@ -47,11 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-26-v2-1-195-github-345467919-2d39e460|claude-code-2026-06-26-v2-1-195-github-345467919-2d39e460]]'
 source_type: github_releases
 theme: safety-privacy
-title: Fixed external plugins enabled only by project .claude/settings.json not requi
+title: Fixed external plugins enabled only by project .claude/settings.json not requiring…
 type: change
 ---
 
-# Fixed external plugins enabled only by project `.claude/settings.json` not requi
+# Fixed external plugins enabled only by project `.claude/settings.json` not requiring…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.195: Fixed external plugins enabled only by project `.claude/settings.json` not requiring explicit install consent on every loader path

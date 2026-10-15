@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 3d2d5a5275dc0491b7c88b7bdd761ab812d2e28f0996162b562a573127e1818e
+machine_hash: 5fee704d6b7e42294667fb6ad08a4e40281c9ae994cf8fe5e3186b821b920985
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: Added `claude plugin init <name>` to scaffold a new plugin in `.claude/skills`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.157
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code

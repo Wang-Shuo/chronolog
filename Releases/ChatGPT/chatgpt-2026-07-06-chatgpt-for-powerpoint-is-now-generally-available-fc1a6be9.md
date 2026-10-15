@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-07-06'
-machine_hash: 1ab0f4ea5c36cafb905f4bad77827b207f36923eb81e59d0cc980e0587c34dac
+machine_hash: 6c2fffdc45de754559972cb011d24540c5b89d6c265e6efe5f0518afe40b238e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- account-access: [[Changes/ChatGPT/2026-07-06-chatgpt-for-powerpoint-is-now-generally-available-globally-from-a-sidebar-in-mic|ChatGPT for PowerPoint is now generally available globally. From a sidebar in Mi]]
+- account-access: [[Changes/ChatGPT/2026-07-06-chatgpt-for-powerpoint-is-now-generally-available-globally-from-a-sidebar-in-mic|ChatGPT for PowerPoint is now generally available globally]]
 <!-- chronolog:end -->

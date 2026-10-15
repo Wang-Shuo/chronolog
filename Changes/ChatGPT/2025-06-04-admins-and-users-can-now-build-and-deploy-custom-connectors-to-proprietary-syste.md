@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 3308b9f8832be90d3fd12d58a355b3d359dfff8d170b77e68f2d2a191ffc0f2c
+machine_hash: d8cd5caab86a2df07f25cc3b119156ed1c4c269e2bb9c335ed0431e64fcea21b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
   - quote: Admins and users can now build and deploy custom connectors to proprietary
       systems using Model Context Protocol (MCP).
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -56,7 +56,7 @@ record:
     score: 50
     theme: model-support
   title: Admins and users can now build and deploy custom connectors to proprietary
-    syste
+    systems…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-05-15-the-github-connector-is-now-available-globally-to-plus-pro-team-users-including|chatgpt-2025-05-15-483667]]'
@@ -66,11 +66,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2025-06-04-custom-connectors-via-mod
 source_type: chatgpt_changelog
 theme: apps-integrations
 title: Admins and users can now build and deploy custom connectors to proprietary
-  syste
+  systems…
 type: change
 ---
 
-# Admins and users can now build and deploy custom connectors to proprietary syste
+# Admins and users can now build and deploy custom connectors to proprietary systems…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Custom connectors via Model Context Protocol (Pro, Team, Enterprise, Edu): Admins and users can now build and deploy custom connectors to proprietary systems using Model Context Protocol (MCP).

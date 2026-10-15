@@ -11,9 +11,9 @@ diffusion:
   theme: file-data
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 2c635e049370e56b443a27f2bc75bdc42cccb132b502bc35d681a6ed9c9c8cf8
+machine_hash: a3c09b1ae17a00d2905d46e4f2a1707c84723046c1afae51e09b7dd6bcc41c5c
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: 'Read file: Now reads full files when appropriate and the 2MB cap is removed.'
     source_release: https://cursor.com/changelog/1-4
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,7 +35,7 @@ record:
   theme: file-data
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: 'Read file: Now reads full files when appropriate and the 2MB cap is removed.'
+  title: 'Read file: Now reads full files when appropriate and the 2MB cap is removed'
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-02-06-users-can-now-share-a-canvas-asset-such-as-rendered-react-html-code-document-or|chatgpt-2025-02-06-009605]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-08-06-1-4-https-cursor-com-changelog-1-4-5a085889|cursor-2025-08-06-1-4-https-cursor-com-changelog-1-4-5a085889]]'
 source_type: cursor_changelog
 theme: file-data
-title: 'Read file: Now reads full files when appropriate and the 2MB cap is removed.'
+title: 'Read file: Now reads full files when appropriate and the 2MB cap is removed'
 type: change
 ---
 
-# Read file: Now reads full files when appropriate and the 2MB cap is removed.
+# Read file: Now reads full files when appropriate and the 2MB cap is removed
 
 <!-- chronolog:begin region="description" -->
 Cursor — Improved Agent tools, steerability, and usage visibility: Read file: Now reads full files when appropriate and the 2MB cap is removed.

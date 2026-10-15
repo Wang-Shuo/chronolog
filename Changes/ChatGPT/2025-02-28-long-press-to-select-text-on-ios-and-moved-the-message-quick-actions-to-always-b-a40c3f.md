@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 92f57d93020cbecbf3f7b1debdca9ed5362efb5a9e9f46470ebeabb5a8c20607
+machine_hash: 34d49c52b94fc519c35ec58cfd17e70a89a626091161893514f09085cbd598e8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: 'Long press to select text on iOS and moved the message quick actions to
       always be visible below the message:'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -36,8 +36,7 @@ record:
   source_release: chatgpt-2025-02-28-general-ios-long-press-to-select-text-on-ios-and-moved-the-messa-04ecc8ba
   source_type: chatgpt_changelog
   theme: mobile-desktop
-  title: Long press to select text on iOS and moved the message quick actions to always
-    b
+  title: Long press to select text on iOS and moved the message quick actions to always…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-02-14-updated-launch-animations-and-composer-design-on-android|chatgpt-2025-02-14-fb60f1]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-02-28-general-ios-long-press-to-select-text-on-ios-and-moved-the-messa-04ecc8ba|chatgpt-2025-02-28-general-ios-long-press-to-select-text-on-ios-and-moved-the-messa-04ecc8ba]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: Long press to select text on iOS and moved the message quick actions to always
-  b
+title: Long press to select text on iOS and moved the message quick actions to always…
 type: change
 ---
 
-# Long press to select text on iOS and moved the message quick actions to always b
+# Long press to select text on iOS and moved the message quick actions to always…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — - General - iOS - Long press to select text on iOS and moved the message quick actions to always be visible below the me: Long press to select text on iOS and moved the message quick actions to always be visible below the message:

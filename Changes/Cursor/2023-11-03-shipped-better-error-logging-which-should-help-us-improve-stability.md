@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 21a204ad5a0188c27c5dfb48a7af5373257fc94fe9a7cea1c8afd3f97e7932e5
+machine_hash: d6e7d689060bea4ba8fae73dffc0a3dbaf14045c891ff38dc0d133e6f6610e02
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Shipped better error logging, which should help us improve stability.
     source_release: https://cursor.com/changelog/0-14-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -33,7 +33,7 @@ record:
   source_release: cursor-2023-11-03-0-14-0-https-cursor-com-changelog-0-14-0-45a47acf
   source_type: cursor_changelog
   theme: reliability-performance
-  title: Shipped better error logging, which should help us improve stability.
+  title: Shipped better error logging, which should help us improve stability
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-09-22-stable-version-of-indexing-this-should-be-much-more-stable-than-previous-version|cursor-2023-09-22-a2446a]]'
@@ -42,11 +42,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-11-03-0-14-0-https-cursor-com-changelog-0-14-0-45a47acf|cursor-2023-11-03-0-14-0-https-cursor-com-changelog-0-14-0-45a47acf]]'
 source_type: cursor_changelog
 theme: reliability-performance
-title: Shipped better error logging, which should help us improve stability.
+title: Shipped better error logging, which should help us improve stability
 type: change
 ---
 
-# Shipped better error logging, which should help us improve stability.
+# Shipped better error logging, which should help us improve stability
 
 <!-- chronolog:begin region="description" -->
 Cursor — Pro++, Word-wrapping diffs, and more: Shipped better error logging, which should help us improve stability.

@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 74d82abca932548c187448be456c705771afd4b9c2ed968ef24919964abe35f9
+machine_hash: 13034f23639f03f1c520925c6c977d38668019d68a1475b6ae6bf30e6d0a0765
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       subagent''s running command to the background so your message is read right
       away'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.286
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,7 +36,7 @@ record:
   source_release: claude-code-2026-09-30-v2-1-286-github-400266224-9fb31eb7
   source_type: github_releases
   theme: agent-mode
-  title: 'Improved send now (ctrl+enter) in a subagent''s view: it now moves the subagent''s'
+  title: Improved send now (ctrl+enter) in a subagent's view
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-19-added-an-auto-mode-server-row-to-status-showing-whether-this-session-s-auto-mode|claude-code-2026-09-19-341582]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-30-v2-1-286-github-400266224-9fb31eb7|claude-code-2026-09-30-v2-1-286-github-400266224-9fb31eb7]]'
 source_type: github_releases
 theme: agent-mode
-title: 'Improved send now (ctrl+enter) in a subagent''s view: it now moves the subagent''s'
+title: Improved send now (ctrl+enter) in a subagent's view
 type: change
 ---
 
-# Improved send now (ctrl+enter) in a subagent's view: it now moves the subagent's
+# Improved send now (ctrl+enter) in a subagent's view
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.286: Improved send now (ctrl+enter) in a subagent's view: it now moves the subagent's running command to the background so your message is read right away

@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-10-07'
-machine_hash: 610467df61d61f60cc2a032076aa9cee5ea84c67bed4e1d52acead3e36098548
+machine_hash: 830630cfa12d4e8be6228f97fcd6552f3c3fcebfb9e991d7dd8860d08ba9d671
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2026-10-07-we-re-introducing-gpt-6-with-intelligent-ui-in-chatgpt-chatgpt-can-now-combine-t|We’re introducing GPT-6 with Intelligent UI in ChatGPT. ChatGPT can now combine]]
+- model-support: [[Changes/ChatGPT/2026-10-07-we-re-introducing-gpt-6-with-intelligent-ui-in-chatgpt-chatgpt-can-now-combine-t|ChatGPT introduces GPT-6 with Intelligent UI]]
 <!-- chronolog:end -->

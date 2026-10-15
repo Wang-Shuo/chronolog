@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-03-25'
-machine_hash: 8d724c4ee8d150883e4afa8c0563e55d54b145fbf23fc023b9e829aebdccf19c
+machine_hash: 5e6762c0e7e90ff6969d6aef90e594cabafb5b2a264705733546883aee72a753
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- apps-integrations: [[Changes/ChatGPT/2026-03-25-google-s-file-connectors-in-chatgpt-are-now-unified-under-google-drive-providing|Google’s file connectors in ChatGPT are now unified under Google Drive, providin]]
+- apps-integrations: [[Changes/ChatGPT/2026-03-25-google-s-file-connectors-in-chatgpt-are-now-unified-under-google-drive-providing|Google’s file connectors in ChatGPT are now unified under Google Drive, providing…]]
 <!-- chronolog:end -->

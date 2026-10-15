@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 530d8316729e831224790a38313fd82ebccd0562b28e6ec29f103a3e6119e542
+machine_hash: 9482dc977e023ecc6c47b4c872843e22c21538a536b2d816495a37d3169cc07a
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,7 +29,7 @@ record:
   - quote: The `/model` picker now lists models from your gateway's `/v1/models` endpoint
       when `ANTHROPIC_BASE_URL` points at an Anthropic-compatible gateway
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.126
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -47,8 +47,7 @@ record:
     - picker
     score: 50
     theme: interface-experience
-  title: The `/model` picker now lists models from your gateway's `/v1/models` endpoint
-    w
+  title: The `/model` picker now lists models from your gateway's `/v1/models` endpoint…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-22-improved-model-selections-now-persist-across-restarts-even-when-the-project-pins|claude-code-2026-04-22-aaa371]]'
@@ -57,12 +56,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-01-v2-1-126-github-316244540-de18d9bb|claude-code-2026-05-01-v2-1-126-github-316244540-de18d9bb]]'
 source_type: github_releases
 theme: model-support
-title: The /model picker now lists models from your gateway's /v1/models endpoint
-  w
+title: The /model picker now lists models from your gateway's /v1/models endpoint…
 type: change
 ---
 
-# The `/model` picker now lists models from your gateway's `/v1/models` endpoint w
+# The `/model` picker now lists models from your gateway's `/v1/models` endpoint…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.126: The `/model` picker now lists models from your gateway's `/v1/models` endpoint when `ANTHROPIC_BASE_URL` points at an Anthropic-compatible gateway

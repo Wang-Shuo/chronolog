@@ -11,9 +11,9 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ae3ee98f8f8b29b749c26b921c61b451ddc997503958d65f4ad50b7e9d4a91e4
+machine_hash: 1536bacd4c85cbc1a44f147e9b132193e47afd85465e01a9275304e0280bec5c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -36,7 +36,7 @@ record:
       or background music. We are actively investigating these issues and working
       toward a solution.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -45,7 +45,7 @@ record:
   source_type: chatgpt_changelog
   theme: voice
   title: In testing, we've observed that this update may occasionally cause minor
-    decreas
+    decreases…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2024-12-12-the-first-time-you-chat-with-santa-your-advanced-voice-limit-will-reset-one-time|chatgpt-2024-12-12-dc93c9]]'
@@ -54,11 +54,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-07-updates-to-advanced-voice-mode-for-paid-users-55969446|chatgpt-2025-06-07-updates-to-advanced-voice-mode-for-paid-users-55969446]]'
 source_type: chatgpt_changelog
 theme: voice
-title: In testing, we've observed that this update may occasionally cause minor decreas
+title: In testing, we've observed that this update may occasionally cause minor decreases…
 type: change
 ---
 
-# In testing, we've observed that this update may occasionally cause minor decreas
+# In testing, we've observed that this update may occasionally cause minor decreases…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Updates to Advanced Voice Mode for paid users: In testing, we've observed that this update may occasionally cause minor decreases in audio quality, including unexpected variations in tone and pitch. These issues are more noticeable with certain voice options. We expect to improve audio consistency over time.Additionally, rare hallucinations in Voice Mode persist with this update, resulting in unintended sounds resembling ads, gibberish, or background music. We are actively investigating these issues and working toward a solution.

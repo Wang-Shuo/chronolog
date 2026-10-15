@@ -11,9 +11,9 @@ diffusion:
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 97ca982190366a84782c9c6f838c8f23221fc6b511d130af6b068dacb85e0740
+machine_hash: 8b371bbd16a92a6bcc639586728d7e9979e82e70e9d27d1b7f5d87cdb7055117
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
       first. Add, remove, and configure install behavior for first-party plugins directly
       in team marketplace settings.
     source_release: https://cursor.com/changelog/05-01-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -51,7 +51,7 @@ record:
     theme: enterprise-admin
   theme_resolution: manual-semantic-rule-v1
   title: Admins can now create a team marketplace without connecting a repository
-    first.
+    first
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-02-13-cleaner-select-all-behavior-cmd-a-cmd-a-now-selects-only-the-conversation-conten|chatgpt-2026-02-13-dc142e]]'
@@ -60,11 +60,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-05-01-team-marketplace-updates-https-cursor-com-changelog-05-01-26-3036cead|cursor-2026-05-01-team-marketplace-updates-https-cursor-com-changelog-05-01-26-3036cead]]'
 source_type: cursor_changelog
 theme: collaboration
-title: Admins can now create a team marketplace without connecting a repository first.
+title: Admins can now create a team marketplace without connecting a repository first
 type: change
 ---
 
-# Admins can now create a team marketplace without connecting a repository first.
+# Admins can now create a team marketplace without connecting a repository first
 
 <!-- chronolog:begin region="description" -->
 Cursor — Team Marketplace Updates: Admins can now create a team marketplace without connecting a repository first. Add, remove, and configure install behavior for first-party plugins directly in team marketplace settings.

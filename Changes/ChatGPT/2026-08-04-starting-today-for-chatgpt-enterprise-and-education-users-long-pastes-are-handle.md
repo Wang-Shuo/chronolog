@@ -11,9 +11,9 @@ diffusion:
   theme: enterprise-admin
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a6c8f25413698cb2c811f1f79b790b7df2994cd4baeb7b8201ae8426650e5ab0
+machine_hash: fc2125faf7ede656e2ab8c126fb930d8de2448258d561791ba03e35bbf016525
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Starting today for ChatGPT Enterprise and Education users, long pastes
       are handled differently in ChatGPT.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -36,7 +36,7 @@ record:
   source_type: chatgpt_changelog
   theme: enterprise-admin
   title: Starting today for ChatGPT Enterprise and Education users, long pastes are
-    handl
+    handled…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-07-09-on-web-and-mobile-enterprise-and-edu-workspaces-have-a-two-week-preview-period-w|chatgpt-2026-07-09-a35fd3]]'
@@ -46,11 +46,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-08-04-large-pastes-are-now-hand
 source_type: chatgpt_changelog
 theme: enterprise-admin
 title: Starting today for ChatGPT Enterprise and Education users, long pastes are
-  handl
+  handled…
 type: change
 ---
 
-# Starting today for ChatGPT Enterprise and Education users, long pastes are handl
+# Starting today for ChatGPT Enterprise and Education users, long pastes are handled…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Large pastes are now handled as attachments for all plans: Starting today for ChatGPT Enterprise and Education users, long pastes are handled differently in ChatGPT.

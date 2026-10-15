@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 702083d349eed9d97014bfb9edec5c4a056b1660b17d87a9ff94b7c9ecfc38bc
+machine_hash: 99e8efe9ea08f1a075d4db06517ef4b0bd7f29abfa5888d6a8fa3c01fb8a8988
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: 'UPDATE (0.31.1–0.31.3): Adds back in AI Review (alpha), fixes the "Cursor
       Settings" menu item, and fixes a bug where @web doesn''t return a response.'
     source_release: https://cursor.com/changelog/0-31-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,8 +35,7 @@ record:
   source_release: cursor-2024-04-01-0-31-x-https-cursor-com-changelog-0-31-x-f88ca4c9
   source_type: cursor_changelog
   theme: interface-experience
-  title: 'UPDATE (0.31.1–0.31.3): Adds back in AI Review (alpha), fixes the "Cursor
-    Settin'
+  title: 'UPDATE (0.31.1–0.31.3): Adds back in AI Review (alpha), fixes…'
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-02-09-fine-grained-chat-replies-start-by-hovering-over-the-area-of-the-response-you-wa|cursor-2024-02-09-e891c3]]'
@@ -45,12 +44,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-04-01-0-31-x-https-cursor-com-changelog-0-31-x-f88ca4c9|cursor-2024-04-01-0-31-x-https-cursor-com-changelog-0-31-x-f88ca4c9]]'
 source_type: cursor_changelog
 theme: interface-experience
-title: 'UPDATE (0.31.1–0.31.3): Adds back in AI Review (alpha), fixes the "Cursor
-  Settin'
+title: 'UPDATE (0.31.1–0.31.3): Adds back in AI Review (alpha), fixes…'
 type: change
 ---
 
-# UPDATE (0.31.1–0.31.3): Adds back in AI Review (alpha), fixes the "Cursor Settin
+# UPDATE (0.31.1–0.31.3): Adds back in AI Review (alpha), fixes…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Long Context Chat Beta: UPDATE (0.31.1–0.31.3): Adds back in AI Review (alpha), fixes the "Cursor Settings" menu item, and fixes a bug where @web doesn't return a response.

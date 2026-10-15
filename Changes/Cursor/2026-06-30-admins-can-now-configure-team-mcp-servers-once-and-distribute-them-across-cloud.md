@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ea2e60bd8b206ea96b775363c01a551ddc5f5faf601bc8a1a3d3ca33b5414c2a
+machine_hash: cfe0f99d409096d6f96dd476e328fc1ff5df61a88f1680afe20db2c762341b8c
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Admins can now configure Team MCP servers once and distribute them across
       cloud agents, the agents window, IDE, and CLI.
     source_release: https://cursor.com/changelog/team-marketplace-updates
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -58,7 +58,7 @@ record:
     theme: enterprise-admin
   theme_resolution: manual-semantic-rule-v1
   title: Admins can now configure Team MCP servers once and distribute them across
-    cloud
+    cloud…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-24-improved-mcp-error-messages-http-404-errors-now-show-the-url-and-point-to-your-m|claude-code-2026-06-24-19fdcd]]'
@@ -67,11 +67,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-06-30-3-10-https-cursor-com-changelog-team-marketplace-updates-eb3caab2|cursor-2026-06-30-3-10-https-cursor-com-changelog-team-marketplace-updates-eb3caab2]]'
 source_type: cursor_changelog
 theme: apps-integrations
-title: Admins can now configure Team MCP servers once and distribute them across cloud
+title: Admins can now configure Team MCP servers once and distribute them across cloud…
 type: change
 ---
 
-# Admins can now configure Team MCP servers once and distribute them across cloud
+# Admins can now configure Team MCP servers once and distribute them across cloud…
 
 <!-- chronolog:begin region="description" -->
 Cursor — MCPs and Organizations in Team Marketplaces: Admins can now configure Team MCP servers once and distribute them across cloud agents, the agents window, IDE, and CLI.

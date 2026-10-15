@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3cafa5f1f2f61255fc9dbbc7c7520c19d16be2e5c9f500c61b4793006188764b
+machine_hash: c4e9b6639970eed4d416ac09da5fb7c1119b1eda8c2a3a51d2ef56fb484aa749
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       `"experimental": { ... }`. Top-level declarations still work but `claude plugin
       validate` will warn'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.129
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,7 +36,7 @@ record:
   source_release: claude-code-2026-05-06-v2-1-129-github-317982632-ec56fc0f
   source_type: github_releases
   theme: apps-integrations
-  title: 'Plugin manifests: `themes` and `monitors` should now be declared under `"experim'
+  title: 'Plugin manifests: `themes` and `monitors` should now be declared under…'
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-01-default-on-users-get-the-plugin-installed-by-default-but-can-opt-out|cursor-2026-05-01-e1fccb]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-06-v2-1-129-github-317982632-ec56fc0f|claude-code-2026-05-06-v2-1-129-github-317982632-ec56fc0f]]'
 source_type: github_releases
 theme: apps-integrations
-title: 'Plugin manifests: themes and monitors should now be declared under "experim'
+title: 'Plugin manifests: themes and monitors should now be declared under…'
 type: change
 ---
 
-# Plugin manifests: `themes` and `monitors` should now be declared under `"experim
+# Plugin manifests: `themes` and `monitors` should now be declared under…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.129: Plugin manifests: `themes` and `monitors` should now be declared under `"experimental": { ... }`. Top-level declarations still work but `claude plugin validate` will warn

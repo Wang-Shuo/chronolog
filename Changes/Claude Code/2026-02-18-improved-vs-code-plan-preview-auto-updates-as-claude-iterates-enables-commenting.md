@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0f0614552ba559c97afee7929b37707f8187375aef49f5e62f58fdf43d2e70ee
+machine_hash: 3c99b8e68ffe2899cc34782a3cb9e7779431d037491ce35c3429e565955777e3
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       commenting only when the plan is ready for review, and keeps the preview open
       when rejecting so Claude can revise.'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.47
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,8 +38,7 @@ record:
   theme: agent-mode
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: 'Improved VS Code plan preview: auto-updates as Claude iterates, enables
-    commenti'
+  title: Improved VS Code plan preview
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-02-12-in-research-preview-and-internal-testing-long-running-agents-completed-work-that|cursor-2026-02-12-cd9dcf]]'
@@ -48,11 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-02-18-v2-1-47-github-287886320-98b6e931|claude-code-2026-02-18-v2-1-47-github-287886320-98b6e931]]'
 source_type: github_releases
 theme: agent-mode
-title: 'Improved VS Code plan preview: auto-updates as Claude iterates, enables commenti'
+title: Improved VS Code plan preview
 type: change
 ---
 
-# Improved VS Code plan preview: auto-updates as Claude iterates, enables commenti
+# Improved VS Code plan preview
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.47: Improved VS Code plan preview: auto-updates as Claude iterates, enables commenting only when the plan is ready for review, and keeps the preview open when rejecting so Claude can revise.

@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e64ec6f44326ad495eb7ad838bd7f7d6b87cc1327234e1d60d455405094a0cc3
+machine_hash: 8dd2bbfdcca72bf21750598a4dd826d9e4a49620a984f5c18f1c5826be84b323
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Smarter responses that are more intelligent, are better at understanding
       what you’re asking, and provide more comprehensive answers.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -38,7 +38,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: Smarter responses that are more intelligent, are better at understanding
-    what yo
+    what you’re…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-06-12-creators-can-now-choose-from-the-full-set-of-chatgpt-models-gpt-4o-o3-o4-mini-an-60ec65|chatgpt-2025-06-12-60ec65]]'
@@ -48,11 +48,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2025-06-13-improvements-to-the-chatg
 source_type: chatgpt_changelog
 theme: model-support
 title: Smarter responses that are more intelligent, are better at understanding what
-  yo
+  you’re…
 type: change
 ---
 
-# Smarter responses that are more intelligent, are better at understanding what yo
+# Smarter responses that are more intelligent, are better at understanding what you’re…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Improvements to the ChatGPT search response quality: Smarter responses that are more intelligent, are better at understanding what you’re asking, and provide more comprehensive answers.

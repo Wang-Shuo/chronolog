@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-07-06'
-machine_hash: 4eccb52065b6aa0a5ab2437b3cf766ecc5b0c76fbd81726796f89735fead6a53
+machine_hash: bce0761eb9e4d746a12a7a182062b58e5b7b59a735ab6e50cb1e024f72243c0b
 product: cursor
 product_name: Cursor
 record:
@@ -40,5 +40,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- agent-mode: [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release! It comes with agents, which we aren't rele]]
+- agent-mode: [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
 <!-- chronolog:end -->

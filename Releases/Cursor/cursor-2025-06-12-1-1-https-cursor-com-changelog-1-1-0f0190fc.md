@@ -1,7 +1,7 @@
 ---
 changes_count: 4
 date: '2025-06-12'
-machine_hash: e061e3ef85678b0c350438ad3e8542df3553bce84b3bc0d9ee5b08725139fa10
+machine_hash: 9f6101be382570e99eb3e78849d8e7be034db13e8b2baaa66bf5f89fbe04e064
 product: cursor
 product_name: Cursor
 record:
@@ -40,8 +40,8 @@ Tracked cards: 4
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- agent-mode: [[Changes/Cursor/2025-06-12-you-can-now-launch-background-agents-directly-from-slack-by-mentioning-cursor-ag|You can now launch Background Agents directly from Slack by mentioning @Cursor.]]
-- apps-integrations: [[Changes/Cursor/2025-06-12-cursor-reads-the-entire-slack-thread-before-starting-so-background-agents-unders|Cursor reads the entire Slack thread before starting, so Background Agents under]]
-- agent-mode: [[Changes/Cursor/2025-06-12-agents-run-remotely-in-a-secure-environment-and-you-ll-get-updates-directly-in-s|Agents run remotely in a secure environment and you'll get updates directly in S]]
-- apps-integrations: [[Changes/Cursor/2025-06-12-mention-cursor-in-any-thread-with-a-prompt-like|Mention @Cursor in any thread with a prompt like:]]
+- agent-mode: [[Changes/Cursor/2025-06-12-you-can-now-launch-background-agents-directly-from-slack-by-mentioning-cursor-ag|Launch Background Agents directly from Slack by mentioning @Cursor]]
+- apps-integrations: [[Changes/Cursor/2025-06-12-cursor-reads-the-entire-slack-thread-before-starting-so-background-agents-unders|Cursor reads the entire Slack thread before starting, so Background Agents…]]
+- agent-mode: [[Changes/Cursor/2025-06-12-agents-run-remotely-in-a-secure-environment-and-you-ll-get-updates-directly-in-s|Agents run remotely in a secure environment and you'll get updates directly…]]
+- apps-integrations: [[Changes/Cursor/2025-06-12-mention-cursor-in-any-thread-with-a-prompt-like|Mention @Cursor in any thread with a prompt like]]
 <!-- chronolog:end -->

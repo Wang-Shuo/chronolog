@@ -11,9 +11,9 @@ diffusion:
   theme: enterprise-admin
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 44e4bb3fb5ec3ae6f1f2a8da12d1d7bc4e848f6a43a2df89a093fd3a8e8af8ad
+machine_hash: f63f8769c50f6a27e11d6e0a0bee975d7b4580162e561a59b9cd65fcd30b9e57
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       level of reasoning.Users on Plus, Pro, Business, Enterprise, and Edu accounts
       will see a set of model options depending on their plan, including:'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -54,7 +54,7 @@ record:
     theme: model-support
   theme_resolution: manual-semantic-rule-v1
   title: We’ve simplified the model picker to make it easier to choose the right level
-    of
+    of reasoning
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-11-21-this-is-in-addition-to-bugbot-which-runs-on-your-source-control-provider-like-gi|cursor-2025-11-21-25801d]]'
@@ -64,11 +64,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-03-17-updates-to-the-model-pick
 source_type: chatgpt_changelog
 theme: enterprise-admin
 title: We’ve simplified the model picker to make it easier to choose the right level
-  of
+  of reasoning
 type: change
 ---
 
-# We’ve simplified the model picker to make it easier to choose the right level of
+# We’ve simplified the model picker to make it easier to choose the right level of reasoning
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Updates to the model picker in ChatGPT: We’ve simplified the model picker to make it easier to choose the right level of reasoning.Users on Plus, Pro, Business, Enterprise, and Edu accounts will see a set of model options depending on their plan, including:

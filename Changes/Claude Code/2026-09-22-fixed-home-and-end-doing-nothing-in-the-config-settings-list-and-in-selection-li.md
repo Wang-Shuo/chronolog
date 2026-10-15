@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: d6358bdcfce199e348563607be43718c4e8c756dea0cb034c68b329ad8e312ad
+machine_hash: 7d848748f2c11eca3b3bf6cc1948e980e5ebb82ce7e0661434684dc3c9f2b172
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,7 +29,7 @@ record:
   - quote: Fixed Home and End doing nothing in the `/config` settings list and in
       selection lists such as `/model`, `/memory` and permission prompts
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.280
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -47,7 +47,7 @@ record:
     score: 50
     theme: model-support
   theme_resolution: manual-semantic-rule-v2
-  title: Fixed Home and End doing nothing in the `/config` settings list and in selection
+  title: Fixed Home and End doing nothing in the `/config` settings list and in selection…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-18-fixed-the-write-tool-silently-ending-the-turn-as-a-declined-permission-when-the|claude-code-2026-09-18-60b2ac]]'
@@ -56,11 +56,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b|claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b]]'
 source_type: github_releases
 theme: safety-privacy
-title: Fixed Home and End doing nothing in the /config settings list and in selection
+title: Fixed Home and End doing nothing in the /config settings list and in selection…
 type: change
 ---
 
-# Fixed Home and End doing nothing in the `/config` settings list and in selection
+# Fixed Home and End doing nothing in the `/config` settings list and in selection…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.280: Fixed Home and End doing nothing in the `/config` settings list and in selection lists such as `/model`, `/memory` and permission prompts

@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 39603ea4860c2a669cf215da0b09b35fb6fc8f5a9d6e3aa7393df8bb6093bb49
+machine_hash: 207e364f5dce3870b5e0b68335963c2898dd80733bd27ec5091cbcd8a1ba5bc5
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       requests no longer count as user rejections, and user interrupts are now reported
       as user aborts instead of rejections'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.216
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,8 +38,7 @@ record:
   theme: safety-privacy
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: 'Fixed telemetry misreporting permission denials: failed permission-prompt
-    reques'
+  title: Fixed telemetry misreporting permission denials
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-18-fixed-bash-permission-checks-to-no-longer-auto-approve-certain-help-and-man-comm|claude-code-2026-07-18-aa1dd6]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-20-v2-1-216-github-356972381-87e422ae|claude-code-2026-07-20-v2-1-216-github-356972381-87e422ae]]'
 source_type: github_releases
 theme: safety-privacy
-title: 'Fixed telemetry misreporting permission denials: failed permission-prompt
-  reques'
+title: Fixed telemetry misreporting permission denials
 type: change
 ---
 
-# Fixed telemetry misreporting permission denials: failed permission-prompt reques
+# Fixed telemetry misreporting permission denials
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.216: Fixed telemetry misreporting permission denials: failed permission-prompt requests no longer count as user rejections, and user interrupts are now reported as user aborts instead of rejections

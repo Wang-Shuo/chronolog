@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 13e345706a8312b44e9814811e5f4a09cee56ec2a5a262681722dc60aaaad62f
+machine_hash: 3197fdfc19950d5cef4ca61721d54c3e33c356c76fe38fc835511dc5184adffd
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       support can't be detected (e.g. over ssh/tmux); set `FORCE_HYPERLINK=0` to opt
       out
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.217
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -39,7 +39,7 @@ record:
   source_type: github_releases
   theme: developer-workflow
   title: Improved footer PR badge links to be clickable hyperlinks even when terminal
-    sup
+    support…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-10-commit-push-pr-now-auto-allows-git-push-to-the-repo-s-configured-push-remote-rem|claude-code-2026-07-10-6bcc0f]]'
@@ -49,11 +49,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-07-21-v2-1-217-github-3
 source_type: github_releases
 theme: developer-workflow
 title: Improved footer PR badge links to be clickable hyperlinks even when terminal
-  sup
+  support…
 type: change
 ---
 
-# Improved footer PR badge links to be clickable hyperlinks even when terminal sup
+# Improved footer PR badge links to be clickable hyperlinks even when terminal support…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.217: Improved footer PR badge links to be clickable hyperlinks even when terminal support can't be detected (e.g. over ssh/tmux); set `FORCE_HYPERLINK=0` to opt out

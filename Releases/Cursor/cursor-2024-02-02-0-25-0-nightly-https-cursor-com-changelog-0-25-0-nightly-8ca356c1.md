@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2024-02-02'
-machine_hash: 130fd8d17a0f698df0a0de2943a279f31d5311dd2e513a5578ad45f05d9ca0ea
+machine_hash: ec7c6004bb82c3e7b28bcffd6142814ea123f1f327b6ceee1b0f59b07a0c07ef
 product: cursor
 product_name: Cursor
 record:
@@ -40,5 +40,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- editor-experience: [[Changes/Cursor/2024-02-02-hold-down-cmd-i-over-a-selection-to-heal-the-code-with-gpt-4-useful-for-writing|Hold down cmd-I over a selection to heal the code with GPT-4. Useful for writing]]
+- editor-experience: [[Changes/Cursor/2024-02-02-hold-down-cmd-i-over-a-selection-to-heal-the-code-with-gpt-4-useful-for-writing|Hold down cmd-I over a selection to heal the code with GPT-4]]
 <!-- chronolog:end -->

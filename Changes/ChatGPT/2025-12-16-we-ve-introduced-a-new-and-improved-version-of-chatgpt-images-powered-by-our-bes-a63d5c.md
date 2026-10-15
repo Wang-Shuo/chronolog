@@ -11,9 +11,9 @@ diffusion:
   theme: image-generation
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 807dbd3a5c9e9ce32a21f641238ee123247faf51f4917b2ea4355890999a6633
+machine_hash: c5fed87e83aaf71cbecb21608908fbc8a8ad925a8d0faaf68ade1d0901c0adc3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,7 +42,7 @@ record:
       Images FAQ.Available on Free, Go, Plus, Edu, and Pro plans. Business and Enterprise
       are coming soon!
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -68,7 +68,7 @@ record:
     score: 50
     theme: search-browsing
   title: We’ve introduced a new and improved version of ChatGPT Images, powered by
-    our be
+    our best…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-10-14-more-messages-larger-file-uploads-and-expanded-image-generation|chatgpt-2025-10-14-2e5948]]'
@@ -78,11 +78,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2025-12-16-chatgpt-images-on-web-and
 source_type: chatgpt_changelog
 theme: image-generation
 title: We’ve introduced a new and improved version of ChatGPT Images, powered by our
-  be
+  best…
 type: change
 ---
 
-# We’ve introduced a new and improved version of ChatGPT Images, powered by our be
+# We’ve introduced a new and improved version of ChatGPT Images, powered by our best…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT Images on Web and Mobile (iOS & Android): We’ve introduced a new and improved version of ChatGPT Images, powered by our best image generation model yet. With ChatGPT Images, precise instruction following and editing makes AI image creation not just more fun, but meaningfully more useful—from everyday edits to creative transformations.All images you create with ChatGPT are automatically saved under My images at https://chatgpt.com/images, giving you a single place to browse, revisit, and reuse your work without having to sift through past conversations.Learn more about ChatGPT Images in our ChatGPT Images FAQ.Available on Free, Go, Plus, Edu, and Pro plans. Business and Enterprise are coming soon!

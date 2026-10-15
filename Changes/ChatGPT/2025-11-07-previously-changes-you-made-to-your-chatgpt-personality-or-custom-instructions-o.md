@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: a2d74530da51d4c14ef9954512284444eda784d431470149b560bfe746c6c3d4
+machine_hash: 89958392fe844bf9f15d6b63790ea5e345724aa84b9570ac6f3462924ba21a19
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,7 +35,7 @@ record:
       conversations!) so your experience stays consistent everywhere without needing
       to start a new thread.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -44,6 +44,7 @@ record:
   source_type: chatgpt_changelog
   theme: memory
   title: Previously, changes you made to your ChatGPT personality or custom instructions
+    only…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-10-28-longer-memory-for-more-personalized-responses|chatgpt-2025-10-28-9fade2]]'
@@ -53,10 +54,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2025-11-07-personality-and-custom-in
 source_type: chatgpt_changelog
 theme: memory
 title: Previously, changes you made to your ChatGPT personality or custom instructions
+  only…
 type: change
 ---
 
-# Previously, changes you made to your ChatGPT personality or custom instructions
+# Previously, changes you made to your ChatGPT personality or custom instructions only…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Personality and custom instructions now apply to all chats: Previously, changes you made to your ChatGPT personality or custom instructions only applied to new conversations. Starting today, updates you make in Settings → Personalization are applied immediately across all chats (including existing conversations!) so your experience stays consistent everywhere without needing to start a new thread.

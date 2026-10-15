@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f888f243efa15b4d0c26bc7f897d02170744ee68ba322eff8c56eb0c27e85950
+machine_hash: 2e963b1c7799e8761f04fc4e4c6df521514c0c4a6c2c668520d2213548b50958
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Transitioned to building Cursor on top of a fork of VSCodium
     source_release: https://cursor.com/changelog/0-2-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

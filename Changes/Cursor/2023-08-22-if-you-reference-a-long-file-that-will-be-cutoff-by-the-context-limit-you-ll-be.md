@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 70646bccfa7a4875ae49574b8731e169eb0f5441bcb6ae19be8289c9ecf23c69
+machine_hash: 0b8d96d78d2dd51c36ff6156901ec2105faef2f84e22f9365e6871778baf1152
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
       you'll be given the option to automatically chunk the file and scan it with
       many GPTs.
     source_release: https://cursor.com/changelog/0-8-2
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,7 +37,7 @@ record:
   source_type: cursor_changelog
   theme: context-window
   title: If you @ reference a long file that will be cutoff by the context limit,
-    you'll
+    you'll…
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-07-19-advanced-context-controls-only-show-up-if-you-have-indexed-your-codebase|cursor-2023-07-19-031260]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-08-22-0-8-2-https-cursor-com-changelog-0-8-2-866d920f|cursor-2023-08-22-0-8-2-https-cursor-com-changelog-0-8-2-866d920f]]'
 source_type: cursor_changelog
 theme: context-window
-title: If you @ reference a long file that will be cutoff by the context limit, you'll
+title: If you @ reference a long file that will be cutoff by the context limit, you'll…
 type: change
 ---
 
-# If you @ reference a long file that will be cutoff by the context limit, you'll
+# If you @ reference a long file that will be cutoff by the context limit, you'll…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cmd-k Followups, chat with large files, and more: If you @ reference a long file that will be cutoff by the context limit, you'll be given the option to automatically chunk the file and scan it with many GPTs.

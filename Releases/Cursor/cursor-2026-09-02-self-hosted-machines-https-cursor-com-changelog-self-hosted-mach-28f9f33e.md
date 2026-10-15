@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2026-09-02'
-machine_hash: 95dce8c855b5ec3b2bdfcaa162bf52f947c58e5ea272c793dfd59043a2ef8c90
+machine_hash: cf1c0379c769e5c83f4df199aa1e180d72ed0303e8967a9c3dfc862ae142a906
 product: cursor
 product_name: Cursor
 record:
@@ -39,6 +39,6 @@ Tracked cards: 2
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- agent-mode: [[Changes/Cursor/2026-09-02-your-codebase-build-outputs-and-secrets-all-stay-on-internal-machines-running-in|Your codebase, build outputs, and secrets all stay on internal machines running]]
-- enterprise-admin: [[Changes/Cursor/2026-09-02-team-pools-are-named-queues-of-workers-for-a-team-or-enterprise-capacity-can-gro|Team pools are named queues of workers for a team or enterprise. Capacity can gr]]
+- agent-mode: [[Changes/Cursor/2026-09-02-your-codebase-build-outputs-and-secrets-all-stay-on-internal-machines-running-in|Your codebase, build outputs, and secrets all stay on internal machines running…]]
+- enterprise-admin: [[Changes/Cursor/2026-09-02-team-pools-are-named-queues-of-workers-for-a-team-or-enterprise-capacity-can-gro|Team pools are named queues of workers for a team or enterprise]]
 <!-- chronolog:end -->

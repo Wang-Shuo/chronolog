@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 59064b2a77b1629c7458e9b8695e88c154759856d614353b6e8670f6d195b995
+machine_hash: 4c16f38b30768ae17123efdac640056dedec89f9b78a2768fa3ff4c0006f427d
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Added `x-claude-code-prompt-id` to the gateway hint headers so LLM gateways
       can group the requests that serve one user prompt; opt in with `CLAUDE_CODE_GATEWAY_HINT_HEADERS=1`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.283
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,7 +36,7 @@ record:
   source_type: github_releases
   theme: model-support
   title: Added `x-claude-code-prompt-id` to the gateway hint headers so LLM gateways
-    can
+    can…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-22-added-claude-opus-5-5-claude-opus-5-5-now-the-default-opus-model-1m-context-4-20|claude-code-2026-09-22-09ab0e]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-25-v2-1-283-github-396845205-9a5a07f8|claude-code-2026-09-25-v2-1-283-github-396845205-9a5a07f8]]'
 source_type: github_releases
 theme: model-support
-title: Added x-claude-code-prompt-id to the gateway hint headers so LLM gateways can
+title: Added x-claude-code-prompt-id to the gateway hint headers so LLM gateways can…
 type: change
 ---
 
-# Added `x-claude-code-prompt-id` to the gateway hint headers so LLM gateways can
+# Added `x-claude-code-prompt-id` to the gateway hint headers so LLM gateways can…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.283: Added `x-claude-code-prompt-id` to the gateway hint headers so LLM gateways can group the requests that serve one user prompt; opt in with `CLAUDE_CODE_GATEWAY_HINT_HEADERS=1`

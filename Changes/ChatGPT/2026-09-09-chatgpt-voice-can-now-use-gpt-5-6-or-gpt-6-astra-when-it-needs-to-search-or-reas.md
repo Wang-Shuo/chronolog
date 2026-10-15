@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 1fe61a8e1dbef91543a7d2bcf2c5b721d156a511c982d96ea7c62191c6004982
+machine_hash: 51c3189f8aa31fe1de862c30cd7219aafb2f6781f1d25877bbafa7b58b95cb74
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
       the same controls as text chat. Available models and their usage limits depend
       on your plan.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -53,7 +53,7 @@ record:
     theme: voice
   theme_resolution: manual-semantic-rule-v2
   title: ChatGPT Voice can now use GPT-5.6 or GPT-6 Astra when it needs to search
-    or reas
+    or reason…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-01-added-claude-fable-5-1-claude-fable-5-1-now-the-default-fable-model-1m-context-1|claude-code-2026-09-01-2ab9f8]]'
@@ -63,11 +63,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-09-09-updated-models-and-usage-
 source_type: chatgpt_changelog
 theme: model-support
 title: ChatGPT Voice can now use GPT-5.6 or GPT-6 Astra when it needs to search or
-  reas
+  reason…
 type: change
 ---
 
-# ChatGPT Voice can now use GPT-5.6 or GPT-6 Astra when it needs to search or reas
+# ChatGPT Voice can now use GPT-5.6 or GPT-6 Astra when it needs to search or reason…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Updated models and usage limits in ChatGPT Voice: ChatGPT Voice can now use GPT-5.6 or GPT-6 Astra when it needs to search or reason through harder questions. Choose your model and reasoning effort using the same controls as text chat. Available models and their usage limits depend on your plan.

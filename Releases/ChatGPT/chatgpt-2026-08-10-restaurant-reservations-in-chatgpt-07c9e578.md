@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-08-10'
-machine_hash: 56159b3120289ec634acdb7ba4bac5665ee459628a2b0704820fef388fb84c32
+machine_hash: 5d743431e1651171f8a6cd618a5b5d57be443bb5dd767eafe13d1d3b482f7263
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- mobile-desktop: [[Changes/ChatGPT/2026-08-10-chatgpt-can-now-help-you-find-available-restaurant-reservations-with-opentable-r|ChatGPT can now help you find available restaurant reservations with OpenTable,]]
+- mobile-desktop: [[Changes/ChatGPT/2026-08-10-chatgpt-can-now-help-you-find-available-restaurant-reservations-with-opentable-r|ChatGPT can now help you find available restaurant reservations with OpenTable…]]
 <!-- chronolog:end -->

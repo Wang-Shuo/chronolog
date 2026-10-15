@@ -1,7 +1,7 @@
 ---
 changes_count: 4
 date: '2025-09-29'
-machine_hash: ef82077f86942f5c0a38e36ce2b47e311016193ad870aa155df11318e89d6bac
+machine_hash: dc65953dbf5a82697bdf4e4500067b208058910a943e34b1ba5092bd7d6b275a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,8 +42,8 @@ Tracked cards: 4
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- image-generation: [[Changes/ChatGPT/2025-09-29-remove-image-generation-so-chatgpt-won-t-have-the-ability-to-create-or-edit-imag|Remove image generation, so ChatGPT won’t have the ability to create or edit ima]]
-- safety-privacy: [[Changes/ChatGPT/2025-09-29-we-re-rolling-out-parental-controls-globally-in-chatgpt-to-help-families-guide-h-86eaab|We’re rolling out parental controls globally in ChatGPT to help families guide h]]
-- voice: [[Changes/ChatGPT/2025-09-29-turn-off-voice-mode-to-remove-the-option-to-use-voice-mode-in-chatgpt|Turn off voice mode, to remove the option to use voice mode in ChatGPT.]]
-- memory: [[Changes/ChatGPT/2025-09-29-turn-off-memory-so-chatgpt-won-t-save-and-use-memories-when-responding|Turn off memory, so ChatGPT won’t save and use memories when responding.]]
+- image-generation: [[Changes/ChatGPT/2025-09-29-remove-image-generation-so-chatgpt-won-t-have-the-ability-to-create-or-edit-imag|Remove image generation, so ChatGPT won’t have the ability to create or edit images]]
+- safety-privacy: [[Changes/ChatGPT/2025-09-29-we-re-rolling-out-parental-controls-globally-in-chatgpt-to-help-families-guide-h-86eaab|ChatGPT rolls out parental controls globally to help families guide how ChatGPT…]]
+- voice: [[Changes/ChatGPT/2025-09-29-turn-off-voice-mode-to-remove-the-option-to-use-voice-mode-in-chatgpt|Turn off voice mode, to remove the option to use voice mode in ChatGPT]]
+- memory: [[Changes/ChatGPT/2025-09-29-turn-off-memory-so-chatgpt-won-t-save-and-use-memories-when-responding|Turn off memory, so ChatGPT won’t save and use memories when responding]]
 <!-- chronolog:end -->

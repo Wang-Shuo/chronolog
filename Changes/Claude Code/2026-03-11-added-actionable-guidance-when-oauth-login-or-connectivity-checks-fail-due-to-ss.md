@@ -11,9 +11,9 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: fe5b705097b99afc2c0959e524a93c951c9f4f549ccd1bac21237a37e8e63da3
+machine_hash: 23e351519ce74754763e3826a713b7f6f565569cc771819d1d6db096d0919403
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Added actionable guidance when OAuth login or connectivity checks fail
       due to SSL certificate errors (corporate proxies, `NODE_EXTRA_CA_CERTS`)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.73
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,7 +36,7 @@ record:
   source_type: github_releases
   theme: account-access
   title: Added actionable guidance when OAuth login or connectivity checks fail due
-    to SS
+    to SSL…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-03-added-pre-configured-oauth-client-credentials-for-mcp-servers-that-don-t-support|claude-code-2026-02-03-1c4ec2]]'
@@ -46,11 +46,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-03-11-v2-1-73-github-29
 source_type: github_releases
 theme: account-access
 title: Added actionable guidance when OAuth login or connectivity checks fail due
-  to SS
+  to SSL…
 type: change
 ---
 
-# Added actionable guidance when OAuth login or connectivity checks fail due to SS
+# Added actionable guidance when OAuth login or connectivity checks fail due to SSL…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.73: Added actionable guidance when OAuth login or connectivity checks fail due to SSL certificate errors (corporate proxies, `NODE_EXTRA_CA_CERTS`)

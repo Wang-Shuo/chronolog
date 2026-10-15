@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d064270088799d80b88c5a1580dad6857f3660aea98cd0b9032097f47b7245d6
+machine_hash: 88a254e780185b287489868888cec85784cb7f83885143c3b55484bd0c02a467
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       select the information you want ChatGPT to use, or complete a form provided
       by the plugin.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -49,7 +49,7 @@ record:
     score: 50
     theme: interface-experience
   title: Plugins can now include interactive panels, sidebar views, and viewers or
-    editor
+    editors…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-24-added-store-readiness-grace-seconds-to-the-claude-apps-gateway-so-readyz-can-sta|claude-code-2026-09-24-58783f]]'
@@ -58,11 +58,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-work-with-interactive-plugin-extensions-8f979183|chatgpt-2026-09-29-work-with-interactive-plugin-extensions-8f979183]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
-title: Plugins can now include interactive panels, sidebar views, and viewers or editor
+title: Plugins can now include interactive panels, sidebar views, and viewers or editors…
 type: change
 ---
 
-# Plugins can now include interactive panels, sidebar views, and viewers or editor
+# Plugins can now include interactive panels, sidebar views, and viewers or editors…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Work with interactive plugin extensions: Plugins can now include interactive panels, sidebar views, and viewers or editors for supported file types. Work with an app alongside your conversation, select the information you want ChatGPT to use, or complete a form provided by the plugin.

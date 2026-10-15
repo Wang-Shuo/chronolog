@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 17565adc72d87b542a73d8f5c9b3bc7eb52485977fbf072c3796d5df9ece16ad
+machine_hash: 4299b9c43ff0c2224f36dbb2de9bc2733e4dff462d222da99d7e64588bbb34bf
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: We have a new chat UX! Excited for you to try it out and share your thoughts.
     source_release: https://cursor.com/changelog/0-40-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -37,7 +37,7 @@ record:
   theme: interface-experience
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: We have a new chat UX! Excited for you to try it out and share your thoughts.
+  title: We have a new chat UX!
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-04-12-cursor-help-pane-beta-you-can-also-ask-cursor-about-cursor-the-cursor-help-pane|cursor-2024-04-12-442fc4]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-08-22-0-40-x-https-cursor-com-changelog-0-40-x-317cba42|cursor-2024-08-22-0-40-x-https-cursor-com-changelog-0-40-x-317cba42]]'
 source_type: cursor_changelog
 theme: interface-experience
-title: We have a new chat UX! Excited for you to try it out and share your thoughts.
+title: We have a new chat UX!
 type: change
 ---
 
-# We have a new chat UX! Excited for you to try it out and share your thoughts.
+# We have a new chat UX!
 
 <!-- chronolog:begin region="description" -->
 Cursor — New Chat UX, Default-On Composer, New Cursor Tab Model: We have a new chat UX! Excited for you to try it out and share your thoughts.

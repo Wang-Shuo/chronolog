@@ -11,9 +11,9 @@ diffusion:
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: f0d42ded25e1448f3c05d6ed22572f9ab37c567b7a35d6838716867b905ac112
+machine_hash: f545dc44d4681423e09e9964e2507e429c39c1bb94c66884a50f72e1d4381e27
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Added research preview agent teams feature for multi-agent collaboration
       (token-intensive feature, requires setting CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS=1)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.32
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code
@@ -46,8 +46,7 @@ record:
     - agent
     score: 50
     theme: agent-mode
-  title: Added research preview agent teams feature for multi-agent collaboration
-    (token-
+  title: Added research preview agent teams feature for multi-agent collaboration…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-10-23-content-creation-apply-project-specific-instructions-to-keep-tone-and-style-cons|chatgpt-2025-10-23-52a8ca]]'
@@ -56,11 +55,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0|claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0]]'
 source_type: github_releases
 theme: collaboration
-title: Added research preview agent teams feature for multi-agent collaboration (token-
+title: Added research preview agent teams feature for multi-agent collaboration…
 type: change
 ---
 
-# Added research preview agent teams feature for multi-agent collaboration (token-
+# Added research preview agent teams feature for multi-agent collaboration…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.32: Added research preview agent teams feature for multi-agent collaboration (token-intensive feature, requires setting CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS=1)

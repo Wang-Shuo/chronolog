@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ba855e9a16a2b8c4bd45019e2fb1d12c23742c9c520a275f56196032bb34a4d3
+machine_hash: 756f2aafe846a017ce66958d49b7fdd8b3618a781974ed3def663ed6deb1afac
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: 'Supported connectors: Google Drive, SharePoint, Dropbox, Box, Outlook,
       Gmail, Google Calendar, Linear, GitHub, HubSpot, and Teams'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -46,7 +46,7 @@ record:
     theme: collaboration
   theme_resolution: manual-backfill-review-v1
   title: 'Supported connectors: Google Drive, SharePoint, Dropbox, Box, Outlook, Gmail,
-    Go'
+    Google…'
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-02-19-0-46-2-improved-mcp-reliability-added-option-to-disable-yolo-mode-for-mcp|cursor-2025-02-19-76c9e5]]'
@@ -56,11 +56,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2025-06-04-connectors-in-beta-for-de
 source_type: chatgpt_changelog
 theme: apps-integrations
 title: 'Supported connectors: Google Drive, SharePoint, Dropbox, Box, Outlook, Gmail,
-  Go'
+  Google…'
 type: change
 ---
 
-# Supported connectors: Google Drive, SharePoint, Dropbox, Box, Outlook, Gmail, Go
+# Supported connectors: Google Drive, SharePoint, Dropbox, Box, Outlook, Gmail, Google…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Connectors in beta for deep research (Plus, Pro, Team, Enterprise, Edu): Supported connectors: Google Drive, SharePoint, Dropbox, Box, Outlook, Gmail, Google Calendar, Linear, GitHub, HubSpot, and Teams

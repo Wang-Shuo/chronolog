@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0ca95065231dea34bd55f24b8671e22ef379541e8f4c8169d6d3e125506c921b
+machine_hash: e09eda5fa1e160d59897e9384fb922a5a724441189052ccf48bdbb09655f12d0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,7 +34,7 @@ record:
       Tap your profile icon at the bottom, go to Personalization, then select Color
       Scheme to pick your accent color.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -61,8 +61,7 @@ record:
     - personalization
     score: 50
     theme: memory
-  title: You can now set an accent color that applies to elements in ChatGPT, including
-    y
+  title: Set an accent color that applies to elements in ChatGPT, including your conversation…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-05-06-we-ve-removed-the-row-of-individual-tool-icons-from-the-mobile-composer-and-repl-a7377a|chatgpt-2025-05-06-a7377a]]'
@@ -71,12 +70,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-07-accent-colors-d6573a1d|chatgpt-2025-08-07-accent-colors-d6573a1d]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: You can now set an accent color that applies to elements in ChatGPT, including
-  y
+title: Set an accent color that applies to elements in ChatGPT, including your conversation…
 type: change
 ---
 
-# You can now set an accent color that applies to elements in ChatGPT, including y
+# Set an accent color that applies to elements in ChatGPT, including your conversation…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Accent Colors: You can now set an accent color that applies to elements in ChatGPT, including your conversation bubbles, the Voice button, and highlighted text.On web: Click your profile icon at the bottom left, select Settings, go to the General tab, and choose an option from the Accent color drop-down.On mobile (iOS and Android): Tap your profile icon at the bottom, go to Personalization, then select Color Scheme to pick your accent color.

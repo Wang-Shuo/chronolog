@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 249fb9214951146809460d66693d6c0b884977ba2ef6ab1591a385234068b371
+machine_hash: 378e5f85fb85f7acda74bc9413de20a59d0038a24e56a6f8b62c30a728b01ef2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -37,7 +37,7 @@ record:
       always show up in benchmarks, but shape whether ChatGPT feels helpful or frustrating.
       GPT‑5.3 Instant directly reflects user feedback in these areas.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -45,7 +45,7 @@ record:
   source_release: chatgpt-2026-03-03-gpt-5-3-instant-update-a32de9bf
   source_type: chatgpt_changelog
   theme: model-support
-  title: GPT‑5.3 Instant delivers more accurate answers, richer and better-contextualized
+  title: GPT‑5.3 Instant delivers more accurate answers, richer and better-contextualized…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-02-13-as-previously-announced-we-have-retired-gpt-4o-gpt-4-1-gpt-4-1-mini-and-openai-o|chatgpt-2026-02-13-7c0173]]'
@@ -54,11 +54,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-03-gpt-5-3-instant-update-a32de9bf|chatgpt-2026-03-03-gpt-5-3-instant-update-a32de9bf]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: GPT‑5.3 Instant delivers more accurate answers, richer and better-contextualized
+title: GPT‑5.3 Instant delivers more accurate answers, richer and better-contextualized…
 type: change
 ---
 
-# GPT‑5.3 Instant delivers more accurate answers, richer and better-contextualized
+# GPT‑5.3 Instant delivers more accurate answers, richer and better-contextualized…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — GPT-5.3 Instant Update: GPT‑5.3 Instant delivers more accurate answers, richer and better-contextualized results when searching the web, and reduces unnecessary dead ends, caveats, and overly declarative phrasing that can interrupt the flow of conversation.This update focuses on the parts of the ChatGPT experience people feel every day: tone, relevance, and conversational flow. These are nuanced problems that don’t always show up in benchmarks, but shape whether ChatGPT feels helpful or frustrating. GPT‑5.3 Instant directly reflects user feedback in these areas.

@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 084d378233fa82fd9ecf691ddf111535fbe6fee8a08b40a06f772b73773ac72b
+machine_hash: 0cee60182ccc98e353cd8eb350015ba7e82359e7376f0d785a41f991b547db2a
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
       to highlight when it's blocking. Rejecting auto-focuses the input so you can
       respond immediately.
     source_release: https://cursor.com/changelog/1-5
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,8 +37,7 @@ record:
   source_release: cursor-2025-08-21-1-5-https-cursor-com-changelog-1-5-f93efb89
   source_type: cursor_changelog
   theme: developer-workflow
-  title: The terminal now opens on the left with a clear backdrop and border animation
-    to
+  title: The terminal now opens on the left with a clear backdrop and border animation…
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-12-17-agent-sees-terminal-exit-codes-can-run-commands-in-the-background-and-commands-a|cursor-2024-12-17-97cd1c]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-08-21-1-5-https-cursor-com-changelog-1-5-f93efb89|cursor-2025-08-21-1-5-https-cursor-com-changelog-1-5-f93efb89]]'
 source_type: cursor_changelog
 theme: developer-workflow
-title: The terminal now opens on the left with a clear backdrop and border animation
-  to
+title: The terminal now opens on the left with a clear backdrop and border animation…
 type: change
 ---
 
-# The terminal now opens on the left with a clear backdrop and border animation to
+# The terminal now opens on the left with a clear backdrop and border animation…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Linear integration, improved Agent terminal, and OS notifications: The terminal now opens on the left with a clear backdrop and border animation to highlight when it's blocking. Rejecting auto-focuses the input so you can respond immediately.

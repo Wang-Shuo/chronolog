@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: e4fe074bad697befc3edccfbbad498e0d660442c762553eb5c57490de6e289eb
+machine_hash: cab919779ad7a4d48ffefc590887a5b66d6b0b118a481d7330eb8478954b7ddf
 product: cursor
 product_name: Cursor
 record:
@@ -30,7 +30,7 @@ record:
       the entire working area. This replaces the agent chat with a floating prompt
       bar.
     source_release: https://cursor.com/changelog/3-4
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -39,7 +39,7 @@ record:
   source_type: cursor_changelog
   theme: agent-mode
   title: Files, changes, canvases, PRs, browsers, and terminals can expand to fill
-    the en
+    the entire…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-12-updated-agent-color-palette|claude-code-2026-05-12-443dac]]'
@@ -49,11 +49,11 @@ source_release: '[[Releases/Cursor/cursor-2026-05-13-3-4-https-cursor-com-change
 source_type: cursor_changelog
 theme: agent-mode
 title: Files, changes, canvases, PRs, browsers, and terminals can expand to fill the
-  en
+  entire…
 type: change
 ---
 
-# Files, changes, canvases, PRs, browsers, and terminals can expand to fill the en
+# Files, changes, canvases, PRs, browsers, and terminals can expand to fill the entire…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Full-screen Tabs and Compact Chats: Files, changes, canvases, PRs, browsers, and terminals can expand to fill the entire working area. This replaces the agent chat with a floating prompt bar.

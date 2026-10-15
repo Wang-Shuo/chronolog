@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-05-07'
-machine_hash: a9fc4a4d0ff578c5a2cf61830ae19c15b9037ae53528246df8cea79855b1f647
+machine_hash: 88a719b158fbc7dba53e9513065bfecd1d39c98e78922bc8b58a5ce9fb9790f4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- safety-privacy: [[Changes/ChatGPT/2026-05-07-over-the-coming-weeks-we-ll-be-rolling-out-trusted-contact-an-optional-safety-fe|Over the coming weeks, we'll be rolling out trusted contact, an optional safety]]
+- safety-privacy: [[Changes/ChatGPT/2026-05-07-over-the-coming-weeks-we-ll-be-rolling-out-trusted-contact-an-optional-safety-fe|Over the coming weeks, we'll be rolling out trusted contact, an optional safety…]]
 <!-- chronolog:end -->

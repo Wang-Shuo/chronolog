@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-11-24'
-machine_hash: 09cb6811fc30271c4c66d4e240102a2c03e55262070afdd843eeb29a4f38b8ab
+machine_hash: 9f5b2ce7eca10fbe2b440223c10e8cbf263d3ebb64c74f352263bd24d9a17536
 product: cursor
 product_name: Cursor
 record:
@@ -39,5 +39,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- context-window: [[Changes/Cursor/2023-11-24-you-can-now-folder-in-the-chat-to-chat-with-a-folder-let-us-know-what-you-think|You can now @folder in the chat to chat with a folder. Let us know what you thin]]
+- context-window: [[Changes/Cursor/2023-11-24-you-can-now-folder-in-the-chat-to-chat-with-a-folder-let-us-know-what-you-think|@folder in the chat to chat with a folder]]
 <!-- chronolog:end -->

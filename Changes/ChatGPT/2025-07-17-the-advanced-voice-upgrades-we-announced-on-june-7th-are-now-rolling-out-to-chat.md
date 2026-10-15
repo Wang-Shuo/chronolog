@@ -11,9 +11,9 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1f75c144f4a12c01cbcefef55ab1a0e295e0703a038f95e6112c5441dceb40a0
+machine_hash: 493fd7d170d46c585fdfb23e3841601e8b093349926f3941dd6a82c053a68140
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       ChatGPT sounds more natural and expressive, and can translate more effectively.
       Rate limits for free users stay the same.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -40,7 +40,7 @@ record:
   source_type: chatgpt_changelog
   theme: voice
   title: The Advanced Voice upgrades we announced on June 7th are now rolling out
-    to Chat
+    to ChatGPT…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-06-18-chatgpt-will-transcribe-summarize-and-turn-them-into-helpful-outputs-like-follow|chatgpt-2025-06-18-65ad93]]'
@@ -50,11 +50,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2025-07-17-updates-to-advanced-voice
 source_type: chatgpt_changelog
 theme: voice
 title: The Advanced Voice upgrades we announced on June 7th are now rolling out to
-  Chat
+  ChatGPT…
 type: change
 ---
 
-# The Advanced Voice upgrades we announced on June 7th are now rolling out to Chat
+# The Advanced Voice upgrades we announced on June 7th are now rolling out to ChatGPT…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Updates to Advanced Voice Mode for Free tier users: The Advanced Voice upgrades we announced on June 7th are now rolling out to ChatGPT free users too. With the same improvements available to paid users, ChatGPT sounds more natural and expressive, and can translate more effectively. Rate limits for free users stay the same.

@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8d95c1b457fada51bdf227332ccb582f64dae74ad1af6107d081c4ddd1ebda25
+machine_hash: 1ba4189dcc0972e564b20dfa8429ab8c5e51766e0b5bbccaa7ea812709199c55
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       `CLAUDE_CODE_SUBPROCESS_ENV_SCRUB` is set, and `CLAUDE_CODE_SCRIPT_CAPS` env
       var to limit per-session script invocations
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.98
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,7 +38,7 @@ record:
   theme: safety-privacy
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Added subprocess sandboxing with PID namespace isolation on Linux when `CLAUDE_C
+  title: Added subprocess sandboxing with PID namespace isolation on Linux…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-01-hardened-powershell-tool-permission-checks-fixed-trailing-background-job-bypass|claude-code-2026-04-01-69c505]]'
@@ -47,11 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-09-v2-1-98-github-307232194-a0774436|claude-code-2026-04-09-v2-1-98-github-307232194-a0774436]]'
 source_type: github_releases
 theme: safety-privacy
-title: Added subprocess sandboxing with PID namespace isolation on Linux when CLAUDE_C
+title: Added subprocess sandboxing with PID namespace isolation on Linux…
 type: change
 ---
 
-# Added subprocess sandboxing with PID namespace isolation on Linux when `CLAUDE_C
+# Added subprocess sandboxing with PID namespace isolation on Linux…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.98: Added subprocess sandboxing with PID namespace isolation on Linux when `CLAUDE_CODE_SUBPROCESS_ENV_SCRUB` is set, and `CLAUDE_CODE_SCRIPT_CAPS` env var to limit per-session script invocations

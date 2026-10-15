@@ -11,9 +11,9 @@ diffusion:
   theme: enterprise-admin
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f423e0b67ef3cebb62534907986336cda0a7d9f7a7a9a2a2fd42937aa415f1fd
+machine_hash: 9307c90e4f0324080d53c0524b06ad95fb3d6d122a20ce90ebfc15c653cc0099
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: '`--from-pr` now accepts GitLab merge-request, Bitbucket pull-request,
       and GitHub Enterprise PR URLs'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.119
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -45,7 +45,7 @@ record:
     theme: enterprise-admin
   theme_resolution: manual-semantic-rule-v1
   title: '`--from-pr` now accepts GitLab merge-request, Bitbucket pull-request, and
-    GitHub'
+    GitHub…'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-07-changed-default-effort-level-from-medium-to-high-for-api-key-bedrock-vertex-foun|claude-code-2026-04-07-ff50d2]]'
@@ -54,11 +54,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-23-v2-1-119-github-312949780-573724e7|claude-code-2026-04-23-v2-1-119-github-312949780-573724e7]]'
 source_type: github_releases
 theme: enterprise-admin
-title: --from-pr now accepts GitLab merge-request, Bitbucket pull-request, and GitHub
+title: --from-pr now accepts GitLab merge-request, Bitbucket pull-request, and GitHub…
 type: change
 ---
 
-# `--from-pr` now accepts GitLab merge-request, Bitbucket pull-request, and GitHub
+# `--from-pr` now accepts GitLab merge-request, Bitbucket pull-request, and GitHub…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.119: `--from-pr` now accepts GitLab merge-request, Bitbucket pull-request, and GitHub Enterprise PR URLs

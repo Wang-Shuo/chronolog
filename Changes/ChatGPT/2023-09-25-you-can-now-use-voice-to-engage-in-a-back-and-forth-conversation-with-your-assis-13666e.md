@@ -11,9 +11,9 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: de230d827d627fff6b3fc7ba9b26eeaac73612e37f2609fd43f8787f097af165
+machine_hash: eec8fcd80d66067ce74d57a0707896bb675384722cb91f6d345f93c59088f5c8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -37,7 +37,7 @@ record:
       located in the top-right corner of the home screen and choose your preferred
       voice out of five different voices.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -54,18 +54,16 @@ record:
     - mobile
     score: 50
     theme: mobile-desktop
-  title: You can now use voice to engage in a back-and-forth conversation with your
-    assis
+  title: Use voice to engage in a back-and-forth conversation with your assistant
   type: change
 source_release: '[[Releases/ChatGPT/chatgpt-2023-09-25-new-voice-and-image-capabilities-in-chatgpt-e8c88ec7|chatgpt-2023-09-25-new-voice-and-image-capabilities-in-chatgpt-e8c88ec7]]'
 source_type: chatgpt_changelog
 theme: voice
-title: You can now use voice to engage in a back-and-forth conversation with your
-  assis
+title: Use voice to engage in a back-and-forth conversation with your assistant
 type: change
 ---
 
-# You can now use voice to engage in a back-and-forth conversation with your assis
+# Use voice to engage in a back-and-forth conversation with your assistant
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — New voice and image capabilities in ChatGPT: You can now use voice to engage in a back-and-forth conversation with your assistant. Speak with it on the go, request a bedtime story, or settle a dinner table debate.To get started with voice, head to Settings → New Features on the mobile app and opt into voice conversations. Then, tap the headphone button located in the top-right corner of the home screen and choose your preferred voice out of five different voices.

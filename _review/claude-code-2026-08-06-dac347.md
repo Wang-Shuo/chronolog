@@ -1,6 +1,6 @@
 ---
 draft: true
-machine_hash: 4d156edf8a41a620dd3d1554de5b56828d25f55bc1c99dcbcf133e6e84abb3b7
+machine_hash: 49bfa655b92026ad47717b070cb34a39b199f66cb9dc6f961ad002a80d7147a4
 product: claude-code
 record:
   card_id: claude-code-2026-08-06-dac347
@@ -14,7 +14,7 @@ record:
       and `blockedMarketplaces` managed settings for allowing or blocking all marketplace
       repos under a GitHub org
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.223
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -25,8 +25,7 @@ record:
   theme_matches: []
   theme_review_reason: no_match
   theme_suggestion: added-owner-wildcard
-  title: Added owner wildcard entries (`"owner/*"`) to the `strictKnownMarketplaces`
-    and
+  title: Added owner wildcard entries (`"owner/*"`) to the `strictKnownMarketplaces`…
   type: change
 ---
 

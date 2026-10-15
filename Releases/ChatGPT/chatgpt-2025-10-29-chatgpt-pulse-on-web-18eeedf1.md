@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-10-29'
-machine_hash: 03a66c260b73f97c38d6bd16df980694839ea1b6a3fd9a01a4c16fe6f4ecbaf0
+machine_hash: e25c44973795e7e37a5747ef9305d3a949b16fecdc7d48610a9da6830b408c3c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- memory: [[Changes/ChatGPT/2025-10-29-chatgpt-pulse-is-now-available-on-web-and-rolling-out-to-atlas-for-pro-users-wit|ChatGPT Pulse is now available on web and rolling out to Atlas for Pro users.Wit]]
+- memory: [[Changes/ChatGPT/2025-10-29-chatgpt-pulse-is-now-available-on-web-and-rolling-out-to-atlas-for-pro-users-wit|ChatGPT Pulse is now available on web and rolling out to Atlas for Pro users]]
 <!-- chronolog:end -->

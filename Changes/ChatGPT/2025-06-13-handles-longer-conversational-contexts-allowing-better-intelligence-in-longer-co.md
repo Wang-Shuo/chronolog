@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 40262b157a37b111961208e627d3439e08031d354a2b32cb6433ceb443f3a0f8
+machine_hash: 722fb27cca6c3986b357ac1136733f4d8134bde354845e87aed867f0ae4c4c29
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Handles longer conversational contexts, allowing better intelligence in
       longer conversations.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -36,8 +36,7 @@ record:
   theme: model-support
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Handles longer conversational contexts, allowing better intelligence in longer
-    c
+  title: Handles longer conversational contexts, allowing better intelligence in longer…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-06-12-gpts-without-custom-actions-can-use-the-model-picker-to-select-from-all-models-a|chatgpt-2025-06-12-acceca]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-13-improvements-to-the-chatgpt-search-response-quality-2791e464|chatgpt-2025-06-13-improvements-to-the-chatgpt-search-response-quality-2791e464]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: Handles longer conversational contexts, allowing better intelligence in longer
-  c
+title: Handles longer conversational contexts, allowing better intelligence in longer…
 type: change
 ---
 
-# Handles longer conversational contexts, allowing better intelligence in longer c
+# Handles longer conversational contexts, allowing better intelligence in longer…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Improvements to the ChatGPT search response quality: Handles longer conversational contexts, allowing better intelligence in longer conversations.

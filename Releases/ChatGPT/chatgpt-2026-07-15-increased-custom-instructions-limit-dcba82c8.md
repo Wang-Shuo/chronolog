@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-07-15'
-machine_hash: 0a8115d8c39330fc43893f3538605fa8c31443a61e41d96a7f1c9e485fdd5fa0
+machine_hash: b3a916beb920f96e54e6697edc78ce819e581979a8d5963515982d07ce961c04
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- enterprise-admin: [[Changes/ChatGPT/2026-07-15-we-re-increasing-the-character-limit-for-custom-instructions-in-chatgpt-plus-pro|We’re increasing the character limit for custom instructions in ChatGPT. Plus, P]]
+- enterprise-admin: [[Changes/ChatGPT/2026-07-15-we-re-increasing-the-character-limit-for-custom-instructions-in-chatgpt-plus-pro|We’re increasing the character limit for custom instructions in ChatGPT]]
 <!-- chronolog:end -->

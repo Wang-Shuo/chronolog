@@ -11,9 +11,9 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 89f49b414a50ba647a3ec9ea61cc372bca28d6190c90b6d1a2dc19e4e6e4a41d
+machine_hash: 434ffc5bb44b5a6e09c820697eb044b4b10440df51b94abd7a7a2f28bd6b30d9
 product: cursor
 product_name: Cursor
 record:
@@ -35,7 +35,7 @@ record:
       multi-root workspace support, and enhanced chat features including export and
       duplication.
     source_release: https://cursor.com/changelog/0-50
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -70,8 +70,7 @@ record:
     score: 50
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v2
-  title: Introducing unified request-based pricing, Max Mode for all top models, and
-    Back
+  title: Introducing unified request-based pricing, Max Mode for all top models…
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-03-23-chat-will-now-display-a-notification-about-usage-based-pricing-when-approaching|cursor-2025-03-23-5bd0f7]]'
@@ -80,12 +79,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998|cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998]]'
 source_type: cursor_changelog
 theme: pricing-model
-title: Introducing unified request-based pricing, Max Mode for all top models, and
-  Back
+title: Introducing unified request-based pricing, Max Mode for all top models…
 type: change
 ---
 
-# Introducing unified request-based pricing, Max Mode for all top models, and Back
+# Introducing unified request-based pricing, Max Mode for all top models…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Simplified Pricing, Background Agent and Refreshed Inline Edit: Introducing unified request-based pricing, Max Mode for all top models, and Background Agent for parallel task execution. Plus, improved context management with @folders support, refreshed Inline Edit with new options, faster file edits, multi-root workspace support, and enhanced chat features including export and duplication.

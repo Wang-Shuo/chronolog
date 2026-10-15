@@ -11,9 +11,9 @@ diffusion:
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: fd50bdfe851785b555c3c079be5db0e67bbff54bfff616c5a170128540036a3f
+machine_hash: 29a02f85fb4ddb5dd5f29f489bc29c8e72aed4b165215f9d291265a0383dcca3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       with you; Shared Drives aren’t included yet. Some Google Drive editing and collaboration
       features aren’t yet available in ChatGPT.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -38,7 +38,7 @@ record:
   source_type: chatgpt_changelog
   theme: collaboration
   title: The initial experience includes My Drive and files and folders shared directly
-    w
+    with you
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-06-30-team-marketplaces-now-support-organization-groups-in-addition-to-team-level-scim|cursor-2026-06-30-509bdf]]'
@@ -48,11 +48,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-08-13-google-drive-is-now-in-li
 source_type: chatgpt_changelog
 theme: collaboration
 title: The initial experience includes My Drive and files and folders shared directly
-  w
+  with you
 type: change
 ---
 
-# The initial experience includes My Drive and files and folders shared directly w
+# The initial experience includes My Drive and files and folders shared directly with you
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Google Drive is now in Library: The initial experience includes My Drive and files and folders shared directly with you; Shared Drives aren’t included yet. Some Google Drive editing and collaboration features aren’t yet available in ChatGPT.

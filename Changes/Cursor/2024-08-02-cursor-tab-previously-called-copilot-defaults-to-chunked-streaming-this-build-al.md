@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 55f45b85443e7a1f3683440437a59000a4afd925514ce5ed9bf2a3b2e35ceb96
+machine_hash: 57902655b2cd0a285552a39fafaaeb4cfdafae85782069db3477043d5f6bb8a0
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
       This build also includes several Cursor Tab speedups. More to come in future
       builds!
     source_release: https://cursor.com/changelog/0-39-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -36,8 +36,7 @@ record:
   source_release: cursor-2024-08-02-0-39-x-https-cursor-com-changelog-0-39-x-db22c405
   source_type: cursor_changelog
   theme: editor-experience
-  title: Cursor Tab (previously called Copilot++) defaults to chunked streaming. This
-    bui
+  title: Cursor Tab (previously called Copilot++) defaults to chunked streaming
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-06-08-default-on-cursor-prediction-with-a-new-ui|cursor-2024-06-08-0e96d1]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-08-02-0-39-x-https-cursor-com-changelog-0-39-x-db22c405|cursor-2024-08-02-0-39-x-https-cursor-com-changelog-0-39-x-db22c405]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: Cursor Tab (previously called Copilot++) defaults to chunked streaming. This
-  bui
+title: Cursor Tab (previously called Copilot++) defaults to chunked streaming
 type: change
 ---
 
-# Cursor Tab (previously called Copilot++) defaults to chunked streaming. This bui
+# Cursor Tab (previously called Copilot++) defaults to chunked streaming
 
 <!-- chronolog:begin region="description" -->
 Cursor — Faster Cursor Tab, More Composer improvements: Cursor Tab (previously called Copilot++) defaults to chunked streaming. This build also includes several Cursor Tab speedups. More to come in future builds!

@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6ef280b4cbeec7e5328919d5fd1e4c7af7237a09c69762eb0a3948efbb619114
+machine_hash: 6c5fee7813f63a30f6ed06a0a3a672492ab7fac643f6f38de5a24677a449c5f9
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       after the review, surfacing reuse, simplification, and efficiency suggestions;
       `/simplify` now invokes `/code-review --fix`'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.152
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   source_release: claude-code-2026-05-27-v2-1-152-github-329718732-e62ea850
   source_type: github_releases
   theme: developer-workflow
-  title: '`/code-review --fix` now applies review findings to your working tree after
-    the'
+  title: '`/code-review --fix` now applies review findings to your working tree after…'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-15-added-worktree-bgisolation-none-setting-to-let-background-sessions-edit-the-work|claude-code-2026-05-15-85301e]]'
@@ -46,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-27-v2-1-152-github-329718732-e62ea850|claude-code-2026-05-27-v2-1-152-github-329718732-e62ea850]]'
 source_type: github_releases
 theme: developer-workflow
-title: /code-review --fix now applies review findings to your working tree after the
+title: /code-review --fix now applies review findings to your working tree after…
 type: change
 ---
 
-# `/code-review --fix` now applies review findings to your working tree after the
+# `/code-review --fix` now applies review findings to your working tree after…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.152: `/code-review --fix` now applies review findings to your working tree after the review, surfacing reuse, simplification, and efficiency suggestions; `/simplify` now invokes `/code-review --fix`

@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4dc034429242232ae73266396024a49e469185fbef923df2eee9e1e8cb1035c9
+machine_hash: a156efe1fd15627b505ff8e2c09f1b34e18f12bce2711815290ee92e456436f4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: You can turn off memory anytime in settings. Learn more in our Memory FAQ.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -33,7 +33,7 @@ record:
   source_release: chatgpt-2025-06-03-memory-is-now-more-comprehensive-for-free-users-32de8dd3
   source_type: chatgpt_changelog
   theme: memory
-  title: You can turn off memory anytime in settings. Learn more in our Memory FAQ.
+  title: You can turn off memory anytime in settings
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-04-16-chatgpt-can-also-use-memories-to-inform-search-queries-when-chatgpt-searches-the|chatgpt-2025-04-16-c95e51]]'
@@ -42,11 +42,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-03-memory-is-now-more-comprehensive-for-free-users-32de8dd3|chatgpt-2025-06-03-memory-is-now-more-comprehensive-for-free-users-32de8dd3]]'
 source_type: chatgpt_changelog
 theme: memory
-title: You can turn off memory anytime in settings. Learn more in our Memory FAQ.
+title: You can turn off memory anytime in settings
 type: change
 ---
 
-# You can turn off memory anytime in settings. Learn more in our Memory FAQ.
+# You can turn off memory anytime in settings
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Memory is now more comprehensive for Free users: You can turn off memory anytime in settings. Learn more in our Memory FAQ.

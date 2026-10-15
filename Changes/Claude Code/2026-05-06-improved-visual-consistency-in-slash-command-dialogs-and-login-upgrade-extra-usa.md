@@ -11,9 +11,9 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: db46aac4371089b6a5fb00e6055e75911583aa46c14d335ba90cbee11f9f90da
+machine_hash: d9d25181f87e1c4f583999d56ef4b22bc3803e9ed3021ce08467b2621c6d1486
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Improved visual consistency in slash command dialogs and `/login`, `/upgrade`,
       `/extra-usage` dialog spacing
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.132
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -34,8 +34,7 @@ record:
   source_release: claude-code-2026-05-06-v2-1-132-github-318578987-ed60d664
   source_type: github_releases
   theme: account-access
-  title: Improved visual consistency in slash command dialogs and `/login`, `/upgrade`,
-    `
+  title: Improved visual consistency in slash command dialogs and `/login`, `/upgrade`…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-01-claude-auth-login-now-accepts-the-oauth-code-pasted-into-the-terminal-when-the-b|claude-code-2026-05-01-a5bb2e]]'
@@ -44,11 +43,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-06-v2-1-132-github-318578987-ed60d664|claude-code-2026-05-06-v2-1-132-github-318578987-ed60d664]]'
 source_type: github_releases
 theme: account-access
-title: 'Improved visual consistency in slash command dialogs and /login, /upgrade, '
+title: Improved visual consistency in slash command dialogs and /login, /upgrade…
 type: change
 ---
 
-# Improved visual consistency in slash command dialogs and `/login`, `/upgrade`, `
+# Improved visual consistency in slash command dialogs and `/login`, `/upgrade`…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.132: Improved visual consistency in slash command dialogs and `/login`, `/upgrade`, `/extra-usage` dialog spacing

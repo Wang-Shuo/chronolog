@@ -11,9 +11,9 @@ diffusion:
   theme: automation-scheduling
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6ac7221e10de230f1f15a72323b096e57bcc9586f5feb7dc6acb900a4333f87a
+machine_hash: 0ffcb770ff291d10634b1335a0bc6e5ae24c2b9056aa5a407d046ed15c2b18af
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added timestamp markers in transcripts when scheduled tasks (`/loop`, `CronCreate`)
       fire
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.85
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -34,7 +34,8 @@ record:
   source_release: claude-code-2026-03-26-v2-1-85-github-302129484-6eb9dcd7
   source_type: github_releases
   theme: automation-scheduling
-  title: Added timestamp markers in transcripts when scheduled tasks (`/loop`, `CronCreat
+  title: Added timestamp markers in transcripts when scheduled tasks (`/loop`, `CronCreate`)
+    fire
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-07-added-cron-scheduling-tools-for-recurring-prompts-within-a-session|claude-code-2026-03-07-0243fb]]'
@@ -43,11 +44,12 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-26-v2-1-85-github-302129484-6eb9dcd7|claude-code-2026-03-26-v2-1-85-github-302129484-6eb9dcd7]]'
 source_type: github_releases
 theme: automation-scheduling
-title: Added timestamp markers in transcripts when scheduled tasks (/loop, CronCreat
+title: Added timestamp markers in transcripts when scheduled tasks (/loop, CronCreate)
+  fire
 type: change
 ---
 
-# Added timestamp markers in transcripts when scheduled tasks (`/loop`, `CronCreat
+# Added timestamp markers in transcripts when scheduled tasks (`/loop`, `CronCreate`) fire
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.85: Added timestamp markers in transcripts when scheduled tasks (`/loop`, `CronCreate`) fire

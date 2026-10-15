@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 76ee38c85822c89bc021cb4c185eb84563c508da2ebbf09ea344221cf735accc
+machine_hash: 8845df7d8e40a61e534c2ccaee841e8416f5940f5264bd016984112dba42c69c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       with available details such as device, app, approximate location, sign-in time,
       trusted-device status, and whether it is the current session
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -47,8 +47,7 @@ record:
     score: 50
     theme: safety-privacy
   theme_resolution: manual-semantic-rule-v1
-  title: Review first-party OpenAI sessions from Settings > Security > Active sessions,
-    w
+  title: Review first-party OpenAI sessions from Settings > Security > Active sessions…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-15-powershell-tool-now-passes-executionpolicy-bypass-opt-out-with-claude-code-power|claude-code-2026-05-15-e48e4c]]'
@@ -57,12 +56,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-02-active-account-session-controls-0830d01c|chatgpt-2026-06-02-active-account-session-controls-0830d01c]]'
 source_type: chatgpt_changelog
 theme: safety-privacy
-title: Review first-party OpenAI sessions from Settings  Security  Active sessions,
-  w
+title: Review first-party OpenAI sessions from Settings  Security  Active sessions…
 type: change
 ---
 
-# Review first-party OpenAI sessions from Settings > Security > Active sessions, w
+# Review first-party OpenAI sessions from Settings > Security > Active sessions…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Active account session controls: Review first-party OpenAI sessions from Settings > Security > Active sessions, with available details such as device, app, approximate location, sign-in time, trusted-device status, and whether it is the current session

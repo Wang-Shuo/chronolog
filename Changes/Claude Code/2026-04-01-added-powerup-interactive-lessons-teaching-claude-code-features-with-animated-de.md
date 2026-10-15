@@ -11,9 +11,9 @@ diffusion:
   theme: learning-tools
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 412f0f4bdab7dc60d494c8c59b7e85667e48f351638deba7cd9402e6a94c569c
+machine_hash: 2cd6839f992dfb8d3af53224b3de89e80c20347f61f3c1dd3e00321b871a0b9c
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `/powerup` — interactive lessons teaching Claude Code features with
       animated demos
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.90
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: Added `/powerup` — interactive lessons teaching Claude Code features with
-    animat
+    animated demos
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-07-29-break-concepts-into-easy-to-follow-sections-starting-simple-and-adding-complexit|chatgpt-2025-07-29-37b667]]'
@@ -46,11 +46,12 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-01-v2-1-90-github-304453197-996aad1b|claude-code-2026-04-01-v2-1-90-github-304453197-996aad1b]]'
 source_type: github_releases
 theme: learning-tools
-title: Added /powerup — interactive lessons teaching Claude Code features with animat
+title: Added /powerup — interactive lessons teaching Claude Code features with animated
+  demos
 type: change
 ---
 
-# Added `/powerup` — interactive lessons teaching Claude Code features with animat
+# Added `/powerup` — interactive lessons teaching Claude Code features with animated demos
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.90: Added `/powerup` — interactive lessons teaching Claude Code features with animated demos

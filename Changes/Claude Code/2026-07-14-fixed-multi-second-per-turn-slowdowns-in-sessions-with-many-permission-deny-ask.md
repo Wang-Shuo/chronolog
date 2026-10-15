@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a6c965d8eb5093c8d3c5caedb7322419bccf457bc8164c8e72427248ab34db7c
+machine_hash: 3195caa915b1d54b71cbe7870401d38c9da51bf10c9ed288ccf06382ca70b7bb
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Fixed multi-second per-turn slowdowns in sessions with many permission
       deny/ask rules — rule matchers are now compiled once and cached
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.208
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,6 +38,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: Fixed multi-second per-turn slowdowns in sessions with many permission deny/ask
+    rules
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-11-fixed-compound-commands-with-cd-prompting-for-permission-when-the-only-output-re|claude-code-2026-07-11-4ef412]]'
@@ -47,10 +48,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-07-14-v2-1-208-github-3
 source_type: github_releases
 theme: safety-privacy
 title: Fixed multi-second per-turn slowdowns in sessions with many permission deny/ask
+  rules
 type: change
 ---
 
-# Fixed multi-second per-turn slowdowns in sessions with many permission deny/ask
+# Fixed multi-second per-turn slowdowns in sessions with many permission deny/ask rules
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.208: Fixed multi-second per-turn slowdowns in sessions with many permission deny/ask rules — rule matchers are now compiled once and cached

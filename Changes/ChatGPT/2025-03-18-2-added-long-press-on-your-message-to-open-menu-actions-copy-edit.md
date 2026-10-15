@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 471e9e835f644633b0074b6716273de02ce3dfaea1d2e31ce0e4a0f7ddc08ab6
+machine_hash: 75f07b4203e761a9e4d5eb524443686290d9a1e4d8f07b8adf0b9f294864df87
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: '2⁠. Added long press on your message to open menu actions: Copy, Edit.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -33,7 +33,7 @@ record:
   source_release: chatgpt-2025-03-18-ios-app-6a42bb0f
   source_type: chatgpt_changelog
   theme: interface-experience
-  title: '2⁠. Added long press on your message to open menu actions: Copy, Edit.'
+  title: 'Added long press on your message to open menu actions: Copy, Edit'
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2024-11-22-recent-conversations-are-now-limited-in-the-sidebar-with-an-unlimited-infinite-s|chatgpt-2024-11-22-e6183f]]'
@@ -42,11 +42,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-03-18-ios-app-6a42bb0f|chatgpt-2025-03-18-ios-app-6a42bb0f]]'
 source_type: chatgpt_changelog
 theme: interface-experience
-title: '2⁠. Added long press on your message to open menu actions: Copy, Edit.'
+title: 'Added long press on your message to open menu actions: Copy, Edit'
 type: change
 ---
 
-# 2⁠. Added long press on your message to open menu actions: Copy, Edit.
+# Added long press on your message to open menu actions: Copy, Edit
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — iOS App: 2⁠. Added long press on your message to open menu actions: Copy, Edit.

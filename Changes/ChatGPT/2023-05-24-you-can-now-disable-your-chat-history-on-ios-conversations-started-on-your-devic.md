@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5986066557b57c34cccf39b653ccf5cecf9ba279a3bb52bbc205ec5eaee6ccee
+machine_hash: bcbf50a590fcb3df0a0e2299734e610375d8d68ffa8bf51abf4812d3afd4fa8c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
       for 30 days. Similar to the functionality on the web, this setting does not
       sync across browsers or devices. Learn more.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -51,8 +51,7 @@ record:
     score: 50
     theme: model-support
   theme_resolution: manual-semantic-rule-v1
-  title: You can now disable your chat history on iOS. Conversations started on your
-    devi
+  title: Disable your chat history on iOS
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]'
@@ -60,12 +59,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2023-05-24-ios-app-available-in-more-countries-shared-links-in-alpha-bing-p-9800ed96|chatgpt-2023-05-24-ios-app-available-in-more-countries-shared-links-in-alpha-bing-p-9800ed96]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: You can now disable your chat history on iOS. Conversations started on your
-  devi
+title: Disable your chat history on iOS
 type: change
 ---
 
-# You can now disable your chat history on iOS. Conversations started on your devi
+# Disable your chat history on iOS
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — iOS app available in more countries, shared links in alpha, Bing Plugin, disable history on iOS: You can now disable your chat history on iOS. Conversations started on your device when chat history is disabled won’t be used to improve our models, won’t appear in your history on your other devices, and will only be stored for 30 days. Similar to the functionality on the web, this setting does not sync across browsers or devices. Learn more.

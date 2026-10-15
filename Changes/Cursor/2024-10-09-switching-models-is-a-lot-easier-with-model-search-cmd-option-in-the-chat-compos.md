@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 27d85f653583a285e026a008d18ab4cb40534967b3f958a3b831eb54ea9ecd1e
+machine_hash: 42fdf9db3146f1c39a834fbd97c45a96e1351088a693bc23d0ed66970ece4405
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
   - quote: Switching models is a lot easier with model search (Cmd-option-/) in the
       chat, composer, and cmd-k input boxes.
     source_release: https://cursor.com/changelog/0-42-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -48,7 +48,7 @@ record:
     score: 60
     theme: editor-experience
   title: Switching models is a lot easier with model search (Cmd-option-/) in the
-    chat, c
+    chat…
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-06-08-update-0-35-1-disables-copilot-partial-accepts-by-default-and-makes-the-keybindi|cursor-2024-06-08-551198]]'
@@ -57,12 +57,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-10-09-0-42-x-https-cursor-com-changelog-0-42-x-71ecd9d1|cursor-2024-10-09-0-42-x-https-cursor-com-changelog-0-42-x-71ecd9d1]]'
 source_type: cursor_changelog
 theme: model-support
-title: Switching models is a lot easier with model search (Cmd-option-/) in the chat,
-  c
+title: Switching models is a lot easier with model search (Cmd-option-/) in the chat…
 type: change
 ---
 
-# Switching models is a lot easier with model search (Cmd-option-/) in the chat, c
+# Switching models is a lot easier with model search (Cmd-option-/) in the chat…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Composer History, @Lint Errors, VS Code 1.93.1: Switching models is a lot easier with model search (Cmd-option-/) in the chat, composer, and cmd-k input boxes.

@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 16c4173f834ef6c4149f3b7e7e30c596973c2dc64fb8a7720132a6ebfd2e8549
+machine_hash: 94d67eb9a12274fe592007d3706d75c34a9ae8360ba5544d2d636947d676b68a
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: '`ListAgents` now marks disconnected Remote Control sessions as `offline`
       and labels your cloud sessions as `cloud`'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.229
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: '`ListAgents` now marks disconnected Remote Control sessions as `offline`
-    and lab'
+    and labels…'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-11-improved-cross-session-messages-the-sender-and-body-now-display-inline-instead-o|claude-code-2026-08-11-08cd3b]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-08-12-v2-1-229-github-369475532-b063933d|claude-code-2026-08-12-v2-1-229-github-369475532-b063933d]]'
 source_type: github_releases
 theme: apps-integrations
-title: ListAgents now marks disconnected Remote Control sessions as offline and lab
+title: ListAgents now marks disconnected Remote Control sessions as offline and labels…
 type: change
 ---
 
-# `ListAgents` now marks disconnected Remote Control sessions as `offline` and lab
+# `ListAgents` now marks disconnected Remote Control sessions as `offline` and labels…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.229: `ListAgents` now marks disconnected Remote Control sessions as `offline` and labels your cloud sessions as `cloud`

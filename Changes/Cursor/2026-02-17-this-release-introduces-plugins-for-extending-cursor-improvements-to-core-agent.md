@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 5a2127493b022c278c1790bfed10a0032dd3794b3946d4c4f7ccfb3d8db41533
+machine_hash: 856ea84de969d7445e4cdf07c47a2f138fc1cb40db6abacd7bcd0a083d459281
 product: cursor
 product_name: Cursor
 record:
@@ -30,7 +30,7 @@ record:
       agent capabilities like subagents, and fine-grained network controls for sandboxed
       commands.
     source_release: https://cursor.com/changelog/2-5
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -48,8 +48,7 @@ record:
     - plugins
     score: 50
     theme: apps-integrations
-  title: This release introduces plugins for extending Cursor, improvements to core
-    agent
+  title: Cursor introduces plugins for extending Cursor, improvements to core agent…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-02-12-cursor-s-long-running-agent-is-now-available-at-cursor-com-agents-for-ultra-team|cursor-2026-02-12-b5e750]]'
@@ -58,12 +57,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320|cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: This release introduces plugins for extending Cursor, improvements to core
-  agent
+title: Cursor introduces plugins for extending Cursor, improvements to core agent…
 type: change
 ---
 
-# This release introduces plugins for extending Cursor, improvements to core agent
+# Cursor introduces plugins for extending Cursor, improvements to core agent…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Plugins, Sandbox Access Controls, and Async Subagents: This release introduces plugins for extending Cursor, improvements to core agent capabilities like subagents, and fine-grained network controls for sandboxed commands.

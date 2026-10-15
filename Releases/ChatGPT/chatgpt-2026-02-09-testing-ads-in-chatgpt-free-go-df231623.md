@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-02-09'
-machine_hash: e6be8f0593d890229af6cb2aea4a2824aa875bba70c7179f7bf4d48cbc6d8246
+machine_hash: e66731d796afc8e731ee288a3e20da0d4835df012cc2fb34a079be8609f92e92
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- memory: [[Changes/ChatGPT/2026-02-09-we-re-beginning-to-roll-out-a-test-for-ads-in-chatgpt-in-the-u-s-for-logged-in-a|We’re beginning to roll out a test for ads in ChatGPT in the U.S. for logged-in]]
+- memory: [[Changes/ChatGPT/2026-02-09-we-re-beginning-to-roll-out-a-test-for-ads-in-chatgpt-in-the-u-s-for-logged-in-a|We’re beginning to roll out a test for ads in ChatGPT in the U.S. for logged-in…]]
 <!-- chronolog:end -->

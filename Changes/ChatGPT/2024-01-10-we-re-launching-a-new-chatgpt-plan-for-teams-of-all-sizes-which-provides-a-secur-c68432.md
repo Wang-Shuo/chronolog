@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 041f7f2cd3f1f760c45ec2e32903b3425e3f65058aa51d8f454f9539ff510b3b
+machine_hash: 469939658c9c4fcf7bcee75c3d9f267ff14bbbd0efddb76f3d81d93a3a94719e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,7 +43,7 @@ record:
       More details on our data privacy practices can be found on our privacy page
       and Trust Portal.You can learn more about the ChatGPT Team plan here.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -79,8 +79,8 @@ record:
     score: 50
     theme: safety-privacy
   theme_resolution: manual-semantic-rule-v2
-  title: We’re launching a new ChatGPT plan for teams of all sizes, which provides
-    a secu
+  title: ChatGPT launches a new ChatGPT plan for teams of all sizes, which provides
+    a secure…
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-06-27-cursor-is-now-based-on-version-1-79-2-of-vscodium-which-comes-with-security-upda|cursor-2023-06-27-59245f]]'
@@ -89,12 +89,12 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2024-01-10-introducing-the-gpt-store-and-chatgpt-team-plan-7f1ed4cd|chatgpt-2024-01-10-introducing-the-gpt-store-and-chatgpt-team-plan-7f1ed4cd]]'
 source_type: chatgpt_changelog
 theme: safety-privacy
-title: We’re launching a new ChatGPT plan for teams of all sizes, which provides a
-  secu
+title: ChatGPT launches a new ChatGPT plan for teams of all sizes, which provides
+  a secure…
 type: change
 ---
 
-# We’re launching a new ChatGPT plan for teams of all sizes, which provides a secu
+# ChatGPT launches a new ChatGPT plan for teams of all sizes, which provides a secure…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Introducing the GPT Store and ChatGPT Team plan: We’re launching a new ChatGPT plan for teams of all sizes, which provides a secure, collaborative workspace to get the most out of ChatGPT at work.ChatGPT Team offers access to our advanced models like GPT-4 and DALL·E 3, and tools like Advanced Data Analysis. It additionally includes a dedicated collaborative workspace for your team and admin tools for team management. As with ChatGPT Enterprise, you own and control your business data — we do not train on your business data or conversations, and our models don’t learn from your usage. More details on our data privacy practices can be found on our privacy page and Trust Portal.You can learn more about the ChatGPT Team plan here.

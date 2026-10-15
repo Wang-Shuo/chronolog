@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 40da7b7f4e65fe9cfd1e705ba2943cf99fc4dd132f7422ecd84ad67666ca934c
+machine_hash: 19a8c46a0f29f6b9359d205364c42a2bed8963f0a5d039fcd4c10c35c72ffe92
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       diffs in Claude Code on the web sessions to use raw git blob content, ignoring
       workspace-configured diff drivers and textconv
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.222
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -39,7 +39,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: Improved the `/diff` view, the Remote Control workspace diff, and file-edit
-    diff
+    diffs…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-08-04-the-plugins-are-available-through-chatgpt-edu-and-chatgpt-for-teachers-district|chatgpt-2026-08-04-38ce38]]'
@@ -48,11 +48,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-08-04-v2-1-222-github-365137491-9ea4d4a2|claude-code-2026-08-04-v2-1-222-github-365137491-9ea4d4a2]]'
 source_type: github_releases
 theme: apps-integrations
-title: Improved the /diff view, the Remote Control workspace diff, and file-edit diff
+title: Improved the /diff view, the Remote Control workspace diff, and file-edit diffs…
 type: change
 ---
 
-# Improved the `/diff` view, the Remote Control workspace diff, and file-edit diff
+# Improved the `/diff` view, the Remote Control workspace diff, and file-edit diffs…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.222: Improved the `/diff` view, the Remote Control workspace diff, and file-edit diffs in Claude Code on the web sessions to use raw git blob content, ignoring workspace-configured diff drivers and textconv

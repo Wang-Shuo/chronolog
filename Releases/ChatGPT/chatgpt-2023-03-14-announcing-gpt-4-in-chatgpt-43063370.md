@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2023-03-14'
-machine_hash: 15d6e803d5b82738a4dd833fde47e51107f4678d2120fe456d5d8ed99d7e7ffb
+machine_hash: a5d1a833d5e61f8cbd257545c928cd656b29467b77c4b8e8cce84c9bcb51b868
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,8 +40,8 @@ Tracked cards: 5
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
 - model-support: [[Changes/ChatGPT/2023-03-14-advanced-reasoning|Advanced reasoning]]
-- model-support: [[Changes/ChatGPT/2023-03-14-to-give-every-plus-subscriber-a-chance-to-try-the-model-we-ll-dynamically-adjust|To give every Plus subscriber a chance to try the model, we'll dynamically adjus]]
+- model-support: [[Changes/ChatGPT/2023-03-14-to-give-every-plus-subscriber-a-chance-to-try-the-model-we-ll-dynamically-adjust|To give every Plus subscriber a chance to try the model, we'll dynamically adjust…]]
 - model-support: [[Changes/ChatGPT/2023-03-14-complex-instructions|Complex instructions]]
 - model-support: [[Changes/ChatGPT/2023-03-14-more-creativity|More creativity]]
-- model-support: [[Changes/ChatGPT/2023-03-14-we-re-excited-to-bring-gpt-4-our-latest-model-to-our-chatgpt-plus-subscribers-gp|We’re excited to bring GPT-4, our latest model, to our ChatGPT Plus subscribers.]]
+- model-support: [[Changes/ChatGPT/2023-03-14-we-re-excited-to-bring-gpt-4-our-latest-model-to-our-chatgpt-plus-subscribers-gp|ChatGPT brings GPT-4, our latest model, to our ChatGPT Plus subscribers]]
 <!-- chronolog:end -->

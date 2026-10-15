@@ -11,9 +11,9 @@ diffusion:
   theme: file-data
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 161bb846d0217b4cfbe082b1cfbf7aef7c37f089bb8253569345c747a346c311
+machine_hash: 9b04c0a381e44f621941605e37bdd0e903f44ba5ad075b36f4897cc25368f8fe
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       managed settings can read the bytes of an image or document attached to the
       prompt
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.299
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,8 +38,7 @@ record:
   theme: file-data
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Added `$.prompt.media` so a `prompt.submit` hook of a mod installed by managed
-    s
+  title: Added `$.prompt.media` so a `prompt.submit` hook of a mod installed by managed…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-08-07-get-answers-that-stay-closer-to-your-documents-chatgpt-makes-better-use-of-infor|chatgpt-2026-08-07-13748d]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-299-github-412217284-623d9162|claude-code-2026-10-14-v2-1-299-github-412217284-623d9162]]'
 source_type: github_releases
 theme: file-data
-title: Added $.prompt.media so a prompt.submit hook of a mod installed by managed
-  s
+title: Added $.prompt.media so a prompt.submit hook of a mod installed by managed…
 type: change
 ---
 
-# Added `$.prompt.media` so a `prompt.submit` hook of a mod installed by managed s
+# Added `$.prompt.media` so a `prompt.submit` hook of a mod installed by managed…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.299: Added `$.prompt.media` so a `prompt.submit` hook of a mod installed by managed settings can read the bytes of an image or document attached to the prompt

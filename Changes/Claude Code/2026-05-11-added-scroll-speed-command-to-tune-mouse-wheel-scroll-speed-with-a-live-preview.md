@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d970fe4fc072c0962ca57ed7de5501376dee2f88c4ae53de27027e9abe032a41
+machine_hash: 830eec13ce9122e96c32f95699a3a3e2c68c53518fb54573f59cb01e6c4c7edc
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `/scroll-speed` command to tune mouse wheel scroll speed with a live
       preview
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.139
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,7 +35,7 @@ record:
   source_type: github_releases
   theme: reliability-performance
   title: Added `/scroll-speed` command to tune mouse wheel scroll speed with a live
-    previ
+    preview
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-10-improved-brief-mode-to-retry-once-when-claude-responds-with-plain-text-instead-o|claude-code-2026-04-10-b7511d]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d|claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d]]'
 source_type: github_releases
 theme: reliability-performance
-title: Added /scroll-speed command to tune mouse wheel scroll speed with a live previ
+title: Added /scroll-speed command to tune mouse wheel scroll speed with a live preview
 type: change
 ---
 
-# Added `/scroll-speed` command to tune mouse wheel scroll speed with a live previ
+# Added `/scroll-speed` command to tune mouse wheel scroll speed with a live preview
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.139: Added `/scroll-speed` command to tune mouse wheel scroll speed with a live preview

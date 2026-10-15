@@ -11,9 +11,9 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 929463c11a53dbfb8ed85358bdeba3948087decfe2cc23ae1405375f535a8e07
+machine_hash: c2a877883de548a2eb58d652e6b95efab83c4199c9eed991bc677fa18d2c8658
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: '`--channels` now works with console (API key) authentication — console
       orgs with managed settings must set `channelsEnabled: true` to enable'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.128
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,8 +35,7 @@ record:
   source_release: claude-code-2026-05-04-v2-1-128-github-317391175-a20e13a2
   source_type: github_releases
   theme: account-access
-  title: '`--channels` now works with console (API key) authentication — console orgs
-    with'
+  title: '`--channels` now works with console (API key) authentication'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-28-clarified-the-mcp-message-shown-when-an-mcp-server-is-still-unauthorized-after-t|claude-code-2026-04-28-77f3f4]]'
@@ -45,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-04-v2-1-128-github-317391175-a20e13a2|claude-code-2026-05-04-v2-1-128-github-317391175-a20e13a2]]'
 source_type: github_releases
 theme: account-access
-title: --channels now works with console (API key) authentication — console orgs with
+title: --channels now works with console (API key) authentication
 type: change
 ---
 
-# `--channels` now works with console (API key) authentication — console orgs with
+# `--channels` now works with console (API key) authentication
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.128: `--channels` now works with console (API key) authentication — console orgs with managed settings must set `channelsEnabled: true` to enable

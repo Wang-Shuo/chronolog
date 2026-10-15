@@ -11,9 +11,9 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 49b09564681a36684fdb85412d5f9ad9623f67e6b25dbbc253e172390f5a2792
+machine_hash: 1709ef28dff5c3764fd100eba3c4ccf37561c606acd790d51122ac7e89a64d71
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       or the month (based on your subscription plan), you can still chat with Santa
       for the first time using advanced voice.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -49,7 +49,7 @@ record:
     score: 50
     theme: pricing-model
   title: The first time you chat with Santa, your advanced voice limit will reset
-    one tim
+    one time
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2024-12-12-video-and-screenshare-in-our-latest-mobile-apps-we-are-starting-to-roll-out-real|chatgpt-2024-12-12-176239]]'
@@ -59,11 +59,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2024-12-12-santa-voice-and-video-and
 source_type: chatgpt_changelog
 theme: voice
 title: The first time you chat with Santa, your advanced voice limit will reset one
-  tim
+  time
 type: change
 ---
 
-# The first time you chat with Santa, your advanced voice limit will reset one tim
+# The first time you chat with Santa, your advanced voice limit will reset one time
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Santa Voice and Video and Screen Share in Voice Chats: The first time you chat with Santa, your advanced voice limit will reset one time. So, if you’ve already used up your advanced voice limit for the day or the month (based on your subscription plan), you can still chat with Santa for the first time using advanced voice.

@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 4d17565d48c1b68c730b24429e3967185198455ca453b9348407611f58616d6b
+machine_hash: d4c59df97f4ba3190b453d03d59f1228a883dc32cd8a023f683277a640cafaa5
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Added support for reading `enabledPlugins` and `extraKnownMarketplaces`
       from `--add-dir` directories
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.45
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -38,8 +38,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Added support for reading `enabledPlugins` and `extraKnownMarketplaces` from
-    `--
+  title: Added support for reading `enabledPlugins` and `extraKnownMarketplaces`…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-30-vscode-enabled-claude-in-chrome-integration|claude-code-2026-01-30-fcf3b6]]'
@@ -48,11 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-02-17-v2-1-45-github-287379410-d0651fb6|claude-code-2026-02-17-v2-1-45-github-287379410-d0651fb6]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added support for reading enabledPlugins and extraKnownMarketplaces from --
+title: Added support for reading enabledPlugins and extraKnownMarketplaces…
 type: change
 ---
 
-# Added support for reading `enabledPlugins` and `extraKnownMarketplaces` from `--
+# Added support for reading `enabledPlugins` and `extraKnownMarketplaces`…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.45: Added support for reading `enabledPlugins` and `extraKnownMarketplaces` from `--add-dir` directories

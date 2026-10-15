@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 92c21d973adf7b788833dbab343a3ce17a01ca88dd20a8de8fe37346fc345fbb
+machine_hash: f53baf25d431937374d1ff1142f09a3e0486f8780967f84f3421d29d934c451e
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Added external editor shortcut (Ctrl+G) to the help menu for better discoverability
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.20
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -43,7 +43,7 @@ record:
     score: 50
     theme: interface-experience
   theme_resolution: manual-semantic-rule-v1
-  title: Added external editor shortcut (Ctrl+G) to the help menu for better discoverabil
+  title: Added external editor shortcut (Ctrl+G) to the help menu for better discoverability
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-01-16-this-release-brings-many-of-the-editor-s-most-loved-features-to-the-cursor-cli-a|cursor-2026-01-16-3bc7ae]]'
@@ -52,11 +52,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-01-27-v2-1-20-github-280123443-38431f59|claude-code-2026-01-27-v2-1-20-github-280123443-38431f59]]'
 source_type: github_releases
 theme: editor-experience
-title: Added external editor shortcut (Ctrl+G) to the help menu for better discoverabil
+title: Added external editor shortcut (Ctrl+G) to the help menu for better discoverability
 type: change
 ---
 
-# Added external editor shortcut (Ctrl+G) to the help menu for better discoverabil
+# Added external editor shortcut (Ctrl+G) to the help menu for better discoverability
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.20: Added external editor shortcut (Ctrl+G) to the help menu for better discoverability

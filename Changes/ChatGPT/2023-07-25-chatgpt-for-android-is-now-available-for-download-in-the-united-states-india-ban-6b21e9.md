@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9876b9e59a681e1cd1ad5ddc92c378996a9943311b8246de8e36ac5ae6077071
+machine_hash: 1a71a1851539d2308e9463819457f0c994bd39c9fe72a299bc544d342eb0849f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       rollout to additional countries over the next week. You can track the Android
       rollout here.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -38,8 +38,7 @@ record:
   source_release: chatgpt-2023-07-25-introducing-the-chatgpt-app-for-android-a5c30ad5
   source_type: chatgpt_changelog
   theme: mobile-desktop
-  title: ChatGPT for Android is now available for download in the United States, India,
-    B
+  title: ChatGPT for Android is now available for download in the United States, India…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-05-24-good-news-we-re-expanding-availability-of-the-chatgpt-app-for-ios-to-more-countr-1a3e7f|chatgpt-2023-05-24-1a3e7f]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2023-07-25-introducing-the-chatgpt-app-for-android-a5c30ad5|chatgpt-2023-07-25-introducing-the-chatgpt-app-for-android-a5c30ad5]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: ChatGPT for Android is now available for download in the United States, India,
-  B
+title: ChatGPT for Android is now available for download in the United States, India…
 type: change
 ---
 
-# ChatGPT for Android is now available for download in the United States, India, B
+# ChatGPT for Android is now available for download in the United States, India…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Introducing the ChatGPT app for Android: ChatGPT for Android is now available for download in the United States, India, Bangladesh, and Brazil from the Google Play Store.We plan to expand the rollout to additional countries over the next week. You can track the Android rollout here.

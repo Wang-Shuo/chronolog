@@ -11,9 +11,9 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: aab5b99f84e44ae673e4936bfd3adaeb452ef444667a349c5b26a48bbce80ee6
+machine_hash: f972cdc5e5160c85e38a67052fee4c7b14d39f199bbabef0e4fe1b0bb87763ae
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,7 +42,7 @@ record:
       concepts clearly while celebrating knowledge and discovery.Please note that
       these personalities will not apply to Voice mode.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -59,7 +59,7 @@ record:
     - personality
     score: 50
     theme: memory
-  title: You can now choose from four distinct personalities or use the Default personali
+  title: Choose from four distinct personalities or use the Default personality…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-07-16-record-live-conversations-like-team-meetings-or-voice-notes-and-turn-those-into|chatgpt-2025-07-16-3ba6e4]]'
@@ -68,11 +68,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-07-personalities-0d95bb60|chatgpt-2025-08-07-personalities-0d95bb60]]'
 source_type: chatgpt_changelog
 theme: voice
-title: You can now choose from four distinct personalities or use the Default personali
+title: Choose from four distinct personalities or use the Default personality…
 type: change
 ---
 
-# You can now choose from four distinct personalities or use the Default personali
+# Choose from four distinct personalities or use the Default personality…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Personalities: You can now choose from four distinct personalities or use the Default personality in your Customize ChatGPT settings. Default is the standard ChatGPT style: clear, neutral, and adaptable. The other personalities each have their own style and tone, described below.Cynic – Sarcastic and dry, delivers blunt help with wit. Often teases, but provides direct, practical answers when it matters.Robot – Precise, efficient, and emotionless, delivering direct answers without extra words.Listener – Warm and laid-back, reflecting your thoughts back with calm clarity and light wit.Nerd – Playful and curious, explaining concepts clearly while celebrating knowledge and discovery.Please note that these personalities will not apply to Voice mode.

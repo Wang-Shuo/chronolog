@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 19d20cdfeccd5f2f28228573c6c5302165413f06b81f87339acce0081a91d6b4
+machine_hash: c32aa96d978f84702bcfdad529f364f4dd1b04dd024b5e357ebab3f2b990b0da
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: Added `model` attribute to the `claude_code.lines_of_code.count` OTEL metric
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.172
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code

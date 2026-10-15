@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 97de1e91d2b785799fc93a7d9addc643ba579d19ad379361469fdce39aca6237
+machine_hash: 4bf11dfc7b52a90a159fb148201a6b5c69e9f05a17c9f3a1767b87da26bd9770
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Improved `/theme` command to open theme picker directly
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.0.73
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

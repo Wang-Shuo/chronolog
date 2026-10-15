@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5d0564e39cddf558d9ab32c2670bea4341d4014dae8a3ef719e215fba03f8df0
+machine_hash: d2b7eaf27cf814e9d45f73ec9def8c415db996317806137d4d4ff12467059024
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Press Cmd+D to auto-debug a terminal error
     source_release: https://cursor.com/changelog/0-2-16
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: deedd7b8b23a304a9cc13164bc517a53ffa573f5eeb9687c19cf9d3018bcb343
+machine_hash: c18ea320e67b921330b03b14ab6d01d0e7e20d2157dbf40b0383d3bc867dc4b3
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: 'model: { id: "composer-2.5" },'
     source_release: https://cursor.com/changelog/sdk-release
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor

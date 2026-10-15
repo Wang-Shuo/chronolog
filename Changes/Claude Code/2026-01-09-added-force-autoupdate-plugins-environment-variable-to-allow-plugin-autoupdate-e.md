@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 340b73cfef5d212b267409f90750c8416b48cdf02debd43fa2812688ff8793dc
+machine_hash: 971e2641759795311186ab16a18e06435d1fabcfb4fa5f93ef368fa347186a2b
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `FORCE_AUTOUPDATE_PLUGINS` environment variable to allow plugin autoupdate
       even when the main auto-updater is disabled
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.2
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -34,7 +34,7 @@ record:
   source_release: claude-code-2026-01-09-v2-1-2-github-275344737-27089666
   source_type: github_releases
   theme: apps-integrations
-  title: Added `FORCE_AUTOUPDATE_PLUGINS` environment variable to allow plugin autoupdate
+  title: Added `FORCE_AUTOUPDATE_PLUGINS` environment variable to allow plugin autoupdate…
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-12-22-cursor-now-separates-processes-running-for-user-installed-extensions-and-built-i|cursor-2025-12-22-cfd447]]'
@@ -43,11 +43,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-01-09-v2-1-2-github-275344737-27089666|claude-code-2026-01-09-v2-1-2-github-275344737-27089666]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added FORCE_AUTOUPDATE_PLUGINS environment variable to allow plugin autoupdate
+title: Added FORCE_AUTOUPDATE_PLUGINS environment variable to allow plugin autoupdate…
 type: change
 ---
 
-# Added `FORCE_AUTOUPDATE_PLUGINS` environment variable to allow plugin autoupdate
+# Added `FORCE_AUTOUPDATE_PLUGINS` environment variable to allow plugin autoupdate…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.2: Added `FORCE_AUTOUPDATE_PLUGINS` environment variable to allow plugin autoupdate even when the main auto-updater is disabled

@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2024-01-06'
-machine_hash: 0f4d0d3b13cac02f54ddbe2a76f62c3db4d050d35ecfb670dc3068cdcdea1315
+machine_hash: 0806c8e8d64e3070d95261abee403d7030a07ab302b303680cfdd7b353483518
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ Tracked cards: 3
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- editor-experience: [[Changes/Cursor/2024-01-06-upgrades-cursor-to-vs-code-1-85-which-comes-with-support-for-dragging-out-tabs-i|Upgrades Cursor to VS Code 1.85, which comes with support for dragging out tabs]]
-- developer-workflow: [[Changes/Cursor/2024-01-06-dev-containers-are-now-supported-this-build-also|Dev containers are now supported! This build also:]]
-- developer-workflow: [[Changes/Cursor/2024-01-06-improves-the-stability-of-wsl|Improves the stability of WSL.]]
+- editor-experience: [[Changes/Cursor/2024-01-06-upgrades-cursor-to-vs-code-1-85-which-comes-with-support-for-dragging-out-tabs-i|Upgrades Cursor to VS Code 1.85, which comes with support for dragging out tabs…]]
+- developer-workflow: [[Changes/Cursor/2024-01-06-dev-containers-are-now-supported-this-build-also|Dev containers are now supported!]]
+- developer-workflow: [[Changes/Cursor/2024-01-06-improves-the-stability-of-wsl|Improves the stability of WSL]]
 <!-- chronolog:end -->

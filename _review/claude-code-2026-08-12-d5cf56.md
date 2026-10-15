@@ -1,6 +1,6 @@
 ---
 draft: true
-machine_hash: 07c7e7eccbbfbbe2239892d0c74ddf880b9dc99f22ff43be9ed97c312510844d
+machine_hash: ba40f4b8c48e2c0bc9c761dcf63879cc75aacd97f820cb0e8bba8dffda8d240f
 product: claude-code
 record:
   card_id: claude-code-2026-08-12-d5cf56
@@ -13,7 +13,7 @@ record:
   - quote: Added SSE keepalive pings to gateway streaming responses during long thinking
       pauses, preventing idle-timeout disconnects on Vertex and Bedrock upstreams
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.229
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -24,8 +24,7 @@ record:
   theme_matches: []
   theme_review_reason: no_match
   theme_suggestion: added-sse-keepalive
-  title: Added SSE keepalive pings to gateway streaming responses during long thinking
-    pa
+  title: Added SSE keepalive pings to gateway streaming responses during long thinking…
   type: change
 ---
 

@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-12-18'
-machine_hash: 481decd7fb78950b4d7d4138956d26d87b6bb6010eb1819cc76fe5727a49e158
+machine_hash: ac07def07b844864eed43e156afff72bc1ec2bed8f4078dea4e093a26edb0f18
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- mobile-desktop: [[Changes/ChatGPT/2025-12-18-you-can-now-pin-chats-to-the-top-of-your-list-for-quick-access-to-important-conv|You can now pin chats to the top of your list for quick access to important conv]]
+- mobile-desktop: [[Changes/ChatGPT/2025-12-18-you-can-now-pin-chats-to-the-top-of-your-list-for-quick-access-to-important-conv|Pin chats to the top of your list for quick access to important conversations]]
 <!-- chronolog:end -->

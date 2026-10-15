@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 2328d5dee356337f0a5f9202730b96880ac84246f3d0a8b6e6a371e60e723bbe
+machine_hash: c81586eb146dc7cc2c09e856e0a4fd59a69c20c81b5d80ed632b91779ff3ccac
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added source path metadata to images dragged onto the terminal, helping
       Claude understand where images originated
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.2
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -34,8 +34,7 @@ record:
   source_release: claude-code-2026-01-09-v2-1-2-github-275344737-27089666
   source_type: github_releases
   theme: developer-workflow
-  title: Added source path metadata to images dragged onto the terminal, helping Claude
-    u
+  title: Added source path metadata to images dragged onto the terminal, helping Claude…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2025-12-19-added-terminal-setup-support-for-kitty-alacritty-zed-and-warp-terminals|claude-code-2025-12-19-59773b]]'
@@ -44,12 +43,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-01-09-v2-1-2-github-275344737-27089666|claude-code-2026-01-09-v2-1-2-github-275344737-27089666]]'
 source_type: github_releases
 theme: developer-workflow
-title: Added source path metadata to images dragged onto the terminal, helping Claude
-  u
+title: Added source path metadata to images dragged onto the terminal, helping Claude…
 type: change
 ---
 
-# Added source path metadata to images dragged onto the terminal, helping Claude u
+# Added source path metadata to images dragged onto the terminal, helping Claude…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.2: Added source path metadata to images dragged onto the terminal, helping Claude understand where images originated

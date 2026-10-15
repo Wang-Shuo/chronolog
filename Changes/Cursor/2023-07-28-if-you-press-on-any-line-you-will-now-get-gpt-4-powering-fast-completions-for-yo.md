@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 75d6e26e3ae6f60f9f24a2f18b51f519a4a8803b982b00e7c5d346fd1080ba8f
+machine_hash: 0d55db8a975b2b5297bb4ca897d2adfed8acf8a261fc6063a6a04a35c1ae1290
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: If you press ⌘/^+↩️ on any line, you will now get gpt-4 powering fast-completions
       for you!
     source_release: https://cursor.com/changelog/0-6-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -36,7 +36,8 @@ record:
   theme: model-support
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: If you press ⌘/^+↩️ on any line, you will now get gpt-4 powering fast-completion
+  title: If you press ⌘/^+↩️ on any line, you will now get gpt-4 powering fast-completions
+    for you!
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-06-22-browsing-plus-users-can-now-use-browsing-to-get-comprehensive-answers-and-curren|chatgpt-2023-06-22-1011b0]]'
@@ -45,11 +46,12 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-07-28-0-6-0-https-cursor-com-changelog-0-6-0-ec91c991|cursor-2023-07-28-0-6-0-https-cursor-com-changelog-0-6-0-ec91c991]]'
 source_type: cursor_changelog
 theme: model-support
-title: If you press ⌘/^+↩️ on any line, you will now get gpt-4 powering fast-completion
+title: If you press ⌘/^+↩️ on any line, you will now get gpt-4 powering fast-completions
+  for you!
 type: change
 ---
 
-# If you press ⌘/^+↩️ on any line, you will now get gpt-4 powering fast-completion
+# If you press ⌘/^+↩️ on any line, you will now get gpt-4 powering fast-completions for you!
 
 <!-- chronolog:begin region="description" -->
 Cursor — A copilot experience powered by gpt-4: If you press ⌘/^+↩️ on any line, you will now get gpt-4 powering fast-completions for you!

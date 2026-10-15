@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 365bf738222abb82d28986b4526337334decb0e3f2df8028a205faf596e3f366
+machine_hash: 63c097f7300618f7963e7c198d57c0a3fff13093d0ce9b43ea21130e31c6139e
 product: cursor
 product_name: Cursor
 record:
@@ -31,7 +31,7 @@ record:
       & MCPs. This allows members of the team to install approved integrations locally
       without configuring servers themselves.
     source_release: https://cursor.com/changelog/team-marketplace-updates
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -55,7 +55,7 @@ record:
     score: 50
     theme: collaboration
   title: When an admin sets up Team MCP servers for cloud agents, they can make those
-    sam
+    same…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-23-improved-install-github-app-github-actions-workflow-setup-is-now-optional-you-ca|claude-code-2026-06-23-d8051b]]'
@@ -65,11 +65,11 @@ source_release: '[[Releases/Cursor/cursor-2026-06-30-3-10-https-cursor-com-chang
 source_type: cursor_changelog
 theme: apps-integrations
 title: When an admin sets up Team MCP servers for cloud agents, they can make those
-  sam
+  same…
 type: change
 ---
 
-# When an admin sets up Team MCP servers for cloud agents, they can make those sam
+# When an admin sets up Team MCP servers for cloud agents, they can make those same…
 
 <!-- chronolog:begin region="description" -->
 Cursor — MCPs and Organizations in Team Marketplaces: When an admin sets up Team MCP servers for cloud agents, they can make those same servers available in a team marketplace from Dashboard -> Plugins & MCPs. This allows members of the team to install approved integrations locally without configuring servers themselves.

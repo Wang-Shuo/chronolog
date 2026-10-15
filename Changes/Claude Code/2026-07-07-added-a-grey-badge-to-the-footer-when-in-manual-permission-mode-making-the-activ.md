@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 815b7f0a877aec568fd1ebb468814221bfc0326c67b75161d71e93e0ae655509
+machine_hash: 97f2a5ec26288cb48fd5303e91ef4a58bfc17114c0d949c4fe2055043b618001
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added a grey ⏸ badge to the footer when in manual permission mode, making
       the active mode always visible
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.203
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: Added a grey ⏸ badge to the footer when in manual permission mode, making
-    the ac
+    the active…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-29-security-claude-mcp-list-get-no-longer-spawn-mcp-json-servers-that-a-repo-self-a|claude-code-2026-06-29-697a1f]]'
@@ -47,11 +47,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-07-07-v2-1-203-github-3
 source_type: github_releases
 theme: safety-privacy
 title: Added a grey ⏸ badge to the footer when in manual permission mode, making the
-  ac
+  active…
 type: change
 ---
 
-# Added a grey ⏸ badge to the footer when in manual permission mode, making the ac
+# Added a grey ⏸ badge to the footer when in manual permission mode, making the active…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.203: Added a grey ⏸ badge to the footer when in manual permission mode, making the active mode always visible

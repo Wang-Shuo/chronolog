@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a27fbe1d3ea0dcbd2d3e90da2bcf85860baab42b626d7db1dd50e63f2c224f57
+machine_hash: 0908e8681f6a133b03053166f3764adef079b1f54fcbe392193e7f5dc6782921
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: We've shipped quality-of-life improvements to the Cursor CLI to make working
       with agents in the terminal more delightful.
     source_release: https://cursor.com/changelog/04-14-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -45,8 +45,7 @@ record:
     score: 50
     theme: developer-workflow
   theme_resolution: manual-semantic-rule-v1
-  title: We've shipped quality-of-life improvements to the Cursor CLI to make working
-    wit
+  title: We've shipped quality-of-life improvements to the Cursor CLI to make working…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-04-08-bugbot-can-now-learn-from-feedback-on-pull-requests-and-turn-those-signals-into|cursor-2026-04-08-c2b592]]'
@@ -55,12 +54,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-04-14-cli-debug-mode-and-btw-support-https-cursor-com-changelog-04-14-43ba096a|cursor-2026-04-14-cli-debug-mode-and-btw-support-https-cursor-com-changelog-04-14-43ba096a]]'
 source_type: cursor_changelog
 theme: developer-workflow
-title: We've shipped quality-of-life improvements to the Cursor CLI to make working
-  wit
+title: We've shipped quality-of-life improvements to the Cursor CLI to make working…
 type: change
 ---
 
-# We've shipped quality-of-life improvements to the Cursor CLI to make working wit
+# We've shipped quality-of-life improvements to the Cursor CLI to make working…
 
 <!-- chronolog:begin region="description" -->
 Cursor — CLI Debug Mode and /btw Support: We've shipped quality-of-life improvements to the Cursor CLI to make working with agents in the terminal more delightful.

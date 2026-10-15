@@ -11,9 +11,9 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4b73628d271bda6ab3dd6ed448fd017322fe1a4de45408bb2a2e35a90fe6014f
+machine_hash: edc6eff24687d0aa8802aa856f32a75ad7f47b74e4c8bfa20916033edb1b84c0
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Added a per-session prompt-cache line to `/cost` (hit ratio, misses, tokens
       re-cached, warm/cold) and a matching `prompt_cache` object for status line scripts
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.251
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -45,8 +45,7 @@ record:
     score: 50
     theme: context-window
   theme_resolution: manual-semantic-rule-v1
-  title: Added a per-session prompt-cache line to `/cost` (hit ratio, misses, tokens
-    re-c
+  title: Added a per-session prompt-cache line to `/cost`…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-07-28-we-re-introducing-cursor-start-a-new-649-monthly-plan-for-developers-in-india-ma|cursor-2026-07-28-50e16f]]'
@@ -55,11 +54,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-08-28-v2-1-251-github-378586104-42ac2f96|claude-code-2026-08-28-v2-1-251-github-378586104-42ac2f96]]'
 source_type: github_releases
 theme: pricing-model
-title: Added a per-session prompt-cache line to /cost (hit ratio, misses, tokens re-c
+title: Added a per-session prompt-cache line to /cost…
 type: change
 ---
 
-# Added a per-session prompt-cache line to `/cost` (hit ratio, misses, tokens re-c
+# Added a per-session prompt-cache line to `/cost`…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.251: Added a per-session prompt-cache line to `/cost` (hit ratio, misses, tokens re-cached, warm/cold) and a matching `prompt_cache` object for status line scripts

@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: f15bab392229f342b83c2869fce5ec192eebb48a92fd6d1fb076d17f3ddff2f4
+machine_hash: 68537fe951f65de689e32333924c936930b5f246fcfccbe6a94822106d3c5eec
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,7 +29,7 @@ record:
   - quote: Deep link queries (`claude-cli://open?q=…`) now support up to 5,000 characters,
       with a "scroll to review" warning for long pre-filled prompts
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.85
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -39,7 +39,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Deep link queries (`claude-cli://open?q=…`) now support up to 5,000 characters,
+  title: Deep link queries (`claude-cli://open?q=…`) now support up to 5,000 characters…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-25-added-disabledeeplinkregistration-setting-to-prevent-claude-cli-protocol-handler|claude-code-2026-03-25-7f5292]]'
@@ -48,11 +48,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-26-v2-1-85-github-302129484-6eb9dcd7|claude-code-2026-03-26-v2-1-85-github-302129484-6eb9dcd7]]'
 source_type: github_releases
 theme: apps-integrations
-title: Deep link queries (claude-cli://open?q=…) now support up to 5,000 characters,
+title: Deep link queries (claude-cli://open?q=…) now support up to 5,000 characters…
 type: change
 ---
 
-# Deep link queries (`claude-cli://open?q=…`) now support up to 5,000 characters,
+# Deep link queries (`claude-cli://open?q=…`) now support up to 5,000 characters…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.85: Deep link queries (`claude-cli://open?q=…`) now support up to 5,000 characters, with a "scroll to review" warning for long pre-filled prompts

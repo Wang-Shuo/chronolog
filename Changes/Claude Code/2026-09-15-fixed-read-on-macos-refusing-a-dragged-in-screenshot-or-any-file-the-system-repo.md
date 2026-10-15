@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: bfb085518b1e774c3917e7a92c1e6f931e94f8621470b731eea5f37e2b737e04
+machine_hash: 966cd076fdb3579b2b00781bbf20ebe344e23bbf0c61fa2e921751d0e4c5924a
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       reports under a second path, with "symlink resolution changed after permission
       was checked"
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.273
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -39,7 +39,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: Fixed Read on macOS refusing a dragged-in screenshot, or any file the system
-    rep
+    reports…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-09-fixed-remote-control-clients-that-join-a-claude-desktop-or-vs-code-session-showi|claude-code-2026-09-09-c983df]]'
@@ -49,11 +49,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-09-15-v2-1-273-github-3
 source_type: github_releases
 theme: safety-privacy
 title: Fixed Read on macOS refusing a dragged-in screenshot, or any file the system
-  rep
+  reports…
 type: change
 ---
 
-# Fixed Read on macOS refusing a dragged-in screenshot, or any file the system rep
+# Fixed Read on macOS refusing a dragged-in screenshot, or any file the system reports…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.273: Fixed Read on macOS refusing a dragged-in screenshot, or any file the system reports under a second path, with "symlink resolution changed after permission was checked"

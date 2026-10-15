@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 19cfc7d28a10dcbbf4f577ca5546f1408f4b174f07464452d5f2e6257986a791
+machine_hash: 75e2d8dd0b6353454a4e03c969f537801621a38f363a85547c94f27286a6297c
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `/plugin install <plugin> --marketplace <source>`, which offers to
       add the marketplace before installing the plugin
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.275
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,7 +35,7 @@ record:
   source_type: github_releases
   theme: apps-integrations
   title: Added `/plugin install <plugin> --marketplace <source>`, which offers to
-    add the
+    add…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-15-added-a-notification-when-an-mcp-server-disconnects-mid-session-and-automatic-re|claude-code-2026-09-15-d5fb1c]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-17-v2-1-275-github-391032307-12ccfafd|claude-code-2026-09-17-v2-1-275-github-391032307-12ccfafd]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added /plugin install plugin --marketplace source, which offers to add the
+title: Added /plugin install plugin --marketplace source, which offers to add…
 type: change
 ---
 
-# Added `/plugin install <plugin> --marketplace <source>`, which offers to add the
+# Added `/plugin install <plugin> --marketplace <source>`, which offers to add…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.275: Added `/plugin install <plugin> --marketplace <source>`, which offers to add the marketplace before installing the plugin

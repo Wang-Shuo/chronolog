@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e3eacb817be1d6a9191a387c0c62f8888e7e0b4a318fa05034a44ae319a57cd1
+machine_hash: e172dd0c386436b86a03363dd914506b3e5e4d64d89dc6975e747371e9d2b05c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: You can change your Health permissions anytime in Settings → Plugins →
       Health. Learn more about how we keep Health data private and secure.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -35,8 +35,7 @@ record:
   source_release: chatgpt-2026-09-14-updated-permissions-for-new-health-connections-8bc634b7
   source_type: chatgpt_changelog
   theme: apps-integrations
-  title: You can change your Health permissions anytime in Settings → Plugins → Health.
-    L
+  title: You can change your Health permissions anytime in Settings → Plugins → Health
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-11-added-output-style-name-to-list-and-switch-output-styles-including-over-remote-c|claude-code-2026-09-11-5bf521]]'
@@ -45,12 +44,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-14-updated-permissions-for-new-health-connections-8bc634b7|chatgpt-2026-09-14-updated-permissions-for-new-health-connections-8bc634b7]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
-title: You can change your Health permissions anytime in Settings → Plugins → Health.
-  L
+title: You can change your Health permissions anytime in Settings → Plugins → Health
 type: change
 ---
 
-# You can change your Health permissions anytime in Settings → Plugins → Health. L
+# You can change your Health permissions anytime in Settings → Plugins → Health
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Updated permissions for new Health connections: You can change your Health permissions anytime in Settings → Plugins → Health. Learn more about how we keep Health data private and secure.

@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2023-02-09'
-machine_hash: 75ed497eb46d18f0c311a09b6f7e8b10f822c3e196b8abb94a150b3d35acc12f
+machine_hash: b0c6b239240915e09f0c374e85a2c3ff8c276b93902f826dfae3ffe40ee96c9b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,7 +40,7 @@ Tracked cards: 3
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- interface-experience: [[Changes/ChatGPT/2023-02-09-version-selection-is-made-easy-with-a-dedicated-dropdown-menu-at-the-top-of-the|Version selection is made easy with a dedicated dropdown menu at the top of the]]
+- interface-experience: [[Changes/ChatGPT/2023-02-09-version-selection-is-made-easy-with-a-dedicated-dropdown-menu-at-the-top-of-the|Version selection is made easy with a dedicated dropdown menu at the top of the page]]
 - model-support: [[Changes/ChatGPT/2023-02-09-default-the-standard-chatgpt-model|Default: the standard ChatGPT model]]
 - reliability-performance: [[Changes/ChatGPT/2023-02-09-turbo-optimized-for-speed-alpha|Turbo: optimized for speed (alpha)]]
 <!-- chronolog:end -->

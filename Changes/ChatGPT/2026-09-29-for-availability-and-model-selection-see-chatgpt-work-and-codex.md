@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 93b8248f2fc7b7afa8ab232ffd7e0ee6aece0f97992eaacb513a3c070e86c324
+machine_hash: dd51fb434e555906240ae98aa6c272992833e6a8149d54f164322218ba009294
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: 'For availability and model selection, see: ChatGPT Work and Codex.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -35,7 +35,7 @@ record:
   source_release: chatgpt-2026-09-29-gpt-6-1-sol-in-chatgpt-work-and-codex-a0e5fef0
   source_type: chatgpt_changelog
   theme: model-support
-  title: 'For availability and model selection, see: ChatGPT Work and Codex.'
+  title: 'For availability and model selection, see: ChatGPT Work and Codex'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-25-added-deniedmodels-managed-setting-to-block-specific-models-even-when-availablem|claude-code-2026-09-25-0414cd]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-gpt-6-1-sol-in-chatgpt-work-and-codex-a0e5fef0|chatgpt-2026-09-29-gpt-6-1-sol-in-chatgpt-work-and-codex-a0e5fef0]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: 'For availability and model selection, see: ChatGPT Work and Codex.'
+title: 'For availability and model selection, see: ChatGPT Work and Codex'
 type: change
 ---
 
-# For availability and model selection, see: ChatGPT Work and Codex.
+# For availability and model selection, see: ChatGPT Work and Codex
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — GPT-6.1 Sol in ChatGPT Work and Codex: For availability and model selection, see: ChatGPT Work and Codex.

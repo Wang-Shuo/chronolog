@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 81fd65a09541215ee7effd1a1e4b5b30b69bf1fea974e94d64b371bdabfb22f2
+machine_hash: de5504ac5ef53c90e4dec0dfcd9383d3118214423fbe570bb504cdbd58cf448f
 product: claude-code
 product_name: Claude Code
 record:
@@ -24,7 +24,7 @@ record:
   evidence:
   - quote: Improved focus mode behavior
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.133
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

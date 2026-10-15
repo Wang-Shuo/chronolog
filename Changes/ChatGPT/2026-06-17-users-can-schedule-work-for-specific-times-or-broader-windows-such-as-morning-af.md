@@ -11,9 +11,9 @@ diffusion:
   theme: automation-scheduling
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: af815908daf8ad1a94b75559676b18bd53ec3e3035d417ef51576862d45176c2
+machine_hash: 741625a64565938c4a46695a715a9177bad8aee8584a655a697f18e589107a55
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Users can schedule work for specific times or broader windows, such as
       morning, afternoon, or evening.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -36,7 +36,7 @@ record:
   theme: automation-scheduling
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Users can schedule work for specific times or broader windows, such as morning,
+  title: Users can schedule work for specific times or broader windows, such as morning…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-20-cursor-automations-are-now-available-in-the-agents-window-in-addition-to-cursor|cursor-2026-05-20-b1abb1]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-17-scheduled-tasks-in-chatgpt-b8005b4a|chatgpt-2026-06-17-scheduled-tasks-in-chatgpt-b8005b4a]]'
 source_type: chatgpt_changelog
 theme: automation-scheduling
-title: Users can schedule work for specific times or broader windows, such as morning,
+title: Users can schedule work for specific times or broader windows, such as morning…
 type: change
 ---
 
-# Users can schedule work for specific times or broader windows, such as morning,
+# Users can schedule work for specific times or broader windows, such as morning…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Scheduled tasks in ChatGPT: Users can schedule work for specific times or broader windows, such as morning, afternoon, or evening.

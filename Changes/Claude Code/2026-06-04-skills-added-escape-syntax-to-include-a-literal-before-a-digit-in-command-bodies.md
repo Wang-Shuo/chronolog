@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: b563035f9d684133d9667fb99580985444358bf6da2ae60e8ca7fec7accc9712
+machine_hash: b833e9cab56ec492fe63668d2ff9e92ea003901ad2137783986bd553cf2baa09
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: 'Skills: added `\$` escape syntax to include a literal `$` before a digit
       in command bodies'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.163
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: 'Skills: added `\$` escape syntax to include a literal `$` before a digit
-    in comm'
+    in command bodies'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-02-acceptedits-mode-now-prompts-before-writing-build-tool-config-files-that-grant-c|claude-code-2026-06-02-58d83f]]'
@@ -46,11 +46,12 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988|claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988]]'
 source_type: github_releases
 theme: developer-workflow
-title: 'Skills: added \$ escape syntax to include a literal $ before a digit in comm'
+title: 'Skills: added \$ escape syntax to include a literal $ before a digit in command
+  bodies'
 type: change
 ---
 
-# Skills: added `\$` escape syntax to include a literal `$` before a digit in comm
+# Skills: added `\$` escape syntax to include a literal `$` before a digit in command bodies
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.163: Skills: added `\$` escape syntax to include a literal `$` before a digit in command bodies

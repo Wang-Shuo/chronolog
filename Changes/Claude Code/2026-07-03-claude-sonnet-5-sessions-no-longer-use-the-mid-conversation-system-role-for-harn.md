@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f3230b22d0688c4b6a0185eff58b1103ba30b6c68d82bd77f622fe1731c7c074
+machine_hash: 6e18eea8d543b7b9802753925035a782d3515e48a33686c94e33230128cc22d4
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Claude Sonnet 5 sessions no longer use the mid-conversation system role
       for harness reminders
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.201
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: Claude Sonnet 5 sessions no longer use the mid-conversation system role for
-    harn
+    harness…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-29-added-support-for-organization-default-models-admins-set-it-in-the-org-console-i|claude-code-2026-06-29-34190b]]'
@@ -47,11 +47,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-07-03-v2-1-201-github-3
 source_type: github_releases
 theme: model-support
 title: Claude Sonnet 5 sessions no longer use the mid-conversation system role for
-  harn
+  harness…
 type: change
 ---
 
-# Claude Sonnet 5 sessions no longer use the mid-conversation system role for harn
+# Claude Sonnet 5 sessions no longer use the mid-conversation system role for harness…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.201: Claude Sonnet 5 sessions no longer use the mid-conversation system role for harness reminders

@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-07-28'
-machine_hash: 3da6a2e4da54a9421ab10bf470bfa9a9c309d8fb2ade5adc84c36f86f8eb9fad
+machine_hash: e7836860c7d70c6cc9b675b6d9b35b855b09b4b75d15f8b27f2014e7766d5ac0
 product: cursor
 product_name: Cursor
 record:
@@ -39,5 +39,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- apps-integrations: [[Changes/Cursor/2023-07-28-more-robust-extension-handling-you-can-now-use-pre-release-extensions-again|More robust extension handling. You can now use pre-release extensions again.]]
+- apps-integrations: [[Changes/Cursor/2023-07-28-more-robust-extension-handling-you-can-now-use-pre-release-extensions-again|More robust extension handling]]
 <!-- chronolog:end -->

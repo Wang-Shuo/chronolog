@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 4ecc80033c70d6a9417bd687dbdd40b667d030cbffbda0c624aa7cda149dd928
+machine_hash: 88d7d6d2271c2ff70f11fd5f0cf39186bf69e73685c0502abf159070308ef016
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
   - quote: Compact chats give you a tighter view of your agent conversations so you
       can read threads more quickly without losing important context.
     source_release: https://cursor.com/changelog/3-4
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -48,7 +48,7 @@ record:
     theme: context-window
   theme_resolution: manual-semantic-rule-v1
   title: Compact chats give you a tighter view of your agent conversations so you
-    can rea
+    can read…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-06-use-these-stats-to-diagnose-context-issues-and-improve-your-setup-across-rules-s|cursor-2026-05-06-b2f248]]'
@@ -58,11 +58,11 @@ source_release: '[[Releases/Cursor/cursor-2026-05-13-3-4-https-cursor-com-change
 source_type: cursor_changelog
 theme: context-window
 title: Compact chats give you a tighter view of your agent conversations so you can
-  rea
+  read…
 type: change
 ---
 
-# Compact chats give you a tighter view of your agent conversations so you can rea
+# Compact chats give you a tighter view of your agent conversations so you can read…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Full-screen Tabs and Compact Chats: Compact chats give you a tighter view of your agent conversations so you can read threads more quickly without losing important context.

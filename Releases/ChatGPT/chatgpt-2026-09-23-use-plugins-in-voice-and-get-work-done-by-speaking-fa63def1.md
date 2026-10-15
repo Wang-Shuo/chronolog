@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2026-09-23'
-machine_hash: 380faedf281b585c604a5bc995879ec7248931be10e638954e548e880dc33b31
+machine_hash: b1f01b9a60b774243961856024b636ec95ade09b2a0285a806298a5555d1d439
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,7 +40,7 @@ Tracked cards: 3
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- voice: [[Changes/ChatGPT/2026-09-23-free-and-go-users-can-use-voice-in-chat-with-the-plugins-their-plan-supports-voi|Free and Go users can use Voice in Chat with the plugins their plan supports. Vo]]
-- voice: [[Changes/ChatGPT/2026-09-23-live-now-supports-plugins-on-web-ios-and-android-you-can-use-the-plugins-and-con|Live now supports plugins on web, iOS, and Android. You can use the plugins and]]
-- voice: [[Changes/ChatGPT/2026-09-23-voice-is-also-available-in-work-on-web-and-mobile-ask-it-to-create-documents-pre|Voice is also available in Work on web and mobile. Ask it to create documents, p]]
+- voice: [[Changes/ChatGPT/2026-09-23-free-and-go-users-can-use-voice-in-chat-with-the-plugins-their-plan-supports-voi|Free and Go users can use Voice in Chat with the plugins their plan supports]]
+- voice: [[Changes/ChatGPT/2026-09-23-live-now-supports-plugins-on-web-ios-and-android-you-can-use-the-plugins-and-con|Live now supports plugins on web, iOS, and Android]]
+- voice: [[Changes/ChatGPT/2026-09-23-voice-is-also-available-in-work-on-web-and-mobile-ask-it-to-create-documents-pre|Voice is also available in Work on web and mobile]]
 <!-- chronolog:end -->

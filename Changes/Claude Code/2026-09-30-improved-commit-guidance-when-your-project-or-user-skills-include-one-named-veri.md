@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3f71d1908bd6c3acbb4d96e8472144b1008c2dca49a9b6823935d38084da313f
+machine_hash: 404455316b870899fe558d61d5fda45216bcd733cbb06eefb1a3216dd715229e
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       named `verify`, Claude is now told to run it right before committing, except
       for docs-only and tests-only commits'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.286
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,8 +38,7 @@ record:
   theme: developer-workflow
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: 'Improved commit guidance: when your project or user skills include one named
-    `ve'
+  title: Improved commit guidance
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-09-23-rollouts-attaches-a-monitor-to-every-pull-request-and-watches-the-change-as-it-d|cursor-2026-09-23-2d26e9]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-30-v2-1-286-github-400266224-9fb31eb7|claude-code-2026-09-30-v2-1-286-github-400266224-9fb31eb7]]'
 source_type: github_releases
 theme: developer-workflow
-title: 'Improved commit guidance: when your project or user skills include one named
-  ve'
+title: Improved commit guidance
 type: change
 ---
 
-# Improved commit guidance: when your project or user skills include one named `ve
+# Improved commit guidance
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.286: Improved commit guidance: when your project or user skills include one named `verify`, Claude is now told to run it right before committing, except for docs-only and tests-only commits

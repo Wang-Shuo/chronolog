@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 0dba975008fbf2c9ea5f2a85fecd79d4184f780692f6221e6f4d442de6a29f89
+machine_hash: 63f24c36e0b4daa191393113362b5a7c6b1b7e1499a391f593ead89edec280b7
 product: cursor
 product_name: Cursor
 record:
@@ -31,7 +31,7 @@ record:
       Copilot++, and you can change the Copilot++ keybinding to not be Option/Alt.
       More to come here soon, especially on the model itself!'
     source_release: https://cursor.com/changelog/0-17-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -53,8 +53,7 @@ record:
     score: 50
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v1
-  title: 'Copilot++ Improvements: We''ve spent some time improving the latency of
-    Copilot++'
+  title: 'Copilot++ Improvements: We''ve spent some time improving the latency…'
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-11-03-styling-tweaks-some-buttons-and-hints-should-look-nicer|cursor-2023-11-03-4e08a7]]'
@@ -63,11 +62,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-11-27-0-17-0-https-cursor-com-changelog-0-17-0-871d6ce3|cursor-2023-11-27-0-17-0-https-cursor-com-changelog-0-17-0-871d6ce3]]'
 source_type: cursor_changelog
 theme: interface-experience
-title: 'Copilot++ Improvements: We''ve spent some time improving the latency of Copilot++'
+title: 'Copilot++ Improvements: We''ve spent some time improving the latency…'
 type: change
 ---
 
-# Copilot++ Improvements: We've spent some time improving the latency of Copilot++
+# Copilot++ Improvements: We've spent some time improving the latency…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Image Support, Interpreter Mode Beta, @ Folders: Copilot++ Improvements: We've spent some time improving the latency of Copilot++, and you can change the Copilot++ keybinding to not be Option/Alt. More to come here soon, especially on the model itself!

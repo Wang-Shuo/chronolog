@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: c9d970e67edc24b17de0f44deb6daf1d393621ae370f1f82290a03c102e1521d
+machine_hash: 23168fcf3237cd39f71f758e80d5d4f9ab2145ad08bbb770bb566f87216a591c
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: 'Improved `/install-github-app`: GitHub Actions workflow setup is now optional
       — you can install just the GitHub App and skip the workflow/secret steps'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.187
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,8 +37,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: 'Improved `/install-github-app`: GitHub Actions workflow setup is now optional
-    —'
+  title: 'Improved `/install-github-app`: GitHub Actions workflow setup is now optional'
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-06-22-you-can-now-add-and-manage-plugins-skills-mcps-subagents-rules-commands-and-hook|cursor-2026-06-22-111413]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-23-v2-1-187-github-343665388-744f9775|claude-code-2026-06-23-v2-1-187-github-343665388-744f9775]]'
 source_type: github_releases
 theme: apps-integrations
-title: 'Improved /install-github-app: GitHub Actions workflow setup is now optional
-  —'
+title: 'Improved /install-github-app: GitHub Actions workflow setup is now optional'
 type: change
 ---
 
-# Improved `/install-github-app`: GitHub Actions workflow setup is now optional —
+# Improved `/install-github-app`: GitHub Actions workflow setup is now optional
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.187: Improved `/install-github-app`: GitHub Actions workflow setup is now optional — you can install just the GitHub App and skip the workflow/secret steps

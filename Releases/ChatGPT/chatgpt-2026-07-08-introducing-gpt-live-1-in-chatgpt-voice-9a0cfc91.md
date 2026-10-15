@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-07-08'
-machine_hash: 2a918b7c34136a79aecb331fc497b75db850d1eef986cb599a517b209c3ac100
+machine_hash: a313080f34ed6c041ba86434f1e302eecadc21052c32ed2413982772cae86040
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- voice: [[Changes/ChatGPT/2026-07-08-we-re-rolling-out-a-new-chatgpt-voice-experience-chatgpt-voice-is-now-powered-by|We’re rolling out a new ChatGPT Voice experience. ChatGPT Voice is now powered b]]
+- voice: [[Changes/ChatGPT/2026-07-08-we-re-rolling-out-a-new-chatgpt-voice-experience-chatgpt-voice-is-now-powered-by|ChatGPT rolls out a new ChatGPT Voice experience]]
 <!-- chronolog:end -->

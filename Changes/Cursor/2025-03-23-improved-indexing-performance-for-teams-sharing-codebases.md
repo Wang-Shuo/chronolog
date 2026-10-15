@@ -11,9 +11,9 @@ diffusion:
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4c7ed28645fbd5cde1a0c6cbb28443df55a110339e28b72d4a2d8cbcf15a17e4
+machine_hash: 8785aaf9e4b35992d1be3704d4030a4897dc543956457cebf20eb7ef849ee2d3
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Improved indexing performance for teams sharing codebases
     source_release: https://cursor.com/changelog/0-48-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

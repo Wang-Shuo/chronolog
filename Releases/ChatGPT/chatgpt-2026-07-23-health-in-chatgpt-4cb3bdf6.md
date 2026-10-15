@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2026-07-23'
-machine_hash: e99875c64a505a5cbb6281a411eabd562cd804c239643022caa9b3ad4d761ce1
+machine_hash: df05de87a7bd1962160ed339bd09508ded93e7761dc595fb690284a3f3f9b53f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,7 +41,7 @@ Tracked cards: 3
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- file-data: [[Changes/ChatGPT/2026-07-23-we-re-starting-to-roll-out-a-new-health-experience-in-chatgpt-logged-in-free-go|We’re starting to roll out a new health experience in ChatGPT. Logged-in Free, G]]
-- safety-privacy: [[Changes/ChatGPT/2026-07-23-health-is-built-with-layered-privacy-and-security-safeguards-connected-medical-r|Health is built with layered privacy and security safeguards. Connected medical]]
-- mobile-desktop: [[Changes/ChatGPT/2026-07-23-available-on-web-and-ios-health-lets-you-view-lab-results-medications-activity-s|Available on web and iOS, Health lets you view lab results, medications, activit]]
+- file-data: [[Changes/ChatGPT/2026-07-23-we-re-starting-to-roll-out-a-new-health-experience-in-chatgpt-logged-in-free-go|We’re starting to roll out a new health experience in ChatGPT]]
+- safety-privacy: [[Changes/ChatGPT/2026-07-23-health-is-built-with-layered-privacy-and-security-safeguards-connected-medical-r|Health is built with layered privacy and security safeguards]]
+- mobile-desktop: [[Changes/ChatGPT/2026-07-23-available-on-web-and-ios-health-lets-you-view-lab-results-medications-activity-s|Available on web and iOS, Health lets you view lab results, medications, activity…]]
 <!-- chronolog:end -->

@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: ab21de41ff2a45b46dacd24f63445f3fd4cd1812f0e95fa5bfbedb19eb7e5581
+machine_hash: 8a0b20265c53be7e54b54aa97f1e83c7ad785acd83bb48184bc6101a7300aeed
 product: claude-code
 product_name: Claude Code
 record:
@@ -35,7 +35,7 @@ record:
       the commit wasn''t made by the agent this session, and `terraform destroy`/`pulumi
       destroy`/`cdk destroy` are blocked unless you asked for the specific stack'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.183
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code
@@ -53,8 +53,7 @@ record:
     - safety
     score: 50
     theme: safety-privacy
-  title: 'Improved auto mode safety: destructive git commands (`git reset --hard`,
-    `git ch'
+  title: Improved auto mode safety
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-15-improved-auto-mode-subagent-spawns-are-now-evaluated-by-the-classifier-before-la|claude-code-2026-06-15-1d14c3]]'
@@ -63,12 +62,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-19-v2-1-183-github-341696059-98586912|claude-code-2026-06-19-v2-1-183-github-341696059-98586912]]'
 source_type: github_releases
 theme: agent-mode
-title: 'Improved auto mode safety: destructive git commands (git reset --hard, git
-  ch'
+title: Improved auto mode safety
 type: change
 ---
 
-# Improved auto mode safety: destructive git commands (`git reset --hard`, `git ch
+# Improved auto mode safety
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.183: Improved auto mode safety: destructive git commands (`git reset --hard`, `git checkout -- .`, `git clean -fd`, `git stash drop`) are now blocked when you didn't ask to discard local work, `git commit --amend` is blocked when the commit wasn't made by the agent this session, and `terraform destroy`/`pulumi destroy`/`cdk destroy` are blocked unless you asked for the specific stack

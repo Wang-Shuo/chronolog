@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: db83f489e382d174fe7beb7e1e8f6f99bb6fc22b54e5e0e04959cefda858af17
+machine_hash: d6e253e43a42766b90dca4e13f59a9bb0742e9108ade62f70433aa198ae55f2d
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: You can now switch to the VS Code sidebar orientation
     source_release: https://cursor.com/changelog/0-9-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -33,7 +33,7 @@ record:
   source_release: cursor-2023-08-30-0-9-0-https-cursor-com-changelog-0-9-0-1c913df4
   source_type: cursor_changelog
   theme: interface-experience
-  title: You can now switch to the VS Code sidebar orientation
+  title: Switch to the VS Code sidebar orientation
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-08-21-activity-bar-elements-can-now-be-reordered-with-drag-and-drop|cursor-2023-08-21-0d2a6c]]'
@@ -42,11 +42,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-08-30-0-9-0-https-cursor-com-changelog-0-9-0-1c913df4|cursor-2023-08-30-0-9-0-https-cursor-com-changelog-0-9-0-1c913df4]]'
 source_type: cursor_changelog
 theme: interface-experience
-title: You can now switch to the VS Code sidebar orientation
+title: Switch to the VS Code sidebar orientation
 type: change
 ---
 
-# You can now switch to the VS Code sidebar orientation
+# Switch to the VS Code sidebar orientation
 
 <!-- chronolog:begin region="description" -->
 Cursor — Auditable codebase context, VS Code left bar: You can now switch to the VS Code sidebar orientation

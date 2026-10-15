@@ -11,9 +11,9 @@ diffusion:
   theme: projects-workspaces
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 33409a2985715b108247efca4c14716f7cf067e773ce10735cf2a800c091b589
+machine_hash: 4a6f92040552ce780fac4506ab0f65bbd2f1d7716faef5ef55122bdf4e89dcf6
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: Can see recent folders on the new window screen
     source_release: https://cursor.com/changelog/0-3-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor

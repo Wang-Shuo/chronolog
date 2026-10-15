@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 15d0c3719d507f66b08ff8f0961dc085a9b85c2d635f977bfafe049afc778b3e
+machine_hash: b17c7b3b663ca81f04ab36ee674af4a54cc1f463366625d5934fcd8e2409bfae
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,7 +35,7 @@ record:
       still rolling out across ChatGPT plans and countries. You’ll be notified in
       ChatGPT when memory updates are available to you.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -44,7 +44,7 @@ record:
   source_type: chatgpt_changelog
   theme: memory
   title: If you don’t want information from a chat to be used to personalize responses,
-    y
+    you…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-06-12-highlight-any-text-in-the-memory-summary-to-make-a-specific-correction|chatgpt-2026-06-12-38ec0d]]'
@@ -54,11 +54,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-06-12-additional-controls-for-m
 source_type: chatgpt_changelog
 theme: memory
 title: If you don’t want information from a chat to be used to personalize responses,
-  y
+  you…
 type: change
 ---
 
-# If you don’t want information from a chat to be used to personalize responses, y
+# If you don’t want information from a chat to be used to personalize responses, you…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Additional controls for memory summary: If you don’t want information from a chat to be used to personalize responses, you can turn off memory or use Temporary Chat. Temporary Chats don’t use existing memories or create new memories.Memory updates, including memory summary, are still rolling out across ChatGPT plans and countries. You’ll be notified in ChatGPT when memory updates are available to you.

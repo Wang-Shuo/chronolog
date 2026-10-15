@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9b3f679f90067d2eb38f9ed97295f90883b0c8fa5b7226b89b7440cb4509c7b4
+machine_hash: aa93fe2832355bb1cc3da4b2e42de0e59054e313c2f1044e9609138b3593aadd
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Composer UI in the sidebar with inline diffs
     source_release: https://cursor.com/changelog/0-43-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

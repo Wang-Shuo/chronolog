@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 97548824d38db639787ebd59a3939ac2887e3ea1acfb8f608718dd7435230aba
+machine_hash: 60372e1a10b67ee1f865a5e201c3047634cef1e776cc2abcc865129aa776c0f2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
       Space. You can keep them private or share them with your team, then ask ChatGPT
       to update a project plan or draft a follow-up.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -59,7 +59,7 @@ record:
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v1
   title: We’re making it easier to bring meeting context into ChatGPT so you can act
-    on n
+    on next…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-09-29-plugins-can-now-include-interactive-panels-sidebar-views-and-viewers-or-editors|chatgpt-2026-09-29-07c8af]]'
@@ -69,11 +69,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-meetings-plugin-157dcc24|
 source_type: chatgpt_changelog
 theme: apps-integrations
 title: We’re making it easier to bring meeting context into ChatGPT so you can act
-  on n
+  on next…
 type: change
 ---
 
-# We’re making it easier to bring meeting context into ChatGPT so you can act on n
+# We’re making it easier to bring meeting context into ChatGPT so you can act on next…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Meetings plugin: We’re making it easier to bring meeting context into ChatGPT so you can act on next steps faster. The Meetings plugin takes notes for you based on what’s said in the meeting and saves personalized summaries with action items in ChatGPT Space. You can keep them private or share them with your team, then ask ChatGPT to update a project plan or draft a follow-up.

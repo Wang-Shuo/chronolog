@@ -11,9 +11,9 @@ diffusion:
   theme: enterprise-admin
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: cca9963758239be3e7828904726a8e5dc3da2422f22be36d2ea1c457420a8005
+machine_hash: f30802c0375d931be1cb5ac0c9047f8263769e5a4c100daacaaf443e75240bb1
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
   - quote: Launched in beta in 1.7, browser for Agent is now GA. We've added additional
       support for Enterprise teams to use Browser in 2.0.
     source_release: https://cursor.com/changelog/2-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -51,8 +51,7 @@ record:
     score: 50
     theme: enterprise-admin
   theme_resolution: manual-semantic-rule-v1
-  title: Launched in beta in 1.7, browser for Agent is now GA. We've added additional
-    sup
+  title: Launched in beta in 1.7, browser for Agent is now GA
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|chatgpt-2025-06-12-1cc56f]]'
@@ -60,12 +59,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e]]'
 source_type: cursor_changelog
 theme: enterprise-admin
-title: Launched in beta in 1.7, browser for Agent is now GA. We've added additional
-  sup
+title: Launched in beta in 1.7, browser for Agent is now GA
 type: change
 ---
 
-# Launched in beta in 1.7, browser for Agent is now GA. We've added additional sup
+# Launched in beta in 1.7, browser for Agent is now GA
 
 <!-- chronolog:begin region="description" -->
 Cursor — New Coding Model and Agent Interface: Launched in beta in 1.7, browser for Agent is now GA. We've added additional support for Enterprise teams to use Browser in 2.0.

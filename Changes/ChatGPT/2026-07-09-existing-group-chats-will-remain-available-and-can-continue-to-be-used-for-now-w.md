@@ -11,9 +11,9 @@ diffusion:
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: eb748c0df64bf860eadf4055e3f61d7e6e6496f137230f2a3742d2caf1fb3bd9
+machine_hash: 118788a6f7f27b37b8023f6f5a54bf30c67a74eb7d78b7e7fd9c79e9f9e46896
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       to the messages, files, and images already shared there. Individual ChatGPT
       conversations are unaffected.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -41,7 +41,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: Existing group chats will remain available and can continue to be used for
-    now.
+    now
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-06-30-under-dashboard-plugins-mcps-team-marketplaces-restrict-marketplace-access-to-sp|cursor-2026-06-30-2b0a50]]'
@@ -51,11 +51,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-retiring-group-chats-in-c
 source_type: chatgpt_changelog
 theme: collaboration
 title: Existing group chats will remain available and can continue to be used for
-  now.
+  now
 type: change
 ---
 
-# Existing group chats will remain available and can continue to be used for now.
+# Existing group chats will remain available and can continue to be used for now
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Retiring group chats in ChatGPT: Existing group chats will remain available and can continue to be used for now. When an existing group chat becomes read-only, users will retain access to the messages, files, and images already shared there. Individual ChatGPT conversations are unaffected.

@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2026-08-31'
-machine_hash: 7bfdef6f0ab35d4776c8c1a932f501c2469cca10f351c3b424acb5cf01eeeeac
+machine_hash: 22ca43ac81230ec9093e78ad255b0a816054550ccf57c313d0d50ac8354e2700
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,6 +39,6 @@ Tracked cards: 2
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- mobile-desktop: [[Changes/ChatGPT/2026-08-31-side-chat-is-available-in-edge-brave-and-vivaldi-opera-supports-tab-mentions-and|Side chat is available in Edge, Brave, and Vivaldi. Opera supports tab mentions]]
-- mobile-desktop: [[Changes/ChatGPT/2026-08-31-bring-your-browser-into-work-and-codex-mention-open-tabs-to-use-them-as-context|Bring your browser into Work and Codex. Mention open tabs to use them as context]]
+- mobile-desktop: [[Changes/ChatGPT/2026-08-31-side-chat-is-available-in-edge-brave-and-vivaldi-opera-supports-tab-mentions-and|Side chat is available in Edge, Brave, and Vivaldi]]
+- mobile-desktop: [[Changes/ChatGPT/2026-08-31-bring-your-browser-into-work-and-codex-mention-open-tabs-to-use-them-as-context|Bring your browser into Work and Codex]]
 <!-- chronolog:end -->

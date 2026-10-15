@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 635f7cbbf3019e3f22feb1b8e17e6b1f82e5ae5e2f6d206e6d841d262091b4b6
+machine_hash: 905a1692283975db9c1822e03c87305b0502c06e09a9ae5b690d7f734650d9f4
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Fixed Bash permission checks to fail closed on file-descriptor redirect
       forms that bash parses differently than the permission analyzer
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.214
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,8 +37,7 @@ record:
   theme: safety-privacy
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: Fixed Bash permission checks to fail closed on file-descriptor redirect forms
-    th
+  title: Fixed Bash permission checks to fail closed on file-descriptor redirect forms…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-18-fixed-bash-permission-checks-treating-zsh-variable-subscripts-and-modifiers-in-c|claude-code-2026-07-18-75dc36]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-18-v2-1-214-github-355973317-478680c5|claude-code-2026-07-18-v2-1-214-github-355973317-478680c5]]'
 source_type: github_releases
 theme: safety-privacy
-title: Fixed Bash permission checks to fail closed on file-descriptor redirect forms
-  th
+title: Fixed Bash permission checks to fail closed on file-descriptor redirect forms…
 type: change
 ---
 
-# Fixed Bash permission checks to fail closed on file-descriptor redirect forms th
+# Fixed Bash permission checks to fail closed on file-descriptor redirect forms…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.214: Fixed Bash permission checks to fail closed on file-descriptor redirect forms that bash parses differently than the permission analyzer

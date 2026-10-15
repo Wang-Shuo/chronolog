@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 074457e677cc542ea995a749d84192d64a1f6a538ce489c27d7e9c36c7ba1835
+machine_hash: b9169be47ad4bd60fb9ab3d7077cb5573b056b3c3dfafb1827e2a3c3d9a0f76e
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: For this holiday release, we've focused entirely on fixing bugs and improving
       stability.
     source_release: https://cursor.com/changelog/2-3
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,7 +35,7 @@ record:
   source_type: cursor_changelog
   theme: reliability-performance
   title: For this holiday release, we've focused entirely on fixing bugs and improving
-    st
+    stability
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-07-29-agent-edits-are-now-faster-by-lazy-loading-linter-errors-search-replace-edit-lat|cursor-2025-07-29-4ed3b7]]'
@@ -45,11 +45,11 @@ source_release: '[[Releases/Cursor/cursor-2025-12-22-2-3-https-cursor-com-change
 source_type: cursor_changelog
 theme: reliability-performance
 title: For this holiday release, we've focused entirely on fixing bugs and improving
-  st
+  stability
 type: change
 ---
 
-# For this holiday release, we've focused entirely on fixing bugs and improving st
+# For this holiday release, we've focused entirely on fixing bugs and improving stability
 
 <!-- chronolog:begin region="description" -->
 Cursor — Layout Customization and Stability Improvements: For this holiday release, we've focused entirely on fixing bugs and improving stability.

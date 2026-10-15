@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 99120877c7523993cd9675802f93f3cbb34ea7959032394e942de067c0cde87d
+machine_hash: eed6e3d80fa5673136f8786f10fd242d6ad863ff908810a2c9b35aeaa15903d9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Highlight any text in the memory summary to make a specific correction.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -33,7 +33,7 @@ record:
   source_release: chatgpt-2026-06-12-additional-controls-for-memory-summary-37c89b72
   source_type: chatgpt_changelog
   theme: memory
-  title: Highlight any text in the memory summary to make a specific correction.
+  title: Highlight any text in the memory summary to make a specific correction
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-04-22-sometimes-you-just-want-the-right-answer-as-quickly-as-possible-we-re-rolling-ou|chatgpt-2026-04-22-29853c]]'
@@ -42,11 +42,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-12-additional-controls-for-memory-summary-37c89b72|chatgpt-2026-06-12-additional-controls-for-memory-summary-37c89b72]]'
 source_type: chatgpt_changelog
 theme: memory
-title: Highlight any text in the memory summary to make a specific correction.
+title: Highlight any text in the memory summary to make a specific correction
 type: change
 ---
 
-# Highlight any text in the memory summary to make a specific correction.
+# Highlight any text in the memory summary to make a specific correction
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Additional controls for memory summary: Highlight any text in the memory summary to make a specific correction.

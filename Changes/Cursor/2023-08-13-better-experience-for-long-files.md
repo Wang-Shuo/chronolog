@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 87810820a5ee95c8b2c5b8a28aa17f14ed63592a318ceab507a1bd4d0adf05f8
+machine_hash: 419d7b1b180bc4a7181558588d2e98375c8d034cfbca1798b04b755f48e5a760
 product: cursor
 product_name: Cursor
 record:
@@ -24,7 +24,7 @@ record:
   evidence:
   - quote: Better experience for long files!
     source_release: https://cursor.com/changelog/0-7-9-nightly-0-7-10-nightly
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

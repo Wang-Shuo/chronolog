@@ -11,9 +11,9 @@ diffusion:
   theme: file-data
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8e3d9e2ee0ec6d4f2d22c7ee00377828ddf9c7c86fbfa73ab0b8541231414e8c
+machine_hash: 03ed6b08cdb4f838ce0c47e66caac2c3f41db7d0655111c907d88d5412ec6afb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
       accounts, view a dashboard of their finances, and ask ChatGPT questions grounded
       in their financial context
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -52,8 +52,7 @@ record:
     score: 50
     theme: context-window
   theme_resolution: manual-semantic-rule-v2
-  title: The personal finance experience in ChatGPT is rolling out to Plus users in
-    the U
+  title: The personal finance experience in ChatGPT is rolling out to Plus users…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-06-04-design-mode-is-now-available-in-canvases|cursor-2026-06-04-58d458]]'
@@ -62,12 +61,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-26-personal-finance-in-chatgpt-expands-to-plus-users-and-android-e1f9ce56|chatgpt-2026-06-26-personal-finance-in-chatgpt-expands-to-plus-users-and-android-e1f9ce56]]'
 source_type: chatgpt_changelog
 theme: file-data
-title: The personal finance experience in ChatGPT is rolling out to Plus users in
-  the U
+title: The personal finance experience in ChatGPT is rolling out to Plus users…
 type: change
 ---
 
-# The personal finance experience in ChatGPT is rolling out to Plus users in the U
+# The personal finance experience in ChatGPT is rolling out to Plus users…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Personal finance in ChatGPT expands to Plus users and Android: The personal finance experience in ChatGPT is rolling out to Plus users in the U.S. on web and iOS. It is also now available on Android for Pro and Plus users in the U.S.Eligible users can securely connect supported financial accounts, view a dashboard of their finances, and ask ChatGPT questions grounded in their financial context

@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-02-10'
-machine_hash: 24ee5520d25b21eaffecc3d71ff0311bf3572597094658749230e9c6bec4f7e4
+machine_hash: 7d20dab411f73c94ec45b08cdbf2004e48f762bf478c98f9e0697122d23c5543
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- interface-experience: [[Changes/ChatGPT/2026-02-10-we-re-introducing-improvements-to-deep-research-in-chatgpt-to-help-produce-more|We’re introducing improvements to deep research in ChatGPT to help produce more]]
+- interface-experience: [[Changes/ChatGPT/2026-02-10-we-re-introducing-improvements-to-deep-research-in-chatgpt-to-help-produce-more|ChatGPT introduces improvements to deep research to help produce more accurate…]]
 <!-- chronolog:end -->

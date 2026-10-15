@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2025-02-06'
-machine_hash: 589335c64777e16785ed9faaefd5fe8b6ad00de0f88439b1fb7f5ebecc6f0d5a
+machine_hash: 68d74a5ec666d95dcf0727af0cad7275fd63a0eb8c11ee23904b19896a7d1a4f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,6 +40,6 @@ Tracked cards: 2
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- file-data: [[Changes/ChatGPT/2025-02-06-users-can-now-share-a-canvas-asset-such-as-rendered-react-html-code-document-or|Users can now share a Canvas asset such as rendered React/HTML code, document, o]]
-- file-data: [[Changes/ChatGPT/2025-02-06-for-more-details-about-the-canvas-feature-in-chatgpt-check-out-the-following-hel|For more details about the canvas feature in ChatGPT, check out the following He]]
+- file-data: [[Changes/ChatGPT/2025-02-06-users-can-now-share-a-canvas-asset-such-as-rendered-react-html-code-document-or|Users can now share a Canvas asset such as rendered React/HTML code, document…]]
+- file-data: [[Changes/ChatGPT/2025-02-06-for-more-details-about-the-canvas-feature-in-chatgpt-check-out-the-following-hel|For more details about the canvas feature in ChatGPT, check out the following Help…]]
 <!-- chronolog:end -->

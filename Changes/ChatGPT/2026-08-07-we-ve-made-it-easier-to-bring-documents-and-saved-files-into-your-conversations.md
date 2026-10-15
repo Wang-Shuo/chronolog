@@ -11,9 +11,9 @@ diffusion:
   theme: file-data
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3ee6fc7f942c5e55a13e34045ac797cff101e4286fe9a527c4918fb5838aa13e
+machine_hash: 11bfa832a6c084454e7350707d8d85ca24a66cf9c726a4e1eb1592470bfb2459
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: We’ve made it easier to bring documents and saved files into your conversations,
       find what you need, and pick up where you left off.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -35,7 +35,7 @@ record:
   source_release: chatgpt-2026-08-07-chatgpt-app-experience-updates-d15f55c5
   source_type: chatgpt_changelog
   theme: file-data
-  title: We’ve made it easier to bring documents and saved files into your conversations,
+  title: ChatGPT makes it easier to bring documents and saved files into your conversations…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-29-added-clickable-file-attachments-in-chat-cmd-ctrl-click-reveals-the-file-in-find|claude-code-2026-06-29-67122d]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-07-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-08-07-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
 theme: file-data
-title: We’ve made it easier to bring documents and saved files into your conversations,
+title: ChatGPT makes it easier to bring documents and saved files into your conversations…
 type: change
 ---
 
-# We’ve made it easier to bring documents and saved files into your conversations,
+# ChatGPT makes it easier to bring documents and saved files into your conversations…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT app experience updates: We’ve made it easier to bring documents and saved files into your conversations, find what you need, and pick up where you left off.

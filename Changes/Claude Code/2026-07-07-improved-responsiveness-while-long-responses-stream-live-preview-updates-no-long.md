@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f13539012a5d45b2f680a2ec7634d64dd40942e2c822beb41465b3751760ab33
+machine_hash: 4b3f058586e676b2f53f690cb68a66d5b5f952404fe51acf1d646a8ae1eaeb42
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: 'Improved responsiveness while long responses stream: live-preview updates
       no longer re-render the whole screen'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.203
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -34,8 +34,7 @@ record:
   source_release: claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc
   source_type: github_releases
   theme: reliability-performance
-  title: 'Improved responsiveness while long responses stream: live-preview updates
-    no lon'
+  title: Improved responsiveness while long responses stream
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-02-transient-server-rate-limit-errors-429s-unrelated-to-your-usage-limit-are-now-re|claude-code-2026-07-02-964eea]]'
@@ -44,12 +43,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc|claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc]]'
 source_type: github_releases
 theme: reliability-performance
-title: 'Improved responsiveness while long responses stream: live-preview updates
-  no lon'
+title: Improved responsiveness while long responses stream
 type: change
 ---
 
-# Improved responsiveness while long responses stream: live-preview updates no lon
+# Improved responsiveness while long responses stream
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.203: Improved responsiveness while long responses stream: live-preview updates no longer re-render the whole screen

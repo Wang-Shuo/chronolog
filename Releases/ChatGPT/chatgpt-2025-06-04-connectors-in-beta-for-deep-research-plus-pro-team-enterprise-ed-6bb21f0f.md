@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2025-06-04'
-machine_hash: b96779feb5f70829016d78a9e7c33b988fc6adbfbd7f59be2b8ef424c5913a35
+machine_hash: df7c5897b3b8f474561a02de5140c82d7cb13f296e2c69072a5f9d6fabd65696
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,7 +43,7 @@ Tracked cards: 3
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- apps-integrations: [[Changes/ChatGPT/2025-06-04-supported-connectors-google-drive-sharepoint-dropbox-box-outlook-gmail-google-ca|Supported connectors: Google Drive, SharePoint, Dropbox, Box, Outlook, Gmail, Go]]
+- apps-integrations: [[Changes/ChatGPT/2025-06-04-supported-connectors-google-drive-sharepoint-dropbox-box-outlook-gmail-google-ca|Supported connectors: Google Drive, SharePoint, Dropbox, Box, Outlook, Gmail, Google…]]
 - search-browsing: [[Changes/ChatGPT/2025-06-04-combines-internal-web-sources-for-synthesis|Combines internal + web sources for synthesis]]
-- search-browsing: [[Changes/ChatGPT/2025-06-04-chatgpt-team-enterprise-and-edu-customers-globally-can-use-connectors-in-deep-re|ChatGPT Team, Enterprise, and Edu customers globally can use connectors in deep]]
+- search-browsing: [[Changes/ChatGPT/2025-06-04-chatgpt-team-enterprise-and-edu-customers-globally-can-use-connectors-in-deep-re|ChatGPT Team, Enterprise, and Edu customers globally can use connectors in deep…]]
 <!-- chronolog:end -->

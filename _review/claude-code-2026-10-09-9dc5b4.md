@@ -1,6 +1,6 @@
 ---
 draft: true
-machine_hash: 9c7f39cc50ebe3f695e6e57b96f5ebe43d42325f06f142983397f010e11c357a
+machine_hash: 65aec32a97f0692cca2088bc29a0a2304c26cbed03ae0bb3edd37cfa544feba1
 product: claude-code
 record:
   card_id: claude-code-2026-10-09-9dc5b4
@@ -14,7 +14,7 @@ record:
       to set a longer maximum delay for the backoff when retrying an overloaded (529)
       request
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.296
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -26,7 +26,7 @@ record:
   theme_review_reason: no_match
   theme_suggestion: added-claude-code
   title: Added `CLAUDE_CODE_OVERLOADED_RETRY_MAX_DELAY_MS` environment variable to
-    set a
+    set…
   type: change
 ---
 

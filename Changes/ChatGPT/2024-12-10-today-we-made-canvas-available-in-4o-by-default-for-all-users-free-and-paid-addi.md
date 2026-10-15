@@ -11,9 +11,9 @@ diffusion:
   theme: file-data
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: e64bfd8104f43a1f9575954164a21788f308a1dd78a817fc06fac41fac2eecf2
+machine_hash: a434ebd2ada130c6ea1f3fa573ac076753fdc2f8f71805c16671062d6b822f96
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
   - quote: 'Today we made Canvas available in 4o by default for all users, Free and
       Paid. Additionally, we launched a number of new capabilities for canvas, including:'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -37,8 +37,7 @@ record:
   source_release: chatgpt-2024-12-10-canvas-a457e8f0
   source_type: chatgpt_changelog
   theme: file-data
-  title: Today we made Canvas available in 4o by default for all users, Free and Paid.
-    Ad
+  title: Today we made Canvas available in 4o by default for all users, Free and Paid
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2024-05-16-interact-with-tables-and-charts-in-a-new-expandable-view|chatgpt-2024-05-16-1a7df2]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2024-12-10-canvas-a457e8f0|chatgpt-2024-12-10-canvas-a457e8f0]]'
 source_type: chatgpt_changelog
 theme: file-data
-title: Today we made Canvas available in 4o by default for all users, Free and Paid.
-  Ad
+title: Today we made Canvas available in 4o by default for all users, Free and Paid
 type: change
 ---
 
-# Today we made Canvas available in 4o by default for all users, Free and Paid. Ad
+# Today we made Canvas available in 4o by default for all users, Free and Paid
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Canvas: Today we made Canvas available in 4o by default for all users, Free and Paid. Additionally, we launched a number of new capabilities for canvas, including:

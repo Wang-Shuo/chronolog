@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: ca63aa03d16dab8fc65aa1cdf4866c2e02fe71233679fd0b81cd482e47c633b1
+machine_hash: 6f9dd5249efd8f7813f5aebd3a93e3c6ff345c9a2a0fd410b87fa9b8acca892d
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
   - quote: 'More reliable Copilot++ changes: less flashing, better highlighting of
       what''s new.'
     source_release: https://cursor.com/changelog/0-18-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -39,7 +39,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: 'More reliable Copilot++ changes: less flashing, better highlighting of what''s
-    ne'
+    new'
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-11-15-copilot-sees-your-lint-errors-and-will-use-this-to-improve-its-suggestions|cursor-2023-11-15-ef0a36]]'
@@ -49,11 +49,11 @@ source_release: '[[Releases/Cursor/cursor-2023-11-30-0-18-0-https-cursor-com-cha
 source_type: cursor_changelog
 theme: editor-experience
 title: 'More reliable Copilot++ changes: less flashing, better highlighting of what''s
-  ne'
+  new'
 type: change
 ---
 
-# More reliable Copilot++ changes: less flashing, better highlighting of what's ne
+# More reliable Copilot++ changes: less flashing, better highlighting of what's new
 
 <!-- chronolog:begin region="description" -->
 Cursor — Better Context Chat, Faster Copilot++: More reliable Copilot++ changes: less flashing, better highlighting of what's new.

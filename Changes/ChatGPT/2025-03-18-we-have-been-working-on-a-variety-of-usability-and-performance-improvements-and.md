@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 87f20b9f6a6fab7a3468957ffdeaba29610dfae463f5efc281e27a333898b98f
+machine_hash: 8a2dc4e34707ae28bf49b0823a9606c8f4d56042c1942f37160427fc403c1cee
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       and bug fixes across Web, Android, and iOS. Below are a small number of specific
       callouts. For updates on the ChatGPT macOS app, please see this page.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -49,7 +49,7 @@ record:
     score: 50
     theme: reliability-performance
   title: We have been working on a variety of usability and performance improvements
-    and
+    and bug…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-02-28-2-bug-fixes-and-small-improvements-in-the-1-2025-056-ios-release-3-a-setting-to|chatgpt-2025-02-28-4b3cbf]]'
@@ -59,11 +59,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2025-03-18-web-and-the-windows-deskt
 source_type: chatgpt_changelog
 theme: mobile-desktop
 title: We have been working on a variety of usability and performance improvements
-  and
+  and bug…
 type: change
 ---
 
-# We have been working on a variety of usability and performance improvements and
+# We have been working on a variety of usability and performance improvements and bug…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Web and the Windows desktop app: We have been working on a variety of usability and performance improvements and bug fixes across Web, Android, and iOS. Below are a small number of specific callouts. For updates on the ChatGPT macOS app, please see this page.

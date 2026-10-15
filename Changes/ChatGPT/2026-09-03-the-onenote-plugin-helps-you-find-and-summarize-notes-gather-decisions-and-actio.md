@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 106f6f3e146676c27542ed3231dce69a469285ac81a3aeb777e7aa6fb11333f5
+machine_hash: 3948672d17e869fac093340c3086adc084a499c7ec10df96c28326b79540cc1a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
       and action items, and create or update notes through supported actions in ChatGPT
       and Codex.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -37,7 +37,7 @@ record:
   source_type: chatgpt_changelog
   theme: apps-integrations
   title: The OneNote plugin helps you find and summarize notes, gather decisions and
-    acti
+    action…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-09-01-eligible-chatgpt-for-clinicians-users-in-the-united-states-can-now-use-healthcar|chatgpt-2026-09-01-613673]]'
@@ -47,11 +47,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-09-03-zendesk-onenote-plugins-i
 source_type: chatgpt_changelog
 theme: apps-integrations
 title: The OneNote plugin helps you find and summarize notes, gather decisions and
-  acti
+  action…
 type: change
 ---
 
-# The OneNote plugin helps you find and summarize notes, gather decisions and acti
+# The OneNote plugin helps you find and summarize notes, gather decisions and action…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Zendesk & OneNote Plugins in ChatGPT and Codex [Beta]: The OneNote plugin helps you find and summarize notes, gather decisions and action items, and create or update notes through supported actions in ChatGPT and Codex.

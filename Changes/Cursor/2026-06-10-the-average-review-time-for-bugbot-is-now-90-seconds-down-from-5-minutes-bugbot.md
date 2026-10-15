@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 2cd8dcd3ca78f6b9e119a645dce77b2328cd24c1b23040defea071e4ba4be175
+machine_hash: fd6e70eda11bb6521061c6288015cc09c2677d53622ab41143f75127a5d28ae4
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
       Bugbot also finds 10% more bugs per review on average — 0.62, up from 0.56 —
       and costs ~22% less per run.
     source_release: https://cursor.com/changelog/bugbot-updates-june-2026
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -39,8 +39,7 @@ record:
   theme: reliability-performance
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: The average review time for Bugbot is now ~90 seconds, down from ~5 minutes.
-    Bug
+  title: The average review time for Bugbot is now ~90 seconds, down from ~5 minutes
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-28-claude-code-now-shows-a-one-time-notice-when-your-npm-global-install-can-t-auto|claude-code-2026-05-28-db7d22]]'
@@ -49,12 +48,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-06-10-bugbot-is-now-over-3x-faster-22-cheaper-and-finds-10-more-bugs-h-c1721c78|cursor-2026-06-10-bugbot-is-now-over-3x-faster-22-cheaper-and-finds-10-more-bugs-h-c1721c78]]'
 source_type: cursor_changelog
 theme: reliability-performance
-title: The average review time for Bugbot is now ~90 seconds, down from ~5 minutes.
-  Bug
+title: The average review time for Bugbot is now ~90 seconds, down from ~5 minutes
 type: change
 ---
 
-# The average review time for Bugbot is now ~90 seconds, down from ~5 minutes. Bug
+# The average review time for Bugbot is now ~90 seconds, down from ~5 minutes
 
 <!-- chronolog:begin region="description" -->
 Cursor — Bugbot is now over 3x faster, 22% cheaper, and finds 10% more bugs: The average review time for Bugbot is now ~90 seconds, down from ~5 minutes. Bugbot also finds 10% more bugs per review on average — 0.62, up from 0.56 — and costs ~22% less per run.

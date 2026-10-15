@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 6f59b72f0d8288a2155ad090f76a44487ab88ca822c2c3933aecc96b4d00f214
+machine_hash: 9c64399c1b97999d0ba48fa8ec9af2cb35c8aa551c7977593e3b2f0b1d9eb7fd
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,7 +29,7 @@ record:
   - quote: Added MCP elicitation support — MCP servers can now request structured
       input mid-task via an interactive dialog (form fields or browser URL)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.76
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -37,8 +37,7 @@ record:
   source_release: claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc
   source_type: github_releases
   theme: apps-integrations
-  title: Added MCP elicitation support — MCP servers can now request structured input
-    mid
+  title: Added MCP elicitation support
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-03-11-we-ve-added-more-than-30-new-plugins-from-partners-such-as-atlassian-datadog-git|cursor-2026-03-11-d051e9]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc|claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added MCP elicitation support — MCP servers can now request structured input
-  mid
+title: Added MCP elicitation support
 type: change
 ---
 
-# Added MCP elicitation support — MCP servers can now request structured input mid
+# Added MCP elicitation support
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.76: Added MCP elicitation support — MCP servers can now request structured input mid-task via an interactive dialog (form fields or browser URL)

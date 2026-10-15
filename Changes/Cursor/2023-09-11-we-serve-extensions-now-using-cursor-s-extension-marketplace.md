@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e63d768eea1069cd8f397da539a0fc0905808bad1d1d0e128931b078aa38c1fc
+machine_hash: 97269de6440ed83efd7c9c75f5ed7f8078c037b6ae5b99add6a38be47de5ca28
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: We serve extensions now using Cursor's Extension Marketplace
     source_release: https://cursor.com/changelog/0-10-6-nightly
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

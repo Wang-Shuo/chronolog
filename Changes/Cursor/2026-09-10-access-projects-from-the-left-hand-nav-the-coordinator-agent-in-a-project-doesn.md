@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: e939f5a03bc7c94b1db80e0bf321595b9ed2fe2460497e9704ac7ba7fa6e74c3
+machine_hash: 21c1d69b504d0e3294d7a8556e7c5187107b41c3ec818c76da98e41f5453cd8a
 product: cursor
 product_name: Cursor
 record:
@@ -33,7 +33,7 @@ record:
       it, and brings the finished work back to you to check. Coordinators create and
       manage agents on your behalf, running as many in parallel as the work needs.
     source_release: https://cursor.com/changelog/projects
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -41,8 +41,7 @@ record:
   source_release: cursor-2026-09-10-cursor-projects-https-cursor-com-changelog-projects-105aab75
   source_type: cursor_changelog
   theme: agent-mode
-  title: Access Projects from the left-hand nav. The coordinator agent in a project
-    doesn
+  title: Access Projects from the left-hand nav
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-04-added-append-subagent-system-prompt-file-to-read-the-subagent-system-prompt-from|claude-code-2026-09-04-a2fd66]]'
@@ -51,12 +50,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-09-10-cursor-projects-https-cursor-com-changelog-projects-105aab75|cursor-2026-09-10-cursor-projects-https-cursor-com-changelog-projects-105aab75]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: Access Projects from the left-hand nav. The coordinator agent in a project
-  doesn
+title: Access Projects from the left-hand nav
 type: change
 ---
 
-# Access Projects from the left-hand nav. The coordinator agent in a project doesn
+# Access Projects from the left-hand nav
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cursor Projects: Access Projects from the left-hand nav. The coordinator agent in a project doesn't write code itself; it plans the work, delegates it to agents that implement it, and brings the finished work back to you to check. Coordinators create and manage agents on your behalf, running as many in parallel as the work needs.

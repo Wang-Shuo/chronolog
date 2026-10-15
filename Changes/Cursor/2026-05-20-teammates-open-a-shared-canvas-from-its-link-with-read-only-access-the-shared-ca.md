@@ -11,9 +11,9 @@ diffusion:
   theme: enterprise-admin
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3a70ef1cfbe2ad044d491c0e2e37117c5c90ff01ede331f4709e6b1d9e9bce1c
+machine_hash: 813d622eeca112f3963b748b86187979a13aba1d7285ef5cce46134fad123c6a
 product: cursor
 product_name: Cursor
 record:
@@ -30,7 +30,7 @@ record:
       so you can manage your own shares. Shared canvases are available on Pro, Teams,
       and Enterprise plans.
     source_release: https://cursor.com/changelog/shared-canvases
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -52,8 +52,7 @@ record:
     score: 50
     theme: file-data
   theme_resolution: manual-semantic-rule-v1
-  title: Teammates open a shared canvas from its link with read-only access. The Shared
-    C
+  title: Teammates open a shared canvas from its link with read-only access
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-08-added-claude-code-enable-feedback-survey-for-otel-to-re-enable-the-session-quali|claude-code-2026-05-08-cbfe28]]'
@@ -62,12 +61,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-05-20-3-5-https-cursor-com-changelog-shared-canvases-68b3b2da|cursor-2026-05-20-3-5-https-cursor-com-changelog-shared-canvases-68b3b2da]]'
 source_type: cursor_changelog
 theme: enterprise-admin
-title: Teammates open a shared canvas from its link with read-only access. The Shared
-  C
+title: Teammates open a shared canvas from its link with read-only access
 type: change
 ---
 
-# Teammates open a shared canvas from its link with read-only access. The Shared C
+# Teammates open a shared canvas from its link with read-only access
 
 <!-- chronolog:begin region="description" -->
 Cursor — Shared Canvases and /loop Skill: Teammates open a shared canvas from its link with read-only access. The Shared Canvases page in the Cursor Dashboard lists the canvases you've published, so you can manage your own shares. Shared canvases are available on Pro, Teams, and Enterprise plans.

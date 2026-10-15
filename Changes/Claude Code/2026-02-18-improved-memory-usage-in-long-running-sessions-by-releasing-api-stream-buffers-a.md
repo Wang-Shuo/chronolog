@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: e57d9107c7553ac7450cebbfa47ca1f5229fb95013536454a99b4c5d1d316658
+machine_hash: e7418ac44af8f06f3a48f940d7e435138a65010aae9e168bfc15ee64dd00f980
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Improved memory usage in long-running sessions by releasing API stream
       buffers, agent context, and skill state after use
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.47
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code
@@ -50,7 +50,7 @@ record:
     score: 50
     theme: context-window
   theme_resolution: manual-semantic-rule-v2
-  title: Improved memory usage in long-running sessions by releasing API stream buffers,
+  title: Improved memory usage in long-running sessions by releasing API stream buffers…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-18-improved-memory-usage-by-trimming-agent-task-message-history-after-tasks-complet|claude-code-2026-02-18-7be345]]'
@@ -59,11 +59,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-02-18-v2-1-47-github-287886320-98b6e931|claude-code-2026-02-18-v2-1-47-github-287886320-98b6e931]]'
 source_type: github_releases
 theme: reliability-performance
-title: Improved memory usage in long-running sessions by releasing API stream buffers,
+title: Improved memory usage in long-running sessions by releasing API stream buffers…
 type: change
 ---
 
-# Improved memory usage in long-running sessions by releasing API stream buffers,
+# Improved memory usage in long-running sessions by releasing API stream buffers…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.47: Improved memory usage in long-running sessions by releasing API stream buffers, agent context, and skill state after use

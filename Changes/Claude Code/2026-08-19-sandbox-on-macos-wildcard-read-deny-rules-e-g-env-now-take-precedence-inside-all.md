@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a7bbace33527cabdfa1b4349a20f7952a6eb73798315ab8805f6e733b140060f
+machine_hash: 371c344f0dc24480ca4f41cb6d239e0159b775c469674ea8e59c58515b3c44f5
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       precedence inside allowed read regions, cover matched directories'' contents,
       and can''t be bypassed by renaming the denied file'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.236
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,7 +38,7 @@ record:
   theme: safety-privacy
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: 'Sandbox: on macOS, wildcard read-deny rules (e.g. `**/.env`) now take precedence'
+  title: 'Sandbox: on macOS, wildcard read-deny rules (e.g. `**/.env`) now take precedence…'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-14-fixed-cloud-sessions-occasionally-being-marked-as-lost-when-the-environment-shut|claude-code-2026-08-14-e227c6]]'
@@ -47,11 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-08-19-v2-1-236-github-373272539-bbbacf79|claude-code-2026-08-19-v2-1-236-github-373272539-bbbacf79]]'
 source_type: github_releases
 theme: safety-privacy
-title: 'Sandbox: on macOS, wildcard read-deny rules (e.g. /.env) now take precedence'
+title: 'Sandbox: on macOS, wildcard read-deny rules (e.g. /.env) now take precedence…'
 type: change
 ---
 
-# Sandbox: on macOS, wildcard read-deny rules (e.g. `**/.env`) now take precedence
+# Sandbox: on macOS, wildcard read-deny rules (e.g. `**/.env`) now take precedence…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.236: Sandbox: on macOS, wildcard read-deny rules (e.g. `**/.env`) now take precedence inside allowed read regions, cover matched directories' contents, and can't be bypassed by renaming the denied file

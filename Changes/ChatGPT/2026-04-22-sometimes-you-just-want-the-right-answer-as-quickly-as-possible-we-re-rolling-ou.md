@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: c02c0d6337a5cab5a4b50eff1e3e8455bada497bb32d61b199ceff8e8a5d37ae
+machine_hash: d1afdc5f39aefe3e49149dd683419b450ac2a952d7eb28af49ec8f5d5995b65d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,7 +44,7 @@ record:
       answers off anytime in Personalization settings.We’ll continue expanding Fast
       answers to more kinds of questions over time.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -71,7 +71,7 @@ record:
     - faster
     score: 50
     theme: reliability-performance
-  title: Sometimes, you just want the right answer as quickly as possible. We’re rolling
+  title: Sometimes, you just want the right answer as quickly as possible
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-12-added-automemorydirectory-setting-to-configure-a-custom-directory-for-auto-memor|claude-code-2026-03-12-0c4477]]'
@@ -80,11 +80,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-04-22-fast-answers-in-chatgpt-300ebea9|chatgpt-2026-04-22-fast-answers-in-chatgpt-300ebea9]]'
 source_type: chatgpt_changelog
 theme: memory
-title: Sometimes, you just want the right answer as quickly as possible. We’re rolling
+title: Sometimes, you just want the right answer as quickly as possible
 type: change
 ---
 
-# Sometimes, you just want the right answer as quickly as possible. We’re rolling
+# Sometimes, you just want the right answer as quickly as possible
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Fast answers in ChatGPT: Sometimes, you just want the right answer as quickly as possible. We’re rolling out Fast answers, a quicker way to get responses to common information-seeking questions in ChatGPT, like “Show me the Seven Wonders of the World” or “Which football team has the most super bowl titles?”When your question doesn’t require a personalized response and ChatGPT has a high-confidence answer ready, it can now respond faster while still providing a useful, in-depth answer. Fast answers do not reference your past chats or memory. Fast answers are available globally on web, iOS, and Android for logged in and logged out users across plans. If you prefer ChatGPT to always generate personalized answers, you can turn Fast answers off anytime in Personalization settings.We’ll continue expanding Fast answers to more kinds of questions over time.

@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e776d728bb826389df0168dc1441921e501619c5eebb3940536162fd854f3f09
+machine_hash: 1514a80dc374f2baf21830c55cf1134cf38862196e4b9a3b0f9c8f5e45db1b9b
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       to give Claude feedback and keep the turn going without being labeled a hook
       error'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.163
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,7 +38,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: 'Hooks: Stop and SubagentStop hooks can now return `hookSpecificOutput.additional'
+  title: 'Hooks: Stop and SubagentStop hooks can now return…'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-29-added-autocomplete-for-plugin-arguments-subcommands-installed-plugin-names-and-p|claude-code-2026-05-29-adc504]]'
@@ -47,11 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988|claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988]]'
 source_type: github_releases
 theme: apps-integrations
-title: 'Hooks: Stop and SubagentStop hooks can now return hookSpecificOutput.additional'
+title: 'Hooks: Stop and SubagentStop hooks can now return…'
 type: change
 ---
 
-# Hooks: Stop and SubagentStop hooks can now return `hookSpecificOutput.additional
+# Hooks: Stop and SubagentStop hooks can now return…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.163: Hooks: Stop and SubagentStop hooks can now return `hookSpecificOutput.additionalContext` to give Claude feedback and keep the turn going without being labeled a hook error

@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: c3e031e5b697f74881ddfffe343ba43eea4b4cff2a0ad0c6cb3e927153c85a34
+machine_hash: d4edda73aeabf050bf14025e5dcbbf1aa813304f122345e96d6cc2e463ea6fe5
 product: cursor
 product_name: Cursor
 record:
@@ -24,7 +24,7 @@ record:
   evidence:
   - quote: Cursor is now available in Jira.
     source_release: https://cursor.com/changelog/05-19-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -34,7 +34,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Cursor is now available in Jira.
+  title: Cursor is now available in Jira
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-14-web-setup-warns-before-replacing-an-existing-github-app-connection|claude-code-2026-05-14-b7cb42]]'
@@ -43,11 +43,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-05-19-cursor-in-jira-https-cursor-com-changelog-05-19-26-4a0261e4|cursor-2026-05-19-cursor-in-jira-https-cursor-com-changelog-05-19-26-4a0261e4]]'
 source_type: cursor_changelog
 theme: apps-integrations
-title: Cursor is now available in Jira.
+title: Cursor is now available in Jira
 type: change
 ---
 
-# Cursor is now available in Jira.
+# Cursor is now available in Jira
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cursor in Jira: Cursor is now available in Jira.

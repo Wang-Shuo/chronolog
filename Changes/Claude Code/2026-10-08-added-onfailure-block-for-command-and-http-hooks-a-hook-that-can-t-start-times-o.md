@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e43da002e604b8b55eaadc67eabc3fa4cd0de1505d07066e8c22683a406b6b82
+machine_hash: c2adbe632a914b1186e47031cef594a2f0d6673e9b50bfbd01d16bf3e9db13a6
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       start, times out, or exits with an unexpected code blocks the action instead
       of letting it through'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.295
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -39,7 +39,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: 'Added `onFailure: "block"` for command and HTTP hooks: a hook that can''t
-    start,'
+    start…'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-10-05-added-to-claude-plugin-validate-each-hook-a-mod-registers-at-a-gating-site-is-li|claude-code-2026-10-05-6e76c9]]'
@@ -48,11 +48,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510|claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510]]'
 source_type: github_releases
 theme: apps-integrations
-title: 'Added onFailure: "block" for command and HTTP hooks: a hook that can''t start,'
+title: 'Added onFailure: "block" for command and HTTP hooks: a hook that can''t start…'
 type: change
 ---
 
-# Added `onFailure: "block"` for command and HTTP hooks: a hook that can't start,
+# Added `onFailure: "block"` for command and HTTP hooks: a hook that can't start…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.295: Added `onFailure: "block"` for command and HTTP hooks: a hook that can't start, times out, or exits with an unexpected code blocks the action instead of letting it through

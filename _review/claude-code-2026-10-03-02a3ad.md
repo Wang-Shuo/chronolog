@@ -1,6 +1,6 @@
 ---
 draft: true
-machine_hash: 17864b9acff4a31446e6547b4171b8c3d5c05e12c250695e867ca24133478c71
+machine_hash: 25e008f1d1df0b585329817ac9ddb602f9cea180a654a2e420a6f7bd1720e390
 product: claude-code
 record:
   card_id: claude-code-2026-10-03-02a3ad
@@ -12,7 +12,7 @@ record:
   - quote: '[VSCode] Reverted a 2.1.288 change to `claude auth status` that may have
       made sign-outs more frequent'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.289
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -24,7 +24,7 @@ record:
   theme_review_reason: no_match
   theme_suggestion: vscode-reverted-change
   title: '[VSCode] Reverted a 2.1.288 change to `claude auth status` that may have
-    made si'
+    made…'
   type: change
 ---
 

@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f7e850706bd83b4f09c28ae392cd381e36ea01f5275aca927888a1e96513835b
+machine_hash: 4068d979787d344a724226fbacba629e86cefaaa228ff376cb26fecb90ee0270
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: 'Added `source: ''settings''` plugin marketplace source — declare plugin
       entries inline in settings.json'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.80
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -34,8 +34,7 @@ record:
   source_release: claude-code-2026-03-19-v2-1-80-github-299176707-1bfcfc3a
   source_type: github_releases
   theme: apps-integrations
-  title: 'Added `source: ''settings''` plugin marketplace source — declare plugin
-    entries in'
+  title: 'Added `source: ''settings''` plugin marketplace source'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-17-added-stopfailure-hook-event-that-fires-when-the-turn-ends-due-to-an-api-error-r|claude-code-2026-03-17-331b63]]'
@@ -44,12 +43,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-19-v2-1-80-github-299176707-1bfcfc3a|claude-code-2026-03-19-v2-1-80-github-299176707-1bfcfc3a]]'
 source_type: github_releases
 theme: apps-integrations
-title: 'Added source: ''settings'' plugin marketplace source — declare plugin entries
-  in'
+title: 'Added source: ''settings'' plugin marketplace source'
 type: change
 ---
 
-# Added `source: 'settings'` plugin marketplace source — declare plugin entries in
+# Added `source: 'settings'` plugin marketplace source
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.80: Added `source: 'settings'` plugin marketplace source — declare plugin entries inline in settings.json

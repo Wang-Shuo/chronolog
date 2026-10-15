@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: b9cbf5b49fabb2f4b29e1dfa7d6f45890b804722b13f6b4c42b42eb4d1e81b00
+machine_hash: d6e5fc01c7186bc4ddc224ff08727c9f06db27f6ec30fc803c8685d53999f94e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,7 +24,7 @@ record:
   evidence:
   - quote: Be more or less warm
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT

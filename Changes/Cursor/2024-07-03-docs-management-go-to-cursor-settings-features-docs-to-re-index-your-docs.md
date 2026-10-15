@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0fc0599fa2b7edcb4338894469c750669492ca2a8eb5b2c3bc707d0a2f946708
+machine_hash: 07b65631c54a37b8627b288ce4f45058bc2b391bbdfda8272fde27ff14d3f008
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Docs management! Go to Cursor Settings > Features > Docs to re-index your
       docs.
     source_release: https://cursor.com/changelog/0-36-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: Docs management! Go to Cursor Settings > Features > Docs to re-index your
-    docs.
+    docs
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-01-15-supports-newer-version-of-python-extension|cursor-2024-01-15-7cd7ab]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-07-03-0-36-x-https-cursor-com-changelog-0-36-x-526adbdf|cursor-2024-07-03-0-36-x-https-cursor-com-changelog-0-36-x-526adbdf]]'
 source_type: cursor_changelog
 theme: apps-integrations
-title: Docs management! Go to Cursor Settings  Features  Docs to re-index your docs.
+title: Docs management! Go to Cursor Settings  Features  Docs to re-index your docs
 type: change
 ---
 
-# Docs management! Go to Cursor Settings > Features > Docs to re-index your docs.
+# Docs management! Go to Cursor Settings > Features > Docs to re-index your docs
 
 <!-- chronolog:begin region="description" -->
 Cursor — Instant Applies, Docs Management: Docs management! Go to Cursor Settings > Features > Docs to re-index your docs.

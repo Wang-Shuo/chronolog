@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0d10ca50d1e178a615eeb7974092c25be824c61eabc5bca08ea31cc607e722a6
+machine_hash: 62ef21cd69a8e9592d505096f4dc6d7a0f2d73acc95ff4384492e01090072fa7
 product: cursor
 product_name: Cursor
 record:
@@ -24,7 +24,7 @@ record:
   evidence:
   - quote: Automatically apply chat suggestion
     source_release: https://cursor.com/changelog/0-1-5
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

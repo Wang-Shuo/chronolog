@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a2eb4f71181c4a9a5aa33aee4e7877d1b3a0b3620e22e15a7bd96b064d700a5c
+machine_hash: d94cd86052d92e5aa99e90423548c17e4973b83dc04f46e606e32ac53286640a
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added a live elapsed-time counter to the collapsed tool summary line so
       long-running tool calls visibly tick instead of looking stuck
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.210
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,7 +36,7 @@ record:
   theme: interface-experience
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Added a live elapsed-time counter to the collapsed tool summary line so long-run
+  title: Added a live elapsed-time counter to the collapsed tool summary line so long-running…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-03-changed-askuserquestion-dialogs-to-no-longer-auto-continue-by-default-opt-into-a|claude-code-2026-07-03-53ba6a]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-14-v2-1-210-github-354034085-7eba9ec7|claude-code-2026-07-14-v2-1-210-github-354034085-7eba9ec7]]'
 source_type: github_releases
 theme: interface-experience
-title: Added a live elapsed-time counter to the collapsed tool summary line so long-run
+title: Added a live elapsed-time counter to the collapsed tool summary line so long-running…
 type: change
 ---
 
-# Added a live elapsed-time counter to the collapsed tool summary line so long-run
+# Added a live elapsed-time counter to the collapsed tool summary line so long-running…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.210: Added a live elapsed-time counter to the collapsed tool summary line so long-running tool calls visibly tick instead of looking stuck

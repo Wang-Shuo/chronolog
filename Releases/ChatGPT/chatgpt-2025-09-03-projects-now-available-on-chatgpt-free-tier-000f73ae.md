@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-09-03'
-machine_hash: e7b3106b01a7f73a58425e8c628bd8c6d6045e931b195a32be988e944de7650d
+machine_hash: 14b9241336797f9f2e7cddc3e5e009c4d686585b03b1f5570c23ff86c03436b8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- enterprise-admin: [[Changes/ChatGPT/2025-09-03-projects-bring-your-chats-and-files-into-one-place-helping-you-stay-focused-and-96a40d|Projects bring your chats and files into one place, helping you stay focused and]]
+- enterprise-admin: [[Changes/ChatGPT/2025-09-03-projects-bring-your-chats-and-files-into-one-place-helping-you-stay-focused-and-96a40d|Projects bring your chats and files into one place, helping you stay focused and get…]]
 <!-- chronolog:end -->

@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ad2f94f8e0da0b4a2a79f2996c5e528caa3d554ca81655d547f1e3122b25161c
+machine_hash: 9951b59f7f615168cf8745b824f54f49c1ff44ae438c81c9821163bbe9a6fcc8
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: '[VSCode] Improved scroll wheel responsiveness in the integrated terminal
       with terminal-aware acceleration'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.74
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -44,8 +44,7 @@ record:
     score: 50
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v1
-  title: '[VSCode] Improved scroll wheel responsiveness in the integrated terminal
-    with te'
+  title: '[VSCode] Improved scroll wheel responsiveness in the integrated terminal…'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-05-added-ctrl-u-on-an-empty-bash-prompt-to-exit-bash-mode-matching-escape-and-backs|claude-code-2026-03-05-3c133d]]'
@@ -54,12 +53,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-12-v2-1-74-github-295929475-2ee971ae|claude-code-2026-03-12-v2-1-74-github-295929475-2ee971ae]]'
 source_type: github_releases
 theme: developer-workflow
-title: VSCode Improved scroll wheel responsiveness in the integrated terminal with
-  te
+title: VSCode Improved scroll wheel responsiveness in the integrated terminal…
 type: change
 ---
 
-# [VSCode] Improved scroll wheel responsiveness in the integrated terminal with te
+# [VSCode] Improved scroll wheel responsiveness in the integrated terminal…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.74: [VSCode] Improved scroll wheel responsiveness in the integrated terminal with terminal-aware acceleration

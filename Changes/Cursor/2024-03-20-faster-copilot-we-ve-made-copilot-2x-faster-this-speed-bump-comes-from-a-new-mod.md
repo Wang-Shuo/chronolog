@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 8ce77621408981dc09d06b2486e540ba96135c00b94d6acaf8016521daa70e8c
+machine_hash: 1966e858185bbbb208fc7a1bffbf2dafa38d9a5cf47294b6616ec78ac97eed55
 product: cursor
 product_name: Cursor
 record:
@@ -33,7 +33,7 @@ record:
       and it will roll out to everyone over a few days. If you''d like to enable the
       model immediately, you can control your model in the bottom bar of the editor.'
     source_release: https://cursor.com/changelog/0-30-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -55,8 +55,7 @@ record:
     - model
     score: 50
     theme: model-support
-  title: 'Faster Copilot++: We''ve made Copilot++ ~2x faster! This speed bump comes
-    from a'
+  title: 'Faster Copilot++: We''ve made Copilot++ ~2x faster!'
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-01-15-we-ll-be-working-to-improve-its-performance-over-the-coming-weeks-counts-the-sam|cursor-2024-01-15-f3f291]]'
@@ -65,12 +64,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e|cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e]]'
 source_type: cursor_changelog
 theme: reliability-performance
-title: 'Faster Copilot++: We''ve made Copilot++ ~2x faster! This speed bump comes
-  from a'
+title: 'Faster Copilot++: We''ve made Copilot++ ~2x faster!'
 type: change
 ---
 
-# Faster Copilot++: We've made Copilot++ ~2x faster! This speed bump comes from a
+# Faster Copilot++: We've made Copilot++ ~2x faster!
 
 <!-- chronolog:begin region="description" -->
 Cursor — Faster Copilot++, Claude: Faster Copilot++: We've made Copilot++ ~2x faster! This speed bump comes from a new model / faster inference. ~50% of users are already on this model, and it will roll out to everyone over a few days. If you'd like to enable the model immediately, you can control your model in the bottom bar of the editor.

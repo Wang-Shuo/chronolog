@@ -11,9 +11,9 @@ diffusion:
   theme: projects-workspaces
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 10f8320ca9e99595cc356de703d6618e0253c02291fea1678c8c0b6ceb1324a1
+machine_hash: 037389814e6f24d378bfc899e03d656f921d82b8533b0cd1e1cc42f77622af3c
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Improved Remote session startup with a provisioning checklist while the
       container starts
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.195
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,7 +36,8 @@ record:
   theme: projects-workspaces
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Improved Remote session startup with a provisioning checklist while the containe
+  title: Improved Remote session startup with a provisioning checklist while the container
+    starts
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-01-added-claude-project-purge-path-to-delete-all-claude-code-state-for-a-project-tr|claude-code-2026-05-01-6897b7]]'
@@ -45,11 +46,12 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-26-v2-1-195-github-345467919-2d39e460|claude-code-2026-06-26-v2-1-195-github-345467919-2d39e460]]'
 source_type: github_releases
 theme: projects-workspaces
-title: Improved Remote session startup with a provisioning checklist while the containe
+title: Improved Remote session startup with a provisioning checklist while the container
+  starts
 type: change
 ---
 
-# Improved Remote session startup with a provisioning checklist while the containe
+# Improved Remote session startup with a provisioning checklist while the container starts
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.195: Improved Remote session startup with a provisioning checklist while the container starts

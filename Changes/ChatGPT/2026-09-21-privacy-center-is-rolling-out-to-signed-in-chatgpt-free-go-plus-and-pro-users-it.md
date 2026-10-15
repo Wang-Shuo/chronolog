@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8ef20bcc5b00e144389e001b3952fd026f744e7bc98b934e41c9cbbb6a3fa0fa
+machine_hash: 4babdbddccab169e10b47a707548cb99609917ca42a29be2f50e196cde64cf5b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       data use, connected apps, and account security, with links to the settings that
       manage them. Your privacy controls remain in ChatGPT Settings.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT

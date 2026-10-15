@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 3d4637dc9b5a318833104664868d92593ae8cce3a86f30b577f04d55649c79dd
+machine_hash: 527057441fc116a540127021f859d7fa3909ef0f25c5fa83f7a3230ba5324539
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
   - quote: Use Remote Control in the Agents Window to take an agent you're running
       on your computer and keep directing it from your phone.
     source_release: https://cursor.com/changelog/ios-mobile-app
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -37,8 +37,7 @@ record:
   source_release: cursor-2026-06-29-3-9-https-cursor-com-changelog-ios-mobile-app-d7278607
   source_type: cursor_changelog
   theme: agent-mode
-  title: Use Remote Control in the Agents Window to take an agent you're running on
-    your
+  title: Use Remote Control in the Agents Window to take an agent you're running…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-25-added-auto-mode-denial-reasons-to-the-transcript-the-denial-toast-and-permission|claude-code-2026-06-25-1a6f27]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-06-29-3-9-https-cursor-com-changelog-ios-mobile-app-d7278607|cursor-2026-06-29-3-9-https-cursor-com-changelog-ios-mobile-app-d7278607]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: Use Remote Control in the Agents Window to take an agent you're running on
-  your
+title: Use Remote Control in the Agents Window to take an agent you're running…
 type: change
 ---
 
-# Use Remote Control in the Agents Window to take an agent you're running on your
+# Use Remote Control in the Agents Window to take an agent you're running…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cursor Mobile App for iOS: Use Remote Control in the Agents Window to take an agent you're running on your computer and keep directing it from your phone.

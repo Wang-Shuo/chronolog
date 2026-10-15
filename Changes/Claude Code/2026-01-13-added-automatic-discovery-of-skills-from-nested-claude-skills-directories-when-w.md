@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 77c564857e5dab04d69aa694ae61b08ae42f75220d7c76b4719e7ba5db01f4ec
+machine_hash: 888050fd778eb093271ab7b4f9bfe297af5098a0310e201c5b0776f48d10c958
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added automatic discovery of skills from nested `.claude/skills` directories
       when working with files in subdirectories
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.6
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Added automatic discovery of skills from nested `.claude/skills` directories
-    whe
+  title: Added automatic discovery of skills from nested `.claude/skills` directories…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-01-08-enable-and-disable-mcp-servers-on-the-fly-with-mcp-enable-and-mcp-disable-comman|cursor-2026-01-08-35b675]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-01-13-v2-1-6-github-276206295-e2719d9a|claude-code-2026-01-13-v2-1-6-github-276206295-e2719d9a]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added automatic discovery of skills from nested .claude/skills directories
-  whe
+title: Added automatic discovery of skills from nested .claude/skills directories…
 type: change
 ---
 
-# Added automatic discovery of skills from nested `.claude/skills` directories whe
+# Added automatic discovery of skills from nested `.claude/skills` directories…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.6: Added automatic discovery of skills from nested `.claude/skills` directories when working with files in subdirectories

@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2023-06-22'
-machine_hash: 89d0cab3476add23571003eee3e816ee37598efea8dc25690a66477c4a0cbbe8
+machine_hash: cda6812c87cc01c2356ac79cbc6a1d74843bab9fb7750063da171dcc8f864b73
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,7 +38,7 @@ Tracked cards: 3
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2023-06-22-browsing-plus-users-can-now-use-browsing-to-get-comprehensive-answers-and-curren|Browsing: Plus users can now use Browsing to get comprehensive answers and curre]]
-- search-browsing: [[Changes/ChatGPT/2023-06-22-search-history-improvements-tapping-on-a-search-result-takes-you-directly-to-the|Search History Improvements: Tapping on a search result takes you directly to th]]
-- mobile-desktop: [[Changes/ChatGPT/2023-06-22-we-ve-made-two-updates-to-the-mobile-chatgpt-app|We’ve made two updates to the mobile ChatGPT app:]]
+- model-support: [[Changes/ChatGPT/2023-06-22-browsing-plus-users-can-now-use-browsing-to-get-comprehensive-answers-and-curren|Browsing: Plus users can now use Browsing to get comprehensive answers and current…]]
+- search-browsing: [[Changes/ChatGPT/2023-06-22-search-history-improvements-tapping-on-a-search-result-takes-you-directly-to-the|Search History Improvements]]
+- mobile-desktop: [[Changes/ChatGPT/2023-06-22-we-ve-made-two-updates-to-the-mobile-chatgpt-app|ChatGPT makes two updates to the mobile ChatGPT app]]
 <!-- chronolog:end -->

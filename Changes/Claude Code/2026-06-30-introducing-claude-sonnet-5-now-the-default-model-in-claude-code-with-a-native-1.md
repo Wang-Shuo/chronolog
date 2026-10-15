@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: c8d9f383321a553a4d6d593e3a627083f75339ee7dae4cc7570e100a90c03beb
+machine_hash: 7b18a4a8740c938fe4f781e44fa12e6b93b2872da20919b00923b450b8415965
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       a native 1M-token context window and promotional pricing of $2/$10 per Mtok
       through August 31. Update to version 2.1.197 for access. https://www.anthropic.com/news/claude-sonnet-5'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.197
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code
@@ -55,8 +55,7 @@ record:
     score: 50
     theme: pricing-model
   theme_resolution: manual-semantic-rule-v2
-  title: 'Introducing Claude Sonnet 5: now the default model in Claude Code, with
-    a native'
+  title: Introducing Claude Sonnet 5
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-25-added-claude-code-assistant-response-opentelemetry-log-event-containing-the-mode|claude-code-2026-06-25-82838a]]'
@@ -65,12 +64,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-30-v2-1-197-github-346856026-11e4aa1f|claude-code-2026-06-30-v2-1-197-github-346856026-11e4aa1f]]'
 source_type: github_releases
 theme: model-support
-title: 'Introducing Claude Sonnet 5: now the default model in Claude Code, with a
-  native'
+title: Introducing Claude Sonnet 5
 type: change
 ---
 
-# Introducing Claude Sonnet 5: now the default model in Claude Code, with a native
+# Introducing Claude Sonnet 5
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.197: Introducing Claude Sonnet 5: now the default model in Claude Code, with a native 1M-token context window and promotional pricing of $2/$10 per Mtok through August 31. Update to version 2.1.197 for access. https://www.anthropic.com/news/claude-sonnet-5

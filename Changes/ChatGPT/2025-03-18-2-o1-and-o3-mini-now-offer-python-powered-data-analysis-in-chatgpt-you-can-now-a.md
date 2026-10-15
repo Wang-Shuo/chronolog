@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: fefd659f9f35bf252a7f785c6d547d8e231d3c53370686885b6ceea2a11a8d30
+machine_hash: cce57166e33437414eaf582a93ef962c9d91f6f0658eddd18de12b9e32a8556f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
       Conversation Drafts: Unsubmitted messages in your message prompt will now be
       saved.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -50,8 +50,7 @@ record:
     score: 50
     theme: model-support
   theme_resolution: manual-semantic-rule-v2
-  title: '2⁠. o1 and o3-mini now offer Python-powered data analysis in ChatGPT: You
-    can no'
+  title: o1 and o3-mini now offer Python-powered data analysis in ChatGPT
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-01-23-better-codebase-understanding-we-ve-trained-a-new-model-for-codebase-understandi|cursor-2025-01-23-b4d95f]]'
@@ -60,12 +59,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-03-18-web-and-the-windows-desktop-app-ef646255|chatgpt-2025-03-18-web-and-the-windows-desktop-app-ef646255]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: '2⁠. o1 and o3-mini now offer Python-powered data analysis in ChatGPT: You
-  can no'
+title: o1 and o3-mini now offer Python-powered data analysis in ChatGPT
 type: change
 ---
 
-# 2⁠. o1 and o3-mini now offer Python-powered data analysis in ChatGPT: You can no
+# o1 and o3-mini now offer Python-powered data analysis in ChatGPT
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Web and the Windows desktop app: 2⁠. o1 and o3-mini now offer Python-powered data analysis in ChatGPT: You can now ask these models to perform tasks like running regressions on test data, visualizing complex business metrics, and conducting scenario-based simulations.3⁠. Conversation Drafts: Unsubmitted messages in your message prompt will now be saved.

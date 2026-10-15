@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 5cc6780646ea4b2938d29fa610a56c61c44f91fcc308285156032ab7fd49f4c3
+machine_hash: 2c5856c984a2508742ca670090eed5d1f6b8480572ea24682ace4b5e921b5f99
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
   - quote: 'Agent sees recent changes: The agent can use a tool to see your recent
       changes. It also sees changes made between user messages.'
     source_release: https://cursor.com/changelog/0-45-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -37,7 +37,7 @@ record:
   source_release: cursor-2025-01-23-0-45-x-https-cursor-com-changelog-0-45-x-c162d228
   source_type: cursor_changelog
   theme: agent-mode
-  title: 'Agent sees recent changes: The agent can use a tool to see your recent changes.'
+  title: 'Agent sees recent changes: The agent can use a tool to see your recent changes'
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-08-02-concurrent-composers-support-composer-control-panel-and-various-bug-fixes-such-a|cursor-2024-08-02-85b3c3]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-01-23-0-45-x-https-cursor-com-changelog-0-45-x-c162d228|cursor-2025-01-23-0-45-x-https-cursor-com-changelog-0-45-x-c162d228]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: 'Agent sees recent changes: The agent can use a tool to see your recent changes.'
+title: 'Agent sees recent changes: The agent can use a tool to see your recent changes'
 type: change
 ---
 
-# Agent sees recent changes: The agent can use a tool to see your recent changes.
+# Agent sees recent changes: The agent can use a tool to see your recent changes
 
 <!-- chronolog:begin region="description" -->
 Cursor — .cursor/rules, Better Codebase Understanding, New Tab Model: Agent sees recent changes: The agent can use a tool to see your recent changes. It also sees changes made between user messages.

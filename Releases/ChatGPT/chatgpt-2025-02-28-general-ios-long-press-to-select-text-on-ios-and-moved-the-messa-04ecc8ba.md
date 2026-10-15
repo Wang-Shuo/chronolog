@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2025-02-28'
-machine_hash: d0c55da546354bab23b6e3e643f67bd4f2fe09a6cc4bdca487709f32430d8a48
+machine_hash: a31e692bcc6e7f937d879be66a31a0e959f1082a3db3d7137e218666f881af17
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,6 +43,6 @@ Tracked cards: 2
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- mobile-desktop: [[Changes/ChatGPT/2025-02-28-2-bug-fixes-and-small-improvements-in-the-1-2025-056-ios-release-3-a-setting-to|⁠ 2⁠. Bug fixes and small improvements in the 1.2025.056 iOS release.⁠ 3⁠. A set]]
-- mobile-desktop: [[Changes/ChatGPT/2025-02-28-long-press-to-select-text-on-ios-and-moved-the-message-quick-actions-to-always-b-a40c3f|Long press to select text on iOS and moved the message quick actions to always b]]
+- mobile-desktop: [[Changes/ChatGPT/2025-02-28-2-bug-fixes-and-small-improvements-in-the-1-2025-056-ios-release-3-a-setting-to|Bug fixes and small improvements in the 1.2025.056 iOS release]]
+- mobile-desktop: [[Changes/ChatGPT/2025-02-28-long-press-to-select-text-on-ios-and-moved-the-message-quick-actions-to-always-b-a40c3f|Long press to select text on iOS and moved the message quick actions to always…]]
 <!-- chronolog:end -->

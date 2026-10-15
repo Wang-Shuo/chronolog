@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7f110e740d35c7fa98a9fc4b745da9c4bf99fb04e6aac55c1e80e5f38968f493
+machine_hash: c267ef1ecb51cb20cb59e5ef54ce941a9732496cc9456121ff129e57d7bfa6df
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
       to events, hold a goal until it's met, and stay on course through long-running
       sessions.
     source_release: https://cursor.com/changelog/08-19-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -36,8 +36,7 @@ record:
   source_release: cursor-2026-08-19-cloud-agents-and-cursor-harness-improvements-https-cursor-com-ch-a4daf0c1
   source_type: cursor_changelog
   theme: agent-mode
-  title: With this release, cloud agents can automatically pick up work in response
-    to ev
+  title: With this release, cloud agents can automatically pick up work in response…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-08-13-when-a-bad-commit-or-dependency-update-breaks-your-environment-agents-keep-using|cursor-2026-08-13-8929fd]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-08-19-cloud-agents-and-cursor-harness-improvements-https-cursor-com-ch-a4daf0c1|cursor-2026-08-19-cloud-agents-and-cursor-harness-improvements-https-cursor-com-ch-a4daf0c1]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: With this release, cloud agents can automatically pick up work in response
-  to ev
+title: With this release, cloud agents can automatically pick up work in response…
 type: change
 ---
 
-# With this release, cloud agents can automatically pick up work in response to ev
+# With this release, cloud agents can automatically pick up work in response…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cloud Agents and Cursor Harness Improvements: With this release, cloud agents can automatically pick up work in response to events, hold a goal until it's met, and stay on course through long-running sessions.

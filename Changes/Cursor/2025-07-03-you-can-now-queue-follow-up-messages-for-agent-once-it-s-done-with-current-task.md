@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 7e9253228ee02b3bd8e101742883719586910e7316b7f89ea16a70608569a625
+machine_hash: cdef26bfb0831c18895ad5a66f4385702a69e6427146b71064221faa796c269e
 product: cursor
 product_name: Cursor
 record:
@@ -31,7 +31,7 @@ record:
       task. Just type your instructions and send. Once in queue, you can reorder tasks
       and start executing without waiting.
     source_release: https://cursor.com/changelog/1-2
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -39,8 +39,7 @@ record:
   source_release: cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d
   source_type: cursor_changelog
   theme: agent-mode
-  title: You can now queue follow-up messages for Agent once it's done with current
-    task.
+  title: Queue follow-up messages for Agent once it's done with current task
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-06-12-you-can-now-launch-background-agents-directly-from-slack-by-mentioning-cursor-ag|cursor-2025-06-12-082e6b]]'
@@ -49,12 +48,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d|cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: You can now queue follow-up messages for Agent once it's done with current
-  task.
+title: Queue follow-up messages for Agent once it's done with current task
 type: change
 ---
 
-# You can now queue follow-up messages for Agent once it's done with current task.
+# Queue follow-up messages for Agent once it's done with current task
 
 <!-- chronolog:begin region="description" -->
 Cursor — Agent Planning, Better Context & Faster Tab: You can now queue follow-up messages for Agent once it's done with current task. Just type your instructions and send. Once in queue, you can reorder tasks and start executing without waiting.

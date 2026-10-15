@@ -11,9 +11,9 @@ diffusion:
   theme: enterprise-admin
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 79e8802ad897ecfe94c60534ad5abfcfbefc76bdd208d804316f7c45ed2591c3
+machine_hash: dc052776dce44bb924c08e86e4ba8e7ea63c91c8851ddf009e84f472d910292b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
       without leaving ChatGPT. Sending emails is available on the web for users on
       Plus, Pro, Business, and Enterprise plans with Gmail or Outlook connected.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -41,8 +41,7 @@ record:
   source_release: chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5
   source_type: chatgpt_changelog
   theme: enterprise-admin
-  title: 'Send an email directly from within a chat: If you’ve connected Gmail or
-    Outlook,'
+  title: Send an email directly from within a chat
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-20-teammates-open-a-shared-canvas-from-its-link-with-read-only-access-the-shared-ca|cursor-2026-05-20-3794f7]]'
@@ -51,11 +50,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
 theme: enterprise-admin
-title: 'Send an email directly from within a chat: If you’ve connected Gmail or Outlook,'
+title: Send an email directly from within a chat
 type: change
 ---
 
-# Send an email directly from within a chat: If you’ve connected Gmail or Outlook,
+# Send an email directly from within a chat
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT app experience updates: Send an email directly from within a chat: If you’ve connected Gmail or Outlook, you can now ask ChatGPT to draft and send emails directly from the same conversation. ChatGPT will create a draft and you can choose to send it without leaving ChatGPT. Sending emails is available on the web for users on Plus, Pro, Business, and Enterprise plans with Gmail or Outlook connected.

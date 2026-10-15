@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 908a90b5f4196149919fff679460c928ac9f7001b3b19d8e99a290861ac069f7
+machine_hash: 1f2b57195215887caf391c709927ecaf41cd9cf34ef3177de3fce8cd71e62727
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Added `TaskCreated` hook that fires when a task is created via `TaskCreate`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.84
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

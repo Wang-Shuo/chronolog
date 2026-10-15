@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 20b192daea90c3e45349f8ec839acebc5d6c39549f6dba4eab688a4fcad5ab86
+machine_hash: 0f4cd56de7985f6b0b0f471e6f86c987699057babdc24755564bf0d12bc6c089
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: 'We’ve made two updates to the mobile ChatGPT app:'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -33,7 +33,7 @@ record:
   source_release: chatgpt-2023-06-22-browsing-and-search-on-mobile-989ccb98
   source_type: chatgpt_changelog
   theme: mobile-desktop
-  title: 'We’ve made two updates to the mobile ChatGPT app:'
+  title: ChatGPT makes two updates to the mobile ChatGPT app
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]'
@@ -42,11 +42,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2023-06-22-browsing-and-search-on-mobile-989ccb98|chatgpt-2023-06-22-browsing-and-search-on-mobile-989ccb98]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: 'We’ve made two updates to the mobile ChatGPT app:'
+title: ChatGPT makes two updates to the mobile ChatGPT app
 type: change
 ---
 
-# We’ve made two updates to the mobile ChatGPT app:
+# ChatGPT makes two updates to the mobile ChatGPT app
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Browsing and search on mobile: We’ve made two updates to the mobile ChatGPT app:

@@ -11,9 +11,9 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0804d8b64e01b178d918b2ba143c434ff96dbffe230d14af802008f464db48f2
+machine_hash: 667f7f033224f3d3f48a713fc4b2ba2941f409689e19efc4d5bb4eef9c8add48
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added a startup notice when MCP servers need authentication, pointing at
       `/mcp`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.193
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

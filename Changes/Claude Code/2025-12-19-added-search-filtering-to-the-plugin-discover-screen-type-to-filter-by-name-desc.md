@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4071bde02500666f423b1568e1f8c4acb6c7c512239b0244f29ad3681df8fa58
+machine_hash: f7fc8f90da9a5a5b64cc5b5411deb9b6eb6725843223d7895579e2c9e0385297
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added search filtering to the plugin discover screen (type to filter by
       name, description, or marketplace)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.0.73
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -34,8 +34,7 @@ record:
   source_release: claude-code-2025-12-19-v2-0-73-github-271620087-160adbe9
   source_type: github_releases
   theme: apps-integrations
-  title: Added search filtering to the plugin discover screen (type to filter by name,
-    de
+  title: Added search filtering to the plugin discover screen…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-10-09-we-re-adding-notion-and-linear-as-synced-connectors-for-pro-users-so-you-can-sec|chatgpt-2025-10-09-d379c1]]'
@@ -44,12 +43,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2025-12-19-v2-0-73-github-271620087-160adbe9|claude-code-2025-12-19-v2-0-73-github-271620087-160adbe9]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added search filtering to the plugin discover screen (type to filter by name,
-  de
+title: Added search filtering to the plugin discover screen…
 type: change
 ---
 
-# Added search filtering to the plugin discover screen (type to filter by name, de
+# Added search filtering to the plugin discover screen…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.0.73: Added search filtering to the plugin discover screen (type to filter by name, description, or marketplace)

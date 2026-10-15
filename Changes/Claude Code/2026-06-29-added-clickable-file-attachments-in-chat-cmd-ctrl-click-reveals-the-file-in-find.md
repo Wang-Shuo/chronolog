@@ -11,9 +11,9 @@ diffusion:
   theme: file-data
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9609908c785bbd0aabf0c958072a8d9434e01003f7885d8194d389c18f382632
+machine_hash: 7082176e156fa45eb350ce21d89ad4915cc98c99fd224438772694de4bd5e56b
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added clickable file attachments in chat — Cmd/Ctrl-click reveals the file
       in Finder/Explorer
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.196
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   theme: file-data
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Added clickable file attachments in chat — Cmd/Ctrl-click reveals the file
-    in Fi
+  title: Added clickable file attachments in chat
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-06-08-interactive-charts-in-answers-chatgpt-can-now-turn-some-answers-into-rich-and-in|chatgpt-2026-06-08-6e32ab]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-29-v2-1-196-github-346482381-e21be272|claude-code-2026-06-29-v2-1-196-github-346482381-e21be272]]'
 source_type: github_releases
 theme: file-data
-title: Added clickable file attachments in chat — Cmd/Ctrl-click reveals the file
-  in Fi
+title: Added clickable file attachments in chat
 type: change
 ---
 
-# Added clickable file attachments in chat — Cmd/Ctrl-click reveals the file in Fi
+# Added clickable file attachments in chat
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.196: Added clickable file attachments in chat — Cmd/Ctrl-click reveals the file in Finder/Explorer

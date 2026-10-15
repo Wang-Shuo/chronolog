@@ -11,9 +11,9 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6de8d9252685b79572636e0e69176c9a4847456d49012e124052f4d152ef31e0
+machine_hash: 3efc37851c6cf8d0f11b7a8907ebabc5501f82727b961f90e7f074dbbc2021d9
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Customers must be on usage-based billing for Bugbot to customize effort
       levels. Learn more in our docs and go to your Bugbot dashboard to get started.
     source_release: https://cursor.com/changelog/05-11-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,7 +35,7 @@ record:
   source_release: cursor-2026-05-11-bugbot-effort-levels-https-cursor-com-changelog-05-11-26-b41d8617
   source_type: cursor_changelog
   theme: pricing-model
-  title: Customers must be on usage-based billing for Bugbot to customize effort levels.
+  title: Customers must be on usage-based billing for Bugbot to customize effort levels
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-04-09-plus-20-month-plus-remains-best-for-steady-day-to-day-use-as-the-temporary-codex|chatgpt-2026-04-09-66d25c]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-05-11-bugbot-effort-levels-https-cursor-com-changelog-05-11-26-b41d8617|cursor-2026-05-11-bugbot-effort-levels-https-cursor-com-changelog-05-11-26-b41d8617]]'
 source_type: cursor_changelog
 theme: pricing-model
-title: Customers must be on usage-based billing for Bugbot to customize effort levels.
+title: Customers must be on usage-based billing for Bugbot to customize effort levels
 type: change
 ---
 
-# Customers must be on usage-based billing for Bugbot to customize effort levels.
+# Customers must be on usage-based billing for Bugbot to customize effort levels
 
 <!-- chronolog:begin region="description" -->
 Cursor — Bugbot Effort Levels: Customers must be on usage-based billing for Bugbot to customize effort levels. Learn more in our docs and go to your Bugbot dashboard to get started.

@@ -1,7 +1,7 @@
 ---
 changes_count: 4
 date: '2025-10-14'
-machine_hash: 6dc1452f866ac316e0f10baa001c6b96f2330ca8d3c9c7ada313eaca8f99037b
+machine_hash: 15d608ac22c75283850133fc993c6585e4acfe6a8c72ebd21ceb4f9b9db47c14
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,7 +42,7 @@ Tracked cards: 4
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
 - memory: [[Changes/ChatGPT/2025-10-14-longer-memory-for-more-personalized-responses|Longer memory for more personalized responses]]
-- mobile-desktop: [[Changes/ChatGPT/2025-10-14-available-on-web-mobile-ios-android-and-desktop-macos-windows-note-in-cambodia-l|Available on web, mobile (iOS & Android), and desktop (macOS & Windows).Note: In]]
+- mobile-desktop: [[Changes/ChatGPT/2025-10-14-available-on-web-mobile-ios-android-and-desktop-macos-windows-note-in-cambodia-l|Available on web, mobile (iOS & Android), and desktop (macOS & Windows)]]
 - image-generation: [[Changes/ChatGPT/2025-10-14-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]]
-- pricing-model: [[Changes/ChatGPT/2025-10-14-we-re-excited-to-announce-that-chatgpt-go-our-low-cost-subscription-plan-is-now-d58cbb|We're excited to announce that ChatGPT Go, our low cost subscription plan, is no]]
+- pricing-model: [[Changes/ChatGPT/2025-10-14-we-re-excited-to-announce-that-chatgpt-go-our-low-cost-subscription-plan-is-now-d58cbb|ChatGPT Go, our low cost subscription plan, is now available in 71 additional…]]
 <!-- chronolog:end -->

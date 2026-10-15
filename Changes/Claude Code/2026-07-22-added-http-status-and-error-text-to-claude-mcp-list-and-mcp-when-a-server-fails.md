@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e8b19841d05b2793a097d5591159c4eb1f79559404f538b7e46c64b66e70e882
+machine_hash: 44a00886959a8fe13fe2e3ed558c41fe18ac10989fb99b96204feadbc6dba673
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       server fails to connect, and a warning for MCP config values with hidden leading
       or trailing whitespace
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.218
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   source_type: github_releases
   theme: apps-integrations
   title: Added HTTP status and error text to `claude mcp list` and `/mcp` when a server
-    f
+    fails…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-07-17-from-slack-cursor-can-now-start-in-a-named-multi-repo-environment-instead-of-a-s|cursor-2026-07-17-0c31db]]'
@@ -47,11 +47,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-07-22-v2-1-218-github-3
 source_type: github_releases
 theme: apps-integrations
 title: Added HTTP status and error text to claude mcp list and /mcp when a server
-  f
+  fails…
 type: change
 ---
 
-# Added HTTP status and error text to `claude mcp list` and `/mcp` when a server f
+# Added HTTP status and error text to `claude mcp list` and `/mcp` when a server fails…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.218: Added HTTP status and error text to `claude mcp list` and `/mcp` when a server fails to connect, and a warning for MCP config values with hidden leading or trailing whitespace

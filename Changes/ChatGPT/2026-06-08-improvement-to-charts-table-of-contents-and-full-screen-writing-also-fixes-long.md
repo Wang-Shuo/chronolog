@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d099b25182aa8e3bcb09ecaede5ae435a95f62a2bbccea7a49cc0a26a94368eb
+machine_hash: c9cc01607846664955decf8dd53d69bdcd47a559373aa090d8a9183603e7f86a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
       fixes long-standing issues around editing messages with attachments, and various
       other bug fixes.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -36,8 +36,7 @@ record:
   source_release: chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5
   source_type: chatgpt_changelog
   theme: interface-experience
-  title: Improvement to charts, table of contents and full screen writing. Also fixes
-    lon
+  title: Improvement to charts, table of contents and full screen writing
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-02-fullscreen-mode-clipboard-now-uses-wl-copy-xclip-xsel-on-linux-when-available-co|claude-code-2026-06-02-fb9f22]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
 theme: interface-experience
-title: Improvement to charts, table of contents and full screen writing. Also fixes
-  lon
+title: Improvement to charts, table of contents and full screen writing
 type: change
 ---
 
-# Improvement to charts, table of contents and full screen writing. Also fixes lon
+# Improvement to charts, table of contents and full screen writing
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT app experience updates: Improvement to charts, table of contents and full screen writing. Also fixes long-standing issues around editing messages with attachments, and various other bug fixes.

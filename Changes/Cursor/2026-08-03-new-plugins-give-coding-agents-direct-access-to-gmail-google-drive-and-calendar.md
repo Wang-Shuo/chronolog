@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 9a3fc7263bb1649da817a4201985d3c7ccc6489fa2d728778915780f58f2d3cb
+machine_hash: 1de8c4b64471d1ed513af1d067d9c5bb143c072f31a5feee9cbb8b9bd0c17df4
 product: cursor
 product_name: Cursor
 record:
@@ -30,7 +30,7 @@ record:
       Calendar, so you can pull context, draft and update files, and manage your inbox
       and calendar without leaving Cursor.
     source_release: https://cursor.com/changelog/google-workspace-plugins
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -53,7 +53,7 @@ record:
     theme: context-window
   theme_resolution: manual-backfill-review-v1
   title: New plugins give coding agents direct access to Gmail, Google Drive, and
-    Calenda
+    Calendar…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-24-added-mcp-server-errors-to-the-headless-stream-json-init-event-listing-mcp-confi|claude-code-2026-07-24-b7c5f4]]'
@@ -62,11 +62,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-08-03-google-workspace-plugins-https-cursor-com-changelog-google-works-e8cf52f1|cursor-2026-08-03-google-workspace-plugins-https-cursor-com-changelog-google-works-e8cf52f1]]'
 source_type: cursor_changelog
 theme: apps-integrations
-title: New plugins give coding agents direct access to Gmail, Google Drive, and Calenda
+title: New plugins give coding agents direct access to Gmail, Google Drive, and Calendar…
 type: change
 ---
 
-# New plugins give coding agents direct access to Gmail, Google Drive, and Calenda
+# New plugins give coding agents direct access to Gmail, Google Drive, and Calendar…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Google Workspace Plugins: New plugins give coding agents direct access to Gmail, Google Drive, and Calendar, so you can pull context, draft and update files, and manage your inbox and calendar without leaving Cursor.

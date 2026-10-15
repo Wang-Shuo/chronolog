@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 7afbaf00c5aa7bebc6bf05d63ddf2d62d0ea74719eea0fb78737d402abfe5301
+machine_hash: 8969e33a3ea3cd5152c28d6de6eab39cbd4ae4bf1bf7c8c09526788e24143188
 product: cursor
 product_name: Cursor
 record:
@@ -37,7 +37,7 @@ record:
       the agent to send the message immediately. The default behavior can be changed
       in Cursor Settings → Chat → Queue messages.
     source_release: https://cursor.com/changelog/1-4
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -46,7 +46,7 @@ record:
   source_type: cursor_changelog
   theme: agent-mode
   title: Sending messages while Cursor is working now does a better job of steering
-    the a
+    the agent
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-07-03-you-can-now-queue-follow-up-messages-for-agent-once-it-s-done-with-current-task|cursor-2025-07-03-4a34b1]]'
@@ -56,11 +56,11 @@ source_release: '[[Releases/Cursor/cursor-2025-08-06-1-4-https-cursor-com-change
 source_type: cursor_changelog
 theme: agent-mode
 title: Sending messages while Cursor is working now does a better job of steering
-  the a
+  the agent
 type: change
 ---
 
-# Sending messages while Cursor is working now does a better job of steering the a
+# Sending messages while Cursor is working now does a better job of steering the agent
 
 <!-- chronolog:begin region="description" -->
 Cursor — Improved Agent tools, steerability, and usage visibility: Sending messages while Cursor is working now does a better job of steering the agent. Messages will run at the next ideal time, usually after a tool call, versus waiting until the generation completes. ⌥+Enter (Alt+Enter on Windows) will queue messages like before and ⌘+Enter (Ctrl+Enter on Windows) will interrupt the agent to send the message immediately. The default behavior can be changed in Cursor Settings → Chat → Queue messages.

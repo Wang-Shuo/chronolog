@@ -11,9 +11,9 @@ diffusion:
   theme: automation-scheduling
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6fdca1aa43586225ff3f2f1ec5aa31692aea0f1bfc2695f192d94f0c33c83334
+machine_hash: f3a3e0c7f56369599035a99a2acad570f7f6239d07d8d7e8577c47d702a95bcc
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
       tools and act on key signals. You can now create automations without an attached
       repository.
     source_release: https://cursor.com/changelog/05-20-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -47,7 +47,7 @@ record:
     theme: automation-scheduling
   theme_resolution: manual-semantic-rule-v1
   title: Many useful automations exist apart from code, where agents monitor your
-    tools a
+    tools…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-01-claude-code-skill-activated-opentelemetry-event-now-fires-for-user-typed-slash-c|claude-code-2026-05-01-2a9a10]]'
@@ -56,12 +56,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-05-20-3-5-https-cursor-com-changelog-05-20-26-f6af79ab|cursor-2026-05-20-3-5-https-cursor-com-changelog-05-20-26-f6af79ab]]'
 source_type: cursor_changelog
 theme: automation-scheduling
-title: Many useful automations exist apart from code, where agents monitor your tools
-  a
+title: Many useful automations exist apart from code, where agents monitor your tools…
 type: change
 ---
 
-# Many useful automations exist apart from code, where agents monitor your tools a
+# Many useful automations exist apart from code, where agents monitor your tools…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Improvements to Cursor Automations: Many useful automations exist apart from code, where agents monitor your tools and act on key signals. You can now create automations without an attached repository.

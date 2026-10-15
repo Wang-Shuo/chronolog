@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 298525748be842763757007c39dd4bce201582856bbed5f5c9e2979e52eadbdf
+machine_hash: 347018842f9fe8ea4354b7ae6ddd42f9406776cc4911a7e4daa0b2bae4bdbe54
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       and Codex. In ChatGPT, choose Chat for quick questions and conversational help,
       or Work to complete tasks end to end.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -38,7 +38,7 @@ record:
   source_type: chatgpt_changelog
   theme: mobile-desktop
   title: 'A clearer desktop layout: A global switcher lets you choose between ChatGPT
-    and'
+    and Codex'
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-07-09-the-new-chatgpt-desktop-app-is-available-globally-for-macos-and-windows-it-combi|chatgpt-2026-07-09-e26c54]]'
@@ -48,11 +48,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-07-16-chatgpt-desktop-app-exper
 source_type: chatgpt_changelog
 theme: mobile-desktop
 title: 'A clearer desktop layout: A global switcher lets you choose between ChatGPT
-  and'
+  and Codex'
 type: change
 ---
 
-# A clearer desktop layout: A global switcher lets you choose between ChatGPT and
+# A clearer desktop layout: A global switcher lets you choose between ChatGPT and Codex
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT desktop app experience updates: A clearer desktop layout: A global switcher lets you choose between ChatGPT and Codex. In ChatGPT, choose Chat for quick questions and conversational help, or Work to complete tasks end to end.

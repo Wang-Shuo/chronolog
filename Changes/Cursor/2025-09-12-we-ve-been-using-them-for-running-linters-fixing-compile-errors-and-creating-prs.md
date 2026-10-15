@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: cf2d7c1d216765a06aa9531b64d8269ed93a41a495d45247a2845446a7bf4b92
+machine_hash: 8f354e806e643a579bddf2949915ffb6c7800bcc9a26d25024c873ee5511781f
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: We've been using them for running linters, fixing compile errors, and creating
       PRs with detailed descriptions and conventional commits.
     source_release: https://cursor.com/changelog/1-6
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -38,7 +38,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: We've been using them for running linters, fixing compile errors, and creating
-    P
+    PRs…
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-06-04-bugbot-automatically-reviews-your-prs-and-catches-potential-bugs-and-issues|cursor-2025-06-04-1e5499]]'
@@ -48,11 +48,11 @@ source_release: '[[Releases/Cursor/cursor-2025-09-12-1-6-https-cursor-com-change
 source_type: cursor_changelog
 theme: developer-workflow
 title: We've been using them for running linters, fixing compile errors, and creating
-  P
+  PRs…
 type: change
 ---
 
-# We've been using them for running linters, fixing compile errors, and creating P
+# We've been using them for running linters, fixing compile errors, and creating PRs…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Slash commands, summarization, and improved Agent terminal: We've been using them for running linters, fixing compile errors, and creating PRs with detailed descriptions and conventional commits.

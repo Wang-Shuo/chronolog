@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 91578d6e244567a9bee3d3ba03b0157b6b7c63ad5f64accca38d9574cfb86cdc
+machine_hash: 566991e9ae272e111ca4983b565a178209c31dd2377704b09b0d859f6565fd72
 product: cursor
 product_name: Cursor
 record:
@@ -30,7 +30,7 @@ record:
       you're away. Prepend & to any message to send it to the cloud, then pick it
       back up on web or mobile at cursor.com/agents.
     source_release: https://cursor.com/changelog/cli-jan-16-2026
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -50,7 +50,7 @@ record:
     score: 50
     theme: mobile-desktop
   title: Push your local conversation to a Cloud Agent and let it keep running while
-    you'
+    you're away
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-11-added-claude-code-disable-background-tasks-environment-variable-to-disable-all-b|claude-code-2026-01-11-456334]]'
@@ -60,11 +60,11 @@ source_release: '[[Releases/Cursor/cursor-2026-01-16-cli-agent-modes-and-cloud-h
 source_type: cursor_changelog
 theme: agent-mode
 title: Push your local conversation to a Cloud Agent and let it keep running while
-  you'
+  you're away
 type: change
 ---
 
-# Push your local conversation to a Cloud Agent and let it keep running while you'
+# Push your local conversation to a Cloud Agent and let it keep running while you're away
 
 <!-- chronolog:begin region="description" -->
 Cursor — CLI Agent Modes and Cloud Handoff: Push your local conversation to a Cloud Agent and let it keep running while you're away. Prepend & to any message to send it to the cloud, then pick it back up on web or mobile at cursor.com/agents.

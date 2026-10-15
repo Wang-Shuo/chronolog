@@ -11,9 +11,9 @@ diffusion:
   theme: enterprise-admin
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 24b01437ec6f585167cfd83d841685126b2dab8e3584d5510ec47b34e938b423
+machine_hash: 231813813896568f99a9294c997d63eb769b08af614255fde508b4be5e23fdce
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Changed default effort level from medium to high for API-key, Bedrock/Vertex/Foundry,
       Team, and Enterprise users (control this with `/effort`)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.94
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -45,7 +45,7 @@ record:
     score: 50
     theme: enterprise-admin
   theme_resolution: manual-semantic-rule-v1
-  title: Changed default effort level from medium to high for API-key, Bedrock/Vertex/Fou
+  title: Changed default effort level from medium to high for API-key…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-03-03-on-teams-and-enterprise-plans-admins-can-now-create-team-marketplaces-to-share-p|cursor-2026-03-03-ba695c]]'
@@ -54,11 +54,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-07-v2-1-94-github-306300914-5622fba4|claude-code-2026-04-07-v2-1-94-github-306300914-5622fba4]]'
 source_type: github_releases
 theme: enterprise-admin
-title: Changed default effort level from medium to high for API-key, Bedrock/Vertex/Fou
+title: Changed default effort level from medium to high for API-key…
 type: change
 ---
 
-# Changed default effort level from medium to high for API-key, Bedrock/Vertex/Fou
+# Changed default effort level from medium to high for API-key…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.94: Changed default effort level from medium to high for API-key, Bedrock/Vertex/Foundry, Team, and Enterprise users (control this with `/effort`)

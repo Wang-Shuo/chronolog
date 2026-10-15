@@ -11,9 +11,9 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: b75283e810746985381d023250d22733ecb65fe663ff3e9dcf548037064950cd
+machine_hash: 894dce50982a4998b83ce56edab4380fa90573675f515c34a005b91ec1f75154
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       includes unlimited access to GPT-5.4, access to GPT-5.4 Pro, and, for a limited
       time, up to 10x more Codex usage than Plus (up from 5X standard usage allowance).'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -39,8 +39,7 @@ record:
   theme: pricing-model
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: 'Pro ($100/month): Built for longer, high-intensity Codex sessions. It includes
-    u'
+  title: 'Pro ($100/month): Built for longer, high-intensity Codex sessions'
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-03-19-standard-0-50-m-input-2-50-m-output-tokens|cursor-2026-03-19-2ef7b6]]'
@@ -49,12 +48,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2|chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2]]'
 source_type: chatgpt_changelog
 theme: pricing-model
-title: 'Pro ($100/month): Built for longer, high-intensity Codex sessions. It includes
-  u'
+title: 'Pro ($100/month): Built for longer, high-intensity Codex sessions'
 type: change
 ---
 
-# Pro ($100/month): Built for longer, high-intensity Codex sessions. It includes u
+# Pro ($100/month): Built for longer, high-intensity Codex sessions
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — New Pro plan options: Pro ($100/month): Built for longer, high-intensity Codex sessions. It includes unlimited access to GPT-5.4, access to GPT-5.4 Pro, and, for a limited time, up to 10x more Codex usage than Plus (up from 5X standard usage allowance).

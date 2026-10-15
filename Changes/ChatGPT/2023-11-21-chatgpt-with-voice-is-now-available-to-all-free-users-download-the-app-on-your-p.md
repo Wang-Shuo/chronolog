@@ -11,9 +11,9 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 65437d6238b1310c6ccf21c6658a285241f2481c0d4773e8ada103c972dc621d
+machine_hash: 55a8d3f07b5a5db88950fd9679475a069fee9908eb28fe69e55b9391f48a94e3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: ChatGPT with voice is now available to all free users. Download the app
       on your phone and tap the headphones icon to start a conversation.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -35,8 +35,7 @@ record:
   source_release: chatgpt-2023-11-21-chatgpt-with-voice-is-available-to-all-users-d2d904ca
   source_type: chatgpt_changelog
   theme: voice
-  title: ChatGPT with voice is now available to all free users. Download the app on
-    your
+  title: ChatGPT with voice is now available to all free users
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|chatgpt-2023-09-25-13666e]]'
@@ -44,12 +43,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2023-11-21-chatgpt-with-voice-is-available-to-all-users-d2d904ca|chatgpt-2023-11-21-chatgpt-with-voice-is-available-to-all-users-d2d904ca]]'
 source_type: chatgpt_changelog
 theme: voice
-title: ChatGPT with voice is now available to all free users. Download the app on
-  your
+title: ChatGPT with voice is now available to all free users
 type: change
 ---
 
-# ChatGPT with voice is now available to all free users. Download the app on your
+# ChatGPT with voice is now available to all free users
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT with voice is available to all users: ChatGPT with voice is now available to all free users. Download the app on your phone and tap the headphones icon to start a conversation.

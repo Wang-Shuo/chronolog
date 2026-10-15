@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: de326683c43630a929570b262db89da329b583c681344638890f5417af5edfd2
+machine_hash: e2f7869f4c5c8c2011254290dae58489e12c6df3c61621e3a1d9e18e8b9382d3
 product: cursor
 product_name: Cursor
 record:
@@ -30,7 +30,7 @@ record:
       you can instead configure autofix to push changes directly to your branch with
       no interaction required.
     source_release: https://cursor.com/changelog/02-26-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -41,7 +41,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: Bugbot will post a comment on the original PR with a preview of the autofix
-    chan
+    changes…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-20-added-support-for-startuptimeout-configuration-for-lsp-servers|claude-code-2026-02-20-aba95d]]'
@@ -51,11 +51,11 @@ source_release: '[[Releases/Cursor/cursor-2026-02-26-bugbot-autofix-https-cursor
 source_type: cursor_changelog
 theme: developer-workflow
 title: Bugbot will post a comment on the original PR with a preview of the autofix
-  chan
+  changes…
 type: change
 ---
 
-# Bugbot will post a comment on the original PR with a preview of the autofix chan
+# Bugbot will post a comment on the original PR with a preview of the autofix changes…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Bugbot Autofix: Bugbot will post a comment on the original PR with a preview of the autofix changes, which you can merge using the provided @cursor command. If you'd like, you can instead configure autofix to push changes directly to your branch with no interaction required.

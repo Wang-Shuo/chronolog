@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: cddd4d59b80cdc30722bf040df3939bf13c6349edb44b3cf03fab563b87d0017
+machine_hash: 5643e0d30d8a20c60e1c342b9f83dd91d2d2684ca636889272a58dfe33e1f05f
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: When the chat suggests a code block, click "Apply" to instantly see the
       change to the file (small enough files only).
     source_release: https://cursor.com/changelog/0-36-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,8 +37,7 @@ record:
   theme: developer-workflow
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: When the chat suggests a code block, click "Apply" to instantly see the change
-    t
+  title: When the chat suggests a code block, click "Apply" to instantly see the change…
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-01-15-working-wsl-codebase-search|cursor-2024-01-15-618118]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-07-03-0-36-x-https-cursor-com-changelog-0-36-x-526adbdf|cursor-2024-07-03-0-36-x-https-cursor-com-changelog-0-36-x-526adbdf]]'
 source_type: cursor_changelog
 theme: developer-workflow
-title: When the chat suggests a code block, click "Apply" to instantly see the change
-  t
+title: When the chat suggests a code block, click "Apply" to instantly see the change…
 type: change
 ---
 
-# When the chat suggests a code block, click "Apply" to instantly see the change t
+# When the chat suggests a code block, click "Apply" to instantly see the change…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Instant Applies, Docs Management: When the chat suggests a code block, click "Apply" to instantly see the change to the file (small enough files only).

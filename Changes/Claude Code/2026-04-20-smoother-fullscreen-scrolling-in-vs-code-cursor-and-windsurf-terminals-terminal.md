@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 67a19f79743e6e3f2917a9df694b3ae07c00e5280f7f278af693e3c93068d131
+machine_hash: b5427c661346792d0c729a381dee10c1947d7bd57fc113a182dc74269a0ce29b
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Smoother fullscreen scrolling in VS Code, Cursor, and Windsurf terminals
       — `/terminal-setup` now configures the editor's scroll sensitivity
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.116
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -50,7 +50,6 @@ record:
     theme: interface-experience
   theme_resolution: manual-semantic-rule-v1
   title: Smoother fullscreen scrolling in VS Code, Cursor, and Windsurf terminals
-    — `/ter
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-17-windows-ctrl-backspace-now-deletes-the-previous-word|claude-code-2026-04-17-a2b36d]]'
@@ -59,12 +58,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-20-v2-1-116-github-311446114-3b24dc7e|claude-code-2026-04-20-v2-1-116-github-311446114-3b24dc7e]]'
 source_type: github_releases
 theme: interface-experience
-title: Smoother fullscreen scrolling in VS Code, Cursor, and Windsurf terminals —
-  /ter
+title: Smoother fullscreen scrolling in VS Code, Cursor, and Windsurf terminals
 type: change
 ---
 
-# Smoother fullscreen scrolling in VS Code, Cursor, and Windsurf terminals — `/ter
+# Smoother fullscreen scrolling in VS Code, Cursor, and Windsurf terminals
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.116: Smoother fullscreen scrolling in VS Code, Cursor, and Windsurf terminals — `/terminal-setup` now configures the editor's scroll sensitivity

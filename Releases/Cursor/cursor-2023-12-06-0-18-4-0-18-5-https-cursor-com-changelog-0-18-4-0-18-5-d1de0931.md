@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2023-12-06'
-machine_hash: d5623a904b5b9b8a7235a7a2800b2195bc648d0a658b315583b21f2f48c2ed64
+machine_hash: c54cf327ade162ecb1d1a2cb1170e9464238ab14f2e13e79b8a53febb1d95842
 product: cursor
 product_name: Cursor
 record:
@@ -38,6 +38,6 @@ Tracked cards: 2
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- interface-experience: [[Changes/Cursor/2023-12-06-allows-users-to-provide-feedback-on-the-chat-response|Allows users to provide feedback on the chat response.]]
-- interface-experience: [[Changes/Cursor/2023-12-06-minor-onboarding-changes|Minor onboarding changes.]]
+- interface-experience: [[Changes/Cursor/2023-12-06-allows-users-to-provide-feedback-on-the-chat-response|Allows users to provide feedback on the chat response]]
+- interface-experience: [[Changes/Cursor/2023-12-06-minor-onboarding-changes|Minor onboarding changes]]
 <!-- chronolog:end -->

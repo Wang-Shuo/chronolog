@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 78746d32c2c739dc415e9a6572c524581c642c1f800e1f03eed73d570750468a
+machine_hash: 48dd91cb6ed8f117121cf7e9ce242a623e76dbb9e29e7e4108f8579621795d08
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Changed merged pull requests to show a purple status indicator in the prompt
       footer
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.23
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,7 +35,7 @@ record:
   source_type: github_releases
   theme: interface-experience
   title: Changed merged pull requests to show a purple status indicator in the prompt
-    foo
+    footer
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-28-improved-read-search-progress-indicators-to-show-reading-while-in-progress-and-r|claude-code-2026-01-28-1903fa]]'
@@ -45,11 +45,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-01-29-v2-1-23-github-28
 source_type: github_releases
 theme: interface-experience
 title: Changed merged pull requests to show a purple status indicator in the prompt
-  foo
+  footer
 type: change
 ---
 
-# Changed merged pull requests to show a purple status indicator in the prompt foo
+# Changed merged pull requests to show a purple status indicator in the prompt footer
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.23: Changed merged pull requests to show a purple status indicator in the prompt footer

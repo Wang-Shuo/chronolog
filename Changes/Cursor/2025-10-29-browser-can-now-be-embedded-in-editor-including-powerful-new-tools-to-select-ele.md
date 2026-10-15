@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 247697854b6391907271dcf2ecbe78684a234cc8cec3e44cff03b9f430aeb334
+machine_hash: 2ed8c07879b1065f2be1f201a7f654b7982d82fabc5b99385067b633a1d81f58
 product: cursor
 product_name: Cursor
 record:
@@ -30,7 +30,7 @@ record:
       select elements and forward DOM information to the agent. Learn more about using
       the browser.
     source_release: https://cursor.com/changelog/2-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -48,8 +48,7 @@ record:
     score: 50
     theme: editor-experience
   theme_resolution: manual-semantic-rule-v1
-  title: Browser can now be embedded in-editor, including powerful new tools to select
-    el
+  title: Browser can now be embedded in-editor, including powerful new tools to select…
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-06-04-when-an-issue-is-found-bugbot-leaves-a-comment-on-your-prs-in-github-you-can-cli|cursor-2025-06-04-b160b1]]'
@@ -58,12 +57,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: Browser can now be embedded in-editor, including powerful new tools to select
-  el
+title: Browser can now be embedded in-editor, including powerful new tools to select…
 type: change
 ---
 
-# Browser can now be embedded in-editor, including powerful new tools to select el
+# Browser can now be embedded in-editor, including powerful new tools to select…
 
 <!-- chronolog:begin region="description" -->
 Cursor — New Coding Model and Agent Interface: Browser can now be embedded in-editor, including powerful new tools to select elements and forward DOM information to the agent. Learn more about using the browser.

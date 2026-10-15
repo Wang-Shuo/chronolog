@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: cc355c3c8a4b48369763f5d88a04ab120a6b507856ecff8097c197a4476ee0a3
+machine_hash: e6713410b36f54a29579aa23d07c319db607e5ec108e09c11ff382b15856908b
 product: cursor
 product_name: Cursor
 record:
@@ -33,7 +33,7 @@ record:
       in instrumentation that would make the change hard to verify. Edit the plan
       in the PR and Rollouts uses your version.
     source_release: https://cursor.com/changelog/rollouts-and-security-reviewer
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -42,7 +42,7 @@ record:
   source_type: cursor_changelog
   theme: developer-workflow
   title: When a pull request opens, Rollouts reads the diff and the systems it touches,
-    t
+    then…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-23-added-attribution-false-in-settings-json-to-hide-all-commit-and-pr-attribution-o|claude-code-2026-09-23-ee57ae]]'
@@ -52,11 +52,11 @@ source_release: '[[Releases/Cursor/cursor-2026-09-23-rollouts-and-security-revie
 source_type: cursor_changelog
 theme: developer-workflow
 title: When a pull request opens, Rollouts reads the diff and the systems it touches,
-  t
+  then…
 type: change
 ---
 
-# When a pull request opens, Rollouts reads the diff and the systems it touches, t
+# When a pull request opens, Rollouts reads the diff and the systems it touches, then…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Rollouts and Security Review: When a pull request opens, Rollouts reads the diff and the systems it touches, then writes a monitoring plan as a PR comment. The plan lists the risks it identified, the effect the change is meant to have, the signals it will check, and any gaps in instrumentation that would make the change hard to verify. Edit the plan in the PR and Rollouts uses your version.

@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 7e0f0ee9bb6a98853da029503a9848359c5be3548c0fe61e4d4077c7a5815c43
+machine_hash: eb458d1c4cf96df714980034043ea21c5d9995afb41ae196bd59320ca064cbf5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -37,7 +37,7 @@ record:
       This control is available to all ChatGPT users on the web and rolling out on
       mobile soon.To make changes to your memory summary, you can:'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -59,8 +59,7 @@ record:
     - mobile
     score: 50
     theme: mobile-desktop
-  title: You can now delete the memories shown on your memory summary page and turn
-    memor
+  title: Delete the memories shown on your memory summary page and turn memory off…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-05-05-starting-today-we-re-rolling-out-memory-improvements-to-chatgpt-plus-and-pro-use|chatgpt-2026-05-05-163a8e]]'
@@ -69,12 +68,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-12-additional-controls-for-memory-summary-37c89b72|chatgpt-2026-06-12-additional-controls-for-memory-summary-37c89b72]]'
 source_type: chatgpt_changelog
 theme: memory
-title: You can now delete the memories shown on your memory summary page and turn
-  memor
+title: Delete the memories shown on your memory summary page and turn memory off…
 type: change
 ---
 
-# You can now delete the memories shown on your memory summary page and turn memor
+# Delete the memories shown on your memory summary page and turn memory off…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Additional controls for memory summary: You can now delete the memories shown on your memory summary page and turn memory off by selecting “Delete and turn off memory” from the three-dot menu. This does not delete your past chats. If you turn memory back on later, ChatGPT may create new memories from chats that remain in your chat history. This control is available to all ChatGPT users on the web and rolling out on mobile soon.To make changes to your memory summary, you can:

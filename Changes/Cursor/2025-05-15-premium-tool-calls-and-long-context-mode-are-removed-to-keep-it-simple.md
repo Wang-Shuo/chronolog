@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 53aae7cb72a3d985fec9fdc80ceedacf725b97a1f63ff5f1a719cba942005d9e
+machine_hash: 98cdcd4f35e492bb5e9ba564b8ae275bd5f3884322f3d75d6a4af6f1ad429868
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Premium tool calls and long context mode are removed to keep it simple
     source_release: https://cursor.com/changelog/0-50
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

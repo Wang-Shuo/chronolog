@@ -11,9 +11,9 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 982b08fa737b241a31735d99198d929738077bb8971c3e83c1b50bf67d203fe8
+machine_hash: b031012826351e25870dff0b13aa96e2c671dcae15b8d74581e36ef45592c933
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: You should now be able to sign in with GitHub again.
     source_release: https://cursor.com/changelog/0-9-3
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -33,7 +33,7 @@ record:
   source_release: cursor-2023-09-01-0-9-3-https-cursor-com-changelog-0-9-3-b92abfc8
   source_type: cursor_changelog
   theme: account-access
-  title: You should now be able to sign in with GitHub again.
+  title: You should now be able to sign in with GitHub again
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-06-06-login-via-github-then-add-the-repo-you-wish-to-sync|cursor-2023-06-06-3d3f42]]'
@@ -42,11 +42,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-09-01-0-9-3-https-cursor-com-changelog-0-9-3-b92abfc8|cursor-2023-09-01-0-9-3-https-cursor-com-changelog-0-9-3-b92abfc8]]'
 source_type: cursor_changelog
 theme: account-access
-title: You should now be able to sign in with GitHub again.
+title: You should now be able to sign in with GitHub again
 type: change
 ---
 
-# You should now be able to sign in with GitHub again.
+# You should now be able to sign in with GitHub again
 
 <!-- chronolog:begin region="description" -->
 Cursor — Hotfix Github Auth: You should now be able to sign in with GitHub again.

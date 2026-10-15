@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 7b82a2338de09a5f5023f0540728d0ca34980b1c52581213a52ab86034447afe
+machine_hash: e257887506f80c611381eaf1476fa7ffb49218563a388b655fa3b9bfb9bc724f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -37,7 +37,7 @@ record:
       in Slack. Add @ChatGPT to each monitored Slack channel. Actions that require
       approval pause until you review them.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -56,7 +56,7 @@ record:
     score: 60
     theme: developer-workflow
   title: Plus and Pro users can ask Work on web, iOS, and Android to respond when
-    a new G
+    a new Gmail…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-08-20-keep-pinned-chats-in-sync-pinned-chats-now-stay-in-sync-between-the-chatgpt-desk|chatgpt-2026-08-20-936a3f]]'
@@ -66,11 +66,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-08-25-scheduled-tasks-can-respo
 source_type: chatgpt_changelog
 theme: mobile-desktop
 title: Plus and Pro users can ask Work on web, iOS, and Android to respond when a
-  new G
+  new Gmail…
 type: change
 ---
 
-# Plus and Pro users can ask Work on web, iOS, and Android to respond when a new G
+# Plus and Pro users can ask Work on web, iOS, and Android to respond when a new Gmail…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Scheduled tasks can respond to app updates and be shared: Plus and Pro users can ask Work on web, iOS, and Android to respond when a new Gmail message arrives, a Slack channel receives a message, or a GitHub pull request changes. For example, ask ChatGPT to summarize an email announcing that registration has opened, or draft next steps after a client shares feedback in Slack. Add @ChatGPT to each monitored Slack channel. Actions that require approval pause until you review them.

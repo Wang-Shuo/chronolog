@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 185e075d4ba45ae3e75103a7720056cdb50db3c4f623246aa0d3720b7dc21a53
+machine_hash: 71a436076e9abb4b3230d4e884cae94d78e3b424343acfa1bb4637fb42dfdc17
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Switching between models is a lot more easy, and the transition to gpt-4
       is a lot smoother
     source_release: https://cursor.com/changelog/0-2-18
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -38,7 +38,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: Switching between models is a lot more easy, and the transition to gpt-4
-    is a lo
+    is a lot smoother
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-04-19-better-quality-for-all-ai-features|cursor-2023-04-19-997d42]]'
@@ -48,11 +48,11 @@ source_release: '[[Releases/Cursor/cursor-2023-05-20-0-2-18-https-cursor-com-cha
 source_type: cursor_changelog
 theme: model-support
 title: Switching between models is a lot more easy, and the transition to gpt-4 is
-  a lo
+  a lot smoother
 type: change
 ---
 
-# Switching between models is a lot more easy, and the transition to gpt-4 is a lo
+# Switching between models is a lot more easy, and the transition to gpt-4 is a lot smoother
 
 <!-- chronolog:begin region="description" -->
 Cursor — Upgrades to GPT-4 and Please give us feedback!! (2023-05-20): Switching between models is a lot more easy, and the transition to gpt-4 is a lot smoother

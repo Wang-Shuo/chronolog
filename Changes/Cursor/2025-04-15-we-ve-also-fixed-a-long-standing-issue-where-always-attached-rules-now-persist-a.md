@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 1e08f8b302626867f446285669493b363dd8f02cdf80bbb3b283c8efeada08bc
+machine_hash: 36d3698b8615f9ed6760c9bc9557d630eba905ccc77b2f90334289075029b2c9
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
   - quote: We’ve also fixed a long-standing issue where Always attached rules now
       persist across longer conversations. Agent can now also edit rules reliably.
     source_release: https://cursor.com/changelog/0-49
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -37,8 +37,8 @@ record:
   source_release: cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f
   source_type: cursor_changelog
   theme: agent-mode
-  title: We’ve also fixed a long-standing issue where Always attached rules now persist
-    a
+  title: Cursor fixes a long-standing issue where Always attached rules now persist
+    across…
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-01-23-agent-sees-recent-changes-the-agent-can-use-a-tool-to-see-your-recent-changes-it|cursor-2025-01-23-2ce8ba]]'
@@ -47,12 +47,12 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f|cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: We’ve also fixed a long-standing issue where Always attached rules now persist
-  a
+title: Cursor fixes a long-standing issue where Always attached rules now persist
+  across…
 type: change
 ---
 
-# We’ve also fixed a long-standing issue where Always attached rules now persist a
+# Cursor fixes a long-standing issue where Always attached rules now persist across…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Rules generation, improved agent terminal and MCP images: We’ve also fixed a long-standing issue where Always attached rules now persist across longer conversations. Agent can now also edit rules reliably.

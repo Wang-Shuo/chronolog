@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0189995fd9290b0a8ba73e8f05ee0202bcf049d1c745f67d67791b88570e63fd
+machine_hash: 1c37ee1ba13ee0fe8ed78d98718c1d0606ddac827bc537ab03bc13ab381c78bb
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Fixed freezes and 100% CPU loops triggered by permission prompts for complex
       bash commands
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.73
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: Fixed freezes and 100% CPU loops triggered by permission prompts for complex
-    bas
+    bash commands
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-24-fixed-a-security-issue-where-statusline-and-filesuggestion-hook-commands-could-e|claude-code-2026-02-24-b4a332]]'
@@ -47,11 +47,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-03-11-v2-1-73-github-29
 source_type: github_releases
 theme: safety-privacy
 title: Fixed freezes and 100% CPU loops triggered by permission prompts for complex
-  bas
+  bash commands
 type: change
 ---
 
-# Fixed freezes and 100% CPU loops triggered by permission prompts for complex bas
+# Fixed freezes and 100% CPU loops triggered by permission prompts for complex bash commands
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.73: Fixed freezes and 100% CPU loops triggered by permission prompts for complex bash commands

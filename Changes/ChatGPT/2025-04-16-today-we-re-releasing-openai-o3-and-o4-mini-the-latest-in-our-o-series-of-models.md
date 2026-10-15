@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 5e8a4050abc588a33d82e9dfa951f2376eae3df9c7647fbae0ffdbbc87d1523d
+machine_hash: 47582835738c0b17626f85d07881aa25d585fb8bfde27fa164467dcda89a14ee
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,7 +54,7 @@ record:
       academic benchmarks and real-world tasks, setting a new standard in both intelligence
       and usefulness.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -77,7 +77,7 @@ record:
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v2
   title: Today, we’re releasing OpenAI o3 and o4-mini, the latest in our o-series
-    of mode
+    of models…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-03-27-gpt-4o-has-further-improved-its-capability-to-tackle-complex-technical-and-codin|chatgpt-2025-03-27-9fca00]]'
@@ -87,11 +87,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2025-04-16-o3-and-o4-mini-in-chatgpt
 source_type: chatgpt_changelog
 theme: model-support
 title: Today, we’re releasing OpenAI o3 and o4-mini, the latest in our o-series of
-  mode
+  models…
 type: change
 ---
 
-# Today, we’re releasing OpenAI o3 and o4-mini, the latest in our o-series of mode
+# Today, we’re releasing OpenAI o3 and o4-mini, the latest in our o-series of models…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — o3 and o4-mini in ChatGPT: Today, we’re releasing OpenAI o3 and o4-mini, the latest in our o-series of models trained to think for longer before responding. These are the smartest models we’ve released to date, representing a step change in ChatGPT's capabilities for everyone from curious users to advanced researchers. For the first time, our reasoning models can agentically use and combine every tool within ChatGPT—this includes searching the web, analyzing uploaded files and other data with Python, reasoning deeply about visual inputs, and even generating images. Critically, these models are trained to reason about when and how to use tools to produce detailed and thoughtful answers in the right output formats, typically in under a minute, to solve more complex problems. This allows them to tackle multi-faceted questions more effectively, a step toward a more agentic ChatGPT that can independently execute tasks on your behalf. The combined power of state-of-the-art reasoning with full tool access translates into significantly stronger performance across academic benchmarks and real-world tasks, setting a new standard in both intelligence and usefulness.

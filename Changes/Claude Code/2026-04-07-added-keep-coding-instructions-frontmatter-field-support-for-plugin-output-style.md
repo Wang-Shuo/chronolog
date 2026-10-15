@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: e95e104fcdd96b167b3bf6e980338677730f412d063acd213512bf2ba9d271d7
+machine_hash: a5100e4b05d9cc984511faa68c16732150e390a9d7b77a32d7af534ba4142443
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Added `keep-coding-instructions` frontmatter field support for plugin output
       styles
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.94
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   source_type: github_releases
   theme: apps-integrations
   title: Added `keep-coding-instructions` frontmatter field support for plugin output
-    sty
+    styles
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-07-added-hookspecificoutput-sessiontitle-to-userpromptsubmit-hooks-for-setting-the|claude-code-2026-04-07-41c2fc]]'
@@ -47,11 +47,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-04-07-v2-1-94-github-30
 source_type: github_releases
 theme: apps-integrations
 title: Added keep-coding-instructions frontmatter field support for plugin output
-  sty
+  styles
 type: change
 ---
 
-# Added `keep-coding-instructions` frontmatter field support for plugin output sty
+# Added `keep-coding-instructions` frontmatter field support for plugin output styles
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.94: Added `keep-coding-instructions` frontmatter field support for plugin output styles

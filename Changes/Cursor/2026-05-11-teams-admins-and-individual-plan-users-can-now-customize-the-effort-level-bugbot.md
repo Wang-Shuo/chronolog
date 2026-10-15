@@ -11,9 +11,9 @@ diffusion:
   theme: enterprise-admin
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ccf99132f84e1b34b01f9f9ef97c7aa65b4d0bc9dd9f5e7770a67ba53666ae65
+machine_hash: cd2e2229a1214030eb3db7547d76227c9d041e3e667baefcd900b431eba03fc3
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: 'Teams admins and Individual plan users can now customize the effort level
       Bugbot uses for its PR reviews, with three different configurations:'
     source_release: https://cursor.com/changelog/05-11-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -46,7 +46,7 @@ record:
     theme: enterprise-admin
   theme_resolution: manual-backfill-review-v1
   title: Teams admins and Individual plan users can now customize the effort level
-    Bugbot
+    Bugbot…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-04-admins-can-now-set-soft-limits-instead-of-hard-limits-to-avoid-blocking-users-cu|cursor-2026-05-04-fb350d]]'
@@ -55,11 +55,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-05-11-bugbot-effort-levels-https-cursor-com-changelog-05-11-26-b41d8617|cursor-2026-05-11-bugbot-effort-levels-https-cursor-com-changelog-05-11-26-b41d8617]]'
 source_type: cursor_changelog
 theme: enterprise-admin
-title: Teams admins and Individual plan users can now customize the effort level Bugbot
+title: Teams admins and Individual plan users can now customize the effort level Bugbot…
 type: change
 ---
 
-# Teams admins and Individual plan users can now customize the effort level Bugbot
+# Teams admins and Individual plan users can now customize the effort level Bugbot…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Bugbot Effort Levels: Teams admins and Individual plan users can now customize the effort level Bugbot uses for its PR reviews, with three different configurations:

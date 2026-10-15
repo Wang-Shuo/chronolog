@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e3b3f424cc1db871554b3e048c34e3543a36ee21e1fcd8f8e540bb77e97f1d02
+machine_hash: 2b30b2a959fc5e9d9ba07d26f18870015cba3dbeb6dafee2d40d82a87bda9fb6
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: '`SessionStart` hooks can now return `reloadSkills: true` to re-scan skill
       directories, making skills installed by the hook available in the same session'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.152
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,8 +37,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: '`SessionStart` hooks can now return `reloadSkills: true` to re-scan skill
-    direct'
+  title: '`SessionStart` hooks can now return `reloadSkills: true` to re-scan skill…'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-22-usage-now-shows-a-per-category-breakdown-of-what-s-driving-your-limits-usage-ski|claude-code-2026-05-22-82ca7e]]'
@@ -47,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-27-v2-1-152-github-329718732-e62ea850|claude-code-2026-05-27-v2-1-152-github-329718732-e62ea850]]'
 source_type: github_releases
 theme: apps-integrations
-title: 'SessionStart hooks can now return reloadSkills: true to re-scan skill direct'
+title: 'SessionStart hooks can now return reloadSkills: true to re-scan skill…'
 type: change
 ---
 
-# `SessionStart` hooks can now return `reloadSkills: true` to re-scan skill direct
+# `SessionStart` hooks can now return `reloadSkills: true` to re-scan skill…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.152: `SessionStart` hooks can now return `reloadSkills: true` to re-scan skill directories, making skills installed by the hook available in the same session

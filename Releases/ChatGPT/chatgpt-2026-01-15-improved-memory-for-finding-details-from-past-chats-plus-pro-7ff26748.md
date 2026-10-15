@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-01-15'
-machine_hash: 1da083b68ea0c7684dfb5e2934d297cfec6f299c991054f119cdbf25e098c2ce
+machine_hash: 7c5d58d2f41ba88ec2ff70492049ddef917ffbf958a9d1131189c993a9ab1285
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- memory: [[Changes/ChatGPT/2026-01-15-when-reference-chat-history-is-enabled-chatgpt-can-now-more-reliably-find-specif|When reference chat history is enabled, ChatGPT can now more reliably find speci]]
+- memory: [[Changes/ChatGPT/2026-01-15-when-reference-chat-history-is-enabled-chatgpt-can-now-more-reliably-find-specif|When reference chat history is enabled, ChatGPT can now more reliably find specific…]]
 <!-- chronolog:end -->

@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: ba6786c6fc1813327a88c0e8f2fad8d23e3eef7f06d5861b0fddc4ef9b93257a
+machine_hash: d99dca1bbce3d34d84fac30ae72de8a284d0ba94fad3c15250acce0832c8e6b2
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: We've also trained a new Cursor Tab model that's smarter and more context-aware.
     source_release: https://cursor.com/changelog/0-40-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -49,7 +49,7 @@ record:
     score: 50
     theme: model-support
   theme_resolution: manual-semantic-rule-v1
-  title: We've also trained a new Cursor Tab model that's smarter and more context-aware.
+  title: We've also trained a new Cursor Tab model that's smarter and more context-aware
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-04-12-cursorrules-you-can-write-down-repo-level-rules-for-the-ai-by-creating-a-cursorr|cursor-2024-04-12-b331a7]]'
@@ -58,11 +58,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-08-22-0-40-x-https-cursor-com-changelog-0-40-x-317cba42|cursor-2024-08-22-0-40-x-https-cursor-com-changelog-0-40-x-317cba42]]'
 source_type: cursor_changelog
 theme: context-window
-title: We've also trained a new Cursor Tab model that's smarter and more context-aware.
+title: We've also trained a new Cursor Tab model that's smarter and more context-aware
 type: change
 ---
 
-# We've also trained a new Cursor Tab model that's smarter and more context-aware.
+# We've also trained a new Cursor Tab model that's smarter and more context-aware
 
 <!-- chronolog:begin region="description" -->
 Cursor — New Chat UX, Default-On Composer, New Cursor Tab Model: We've also trained a new Cursor Tab model that's smarter and more context-aware.

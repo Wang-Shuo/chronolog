@@ -11,9 +11,9 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a31d44de6f476b08214a20f9e1ff4bef1c3555dd3324126f10e7696a90f27447
+machine_hash: 13aee4d41372182fe5191bbba315e19a68f172049635967401b9c88913dc8824
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: 150k GPT-4 tokens included
     source_release: https://cursor.com/changelog/0-2-6
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

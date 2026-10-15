@@ -11,9 +11,9 @@ diffusion:
   theme: image-generation
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 9ae3d95f9b7f903479d7d0e4c98f32f4882a0e1f6190137deafb1241f8d6c06f
+machine_hash: 44eda82ab846210240ee4fca16c3f1efd617d618a7d28c6527aa7a9c57876ed5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,7 +35,7 @@ record:
       image outputs before generating them.Images with thinking is available on all
       paid ChatGPT plans. It is available when you select Thinking and Pro models.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -54,7 +54,7 @@ record:
     score: 100
     theme: model-support
   theme_resolution: manual-semantic-rule-v1
-  title: We’re introducing ChatGPT Images 2.0, our new image generation model in ChatGPT.
+  title: ChatGPT introduces ChatGPT Images 2.0, our new image generation model
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-10-28-more-messages-larger-file-uploads-and-expanded-image-generation|chatgpt-2025-10-28-6f5b7b]]'
@@ -63,11 +63,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-04-21-chatgpt-images-2-0-in-chatgpt-7e4d6415|chatgpt-2026-04-21-chatgpt-images-2-0-in-chatgpt-7e4d6415]]'
 source_type: chatgpt_changelog
 theme: image-generation
-title: We’re introducing ChatGPT Images 2.0, our new image generation model in ChatGPT.
+title: ChatGPT introduces ChatGPT Images 2.0, our new image generation model
 type: change
 ---
 
-# We’re introducing ChatGPT Images 2.0, our new image generation model in ChatGPT.
+# ChatGPT introduces ChatGPT Images 2.0, our new image generation model
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT Images 2.0 in ChatGPT: We’re introducing ChatGPT Images 2.0, our new image generation model in ChatGPT. ChatGPT Images 2.0 is available on all ChatGPT plans.We’re also introducing images with thinking. When given more time to think, it can plan and refine image outputs before generating them.Images with thinking is available on all paid ChatGPT plans. It is available when you select Thinking and Pro models.

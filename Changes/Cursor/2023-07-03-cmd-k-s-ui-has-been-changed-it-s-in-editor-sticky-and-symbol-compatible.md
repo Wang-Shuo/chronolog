@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4f330b1ec371c7ad76aa12fd278a235464aa42de7fbaac84131b152d9961f9a8
+machine_hash: 060394d0455e03b7e172a10214d14fe22ac736511c127f37df3e675268e99ddd
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: 'Cmd+K''s UI has been changed: it''s in-editor, "sticky," and @-symbol-compatible.'
     source_release: https://cursor.com/changelog/0-2-39
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -33,7 +33,7 @@ record:
   source_release: cursor-2023-07-03-0-2-39-https-cursor-com-changelog-0-2-39-cbfe6a5f
   source_type: cursor_changelog
   theme: editor-experience
-  title: 'Cmd+K''s UI has been changed: it''s in-editor, "sticky," and @-symbol-compatible.'
+  title: 'Cmd+K''s UI has been changed: it''s in-editor, "sticky," and @-symbol-compatible'
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-05-06-rarely-pressing-enter-in-the-editor-does-nothing|cursor-2023-05-06-3dfcf2]]'
@@ -42,11 +42,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-07-03-0-2-39-https-cursor-com-changelog-0-2-39-cbfe6a5f|cursor-2023-07-03-0-2-39-https-cursor-com-changelog-0-2-39-cbfe6a5f]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: 'Cmd+K''s UI has been changed: it''s in-editor, "sticky," and @-symbol-compatible.'
+title: 'Cmd+K''s UI has been changed: it''s in-editor, "sticky," and @-symbol-compatible'
 type: change
 ---
 
-# Cmd+K's UI has been changed: it's in-editor, "sticky," and @-symbol-compatible.
+# Cmd+K's UI has been changed: it's in-editor, "sticky," and @-symbol-compatible
 
 <!-- chronolog:begin region="description" -->
 Cursor — New inline edits: Cmd+K's UI has been changed: it's in-editor, "sticky," and @-symbol-compatible.

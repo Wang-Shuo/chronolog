@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: b81ff87e3187c600a76ee81a9f17829cdcc117583deff8940ef49c9108f78894
+machine_hash: c4a35ac61524756a0ea9d19933a61946afaf72bed2e5e668ffc73502c1d11161
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: '0.46.2: Improved MCP reliability, added option to disable yolo mode for
       MCP'
     source_release: https://cursor.com/changelog/0-46-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

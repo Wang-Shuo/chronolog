@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-05-12'
-machine_hash: ba64265676aa54075725a80d16b4e93d5fe1654ee6ba582590a7711ea8156507
+machine_hash: d286a6211d18e039f1037658776537ac008704d6beea1cb39a9744c752222a5d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- mobile-desktop: [[Changes/ChatGPT/2026-05-12-free-users-in-chatgpt-will-now-see-more-inline-images-from-the-web-to-help-make|Free users in ChatGPT will now see more inline images from the web to help make]]
+- mobile-desktop: [[Changes/ChatGPT/2026-05-12-free-users-in-chatgpt-will-now-see-more-inline-images-from-the-web-to-help-make|Free users in ChatGPT will now see more inline images from the web to help make…]]
 <!-- chronolog:end -->

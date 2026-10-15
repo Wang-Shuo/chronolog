@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: bb57d5178de7ea962b3b3d2a4d1f50021befae539b77d9de9270b02b366ed189
+machine_hash: 7757666b6ecb595e4d0ddd9ab1f85c62a6253fa2f2ac74f6542419fd25d529f5
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: 'Improved compaction progress: the retry countdown and stall hint now appear
       during compaction instead of only a progress bar'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.228
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   theme: context-window
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: 'Improved compaction progress: the retry countdown and stall hint now appear
-    duri'
+  title: Improved compaction progress
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-07-10-each-side-chat-is-a-durable-full-agent-conversation-that-you-can-follow-up-on-re|cursor-2026-07-10-88868c]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-08-11-v2-1-228-github-368745796-47d0c6b9|claude-code-2026-08-11-v2-1-228-github-368745796-47d0c6b9]]'
 source_type: github_releases
 theme: context-window
-title: 'Improved compaction progress: the retry countdown and stall hint now appear
-  duri'
+title: Improved compaction progress
 type: change
 ---
 
-# Improved compaction progress: the retry countdown and stall hint now appear duri
+# Improved compaction progress
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.228: Improved compaction progress: the retry countdown and stall hint now appear during compaction instead of only a progress bar

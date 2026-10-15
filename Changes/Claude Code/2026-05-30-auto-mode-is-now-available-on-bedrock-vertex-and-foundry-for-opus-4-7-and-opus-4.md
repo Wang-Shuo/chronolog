@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 35fdfe7e85c412f6936b014695ec36fee644219a2a08dc5118df5f5add56af8e
+machine_hash: 9d03af58c622e3a90ecdbaaae3205598479efff6beed7fd3a0a0a48ef8253089
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Auto mode is now available on Bedrock, Vertex, and Foundry for Opus 4.7
       and Opus 4.8. Opt in by setting `CLAUDE_CODE_ENABLE_AUTO_MODE=1`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.158
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -45,7 +45,7 @@ record:
     theme: model-support
   theme_resolution: manual-semantic-rule-v2
   title: Auto mode is now available on Bedrock, Vertex, and Foundry for Opus 4.7 and
-    Opus
+    Opus 4.8
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-28-the-lean-system-prompt-is-now-the-default-for-all-models-except-haiku-sonnet-and|claude-code-2026-05-28-6e4f83]]'
@@ -55,11 +55,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-05-30-v2-1-158-github-3
 source_type: github_releases
 theme: model-support
 title: Auto mode is now available on Bedrock, Vertex, and Foundry for Opus 4.7 and
-  Opus
+  Opus 4.8
 type: change
 ---
 
-# Auto mode is now available on Bedrock, Vertex, and Foundry for Opus 4.7 and Opus
+# Auto mode is now available on Bedrock, Vertex, and Foundry for Opus 4.7 and Opus 4.8
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.158: Auto mode is now available on Bedrock, Vertex, and Foundry for Opus 4.7 and Opus 4.8. Opt in by setting `CLAUDE_CODE_ENABLE_AUTO_MODE=1`

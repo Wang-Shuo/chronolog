@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 68d2afa1619cfc1bdf8d55ad3a8c1265be9d02f37175da730a1f21484f23c897
+machine_hash: 2058b19414495bf3deef88afca02d7c5c23b0cacdfd26afa4d3ae9e40302e260
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       push remote (`remote.pushDefault`, or the sole remote when only one is configured)
       in addition to `origin`'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.206
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -39,7 +39,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: '`/commit-push-pr` now auto-allows `git push` to the repo''s configured push
-    remot'
+    remote…'
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-06-17-cursor-can-now-help-you-set-up-your-dev-environment-in-the-cloud-in-less-than-10|cursor-2026-06-17-acb560]]'
@@ -48,11 +48,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-10-v2-1-206-github-351694341-0226036e|claude-code-2026-07-10-v2-1-206-github-351694341-0226036e]]'
 source_type: github_releases
 theme: developer-workflow
-title: /commit-push-pr now auto-allows git push to the repo's configured push remot
+title: /commit-push-pr now auto-allows git push to the repo's configured push remote…
 type: change
 ---
 
-# `/commit-push-pr` now auto-allows `git push` to the repo's configured push remot
+# `/commit-push-pr` now auto-allows `git push` to the repo's configured push remote…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.206: `/commit-push-pr` now auto-allows `git push` to the repo's configured push remote (`remote.pushDefault`, or the sole remote when only one is configured) in addition to `origin`

@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 317c11e15b3dbbe59e6079117cd2eed9f6412bed0854b6c4de78cff3ebedeebd
+machine_hash: 9fac2d0a744bf00dd7c4baa5d94b476d4d8135b9c58165e554ec4cfa47e8b5fd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
       credits requires a separate opt-in. A partner may still charge for its own product
       or services.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -36,8 +36,7 @@ record:
   source_release: chatgpt-2026-09-29-use-your-chatgpt-allowance-in-participating-apps-aecfcdb3
   source_type: chatgpt_changelog
   theme: apps-integrations
-  title: This is a limited preview with participating integrations. Using purchased
-    credi
+  title: This is a limited preview with participating integrations
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-24-added-the-allowclaudeinchromewithmanagedmcp-managed-setting-to-let-claude-chrome|claude-code-2026-09-24-628c9c]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-use-your-chatgpt-allowance-in-participating-apps-aecfcdb3|chatgpt-2026-09-29-use-your-chatgpt-allowance-in-participating-apps-aecfcdb3]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
-title: This is a limited preview with participating integrations. Using purchased
-  credi
+title: This is a limited preview with participating integrations
 type: change
 ---
 
-# This is a limited preview with participating integrations. Using purchased credi
+# This is a limited preview with participating integrations
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Use your ChatGPT allowance in participating apps: This is a limited preview with participating integrations. Using purchased credits requires a separate opt-in. A partner may still charge for its own product or services.

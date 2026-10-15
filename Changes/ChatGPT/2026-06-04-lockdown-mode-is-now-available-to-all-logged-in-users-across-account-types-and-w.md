@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: a9fbb3291167d88071f1a3c345c494e54c0ba040b73574735cb2fef8a3ee7f7a
+machine_hash: 07ac34df3b056ece183599ddbf72536ab0ca89b0322461ce15622e6810577a48
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,7 +41,7 @@ record:
       > Security. Workspace admins can configure access for members through workspace
       settings and role-based access controls.Learn more: Lockdown Mode'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: chatgpt
   product_name: ChatGPT
@@ -71,7 +71,7 @@ record:
     theme: enterprise-admin
   theme_resolution: manual-backfill-review-v1
   title: Lockdown Mode is now available to all logged-in users across account types
-    and w
+    and workspaces
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-03-claude-agents-json-now-includes-waitingfor-showing-what-a-waiting-session-is-blo|claude-code-2026-06-03-cc3caf]]'
@@ -81,11 +81,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-06-04-lockdown-mode-is-now-avai
 source_type: chatgpt_changelog
 theme: safety-privacy
 title: Lockdown Mode is now available to all logged-in users across account types
-  and w
+  and workspaces
 type: change
 ---
 
-# Lockdown Mode is now available to all logged-in users across account types and w
+# Lockdown Mode is now available to all logged-in users across account types and workspaces
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Lockdown Mode is now available to all logged-in users: Lockdown Mode is now available to all logged-in users across account types and workspaces. It is an optional opt-in advanced security setting that limits access to the web and external services to help reduce the risk of data exfiltration from prompt injection attacks.When Lockdown Mode is on, ChatGPT restricts network-enabled capabilities such as live web browsing, deep research, agent mode, file downloads, and some web-derived image support. Personal users can turn it on from Settings > Security. Workspace admins can configure access for members through workspace settings and role-based access controls.Learn more: Lockdown Mode

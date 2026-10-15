@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: e65bfdae8814966b9121d66fcfcbb2fa6e2f688e3304da8b8b070003629d0b06
+machine_hash: 5a8fc52151b044c6627d9ad90f74bdf1060b7c6e1923aa37a68eb6451689f075
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: Added support for multiple parallel Debug mode sessions.
     source_release: https://cursor.com/changelog/2-6
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -37,7 +37,7 @@ record:
   theme: developer-workflow
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Added support for multiple parallel Debug mode sessions.
+  title: Added support for multiple parallel Debug mode sessions
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-02-26-bugbot-can-automatically-fix-issues-it-finds-in-pull-requests|cursor-2026-02-26-68b164]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3|cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3]]'
 source_type: cursor_changelog
 theme: developer-workflow
-title: Added support for multiple parallel Debug mode sessions.
+title: Added support for multiple parallel Debug mode sessions
 type: change
 ---
 
-# Added support for multiple parallel Debug mode sessions.
+# Added support for multiple parallel Debug mode sessions
 
 <!-- chronolog:begin region="description" -->
 Cursor — MCP Apps and Team Marketplaces for Plugins: Added support for multiple parallel Debug mode sessions.

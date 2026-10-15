@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 83ef2e925b95f0870407a512ba0b43a74b8bc4534cf227d379f485340d17df28
+machine_hash: de1f637314b5d0940dea1f28c2083b1811a383238ff5759c9d84d580bfac86e1
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
   - quote: Remote tunnels are now supported! Remote SSH support is also more robust
       (now supports multiple proxy jumps, among other things).
     source_release: https://cursor.com/changelog/0-35-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -37,8 +37,7 @@ record:
   source_release: cursor-2024-06-08-0-35-x-https-cursor-com-changelog-0-35-x-b4216e90
   source_type: cursor_changelog
   theme: developer-workflow
-  title: Remote tunnels are now supported! Remote SSH support is also more robust
-    (now su
+  title: Remote tunnels are now supported!
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-01-06-improves-the-stability-of-wsl|cursor-2024-01-06-ccf46a]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-06-08-0-35-x-https-cursor-com-changelog-0-35-x-b4216e90|cursor-2024-06-08-0-35-x-https-cursor-com-changelog-0-35-x-b4216e90]]'
 source_type: cursor_changelog
 theme: developer-workflow
-title: Remote tunnels are now supported! Remote SSH support is also more robust (now
-  su
+title: Remote tunnels are now supported!
 type: change
 ---
 
-# Remote tunnels are now supported! Remote SSH support is also more robust (now su
+# Remote tunnels are now supported!
 
 <!-- chronolog:begin region="description" -->
 Cursor — Default-on Cursor Prediction, Remote Tunnels & More Robust SSH: Remote tunnels are now supported! Remote SSH support is also more robust (now supports multiple proxy jumps, among other things).

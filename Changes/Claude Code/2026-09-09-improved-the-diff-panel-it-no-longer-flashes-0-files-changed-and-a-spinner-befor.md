@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: c07c7c09465e60dd6f396c37a542224bb6c08f5276f3f463052b566db1d74a00
+machine_hash: 8b95e16b3129a2af3e9cc14a40ce506b3af79db77f3d2b9ba1ff1f4ef0955022
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: 'Improved the `/diff` panel: it no longer flashes "0 files changed" and
       a spinner before settling, and its empty state is centered in the panel'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.267
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,8 +37,7 @@ record:
   theme: interface-experience
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: 'Improved the `/diff` panel: it no longer flashes "0 files changed" and a
-    spinner'
+  title: Improved the `/diff` panel
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-27-added-server-managed-settings-diagnostics-a-startup-warning-when-the-settings-fa|claude-code-2026-08-27-554901]]'
@@ -47,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-09-v2-1-267-github-385748811-6409148e|claude-code-2026-09-09-v2-1-267-github-385748811-6409148e]]'
 source_type: github_releases
 theme: interface-experience
-title: 'Improved the /diff panel: it no longer flashes "0 files changed" and a spinner'
+title: Improved the /diff panel
 type: change
 ---
 
-# Improved the `/diff` panel: it no longer flashes "0 files changed" and a spinner
+# Improved the `/diff` panel
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.267: Improved the `/diff` panel: it no longer flashes "0 files changed" and a spinner before settling, and its empty state is centered in the panel

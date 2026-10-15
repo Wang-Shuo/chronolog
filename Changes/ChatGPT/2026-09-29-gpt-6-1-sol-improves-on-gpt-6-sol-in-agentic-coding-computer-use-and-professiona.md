@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: a7bdf74b850d1c8eec68b1f28b13d53725470e7e63116e7a42a37ee975554647
+machine_hash: 23d3e6cb8f0a458546f102c427179b448dd2ed88462d9f4849d9a9b57ee4e735
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -37,7 +37,7 @@ record:
       & roles, on the Workspace tab or through a custom role. Learn how to manage
       model access with role-based access control.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -63,7 +63,8 @@ record:
     score: 50
     theme: model-support
   theme_resolution: manual-semantic-rule-v2
-  title: GPT-6.1 Sol improves on GPT-6 Sol in agentic coding, computer use, and professio
+  title: GPT-6.1 Sol improves on GPT-6 Sol in agentic coding, computer use, and professional
+    work
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-25-added-x-claude-code-prompt-id-to-the-gateway-hint-headers-so-llm-gateways-can-gr|claude-code-2026-09-25-7b8fca]]'
@@ -72,11 +73,12 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-gpt-6-1-sol-in-chatgpt-work-and-codex-a0e5fef0|chatgpt-2026-09-29-gpt-6-1-sol-in-chatgpt-work-and-codex-a0e5fef0]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: GPT-6.1 Sol improves on GPT-6 Sol in agentic coding, computer use, and professio
+title: GPT-6.1 Sol improves on GPT-6 Sol in agentic coding, computer use, and professional
+  work
 type: change
 ---
 
-# GPT-6.1 Sol improves on GPT-6 Sol in agentic coding, computer use, and professio
+# GPT-6.1 Sol improves on GPT-6 Sol in agentic coding, computer use, and professional work
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — GPT-6.1 Sol in ChatGPT Work and Codex: GPT-6.1 Sol improves on GPT-6 Sol in agentic coding, computer use, and professional work. We’re rolling it out in ChatGPT Work and Codex, starting with Pro users and expanding to Plus, Business, Enterprise, and Edu. Enterprise and Edu workspace owners can enable model access in Workspace settings > Permissions & roles, on the Workspace tab or through a custom role. Learn how to manage model access with role-based access control.

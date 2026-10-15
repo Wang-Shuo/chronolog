@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2025-05-06'
-machine_hash: f6b0d0185274e02303ca9e543f857cfd27e478ed4dcebb5003d3cd066e7acd68
+machine_hash: b07ea4fe33a269da5f41df41543b2cc59c378329562d129f6c50fc40dd1c25b3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,6 +41,6 @@ Tracked cards: 2
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- interface-experience: [[Changes/ChatGPT/2025-05-06-no-tools-are-deprecated-access-is-simply-consolidated-to-clear-space-and-reduce|No tools are deprecated—access is simply consolidated to clear space and reduce]]
-- mobile-desktop: [[Changes/ChatGPT/2025-05-06-we-ve-removed-the-row-of-individual-tool-icons-from-the-mobile-composer-and-repl-a7377a|We've removed the row of individual tool icons from the mobile composer and repl]]
+- interface-experience: [[Changes/ChatGPT/2025-05-06-no-tools-are-deprecated-access-is-simply-consolidated-to-clear-space-and-reduce|No tools are deprecated—access is simply consolidated to clear space and reduce…]]
+- mobile-desktop: [[Changes/ChatGPT/2025-05-06-we-ve-removed-the-row-of-individual-tool-icons-from-the-mobile-composer-and-repl-a7377a|We've removed the row of individual tool icons from the mobile composer and replaced…]]
 <!-- chronolog:end -->

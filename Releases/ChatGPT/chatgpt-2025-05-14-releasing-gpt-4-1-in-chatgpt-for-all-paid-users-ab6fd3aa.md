@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-05-14'
-machine_hash: 4492e69799ca030045dbcaaea4f75401afdaede1dec937078c56fa9c1e6d05f1
+machine_hash: b5e6af3dfb9e52548aa09756d883141cdc7da213a4085eac1d5f51e4d179ce9c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2025-05-14-since-its-launch-in-the-api-in-april-gpt-4-1-has-become-a-favorite-among-develop-286eb2|Since its launch in the API in April, GPT-4.1 has become a favorite among develo]]
+- model-support: [[Changes/ChatGPT/2025-05-14-since-its-launch-in-the-api-in-april-gpt-4-1-has-become-a-favorite-among-develop-286eb2|Since its launch in the API in April, GPT-4.1 has become a favorite among…]]
 <!-- chronolog:end -->

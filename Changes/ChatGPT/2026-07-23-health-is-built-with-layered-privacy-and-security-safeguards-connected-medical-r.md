@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d6461c20b9f022159d82f9796e0d12884c71e43e6b9c15d39de19455027f99da
+machine_hash: 6ee6665a5e5c714b21282fb6ff149f832fcca6794a1060126c004ee602f66fec
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       medical records and Apple Health information, and conversations that use it,
       are not used to train our foundation models or target ads.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -48,7 +48,7 @@ record:
     score: 50
     theme: model-support
   theme_resolution: manual-semantic-rule-v2
-  title: Health is built with layered privacy and security safeguards. Connected medical
+  title: Health is built with layered privacy and security safeguards
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-21-fixed-remote-control-sessions-not-showing-a-pending-permission-prompt-or-dialog|claude-code-2026-07-21-608ceb]]'
@@ -57,11 +57,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-23-health-in-chatgpt-4cb3bdf6|chatgpt-2026-07-23-health-in-chatgpt-4cb3bdf6]]'
 source_type: chatgpt_changelog
 theme: safety-privacy
-title: Health is built with layered privacy and security safeguards. Connected medical
+title: Health is built with layered privacy and security safeguards
 type: change
 ---
 
-# Health is built with layered privacy and security safeguards. Connected medical
+# Health is built with layered privacy and security safeguards
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Health in ChatGPT: Health is built with layered privacy and security safeguards. Connected medical records and Apple Health information, and conversations that use it, are not used to train our foundation models or target ads.

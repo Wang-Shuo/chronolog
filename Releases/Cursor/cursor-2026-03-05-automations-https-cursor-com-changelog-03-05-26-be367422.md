@@ -1,7 +1,7 @@
 ---
 changes_count: 4
 date: '2026-03-05'
-machine_hash: fd550282a951e7d05dd34b24cca24fc8c676eff4a8c5616a57f0d7ee004db783
+machine_hash: b1f09cc605a1a71c877571514709cad527cf9e69ac7d5814e53a569ba5280d49
 product: cursor
 product_name: Cursor
 record:
@@ -39,8 +39,8 @@ Tracked cards: 4
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- safety-privacy: [[Changes/Cursor/2026-03-05-when-invoked-the-agent-spins-up-a-cloud-sandbox-and-follows-your-instructions-us|When invoked, the agent spins up a cloud sandbox and follows your instructions u]]
-- automation-scheduling: [[Changes/Cursor/2026-03-05-cursor-now-supports-automations-for-building-always-on-agents-that-run-based-on|Cursor now supports automations for building always-on agents that run based on]]
-- automation-scheduling: [[Changes/Cursor/2026-03-05-create-automations-at-cursor-com-automations-or-start-from-a-template-read-more|Create automations at cursor.com/automations, or start from a template. Read mor]]
-- automation-scheduling: [[Changes/Cursor/2026-03-05-automations-run-on-schedules-or-are-triggered-by-events-from-slack-linear-github|Automations run on schedules or are triggered by events from Slack, Linear, GitH]]
+- safety-privacy: [[Changes/Cursor/2026-03-05-when-invoked-the-agent-spins-up-a-cloud-sandbox-and-follows-your-instructions-us|When invoked, the agent spins up a cloud sandbox and follows your instructions using…]]
+- automation-scheduling: [[Changes/Cursor/2026-03-05-cursor-now-supports-automations-for-building-always-on-agents-that-run-based-on|Cursor now supports automations for building always-on agents that run based…]]
+- automation-scheduling: [[Changes/Cursor/2026-03-05-create-automations-at-cursor-com-automations-or-start-from-a-template-read-more|Create automations at cursor.com/automations, or start from a template]]
+- automation-scheduling: [[Changes/Cursor/2026-03-05-automations-run-on-schedules-or-are-triggered-by-events-from-slack-linear-github|Automations run on schedules or are triggered by events from Slack, Linear, GitHub…]]
 <!-- chronolog:end -->

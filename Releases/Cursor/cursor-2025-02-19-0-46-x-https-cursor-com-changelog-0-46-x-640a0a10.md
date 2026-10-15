@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2025-02-19'
-machine_hash: 0516825be7d97b76d545d03a868cbf6f924dbe158c6f7964f4774e89f765b3d3
+machine_hash: 65bda706252fa7e2c753dc8b5af173d37e9ae24e8e3df64cb6d357942ead9899
 product: cursor
 product_name: Cursor
 record:
@@ -38,9 +38,9 @@ Tracked cards: 5
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- apps-integrations: [[Changes/Cursor/2025-02-19-mcp-improved-reliability-and-quality-of-life-enhancements-for-building-mcp-serve|MCP: Improved reliability and quality of life enhancements for building MCP serv]]
+- apps-integrations: [[Changes/Cursor/2025-02-19-mcp-improved-reliability-and-quality-of-life-enhancements-for-building-mcp-serve|MCP: Improved reliability and quality of life enhancements for building MCP servers…]]
 - interface-experience: [[Changes/Cursor/2025-02-19-0-46-3-enhanced-download-reliability-fixed-keybinding-issue|0.46.3: Enhanced download reliability, fixed keybinding issue]]
-- developer-workflow: [[Changes/Cursor/2025-02-19-windows-fixed-newline-errors-in-chat-codeblocks-and-resolved-auto-uninstallation|Windows: Fixed newline errors in Chat Codeblocks and resolved auto-uninstallatio]]
+- developer-workflow: [[Changes/Cursor/2025-02-19-windows-fixed-newline-errors-in-chat-codeblocks-and-resolved-auto-uninstallation|Windows: Fixed newline errors in Chat Codeblocks and resolved auto-uninstallation issues]]
 - apps-integrations: [[Changes/Cursor/2025-02-19-0-46-2-improved-mcp-reliability-added-option-to-disable-yolo-mode-for-mcp|0.46.2: Improved MCP reliability, added option to disable yolo mode for MCP]]
-- memory: [[Changes/Cursor/2025-02-19-crashes-enhanced-stability-through-memory-and-performance-improvements-with-addi|Crashes: Enhanced stability through memory and performance improvements, with ad]]
+- memory: [[Changes/Cursor/2025-02-19-crashes-enhanced-stability-through-memory-and-performance-improvements-with-addi|Crashes: Enhanced stability through memory and performance improvements…]]
 <!-- chronolog:end -->

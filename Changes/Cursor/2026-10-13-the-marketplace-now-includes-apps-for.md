@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 73e3db49d36177b68fcb075de652fc0365ef817197b1374f7580167d89939749
+machine_hash: b5bc9f9751053cdcd755c40446b389b833a624d6bb8961e5becc5b8641a5b49f
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: 'The marketplace now includes apps for:'
     source_release: https://cursor.com/changelog/origin-app-marketplace
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -33,7 +33,7 @@ record:
   source_release: cursor-2026-10-13-origin-app-marketplace-https-cursor-com-changelog-origin-app-mar-54aa7e2c
   source_type: cursor_changelog
   theme: apps-integrations
-  title: 'The marketplace now includes apps for:'
+  title: The marketplace now includes apps for
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-10-08-added-onfailure-block-for-command-and-http-hooks-a-hook-that-can-t-start-times-o|claude-code-2026-10-08-421ebb]]'
@@ -42,11 +42,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-10-13-origin-app-marketplace-https-cursor-com-changelog-origin-app-mar-54aa7e2c|cursor-2026-10-13-origin-app-marketplace-https-cursor-com-changelog-origin-app-mar-54aa7e2c]]'
 source_type: cursor_changelog
 theme: apps-integrations
-title: 'The marketplace now includes apps for:'
+title: The marketplace now includes apps for
 type: change
 ---
 
-# The marketplace now includes apps for:
+# The marketplace now includes apps for
 
 <!-- chronolog:begin region="description" -->
 Cursor — Origin App Marketplace: The marketplace now includes apps for:

@@ -1,7 +1,7 @@
 ---
 changes_count: 4
 date: '2026-04-08'
-machine_hash: 19fbe0a46e231a1f74e1d28dc71a1f5d1305e5fc3b66b443e6ce7be150049d3a
+machine_hash: 9a2ccdcb6f302d6f03a960e4574b590161967501efd72ae74dd86d1f8cb839d5
 product: cursor
 product_name: Cursor
 record:
@@ -40,8 +40,8 @@ Tracked cards: 4
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- apps-integrations: [[Changes/Cursor/2026-04-08-it-looks-at-reactions-and-replies-to-bugbot-comments-and-comments-from-human-rev|It looks at reactions and replies to Bugbot comments and comments from human rev]]
-- apps-integrations: [[Changes/Cursor/2026-04-08-give-bugbot-access-to-mcp-servers-for-additional-context-during-code-reviews-on|Give Bugbot access to MCP servers for additional context during code reviews. On]]
-- developer-workflow: [[Changes/Cursor/2026-04-08-bugbot-can-now-learn-from-feedback-on-pull-requests-and-turn-those-signals-into|Bugbot can now learn from feedback on pull requests and turn those signals into]]
-- apps-integrations: [[Changes/Cursor/2026-04-08-this-release-introduces-updates-to-bugbot-including-the-ability-to-self-improve|This release introduces updates to Bugbot including the ability to self-improve]]
+- apps-integrations: [[Changes/Cursor/2026-04-08-it-looks-at-reactions-and-replies-to-bugbot-comments-and-comments-from-human-rev|It looks at reactions and replies to Bugbot comments and comments from human…]]
+- apps-integrations: [[Changes/Cursor/2026-04-08-give-bugbot-access-to-mcp-servers-for-additional-context-during-code-reviews-on|Give Bugbot access to MCP servers for additional context during code reviews]]
+- developer-workflow: [[Changes/Cursor/2026-04-08-bugbot-can-now-learn-from-feedback-on-pull-requests-and-turn-those-signals-into|Bugbot can now learn from feedback on pull requests and turn those signals…]]
+- apps-integrations: [[Changes/Cursor/2026-04-08-this-release-introduces-updates-to-bugbot-including-the-ability-to-self-improve|Cursor introduces updates to Bugbot including the ability to self-improve in real…]]
 <!-- chronolog:end -->

@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6a24c72e8a9e23c96a2b8d32eeecb6ae165146c7616cbd6b9c0b0e30e944798e
+machine_hash: fc67990fd59787164714cc502268b8167ef5e430bdec31ca47abb109e6097561
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Fixed the Write tool silently ending the turn as a declined permission
       when the target path is an existing directory; it now reports a clear error
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.277
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,8 +37,7 @@ record:
   theme: safety-privacy
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: Fixed the Write tool silently ending the turn as a declined permission when
-    the
+  title: Fixed the Write tool silently ending the turn as a declined permission…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-09-14-if-you-make-no-changes-to-your-plugins-settings-the-default-permission-setting-i|chatgpt-2026-09-14-2237ea]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-18-v2-1-277-github-391616593-06a20f36|claude-code-2026-09-18-v2-1-277-github-391616593-06a20f36]]'
 source_type: github_releases
 theme: safety-privacy
-title: Fixed the Write tool silently ending the turn as a declined permission when
-  the
+title: Fixed the Write tool silently ending the turn as a declined permission…
 type: change
 ---
 
-# Fixed the Write tool silently ending the turn as a declined permission when the
+# Fixed the Write tool silently ending the turn as a declined permission…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.277: Fixed the Write tool silently ending the turn as a declined permission when the target path is an existing directory; it now reports a clear error

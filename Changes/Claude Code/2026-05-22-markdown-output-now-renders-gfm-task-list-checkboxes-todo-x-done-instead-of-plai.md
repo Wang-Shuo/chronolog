@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5599d6080218686e21923b13ccaec44b1958dfbb30f9a420c1dbea3299d910c7
+machine_hash: 6a2865bd8ba15b4e64f7d2a430fa79aeff648891253a9229e72dbd4d66360c04
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Markdown output now renders GFM task list checkboxes (`- [ ] todo` / `-
       [x] done`) instead of plain bullets
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.149
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: Markdown output now renders GFM task list checkboxes (`- [ ] todo` / `- [x]
-    done
+    done`)…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-19-status-line-json-input-now-includes-github-repo-and-pr-information-when-detected|claude-code-2026-05-19-834b67]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-22-v2-1-149-github-328077450-086ee33f|claude-code-2026-05-22-v2-1-149-github-328077450-086ee33f]]'
 source_type: github_releases
 theme: interface-experience
-title: Markdown output now renders GFM task list checkboxes (-   todo / - x done
+title: Markdown output now renders GFM task list checkboxes (-   todo / - x done)…
 type: change
 ---
 
-# Markdown output now renders GFM task list checkboxes (`- [ ] todo` / `- [x] done
+# Markdown output now renders GFM task list checkboxes (`- [ ] todo` / `- [x] done`)…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.149: Markdown output now renders GFM task list checkboxes (`- [ ] todo` / `- [x] done`) instead of plain bullets

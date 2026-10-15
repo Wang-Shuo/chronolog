@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a11a3d1476830cbf8f60f7cdecddc637725763502b8e442f1f2a3b7fb6ed65d6
+machine_hash: eb7573023a601b3c18954d123f2dfe76c4c1393b2dd9d0075faffc961877f6ca
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Added named subagents to `@` mention typeahead suggestions
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.89
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

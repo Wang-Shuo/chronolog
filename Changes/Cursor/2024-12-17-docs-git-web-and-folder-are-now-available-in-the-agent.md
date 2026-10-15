@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: addcaea0225e265722fcffe9f3e4cef6bfe7e09301b0bba412253afd2317466d
+machine_hash: 23972c4d9bcb636cf0ed1fab0aef5da1023b072b11e132218364431ea795b38a
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: '@docs, @git, @web, and @folder are now available in the agent'
     source_release: https://cursor.com/changelog/0-44-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor

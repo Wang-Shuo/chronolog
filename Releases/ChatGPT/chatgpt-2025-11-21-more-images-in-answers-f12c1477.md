@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-11-21'
-machine_hash: b1c20aab094bf3bca54effc3c1ac4ba10373d60ef552c6152b3e5536b3d5b554
+machine_hash: 22568a224ee84449e7d51a237b95261d87a33fffcb94598d04fcb9459d5a366e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2025-11-21-chatgpt-now-adds-more-inline-images-from-the-web-to-help-you-quickly-understand-83e5b8|ChatGPT now adds more inline images from the web to help you quickly understand]]
+- model-support: [[Changes/ChatGPT/2025-11-21-chatgpt-now-adds-more-inline-images-from-the-web-to-help-you-quickly-understand-83e5b8|ChatGPT now adds more inline images from the web to help you quickly understand…]]
 <!-- chronolog:end -->

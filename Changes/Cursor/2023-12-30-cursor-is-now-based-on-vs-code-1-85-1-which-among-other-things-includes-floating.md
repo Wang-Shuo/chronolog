@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5a0010cac9f37315f438fbb8150f1dbde045fa705a04186d049755c748278d9e
+machine_hash: 047c0fe6917403b4baabad2559ac9f11b5f432ade2b3d996861870430f15e490
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
       floating editor windows. Just drag and drop an editor onto your desktop to try
       it out.
     source_release: https://cursor.com/changelog/0-21-3-nightly
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -47,7 +47,7 @@ record:
     theme: mobile-desktop
   theme_resolution: manual-semantic-rule-v1
   title: Cursor is now based on VS Code 1.85.1, which, among other things, includes
-    float
+    floating…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-06-22-we-ve-made-two-updates-to-the-mobile-chatgpt-app|chatgpt-2023-06-22-88b23f]]'
@@ -57,11 +57,11 @@ source_release: '[[Releases/Cursor/cursor-2023-12-30-0-21-3-nightly-https-cursor
 source_type: cursor_changelog
 theme: mobile-desktop
 title: Cursor is now based on VS Code 1.85.1, which, among other things, includes
-  float
+  floating…
 type: change
 ---
 
-# Cursor is now based on VS Code 1.85.1, which, among other things, includes float
+# Cursor is now based on VS Code 1.85.1, which, among other things, includes floating…
 
 <!-- chronolog:begin region="description" -->
 Cursor — VS Code 1.85.1: Cursor is now based on VS Code 1.85.1, which, among other things, includes floating editor windows. Just drag and drop an editor onto your desktop to try it out.

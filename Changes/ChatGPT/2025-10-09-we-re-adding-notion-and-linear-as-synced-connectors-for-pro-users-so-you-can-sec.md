@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: cf806c0af702d2db6bdc21bcd86d924fbde3fa7248856b3640fa0e4dbd081532
+machine_hash: 446ed94e949490d748dcfe013ce1fa47714a5d570a87819e56cead4c9f5c8b00
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,7 +35,7 @@ record:
       first). Once synced, ChatGPT will automatically reference the indexed content
       when relevant. Learn more about synced connectors.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -43,8 +43,8 @@ record:
   source_release: chatgpt-2025-10-09-adding-notion-linear-synced-connectors-8b3828f2
   source_type: chatgpt_changelog
   theme: apps-integrations
-  title: We're adding Notion and Linear as synced connectors (for Pro users), so you
-    can
+  title: ChatGPT adds Notion and Linear as synced connectors (for Pro users), so you
+    can…
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-09-12-we-ve-added-support-for-mcp-resources-resources-allow-servers-to-share-data-that|cursor-2025-09-12-301348]]'
@@ -53,12 +53,12 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-09-adding-notion-linear-synced-connectors-8b3828f2|chatgpt-2025-10-09-adding-notion-linear-synced-connectors-8b3828f2]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
-title: We're adding Notion and Linear as synced connectors (for Pro users), so you
-  can
+title: ChatGPT adds Notion and Linear as synced connectors (for Pro users), so you
+  can…
 type: change
 ---
 
-# We're adding Notion and Linear as synced connectors (for Pro users), so you can
+# ChatGPT adds Notion and Linear as synced connectors (for Pro users), so you can…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Adding Notion & Linear synced connectors: We're adding Notion and Linear as synced connectors (for Pro users), so you can securely bring Notion pages and Linear issues/discussions into Chat for fast answers and summaries. You can enable sync for Notion and Linear from your Connector settings (connect to Notion or Linear if you haven’t already, first). Once synced, ChatGPT will automatically reference the indexed content when relevant. Learn more about synced connectors.

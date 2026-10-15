@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d1c3386c54f0ea16b483868bede8d833afe432b77a8f53a2224ff9500dc99350
+machine_hash: 2d73c8035c995cd5e6b49116a0913fb0198f9a90a2d57da607bc0c4df5c99c14
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       users located outside of the EEA, Switzerland, and the UK.Learn more about connectors,
       as well as how to create a custom connector using MCP.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -51,7 +51,7 @@ record:
     score: 60
     theme: search-browsing
   title: Pro users can now utilize chat search with HubSpot and custom connectors
-    (MCP) i
+    (MCP)…
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-06-12-mention-cursor-in-any-thread-with-a-prompt-like|cursor-2025-06-12-48f707]]'
@@ -60,12 +60,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-07-24-chat-search-for-hubspot-and-custom-connectors-mcp-pro-f49427a3|chatgpt-2025-07-24-chat-search-for-hubspot-and-custom-connectors-mcp-pro-f49427a3]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
-title: Pro users can now utilize chat search with HubSpot and custom connectors (MCP)
-  i
+title: Pro users can now utilize chat search with HubSpot and custom connectors (MCP)…
 type: change
 ---
 
-# Pro users can now utilize chat search with HubSpot and custom connectors (MCP) i
+# Pro users can now utilize chat search with HubSpot and custom connectors (MCP)…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Chat search for HubSpot and custom connectors (MCP) (Pro): Pro users can now utilize chat search with HubSpot and custom connectors (MCP) in addition to deep research.Note this feature is currently limited to users located outside of the EEA, Switzerland, and the UK.Learn more about connectors, as well as how to create a custom connector using MCP.

@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-07-03'
-machine_hash: a9fc9b2ce67a55eb3b1e85bbb9618bc5effbdf7f1ed3cbaca9cf327fd7d1d6ec
+machine_hash: dd767edc752a8c4f90c5be99b6ead676e8ef6ff8fa01d1abae4a50e62338c6a7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- search-browsing: [[Changes/ChatGPT/2023-07-03-we-ve-learned-that-the-browsing-beta-can-occasionally-display-content-in-ways-we|We've learned that the browsing beta can occasionally display content in ways we]]
+- search-browsing: [[Changes/ChatGPT/2023-07-03-we-ve-learned-that-the-browsing-beta-can-occasionally-display-content-in-ways-we|We've learned that the browsing beta can occasionally display content in ways we…]]
 <!-- chronolog:end -->

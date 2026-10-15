@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 2e1e9bad2afd7e7024d6a21422796ea4be91dcab583ef9a618f5077729fa53b1
+machine_hash: d1cdfe5c6a07b96e375ee7ab3b10942399b4da27dd5f8fad3953444ddbb46ff7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
       produces coding outputs that successfully compile and run, streamlining your
       coding workflows.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -43,7 +43,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: GPT-4o has further improved its capability to tackle complex technical and
-    codin
+    coding problems
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-03-18-2-o1-and-o3-mini-now-offer-python-powered-data-analysis-in-chatgpt-you-can-now-a|chatgpt-2025-03-18-6e0d35]]'
@@ -53,11 +53,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2025-03-27-improvements-to-gpt-4o-4b
 source_type: chatgpt_changelog
 theme: model-support
 title: GPT-4o has further improved its capability to tackle complex technical and
-  codin
+  coding problems
 type: change
 ---
 
-# GPT-4o has further improved its capability to tackle complex technical and codin
+# GPT-4o has further improved its capability to tackle complex technical and coding problems
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Improvements to GPT-4o: GPT-4o has further improved its capability to tackle complex technical and coding problems. It now generates cleaner, simpler frontend code, more accurately thinks through existing code to identify necessary changes, and consistently produces coding outputs that successfully compile and run, streamlining your coding workflows.

@@ -11,9 +11,9 @@ diffusion:
   theme: image-generation
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a34c07934536ed618f7e1a033b86af45efcd776f1cd820bd5fb3f596e986df68
+machine_hash: a5713a6eb93deaa79c0e957774eb2e40deeeb549099fce6bbcd67f7b18e214ee
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       with categories like DALL·E, writing, research, programming, education, and
       lifestyle.Explore GPTs at chatgpt.com/gpts.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -50,17 +50,17 @@ record:
     theme: search-browsing
   theme_resolution: manual-semantic-rule-v1
   title: The store features a diverse range of GPTs developed by our partners and
-    the com
+    the community
   type: change
 source_release: '[[Releases/ChatGPT/chatgpt-2024-01-10-introducing-the-gpt-store-and-chatgpt-team-plan-7f1ed4cd|chatgpt-2024-01-10-introducing-the-gpt-store-and-chatgpt-team-plan-7f1ed4cd]]'
 source_type: chatgpt_changelog
 theme: image-generation
 title: The store features a diverse range of GPTs developed by our partners and the
-  com
+  community
 type: change
 ---
 
-# The store features a diverse range of GPTs developed by our partners and the com
+# The store features a diverse range of GPTs developed by our partners and the community
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Introducing the GPT Store and ChatGPT Team plan: The store features a diverse range of GPTs developed by our partners and the community. Browse popular and trending GPTs on the community leaderboard, with categories like DALL·E, writing, research, programming, education, and lifestyle.Explore GPTs at chatgpt.com/gpts.

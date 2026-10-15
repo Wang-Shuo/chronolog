@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4d30e65db3af1a5a76b9de41ec72c6419e109526bb74ffcf165e90d13e625062
+machine_hash: d0813cd078d22b45af3264a3237ba9e94102e54abe9c121b6968e374ce92c722
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Claude no longer runs the `/verify` and `/code-review` skills on its own;
       invoke them with `/verify` or `/code-review` when you want them
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.215
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,8 +35,7 @@ record:
   source_release: claude-code-2026-07-19-v2-1-215-github-356226333-6836aad6
   source_type: github_releases
   theme: developer-workflow
-  title: Claude no longer runs the `/verify` and `/code-review` skills on its own;
-    invoke
+  title: Claude no longer runs the `/verify` and `/code-review` skills on its own
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-10-enterworktree-now-asks-for-confirmation-before-entering-a-git-worktree-outside-t|claude-code-2026-07-10-67e616]]'
@@ -45,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-19-v2-1-215-github-356226333-6836aad6|claude-code-2026-07-19-v2-1-215-github-356226333-6836aad6]]'
 source_type: github_releases
 theme: developer-workflow
-title: Claude no longer runs the /verify and /code-review skills on its own; invoke
+title: Claude no longer runs the /verify and /code-review skills on its own
 type: change
 ---
 
-# Claude no longer runs the `/verify` and `/code-review` skills on its own; invoke
+# Claude no longer runs the `/verify` and `/code-review` skills on its own
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.215: Claude no longer runs the `/verify` and `/code-review` skills on its own; invoke them with `/verify` or `/code-review` when you want them

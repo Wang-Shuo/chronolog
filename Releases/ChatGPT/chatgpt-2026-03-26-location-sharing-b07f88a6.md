@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-03-26'
-machine_hash: ba88bf394c47ae9d1e5b40ad95a6768a59623cdaabbc0c1a69135c16647b6201
+machine_hash: 714d5d6b62452851dcde53e637fff02029a25f127f55e2e97bcf0895886a3d94
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- mobile-desktop: [[Changes/ChatGPT/2026-03-26-users-can-now-choose-to-share-their-device-location-so-chatgpt-can-provide-more-7907ed|Users can now choose to share their device location so ChatGPT can provide more]]
+- mobile-desktop: [[Changes/ChatGPT/2026-03-26-users-can-now-choose-to-share-their-device-location-so-chatgpt-can-provide-more-7907ed|Users can now choose to share their device location so ChatGPT can provide more…]]
 <!-- chronolog:end -->

@@ -11,9 +11,9 @@ diffusion:
   theme: projects-workspaces
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: c3ae098b9576a151632c3a4496c1a28c95a62c01b02985d1a29969d98b886250
+machine_hash: 5e9a637d850d07b2297c5ea0a4a0ca645beee319a77f454f202187ef7996d3af
 product: cursor
 product_name: Cursor
 record:
@@ -24,7 +24,7 @@ record:
   evidence:
   - quote: UX for producing a project end-to-end.
     source_release: https://cursor.com/changelog/0-9-8-nightly
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -34,7 +34,7 @@ record:
   theme: projects-workspaces
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: UX for producing a project end-to-end.
+  title: UX for producing a project end-to-end
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-04-19-new-experimental-feature-generate-entire-projects-from-a-single-prompt|cursor-2023-04-19-416e9a]]'
@@ -43,11 +43,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-09-07-0-9-8-nightly-https-cursor-com-changelog-0-9-8-nightly-bc635135|cursor-2023-09-07-0-9-8-nightly-https-cursor-com-changelog-0-9-8-nightly-bc635135]]'
 source_type: cursor_changelog
 theme: projects-workspaces
-title: UX for producing a project end-to-end.
+title: UX for producing a project end-to-end
 type: change
 ---
 
-# UX for producing a project end-to-end.
+# UX for producing a project end-to-end
 
 <!-- chronolog:begin region="description" -->
 Cursor — New AI Project: UX for producing a project end-to-end.

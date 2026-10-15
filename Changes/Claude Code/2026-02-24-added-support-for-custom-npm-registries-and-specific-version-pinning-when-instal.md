@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: bc837fcda7d35bd0662a1edec20a7444f977051d5789902aff64aed5abd69332
+machine_hash: 4492dab70f8ed1b3b2de83a0880328c9dd96023ffefe7acff462a4c7849e1091
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Added support for custom npm registries and specific version pinning when
       installing plugins from npm sources
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.51
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   source_type: github_releases
   theme: apps-integrations
   title: Added support for custom npm registries and specific version pinning when
-    instal
+    installing…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-02-17-our-initial-partners-include-amplitude-aws-figma-linear-stripe-and-more-these-pl|cursor-2026-02-17-c273f4]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-02-24-v2-1-51-github-289665343-b4bbdd9c|claude-code-2026-02-24-v2-1-51-github-289665343-b4bbdd9c]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added support for custom npm registries and specific version pinning when instal
+title: Added support for custom npm registries and specific version pinning when installing…
 type: change
 ---
 
-# Added support for custom npm registries and specific version pinning when instal
+# Added support for custom npm registries and specific version pinning when installing…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.51: Added support for custom npm registries and specific version pinning when installing plugins from npm sources

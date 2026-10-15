@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1c5a8eadb2a9d3f5f4d0dba610670d7c8819608a638fd1a0605acd2153898fc1
+machine_hash: 180c1842de8c07ccf66e4ea0a1598f8dd3e54e3cf1e759d10326e0fdf8e7d766
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
       Site in a desktop browser to continue editing in ChatGPT, review changes, and
       publish when ready.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -37,7 +37,7 @@ record:
   source_type: chatgpt_changelog
   theme: mobile-desktop
   title: Site owners and editors on Plus and Pro can select Edit site from a published
-    Si
+    Site…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-09-17-you-can-now-connect-multiple-accounts-to-plugins-in-chatgpt-expanding-support-be|chatgpt-2026-09-17-2ca169]]'
@@ -47,11 +47,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-creating-editing-and-sche
 source_type: chatgpt_changelog
 theme: mobile-desktop
 title: Site owners and editors on Plus and Pro can select Edit site from a published
-  Si
+  Site…
 type: change
 ---
 
-# Site owners and editors on Plus and Pro can select Edit site from a published Si
+# Site owners and editors on Plus and Pro can select Edit site from a published Site…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Creating, editing, and scheduling Sites: Site owners and editors on Plus and Pro can select Edit site from a published Site in a desktop browser to continue editing in ChatGPT, review changes, and publish when ready.

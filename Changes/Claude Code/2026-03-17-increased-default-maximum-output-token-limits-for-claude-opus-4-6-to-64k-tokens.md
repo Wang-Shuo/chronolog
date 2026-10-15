@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a1ad456cea4a43ae4a0eff9756043b3f7fd605f437f91e1fc834ece8333f9318
+machine_hash: 44f2525910c63f2e6d47417e9ee64d1d430fa8a8de706e5505f6f54eda43c933
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Increased default maximum output token limits for Claude Opus 4.6 to 64k
       tokens, and the upper bound for Opus 4.6 and Sonnet 4.6 models to 128k tokens
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.77
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -49,7 +49,7 @@ record:
     theme: context-window
   theme_resolution: manual-semantic-rule-v2
   title: Increased default maximum output token limits for Claude Opus 4.6 to 64k
-    tokens,
+    tokens…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-03-17-instant-fast-responses-for-everyday-questions|chatgpt-2026-03-17-670e29]]'
@@ -58,11 +58,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-17-v2-1-77-github-297726061-caf6c30c|claude-code-2026-03-17-v2-1-77-github-297726061-caf6c30c]]'
 source_type: github_releases
 theme: model-support
-title: Increased default maximum output token limits for Claude Opus 4.6 to 64k tokens,
+title: Increased default maximum output token limits for Claude Opus 4.6 to 64k tokens…
 type: change
 ---
 
-# Increased default maximum output token limits for Claude Opus 4.6 to 64k tokens,
+# Increased default maximum output token limits for Claude Opus 4.6 to 64k tokens…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.77: Increased default maximum output token limits for Claude Opus 4.6 to 64k tokens, and the upper bound for Opus 4.6 and Sonnet 4.6 models to 128k tokens

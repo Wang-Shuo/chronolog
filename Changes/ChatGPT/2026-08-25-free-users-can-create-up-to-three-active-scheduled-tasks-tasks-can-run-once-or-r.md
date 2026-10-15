@@ -11,9 +11,9 @@ diffusion:
   theme: automation-scheduling
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: c2ed0b0cd0d59a351934828846abea7c1e0a9869edbeeb430305b537019c4ecc
+machine_hash: 0af9a69e7a113e62090f19bfc8b11d334fd10659730a4868b795be1c4489613c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       and Go users cannot create webhook-triggered tasks.For more information, see:
       Scheduled tasks in ChatGPT.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -39,8 +39,7 @@ record:
   source_release: chatgpt-2026-08-25-scheduled-tasks-can-respond-to-app-updates-and-be-shared-63a6aae4
   source_type: chatgpt_changelog
   theme: automation-scheduling
-  title: Free users can create up to three active scheduled tasks. Tasks can run once
-    or
+  title: Free users can create up to three active scheduled tasks
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-07-09-work-can-also-keep-projects-moving-through-scheduled-tasks-that-run-once-repeat|chatgpt-2026-07-09-d2f345]]'
@@ -49,12 +48,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-25-scheduled-tasks-can-respond-to-app-updates-and-be-shared-63a6aae4|chatgpt-2026-08-25-scheduled-tasks-can-respond-to-app-updates-and-be-shared-63a6aae4]]'
 source_type: chatgpt_changelog
 theme: automation-scheduling
-title: Free users can create up to three active scheduled tasks. Tasks can run once
-  or
+title: Free users can create up to three active scheduled tasks
 type: change
 ---
 
-# Free users can create up to three active scheduled tasks. Tasks can run once or
+# Free users can create up to three active scheduled tasks
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Scheduled tasks can respond to app updates and be shared: Free users can create up to three active scheduled tasks. Tasks can run once or recur no more than once per day using flexible scheduling windows. Free and Go users cannot create webhook-triggered tasks.For more information, see: Scheduled tasks in ChatGPT.

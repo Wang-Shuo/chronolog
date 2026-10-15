@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ef6c80238bbfc9d1a05d2af2b81fb3d660c9293600118f33510de311d101aef7
+machine_hash: a2185b3e18d37f0765ac517e5a77041ec29aa15c13a15004220ca5c1d7c3a630
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
       the edits to be fast and GPT-4-quality. This uses non-public models, and is
       for now only available to users who do not use their own API key.
     source_release: https://cursor.com/changelog/0-12-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -39,8 +39,7 @@ record:
   theme: model-support
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: Use /edit in the chat to edit a whole file (if less than 400 lines). Expect
-    the
+  title: Use /edit in the chat to edit a whole file (if less than 400 lines)
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-08-03-we-re-rolling-out-a-bunch-of-small-updates-to-improve-the-chatgpt-experience-shi|chatgpt-2023-08-03-054cc2]]'
@@ -49,12 +48,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-10-01-0-12-0-https-cursor-com-changelog-0-12-0-2555ff30|cursor-2023-10-01-0-12-0-https-cursor-com-changelog-0-12-0-2555ff30]]'
 source_type: cursor_changelog
 theme: model-support
-title: Use /edit in the chat to edit a whole file (if less than 400 lines). Expect
-  the
+title: Use /edit in the chat to edit a whole file (if less than 400 lines)
 type: change
 ---
 
-# Use /edit in the chat to edit a whole file (if less than 400 lines). Expect the
+# Use /edit in the chat to edit a whole file (if less than 400 lines)
 
 <!-- chronolog:begin region="description" -->
 Cursor — Indexing, cmd-k in terminal, @git, /edit, bugfixes: Use /edit in the chat to edit a whole file (if less than 400 lines). Expect the edits to be fast and GPT-4-quality. This uses non-public models, and is for now only available to users who do not use their own API key.

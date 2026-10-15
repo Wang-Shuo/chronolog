@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: c6b1141cffd0f605cdbcc6cb56abc8b7b68acb8da7b5edd66dbb0c8fcd75a037
+machine_hash: 2d524dca33748f316df59d21d567fa75b02081bc879bd4f76b6d2c3042e3ee3f
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Sub-agents can now spawn their own sub-agents (up to 5 levels deep)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.172
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

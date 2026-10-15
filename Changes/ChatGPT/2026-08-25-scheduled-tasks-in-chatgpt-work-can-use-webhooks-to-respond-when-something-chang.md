@@ -11,9 +11,9 @@ diffusion:
   theme: automation-scheduling
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: bd4b1b5bc6e597f44424a85078d6707f977b1f104069f3157bb475708bfd76fd
+machine_hash: 138b6bb89dfe54c5fc9ef32bc7442f585c4965edbe47deb893a67e5836c10a92
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -36,7 +36,7 @@ record:
       webhooks include new Gmail messages, Slack channel messages, and GitHub pull
       request activity.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -59,7 +59,7 @@ record:
     theme: apps-integrations
   theme_resolution: manual-semantic-rule-v1
   title: Scheduled tasks in ChatGPT Work can use webhooks to respond when something
-    chang
+    changes…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-06-18-automations-now-support-five-additional-github-triggers|cursor-2026-06-18-cb0229]]'
@@ -69,11 +69,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-08-25-scheduled-tasks-can-respo
 source_type: chatgpt_changelog
 theme: automation-scheduling
 title: Scheduled tasks in ChatGPT Work can use webhooks to respond when something
-  chang
+  changes…
 type: change
 ---
 
-# Scheduled tasks in ChatGPT Work can use webhooks to respond when something chang
+# Scheduled tasks in ChatGPT Work can use webhooks to respond when something changes…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Scheduled tasks can respond to app updates and be shared: Scheduled tasks in ChatGPT Work can use webhooks to respond when something changes in a supported app, helping you keep work moving without repeatedly checking for updates. You can also share a task so someone else can review and customize it, connect their own apps, and schedule an independent copy.Supported webhooks include new Gmail messages, Slack channel messages, and GitHub pull request activity.

@@ -11,9 +11,9 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 224caca322361af4c01b97ef5320f0c00847d3c0832028079abd1ac9785900e8
+machine_hash: 79e3056248b69065a21985984a90627571e2c9f2074f977dac1b906e50baccb5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,7 +35,7 @@ record:
       Norway, Poland, Portugal, Spain and Sweden.For an affordable price, ChatGPT
       Go provides everything included in the Free plan, and:'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -43,8 +43,7 @@ record:
   source_release: chatgpt-2025-10-30-chatgpt-go-expansion-37d00d9f
   source_type: chatgpt_changelog
   theme: pricing-model
-  title: We're excited to announce that ChatGPT Go, our low cost subscription plan,
-    is no
+  title: ChatGPT Go, our low cost subscription plan, is now available in 8 additional…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-10-08-we-re-excited-to-announce-that-chatgpt-go-our-low-cost-subscription-plan-is-now|chatgpt-2025-10-08-22d91a]]'
@@ -53,12 +52,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-30-chatgpt-go-expansion-37d00d9f|chatgpt-2025-10-30-chatgpt-go-expansion-37d00d9f]]'
 source_type: chatgpt_changelog
 theme: pricing-model
-title: We're excited to announce that ChatGPT Go, our low cost subscription plan,
-  is no
+title: ChatGPT Go, our low cost subscription plan, is now available in 8 additional…
 type: change
 ---
 
-# We're excited to announce that ChatGPT Go, our low cost subscription plan, is no
+# ChatGPT Go, our low cost subscription plan, is now available in 8 additional…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT Go expansion: We're excited to announce that ChatGPT Go, our low cost subscription plan, is now available in 8 additional countries in Europe, bringing total coverage to 98 countries. The new countries we added are Austria, Czech Republic, Denmark, Norway, Poland, Portugal, Spain and Sweden.For an affordable price, ChatGPT Go provides everything included in the Free plan, and:

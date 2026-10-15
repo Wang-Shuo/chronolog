@@ -11,9 +11,9 @@ diffusion:
   theme: multimodal
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 63c495eaddaa64234712a0848651392373a683764a13bc58b6c38959e2f66523
+machine_hash: a07db27fdcb25de0b2a42c008c75344ee64e09ffd569119e23d942f8e2f35325
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: 'WSL2: image paste from Windows clipboard now works via a PowerShell fallback
       when xclip/wl-paste cannot read image data'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.136
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   theme: multimodal
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: 'WSL2: image paste from Windows clipboard now works via a PowerShell fallback
-    whe'
+  title: 'WSL2: image paste from Windows clipboard now works via a PowerShell fallback…'
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-11-27-image-support-in-chat-you-can-now-drag-and-drop-images-into-the-chat-to-send-the|cursor-2023-11-27-1702a4]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-08-v2-1-136-github-319609716-58f21368|claude-code-2026-05-08-v2-1-136-github-319609716-58f21368]]'
 source_type: github_releases
 theme: multimodal
-title: 'WSL2: image paste from Windows clipboard now works via a PowerShell fallback
-  whe'
+title: 'WSL2: image paste from Windows clipboard now works via a PowerShell fallback…'
 type: change
 ---
 
-# WSL2: image paste from Windows clipboard now works via a PowerShell fallback whe
+# WSL2: image paste from Windows clipboard now works via a PowerShell fallback…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.136: WSL2: image paste from Windows clipboard now works via a PowerShell fallback when xclip/wl-paste cannot read image data

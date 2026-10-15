@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7916f5aa1b0f4b5187baf46a721b109dc5c4c690ab357f21ca45a5c1ac71b18f
+machine_hash: 7a541accb5db3213fe4b89e8834b6d260301cd4742d68a9fd7e6a5489cd192ca
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Changed indexed argument syntax from `$ARGUMENTS.0` to `$ARGUMENTS[0]`
       (bracket syntax)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.19
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,6 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: Changed indexed argument syntax from `$ARGUMENTS.0` to `$ARGUMENTS[0]` (bracket
+    syntax)
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-20-vscode-added-usage-command-to-display-current-plan-usage|claude-code-2026-01-20-2bf45f]]'
@@ -45,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-01-23-v2-1-19-github-279515857-4e1f7640|claude-code-2026-01-23-v2-1-19-github-279515857-4e1f7640]]'
 source_type: github_releases
 theme: developer-workflow
-title: Changed indexed argument syntax from $ARGUMENTS.0 to $ARGUMENTS0 (bracket
+title: Changed indexed argument syntax from $ARGUMENTS.0 to $ARGUMENTS0 (bracket syntax)
 type: change
 ---
 
-# Changed indexed argument syntax from `$ARGUMENTS.0` to `$ARGUMENTS[0]` (bracket
+# Changed indexed argument syntax from `$ARGUMENTS.0` to `$ARGUMENTS[0]` (bracket syntax)
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.19: Changed indexed argument syntax from `$ARGUMENTS.0` to `$ARGUMENTS[0]` (bracket syntax)

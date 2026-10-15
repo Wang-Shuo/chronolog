@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4b61471c01a87e36ea57d1634fc025baf866e123c22c9aae953e086dbfbbe47d
+machine_hash: d7aa76ff4f4732df4a6c37c91cb56c1857090064af6b531298884f9dee03ef12
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: You can now use Run & debug in Cursor again (the toolbar is back)
     source_release: https://cursor.com/changelog/0-2-36
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,7 +35,7 @@ record:
   theme: developer-workflow
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: You can now use Run & debug in Cursor again (the toolbar is back)
+  title: Use Run & debug in Cursor again (the toolbar is back)
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-06-14-small-fix-for-a-format-on-save-bug-that-was-introduced-in-the-last-release-some|cursor-2023-06-14-8baa9f]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-06-27-0-2-36-https-cursor-com-changelog-0-2-36-fa4e4f8d|cursor-2023-06-27-0-2-36-https-cursor-com-changelog-0-2-36-fa4e4f8d]]'
 source_type: cursor_changelog
 theme: developer-workflow
-title: You can now use Run & debug in Cursor again (the toolbar is back)
+title: Use Run & debug in Cursor again (the toolbar is back)
 type: change
 ---
 
-# You can now use Run & debug in Cursor again (the toolbar is back)
+# Use Run & debug in Cursor again (the toolbar is back)
 
 <!-- chronolog:begin region="description" -->
 Cursor — Hotfixes: You can now use Run & debug in Cursor again (the toolbar is back)

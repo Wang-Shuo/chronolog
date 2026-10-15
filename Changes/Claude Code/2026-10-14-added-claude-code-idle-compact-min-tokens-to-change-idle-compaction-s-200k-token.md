@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 9136f8dd67bde4f573de50e216dae4e7ec306764b66c0464ddb03cab801303d6
+machine_hash: 10398123f2bf492a1aed377b32f3f4b99cc3a82576b131269b17206b109480cf
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       200K-token minimum; `"idleCompaction": false` in settings.json turns it off.
       Both need v2.1.290 or later'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.299
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code
@@ -38,7 +38,8 @@ record:
   source_release: claude-code-2026-10-14-v2-1-299-github-412217284-623d9162
   source_type: github_releases
   theme: context-window
-  title: Added `CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS` to change idle compaction's 200K-tok
+  title: Added `CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS` to change idle compaction's 200K-token
+    minimum
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-15-added-x-claude-code-request-class-x-claude-code-agent-type-x-claude-code-prev-to|claude-code-2026-09-15-d69af3]]'
@@ -47,11 +48,12 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-299-github-412217284-623d9162|claude-code-2026-10-14-v2-1-299-github-412217284-623d9162]]'
 source_type: github_releases
 theme: context-window
-title: Added CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS to change idle compaction's 200K-tok
+title: Added CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS to change idle compaction's 200K-token
+  minimum
 type: change
 ---
 
-# Added `CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS` to change idle compaction's 200K-tok
+# Added `CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS` to change idle compaction's 200K-token minimum
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.299: Added `CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS` to change idle compaction's 200K-token minimum; `"idleCompaction": false` in settings.json turns it off. Both need v2.1.290 or later

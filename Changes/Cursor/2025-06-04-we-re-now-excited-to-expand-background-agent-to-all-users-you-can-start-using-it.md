@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: be5c93c7c1339cbd0e7719d6073718a5c13365c3baeea211de484d5e6661d015
+machine_hash: 11cea9edd1ac9c8281de7962fa089e2c8d45ef87386a3f19d63ff66d58414b1a
 product: cursor
 product_name: Cursor
 record:
@@ -33,7 +33,7 @@ record:
       if you have privacy mode disabled. For users with privacy mode enabled, we'll
       soon have a way to enable it for you too!
     source_release: https://cursor.com/changelog/1-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -52,8 +52,7 @@ record:
     score: 50
     theme: safety-privacy
   theme_resolution: manual-semantic-rule-v2
-  title: We're now excited to expand Background Agent to all users! You can start
-    using i
+  title: Cursor expands Background Agent to all users!
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-08-30-api-key-input-box-is-now-a-password-type|cursor-2023-08-30-9cb314]]'
@@ -62,12 +61,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca|cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca]]'
 source_type: cursor_changelog
 theme: safety-privacy
-title: We're now excited to expand Background Agent to all users! You can start using
-  i
+title: Cursor expands Background Agent to all users!
 type: change
 ---
 
-# We're now excited to expand Background Agent to all users! You can start using i
+# Cursor expands Background Agent to all users!
 
 <!-- chronolog:begin region="description" -->
 Cursor — Bugbot, Background Agent access to everyone, and one-click MCP install: We're now excited to expand Background Agent to all users! You can start using it right away by clicking the cloud icon in chat or hitting Cmd/Ctrl+E if you have privacy mode disabled. For users with privacy mode enabled, we'll soon have a way to enable it for you too!

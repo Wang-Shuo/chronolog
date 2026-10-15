@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f34515c2ff698df8b22052f632ed5268829b4bc385faa19863a6af6d2ca8f935
+machine_hash: 56153de848b08b3d912c415795821f9da0866df1e7c93808f4e734c4add9e6d0
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: The lean system prompt is now the default for all models except Haiku,
       Sonnet, and Opus 4.7 and earlier
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.154
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   theme: model-support
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: The lean system prompt is now the default for all models except Haiku, Sonnet,
-    a
+  title: The lean system prompt is now the default for all models except Haiku, Sonnet…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-27-skills-and-slash-commands-can-now-set-disallowed-tools-in-frontmatter-to-remove|claude-code-2026-05-27-aa7020]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-28-v2-1-154-github-330944050-782cdfc9|claude-code-2026-05-28-v2-1-154-github-330944050-782cdfc9]]'
 source_type: github_releases
 theme: model-support
-title: The lean system prompt is now the default for all models except Haiku, Sonnet,
-  a
+title: The lean system prompt is now the default for all models except Haiku, Sonnet…
 type: change
 ---
 
-# The lean system prompt is now the default for all models except Haiku, Sonnet, a
+# The lean system prompt is now the default for all models except Haiku, Sonnet…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.154: The lean system prompt is now the default for all models except Haiku, Sonnet, and Opus 4.7 and earlier

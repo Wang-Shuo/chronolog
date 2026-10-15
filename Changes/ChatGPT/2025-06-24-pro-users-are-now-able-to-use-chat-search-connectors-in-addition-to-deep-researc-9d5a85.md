@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e298443f0bd4f7ac8cf3e0e23fde8c53df4b170ab04acd27d4ea77a598aa9309
+machine_hash: 92b2f455dd1f2e7206bdf081ae1a327a8d6cb7ef6d2fadf37339ac91f03312e8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
       this feature is currently limited to users located outside of the EEA, Switzerland,
       and the UK.Learn more about Connectors.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -50,8 +50,7 @@ record:
     - deep research
     score: 60
     theme: search-browsing
-  title: Pro users are now able to use chat search connectors (in addition to deep
-    resear
+  title: Pro users are now able to use chat search connectors…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-06-04-admins-and-users-can-now-build-and-deploy-custom-connectors-to-proprietary-syste|chatgpt-2025-06-04-d1ee85]]'
@@ -60,11 +59,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-24-chat-search-connectors-pro-a20d1d1a|chatgpt-2025-06-24-chat-search-connectors-pro-a20d1d1a]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
-title: Pro users are now able to use chat search connectors (in addition to deep resear
+title: Pro users are now able to use chat search connectors…
 type: change
 ---
 
-# Pro users are now able to use chat search connectors (in addition to deep resear
+# Pro users are now able to use chat search connectors…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Chat search connectors (Pro): Pro users are now able to use chat search connectors (in addition to deep research connectors) for the following integrations: Dropbox, Box, Google Drive (synced and non-synced), Microsoft OneDrive (Business), Microsoft SharePoint.Note this feature is currently limited to users located outside of the EEA, Switzerland, and the UK.Learn more about Connectors.

@@ -11,9 +11,9 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 952a77b3e488ed5add9c2a2a337f17037cd85a47ca28d8dc870276eafa6120bb
+machine_hash: 7784a8f5611db8a4b35119eee6f4f1dc22d9c0e2986243062add5d6105f0fa1c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: To continue a Voice conversation outside ChatGPT, turn on Background conversations
       in Settings → Voice.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -35,7 +35,7 @@ record:
   source_release: chatgpt-2026-08-31-see-live-voice-content-on-your-lock-screen-3b9abebd
   source_type: chatgpt_changelog
   theme: voice
-  title: To continue a Voice conversation outside ChatGPT, turn on Background conversatio
+  title: To continue a Voice conversation outside ChatGPT, turn on Background conversations…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-21-alpine-musl-builds-native-image-paste-clipboard-and-audio-capture-add-ons-now-lo|claude-code-2026-08-21-dda5ae]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-31-see-live-voice-content-on-your-lock-screen-3b9abebd|chatgpt-2026-08-31-see-live-voice-content-on-your-lock-screen-3b9abebd]]'
 source_type: chatgpt_changelog
 theme: voice
-title: To continue a Voice conversation outside ChatGPT, turn on Background conversatio
+title: To continue a Voice conversation outside ChatGPT, turn on Background conversations…
 type: change
 ---
 
-# To continue a Voice conversation outside ChatGPT, turn on Background conversatio
+# To continue a Voice conversation outside ChatGPT, turn on Background conversations…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — See Live voice content on your Lock Screen: To continue a Voice conversation outside ChatGPT, turn on Background conversations in Settings → Voice.

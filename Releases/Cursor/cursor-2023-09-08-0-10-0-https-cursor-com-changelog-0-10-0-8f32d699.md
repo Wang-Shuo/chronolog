@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2023-09-08'
-machine_hash: 418aa248fa5a4073d09399b8aef640c8c80d05e0d6fe105d1fd221ad4a734ac4
+machine_hash: 4adfd237cd843b409bccf6098b10dbba5aeadc4593cda61b2dd6d097a5d4e221
 product: cursor
 product_name: Cursor
 record:
@@ -38,9 +38,9 @@ Tracked cards: 5
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- apps-integrations: [[Changes/Cursor/2023-09-08-the-main-addition-in-this-update-is-better-docs-support-this-means-you-can-add-a|The main addition in this update is better docs support. This means you can add]]
-- model-support: [[Changes/Cursor/2023-09-08-that-are-actually-being-used-for-each-doc-you-have-uploaded-you-ll-also-be-able|that are actually being used for each doc you have uploaded. You'll also be able]]
-- collaboration: [[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams can also share private docs.]]
-- context-window: [[Changes/Cursor/2023-09-08-you-can-also-paste-a-url-into-the-chat-and-the-model-will-automatically-include|You can also paste a url into the chat and the model will automatically include]]
-- reliability-performance: [[Changes/Cursor/2023-09-08-following-this-update-future-updates-should-come-as-staged-rollouts-this-will-me|Following this update, future updates should come as staged rollouts. This will]]
+- apps-integrations: [[Changes/Cursor/2023-09-08-the-main-addition-in-this-update-is-better-docs-support-this-means-you-can-add-a|The main addition in this update is better docs support]]
+- model-support: [[Changes/Cursor/2023-09-08-that-are-actually-being-used-for-each-doc-you-have-uploaded-you-ll-also-be-able|that are actually being used for each doc you have uploaded]]
+- collaboration: [[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams can also share private docs]]
+- context-window: [[Changes/Cursor/2023-09-08-you-can-also-paste-a-url-into-the-chat-and-the-model-will-automatically-include|You can also paste a url into the chat and the model will automatically include…]]
+- reliability-performance: [[Changes/Cursor/2023-09-08-following-this-update-future-updates-should-come-as-staged-rollouts-this-will-me|Following this update, future updates should come as staged rollouts]]
 <!-- chronolog:end -->

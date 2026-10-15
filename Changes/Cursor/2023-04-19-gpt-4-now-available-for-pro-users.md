@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d33499c95c8700d2fa3a5ecac829ed78f659a09eca59b1e72c1f98b8d778d5f7
+machine_hash: 5e8465b795aed8e803f21a61c7a0e632b17c7592fe0504b6ed1cf303c0d461a7
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: GPT-4 now available for Pro users
     source_release: https://cursor.com/changelog/0-2-6
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

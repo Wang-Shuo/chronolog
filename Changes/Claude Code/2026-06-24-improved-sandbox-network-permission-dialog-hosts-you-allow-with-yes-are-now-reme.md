@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 48373a74011c539d82ed0c77b51cd3105bca416eeca35cc7493d32d4ef480898
+machine_hash: 6997babe4672aa0bebbeaacf30230696d5da6d91b5173d56a87af4724942e4c3
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       are now remembered for the rest of the session instead of re-prompting on every
       connection'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.191
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,8 +38,7 @@ record:
   theme: safety-privacy
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: 'Improved sandbox network permission dialog: hosts you allow with "Yes" are
-    now r'
+  title: Improved sandbox network permission dialog
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-06-18-app-permission-controls-you-can-now-choose-when-chatgpt-asks-before-using-connec|chatgpt-2026-06-18-2159f8]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-24-v2-1-191-github-344307226-67cdfb27|claude-code-2026-06-24-v2-1-191-github-344307226-67cdfb27]]'
 source_type: github_releases
 theme: safety-privacy
-title: 'Improved sandbox network permission dialog: hosts you allow with "Yes" are
-  now r'
+title: Improved sandbox network permission dialog
 type: change
 ---
 
-# Improved sandbox network permission dialog: hosts you allow with "Yes" are now r
+# Improved sandbox network permission dialog
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.191: Improved sandbox network permission dialog: hosts you allow with "Yes" are now remembered for the rest of the session instead of re-prompting on every connection

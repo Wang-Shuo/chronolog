@@ -1,7 +1,7 @@
 ---
 changes_count: 4
 date: '2026-09-08'
-machine_hash: 13a2a8cb9b5ecca14d77d8bb534780bca27818ab3a0d94add71718ad754ef3dc
+machine_hash: d494609c70e29fa7cb0d9a64b080e9db2dec38890499862e9c23706c1ede1179
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,8 +39,8 @@ Tracked cards: 4
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- image-generation: [[Changes/ChatGPT/2026-09-08-chatgpt-images-2-5-brings-sharper-details-more-precise-editing-and-faster-image|ChatGPT Images 2.5 brings sharper details, more precise editing, and faster imag]]
-- collaboration: [[Changes/ChatGPT/2026-09-08-share-a-prompt-share-the-prompt-for-a-generated-image-so-others-can-create-their|Share a prompt. Share the prompt for a generated image so others can create thei]]
-- mobile-desktop: [[Changes/ChatGPT/2026-09-08-edit-and-comment-on-mobile-open-a-generated-image-full-screen-to-edit-it-or-add|Edit and comment. On mobile, open a generated image full-screen to edit it or ad]]
-- mobile-desktop: [[Changes/ChatGPT/2026-09-08-turn-a-sketch-into-an-image-on-mobile-type-in-the-message-box-and-select-sketch|Turn a sketch into an image. On mobile, type @ in the message box and select Ske]]
+- image-generation: [[Changes/ChatGPT/2026-09-08-chatgpt-images-2-5-brings-sharper-details-more-precise-editing-and-faster-image|ChatGPT Images 2.5 brings sharper details, more precise editing, and faster image…]]
+- collaboration: [[Changes/ChatGPT/2026-09-08-share-a-prompt-share-the-prompt-for-a-generated-image-so-others-can-create-their|Share a prompt]]
+- mobile-desktop: [[Changes/ChatGPT/2026-09-08-edit-and-comment-on-mobile-open-a-generated-image-full-screen-to-edit-it-or-add|Edit and comment]]
+- mobile-desktop: [[Changes/ChatGPT/2026-09-08-turn-a-sketch-into-an-image-on-mobile-type-in-the-message-box-and-select-sketch|Turn a sketch into an image]]
 <!-- chronolog:end -->

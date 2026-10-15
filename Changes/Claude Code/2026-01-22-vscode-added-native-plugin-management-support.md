@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: db7da81f6930c33e505f6cbc98454269f72bbe123cfbda32b9e576dda16eabac
+machine_hash: 919dcec8e8c5208973e5f20f8e09df74d4e672b0359261feadef46a5e8b9dfec
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: '[VSCode] Added native plugin management support'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.16
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code

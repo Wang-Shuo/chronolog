@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2025-12-17'
-machine_hash: c1631bef7b09772a5aedd69c013ca30aed937636a6f026dd29c4cfc5b977863f
+machine_hash: 5de585b9ae6bb1866db1fd6f665bd72cb6cd50c4038c58837fa51e41f5c59d00
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,7 +39,7 @@ Tracked cards: 3
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- editor-experience: [[Changes/ChatGPT/2025-12-17-edit-and-review-tasks-in-pulse-anytime-after-you-create-them-please-note-that-pu|Edit and review tasks in Pulse anytime after you create them. Please note that P]]
-- automation-scheduling: [[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now|Tasks let you set up automated prompts that ChatGPT can run for you.You can now]]
-- automation-scheduling: [[Changes/ChatGPT/2025-12-17-create-tasks-in-chat-or-in-pulse-whatever-s-easier-in-the-moment|Create tasks in chat or in Pulse—whatever’s easier in the moment.]]
+- editor-experience: [[Changes/ChatGPT/2025-12-17-edit-and-review-tasks-in-pulse-anytime-after-you-create-them-please-note-that-pu|Edit and review tasks in Pulse anytime after you create them]]
+- automation-scheduling: [[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now|Tasks let you set up automated prompts that ChatGPT can run for you]]
+- automation-scheduling: [[Changes/ChatGPT/2025-12-17-create-tasks-in-chat-or-in-pulse-whatever-s-easier-in-the-moment|Create tasks in chat or in Pulse—whatever’s easier in the moment]]
 <!-- chronolog:end -->

@@ -11,9 +11,9 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 0843e55c872e358cce38e1886bded8ddfe9d11191c6ec91be542b8f075bbe721
+machine_hash: 69b429090c30baa093c34697e3830841c5ef4d27d57e854c7d6a4dbb88f33d2f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,7 +54,7 @@ record:
       try the ChatGPT Chrome extension or sidebar, where available.You can learn more
       about moving off Atlas in our Help Center article.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -86,7 +86,7 @@ record:
     score: 50
     theme: search-browsing
   title: We’re deprecating Atlas as we bring browser-based agentic capabilities into
-    Chat
+    ChatGPT…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-25-added-a-startup-notice-when-mcp-servers-need-authentication-pointing-at-mcp|claude-code-2026-06-25-b7eec5]]'
@@ -96,11 +96,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-retiring-atlas-c6a8b965|c
 source_type: chatgpt_changelog
 theme: account-access
 title: We’re deprecating Atlas as we bring browser-based agentic capabilities into
-  Chat
+  ChatGPT…
 type: change
 ---
 
-# We’re deprecating Atlas as we bring browser-based agentic capabilities into Chat
+# We’re deprecating Atlas as we bring browser-based agentic capabilities into ChatGPT…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Retiring Atlas: We’re deprecating Atlas as we bring browser-based agentic capabilities into ChatGPT and Codex. Atlas is scheduled to stop working on August 9, 2026.We want to make this transition as easy as possible. Before then, move any Atlas data you want to keep. Atlas browser data, including bookmarks, open tabs, and browser history, will not transfer automatically. You can export your cookies and passwords to the ChatGPT desktop app and your bookmarks to Chrome. Be sure to save any important pages or URLs from your open tabs and browser history before August 9.Your ChatGPT conversation history is separate and will remain available in ChatGPT, subject to your plan, workspace settings, and account access.We’re building on what we learned from Atlas to bring a more capable browser experience to ChatGPT, including multiple tabs, downloads, improved navigation, and account login support where available. For deeper browser-based agentic work, try the ChatGPT desktop app. For help while browsing in Chrome, try the ChatGPT Chrome extension or sidebar, where available.You can learn more about moving off Atlas in our Help Center article.

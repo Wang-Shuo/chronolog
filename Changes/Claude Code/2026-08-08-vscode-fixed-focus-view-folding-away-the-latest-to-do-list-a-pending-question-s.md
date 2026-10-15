@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 97933fd00ba74300f9ede903596f27251d9fc02e320370d8fd8a80553165e8ed
+machine_hash: c4ba16a03ab9591a272552e3ad6c354e4724b4aeb26fe278db0e1887bfa7523b
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       question''s context, and settled answers; thinking-only folds show "Thought
       for Ns" and re-collapse when their turn completes'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.225
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -39,7 +39,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: '[VSCode] Fixed Focus view folding away the latest to-do list, a pending
-    question'
+    question''s…'
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-07-28-existing-free-users-in-india-can-upgrade-their-plan-from-the-dashboard-new-users|cursor-2026-07-28-a8257c]]'
@@ -48,11 +48,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-08-08-v2-1-225-github-367046190-ccb40049|claude-code-2026-08-08-v2-1-225-github-367046190-ccb40049]]'
 source_type: github_releases
 theme: interface-experience
-title: VSCode Fixed Focus view folding away the latest to-do list, a pending question
+title: VSCode Fixed Focus view folding away the latest to-do list, a pending question's…
 type: change
 ---
 
-# [VSCode] Fixed Focus view folding away the latest to-do list, a pending question
+# [VSCode] Fixed Focus view folding away the latest to-do list, a pending question's…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.225: [VSCode] Fixed Focus view folding away the latest to-do list, a pending question's context, and settled answers; thinking-only folds show "Thought for Ns" and re-collapse when their turn completes

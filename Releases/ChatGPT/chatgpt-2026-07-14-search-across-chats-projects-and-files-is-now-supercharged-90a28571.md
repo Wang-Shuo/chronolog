@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-07-14'
-machine_hash: d60fa1be0be26fc159438a5c49fda5bb533fec461aa280e915b812708b7df271
+machine_hash: 721247208edef00c7b5e859b5891d9162fd6593b153b6eb189dd6cfaf5eb994e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- mobile-desktop: [[Changes/ChatGPT/2026-07-14-we-ve-rolled-out-a-new-way-to-search-your-chats-projects-images-and-documents-in-4d2327|We’ve rolled out a new way to search your chats, projects, images, and documents]]
+- mobile-desktop: [[Changes/ChatGPT/2026-07-14-we-ve-rolled-out-a-new-way-to-search-your-chats-projects-images-and-documents-in-4d2327|We’ve rolled out a new way to search your chats, projects, images, and documents…]]
 <!-- chronolog:end -->

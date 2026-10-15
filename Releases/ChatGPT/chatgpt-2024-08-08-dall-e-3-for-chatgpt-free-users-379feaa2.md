@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2024-08-08'
-machine_hash: e93bfbddf004c1a6fd51d057dc1bcff7cc3f0646c35ea47e2383a6fad3431d93
+machine_hash: 4ec617b9647ff696d21ce247c00c5c51530bf298e92c421907606573df3675b6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- image-generation: [[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|We’re rolling out the ability for ChatGPT Free users to create up to two images]]
+- image-generation: [[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|ChatGPT rolls out the ability for ChatGPT Free users to create up to two images per…]]
 <!-- chronolog:end -->

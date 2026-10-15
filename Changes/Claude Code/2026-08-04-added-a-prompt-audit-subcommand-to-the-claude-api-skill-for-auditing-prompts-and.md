@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3fdcdc19f9043895bfabc4603533d3b53adfe43f78f03c48d74c669a7df2c232
+machine_hash: 54218aeb65e02713f3514c1833a322dbdb73e05e42d1dcc20738bd3c4eb8b758
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Added a `prompt-audit` subcommand to the `claude-api` skill for auditing
       prompts and tool descriptions for patterns written for older models
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.221
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,7 +36,7 @@ record:
   source_type: github_releases
   theme: model-support
   title: Added a `prompt-audit` subcommand to the `claude-api` skill for auditing
-    prompts
+    prompts…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-07-22-intelligence-frontier-quality-matching-the-most-expensive-and-powerful-models-th|cursor-2026-07-22-f8c3d9]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-08-04-v2-1-221-github-364520051-d6a656ce|claude-code-2026-08-04-v2-1-221-github-364520051-d6a656ce]]'
 source_type: github_releases
 theme: model-support
-title: Added a prompt-audit subcommand to the claude-api skill for auditing prompts
+title: Added a prompt-audit subcommand to the claude-api skill for auditing prompts…
 type: change
 ---
 
-# Added a `prompt-audit` subcommand to the `claude-api` skill for auditing prompts
+# Added a `prompt-audit` subcommand to the `claude-api` skill for auditing prompts…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.221: Added a `prompt-audit` subcommand to the `claude-api` skill for auditing prompts and tool descriptions for patterns written for older models

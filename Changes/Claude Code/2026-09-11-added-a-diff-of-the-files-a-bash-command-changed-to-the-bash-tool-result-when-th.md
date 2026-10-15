@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 96a3087c5d58e79aabcaa358527ade51aaec57ff9ead782284f96da1de12a54b
+machine_hash: f456e04c5b5b0e5992d417e0b31931f1517755880c15db4ed77e841545f1486b
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added a diff of the files a Bash command changed to the Bash tool result
       when the Bash tool handles file edits (setting `bashEditDiffEnabled`)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.269
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   theme: editor-experience
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Added a diff of the files a Bash command changed to the Bash tool result
-    when th
+  title: Added a diff of the files a Bash command changed to the Bash tool result…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-08-17-the-new-codebase-tab-is-home-for-origin-repos|cursor-2026-08-17-c95b63]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-11-v2-1-269-github-387243742-288e9189|claude-code-2026-09-11-v2-1-269-github-387243742-288e9189]]'
 source_type: github_releases
 theme: editor-experience
-title: Added a diff of the files a Bash command changed to the Bash tool result when
-  th
+title: Added a diff of the files a Bash command changed to the Bash tool result…
 type: change
 ---
 
-# Added a diff of the files a Bash command changed to the Bash tool result when th
+# Added a diff of the files a Bash command changed to the Bash tool result…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.269: Added a diff of the files a Bash command changed to the Bash tool result when the Bash tool handles file edits (setting `bashEditDiffEnabled`)

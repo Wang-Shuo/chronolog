@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1f7f403c276f82be3d0825cc8dca7837e003ef4d3d3623db3ca5a647e4b49d52
+machine_hash: 98c6e868add66d57f72eed63d3aed8966b7155c0e0c6c5a3aa99b83207464a98
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Added `claude plugins` as an alias for `claude plugin`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.72
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

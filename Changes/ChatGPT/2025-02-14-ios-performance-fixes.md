@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a91a51cd05758f41225560417ee08a8854b4c579cd0a05c271e12d7b19a21941
+machine_hash: e15b22228e2017dddb22016a0886e6141270054ec44fcc64392deb5b3fb21be7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: iOS performance fixes.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -43,7 +43,7 @@ record:
     score: 50
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v1
-  title: iOS performance fixes.
+  title: iOS performance fixes
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2024-11-19-starting-today-we-re-beginning-to-roll-out-advanced-voice-mode-on-web-already-av-3d4db6|chatgpt-2024-11-19-3d4db6]]'
@@ -52,11 +52,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-02-14-set-chatgpt-as-default-search-engine-in-safari-11ec014b|chatgpt-2025-02-14-set-chatgpt-as-default-search-engine-in-safari-11ec014b]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: iOS performance fixes.
+title: iOS performance fixes
 type: change
 ---
 
-# iOS performance fixes.
+# iOS performance fixes
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — - Set ChatGPT as default search engine in Safari.: iOS performance fixes.

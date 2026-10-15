@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 7ed3d03036f557d3f02f5eae0b0e35f43f97581c97ed8ad708338ee2848a3ee1
+machine_hash: 5fb1da4e25712a2f06473b7e9e46f2777efba682bb048fdf4a1cd907dd79c7ae
 product: cursor
 product_name: Cursor
 record:
@@ -31,7 +31,7 @@ record:
       data that provides context to language models, such as files, database schemas,
       or application-specific information.
     source_release: https://cursor.com/changelog/1-6
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -53,8 +53,7 @@ record:
     score: 50
     theme: model-support
   theme_resolution: manual-semantic-rule-v1
-  title: We've added support for MCP Resources. Resources allow servers to share data
-    tha
+  title: Cursor adds support for MCP Resources
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-07-24-pro-users-can-now-utilize-chat-search-with-hubspot-and-custom-connectors-mcp-in-b9b682|chatgpt-2025-07-24-b9b682]]'
@@ -63,12 +62,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-09-12-1-6-https-cursor-com-changelog-1-6-f33fb3ea|cursor-2025-09-12-1-6-https-cursor-com-changelog-1-6-f33fb3ea]]'
 source_type: cursor_changelog
 theme: apps-integrations
-title: We've added support for MCP Resources. Resources allow servers to share data
-  tha
+title: Cursor adds support for MCP Resources
 type: change
 ---
 
-# We've added support for MCP Resources. Resources allow servers to share data tha
+# Cursor adds support for MCP Resources
 
 <!-- chronolog:begin region="description" -->
 Cursor — Slash commands, summarization, and improved Agent terminal: We've added support for MCP Resources. Resources allow servers to share data that provides context to language models, such as files, database schemas, or application-specific information.

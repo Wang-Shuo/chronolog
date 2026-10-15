@@ -11,9 +11,9 @@ diffusion:
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 735efa9b1b7cdb7e7fc449ddf873085c4bf9543cf7b2b7901913e1e720fda6d0
+machine_hash: 22ecdf085c5890719adc061260927795a5edfeb11088f0e9d4cb180fb39c2412
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: With canvases, agents can create interactive artifacts like dashboards,
       reports, and internal tools that you can share with your team.
     source_release: https://cursor.com/changelog/canvas-improvements
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -45,7 +45,7 @@ record:
     score: 50
     theme: collaboration
   theme_resolution: manual-semantic-rule-v1
-  title: With canvases, agents can create interactive artifacts like dashboards, reports,
+  title: With canvases, agents can create interactive artifacts like dashboards, reports…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-06-03-an-organization-is-the-top-level-container-for-your-company-s-identity-administr|cursor-2026-06-03-37d95d]]'
@@ -54,11 +54,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-06-04-3-7-https-cursor-com-changelog-canvas-improvements-6f42df85|cursor-2026-06-04-3-7-https-cursor-com-changelog-canvas-improvements-6f42df85]]'
 source_type: cursor_changelog
 theme: collaboration
-title: With canvases, agents can create interactive artifacts like dashboards, reports,
+title: With canvases, agents can create interactive artifacts like dashboards, reports…
 type: change
 ---
 
-# With canvases, agents can create interactive artifacts like dashboards, reports,
+# With canvases, agents can create interactive artifacts like dashboards, reports…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Canvas Design Mode and Context Usage Report: With canvases, agents can create interactive artifacts like dashboards, reports, and internal tools that you can share with your team.

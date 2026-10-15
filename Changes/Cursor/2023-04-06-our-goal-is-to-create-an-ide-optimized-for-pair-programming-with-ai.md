@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 34847032104e00ce3c931e2edab1ec7b8e8a89cb597c40d41961dc5e098979c5
+machine_hash: ef7008f9d9e17b26330d64f8c06a9ca527178fb273fcc3d65e94db4e117e8daa
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Our goal is to create an IDE optimized for pair-programming with AI.
     source_release: https://cursor.com/changelog/0-2-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -33,7 +33,7 @@ record:
   source_release: cursor-2023-04-06-0-2-0-https-cursor-com-changelog-0-2-0-2dbfe24a
   source_type: cursor_changelog
   theme: editor-experience
-  title: Our goal is to create an IDE optimized for pair-programming with AI.
+  title: Our goal is to create an IDE optimized for pair-programming with AI
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-04-06-this-allows-us-to-focus-on-ai-features-while-leveraging-vs-code-s-mature-text-ed|cursor-2023-04-06-199341]]'
@@ -42,11 +42,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-04-06-0-2-0-https-cursor-com-changelog-0-2-0-2dbfe24a|cursor-2023-04-06-0-2-0-https-cursor-com-changelog-0-2-0-2dbfe24a]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: Our goal is to create an IDE optimized for pair-programming with AI.
+title: Our goal is to create an IDE optimized for pair-programming with AI
 type: change
 ---
 
-# Our goal is to create an IDE optimized for pair-programming with AI.
+# Our goal is to create an IDE optimized for pair-programming with AI
 
 <!-- chronolog:begin region="description" -->
 Cursor — Introducing Cursor 0.2.0! (2023-04-06): Our goal is to create an IDE optimized for pair-programming with AI.

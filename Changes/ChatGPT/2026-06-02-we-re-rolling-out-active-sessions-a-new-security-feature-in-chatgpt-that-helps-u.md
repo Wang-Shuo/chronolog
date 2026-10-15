@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 5b6b04abb74da70456b51fb212d60291c795791b13c4f80d69f2a622c1ef54ba
+machine_hash: 63466ceb7edd55b5d140d181d4d7fad0f7b6abb7ca25fd86fb427abc291bc48d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       helps users review sessions associated with their account and sign out of sessions
       they don’t recognize.Users can now:'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -38,8 +38,8 @@ record:
   source_release: chatgpt-2026-06-02-active-account-session-controls-0830d01c
   source_type: chatgpt_changelog
   theme: safety-privacy
-  title: We’re rolling out Active sessions, a new security feature in ChatGPT that
-    helps
+  title: ChatGPT rolls out Active sessions, a new security feature that helps users
+    review…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-22-fixed-a-powershell-permission-bypass-built-in-cd-functions-cd-cd-cd-x-changed-th|claude-code-2026-05-22-e2e039]]'
@@ -48,11 +48,12 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-02-active-account-session-controls-0830d01c|chatgpt-2026-06-02-active-account-session-controls-0830d01c]]'
 source_type: chatgpt_changelog
 theme: safety-privacy
-title: We’re rolling out Active sessions, a new security feature in ChatGPT that helps
+title: ChatGPT rolls out Active sessions, a new security feature that helps users
+  review…
 type: change
 ---
 
-# We’re rolling out Active sessions, a new security feature in ChatGPT that helps
+# ChatGPT rolls out Active sessions, a new security feature that helps users review…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Active account session controls: We’re rolling out Active sessions, a new security feature in ChatGPT that helps users review sessions associated with their account and sign out of sessions they don’t recognize.Users can now:

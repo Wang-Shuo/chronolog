@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 47438957b00e2674e8ed54ea02b51b06746051731fdfdf780c81cd40dd338e02
+machine_hash: fb983a89bba6ae3d6040f3bf018889ea3c559fd179c0659e98ab1006170c9e7a
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       branch's PR state (approved, changes requested, pending, or draft) as a colored
       dot with a clickable link
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.20
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   source_type: github_releases
   theme: interface-experience
   title: Added PR review status indicator to the prompt footer, showing the current
-    branc
+    branch's…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-13-added-updates-section-to-doctor-showing-auto-update-channel-and-available-npm-ve|claude-code-2026-01-13-209d4d]]'
@@ -47,11 +47,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-01-27-v2-1-20-github-28
 source_type: github_releases
 theme: interface-experience
 title: Added PR review status indicator to the prompt footer, showing the current
-  branc
+  branch's…
 type: change
 ---
 
-# Added PR review status indicator to the prompt footer, showing the current branc
+# Added PR review status indicator to the prompt footer, showing the current branch's…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.20: Added PR review status indicator to the prompt footer, showing the current branch's PR state (approved, changes requested, pending, or draft) as a colored dot with a clickable link

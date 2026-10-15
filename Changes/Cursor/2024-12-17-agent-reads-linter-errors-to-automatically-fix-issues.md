@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 71d2d8514ce5e5f99866441973af889e5756c11720a818d9253bf75778211f98
+machine_hash: bf6c18d5a522b21e5d970165ab22837fcb5c9977212248735a14e6d05c0ffe6e
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: Agent reads linter errors to automatically fix issues
     source_release: https://cursor.com/changelog/0-44-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor

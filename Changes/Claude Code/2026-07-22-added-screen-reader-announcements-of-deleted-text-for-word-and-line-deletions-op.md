@@ -11,9 +11,9 @@ diffusion:
   theme: accessibility-localization
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8e8ea2d2222865b924c2e22208da514ff04937f36e2645d36c2883ad4ebff1a4
+machine_hash: 5e09a59ceddb437adb0fa3436157e045de8c45f909d18e352e0d9036a986ba48
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       (`Option+Delete`, `Ctrl+W`, `Cmd+Backspace`, `Ctrl+U`, `Ctrl+K`) in `--ax-screen-reader`
       mode
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.218
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   source_release: claude-code-2026-07-22-v2-1-218-github-358276841-57d73db4
   source_type: github_releases
   theme: accessibility-localization
-  title: Added screen-reader announcements of deleted text for word and line deletions
-    (`
+  title: Added screen-reader announcements of deleted text for word and line deletions…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-12-session-titles-are-now-generated-in-the-language-of-your-conversation-set-the-la|claude-code-2026-06-12-f7d6f6]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-22-v2-1-218-github-358276841-57d73db4|claude-code-2026-07-22-v2-1-218-github-358276841-57d73db4]]'
 source_type: github_releases
 theme: accessibility-localization
-title: Added screen-reader announcements of deleted text for word and line deletions
-  (
+title: Added screen-reader announcements of deleted text for word and line deletions…
 type: change
 ---
 
-# Added screen-reader announcements of deleted text for word and line deletions (`
+# Added screen-reader announcements of deleted text for word and line deletions…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.218: Added screen-reader announcements of deleted text for word and line deletions (`Option+Delete`, `Ctrl+W`, `Cmd+Backspace`, `Ctrl+U`, `Ctrl+K`) in `--ax-screen-reader` mode

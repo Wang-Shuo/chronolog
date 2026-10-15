@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f468894a45c193146c2666bb51be4bb09ef400f989afa4f7fa2dfdb680c28bd7
+machine_hash: 1c749782ce93164d6461b339fedecc50b391f7cfec0baa16da4002df06240d00
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: 'Mention @Cursor in any thread with a prompt like:'
     source_release: https://cursor.com/changelog/1-1
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,7 +35,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: 'Mention @Cursor in any thread with a prompt like:'
+  title: Mention @Cursor in any thread with a prompt like
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-06-04-admin-published-connectors-appear-in-the-connector-list-for-all-users|chatgpt-2025-06-04-16ea98]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-06-12-1-1-https-cursor-com-changelog-1-1-0f0190fc|cursor-2025-06-12-1-1-https-cursor-com-changelog-1-1-0f0190fc]]'
 source_type: cursor_changelog
 theme: apps-integrations
-title: 'Mention @Cursor in any thread with a prompt like:'
+title: Mention @Cursor in any thread with a prompt like
 type: change
 ---
 
-# Mention @Cursor in any thread with a prompt like:
+# Mention @Cursor in any thread with a prompt like
 
 <!-- chronolog:begin region="description" -->
 Cursor — Background Agents in Slack: Mention @Cursor in any thread with a prompt like:

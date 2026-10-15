@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 62bb09dc4051d9502597135d2ceaf892838e9ebb9db8492bf4399edd68ad8041
+machine_hash: 05208b7616da66eb316ad46106f267fa28c96eacb829b9403e094a090c84cd44
 product: cursor
 product_name: Cursor
 record:
@@ -24,7 +24,7 @@ record:
   evidence:
   - quote: 'Copilot++ improvements:'
     source_release: https://cursor.com/changelog/0-16-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -34,7 +34,7 @@ record:
   theme: editor-experience
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: 'Copilot++ improvements:'
+  title: Copilot++ improvements
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-11-03-cmd-k-diffs-these-now-obey-word-wrap-you-can-also-copy-from-the-red-text|cursor-2023-11-03-7ca432]]'
@@ -43,11 +43,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-11-15-0-16-0-https-cursor-com-changelog-0-16-0-5861ed6e|cursor-2023-11-15-0-16-0-https-cursor-com-changelog-0-16-0-5861ed6e]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: 'Copilot++ improvements:'
+title: Copilot++ improvements
 type: change
 ---
 
-# Copilot++ improvements:
+# Copilot++ improvements
 
 <!-- chronolog:begin region="description" -->
 Cursor — Copilot++ improvements and VS Code 1.84.2: Copilot++ improvements:

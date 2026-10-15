@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ee47126bfd9ad141c42e6ac88b1b0aa2ef1e4afcf2a7ae41042dd7cc3eb48a10
+machine_hash: 0681a20a50c11c956625944483d754231fd6d2f5d9d5f38c3a415c334db1dcad
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       in `/doctor` and after saving rules that include the source of each rule and
       actionable fix guidance
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.3
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,8 +38,7 @@ record:
   theme: safety-privacy
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: Added detection and warnings for unreachable permission rules, with warnings
-    in
+  title: Added detection and warnings for unreachable permission rules, with warnings…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-09-29-we-re-rolling-out-parental-controls-globally-in-chatgpt-to-help-families-guide-h-86eaab|chatgpt-2025-09-29-86eaab]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-01-09-v2-1-3-github-275638643-101f767c|claude-code-2026-01-09-v2-1-3-github-275638643-101f767c]]'
 source_type: github_releases
 theme: safety-privacy
-title: Added detection and warnings for unreachable permission rules, with warnings
-  in
+title: Added detection and warnings for unreachable permission rules, with warnings…
 type: change
 ---
 
-# Added detection and warnings for unreachable permission rules, with warnings in
+# Added detection and warnings for unreachable permission rules, with warnings…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.3: Added detection and warnings for unreachable permission rules, with warnings in `/doctor` and after saving rules that include the source of each rule and actionable fix guidance

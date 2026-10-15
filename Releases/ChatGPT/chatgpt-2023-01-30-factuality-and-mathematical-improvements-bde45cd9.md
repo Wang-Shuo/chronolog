@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-01-30'
-machine_hash: d5e3782ba312b57bc18ba4cc9ce36f2fe201adb800752a4e1ab95e11338011aa
+machine_hash: 081f6d37148278461591b0f5f5b18a9fbb64a3bba6bf582c1bfb794db32c32cc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,5 +39,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2023-01-30-we-ve-upgraded-the-chatgpt-model-with-improved-factuality-and-mathematical-capab|We’ve upgraded the ChatGPT model with improved factuality and mathematical capab]]
+- model-support: [[Changes/ChatGPT/2023-01-30-we-ve-upgraded-the-chatgpt-model-with-improved-factuality-and-mathematical-capab|We’ve upgraded the ChatGPT model with improved factuality and mathematical capabilities]]
 <!-- chronolog:end -->

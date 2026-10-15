@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: df7aed9fe5ca731155361a49335ae70ec9d0dc97d78c3ba67275a4832f7cd51d
+machine_hash: a352e904deba38e730aac18aa4c8c533b61bc38c82de0bd7397b4d3472594554
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Added `memory` frontmatter field support for agents, enabling persistent
       memory with `user`, `project`, or `local` scope
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.33
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -46,7 +46,7 @@ record:
     score: 50
     theme: agent-mode
   title: Added `memory` frontmatter field support for agents, enabling persistent
-    memory
+    memory…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-01-07-we-re-starting-to-roll-out-health-a-dedicated-space-in-chatgpt-for-health-and-we|chatgpt-2026-01-07-b64cd3]]'
@@ -55,11 +55,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-02-06-v2-1-33-github-283581096-0f5b01a0|claude-code-2026-02-06-v2-1-33-github-283581096-0f5b01a0]]'
 source_type: github_releases
 theme: memory
-title: Added memory frontmatter field support for agents, enabling persistent memory
+title: Added memory frontmatter field support for agents, enabling persistent memory…
 type: change
 ---
 
-# Added `memory` frontmatter field support for agents, enabling persistent memory
+# Added `memory` frontmatter field support for agents, enabling persistent memory…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.33: Added `memory` frontmatter field support for agents, enabling persistent memory with `user`, `project`, or `local` scope

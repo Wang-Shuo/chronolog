@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: cb1342c27ad4438e20ccb8cff1a99cd3573316fab072f0a1432918bb2dee5dbb
+machine_hash: 35c461c05d07b5d057dfd7886b1cac0aae8b7d50c72e495d93e91693e971a1f3
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: 'Improved focus mode: Claude now writes more self-contained summaries since
       it knows you only see its final message'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.101
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   theme: interface-experience
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: 'Improved focus mode: Claude now writes more self-contained summaries since
-    it kn'
+  title: Improved focus mode
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-04-release-notes-is-now-an-interactive-version-picker|claude-code-2026-04-04-9b92a9]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-10-v2-1-101-github-307692858-ffcdf642|claude-code-2026-04-10-v2-1-101-github-307692858-ffcdf642]]'
 source_type: github_releases
 theme: interface-experience
-title: 'Improved focus mode: Claude now writes more self-contained summaries since
-  it kn'
+title: Improved focus mode
 type: change
 ---
 
-# Improved focus mode: Claude now writes more self-contained summaries since it kn
+# Improved focus mode
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.101: Improved focus mode: Claude now writes more self-contained summaries since it knows you only see its final message

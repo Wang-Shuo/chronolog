@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: edeff4e9b0b01cf87ca4520ad277d73152152d2524cc4ba58072197c4c9599aa
+machine_hash: 2faa2742ec2f696787641d598da79a22520c9e43db788d05e81b0ca922fcbfe7
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
       fixes directly on your PR. Today, over 35% of Bugbot Autofix changes are merged
       into the base PR.
     source_release: https://cursor.com/changelog/02-26-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,7 +37,7 @@ record:
   source_type: cursor_changelog
   theme: agent-mode
   title: Autofix runs cloud agents on their own machines to test changes and propose
-    fixe
+    fixes…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-02-24-cloud-agents-can-now-use-the-software-they-create-to-test-changes-and-demo-their|cursor-2026-02-24-11d44f]]'
@@ -47,11 +47,11 @@ source_release: '[[Releases/Cursor/cursor-2026-02-26-bugbot-autofix-https-cursor
 source_type: cursor_changelog
 theme: agent-mode
 title: Autofix runs cloud agents on their own machines to test changes and propose
-  fixe
+  fixes…
 type: change
 ---
 
-# Autofix runs cloud agents on their own machines to test changes and propose fixe
+# Autofix runs cloud agents on their own machines to test changes and propose fixes…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Bugbot Autofix: Autofix runs cloud agents on their own machines to test changes and propose fixes directly on your PR. Today, over 35% of Bugbot Autofix changes are merged into the base PR.

@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 172375cb4fed3c5c19c8842eb1df76f982d1bc1e9f2da1117f2bb5ac10930d51
+machine_hash: cfc5a987a30e0a0fd7e513f446cd0328127d35e399984f4783b02b0efaef9aa4
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Long code selections no longer brick the editor
     source_release: https://cursor.com/changelog/0-2-39
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

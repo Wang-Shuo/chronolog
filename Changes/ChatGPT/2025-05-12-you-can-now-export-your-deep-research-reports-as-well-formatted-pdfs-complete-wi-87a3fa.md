@@ -11,9 +11,9 @@ diffusion:
   theme: search-browsing
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: c9867ffbf2d2af3c96ca5718671eecf1eeffbce174375ee24bd523dca16cd467
+machine_hash: bd0576727d1dd5c94e688e29ea7207989f046c72ce842782bd9fea541b448196
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       with tables, images, linked citations, and sources.To use, click the share icon
       and select 'Download as PDF.' It works for both new and past reports.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -39,8 +39,7 @@ record:
   source_release: chatgpt-2025-05-12-export-deep-research-as-pdf-for-plus-pro-team-27caae9f
   source_type: chatgpt_changelog
   theme: search-browsing
-  title: You can now export your deep research reports as well-formatted PDFs—complete
-    wi
+  title: Export your deep research reports as well-formatted PDFs—complete with tables…
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-01-25-using-web-in-chat-will-give-the-ai-the-ability-to-crawl-the-web-the-tools-it-can|cursor-2024-01-25-e32ad8]]'
@@ -49,12 +48,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-12-export-deep-research-as-pdf-for-plus-pro-team-27caae9f|chatgpt-2025-05-12-export-deep-research-as-pdf-for-plus-pro-team-27caae9f]]'
 source_type: chatgpt_changelog
 theme: search-browsing
-title: You can now export your deep research reports as well-formatted PDFs—complete
-  wi
+title: Export your deep research reports as well-formatted PDFs—complete with tables…
 type: change
 ---
 
-# You can now export your deep research reports as well-formatted PDFs—complete wi
+# Export your deep research reports as well-formatted PDFs—complete with tables…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Export Deep Research as PDF for Plus/Pro/Team: You can now export your deep research reports as well-formatted PDFs—complete with tables, images, linked citations, and sources.To use, click the share icon and select 'Download as PDF.' It works for both new and past reports.

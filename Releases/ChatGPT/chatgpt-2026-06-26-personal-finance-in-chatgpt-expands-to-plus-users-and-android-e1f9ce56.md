@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-06-26'
-machine_hash: e8acd894feaccb4e0a90fa05a7af514f8d177f57f699e6a9f5e0412e7005920f
+machine_hash: 1a03f432f5a36465f9b282ead69c8106c7049386893b25f3b758c62b711b6744
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- file-data: [[Changes/ChatGPT/2026-06-26-the-personal-finance-experience-in-chatgpt-is-rolling-out-to-plus-users-in-the-u|The personal finance experience in ChatGPT is rolling out to Plus users in the U]]
+- file-data: [[Changes/ChatGPT/2026-06-26-the-personal-finance-experience-in-chatgpt-is-rolling-out-to-plus-users-in-the-u|The personal finance experience in ChatGPT is rolling out to Plus users…]]
 <!-- chronolog:end -->

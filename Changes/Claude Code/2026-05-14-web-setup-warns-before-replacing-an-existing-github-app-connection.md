@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4ce43b52ea89457d93820722c4dfe53737617df78296f0298f05391ae0f86154
+machine_hash: 162c4d6a091a89bc8a4a0b2ad413966b31103368e2dc6b71bce955805474c0e0
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: '`/web-setup` warns before replacing an existing GitHub App connection'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.142
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

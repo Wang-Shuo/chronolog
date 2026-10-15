@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3168e76c5fff8de18a1a2e4a660c2820d8d2bc0aea2186c14fc52a1c2b990a60
+machine_hash: 840f719da9f702251ea427f06f919112731e0f0b20e085df4802d24f722f7a7c
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Install the Cursor ACP directly in your JetBrains IDE from the ACP Registry,
       and authenticate with your existing Cursor account.
     source_release: https://cursor.com/changelog/03-04-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,8 +35,7 @@ record:
   source_release: cursor-2026-03-04-cursor-in-jetbrains-ides-https-cursor-com-changelog-03-04-26-59bae4c8
   source_type: cursor_changelog
   theme: editor-experience
-  title: Install the Cursor ACP directly in your JetBrains IDE from the ACP Registry,
-    and
+  title: Install the Cursor ACP directly in your JetBrains IDE from the ACP Registry…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-24-vs-code-fixed-extension-crash-on-windows-command-claude-vscode-editor-openlast-n|claude-code-2026-02-24-606c6f]]'
@@ -45,12 +44,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-03-04-cursor-in-jetbrains-ides-https-cursor-com-changelog-03-04-26-59bae4c8|cursor-2026-03-04-cursor-in-jetbrains-ides-https-cursor-com-changelog-03-04-26-59bae4c8]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: Install the Cursor ACP directly in your JetBrains IDE from the ACP Registry,
-  and
+title: Install the Cursor ACP directly in your JetBrains IDE from the ACP Registry…
 type: change
 ---
 
-# Install the Cursor ACP directly in your JetBrains IDE from the ACP Registry, and
+# Install the Cursor ACP directly in your JetBrains IDE from the ACP Registry…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cursor in JetBrains IDEs: Install the Cursor ACP directly in your JetBrains IDE from the ACP Registry, and authenticate with your existing Cursor account.

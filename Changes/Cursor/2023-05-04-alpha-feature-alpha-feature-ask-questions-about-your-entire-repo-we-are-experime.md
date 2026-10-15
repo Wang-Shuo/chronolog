@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: c588603225b2db6c2fe384f8853a77c8f8cb5d9f2b1b94785367b8843337a2ed
+machine_hash: 9b37fb570b7bcb2d972c2d9c56285be684a7bfb56a41a2b6c7e1adff19df1a58
 product: cursor
 product_name: Cursor
 record:
@@ -22,20 +22,20 @@ record:
   comparison: ''
   confidence: low
   date: '2023-05-04'
-  description: "Cursor — Enhanced Features & Improvements (2023-05-04): Alpha feature:
-    \U0001F9E0 Alpha feature: Ask questions about your entire repo \U0001F6E0️. We
-    are experimenting with ⌥+enter in the chat! The feature allows the model to think
-    deeply about your response, search through files, and deliver a well-crafted answer.
-    While it's in alpha, we're working hard to enhance this feature in the coming
-    weeks. We'd love to hear your feedback!"
+  description: 'Cursor — Enhanced Features & Improvements (2023-05-04): Alpha feature:
+    🧠 Alpha feature: Ask questions about your entire repo 🛠️. We are experimenting
+    with ⌥+enter in the chat! The feature allows the model to think deeply about your
+    response, search through files, and deliver a well-crafted answer. While it''s
+    in alpha, we''re working hard to enhance this feature in the coming weeks. We''d
+    love to hear your feedback!'
   evidence:
-  - quote: "Alpha feature: \U0001F9E0 Alpha feature: Ask questions about your entire
-      repo \U0001F6E0️. We are experimenting with ⌥+enter in the chat! The feature
-      allows the model to think deeply about your response, search through files,
-      and deliver a well-crafted answer. While it's in alpha, we're working hard to
-      enhance this feature in the coming weeks. We'd love to hear your feedback!"
+  - quote: 'Alpha feature: 🧠 Alpha feature: Ask questions about your entire repo 🛠️.
+      We are experimenting with ⌥+enter in the chat! The feature allows the model
+      to think deeply about your response, search through files, and deliver a well-crafted
+      answer. While it''s in alpha, we''re working hard to enhance this feature in
+      the coming weeks. We''d love to hear your feedback!'
     source_release: https://cursor.com/changelog/0-2-9
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -45,20 +45,18 @@ record:
   theme: context-window
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: "Alpha feature: \U0001F9E0 Alpha feature: Ask questions about your entire
-    repo \U0001F6E0️. We are"
+  title: 'Alpha feature: 🧠 Alpha feature: Ask questions about your entire repo 🛠️'
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|cursor-2023-05-04-00d3b7]]'
 source_release: '[[Releases/Cursor/cursor-2023-05-04-0-2-9-https-cursor-com-changelog-0-2-9-fbb1587c|cursor-2023-05-04-0-2-9-https-cursor-com-changelog-0-2-9-fbb1587c]]'
 source_type: cursor_changelog
 theme: context-window
-title: "Alpha feature: \U0001F9E0 Alpha feature: Ask questions about your entire repo
-  \U0001F6E0️. We are"
+title: 'Alpha feature: 🧠 Alpha feature: Ask questions about your entire repo 🛠️'
 type: change
 ---
 
-# Alpha feature: 🧠 Alpha feature: Ask questions about your entire repo 🛠️. We are
+# Alpha feature: 🧠 Alpha feature: Ask questions about your entire repo 🛠️
 
 <!-- chronolog:begin region="description" -->
 Cursor — Enhanced Features & Improvements (2023-05-04): Alpha feature: 🧠 Alpha feature: Ask questions about your entire repo 🛠️. We are experimenting with ⌥+enter in the chat! The feature allows the model to think deeply about your response, search through files, and deliver a well-crafted answer. While it's in alpha, we're working hard to enhance this feature in the coming weeks. We'd love to hear your feedback!

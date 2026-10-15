@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 146aeb7a628151732dd07bcdd3f20e27917b4708d386ebe2fb62e55719f3a2f5
+machine_hash: 58cd79043688d76cb685ca22b5172812514cdfeddf975f5caa604e6d0a424455
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       tools on native builds with embedded search (previously these names were silently
       ignored)'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.162
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -39,7 +39,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: '`--tools`: explicitly listing Grep/Glob now provides the dedicated search
-    tools'
+    tools…'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-29-enterworktree-can-now-switch-between-claude-managed-worktrees-mid-session|claude-code-2026-05-29-8c413b]]'
@@ -48,11 +48,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-03-v2-1-162-github-333906405-cdc7c67c|claude-code-2026-06-03-v2-1-162-github-333906405-cdc7c67c]]'
 source_type: github_releases
 theme: developer-workflow
-title: '--tools: explicitly listing Grep/Glob now provides the dedicated search tools'
+title: '--tools: explicitly listing Grep/Glob now provides the dedicated search tools…'
 type: change
 ---
 
-# `--tools`: explicitly listing Grep/Glob now provides the dedicated search tools
+# `--tools`: explicitly listing Grep/Glob now provides the dedicated search tools…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.162: `--tools`: explicitly listing Grep/Glob now provides the dedicated search tools on native builds with embedded search (previously these names were silently ignored)

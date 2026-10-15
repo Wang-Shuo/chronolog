@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e45180b2931bd418901a63efc1ed71f9ab839960f053ecd361dd105e04df646a
+machine_hash: 99f3cd91aac6038017fa3b33336dcd4490d0422a36b20954f35c1faac1aed58b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       files at once (previously 10), making it easier to analyze document sets, compare
       multiple files, or provide broader context in a single message.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -37,8 +37,7 @@ record:
   source_release: chatgpt-2026-02-13-chatgpt-updates-better-file-uploads-easier-copying-and-more-reli-e2c69aa0
   source_type: chatgpt_changelog
   theme: context-window
-  title: Attach up to 20 files in a single message. You can now upload up to 20 files
-    at
+  title: Attach up to 20 files in a single message
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-01-22-the-result-is-faster-overall-execution-more-focused-context-in-your-main-convers|cursor-2026-01-22-ab1b65]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-13-chatgpt-updates-better-file-uploads-easier-copying-and-more-reli-e2c69aa0|chatgpt-2026-02-13-chatgpt-updates-better-file-uploads-easier-copying-and-more-reli-e2c69aa0]]'
 source_type: chatgpt_changelog
 theme: context-window
-title: Attach up to 20 files in a single message. You can now upload up to 20 files
-  at
+title: Attach up to 20 files in a single message
 type: change
 ---
 
-# Attach up to 20 files in a single message. You can now upload up to 20 files at
+# Attach up to 20 files in a single message
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT updates: Better file uploads, easier copying, and more reliable long chats: Attach up to 20 files in a single message. You can now upload up to 20 files at once (previously 10), making it easier to analyze document sets, compare multiple files, or provide broader context in a single message.

@@ -11,9 +11,9 @@ diffusion:
   theme: accessibility-localization
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 5c2579c3f122a92017bf4385123655f9c702e53f94ecaa7e441b53693b56455d
+machine_hash: 24309916c2880450769ff5e5012fe525ffeeb1881e7488ad4651c1a38c1da65f
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Added support for full-width (zenkaku) space input from Japanese IME in
       checkbox selection
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.31
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -37,6 +37,7 @@ record:
   source_type: github_releases
   theme: accessibility-localization
   title: Added support for full-width (zenkaku) space input from Japanese IME in checkbox
+    selection
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|chatgpt-2023-09-11-bac960]]'
@@ -45,10 +46,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-02-04-v2-1-31-github-28
 source_type: github_releases
 theme: accessibility-localization
 title: Added support for full-width (zenkaku) space input from Japanese IME in checkbox
+  selection
 type: change
 ---
 
-# Added support for full-width (zenkaku) space input from Japanese IME in checkbox
+# Added support for full-width (zenkaku) space input from Japanese IME in checkbox selection
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.31: Added support for full-width (zenkaku) space input from Japanese IME in checkbox selection

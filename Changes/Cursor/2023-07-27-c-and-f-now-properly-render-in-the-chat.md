@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 969d76e92093bf6c994a5625c84e8bc061166b7c89ae10ef488f35516e8b6bc0
+machine_hash: b875c55ff2670021de07a4f58bbc380562d731ea9c074c38b678decdcbaea5fe
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: C# and F# now properly render in the chat
     source_release: https://cursor.com/changelog/0-5-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

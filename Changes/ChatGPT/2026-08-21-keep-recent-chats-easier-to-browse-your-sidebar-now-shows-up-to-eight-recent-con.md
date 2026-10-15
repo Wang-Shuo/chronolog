@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: b1a2bc9d49d8571cd3412bf5a6948443f49a24c8cc465f5665d8dd34c8cecd2f
+machine_hash: 3d7c5532ae3111066a193e43f574fb6bf3834e3453a05e9ca7bce02d59c97275
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Keep recent chats easier to browse. Your sidebar now shows up to eight
       recent conversations.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -44,8 +44,7 @@ record:
     score: 50
     theme: search-browsing
   theme_resolution: manual-backfill-review-v1
-  title: Keep recent chats easier to browse. Your sidebar now shows up to eight recent
-    co
+  title: Keep recent chats easier to browse
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-10-improved-slash-command-menu-blue-now-marks-only-the-selected-row-matched-charact|claude-code-2026-08-10-20bd06]]'
@@ -54,12 +53,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-21-updates-to-chatgpt-on-android-8e3bdeee|chatgpt-2026-08-21-updates-to-chatgpt-on-android-8e3bdeee]]'
 source_type: chatgpt_changelog
 theme: interface-experience
-title: Keep recent chats easier to browse. Your sidebar now shows up to eight recent
-  co
+title: Keep recent chats easier to browse
 type: change
 ---
 
-# Keep recent chats easier to browse. Your sidebar now shows up to eight recent co
+# Keep recent chats easier to browse
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Updates to ChatGPT on Android: Keep recent chats easier to browse. Your sidebar now shows up to eight recent conversations.

@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: bc34449f3a468b91cd39f4907add4519e313c543cc4bc800149d549a28717271
+machine_hash: b839d8b4570024b48b946607a9e2ca612b6693f80229de07ed88aca1e8a3449b
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: 'Default Off: users can discover and opt in'
     source_release: https://cursor.com/changelog/05-01-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

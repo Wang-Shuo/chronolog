@@ -11,9 +11,9 @@ diffusion:
   theme: accessibility-localization
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 2517d2cf3b7424a9c559cb79d753479f7db474eb7aada7fa873668c038862203
+machine_hash: 6e1ebcf949c847ad503e5e849420299caac337aeaf022e95b7a80422f5f957c5
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Session titles are now generated in the language of your conversation (set
       the `language` setting to pin a specific language)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.176
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   theme: accessibility-localization
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Session titles are now generated in the language of your conversation (set
-    the `
+  title: Session titles are now generated in the language of your conversation…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|chatgpt-2023-09-11-bac960]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-12-v2-1-176-github-338777362-91e3deb6|claude-code-2026-06-12-v2-1-176-github-338777362-91e3deb6]]'
 source_type: github_releases
 theme: accessibility-localization
-title: 'Session titles are now generated in the language of your conversation (set
-  the '
+title: Session titles are now generated in the language of your conversation…
 type: change
 ---
 
-# Session titles are now generated in the language of your conversation (set the `
+# Session titles are now generated in the language of your conversation…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.176: Session titles are now generated in the language of your conversation (set the `language` setting to pin a specific language)

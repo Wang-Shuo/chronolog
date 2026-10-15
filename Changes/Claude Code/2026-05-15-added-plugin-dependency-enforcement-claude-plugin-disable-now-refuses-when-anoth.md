@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: b9fc5a5e574a7c618733bd018a50fec57d6028ff0cd0ba17350cd7c7c125ff8b
+machine_hash: ad3fc32f776af88361697f73189b97cee07b3d35ca8e9296f488ae540cbd6fce
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,7 +29,7 @@ record:
       when another enabled plugin depends on the target (with a copy-pasteable disable-chain
       hint), and `claude plugin enable` force-enables transitive dependencies'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.143
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,8 +37,7 @@ record:
   source_release: claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c
   source_type: github_releases
   theme: apps-integrations
-  title: 'Added plugin dependency enforcement: `claude plugin disable` now refuses
-    when an'
+  title: Added plugin dependency enforcement
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-14-plugins-with-a-root-level-skill-md-and-no-skills-subdirectory-are-now-surfaced-a|claude-code-2026-05-14-236f0b]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c|claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c]]'
 source_type: github_releases
 theme: apps-integrations
-title: 'Added plugin dependency enforcement: claude plugin disable now refuses when
-  an'
+title: Added plugin dependency enforcement
 type: change
 ---
 
-# Added plugin dependency enforcement: `claude plugin disable` now refuses when an
+# Added plugin dependency enforcement
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.143: Added plugin dependency enforcement: `claude plugin disable` now refuses when another enabled plugin depends on the target (with a copy-pasteable disable-chain hint), and `claude plugin enable` force-enables transitive dependencies

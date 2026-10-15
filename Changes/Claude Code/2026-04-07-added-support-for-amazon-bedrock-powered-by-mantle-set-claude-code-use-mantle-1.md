@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: c3a7d3ca22a266835b22670ea0cadc90c984a4a02f9279394a6c255791495109
+machine_hash: a1c810071dc8a0df38bd2c5ecf9168a98207bc8f9fc1ec4d071354332e8681a1
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: Added support for Amazon Bedrock powered by Mantle, set `CLAUDE_CODE_USE_MANTLE=1`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.94
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Added support for Amazon Bedrock powered by Mantle, set `CLAUDE_CODE_USE_MANTLE=
+  title: Added support for Amazon Bedrock powered by Mantle, set `CLAUDE_CODE_USE_MANTLE=1`
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-02-plugins-can-now-ship-executables-under-bin-and-invoke-them-as-bare-commands-from|claude-code-2026-04-02-ff5971]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-07-v2-1-94-github-306300914-5622fba4|claude-code-2026-04-07-v2-1-94-github-306300914-5622fba4]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added support for Amazon Bedrock powered by Mantle, set CLAUDE_CODE_USE_MANTLE=
+title: Added support for Amazon Bedrock powered by Mantle, set CLAUDE_CODE_USE_MANTLE=1
 type: change
 ---
 
-# Added support for Amazon Bedrock powered by Mantle, set `CLAUDE_CODE_USE_MANTLE=
+# Added support for Amazon Bedrock powered by Mantle, set `CLAUDE_CODE_USE_MANTLE=1`
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.94: Added support for Amazon Bedrock powered by Mantle, set `CLAUDE_CODE_USE_MANTLE=1`

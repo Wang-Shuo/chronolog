@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 425fef89dea2d1fb24017efa974e187a48996230a90768f5fdcd4677f1d26dd7
+machine_hash: 5be35888e56ffda02d924f0af6904e012b1f0a7a41cb30e5812ff729c2bf28f2
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       for egress proxies that require a freshly issued `Proxy-Authorization` header
       on every connection
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.238
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,7 +38,7 @@ record:
   theme: developer-workflow
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Added `claude self-hosted-runner --proxy-authorization-command` / `--proxy-autho
+  title: Added `claude self-hosted-runner --proxy-authorization-command`…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-22-changed-code-review-to-run-as-a-background-subagent-so-review-work-no-longer-fil|claude-code-2026-07-22-9535c3]]'
@@ -47,11 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-08-20-v2-1-238-github-373927029-c96744e2|claude-code-2026-08-20-v2-1-238-github-373927029-c96744e2]]'
 source_type: github_releases
 theme: developer-workflow
-title: Added claude self-hosted-runner --proxy-authorization-command / --proxy-autho
+title: Added claude self-hosted-runner --proxy-authorization-command…
 type: change
 ---
 
-# Added `claude self-hosted-runner --proxy-authorization-command` / `--proxy-autho
+# Added `claude self-hosted-runner --proxy-authorization-command`…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.238: Added `claude self-hosted-runner --proxy-authorization-command` / `--proxy-authorization-file` for egress proxies that require a freshly issued `Proxy-Authorization` header on every connection

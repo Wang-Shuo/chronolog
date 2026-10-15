@@ -11,9 +11,9 @@ diffusion:
   theme: projects-workspaces
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e0e5b19089866b77d501c0c6c0dc7d90bdd0d0764a8a73d0c24a391355de1cab
+machine_hash: f08e18adc19a142c2eadf56330286700673effd30898d434940e8fe6c4cb9c1c
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added readable default names for sessions at start, making them easier
       to identify and message
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.196
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: Added readable default names for sessions at start, making them easier to
-    identi
+    identify…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-13-feedback-can-now-include-recent-sessions-last-24-hours-or-7-days-for-issues-span|claude-code-2026-05-13-a1d58a]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-29-v2-1-196-github-346482381-e21be272|claude-code-2026-06-29-v2-1-196-github-346482381-e21be272]]'
 source_type: github_releases
 theme: projects-workspaces
-title: Added readable default names for sessions at start, making them easier to identi
+title: Added readable default names for sessions at start, making them easier to identify…
 type: change
 ---
 
-# Added readable default names for sessions at start, making them easier to identi
+# Added readable default names for sessions at start, making them easier to identify…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.196: Added readable default names for sessions at start, making them easier to identify and message

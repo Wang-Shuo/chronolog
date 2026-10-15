@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5a086115318979a07a83a72d76306402094133eccbe2c147813425229c7d1ec2
+machine_hash: ef2bb382f056a6c40a96d9e04f22c36775a0d15b1e300fd05cfb0b2b53f249a8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Turn a sketch into an image. On mobile, type @ in the message box and select
       Sketch. Draw your idea, then describe the image you want to create.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -35,8 +35,7 @@ record:
   source_release: chatgpt-2026-09-08-chatgpt-images-2-5-new-ways-to-create-and-edit-11ada24d
   source_type: chatgpt_changelog
   theme: mobile-desktop
-  title: Turn a sketch into an image. On mobile, type @ in the message box and select
-    Ske
+  title: Turn a sketch into an image
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-08-31-chatgpt-work-and-codex-can-now-use-tools-that-supported-websites-provide-directl|chatgpt-2026-08-31-5aa461]]'
@@ -45,12 +44,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-08-chatgpt-images-2-5-new-ways-to-create-and-edit-11ada24d|chatgpt-2026-09-08-chatgpt-images-2-5-new-ways-to-create-and-edit-11ada24d]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: Turn a sketch into an image. On mobile, type @ in the message box and select
-  Ske
+title: Turn a sketch into an image
 type: change
 ---
 
-# Turn a sketch into an image. On mobile, type @ in the message box and select Ske
+# Turn a sketch into an image
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT Images 2.5: new ways to create and edit: Turn a sketch into an image. On mobile, type @ in the message box and select Sketch. Draw your idea, then describe the image you want to create.

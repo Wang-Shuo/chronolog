@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-10-17'
-machine_hash: a52fe332944c998eca581f28774f09c9e5a30370c385a1eac92e80ac77e73517
+machine_hash: d6c499c169420fbddeb88e20dae948ae393f325a9b5cfd3b96c30ce739ee2a66
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,5 +40,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2023-10-17-browsing-which-we-re-launched-a-few-weeks-ago-is-moving-out-of-beta-plus-and-ent|Browsing, which we re-launched a few weeks ago, is moving out of beta.Plus and E]]
+- model-support: [[Changes/ChatGPT/2023-10-17-browsing-which-we-re-launched-a-few-weeks-ago-is-moving-out-of-beta-plus-and-ent|Browsing, which we re-launched a few weeks ago, is moving out of beta]]
 <!-- chronolog:end -->

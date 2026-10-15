@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 2755245e89626569841957036b8ea169a3f9e13489dfc6b5fea7cd93eca9ab79
+machine_hash: 15cd3adc31641c17c915257da16c3a87ea8ddaddf9f3acab3b72f7621cddf325
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   - quote: We’re improving the quality and latency of responses of the version of
       Advanced Voice powered by GPT-4o mini.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -48,7 +48,7 @@ record:
     score: 50
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v2
-  title: We’re improving the quality and latency of responses of the version of Advanced
+  title: We’re improving the quality and latency of responses of the version of Advanced…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-09-17-we-re-giving-plus-business-and-pro-users-more-control-over-how-long-gpt-5-thinks|chatgpt-2025-09-17-2788f7]]'
@@ -57,11 +57,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-18-voice-updates-432d340b|chatgpt-2025-09-18-voice-updates-432d340b]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: We’re improving the quality and latency of responses of the version of Advanced
+title: We’re improving the quality and latency of responses of the version of Advanced…
 type: change
 ---
 
-# We’re improving the quality and latency of responses of the version of Advanced
+# We’re improving the quality and latency of responses of the version of Advanced…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Voice Updates: We’re improving the quality and latency of responses of the version of Advanced Voice powered by GPT-4o mini.

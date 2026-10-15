@@ -11,9 +11,9 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: f6401e3d5a4f08266ccd5e7141eb0ab0a48fe9c5570f2f16c1f2be1273819b6d
+machine_hash: e8d7d3e870be2bf64e5db88fef84bac2e03b4d4a1b276abda2767c6748f5fd0f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,7 +40,7 @@ record:
       some feedback from its users about Advanced Voice.Stay tuned—more improvements
       to Voice are coming soon.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -48,8 +48,7 @@ record:
   source_release: chatgpt-2025-09-09-chatgpt-voice-update-c17a6a9f
   source_type: chatgpt_changelog
   theme: voice
-  title: Last month we announced that everyone now has access to Advanced Voice Mode,
-    wit
+  title: Last month we announced that everyone now has access to Advanced Voice Mode…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-07-17-the-advanced-voice-upgrades-we-announced-on-june-7th-are-now-rolling-out-to-chat|chatgpt-2025-07-17-ce1159]]'
@@ -58,12 +57,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-09-chatgpt-voice-update-c17a6a9f|chatgpt-2025-09-09-chatgpt-voice-update-c17a6a9f]]'
 source_type: chatgpt_changelog
 theme: voice
-title: Last month we announced that everyone now has access to Advanced Voice Mode,
-  wit
+title: Last month we announced that everyone now has access to Advanced Voice Mode…
 type: change
 ---
 
-# Last month we announced that everyone now has access to Advanced Voice Mode, wit
+# Last month we announced that everyone now has access to Advanced Voice Mode…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT Voice Update: Last month we announced that everyone now has access to Advanced Voice Mode, with usage expanded from minutes per day to hours for Free users, and near-unlimited use for Plus.We also shared that Standard Voice Mode would be retired following a 30-day sunset period. We’ve heard feedback that Standard Voice is special to some folks, and we want to make sure the transition feels right. To that end, we’re keeping Standard Voice available while we address some feedback from its users about Advanced Voice.Stay tuned—more improvements to Voice are coming soon.

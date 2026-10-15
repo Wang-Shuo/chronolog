@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 0775beff83516b11ec2ba4c8e1edd2f39787fcc175f4e9fc233dbbc202ec0891
+machine_hash: ea4e568cb9862c9430a6d5390b52bc12fb9cf38ac6d01796fc22ab91423842b7
 product: cursor
 product_name: Cursor
 record:
@@ -32,7 +32,7 @@ record:
       editor. Please give us feedback in the Discord! We''d love to know if you find
       it useful.'
     source_release: https://cursor.com/changelog/0-16-3-nightly
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -50,8 +50,7 @@ record:
     score: 50
     theme: model-support
   theme_resolution: manual-semantic-rule-v1
-  title: 'Experimental feature: go to "More" > "Interpreter Mode" to enable it. Gives
-    the'
+  title: 'Experimental feature: go to "More" > "Interpreter Mode" to enable it'
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-11-15-copilot-improvements|cursor-2023-11-15-c7e100]]'
@@ -60,12 +59,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-11-22-0-16-3-nightly-https-cursor-com-changelog-0-16-3-nightly-03172b46|cursor-2023-11-22-0-16-3-nightly-https-cursor-com-changelog-0-16-3-nightly-03172b46]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: 'Experimental feature: go to "More"  "Interpreter Mode" to enable it. Gives
-  the'
+title: 'Experimental feature: go to "More"  "Interpreter Mode" to enable it'
 type: change
 ---
 
-# Experimental feature: go to "More" > "Interpreter Mode" to enable it. Gives the
+# Experimental feature: go to "More" > "Interpreter Mode" to enable it
 
 <!-- chronolog:begin region="description" -->
 Cursor — Interpreter Mode Beta: Experimental feature: go to "More" > "Interpreter Mode" to enable it. Gives the model access to a Python notebook where it can take actions in the editor. Please give us feedback in the Discord! We'd love to know if you find it useful.

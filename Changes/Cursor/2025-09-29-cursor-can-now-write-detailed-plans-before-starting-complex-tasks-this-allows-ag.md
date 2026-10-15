@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 87e8c70630e2b908485f4db097ca36529e9f9403a1b4cf4246b6d931dd539d20
+machine_hash: a25c3eeefb3cf3735b294341b796f57a6dfc95e2587d87cb13d95d85fbe30ad0
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Cursor can now write detailed plans before starting complex tasks. This
       allows agents to run for significantly longer.
     source_release: https://cursor.com/changelog/1-7
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,8 +35,7 @@ record:
   source_release: cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae
   source_type: cursor_changelog
   theme: agent-mode
-  title: Cursor can now write detailed plans before starting complex tasks. This allows
-    a
+  title: Cursor can now write detailed plans before starting complex tasks
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-08-21-you-can-now-start-background-agents-directly-from-linear-delegate-tasks-to-curso|cursor-2025-08-21-927f5c]]'
@@ -45,12 +44,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae|cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: Cursor can now write detailed plans before starting complex tasks. This allows
-  a
+title: Cursor can now write detailed plans before starting complex tasks
 type: change
 ---
 
-# Cursor can now write detailed plans before starting complex tasks. This allows a
+# Cursor can now write detailed plans before starting complex tasks
 
 <!-- chronolog:begin region="description" -->
 Cursor — Browser Controls, Plan Mode, and Hooks: Cursor can now write detailed plans before starting complex tasks. This allows agents to run for significantly longer.

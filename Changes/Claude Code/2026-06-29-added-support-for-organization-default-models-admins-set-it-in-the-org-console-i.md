@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: f10bdc9e158580a7c5f7995add765462293e21c12763f6bb29ca6ea90a165bc2
+machine_hash: 6455d18dc2d7ea13b597d68ebd2e720c0ae58eda30db77f1b32ff2b2f8ebadfe
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       console; it shows as "Org default" (or "Role default") in `/model` when you
       haven't picked one yourself
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.196
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -48,8 +48,7 @@ record:
     - admins
     score: 50
     theme: enterprise-admin
-  title: Added support for organization default models — admins set it in the org
-    console
+  title: Added support for organization default models
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-06-24-we-re-updating-gpt-5-5-instant-our-most-used-model-in-chatgpt-to-improve-convers|chatgpt-2026-06-24-0f2a65]]'
@@ -58,11 +57,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-29-v2-1-196-github-346482381-e21be272|claude-code-2026-06-29-v2-1-196-github-346482381-e21be272]]'
 source_type: github_releases
 theme: model-support
-title: Added support for organization default models — admins set it in the org console
+title: Added support for organization default models
 type: change
 ---
 
-# Added support for organization default models — admins set it in the org console
+# Added support for organization default models
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.196: Added support for organization default models — admins set it in the org console; it shows as "Org default" (or "Role default") in `/model` when you haven't picked one yourself

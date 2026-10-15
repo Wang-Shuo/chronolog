@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: aee9e91731f6e23ab3d4e702be76a2b5d22a38507d9b1f3c1c2d567bd8792a0f
+machine_hash: 16f9960914413a4c0a48849b521cf0d1f74567b1438046d520c99589fbae46d6
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: 'Apply button: We''ve added some polish to the "apply codeblock" experience
       in chat.'
     source_release: https://cursor.com/changelog/0-23-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: 'Apply button: We''ve added some polish to the "apply codeblock" experience
-    in cha'
+    in chat'
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-01-03-hold-down-command-press-and-release-shift-and-continue-holding-down-command-this|cursor-2024-01-03-7e1934]]'
@@ -47,11 +47,11 @@ source_release: '[[Releases/Cursor/cursor-2024-01-18-0-23-x-https-cursor-com-cha
 source_type: cursor_changelog
 theme: editor-experience
 title: 'Apply button: We''ve added some polish to the "apply codeblock" experience
-  in cha'
+  in chat'
 type: change
 ---
 
-# Apply button: We've added some polish to the "apply codeblock" experience in cha
+# Apply button: We've added some polish to the "apply codeblock" experience in chat
 
 <!-- chronolog:begin region="description" -->
 Cursor — New Model, Apply Button v2: Apply button: We've added some polish to the "apply codeblock" experience in chat.

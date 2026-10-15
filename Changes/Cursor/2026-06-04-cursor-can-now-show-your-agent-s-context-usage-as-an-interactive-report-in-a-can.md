@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: f25f05393ec53d2867b3feb324b0c9b1d9371e5789b2019923cb0ffb96c0715a
+machine_hash: f6a84100f001c2011e594b7127627db99142119a8af562f01953ca5ee34a7a59
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Cursor can now show your agent's context usage as an interactive report
       in a canvas.
     source_release: https://cursor.com/changelog/canvas-improvements
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -51,7 +51,7 @@ record:
     theme: file-data
   theme_resolution: manual-semantic-rule-v1
   title: Cursor can now show your agent's context usage as an interactive report in
-    a can
+    a canvas
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-11-cursor-automatically-picks-the-right-repository-and-model-based-on-your-prompt-a|cursor-2026-05-11-9965be]]'
@@ -61,11 +61,11 @@ source_release: '[[Releases/Cursor/cursor-2026-06-04-3-7-https-cursor-com-change
 source_type: cursor_changelog
 theme: context-window
 title: Cursor can now show your agent's context usage as an interactive report in
-  a can
+  a canvas
 type: change
 ---
 
-# Cursor can now show your agent's context usage as an interactive report in a can
+# Cursor can now show your agent's context usage as an interactive report in a canvas
 
 <!-- chronolog:begin region="description" -->
 Cursor — Canvas Design Mode and Context Usage Report: Cursor can now show your agent's context usage as an interactive report in a canvas.

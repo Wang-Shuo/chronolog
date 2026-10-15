@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 99d43d0c38138b03d0dc550804825c21d21f82e9c7242026289cb24b23ec3d84
+machine_hash: a9f22e0091286e0bcc6196a6ce4c407b147c1aa0c2e7b04d7a0835b1ca5005ea
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Added mouse click support to select menus (permission prompts, `/model`,
       `/config`, etc.) in fullscreen mode
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.187
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -46,8 +46,7 @@ record:
     score: 50
     theme: model-support
   theme_resolution: manual-semantic-rule-v2
-  title: Added mouse click support to select menus (permission prompts, `/model`,
-    `/confi
+  title: Added mouse click support to select menus…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-15-added-tool-param-value-syntax-for-permission-rules-to-match-a-tool-s-input-param|claude-code-2026-06-15-47194d]]'
@@ -56,11 +55,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-23-v2-1-187-github-343665388-744f9775|claude-code-2026-06-23-v2-1-187-github-343665388-744f9775]]'
 source_type: github_releases
 theme: safety-privacy
-title: Added mouse click support to select menus (permission prompts, /model, /confi
+title: Added mouse click support to select menus…
 type: change
 ---
 
-# Added mouse click support to select menus (permission prompts, `/model`, `/confi
+# Added mouse click support to select menus…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.187: Added mouse click support to select menus (permission prompts, `/model`, `/config`, etc.) in fullscreen mode

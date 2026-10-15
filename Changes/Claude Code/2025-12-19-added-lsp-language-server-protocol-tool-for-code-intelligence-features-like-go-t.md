@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 769eb9aa235dfd7c8aa7be53c3786d251efe891f59624e0b14e94872a79c0056
+machine_hash: 76b01e56dff863287570f7ee8ba426097ab8b0e00e1d849516e515626e0773d5
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added LSP (Language Server Protocol) tool for code intelligence features
       like go-to-definition, find references, and hover documentation
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.0.74
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,7 +35,7 @@ record:
   source_type: github_releases
   theme: developer-workflow
   title: Added LSP (Language Server Protocol) tool for code intelligence features
-    like go
+    like…
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-09-12-we-ve-been-using-them-for-running-linters-fixing-compile-errors-and-creating-prs|cursor-2025-09-12-e25abe]]'
@@ -44,12 +44,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2025-12-19-v2-0-74-github-271886909-2070ef10|claude-code-2025-12-19-v2-0-74-github-271886909-2070ef10]]'
 source_type: github_releases
 theme: developer-workflow
-title: Added LSP (Language Server Protocol) tool for code intelligence features like
-  go
+title: Added LSP (Language Server Protocol) tool for code intelligence features like…
 type: change
 ---
 
-# Added LSP (Language Server Protocol) tool for code intelligence features like go
+# Added LSP (Language Server Protocol) tool for code intelligence features like…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.0.74: Added LSP (Language Server Protocol) tool for code intelligence features like go-to-definition, find references, and hover documentation

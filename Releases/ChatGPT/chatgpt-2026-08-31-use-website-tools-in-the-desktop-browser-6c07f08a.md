@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2026-08-31'
-machine_hash: 7ea08e7e3df471c2d7b7cd5d4984a5f056f096d2914f7c7e35fe8af56acd271a
+machine_hash: 1af6ad3db7dc41176d26aa06159c7c94317f8da6ac244db9b5fbb40a058c9a95
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,6 +39,6 @@ Tracked cards: 2
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- mobile-desktop: [[Changes/ChatGPT/2026-08-31-chatgpt-work-and-codex-can-now-use-tools-that-supported-websites-provide-directl|ChatGPT Work and Codex can now use tools that supported websites provide directl]]
-- mobile-desktop: [[Changes/ChatGPT/2026-08-31-site-tools-use-webmcp-and-require-a-supported-account-model-and-webpage-they-are|Site tools use WebMCP and require a supported account, model, and webpage. They]]
+- mobile-desktop: [[Changes/ChatGPT/2026-08-31-chatgpt-work-and-codex-can-now-use-tools-that-supported-websites-provide-directl|ChatGPT Work and Codex can now use tools that supported websites provide directly…]]
+- mobile-desktop: [[Changes/ChatGPT/2026-08-31-site-tools-use-webmcp-and-require-a-supported-account-model-and-webpage-they-are|Site tools use WebMCP and require a supported account, model, and webpage]]
 <!-- chronolog:end -->

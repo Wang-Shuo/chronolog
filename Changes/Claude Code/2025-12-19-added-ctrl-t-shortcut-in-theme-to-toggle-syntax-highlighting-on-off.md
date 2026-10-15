@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ab0bb249d5c75c0d47953466ff8ffc5dda9839c5bf7a41bdb67bc05ac144649f
+machine_hash: d68bdae775279e20d2d56e8f50fbfdc2299389d95508dddca47b55a3c83db03b
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Added ctrl+t shortcut in `/theme` to toggle syntax highlighting on/off
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.0.74
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

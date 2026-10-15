@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 064c478e342c131f4932b821795b18e638b42dc0beaf40aeaa3d55e86273fcaf
+machine_hash: 9510b320c89fd29be3d8fe6f6f01aa5118c5f5e0d4934e8398b456cc3312381f
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Reduced layout jitter in the terminal when the spinner appears and disappears
       during streaming
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.31
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,7 +35,7 @@ record:
   source_type: github_releases
   theme: developer-workflow
   title: Reduced layout jitter in the terminal when the spinner appears and disappears
-    du
+    during…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-30-added-tool-call-failures-and-denials-to-debug-logs|claude-code-2026-01-30-aab171]]'
@@ -45,11 +45,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-02-04-v2-1-31-github-28
 source_type: github_releases
 theme: developer-workflow
 title: Reduced layout jitter in the terminal when the spinner appears and disappears
-  du
+  during…
 type: change
 ---
 
-# Reduced layout jitter in the terminal when the spinner appears and disappears du
+# Reduced layout jitter in the terminal when the spinner appears and disappears during…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.31: Reduced layout jitter in the terminal when the spinner appears and disappears during streaming

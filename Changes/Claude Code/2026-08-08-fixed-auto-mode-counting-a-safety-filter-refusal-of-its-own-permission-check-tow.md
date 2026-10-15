@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: a11c35ead1bd60428e304e07459eb19b5bdf8c1ae436dd6e1abe7b353bf46db2
+machine_hash: 94ceaee0971d7a7309158ba69894a73a56b2d7795459eb3755a0a7956a8567f9
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       check toward the consecutive-block limit; the action is still denied, but the
       model is now told to move on rather than retry
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.225
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -53,7 +53,7 @@ record:
     theme: safety-privacy
   theme_resolution: manual-semantic-rule-v2
   title: Fixed auto mode counting a safety-filter refusal of its own permission check
-    tow
+    toward…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-06-fixed-a-bash-permission-bypass-where-a-crafted-command-could-hide-parts-of-itsel|claude-code-2026-08-06-4346f9]]'
@@ -63,11 +63,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-08-08-v2-1-225-github-3
 source_type: github_releases
 theme: safety-privacy
 title: Fixed auto mode counting a safety-filter refusal of its own permission check
-  tow
+  toward…
 type: change
 ---
 
-# Fixed auto mode counting a safety-filter refusal of its own permission check tow
+# Fixed auto mode counting a safety-filter refusal of its own permission check toward…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.225: Fixed auto mode counting a safety-filter refusal of its own permission check toward the consecutive-block limit; the action is still denied, but the model is now told to move on rather than retry

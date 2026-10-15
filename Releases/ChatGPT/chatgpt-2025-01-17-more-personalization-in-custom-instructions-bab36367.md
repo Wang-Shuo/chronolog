@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-01-17'
-machine_hash: e5ad43023a17b73d68e51d94cad15849897e03862e9703fc5b4ddc84bfb9401e
+machine_hash: 99d59ace327f82cad9a26c9dfd3d086abe9e1c224965d7aa47d8e850af521816
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- mobile-desktop: [[Changes/ChatGPT/2025-01-17-we-ve-updated-custom-instructions-to-make-it-easier-to-customize-how-chatgpt-res-e42760|We've updated custom instructions to make it easier to customize how ChatGPT res]]
+- mobile-desktop: [[Changes/ChatGPT/2025-01-17-we-ve-updated-custom-instructions-to-make-it-easier-to-customize-how-chatgpt-res-e42760|ChatGPT updates custom instructions to make it easier to customize how ChatGPT…]]
 <!-- chronolog:end -->

@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: b299d93165e17f666a5d5c6031855602c3aa79a0078eb09f172ce3b7777dfbfb
+machine_hash: 918055b524bc753cc88ab0f169ffdbbc99786659d621aa47c165eb21a3de967a
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Fixed Shift+Tab inside the permission prompt's comment field approving
       the edit and granting session-wide edit permission instead of closing the field
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.235
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,7 +38,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: Fixed Shift+Tab inside the permission prompt's comment field approving the
-    edit
+    edit…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-08-fixed-auto-mode-counting-a-safety-filter-refusal-of-its-own-permission-check-tow|claude-code-2026-08-08-f19c8f]]'
@@ -48,11 +48,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-08-18-v2-1-235-github-3
 source_type: github_releases
 theme: safety-privacy
 title: Fixed Shift+Tab inside the permission prompt's comment field approving the
-  edit
+  edit…
 type: change
 ---
 
-# Fixed Shift+Tab inside the permission prompt's comment field approving the edit
+# Fixed Shift+Tab inside the permission prompt's comment field approving the edit…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.235: Fixed Shift+Tab inside the permission prompt's comment field approving the edit and granting session-wide edit permission instead of closing the field

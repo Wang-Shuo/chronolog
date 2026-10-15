@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4cdb3993c8a9a1e58676d376e3d629a425ce325a3fa6dd85c7f474b0634e6e13
+machine_hash: fa84c65eee49e67c4116153ef37164b645aa203ec1189552333f95467460b274
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: ChatGPT Work and Codex can now use tools that supported websites provide
       directly in the desktop app’s built-in browser.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -36,7 +36,7 @@ record:
   source_type: chatgpt_changelog
   theme: mobile-desktop
   title: ChatGPT Work and Codex can now use tools that supported websites provide
-    directl
+    directly…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-08-28-available-globally-on-supported-plus-pro-business-and-enterprise-plans-across-we|chatgpt-2026-08-28-0e57c7]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-31-use-website-tools-in-the-desktop-browser-6c07f08a|chatgpt-2026-08-31-use-website-tools-in-the-desktop-browser-6c07f08a]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: ChatGPT Work and Codex can now use tools that supported websites provide directl
+title: ChatGPT Work and Codex can now use tools that supported websites provide directly…
 type: change
 ---
 
-# ChatGPT Work and Codex can now use tools that supported websites provide directl
+# ChatGPT Work and Codex can now use tools that supported websites provide directly…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Use website tools in the desktop browser: ChatGPT Work and Codex can now use tools that supported websites provide directly in the desktop app’s built-in browser.

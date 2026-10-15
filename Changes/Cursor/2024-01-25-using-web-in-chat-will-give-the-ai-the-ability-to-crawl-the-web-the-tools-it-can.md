@@ -11,9 +11,9 @@ diffusion:
   theme: search-browsing
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9f856d94022d8d87c2f6a001a191f2c55ebdbb2ab3aa0b7f193f86c74389aa4a
+machine_hash: 0410e791673beeb942c36c97306ae77bc955338e703768713ab9cbd0ecb5dbc6
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Using @Web in chat will give the AI the ability to crawl the web! The tools
       it can use include a search engine and a documentation site crawler.
     source_release: https://cursor.com/changelog/0-24-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,8 +37,7 @@ record:
   theme: search-browsing
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Using @Web in chat will give the AI the ability to crawl the web! The tools
-    it c
+  title: Using @Web in chat will give the AI the ability to crawl the web!
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-06-22-search-history-improvements-tapping-on-a-search-result-takes-you-directly-to-the|chatgpt-2023-06-22-8758f2]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-01-25-0-24-x-https-cursor-com-changelog-0-24-x-c3b46238|cursor-2024-01-25-0-24-x-https-cursor-com-changelog-0-24-x-c3b46238]]'
 source_type: cursor_changelog
 theme: search-browsing
-title: Using @Web in chat will give the AI the ability to crawl the web! The tools
-  it c
+title: Using @Web in chat will give the AI the ability to crawl the web!
 type: change
 ---
 
-# Using @Web in chat will give the AI the ability to crawl the web! The tools it c
+# Using @Web in chat will give the AI the ability to crawl the web!
 
 <!-- chronolog:begin region="description" -->
 Cursor — @Web, gpt-4-0125-preview: Using @Web in chat will give the AI the ability to crawl the web! The tools it can use include a search engine and a documentation site crawler.

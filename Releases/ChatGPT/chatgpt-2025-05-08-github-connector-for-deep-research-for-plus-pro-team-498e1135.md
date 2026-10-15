@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-05-08'
-machine_hash: dd70d643562a57f5bc13c8141dc3031b9d73efa37f46c5ed4faa5b227959eef3
+machine_hash: b174548abb3887b102bf50c6a145344b3bf777f29bdda250bbe9ad4478a14898
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- search-browsing: [[Changes/ChatGPT/2025-05-08-chatgpt-deep-research-with-github-is-available-globally-to-team-users-it-is-also-ad2e25|ChatGPT deep research with GitHub is available globally to Team users. It is als]]
+- search-browsing: [[Changes/ChatGPT/2025-05-08-chatgpt-deep-research-with-github-is-available-globally-to-team-users-it-is-also-ad2e25|ChatGPT deep research with GitHub is available globally to Team users]]
 <!-- chronolog:end -->

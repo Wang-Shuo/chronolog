@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: c062adb8daa58aa6abcd12653dd2f2f2dcfca3e417b27cee28c3f47d18f07454
+machine_hash: c95fa42a6c0447e506dba6dff2b7a5253472849a56bf1e504c1aad97b29f4a20
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       when idle, are restarted in place to apply Claude Code updates, and are shed
       under memory pressure only after non-pinned sessions
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.147
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -47,7 +47,7 @@ record:
     theme: agent-mode
   theme_resolution: manual-semantic-rule-v2
   title: Pinned background sessions (`Ctrl+T` in `claude agents`) now stay alive when
-    idl
+    idle…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-21-improved-auto-updater-reliability-native-version-checks-and-downloads-now-retry|claude-code-2026-05-21-279dd2]]'
@@ -56,11 +56,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-21-v2-1-147-github-327133263-73928fcd|claude-code-2026-05-21-v2-1-147-github-327133263-73928fcd]]'
 source_type: github_releases
 theme: reliability-performance
-title: Pinned background sessions (Ctrl+T in claude agents) now stay alive when idl
+title: Pinned background sessions (Ctrl+T in claude agents) now stay alive when idle…
 type: change
 ---
 
-# Pinned background sessions (`Ctrl+T` in `claude agents`) now stay alive when idl
+# Pinned background sessions (`Ctrl+T` in `claude agents`) now stay alive when idle…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.147: Pinned background sessions (`Ctrl+T` in `claude agents`) now stay alive when idle, are restarted in place to apply Claude Code updates, and are shed under memory pressure only after non-pinned sessions

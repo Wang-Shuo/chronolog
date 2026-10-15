@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5d748221433ac9266e71a95027a759ba51037cc421d1f27a46de5a3ddc790270
+machine_hash: abe48c81f836e3e01b43f45e00d10af0d480a71362a1710133c24d8abdfccf4f
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `prompt.autocomplete`, an event a mod hooks to add its own rows to
       the prompt box's autocomplete list
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.292
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,7 +35,7 @@ record:
   source_type: github_releases
   theme: editor-experience
   title: Added `prompt.autocomplete`, an event a mod hooks to add its own rows to
-    the pro
+    the prompt…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-11-added-a-diff-of-the-files-a-bash-command-changed-to-the-bash-tool-result-when-th|claude-code-2026-09-11-250543]]'
@@ -45,11 +45,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-10-06-v2-1-292-github-4
 source_type: github_releases
 theme: editor-experience
 title: Added prompt.autocomplete, an event a mod hooks to add its own rows to the
-  pro
+  prompt…
 type: change
 ---
 
-# Added `prompt.autocomplete`, an event a mod hooks to add its own rows to the pro
+# Added `prompt.autocomplete`, an event a mod hooks to add its own rows to the prompt…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.292: Added `prompt.autocomplete`, an event a mod hooks to add its own rows to the prompt box's autocomplete list

@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ac963a7fe61e7a9098ef991347c9a5056eda3aa6264c2704995aa20b55418933
+machine_hash: 6b682ec2a5edbe232c9af5326fc005cdb99fc4d0df6768c843a437c731d09958
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Chat was failing on some non-git folders. That is now fixed.
     source_release: https://cursor.com/changelog/0-2-35
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,7 +35,7 @@ record:
   theme: developer-workflow
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Chat was failing on some non-git folders. That is now fixed.
+  title: Chat was failing on some non-git folders
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-05-17-press-cmd-d-to-auto-debug-a-terminal-error|cursor-2023-05-17-d21a52]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-06-24-0-2-35-https-cursor-com-changelog-0-2-35-13776559|cursor-2023-06-24-0-2-35-https-cursor-com-changelog-0-2-35-13776559]]'
 source_type: cursor_changelog
 theme: developer-workflow
-title: Chat was failing on some non-git folders. That is now fixed.
+title: Chat was failing on some non-git folders
 type: change
 ---
 
-# Chat was failing on some non-git folders. That is now fixed.
+# Chat was failing on some non-git folders
 
 <!-- chronolog:begin region="description" -->
 Cursor — Hotfix for Chat: Chat was failing on some non-git folders. That is now fixed.

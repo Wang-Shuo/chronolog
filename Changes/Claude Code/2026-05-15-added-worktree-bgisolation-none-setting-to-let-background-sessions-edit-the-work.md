@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 17155a35b9ce112c5dc5b6ad28de26ee4bcfdc29a22e935afdd2cb71b3a5581d
+machine_hash: 77af141051b26dcc514e7ac96ec09a10cb29c6da9adddd671fa84b0ce5f66266
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       edit the working copy directly without `EnterWorktree`, for repos where worktrees
       are impractical'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.143
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   source_type: github_releases
   theme: developer-workflow
   title: 'Added `worktree.bgIsolation: "none"` setting to let background sessions
-    edit the'
+    edit…'
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-07-this-release-introduces-a-new-pr-review-experience-faster-execution-on-plans-thr|cursor-2026-05-07-f07eb6]]'
@@ -46,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c|claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c]]'
 source_type: github_releases
 theme: developer-workflow
-title: 'Added worktree.bgIsolation: "none" setting to let background sessions edit
-  the'
+title: 'Added worktree.bgIsolation: "none" setting to let background sessions edit…'
 type: change
 ---
 
-# Added `worktree.bgIsolation: "none"` setting to let background sessions edit the
+# Added `worktree.bgIsolation: "none"` setting to let background sessions edit…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.143: Added `worktree.bgIsolation: "none"` setting to let background sessions edit the working copy directly without `EnterWorktree`, for repos where worktrees are impractical

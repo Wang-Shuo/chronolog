@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: fc92b6c614b7a02e912e9cc87d920a45314343a9f291d7939e9ffb86f5263c1b
+machine_hash: 0e4bd7f3b388603e0aae046387aebe9993a81cd987b781bb98aa133fd9389d6f
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Added `autoCompactWindow` to subagent frontmatter and `--agents` definitions,
       so a subagent can auto-compact earlier than the main conversation's window
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.296
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,8 +37,7 @@ record:
   theme: context-window
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Added `autoCompactWindow` to subagent frontmatter and `--agents` definitions,
-    so
+  title: Added `autoCompactWindow` to subagent frontmatter and `--agents` definitions…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-04-added-skill-doctor-to-show-which-loaded-skills-go-unused-and-what-they-cost-in-c|claude-code-2026-09-04-b7c741]]'
@@ -47,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a|claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a]]'
 source_type: github_releases
 theme: context-window
-title: Added autoCompactWindow to subagent frontmatter and --agents definitions, so
+title: Added autoCompactWindow to subagent frontmatter and --agents definitions…
 type: change
 ---
 
-# Added `autoCompactWindow` to subagent frontmatter and `--agents` definitions, so
+# Added `autoCompactWindow` to subagent frontmatter and `--agents` definitions…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.296: Added `autoCompactWindow` to subagent frontmatter and `--agents` definitions, so a subagent can auto-compact earlier than the main conversation's window

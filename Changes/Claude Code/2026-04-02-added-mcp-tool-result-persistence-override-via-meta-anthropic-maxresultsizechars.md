@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f6f79c58db85bb56b1f12c07e185d679db24415be634a4074ceab45f1f8d9063
+machine_hash: 4d49a2ae3870fa13091bef6aebfd6851e3125b760e8d4136c9b85a3450c47f8f
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       annotation (up to 500K), allowing larger results like DB schemas to pass through
       without truncation
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.91
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,7 +36,7 @@ record:
   source_release: claude-code-2026-04-02-v2-1-91-github-304899951-a56266fc
   source_type: github_releases
   theme: apps-integrations
-  title: Added MCP tool result persistence override via `_meta["anthropic/maxResultSizeCh
+  title: Added MCP tool result persistence override…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-01-added-mcp-connection-nonblocking-true-for-p-mode-to-skip-the-mcp-connection-wait|claude-code-2026-04-01-210067]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-02-v2-1-91-github-304899951-a56266fc|claude-code-2026-04-02-v2-1-91-github-304899951-a56266fc]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added MCP tool result persistence override via meta"anthropic/maxResultSizeCh
+title: Added MCP tool result persistence override…
 type: change
 ---
 
-# Added MCP tool result persistence override via `_meta["anthropic/maxResultSizeCh
+# Added MCP tool result persistence override…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.91: Added MCP tool result persistence override via `_meta["anthropic/maxResultSizeChars"]` annotation (up to 500K), allowing larger results like DB schemas to pass through without truncation

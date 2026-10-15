@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-07-13'
-machine_hash: f104092066b7d2d151f1d845d09f70a3c25217f1cc3e3b66e2a525fdb6d021e3
+machine_hash: ef63457810fb4cea7e4ba6525fa4f6ecafd2ca4659522778e2b8508fd5d5cb3a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- voice: [[Changes/ChatGPT/2026-07-13-chatgpt-is-available-again-on-whatsapp-in-the-european-economic-area-eea-you-can-f60c71|ChatGPT is available again on WhatsApp in the European Economic Area (EEA). You]]
+- voice: [[Changes/ChatGPT/2026-07-13-chatgpt-is-available-again-on-whatsapp-in-the-european-economic-area-eea-you-can-f60c71|ChatGPT is available again on WhatsApp in the European Economic Area (EEA)]]
 <!-- chronolog:end -->

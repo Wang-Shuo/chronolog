@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2026-06-10'
-machine_hash: 5ceb00a28af4ad76827df9995083864821e047016e59bfc990e9e34e58580cea
+machine_hash: e4ac453e06ad63d767c0cbd0d049dd3a9e517104ec21c294a6ef0f130dda7a62
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,7 +42,7 @@ Tracked cards: 5
 <!-- chronolog:begin region="cards" -->
 - model-support: [[Changes/ChatGPT/2026-06-10-pro-extended-pro-plans-only|Pro Extended Pro plans only]]
 - model-support: [[Changes/ChatGPT/2026-06-10-extra-high-pro-plans-only|Extra High Pro plans only]]
-- mobile-desktop: [[Changes/ChatGPT/2026-06-10-on-ios-and-android-you-can-find-the-picker-at-the-top-of-the-conversation-on-web|On iOS and Android, you can find the picker at the top of the conversation. On w]]
-- interface-experience: [[Changes/ChatGPT/2026-06-10-we-re-updating-the-model-picker-to-make-it-easier-to-choose-the-balance-of-speed|We’re updating the model picker to make it easier to choose the balance of speed]]
+- mobile-desktop: [[Changes/ChatGPT/2026-06-10-on-ios-and-android-you-can-find-the-picker-at-the-top-of-the-conversation-on-web|On iOS and Android, you can find the picker at the top of the conversation]]
+- interface-experience: [[Changes/ChatGPT/2026-06-10-we-re-updating-the-model-picker-to-make-it-easier-to-choose-the-balance-of-speed|We’re updating the model picker to make it easier to choose the balance of speed…]]
 - model-support: [[Changes/ChatGPT/2026-06-10-pro-standard-pro-plans-only|Pro Standard Pro plans only]]
 <!-- chronolog:end -->

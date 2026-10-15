@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 27e66c9f8ed1e1c90a7b3be83bce8b036d99b72e68e9d20859a4c55ab4b1c15e
+machine_hash: 1712330a9b61630e8e29e98dc6bf007abc1522e52ff9198c80a5064ef68bf3e6
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
       and hooks at the user, team, or workspace level, and even bring your own custom
       MCPs.
     source_release: https://cursor.com/changelog/customize
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -50,8 +50,7 @@ record:
     score: 50
     theme: collaboration
   theme_resolution: manual-semantic-rule-v1
-  title: You can now add and manage plugins, skills, MCPs, subagents, rules, commands,
-    an
+  title: Add and manage plugins, skills, MCPs, subagents, rules, commands, and hooks…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-17-added-config-key-value-syntax-to-set-any-setting-from-the-prompt-e-g-config-thin|claude-code-2026-06-17-32b61f]]'
@@ -60,12 +59,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-06-22-3-9-https-cursor-com-changelog-customize-7ff4b6b2|cursor-2026-06-22-3-9-https-cursor-com-changelog-customize-7ff4b6b2]]'
 source_type: cursor_changelog
 theme: apps-integrations
-title: You can now add and manage plugins, skills, MCPs, subagents, rules, commands,
-  an
+title: Add and manage plugins, skills, MCPs, subagents, rules, commands, and hooks…
 type: change
 ---
 
-# You can now add and manage plugins, skills, MCPs, subagents, rules, commands, an
+# Add and manage plugins, skills, MCPs, subagents, rules, commands, and hooks…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Customize Cursor: You can now add and manage plugins, skills, MCPs, subagents, rules, commands, and hooks at the user, team, or workspace level, and even bring your own custom MCPs.

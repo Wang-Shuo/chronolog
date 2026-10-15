@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2026-10-01'
-machine_hash: d8766dc9c1a382b301723cc545c96fe9b875f9215948820459edb4ed484a3f5e
+machine_hash: b39172473a04433f384ce1d244c98a43858f0f296cb66ae8a541a39524e8ca3d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,6 +39,6 @@ Tracked cards: 2
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- memory: [[Changes/ChatGPT/2026-10-01-virtually-try-on-clothing-and-accessories-a-try-on-button-will-appear-on-product|Virtually try on clothing and accessories: A “Try on” button will appear on prod]]
-- mobile-desktop: [[Changes/ChatGPT/2026-10-01-available-in-chatgpt-on-mobile-and-web|Available in ChatGPT on mobile and web.]]
+- memory: [[Changes/ChatGPT/2026-10-01-virtually-try-on-clothing-and-accessories-a-try-on-button-will-appear-on-product|Virtually try on clothing and accessories]]
+- mobile-desktop: [[Changes/ChatGPT/2026-10-01-available-in-chatgpt-on-mobile-and-web|Available in ChatGPT on mobile and web]]
 <!-- chronolog:end -->

@@ -1,7 +1,7 @@
 ---
 changes_count: 4
 date: '2023-07-03'
-machine_hash: af6b4ac10b02889cb77d5531001d22887f6237639f74fe4e4573fda616450f85
+machine_hash: 3ac4c7ee5a920385f865b47a9d21c06e5d2535543b569f380b66f59692eecfe8
 product: cursor
 product_name: Cursor
 record:
@@ -39,7 +39,7 @@ Tracked cards: 4
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
 - editor-experience: [[Changes/Cursor/2023-07-03-long-code-selections-no-longer-brick-the-editor|Long code selections no longer brick the editor]]
-- editor-experience: [[Changes/Cursor/2023-07-03-cmd-k-s-ui-has-been-changed-it-s-in-editor-sticky-and-symbol-compatible|Cmd+K's UI has been changed: it's in-editor, "sticky," and @-symbol-compatible.]]
+- editor-experience: [[Changes/Cursor/2023-07-03-cmd-k-s-ui-has-been-changed-it-s-in-editor-sticky-and-symbol-compatible|Cmd+K's UI has been changed: it's in-editor, "sticky," and @-symbol-compatible]]
 - interface-experience: [[Changes/Cursor/2023-07-03-also-you-can-now-use-up-down-arrows-for-history-in-chat|(Also, you can now use up/down arrows for history in chat.)]]
-- apps-integrations: [[Changes/Cursor/2023-07-03-also-cursor-s-ai-will-now-use-popular-documentation-to-improve-the-answers-to-yo|Also, Cursor's AI will now use popular documentation to improve the answers to y]]
+- apps-integrations: [[Changes/Cursor/2023-07-03-also-cursor-s-ai-will-now-use-popular-documentation-to-improve-the-answers-to-yo|Also, Cursor's AI will now use popular documentation to improve the answers…]]
 <!-- chronolog:end -->

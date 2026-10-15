@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: b358d3a05b35417621ff9aade57d66c2a3f35794d3a0ee3080a7bd0ad59f08b4
+machine_hash: 633dc63e77505e6eeec03a540d127f7e74b5e045ddcf2beeb27a4fd4b794940a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -36,7 +36,7 @@ record:
       limit that is up to 5x greater than free users, and Team and Enterprise users
       will have even higher limits.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -72,8 +72,7 @@ record:
     score: 50
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v2
-  title: GPT-4o is our newest flagship model that provides GPT-4-level intelligence
-    that
+  title: GPT-4o is our newest flagship model that provides GPT-4-level intelligence…
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-03-12-if-you-re-a-pro-or-business-user-you-can-add-claude-3-opus-as-a-custom-model-in|cursor-2024-03-12-33a1e3]]'
@@ -82,12 +81,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2024-05-13-introducing-gpt-4o-0a0709f8|chatgpt-2024-05-13-introducing-gpt-4o-0a0709f8]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: GPT-4o is our newest flagship model that provides GPT-4-level intelligence
-  that
+title: GPT-4o is our newest flagship model that provides GPT-4-level intelligence…
 type: change
 ---
 
-# GPT-4o is our newest flagship model that provides GPT-4-level intelligence that
+# GPT-4o is our newest flagship model that provides GPT-4-level intelligence…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Introducing GPT-4o: GPT-4o is our newest flagship model that provides GPT-4-level intelligence that is much faster and improves on its capabilities across text, voice, and vision. Currently, only the new text and image capabilities have been rolled out. You can read more about the announcement here.Plus users will have a message limit that is up to 5x greater than free users, and Team and Enterprise users will have even higher limits.

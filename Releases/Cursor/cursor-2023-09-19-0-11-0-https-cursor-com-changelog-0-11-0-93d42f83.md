@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-09-19'
-machine_hash: 05e19600d8dad150580d1504d377922f57facb6c6edd5200748d41a1f0d282a6
+machine_hash: e2698c0ae23663169e5d07382755fdc6f8326b9982d016360e6a2a64722029c7
 product: cursor
 product_name: Cursor
 record:
@@ -40,5 +40,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- editor-experience: [[Changes/Cursor/2023-09-19-you-can-now-alternate-between-diffs-and-texts-responses-in-cmd-k-this-can-be-hel|You can now alternate between diffs and texts responses in Cmd-K. This can be he]]
+- editor-experience: [[Changes/Cursor/2023-09-19-you-can-now-alternate-between-diffs-and-texts-responses-in-cmd-k-this-can-be-hel|Alternate between diffs and texts responses in Cmd-K]]
 <!-- chronolog:end -->

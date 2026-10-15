@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: fa42e3933cda39ab3c2b18bf7c3bd3326aedffb930c2d9e0541b54b55ae757c3
+machine_hash: f0411f349c3b4a0643b4bb334e5742dec3c4fe74d8dba2af8bb247fe637cb47d
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       JSON files in `~/.claude/themes/`; plugins can also ship themes via a `themes/`
       directory
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.118
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   source_type: github_releases
   theme: apps-integrations
   title: Create and switch between named custom themes from `/theme`, or hand-edit
-    JSON f
+    JSON files…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-13-added-precompact-hook-support-hooks-can-now-block-compaction-by-exiting-with-cod|claude-code-2026-04-13-cf1492]]'
@@ -47,11 +47,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-04-23-v2-1-118-github-3
 source_type: github_releases
 theme: apps-integrations
 title: Create and switch between named custom themes from /theme, or hand-edit JSON
-  f
+  files…
 type: change
 ---
 
-# Create and switch between named custom themes from `/theme`, or hand-edit JSON f
+# Create and switch between named custom themes from `/theme`, or hand-edit JSON files…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.118: Create and switch between named custom themes from `/theme`, or hand-edit JSON files in `~/.claude/themes/`; plugins can also ship themes via a `themes/` directory

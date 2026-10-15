@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-12-18'
-machine_hash: 39abf43ef5218a87b9cd32f65b6cec86f71e56c322fae7e10168f55eeca57383
+machine_hash: aa781aa6a2e1a9abb309e7dc6cf05d445fb15167ae6a991d1e04c91eae86a57b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- apps-integrations: [[Changes/ChatGPT/2025-12-18-you-can-now-browse-and-add-approved-apps-in-the-new-app-directory-apps-let-you-w|You can now browse and add approved apps in the new app directory. Apps let you]]
+- apps-integrations: [[Changes/ChatGPT/2025-12-18-you-can-now-browse-and-add-approved-apps-in-the-new-app-directory-apps-let-you-w|Browse and add approved apps in the new app directory]]
 <!-- chronolog:end -->

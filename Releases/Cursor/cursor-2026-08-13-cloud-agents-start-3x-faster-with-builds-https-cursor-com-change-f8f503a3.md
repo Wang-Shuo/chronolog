@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2026-08-13'
-machine_hash: f010bdfc19ac13172b9b52e78ae9c6eedd5f64fff97dde4dcdcabb0b727ca32d
+machine_hash: bee3f6cd374f4bd96838ad9da1f700178e770b40d3d5345d9cc5ef328114a9d4
 product: cursor
 product_name: Cursor
 record:
@@ -39,9 +39,9 @@ Tracked cards: 5
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- agent-mode: [[Changes/Cursor/2026-08-13-this-release-introduces-builds-ready-to-use-copies-of-your-development-environme|This release introduces builds: ready-to-use copies of your development environm]]
-- agent-mode: [[Changes/Cursor/2026-08-13-cursor-runs-a-new-build-of-your-environment-regularly-when-a-build-succeeds-it-b|Cursor runs a new build of your environment regularly. When a build succeeds, it]]
-- agent-mode: [[Changes/Cursor/2026-08-13-agents-do-their-best-work-when-they-start-in-a-ready-environment-repos-cloned-de|Agents do their best work when they start in a ready environment: repos cloned,]]
-- agent-mode: [[Changes/Cursor/2026-08-13-when-a-bad-commit-or-dependency-update-breaks-your-environment-agents-keep-using|When a bad commit or dependency update breaks your environment, agents keep usin]]
-- agent-mode: [[Changes/Cursor/2026-08-13-use-your-install-command-for-anything-that-can-be-prepared-ahead-of-time-the-sta|Use your install command for anything that can be prepared ahead of time. The st]]
+- agent-mode: [[Changes/Cursor/2026-08-13-this-release-introduces-builds-ready-to-use-copies-of-your-development-environme|Cursor introduces builds]]
+- agent-mode: [[Changes/Cursor/2026-08-13-cursor-runs-a-new-build-of-your-environment-regularly-when-a-build-succeeds-it-b|Cursor runs a new build of your environment regularly]]
+- agent-mode: [[Changes/Cursor/2026-08-13-agents-do-their-best-work-when-they-start-in-a-ready-environment-repos-cloned-de|Agents do their best work when they start in a ready environment]]
+- agent-mode: [[Changes/Cursor/2026-08-13-when-a-bad-commit-or-dependency-update-breaks-your-environment-agents-keep-using|When a bad commit or dependency update breaks your environment, agents keep using…]]
+- agent-mode: [[Changes/Cursor/2026-08-13-use-your-install-command-for-anything-that-can-be-prepared-ahead-of-time-the-sta|Use your install command for anything that can be prepared ahead of time]]
 <!-- chronolog:end -->

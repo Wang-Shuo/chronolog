@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-09-17'
-machine_hash: 0f0dc832401bdacaca15de13bd0d4c79d53bae8cd3aa34e86eeaded7d59219cb
+machine_hash: 89c0fa06706231efee657abe703bdac1afbcc7692572ccc9858c979d9ca628ad
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- mobile-desktop: [[Changes/ChatGPT/2026-09-17-you-can-now-connect-multiple-accounts-to-plugins-in-chatgpt-expanding-support-be|You can now connect multiple accounts to plugins in ChatGPT, expanding support b]]
+- mobile-desktop: [[Changes/ChatGPT/2026-09-17-you-can-now-connect-multiple-accounts-to-plugins-in-chatgpt-expanding-support-be|Connect multiple accounts to plugins in ChatGPT, expanding support beyond Gmail…]]
 <!-- chronolog:end -->

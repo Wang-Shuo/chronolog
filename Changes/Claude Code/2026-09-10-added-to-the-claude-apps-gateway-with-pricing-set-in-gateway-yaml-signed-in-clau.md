@@ -11,9 +11,9 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 091da736153dae4817ffa564be749dfc76a854622650131d17cb95c59f5d74ea
+machine_hash: 25bdec71d738c7f74d98fea00446efcfda14a195dab796db1fa96dabbda90d74
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       signed-in Claude Code clients receive the same rates through managed settings,
       so `/cost` and telemetry match the spend meter'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.268
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code
@@ -48,8 +48,7 @@ record:
     score: 50
     theme: pricing-model
   theme_resolution: manual-semantic-rule-v1
-  title: 'Added to the Claude apps gateway: with `pricing:` set in `gateway.yaml`,
-    signed-'
+  title: Added to the Claude apps gateway
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-07-29-research-rarely-happens-alone-chatgpt-for-academic-researchers-gives-faculty-and|chatgpt-2026-07-29-aad3b3]]'
@@ -58,11 +57,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848|claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848]]'
 source_type: github_releases
 theme: pricing-model
-title: 'Added to the Claude apps gateway: with pricing: set in gateway.yaml, signed-'
+title: Added to the Claude apps gateway
 type: change
 ---
 
-# Added to the Claude apps gateway: with `pricing:` set in `gateway.yaml`, signed-
+# Added to the Claude apps gateway
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.268: Added to the Claude apps gateway: with `pricing:` set in `gateway.yaml`, signed-in Claude Code clients receive the same rates through managed settings, so `/cost` and telemetry match the spend meter

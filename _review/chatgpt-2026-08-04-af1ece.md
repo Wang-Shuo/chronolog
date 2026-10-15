@@ -1,6 +1,6 @@
 ---
 draft: true
-machine_hash: 6bf5845230318c877a1a1aab6143b20956aa5832452c124c7e8700cc53914aa5
+machine_hash: 0211d7ce1025ef43d3018fe2e4d79e807883b24866f895fb40131bb5af5738dc
 product: chatgpt
 record:
   card_id: chatgpt-2026-08-04-af1ece
@@ -13,7 +13,7 @@ record:
   - quote: You can still move the content back into the message at any time by clicking
       on Show in text field to convert the attachment back to a direct paste.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -25,7 +25,7 @@ record:
   theme_review_reason: no_match
   theme_suggestion: you-can-still
   title: You can still move the content back into the message at any time by clicking
-    on
+    on Show…
   type: change
 ---
 

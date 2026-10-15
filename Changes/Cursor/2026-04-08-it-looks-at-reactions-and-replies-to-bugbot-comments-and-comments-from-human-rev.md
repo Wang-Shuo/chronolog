@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a80d327ac625a670a69047e8b3b645113156a6ec868d543c490704a7af6f3f1e
+machine_hash: 3f01ccc338e79eee84bb4fe3d7c17c4dabb2ffeebcc85a641d9e54df30c7a442
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
       human reviewers to create candidate rules. Bugbot automatically promotes the
       ones that accumulate signal and disables the ones that stop being useful.
     source_release: https://cursor.com/changelog/04-08-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -39,8 +39,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: It looks at reactions and replies to Bugbot comments and comments from human
-    rev
+  title: It looks at reactions and replies to Bugbot comments and comments from human…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-07-added-support-for-amazon-bedrock-powered-by-mantle-set-claude-code-use-mantle-1|claude-code-2026-04-07-53a5cf]]'
@@ -49,12 +48,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-04-08-bugbot-learned-rules-and-mcp-support-https-cursor-com-changelog-cba7cd11|cursor-2026-04-08-bugbot-learned-rules-and-mcp-support-https-cursor-com-changelog-cba7cd11]]'
 source_type: cursor_changelog
 theme: apps-integrations
-title: It looks at reactions and replies to Bugbot comments and comments from human
-  rev
+title: It looks at reactions and replies to Bugbot comments and comments from human…
 type: change
 ---
 
-# It looks at reactions and replies to Bugbot comments and comments from human rev
+# It looks at reactions and replies to Bugbot comments and comments from human…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Bugbot Learned Rules and MCP Support: It looks at reactions and replies to Bugbot comments and comments from human reviewers to create candidate rules. Bugbot automatically promotes the ones that accumulate signal and disables the ones that stop being useful.

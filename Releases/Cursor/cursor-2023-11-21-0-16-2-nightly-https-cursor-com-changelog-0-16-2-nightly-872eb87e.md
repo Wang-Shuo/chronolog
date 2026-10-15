@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-11-21'
-machine_hash: b30c6619cb948bb2f0c9a93b0458e5b792f713b31fa9273a47fb8db14089a058
+machine_hash: a9120c3a17db366cad3986d4361e8319f5f67079bd35a705f82b20cded998731
 product: cursor
 product_name: Cursor
 record:
@@ -40,5 +40,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- context-window: [[Changes/Cursor/2023-11-21-integrates-gpt-v-into-chat-for-the-editor-this-means-you-can-take-screenshots-im|Integrates GPT-V into chat for the editor. This means you can take screenshots/i]]
+- context-window: [[Changes/Cursor/2023-11-21-integrates-gpt-v-into-chat-for-the-editor-this-means-you-can-take-screenshots-im|Integrates GPT-V into chat for the editor]]
 <!-- chronolog:end -->

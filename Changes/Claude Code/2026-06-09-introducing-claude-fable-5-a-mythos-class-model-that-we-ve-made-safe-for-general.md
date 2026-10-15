@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: cdf32bfd33701c6e5cef3f70b069344f3738cf81db366dc84e5fa0bef4cc83bc
+machine_hash: af189be007872078e45104ca7b64a18e1cbbdd198399f09df9b42fa2d1975bda
 product: claude-code
 product_name: Claude Code
 record:
@@ -31,7 +31,7 @@ record:
       for general use. Fable’s capabilities exceed those of any model we’ve ever made
       generally available. Update to version 2.1.170 for access. https://www.anthropic.com/news/claude-fable-5-mythos-5'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.170
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -42,7 +42,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: 'Introducing Claude Fable 5: a Mythos-class model that we’ve made safe for
-    genera'
+    general use'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-06-claude-code-now-retries-a-turn-once-on-the-fallback-model-when-the-api-rejects-a|claude-code-2026-06-06-1aecaf]]'
@@ -52,11 +52,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-06-09-v2-1-170-github-3
 source_type: github_releases
 theme: model-support
 title: 'Introducing Claude Fable 5: a Mythos-class model that we’ve made safe for
-  genera'
+  general use'
 type: change
 ---
 
-# Introducing Claude Fable 5: a Mythos-class model that we’ve made safe for genera
+# Introducing Claude Fable 5: a Mythos-class model that we’ve made safe for general use
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.170: Introducing Claude Fable 5: a Mythos-class model that we’ve made safe for general use. Fable’s capabilities exceed those of any model we’ve ever made generally available. Update to version 2.1.170 for access. https://www.anthropic.com/news/claude-fable-5-mythos-5

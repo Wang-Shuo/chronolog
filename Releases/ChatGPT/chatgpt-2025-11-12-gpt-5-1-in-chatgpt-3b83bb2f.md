@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-11-12'
-machine_hash: fc00bd2eba60ecf34cbe9a1170ae6e704079075100a204616ced3686885a97ab
+machine_hash: ffbf086b84d1617393816f3bd8718b995b430065fba6e38f6e49bff129d06c81
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2025-11-12-we-re-updating-gpt-5-to-gpt-5-1-instant-and-gpt-5-1-thinking-making-answers-both-d702c4|We’re updating GPT-5 to GPT-5.1 Instant and GPT-5.1 Thinking, making answers bot]]
+- model-support: [[Changes/ChatGPT/2025-11-12-we-re-updating-gpt-5-to-gpt-5-1-instant-and-gpt-5-1-thinking-making-answers-both-d702c4|We’re updating GPT-5 to GPT-5.1 Instant and GPT-5.1 Thinking, making answers both…]]
 <!-- chronolog:end -->

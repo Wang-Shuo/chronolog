@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-09-17'
-machine_hash: b859768b3fbc70a19ca640cd3bf4d33c058ec99f2a2ebcd3917c8a174a51693d
+machine_hash: ada7fdea49a48340b93bb5ec559f95f6feefdeb3ab0be3bac621019846e384ef
 product: cursor
 product_name: Cursor
 record:
@@ -39,5 +39,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- apps-integrations: [[Changes/Cursor/2023-09-17-we-point-to-a-different-marketplace-for-downloading-extensions-and-use-a-fork-of|We point to a different marketplace for downloading extensions, and use a fork o]]
+- apps-integrations: [[Changes/Cursor/2023-09-17-we-point-to-a-different-marketplace-for-downloading-extensions-and-use-a-fork-of|We point to a different marketplace for downloading extensions, and use a fork…]]
 <!-- chronolog:end -->

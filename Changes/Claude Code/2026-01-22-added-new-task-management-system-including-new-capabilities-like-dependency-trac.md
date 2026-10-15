@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 5040a69ee3e74fe8bde82c22cf4ad9057babd6b3a68d54115a8d22e1f265ebcf
+machine_hash: ba6da455c8b8cd6c39108652dbdc710960589f5b8995bd700e14e17436bb4a08
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Added new task management system, including new capabilities like dependency
       tracking
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.16
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -39,7 +39,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: Added new task management system, including new capabilities like dependency
-    tra
+    tracking
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-16-added-session-url-attribution-to-commits-and-prs-created-from-web-sessions|claude-code-2026-01-16-205e7c]]'
@@ -49,11 +49,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-01-22-v2-1-16-github-27
 source_type: github_releases
 theme: developer-workflow
 title: Added new task management system, including new capabilities like dependency
-  tra
+  tracking
 type: change
 ---
 
-# Added new task management system, including new capabilities like dependency tra
+# Added new task management system, including new capabilities like dependency tracking
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.16: Added new task management system, including new capabilities like dependency tracking

@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2026-01-22'
-machine_hash: bcf189453d1dce51973afee989353d698e213777865250ac7f5809321201a0fd
+machine_hash: 814579f798aa6c8edab376e958ee634c60dbec22c10b46b403e1f5ff0b3a0acc
 product: cursor
 product_name: Cursor
 record:
@@ -40,9 +40,9 @@ Tracked cards: 5
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- agent-mode: [[Changes/Cursor/2026-01-22-cursor-includes-default-subagents-for-researching-your-codebase-running-terminal|Cursor includes default subagents for researching your codebase, running termina]]
+- agent-mode: [[Changes/Cursor/2026-01-22-cursor-includes-default-subagents-for-researching-your-codebase-running-terminal|Cursor includes default subagents for researching your codebase, running terminal…]]
 - agent-mode: [[Changes/Cursor/2026-01-22-agents-are-solving-increasingly-complex-long-running-tasks-across-your-codebase|Agents are solving increasingly complex, long-running tasks across your codebase]]
-- context-window: [[Changes/Cursor/2026-01-22-the-result-is-faster-overall-execution-more-focused-context-in-your-main-convers|The result is faster overall execution, more focused context in your main conver]]
-- agent-mode: [[Changes/Cursor/2026-01-22-optionally-you-can-define-custom-subagents-learn-more-in-our-docs|Optionally, you can define custom subagents. Learn more in our docs.]]
-- agent-mode: [[Changes/Cursor/2026-01-22-subagents-are-independent-agents-specialized-to-handle-discrete-parts-of-a-paren|Subagents are independent agents specialized to handle discrete parts of a paren]]
+- context-window: [[Changes/Cursor/2026-01-22-the-result-is-faster-overall-execution-more-focused-context-in-your-main-convers|The result is faster overall execution, more focused context in your main…]]
+- agent-mode: [[Changes/Cursor/2026-01-22-optionally-you-can-define-custom-subagents-learn-more-in-our-docs|Optionally, you can define custom subagents]]
+- agent-mode: [[Changes/Cursor/2026-01-22-subagents-are-independent-agents-specialized-to-handle-discrete-parts-of-a-paren|Subagents are independent agents specialized to handle discrete parts of a parent…]]
 <!-- chronolog:end -->

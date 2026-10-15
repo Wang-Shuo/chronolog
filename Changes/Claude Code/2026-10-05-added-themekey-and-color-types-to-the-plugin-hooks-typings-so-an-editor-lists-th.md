@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: baad1fe91258a853864bb671e4df6e905877e5e080bf9585790c10074145e5c4
+machine_hash: df1e145a82ffc9fffa557a7fdc72ecdd0904ab2aa9e8c83e8a536f89597a2b08
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Added `ThemeKey` and `Color` types to the plugin hooks typings, so an editor
       lists the theme colors a mod's drawing can name
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.290
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -46,7 +46,7 @@ record:
     theme: editor-experience
   theme_resolution: manual-semantic-rule-v1
   title: Added `ThemeKey` and `Color` types to the plugin hooks typings, so an editor
-    lis
+    lists…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-10-01-added-you-should-know-a-built-in-mod-where-a-side-agent-watches-your-back-and-fl|claude-code-2026-10-01-f8e19d]]'
@@ -55,11 +55,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-10-05-v2-1-290-github-403993621-ae06f2b6|claude-code-2026-10-05-v2-1-290-github-403993621-ae06f2b6]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added ThemeKey and Color types to the plugin hooks typings, so an editor lis
+title: Added ThemeKey and Color types to the plugin hooks typings, so an editor lists…
 type: change
 ---
 
-# Added `ThemeKey` and `Color` types to the plugin hooks typings, so an editor lis
+# Added `ThemeKey` and `Color` types to the plugin hooks typings, so an editor lists…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.290: Added `ThemeKey` and `Color` types to the plugin hooks typings, so an editor lists the theme colors a mod's drawing can name

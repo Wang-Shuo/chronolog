@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: c1c2f2bcaf0557794fdf42e170d8257e3f77c8130b9af779ab8ac33290020dd0
+machine_hash: 8894d9149cb90b8222bce97918c68b9e54025cb2d02c172d82d3401f7799cad5
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: We've added new and improved worktrees in the Agents Window.
     source_release: https://cursor.com/changelog/04-24-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -35,7 +35,7 @@ record:
   source_release: cursor-2026-04-24-3-2-https-cursor-com-changelog-04-24-26-9ab6a4bf
   source_type: cursor_changelog
   theme: agent-mode
-  title: We've added new and improved worktrees in the Agents Window.
+  title: Cursor adds new and improved worktrees in the Agents Window
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-04-24-this-release-introduces-a-new-way-to-multitask-with-async-subagents-an-improved|cursor-2026-04-24-462263]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-04-24-3-2-https-cursor-com-changelog-04-24-26-9ab6a4bf|cursor-2026-04-24-3-2-https-cursor-com-changelog-04-24-26-9ab6a4bf]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: We've added new and improved worktrees in the Agents Window.
+title: Cursor adds new and improved worktrees in the Agents Window
 type: change
 ---
 
-# We've added new and improved worktrees in the Agents Window.
+# Cursor adds new and improved worktrees in the Agents Window
 
 <!-- chronolog:begin region="description" -->
 Cursor — Multitask, Worktrees, and Multi-root Workspaces: We've added new and improved worktrees in the Agents Window.

@@ -11,9 +11,9 @@ diffusion:
   theme: file-data
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d532324cf27f2090609adc9c054109d0f4e0a0d3cc88f517177d472cac5023fc
+machine_hash: dc9603e5d65abac7f1ee993e6dcbd70dc29a4fa72ac2ce669ee58c9744eacf31
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
       using first-party components like tables, boxes, diagrams, and charts, as well
       as existing Cursor components like diffs and to-do lists.
     source_release: https://cursor.com/changelog/04-15-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -38,8 +38,7 @@ record:
   theme: file-data
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: These visualizations can include dashboards and custom interfaces built using
-    fi
+  title: These visualizations can include dashboards and custom interfaces built using…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-04-improved-pdf-and-request-size-error-messages-to-show-actual-limits-100-pages-20m|claude-code-2026-02-04-497470]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-04-15-canvases-https-cursor-com-changelog-04-15-26-cd056bf7|cursor-2026-04-15-canvases-https-cursor-com-changelog-04-15-26-cd056bf7]]'
 source_type: cursor_changelog
 theme: file-data
-title: These visualizations can include dashboards and custom interfaces built using
-  fi
+title: These visualizations can include dashboards and custom interfaces built using…
 type: change
 ---
 
-# These visualizations can include dashboards and custom interfaces built using fi
+# These visualizations can include dashboards and custom interfaces built using…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Canvases: These visualizations can include dashboards and custom interfaces built using first-party components like tables, boxes, diagrams, and charts, as well as existing Cursor components like diffs and to-do lists.

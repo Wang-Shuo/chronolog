@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 195b87fbeadd214fec5e0f9f2b62bb26b6f5a2c7cefaee58ffca774584ad60c8
+machine_hash: 2f3c1b260c94de3bd760920c57089cfcc7e53996a3b6c95df6178ec73c1613de
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Added new `Elicitation` and `ElicitationResult` hooks to intercept and
       override responses before they're sent back
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.76
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -38,7 +38,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Added new `Elicitation` and `ElicitationResult` hooks to intercept and override
+  title: Added new `Elicitation` and `ElicitationResult` hooks to intercept and override…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-03-11-try-out-the-new-plugins-at-cursor-com-marketplace-or-read-more-in-our-announceme|cursor-2026-03-11-868a6a]]'
@@ -47,11 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc|claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added new Elicitation and ElicitationResult hooks to intercept and override
+title: Added new Elicitation and ElicitationResult hooks to intercept and override…
 type: change
 ---
 
-# Added new `Elicitation` and `ElicitationResult` hooks to intercept and override
+# Added new `Elicitation` and `ElicitationResult` hooks to intercept and override…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.76: Added new `Elicitation` and `ElicitationResult` hooks to intercept and override responses before they're sent back

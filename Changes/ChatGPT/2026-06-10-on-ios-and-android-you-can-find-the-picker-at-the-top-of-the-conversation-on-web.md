@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: be8d5ba52a4e80da783badb6d4c6c8626e72e7a8f930889b9a2c709f97ab7282
+machine_hash: a27c68d45adc5025e75b1f559df9d1ab8106724d52a31d5d3c53e9e1b262260f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       decide whether Instant auto-switches to Medium for higher reasoning when required.
       You can turn this on or off in General > Settings.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -49,8 +49,7 @@ record:
     - picker
     score: 50
     theme: interface-experience
-  title: On iOS and Android, you can find the picker at the top of the conversation.
-    On w
+  title: On iOS and Android, you can find the picker at the top of the conversation
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-05-12-free-users-in-chatgpt-will-now-see-more-inline-images-from-the-web-to-help-make|chatgpt-2026-05-12-635177]]'
@@ -59,12 +58,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-10-simplified-controls-in-the-model-picker-32a1fdba|chatgpt-2026-06-10-simplified-controls-in-the-model-picker-32a1fdba]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: On iOS and Android, you can find the picker at the top of the conversation.
-  On w
+title: On iOS and Android, you can find the picker at the top of the conversation
 type: change
 ---
 
-# On iOS and Android, you can find the picker at the top of the conversation. On w
+# On iOS and Android, you can find the picker at the top of the conversation
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Simplified controls in the model picker: On iOS and Android, you can find the picker at the top of the conversation. On web, it appears directly in the message composer.Users have the ability to decide whether Instant auto-switches to Medium for higher reasoning when required. You can turn this on or off in General > Settings.

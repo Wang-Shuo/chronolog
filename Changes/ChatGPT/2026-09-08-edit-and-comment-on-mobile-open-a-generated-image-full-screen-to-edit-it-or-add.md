@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1e2091501c11ec77986f7495c964dd849fec06cea98f362ddf6f2b9209aa9a50
+machine_hash: ff1bea632531b185f5538c7adcabe7f6d30aecd2981ab831589f005929179dc4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Edit and comment. On mobile, open a generated image full-screen to edit
       it or add comments to tell ChatGPT what you’d like to change..
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -45,8 +45,7 @@ record:
     score: 50
     theme: mobile-desktop
   theme_resolution: manual-semantic-rule-v1
-  title: Edit and comment. On mobile, open a generated image full-screen to edit it
-    or ad
+  title: Edit and comment
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-08-31-bring-your-browser-into-work-and-codex-mention-open-tabs-to-use-them-as-context|chatgpt-2026-08-31-39d388]]'
@@ -55,12 +54,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-08-chatgpt-images-2-5-new-ways-to-create-and-edit-11ada24d|chatgpt-2026-09-08-chatgpt-images-2-5-new-ways-to-create-and-edit-11ada24d]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: Edit and comment. On mobile, open a generated image full-screen to edit it
-  or ad
+title: Edit and comment
 type: change
 ---
 
-# Edit and comment. On mobile, open a generated image full-screen to edit it or ad
+# Edit and comment
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT Images 2.5: new ways to create and edit: Edit and comment. On mobile, open a generated image full-screen to edit it or add comments to tell ChatGPT what you’d like to change..

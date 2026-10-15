@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: aa8f712457d7635871a88277ff9e820d159a787126ab89b5198fac6acbeee746
+machine_hash: 67e48fbed54a3ad3b57f978c56ba41e0bc4b5407f4cdcc2fe561563b7dedd9d0
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
   - quote: Introducing v1 of codebase-wide context! We'll be shipping major improvements
       to this in the next few days, but we'd love to hear your feedback.
     source_release: https://cursor.com/changelog/0-2-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -37,8 +37,7 @@ record:
   source_release: cursor-2023-06-06-0-2-26-https-cursor-com-changelog-0-2-26-1b7664cb
   source_type: cursor_changelog
   theme: context-window
-  title: Introducing v1 of codebase-wide context! We'll be shipping major improvements
-    to
+  title: Introducing v1 of codebase-wide context!
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-05-12-for-more-information-on-our-rollout-process-please-check-out-the-article-here-in|chatgpt-2023-05-12-2955f7]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-06-06-0-2-26-https-cursor-com-changelog-0-2-26-1b7664cb|cursor-2023-06-06-0-2-26-https-cursor-com-changelog-0-2-26-1b7664cb]]'
 source_type: cursor_changelog
 theme: context-window
-title: Introducing v1 of codebase-wide context! We'll be shipping major improvements
-  to
+title: Introducing v1 of codebase-wide context!
 type: change
 ---
 
-# Introducing v1 of codebase-wide context! We'll be shipping major improvements to
+# Introducing v1 of codebase-wide context!
 
 <!-- chronolog:begin region="description" -->
 Cursor — Codebase Context v1: Introducing v1 of codebase-wide context! We'll be shipping major improvements to this in the next few days, but we'd love to hear your feedback.

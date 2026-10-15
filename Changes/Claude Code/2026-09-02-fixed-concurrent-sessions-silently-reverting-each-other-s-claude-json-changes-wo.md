@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d28e913cfaad76a117f0b078963569f9fcb5b4c85cf98b650f5caf5fe52fcc56
+machine_hash: c66d92bdc8e38130325834b980b78f66f51a99760120aab554494ad26d6f4e8a
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       changes — workspace trust no longer resets and MCP/project state is no longer
       lost when running many sessions at once
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.259
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -39,7 +39,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: Fixed concurrent sessions silently reverting each other's `~/.claude.json`
-    chang
+    changes
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-25-added-an-auto-mode-tab-to-permissions-for-viewing-and-editing-auto-mode-classifi|claude-code-2026-08-25-a69932]]'
@@ -48,11 +48,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-02-v2-1-259-github-381579834-0f335a0f|claude-code-2026-09-02-v2-1-259-github-381579834-0f335a0f]]'
 source_type: github_releases
 theme: safety-privacy
-title: Fixed concurrent sessions silently reverting each other's ~/.claude.json chang
+title: Fixed concurrent sessions silently reverting each other's ~/.claude.json changes
 type: change
 ---
 
-# Fixed concurrent sessions silently reverting each other's `~/.claude.json` chang
+# Fixed concurrent sessions silently reverting each other's `~/.claude.json` changes
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.259: Fixed concurrent sessions silently reverting each other's `~/.claude.json` changes — workspace trust no longer resets and MCP/project state is no longer lost when running many sessions at once

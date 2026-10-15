@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 6d2b7fc0bf7df28ff448fe1d204311518b4671336c7716d48771eb69927700d0
+machine_hash: 3316e88814eb7ef6bb8fc12f111ad6c4499cae2a79345d43509c70a340200f98
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: Added Windows ARM64 (win32-arm64) native binary support
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.41
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code

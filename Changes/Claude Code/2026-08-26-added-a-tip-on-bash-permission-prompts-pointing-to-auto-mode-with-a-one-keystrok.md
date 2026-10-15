@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 464890b08240e3c54fec07fc266ec06deed8c8039e8907df5682101c7f456c40
+machine_hash: 9d69758ba6c5bee4b00c3272f98527b7215cec25bd0859b69398ded0983b9335
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added a tip on Bash permission prompts pointing to auto mode, with a one-keystroke
       "Yes, and switch to auto mode" option
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.247
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,7 +36,7 @@ record:
   theme: safety-privacy
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: Added a tip on Bash permission prompts pointing to auto mode, with a one-keystro
+  title: Added a tip on Bash permission prompts pointing to auto mode, with a one-keystroke…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-08-21-available-in-the-chatgpt-app-for-ios-access-to-recent-photos-requires-permission|chatgpt-2026-08-21-339cec]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-08-26-v2-1-247-github-377320078-fc507178|claude-code-2026-08-26-v2-1-247-github-377320078-fc507178]]'
 source_type: github_releases
 theme: safety-privacy
-title: Added a tip on Bash permission prompts pointing to auto mode, with a one-keystro
+title: Added a tip on Bash permission prompts pointing to auto mode, with a one-keystroke…
 type: change
 ---
 
-# Added a tip on Bash permission prompts pointing to auto mode, with a one-keystro
+# Added a tip on Bash permission prompts pointing to auto mode, with a one-keystroke…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.247: Added a tip on Bash permission prompts pointing to auto mode, with a one-keystroke "Yes, and switch to auto mode" option

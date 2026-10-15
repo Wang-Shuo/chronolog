@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 68bdee556c43d8efabc09a6e712902a0bc9e5fac5a7b93290fcf822a8102733c
+machine_hash: d933730b96a8115340a46c9283d0add3b21d6f7359164b962e75e8ac8d76f417
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
       SCM provider to get started. Prompt from the get-go, then save your work to
       a Cursor Origin repo.
     source_release: https://cursor.com/changelog/start-from-scratch
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,7 +37,7 @@ record:
   source_type: cursor_changelog
   theme: agent-mode
   title: Cloud Agents no longer require a connected GitHub or other third-party SCM
-    provi
+    provider…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-08-19-cursor-can-now-monitor-your-prs-watch-a-slack-thread-or-run-scheduled-tasks-curs|cursor-2026-08-19-cb3dac]]'
@@ -47,11 +47,11 @@ source_release: '[[Releases/Cursor/cursor-2026-08-27-start-from-scratch-without-
 source_type: cursor_changelog
 theme: agent-mode
 title: Cloud Agents no longer require a connected GitHub or other third-party SCM
-  provi
+  provider…
 type: change
 ---
 
-# Cloud Agents no longer require a connected GitHub or other third-party SCM provi
+# Cloud Agents no longer require a connected GitHub or other third-party SCM provider…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Start from scratch, without a repo: Cloud Agents no longer require a connected GitHub or other third-party SCM provider to get started. Prompt from the get-go, then save your work to a Cursor Origin repo.

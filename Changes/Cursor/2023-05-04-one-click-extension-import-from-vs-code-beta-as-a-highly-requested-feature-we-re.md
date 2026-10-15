@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ce3050a0c3184f491769c3e3e240587beabe93966a9d382daa9f092347824d20
+machine_hash: 7780f08815848924ad53ad53df8e43a6c9060231bcdaa9dc194837d5a95c42f4
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: One-Click Extension Import from VS Code (beta). As a highly requested feature,
       we're excited to present the beta version of one-click extension imports!
     source_release: https://cursor.com/changelog/0-2-9
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,8 +37,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: One-Click Extension Import from VS Code (beta). As a highly requested feature,
-    w
+  title: One-Click Extension Import from VS Code (beta)
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-05-04-0-2-9-https-cursor-com-changelog-0-2-9-fbb1587c|cursor-2023-05-04-0-2-9-https-cursor-com-changelog-0-2-9-fbb1587c]]'
 source_type: cursor_changelog
 theme: apps-integrations
-title: One-Click Extension Import from VS Code (beta). As a highly requested feature,
-  w
+title: One-Click Extension Import from VS Code (beta)
 type: change
 ---
 
-# One-Click Extension Import from VS Code (beta). As a highly requested feature, w
+# One-Click Extension Import from VS Code (beta)
 
 <!-- chronolog:begin region="description" -->
 Cursor — Enhanced Features & Improvements (2023-05-04): One-Click Extension Import from VS Code (beta). As a highly requested feature, we're excited to present the beta version of one-click extension imports!

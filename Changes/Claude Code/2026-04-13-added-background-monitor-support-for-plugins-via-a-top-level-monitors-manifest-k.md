@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 60556ebff11578d2a04bcbb44dc787e1f08750fb88b7fb11b91fd33f7b3a1c7e
+machine_hash: 1528569990d7fbf6bc06d64f3d74f3481f9c3a0a26dc04baf5336a5e14b635b8
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,7 +29,7 @@ record:
   - quote: Added background monitor support for plugins via a top-level `monitors`
       manifest key that auto-arms at session start or on skill invoke
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.105
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -38,6 +38,7 @@ record:
   source_type: github_releases
   theme: apps-integrations
   title: Added background monitor support for plugins via a top-level `monitors` manifest
+    key…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-04-08-it-looks-at-reactions-and-replies-to-bugbot-comments-and-comments-from-human-rev|cursor-2026-04-08-6f2fda]]'
@@ -47,10 +48,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-04-13-v2-1-105-github-3
 source_type: github_releases
 theme: apps-integrations
 title: Added background monitor support for plugins via a top-level monitors manifest
+  key…
 type: change
 ---
 
-# Added background monitor support for plugins via a top-level `monitors` manifest
+# Added background monitor support for plugins via a top-level `monitors` manifest key…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.105: Added background monitor support for plugins via a top-level `monitors` manifest key that auto-arms at session start or on skill invoke

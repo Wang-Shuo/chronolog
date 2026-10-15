@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-03-25'
-machine_hash: 8b8e3a44a453eef5f2e3769ffe44fce3fdb4285749bd71d682cdd3be55d8983a
+machine_hash: 6b799fa84fb4fd82b96a359d8755aad086f34bd03ff026ba39c333ce7474fbc4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- context-window: [[Changes/ChatGPT/2026-03-25-starting-today-for-chatgpt-plus-pro-and-business-users-long-pastes-are-handled-d|Starting today for ChatGPT Plus, Pro, and Business users, long pastes are handle]]
+- context-window: [[Changes/ChatGPT/2026-03-25-starting-today-for-chatgpt-plus-pro-and-business-users-long-pastes-are-handled-d|Starting today for ChatGPT Plus, Pro, and Business users, long pastes are handled…]]
 <!-- chronolog:end -->

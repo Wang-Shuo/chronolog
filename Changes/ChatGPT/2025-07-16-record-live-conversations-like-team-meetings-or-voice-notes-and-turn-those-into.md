@@ -11,9 +11,9 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: b7a134a2d6c352429c0c3eb7556c562f20ded3a0ca7993ccdb5c3688dcd68f25
+machine_hash: c3decee44acda26da8e5ccfa37c9b64e96fda86afd089de3d44ce41da4c1a6cc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Record live conversations like team meetings or voice notes, and turn those
       into an editable summary in canvas.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -48,8 +48,7 @@ record:
     - canvas
     score: 50
     theme: file-data
-  title: Record live conversations like team meetings or voice notes, and turn those
-    into
+  title: Record live conversations like team meetings or voice notes, and turn those…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-06-12-deep-research-and-voice-mode-support|chatgpt-2025-06-12-e6eb10]]'
@@ -58,12 +57,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-07-16-record-mode-in-chatgpt-macos-desktop-app-plus-3cdaccb1|chatgpt-2025-07-16-record-mode-in-chatgpt-macos-desktop-app-plus-3cdaccb1]]'
 source_type: chatgpt_changelog
 theme: voice
-title: Record live conversations like team meetings or voice notes, and turn those
-  into
+title: Record live conversations like team meetings or voice notes, and turn those…
 type: change
 ---
 
-# Record live conversations like team meetings or voice notes, and turn those into
+# Record live conversations like team meetings or voice notes, and turn those…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Record mode in ChatGPT macOS desktop app (Plus): Record live conversations like team meetings or voice notes, and turn those into an editable summary in canvas.

@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8787f441d6207546c7577caaa382a6d2138e88f63cea7b64d35a228dce021712
+machine_hash: e96ad941fc67ff0d75fd8da1590769ed54ed3947eb7fbd56a980900f20c16815
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Added `sandbox.failIfUnavailable` setting to exit with an error when sandbox
       is enabled but cannot start, instead of running unsandboxed
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.83
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,8 +37,7 @@ record:
   theme: safety-privacy
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: Added `sandbox.failIfUnavailable` setting to exit with an error when sandbox
-    is
+  title: Added `sandbox.failIfUnavailable` setting to exit with an error when sandbox…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-20-added-channels-permission-relay-channel-servers-that-declare-the-permission-capa|claude-code-2026-03-20-35235c]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317|claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317]]'
 source_type: github_releases
 theme: safety-privacy
-title: Added sandbox.failIfUnavailable setting to exit with an error when sandbox
-  is
+title: Added sandbox.failIfUnavailable setting to exit with an error when sandbox…
 type: change
 ---
 
-# Added `sandbox.failIfUnavailable` setting to exit with an error when sandbox is
+# Added `sandbox.failIfUnavailable` setting to exit with an error when sandbox…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.83: Added `sandbox.failIfUnavailable` setting to exit with an error when sandbox is enabled but cannot start, instead of running unsandboxed

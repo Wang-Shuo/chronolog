@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-04-16'
-machine_hash: e557f7966744f711ce01dcca87d34302bcaefd25f6e26ec34bc1c43cf263b07c
+machine_hash: 404aaa4817c01c40e886d05d8df391ace7fbf141313169de54ff14471ee59da3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,5 +39,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- memory: [[Changes/ChatGPT/2025-04-16-chatgpt-can-also-use-memories-to-inform-search-queries-when-chatgpt-searches-the|ChatGPT can also use memories to inform search queries when ChatGPT searches the]]
+- memory: [[Changes/ChatGPT/2025-04-16-chatgpt-can-also-use-memories-to-inform-search-queries-when-chatgpt-searches-the|ChatGPT can also use memories to inform search queries when ChatGPT searches the web…]]
 <!-- chronolog:end -->

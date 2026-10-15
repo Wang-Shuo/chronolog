@@ -11,9 +11,9 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d0f00c14c24d353e49d49928437566fc402ae410f810c5d30df7c36b3310025c
+machine_hash: 54579402dbc9f8d20435890c4a6d56baffae655667e570c53ba5b58d416372ee
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
       when you turn it on, a top-up may happen right away. Learn more: Using Credits
       for Flexible Usage in ChatGPT (Free/Go/Plus/Pro) & Sora.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -43,8 +43,7 @@ record:
   theme: pricing-model
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: You can manage auto top-up from Codex Settings → Usage Dashboard. Auto top-up
-    ap
+  title: You can manage auto top-up from Codex Settings → Usage Dashboard
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-10-28-we-re-launching-chatgpt-go-our-low-cost-subscription-plan-in-brazil-chatgpt-go-p|chatgpt-2025-10-28-0fda81]]'
@@ -53,12 +52,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-10-auto-top-up-for-flexible-usage-credits-462c6ddf|chatgpt-2026-03-10-auto-top-up-for-flexible-usage-credits-462c6ddf]]'
 source_type: chatgpt_changelog
 theme: pricing-model
-title: You can manage auto top-up from Codex Settings → Usage Dashboard. Auto top-up
-  ap
+title: You can manage auto top-up from Codex Settings → Usage Dashboard
 type: change
 ---
 
-# You can manage auto top-up from Codex Settings → Usage Dashboard. Auto top-up ap
+# You can manage auto top-up from Codex Settings → Usage Dashboard
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Auto top-up for flexible usage credits: You can manage auto top-up from Codex Settings → Usage Dashboard. Auto top-up applies to the same shared credit balance used across supported features like Codex and Sora, and if your balance is already below your selected minimum when you turn it on, a top-up may happen right away. Learn more: Using Credits for Flexible Usage in ChatGPT (Free/Go/Plus/Pro) & Sora.

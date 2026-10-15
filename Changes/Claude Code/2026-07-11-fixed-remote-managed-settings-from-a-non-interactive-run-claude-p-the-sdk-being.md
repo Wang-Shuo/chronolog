@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: dc90e89f4defa66f21b2830cced515d8ca1b919a5dc5e0692f62723860fdca5b
+machine_hash: 1a72e837b38a2d2b11e5b6cd37679fc0a4c4bd5d30660efa3478fb85182a1681
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       the SDK) being permanently recorded as consented without ever showing the security
       consent dialog
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.207
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -39,7 +39,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: Fixed remote managed settings from a non-interactive run (`claude -p`, the
-    SDK)
+    SDK)…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-07-09-if-you-already-use-the-codex-app-update-it-as-usual-to-move-to-the-new-chatgpt-d|chatgpt-2026-07-09-6457ba]]'
@@ -48,11 +48,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-11-v2-1-207-github-352355755-d77b8e91|claude-code-2026-07-11-v2-1-207-github-352355755-d77b8e91]]'
 source_type: github_releases
 theme: safety-privacy
-title: Fixed remote managed settings from a non-interactive run (claude -p, the SDK)
+title: Fixed remote managed settings from a non-interactive run (claude -p, the SDK)…
 type: change
 ---
 
-# Fixed remote managed settings from a non-interactive run (`claude -p`, the SDK)
+# Fixed remote managed settings from a non-interactive run (`claude -p`, the SDK)…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.207: Fixed remote managed settings from a non-interactive run (`claude -p`, the SDK) being permanently recorded as consented without ever showing the security consent dialog

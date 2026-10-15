@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d70d2012de1d3d5ee6541ef260280cd2c0063de8da6aeeecf2e66cbca879039d
+machine_hash: 1ddc0c66abb37ef08b17400dedd8f66a039d279a188c8b82b9c13b71dd6979be
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added auto-mode denial reasons to the transcript, the denial toast, and
       `/permissions` recent denials
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.193
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -34,7 +34,7 @@ record:
   source_release: claude-code-2026-06-25-v2-1-193-github-344922230-0655000d
   source_type: github_releases
   theme: agent-mode
-  title: Added auto-mode denial reasons to the transcript, the denial toast, and `/permis
+  title: Added auto-mode denial reasons to the transcript, the denial toast…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-19-improved-auto-mode-safety-destructive-git-commands-git-reset-hard-git-checkout-g|claude-code-2026-06-19-dbf355]]'
@@ -43,11 +43,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-25-v2-1-193-github-344922230-0655000d|claude-code-2026-06-25-v2-1-193-github-344922230-0655000d]]'
 source_type: github_releases
 theme: agent-mode
-title: Added auto-mode denial reasons to the transcript, the denial toast, and /permis
+title: Added auto-mode denial reasons to the transcript, the denial toast…
 type: change
 ---
 
-# Added auto-mode denial reasons to the transcript, the denial toast, and `/permis
+# Added auto-mode denial reasons to the transcript, the denial toast…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.193: Added auto-mode denial reasons to the transcript, the denial toast, and `/permissions` recent denials

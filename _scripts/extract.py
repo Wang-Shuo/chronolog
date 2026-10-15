@@ -690,6 +690,231 @@ def should_skip_line(line: str, classification: dict[str, Any]) -> bool:
     return False
 
 
+TITLE_MAX_CHARS = 90
+TITLE_TRUNCATE_AT = 84
+TITLE_SHORT_SENTENCE_CHARS = 20
+TITLE_SEGMENT_MIN_TOKENS = 3
+TITLE_SEGMENT_MIN_CHARS = 16
+TITLE_SEGMENT_SEPARATORS = ((": ",), (" — ", " – ", "; "))
+TITLE_TRAILING_STOPWORDS = frozenset(
+    "a an the to of in on for and or with by from at as is are was were that this its "
+    "your their when while so which into via be it".split()
+)
+_WE_ARE = "(?:today,? )?we(?:[’']re| are)"
+_WE_HAVE = "(?:today,? )?we(?:[’']ve| have)"
+# Vendor first-person openings with an explicit rewrite into product-as-subject or
+# imperative voice. Each rule: (pattern anchored at the start, replacement,
+# capitalize the remainder). "{P}" is the product name and "{0}" the captured verb
+# in third person singular. Openings without a rule keep the vendor's wording.
+VENDOR_VOICE_RULES: tuple[tuple[re.Pattern[str], str, bool], ...] = tuple(
+    (re.compile(pattern, re.I), replacement, capitalize)
+    for pattern, replacement, capitalize in (
+        (rf"^{_WE_ARE} introducing ", "{P} introduces ", False),
+        (rf"^{_WE_ARE} launching ", "{P} launches ", False),
+        (rf"^{_WE_ARE} rolling out ", "{P} rolls out ", False),
+        (rf"^{_WE_ARE} expanding ", "{P} expands ", False),
+        (rf"^(?:{_WE_ARE} adding|{_WE_HAVE} (?:also )?added) ", "{P} adds ", False),
+        (
+            r"^(?:today,? )?we[’']ve (?:also )?(improved|updated|fixed|made|expanded|changed) ",
+            "{P} {0} ",
+            False,
+        ),
+        (rf"^{_WE_ARE} (?:now )?(?:excited|happy|thrilled) to (?:announce|share) that ", "", True),
+        (
+            rf"^{_WE_ARE} (?:now )?(?:excited|happy|thrilled) to "
+            r"(introduce|launch|announce|bring|expand) ",
+            "{P} {0} ",
+            False,
+        ),
+        (r"^this release (introduces|brings|adds|includes|makes) ", "{P} {0} ", False),
+        (r"^you can now ", "", True),
+    )
+)
+GOOD_NEWS_RE = re.compile(r"^good news! ", re.I)
+# "We're introducing a plan and updating how ..." would become "{P} introduces a plan
+# and updating ...", so a coordinated gerund in the first sentence blocks rewrites.
+COORDINATED_GERUND_RE = re.compile(r" and (?:also )?\w+ing\b")
+THIRD_PERSON_VERBS = {
+    "improved": "improves",
+    "updated": "updates",
+    "fixed": "fixes",
+    "made": "makes",
+    "expanded": "expands",
+    "changed": "changes",
+    "introduce": "introduces",
+    "launch": "launches",
+    "announce": "announces",
+    "bring": "brings",
+    "expand": "expands",
+}
+# A sentence ends at ".", "!" or "?" followed by whitespace and anything but a
+# lowercase ASCII letter, or at the end of the text. A "." glued to the next
+# character (v2.1.300, $0.50/M, cursor.com) is not a sentence end, except for
+# sentences the source ran together ("subscribers.GPT-4", "Windows).Note"): a "." after a
+# lowercase letter or ")" and before an uppercase letter, outside inline code, whose
+# preceding token has at least 3 letters and no dot of its own ("os.Getenv",
+# "fs.Stat" and "process.env.CURSOR_API_KEY" stay intact).
+SENTENCE_END_RE = re.compile(r"[.!?](?=\s+[^a-z\s]|\s*$)")
+GLUED_SENTENCE_END_RE = re.compile(r"(?<=[a-z)])\.(?=[A-Z])")
+GLUED_SENTENCE_MIN_LETTERS = 3
+TITLE_ABBREVIATION_RE = re.compile(
+    r"(?<![\w.])(?:(?i:e\.g|i\.e|etc|vs|approx|incl)|Mr|Dr|No)$"
+)
+# Zero-width/format characters and a leading ordered-list marker that
+# split_release_lines could not strip because of them ("2<U+2060>. Text ...").
+INVISIBLE_CHARS_RE = re.compile("[\u200b-\u200d\u2060\ufeff]")
+LIST_MARKER_RE = re.compile(r"^\d{1,3}[.)] ")
+
+
+def _capitalize_first(text: str) -> str:
+    if text[:1].isascii() and text[:1].islower():
+        return text[0].upper() + text[1:]
+    return text
+
+
+def _rewrite_vendor_voice(text: str, product_name: str) -> tuple[str, bool]:
+    """Return the rewritten text and whether the product became the subject."""
+    for pattern, replacement, capitalize in VENDOR_VOICE_RULES:
+        match = pattern.match(text)
+        if not match:
+            continue
+        verb = match.group(1).lower() if match.groups() else ""
+        prefix = replacement.format(THIRD_PERSON_VERBS.get(verb, verb), P=product_name)
+        remainder = text[match.end():]
+        return prefix + (_capitalize_first(remainder) if capitalize else remainder), bool(prefix)
+    return text, False
+
+
+def _is_glued_sentence_end(text: str, dot: int) -> bool:
+    token = text[:dot].rsplit(" ", 1)[-1]
+    return (
+        text.count("`", 0, dot) % 2 == 0
+        and "." not in token
+        and sum(char.isalpha() for char in token) >= GLUED_SENTENCE_MIN_LETTERS
+    )
+
+
+def _sentence_ends(text: str):
+    terminators = {match.start() for match in SENTENCE_END_RE.finditer(text)}
+    terminators.update(
+        match.start()
+        for match in GLUED_SENTENCE_END_RE.finditer(text)
+        if _is_glued_sentence_end(text, match.start())
+    )
+    for position in sorted(terminators):
+        if not TITLE_ABBREVIATION_RE.search(text[:position]):
+            yield position + 1
+
+
+def _first_sentence(text: str) -> str:
+    return text[: next(_sentence_ends(text), len(text))]
+
+
+def _drop_product_mentions(text: str, product_name: str) -> str:
+    """Drop " in {P}" when the product is already the subject of the title."""
+    if not product_name:
+        return text
+    return re.sub(rf" in {re.escape(product_name)}(?=$|[.,;:!?)]|\s[a-z—–])", "", text)
+
+
+def _strip_terminator(text: str) -> str:
+    return text[:-1].rstrip() if text.endswith((".", ":")) else text
+
+
+def _balanced_backticks(text: str) -> bool:
+    return text.count("`") % 2 == 0
+
+
+def _unmatched_opener(text: str) -> int:
+    """Index of the first "(" or curly/straight double quote left open, or -1."""
+    stack: list[int] = []
+    curly: list[int] = []
+    straight: list[int] = []
+    for index, char in enumerate(text):
+        if char == "(":
+            stack.append(index)
+        elif char == ")" and stack:
+            stack.pop()
+        elif char == "“":
+            curly.append(index)
+        elif char == "”" and curly:
+            curly.pop()
+        elif char == '"':
+            if straight:
+                straight.pop()
+            else:
+                straight.append(index)
+    open_positions = stack[:1] + curly[:1] + straight[:1]
+    return min(open_positions) if open_positions else -1
+
+
+def _truncate_title(text: str) -> str:
+    cut = text.rfind(" ", 0, TITLE_TRUNCATE_AT + 1)
+    head = text[:cut] if cut > 0 else text[:TITLE_TRUNCATE_AT]
+    stopword_passes = 0
+    while True:
+        head = head.rstrip(" ,;:—–-")
+        opener = _unmatched_opener(head)
+        if not _balanced_backticks(head):
+            candidate = head[: head.rfind("`")]
+        elif opener >= 0:
+            candidate = head[:opener]
+        elif head[-1:] and not (head[-1].isalnum() or head[-1] in ")`'") and " " in head:
+            # Drop a dangling last token ("e.g.", "&", "/", "->") instead of ending on it.
+            candidate = head[: head.rfind(" ")]
+        elif (
+            stopword_passes < 2
+            and " " in head
+            and head.rsplit(" ", 1)[1].lower() in TITLE_TRAILING_STOPWORDS
+        ):
+            stopword_passes += 1
+            candidate = head[: head.rfind(" ")]
+        else:
+            break
+        if not any(char.isalnum() for char in candidate):
+            break
+        head = candidate
+    return head + "…"
+
+
+def card_title(line: str, product_name: str) -> str:
+    """Return a deterministic, readable Change Card title for one changelog line.
+
+    Card identity (card_id, slug, file path) is derived from the raw line elsewhere;
+    the title is presentation only.
+    """
+    text = re.sub(r"\s+", " ", INVISIBLE_CHARS_RE.sub("", line)).strip()
+    text = LIST_MARKER_RE.sub("", text)
+    good_news = GOOD_NEWS_RE.match(text)
+    if good_news:
+        text = text[good_news.end():]
+    product_subject = False
+    if not COORDINATED_GERUND_RE.search(_first_sentence(text)):
+        text, product_subject = _rewrite_vendor_voice(text, product_name)
+
+    ends = list(_sentence_ends(text))[:2]
+    sentence = _strip_terminator(text[: ends[0]] if ends else text)
+    if len(sentence) < TITLE_SHORT_SENTENCE_CHARS and len(ends) > 1:
+        joined = _strip_terminator(text[: ends[1]])
+        if len(joined) <= TITLE_MAX_CHARS:
+            sentence = joined
+    if product_subject:
+        sentence = _drop_product_mentions(sentence, product_name)
+    title = sentence if len(sentence) <= TITLE_MAX_CHARS else ""
+    for separators in TITLE_SEGMENT_SEPARATORS if not title else ():
+        positions = [sentence.find(sep) for sep in separators if sep in sentence]
+        segment = sentence[: min(positions)].rstrip() if positions else ""
+        if (
+            len(segment.split()) >= TITLE_SEGMENT_MIN_TOKENS
+            and TITLE_SEGMENT_MIN_CHARS <= len(segment) <= TITLE_MAX_CHARS
+            and _balanced_backticks(segment)
+        ):
+            title = segment
+            break
+    title = _strip_terminator(title or _truncate_title(sentence)).strip()
+    return title[:TITLE_MAX_CHARS].rstrip()
+
+
 def extract_cards_from_release(
     release: dict[str, Any],
     themes: dict[str, dict[str, Any]],
@@ -756,14 +981,14 @@ def extract_cards_from_release(
             "product_name": release["product_name"],
             "source_release": source_release,
             "date": release["date"],
-            "title": line[:80].rstrip(),
+            "title": card_title(line, release["product_name"]),
             "slug": slugify(line)[:80].strip("-"),
             "theme": classification["theme"],
             "impact": impact,
             "description": f"{release['product_name']} — {release['title']}: {line}",
             "comparison": "",
             "evidence": [{"source_release": release.get("source_url", ""), "quote": line}],
-            "extractor_version": "fallback-v3" if release_scoped_identity else "fallback-v1",
+            "extractor_version": "fallback-v4" if release_scoped_identity else "fallback-v1",
             "source_type": release.get("source_type", "unknown"),
         }
         card.update({key: value for key, value in classification.items() if key != "theme"})

@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3f06f76f4c1b1b8a4068a21a02eb4df15f86bc779ef2c10e2147f4ae1b784a4c
+machine_hash: f0bbf674b92f8f4ed965db98c3c5e5dd847809c1371de9ca868948335b8cdca3
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: You can now drag images into the Command-K prompt bar!
     source_release: https://cursor.com/changelog/0-25-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,7 +35,7 @@ record:
   theme: interface-experience
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: You can now drag images into the Command-K prompt bar!
+  title: Drag images into the Command-K prompt bar!
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-12-06-allows-users-to-provide-feedback-on-the-chat-response|cursor-2023-12-06-41ae7d]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-02-02-0-25-x-https-cursor-com-changelog-0-25-x-29976ab7|cursor-2024-02-02-0-25-x-https-cursor-com-changelog-0-25-x-29976ab7]]'
 source_type: cursor_changelog
 theme: interface-experience
-title: You can now drag images into the Command-K prompt bar!
+title: Drag images into the Command-K prompt bar!
 type: change
 ---
 
-# You can now drag images into the Command-K prompt bar!
+# Drag images into the Command-K prompt bar!
 
 <!-- chronolog:begin region="description" -->
 Cursor — Command-K Vision Support: You can now drag images into the Command-K prompt bar!

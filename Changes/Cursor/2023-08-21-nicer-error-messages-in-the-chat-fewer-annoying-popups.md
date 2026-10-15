@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f8dcf42e3f558575ee5bc5999a187058935d7e514348136c834c155f0cb6e020
+machine_hash: ae24208395f3c5dd02c27a29d97550c229c1e8c3ac064aad9d5e64e8ee58b3b9
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Nicer error messages in the chat! Fewer annoying popups.
     source_release: https://cursor.com/changelog/0-7-18-nightly
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,7 +35,7 @@ record:
   theme: interface-experience
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Nicer error messages in the chat! Fewer annoying popups.
+  title: Nicer error messages in the chat!
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-07-27-c-and-f-now-properly-render-in-the-chat|cursor-2023-07-27-8b3ad9]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-08-21-0-7-18-nightly-https-cursor-com-changelog-0-7-18-nightly-011c03c1|cursor-2023-08-21-0-7-18-nightly-https-cursor-com-changelog-0-7-18-nightly-011c03c1]]'
 source_type: cursor_changelog
 theme: interface-experience
-title: Nicer error messages in the chat! Fewer annoying popups.
+title: Nicer error messages in the chat!
 type: change
 ---
 
-# Nicer error messages in the chat! Fewer annoying popups.
+# Nicer error messages in the chat!
 
 <!-- chronolog:begin region="description" -->
 Cursor — Small fixes: Nicer error messages in the chat! Fewer annoying popups.

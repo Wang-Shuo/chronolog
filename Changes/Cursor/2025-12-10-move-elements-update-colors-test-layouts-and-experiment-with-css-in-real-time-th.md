@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: a85d9c7f1cea43b9ae46cf2d3ab0acb562b3edd6f7cf4d4fbca01a4e96a00ff6
+machine_hash: 76865aab9b4f692ba9f489ac6ff1520c4bc51f3029ddea1583d1a0e9495645e2
 product: cursor
 product_name: Cursor
 record:
@@ -33,7 +33,7 @@ record:
       also click on multiple elements and describe changes in text to kick off an
       agent to make visual changes.
     source_release: https://cursor.com/changelog/2-2
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -42,7 +42,7 @@ record:
   source_type: cursor_changelog
   theme: agent-mode
   title: Move elements, update colors, test layouts, and experiment with CSS in real
-    time
+    time…
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-10-29-run-up-to-eight-agents-in-parallel-on-a-single-prompt-this-uses-git-worktrees-or|cursor-2025-10-29-79b7a8]]'
@@ -52,11 +52,11 @@ source_release: '[[Releases/Cursor/cursor-2025-12-10-2-2-https-cursor-com-change
 source_type: cursor_changelog
 theme: agent-mode
 title: Move elements, update colors, test layouts, and experiment with CSS in real
-  time
+  time…
 type: change
 ---
 
-# Move elements, update colors, test layouts, and experiment with CSS in real time
+# Move elements, update colors, test layouts, and experiment with CSS in real time…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Debug Mode, Plan Mode Improvements, Multi-Agent Judging, and Pinned Chats: Move elements, update colors, test layouts, and experiment with CSS in real time, then instantly apply changes to your codebase using agent. You can also click on multiple elements and describe changes in text to kick off an agent to make visual changes.

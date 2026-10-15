@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 63f8355666f8d17a6b9942f283396188761f87c8f4ce4b8c824322396cb3fee8
+machine_hash: 1f06d3f9668627d869edb61ad6127275b68ad90f2220a979f4cb740ff2e889ee
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: GPTs without Custom Actions can use the model picker to select from all
       models available to the user.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -46,8 +46,7 @@ record:
     - picker
     score: 50
     theme: interface-experience
-  title: GPTs without Custom Actions can use the model picker to select from all models
-    a
+  title: GPTs without Custom Actions can use the model picker to select from all models…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-06-12-gpts-with-custom-actions-currently-support-gpt-4o-and-4-1|chatgpt-2025-06-12-b1cb25]]'
@@ -56,12 +55,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-16-expanded-model-support-for-custom-gpts-55f4555f|chatgpt-2025-06-16-expanded-model-support-for-custom-gpts-55f4555f]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: GPTs without Custom Actions can use the model picker to select from all models
-  a
+title: GPTs without Custom Actions can use the model picker to select from all models…
 type: change
 ---
 
-# GPTs without Custom Actions can use the model picker to select from all models a
+# GPTs without Custom Actions can use the model picker to select from all models…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Expanded Model Support for Custom GPTs: GPTs without Custom Actions can use the model picker to select from all models available to the user.

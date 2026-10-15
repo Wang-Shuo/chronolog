@@ -11,9 +11,9 @@ diffusion:
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7ddc9ce6b1b18c40db8253ee0921bb920f32f180dc60596b5f5e11c4f840bbcc
+machine_hash: 261a285c00719570ff9598512b1847d24dd9c954a9b88d8ea73da835873d24a2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -36,7 +36,7 @@ record:
       viewers in the Site’s sharing controls. Learn more in Creating and managing
       ChatGPT Sites.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -45,7 +45,7 @@ record:
   source_type: chatgpt_changelog
   theme: collaboration
   title: Eligible Site owners can now share a live ChatGPT Site with named people
-    outside
+    outside…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-08-13-the-initial-experience-includes-my-drive-and-files-and-folders-shared-directly-w|chatgpt-2026-08-13-9658d3]]'
@@ -54,11 +54,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-03-share-sites-with-people-outside-your-workspace-88fde38a|chatgpt-2026-09-03-share-sites-with-people-outside-your-workspace-88fde38a]]'
 source_type: chatgpt_changelog
 theme: collaboration
-title: Eligible Site owners can now share a live ChatGPT Site with named people outside
+title: Eligible Site owners can now share a live ChatGPT Site with named people outside…
 type: change
 ---
 
-# Eligible Site owners can now share a live ChatGPT Site with named people outside
+# Eligible Site owners can now share a live ChatGPT Site with named people outside…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Share Sites with people outside your workspace: Eligible Site owners can now share a live ChatGPT Site with named people outside their workspace, without making the Site public. External viewers can use the shared Site but cannot edit or publish it.To share, open the Site, select Share, enter the recipient’s email, and save their viewer access. The recipient signs in with the account that was granted access. You can review or remove viewers in the Site’s sharing controls. Learn more in Creating and managing ChatGPT Sites.

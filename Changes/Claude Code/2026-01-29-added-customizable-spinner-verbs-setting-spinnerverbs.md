@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 89c00d26ea06bbf37b0050741577ce66efa48e0ba499bd0208302432d2286e99
+machine_hash: 763f6001365c9ae3934b8d13b83b3c456973b9efca79b4eaa13046046512d66a
 product: claude-code
 product_name: Claude Code
 record:
@@ -24,7 +24,7 @@ record:
   evidence:
   - quote: Added customizable spinner verbs setting (`spinnerVerbs`)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.23
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

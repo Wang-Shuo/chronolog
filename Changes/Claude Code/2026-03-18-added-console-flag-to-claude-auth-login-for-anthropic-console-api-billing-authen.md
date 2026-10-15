@@ -11,9 +11,9 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e8a0c5b7db1cba57f4d5048cd9c8343d4881001c156c787f63206b7fe992bcf1
+machine_hash: ad5c853d6b6014130ac6b877364eaea7e7028ea39e90f09673938740738017e9
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `--console` flag to `claude auth login` for Anthropic Console (API
       billing) authentication
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.79
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -45,7 +45,7 @@ record:
     score: 50
     theme: pricing-model
   title: Added `--console` flag to `claude auth login` for Anthropic Console (API
-    billing
+    billing)…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-13-added-claude-auth-login-claude-auth-status-and-claude-auth-logout-cli-subcommand|claude-code-2026-02-13-19875c]]'
@@ -54,11 +54,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-18-v2-1-79-github-298704791-2ebf4bbd|claude-code-2026-03-18-v2-1-79-github-298704791-2ebf4bbd]]'
 source_type: github_releases
 theme: account-access
-title: Added --console flag to claude auth login for Anthropic Console (API billing
+title: Added --console flag to claude auth login for Anthropic Console (API billing)…
 type: change
 ---
 
-# Added `--console` flag to `claude auth login` for Anthropic Console (API billing
+# Added `--console` flag to `claude auth login` for Anthropic Console (API billing)…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.79: Added `--console` flag to `claude auth login` for Anthropic Console (API billing) authentication

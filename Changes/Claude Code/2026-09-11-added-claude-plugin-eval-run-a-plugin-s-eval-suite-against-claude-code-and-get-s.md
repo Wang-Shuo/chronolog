@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 13592878fb59d45b3b9f219c182b66aa9410c48f7fdd27ebc669afd6a1311406
+machine_hash: 7754820249840fbd0e2cf1b27b0f8c37a8b44ccdd8c1e3545fd68523abf93514
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       Code and get scored, reproducible results (JSON + HTML report); see `claude
       plugin eval --help`'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.269
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   source_release: claude-code-2026-09-11-v2-1-269-github-387243742-288e9189
   source_type: github_releases
   theme: apps-integrations
-  title: 'Added `claude plugin eval`: run a plugin''s eval suite against Claude Code
-    and ge'
+  title: Added `claude plugin eval`
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-09-10-the-data-plugin-helps-you-analyze-connected-business-data-in-chatgpt-work-and-co|chatgpt-2026-09-10-aacea7]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-11-v2-1-269-github-387243742-288e9189|claude-code-2026-09-11-v2-1-269-github-387243742-288e9189]]'
 source_type: github_releases
 theme: apps-integrations
-title: 'Added claude plugin eval: run a plugin''s eval suite against Claude Code and
-  ge'
+title: Added claude plugin eval
 type: change
 ---
 
-# Added `claude plugin eval`: run a plugin's eval suite against Claude Code and ge
+# Added `claude plugin eval`
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.269: Added `claude plugin eval`: run a plugin's eval suite against Claude Code and get scored, reproducible results (JSON + HTML report); see `claude plugin eval --help`

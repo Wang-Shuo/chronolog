@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 442421c7524fbac15c16e01131f02ceaacb0e8ccfa9f6371dda81030c61da4ae
+machine_hash: 0755440d1ef5680dbfc4d53cdd6f82ccf66f68350a512f8f02485fd5a6580baf
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
   - quote: Data analysis improvements are available in our new flagship model, GPT-4o,
       for ChatGPT Plus, Team, and Enterprise users.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -56,8 +56,7 @@ record:
     score: 50
     theme: enterprise-admin
   theme_resolution: manual-semantic-rule-v2
-  title: Data analysis improvements are available in our new flagship model, GPT-4o,
-    for
+  title: Data analysis improvements are available in our new flagship model, GPT-4o…
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-03-20-stable-claude-support-all-the-newest-claude-models-are-available-for-pro-and-api|cursor-2024-03-20-2986d9]]'
@@ -66,12 +65,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2024-05-16-improvements-to-data-analysis-in-chatgpt-a2e63572|chatgpt-2024-05-16-improvements-to-data-analysis-in-chatgpt-a2e63572]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: Data analysis improvements are available in our new flagship model, GPT-4o,
-  for
+title: Data analysis improvements are available in our new flagship model, GPT-4o…
 type: change
 ---
 
-# Data analysis improvements are available in our new flagship model, GPT-4o, for
+# Data analysis improvements are available in our new flagship model, GPT-4o…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Improvements to data analysis in ChatGPT: Data analysis improvements are available in our new flagship model, GPT-4o, for ChatGPT Plus, Team, and Enterprise users.

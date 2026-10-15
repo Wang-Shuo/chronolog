@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 60f3475e1754caef5986cf3fcad143b2ea4d8e494721fa3c88da86b67b83d269
+machine_hash: d954ef8869ad4ab0730a5ce9268b986b0175dedf17c22132458665cd72e8042b
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       mode is active, so Monitor commands are reviewed the same way Bash commands
       are'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.236
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   source_release: claude-code-2026-08-19-v2-1-236-github-373272539-bbbacf79
   source_type: github_releases
   theme: agent-mode
-  title: 'Improved auto mode: `Monitor` allow rules are now set aside while auto mode
-    is a'
+  title: Improved auto mode
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-08-13-agents-do-their-best-work-when-they-start-in-a-ready-environment-repos-cloned-de|cursor-2026-08-13-72aeaf]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-08-19-v2-1-236-github-373272539-bbbacf79|claude-code-2026-08-19-v2-1-236-github-373272539-bbbacf79]]'
 source_type: github_releases
 theme: agent-mode
-title: 'Improved auto mode: Monitor allow rules are now set aside while auto mode
-  is a'
+title: Improved auto mode
 type: change
 ---
 
-# Improved auto mode: `Monitor` allow rules are now set aside while auto mode is a
+# Improved auto mode
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.236: Improved auto mode: `Monitor` allow rules are now set aside while auto mode is active, so Monitor commands are reviewed the same way Bash commands are

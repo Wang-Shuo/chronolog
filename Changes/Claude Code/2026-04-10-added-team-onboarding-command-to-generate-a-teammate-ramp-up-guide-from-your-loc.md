@@ -11,9 +11,9 @@ diffusion:
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: b02c03e2e1d1ddeab155a1a2216cb5de67395e978fc5f75e94410c9cdb99506a
+machine_hash: 10604243afa39b15c6a05088bb25f1b41a22fef13817d23940f93a674cd237be
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `/team-onboarding` command to generate a teammate ramp-up guide from
       your local Claude Code usage
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.101
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -34,8 +34,7 @@ record:
   source_release: claude-code-2026-04-10-v2-1-101-github-307692858-ffcdf642
   source_type: github_releases
   theme: collaboration
-  title: Added `/team-onboarding` command to generate a teammate ramp-up guide from
-    your
+  title: Added `/team-onboarding` command to generate a teammate ramp-up guide…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-05-added-research-preview-agent-teams-feature-for-multi-agent-collaboration-token-i|claude-code-2026-02-05-103668]]'
@@ -44,11 +43,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-10-v2-1-101-github-307692858-ffcdf642|claude-code-2026-04-10-v2-1-101-github-307692858-ffcdf642]]'
 source_type: github_releases
 theme: collaboration
-title: Added /team-onboarding command to generate a teammate ramp-up guide from your
+title: Added /team-onboarding command to generate a teammate ramp-up guide…
 type: change
 ---
 
-# Added `/team-onboarding` command to generate a teammate ramp-up guide from your
+# Added `/team-onboarding` command to generate a teammate ramp-up guide…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.101: Added `/team-onboarding` command to generate a teammate ramp-up guide from your local Claude Code usage

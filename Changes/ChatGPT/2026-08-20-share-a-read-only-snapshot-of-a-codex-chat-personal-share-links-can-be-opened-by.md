@@ -11,9 +11,9 @@ diffusion:
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3b5478a37dda1d995b5912aa5e61c0bd9d4b6a80823f4bdb422838fa9cc6a834
+machine_hash: 07d0c2142cdb04d2d45c32ddce29b02b7fac391a4b8a4bb22335975c7faa6994
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
       should review the snapshot because sensitive paths, diffs, images, or other
       content may remain. Learn more about sharing a Codex chat.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -41,8 +41,7 @@ record:
   source_release: chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574
   source_type: chatgpt_changelog
   theme: collaboration
-  title: Share a read-only snapshot of a Codex chat. Personal share links can be opened
-    b
+  title: Share a read-only snapshot of a Codex chat
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-06-30-we-ve-expanded-team-marketplaces-to-support-team-mcps-and-organization-groups|cursor-2026-06-30-f93470]]'
@@ -51,12 +50,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574|chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574]]'
 source_type: chatgpt_changelog
 theme: collaboration
-title: Share a read-only snapshot of a Codex chat. Personal share links can be opened
-  b
+title: Share a read-only snapshot of a Codex chat
 type: change
 ---
 
-# Share a read-only snapshot of a Codex chat. Personal share links can be opened b
+# Share a read-only snapshot of a Codex chat
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Codex and ChatGPT feature updates: Share a read-only snapshot of a Codex chat. Personal share links can be opened by anyone with the link. A snapshot is static and does not include tool calls or shell input and output. Codex redacts known secret patterns, but users should review the snapshot because sensitive paths, diffs, images, or other content may remain. Learn more about sharing a Codex chat.

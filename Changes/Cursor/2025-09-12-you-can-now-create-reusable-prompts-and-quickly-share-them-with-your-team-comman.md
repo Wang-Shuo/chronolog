@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 5423cebbea557776b2d1a22e9ea6ac0c6feb2fc203973d36e427cf6bf76a964b
+machine_hash: 65be20f67c2b66c6f34dcde47220cf3aa4ebc5a38cd76a9701dbad4beff3a15c
 product: cursor
 product_name: Cursor
 record:
@@ -31,7 +31,7 @@ record:
       Commands are stored in .cursor/commands/[command].md. Run them by typing / in
       the Agent input and selecting the command from the dropdown menu.
     source_release: https://cursor.com/changelog/1-6
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -53,8 +53,7 @@ record:
     score: 50
     theme: interface-experience
   theme_resolution: manual-semantic-rule-v1
-  title: You can now create reusable prompts and quickly share them with your team.
-    Comma
+  title: Create reusable prompts and quickly share them with your team
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-02-19-windows-fixed-newline-errors-in-chat-codeblocks-and-resolved-auto-uninstallation|cursor-2025-02-19-6b2714]]'
@@ -63,12 +62,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-09-12-1-6-https-cursor-com-changelog-1-6-f33fb3ea|cursor-2025-09-12-1-6-https-cursor-com-changelog-1-6-f33fb3ea]]'
 source_type: cursor_changelog
 theme: developer-workflow
-title: You can now create reusable prompts and quickly share them with your team.
-  Comma
+title: Create reusable prompts and quickly share them with your team
 type: change
 ---
 
-# You can now create reusable prompts and quickly share them with your team. Comma
+# Create reusable prompts and quickly share them with your team
 
 <!-- chronolog:begin region="description" -->
 Cursor — Slash commands, summarization, and improved Agent terminal: You can now create reusable prompts and quickly share them with your team. Commands are stored in .cursor/commands/[command].md. Run them by typing / in the Agent input and selecting the command from the dropdown menu.

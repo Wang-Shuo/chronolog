@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 009dcf2fb258cecca1ffd844d937528fb00e1e6c578ff4c58027f3e1af3fbcad
+machine_hash: f07957a91cb61d2fc7de279a21ed7a579dea961446e42ee284deaeeb584a18ce
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,7 +34,7 @@ record:
       GPT-4o feel more intuitive and effective across a variety of tasks–we hope you
       agree!
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -53,7 +53,7 @@ record:
     theme: memory
   theme_resolution: manual-semantic-rule-v2
   title: We’re making additional improvements to GPT-4o, optimizing when it saves
-    memorie
+    memories…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-03-27-gpt-4o-is-now-more-adept-at-following-detailed-instructions-especially-for-promp|chatgpt-2025-03-27-d8484d]]'
@@ -62,11 +62,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-04-25-improvements-to-gpt-4o-4bcfc1a7|chatgpt-2025-04-25-improvements-to-gpt-4o-4bcfc1a7]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: We’re making additional improvements to GPT-4o, optimizing when it saves memorie
+title: We’re making additional improvements to GPT-4o, optimizing when it saves memories…
 type: change
 ---
 
-# We’re making additional improvements to GPT-4o, optimizing when it saves memorie
+# We’re making additional improvements to GPT-4o, optimizing when it saves memories…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Improvements to GPT-4o: We’re making additional improvements to GPT-4o, optimizing when it saves memories and enhancing problem-solving capabilities for STEM. We’ve also made subtle changes to the way it responds, making it more proactive and better at guiding conversations toward productive outcomes. We think these updates help GPT-4o feel more intuitive and effective across a variety of tasks–we hope you agree!

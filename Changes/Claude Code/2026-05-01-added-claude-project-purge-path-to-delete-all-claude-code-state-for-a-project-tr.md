@@ -11,9 +11,9 @@ diffusion:
   theme: projects-workspaces
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8cff0f0a640c008102cb2991712e7e7e4b6492eb3d46e1ca683c80e4c67fc91f
+machine_hash: b8314c36718e14ad93181d0d6b5dd01b099d3c35d6d5c544cf816ca896419eef
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       for a project (transcripts, tasks, file history, config entry) — supports `--dry-run`,
       `-y/--yes`, `-i/--interactive`, and `--all`'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.126
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -39,7 +39,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: '- Added `claude project purge [path]` to delete all Claude Code state for
-    a proj'
+    a project…'
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-02-25-sources-from-chats-save-useful-chatgpt-responses-into-your-project-so-great-outp|chatgpt-2026-02-25-21a801]]'
@@ -48,11 +48,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-01-v2-1-126-github-316244540-de18d9bb|claude-code-2026-05-01-v2-1-126-github-316244540-de18d9bb]]'
 source_type: github_releases
 theme: projects-workspaces
-title: '- Added claude project purge path to delete all Claude Code state for a proj'
+title: '- Added claude project purge path to delete all Claude Code state for a project…'
 type: change
 ---
 
-# - Added `claude project purge [path]` to delete all Claude Code state for a proj
+# - Added `claude project purge [path]` to delete all Claude Code state for a project…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.126: - Added `claude project purge [path]` to delete all Claude Code state for a project (transcripts, tasks, file history, config entry) — supports `--dry-run`, `-y/--yes`, `-i/--interactive`, and `--all`

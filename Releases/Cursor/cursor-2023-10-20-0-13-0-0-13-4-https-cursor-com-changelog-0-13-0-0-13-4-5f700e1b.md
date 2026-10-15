@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2023-10-20'
-machine_hash: 87f75bad68272a03fe8cb30714403408ca40222c3519cab1ce8c53804e72e579
+machine_hash: 6b9226695461a0207ece551c26481b35777cf7ce33c05ad45d1bfe1c0c16dafb
 product: cursor
 product_name: Cursor
 record:
@@ -40,6 +40,6 @@ Tracked cards: 2
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- apps-integrations: [[Changes/Cursor/2023-10-20-cursor-is-now-based-on-vs-code-1-83-1-this-ensures-that-the-newest-versions-of-a|Cursor is now based on VS Code 1.83.1. This ensures that the newest versions of]]
-- developer-workflow: [[Changes/Cursor/2023-10-20-also-there-s-an-experimental-bash-mode-enable-it-in-the-settings-and-let-the-cha|Also, there's an experimental bash mode: enable it in the settings, and let the]]
+- apps-integrations: [[Changes/Cursor/2023-10-20-cursor-is-now-based-on-vs-code-1-83-1-this-ensures-that-the-newest-versions-of-a|Cursor is now based on VS Code 1.83.1]]
+- developer-workflow: [[Changes/Cursor/2023-10-20-also-there-s-an-experimental-bash-mode-enable-it-in-the-settings-and-let-the-cha|Also, there's an experimental bash mode]]
 <!-- chronolog:end -->

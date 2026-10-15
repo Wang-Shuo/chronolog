@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6e0213c3dd664fabda6e61780ca41bdcf601267bb94063b1d44efad447de5542
+machine_hash: 4151095fad222c987e20d1d35ca9050bd48f99c51e81598ce9e559083c3188f1
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: 'Team invites: We made it a bit easier for you to invite your colleagues
       to your Cursor team. You can send these from the editor''s settings or at cursor.com/settings.'
     source_release: https://cursor.com/changelog/0-30-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -45,8 +45,7 @@ record:
     score: 50
     theme: editor-experience
   theme_resolution: manual-semantic-rule-v1
-  title: 'Team invites: We made it a bit easier for you to invite your colleagues
-    to your'
+  title: 'Team invites: We made it a bit easier for you to invite your colleagues…'
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-02-09-copilot-quality-of-life-improvements-show-ghost-text-more-often-toggle-on-off-on|cursor-2024-02-09-342460]]'
@@ -55,12 +54,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e|cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: 'Team invites: We made it a bit easier for you to invite your colleagues to
-  your'
+title: 'Team invites: We made it a bit easier for you to invite your colleagues…'
 type: change
 ---
 
-# Team invites: We made it a bit easier for you to invite your colleagues to your
+# Team invites: We made it a bit easier for you to invite your colleagues…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Faster Copilot++, Claude: Team invites: We made it a bit easier for you to invite your colleagues to your Cursor team. You can send these from the editor's settings or at cursor.com/settings.

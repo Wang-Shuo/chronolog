@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: b901cbfe1ba49bb55e3ea25a3a34953f4f53fc7e588ddab52be4caa81599e162
+machine_hash: b33eac5f6834bee9f5b9e164cdd2fe1e58da08a0e5a26e0946bd3634ef1b5cb4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
       and 128k max output) when you manually select Thinking. Previously it was 196k
       total tokens.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -38,8 +38,7 @@ record:
   theme: context-window
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: ChatGPT now has a total context window length of 256k tokens (128k input
-    and 128
+  title: ChatGPT now has a total context window length of 256k tokens…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-05-added-summarize-from-here-to-the-message-selector-allowing-partial-conversation|claude-code-2026-02-05-976b5f]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-20-expanded-context-window-for-thinking-31f2c4c2|chatgpt-2026-02-20-expanded-context-window-for-thinking-31f2c4c2]]'
 source_type: chatgpt_changelog
 theme: context-window
-title: ChatGPT now has a total context window length of 256k tokens (128k input and
-  128
+title: ChatGPT now has a total context window length of 256k tokens…
 type: change
 ---
 
-# ChatGPT now has a total context window length of 256k tokens (128k input and 128
+# ChatGPT now has a total context window length of 256k tokens…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Expanded context window for Thinking: ChatGPT now has a total context window length of 256k tokens (128k input and 128k max output) when you manually select Thinking. Previously it was 196k total tokens.

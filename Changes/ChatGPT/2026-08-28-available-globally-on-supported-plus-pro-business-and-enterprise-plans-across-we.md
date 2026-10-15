@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 31fab9ae6ea13f462986d3ed380a45496cabc531d997865be94b9b85b178f9c6
+machine_hash: 25362ce371a94fbc2b69eedfe8f1c05f147b66be67c4ba84ff52db3305d6ee2a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Available globally on supported Plus, Pro, Business, and Enterprise plans
       across web, desktop, iOS, and Android.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -47,7 +47,7 @@ record:
     score: 50
     theme: enterprise-admin
   title: Available globally on supported Plus, Pro, Business, and Enterprise plans
-    across
+    across…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-08-21-find-more-useful-plugins-rankings-now-prioritize-plugins-people-keep-using-after|chatgpt-2026-08-21-a7f317]]'
@@ -56,11 +56,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-28-connect-multiple-google-accounts-to-chatgpt-06db9b52|chatgpt-2026-08-28-connect-multiple-google-accounts-to-chatgpt-06db9b52]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: Available globally on supported Plus, Pro, Business, and Enterprise plans across
+title: Available globally on supported Plus, Pro, Business, and Enterprise plans across…
 type: change
 ---
 
-# Available globally on supported Plus, Pro, Business, and Enterprise plans across
+# Available globally on supported Plus, Pro, Business, and Enterprise plans across…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Connect multiple Google accounts to ChatGPT: Available globally on supported Plus, Pro, Business, and Enterprise plans across web, desktop, iOS, and Android.

@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: f29290b242e6343533cd181be6755b595544b7c46b67ad185d9ccaf7548c6d7b
+machine_hash: 39ef6318d8e1d7d6f802aa07c4e40360808869e5c6214d41c9a274161dbf2418
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,7 +34,7 @@ record:
       progress, answer questions, change direction, and approve important actions
       as it works.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: chatgpt
   product_name: ChatGPT
@@ -57,8 +57,7 @@ record:
     score: 50
     theme: apps-integrations
   theme_resolution: manual-semantic-rule-v2
-  title: ChatGPT Work is an agent for longer, more involved tasks. It can research
-    and an
+  title: ChatGPT Work is an agent for longer, more involved tasks
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-07-improved-subagent-behavior-agents-are-now-less-likely-to-re-delegate-their-entir|claude-code-2026-07-07-14e1c3]]'
@@ -67,12 +66,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272|chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272]]'
 source_type: chatgpt_changelog
 theme: agent-mode
-title: ChatGPT Work is an agent for longer, more involved tasks. It can research and
-  an
+title: ChatGPT Work is an agent for longer, more involved tasks
 type: change
 ---
 
-# ChatGPT Work is an agent for longer, more involved tasks. It can research and an
+# ChatGPT Work is an agent for longer, more involved tasks
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Introducing ChatGPT Work: ChatGPT Work is an agent for longer, more involved tasks. It can research and analyze information, work across connected apps and files, and create finished documents, spreadsheets, presentations, reports, and Sites. You can follow its progress, answer questions, change direction, and approve important actions as it works.

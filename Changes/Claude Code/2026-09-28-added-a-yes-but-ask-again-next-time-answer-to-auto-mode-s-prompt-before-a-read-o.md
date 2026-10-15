@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 06907bfd1ab364fd551accded85293c23abb102171728abee8d452faaaaff189
+machine_hash: 1d2a49e58ad2930538a9749ba6c8444f473cccdb5947a293cd97833c04756da5
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       a read outside the working directories, so you can allow that one read and still
       be asked about later ones
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.284
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   source_type: github_releases
   theme: agent-mode
   title: Added a "Yes, but ask again next time" answer to auto mode's prompt before
-    a rea
+    a read…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-14-added-per-command-allowed-domains-to-bash-powershell-and-monitor-in-auto-mode-wi|claude-code-2026-09-14-96ac4b]]'
@@ -47,11 +47,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-09-28-v2-1-284-github-3
 source_type: github_releases
 theme: agent-mode
 title: Added a "Yes, but ask again next time" answer to auto mode's prompt before
-  a rea
+  a read…
 type: change
 ---
 
-# Added a "Yes, but ask again next time" answer to auto mode's prompt before a rea
+# Added a "Yes, but ask again next time" answer to auto mode's prompt before a read…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.284: Added a "Yes, but ask again next time" answer to auto mode's prompt before a read outside the working directories, so you can allow that one read and still be asked about later ones

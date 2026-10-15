@@ -11,9 +11,9 @@ diffusion:
   theme: search-browsing
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 54c71325ecfc8471004a33139587f839f17234e6fd64a35db8448fb8559bc0ab
+machine_hash: bf126c2f37c5db8e86c9f939275f40f2cde3aa812fd0ecb0b7c1fdc3faf400ac
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   - quote: 'Search History Improvements: Tapping on a search result takes you directly
       to the respective point in the conversation.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -36,8 +36,7 @@ record:
   theme: search-browsing
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: 'Search History Improvements: Tapping on a search result takes you directly
-    to th'
+  title: Search History Improvements
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|chatgpt-2023-03-23-c03c55]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2023-06-22-browsing-and-search-on-mobile-989ccb98|chatgpt-2023-06-22-browsing-and-search-on-mobile-989ccb98]]'
 source_type: chatgpt_changelog
 theme: search-browsing
-title: 'Search History Improvements: Tapping on a search result takes you directly
-  to th'
+title: Search History Improvements
 type: change
 ---
 
-# Search History Improvements: Tapping on a search result takes you directly to th
+# Search History Improvements
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Browsing and search on mobile: Search History Improvements: Tapping on a search result takes you directly to the respective point in the conversation.

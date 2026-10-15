@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2026-05-18'
-machine_hash: b46196931864a4bf0b5d245e7269bd87f438eb21265b42d97de2e67a2543f5ad
+machine_hash: c82087e349d1cef94a8b7a766c75e517de1904f1897e574632fbbf89d6022be8
 product: cursor
 product_name: Cursor
 record:
@@ -39,8 +39,8 @@ Tracked cards: 5
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
 - pricing-model: [[Changes/Cursor/2026-05-18-fast-default-3-00-m-input-15-00-m-output-tokens|Fast (default): $3.00/M input, $15.00/M output tokens]]
-- agent-mode: [[Changes/Cursor/2026-05-18-composer-2-5-is-now-available-in-cursor|Composer 2.5 is now available in Cursor.]]
+- agent-mode: [[Changes/Cursor/2026-05-18-composer-2-5-is-now-available-in-cursor|Composer 2.5 is now available in Cursor]]
 - pricing-model: [[Changes/Cursor/2026-05-18-standard-0-50-m-input-2-50-m-output-tokens|Standard: $0.50/M input, $2.50/M output tokens]]
-- model-support: [[Changes/Cursor/2026-05-18-composer-2-5-includes-double-usage-for-the-first-week-see-our-model-docs-for-ful|Composer 2.5 includes double usage for the first week. See our model docs for fu]]
-- model-support: [[Changes/Cursor/2026-05-18-it-s-a-substantial-improvement-in-intelligence-and-behavior-over-composer-2-it-i|It's a substantial improvement in intelligence and behavior over Composer 2. It]]
+- model-support: [[Changes/Cursor/2026-05-18-composer-2-5-includes-double-usage-for-the-first-week-see-our-model-docs-for-ful|Composer 2.5 includes double usage for the first week]]
+- model-support: [[Changes/Cursor/2026-05-18-it-s-a-substantial-improvement-in-intelligence-and-behavior-over-composer-2-it-i|It's a substantial improvement in intelligence and behavior over Composer 2]]
 <!-- chronolog:end -->

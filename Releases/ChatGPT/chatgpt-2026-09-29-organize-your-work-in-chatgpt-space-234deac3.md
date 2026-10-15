@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-09-29'
-machine_hash: 61ff4b401129d84bd2b1cb8aa17ea645af7fc968fd6cb517629a68165fdf2e21
+machine_hash: 92fb01ab732222acc4f07bb2b449485f980459bb659820490767706836335238
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- collaboration: [[Changes/ChatGPT/2026-09-29-space-brings-your-pages-files-and-related-work-together-in-chatgpt-create-a-spac|Space brings your Pages, files, and related work together in ChatGPT. Create a s]]
+- collaboration: [[Changes/ChatGPT/2026-09-29-space-brings-your-pages-files-and-related-work-together-in-chatgpt-create-a-spac|Space brings your Pages, files, and related work together in ChatGPT]]
 <!-- chronolog:end -->

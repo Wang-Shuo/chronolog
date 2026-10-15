@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3a4c9d97481aa52c138086af20334d323a9c83f3579b88af868b32f905fea814
+machine_hash: 67e23ff868b042d5e65fb73bc4a0f25fcbc5fb36fc444368f793e593049ef448
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: '`/ultraplan` and other remote-session features now auto-create a default
       cloud environment instead of requiring web setup first'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.101
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: '`/ultraplan` and other remote-session features now auto-create a default
-    cloud e'
+    cloud…'
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-04-02-to-try-the-agents-window-upgrade-cursor-and-type-cmd-shift-p-agents-window|cursor-2026-04-02-bad07e]]'
@@ -46,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-10-v2-1-101-github-307692858-ffcdf642|claude-code-2026-04-10-v2-1-101-github-307692858-ffcdf642]]'
 source_type: github_releases
 theme: agent-mode
-title: /ultraplan and other remote-session features now auto-create a default cloud
-  e
+title: /ultraplan and other remote-session features now auto-create a default cloud…
 type: change
 ---
 
-# `/ultraplan` and other remote-session features now auto-create a default cloud e
+# `/ultraplan` and other remote-session features now auto-create a default cloud…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.101: `/ultraplan` and other remote-session features now auto-create a default cloud environment instead of requiring web setup first

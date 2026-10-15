@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: c8f4414b367838735804263b883cff25fc76e4bd2f390c2b7026c2796347a728
+machine_hash: 5e650451f50c72dfdcb1667b38a893d092d7986ad3271101077329af9a7be587
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       picker menu and choosing "Auto-switch to Thinking.” This setting will automatically
       be on if your last chat was set to Auto.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -50,7 +50,7 @@ record:
     score: 50
     theme: model-support
   title: The Auto functionality can be accessed by clicking Configure in the model
-    picker
+    picker…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-10-added-w-key-in-copy-to-write-the-focused-selection-directly-to-a-file-bypassing|claude-code-2026-03-10-7bf58e]]'
@@ -59,11 +59,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-17-updates-to-the-model-picker-in-chatgpt-764a9949|chatgpt-2026-03-17-updates-to-the-model-picker-in-chatgpt-764a9949]]'
 source_type: chatgpt_changelog
 theme: interface-experience
-title: The Auto functionality can be accessed by clicking Configure in the model picker
+title: The Auto functionality can be accessed by clicking Configure in the model picker…
 type: change
 ---
 
-# The Auto functionality can be accessed by clicking Configure in the model picker
+# The Auto functionality can be accessed by clicking Configure in the model picker…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Updates to the model picker in ChatGPT: The Auto functionality can be accessed by clicking Configure in the model picker menu and choosing "Auto-switch to Thinking.” This setting will automatically be on if your last chat was set to Auto.

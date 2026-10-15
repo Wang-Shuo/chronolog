@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d5ebe4bca589672547595051c0fdf1062531d6b2f303561c9644420fb6f210b0
+machine_hash: 73f15400bf27b4bb1431bcf2eed1364c9fa694eddfe622d1e4fe48a9d33d7cf8
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Removes a check in the chat that slows the chat down in certain cases.
     source_release: https://cursor.com/changelog/0-4-1-0-4-2
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,7 +35,7 @@ record:
   theme: reliability-performance
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Removes a check in the chat that slows the chat down in certain cases.
+  title: Removes a check in the chat that slows the chat down in certain cases
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-02-09-turbo-optimized-for-speed-alpha|chatgpt-2023-02-09-b74e9d]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-07-26-0-4-1-0-4-2-https-cursor-com-changelog-0-4-1-0-4-2-99b48b75|cursor-2023-07-26-0-4-1-0-4-2-https-cursor-com-changelog-0-4-1-0-4-2-99b48b75]]'
 source_type: cursor_changelog
 theme: reliability-performance
-title: Removes a check in the chat that slows the chat down in certain cases.
+title: Removes a check in the chat that slows the chat down in certain cases
 type: change
 ---
 
-# Removes a check in the chat that slows the chat down in certain cases.
+# Removes a check in the chat that slows the chat down in certain cases
 
 <!-- chronolog:begin region="description" -->
 Cursor — Hotfixes: Removes a check in the chat that slows the chat down in certain cases.

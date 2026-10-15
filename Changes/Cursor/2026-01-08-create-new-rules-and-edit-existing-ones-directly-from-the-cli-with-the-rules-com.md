@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: eed8dca966e332ab092c112467059fe911fc3c99365b979a9b77b556ecd39acb
+machine_hash: bc6ad359a900f51901c919b85ac11794c6e65df3ca5567e2c22298a6b120343c
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Create new rules and edit existing ones directly from the CLI with the
       /rules command.
     source_release: https://cursor.com/changelog/cli-jan-08-2026
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -39,7 +39,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: Create new rules and edit existing ones directly from the CLI with the /rules
-    co
+    command
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-09-29-when-writing-prompts-autocomplete-suggestions-will-appear-based-on-recent-change|cursor-2025-09-29-19a9cb]]'
@@ -49,11 +49,11 @@ source_release: '[[Releases/Cursor/cursor-2026-01-08-new-cli-features-and-improv
 source_type: cursor_changelog
 theme: editor-experience
 title: Create new rules and edit existing ones directly from the CLI with the /rules
-  co
+  command
 type: change
 ---
 
-# Create new rules and edit existing ones directly from the CLI with the /rules co
+# Create new rules and edit existing ones directly from the CLI with the /rules command
 
 <!-- chronolog:begin region="description" -->
 Cursor — New CLI Features and Improved CLI Performance: Create new rules and edit existing ones directly from the CLI with the /rules command.

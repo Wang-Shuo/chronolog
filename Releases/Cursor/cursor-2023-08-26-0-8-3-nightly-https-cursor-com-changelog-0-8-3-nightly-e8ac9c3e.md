@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-08-26'
-machine_hash: 5f5bb27d8efb733485d614c8c45b534df780695ddbcb49e87044996f4f6ac37e
+machine_hash: 084c80105ce12b9d0d58d1a9e83e9a8829c686cf98ac1288cdc0af6a5d062a37
 product: cursor
 product_name: Cursor
 record:
@@ -39,5 +39,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- developer-workflow: [[Changes/Cursor/2023-08-26-we-had-a-big-bug-for-people-on-language-packs-thank-you-to-all-who-helped-us-deb|We had a big bug for people on language packs. Thank you to all who helped us de]]
+- developer-workflow: [[Changes/Cursor/2023-08-26-we-had-a-big-bug-for-people-on-language-packs-thank-you-to-all-who-helped-us-deb|We had a big bug for people on language packs]]
 <!-- chronolog:end -->

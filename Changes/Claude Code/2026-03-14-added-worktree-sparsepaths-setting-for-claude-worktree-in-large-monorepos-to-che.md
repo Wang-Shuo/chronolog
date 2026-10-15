@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 81ebbf1c6d6c6f3aa43fc14dc99d6ae5d809b2a11dc8dbf9ae47796260efc2b5
+machine_hash: 28f231793ee7e43633f5e81c6cc0b89de1fe85c7c839185f605f41209e3f05cb
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Added `worktree.sparsePaths` setting for `claude --worktree` in large monorepos
       to check out only the directories you need via git sparse-checkout
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.76
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,7 +35,7 @@ record:
   source_release: claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc
   source_type: github_releases
   theme: developer-workflow
-  title: Added `worktree.sparsePaths` setting for `claude --worktree` in large monorepos
+  title: Added `worktree.sparsePaths` setting for `claude --worktree` in large monorepos…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-07-added-fmt-comm-cmp-numfmt-expr-test-printf-getconf-seq-tsort-and-pr-to-the-bash|claude-code-2026-03-07-de91e9]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc|claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc]]'
 source_type: github_releases
 theme: developer-workflow
-title: Added worktree.sparsePaths setting for claude --worktree in large monorepos
+title: Added worktree.sparsePaths setting for claude --worktree in large monorepos…
 type: change
 ---
 
-# Added `worktree.sparsePaths` setting for `claude --worktree` in large monorepos
+# Added `worktree.sparsePaths` setting for `claude --worktree` in large monorepos…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.76: Added `worktree.sparsePaths` setting for `claude --worktree` in large monorepos to check out only the directories you need via git sparse-checkout

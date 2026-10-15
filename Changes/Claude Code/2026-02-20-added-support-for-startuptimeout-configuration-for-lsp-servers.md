@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 30dd34bcf74e4e6b25ab3ff170a5e61935df4bdf507907b54c435127eb837aec
+machine_hash: 7350778aea915e821fa196f387f41b903ce2ca92d1195fd29480b21b16fe4fb2
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: Added support for `startupTimeout` configuration for LSP servers
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.50
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code

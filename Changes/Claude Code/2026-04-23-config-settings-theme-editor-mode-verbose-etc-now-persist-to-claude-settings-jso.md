@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7f54a700a2ab212e7646a1dd252bae6fa9df4f6008850f0e1c298ca02bf6ce7d
+machine_hash: 47eb0d1d4f8e61ef781ffb571b03f758c98ffa56ce132ec992cc0c6c18c5c118
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: '`/config` settings (theme, editor mode, verbose, etc.) now persist to
       `~/.claude/settings.json` and participate in project/local/policy override precedence'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.119
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,7 +35,7 @@ record:
   source_release: claude-code-2026-04-23-v2-1-119-github-312949780-573724e7
   source_type: github_releases
   theme: editor-experience
-  title: '`/config` settings (theme, editor mode, verbose, etc.) now persist to `~/.claude'
+  title: '`/config` settings (theme, editor mode, verbose, etc.) now persist…'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-08-added-syntax-highlighting-for-cedar-policy-files-cedar-cedarpolicy|claude-code-2026-04-08-dcfaa4]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-23-v2-1-119-github-312949780-573724e7|claude-code-2026-04-23-v2-1-119-github-312949780-573724e7]]'
 source_type: github_releases
 theme: editor-experience
-title: /config settings (theme, editor mode, verbose, etc.) now persist to ~/.claude
+title: /config settings (theme, editor mode, verbose, etc.) now persist…
 type: change
 ---
 
-# `/config` settings (theme, editor mode, verbose, etc.) now persist to `~/.claude
+# `/config` settings (theme, editor mode, verbose, etc.) now persist…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.119: `/config` settings (theme, editor mode, verbose, etc.) now persist to `~/.claude/settings.json` and participate in project/local/policy override precedence

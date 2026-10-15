@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 240b4906422489c73b68e3afcc6ff9701dfc8a844734af9ea2dc85b170deef85
+machine_hash: 6724c4c4db330c9296c852b7728a601953bc098be7cf96d76d1b09aa4627bc3a
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Cursor is now based on version 1.79.2 of VSCodium, which comes with security
       updates and minor features
     source_release: https://cursor.com/changelog/0-2-36
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,7 +35,7 @@ record:
   source_type: cursor_changelog
   theme: safety-privacy
   title: Cursor is now based on version 1.79.2 of VSCodium, which comes with security
-    upd
+    updates…
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|cursor-2023-04-16-f0e22a]]'
@@ -43,11 +43,11 @@ source_release: '[[Releases/Cursor/cursor-2023-06-27-0-2-36-https-cursor-com-cha
 source_type: cursor_changelog
 theme: safety-privacy
 title: Cursor is now based on version 1.79.2 of VSCodium, which comes with security
-  upd
+  updates…
 type: change
 ---
 
-# Cursor is now based on version 1.79.2 of VSCodium, which comes with security upd
+# Cursor is now based on version 1.79.2 of VSCodium, which comes with security updates…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Hotfixes: Cursor is now based on version 1.79.2 of VSCodium, which comes with security updates and minor features

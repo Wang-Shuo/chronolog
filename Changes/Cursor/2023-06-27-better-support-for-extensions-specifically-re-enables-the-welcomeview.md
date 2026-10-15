@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 9c92bacc129054810f602232e3d83a0f5ecc8d1cddb3f6f75c4103ad4b577b01
+machine_hash: 3fe5fbb52be20d976e906297dbecdc2872e5c7ea42b6688b60df09be5db53bdd
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: Better support for extensions (specifically re-enables the welcomeView)
     source_release: https://cursor.com/changelog/0-2-37
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor

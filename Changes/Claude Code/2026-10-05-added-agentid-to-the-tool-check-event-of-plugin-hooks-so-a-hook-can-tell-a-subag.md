@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 021955a5441a0592b96687cd974741c64c342fa21aa9c65e7c9cf398bbeea1a8
+machine_hash: d915f62072549c62e7830b2fa38bcaebcd58b854229c2ab3ec7874d95724761e
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Added `agentId` to the `tool.check` event of plugin hooks, so a hook can
       tell a subagent's permission check from the main session's
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.290
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -46,7 +46,7 @@ record:
     theme: apps-integrations
   theme_resolution: manual-semantic-rule-v2
   title: Added `agentId` to the `tool.check` event of plugin hooks, so a hook can
-    tell a
+    tell…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-09-25-we-re-introducing-security-history-a-new-way-to-review-recent-security-activity|chatgpt-2026-09-25-48984c]]'
@@ -55,11 +55,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-10-05-v2-1-290-github-403993621-ae06f2b6|claude-code-2026-10-05-v2-1-290-github-403993621-ae06f2b6]]'
 source_type: github_releases
 theme: safety-privacy
-title: Added agentId to the tool.check event of plugin hooks, so a hook can tell a
+title: Added agentId to the tool.check event of plugin hooks, so a hook can tell…
 type: change
 ---
 
-# Added `agentId` to the `tool.check` event of plugin hooks, so a hook can tell a
+# Added `agentId` to the `tool.check` event of plugin hooks, so a hook can tell…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.290: Added `agentId` to the `tool.check` event of plugin hooks, so a hook can tell a subagent's permission check from the main session's

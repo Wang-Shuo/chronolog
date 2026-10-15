@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 309c195ed550289ffd2f7a49b019edef35db8485b27a7188a81d4d4435826d42
+machine_hash: a27003099f55104a7b6ebacf93b5320183274c53be9b7636231d01a578227117
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
   - quote: When you select GPT-5 with Thinking in ChatGPT, you’ll see a new thinking
       time toggle in the message composer.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -40,7 +40,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: When you select GPT-5 with Thinking in ChatGPT, you’ll see a new thinking
-    time t
+    time…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-09-16-factuality-fewer-hallucinations-improving-answer-quality|chatgpt-2025-09-16-2c56ab]]'
@@ -49,12 +49,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-17-toggle-thinking-time-in-the-message-composer-66cafc9c|chatgpt-2025-09-17-toggle-thinking-time-in-the-message-composer-66cafc9c]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: When you select GPT-5 with Thinking in ChatGPT, you’ll see a new thinking time
-  t
+title: When you select GPT-5 with Thinking in ChatGPT, you’ll see a new thinking time…
 type: change
 ---
 
-# When you select GPT-5 with Thinking in ChatGPT, you’ll see a new thinking time t
+# When you select GPT-5 with Thinking in ChatGPT, you’ll see a new thinking time…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Toggle thinking time in the message composer: When you select GPT-5 with Thinking in ChatGPT, you’ll see a new thinking time toggle in the message composer.

@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: fb966a585302ecbd3f1ef7f0ed57d08e1d44b4e9c5ef884b5118110814280742
+machine_hash: bb90025c2846cf4b779526efdca717b668f8fb581ff902e69458c1a4fe0442d2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       answer questions directly in your conversation. Available to all consumer ChatGPT
       plans and Edu plans on web and mobile.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -37,8 +37,7 @@ record:
   source_release: chatgpt-2026-08-14-chatgpt-app-experience-updates-d15f55c5
   source_type: chatgpt_changelog
   theme: mobile-desktop
-  title: Practice with interactive quizzes. Ask ChatGPT to quiz you on a topic and
-    answer
+  title: Practice with interactive quizzes
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-08-07-find-folders-files-and-past-conversations-faster-search-now-includes-folders-and|chatgpt-2026-08-07-e589aa]]'
@@ -47,11 +46,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-14-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-08-14-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: Practice with interactive quizzes. Ask ChatGPT to quiz you on a topic and answer
+title: Practice with interactive quizzes
 type: change
 ---
 
-# Practice with interactive quizzes. Ask ChatGPT to quiz you on a topic and answer
+# Practice with interactive quizzes
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT app experience updates: Practice with interactive quizzes. Ask ChatGPT to quiz you on a topic and answer questions directly in your conversation. Available to all consumer ChatGPT plans and Edu plans on web and mobile.

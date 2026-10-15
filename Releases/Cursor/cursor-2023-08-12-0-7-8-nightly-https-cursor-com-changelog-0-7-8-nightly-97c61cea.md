@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-08-12'
-machine_hash: 5c360b0b723e689176f6fe47d0d120e26cea17d3bffab58569dfa7e5a9c04215
+machine_hash: 4db83bfb91b65d42b7db9965c7ed69d357b8ec74174aa4ba463f07624979a133
 product: cursor
 product_name: Cursor
 record:
@@ -40,5 +40,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- editor-experience: [[Changes/Cursor/2023-08-12-the-cmd-k-edits-now-support-followups-this-is-an-early-preview-please-let-us-kno|The cmd-k edits now support followups! This is an early preview — please let us]]
+- editor-experience: [[Changes/Cursor/2023-08-12-the-cmd-k-edits-now-support-followups-this-is-an-early-preview-please-let-us-kno|The cmd-k edits now support followups!]]
 <!-- chronolog:end -->

@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-02-04'
-machine_hash: 25c8becb2a1f1cab806279bfe77f016e8dbbf66ef3b3a2682171a2e4b9d03fe4
+machine_hash: 0a5e5eaff8584a5b003297d539ac54e08cb73237661531bf9c9918b262ede402
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2026-02-04-jan-10-2026-we-lowered-the-standard-and-light-thinking-time-as-we-observed-users-e93d5a|Jan 10, 2026: We lowered the Standard and Light thinking time as we observed use]]
+- model-support: [[Changes/ChatGPT/2026-02-04-jan-10-2026-we-lowered-the-standard-and-light-thinking-time-as-we-observed-users-e93d5a|Jan 10, 2026: We lowered the Standard and Light thinking time as we observed users…]]
 <!-- chronolog:end -->

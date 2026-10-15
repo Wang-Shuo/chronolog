@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: ec08e3c714f2cdecb008d0dfceaad8c5f86a629dac8c1de9270b2688f2631af5
+machine_hash: 82ab38ceb58f6a4af657dad45aecde513e56b695ba58f8139edc75ee34ef6888
 product: cursor
 product_name: Cursor
 record:
@@ -30,7 +30,7 @@ record:
       something described in the ticket. When the agent finishes, Jira shows completion
       updates and includes a link to the pull request.
     source_release: https://cursor.com/changelog/05-19-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -53,7 +53,7 @@ record:
     theme: editor-experience
   theme_resolution: manual-semantic-rule-v1
   title: You can ask Cursor to fix bugs, add features, update tests, or investigate
-    somet
+    something…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-15-added-plugin-dependency-enforcement-claude-plugin-disable-now-refuses-when-anoth|claude-code-2026-05-15-4c3e5a]]'
@@ -63,11 +63,11 @@ source_release: '[[Releases/Cursor/cursor-2026-05-19-cursor-in-jira-https-cursor
 source_type: cursor_changelog
 theme: apps-integrations
 title: You can ask Cursor to fix bugs, add features, update tests, or investigate
-  somet
+  something…
 type: change
 ---
 
-# You can ask Cursor to fix bugs, add features, update tests, or investigate somet
+# You can ask Cursor to fix bugs, add features, update tests, or investigate something…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cursor in Jira: You can ask Cursor to fix bugs, add features, update tests, or investigate something described in the ticket. When the agent finishes, Jira shows completion updates and includes a link to the pull request.

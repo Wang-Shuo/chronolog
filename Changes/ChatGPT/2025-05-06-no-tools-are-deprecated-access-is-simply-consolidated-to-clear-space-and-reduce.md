@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 25977a7af8544eed8cf5ac8a6ebc1c9d9b9e5ed5d5c0b6c58bae80710f0f54d6
+machine_hash: 1a33d9d40f15d61fcc6b1693ddb11ce80268d56d1755b6a7daa946afd400768c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: No tools are deprecated—access is simply consolidated to clear space and
       reduce on‑screen clutter.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -38,7 +38,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: No tools are deprecated—access is simply consolidated to clear space and
-    reduce
+    reduce…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-03-18-2-added-long-press-on-your-message-to-open-menu-actions-copy-edit|chatgpt-2025-03-18-37812a]]'
@@ -47,11 +47,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-06-mobile-ui-ios-android-changing-on-free-plus-pro-plans-be1d56cb|chatgpt-2025-05-06-mobile-ui-ios-android-changing-on-free-plus-pro-plans-be1d56cb]]'
 source_type: chatgpt_changelog
 theme: interface-experience
-title: No tools are deprecated—access is simply consolidated to clear space and reduce
+title: No tools are deprecated—access is simply consolidated to clear space and reduce…
 type: change
 ---
 
-# No tools are deprecated—access is simply consolidated to clear space and reduce
+# No tools are deprecated—access is simply consolidated to clear space and reduce…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Mobile UI (iOS/Android) changing on Free/Plus/Pro plans: No tools are deprecated—access is simply consolidated to clear space and reduce on‑screen clutter.

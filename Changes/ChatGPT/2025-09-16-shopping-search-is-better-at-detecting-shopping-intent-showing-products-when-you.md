@@ -11,9 +11,9 @@ diffusion:
   theme: search-browsing
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a4ae84cb97108c770ada90cc920a3b3797bd285e160e49578c1714df9606ab2e
+machine_hash: 65b9b57ea16fe6d8d12b2b436df799df0f03ed18fb052ffd168a0a4616ebea41
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: 'Shopping: Search is better at detecting shopping intent, showing products
       when you want them and keeping results focused when you don’t.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -38,7 +38,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: 'Shopping: Search is better at detecting shopping intent, showing products
-    when y'
+    when you…'
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-07-24-pro-users-can-now-connect-to-canva-and-notion-for-both-chat-search-and-deep-rese-bd2af2|chatgpt-2025-07-24-bd2af2]]'
@@ -48,11 +48,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2025-09-16-improvements-to-search-in
 source_type: chatgpt_changelog
 theme: search-browsing
 title: 'Shopping: Search is better at detecting shopping intent, showing products
-  when y'
+  when you…'
 type: change
 ---
 
-# Shopping: Search is better at detecting shopping intent, showing products when y
+# Shopping: Search is better at detecting shopping intent, showing products when you…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Improvements to search in ChatGPT: Shopping: Search is better at detecting shopping intent, showing products when you want them and keeping results focused when you don’t.

@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2026-03-03'
-machine_hash: 7977fac1e19a2c2e3699446aff5c3e4929dd3b60d8eabfa9d76cbbb9ba53f7f9
+machine_hash: 6d1b89e83cb029ca075c365ca27426157d15cbaeb960eb7ea1ab272a65d5d19c
 product: cursor
 product_name: Cursor
 record:
@@ -40,9 +40,9 @@ Tracked cards: 5
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- apps-integrations: [[Changes/Cursor/2026-03-03-mcp-apps-support-interactive-user-interfaces-like-charts-from-amplitude-diagrams|MCP Apps support interactive user interfaces like charts from Amplitude, diagram]]
-- developer-workflow: [[Changes/Cursor/2026-03-03-added-support-for-multiple-parallel-debug-mode-sessions|Added support for multiple parallel Debug mode sessions.]]
+- apps-integrations: [[Changes/Cursor/2026-03-03-mcp-apps-support-interactive-user-interfaces-like-charts-from-amplitude-diagrams|MCP Apps support interactive user interfaces like charts from Amplitude, diagrams…]]
+- developer-workflow: [[Changes/Cursor/2026-03-03-added-support-for-multiple-parallel-debug-mode-sessions|Added support for multiple parallel Debug mode sessions]]
 - mobile-desktop: [[Changes/Cursor/2026-03-03-desktop-improvements-15|Desktop Improvements (15)↓↑]]
-- enterprise-admin: [[Changes/Cursor/2026-03-03-on-teams-and-enterprise-plans-admins-can-now-create-team-marketplaces-to-share-p|On Teams and Enterprise plans, Admins can now create team marketplaces to share]]
-- developer-workflow: [[Changes/Cursor/2026-03-03-this-release-introduces-interactive-uis-in-agent-chats-a-way-for-teams-to-share|This release introduces interactive UIs in agent chats, a way for teams to share]]
+- enterprise-admin: [[Changes/Cursor/2026-03-03-on-teams-and-enterprise-plans-admins-can-now-create-team-marketplaces-to-share-p|On Teams and Enterprise plans, Admins can now create team marketplaces to share…]]
+- developer-workflow: [[Changes/Cursor/2026-03-03-this-release-introduces-interactive-uis-in-agent-chats-a-way-for-teams-to-share|Cursor introduces interactive UIs in agent chats, a way for teams to share private…]]
 <!-- chronolog:end -->

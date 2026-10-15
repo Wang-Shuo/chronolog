@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7d9c523e10c79bfac4e6446a63d284d46c16197e2c4eeebd31da5bf8951e78ec
+machine_hash: 226a903a90e6cf08b01869143b130290b1dffccf6a776126e9aebcdb061c7685
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `workspace.git_worktree` to the status line JSON input, set when
       the current directory is inside a linked git worktree
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.97
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -45,7 +45,7 @@ record:
     theme: developer-workflow
   theme_resolution: manual-semantic-rule-v1
   title: Added `workspace.git_worktree` to the status line JSON input, set when the
-    curre
+    current…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-26-added-worktreecreate-hook-support-for-type-http-return-the-created-worktree-path|claude-code-2026-03-26-b1182f]]'
@@ -54,11 +54,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-08-v2-1-97-github-306811434-0f57bf33|claude-code-2026-04-08-v2-1-97-github-306811434-0f57bf33]]'
 source_type: github_releases
 theme: developer-workflow
-title: Added workspace.git_worktree to the status line JSON input, set when the curre
+title: Added workspace.git_worktree to the status line JSON input, set when the current…
 type: change
 ---
 
-# Added `workspace.git_worktree` to the status line JSON input, set when the curre
+# Added `workspace.git_worktree` to the status line JSON input, set when the current…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.97: Added `workspace.git_worktree` to the status line JSON input, set when the current directory is inside a linked git worktree

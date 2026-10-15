@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: bbb5d4b6d53388c17220855f3754d0cb26102d8474b45c1610e7a01384b5c6bb
+machine_hash: ad21e031ae412f00e3b37ab2a1e4b6f10cb7e6dd39762c3779e8bebb20378cd2
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Added a line on stderr, when it is a terminal, that says what a `claude
       -p` run is waiting for when it stays open after its last turn
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.295
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,7 +36,7 @@ record:
   source_type: github_releases
   theme: developer-workflow
   title: Added a line on stderr, when it is a terminal, that says what a `claude -p`
-    run
+    run…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-30-improved-commit-guidance-when-your-project-or-user-skills-include-one-named-veri|claude-code-2026-09-30-5bb352]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510|claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510]]'
 source_type: github_releases
 theme: developer-workflow
-title: Added a line on stderr, when it is a terminal, that says what a claude -p run
+title: Added a line on stderr, when it is a terminal, that says what a claude -p run…
 type: change
 ---
 
-# Added a line on stderr, when it is a terminal, that says what a `claude -p` run
+# Added a line on stderr, when it is a terminal, that says what a `claude -p` run…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.295: Added a line on stderr, when it is a terminal, that says what a `claude -p` run is waiting for when it stays open after its last turn

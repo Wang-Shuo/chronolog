@@ -11,9 +11,9 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 178ef0893840586f74d6ddb2e5aaeede2abf947fda1861653fc70a4562161cff
+machine_hash: df7487c093c8a54175f36bd55d3308337b1a663520b078aa856fa0e441ac0eb2
 product: cursor
 product_name: Cursor
 record:
@@ -24,7 +24,7 @@ record:
   evidence:
   - quote: AI now requires login
     source_release: https://cursor.com/changelog/0-1-12
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

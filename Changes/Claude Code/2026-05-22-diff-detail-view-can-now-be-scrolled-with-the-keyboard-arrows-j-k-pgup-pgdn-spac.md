@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: af58532f5f846616257f269c7861306d9c40a00ff1a5b7c0435b35d92f5cc587
+machine_hash: b21ec09aadc4b2807342afc9e48e34d6fe3d097f0b41516887bbcf0b6a06710c
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: '`/diff` detail view can now be scrolled with the keyboard (arrows, `j`/`k`,
       `PgUp`/`PgDn`, `Space`, `Home`/`End`)'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.149
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   theme: editor-experience
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: '`/diff` detail view can now be scrolled with the keyboard (arrows, `j`/`k`,
-    `PgU'
+  title: '`/diff` detail view can now be scrolled with the keyboard…'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-23-merged-cost-and-stats-into-usage-both-remain-as-typing-shortcuts-that-open-the-r|claude-code-2026-04-23-d2d8be]]'
@@ -46,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-22-v2-1-149-github-328077450-086ee33f|claude-code-2026-05-22-v2-1-149-github-328077450-086ee33f]]'
 source_type: github_releases
 theme: editor-experience
-title: /diff detail view can now be scrolled with the keyboard (arrows, j/k, PgU
+title: /diff detail view can now be scrolled with the keyboard…
 type: change
 ---
 
-# `/diff` detail view can now be scrolled with the keyboard (arrows, `j`/`k`, `PgU
+# `/diff` detail view can now be scrolled with the keyboard…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.149: `/diff` detail view can now be scrolled with the keyboard (arrows, `j`/`k`, `PgUp`/`PgDn`, `Space`, `Home`/`End`)

@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a87b2608d5a2a13a51062748e96ec2e79999a188e2db46b07c787cfb9bee269f
+machine_hash: 025a7d670c5e01422dc2663b2b3548f885c63a3eb4d8a7785dac927ddbfbb4d5
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Or, on chat, press Cmd+Enter in order to get a response that uses context
       from the full codebase.
     source_release: https://cursor.com/changelog/0-2-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -34,8 +34,7 @@ record:
   source_release: cursor-2023-06-06-0-2-26-https-cursor-com-changelog-0-2-26-1b7664cb
   source_type: cursor_changelog
   theme: context-window
-  title: Or, on chat, press Cmd+Enter in order to get a response that uses context
-    from t
+  title: Or, on chat, press Cmd+Enter in order to get a response that uses context…
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-05-17-context-ingestion-across-a-full-notebook|cursor-2023-05-17-965246]]'
@@ -44,12 +43,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-06-06-0-2-26-https-cursor-com-changelog-0-2-26-1b7664cb|cursor-2023-06-06-0-2-26-https-cursor-com-changelog-0-2-26-1b7664cb]]'
 source_type: cursor_changelog
 theme: context-window
-title: Or, on chat, press Cmd+Enter in order to get a response that uses context from
-  t
+title: Or, on chat, press Cmd+Enter in order to get a response that uses context…
 type: change
 ---
 
-# Or, on chat, press Cmd+Enter in order to get a response that uses context from t
+# Or, on chat, press Cmd+Enter in order to get a response that uses context…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Codebase Context v1: Or, on chat, press Cmd+Enter in order to get a response that uses context from the full codebase.

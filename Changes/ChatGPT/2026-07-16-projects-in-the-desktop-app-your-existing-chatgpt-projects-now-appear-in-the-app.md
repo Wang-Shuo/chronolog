@@ -11,9 +11,9 @@ diffusion:
   theme: projects-workspaces
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3b9d480deaa07510937a6ceb27f9e8b8a644dbdc37af55dac298e652ce45dd28
+machine_hash: 86e1232a279bd7eec49533d9281304181c5ea49569d56eb2e2869c600b707f31
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
       in the app. You can start a Chat conversation inside a Project or begin a Work
       thread using Project context.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -51,7 +51,7 @@ record:
     theme: mobile-desktop
   theme_resolution: manual-semantic-rule-v1
   title: 'Projects in the desktop app: Your existing ChatGPT Projects now appear in
-    the ap'
+    the app'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-26-improved-remote-session-startup-with-a-provisioning-checklist-while-the-containe|claude-code-2026-06-26-223a05]]'
@@ -61,11 +61,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-07-16-chatgpt-desktop-app-exper
 source_type: chatgpt_changelog
 theme: projects-workspaces
 title: 'Projects in the desktop app: Your existing ChatGPT Projects now appear in
-  the ap'
+  the app'
 type: change
 ---
 
-# Projects in the desktop app: Your existing ChatGPT Projects now appear in the ap
+# Projects in the desktop app: Your existing ChatGPT Projects now appear in the app
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT desktop app experience updates: Projects in the desktop app: Your existing ChatGPT Projects now appear in the app. You can start a Chat conversation inside a Project or begin a Work thread using Project context.

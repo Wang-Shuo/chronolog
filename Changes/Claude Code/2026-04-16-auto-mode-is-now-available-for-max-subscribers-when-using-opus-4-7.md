@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5f8cdef9892f0eaa132722274fd15488bbd152a5d66dfbe57bbb7db0f7df6bf7
+machine_hash: 7aa54b0f4c5e144b0896bf8700394b8cf0ac9caf6bb66ca5e869d8bae7f72a15
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Auto mode is now available for Max subscribers when using Opus 4.7
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.111
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

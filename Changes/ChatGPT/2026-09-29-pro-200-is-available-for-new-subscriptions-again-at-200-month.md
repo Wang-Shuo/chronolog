@@ -11,9 +11,9 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 4082ecfa148f9d50cc37d2de99a7ab577024f138093c3243f86893648e4550c8
+machine_hash: 7701a001a1eeca50be3e15b146a0c9fdb49f699b526aa5f6ec4e12b834bf90ab
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: Pro 200 is available for new subscriptions again at $200/month.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -37,7 +37,7 @@ record:
   theme: pricing-model
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: Pro 200 is available for new subscriptions again at $200/month.
+  title: Pro 200 is available for new subscriptions again at $200/month
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-10-added-to-the-claude-apps-gateway-with-pricing-set-in-gateway-yaml-signed-in-clau|claude-code-2026-09-10-501aa5]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-pro-200-subscriptions-a351b7b9|chatgpt-2026-09-29-pro-200-subscriptions-a351b7b9]]'
 source_type: chatgpt_changelog
 theme: pricing-model
-title: Pro 200 is available for new subscriptions again at $200/month.
+title: Pro 200 is available for new subscriptions again at $200/month
 type: change
 ---
 
-# Pro 200 is available for new subscriptions again at $200/month.
+# Pro 200 is available for new subscriptions again at $200/month
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Pro 200 subscriptions: Pro 200 is available for new subscriptions again at $200/month.

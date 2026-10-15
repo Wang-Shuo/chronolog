@@ -11,9 +11,9 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 72d86c1cf6d098c4c71f7b78318ddd9148db2eb3c2acc5cd1bec7f11ff281f15
+machine_hash: 4cce96f2ed191e017c8915c39a4603199752c188a5f5de840e54fcc3e41146db
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Content from a Live voice conversation can now appear on your iPhone’s
       Lock Screen and, on iPhones with Dynamic Island, in the Dynamic Island.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -45,7 +45,7 @@ record:
     score: 50
     theme: mobile-desktop
   title: Content from a Live voice conversation can now appear on your iPhone’s Lock
-    Scre
+    Screen…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-07-23-chatgpt-voice-is-now-available-in-work-and-codex-in-the-chatgpt-desktop-app-star|chatgpt-2026-07-23-de2af4]]'
@@ -55,11 +55,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-08-31-see-live-voice-content-on
 source_type: chatgpt_changelog
 theme: voice
 title: Content from a Live voice conversation can now appear on your iPhone’s Lock
-  Scre
+  Screen…
 type: change
 ---
 
-# Content from a Live voice conversation can now appear on your iPhone’s Lock Scre
+# Content from a Live voice conversation can now appear on your iPhone’s Lock Screen…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — See Live voice content on your Lock Screen: Content from a Live voice conversation can now appear on your iPhone’s Lock Screen and, on iPhones with Dynamic Island, in the Dynamic Island.

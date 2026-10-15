@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 249e87b6ea252e172bb0812bd4a9897d7e8ea10117d87acef8920ee7c44478b4
+machine_hash: 4324e67df83be6920ed43cfd8f9151a6fd3bf062accc75c4b2e96e804ccd34cc
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
   - quote: You can now reply to Cmd-K outputs, making it much easier to have the model
       revise its work.
     source_release: https://cursor.com/changelog/0-8-2
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -47,8 +47,8 @@ record:
     score: 50
     theme: model-support
   theme_resolution: manual-semantic-rule-v1
-  title: You can now reply to Cmd-K outputs, making it much easier to have the model
-    revi
+  title: Reply to Cmd-K outputs, making it much easier to have the model revise its
+    work
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-08-12-the-cmd-k-edits-now-support-followups-this-is-an-early-preview-please-let-us-kno|cursor-2023-08-12-e1c4d2]]'
@@ -57,12 +57,12 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-08-22-0-8-2-https-cursor-com-changelog-0-8-2-866d920f|cursor-2023-08-22-0-8-2-https-cursor-com-changelog-0-8-2-866d920f]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: You can now reply to Cmd-K outputs, making it much easier to have the model
-  revi
+title: Reply to Cmd-K outputs, making it much easier to have the model revise its
+  work
 type: change
 ---
 
-# You can now reply to Cmd-K outputs, making it much easier to have the model revi
+# Reply to Cmd-K outputs, making it much easier to have the model revise its work
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cmd-k Followups, chat with large files, and more: You can now reply to Cmd-K outputs, making it much easier to have the model revise its work.

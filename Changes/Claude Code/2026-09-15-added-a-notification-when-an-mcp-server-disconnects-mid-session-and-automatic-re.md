@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6b233bbcbbf061c3f41f254c306a590fccdf40e8f8391d797dad0d73b441e357
+machine_hash: 278ff514236be0b18fe88571c7d72b45af8191acbbe22338365ba1e9f10bd3bc
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added a notification when an MCP server disconnects mid-session and automatic
       reconnection gives up, pointing at `/mcp`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.273
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -34,8 +34,7 @@ record:
   source_release: claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826
   source_type: github_releases
   theme: apps-integrations
-  title: Added a notification when an MCP server disconnects mid-session and automatic
-    re
+  title: Added a notification when an MCP server disconnects mid-session and automatic…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-09-14-for-new-health-plugin-connections-chatgpt-will-now-default-to-each-user-s-global|chatgpt-2026-09-14-c10999]]'
@@ -44,12 +43,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826|claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added a notification when an MCP server disconnects mid-session and automatic
-  re
+title: Added a notification when an MCP server disconnects mid-session and automatic…
 type: change
 ---
 
-# Added a notification when an MCP server disconnects mid-session and automatic re
+# Added a notification when an MCP server disconnects mid-session and automatic…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.273: Added a notification when an MCP server disconnects mid-session and automatic reconnection gives up, pointing at `/mcp`

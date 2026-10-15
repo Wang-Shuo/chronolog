@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 0786ef61d60fec1fe5cac7d7fb662dc86b8bf37c4742576fe6f7f49de697ebf8
+machine_hash: e439aa56ffb7dae2b91082ea3be186185b0faed974da2057476755259a560005
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
   - quote: This release introduces interactive UIs in agent chats, a way for teams
       to share private plugins, and improvements to core capabilities like Debug mode.
     source_release: https://cursor.com/changelog/2-6
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -51,8 +51,8 @@ record:
     score: 50
     theme: collaboration
   theme_resolution: manual-semantic-rule-v1
-  title: This release introduces interactive UIs in agent chats, a way for teams to
-    share
+  title: Cursor introduces interactive UIs in agent chats, a way for teams to share
+    private…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-28-improved-model-command-to-show-the-currently-active-model-in-the-slash-command-m|claude-code-2026-02-28-506d57]]'
@@ -61,12 +61,12 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3|cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3]]'
 source_type: cursor_changelog
 theme: developer-workflow
-title: This release introduces interactive UIs in agent chats, a way for teams to
-  share
+title: Cursor introduces interactive UIs in agent chats, a way for teams to share
+  private…
 type: change
 ---
 
-# This release introduces interactive UIs in agent chats, a way for teams to share
+# Cursor introduces interactive UIs in agent chats, a way for teams to share private…
 
 <!-- chronolog:begin region="description" -->
 Cursor — MCP Apps and Team Marketplaces for Plugins: This release introduces interactive UIs in agent chats, a way for teams to share private plugins, and improvements to core capabilities like Debug mode.

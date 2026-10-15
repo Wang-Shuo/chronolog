@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e27b9ce6a19f59c917623b1391d45a8fadd12d01f09f2d8c53cb216c77877068
+machine_hash: adbc59096e992672e36ff36b80c5e8a94437ace9ceeb4fcb4e6829313ea05e65
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added quoted text to the `/copy` picker, so a drafted message copies without
       its `>` markers
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.295
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,7 +35,7 @@ record:
   source_type: github_releases
   theme: interface-experience
   title: Added quoted text to the `/copy` picker, so a drafted message copies without
-    its
+    its `>`…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-28-added-rate-limit-options-to-help-and-the-command-menu-for-claude-ai-subscribers|claude-code-2026-09-28-d0d342]]'
@@ -45,11 +45,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-10-08-v2-1-295-github-4
 source_type: github_releases
 theme: interface-experience
 title: Added quoted text to the /copy picker, so a drafted message copies without
-  its
+  its …
 type: change
 ---
 
-# Added quoted text to the `/copy` picker, so a drafted message copies without its
+# Added quoted text to the `/copy` picker, so a drafted message copies without its `>`…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.295: Added quoted text to the `/copy` picker, so a drafted message copies without its `>` markers

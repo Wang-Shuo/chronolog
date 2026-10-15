@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: d2bea396e324887ad9a98049267b7fc6a23994d843d23ac2b257303832bbaf08
+machine_hash: f71fe41cbd3c957ba240460ea75f983eca02056f9ef5aa19b66cc4efe2a6dbb8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
   - quote: 'Plugins: Try a new version of ChatGPT that knows when and how to use third-party
       plugins that you enable.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -37,7 +37,7 @@ record:
   source_release: chatgpt-2023-05-12-web-browsing-and-plugins-are-now-rolling-out-in-beta-5dbe86e7
   source_type: chatgpt_changelog
   theme: apps-integrations
-  title: 'Plugins: Try a new version of ChatGPT that knows when and how to use third-party'
+  title: 'Plugins: Try a new version of ChatGPT that knows when and how to use third-party…'
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|chatgpt-2023-03-23-872ff0]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2023-05-12-web-browsing-and-plugins-are-now-rolling-out-in-beta-5dbe86e7|chatgpt-2023-05-12-web-browsing-and-plugins-are-now-rolling-out-in-beta-5dbe86e7]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
-title: 'Plugins: Try a new version of ChatGPT that knows when and how to use third-party'
+title: 'Plugins: Try a new version of ChatGPT that knows when and how to use third-party…'
 type: change
 ---
 
-# Plugins: Try a new version of ChatGPT that knows when and how to use third-party
+# Plugins: Try a new version of ChatGPT that knows when and how to use third-party…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Web browsing and Plugins are now rolling out in beta: Plugins: Try a new version of ChatGPT that knows when and how to use third-party plugins that you enable.

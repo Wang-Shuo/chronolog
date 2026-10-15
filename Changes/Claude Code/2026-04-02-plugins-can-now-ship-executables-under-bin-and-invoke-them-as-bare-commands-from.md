@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4f6ae0f7af49a062ffe50afddb6a054ce90f80f0ae49a2bdf9796bb69aa21af7
+machine_hash: 8394a4b07fb5ca58dc11df0d9f2d0ecda48c2a583a5fdc134d6e4a9c1386af57
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Plugins can now ship executables under `bin/` and invoke them as bare commands
       from the Bash tool
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.91
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -34,8 +34,7 @@ record:
   source_release: claude-code-2026-04-02-v2-1-91-github-304899951-a56266fc
   source_type: github_releases
   theme: apps-integrations
-  title: Plugins can now ship executables under `bin/` and invoke them as bare commands
-    f
+  title: Plugins can now ship executables under `bin/` and invoke them as bare commands…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-02-added-support-for-multi-line-prompts-in-claude-cli-open-q-deep-links-encoded-new|claude-code-2026-04-02-a9c889]]'
@@ -44,12 +43,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-02-v2-1-91-github-304899951-a56266fc|claude-code-2026-04-02-v2-1-91-github-304899951-a56266fc]]'
 source_type: github_releases
 theme: apps-integrations
-title: Plugins can now ship executables under bin/ and invoke them as bare commands
-  f
+title: Plugins can now ship executables under bin/ and invoke them as bare commands…
 type: change
 ---
 
-# Plugins can now ship executables under `bin/` and invoke them as bare commands f
+# Plugins can now ship executables under `bin/` and invoke them as bare commands…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.91: Plugins can now ship executables under `bin/` and invoke them as bare commands from the Bash tool

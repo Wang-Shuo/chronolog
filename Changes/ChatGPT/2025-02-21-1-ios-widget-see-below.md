@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: c1b67c5d8dcb59c532ed407c52c66098caf50f790c5e5b7d2043b2bc2c21e3c4
+machine_hash: 34eda066b1c3784c5313a23c14aeb385670494a6ced795fd3ef77313417c154d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,7 +24,7 @@ record:
   evidence:
   - quote: '1⁠. iOS widget (see below):'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -32,7 +32,7 @@ record:
   source_release: chatgpt-2025-02-21-1-6b86b273
   source_type: chatgpt_changelog
   theme: mobile-desktop
-  title: '1⁠. iOS widget (see below):'
+  title: iOS widget (see below)
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-02-14-ios-performance-fixes|chatgpt-2025-02-14-9f7f55]]'
@@ -41,11 +41,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-02-21-1-6b86b273|chatgpt-2025-02-21-1-6b86b273]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: '1⁠. iOS widget (see below):'
+title: iOS widget (see below)
 type: change
 ---
 
-# 1⁠. iOS widget (see below):
+# iOS widget (see below)
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — 1⁠.: 1⁠. iOS widget (see below):

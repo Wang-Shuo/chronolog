@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 69d6f4fb2023381d2ee09728c8d0702c3ce4dded657da99e675084f1c76532b8
+machine_hash: 2982e995703c298ff9b2a1be31a908e6ce710cb7f5109e8d6a93779c39327b94
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       resumed background agents' requested subagent model is restricted and the parent
       model runs instead
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.223
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -48,7 +48,7 @@ record:
     - model
     score: 50
     theme: model-support
-  title: Added a warning when workflow agents, forked skills, slash commands, or resumed
+  title: Added a warning when workflow agents, forked skills, slash commands, or resumed…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-07-22-auto-mode-is-now-powered-by-cursor-router|cursor-2026-07-22-c0b290]]'
@@ -57,11 +57,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-08-06-v2-1-223-github-365870283-03a5b13d|claude-code-2026-08-06-v2-1-223-github-365870283-03a5b13d]]'
 source_type: github_releases
 theme: agent-mode
-title: Added a warning when workflow agents, forked skills, slash commands, or resumed
+title: Added a warning when workflow agents, forked skills, slash commands, or resumed…
 type: change
 ---
 
-# Added a warning when workflow agents, forked skills, slash commands, or resumed
+# Added a warning when workflow agents, forked skills, slash commands, or resumed…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.223: Added a warning when workflow agents, forked skills, slash commands, or resumed background agents' requested subagent model is restricted and the parent model runs instead

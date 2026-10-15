@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 2df92b039a76b9228b46705d1541abf788d2bc36e15171e17473d9562e5610c8
+machine_hash: 2a742664f879bec01ca62c027f14c76e1fd787b73f7a3b361c6363c15f798917
 product: cursor
 product_name: Cursor
 record:
@@ -24,7 +24,7 @@ record:
   evidence:
   - quote: Supports newer version of python extension
     source_release: https://cursor.com/changelog/0-22-1-nightly
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

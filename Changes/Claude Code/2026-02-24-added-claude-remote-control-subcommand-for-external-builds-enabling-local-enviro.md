@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: de5380c64c15efc45794913cec3152f549a774bae43419e00292679f4237de33
+machine_hash: 18daa2a407ba8f0c84b7066354f09c0be5571d652def755ae35d2716d5d5b3b5
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `claude remote-control` subcommand for external builds, enabling
       local environment serving for all users.
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.51
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Added `claude remote-control` subcommand for external builds, enabling local
-    env
+  title: Added `claude remote-control` subcommand for external builds, enabling local…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-02-19-preview-diagrams-and-mini-apps-directly-in-chat|chatgpt-2026-02-19-80a3b7]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-02-24-v2-1-51-github-289665343-b4bbdd9c|claude-code-2026-02-24-v2-1-51-github-289665343-b4bbdd9c]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added claude remote-control subcommand for external builds, enabling local
-  env
+title: Added claude remote-control subcommand for external builds, enabling local…
 type: change
 ---
 
-# Added `claude remote-control` subcommand for external builds, enabling local env
+# Added `claude remote-control` subcommand for external builds, enabling local…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.51: Added `claude remote-control` subcommand for external builds, enabling local environment serving for all users.

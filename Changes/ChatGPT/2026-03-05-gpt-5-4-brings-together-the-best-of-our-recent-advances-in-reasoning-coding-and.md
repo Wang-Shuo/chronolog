@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: b0cd1fde5d12a7f90fc1313b17bb54584026533ef309a41e5d9928ba41a8471d
+machine_hash: f43f3d1bd7d57c038490b594976439d480d916d58a8448a441a099ffb85c9679
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,7 +54,7 @@ record:
       mean higher-quality answers that arrive faster and stay relevant to the task
       at hand.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -87,8 +87,7 @@ record:
     score: 50
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v2
-  title: GPT‑5.4 brings together the best of our recent advances in reasoning, coding,
-    an
+  title: GPT‑5.4 brings together the best of our recent advances in reasoning, coding…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-02-20-chatgpt-now-has-a-total-context-window-length-of-256k-tokens-128k-input-and-128k|chatgpt-2026-02-20-0ba0b2]]'
@@ -97,12 +96,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-05-gpt-5-4-thinking-in-chatgpt-df7dc812|chatgpt-2026-03-05-gpt-5-4-thinking-in-chatgpt-df7dc812]]'
 source_type: chatgpt_changelog
 theme: context-window
-title: GPT‑5.4 brings together the best of our recent advances in reasoning, coding,
-  an
+title: GPT‑5.4 brings together the best of our recent advances in reasoning, coding…
 type: change
 ---
 
-# GPT‑5.4 brings together the best of our recent advances in reasoning, coding, an
+# GPT‑5.4 brings together the best of our recent advances in reasoning, coding…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — GPT-5.4 Thinking in ChatGPT: GPT‑5.4 brings together the best of our recent advances in reasoning, coding, and agentic workflows into a single frontier model. It incorporates the industry-leading coding capabilities of GPT‑5.3‑Codex⁠ while improving how the model works across tools, software environments, and professional tasks involving spreadsheets, presentations, and documents. The result is a model that gets complex real work done accurately, effectively, and efficiently—delivering what you asked for with less back and forth.In ChatGPT, GPT‑5.4 Thinking can now provide an upfront plan of its thinking, so you can adjust course mid-response while it’s working, and arrive at a final output that’s more closely aligned with what you need without additional turns. GPT‑5.4 Thinking improves deep web research, particularly for highly specific queries, while better maintaining context for questions that require longer thinking. GPT‑5.4 Thinking also has improved context window management that supports its ability to think for longer. Together, these improvements mean higher-quality answers that arrive faster and stay relevant to the task at hand.

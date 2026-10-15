@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2024-01-10'
-machine_hash: 0bfee4a5b57a6504e2d9197d0f88d4a0141ef1851bfbec44157a312f3f8cdc77
+machine_hash: df5f98f7a23166a43dfc466f4b9ab95c849428c954a8ef703cb9587fc0ecc338
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,6 +38,6 @@ Tracked cards: 2
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- image-generation: [[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|The store features a diverse range of GPTs developed by our partners and the com]]
-- safety-privacy: [[Changes/ChatGPT/2024-01-10-we-re-launching-a-new-chatgpt-plan-for-teams-of-all-sizes-which-provides-a-secur-c68432|We’re launching a new ChatGPT plan for teams of all sizes, which provides a secu]]
+- image-generation: [[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|The store features a diverse range of GPTs developed by our partners and the community]]
+- safety-privacy: [[Changes/ChatGPT/2024-01-10-we-re-launching-a-new-chatgpt-plan-for-teams-of-all-sizes-which-provides-a-secur-c68432|ChatGPT launches a new ChatGPT plan for teams of all sizes, which provides a secure…]]
 <!-- chronolog:end -->

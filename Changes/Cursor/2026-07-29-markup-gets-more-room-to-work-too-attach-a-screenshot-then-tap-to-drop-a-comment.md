@@ -11,9 +11,9 @@ diffusion:
   theme: multimodal
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 2c76a9e995df711585b4561f11ebaa29477c181c5f4c829eb7b038e2049ddc4a
+machine_hash: e875fac39d5599cc0a0da5d86857da0939ee0f1a722d5fa938554be3a48c5902
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Markup gets more room to work too. Attach a screenshot, then tap to drop
       a comment at a specific point, or draw directly on the image with Apple Pencil.
     source_release: https://cursor.com/changelog/ipad
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,8 +37,7 @@ record:
   theme: multimodal
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Markup gets more room to work too. Attach a screenshot, then tap to drop
-    a comme
+  title: Markup gets more room to work too
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2024-12-12-use-the-controls-at-the-bottom-of-the-screen-like-the-camera-button-below-to-get|chatgpt-2024-12-12-5a71ee]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-07-29-cursor-now-on-ipad-https-cursor-com-changelog-ipad-d2eeee4c|cursor-2026-07-29-cursor-now-on-ipad-https-cursor-com-changelog-ipad-d2eeee4c]]'
 source_type: cursor_changelog
 theme: multimodal
-title: Markup gets more room to work too. Attach a screenshot, then tap to drop a
-  comme
+title: Markup gets more room to work too
 type: change
 ---
 
-# Markup gets more room to work too. Attach a screenshot, then tap to drop a comme
+# Markup gets more room to work too
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cursor, now on iPad: Markup gets more room to work too. Attach a screenshot, then tap to drop a comment at a specific point, or draw directly on the image with Apple Pencil.

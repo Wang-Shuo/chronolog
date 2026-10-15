@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ae7dbf79bf78a0dd7e44b6f0b555e986fb3b66bbc2a2516b2ee1cedf265fb858
+machine_hash: 114689fa15b5288a1d3b3ec6e01ebfc52b54036008fc06e2abc6759707d72342
 product: cursor
 product_name: Cursor
 record:
@@ -31,7 +31,7 @@ record:
       environment instead of setting up from scratch each session. Builds are included
       with Cloud Agents at no additional cost.'
     source_release: https://cursor.com/changelog/08-13-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -39,8 +39,7 @@ record:
   source_release: cursor-2026-08-13-cloud-agents-start-3x-faster-with-builds-https-cursor-com-change-f8f503a3
   source_type: cursor_changelog
   theme: agent-mode
-  title: 'This release introduces builds: ready-to-use copies of your development
-    environm'
+  title: Cursor introduces builds
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-06-added-a-warning-when-workflow-agents-forked-skills-slash-commands-or-resumed-bac|claude-code-2026-08-06-2ba9f2]]'
@@ -49,11 +48,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-08-13-cloud-agents-start-3x-faster-with-builds-https-cursor-com-change-f8f503a3|cursor-2026-08-13-cloud-agents-start-3x-faster-with-builds-https-cursor-com-change-f8f503a3]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: 'This release introduces builds: ready-to-use copies of your development environm'
+title: Cursor introduces builds
 type: change
 ---
 
-# This release introduces builds: ready-to-use copies of your development environm
+# Cursor introduces builds
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cloud Agents Start 3x Faster with Builds: This release introduces builds: ready-to-use copies of your development environment that Cursor prepares in the background. Agents boot into a ready environment instead of setting up from scratch each session. Builds are included with Cloud Agents at no additional cost.

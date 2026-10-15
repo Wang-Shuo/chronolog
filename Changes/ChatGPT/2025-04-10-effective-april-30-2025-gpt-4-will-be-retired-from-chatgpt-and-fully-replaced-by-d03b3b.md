@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: fb44ddf783547e81eab40e94b5a1a160d05a34a2d0828720ec93ac3f291e1fac
+machine_hash: 838e45e9fee38fdcf33d25ba717f84a439bf82979739be8181e4ccdeba194a50
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,7 +42,7 @@ record:
       shape its successor. GPT‑4o builds on that foundation to deliver even greater
       capability, consistency, and creativity.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -63,6 +63,7 @@ record:
     theme: multimodal
   theme_resolution: manual-semantic-rule-v2
   title: Effective April 30, 2025, GPT‑4 will be retired from ChatGPT and fully replaced
+    by GPT‑4o
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-03-27-early-testers-say-that-the-model-seems-to-better-understand-the-implied-intent-b|chatgpt-2025-03-27-800de1]]'
@@ -72,10 +73,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2025-04-10-sunsetting-gpt-4-in-chatg
 source_type: chatgpt_changelog
 theme: model-support
 title: Effective April 30, 2025, GPT‑4 will be retired from ChatGPT and fully replaced
+  by GPT‑4o
 type: change
 ---
 
-# Effective April 30, 2025, GPT‑4 will be retired from ChatGPT and fully replaced
+# Effective April 30, 2025, GPT‑4 will be retired from ChatGPT and fully replaced by GPT‑4o
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Sunsetting GPT‑4 in ChatGPT: Effective April 30, 2025, GPT‑4 will be retired from ChatGPT and fully replaced by GPT‑4o.GPT‑4o is our newer, natively multimodal model. In head‑to‑head evaluations it consistently surpasses GPT‑4 in writing, coding, STEM, and more.Recent upgrades have further improved GPT‑4o’s instruction following, problem solving, and conversational flow, making it a natural successor to GPT‑4.GPT-4 will still be available in the API.GPT‑4 marked a pivotal moment in ChatGPT’s evolution. We’re grateful for the breakthroughs it enabled and for the feedback that helped shape its successor. GPT‑4o builds on that foundation to deliver even greater capability, consistency, and creativity.

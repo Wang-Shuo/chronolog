@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: f503f561c268c11613865db1199c8dbeacc24f76fc743f65a203ca0a72c75fd8
+machine_hash: d375e384ae240310fe94e8807c8763cc8db2d38b88506b1576ff6ec9a697f80d
 product: cursor
 product_name: Cursor
 record:
@@ -30,7 +30,7 @@ record:
       a cloud agent. Cursor uses the work item title, description, comments, and your
       team's repository settings to scope the task.
     source_release: https://cursor.com/changelog/05-19-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -49,7 +49,7 @@ record:
     score: 50
     theme: collaboration
   title: Assign work items to Cursor, or mention @Cursor in a comment to kick off
-    a cloud
+    a cloud agent
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-19-added-agent-id-and-parent-agent-id-attributes-to-claude-code-tool-otel-spans-and|claude-code-2026-05-19-78d620]]'
@@ -59,11 +59,11 @@ source_release: '[[Releases/Cursor/cursor-2026-05-19-cursor-in-jira-https-cursor
 source_type: cursor_changelog
 theme: agent-mode
 title: Assign work items to Cursor, or mention @Cursor in a comment to kick off a
-  cloud
+  cloud agent
 type: change
 ---
 
-# Assign work items to Cursor, or mention @Cursor in a comment to kick off a cloud
+# Assign work items to Cursor, or mention @Cursor in a comment to kick off a cloud agent
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cursor in Jira: Assign work items to Cursor, or mention @Cursor in a comment to kick off a cloud agent. Cursor uses the work item title, description, comments, and your team's repository settings to scope the task.

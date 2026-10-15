@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 8c278d0a576b9b2334bd578d441ad14d9d3f613bd44317ca74f3a4722e5a6dc0
+machine_hash: aae0c73a39352ba6c3b9208a67037db07eb07528052cdba9f451d218d6b8d3c2
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       child folder with a manifest loads, and children added or removed while running
       are picked up'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.265
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -38,8 +38,7 @@ record:
   source_release: claude-code-2026-09-08-v2-1-265-github-384990084-dc34b405
   source_type: github_releases
   theme: apps-integrations
-  title: 'Added support for pointing `--plugin-dir` at a folder of plugins: each child
-    fol'
+  title: Added support for pointing `--plugin-dir` at a folder of plugins
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-03-added-oidc-scope-on-refresh-to-the-claude-apps-gateway-for-idps-that-return-an-i|claude-code-2026-09-03-58c928]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-08-v2-1-265-github-384990084-dc34b405|claude-code-2026-09-08-v2-1-265-github-384990084-dc34b405]]'
 source_type: github_releases
 theme: apps-integrations
-title: 'Added support for pointing --plugin-dir at a folder of plugins: each child
-  fol'
+title: Added support for pointing --plugin-dir at a folder of plugins
 type: change
 ---
 
-# Added support for pointing `--plugin-dir` at a folder of plugins: each child fol
+# Added support for pointing `--plugin-dir` at a folder of plugins
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.265: Added support for pointing `--plugin-dir` at a folder of plugins: each child folder with a manifest loads, and children added or removed while running are picked up

@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 867264b686d9c47d315f995c46ae0805118344b35b692616db3b28535b36eaa9
+machine_hash: b77a4b77bc087b59777c78e2035504d3d80868b5b68b55a16cd20363f48256c4
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Agent can take screenshots, improve UI, and debug client issues. Read more
       about browser capabilities.
     source_release: https://cursor.com/changelog/1-7
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -36,8 +36,7 @@ record:
   source_release: cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae
   source_type: cursor_changelog
   theme: agent-mode
-  title: Agent can take screenshots, improve UI, and debug client issues. Read more
-    about
+  title: Agent can take screenshots, improve UI, and debug client issues
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-08-21-get-native-os-notifications-when-an-agent-run-finishes-or-when-input-is-required|cursor-2025-08-21-f36fb1]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae|cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: Agent can take screenshots, improve UI, and debug client issues. Read more
-  about
+title: Agent can take screenshots, improve UI, and debug client issues
 type: change
 ---
 
-# Agent can take screenshots, improve UI, and debug client issues. Read more about
+# Agent can take screenshots, improve UI, and debug client issues
 
 <!-- chronolog:begin region="description" -->
 Cursor — Browser Controls, Plan Mode, and Hooks: Agent can take screenshots, improve UI, and debug client issues. Read more about browser capabilities.

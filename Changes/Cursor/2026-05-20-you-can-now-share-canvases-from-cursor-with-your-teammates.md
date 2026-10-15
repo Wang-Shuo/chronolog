@@ -11,9 +11,9 @@ diffusion:
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7b1872b87a78e903430e153c03f6509055686fc51673824e02f930dcae1419ee
+machine_hash: edbdaebb9cde62e4d5d71ad03b14fc67b139c7eaaba334558d3f402eb0f0292c
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: You can now share canvases from Cursor with your teammates.
     source_release: https://cursor.com/changelog/shared-canvases
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,7 +35,7 @@ record:
   theme: collaboration
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: You can now share canvases from Cursor with your teammates.
+  title: Share canvases from Cursor with your teammates
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-01-admins-can-now-create-a-team-marketplace-without-connecting-a-repository-first-a|cursor-2026-05-01-6de28d]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-05-20-3-5-https-cursor-com-changelog-shared-canvases-68b3b2da|cursor-2026-05-20-3-5-https-cursor-com-changelog-shared-canvases-68b3b2da]]'
 source_type: cursor_changelog
 theme: collaboration
-title: You can now share canvases from Cursor with your teammates.
+title: Share canvases from Cursor with your teammates
 type: change
 ---
 
-# You can now share canvases from Cursor with your teammates.
+# Share canvases from Cursor with your teammates
 
 <!-- chronolog:begin region="description" -->
 Cursor — Shared Canvases and /loop Skill: You can now share canvases from Cursor with your teammates.

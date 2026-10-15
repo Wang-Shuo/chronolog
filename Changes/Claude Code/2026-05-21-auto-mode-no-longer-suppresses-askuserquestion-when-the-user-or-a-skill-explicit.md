@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: fd7d437b7f941fd3d29db18aaa84e213a76f6838fd6baedb1004926a80f57e36
+machine_hash: e01cd8f02a00d818b7784f1c1a12e65cf194f3d740aad50f3c8947629cea4d8d
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Auto mode no longer suppresses `AskUserQuestion` when the user or a skill
       explicitly relies on it
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.146
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,7 +35,7 @@ record:
   source_type: github_releases
   theme: agent-mode
   title: Auto mode no longer suppresses `AskUserQuestion` when the user or a skill
-    explic
+    explicitly…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-19-assign-work-items-to-cursor-or-mention-cursor-in-a-comment-to-kick-off-a-cloud-a|cursor-2026-05-19-269d26]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-21-v2-1-146-github-326230049-ea612648|claude-code-2026-05-21-v2-1-146-github-326230049-ea612648]]'
 source_type: github_releases
 theme: agent-mode
-title: Auto mode no longer suppresses AskUserQuestion when the user or a skill explic
+title: Auto mode no longer suppresses AskUserQuestion when the user or a skill explicitly…
 type: change
 ---
 
-# Auto mode no longer suppresses `AskUserQuestion` when the user or a skill explic
+# Auto mode no longer suppresses `AskUserQuestion` when the user or a skill explicitly…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.146: Auto mode no longer suppresses `AskUserQuestion` when the user or a skill explicitly relies on it

@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4bdd4c5de17c02e9b84b24e520e6ab65683547b97283f02f8491f369da8ac959
+machine_hash: ed43bfee11e6a479b4ee0fba735cb942c4a0f505a0f9ec9175513582a21b0b0d
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       workflow size guideline can be set from any settings file; the `/config` row
       is hidden while one does
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.219
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -39,6 +39,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: Added the `workflowSizeGuideline` settings key so the advisory Dynamic workflow
+    size…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-17-fork-now-copies-your-conversation-into-a-new-background-session-its-own-row-in-c|claude-code-2026-07-17-d0f171]]'
@@ -48,10 +49,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-07-24-v2-1-219-github-3
 source_type: github_releases
 theme: agent-mode
 title: Added the workflowSizeGuideline settings key so the advisory Dynamic workflow
+  size…
 type: change
 ---
 
-# Added the `workflowSizeGuideline` settings key so the advisory Dynamic workflow
+# Added the `workflowSizeGuideline` settings key so the advisory Dynamic workflow size…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.219: Added the `workflowSizeGuideline` settings key so the advisory Dynamic workflow size guideline can be set from any settings file; the `/config` row is hidden while one does

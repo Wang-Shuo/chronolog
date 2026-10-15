@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: d587e531c2b1ad5ad302bccc93ceb1e8420a1014f4a81fbe2e5a6741ff897323
+machine_hash: 9693566baf9390e07d49f6b180395f148ed236af65b945b618e951dd9f56033b
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
   - quote: This release introduces a new PR review experience, faster execution on
       plans through parallel agents, and new quick-action pills for common workflows.
     source_release: https://cursor.com/changelog/05-07-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -47,8 +47,7 @@ record:
     score: 50
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v1
-  title: This release introduces a new PR review experience, faster execution on plans
-    th
+  title: Cursor introduces a new PR review experience, faster execution on plans through…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-06-added-claude-code-package-manager-auto-update-when-set-on-homebrew-or-winget-ins|claude-code-2026-05-06-3f1ca0]]'
@@ -57,12 +56,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-05-07-3-3-https-cursor-com-changelog-05-07-26-9d8a16d3|cursor-2026-05-07-3-3-https-cursor-com-changelog-05-07-26-9d8a16d3]]'
 source_type: cursor_changelog
 theme: developer-workflow
-title: This release introduces a new PR review experience, faster execution on plans
-  th
+title: Cursor introduces a new PR review experience, faster execution on plans through…
 type: change
 ---
 
-# This release introduces a new PR review experience, faster execution on plans th
+# Cursor introduces a new PR review experience, faster execution on plans through…
 
 <!-- chronolog:begin region="description" -->
 Cursor — PR Review, Build Plan in Parallel, and Split PRs: This release introduces a new PR review experience, faster execution on plans through parallel agents, and new quick-action pills for common workflows.

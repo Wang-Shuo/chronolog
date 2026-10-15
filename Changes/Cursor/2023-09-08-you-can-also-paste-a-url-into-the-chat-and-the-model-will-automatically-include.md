@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: d1dd4f582e7e594090f0fdebc03a1f9dc8a3e7c171c84c352e2f2f051eedd32b
+machine_hash: ae7ec24a2481a5a6fe3643d5c9ccc1fb79e4260905c01685a90b1470f7ad9146
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
   - quote: You can also paste a url into the chat and the model will automatically
       include it in the context being used.
     source_release: https://cursor.com/changelog/0-10-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -47,7 +47,7 @@ record:
     score: 50
     theme: model-support
   theme_resolution: manual-semantic-rule-v1
-  title: You can also paste a url into the chat and the model will automatically include
+  title: You can also paste a url into the chat and the model will automatically include…
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-08-22-if-you-reference-a-long-file-that-will-be-cutoff-by-the-context-limit-you-ll-be|cursor-2023-08-22-9181ad]]'
@@ -56,11 +56,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-09-08-0-10-0-https-cursor-com-changelog-0-10-0-8f32d699|cursor-2023-09-08-0-10-0-https-cursor-com-changelog-0-10-0-8f32d699]]'
 source_type: cursor_changelog
 theme: context-window
-title: You can also paste a url into the chat and the model will automatically include
+title: You can also paste a url into the chat and the model will automatically include…
 type: change
 ---
 
-# You can also paste a url into the chat and the model will automatically include
+# You can also paste a url into the chat and the model will automatically include…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Better Docs Management, Staged Rollouts: You can also paste a url into the chat and the model will automatically include it in the context being used.

@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: df5bb664883b94868998c353eaf0ada51b33dfe0d4a309843b52dd21baac5094
+machine_hash: 6496d9c318802d9ad48258b8fe96916db9196e93b0f366594fc3f4ee21d42182
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Plugins with a root-level `SKILL.md` and no `skills/` subdirectory are
       now surfaced as a skill
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.142
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,7 +35,7 @@ record:
   source_type: github_releases
   theme: apps-integrations
   title: Plugins with a root-level `SKILL.md` and no `skills/` subdirectory are now
-    surfa
+    surfaced…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-12-plugins-now-warn-when-a-default-component-folder-e-g-commands-is-silently-ignore|claude-code-2026-05-12-abb705]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-14-v2-1-142-github-322792825-ffda4d4f|claude-code-2026-05-14-v2-1-142-github-322792825-ffda4d4f]]'
 source_type: github_releases
 theme: apps-integrations
-title: Plugins with a root-level SKILL.md and no skills/ subdirectory are now surfa
+title: Plugins with a root-level SKILL.md and no skills/ subdirectory are now surfaced…
 type: change
 ---
 
-# Plugins with a root-level `SKILL.md` and no `skills/` subdirectory are now surfa
+# Plugins with a root-level `SKILL.md` and no `skills/` subdirectory are now surfaced…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.142: Plugins with a root-level `SKILL.md` and no `skills/` subdirectory are now surfaced as a skill

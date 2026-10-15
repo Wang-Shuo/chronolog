@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: dbc842d3630962007f14f4d8c03ce8d7b8bd58768636bbd8260de9a583778e3d
+machine_hash: 435928b0c31f07f774f79130fe1e703d0ef82a6be7a5a1946033955423a4148b
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: '0.47.6: Faster applies, warns user when edits fails because of cursorignore'
     source_release: https://cursor.com/changelog/0-47-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

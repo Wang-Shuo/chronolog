@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ba5a163350403c6fa977e80d9c1f0033b45125cebcbfaac295b679e2f0b27375
+machine_hash: ae65a6956de5cc1965f1f6b6c1fd707575a30f61e053e9ad72066af37888ce40
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       opted out of memory, ChatGPT will not reference past conversations unless you
       opt back in.See Memory FAQ.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -42,7 +42,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: • Outside the European regions listed above, all Plus and Pro accounts that
-    have
+    have…
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-03-11-0-47-1-improved-performance-added-back-play-button-to-apply-code-blocks|cursor-2025-03-11-9cd231]]'
@@ -52,11 +52,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2025-05-08-enhanced-memory-in-chatgp
 source_type: chatgpt_changelog
 theme: reliability-performance
 title: • Outside the European regions listed above, all Plus and Pro accounts that
-  have
+  have…
 type: change
 ---
 
-# • Outside the European regions listed above, all Plus and Pro accounts that have
+# • Outside the European regions listed above, all Plus and Pro accounts that have…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Enhanced Memory in ChatGPT (including EU) on Plus/Pro: • Outside the European regions listed above, all Plus and Pro accounts that have memory enabled will receive the upgrade automatically.• If you previously opted out of memory, ChatGPT will not reference past conversations unless you opt back in.See Memory FAQ.

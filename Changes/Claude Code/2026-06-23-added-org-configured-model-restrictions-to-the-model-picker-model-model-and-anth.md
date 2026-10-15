@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 3a4a0ff3f092b2529b201e161c49e4bb739f756f09a78c4ef12dca49156024ea
+machine_hash: 5d7c0abfe9b4d16ebc2d63ba79c52cfc272172bde3888e0e7a06605e25ee585c
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       `/model`, and `ANTHROPIC_MODEL`, with a "restricted by your organization's settings"
       message when a restricted model is selected
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.187
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -48,7 +48,7 @@ record:
     score: 50
     theme: model-support
   theme_resolution: manual-semantic-rule-v1
-  title: Added org-configured model restrictions to the model picker, `--model`, `/model`
+  title: Added org-configured model restrictions to the model picker, `--model`, `/model`…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-06-18-easier-pinning-and-sidebar-organization-it-s-now-easier-to-keep-important-work-c|chatgpt-2026-06-18-55d7b8]]'
@@ -57,11 +57,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-23-v2-1-187-github-343665388-744f9775|claude-code-2026-06-23-v2-1-187-github-343665388-744f9775]]'
 source_type: github_releases
 theme: interface-experience
-title: Added org-configured model restrictions to the model picker, --model, /model
+title: Added org-configured model restrictions to the model picker, --model, /model…
 type: change
 ---
 
-# Added org-configured model restrictions to the model picker, `--model`, `/model`
+# Added org-configured model restrictions to the model picker, `--model`, `/model`…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.187: Added org-configured model restrictions to the model picker, `--model`, `/model`, and `ANTHROPIC_MODEL`, with a "restricted by your organization's settings" message when a restricted model is selected

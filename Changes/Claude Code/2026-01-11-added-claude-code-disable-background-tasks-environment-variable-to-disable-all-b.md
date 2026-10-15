@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9aa68e338a97b2df80d94efa45e6a772104a924d3e2b79076198b8915c201160
+machine_hash: 0640a9769f22c60afd449b22982fb2a7f4a78a201347fc586827121c3f58fd7d
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       all background task functionality including auto-backgrounding and the Ctrl+B
       shortcut
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.4
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -39,7 +39,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: Added `CLAUDE_CODE_DISABLE_BACKGROUND_TASKS` environment variable to disable
-    all
+    all…
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-12-10-move-elements-update-colors-test-layouts-and-experiment-with-css-in-real-time-th|cursor-2025-12-10-07fdf8]]'
@@ -49,11 +49,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-01-11-v2-1-4-github-275
 source_type: github_releases
 theme: agent-mode
 title: Added CLAUDE_CODE_DISABLE_BACKGROUND_TASKS environment variable to disable
-  all
+  all…
 type: change
 ---
 
-# Added `CLAUDE_CODE_DISABLE_BACKGROUND_TASKS` environment variable to disable all
+# Added `CLAUDE_CODE_DISABLE_BACKGROUND_TASKS` environment variable to disable all…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.4: Added `CLAUDE_CODE_DISABLE_BACKGROUND_TASKS` environment variable to disable all background task functionality including auto-backgrounding and the Ctrl+B shortcut

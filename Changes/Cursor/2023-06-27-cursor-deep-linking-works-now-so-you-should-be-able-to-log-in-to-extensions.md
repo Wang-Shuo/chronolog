@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: b510f6c9bab02e7ab8d82a9ac540ec5beea3c1f70896fc1c56a7560f89fd8c90
+machine_hash: fc29b3859b5b0eca03766bdc8995e05563590f079e6a119c2fde9da9a85af5d2
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: cursor:// deep linking works now, so you should be able to log in to extensions
     source_release: https://cursor.com/changelog/0-2-36
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

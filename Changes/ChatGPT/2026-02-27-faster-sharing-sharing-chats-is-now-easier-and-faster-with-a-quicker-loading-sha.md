@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 76fe434fa95f970bf1ff131eca9169481bdb86fad7ab6efa866c37c37ea1ae61
+machine_hash: fe67d34f0c751e275716982a26e268d0ef285a106e229f4dec4a6248223f4aa0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Faster sharing. Sharing chats is now easier and faster, with a quicker-loading
       share menu.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -50,7 +50,7 @@ record:
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v1
   title: Faster sharing. Sharing chats is now easier and faster, with a quicker-loading
-    s
+    share menu
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-19-improved-performance-in-non-interactive-mode-p-by-skipping-unnecessary-api-calls|claude-code-2026-02-19-4f3f6a]]'
@@ -60,11 +60,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-02-27-chatgpt-web-and-android-u
 source_type: chatgpt_changelog
 theme: reliability-performance
 title: Faster sharing. Sharing chats is now easier and faster, with a quicker-loading
-  s
+  share menu
 type: change
 ---
 
-# Faster sharing. Sharing chats is now easier and faster, with a quicker-loading s
+# Faster sharing. Sharing chats is now easier and faster, with a quicker-loading share menu
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT Web and Android updates: Edit image prompts, share faster, and smoother conversations: Faster sharing. Sharing chats is now easier and faster, with a quicker-loading share menu.

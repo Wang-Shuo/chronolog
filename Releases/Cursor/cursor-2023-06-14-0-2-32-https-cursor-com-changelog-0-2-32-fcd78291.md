@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-06-14'
-machine_hash: a7b3b598d099ccd35c658e77bd168fc8541fa9cd01033b73e845ea918dbe8471
+machine_hash: cd8e7bd9be05562ee71a8009f8ef87bb9fedfc147f8f2ebc0704f1d519095e8e
 product: cursor
 product_name: Cursor
 record:
@@ -39,5 +39,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- developer-workflow: [[Changes/Cursor/2023-06-14-small-fix-for-a-format-on-save-bug-that-was-introduced-in-the-last-release-some|Small fix for a format-on-save bug that was introduced in the last release. Some]]
+- developer-workflow: [[Changes/Cursor/2023-06-14-small-fix-for-a-format-on-save-bug-that-was-introduced-in-the-last-release-some|Small fix for a format-on-save bug that was introduced in the last release]]
 <!-- chronolog:end -->

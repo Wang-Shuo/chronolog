@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-10-02'
-machine_hash: 189de0054b466629fe94121822f66203f54fce480655f5003f93665174270119
+machine_hash: 7e7c0d379fa7e6bbbadb05681e7ab448ce920a35fdc657718dbb6c629ba2abe3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- mobile-desktop: [[Changes/ChatGPT/2026-10-02-finances-in-chatgpt-is-rolling-out-to-free-and-go-users-in-the-u-s-on-web-ios-an|Finances in ChatGPT is rolling out to Free and Go users in the U.S. on web, iOS,]]
+- mobile-desktop: [[Changes/ChatGPT/2026-10-02-finances-in-chatgpt-is-rolling-out-to-free-and-go-users-in-the-u-s-on-web-ios-an|Finances in ChatGPT is rolling out to Free and Go users in the U.S. on web, iOS…]]
 <!-- chronolog:end -->

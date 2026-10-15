@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9709a9dc5b99108b40b277458f47224672c8ce81d3ddec01ed1ffe51c4673347
+machine_hash: 422b235f5f979458c9892af6e7b986c4d43cd1c0904f55f006875b8bd70e7ef4
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: 'UPDATE (0.33.1–0.33.3): Fix to settings toggles, fix to Copilot++ diffbox
       performance, onboarding tweaks.'
     source_release: https://cursor.com/changelog/0-33-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -34,8 +34,7 @@ record:
   source_release: cursor-2024-05-03-0-33-x-https-cursor-com-changelog-0-33-x-f8df9c65
   source_type: cursor_changelog
   theme: reliability-performance
-  title: 'UPDATE (0.33.1–0.33.3): Fix to settings toggles, fix to Copilot++ diffbox
-    perfor'
+  title: 'UPDATE (0.33.1–0.33.3): Fix to settings toggles, fix to Copilot++ diffbox…'
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-02-02-0-25-2-copilot-performance-improvements|cursor-2024-02-02-4a484a]]'
@@ -44,12 +43,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-05-03-0-33-x-https-cursor-com-changelog-0-33-x-f8df9c65|cursor-2024-05-03-0-33-x-https-cursor-com-changelog-0-33-x-f8df9c65]]'
 source_type: cursor_changelog
 theme: reliability-performance
-title: 'UPDATE (0.33.1–0.33.3): Fix to settings toggles, fix to Copilot++ diffbox
-  perfor'
+title: 'UPDATE (0.33.1–0.33.3): Fix to settings toggles, fix to Copilot++ diffbox…'
 type: change
 ---
 
-# UPDATE (0.33.1–0.33.3): Fix to settings toggles, fix to Copilot++ diffbox perfor
+# UPDATE (0.33.1–0.33.3): Fix to settings toggles, fix to Copilot++ diffbox…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Networking Stability, Command-K Autoselect: UPDATE (0.33.1–0.33.3): Fix to settings toggles, fix to Copilot++ diffbox performance, onboarding tweaks.

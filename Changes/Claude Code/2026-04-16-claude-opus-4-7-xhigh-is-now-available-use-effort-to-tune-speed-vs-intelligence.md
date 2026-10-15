@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5d54eebf9797954f04f59b0264502832409de43fccb8d8fa4479d290db099ec6
+machine_hash: 9d2c51aa13c7e2e14ddb2a0be193e3387fbb6c5eb2a620de43ac3a812d85d396
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Claude Opus 4.7 xhigh is now available! Use /effort to tune speed vs. intelligence
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.111
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -44,7 +44,7 @@ record:
     score: 50
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v2
-  title: Claude Opus 4.7 xhigh is now available! Use /effort to tune speed vs. intelligen
+  title: Claude Opus 4.7 xhigh is now available!
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-04-09-today-we-re-releasing-gpt-5-3-instant-mini-in-chatgpt-it-replaces-gpt-5-instant|chatgpt-2026-04-09-dba9dd]]'
@@ -53,11 +53,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78|claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78]]'
 source_type: github_releases
 theme: model-support
-title: Claude Opus 4.7 xhigh is now available! Use /effort to tune speed vs. intelligen
+title: Claude Opus 4.7 xhigh is now available!
 type: change
 ---
 
-# Claude Opus 4.7 xhigh is now available! Use /effort to tune speed vs. intelligen
+# Claude Opus 4.7 xhigh is now available!
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.111: Claude Opus 4.7 xhigh is now available! Use /effort to tune speed vs. intelligence

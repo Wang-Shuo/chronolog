@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: b9dca346048990efea71955c778ee1fb033f3d1f76b071e0aec37d19cbc8e542
+machine_hash: ddd3da769b7602e84d0b08615b6971ebf693f845bca54863e1f1b4d392a01d47
 product: cursor
 product_name: Cursor
 record:
@@ -33,7 +33,7 @@ record:
       route those calls through auto-review instead. A classifier decides which calls
       run automatically and which to hold back, rather than bypassing review entirely.
     source_release: https://cursor.com/changelog/sdk-updates-jun-2026
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -42,7 +42,7 @@ record:
   source_type: cursor_changelog
   theme: agent-mode
   title: By default, a local SDK agent runs tool calls without asking for approval,
-    since
+    since…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-02-improved-performance-of-opening-recently-inactive-background-agent-sessions-in-c|claude-code-2026-06-02-ab10e4]]'
@@ -52,11 +52,11 @@ source_release: '[[Releases/Cursor/cursor-2026-06-04-custom-stores-custom-tools-
 source_type: cursor_changelog
 theme: agent-mode
 title: By default, a local SDK agent runs tool calls without asking for approval,
-  since
+  since…
 type: change
 ---
 
-# By default, a local SDK agent runs tool calls without asking for approval, since
+# By default, a local SDK agent runs tool calls without asking for approval, since…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Custom stores, custom tools, and auto-review for the Cursor SDK: By default, a local SDK agent runs tool calls without asking for approval, since there's no human in the loop in a headless run. Set local.autoReview to route those calls through auto-review instead. A classifier decides which calls run automatically and which to hold back, rather than bypassing review entirely.

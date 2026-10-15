@@ -11,9 +11,9 @@ diffusion:
   theme: search-browsing
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: efa37137de5441112964d491c976e7a26adea5fe41217ac3f013d2fc9015c24c
+machine_hash: bfb9c8a413a66ad6d504fae0416df92e7d484a76da27dc39f30afc1674cca292
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       directly with you. You can also quickly pull up a Drive file from the composer
       or with @mentions and add it to any chat—without uploading it again.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -49,8 +49,7 @@ record:
     score: 50
     theme: search-browsing
   theme_resolution: manual-semantic-rule-v1
-  title: If you have the Google Drive plugin connected, you can now see and browse
-    your G
+  title: If you have the Google Drive plugin connected, you can now see and browse…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-19-the-plugin-browse-and-discover-panes-now-show-when-a-plugin-was-last-updated|claude-code-2026-05-19-077873]]'
@@ -59,12 +58,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-13-google-drive-is-now-in-library-bbf66648|chatgpt-2026-08-13-google-drive-is-now-in-library-bbf66648]]'
 source_type: chatgpt_changelog
 theme: search-browsing
-title: If you have the Google Drive plugin connected, you can now see and browse your
-  G
+title: If you have the Google Drive plugin connected, you can now see and browse…
 type: change
 ---
 
-# If you have the Google Drive plugin connected, you can now see and browse your G
+# If you have the Google Drive plugin connected, you can now see and browse…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Google Drive is now in Library: If you have the Google Drive plugin connected, you can now see and browse your Google Drive files and folders directly from Library, including items shared directly with you. You can also quickly pull up a Drive file from the composer or with @mentions and add it to any chat—without uploading it again.

@@ -11,9 +11,9 @@ diffusion:
   theme: enterprise-admin
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: c7b5944542887aafb7cee3550cbdae9ffb90717909e95654b5e07124fde0ff47
+machine_hash: a081ae3343800d20d2980c7bbbfcb6d30db70a097491a139bdf148159b66ded3
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Pasting a PR URL into the `/resume` search box now finds the session that
       created that PR (GitHub, GitHub Enterprise, GitLab, and Bitbucket)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.122
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,7 +36,7 @@ record:
   source_type: github_releases
   theme: enterprise-admin
   title: Pasting a PR URL into the `/resume` search box now finds the session that
-    create
+    created…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-04-16-we-re-beginning-to-roll-out-ads-for-users-on-free-and-go-plans-in-australia-new|chatgpt-2026-04-16-63c95c]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-28-v2-1-122-github-314740479-0cc42196|claude-code-2026-04-28-v2-1-122-github-314740479-0cc42196]]'
 source_type: github_releases
 theme: enterprise-admin
-title: Pasting a PR URL into the /resume search box now finds the session that create
+title: Pasting a PR URL into the /resume search box now finds the session that created…
 type: change
 ---
 
-# Pasting a PR URL into the `/resume` search box now finds the session that create
+# Pasting a PR URL into the `/resume` search box now finds the session that created…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.122: Pasting a PR URL into the `/resume` search box now finds the session that created that PR (GitHub, GitHub Enterprise, GitLab, and Bitbucket)

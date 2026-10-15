@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3992799a6038c2ac1710816ce9129e6434b4b1c4a2953f6990775d47ba138b02
+machine_hash: 9725aab1d17143132971fae3ea06007b6671ea9008d953e92ecc1af3de767081
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
       security, monitoring, and project management, from partners including Cloudflare,
       Linear, Sentry, and Socket Security.
     source_release: https://cursor.com/changelog/origin-app-marketplace
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -51,7 +51,7 @@ record:
     theme: safety-privacy
   theme_resolution: manual-semantic-rule-v1
   title: Origin now integrates with over 20 apps for deployments, CI, code review,
-    securi
+    security…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-10-06-fixed-a-regression-in-2-1-290-where-cloud-sessions-could-drop-answers-to-permiss|claude-code-2026-10-06-3ab833]]'
@@ -60,11 +60,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-10-13-origin-app-marketplace-https-cursor-com-changelog-origin-app-mar-54aa7e2c|cursor-2026-10-13-origin-app-marketplace-https-cursor-com-changelog-origin-app-mar-54aa7e2c]]'
 source_type: cursor_changelog
 theme: safety-privacy
-title: Origin now integrates with over 20 apps for deployments, CI, code review, securi
+title: Origin now integrates with over 20 apps for deployments, CI, code review, security…
 type: change
 ---
 
-# Origin now integrates with over 20 apps for deployments, CI, code review, securi
+# Origin now integrates with over 20 apps for deployments, CI, code review, security…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Origin App Marketplace: Origin now integrates with over 20 apps for deployments, CI, code review, security, monitoring, and project management, from partners including Cloudflare, Linear, Sentry, and Socket Security.

@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: dbdc31375817e8f77ee3851748aea7486d9eb230ba7ca8bb203aa785f7664b46
+machine_hash: b9cf40b74deebbc3409eed6ff5540482be71f24aa70943eeb0edc2e9f9fb49c5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Pro Extended [Pro plans only]
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT

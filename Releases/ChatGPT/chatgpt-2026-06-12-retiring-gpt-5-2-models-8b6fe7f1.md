@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-06-12'
-machine_hash: cdfc00e7b368380ded5532c0d2f6c14d6deab23c8c465e19b4f99dfa852f5102
+machine_hash: e4d820c6a5d8ae33486e0b6f3741ee26883c0d2400c056df05e20ef9d9d8ffc1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2026-06-12-as-of-june-12-2026-gpt-5-2-models-are-no-longer-available-in-chatgpt-this-applie|As of June 12, 2026, GPT-5.2 models are no longer available in ChatGPT.This appl]]
+- model-support: [[Changes/ChatGPT/2026-06-12-as-of-june-12-2026-gpt-5-2-models-are-no-longer-available-in-chatgpt-this-applie|As of June 12, 2026, GPT-5.2 models are no longer available in ChatGPT.This applies…]]
 <!-- chronolog:end -->

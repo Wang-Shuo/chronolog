@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 333c180628c399616b4956747217afc8bbe4917c6077fcd594b22aeb2dea4816
+machine_hash: 9fba6bc18d7fb33c5919fa84fc35e15ae65f979783acb31dc2aea9b1381c774c
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Improved Up arrow after interrupting Claude — now restores the interrupted
       prompt and rewinds the conversation in one step
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.73
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   theme: interface-experience
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Improved Up arrow after interrupting Claude — now restores the interrupted
-    promp
+  title: Improved Up arrow after interrupting Claude
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-02-27-automatic-scroll-to-latest-message-existing-conversations-now-automatically-scro|chatgpt-2026-02-27-0e79ba]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-11-v2-1-73-github-295814700-0abb054f|claude-code-2026-03-11-v2-1-73-github-295814700-0abb054f]]'
 source_type: github_releases
 theme: interface-experience
-title: Improved Up arrow after interrupting Claude — now restores the interrupted
-  promp
+title: Improved Up arrow after interrupting Claude
 type: change
 ---
 
-# Improved Up arrow after interrupting Claude — now restores the interrupted promp
+# Improved Up arrow after interrupting Claude
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.73: Improved Up arrow after interrupting Claude — now restores the interrupted prompt and rewinds the conversation in one step

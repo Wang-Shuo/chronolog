@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: bfa2c12384c71349441a93c7a92b92eb0d33dd6bf3ee587bba72fb15b865e808
+machine_hash: 61b360ee25d7e4b32258717cffa04ee1d9ed377ce10ea0acd1e64ab1dbf402a2
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `/dataviz` skill for chart and dashboard design guidance with a runnable
       color-palette validator
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.198
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Added `/dataviz` skill for chart and dashboard design guidance with a runnable
-    c
+  title: Added `/dataviz` skill for chart and dashboard design guidance with a runnable…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-06-30-when-an-admin-sets-up-team-mcp-servers-for-cloud-agents-they-can-make-those-same-3d5f04|cursor-2026-06-30-3d5f04]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-01-v2-1-198-github-347599701-9cec0dab|claude-code-2026-07-01-v2-1-198-github-347599701-9cec0dab]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added /dataviz skill for chart and dashboard design guidance with a runnable
-  c
+title: Added /dataviz skill for chart and dashboard design guidance with a runnable…
 type: change
 ---
 
-# Added `/dataviz` skill for chart and dashboard design guidance with a runnable c
+# Added `/dataviz` skill for chart and dashboard design guidance with a runnable…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.198: Added `/dataviz` skill for chart and dashboard design guidance with a runnable color-palette validator

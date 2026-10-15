@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: b89d227d5ce8a77aed94e19f6bb0da7803c1448c4249848ffa945d6ca10a6b4d
+machine_hash: c90a8495de038eafb59c8d25ada4eb2588fd47bb519d0b830cabb4926b158aae
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: You can Pin custom extensions to your activity bar in the top left
     source_release: https://cursor.com/changelog/0-2-16
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

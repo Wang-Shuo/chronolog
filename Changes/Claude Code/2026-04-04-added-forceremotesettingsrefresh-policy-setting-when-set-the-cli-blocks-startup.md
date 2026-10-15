@@ -11,9 +11,9 @@ diffusion:
   theme: enterprise-admin
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a2700af1648be3e1cc345614f7ef9bb641d6be2fabd01363e2f627f74b23aa27
+machine_hash: c2118fc7c33289ea33266d36e366a6cb856c949e8fe5e32e97e6e8492949d38f
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       startup until remote managed settings are freshly fetched, and exits if the
       fetch fails (fail-closed)'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.92
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,8 +38,7 @@ record:
   theme: enterprise-admin
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: 'Added `forceRemoteSettingsRefresh` policy setting: when set, the CLI blocks
-    star'
+  title: Added `forceRemoteSettingsRefresh` policy setting
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-12-18-many-of-the-largest-software-companies-in-the-world-have-adopted-cursor-for-ente|cursor-2025-12-18-96ec1d]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5|claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5]]'
 source_type: github_releases
 theme: enterprise-admin
-title: 'Added forceRemoteSettingsRefresh policy setting: when set, the CLI blocks
-  star'
+title: Added forceRemoteSettingsRefresh policy setting
 type: change
 ---
 
-# Added `forceRemoteSettingsRefresh` policy setting: when set, the CLI blocks star
+# Added `forceRemoteSettingsRefresh` policy setting
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.92: Added `forceRemoteSettingsRefresh` policy setting: when set, the CLI blocks startup until remote managed settings are freshly fetched, and exits if the fetch fails (fail-closed)

@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 47e7549b601df306cea87ae81a970bd4bf336b93ca0d8d6ce08330c2d69d6565
+machine_hash: 7209b6c971dc204ef0682b0192e78e405285b521d01209db08a87d31d4aa0493
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       and presentations that follow your templates and instructions, and adapt when
       you add requirements or change direction.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -40,8 +40,8 @@ record:
   theme: model-support
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: Today we’re introducing GPT-6 Astra, with improvements in coding, research,
-    comp
+  title: ChatGPT introduces GPT-6 Astra, with improvements in coding, research, computer
+    use…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-28-added-premodelswitch-and-postmodelswitch-hook-events-block-confirm-or-annotate-a|claude-code-2026-08-28-17d189]]'
@@ -50,12 +50,12 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-03-introducing-gpt-6-astra-d055fc02|chatgpt-2026-09-03-introducing-gpt-6-astra-d055fc02]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: Today we’re introducing GPT-6 Astra, with improvements in coding, research,
-  comp
+title: ChatGPT introduces GPT-6 Astra, with improvements in coding, research, computer
+  use…
 type: change
 ---
 
-# Today we’re introducing GPT-6 Astra, with improvements in coding, research, comp
+# ChatGPT introduces GPT-6 Astra, with improvements in coding, research, computer use…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Introducing GPT-6 Astra: Today we’re introducing GPT-6 Astra, with improvements in coding, research, computer use, and complex, multi-step work. Astra can create documents, spreadsheets, and presentations that follow your templates and instructions, and adapt when you add requirements or change direction.

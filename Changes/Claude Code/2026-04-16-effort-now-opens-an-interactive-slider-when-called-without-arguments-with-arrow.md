@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 2335910058c184b1c9cc00c56df175f1df06677ef894c5dcb9803dae009b4b82
+machine_hash: f0cb50d84aba173c43a66e01c01a77960e8235911e5789f014a7bbfb49bf9030
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: '`/effort` now opens an interactive slider when called without arguments,
       with arrow-key navigation between levels and Enter to confirm'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.111
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,8 +35,7 @@ record:
   source_release: claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78
   source_type: github_releases
   theme: interface-experience
-  title: '`/effort` now opens an interactive slider when called without arguments,
-    with ar'
+  title: '`/effort` now opens an interactive slider when called without arguments…'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-15-changed-ctrl-o-to-toggle-between-normal-and-verbose-transcript-only-focus-view-i|claude-code-2026-04-15-4c9427]]'
@@ -45,12 +44,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78|claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78]]'
 source_type: github_releases
 theme: interface-experience
-title: /effort now opens an interactive slider when called without arguments, with
-  ar
+title: /effort now opens an interactive slider when called without arguments…
 type: change
 ---
 
-# `/effort` now opens an interactive slider when called without arguments, with ar
+# `/effort` now opens an interactive slider when called without arguments…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.111: `/effort` now opens an interactive slider when called without arguments, with arrow-key navigation between levels and Enter to confirm

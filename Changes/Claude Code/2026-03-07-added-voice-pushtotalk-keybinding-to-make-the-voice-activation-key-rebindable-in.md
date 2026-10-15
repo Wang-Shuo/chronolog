@@ -11,9 +11,9 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f5092f677e61bbacb8a53782c2dbcecafb012a4edd6d404811dc4ebe82561de7
+machine_hash: a609c6696bb59db6e17ea87a72790cb43e3ad84788ac17811c8c8714aa49d8a9
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       in `keybindings.json` (default: space) — modifier+letter combos like `meta+k`
       have zero typing interference'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.71
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -45,7 +45,7 @@ record:
     - keybinding
     score: 50
     theme: interface-experience
-  title: Added `voice:pushToTalk` keybinding to make the voice activation key rebindable
+  title: Added `voice:pushToTalk` keybinding to make the voice activation key rebindable…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-01-26-we-ve-improved-search-responses-in-chatgpt-voice-to-deliver-more-complete-up-to|chatgpt-2026-01-26-4f4150]]'
@@ -54,11 +54,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-07-v2-1-71-github-294146317-ab5a32e0|claude-code-2026-03-07-v2-1-71-github-294146317-ab5a32e0]]'
 source_type: github_releases
 theme: voice
-title: Added voice:pushToTalk keybinding to make the voice activation key rebindable
+title: Added voice:pushToTalk keybinding to make the voice activation key rebindable…
 type: change
 ---
 
-# Added `voice:pushToTalk` keybinding to make the voice activation key rebindable
+# Added `voice:pushToTalk` keybinding to make the voice activation key rebindable…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.71: Added `voice:pushToTalk` keybinding to make the voice activation key rebindable in `keybindings.json` (default: space) — modifier+letter combos like `meta+k` have zero typing interference

@@ -11,9 +11,9 @@ diffusion:
   theme: file-data
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: b5562f1d2807bd507d21c6176f418fce47eac272ce7e9d520d652357d5a1348d
+machine_hash: 4512821d7b194cec1d9dedda48030b283f24f5572881bb437278ecb94ae7af70
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       phone. Capture multiple pages in a row, and ChatGPT automatically combines them
       into a single PDF, ready to upload to your chat.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -37,8 +37,7 @@ record:
   source_release: chatgpt-2026-10-01-scan-notes-and-documents-more-easily-with-chatgpt-camera-29008b79
   source_type: chatgpt_changelog
   theme: file-data
-  title: It’s now easier to bring your notes and documents into ChatGPT on your phone.
-    Ca
+  title: It’s now easier to bring your notes and documents into ChatGPT on your phone
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-07-23-we-re-starting-to-roll-out-a-new-health-experience-in-chatgpt-logged-in-free-go|chatgpt-2026-07-23-23b836]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-01-scan-notes-and-documents-more-easily-with-chatgpt-camera-29008b79|chatgpt-2026-10-01-scan-notes-and-documents-more-easily-with-chatgpt-camera-29008b79]]'
 source_type: chatgpt_changelog
 theme: file-data
-title: It’s now easier to bring your notes and documents into ChatGPT on your phone.
-  Ca
+title: It’s now easier to bring your notes and documents into ChatGPT on your phone
 type: change
 ---
 
-# It’s now easier to bring your notes and documents into ChatGPT on your phone. Ca
+# It’s now easier to bring your notes and documents into ChatGPT on your phone
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Scan notes and documents more easily with ChatGPT camera: It’s now easier to bring your notes and documents into ChatGPT on your phone. Capture multiple pages in a row, and ChatGPT automatically combines them into a single PDF, ready to upload to your chat.

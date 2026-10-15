@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 36f3baef314bdc55f92a9555c61adae7be1b6423c89909b179098f4f08b5c542
+machine_hash: 6bebe1c3a534952982c682826fb273b2722ae5f5f5433f551eb179ef4e892843
 product: cursor
 product_name: Cursor
 record:
@@ -31,7 +31,7 @@ record:
       than 10 minutes. You can watch the agent's progress in a shared terminal session
       as it handles setup tasks like installing dependencies.
     source_release: https://cursor.com/changelog/cloud-in-agents-window
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -50,7 +50,7 @@ record:
     theme: developer-workflow
   theme_resolution: manual-semantic-rule-v1
   title: Cursor can now help you set up your dev environment in the cloud in less
-    than 10
+    than 10 minutes
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-03-tools-explicitly-listing-grep-glob-now-provides-the-dedicated-search-tools-on-na|claude-code-2026-06-03-74afd0]]'
@@ -60,11 +60,11 @@ source_release: '[[Releases/Cursor/cursor-2026-06-17-3-7-https-cursor-com-change
 source_type: cursor_changelog
 theme: developer-workflow
 title: Cursor can now help you set up your dev environment in the cloud in less than
-  10
+  10 minutes
 type: change
 ---
 
-# Cursor can now help you set up your dev environment in the cloud in less than 10
+# Cursor can now help you set up your dev environment in the cloud in less than 10 minutes
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cloud Environment Setup and Cloud Subagents in Agents Window: Cursor can now help you set up your dev environment in the cloud in less than 10 minutes. You can watch the agent's progress in a shared terminal session as it handles setup tasks like installing dependencies.

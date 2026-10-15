@@ -11,9 +11,9 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7517279849caa87fb5035f1eb3e5b3639cd27a2be3e8b8f2d336d173beb7463c
+machine_hash: ef684d55e885fd185a7a584546faadf28a2bb44d1d1bc5ce1350117c90df825a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       on some websites that require you to sign in—so you can hand off a task and
       step away while it keeps working.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -48,7 +48,7 @@ record:
     theme: mobile-desktop
   theme_resolution: manual-semantic-rule-v1
   title: ChatGPT Work’s browser on web and mobile can also help you get tasks done
-    on som
+    on some…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-07-09-we-re-deprecating-atlas-as-we-bring-browser-based-agentic-capabilities-into-chat|chatgpt-2026-07-09-ce8700]]'
@@ -58,11 +58,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-08-25-chatgpt-work-can-now-comp
 source_type: chatgpt_changelog
 theme: account-access
 title: ChatGPT Work’s browser on web and mobile can also help you get tasks done on
-  som
+  some…
 type: change
 ---
 
-# ChatGPT Work’s browser on web and mobile can also help you get tasks done on som
+# ChatGPT Work’s browser on web and mobile can also help you get tasks done on some…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT Work can now complete tasks on signed-in websites: ChatGPT Work’s browser on web and mobile can also help you get tasks done on some websites that require you to sign in—so you can hand off a task and step away while it keeps working.

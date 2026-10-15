@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 8d6e5c5db8f8079a186afd635c6a7f63ff73b04c6860b6dda15842ba614d0cb8
+machine_hash: 460a77c6765b51c65a0b5afe7f299e9d64a8a5ca8bc392a6f0ffb5dc4164ca95
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: GPTs without Custom Actions can use the model picker to select from all
       models available to the user.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -46,8 +46,7 @@ record:
     - picker
     score: 50
     theme: interface-experience
-  title: GPTs without Custom Actions can use the model picker to select from all models
-    a
+  title: GPTs without Custom Actions can use the model picker to select from all models…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-06-10-o3-pro-is-available-in-the-model-picker-for-pro-and-team-users-starting-today-re-ca01e0|chatgpt-2025-06-10-ca01e0]]'
@@ -56,12 +55,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-12-expanded-model-support-for-custom-gpts-55f4555f|chatgpt-2025-06-12-expanded-model-support-for-custom-gpts-55f4555f]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: GPTs without Custom Actions can use the model picker to select from all models
-  a
+title: GPTs without Custom Actions can use the model picker to select from all models…
 type: change
 ---
 
-# GPTs without Custom Actions can use the model picker to select from all models a
+# GPTs without Custom Actions can use the model picker to select from all models…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Expanded Model Support for Custom GPTs: GPTs without Custom Actions can use the model picker to select from all models available to the user.

@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2026-09-29'
-machine_hash: 1597bf8e003b9f928fe9b5f2e1d20de8896c4af90ed1b58417670e1fad2bf594
+machine_hash: 1a99a877f38fc314d805194b4ace548484ec5b008b2808871334cd07baa546eb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,6 +41,6 @@ Tracked cards: 2
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- enterprise-admin: [[Changes/ChatGPT/2026-09-29-profile-sharing-and-the-sites-showcase-are-available-on-web-and-desktop-in-busin|Profile sharing and the Sites showcase are available on web and desktop. In Busi]]
-- collaboration: [[Changes/ChatGPT/2026-09-29-your-chatgpt-profile-now-brings-together-your-bio-activity-and-sites-you-choose|Your ChatGPT profile now brings together your bio, activity, and Sites you choos]]
+- enterprise-admin: [[Changes/ChatGPT/2026-09-29-profile-sharing-and-the-sites-showcase-are-available-on-web-and-desktop-in-busin|Profile sharing and the Sites showcase are available on web and desktop]]
+- collaboration: [[Changes/ChatGPT/2026-09-29-your-chatgpt-profile-now-brings-together-your-bio-activity-and-sites-you-choose|Your ChatGPT profile now brings together your bio, activity, and Sites you choose…]]
 <!-- chronolog:end -->

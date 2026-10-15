@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4cd77714d4fe978b8285a54ad1493f3d84c13ce18b530c3496b547c441f51be1
+machine_hash: a2fad22f815d7b438441d63151df7bb5e042556421f0d987c97f6cd4d57dbb12
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   - quote: 'Stop generating: Based on your feedback, we''ve added the ability to stop
       generating ChatGPT''s response'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -37,17 +37,17 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: 'Stop generating: Based on your feedback, we''ve added the ability to stop
-    generat'
+    generating…'
   type: change
 source_release: '[[Releases/ChatGPT/chatgpt-2023-01-09-updates-to-chatgpt-0d776ee3|chatgpt-2023-01-09-updates-to-chatgpt-0d776ee3]]'
 source_type: chatgpt_changelog
 theme: interface-experience
 title: 'Stop generating: Based on your feedback, we''ve added the ability to stop
-  generat'
+  generating…'
 type: change
 ---
 
-# Stop generating: Based on your feedback, we've added the ability to stop generat
+# Stop generating: Based on your feedback, we've added the ability to stop generating…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Updates to ChatGPT: Stop generating: Based on your feedback, we've added the ability to stop generating ChatGPT's response

@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 88c42b63bc37ac140b77c5b9dcb4e273d9c51f7fac98d959381392e2024557e5
+machine_hash: d7df1afb68c0b93dc0155b95bdb5aaca1ba4169ad8df8a2eb58561b1c0ba3e46
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
       code. /review prompts you to choose which agents to run, or use /review-bugbot
       and /review-security directly.
     source_release: https://cursor.com/changelog/bugbot-updates-june-2026
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -51,8 +51,7 @@ record:
     score: 50
     theme: safety-privacy
   theme_resolution: manual-semantic-rule-v2
-  title: You can now run Bugbot and Security Review with /review before pushing code.
-    /re
+  title: Run Bugbot and Security Review with /review before pushing code
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-08-added-safe-mode-flag-and-claude-code-safe-mode-to-start-claude-code-with-all-cus|claude-code-2026-06-08-55bad2]]'
@@ -61,12 +60,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-06-10-bugbot-is-now-over-3x-faster-22-cheaper-and-finds-10-more-bugs-h-c1721c78|cursor-2026-06-10-bugbot-is-now-over-3x-faster-22-cheaper-and-finds-10-more-bugs-h-c1721c78]]'
 source_type: cursor_changelog
 theme: safety-privacy
-title: You can now run Bugbot and Security Review with /review before pushing code.
-  /re
+title: Run Bugbot and Security Review with /review before pushing code
 type: change
 ---
 
-# You can now run Bugbot and Security Review with /review before pushing code. /re
+# Run Bugbot and Security Review with /review before pushing code
 
 <!-- chronolog:begin region="description" -->
 Cursor — Bugbot is now over 3x faster, 22% cheaper, and finds 10% more bugs: You can now run Bugbot and Security Review with /review before pushing code. /review prompts you to choose which agents to run, or use /review-bugbot and /review-security directly.

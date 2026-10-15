@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 802299715bee82b2329dae6d0ab5a10c2ab61d9f028ef9cb5f58803af0c42f7b
+machine_hash: 1171f85c8d47a86d204ac8e875bdfd3c2c56697b2d4fd078d9f820021d595bc1
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Fixed a Bash tool permission-check bypass where zsh could execute hidden
       commands in `[[ ]]` regex conditionals; affected commands now prompt for permission
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.221
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,7 +38,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: Fixed a Bash tool permission-check bypass where zsh could execute hidden
-    command
+    commands…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-24-added-sandbox-network-strictallowlist-setting-to-deny-non-allowlisted-hosts-for|claude-code-2026-07-24-89a3e1]]'
@@ -47,11 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-08-04-v2-1-221-github-364520051-d6a656ce|claude-code-2026-08-04-v2-1-221-github-364520051-d6a656ce]]'
 source_type: github_releases
 theme: safety-privacy
-title: Fixed a Bash tool permission-check bypass where zsh could execute hidden command
+title: Fixed a Bash tool permission-check bypass where zsh could execute hidden commands…
 type: change
 ---
 
-# Fixed a Bash tool permission-check bypass where zsh could execute hidden command
+# Fixed a Bash tool permission-check bypass where zsh could execute hidden commands…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.221: Fixed a Bash tool permission-check bypass where zsh could execute hidden commands in `[[ ]]` regex conditionals; affected commands now prompt for permission

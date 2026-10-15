@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 7c2eea1f91ed44e081a5b6c853a627847e63a605dbc061d02ea3eeb0bdd59ff8
+machine_hash: dc7d8d65989972894038617d4ed49d01d4a71b8f1c3b35624d5a509030392d04
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
   - quote: Quick tools in the composer. A new quick-tools menu in the message composer
       makes common actions easier to access.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -37,8 +37,7 @@ record:
   source_release: chatgpt-2026-02-13-chatgpt-updates-better-file-uploads-easier-copying-and-more-reli-e2c69aa0
   source_type: chatgpt_changelog
   theme: interface-experience
-  title: Quick tools in the composer. A new quick-tools menu in the message composer
-    make
+  title: Quick tools in the composer
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-06-improved-error-messages-for-api-connection-failures-now-shows-specific-cause-e-g|claude-code-2026-02-06-bd75bd]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-13-chatgpt-updates-better-file-uploads-easier-copying-and-more-reli-e2c69aa0|chatgpt-2026-02-13-chatgpt-updates-better-file-uploads-easier-copying-and-more-reli-e2c69aa0]]'
 source_type: chatgpt_changelog
 theme: interface-experience
-title: Quick tools in the composer. A new quick-tools menu in the message composer
-  make
+title: Quick tools in the composer
 type: change
 ---
 
-# Quick tools in the composer. A new quick-tools menu in the message composer make
+# Quick tools in the composer
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT updates: Better file uploads, easier copying, and more reliable long chats: Quick tools in the composer. A new quick-tools menu in the message composer makes common actions easier to access.

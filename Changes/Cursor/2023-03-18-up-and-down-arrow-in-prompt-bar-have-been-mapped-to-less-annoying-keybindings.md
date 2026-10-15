@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ab50cb54388e7d049005db635217591a63415dc2f73b0243d39e342751ba973f
+machine_hash: 3e881a93f280927fbe66a013362b3408412dceb92ff7b6f89fc7968348ff6c5e
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Up and down arrow in prompt bar have been mapped to less annoying keybindings
     source_release: https://cursor.com/changelog/0-1-2
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

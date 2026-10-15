@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 42a00458bc0942b3d1d91356393e251200b3a5f197f7cb1f47beda8581e3a809
+machine_hash: a5e0d5d09dcb100070daf9a361815e810f1936484d3d27d2b61184adcf3ca757
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,7 +34,7 @@ record:
       knowledge, and you can pick up where others left off.Shared projects are ideal
       for:'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -56,8 +56,7 @@ record:
     - sharing
     score: 50
     theme: collaboration
-  title: Starting today, project sharing is available to all ChatGPT users, including
-    for
+  title: Starting today, project sharing is available to all ChatGPT users, including…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-08-22-this-feature-will-initially-only-be-available-on-the-chatgpt-website-and-windows|chatgpt-2025-08-22-8db6f0]]'
@@ -66,12 +65,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-23-shared-projects-217fa07d|chatgpt-2025-10-23-shared-projects-217fa07d]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: Starting today, project sharing is available to all ChatGPT users, including
-  for
+title: Starting today, project sharing is available to all ChatGPT users, including…
 type: change
 ---
 
-# Starting today, project sharing is available to all ChatGPT users, including for
+# Starting today, project sharing is available to all ChatGPT users, including…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Shared projects: Starting today, project sharing is available to all ChatGPT users, including for Free, Plus, Pro, and Go users globally on web, iOS, and Android.ChatGPT can draw from anything in the shared project – including chats, uploaded files and custom instructions – so responses are informed by your group's internal knowledge, and you can pick up where others left off.Shared projects are ideal for:

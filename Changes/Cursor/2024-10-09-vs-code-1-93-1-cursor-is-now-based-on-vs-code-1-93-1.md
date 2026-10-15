@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a45fcec676310f11cb2d9fd185926d0fe331a312c3f21174f517e898b4b98a31
+machine_hash: bffb42d6b10e4e9eff9d4533df77563100c6c7d814264e6e94889158624cb4ba
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: 'VS Code 1.93.1: Cursor is now based on VS Code 1.93.1.'
     source_release: https://cursor.com/changelog/0-42-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,7 +35,7 @@ record:
   theme: editor-experience
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: 'VS Code 1.93.1: Cursor is now based on VS Code 1.93.1.'
+  title: 'VS Code 1.93.1: Cursor is now based on VS Code 1.93.1'
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-08-02-cursor-tab-previously-called-copilot-defaults-to-chunked-streaming-this-build-al|cursor-2024-08-02-fd794d]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-10-09-0-42-x-https-cursor-com-changelog-0-42-x-71ecd9d1|cursor-2024-10-09-0-42-x-https-cursor-com-changelog-0-42-x-71ecd9d1]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: 'VS Code 1.93.1: Cursor is now based on VS Code 1.93.1.'
+title: 'VS Code 1.93.1: Cursor is now based on VS Code 1.93.1'
 type: change
 ---
 
-# VS Code 1.93.1: Cursor is now based on VS Code 1.93.1.
+# VS Code 1.93.1: Cursor is now based on VS Code 1.93.1
 
 <!-- chronolog:begin region="description" -->
 Cursor — Composer History, @Lint Errors, VS Code 1.93.1: VS Code 1.93.1: Cursor is now based on VS Code 1.93.1.

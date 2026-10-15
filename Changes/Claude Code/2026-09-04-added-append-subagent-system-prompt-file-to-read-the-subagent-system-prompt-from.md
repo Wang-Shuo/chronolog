@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: c94ad568a741b6629be89a538a8b652438c5f6b7cde33608f683605ce669b605
+machine_hash: 63cb4be1f52e8152c73ead1e6adcc23c1a1018985ee8072a0237832604627d24
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Added `--append-subagent-system-prompt-file` to read the subagent system
       prompt from a file, for prompts too large to pass on the command line
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.261
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,7 +36,7 @@ record:
   source_type: github_releases
   theme: agent-mode
   title: Added `--append-subagent-system-prompt-file` to read the subagent system
-    prompt
+    prompt…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-01-added-a-containment-escape-rule-to-auto-mode-so-cloud-metadata-credential-fetche|claude-code-2026-09-01-b68ad5]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-04-v2-1-261-github-382913543-2cb10519|claude-code-2026-09-04-v2-1-261-github-382913543-2cb10519]]'
 source_type: github_releases
 theme: agent-mode
-title: Added --append-subagent-system-prompt-file to read the subagent system prompt
+title: Added --append-subagent-system-prompt-file to read the subagent system prompt…
 type: change
 ---
 
-# Added `--append-subagent-system-prompt-file` to read the subagent system prompt
+# Added `--append-subagent-system-prompt-file` to read the subagent system prompt…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.261: Added `--append-subagent-system-prompt-file` to read the subagent system prompt from a file, for prompts too large to pass on the command line

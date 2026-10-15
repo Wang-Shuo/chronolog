@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 31ebc482927cee0e3df230909cfefd2459701a06130348993a39221ecfb625d1
+machine_hash: aa647d27b3c7e27f27178721deeaec8ca8daa742b9869257ac275a208b55ddd8
 product: cursor
 product_name: Cursor
 record:
@@ -24,7 +24,7 @@ record:
   evidence:
   - quote: Easy to select and copy from chat
     source_release: https://cursor.com/changelog/0-1-5
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

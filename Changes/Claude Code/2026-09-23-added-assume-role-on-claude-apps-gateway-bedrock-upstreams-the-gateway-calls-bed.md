@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f94ea4fb7f5575463f5e2fa21ba92e1622ab7d565b94f829761522c368b3ce3c
+machine_hash: 8250ecca7d24a30a24f5a61a4515db61db9c6b0f1e78d6db75780d70df7b30e3
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       calls Bedrock as an IAM role it assumes through STS, in another AWS account
       if needed, optionally one session per developer'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.281
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   source_release: claude-code-2026-09-23-v2-1-281-github-394877414-9173ae95
   source_type: github_releases
   theme: apps-integrations
-  title: 'Added `assume_role` on Claude apps gateway Bedrock upstreams: the gateway
-    calls'
+  title: Added `assume_role` on Claude apps gateway Bedrock upstreams
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-22-added-mouse-support-to-more-lists-in-fullscreen-mode-the-wheel-scrolls-the-skill|claude-code-2026-09-22-723a04]]'
@@ -46,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-23-v2-1-281-github-394877414-9173ae95|claude-code-2026-09-23-v2-1-281-github-394877414-9173ae95]]'
 source_type: github_releases
 theme: apps-integrations
-title: 'Added assume_role on Claude apps gateway Bedrock upstreams: the gateway calls'
+title: Added assume_role on Claude apps gateway Bedrock upstreams
 type: change
 ---
 
-# Added `assume_role` on Claude apps gateway Bedrock upstreams: the gateway calls
+# Added `assume_role` on Claude apps gateway Bedrock upstreams
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.281: Added `assume_role` on Claude apps gateway Bedrock upstreams: the gateway calls Bedrock as an IAM role it assumes through STS, in another AWS account if needed, optionally one session per developer

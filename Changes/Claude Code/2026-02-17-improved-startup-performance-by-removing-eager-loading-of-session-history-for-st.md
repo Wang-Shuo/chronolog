@@ -11,9 +11,9 @@ diffusion:
   theme: projects-workspaces
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 23c4c2ede7e7d3d77c0b5cf05da2f0d744261ed257a247cd68b82507e4aaed57
+machine_hash: 070ac8b81140b0257490e20f43b4fcc8ede526ea46f1db757d91df856e0d34ca
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Improved startup performance by removing eager loading of session history
       for stats caching
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.45
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -45,7 +45,7 @@ record:
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v1
   title: Improved startup performance by removing eager loading of session history
-    for st
+    for stats…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2025-12-19-added-support-for-custom-session-ids-when-forking-sessions-with-session-id-combi|claude-code-2025-12-19-ad2ecb]]'
@@ -55,11 +55,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-02-17-v2-1-45-github-28
 source_type: github_releases
 theme: projects-workspaces
 title: Improved startup performance by removing eager loading of session history for
-  st
+  stats…
 type: change
 ---
 
-# Improved startup performance by removing eager loading of session history for st
+# Improved startup performance by removing eager loading of session history for stats…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.45: Improved startup performance by removing eager loading of session history for stats caching

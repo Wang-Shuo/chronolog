@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7e49dea7f74a3db7ff98a6c0f7a30b12d8303555c4c7444b71249da5bb744967
+machine_hash: b03fdafdb8654f7f115d15dc288da0fe976bb3fb9b92018d01b665c46f823658
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
       fixing CI, investigating an issue, or exploring a codebase while you keep working
       locally.
     source_release: https://cursor.com/changelog/cloud-in-agents-window
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -39,7 +39,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: This is especially useful for isolating long-running or parallel work like
-    fixin
+    fixing…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-22-diff-detail-view-can-now-be-scrolled-with-the-keyboard-arrows-j-k-pgup-pgdn-spac|claude-code-2026-05-22-d23d37]]'
@@ -49,11 +49,11 @@ source_release: '[[Releases/Cursor/cursor-2026-06-17-3-7-https-cursor-com-change
 source_type: cursor_changelog
 theme: editor-experience
 title: This is especially useful for isolating long-running or parallel work like
-  fixin
+  fixing…
 type: change
 ---
 
-# This is especially useful for isolating long-running or parallel work like fixin
+# This is especially useful for isolating long-running or parallel work like fixing…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cloud Environment Setup and Cloud Subagents in Agents Window: This is especially useful for isolating long-running or parallel work like fixing CI, investigating an issue, or exploring a codebase while you keep working locally.

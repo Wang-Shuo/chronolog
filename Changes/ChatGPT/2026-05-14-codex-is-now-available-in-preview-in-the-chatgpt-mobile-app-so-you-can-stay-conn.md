@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 3827c9573549f315804b88f2bcf5c1a9039314b4c6530bb5a624f280a4876ead
+machine_hash: ac0d880236e6f75847c594ce4fde5309a4182085bce536bbec0170f501f606e4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -55,7 +55,7 @@ record:
       continues in ChatGPT after scanning a QR code; the host must remain awake, online,
       and running Codex for remote access to continue.Learn more in Remote connections.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -87,8 +87,7 @@ record:
     - terminal
     score: 50
     theme: developer-workflow
-  title: Codex is now available in preview in the ChatGPT mobile app, so you can stay
-    con
+  title: Codex is now available in preview in the ChatGPT mobile app, so you can stay…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-04-29-the-agents-that-run-in-the-cursor-desktop-app-cli-and-web-app-are-now-accessible|cursor-2026-04-29-b8902d]]'
@@ -97,12 +96,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-05-14-codex-remote-access-from-the-chatgpt-mobile-app-50be5441|chatgpt-2026-05-14-codex-remote-access-from-the-chatgpt-mobile-app-50be5441]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: Codex is now available in preview in the ChatGPT mobile app, so you can stay
-  con
+title: Codex is now available in preview in the ChatGPT mobile app, so you can stay…
 type: change
 ---
 
-# Codex is now available in preview in the ChatGPT mobile app, so you can stay con
+# Codex is now available in preview in the ChatGPT mobile app, so you can stay…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Codex remote access from the ChatGPT mobile app: Codex is now available in preview in the ChatGPT mobile app, so you can stay connected to active work from your phone while Codex continues running on the connected Mac host. From mobile, you can start or continue threads, answer questions, change direction, approve actions, review what Codex found, and move across connected hosts without stepping away from the work. That means you can keep an investigation moving, make a decision when Codex reaches a fork, or spin up a new idea before you are back at your desk. You can currently connect your phone to Codex running on macOS.The mobile experience loads live context from the machine where Codex is operating, including project context, approvals, plugins, screenshots, terminal output, diffs, and test results. Codex in the ChatGPT mobile app is rolling out on iOS and Android across all plans, including Free and Go, in supported regions. To try it, update both the ChatGPT mobile app and the Codex app on macOS. Setup starts in the Codex App on the host and continues in ChatGPT after scanning a QR code; the host must remain awake, online, and running Codex for remote access to continue.Learn more in Remote connections.

@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 13e65995a2916cc3792cbec1de21061e1ed494fdcf1f2de846cb1554c8dc1102
+machine_hash: a1e0b592ed98d5ac3be89092a129545f5478631e3342c6188dc4b20dabe23936
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
       for different tasks, industries, and workflows. Creators can also set a recommended
       model to guide users.Key details:'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -53,8 +53,7 @@ record:
     score: 50
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v2
-  title: Creators can now choose from the full set of ChatGPT models (GPT-4o, o3,
-    o4-mini
+  title: Creators can now choose from the full set of ChatGPT models…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-06-10-to-assess-the-key-strength-of-o3-pro-we-once-again-use-our-rigorous-4-4-reliabil|chatgpt-2025-06-10-53c7dc]]'
@@ -63,11 +62,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-12-expanded-model-support-for-custom-gpts-55f4555f|chatgpt-2025-06-12-expanded-model-support-for-custom-gpts-55f4555f]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: Creators can now choose from the full set of ChatGPT models (GPT-4o, o3, o4-mini
+title: Creators can now choose from the full set of ChatGPT models…
 type: change
 ---
 
-# Creators can now choose from the full set of ChatGPT models (GPT-4o, o3, o4-mini
+# Creators can now choose from the full set of ChatGPT models…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Expanded Model Support for Custom GPTs: Creators can now choose from the full set of ChatGPT models (GPT-4o, o3, o4-mini and more) when building Custom GPTs—making it easier to fine-tune performance for different tasks, industries, and workflows. Creators can also set a recommended model to guide users.Key details:

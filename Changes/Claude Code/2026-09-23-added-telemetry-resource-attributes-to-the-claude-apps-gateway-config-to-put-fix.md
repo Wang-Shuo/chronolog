@@ -11,9 +11,9 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 900a31297a513b68d5a0e6d397910bfd643376b478643fb199587e49f085e5fc
+machine_hash: 7450486458ad569ffcd2e3fae2533cdfc3b921fe8d03b198adc7accf0fec14d9
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Added `telemetry.resource_attributes` to the Claude apps gateway config,
       to put fixed labels on the telemetry of Claude Desktop and `/login` sessions
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.281
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -50,7 +50,7 @@ record:
     theme: mobile-desktop
   theme_resolution: manual-semantic-rule-v1
   title: Added `telemetry.resource_attributes` to the Claude apps gateway config,
-    to put
+    to put…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-08-25-chatgpt-work-s-browser-on-web-and-mobile-can-also-help-you-get-tasks-done-on-som|chatgpt-2026-08-25-7d835a]]'
@@ -59,11 +59,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-23-v2-1-281-github-394877414-9173ae95|claude-code-2026-09-23-v2-1-281-github-394877414-9173ae95]]'
 source_type: github_releases
 theme: account-access
-title: Added telemetry.resource_attributes to the Claude apps gateway config, to put
+title: Added telemetry.resource_attributes to the Claude apps gateway config, to put…
 type: change
 ---
 
-# Added `telemetry.resource_attributes` to the Claude apps gateway config, to put
+# Added `telemetry.resource_attributes` to the Claude apps gateway config, to put…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.281: Added `telemetry.resource_attributes` to the Claude apps gateway config, to put fixed labels on the telemetry of Claude Desktop and `/login` sessions

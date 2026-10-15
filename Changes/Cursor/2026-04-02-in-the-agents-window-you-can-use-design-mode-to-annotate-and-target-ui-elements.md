@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f1e7f9e381e32fddc519358b02bd86f8cc62d105f26b4598c0e437d814aa6678
+machine_hash: 1f25c3723ffb8752a00671755385c6c706bc233eebdb7ee6cb4d06d5ac2bfeac
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: In the Agents Window, you can use Design Mode to annotate and target UI
       elements directly in the browser.
     source_release: https://cursor.com/changelog/3-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -34,7 +34,7 @@ record:
   source_release: cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad
   source_type: cursor_changelog
   theme: agent-mode
-  title: In the Agents Window, you can use Design Mode to annotate and target UI elements
+  title: In the Agents Window, you can use Design Mode to annotate and target UI elements…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-26-added-taskcreated-hook-that-fires-when-a-task-is-created-via-taskcreate|claude-code-2026-03-26-484bd3]]'
@@ -43,11 +43,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad|cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: In the Agents Window, you can use Design Mode to annotate and target UI elements
+title: In the Agents Window, you can use Design Mode to annotate and target UI elements…
 type: change
 ---
 
-# In the Agents Window, you can use Design Mode to annotate and target UI elements
+# In the Agents Window, you can use Design Mode to annotate and target UI elements…
 
 <!-- chronolog:begin region="description" -->
 Cursor — New Cursor Interface: In the Agents Window, you can use Design Mode to annotate and target UI elements directly in the browser.

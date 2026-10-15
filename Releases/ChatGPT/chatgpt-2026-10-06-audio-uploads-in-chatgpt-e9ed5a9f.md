@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-10-06'
-machine_hash: 4f518a50704baf4103c50ee3f82094e73b54c67ce3c168f34b09fd728686f109
+machine_hash: 83ef2eaf517c5e86e48fb46b3076946a82968fef667c6c8bfbea2d77d5005826
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- voice: [[Changes/ChatGPT/2026-10-06-upload-audio-files-to-chatgpt-to-create-transcripts-summarize-recordings-and-ask|Upload audio files to ChatGPT to create transcripts, summarize recordings, and a]]
+- voice: [[Changes/ChatGPT/2026-10-06-upload-audio-files-to-chatgpt-to-create-transcripts-summarize-recordings-and-ask|Upload audio files to ChatGPT to create transcripts, summarize recordings, and ask…]]
 <!-- chronolog:end -->

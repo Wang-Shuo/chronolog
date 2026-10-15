@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3d57f9a1c5e8fec05593ed1d807a91ae6b2932fc0ac3cec0177d61e64c4495d7
+machine_hash: f186ea816ac7c9088aa67bae75142a2fe9adf8663c91e70f74e1d9313d2c863b
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Improved memory usage during long sessions by clearing internal caches
       after compaction
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.50
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: Improved memory usage during long sessions by clearing internal caches after
-    com
+    compaction
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-18-improved-performance-of-file-mentions-file-suggestions-now-appear-faster-by-pre|claude-code-2026-02-18-9dd752]]'
@@ -47,11 +47,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-02-20-v2-1-50-github-28
 source_type: github_releases
 theme: reliability-performance
 title: Improved memory usage during long sessions by clearing internal caches after
-  com
+  compaction
 type: change
 ---
 
-# Improved memory usage during long sessions by clearing internal caches after com
+# Improved memory usage during long sessions by clearing internal caches after compaction
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.50: Improved memory usage during long sessions by clearing internal caches after compaction

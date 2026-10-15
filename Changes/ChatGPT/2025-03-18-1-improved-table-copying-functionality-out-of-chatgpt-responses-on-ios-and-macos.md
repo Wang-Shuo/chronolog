@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: c909241a26037d3ab81689a6525b45594e8f5e6ea3f3660170aba815e99dd412
+machine_hash: 099276ce96f80349cab22da784adf708ff0b04f864774076e56d352cf07d58d5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   - quote: 1⁠. Improved table-copying functionality out of ChatGPT responses on iOS
       and macOS.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -34,8 +34,8 @@ record:
   source_release: chatgpt-2025-03-18-ios-app-6a42bb0f
   source_type: chatgpt_changelog
   theme: mobile-desktop
-  title: 1⁠. Improved table-copying functionality out of ChatGPT responses on iOS
-    and mac
+  title: Improved table-copying functionality out of ChatGPT responses on iOS and
+    macOS
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-02-21-1-ios-widget-see-below|chatgpt-2025-02-21-d134d2]]'
@@ -44,12 +44,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-03-18-ios-app-6a42bb0f|chatgpt-2025-03-18-ios-app-6a42bb0f]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: 1⁠. Improved table-copying functionality out of ChatGPT responses on iOS and
-  mac
+title: Improved table-copying functionality out of ChatGPT responses on iOS and macOS
 type: change
 ---
 
-# 1⁠. Improved table-copying functionality out of ChatGPT responses on iOS and mac
+# Improved table-copying functionality out of ChatGPT responses on iOS and macOS
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — iOS App: 1⁠. Improved table-copying functionality out of ChatGPT responses on iOS and macOS.

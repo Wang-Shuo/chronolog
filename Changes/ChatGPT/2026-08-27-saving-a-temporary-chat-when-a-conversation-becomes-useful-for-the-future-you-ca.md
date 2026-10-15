@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 61bb403a83eca90002e6404ae71a0fe5fde458e43c2f0f22cfdface3f48a9cd1
+machine_hash: 4f16aad50a18c104ee5042f65db168f0163adc0019f431f1dea82258d70a9dcd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -36,7 +36,7 @@ record:
       this will become part of your chat history and can be referenced to personalized
       future responses.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -54,8 +54,7 @@ record:
     - model
     score: 50
     theme: model-support
-  title: 'Saving a temporary chat: When a conversation becomes useful for the future,
-    you'
+  title: Saving a temporary chat
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-14-added-opt-in-memory-cgroup-support-for-bash-tool-commands-on-linux-claude-code-t|claude-code-2026-08-14-c22adb]]'
@@ -64,12 +63,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-27-more-controls-in-temporary-chat-5ca95d13|chatgpt-2026-08-27-more-controls-in-temporary-chat-5ca95d13]]'
 source_type: chatgpt_changelog
 theme: memory
-title: 'Saving a temporary chat: When a conversation becomes useful for the future,
-  you'
+title: Saving a temporary chat
 type: change
 ---
 
-# Saving a temporary chat: When a conversation becomes useful for the future, you
+# Saving a temporary chat
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — More controls in temporary chat: Saving a temporary chat: When a conversation becomes useful for the future, you can add it to your chat history. Saving converts it into a regular chat, so it then follows your account-level personalization settings and model-improvement preferences. For example, if you have memory enabled and save a temporary chat, this will become part of your chat history and can be referenced to personalized future responses.

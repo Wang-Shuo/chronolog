@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 839e1401fdc99997712829766ecaef479e03e35d82402b9d045d9e9f2298fea4
+machine_hash: 0b28aa8939d98ab96d93c64f4b110ad164d0cba36594221cd92bcd6f4c35de06
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: The vertical sidebar option will temporarily be unavailable for users who
       opted into Early Access
     source_release: https://cursor.com/changelog/0-48-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,7 +35,7 @@ record:
   source_type: cursor_changelog
   theme: interface-experience
   title: The vertical sidebar option will temporarily be unavailable for users who
-    opted
+    opted…
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-11-24-composer-ui-in-the-sidebar-with-inline-diffs|cursor-2024-11-24-5c27a3]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b|cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b]]'
 source_type: cursor_changelog
 theme: interface-experience
-title: The vertical sidebar option will temporarily be unavailable for users who opted
+title: The vertical sidebar option will temporarily be unavailable for users who opted…
 type: change
 ---
 
-# The vertical sidebar option will temporarily be unavailable for users who opted
+# The vertical sidebar option will temporarily be unavailable for users who opted…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Chat tabs, Custom modes & Faster indexing: The vertical sidebar option will temporarily be unavailable for users who opted into Early Access

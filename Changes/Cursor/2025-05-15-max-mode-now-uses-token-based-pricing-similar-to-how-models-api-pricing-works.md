@@ -11,9 +11,9 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 159c07c144e6a2ca39395c7051de7769611e65fe3302d6a27e06e3f2c1748ce0
+machine_hash: 635e1aaf684d3a816f89cc27d35dda566de1379f6e1dfb4c31d23a0b5df77ae1
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
   - quote: Max mode now uses token-based pricing (similar to how models API pricing
       works)
     source_release: https://cursor.com/changelog/0-50
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor

@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: cb9c59cae2027761361266f1961b249cd61f083c70d88c7c51d5d110cf80cfa4
+machine_hash: 594f101a4175cb05f0b7a29b04956d98930ce0d0a6872e12153e59e99dea9dc5
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
   - quote: '0.47.5: Client-side support for upcoming MAX mode compatibility for Claude
       3.7 Sonnet'
     source_release: https://cursor.com/changelog/0-47-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -39,7 +39,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: '0.47.5: Client-side support for upcoming MAX mode compatibility for Claude
-    3.7 S'
+    3.7 Sonnet'
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-01-23-deepseek-models-deepseek-r1-and-deepseek-v3-are-supported-in-0-45-and-0-44-you-c|cursor-2025-01-23-36d94e]]'
@@ -49,11 +49,11 @@ source_release: '[[Releases/Cursor/cursor-2025-03-11-0-47-x-https-cursor-com-cha
 source_type: cursor_changelog
 theme: model-support
 title: '0.47.5: Client-side support for upcoming MAX mode compatibility for Claude
-  3.7 S'
+  3.7 Sonnet'
 type: change
 ---
 
-# 0.47.5: Client-side support for upcoming MAX mode compatibility for Claude 3.7 S
+# 0.47.5: Client-side support for upcoming MAX mode compatibility for Claude 3.7 Sonnet
 
 <!-- chronolog:begin region="description" -->
 Cursor — Reliability, Keyboard Shortcuts & Early access opt-in: 0.47.5: Client-side support for upcoming MAX mode compatibility for Claude 3.7 Sonnet

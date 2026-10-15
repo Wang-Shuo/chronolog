@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 52718341dac83ac4814dcfca02cba7b7e3eab2bfd76182688b8177712378a434
+machine_hash: 3162d805c039f11dc597f17b6d3aae40e0bd72bddadaca5215863a9e0d4c8e49
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,7 +29,7 @@ record:
   - quote: Added the one-time fullscreen renderer offer on Bedrock, Vertex, Foundry
       and other previously excluded setups; new installs there now start in fullscreen
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.239
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -38,7 +38,7 @@ record:
   source_type: github_releases
   theme: interface-experience
   title: Added the one-time fullscreen renderer offer on Bedrock, Vertex, Foundry
-    and oth
+    and other…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-08-21-keep-recent-chats-easier-to-browse-your-sidebar-now-shows-up-to-eight-recent-con|chatgpt-2026-08-21-9fd387]]'
@@ -48,11 +48,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-08-21-v2-1-239-github-3
 source_type: github_releases
 theme: interface-experience
 title: Added the one-time fullscreen renderer offer on Bedrock, Vertex, Foundry and
-  oth
+  other…
 type: change
 ---
 
-# Added the one-time fullscreen renderer offer on Bedrock, Vertex, Foundry and oth
+# Added the one-time fullscreen renderer offer on Bedrock, Vertex, Foundry and other…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.239: Added the one-time fullscreen renderer offer on Bedrock, Vertex, Foundry and other previously excluded setups; new installs there now start in fullscreen

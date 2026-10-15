@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 052dd41fd1c14bee42b08740fefba1292b21a3c6deb24c448bd3c89e3ae4aa07
+machine_hash: ae3f6d04e97ca591eb4cfaf84fc037f2153f4aa75cae091ccc5625648e60d784
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,7 +54,7 @@ record:
       cohesive. Formatting is less templated and more intentionally designed, with
       greater creativity alongside better restraint.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -73,8 +73,7 @@ record:
     score: 50
     theme: context-window
   theme_resolution: manual-semantic-rule-v2
-  title: We’re updating GPT-5.5 Instant, our most-used model in ChatGPT, to improve
-    conve
+  title: We’re updating GPT-5.5 Instant, our most-used model in ChatGPT, to improve…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-06-12-as-of-june-12-2026-gpt-5-2-models-are-no-longer-available-in-chatgpt-this-applie|chatgpt-2026-06-12-a53a9d]]'
@@ -83,12 +82,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-24-gpt-5-5-instant-update-6c17e30e|chatgpt-2026-06-24-gpt-5-5-instant-update-6c17e30e]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: We’re updating GPT-5.5 Instant, our most-used model in ChatGPT, to improve
-  conve
+title: We’re updating GPT-5.5 Instant, our most-used model in ChatGPT, to improve…
 type: change
 ---
 
-# We’re updating GPT-5.5 Instant, our most-used model in ChatGPT, to improve conve
+# We’re updating GPT-5.5 Instant, our most-used model in ChatGPT, to improve…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — GPT-5.5 Instant Update: We’re updating GPT-5.5 Instant, our most-used model in ChatGPT, to improve conversational quality—especially when users are making a decision, asking for advice, planning something, researching options, or shopping.The model is better at identifying the underlying goal behind a question and carrying context across multiple turns. It also follows complex instructions more reliably: when a request includes several constraints or requirements, responses are more likely to address all of them and clearly explain why a recommendation is a good fit.When users add constraints, clarify what they mean, or push back on an answer, the model should adapt more effectively instead of repeating its original approach.Shopping and local business queries should also feel more useful. The model makes better use of location context to surface relevant nearby options and can bring together product recommendations, business information, and images more coherently when those elements are helpful.Overall, responses should feel more tasteful and cohesive. Formatting is less templated and more intentionally designed, with greater creativity alongside better restraint.

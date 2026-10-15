@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0b069de85a8d237279083e7370058de28a0dc241fa80aa28a5e8a1fb3bf141e8
+machine_hash: 8817fd4478e17a5e9686eb4fb3a9c1e684e54a55ff7ce68dffa3906abdfb181c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
       Available in beta in the ChatGPT desktop app on macOS to Pro and Business users,
       with Enterprise coming soon. Learn more.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -50,8 +50,7 @@ record:
     - audio
     score: 50
     theme: voice
-  title: Audio is deleted once your notes are ready and can’t be accessed or replayed.
-    Av
+  title: Audio is deleted once your notes are ready and can’t be accessed or replayed
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-09-21-this-feature-is-rolling-out-in-finances-to-plus-and-pro-users-in-the-u-s-on-web|chatgpt-2026-09-21-cbf0eb]]'
@@ -60,12 +59,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-meetings-plugin-157dcc24|chatgpt-2026-09-29-meetings-plugin-157dcc24]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: Audio is deleted once your notes are ready and can’t be accessed or replayed.
-  Av
+title: Audio is deleted once your notes are ready and can’t be accessed or replayed
 type: change
 ---
 
-# Audio is deleted once your notes are ready and can’t be accessed or replayed. Av
+# Audio is deleted once your notes are ready and can’t be accessed or replayed
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Meetings plugin: Audio is deleted once your notes are ready and can’t be accessed or replayed. Available in beta in the ChatGPT desktop app on macOS to Pro and Business users, with Enterprise coming soon. Learn more.

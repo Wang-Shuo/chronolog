@@ -11,9 +11,9 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4410842740402bef328024099ba74ad8a998f4b410ccb6b838d80d0b7a18220e
+machine_hash: cf60c959f65ccc42e6b7be0b7e90450457f9613785b942b80cec11d76f930cc6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       You can also use voice in Projects, referencing recent project chats, sources,
       and project instructions.Learn more about ChatGPT Voice.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -39,8 +39,7 @@ record:
   source_release: chatgpt-2026-08-07-files-and-projects-in-chatgpt-voice-aaa6fa65
   source_type: chatgpt_changelog
   theme: voice
-  title: GPT-Live in ChatGPT Voice now supports file uploads and Projects. You can
-    now up
+  title: GPT-Live in ChatGPT Voice now supports file uploads and Projects
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-07-08-we-re-rolling-out-a-new-chatgpt-voice-experience-chatgpt-voice-is-now-powered-by|chatgpt-2026-07-08-b5acef]]'
@@ -49,12 +48,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-07-files-and-projects-in-chatgpt-voice-aaa6fa65|chatgpt-2026-08-07-files-and-projects-in-chatgpt-voice-aaa6fa65]]'
 source_type: chatgpt_changelog
 theme: voice
-title: GPT-Live in ChatGPT Voice now supports file uploads and Projects. You can now
-  up
+title: GPT-Live in ChatGPT Voice now supports file uploads and Projects
 type: change
 ---
 
-# GPT-Live in ChatGPT Voice now supports file uploads and Projects. You can now up
+# GPT-Live in ChatGPT Voice now supports file uploads and Projects
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Files and Projects in ChatGPT Voice: GPT-Live in ChatGPT Voice now supports file uploads and Projects. You can now upload files in a voice conversation and analyze its contents or ask questions. You can also use voice in Projects, referencing recent project chats, sources, and project instructions.Learn more about ChatGPT Voice.

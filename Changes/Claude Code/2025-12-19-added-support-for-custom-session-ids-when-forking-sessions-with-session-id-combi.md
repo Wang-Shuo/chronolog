@@ -11,9 +11,9 @@ diffusion:
   theme: projects-workspaces
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 50858420c2a5a80e3b7072922bedd306ecc0759c07ae8b7ba4abef2975238c14
+machine_hash: d5b4f323aea6990b814dde033d200af965c0fa83dff026dce3e76eb3780c3de2
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Added support for custom session IDs when forking sessions with `--session-id`
       combined with `--resume` or `--continue` and `--fork-session`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.0.73
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -38,8 +38,7 @@ record:
   theme: projects-workspaces
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Added support for custom session IDs when forking sessions with `--session-id`
-    c
+  title: Added support for custom session IDs when forking sessions with `--session-id`…
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-10-09-composer-history-lets-you-access-previous-composer-sessions-after-restart-you-ca|cursor-2024-10-09-b4f283]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2025-12-19-v2-0-73-github-271620087-160adbe9|claude-code-2025-12-19-v2-0-73-github-271620087-160adbe9]]'
 source_type: github_releases
 theme: projects-workspaces
-title: Added support for custom session IDs when forking sessions with --session-id
-  c
+title: Added support for custom session IDs when forking sessions with --session-id…
 type: change
 ---
 
-# Added support for custom session IDs when forking sessions with `--session-id` c
+# Added support for custom session IDs when forking sessions with `--session-id`…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.0.73: Added support for custom session IDs when forking sessions with `--session-id` combined with `--resume` or `--continue` and `--fork-session`

@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: be4a0c9ae1b381bf7f4cca3352f7455abbca0eb1f5c44a44f4667edc815a8995
+machine_hash: 5bbe329ef523f3397d3e89349ed18075187e17ca30daa767a1967f4d7f3abc6d
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: 'Styling tweaks: some buttons and hints should look nicer!'
     source_release: https://cursor.com/changelog/0-14-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

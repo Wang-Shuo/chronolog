@@ -11,9 +11,9 @@ diffusion:
   theme: automation-scheduling
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 562679d20ff0d6ddf828b4f3b767918b0ae55a7cadebb84d12e06d65de87cdd5
+machine_hash: 79395136c8b5dcb83bd14fbbda0fb7ca5d7be9b0ce567575409821f2ad14b378
 product: claude-code
 product_name: Claude Code
 record:
@@ -24,7 +24,7 @@ record:
   evidence:
   - quote: '`/proactive` is now an alias for `/loop`'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.105
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

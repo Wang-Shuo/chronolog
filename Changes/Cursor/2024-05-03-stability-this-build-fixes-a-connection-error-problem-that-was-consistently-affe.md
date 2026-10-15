@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 047ebc36afe6cdb6481c2e550dba6623c9a35baff0ca5dd4d2f05849677d0348
+machine_hash: 647961b6e6253b5c4a2ec632e71b32d35d841ae0258d2779d47aed7d499fbb3f
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
       affecting some users. It should also improve the performance of Cursor on spotty
       internet.'
     source_release: https://cursor.com/changelog/0-33-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -36,8 +36,7 @@ record:
   source_release: cursor-2024-05-03-0-33-x-https-cursor-com-changelog-0-33-x-f8df9c65
   source_type: cursor_changelog
   theme: reliability-performance
-  title: 'Stability: This build fixes a connection error problem that was consistently
-    aff'
+  title: 'Stability: This build fixes a connection error problem that was consistently…'
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-02-02-apply-diffs-from-chat-should-be-a-bit-faster|cursor-2024-02-02-cfb170]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-05-03-0-33-x-https-cursor-com-changelog-0-33-x-f8df9c65|cursor-2024-05-03-0-33-x-https-cursor-com-changelog-0-33-x-f8df9c65]]'
 source_type: cursor_changelog
 theme: reliability-performance
-title: 'Stability: This build fixes a connection error problem that was consistently
-  aff'
+title: 'Stability: This build fixes a connection error problem that was consistently…'
 type: change
 ---
 
-# Stability: This build fixes a connection error problem that was consistently aff
+# Stability: This build fixes a connection error problem that was consistently…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Networking Stability, Command-K Autoselect: Stability: This build fixes a connection error problem that was consistently affecting some users. It should also improve the performance of Cursor on spotty internet.

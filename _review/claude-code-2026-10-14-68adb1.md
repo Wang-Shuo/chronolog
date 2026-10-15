@@ -1,6 +1,6 @@
 ---
 draft: true
-machine_hash: 0449c3663fd3f4574412622351d952e21fae87c4f3473a97e9735db7d2422919
+machine_hash: fc3d0879254791a52b17d7bc3cffcb365bcdf602a6efdd88f9d01c177440f3bb
 product: claude-code
 record:
   card_id: claude-code-2026-10-14-68adb1
@@ -14,7 +14,7 @@ record:
       gets the paths of `@` file mentions to read with its file tools, not the files''
       contents'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.299
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -25,8 +25,7 @@ record:
   theme_matches: []
   theme_review_reason: no_match
   theme_suggestion: added-claude-code
-  title: 'Added `CLAUDE_CODE_DISABLE_FILE_MENTIONS` environment variable: Claude gets
-    the'
+  title: Added `CLAUDE_CODE_DISABLE_FILE_MENTIONS` environment variable
   type: change
 ---
 

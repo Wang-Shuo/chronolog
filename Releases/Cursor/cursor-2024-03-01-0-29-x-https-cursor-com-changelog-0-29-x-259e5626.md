@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2024-03-01'
-machine_hash: c3470d7b601926a3ade3a53c8d27647f652f9c5b8e4feb031cacfed220c730bb
+machine_hash: 3b6eebd5a0f78bc1d24e7b0b514219cfd2ff11a94f66760c148b1a8c31d04a45
 product: cursor
 product_name: Cursor
 record:
@@ -40,5 +40,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- interface-experience: [[Changes/Cursor/2024-03-01-ai-notes-enabled-by-default-hold-shift-on-any-symbol-better-in-editor-chat-auto|AI Notes enabled by default (hold shift on any symbol), better in-editor chat, a]]
+- interface-experience: [[Changes/Cursor/2024-03-01-ai-notes-enabled-by-default-hold-shift-on-any-symbol-better-in-editor-chat-auto|AI Notes enabled by default (hold shift on any symbol), better in-editor chat…]]
 <!-- chronolog:end -->

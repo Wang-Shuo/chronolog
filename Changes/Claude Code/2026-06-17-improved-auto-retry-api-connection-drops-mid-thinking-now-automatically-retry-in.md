@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 87885dec8bb38ec613b210e2ac7a98c46889a75e97aa27d87d71606306f150ce
+machine_hash: 3cb3e65e99de603cfe843190282adcc14baba744099e4000e1b9f56e2f3f7d23
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: 'Improved auto-retry: API connection drops mid-thinking now automatically
       retry instead of showing "Connection closed while thinking"'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.181
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,7 +38,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: 'Improved auto-retry: API connection drops mid-thinking now automatically
-    retry i'
+    retry…'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-12-improved-bedrock-credential-caching-credentials-from-awscredentialexport-are-now|claude-code-2026-06-12-c6b174]]'
@@ -47,12 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-17-v2-1-181-github-340975229-c771c493|claude-code-2026-06-17-v2-1-181-github-340975229-c771c493]]'
 source_type: github_releases
 theme: reliability-performance
-title: 'Improved auto-retry: API connection drops mid-thinking now automatically retry
-  i'
+title: 'Improved auto-retry: API connection drops mid-thinking now automatically retry…'
 type: change
 ---
 
-# Improved auto-retry: API connection drops mid-thinking now automatically retry i
+# Improved auto-retry: API connection drops mid-thinking now automatically retry…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.181: Improved auto-retry: API connection drops mid-thinking now automatically retry instead of showing "Connection closed while thinking"

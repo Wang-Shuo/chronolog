@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: a2ee1bbf662c3acacd42b9f4fa675fe677eafc06d45e11fe8738d72f61e38f0a
+machine_hash: 49954f6728e7315d8a55c8eaacc0d2196bee9451da6a3a7f8c649ad45ff39b83
 product: claude-code
 product_name: Claude Code
 record:
@@ -35,7 +35,7 @@ record:
       back to `origin/<default>` (it has been local `HEAD` since 2.1.128) — set `worktree.baseRef:
       "head"` to keep unpushed commits in new worktrees'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.133
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code
@@ -53,7 +53,7 @@ record:
     score: 50
     theme: developer-workflow
   theme_resolution: manual-semantic-rule-v1
-  title: Added `worktree.baseRef` setting (`fresh` | `head`) to choose whether `--worktre
+  title: Added `worktree.baseRef` setting (`fresh` | `head`) to choose whether `--worktree`…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-23-added-prurltemplate-setting-to-point-the-footer-pr-badge-at-a-custom-code-review|claude-code-2026-04-23-cf1efd]]'
@@ -62,11 +62,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-07-v2-1-133-github-319164825-08653677|claude-code-2026-05-07-v2-1-133-github-319164825-08653677]]'
 source_type: github_releases
 theme: developer-workflow
-title: Added worktree.baseRef setting (fresh  /  head) to choose whether --worktre
+title: Added worktree.baseRef setting (fresh  /  head) to choose whether --worktree…
 type: change
 ---
 
-# Added `worktree.baseRef` setting (`fresh` | `head`) to choose whether `--worktre
+# Added `worktree.baseRef` setting (`fresh` | `head`) to choose whether `--worktree`…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.133: Added `worktree.baseRef` setting (`fresh` | `head`) to choose whether `--worktree`, `EnterWorktree`, and agent-isolation worktrees branch from `origin/<default>` or local `HEAD`. **Note:** the default `fresh` changes `EnterWorktree`'s base back to `origin/<default>` (it has been local `HEAD` since 2.1.128) — set `worktree.baseRef: "head"` to keep unpushed commits in new worktrees

@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d6550fec1d89f45125fc7118eb0c699eeb092077afc097b8328d7b2972a7aab4
+machine_hash: 81c454fd2ad9c75512375343bbb103d2d8173470ed3652462e6b9e0a39ee310f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       outputs according to the format requested and achieves higher accuracy in classification
       tasks.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -41,7 +41,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: GPT-4o is now more adept at following detailed instructions, especially for
-    prom
+    prompts…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-03-27-we-ve-made-improvements-to-gpt-4o-it-now-feels-more-intuitive-creative-and-colla|chatgpt-2025-03-27-5afb48]]'
@@ -51,11 +51,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2025-03-27-improvements-to-gpt-4o-4b
 source_type: chatgpt_changelog
 theme: model-support
 title: GPT-4o is now more adept at following detailed instructions, especially for
-  prom
+  prompts…
 type: change
 ---
 
-# GPT-4o is now more adept at following detailed instructions, especially for prom
+# GPT-4o is now more adept at following detailed instructions, especially for prompts…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Improvements to GPT-4o: GPT-4o is now more adept at following detailed instructions, especially for prompts containing multiple or complex requests. It improves on generating outputs according to the format requested and achieves higher accuracy in classification tasks.

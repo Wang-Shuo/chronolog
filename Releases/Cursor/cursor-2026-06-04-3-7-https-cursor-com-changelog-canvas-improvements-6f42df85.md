@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2026-06-04'
-machine_hash: d839f6300a9d5451d99fa596ed582b5120212882e01a1c3fff2937ddee5aa52c
+machine_hash: 2db24147c85ed2a7d3679082d716018705faef5eaeef444d49906ab20991fa24
 product: cursor
 product_name: Cursor
 record:
@@ -39,9 +39,9 @@ Tracked cards: 5
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- context-window: [[Changes/Cursor/2026-06-04-cursor-can-now-show-your-agent-s-context-usage-as-an-interactive-report-in-a-can|Cursor can now show your agent's context usage as an interactive report in a can]]
-- context-window: [[Changes/Cursor/2026-06-04-this-release-introduces-design-mode-for-faster-canvas-editing-new-ways-to-unders|This release introduces Design Mode for faster canvas editing, new ways to under]]
-- file-data: [[Changes/Cursor/2026-06-04-design-mode-is-now-available-in-canvases|Design Mode is now available in canvases.]]
-- context-window: [[Changes/Cursor/2026-06-04-the-context-explorer-breaks-down-where-tokens-go-across-the-system-prompt-tool-d|The context explorer breaks down where tokens go across the system prompt, tool]]
-- collaboration: [[Changes/Cursor/2026-06-04-with-canvases-agents-can-create-interactive-artifacts-like-dashboards-reports-an|With canvases, agents can create interactive artifacts like dashboards, reports,]]
+- context-window: [[Changes/Cursor/2026-06-04-cursor-can-now-show-your-agent-s-context-usage-as-an-interactive-report-in-a-can|Cursor can now show your agent's context usage as an interactive report in a canvas]]
+- context-window: [[Changes/Cursor/2026-06-04-this-release-introduces-design-mode-for-faster-canvas-editing-new-ways-to-unders|Cursor introduces Design Mode for faster canvas editing, new ways to understand…]]
+- file-data: [[Changes/Cursor/2026-06-04-design-mode-is-now-available-in-canvases|Design Mode is now available in canvases]]
+- context-window: [[Changes/Cursor/2026-06-04-the-context-explorer-breaks-down-where-tokens-go-across-the-system-prompt-tool-d|The context explorer breaks down where tokens go across the system prompt, tool…]]
+- collaboration: [[Changes/Cursor/2026-06-04-with-canvases-agents-can-create-interactive-artifacts-like-dashboards-reports-an|With canvases, agents can create interactive artifacts like dashboards, reports…]]
 <!-- chronolog:end -->

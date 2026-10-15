@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: fac10f1f28fc0e5f4b2b6c887e666b709968bc7ca3a23d38b64dd1ff147a4f6b
+machine_hash: 131a9589e302e17192a54bf90812d160ca25c716fb74e09fc668904abe6dd210
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       system prompt changed, idle past the TTL) to `/cost` and the status line's `prompt_cache`
       field
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.260
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   source_release: claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc
   source_type: github_releases
   theme: interface-experience
-  title: Added a likely cause for prompt-cache misses (e.g. tool definitions or system
-    pr
+  title: Added a likely cause for prompt-cache misses…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-21-cost-estimates-cost-status-line-max-budget-usd-now-include-the-1-1-us-only-infer|claude-code-2026-08-21-47dab0]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc|claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc]]'
 source_type: github_releases
 theme: interface-experience
-title: Added a likely cause for prompt-cache misses (e.g. tool definitions or system
-  pr
+title: Added a likely cause for prompt-cache misses…
 type: change
 ---
 
-# Added a likely cause for prompt-cache misses (e.g. tool definitions or system pr
+# Added a likely cause for prompt-cache misses…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.260: Added a likely cause for prompt-cache misses (e.g. tool definitions or system prompt changed, idle past the TTL) to `/cost` and the status line's `prompt_cache` field

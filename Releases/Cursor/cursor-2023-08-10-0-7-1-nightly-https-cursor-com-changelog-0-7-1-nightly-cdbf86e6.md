@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-08-10'
-machine_hash: 3a8e4e95d033d26f31343d839c481e27eb16b755c055d88c08b509599069d54c
+machine_hash: 5614fa8c11c29a3bac7cc6df67e4aad40fbd0fc4e3bfaf026880b67e5dc9109e
 product: cursor
 product_name: Cursor
 record:
@@ -39,5 +39,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- editor-experience: [[Changes/Cursor/2023-08-10-cmd-k-now-has-a-fast-mode-it-is-about-1-second-faster-and-we-re-working-on-makin|Cmd-K now has a fast mode! It is about 1 second faster, and we're working on mak]]
+- editor-experience: [[Changes/Cursor/2023-08-10-cmd-k-now-has-a-fast-mode-it-is-about-1-second-faster-and-we-re-working-on-makin|Cmd-K now has a fast mode!]]
 <!-- chronolog:end -->

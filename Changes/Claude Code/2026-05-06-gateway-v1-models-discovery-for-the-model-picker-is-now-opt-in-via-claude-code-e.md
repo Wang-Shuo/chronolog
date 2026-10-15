@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: ec4d90089104404c17bb432a557805999e99fed01f1b9ccdbf47e12379a79fd0
+machine_hash: 0d65d9daa0d13d3319ecc185707c992fb1af93bf90167e52dd3b550db278cefe
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,7 +29,7 @@ record:
   - quote: Gateway `/v1/models` discovery for the `/model` picker is now opt-in via
       `CLAUDE_CODE_ENABLE_GATEWAY_MODEL_DISCOVERY=1` (was automatic in 2.1.126–2.1.128)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.129
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -47,8 +47,7 @@ record:
     - picker
     score: 50
     theme: interface-experience
-  title: Gateway `/v1/models` discovery for the `/model` picker is now opt-in via
-    `CLAUDE
+  title: Gateway `/v1/models` discovery for the `/model` picker is now opt-in…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-04-updated-model-picker-collapsed-duplicate-opus-4-7-entries-and-current-opus-now-s|claude-code-2026-05-04-cbf221]]'
@@ -57,11 +56,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-06-v2-1-129-github-317982632-ec56fc0f|claude-code-2026-05-06-v2-1-129-github-317982632-ec56fc0f]]'
 source_type: github_releases
 theme: model-support
-title: Gateway /v1/models discovery for the /model picker is now opt-in via CLAUDE
+title: Gateway /v1/models discovery for the /model picker is now opt-in…
 type: change
 ---
 
-# Gateway `/v1/models` discovery for the `/model` picker is now opt-in via `CLAUDE
+# Gateway `/v1/models` discovery for the `/model` picker is now opt-in…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.129: Gateway `/v1/models` discovery for the `/model` picker is now opt-in via `CLAUDE_CODE_ENABLE_GATEWAY_MODEL_DISCOVERY=1` (was automatic in 2.1.126–2.1.128)

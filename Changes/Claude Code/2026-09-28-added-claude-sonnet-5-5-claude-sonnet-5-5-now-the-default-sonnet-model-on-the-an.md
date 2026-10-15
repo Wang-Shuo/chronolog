@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 5d1a3f2435aa0a1c7edcdf562e5d6151f4ef9a644d796b9ee52ff8553577abd5
+machine_hash: 6583170bc7bbad65ac0e972b391ebb8696c775ec226a5b90bc72a86055fce19a
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,7 +29,7 @@ record:
   - quote: Added Claude Sonnet 5.5 (`claude-sonnet-5-5`), now the default Sonnet model
       on the Anthropic API — 1M context, $2/$10 per Mtok with $0.20/Mtok cache reads
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.284
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -49,8 +49,7 @@ record:
     score: 50
     theme: context-window
   theme_resolution: manual-semantic-rule-v2
-  title: Added Claude Sonnet 5.5 (`claude-sonnet-5-5`), now the default Sonnet model
-    on t
+  title: Added Claude Sonnet 5.5 (`claude-sonnet-5-5`), now the default Sonnet model…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-25-added-availablemodelsmatch-managed-setting-with-exact-an-availablemodels-entry-a|claude-code-2026-09-25-017617]]'
@@ -59,12 +58,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49|claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49]]'
 source_type: github_releases
 theme: model-support
-title: Added Claude Sonnet 5.5 (claude-sonnet-5-5), now the default Sonnet model on
-  t
+title: Added Claude Sonnet 5.5 (claude-sonnet-5-5), now the default Sonnet model…
 type: change
 ---
 
-# Added Claude Sonnet 5.5 (`claude-sonnet-5-5`), now the default Sonnet model on t
+# Added Claude Sonnet 5.5 (`claude-sonnet-5-5`), now the default Sonnet model…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.284: Added Claude Sonnet 5.5 (`claude-sonnet-5-5`), now the default Sonnet model on the Anthropic API — 1M context, $2/$10 per Mtok with $0.20/Mtok cache reads

@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 0039da6c64bb3f73fb4fe0ee613b46500df1d8b368edd4da42b51af3c4dfd883
+machine_hash: 386b9a15d042a7d1f04754c049bd14d8380f33b5ab9cacbd3e076cf2a0c9296e
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Get started at cursor.com/onboard to watch the agent configure itself and
       record a demo. Or read more in our announcement.
     source_release: https://cursor.com/changelog/02-24-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -37,7 +37,7 @@ record:
   source_type: cursor_changelog
   theme: agent-mode
   title: Get started at cursor.com/onboard to watch the agent configure itself and
-    record
+    record a demo
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-20-added-support-for-isolation-worktree-in-agent-definitions-allowing-agents-to-dec|claude-code-2026-02-20-33fd37]]'
@@ -47,10 +47,11 @@ source_release: '[[Releases/Cursor/cursor-2026-02-24-cloud-agents-with-computer-
 source_type: cursor_changelog
 theme: agent-mode
 title: Get started at cursor.com/onboard to watch the agent configure itself and record
+  a demo
 type: change
 ---
 
-# Get started at cursor.com/onboard to watch the agent configure itself and record
+# Get started at cursor.com/onboard to watch the agent configure itself and record a demo
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cloud Agents with Computer Use: Get started at cursor.com/onboard to watch the agent configure itself and record a demo. Or read more in our announcement.

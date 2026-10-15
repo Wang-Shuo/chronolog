@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9d4b0ccd6ec385a6a349385c0566461d577e81864e6ad4a276d8bd1eed058219
+machine_hash: 5ea3f66726ee447c06d053921941355322fd85d9777c3240540ad4ad5df74e13
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,7 +35,7 @@ record:
       Advanced Data Analysis, previously known as Code Interpreter.Learn more on our
       website and connect with our sales team to get started.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -74,7 +74,7 @@ record:
     score: 50
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v2
-  title: Today we’re launching ChatGPT Enterprise, which offers enterprise-grade security
+  title: ChatGPT launches ChatGPT Enterprise, which offers enterprise-grade security…
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|cursor-2023-04-16-f0e22a]]'
@@ -82,11 +82,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2023-08-28-introducing-chatgpt-enterprise-eb7127e6|chatgpt-2023-08-28-introducing-chatgpt-enterprise-eb7127e6]]'
 source_type: chatgpt_changelog
 theme: safety-privacy
-title: Today we’re launching ChatGPT Enterprise, which offers enterprise-grade security
+title: ChatGPT launches ChatGPT Enterprise, which offers enterprise-grade security…
 type: change
 ---
 
-# Today we’re launching ChatGPT Enterprise, which offers enterprise-grade security
+# ChatGPT launches ChatGPT Enterprise, which offers enterprise-grade security…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Introducing ChatGPT Enterprise: Today we’re launching ChatGPT Enterprise, which offers enterprise-grade security and privacy, unlimited higher-speed GPT-4 access, longer context windows for processing longer inputs, advanced data analysis capabilities, customization options, and much more.ChatGPT Enterprise also provides unlimited access to Advanced Data Analysis, previously known as Code Interpreter.Learn more on our website and connect with our sales team to get started.

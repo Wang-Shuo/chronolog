@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: c226ad351777c0dd6ee9e5163c078e827e04769b8d634d2761c3e36cc1d61125
+machine_hash: 034232d3ffc25be0cb694e11ec6d3d2d3adb961ef3862b501d169cbe286f14f9
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: Added support for Claude Sonnet 4.6
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.45
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code

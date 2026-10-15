@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: cd1a094024cafdb72341203554a08140fd91ce1518e34022d911501762313b0e
+machine_hash: 21054d46bfdd8a37c2a994f8cd78265e57ff7094c7197d29f859f38811cef7b7
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: It's simpler, more powerful, and centered around agents, while keeping
       the depth of a development environment.
     source_release: https://cursor.com/changelog/3-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,7 +35,7 @@ record:
   source_type: cursor_changelog
   theme: agent-mode
   title: It's simpler, more powerful, and centered around agents, while keeping the
-    depth
+    depth…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-01-added-permissiondenied-hook-that-fires-after-auto-mode-classifier-denials-return|claude-code-2026-04-01-e43a95]]'
@@ -45,11 +45,11 @@ source_release: '[[Releases/Cursor/cursor-2026-04-02-3-0-https-cursor-com-change
 source_type: cursor_changelog
 theme: agent-mode
 title: It's simpler, more powerful, and centered around agents, while keeping the
-  depth
+  depth…
 type: change
 ---
 
-# It's simpler, more powerful, and centered around agents, while keeping the depth
+# It's simpler, more powerful, and centered around agents, while keeping the depth…
 
 <!-- chronolog:begin region="description" -->
 Cursor — New Cursor Interface: It's simpler, more powerful, and centered around agents, while keeping the depth of a development environment.

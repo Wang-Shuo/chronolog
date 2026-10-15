@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: e6e6d80ebcbf577404e9b30d737cade64c796b5ce3a5ebc612b62fdb06c29b75
+machine_hash: 8fbc08b32e66a835752f0d5ddd6a21b95d56804409fa25a2bbd6e74b3bbaec88
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,7 +34,7 @@ record:
       in your Project share context with your uploaded files and custom instructions.
       Chats in Projects use GPT-4o and support the following features:'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -56,7 +56,7 @@ record:
     score: 50
     theme: context-window
   theme_resolution: manual-semantic-rule-v2
-  title: Projects provide a new way to group files and chats for personal use, simplifyin
+  title: Projects provide a new way to group files and chats for personal use, simplifying…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2024-07-18-we-re-introducing-gpt-4o-mini-the-most-capable-and-cost-efficient-small-model-av-af297b|chatgpt-2024-07-18-af297b]]'
@@ -65,11 +65,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2024-12-13-projects-in-chatgpt-01b98e1c|chatgpt-2024-12-13-projects-in-chatgpt-01b98e1c]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: Projects provide a new way to group files and chats for personal use, simplifyin
+title: Projects provide a new way to group files and chats for personal use, simplifying…
 type: change
 ---
 
-# Projects provide a new way to group files and chats for personal use, simplifyin
+# Projects provide a new way to group files and chats for personal use, simplifying…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Projects in ChatGPT: Projects provide a new way to group files and chats for personal use, simplifying the management of work that involves multiple chats. You can set custom instructions and upload files in your Projects, and any conversations in your Project share context with your uploaded files and custom instructions. Chats in Projects use GPT-4o and support the following features:

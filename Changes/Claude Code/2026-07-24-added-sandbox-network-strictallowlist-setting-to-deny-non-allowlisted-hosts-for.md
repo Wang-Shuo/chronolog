@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 303e50b484a945b25b6bc8e0c01e1b5f4846e25f5312caade5690c6b60b01ab4
+machine_hash: 18130ddc6ac0f96b92a4acdf486f0450f867632c2aabaf4fa3055f92f7c43f99
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `sandbox.network.strictAllowlist` setting to deny non-allowlisted
       hosts for sandboxed commands without prompting
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.219
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   theme: safety-privacy
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: Added `sandbox.network.strictAllowlist` setting to deny non-allowlisted hosts
-    fo
+  title: Added `sandbox.network.strictAllowlist` setting to deny non-allowlisted hosts…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-22-improved-auto-mode-the-dangerous-rm-background-and-suspicious-windows-path-check|claude-code-2026-07-22-56473f]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-24-v2-1-219-github-359412713-6c14d233|claude-code-2026-07-24-v2-1-219-github-359412713-6c14d233]]'
 source_type: github_releases
 theme: safety-privacy
-title: Added sandbox.network.strictAllowlist setting to deny non-allowlisted hosts
-  fo
+title: Added sandbox.network.strictAllowlist setting to deny non-allowlisted hosts…
 type: change
 ---
 
-# Added `sandbox.network.strictAllowlist` setting to deny non-allowlisted hosts fo
+# Added `sandbox.network.strictAllowlist` setting to deny non-allowlisted hosts…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.219: Added `sandbox.network.strictAllowlist` setting to deny non-allowlisted hosts for sandboxed commands without prompting

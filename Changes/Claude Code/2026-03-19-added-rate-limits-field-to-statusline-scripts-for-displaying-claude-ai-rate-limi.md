@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: b5405a61dd350937c27a0427f02c69efed8802c05469c85ecc0d6daf26f09d13
+machine_hash: 3138b584441157c9104e82636738c0f80b2b196b28fc457e9c7c9713a8f35012
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Added `rate_limits` field to statusline scripts for displaying Claude.ai
       rate limit usage (5-hour and 7-day windows with `used_percentage` and `resets_at`)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.80
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,7 +38,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: Added `rate_limits` field to statusline scripts for displaying Claude.ai
-    rate li
+    rate limit…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-17-copy-now-accepts-an-optional-index-copy-n-copies-the-nth-latest-assistant-respon|claude-code-2026-03-17-4c7440]]'
@@ -48,11 +48,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-03-19-v2-1-80-github-29
 source_type: github_releases
 theme: interface-experience
 title: Added rate_limits field to statusline scripts for displaying Claude.ai rate
-  li
+  limit…
 type: change
 ---
 
-# Added `rate_limits` field to statusline scripts for displaying Claude.ai rate li
+# Added `rate_limits` field to statusline scripts for displaying Claude.ai rate limit…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.80: Added `rate_limits` field to statusline scripts for displaying Claude.ai rate limit usage (5-hour and 7-day windows with `used_percentage` and `resets_at`)

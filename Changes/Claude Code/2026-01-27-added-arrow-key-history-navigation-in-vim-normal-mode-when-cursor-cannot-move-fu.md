@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 09052de314d9721abb23793fb64382f11f42ff6e12b2a51a39cf952cc323cfa7
+machine_hash: 4bd22e153c7bd29cf7a56e65623e25564c3007d5bac8d68b3f5e3626a53beff6
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added arrow key history navigation in vim normal mode when cursor cannot
       move further
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.20
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,7 +35,7 @@ record:
   source_type: github_releases
   theme: interface-experience
   title: Added arrow key history navigation in vim normal mode when cursor cannot
-    move fu
+    move further
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-14-added-showturnduration-setting-to-hide-turn-duration-messages-e-g-cooked-for-1m|claude-code-2026-01-14-a1d079]]'
@@ -45,11 +45,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-01-27-v2-1-20-github-28
 source_type: github_releases
 theme: interface-experience
 title: Added arrow key history navigation in vim normal mode when cursor cannot move
-  fu
+  further
 type: change
 ---
 
-# Added arrow key history navigation in vim normal mode when cursor cannot move fu
+# Added arrow key history navigation in vim normal mode when cursor cannot move further
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.20: Added arrow key history navigation in vim normal mode when cursor cannot move further

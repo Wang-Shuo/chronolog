@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 15fed05d803875e181e1243afe3be80009d639d2583f9d79f534a12932e8a0d3
+machine_hash: 9cedb9d7c1311c0e1d667057b4388d201c85db10c5c4ac8a22b0b576e5ef766a
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       in /config and manually invocable with /recap; force with `CLAUDE_CODE_ENABLE_AWAY_SUMMARY`
       if telemetry disabled.
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.108
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,7 +36,7 @@ record:
   source_release: claude-code-2026-04-14-v2-1-108-github-309009167-35123bd5
   source_type: github_releases
   theme: context-window
-  title: Added recap feature to provide context when returning to a session, configurable
+  title: Added recap feature to provide context when returning to a session, configurable…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-27-reduced-token-overhead-when-mentioning-files-with-raw-string-content-no-longer-j|claude-code-2026-03-27-09cfad]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-14-v2-1-108-github-309009167-35123bd5|claude-code-2026-04-14-v2-1-108-github-309009167-35123bd5]]'
 source_type: github_releases
 theme: context-window
-title: Added recap feature to provide context when returning to a session, configurable
+title: Added recap feature to provide context when returning to a session, configurable…
 type: change
 ---
 
-# Added recap feature to provide context when returning to a session, configurable
+# Added recap feature to provide context when returning to a session, configurable…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.108: Added recap feature to provide context when returning to a session, configurable in /config and manually invocable with /recap; force with `CLAUDE_CODE_ENABLE_AWAY_SUMMARY` if telemetry disabled.

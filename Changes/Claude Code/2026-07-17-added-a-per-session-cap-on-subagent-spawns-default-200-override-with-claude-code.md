@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1cd80a05ad20c1877832750cdb0271f6e26b3f3b7e038ac511a36f36a5ee2987
+machine_hash: cf2be60bedc25f57839911e7559dd95ae335aa157148cd98a21e027f294b8605
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       `CLAUDE_CODE_MAX_SUBAGENTS_PER_SESSION`) to stop runaway delegation loops; `/clear`
       resets the budget
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.212
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,7 +36,7 @@ record:
   source_release: claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11
   source_type: github_releases
   theme: agent-mode
-  title: Added a per-session cap on subagent spawns (default 200, override with `CLAUDE_C
+  title: Added a per-session cap on subagent spawns…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-14-added-claude-code-process-wrapper-agent-view-and-the-background-service-now-hono|claude-code-2026-07-14-dfb540]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11|claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11]]'
 source_type: github_releases
 theme: agent-mode
-title: Added a per-session cap on subagent spawns (default 200, override with CLAUDE_C
+title: Added a per-session cap on subagent spawns…
 type: change
 ---
 
-# Added a per-session cap on subagent spawns (default 200, override with `CLAUDE_C
+# Added a per-session cap on subagent spawns…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.212: Added a per-session cap on subagent spawns (default 200, override with `CLAUDE_CODE_MAX_SUBAGENTS_PER_SESSION`) to stop runaway delegation loops; `/clear` resets the budget

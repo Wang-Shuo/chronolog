@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-09-10'
-machine_hash: ca27db5db6253d2ed7835646731175cfa3e77df38fb1b304a6efd8037ff080ba
+machine_hash: 408ca1322913dd7ca41f03ba6664f3613a2c58e125fdc55ac3deddcf51aee6eb
 product: cursor
 product_name: Cursor
 record:
@@ -40,5 +40,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- context-window: [[Changes/Cursor/2023-09-10-ask-a-question-about-an-edit-that-the-model-with-option-enter-or-bring-in-contex|Ask a question about an edit that the model with option+enter, or bring in conte]]
+- context-window: [[Changes/Cursor/2023-09-10-ask-a-question-about-an-edit-that-the-model-with-option-enter-or-bring-in-contex|Ask a question about an edit that the model with option+enter, or bring in context…]]
 <!-- chronolog:end -->

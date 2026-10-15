@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8bfc695d4794d5492281c9c686c499c2d10bef1041a977fa68e833f32d50922e
+machine_hash: 433adaf6531c3ba8ba4e8d912a8db70edb0479a9286f6ebf0ddad0de92f572b5
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Added live file path autocomplete to bash mode (`!`)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.193
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

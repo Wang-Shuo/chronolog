@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ff189851884a4409d0fc2dd3036916c1e4dd3e1f64b85a5c8f95ba62501de85c
+machine_hash: 1be505cbb43d88ed63109c8361f3e4f4a611d3650f6d6842e6429c38eacf858a
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
       a single install. The Cursor Marketplace lets you discover and install plugins
       to extend Cursor with pre-built capabilities.
     source_release: https://cursor.com/changelog/2-5
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -48,7 +48,7 @@ record:
     score: 50
     theme: agent-mode
   title: Plugins package skills, subagents, MCP servers, hooks, and rules, into a
-    single
+    single install
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-06-added-plugin-name-to-skill-descriptions-and-skills-menu-for-better-discoverabili|claude-code-2026-02-06-a4375b]]'
@@ -58,10 +58,11 @@ source_release: '[[Releases/Cursor/cursor-2026-02-17-2-5-https-cursor-com-change
 source_type: cursor_changelog
 theme: apps-integrations
 title: Plugins package skills, subagents, MCP servers, hooks, and rules, into a single
+  install
 type: change
 ---
 
-# Plugins package skills, subagents, MCP servers, hooks, and rules, into a single
+# Plugins package skills, subagents, MCP servers, hooks, and rules, into a single install
 
 <!-- chronolog:begin region="description" -->
 Cursor — Plugins, Sandbox Access Controls, and Async Subagents: Plugins package skills, subagents, MCP servers, hooks, and rules, into a single install. The Cursor Marketplace lets you discover and install plugins to extend Cursor with pre-built capabilities.

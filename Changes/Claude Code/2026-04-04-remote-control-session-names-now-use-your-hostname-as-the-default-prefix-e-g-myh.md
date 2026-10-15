@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: eb26b7526ea6c84829661a6079fd045d4d42433899a46bed91ab0cd207884658
+machine_hash: a5fa8a3a92631a978a554466b0f14c1f0f0189e82798a33a1a992d9f105d4a7a
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Remote Control session names now use your hostname as the default prefix
       (e.g. `myhost-graceful-unicorn`), overridable with `--remote-control-session-name-prefix`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.92
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Remote Control session names now use your hostname as the default prefix
-    (e.g. `
+  title: Remote Control session names now use your hostname as the default prefix…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-02-added-mcp-tool-result-persistence-override-via-meta-anthropic-maxresultsizechars|claude-code-2026-04-02-ba957b]]'
@@ -46,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5|claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5]]'
 source_type: github_releases
 theme: apps-integrations
-title: 'Remote Control session names now use your hostname as the default prefix (e.g. '
+title: Remote Control session names now use your hostname as the default prefix…
 type: change
 ---
 
-# Remote Control session names now use your hostname as the default prefix (e.g. `
+# Remote Control session names now use your hostname as the default prefix…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.92: Remote Control session names now use your hostname as the default prefix (e.g. `myhost-graceful-unicorn`), overridable with `--remote-control-session-name-prefix`

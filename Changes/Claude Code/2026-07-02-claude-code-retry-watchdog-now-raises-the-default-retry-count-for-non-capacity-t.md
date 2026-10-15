@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: b532567b8bc0250f8b2f17a097baf43a3d54b402f99b46d06efe7bf4c3c6a073
+machine_hash: f5b15e828e42501ece27401c06621fdce52c7d3992352a01057dab6f92bfb278
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: '`CLAUDE_CODE_RETRY_WATCHDOG` now raises the default retry count for non-capacity
       transient errors to 300 and lifts the cap of 15 on `CLAUDE_CODE_MAX_RETRIES`'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.199
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme: reliability-performance
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: '`CLAUDE_CODE_RETRY_WATCHDOG` now raises the default retry count for non-capacity'
+  title: '`CLAUDE_CODE_RETRY_WATCHDOG` now raises the default retry count for non-capacity…'
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-06-17-your-environment-is-captured-in-a-reusable-snapshot-so-future-cloud-agents-start|cursor-2026-06-17-efeb40]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-02-v2-1-199-github-348195313-a8a76d9f|claude-code-2026-07-02-v2-1-199-github-348195313-a8a76d9f]]'
 source_type: github_releases
 theme: reliability-performance
-title: CLAUDE_CODE_RETRY_WATCHDOG now raises the default retry count for non-capacity
+title: CLAUDE_CODE_RETRY_WATCHDOG now raises the default retry count for non-capacity…
 type: change
 ---
 
-# `CLAUDE_CODE_RETRY_WATCHDOG` now raises the default retry count for non-capacity
+# `CLAUDE_CODE_RETRY_WATCHDOG` now raises the default retry count for non-capacity…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.199: `CLAUDE_CODE_RETRY_WATCHDOG` now raises the default retry count for non-capacity transient errors to 300 and lifts the cap of 15 on `CLAUDE_CODE_MAX_RETRIES`

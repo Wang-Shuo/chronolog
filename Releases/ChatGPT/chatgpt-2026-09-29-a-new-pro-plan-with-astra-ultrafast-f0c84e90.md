@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2026-09-29'
-machine_hash: 0aed9a3101afabe7c461043d88de9a4030008d8d55f9e5767a971d3b0aac77cb
+machine_hash: daf7b7f7afb5fc560eacb6d2380820800497e836eba962f1f71ad7c602666b8d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,6 +42,6 @@ Tracked cards: 2
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- pricing-model: [[Changes/ChatGPT/2026-09-29-we-re-introducing-pro-500-a-new-500-month-plan-with-the-highest-included-usage-o|We’re introducing Pro 500, a new $500/month plan with the highest included usage]]
-- pricing-model: [[Changes/ChatGPT/2026-09-29-among-pro-plans-ultrafast-is-available-only-with-pro-500-buying-credits-on-pro-1|Among Pro plans, Ultrafast is available only with Pro 500. Buying credits on Pro]]
+- pricing-model: [[Changes/ChatGPT/2026-09-29-we-re-introducing-pro-500-a-new-500-month-plan-with-the-highest-included-usage-o|ChatGPT introduces Pro 500, a new $500/month plan with the highest included usage…]]
+- pricing-model: [[Changes/ChatGPT/2026-09-29-among-pro-plans-ultrafast-is-available-only-with-pro-500-buying-credits-on-pro-1|Among Pro plans, Ultrafast is available only with Pro 500]]
 <!-- chronolog:end -->

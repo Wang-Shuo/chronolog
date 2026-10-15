@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7577bdecf9f7425902ab06391381664412c8dce10696dc11161fd0c64d05fdeb
+machine_hash: d81c522524760f49bb58b2f1f724149234d00fd9dab0d94a94b84f86359afdbc
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       mid-pattern wildcards (e.g. `Read(secrets-*/config.json)`) being rejected at
       startup
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.172
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -40,8 +40,7 @@ record:
   theme: safety-privacy
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: Fixed `WebFetch(domain:*.example.com)` wildcard domain rules never matching
-    subd
+  title: Fixed `WebFetch(domain:*.example.com)` wildcard domain rules never matching…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-06-hardened-cross-session-messaging-messages-relayed-via-sendmessage-from-other-cla|claude-code-2026-06-06-931934]]'
@@ -50,11 +49,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-10-v2-1-172-github-337412034-dc68562c|claude-code-2026-06-10-v2-1-172-github-337412034-dc68562c]]'
 source_type: github_releases
 theme: safety-privacy
-title: Fixed WebFetch(domain:.example.com) wildcard domain rules never matching subd
+title: Fixed WebFetch(domain:.example.com) wildcard domain rules never matching…
 type: change
 ---
 
-# Fixed `WebFetch(domain:*.example.com)` wildcard domain rules never matching subd
+# Fixed `WebFetch(domain:*.example.com)` wildcard domain rules never matching…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.172: Fixed `WebFetch(domain:*.example.com)` wildcard domain rules never matching subdomains in allow, deny, and ask position, and file permission rules with mid-pattern wildcards (e.g. `Read(secrets-*/config.json)`) being rejected at startup

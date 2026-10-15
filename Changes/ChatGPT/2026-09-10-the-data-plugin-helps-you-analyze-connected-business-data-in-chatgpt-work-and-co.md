@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7bb7b23dc67e9d430b7fba54fd21e513065a3e4fe0e78e7ebff950722d772684
+machine_hash: 1de3e940da1ff53331528caeb27c93e89fe071c2f278dac0924203aa2b14ffa7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -37,7 +37,7 @@ record:
       Connected sources may require setup or authorization, and queries use your connected
       account’s existing permissions. Learn more.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -60,7 +60,7 @@ record:
     theme: context-window
   theme_resolution: manual-semantic-rule-v1
   title: The Data plugin helps you analyze connected business data in ChatGPT Work
-    and Co
+    and Codex
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-03-added-a-text-form-of-advisor-advisor-advisor-model-advisor-off-for-the-desktop-a|claude-code-2026-09-03-a26521]]'
@@ -70,11 +70,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-09-10-data-plugin-in-chatgpt-wo
 source_type: chatgpt_changelog
 theme: apps-integrations
 title: The Data plugin helps you analyze connected business data in ChatGPT Work and
-  Co
+  Codex
 type: change
 ---
 
-# The Data plugin helps you analyze connected business data in ChatGPT Work and Co
+# The Data plugin helps you analyze connected business data in ChatGPT Work and Codex
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Data plugin in ChatGPT Work and Codex: The Data plugin helps you analyze connected business data in ChatGPT Work and Codex. Ask a business question, investigate changes, or create an interactive dashboard or report. You can refine the analysis with follow-up questions and bring in your team’s metric definitions and other business context.To get started, install Data from the plugin directory, then start a conversation with @Data. Connected sources may require setup or authorization, and queries use your connected account’s existing permissions. Learn more.

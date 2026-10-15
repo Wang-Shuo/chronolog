@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-07-23'
-machine_hash: f698fd04caf707f4f66e6e636a20d35335f843af6c1e312cbff21d9c3590612c
+machine_hash: 787c43d5725e0210ff509eff45ede9ea3136d91b58f12b5bfc8e154e50eda7df
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- voice: [[Changes/ChatGPT/2026-07-23-chatgpt-voice-is-now-available-in-work-and-codex-in-the-chatgpt-desktop-app-star|ChatGPT Voice is now available in Work and Codex in the ChatGPT desktop app. Sta]]
+- voice: [[Changes/ChatGPT/2026-07-23-chatgpt-voice-is-now-available-in-work-and-codex-in-the-chatgpt-desktop-app-star|ChatGPT Voice is now available in Work and Codex in the ChatGPT desktop app]]
 <!-- chronolog:end -->

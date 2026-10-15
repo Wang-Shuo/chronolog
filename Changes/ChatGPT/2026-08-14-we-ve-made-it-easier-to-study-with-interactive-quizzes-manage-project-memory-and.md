@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 45c4384fea50fa654cfc35961e93ee2bc5ed012143a9e87de5370f7b9509a7d3
+machine_hash: 62a93f5f22fd40e0d345dfd1d0574b6f07a7bbbc6e419a4dc423c94622295c73
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: We’ve made it easier to study with interactive quizzes, manage project
       memory, and move between typing, dictation, and desktop work.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -48,8 +48,8 @@ record:
     - dictation
     score: 50
     theme: voice
-  title: We’ve made it easier to study with interactive quizzes, manage project memory,
-    a
+  title: ChatGPT makes it easier to study with interactive quizzes, manage project
+    memory…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-06-12-you-can-now-delete-the-memories-shown-on-your-memory-summary-page-and-turn-memor|chatgpt-2026-06-12-40cc8b]]'
@@ -58,12 +58,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-14-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-08-14-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
 theme: memory
-title: We’ve made it easier to study with interactive quizzes, manage project memory,
-  a
+title: ChatGPT makes it easier to study with interactive quizzes, manage project memory…
 type: change
 ---
 
-# We’ve made it easier to study with interactive quizzes, manage project memory, a
+# ChatGPT makes it easier to study with interactive quizzes, manage project memory…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT app experience updates: We’ve made it easier to study with interactive quizzes, manage project memory, and move between typing, dictation, and desktop work.

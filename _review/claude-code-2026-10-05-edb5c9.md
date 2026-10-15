@@ -1,6 +1,6 @@
 ---
 draft: true
-machine_hash: f55054d46e6abb529f29309bb8680fea39887f2c90d5321361bfa756ccab7a60
+machine_hash: dd79fbd326fae9d7ac4bf30747e43d7899606ec16339f0bc0c34b606521a9bc1
 product: claude-code
 record:
   card_id: claude-code-2026-10-05-edb5c9
@@ -14,7 +14,7 @@ record:
       tool calls the API ran itself (the advisor), each with its id, name, input,
       start and end'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.290
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -25,8 +25,7 @@ record:
   theme_matches: []
   theme_review_reason: no_match
   theme_suggestion: added-servertooluses-to
-  title: 'Added `serverToolUses` to the result of a mod''s `turn.step` hook: the tool
-    calls'
+  title: Added `serverToolUses` to the result of a mod's `turn.step` hook
   type: change
 ---
 

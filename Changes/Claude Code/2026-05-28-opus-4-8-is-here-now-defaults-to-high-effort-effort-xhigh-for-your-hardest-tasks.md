@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 975092e67db962c31f3cca1d9e674935d309d530de37dcee0ac58ae2c676fbb3
+machine_hash: 4fd4fe8a586585421b86292d7868ab31ff1ae752f82090ae8c1a03adc4df6e04
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Opus 4.8 is here! Now defaults to high effort · /effort xhigh for your
       hardest tasks
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.154
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   theme: model-support
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Opus 4.8 is here! Now defaults to high effort · /effort xhigh for your hardest
-    t
+  title: Opus 4.8 is here!
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-05-28-today-we-re-continuing-to-retire-older-models-with-limited-usage-in-chatgpt-so-w|chatgpt-2026-05-28-c12534]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-28-v2-1-154-github-330944050-782cdfc9|claude-code-2026-05-28-v2-1-154-github-330944050-782cdfc9]]'
 source_type: github_releases
 theme: model-support
-title: Opus 4.8 is here! Now defaults to high effort · /effort xhigh for your hardest
-  t
+title: Opus 4.8 is here!
 type: change
 ---
 
-# Opus 4.8 is here! Now defaults to high effort · /effort xhigh for your hardest t
+# Opus 4.8 is here!
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.154: Opus 4.8 is here! Now defaults to high effort · /effort xhigh for your hardest tasks

@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 6e8db6ed09b08acc5dbf8a1c485cf5cfda3cb746dbf0b25cd4f7835beb9b9736
+machine_hash: 68e8b7f2e53f051bf49d0d35ba5cf90463dcad69a61a87fabc0b6bd16b311d3d
 product: claude-code
 product_name: Claude Code
 record:
@@ -31,7 +31,7 @@ record:
       tools (Read, Edit, Glob, Grep) instead of bash equivalents (`cat`, `sed`, `grep`,
       `find`), reducing unnecessary bash command usage
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.31
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -40,7 +40,7 @@ record:
   source_type: github_releases
   theme: model-support
   title: Improved system prompts to more clearly guide the model toward using dedicated
-    t
+    tools…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-01-22-we-re-updating-gpt-5-2-instant-s-default-personality-to-be-more-conversational-a|chatgpt-2026-01-22-e38ffc]]'
@@ -50,11 +50,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-02-04-v2-1-31-github-28
 source_type: github_releases
 theme: model-support
 title: Improved system prompts to more clearly guide the model toward using dedicated
-  t
+  tools…
 type: change
 ---
 
-# Improved system prompts to more clearly guide the model toward using dedicated t
+# Improved system prompts to more clearly guide the model toward using dedicated tools…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.31: Improved system prompts to more clearly guide the model toward using dedicated tools (Read, Edit, Glob, Grep) instead of bash equivalents (`cat`, `sed`, `grep`, `find`), reducing unnecessary bash command usage

@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: dcb8f25be9ea93f21e777ee3e565c5ce62cbe49ecac04e2a8f617d39558dbc93
+machine_hash: d4ffa53b2ef3fac4dadfb46dc87b96eb83fda611ec434526f1e9ce6821eb4778
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: '`claude agents`: PR column now shows `PR #N` for a single PR or `N PRs`
       for multiple'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.153
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,7 +35,7 @@ record:
   source_type: github_releases
   theme: agent-mode
   title: '`claude agents`: PR column now shows `PR #N` for a single PR or `N PRs`
-    for mult'
+    for multiple'
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-20-use-the-loop-skill-for-local-long-running-agents-for-example-you-can-ask-it-to-c|cursor-2026-05-20-77ca28]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-28-v2-1-153-github-330532213-2fa9c18a|claude-code-2026-05-28-v2-1-153-github-330532213-2fa9c18a]]'
 source_type: github_releases
 theme: agent-mode
-title: 'claude agents: PR column now shows PR ♯N for a single PR or N PRs for mult'
+title: 'claude agents: PR column now shows PR ♯N for a single PR or N PRs for multiple'
 type: change
 ---
 
-# `claude agents`: PR column now shows `PR #N` for a single PR or `N PRs` for mult
+# `claude agents`: PR column now shows `PR #N` for a single PR or `N PRs` for multiple
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.153: `claude agents`: PR column now shows `PR #N` for a single PR or `N PRs` for multiple

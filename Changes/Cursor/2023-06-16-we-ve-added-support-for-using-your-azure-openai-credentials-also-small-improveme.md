@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 96ee2642622661e1be920d49abcfcafad78160b71d88eec19969d82f10c3b789
+machine_hash: 35ba2a52554dcca4ca53af4453c536fc6b8c2b0dc99563ae7a1a7ee27cf5ef7f
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
   - quote: We've added support for using your Azure OpenAI credentials. Also, small
       improvements / fixes.
     source_release: https://cursor.com/changelog/0-2-33
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -38,8 +38,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: We've added support for using your Azure OpenAI credentials. Also, small
-    improve
+  title: Cursor adds support for using your Azure OpenAI credentials
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-05-12-in-the-plugins-dropdown-click-plugin-store-to-install-and-enable-new-plugins|chatgpt-2023-05-12-bc9110]]'
@@ -48,11 +47,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-06-16-0-2-33-https-cursor-com-changelog-0-2-33-7a7f3b5e|cursor-2023-06-16-0-2-33-https-cursor-com-changelog-0-2-33-7a7f3b5e]]'
 source_type: cursor_changelog
 theme: apps-integrations
-title: We've added support for using your Azure OpenAI credentials. Also, small improve
+title: Cursor adds support for using your Azure OpenAI credentials
 type: change
 ---
 
-# We've added support for using your Azure OpenAI credentials. Also, small improve
+# Cursor adds support for using your Azure OpenAI credentials
 
 <!-- chronolog:begin region="description" -->
 Cursor — Azure Support: We've added support for using your Azure OpenAI credentials. Also, small improvements / fixes.

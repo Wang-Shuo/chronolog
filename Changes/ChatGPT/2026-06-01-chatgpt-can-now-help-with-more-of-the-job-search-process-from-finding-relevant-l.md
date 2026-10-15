@@ -11,9 +11,9 @@ diffusion:
   theme: search-browsing
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: c43fb1c5adf08ff6c773b6c19cf833246eb13312016039e4a652afdfa038b579
+machine_hash: 5b87f9a8b56db825f8ea0960edad379be0022e01c79e63e19ae1f71f67f222e3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,7 +39,7 @@ record:
       also upload or create a resume in ChatGPT, tailor it to a specific role, and
       download it in a polished, professional format.Availability:'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -50,6 +50,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: ChatGPT can now help with more of the job search process, from finding relevant
+    live…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-03-24-we-ve-improved-shopping-in-chatgpt-to-make-it-easier-to-discover-compare-and-dec|chatgpt-2026-03-24-93a63f]]'
@@ -59,10 +60,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-06-01-find-live-jobs-and-format
 source_type: chatgpt_changelog
 theme: search-browsing
 title: ChatGPT can now help with more of the job search process, from finding relevant
+  live…
 type: change
 ---
 
-# ChatGPT can now help with more of the job search process, from finding relevant
+# ChatGPT can now help with more of the job search process, from finding relevant live…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Find live jobs and format your resume in ChatGPT: ChatGPT can now help with more of the job search process, from finding relevant live roles to tailoring a resume for a specific opportunity. When you search for jobs, ChatGPT can surface live listings and freelance opportunities from sources like Indeed, Upwork, Appcast, and across the web. Results are personalized using your experience, skills, and goals to highlight roles that may be a strong fit. You can follow links to apply directly on the source sites.You can now also upload or create a resume in ChatGPT, tailor it to a specific role, and download it in a polished, professional format.Availability:

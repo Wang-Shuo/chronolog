@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: b145c633dfa2f8e92bd7031f967725d2b8ad275020c5eb745c929a4123bfa271
+machine_hash: dceeecf2ff2d49fc1cd4dceeed964329769a581d91d943d34927c76ccd2ad439
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       On mobile, open Settings, then select Privacy Center on iOS or Privacy center
       on Android. Available options depend on your plan, region, and workspace settings.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -53,8 +53,7 @@ record:
     score: 50
     theme: safety-privacy
   theme_resolution: manual-semantic-rule-v2
-  title: On the web, open your account menu, select Help, then select Privacy Center.
-    On
+  title: On the web, open your account menu, select Help, then select Privacy Center
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-15-fixed-read-on-macos-refusing-a-dragged-in-screenshot-or-any-file-the-system-repo|claude-code-2026-09-15-052f40]]'
@@ -63,12 +62,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-21-privacy-center-in-chatgpt-ecef9fba|chatgpt-2026-09-21-privacy-center-in-chatgpt-ecef9fba]]'
 source_type: chatgpt_changelog
 theme: safety-privacy
-title: On the web, open your account menu, select Help, then select Privacy Center.
-  On
+title: On the web, open your account menu, select Help, then select Privacy Center
 type: change
 ---
 
-# On the web, open your account menu, select Help, then select Privacy Center. On
+# On the web, open your account menu, select Help, then select Privacy Center
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Privacy Center in ChatGPT: On the web, open your account menu, select Help, then select Privacy Center. On mobile, open Settings, then select Privacy Center on iOS or Privacy center on Android. Available options depend on your plan, region, and workspace settings.

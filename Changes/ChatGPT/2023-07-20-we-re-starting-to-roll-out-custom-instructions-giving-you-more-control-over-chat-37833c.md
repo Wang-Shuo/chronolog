@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 97bf5196e918231e53cd33835f846206cfad0f0f582664e8cd8e49d4814dcc27
+machine_hash: dc351fc6c38d0c72270e393c2268a9851a8b921b944331e90cb0606a3c439960
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
       instructions are available to all Plus users and expanding to all users in the
       coming weeks.To enable beta features:'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -41,18 +41,16 @@ record:
   source_release: chatgpt-2023-07-20-custom-instructions-are-rolling-out-in-beta-bf9360b9
   source_type: chatgpt_changelog
   theme: memory
-  title: We’re starting to roll out custom instructions, giving you more control over
-    Cha
+  title: We’re starting to roll out custom instructions, giving you more control over…
   type: change
 source_release: '[[Releases/ChatGPT/chatgpt-2023-07-20-custom-instructions-are-rolling-out-in-beta-bf9360b9|chatgpt-2023-07-20-custom-instructions-are-rolling-out-in-beta-bf9360b9]]'
 source_type: chatgpt_changelog
 theme: memory
-title: We’re starting to roll out custom instructions, giving you more control over
-  Cha
+title: We’re starting to roll out custom instructions, giving you more control over…
 type: change
 ---
 
-# We’re starting to roll out custom instructions, giving you more control over Cha
+# We’re starting to roll out custom instructions, giving you more control over…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Custom instructions are rolling out in beta: We’re starting to roll out custom instructions, giving you more control over ChatGPT’s responses. Set your preferences once, and they’ll steer future conversations. You can read more about custom instructions in the blogpost here.Custom instructions are available to all Plus users and expanding to all users in the coming weeks.To enable beta features:

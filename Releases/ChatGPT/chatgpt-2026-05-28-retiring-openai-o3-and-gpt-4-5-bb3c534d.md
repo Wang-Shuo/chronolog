@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-05-28'
-machine_hash: 9e44da44a0355bbd6d27584f6ff6a1ee40a7d6f3c6e29a7e4099837beba75e75
+machine_hash: e88504dbb101e9a8f42cecba281829f4fc44b843760b622a74d5b734622ebb3a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2026-05-28-today-we-re-continuing-to-retire-older-models-with-limited-usage-in-chatgpt-so-w|Today, we’re continuing to retire older models with limited usage in ChatGPT so]]
+- model-support: [[Changes/ChatGPT/2026-05-28-today-we-re-continuing-to-retire-older-models-with-limited-usage-in-chatgpt-so-w|Today, we’re continuing to retire older models with limited usage in ChatGPT so we…]]
 <!-- chronolog:end -->

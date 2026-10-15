@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 817fcba0bc1764c9c78d0ba167cd29147c56f8cdde7e720a7ecb5908fad2c3ca
+machine_hash: eb3a7fda8001a2e2a37d5b0ab8fab87a8a172c9716a245f7c45be8ae1f1f024c
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
       to Cursor without leaving your issue. We've written a longer blog post with
       more details.
     source_release: https://cursor.com/changelog/1-5
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -36,8 +36,7 @@ record:
   source_release: cursor-2025-08-21-1-5-https-cursor-com-changelog-1-5-f93efb89
   source_type: cursor_changelog
   theme: agent-mode
-  title: You can now start Background Agents directly from Linear. Delegate tasks
-    to Curs
+  title: Start Background Agents directly from Linear
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-07-03-the-agent-breaks-down-longer-tasks-with-dependencies-visible-to-you-in-chat-and|cursor-2025-07-03-bac341]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-08-21-1-5-https-cursor-com-changelog-1-5-f93efb89|cursor-2025-08-21-1-5-https-cursor-com-changelog-1-5-f93efb89]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: You can now start Background Agents directly from Linear. Delegate tasks to
-  Curs
+title: Start Background Agents directly from Linear
 type: change
 ---
 
-# You can now start Background Agents directly from Linear. Delegate tasks to Curs
+# Start Background Agents directly from Linear
 
 <!-- chronolog:begin region="description" -->
 Cursor — Linear integration, improved Agent terminal, and OS notifications: You can now start Background Agents directly from Linear. Delegate tasks to Cursor without leaving your issue. We've written a longer blog post with more details.

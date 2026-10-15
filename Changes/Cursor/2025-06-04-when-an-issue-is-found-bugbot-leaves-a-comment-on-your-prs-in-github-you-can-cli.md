@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: c911a7bd4582af4d3519f5d8776dffa9db0eca2ecbcf96c20e18996a6c1fa09e
+machine_hash: 2b554512d8fc71eea0957a10f0ef41ddbbea22e6cba0e30dfc542a964a788e80
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
       You can click "Fix in Cursor" to move back to the editor with a pre-filled prompt
       to fix the issue.
     source_release: https://cursor.com/changelog/1-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,8 +37,7 @@ record:
   source_release: cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca
   source_type: cursor_changelog
   theme: editor-experience
-  title: When an issue is found, Bugbot leaves a comment on your PRs in GitHub. You
-    can c
+  title: When an issue is found, Bugbot leaves a comment on your PRs in GitHub
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-10-09-python-auto-import-for-cursor-tab-is-much-more-stable-in-this-release|cursor-2024-10-09-91d3e4]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca|cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: When an issue is found, Bugbot leaves a comment on your PRs in GitHub. You
-  can c
+title: When an issue is found, Bugbot leaves a comment on your PRs in GitHub
 type: change
 ---
 
-# When an issue is found, Bugbot leaves a comment on your PRs in GitHub. You can c
+# When an issue is found, Bugbot leaves a comment on your PRs in GitHub
 
 <!-- chronolog:begin region="description" -->
 Cursor — Bugbot, Background Agent access to everyone, and one-click MCP install: When an issue is found, Bugbot leaves a comment on your PRs in GitHub. You can click "Fix in Cursor" to move back to the editor with a pre-filled prompt to fix the issue.

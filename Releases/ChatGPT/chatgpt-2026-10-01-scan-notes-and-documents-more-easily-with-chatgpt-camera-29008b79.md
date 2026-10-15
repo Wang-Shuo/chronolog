@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-10-01'
-machine_hash: 764bbae5719555e7372c67c53f3a3414320819df2b4896dc566e75228468fe1a
+machine_hash: 109d35ad6b9d589c400563f29f17499795c35bf5d95ca15425e958009f44603b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,5 +40,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- file-data: [[Changes/ChatGPT/2026-10-01-it-s-now-easier-to-bring-your-notes-and-documents-into-chatgpt-on-your-phone-cap|It’s now easier to bring your notes and documents into ChatGPT on your phone. Ca]]
+- file-data: [[Changes/ChatGPT/2026-10-01-it-s-now-easier-to-bring-your-notes-and-documents-into-chatgpt-on-your-phone-cap|It’s now easier to bring your notes and documents into ChatGPT on your phone]]
 <!-- chronolog:end -->

@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: b0a583b457d02b29e635e7744c196f1be4b0a25c9a22e7ca2fd11608415d7c6f
+machine_hash: 43cdb48dfb3ad53f549c48ddedf4fe696bd3a64e727de5da1d2b020b1b2f244f
 product: cursor
 product_name: Cursor
 record:
@@ -33,7 +33,7 @@ record:
       pseudocode and have the AI correct it, or for tedious refactors where Copilot++
       doesn't quite suffice.
     source_release: https://cursor.com/changelog/0-21-5-nightly
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -43,8 +43,7 @@ record:
   theme: editor-experience
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Hold down command, press and release shift, and continue holding down command.
-    T
+  title: Hold down command, press and release shift, and continue holding down command
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-12-16-update-0-20-1-0-20-2-we-added-tldrs-to-make-it-easier-to-sort-through-the-bugs-f|cursor-2023-12-16-0f03d7]]'
@@ -53,12 +52,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-01-03-0-21-5-nightly-https-cursor-com-changelog-0-21-5-nightly-3b0a9ab7|cursor-2024-01-03-0-21-5-nightly-https-cursor-com-changelog-0-21-5-nightly-3b0a9ab7]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: Hold down command, press and release shift, and continue holding down command.
-  T
+title: Hold down command, press and release shift, and continue holding down command
 type: change
 ---
 
-# Hold down command, press and release shift, and continue holding down command. T
+# Hold down command, press and release shift, and continue holding down command
 
 <!-- chronolog:begin region="description" -->
 Cursor — Early Preview: Hold-cmd-tap-shift to Trigger AI Rewrite: Hold down command, press and release shift, and continue holding down command. This will trigger the AI to rewrite code around your Cursor — you can think of it as a manually triggered GPT-4-powered Copilot++. You can use it to write pseudocode and have the AI correct it, or for tedious refactors where Copilot++ doesn't quite suffice.

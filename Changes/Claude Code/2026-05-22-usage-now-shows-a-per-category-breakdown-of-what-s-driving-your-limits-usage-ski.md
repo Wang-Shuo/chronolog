@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3fb204d241bc894b8988369b484abdf4568bcbbdba48583f55b87487eef88770
+machine_hash: 1e4b0c4bd0a90423f4fa4a50d0300cd8a3364878a2197fb8f5e3adc00a6de1b4
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: '`/usage` now shows a per-category breakdown of what''s driving your limits
       usage — skills, subagents, plugins, and per-MCP-server cost'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.149
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

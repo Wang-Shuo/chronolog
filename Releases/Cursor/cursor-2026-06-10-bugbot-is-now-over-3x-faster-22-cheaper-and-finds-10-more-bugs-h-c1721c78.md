@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2026-06-10'
-machine_hash: 78977a1864fae044e14e4d5f056b8368d8e24314a8fbc020e5ea362f8f76f9f3
+machine_hash: 12198d59ee6a044bd5b17f29c289582ce57d26f3867e013e7be6c9a2f77d5a81
 product: cursor
 product_name: Cursor
 record:
@@ -40,9 +40,9 @@ Tracked cards: 5
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- reliability-performance: [[Changes/Cursor/2026-06-10-these-performance-gains-are-made-possible-by-progress-we-ve-made-training-compos|These performance gains are made possible by progress we've made training Compos]]
-- agent-mode: [[Changes/Cursor/2026-06-10-available-in-cursor-3-7-and-on-cursor-com-agents-with-support-in-cli-coming-soon|Available in Cursor 3.7+ and on cursor.com/agents, with support in CLI coming so]]
-- reliability-performance: [[Changes/Cursor/2026-06-10-the-average-review-time-for-bugbot-is-now-90-seconds-down-from-5-minutes-bugbot|The average review time for Bugbot is now ~90 seconds, down from ~5 minutes. Bug]]
-- safety-privacy: [[Changes/Cursor/2026-06-10-you-can-now-run-bugbot-and-security-review-with-review-before-pushing-code-revie|You can now run Bugbot and Security Review with /review before pushing code. /re]]
-- editor-experience: [[Changes/Cursor/2026-06-10-review-also-syncs-with-bugbot-on-github-and-gitlab-if-you-run-review-and-then-op|/review also syncs with Bugbot on GitHub and GitLab. If you run /review and then]]
+- reliability-performance: [[Changes/Cursor/2026-06-10-these-performance-gains-are-made-possible-by-progress-we-ve-made-training-compos|These performance gains are made possible by progress we've made training Composer…]]
+- agent-mode: [[Changes/Cursor/2026-06-10-available-in-cursor-3-7-and-on-cursor-com-agents-with-support-in-cli-coming-soon|Available in Cursor 3.7+ and on cursor.com/agents, with support in CLI coming soon]]
+- reliability-performance: [[Changes/Cursor/2026-06-10-the-average-review-time-for-bugbot-is-now-90-seconds-down-from-5-minutes-bugbot|The average review time for Bugbot is now ~90 seconds, down from ~5 minutes]]
+- safety-privacy: [[Changes/Cursor/2026-06-10-you-can-now-run-bugbot-and-security-review-with-review-before-pushing-code-revie|Run Bugbot and Security Review with /review before pushing code]]
+- editor-experience: [[Changes/Cursor/2026-06-10-review-also-syncs-with-bugbot-on-github-and-gitlab-if-you-run-review-and-then-op|/review also syncs with Bugbot on GitHub and GitLab]]
 <!-- chronolog:end -->

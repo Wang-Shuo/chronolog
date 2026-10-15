@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6c6d6156a594b9d7c5e3207c7ae3ea7ae9193d2f79e4c09b3cc27a54c3eef6b2
+machine_hash: f6d5985b69d501622d62aefa460cd01ab1c5ea8064058c626edc818187fb3114
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       Code with all customizations (CLAUDE.md, plugins, skills, hooks, MCP servers)
       disabled for troubleshooting
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.169
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -39,7 +39,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: Added `--safe-mode` flag (and `CLAUDE_CODE_SAFE_MODE`) to start Claude Code
-    with
+    with all…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-06-04-lockdown-mode-is-now-available-to-all-logged-in-users-across-account-types-and-w|chatgpt-2026-06-04-88660d]]'
@@ -49,10 +49,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-06-08-v2-1-169-github-3
 source_type: github_releases
 theme: safety-privacy
 title: Added --safe-mode flag (and CLAUDE_CODE_SAFE_MODE) to start Claude Code with
+  all…
 type: change
 ---
 
-# Added `--safe-mode` flag (and `CLAUDE_CODE_SAFE_MODE`) to start Claude Code with
+# Added `--safe-mode` flag (and `CLAUDE_CODE_SAFE_MODE`) to start Claude Code with all…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.169: Added `--safe-mode` flag (and `CLAUDE_CODE_SAFE_MODE`) to start Claude Code with all customizations (CLAUDE.md, plugins, skills, hooks, MCP servers) disabled for troubleshooting

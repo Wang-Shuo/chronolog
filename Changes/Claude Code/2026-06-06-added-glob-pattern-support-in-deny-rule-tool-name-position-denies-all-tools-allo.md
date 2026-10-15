@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 28fcef0007a7ee5395d61fd7428204c5d8dcddf3b943e9082cafb8d2a452febf
+machine_hash: c0cc9223c94349cde6ec42d0af9b380b098d28879271a59ef29aaad50d3d758a
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       all tools); allow rules reject non-MCP globs, and unknown tool names in deny
       rules warn at startup
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.166
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -39,7 +39,7 @@ record:
   source_type: github_releases
   theme: apps-integrations
   title: Added glob pattern support in deny rule tool-name position (`"*"` denies
-    all too
+    all tools)
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-04-hooks-stop-and-subagentstop-hooks-can-now-return-hookspecificoutput-additionalco|claude-code-2026-06-04-d9a4ce]]'
@@ -48,11 +48,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-06-v2-1-166-github-335118845-ef990727|claude-code-2026-06-06-v2-1-166-github-335118845-ef990727]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added glob pattern support in deny rule tool-name position ("" denies all too
+title: Added glob pattern support in deny rule tool-name position ("" denies all tools)
 type: change
 ---
 
-# Added glob pattern support in deny rule tool-name position (`"*"` denies all too
+# Added glob pattern support in deny rule tool-name position (`"*"` denies all tools)
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.166: Added glob pattern support in deny rule tool-name position (`"*"` denies all tools); allow rules reject non-MCP globs, and unknown tool names in deny rules warn at startup

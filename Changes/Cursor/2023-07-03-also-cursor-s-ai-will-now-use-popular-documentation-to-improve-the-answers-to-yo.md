@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e16ceb9f0b812085b8cde55c35c6be267cc82116f2550aa16d856982e1645be6
+machine_hash: b8c5f0f56605e32a3c71869e781c805b51e800ac9004e5e3cf508fb510942fb3
 product: cursor
 product_name: Cursor
 record:
@@ -32,7 +32,7 @@ record:
       own documentation or explicitly reference existing docs, type '@library_name'
       in chat.
     source_release: https://cursor.com/changelog/0-2-39
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -42,8 +42,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Also, Cursor's AI will now use popular documentation to improve the answers
-    to y
+  title: Also, Cursor's AI will now use popular documentation to improve the answers…
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-06-16-we-ve-added-support-for-using-your-azure-openai-credentials-also-small-improveme|cursor-2023-06-16-9e6a55]]'
@@ -52,12 +51,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-07-03-0-2-39-https-cursor-com-changelog-0-2-39-cbfe6a5f|cursor-2023-07-03-0-2-39-https-cursor-com-changelog-0-2-39-cbfe6a5f]]'
 source_type: cursor_changelog
 theme: apps-integrations
-title: Also, Cursor's AI will now use popular documentation to improve the answers
-  to y
+title: Also, Cursor's AI will now use popular documentation to improve the answers…
 type: change
 ---
 
-# Also, Cursor's AI will now use popular documentation to improve the answers to y
+# Also, Cursor's AI will now use popular documentation to improve the answers…
 
 <!-- chronolog:begin region="description" -->
 Cursor — New inline edits: Also, Cursor's AI will now use popular documentation to improve the answers to your questions. For example, if you ask it "how do I grab all s3 buckets with boto3?" it will search over the boto3 docs to find the answer. To add your own documentation or explicitly reference existing docs, type '@library_name' in chat.

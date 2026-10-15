@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 030764dc4e1fba363141bfb705b3f415439c4c30b14d9f028c94aaa4fa1bd15f
+machine_hash: 5e35454aab308908fd44e1ddb6d0eac9eaff80134dce152cd6291147f7624466
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Type what you want changed into the text box at the bottom of the memory
       summary, and it will update accordingly.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -36,7 +36,7 @@ record:
   source_type: chatgpt_changelog
   theme: memory
   title: Type what you want changed into the text box at the bottom of the memory
-    summary
+    summary…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-06-04-we-ve-upgraded-memory-so-chatgpt-can-better-keep-your-context-up-to-date-helping-9a48f3|chatgpt-2026-06-04-9a48f3]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-12-additional-controls-for-memory-summary-37c89b72|chatgpt-2026-06-12-additional-controls-for-memory-summary-37c89b72]]'
 source_type: chatgpt_changelog
 theme: memory
-title: Type what you want changed into the text box at the bottom of the memory summary
+title: Type what you want changed into the text box at the bottom of the memory summary…
 type: change
 ---
 
-# Type what you want changed into the text box at the bottom of the memory summary
+# Type what you want changed into the text box at the bottom of the memory summary…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Additional controls for memory summary: Type what you want changed into the text box at the bottom of the memory summary, and it will update accordingly.

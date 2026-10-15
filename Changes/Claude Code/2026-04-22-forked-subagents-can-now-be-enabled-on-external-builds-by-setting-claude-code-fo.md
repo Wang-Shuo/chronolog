@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 53889ebb368dc765d5e912da1eca99bc68324ac147789f3649c8994bdea88339
+machine_hash: 723768e10d591d2dc34db25626c3140f63e051fd0706022e049f61235aa8b01e
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Forked subagents can now be enabled on external builds by setting `CLAUDE_CODE_FORK_SUBAGENT=1`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.117
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -33,7 +33,7 @@ record:
   source_release: claude-code-2026-04-22-v2-1-117-github-311984967-1d917373
   source_type: github_releases
   theme: agent-mode
-  title: Forked subagents can now be enabled on external builds by setting `CLAUDE_CODE_F
+  title: Forked subagents can now be enabled on external builds by setting…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-04-13-split-your-current-view-into-panes-to-run-and-manage-several-agents-in-parallel|cursor-2026-04-13-c48384]]'
@@ -42,11 +42,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-22-v2-1-117-github-311984967-1d917373|claude-code-2026-04-22-v2-1-117-github-311984967-1d917373]]'
 source_type: github_releases
 theme: agent-mode
-title: Forked subagents can now be enabled on external builds by setting CLAUDE_CODE_F
+title: Forked subagents can now be enabled on external builds by setting…
 type: change
 ---
 
-# Forked subagents can now be enabled on external builds by setting `CLAUDE_CODE_F
+# Forked subagents can now be enabled on external builds by setting…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.117: Forked subagents can now be enabled on external builds by setting `CLAUDE_CODE_FORK_SUBAGENT=1`

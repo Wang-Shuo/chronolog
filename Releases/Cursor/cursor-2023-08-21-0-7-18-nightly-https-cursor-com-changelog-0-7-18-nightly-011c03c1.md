@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2023-08-21'
-machine_hash: 4779e610cc2571a367f2b062d7070a84f0ec4e828836c942d5101c257ba84a41
+machine_hash: 896f9f35838398b7b74590fdb53944ba2827a08424a45b6a030af0443315c8f1
 product: cursor
 product_name: Cursor
 record:
@@ -38,6 +38,6 @@ Tracked cards: 2
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- interface-experience: [[Changes/Cursor/2023-08-21-activity-bar-elements-can-now-be-reordered-with-drag-and-drop|Activity bar elements can now be reordered with drag-and-drop.]]
-- interface-experience: [[Changes/Cursor/2023-08-21-nicer-error-messages-in-the-chat-fewer-annoying-popups|Nicer error messages in the chat! Fewer annoying popups.]]
+- interface-experience: [[Changes/Cursor/2023-08-21-activity-bar-elements-can-now-be-reordered-with-drag-and-drop|Activity bar elements can now be reordered with drag-and-drop]]
+- interface-experience: [[Changes/Cursor/2023-08-21-nicer-error-messages-in-the-chat-fewer-annoying-popups|Nicer error messages in the chat!]]
 <!-- chronolog:end -->

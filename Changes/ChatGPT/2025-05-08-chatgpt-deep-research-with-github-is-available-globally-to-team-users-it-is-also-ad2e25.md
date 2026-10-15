@@ -11,9 +11,9 @@ diffusion:
   theme: search-browsing
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 16a414dc9d7948d3dd43296050c03ffa682038e905901565875c9897f3c725de
+machine_hash: 9aba3afd07552710740c7baf73115d6a61d0b217e77605965eb4a442396cf79c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       the EEA, Switzerland, and the UK. Enterprise user access will be announced at
       a later date.See: Connecting GitHub to ChatGPT deep research.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -53,8 +53,7 @@ record:
     score: 50
     theme: enterprise-admin
   theme_resolution: manual-semantic-rule-v1
-  title: ChatGPT deep research with GitHub is available globally to Team users. It
-    is als
+  title: ChatGPT deep research with GitHub is available globally to Team users
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-09-27-browsing-is-rolling-out-to-all-plus-users-chatgpt-can-now-browse-the-internet-to-335b58|chatgpt-2023-09-27-335b58]]'
@@ -63,12 +62,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-08-github-connector-for-deep-research-for-plus-pro-team-498e1135|chatgpt-2025-05-08-github-connector-for-deep-research-for-plus-pro-team-498e1135]]'
 source_type: chatgpt_changelog
 theme: search-browsing
-title: ChatGPT deep research with GitHub is available globally to Team users. It is
-  als
+title: ChatGPT deep research with GitHub is available globally to Team users
 type: change
 ---
 
-# ChatGPT deep research with GitHub is available globally to Team users. It is als
+# ChatGPT deep research with GitHub is available globally to Team users
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — GitHub connector for deep research for Plus/Pro/Team: ChatGPT deep research with GitHub is available globally to Team users. It is also gradually rolling out to Plus and Pro users, except for those in the EEA, Switzerland, and the UK. Enterprise user access will be announced at a later date.See: Connecting GitHub to ChatGPT deep research.

@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 8d1d74ea7d7203e50d84be708bbe42fed076b4537339e5929d659ac10e227d92
+machine_hash: 1808539c7a98f98e85b83ce73d6bd2127b7a2af1f832f1f11268d583c59dd415
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
   - quote: 'New to both iPhone and iPad: an inbox to stay organized, and a review
       experience that covers the full PR. Create, review, and merge from anywhere.'
     source_release: https://cursor.com/changelog/ipad
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -37,7 +37,7 @@ record:
   source_release: cursor-2026-07-29-cursor-now-on-ipad-https-cursor-com-changelog-ipad-d2eeee4c
   source_type: cursor_changelog
   theme: mobile-desktop
-  title: 'New to both iPhone and iPad: an inbox to stay organized, and a review experience'
+  title: New to both iPhone and iPad
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-07-29-the-ipad-layout-is-rebuilt-around-the-extra-space-sidebar-chats-stay-pinned-so-y|cursor-2026-07-29-25b8c4]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-07-29-cursor-now-on-ipad-https-cursor-com-changelog-ipad-d2eeee4c|cursor-2026-07-29-cursor-now-on-ipad-https-cursor-com-changelog-ipad-d2eeee4c]]'
 source_type: cursor_changelog
 theme: mobile-desktop
-title: 'New to both iPhone and iPad: an inbox to stay organized, and a review experience'
+title: New to both iPhone and iPad
 type: change
 ---
 
-# New to both iPhone and iPad: an inbox to stay organized, and a review experience
+# New to both iPhone and iPad
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cursor, now on iPad: New to both iPhone and iPad: an inbox to stay organized, and a review experience that covers the full PR. Create, review, and merge from anywhere.

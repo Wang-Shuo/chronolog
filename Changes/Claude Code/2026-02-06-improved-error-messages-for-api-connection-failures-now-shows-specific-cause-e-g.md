@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f9041fd8d0f845efbc87ee573951491a03ba95bb52360a767b9a8b55e619651b
+machine_hash: 17e113a0299651ef8cdc744050deca9d1164ca95621841975a2b200fbbe411cd
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Improved error messages for API connection failures — now shows specific
       cause (e.g., ECONNREFUSED, SSL errors) instead of generic "Connection error"
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.33
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,8 +37,7 @@ record:
   theme: interface-experience
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Improved error messages for API connection failures — now shows specific
-    cause (
+  title: Improved error messages for API connection failures
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-29-added-customizable-spinner-verbs-setting-spinnerverbs|claude-code-2026-01-29-9071b9]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-02-06-v2-1-33-github-283581096-0f5b01a0|claude-code-2026-02-06-v2-1-33-github-283581096-0f5b01a0]]'
 source_type: github_releases
 theme: interface-experience
-title: Improved error messages for API connection failures — now shows specific cause
-  (
+title: Improved error messages for API connection failures
 type: change
 ---
 
-# Improved error messages for API connection failures — now shows specific cause (
+# Improved error messages for API connection failures
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.33: Improved error messages for API connection failures — now shows specific cause (e.g., ECONNREFUSED, SSL errors) instead of generic "Connection error"

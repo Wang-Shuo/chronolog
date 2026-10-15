@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 180ef7d5166d80dbacc3e2574d78cbfde6263f29545c8f5ddea4623e049cd8e2
+machine_hash: 7454f328ee9ec5c2542399c8b28353d1f98bcfb7d88cac7b18afcf1e265dac65
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Upload the latest file versions directly from Google Drive, Microsoft OneDrive
       Personal, and Microsoft OneDrive including SharePoint
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -37,8 +37,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Upload the latest file versions directly from Google Drive, Microsoft OneDrive
-    P
+  title: Upload the latest file versions directly from Google Drive, Microsoft OneDrive…
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-12-16-copilot-we-ve-continued-to-improve-the-copilot-ghost-text-experience-surprisingl|cursor-2023-12-16-75e90f]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2024-05-16-improvements-to-data-analysis-in-chatgpt-a2e63572|chatgpt-2024-05-16-improvements-to-data-analysis-in-chatgpt-a2e63572]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
-title: Upload the latest file versions directly from Google Drive, Microsoft OneDrive
-  P
+title: Upload the latest file versions directly from Google Drive, Microsoft OneDrive…
 type: change
 ---
 
-# Upload the latest file versions directly from Google Drive, Microsoft OneDrive P
+# Upload the latest file versions directly from Google Drive, Microsoft OneDrive…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Improvements to data analysis in ChatGPT: Upload the latest file versions directly from Google Drive, Microsoft OneDrive Personal, and Microsoft OneDrive including SharePoint

@@ -11,9 +11,9 @@ diffusion:
   theme: enterprise-admin
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ee2d960f2da0fdd7e739346e34463e016386c820750177b1d555f971ab0d626b
+machine_hash: a02a0969347b3b68dd2ccf7f2494ef9b584c4588bcbcdd87a222749b694c684f
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       — Claude Code refuses to start if its version is outside the allowed range and
       directs the user to an approved version
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.163
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -39,7 +39,6 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: Added `requiredMinimumVersion` and `requiredMaximumVersion` managed settings
-    — C
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-13-added-anthropic-workspace-id-environment-variable-for-workload-identity-federati|claude-code-2026-05-13-fdd0e0]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988|claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988]]'
 source_type: github_releases
 theme: enterprise-admin
-title: Added requiredMinimumVersion and requiredMaximumVersion managed settings —
-  C
+title: Added requiredMinimumVersion and requiredMaximumVersion managed settings
 type: change
 ---
 
-# Added `requiredMinimumVersion` and `requiredMaximumVersion` managed settings — C
+# Added `requiredMinimumVersion` and `requiredMaximumVersion` managed settings
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.163: Added `requiredMinimumVersion` and `requiredMaximumVersion` managed settings — Claude Code refuses to start if its version is outside the allowed range and directs the user to an approved version

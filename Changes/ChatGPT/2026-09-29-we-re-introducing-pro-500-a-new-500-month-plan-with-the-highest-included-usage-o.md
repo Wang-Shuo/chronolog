@@ -11,9 +11,9 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 080c7964980474f72585f514a37d5086301aacee9f37a70a85f7dca3883a0fdb
+machine_hash: 7da0130e29a59ecd0755a307b721e22fe55ea060a509f1f687c4b9e436601035
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,7 +34,7 @@ record:
       Astra. It uses your included allowance first, then your credit balance after
       that allowance is used.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -56,8 +56,8 @@ record:
     score: 50
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v2
-  title: We’re introducing Pro 500, a new $500/month plan with the highest included
-    usage
+  title: ChatGPT introduces Pro 500, a new $500/month plan with the highest included
+    usage…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-28-added-dollar-amounts-to-the-claude-apps-gateway-spend-limit-in-usage-and-the-sta|claude-code-2026-09-28-ce7703]]'
@@ -66,12 +66,12 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-a-new-pro-plan-with-astra-ultrafast-f0c84e90|chatgpt-2026-09-29-a-new-pro-plan-with-astra-ultrafast-f0c84e90]]'
 source_type: chatgpt_changelog
 theme: pricing-model
-title: We’re introducing Pro 500, a new $500/month plan with the highest included
-  usage
+title: ChatGPT introduces Pro 500, a new $500/month plan with the highest included
+  usage…
 type: change
 ---
 
-# We’re introducing Pro 500, a new $500/month plan with the highest included usage
+# ChatGPT introduces Pro 500, a new $500/month plan with the highest included usage…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — A new Pro plan with Astra Ultrafast: We’re introducing Pro 500, a new $500/month plan with the highest included usage of the Pro plans and access to Astra Ultrafast in ChatGPT Work and Codex. Select Ultrafast in the model picker to use a faster service tier for GPT-6 Astra. It uses your included allowance first, then your credit balance after that allowance is used.

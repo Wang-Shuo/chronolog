@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2026-06-08'
-machine_hash: ffa2bd8c4bc93e89f9ba41f2af6e80ae7c06c21f662dd5990db56e5d3316c05e
+machine_hash: cd8d54f1b07c32b565d42d0669d10edd8550a38a7045b498599efbdc137708ea
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,9 +40,9 @@ Tracked cards: 5
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- enterprise-admin: [[Changes/ChatGPT/2026-06-08-send-an-email-directly-from-within-a-chat-if-you-ve-connected-gmail-or-outlook-y|Send an email directly from within a chat: If you’ve connected Gmail or Outlook,]]
-- interface-experience: [[Changes/ChatGPT/2026-06-08-improvement-to-charts-table-of-contents-and-full-screen-writing-also-fixes-long|Improvement to charts, table of contents and full screen writing. Also fixes lon]]
-- file-data: [[Changes/ChatGPT/2026-06-08-interactive-charts-in-answers-chatgpt-can-now-turn-some-answers-into-rich-and-in|Interactive charts in answers: ChatGPT can now turn some answers into rich and i]]
-- interface-experience: [[Changes/ChatGPT/2026-06-08-table-of-contents-in-longer-conversations-conversations-longer-than-five-respons|Table of contents in longer conversations: Conversations longer than five respon]]
-- file-data: [[Changes/ChatGPT/2026-06-08-full-screen-writing-blocks-for-longer-form-work-writing-blocks-now-cover-long-fo|Full-screen writing blocks for longer-form work: Writing blocks now cover long-f]]
+- enterprise-admin: [[Changes/ChatGPT/2026-06-08-send-an-email-directly-from-within-a-chat-if-you-ve-connected-gmail-or-outlook-y|Send an email directly from within a chat]]
+- interface-experience: [[Changes/ChatGPT/2026-06-08-improvement-to-charts-table-of-contents-and-full-screen-writing-also-fixes-long|Improvement to charts, table of contents and full screen writing]]
+- file-data: [[Changes/ChatGPT/2026-06-08-interactive-charts-in-answers-chatgpt-can-now-turn-some-answers-into-rich-and-in|Interactive charts in answers]]
+- interface-experience: [[Changes/ChatGPT/2026-06-08-table-of-contents-in-longer-conversations-conversations-longer-than-five-respons|Table of contents in longer conversations]]
+- file-data: [[Changes/ChatGPT/2026-06-08-full-screen-writing-blocks-for-longer-form-work-writing-blocks-now-cover-long-fo|Full-screen writing blocks for longer-form work]]
 <!-- chronolog:end -->

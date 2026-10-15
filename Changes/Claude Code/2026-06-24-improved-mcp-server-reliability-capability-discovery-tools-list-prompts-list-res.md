@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e4271a4477f6086e3290fa364c559765d2e901e309f7264e6f9ac96b77377a4a
+machine_hash: 59845061fb8d62e174ac23992ec2db389a33f83ecb8c15130e0957bf582c1848
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: 'Improved MCP server reliability: capability discovery (`tools/list`, `prompts/list`,
       `resources/list`) now retries transient network errors with short backoff'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.191
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,7 +35,7 @@ record:
   source_release: claude-code-2026-06-24-v2-1-191-github-344307226-67cdfb27
   source_type: github_releases
   theme: apps-integrations
-  title: 'Improved MCP server reliability: capability discovery (`tools/list`, `prompts/li'
+  title: Improved MCP server reliability
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-06-22-plugins-skills-and-mcps-let-you-customize-cursor-for-your-workflows-the-new-cust|cursor-2026-06-22-f6fbff]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-24-v2-1-191-github-344307226-67cdfb27|claude-code-2026-06-24-v2-1-191-github-344307226-67cdfb27]]'
 source_type: github_releases
 theme: apps-integrations
-title: 'Improved MCP server reliability: capability discovery (tools/list, prompts/li'
+title: Improved MCP server reliability
 type: change
 ---
 
-# Improved MCP server reliability: capability discovery (`tools/list`, `prompts/li
+# Improved MCP server reliability
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.191: Improved MCP server reliability: capability discovery (`tools/list`, `prompts/list`, `resources/list`) now retries transient network errors with short backoff

@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: b107d7a3af47373f04c657966c372652b279258b61c6068bf6e98d9983639e05
+machine_hash: e7a9e5085bc6a4fa3248db34d34e325cd32415e8db6d2ce9c8762026526e5181
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Improved UI rendering performance with React Compiler
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.15
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

@@ -11,9 +11,9 @@ diffusion:
   theme: enterprise-admin
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 78c414ea428d4c7e78f700299dac67c51f4631c4e68c2d92b57d6d9d736d98d5
+machine_hash: b76f3093d46221e58bc5dbe0371e0395d4325618b986be584b505af75acabc0c
 product: cursor
 product_name: Cursor
 record:
@@ -31,7 +31,7 @@ record:
       machines can scale with demand. Pools are not tied to one repository: name the
       pool, and any available worker can claim the request.'
     source_release: https://cursor.com/changelog/self-hosted-machines
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -49,8 +49,7 @@ record:
     score: 50
     theme: enterprise-admin
   theme_resolution: manual-semantic-rule-v1
-  title: Team pools are named queues of workers for a team or enterprise. Capacity
-    can gr
+  title: Team pools are named queues of workers for a team or enterprise
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-07-15-we-re-increasing-the-character-limit-for-custom-instructions-in-chatgpt-plus-pro|chatgpt-2026-07-15-f04dc1]]'
@@ -59,12 +58,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-09-02-self-hosted-machines-https-cursor-com-changelog-self-hosted-mach-28f9f33e|cursor-2026-09-02-self-hosted-machines-https-cursor-com-changelog-self-hosted-mach-28f9f33e]]'
 source_type: cursor_changelog
 theme: enterprise-admin
-title: Team pools are named queues of workers for a team or enterprise. Capacity can
-  gr
+title: Team pools are named queues of workers for a team or enterprise
 type: change
 ---
 
-# Team pools are named queues of workers for a team or enterprise. Capacity can gr
+# Team pools are named queues of workers for a team or enterprise
 
 <!-- chronolog:begin region="description" -->
 Cursor — Self-hosted machines: Team pools are named queues of workers for a team or enterprise. Capacity can grow as requests arrive and shrink when workers disconnect, so your self-hosted machines can scale with demand. Pools are not tied to one repository: name the pool, and any available worker can claim the request.

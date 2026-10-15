@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-06-16'
-machine_hash: 273e7d33191d06d3d195c73ea37bae6137beae69166fba241951704ca87625e2
+machine_hash: fcc5661b9cd1c4d69091580bb575ab55a36181522887f61765c218f6d45fd03e
 product: cursor
 product_name: Cursor
 record:
@@ -39,5 +39,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- apps-integrations: [[Changes/Cursor/2023-06-16-we-ve-added-support-for-using-your-azure-openai-credentials-also-small-improveme|We've added support for using your Azure OpenAI credentials. Also, small improve]]
+- apps-integrations: [[Changes/Cursor/2023-06-16-we-ve-added-support-for-using-your-azure-openai-credentials-also-small-improveme|Cursor adds support for using your Azure OpenAI credentials]]
 <!-- chronolog:end -->

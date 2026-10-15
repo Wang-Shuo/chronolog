@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 870a7deee55218b7248869c358e66711ae4e72d748fb8ef7b30df67be00a1895
+machine_hash: 19b4d7b6eed0d2d23bb9b7207a7951fc59df106fdf0b0deeddae936d011352bd
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Integrates GPT-V into chat for the editor. This means you can take screenshots/images
       and drag it into the chat inputbox to have Cursor use them as context.
     source_release: https://cursor.com/changelog/0-16-2-nightly
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -45,7 +45,7 @@ record:
     score: 50
     theme: editor-experience
   theme_resolution: manual-semantic-rule-v1
-  title: Integrates GPT-V into chat for the editor. This means you can take screenshots/i
+  title: Integrates GPT-V into chat for the editor
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-09-08-you-can-also-paste-a-url-into-the-chat-and-the-model-will-automatically-include|cursor-2023-09-08-9110f3]]'
@@ -54,11 +54,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-11-21-0-16-2-nightly-https-cursor-com-changelog-0-16-2-nightly-872eb87e|cursor-2023-11-21-0-16-2-nightly-https-cursor-com-changelog-0-16-2-nightly-872eb87e]]'
 source_type: cursor_changelog
 theme: context-window
-title: Integrates GPT-V into chat for the editor. This means you can take screenshots/i
+title: Integrates GPT-V into chat for the editor
 type: change
 ---
 
-# Integrates GPT-V into chat for the editor. This means you can take screenshots/i
+# Integrates GPT-V into chat for the editor
 
 <!-- chronolog:begin region="description" -->
 Cursor — GPT-V Support: Integrates GPT-V into chat for the editor. This means you can take screenshots/images and drag it into the chat inputbox to have Cursor use them as context.

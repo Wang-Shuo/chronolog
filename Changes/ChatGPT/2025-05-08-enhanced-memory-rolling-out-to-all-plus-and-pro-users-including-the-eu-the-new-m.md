@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 999285aaee1438046b55c58eac27190188413959aa1c8298bc944644d22bd8e6
+machine_hash: 23527b2db9d510de15eddc02b8f21bbfdc14bffbd1ff749a1e42de4f5873b48a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
       Iceland, or Liechtenstein. These features are OFF by default and must be enabled
       in Settings > Personalization > Reference Chat History.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -41,8 +41,7 @@ record:
   source_release: chatgpt-2025-05-08-enhanced-memory-in-chatgpt-including-eu-on-plus-pro-b6107d35
   source_type: chatgpt_changelog
   theme: memory
-  title: Enhanced memory rolling out to all Plus and Pro users (including the EU).
-    The ne
+  title: Enhanced memory rolling out to all Plus and Pro users (including the EU)
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-02-19-crashes-enhanced-stability-through-memory-and-performance-improvements-with-addi|cursor-2025-02-19-b95ba8]]'
@@ -51,12 +50,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-08-enhanced-memory-in-chatgpt-including-eu-on-plus-pro-b6107d35|chatgpt-2025-05-08-enhanced-memory-in-chatgpt-including-eu-on-plus-pro-b6107d35]]'
 source_type: chatgpt_changelog
 theme: memory
-title: Enhanced memory rolling out to all Plus and Pro users (including the EU). The
-  ne
+title: Enhanced memory rolling out to all Plus and Pro users (including the EU)
 type: change
 ---
 
-# Enhanced memory rolling out to all Plus and Pro users (including the EU). The ne
+# Enhanced memory rolling out to all Plus and Pro users (including the EU)
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Enhanced Memory in ChatGPT (including EU) on Plus/Pro: Enhanced memory rolling out to all Plus and Pro users (including the EU). The new memory features are available in the EEA (EU + UK), Switzerland, Norway, Iceland, or Liechtenstein. These features are OFF by default and must be enabled in Settings > Personalization > Reference Chat History.

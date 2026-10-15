@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-06-01'
-machine_hash: ddb584e16a4b00f2fca302f1f333ef0c0cd82e159a4616583e1e95b0a747183c
+machine_hash: e54d744d79989802c2cb25ce2cba917867bf76da5619409974506856dc8f935b
 product: cursor
 product_name: Cursor
 record:
@@ -39,5 +39,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/Cursor/2023-06-01-check-out-the-more-tab-to-have-gpt-3-5-or-gpt-4-review-your-code-periodically-fo|Check out the "more" tab to have GPT-3.5 or GPT-4 review your code periodically]]
+- model-support: [[Changes/Cursor/2023-06-01-check-out-the-more-tab-to-have-gpt-3-5-or-gpt-4-review-your-code-periodically-fo|Check out the "more" tab to have GPT-3.5 or GPT-4 review your code periodically…]]
 <!-- chronolog:end -->

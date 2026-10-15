@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9d65ac61e940e9636516218d4995d8c7e3b04883beeca2d172d96766e74a26ca
+machine_hash: cc0e428bd6ec0d3338eab27ba53dcd5253c1041b77258a49e55a3bbc64ecb6a0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: 'You can join the waitlist to try plugins here:'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -33,16 +33,16 @@ record:
   source_release: chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8
   source_type: chatgpt_changelog
   theme: apps-integrations
-  title: 'You can join the waitlist to try plugins here:'
+  title: You can join the waitlist to try plugins here
   type: change
 source_release: '[[Releases/ChatGPT/chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8|chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
-title: 'You can join the waitlist to try plugins here:'
+title: You can join the waitlist to try plugins here
 type: change
 ---
 
-# You can join the waitlist to try plugins here:
+# You can join the waitlist to try plugins here
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Introducing plugins in ChatGPT: You can join the waitlist to try plugins here:

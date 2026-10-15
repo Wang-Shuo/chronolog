@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f6db10a6e889d904b44ba67539ad140834933e2fbb5e23006b9855daa3d20cdd
+machine_hash: f4f442dfc11b33ea8f24017b6a275863b2421d65db68f4374bee1e935d5ce06c
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       prints the plugin directory, which is re-resolved each session and applied without
       a restart; `mode: "link"` uses it in place'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.229
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -46,8 +46,7 @@ record:
     score: 50
     theme: editor-experience
   theme_resolution: manual-semantic-rule-v1
-  title: 'Added plugin marketplace `command` sources: a local command (e.g. an IDE)
-    prints'
+  title: Added plugin marketplace `command` sources
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-08-improved-remote-control-photos-attached-from-the-claude-app-are-now-shown-to-cla|claude-code-2026-08-08-b919e7]]'
@@ -56,11 +55,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-08-12-v2-1-229-github-369475532-b063933d|claude-code-2026-08-12-v2-1-229-github-369475532-b063933d]]'
 source_type: github_releases
 theme: apps-integrations
-title: 'Added plugin marketplace command sources: a local command (e.g. an IDE) prints'
+title: Added plugin marketplace command sources
 type: change
 ---
 
-# Added plugin marketplace `command` sources: a local command (e.g. an IDE) prints
+# Added plugin marketplace `command` sources
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.229: Added plugin marketplace `command` sources: a local command (e.g. an IDE) prints the plugin directory, which is re-resolved each session and applied without a restart; `mode: "link"` uses it in place

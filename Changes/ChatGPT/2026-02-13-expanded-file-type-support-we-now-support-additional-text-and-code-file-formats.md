@@ -11,9 +11,9 @@ diffusion:
   theme: file-data
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: f3535d6c67e05454e10f504540ef88db575731b558c5ce38d011fb1aabea266b
+machine_hash: e79696c8dc5ec5d0742c334dcf48c63bd29f0e75599f82201053a12f3ebb5f35
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       formats, improving compatibility with source files, logs, configuration files,
       and other structured text.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -41,8 +41,7 @@ record:
   theme: file-data
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Expanded file type support. We now support additional text and code file
-    formats
+  title: Expanded file type support
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-06-24-projects-can-now-support-40-uploaded-files-up-from-20-for-pro-users|chatgpt-2025-06-24-e74d4b]]'
@@ -51,11 +50,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-13-chatgpt-updates-better-file-uploads-easier-copying-and-more-reli-e2c69aa0|chatgpt-2026-02-13-chatgpt-updates-better-file-uploads-easier-copying-and-more-reli-e2c69aa0]]'
 source_type: chatgpt_changelog
 theme: file-data
-title: Expanded file type support. We now support additional text and code file formats
+title: Expanded file type support
 type: change
 ---
 
-# Expanded file type support. We now support additional text and code file formats
+# Expanded file type support
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT updates: Better file uploads, easier copying, and more reliable long chats: Expanded file type support. We now support additional text and code file formats, improving compatibility with source files, logs, configuration files, and other structured text.

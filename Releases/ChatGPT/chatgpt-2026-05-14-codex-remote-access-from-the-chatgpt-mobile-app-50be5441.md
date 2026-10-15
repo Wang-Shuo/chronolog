@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-05-14'
-machine_hash: c885310c02d87197b46af42469236991093fb09746a905eebed4126dc9c6727f
+machine_hash: ac8dcb43f6c87da09a9569ce56a64382f588341d249bb624b7260c3d0d92e201
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- mobile-desktop: [[Changes/ChatGPT/2026-05-14-codex-is-now-available-in-preview-in-the-chatgpt-mobile-app-so-you-can-stay-conn|Codex is now available in preview in the ChatGPT mobile app, so you can stay con]]
+- mobile-desktop: [[Changes/ChatGPT/2026-05-14-codex-is-now-available-in-preview-in-the-chatgpt-mobile-app-so-you-can-stay-conn|Codex is now available in preview in the ChatGPT mobile app, so you can stay…]]
 <!-- chronolog:end -->

@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d1285b818952cf5f50d2478158e95378ac1a9f5b1aeef267972fa54e28f684a5
+machine_hash: 1a96c08de8cffa6c6516c599565726dc54e733b42322d4c2df43515d1e172f94
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,7 +29,7 @@ record:
       footer hints, dialog spacing, and arrow-key styling, and the dialog frame now
       appears immediately during loading instead of popping in after'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.136
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -39,8 +39,7 @@ record:
   theme: developer-workflow
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: 'Improved visual consistency across slash command dialogs: standardized footer
-    hi'
+  title: Improved visual consistency across slash command dialogs
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-07-added-worktree-baseref-setting-fresh-head-to-choose-whether-worktree-enterworktr|claude-code-2026-05-07-6fb4d0]]'
@@ -49,12 +48,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-08-v2-1-136-github-319609716-58f21368|claude-code-2026-05-08-v2-1-136-github-319609716-58f21368]]'
 source_type: github_releases
 theme: developer-workflow
-title: 'Improved visual consistency across slash command dialogs: standardized footer
-  hi'
+title: Improved visual consistency across slash command dialogs
 type: change
 ---
 
-# Improved visual consistency across slash command dialogs: standardized footer hi
+# Improved visual consistency across slash command dialogs
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.136: Improved visual consistency across slash command dialogs: standardized footer hints, dialog spacing, and arrow-key styling, and the dialog frame now appears immediately during loading instead of popping in after

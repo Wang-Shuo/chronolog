@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3371df8cbc972017569c0c361717098cc8c8924ee05b277728edd6f704e186a4
+machine_hash: 83561532e66ccb7f983db520555f8397858c0d4bf6639975f7887c3eabb74f4d
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       MCP servers to every user (same entry shape as `.mcp.json`); entries that name
       a command to run are skipped'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.259
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   source_release: claude-code-2026-09-02-v2-1-259-github-381579834-0f335a0f
   source_type: github_releases
   theme: apps-integrations
-  title: 'Added `managedMcpServers` managed setting: organizations can provide HTTP/SSE
-    MC'
+  title: Added `managedMcpServers` managed setting
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-08-28-you-can-now-connect-multiple-accounts-for-gmail-google-calendar-and-google-conta|chatgpt-2026-08-28-9b4a3c]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-02-v2-1-259-github-381579834-0f335a0f|claude-code-2026-09-02-v2-1-259-github-381579834-0f335a0f]]'
 source_type: github_releases
 theme: apps-integrations
-title: 'Added managedMcpServers managed setting: organizations can provide HTTP/SSE
-  MC'
+title: Added managedMcpServers managed setting
 type: change
 ---
 
-# Added `managedMcpServers` managed setting: organizations can provide HTTP/SSE MC
+# Added `managedMcpServers` managed setting
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.259: Added `managedMcpServers` managed setting: organizations can provide HTTP/SSE MCP servers to every user (same entry shape as `.mcp.json`); entries that name a command to run are skipped

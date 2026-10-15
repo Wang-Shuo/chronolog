@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 2b0062705a6726093bc10267e63872842d1ac90dbf4d899f3dd63ad2de307910
+machine_hash: a5980734895a7a7f4643c46b32bf4d7b4ccab816a00d13086a6341ebb28f506a
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
   - quote: Cursor is now based on VS Code 1.86.2! Among other things, this adds sticky
       scroll support to tree views. Also, cmdk prompt bars are now sticky.
     source_release: https://cursor.com/changelog/0-28-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -39,8 +39,7 @@ record:
   theme: editor-experience
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Cursor is now based on VS Code 1.86.2! Among other things, this adds sticky
-    scro
+  title: Cursor is now based on VS Code 1.86.2!
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-02-02-hold-down-cmd-i-over-a-selection-to-heal-the-code-with-gpt-4-useful-for-writing|cursor-2024-02-02-bd7fa6]]'
@@ -49,12 +48,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-02-23-0-28-x-https-cursor-com-changelog-0-28-x-60ff5b5b|cursor-2024-02-23-0-28-x-https-cursor-com-changelog-0-28-x-60ff5b5b]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: Cursor is now based on VS Code 1.86.2! Among other things, this adds sticky
-  scro
+title: Cursor is now based on VS Code 1.86.2!
 type: change
 ---
 
-# Cursor is now based on VS Code 1.86.2! Among other things, this adds sticky scro
+# Cursor is now based on VS Code 1.86.2!
 
 <!-- chronolog:begin region="description" -->
 Cursor — VS Code 1.86.2: Cursor is now based on VS Code 1.86.2! Among other things, this adds sticky scroll support to tree views. Also, cmdk prompt bars are now sticky.

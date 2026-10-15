@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 01234af6f408468d7fb8f3dbefee7d257b68e1c2e99bb28dedbb691cd6d0b81d
+machine_hash: d8cac93fe491b3299221ce4cc66c788e8234b427dc1b64a60a218409705989cc
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Added support for `PreToolUse` hooks to return `additionalContext` to the
       model
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.9
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code

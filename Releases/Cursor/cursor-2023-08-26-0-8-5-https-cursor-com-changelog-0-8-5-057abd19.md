@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-08-26'
-machine_hash: 75d8d881f3c27346d96d3a036d778ab1f52764096a99cce421b641cd8ad003cb
+machine_hash: dc8598dd19cad6cd15dc42038621741f5d2354ba1767eaee788eb8a9f0bb247e
 product: cursor
 product_name: Cursor
 record:
@@ -38,5 +38,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- context-window: [[Changes/Cursor/2023-08-26-have-the-advanced-context-button-show-up-for-non-git-repos|Have the advanced context button show up for non git repos.]]
+- context-window: [[Changes/Cursor/2023-08-26-have-the-advanced-context-button-show-up-for-non-git-repos|Have the advanced context button show up for non git repos]]
 <!-- chronolog:end -->

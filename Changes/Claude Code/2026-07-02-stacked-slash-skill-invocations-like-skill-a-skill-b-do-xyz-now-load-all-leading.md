@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9546d2eef7e2e0de56c47d1beba61afac910025dbec6e28a840bc21095c199f9
+machine_hash: a6a14c9d0785727748a227e9a6987317d38a882986ba9520a16160cf47bdb0f5
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Stacked slash-skill invocations like `/skill-a /skill-b do XYZ` now load
       all leading skills (up to 5), not just the first
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.199
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: Stacked slash-skill invocations like `/skill-a /skill-b do XYZ` now load
-    all lea
+    all leading…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-06-30-admins-can-now-configure-team-mcp-servers-once-and-distribute-them-across-cloud|cursor-2026-06-30-e783cf]]'
@@ -47,11 +47,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-07-02-v2-1-199-github-3
 source_type: github_releases
 theme: apps-integrations
 title: Stacked slash-skill invocations like /skill-a /skill-b do XYZ now load all
-  lea
+  leading…
 type: change
 ---
 
-# Stacked slash-skill invocations like `/skill-a /skill-b do XYZ` now load all lea
+# Stacked slash-skill invocations like `/skill-a /skill-b do XYZ` now load all leading…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.199: Stacked slash-skill invocations like `/skill-a /skill-b do XYZ` now load all leading skills (up to 5), not just the first

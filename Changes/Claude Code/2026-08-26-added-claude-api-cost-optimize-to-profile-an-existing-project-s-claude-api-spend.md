@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 4f375059e8ffe5d8e16a73a84b174193e2ffceeb6155e3e1c3e7a043fa5555ec
+machine_hash: b40ebe756af9475f3fb5624b64b712f3dfbc76ed3cf6307b4205e644ca447a8a
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       API spend and work through cost levers (caching, token hygiene, batch, effort,
       model choice) one measured change at a time
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.247
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -39,7 +39,7 @@ record:
   source_type: github_releases
   theme: model-support
   title: Added `/claude-api cost-optimize` to profile an existing project's Claude
-    API sp
+    API spend…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-08-06-gpt-5-6-luna-will-become-the-default-model-for-free-and-go-users-this-week-start|chatgpt-2026-08-06-674b4a]]'
@@ -49,11 +49,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-08-26-v2-1-247-github-3
 source_type: github_releases
 theme: model-support
 title: Added /claude-api cost-optimize to profile an existing project's Claude API
-  sp
+  spend…
 type: change
 ---
 
-# Added `/claude-api cost-optimize` to profile an existing project's Claude API sp
+# Added `/claude-api cost-optimize` to profile an existing project's Claude API spend…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.247: Added `/claude-api cost-optimize` to profile an existing project's Claude API spend and work through cost levers (caching, token hygiene, batch, effort, model choice) one measured change at a time

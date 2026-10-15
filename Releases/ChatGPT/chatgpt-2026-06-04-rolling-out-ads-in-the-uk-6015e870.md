@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-06-04'
-machine_hash: 25fd3a0e8c88bf7c786ad5c467346df24ad5b50e74bbbaf58fd5997b4638522e
+machine_hash: 08463e7649aee8e1b5c67e5bb7c7810582724ce9b11598e9c5222c6131418171
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,5 +39,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- enterprise-admin: [[Changes/ChatGPT/2026-06-04-we-re-beginning-to-roll-out-ads-for-users-on-free-and-go-plans-in-the-uk-plus-pr|We're beginning to roll out ads for users on Free and Go plans in the UK. Plus,]]
+- enterprise-admin: [[Changes/ChatGPT/2026-06-04-we-re-beginning-to-roll-out-ads-for-users-on-free-and-go-plans-in-the-uk-plus-pr|We're beginning to roll out ads for users on Free and Go plans in the UK]]
 <!-- chronolog:end -->

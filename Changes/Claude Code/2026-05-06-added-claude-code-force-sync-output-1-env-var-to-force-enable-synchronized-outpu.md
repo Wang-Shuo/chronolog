@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e2b74cb122b21a879c3d0e2610548062fb773061913248456a7610e0f064bc84
+machine_hash: 0305f406c6249a2e70383eeb05106de45d96ba984fb89f9af0637911bb7b7a97
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Added `CLAUDE_CODE_FORCE_SYNC_OUTPUT=1` env var to force-enable synchronized
       output on terminals that auto-detection misses (e.g. Emacs `eat`)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.129
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,7 +38,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: Added `CLAUDE_CODE_FORCE_SYNC_OUTPUT=1` env var to force-enable synchronized
-    out
+    output…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-28-added-a-type-to-filter-search-box-to-skills-so-you-can-find-a-skill-in-long-list|claude-code-2026-04-28-185430]]'
@@ -48,11 +48,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-05-06-v2-1-129-github-3
 source_type: github_releases
 theme: interface-experience
 title: Added CLAUDE_CODE_FORCE_SYNC_OUTPUT=1 env var to force-enable synchronized
-  out
+  output…
 type: change
 ---
 
-# Added `CLAUDE_CODE_FORCE_SYNC_OUTPUT=1` env var to force-enable synchronized out
+# Added `CLAUDE_CODE_FORCE_SYNC_OUTPUT=1` env var to force-enable synchronized output…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.129: Added `CLAUDE_CODE_FORCE_SYNC_OUTPUT=1` env var to force-enable synchronized output on terminals that auto-detection misses (e.g. Emacs `eat`)

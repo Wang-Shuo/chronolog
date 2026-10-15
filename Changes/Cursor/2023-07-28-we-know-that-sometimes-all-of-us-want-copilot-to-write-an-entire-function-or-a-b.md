@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 065d37dc2488192a54428d12d4597cc2ad1edbabcd712fecde51df17a65a7e63
+machine_hash: e0d1475df4bf8d09117e536904ce66942940be050c8c2ae283e7d83d509b288f
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: We know that sometimes all of us want copilot to write an entire function
       or a big chunk of code.
     source_release: https://cursor.com/changelog/0-6-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: We know that sometimes all of us want copilot to write an entire function
-    or a b
+    or a big…
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-07-22-cmd-k-can-again-see-all-of-your-cells-in-jupyter|cursor-2023-07-22-fec6b0]]'
@@ -47,11 +47,11 @@ source_release: '[[Releases/Cursor/cursor-2023-07-28-0-6-0-https-cursor-com-chan
 source_type: cursor_changelog
 theme: editor-experience
 title: We know that sometimes all of us want copilot to write an entire function or
-  a b
+  a big…
 type: change
 ---
 
-# We know that sometimes all of us want copilot to write an entire function or a b
+# We know that sometimes all of us want copilot to write an entire function or a big…
 
 <!-- chronolog:begin region="description" -->
 Cursor — A copilot experience powered by gpt-4: We know that sometimes all of us want copilot to write an entire function or a big chunk of code.

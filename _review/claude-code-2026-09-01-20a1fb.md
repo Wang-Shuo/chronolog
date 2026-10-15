@@ -1,6 +1,6 @@
 ---
 draft: true
-machine_hash: 2071c4a290d3993e9049ec8cc8dbc879208b2806ea7b22dd10734741f524423d
+machine_hash: a0b81c56b472ed2e8dcabbeddd355dec85d7e42899e07271a57e558335fda436
 product: claude-code
 record:
   card_id: claude-code-2026-09-01-20a1fb
@@ -14,7 +14,7 @@ record:
       24-hour UTC, or a strftime pattern for the turn-end clock and transcript-view
       timestamps'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.257
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -25,8 +25,7 @@ record:
   theme_matches: []
   theme_review_reason: no_match
   theme_suggestion: added-time-format
-  title: 'Added "Time format" (`timeFormat`) and `timeZone` settings: 12-hour, 24-hour,
-    24'
+  title: Added "Time format" (`timeFormat`) and `timeZone` settings
   type: change
 ---
 

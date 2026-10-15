@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d7f2489273f0a3cad63a04eac4f2d2151a17823093e4e4f69fa17be6fe6ff155
+machine_hash: a308a281209d710a3e3c625eb0a18af2abb140120fa3a17efd07911e1292e187
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: ChatGPT can also use memories to inform search queries when ChatGPT searches
       the web using third-party search providers. Learn more about search.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -36,7 +36,7 @@ record:
   source_type: chatgpt_changelog
   theme: memory
   title: ChatGPT can also use memories to inform search queries when ChatGPT searches
-    the
+    the web…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2024-02-13-we-re-testing-memory-with-chatgpt-remembering-things-you-discuss-across-all-chat-9872c8|chatgpt-2024-02-13-9872c8]]'
@@ -46,11 +46,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2025-04-16-memory-with-search-0b018f
 source_type: chatgpt_changelog
 theme: memory
 title: ChatGPT can also use memories to inform search queries when ChatGPT searches
-  the
+  the web…
 type: change
 ---
 
-# ChatGPT can also use memories to inform search queries when ChatGPT searches the
+# ChatGPT can also use memories to inform search queries when ChatGPT searches the web…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Memory with Search: ChatGPT can also use memories to inform search queries when ChatGPT searches the web using third-party search providers. Learn more about search.

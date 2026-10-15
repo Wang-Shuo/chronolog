@@ -11,9 +11,9 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: fdd2618f972a31e0ed4c61f2c7f5cc03670c50b8cba0105b53f198809784375e
+machine_hash: 122202d3baa19cc65e835ea955ce5f5291ca396476f904655555ab57866ffe98
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       initially be available for users in India only.For ₹399/month (GST included),
       ChatGPT Go provides everything included in the Free plan, and:'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -39,7 +39,7 @@ record:
   source_release: chatgpt-2025-08-18-introducing-chatgpt-go-fbc1ef7a
   source_type: chatgpt_changelog
   theme: pricing-model
-  title: We’re launching ChatGPT Go, a new low-cost subscription plan. This will initiall
+  title: ChatGPT launches ChatGPT Go, a new low-cost subscription plan
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-05-15-we-ve-heard-your-feedback-and-are-rolling-out-a-unified-pricing-model-to-make-it|cursor-2025-05-15-c48d0c]]'
@@ -48,11 +48,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-18-introducing-chatgpt-go-fbc1ef7a|chatgpt-2025-08-18-introducing-chatgpt-go-fbc1ef7a]]'
 source_type: chatgpt_changelog
 theme: pricing-model
-title: We’re launching ChatGPT Go, a new low-cost subscription plan. This will initiall
+title: ChatGPT launches ChatGPT Go, a new low-cost subscription plan
 type: change
 ---
 
-# We’re launching ChatGPT Go, a new low-cost subscription plan. This will initiall
+# ChatGPT launches ChatGPT Go, a new low-cost subscription plan
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Introducing ChatGPT Go: We’re launching ChatGPT Go, a new low-cost subscription plan. This will initially be available for users in India only.For ₹399/month (GST included), ChatGPT Go provides everything included in the Free plan, and:

@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d69e059dc6781b65765d661a7ea63a784f383d21a9abfa6aee1e7124ce661131
+machine_hash: d68de785c15e5943ac30ada7e80b0e4d43aeecc4178a7972e7f7e7d1b1f85b2a
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: A better flow for getting CMD-k to produce code with no linter errors (you
       should see a "Try lint-fix" button when relevant)
     source_release: https://cursor.com/changelog/0-2-49
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -45,8 +45,7 @@ record:
     score: 50
     theme: developer-workflow
   theme_resolution: manual-semantic-rule-v1
-  title: A better flow for getting CMD-k to produce code with no linter errors (you
-    shoul
+  title: A better flow for getting CMD-k to produce code with no linter errors…
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-07-11-this-update-improves-the-prompt-for-cmd-k-when-you-don-t-have-any-code-selected|cursor-2023-07-11-9c2b47]]'
@@ -55,12 +54,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-07-19-0-2-49-https-cursor-com-changelog-0-2-49-69872598|cursor-2023-07-19-0-2-49-https-cursor-com-changelog-0-2-49-69872598]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: A better flow for getting CMD-k to produce code with no linter errors (you
-  shoul
+title: A better flow for getting CMD-k to produce code with no linter errors…
 type: change
 ---
 
-# A better flow for getting CMD-k to produce code with no linter errors (you shoul
+# A better flow for getting CMD-k to produce code with no linter errors…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Advanced context for codebase-wide chat: A better flow for getting CMD-k to produce code with no linter errors (you should see a "Try lint-fix" button when relevant)

@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ea7d4a52bb29d1c436e5abaad7a4667b46df5c26843dcc370620af1dbf5a9b3f
+machine_hash: 0a5301a220c4acccb7ce941f5f24352016d1752392840a40afc086e4352c435e
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       patterns now fail fast instead of exhausting memory, and `-m N` with `-A/-C`
       prints correct context'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.235
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -49,8 +49,7 @@ record:
     - macos
     score: 50
     theme: mobile-desktop
-  title: 'Improved the embedded `grep` in native macOS/Linux builds: pathological
-    patterns'
+  title: Improved the embedded `grep` in native macOS/Linux builds
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-08-14-this-update-is-available-on-all-chatgpt-plans-shared-projects-continue-to-use-pr|chatgpt-2026-08-14-7f54a9]]'
@@ -59,11 +58,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-08-18-v2-1-235-github-372521030-3c3fae7f|claude-code-2026-08-18-v2-1-235-github-372521030-3c3fae7f]]'
 source_type: github_releases
 theme: memory
-title: 'Improved the embedded grep in native macOS/Linux builds: pathological patterns'
+title: Improved the embedded grep in native macOS/Linux builds
 type: change
 ---
 
-# Improved the embedded `grep` in native macOS/Linux builds: pathological patterns
+# Improved the embedded `grep` in native macOS/Linux builds
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.235: Improved the embedded `grep` in native macOS/Linux builds: pathological patterns now fail fast instead of exhausting memory, and `-m N` with `-A/-C` prints correct context

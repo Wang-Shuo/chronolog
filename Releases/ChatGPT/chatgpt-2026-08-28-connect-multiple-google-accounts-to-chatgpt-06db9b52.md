@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2026-08-28'
-machine_hash: a0a05793b710682120addf68c12fbb6ed3ebc2206ed2809dd53461fceff2427b
+machine_hash: 784db3ab14e6a6bc0708720bf009e6fdc7635f0af3283dd1635580d8e92e00d2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,6 +41,6 @@ Tracked cards: 2
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- mobile-desktop: [[Changes/ChatGPT/2026-08-28-available-globally-on-supported-plus-pro-business-and-enterprise-plans-across-we|Available globally on supported Plus, Pro, Business, and Enterprise plans across]]
-- apps-integrations: [[Changes/ChatGPT/2026-08-28-you-can-now-connect-multiple-accounts-for-gmail-google-calendar-and-google-conta|You can now connect multiple accounts for Gmail, Google Calendar, and Google Con]]
+- mobile-desktop: [[Changes/ChatGPT/2026-08-28-available-globally-on-supported-plus-pro-business-and-enterprise-plans-across-we|Available globally on supported Plus, Pro, Business, and Enterprise plans across…]]
+- apps-integrations: [[Changes/ChatGPT/2026-08-28-you-can-now-connect-multiple-accounts-for-gmail-google-calendar-and-google-conta|Connect multiple accounts for Gmail, Google Calendar, and Google Contacts plugins…]]
 <!-- chronolog:end -->

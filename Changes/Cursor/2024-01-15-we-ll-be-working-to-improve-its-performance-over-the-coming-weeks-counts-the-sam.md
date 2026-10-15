@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: b4d642379501303000503ff81875fa9178257e9dbf234ecf4bdc1b89faf6011e
+machine_hash: 0652ba8148d225211023b5a1e5eda87b779f91d01fbf23ffcee2e63fe25a4058
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: We'll be working to improve its performance over the coming weeks. Counts
       the same as 3.5 usage.
     source_release: https://cursor.com/changelog/0-22-1-nightly
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -34,8 +34,7 @@ record:
   source_release: cursor-2024-01-15-0-22-1-nightly-https-cursor-com-changelog-0-22-1-nightly-a39dbb5c
   source_type: cursor_changelog
   theme: reliability-performance
-  title: We'll be working to improve its performance over the coming weeks. Counts
-    the sa
+  title: We'll be working to improve its performance over the coming weeks
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-10-01-bugfixes-fixed-the-ejected-from-slow-mode-ui-added-auto-switching-logic-for-the|cursor-2023-10-01-bf6551]]'
@@ -44,12 +43,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-01-15-0-22-1-nightly-https-cursor-com-changelog-0-22-1-nightly-a39dbb5c|cursor-2024-01-15-0-22-1-nightly-https-cursor-com-changelog-0-22-1-nightly-a39dbb5c]]'
 source_type: cursor_changelog
 theme: reliability-performance
-title: We'll be working to improve its performance over the coming weeks. Counts the
-  sa
+title: We'll be working to improve its performance over the coming weeks
 type: change
 ---
 
-# We'll be working to improve its performance over the coming weeks. Counts the sa
+# We'll be working to improve its performance over the coming weeks
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cursor-Fast Model: We'll be working to improve its performance over the coming weeks. Counts the same as 3.5 usage.

@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6e2f9786b37acdf9b266ef1ba5db70d6dc0fcff7fe1cec82adbc99c9941213e9
+machine_hash: 67e51417c59fb8924b55edcd1c80e30e32dccf23a191ab8b7846cb235d65e480
 product: cursor
 product_name: Cursor
 record:
@@ -24,7 +24,7 @@ record:
   evidence:
   - quote: Linter is back!
     source_release: https://cursor.com/changelog/0-5-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

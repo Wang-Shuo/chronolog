@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: b631a1399bfe223954cccfc821c50a02842dd89a1eb679c4b5db842bd34715ac
+machine_hash: f928596726e06ad3b809c02d2ccad91a834d6f5bc490c58f441552f87bb8a22f
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Improved brief mode to retry once when Claude responds with plain text
       instead of a structured message
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.101
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   theme: reliability-performance
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Improved brief mode to retry once when Claude responds with plain text instead
-    o
+  title: Improved brief mode to retry once when Claude responds with plain text instead…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-18-improved-non-streaming-api-fallback-with-a-2-minute-per-attempt-timeout-preventi|claude-code-2026-03-18-f2102f]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-10-v2-1-101-github-307692858-ffcdf642|claude-code-2026-04-10-v2-1-101-github-307692858-ffcdf642]]'
 source_type: github_releases
 theme: reliability-performance
-title: Improved brief mode to retry once when Claude responds with plain text instead
-  o
+title: Improved brief mode to retry once when Claude responds with plain text instead…
 type: change
 ---
 
-# Improved brief mode to retry once when Claude responds with plain text instead o
+# Improved brief mode to retry once when Claude responds with plain text instead…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.101: Improved brief mode to retry once when Claude responds with plain text instead of a structured message

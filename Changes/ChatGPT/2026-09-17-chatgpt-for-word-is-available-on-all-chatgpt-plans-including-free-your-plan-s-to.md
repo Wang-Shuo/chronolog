@@ -11,9 +11,9 @@ diffusion:
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 609881c86b8403e657e48f152920b8b07778cd02c5b982d3e0ed790a0d8e08fb
+machine_hash: 4bd3550a26e23603c98ce7094e9015f0553b3822da9d62713ee534925a5744c4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       plan’s token limits apply, and Word draws from the shared usage allowance for
       Codex and other premium features on plans that include it.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -39,8 +39,7 @@ record:
   theme: collaboration
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: ChatGPT for Word is available on all ChatGPT plans, including Free. Your
-    plan’s
+  title: ChatGPT for Word is available on all ChatGPT plans, including Free
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-09-09-find-and-use-shared-content-access-items-in-shared-with-me-and-use-shared-files|chatgpt-2026-09-09-cd1665]]'
@@ -49,11 +48,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-17-chatgpt-for-word-f072ecd9|chatgpt-2026-09-17-chatgpt-for-word-f072ecd9]]'
 source_type: chatgpt_changelog
 theme: collaboration
-title: ChatGPT for Word is available on all ChatGPT plans, including Free. Your plan’s
+title: ChatGPT for Word is available on all ChatGPT plans, including Free
 type: change
 ---
 
-# ChatGPT for Word is available on all ChatGPT plans, including Free. Your plan’s
+# ChatGPT for Word is available on all ChatGPT plans, including Free
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT for Word: ChatGPT for Word is available on all ChatGPT plans, including Free. Your plan’s token limits apply, and Word draws from the shared usage allowance for Codex and other premium features on plans that include it.

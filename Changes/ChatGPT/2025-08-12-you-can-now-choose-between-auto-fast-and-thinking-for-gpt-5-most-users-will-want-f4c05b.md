@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: bf379ded52fb8be02caf8a2685d6a4ed06e21d0786ebd54bb82aa4713f028d32
+machine_hash: 75d6695cb3dcc4d9778f1bb9b388f026661b5350212f3512613efe44f582bc6d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,7 +42,7 @@ record:
       which will add models like o3, o4-mini, 4.1, and GPT-5 Thinking mini. 4.5 is
       only available to Pro users due to GPUs.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -67,8 +67,7 @@ record:
     score: 50
     theme: interface-experience
   theme_resolution: manual-semantic-rule-v2
-  title: You can now choose between “Auto”, “Fast”, and “Thinking” for GPT-5. Most
-    users
+  title: Choose between “Auto”, “Fast”, and “Thinking” for GPT-5
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-06-16-enterprise-and-edu-users-can-also-now-choose-from-the-full-set-of-chatgpt-models-c891f9|chatgpt-2025-06-16-c891f9]]'
@@ -77,11 +76,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-12-gpt-5-updates-9aaeee46|chatgpt-2025-08-12-gpt-5-updates-9aaeee46]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: You can now choose between “Auto”, “Fast”, and “Thinking” for GPT-5. Most users
+title: Choose between “Auto”, “Fast”, and “Thinking” for GPT-5
 type: change
 ---
 
-# You can now choose between “Auto”, “Fast”, and “Thinking” for GPT-5. Most users
+# Choose between “Auto”, “Fast”, and “Thinking” for GPT-5
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — GPT-5 Updates: You can now choose between “Auto”, “Fast”, and “Thinking” for GPT-5. Most users will want Auto, but the additional control will be useful for some people.ChatGPT Plus users now have 3,000 messages/week with GPT-5 Thinking, and then extra capacity on GPT-5 Thinking mini after that limit. The context limit for GPT-5 Thinking is 196k tokens. We may have to update rate limits over time depending on usage.4o is back in the model picker for all paid users by default. Paid users also now have a “Show additional models” toggle in ChatGPT web settings which will add models like o3, o4-mini, 4.1, and GPT-5 Thinking mini. 4.5 is only available to Pro users due to GPUs.

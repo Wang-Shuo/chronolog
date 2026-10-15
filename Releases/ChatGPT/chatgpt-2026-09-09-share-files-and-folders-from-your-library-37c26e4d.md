@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2026-09-09'
-machine_hash: 0d85ddef518f40684a51f889208fd8f7d3e4f640a236b4c7897d241dc1c1593b
+machine_hash: 4d3ec5453d20b8a02e4ff3dfac41b8bb7892c5f97cd986176c6dad5b0c0ab897
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,9 +39,9 @@ Tracked cards: 5
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- collaboration: [[Changes/ChatGPT/2026-09-09-share-with-specific-people-invite-recipients-and-assign-viewer-or-editor-access|Share with specific people. Invite recipients and assign Viewer or Editor access]]
-- collaboration: [[Changes/ChatGPT/2026-09-09-manage-access-review-who-has-access-change-permissions-or-remove-access-from-the|Manage access. Review who has access, change permissions, or remove access from]]
-- collaboration: [[Changes/ChatGPT/2026-09-09-find-and-use-shared-content-access-items-in-shared-with-me-and-use-shared-files|Find and use shared content. Access items in Shared with me and use shared files]]
-- collaboration: [[Changes/ChatGPT/2026-09-09-library-sharing-lets-you-share-files-and-folders-in-chatgpt-choose-who-can-acces|Library sharing lets you share files and folders in ChatGPT, choose who can acce]]
-- collaboration: [[Changes/ChatGPT/2026-09-09-share-across-your-workspace-make-content-available-to-everyone-in-your-workspace|Share across your workspace. Make content available to everyone in your workspac]]
+- collaboration: [[Changes/ChatGPT/2026-09-09-share-with-specific-people-invite-recipients-and-assign-viewer-or-editor-access|Share with specific people]]
+- collaboration: [[Changes/ChatGPT/2026-09-09-manage-access-review-who-has-access-change-permissions-or-remove-access-from-the|Manage access]]
+- collaboration: [[Changes/ChatGPT/2026-09-09-find-and-use-shared-content-access-items-in-shared-with-me-and-use-shared-files|Find and use shared content]]
+- collaboration: [[Changes/ChatGPT/2026-09-09-library-sharing-lets-you-share-files-and-folders-in-chatgpt-choose-who-can-acces|Library sharing lets you share files and folders in ChatGPT, choose who can access…]]
+- collaboration: [[Changes/ChatGPT/2026-09-09-share-across-your-workspace-make-content-available-to-everyone-in-your-workspace|Share across your workspace]]
 <!-- chronolog:end -->

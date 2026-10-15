@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 87eb5afdaa6ae6a46011380d0174ba440b4de242bc2d641a6b54bafd8b076c5e
+machine_hash: 6cb6189aacc7e65676de2887f0f52c5d254a30a4c909eafa2c8ad6cf34e4f9f2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,7 +35,7 @@ record:
       improvements are gradually rolling out globally across all ChatGPT plans, on
       web, iOS, and Android for responses using GPT 5.1.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -55,7 +55,7 @@ record:
     score: 100
     theme: mobile-desktop
   theme_resolution: manual-semantic-rule-v2
-  title: ChatGPT now adds more inline images from the web to help you quickly understand
+  title: ChatGPT now adds more inline images from the web to help you quickly understand…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-11-12-we-re-updating-chatgpt-s-tone-controls-so-it-s-easier-to-make-responses-sound-th-d3a253|chatgpt-2025-11-12-d3a253]]'
@@ -64,11 +64,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-21-more-images-in-answers-f12c1477|chatgpt-2025-11-21-more-images-in-answers-f12c1477]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: ChatGPT now adds more inline images from the web to help you quickly understand
+title: ChatGPT now adds more inline images from the web to help you quickly understand…
 type: change
 ---
 
-# ChatGPT now adds more inline images from the web to help you quickly understand
+# ChatGPT now adds more inline images from the web to help you quickly understand…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — More images in answers: ChatGPT now adds more inline images from the web to help you quickly understand topics like well-known people, places, and products. When visuals can add clarity, you’ll see images placed beside the relevant paragraph. You can click on any of the images to see them in original dimensions and with the source attribution.These improvements are gradually rolling out globally across all ChatGPT plans, on web, iOS, and Android for responses using GPT 5.1.

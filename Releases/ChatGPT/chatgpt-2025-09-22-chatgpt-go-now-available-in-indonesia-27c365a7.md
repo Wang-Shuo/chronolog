@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2025-09-22'
-machine_hash: 1d478ee3f8d7c587368486b90c3d719761437b3863da8c67af170a15602ea0cd
+machine_hash: e4f7a89a45500e433e259f5b290bca730b8f154439418b0c2b830ad65682ff1d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,6 +41,6 @@ Tracked cards: 3
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
 - memory: [[Changes/ChatGPT/2025-09-22-longer-memory-for-more-personalized-responses|Longer memory for more personalized responses]]
-- pricing-model: [[Changes/ChatGPT/2025-09-22-we-re-launching-chatgpt-go-our-low-cost-subscription-plan-in-indonesia-for-rp-75|We're launching ChatGPT Go, our low cost subscription plan, in Indonesia.For Rp]]
+- pricing-model: [[Changes/ChatGPT/2025-09-22-we-re-launching-chatgpt-go-our-low-cost-subscription-plan-in-indonesia-for-rp-75|ChatGPT launches ChatGPT Go, our low cost subscription plan, in Indonesia]]
 - image-generation: [[Changes/ChatGPT/2025-09-22-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]]
 <!-- chronolog:end -->

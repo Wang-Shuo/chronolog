@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4ffb7571baa2de25a5711d4c811e0ce0cd36a910b0a3d5e41692966db94c5e25
+machine_hash: 68de1cdbb9392dc9706e499b4ee14379af024f6e66b716d497e5ec4cfa12cb79
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added vim visual mode (`v`) and visual-line mode (`V`) with selection,
       operators, and visual feedback
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.118
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,7 +36,7 @@ record:
   theme: interface-experience
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Added vim visual mode (`v`) and visual-line mode (`V`) with selection, operators
+  title: Added vim visual mode (`v`) and visual-line mode (`V`) with selection, operators…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-17-ctrl-a-and-ctrl-e-now-move-to-the-start-end-of-the-current-logical-line-in-multi|claude-code-2026-04-17-a2c41c]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-23-v2-1-118-github-312487295-b3c6b04c|claude-code-2026-04-23-v2-1-118-github-312487295-b3c6b04c]]'
 source_type: github_releases
 theme: interface-experience
-title: Added vim visual mode (v) and visual-line mode (V) with selection, operators
+title: Added vim visual mode (v) and visual-line mode (V) with selection, operators…
 type: change
 ---
 
-# Added vim visual mode (`v`) and visual-line mode (`V`) with selection, operators
+# Added vim visual mode (`v`) and visual-line mode (`V`) with selection, operators…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.118: Added vim visual mode (`v`) and visual-line mode (`V`) with selection, operators, and visual feedback

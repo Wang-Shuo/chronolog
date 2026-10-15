@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-12-14'
-machine_hash: 962dfb74b56c293c0e18c39fa2b144370654251dabb441ce5588fed4c7ad52a6
+machine_hash: f67e225ea7b10a69e6b105904ec101496bb7a732e4dd38de52e84d102b84681b
 product: cursor
 product_name: Cursor
 record:
@@ -39,5 +39,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- editor-experience: [[Changes/Cursor/2023-12-14-we-made-copilot-faster-smarter-more-constrained-and-switched-to-a-ghost-text-hit|We made Copilot++ faster, smarter, more constrained, and switched to a ghost-tex]]
+- editor-experience: [[Changes/Cursor/2023-12-14-we-made-copilot-faster-smarter-more-constrained-and-switched-to-a-ghost-text-hit|We made Copilot++ faster, smarter, more constrained, and switched to a ghost-text…]]
 <!-- chronolog:end -->

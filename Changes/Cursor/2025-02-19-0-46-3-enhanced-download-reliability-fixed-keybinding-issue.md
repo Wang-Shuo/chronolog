@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 10313cf7329e5f250bea8548c117c4e72825ae063527dbd28c20f339965ab6f3
+machine_hash: 9010c054651706becf9b779f8342fa190c68c742391c075f133aa720edb68570
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: '0.46.3: Enhanced download reliability, fixed keybinding issue'
     source_release: https://cursor.com/changelog/0-46-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

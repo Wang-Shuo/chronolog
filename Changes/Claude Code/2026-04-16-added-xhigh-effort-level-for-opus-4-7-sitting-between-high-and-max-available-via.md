@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: e88cdd17cef659b92659466dda1867364db2273b0c81be7fab5d948bf9d3cf72
+machine_hash: b81b0d845eae966eac80908b74326b27b5e01935337e4d9fbf3910ffd9a7c326
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       Available via `/effort`, `--effort`, and the model picker; other models fall
       back to `high`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.111
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -50,8 +50,7 @@ record:
     score: 50
     theme: interface-experience
   theme_resolution: manual-semantic-rule-v2
-  title: Added `xhigh` effort level for Opus 4.7, sitting between `high` and `max`.
-    Avail
+  title: Added `xhigh` effort level for Opus 4.7, sitting between `high` and `max`
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-04-14-config-opens-an-interactive-settings-panel-inside-the-cli-where-you-can-view-and|cursor-2026-04-14-adcb9e]]'
@@ -60,11 +59,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78|claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78]]'
 source_type: github_releases
 theme: model-support
-title: Added xhigh effort level for Opus 4.7, sitting between high and max. Avail
+title: Added xhigh effort level for Opus 4.7, sitting between high and max
 type: change
 ---
 
-# Added `xhigh` effort level for Opus 4.7, sitting between `high` and `max`. Avail
+# Added `xhigh` effort level for Opus 4.7, sitting between `high` and `max`
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.111: Added `xhigh` effort level for Opus 4.7, sitting between `high` and `max`. Available via `/effort`, `--effort`, and the model picker; other models fall back to `high`

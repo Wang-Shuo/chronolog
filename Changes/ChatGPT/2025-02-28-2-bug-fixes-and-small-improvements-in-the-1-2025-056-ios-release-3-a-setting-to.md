@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: bcbec801bf852c80a39132e06ca6bae360829f1e2a7a38179a6e15ab238ae27e
+machine_hash: fc11767df84659c5ffaee4dbb44fca84f2f718fc3c227e56609cbebd35b713f0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: ⁠ 2⁠. Bug fixes and small improvements in the 1.2025.056 iOS release.⁠
       3⁠. A setting to allow users to auto-submit transcriptions.⁠ 1⁠. OFF by default.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -36,8 +36,7 @@ record:
   source_release: chatgpt-2025-02-28-general-ios-long-press-to-select-text-on-ios-and-moved-the-messa-04ecc8ba
   source_type: chatgpt_changelog
   theme: mobile-desktop
-  title: ⁠ 2⁠. Bug fixes and small improvements in the 1.2025.056 iOS release.⁠ 3⁠.
-    A set
+  title: Bug fixes and small improvements in the 1.2025.056 iOS release
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-02-14-confirmation-dialog-for-logging-out-ios-web|chatgpt-2025-02-14-b3e6ab]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-02-28-general-ios-long-press-to-select-text-on-ios-and-moved-the-messa-04ecc8ba|chatgpt-2025-02-28-general-ios-long-press-to-select-text-on-ios-and-moved-the-messa-04ecc8ba]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: ⁠ 2⁠. Bug fixes and small improvements in the 1.2025.056 iOS release.⁠ 3⁠.
-  A set
+title: Bug fixes and small improvements in the 1.2025.056 iOS release
 type: change
 ---
 
-# ⁠ 2⁠. Bug fixes and small improvements in the 1.2025.056 iOS release.⁠ 3⁠. A set
+# Bug fixes and small improvements in the 1.2025.056 iOS release
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — - General - iOS - Long press to select text on iOS and moved the message quick actions to always be visible below the me: ⁠ 2⁠. Bug fixes and small improvements in the 1.2025.056 iOS release.⁠ 3⁠. A setting to allow users to auto-submit transcriptions.⁠ 1⁠. OFF by default.

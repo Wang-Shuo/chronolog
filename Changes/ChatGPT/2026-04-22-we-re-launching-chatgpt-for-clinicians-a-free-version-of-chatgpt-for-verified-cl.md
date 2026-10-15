@@ -11,9 +11,9 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: c8d5552043ee0b98c4ee6c04eb3f1644577a7be980a2dddb58b33723cdb0cfde
+machine_hash: 7b2f2a9f202cfa618a36a854f18fe659576c212a04b2625eafd51ee523f85b47
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,7 +44,7 @@ record:
       more information, please see our help article ChatGPT for Clinicians or our
       blog post Making ChatGPT better for clinicians.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -62,8 +62,7 @@ record:
     score: 50
     theme: account-access
   theme_resolution: manual-semantic-rule-v1
-  title: We’re launching ChatGPT for Clinicians, a free version of ChatGPT for verified
-    c
+  title: ChatGPT launches ChatGPT for Clinicians, a free version of ChatGPT for verified…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-26-mcp-oauth-now-follows-rfc-9728-protected-resource-metadata-discovery-to-find-the|claude-code-2026-03-26-137bc1]]'
@@ -72,12 +71,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-04-22-chatgpt-for-clinicians-4ccc54d7|chatgpt-2026-04-22-chatgpt-for-clinicians-4ccc54d7]]'
 source_type: chatgpt_changelog
 theme: account-access
-title: We’re launching ChatGPT for Clinicians, a free version of ChatGPT for verified
-  c
+title: ChatGPT launches ChatGPT for Clinicians, a free version of ChatGPT for verified…
 type: change
 ---
 
-# We’re launching ChatGPT for Clinicians, a free version of ChatGPT for verified c
+# ChatGPT launches ChatGPT for Clinicians, a free version of ChatGPT for verified…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT for Clinicians: We’re launching ChatGPT for Clinicians, a free version of ChatGPT for verified clinicians in the United States. It’s designed to support real clinical work at the time of care, including evidence review, documentation, and medical research, with trusted clinical search, citations, reusable skills, deep research across medical literature, and support for earning CME credits on eligible clinical questions.If you already have a ChatGPT account, you can use that same account to sign up. After signup, ChatGPT for Clinicians appears as a separate workspace under the same login, and your existing ChatGPT workspace remains available.For more information, please see our help article ChatGPT for Clinicians or our blog post Making ChatGPT better for clinicians.

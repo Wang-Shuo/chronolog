@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 47368eba1759dfe5b85731d7ec81b7a0482fb9a5221e4c19d3fb14b0e8266bb9
+machine_hash: 1a65f7b5d0490c28365c6ea0a1a993ffffc2732171d30a29d89b41f70bf10977
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Fixed a crash in the permission dialog when an agent teams teammate requested
       tool permission
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.114
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code
@@ -47,7 +47,7 @@ record:
     theme: collaboration
   theme_resolution: manual-semantic-rule-v2
   title: Fixed a crash in the permission dialog when an agent teams teammate requested
-    to
+    tool…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-09-added-subprocess-sandboxing-with-pid-namespace-isolation-on-linux-when-claude-co|claude-code-2026-04-09-5db0ee]]'
@@ -57,11 +57,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-04-18-v2-1-114-github-3
 source_type: github_releases
 theme: safety-privacy
 title: Fixed a crash in the permission dialog when an agent teams teammate requested
-  to
+  tool…
 type: change
 ---
 
-# Fixed a crash in the permission dialog when an agent teams teammate requested to
+# Fixed a crash in the permission dialog when an agent teams teammate requested tool…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.114: Fixed a crash in the permission dialog when an agent teams teammate requested tool permission

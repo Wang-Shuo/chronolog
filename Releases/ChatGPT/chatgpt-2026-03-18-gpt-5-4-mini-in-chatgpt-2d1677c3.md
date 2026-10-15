@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-03-18'
-machine_hash: 5b3f0dabb1dbf0b70a7f9f39f9a847818dba68af3422d689fc6ac0c302b1ead6
+machine_hash: 2880da0d6efad9374a3fe71b6af7ddf60305fccf0286baf5acb315e675d48ced
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2026-03-18-we-re-rolling-out-gpt-5-4-mini-in-chatgpt-gpt-5-4-mini-is-available-to-free-and|We’re rolling out GPT-5.4 mini in ChatGPT. GPT-5.4 mini is available to Free and]]
+- model-support: [[Changes/ChatGPT/2026-03-18-we-re-rolling-out-gpt-5-4-mini-in-chatgpt-gpt-5-4-mini-is-available-to-free-and|ChatGPT rolls out GPT-5.4 mini]]
 <!-- chronolog:end -->

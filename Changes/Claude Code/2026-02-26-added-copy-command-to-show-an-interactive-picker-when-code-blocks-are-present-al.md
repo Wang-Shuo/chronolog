@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 928bd050661f84914fb3ba4440ebfb1ce82ca6bbd82077351182f40108cd6418
+machine_hash: 1973b442ebfc63fb9ce0b757a7e9e9136f8d2bb764a9e38bad7e2bc66ba84786
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Added `/copy` command to show an interactive picker when code blocks are
       present, allowing selection of individual code blocks or the full response.
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.59
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,7 +36,7 @@ record:
   source_type: github_releases
   theme: interface-experience
   title: Added `/copy` command to show an interactive picker when code blocks are
-    present
+    present…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-02-18-typing-plan-takes-you-back-to-your-current-plan-and-its-action-menu-we-ve-also-a|cursor-2026-02-18-3dde98]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-02-26-v2-1-59-github-290659389-9e2d6217|claude-code-2026-02-26-v2-1-59-github-290659389-9e2d6217]]'
 source_type: github_releases
 theme: interface-experience
-title: Added /copy command to show an interactive picker when code blocks are present
+title: Added /copy command to show an interactive picker when code blocks are present…
 type: change
 ---
 
-# Added `/copy` command to show an interactive picker when code blocks are present
+# Added `/copy` command to show an interactive picker when code blocks are present…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.59: Added `/copy` command to show an interactive picker when code blocks are present, allowing selection of individual code blocks or the full response.

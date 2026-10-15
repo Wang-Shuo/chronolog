@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3a6cc789d4a9ea6043280c9950354ef96814497f88600ea2f704dfb60b8aac5a
+machine_hash: d2f15b1e070c41b820b7a8f61cead10885a0c327d6c89eb75ae4369bc6ce78ad
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Always-on cloud agents that build, test, and ship code while you keep working.
     source_release: https://cursor.com/changelog/cursor-start
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -33,7 +33,7 @@ record:
   source_release: cursor-2026-07-28-cursor-start-https-cursor-com-changelog-cursor-start-386914df
   source_type: cursor_changelog
   theme: agent-mode
-  title: Always-on cloud agents that build, test, and ship code while you keep working.
+  title: Always-on cloud agents that build, test, and ship code while you keep working
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-07-17-cursor-now-responds-with-a-plan-before-it-begins-so-you-can-jump-in-and-redirect|cursor-2026-07-17-18d779]]'
@@ -42,11 +42,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-07-28-cursor-start-https-cursor-com-changelog-cursor-start-386914df|cursor-2026-07-28-cursor-start-https-cursor-com-changelog-cursor-start-386914df]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: Always-on cloud agents that build, test, and ship code while you keep working.
+title: Always-on cloud agents that build, test, and ship code while you keep working
 type: change
 ---
 
-# Always-on cloud agents that build, test, and ship code while you keep working.
+# Always-on cloud agents that build, test, and ship code while you keep working
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cursor Start: Always-on cloud agents that build, test, and ship code while you keep working.

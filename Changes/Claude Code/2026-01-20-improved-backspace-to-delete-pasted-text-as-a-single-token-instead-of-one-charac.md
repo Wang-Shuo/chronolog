@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: c8e2902c6dd9288a6080f60b78b72515f982cde82a42e7e1442f1235e39e92c2
+machine_hash: 99e7f23b57d863e4560e1ddd6872a586d4b0556622cb4a42249bb2d77e23f92f
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Improved backspace to delete pasted text as a single token instead of one
       character at a time
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.14
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: Improved backspace to delete pasted text as a single token instead of one
-    charac
+    character…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-09-added-shift-tab-keyboard-shortcut-in-plan-mode-to-quickly-select-auto-accept-edi|claude-code-2026-01-09-8256d2]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-01-20-v2-1-14-github-278458927-a7d53111|claude-code-2026-01-20-v2-1-14-github-278458927-a7d53111]]'
 source_type: github_releases
 theme: interface-experience
-title: Improved backspace to delete pasted text as a single token instead of one charac
+title: Improved backspace to delete pasted text as a single token instead of one character…
 type: change
 ---
 
-# Improved backspace to delete pasted text as a single token instead of one charac
+# Improved backspace to delete pasted text as a single token instead of one character…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.14: Improved backspace to delete pasted text as a single token instead of one character at a time

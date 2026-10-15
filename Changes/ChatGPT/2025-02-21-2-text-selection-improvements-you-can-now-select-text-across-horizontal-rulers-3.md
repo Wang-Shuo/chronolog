@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: f8cbbc00c5b3ca4c58314b4e86ee27249d13760fbbefef082f7715a2902ba832
+machine_hash: b7cf0e4b8226fbeae58d551d9082b2934f8cf7befbb33a683bf0c4001cad19f9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
       Conversation history and GPTs show up faster. 4. Bug fix for logged-out users:
       401s when dismissing tooltips. 401s logging out users on Android.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -54,8 +54,7 @@ record:
     - model
     score: 50
     theme: model-support
-  title: '2⁠. Text selection improvements: you can now select text across horizontal
-    ruler'
+  title: 'Text selection improvements: you can now select text across horizontal rulers'
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-09-17-apply-and-composer-are-slightly-faster-in-this-release|cursor-2024-09-17-178242]]'
@@ -64,12 +63,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-02-21-1-6b86b273|chatgpt-2025-02-21-1-6b86b273]]'
 source_type: chatgpt_changelog
 theme: reliability-performance
-title: '2⁠. Text selection improvements: you can now select text across horizontal
-  ruler'
+title: 'Text selection improvements: you can now select text across horizontal rulers'
 type: change
 ---
 
-# 2⁠. Text selection improvements: you can now select text across horizontal ruler
+# Text selection improvements: you can now select text across horizontal rulers
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — 1⁠.: 2⁠. Text selection improvements: you can now select text across horizontal rulers. 3. Performance improvements: Improved model header loading behavior. Conversation history and GPTs show up faster. 4. Bug fix for logged-out users: 401s when dismissing tooltips. 401s logging out users on Android.

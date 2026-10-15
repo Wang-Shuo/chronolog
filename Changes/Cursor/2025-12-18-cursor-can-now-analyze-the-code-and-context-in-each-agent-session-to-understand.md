@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 39ae88b3a2809b253c4cbb3ff9d649ed570055f140a2cd93dfee03f706775c4e
+machine_hash: 5f7356a8cd2fa4ce5b342cdb762a715468ca967876868609f7b5cdd3d412bc60
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
   - quote: 'Cursor can now analyze the code and context in each agent session to understand
       the type of work that is being done, including:'
     source_release: https://cursor.com/changelog/enterprise-dec-2025
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -47,7 +47,7 @@ record:
     score: 50
     theme: context-window
   theme_resolution: manual-semantic-rule-v1
-  title: Cursor can now analyze the code and context in each agent session to understand
+  title: Cursor can now analyze the code and context in each agent session to understand…
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-08-06-agents-are-significantly-improved-when-operating-across-large-codebases-context|cursor-2025-08-06-b4a9ac]]'
@@ -56,11 +56,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-12-18-enterprise-insights-billing-groups-service-accounts-and-improved-23eccccb|cursor-2025-12-18-enterprise-insights-billing-groups-service-accounts-and-improved-23eccccb]]'
 source_type: cursor_changelog
 theme: context-window
-title: Cursor can now analyze the code and context in each agent session to understand
+title: Cursor can now analyze the code and context in each agent session to understand…
 type: change
 ---
 
-# Cursor can now analyze the code and context in each agent session to understand
+# Cursor can now analyze the code and context in each agent session to understand…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Enterprise Insights, Billing Groups, Service Accounts, and Improved Security Controls: Cursor can now analyze the code and context in each agent session to understand the type of work that is being done, including:

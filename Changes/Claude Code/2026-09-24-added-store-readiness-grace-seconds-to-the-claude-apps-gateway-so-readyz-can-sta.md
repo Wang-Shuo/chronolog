@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5906d67a0df208fbcc9a777147c8c38638be268a04219a1df2e7f1f62bb9e599
+machine_hash: 67f2f74574a9689f73b3c68a404f52eb32a96d72dc4da927de889ab9380d5358
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Added `store.readiness_grace_seconds` to the Claude apps gateway so `/readyz`
       can stay ready through a short Postgres outage such as a database failover
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.282
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,7 +36,7 @@ record:
   source_type: github_releases
   theme: apps-integrations
   title: Added `store.readiness_grace_seconds` to the Claude apps gateway so `/readyz`
-    ca
+    can…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-22-added-claude-code-max-mcp-description-length-to-change-the-2-048-character-cap-o|claude-code-2026-09-22-e69314]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-24-v2-1-282-github-395840120-957e42c4|claude-code-2026-09-24-v2-1-282-github-395840120-957e42c4]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added store.readiness_grace_seconds to the Claude apps gateway so /readyz ca
+title: Added store.readiness_grace_seconds to the Claude apps gateway so /readyz can…
 type: change
 ---
 
-# Added `store.readiness_grace_seconds` to the Claude apps gateway so `/readyz` ca
+# Added `store.readiness_grace_seconds` to the Claude apps gateway so `/readyz` can…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.282: Added `store.readiness_grace_seconds` to the Claude apps gateway so `/readyz` can stay ready through a short Postgres outage such as a database failover

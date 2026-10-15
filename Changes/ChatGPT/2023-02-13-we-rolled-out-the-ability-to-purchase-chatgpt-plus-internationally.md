@@ -11,9 +11,9 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f00c85d31e2240f32b05d6824ee0d3208f553280c268313e21dc700b000b8cd2
+machine_hash: fd327b9222596a0edc2d6d982b3696add9bb3bc7c9e086880a739022bdb86fb1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: We rolled out the ability to purchase ChatGPT Plus internationally.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -35,18 +35,18 @@ record:
   theme: pricing-model
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: We rolled out the ability to purchase ChatGPT Plus internationally.
+  title: We rolled out the ability to purchase ChatGPT Plus internationally
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|chatgpt-2022-12-15-6d306d]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-02-13-updates-to-chatgpt-0d776ee3|chatgpt-2023-02-13-updates-to-chatgpt-0d776ee3]]'
 source_type: chatgpt_changelog
 theme: pricing-model
-title: We rolled out the ability to purchase ChatGPT Plus internationally.
+title: We rolled out the ability to purchase ChatGPT Plus internationally
 type: change
 ---
 
-# We rolled out the ability to purchase ChatGPT Plus internationally.
+# We rolled out the ability to purchase ChatGPT Plus internationally
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Updates to ChatGPT: We rolled out the ability to purchase ChatGPT Plus internationally.

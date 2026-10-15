@@ -11,9 +11,9 @@ diffusion:
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 09e7ba306b9fcbc65651bd8017526c4165d6ab30cbc34f2a186d9cafb04250b3
+machine_hash: 506151757ea11ec693f966357c1b681a071c650283e99a6209135354b70f0e6d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       content, excluding surrounding interface elements for cleaner copying and sharing
       of chat transcripts.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -37,8 +37,7 @@ record:
   source_release: chatgpt-2026-02-13-chatgpt-updates-better-file-uploads-easier-copying-and-more-reli-e2c69aa0
   source_type: chatgpt_changelog
   theme: collaboration
-  title: Cleaner “Select All” behavior (Cmd+A). Cmd+A now selects only the conversation
-    c
+  title: Cleaner “Select All” behavior (Cmd+A)
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-11-25-share-photos-to-discuss-them-out-loud|chatgpt-2025-11-25-e1251e]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-13-chatgpt-updates-better-file-uploads-easier-copying-and-more-reli-e2c69aa0|chatgpt-2026-02-13-chatgpt-updates-better-file-uploads-easier-copying-and-more-reli-e2c69aa0]]'
 source_type: chatgpt_changelog
 theme: collaboration
-title: Cleaner “Select All” behavior (Cmd+A). Cmd+A now selects only the conversation
-  c
+title: Cleaner “Select All” behavior (Cmd+A)
 type: change
 ---
 
-# Cleaner “Select All” behavior (Cmd+A). Cmd+A now selects only the conversation c
+# Cleaner “Select All” behavior (Cmd+A)
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT updates: Better file uploads, easier copying, and more reliable long chats: Cleaner “Select All” behavior (Cmd+A). Cmd+A now selects only the conversation content, excluding surrounding interface elements for cleaner copying and sharing of chat transcripts.

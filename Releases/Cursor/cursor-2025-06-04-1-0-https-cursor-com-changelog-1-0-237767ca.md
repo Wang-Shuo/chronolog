@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2025-06-04'
-machine_hash: e675e72bed15fcddbb18e87fb5d9b737208a88d7f8ccf30815408deeee9edb14
+machine_hash: 9c54bb0421a93e77bfb53ee11fc56951cbc29378d84de6795f87bfc74b1be697
 product: cursor
 product_name: Cursor
 record:
@@ -38,9 +38,9 @@ Tracked cards: 5
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- developer-workflow: [[Changes/Cursor/2025-06-04-bugbot-automatically-reviews-your-prs-and-catches-potential-bugs-and-issues|Bugbot automatically reviews your PRs and catches potential bugs and issues.]]
-- agent-mode: [[Changes/Cursor/2025-06-04-this-release-brings-bugbot-for-code-review-a-first-look-at-memories-one-click-mc|This release brings Bugbot for code review, a first look at memories, one-click]]
-- agent-mode: [[Changes/Cursor/2025-06-04-since-we-released-background-agent-our-remote-coding-agent-in-early-access-a-few|Since we released Background Agent, our remote coding agent, in early access a f]]
-- editor-experience: [[Changes/Cursor/2025-06-04-when-an-issue-is-found-bugbot-leaves-a-comment-on-your-prs-in-github-you-can-cli|When an issue is found, Bugbot leaves a comment on your PRs in GitHub. You can c]]
-- safety-privacy: [[Changes/Cursor/2025-06-04-we-re-now-excited-to-expand-background-agent-to-all-users-you-can-start-using-it|We're now excited to expand Background Agent to all users! You can start using i]]
+- developer-workflow: [[Changes/Cursor/2025-06-04-bugbot-automatically-reviews-your-prs-and-catches-potential-bugs-and-issues|Bugbot automatically reviews your PRs and catches potential bugs and issues]]
+- agent-mode: [[Changes/Cursor/2025-06-04-this-release-brings-bugbot-for-code-review-a-first-look-at-memories-one-click-mc|Cursor brings Bugbot for code review, a first look at memories, one-click MCP setup…]]
+- agent-mode: [[Changes/Cursor/2025-06-04-since-we-released-background-agent-our-remote-coding-agent-in-early-access-a-few|Since we released Background Agent, our remote coding agent, in early access a few…]]
+- editor-experience: [[Changes/Cursor/2025-06-04-when-an-issue-is-found-bugbot-leaves-a-comment-on-your-prs-in-github-you-can-cli|When an issue is found, Bugbot leaves a comment on your PRs in GitHub]]
+- safety-privacy: [[Changes/Cursor/2025-06-04-we-re-now-excited-to-expand-background-agent-to-all-users-you-can-start-using-it|Cursor expands Background Agent to all users!]]
 <!-- chronolog:end -->

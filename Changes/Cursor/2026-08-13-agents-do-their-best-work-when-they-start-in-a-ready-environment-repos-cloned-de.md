@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ad9a8073112fedc33b30f7c851caa26bcf8738229d0bf99cecec3212c9ad6e33
+machine_hash: ae9d7544a72007683a2185b2d3e5096c2822a074575bb9d33b7db1a590eba1e0
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: 'Agents do their best work when they start in a ready environment: repos
       cloned, dependencies installed, and your install script already run.'
     source_release: https://cursor.com/changelog/08-13-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,8 +35,7 @@ record:
   source_release: cursor-2026-08-13-cloud-agents-start-3x-faster-with-builds-https-cursor-com-change-f8f503a3
   source_type: cursor_changelog
   theme: agent-mode
-  title: 'Agents do their best work when they start in a ready environment: repos
-    cloned,'
+  title: Agents do their best work when they start in a ready environment
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-13-subagent-forking-is-now-on-by-default-a-subagent-type-fork-subagent-inherits-the|claude-code-2026-08-13-bbdff3]]'
@@ -45,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-08-13-cloud-agents-start-3x-faster-with-builds-https-cursor-com-change-f8f503a3|cursor-2026-08-13-cloud-agents-start-3x-faster-with-builds-https-cursor-com-change-f8f503a3]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: 'Agents do their best work when they start in a ready environment: repos cloned,'
+title: Agents do their best work when they start in a ready environment
 type: change
 ---
 
-# Agents do their best work when they start in a ready environment: repos cloned,
+# Agents do their best work when they start in a ready environment
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cloud Agents Start 3x Faster with Builds: Agents do their best work when they start in a ready environment: repos cloned, dependencies installed, and your install script already run.

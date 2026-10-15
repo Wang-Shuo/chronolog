@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: b1d75236968fc09c485dbd8c8777eae7fec0b39f89dfa8b670bb756a8ee38ef5
+machine_hash: f0ee25919c993145d0bd75b471326750e7ca6c916dd466dee54ec0c7657b87a9
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
       environment similar to the setup on your laptop: cloned repositories, installed
       dependencies, credentials for internal toolchains, and access to build systems.'
     source_release: https://cursor.com/changelog/05-13-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,8 +37,7 @@ record:
   source_release: cursor-2026-05-13-3-4-https-cursor-com-changelog-05-13-26-685b1c4c
   source_type: cursor_changelog
   theme: agent-mode
-  title: To take engineering tasks from start to finish, agents need a development
-    enviro
+  title: To take engineering tasks from start to finish, agents need a development…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-12-improved-agent-tool-subagent-type-matching-to-accept-case-and-separator-insensit|claude-code-2026-05-12-294863]]'
@@ -47,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-05-13-3-4-https-cursor-com-changelog-05-13-26-685b1c4c|cursor-2026-05-13-3-4-https-cursor-com-changelog-05-13-26-685b1c4c]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: To take engineering tasks from start to finish, agents need a development enviro
+title: To take engineering tasks from start to finish, agents need a development…
 type: change
 ---
 
-# To take engineering tasks from start to finish, agents need a development enviro
+# To take engineering tasks from start to finish, agents need a development…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Development environments for cloud agents: To take engineering tasks from start to finish, agents need a development environment similar to the setup on your laptop: cloned repositories, installed dependencies, credentials for internal toolchains, and access to build systems.

@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 426c254df6759d13959b2b54f54db450ddaa0108aa36d44797c812b129276011
+machine_hash: 42c7b97ca884889952d6ff8e24a55809398866b24f930181345337a70871a9f7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: All tasks are faster and more reliable.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -33,7 +33,7 @@ record:
   source_release: chatgpt-2026-06-17-scheduled-tasks-in-chatgpt-b8005b4a
   source_type: chatgpt_changelog
   theme: reliability-performance
-  title: All tasks are faster and more reliable.
+  title: All tasks are faster and more reliable
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-12-background-sessions-now-show-clearer-guidance-when-a-window-left-open-across-an|claude-code-2026-06-12-59f62e]]'
@@ -42,11 +42,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-17-scheduled-tasks-in-chatgpt-b8005b4a|chatgpt-2026-06-17-scheduled-tasks-in-chatgpt-b8005b4a]]'
 source_type: chatgpt_changelog
 theme: reliability-performance
-title: All tasks are faster and more reliable.
+title: All tasks are faster and more reliable
 type: change
 ---
 
-# All tasks are faster and more reliable.
+# All tasks are faster and more reliable
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Scheduled tasks in ChatGPT: All tasks are faster and more reliable.

@@ -11,9 +11,9 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 125e7cb1875fc0b14b3460fc73614db49c405c6bcf0663a8bf9014b04c748f82
+machine_hash: ae2d71f976b1a97b44c0a520ab9845d7766ddc8ecd739702c2d4b40b87a0c0c9
 product: claude-code
 product_name: Claude Code
 record:
@@ -31,7 +31,7 @@ record:
       MCP servers from the CLI without opening the interactive `/mcp` menu, with `--no-browser`
       stdin redirect support for completing over SSH
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.186
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -54,7 +54,7 @@ record:
     theme: interface-experience
   theme_resolution: manual-semantic-rule-v1
   title: Added `claude mcp login <name>` and `claude mcp logout <name>` to authenticate
-    M
+    MCP…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-06-02-active-sessions-shows-sessions-known-through-session-management-including-chatgp|chatgpt-2026-06-02-4822a8]]'
@@ -63,11 +63,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-22-v2-1-186-github-343079393-93ecc37b|claude-code-2026-06-22-v2-1-186-github-343079393-93ecc37b]]'
 source_type: github_releases
 theme: account-access
-title: Added claude mcp login name and claude mcp logout name to authenticate M
+title: Added claude mcp login name and claude mcp logout name to authenticate MCP…
 type: change
 ---
 
-# Added `claude mcp login <name>` and `claude mcp logout <name>` to authenticate M
+# Added `claude mcp login <name>` and `claude mcp logout <name>` to authenticate MCP…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.186: Added `claude mcp login <name>` and `claude mcp logout <name>` to authenticate MCP servers from the CLI without opening the interactive `/mcp` menu, with `--no-browser` stdin redirect support for completing over SSH

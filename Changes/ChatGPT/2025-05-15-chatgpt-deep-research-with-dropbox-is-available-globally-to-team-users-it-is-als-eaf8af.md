@@ -11,9 +11,9 @@ diffusion:
   theme: search-browsing
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: aa03d115228338740d1066d1e4a992ba1e5bd300adaaf596768ed520b7c348ed
+machine_hash: 97e58ad8b6d39ab32fe706470de268910b506e8b7a40245ec42274273d1fd06b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       the EEA, Switzerland, and the UK. Enterprise user access will be announced at
       a later date.See: Connect apps to ChatGPT deep research'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -57,8 +57,7 @@ record:
     score: 50
     theme: enterprise-admin
   theme_resolution: manual-semantic-rule-v1
-  title: ChatGPT deep research with Dropbox is available globally to Team users. It
-    is al
+  title: ChatGPT deep research with Dropbox is available globally to Team users
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-05-08-chatgpt-deep-research-with-github-is-available-globally-to-team-users-it-is-also-ad2e25|chatgpt-2025-05-08-ad2e25]]'
@@ -67,12 +66,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-15-dropbox-connector-for-deep-research-for-plus-pro-team-25e1576a|chatgpt-2025-05-15-dropbox-connector-for-deep-research-for-plus-pro-team-25e1576a]]'
 source_type: chatgpt_changelog
 theme: search-browsing
-title: ChatGPT deep research with Dropbox is available globally to Team users. It
-  is al
+title: ChatGPT deep research with Dropbox is available globally to Team users
 type: change
 ---
 
-# ChatGPT deep research with Dropbox is available globally to Team users. It is al
+# ChatGPT deep research with Dropbox is available globally to Team users
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Dropbox connector for deep research for Plus/Pro/Team: ChatGPT deep research with Dropbox is available globally to Team users. It is also gradually rolling out to Plus and Pro users, except for those in the EEA, Switzerland, and the UK. Enterprise user access will be announced at a later date.See: Connect apps to ChatGPT deep research

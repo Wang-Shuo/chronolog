@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d2b347e0de6a798ade27b5e904b3027bb2afcf99484e65fef631de9a5c60ff2d
+machine_hash: 67e2b1f1cb390f4532cb1b5c265e0d501b90f7feaa6aa4b35ca6cccdb3c4d5c2
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Chat history has moved into the command palette. You can access it from
       the “Show history button” in Chat as well as through the Show Chat History command.
     source_release: https://cursor.com/changelog/0-49
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,8 +37,7 @@ record:
   theme: interface-experience
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Chat history has moved into the command palette. You can access it from the
-    “Sho
+  title: Chat history has moved into the command palette
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-02-19-0-46-3-enhanced-download-reliability-fixed-keybinding-issue|cursor-2025-02-19-686f4b]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f|cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f]]'
 source_type: cursor_changelog
 theme: interface-experience
-title: Chat history has moved into the command palette. You can access it from the
-  “Sho
+title: Chat history has moved into the command palette
 type: change
 ---
 
-# Chat history has moved into the command palette. You can access it from the “Sho
+# Chat history has moved into the command palette
 
 <!-- chronolog:begin region="description" -->
 Cursor — Rules generation, improved agent terminal and MCP images: Chat history has moved into the command palette. You can access it from the “Show history button” in Chat as well as through the Show Chat History command.

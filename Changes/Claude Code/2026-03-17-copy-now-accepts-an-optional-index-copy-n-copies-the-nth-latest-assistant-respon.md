@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8987452f81ad48cab9d24454dc067dbb0b6e33f01c4bcfb7160b921d5b8b9602
+machine_hash: e3762c11181123be93ac956a280250b57cd48de862ec55338a273aeb2c78e5b5
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: '`/copy` now accepts an optional index: `/copy N` copies the Nth-latest
       assistant response'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.77
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,7 +36,8 @@ record:
   theme: interface-experience
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: '`/copy` now accepts an optional index: `/copy N` copies the Nth-latest assistant'
+  title: '`/copy` now accepts an optional index: `/copy N` copies the Nth-latest assistant
+    response'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-11-improved-up-arrow-after-interrupting-claude-now-restores-the-interrupted-prompt|claude-code-2026-03-11-06b3d2]]'
@@ -45,11 +46,12 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-17-v2-1-77-github-297726061-caf6c30c|claude-code-2026-03-17-v2-1-77-github-297726061-caf6c30c]]'
 source_type: github_releases
 theme: interface-experience
-title: '/copy now accepts an optional index: /copy N copies the Nth-latest assistant'
+title: '/copy now accepts an optional index: /copy N copies the Nth-latest assistant
+  response'
 type: change
 ---
 
-# `/copy` now accepts an optional index: `/copy N` copies the Nth-latest assistant
+# `/copy` now accepts an optional index: `/copy N` copies the Nth-latest assistant response
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.77: `/copy` now accepts an optional index: `/copy N` copies the Nth-latest assistant response

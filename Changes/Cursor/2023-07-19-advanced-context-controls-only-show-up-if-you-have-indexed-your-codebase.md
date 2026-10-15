@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 806658270b42da813d7fd69a10f967e22449d248fc4eda129d79651e08ecf3f0
+machine_hash: 5d91dc450e7cffc7acc75840be48210da0dcb5d440e7237210bf6ecb29e1e4e8
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Advanced context controls only show up if you have indexed your codebase
     source_release: https://cursor.com/changelog/0-2-50
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

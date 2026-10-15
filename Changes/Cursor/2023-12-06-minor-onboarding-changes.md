@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: b2cb75222bca4ec89e9f116a6111ecf11d7b5d0db17ca8f446b379f8c01af6b4
+machine_hash: 77f6cfc640f33a877d7d97fee357961cdd733e76ca825d33577ccff57c28cfa2
 product: cursor
 product_name: Cursor
 record:
@@ -24,7 +24,7 @@ record:
   evidence:
   - quote: Minor onboarding changes.
     source_release: https://cursor.com/changelog/0-18-4-0-18-5
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -34,7 +34,7 @@ record:
   theme: interface-experience
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Minor onboarding changes.
+  title: Minor onboarding changes
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-11-12-copilot-improvements-includes-green-highlights-to-see-what-copilot-has-added-the|cursor-2023-11-12-a02042]]'
@@ -43,11 +43,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-12-06-0-18-4-0-18-5-https-cursor-com-changelog-0-18-4-0-18-5-d1de0931|cursor-2023-12-06-0-18-4-0-18-5-https-cursor-com-changelog-0-18-4-0-18-5-d1de0931]]'
 source_type: cursor_changelog
 theme: interface-experience
-title: Minor onboarding changes.
+title: Minor onboarding changes
 type: change
 ---
 
-# Minor onboarding changes.
+# Minor onboarding changes
 
 <!-- chronolog:begin region="description" -->
 Cursor — Onboarding & Feedback: Minor onboarding changes.

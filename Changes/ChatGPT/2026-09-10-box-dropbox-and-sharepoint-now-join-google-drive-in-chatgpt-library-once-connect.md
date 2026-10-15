@@ -11,9 +11,9 @@ diffusion:
   theme: search-browsing
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 31fb52a9196369acaeb7759b18d8ad5311beccb6b3f2bf70783af26fff3859c0
+machine_hash: 4fbc36b705c2e2a614aa4eae083bfbda698a277f38b220bbb98c529cc42db80c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,7 +44,7 @@ record:
       across the files it contains. Your content stays connected to their original
       source, so it’s easy to return to the original.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -52,8 +52,7 @@ record:
   source_release: chatgpt-2026-09-10-box-dropbox-and-sharepoint-are-now-in-library-e089c018
   source_type: chatgpt_changelog
   theme: search-browsing
-  title: Box, Dropbox, and SharePoint now join Google Drive in ChatGPT Library. Once
-    conn
+  title: Box, Dropbox, and SharePoint now join Google Drive in ChatGPT Library
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-17-added-a-session-wide-limit-on-websearch-tool-calls-default-200-tunable-via-claud|claude-code-2026-07-17-ec921c]]'
@@ -62,12 +61,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-10-box-dropbox-and-sharepoint-are-now-in-library-e089c018|chatgpt-2026-09-10-box-dropbox-and-sharepoint-are-now-in-library-e089c018]]'
 source_type: chatgpt_changelog
 theme: search-browsing
-title: Box, Dropbox, and SharePoint now join Google Drive in ChatGPT Library. Once
-  conn
+title: Box, Dropbox, and SharePoint now join Google Drive in ChatGPT Library
 type: change
 ---
 
-# Box, Dropbox, and SharePoint now join Google Drive in ChatGPT Library. Once conn
+# Box, Dropbox, and SharePoint now join Google Drive in ChatGPT Library
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Box, Dropbox, and SharePoint are now in Library: Box, Dropbox, and SharePoint now join Google Drive in ChatGPT Library. Once connected, you can browse and search available files and folders, then add the files you need to a conversation through Add from Library or @mentions—without uploading them again. You can review supported file previews beside the conversation and follow citations back to the source as you work.When you’re working with a file, you can now keep Box, Dropbox, and SharePoint files open beside the conversation while asking ChatGPT to summarize, analyze, compare, or create something new from them. You can also select a folder and ask ChatGPT to work across the files it contains. Your content stays connected to their original source, so it’s easy to return to the original.

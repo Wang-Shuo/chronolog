@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2024-11-24'
-machine_hash: 5adff63d317afa605efa167548e31f585a6ff14a810934785016b45529e141dc
+machine_hash: 9d8a97bd5c10ccf331a9b8fb69b8b289fa7765e9a0b8a22ebef80a12f7fcb654
 product: cursor
 product_name: Cursor
 record:
@@ -42,5 +42,5 @@ Tracked cards: 5
 - developer-workflow: [[Changes/Cursor/2024-11-24-generation-of-git-commit-messages|Generation of git commit messages]]
 - interface-experience: [[Changes/Cursor/2024-11-24-composer-ui-in-the-sidebar-with-inline-diffs|Composer UI in the sidebar with inline diffs]]
 - context-window: [[Changes/Cursor/2024-11-24-file-pill-recommendations-in-chat-composer|File pill recommendations in chat/composer]]
-- context-window: [[Changes/Cursor/2024-11-24-early-version-of-an-agent-in-composer-that-can-pick-its-own-context-and-use-the|Early version of an agent in composer that can pick its own context and use the]]
+- context-window: [[Changes/Cursor/2024-11-24-early-version-of-an-agent-in-composer-that-can-pick-its-own-context-and-use-the|Early version of an agent in composer that can pick its own context and use the terminal]]
 <!-- chronolog:end -->

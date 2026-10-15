@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 00c2fb4f4dd6b47111af3b54a225e6e2e5eb000e72767d7ea2ea3e5fc934f3e2
+machine_hash: 63a8ec3e491c485900f8032594006fca44a2f4768dfb04105690ed236de08536
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
       keybindings for quick navigation and organization. Your setup also persists
       across sessions.
     source_release: https://cursor.com/changelog/3-1
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -47,7 +47,7 @@ record:
     theme: interface-experience
   theme_resolution: manual-semantic-rule-v1
   title: Expand panes to focus on a conversation, drag agents into tiles, and use
-    keybind
+    keybindings…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-08-added-refreshinterval-status-line-setting-to-re-run-the-status-line-command-ever|claude-code-2026-04-08-b4a749]]'
@@ -56,11 +56,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313|cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313]]'
 source_type: cursor_changelog
 theme: interface-experience
-title: Expand panes to focus on a conversation, drag agents into tiles, and use keybind
+title: Expand panes to focus on a conversation, drag agents into tiles, and use keybindings…
 type: change
 ---
 
-# Expand panes to focus on a conversation, drag agents into tiles, and use keybind
+# Expand panes to focus on a conversation, drag agents into tiles, and use keybindings…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Tiled Layout and Upgraded Voice Input in the Agents Window: Expand panes to focus on a conversation, drag agents into tiles, and use keybindings for quick navigation and organization. Your setup also persists across sessions.

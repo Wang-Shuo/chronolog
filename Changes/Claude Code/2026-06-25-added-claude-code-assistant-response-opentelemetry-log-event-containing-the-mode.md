@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: c33579a99f405ef40781d55704dfe23e4e97ba8c6f7aaba4f8c607a5876c8837
+machine_hash: da9d4eb72063f51686e9d49e76f9bb78adca86dc606a933335bb4f2e02baa51e
 product: claude-code
 product_name: Claude Code
 record:
@@ -34,7 +34,7 @@ record:
       already log prompt content will start receiving response content on upgrade
       — set `OTEL_LOG_ASSISTANT_RESPONSES=0` to keep prompts-only.
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.193
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -42,8 +42,7 @@ record:
   source_release: claude-code-2026-06-25-v2-1-193-github-344922230-0655000d
   source_type: github_releases
   theme: model-support
-  title: Added `claude_code.assistant_response` OpenTelemetry log event containing
-    the mo
+  title: Added `claude_code.assistant_response` OpenTelemetry log event containing…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-12-added-enforceavailablemodels-managed-setting-when-enabled-the-availablemodels-al|claude-code-2026-06-12-f8c57e]]'
@@ -52,12 +51,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-25-v2-1-193-github-344922230-0655000d|claude-code-2026-06-25-v2-1-193-github-344922230-0655000d]]'
 source_type: github_releases
 theme: model-support
-title: Added claude_code.assistant_response OpenTelemetry log event containing the
-  mo
+title: Added claude_code.assistant_response OpenTelemetry log event containing…
 type: change
 ---
 
-# Added `claude_code.assistant_response` OpenTelemetry log event containing the mo
+# Added `claude_code.assistant_response` OpenTelemetry log event containing…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.193: Added `claude_code.assistant_response` OpenTelemetry log event containing the model's response text. Redacted unless `OTEL_LOG_ASSISTANT_RESPONSES=1`; when that var is unset it follows `OTEL_LOG_USER_PROMPTS`, so deployments that already log prompt content will start receiving response content on upgrade — set `OTEL_LOG_ASSISTANT_RESPONSES=0` to keep prompts-only.

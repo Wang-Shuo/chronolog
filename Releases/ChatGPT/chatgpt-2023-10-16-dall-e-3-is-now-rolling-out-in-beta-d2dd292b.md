@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-10-16'
-machine_hash: 7adac3ae93279f06912e189b9333c803699110d72523b6c74dbf63828ec7d614
+machine_hash: 3cc28d5b94b40ef25b9d00fefe16418a37f56b4e9da9c7380f8cd17fba3c712c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2023-10-16-we-ve-integrated-dall-e-3-with-chatgpt-allowing-it-to-respond-to-your-requests-w-ad3caf|We’ve integrated DALL·E 3 with ChatGPT, allowing it to respond to your requests]]
+- model-support: [[Changes/ChatGPT/2023-10-16-we-ve-integrated-dall-e-3-with-chatgpt-allowing-it-to-respond-to-your-requests-w-ad3caf|We’ve integrated DALL·E 3 with ChatGPT, allowing it to respond to your requests…]]
 <!-- chronolog:end -->

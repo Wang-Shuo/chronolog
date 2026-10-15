@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3e464bef5a7c8cd0c26cd3d23497e9c5f274e4c3028203b5b1a716e1b55a4cbe
+machine_hash: 5f2606f8c9d233ceeab6de6c9cfa039b0f4f1c2de1e00615321eef12d43011d8
 product: claude-code
 product_name: Claude Code
 record:
@@ -24,7 +24,7 @@ record:
   evidence:
   - quote: Improved IDE detection speed at startup
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.73
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

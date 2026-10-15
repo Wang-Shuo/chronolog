@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: e92d85c5e8527749f9d15e1ef1aab4a30e5b13fa457005288572b79e88faa66b
+machine_hash: eda42379bf0a0e385b33bb32993cb6193c5fef5c7e487d6493ee212b11a2fc94
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       to create new group chats, turn existing conversations into group chats, or
       join a group chat through an invite link.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -40,7 +40,7 @@ record:
   source_type: chatgpt_changelog
   theme: mobile-desktop
   title: Beginning July 9, users on web, iOS, and Android will no longer be able to
-    creat
+    create…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-06-29-cursor-for-ios-is-now-available-in-public-beta-on-all-paid-plans-launch-and-mana|cursor-2026-06-29-6ebb5e]]'
@@ -50,11 +50,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-retiring-group-chats-in-c
 source_type: chatgpt_changelog
 theme: mobile-desktop
 title: Beginning July 9, users on web, iOS, and Android will no longer be able to
-  creat
+  create…
 type: change
 ---
 
-# Beginning July 9, users on web, iOS, and Android will no longer be able to creat
+# Beginning July 9, users on web, iOS, and Android will no longer be able to create…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Retiring group chats in ChatGPT: Beginning July 9, users on web, iOS, and Android will no longer be able to create new group chats, turn existing conversations into group chats, or join a group chat through an invite link.

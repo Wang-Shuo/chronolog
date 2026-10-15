@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 536338778baf55cb19f8981e802cbfbbd24bd1a75693ae550c65b5c1b75e6f8b
+machine_hash: dda13de8005b1b5997c845c7eb6172a9ab9fcad7a1caedc54be165a3a6720213
 product: cursor
 product_name: Cursor
 record:
@@ -30,7 +30,7 @@ record:
       enable it, click the settings gear, head to Beta, and activate "Composer." To
       use it, hit Cmd+I. We'd love to hear your thoughts.
     source_release: https://cursor.com/changelog/0-37-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -40,8 +40,7 @@ record:
   theme: editor-experience
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: This build comes with a new experimental multi-file editing feature. To enable
-    i
+  title: This build comes with a new experimental multi-file editing feature
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-05-26-better-performance-of-copilot-on-linter-errors|cursor-2024-05-26-debbfc]]'
@@ -50,12 +49,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-07-13-0-37-x-https-cursor-com-changelog-0-37-x-eb934a21|cursor-2024-07-13-0-37-x-https-cursor-com-changelog-0-37-x-eb934a21]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: This build comes with a new experimental multi-file editing feature. To enable
-  i
+title: This build comes with a new experimental multi-file editing feature
 type: change
 ---
 
-# This build comes with a new experimental multi-file editing feature. To enable i
+# This build comes with a new experimental multi-file editing feature
 
 <!-- chronolog:begin region="description" -->
 Cursor — Composer (beta): This build comes with a new experimental multi-file editing feature. To enable it, click the settings gear, head to Beta, and activate "Composer." To use it, hit Cmd+I. We'd love to hear your thoughts.

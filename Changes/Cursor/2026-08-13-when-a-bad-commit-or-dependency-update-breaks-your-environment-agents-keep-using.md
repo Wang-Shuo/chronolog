@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: df636ff39bd3631de6392830d50829592d656c4afc2bebd5d49ef6d17c18d458
+machine_hash: 3a89666fbe762c884bd675ac461e43995c77bf5c155d11e0dcec64c14e752183
 product: cursor
 product_name: Cursor
 record:
@@ -30,7 +30,7 @@ record:
       you are notified of the issue, and your agents keep working while you debug
       in the background.
     source_release: https://cursor.com/changelog/08-13-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -39,7 +39,7 @@ record:
   source_type: cursor_changelog
   theme: agent-mode
   title: When a bad commit or dependency update breaks your environment, agents keep
-    usin
+    using…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-08-13-this-release-introduces-builds-ready-to-use-copies-of-your-development-environme|cursor-2026-08-13-4365b1]]'
@@ -49,11 +49,11 @@ source_release: '[[Releases/Cursor/cursor-2026-08-13-cloud-agents-start-3x-faste
 source_type: cursor_changelog
 theme: agent-mode
 title: When a bad commit or dependency update breaks your environment, agents keep
-  usin
+  using…
 type: change
 ---
 
-# When a bad commit or dependency update breaks your environment, agents keep usin
+# When a bad commit or dependency update breaks your environment, agents keep using…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cloud Agents Start 3x Faster with Builds: When a bad commit or dependency update breaks your environment, agents keep using the last successful build. The broken build never becomes active, you are notified of the issue, and your agents keep working while you debug in the background.

@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 81b95c90f6bebcb67fa96b3a974c18e29008e41b6fcf56a9a3fb47ee098b7230
+machine_hash: e7b90dfc9078c6f30902106bc0453d118511b8215403a8023f2e823577c0b5c6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Available in ChatGPT on mobile and web.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -33,7 +33,7 @@ record:
   source_release: chatgpt-2026-10-01-new-ways-to-shop-in-chatgpt-e89d4d85
   source_type: chatgpt_changelog
   theme: mobile-desktop
-  title: Available in ChatGPT on mobile and web.
+  title: Available in ChatGPT on mobile and web
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-09-29-site-owners-and-editors-on-plus-and-pro-can-select-edit-site-from-a-published-si|chatgpt-2026-09-29-397043]]'
@@ -42,11 +42,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-01-new-ways-to-shop-in-chatgpt-e89d4d85|chatgpt-2026-10-01-new-ways-to-shop-in-chatgpt-e89d4d85]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: Available in ChatGPT on mobile and web.
+title: Available in ChatGPT on mobile and web
 type: change
 ---
 
-# Available in ChatGPT on mobile and web.
+# Available in ChatGPT on mobile and web
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — New ways to shop in ChatGPT: Available in ChatGPT on mobile and web.

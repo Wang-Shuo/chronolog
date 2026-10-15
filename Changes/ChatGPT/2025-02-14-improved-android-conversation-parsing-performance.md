@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 54e2b64b86b464b72f4a335803e55fd297e5a72e3e51284ccc550e747cc49d0a
+machine_hash: 7b0fa49bc281b7920b66852d73e9387d47c475ad87462d931b191b323c148f31
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Improved Android conversation parsing performance.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -43,7 +43,7 @@ record:
     score: 50
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v1
-  title: Improved Android conversation parsing performance.
+  title: Improved Android conversation parsing performance
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-12-30-cursor-is-now-based-on-vs-code-1-85-1-which-among-other-things-includes-floating|cursor-2023-12-30-784eeb]]'
@@ -52,11 +52,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-02-14-set-chatgpt-as-default-search-engine-in-safari-11ec014b|chatgpt-2025-02-14-set-chatgpt-as-default-search-engine-in-safari-11ec014b]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: Improved Android conversation parsing performance.
+title: Improved Android conversation parsing performance
 type: change
 ---
 
-# Improved Android conversation parsing performance.
+# Improved Android conversation parsing performance
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — - Set ChatGPT as default search engine in Safari.: Improved Android conversation parsing performance.

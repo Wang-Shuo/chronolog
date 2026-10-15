@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 2ac3de7e94e17ae97740ae46d1567cdf78a1ac1d5cb15c443c8bc5c572530195
+machine_hash: ee94422b7dbdbd54d76cc60e857649a87b54c14a8be3946abbf529fd97237ddb
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,7 +29,7 @@ record:
   - quote: 'Improved auto mode safety: messages sent to other agent sessions via `SendMessage`
       are now evaluated by the permission classifier before dispatch'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.222
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code
@@ -48,7 +48,7 @@ record:
     score: 50
     theme: safety-privacy
   theme_resolution: manual-semantic-rule-v2
-  title: 'Improved auto mode safety: messages sent to other agent sessions via `SendMessag'
+  title: Improved auto mode safety
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-07-23-health-is-built-with-layered-privacy-and-security-safeguards-connected-medical-r|chatgpt-2026-07-23-4a5fd5]]'
@@ -57,11 +57,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-08-04-v2-1-222-github-365137491-9ea4d4a2|claude-code-2026-08-04-v2-1-222-github-365137491-9ea4d4a2]]'
 source_type: github_releases
 theme: safety-privacy
-title: 'Improved auto mode safety: messages sent to other agent sessions via SendMessag'
+title: Improved auto mode safety
 type: change
 ---
 
-# Improved auto mode safety: messages sent to other agent sessions via `SendMessag
+# Improved auto mode safety
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.222: Improved auto mode safety: messages sent to other agent sessions via `SendMessage` are now evaluated by the permission classifier before dispatch

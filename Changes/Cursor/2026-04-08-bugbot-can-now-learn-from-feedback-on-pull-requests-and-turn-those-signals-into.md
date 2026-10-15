@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 468dd915785a209684caefdc1a3b9ed6f94e8ca69a2eae25739ed92885f5c555
+machine_hash: edcc284bde28d03ab71075591f844a4b47d5487ccb80d34769b1b190cc851f83
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Bugbot can now learn from feedback on pull requests and turn those signals
       into learned rules that improve future reviews.
     source_release: https://cursor.com/changelog/04-08-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,8 +37,7 @@ record:
   theme: developer-workflow
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Bugbot can now learn from feedback on pull requests and turn those signals
-    into
+  title: Bugbot can now learn from feedback on pull requests and turn those signals…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-27-added-x-claude-code-session-id-header-to-api-requests-so-proxies-can-aggregate-r|claude-code-2026-03-27-358253]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-04-08-bugbot-learned-rules-and-mcp-support-https-cursor-com-changelog-cba7cd11|cursor-2026-04-08-bugbot-learned-rules-and-mcp-support-https-cursor-com-changelog-cba7cd11]]'
 source_type: cursor_changelog
 theme: developer-workflow
-title: Bugbot can now learn from feedback on pull requests and turn those signals
-  into
+title: Bugbot can now learn from feedback on pull requests and turn those signals…
 type: change
 ---
 
-# Bugbot can now learn from feedback on pull requests and turn those signals into
+# Bugbot can now learn from feedback on pull requests and turn those signals…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Bugbot Learned Rules and MCP Support: Bugbot can now learn from feedback on pull requests and turn those signals into learned rules that improve future reviews.

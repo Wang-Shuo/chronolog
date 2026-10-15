@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: df5e9361ffe7df9552876ad9b3a84f288613edc22018884423691ebe09751404
+machine_hash: 2b6a1332d82863a9117a1cc37b06237deb01e9f9674e43343575b43d74379572
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Includes some updates to "Option+Enter" in the chat
     source_release: https://cursor.com/changelog/0-2-11
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

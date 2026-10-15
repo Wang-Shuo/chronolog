@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-08-31'
-machine_hash: d558607d99741e7f42a8644299bcdbe5c089fdb6e9d7102106819f452a00d691
+machine_hash: 815dc337e2e0920785e3c84c94ba7514877d3ea3db871bc26f62e579f0067063
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,5 +39,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- collaboration: [[Changes/ChatGPT/2026-08-31-share-your-stickers-in-messaging-apps-download-your-pack-or-add-it-to-imessage-o|Share your stickers in messaging apps. Download your pack or add it to iMessage]]
+- collaboration: [[Changes/ChatGPT/2026-08-31-share-your-stickers-in-messaging-apps-download-your-pack-or-add-it-to-imessage-o|Share your stickers in messaging apps]]
 <!-- chronolog:end -->

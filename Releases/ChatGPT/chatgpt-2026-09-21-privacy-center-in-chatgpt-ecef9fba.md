@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2026-09-21'
-machine_hash: 0b3d8c0ad918db125297a76fc7932b4ce2c19d05f4fc0a1deb975de94bb91980
+machine_hash: bdd5a2f853ebda92575e4dbc21e69465f4b07218e63ffeea9a25f56c8bc58fbb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,6 +41,6 @@ Tracked cards: 2
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- safety-privacy: [[Changes/ChatGPT/2026-09-21-on-the-web-open-your-account-menu-select-help-then-select-privacy-center-on-mobi|On the web, open your account menu, select Help, then select Privacy Center. On]]
+- safety-privacy: [[Changes/ChatGPT/2026-09-21-on-the-web-open-your-account-menu-select-help-then-select-privacy-center-on-mobi|On the web, open your account menu, select Help, then select Privacy Center]]
 - safety-privacy: [[Changes/ChatGPT/2026-09-21-privacy-center-is-rolling-out-to-signed-in-chatgpt-free-go-plus-and-pro-users-it|Privacy Center is rolling out to signed-in ChatGPT Free, Go, Plus, and Pro users]]
 <!-- chronolog:end -->

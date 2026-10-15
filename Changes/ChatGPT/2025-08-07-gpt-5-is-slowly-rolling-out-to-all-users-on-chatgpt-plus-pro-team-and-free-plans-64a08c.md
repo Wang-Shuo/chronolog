@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 614409f8d7e7c483990f74da50060d1d4d08868d1c815444e1522104e9d89a7d
+machine_hash: e37490e788776b6941d12690e7ad965a9a65bd7f68b0d5688a06ddbbe14ea0b3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,7 +44,7 @@ record:
       have access to GPT-5 Thinking Pro, which takes a bit longer to think but delivers
       the accuracy you need for complex tasks.Learn more about GPT-5 in ChatGPT.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -79,7 +79,7 @@ record:
     theme: interface-experience
   theme_resolution: manual-semantic-rule-v2
   title: GPT-5 is slowly rolling out to all users on ChatGPT Plus, Pro, Team, and
-    Free pl
+    Free plans…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-06-16-gpts-without-custom-actions-can-use-the-model-picker-to-select-from-all-models-a|chatgpt-2025-06-16-4a2e39]]'
@@ -89,11 +89,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2025-08-07-gpt-5-a50b91bc|chatgpt-20
 source_type: chatgpt_changelog
 theme: model-support
 title: GPT-5 is slowly rolling out to all users on ChatGPT Plus, Pro, Team, and Free
-  pl
+  plans…
 type: change
 ---
 
-# GPT-5 is slowly rolling out to all users on ChatGPT Plus, Pro, Team, and Free pl
+# GPT-5 is slowly rolling out to all users on ChatGPT Plus, Pro, Team, and Free plans…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — GPT-5: GPT-5 is slowly rolling out to all users on ChatGPT Plus, Pro, Team, and Free plans worldwide across web, mobile, and desktop. GPT-5 will be available to ChatGPT Enterprise and Edu plans soon.GPT-5 in ChatGPT is our next flagship model and the new default for all logged-in users. It simplifies ChatGPT to a single auto-switching system that brings together the best of our previous models into a smart, fast model.GPT-5 is available to all ChatGPT Tiers. Users on Paid tiers - Plus, Pro, and Team - have access to the model picker, which enables you to manually select GPT-5 or GPT-5 Thinking. Pro and Team tier users have access to GPT-5 Thinking Pro, which takes a bit longer to think but delivers the accuracy you need for complex tasks.Learn more about GPT-5 in ChatGPT.

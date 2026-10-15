@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: a9d038eb41886ab28ea8a12f0637c2046117d6143ce62ab0be66fe9e959d974d
+machine_hash: 9e8d04d98ebfa17e3446ad946ade35e5507c469303403436b115b48139642594
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
   - quote: '"cursor-fast": This is a new model available in command-k and chat. Expect
       it to be a bit smarter than gpt-3.5, and with many fewer formatting errors.'
     source_release: https://cursor.com/changelog/0-23-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -37,8 +37,7 @@ record:
   source_release: cursor-2024-01-18-0-23-x-https-cursor-com-changelog-0-23-x-c0ec65fe
   source_type: cursor_changelog
   theme: model-support
-  title: '"cursor-fast": This is a new model available in command-k and chat. Expect
-    it to'
+  title: '"cursor-fast": This is a new model available in command-k and chat'
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-11-10-new-models-you-can-plug-in-your-api-key-to-try-out-the-newest-gpt-4-and-gpt-3-tu|cursor-2023-11-10-c049fc]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-01-18-0-23-x-https-cursor-com-changelog-0-23-x-c0ec65fe|cursor-2024-01-18-0-23-x-https-cursor-com-changelog-0-23-x-c0ec65fe]]'
 source_type: cursor_changelog
 theme: model-support
-title: '"cursor-fast": This is a new model available in command-k and chat. Expect
-  it to'
+title: '"cursor-fast": This is a new model available in command-k and chat'
 type: change
 ---
 
-# "cursor-fast": This is a new model available in command-k and chat. Expect it to
+# "cursor-fast": This is a new model available in command-k and chat
 
 <!-- chronolog:begin region="description" -->
 Cursor — New Model, Apply Button v2: "cursor-fast": This is a new model available in command-k and chat. Expect it to be a bit smarter than gpt-3.5, and with many fewer formatting errors.

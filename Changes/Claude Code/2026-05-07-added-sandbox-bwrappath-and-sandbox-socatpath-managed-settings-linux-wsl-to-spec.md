@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 16ece5989d250c75be0d677f424f17d3d118175742ee6361fa1dee04b675819f
+machine_hash: 3a1a996ebf4ad2fb2fa19cc33dc0e98f97909ce185a9f7848e9c1aca38a31341
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `sandbox.bwrapPath` and `sandbox.socatPath` managed settings (Linux/WSL)
       to specify custom bubblewrap and socat binary locations
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.133
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   theme: safety-privacy
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: Added `sandbox.bwrapPath` and `sandbox.socatPath` managed settings (Linux/WSL)
-    t
+  title: Added `sandbox.bwrapPath` and `sandbox.socatPath` managed settings (Linux/WSL)…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-01-default-off-users-can-discover-and-opt-in|cursor-2026-05-01-759bfb]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-07-v2-1-133-github-319164825-08653677|claude-code-2026-05-07-v2-1-133-github-319164825-08653677]]'
 source_type: github_releases
 theme: safety-privacy
-title: Added sandbox.bwrapPath and sandbox.socatPath managed settings (Linux/WSL)
-  t
+title: Added sandbox.bwrapPath and sandbox.socatPath managed settings (Linux/WSL)…
 type: change
 ---
 
-# Added `sandbox.bwrapPath` and `sandbox.socatPath` managed settings (Linux/WSL) t
+# Added `sandbox.bwrapPath` and `sandbox.socatPath` managed settings (Linux/WSL)…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.133: Added `sandbox.bwrapPath` and `sandbox.socatPath` managed settings (Linux/WSL) to specify custom bubblewrap and socat binary locations

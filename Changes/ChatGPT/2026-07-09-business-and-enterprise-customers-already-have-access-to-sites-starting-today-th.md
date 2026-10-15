@@ -11,9 +11,9 @@ diffusion:
   theme: enterprise-admin
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 514a378cd9523c2387ce62685fcdd29c18d10bea7953923060431a224fcbe617
+machine_hash: dfce329e98865a787de181e4605500d258427cc6b246a538aebf97ea6d185355
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       today, they can also publish Sites publicly and share them with anyone through
       a URL, expanding Sites beyond people in their workspace.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -37,8 +37,7 @@ record:
   source_release: chatgpt-2026-07-09-introducing-chatgpt-sites-in-public-beta-4d20edcd
   source_type: chatgpt_changelog
   theme: enterprise-admin
-  title: Business and Enterprise customers already have access to Sites. Starting
-    today,
+  title: Business and Enterprise customers already have access to Sites
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-06-04-we-re-beginning-to-roll-out-ads-for-users-on-free-and-go-plans-in-the-uk-plus-pr|chatgpt-2026-06-04-586af0]]'
@@ -47,11 +46,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-sites-in-public-beta-4d20edcd|chatgpt-2026-07-09-introducing-chatgpt-sites-in-public-beta-4d20edcd]]'
 source_type: chatgpt_changelog
 theme: enterprise-admin
-title: Business and Enterprise customers already have access to Sites. Starting today,
+title: Business and Enterprise customers already have access to Sites
 type: change
 ---
 
-# Business and Enterprise customers already have access to Sites. Starting today,
+# Business and Enterprise customers already have access to Sites
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Introducing ChatGPT Sites in public beta: Business and Enterprise customers already have access to Sites. Starting today, they can also publish Sites publicly and share them with anyone through a URL, expanding Sites beyond people in their workspace.

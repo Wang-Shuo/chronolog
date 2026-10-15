@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 86fc437e51ece4650d0aa2dd7767fd66acea505726c3384f6a04c1e1f90bc89f
+machine_hash: ec3df4856db869dfd99bdc7bba8ba365a4750ed04a8b7590e2f139fb5f95e54b
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       is deprecated but still honored), and `FORCE_PROMPT_CACHING_5M` to force 5-minute
       TTL
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.108
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -41,7 +41,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: Added `ENABLE_PROMPT_CACHING_1H` env var to opt into 1-hour prompt cache
-    TTL on
+    TTL on API…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-03-25-starting-today-for-chatgpt-plus-pro-and-business-users-long-pastes-are-handled-d|chatgpt-2026-03-25-60882a]]'
@@ -51,11 +51,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-04-14-v2-1-108-github-3
 source_type: github_releases
 theme: context-window
 title: Added ENABLE_PROMPT_CACHING_1H env var to opt into 1-hour prompt cache TTL
-  on
+  on API…
 type: change
 ---
 
-# Added `ENABLE_PROMPT_CACHING_1H` env var to opt into 1-hour prompt cache TTL on
+# Added `ENABLE_PROMPT_CACHING_1H` env var to opt into 1-hour prompt cache TTL on API…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.108: Added `ENABLE_PROMPT_CACHING_1H` env var to opt into 1-hour prompt cache TTL on API key, Bedrock, Vertex, and Foundry (`ENABLE_PROMPT_CACHING_1H_BEDROCK` is deprecated but still honored), and `FORCE_PROMPT_CACHING_5M` to force 5-minute TTL

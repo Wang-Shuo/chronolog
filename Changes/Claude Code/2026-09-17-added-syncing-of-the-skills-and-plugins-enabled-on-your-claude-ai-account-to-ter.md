@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7699084f068d2f48ee3f56b3fa5a4e51fc1d7beff988062dcb02aa2c4de6c206
+machine_hash: 6851e3845079f0ff5c5d7a23dc4f977c885e47ecf08a63a0edee7419ab052591
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       to terminal sessions signed in with it; opt out with `syncClaudeAiSkills: false`
       or `syncClaudeAiPlugins: false`'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.275
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -46,8 +46,7 @@ record:
     score: 50
     theme: developer-workflow
   theme_resolution: manual-semantic-rule-v1
-  title: Added syncing of the skills and plugins enabled on your claude.ai account
-    to ter
+  title: Added syncing of the skills and plugins enabled on your claude.ai account…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-04-added-bashoutputmaxchars-and-taskoutputmaxchars-settings-to-raise-how-much-comma|claude-code-2026-09-04-7733cf]]'
@@ -56,12 +55,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-17-v2-1-275-github-391032307-12ccfafd|claude-code-2026-09-17-v2-1-275-github-391032307-12ccfafd]]'
 source_type: github_releases
 theme: developer-workflow
-title: Added syncing of the skills and plugins enabled on your claude.ai account to
-  ter
+title: Added syncing of the skills and plugins enabled on your claude.ai account…
 type: change
 ---
 
-# Added syncing of the skills and plugins enabled on your claude.ai account to ter
+# Added syncing of the skills and plugins enabled on your claude.ai account…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.275: Added syncing of the skills and plugins enabled on your claude.ai account to terminal sessions signed in with it; opt out with `syncClaudeAiSkills: false` or `syncClaudeAiPlugins: false`

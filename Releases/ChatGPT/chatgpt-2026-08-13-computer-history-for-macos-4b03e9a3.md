@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-08-13'
-machine_hash: 3d66f86282bb59a87a48634a3a0a22f24fa36c66138aaf84b5eeae258d0f0bef
+machine_hash: 5fc0a89b82a4dd437e15f6a65b247236f81a58b26a8414edd73eaf38674d3859
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- enterprise-admin: [[Changes/ChatGPT/2026-08-13-computer-history-is-an-optional-feature-in-the-chatgpt-macos-app-that-lets-chatg|Computer History is an optional feature in the ChatGPT macOS app that lets ChatG]]
+- enterprise-admin: [[Changes/ChatGPT/2026-08-13-computer-history-is-an-optional-feature-in-the-chatgpt-macos-app-that-lets-chatg|Computer History is an optional feature in the ChatGPT macOS app that lets ChatGPT…]]
 <!-- chronolog:end -->

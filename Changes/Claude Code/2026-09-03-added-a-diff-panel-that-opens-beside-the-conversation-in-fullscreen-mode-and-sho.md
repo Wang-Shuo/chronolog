@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e8d4a993c6a183604d3e182879779a1a46297c7452b5102065a571c271ccc62a
+machine_hash: 6167b44d3435766865829735ed5dadb237e2457b0638366cc30ca757a209fbf5
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Added a diff panel that opens beside the conversation in fullscreen mode
       and shows your uncommitted changes as Claude edits; toggle it with `/diff`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.260
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,7 +36,7 @@ record:
   source_type: github_releases
   theme: interface-experience
   title: Added a diff panel that opens beside the conversation in fullscreen mode
-    and sho
+    and shows…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-21-added-the-one-time-fullscreen-renderer-offer-on-bedrock-vertex-foundry-and-other|claude-code-2026-08-21-4da564]]'
@@ -46,11 +46,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-09-03-v2-1-260-github-3
 source_type: github_releases
 theme: interface-experience
 title: Added a diff panel that opens beside the conversation in fullscreen mode and
-  sho
+  shows…
 type: change
 ---
 
-# Added a diff panel that opens beside the conversation in fullscreen mode and sho
+# Added a diff panel that opens beside the conversation in fullscreen mode and shows…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.260: Added a diff panel that opens beside the conversation in fullscreen mode and shows your uncommitted changes as Claude edits; toggle it with `/diff`

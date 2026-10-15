@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 2c80d65de5e3f893f8c4af7182440ea979cec2c979c6fab78f6eb8a9b5f6a5c0
+machine_hash: baac03bf5878b61cd963dd7c6a6643ad38b66ccd6ecb7182319f3d7f173942df
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: Updated agent color palette
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.140
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code

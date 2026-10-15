@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2023-07-10'
-machine_hash: 9dc86d5cb659b1471b29b2ab336079a1e056c7098787974c4e8430ec32ae49f3
+machine_hash: 846ece3d2115a271ec6d659cea6cd7073ce0116903c1bebbd62524865dfdde2c
 product: cursor
 product_name: Cursor
 record:
@@ -39,5 +39,5 @@ Tracked cards: 2
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
 - agent-mode: [[Changes/Cursor/2023-07-10-this-nightly-build-comes-with-experimental-interface-agent-support|This nightly build comes with experimental interface agent support!]]
-- agent-mode: [[Changes/Cursor/2023-07-10-the-goal-you-write-an-interface-specification-and-an-agent-writes-both-the-tests|The goal: you write an interface specification, and an agent writes both the tes]]
+- agent-mode: [[Changes/Cursor/2023-07-10-the-goal-you-write-an-interface-specification-and-an-agent-writes-both-the-tests|The goal: you write an interface specification, and an agent writes both the tests…]]
 <!-- chronolog:end -->

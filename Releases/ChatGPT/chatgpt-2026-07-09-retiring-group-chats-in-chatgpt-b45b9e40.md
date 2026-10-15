@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2026-07-09'
-machine_hash: 4fcb918c1fd71c816be099fce21e37af596e79e83048b07113e31c0a4d0ba18f
+machine_hash: 3c628080e7e991fd462daf84ce024b2c71d8f2132e9ad7043ced9d8760c2f502
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,6 +40,6 @@ Tracked cards: 2
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- collaboration: [[Changes/ChatGPT/2026-07-09-existing-group-chats-will-remain-available-and-can-continue-to-be-used-for-now-w|Existing group chats will remain available and can continue to be used for now.]]
-- mobile-desktop: [[Changes/ChatGPT/2026-07-09-beginning-july-9-users-on-web-ios-and-android-will-no-longer-be-able-to-create-n|Beginning July 9, users on web, iOS, and Android will no longer be able to creat]]
+- collaboration: [[Changes/ChatGPT/2026-07-09-existing-group-chats-will-remain-available-and-can-continue-to-be-used-for-now-w|Existing group chats will remain available and can continue to be used for now]]
+- mobile-desktop: [[Changes/ChatGPT/2026-07-09-beginning-july-9-users-on-web-ios-and-android-will-no-longer-be-able-to-create-n|Beginning July 9, users on web, iOS, and Android will no longer be able to create…]]
 <!-- chronolog:end -->

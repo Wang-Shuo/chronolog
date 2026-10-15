@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 564f3c547f846274bffd9564ed6f03ff8f87550ea9886da74aadeb25743a74fa
+machine_hash: 09703d06b962bbeb2183d1027c7619d94c256936077f4c03a62d17210747c994
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Bare `/color` (no args) now picks a random session color
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.128
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

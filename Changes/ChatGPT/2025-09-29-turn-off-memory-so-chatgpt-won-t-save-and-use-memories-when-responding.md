@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: bd696e6f0868ab4607d6e1e45ec3bc11f930e1ac9d650c38fa2a7bfc0d57d661
+machine_hash: 82bcbaa234c0558283dc4f57b876a14d42f761a9607c34c05a934e915780e8e9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Turn off memory, so ChatGPT won’t save and use memories when responding.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -33,7 +33,7 @@ record:
   source_release: chatgpt-2025-09-29-parental-controls-8b95b69a
   source_type: chatgpt_changelog
   theme: memory
-  title: Turn off memory, so ChatGPT won’t save and use memories when responding.
+  title: Turn off memory, so ChatGPT won’t save and use memories when responding
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-09-15-personalization-no-longer-opens-in-a-separate-modal-you-can-manage-personalizati|chatgpt-2025-09-15-ed5e00]]'
@@ -42,11 +42,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-29-parental-controls-8b95b69a|chatgpt-2025-09-29-parental-controls-8b95b69a]]'
 source_type: chatgpt_changelog
 theme: memory
-title: Turn off memory, so ChatGPT won’t save and use memories when responding.
+title: Turn off memory, so ChatGPT won’t save and use memories when responding
 type: change
 ---
 
-# Turn off memory, so ChatGPT won’t save and use memories when responding.
+# Turn off memory, so ChatGPT won’t save and use memories when responding
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Parental Controls: Turn off memory, so ChatGPT won’t save and use memories when responding.

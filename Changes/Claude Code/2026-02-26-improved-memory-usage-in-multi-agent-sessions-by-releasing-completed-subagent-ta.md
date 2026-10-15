@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 29fef4569a30071f46bbbacfd3cb47a899f2ab8a7aa6d7b0db67cd3a651d1718
+machine_hash: 236844a91f8912ddf4f69e5052cb1f995023043333a9b4bc6a8b1182b4549294
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Improved memory usage in multi-agent sessions by releasing completed subagent
       task state
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.59
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code
@@ -48,7 +48,7 @@ record:
     theme: agent-mode
   theme_resolution: manual-semantic-rule-v2
   title: Improved memory usage in multi-agent sessions by releasing completed subagent
-    ta
+    task state
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-18-improved-memory-usage-in-long-running-sessions-by-releasing-api-stream-buffers-a|claude-code-2026-02-18-a65c80]]'
@@ -58,11 +58,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-02-26-v2-1-59-github-29
 source_type: github_releases
 theme: reliability-performance
 title: Improved memory usage in multi-agent sessions by releasing completed subagent
-  ta
+  task state
 type: change
 ---
 
-# Improved memory usage in multi-agent sessions by releasing completed subagent ta
+# Improved memory usage in multi-agent sessions by releasing completed subagent task state
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.59: Improved memory usage in multi-agent sessions by releasing completed subagent task state

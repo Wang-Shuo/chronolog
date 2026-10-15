@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 99de67826d43b77d1ccd9615a1093dfb41b4a717635073bd1a6574f7e49f389b
+machine_hash: 243e4cfafa45ed4e18de212a9458ccc3f8e03c8227b7c5cc2cc20bc70aa1f539
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Fixed Bash command permission checking for compound statements with redirects
       inside `&&` lists or negations
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.216
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: Fixed Bash command permission checking for compound statements with redirects
-    in
+    inside…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-20-fixed-telemetry-misreporting-permission-denials-failed-permission-prompt-request|claude-code-2026-07-20-47c44c]]'
@@ -47,11 +47,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-07-20-v2-1-216-github-3
 source_type: github_releases
 theme: safety-privacy
 title: Fixed Bash command permission checking for compound statements with redirects
-  in
+  inside…
 type: change
 ---
 
-# Fixed Bash command permission checking for compound statements with redirects in
+# Fixed Bash command permission checking for compound statements with redirects inside…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.216: Fixed Bash command permission checking for compound statements with redirects inside `&&` lists or negations

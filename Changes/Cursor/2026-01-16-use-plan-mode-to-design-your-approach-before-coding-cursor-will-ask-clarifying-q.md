@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1e00d8cbc6902e15fe62536bdd24e6ca1e315a5e01db4d974cfe50ce6f8a7892
+machine_hash: ed805e175ff03e61787f6c6b39cc76d6d4f9950148cc3f3bb9723dab1b83b079
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Use Plan mode to design your approach before coding. Cursor will ask clarifying
       questions to refine your plan. Get started with /plan or --mode=plan.
     source_release: https://cursor.com/changelog/cli-jan-16-2026
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,7 +37,7 @@ record:
   theme: agent-mode
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Use Plan mode to design your approach before coding. Cursor will ask clarifying
+  title: Use Plan mode to design your approach before coding
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-14-added-inline-display-of-agent-s-final-response-in-task-notifications-making-it-e|claude-code-2026-01-14-1c7708]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-01-16-cli-agent-modes-and-cloud-handoff-https-cursor-com-changelog-cli-becd78b5|cursor-2026-01-16-cli-agent-modes-and-cloud-handoff-https-cursor-com-changelog-cli-becd78b5]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: Use Plan mode to design your approach before coding. Cursor will ask clarifying
+title: Use Plan mode to design your approach before coding
 type: change
 ---
 
-# Use Plan mode to design your approach before coding. Cursor will ask clarifying
+# Use Plan mode to design your approach before coding
 
 <!-- chronolog:begin region="description" -->
 Cursor — CLI Agent Modes and Cloud Handoff: Use Plan mode to design your approach before coding. Cursor will ask clarifying questions to refine your plan. Get started with /plan or --mode=plan.

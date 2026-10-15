@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6d5b153bcc3e845a992930d0a4cb33dfe6bb16b6e454f526ac9ead484ebce4b0
+machine_hash: 6fa5619f3c34995fb24c0b9d4a717bb074ae0164917d33d460e9c8730cd5e433
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Bring your browser into Work and Codex. Mention open tabs to use them as
       context, or ask ChatGPT to complete a browser task from the desktop app.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -45,8 +45,7 @@ record:
     score: 50
     theme: mobile-desktop
   theme_resolution: manual-semantic-rule-v1
-  title: Bring your browser into Work and Codex. Mention open tabs to use them as
-    context
+  title: Bring your browser into Work and Codex
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-25-windows-macos-fixed-headless-sessions-not-cleaning-up-stale-entries-in-claude-se|claude-code-2026-08-25-88c5b6]]'
@@ -55,11 +54,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-31-use-the-browser-extension-in-more-browsers-87a64682|chatgpt-2026-08-31-use-the-browser-extension-in-more-browsers-87a64682]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: Bring your browser into Work and Codex. Mention open tabs to use them as context
+title: Bring your browser into Work and Codex
 type: change
 ---
 
-# Bring your browser into Work and Codex. Mention open tabs to use them as context
+# Bring your browser into Work and Codex
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Use the browser extension in more browsers: Bring your browser into Work and Codex. Mention open tabs to use them as context, or ask ChatGPT to complete a browser task from the desktop app.

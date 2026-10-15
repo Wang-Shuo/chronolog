@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2025-12-19'
-machine_hash: 31eeabce29e53d06a8b8f5bd64ac9986610781d5a50fc61a5c786e6b4ac820c5
+machine_hash: f2293002f4aa3d10c93c1f45bf7bf4aa3c6aa4ba795f434cf6c7cfa58e2a4390
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,6 +43,6 @@ Tracked cards: 5
 - memory: [[Changes/ChatGPT/2025-12-19-be-more-or-less-warm|Be more or less warm]]
 - memory: [[Changes/ChatGPT/2025-12-19-use-more-or-fewer-emojis|Use more or fewer emojis]]
 - memory: [[Changes/ChatGPT/2025-12-19-be-more-or-less-enthusiastic|Be more or less enthusiastic]]
-- memory: [[Changes/ChatGPT/2025-12-19-in-addition-to-selecting-a-base-style-and-tone-preset-like-candid-and-friendly-y|In addition to selecting a base style and tone preset—like candid and friendly—y]]
+- memory: [[Changes/ChatGPT/2025-12-19-in-addition-to-selecting-a-base-style-and-tone-preset-like-candid-and-friendly-y|In addition to selecting a base style and tone preset—like candid and friendly—you…]]
 - memory: [[Changes/ChatGPT/2025-12-19-use-more-or-fewer-headers-lists|Use more or fewer headers & lists]]
 <!-- chronolog:end -->

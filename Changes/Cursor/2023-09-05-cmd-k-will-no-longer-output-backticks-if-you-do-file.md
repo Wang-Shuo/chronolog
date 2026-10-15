@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: bb38fce7bfbb9c5558fa5dbf22646d4c9522b9548236dcd4fd8decabae955435
+machine_hash: 1fbb082151a7c5d980a39405a0451fa57240e8a1ee0e0743c1e13968f6aeda46
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Cmd-K will no longer output backticks if you do @file.
     source_release: https://cursor.com/changelog/0-9-4
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -33,7 +33,7 @@ record:
   source_release: cursor-2023-09-05-0-9-4-https-cursor-com-changelog-0-9-4-58bfb2f3
   source_type: cursor_changelog
   theme: editor-experience
-  title: Cmd-K will no longer output backticks if you do @file.
+  title: Cmd-K will no longer output backticks if you do @file
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-08-13-better-experience-for-long-files|cursor-2023-08-13-cdd04f]]'
@@ -42,11 +42,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-09-05-0-9-4-https-cursor-com-changelog-0-9-4-58bfb2f3|cursor-2023-09-05-0-9-4-https-cursor-com-changelog-0-9-4-58bfb2f3]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: Cmd-K will no longer output backticks if you do @file.
+title: Cmd-K will no longer output backticks if you do @file
 type: change
 ---
 
-# Cmd-K will no longer output backticks if you do @file.
+# Cmd-K will no longer output backticks if you do @file
 
 <!-- chronolog:begin region="description" -->
 Cursor — Hotfix Cmd-K unexpectedly outputting backticks: Cmd-K will no longer output backticks if you do @file.

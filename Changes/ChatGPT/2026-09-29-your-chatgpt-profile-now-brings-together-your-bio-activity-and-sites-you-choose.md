@@ -11,9 +11,9 @@ diffusion:
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: bd0c578d76bc3b7a403b96c6700443eb5294ecd3e7eb9c980b14f5697d27eb79
+machine_hash: 63bdbeadb7907339bc4ebdf6dfe1fd6492731641d3956330345807ed427086af
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       yours public and share its link with other people signed in to ChatGPT. Shared
       profiles do not show conversation titles or content.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -42,7 +42,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: Your ChatGPT profile now brings together your bio, activity, and Sites you
-    choos
+    choose…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-09-09-share-across-your-workspace-make-content-available-to-everyone-in-your-workspace|chatgpt-2026-09-09-e9bcc9]]'
@@ -52,11 +52,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-share-your-profile-and-sh
 source_type: chatgpt_changelog
 theme: collaboration
 title: Your ChatGPT profile now brings together your bio, activity, and Sites you
-  choos
+  choose…
 type: change
 ---
 
-# Your ChatGPT profile now brings together your bio, activity, and Sites you choos
+# Your ChatGPT profile now brings together your bio, activity, and Sites you choose…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Share your profile and showcase your Sites: Your ChatGPT profile now brings together your bio, activity, and Sites you choose to showcase. Personal profiles are private by default. You can make yours public and share its link with other people signed in to ChatGPT. Shared profiles do not show conversation titles or content.

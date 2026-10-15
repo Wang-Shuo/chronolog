@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2024-08-02'
-machine_hash: caf8aa4cc4c654871cfc8ae1002ae4e469911c5823411588970616613277df44
+machine_hash: 134b25809a23d588cd9f858a6848e58a4b713ac778930c4ae32bcb2161dc851a
 product: cursor
 product_name: Cursor
 record:
@@ -39,7 +39,7 @@ Tracked cards: 3
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- agent-mode: [[Changes/Cursor/2024-08-02-concurrent-composers-support-composer-control-panel-and-various-bug-fixes-such-a|Concurrent composers support, composer control panel, and various bug fixes such]]
+- agent-mode: [[Changes/Cursor/2024-08-02-concurrent-composers-support-composer-control-panel-and-various-bug-fixes-such-a|Concurrent composers support, composer control panel, and various bug fixes such…]]
 - reliability-performance: [[Changes/Cursor/2024-08-02-faster-cursor-tab-suggestions|Faster Cursor Tab Suggestions!]]
-- editor-experience: [[Changes/Cursor/2024-08-02-cursor-tab-previously-called-copilot-defaults-to-chunked-streaming-this-build-al|Cursor Tab (previously called Copilot++) defaults to chunked streaming. This bui]]
+- editor-experience: [[Changes/Cursor/2024-08-02-cursor-tab-previously-called-copilot-defaults-to-chunked-streaming-this-build-al|Cursor Tab (previously called Copilot++) defaults to chunked streaming]]
 <!-- chronolog:end -->

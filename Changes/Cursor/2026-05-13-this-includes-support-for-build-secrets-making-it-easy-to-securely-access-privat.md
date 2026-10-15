@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 296fd0086e7a510d49998cb9e48d27e89fd9766602c7356eb1275637f5abeca3
+machine_hash: edbd1a85e87c5acb6ab45cfe16624cc49e01faf52655a4cdec6646bc580ec539
 product: cursor
 product_name: Cursor
 record:
@@ -31,7 +31,7 @@ record:
       private package registries directly from your Dockerfiles. Build secrets are
       scoped to the build step and aren't passed to the running agent's environment.
     source_release: https://cursor.com/changelog/05-13-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -40,7 +40,7 @@ record:
   source_type: cursor_changelog
   theme: agent-mode
   title: This includes support for build secrets, making it easy to securely access
-    priva
+    private…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-13-files-changes-canvases-prs-browsers-and-terminals-can-expand-to-fill-the-entire|cursor-2026-05-13-28d4e5]]'
@@ -50,11 +50,11 @@ source_release: '[[Releases/Cursor/cursor-2026-05-13-3-4-https-cursor-com-change
 source_type: cursor_changelog
 theme: agent-mode
 title: This includes support for build secrets, making it easy to securely access
-  priva
+  private…
 type: change
 ---
 
-# This includes support for build secrets, making it easy to securely access priva
+# This includes support for build secrets, making it easy to securely access private…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Development environments for cloud agents: This includes support for build secrets, making it easy to securely access private package registries directly from your Dockerfiles. Build secrets are scoped to the build step and aren't passed to the running agent's environment.

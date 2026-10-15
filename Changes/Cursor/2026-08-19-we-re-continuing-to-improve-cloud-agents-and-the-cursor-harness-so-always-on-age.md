@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3e2237cab7d9fc5f6ae4d693feb30aead0d6f3e713fa03490b14180bee95b996
+machine_hash: c175b34bd5920535438ecc327e911bf8b985d8c66ccee93049790bee816d2152
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
       agents can operate as a system, building and shipping software on their own
       without the need for intervention at each loop.
     source_release: https://cursor.com/changelog/08-19-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -38,7 +38,7 @@ record:
   source_type: cursor_changelog
   theme: agent-mode
   title: We're continuing to improve cloud agents and the Cursor harness so always-on
-    age
+    agents…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-08-19-with-this-release-cloud-agents-can-automatically-pick-up-work-in-response-to-eve|cursor-2026-08-19-0b85af]]'
@@ -48,11 +48,11 @@ source_release: '[[Releases/Cursor/cursor-2026-08-19-cloud-agents-and-cursor-har
 source_type: cursor_changelog
 theme: agent-mode
 title: We're continuing to improve cloud agents and the Cursor harness so always-on
-  age
+  agents…
 type: change
 ---
 
-# We're continuing to improve cloud agents and the Cursor harness so always-on age
+# We're continuing to improve cloud agents and the Cursor harness so always-on agents…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cloud Agents and Cursor Harness Improvements: We're continuing to improve cloud agents and the Cursor harness so always-on agents can operate as a system, building and shipping software on their own without the need for intervention at each loop.

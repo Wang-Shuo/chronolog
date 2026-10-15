@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 887a6f23ddd9a8bf11cad50099847dbb92afa171e127d87bb4ffeb66412aaf30
+machine_hash: 0d67cdc64eafa60cbeae2eb8f76ad3d434bc19785f946398d9a21fdda7e135a5
 product: cursor
 product_name: Cursor
 record:
@@ -32,7 +32,7 @@ record:
       button at the top of the chat panel to create a new side chat that has context
       from the main chat.
     source_release: https://cursor.com/changelog/side-chat
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -51,7 +51,7 @@ record:
     theme: context-window
   theme_resolution: manual-semantic-rule-v1
   title: Open a side chat to ask questions, explore ideas, and investigate tangents
-    witho
+    without…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-06-22-starting-today-for-chatgpt-free-and-go-users-long-pastes-are-handled-differently|chatgpt-2026-06-22-e5a8ab]]'
@@ -61,11 +61,11 @@ source_release: '[[Releases/Cursor/cursor-2026-07-10-3-11-https-cursor-com-chang
 source_type: cursor_changelog
 theme: context-window
 title: Open a side chat to ask questions, explore ideas, and investigate tangents
-  witho
+  without…
 type: change
 ---
 
-# Open a side chat to ask questions, explore ideas, and investigate tangents witho
+# Open a side chat to ask questions, explore ideas, and investigate tangents without…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Side Chats and Conversation Search: Open a side chat to ask questions, explore ideas, and investigate tangents without interrupting your main agent conversation. Use /side, /btw, or the plus button at the top of the chat panel to create a new side chat that has context from the main chat.

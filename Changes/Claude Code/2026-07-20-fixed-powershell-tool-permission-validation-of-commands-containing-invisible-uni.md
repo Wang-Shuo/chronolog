@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 484a83a6d837dff0aa7dab969fa87ae3a3018306c67bbc7790883873a241d4cc
+machine_hash: f1926b7d69d8fb0933a724386427f93aa76cbc69f58735f2f6ae72a8100100ba
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Fixed PowerShell tool permission validation of commands containing invisible
       Unicode characters
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.216
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: Fixed PowerShell tool permission validation of commands containing invisible
-    Uni
+    Unicode…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-20-added-sandbox-filesystem-disabled-setting-to-skip-filesystem-isolation-while-kee|claude-code-2026-07-20-b887a9]]'
@@ -47,11 +47,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-07-20-v2-1-216-github-3
 source_type: github_releases
 theme: safety-privacy
 title: Fixed PowerShell tool permission validation of commands containing invisible
-  Uni
+  Unicode…
 type: change
 ---
 
-# Fixed PowerShell tool permission validation of commands containing invisible Uni
+# Fixed PowerShell tool permission validation of commands containing invisible Unicode…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.216: Fixed PowerShell tool permission validation of commands containing invisible Unicode characters

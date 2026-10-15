@@ -11,9 +11,9 @@ diffusion:
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 7357008d9fc56cf98d4e98a4667d23e7e9676138536f4c290b0bad02cfbe081c
+machine_hash: 1ea14d8d97078a4cd4f6859abdf9f8034316e893906937c8139e9703ac1fac77
 product: cursor
 product_name: Cursor
 record:
@@ -30,7 +30,7 @@ record:
       by June 1st. Admins should go to their team model settings in the Cursor dashboard
       to get started.
     source_release: https://cursor.com/changelog/05-04-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -53,7 +53,7 @@ record:
     theme: model-support
   theme_resolution: manual-semantic-rule-v1
   title: Customers with existing blocklists will need to migrate to the new system
-    by Jun
+    by June 1st
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-25-added-managed-settings-d-drop-in-directory-alongside-managed-settings-json-letti|claude-code-2026-03-25-da6145]]'
@@ -63,11 +63,11 @@ source_release: '[[Releases/Cursor/cursor-2026-05-04-model-controls-spend-manage
 source_type: cursor_changelog
 theme: collaboration
 title: Customers with existing blocklists will need to migrate to the new system by
-  Jun
+  June 1st
 type: change
 ---
 
-# Customers with existing blocklists will need to migrate to the new system by Jun
+# Customers with existing blocklists will need to migrate to the new system by June 1st
 
 <!-- chronolog:begin region="description" -->
 Cursor — Model controls, spend management, and usage analytics: Customers with existing blocklists will need to migrate to the new system by June 1st. Admins should go to their team model settings in the Cursor dashboard to get started.

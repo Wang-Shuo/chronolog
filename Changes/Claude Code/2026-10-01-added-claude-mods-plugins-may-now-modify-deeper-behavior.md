@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e9ffe83e905fec174750c6aaf4f39059d2d4857165260f4882b795b4923e0ce2
+machine_hash: d0ccbe62adbfffca8776a585d8af5951caa03af87da9c92b8e237c2a23c3f686
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: 'Added Claude Mods: plugins may now modify deeper behavior'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.287
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

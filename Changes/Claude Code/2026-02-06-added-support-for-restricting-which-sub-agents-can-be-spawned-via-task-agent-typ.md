@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 98e606e598f8966f155dd5492147d0ea1a57e60b84c053bfd3b3911207746ba9
+machine_hash: 28102ba3703d1bbf8a0568d2cb347bd46d077fe8d1b4b5deebf19151dde2fbac
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Added support for restricting which sub-agents can be spawned via `Task(agent_type)`
       syntax in agent "tools" frontmatter
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.33
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code
@@ -36,7 +36,7 @@ record:
   source_release: claude-code-2026-02-06-v2-1-33-github-283581096-0f5b01a0
   source_type: github_releases
   theme: agent-mode
-  title: Added support for restricting which sub-agents can be spawned via `Task(agent_ty
+  title: Added support for restricting which sub-agents can be spawned via `Task(agent_type)`…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-23-added-env-var-claude-code-enable-tasks-set-to-false-to-keep-the-old-system-tempo|claude-code-2026-01-23-c5183e]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-02-06-v2-1-33-github-283581096-0f5b01a0|claude-code-2026-02-06-v2-1-33-github-283581096-0f5b01a0]]'
 source_type: github_releases
 theme: agent-mode
-title: Added support for restricting which sub-agents can be spawned via Task(agent_ty
+title: Added support for restricting which sub-agents can be spawned via Task(agent_type)…
 type: change
 ---
 
-# Added support for restricting which sub-agents can be spawned via `Task(agent_ty
+# Added support for restricting which sub-agents can be spawned via `Task(agent_type)`…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.33: Added support for restricting which sub-agents can be spawned via `Task(agent_type)` syntax in agent "tools" frontmatter

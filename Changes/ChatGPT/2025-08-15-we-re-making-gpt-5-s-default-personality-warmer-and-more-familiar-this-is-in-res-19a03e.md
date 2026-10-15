@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8a03062172fd385bd5d48131f3510fdcb187b8f9162a4ca880e659b4dd6fee6e
+machine_hash: 84fdab47cb2ef35b027a0df186933d73a0c45082e7cc7bca4da41d33e470b0b3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,7 +48,7 @@ record:
       sycophantic is an ongoing research challenge, and we will continue iterating
       to get this right. More updates are coming soon.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -67,8 +67,7 @@ record:
     score: 50
     theme: memory
   theme_resolution: manual-semantic-rule-v2
-  title: We’re making GPT-5’s default personality warmer and more familiar. This is
-    in re
+  title: We’re making GPT-5’s default personality warmer and more familiar
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-08-07-gpt-5-is-slowly-rolling-out-to-all-users-on-chatgpt-plus-pro-team-and-free-plans-64a08c|chatgpt-2025-08-07-64a08c]]'
@@ -77,12 +76,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-15-gpt-5-updates-9aaeee46|chatgpt-2025-08-15-gpt-5-updates-9aaeee46]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: We’re making GPT-5’s default personality warmer and more familiar. This is
-  in re
+title: We’re making GPT-5’s default personality warmer and more familiar
 type: change
 ---
 
-# We’re making GPT-5’s default personality warmer and more familiar. This is in re
+# We’re making GPT-5’s default personality warmer and more familiar
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — GPT-5 Updates: We’re making GPT-5’s default personality warmer and more familiar. This is in response to user feedback that the initial version of GPT-5 came across as too reserved and professional. The differences in personality should feel subtle but create a noticeably more approachable ChatGPT experience.Warmth here means small acknowledgements that make interactions feel more personable — for example, “Good question,” “Great start,” or briefly recognizing the user’s circumstances when relevant. This is different from sycophancy, which we define as excessive flattery that can feel insincere. You can find more about our learnings on reducing sycophancy here.This update does not show an increase in sycophancy compared to the previous personality of GPT-5, measured by the same internal evals we ran and detailed in our system card. Teaching models to be warm without being sycophantic is an ongoing research challenge, and we will continue iterating to get this right. More updates are coming soon.

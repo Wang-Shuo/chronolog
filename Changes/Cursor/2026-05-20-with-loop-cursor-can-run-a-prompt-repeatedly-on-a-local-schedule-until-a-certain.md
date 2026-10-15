@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: a66be422ffe3b37261b627c06f4d613e1a25cc1f99e50806d0a634c9918f3336
+machine_hash: 4b8bf7dec106f43f12ee801b76d0c938e51bf0c6614e89828972e85e5af5317b
 product: cursor
 product_name: Cursor
 record:
@@ -31,7 +31,7 @@ record:
       a certain outcome is achieved, or until you stop it. If you don't specify a
       fixed interval, the agent decides when or what event should wake it.
     source_release: https://cursor.com/changelog/shared-canvases
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -40,7 +40,7 @@ record:
   source_type: cursor_changelog
   theme: agent-mode
   title: With /loop, Cursor can run a prompt repeatedly on a local schedule, until
-    a cert
+    a certain…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-19-added-elapsed-duration-to-background-subagent-completion-notifications-e-g-agent|claude-code-2026-05-19-f74413]]'
@@ -50,11 +50,11 @@ source_release: '[[Releases/Cursor/cursor-2026-05-20-3-5-https-cursor-com-change
 source_type: cursor_changelog
 theme: agent-mode
 title: With /loop, Cursor can run a prompt repeatedly on a local schedule, until a
-  cert
+  certain…
 type: change
 ---
 
-# With /loop, Cursor can run a prompt repeatedly on a local schedule, until a cert
+# With /loop, Cursor can run a prompt repeatedly on a local schedule, until a certain…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Shared Canvases and /loop Skill: With /loop, Cursor can run a prompt repeatedly on a local schedule, until a certain outcome is achieved, or until you stop it. If you don't specify a fixed interval, the agent decides when or what event should wake it.

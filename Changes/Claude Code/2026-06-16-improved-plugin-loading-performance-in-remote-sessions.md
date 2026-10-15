@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: df4a6a178db92aa8871d4881d4e62bbdcb7bc4b25a296f51ba8bd01951832a65
+machine_hash: 7007141fc56898a4305577e8e2c878c2228e470ae50646f93d73d27a6c2a7daa
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Improved plugin loading performance in remote sessions
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.179
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

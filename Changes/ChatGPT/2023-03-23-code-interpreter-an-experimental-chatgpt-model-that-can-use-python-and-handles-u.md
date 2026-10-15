@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 548430e0ad9fc7cac2ece5a3f2af7ccb14b689368ea2bbfde34e4b4cf5fcafc6
+machine_hash: 205d1174841ceee1afe6c83681ef0ce6eb8552dedd2562204ec1c2407bbba461
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: 'Code Interpreter: An experimental ChatGPT model that can use Python, and
       handles uploads and downloads'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -37,7 +37,7 @@ record:
   source_type: chatgpt_changelog
   theme: model-support
   title: 'Code Interpreter: An experimental ChatGPT model that can use Python, and
-    handles'
+    handles…'
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-03-14-more-creativity|chatgpt-2023-03-14-8f3013]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8|chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: 'Code Interpreter: An experimental ChatGPT model that can use Python, and handles'
+title: 'Code Interpreter: An experimental ChatGPT model that can use Python, and handles…'
 type: change
 ---
 
-# Code Interpreter: An experimental ChatGPT model that can use Python, and handles
+# Code Interpreter: An experimental ChatGPT model that can use Python, and handles…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Introducing plugins in ChatGPT: Code Interpreter: An experimental ChatGPT model that can use Python, and handles uploads and downloads

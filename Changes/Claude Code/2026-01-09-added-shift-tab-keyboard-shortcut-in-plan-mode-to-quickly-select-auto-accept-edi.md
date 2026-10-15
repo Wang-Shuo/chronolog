@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8baf622cc9d91cf60f5c1d7a0ba632f44d5ab91c474ecf80f469c3d491e5609a
+machine_hash: ba05336aaf9e60030983110c0441a137aea3138cdf56e05b459fd28dbc13d177
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added Shift+Tab keyboard shortcut in plan mode to quickly select "auto-accept
       edits" option
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.2
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -44,8 +44,7 @@ record:
     score: 50
     theme: editor-experience
   theme_resolution: manual-semantic-rule-v1
-  title: Added Shift+Tab keyboard shortcut in plan mode to quickly select "auto-accept
-    ed
+  title: Added Shift+Tab keyboard shortcut in plan mode to quickly select…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2025-12-19-improved-theme-command-to-open-theme-picker-directly|claude-code-2025-12-19-7a3346]]'
@@ -54,12 +53,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-01-09-v2-1-2-github-275344737-27089666|claude-code-2026-01-09-v2-1-2-github-275344737-27089666]]'
 source_type: github_releases
 theme: interface-experience
-title: Added Shift+Tab keyboard shortcut in plan mode to quickly select "auto-accept
-  ed
+title: Added Shift+Tab keyboard shortcut in plan mode to quickly select…
 type: change
 ---
 
-# Added Shift+Tab keyboard shortcut in plan mode to quickly select "auto-accept ed
+# Added Shift+Tab keyboard shortcut in plan mode to quickly select…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.2: Added Shift+Tab keyboard shortcut in plan mode to quickly select "auto-accept edits" option

@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 300d19967c852767f160fa41da996c5e9e8fddf9841e6c7c36ef69662ac18cae
+machine_hash: 314ea3e5fd799deba1f0898018af08090402ae755e4929cf0a63d5406c994145
 product: cursor
 product_name: Cursor
 record:
@@ -32,7 +32,7 @@ record:
       one after another, support for Copilot++ on SSH, and fixes to how Copilot++
       UI interacts with autocomplete plugins.'
     source_release: https://cursor.com/changelog/0-15-2-0-15-5
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -51,7 +51,7 @@ record:
     theme: editor-experience
   theme_resolution: manual-semantic-rule-v1
   title: 'Copilot++ improvements: Includes green highlights to see what Copilot++
-    has adde'
+    has added…'
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-11-03-chat-scroll-we-got-rid-of-sticky-scroll-to-make-the-chat-easier-to-read|cursor-2023-11-03-4d5c9c]]'
@@ -61,11 +61,11 @@ source_release: '[[Releases/Cursor/cursor-2023-11-12-0-15-2-0-15-5-https-cursor-
 source_type: cursor_changelog
 theme: interface-experience
 title: 'Copilot++ improvements: Includes green highlights to see what Copilot++ has
-  adde'
+  added…'
 type: change
 ---
 
-# Copilot++ improvements: Includes green highlights to see what Copilot++ has adde
+# Copilot++ improvements: Includes green highlights to see what Copilot++ has added…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Copilot++ improvements, Bug fixes: Copilot++ improvements: Includes green highlights to see what Copilot++ has added, the ability to accept multiple Copilot++ suggestions immediately one after another, support for Copilot++ on SSH, and fixes to how Copilot++ UI interacts with autocomplete plugins.

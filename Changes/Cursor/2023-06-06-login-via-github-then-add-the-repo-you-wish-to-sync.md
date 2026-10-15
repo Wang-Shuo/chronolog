@@ -11,9 +11,9 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5c0dd9364dffbd2163b0f0134f67f97758d4596b8bb64e2f4925768210872389
+machine_hash: 61d286ee78b9c5b399c60862a34af45ffe60cad1eb982efdf21d13582073da65
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Login via github, then add the repo you wish to sync!
     source_release: https://cursor.com/changelog/0-2-27
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

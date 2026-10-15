@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: bbcfb7c3a7474814417f950cef0c25aa952c03704fcad54767ff0de0ea2398bb
+machine_hash: 7c0a76225c939306a179b905c9a87b165639927884a596ebb4dfcdd0c21770f0
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Some UI/UX tweaks to CMD-K
     source_release: https://cursor.com/changelog/0-2-49
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

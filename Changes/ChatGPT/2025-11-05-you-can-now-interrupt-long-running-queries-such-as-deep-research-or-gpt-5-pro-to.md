@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 4cb9590fa438dfad188f45152e324a5bab94542c33af3401c02732a11a72b0b5
+machine_hash: 9b34fc3cfccda65e82ccf03225e9eae9f588939dff7e395c182528020c68cc8e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -37,7 +37,7 @@ record:
       midstream by clicking “update” in the sidebar and sending the new information
       as a message. The model will adjust its approach based on your new requirements.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -60,8 +60,8 @@ record:
     score: 50
     theme: interface-experience
   theme_resolution: manual-semantic-rule-v2
-  title: You can now interrupt long-running queries (such as deep research or GPT-5
-    Pro)
+  title: Interrupt long-running queries (such as deep research or GPT-5 Pro) to refine
+    what…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-10-03-we-re-updating-gpt-5-instant-to-better-recognize-and-support-people-in-moments-o-ea32fc|chatgpt-2025-10-03-ea32fc]]'
@@ -70,12 +70,12 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-05-interrupt-chatgpt-f1320118|chatgpt-2025-11-05-interrupt-chatgpt-f1320118]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: You can now interrupt long-running queries (such as deep research or GPT-5
-  Pro)
+title: Interrupt long-running queries (such as deep research or GPT-5 Pro) to refine
+  what…
 type: change
 ---
 
-# You can now interrupt long-running queries (such as deep research or GPT-5 Pro)
+# Interrupt long-running queries (such as deep research or GPT-5 Pro) to refine what…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Interrupt ChatGPT: You can now interrupt long-running queries (such as deep research or GPT-5 Pro) to refine what you’re asking—no restart required or progress lost. For example, if you're researching the perfect bookshelf and suddenly remember that your wall is 72" wide and you can't drill into it, you can simply add that information midstream by clicking “update” in the sidebar and sending the new information as a message. The model will adjust its approach based on your new requirements.

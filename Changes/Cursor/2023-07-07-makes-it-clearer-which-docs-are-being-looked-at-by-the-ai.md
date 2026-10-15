@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 2d7f304ac61e4b590ee646f7ba9731cdc0653a25a016bb105761cf62dec89ace
+machine_hash: 1765454d2822cf115a556ede500482fb1415a57fed9e59952f4a50f61aa7de0f
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Makes it clearer which docs are being looked at by the AI
     source_release: https://cursor.com/changelog/0-2-44
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

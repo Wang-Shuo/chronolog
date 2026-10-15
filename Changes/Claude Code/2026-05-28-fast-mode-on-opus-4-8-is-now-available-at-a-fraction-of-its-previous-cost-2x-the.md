@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 805843a83b370f8d6e68d4c73778751167e0c94310329dbb94bd314074eb1d26
+machine_hash: 34b0a0829ee46ba5e6d56839dcf4754bbb9d6d64a8401d4d2273eb6b65856fa4
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: 'Fast mode on Opus 4.8 is now available at a fraction of its previous cost:
       2x the standard rate for 2.5x the speed'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.154
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -44,8 +44,7 @@ record:
     score: 50
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v2
-  title: 'Fast mode on Opus 4.8 is now available at a fraction of its previous cost:
-    2x th'
+  title: Fast mode on Opus 4.8 is now available at a fraction of its previous cost
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-05-28-we-re-updating-gpt-5-5-instant-in-chatgpt-and-the-api-to-improve-response-style|chatgpt-2026-05-28-d778f1]]'
@@ -54,12 +53,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-28-v2-1-154-github-330944050-782cdfc9|claude-code-2026-05-28-v2-1-154-github-330944050-782cdfc9]]'
 source_type: github_releases
 theme: model-support
-title: 'Fast mode on Opus 4.8 is now available at a fraction of its previous cost:
-  2x th'
+title: Fast mode on Opus 4.8 is now available at a fraction of its previous cost
 type: change
 ---
 
-# Fast mode on Opus 4.8 is now available at a fraction of its previous cost: 2x th
+# Fast mode on Opus 4.8 is now available at a fraction of its previous cost
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.154: Fast mode on Opus 4.8 is now available at a fraction of its previous cost: 2x the standard rate for 2.5x the speed

@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 84cf9552e1c47f7ff7bf1cffc1731ddff1b38c470bd7595bd06510119144cfbf
+machine_hash: 9cf52fcd7ece8c6550f9fa77162393da07f1c7f16c14bab9bb6b406497f57626
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       genuinely cannot make itself, instead of asking when it already has enough context
       to proceed
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.154
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   source_type: github_releases
   theme: context-window
   title: Claude now reserves the multiple-choice question prompt for decisions it
-    genuine
+    genuinely…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-06-you-can-now-see-a-breakdown-of-your-agent-s-context-usage|cursor-2026-05-06-d58e0b]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-28-v2-1-154-github-330944050-782cdfc9|claude-code-2026-05-28-v2-1-154-github-330944050-782cdfc9]]'
 source_type: github_releases
 theme: context-window
-title: Claude now reserves the multiple-choice question prompt for decisions it genuine
+title: Claude now reserves the multiple-choice question prompt for decisions it genuinely…
 type: change
 ---
 
-# Claude now reserves the multiple-choice question prompt for decisions it genuine
+# Claude now reserves the multiple-choice question prompt for decisions it genuinely…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.154: Claude now reserves the multiple-choice question prompt for decisions it genuinely cannot make itself, instead of asking when it already has enough context to proceed

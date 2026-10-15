@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4cfa80ffd8a82579f9384963e6b4e784115bcf4f611e94cefb1f4879b2a98a8b
+machine_hash: 04eb2aa2edf19d4c4d42fc6d88fa9325781c9223de9315a8f64c5fe6bbd8460b
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,7 +29,7 @@ record:
       instead of a collapsed line, and messages to Remote Control sessions on other
       machines show your Remote Control session name as the sender'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.228
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -39,8 +39,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: 'Improved cross-session messages: the sender and body now display inline
-    instead'
+  title: Improved cross-session messages
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-04-improved-the-diff-view-the-remote-control-workspace-diff-and-file-edit-diffs-in|claude-code-2026-08-04-f32488]]'
@@ -49,11 +48,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-08-11-v2-1-228-github-368745796-47d0c6b9|claude-code-2026-08-11-v2-1-228-github-368745796-47d0c6b9]]'
 source_type: github_releases
 theme: apps-integrations
-title: 'Improved cross-session messages: the sender and body now display inline instead'
+title: Improved cross-session messages
 type: change
 ---
 
-# Improved cross-session messages: the sender and body now display inline instead
+# Improved cross-session messages
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.228: Improved cross-session messages: the sender and body now display inline instead of a collapsed line, and messages to Remote Control sessions on other machines show your Remote Control session name as the sender

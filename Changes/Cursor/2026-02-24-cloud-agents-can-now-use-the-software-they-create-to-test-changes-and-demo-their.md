@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 79256139cc47576316b6dfd5d0285bc6e64579f345781b42973fb84f8f66c5a1
+machine_hash: b0c2f120313cea5c91563b7b033e0303227654caaad7dac85f75fa3d527a68f1
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Cloud agents can now use the software they create to test changes and demo
       their work.
     source_release: https://cursor.com/changelog/02-24-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,7 +35,7 @@ record:
   source_type: cursor_changelog
   theme: agent-mode
   title: Cloud agents can now use the software they create to test changes and demo
-    their
+    their work
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-18-improved-vs-code-plan-preview-auto-updates-as-claude-iterates-enables-commenting|claude-code-2026-02-18-1d1b4f]]'
@@ -45,11 +45,11 @@ source_release: '[[Releases/Cursor/cursor-2026-02-24-cloud-agents-with-computer-
 source_type: cursor_changelog
 theme: agent-mode
 title: Cloud agents can now use the software they create to test changes and demo
-  their
+  their work
 type: change
 ---
 
-# Cloud agents can now use the software they create to test changes and demo their
+# Cloud agents can now use the software they create to test changes and demo their work
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cloud Agents with Computer Use: Cloud agents can now use the software they create to test changes and demo their work.

@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 4855ecb86599d88774640baf415b5d789e8fafec5cd8fdd826d1d9c20eddd5aa
+machine_hash: 2c099baece34105790e7b58d2b9d3ae337dab71c019b44b212e17ec47b0e8d2a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       and Enterprise users no longer need to switch the beta toggle to use browse,
       and are able to choose "Browse with Bing" from the GPT-4 model selector.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -55,8 +55,7 @@ record:
     score: 50
     theme: enterprise-admin
   theme_resolution: manual-semantic-rule-v2
-  title: Browsing, which we re-launched a few weeks ago, is moving out of beta.Plus
-    and E
+  title: Browsing, which we re-launched a few weeks ago, is moving out of beta
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-09-27-choose-browse-with-bing-in-the-selector-under-gpt-4|chatgpt-2023-09-27-53ecfb]]'
@@ -65,12 +64,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2023-10-17-browsing-is-now-out-of-beta-6432b7b5|chatgpt-2023-10-17-browsing-is-now-out-of-beta-6432b7b5]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: Browsing, which we re-launched a few weeks ago, is moving out of beta.Plus
-  and E
+title: Browsing, which we re-launched a few weeks ago, is moving out of beta
 type: change
 ---
 
-# Browsing, which we re-launched a few weeks ago, is moving out of beta.Plus and E
+# Browsing, which we re-launched a few weeks ago, is moving out of beta
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Browsing is now out of beta: Browsing, which we re-launched a few weeks ago, is moving out of beta.Plus and Enterprise users no longer need to switch the beta toggle to use browse, and are able to choose "Browse with Bing" from the GPT-4 model selector.

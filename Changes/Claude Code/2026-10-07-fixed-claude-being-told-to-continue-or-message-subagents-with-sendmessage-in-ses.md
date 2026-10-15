@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: dd52b43b266db84465e1f2221a75953474c2e32a8b9718f2f4eeaa455910506f
+machine_hash: b0aa559e278f79b3d68aba2881eb1e8813feeb9e908bbf10956da66eeb12e0d1
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       in sessions, including resumed ones, where a host, a permission rule or a `--tools`
       list removed that tool
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.293
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,8 +38,7 @@ record:
   theme: safety-privacy
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: Fixed Claude being told to continue or message subagents with `SendMessage`
-    in s
+  title: Fixed Claude being told to continue or message subagents with `SendMessage`…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-30-added-a-count-such-as-2-of-5-to-the-permission-prompt-when-several-permission-re|claude-code-2026-09-30-453980]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-10-07-v2-1-293-github-405988533-66d1bb8d|claude-code-2026-10-07-v2-1-293-github-405988533-66d1bb8d]]'
 source_type: github_releases
 theme: safety-privacy
-title: Fixed Claude being told to continue or message subagents with SendMessage in
-  s
+title: Fixed Claude being told to continue or message subagents with SendMessage…
 type: change
 ---
 
-# Fixed Claude being told to continue or message subagents with `SendMessage` in s
+# Fixed Claude being told to continue or message subagents with `SendMessage`…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.293: Fixed Claude being told to continue or message subagents with `SendMessage` in sessions, including resumed ones, where a host, a permission rule or a `--tools` list removed that tool

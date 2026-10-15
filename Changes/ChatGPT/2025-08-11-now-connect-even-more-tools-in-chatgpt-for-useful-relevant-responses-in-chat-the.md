@@ -11,9 +11,9 @@ diffusion:
   theme: search-browsing
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 24dded2016710ea261f49355beaf6900ed5a12e8d840e77b3eca20a9756f0e18
+machine_hash: c6f1e2a2f0799380708749563116beec18980c8f4262dfb1f59eece4d3cc1e68
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
       chat.The following connectors are now available to search by chat in addition
       to deep research.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -47,7 +47,7 @@ record:
     theme: apps-integrations
   theme_resolution: manual-semantic-rule-v1
   title: Now connect even more tools in ChatGPT for useful, relevant responses in
-    chat.Th
+    chat
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-06-04-chatgpt-team-enterprise-and-edu-customers-globally-can-use-connectors-in-deep-re|chatgpt-2025-06-04-83d3de]]'
@@ -56,11 +56,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-11-additional-connectors-for-plus-and-pro-6d22248a|chatgpt-2025-08-11-additional-connectors-for-plus-and-pro-6d22248a]]'
 source_type: chatgpt_changelog
 theme: search-browsing
-title: Now connect even more tools in ChatGPT for useful, relevant responses in chat.Th
+title: Now connect even more tools in ChatGPT for useful, relevant responses in chat
 type: change
 ---
 
-# Now connect even more tools in ChatGPT for useful, relevant responses in chat.Th
+# Now connect even more tools in ChatGPT for useful, relevant responses in chat
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Additional connectors for Plus and Pro: Now connect even more tools in ChatGPT for useful, relevant responses in chat.The following connectors are now available to search by chat in addition to deep research.

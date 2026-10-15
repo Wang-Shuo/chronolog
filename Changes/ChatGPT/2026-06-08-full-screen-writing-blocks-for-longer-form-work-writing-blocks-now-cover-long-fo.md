@@ -11,9 +11,9 @@ diffusion:
   theme: file-data
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: a2e8da951ceb0dadb173a97b10be027305fdd63287bd9d63d09dd6dc246c5298
+machine_hash: 91269c9f547ef8b6805ff8a6f6d2ead5579172815171b200f18a76d259a65708
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,7 +39,7 @@ record:
       titles, a table of contents for long documents, download support, undo and redo
       fixes, improved save behavior, and clearer loading states.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -61,8 +61,7 @@ record:
     score: 50
     theme: file-data
   theme_resolution: manual-semantic-rule-v1
-  title: 'Full-screen writing blocks for longer-form work: Writing blocks now cover
-    long-f'
+  title: Full-screen writing blocks for longer-form work
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-20-canvases-are-interactive-artifacts-created-by-agents-like-reports-dashboards-and|cursor-2026-05-20-d26b7e]]'
@@ -71,12 +70,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
 theme: file-data
-title: 'Full-screen writing blocks for longer-form work: Writing blocks now cover
-  long-f'
+title: Full-screen writing blocks for longer-form work
 type: change
 ---
 
-# Full-screen writing blocks for longer-form work: Writing blocks now cover long-f
+# Full-screen writing blocks for longer-form work
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT app experience updates: Full-screen writing blocks for longer-form work: Writing blocks now cover long-form writing use cases, including essays, PRDs, reports, blog posts, notes, and other document work. Longer writing can now open in a focused full-screen editor. You can save your document to the Library, so you can find, reuse, or edit documents later. The experience also adds a wider document layout, cleaner titles, a table of contents for long documents, download support, undo and redo fixes, improved save behavior, and clearer loading states.

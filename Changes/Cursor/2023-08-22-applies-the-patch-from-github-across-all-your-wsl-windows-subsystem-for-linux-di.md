@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 15c1812d9470dc914a7bcf0b10a8c67c3a583594a61307475a5c756648291e88
+machine_hash: 4512ef101367fa1ea59c3f214f0fbb077662b5b5b8698377faf9fead6a8a2a53
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
       Linux) distros, either automatically or through the "Fix WSL" command palette
       command.
     source_release: https://cursor.com/changelog/0-8-4
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,7 +37,7 @@ record:
   source_type: cursor_changelog
   theme: developer-workflow
   title: Applies the patch from Github across all your WSL (Windows Subsystem for
-    Linux)
+    Linux)…
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-08-01-improved-linter-please-give-us-feedback-on-the-linter-suggestions-using-the-smil|cursor-2023-08-01-decc4a]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-08-22-0-8-4-https-cursor-com-changelog-0-8-4-540922cd|cursor-2023-08-22-0-8-4-https-cursor-com-changelog-0-8-4-540922cd]]'
 source_type: cursor_changelog
 theme: developer-workflow
-title: Applies the patch from Github across all your WSL (Windows Subsystem for Linux)
+title: Applies the patch from Github across all your WSL (Windows Subsystem for Linux)…
 type: change
 ---
 
-# Applies the patch from Github across all your WSL (Windows Subsystem for Linux)
+# Applies the patch from Github across all your WSL (Windows Subsystem for Linux)…
 
 <!-- chronolog:begin region="description" -->
 Cursor — WSL Fixes: Applies the patch from Github across all your WSL (Windows Subsystem for Linux) distros, either automatically or through the "Fix WSL" command palette command.

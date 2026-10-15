@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 67f4c95fb37e98363c2b99765c2ac416ced63b865ddd071fdc1b8c4a5c69fe1a
+machine_hash: df3e1bb8854f48995e42d80207983c3d14d6184414aca836997f8a8fa2b54449
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       connected apps. Set ChatGPT to always ask, ask before making changes, or only
       ask before important changes. Manage preferences in Settings > Apps.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -40,7 +40,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: 'App permission controls: You can now choose when ChatGPT asks before using
-    conne'
+    connected apps'
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-06-10-you-can-now-run-bugbot-and-security-review-with-review-before-pushing-code-revie|cursor-2026-06-10-a3d99d]]'
@@ -50,11 +50,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-06-18-chatgpt-app-experience-up
 source_type: chatgpt_changelog
 theme: safety-privacy
 title: 'App permission controls: You can now choose when ChatGPT asks before using
-  conne'
+  connected apps'
 type: change
 ---
 
-# App permission controls: You can now choose when ChatGPT asks before using conne
+# App permission controls: You can now choose when ChatGPT asks before using connected apps
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT app experience updates: App permission controls: You can now choose when ChatGPT asks before using connected apps. Set ChatGPT to always ask, ask before making changes, or only ask before important changes. Manage preferences in Settings > Apps.

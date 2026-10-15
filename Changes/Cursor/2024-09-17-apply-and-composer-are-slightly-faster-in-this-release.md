@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 093cbbf147c73046825664de538c3cdcac5e29b61d8917a298cef64acf5377ab
+machine_hash: a6ce001b2c1c985ece0aed5c01b1e6e7951e3d1ebd9d0f7cf55f4027c302cee2
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Apply and Composer are slightly faster in this release.
     source_release: https://cursor.com/changelog/0-41-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -33,7 +33,7 @@ record:
   source_release: cursor-2024-09-17-0-41-x-https-cursor-com-changelog-0-41-x-a8b13ea8
   source_type: cursor_changelog
   theme: reliability-performance
-  title: Apply and Composer are slightly faster in this release.
+  title: Apply and Composer are slightly faster in this release
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-05-03-stability-this-build-fixes-a-connection-error-problem-that-was-consistently-affe|cursor-2024-05-03-ea0d86]]'
@@ -42,11 +42,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-09-17-0-41-x-https-cursor-com-changelog-0-41-x-a8b13ea8|cursor-2024-09-17-0-41-x-https-cursor-com-changelog-0-41-x-a8b13ea8]]'
 source_type: cursor_changelog
 theme: reliability-performance
-title: Apply and Composer are slightly faster in this release.
+title: Apply and Composer are slightly faster in this release
 type: change
 ---
 
-# Apply and Composer are slightly faster in this release.
+# Apply and Composer are slightly faster in this release
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cursor Tab Python Auto Import, Composer Improvements, Remote SSH to Mac Support: Apply and Composer are slightly faster in this release.

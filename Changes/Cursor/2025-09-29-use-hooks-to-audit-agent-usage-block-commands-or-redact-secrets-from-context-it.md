@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 593c78cc68e19575508be6bf98614b6b024329aa1885c1cd203006070b3c10ef
+machine_hash: c78acfd768dc6a21d3fc187c3043792bbcbf699a4eebd4c01d57ca0f103899d1
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
   - quote: Use Hooks to audit Agent usage, block commands, or redact secrets from
       context. It's still in beta and we'd love to hear your feedback.
     source_release: https://cursor.com/changelog/1-7
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -47,7 +47,7 @@ record:
     score: 50
     theme: context-window
   theme_resolution: manual-semantic-rule-v1
-  title: Use Hooks to audit Agent usage, block commands, or redact secrets from context.
+  title: Use Hooks to audit Agent usage, block commands, or redact secrets from context
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-08-21-cursor-now-supports-mcp-elicitation-a-new-feature-in-the-mcp-spec-that-allows-se|cursor-2025-08-21-3d3dca]]'
@@ -56,11 +56,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae|cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae]]'
 source_type: cursor_changelog
 theme: apps-integrations
-title: Use Hooks to audit Agent usage, block commands, or redact secrets from context.
+title: Use Hooks to audit Agent usage, block commands, or redact secrets from context
 type: change
 ---
 
-# Use Hooks to audit Agent usage, block commands, or redact secrets from context.
+# Use Hooks to audit Agent usage, block commands, or redact secrets from context
 
 <!-- chronolog:begin region="description" -->
 Cursor — Browser Controls, Plan Mode, and Hooks: Use Hooks to audit Agent usage, block commands, or redact secrets from context. It's still in beta and we'd love to hear your feedback.

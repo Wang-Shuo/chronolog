@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4bb37d4c633c633875c6122d1e5586913e0dee58be193b9866fb0264cd69ff68
+machine_hash: 4026d073ce3b77560f631ee1c2993940ee80e940e68a10e0036bc6ee78f09cd1
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Cursor is now based on VS Code 1.84.2. Notably, this fixes a few notebook
       bugs, and ensures that all of the most recent extensions work.
     source_release: https://cursor.com/changelog/0-16-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,8 +37,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Cursor is now based on VS Code 1.84.2. Notably, this fixes a few notebook
-    bugs,
+  title: Cursor is now based on VS Code 1.84.2
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-10-20-cursor-is-now-based-on-vs-code-1-83-1-this-ensures-that-the-newest-versions-of-a|cursor-2023-10-20-3eaae6]]'
@@ -47,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-11-15-0-16-0-https-cursor-com-changelog-0-16-0-5861ed6e|cursor-2023-11-15-0-16-0-https-cursor-com-changelog-0-16-0-5861ed6e]]'
 source_type: cursor_changelog
 theme: apps-integrations
-title: Cursor is now based on VS Code 1.84.2. Notably, this fixes a few notebook bugs,
+title: Cursor is now based on VS Code 1.84.2
 type: change
 ---
 
-# Cursor is now based on VS Code 1.84.2. Notably, this fixes a few notebook bugs,
+# Cursor is now based on VS Code 1.84.2
 
 <!-- chronolog:begin region="description" -->
 Cursor — Copilot++ improvements and VS Code 1.84.2: Cursor is now based on VS Code 1.84.2. Notably, this fixes a few notebook bugs, and ensures that all of the most recent extensions work.

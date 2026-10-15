@@ -11,9 +11,9 @@ diffusion:
   theme: file-data
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: c1538bc8fa56cb987533b26e5d9dd0ec4a08bf46d7f2c4c85aabddd70a9d0ef4
+machine_hash: cf0e9cdca5f47f39aac7d132b6648bb440e7cdfe25a691740ed1ebb2851d18e9
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
       and custom interfaces. Instead of sharing a full chat thread, you can share
       a link to a live snapshot of a canvas for teammates to open in the browser.
     source_release: https://cursor.com/changelog/shared-canvases
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -51,7 +51,7 @@ record:
     score: 50
     theme: file-data
   theme_resolution: manual-semantic-rule-v1
-  title: Canvases are interactive artifacts created by agents, like reports, dashboards,
+  title: Canvases are interactive artifacts created by agents, like reports, dashboards…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-05-14-plus-and-business-20-gb|chatgpt-2026-05-14-b947e4]]'
@@ -60,11 +60,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-05-20-3-5-https-cursor-com-changelog-shared-canvases-68b3b2da|cursor-2026-05-20-3-5-https-cursor-com-changelog-shared-canvases-68b3b2da]]'
 source_type: cursor_changelog
 theme: file-data
-title: Canvases are interactive artifacts created by agents, like reports, dashboards,
+title: Canvases are interactive artifacts created by agents, like reports, dashboards…
 type: change
 ---
 
-# Canvases are interactive artifacts created by agents, like reports, dashboards,
+# Canvases are interactive artifacts created by agents, like reports, dashboards…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Shared Canvases and /loop Skill: Canvases are interactive artifacts created by agents, like reports, dashboards, and custom interfaces. Instead of sharing a full chat thread, you can share a link to a live snapshot of a canvas for teammates to open in the browser.

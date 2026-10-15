@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f7d6d29fa3d7a711ffca0fa507698800683c83fe68708f0f672aa9042f47be22
+machine_hash: 9b5107e958aa20d41d457d3c18c3031e46f835b41c4eefa98b17203ebbaa3d84
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
       computer awake" under Remote Control in Cursor's desktop settings. Your computer
       needs to be plugged in with the lid open.
     source_release: https://cursor.com/changelog/remote-control-local-agents
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,8 +37,7 @@ record:
   source_release: cursor-2026-10-06-remote-control-for-local-agents-https-cursor-com-changelog-remot-bb6325fd
   source_type: cursor_changelog
   theme: mobile-desktop
-  title: To stop your computer from sleeping while you're away, turn on "Keep this
-    comput
+  title: To stop your computer from sleeping while you're away, turn…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-29-added-claude-desktop-to-open-the-claude-desktop-app-on-the-current-directory-or|claude-code-2026-09-29-fa0eb0]]'
@@ -47,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-10-06-remote-control-for-local-agents-https-cursor-com-changelog-remot-bb6325fd|cursor-2026-10-06-remote-control-for-local-agents-https-cursor-com-changelog-remot-bb6325fd]]'
 source_type: cursor_changelog
 theme: mobile-desktop
-title: To stop your computer from sleeping while you're away, turn on "Keep this comput
+title: To stop your computer from sleeping while you're away, turn…
 type: change
 ---
 
-# To stop your computer from sleeping while you're away, turn on "Keep this comput
+# To stop your computer from sleeping while you're away, turn…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Remote control for local agents: To stop your computer from sleeping while you're away, turn on "Keep this computer awake" under Remote Control in Cursor's desktop settings. Your computer needs to be plugged in with the lid open.

@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 177bb56f21251d01f50eb1ad84016bbd3ee3ef5f84c58145415575a2e3819f86
+machine_hash: 32d96a986291c707cb27218002bc4f4a24deb1c496a50e13de99b1a391b03caa
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -52,7 +52,7 @@ record:
       programming, business, and writing help. Reviewers also rated o3-pro consistently
       higher for clarity, comprehensiveness, instruction-following, and accuracy.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -74,8 +74,7 @@ record:
     score: 50
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v2
-  title: Like o1-pro, o3-pro is a version of our most intelligent model, o3, designed
-    to
+  title: Like o1-pro, o3-pro is a version of our most intelligent model, o3, designed…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-06-10-academic-evaluations-show-that-o3-pro-consistently-outperforms-both-o1-pro-and-o|chatgpt-2025-06-10-14dc39]]'
@@ -84,12 +83,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-10-today-we-re-launching-openai-o3-pro-available-now-for-pro-users-43fd47c2|chatgpt-2025-06-10-today-we-re-launching-openai-o3-pro-available-now-for-pro-users-43fd47c2]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: Like o1-pro, o3-pro is a version of our most intelligent model, o3, designed
-  to
+title: Like o1-pro, o3-pro is a version of our most intelligent model, o3, designed…
 type: change
 ---
 
-# Like o1-pro, o3-pro is a version of our most intelligent model, o3, designed to
+# Like o1-pro, o3-pro is a version of our most intelligent model, o3, designed…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Today, we're launching OpenAI o3-pro—available now for Pro users in ChatGPT and in our API.: Like o1-pro, o3-pro is a version of our most intelligent model, o3, designed to think longer and provide the most reliable responses. Since the launch of o1-pro, users have favored this model for domains such as math, science, and coding—areas where o3-pro continues to excel, as shown in academic evaluations. Like o3, o3-pro has access to tools that make ChatGPT useful—it can search the web, analyze files, reason about visual inputs, use Python, personalize responses using memory, and more. Because o3-pro has access to tools, responses typically take longer than o1-pro to complete. We recommend using it for challenging questions where reliability matters more than speed, and waiting a few minutes is worth the tradeoff.In expert evaluations, reviewers consistently prefer o3-pro over o3 in every tested category and especially in key domains like science, education, programming, business, and writing help. Reviewers also rated o3-pro consistently higher for clarity, comprehensiveness, instruction-following, and accuracy.

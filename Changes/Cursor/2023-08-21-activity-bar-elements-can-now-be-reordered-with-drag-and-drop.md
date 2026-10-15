@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a3a5a3d1f5bd48caf7c30d2a405f932f02f06e24633c6c7f6b50250b55ec836b
+machine_hash: fd3bfb444b0f67f63471876ec89bfc50fa4981a4a79f4b56d47dc354024de698
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Activity bar elements can now be reordered with drag-and-drop.
     source_release: https://cursor.com/changelog/0-7-18-nightly
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,7 +35,7 @@ record:
   theme: interface-experience
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Activity bar elements can now be reordered with drag-and-drop.
+  title: Activity bar elements can now be reordered with drag-and-drop
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-07-07-better-symbol-keyboard-ergonomics|cursor-2023-07-07-194f00]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-08-21-0-7-18-nightly-https-cursor-com-changelog-0-7-18-nightly-011c03c1|cursor-2023-08-21-0-7-18-nightly-https-cursor-com-changelog-0-7-18-nightly-011c03c1]]'
 source_type: cursor_changelog
 theme: interface-experience
-title: Activity bar elements can now be reordered with drag-and-drop.
+title: Activity bar elements can now be reordered with drag-and-drop
 type: change
 ---
 
-# Activity bar elements can now be reordered with drag-and-drop.
+# Activity bar elements can now be reordered with drag-and-drop
 
 <!-- chronolog:begin region="description" -->
 Cursor — Small fixes: Activity bar elements can now be reordered with drag-and-drop.

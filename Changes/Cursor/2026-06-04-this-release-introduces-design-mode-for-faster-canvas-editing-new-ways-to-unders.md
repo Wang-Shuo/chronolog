@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: fd300cf0fc522f7ab39585f45a3cba2d6597eb01fe342373fbabd55bd9fecd9e
+machine_hash: 122424ac154722015cdf9646a8a6ab2466727da06cfba5c1ef3c3c9d96dd0ace
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
   - quote: This release introduces Design Mode for faster canvas editing, new ways
       to understand context usage, and other quality-of-life improvements.
     source_release: https://cursor.com/changelog/canvas-improvements
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -51,8 +51,7 @@ record:
     score: 50
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v1
-  title: This release introduces Design Mode for faster canvas editing, new ways to
-    under
+  title: Cursor introduces Design Mode for faster canvas editing, new ways to understand…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-13-compact-chats-give-you-a-tighter-view-of-your-agent-conversations-so-you-can-rea|cursor-2026-05-13-0b8ff5]]'
@@ -61,12 +60,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-06-04-3-7-https-cursor-com-changelog-canvas-improvements-6f42df85|cursor-2026-06-04-3-7-https-cursor-com-changelog-canvas-improvements-6f42df85]]'
 source_type: cursor_changelog
 theme: context-window
-title: This release introduces Design Mode for faster canvas editing, new ways to
-  under
+title: Cursor introduces Design Mode for faster canvas editing, new ways to understand…
 type: change
 ---
 
-# This release introduces Design Mode for faster canvas editing, new ways to under
+# Cursor introduces Design Mode for faster canvas editing, new ways to understand…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Canvas Design Mode and Context Usage Report: This release introduces Design Mode for faster canvas editing, new ways to understand context usage, and other quality-of-life improvements.

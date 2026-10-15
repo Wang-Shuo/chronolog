@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ead225738b49aef4e6c2b849b0fed9182a99b14468f27f6253cc3454d9438a68
+machine_hash: 9aa654e91c1898006f61706ab343eae208e81c73cedf0f5aa2f6aa51bb4746de
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       to you based on your plan and usage—like Images, Codex, Pulse, and Apps—now
       appear in a horizontal bar above your chats and projects.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -56,7 +56,7 @@ record:
     theme: apps-integrations
   theme_resolution: manual-semantic-rule-v1
   title: To give you more space to view your most critical chats and projects, the
-    sideba
+    sidebar…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-02-24-cloud-agents-are-available-anywhere-you-use-cursor-including-web-desktop-mobile|cursor-2026-02-24-be269a]]'
@@ -65,11 +65,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-26-a-simplified-sidebar-on-mobile-0f580b11|chatgpt-2026-03-26-a-simplified-sidebar-on-mobile-0f580b11]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: To give you more space to view your most critical chats and projects, the sideba
+title: To give you more space to view your most critical chats and projects, the sidebar…
 type: change
 ---
 
-# To give you more space to view your most critical chats and projects, the sideba
+# To give you more space to view your most critical chats and projects, the sidebar…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — A simplified sidebar on mobile: To give you more space to view your most critical chats and projects, the sidebar menu is now simplified on iOS and Android. ChatGPT experiences available to you based on your plan and usage—like Images, Codex, Pulse, and Apps—now appear in a horizontal bar above your chats and projects.

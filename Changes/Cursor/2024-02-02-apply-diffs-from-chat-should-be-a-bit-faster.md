@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: eb4309d219a531d8c50362944d3df9fe6d0ecfeb6ee468c0cf713ebd7c25cfc2
+machine_hash: 6284508bddbc4f11cc18172ffbf2f4cd143ac973866d5f2b6af74cec9311d27c
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: '"Apply Diffs" from chat should be a bit faster.'
     source_release: https://cursor.com/changelog/0-25-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -33,7 +33,7 @@ record:
   source_release: cursor-2024-02-02-0-25-x-https-cursor-com-changelog-0-25-x-29976ab7
   source_type: cursor_changelog
   theme: reliability-performance
-  title: '"Apply Diffs" from chat should be a bit faster.'
+  title: '"Apply Diffs" from chat should be a bit faster'
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-11-30-faster-copilot-a-few-hundred-milliseconds-faster-through-various-networking-opti|cursor-2023-11-30-4f78ac]]'
@@ -42,11 +42,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-02-02-0-25-x-https-cursor-com-changelog-0-25-x-29976ab7|cursor-2024-02-02-0-25-x-https-cursor-com-changelog-0-25-x-29976ab7]]'
 source_type: cursor_changelog
 theme: reliability-performance
-title: '"Apply Diffs" from chat should be a bit faster.'
+title: '"Apply Diffs" from chat should be a bit faster'
 type: change
 ---
 
-# "Apply Diffs" from chat should be a bit faster.
+# "Apply Diffs" from chat should be a bit faster
 
 <!-- chronolog:begin region="description" -->
 Cursor — Command-K Vision Support: "Apply Diffs" from chat should be a bit faster.

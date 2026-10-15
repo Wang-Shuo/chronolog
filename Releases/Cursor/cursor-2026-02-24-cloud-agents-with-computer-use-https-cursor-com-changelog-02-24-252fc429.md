@@ -1,7 +1,7 @@
 ---
 changes_count: 4
 date: '2026-02-24'
-machine_hash: 1ddc8d1feac39cd4af506a742d9db27896e73f10dfaf9341df05fcb42f07dc05
+machine_hash: f5180cef1f6760d95d353092d2d54bb61327cc9a79c5b5f2bc2b1c57f66234c8
 product: cursor
 product_name: Cursor
 record:
@@ -39,8 +39,8 @@ Tracked cards: 4
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- agent-mode: [[Changes/Cursor/2026-02-24-cloud-agents-can-now-use-the-software-they-create-to-test-changes-and-demo-their|Cloud agents can now use the software they create to test changes and demo their]]
-- agent-mode: [[Changes/Cursor/2026-02-24-after-onboarding-onto-your-codebase-each-agent-runs-in-its-own-isolated-vm-with|After onboarding onto your codebase, each agent runs in its own isolated VM with]]
-- mobile-desktop: [[Changes/Cursor/2026-02-24-cloud-agents-are-available-anywhere-you-use-cursor-including-web-desktop-mobile|Cloud agents are available anywhere you use Cursor, including web, desktop, mobi]]
-- agent-mode: [[Changes/Cursor/2026-02-24-get-started-at-cursor-com-onboard-to-watch-the-agent-configure-itself-and-record|Get started at cursor.com/onboard to watch the agent configure itself and record]]
+- agent-mode: [[Changes/Cursor/2026-02-24-cloud-agents-can-now-use-the-software-they-create-to-test-changes-and-demo-their|Cloud agents can now use the software they create to test changes and demo their work]]
+- agent-mode: [[Changes/Cursor/2026-02-24-after-onboarding-onto-your-codebase-each-agent-runs-in-its-own-isolated-vm-with|After onboarding onto your codebase, each agent runs in its own isolated VM…]]
+- mobile-desktop: [[Changes/Cursor/2026-02-24-cloud-agents-are-available-anywhere-you-use-cursor-including-web-desktop-mobile|Cloud agents are available anywhere you use Cursor, including web, desktop, mobile…]]
+- agent-mode: [[Changes/Cursor/2026-02-24-get-started-at-cursor-com-onboard-to-watch-the-agent-configure-itself-and-record|Get started at cursor.com/onboard to watch the agent configure itself and record a demo]]
 <!-- chronolog:end -->

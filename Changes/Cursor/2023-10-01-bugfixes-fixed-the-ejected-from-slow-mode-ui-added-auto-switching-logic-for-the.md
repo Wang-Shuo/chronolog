@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: adf6ef5f7b8026a85adf281fad822980e2164392c416d8c7e4d70ab0b4c5ce2a
+machine_hash: 7fe0d86fd418c4e7cfcdab26c3ceed3fa322bb048af05144aac6035d44bac71c
 product: cursor
 product_name: Cursor
 record:
@@ -31,7 +31,7 @@ record:
       for the model type when switching on API, improved @ symbol speed, fixed Windows
       keycommand to be Ctrl-Shift-Y instead of Ctrl-Y, and more.
     source_release: https://cursor.com/changelog/0-12-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -49,8 +49,7 @@ record:
     score: 50
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v1
-  title: Bugfixes! Fixed the "ejected from slow mode" UI, added auto-switching logic
-    for
+  title: Bugfixes!
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-09-20-we-ship-a-new-version-of-indexing-which-should-be-significantly-more-stable-than|cursor-2023-09-20-1364f8]]'
@@ -59,12 +58,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-10-01-0-12-0-https-cursor-com-changelog-0-12-0-2555ff30|cursor-2023-10-01-0-12-0-https-cursor-com-changelog-0-12-0-2555ff30]]'
 source_type: cursor_changelog
 theme: reliability-performance
-title: Bugfixes! Fixed the "ejected from slow mode" UI, added auto-switching logic
-  for
+title: Bugfixes!
 type: change
 ---
 
-# Bugfixes! Fixed the "ejected from slow mode" UI, added auto-switching logic for
+# Bugfixes!
 
 <!-- chronolog:begin region="description" -->
 Cursor — Indexing, cmd-k in terminal, @git, /edit, bugfixes: Bugfixes! Fixed the "ejected from slow mode" UI, added auto-switching logic for the model type when switching on API, improved @ symbol speed, fixed Windows keycommand to be Ctrl-Shift-Y instead of Ctrl-Y, and more.

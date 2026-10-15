@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 1de72c1b22059832a58e26c47cf97245631d5e6a06e4325382ec450285a2949d
+machine_hash: 8762856ccde3c7afca1dc98bbff7962084fecb9e65099b1946bab807b89975c3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
   - quote: Standard (new default, balancing speed and intelligence) and Extended (the
       previous default for Plus) are available to all Plus, Business users
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -37,8 +37,7 @@ record:
   source_release: chatgpt-2025-09-17-toggle-thinking-time-in-the-message-composer-66cafc9c
   source_type: chatgpt_changelog
   theme: reliability-performance
-  title: Standard (new default, balancing speed and intelligence) and Extended (the
-    previ
+  title: Standard (new default, balancing speed and intelligence) and Extended…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-05-08-outside-the-european-regions-listed-above-all-plus-and-pro-accounts-that-have-me-507581|chatgpt-2025-05-08-507581]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-17-toggle-thinking-time-in-the-message-composer-66cafc9c|chatgpt-2025-09-17-toggle-thinking-time-in-the-message-composer-66cafc9c]]'
 source_type: chatgpt_changelog
 theme: reliability-performance
-title: Standard (new default, balancing speed and intelligence) and Extended (the
-  previ
+title: Standard (new default, balancing speed and intelligence) and Extended…
 type: change
 ---
 
-# Standard (new default, balancing speed and intelligence) and Extended (the previ
+# Standard (new default, balancing speed and intelligence) and Extended…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Toggle thinking time in the message composer: Standard (new default, balancing speed and intelligence) and Extended (the previous default for Plus) are available to all Plus, Business users

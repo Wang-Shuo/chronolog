@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 51f31a0379a450c0750bc3a0fbe9f2433d23ac6eb4ac548afc184bbd3f47b100
+machine_hash: 3692697fc61a7de4cc0655ba0dc1aea0ebe4ac4e9b3f05d63ce0a6e2349f762d
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Added `plansDirectory` setting to customize where plan files are stored
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.9
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

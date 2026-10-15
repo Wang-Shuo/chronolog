@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-09-29'
-machine_hash: d502d952bb75d15f9ff980ba7405dff883c84ce2c15cc10844a1d04c7879068d
+machine_hash: 9e97833d5446410d3a29f74e2040583f253ad1a2ea2ca247a9a7d689b01f891d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- apps-integrations: [[Changes/ChatGPT/2026-09-29-supported-plugins-can-use-mcp-events-to-start-an-automation-when-something-chang|Supported plugins can use MCP events to start an automation when something chang]]
+- apps-integrations: [[Changes/ChatGPT/2026-09-29-supported-plugins-can-use-mcp-events-to-start-an-automation-when-something-chang|Supported plugins can use MCP events to start an automation when something changes…]]
 <!-- chronolog:end -->

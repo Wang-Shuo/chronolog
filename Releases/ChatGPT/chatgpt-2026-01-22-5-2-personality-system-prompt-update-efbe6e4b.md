@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-01-22'
-machine_hash: fcecf3c2b68105c6130644d992ca8878b5a5a0f0c3d74bb7e0f49ac105dd406c
+machine_hash: 327f51140e2a3e3b7c14cc5f884d673885205732d187d3c9a1e34970ae00e1af
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2026-01-22-we-re-updating-gpt-5-2-instant-s-default-personality-to-be-more-conversational-a|We’re updating GPT-5.2 Instant’s default personality to be more conversational a]]
+- model-support: [[Changes/ChatGPT/2026-01-22-we-re-updating-gpt-5-2-instant-s-default-personality-to-be-more-conversational-a|We’re updating GPT-5.2 Instant’s default personality to be more conversational…]]
 <!-- chronolog:end -->

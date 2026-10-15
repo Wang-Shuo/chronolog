@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 93bfef95da185ef082653c25ecf731e5b23808bc022ae870377183f5527a032d
+machine_hash: fdf82a0420940470a821e9273023b90b0b1a88f58f972067632f419f74d84241
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       field and the `$CLAUDE_EFFORT` environment variable, and Bash tool commands
       can read `$CLAUDE_EFFORT`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.133
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -39,7 +39,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: Hooks now receive the active effort level via the `effort.level` JSON input
-    fiel
+    field…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-06-plugin-manifests-themes-and-monitors-should-now-be-declared-under-experimental-t|claude-code-2026-05-06-43315d]]'
@@ -48,11 +48,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-07-v2-1-133-github-319164825-08653677|claude-code-2026-05-07-v2-1-133-github-319164825-08653677]]'
 source_type: github_releases
 theme: apps-integrations
-title: Hooks now receive the active effort level via the effort.level JSON input fiel
+title: Hooks now receive the active effort level via the effort.level JSON input field…
 type: change
 ---
 
-# Hooks now receive the active effort level via the `effort.level` JSON input fiel
+# Hooks now receive the active effort level via the `effort.level` JSON input field…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.133: Hooks now receive the active effort level via the `effort.level` JSON input field and the `$CLAUDE_EFFORT` environment variable, and Bash tool commands can read `$CLAUDE_EFFORT`

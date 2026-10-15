@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d0aeeb570cb16261f63eafe2da058648753469744d03c9a23bb882d178242966
+machine_hash: 4ece26777c953518f3a65e60dc21505cfe99973e8db5f3ce70eacfcc8faecbee
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added an Auto mode tab to `/permissions` for viewing and editing auto mode
       classifier rules
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.246
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -44,8 +44,7 @@ record:
     score: 50
     theme: editor-experience
   theme_resolution: manual-backfill-review-v1
-  title: Added an Auto mode tab to `/permissions` for viewing and editing auto mode
-    class
+  title: Added an Auto mode tab to `/permissions` for viewing and editing auto mode…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-19-sandbox-on-macos-wildcard-read-deny-rules-e-g-env-now-take-precedence-inside-all|claude-code-2026-08-19-39e04d]]'
@@ -54,11 +53,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0|claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0]]'
 source_type: github_releases
 theme: safety-privacy
-title: Added an Auto mode tab to /permissions for viewing and editing auto mode class
+title: Added an Auto mode tab to /permissions for viewing and editing auto mode…
 type: change
 ---
 
-# Added an Auto mode tab to `/permissions` for viewing and editing auto mode class
+# Added an Auto mode tab to `/permissions` for viewing and editing auto mode…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.246: Added an Auto mode tab to `/permissions` for viewing and editing auto mode classifier rules

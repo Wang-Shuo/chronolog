@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2026-06-05'
-machine_hash: 0cdbf409d1eae62156fded210671efc9948937fa1696fd88328c2340d8358a88
+machine_hash: c4456b9a101d8841b3401869b4039a26b3b2bf468eeedb823dd10e6469cee133
 product: cursor
 product_name: Cursor
 record:
@@ -39,7 +39,7 @@ Tracked cards: 3
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- voice: [[Changes/Cursor/2026-06-05-narrate-changes-through-the-design-mode-overlay-the-mic-stays-available-while-an|Narrate changes through the Design Mode overlay. The mic stays available while a]]
-- agent-mode: [[Changes/Cursor/2026-06-05-ask-the-agent-to-make-one-match-the-other-remove-repeated-content-or-adjust-a-gr|Ask the agent to make one match the other, remove repeated content, or adjust a]]
-- voice: [[Changes/Cursor/2026-06-05-with-design-mode-in-the-cursor-browser-you-can-click-draw-or-describe-changes-by|With Design Mode in the Cursor browser, you can click, draw, or describe changes]]
+- voice: [[Changes/Cursor/2026-06-05-narrate-changes-through-the-design-mode-overlay-the-mic-stays-available-while-an|Narrate changes through the Design Mode overlay]]
+- agent-mode: [[Changes/Cursor/2026-06-05-ask-the-agent-to-make-one-match-the-other-remove-repeated-content-or-adjust-a-gr|Ask the agent to make one match the other, remove repeated content, or adjust…]]
+- voice: [[Changes/Cursor/2026-06-05-with-design-mode-in-the-cursor-browser-you-can-click-draw-or-describe-changes-by|With Design Mode in the Cursor browser, you can click, draw, or describe changes…]]
 <!-- chronolog:end -->

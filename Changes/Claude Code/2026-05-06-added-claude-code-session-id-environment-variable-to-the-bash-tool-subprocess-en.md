@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1bbb933cb56f8e31becf923e3ac6e599f102d06bc0d8c2fc129cdab497df4c91
+machine_hash: 4bd743ecfb9d66293afbb92f836410b868c58b2de312134c453790e6b30432e8
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Added `CLAUDE_CODE_SESSION_ID` environment variable to the Bash tool subprocess
       environment, matching the `session_id` passed to hooks
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.132
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Added `CLAUDE_CODE_SESSION_ID` environment variable to the Bash tool subprocess
+  title: Added `CLAUDE_CODE_SESSION_ID` environment variable to the Bash tool subprocess…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-04-plugin-dir-now-accepts-zip-plugin-archives-in-addition-to-directories|claude-code-2026-05-04-5bd676]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-06-v2-1-132-github-318578987-ed60d664|claude-code-2026-05-06-v2-1-132-github-318578987-ed60d664]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added CLAUDE_CODE_SESSION_ID environment variable to the Bash tool subprocess
+title: Added CLAUDE_CODE_SESSION_ID environment variable to the Bash tool subprocess…
 type: change
 ---
 
-# Added `CLAUDE_CODE_SESSION_ID` environment variable to the Bash tool subprocess
+# Added `CLAUDE_CODE_SESSION_ID` environment variable to the Bash tool subprocess…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.132: Added `CLAUDE_CODE_SESSION_ID` environment variable to the Bash tool subprocess environment, matching the `session_id` passed to hooks

@@ -1,7 +1,7 @@
 ---
 changes_count: 4
 date: '2026-08-07'
-machine_hash: 26e955b9c046da3e10e1a65add0c272d24b6811bf353787aaaf9e9d70da4b98e
+machine_hash: 167de51e8e3da010da01cbfe2446d57903059ca03f1c555a8b3d9ff5f443693c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,8 +39,8 @@ Tracked cards: 4
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- interface-experience: [[Changes/ChatGPT/2026-08-07-add-saved-files-without-uploading-them-again-open-the-composer-menu-on-the-web-s|Add saved files without uploading them again. Open the composer menu on the web,]]
-- file-data: [[Changes/ChatGPT/2026-08-07-get-answers-that-stay-closer-to-your-documents-chatgpt-makes-better-use-of-infor|Get answers that stay closer to your documents. ChatGPT makes better use of info]]
-- file-data: [[Changes/ChatGPT/2026-08-07-we-ve-made-it-easier-to-bring-documents-and-saved-files-into-your-conversations|We’ve made it easier to bring documents and saved files into your conversations,]]
-- mobile-desktop: [[Changes/ChatGPT/2026-08-07-find-folders-files-and-past-conversations-faster-search-now-includes-folders-and|Find folders, files, and past conversations faster. Search now includes folders]]
+- interface-experience: [[Changes/ChatGPT/2026-08-07-add-saved-files-without-uploading-them-again-open-the-composer-menu-on-the-web-s|Add saved files without uploading them again]]
+- file-data: [[Changes/ChatGPT/2026-08-07-get-answers-that-stay-closer-to-your-documents-chatgpt-makes-better-use-of-infor|Get answers that stay closer to your documents]]
+- file-data: [[Changes/ChatGPT/2026-08-07-we-ve-made-it-easier-to-bring-documents-and-saved-files-into-your-conversations|ChatGPT makes it easier to bring documents and saved files into your conversations…]]
+- mobile-desktop: [[Changes/ChatGPT/2026-08-07-find-folders-files-and-past-conversations-faster-search-now-includes-folders-and|Find folders, files, and past conversations faster]]
 <!-- chronolog:end -->

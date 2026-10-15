@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: b5ea5e2b0b288e5090d82360a1d8fcd8036c07197026587e3271775a977b9294
+machine_hash: 854acd9fae7866d15bbaf34274b381c4a84d1127644501323f0ed1b452671d8e
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       that grant code execution (`.npmrc`, `.yarnrc*`, `bunfig.toml`, `.bazelrc`,
       `.pre-commit-config.yaml`, `.devcontainer/`, etc.)'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.160
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -39,7 +39,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: '`acceptEdits` mode now prompts before writing build-tool config files that
-    grant'
+    grant…'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-27-added-reload-skills-command-to-re-scan-skill-directories-without-restarting-the|claude-code-2026-05-27-8c63c5]]'
@@ -48,11 +48,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-02-v2-1-160-github-332740156-03dd8b5a|claude-code-2026-06-02-v2-1-160-github-332740156-03dd8b5a]]'
 source_type: github_releases
 theme: developer-workflow
-title: acceptEdits mode now prompts before writing build-tool config files that grant
+title: acceptEdits mode now prompts before writing build-tool config files that grant…
 type: change
 ---
 
-# `acceptEdits` mode now prompts before writing build-tool config files that grant
+# `acceptEdits` mode now prompts before writing build-tool config files that grant…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.160: `acceptEdits` mode now prompts before writing build-tool config files that grant code execution (`.npmrc`, `.yarnrc*`, `bunfig.toml`, `.bazelrc`, `.pre-commit-config.yaml`, `.devcontainer/`, etc.)

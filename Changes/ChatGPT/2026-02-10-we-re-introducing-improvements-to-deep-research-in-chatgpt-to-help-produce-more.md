@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0eaeb002d366043e81833900e23aeb58eb98524a2630379ad362884761e37ca1
+machine_hash: b80cd4c080d84188eb982bb2454ee90e9a70ec6151b744d3985b24a8b9383ebe
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -36,7 +36,7 @@ record:
       plan before it begins, and track progress with the ability to adjust direction
       mid-run.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -58,8 +58,7 @@ record:
     - apps
     score: 50
     theme: apps-integrations
-  title: We’re introducing improvements to deep research in ChatGPT to help produce
-    more
+  title: ChatGPT introduces improvements to deep research to help produce more accurate…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-29-changed-merged-pull-requests-to-show-a-purple-status-indicator-in-the-prompt-foo|claude-code-2026-01-29-e46c5e]]'
@@ -68,12 +67,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-10-updates-to-deep-research-d407d051|chatgpt-2026-02-10-updates-to-deep-research-d407d051]]'
 source_type: chatgpt_changelog
 theme: interface-experience
-title: We’re introducing improvements to deep research in ChatGPT to help produce
-  more
+title: ChatGPT introduces improvements to deep research to help produce more accurate…
 type: change
 ---
 
-# We’re introducing improvements to deep research in ChatGPT to help produce more
+# ChatGPT introduces improvements to deep research to help produce more accurate…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Updates to deep research: We’re introducing improvements to deep research in ChatGPT to help produce more accurate, credible reports with greater control. You can now focus research on specific websites and a larger collection of connected apps as trusted sources. A redesigned sidebar entry point and fullscreen report view make it easier to start, review, and manage research in one place. Create and edit a research plan before it begins, and track progress with the ability to adjust direction mid-run.

@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-09-21'
-machine_hash: 2d0e8eecd2cfd506cdf18704b3537ca6be2bc3f2c80ef3b9f21db32f2bd511bf
+machine_hash: abea6947b1d35d047ec5ae74ba7a3e78edb30eca2c9e790b2444ff107a3ef55c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- mobile-desktop: [[Changes/ChatGPT/2026-09-21-this-feature-is-rolling-out-in-finances-to-plus-and-pro-users-in-the-u-s-on-web|This feature is rolling out in Finances to Plus and Pro users in the U.S. on web]]
+- mobile-desktop: [[Changes/ChatGPT/2026-09-21-this-feature-is-rolling-out-in-finances-to-plus-and-pro-users-in-the-u-s-on-web|This feature is rolling out in Finances to Plus and Pro users in the U.S. on web…]]
 <!-- chronolog:end -->

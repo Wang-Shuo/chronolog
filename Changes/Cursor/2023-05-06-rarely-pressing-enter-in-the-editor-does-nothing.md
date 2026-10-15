@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0d780f8ccbf67b10a08d47e6d78a83943d07cd11f9511b86db1861a8d8b23a62
+machine_hash: 1f66eeb516b30ca4ce20ee82a9d23e908a4685c5ec9866e5bd321735a38d3430
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Rarely, pressing Enter in the editor does nothing
     source_release: https://cursor.com/changelog/0-2-10
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

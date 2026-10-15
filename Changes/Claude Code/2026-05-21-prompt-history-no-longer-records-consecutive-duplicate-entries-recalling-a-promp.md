@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3a51bb70658f3fdd38b931b615fe4c29e5284c6de94f56f59947e2a9fc68d725
+machine_hash: 34e87bdc3e57cdc6a752fcdf02c657040b54187b3f2eec21f547f9e1a750993f
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Prompt history no longer records consecutive duplicate entries — recalling
       a prompt with arrow-up and submitting it again won't add another copy
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.147
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,8 +37,7 @@ record:
   theme: interface-experience
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Prompt history no longer records consecutive duplicate entries — recalling
-    a pro
+  title: Prompt history no longer records consecutive duplicate entries
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-13-enter-and-exit-full-screen-by-clicking-on-the-expand-contract-button-in-the-pane|cursor-2026-05-13-d54c8a]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-21-v2-1-147-github-327133263-73928fcd|claude-code-2026-05-21-v2-1-147-github-327133263-73928fcd]]'
 source_type: github_releases
 theme: interface-experience
-title: Prompt history no longer records consecutive duplicate entries — recalling
-  a pro
+title: Prompt history no longer records consecutive duplicate entries
 type: change
 ---
 
-# Prompt history no longer records consecutive duplicate entries — recalling a pro
+# Prompt history no longer records consecutive duplicate entries
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.147: Prompt history no longer records consecutive duplicate entries — recalling a prompt with arrow-up and submitting it again won't add another copy

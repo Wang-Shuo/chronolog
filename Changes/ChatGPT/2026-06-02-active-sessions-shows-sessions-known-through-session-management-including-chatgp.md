@@ -11,9 +11,9 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a400387479429914373d82f5bfade3f75cb4634605e33435bcde5c46cb63ae84
+machine_hash: 1bad4ebeac2cc90c59d795391bf8c9f8ab95888a165fa08a95d57e025435fdbe
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
       only for third-party services, or Codex CLI sessions.Learn more: Managing active
       sessions in ChatGPT'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -51,7 +51,7 @@ record:
     theme: apps-integrations
   theme_resolution: manual-semantic-rule-v1
   title: Active sessions shows sessions known through session management, including
-    ChatG
+    ChatGPT…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-04-channels-now-works-with-console-api-key-authentication-console-orgs-with-managed|claude-code-2026-05-04-da7dd3]]'
@@ -61,11 +61,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-06-02-active-account-session-co
 source_type: chatgpt_changelog
 theme: account-access
 title: Active sessions shows sessions known through session management, including
-  ChatG
+  ChatGPT…
 type: change
 ---
 
-# Active sessions shows sessions known through session management, including ChatG
+# Active sessions shows sessions known through session management, including ChatGPT…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Active account session controls: Active sessions shows sessions known through session management, including ChatGPT, Codex, and API Platform sessions where available. It does not manage third-party app sessions, connected apps, Sign in with ChatGPT sessions used only for third-party services, or Codex CLI sessions.Learn more: Managing active sessions in ChatGPT

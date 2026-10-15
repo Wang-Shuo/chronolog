@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: c60713adcf0c9b989ab32607aeebf0a1d5bd1ab0c56405b1cc623a43a19558d7
+machine_hash: 38792944bd09f05593c4e432a57891947365fa3385bed3449d419b1e97523f58
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: You can now see and reply to the local agents running on your computer
       from the Cursor iOS app.
     source_release: https://cursor.com/changelog/remote-control-local-agents
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -44,8 +44,8 @@ record:
     score: 50
     theme: mobile-desktop
   theme_resolution: manual-semantic-rule-v1
-  title: You can now see and reply to the local agents running on your computer from
-    the
+  title: See and reply to the local agents running on your computer from the Cursor
+    iOS app
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-10-01-available-in-chatgpt-on-mobile-and-web|chatgpt-2026-10-01-6c34b2]]'
@@ -54,12 +54,12 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-10-06-remote-control-for-local-agents-https-cursor-com-changelog-remot-bb6325fd|cursor-2026-10-06-remote-control-for-local-agents-https-cursor-com-changelog-remot-bb6325fd]]'
 source_type: cursor_changelog
 theme: mobile-desktop
-title: You can now see and reply to the local agents running on your computer from
-  the
+title: See and reply to the local agents running on your computer from the Cursor
+  iOS app
 type: change
 ---
 
-# You can now see and reply to the local agents running on your computer from the
+# See and reply to the local agents running on your computer from the Cursor iOS app
 
 <!-- chronolog:begin region="description" -->
 Cursor — Remote control for local agents: You can now see and reply to the local agents running on your computer from the Cursor iOS app.

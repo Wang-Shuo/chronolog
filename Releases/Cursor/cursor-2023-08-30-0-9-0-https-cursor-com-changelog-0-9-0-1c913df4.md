@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2023-08-30'
-machine_hash: 384dbb7fc51bdb7d8bb351f6763da34fff33b37eeb655a20f0660a86b4b0eced
+machine_hash: bac19d26da748746e75f5f365cff83053dcf48eedc2921d8622379ca59aef495
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ Tracked cards: 3
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- interface-experience: [[Changes/Cursor/2023-08-30-you-can-now-switch-to-the-vs-code-sidebar-orientation|You can now switch to the VS Code sidebar orientation]]
+- interface-experience: [[Changes/Cursor/2023-08-30-you-can-now-switch-to-the-vs-code-sidebar-orientation|Switch to the VS Code sidebar orientation]]
 - safety-privacy: [[Changes/Cursor/2023-08-30-api-key-input-box-is-now-a-password-type|API Key input box is now a password type]]
-- context-window: [[Changes/Cursor/2023-08-30-for-with-codebase-chats-you-can-now-see-the-codebase-context-that-cursor-shows-g|For "with codebase" chats, you can now see the codebase context that Cursor show]]
+- context-window: [[Changes/Cursor/2023-08-30-for-with-codebase-chats-you-can-now-see-the-codebase-context-that-cursor-shows-g|For "with codebase" chats, you can now see the codebase context that Cursor shows GPT-4]]
 <!-- chronolog:end -->

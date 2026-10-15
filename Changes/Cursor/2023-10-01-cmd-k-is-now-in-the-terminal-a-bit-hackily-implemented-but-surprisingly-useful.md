@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3cf771300434fbf1cfb7033ba306c36775f38c6a24a44a50f12c9ee6806793ab
+machine_hash: f415c7e4f2dfd20b3be61acf2c7efd82f0eb65067dc67ec82255fb059ecb399f
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Cmd-k is now in the terminal! A bit hackily implemented, but surprisingly
       useful.
     source_release: https://cursor.com/changelog/0-12-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -44,8 +44,7 @@ record:
     score: 50
     theme: developer-workflow
   theme_resolution: manual-semantic-rule-v1
-  title: Cmd-k is now in the terminal! A bit hackily implemented, but surprisingly
-    useful
+  title: Cmd-k is now in the terminal!
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-09-19-you-can-now-alternate-between-diffs-and-texts-responses-in-cmd-k-this-can-be-hel|cursor-2023-09-19-321702]]'
@@ -54,11 +53,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-10-01-0-12-0-https-cursor-com-changelog-0-12-0-2555ff30|cursor-2023-10-01-0-12-0-https-cursor-com-changelog-0-12-0-2555ff30]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: Cmd-k is now in the terminal! A bit hackily implemented, but surprisingly useful
+title: Cmd-k is now in the terminal!
 type: change
 ---
 
-# Cmd-k is now in the terminal! A bit hackily implemented, but surprisingly useful
+# Cmd-k is now in the terminal!
 
 <!-- chronolog:begin region="description" -->
 Cursor — Indexing, cmd-k in terminal, @git, /edit, bugfixes: Cmd-k is now in the terminal! A bit hackily implemented, but surprisingly useful.

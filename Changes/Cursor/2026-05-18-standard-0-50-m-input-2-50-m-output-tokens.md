@@ -11,9 +11,9 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9b7fcf26044582d7a153eaaf81838ad3e8a036686001ad0dcb87d11fb3d4c721
+machine_hash: 9dfeeac18219713af0704c59ea4c4a66bf45dd7506355300441624c471eac49e
 product: cursor
 product_name: Cursor
 record:
@@ -24,7 +24,7 @@ record:
   evidence:
   - quote: 'Standard: $0.50/M input, $2.50/M output tokens'
     source_release: https://cursor.com/changelog/composer-2-5
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

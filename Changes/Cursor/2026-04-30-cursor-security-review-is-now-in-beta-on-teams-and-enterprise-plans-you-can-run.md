@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 42092d472eb57c8cec5315dd6f334c5b1563bc9ef7535997ea122aab7d54eacb
+machine_hash: 6bb0fcd19ce38a49f4f245b7834e2b16706cb45dfd6d6f802b520500c196ef2c
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
       can run two types of always-on security agents: Security Reviewer and Vulnerability
       Scanner.'
     source_release: https://cursor.com/changelog/04-30-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -55,8 +55,7 @@ record:
     score: 50
     theme: enterprise-admin
   theme_resolution: manual-semantic-rule-v2
-  title: Cursor Security Review is now in beta on Teams and Enterprise plans. You
-    can run
+  title: Cursor Security Review is now in beta on Teams and Enterprise plans
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-17-added-sandbox-network-denieddomains-setting-to-block-specific-domains-even-when|claude-code-2026-04-17-856cba]]'
@@ -65,12 +64,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-04-30-cursor-security-review-https-cursor-com-changelog-04-30-26-640898b1|cursor-2026-04-30-cursor-security-review-https-cursor-com-changelog-04-30-26-640898b1]]'
 source_type: cursor_changelog
 theme: safety-privacy
-title: Cursor Security Review is now in beta on Teams and Enterprise plans. You can
-  run
+title: Cursor Security Review is now in beta on Teams and Enterprise plans
 type: change
 ---
 
-# Cursor Security Review is now in beta on Teams and Enterprise plans. You can run
+# Cursor Security Review is now in beta on Teams and Enterprise plans
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cursor Security Review: Cursor Security Review is now in beta on Teams and Enterprise plans. You can run two types of always-on security agents: Security Reviewer and Vulnerability Scanner.

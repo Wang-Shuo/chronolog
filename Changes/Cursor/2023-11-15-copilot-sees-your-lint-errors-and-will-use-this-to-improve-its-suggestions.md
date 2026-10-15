@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 96d0a10c97be7aca2d249babc4a450cf784522f6100fc20275836a0649e9ccf0
+machine_hash: 0fd14b2db6b34f33de80273d32f8157591764409d1b35a0f252a092226a6a09c
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Copilot++ sees your lint errors and will use this to improve its suggestions
     source_release: https://cursor.com/changelog/0-16-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

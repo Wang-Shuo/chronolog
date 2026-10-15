@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e031b7cb2f9d1793ac98872c94041af9f39d7110ed9884a4562758703a86921c
+machine_hash: 0763993f7a3676ee172cb461482bd17945c0e0465424bf0037711d4f542fb491
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       and sharing, more control over connected apps, and faster photo uploads on iOS,
       and more.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -57,7 +57,7 @@ record:
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v1
   title: ChatGPT now has more ways to help with common questions, from pronunciation
-    guid
+    guidance…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-06-10-on-ios-and-android-you-can-find-the-picker-at-the-top-of-the-conversation-on-web|chatgpt-2026-06-10-4b01b5]]'
@@ -67,11 +67,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-06-18-chatgpt-app-experience-up
 source_type: chatgpt_changelog
 theme: mobile-desktop
 title: ChatGPT now has more ways to help with common questions, from pronunciation
-  guid
+  guidance…
 type: change
 ---
 
-# ChatGPT now has more ways to help with common questions, from pronunciation guid
+# ChatGPT now has more ways to help with common questions, from pronunciation guidance…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT app experience updates: ChatGPT now has more ways to help with common questions, from pronunciation guidance to World Cup updates. It’s also smoother to use, with easier chat organization and sharing, more control over connected apps, and faster photo uploads on iOS, and more.

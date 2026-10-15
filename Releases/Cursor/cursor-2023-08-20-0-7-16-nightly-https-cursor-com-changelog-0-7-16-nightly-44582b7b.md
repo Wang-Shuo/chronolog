@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-08-20'
-machine_hash: f384fd8dedd62addee27a2a2d7353ae2be92437232d530d97d9b04b2e2b5261b
+machine_hash: 1017eb9763fb6baf8e346d22ca99bda41f95d44748b0814a4f21aa3440fa8075
 product: cursor
 product_name: Cursor
 record:
@@ -39,5 +39,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- reliability-performance: [[Changes/Cursor/2023-08-20-ssh-support-is-now-more-robust-please-continue-to-let-us-know-if-you-are-experie|SSH support is now more robust! Please continue to let us know if you are experi]]
+- reliability-performance: [[Changes/Cursor/2023-08-20-ssh-support-is-now-more-robust-please-continue-to-let-us-know-if-you-are-experie|SSH support is now more robust!]]
 <!-- chronolog:end -->

@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 80d9110fbfbf2ea6c162010402613e03617bacf4e3154e739fe6112f68c05708
+machine_hash: 81370e6eeb8266d009f989f500aea95332cc0a119b4646aeff13685cec251884
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Fixed remote and scheduled sessions failing with "user messages must have
       non-empty content" after a re-sent permission approval could not be applied
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.258
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,8 +37,7 @@ record:
   theme: safety-privacy
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: Fixed remote and scheduled sessions failing with "user messages must have
-    non-em
+  title: Fixed remote and scheduled sessions failing…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-25-fixed-sessions-that-ended-in-plan-mode-resuming-outside-plan-mode-in-the-vs-code|claude-code-2026-08-25-38167c]]'
@@ -47,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-01-v2-1-258-github-380858621-ccfab6d9|claude-code-2026-09-01-v2-1-258-github-380858621-ccfab6d9]]'
 source_type: github_releases
 theme: safety-privacy
-title: Fixed remote and scheduled sessions failing with "user messages must have non-em
+title: Fixed remote and scheduled sessions failing…
 type: change
 ---
 
-# Fixed remote and scheduled sessions failing with "user messages must have non-em
+# Fixed remote and scheduled sessions failing…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.258: Fixed remote and scheduled sessions failing with "user messages must have non-empty content" after a re-sent permission approval could not be applied

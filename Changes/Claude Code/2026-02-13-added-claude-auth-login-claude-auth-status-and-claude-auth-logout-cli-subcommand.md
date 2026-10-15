@@ -11,9 +11,9 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: b92d01d10f3894e462f9dabe937d9144695e6a5ffd09538c09ab061b5277523f
+machine_hash: 5358871b6e55e0cec98057959e9912509f40da6276afb7668d5a808f946c9a54
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `claude auth login`, `claude auth status`, and `claude auth logout`
       CLI subcommands
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.41
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,7 +35,7 @@ record:
   source_type: github_releases
   theme: account-access
   title: Added `claude auth login`, `claude auth status`, and `claude auth logout`
-    CLI su
+    CLI subcommands
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2024-04-01-we-re-making-it-easier-for-people-to-experience-the-benefits-of-ai-without-needi|chatgpt-2024-04-01-9d75a2]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-02-13-v2-1-41-github-285970764-07a64ba8|claude-code-2026-02-13-v2-1-41-github-285970764-07a64ba8]]'
 source_type: github_releases
 theme: account-access
-title: Added claude auth login, claude auth status, and claude auth logout CLI su
+title: Added claude auth login, claude auth status, and claude auth logout CLI subcommands
 type: change
 ---
 
-# Added `claude auth login`, `claude auth status`, and `claude auth logout` CLI su
+# Added `claude auth login`, `claude auth status`, and `claude auth logout` CLI subcommands
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.41: Added `claude auth login`, `claude auth status`, and `claude auth logout` CLI subcommands

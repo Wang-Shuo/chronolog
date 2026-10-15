@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d01c4c4de566184e9dfb36bed37b698018336a7fe48a8328114c3a62e4e4df2b
+machine_hash: 779a2866747ad17973091638a264b05896d9ff8523c09dc28d97f5b740950245
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
       0.44. You can enable them in Settings > Models. We self-host these models in
       the US.'
     source_release: https://cursor.com/changelog/0-45-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -36,8 +36,7 @@ record:
   source_release: cursor-2025-01-23-0-45-x-https-cursor-com-changelog-0-45-x-c162d228
   source_type: cursor_changelog
   theme: model-support
-  title: 'Deepseek models: Deepseek R1 and Deepseek v3 are supported in 0.45 and 0.44.
-    You'
+  title: 'Deepseek models: Deepseek R1 and Deepseek v3 are supported in 0.45 and 0.44'
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-07-23-new-default-model-we-ve-made-claude-3-5-sonnet-the-default-model-for-users|cursor-2024-07-23-f11f54]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-01-23-0-45-x-https-cursor-com-changelog-0-45-x-c162d228|cursor-2025-01-23-0-45-x-https-cursor-com-changelog-0-45-x-c162d228]]'
 source_type: cursor_changelog
 theme: model-support
-title: 'Deepseek models: Deepseek R1 and Deepseek v3 are supported in 0.45 and 0.44.
-  You'
+title: 'Deepseek models: Deepseek R1 and Deepseek v3 are supported in 0.45 and 0.44'
 type: change
 ---
 
-# Deepseek models: Deepseek R1 and Deepseek v3 are supported in 0.45 and 0.44. You
+# Deepseek models: Deepseek R1 and Deepseek v3 are supported in 0.45 and 0.44
 
 <!-- chronolog:begin region="description" -->
 Cursor — .cursor/rules, Better Codebase Understanding, New Tab Model: Deepseek models: Deepseek R1 and Deepseek v3 are supported in 0.45 and 0.44. You can enable them in Settings > Models. We self-host these models in the US.

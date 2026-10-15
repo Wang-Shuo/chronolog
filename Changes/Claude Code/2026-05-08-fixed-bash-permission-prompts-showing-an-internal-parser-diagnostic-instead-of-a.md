@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a2a5f9bc1afcc1f5f199f1302591f8c7c5ea1d63fb7e61661849835f0603862f
+machine_hash: 3200d565a61ddd56b8be4442fe9f829a0980c0cc7a1b8137288c53237eba87ff
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Fixed Bash permission prompts showing an internal parser diagnostic instead
       of a user-readable explanation
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.136
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   theme: safety-privacy
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: Fixed Bash permission prompts showing an internal parser diagnostic instead
-    of a
+  title: Fixed Bash permission prompts showing an internal parser diagnostic instead…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-06-fixed-permission-mode-flag-being-ignored-when-resuming-a-plan-mode-session-with|claude-code-2026-05-06-ab7de0]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-08-v2-1-136-github-319609716-58f21368|claude-code-2026-05-08-v2-1-136-github-319609716-58f21368]]'
 source_type: github_releases
 theme: safety-privacy
-title: Fixed Bash permission prompts showing an internal parser diagnostic instead
-  of a
+title: Fixed Bash permission prompts showing an internal parser diagnostic instead…
 type: change
 ---
 
-# Fixed Bash permission prompts showing an internal parser diagnostic instead of a
+# Fixed Bash permission prompts showing an internal parser diagnostic instead…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.136: Fixed Bash permission prompts showing an internal parser diagnostic instead of a user-readable explanation

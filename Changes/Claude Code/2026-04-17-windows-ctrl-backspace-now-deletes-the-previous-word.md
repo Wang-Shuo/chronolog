@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f58604251f4f6324d708ed0cfd57a3e5b4133b74014684a171bc330858fa8c3e
+machine_hash: f15e317039ad68563c940cb88b06ee792117178a1112bacffba1613e9dcef907
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: 'Windows: `Ctrl+Backspace` now deletes the previous word'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.113
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

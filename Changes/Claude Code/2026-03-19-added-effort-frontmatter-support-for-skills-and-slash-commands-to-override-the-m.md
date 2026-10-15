@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: f85910004452e05af848931c964b6256cd45a812ba405f231b742272592e35b4
+machine_hash: 873a58e8992e44a55cb946ac05f99b7bafbb68f87f2db2929deba5f40413c698
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Added `effort` frontmatter support for skills and slash commands to override
       the model effort level when invoked
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.80
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   source_release: claude-code-2026-03-19-v2-1-80-github-299176707-1bfcfc3a
   source_type: github_releases
   theme: model-support
-  title: Added `effort` frontmatter support for skills and slash commands to override
-    the
+  title: Added `effort` frontmatter support for skills and slash commands to override…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-03-17-thinking-deeper-reasoning-for-more-complex-tasks|chatgpt-2026-03-17-acdeda]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-19-v2-1-80-github-299176707-1bfcfc3a|claude-code-2026-03-19-v2-1-80-github-299176707-1bfcfc3a]]'
 source_type: github_releases
 theme: model-support
-title: Added effort frontmatter support for skills and slash commands to override
-  the
+title: Added effort frontmatter support for skills and slash commands to override…
 type: change
 ---
 
-# Added `effort` frontmatter support for skills and slash commands to override the
+# Added `effort` frontmatter support for skills and slash commands to override…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.80: Added `effort` frontmatter support for skills and slash commands to override the model effort level when invoked

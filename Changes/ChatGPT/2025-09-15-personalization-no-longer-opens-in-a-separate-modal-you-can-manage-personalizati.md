@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 29bd6a9069a5d46eaeeb177f859ed598954dedff4b04ddbcf46a8a91e142e5f3
+machine_hash: d19fe0ba445072973c8c8d51281914255865c8e546e1f80543b16c39f7610956
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       choose a ChatGPT personality, add custom instructions, and update Memory directly
       in Settings → Personalization.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -37,7 +37,7 @@ record:
   source_release: chatgpt-2025-09-15-personalization-settings-are-now-in-settings-bdb1bffc
   source_type: chatgpt_changelog
   theme: memory
-  title: Personalization no longer opens in a separate modal. You can manage personalizat
+  title: Personalization no longer opens in a separate modal
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-08-18-longer-memory-for-more-personalized-responses|chatgpt-2025-08-18-ae5e80]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-15-personalization-settings-are-now-in-settings-bdb1bffc|chatgpt-2025-09-15-personalization-settings-are-now-in-settings-bdb1bffc]]'
 source_type: chatgpt_changelog
 theme: memory
-title: Personalization no longer opens in a separate modal. You can manage personalizat
+title: Personalization no longer opens in a separate modal
 type: change
 ---
 
-# Personalization no longer opens in a separate modal. You can manage personalizat
+# Personalization no longer opens in a separate modal
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Personalization settings are now in Settings: Personalization no longer opens in a separate modal. You can manage personalization, choose a ChatGPT personality, add custom instructions, and update Memory directly in Settings → Personalization.

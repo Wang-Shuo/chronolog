@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 55444d4d2f2920b5e87936b90bb9914df8cb0774b4907c2957a30aba5a0a24db
+machine_hash: 35dd6fbe1dde6558aec264dca5fba22f20a552dd41e573159167e0ed4ea288bc
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       current turn and sends all queued messages at once; sent and queued messages
       show in gray until the model receives them
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.275
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -39,6 +39,7 @@ record:
   source_type: github_releases
   theme: model-support
   title: Added a send-now key (ctrl+enter, or ctrl+x ctrl+s) that interrupts the current
+    turn…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-11-added-claude-code-gateway-model-discovery-timeout-ms-to-extend-the-llm-gateway-v|claude-code-2026-09-11-be6b15]]'
@@ -48,10 +49,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-09-17-v2-1-275-github-3
 source_type: github_releases
 theme: model-support
 title: Added a send-now key (ctrl+enter, or ctrl+x ctrl+s) that interrupts the current
+  turn…
 type: change
 ---
 
-# Added a send-now key (ctrl+enter, or ctrl+x ctrl+s) that interrupts the current
+# Added a send-now key (ctrl+enter, or ctrl+x ctrl+s) that interrupts the current turn…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.275: Added a send-now key (ctrl+enter, or ctrl+x ctrl+s) that interrupts the current turn and sends all queued messages at once; sent and queued messages show in gray until the model receives them

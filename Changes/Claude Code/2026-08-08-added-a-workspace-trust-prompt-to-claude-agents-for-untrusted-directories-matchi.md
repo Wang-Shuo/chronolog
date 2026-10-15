@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: c07075ded5f076b84218e5e874589d89e69547338bf062368a087a9732a5e6de
+machine_hash: 268500d838c80cf5dc8b97428c9807fe19c4cc72fce3f52923d4ff62192ddfb7
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added a workspace trust prompt to `claude agents` for untrusted directories,
       matching the behavior of `claude`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.225
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   theme: safety-privacy
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: Added a workspace trust prompt to `claude agents` for untrusted directories,
-    mat
+  title: Added a workspace trust prompt to `claude agents` for untrusted directories…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-04-fixed-a-bash-tool-permission-check-bypass-where-zsh-could-execute-hidden-command|claude-code-2026-08-04-965dd1]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-08-08-v2-1-225-github-367046190-ccb40049|claude-code-2026-08-08-v2-1-225-github-367046190-ccb40049]]'
 source_type: github_releases
 theme: safety-privacy
-title: Added a workspace trust prompt to claude agents for untrusted directories,
-  mat
+title: Added a workspace trust prompt to claude agents for untrusted directories…
 type: change
 ---
 
-# Added a workspace trust prompt to `claude agents` for untrusted directories, mat
+# Added a workspace trust prompt to `claude agents` for untrusted directories…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.225: Added a workspace trust prompt to `claude agents` for untrusted directories, matching the behavior of `claude`

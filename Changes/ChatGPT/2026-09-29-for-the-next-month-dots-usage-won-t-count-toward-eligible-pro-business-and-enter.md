@@ -11,9 +11,9 @@ diffusion:
   theme: enterprise-admin
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f2e8c807ba3a4640013ca9db7f153144e958d09cfb4107c1399c3cef443be892
+machine_hash: 78258b08b4a94b0f0ca96d21ecd9cc6d62dbef217da721bdd4d44692dadc5599
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
       and Enterprise users’ plan allowances. After this period, we’ll share usage
       terms for each plan.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -36,8 +36,7 @@ record:
   source_release: chatgpt-2026-09-29-meet-your-dot-8b9f914b
   source_type: chatgpt_changelog
   theme: enterprise-admin
-  title: For the next month, dots usage won’t count toward eligible Pro, Business,
-    and En
+  title: For the next month, dots usage won’t count toward eligible Pro, Business…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-09-23-both-are-available-today-on-teams-and-enterprise-plans|cursor-2026-09-23-a75ad6]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-meet-your-dot-8b9f914b|chatgpt-2026-09-29-meet-your-dot-8b9f914b]]'
 source_type: chatgpt_changelog
 theme: enterprise-admin
-title: For the next month, dots usage won’t count toward eligible Pro, Business, and
-  En
+title: For the next month, dots usage won’t count toward eligible Pro, Business…
 type: change
 ---
 
-# For the next month, dots usage won’t count toward eligible Pro, Business, and En
+# For the next month, dots usage won’t count toward eligible Pro, Business…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Meet your dot: For the next month, dots usage won’t count toward eligible Pro, Business, and Enterprise users’ plan allowances. After this period, we’ll share usage terms for each plan.

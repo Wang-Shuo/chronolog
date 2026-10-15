@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 715d80865e7ded15b8565bcf163db5ba868f34325f1e5fda82fae406b7edfe84
+machine_hash: 12dda92acea5138d8299e144ffa55416a9680d6a08a1238a9ad669be0904b9cf
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
       and teams. We protect your privacy by ensuring no PII or sensitive data is collected
       as part of these insights.
     source_release: https://cursor.com/changelog/enterprise-dec-2025
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -52,6 +52,7 @@ record:
     theme: safety-privacy
   theme_resolution: manual-semantic-rule-v2
   title: Enterprise customers can also extend these categories across their organization
+    and teams
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-09-17-this-update-fixes-the-following-security-issue-cve-2024-45599|cursor-2024-09-17-98704c]]'
@@ -61,10 +62,11 @@ source_release: '[[Releases/Cursor/cursor-2025-12-18-enterprise-insights-billing
 source_type: cursor_changelog
 theme: safety-privacy
 title: Enterprise customers can also extend these categories across their organization
+  and teams
 type: change
 ---
 
-# Enterprise customers can also extend these categories across their organization
+# Enterprise customers can also extend these categories across their organization and teams
 
 <!-- chronolog:begin region="description" -->
 Cursor — Enterprise Insights, Billing Groups, Service Accounts, and Improved Security Controls: Enterprise customers can also extend these categories across their organization and teams. We protect your privacy by ensuring no PII or sensitive data is collected as part of these insights.

@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 615b3ea66e63378e82d2ea53909480ca53bc02269cdfe2a4155defe49a668667
+machine_hash: e7e06f4565924218793af4850581396fc5ffdb6ec5607a2814a6f47e05b6acd1
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Cmd K context-building improvements
     source_release: https://cursor.com/changelog/0-35-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

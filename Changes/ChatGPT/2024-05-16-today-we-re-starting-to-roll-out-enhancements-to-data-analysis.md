@@ -11,9 +11,9 @@ diffusion:
   theme: file-data
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: efaecc40118f631e97ee965ec40c6d8bc8b1004b957d70ea382dd567498a6088
+machine_hash: 3e61461bdf3a4c3b412a3e45442296ca3726d80c3f177bebc7e39958c05ce96a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: 'Today, we’re starting to roll out enhancements to data analysis:'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -33,18 +33,18 @@ record:
   source_release: chatgpt-2024-05-16-improvements-to-data-analysis-in-chatgpt-a2e63572
   source_type: chatgpt_changelog
   theme: file-data
-  title: 'Today, we’re starting to roll out enhancements to data analysis:'
+  title: Today, we’re starting to roll out enhancements to data analysis
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|chatgpt-2023-07-06-66255e]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-05-16-improvements-to-data-analysis-in-chatgpt-a2e63572|chatgpt-2024-05-16-improvements-to-data-analysis-in-chatgpt-a2e63572]]'
 source_type: chatgpt_changelog
 theme: file-data
-title: 'Today, we’re starting to roll out enhancements to data analysis:'
+title: Today, we’re starting to roll out enhancements to data analysis
 type: change
 ---
 
-# Today, we’re starting to roll out enhancements to data analysis:
+# Today, we’re starting to roll out enhancements to data analysis
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Improvements to data analysis in ChatGPT: Today, we’re starting to roll out enhancements to data analysis:

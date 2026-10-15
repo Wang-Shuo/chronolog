@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 1e5cf33775addbf8ac9276fddd0c5fed729f5f46857bf12d235cf6871f817a84
+machine_hash: df1c82ad3f7286bb8ce4cf2d7589f3e89e80c5dd7a74111695e629ff4243522c
 product: cursor
 product_name: Cursor
 record:
@@ -31,7 +31,7 @@ record:
       the keybinding configurable (go to Cursor Settings > Features > Cpp to re-enable).
       Makes gpt-4o the default model.'
     source_release: https://cursor.com/changelog/0-35-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -50,8 +50,7 @@ record:
     score: 50
     theme: interface-experience
   theme_resolution: manual-semantic-rule-v2
-  title: 'UPDATE (0.35.1): Disables Copilot++ partial accepts by default and makes
-    the key'
+  title: 'UPDATE (0.35.1): Disables Copilot++ partial accepts by default and makes…'
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2024-05-13-gpt-4o-is-our-newest-flagship-model-that-provides-gpt-4-level-intelligence-that-297427|chatgpt-2024-05-13-297427]]'
@@ -60,12 +59,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-06-08-0-35-x-https-cursor-com-changelog-0-35-x-b4216e90|cursor-2024-06-08-0-35-x-https-cursor-com-changelog-0-35-x-b4216e90]]'
 source_type: cursor_changelog
 theme: model-support
-title: 'UPDATE (0.35.1): Disables Copilot++ partial accepts by default and makes the
-  key'
+title: 'UPDATE (0.35.1): Disables Copilot++ partial accepts by default and makes…'
 type: change
 ---
 
-# UPDATE (0.35.1): Disables Copilot++ partial accepts by default and makes the key
+# UPDATE (0.35.1): Disables Copilot++ partial accepts by default and makes…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Default-on Cursor Prediction, Remote Tunnels & More Robust SSH: UPDATE (0.35.1): Disables Copilot++ partial accepts by default and makes the keybinding configurable (go to Cursor Settings > Features > Cpp to re-enable). Makes gpt-4o the default model.

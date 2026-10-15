@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2024-05-16'
-machine_hash: a823d8d0c6f8a459b96645d2fc590bff8a35ad14452adc19b8d06742f93e59f5
+machine_hash: 3d1705472ac9cf383bfafd4e98e36041f58ca6b97574fc5297a4d082cf43c0d9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,9 +38,9 @@ Tracked cards: 5
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- file-data: [[Changes/ChatGPT/2024-05-16-today-we-re-starting-to-roll-out-enhancements-to-data-analysis|Today, we’re starting to roll out enhancements to data analysis:]]
+- file-data: [[Changes/ChatGPT/2024-05-16-today-we-re-starting-to-roll-out-enhancements-to-data-analysis|Today, we’re starting to roll out enhancements to data analysis]]
 - file-data: [[Changes/ChatGPT/2024-05-16-interact-with-tables-and-charts-in-a-new-expandable-view|Interact with tables and charts in a new expandable view]]
-- model-support: [[Changes/ChatGPT/2024-05-16-data-analysis-improvements-are-available-in-our-new-flagship-model-gpt-4o-for-ch|Data analysis improvements are available in our new flagship model, GPT-4o, for]]
-- apps-integrations: [[Changes/ChatGPT/2024-05-16-upload-the-latest-file-versions-directly-from-google-drive-microsoft-onedrive-pe|Upload the latest file versions directly from Google Drive, Microsoft OneDrive P]]
+- model-support: [[Changes/ChatGPT/2024-05-16-data-analysis-improvements-are-available-in-our-new-flagship-model-gpt-4o-for-ch|Data analysis improvements are available in our new flagship model, GPT-4o…]]
+- apps-integrations: [[Changes/ChatGPT/2024-05-16-upload-the-latest-file-versions-directly-from-google-drive-microsoft-onedrive-pe|Upload the latest file versions directly from Google Drive, Microsoft OneDrive…]]
 - file-data: [[Changes/ChatGPT/2024-05-16-customize-and-download-presentation-ready-charts-and-documents|Customize and download presentation-ready charts and documents]]
 <!-- chronolog:end -->

@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2024-12-13'
-machine_hash: 2f56fade2952a037cb42f8e90f17f5a62806052c54f5acaeeca3457aca5e3f07
+machine_hash: 524fea29a87b6e661212300c25fec10a08b0aa0c264ffde323ca6f828fbabba9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,7 +42,7 @@ Tracked cards: 3
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2024-12-13-projects-provide-a-new-way-to-group-files-and-chats-for-personal-use-simplifying|Projects provide a new way to group files and chats for personal use, simplifyin]]
+- model-support: [[Changes/ChatGPT/2024-12-13-projects-provide-a-new-way-to-group-files-and-chats-for-personal-use-simplifying|Projects provide a new way to group files and chats for personal use, simplifying…]]
 - file-data: [[Changes/ChatGPT/2024-12-13-advanced-data-analysis|Advanced data analysis]]
-- collaboration: [[Changes/ChatGPT/2024-12-13-chatgpt-projects-are-available-to-all-plus-team-and-pro-users|ChatGPT Projects are available to all Plus, Team, and Pro users.]]
+- collaboration: [[Changes/ChatGPT/2024-12-13-chatgpt-projects-are-available-to-all-plus-team-and-pro-users|ChatGPT Projects are available to all Plus, Team, and Pro users]]
 <!-- chronolog:end -->

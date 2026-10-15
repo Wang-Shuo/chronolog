@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6c0bb41e68e508c3d5ccdecc9668101bdc68243e016398de7d40d6f8fd1c5593
+machine_hash: a7381cededb85f5858487490f111150909e1b02453caf4e5f35cc1f8e47dcbf2
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
       so you can watch several agents run at once. Split screen keeps a review open
       next to a chat, and file diffs render in full.
     source_release: https://cursor.com/changelog/ipad
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -51,8 +51,7 @@ record:
     score: 50
     theme: mobile-desktop
   theme_resolution: manual-semantic-rule-v1
-  title: The iPad layout is rebuilt around the extra space. Sidebar chats stay pinned
-    so
+  title: The iPad layout is rebuilt around the extra space
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-07-16-we-ve-updated-the-chatgpt-desktop-app-to-make-it-easier-to-choose-between-chat-a|chatgpt-2026-07-16-5f6f38]]'
@@ -61,12 +60,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-07-29-cursor-now-on-ipad-https-cursor-com-changelog-ipad-d2eeee4c|cursor-2026-07-29-cursor-now-on-ipad-https-cursor-com-changelog-ipad-d2eeee4c]]'
 source_type: cursor_changelog
 theme: mobile-desktop
-title: The iPad layout is rebuilt around the extra space. Sidebar chats stay pinned
-  so
+title: The iPad layout is rebuilt around the extra space
 type: change
 ---
 
-# The iPad layout is rebuilt around the extra space. Sidebar chats stay pinned so
+# The iPad layout is rebuilt around the extra space
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cursor, now on iPad: The iPad layout is rebuilt around the extra space. Sidebar chats stay pinned so you can watch several agents run at once. Split screen keeps a review open next to a chat, and file diffs render in full.

@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-04-21'
-machine_hash: cb6ce549fbc08825725505749fd3e3d89475f8a4ec47c324c30435a962bb4aac
+machine_hash: 2353531d92bba0b0a90b621e92fb947433d34c74b21b9ab5c3a53adc2ea9430c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- image-generation: [[Changes/ChatGPT/2026-04-21-we-re-introducing-chatgpt-images-2-0-our-new-image-generation-model-in-chatgpt-c|We’re introducing ChatGPT Images 2.0, our new image generation model in ChatGPT.]]
+- image-generation: [[Changes/ChatGPT/2026-04-21-we-re-introducing-chatgpt-images-2-0-our-new-image-generation-model-in-chatgpt-c|ChatGPT introduces ChatGPT Images 2.0, our new image generation model]]
 <!-- chronolog:end -->

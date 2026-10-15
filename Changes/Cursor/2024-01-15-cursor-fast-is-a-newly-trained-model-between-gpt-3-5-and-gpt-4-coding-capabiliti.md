@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: ab3ccc7d77ca76e623c8975188bf745828825716bbd08e9da5c3bc6803dc3f2b
+machine_hash: 4dafc3282a0b0c1b7d5e5e8f19ffb17e623baedc3f83ec6ecc8bf19055fe0534
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Cursor-Fast is a newly trained model between gpt-3.5 and gpt-4 coding capabilities,
       with very fast response times (~3.5 speed).
     source_release: https://cursor.com/changelog/0-22-1-nightly
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -47,7 +47,7 @@ record:
     score: 50
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v2
-  title: Cursor-Fast is a newly trained model between gpt-3.5 and gpt-4 coding capabiliti
+  title: Cursor-Fast is a newly trained model between gpt-3.5 and gpt-4 coding capabilities…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-10-17-browsing-which-we-re-launched-a-few-weeks-ago-is-moving-out-of-beta-plus-and-ent|chatgpt-2023-10-17-d16121]]'
@@ -56,11 +56,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-01-15-0-22-1-nightly-https-cursor-com-changelog-0-22-1-nightly-a39dbb5c|cursor-2024-01-15-0-22-1-nightly-https-cursor-com-changelog-0-22-1-nightly-a39dbb5c]]'
 source_type: cursor_changelog
 theme: model-support
-title: Cursor-Fast is a newly trained model between gpt-3.5 and gpt-4 coding capabiliti
+title: Cursor-Fast is a newly trained model between gpt-3.5 and gpt-4 coding capabilities…
 type: change
 ---
 
-# Cursor-Fast is a newly trained model between gpt-3.5 and gpt-4 coding capabiliti
+# Cursor-Fast is a newly trained model between gpt-3.5 and gpt-4 coding capabilities…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cursor-Fast Model: Cursor-Fast is a newly trained model between gpt-3.5 and gpt-4 coding capabilities, with very fast response times (~3.5 speed).

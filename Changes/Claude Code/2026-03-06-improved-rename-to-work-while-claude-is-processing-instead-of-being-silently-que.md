@@ -11,9 +11,9 @@ diffusion:
   theme: projects-workspaces
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3d1ff87c0e99e153985f8bd768cf6037b2c41b1ba622e83ae9cf42fe3b613569
+machine_hash: 595273e3fbae07bc3ae72ed65a3e64c4ebf20b9bdecfce8c4465b191ae94ba06
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Improved `/rename` to work while Claude is processing, instead of being
       silently queued
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.70
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,6 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: Improved `/rename` to work while Claude is processing, instead of being silently
+    queued
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-04-added-session-resume-hint-on-exit-showing-how-to-continue-your-conversation-late|claude-code-2026-02-04-93663f]]'
@@ -46,10 +47,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-03-06-v2-1-70-github-29
 source_type: github_releases
 theme: projects-workspaces
 title: Improved /rename to work while Claude is processing, instead of being silently
+  queued
 type: change
 ---
 
-# Improved `/rename` to work while Claude is processing, instead of being silently
+# Improved `/rename` to work while Claude is processing, instead of being silently queued
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.70: Improved `/rename` to work while Claude is processing, instead of being silently queued

@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1bded3d82c1b1b4238b64b7b9281a879565d6b690fc77df5a1dc502207b3ba4f
+machine_hash: 295e79351cc39c445cda9b8d61cd2dd9d94bc29300cb0b192cc05fa6ed80e553
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,7 +29,7 @@ record:
       now survive the session''s process being stopped, restarted, or updated — including
       on Windows, where background shells are handed off instead of being killed'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.196
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -39,8 +39,7 @@ record:
   theme: mobile-desktop
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: 'Improved background session reliability: long-running commands and workflows
-    now'
+  title: Improved background session reliability
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-17-added-claude-client-presence-file-environment-variable-point-it-at-a-marker-file|claude-code-2026-06-17-197b9f]]'
@@ -49,12 +48,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-29-v2-1-196-github-346482381-e21be272|claude-code-2026-06-29-v2-1-196-github-346482381-e21be272]]'
 source_type: github_releases
 theme: mobile-desktop
-title: 'Improved background session reliability: long-running commands and workflows
-  now'
+title: Improved background session reliability
 type: change
 ---
 
-# Improved background session reliability: long-running commands and workflows now
+# Improved background session reliability
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.196: Improved background session reliability: long-running commands and workflows now survive the session's process being stopped, restarted, or updated — including on Windows, where background shells are handed off instead of being killed

@@ -11,9 +11,9 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9003ebf39763923c79b62d1e87456ee0b8f53a517f905eff11635bc070066b71
+machine_hash: cbe93908f5510a71cead5833ea5bb28e0ba0cc53dba99345cb5d100d4d098cfb
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: 'Cost: Good quality, reaching the highest available intelligence while
       optimizing token spend.'
     source_release: https://cursor.com/changelog/router
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -36,7 +36,7 @@ record:
   theme: pricing-model
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: 'Cost: Good quality, reaching the highest available intelligence while optimizing'
+  title: 'Cost: Good quality, reaching the highest available intelligence while optimizing…'
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-18-fast-default-3-00-m-input-15-00-m-output-tokens|cursor-2026-05-18-1726b2]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-07-22-cursor-router-https-cursor-com-changelog-router-af8c2ac4|cursor-2026-07-22-cursor-router-https-cursor-com-changelog-router-af8c2ac4]]'
 source_type: cursor_changelog
 theme: pricing-model
-title: 'Cost: Good quality, reaching the highest available intelligence while optimizing'
+title: 'Cost: Good quality, reaching the highest available intelligence while optimizing…'
 type: change
 ---
 
-# Cost: Good quality, reaching the highest available intelligence while optimizing
+# Cost: Good quality, reaching the highest available intelligence while optimizing…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cursor Router: Cost: Good quality, reaching the highest available intelligence while optimizing token spend.

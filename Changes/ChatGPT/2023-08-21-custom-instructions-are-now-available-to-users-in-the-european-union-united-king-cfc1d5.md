@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 605c2ad9e3c7a91af38b1c5171e96a9f96160da1e7be210221ed5856efd3bde3
+machine_hash: 2d9527b86c5a0ebed14bb00742ea98680c96ae0b5c30c46c5c34f794bf3a9bba
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: 'Custom instructions are now available to users in the European Union United
       Kingdom.To add your instructions:'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -36,7 +36,7 @@ record:
   source_type: chatgpt_changelog
   theme: memory
   title: Custom instructions are now available to users in the European Union United
-    King
+    Kingdom
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|chatgpt-2023-07-20-37833c]]'
@@ -45,11 +45,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2023-08-21-custom-instructions-are-n
 source_type: chatgpt_changelog
 theme: memory
 title: Custom instructions are now available to users in the European Union United
-  King
+  Kingdom
 type: change
 ---
 
-# Custom instructions are now available to users in the European Union United King
+# Custom instructions are now available to users in the European Union United Kingdom
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Custom instructions are now available to users in the EU & UK: Custom instructions are now available to users in the European Union United Kingdom.To add your instructions:

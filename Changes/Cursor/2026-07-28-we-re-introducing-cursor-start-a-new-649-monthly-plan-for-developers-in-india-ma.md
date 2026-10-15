@@ -11,9 +11,9 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 62aa2c386969a95a0e4a494f56c21ae0b1c44e374779fb15f46588d2d5f5a6cb
+machine_hash: 3e62d36c8f5b9a1f31344bcd5ba7c03590112eac1eaaedb900baa76d150c459b
 product: cursor
 product_name: Cursor
 record:
@@ -30,7 +30,7 @@ record:
       in India, making daily agentic development accessible and payment easy with
       local pricing and UPI.
     source_release: https://cursor.com/changelog/cursor-start
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -48,8 +48,8 @@ record:
     score: 50
     theme: pricing-model
   theme_resolution: manual-semantic-rule-v1
-  title: We're introducing Cursor Start, a new ₹649 monthly plan for developers in
-    India,
+  title: Cursor introduces Cursor Start, a new ₹649 monthly plan for developers in
+    India…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-18-standard-0-50-m-input-2-50-m-output-tokens|cursor-2026-05-18-5a9507]]'
@@ -58,11 +58,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-07-28-cursor-start-https-cursor-com-changelog-cursor-start-386914df|cursor-2026-07-28-cursor-start-https-cursor-com-changelog-cursor-start-386914df]]'
 source_type: cursor_changelog
 theme: pricing-model
-title: We're introducing Cursor Start, a new ₹649 monthly plan for developers in India,
+title: Cursor introduces Cursor Start, a new ₹649 monthly plan for developers in India…
 type: change
 ---
 
-# We're introducing Cursor Start, a new ₹649 monthly plan for developers in India,
+# Cursor introduces Cursor Start, a new ₹649 monthly plan for developers in India…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cursor Start: We're introducing Cursor Start, a new ₹649 monthly plan for developers in India, making daily agentic development accessible and payment easy with local pricing and UPI.

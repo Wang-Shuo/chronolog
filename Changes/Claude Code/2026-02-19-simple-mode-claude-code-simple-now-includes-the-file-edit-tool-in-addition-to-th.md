@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 08810bee2127990069ab627419d9b1c25dd999c6fc12af011081c87218c514cc
+machine_hash: 2c66def9a474e078509b47178009fe33fd20d6f92c9b44e08f040f117e9a5314
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Simple mode (`CLAUDE_CODE_SIMPLE`) now includes the file edit tool in addition
       to the Bash tool, allowing direct file editing in simple mode.
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.49
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,8 +37,7 @@ record:
   theme: editor-experience
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Simple mode (`CLAUDE_CODE_SIMPLE`) now includes the file edit tool in addition
-    t
+  title: Simple mode (`CLAUDE_CODE_SIMPLE`) now includes the file edit tool in addition…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-28-improved-claude-to-prefer-file-operation-tools-read-edit-write-over-bash-equival|claude-code-2026-01-28-4c47bb]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-02-19-v2-1-49-github-288498923-7c27a140|claude-code-2026-02-19-v2-1-49-github-288498923-7c27a140]]'
 source_type: github_releases
 theme: editor-experience
-title: Simple mode (CLAUDE_CODE_SIMPLE) now includes the file edit tool in addition
-  t
+title: Simple mode (CLAUDE_CODE_SIMPLE) now includes the file edit tool in addition…
 type: change
 ---
 
-# Simple mode (`CLAUDE_CODE_SIMPLE`) now includes the file edit tool in addition t
+# Simple mode (`CLAUDE_CODE_SIMPLE`) now includes the file edit tool in addition…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.49: Simple mode (`CLAUDE_CODE_SIMPLE`) now includes the file edit tool in addition to the Bash tool, allowing direct file editing in simple mode.

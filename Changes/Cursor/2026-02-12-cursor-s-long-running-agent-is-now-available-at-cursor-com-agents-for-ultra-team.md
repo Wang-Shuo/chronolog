@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: c829b9a5636fc727ddfcfc8262452e649bcf93a77aa2693d5654dce2af4d2ed3
+machine_hash: 3e28e780da43032ecc36900683ac5492f0077fb773e8fe81511460e846ea6034
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Cursor's long-running agent is now available at cursor.com/agents for Ultra,
       Teams, and Enterprise plans.
     source_release: https://cursor.com/changelog/02-12-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -51,7 +51,7 @@ record:
     score: 50
     theme: enterprise-admin
   title: Cursor's long-running agent is now available at cursor.com/agents for Ultra,
-    Tea
+    Teams…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-03-added-token-count-tool-uses-and-duration-metrics-to-task-tool-results|claude-code-2026-02-03-7185c1]]'
@@ -61,11 +61,11 @@ source_release: '[[Releases/Cursor/cursor-2026-02-12-long-running-agents-in-rese
 source_type: cursor_changelog
 theme: agent-mode
 title: Cursor's long-running agent is now available at cursor.com/agents for Ultra,
-  Tea
+  Teams…
 type: change
 ---
 
-# Cursor's long-running agent is now available at cursor.com/agents for Ultra, Tea
+# Cursor's long-running agent is now available at cursor.com/agents for Ultra, Teams…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Long-running Agents in Research Preview: Cursor's long-running agent is now available at cursor.com/agents for Ultra, Teams, and Enterprise plans.

@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 2ddbcb2536b01dde58ffe5681eb2c64f942f76596b5795edd6df551d7e6b6fe2
+machine_hash: d68ed34afcc496e35b73390bc5dd7d22acba9827295f180e3414c6868d5f9434
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Personalize responses based on your past chats if memory is on, using examples
       and tips tailored to you.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -34,8 +34,7 @@ record:
   source_release: chatgpt-2025-07-29-study-mode-ffbfbea6
   source_type: chatgpt_changelog
   theme: memory
-  title: Personalize responses based on your past chats if memory is on, using examples
-    a
+  title: Personalize responses based on your past chats if memory is on, using examples…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-06-03-outside-the-european-regions-listed-above-all-free-users-that-have-memory-enable|chatgpt-2025-06-03-62a4bc]]'
@@ -44,12 +43,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-07-29-study-mode-ffbfbea6|chatgpt-2025-07-29-study-mode-ffbfbea6]]'
 source_type: chatgpt_changelog
 theme: memory
-title: Personalize responses based on your past chats if memory is on, using examples
-  a
+title: Personalize responses based on your past chats if memory is on, using examples…
 type: change
 ---
 
-# Personalize responses based on your past chats if memory is on, using examples a
+# Personalize responses based on your past chats if memory is on, using examples…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Study Mode: Personalize responses based on your past chats if memory is on, using examples and tips tailored to you.

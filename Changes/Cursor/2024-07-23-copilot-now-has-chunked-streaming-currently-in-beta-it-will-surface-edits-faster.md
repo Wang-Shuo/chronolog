@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: bfedb8f6ddc3a6ef895604e3b64124eaf918889f39c16ca81bcd8afa0de0ab0f
+machine_hash: e8ab8c10bcbc99be3b113cd9c0f995180af28a2f1d5255b677ead3713b4e3f15
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
       edits faster in smaller chunks. To enable it, click the settings gear and enable
       "Chunked Streaming" under Features > Copilot++.
     source_release: https://cursor.com/changelog/0-38-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,8 +37,7 @@ record:
   source_release: cursor-2024-07-23-0-38-x-https-cursor-com-changelog-0-38-x-e6d087df
   source_type: cursor_changelog
   theme: reliability-performance
-  title: Copilot++ now has chunked streaming (currently in Beta)! It will surface
-    edits f
+  title: Copilot++ now has chunked streaming (currently in Beta)!
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-03-20-faster-copilot-we-ve-made-copilot-2x-faster-this-speed-bump-comes-from-a-new-mod|cursor-2024-03-20-daa089]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-07-23-0-38-x-https-cursor-com-changelog-0-38-x-e6d087df|cursor-2024-07-23-0-38-x-https-cursor-com-changelog-0-38-x-e6d087df]]'
 source_type: cursor_changelog
 theme: reliability-performance
-title: Copilot++ now has chunked streaming (currently in Beta)! It will surface edits
-  f
+title: Copilot++ now has chunked streaming (currently in Beta)!
 type: change
 ---
 
-# Copilot++ now has chunked streaming (currently in Beta)! It will surface edits f
+# Copilot++ now has chunked streaming (currently in Beta)!
 
 <!-- chronolog:begin region="description" -->
 Cursor — Copilot++ Chunked Streaming (beta), Composer improvements: Copilot++ now has chunked streaming (currently in Beta)! It will surface edits faster in smaller chunks. To enable it, click the settings gear and enable "Chunked Streaming" under Features > Copilot++.

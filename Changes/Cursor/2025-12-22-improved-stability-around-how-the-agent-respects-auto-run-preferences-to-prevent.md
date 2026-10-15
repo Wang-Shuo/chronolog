@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 10519764a19233bfdc9d1971d2cb3f0dea642d6591c0af1f601264f5caefc98a
+machine_hash: 59db9fb99a38f5bcf4f1b0cfe1c95e99f5c430a361e036e5d9de8ce0b954a639
 product: cursor
 product_name: Cursor
 record:
@@ -30,7 +30,7 @@ record:
       prevent asking for approval on all changes if the user has selected run all
       or sandbox.
     source_release: https://cursor.com/changelog/2-3
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -49,7 +49,7 @@ record:
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v2
   title: Improved stability around how the agent respects auto-run preferences to
-    prevent
+    prevent…
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-06-04-we-re-now-excited-to-expand-background-agent-to-all-users-you-can-start-using-it|cursor-2025-06-04-f3789f]]'
@@ -58,11 +58,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-12-22-2-3-https-cursor-com-changelog-2-3-fe418465|cursor-2025-12-22-2-3-https-cursor-com-changelog-2-3-fe418465]]'
 source_type: cursor_changelog
 theme: safety-privacy
-title: Improved stability around how the agent respects auto-run preferences to prevent
+title: Improved stability around how the agent respects auto-run preferences to prevent…
 type: change
 ---
 
-# Improved stability around how the agent respects auto-run preferences to prevent
+# Improved stability around how the agent respects auto-run preferences to prevent…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Layout Customization and Stability Improvements: Improved stability around how the agent respects auto-run preferences to prevent asking for approval on all changes if the user has selected run all or sandbox.

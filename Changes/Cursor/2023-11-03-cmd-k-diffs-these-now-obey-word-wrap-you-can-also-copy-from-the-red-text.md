@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 39dfd4532aedb521d0b243dbb24be8fbf6852eaa7181bb6272276efdd414461d
+machine_hash: 8d2fbc63e23b9bfcef73274020a650fc4e45befc608a2c31006432f7c0743305
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: 'Cmd-K diffs: these now obey word-wrap! You can also copy from the red
       text.'
     source_release: https://cursor.com/changelog/0-14-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -34,7 +34,7 @@ record:
   source_release: cursor-2023-11-03-0-14-0-https-cursor-com-changelog-0-14-0-45a47acf
   source_type: cursor_changelog
   theme: editor-experience
-  title: 'Cmd-K diffs: these now obey word-wrap! You can also copy from the red text.'
+  title: 'Cmd-K diffs: these now obey word-wrap!'
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-09-21-hacky-first-version-of-cmd-k-in-the-terminal-let-us-know-what-you-think|cursor-2023-09-21-48856b]]'
@@ -43,11 +43,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-11-03-0-14-0-https-cursor-com-changelog-0-14-0-45a47acf|cursor-2023-11-03-0-14-0-https-cursor-com-changelog-0-14-0-45a47acf]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: 'Cmd-K diffs: these now obey word-wrap! You can also copy from the red text.'
+title: 'Cmd-K diffs: these now obey word-wrap!'
 type: change
 ---
 
-# Cmd-K diffs: these now obey word-wrap! You can also copy from the red text.
+# Cmd-K diffs: these now obey word-wrap!
 
 <!-- chronolog:begin region="description" -->
 Cursor — Pro++, Word-wrapping diffs, and more: Cmd-K diffs: these now obey word-wrap! You can also copy from the red text.

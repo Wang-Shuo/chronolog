@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 616fbfeed1340aa9f7d77a5ca0daced7fc3774aea88eeea22241b67841022f3e
+machine_hash: 746b0c1e646eb51c687eb74475f1d30948738750110c5bb168570c20a798cf67
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       tone and reduces teaser-style phrasing in responses (e.g., “If you want…”, “You’ll
       never believe…”, “I can tell you these three things that…”).
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -39,8 +39,7 @@ record:
   theme: model-support
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: We’re rolling out an update to GPT-5.3 Instant that improves follow-up tone
-    and
+  title: ChatGPT rolls out an update to GPT-5.3 Instant that improves follow-up tone…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-04-opus-4-6-now-defaults-to-medium-effort-for-max-and-team-subscribers-medium-effor|claude-code-2026-03-04-3a458d]]'
@@ -49,12 +48,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-16-gpt-5-3-instant-update-a32de9bf|chatgpt-2026-03-16-gpt-5-3-instant-update-a32de9bf]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: We’re rolling out an update to GPT-5.3 Instant that improves follow-up tone
-  and
+title: ChatGPT rolls out an update to GPT-5.3 Instant that improves follow-up tone…
 type: change
 ---
 
-# We’re rolling out an update to GPT-5.3 Instant that improves follow-up tone and
+# ChatGPT rolls out an update to GPT-5.3 Instant that improves follow-up tone…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — GPT-5.3 Instant update: We’re rolling out an update to GPT-5.3 Instant that improves follow-up tone and reduces teaser-style phrasing in responses (e.g., “If you want…”, “You’ll never believe…”, “I can tell you these three things that…”).

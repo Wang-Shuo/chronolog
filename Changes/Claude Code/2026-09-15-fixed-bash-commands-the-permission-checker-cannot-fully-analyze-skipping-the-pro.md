@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 85e7640715b63138a600211ca8bd85b7add0dd1603c8c893f8ca1ecc34c1e364
+machine_hash: f5e257f7085a1211dc4dc4053882ca8d0f78c41712a3d48e88aa1917ff63dd3e
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       the prompt under `permissions.blockReadsOutsideWorkingDirectories`, and a subshell
       hiding a dangerous `rm` in bypass mode
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.273
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -39,7 +39,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: Fixed Bash commands the permission checker cannot fully analyze skipping
-    the pro
+    the prompt…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-12-fixed-read-only-git-commands-in-bash-unexpectedly-asking-for-permission-after-a|claude-code-2026-09-12-25df3b]]'
@@ -49,11 +49,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-09-15-v2-1-273-github-3
 source_type: github_releases
 theme: safety-privacy
 title: Fixed Bash commands the permission checker cannot fully analyze skipping the
-  pro
+  prompt…
 type: change
 ---
 
-# Fixed Bash commands the permission checker cannot fully analyze skipping the pro
+# Fixed Bash commands the permission checker cannot fully analyze skipping the prompt…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.273: Fixed Bash commands the permission checker cannot fully analyze skipping the prompt under `permissions.blockReadsOutsideWorkingDirectories`, and a subshell hiding a dangerous `rm` in bypass mode

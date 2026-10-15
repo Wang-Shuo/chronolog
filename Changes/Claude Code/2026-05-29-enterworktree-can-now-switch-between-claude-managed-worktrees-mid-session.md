@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: c86d0ebc3cddca8d4679f050b93d78b5059a0b709dc58d323ac4a8afffec8e12
+machine_hash: 19dccbf6ab77cb8fb22126fdfc25d72a24f290ef5ac4a6386b8f628ae20f11a0
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: '`EnterWorktree` can now switch between Claude-managed worktrees mid-session'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.157
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2025-03-18'
-machine_hash: fbaffdece9eb552df03a1490c325dfa8432d2df48195d306d098ef6e7858c3f3
+machine_hash: 21afef9d05fe4321555856486275760b1f446cf60313693f280f64d511d50f34
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,7 +39,7 @@ Tracked cards: 3
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- mobile-desktop: [[Changes/ChatGPT/2025-03-18-1-improved-table-copying-functionality-out-of-chatgpt-responses-on-ios-and-macos|1⁠. Improved table-copying functionality out of ChatGPT responses on iOS and mac]]
-- interface-experience: [[Changes/ChatGPT/2025-03-18-2-added-long-press-on-your-message-to-open-menu-actions-copy-edit|2⁠. Added long press on your message to open menu actions: Copy, Edit.]]
-- reliability-performance: [[Changes/ChatGPT/2025-03-18-4-improved-display-and-faster-streaming-of-conversations-and-message-menu-action|4⁠. Improved display and faster streaming of conversations and message menu acti]]
+- mobile-desktop: [[Changes/ChatGPT/2025-03-18-1-improved-table-copying-functionality-out-of-chatgpt-responses-on-ios-and-macos|Improved table-copying functionality out of ChatGPT responses on iOS and macOS]]
+- interface-experience: [[Changes/ChatGPT/2025-03-18-2-added-long-press-on-your-message-to-open-menu-actions-copy-edit|Added long press on your message to open menu actions: Copy, Edit]]
+- reliability-performance: [[Changes/ChatGPT/2025-03-18-4-improved-display-and-faster-streaming-of-conversations-and-message-menu-action|Improved display and faster streaming of conversations and message menu actions]]
 <!-- chronolog:end -->

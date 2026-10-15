@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4be8aeb529b76fe183cfd439fa35bf6078503c12aa6c9c3f413ed65d7e3e3688
+machine_hash: 4180fcea4b61b433cbc59dcbcc2cc361d5808e94184f5ae44d8a93f44bc6ce18
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
       optimizations. We still have several hundred additional milliseconds to cut
       here.'
     source_release: https://cursor.com/changelog/0-18-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -36,7 +36,7 @@ record:
   source_release: cursor-2023-11-30-0-18-0-https-cursor-com-changelog-0-18-0-f0874043
   source_type: cursor_changelog
   theme: reliability-performance
-  title: 'Faster Copilot++: a few hundred milliseconds faster, through various networking'
+  title: 'Faster Copilot++: a few hundred milliseconds faster, through various networking…'
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-10-01-indexing-should-now-be-faster-more-stable-and-use-less-of-your-system-resources|cursor-2023-10-01-1f5b6d]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-11-30-0-18-0-https-cursor-com-changelog-0-18-0-f0874043|cursor-2023-11-30-0-18-0-https-cursor-com-changelog-0-18-0-f0874043]]'
 source_type: cursor_changelog
 theme: reliability-performance
-title: 'Faster Copilot++: a few hundred milliseconds faster, through various networking'
+title: 'Faster Copilot++: a few hundred milliseconds faster, through various networking…'
 type: change
 ---
 
-# Faster Copilot++: a few hundred milliseconds faster, through various networking
+# Faster Copilot++: a few hundred milliseconds faster, through various networking…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Better Context Chat, Faster Copilot++: Faster Copilot++: a few hundred milliseconds faster, through various networking optimizations. We still have several hundred additional milliseconds to cut here.

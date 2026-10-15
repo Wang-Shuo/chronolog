@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: b84690003c23bc541dbfe27108e94675342239a6512e102e4b6e21961c3817a5
+machine_hash: f26227417a860a0586e40ddf25ba38cabf422e8b1f9ede6b84c48c239b225e26
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
   - quote: Agent sees terminal exit codes, can run commands in the background, and
       commands are now editable
     source_release: https://cursor.com/changelog/0-44-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -47,7 +47,7 @@ record:
     score: 50
     theme: developer-workflow
   theme_resolution: manual-semantic-rule-v1
-  title: Agent sees terminal exit codes, can run commands in the background, and commands
+  title: Agent sees terminal exit codes, can run commands in the background, and commands…
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-11-24-generation-of-git-commit-messages|cursor-2024-11-24-41d03c]]'
@@ -56,11 +56,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-12-17-0-44-x-https-cursor-com-changelog-0-44-x-b137ff8e|cursor-2024-12-17-0-44-x-https-cursor-com-changelog-0-44-x-b137ff8e]]'
 source_type: cursor_changelog
 theme: developer-workflow
-title: Agent sees terminal exit codes, can run commands in the background, and commands
+title: Agent sees terminal exit codes, can run commands in the background, and commands…
 type: change
 ---
 
-# Agent sees terminal exit codes, can run commands in the background, and commands
+# Agent sees terminal exit codes, can run commands in the background, and commands…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Agent Improvements, Yolo Mode, Cursor Tab Update: Agent sees terminal exit codes, can run commands in the background, and commands are now editable

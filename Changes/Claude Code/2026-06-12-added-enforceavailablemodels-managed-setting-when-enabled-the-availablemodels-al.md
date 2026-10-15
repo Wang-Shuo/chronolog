@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 36eb7c28a5e0c7245645d6d512f7f2476c9597c3d9721045f4153518fcddec28
+machine_hash: 2e4eb0b60982f1060e17f9c487ce1418c2785dffaefc87316aaeaf2a0ad281a7
 product: claude-code
 product_name: Claude Code
 record:
@@ -33,7 +33,7 @@ record:
       a disallowed model now falls back to the first allowed model), and user or project
       settings can no longer widen a managed `availableModels` list
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.175
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -41,7 +41,7 @@ record:
   source_release: claude-code-2026-06-12-v2-1-175-github-338335820-6f3a7124
   source_type: github_releases
   theme: model-support
-  title: Added `enforceAvailableModels` managed setting — when enabled, the `availableMod
+  title: Added `enforceAvailableModels` managed setting
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-06-10-pro-standard-pro-plans-only|chatgpt-2026-06-10-c9cf00]]'
@@ -50,11 +50,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-12-v2-1-175-github-338335820-6f3a7124|claude-code-2026-06-12-v2-1-175-github-338335820-6f3a7124]]'
 source_type: github_releases
 theme: model-support
-title: Added enforceAvailableModels managed setting — when enabled, the availableMod
+title: Added enforceAvailableModels managed setting
 type: change
 ---
 
-# Added `enforceAvailableModels` managed setting — when enabled, the `availableMod
+# Added `enforceAvailableModels` managed setting
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.175: Added `enforceAvailableModels` managed setting — when enabled, the `availableModels` allowlist also constrains the Default model (a Default that would resolve to a disallowed model now falls back to the first allowed model), and user or project settings can no longer widen a managed `availableModels` list

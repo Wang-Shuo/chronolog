@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: ef6b293109d5a8ed71c0c579e9eef2d2c4aa8d3168e4982245a7180a1e98bf84
+machine_hash: 7fd86878630885907ce6a30c3bae0f50a6e37b9013069ca6d8d1d3c26cce839f
 product: cursor
 product_name: Cursor
 record:
@@ -31,7 +31,7 @@ record:
       Composer 2.5, which now powers Bugbot. Bugbot respects model block lists, and
       speed and performance can vary depending on your configuration.
     source_release: https://cursor.com/changelog/bugbot-updates-june-2026
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -50,7 +50,7 @@ record:
     score: 50
     theme: model-support
   title: These performance gains are made possible by progress we've made training
-    Compos
+    Composer…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-21-pinned-background-sessions-ctrl-t-in-claude-agents-now-stay-alive-when-idle-are|claude-code-2026-05-21-608fad]]'
@@ -59,11 +59,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-06-10-bugbot-is-now-over-3x-faster-22-cheaper-and-finds-10-more-bugs-h-c1721c78|cursor-2026-06-10-bugbot-is-now-over-3x-faster-22-cheaper-and-finds-10-more-bugs-h-c1721c78]]'
 source_type: cursor_changelog
 theme: reliability-performance
-title: These performance gains are made possible by progress we've made training Compos
+title: These performance gains are made possible by progress we've made training Composer…
 type: change
 ---
 
-# These performance gains are made possible by progress we've made training Compos
+# These performance gains are made possible by progress we've made training Composer…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Bugbot is now over 3x faster, 22% cheaper, and finds 10% more bugs: These performance gains are made possible by progress we've made training Composer 2.5, which now powers Bugbot. Bugbot respects model block lists, and speed and performance can vary depending on your configuration.

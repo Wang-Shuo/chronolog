@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d1401bf79b8bb5b1bcf8bbe0df97af1562c57730ff898c9fcf6f59443ac57b4a
+machine_hash: 229df757ab3af6642e08e0d7b4ca8975db74170a522c9638044c0907197ad44f
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       error categories and OS error codes on failure, and shows the current version
       when an update fails'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.147
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -39,7 +39,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: 'Improved auto-updater: retries transient network failures, reports specific
-    erro'
+    error…'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-21-improved-diff-rendering-performance-for-large-file-edits|claude-code-2026-05-21-10b050]]'
@@ -49,11 +49,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-05-21-v2-1-147-github-3
 source_type: github_releases
 theme: reliability-performance
 title: 'Improved auto-updater: retries transient network failures, reports specific
-  erro'
+  error…'
 type: change
 ---
 
-# Improved auto-updater: retries transient network failures, reports specific erro
+# Improved auto-updater: retries transient network failures, reports specific error…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.147: Improved auto-updater: retries transient network failures, reports specific error categories and OS error codes on failure, and shows the current version when an update fails

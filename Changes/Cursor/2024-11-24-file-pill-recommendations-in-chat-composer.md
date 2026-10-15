@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: cc7a0ae732cc56185468c0b7dc7ecc9069287ee4555fd545fab1419836f1d789
+machine_hash: 53d64c17babaa771fdcd3f8ec73ddd299543c8a57aeafc163195ee9eebaeb5c7
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: File pill recommendations in chat/composer
     source_release: https://cursor.com/changelog/0-43-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

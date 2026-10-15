@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2026-09-29'
-machine_hash: fb9885ee90fe41e6dc0fb26124585ee564b3c017d55fd7303e329ea5365a1581
+machine_hash: 34ccaaab2184c86471467c4016522d3d255d37e07d81e1dbd3bd56f4c9bdd574
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,6 +42,6 @@ Tracked cards: 2
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2026-09-29-for-availability-and-model-selection-see-chatgpt-work-and-codex|For availability and model selection, see: ChatGPT Work and Codex.]]
-- model-support: [[Changes/ChatGPT/2026-09-29-gpt-6-1-sol-improves-on-gpt-6-sol-in-agentic-coding-computer-use-and-professiona|GPT-6.1 Sol improves on GPT-6 Sol in agentic coding, computer use, and professio]]
+- model-support: [[Changes/ChatGPT/2026-09-29-for-availability-and-model-selection-see-chatgpt-work-and-codex|For availability and model selection, see: ChatGPT Work and Codex]]
+- model-support: [[Changes/ChatGPT/2026-09-29-gpt-6-1-sol-improves-on-gpt-6-sol-in-agentic-coding-computer-use-and-professiona|GPT-6.1 Sol improves on GPT-6 Sol in agentic coding, computer use, and professional work]]
 <!-- chronolog:end -->

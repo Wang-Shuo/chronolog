@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 975b26ec4fe9a972aad4e58ca8a1d35e1467c1d2416fff41113866a9f3ba0f3d
+machine_hash: 4c0c1cb08beb50cf9814bbdab6c2dd13ad06756aeb6050003a4ce83dc87e7ab3
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       `cd /tmp && git fetch && git push`) to compute smarter per-subcommand prefixes
       instead of treating the whole command as one
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.59
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,8 +38,7 @@ record:
   theme: developer-workflow
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Improved "always allow" prefix suggestions for compound bash commands (e.g.
-    `cd
+  title: Improved "always allow" prefix suggestions for compound bash commands…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-20-added-worktreecreate-and-worktreeremove-hook-events-enabling-custom-vcs-setup-an|claude-code-2026-02-20-648196]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-02-26-v2-1-59-github-290659389-9e2d6217|claude-code-2026-02-26-v2-1-59-github-290659389-9e2d6217]]'
 source_type: github_releases
 theme: developer-workflow
-title: Improved "always allow" prefix suggestions for compound bash commands (e.g.
-  cd
+title: Improved "always allow" prefix suggestions for compound bash commands…
 type: change
 ---
 
-# Improved "always allow" prefix suggestions for compound bash commands (e.g. `cd
+# Improved "always allow" prefix suggestions for compound bash commands…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.59: Improved "always allow" prefix suggestions for compound bash commands (e.g. `cd /tmp && git fetch && git push`) to compute smarter per-subcommand prefixes instead of treating the whole command as one

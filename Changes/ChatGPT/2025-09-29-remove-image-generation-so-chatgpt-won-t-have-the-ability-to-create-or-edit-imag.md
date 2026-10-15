@@ -11,9 +11,9 @@ diffusion:
   theme: image-generation
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f55d6b21f4093d9f7382215455d4784b378d4731416a23d792ad743a4f1cc90b
+machine_hash: a1e6f8e51cdcaeaab8620633a5d232310e5fbb4ff139b0d8359b00c60422fa31
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Remove image generation, so ChatGPT won’t have the ability to create or
       edit images.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -35,7 +35,7 @@ record:
   source_type: chatgpt_changelog
   theme: image-generation
   title: Remove image generation, so ChatGPT won’t have the ability to create or edit
-    ima
+    images
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-08-08-we-re-rolling-out-a-small-update-to-image-generation-for-chatgpt-free-tier-users|chatgpt-2025-08-08-76f37a]]'
@@ -45,11 +45,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2025-09-29-parental-controls-8b95b69
 source_type: chatgpt_changelog
 theme: image-generation
 title: Remove image generation, so ChatGPT won’t have the ability to create or edit
-  ima
+  images
 type: change
 ---
 
-# Remove image generation, so ChatGPT won’t have the ability to create or edit ima
+# Remove image generation, so ChatGPT won’t have the ability to create or edit images
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Parental Controls: Remove image generation, so ChatGPT won’t have the ability to create or edit images.

@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-09-01'
-machine_hash: e7bcd97d7be7617e2ec63b7cab3efce7cf6a90b3b7bad8da48d84569fa948594
+machine_hash: 595d75a52c6c9932de10d3d40984f0b38b3ddedfbdb7c8b529f351c2f69476f0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- apps-integrations: [[Changes/ChatGPT/2026-09-01-eligible-chatgpt-for-clinicians-users-in-the-united-states-can-now-use-healthcar|Eligible ChatGPT for Clinicians users in the United States can now use Healthcar]]
+- apps-integrations: [[Changes/ChatGPT/2026-09-01-eligible-chatgpt-for-clinicians-users-in-the-united-states-can-now-use-healthcar|Eligible ChatGPT for Clinicians users in the United States can now use Healthcare…]]
 <!-- chronolog:end -->

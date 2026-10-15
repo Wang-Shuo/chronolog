@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d9cb71bc1ee2c0f5610ac9afc8c7d8c9988b47de9fe0b2fc82369f49911f71b2
+machine_hash: c10f426b6462eda0a36750d9008720dc1e25a8afcbf47ebbc7cb7502b769686b
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added "Auto (match terminal)" theme option that matches your terminal's
       dark/light mode — select it from `/theme`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.111
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -34,7 +34,8 @@ record:
   source_release: claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78
   source_type: github_releases
   theme: developer-workflow
-  title: Added "Auto (match terminal)" theme option that matches your terminal's dark/lig
+  title: Added "Auto (match terminal)" theme option that matches your terminal's dark/light
+    mode
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-04-14-use-debug-to-find-root-causes-and-fix-tricky-bugs-that-are-hard-to-reproduce-or|cursor-2026-04-14-4c038c]]'
@@ -43,11 +44,12 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78|claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78]]'
 source_type: github_releases
 theme: developer-workflow
-title: Added "Auto (match terminal)" theme option that matches your terminal's dark/lig
+title: Added "Auto (match terminal)" theme option that matches your terminal's dark/light
+  mode
 type: change
 ---
 
-# Added "Auto (match terminal)" theme option that matches your terminal's dark/lig
+# Added "Auto (match terminal)" theme option that matches your terminal's dark/light mode
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.111: Added "Auto (match terminal)" theme option that matches your terminal's dark/light mode — select it from `/theme`

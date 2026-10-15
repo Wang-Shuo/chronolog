@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-07-11'
-machine_hash: 073d1c4635d10608d53fc4168cd76237a7bd0567610756aa2cdb2ea9e3ef13b8
+machine_hash: 3493d26317dfa075159280d908da175d868832b557b84384a0b862581b0a1e4c
 product: cursor
 product_name: Cursor
 record:
@@ -39,5 +39,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- editor-experience: [[Changes/Cursor/2023-07-11-this-update-improves-the-prompt-for-cmd-k-when-you-don-t-have-any-code-selected|This update improves the prompt for Cmd-k when you don't have any code selected.]]
+- editor-experience: [[Changes/Cursor/2023-07-11-this-update-improves-the-prompt-for-cmd-k-when-you-don-t-have-any-code-selected|This update improves the prompt for Cmd-k when you don't have any code selected]]
 <!-- chronolog:end -->

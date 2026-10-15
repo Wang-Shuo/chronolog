@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: f0aa2160f673082dc8ae806c5c0f931f69b0b094606d6ec0266538b990d008b5
+machine_hash: 13cac56dfb127ac7e1978c75132e13dcd51e1af2268897eaaf1242c234d5015d
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: Manage agents in our new editor, with a sidebar for your agents and plans.
     source_release: https://cursor.com/changelog/2-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -49,7 +49,7 @@ record:
     score: 50
     theme: interface-experience
   theme_resolution: manual-semantic-rule-v1
-  title: Manage agents in our new editor, with a sidebar for your agents and plans.
+  title: Manage agents in our new editor, with a sidebar for your agents and plans
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-05-06-no-tools-are-deprecated-access-is-simply-consolidated-to-clear-space-and-reduce|chatgpt-2025-05-06-7fa221]]'
@@ -58,11 +58,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e]]'
 source_type: cursor_changelog
 theme: interface-experience
-title: Manage agents in our new editor, with a sidebar for your agents and plans.
+title: Manage agents in our new editor, with a sidebar for your agents and plans
 type: change
 ---
 
-# Manage agents in our new editor, with a sidebar for your agents and plans.
+# Manage agents in our new editor, with a sidebar for your agents and plans
 
 <!-- chronolog:begin region="description" -->
 Cursor — New Coding Model and Agent Interface: Manage agents in our new editor, with a sidebar for your agents and plans.

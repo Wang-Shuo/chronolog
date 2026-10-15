@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: db33ffe140386a36aa43de9a086b592bc5986e13aa56783b35d577ccdf21999a
+machine_hash: b0bd3c6f7f17291dcb7d4374a80f136632b96863019b3d4308d6b8f32aefa3f5
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: To-dos are also visible in Slack if integration is setup!
     source_release: https://cursor.com/changelog/1-2
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor

@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 58392ad4113c8ba6762255466ea34006ecddd63fbe4c18d32dcb2978bfc7e9e2
+machine_hash: fbcc42be798c622c0d60132de41d6907ff66a14149937392d1567f092df3c464
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       settings. Conversations that are started when chat history is disabled won’t
       be used to train and improve our models, and won’t appear in the history sidebar.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -47,7 +47,7 @@ record:
     score: 50
     theme: model-support
   theme_resolution: manual-semantic-rule-v1
-  title: You can now turn off chat history and export your data from the ChatGPT settings
+  title: Turn off chat history and export your data from the ChatGPT settings
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-03-23-resizable-sidebar|cursor-2023-03-23-6803ad]]'
@@ -56,11 +56,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2023-05-03-updates-to-chatgpt-0d776ee3|chatgpt-2023-05-03-updates-to-chatgpt-0d776ee3]]'
 source_type: chatgpt_changelog
 theme: interface-experience
-title: You can now turn off chat history and export your data from the ChatGPT settings
+title: Turn off chat history and export your data from the ChatGPT settings
 type: change
 ---
 
-# You can now turn off chat history and export your data from the ChatGPT settings
+# Turn off chat history and export your data from the ChatGPT settings
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Updates to ChatGPT: You can now turn off chat history and export your data from the ChatGPT settings. Conversations that are started when chat history is disabled won’t be used to train and improve our models, and won’t appear in the history sidebar.

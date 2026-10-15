@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 63b7f630487257c68ffe0888321ddeeead20997d5038e1461c77cabd64a5d420
+machine_hash: 04a1d902c3ea915cef0e8227104a6114a2f1817efdc7013f91c93a9d9be147b8
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `showTurnDuration` setting to hide turn duration messages (e.g.,
       "Cooked for 1m 6s")
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.7
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: Added `showTurnDuration` setting to hide turn duration messages (e.g., "Cooked
-    f
+    for 1m 6s")
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-09-improved-terminal-rendering-stability-by-preventing-uncontrolled-writes-from-cor|claude-code-2026-01-09-7b1e97]]'
@@ -47,11 +47,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-01-14-v2-1-7-github-276
 source_type: github_releases
 theme: interface-experience
 title: Added showTurnDuration setting to hide turn duration messages (e.g., "Cooked
-  f
+  for 1m 6s")
 type: change
 ---
 
-# Added `showTurnDuration` setting to hide turn duration messages (e.g., "Cooked f
+# Added `showTurnDuration` setting to hide turn duration messages (e.g., "Cooked for 1m 6s")
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.7: Added `showTurnDuration` setting to hide turn duration messages (e.g., "Cooked for 1m 6s")

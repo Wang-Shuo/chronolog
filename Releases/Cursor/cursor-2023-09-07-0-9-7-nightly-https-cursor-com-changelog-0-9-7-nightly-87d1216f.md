@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2023-09-07'
-machine_hash: b1e3cfe0ac10c7a4cc10a1b60c4bf119b212f257066bb6fada641406bb387a33
+machine_hash: b193faea7db594e8942c9e58e5683098209c3c36389eb1e8cffbf7a2420819ee
 product: cursor
 product_name: Cursor
 record:
@@ -39,6 +39,6 @@ Tracked cards: 2
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- memory: [[Changes/Cursor/2023-09-07-we-no-longer-store-any-full-files-in-memory-and-prevent-users-from-ing-very-larg|We no longer store any full files in memory and prevent users from @'ing very la]]
-- memory: [[Changes/Cursor/2023-09-07-this-should-reduce-any-significant-memory-issues-that-users-have-been-experienci|This should reduce any significant memory issues that users have been experienci]]
+- memory: [[Changes/Cursor/2023-09-07-we-no-longer-store-any-full-files-in-memory-and-prevent-users-from-ing-very-larg|We no longer store any full files in memory and prevent users from @'ing very large…]]
+- memory: [[Changes/Cursor/2023-09-07-this-should-reduce-any-significant-memory-issues-that-users-have-been-experienci|This should reduce any significant memory issues that users have been experiencing]]
 <!-- chronolog:end -->

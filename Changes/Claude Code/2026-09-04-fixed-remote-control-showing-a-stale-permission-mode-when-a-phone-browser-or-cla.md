@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 39ca37df5a7d67f968fab3f0209691db4d17b8236b1e70f54780e429905fa7d4
+machine_hash: 33cb517f6f86fea662125ff97a6fc3d6a9bf7922bfe7ea0909cbbf12adcb7159
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       or claude.ai app attaches to a terminal session or after the mode changes in
       the terminal
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.261
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,8 +38,7 @@ record:
   theme: safety-privacy
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: Fixed Remote Control showing a stale permission mode when a phone, browser,
-    or c
+  title: Fixed Remote Control showing a stale permission mode when a phone, browser…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-01-fixed-remote-and-scheduled-sessions-failing-with-user-messages-must-have-non-emp|claude-code-2026-09-01-1c50d1]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-04-v2-1-261-github-382913543-2cb10519|claude-code-2026-09-04-v2-1-261-github-382913543-2cb10519]]'
 source_type: github_releases
 theme: safety-privacy
-title: Fixed Remote Control showing a stale permission mode when a phone, browser,
-  or c
+title: Fixed Remote Control showing a stale permission mode when a phone, browser…
 type: change
 ---
 
-# Fixed Remote Control showing a stale permission mode when a phone, browser, or c
+# Fixed Remote Control showing a stale permission mode when a phone, browser…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.261: Fixed Remote Control showing a stale permission mode when a phone, browser, or claude.ai app attaches to a terminal session or after the mode changes in the terminal

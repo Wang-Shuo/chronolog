@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 34bb306e01d1f3354a8f57d7a13cbc3c2306472a91ab0d400b6c52f17c77d787
+machine_hash: fdc277511698db996a99b460762ea774a050d84e6a7d5d9bcfb06e9b0360f248
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Following this update, future updates should come as staged rollouts. This
       will mean greater guarantees of stability and more frequent updates.
     source_release: https://cursor.com/changelog/0-10-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,8 +35,7 @@ record:
   source_release: cursor-2023-09-08-0-10-0-https-cursor-com-changelog-0-10-0-8f32d699
   source_type: cursor_changelog
   theme: reliability-performance
-  title: Following this update, future updates should come as staged rollouts. This
-    will
+  title: Following this update, future updates should come as staged rollouts
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-08-20-ssh-support-is-now-more-robust-please-continue-to-let-us-know-if-you-are-experie|cursor-2023-08-20-7cd13d]]'
@@ -45,12 +44,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-09-08-0-10-0-https-cursor-com-changelog-0-10-0-8f32d699|cursor-2023-09-08-0-10-0-https-cursor-com-changelog-0-10-0-8f32d699]]'
 source_type: cursor_changelog
 theme: reliability-performance
-title: Following this update, future updates should come as staged rollouts. This
-  will
+title: Following this update, future updates should come as staged rollouts
 type: change
 ---
 
-# Following this update, future updates should come as staged rollouts. This will
+# Following this update, future updates should come as staged rollouts
 
 <!-- chronolog:begin region="description" -->
 Cursor — Better Docs Management, Staged Rollouts: Following this update, future updates should come as staged rollouts. This will mean greater guarantees of stability and more frequent updates.

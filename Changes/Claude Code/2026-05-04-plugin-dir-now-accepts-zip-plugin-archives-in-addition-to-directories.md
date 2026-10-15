@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ce5119a0e711c418cd42fd9706e4535b5611128fdee5886975269b876faa834c
+machine_hash: b968f52f6d8ed5f9df81a04a5b0486ca45fec88383ae7afadcf7a970f694529f
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: '`--plugin-dir` now accepts `.zip` plugin archives in addition to directories'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.128
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

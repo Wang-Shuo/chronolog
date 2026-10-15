@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 96e11fbcf3f8f634e50096ca30b6f9cf07536893247db7a7ce61f0ecdf471d78
+machine_hash: 0ceb5b66e3a0cb8f9341512c02f6deddedb665bc47177e6821cb2aad76f04de4
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
   - quote: new completion experience powered by gpt-4. Just press ⌘/^+↩️ and you'll
       get a long completion from gpt-4.
     source_release: https://cursor.com/changelog/0-6-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -46,8 +46,7 @@ record:
     score: 50
     theme: editor-experience
   theme_resolution: manual-semantic-rule-v2
-  title: new completion experience powered by gpt-4. Just press ⌘/^+↩️ and you'll
-    get a l
+  title: new completion experience powered by gpt-4
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-06-01-check-out-the-more-tab-to-have-gpt-3-5-or-gpt-4-review-your-code-periodically-fo|cursor-2023-06-01-3accfa]]'
@@ -56,12 +55,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-07-28-0-6-0-https-cursor-com-changelog-0-6-0-ec91c991|cursor-2023-07-28-0-6-0-https-cursor-com-changelog-0-6-0-ec91c991]]'
 source_type: cursor_changelog
 theme: model-support
-title: new completion experience powered by gpt-4. Just press ⌘/^+↩️ and you'll get
-  a l
+title: new completion experience powered by gpt-4
 type: change
 ---
 
-# new completion experience powered by gpt-4. Just press ⌘/^+↩️ and you'll get a l
+# new completion experience powered by gpt-4
 
 <!-- chronolog:begin region="description" -->
 Cursor — A copilot experience powered by gpt-4: new completion experience powered by gpt-4. Just press ⌘/^+↩️ and you'll get a long completion from gpt-4.

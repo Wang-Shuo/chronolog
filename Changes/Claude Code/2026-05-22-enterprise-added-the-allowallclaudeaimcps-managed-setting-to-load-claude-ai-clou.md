@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f0c86f342729360578cc0532cbf7626ad11e1eabba436717bb4768fe04cd8b7f
+machine_hash: a54145f4a1ca887bbc52e280ab269c6acf58d8e01800a39f9ae161395369f05e
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: 'Enterprise: added the `allowAllClaudeAiMcps` managed setting to load claude.ai
       cloud MCP connectors alongside `managed-mcp.json`'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.149
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -45,7 +45,7 @@ record:
     score: 50
     theme: enterprise-admin
   title: 'Enterprise: added the `allowAllClaudeAiMcps` managed setting to load claude.ai
-    c'
+    cloud…'
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-19-you-can-ask-cursor-to-fix-bugs-add-features-update-tests-or-investigate-somethin|cursor-2026-05-19-6f8441]]'
@@ -55,11 +55,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-05-22-v2-1-149-github-3
 source_type: github_releases
 theme: apps-integrations
 title: 'Enterprise: added the allowAllClaudeAiMcps managed setting to load claude.ai
-  c'
+  cloud…'
 type: change
 ---
 
-# Enterprise: added the `allowAllClaudeAiMcps` managed setting to load claude.ai c
+# Enterprise: added the `allowAllClaudeAiMcps` managed setting to load claude.ai cloud…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.149: Enterprise: added the `allowAllClaudeAiMcps` managed setting to load claude.ai cloud MCP connectors alongside `managed-mcp.json`

@@ -11,9 +11,9 @@ diffusion:
   theme: enterprise-admin
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: bca99d16b93dca0395158eb1b17dc96653663499f7e508e6356e7f44e3c40857
+machine_hash: ed669cbf06201b694f331ed8b0c4fa1b05bbbb801d2270c19fdf71d35a91cfc8
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `DISABLE_UPDATES` env var to completely block all update paths including
       manual `claude update` — stricter than `DISABLE_AUTOUPDATER`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.118
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   theme: enterprise-admin
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Added `DISABLE_UPDATES` env var to completely block all update paths including
-    m
+  title: Added `DISABLE_UPDATES` env var to completely block all update paths including…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-10-added-os-ca-certificate-store-trust-by-default-so-enterprise-tls-proxies-work-wi|claude-code-2026-04-10-efc05f]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-23-v2-1-118-github-312487295-b3c6b04c|claude-code-2026-04-23-v2-1-118-github-312487295-b3c6b04c]]'
 source_type: github_releases
 theme: enterprise-admin
-title: Added DISABLE_UPDATES env var to completely block all update paths including
-  m
+title: Added DISABLE_UPDATES env var to completely block all update paths including…
 type: change
 ---
 
-# Added `DISABLE_UPDATES` env var to completely block all update paths including m
+# Added `DISABLE_UPDATES` env var to completely block all update paths including…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.118: Added `DISABLE_UPDATES` env var to completely block all update paths including manual `claude update` — stricter than `DISABLE_AUTOUPDATER`

@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e1790949197e0abf7eb575087bc3966dee066c70128fb2fd4fa4b3deb6a0c95d
+machine_hash: 4062dba490d8eb11b04888461cc231bc7308f2144a1aef6d0a82e43cd78c8415
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `path` parameter to the `EnterWorktree` tool to switch into an existing
       worktree of the current repository
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.105
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -34,8 +34,7 @@ record:
   source_release: claude-code-2026-04-13-v2-1-105-github-308569432-65a12cd3
   source_type: github_releases
   theme: developer-workflow
-  title: Added `path` parameter to the `EnterWorktree` tool to switch into an existing
-    wo
+  title: Added `path` parameter to the `EnterWorktree` tool to switch into an existing…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-04-02-the-new-cursor-interface-allows-you-to-run-many-agents-in-parallel-across-repos|cursor-2026-04-02-57045c]]'
@@ -44,11 +43,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-13-v2-1-105-github-308569432-65a12cd3|claude-code-2026-04-13-v2-1-105-github-308569432-65a12cd3]]'
 source_type: github_releases
 theme: developer-workflow
-title: Added path parameter to the EnterWorktree tool to switch into an existing wo
+title: Added path parameter to the EnterWorktree tool to switch into an existing…
 type: change
 ---
 
-# Added `path` parameter to the `EnterWorktree` tool to switch into an existing wo
+# Added `path` parameter to the `EnterWorktree` tool to switch into an existing…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.105: Added `path` parameter to the `EnterWorktree` tool to switch into an existing worktree of the current repository

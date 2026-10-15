@@ -99,6 +99,31 @@ def ensure_vault_dirs(root: Path) -> None:
         (root / name).mkdir(parents=True, exist_ok=True)
 
 
+def refresh_generated_heading(
+    body: str,
+    existing_metadata: dict[str, Any],
+    rendered_body: str,
+) -> str:
+    """Replace a card H1 that still equals the previously generated title.
+
+    The H1 sits outside the machine regions, so it is human-owned once edited. It is
+    refreshed only while it matches the old ``record.title``; any other heading is kept.
+    It is not part of ``machine_hash``.
+    """
+    record = existing_metadata.get("record")
+    old_title = str(record.get("title", "")).rstrip() if isinstance(record, dict) else ""
+    new_heading = next((line for line in rendered_body.splitlines() if line.startswith("# ")), "")
+    if not old_title or not new_heading:
+        return body
+    lines = body.split("\n")
+    for index, line in enumerate(lines):
+        if line.startswith("# "):
+            if line.rstrip() == f"# {old_title}":
+                lines[index] = new_heading.rstrip()
+            break
+    return "\n".join(lines)
+
+
 def write_markdown_file(
     target: Path,
     rendered: str,
@@ -125,6 +150,10 @@ def write_markdown_file(
     rendered_post = frontmatter.loads(rendered)
     rendered_regions = extract_machine_regions(rendered_post.content)
     merged_body = existing_post.content
+    if existing_post.metadata.get("type") == "change":
+        merged_body = refresh_generated_heading(
+            merged_body, existing_post.metadata, rendered_post.content
+        )
     for region, content in rendered_regions.items():
         if region not in extract_machine_regions(merged_body) and region in {'featured', 'coverage', 'narrative'}:
             # Insert new reading sections before long existing archives, preserving

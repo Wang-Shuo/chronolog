@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 311a4a222f2dc0d5707bac295c24f9f4a9085141ac26c0de1230350390693880
+machine_hash: 4fc86bd00edacf038d0295e3418e321468a0bcfa64b64b1c5a70d132555f93c6
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `sandbox.credentials` setting to block sandboxed commands from reading
       credential files and secret environment variables
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.187
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   theme: safety-privacy
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: Added `sandbox.credentials` setting to block sandboxed commands from reading
-    cre
+  title: Added `sandbox.credentials` setting to block sandboxed commands from reading…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-17-added-sandbox-allowappleevents-opt-in-setting-that-lets-sandboxed-commands-send|claude-code-2026-06-17-5303f3]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-23-v2-1-187-github-343665388-744f9775|claude-code-2026-06-23-v2-1-187-github-343665388-744f9775]]'
 source_type: github_releases
 theme: safety-privacy
-title: Added sandbox.credentials setting to block sandboxed commands from reading
-  cre
+title: Added sandbox.credentials setting to block sandboxed commands from reading…
 type: change
 ---
 
-# Added `sandbox.credentials` setting to block sandboxed commands from reading cre
+# Added `sandbox.credentials` setting to block sandboxed commands from reading…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.187: Added `sandbox.credentials` setting to block sandboxed commands from reading credential files and secret environment variables

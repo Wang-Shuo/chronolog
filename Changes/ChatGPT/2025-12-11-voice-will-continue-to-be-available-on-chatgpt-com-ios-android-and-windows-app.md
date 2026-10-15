@@ -11,9 +11,9 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 444477c5379abaa5ad0b44804f4497b126dc9ae4ac6e744923bc98bb03f53b09
+machine_hash: a4e9daddccf2fa7e91652dd334791169f6620d10cbd9883cc4f8e33aef7624d9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Voice will continue to be available on chatgpt.com, iOS, Android, and Windows
       app.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -47,7 +47,7 @@ record:
     theme: mobile-desktop
   theme_resolution: manual-semantic-rule-v1
   title: Voice will continue to be available on chatgpt.com, iOS, Android, and Windows
-    ap
+    app
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-11-25-we-re-making-chatgpt-voice-a-seamless-part-of-the-chatgpt-experience-so-you-can-daf32e|chatgpt-2025-11-25-daf32e]]'
@@ -57,11 +57,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2025-12-11-voice-on-macos-desktop-ap
 source_type: chatgpt_changelog
 theme: voice
 title: Voice will continue to be available on chatgpt.com, iOS, Android, and Windows
-  ap
+  app
 type: change
 ---
 
-# Voice will continue to be available on chatgpt.com, iOS, Android, and Windows ap
+# Voice will continue to be available on chatgpt.com, iOS, Android, and Windows app
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Voice on macOS desktop app is retiring (effective January 15, 2026): Voice will continue to be available on chatgpt.com, iOS, Android, and Windows app.

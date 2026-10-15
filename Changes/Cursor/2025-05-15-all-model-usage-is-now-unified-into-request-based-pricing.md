@@ -11,9 +11,9 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: c14e30d9f71b8c262bd1b2cf71d92cb44932a6208bbca4783e49766fb706af41
+machine_hash: 270aa826b3729f908b1a0ed9916bb9963740f7069ed6f94c56d65ddef9ca72e5
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: All model usage is now unified into request-based pricing
     source_release: https://cursor.com/changelog/0-50
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor

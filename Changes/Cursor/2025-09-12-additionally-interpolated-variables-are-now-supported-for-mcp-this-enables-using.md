@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 53f822b1cd68dadd5dd2e80194e4260144145c817f1fcbdb996601b7746447ba
+machine_hash: 84a83e832f4628a19d27a292c6566f09762c65d5cafa8fac923e8b52bb2d3f9f
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Additionally, interpolated variables are now supported for MCP. This enables
       using environment variables in strings when defining configuration for MCP servers.
     source_release: https://cursor.com/changelog/1-6
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,8 +35,7 @@ record:
   source_release: cursor-2025-09-12-1-6-https-cursor-com-changelog-1-6-f33fb3ea
   source_type: cursor_changelog
   theme: apps-integrations
-  title: Additionally, interpolated variables are now supported for MCP. This enables
-    usi
+  title: Additionally, interpolated variables are now supported for MCP
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-08-13-gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-are-now-availabl-e34de4|chatgpt-2025-08-13-e34de4]]'
@@ -45,12 +44,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-09-12-1-6-https-cursor-com-changelog-1-6-f33fb3ea|cursor-2025-09-12-1-6-https-cursor-com-changelog-1-6-f33fb3ea]]'
 source_type: cursor_changelog
 theme: apps-integrations
-title: Additionally, interpolated variables are now supported for MCP. This enables
-  usi
+title: Additionally, interpolated variables are now supported for MCP
 type: change
 ---
 
-# Additionally, interpolated variables are now supported for MCP. This enables usi
+# Additionally, interpolated variables are now supported for MCP
 
 <!-- chronolog:begin region="description" -->
 Cursor — Slash commands, summarization, and improved Agent terminal: Additionally, interpolated variables are now supported for MCP. This enables using environment variables in strings when defining configuration for MCP servers.

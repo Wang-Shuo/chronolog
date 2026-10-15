@@ -11,9 +11,9 @@ diffusion:
   theme: search-browsing
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 23df0bd1e912dfbe32bbdca54d3933fb6558c646654535e7ffa56c87622c9b45
+machine_hash: 67a4c97741809e7b3216fc26e5f17fba812f39bcb8f7561a15518107c93bd948
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: The `/plugin` browse and discover panes now show when a plugin was last
       updated
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.144
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

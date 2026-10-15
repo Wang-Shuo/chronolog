@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5b6fa909ec9904e1133b5a580022c660a43e2dbeae24666050f00d619529c6b8
+machine_hash: 02c73ff893ce79b96b712697b85161cc7e3c8c6d81fd82d0e2b7e21ecdf7614d
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
       to test, verify, and demo work. Move sessions from local to cloud to keep them
       running with your laptop closed.
     source_release: https://cursor.com/changelog/ios-mobile-app
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -36,7 +36,7 @@ record:
   source_release: cursor-2026-06-29-3-9-https-cursor-com-changelog-ios-mobile-app-d7278607
   source_type: cursor_changelog
   theme: agent-mode
-  title: Cloud agents run in isolated virtual machines with full development environments
+  title: Cloud agents run in isolated virtual machines with full development environments…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-25-added-automode-classifyallshell-setting-to-route-all-bash-powershell-commands-th|claude-code-2026-06-25-f40f80]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-06-29-3-9-https-cursor-com-changelog-ios-mobile-app-d7278607|cursor-2026-06-29-3-9-https-cursor-com-changelog-ios-mobile-app-d7278607]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: Cloud agents run in isolated virtual machines with full development environments
+title: Cloud agents run in isolated virtual machines with full development environments…
 type: change
 ---
 
-# Cloud agents run in isolated virtual machines with full development environments
+# Cloud agents run in isolated virtual machines with full development environments…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cursor Mobile App for iOS: Cloud agents run in isolated virtual machines with full development environments to test, verify, and demo work. Move sessions from local to cloud to keep them running with your laptop closed.

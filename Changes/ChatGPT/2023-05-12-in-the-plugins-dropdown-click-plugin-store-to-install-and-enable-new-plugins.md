@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: d5b3094994b674c728801e79ea679f326f8b7f2f0a5075607921ab21f456d61c
+machine_hash: 3c9c907d026e7182e1a4379773f71cb67d6f8da160ecd35ccc4c615ca3d6f1f6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: In the “Plugins” dropdown, click “Plugin Store” to install and enable new
       plugins
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -37,7 +37,7 @@ record:
   source_type: chatgpt_changelog
   theme: apps-integrations
   title: In the “Plugins” dropdown, click “Plugin Store” to install and enable new
-    plugin
+    plugins
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-b62dc8|chatgpt-2023-03-23-b62dc8]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2023-05-12-web-browsing-and-plugins-are-now-rolling-out-in-beta-5dbe86e7|chatgpt-2023-05-12-web-browsing-and-plugins-are-now-rolling-out-in-beta-5dbe86e7]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
-title: In the “Plugins” dropdown, click “Plugin Store” to install and enable new plugin
+title: In the “Plugins” dropdown, click “Plugin Store” to install and enable new plugins
 type: change
 ---
 
-# In the “Plugins” dropdown, click “Plugin Store” to install and enable new plugin
+# In the “Plugins” dropdown, click “Plugin Store” to install and enable new plugins
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Web browsing and Plugins are now rolling out in beta: In the “Plugins” dropdown, click “Plugin Store” to install and enable new plugins

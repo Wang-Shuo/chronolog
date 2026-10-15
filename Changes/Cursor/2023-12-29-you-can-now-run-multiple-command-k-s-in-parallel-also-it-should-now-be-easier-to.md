@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 27ac6edd33e5249212411f70803b825fe84a9a229898b5fc7815caf67888e97b
+machine_hash: 8a06c6530b72c4e9c46cead778a7370f11ef60c2b7ba63b110154db964e7d335
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: You can now run multiple Command-K's in parallel! Also, it should now be
       easier to see change Copilot++ is suggesting.
     source_release: https://cursor.com/changelog/0-21-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,8 +37,7 @@ record:
   theme: editor-experience
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: You can now run multiple Command-K's in parallel! Also, it should now be
-    easier
+  title: Run multiple Command-K's in parallel!
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-12-02-running-cmd-enter-on-followups-should-result-in-much-better-codebase-results|cursor-2023-12-02-a1992a]]'
@@ -47,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-12-29-0-21-0-https-cursor-com-changelog-0-21-0-9a36334f|cursor-2023-12-29-0-21-0-https-cursor-com-changelog-0-21-0-9a36334f]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: You can now run multiple Command-K's in parallel! Also, it should now be easier
+title: Run multiple Command-K's in parallel!
 type: change
 ---
 
-# You can now run multiple Command-K's in parallel! Also, it should now be easier
+# Run multiple Command-K's in parallel!
 
 <!-- chronolog:begin region="description" -->
 Cursor — Multiple Command-K, Copilot++ UI: You can now run multiple Command-K's in parallel! Also, it should now be easier to see change Copilot++ is suggesting.

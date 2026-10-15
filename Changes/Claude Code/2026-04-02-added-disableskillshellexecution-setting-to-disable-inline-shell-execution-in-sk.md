@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: bbb5beead2bfe07fc7163e678ca77f3e6542509190a384e162e30124ceb9b639
+machine_hash: 696364370765ca40154a714be9b401cf8ecb64ad3508814f0747dd36050ace74
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Added `disableSkillShellExecution` setting to disable inline shell execution
       in skills, custom slash commands, and plugin commands
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.91
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,8 +35,7 @@ record:
   source_release: claude-code-2026-04-02-v2-1-91-github-304899951-a56266fc
   source_type: github_releases
   theme: apps-integrations
-  title: Added `disableSkillShellExecution` setting to disable inline shell execution
-    in
+  title: Added `disableSkillShellExecution` setting to disable inline shell execution…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-01-added-claude-code-plugin-keep-marketplace-on-failure-env-var-to-keep-the-existin|claude-code-2026-04-01-5bb86f]]'
@@ -45,12 +44,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-02-v2-1-91-github-304899951-a56266fc|claude-code-2026-04-02-v2-1-91-github-304899951-a56266fc]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added disableSkillShellExecution setting to disable inline shell execution
-  in
+title: Added disableSkillShellExecution setting to disable inline shell execution…
 type: change
 ---
 
-# Added `disableSkillShellExecution` setting to disable inline shell execution in
+# Added `disableSkillShellExecution` setting to disable inline shell execution…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.91: Added `disableSkillShellExecution` setting to disable inline shell execution in skills, custom slash commands, and plugin commands

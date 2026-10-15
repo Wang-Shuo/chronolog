@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 6988ed9c7d5cfb25af220dae2af00ee893bffc06c7dba4a14168f1fde7a000ca
+machine_hash: 175bb1ca9b7b611b4d4c25e28e59b09a1d9c239562c32de50c76504a608f13ae
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
   - quote: We ship a new version of indexing which should be significantly more stable
       than previous versions
     source_release: https://cursor.com/changelog/0-11-2-nightly
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -39,7 +39,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: We ship a new version of indexing which should be significantly more stable
-    than
+    than…
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-09-05-updates-to-docs-try-pasting-a-link-in-chat-you-can-delete-edit-docs-you-can-see|cursor-2023-09-05-a38d47]]'
@@ -49,11 +49,11 @@ source_release: '[[Releases/Cursor/cursor-2023-09-20-0-11-2-nightly-https-cursor
 source_type: cursor_changelog
 theme: reliability-performance
 title: We ship a new version of indexing which should be significantly more stable
-  than
+  than…
 type: change
 ---
 
-# We ship a new version of indexing which should be significantly more stable than
+# We ship a new version of indexing which should be significantly more stable than…
 
 <!-- chronolog:begin region="description" -->
 Cursor — More Stable Codebase Indexing: We ship a new version of indexing which should be significantly more stable than previous versions

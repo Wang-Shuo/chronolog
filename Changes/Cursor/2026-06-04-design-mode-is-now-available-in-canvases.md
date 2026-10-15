@@ -11,9 +11,9 @@ diffusion:
   theme: file-data
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 62893aca10e1aad34b2caafaba890cd84a6bd9b8f10d59965c9728ad002442e6
+machine_hash: 73764c108beae61e0e218d81d73f8243d7dacf1586c70ba19609d149b8ed2428
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Design Mode is now available in canvases.
     source_release: https://cursor.com/changelog/canvas-improvements
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,7 +35,7 @@ record:
   theme: file-data
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Design Mode is now available in canvases.
+  title: Design Mode is now available in canvases
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-05-14-file-library-is-expanding-to-free-and-go-users-including-to-users-in-the-europea|chatgpt-2026-05-14-d55c3d]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-06-04-3-7-https-cursor-com-changelog-canvas-improvements-6f42df85|cursor-2026-06-04-3-7-https-cursor-com-changelog-canvas-improvements-6f42df85]]'
 source_type: cursor_changelog
 theme: file-data
-title: Design Mode is now available in canvases.
+title: Design Mode is now available in canvases
 type: change
 ---
 
-# Design Mode is now available in canvases.
+# Design Mode is now available in canvases
 
 <!-- chronolog:begin region="description" -->
 Cursor — Canvas Design Mode and Context Usage Report: Design Mode is now available in canvases.

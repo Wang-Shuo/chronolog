@@ -11,9 +11,9 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3237a8510799547610d7b87e50355e6c52192401359073e62ce0c3c20df32b08
+machine_hash: 98940d18b7ca616361b66a26eb3ab90cf1be3a730addaf117cd6132811854aca
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       `.bash_login`) and `~/.config/git/`, which could otherwise lead to unintended
       command execution
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.160
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   source_release: claude-code-2026-06-02-v2-1-160-github-332740156-03dd8b5a
   source_type: github_releases
   theme: account-access
-  title: Added a prompt before writing to shell startup files (`.zshenv`, `.zlogin`,
-    `.ba
+  title: Added a prompt before writing to shell startup files…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-06-improved-visual-consistency-in-slash-command-dialogs-and-login-upgrade-extra-usa|claude-code-2026-05-06-67e323]]'
@@ -46,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-02-v2-1-160-github-332740156-03dd8b5a|claude-code-2026-06-02-v2-1-160-github-332740156-03dd8b5a]]'
 source_type: github_releases
 theme: account-access
-title: Added a prompt before writing to shell startup files (.zshenv, .zlogin, .ba
+title: Added a prompt before writing to shell startup files…
 type: change
 ---
 
-# Added a prompt before writing to shell startup files (`.zshenv`, `.zlogin`, `.ba
+# Added a prompt before writing to shell startup files…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.160: Added a prompt before writing to shell startup files (`.zshenv`, `.zlogin`, `.bash_login`) and `~/.config/git/`, which could otherwise lead to unintended command execution

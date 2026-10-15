@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-09-03'
-machine_hash: 7c0d31a4b9bbbedbe5e7bb328d332f1550bf7775fe7a3dce043d38b9b44cedad
+machine_hash: c15681398f392f4c452fed1f9bb8bc1cc94fb840375bb338819fc3115585eac2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2026-09-03-today-we-re-introducing-gpt-6-astra-with-improvements-in-coding-research-compute|Today we’re introducing GPT-6 Astra, with improvements in coding, research, comp]]
+- model-support: [[Changes/ChatGPT/2026-09-03-today-we-re-introducing-gpt-6-astra-with-improvements-in-coding-research-compute|ChatGPT introduces GPT-6 Astra, with improvements in coding, research, computer use…]]
 <!-- chronolog:end -->

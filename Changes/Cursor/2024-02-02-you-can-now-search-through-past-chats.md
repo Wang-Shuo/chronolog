@@ -11,9 +11,9 @@ diffusion:
   theme: projects-workspaces
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e51fcdde382cfd1890a1617dd44de0086ae8914746d6d46af123bfe7eb042766
+machine_hash: c7863201db93125f50fdbb0f4dfaffb6399e11195471a12e6f7f67379e91a128
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: You can now search through past chats.
     source_release: https://cursor.com/changelog/0-25-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,7 +35,7 @@ record:
   theme: projects-workspaces
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: You can now search through past chats.
+  title: Search through past chats
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-07-21-can-see-recent-folders-on-the-new-window-screen|cursor-2023-07-21-c4ca08]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-02-02-0-25-x-https-cursor-com-changelog-0-25-x-29976ab7|cursor-2024-02-02-0-25-x-https-cursor-com-changelog-0-25-x-29976ab7]]'
 source_type: cursor_changelog
 theme: projects-workspaces
-title: You can now search through past chats.
+title: Search through past chats
 type: change
 ---
 
-# You can now search through past chats.
+# Search through past chats
 
 <!-- chronolog:begin region="description" -->
 Cursor — Command-K Vision Support: You can now search through past chats.

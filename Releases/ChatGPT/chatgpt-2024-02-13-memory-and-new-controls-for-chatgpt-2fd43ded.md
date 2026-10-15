@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2024-02-13'
-machine_hash: aa0314699e7900c9a9d0f7b5780533aa61bc13c1f8c8b4280685ba1d585f8fed
+machine_hash: 0cc5ec8fa01555621a7b3771049e6365873f5d2948bbb06d76606723b93efe52
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- memory: [[Changes/ChatGPT/2024-02-13-we-re-testing-memory-with-chatgpt-remembering-things-you-discuss-across-all-chat-9872c8|We’re testing memory with ChatGPT. Remembering things you discuss across all cha]]
+- memory: [[Changes/ChatGPT/2024-02-13-we-re-testing-memory-with-chatgpt-remembering-things-you-discuss-across-all-chat-9872c8|We’re testing memory with ChatGPT]]
 <!-- chronolog:end -->

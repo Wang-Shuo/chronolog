@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: cad70530ff6e74b46b1b9762a21c630e32558f318f207e743f4552daf1544f8a
+machine_hash: e38b0976e18e0cff5d2f6f11cf520ddbe8c17aff32747196883cd5b0ab866eb1
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
       and then open a PR with the same diff, Bugbot recognizes it, skips the review,
       and leaves a comment noting it has already reviewed that diff.
     source_release: https://cursor.com/changelog/bugbot-updates-june-2026
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -39,8 +39,7 @@ record:
   theme: editor-experience
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: /review also syncs with Bugbot on GitHub and GitLab. If you run /review and
-    then
+  title: /review also syncs with Bugbot on GitHub and GitLab
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-07-the-reviews-tab-now-shows-inline-review-threads-and-top-level-pr-comments|cursor-2026-05-07-fb2228]]'
@@ -49,12 +48,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-06-10-bugbot-is-now-over-3x-faster-22-cheaper-and-finds-10-more-bugs-h-c1721c78|cursor-2026-06-10-bugbot-is-now-over-3x-faster-22-cheaper-and-finds-10-more-bugs-h-c1721c78]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: /review also syncs with Bugbot on GitHub and GitLab. If you run /review and
-  then
+title: /review also syncs with Bugbot on GitHub and GitLab
 type: change
 ---
 
-# /review also syncs with Bugbot on GitHub and GitLab. If you run /review and then
+# /review also syncs with Bugbot on GitHub and GitLab
 
 <!-- chronolog:begin region="description" -->
 Cursor — Bugbot is now over 3x faster, 22% cheaper, and finds 10% more bugs: /review also syncs with Bugbot on GitHub and GitLab. If you run /review and then open a PR with the same diff, Bugbot recognizes it, skips the review, and leaves a comment noting it has already reviewed that diff.

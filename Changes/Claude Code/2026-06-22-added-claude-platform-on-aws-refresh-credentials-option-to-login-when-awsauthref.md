@@ -11,9 +11,9 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ab6d385470a86a1c2445420add34e65d375f20a70b8c6304296ca41bf92acb46
+machine_hash: 58194936c20c8ed2d482ae8307153dcd1f7911ff53cae856dda4ac614daa1266
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added "Claude Platform on AWS - refresh credentials" option to `/login`
       when `awsAuthRefresh` is configured
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.186
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -34,8 +34,7 @@ record:
   source_release: claude-code-2026-06-22-v2-1-186-github-343079393-93ecc37b
   source_type: github_releases
   theme: account-access
-  title: Added "Claude Platform on AWS - refresh credentials" option to `/login` when
-    `aw
+  title: Added "Claude Platform on AWS - refresh credentials" option to `/login`…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-06-02-log-out-of-individual-sessions-or-all-sessions-from-active-sessions|chatgpt-2026-06-02-a6ea70]]'
@@ -44,12 +43,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-22-v2-1-186-github-343079393-93ecc37b|claude-code-2026-06-22-v2-1-186-github-343079393-93ecc37b]]'
 source_type: github_releases
 theme: account-access
-title: Added "Claude Platform on AWS - refresh credentials" option to /login when
-  aw
+title: Added "Claude Platform on AWS - refresh credentials" option to /login…
 type: change
 ---
 
-# Added "Claude Platform on AWS - refresh credentials" option to `/login` when `aw
+# Added "Claude Platform on AWS - refresh credentials" option to `/login`…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.186: Added "Claude Platform on AWS - refresh credentials" option to `/login` when `awsAuthRefresh` is configured

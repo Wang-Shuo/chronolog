@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 663e96a26c5ffa2906e9dd021e89b1612b6655ce7947058a23568065f94c3506
+machine_hash: 9bfe2b63c9ab24322dc87db5ffe78dbbad8c799afebf907cf4b83049e95425d5
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `/plugin list` command to list installed plugins, with `--enabled`/`--disabled`
       filters
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.163
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -34,7 +34,7 @@ record:
   source_release: claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988
   source_type: github_releases
   theme: apps-integrations
-  title: Added `/plugin list` command to list installed plugins, with `--enabled`/`--disa
+  title: Added `/plugin list` command to list installed plugins…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-02-mcp-now-collapses-claude-ai-connectors-you-ve-never-signed-in-to-behind-a-show-u|claude-code-2026-06-02-187c5a]]'
@@ -43,11 +43,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988|claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added /plugin list command to list installed plugins, with --enabled/--disa
+title: Added /plugin list command to list installed plugins…
 type: change
 ---
 
-# Added `/plugin list` command to list installed plugins, with `--enabled`/`--disa
+# Added `/plugin list` command to list installed plugins…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.163: Added `/plugin list` command to list installed plugins, with `--enabled`/`--disabled` filters

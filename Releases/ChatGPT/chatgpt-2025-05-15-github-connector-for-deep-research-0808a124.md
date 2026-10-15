@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-05-15'
-machine_hash: b8bb94cbfb5603c556e9b759ac4526dcb082de99bfab1f0c1d041747771a2af1
+machine_hash: 3b576e1d31cf600edd06e7b57669ab6064c47bd7e0b2205b7b82773198f9f2fd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,5 +39,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- apps-integrations: [[Changes/ChatGPT/2025-05-15-the-github-connector-is-now-available-globally-to-plus-pro-team-users-including|The GitHub connector is now available globally to Plus/Pro/Team users, including]]
+- apps-integrations: [[Changes/ChatGPT/2025-05-15-the-github-connector-is-now-available-globally-to-plus-pro-team-users-including|The GitHub connector is now available globally to Plus/Pro/Team users, including…]]
 <!-- chronolog:end -->

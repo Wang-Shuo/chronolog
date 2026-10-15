@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 61ac5f8478f476db414d8c2f553ac3123b118d31b8ec7b61b3c8495eb449632c
+machine_hash: aa52724d6250030585c5583fe813632f12bafa3f1710160675b4ee9e252e02ea
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Personal Memory must be enabled to utilize this feature.Settings -> Personalization
       -> Memory
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -34,7 +34,7 @@ record:
   source_release: chatgpt-2025-08-22-project-only-memory-3424a221
   source_type: chatgpt_changelog
   theme: memory
-  title: Personal Memory must be enabled to utilize this feature.Settings -> Personalizat
+  title: Personal Memory must be enabled to utilize this feature
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-07-03-memories-is-now-ga-since-1-0-we-ve-improved-memory-generation-quality-added-in-e|cursor-2025-07-03-14294e]]'
@@ -43,11 +43,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-22-project-only-memory-3424a221|chatgpt-2025-08-22-project-only-memory-3424a221]]'
 source_type: chatgpt_changelog
 theme: memory
-title: Personal Memory must be enabled to utilize this feature.Settings - Personalizat
+title: Personal Memory must be enabled to utilize this feature
 type: change
 ---
 
-# Personal Memory must be enabled to utilize this feature. Settings -> Personaliza
+# Personal Memory must be enabled to utilize this feature
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Project-only memory: Personal Memory must be enabled to utilize this feature.Settings -> Personalization -> Memory

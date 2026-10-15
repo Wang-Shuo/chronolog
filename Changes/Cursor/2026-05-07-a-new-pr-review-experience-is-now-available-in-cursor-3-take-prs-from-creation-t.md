@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: bbfa85fd04056bf7df91186b835ad152434efbd95004dbb61dd26ff8ada31d29
+machine_hash: 7acc38f90e17259aa86f7a3922b29b146f3b17bf71aa7316a265f63d5583d7a3
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
   - quote: A new PR review experience is now available in Cursor 3. Take PRs from
       creation to merge all in one place.
     source_release: https://cursor.com/changelog/05-07-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -39,7 +39,7 @@ record:
   theme: developer-workflow
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: A new PR review experience is now available in Cursor 3. Take PRs from creation
+  title: A new PR review experience is now available in Cursor 3
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-28-opentelemetry-added-claude-code-at-mention-log-event-for-mention-resolution|claude-code-2026-04-28-33dc91]]'
@@ -48,11 +48,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-05-07-3-3-https-cursor-com-changelog-05-07-26-9d8a16d3|cursor-2026-05-07-3-3-https-cursor-com-changelog-05-07-26-9d8a16d3]]'
 source_type: cursor_changelog
 theme: developer-workflow
-title: A new PR review experience is now available in Cursor 3. Take PRs from creation
+title: A new PR review experience is now available in Cursor 3
 type: change
 ---
 
-# A new PR review experience is now available in Cursor 3. Take PRs from creation
+# A new PR review experience is now available in Cursor 3
 
 <!-- chronolog:begin region="description" -->
 Cursor — PR Review, Build Plan in Parallel, and Split PRs: A new PR review experience is now available in Cursor 3. Take PRs from creation to merge all in one place.

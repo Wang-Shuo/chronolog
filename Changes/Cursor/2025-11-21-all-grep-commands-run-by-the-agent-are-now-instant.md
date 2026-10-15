@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 57cda63d6dce1e054bc16a37bc1b196e9e13a7ac243d337f13fdd28262feae26
+machine_hash: 539c737754ccbe1ed8b6537c979dfd48051fe6799ae05f2c1a3d7b35934187bf
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: All grep commands run by the agent are now instant.
     source_release: https://cursor.com/changelog/2-1
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -35,7 +35,7 @@ record:
   source_release: cursor-2025-11-21-2-1-https-cursor-com-changelog-2-1-730bb490
   source_type: cursor_changelog
   theme: agent-mode
-  title: All grep commands run by the agent are now instant.
+  title: All grep commands run by the agent are now instant
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-09-29-agent-can-take-screenshots-improve-ui-and-debug-client-issues-read-more-about-br|cursor-2025-09-29-81c2ee]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-11-21-2-1-https-cursor-com-changelog-2-1-730bb490|cursor-2025-11-21-2-1-https-cursor-com-changelog-2-1-730bb490]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: All grep commands run by the agent are now instant.
+title: All grep commands run by the agent are now instant
 type: change
 ---
 
-# All grep commands run by the agent are now instant.
+# All grep commands run by the agent are now instant
 
 <!-- chronolog:begin region="description" -->
 Cursor — Improved Plan Mode, AI Code Review in Editor, and Instant Grep: All grep commands run by the agent are now instant.

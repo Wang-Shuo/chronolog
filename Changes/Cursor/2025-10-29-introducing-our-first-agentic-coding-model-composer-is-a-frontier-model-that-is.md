@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 3b08177fedf863dce683c3180d3561869fba6d217d8d0685e58ed830c8e16e9a
+machine_hash: 26422011705b64f143e6f044c5bb58fcf2463c6e0d2e39a81f61f9dbc7e6a078
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
   - quote: Introducing our first agentic coding model. Composer is a frontier model
       that is 4x faster than similarly intelligent models.
     source_release: https://cursor.com/changelog/2-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -51,8 +51,7 @@ record:
     - faster
     score: 50
     theme: reliability-performance
-  title: Introducing our first agentic coding model. Composer is a frontier model
-    that is
+  title: Introducing our first agentic coding model
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-09-18-we-re-improving-the-quality-and-latency-of-responses-of-the-version-of-advanced|chatgpt-2025-09-18-34d11c]]'
@@ -61,12 +60,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e]]'
 source_type: cursor_changelog
 theme: model-support
-title: Introducing our first agentic coding model. Composer is a frontier model that
-  is
+title: Introducing our first agentic coding model
 type: change
 ---
 
-# Introducing our first agentic coding model. Composer is a frontier model that is
+# Introducing our first agentic coding model
 
 <!-- chronolog:begin region="description" -->
 Cursor — New Coding Model and Agent Interface: Introducing our first agentic coding model. Composer is a frontier model that is 4x faster than similarly intelligent models.

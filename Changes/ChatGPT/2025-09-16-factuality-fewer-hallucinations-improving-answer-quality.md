@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a121a6fe4b303c16e29ca4e08f06dddce97d4ede79d5652380c502c3a3bd8a91
+machine_hash: 103154c1f746d589655eb351522eee06b5d043a4c03deaa8a4be60c0a93997c9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: 'Factuality: Fewer hallucinations, improving answer quality.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -35,7 +35,7 @@ record:
   theme: model-support
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: 'Factuality: Fewer hallucinations, improving answer quality.'
+  title: 'Factuality: Fewer hallucinations, improving answer quality'
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-08-12-gmail-google-calendar-and-google-contacts-are-now-available-to-connect-and-use-i-9ea6d6|chatgpt-2025-08-12-9ea6d6]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-16-improvements-to-search-in-chatgpt-2ec68690|chatgpt-2025-09-16-improvements-to-search-in-chatgpt-2ec68690]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: 'Factuality: Fewer hallucinations, improving answer quality.'
+title: 'Factuality: Fewer hallucinations, improving answer quality'
 type: change
 ---
 
-# Factuality: Fewer hallucinations, improving answer quality.
+# Factuality: Fewer hallucinations, improving answer quality
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Improvements to search in ChatGPT: Factuality: Fewer hallucinations, improving answer quality.

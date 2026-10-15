@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 93a32973a833baeb9117d149e9de17d8d0d68c8f191d99442d40d63262bc3702
+machine_hash: 50b5504b527392cfb89b15601576e13f4e830f4d85055caadf423a571d17c50d
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Improved Claude to prefer file operation tools (Read, Edit, Write) over
       bash equivalents (cat, sed, awk)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.21
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   theme: editor-experience
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Improved Claude to prefer file operation tools (Read, Edit, Write) over bash
-    equ
+  title: Improved Claude to prefer file operation tools (Read, Edit, Write) over bash…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-01-16-use-ask-mode-to-explore-code-without-making-changes-just-like-in-the-editor-star|cursor-2026-01-16-7f3bfa]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-01-28-v2-1-21-github-280523920-bba74245|claude-code-2026-01-28-v2-1-21-github-280523920-bba74245]]'
 source_type: github_releases
 theme: editor-experience
-title: Improved Claude to prefer file operation tools (Read, Edit, Write) over bash
-  equ
+title: Improved Claude to prefer file operation tools (Read, Edit, Write) over bash…
 type: change
 ---
 
-# Improved Claude to prefer file operation tools (Read, Edit, Write) over bash equ
+# Improved Claude to prefer file operation tools (Read, Edit, Write) over bash…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.21: Improved Claude to prefer file operation tools (Read, Edit, Write) over bash equivalents (cat, sed, awk)

@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9f4a0df3a292047ca8eda754c012fbdd2294ef5cd4ec54143755ba62d5cd7b30
+machine_hash: 33ca9be2dbc994271a34038bc57449f7ac0802875ed9f6063cd4af11961160cb
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Improved the Bash tool's description guidance so Claude describes what
       a command does in plain words instead of echoing the command
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.267
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,7 +38,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: Improved the Bash tool's description guidance so Claude describes what a
-    command
+    command…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-25-added-a-startup-warning-for-bash-allow-rules-with-a-wildcard-before-the-subcomma|claude-code-2026-08-25-782b3a]]'
@@ -47,11 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-09-v2-1-267-github-385748811-6409148e|claude-code-2026-09-09-v2-1-267-github-385748811-6409148e]]'
 source_type: github_releases
 theme: developer-workflow
-title: Improved the Bash tool's description guidance so Claude describes what a command
+title: Improved the Bash tool's description guidance so Claude describes what a command…
 type: change
 ---
 
-# Improved the Bash tool's description guidance so Claude describes what a command
+# Improved the Bash tool's description guidance so Claude describes what a command…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.267: Improved the Bash tool's description guidance so Claude describes what a command does in plain words instead of echoing the command

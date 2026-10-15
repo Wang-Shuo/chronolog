@@ -11,9 +11,9 @@ diffusion:
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 12dd66488bf5acd8e2a2f2915a8f405395ffd8c19f3faeb7cc3afe66e86492f2
+machine_hash: 799f8262ca82eff062cb4f070a94720d842f906fbc8ec43321402fc08a126115
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Teams can also share private docs.
     source_release: https://cursor.com/changelog/0-10-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -33,16 +33,16 @@ record:
   source_release: cursor-2023-09-08-0-10-0-https-cursor-com-changelog-0-10-0-8f32d699
   source_type: cursor_changelog
   theme: collaboration
-  title: Teams can also share private docs.
+  title: Teams can also share private docs
   type: change
 source_release: '[[Releases/Cursor/cursor-2023-09-08-0-10-0-https-cursor-com-changelog-0-10-0-8f32d699|cursor-2023-09-08-0-10-0-https-cursor-com-changelog-0-10-0-8f32d699]]'
 source_type: cursor_changelog
 theme: collaboration
-title: Teams can also share private docs.
+title: Teams can also share private docs
 type: change
 ---
 
-# Teams can also share private docs.
+# Teams can also share private docs
 
 <!-- chronolog:begin region="description" -->
 Cursor — Better Docs Management, Staged Rollouts: Teams can also share private docs.

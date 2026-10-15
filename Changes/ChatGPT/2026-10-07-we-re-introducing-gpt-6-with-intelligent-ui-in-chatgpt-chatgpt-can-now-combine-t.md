@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 55ef691a0079486a527b8672d828e8f5acdce47c734e2e98a93b707c2a7c16af
+machine_hash: 41bfbc6ee51b89eaaa596dcf5bdd1292bbcad2570442213cb20e8e20bb3dd4cb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -52,7 +52,7 @@ record:
       and doesn’t support Intelligent UI. The models powering Work and Codex aren’t
       changing with this release.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -74,7 +74,7 @@ record:
     score: 50
     theme: model-support
   theme_resolution: manual-backfill-review-v1
-  title: We’re introducing GPT-6 with Intelligent UI in ChatGPT. ChatGPT can now combine
+  title: ChatGPT introduces GPT-6 with Intelligent UI
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-09-29-gpt-6-1-sol-improves-on-gpt-6-sol-in-agentic-coding-computer-use-and-professiona|chatgpt-2026-09-29-ddbc10]]'
@@ -83,11 +83,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-07-gpt-6-and-intelligent-ui-in-chatgpt-43bd07f7|chatgpt-2026-10-07-gpt-6-and-intelligent-ui-in-chatgpt-43bd07f7]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: We’re introducing GPT-6 with Intelligent UI in ChatGPT. ChatGPT can now combine
+title: ChatGPT introduces GPT-6 with Intelligent UI
 type: change
 ---
 
-# We’re introducing GPT-6 with Intelligent UI in ChatGPT. ChatGPT can now combine
+# ChatGPT introduces GPT-6 with Intelligent UI
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — GPT-6 and Intelligent UI in ChatGPT: We’re introducing GPT-6 with Intelligent UI in ChatGPT. ChatGPT can now combine text, visuals, and interactive elements to fit your question, from side-by-side comparisons and diagrams to tools you can use directly in the conversation, such as calculators, bill splitters, and games. It can choose the format automatically, and still use a simple text answer when that works best.GPT-6 can also begin answering while it continues to think or use tools, then add more findings without another prompt. You can start reading before the full answer is ready.The rollout starts globally today for Plus, Pro, Business, and Enterprise in the Chat tab, and expands to Free and Go starting tomorrow. Enterprise availability depends on workspace admin settings.Plus, Pro, Business, and Enterprise use GPT-6 Sol; Free and Go use GPT-6 Luna. Intelligent UI is available from Instant through Extra High reasoning. The Pro reasoning option continues to use GPT-6 Astra and doesn’t support Intelligent UI. The models powering Work and Codex aren’t changing with this release.

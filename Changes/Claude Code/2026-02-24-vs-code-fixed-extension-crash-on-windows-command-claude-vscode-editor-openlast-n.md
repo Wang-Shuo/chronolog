@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: af2585c85f095f2440ad4e68c0dc608590e894cd2b007caba704f045d53af57f
+machine_hash: 9423107c6b2f225239c91802964d1fae45336f2453bfca520ce16e4cd535a017
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: 'VS Code: Fixed extension crash on Windows ("command ''claude-vscode.editor.openLast''
       not found")'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.52
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -34,7 +34,7 @@ record:
   source_release: claude-code-2026-02-24-v2-1-52-github-289722248-e9ee8830
   source_type: github_releases
   theme: editor-experience
-  title: 'VS Code: Fixed extension crash on Windows ("command ''claude-vscode.editor.openLa'
+  title: 'VS Code: Fixed extension crash on Windows…'
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-02-19-write-and-edit-text-in-line|chatgpt-2026-02-19-2288b5]]'
@@ -43,11 +43,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-02-24-v2-1-52-github-289722248-e9ee8830|claude-code-2026-02-24-v2-1-52-github-289722248-e9ee8830]]'
 source_type: github_releases
 theme: editor-experience
-title: 'VS Code: Fixed extension crash on Windows ("command ''claude-vscode.editor.openLa'
+title: 'VS Code: Fixed extension crash on Windows…'
 type: change
 ---
 
-# VS Code: Fixed extension crash on Windows ("command 'claude-vscode.editor.openLa
+# VS Code: Fixed extension crash on Windows…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.52: VS Code: Fixed extension crash on Windows ("command 'claude-vscode.editor.openLast' not found")

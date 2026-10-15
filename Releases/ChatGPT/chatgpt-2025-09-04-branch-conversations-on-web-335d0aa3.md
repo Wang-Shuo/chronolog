@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-09-04'
-machine_hash: a5280e21610a162ba34d4877a7f3aff6ad3477ffc7a3fecd583054cea8a8fd7c
+machine_hash: e303edcca873b4981479e033047c5ae0e040210e1601ffb2763c5d16566bde25
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- projects-workspaces: [[Changes/ChatGPT/2025-09-04-you-can-now-branch-conversations-in-chatgpt-making-it-easier-to-explore-differen-78eb21|You can now branch conversations in ChatGPT, making it easier to explore differe]]
+- projects-workspaces: [[Changes/ChatGPT/2025-09-04-you-can-now-branch-conversations-in-chatgpt-making-it-easier-to-explore-differen-78eb21|Branch conversations in ChatGPT, making it easier to explore different directions…]]
 <!-- chronolog:end -->

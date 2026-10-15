@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: c0b67a8d09fe120d296160599cd0a92e960475ee4c4b7770433bb9a0ae5b6ee0
+machine_hash: 02c43a843f445c5ccaad32b9e70363206f7f306ad19cfca84a29fe215fb06509
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: 'Added `archive` plugin source: install plugins from a zip over HTTPS without
       git or npm, with optional SHA-256 pinning'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.224
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -34,8 +34,7 @@ record:
   source_release: claude-code-2026-08-07-v2-1-224-github-366468634-0ab9e64c
   source_type: github_releases
   theme: apps-integrations
-  title: 'Added `archive` plugin source: install plugins from a zip over HTTPS without
-    git'
+  title: Added `archive` plugin source
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-04-changed-remote-control-auto-start-so-repo-local-settings-claude-settings-json-or|claude-code-2026-08-04-12f511]]'
@@ -44,12 +43,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-08-07-v2-1-224-github-366468634-0ab9e64c|claude-code-2026-08-07-v2-1-224-github-366468634-0ab9e64c]]'
 source_type: github_releases
 theme: apps-integrations
-title: 'Added archive plugin source: install plugins from a zip over HTTPS without
-  git'
+title: Added archive plugin source
 type: change
 ---
 
-# Added `archive` plugin source: install plugins from a zip over HTTPS without git
+# Added `archive` plugin source
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.224: Added `archive` plugin source: install plugins from a zip over HTTPS without git or npm, with optional SHA-256 pinning

@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1bd7f800eb5da454980e8758d2ce5f06fdb790a1baea290196034571f1d89fb1
+machine_hash: d34ebbbd3d90b053df259c5e07f765ff5a5af914604195675de6cd3ca35a64a2
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Fixed a permission-check bypass affecting commands run in Windows PowerShell
       5.1 sessions
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.214
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: Fixed a permission-check bypass affecting commands run in Windows PowerShell
-    5.1
+    5.1 sessions
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-14-fixed-multi-second-per-turn-slowdowns-in-sessions-with-many-permission-deny-ask|claude-code-2026-07-14-df06b4]]'
@@ -47,11 +47,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-07-18-v2-1-214-github-3
 source_type: github_releases
 theme: safety-privacy
 title: Fixed a permission-check bypass affecting commands run in Windows PowerShell
-  5.1
+  5.1 sessions
 type: change
 ---
 
-# Fixed a permission-check bypass affecting commands run in Windows PowerShell 5.1
+# Fixed a permission-check bypass affecting commands run in Windows PowerShell 5.1 sessions
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.214: Fixed a permission-check bypass affecting commands run in Windows PowerShell 5.1 sessions

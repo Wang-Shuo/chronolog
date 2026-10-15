@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9edb6eeb32fc5df2acddc082d52c7eabe7a2329f98341b9549b60ce6479c7256
+machine_hash: 7d6e06eff64c870ed4a51ab7065cc8ece840315e5a9e2f8e3e7f04217227557d
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: In order to take full advantage, navigate to Settings (top right button),
       then "Sync the current codebase"
     source_release: https://cursor.com/changelog/0-2-27
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: In order to take full advantage, navigate to Settings (top right button),
-    then "
+    then…
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-04-29-experimental-support-for-multi-file-diffs|cursor-2023-04-29-6cec2b]]'
@@ -46,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-06-06-0-2-27-https-cursor-com-changelog-0-2-27-f949eba0|cursor-2023-06-06-0-2-27-https-cursor-com-changelog-0-2-27-f949eba0]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: In order to take full advantage, navigate to Settings (top right button), then
-  "
+title: In order to take full advantage, navigate to Settings (top right button), then…
 type: change
 ---
 
-# In order to take full advantage, navigate to Settings (top right button), then "
+# In order to take full advantage, navigate to Settings (top right button), then…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Codebase Context v2: In order to take full advantage, navigate to Settings (top right button), then "Sync the current codebase"

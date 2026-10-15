@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 2c149bea5d93bd426e375e0bda7d68dc169a21a01e655e59541bcfa84131fc10
+machine_hash: 4f9be24a5678221552d5a9c6406d39ea12fc1229bdc41e0b471031692066a1cd
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Auto-update binary downloads now stream to disk instead of buffering in
       memory, cutting the updater's peak memory usage by roughly 400 MB
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.205
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme: reliability-performance
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: Auto-update binary downloads now stream to disk instead of buffering in memory,
+  title: Auto-update binary downloads now stream to disk instead of buffering in memory…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-02-claude-code-retry-watchdog-now-raises-the-default-retry-count-for-non-capacity-t|claude-code-2026-07-02-ebe592]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-08-v2-1-205-github-351140412-aeced5ba|claude-code-2026-07-08-v2-1-205-github-351140412-aeced5ba]]'
 source_type: github_releases
 theme: reliability-performance
-title: Auto-update binary downloads now stream to disk instead of buffering in memory,
+title: Auto-update binary downloads now stream to disk instead of buffering in memory…
 type: change
 ---
 
-# Auto-update binary downloads now stream to disk instead of buffering in memory,
+# Auto-update binary downloads now stream to disk instead of buffering in memory…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.205: Auto-update binary downloads now stream to disk instead of buffering in memory, cutting the updater's peak memory usage by roughly 400 MB

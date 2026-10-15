@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: b0a966623a7bd0c05386d38e7190e554073774800c4d758ca4e6e8daec193655
+machine_hash: 5877c41e34b3af77f57e959e18acb6f1020f284f8e03632e989f629acc277676
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: To try the Agents Window, upgrade Cursor and type Cmd+Shift+P -> Agents
       Window.
     source_release: https://cursor.com/changelog/3-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -34,7 +34,7 @@ record:
   source_release: cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad
   source_type: cursor_changelog
   theme: agent-mode
-  title: To try the Agents Window, upgrade Cursor and type Cmd+Shift+P -> Agents Window.
+  title: To try the Agents Window, upgrade Cursor and type Cmd+Shift+P -> Agents Window
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-01-added-named-subagents-to-mention-typeahead-suggestions|claude-code-2026-04-01-fa9274]]'
@@ -43,11 +43,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad|cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: To try the Agents Window, upgrade Cursor and type Cmd+Shift+P - Agents Window.
+title: To try the Agents Window, upgrade Cursor and type Cmd+Shift+P - Agents Window
 type: change
 ---
 
-# To try the Agents Window, upgrade Cursor and type Cmd+Shift+P -> Agents Window.
+# To try the Agents Window, upgrade Cursor and type Cmd+Shift+P -> Agents Window
 
 <!-- chronolog:begin region="description" -->
 Cursor — New Cursor Interface: To try the Agents Window, upgrade Cursor and type Cmd+Shift+P -> Agents Window.

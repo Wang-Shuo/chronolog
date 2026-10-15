@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 245675743f43d26adaaa5eb1d5bf4343849bfc437ca5c4287ef93ec150df3453
+machine_hash: 60b494372bf71913d548cd4baa1c37e2fdc11ae625d1f93191800262b84c4808
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: '`claude agents`: the `agent` field in `settings.json` is now honored for
       dispatched sessions, with `--agent <name>` to override it'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.157
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   source_type: github_releases
   theme: agent-mode
   title: '`claude agents`: the `agent` field in `settings.json` is now honored for
-    dispatc'
+    dispatched…'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-21-auto-mode-no-longer-suppresses-askuserquestion-when-the-user-or-a-skill-explicit|claude-code-2026-05-21-645cfa]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-29-v2-1-157-github-331670634-f5eda9d8|claude-code-2026-05-29-v2-1-157-github-331670634-f5eda9d8]]'
 source_type: github_releases
 theme: agent-mode
-title: 'claude agents: the agent field in settings.json is now honored for dispatc'
+title: 'claude agents: the agent field in settings.json is now honored for dispatched…'
 type: change
 ---
 
-# `claude agents`: the `agent` field in `settings.json` is now honored for dispatc
+# `claude agents`: the `agent` field in `settings.json` is now honored for dispatched…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.157: `claude agents`: the `agent` field in `settings.json` is now honored for dispatched sessions, with `--agent <name>` to override it

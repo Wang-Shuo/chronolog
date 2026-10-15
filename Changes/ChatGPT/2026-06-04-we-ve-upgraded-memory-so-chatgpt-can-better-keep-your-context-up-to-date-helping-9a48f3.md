@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1d02e5cb950c0834d04148c74456e06b6c91eb9b7072038560f8f1707f9f2da4
+machine_hash: f045564e164a1df64b9ebfa52e10928b8cb3d4ec40ab72f7bcee97d1340bd67c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,7 +51,7 @@ record:
       the update becomes available to them. For Plus and Pro users, ChatGPT can also
       remember more useful context, with twice as much memory capacity.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -75,7 +75,7 @@ record:
     score: 50
     theme: context-window
   title: We’ve upgraded memory so ChatGPT can better keep your context up to date,
-    helpin
+    helping…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-03-17-we-re-sunsetting-the-preset-nerdy-base-style-to-simplify-options-and-improve-res|chatgpt-2026-03-17-09905d]]'
@@ -84,11 +84,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-04-memory-that-stays-more-up-to-date-8fc83f65|chatgpt-2026-06-04-memory-that-stays-more-up-to-date-8fc83f65]]'
 source_type: chatgpt_changelog
 theme: memory
-title: We’ve upgraded memory so ChatGPT can better keep your context up to date, helpin
+title: We’ve upgraded memory so ChatGPT can better keep your context up to date, helping…
 type: change
 ---
 
-# We’ve upgraded memory so ChatGPT can better keep your context up to date, helpin
+# We’ve upgraded memory so ChatGPT can better keep your context up to date, helping…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Memory that stays more up to date: We’ve upgraded memory so ChatGPT can better keep your context up to date, helping responses stay more relevant. This makes memory more useful by reducing stale or contradictory saved memories and helps ChatGPT better understand your preferences, goals, and ongoing work. You can review the memories that ChatGPT may use to personalize responses through sources or in your memory summary.Memories are now updated automatically, with ChatGPT keeping track of the details it determines are most important so it can continue building on the context you’ve already shared. If you prefer to revert to the legacy saved memories system, go to Settings > Memory > Saved memories.This update is rolling out to Plus and Pro users in the US today. To access it on iOS or Android, update your ChatGPT app to the latest version. We’ll expand to Free and Go plans and additional countries over the next few weeks. Users will receive an in-product notice when the update becomes available to them. For Plus and Pro users, ChatGPT can also remember more useful context, with twice as much memory capacity.

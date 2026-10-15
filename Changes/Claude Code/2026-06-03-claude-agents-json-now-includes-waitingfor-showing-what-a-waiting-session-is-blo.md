@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 601fd9861509697f22bd6e830b6852c26ff44ffdcad736998aa7a270add5bde6
+machine_hash: 642565a6542497f534a15b451a0dd2a1ddeafee76719ae0dffb56fe2c5c1d9aa
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: '`claude agents --json` now includes `waitingFor` showing what a waiting
       session is blocked on (e.g. permission prompt)'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.162
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: '`claude agents --json` now includes `waitingFor` showing what a waiting
-    session'
+    session…'
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-29-auto-review-applies-to-shell-mcp-and-fetch-tool-calls-allowlisted-calls-run-imme|cursor-2026-05-29-e786d9]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-03-v2-1-162-github-333906405-cdc7c67c|claude-code-2026-06-03-v2-1-162-github-333906405-cdc7c67c]]'
 source_type: github_releases
 theme: safety-privacy
-title: claude agents --json now includes waitingFor showing what a waiting session
+title: claude agents --json now includes waitingFor showing what a waiting session…
 type: change
 ---
 
-# `claude agents --json` now includes `waitingFor` showing what a waiting session
+# `claude agents --json` now includes `waitingFor` showing what a waiting session…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.162: `claude agents --json` now includes `waitingFor` showing what a waiting session is blocked on (e.g. permission prompt)

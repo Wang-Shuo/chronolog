@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-11-21'
-machine_hash: 52ee941bc8be694b7bf549cbc5e392661e2874a7baf572cb8b1ba50e6f0d046b
+machine_hash: 20a19462edd3cb252b0c074a424854fdcb97b6d2ec02f9f54b0b82bacbdb4da0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,5 +39,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- voice: [[Changes/ChatGPT/2023-11-21-chatgpt-with-voice-is-now-available-to-all-free-users-download-the-app-on-your-p|ChatGPT with voice is now available to all free users. Download the app on your]]
+- voice: [[Changes/ChatGPT/2023-11-21-chatgpt-with-voice-is-now-available-to-all-free-users-download-the-app-on-your-p|ChatGPT with voice is now available to all free users]]
 <!-- chronolog:end -->

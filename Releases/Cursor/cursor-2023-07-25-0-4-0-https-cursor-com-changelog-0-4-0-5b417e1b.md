@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-07-25'
-machine_hash: 416597c77e119b2ceddd27f2004ed2d35b3f3ea1fba05044d3965c550474e8e7
+machine_hash: f96371ea1bca98381d3fc5aa01f44956f00a5338ca49597bc7a0cda37ad42dd2
 product: cursor
 product_name: Cursor
 record:
@@ -39,5 +39,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- account-access: [[Changes/Cursor/2023-07-25-you-can-now-chat-with-any-codebase-no-need-to-have-a-github-repo-login-through-g|You can now chat with any codebase. No need to have a Github repo / login throug]]
+- account-access: [[Changes/Cursor/2023-07-25-you-can-now-chat-with-any-codebase-no-need-to-have-a-github-repo-login-through-g|Chat with any codebase]]
 <!-- chronolog:end -->

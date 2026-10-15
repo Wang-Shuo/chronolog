@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 21b8fd61d0a55f6151241d889a9684766b20c6ae75fbd413feb36636d09a7136
+machine_hash: b5bc55a4ca6efbb0d04ac7444a0d72aaf20ab29d14848988d8bddd9261babb59
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       choose a different thinking time, your preference is saved and used for future
       queries until you switch again.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -39,8 +39,7 @@ record:
   theme: model-support
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: All queries default to Standard unless you choose to change it. Once you
-    choose
+  title: All queries default to Standard unless you choose to change it
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-09-17-pro-users-get-two-additional-options-light-snappiest-and-heavy-deeper-reasoning|chatgpt-2025-09-17-1071e8]]'
@@ -49,11 +48,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-17-toggle-thinking-time-in-the-message-composer-66cafc9c|chatgpt-2025-09-17-toggle-thinking-time-in-the-message-composer-66cafc9c]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: All queries default to Standard unless you choose to change it. Once you choose
+title: All queries default to Standard unless you choose to change it
 type: change
 ---
 
-# All queries default to Standard unless you choose to change it. Once you choose
+# All queries default to Standard unless you choose to change it
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Toggle thinking time in the message composer: All queries default to Standard unless you choose to change it. Once you choose a different thinking time, your preference is saved and used for future queries until you switch again.

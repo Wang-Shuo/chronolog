@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-08-03'
-machine_hash: cbd0bd5950b5bcaa80885e429aa3b25dd48969046307740fd1dc804b8791e97b
+machine_hash: d5e49a1648c93c3a06fbebb21e52ca861c704bb8f5cbb954cab5c0d0161a0358
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2023-08-03-we-re-rolling-out-a-bunch-of-small-updates-to-improve-the-chatgpt-experience-shi|We’re rolling out a bunch of small updates to improve the ChatGPT experience. Sh]]
+- model-support: [[Changes/ChatGPT/2023-08-03-we-re-rolling-out-a-bunch-of-small-updates-to-improve-the-chatgpt-experience-shi|ChatGPT rolls out a bunch of small updates to improve the ChatGPT experience]]
 <!-- chronolog:end -->

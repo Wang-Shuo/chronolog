@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1f5974c382b93dc73017f8cb22f95f4e89bf93ef705056d482a30516849f7405
+machine_hash: ca96c57ec500b82444e497ffa36db84a6f71930477a67bb41614d116b4684cb8
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: This release introduces quality-of-life improvements to the Agents Window.
     source_release: https://cursor.com/changelog/3-4
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -33,7 +33,7 @@ record:
   source_release: cursor-2026-05-13-3-4-https-cursor-com-changelog-3-4-7fe50a9d
   source_type: cursor_changelog
   theme: agent-mode
-  title: This release introduces quality-of-life improvements to the Agents Window.
+  title: Cursor introduces quality-of-life improvements to the Agents Window
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-13-added-claude-agents-cwd-path-to-scope-the-session-list-to-a-directory|claude-code-2026-05-13-31bba2]]'
@@ -42,11 +42,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-05-13-3-4-https-cursor-com-changelog-3-4-7fe50a9d|cursor-2026-05-13-3-4-https-cursor-com-changelog-3-4-7fe50a9d]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: This release introduces quality-of-life improvements to the Agents Window.
+title: Cursor introduces quality-of-life improvements to the Agents Window
 type: change
 ---
 
-# This release introduces quality-of-life improvements to the Agents Window.
+# Cursor introduces quality-of-life improvements to the Agents Window
 
 <!-- chronolog:begin region="description" -->
 Cursor — Full-screen Tabs and Compact Chats: This release introduces quality-of-life improvements to the Agents Window.

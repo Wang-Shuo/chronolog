@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f98eb0306a21d5ef5ef63cc609449ec39722e9ab7e1bb7d19043085a6fa3d4cd
+machine_hash: 6d6da71344529cb199813cf96f95c4c8d76f2f7418f2f9fb50e051faf8e2daf2
 product: cursor
 product_name: Cursor
 record:
@@ -24,7 +24,7 @@ record:
   evidence:
   - quote: Keychords now use Cmd+R/Ctrl+R.
     source_release: https://cursor.com/changelog/0-7-14-nightly
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -34,7 +34,7 @@ record:
   theme: interface-experience
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Keychords now use Cmd+R/Ctrl+R.
+  title: Keychords now use Cmd+R/Ctrl+R
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-07-07-chat-edit-tooltip-blocks-less-code|cursor-2023-07-07-1407d3]]'
@@ -43,11 +43,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-08-17-0-7-14-nightly-https-cursor-com-changelog-0-7-14-nightly-b6b0c549|cursor-2023-08-17-0-7-14-nightly-https-cursor-com-changelog-0-7-14-nightly-b6b0c549]]'
 source_type: cursor_changelog
 theme: interface-experience
-title: Keychords now use Cmd+R/Ctrl+R.
+title: Keychords now use Cmd+R/Ctrl+R
 type: change
 ---
 
-# Keychords now use Cmd+R/Ctrl+R.
+# Keychords now use Cmd+R/Ctrl+R
 
 <!-- chronolog:begin region="description" -->
 Cursor — Small improvements: Keychords now use Cmd+R/Ctrl+R.

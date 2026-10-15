@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-01-26'
-machine_hash: efd11c89e040fe35587cbf27f6b66ca583d56654478facff819fd9a21f272ba4
+machine_hash: cc156c69fdb1f10040b0366ed4063af0e81e4c24d80ff7d1a1b397a7b146da9e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,5 +39,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- voice: [[Changes/ChatGPT/2026-01-26-we-ve-improved-search-responses-in-chatgpt-voice-to-deliver-more-complete-up-to|We’ve improved search responses in ChatGPT Voice to deliver more complete, up-to]]
+- voice: [[Changes/ChatGPT/2026-01-26-we-ve-improved-search-responses-in-chatgpt-voice-to-deliver-more-complete-up-to|ChatGPT improves search responses in ChatGPT Voice to deliver more complete…]]
 <!-- chronolog:end -->

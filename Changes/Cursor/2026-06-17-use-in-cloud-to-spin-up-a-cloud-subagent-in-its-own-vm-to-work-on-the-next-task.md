@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 91542c2cf00cd9efc9d03686d3374ed32fd3f629c0dca42a3ab102eccfe42b34
+machine_hash: d3eba1a3cc50f1340bb1393e952b970c18fcda4f732c167837cd4c72f5590fb6
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
       next task you submit. It runs on its own VM and branch, so your local workspace
       stays clean and responsive.
     source_release: https://cursor.com/changelog/cloud-in-agents-window
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -38,7 +38,7 @@ record:
   source_type: cursor_changelog
   theme: agent-mode
   title: Use /in-cloud to spin up a cloud subagent in its own VM to work on the next
-    task
+    task you…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-06-10-available-in-cursor-3-7-and-on-cursor-com-agents-with-support-in-cli-coming-soon|cursor-2026-06-10-88ec60]]'
@@ -48,11 +48,11 @@ source_release: '[[Releases/Cursor/cursor-2026-06-17-3-7-https-cursor-com-change
 source_type: cursor_changelog
 theme: agent-mode
 title: Use /in-cloud to spin up a cloud subagent in its own VM to work on the next
-  task
+  task you…
 type: change
 ---
 
-# Use /in-cloud to spin up a cloud subagent in its own VM to work on the next task
+# Use /in-cloud to spin up a cloud subagent in its own VM to work on the next task you…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cloud Environment Setup and Cloud Subagents in Agents Window: Use /in-cloud to spin up a cloud subagent in its own VM to work on the next task you submit. It runs on its own VM and branch, so your local workspace stays clean and responsive.

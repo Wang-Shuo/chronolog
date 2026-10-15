@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-09-09'
-machine_hash: 34e355724d78b9c842db1bd26555921b7b09c8e04676c251cdbfef6e02c7c74b
+machine_hash: 2072aca3ed0ff224a1e534982d6de53c3d380908b6bca516ffd0bf8a3e7d5536
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- voice: [[Changes/ChatGPT/2025-09-09-last-month-we-announced-that-everyone-now-has-access-to-advanced-voice-mode-with-d861d2|Last month we announced that everyone now has access to Advanced Voice Mode, wit]]
+- voice: [[Changes/ChatGPT/2025-09-09-last-month-we-announced-that-everyone-now-has-access-to-advanced-voice-mode-with-d861d2|Last month we announced that everyone now has access to Advanced Voice Mode…]]
 <!-- chronolog:end -->

@@ -11,9 +11,9 @@ diffusion:
   theme: automation-scheduling
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3dc41cdbab4e69d30af759422779d50dd4697cce1ec0ad5443796b111a89540f
+machine_hash: ab2e42f6a243ee04b940c75f8308a6daaba7d4b77e83138872a0c5157aa9e7b3
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Create automations at cursor.com/automations, or start from a template.
       Read more in our announcement.
     source_release: https://cursor.com/changelog/03-05-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -34,8 +34,7 @@ record:
   source_release: cursor-2026-03-05-automations-https-cursor-com-changelog-03-05-26-be367422
   source_type: cursor_changelog
   theme: automation-scheduling
-  title: Create automations at cursor.com/automations, or start from a template. Read
-    mor
+  title: Create automations at cursor.com/automations, or start from a template
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now|chatgpt-2025-12-17-d1d8fe]]'
@@ -44,12 +43,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-03-05-automations-https-cursor-com-changelog-03-05-26-be367422|cursor-2026-03-05-automations-https-cursor-com-changelog-03-05-26-be367422]]'
 source_type: cursor_changelog
 theme: automation-scheduling
-title: Create automations at cursor.com/automations, or start from a template. Read
-  mor
+title: Create automations at cursor.com/automations, or start from a template
 type: change
 ---
 
-# Create automations at cursor.com/automations, or start from a template. Read mor
+# Create automations at cursor.com/automations, or start from a template
 
 <!-- chronolog:begin region="description" -->
 Cursor — Automations: Create automations at cursor.com/automations, or start from a template. Read more in our announcement.

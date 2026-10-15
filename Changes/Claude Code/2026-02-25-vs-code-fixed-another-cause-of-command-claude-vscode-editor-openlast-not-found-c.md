@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e6d2993f39527c84fa3f7fd545cacb557d2947feda18f38c703aa6d38268ae4b
+machine_hash: 04c4815669ce285eb2e91b834924055e595302d2a513598e379b0d28297c6346
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: 'VS Code: Fixed another cause of "command ''claude-vscode.editor.openLast''
       not found" crashes'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.56
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -34,8 +34,7 @@ record:
   source_release: claude-code-2026-02-25-v2-1-56-github-290182861-060a4e7b
   source_type: github_releases
   theme: editor-experience
-  title: 'VS Code: Fixed another cause of "command ''claude-vscode.editor.openLast''
-    not fou'
+  title: 'VS Code: Fixed another cause…'
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-02-19-we-improved-code-blocks-in-chatgpt-to-make-them-more-interactive-you-can-write-e-69f629|chatgpt-2026-02-19-69f629]]'
@@ -44,12 +43,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-02-25-v2-1-56-github-290182861-060a4e7b|claude-code-2026-02-25-v2-1-56-github-290182861-060a4e7b]]'
 source_type: github_releases
 theme: editor-experience
-title: 'VS Code: Fixed another cause of "command ''claude-vscode.editor.openLast''
-  not fou'
+title: 'VS Code: Fixed another cause…'
 type: change
 ---
 
-# VS Code: Fixed another cause of "command 'claude-vscode.editor.openLast' not fou
+# VS Code: Fixed another cause…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.56: VS Code: Fixed another cause of "command 'claude-vscode.editor.openLast' not found" crashes

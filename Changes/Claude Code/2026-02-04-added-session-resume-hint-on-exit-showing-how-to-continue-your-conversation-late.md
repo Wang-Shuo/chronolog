@@ -11,9 +11,9 @@ diffusion:
   theme: projects-workspaces
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0204fea45f6eed1407a4418f8fe187b6f0d1406c3159d23f8213c496c50a7120
+machine_hash: e294c4e827b5a92e39b045c1c4e2c8ac36516c4c23f96095f3c73102f788a111
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added session resume hint on exit, showing how to continue your conversation
       later
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.31
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: Added session resume hint on exit, showing how to continue your conversation
-    lat
+    later
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-09-04-you-can-now-branch-conversations-in-chatgpt-making-it-easier-to-explore-differen-78eb21|chatgpt-2025-09-04-78eb21]]'
@@ -47,11 +47,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-02-04-v2-1-31-github-28
 source_type: github_releases
 theme: projects-workspaces
 title: Added session resume hint on exit, showing how to continue your conversation
-  lat
+  later
 type: change
 ---
 
-# Added session resume hint on exit, showing how to continue your conversation lat
+# Added session resume hint on exit, showing how to continue your conversation later
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.31: Added session resume hint on exit, showing how to continue your conversation later

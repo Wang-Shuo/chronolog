@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 266c3a47f2760290ec809572d032395855e0bceb2a9cb03eed8e5989fc8615ac
+machine_hash: 149104d20bfd227f61b8b11d947f47814eb45dc8ad597dca100dcf075c825259
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
       reference photo is saved for future try-ons. You can change or delete it in
       Settings → Personalization → Reference photos.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -40,8 +40,7 @@ record:
   source_release: chatgpt-2026-10-01-new-ways-to-shop-in-chatgpt-e89d4d85
   source_type: chatgpt_changelog
   theme: memory
-  title: 'Virtually try on clothing and accessories: A “Try on” button will appear
-    on prod'
+  title: Virtually try on clothing and accessories
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-08-27-we-re-rolling-out-new-controls-in-temporary-chat-you-can-now-choose-to-personali|chatgpt-2026-08-27-bf6281]]'
@@ -50,12 +49,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-01-new-ways-to-shop-in-chatgpt-e89d4d85|chatgpt-2026-10-01-new-ways-to-shop-in-chatgpt-e89d4d85]]'
 source_type: chatgpt_changelog
 theme: memory
-title: 'Virtually try on clothing and accessories: A “Try on” button will appear on
-  prod'
+title: Virtually try on clothing and accessories
 type: change
 ---
 
-# Virtually try on clothing and accessories: A “Try on” button will appear on prod
+# Virtually try on clothing and accessories
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — New ways to shop in ChatGPT: Virtually try on clothing and accessories: A “Try on” button will appear on product listings for clothes and accessories in ChatGPT. Select it, then take or upload a selfie to generate a virtual try-on with ChatGPT Images. Your reference photo is saved for future try-ons. You can change or delete it in Settings → Personalization → Reference photos.

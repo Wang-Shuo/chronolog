@@ -11,9 +11,9 @@ diffusion:
   theme: automation-scheduling
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 67408e43c81b70e6dfe050139edfbc92fc0b408a22e75016e6320e50798b34cb
+machine_hash: 5ee179553cc1d37d1a998dcdcefd6e58dd930b5a80ab4031f8805df4465bcb4e
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `/loop` command to run a prompt or slash command on a recurring interval
       (e.g. `/loop 5m check the deploy`)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.71
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   theme: automation-scheduling
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Added `/loop` command to run a prompt or slash command on a recurring interval
-    (
+  title: Added `/loop` command to run a prompt or slash command on a recurring interval…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-03-05-create-automations-at-cursor-com-automations-or-start-from-a-template-read-more|cursor-2026-03-05-e7f5c3]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-07-v2-1-71-github-294146317-ab5a32e0|claude-code-2026-03-07-v2-1-71-github-294146317-ab5a32e0]]'
 source_type: github_releases
 theme: automation-scheduling
-title: Added /loop command to run a prompt or slash command on a recurring interval
-  (
+title: Added /loop command to run a prompt or slash command on a recurring interval…
 type: change
 ---
 
-# Added `/loop` command to run a prompt or slash command on a recurring interval (
+# Added `/loop` command to run a prompt or slash command on a recurring interval…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.71: Added `/loop` command to run a prompt or slash command on a recurring interval (e.g. `/loop 5m check the deploy`)

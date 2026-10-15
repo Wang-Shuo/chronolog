@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 2ed6bbcda723a25a1d69ac5f098a05a7b3259a8ff96cf54dc1d80515c6451fd2
+machine_hash: f4cb16bfb755b029d6b65ba19b0b25f9e644e65f08ef9e6568472ae7e360ff95
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Added release channel (`stable` or `latest`) toggle to `/config`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.3
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

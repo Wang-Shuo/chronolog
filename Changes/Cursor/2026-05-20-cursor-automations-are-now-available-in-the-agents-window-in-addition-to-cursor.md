@@ -11,9 +11,9 @@ diffusion:
   theme: automation-scheduling
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6aac9ffaaa4a96b993830fc535e3a4262d56d4c9ae46dfe09826159d362cffe5
+machine_hash: 631a002ca54bf658d23cfd354db4d5ac4a541231aa22b69bbb02d5e00698b268
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
       to cursor.com/automations. Create and manage your automations in the same workspace
       as your agents.
     source_release: https://cursor.com/changelog/05-20-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -46,8 +46,7 @@ record:
     score: 50
     theme: automation-scheduling
   theme_resolution: manual-semantic-rule-v1
-  title: Cursor Automations are now available in the Agents Window, in addition to
-    cursor
+  title: Cursor Automations are now available in the Agents Window, in addition…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-20-for-the-next-7-days-all-agent-runs-for-newly-created-automations-are-50-off|cursor-2026-05-20-24e41b]]'
@@ -56,11 +55,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-05-20-3-5-https-cursor-com-changelog-05-20-26-f6af79ab|cursor-2026-05-20-3-5-https-cursor-com-changelog-05-20-26-f6af79ab]]'
 source_type: cursor_changelog
 theme: automation-scheduling
-title: Cursor Automations are now available in the Agents Window, in addition to cursor
+title: Cursor Automations are now available in the Agents Window, in addition…
 type: change
 ---
 
-# Cursor Automations are now available in the Agents Window, in addition to cursor
+# Cursor Automations are now available in the Agents Window, in addition…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Improvements to Cursor Automations: Cursor Automations are now available in the Agents Window, in addition to cursor.com/automations. Create and manage your automations in the same workspace as your agents.

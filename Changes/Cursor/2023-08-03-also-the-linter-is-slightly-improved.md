@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f696c7bf5b5bc30d848ad360a03d0331ef1b2ad5807df9993ad1917cdfb1db9c
+machine_hash: d34e1e02c5c1b2663ea6f609fbb524fead241827fca07c3825b3f720c76d3d9c
 product: cursor
 product_name: Cursor
 record:
@@ -24,7 +24,7 @@ record:
   evidence:
   - quote: Also, the linter is slightly improved.
     source_release: https://cursor.com/changelog/0-6-3-nightly-0-6-4-nightly
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -32,7 +32,7 @@ record:
   source_release: cursor-2023-08-03-0-6-3-nightly-0-6-4-nightly-https-cursor-com-changelog-0-6-3-nig-364dcb5e
   source_type: cursor_changelog
   theme: developer-workflow
-  title: Also, the linter is slightly improved.
+  title: Also, the linter is slightly improved
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-07-27-linter-is-back|cursor-2023-07-27-579924]]'
@@ -41,11 +41,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-08-03-0-6-3-nightly-0-6-4-nightly-https-cursor-com-changelog-0-6-3-nig-364dcb5e|cursor-2023-08-03-0-6-3-nightly-0-6-4-nightly-https-cursor-com-changelog-0-6-3-nig-364dcb5e]]'
 source_type: cursor_changelog
 theme: developer-workflow
-title: Also, the linter is slightly improved.
+title: Also, the linter is slightly improved
 type: change
 ---
 
-# Also, the linter is slightly improved.
+# Also, the linter is slightly improved
 
 <!-- chronolog:begin region="description" -->
 Cursor — In-editor chat is back!: Also, the linter is slightly improved.

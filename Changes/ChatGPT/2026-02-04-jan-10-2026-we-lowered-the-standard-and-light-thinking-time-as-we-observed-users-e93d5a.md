@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: a8417012a4fc228aee562b5cdff041d6d46bd1243623802f71f21d9189745a0e
+machine_hash: 542761610df3ac145f3440a8445c13d44562231b48de91958c8177c9740670e4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -58,7 +58,7 @@ record:
       evolve, and will keep giving users clear controls when there are meaningful
       tradeoffs to choose from.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -81,7 +81,7 @@ record:
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v2
   title: 'Jan 10, 2026: We lowered the Standard and Light thinking time as we observed
-    use'
+    users…'
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-01-20-we-re-rolling-out-an-age-prediction-model-on-chatgpt-consumer-plans-to-help-dete|chatgpt-2026-01-20-1a215f]]'
@@ -91,11 +91,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-02-04-update-on-thinking-time-s
 source_type: chatgpt_changelog
 theme: model-support
 title: 'Jan 10, 2026: We lowered the Standard and Light thinking time as we observed
-  use'
+  users…'
 type: change
 ---
 
-# Jan 10, 2026: We lowered the Standard and Light thinking time as we observed use
+# Jan 10, 2026: We lowered the Standard and Light thinking time as we observed users…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Update on thinking time settings for GPT-5.2 Thinking in ChatGPT: Jan 10, 2026: We lowered the Standard and Light thinking time as we observed users prefer faster responses. As part of this update, the Extended thinking setting for GPT-5.2 was unintentionally changed to be lower which we have now fixed.February 3, 2026: We made another small reduction to Standard thinking time based on testing.February 4, 2026: We’re restoring the Extended thinking level for GPT-5.2 Thinking to its prior setting, correcting the inadvertent reduction from January. Extended is now back to its prior level.We periodically adjust the default thinking time for our reasoning models. These changes are based on ongoing experiments to find the best balance between answer quality and response speed for users.The thinking level toggle introduced in September 2025 gives users more choice beyond Standard, allowing them to select the right thinking level for their question—whether they want lighter, faster responses or more extended reasoning when depth and accuracy matter more.Thinking time is not directly comparable across different models. Each model is tuned independently to what works best for users. We’ll continue to adjust these settings as models evolve, and will keep giving users clear controls when there are meaningful tradeoffs to choose from.

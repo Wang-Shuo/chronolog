@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f1d28b7a8f3f22e74cfc69d70baaf126c4b7aef9839d2d1481070ddf10818d0b
+machine_hash: cf2d92a523c00c8e25d48225ef573f2c9f3c8bc44f11d09d6bc802202a8af71a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: 'Ad-hoc text sources: Paste notes, briefs, or reference material directly
       to capture context instantly.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -35,8 +35,7 @@ record:
   source_release: chatgpt-2026-02-25-add-sources-to-your-projects-from-anywhere-83407292
   source_type: chatgpt_changelog
   theme: context-window
-  title: 'Ad-hoc text sources: Paste notes, briefs, or reference material directly
-    to capt'
+  title: Ad-hoc text sources
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-02-13-attach-up-to-20-files-in-a-single-message-you-can-now-upload-up-to-20-files-at-o|chatgpt-2026-02-13-87b8a0]]'
@@ -45,12 +44,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-25-add-sources-to-your-projects-from-anywhere-83407292|chatgpt-2026-02-25-add-sources-to-your-projects-from-anywhere-83407292]]'
 source_type: chatgpt_changelog
 theme: context-window
-title: 'Ad-hoc text sources: Paste notes, briefs, or reference material directly to
-  capt'
+title: Ad-hoc text sources
 type: change
 ---
 
-# Ad-hoc text sources: Paste notes, briefs, or reference material directly to capt
+# Ad-hoc text sources
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Add sources to your projects from anywhere: Ad-hoc text sources: Paste notes, briefs, or reference material directly to capture context instantly.

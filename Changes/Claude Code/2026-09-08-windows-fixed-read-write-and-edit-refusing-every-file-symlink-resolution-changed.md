@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0bd3d07cc0d7d5a4959421536ac2eded4516af2a695f7b558ab24aed4c4c3b53
+machine_hash: eead9d794fb90b9f47e375877c97ca4fe1f799173c3164ee2cd118e66ab01cf0
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       changed after permission was checked") when running inside an AppContainer or
       restricted-token sandbox'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.265
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,8 +38,7 @@ record:
   theme: safety-privacy
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: 'Windows: Fixed Read, Write and Edit refusing every file ("symlink resolution
-    cha'
+  title: 'Windows: Fixed Read, Write and Edit refusing every file…'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-02-added-permission-prompts-none-for-unattended-headless-hosts-anything-that-would|claude-code-2026-09-02-3f0fb8]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-08-v2-1-265-github-384990084-dc34b405|claude-code-2026-09-08-v2-1-265-github-384990084-dc34b405]]'
 source_type: github_releases
 theme: safety-privacy
-title: 'Windows: Fixed Read, Write and Edit refusing every file ("symlink resolution
-  cha'
+title: 'Windows: Fixed Read, Write and Edit refusing every file…'
 type: change
 ---
 
-# Windows: Fixed Read, Write and Edit refusing every file ("symlink resolution cha
+# Windows: Fixed Read, Write and Edit refusing every file…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.265: Windows: Fixed Read, Write and Edit refusing every file ("symlink resolution changed after permission was checked") when running inside an AppContainer or restricted-token sandbox

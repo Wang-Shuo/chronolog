@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: b5b3c55f141538687a5410bd26651fb8bd476d52f933ccb86a16aee6b7a6749c
+machine_hash: d8bdfe0692f55d41fc06c01bce15d1b92b234a0c014ead6b68e9fb4113759f3b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       to view active tasks, see when they’ll run next, and pause, resume, edit, or
       delete them.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -39,7 +39,7 @@ record:
   source_type: chatgpt_changelog
   theme: interface-experience
   title: A new Scheduled page, discoverable in the sidebar, gives users one place
-    to view
+    to view…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-06-10-we-re-updating-the-model-picker-to-make-it-easier-to-choose-the-balance-of-speed|chatgpt-2026-06-10-b483a0]]'
@@ -49,11 +49,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-06-17-scheduled-tasks-in-chatgp
 source_type: chatgpt_changelog
 theme: interface-experience
 title: A new Scheduled page, discoverable in the sidebar, gives users one place to
-  view
+  view…
 type: change
 ---
 
-# A new Scheduled page, discoverable in the sidebar, gives users one place to view
+# A new Scheduled page, discoverable in the sidebar, gives users one place to view…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Scheduled tasks in ChatGPT: A new Scheduled page, discoverable in the sidebar, gives users one place to view active tasks, see when they’ll run next, and pause, resume, edit, or delete them.

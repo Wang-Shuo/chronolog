@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: beef1a6c4c0ef33a07e1a674e2930fea9ee81cb35f0c848a80dd18c1434d288c
+machine_hash: 69e446d56e1244352ac494633403c6269c399debb0391b1cb14bab585a84da38
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Project configs & auto memory now shared across git worktrees of the same
       repository
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.63
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,7 +35,7 @@ record:
   source_type: github_releases
   theme: memory
   title: Project configs & auto memory now shared across git worktrees of the same
-    reposi
+    repository
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-06-added-memory-frontmatter-field-support-for-agents-enabling-persistent-memory-wit|claude-code-2026-02-06-92317f]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-02-28-v2-1-63-github-291579549-8767ab9c|claude-code-2026-02-28-v2-1-63-github-291579549-8767ab9c]]'
 source_type: github_releases
 theme: memory
-title: Project configs & auto memory now shared across git worktrees of the same reposi
+title: Project configs & auto memory now shared across git worktrees of the same repository
 type: change
 ---
 
-# Project configs & auto memory now shared across git worktrees of the same reposi
+# Project configs & auto memory now shared across git worktrees of the same repository
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.63: Project configs & auto memory now shared across git worktrees of the same repository

@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9f2c0a6eee1a4bd74ddeb6f3217547490873bf50cee0574dce9a06076558b03e
+machine_hash: f0e11b0561595a82cb4cc5cee6789193ad3638dde5db6a2a09592840592066d9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,7 +34,7 @@ record:
       summaries that you can scan at a glance, expand for more detail, save for later,
       or ask follow up questions.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -42,7 +42,7 @@ record:
   source_release: chatgpt-2025-10-29-chatgpt-pulse-on-web-18eeedf1
   source_type: chatgpt_changelog
   theme: memory
-  title: ChatGPT Pulse is now available on web and rolling out to Atlas for Pro users.Wit
+  title: ChatGPT Pulse is now available on web and rolling out to Atlas for Pro users
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-10-14-longer-memory-for-more-personalized-responses|chatgpt-2025-10-14-0bd42a]]'
@@ -51,11 +51,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-29-chatgpt-pulse-on-web-18eeedf1|chatgpt-2025-10-29-chatgpt-pulse-on-web-18eeedf1]]'
 source_type: chatgpt_changelog
 theme: memory
-title: ChatGPT Pulse is now available on web and rolling out to Atlas for Pro users.Wit
+title: ChatGPT Pulse is now available on web and rolling out to Atlas for Pro users
 type: change
 ---
 
-# ChatGPT Pulse is now available on web and rolling out to Atlas for Pro users.Wit
+# ChatGPT Pulse is now available on web and rolling out to Atlas for Pro users
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT Pulse on Web: ChatGPT Pulse is now available on web and rolling out to Atlas for Pro users.With Pulse, ChatGPT can do asynchronous research on your behalf once a day based on your past chats, memory, and feedback to help you get things done. The research is delivered to you proactively the next day as a series of visual summaries that you can scan at a glance, expand for more detail, save for later, or ask follow up questions.

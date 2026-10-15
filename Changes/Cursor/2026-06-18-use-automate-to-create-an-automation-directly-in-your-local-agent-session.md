@@ -11,9 +11,9 @@ diffusion:
   theme: automation-scheduling
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 99d4a4e708bcc7ed1fde037b20b48f1b70dd8c8e8a5584cfac92a0ec9c5d8b7c
+machine_hash: d9e13e4a67e9a3f614461e65026008e638cd01a181c5ea1e0662f93a17eea41b
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: Use /automate to create an automation directly in your local agent session.
     source_release: https://cursor.com/changelog/06-18-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -45,7 +45,7 @@ record:
     - agent
     score: 50
     theme: agent-mode
-  title: Use /automate to create an automation directly in your local agent session.
+  title: Use /automate to create an automation directly in your local agent session
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-08-workflows-now-opens-immediately-even-while-a-turn-is-in-progress|claude-code-2026-06-08-9dd051]]'
@@ -54,11 +54,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-06-18-3-8-https-cursor-com-changelog-06-18-26-0b493e15|cursor-2026-06-18-3-8-https-cursor-com-changelog-06-18-26-0b493e15]]'
 source_type: cursor_changelog
 theme: automation-scheduling
-title: Use /automate to create an automation directly in your local agent session.
+title: Use /automate to create an automation directly in your local agent session
 type: change
 ---
 
-# Use /automate to create an automation directly in your local agent session.
+# Use /automate to create an automation directly in your local agent session
 
 <!-- chronolog:begin region="description" -->
 Cursor — Improvements to Cursor Automations: Use /automate to create an automation directly in your local agent session.
