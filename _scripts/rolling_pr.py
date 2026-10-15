@@ -8,7 +8,9 @@ import re
 import subprocess
 
 BRANCH = 'codex/chronolog-updates'
-VAULT = ['Products', 'Releases', 'Changes', 'Themes', 'Alerts', '_review', 'index.md']
+# Content scope: validate.VAULT_DIRECTORIES, _review and validate.ROOT_PAGES (kept literal so the
+# publisher needs no third-party imports; tests check the two lists agree).
+VAULT = ['Products', 'Releases', 'Changes', 'Themes', 'Alerts', '_review', 'index.md', 'About.md']
 
 
 def cmd(root: Path, *args: str) -> str:

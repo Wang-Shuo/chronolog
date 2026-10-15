@@ -42,6 +42,8 @@ IMPACTS = {"incremental", "significant", "paradigm-shift"}
 CARD_ID_RE = re.compile(r"^[a-z0-9-]+-\d{4}-\d{2}-\d{2}-[a-f0-9]{6}$")
 WIKILINK_RE = re.compile(r"!?\[\[([^\]]+)\]\]")
 VAULT_DIRECTORIES = ("Products", "Changes", "Releases", "Themes", "Alerts")
+# Machine-maintained pages at the Vault root, enumerated wherever VAULT_DIRECTORIES are.
+ROOT_PAGES = ("index.md", "About.md")
 
 
 def official_themes(themes_path: str | Path) -> set[str]:
@@ -145,10 +147,7 @@ def validate_cards_file(
 
 
 def vault_markdown_files(root: Path) -> list[Path]:
-    files = []
-    index = root / "index.md"
-    if index.exists():
-        files.append(index)
+    files = [root / name for name in ROOT_PAGES if (root / name).exists()]
     for directory in VAULT_DIRECTORIES:
         target = root / directory
         if target.exists():

@@ -11,7 +11,7 @@ coverage:
   url: https://cursor.com/changelog
 created: '2023-03-14'
 date: '2026-10-13'
-machine_hash: 2a3a15ec673171c631584efbe9764b0c92d37c8f9653ce9666e59a5a49fd18c0
+machine_hash: 059d0d46842bd36923ad154d3dc19debdac200cc8b8bc34ca08cdf3cc6d0da48
 modified: '2026-10-13'
 product: cursor
 product_name: Cursor
@@ -53,13 +53,9 @@ The release archive records announced changes; a reviewed phase narrative is not
 
 ## Source coverage
 <!-- chronolog:begin region="coverage" -->
-Archived release dates: 2023-03-14 → 2026-10-13.
+255 releases · 2023-03-14 → 2026-10-13 · [official source](https://cursor.com/changelog) · Official paginated changelog only; unannounced changes are outside scope.
 
-Last successful fetch: 2026-10-15T01:55:30Z.
-
-[Source](https://cursor.com/changelog).
-
-Coverage limits: Official paginated changelog only; unannounced changes are outside scope.
+Acquisition details, sampling rules and known gaps: [[About]].
 <!-- chronolog:end -->
 
 ## Summary

@@ -7,6 +7,7 @@ from pathlib import Path
 import re
 import frontmatter
 from _scripts.transaction import files
+from _scripts.validate import ROOT_PAGES
 
 
 def normalized_page(path: Path) -> str:
@@ -55,7 +56,7 @@ def changes(before: dict, after: dict) -> dict:
     groups['counts'] = {k: len(v) for k, v in groups.items() if isinstance(v, list)}
     groups['by_kind'] = {kind: {key: sum(p.split('/')[0] == kind for p in groups[key])
                               for key in groups['counts']}
-                         for kind in ('Releases', 'Changes', 'Products', 'Themes', 'Alerts', '_review')}
+                         for kind in ('Releases', 'Changes', 'Products', 'Themes', 'Alerts', '_review', *ROOT_PAGES)}
     return groups
 
 

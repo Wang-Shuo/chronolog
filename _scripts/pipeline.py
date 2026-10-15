@@ -18,7 +18,7 @@ from _scripts.extract import extract_run
 from _scripts.editorial import attach_editorial, load_editorial, source_coverage
 from _scripts.history import merge_history, read_history, write_pending
 from _scripts.silence_monitor import detect_silence
-from _scripts.transaction import DIRECTORIES, files, publish, recover, snapshot, vault_lock
+from _scripts.transaction import copy_pages, files, publish, recover, snapshot, vault_lock
 from _scripts.validate import validate_cards_file, validate_vault_links
 from _scripts.writer import content_machine_hash, write_run
 
@@ -156,13 +156,7 @@ def run_pipeline(
                             merged_releases=len(releases), merged_cards=len(cards),
                             pending_theme_review=len(pending), phase="staging")
             stage.mkdir()
-            for directory in DIRECTORIES:
-                if (root / directory).exists():
-                    shutil.copytree(root / directory, stage / directory)
-                else:
-                    (stage / directory).mkdir()
-            if (root / "index.md").exists():
-                shutil.copy2(root / "index.md", stage / "index.md")
+            copy_pages(root, stage, create_missing=True)
             staged = PipelinePaths(run_id, stage)
             merged_payload = {"change_cards": cards, "pending_theme_review": pending}
             write_json(staged.collected, {"releases": releases})

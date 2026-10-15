@@ -13,7 +13,7 @@ coverage:
   url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 created: '2022-12-15'
 date: '2026-10-07'
-machine_hash: 5e6f5c75f9a3a0e9eac4281a0a714900260a2a9c3850966666d70eb50a50837b
+machine_hash: ac5e86757a7573ef2111188effb57226ab26fc34ce913f150c371fad6e494896
 modified: '2026-10-07'
 product: chatgpt
 product_name: ChatGPT
@@ -61,13 +61,9 @@ Dates are changelog announcement dates, not universal availability dates. Rollou
 
 ## Source coverage
 <!-- chronolog:begin region="coverage" -->
-Archived release dates: 2022-12-15 → 2026-10-07.
+292 releases · 2022-12-15 → 2026-10-07 · [official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · Official changelog entries only; Codex-only entries excluded. Rollout dates are not universal availability dates.
 
-Official browser snapshot captured: 2026-10-14T23:26:11+0800. Imported snapshot; this is not a successful automatic HTTP fetch.
-
-[Source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes).
-
-Coverage limits: Official changelog entries only; Codex-only entries excluded. Rollout dates are not universal availability dates.
+Acquisition details, sampling rules and known gaps: [[About]].
 <!-- chronolog:end -->
 
 ## Summary

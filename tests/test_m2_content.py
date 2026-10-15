@@ -8,7 +8,8 @@ from pathlib import Path
 from _scripts.analyze_a import analyze_products
 from _scripts.analyze_b import analyze_themes
 from _scripts.common import normalize_text
-from _scripts.editorial import attach_editorial, load_editorial, render_coverage, source_coverage
+from _scripts.editorial import (attach_editorial, load_editorial, render_coverage,
+                                render_coverage_summary, source_coverage)
 from _scripts.extract import extract_cards_from_release, load_review_decisions, load_theme_vocabulary
 from _scripts.validate import validate_card
 
@@ -81,6 +82,19 @@ def test_coverage_distinguishes_snapshot_acquisition_from_processing_and_release
     assert 'not a successful automatic HTTP fetch' in text
     replay = source_coverage({'status':'success','coverage':'historical-snapshot','collected_at':'2027-01-01'},[release],state)
     assert replay['snapshot_captured_at'] == state['snapshot_captured_at']
+
+
+def test_coverage_summary_is_one_reader_line_without_acquisition_times():
+    state = source_coverage({'status':'success','acquisition':'http','acquired_at':'2026-10-15T01:55:15Z',
+                             'url':'https://api.github.com/repos/anthropics/claude-code/releases',
+                             'known_gaps':'GitHub Releases starts at v2.0.73.'},
+                            [{'date':'2025-12-19'},{'date':'2026-10-14'}])
+    line = render_coverage_summary(state, 2)
+    assert line == ('2 releases · 2025-12-19 → 2026-10-14 · '
+                    '[official source](https://github.com/anthropics/claude-code/releases) · '
+                    'GitHub Releases starts at v2.0.73.')
+    assert '\n' not in line and '01:55' not in line
+    assert render_coverage_summary({}, 1) == '1 release'
 
 
 def test_curated_eras_have_actual_announcement_evidence():

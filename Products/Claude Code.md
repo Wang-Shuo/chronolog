@@ -12,7 +12,7 @@ coverage:
   url: https://api.github.com/repos/anthropics/claude-code/releases
 created: '2025-12-19'
 date: '2026-10-14'
-machine_hash: b3731029a7ece87eb4f0d201ac4d042d46874b2073a7aef3d16530de67b8b4a2
+machine_hash: 29f896579893f8101b5cb27b367dc85c475459635a36c57633146c2f8eaf2bb1
 modified: '2026-10-14'
 product: claude-code
 product_name: Claude Code
@@ -56,13 +56,9 @@ The release archive records announced changes; a reviewed phase narrative is not
 
 ## Source coverage
 <!-- chronolog:begin region="coverage" -->
-Archived release dates: 2025-12-19 → 2026-10-14.
+243 releases · 2025-12-19 → 2026-10-14 · [official source](https://github.com/anthropics/claude-code/releases) · GitHub Releases starts at v2.0.73 on 2025-12-19. Official CHANGELOG.md contains 0.2.x–2.0.72 history without publication dates; not imported.
 
-Last successful fetch: 2026-10-15T01:55:15Z.
-
-[Source](https://api.github.com/repos/anthropics/claude-code/releases).
-
-Coverage limits: GitHub Releases starts at v2.0.73 on 2025-12-19. Official CHANGELOG.md contains 0.2.x–2.0.72 history without publication dates; not imported.
+Acquisition details, sampling rules and known gaps: [[About]].
 <!-- chronolog:end -->
 
 ## Summary

@@ -12,7 +12,7 @@ import frontmatter
 ROOT = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(ROOT))
 from _scripts.history import read_history
-from _scripts.validate import validate_vault_links
+from _scripts.validate import ROOT_PAGES, validate_vault_links
 
 
 class Links(HTMLParser):
@@ -71,7 +71,7 @@ def audit(vault, site, base_url=None):
                 excluded.append(slug)
             else:
                 active[slug] = meta
-    expected = set(active) | {'index'}
+    expected = set(active) | {Path(name).stem for name in ROOT_PAGES}  # index, About
     assert set(index) == expected, (set(index)-expected, expected-set(index))
     for slug in excluded:
         assert not (site / (slug + '.html')).exists(), slug
@@ -90,7 +90,7 @@ def audit(vault, site, base_url=None):
     releases = {k:v for k,v in active.items() if k.startswith('Releases/')}
     product_counts = Counter(v['product'] for v in changes.values())
     theme_counts = Counter(v['theme'] for v in changes.values())
-    assert f'Change count: {len(changes)}' in index['index']['content']
+    assert f'{len(changes):,} tracked changes' in index['index']['content']
     for product, count in product_counts.items():
         display = next(v['product_name'] for v in changes.values() if v['product']==product)
         content = index['Products/'+display.replace(' ','-')]['content']

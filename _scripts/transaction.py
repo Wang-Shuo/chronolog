@@ -16,18 +16,30 @@ import shutil
 from typing import Callable
 
 from _scripts.common import PipelinePaths, utc_timestamp
-from _scripts.validate import VAULT_DIRECTORIES
+from _scripts.validate import ROOT_PAGES, VAULT_DIRECTORIES
 
 DIRECTORIES = (*VAULT_DIRECTORIES, "_review")
 
 
 def files(root: Path) -> dict[str, Path]:
-    paths = [root / "index.md"] if (root / "index.md").exists() else []
+    paths = [root / name for name in ROOT_PAGES if (root / name).exists()]
     for directory in DIRECTORIES:
         paths.extend((root / directory).rglob("*.md"))
     if any(p.is_symlink() or not p.resolve().is_relative_to(root.resolve()) for p in paths):
         raise ValueError("vault paths must be regular files inside the vault")
     return {p.relative_to(root).as_posix(): p for p in sorted(paths)}
+
+
+def copy_pages(source: Path, destination: Path, *, create_missing: bool = False) -> None:
+    """Copy every Vault directory and root page from ``source`` into ``destination``."""
+    for directory in DIRECTORIES:
+        if (source / directory).exists():
+            shutil.copytree(source / directory, destination / directory)
+        elif create_missing:
+            (destination / directory).mkdir()
+    for name in ROOT_PAGES:
+        if (source / name).exists():
+            shutil.copy2(source / name, destination / name)
 
 
 def digest(path: Path) -> str | None:

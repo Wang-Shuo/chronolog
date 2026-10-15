@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>ChronoLog</title>
+    <link>https://wang-shuo.github.io/chronolog</link>
+    <description>Tracked changes in ChatGPT, Claude Code and Cursor, from official release notes</description>
+    <language>en</language>
+    <item>
+      <title>Added a dir prop on a mod&#039;s Text for right-to-left text</title>
+      <link>https://wang-shuo.github.io/chronolog/Changes/Claude-Code/2026-10-14-added-a-dir-prop-on-a-mod-s-text-for-right-to-left-text-on-windows-and-in-vs-cod</link>
+      <guid>https://wang-shuo.github.io/chronolog/Changes/Claude-Code/2026-10-14-added-a-dir-prop-on-a-mod-s-text-for-right-to-left-text-on-windows-and-in-vs-cod</guid>
+      <description>Claude Code · 2026-10-14 · Developer Workflow: Added a `dir` prop on a mod&#039;s `Text` for right-to-left text: on Windows and in VS Code&#039;s terminal its rows read…</description>
+      <pubDate>Tue, 13 Oct 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Added cache_creation_5m_tokens and cache_creation_1h_tokens to the OpenTelemetry…</title>
+      <link>https://wang-shuo.github.io/chronolog/Changes/Claude-Code/2026-10-14-added-cache-creation-5m-tokens-and-cache-creation-1h-tokens-to-the-opentelemetry</link>
+      <guid>https://wang-shuo.github.io/chronolog/Changes/Claude-Code/2026-10-14-added-cache-creation-5m-tokens-and-cache-creation-1h-tokens-to-the-opentelemetry</guid>
+      <description>Claude Code · 2026-10-14 · Context Window: Added `cache_creation_5m_tokens` and `cache_creation_1h_tokens` to the OpenTelemetry `api_request` event, splitting…</description>
+      <pubDate>Tue, 13 Oct 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Added CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS to change idle compaction&#039;s 200K-token minimum</title>
+      <link>https://wang-shuo.github.io/chronolog/Changes/Claude-Code/2026-10-14-added-claude-code-idle-compact-min-tokens-to-change-idle-compaction-s-200k-token</link>
+      <guid>https://wang-shuo.github.io/chronolog/Changes/Claude-Code/2026-10-14-added-claude-code-idle-compact-min-tokens-to-change-idle-compaction-s-200k-token</guid>
+      <description>Claude Code · 2026-10-14 · Context Window: Added `CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS` to change idle compaction&#039;s 200K-token minimum; `&quot;idleCompaction&quot;…</description>
+      <pubDate>Tue, 13 Oct 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Added idle compaction in the terminal</title>
+      <link>https://wang-shuo.github.io/chronolog/Changes/Claude-Code/2026-10-14-added-idle-compaction-in-the-terminal-a-200k-token-conversation-left-idle-for-ab</link>
+      <guid>https://wang-shuo.github.io/chronolog/Changes/Claude-Code/2026-10-14-added-idle-compaction-in-the-terminal-a-200k-token-conversation-left-idle-for-ab</guid>
+      <description>Claude Code · 2026-10-14 · Developer Workflow: Added idle compaction in the terminal: a 200K+ token conversation left idle for about 54 minutes is compacted…</description>
+      <pubDate>Tue, 13 Oct 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Added $.prompt.media so a prompt.submit hook of a mod installed by managed…</title>
+      <link>https://wang-shuo.github.io/chronolog/Changes/Claude-Code/2026-10-14-added-prompt-media-so-a-prompt-submit-hook-of-a-mod-installed-by-managed-setting</link>
+      <guid>https://wang-shuo.github.io/chronolog/Changes/Claude-Code/2026-10-14-added-prompt-media-so-a-prompt-submit-hook-of-a-mod-installed-by-managed-setting</guid>
+      <description>Claude Code · 2026-10-14 · Files and Data: Added `$.prompt.media` so a `prompt.submit` hook of a mod installed by managed settings can read the bytes of an…</description>
+      <pubDate>Tue, 13 Oct 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Added $.ui.view({ agentId }) for mods</title>
+      <link>https://wang-shuo.github.io/chronolog/Changes/Claude-Code/2026-10-14-added-ui-view-agentid-for-mods-shows-an-agent-s-transcript-in-the-main-view-when</link>
+      <guid>https://wang-shuo.github.io/chronolog/Changes/Claude-Code/2026-10-14-added-ui-view-agentid-for-mods-shows-an-agent-s-transcript-in-the-main-view-when</guid>
+      <description>Claude Code · 2026-10-14 · Agent Mode: Added `$.ui.view({ agentId })` for mods: shows an agent&#039;s transcript in the main view when you ask, and `$.ui.view({})`…</description>
+      <pubDate>Tue, 13 Oct 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude Code · v2.1.299</title>
+      <link>https://wang-shuo.github.io/chronolog/Releases/Claude-Code/claude-code-2026-10-14-v2-1-299-github-412217284-623d9162</link>
+      <guid>https://wang-shuo.github.io/chronolog/Releases/Claude-Code/claude-code-2026-10-14-v2-1-299-github-412217284-623d9162</guid>
+      <description>Claude Code release v2.1.299 on 2026-10-14: 3 tracked changes across Context Window, Developer Workflow, Files and Data</description>
+      <pubDate>Tue, 13 Oct 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude Code · v2.1.300</title>
+      <link>https://wang-shuo.github.io/chronolog/Releases/Claude-Code/claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0</link>
+      <guid>https://wang-shuo.github.io/chronolog/Releases/Claude-Code/claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0</guid>
+      <description>Claude Code release v2.1.300 on 2026-10-14: 3 tracked changes across Agent Mode, Context Window, Developer Workflow</description>
+      <pubDate>Tue, 13 Oct 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Origin now integrates with over 20 apps for deployments, CI, code review, security…</title>
+      <link>https://wang-shuo.github.io/chronolog/Changes/Cursor/2026-10-13-origin-now-integrates-with-over-20-apps-for-deployments-ci-code-review-security</link>
+      <guid>https://wang-shuo.github.io/chronolog/Changes/Cursor/2026-10-13-origin-now-integrates-with-over-20-apps-for-deployments-ci-code-review-security</guid>
+      <description>Cursor · 2026-10-13 · Safety and Privacy: Origin now integrates with over 20 apps for deployments, CI, code review, security, monitoring, and project…</description>
+      <pubDate>Mon, 12 Oct 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Starting today, the marketplace is also open to public submissions, so any team…</title>
+      <link>https://wang-shuo.github.io/chronolog/Changes/Cursor/2026-10-13-starting-today-the-marketplace-is-also-open-to-public-submissions-so-any-team-bu</link>
+      <guid>https://wang-shuo.github.io/chronolog/Changes/Cursor/2026-10-13-starting-today-the-marketplace-is-also-open-to-public-submissions-so-any-team-bu</guid>
+      <description>Cursor · 2026-10-13 · Collaboration: Starting today, the marketplace is also open to public submissions, so any team building developer tools can publish an…</description>
+      <pubDate>Mon, 12 Oct 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The marketplace now includes apps for</title>
+      <link>https://wang-shuo.github.io/chronolog/Changes/Cursor/2026-10-13-the-marketplace-now-includes-apps-for</link>
+      <guid>https://wang-shuo.github.io/chronolog/Changes/Cursor/2026-10-13-the-marketplace-now-includes-apps-for</guid>
+      <description>Cursor · 2026-10-13 · Apps and Integrations: The marketplace now includes apps for:</description>
+      <pubDate>Mon, 12 Oct 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cursor · Origin App Marketplace</title>
+      <link>https://wang-shuo.github.io/chronolog/Releases/Cursor/cursor-2026-10-13-origin-app-marketplace-https-cursor-com-changelog-origin-app-mar-54aa7e2c</link>
+      <guid>https://wang-shuo.github.io/chronolog/Releases/Cursor/cursor-2026-10-13-origin-app-marketplace-https-cursor-com-changelog-origin-app-mar-54aa7e2c</guid>
+      <description>Cursor release Origin App Marketplace on 2026-10-13: 3 tracked changes across Apps and Integrations, Collaboration, Safety and Privacy</description>
+      <pubDate>Mon, 12 Oct 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Added a code key to the Claude apps gateway&#039;s managed.policies</title>
+      <link>https://wang-shuo.github.io/chronolog/Changes/Claude-Code/2026-10-09-added-a-code-key-to-the-claude-apps-gateway-s-managed-policies-the-same-settings</link>
+      <guid>https://wang-shuo.github.io/chronolog/Changes/Claude-Code/2026-10-09-added-a-code-key-to-the-claude-apps-gateway-s-managed-policies-the-same-settings</guid>
+      <description>Claude Code · 2026-10-09 · Mobile and Desktop: Added a `code` key to the Claude apps gateway&#039;s `managed.policies[]`: the same settings as `cli`, also applied…</description>
+      <pubDate>Thu, 08 Oct 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Added a note in /plugin on a plugin whose hooks are left out because another…</title>
+      <link>https://wang-shuo.github.io/chronolog/Changes/Claude-Code/2026-10-09-added-a-note-in-plugin-on-a-plugin-whose-hooks-are-left-out-because-another-enab</link>
+      <guid>https://wang-shuo.github.io/chronolog/Changes/Claude-Code/2026-10-09-added-a-note-in-plugin-on-a-plugin-whose-hooks-are-left-out-because-another-enab</guid>
+      <description>Claude Code · 2026-10-09 · Apps and Integrations: Added a note in `/plugin` on a plugin whose hooks are left out because another enabled plugin has the same…</description>
+      <pubDate>Thu, 08 Oct 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Added autoCompactWindow to subagent frontmatter and --agents definitions…</title>
+      <link>https://wang-shuo.github.io/chronolog/Changes/Claude-Code/2026-10-09-added-autocompactwindow-to-subagent-frontmatter-and-agents-definitions-so-a-suba</link>
+      <guid>https://wang-shuo.github.io/chronolog/Changes/Claude-Code/2026-10-09-added-autocompactwindow-to-subagent-frontmatter-and-agents-definitions-so-a-suba</guid>
+      <description>Claude Code · 2026-10-09 · Context Window: Added `autoCompactWindow` to subagent frontmatter and `--agents` definitions, so a subagent can auto-compact earlier…</description>
+      <pubDate>Thu, 08 Oct 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Added CLAUDE_CODE_WORKFLOW_SUBAGENT_MODEL to run every workflow agent on one model…</title>
+      <link>https://wang-shuo.github.io/chronolog/Changes/Claude-Code/2026-10-09-added-claude-code-workflow-subagent-model-to-run-every-workflow-agent-on-one-mod</link>
+      <guid>https://wang-shuo.github.io/chronolog/Changes/Claude-Code/2026-10-09-added-claude-code-workflow-subagent-model-to-run-every-workflow-agent-on-one-mod</guid>
+      <description>Claude Code · 2026-10-09 · Agent Mode: Added `CLAUDE_CODE_WORKFLOW_SUBAGENT_MODEL` to run every workflow agent on one model while other subagents keep theirs</description>
+      <pubDate>Thu, 08 Oct 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude Code · v2.1.296</title>
+      <link>https://wang-shuo.github.io/chronolog/Releases/Claude-Code/claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a</link>
+      <guid>https://wang-shuo.github.io/chronolog/Releases/Claude-Code/claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a</guid>
+      <description>Claude Code release v2.1.296 on 2026-10-09: 4 tracked changes across Agent Mode, Apps and Integrations, Context Window, Mobile and Desktop</description>
+      <pubDate>Thu, 08 Oct 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Added a line on stderr, when it is a terminal, that says what a claude -p run…</title>
+      <link>https://wang-shuo.github.io/chronolog/Changes/Claude-Code/2026-10-08-added-a-line-on-stderr-when-it-is-a-terminal-that-says-what-a-claude-p-run-is-wa</link>
+      <guid>https://wang-shuo.github.io/chronolog/Changes/Claude-Code/2026-10-08-added-a-line-on-stderr-when-it-is-a-terminal-that-says-what-a-claude-p-run-is-wa</guid>
+      <description>Claude Code · 2026-10-08 · Developer Workflow: Added a line on stderr, when it is a terminal, that says what a `claude -p` run is waiting for when it stays…</description>
+      <pubDate>Wed, 07 Oct 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Added a warning to claude plugin install, enable, disable…</title>
+      <link>https://wang-shuo.github.io/chronolog/Changes/Claude-Code/2026-10-08-added-a-warning-to-claude-plugin-install-enable-disable-and-marketplace-add-when</link>
+      <guid>https://wang-shuo.github.io/chronolog/Changes/Claude-Code/2026-10-08-added-a-warning-to-claude-plugin-install-enable-disable-and-marketplace-add-when</guid>
+      <description>Claude Code · 2026-10-08 · Apps and Integrations: Added a warning to `claude plugin install`, `enable`, `disable` and `marketplace add` when the settings file…</description>
+      <pubDate>Wed, 07 Oct 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Added onFailure: &quot;block&quot; for command and HTTP hooks: a hook that can&#039;t start…</title>
+      <link>https://wang-shuo.github.io/chronolog/Changes/Claude-Code/2026-10-08-added-onfailure-block-for-command-and-http-hooks-a-hook-that-can-t-start-times-o</link>
+      <guid>https://wang-shuo.github.io/chronolog/Changes/Claude-Code/2026-10-08-added-onfailure-block-for-command-and-http-hooks-a-hook-that-can-t-start-times-o</guid>
+      <description>Claude Code · 2026-10-08 · Apps and Integrations: Added `onFailure: &quot;block&quot;` for command and HTTP hooks: a hook that can&#039;t start, times out, or exits with an…</description>
+      <pubDate>Wed, 07 Oct 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Added quoted text to the /copy picker, so a drafted message copies without its …</title>
+      <link>https://wang-shuo.github.io/chronolog/Changes/Claude-Code/2026-10-08-added-quoted-text-to-the-copy-picker-so-a-drafted-message-copies-without-its-mar</link>
+      <guid>https://wang-shuo.github.io/chronolog/Changes/Claude-Code/2026-10-08-added-quoted-text-to-the-copy-picker-so-a-drafted-message-copies-without-its-mar</guid>
+      <description>Claude Code · 2026-10-08 · Interface Experience: Added quoted text to the `/copy` picker, so a drafted message copies without its `&gt;` markers</description>
+      <pubDate>Wed, 07 Oct 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Improved how prompt hooks on Stop and SubagentStop written as instructions…</title>
+      <link>https://wang-shuo.github.io/chronolog/Changes/Claude-Code/2026-10-08-improved-how-prompt-hooks-on-stop-and-subagentstop-written-as-instructions-such</link>
+      <guid>https://wang-shuo.github.io/chronolog/Changes/Claude-Code/2026-10-08-improved-how-prompt-hooks-on-stop-and-subagentstop-written-as-instructions-such</guid>
+      <description>Claude Code · 2026-10-08 · Apps and Integrations: Improved how `prompt` hooks on Stop and SubagentStop written as instructions (such as &quot;Carry on if the build…</description>
+      <pubDate>Wed, 07 Oct 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude Code · v2.1.294</title>
+      <link>https://wang-shuo.github.io/chronolog/Releases/Claude-Code/claude-code-2026-10-08-v2-1-294-github-406385982-681de204</link>
+      <guid>https://wang-shuo.github.io/chronolog/Releases/Claude-Code/claude-code-2026-10-08-v2-1-294-github-406385982-681de204</guid>
+      <description>Claude Code release v2.1.294 on 2026-10-08: 1 tracked change across Apps and Integrations</description>
+      <pubDate>Wed, 07 Oct 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude Code · v2.1.295</title>
+      <link>https://wang-shuo.github.io/chronolog/Releases/Claude-Code/claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510</link>
+      <guid>https://wang-shuo.github.io/chronolog/Releases/Claude-Code/claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510</guid>
+      <description>Claude Code release v2.1.295 on 2026-10-08: 4 tracked changes across Apps and Integrations, Developer Workflow, Interface Experience</description>
+      <pubDate>Wed, 07 Oct 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT introduces GPT-6 with Intelligent UI</title>
+      <link>https://wang-shuo.github.io/chronolog/Changes/ChatGPT/2026-10-07-we-re-introducing-gpt-6-with-intelligent-ui-in-chatgpt-chatgpt-can-now-combine-t</link>
+      <guid>https://wang-shuo.github.io/chronolog/Changes/ChatGPT/2026-10-07-we-re-introducing-gpt-6-with-intelligent-ui-in-chatgpt-chatgpt-can-now-combine-t</guid>
+      <description>ChatGPT · 2026-10-07 · Model Support: We’re introducing GPT-6 with Intelligent UI in ChatGPT. ChatGPT can now combine text, visuals, and interactive elements…</description>
+      <pubDate>Tue, 06 Oct 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Added agentType to the subagentStatusLine payload, so scripts can tell custom…</title>
+      <link>https://wang-shuo.github.io/chronolog/Changes/Claude-Code/2026-10-07-added-agenttype-to-the-subagentstatusline-payload-so-scripts-can-tell-custom-sub</link>
+      <guid>https://wang-shuo.github.io/chronolog/Changes/Claude-Code/2026-10-07-added-agenttype-to-the-subagentstatusline-payload-so-scripts-can-tell-custom-sub</guid>
+      <description>Claude Code · 2026-10-07 · Agent Mode: Added `agentType` to the `subagentStatusLine` payload, so scripts can tell custom subagent types apart</description>
+      <pubDate>Tue, 06 Oct 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Added Claude Haiku 5.5 (claude-haiku-5-5), now the default Haiku model…</title>
+      <link>https://wang-shuo.github.io/chronolog/Changes/Claude-Code/2026-10-07-added-claude-haiku-5-5-claude-haiku-5-5-now-the-default-haiku-model-on-the-anthr</link>
+      <guid>https://wang-shuo.github.io/chronolog/Changes/Claude-Code/2026-10-07-added-claude-haiku-5-5-claude-haiku-5-5-now-the-default-haiku-model-on-the-anthr</guid>
+      <description>Claude Code · 2026-10-07 · Model Support: Added Claude Haiku 5.5 (`claude-haiku-5-5`), now the default Haiku model on the Anthropic API — 1M context…</description>
+      <pubDate>Tue, 06 Oct 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fixed claude agents offering bypass permissions that background sessions then…</title>
+      <link>https://wang-shuo.github.io/chronolog/Changes/Claude-Code/2026-10-07-fixed-claude-agents-offering-bypass-permissions-that-background-sessions-then-ig</link>
+      <guid>https://wang-shuo.github.io/chronolog/Changes/Claude-Code/2026-10-07-fixed-claude-agents-offering-bypass-permissions-that-background-sessions-then-ig</guid>
+      <description>Claude Code · 2026-10-07 · Safety and Privacy: Fixed `claude agents` offering bypass permissions that background sessions then ignored when consent was saved…</description>
+      <pubDate>Tue, 06 Oct 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fixed Claude being told to continue or message subagents with SendMessage…</title>
+      <link>https://wang-shuo.github.io/chronolog/Changes/Claude-Code/2026-10-07-fixed-claude-being-told-to-continue-or-message-subagents-with-sendmessage-in-ses</link>
+      <guid>https://wang-shuo.github.io/chronolog/Changes/Claude-Code/2026-10-07-fixed-claude-being-told-to-continue-or-message-subagents-with-sendmessage-in-ses</guid>
+      <description>Claude Code · 2026-10-07 · Safety and Privacy: Fixed Claude being told to continue or message subagents with `SendMessage` in sessions, including resumed ones…</description>
+      <pubDate>Tue, 06 Oct 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT · GPT-6 and Intelligent UI in ChatGPT</title>
+      <link>https://wang-shuo.github.io/chronolog/Releases/ChatGPT/chatgpt-2026-10-07-gpt-6-and-intelligent-ui-in-chatgpt-43bd07f7</link>
+      <guid>https://wang-shuo.github.io/chronolog/Releases/ChatGPT/chatgpt-2026-10-07-gpt-6-and-intelligent-ui-in-chatgpt-43bd07f7</guid>
+      <description>ChatGPT release GPT-6 and Intelligent UI in ChatGPT on 2026-10-07: 1 tracked change across Model Support</description>
+      <pubDate>Tue, 06 Oct 2026 16:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
