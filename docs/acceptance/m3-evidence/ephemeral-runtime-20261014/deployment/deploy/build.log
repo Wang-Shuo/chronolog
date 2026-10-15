@@ -1,0 +1,25 @@
+
+> chronolog@0.1.0 build
+> quartz build --directory /tmp/chronolog-build-ui0e5wbi/vault --output /home/runner/work/chronolog/chronolog/_pipeline/deploy/site
+
+
+ Quartz v0.1.0  
+
+(node:3801) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Cleaned output directory `/home/runner/work/chronolog/chronolog/_pipeline/deploy/site` in 2ms
+Found 3129 input files from `/tmp/chronolog-build-ui0e5wbi/vault` in 225ms
+Parsing input files using 4 threads
+(node:3801) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:3801) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:3801) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:3801) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Parsed 3129 Markdown files in 16s
+Filtered out 373 files in 4ms
+Emitting files
+Emitted 2782 files to `/home/runner/work/chronolog/chronolog/_pipeline/deploy/site` in 5s
+Done processing 3129 files in 21s

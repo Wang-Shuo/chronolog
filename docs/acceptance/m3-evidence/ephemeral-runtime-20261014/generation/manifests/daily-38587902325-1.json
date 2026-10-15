@@ -1,0 +1,59 @@
+{
+  "run_id": "daily-38587902325-1",
+  "started_at": "2026-10-14T15:17:24Z",
+  "today": "2026-10-14",
+  "timezone": "Asia/Shanghai",
+  "status": "failed",
+  "reconcile": true,
+  "recovered_run": null,
+  "sources": [
+    {
+      "product": "chatgpt",
+      "status": "failed",
+      "collected_at": "2026-10-14T15:17:05Z",
+      "complete": false,
+      "coverage": "available-endpoint",
+      "count": 0,
+      "earliest": null,
+      "latest": null,
+      "error": "ChatGPT Help Center blocked automated access; provide a browser-rendered snapshot with --snapshot chatgpt=/path/to/page.html; snapshot fallback rejected: [Errno 2] No such file or directory: '_inputs/chatgpt/capture.json'"
+    },
+    {
+      "product": "claude-code",
+      "status": "success",
+      "collected_at": "2026-10-14T15:17:08Z",
+      "complete": true,
+      "coverage": "available-endpoint",
+      "count": 242,
+      "earliest": "2025-12-19",
+      "latest": "2026-10-14",
+      "error": null,
+      "url": "https://api.github.com/repos/anthropics/claude-code/releases",
+      "acquisition": "http",
+      "acquired_at": "2026-10-14T15:17:08Z"
+    },
+    {
+      "product": "cursor",
+      "status": "success",
+      "collected_at": "2026-10-14T15:17:24Z",
+      "complete": true,
+      "coverage": "available-endpoint",
+      "count": 255,
+      "earliest": "2023-03-14",
+      "latest": "2026-10-13",
+      "error": null,
+      "url": "https://cursor.com/changelog",
+      "acquisition": "http",
+      "acquired_at": "2026-10-14T15:17:24Z"
+    }
+  ],
+  "mode": "full",
+  "collection_errors": [
+    {
+      "product": "chatgpt",
+      "error": "ChatGPT Help Center blocked automated access; provide a browser-rendered snapshot with --snapshot chatgpt=/path/to/page.html"
+    }
+  ],
+  "error": "ValueError: collection failed: [{'product': 'chatgpt', 'error': 'ChatGPT Help Center blocked automated access; provide a browser-rendered snapshot with --snapshot chatgpt=/path/to/page.html'}]",
+  "completed_at": "2026-10-14T15:17:24Z"
+}
