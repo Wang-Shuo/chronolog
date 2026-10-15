@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 8d38777143b23a6390792c6f29a7d994f303b41ef49255cf06de35665a89b644
+machine_hash: 4d20fc4e136e7ca5ebf5ad62968f57cb1f837b630da00dae8016feeb3f926498
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: Plugin availability depends on your plan, region, and workspace settings.
       Desktop is not included in this update.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improved-plugin-discovery-on-web-and-mobile
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -68,7 +68,7 @@ ChatGPT — Improved plugin discovery on web and mobile: Plugin availability dep
 <!-- chronolog:begin region="evidence" -->
 > Plugin availability depends on your plan, region, and workspace settings. Desktop is not included in this update.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improved-plugin-discovery-on-web-and-mobile
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

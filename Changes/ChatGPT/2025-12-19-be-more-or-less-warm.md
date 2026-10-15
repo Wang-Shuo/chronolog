@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 97c80bcd0656ed4dbc9360385dd694e67fb5fde8439eceb26b11b1b6802db596
+machine_hash: b9cbf5b49fabb2f4b29e1dfa7d6f45890b804722b13f6b4c42b42eb4d1e81b00
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -23,7 +23,7 @@ record:
   description: 'ChatGPT — New detailed characteristic controls: Be more or less warm'
   evidence:
   - quote: Be more or less warm
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-detailed-characteristic-controls
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -56,7 +56,7 @@ ChatGPT — New detailed characteristic controls: Be more or less warm
 <!-- chronolog:begin region="evidence" -->
 > Be more or less warm
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-detailed-characteristic-controls
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

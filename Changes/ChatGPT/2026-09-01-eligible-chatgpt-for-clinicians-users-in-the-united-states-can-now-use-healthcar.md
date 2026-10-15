@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: f7bb5ac84b913c1c0a562ebef7b9c2e358bbbd2381989e7ce9015e3c6323b39c
+machine_hash: 13a3433a177340bfcf858d06877a676f62b94dcd700f1c170c6955e229cb01a0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,7 +38,7 @@ record:
       to use. These apps are read-only and do not access patient charts. Do not include
       protected health information in searches sent to public sources.For details,
       see: Using Healthcare Public Data in ChatGPT and Codex.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#healthcare-public-data-in-chatgpt-for-clinicians
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -69,7 +69,7 @@ ChatGPT — Healthcare Public Data in ChatGPT for Clinicians: Eligible ChatGPT f
 <!-- chronolog:begin region="evidence" -->
 > Eligible ChatGPT for Clinicians users in the United States can now use Healthcare Public Data in ChatGPT. The plugin brings together nine apps for searching public healthcare sources, including biomedical research, clinical trials, medication information, Medicare data, and provider records.To get started, install the plugin from the Plugin directory, then connect the apps you want to use. These apps are read-only and do not access patient charts. Do not include protected health information in searches sent to public sources.For details, see: Using Healthcare Public Data in ChatGPT and Codex.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#healthcare-public-data-in-chatgpt-for-clinicians
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

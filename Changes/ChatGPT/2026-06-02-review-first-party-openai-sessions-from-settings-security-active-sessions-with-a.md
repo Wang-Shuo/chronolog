@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 7b6e5d7bfedf5980642347abbab0a6f1148ed8b0dd9452a48bb5be4902064e4d
+machine_hash: 76ee38c85822c89bc021cb4c185eb84563c508da2ebbf09ea344221cf735accc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Review first-party OpenAI sessions from Settings > Security > Active sessions,
       with available details such as device, app, approximate location, sign-in time,
       trusted-device status, and whether it is the current session
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#active-account-session-controls
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -71,7 +71,7 @@ ChatGPT — Active account session controls: Review first-party OpenAI sessions 
 <!-- chronolog:begin region="evidence" -->
 > Review first-party OpenAI sessions from Settings > Security > Active sessions, with available details such as device, app, approximate location, sign-in time, trusted-device status, and whether it is the current session
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#active-account-session-controls
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

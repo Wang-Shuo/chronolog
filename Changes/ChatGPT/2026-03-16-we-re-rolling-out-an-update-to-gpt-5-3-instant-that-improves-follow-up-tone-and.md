@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 6bca632c759aad98647770eb7deb7126224740786c4896f5abd0a0f8274ea234
+machine_hash: 616fbfeed1340aa9f7d77a5ca0daced7fc3774aea88eeea22241b67841022f3e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: We’re rolling out an update to GPT-5.3 Instant that improves follow-up
       tone and reduces teaser-style phrasing in responses (e.g., “If you want…”, “You’ll
       never believe…”, “I can tell you these three things that…”).
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-53-instant-update
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -63,7 +63,7 @@ ChatGPT — GPT-5.3 Instant update: We’re rolling out an update to GPT-5.3 Ins
 <!-- chronolog:begin region="evidence" -->
 > We’re rolling out an update to GPT-5.3 Instant that improves follow-up tone and reduces teaser-style phrasing in responses (e.g., “If you want…”, “You’ll never believe…”, “I can tell you these three things that…”).
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-53-instant-update
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

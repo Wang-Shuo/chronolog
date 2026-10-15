@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 90675e772d589944f458e7804032f7275be32c872f7eaf438e1d13e8f4fe4b5a
+machine_hash: e64bfd8104f43a1f9575954164a21788f308a1dd78a817fc06fac41fac2eecf2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   evidence:
   - quote: 'Today we made Canvas available in 4o by default for all users, Free and
       Paid. Additionally, we launched a number of new capabilities for canvas, including:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#canvas
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -61,7 +61,7 @@ ChatGPT — Canvas: Today we made Canvas available in 4o by default for all user
 <!-- chronolog:begin region="evidence" -->
 > Today we made Canvas available in 4o by default for all users, Free and Paid. Additionally, we launched a number of new capabilities for canvas, including:
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#canvas
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

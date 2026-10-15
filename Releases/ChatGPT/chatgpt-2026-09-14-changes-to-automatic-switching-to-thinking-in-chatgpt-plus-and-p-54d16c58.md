@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-09-14'
-machine_hash: 98e054526e3aec45febed57df8c108b3bed742df4f8e0554910d476aa14ce931
+machine_hash: c917eb2332a7f706d67ed6bda7007d1b0fb5c1ec28a83cc8e822dcb12e16f446
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -14,13 +14,13 @@ record:
     in the model picker to give ChatGPT more time to think or reason. We’re also removing
     the Higher intelligence setting from ChatGPT on the web for these plans. ChatGPT…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#changes-to-automatic-switching-to-thinking-in-chatgpt-plus-and-pro
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Changes to automatic switching to thinking in ChatGPT (Plus and Pro)
   version: Changes to automatic switching to thinking in ChatGPT (Plus and Pro)
 release_id: chatgpt-2026-09-14-changes-to-automatic-switching-to-thinking-in-chatgpt-plus-and-p-54d16c58
 source_release: Changes to automatic switching to thinking in ChatGPT (Plus and Pro)
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#changes-to-automatic-switching-to-thinking-in-chatgpt-plus-and-pro
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Changes to automatic switching to thinking in ChatGPT (Plus and Pro)
 <!-- chronolog:begin region="summary" -->
 We’re retiring automatic switching from Instant to Thinking (reasoning) for ChatGPT Plus and Pro users globally. You can still select an available option in the model picker to give ChatGPT more time to think or reason. We’re also removing the Higher intelligence setting from ChatGPT on the web for these plans. ChatGPT…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#changes-to-automatic-switching-to-thinking-in-chatgpt-plus-and-pro)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 1
 <!-- chronolog:end -->

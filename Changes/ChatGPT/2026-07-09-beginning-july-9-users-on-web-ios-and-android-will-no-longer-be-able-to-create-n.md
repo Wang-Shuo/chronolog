@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 39db8900108cc7e76d09bde54f636a153121a63f5b3ca772498dc8a43e6e6a0f
+machine_hash: e92d85c5e8527749f9d15e1ef1aab4a30e5b13fa457005288572b79e88faa66b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
   - quote: Beginning July 9, users on web, iOS, and Android will no longer be able
       to create new group chats, turn existing conversations into group chats, or
       join a group chat through an invite link.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-group-chats-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -63,7 +63,7 @@ ChatGPT — Retiring group chats in ChatGPT: Beginning July 9, users on web, iOS
 <!-- chronolog:begin region="evidence" -->
 > Beginning July 9, users on web, iOS, and Android will no longer be able to create new group chats, turn existing conversations into group chats, or join a group chat through an invite link.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-group-chats-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

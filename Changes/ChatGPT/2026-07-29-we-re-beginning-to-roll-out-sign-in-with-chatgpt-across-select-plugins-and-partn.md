@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 79169f566a9399285498c377c096596f5896d19bd940dc2cf2c58d4d8d61b8eb
+machine_hash: 7833bb2462d8d296046c2a5eb42eba49bb8346aff8c16387cc4cb4882f556648
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,7 +41,7 @@ record:
       you sign in, only your name, email, and profile picture (if you have one) are
       shared with the partner. You’ll still separately review and approve the access
       each plugin receives.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#sign-in-with-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -84,7 +84,7 @@ ChatGPT — Sign in with ChatGPT: We’re beginning to roll out Sign in with Cha
 <!-- chronolog:begin region="evidence" -->
 > We’re beginning to roll out Sign in with ChatGPT across select plugins and partner sites, starting with Airtable, GitLab, HubSpot, Notion, Supabase, and Vercel.When you connect a supported app from the plugin directory ChatGPT, you can use Sign in with ChatGPT to create or link an account with that service in fewer steps. On participating partner sites, you can also choose ‘Sign in with ChatGPT’ to create or access your account.This means less time on account setup and an easier way to start working with these tools from ChatGPT and Codex.When you sign in, only your name, email, and profile picture (if you have one) are shared with the partner. You’ll still separately review and approve the access each plugin receives.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#sign-in-with-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

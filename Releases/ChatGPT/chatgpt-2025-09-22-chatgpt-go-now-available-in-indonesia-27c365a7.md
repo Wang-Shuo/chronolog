@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2025-09-22'
-machine_hash: 579c8be081d9dff23b12078715f70a3688c654947895551ab15602fb6bed1356
+machine_hash: 1d478ee3f8d7c587368486b90c3d719761437b3863da8c67af170a15602ea0cd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -13,13 +13,13 @@ record:
     Indonesia.For Rp 75.000/month, ChatGPT Go provides everything included in the
     Free plan, and:'
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-now-available-in-indonesia
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: ChatGPT Go now available in Indonesia
   version: ChatGPT Go now available in Indonesia
 release_id: chatgpt-2025-09-22-chatgpt-go-now-available-in-indonesia-27c365a7
 source_release: ChatGPT Go now available in Indonesia
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-now-available-in-indonesia
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -33,7 +33,7 @@ version: ChatGPT Go now available in Indonesia
 <!-- chronolog:begin region="summary" -->
 We're launching ChatGPT Go, our low cost subscription plan, in Indonesia.For Rp 75.000/month, ChatGPT Go provides everything included in the Free plan, and:
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-now-available-in-indonesia)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 3
 <!-- chronolog:end -->

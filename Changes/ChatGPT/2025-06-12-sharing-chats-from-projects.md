@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: c820aced167dc31b294b2b7a0ffb9df35e3a16bf495e88d7eb76c2b076a8febf
+machine_hash: c3543fc88b0b9fb2db2d84937a6152c5790711a66ea8d2cfdf68bc8a0e5aff23
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,7 +24,7 @@ record:
     projects'
   evidence:
   - quote: Sharing chats from projects
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#adding-more-capabilities-to-projects
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -55,7 +55,7 @@ ChatGPT — Adding More Capabilities to Projects: Sharing chats from projects
 <!-- chronolog:begin region="evidence" -->
 > Sharing chats from projects
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#adding-more-capabilities-to-projects
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

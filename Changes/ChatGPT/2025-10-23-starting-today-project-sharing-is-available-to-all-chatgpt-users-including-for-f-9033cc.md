@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 85bf3e52131e6994b9162dad94c692cb00e14fea75c9c93a280759ef8e903c73
+machine_hash: 42a00458bc0942b3d1d91356393e251200b3a5f197f7cb1f47beda8581e3a809
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
       and custom instructions – so responses are informed by your group''s internal
       knowledge, and you can pick up where others left off.Shared projects are ideal
       for:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#shared-projects
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -80,7 +80,7 @@ ChatGPT — Shared projects: Starting today, project sharing is available to all
 <!-- chronolog:begin region="evidence" -->
 > Starting today, project sharing is available to all ChatGPT users, including for Free, Plus, Pro, and Go users globally on web, iOS, and Android.ChatGPT can draw from anything in the shared project – including chats, uploaded files and custom instructions – so responses are informed by your group's internal knowledge, and you can pick up where others left off.Shared projects are ideal for:
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#shared-projects
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

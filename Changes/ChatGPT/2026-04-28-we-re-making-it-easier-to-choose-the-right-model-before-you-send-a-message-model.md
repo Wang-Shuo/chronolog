@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 46bad4b6e253d5558ea7814ffd5f58f32cd287e0b92dc5f48f6e5a36b45de27e
+machine_hash: 99746266c1fb05b4dd8ef4e0f98e6047a2be555db20c261b90dc70349764c404
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -36,7 +36,7 @@ record:
       controls into the model picker. When you choose a Thinking or Pro model, you
       can select the level of thinking effort directly from the model picker.This
       update is available on web to ChatGPT users on Plus, Pro, and Business plans.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#easier-model-selection-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -79,7 +79,7 @@ ChatGPT — Easier model selection in ChatGPT: We’re making it easier to choos
 <!-- chronolog:begin region="evidence" -->
 > We’re making it easier to choose the right model before you send a message. Model selection now appears in the composer, so you can find and switch models from the same place where you write your prompt.We’re also moving thinking effort controls into the model picker. When you choose a Thinking or Pro model, you can select the level of thinking effort directly from the model picker.This update is available on web to ChatGPT users on Plus, Pro, and Business plans.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#easier-model-selection-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: c30ba90517532d7040a3e7e1c0f3d940b9bd92faeb2bf7df382a35697e39b1e8
+machine_hash: ba9b540899dc43ba2e1d501427d9567a0eb52131e700825e7e88fdd8dde0fdcf
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -64,7 +64,7 @@ record:
       the shared chat. You can delete chats, use temporary chats that do not use or
       update memory or appear in history, turn off memory, disconnect apps anytime,
       and manage whether your content is used to help improve our models.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-sources-and-more-personalized-responses-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -125,7 +125,7 @@ ChatGPT — Memory sources and more personalized responses in ChatGPT: Starting 
 <!-- chronolog:begin region="evidence" -->
 > Starting today, we’re rolling out memory improvements to ChatGPT Plus and Pro users that make responses more personalized, useful, and continuous over time. ChatGPT can now better pull in relevant context from your past chats, saved memories, and, where available, files and connected Gmail app to offer more tailored ideas, recommendations, and next steps. It is also faster at searching past conversations to find the right context, so you don’t have to repeat yourself as often.We’re also introducing memory sources across all ChatGPT consumer plans, so you can see what information helped personalize a response and make edits if something is no longer relevant. Tap the Sources icon below the response to view relevant saved memories, past chats, and custom instructions. Plus and Pro users may also see files in their library and referenced emails from a connected Gmail account. If something is outdated or no longer relevant, you can correct it, delete it, or mark it as not relevant. Memory sources may not show every factor that shaped a response, and we’ll keep improving this view to make it more comprehensive over time. Memory sources are rolling out on the web and coming to mobile soon.These updates are designed to make personalization more useful while keeping you in control. Memory sources are only shown within your account experience, and if you share a chat, those sources are not shown in the shared chat. You can delete chats, use temporary chats that do not use or update memory or appear in history, turn off memory, disconnect apps anytime, and manage whether your content is used to help improve our models.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-sources-and-more-personalized-responses-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

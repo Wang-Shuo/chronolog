@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: c9e8b01510b0cde12254161e5f4db851c0aab8d61f73c1152872e21cc3fb6cff
+machine_hash: e64ec6f44326ad495eb7ad838bd7f7d6b87cc1327234e1d60d455405094a0cc3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: Smarter responses that are more intelligent, are better at understanding
       what you’re asking, and provide more comprehensive answers.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-the-chatgpt-search-response-quality
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -61,7 +61,7 @@ ChatGPT — Improvements to the ChatGPT search response quality: Smarter respons
 <!-- chronolog:begin region="evidence" -->
 > Smarter responses that are more intelligent, are better at understanding what you’re asking, and provide more comprehensive answers.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-the-chatgpt-search-response-quality
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

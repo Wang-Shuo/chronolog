@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: d5e0ca8496b429762670c6bdfd22c57f03ddb428580d7b4f7f56123fe1593b01
+machine_hash: 3b9d480deaa07510937a6ceb27f9e8b8a644dbdc37af55dac298e652ce45dd28
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: 'Projects in the desktop app: Your existing ChatGPT Projects now appear
       in the app. You can start a Chat conversation inside a Project or begin a Work
       thread using Project context.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-desktop-app-experience-updates
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -74,7 +74,7 @@ ChatGPT — ChatGPT desktop app experience updates: Projects in the desktop app:
 <!-- chronolog:begin region="evidence" -->
 > Projects in the desktop app: Your existing ChatGPT Projects now appear in the app. You can start a Chat conversation inside a Project or begin a Work thread using Project context.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-desktop-app-experience-updates
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 90b3b94498cace9cbc464aa2ffb6f77a117b9a73d6355327180fde16c4411317
+machine_hash: 2755245e89626569841957036b8ea169a3f9e13489dfc6b5fea7cd93eca9ab79
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: We’re improving the quality and latency of responses of the version of
       Advanced Voice powered by GPT-4o mini.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#voice-updates
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -70,7 +70,7 @@ ChatGPT — Voice Updates: We’re improving the quality and latency of response
 <!-- chronolog:begin region="evidence" -->
 > We’re improving the quality and latency of responses of the version of Advanced Voice powered by GPT-4o mini.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#voice-updates
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

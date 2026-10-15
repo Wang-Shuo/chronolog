@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: e05462da1ebe65fbe70988ec60f971285f5718bd539f97e609ac44a9d20b6277
+machine_hash: 5eabe36c260ef0232964f7d720d047cfb1d7a1527482451590a4f31f932b6d71
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: For more details about the canvas feature in ChatGPT, check out the following
       Help Center article!
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#canvas-sharing
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -58,7 +58,7 @@ ChatGPT — Canvas sharing: For more details about the canvas feature in ChatGPT
 <!-- chronolog:begin region="evidence" -->
 > For more details about the canvas feature in ChatGPT, check out the following Help Center article!
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#canvas-sharing
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

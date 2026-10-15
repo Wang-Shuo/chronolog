@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: b4ae58a64d6b5f67c5cfdd37aa9cffd0c86deb1a7d830b7b175cce4e8fc3eae5
+machine_hash: 1e6a4d17652f8ac5e3190c56df337467807f17b36bddeabcfacd7234e8eeab8b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: 'We''re launching ChatGPT Go, our low cost subscription plan, in Brazil.
       ChatGPT Go provides everything included in the Free plan, and:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-now-available-in-brazil
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -59,7 +59,7 @@ ChatGPT — ChatGPT Go now available in Brazil: We're launching ChatGPT Go, our 
 <!-- chronolog:begin region="evidence" -->
 > We're launching ChatGPT Go, our low cost subscription plan, in Brazil. ChatGPT Go provides everything included in the Free plan, and:
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-now-available-in-brazil
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

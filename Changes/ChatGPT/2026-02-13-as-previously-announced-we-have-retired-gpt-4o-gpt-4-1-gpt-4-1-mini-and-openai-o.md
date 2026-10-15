@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: e04167fbdc675e0b573ac51ea10a2d8645eb4311a74c3c1f8fd9bc3742f3df0e
+machine_hash: 1a3c44d5f67e3058f98412c81cfd58495d43958207a50a546b44010b67ec39d8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       and OpenAI o4-mini from ChatGPT. We are also retiring GPT-5 (Instant and Thinking),
       as previously announced. There are no API changes at this time. For details,
       see our blog post and Help Center.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-gpt-4o-and-other-legacy-models
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -64,7 +64,7 @@ ChatGPT — Retiring GPT-4o and other legacy models: As previously announced, we
 <!-- chronolog:begin region="evidence" -->
 > As previously announced, we have retired GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini from ChatGPT. We are also retiring GPT-5 (Instant and Thinking), as previously announced. There are no API changes at this time. For details, see our blog post and Help Center.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-gpt-4o-and-other-legacy-models
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

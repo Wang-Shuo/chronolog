@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: ed93d8f33c0290ef654d7405264b86411e64a5d51a8d394a94205320571612e7
+machine_hash: 521230d9ead4b64117e9f17939cae4be8786de0083de76a5d1a9bf1f4fbc48f1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,7 +24,7 @@ record:
     views'
   evidence:
   - quote: Review code in split-screen views
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#interactive-code-blocks-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -57,7 +57,7 @@ ChatGPT — Interactive Code Blocks in ChatGPT: Review code in split-screen view
 <!-- chronolog:begin region="evidence" -->
 > Review code in split-screen views
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#interactive-code-blocks-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 3bcdb99e75fe1f562977a661c43fc0c4432c3bcb48fed020c4924295fbeadcca
+machine_hash: e00dc853a61cc6d460122ebecb2b1d9435014f92b156783bcd12ad6b49aa2e21
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: 'Plus: Box, Canva, Dropbox, HubSpot, Notion, Microsoft SharePoint, and
       Microsoft Teams'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#additional-connectors-for-plus-and-pro
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -56,7 +56,7 @@ ChatGPT — Additional connectors for Plus and Pro: Plus: Box, Canva, Dropbox, H
 <!-- chronolog:begin region="evidence" -->
 > Plus: Box, Canva, Dropbox, HubSpot, Notion, Microsoft SharePoint, and Microsoft Teams
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#additional-connectors-for-plus-and-pro
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

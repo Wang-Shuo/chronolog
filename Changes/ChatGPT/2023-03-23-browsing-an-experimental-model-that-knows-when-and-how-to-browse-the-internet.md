@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: b5169c24c0c9feedae37108dd8bb33b7799a8da79b54b6f25fa6cb5359fa9ff6
+machine_hash: e72f904c9f5ac62531d3a133e8ee3b6011eeff93febfe52631d58a7f2d84beb1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: 'Browsing: An experimental model that knows when and how to browse the
       internet'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-plugins-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -64,7 +64,7 @@ ChatGPT — Introducing plugins in ChatGPT: Browsing: An experimental model that
 <!-- chronolog:begin region="evidence" -->
 > Browsing: An experimental model that knows when and how to browse the internet
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-plugins-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

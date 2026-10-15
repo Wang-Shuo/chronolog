@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 4624164087bab7c8a9232b6b12c9e3db12a344610e77955b9c790236ec13a4dc
+machine_hash: 8e3d9e2ee0ec6d4f2d22c7ee00377828ddf9c7c86fbfa73ab0b8541231414e8c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
       Plus users in the U.S.Eligible users can securely connect supported financial
       accounts, view a dashboard of their finances, and ask ChatGPT questions grounded
       in their financial context
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#personal-finance-in-chatgpt-expands-to-plus-users-and-android
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -76,7 +76,7 @@ ChatGPT — Personal finance in ChatGPT expands to Plus users and Android: The p
 <!-- chronolog:begin region="evidence" -->
 > The personal finance experience in ChatGPT is rolling out to Plus users in the U.S. on web and iOS. It is also now available on Android for Pro and Plus users in the U.S.Eligible users can securely connect supported financial accounts, view a dashboard of their finances, and ask ChatGPT questions grounded in their financial context
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#personal-finance-in-chatgpt-expands-to-plus-users-and-android
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

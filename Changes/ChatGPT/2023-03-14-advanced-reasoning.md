@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 467e8a5a692a669828f1c72e7f8fba4c56fcc4c0e71d54a6098c3a2ad732aba3
+machine_hash: 2e14f72ad5ef3f793c8d1c5e6f124944f20c69a5fceb4596b48d1970d602f5f9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -23,7 +23,7 @@ record:
   description: 'ChatGPT — Announcing GPT-4 in ChatGPT: Advanced reasoning'
   evidence:
   - quote: Advanced reasoning
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#announcing-gpt-4-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -56,7 +56,7 @@ ChatGPT — Announcing GPT-4 in ChatGPT: Advanced reasoning
 <!-- chronolog:begin region="evidence" -->
 > Advanced reasoning
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#announcing-gpt-4-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

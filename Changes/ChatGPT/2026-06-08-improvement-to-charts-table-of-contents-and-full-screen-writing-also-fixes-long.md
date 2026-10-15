@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: db087fdf1a30edf2f336e13a34abf06f05787e1ee513fdc7f0e1b90ea29949e6
+machine_hash: d099b25182aa8e3bcb09ecaede5ae435a95f62a2bbccea7a49cc0a26a94368eb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Improvement to charts, table of contents and full screen writing. Also
       fixes long-standing issues around editing messages with attachments, and various
       other bug fixes.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -60,7 +60,7 @@ ChatGPT — ChatGPT app experience updates: Improvement to charts, table of cont
 <!-- chronolog:begin region="evidence" -->
 > Improvement to charts, table of contents and full screen writing. Also fixes long-standing issues around editing messages with attachments, and various other bug fixes.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

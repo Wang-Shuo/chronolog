@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 3049e0d92abff65df9c17f4027a2d085421df5eadc630152cbad9aa1458a1c78
+machine_hash: 48196ec184a54b5df6f582b73b92d929b61ca8d98cac054e826c6faa6708ddae
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Site owners can also create recurring cloud schedules from Automations.
       These updates are available where Sites is supported. Learn more about creating
       and managing Sites.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#creating-editing-and-scheduling-sites
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -60,7 +60,7 @@ ChatGPT — Creating, editing, and scheduling Sites: Site owners can also create
 <!-- chronolog:begin region="evidence" -->
 > Site owners can also create recurring cloud schedules from Automations. These updates are available where Sites is supported. Learn more about creating and managing Sites.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#creating-editing-and-scheduling-sites
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2023-05-03'
-machine_hash: 403bb087779639ddfcdab2b6d4b929a5a437a9492aadfbbe502ef5ec9973b15f
+machine_hash: faa1bb4cb2e58f52145f1def4eb59d5edaadf7a146e1f09304a156ad90823016
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -11,13 +11,13 @@ record:
   release_id: chatgpt-2023-05-03-updates-to-chatgpt-0d776ee3
   source_summary: 'We’ve made several updates to ChatGPT! Here''s what''s new:'
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Updates to ChatGPT
   version: Updates to ChatGPT
 release_id: chatgpt-2023-05-03-updates-to-chatgpt-0d776ee3
 source_release: Updates to ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -31,7 +31,7 @@ version: Updates to ChatGPT
 <!-- chronolog:begin region="summary" -->
 We’ve made several updates to ChatGPT! Here's what's new:
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 2
 <!-- chronolog:end -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 90fba7231e55c9c788cc142edcf3624b0ef09214f98b3c65661a7b10db933fda
+machine_hash: c9867ffbf2d2af3c96ca5718671eecf1eeffbce174375ee24bd523dca16cd467
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
   - quote: You can now export your deep research reports as well-formatted PDFs—complete
       with tables, images, linked citations, and sources.To use, click the share icon
       and select 'Download as PDF.' It works for both new and past reports.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#export-deep-research-as-pdf-for-plusproteam
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -63,7 +63,7 @@ ChatGPT — Export Deep Research as PDF for Plus/Pro/Team: You can now export yo
 <!-- chronolog:begin region="evidence" -->
 > You can now export your deep research reports as well-formatted PDFs—complete with tables, images, linked citations, and sources.To use, click the share icon and select 'Download as PDF.' It works for both new and past reports.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#export-deep-research-as-pdf-for-plusproteam
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

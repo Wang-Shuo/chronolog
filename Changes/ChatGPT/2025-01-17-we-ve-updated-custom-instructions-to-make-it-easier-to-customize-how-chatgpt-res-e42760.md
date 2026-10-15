@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: c7546d8615c1ed748dc14eec5e3aa976538e8ed7271d3a692d034beb0c3f29c4
+machine_hash: f625dd6ce7e8993f42c5be1047f0deda36adcaa763ab92fca90a18822d8efa9a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,7 +38,7 @@ record:
       new UI is rolling out now on http://chatgpt.com and desktop on Windows, and
       is coming to mobile and desktop on macOS in the next few weeks. Available soon
       to ChatGPT users in the EU, Norway, Iceland, Liechtenstein, and Switzerland.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-personalization-in-custom-instructions
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -83,7 +83,7 @@ ChatGPT — More personalization in Custom Instructions: We've updated custom in
 <!-- chronolog:begin region="evidence" -->
 > We've updated custom instructions to make it easier to customize how ChatGPT responds to you. With the new UI, you can tell ChatGPT the traits you want it to have, how you want it to talk to you, and any rules you want it to follow.If you're already using custom instructions, this won't change your current settings.The new UI is rolling out now on http://chatgpt.com and desktop on Windows, and is coming to mobile and desktop on macOS in the next few weeks. Available soon to ChatGPT users in the EU, Norway, Iceland, Liechtenstein, and Switzerland.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-personalization-in-custom-instructions
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 743c3ba008c88e4ab42cb312019a5e58042dd71ce5f58693aaa9c8d748b8d67c
+machine_hash: cf806c0af702d2db6bdc21bcd86d924fbde3fa7248856b3640fa0e4dbd081532
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,7 +34,7 @@ record:
       your Connector settings (connect to Notion or Linear if you haven’t already,
       first). Once synced, ChatGPT will automatically reference the indexed content
       when relevant. Learn more about synced connectors.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#adding-notion-linear-synced-connectors
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -67,7 +67,7 @@ ChatGPT — Adding Notion & Linear synced connectors: We're adding Notion and Li
 <!-- chronolog:begin region="evidence" -->
 > We're adding Notion and Linear as synced connectors (for Pro users), so you can securely bring Notion pages and Linear issues/discussions into Chat for fast answers and summaries. You can enable sync for Notion and Linear from your Connector settings (connect to Notion or Linear if you haven’t already, first). Once synced, ChatGPT will automatically reference the indexed content when relevant. Learn more about synced connectors.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#adding-notion-linear-synced-connectors
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

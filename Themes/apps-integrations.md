@@ -1,8 +1,8 @@
 ---
 created: '2023-03-23'
-date: '2026-10-09'
-machine_hash: fc4e8bf3cd1c55f66af0d83ef2b7bec434cae6ccc3b0c6a040e278b7eca2f000
-modified: '2026-10-09'
+date: '2026-10-13'
+machine_hash: 915a9e89dc1acaab46ab2f8cd3cd2f09f6a5a6b45872c34e6671243a5bc74486
+modified: '2026-10-13'
 products_involved:
 - ChatGPT
 - Claude Code
@@ -29,6 +29,7 @@ Scope: tracked-products-only. Entries show same-theme chronology; they do not es
 
 ### 2026
 
+- 2026-10-13 · Cursor: [[Changes/Cursor/2026-10-13-the-marketplace-now-includes-apps-for|The marketplace now includes apps for:]]
 - 2026-10-09 · Claude Code: [[Changes/Claude Code/2026-10-09-added-a-note-in-plugin-on-a-plugin-whose-hooks-are-left-out-because-another-enab|Added a note in /plugin on a plugin whose hooks are left out because another e]]
 - 2026-10-08 · Claude Code: [[Changes/Claude Code/2026-10-08-added-a-warning-to-claude-plugin-install-enable-disable-and-marketplace-add-when|Added a warning to claude plugin install, enable, disable and marketplace]]
 - 2026-10-08 · Claude Code: [[Changes/Claude Code/2026-10-08-added-onfailure-block-for-command-and-http-hooks-a-hook-that-can-t-start-times-o|Added onFailure: "block" for command and HTTP hooks: a hook that can't start,]]
@@ -308,5 +309,5 @@ Scope: tracked-products-only. Entries show same-theme chronology; they do not es
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-Active changes: 266. Use the dated links above to inspect each card.
+Active changes: 267. Use the dated links above to inspect each card.
 <!-- chronolog:end -->

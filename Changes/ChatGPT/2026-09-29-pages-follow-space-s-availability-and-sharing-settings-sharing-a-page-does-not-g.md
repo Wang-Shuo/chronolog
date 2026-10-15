@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 2c6d72ea2b26d375d2ae64db694b34dbb91665e28589d8991d8c0c7f8cc45c82
+machine_hash: 317f1ab235a65f888c13a16c9d41f29a973a2f1a56f9b71d6e788481e5ddc098
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Pages follow Space’s availability and sharing settings. Sharing a Page
       does not give other people access to your private chats or memory; information
       added to the Page is visible to people who can view it.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#create-and-collaborate-on-pages
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -70,7 +70,7 @@ ChatGPT — Create and collaborate on Pages: Pages follow Space’s availability
 <!-- chronolog:begin region="evidence" -->
 > Pages follow Space’s availability and sharing settings. Sharing a Page does not give other people access to your private chats or memory; information added to the Page is visible to people who can view it.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#create-and-collaborate-on-pages
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

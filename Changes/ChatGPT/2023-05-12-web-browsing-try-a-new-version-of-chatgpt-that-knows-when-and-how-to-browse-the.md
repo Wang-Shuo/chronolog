@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 51541a2f0f3e066b7839d8f197881976419f7182ad1273fdd5b081afac4767d0
+machine_hash: ac69abfb111e98b51aedd4e56a2197e3a05bdea1bead1b82d4908f8ce1d24c2a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   evidence:
   - quote: 'Web browsing: Try a new version of ChatGPT that knows when and how to
       browse the internet to answer questions about recent topics and events.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#web-browsing-and-plugins-are-now-rolling-out-in-beta
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -59,7 +59,7 @@ ChatGPT — Web browsing and Plugins are now rolling out in beta: Web browsing: 
 <!-- chronolog:begin region="evidence" -->
 > Web browsing: Try a new version of ChatGPT that knows when and how to browse the internet to answer questions about recent topics and events.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#web-browsing-and-plugins-are-now-rolling-out-in-beta
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

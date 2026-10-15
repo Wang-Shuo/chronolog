@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: ae788779a64f281aab719bd9241d9e48c0fa9910b21ad58bf0a9707b35603ab5
+machine_hash: f9603274c48a5780f52e1ed9c0c6e390d874b392fc3cb5884c98ff897069002e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: • Saved memories and Chat history are offered only to Plus and Pro accounts.•
       Free‑tier users have access to Saved memories only.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#enhanced-memory-in-chatgpt-including-eu-on-pluspro
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -59,7 +59,7 @@ ChatGPT — Enhanced Memory in ChatGPT (including EU) on Plus/Pro: • Saved mem
 <!-- chronolog:begin region="evidence" -->
 > • Saved memories and Chat history are offered only to Plus and Pro accounts.• Free‑tier users have access to Saved memories only.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#enhanced-memory-in-chatgpt-including-eu-on-pluspro
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

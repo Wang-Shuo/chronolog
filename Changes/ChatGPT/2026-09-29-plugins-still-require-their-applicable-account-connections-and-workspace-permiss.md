@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: c22e1ea4f92a34707c0e5ca62f5ca4656d4380f12d354bc61d19002a9322d9b7
+machine_hash: c15163e4bdbb311c664df31fabac024be34b3c8232e5d5d78bb522b4d68fa5c9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Plugins still require their applicable account connections and workspace
       permissions.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#work-with-interactive-plugin-extensions
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -57,7 +57,7 @@ ChatGPT — Work with interactive plugin extensions: Plugins still require their
 <!-- chronolog:begin region="evidence" -->
 > Plugins still require their applicable account connections and workspace permissions.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#work-with-interactive-plugin-extensions
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

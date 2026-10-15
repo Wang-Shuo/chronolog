@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: d2f1c5e79a2b4573afd7ea1ba5b5205d430c87cc67dae11203f466dc73c12fed
+machine_hash: f2e8c807ba3a4640013ca9db7f153144e958d09cfb4107c1399c3cef443be892
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: For the next month, dots usage won’t count toward eligible Pro, Business,
       and Enterprise users’ plan allowances. After this period, we’ll share usage
       terms for each plan.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#meet-your-dot
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -60,7 +60,7 @@ ChatGPT — Meet your dot: For the next month, dots usage won’t count toward e
 <!-- chronolog:begin region="evidence" -->
 > For the next month, dots usage won’t count toward eligible Pro, Business, and Enterprise users’ plan allowances. After this period, we’ll share usage terms for each plan.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#meet-your-dot
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 5be8b93f4952bd5a10ca33f761ee74a7024d1cb39013b6e5fbf8d38998e7d4c4
+machine_hash: c70893a6de30a2a8de2df60f8a6d94fe7f29305fc414e14bda7494d0b3784faf
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,7 +24,7 @@ record:
     a limited selection of languages in the interface:'
   evidence:
   - quote: 'ChatGPT now supports a limited selection of languages in the interface:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-language-support-alpha-on-web
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -53,7 +53,7 @@ ChatGPT — ChatGPT language support - Alpha on web: ChatGPT now supports a limi
 <!-- chronolog:begin region="evidence" -->
 > ChatGPT now supports a limited selection of languages in the interface:
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-language-support-alpha-on-web
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

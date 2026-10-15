@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: dca62329e019a5c4aaf50c2a089064fddeb3f0c899ac8614980a49ca8422beff
+machine_hash: 778089919edcd302bb73d932edabbe9c6b86fb54c9d7ffa51791384713344d5f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       or lightweight app without leaving ChatGPT. You can create dashboards, project
       trackers, launch calendars, prototypes, internal portals, and reports, then
       preview and refine the result with ChatGPT before sharing it.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-sites-in-public-beta
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -69,7 +69,7 @@ ChatGPT — Introducing ChatGPT Sites in public beta: ChatGPT Sites lets you tur
 <!-- chronolog:begin region="evidence" -->
 > ChatGPT Sites lets you turn your work or ideas into an interactive website or lightweight app without leaving ChatGPT. You can create dashboards, project trackers, launch calendars, prototypes, internal portals, and reports, then preview and refine the result with ChatGPT before sharing it.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-sites-in-public-beta
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

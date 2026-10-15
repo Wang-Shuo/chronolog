@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2026-06-17'
-machine_hash: fd8fe8896db3de87b94726bb02e3601a6dc10cd06bbb1a5d88f51ac6ba3705a0
+machine_hash: bad4f39ebe0f56640fdb20c97924305b3b9d6e4b47cf595c83e8138e21e83c7e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -14,13 +14,13 @@ record:
     find and manage, faster and more reliable, with more useful notifications.What’s
     changing
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-in-chatgpt
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Scheduled tasks in ChatGPT
   version: Scheduled tasks in ChatGPT
 release_id: chatgpt-2026-06-17-scheduled-tasks-in-chatgpt-b8005b4a
 source_release: Scheduled tasks in ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-in-chatgpt
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Scheduled tasks in ChatGPT
 <!-- chronolog:begin region="summary" -->
 With scheduled tasks, users can ask ChatGPT to send reminders, handle recurring work, or monitor things for them. This update makes tasks easier to find and manage, faster and more reliable, with more useful notifications.What’s changing
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-in-chatgpt)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 5
 <!-- chronolog:end -->

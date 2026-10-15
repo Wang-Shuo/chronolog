@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: ebb5590c31778f9ae2aa4534372c0d6635919d699f12e5b147a61e56483eca84
+machine_hash: bd4b1b5bc6e597f44424a85078d6707f977b1f104069f3157bb475708bfd76fd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,7 +35,7 @@ record:
       customize it, connect their own apps, and schedule an independent copy.Supported
       webhooks include new Gmail messages, Slack channel messages, and GitHub pull
       request activity.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-can-respond-to-app-updates-and-be-shared
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -82,7 +82,7 @@ ChatGPT — Scheduled tasks can respond to app updates and be shared: Scheduled 
 <!-- chronolog:begin region="evidence" -->
 > Scheduled tasks in ChatGPT Work can use webhooks to respond when something changes in a supported app, helping you keep work moving without repeatedly checking for updates. You can also share a task so someone else can review and customize it, connect their own apps, and schedule an independent copy.Supported webhooks include new Gmail messages, Slack channel messages, and GitHub pull request activity.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-can-respond-to-app-updates-and-be-shared
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

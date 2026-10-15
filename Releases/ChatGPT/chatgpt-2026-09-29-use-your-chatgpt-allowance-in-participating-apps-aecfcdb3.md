@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2026-09-29'
-machine_hash: a6b58ab684003d9b0fdee1d5b0f98dd415f497cae36a47063a5150a81ded29cb
+machine_hash: 45d8d032a543249fa308802f92c488b3301787d3abc7f7e09366c72da4ed81f2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -14,13 +14,13 @@ record:
     can use your allowance and set an app-specific limit. Usage counts toward your
     existing plan allowance; connecting an app does not add more usage.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-your-chatgpt-allowance-in-participating-apps
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Use your ChatGPT allowance in participating apps
   version: Use your ChatGPT allowance in participating apps
 release_id: chatgpt-2026-09-29-use-your-chatgpt-allowance-in-participating-apps-aecfcdb3
 source_release: Use your ChatGPT allowance in participating apps
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-your-chatgpt-allowance-in-participating-apps
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Use your ChatGPT allowance in participating apps
 <!-- chronolog:begin region="summary" -->
 Eligible Plus and Pro users can authorize participating apps to use their ChatGPT model allowance without creating an API key. Choose which apps can use your allowance and set an app-specific limit. Usage counts toward your existing plan allowance; connecting an app does not add more usage.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-your-chatgpt-allowance-in-participating-apps)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 2
 <!-- chronolog:end -->

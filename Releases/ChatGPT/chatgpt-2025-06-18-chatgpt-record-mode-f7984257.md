@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2025-06-18'
-machine_hash: 0e56b76349f3f5131fed86dc224d54117c2a71b459e5d02973b9b8f8953e94c3
+machine_hash: 09a778f9b13138c42293d2b2ab38748ef792a28f66e59bfb8c56c6dd9dd75466
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -13,13 +13,13 @@ record:
     Pro, Enterprise, and Edu users. Previously launched for Team users on June 4,
     2025.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-record-mode
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: ChatGPT record mode
   version: ChatGPT record mode
 release_id: chatgpt-2025-06-18-chatgpt-record-mode-f7984257
 source_release: ChatGPT record mode
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-record-mode
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -33,7 +33,7 @@ version: ChatGPT record mode
 <!-- chronolog:begin region="summary" -->
 Capture meetings, brainstorms, or voice notes. Launching today for Pro, Enterprise, and Edu users. Previously launched for Team users on June 4, 2025.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-record-mode)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 2
 <!-- chronolog:end -->

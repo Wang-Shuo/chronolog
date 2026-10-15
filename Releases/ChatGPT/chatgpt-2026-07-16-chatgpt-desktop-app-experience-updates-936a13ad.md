@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2026-07-16'
-machine_hash: 5191b8740be9a91316652c74a43c1aa67472eb9f7ca6083d58aea977a9d7f8c0
+machine_hash: ba3807b22c8b0c845a07836edbaef069a0f359c17cb2515f44de1cb3e466af8a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -13,13 +13,13 @@ record:
     between Chat and Work, find your conversations and Projects, and continue Work
     across devices. These updates are now live for all plans on macOS and Windows.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-desktop-app-experience-updates
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: ChatGPT desktop app experience updates
   version: ChatGPT desktop app experience updates
 release_id: chatgpt-2026-07-16-chatgpt-desktop-app-experience-updates-936a13ad
 source_release: ChatGPT desktop app experience updates
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-desktop-app-experience-updates
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -33,7 +33,7 @@ version: ChatGPT desktop app experience updates
 <!-- chronolog:begin region="summary" -->
 We’ve updated the ChatGPT desktop app to make it easier to choose between Chat and Work, find your conversations and Projects, and continue Work across devices. These updates are now live for all plans on macOS and Windows.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-desktop-app-experience-updates)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 5
 <!-- chronolog:end -->

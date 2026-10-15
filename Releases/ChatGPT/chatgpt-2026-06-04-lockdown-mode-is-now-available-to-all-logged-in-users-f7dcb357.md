@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-06-04'
-machine_hash: efa8818cd29eff9bd820cc06977f3c16ad67be2941201640efea541208327ce1
+machine_hash: 90bd6d419f8e59f929f086d8be303b6f62c6a096b65e5a1bb5b2e23259967e8c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -14,13 +14,13 @@ record:
     limits access to the web and external services to help reduce the risk of data
     exfiltration from prompt injection attacks.When Lockdown Mode is on, ChatGPT restricts…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#lockdown-mode-is-now-available-to-all-logged-in-users
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Lockdown Mode is now available to all logged-in users
   version: Lockdown Mode is now available to all logged-in users
 release_id: chatgpt-2026-06-04-lockdown-mode-is-now-available-to-all-logged-in-users-f7dcb357
 source_release: Lockdown Mode is now available to all logged-in users
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#lockdown-mode-is-now-available-to-all-logged-in-users
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Lockdown Mode is now available to all logged-in users
 <!-- chronolog:begin region="summary" -->
 Lockdown Mode is now available to all logged-in users across account types and workspaces. It is an optional opt-in advanced security setting that limits access to the web and external services to help reduce the risk of data exfiltration from prompt injection attacks.When Lockdown Mode is on, ChatGPT restricts…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#lockdown-mode-is-now-available-to-all-logged-in-users)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 1
 <!-- chronolog:end -->

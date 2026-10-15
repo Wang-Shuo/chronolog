@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: a1732be27ca53dec8a80650025b9698e66df9b4e1d26875a2b61378cc581adeb
+machine_hash: fd50bdfe851785b555c3c079be5db0e67bbff54bfff616c5a170128540036a3f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: The initial experience includes My Drive and files and folders shared directly
       with you; Shared Drives aren’t included yet. Some Google Drive editing and collaboration
       features aren’t yet available in ChatGPT.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#google-drive-is-now-in-library
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -61,7 +61,7 @@ ChatGPT — Google Drive is now in Library: The initial experience includes My D
 <!-- chronolog:begin region="evidence" -->
 > The initial experience includes My Drive and files and folders shared directly with you; Shared Drives aren’t included yet. Some Google Drive editing and collaboration features aren’t yet available in ChatGPT.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#google-drive-is-now-in-library
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

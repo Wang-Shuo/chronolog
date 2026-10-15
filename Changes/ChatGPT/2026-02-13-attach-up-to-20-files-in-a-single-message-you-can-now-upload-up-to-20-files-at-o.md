@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 65e91406783a0edb5a57b80fab505cf9fa796df45eca6558f86e7bdc9f524a12
+machine_hash: e45180b2931bd418901a63efc1ed71f9ab839960f053ecd361dd105e04df646a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Attach up to 20 files in a single message. You can now upload up to 20
       files at once (previously 10), making it easier to analyze document sets, compare
       multiple files, or provide broader context in a single message.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-updates-better-file-uploads-easier-copying-and-more-reliable-long-chats
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -61,7 +61,7 @@ ChatGPT — ChatGPT updates: Better file uploads, easier copying, and more relia
 <!-- chronolog:begin region="evidence" -->
 > Attach up to 20 files in a single message. You can now upload up to 20 files at once (previously 10), making it easier to analyze document sets, compare multiple files, or provide broader context in a single message.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-updates-better-file-uploads-easier-copying-and-more-reliable-long-chats
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

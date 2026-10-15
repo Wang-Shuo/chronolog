@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 1e36e478be665c447c71a34d3eacb940de6959b15a59a0cdc24ef92c33d489c9
+machine_hash: a8895c2ba85d7d02198ea064f346d1f54834e3278698f0b2948b46035ff772dc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,7 +45,7 @@ record:
       our ChatGPT dictation evaluations, word error rate—a standard measure of transcription
       accuracy—was at least 10% lower for top languages tested than with the previous
       production model.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improved-dictation-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -89,7 +89,7 @@ ChatGPT — Improved dictation in ChatGPT: We’re rolling out a new speech-to-t
 <!-- chronolog:begin region="evidence" -->
 > We’re rolling out a new speech-to-text model for dictation in ChatGPT across all plans. This is a behind-the-scenes update, so there are no changes to how you use dictation.The update improves transcription accuracy across languages and accents, including when multilingual speakers mix or switch between languages. Evaluations showed gains in Japanese, Korean, Chinese, Urdu, Vietnamese, accented English, and long-form Spanish, French, Italian, and Portuguese.Dictation is also more robust in noisy public spaces and workplace environments, with quiet or whispered speech, and when transcribing combinations of letters and numbers.In our ChatGPT dictation evaluations, word error rate—a standard measure of transcription accuracy—was at least 10% lower for top languages tested than with the previous production model.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improved-dictation-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2026-06-08'
-machine_hash: 183522bfdfacabdee7930d0b3ea62b6e437a973778953cc2f5f54709feb146d4
+machine_hash: ffa2bd8c4bc93e89f9ba41f2af6e80ae7c06c21f662dd5990db56e5d3316c05e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -13,13 +13,13 @@ record:
     Also fixes long-standing issues around editing messages with attachments, and
     various other bug fixes.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: ChatGPT app experience updates
   version: ChatGPT app experience updates
 release_id: chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5
 source_release: ChatGPT app experience updates
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -33,7 +33,7 @@ version: ChatGPT app experience updates
 <!-- chronolog:begin region="summary" -->
 Improvement to charts, table of contents and full screen writing. Also fixes long-standing issues around editing messages with attachments, and various other bug fixes.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 5
 <!-- chronolog:end -->

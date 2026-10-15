@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 670c94b9a2bd0091d758e021cced73a0856a022ebfb75b4ce35bf74935233407
+machine_hash: 498e4edf3103b5871be41bfe0c36c92a93e7091c98404f06d05339213084dc6d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       convert the content into an attachment instead of inserting it directly into
       the text field. This keeps the composer cleaner and helps prevent large pastes
       from consuming your entire context window.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#large-pastes-are-now-handled-as-attachments-for-all-plans
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -63,7 +63,7 @@ ChatGPT — Large pastes are now handled as attachments for all plans: If you pa
 <!-- chronolog:begin region="evidence" -->
 > If you paste more than 10k characters into the composer, ChatGPT will automatically convert the content into an attachment instead of inserting it directly into the text field. This keeps the composer cleaner and helps prevent large pastes from consuming your entire context window.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#large-pastes-are-now-handled-as-attachments-for-all-plans
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

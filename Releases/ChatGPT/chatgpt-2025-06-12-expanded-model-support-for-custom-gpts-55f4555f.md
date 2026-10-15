@@ -1,7 +1,7 @@
 ---
 changes_count: 4
 date: '2025-06-12'
-machine_hash: c9eb592cf0ae052e87c821485adbfbfafcab8027242adc763714d141f43f0791
+machine_hash: ca894ea9130b99d7f48c5dac14501f82033c32f2302fdf21b1c987d8f4c74a84
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -14,13 +14,13 @@ record:
     performance for different tasks, industries, and workflows. Creators can also
     set a recommended model to guide users.Key details:'
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#expanded-model-support-for-custom-gpts
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Expanded Model Support for Custom GPTs
   version: Expanded Model Support for Custom GPTs
 release_id: chatgpt-2025-06-12-expanded-model-support-for-custom-gpts-55f4555f
 source_release: Expanded Model Support for Custom GPTs
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#expanded-model-support-for-custom-gpts
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Expanded Model Support for Custom GPTs
 <!-- chronolog:begin region="summary" -->
 Creators can now choose from the full set of ChatGPT models (GPT-4o, o3, o4-mini and more) when building Custom GPTs—making it easier to fine-tune performance for different tasks, industries, and workflows. Creators can also set a recommended model to guide users.Key details:
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#expanded-model-support-for-custom-gpts)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 4
 <!-- chronolog:end -->

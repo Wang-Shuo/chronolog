@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 8cf41f2f4e2bb435e5f16d5d12cc9f6436cc2e040ee5d592b523e6a3a987302b
+machine_hash: bfccd91afbd8316c708255726f37e3384e783635f88535cf7c8e931b714b84ec
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
       where we will be rolling it out soon. Using Memory is easy: just start a new
       chat and tell ChatGPT anything you’d like it to remember.Memory can be turned
       on or off in settings. Team, Enterprise, and GPTs to come.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-is-now-available-to-plus-users
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -77,7 +77,7 @@ ChatGPT — Memory is now available to Plus users: Memory is now available to al
 <!-- chronolog:begin region="evidence" -->
 > Memory is now available to all ChatGPT Plus users, except in Europe Korea where we will be rolling it out soon. Using Memory is easy: just start a new chat and tell ChatGPT anything you’d like it to remember.Memory can be turned on or off in settings. Team, Enterprise, and GPTs to come.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-is-now-available-to-plus-users
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

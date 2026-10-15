@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 0db7d186b69b4e718ee0aba59b5edc582b4644b249b12d85334763ed23872550
+machine_hash: a2d74530da51d4c14ef9954512284444eda784d431470149b560bfe746c6c3d4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,7 +34,7 @@ record:
       → Personalization are applied immediately across all chats (including existing
       conversations!) so your experience stays consistent everywhere without needing
       to start a new thread.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#personality-and-custom-instructions-now-apply-to-all-chats
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -65,7 +65,7 @@ ChatGPT — Personality and custom instructions now apply to all chats: Previous
 <!-- chronolog:begin region="evidence" -->
 > Previously, changes you made to your ChatGPT personality or custom instructions only applied to new conversations. Starting today, updates you make in Settings → Personalization are applied immediately across all chats (including existing conversations!) so your experience stays consistent everywhere without needing to start a new thread.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#personality-and-custom-instructions-now-apply-to-all-chats
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

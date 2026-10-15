@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: dd07211d4412b1de961e0a52b9c4f55076f110d57b6bb001ce12bdf2dc04a2af
+machine_hash: 1c744fc36bddcb45fa6532ae6feac055a22daf9e30ba7aab03fda8e28bf14043
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -59,7 +59,7 @@ record:
       your feedback for next time and improves as it learns from real use.It requires
       saved memory and chat history to be turned on, and you can switch pulse off
       anytime in settings. See ChatGPT Pulse.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-pulse-for-pro-users
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -103,7 +103,7 @@ ChatGPT — Introducing ChatGPT Pulse for Pro users: We’re launching an early 
 <!-- chronolog:begin region="evidence" -->
 > We’re launching an early preview of ChatGPT pulse for Pro users on iOS and Android. This is a new experience where ChatGPT can now proactively deliver personalized, focused updates for you once a day. These updates are based on asynchronous research ChatGPT can do on your behalf overnight, synthesizing information from your memory, chat history, and direct feedback to learn what’s most relevant to you.Updates are delivered once a day as visual summaries you can scan at a glance or dive deeper into. Each topic opens into more detail where you can ask follow-up questions. You can shape what shows up in pulse with a quick thumbs up or down, or by using curate to tell ChatGPT what you’d like to see.If you ask for something new in the evening, we aim to include it the next morning, though exact timing may vary. Pulse refreshes daily, and you can save any item into a chat to keep it.As a preview, pulse has some limitations. It aims to show you what’s most relevant and useful but you may still see suggestions that miss the mark. For example, you may get tips for a project you already completed. You can guide what shows up by telling ChatGPT directly. It remembers your feedback for next time and improves as it learns from real use.It requires saved memory and chat history to be turned on, and you can switch pulse off anytime in settings. See ChatGPT Pulse.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-pulse-for-pro-users
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

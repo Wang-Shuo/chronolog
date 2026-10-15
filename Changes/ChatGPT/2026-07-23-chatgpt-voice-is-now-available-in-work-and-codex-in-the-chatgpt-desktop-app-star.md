@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 42162cf6166d3e5f17ad8cefc5f82e34c06f8712bf1a26d82774328467611bc0
+machine_hash: 061f5c55cb0e9aaa8caefc316f5859b9ac006accf03acb8952d15b11ab4823aa
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       app. Start a new task in Voice to speak naturally, interrupt, and ask Voice
       to start or coordinate work using the tools and permissions available to the
       selected experience.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-voice-in-work-and-codex-on-desktop
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -73,7 +73,7 @@ ChatGPT — ChatGPT Voice in Work and Codex on desktop: ChatGPT Voice is now ava
 <!-- chronolog:begin region="evidence" -->
 > ChatGPT Voice is now available in Work and Codex in the ChatGPT desktop app. Start a new task in Voice to speak naturally, interrupt, and ask Voice to start or coordinate work using the tools and permissions available to the selected experience.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-voice-in-work-and-codex-on-desktop
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

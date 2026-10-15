@@ -1,8 +1,8 @@
 ---
 created: '2023-05-04'
-date: '2026-10-09'
-machine_hash: 86bc3f8535392adacb30d254bc81e740bc4e5850656bcb77e1aef8580cc58fdc
-modified: '2026-10-09'
+date: '2026-10-14'
+machine_hash: 975df2d9ae639aed03e90af96d7992c78144e4d2294b3c7fdad21f6f990eb56a
+modified: '2026-10-14'
 products_involved:
 - ChatGPT
 - Claude Code
@@ -29,6 +29,8 @@ Scope: tracked-products-only. Entries show same-theme chronology; they do not es
 
 ### 2026
 
+- 2026-10-14 · Claude Code: [[Changes/Claude Code/2026-10-14-added-claude-code-idle-compact-min-tokens-to-change-idle-compaction-s-200k-token|Added CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS to change idle compaction's 200K-tok]]
+- 2026-10-14 · Claude Code: [[Changes/Claude Code/2026-10-14-added-cache-creation-5m-tokens-and-cache-creation-1h-tokens-to-the-opentelemetry|Added cache_creation_5m_tokens and cache_creation_1h_tokens to the OpenTelem]]
 - 2026-10-09 · Claude Code: [[Changes/Claude Code/2026-10-09-added-autocompactwindow-to-subagent-frontmatter-and-agents-definitions-so-a-suba|Added autoCompactWindow to subagent frontmatter and --agents definitions, so]]
 - 2026-09-15 · Claude Code: [[Changes/Claude Code/2026-09-15-added-x-claude-code-request-class-x-claude-code-agent-type-x-claude-code-prev-to|Added x-claude-code-request-class, x-claude-code-agent-type, x-claude-code-]]
 - 2026-09-10 · Cursor: [[Changes/Cursor/2026-09-10-today-we-re-launching-projects-in-cursor-projects-lets-you-take-on-larger-bodies|Today we're launching Projects in Cursor. Projects lets you take on larger bodie]]
@@ -119,5 +121,5 @@ Scope: tracked-products-only. Entries show same-theme chronology; they do not es
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-Active changes: 77. Use the dated links above to inspect each card.
+Active changes: 79. Use the dated links above to inspect each card.
 <!-- chronolog:end -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 467633155248da49abe8623bf8b065e63f2ff8cd9389f0e0c2adc2c2503dfc2c
+machine_hash: cb6a35c19c0371c9d205134eefaf8489eae277fd669554f384cf7d12399e7a4a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,7 +24,7 @@ record:
     for everyday questions'
   evidence:
   - quote: Instant – fast responses for everyday questions
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-model-picker-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -57,7 +57,7 @@ ChatGPT — Updates to the model picker in ChatGPT: Instant – fast responses f
 <!-- chronolog:begin region="evidence" -->
 > Instant – fast responses for everyday questions
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-model-picker-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 94859d08855e499659ff0524e39c71d686096cd72f1ed654c0e1bb8576acf6b0
+machine_hash: b5b3c55f141538687a5410bd26651fb8bd476d52f933ccb86a16aee6b7a6749c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
   - quote: A new Scheduled page, discoverable in the sidebar, gives users one place
       to view active tasks, see when they’ll run next, and pause, resume, edit, or
       delete them.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -62,7 +62,7 @@ ChatGPT — Scheduled tasks in ChatGPT: A new Scheduled page, discoverable in th
 <!-- chronolog:begin region="evidence" -->
 > A new Scheduled page, discoverable in the sidebar, gives users one place to view active tasks, see when they’ll run next, and pause, resume, edit, or delete them.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

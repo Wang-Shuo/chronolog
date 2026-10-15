@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 5c4382b6c73e8d71ac02c32460fd4c8202985cb46dd288411199283b9ee9f581
+machine_hash: 4b0e3bcf0755e9dc2bde50b2cae662933f5bd9edb2827a8392a8b1ba521e423d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       app connections are unaffected. Plugins can package skills, apps, and app templates
       for specific workflows, and are available from ChatGPT on web and desktop, including
       Work and Codex.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-work
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -74,7 +74,7 @@ ChatGPT — Introducing ChatGPT Work: We’re also replacing the App Directory w
 <!-- chronolog:begin region="evidence" -->
 > We’re also replacing the App Directory with the Plugin Directory. Existing app connections are unaffected. Plugins can package skills, apps, and app templates for specific workflows, and are available from ChatGPT on web and desktop, including Work and Codex.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-work
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

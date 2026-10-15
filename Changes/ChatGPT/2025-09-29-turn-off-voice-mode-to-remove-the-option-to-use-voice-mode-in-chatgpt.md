@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 0af9fce877e29914b705ac484a7ce5836ec0784f915373cd1afd1845962d057b
+machine_hash: 675ed6c14e5cfd8a6f62cbc23f7722bc2279423fc59b3f58bdffd181eec71343
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,7 +24,7 @@ record:
     to use voice mode in ChatGPT.'
   evidence:
   - quote: Turn off voice mode, to remove the option to use voice mode in ChatGPT.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#parental-controls
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -55,7 +55,7 @@ ChatGPT — Parental Controls: Turn off voice mode, to remove the option to use 
 <!-- chronolog:begin region="evidence" -->
 > Turn off voice mode, to remove the option to use voice mode in ChatGPT.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#parental-controls
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

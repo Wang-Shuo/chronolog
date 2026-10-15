@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: bdd7e529787e0a37f233e7d2dc6e76c35d1b1088cc7c458d5f39157ee27b5beb
+machine_hash: 298525748be842763757007c39dd4bce201582856bbed5f5c9e2979e52eadbdf
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: 'A clearer desktop layout: A global switcher lets you choose between ChatGPT
       and Codex. In ChatGPT, choose Chat for quick questions and conversational help,
       or Work to complete tasks end to end.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-desktop-app-experience-updates
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -61,7 +61,7 @@ ChatGPT — ChatGPT desktop app experience updates: A clearer desktop layout: A 
 <!-- chronolog:begin region="evidence" -->
 > A clearer desktop layout: A global switcher lets you choose between ChatGPT and Codex. In ChatGPT, choose Chat for quick questions and conversational help, or Work to complete tasks end to end.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-desktop-app-experience-updates
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

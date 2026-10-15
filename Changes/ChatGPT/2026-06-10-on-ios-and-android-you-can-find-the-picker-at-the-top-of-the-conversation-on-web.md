@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 777878a44eb7e22bb97b42ef34bac236ee082ea539f1df132ce7460ccde08f86
+machine_hash: be8d5ba52a4e80da783badb6d4c6c8626e72e7a8f930889b9a2c709f97ab7282
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       On web, it appears directly in the message composer.Users have the ability to
       decide whether Instant auto-switches to Medium for higher reasoning when required.
       You can turn this on or off in General > Settings.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#simplified-controls-in-the-model-picker
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -73,7 +73,7 @@ ChatGPT — Simplified controls in the model picker: On iOS and Android, you can
 <!-- chronolog:begin region="evidence" -->
 > On iOS and Android, you can find the picker at the top of the conversation. On web, it appears directly in the message composer.Users have the ability to decide whether Instant auto-switches to Medium for higher reasoning when required. You can turn this on or off in General > Settings.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#simplified-controls-in-the-model-picker
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

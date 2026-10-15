@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2025-09-29'
-machine_hash: 927c187935abce93cb0bf1be830b25bd38af670a97d073b98be33912783ae0b8
+machine_hash: 0aef785e4db07090ba5d1e884ac1a9d9bac097479476f8220567ba8d5d457b73
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -15,13 +15,13 @@ record:
     the merchant, right in chat. Starting today, U.S. ChatGPT Plus, Pro, and Free
     users can buy…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-instant-checkout-and-the-agentic-commerce-protocol
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Introducing Instant Checkout and the Agentic Commerce Protocol
   version: Introducing Instant Checkout and the Agentic Commerce Protocol
 release_id: chatgpt-2025-09-29-introducing-instant-checkout-and-the-agentic-commerce-protocol-6ba1bd7e
 source_release: Introducing Instant Checkout and the Agentic Commerce Protocol
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-instant-checkout-and-the-agentic-commerce-protocol
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Introducing Instant Checkout and the Agentic Commerce Protocol
 <!-- chronolog:begin region="summary" -->
 We’re introducing Instant Checkout in ChatGPT and the Agentic Commerce Protocol that powers it, built with Stripe.ChatGPT can help you find anything on the web and now with Instant Checkout, you can seamlessly buy directly from the merchant, right in chat. Starting today, U.S. ChatGPT Plus, Pro, and Free users can buy…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-instant-checkout-and-the-agentic-commerce-protocol)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 3
 <!-- chronolog:end -->

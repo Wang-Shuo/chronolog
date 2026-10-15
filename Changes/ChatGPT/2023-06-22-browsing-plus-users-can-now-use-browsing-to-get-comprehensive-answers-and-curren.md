@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 007556952fee65ebeb5e4f7c4d1ef8bb9a3c4c130400efaef28ae187e2731085
+machine_hash: 6302a1526043d88422c12072e372186e5d8173283189f98a90d16da58ae868af
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
       original training data. To try it out, enable Browsing in the “new features”
       section of your app settings. Then select GPT-4 in the model switcher and choose
       “Browse with Bing” in the drop-down.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-and-search-on-mobile
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -78,7 +78,7 @@ ChatGPT — Browsing and search on mobile: Browsing: Plus users can now use Brow
 <!-- chronolog:begin region="evidence" -->
 > Browsing: Plus users can now use Browsing to get comprehensive answers and current insights on events and information that extend beyond the model's original training data. To try it out, enable Browsing in the “new features” section of your app settings. Then select GPT-4 in the model switcher and choose “Browse with Bing” in the drop-down.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-and-search-on-mobile
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

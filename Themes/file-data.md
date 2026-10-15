@@ -1,8 +1,8 @@
 ---
 created: '2023-07-06'
-date: '2026-10-01'
-machine_hash: a797729b2dfd4370ce7c252f064d38699fc436b8b646c6dd3752ad975d89c930
-modified: '2026-10-01'
+date: '2026-10-14'
+machine_hash: 300ab232bbe11f826cc40413e08c916435830c818133e0586ccd461876fe5519
+modified: '2026-10-14'
 products_involved:
 - ChatGPT
 - Claude Code
@@ -29,6 +29,7 @@ Scope: tracked-products-only. Entries show same-theme chronology; they do not es
 
 ### 2026
 
+- 2026-10-14 · Claude Code: [[Changes/Claude Code/2026-10-14-added-prompt-media-so-a-prompt-submit-hook-of-a-mod-installed-by-managed-setting|Added USD .prompt.media so a prompt.submit hook of a mod installed by managed s]]
 - 2026-10-01 · ChatGPT: [[Changes/ChatGPT/2026-10-01-it-s-now-easier-to-bring-your-notes-and-documents-into-chatgpt-on-your-phone-cap|It’s now easier to bring your notes and documents into ChatGPT on your phone. Ca]]
 - 2026-08-07 · ChatGPT: [[Changes/ChatGPT/2026-08-07-we-ve-made-it-easier-to-bring-documents-and-saved-files-into-your-conversations|We’ve made it easier to bring documents and saved files into your conversations,]]
 - 2026-08-07 · ChatGPT: [[Changes/ChatGPT/2026-08-07-get-answers-that-stay-closer-to-your-documents-chatgpt-makes-better-use-of-infor|Get answers that stay closer to your documents. ChatGPT makes better use of info]]
@@ -77,5 +78,5 @@ Scope: tracked-products-only. Entries show same-theme chronology; they do not es
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-Active changes: 35. Use the dated links above to inspect each card.
+Active changes: 36. Use the dated links above to inspect each card.
 <!-- chronolog:end -->

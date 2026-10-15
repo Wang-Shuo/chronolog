@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 6834a421c75a1a69b08ad55518a03be4704c1aab2813589b5d781123fca27c23
+machine_hash: b7a134a2d6c352429c0c3eb7556c562f20ded3a0ca7993ccdb5c3688dcd68f25
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: Record live conversations like team meetings or voice notes, and turn those
       into an editable summary in canvas.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#record-mode-in-chatgpt-macos-desktop-app-plus
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -72,7 +72,7 @@ ChatGPT — Record mode in ChatGPT macOS desktop app (Plus): Record live convers
 <!-- chronolog:begin region="evidence" -->
 > Record live conversations like team meetings or voice notes, and turn those into an editable summary in canvas.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#record-mode-in-chatgpt-macos-desktop-app-plus
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

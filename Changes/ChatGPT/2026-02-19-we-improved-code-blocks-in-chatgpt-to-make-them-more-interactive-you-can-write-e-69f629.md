@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 6a8f312dac5fe3b98953dad30e9f1ac4b2165a9cafdc39006a157bac02a97dc5
+machine_hash: 194a1bbc7e9e3d413e952e3f47dd11ab9224a9d37b05ddf4655a5652b6016211
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: 'We improved Code Blocks in ChatGPT to make them more interactive. You
       can write, edit, and preview your code in ChatGPT, all in oneplace:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#interactive-code-blocks-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -60,7 +60,7 @@ ChatGPT — Interactive Code Blocks in ChatGPT: We improved Code Blocks in ChatG
 <!-- chronolog:begin region="evidence" -->
 > We improved Code Blocks in ChatGPT to make them more interactive. You can write, edit, and preview your code in ChatGPT, all in oneplace:
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#interactive-code-blocks-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

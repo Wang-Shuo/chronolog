@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 239cf38b45c8efd6b3174b36ae7559a54e2c2d4196e9e9ea33fdb2b381dc3671
+machine_hash: 185ad36918eeef1af131464bb5c54fab93ad3045f8f15dcb66b0eabef8d4263b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
   - quote: The new ChatGPT desktop app is available globally for macOS and Windows.
       It combines Chat for questions and conversation, Work for research and finished
       deliverables, and Codex for software development in one app.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -63,7 +63,7 @@ ChatGPT — The new ChatGPT desktop app brings Chat, Work, and Codex together: T
 <!-- chronolog:begin region="evidence" -->
 > The new ChatGPT desktop app is available globally for macOS and Windows. It combines Chat for questions and conversation, Work for research and finished deliverables, and Codex for software development in one app.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

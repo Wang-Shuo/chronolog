@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 1a0369609c859e775ca7aac69dc730ec66d50b456e25aeda74592919fde8fabf
+machine_hash: b9a74be3d5bfba40804215c9d154a861b1547ed6ac30a759b8043d0c5526eaae
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: We’re sunsetting the preset Nerdy base style to simplify options and improve
       response quality. Users who selected it will be moved to the default personality.
       You can manage personality settings anytime in ChatGPT under Settings → Personalization.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#sunsetting-the-nerdy-base-style
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -61,7 +61,7 @@ ChatGPT — Sunsetting the “Nerdy” base style: We’re sunsetting the preset
 <!-- chronolog:begin region="evidence" -->
 > We’re sunsetting the preset Nerdy base style to simplify options and improve response quality. Users who selected it will be moved to the default personality. You can manage personality settings anytime in ChatGPT under Settings → Personalization.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#sunsetting-the-nerdy-base-style
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

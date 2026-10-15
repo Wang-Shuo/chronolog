@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 6949727226b3cde54960069621247c1f79631af5ba031a59fa82fffdfba75a14
+machine_hash: 3a5e18265ca1b9d2e58fca12d2487f402626439bd7b7beb545ff5249d8723aeb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -37,7 +37,7 @@ record:
       Pro is rolling out today for all ChatGPT Pro users and is available in the model
       picker. GPT-5 Pro will remain available as a legacy model for 90 days before
       being retired.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-51-pro-clearer-more-capable-answers-for-complex-work
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -80,7 +80,7 @@ ChatGPT — GPT-5.1 Pro: Clearer, more capable answers for complex work: Today w
 <!-- chronolog:begin region="evidence" -->
 > Today we’re updating GPT-5 Pro to GPT-5.1 Pro. In early testing, users consistently preferred GPT-5.1 Pro over GPT-5 Pro, rating it especially highly for writing help, data science, and business questions. Testers highlighted the model’s improved clarity, relevance, and structure in its responses.GPT-5.1 Pro is rolling out today for all ChatGPT Pro users and is available in the model picker. GPT-5 Pro will remain available as a legacy model for 90 days before being retired.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-51-pro-clearer-more-capable-answers-for-complex-work
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

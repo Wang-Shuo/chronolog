@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 8759c76e31b2a2ce0a5697f1afc72ecefb97b1a4dc7df116dab50a95bf42e898
+machine_hash: 807dbd3a5c9e9ce32a21f641238ee123247faf51f4917b2ea4355890999a6633
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,7 +41,7 @@ record:
       to sift through past conversations.Learn more about ChatGPT Images in our ChatGPT
       Images FAQ.Available on Free, Go, Plus, Edu, and Pro plans. Business and Enterprise
       are coming soon!
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-images-on-web-and-mobile-ios-android
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -91,7 +91,7 @@ ChatGPT — ChatGPT Images on Web and Mobile (iOS & Android): We’ve introduced
 <!-- chronolog:begin region="evidence" -->
 > We’ve introduced a new and improved version of ChatGPT Images, powered by our best image generation model yet. With ChatGPT Images, precise instruction following and editing makes AI image creation not just more fun, but meaningfully more useful—from everyday edits to creative transformations.All images you create with ChatGPT are automatically saved under My images at https://chatgpt.com/images, giving you a single place to browse, revisit, and reuse your work without having to sift through past conversations.Learn more about ChatGPT Images in our ChatGPT Images FAQ.Available on Free, Go, Plus, Edu, and Pro plans. Business and Enterprise are coming soon!
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-images-on-web-and-mobile-ios-android
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

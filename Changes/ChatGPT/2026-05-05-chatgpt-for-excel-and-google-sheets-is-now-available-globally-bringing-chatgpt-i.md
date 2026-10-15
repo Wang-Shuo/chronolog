@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: dc43ae1b6b86743c35ec3a0f46b9dabb8380ecd581f84be6753177239db62fb2
+machine_hash: 48c4cd73031453d3d0dc33decd594d345f7817ffb2afe48b10d19f3d9e98323e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,7 +41,7 @@ record:
       Microsoft Marketplace or ChatGPT from Google Workspace Marketplace, then sign
       in with an eligible ChatGPT account. Review outputs before relying on formulas
       or analysis. Learn more.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-for-excel-and-google-sheets
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -98,7 +98,7 @@ ChatGPT — ChatGPT for Excel and Google Sheets: ChatGPT for Excel and Google Sh
 <!-- chronolog:begin region="evidence" -->
 > ChatGPT for Excel and Google Sheets is now available globally, bringing ChatGPT into a sidebar in Microsoft Excel and Google Sheets so you can build, update, and understand spreadsheets in place. It can help with trackers, budgets, formulas, multi-tab files, scenario work, and spreadsheet cleanup, and supports Skills and apps where available.Free and Go include limited usage; Plus and Pro use the same agentic usage limits as Codex. You can purchase additional credits if you need to go beyond plan limits.Install ChatGPT for Excel from Microsoft Marketplace or ChatGPT from Google Workspace Marketplace, then sign in with an eligible ChatGPT account. Review outputs before relying on formulas or analysis. Learn more.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-for-excel-and-google-sheets
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: f5ba6b8e58393282d347b8088580075444b962b541806af5794c6b15fd72754e
+machine_hash: 0165b63b5ee0023271d272e74c710e5b1c34e93dcf942fde03c53a3bb2755c27
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
   - quote: We're doubling the number of messages ChatGPT Plus customers can send with
       GPT-4. Rolling out over the next week, the new message limit will be 40 every
       3 hours.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#higher-message-limits-for-gpt-4
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -64,7 +64,7 @@ ChatGPT — Higher message limits for GPT-4: We're doubling the number of messag
 <!-- chronolog:begin region="evidence" -->
 > We're doubling the number of messages ChatGPT Plus customers can send with GPT-4. Rolling out over the next week, the new message limit will be 40 every 3 hours.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#higher-message-limits-for-gpt-4
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: ff414f6c7806dabd8c8352b1164ea46f7ff134e184f6cf505a88b23eb7aa3746
+machine_hash: 195f6a72e887af41ac4496909cea2dbaedfc34d2665d29ab91d3a6766b221964
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Free users in EEA (EU + UK), Switzerland, Norway, Iceland, or Liechtenstein
       will see a prompt to enable this setting or can visit Settings > Personalization
       > Memory > Reference chat history to enable.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-is-now-more-comprehensive-for-free-users
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -61,7 +61,7 @@ ChatGPT — Memory is now more comprehensive for Free users: Free users in EEA (
 <!-- chronolog:begin region="evidence" -->
 > Free users in EEA (EU + UK), Switzerland, Norway, Iceland, or Liechtenstein will see a prompt to enable this setting or can visit Settings > Personalization > Memory > Reference chat history to enable.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-is-now-more-comprehensive-for-free-users
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

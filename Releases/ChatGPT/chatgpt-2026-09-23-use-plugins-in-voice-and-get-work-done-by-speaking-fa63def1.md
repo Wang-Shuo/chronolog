@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2026-09-23'
-machine_hash: 694101098ab36851d7dbfbcd57d755c27f8da1cb04e3143954ed03413b67db03
+machine_hash: 380faedf281b585c604a5bc995879ec7248931be10e638954e548e880dc33b31
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -13,13 +13,13 @@ record:
     the plugins and connected apps available to your account during a Voice conversation
     and follow written responses in the chat.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-plugins-in-voice-and-get-work-done-by-speaking
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Use plugins in Voice and get work done by speaking
   version: Use plugins in Voice and get work done by speaking
 release_id: chatgpt-2026-09-23-use-plugins-in-voice-and-get-work-done-by-speaking-fa63def1
 source_release: Use plugins in Voice and get work done by speaking
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-plugins-in-voice-and-get-work-done-by-speaking
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -33,7 +33,7 @@ version: Use plugins in Voice and get work done by speaking
 <!-- chronolog:begin region="summary" -->
 Live now supports plugins on web, iOS, and Android. You can use the plugins and connected apps available to your account during a Voice conversation and follow written responses in the chat.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-plugins-in-voice-and-get-work-done-by-speaking)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 3
 <!-- chronolog:end -->

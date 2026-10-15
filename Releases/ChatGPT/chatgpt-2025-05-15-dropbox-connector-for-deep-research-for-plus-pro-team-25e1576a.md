@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-05-15'
-machine_hash: 8a62a56f7ce9dbf24c349f5a1d45481efdcb5536e2ab99a6b350d577a1b2e429
+machine_hash: ee2ab58d5aa83eecefd44b1e795be9380de7c53ceeb87ad0e43ff4f8353ecc16
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -14,13 +14,13 @@ record:
     in the EEA, Switzerland, and the UK. Enterprise user access will be announced
     at a later date.See: Connect apps to ChatGPT deep research'
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#dropbox-connector-for-deep-research-for-plusproteam
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Dropbox connector for deep research for Plus/Pro/Team
   version: Dropbox connector for deep research for Plus/Pro/Team
 release_id: chatgpt-2025-05-15-dropbox-connector-for-deep-research-for-plus-pro-team-25e1576a
 source_release: Dropbox connector for deep research for Plus/Pro/Team
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#dropbox-connector-for-deep-research-for-plusproteam
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Dropbox connector for deep research for Plus/Pro/Team
 <!-- chronolog:begin region="summary" -->
 ChatGPT deep research with Dropbox is available globally to Team users. It is also gradually rolling out to Plus and Pro users, except for those in the EEA, Switzerland, and the UK. Enterprise user access will be announced at a later date.See: Connect apps to ChatGPT deep research
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#dropbox-connector-for-deep-research-for-plusproteam)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 1
 <!-- chronolog:end -->

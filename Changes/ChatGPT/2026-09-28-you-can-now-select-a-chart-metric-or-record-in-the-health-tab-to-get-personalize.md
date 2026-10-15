@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 7fdd41f92b13878438ba6f3e3c64e38981c90c96ed3e7ff67ce12c97d7ad6d21
+machine_hash: 90d6af83e9a6577a2d9a13c5c4fdecb7e6325b92b47c88ef657937d0e12543dd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: You can now select a chart, metric, or record in the Health tab to get
       personalized explanations and insights based on your connected health information.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#explore-your-health-data-with-personalized-summaries
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -57,7 +57,7 @@ ChatGPT — Explore your health data with personalized summaries: You can now se
 <!-- chronolog:begin region="evidence" -->
 > You can now select a chart, metric, or record in the Health tab to get personalized explanations and insights based on your connected health information.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#explore-your-health-data-with-personalized-summaries
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

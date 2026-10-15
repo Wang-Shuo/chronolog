@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: f6965c924c78b7838c2d7012f83a4af57d9a7048ee44d1551aae3997458f3a99
+machine_hash: 1f75c144f4a12c01cbcefef55ab1a0e295e0703a038f95e6112c5441dceb40a0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       to ChatGPT free users too. With the same improvements available to paid users,
       ChatGPT sounds more natural and expressive, and can translate more effectively.
       Rate limits for free users stay the same.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-advanced-voice-mode-for-free-tier-users
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -63,7 +63,7 @@ ChatGPT — Updates to Advanced Voice Mode for Free tier users: The Advanced Voi
 <!-- chronolog:begin region="evidence" -->
 > The Advanced Voice upgrades we announced on June 7th are now rolling out to ChatGPT free users too. With the same improvements available to paid users, ChatGPT sounds more natural and expressive, and can translate more effectively. Rate limits for free users stay the same.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-advanced-voice-mode-for-free-tier-users
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

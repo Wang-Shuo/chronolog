@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: b4b6d1064d67c69a554935b0ec9473056d2e4065cdd38d46847e464c84780bb4
+machine_hash: 31fb52a9196369acaeb7759b18d8ad5311beccb6b3f2bf70783af26fff3859c0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,7 +43,7 @@ record:
       something new from them. You can also select a folder and ask ChatGPT to work
       across the files it contains. Your content stays connected to their original
       source, so it’s easy to return to the original.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#box-dropbox-and-sharepoint-are-now-in-library
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -76,7 +76,7 @@ ChatGPT — Box, Dropbox, and SharePoint are now in Library: Box, Dropbox, and S
 <!-- chronolog:begin region="evidence" -->
 > Box, Dropbox, and SharePoint now join Google Drive in ChatGPT Library. Once connected, you can browse and search available files and folders, then add the files you need to a conversation through Add from Library or @mentions—without uploading them again. You can review supported file previews beside the conversation and follow citations back to the source as you work.When you’re working with a file, you can now keep Box, Dropbox, and SharePoint files open beside the conversation while asking ChatGPT to summarize, analyze, compare, or create something new from them. You can also select a folder and ask ChatGPT to work across the files it contains. Your content stays connected to their original source, so it’s easy to return to the original.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#box-dropbox-and-sharepoint-are-now-in-library
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

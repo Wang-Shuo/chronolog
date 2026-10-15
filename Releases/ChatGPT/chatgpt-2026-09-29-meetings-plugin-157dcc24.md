@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2026-09-29'
-machine_hash: 613e4d7ae02ecba3fbc14f1b29ced449203308e366523db19315ab0839623a28
+machine_hash: fd32bc73192b4e3cf45404ad7509b3ab90033858400df0035f8cb09587312d69
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -15,13 +15,13 @@ record:
     in ChatGPT Space. You can keep them private or share them with your team, then
     ask ChatGPT to…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#meetings-plugin
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Meetings plugin
   version: Meetings plugin
 release_id: chatgpt-2026-09-29-meetings-plugin-157dcc24
 source_release: Meetings plugin
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#meetings-plugin
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Meetings plugin
 <!-- chronolog:begin region="summary" -->
 We’re making it easier to bring meeting context into ChatGPT so you can act on next steps faster. The Meetings plugin takes notes for you based on what’s said in the meeting and saves personalized summaries with action items in ChatGPT Space. You can keep them private or share them with your team, then ask ChatGPT to…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#meetings-plugin)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 2
 <!-- chronolog:end -->

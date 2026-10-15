@@ -1,8 +1,8 @@
 ---
 created: '2023-04-16'
-date: '2026-10-07'
-machine_hash: ea66356e3a5e2609c6707d85fed05b4b0d6d62e8181a85733f5b501be1f25fe4
-modified: '2026-10-07'
+date: '2026-10-13'
+machine_hash: f208779eacca8dd7456488d9bba0ce4a7b12ffc4bc2b513f70fac2ed94b609fc
+modified: '2026-10-13'
 products_involved:
 - ChatGPT
 - Claude Code
@@ -29,6 +29,7 @@ Scope: tracked-products-only. Entries show same-theme chronology; they do not es
 
 ### 2026
 
+- 2026-10-13 · Cursor: [[Changes/Cursor/2026-10-13-origin-now-integrates-with-over-20-apps-for-deployments-ci-code-review-security|Origin now integrates with over 20 apps for deployments, CI, code review, securi]]
 - 2026-10-07 · Claude Code: [[Changes/Claude Code/2026-10-07-fixed-claude-agents-offering-bypass-permissions-that-background-sessions-then-ig|Fixed claude agents offering bypass permissions that background sessions then]]
 - 2026-10-07 · Claude Code: [[Changes/Claude Code/2026-10-07-fixed-claude-being-told-to-continue-or-message-subagents-with-sendmessage-in-ses|Fixed Claude being told to continue or message subagents with SendMessage in s]]
 - 2026-10-06 · Claude Code: [[Changes/Claude Code/2026-10-06-fixed-a-regression-in-2-1-290-where-cloud-sessions-could-drop-answers-to-permiss|Fixed a regression in 2.1.290 where cloud sessions could drop answers to permiss]]
@@ -188,5 +189,5 @@ Scope: tracked-products-only. Entries show same-theme chronology; they do not es
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-Active changes: 146. Use the dated links above to inspect each card.
+Active changes: 147. Use the dated links above to inspect each card.
 <!-- chronolog:end -->

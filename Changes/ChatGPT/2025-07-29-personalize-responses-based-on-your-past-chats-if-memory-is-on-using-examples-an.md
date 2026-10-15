@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: efb09a1e91d1db5ae2970d96a7485e4b8011d284e4ba86bbc72fe52c04a3369e
+machine_hash: 2ddbcb2536b01dde58ffe5681eb2c64f942f76596b5795edd6df551d7e6b6fe2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Personalize responses based on your past chats if memory is on, using examples
       and tips tailored to you.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#study-mode
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -58,7 +58,7 @@ ChatGPT — Study Mode: Personalize responses based on your past chats if memory
 <!-- chronolog:begin region="evidence" -->
 > Personalize responses based on your past chats if memory is on, using examples and tips tailored to you.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#study-mode
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

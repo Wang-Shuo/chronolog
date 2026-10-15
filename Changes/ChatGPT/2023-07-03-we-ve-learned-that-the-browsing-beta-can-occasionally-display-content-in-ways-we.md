@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: ac44cd78d45aa1a355545cd6f869a15686d69f344d1763979af72b00e3ba85ba
+machine_hash: e52383eb2d1450fd1875dbe5e3349f57fa58a13f2a9f221de461ad4c29cbaeea
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       ways we don't want, e.g. if a user specifically asks for a URL's full text,
       it may inadvertently fulfill this request. We are temporarily disabling Browse
       while we fix this.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-is-temporarily-disabled
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -62,7 +62,7 @@ ChatGPT — Browsing is temporarily disabled: We've learned that the browsing be
 <!-- chronolog:begin region="evidence" -->
 > We've learned that the browsing beta can occasionally display content in ways we don't want, e.g. if a user specifically asks for a URL's full text, it may inadvertently fulfill this request. We are temporarily disabling Browse while we fix this.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-is-temporarily-disabled
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

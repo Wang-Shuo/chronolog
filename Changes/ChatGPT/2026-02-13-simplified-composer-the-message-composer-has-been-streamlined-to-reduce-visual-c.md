@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 2bb3e89bfdf8f69930e64c40e22de5341f8419224b57e7fd4333786b695228df
+machine_hash: 0c04c54f7c0e6e1d720e8229e5a4e1ef340d12308faef6b1d34ad18da956bf4c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: Simplified composer. The message composer has been streamlined to reduce
       visual complexity and make it easier to focus on your message.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-updates-better-file-uploads-easier-copying-and-more-reliable-long-chats
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -60,7 +60,7 @@ ChatGPT — ChatGPT updates: Better file uploads, easier copying, and more relia
 <!-- chronolog:begin region="evidence" -->
 > Simplified composer. The message composer has been streamlined to reduce visual complexity and make it easier to focus on your message.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-updates-better-file-uploads-easier-copying-and-more-reliable-long-chats
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

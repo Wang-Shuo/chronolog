@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: af84f2c71524f13c8ceaae2523fc714e77d652f6c7126d52498a193a044fb2ca
+machine_hash: 5a25fccfb125bc9a168ed0f255abf456f8d518fd0bb3dc8e91a0b85cb5ad8cf6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       here.In addition to the beta panel, users can now choose to continue generating
       a message beyond the maximum token limit. Each continuation counts towards the
       message allowance.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#web-browsing-and-plugins-are-now-rolling-out-in-beta
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -62,7 +62,7 @@ ChatGPT — Web browsing and Plugins are now rolling out in beta: For more infor
 <!-- chronolog:begin region="evidence" -->
 > For more information on our rollout process, please check out the article here.In addition to the beta panel, users can now choose to continue generating a message beyond the maximum token limit. Each continuation counts towards the message allowance.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#web-browsing-and-plugins-are-now-rolling-out-in-beta
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

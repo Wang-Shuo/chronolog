@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 49236f1f2894dd639eb4e52882b3a6852410a9b2a0271e806af61346fb6abaa0
+machine_hash: c2ed0b0cd0d59a351934828846abea7c1e0a9869edbeeb430305b537019c4ecc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       once or recur no more than once per day using flexible scheduling windows. Free
       and Go users cannot create webhook-triggered tasks.For more information, see:
       Scheduled tasks in ChatGPT.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-can-respond-to-app-updates-and-be-shared
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -63,7 +63,7 @@ ChatGPT — Scheduled tasks can respond to app updates and be shared: Free users
 <!-- chronolog:begin region="evidence" -->
 > Free users can create up to three active scheduled tasks. Tasks can run once or recur no more than once per day using flexible scheduling windows. Free and Go users cannot create webhook-triggered tasks.For more information, see: Scheduled tasks in ChatGPT.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-can-respond-to-app-updates-and-be-shared
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

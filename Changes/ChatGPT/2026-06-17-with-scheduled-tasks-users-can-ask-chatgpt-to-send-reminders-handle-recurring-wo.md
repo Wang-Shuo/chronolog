@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: bf916f996087fa9d11c6903ac7f8e5b082e3354b1cd3e715386df4e2dcaeaf22
+machine_hash: 3a3a8afcb19ba41493455dcb3c80d40946d9b516530d7a6cf2f264a3f775650b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: With scheduled tasks, users can ask ChatGPT to send reminders, handle recurring
       work, or monitor things for them. This update makes tasks easier to find and
       manage, faster and more reliable, with more useful notifications.What’s changing
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -69,7 +69,7 @@ ChatGPT — Scheduled tasks in ChatGPT: With scheduled tasks, users can ask Chat
 <!-- chronolog:begin region="evidence" -->
 > With scheduled tasks, users can ask ChatGPT to send reminders, handle recurring work, or monitor things for them. This update makes tasks easier to find and manage, faster and more reliable, with more useful notifications.What’s changing
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

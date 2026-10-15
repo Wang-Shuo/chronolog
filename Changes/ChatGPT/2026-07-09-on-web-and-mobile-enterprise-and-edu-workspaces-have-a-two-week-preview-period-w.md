@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: db46d23ba3d4253924afc89b732c772dd808f45caaf623075aef91dbef0a580d
+machine_hash: ab6c79144ceea4919ec92856d8021f6a890eb10b1a4f046e6a51b0f186d9d3e3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: On web and mobile, Enterprise and Edu workspaces have a two-week preview
       period. Work is off by default during the preview, and admins can opt out before
       it turns on automatically at the end of the preview.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-work
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -70,7 +70,7 @@ ChatGPT — Introducing ChatGPT Work: On web and mobile, Enterprise and Edu work
 <!-- chronolog:begin region="evidence" -->
 > On web and mobile, Enterprise and Edu workspaces have a two-week preview period. Work is off by default during the preview, and admins can opt out before it turns on automatically at the end of the preview.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-work
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: c55516f95f9e1228ed397b169622ae14d5cb9d185e3f78e93d39dec36d6c0d29
+machine_hash: bf0be6dcfa8ae106833d628ca25c1401c80b3dda9ae2284a01afc990d4f97094
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,7 +38,7 @@ record:
       available, test migrated plugins and review sharing. Timing and availability
       may vary by plan and workspace; follow applicable notices and learn more about
       the planned retirement.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#planned-custom-gpt-retirement-and-migration-to-plugins
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -79,7 +79,7 @@ ChatGPT — Planned custom GPT retirement and migration to plugins: We’re plan
 <!-- chronolog:begin region="evidence" -->
 > We’re planning to retire custom GPTs across ChatGPT plans and provide a migration path to plugins, which can combine reusable instructions with connected apps. You can continue using existing GPTs until the retirement date that applies to you, subject to your permissions.To prepare, review the GPTs you rely on and identify their creators and anyone who needs access. When migration becomes available, test migrated plugins and review sharing. Timing and availability may vary by plan and workspace; follow applicable notices and learn more about the planned retirement.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#planned-custom-gpt-retirement-and-migration-to-plugins
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

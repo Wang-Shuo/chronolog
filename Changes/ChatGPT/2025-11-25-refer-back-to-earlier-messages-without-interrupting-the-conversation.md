@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: dbc6109a47c55b8cf4747ecc4020137ebdbcf1757df2591ab21b1ba8ee099631
+machine_hash: 128d143731f05d0c4363c39d3aef67aacd712e1125c77e7c3303906357a1f7a7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
     the conversation'
   evidence:
   - quote: Refer back to earlier messages without interrupting the conversation
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#an-improved-voice-interface-the-audio-you-know-with-text-and-visuals-when-you-need-them
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -58,7 +58,7 @@ ChatGPT — An improved Voice interface: the audio you know, with text and visua
 <!-- chronolog:begin region="evidence" -->
 > Refer back to earlier messages without interrupting the conversation
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#an-improved-voice-interface-the-audio-you-know-with-text-and-visuals-when-you-need-them
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

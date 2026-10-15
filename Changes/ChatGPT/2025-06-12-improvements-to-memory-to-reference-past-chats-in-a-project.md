@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 8225c4a652e3d5761f02ff669d71ef737357c22bc67f1f8014ec64188cd6c24e
+machine_hash: b3c62255b609e119726ce2af84041059858bc6262dd89fdd7f9e9b7816d7d414
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,7 +24,7 @@ record:
     to reference past chats in a project*'
   evidence:
   - quote: Improvements to memory to reference past chats in a project*
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#adding-more-capabilities-to-projects
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -55,7 +55,7 @@ ChatGPT — Adding More Capabilities to Projects: Improvements to memory to refe
 <!-- chronolog:begin region="evidence" -->
 > Improvements to memory to reference past chats in a project*
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#adding-more-capabilities-to-projects
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

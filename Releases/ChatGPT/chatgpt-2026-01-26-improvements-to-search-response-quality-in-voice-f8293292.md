@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-01-26'
-machine_hash: 66ea2674ce431c0c870f00d4d142a067edea059501fefe98288fd0d2a19976c6
+machine_hash: efd11c89e040fe35587cbf27f6b66ca583d56654478facff819fd9a21f272ba4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -12,13 +12,13 @@ record:
   source_summary: We’ve improved search responses in ChatGPT Voice to deliver more
     complete, up-to-date answers, including better access to shopping results.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-search-response-quality-in-voice
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Improvements to search response quality in Voice
   version: Improvements to search response quality in Voice
 release_id: chatgpt-2026-01-26-improvements-to-search-response-quality-in-voice-f8293292
 source_release: Improvements to search response quality in Voice
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-search-response-quality-in-voice
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -32,7 +32,7 @@ version: Improvements to search response quality in Voice
 <!-- chronolog:begin region="summary" -->
 We’ve improved search responses in ChatGPT Voice to deliver more complete, up-to-date answers, including better access to shopping results.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-search-response-quality-in-voice)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 1
 <!-- chronolog:end -->

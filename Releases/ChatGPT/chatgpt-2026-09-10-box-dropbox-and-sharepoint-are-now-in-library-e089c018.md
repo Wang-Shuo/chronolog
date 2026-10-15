@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2026-09-10'
-machine_hash: 35936a288e39c23d52768320ba025c809a2c31b751596c7e8014ec47430e244c
+machine_hash: dab61b8253b5b75b6a0dd416bcc188b32b8fb44a113a55275982257c94d9bd99
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -14,13 +14,13 @@ record:
     the files you need to a conversation through Add from Library or @mentions—without
     uploading them again. You can review supported file previews beside the conversation…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#box-dropbox-and-sharepoint-are-now-in-library
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Box, Dropbox, and SharePoint are now in Library
   version: Box, Dropbox, and SharePoint are now in Library
 release_id: chatgpt-2026-09-10-box-dropbox-and-sharepoint-are-now-in-library-e089c018
 source_release: Box, Dropbox, and SharePoint are now in Library
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#box-dropbox-and-sharepoint-are-now-in-library
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Box, Dropbox, and SharePoint are now in Library
 <!-- chronolog:begin region="summary" -->
 Box, Dropbox, and SharePoint now join Google Drive in ChatGPT Library. Once connected, you can browse and search available files and folders, then add the files you need to a conversation through Add from Library or @mentions—without uploading them again. You can review supported file previews beside the conversation…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#box-dropbox-and-sharepoint-are-now-in-library)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 2
 <!-- chronolog:end -->

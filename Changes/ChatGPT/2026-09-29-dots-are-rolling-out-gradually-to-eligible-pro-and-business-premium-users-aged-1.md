@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 230cf5b5de3cc4959c5e12bc2765274970a0584a480a34fe03311aa64d1ede1b
+machine_hash: 3ab2886bdf117c39d702a9f429ec2a96d005c326c7cc5ef88402a85ca03d5b71
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       aged 18 and older in supported markets. Pro access excludes the European Economic
       Area, Switzerland, and the UK at launch. Enterprise access is a beta and is
       off by default. Create your dot in the ChatGPT desktop app or on desktop web.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#meet-your-dot
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -73,7 +73,7 @@ ChatGPT — Meet your dot: Dots are rolling out gradually to eligible Pro and Bu
 <!-- chronolog:begin region="evidence" -->
 > Dots are rolling out gradually to eligible Pro and Business Premium users aged 18 and older in supported markets. Pro access excludes the European Economic Area, Switzerland, and the UK at launch. Enterprise access is a beta and is off by default. Create your dot in the ChatGPT desktop app or on desktop web.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#meet-your-dot
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

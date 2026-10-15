@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 6c7dd2d497a330f123f6e415319fff7c16a300cc30703fe24d830f21cde35041
+machine_hash: ea3e8acc950350cb64743b872653915c89eac25453519335d64f25a8d077f913
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -36,7 +36,7 @@ record:
       model picker.Compared with GPT-5 Instant Mini, GPT-5.3 Instant Mini feels more
       natural in conversation, with stronger writing and contextual awareness throughout
       chats. It outperforms GPT-5 Instant Mini across a range of use cases.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-53-instant-mini-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -79,7 +79,7 @@ ChatGPT — GPT-5.3 Instant mini in ChatGPT: Today, we’re releasing GPT-5.3 In
 <!-- chronolog:begin region="evidence" -->
 > Today, we’re releasing GPT-5.3 Instant Mini in ChatGPT. It replaces GPT-5 Instant Mini as the fallback model users reach after hitting their rate limits for GPT-5.3 Instant. Because it serves as a fallback, it won’t appear in the model picker.Compared with GPT-5 Instant Mini, GPT-5.3 Instant Mini feels more natural in conversation, with stronger writing and contextual awareness throughout chats. It outperforms GPT-5 Instant Mini across a range of use cases.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-53-instant-mini-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

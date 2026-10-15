@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 399d2661c0ff94afa2db6d362a684612b2801962a6f4be8506439ec2cdd6db16
+machine_hash: 26c57db9f6d3a467f58d8bd5627e741b94ca2b660e51e2bb0a3d77f4fcfd1ff5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Find folders, files, and past conversations faster. Search now includes
       folders and matches conversation titles across web, iOS, and Android. On the
       web, you can also search within Library to find your saved files.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -69,7 +69,7 @@ ChatGPT — ChatGPT app experience updates: Find folders, files, and past conver
 <!-- chronolog:begin region="evidence" -->
 > Find folders, files, and past conversations faster. Search now includes folders and matches conversation titles across web, iOS, and Android. On the web, you can also search within Library to find your saved files.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

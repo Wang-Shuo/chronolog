@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 251d2e6c86bfd9e14f1b32687e5b3d60f09131d230a9277a1d57a6629d6f8f72
+machine_hash: 8ef20bcc5b00e144389e001b3952fd026f744e7bc98b934e41c9cbbb6a3fa0fa
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       Pro users. It brings together information about chat privacy, memory, personalization,
       data use, connected apps, and account security, with links to the settings that
       manage them. Your privacy controls remain in ChatGPT Settings.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#privacy-center-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -83,7 +83,7 @@ ChatGPT — Privacy Center in ChatGPT: Privacy Center is rolling out to signed-i
 <!-- chronolog:begin region="evidence" -->
 > Privacy Center is rolling out to signed-in ChatGPT Free, Go, Plus, and Pro users. It brings together information about chat privacy, memory, personalization, data use, connected apps, and account security, with links to the settings that manage them. Your privacy controls remain in ChatGPT Settings.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#privacy-center-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

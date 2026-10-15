@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 85e18209c4b227b5eb638eed35cac18f1e2ba06ecc9f477cdd868940cdc6e740
+machine_hash: e027e962dba94040b5eaabc908c4fe49b1cf1d69ecd32fa9bd78a4222cf09616
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: 'Enterprise and Edu users can also now choose from the full set of ChatGPT
       models (GPT-4o, o3, o4-mini and more) when building Custom GPTs. This was launched
       to Plus, Pro and Team users earlier this month.Key details:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#expanded-model-support-for-custom-gpts
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -75,7 +75,7 @@ ChatGPT — Expanded Model Support for Custom GPTs: Enterprise and Edu users can
 <!-- chronolog:begin region="evidence" -->
 > Enterprise and Edu users can also now choose from the full set of ChatGPT models (GPT-4o, o3, o4-mini and more) when building Custom GPTs. This was launched to Plus, Pro and Team users earlier this month.Key details:
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#expanded-model-support-for-custom-gpts
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

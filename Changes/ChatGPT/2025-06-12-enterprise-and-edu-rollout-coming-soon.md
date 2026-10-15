@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 81e0aba76a6214aece5ab5112c3f10365f1305317060e310b530e067250ce8a3
+machine_hash: 32583f056ee8324ff5f9135ebd668af05a541d67391f437a5a5ba4a1f4b650dc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,7 +24,7 @@ record:
     rollout coming soon.'
   evidence:
   - quote: Enterprise and Edu rollout coming soon.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#expanded-model-support-for-custom-gpts
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -51,7 +51,7 @@ ChatGPT — Expanded Model Support for Custom GPTs: Enterprise and Edu rollout c
 <!-- chronolog:begin region="evidence" -->
 > Enterprise and Edu rollout coming soon.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#expanded-model-support-for-custom-gpts
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

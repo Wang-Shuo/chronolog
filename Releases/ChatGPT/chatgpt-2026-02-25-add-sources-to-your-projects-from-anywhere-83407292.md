@@ -1,7 +1,7 @@
 ---
 changes_count: 4
 date: '2026-02-25'
-machine_hash: cb26e8cebd9cefc82e7f6db5b4904e7e79e41c4c4a7a19dacb14da3ffdb57ab1
+machine_hash: 30cb9a87ef0caa4adb531d897bce9af3d791c518eb6820db58dca3ae3201b37f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -13,13 +13,13 @@ record:
     sources wherever your context already lives; from apps, conversations, or quick
     text inputs.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#add-sources-to-your-projects-from-anywhere
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Add sources to your projects from anywhere
   version: Add sources to your projects from anywhere
 release_id: chatgpt-2026-02-25-add-sources-to-your-projects-from-anywhere-83407292
 source_release: Add sources to your projects from anywhere
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#add-sources-to-your-projects-from-anywhere
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -33,7 +33,7 @@ version: Add sources to your projects from anywhere
 <!-- chronolog:begin region="summary" -->
 Projects now make it easy to build a living knowledge base by adding sources wherever your context already lives; from apps, conversations, or quick text inputs.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#add-sources-to-your-projects-from-anywhere)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 4
 <!-- chronolog:end -->

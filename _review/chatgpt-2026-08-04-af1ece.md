@@ -1,6 +1,6 @@
 ---
 draft: true
-machine_hash: b6869465e057bacd13705cb833c37fdf0a8078f7cd1391fbc68fae1286d1f942
+machine_hash: 6bf5845230318c877a1a1aab6143b20956aa5832452c124c7e8700cc53914aa5
 product: chatgpt
 record:
   card_id: chatgpt-2026-08-04-af1ece
@@ -12,7 +12,7 @@ record:
   evidence:
   - quote: You can still move the content back into the message at any time by clicking
       on Show in text field to convert the attachment back to a direct paste.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#large-pastes-are-now-handled-as-attachments-for-all-plans
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt

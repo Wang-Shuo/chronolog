@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-02-10'
-machine_hash: 5e0eaa3ff6dc83b2161d511d6d8be4dbc47f2c195a99e63baf6da5b24abb8741
+machine_hash: 24ee5520d25b21eaffecc3d71ff0311bf3572597094658749230e9c6bec4f7e4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -15,13 +15,13 @@ record:
     sources. A redesigned sidebar entry point and fullscreen report view make it easier
     to…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-deep-research
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Updates to deep research
   version: Updates to deep research
 release_id: chatgpt-2026-02-10-updates-to-deep-research-d407d051
 source_release: Updates to deep research
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-deep-research
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Updates to deep research
 <!-- chronolog:begin region="summary" -->
 We’re introducing improvements to deep research in ChatGPT to help produce more accurate, credible reports with greater control. You can now focus research on specific websites and a larger collection of connected apps as trusted sources. A redesigned sidebar entry point and fullscreen report view make it easier to…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-deep-research)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 1
 <!-- chronolog:end -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: bb68b2a1e6f9a467a1232047d7d6650865126e3e662e6060d8ff30689c725433
+machine_hash: 0fbf6a6afabede85d54811898a0cc30605a767c48a47fe6a880374c8492901ab
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       work and keep making progress between conversations. Give your dot a goal, connect
       the apps it needs, and define what it can do on its own. Powered by GPT-6 Astra,
       your dot has its own cloud computer and can bring results back for your review.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#meet-your-dot
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -73,7 +73,7 @@ ChatGPT — Meet your dot: We’re introducing dots: always-on agents in ChatGPT
 <!-- chronolog:begin region="evidence" -->
 > We’re introducing dots: always-on agents in ChatGPT that can take on ongoing work and keep making progress between conversations. Give your dot a goal, connect the apps it needs, and define what it can do on its own. Powered by GPT-6 Astra, your dot has its own cloud computer and can bring results back for your review.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#meet-your-dot
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

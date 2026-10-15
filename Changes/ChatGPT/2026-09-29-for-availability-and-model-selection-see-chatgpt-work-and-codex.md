@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 281abf048dc29ba381150a5ab8af739b82ee9a4d75bc11c353b392da8bc2c761
+machine_hash: 93b8248f2fc7b7afa8ab232ffd7e0ee6aece0f97992eaacb513a3c070e86c324
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
     and model selection, see: ChatGPT Work and Codex.'
   evidence:
   - quote: 'For availability and model selection, see: ChatGPT Work and Codex.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-61-sol-in-chatgpt-work-and-codex
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -57,7 +57,7 @@ ChatGPT — GPT-6.1 Sol in ChatGPT Work and Codex: For availability and model se
 <!-- chronolog:begin region="evidence" -->
 > For availability and model selection, see: ChatGPT Work and Codex.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-61-sol-in-chatgpt-work-and-codex
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

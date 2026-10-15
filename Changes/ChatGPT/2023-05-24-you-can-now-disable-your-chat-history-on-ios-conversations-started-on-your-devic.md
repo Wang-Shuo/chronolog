@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 65c06a12e3b0cc9c5e3f46e349562cc645c8ab7570b8dedb465fbcc293f6c2a4
+machine_hash: 5986066557b57c34cccf39b653ccf5cecf9ba279a3bb52bbc205ec5eaee6ccee
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
       won’t appear in your history on your other devices, and will only be stored
       for 30 days. Similar to the functionality on the web, this setting does not
       sync across browsers or devices. Learn more.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ios-app-available-in-more-countries-shared-links-in-alpha-bing-plugin-disable-history-on-ios
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -74,7 +74,7 @@ ChatGPT — iOS app available in more countries, shared links in alpha, Bing Plu
 <!-- chronolog:begin region="evidence" -->
 > You can now disable your chat history on iOS. Conversations started on your device when chat history is disabled won’t be used to improve our models, won’t appear in your history on your other devices, and will only be stored for 30 days. Similar to the functionality on the web, this setting does not sync across browsers or devices. Learn more.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ios-app-available-in-more-countries-shared-links-in-alpha-bing-plugin-disable-history-on-ios
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

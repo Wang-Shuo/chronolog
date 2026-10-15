@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: dbb0c71965c9e36f01317eac3a34a8746aabc1bb286ea5a57ea37fc186cc8af5
+machine_hash: 249fb9214951146809460d66693d6c0b884977ba2ef6ab1591a385234068b371
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -36,7 +36,7 @@ record:
       tone, relevance, and conversational flow. These are nuanced problems that don’t
       always show up in benchmarks, but shape whether ChatGPT feels helpful or frustrating.
       GPT‑5.3 Instant directly reflects user feedback in these areas.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-53-instant-update
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -67,7 +67,7 @@ ChatGPT — GPT-5.3 Instant Update: GPT‑5.3 Instant delivers more accurate ans
 <!-- chronolog:begin region="evidence" -->
 > GPT‑5.3 Instant delivers more accurate answers, richer and better-contextualized results when searching the web, and reduces unnecessary dead ends, caveats, and overly declarative phrasing that can interrupt the flow of conversation.This update focuses on the parts of the ChatGPT experience people feel every day: tone, relevance, and conversational flow. These are nuanced problems that don’t always show up in benchmarks, but shape whether ChatGPT feels helpful or frustrating. GPT‑5.3 Instant directly reflects user feedback in these areas.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-53-instant-update
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

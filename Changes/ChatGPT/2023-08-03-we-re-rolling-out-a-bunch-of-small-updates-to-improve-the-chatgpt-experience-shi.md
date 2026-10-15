@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 960624527b4de30c213a0230117d76a1bfe97fd0949d34d08bd590a1e401ed59
+machine_hash: 5c85738a3a9489cfe6c44966ca7082cb04db0936dd10c6896cf55501cd0909b4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,7 +49,7 @@ record:
       you’ll be greeted with a much more welcoming page.6⁠. Keyboard shortcuts: Work
       faster with shortcuts, like ⌘ (Ctrl) + Shift + ; to copy last code block. Try
       ⌘ (Ctrl) + / to see the complete list.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -93,7 +93,7 @@ ChatGPT — Updates to ChatGPT: We’re rolling out a bunch of small updates to 
 <!-- chronolog:begin region="evidence" -->
 > We’re rolling out a bunch of small updates to improve the ChatGPT experience. Shipping over the next week:1⁠. Prompt examples: A blank page can be intimidating. At the beginning of a new chat, you’ll now see examples to help you get started.2⁠. Suggested replies: Go deeper with a click. ChatGPT now suggests relevant ways to continue your conversation.3⁠. GPT-4 by default, finally: When starting a new chat as a Plus user, ChatGPT will remember your previously selected model — no more defaulting back to GPT-3.5.4⁠. Upload multiple files: You can now ask ChatGPT to analyze data and generate insights across multiple files. This is available with the Code Interpreter beta for all Plus users.5⁠. Stay logged in: You’ll no longer be logged out every 2 weeks! When you do need to log in, you’ll be greeted with a much more welcoming page.6⁠. Keyboard shortcuts: Work faster with shortcuts, like ⌘ (Ctrl) + Shift + ; to copy last code block. Try ⌘ (Ctrl) + / to see the complete list.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

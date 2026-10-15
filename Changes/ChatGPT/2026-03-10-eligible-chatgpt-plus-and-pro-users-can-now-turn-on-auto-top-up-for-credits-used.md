@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: ec713d7bbb8b04bdd9e67c647bc6292507acb618206483d076c4e5c99af2024c
+machine_hash: c8d30aa5ec74e52479757d22b77c83d6c571306b3802d2c8b0260b8ce0d36ead
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       credit balance when it falls below the minimum balance you choose, using your
       default payment method on file to purchase only the amount needed to reach your
       target balance.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#auto-top-up-for-flexible-usage-credits
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -66,7 +66,7 @@ ChatGPT — Auto top-up for flexible usage credits: Eligible ChatGPT Plus and Pr
 <!-- chronolog:begin region="evidence" -->
 > Eligible ChatGPT Plus and Pro users can now turn on auto top-up for credits used with Codex and Sora. Auto top-up automatically replenishes your shared credit balance when it falls below the minimum balance you choose, using your default payment method on file to purchase only the amount needed to reach your target balance.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#auto-top-up-for-flexible-usage-credits
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 2a48325190b110f04052b0dd451d642a2fe10924327cc50296b353e41bf49259
+machine_hash: a3e209f390fc6af1b417678a5526ef505e2a18199314dbb3192b14ae1820416f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: We're rolling out a small update to image generation for ChatGPT Free tier
       users that makes its performance more efficient.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#image-generation-update-to-chatgpt-free
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -68,7 +68,7 @@ ChatGPT — Image generation update to ChatGPT Free: We're rolling out a small u
 <!-- chronolog:begin region="evidence" -->
 > We're rolling out a small update to image generation for ChatGPT Free tier users that makes its performance more efficient.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#image-generation-update-to-chatgpt-free
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

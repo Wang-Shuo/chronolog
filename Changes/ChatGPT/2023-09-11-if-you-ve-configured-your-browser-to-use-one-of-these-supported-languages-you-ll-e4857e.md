@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 7f78d2a8ff601564e8771604f55f11bbd87915def18036d5dc4c85285e901a11
+machine_hash: 28f7a640f21869cb40a8a38c578c198477b6dd48a87546377df40b8e44324bb0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
       You can deactivate this option at any time through the settings menu.This feature
       is in alpha, requires opting in, and currently can only be used on the web at
       chatgpt.com. Learn more here.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-language-support-alpha-on-web
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -65,7 +65,7 @@ ChatGPT — ChatGPT language support - Alpha on web: If you've configured your b
 <!-- chronolog:begin region="evidence" -->
 > If you've configured your browser to use one of these supported languages, you'll see a banner in ChatGPT that enables you to switch your language settings. You can deactivate this option at any time through the settings menu.This feature is in alpha, requires opting in, and currently can only be used on the web at chatgpt.com. Learn more here.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-language-support-alpha-on-web
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

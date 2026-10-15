@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 23e64f8b99bdefd34411fda5e662f678bfb22000197d78b74f96a05cadc62f13
+machine_hash: ed69ec8ed8760356b4b1ba5872cb8e2c9e0a73286b4c3377bfbec0c2ad8e1ab1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Manage access. Review who has access, change permissions, or remove access
       from the sharing dialog.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#share-files-and-folders-from-your-library
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -58,7 +58,7 @@ ChatGPT — Share files and folders from your Library: Manage access. Review who
 <!-- chronolog:begin region="evidence" -->
 > Manage access. Review who has access, change permissions, or remove access from the sharing dialog.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#share-files-and-folders-from-your-library
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

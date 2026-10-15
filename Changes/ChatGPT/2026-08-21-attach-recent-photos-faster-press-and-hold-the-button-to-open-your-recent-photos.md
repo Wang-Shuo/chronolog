@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 471030969a3759f15051d944cc4e32779817464ba387db36b778d5e6f057826d
+machine_hash: 5c9673569b1539354d6e3631b4558ee2e2903a0e033c997d4c502dbb4720b129
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: Attach recent photos faster. Press and hold the + button to open your recent
       photos, then choose one to add to your conversation.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt-on-ios
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -59,7 +59,7 @@ ChatGPT — Updates to ChatGPT on iOS: Attach recent photos faster. Press and ho
 <!-- chronolog:begin region="evidence" -->
 > Attach recent photos faster. Press and hold the + button to open your recent photos, then choose one to add to your conversation.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt-on-ios
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

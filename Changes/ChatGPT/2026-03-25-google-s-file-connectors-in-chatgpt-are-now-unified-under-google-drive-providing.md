@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 48f1f546365cd10de91781f4a12ba6325464a2ea4852d80b3e923a2a3737b7e1
+machine_hash: 7bce1f7b1c0d0113431adadbabb98f75eaa483ddc4e23cc7d96b1fc5bc7b1e32
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,7 +41,7 @@ record:
       to work as normal. You can also reconnect the Google Drive app to get the new
       actions - ChatGPT will switch over once you’ve done the reconnection.For Pro
       users, Google Drive sync behavior is unchanged. Read more.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#google-drive-app-unification
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -72,7 +72,7 @@ ChatGPT — Google Drive app unification: Google’s file connectors in ChatGPT 
 <!-- chronolog:begin region="evidence" -->
 > Google’s file connectors in ChatGPT are now unified under Google Drive, providing a single app experience for interacting with your Google Docs, Sheets and Slides on Google Drive.If you’re a new user, you can connect to the Google Drive app in ChatGPT to use Google Drive, Docs, Sheets, and Slides actions, removing the need to install and authenticate separate Google file apps. If you’ve already connected to the separate apps in the past, they will continue to work as normal. You can also reconnect the Google Drive app to get the new actions - ChatGPT will switch over once you’ve done the reconnection.For Pro users, Google Drive sync behavior is unchanged. Read more.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#google-drive-app-unification
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

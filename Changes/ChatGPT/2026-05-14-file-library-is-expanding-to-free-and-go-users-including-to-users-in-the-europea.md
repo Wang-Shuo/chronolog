@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 6ff3fad56dd4ff8f34e27725dc4818ee84dcb57f409de5826d8818c5da0a4717
+machine_hash: f4bc1f75b0745f25dd46e8341fe6ca56a6ac26a06829fba3ec7eae70d4f55f93
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,7 +38,7 @@ record:
       also introducing storage management across plans. Storage includes files you
       upload and files created in ChatGPT, including documents, spreadsheets, presentations,
       and images. Limits vary by plan:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#file-library-expands-to-free-and-go-users-with-storage-management
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -81,7 +81,7 @@ ChatGPT — File library expands to Free and Go users, with storage management: 
 <!-- chronolog:begin region="evidence" -->
 > File library is expanding to Free and Go users, including to users in the European Economic Area (EEA) making it easier to find, reuse, and build on files you upload or create in ChatGPT. You can add recent files from the composer, browse saved files in Library, and ask ChatGPT about files you’ve used before, like “What should I know about the document I uploaded yesterday?”We’re also introducing storage management across plans. Storage includes files you upload and files created in ChatGPT, including documents, spreadsheets, presentations, and images. Limits vary by plan:
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#file-library-expands-to-free-and-go-users-with-storage-management
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

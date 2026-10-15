@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: paradigm-shift
-machine_hash: 85f1f0dff9ac5baa67e8e9bbfbfa550c70e4c5160d4910c94294433acceef066
+machine_hash: 8bf52605919da3add47fc75a4bda27a1682971fcdc36d8854e038f901514593a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -59,7 +59,7 @@ record:
       your Slack workspace settings.Installing the app requires the connector to be
       enabled for your account.Visit the ChatGPT app for Slack page to get started
       with installation.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#slack-connector-and-app
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: paradigm-shift
   product: chatgpt
@@ -123,7 +123,7 @@ ChatGPT — Slack connector and app: We’re rolling out two new ways to bring S
 <!-- chronolog:begin region="evidence" -->
 > We’re rolling out two new ways to bring Slack and ChatGPT together: a connector that brings your Slack context into ChatGPT, and a ChatGPT app for Slack – an integration that enables you to chat with ChatGPT from inside Slack.With the ChatGPT app for Slack, you can chat one-on-one with ChatGPT in a dedicated Slack sidebar – a space to ask questions, summarize long threads into action items, draft replies, and search messages and files you already have access to. Chats you start in Slack also appear in your ChatGPT sidebar, so it’s easy to pick up later from web or mobile. Semantic search is supported for Slack customers with AI enabled on Business+ or Enterprise+ plans; all other plans use keyword search.With the ChatGPT connector for Slack, you can securely bring in context from your Slack channels and DMs, making responses more helpful. Available in chat, Deep Research, and Agent Mode. Users can enable from Settings > Apps & Connectors.Both app and connector are available to Plus, Pro, Business and Enterprise/Edu customers. Additionally, the ChatGPT app for Slack requires a paid Slack account; availability and workspace installation may depend on your Slack workspace settings.Installing the app requires the connector to be enabled for your account.Visit the ChatGPT app for Slack page to get started with installation.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#slack-connector-and-app
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

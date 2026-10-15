@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: b29eb2d53924203c39371041a1f0f9dcb96d4ff06ae437e2d836c4cdf81d1c87
+machine_hash: 2b836256c7fd75567ec840e38be6adf9c560a7e5f665b3f15d5e60d82f72eb47
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: Export visuals from Code Blocks. Flowcharts, diagrams, and data visualizations
       created in Code Blocks can now be exported as images for easy reuse.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-web-and-android-updates-edit-image-prompts-share-faster-and-smoother-conversations
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -62,7 +62,7 @@ ChatGPT — ChatGPT Web and Android updates: Edit image prompts, share faster, a
 <!-- chronolog:begin region="evidence" -->
 > Export visuals from Code Blocks. Flowcharts, diagrams, and data visualizations created in Code Blocks can now be exported as images for easy reuse.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-web-and-android-updates-edit-image-prompts-share-faster-and-smoother-conversations
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

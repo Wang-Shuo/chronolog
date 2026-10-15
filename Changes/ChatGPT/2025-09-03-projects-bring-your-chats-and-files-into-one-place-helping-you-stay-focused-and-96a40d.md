@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: d578aabb272b459a9b18247ecf650669c3dc1d55cf62d243414afd757d606af6
+machine_hash: ac0c490df419103b33664f44c2edb2a0ce74a15fffecfb53bbf552e706fde5af
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -37,7 +37,7 @@ record:
       up to 40 files per project.New customization options are available for all plans,
       including colors and icons, to help keep your projects organized.Learn more
       about projects in ChatGPT.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#projects-now-available-on-chatgpt-free-tier
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -68,7 +68,7 @@ ChatGPT — Projects Now Available on ChatGPT Free Tier: Projects bring your cha
 <!-- chronolog:begin region="evidence" -->
 > Projects bring your chats and files into one place, helping you stay focused and get things done. They’re now available on our Free tier, with up to 5 file uploads per project.We’ve also updated file uploads on paid tiers: Plus, Go, and Edu support up to 25 files per project. Pro, Business, and Enterprise support up to 40 files per project.New customization options are available for all plans, including colors and icons, to help keep your projects organized.Learn more about projects in ChatGPT.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#projects-now-available-on-chatgpt-free-tier
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 9d56551cf60077bd50a3897215c64f8cb18413ab2ec883666ea022cb36f3e3c9
+machine_hash: 87eb5afdaa6ae6a46011380d0174ba440b4de242bc2d641a6b54bafd8b076c5e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,7 +34,7 @@ record:
       of the images to see them in original dimensions and with the source attribution.These
       improvements are gradually rolling out globally across all ChatGPT plans, on
       web, iOS, and Android for responses using GPT 5.1.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-images-in-answers
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -77,7 +77,7 @@ ChatGPT — More images in answers: ChatGPT now adds more inline images from the
 <!-- chronolog:begin region="evidence" -->
 > ChatGPT now adds more inline images from the web to help you quickly understand topics like well-known people, places, and products. When visuals can add clarity, you’ll see images placed beside the relevant paragraph. You can click on any of the images to see them in original dimensions and with the source attribution.These improvements are gradually rolling out globally across all ChatGPT plans, on web, iOS, and Android for responses using GPT 5.1.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-images-in-answers
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

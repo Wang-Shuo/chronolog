@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: e726bce4945964d65f0e0180f5873d718c75e680ee3ae8b70eec9a1ca7bd471d
+machine_hash: 7b13c97ec126b3a5f14725f4e6360008da074c7e5b62944a75971f45aa02a00e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,7 +24,7 @@ record:
     Edu): Combines internal + web sources for synthesis'
   evidence:
   - quote: Combines internal + web sources for synthesis
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#connectors-in-beta-for-deep-research-plus-pro-team-enterprise-edu
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -57,7 +57,7 @@ ChatGPT — Connectors in beta for deep research (Plus, Pro, Team, Enterprise, E
 <!-- chronolog:begin region="evidence" -->
 > Combines internal + web sources for synthesis
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#connectors-in-beta-for-deep-research-plus-pro-team-enterprise-edu
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

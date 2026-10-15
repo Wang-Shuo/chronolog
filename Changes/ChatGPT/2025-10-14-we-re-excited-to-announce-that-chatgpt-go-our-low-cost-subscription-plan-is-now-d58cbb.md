@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 77be836c7eb58e8939deb28eb7700a0b2be0375d1c12ae7926ef0c1e1a33341f
+machine_hash: d976343ed9f3a745645473e2e08135380b9f4c92de831962c32e5b196b38c369
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       plan, is now available in 71 additional countries, bringing total coverage to
       89 countries.For an affordable price, ChatGPT Go provides everything included
       in the Free plan, and:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-expansion
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -62,7 +62,7 @@ ChatGPT — ChatGPT Go expansion: We're excited to announce that ChatGPT Go, our
 <!-- chronolog:begin region="evidence" -->
 > We're excited to announce that ChatGPT Go, our low cost subscription plan, is now available in 71 additional countries, bringing total coverage to 89 countries.For an affordable price, ChatGPT Go provides everything included in the Free plan, and:
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-expansion
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

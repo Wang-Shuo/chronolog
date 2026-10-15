@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 5617d47dfe06b2b508380e19283b3d865eca22bc24a8f9e887b434fdbb9f2cfd
+machine_hash: 25977a7af8544eed8cf5ac8a6ebc1c9d9b9e5ed5d5c0b6c58bae80710f0f54d6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: No tools are deprecated—access is simply consolidated to clear space and
       reduce on‑screen clutter.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#mobile-ui-iosandroid-changing-on-freepluspro-plans
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -60,7 +60,7 @@ ChatGPT — Mobile UI (iOS/Android) changing on Free/Plus/Pro plans: No tools ar
 <!-- chronolog:begin region="evidence" -->
 > No tools are deprecated—access is simply consolidated to clear space and reduce on‑screen clutter.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#mobile-ui-iosandroid-changing-on-freepluspro-plans
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

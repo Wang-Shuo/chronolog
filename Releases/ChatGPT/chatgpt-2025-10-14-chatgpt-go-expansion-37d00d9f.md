@@ -1,7 +1,7 @@
 ---
 changes_count: 4
 date: '2025-10-14'
-machine_hash: d9e5481bf1e00f2edaf152f1da95cb5ceeeebaa7e29e509b951f21ac1a7b30a6
+machine_hash: 6dc1452f866ac316e0f10baa001c6b96f2330ca8d3c9c7ada313eaca8f99037b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -14,13 +14,13 @@ record:
     89 countries.For an affordable price, ChatGPT Go provides everything included
     in the Free plan, and:'
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-expansion
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: ChatGPT Go expansion
   version: ChatGPT Go expansion
 release_id: chatgpt-2025-10-14-chatgpt-go-expansion-37d00d9f
 source_release: ChatGPT Go expansion
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-expansion
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: ChatGPT Go expansion
 <!-- chronolog:begin region="summary" -->
 We're excited to announce that ChatGPT Go, our low cost subscription plan, is now available in 71 additional countries, bringing total coverage to 89 countries.For an affordable price, ChatGPT Go provides everything included in the Free plan, and:
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-expansion)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 4
 <!-- chronolog:end -->

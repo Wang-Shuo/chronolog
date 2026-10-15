@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 4c0404ad4f46cafa4137a232686cc88c078fd4818029fab0aad80cde0312925c
+machine_hash: 5ae7970d57fd4199049bef8cbb59953c71be476a5dbc99e9300afa20820c1260
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
     in Canvas'
   evidence:
   - quote: Edit a full model response in Canvas
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#import-from-chat-into-canvas
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -67,7 +67,7 @@ ChatGPT — Import from Chat into Canvas: Edit a full model response in Canvas
 <!-- chronolog:begin region="evidence" -->
 > Edit a full model response in Canvas
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#import-from-chat-into-canvas
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

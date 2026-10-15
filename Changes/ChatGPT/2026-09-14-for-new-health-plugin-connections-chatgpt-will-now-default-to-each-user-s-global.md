@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 31728953bce99529afc1b0a7141e198c16143912f05da247f2bc62cae46ec627
+machine_hash: 04e2a6f5bcf418e673116d74522829f4f3937546575b2c781948c7ecca47b75b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   evidence:
   - quote: For new Health plugin connections, ChatGPT will now default to each user’s
       global plugins permissions setting.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updated-permissions-for-new-health-connections
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -61,7 +61,7 @@ ChatGPT — Updated permissions for new Health connections: For new Health plugi
 <!-- chronolog:begin region="evidence" -->
 > For new Health plugin connections, ChatGPT will now default to each user’s global plugins permissions setting.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updated-permissions-for-new-health-connections
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

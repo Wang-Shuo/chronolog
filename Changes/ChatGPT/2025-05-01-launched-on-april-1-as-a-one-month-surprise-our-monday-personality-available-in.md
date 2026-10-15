@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: e7b32eba23e10841dba124454b6fbb4200c839ce7f97552665b19a4773d59785
+machine_hash: 24e54d2be084125e0596e4e6e11c3629ee0af979629307ea0b9c43e6f4a6f509
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       in both voice and text) has now been sunset. We hope you enjoyed Monday's irreverent
       style, and we’re already working on new personalities for future use. Please
       stay tuned for what’s next!
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#sunsetting-monday-gpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -71,7 +71,7 @@ ChatGPT — Sunsetting Monday GPT: Launched on April 1 as a one-month surprise, 
 <!-- chronolog:begin region="evidence" -->
 > Launched on April 1 as a one-month surprise, our “Monday” personality (available in both voice and text) has now been sunset. We hope you enjoyed Monday's irreverent style, and we’re already working on new personalities for future use. Please stay tuned for what’s next!
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#sunsetting-monday-gpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

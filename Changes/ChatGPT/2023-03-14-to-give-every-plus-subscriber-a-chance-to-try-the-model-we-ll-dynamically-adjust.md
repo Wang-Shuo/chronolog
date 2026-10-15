@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 4214de416ebc5ab673ff1ce184a8795d925b3a98e02e02127e1f5870687005b9
+machine_hash: 821f5fa24921d1f0ddf3fde46701b85058580cb1d3b6dbf58b1cbf57fa6baf96
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
   - quote: To give every Plus subscriber a chance to try the model, we'll dynamically
       adjust the cap for GPT-4 usage based on demand. You can learn more about GPT-4
       here.For this release, there are no updates to free accounts.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#announcing-gpt-4-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -74,7 +74,7 @@ ChatGPT — Announcing GPT-4 in ChatGPT: To give every Plus subscriber a chance 
 <!-- chronolog:begin region="evidence" -->
 > To give every Plus subscriber a chance to try the model, we'll dynamically adjust the cap for GPT-4 usage based on demand. You can learn more about GPT-4 here.For this release, there are no updates to free accounts.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#announcing-gpt-4-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

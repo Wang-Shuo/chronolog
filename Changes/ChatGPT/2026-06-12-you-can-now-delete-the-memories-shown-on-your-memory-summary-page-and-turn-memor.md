@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 0453b02e212a1b5de7cb6b6b21702a52a39bd11df241d26b28586aa9dedd0098
+machine_hash: 7e0f0ee9bb6a98853da029503a9848359c5be3548c0fe61e4d4077c7a5815c43
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -36,7 +36,7 @@ record:
       ChatGPT may create new memories from chats that remain in your chat history.
       This control is available to all ChatGPT users on the web and rolling out on
       mobile soon.To make changes to your memory summary, you can:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#additional-controls-for-memory-summary
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -83,7 +83,7 @@ ChatGPT — Additional controls for memory summary: You can now delete the memor
 <!-- chronolog:begin region="evidence" -->
 > You can now delete the memories shown on your memory summary page and turn memory off by selecting “Delete and turn off memory” from the three-dot menu. This does not delete your past chats. If you turn memory back on later, ChatGPT may create new memories from chats that remain in your chat history. This control is available to all ChatGPT users on the web and rolling out on mobile soon.To make changes to your memory summary, you can:
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#additional-controls-for-memory-summary
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

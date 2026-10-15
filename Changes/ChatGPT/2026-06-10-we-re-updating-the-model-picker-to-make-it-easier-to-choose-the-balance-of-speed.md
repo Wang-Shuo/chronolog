@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 9ecd32b08f5dd48ec1592fe12bb2ba9f51d321121c8f299228372b2925ad7562
+machine_hash: 8d01850ba97dddcbaa7c9f471b81265e45537f36a23472680adf856daf821340
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
   - quote: 'We’re updating the model picker to make it easier to choose the balance
       of speed and reasoning effort that works best for your task.The model picker
       now has the following simplified options:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#simplified-controls-in-the-model-picker
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -77,7 +77,7 @@ ChatGPT — Simplified controls in the model picker: We’re updating the model 
 <!-- chronolog:begin region="evidence" -->
 > We’re updating the model picker to make it easier to choose the balance of speed and reasoning effort that works best for your task.The model picker now has the following simplified options:
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#simplified-controls-in-the-model-picker
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

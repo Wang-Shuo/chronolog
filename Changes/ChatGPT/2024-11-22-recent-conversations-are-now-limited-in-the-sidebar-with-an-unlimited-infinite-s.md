@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: f67ed2f7ad6e9ad884746f69a848dfa0ce3ff47a1853c818d489f1168b0818e2
+machine_hash: c43ba52359c4472c964ae13cb2feb8aa2fecf44516cb281650713ddd6c0af6bc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: Recent conversations are now limited in the sidebar, with an unlimited
       infinite scroll flyout for all conversations
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-chatgpt-web-experience
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -59,7 +59,7 @@ ChatGPT — Updates to the ChatGPT Web experience: Recent conversations are now 
 <!-- chronolog:begin region="evidence" -->
 > Recent conversations are now limited in the sidebar, with an unlimited infinite scroll flyout for all conversations
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-chatgpt-web-experience
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

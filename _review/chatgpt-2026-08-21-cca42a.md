@@ -1,6 +1,6 @@
 ---
 draft: true
-machine_hash: 13ebbbf46acd3dcae02f59fa17d78e145798e4680c2129c4e3f553c32712c91b
+machine_hash: 6a77179911982ca68d86019dac23e022b82c7162e7a2714f8fd11f233a160153
 product: chatgpt
 record:
   card_id: chatgpt-2026-08-21-cca42a
@@ -10,7 +10,7 @@ record:
     of your local time during a conversation.'
   evidence:
   - quote: ChatGPT now has a better sense of your local time during a conversation.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-time-aware-answers
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt

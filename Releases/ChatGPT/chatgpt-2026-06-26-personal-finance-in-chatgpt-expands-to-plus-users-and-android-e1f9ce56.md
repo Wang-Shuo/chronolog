@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-06-26'
-machine_hash: 4e5aae7a937fc086569d7d1edac7b53100d8091ccefc4cb6a557eaccc62d31b6
+machine_hash: e8acd894feaccb4e0a90fa05a7af514f8d177f57f699e6a9f5e0412e7005920f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -15,13 +15,13 @@ record:
     accounts, view a dashboard of their finances, and ask ChatGPT questions grounded
     in their…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#personal-finance-in-chatgpt-expands-to-plus-users-and-android
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Personal finance in ChatGPT expands to Plus users and Android
   version: Personal finance in ChatGPT expands to Plus users and Android
 release_id: chatgpt-2026-06-26-personal-finance-in-chatgpt-expands-to-plus-users-and-android-e1f9ce56
 source_release: Personal finance in ChatGPT expands to Plus users and Android
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#personal-finance-in-chatgpt-expands-to-plus-users-and-android
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Personal finance in ChatGPT expands to Plus users and Android
 <!-- chronolog:begin region="summary" -->
 The personal finance experience in ChatGPT is rolling out to Plus users in the U.S. on web and iOS. It is also now available on Android for Pro and Plus users in the U.S.Eligible users can securely connect supported financial accounts, view a dashboard of their finances, and ask ChatGPT questions grounded in their…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#personal-finance-in-chatgpt-expands-to-plus-users-and-android)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 1
 <!-- chronolog:end -->

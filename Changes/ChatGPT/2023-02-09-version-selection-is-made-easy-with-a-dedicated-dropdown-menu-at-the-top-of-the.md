@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 4fe6c5129acdf5e0d602ac3d6dd058209c24fd95fff20e5fec8d6ce527996e7c
+machine_hash: c6b4abe927baa7de12bf1fc133e9da32f06948cfa87752d715cf0cca91a0e560
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Version selection is made easy with a dedicated dropdown menu at the top
       of the page. Depending on feedback, we may roll out this feature (or just Turbo)
       to all users soon.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-plus
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -58,7 +58,7 @@ ChatGPT — Introducing ChatGPT Plus: Version selection is made easy with a dedi
 <!-- chronolog:begin region="evidence" -->
 > Version selection is made easy with a dedicated dropdown menu at the top of the page. Depending on feedback, we may roll out this feature (or just Turbo) to all users soon.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-plus
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

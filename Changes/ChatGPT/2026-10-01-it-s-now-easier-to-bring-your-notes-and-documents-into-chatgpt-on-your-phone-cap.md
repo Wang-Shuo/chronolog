@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 813213053f1426a16430b90e8d0742338f74687d20b07300c573d69c8a9f6498
+machine_hash: b5562f1d2807bd507d21c6176f418fce47eac272ce7e9d520d652357d5a1348d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: It’s now easier to bring your notes and documents into ChatGPT on your
       phone. Capture multiple pages in a row, and ChatGPT automatically combines them
       into a single PDF, ready to upload to your chat.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scan-notes-and-documents-more-easily-with-chatgpt-camera
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -61,7 +61,7 @@ ChatGPT — Scan notes and documents more easily with ChatGPT camera: It’s now
 <!-- chronolog:begin region="evidence" -->
 > It’s now easier to bring your notes and documents into ChatGPT on your phone. Capture multiple pages in a row, and ChatGPT automatically combines them into a single PDF, ready to upload to your chat.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scan-notes-and-documents-more-easily-with-chatgpt-camera
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

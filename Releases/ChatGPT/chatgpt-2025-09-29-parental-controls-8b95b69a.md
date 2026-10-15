@@ -1,7 +1,7 @@
 ---
 changes_count: 4
 date: '2025-09-29'
-machine_hash: 3d215383affd699e1c6833a331f9fb9f8ce14838ad982cb96278aca800bf39b2
+machine_hash: ef82077f86942f5c0a38e36ce2b47e311016193ad870aa155df11318e89d6bac
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -15,13 +15,13 @@ record:
     invite to their teen to connect accounts. After the teen accepts, the parent can
     manage the teen’s…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#parental-controls
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Parental Controls
   version: Parental Controls
 release_id: chatgpt-2025-09-29-parental-controls-8b95b69a
 source_release: Parental Controls
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#parental-controls
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Parental Controls
 <!-- chronolog:begin region="summary" -->
 We’re rolling out parental controls globally in ChatGPT to help families guide how ChatGPT works in their homes. Available starting on the web today, mobile soon.To set up parental controls, a parent or guardian sends an invite to their teen to connect accounts. After the teen accepts, the parent can manage the teen’s…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#parental-controls)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 4
 <!-- chronolog:end -->

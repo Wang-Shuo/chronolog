@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2023-09-25'
-machine_hash: cd6fe493a25ac2c9b153cb9066ecd637e83ae699839d47a24f504d2751f4fa04
+machine_hash: 86f0261d88692ba232d0aadafe99e46cf46c2cede76d08a39f89e0aba6c58632
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -14,13 +14,13 @@ record:
     have a voice conversation or show ChatGPT what you’re talking about. Learn more
     here.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-voice-and-image-capabilities-in-chatgpt
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: New voice and image capabilities in ChatGPT
   version: New voice and image capabilities in ChatGPT
 release_id: chatgpt-2023-09-25-new-voice-and-image-capabilities-in-chatgpt-e8c88ec7
 source_release: New voice and image capabilities in ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-voice-and-image-capabilities-in-chatgpt
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: New voice and image capabilities in ChatGPT
 <!-- chronolog:begin region="summary" -->
 We are beginning to roll out new voice and image capabilities in ChatGPT. They offer a new, more intuitive type of interface by allowing you to have a voice conversation or show ChatGPT what you’re talking about. Learn more here.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-voice-and-image-capabilities-in-chatgpt)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 3
 <!-- chronolog:end -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 863d6d96c996ed70dd41fd2c03d8b54d236556ef8869a270b84b6caf955406ad
+machine_hash: 65d73b31fc0f76a81aa1755dc59bf430ce729cff7d550e4be3e9453329e85080
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Pro users can now connect to Canva and Notion for both chat search and
       deep research.Note this feature is currently limited to users located outside
       of the EEA, Switzerland, and the UK.Learn more about connectors.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#canva-and-notion-connectors-pro
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -71,7 +71,7 @@ ChatGPT — Canva and Notion connectors (Pro): Pro users can now connect to Canv
 <!-- chronolog:begin region="evidence" -->
 > Pro users can now connect to Canva and Notion for both chat search and deep research.Note this feature is currently limited to users located outside of the EEA, Switzerland, and the UK.Learn more about connectors.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#canva-and-notion-connectors-pro
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

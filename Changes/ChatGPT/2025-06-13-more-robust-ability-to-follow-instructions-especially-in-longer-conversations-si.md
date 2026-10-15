@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 71226e635f736ce41dacc52f0e074fd38c0fd2b53e4bb1ce69af88a84b682a06
+machine_hash: a73837324597b0a25f75c8b3b8e5327c4fb812062d5b6e5afb5a7d4f41b438e8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: More robust ability to follow instructions, especially in longer conversations,
       significantly reducing repetitive responses.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-the-chatgpt-search-response-quality
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -59,7 +59,7 @@ ChatGPT — Improvements to the ChatGPT search response quality: More robust abi
 <!-- chronolog:begin region="evidence" -->
 > More robust ability to follow instructions, especially in longer conversations, significantly reducing repetitive responses.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-the-chatgpt-search-response-quality
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

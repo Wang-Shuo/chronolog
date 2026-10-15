@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: f2bc7575a7b876a04480ccd603246f5eeca07e2c35a4d9f1d801a2ec959b7168
+machine_hash: ba855e9a16a2b8c4bd45019e2fb1d12c23742c9c520a275f56196032bb34a4d3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: 'Supported connectors: Google Drive, SharePoint, Dropbox, Box, Outlook,
       Gmail, Google Calendar, Linear, GitHub, HubSpot, and Teams'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#connectors-in-beta-for-deep-research-plus-pro-team-enterprise-edu
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -69,7 +69,7 @@ ChatGPT — Connectors in beta for deep research (Plus, Pro, Team, Enterprise, E
 <!-- chronolog:begin region="evidence" -->
 > Supported connectors: Google Drive, SharePoint, Dropbox, Box, Outlook, Gmail, Google Calendar, Linear, GitHub, HubSpot, and Teams
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#connectors-in-beta-for-deep-research-plus-pro-team-enterprise-edu
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

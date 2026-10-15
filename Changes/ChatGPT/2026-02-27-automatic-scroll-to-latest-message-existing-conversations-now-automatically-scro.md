@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 8ee9a4584e95c1507089017b296deecfed35fe87219d0b1e23a3e6a33a0a58f2
+machine_hash: 08181f0ce1995f45c8776011343fb905279e5abb70b110a7bc1b17be6ac779fd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: Automatic scroll to latest message. Existing conversations now automatically
       scroll to the bottom, so you can jump right back in.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-web-and-android-updates-edit-image-prompts-share-faster-and-smoother-conversations
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -62,7 +62,7 @@ ChatGPT — ChatGPT Web and Android updates: Edit image prompts, share faster, a
 <!-- chronolog:begin region="evidence" -->
 > Automatic scroll to latest message. Existing conversations now automatically scroll to the bottom, so you can jump right back in.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-web-and-android-updates-edit-image-prompts-share-faster-and-smoother-conversations
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

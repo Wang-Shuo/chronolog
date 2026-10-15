@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 696e21229d6185e67c522dc4d14eedaf7f5df5aee921e1f098aae1a6db4108c0
+machine_hash: ae364934b0d1b91a5af893bd24f3bb83e9d529908b202f7de3a824dea41a19b9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: 'Conversation history: You’ll soon be able to view past conversations with
       ChatGPT, rename your saved conversations and delete the ones you don’t want
       to keep. We are gradually rolling out this feature.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#performance-updates-to-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -59,7 +59,7 @@ ChatGPT — Performance updates to ChatGPT: Conversation history: You’ll soon 
 <!-- chronolog:begin region="evidence" -->
 > Conversation history: You’ll soon be able to view past conversations with ChatGPT, rename your saved conversations and delete the ones you don’t want to keep. We are gradually rolling out this feature.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#performance-updates-to-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

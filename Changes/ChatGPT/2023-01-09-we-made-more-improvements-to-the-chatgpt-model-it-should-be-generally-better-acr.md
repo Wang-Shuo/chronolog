@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: d169821120078d4dd739655537070eb90e1d4a933778f9aff6c520b9f4648fa4
+machine_hash: c868510b703cc61a0d188ab5d497a59d1548554a26bebad210fc8b67be8b9d1f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   evidence:
   - quote: We made more improvements to the ChatGPT model! It should be generally
       better across a wide range of topics and has improved factuality.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -57,7 +57,7 @@ ChatGPT — Updates to ChatGPT: We made more improvements to the ChatGPT model! 
 <!-- chronolog:begin region="evidence" -->
 > We made more improvements to the ChatGPT model! It should be generally better across a wide range of topics and has improved factuality.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

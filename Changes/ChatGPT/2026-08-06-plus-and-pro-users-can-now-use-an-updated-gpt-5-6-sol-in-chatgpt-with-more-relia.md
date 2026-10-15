@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: d2f0dddafdc1dbca074c73bf51d8a01fa5c1d1bc92caada4f59ef3c8a5db232f
+machine_hash: c0fa9ee09997a369b7d7a2b1b0872f1e863d9af5ada00f307ca20edaa40f90b8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
   - quote: Plus and Pro users can now use an updated GPT‑5.6 Sol in ChatGPT with more
       reliable facts, more focused answers, and a new slider to choose how much thought
       ChatGPT puts into a response.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-gpt56-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -62,7 +62,7 @@ ChatGPT — Updates to GPT‑5.6 in ChatGPT: Plus and Pro users can now use an u
 <!-- chronolog:begin region="evidence" -->
 > Plus and Pro users can now use an updated GPT‑5.6 Sol in ChatGPT with more reliable facts, more focused answers, and a new slider to choose how much thought ChatGPT puts into a response.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-gpt56-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

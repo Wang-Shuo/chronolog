@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 999d6e34d7fbb65dd493d9fdb001aa4568c296e43992f607357d5d0b2d545b38
+machine_hash: c41c4ca69f63feb544d46859ff1cff9750d917fbfd352e42f57aef15dbd23853
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: 'General performance: Among other improvements, users will notice that
       ChatGPT is now less likely to refuse to answer questions.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#performance-updates-to-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -55,7 +55,7 @@ ChatGPT — Performance updates to ChatGPT: General performance: Among other imp
 <!-- chronolog:begin region="evidence" -->
 > General performance: Among other improvements, users will notice that ChatGPT is now less likely to refuse to answer questions.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#performance-updates-to-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

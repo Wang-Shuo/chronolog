@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 4ba39ad296dc25a9b77223a5f5a56ea7fbf8cf1f1a0a0880f1bc528cf4f6c4d0
+machine_hash: 8e8f3118099ebe326be5b6c14468a7991bcedda4a3bf39583c5ad7cac0e3450d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Voice is also available in Work on web and mobile. Ask it to create documents,
       presentations, and spreadsheets, use connected apps, or work in a browser. When
       you end a Voice call in Work, an unfinished task can continue in text.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-plugins-in-voice-and-get-work-done-by-speaking
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -80,7 +80,7 @@ ChatGPT — Use plugins in Voice and get work done by speaking: Voice is also av
 <!-- chronolog:begin region="evidence" -->
 > Voice is also available in Work on web and mobile. Ask it to create documents, presentations, and spreadsheets, use connected apps, or work in a browser. When you end a Voice call in Work, an unfinished task can continue in text.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-plugins-in-voice-and-get-work-done-by-speaking
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

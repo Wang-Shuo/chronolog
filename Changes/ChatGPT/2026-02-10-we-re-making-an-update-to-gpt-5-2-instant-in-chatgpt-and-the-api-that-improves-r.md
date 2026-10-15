@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 5293036ee412211b1b5814da93312dd20b9ca009e7ba561c7c1a664f1508fb16
+machine_hash: f988357b5db17423a6b7e17dfc59eee5af0f0354112629f440e3914953bbda83
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,7 +34,7 @@ record:
       and grounded in tone, in a way that’s more contextually appropriate to the conversation.
       The model also tends to output clearer, more relevant answers to advice-seeking
       and how-to questions, more reliably placing the most important info upfront.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-52-instant-update
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -69,7 +69,7 @@ ChatGPT — GPT-5.2 Instant Update: We’re making an update to GPT-5.2 Instant 
 <!-- chronolog:begin region="evidence" -->
 > We’re making an update to GPT-5.2 Instant in ChatGPT and the API that improves response style and quality.Users should notice responses that are more measured and grounded in tone, in a way that’s more contextually appropriate to the conversation. The model also tends to output clearer, more relevant answers to advice-seeking and how-to questions, more reliably placing the most important info upfront.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-52-instant-update
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

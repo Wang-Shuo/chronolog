@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: b8168a7c76b479f7eb873ca2b409fd939cdbe08b35108b8b4f5c3a1dea6a946c
+machine_hash: c02c0d6337a5cab5a4b50eff1e3e8455bada497bb32d61b199ceff8e8a5d37ae
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,7 +43,7 @@ record:
       you prefer ChatGPT to always generate personalized answers, you can turn Fast
       answers off anytime in Personalization settings.We’ll continue expanding Fast
       answers to more kinds of questions over time.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#fast-answers-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -93,7 +93,7 @@ ChatGPT — Fast answers in ChatGPT: Sometimes, you just want the right answer a
 <!-- chronolog:begin region="evidence" -->
 > Sometimes, you just want the right answer as quickly as possible. We’re rolling out Fast answers, a quicker way to get responses to common information-seeking questions in ChatGPT, like “Show me the Seven Wonders of the World” or “Which football team has the most super bowl titles?”When your question doesn’t require a personalized response and ChatGPT has a high-confidence answer ready, it can now respond faster while still providing a useful, in-depth answer. Fast answers do not reference your past chats or memory. Fast answers are available globally on web, iOS, and Android for logged in and logged out users across plans. If you prefer ChatGPT to always generate personalized answers, you can turn Fast answers off anytime in Personalization settings.We’ll continue expanding Fast answers to more kinds of questions over time.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#fast-answers-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 1c86cd5861976a496de32bae8efabb00f1649880f5833c608677f7f6d33ea2ad
+machine_hash: 442421c7524fbac15c16e01131f02ceaacb0e8ccfa9f6371dda81030c61da4ae
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   evidence:
   - quote: Data analysis improvements are available in our new flagship model, GPT-4o,
       for ChatGPT Plus, Team, and Enterprise users.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-data-analysis-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -80,7 +80,7 @@ ChatGPT — Improvements to data analysis in ChatGPT: Data analysis improvements
 <!-- chronolog:begin region="evidence" -->
 > Data analysis improvements are available in our new flagship model, GPT-4o, for ChatGPT Plus, Team, and Enterprise users.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-data-analysis-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

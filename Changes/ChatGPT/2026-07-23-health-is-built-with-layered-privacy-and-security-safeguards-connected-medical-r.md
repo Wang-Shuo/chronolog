@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: f28a2d5186d172935d5d417411cd30b221030ba3e0b51c3dd48977daf45395c9
+machine_hash: d6461c20b9f022159d82f9796e0d12884c71e43e6b9c15d39de19455027f99da
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Health is built with layered privacy and security safeguards. Connected
       medical records and Apple Health information, and conversations that use it,
       are not used to train our foundation models or target ads.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#health-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -70,7 +70,7 @@ ChatGPT — Health in ChatGPT: Health is built with layered privacy and security
 <!-- chronolog:begin region="evidence" -->
 > Health is built with layered privacy and security safeguards. Connected medical records and Apple Health information, and conversations that use it, are not used to train our foundation models or target ads.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#health-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

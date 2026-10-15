@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: f2528e3fb3d2de89056f303181163407f2bb80206fa3df1c442e6e5d0de94406
+machine_hash: f8443ce1a9a14c244b32fb8e09de1516bcf859745eff26b4e54db14d668af5a6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: We’ve upgraded ChatGPT search for all users to provide even more comprehensive,
       up-to-date responses. In testing, we found users preferred these search improvements
       over our previous search experience.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-the-chatgpt-search-response-quality
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -61,7 +61,7 @@ ChatGPT — Improvements to the ChatGPT search response quality: We’ve upgrade
 <!-- chronolog:begin region="evidence" -->
 > We’ve upgraded ChatGPT search for all users to provide even more comprehensive, up-to-date responses. In testing, we found users preferred these search improvements over our previous search experience.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-the-chatgpt-search-response-quality
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

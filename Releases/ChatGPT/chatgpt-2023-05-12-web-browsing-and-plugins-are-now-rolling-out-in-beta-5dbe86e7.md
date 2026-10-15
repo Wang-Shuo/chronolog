@@ -1,7 +1,7 @@
 ---
 changes_count: 4
 date: '2023-05-12'
-machine_hash: 600a754e0cf93b0ac7af3888006bbd3332f992358c02a435311e2b617c07c081
+machine_hash: 284290922aa791406f2f0387e7d52fa15a609b3ad3e25135a244526c9192f16d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -14,13 +14,13 @@ record:
     accessible via a new beta panel in your settings, which is rolling out to all
     Plus users over the course of the next week.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#web-browsing-and-plugins-are-now-rolling-out-in-beta
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Web browsing and Plugins are now rolling out in beta
   version: Web browsing and Plugins are now rolling out in beta
 release_id: chatgpt-2023-05-12-web-browsing-and-plugins-are-now-rolling-out-in-beta-5dbe86e7
 source_release: Web browsing and Plugins are now rolling out in beta
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#web-browsing-and-plugins-are-now-rolling-out-in-beta
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Web browsing and Plugins are now rolling out in beta
 <!-- chronolog:begin region="summary" -->
 If you are a ChatGPT Plus user, enjoy early access to experimental new features, which may change during development. We’ll be making these features accessible via a new beta panel in your settings, which is rolling out to all Plus users over the course of the next week.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#web-browsing-and-plugins-are-now-rolling-out-in-beta)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 4
 <!-- chronolog:end -->

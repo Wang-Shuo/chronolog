@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: f89a1c3b374c75b1cf76f7a705a8655601480a0e8fff4916ed3b31b2bdb27fb6
+machine_hash: f55d6b21f4093d9f7382215455d4784b378d4731416a23d792ad743a4f1cc90b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Remove image generation, so ChatGPT won’t have the ability to create or
       edit images.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#parental-controls
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -58,7 +58,7 @@ ChatGPT — Parental Controls: Remove image generation, so ChatGPT won’t have 
 <!-- chronolog:begin region="evidence" -->
 > Remove image generation, so ChatGPT won’t have the ability to create or edit images.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#parental-controls
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

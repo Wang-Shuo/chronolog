@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: e4fefac0f1e5d9921dbfa08baa1bde0d27b09d1e2ef7d0001c08d0f6da570859
+machine_hash: 9b6a2f7142a0590bcb95b04dac02faf96ac252171a43d9849e13ae099d06db76
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,7 +46,7 @@ record:
       recovery is also stricter. Users should save their recovery keys and keep access
       to their enrolled passkeys or security keys. If access to all sign-in methods
       and recovery keys is lost, access to the account may be lost.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#advanced-account-security-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -90,7 +90,7 @@ ChatGPT — Advanced Account Security in ChatGPT: We’re rolling out Advanced A
 <!-- chronolog:begin region="evidence" -->
 > We’re rolling out Advanced Account Security, an optional setting for personal ChatGPT accounts that adds stronger sign-in requirements and stricter account safeguards to help reduce the risk of ATO (account take over), unauthorized access, and data exposure.With Advanced Account Security enabled, ChatGPT uses stronger sign-in methods like passkeys or compatible security keys and turns off weaker paths like password sign-in, email/SMS sign-in codes, and email-based account recovery. It also adds recovery keys, shorter active sessions, login notifications, and session management controls, giving users more protection and visibility across their account.Because these protections are stricter, recovery is also stricter. Users should save their recovery keys and keep access to their enrolled passkeys or security keys. If access to all sign-in methods and recovery keys is lost, access to the account may be lost.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#advanced-account-security-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

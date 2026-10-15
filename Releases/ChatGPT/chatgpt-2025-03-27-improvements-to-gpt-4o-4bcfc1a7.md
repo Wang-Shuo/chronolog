@@ -1,7 +1,7 @@
 ---
 changes_count: 4
 date: '2025-03-27'
-machine_hash: ce09805bf299776c8166e065593baae2505d0946189547229514b2ba549293e3
+machine_hash: 2d3e1335fc07604538362dc45bd00e1f97b503d6e26a09c559e82505c1b13147
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -13,13 +13,13 @@ record:
     and collaborative, with enhanced instruction-following, smarter coding capabilities,
     and a clearer communication style.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-gpt-4o
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Improvements to GPT-4o
   version: Improvements to GPT-4o
 release_id: chatgpt-2025-03-27-improvements-to-gpt-4o-4bcfc1a7
 source_release: Improvements to GPT-4o
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-gpt-4o
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -33,7 +33,7 @@ version: Improvements to GPT-4o
 <!-- chronolog:begin region="summary" -->
 We’ve made improvements to GPT-4o—it now feels more intuitive, creative, and collaborative, with enhanced instruction-following, smarter coding capabilities, and a clearer communication style.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-gpt-4o)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 4
 <!-- chronolog:end -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 0615b5d166c81d2fcdde7ec6ba673b5b5f2df81bba59f1bf707a053ffef00bc7
+machine_hash: 45436193b8d89f77c862cd199cb6a8047c1ec042d82bcfaf2cdb6fac66d1a124
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
   - quote: Three new plugins for ChatGPT Work and Codex help students and educators
       work with their own course materials, connected tools, and institution-approved
       apps.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-education-plugins-for-students-and-educators
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -62,7 +62,7 @@ ChatGPT — New education plugins for students and educators: Three new plugins 
 <!-- chronolog:begin region="evidence" -->
 > Three new plugins for ChatGPT Work and Codex help students and educators work with their own course materials, connected tools, and institution-approved apps.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-education-plugins-for-students-and-educators
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

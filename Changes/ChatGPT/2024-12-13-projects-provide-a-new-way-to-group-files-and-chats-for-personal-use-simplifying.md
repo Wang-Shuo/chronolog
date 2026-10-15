@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 125ec16d704644bd49d0bd7ba8f93d38f1f756c6c414e7b845c6b63c8e18d929
+machine_hash: e6e6d80ebcbf577404e9b30d737cade64c796b5ce3a5ebc612b62fdb06c29b75
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
       custom instructions and upload files in your Projects, and any conversations
       in your Project share context with your uploaded files and custom instructions.
       Chats in Projects use GPT-4o and support the following features:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#projects-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -78,7 +78,7 @@ ChatGPT — Projects in ChatGPT: Projects provide a new way to group files and c
 <!-- chronolog:begin region="evidence" -->
 > Projects provide a new way to group files and chats for personal use, simplifying the management of work that involves multiple chats. You can set custom instructions and upload files in your Projects, and any conversations in your Project share context with your uploaded files and custom instructions. Chats in Projects use GPT-4o and support the following features:
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#projects-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

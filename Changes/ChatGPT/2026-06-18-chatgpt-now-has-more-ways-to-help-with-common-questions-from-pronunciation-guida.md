@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 0927f48fadf84323af3b926caa7592c287f865896804464b2e4462436b35bbe0
+machine_hash: e031b7cb2f9d1793ac98872c94041af9f39d7110ed9884a4562758703a86921c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       guidance to World Cup updates. It’s also smoother to use, with easier chat organization
       and sharing, more control over connected apps, and faster photo uploads on iOS,
       and more.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -80,7 +80,7 @@ ChatGPT — ChatGPT app experience updates: ChatGPT now has more ways to help wi
 <!-- chronolog:begin region="evidence" -->
 > ChatGPT now has more ways to help with common questions, from pronunciation guidance to World Cup updates. It’s also smoother to use, with easier chat organization and sharing, more control over connected apps, and faster photo uploads on iOS, and more.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

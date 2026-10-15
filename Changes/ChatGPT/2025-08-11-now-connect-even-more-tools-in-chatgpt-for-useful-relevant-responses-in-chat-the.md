@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 9351c583f4e9fb622ef18f74ccb2b0ce9c369e01cd8a04e2d23088914fbfadf5
+machine_hash: 24dded2016710ea261f49355beaf6900ed5a12e8d840e77b3eca20a9756f0e18
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Now connect even more tools in ChatGPT for useful, relevant responses in
       chat.The following connectors are now available to search by chat in addition
       to deep research.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#additional-connectors-for-plus-and-pro
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -69,7 +69,7 @@ ChatGPT — Additional connectors for Plus and Pro: Now connect even more tools 
 <!-- chronolog:begin region="evidence" -->
 > Now connect even more tools in ChatGPT for useful, relevant responses in chat.The following connectors are now available to search by chat in addition to deep research.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#additional-connectors-for-plus-and-pro
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

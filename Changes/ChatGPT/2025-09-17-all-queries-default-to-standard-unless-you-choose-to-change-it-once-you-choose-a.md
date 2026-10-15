@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 41f226e1a1c1f416aed2be1f143315755077d2a36b4b5797ba5217291c88767a
+machine_hash: 21b8fd61d0a55f6151241d889a9684766b20c6ae75fbd413feb36636d09a7136
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: All queries default to Standard unless you choose to change it. Once you
       choose a different thinking time, your preference is saved and used for future
       queries until you switch again.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#toggle-thinking-time-in-the-message-composer
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -62,7 +62,7 @@ ChatGPT — Toggle thinking time in the message composer: All queries default to
 <!-- chronolog:begin region="evidence" -->
 > All queries default to Standard unless you choose to change it. Once you choose a different thinking time, your preference is saved and used for future queries until you switch again.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#toggle-thinking-time-in-the-message-composer
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 675c7edfb311c74ad2aba2c6ea2009ace6778f70ddef125151910ed7b00226bd
+machine_hash: c7f385a5ddcb3b9d211ec0f295722827d9c41215852412966eb5c08575f0f7a8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Available in the ChatGPT app for iOS. Access to recent photos requires
       permission to access your photos.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt-on-ios
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -58,7 +58,7 @@ ChatGPT — Updates to ChatGPT on iOS: Available in the ChatGPT app for iOS. Acc
 <!-- chronolog:begin region="evidence" -->
 > Available in the ChatGPT app for iOS. Access to recent photos requires permission to access your photos.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt-on-ios
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

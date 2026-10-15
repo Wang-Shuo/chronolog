@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 802f6c16cdeb624ff2413f1cfdaab3bfb9b1d18cc0855041f1150923f5296727
+machine_hash: e0fce216468538695b3ea0bf575334a5e984c902c474ed093763c36612fe47c1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
       you can use the drawing tool in our mobile app.To get started, tap the photo
       button to capture or choose an image. You can also discuss multiple images or
       use our drawing tool to guide your assistant.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-voice-and-image-capabilities-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -66,7 +66,7 @@ ChatGPT — New voice and image capabilities in ChatGPT: You can now show ChatGP
 <!-- chronolog:begin region="evidence" -->
 > You can now show ChatGPT one or more images. Troubleshoot why your grill won’t start, explore the contents of your fridge to plan a meal, or analyze a complex graph for work-related data. To focus on a specific part of the image, you can use the drawing tool in our mobile app.To get started, tap the photo button to capture or choose an image. You can also discuss multiple images or use our drawing tool to guide your assistant.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-voice-and-image-capabilities-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

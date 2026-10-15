@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2026-09-29'
-machine_hash: c5a8d01ae6cf9b218806e437e087cfaa59aac62c7374f5c8226e4ad08484f5a7
+machine_hash: cdbe0354cfb76cee80eea258ac83f58dfc4b93c95b5b9b81b816ddb84a0ca4ab
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -13,13 +13,13 @@ record:
     a published Site in a desktop browser to continue editing in ChatGPT, review changes,
     and publish when ready.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#creating-editing-and-scheduling-sites
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Creating, editing, and scheduling Sites
   version: Creating, editing, and scheduling Sites
 release_id: chatgpt-2026-09-29-creating-editing-and-scheduling-sites-bb025dd6
 source_release: Creating, editing, and scheduling Sites
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#creating-editing-and-scheduling-sites
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -33,7 +33,7 @@ version: Creating, editing, and scheduling Sites
 <!-- chronolog:begin region="summary" -->
 Site owners and editors on Plus and Pro can select Edit site from a published Site in a desktop browser to continue editing in ChatGPT, review changes, and publish when ready.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#creating-editing-and-scheduling-sites)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 2
 <!-- chronolog:end -->

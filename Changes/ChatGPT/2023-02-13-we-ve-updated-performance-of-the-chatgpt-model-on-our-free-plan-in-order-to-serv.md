@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: ba09b135ef7b914118a81a21cff25e35088cd53795ca155e24554d88aaa551d2
+machine_hash: 0015e04ce5694bb53c024c51e8957d515876877a775684f54e8149b00c5a8e72
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: We’ve updated performance of the ChatGPT model on our free plan in order
       to serve more users.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -70,7 +70,7 @@ ChatGPT — Updates to ChatGPT: We’ve updated performance of the ChatGPT model
 <!-- chronolog:begin region="evidence" -->
 > We’ve updated performance of the ChatGPT model on our free plan in order to serve more users.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2025-03-18'
-machine_hash: 7339284bcc713f9657d19b7a99bcba0649e24be7f1f5fc4474adebdb405e3517
+machine_hash: ba71226a50165731873f2877a137138d60a544cccffd30c977a0a941d564cee4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -13,13 +13,13 @@ record:
     and bug fixes across Web, Android, and iOS. Below are a small number of specific
     callouts. For updates on the ChatGPT macOS app, please see this page.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#web-and-the-windows-desktop-app
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Web and the Windows desktop app
   version: Web and the Windows desktop app
 release_id: chatgpt-2025-03-18-web-and-the-windows-desktop-app-ef646255
 source_release: Web and the Windows desktop app
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#web-and-the-windows-desktop-app
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -33,7 +33,7 @@ version: Web and the Windows desktop app
 <!-- chronolog:begin region="summary" -->
 We have been working on a variety of usability and performance improvements and bug fixes across Web, Android, and iOS. Below are a small number of specific callouts. For updates on the ChatGPT macOS app, please see this page.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#web-and-the-windows-desktop-app)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 2
 <!-- chronolog:end -->

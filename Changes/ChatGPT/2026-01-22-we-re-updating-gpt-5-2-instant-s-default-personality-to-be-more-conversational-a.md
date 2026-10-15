@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 43d7cf18046316feb7b9e80c8633ae703e68117e580624c416828c53be52bb70
+machine_hash: 8711c4f832ed61f0c41ffd3420bd07f7d7936de6ff7c502543f0cdb7c056e7ba
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       and more natural. You can still select a different base style and tone for ChatGPT,
       along with tuning characteristics like warmth and emoji use, within the Personalization
       menu in settings.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#52-personality-system-prompt-update
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -80,7 +80,7 @@ ChatGPT — 5.2 Personality System Prompt Update: We’re updating GPT-5.2 Insta
 <!-- chronolog:begin region="evidence" -->
 > We’re updating GPT-5.2 Instant’s default personality to be more conversational and better at adapting its tone contextually, making exchanges feel smoother and more natural. You can still select a different base style and tone for ChatGPT, along with tuning characteristics like warmth and emoji use, within the Personalization menu in settings.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#52-personality-system-prompt-update
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

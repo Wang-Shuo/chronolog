@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: f1a5eb25c594f3a3fcf1d1562df7e0156b339907e57454e05e4d758797b3ffc0
+machine_hash: 16a10fc7875cfa7bc26ab0e86f7e1eb34a6061f65c78667cc9319be8d9bcf586
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       rich and interactive bar, line, pie, and scatter charts directly in the conversation.
       Ask for a chart, or ChatGPT may include one when it helps make trends and comparisons
       easier to understand.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -64,7 +64,7 @@ ChatGPT — ChatGPT app experience updates: Interactive charts in answers: ChatG
 <!-- chronolog:begin region="evidence" -->
 > Interactive charts in answers: ChatGPT can now turn some answers into rich and interactive bar, line, pie, and scatter charts directly in the conversation. Ask for a chart, or ChatGPT may include one when it helps make trends and comparisons easier to understand.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

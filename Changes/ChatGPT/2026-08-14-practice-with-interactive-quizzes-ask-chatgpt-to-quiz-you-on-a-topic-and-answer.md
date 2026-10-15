@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 0246b436047bffb25e7369cc7388531e6874516a96c81b2beceb668682f7cd2f
+machine_hash: fb966a585302ecbd3f1ef7f0ed57d08e1d44b4e9c5ef884b5118110814280742
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Practice with interactive quizzes. Ask ChatGPT to quiz you on a topic and
       answer questions directly in your conversation. Available to all consumer ChatGPT
       plans and Edu plans on web and mobile.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -60,7 +60,7 @@ ChatGPT — ChatGPT app experience updates: Practice with interactive quizzes. A
 <!-- chronolog:begin region="evidence" -->
 > Practice with interactive quizzes. Ask ChatGPT to quiz you on a topic and answer questions directly in your conversation. Available to all consumer ChatGPT plans and Edu plans on web and mobile.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

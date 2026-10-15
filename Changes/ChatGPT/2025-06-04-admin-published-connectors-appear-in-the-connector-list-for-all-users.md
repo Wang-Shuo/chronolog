@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: b138cec8256a2efe3b68abcfffc887e0073c48c928feb8d3146e09a34aafd851
+machine_hash: eff06ca6016c237a2e18d58f4d272a018af8d3d9cfc464900e9503a4dde99ce3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
     all users'
   evidence:
   - quote: Admin-published connectors appear in the connector list for all users
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#custom-connectors-via-model-context-protocol-pro-team-enterprise-edu
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -56,7 +56,7 @@ ChatGPT — Custom connectors via Model Context Protocol (Pro, Team, Enterprise,
 <!-- chronolog:begin region="evidence" -->
 > Admin-published connectors appear in the connector list for all users
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#custom-connectors-via-model-context-protocol-pro-team-enterprise-edu
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

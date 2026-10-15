@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: aac3b666d2d03d4426144c045a45241202d9d9940ddedcd31c88e7edf633f49e
+machine_hash: 06abe7fc8098a6290d334b01db9522a54826c5e47d00abcd7bcd2b94fef806e6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Share across your workspace. Make content available to everyone in your
       workspace.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#share-files-and-folders-from-your-library
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -58,7 +58,7 @@ ChatGPT — Share files and folders from your Library: Share across your workspa
 <!-- chronolog:begin region="evidence" -->
 > Share across your workspace. Make content available to everyone in your workspace.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#share-files-and-folders-from-your-library
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

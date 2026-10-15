@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 7651dfe7924305d73382062117dfac5ba365ff5c9b7229198a99a770e11313d7
+machine_hash: 81b95c90f6bebcb67fa96b3a974c18e29008e41b6fcf56a9a3fb47ee098b7230
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,7 +24,7 @@ record:
     and web.'
   evidence:
   - quote: Available in ChatGPT on mobile and web.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-ways-to-shop-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -55,7 +55,7 @@ ChatGPT — New ways to shop in ChatGPT: Available in ChatGPT on mobile and web.
 <!-- chronolog:begin region="evidence" -->
 > Available in ChatGPT on mobile and web.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-ways-to-shop-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

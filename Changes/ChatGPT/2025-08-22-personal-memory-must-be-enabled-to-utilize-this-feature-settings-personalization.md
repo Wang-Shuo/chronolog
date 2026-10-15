@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 1b0630b3fcccaddfbfc6fbb68865ca5870774c2d01ac1775df7b8c6dd4e77cb2
+machine_hash: 61ac5f8478f476db414d8c2f553ac3123b118d31b8ec7b61b3c8495eb449632c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Personal Memory must be enabled to utilize this feature.Settings -> Personalization
       -> Memory
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#project-only-memory
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -56,7 +56,7 @@ ChatGPT — Project-only memory: Personal Memory must be enabled to utilize this
 <!-- chronolog:begin region="evidence" -->
 > Personal Memory must be enabled to utilize this feature.Settings -> Personalization -> Memory
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#project-only-memory
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

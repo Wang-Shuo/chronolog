@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 002ab185f977d53709f58b39feff0abef1a3cfa28ebb623eb3a9287bafa0a6f5
+machine_hash: 7517279849caa87fb5035f1eb3e5b3639cd27a2be3e8b8f2d336d173beb7463c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: ChatGPT Work’s browser on web and mobile can also help you get tasks done
       on some websites that require you to sign in—so you can hand off a task and
       step away while it keeps working.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-work-can-now-complete-tasks-on-signed-in-websites
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -71,7 +71,7 @@ ChatGPT — ChatGPT Work can now complete tasks on signed-in websites: ChatGPT W
 <!-- chronolog:begin region="evidence" -->
 > ChatGPT Work’s browser on web and mobile can also help you get tasks done on some websites that require you to sign in—so you can hand off a task and step away while it keeps working.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-work-can-now-complete-tasks-on-signed-in-websites
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

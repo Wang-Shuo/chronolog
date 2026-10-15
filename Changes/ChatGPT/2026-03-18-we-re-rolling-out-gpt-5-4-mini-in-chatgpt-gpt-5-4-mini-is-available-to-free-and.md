@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: cd968a8e5aa26f21d71e28ff12b19938210e798265872f2e1c221ffd20ae8871
+machine_hash: 6775b31fe849e2e05ccaab562a7f8436a8b2c4905ff3232a33eafbfceab55009
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,7 +41,7 @@ record:
       the option to default Auto routing to GPT-5.4 mini, if preferred.GPT-5.4 mini
       will not appear as a selectable model in the model picker. Learn more in our
       blog post.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-54-mini-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -90,7 +90,7 @@ ChatGPT — GPT-5.4 mini in ChatGPT: We’re rolling out GPT-5.4 mini in ChatGPT
 <!-- chronolog:begin region="evidence" -->
 > We’re rolling out GPT-5.4 mini in ChatGPT. GPT-5.4 mini is available to Free and Go users via the “Thinking” feature in the + menu. For all other users, GPT-5.4 mini is available as a rate limit fallback for GPT-5.4 Thinking.For Plus, Pro, and other paid users, GPT-5.4 mini will be used as a fallback for GPT-5.4 Thinking when rate limits are reached, helping with continued access to reasoning capabilities during high usage. Enterprise customers will retain the option to default Auto routing to GPT-5.4 mini, if preferred.GPT-5.4 mini will not appear as a selectable model in the model picker. Learn more in our blog post.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-54-mini-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 6a2dea6a8b31e3fea87e7a0aa4cbe40205407e9027ea93f65fa4c25d5dc387c0
+machine_hash: f1d28b7a8f3f22e74cfc69d70baaf126c4b7aef9839d2d1481070ddf10818d0b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: 'Ad-hoc text sources: Paste notes, briefs, or reference material directly
       to capture context instantly.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#add-sources-to-your-projects-from-anywhere
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -59,7 +59,7 @@ ChatGPT — Add sources to your projects from anywhere: Ad-hoc text sources: Pas
 <!-- chronolog:begin region="evidence" -->
 > Ad-hoc text sources: Paste notes, briefs, or reference material directly to capture context instantly.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#add-sources-to-your-projects-from-anywhere
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

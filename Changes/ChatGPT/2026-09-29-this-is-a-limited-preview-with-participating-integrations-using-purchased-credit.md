@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 5c62ab03b82a6ca9a9c471768d18707b9851f1d9bacc390d65192e72ab24feae
+machine_hash: 317c11e15b3dbbe59e6079117cd2eed9f6412bed0854b6c4de78cff3ebedeebd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: This is a limited preview with participating integrations. Using purchased
       credits requires a separate opt-in. A partner may still charge for its own product
       or services.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-your-chatgpt-allowance-in-participating-apps
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -60,7 +60,7 @@ ChatGPT — Use your ChatGPT allowance in participating apps: This is a limited 
 <!-- chronolog:begin region="evidence" -->
 > This is a limited preview with participating integrations. Using purchased credits requires a separate opt-in. A partner may still charge for its own product or services.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-your-chatgpt-allowance-in-participating-apps
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

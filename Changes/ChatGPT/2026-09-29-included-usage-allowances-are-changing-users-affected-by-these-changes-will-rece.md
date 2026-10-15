@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 13edfd7911edaa322f0198feb9b248099b6675ed7b702689cb2881f5ddc4190b
+machine_hash: a4dc36f6ef80a4501fa35b3eb1efe89cd98ff7bf0c27f81fcf2320506d8d82bb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: Included usage allowances are changing. Users affected by these changes
       will receive an email with additional details. The monthly price remains $200.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#pro-200-subscriptions
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -61,7 +61,7 @@ ChatGPT — Pro 200 subscriptions: Included usage allowances are changing. Users
 <!-- chronolog:begin region="evidence" -->
 > Included usage allowances are changing. Users affected by these changes will receive an email with additional details. The monthly price remains $200.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#pro-200-subscriptions
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

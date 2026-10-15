@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: b548763cf214d33f8c7c620c5f7710401ebf0572ffc0afa5d398997eec969e41
+machine_hash: ce7df8f3848e37fcf13631c54d4450709d09f98fb4f79c5ed88a623c8110d678
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -37,7 +37,7 @@ record:
       understanding of any topic. When you turn it on, ChatGPT will ask interactive
       questions to understand your goals and skill level, then work with you to reach
       the answer together.With Study mode enabled, ChatGPT can:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#study-mode
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -90,7 +90,7 @@ ChatGPT — Study Mode: Study mode is currently available to users in Free, Plus
 <!-- chronolog:begin region="evidence" -->
 > Study mode is currently available to users in Free, Plus, Pro, and Teams plans globally and will expand to Edu plans in the coming weeks. Study mode works with any model available in ChatGPT on iOS, Android, web, and desktop.Study mode is a new learning experience in ChatGPT designed to help you build a deeper understanding of any topic. When you turn it on, ChatGPT will ask interactive questions to understand your goals and skill level, then work with you to reach the answer together.With Study mode enabled, ChatGPT can:
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#study-mode
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: cc29ef0fcf4382ae5eb229e1c9085d2723f3aa404142b666bdb3a785dda7b57c
+machine_hash: 7f11d7eff8cf612c6dab4476589062d5924b50d2960658ca0a2e7cd4ad6ec4a2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,7 +24,7 @@ record:
     or all sessions from Active sessions'
   evidence:
   - quote: Log out of individual sessions or all sessions from Active sessions
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#active-account-session-controls
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -57,7 +57,7 @@ ChatGPT — Active account session controls: Log out of individual sessions or a
 <!-- chronolog:begin region="evidence" -->
 > Log out of individual sessions or all sessions from Active sessions
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#active-account-session-controls
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-08-31'
-machine_hash: 16f14aed34a5ec68da9d14f648a33dcaa525bb8722dbf08b2745ea7073c995d7
+machine_hash: d558607d99741e7f42a8644299bcdbe5c089fdb6e9d7102106819f452a00d691
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -12,13 +12,13 @@ record:
   source_summary: Turn an idea or a photo into a set of stickers you can use in your
     messages.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#create-and-share-personalized-sticker-packs
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Create and share personalized sticker packs
   version: Create and share personalized sticker packs
 release_id: chatgpt-2026-08-31-create-and-share-personalized-sticker-packs-120616f6
 source_release: Create and share personalized sticker packs
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#create-and-share-personalized-sticker-packs
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -32,7 +32,7 @@ version: Create and share personalized sticker packs
 <!-- chronolog:begin region="summary" -->
 Turn an idea or a photo into a set of stickers you can use in your messages.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#create-and-share-personalized-sticker-packs)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 1
 <!-- chronolog:end -->

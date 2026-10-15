@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 309e4c09cab002871a5a1a7f835b7968f63298540556b2354b7962bb8097e4a4
+machine_hash: efaecc40118f631e97ee965ec40c6d8bc8b1004b957d70ea382dd567498a6088
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,7 +24,7 @@ record:
     to roll out enhancements to data analysis:'
   evidence:
   - quote: 'Today, we’re starting to roll out enhancements to data analysis:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-data-analysis-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -53,7 +53,7 @@ ChatGPT — Improvements to data analysis in ChatGPT: Today, we’re starting to
 <!-- chronolog:begin region="evidence" -->
 > Today, we’re starting to roll out enhancements to data analysis:
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-data-analysis-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

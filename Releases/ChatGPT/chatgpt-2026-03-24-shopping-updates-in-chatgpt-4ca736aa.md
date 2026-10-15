@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-03-24'
-machine_hash: 0dac9be862d84ba6a946482f67bccb2883ae8b297236b119eb8c22e0dad4bbac
+machine_hash: f7173276adfed9baa89061e798c32c82392108870a981f83510d87318ba54626
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -15,13 +15,13 @@ record:
     through conversation, and upload images to find similar items. Products can also
     be compared…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#shopping-updates-in-chatgpt
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Shopping updates in ChatGPT
   version: Shopping updates in ChatGPT
 release_id: chatgpt-2026-03-24-shopping-updates-in-chatgpt-4ca736aa
 source_release: Shopping updates in ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#shopping-updates-in-chatgpt
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Shopping updates in ChatGPT
 <!-- chronolog:begin region="summary" -->
 We’ve improved shopping in ChatGPT to make it easier to discover, compare, and decide on products.Product results are now more visually rich, with improved detail and relevance. You can browse products in chat, refine results through conversation, and upload images to find similar items. Products can also be compared…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#shopping-updates-in-chatgpt)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 1
 <!-- chronolog:end -->

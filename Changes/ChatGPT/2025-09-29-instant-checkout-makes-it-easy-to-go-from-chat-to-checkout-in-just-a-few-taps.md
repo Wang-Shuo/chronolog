@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 33fd49cb1772593fff13b5aeef9e5056e447c0e106cb4b6e5817b12dc83049d2
+machine_hash: a204210ff5b9930bd1d9b0d0c8f0abf745ae5efe2b5b28916384c43c731b6dd1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Instant Checkout makes it easy to go from chat to checkout in just a few
       taps.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-instant-checkout-and-the-agentic-commerce-protocol
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -59,7 +59,7 @@ ChatGPT — Introducing Instant Checkout and the Agentic Commerce Protocol: Inst
 <!-- chronolog:begin region="evidence" -->
 > Instant Checkout makes it easy to go from chat to checkout in just a few taps.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-instant-checkout-and-the-agentic-commerce-protocol
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

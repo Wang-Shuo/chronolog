@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 3b5d0c5d7e375c3265397768e5b57a73476a706a8f737a7ccb04b63bcd3b142a
+machine_hash: 9ee0aaebc9eb7dc4dac282d0c482286f493fd9a00445ad1650efdce196b1b83b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: 'Group work: Upload notes, proposals, and contracts so collaborators can
       draft deliverables faster and stay in sync.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#shared-projects
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -58,7 +58,7 @@ ChatGPT — Shared projects: Group work: Upload notes, proposals, and contracts 
 <!-- chronolog:begin region="evidence" -->
 > Group work: Upload notes, proposals, and contracts so collaborators can draft deliverables faster and stay in sync.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#shared-projects
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

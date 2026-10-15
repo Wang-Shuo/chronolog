@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 74863cc473d14bfefe3bb4a3cfea950d973732f1dc4ce00b7320db28b9cd2bf1
+machine_hash: b04349c95044f42230ccba8d3c2de84efbacd029c67a2c91ec6985e7399a8476
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,7 +46,7 @@ record:
       not be available in certain regions or may require specific plan tiers.Additionally,
       developers can submit apps for review and publication in the app directory,
       making approved apps available to a broader set of ChatGPT users.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-the-app-directory-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -90,7 +90,7 @@ ChatGPT — Introducing the app directory in ChatGPT: You can now browse and add
 <!-- chronolog:begin region="evidence" -->
 > You can now browse and add approved apps in the new app directory. Apps let you work with your tools and data directly inside a conversation—from interactive in-chat experiences to secure connections that allow ChatGPT to search and reference information from third-party services.As part of this update, connectors now appear in the directory as apps, making it easier to manage all your tools in one place. References across the Help Center have been updated to reflect this new terminology.Apps are available to all logged-in ChatGPT users, with availability and functionality varying by plan and region. Some apps or capabilities may not be available in certain regions or may require specific plan tiers.Additionally, developers can submit apps for review and publication in the app directory, making approved apps available to a broader set of ChatGPT users.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-the-app-directory-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

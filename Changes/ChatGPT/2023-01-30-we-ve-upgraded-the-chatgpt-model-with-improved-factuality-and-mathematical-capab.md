@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 8e8e475f81faad14e7bbd41fe6711f1483bddb22ab12f1356bd516c2df296cfb
+machine_hash: 2e57c133f117942ef9506835c62966ca6c9ebf83230381da8619db4a7f7d8dc4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: We’ve upgraded the ChatGPT model with improved factuality and mathematical
       capabilities.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#factuality-and-mathematical-improvements
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -58,7 +58,7 @@ ChatGPT — Factuality and mathematical improvements: We’ve upgraded the ChatG
 <!-- chronolog:begin region="evidence" -->
 > We’ve upgraded the ChatGPT model with improved factuality and mathematical capabilities.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#factuality-and-mathematical-improvements
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 941fd3b1e99997395ac651d2177fb3e1b01a47d44d8c25472729ea38f4a3e5ac
+machine_hash: 04143502d5fe2f18e44e10df102bf74e0460b23a569e8d63f93287ea65114f22
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: 'Continue Work across devices: Cloud Work conversations now sync across
       web, mobile, and desktop, so you can start on one surface and continue on another.
       Local conversations stay on your computer.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-desktop-app-experience-updates
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -61,7 +61,7 @@ ChatGPT — ChatGPT desktop app experience updates: Continue Work across devices
 <!-- chronolog:begin region="evidence" -->
 > Continue Work across devices: Cloud Work conversations now sync across web, mobile, and desktop, so you can start on one surface and continue on another. Local conversations stay on your computer.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-desktop-app-experience-updates
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

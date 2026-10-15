@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 595d0e76ad3cead95683a9e34d3c0d643524efc3c2751bea440a50f0ba83c18b
+machine_hash: a60783c70dac575e3e52e5f54babe623bff4bdfe7bb169942255a761439a7bc3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,7 +34,7 @@ record:
       and work accounts into the same conversation, so ChatGPT can help you find information
       and get things done across your personal and work accounts. Available on all
       ChatGPT plans across web, mobile, and desktop.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#connect-multiple-accounts-to-plugins-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -78,7 +78,7 @@ ChatGPT — Connect multiple accounts to plugins in ChatGPT: You can now connect
 <!-- chronolog:begin region="evidence" -->
 > You can now connect multiple accounts to plugins in ChatGPT, expanding support beyond Gmail, Google Calendar, and Google Contacts. Bring your personal and work accounts into the same conversation, so ChatGPT can help you find information and get things done across your personal and work accounts. Available on all ChatGPT plans across web, mobile, and desktop.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#connect-multiple-accounts-to-plugins-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2023-06-22'
-machine_hash: 64f128eaab0f73224b010f9c2a1583e3ab5cad2e598bc6ca40d333f8ea52909c
+machine_hash: 89d0cab3476add23571003eee3e816ee37598efea8dc25690a66477c4a0cbbe8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -11,13 +11,13 @@ record:
   release_id: chatgpt-2023-06-22-browsing-and-search-on-mobile-989ccb98
   source_summary: 'We’ve made two updates to the mobile ChatGPT app:'
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-and-search-on-mobile
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Browsing and search on mobile
   version: Browsing and search on mobile
 release_id: chatgpt-2023-06-22-browsing-and-search-on-mobile-989ccb98
 source_release: Browsing and search on mobile
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-and-search-on-mobile
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -31,7 +31,7 @@ version: Browsing and search on mobile
 <!-- chronolog:begin region="summary" -->
 We’ve made two updates to the mobile ChatGPT app:
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-and-search-on-mobile)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 3
 <!-- chronolog:end -->

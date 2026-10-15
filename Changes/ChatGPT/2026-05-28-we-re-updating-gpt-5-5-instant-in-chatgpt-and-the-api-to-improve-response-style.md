@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 3a8ac44e5d24540ac6542d7c2622191384d8391bd48a993be3dda510a6c239aa
+machine_hash: e19b727f7fe14941a301b20aad8a97726998d509788b524d02542d79047c86f5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -37,7 +37,7 @@ record:
       in chat responses through writing blocks and code blocks. Paid users can continue
       using canvas for a limited time through legacy models until those models are
       sunset.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-55-instant-update
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -80,7 +80,7 @@ ChatGPT — GPT-5.5 Instant Update: We’re updating GPT-5.5 Instant in ChatGPT 
 <!-- chronolog:begin region="evidence" -->
 > We’re updating GPT-5.5 Instant in ChatGPT and the API to improve response style and quality. It’s now easier to read, more natural in everyday conversations, and better paced in practical help tasks, with fewer overly long or bullet-heavy responses.With this update, canvas will no longer be available in GPT-5.5 Instant or GPT-5.5 Thinking. Writing and coding functionality is now supported directly in chat responses through writing blocks and code blocks. Paid users can continue using canvas for a limited time through legacy models until those models are sunset.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-55-instant-update
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

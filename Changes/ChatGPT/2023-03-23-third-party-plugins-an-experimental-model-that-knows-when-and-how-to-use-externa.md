@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 0aa75cd8138c2200ee550e03ba50e058a5521c20ac20f9293ca6a086257371a0
+machine_hash: 907dce579cce2291861e207ae701f536379108a295d604eb420c40f536013beb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: 'Third-party plugins: An experimental model that knows when and how to
       use external plugins.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-plugins-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -70,7 +70,7 @@ ChatGPT — Introducing plugins in ChatGPT: Third-party plugins: An experimental
 <!-- chronolog:begin region="evidence" -->
 > Third-party plugins: An experimental model that knows when and how to use external plugins.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-plugins-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

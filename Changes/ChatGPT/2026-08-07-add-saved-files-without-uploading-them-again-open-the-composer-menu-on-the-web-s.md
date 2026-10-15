@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 686b8a47e8f49d18af2eaa7d1cb18925a6291cd980f77b353fead52267df93a5
+machine_hash: beb29243283cf778ea97c1d62b5cbaf5d8eb6231c26fb08651f3432b37efc18c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: Add saved files without uploading them again. Open the composer menu on
       the web, select Add from library, and choose a file you’ve already saved.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -59,7 +59,7 @@ ChatGPT — ChatGPT app experience updates: Add saved files without uploading th
 <!-- chronolog:begin region="evidence" -->
 > Add saved files without uploading them again. Open the composer menu on the web, select Add from library, and choose a file you’ve already saved.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

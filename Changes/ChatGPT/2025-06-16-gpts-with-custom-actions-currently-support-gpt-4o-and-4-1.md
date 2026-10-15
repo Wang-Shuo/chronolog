@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 62b70ba297d66cc6d3d633529c13ac15b66d295b19edc1511f0ef6b5e5c54bdb
+machine_hash: 4e0bdbfc06dd7ce1f110fb924772d0ff5d374177773b4a61d153b073565296a1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
     Actions currently support GPT-4o and 4.1'
   evidence:
   - quote: GPTs with Custom Actions currently support GPT-4o and 4.1
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#expanded-model-support-for-custom-gpts
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -59,7 +59,7 @@ ChatGPT — Expanded Model Support for Custom GPTs: GPTs with Custom Actions cur
 <!-- chronolog:begin region="evidence" -->
 > GPTs with Custom Actions currently support GPT-4o and 4.1
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#expanded-model-support-for-custom-gpts
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

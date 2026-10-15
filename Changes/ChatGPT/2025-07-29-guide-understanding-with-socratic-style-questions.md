@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 59d73592bac4515f7651bfde5438d942f42bec7563ba576819390dbc14c0f656
+machine_hash: e7cc17142c12e66185fee4b357d1f684a388f1155ccc880a9ace3a4b1475d3f1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -23,7 +23,7 @@ record:
   description: 'ChatGPT — Study Mode: Guide understanding with Socratic-style questions.'
   evidence:
   - quote: Guide understanding with Socratic-style questions.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#study-mode
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -52,7 +52,7 @@ ChatGPT — Study Mode: Guide understanding with Socratic-style questions.
 <!-- chronolog:begin region="evidence" -->
 > Guide understanding with Socratic-style questions.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#study-mode
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

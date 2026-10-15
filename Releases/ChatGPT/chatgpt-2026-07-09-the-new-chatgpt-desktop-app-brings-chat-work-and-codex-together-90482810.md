@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2026-07-09'
-machine_hash: b1b254539f1022e584107d6fad72610ad70f35c29ca76f8f93867ec78447b8e2
+machine_hash: 2946cb5bb3d238a5b8ce42cdc935597c1b890bd475f235449e924fa731f92706
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -13,13 +13,13 @@ record:
     Windows. It combines Chat for questions and conversation, Work for research and
     finished deliverables, and Codex for software development in one app.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: The new ChatGPT desktop app brings Chat, Work, and Codex together
   version: The new ChatGPT desktop app brings Chat, Work, and Codex together
 release_id: chatgpt-2026-07-09-the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together-90482810
 source_release: The new ChatGPT desktop app brings Chat, Work, and Codex together
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -33,7 +33,7 @@ version: The new ChatGPT desktop app brings Chat, Work, and Codex together
 <!-- chronolog:begin region="summary" -->
 The new ChatGPT desktop app is available globally for macOS and Windows. It combines Chat for questions and conversation, Work for research and finished deliverables, and Codex for software development in one app.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 3
 <!-- chronolog:end -->

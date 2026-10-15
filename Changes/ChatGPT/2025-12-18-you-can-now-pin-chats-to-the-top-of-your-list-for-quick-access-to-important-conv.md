@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 883d4ce7b29db404ec956c81c971dc5ccc87224747d569f77f8ec027f4f7715a
+machine_hash: 967a02b1e129ea03ffb0003b648153de333ce1a7aedb4af94b244754db1dfb8a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       conversations. Pinned chats are available on iOS, Android, Web, and Atlas. On
       web, hover over a chat in the left-hand sidebar, click ⋯, and select Pin chat.
       On mobile, long-press a chat and select Pin chat.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#pinned-chats-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -73,7 +73,7 @@ ChatGPT — Pinned chats in ChatGPT: You can now pin chats to the top of your li
 <!-- chronolog:begin region="evidence" -->
 > You can now pin chats to the top of your list for quick access to important conversations. Pinned chats are available on iOS, Android, Web, and Atlas. On web, hover over a chat in the left-hand sidebar, click ⋯, and select Pin chat. On mobile, long-press a chat and select Pin chat.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#pinned-chats-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

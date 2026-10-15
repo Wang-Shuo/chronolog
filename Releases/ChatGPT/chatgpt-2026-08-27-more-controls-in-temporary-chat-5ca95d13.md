@@ -1,7 +1,7 @@
 ---
 changes_count: 4
 date: '2026-08-27'
-machine_hash: 628c4b92bac3841586b5842d6e8ab1ab527cbcf664d310c84185c353cb8f8cdc
+machine_hash: 3319c42240c202d570c676bb5a515a65732d7d335db7e0308f3105f9153e7ac2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -14,13 +14,13 @@ record:
     instructions from your regular chat settings. You can also choose to save a temporary
     chat.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-controls-in-temporary-chat
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: More controls in temporary chat
   version: More controls in temporary chat
 release_id: chatgpt-2026-08-27-more-controls-in-temporary-chat-5ca95d13
 source_release: More controls in temporary chat
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-controls-in-temporary-chat
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: More controls in temporary chat
 <!-- chronolog:begin region="summary" -->
 We’re rolling out new controls in temporary chat. You can now choose to personalize responses in a temporary chat with memory, plugins, and custom instructions from your regular chat settings. You can also choose to save a temporary chat.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-controls-in-temporary-chat)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 4
 <!-- chronolog:end -->

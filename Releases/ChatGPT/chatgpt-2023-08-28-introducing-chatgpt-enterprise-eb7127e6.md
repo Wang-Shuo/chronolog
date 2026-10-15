@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-08-28'
-machine_hash: c851732fe4401a09999466e32ed368841116a13b8ab50ff1ddb42fe2a9cb57e9
+machine_hash: 653c27111f63b57d82547106fc2fd0badf7faa0125bf44984383bd38293bb316
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -14,13 +14,13 @@ record:
     for processing longer inputs, advanced data analysis capabilities, customization
     options, and much more.ChatGPT Enterprise also provides unlimited access to Advanced…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-enterprise
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Introducing ChatGPT Enterprise
   version: Introducing ChatGPT Enterprise
 release_id: chatgpt-2023-08-28-introducing-chatgpt-enterprise-eb7127e6
 source_release: Introducing ChatGPT Enterprise
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-enterprise
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Introducing ChatGPT Enterprise
 <!-- chronolog:begin region="summary" -->
 Today we’re launching ChatGPT Enterprise, which offers enterprise-grade security and privacy, unlimited higher-speed GPT-4 access, longer context windows for processing longer inputs, advanced data analysis capabilities, customization options, and much more.ChatGPT Enterprise also provides unlimited access to Advanced…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-enterprise)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 1
 <!-- chronolog:end -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: b6d64ba4f38ad728164ddeeeb78179aa47f25143f77cd039bd47f1cf749f00a7
+machine_hash: 160361965c4ab4c2137e6e2e743ec7a05f8fc9d55d802fcd3f2b916070e84b13
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
     Voice response'
   evidence:
   - quote: Type back when you can’t talk and still get a Voice response
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#an-improved-voice-interface-the-audio-you-know-with-text-and-visuals-when-you-need-them
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -56,7 +56,7 @@ ChatGPT — An improved Voice interface: the audio you know, with text and visua
 <!-- chronolog:begin region="evidence" -->
 > Type back when you can’t talk and still get a Voice response
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#an-improved-voice-interface-the-audio-you-know-with-text-and-visuals-when-you-need-them
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

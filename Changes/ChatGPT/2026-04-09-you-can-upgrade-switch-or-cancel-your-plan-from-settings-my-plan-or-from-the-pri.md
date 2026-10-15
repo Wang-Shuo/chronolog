@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: paradigm-shift
-machine_hash: ca286f9534fe8d41d9414e6fd1fd2e65d41850fa0704b51243666a6424b8d079
+machine_hash: a725769c7f5a03a873523232fca87d51dad20c34e12e066e5a60da672199bdeb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: You can upgrade, switch, or cancel your plan from Settings > My Plan or
       from the Pricing page.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-pro-plan-options
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: paradigm-shift
   product: chatgpt
@@ -60,7 +60,7 @@ ChatGPT — New Pro plan options: You can upgrade, switch, or cancel your plan f
 <!-- chronolog:begin region="evidence" -->
 > You can upgrade, switch, or cancel your plan from Settings > My Plan or from the Pricing page.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-pro-plan-options
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

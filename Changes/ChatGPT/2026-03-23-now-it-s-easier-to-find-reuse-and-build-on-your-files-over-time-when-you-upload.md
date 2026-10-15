@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 284e300ae4fe4fb9ea122a78308e6a3b12ddc906783bfe52ea15681a97e5fae7
+machine_hash: 5432706b4c3923abb1dfd4f44df730645ab01cf8f06d4eec64ae421f5a9b3044
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,7 +45,7 @@ record:
       uploaded in Temporary Chat are not saved to your Library.Availability: Rolling
       out globally for Plus, Pro, and Business users, coming soon to users in the
       European Economic Area, Switzerland, and the United Kingdom.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#file-library-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -100,7 +100,7 @@ ChatGPT — File Library in ChatGPT: Now, it’s easier to find, reuse, and buil
 <!-- chronolog:begin region="evidence" -->
 > Now, it’s easier to find, reuse, and build on your files over time. When you upload or create a file—whether it’s a PDF, spreadsheet, image, or more—it’s automatically saved to your Library. Generated images will continue to appear in the Images tab.You can quickly reference files in a chat using recent files in the composer, or browse everything you’ve uploaded in the Library tab in the sidebar. You can also ask ChatGPT about files you’ve saved (“What should I know about the document I uploaded yesterday?”) Library is available on web only. ‘Recent files’ in the composer and file search in ChatGPT are supported on iOS and Android.Files remain in your Library until you delete them. Files uploaded in Temporary Chat are not saved to your Library.Availability: Rolling out globally for Plus, Pro, and Business users, coming soon to users in the European Economic Area, Switzerland, and the United Kingdom.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#file-library-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

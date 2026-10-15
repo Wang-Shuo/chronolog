@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: ea2e1e1efd860b94343260702e47693ed89b7e5d7db1eb87bcfbf9732d761add
+machine_hash: 4ad7c17fae8c32a8eca37a28b439dc0a1590964a65f7dde163ef5bdc70f2b5a7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,7 +24,7 @@ record:
     app for Android, version 1.2026.216 or later.'
   evidence:
   - quote: Available in the ChatGPT app for Android, version 1.2026.216 or later.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt-on-android
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -55,7 +55,7 @@ ChatGPT — Updates to ChatGPT on Android: Available in the ChatGPT app for Andr
 <!-- chronolog:begin region="evidence" -->
 > Available in the ChatGPT app for Android, version 1.2026.216 or later.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt-on-android
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

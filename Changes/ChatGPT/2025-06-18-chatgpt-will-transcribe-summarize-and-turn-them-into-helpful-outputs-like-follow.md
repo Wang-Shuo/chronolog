@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 50017ec7d08490d411a80212fcb1f2c1830b5b3eed221899a9f003009212746d
+machine_hash: 52c057d2b2e953a64e272ce5cc749d20c9823ade6f9f66c7df8c97b72105c5aa
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: ChatGPT will transcribe, summarize, and turn them into helpful outputs
       like follow-ups, plans, or even code.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-record-mode
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -60,7 +60,7 @@ ChatGPT — ChatGPT record mode: ChatGPT will transcribe, summarize, and turn th
 <!-- chronolog:begin region="evidence" -->
 > ChatGPT will transcribe, summarize, and turn them into helpful outputs like follow-ups, plans, or even code.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-record-mode
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

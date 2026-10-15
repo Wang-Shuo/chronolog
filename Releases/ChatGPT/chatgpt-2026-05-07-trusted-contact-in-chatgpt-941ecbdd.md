@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-05-07'
-machine_hash: 24778e10b06ab57f39dce8892eea5c6f18c4890142183ee641b420b2de0aaa9d
+machine_hash: a9fc4a4d0ff578c5a2cf61830ae19c15b9037ae53528246df8cea79855b1f647
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -15,13 +15,13 @@ record:
     You may choose your trusted contact in settings, and ChatGPT will send them an
     invitation…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#trusted-contact-in-chatgpt
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Trusted contact in ChatGPT
   version: Trusted contact in ChatGPT
 release_id: chatgpt-2026-05-07-trusted-contact-in-chatgpt-941ecbdd
 source_release: Trusted contact in ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#trusted-contact-in-chatgpt
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Trusted contact in ChatGPT
 <!-- chronolog:begin region="summary" -->
 Over the coming weeks, we'll be rolling out trusted contact, an optional safety feature for adults with personal ChatGPT accounts.Trusted contact in ChatGPT helps you connect with a person you trust if you need additional support. You may choose your trusted contact in settings, and ChatGPT will send them an invitation…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#trusted-contact-in-chatgpt)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 1
 <!-- chronolog:end -->

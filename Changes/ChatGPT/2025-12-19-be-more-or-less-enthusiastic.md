@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 8b9614a1165cc05abc76c95bdc9e46c7ffc39f7ce8a770cd3e04b4f33b07ae9a
+machine_hash: cffa1960f64d869eed1c36acf8b73b7e4272cd95245217d56cfb8827b884d8e5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -23,7 +23,7 @@ record:
   description: 'ChatGPT — New detailed characteristic controls: Be more or less enthusiastic'
   evidence:
   - quote: Be more or less enthusiastic
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-detailed-characteristic-controls
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -56,7 +56,7 @@ ChatGPT — New detailed characteristic controls: Be more or less enthusiastic
 <!-- chronolog:begin region="evidence" -->
 > Be more or less enthusiastic
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-detailed-characteristic-controls
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 563bce19c07926f80f467558e24ce60b484d24b6d4970ae6b246fd9c89408760
+machine_hash: bd4e1e31b6612dc433f6d330021de53da62b6b90a54935053c7d91235e9b4a02
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       for context, but it won’t reference memories or conversations from outside the
       project. Information from the project is also kept out of memory used in chats
       outside the project.Changes may take a few hours to take effect.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#edit-memory-settings-for-existing-projects
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -74,7 +74,7 @@ ChatGPT — Edit memory settings for existing projects: With project-only memory
 <!-- chronolog:begin region="evidence" -->
 > With project-only memory, ChatGPT can use conversations from the same project for context, but it won’t reference memories or conversations from outside the project. Information from the project is also kept out of memory used in chats outside the project.Changes may take a few hours to take effect.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#edit-memory-settings-for-existing-projects
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

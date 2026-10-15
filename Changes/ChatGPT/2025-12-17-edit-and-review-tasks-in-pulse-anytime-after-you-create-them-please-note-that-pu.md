@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: f99e0f804c7433e2f812336506f94a79ad6f0247a1a9606d037f4b531a13d5bb
+machine_hash: 0258beebbf59700050721256a11e4a0f7d065b2b9e425ca66ca26ac242932c42
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Edit and review tasks in Pulse anytime after you create them. Please note
       that Pulse is only available in ChatGPT Pro.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#tasks-are-now-in-pulse
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -60,7 +60,7 @@ ChatGPT — Tasks are now in Pulse: Edit and review tasks in Pulse anytime after
 <!-- chronolog:begin region="evidence" -->
 > Edit and review tasks in Pulse anytime after you create them. Please note that Pulse is only available in ChatGPT Pro.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#tasks-are-now-in-pulse
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

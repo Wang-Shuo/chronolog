@@ -1,7 +1,7 @@
 ---
 changes_count: 4
 date: '2026-02-19'
-machine_hash: 982f8e2c2840a7dbea1c3a812ae082dd37e1253dc97158cd4121f7bf2173bed1
+machine_hash: 68dfa256064296266efee3fd84466a2791f897424de51e42fb53e69e5d1d093e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -12,13 +12,13 @@ record:
   source_summary: 'We improved Code Blocks in ChatGPT to make them more interactive.
     You can write, edit, and preview your code in ChatGPT, all in oneplace:'
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#interactive-code-blocks-in-chatgpt
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Interactive Code Blocks in ChatGPT
   version: Interactive Code Blocks in ChatGPT
 release_id: chatgpt-2026-02-19-interactive-code-blocks-in-chatgpt-c2254f84
 source_release: Interactive Code Blocks in ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#interactive-code-blocks-in-chatgpt
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -32,7 +32,7 @@ version: Interactive Code Blocks in ChatGPT
 <!-- chronolog:begin region="summary" -->
 We improved Code Blocks in ChatGPT to make them more interactive. You can write, edit, and preview your code in ChatGPT, all in oneplace:
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#interactive-code-blocks-in-chatgpt)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 4
 <!-- chronolog:end -->

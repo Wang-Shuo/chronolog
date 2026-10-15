@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: eac3603ed1215f111b1d3740885ebe1a0d19c8cf404ff27ab81b9488c0cb4dd3
+machine_hash: 76fe434fa95f970bf1ff131eca9169481bdb86fad7ab6efa866c37c37ea1ae61
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: Faster sharing. Sharing chats is now easier and faster, with a quicker-loading
       share menu.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-web-and-android-updates-edit-image-prompts-share-faster-and-smoother-conversations
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -73,7 +73,7 @@ ChatGPT — ChatGPT Web and Android updates: Edit image prompts, share faster, a
 <!-- chronolog:begin region="evidence" -->
 > Faster sharing. Sharing chats is now easier and faster, with a quicker-loading share menu.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-web-and-android-updates-edit-image-prompts-share-faster-and-smoother-conversations
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

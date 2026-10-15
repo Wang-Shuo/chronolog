@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 415c45b98c871d0c499eadc1aea2cfbaa8eaa10aa7b420669b60d16bc9fbd038
+machine_hash: 009dcf2fb258cecca1ffd844d937528fb00e1e6c578ff4c58027f3e1af3fbcad
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
       guiding conversations toward productive outcomes. We think these updates help
       GPT-4o feel more intuitive and effective across a variety of tasks–we hope you
       agree!
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-gpt-4o
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -75,7 +75,7 @@ ChatGPT — Improvements to GPT-4o: We’re making additional improvements to GP
 <!-- chronolog:begin region="evidence" -->
 > We’re making additional improvements to GPT-4o, optimizing when it saves memories and enhancing problem-solving capabilities for STEM. We’ve also made subtle changes to the way it responds, making it more proactive and better at guiding conversations toward productive outcomes. We think these updates help GPT-4o feel more intuitive and effective across a variety of tasks–we hope you agree!
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-gpt-4o
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

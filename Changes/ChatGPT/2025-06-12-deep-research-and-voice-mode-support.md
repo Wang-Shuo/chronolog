@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 7f307ec2e2899a0431432eac7f7d63ca88602341fcccd133228abed4de7648d1
+machine_hash: 2d019a1c34c846c01a63981f6986926b2b3cf7a01d953fbaf93ef405e3ee466c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
     voice mode support'
   evidence:
   - quote: Deep research and voice mode support
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#adding-more-capabilities-to-projects
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -66,7 +66,7 @@ ChatGPT — Adding More Capabilities to Projects: Deep research and voice mode s
 <!-- chronolog:begin region="evidence" -->
 > Deep research and voice mode support
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#adding-more-capabilities-to-projects
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

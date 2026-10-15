@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 1ebf0e68073f9db9a84efbf5c8ebe1de0bf6df7e112ee03664a242b467c9167c
+machine_hash: d926681e9d85143b3abeb18af26d5827ae3c34c413562a3c224f059f3ed2287e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       and your Pinned section now includes both chats and projects. You can also organize
       Recents as one combined list, or group chats by project so related work stays
       together.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -64,7 +64,7 @@ ChatGPT — ChatGPT app experience updates: Easier pinning and sidebar organizat
 <!-- chronolog:begin region="evidence" -->
 > Easier pinning and sidebar organization: It’s now easier to keep important work close in ChatGPT. You can pin chats and projects directly from the sidebar, and your Pinned section now includes both chats and projects. You can also organize Recents as one combined list, or group chats by project so related work stays together.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

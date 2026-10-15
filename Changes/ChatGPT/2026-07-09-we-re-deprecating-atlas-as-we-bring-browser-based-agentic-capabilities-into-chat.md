@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 11e33ed3c284b31cdd66041c20292487effb5da2f39e672c57c021b65a728e7a
+machine_hash: 0843e55c872e358cce38e1886bded8ddfe9d11191c6ec91be542b8f075bbe721
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,7 +53,7 @@ record:
       agentic work, try the ChatGPT desktop app. For help while browsing in Chrome,
       try the ChatGPT Chrome extension or sidebar, where available.You can learn more
       about moving off Atlas in our Help Center article.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-atlas
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -109,7 +109,7 @@ ChatGPT — Retiring Atlas: We’re deprecating Atlas as we bring browser-based 
 <!-- chronolog:begin region="evidence" -->
 > We’re deprecating Atlas as we bring browser-based agentic capabilities into ChatGPT and Codex. Atlas is scheduled to stop working on August 9, 2026.We want to make this transition as easy as possible. Before then, move any Atlas data you want to keep. Atlas browser data, including bookmarks, open tabs, and browser history, will not transfer automatically. You can export your cookies and passwords to the ChatGPT desktop app and your bookmarks to Chrome. Be sure to save any important pages or URLs from your open tabs and browser history before August 9.Your ChatGPT conversation history is separate and will remain available in ChatGPT, subject to your plan, workspace settings, and account access.We’re building on what we learned from Atlas to bring a more capable browser experience to ChatGPT, including multiple tabs, downloads, improved navigation, and account login support where available. For deeper browser-based agentic work, try the ChatGPT desktop app. For help while browsing in Chrome, try the ChatGPT Chrome extension or sidebar, where available.You can learn more about moving off Atlas in our Help Center article.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-atlas
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

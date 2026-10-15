@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: f17deb9640a3ecf802a9804d540647735e566bd3458d5d91079903f45d8d173b
+machine_hash: dffb0b60f79a2a2e4ff318a560191874cac1191eee2cfa189d0780de767095cf
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: 'Content creation: Apply project-specific instructions to keep tone and
       style consistent across contributors.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#shared-projects
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -60,7 +60,7 @@ ChatGPT — Shared projects: Content creation: Apply project-specific instructio
 <!-- chronolog:begin region="evidence" -->
 > Content creation: Apply project-specific instructions to keep tone and style consistent across contributors.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#shared-projects
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

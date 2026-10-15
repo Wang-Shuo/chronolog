@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 349672797300c46f7dedfed0f32fea814f90cf1ceec3cb30bcf44a1f6f999d96
+machine_hash: c8f4414b367838735804263b883cff25fc76e4bd2f390c2b7026c2796347a728
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
   - quote: The Auto functionality can be accessed by clicking Configure in the model
       picker menu and choosing "Auto-switch to Thinking.” This setting will automatically
       be on if your last chat was set to Auto.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-model-picker-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -72,7 +72,7 @@ ChatGPT — Updates to the model picker in ChatGPT: The Auto functionality can b
 <!-- chronolog:begin region="evidence" -->
 > The Auto functionality can be accessed by clicking Configure in the model picker menu and choosing "Auto-switch to Thinking.” This setting will automatically be on if your last chat was set to Auto.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-model-picker-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

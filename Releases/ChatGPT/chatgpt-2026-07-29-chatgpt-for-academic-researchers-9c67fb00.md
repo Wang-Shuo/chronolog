@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-07-29'
-machine_hash: 0d88d5b3aedaa66003925b35c377a4f4e5052be340cc1afbbd33fca87f0edde4
+machine_hash: 7cea7e4b76df4a9d31ae52cd34ce8e2fe026a59d7cb6e4681b1f5c3df5961fca
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -15,13 +15,13 @@ record:
     team. Each workspace supports up to five members and includes business data protections
     and ChatGPT…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-for-academic-researchers
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: ChatGPT for Academic Researchers
   version: ChatGPT for Academic Researchers
 release_id: chatgpt-2026-07-29-chatgpt-for-academic-researchers-9c67fb00
 source_release: ChatGPT for Academic Researchers
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-for-academic-researchers
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: ChatGPT for Academic Researchers
 <!-- chronolog:begin region="summary" -->
 Research rarely happens alone. ChatGPT for Academic Researchers gives faculty and postdoctoral researchers the ability to apply for 12 months of complimentary access to a dedicated ChatGPT workspace for a small, verified team. Each workspace supports up to five members and includes business data protections and ChatGPT…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-for-academic-researchers)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 1
 <!-- chronolog:end -->

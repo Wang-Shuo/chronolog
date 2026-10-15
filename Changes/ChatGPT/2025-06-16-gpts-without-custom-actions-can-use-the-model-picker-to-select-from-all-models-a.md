@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: f2a487ec423d4558fb26c096526117eaab4dc663f766bb93eb46e1b8188cb6da
+machine_hash: 63f8355666f8d17a6b9942f283396188761f87c8f4ce4b8c824322396cb3fee8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: GPTs without Custom Actions can use the model picker to select from all
       models available to the user.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#expanded-model-support-for-custom-gpts
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -70,7 +70,7 @@ ChatGPT — Expanded Model Support for Custom GPTs: GPTs without Custom Actions 
 <!-- chronolog:begin region="evidence" -->
 > GPTs without Custom Actions can use the model picker to select from all models available to the user.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#expanded-model-support-for-custom-gpts
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

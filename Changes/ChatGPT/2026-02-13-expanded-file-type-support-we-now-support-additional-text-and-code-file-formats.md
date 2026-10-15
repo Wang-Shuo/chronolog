@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: f54b59b36d195f221881c915088cac8498308886578ab7941b01f76361640a65
+machine_hash: f3535d6c67e05454e10f504540ef88db575731b558c5ce38d011fb1aabea266b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
   - quote: Expanded file type support. We now support additional text and code file
       formats, improving compatibility with source files, logs, configuration files,
       and other structured text.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-updates-better-file-uploads-easier-copying-and-more-reliable-long-chats
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -64,7 +64,7 @@ ChatGPT — ChatGPT updates: Better file uploads, easier copying, and more relia
 <!-- chronolog:begin region="evidence" -->
 > Expanded file type support. We now support additional text and code file formats, improving compatibility with source files, logs, configuration files, and other structured text.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-updates-better-file-uploads-easier-copying-and-more-reliable-long-chats
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

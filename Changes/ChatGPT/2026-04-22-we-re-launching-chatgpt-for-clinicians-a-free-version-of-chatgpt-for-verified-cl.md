@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: a89f31b95c6bf8892acf34c55b8a282e6c72bc751a5c011e6a5dfbe78844db25
+machine_hash: c8d5552043ee0b98c4ee6c04eb3f1644577a7be980a2dddb58b33723cdb0cfde
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,7 +43,7 @@ record:
       under the same login, and your existing ChatGPT workspace remains available.For
       more information, please see our help article ChatGPT for Clinicians or our
       blog post Making ChatGPT better for clinicians.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-for-clinicians
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -86,7 +86,7 @@ ChatGPT — ChatGPT for Clinicians: We’re launching ChatGPT for Clinicians, a 
 <!-- chronolog:begin region="evidence" -->
 > We’re launching ChatGPT for Clinicians, a free version of ChatGPT for verified clinicians in the United States. It’s designed to support real clinical work at the time of care, including evidence review, documentation, and medical research, with trusted clinical search, citations, reusable skills, deep research across medical literature, and support for earning CME credits on eligible clinical questions.If you already have a ChatGPT account, you can use that same account to sign up. After signup, ChatGPT for Clinicians appears as a separate workspace under the same login, and your existing ChatGPT workspace remains available.For more information, please see our help article ChatGPT for Clinicians or our blog post Making ChatGPT better for clinicians.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-for-clinicians
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

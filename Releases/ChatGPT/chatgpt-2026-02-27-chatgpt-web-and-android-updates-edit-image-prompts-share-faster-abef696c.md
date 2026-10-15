@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2026-02-27'
-machine_hash: 24ddd111f10478d6c7b41434c42739a0e804aa1c9fba7e963b26aab03f020990
+machine_hash: 2b2ae39bd990dafafe9c2211190ce16c2e1a30e4361588480d39cf79251d037a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -11,7 +11,7 @@ record:
   release_id: chatgpt-2026-02-27-chatgpt-web-and-android-updates-edit-image-prompts-share-faster-abef696c
   source_summary: Web
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-web-and-android-updates-edit-image-prompts-share-faster-and-smoother-conversations
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: 'ChatGPT Web and Android updates: Edit image prompts, share faster, and smoother
     conversations'
   version: 'ChatGPT Web and Android updates: Edit image prompts, share faster, and
@@ -20,7 +20,7 @@ release_id: chatgpt-2026-02-27-chatgpt-web-and-android-updates-edit-image-prompt
 source_release: 'ChatGPT Web and Android updates: Edit image prompts, share faster,
   and smoother conversations'
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-web-and-android-updates-edit-image-prompts-share-faster-and-smoother-conversations
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -36,7 +36,7 @@ version: 'ChatGPT Web and Android updates: Edit image prompts, share faster, and
 <!-- chronolog:begin region="summary" -->
 Web
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-web-and-android-updates-edit-image-prompts-share-faster-and-smoother-conversations)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 5
 <!-- chronolog:end -->

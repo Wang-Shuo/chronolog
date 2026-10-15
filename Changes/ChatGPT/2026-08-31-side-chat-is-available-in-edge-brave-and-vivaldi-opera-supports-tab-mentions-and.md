@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 3299aa6413f81539f38caa38f14bb349fe6ae593223c6fe5e2dc5c3f723e7108
+machine_hash: 8406ba4532b03fbb38f899a70f07ad9cb0f79f6cf7137b807e76d4fa6ab93321
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Side chat is available in Edge, Brave, and Vivaldi. Opera supports tab
       mentions and browser control, but not side chat. Update the desktop app before
       setup; availability depends on your workspace settings.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-the-browser-extension-in-more-browsers
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -69,7 +69,7 @@ ChatGPT — Use the browser extension in more browsers: Side chat is available i
 <!-- chronolog:begin region="evidence" -->
 > Side chat is available in Edge, Brave, and Vivaldi. Opera supports tab mentions and browser control, but not side chat. Update the desktop app before setup; availability depends on your workspace settings.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-the-browser-extension-in-more-browsers
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 1508348f6e4ac21bc57a4731844d0fa007778e81b5803fd75c15b0279a4c0a62
+machine_hash: 1a37a603fc78ef330d8bcebf14324979e6bb6f3861eccb1e2b5e679e8bd36d84
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: 'Pro users get two additional options: Light (snappiest) and Heavy (deeper
       reasoning).'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#toggle-thinking-time-in-the-message-composer
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -60,7 +60,7 @@ ChatGPT — Toggle thinking time in the message composer: Pro users get two addi
 <!-- chronolog:begin region="evidence" -->
 > Pro users get two additional options: Light (snappiest) and Heavy (deeper reasoning).
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#toggle-thinking-time-in-the-message-composer
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

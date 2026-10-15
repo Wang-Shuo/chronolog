@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 37fbd1140e31574343837ea94c1da83fab3db61500b101342eb4d137addd95cc
+machine_hash: e298443f0bd4f7ac8cf3e0e23fde8c53df4b170ab04acd27d4ea77a598aa9309
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       (synced and non-synced), Microsoft OneDrive (Business), Microsoft SharePoint.Note
       this feature is currently limited to users located outside of the EEA, Switzerland,
       and the UK.Learn more about Connectors.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chat-search-connectors-pro
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -73,7 +73,7 @@ ChatGPT — Chat search connectors (Pro): Pro users are now able to use chat sea
 <!-- chronolog:begin region="evidence" -->
 > Pro users are now able to use chat search connectors (in addition to deep research connectors) for the following integrations: Dropbox, Box, Google Drive (synced and non-synced), Microsoft OneDrive (Business), Microsoft SharePoint.Note this feature is currently limited to users located outside of the EEA, Switzerland, and the UK.Learn more about Connectors.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chat-search-connectors-pro
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

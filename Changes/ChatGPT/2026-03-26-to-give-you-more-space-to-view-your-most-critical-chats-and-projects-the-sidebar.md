@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: faaa8b756a0a69fb875d437e1bcd83c21f76244b575c9621b41842f4445d4781
+machine_hash: ead225738b49aef4e6c2b849b0fed9182a99b14468f27f6253cc3454d9438a68
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       sidebar menu is now simplified on iOS and Android. ChatGPT experiences available
       to you based on your plan and usage—like Images, Codex, Pulse, and Apps—now
       appear in a horizontal bar above your chats and projects.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#a-simplified-sidebar-on-mobile
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -78,7 +78,7 @@ ChatGPT — A simplified sidebar on mobile: To give you more space to view your 
 <!-- chronolog:begin region="evidence" -->
 > To give you more space to view your most critical chats and projects, the sidebar menu is now simplified on iOS and Android. ChatGPT experiences available to you based on your plan and usage—like Images, Codex, Pulse, and Apps—now appear in a horizontal bar above your chats and projects.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#a-simplified-sidebar-on-mobile
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

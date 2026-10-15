@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 0e973839143234253ca65d22803fd83763addccd9c29b3a7ba4116b780680df4
+machine_hash: 807f9105aeec01e6d6a7875eedb0bb7bec34a82aad755f36d780455253c49079
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: The GitHub connector is now available globally to Plus/Pro/Team users,
       including those in the EEA, Switzerland, and the UK.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#github-connector-for-deep-research
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -67,7 +67,7 @@ ChatGPT — GitHub connector for deep research: The GitHub connector is now avai
 <!-- chronolog:begin region="evidence" -->
 > The GitHub connector is now available globally to Plus/Pro/Team users, including those in the EEA, Switzerland, and the UK.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#github-connector-for-deep-research
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

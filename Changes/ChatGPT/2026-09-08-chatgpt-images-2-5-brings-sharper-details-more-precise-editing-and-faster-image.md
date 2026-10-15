@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 0a5fa201ce201542548bca6ae16fb283aef621309f27da1b3fb182b2019d87f8
+machine_hash: 6cded05218746609e661fcfa021407b9766006596b10d868a649459870277a94
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   evidence:
   - quote: 'ChatGPT Images 2.5 brings sharper details, more precise editing, and faster
       image generation. We’re also introducing new ways to create and share:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-images-25-new-ways-to-create-and-edit
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -70,7 +70,7 @@ ChatGPT — ChatGPT Images 2.5: new ways to create and edit: ChatGPT Images 2.5 
 <!-- chronolog:begin region="evidence" -->
 > ChatGPT Images 2.5 brings sharper details, more precise editing, and faster image generation. We’re also introducing new ways to create and share:
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-images-25-new-ways-to-create-and-edit
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

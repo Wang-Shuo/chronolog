@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 609ab060edf2360edb2e3aebff8a1ded858a72509e9d340ec84606eb95348c30
+machine_hash: 31fab9ae6ea13f462986d3ed380a45496cabc531d997865be94b9b85b178f9c6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: Available globally on supported Plus, Pro, Business, and Enterprise plans
       across web, desktop, iOS, and Android.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#connect-multiple-google-accounts-to-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -69,7 +69,7 @@ ChatGPT — Connect multiple Google accounts to ChatGPT: Available globally on s
 <!-- chronolog:begin region="evidence" -->
 > Available globally on supported Plus, Pro, Business, and Enterprise plans across web, desktop, iOS, and Android.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#connect-multiple-google-accounts-to-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

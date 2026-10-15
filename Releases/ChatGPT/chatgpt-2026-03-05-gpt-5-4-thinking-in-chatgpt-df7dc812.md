@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-03-05'
-machine_hash: f8c3f8023a2cdc60d54213dd8bdba7f53f265aa20694539b02b0749151bf3b3c
+machine_hash: 03920ff162c738438ac0758f3c9328d7221c9f79aea01d7d5237236ed4ea68aa
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -14,13 +14,13 @@ record:
     industry-leading coding capabilities of GPT‑5.3‑Codex⁠ while improving how the
     model works across tools, software environments, and professional tasks involving…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-54-thinking-in-chatgpt
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: GPT-5.4 Thinking in ChatGPT
   version: GPT-5.4 Thinking in ChatGPT
 release_id: chatgpt-2026-03-05-gpt-5-4-thinking-in-chatgpt-df7dc812
 source_release: GPT-5.4 Thinking in ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-54-thinking-in-chatgpt
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: GPT-5.4 Thinking in ChatGPT
 <!-- chronolog:begin region="summary" -->
 GPT‑5.4 brings together the best of our recent advances in reasoning, coding, and agentic workflows into a single frontier model. It incorporates the industry-leading coding capabilities of GPT‑5.3‑Codex⁠ while improving how the model works across tools, software environments, and professional tasks involving…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-54-thinking-in-chatgpt)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 1
 <!-- chronolog:end -->

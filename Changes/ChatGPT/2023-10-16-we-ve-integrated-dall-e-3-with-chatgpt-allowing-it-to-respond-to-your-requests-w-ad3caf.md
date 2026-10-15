@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 5daa0f3672c554e013069f7bc7aae4089cb7d68c5df4eb22f5707cf7e91c9d0a
+machine_hash: 22177ea31b93f2b8e27fbcb6bf604449d5af9ea5bd840f89799adce0ffc8ac06
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
       what you want to see and it will translate your ideas into exceptionally accurate
       images.To use DALL·E 3 on both web and mobile, choose DALL·E 3 in the selector
       under GPT-4. The message limit may vary based on capacity.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#dalle-3-is-now-rolling-out-in-beta
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -77,7 +77,7 @@ ChatGPT — DALL·E 3 is now rolling out in beta: We’ve integrated DALL·E 3 w
 <!-- chronolog:begin region="evidence" -->
 > We’ve integrated DALL·E 3 with ChatGPT, allowing it to respond to your requests with images. From a simple sentence to a detailed paragraph, ask ChatGPT what you want to see and it will translate your ideas into exceptionally accurate images.To use DALL·E 3 on both web and mobile, choose DALL·E 3 in the selector under GPT-4. The message limit may vary based on capacity.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#dalle-3-is-now-rolling-out-in-beta
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: e326ea46bfe3d75b8e8964b5e51fb56f26a70a112403f5b21c6151a49d08ff1f
+machine_hash: d5bef138753c029ffd6ea52a07e7424fcce88af222a60dd3280b1d7085c60b34
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: We’re introducing a new $100/month Pro plan and updating how Codex usage
       works across Plus and Pro.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-pro-plan-options
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -62,7 +62,7 @@ ChatGPT — New Pro plan options: We’re introducing a new $100/month Pro plan 
 <!-- chronolog:begin region="evidence" -->
 > We’re introducing a new $100/month Pro plan and updating how Codex usage works across Plus and Pro.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-pro-plan-options
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

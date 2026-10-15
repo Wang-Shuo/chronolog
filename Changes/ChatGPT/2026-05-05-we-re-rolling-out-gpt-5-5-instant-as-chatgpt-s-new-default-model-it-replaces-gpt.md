@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 91fded8d0c1b19257d94997561cecf0b4860a9b0fc25dfe7998384ae4409c6e6
+machine_hash: 74780eae9a2503876c22046d70522cedff651f8fb5e526bf12657076c983bded
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,7 +50,7 @@ record:
       need to repeat context across conversations.GPT-5.5 Instant is rolling out starting
       today to all ChatGPT users. Paid users can continue using GPT-5.3 Instant for
       three months through model configuration settings before it is retired.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-55-instant-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -94,7 +94,7 @@ ChatGPT — GPT-5.5 Instant in ChatGPT: We’re rolling out GPT-5.5 Instant as C
 <!-- chronolog:begin region="evidence" -->
 > We’re rolling out GPT-5.5 Instant as ChatGPT’s new default model. It replaces GPT-5.3 Instant for all ChatGPT users and improves everyday answers across accuracy, clarity and conciseness, image understanding, STEM questions, and when ChatGPT decides to search the web.GPT-5.5 Instant is more factually reliable, especially for prompts where accuracy matters most. It also gives tighter, more direct answers without losing useful details, asks fewer unnecessary follow-up questions, and reduces clutter like overformatting and gratuitous emojis.For Plus and Pro users using ChatGPT on web, GPT-5.5 Instant can more effectively use context from past chats, files, and Gmail, when connected, to make responses more relevant. This can help ChatGPT tailor suggestions, pick up ongoing work, and reduce the need to repeat context across conversations.GPT-5.5 Instant is rolling out starting today to all ChatGPT users. Paid users can continue using GPT-5.3 Instant for three months through model configuration settings before it is retired.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-55-instant-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

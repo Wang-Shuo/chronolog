@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: d458b4011bb8915fe86a817e6d864604814d9dcd45a035d08070ceae8c3b1d26
+machine_hash: 1d02e5cb950c0834d04148c74456e06b6c91eb9b7072038560f8f1707f9f2da4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,7 +50,7 @@ record:
       countries over the next few weeks. Users will receive an in-product notice when
       the update becomes available to them. For Plus and Pro users, ChatGPT can also
       remember more useful context, with twice as much memory capacity.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-that-stays-more-up-to-date
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -97,7 +97,7 @@ ChatGPT — Memory that stays more up to date: We’ve upgraded memory so ChatGP
 <!-- chronolog:begin region="evidence" -->
 > We’ve upgraded memory so ChatGPT can better keep your context up to date, helping responses stay more relevant. This makes memory more useful by reducing stale or contradictory saved memories and helps ChatGPT better understand your preferences, goals, and ongoing work. You can review the memories that ChatGPT may use to personalize responses through sources or in your memory summary.Memories are now updated automatically, with ChatGPT keeping track of the details it determines are most important so it can continue building on the context you’ve already shared. If you prefer to revert to the legacy saved memories system, go to Settings > Memory > Saved memories.This update is rolling out to Plus and Pro users in the US today. To access it on iOS or Android, update your ChatGPT app to the latest version. We’ll expand to Free and Go plans and additional countries over the next few weeks. Users will receive an in-product notice when the update becomes available to them. For Plus and Pro users, ChatGPT can also remember more useful context, with twice as much memory capacity.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-that-stays-more-up-to-date
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

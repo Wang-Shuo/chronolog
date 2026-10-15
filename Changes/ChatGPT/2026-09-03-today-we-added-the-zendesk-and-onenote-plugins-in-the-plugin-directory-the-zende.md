@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 2f5e57c4408fbc99346fca7156c5209bfccd23cd1f55ebee00e6e874dbadafdd
+machine_hash: ef2b9ff58a069b2baa61c0c68e703464d90b51e4e9817a7adfdc22bf8de7177b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
       The Zendesk plugin helps teams review support tickets and customer history,
       find relevant knowledge, and prepare replies in ChatGPT and Codex. Members connect
       their own Zendesk accounts to work with the support information they can access.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#zendesk-onenote-plugins-in-chatgpt-and-codex-beta
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -75,7 +75,7 @@ ChatGPT — Zendesk & OneNote Plugins in ChatGPT and Codex [Beta]: Today, we add
 <!-- chronolog:begin region="evidence" -->
 > Today, we added the Zendesk and OneNote plugins in the Plugin directory. The Zendesk plugin helps teams review support tickets and customer history, find relevant knowledge, and prepare replies in ChatGPT and Codex. Members connect their own Zendesk accounts to work with the support information they can access.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#zendesk-onenote-plugins-in-chatgpt-and-codex-beta
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

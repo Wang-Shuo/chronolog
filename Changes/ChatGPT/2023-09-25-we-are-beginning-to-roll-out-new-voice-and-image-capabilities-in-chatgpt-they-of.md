@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 8daee65576c098caba9aaa82ca2384c608d08655d4b60384ef35b999211b6358
+machine_hash: 2699619bdd957075d173d2f531723de1de03d66805d623ed11638f3f67f1d7e4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
   - quote: We are beginning to roll out new voice and image capabilities in ChatGPT.
       They offer a new, more intuitive type of interface by allowing you to have a
       voice conversation or show ChatGPT what you’re talking about. Learn more here.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-voice-and-image-capabilities-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -61,7 +61,7 @@ ChatGPT — New voice and image capabilities in ChatGPT: We are beginning to rol
 <!-- chronolog:begin region="evidence" -->
 > We are beginning to roll out new voice and image capabilities in ChatGPT. They offer a new, more intuitive type of interface by allowing you to have a voice conversation or show ChatGPT what you’re talking about. Learn more here.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-voice-and-image-capabilities-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

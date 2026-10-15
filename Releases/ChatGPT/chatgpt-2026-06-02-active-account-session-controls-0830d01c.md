@@ -1,7 +1,7 @@
 ---
 changes_count: 4
 date: '2026-06-02'
-machine_hash: 930fcaec42bfafbe44c5877357ff2474e3fb087cea4dc14acbad35509e948f3a
+machine_hash: ebba8cb6d6f097527794bf458acdb371d50b624be6d06ee88c1be5813240be8c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -13,13 +13,13 @@ record:
     that helps users review sessions associated with their account and sign out of
     sessions they don’t recognize.Users can now:'
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#active-account-session-controls
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Active account session controls
   version: Active account session controls
 release_id: chatgpt-2026-06-02-active-account-session-controls-0830d01c
 source_release: Active account session controls
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#active-account-session-controls
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -33,7 +33,7 @@ version: Active account session controls
 <!-- chronolog:begin region="summary" -->
 We’re rolling out Active sessions, a new security feature in ChatGPT that helps users review sessions associated with their account and sign out of sessions they don’t recognize.Users can now:
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#active-account-session-controls)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 4
 <!-- chronolog:end -->

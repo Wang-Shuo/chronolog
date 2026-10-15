@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 21f448fb9c5a9a9d6689d57d6849bc7f6fc7cf0ff066c26c6fa02b95a17f452d
+machine_hash: e3eacb817be1d6a9191a387c0c62f8888e7e0b4a318fa05034a44ae319a57cd1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: You can change your Health permissions anytime in Settings → Plugins →
       Health. Learn more about how we keep Health data private and secure.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updated-permissions-for-new-health-connections
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -59,7 +59,7 @@ ChatGPT — Updated permissions for new Health connections: You can change your 
 <!-- chronolog:begin region="evidence" -->
 > You can change your Health permissions anytime in Settings → Plugins → Health. Learn more about how we keep Health data private and secure.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updated-permissions-for-new-health-connections
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

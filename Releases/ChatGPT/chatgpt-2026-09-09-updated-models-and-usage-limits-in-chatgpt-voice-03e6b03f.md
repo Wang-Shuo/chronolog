@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2026-09-09'
-machine_hash: c45e1b8d51fc04c43c9accdc72f899b8b3f38f6535570cfdb610dbad4c754697
+machine_hash: 3b7943b9c78198b69ed1c53f91b39a0c1b5c5815f0243cf77ac6addf80cdf408
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -14,13 +14,13 @@ record:
     using the same controls as text chat. Available models and their usage limits
     depend on your plan.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updated-models-and-usage-limits-in-chatgpt-voice
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Updated models and usage limits in ChatGPT Voice
   version: Updated models and usage limits in ChatGPT Voice
 release_id: chatgpt-2026-09-09-updated-models-and-usage-limits-in-chatgpt-voice-03e6b03f
 source_release: Updated models and usage limits in ChatGPT Voice
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updated-models-and-usage-limits-in-chatgpt-voice
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Updated models and usage limits in ChatGPT Voice
 <!-- chronolog:begin region="summary" -->
 ChatGPT Voice can now use GPT-5.6 or GPT-6 Astra when it needs to search or reason through harder questions. Choose your model and reasoning effort using the same controls as text chat. Available models and their usage limits depend on your plan.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updated-models-and-usage-limits-in-chatgpt-voice)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 2
 <!-- chronolog:end -->

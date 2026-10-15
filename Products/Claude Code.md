@@ -1,19 +1,19 @@
 ---
 coverage:
-  acquired_at: '2026-10-13T10:57:19.300643+00:00'
+  acquired_at: '2026-10-15T01:55:15Z'
   acquisition: http
   coverage: available-endpoint
   earliest: '2025-12-19'
   known_gaps: GitHub Releases starts at v2.0.73 on 2025-12-19. Official CHANGELOG.md
     contains 0.2.x–2.0.72 history without publication dates; not imported.
-  last_successful_fetch: '2026-10-13T10:57:19.300643+00:00'
-  latest: '2026-10-09'
-  release_count: 241
+  last_successful_fetch: '2026-10-15T01:55:15Z'
+  latest: '2026-10-14'
+  release_count: 243
   url: https://api.github.com/repos/anthropics/claude-code/releases
 created: '2025-12-19'
-date: '2026-10-09'
-machine_hash: 71f42ffc14c132af55492797403ef3d7f64a65f92af6e1f2cecebf2a307838db
-modified: '2026-10-09'
+date: '2026-10-14'
+machine_hash: 43e129e0b23b0892ca6cb2dc8dcefc472cfa4f4987a35af2af931eee2909b99c
+modified: '2026-10-14'
 product: claude-code
 product_name: Claude Code
 publication: active
@@ -40,11 +40,11 @@ top_themes:
 - automation-scheduling
 - collaboration
 - voice
-- multimodal
 - file-data
+- multimodal
 - search-browsing
 - learning-tools
-verbosity_baseline: 4.07
+verbosity_baseline: 4.06
 ---
 
 # Claude Code
@@ -56,9 +56,9 @@ The release archive records announced changes; a reviewed phase narrative is not
 
 ## Source coverage
 <!-- chronolog:begin region="coverage" -->
-Archived release dates: 2025-12-19 → 2026-10-09.
+Archived release dates: 2025-12-19 → 2026-10-14.
 
-Last successful fetch: 2026-10-13T10:57:19.300643+00:00.
+Last successful fetch: 2026-10-15T01:55:15Z.
 
 [Source](https://api.github.com/repos/anthropics/claude-code/releases).
 
@@ -67,7 +67,7 @@ Coverage limits: GitHub Releases starts at v2.0.73 on 2025-12-19. Official CHANG
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
-Claude Code: 241 archived releases and 778 tracked changes.
+Claude Code: 243 archived releases and 784 tracked changes.
 
 Most represented themes: apps-integrations, safety-privacy, interface-experience, developer-workflow, agent-mode.
 <!-- chronolog:end -->
@@ -320,6 +320,8 @@ No reviewed capability turning points assigned yet. The archive below is chronol
 - 2026-10-08: [[Releases/Claude Code/claude-code-2026-10-08-v2-1-294-github-406385982-681de204|v2.1.294]]
 - 2026-10-08: [[Releases/Claude Code/claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510|v2.1.295]]
 - 2026-10-09: [[Releases/Claude Code/claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a|v2.1.296]]
+- 2026-10-14: [[Releases/Claude Code/claude-code-2026-10-14-v2-1-299-github-412217284-623d9162|v2.1.299]]
+- 2026-10-14: [[Releases/Claude Code/claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0|v2.1.300]]
 <!-- chronolog:end -->
 
 ## Change Timeline
@@ -1102,6 +1104,12 @@ No reviewed capability turning points assigned yet. The archive below is chronol
 - 2026-10-09 mobile-desktop: [[Changes/Claude Code/2026-10-09-added-a-code-key-to-the-claude-apps-gateway-s-managed-policies-the-same-settings|Added a code key to the Claude apps gateway's managed.policies: the same s]]
 - 2026-10-09 agent-mode: [[Changes/Claude Code/2026-10-09-added-claude-code-workflow-subagent-model-to-run-every-workflow-agent-on-one-mod|Added CLAUDE_CODE_WORKFLOW_SUBAGENT_MODEL to run every workflow agent on one m]]
 - 2026-10-09 context-window: [[Changes/Claude Code/2026-10-09-added-autocompactwindow-to-subagent-frontmatter-and-agents-definitions-so-a-suba|Added autoCompactWindow to subagent frontmatter and --agents definitions, so]]
+- 2026-10-14 file-data: [[Changes/Claude Code/2026-10-14-added-prompt-media-so-a-prompt-submit-hook-of-a-mod-installed-by-managed-setting|Added USD .prompt.media so a prompt.submit hook of a mod installed by managed s]]
+- 2026-10-14 context-window: [[Changes/Claude Code/2026-10-14-added-cache-creation-5m-tokens-and-cache-creation-1h-tokens-to-the-opentelemetry|Added cache_creation_5m_tokens and cache_creation_1h_tokens to the OpenTelem]]
+- 2026-10-14 developer-workflow: [[Changes/Claude Code/2026-10-14-added-a-dir-prop-on-a-mod-s-text-for-right-to-left-text-on-windows-and-in-vs-cod|Added a dir prop on a mod's Text for right-to-left text: on Windows and in V]]
+- 2026-10-14 agent-mode: [[Changes/Claude Code/2026-10-14-added-ui-view-agentid-for-mods-shows-an-agent-s-transcript-in-the-main-view-when|Added USD .ui.view({ agentId }) for mods: shows an agent's transcript in the main]]
+- 2026-10-14 context-window: [[Changes/Claude Code/2026-10-14-added-claude-code-idle-compact-min-tokens-to-change-idle-compaction-s-200k-token|Added CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS to change idle compaction's 200K-tok]]
+- 2026-10-14 developer-workflow: [[Changes/Claude Code/2026-10-14-added-idle-compaction-in-the-terminal-a-200k-token-conversation-left-idle-for-ab|Added idle compaction in the terminal: a 200K+ token conversation left idle for]]
 <!-- chronolog:end -->
 
 ## Editor Notes

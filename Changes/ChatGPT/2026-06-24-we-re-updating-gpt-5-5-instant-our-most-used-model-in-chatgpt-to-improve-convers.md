@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: b7aa7e5cdae5d4b2056a9c8837027f5564ea191139c72e19e7318f76c477b15b
+machine_hash: 052dd41fd1c14bee42b08740fefba1292b21a3c6deb24c448bd3c89e3ae4aa07
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,7 +53,7 @@ record:
       those elements are helpful.Overall, responses should feel more tasteful and
       cohesive. Formatting is less templated and more intentionally designed, with
       greater creativity alongside better restraint.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-55-instant-update
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -97,7 +97,7 @@ ChatGPT — GPT-5.5 Instant Update: We’re updating GPT-5.5 Instant, our most-u
 <!-- chronolog:begin region="evidence" -->
 > We’re updating GPT-5.5 Instant, our most-used model in ChatGPT, to improve conversational quality—especially when users are making a decision, asking for advice, planning something, researching options, or shopping.The model is better at identifying the underlying goal behind a question and carrying context across multiple turns. It also follows complex instructions more reliably: when a request includes several constraints or requirements, responses are more likely to address all of them and clearly explain why a recommendation is a good fit.When users add constraints, clarify what they mean, or push back on an answer, the model should adapt more effectively instead of repeating its original approach.Shopping and local business queries should also feel more useful. The model makes better use of location context to surface relevant nearby options and can bring together product recommendations, business information, and images more coherently when those elements are helpful.Overall, responses should feel more tasteful and cohesive. Formatting is less templated and more intentionally designed, with greater creativity alongside better restraint.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-55-instant-update
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

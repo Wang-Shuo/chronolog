@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 87f7a6de9c259097493ef79b84dc65bf6ce7d0f3af6a2ad429fccc3b9cf7df9b
+machine_hash: 8cfeee408debbad3ad5f46ab3148e9ab950b7cd563992395b033bc94a43d3456
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,7 +34,7 @@ record:
       information, run computations, or use third-party services. You can learn more
       about plugins here.Today, we will begin extending plugin access to users and
       developers from our waitlist. The plugins we are rolling out with are:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-plugins-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -74,7 +74,7 @@ ChatGPT — Introducing plugins in ChatGPT: We are announcing experimental suppo
 <!-- chronolog:begin region="evidence" -->
 > We are announcing experimental support for AI plugins in ChatGPT — tools designed specifically for language models. Plugins can help ChatGPT access up-to-date information, run computations, or use third-party services. You can learn more about plugins here.Today, we will begin extending plugin access to users and developers from our waitlist. The plugins we are rolling out with are:
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-plugins-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

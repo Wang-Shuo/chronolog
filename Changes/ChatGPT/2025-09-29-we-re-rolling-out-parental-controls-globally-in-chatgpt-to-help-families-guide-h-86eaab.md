@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 136cea69b029a7048fff548fecbf90c413283f6a19220ad05d41def7465e1676
+machine_hash: 22dc06710a8d30d7815a226a173d2c36e61a17bcde11999b96c5d481a731ea49
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,7 +53,7 @@ record:
       be contacted by email, SMS, push notification, or all three.Parents can adjust
       certain features, set time limits, and add safeguards that work for their family
       including:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#parental-controls
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -96,7 +96,7 @@ ChatGPT — Parental Controls: We’re rolling out parental controls globally in
 <!-- chronolog:begin region="evidence" -->
 > We’re rolling out parental controls globally in ChatGPT to help families guide how ChatGPT works in their homes. Available starting on the web today, mobile soon.To set up parental controls, a parent or guardian sends an invite to their teen to connect accounts. After the teen accepts, the parent can manage the teen’s settings from their own account. Teens can also invite a parent to connect.Once a teen is connected to a parent’s account, they automatically receive additional content protections, such as reduced graphic content and viral challenges. Parents will have the option to turn this setting off if they choose, but teen users cannot make changes.Parents don’t have access to their teen’s conversations, except in rare cases where our system and trained reviewers detect possible signs of serious safety risk, parents may be notified — but only with the information needed to support their teen’s safety. Parents can choose if they’d like to be contacted by email, SMS, push notification, or all three.Parents can adjust certain features, set time limits, and add safeguards that work for their family including:
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#parental-controls
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

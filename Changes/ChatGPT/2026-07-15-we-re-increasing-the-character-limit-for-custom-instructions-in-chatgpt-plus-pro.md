@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: c257bb2e45a3f222f2827e8ad83cde40fa0973fba8911b4203aeb1ff13079b75
+machine_hash: ec673ed68e0dae686f3e5ecc93db1040a436d0e456edff99bf54410d0d5d4d57
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       Plus, Pro, Enterprise, Business, and Education users can now save up to 5,000
       characters, up from 1,500, giving them more room to customize ChatGPT’s response
       style and behavior.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#increased-custom-instructions-limit
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -72,7 +72,7 @@ ChatGPT — Increased custom instructions limit: We’re increasing the characte
 <!-- chronolog:begin region="evidence" -->
 > We’re increasing the character limit for custom instructions in ChatGPT. Plus, Pro, Enterprise, Business, and Education users can now save up to 5,000 characters, up from 1,500, giving them more room to customize ChatGPT’s response style and behavior.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#increased-custom-instructions-limit
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

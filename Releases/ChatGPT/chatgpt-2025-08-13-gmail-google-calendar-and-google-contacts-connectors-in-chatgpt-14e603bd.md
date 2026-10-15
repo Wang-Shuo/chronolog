@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-08-13'
-machine_hash: b6b770e399024f33952cb7e3a105ba747555c395d15390125fe7a7d73facab4c
+machine_hash: 23d34028a0f61c6f52ee1818bc0962729d2c66f28df07eb821f8b72f56ea2996
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -14,14 +14,14 @@ record:
     today.This was previously made available to Pro users on August 12, 2025.Learn
     more about connectors.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-plus
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Gmail, Google Calendar, and Google Contacts Connectors in ChatGPT (Plus)
   version: Gmail, Google Calendar, and Google Contacts Connectors in ChatGPT (Plus)
 release_id: chatgpt-2025-08-13-gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-14e603bd
 source_release: Gmail, Google Calendar, and Google Contacts Connectors in ChatGPT
   (Plus)
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-plus
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -36,7 +36,7 @@ version: Gmail, Google Calendar, and Google Contacts Connectors in ChatGPT (Plus
 <!-- chronolog:begin region="summary" -->
 Gmail, Google Calendar, and Google Contacts Connectors in ChatGPT are now available to Plus users globally. Access will be granted to users throughout today.This was previously made available to Pro users on August 12, 2025.Learn more about connectors.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-plus)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 1
 <!-- chronolog:end -->

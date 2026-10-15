@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-02-13'
-machine_hash: 70cecfab3bb3e63f3d29b1662ddf3e770cdd01f5c69618a4dc9ccd7d286b77d8
+machine_hash: c61efe1e6d2e22decddfcfd31d66b2ccaf381f9e10966efb9c58da7efc199cc0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -14,13 +14,13 @@ record:
     Thinking), as previously announced. There are no API changes at this time. For
     details, see our blog post and Help Center.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-gpt-4o-and-other-legacy-models
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Retiring GPT-4o and other legacy models
   version: Retiring GPT-4o and other legacy models
 release_id: chatgpt-2026-02-13-retiring-gpt-4o-and-other-legacy-models-71b41b16
 source_release: Retiring GPT-4o and other legacy models
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-gpt-4o-and-other-legacy-models
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Retiring GPT-4o and other legacy models
 <!-- chronolog:begin region="summary" -->
 As previously announced, we have retired GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini from ChatGPT. We are also retiring GPT-5 (Instant and Thinking), as previously announced. There are no API changes at this time. For details, see our blog post and Help Center.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-gpt-4o-and-other-legacy-models)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 1
 <!-- chronolog:end -->

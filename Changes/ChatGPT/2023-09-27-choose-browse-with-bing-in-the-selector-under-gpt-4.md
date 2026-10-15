@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: d25f2bd8c4f06b722a020b1d8186d182ba4b24fcc48f15ac9e9d7ef425fa69d6
+machine_hash: c2fa7df1d1d34f2b9ebca5b56c573e37a1eed08569aae5b44ac0576d9da64846
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,7 +24,7 @@ record:
     with Bing in the selector under GPT-4.'
   evidence:
   - quote: Choose Browse with Bing in the selector under GPT-4.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-is-rolling-back-out-to-plus-users
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -65,7 +65,7 @@ ChatGPT — Browsing is rolling back out to Plus users: Choose Browse with Bing 
 <!-- chronolog:begin region="evidence" -->
 > Choose Browse with Bing in the selector under GPT-4.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-is-rolling-back-out-to-plus-users
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

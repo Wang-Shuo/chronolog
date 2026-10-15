@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 0ae2dbfd13805ed85cb8d348b57b2ef59e89ea0f02e21c0e39d22f56bfcac0ce
+machine_hash: ef5ed2ba2ec84d13e8eb68e5ce14f5ea147a0502e6039196f2326ccd4e8c62ab
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,7 +24,7 @@ record:
     Up to 15 hours with GPT-Live-1.'
   evidence:
   - quote: 'Pro ($100/month): Up to 15 hours with GPT-Live-1.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updated-models-and-usage-limits-in-chatgpt-voice
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -57,7 +57,7 @@ ChatGPT — Updated models and usage limits in ChatGPT Voice: Pro ($100/month): 
 <!-- chronolog:begin region="evidence" -->
 > Pro ($100/month): Up to 15 hours with GPT-Live-1.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updated-models-and-usage-limits-in-chatgpt-voice
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 1dda811f6c650f6a17e27a170c39488e7139ca09878ab4060a42b87cd905739a
+machine_hash: bce6c8dd1c807eba0bcd3222b83e5acf01ccdf1c8397f38559aa039d120b2ac8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       a space for a project, add the material you need, and share it with other people
       so you can keep building on the same work. Space replaces Library for accounts
       with access; your existing Projects remain separate.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#organize-your-work-in-chatgpt-space
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -65,7 +65,7 @@ ChatGPT — Organize your work in ChatGPT Space: Space brings your Pages, files,
 <!-- chronolog:begin region="evidence" -->
 > Space brings your Pages, files, and related work together in ChatGPT. Create a space for a project, add the material you need, and share it with other people so you can keep building on the same work. Space replaces Library for accounts with access; your existing Projects remain separate.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#organize-your-work-in-chatgpt-space
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

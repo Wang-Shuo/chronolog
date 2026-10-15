@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 8c79fd03c5107a563ae88805ac51eeaea7883439f57e8d676e05446ea466e610
+machine_hash: 0ca95065231dea34bd55f24b8671e22ef379541e8f4c8169d6d3e125506c921b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
       and choose an option from the Accent color drop-down.On mobile (iOS and Android):
       Tap your profile icon at the bottom, go to Personalization, then select Color
       Scheme to pick your accent color.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#accent-colors
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -85,7 +85,7 @@ ChatGPT — Accent Colors: You can now set an accent color that applies to eleme
 <!-- chronolog:begin region="evidence" -->
 > You can now set an accent color that applies to elements in ChatGPT, including your conversation bubbles, the Voice button, and highlighted text.On web: Click your profile icon at the bottom left, select Settings, go to the General tab, and choose an option from the Accent color drop-down.On mobile (iOS and Android): Tap your profile icon at the bottom, go to Personalization, then select Color Scheme to pick your accent color.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#accent-colors
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

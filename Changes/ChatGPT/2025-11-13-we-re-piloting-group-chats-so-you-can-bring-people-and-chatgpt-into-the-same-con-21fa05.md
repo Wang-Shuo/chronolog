@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: ebd82827c76d61d4b5b1ae97b9ed48cedb573d1c925f4b9ac50620693477c5ce
+machine_hash: 0e5682f3012a7041ba3e9e0bcc7f18f3281a7f0e310b70c201d7658a118aa4f3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,7 +38,7 @@ record:
       Android in New Zealand, Japan, South Korea, and Taiwan. We’ll use early feedback
       from this pilot to improve the experience and inform how we expand to more regions
       and plans over time. To learn more visit the blog.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#group-chats-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -71,7 +71,7 @@ ChatGPT — Group chats in ChatGPT: We’re piloting group chats so you can brin
 <!-- chronolog:begin region="evidence" -->
 > We’re piloting group chats so you can bring people - and ChatGPT - into the same conversation. Plan trips, make decisions, and collaborate on projects together while ChatGPT helps search, summarize, generate content, and keep everyone on the same page.Group chats are starting to roll out on ChatGPT Web, iOS, and Android in New Zealand, Japan, South Korea, and Taiwan. We’ll use early feedback from this pilot to improve the experience and inform how we expand to more regions and plans over time. To learn more visit the blog.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#group-chats-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

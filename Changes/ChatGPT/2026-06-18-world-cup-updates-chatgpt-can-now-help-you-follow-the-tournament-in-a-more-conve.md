@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 9a988e021a335d61e646a6a5c7401cb649a5a11cc2e6448c08e9efae8381968f
+machine_hash: 344f2a68bcff1ca57da04449fa2450a22db3572785e74551dfa88f36d9fbf674
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       more conversational way. Ask about schedules, matchups, teams and players, country
       storylines, predictions, and what different match outcomes mean. Get started
       at chatgpt.com/football.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -62,7 +62,7 @@ ChatGPT — ChatGPT app experience updates: World Cup updates: ChatGPT can now h
 <!-- chronolog:begin region="evidence" -->
 > World Cup updates: ChatGPT can now help you follow the tournament in a more conversational way. Ask about schedules, matchups, teams and players, country storylines, predictions, and what different match outcomes mean. Get started at chatgpt.com/football.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

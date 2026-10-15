@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2025-11-25'
-machine_hash: a404359bf71941e09adfaddc78c50716a2c720cc460eec4aa3a13ae9bf295cc1
+machine_hash: 71cd4d84534d7ab2a314caa9eb5d2a5f90b19f1b8521f633a1ff4e3e60bd2462
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -14,7 +14,7 @@ record:
     separate mode required.Many of you have asked for a more flexible Voice experience—now,
     you can speak, listen, and see your conversation at the same time. Answers will…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#an-improved-voice-interface-the-audio-you-know-with-text-and-visuals-when-you-need-them
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: 'An improved Voice interface: the audio you know, with text and visuals when
     you need them.'
   version: 'An improved Voice interface: the audio you know, with text and visuals
@@ -23,7 +23,7 @@ release_id: chatgpt-2025-11-25-an-improved-voice-interface-the-audio-you-know-wi
 source_release: 'An improved Voice interface: the audio you know, with text and visuals
   when you need them.'
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#an-improved-voice-interface-the-audio-you-know-with-text-and-visuals-when-you-need-them
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -39,7 +39,7 @@ version: 'An improved Voice interface: the audio you know, with text and visuals
 <!-- chronolog:begin region="summary" -->
 We’re making ChatGPT Voice a seamless part of the ChatGPT experience, so you can use voice right inside the chat interface you already use every day—no separate mode required.Many of you have asked for a more flexible Voice experience—now, you can speak, listen, and see your conversation at the same time. Answers will…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#an-improved-voice-interface-the-audio-you-know-with-text-and-visuals-when-you-need-them)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 5
 <!-- chronolog:end -->

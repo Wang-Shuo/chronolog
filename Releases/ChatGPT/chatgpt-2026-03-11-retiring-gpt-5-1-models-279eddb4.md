@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-03-11'
-machine_hash: e3ebc1e9590e775e0188dc6c3268e34c9653e43a99bfa74a0d84db76ec11b3be
+machine_hash: 9976b7befe2a6b1a76215ef051e747f6b9f17e32fd8cb8468dc45dcd8f30fdf3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -14,13 +14,13 @@ record:
     conversations that used GPT-5.1 will automatically continue on the corresponding
     current model: GPT-5.3 Instant, GPT-5.4 Thinking, or GPT-5.4 Pro.'
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-gpt-51-models
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Retiring GPT-5.1 models
   version: Retiring GPT-5.1 models
 release_id: chatgpt-2026-03-11-retiring-gpt-5-1-models-279eddb4
 source_release: Retiring GPT-5.1 models
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-gpt-51-models
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Retiring GPT-5.1 models
 <!-- chronolog:begin region="summary" -->
 As of March 11, 2026, GPT-5.1 models are no longer available in ChatGPT.This applies to GPT-5.1 Instant, GPT-5.1 Thinking, and GPT-5.1 Pro. Existing conversations that used GPT-5.1 will automatically continue on the corresponding current model: GPT-5.3 Instant, GPT-5.4 Thinking, or GPT-5.4 Pro.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-gpt-51-models)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 1
 <!-- chronolog:end -->

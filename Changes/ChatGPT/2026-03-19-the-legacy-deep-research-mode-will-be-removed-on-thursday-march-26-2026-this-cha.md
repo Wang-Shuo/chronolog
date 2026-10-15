@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: a7d8229648745d58ed94fe8289cacf77fd9df6a21c78009bfc0698897e866f5e
+machine_hash: c8159f241c71b945ef797afaf86d945f502b3e7d3039ccc3073f3de8968961e7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       This change only affects the legacy mode; the current deep research experience
       will remain unchanged.Historical conversations and results will remain accessible.To
       learn more about deep research, see: Deep research in ChatGPT.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#legacy-deep-research-mode-deprecation-notice
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -63,7 +63,7 @@ ChatGPT — Legacy deep research mode deprecation notice: The legacy deep resear
 <!-- chronolog:begin region="evidence" -->
 > The legacy deep research mode will be removed on Thursday, March 26, 2026. This change only affects the legacy mode; the current deep research experience will remain unchanged.Historical conversations and results will remain accessible.To learn more about deep research, see: Deep research in ChatGPT.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#legacy-deep-research-mode-deprecation-notice
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

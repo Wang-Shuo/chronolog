@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-01-22'
-machine_hash: 5a3a99c1439fa2a962a0e8436ac46fa6e9260b3df706b003b3b63335e09b4532
+machine_hash: fcecf3c2b68105c6130644d992ca8878b5a5a0f0c3d74bb7e0f49ac105dd406c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -15,13 +15,13 @@ record:
     tone for ChatGPT, along with tuning characteristics like warmth and emoji use,
     within the…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#52-personality-system-prompt-update
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: 5.2 Personality System Prompt Update
   version: 5.2 Personality System Prompt Update
 release_id: chatgpt-2026-01-22-5-2-personality-system-prompt-update-efbe6e4b
 source_release: 5.2 Personality System Prompt Update
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#52-personality-system-prompt-update
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: 5.2 Personality System Prompt Update
 <!-- chronolog:begin region="summary" -->
 We’re updating GPT-5.2 Instant’s default personality to be more conversational and better at adapting its tone contextually, making exchanges feel smoother and more natural. You can still select a different base style and tone for ChatGPT, along with tuning characteristics like warmth and emoji use, within the…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#52-personality-system-prompt-update)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 1
 <!-- chronolog:end -->

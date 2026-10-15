@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: df40dcdb6badc4d9b25a6fa83c54306b54285a07c88ca40b7f68946088a26ce8
+machine_hash: 180ef7d5166d80dbacc3e2574d78cbfde6263f29545c8f5ddea4623e049cd8e2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: Upload the latest file versions directly from Google Drive, Microsoft OneDrive
       Personal, and Microsoft OneDrive including SharePoint
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-data-analysis-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -61,7 +61,7 @@ ChatGPT — Improvements to data analysis in ChatGPT: Upload the latest file ver
 <!-- chronolog:begin region="evidence" -->
 > Upload the latest file versions directly from Google Drive, Microsoft OneDrive Personal, and Microsoft OneDrive including SharePoint
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-data-analysis-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

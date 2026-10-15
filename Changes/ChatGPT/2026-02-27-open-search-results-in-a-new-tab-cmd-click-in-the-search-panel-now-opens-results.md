@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 1389633ef852ce44ae2688095751f6794b8611272c75ae06f649c96ac3523feb
+machine_hash: 34f1d160773cea6faba8928b772350167b84e8b78a3dbec926c0fbdbfceff21a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
   evidence:
   - quote: Open search results in a new tab. Cmd+click in the search panel now opens
       results in a new tab, making it easier to explore without losing your place.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-web-and-android-updates-edit-image-prompts-share-faster-and-smoother-conversations
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -71,7 +71,7 @@ ChatGPT — ChatGPT Web and Android updates: Edit image prompts, share faster, a
 <!-- chronolog:begin region="evidence" -->
 > Open search results in a new tab. Cmd+click in the search panel now opens results in a new tab, making it easier to explore without losing your place.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-web-and-android-updates-edit-image-prompts-share-faster-and-smoother-conversations
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

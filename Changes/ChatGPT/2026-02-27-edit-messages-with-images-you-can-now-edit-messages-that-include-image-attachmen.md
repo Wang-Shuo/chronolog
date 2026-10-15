@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 1a03a888afcce5c6fda284fc47157b7723dc26b082bbca24688908453cab46d9
+machine_hash: 5f6924fa65b371a82e37aea89ec069997e47fae607e5d10f30e68c3e260dbd2d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Edit messages with images. You can now edit messages that include image
       attachments, so you don’t have to start over to adjust your prompt or regenerate
       results.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-web-and-android-updates-edit-image-prompts-share-faster-and-smoother-conversations
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -61,7 +61,7 @@ ChatGPT — ChatGPT Web and Android updates: Edit image prompts, share faster, a
 <!-- chronolog:begin region="evidence" -->
 > Edit messages with images. You can now edit messages that include image attachments, so you don’t have to start over to adjust your prompt or regenerate results.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-web-and-android-updates-edit-image-prompts-share-faster-and-smoother-conversations
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

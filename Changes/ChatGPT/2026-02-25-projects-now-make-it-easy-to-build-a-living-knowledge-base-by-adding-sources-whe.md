@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: b5141b18b80d88a4e526b3e38bb85b7207661592913306cdfcd5c657e4a68901
+machine_hash: 1d8254e3cadf842a0b65758d43ce46d44b6632049ed1203e45835bae85e1dbb1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Projects now make it easy to build a living knowledge base by adding sources
       wherever your context already lives; from apps, conversations, or quick text
       inputs.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#add-sources-to-your-projects-from-anywhere
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -70,7 +70,7 @@ ChatGPT — Add sources to your projects from anywhere: Projects now make it eas
 <!-- chronolog:begin region="evidence" -->
 > Projects now make it easy to build a living knowledge base by adding sources wherever your context already lives; from apps, conversations, or quick text inputs.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#add-sources-to-your-projects-from-anywhere
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

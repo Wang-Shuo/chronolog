@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: d749633dd8f48eec45e0527933eb45a4ab27ba1d35cf37148ab4af414ff5d667
+machine_hash: c765ae9e247d1aa3b7b512205a3fb36a198674490cc76df52d7a72aea2485211
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,7 +24,7 @@ record:
     download presentation-ready charts and documents'
   evidence:
   - quote: Customize and download presentation-ready charts and documents
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-data-analysis-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -55,7 +55,7 @@ ChatGPT — Improvements to data analysis in ChatGPT: Customize and download pre
 <!-- chronolog:begin region="evidence" -->
 > Customize and download presentation-ready charts and documents
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-data-analysis-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

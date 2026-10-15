@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 8fb571862840cfcc0500e28550bdf861154f1d16a97ad09fc865381163391fa3
+machine_hash: 4cb9590fa438dfad188f45152e324a5bab94542c33af3401c02732a11a72b0b5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -36,7 +36,7 @@ record:
       your wall is 72" wide and you can't drill into it, you can simply add that information
       midstream by clicking “update” in the sidebar and sending the new information
       as a message. The model will adjust its approach based on your new requirements.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#interrupt-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -84,7 +84,7 @@ ChatGPT — Interrupt ChatGPT: You can now interrupt long-running queries (such 
 <!-- chronolog:begin region="evidence" -->
 > You can now interrupt long-running queries (such as deep research or GPT-5 Pro) to refine what you’re asking—no restart required or progress lost. For example, if you're researching the perfect bookshelf and suddenly remember that your wall is 72" wide and you can't drill into it, you can simply add that information midstream by clicking “update” in the sidebar and sending the new information as a message. The model will adjust its approach based on your new requirements.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#interrupt-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

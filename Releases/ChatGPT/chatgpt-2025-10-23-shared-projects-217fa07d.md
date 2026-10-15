@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2025-10-23'
-machine_hash: bd0a1beb8ed654e56d2cdafcdb62f21e102f06c86bdbb7b00ce5d36220eea837
+machine_hash: 218a24d2421881fb9c8da6d8ec7dcaf56e8ae7398809244f8e49c90f47ed6f43
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -14,13 +14,13 @@ record:
     can draw from anything in the shared project – including chats, uploaded files
     and custom instructions – so responses are informed by your group's internal knowledge…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#shared-projects
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Shared projects
   version: Shared projects
 release_id: chatgpt-2025-10-23-shared-projects-217fa07d
 source_release: Shared projects
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#shared-projects
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Shared projects
 <!-- chronolog:begin region="summary" -->
 Starting today, project sharing is available to all ChatGPT users, including for Free, Plus, Pro, and Go users globally on web, iOS, and Android.ChatGPT can draw from anything in the shared project – including chats, uploaded files and custom instructions – so responses are informed by your group's internal knowledge…
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#shared-projects)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 3
 <!-- chronolog:end -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: db2526e3271eefa4f1b6ee2ad65a7048a9fc4b957330be3e59228642e084021f
+machine_hash: 239f71fc4c4ef1d6ec54df177b1d3ae9c44b3aaad2504db72603585a4b33839a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: 'Sources from chats: Save useful ChatGPT responses into your project so
       great outputs become reusable knowledge.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#add-sources-to-your-projects-from-anywhere
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -61,7 +61,7 @@ ChatGPT — Add sources to your projects from anywhere: Sources from chats: Save
 <!-- chronolog:begin region="evidence" -->
 > Sources from chats: Save useful ChatGPT responses into your project so great outputs become reusable knowledge.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#add-sources-to-your-projects-from-anywhere
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

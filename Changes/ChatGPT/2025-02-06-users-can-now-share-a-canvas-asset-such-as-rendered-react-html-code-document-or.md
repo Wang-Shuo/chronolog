@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: f28518bf332e693c10dcd7601c2ac45440493383bc36476553f01e8e01168b6a
+machine_hash: 1e2a16075f3d5da9bd1ba95ada5a4b29b01a37269a51c5c5070aaa5c4c5225d4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Users can now share a Canvas asset such as rendered React/HTML code, document,
       or code with another user, similar to how you share a conversation. You can
       do this from the Canvas toolbar when Canvas is open.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#canvas-sharing
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -61,7 +61,7 @@ ChatGPT — Canvas sharing: Users can now share a Canvas asset such as rendered 
 <!-- chronolog:begin region="evidence" -->
 > Users can now share a Canvas asset such as rendered React/HTML code, document, or code with another user, similar to how you share a conversation. You can do this from the Canvas toolbar when Canvas is open.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#canvas-sharing
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

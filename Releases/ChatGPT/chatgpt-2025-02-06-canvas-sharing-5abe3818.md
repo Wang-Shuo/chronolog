@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2025-02-06'
-machine_hash: d8cabc1cc7dd01b0eef3b177ce031f9e485e5ff5b69fd271186e12ee6a56c62e
+machine_hash: 589335c64777e16785ed9faaefd5fe8b6ad00de0f88439b1fb7f5ebecc6f0d5a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -13,13 +13,13 @@ record:
     document, or code with another user, similar to how you share a conversation.
     You can do this from the Canvas toolbar when Canvas is open.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#canvas-sharing
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Canvas sharing
   version: Canvas sharing
 release_id: chatgpt-2025-02-06-canvas-sharing-5abe3818
 source_release: Canvas sharing
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#canvas-sharing
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -33,7 +33,7 @@ version: Canvas sharing
 <!-- chronolog:begin region="summary" -->
 Users can now share a Canvas asset such as rendered React/HTML code, document, or code with another user, similar to how you share a conversation. You can do this from the Canvas toolbar when Canvas is open.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#canvas-sharing)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 2
 <!-- chronolog:end -->

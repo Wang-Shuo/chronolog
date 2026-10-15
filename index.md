@@ -1,8 +1,8 @@
 ---
 created: '2022-12-15'
-date: '2026-10-09'
-machine_hash: 3e57716e75671c656bb0eb24d08c17471a52397b4f917397d78936d1f2f6f84c
-modified: '2026-10-09'
+date: '2026-10-14'
+machine_hash: 428a346c367c6717191b9b25033a39944cc49a7a70e7a9b2e47a7a66c6693acf
+modified: '2026-10-14'
 publication: active
 tags:
 - index
@@ -17,7 +17,7 @@ title: ChronoLog
 
 Archived release dates: 2022-12-15 → 2026-10-07.
 
-Official browser snapshot captured: 2026-10-13T10:59:17Z. Imported snapshot; this is not a successful automatic HTTP fetch.
+Official browser snapshot captured: 2026-10-14T23:26:11+0800. Imported snapshot; this is not a successful automatic HTTP fetch.
 
 [Source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes).
 
@@ -25,9 +25,9 @@ Coverage limits: Official changelog entries only; Codex-only entries excluded. R
 
 ### Cursor
 
-Archived release dates: 2023-03-14 → 2026-10-06.
+Archived release dates: 2023-03-14 → 2026-10-13.
 
-Last successful fetch: 2026-10-13T10:53:45Z.
+Last successful fetch: 2026-10-15T01:55:30Z.
 
 [Source](https://cursor.com/changelog).
 
@@ -35,9 +35,9 @@ Coverage limits: Official paginated changelog only; unannounced changes are outs
 
 ### Claude Code
 
-Archived release dates: 2025-12-19 → 2026-10-09.
+Archived release dates: 2025-12-19 → 2026-10-14.
 
-Last successful fetch: 2026-10-13T10:57:19.300643+00:00.
+Last successful fetch: 2026-10-15T01:55:15Z.
 
 [Source](https://api.github.com/repos/anthropics/claude-code/releases).
 
@@ -53,10 +53,10 @@ Coverage limits: GitHub Releases starts at v2.0.73 on 2025-12-19. Official CHANG
 ## Overview
 <!-- chronolog:begin region="overview" -->
 Product count: 3
-Change count: 1940
+Change count: 1949
 Theme count: 25
 Alert count: 0
-Pending theme review: 143
+Pending theme review: 149
 <!-- chronolog:end -->
 
 ## Products

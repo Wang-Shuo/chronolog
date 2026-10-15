@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2025-06-16'
-machine_hash: f213b70e6118f432b3cdd3ec80045531e258d7269c319d365f89f82e5de2e3e1
+machine_hash: 4f2d5c72e1179d7bb610b3721209727de99549cdd5b044ca0d5954f1c64e389f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -13,13 +13,13 @@ record:
     of ChatGPT models (GPT-4o, o3, o4-mini and more) when building Custom GPTs. This
     was launched to Plus, Pro and Team users earlier this month.Key details:'
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#expanded-model-support-for-custom-gpts
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Expanded Model Support for Custom GPTs
   version: Expanded Model Support for Custom GPTs
 release_id: chatgpt-2025-06-16-expanded-model-support-for-custom-gpts-55f4555f
 source_release: Expanded Model Support for Custom GPTs
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#expanded-model-support-for-custom-gpts
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -33,7 +33,7 @@ version: Expanded Model Support for Custom GPTs
 <!-- chronolog:begin region="summary" -->
 Enterprise and Edu users can also now choose from the full set of ChatGPT models (GPT-4o, o3, o4-mini and more) when building Custom GPTs. This was launched to Plus, Pro and Team users earlier this month.Key details:
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#expanded-model-support-for-custom-gpts)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 3
 <!-- chronolog:end -->

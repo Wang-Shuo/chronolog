@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-03-18'
-machine_hash: aa272fc15f3ab5095a0f6f0c1286ae2555f23c8b973a6f7ff772e9eae2603173
+machine_hash: f0c0a4514e2ac50b1c4b943373d85bd29b49d06409f5fb8d7060ad50af125ffe
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -11,13 +11,13 @@ record:
   release_id: chatgpt-2025-03-18-android-app-c47c961b
   source_summary: 1⁠. Increased the default size for in‐line generated images.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#android-app
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Android App
   version: Android App
 release_id: chatgpt-2025-03-18-android-app-c47c961b
 source_release: Android App
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#android-app
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -31,7 +31,7 @@ version: Android App
 <!-- chronolog:begin region="summary" -->
 1⁠. Increased the default size for in‐line generated images.
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#android-app)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 1
 <!-- chronolog:end -->

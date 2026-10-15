@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2024-01-10'
-machine_hash: fdabb59328f1b8bfc9b1fc242cfe566a0b9f2a88136bd57200d3a00f29ff3d2f
+machine_hash: 0bfee4a5b57a6504e2d9197d0f88d4a0141ef1851bfbec44157a312f3f8cdc77
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -11,13 +11,13 @@ record:
   release_id: chatgpt-2024-01-10-introducing-the-gpt-store-and-chatgpt-team-plan-7f1ed4cd
   source_summary: Discover what’s trending in the GPT Store
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-the-gpt-store-and-chatgpt-team-plan
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Introducing the GPT Store and ChatGPT Team plan
   version: Introducing the GPT Store and ChatGPT Team plan
 release_id: chatgpt-2024-01-10-introducing-the-gpt-store-and-chatgpt-team-plan-7f1ed4cd
 source_release: Introducing the GPT Store and ChatGPT Team plan
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-the-gpt-store-and-chatgpt-team-plan
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -31,7 +31,7 @@ version: Introducing the GPT Store and ChatGPT Team plan
 <!-- chronolog:begin region="summary" -->
 Discover what’s trending in the GPT Store
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-the-gpt-store-and-chatgpt-team-plan)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 2
 <!-- chronolog:end -->

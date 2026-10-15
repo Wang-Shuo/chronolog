@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 4614ed7b596c8b459593efeadd767b4c11ddc445707fec4d5cf5790ce544e40a
+machine_hash: 860e5da41ad70d1feb3203fda9b815d2e73f0afae65b6040b807adbb4f7d2a49
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: 'Table of contents in longer conversations: Conversations longer than five
       responses can now include a table of contents, so you can scan sections and
       jump to the part you need.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -62,7 +62,7 @@ ChatGPT — ChatGPT app experience updates: Table of contents in longer conversa
 <!-- chronolog:begin region="evidence" -->
 > Table of contents in longer conversations: Conversations longer than five responses can now include a table of contents, so you can scan sections and jump to the part you need.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

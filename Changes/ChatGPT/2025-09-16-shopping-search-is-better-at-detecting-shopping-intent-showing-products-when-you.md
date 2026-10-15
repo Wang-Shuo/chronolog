@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 39c7430a2eb79a269efc6883b894e13d4462869f7d5e08e7464ed7d3a0f51283
+machine_hash: a4ae84cb97108c770ada90cc920a3b3797bd285e160e49578c1714df9606ab2e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: 'Shopping: Search is better at detecting shopping intent, showing products
       when you want them and keeping results focused when you don’t.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-search-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -61,7 +61,7 @@ ChatGPT — Improvements to search in ChatGPT: Shopping: Search is better at det
 <!-- chronolog:begin region="evidence" -->
 > Shopping: Search is better at detecting shopping intent, showing products when you want them and keeping results focused when you don’t.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-search-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

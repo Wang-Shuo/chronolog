@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 68a1b0df25417d1fd57419aabb09261bd2b44ad137d59a0f034a1bdbddc58eb1
+machine_hash: 471e9e835f644633b0074b6716273de02ce3dfaea1d2e31ce0e4a0f7ddc08ab6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,7 +24,7 @@ record:
     actions: Copy, Edit.'
   evidence:
   - quote: '2⁠. Added long press on your message to open menu actions: Copy, Edit.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ios-app
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -55,7 +55,7 @@ ChatGPT — iOS App: 2⁠. Added long press on your message to open menu actions
 <!-- chronolog:begin region="evidence" -->
 > 2⁠. Added long press on your message to open menu actions: Copy, Edit.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ios-app
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

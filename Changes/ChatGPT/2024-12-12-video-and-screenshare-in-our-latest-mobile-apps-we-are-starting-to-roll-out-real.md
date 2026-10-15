@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 424ebd498ca7db1056ba569cefdd81b42c9c6cf75f2f055590af9ce0a6c6422e
+machine_hash: 25e8d82e3d73b869aa5293a49419043a0567c1d4493a173e90f714b5411fdd11
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,7 +35,7 @@ record:
       and Liechtenstein, over the next week. Video and screen share are subject to
       daily usage limits for all plans, and image uploads are subject to ChatGPT vision
       message limits.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#santa-voice-and-video-and-screen-share-in-voice-chats
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -91,7 +91,7 @@ ChatGPT — Santa Voice and Video and Screen Share in Voice Chats: Video and scr
 <!-- chronolog:begin region="evidence" -->
 > Video and screenshare: In our latest mobile apps, we are starting to roll out real-time video, screen share, and image upload capabilities in advanced voice. We expect to complete this rollout to all Team and most Plus and Pro users, except for those in the European Union, Switzerland, Iceland, Norway, and Liechtenstein, over the next week. Video and screen share are subject to daily usage limits for all plans, and image uploads are subject to ChatGPT vision message limits.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#santa-voice-and-video-and-screen-share-in-voice-chats
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

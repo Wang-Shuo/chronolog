@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: eb75e6ffb89bcae7ae07fe979f37d919b44e67cb549cbdeb225fa661a8408fa0
+machine_hash: 605c2ad9e3c7a91af38b1c5171e96a9f96160da1e7be210221ed5856efd3bde3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: 'Custom instructions are now available to users in the European Union United
       Kingdom.To add your instructions:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#custom-instructions-are-now-available-to-users-in-the-eu-uk
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -58,7 +58,7 @@ ChatGPT — Custom instructions are now available to users in the EU & UK: Custo
 <!-- chronolog:begin region="evidence" -->
 > Custom instructions are now available to users in the European Union United Kingdom.To add your instructions:
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#custom-instructions-are-now-available-to-users-in-the-eu-uk
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

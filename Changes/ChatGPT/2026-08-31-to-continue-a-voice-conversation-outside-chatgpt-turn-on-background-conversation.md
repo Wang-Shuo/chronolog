@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 8bcec57384ef94567a6626ebbcb9a5e78ab91ad21e3fa5555fa22b324ffd5178
+machine_hash: 952a77b3e488ed5add9c2a2a337f17037cd85a47ca28d8dc870276eafa6120bb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: To continue a Voice conversation outside ChatGPT, turn on Background conversations
       in Settings → Voice.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#see-live-voice-content-on-your-lock-screen
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -57,7 +57,7 @@ ChatGPT — See Live voice content on your Lock Screen: To continue a Voice conv
 <!-- chronolog:begin region="evidence" -->
 > To continue a Voice conversation outside ChatGPT, turn on Background conversations in Settings → Voice.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#see-live-voice-content-on-your-lock-screen
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 73a2f1e3bb3db8cda16628fcfe609f9790ed451922830532e0ae0e1959abd79d
+machine_hash: edf2206d2a2d56fa86d56d379f42a72121c5f309717468c53cf1447cfcd919ba
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
       Health is designed to help you navigate medical care, not replace it. Health
       conversations, memory, and files are kept separate from the rest of ChatGPT
       and are not used to train our foundation models.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#health-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -79,7 +79,7 @@ ChatGPT — Health in ChatGPT: We’re starting to roll out Health, a dedicated 
 <!-- chronolog:begin region="evidence" -->
 > We’re starting to roll out Health, a dedicated space in ChatGPT for health and wellness conversations. You can securely connect medical records, Apple Health and supported wellness apps so answers can be grounded in your own data. Health is designed to help you navigate medical care, not replace it. Health conversations, memory, and files are kept separate from the rest of ChatGPT and are not used to train our foundation models.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#health-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

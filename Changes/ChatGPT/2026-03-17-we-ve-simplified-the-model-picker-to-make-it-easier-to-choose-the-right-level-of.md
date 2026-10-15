@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 9554c05d2885f1ff4375605c5d22242a5b406e000609e5d3280e4a92da55a1ae
+machine_hash: 44e4bb3fb5ec3ae6f1f2a8da12d1d7bc4e848f6a43a2df89a093fd3a8e8af8ad
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
   - quote: 'We’ve simplified the model picker to make it easier to choose the right
       level of reasoning.Users on Plus, Pro, Business, Enterprise, and Edu accounts
       will see a set of model options depending on their plan, including:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-model-picker-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -77,7 +77,7 @@ ChatGPT — Updates to the model picker in ChatGPT: We’ve simplified the model
 <!-- chronolog:begin region="evidence" -->
 > We’ve simplified the model picker to make it easier to choose the right level of reasoning.Users on Plus, Pro, Business, Enterprise, and Edu accounts will see a set of model options depending on their plan, including:
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-model-picker-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

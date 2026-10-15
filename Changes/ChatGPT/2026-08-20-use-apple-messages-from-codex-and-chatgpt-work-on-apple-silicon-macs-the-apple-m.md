@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 0779a5230fa2f28ab2257960bc50e9d7f7b40efdd3750e99832cea5a50cbb72e
+machine_hash: df75c7194319fec369e60d1966a683b8e850c2fae18c9a6cb2fd28db6214a7f2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
       SMS, and RCS conversations and prepare or send messages through Messages. By
       default, ChatGPT asks the user to approve the message and recipients before
       sending. Learn more about the Apple Messages plugin.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#codex-and-chatgpt-feature-updates
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -75,7 +75,7 @@ ChatGPT — Codex and ChatGPT feature updates: Use Apple Messages from Codex and
 <!-- chronolog:begin region="evidence" -->
 > Use Apple Messages from Codex and ChatGPT Work. On Apple silicon Macs, the Apple Messages plugin in the ChatGPT desktop app can read and search iMessage, SMS, and RCS conversations and prepare or send messages through Messages. By default, ChatGPT asks the user to approve the message and recipients before sending. Learn more about the Apple Messages plugin.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#codex-and-chatgpt-feature-updates
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

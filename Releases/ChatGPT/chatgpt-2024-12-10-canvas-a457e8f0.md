@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2024-12-10'
-machine_hash: 190be9610f7f5854425a09ad9551cdeb7b3e39049596f2b8015d7b952210edf0
+machine_hash: 6b7c1ec7b6cc9ad357f6001dc260bb8141f2b008d3e8fb387026371f7442c94c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -13,13 +13,13 @@ record:
     Free and Paid. Additionally, we launched a number of new capabilities for canvas,
     including:'
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#canvas
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   title: Canvas
   version: Canvas
 release_id: chatgpt-2024-12-10-canvas-a457e8f0
 source_release: Canvas
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#canvas
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 tags:
 - release
 - chatgpt
@@ -33,7 +33,7 @@ version: Canvas
 <!-- chronolog:begin region="summary" -->
 Today we made Canvas available in 4o by default for all users, Free and Paid. Additionally, we launched a number of new capabilities for canvas, including:
 
-[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#canvas)
+[Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Tracked cards: 5
 <!-- chronolog:end -->

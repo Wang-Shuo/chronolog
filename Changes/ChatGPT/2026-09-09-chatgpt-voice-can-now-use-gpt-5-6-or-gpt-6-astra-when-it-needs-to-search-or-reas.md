@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: ef238eabc6edb715eb4257056fd61058d45a38edcd51bfe87edd40f0d354b040
+machine_hash: 1fe61a8e1dbef91543a7d2bcf2c5b721d156a511c982d96ea7c62191c6004982
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       or reason through harder questions. Choose your model and reasoning effort using
       the same controls as text chat. Available models and their usage limits depend
       on your plan.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updated-models-and-usage-limits-in-chatgpt-voice
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -76,7 +76,7 @@ ChatGPT — Updated models and usage limits in ChatGPT Voice: ChatGPT Voice can 
 <!-- chronolog:begin region="evidence" -->
 > ChatGPT Voice can now use GPT-5.6 or GPT-6 Astra when it needs to search or reason through harder questions. Choose your model and reasoning effort using the same controls as text chat. Available models and their usage limits depend on your plan.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updated-models-and-usage-limits-in-chatgpt-voice
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

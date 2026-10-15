@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: e7a3f460cdc9bc765531a9bd79435ea683feffdc3a14d5893cc94db38d7e5129
+machine_hash: e75aa7dc11ed963e660e5e2a75ae10220293925dccb8ec64b890bbffe1aa47cb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,7 +34,7 @@ record:
       to a supported car, you can start new voice conversations with ChatGPT directly
       from the CarPlay interface. You can also resume existing conversations you were
       having using voice mode in the ChatGPT mobile app. Learn more.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-in-apple-carplay
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -76,7 +76,7 @@ ChatGPT — ChatGPT in Apple CarPlay: We’re rolling out ChatGPT in CarPlay, gi
 <!-- chronolog:begin region="evidence" -->
 > We’re rolling out ChatGPT in CarPlay, giving you access to a hands-free ChatGPT experience while on-the-go. If you have iOS 26.4 or newer and are connected to a supported car, you can start new voice conversations with ChatGPT directly from the CarPlay interface. You can also resume existing conversations you were having using voice mode in the ChatGPT mobile app. Learn more.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-in-apple-carplay
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

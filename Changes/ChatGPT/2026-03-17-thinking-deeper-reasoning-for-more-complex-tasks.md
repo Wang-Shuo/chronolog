@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 28d8bfc29a487f2e48f0eaab5e36ac188fe3ef1e493f9358081e20602373442a
+machine_hash: e08763a02880afa0a8bc1e4f33e53fd1f780b204304f210d5689fb629a774d86
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,7 +24,7 @@ record:
     reasoning for more complex tasks'
   evidence:
   - quote: Thinking – deeper reasoning for more complex tasks
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-model-picker-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -57,7 +57,7 @@ ChatGPT — Updates to the model picker in ChatGPT: Thinking – deeper reasonin
 <!-- chronolog:begin region="evidence" -->
 > Thinking – deeper reasoning for more complex tasks
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-model-picker-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

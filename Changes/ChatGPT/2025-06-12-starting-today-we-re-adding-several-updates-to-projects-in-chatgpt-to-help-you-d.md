@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: a54a212189c6c78f9168c40f41c9b81f2a5b8c95b7c2a873ad1d56a42bf48303
+machine_hash: ab6cee76bf67d8bb24e5974edf2c4d24010a2ff41de82e884156ca32c4902eae
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Starting today, we’re adding several updates to projects in ChatGPT to
       help you do more focused work. These updates are available for Plus, Pro, and
       Team users.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#adding-more-capabilities-to-projects
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -60,7 +60,7 @@ ChatGPT — Adding More Capabilities to Projects: Starting today, we’re adding
 <!-- chronolog:begin region="evidence" -->
 > Starting today, we’re adding several updates to projects in ChatGPT to help you do more focused work. These updates are available for Plus, Pro, and Team users.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#adding-more-capabilities-to-projects
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

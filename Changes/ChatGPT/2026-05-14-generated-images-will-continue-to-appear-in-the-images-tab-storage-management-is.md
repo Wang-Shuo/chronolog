@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: cc7b6542936f7d47e0fc1de6b2c5e8a3f97ce9310975517f24df93f443206ba7
+machine_hash: f319ce19d89f341cb67099004e6c69d6f9231446c019274cc858289055da0111
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,7 +34,7 @@ record:
       until you delete them. Files uploaded in Temporary Chat aren’t saved to Library.Library
       and ‘Recent files’ in the composer are supported on web, iOS, and Android. Learn
       more about File storage and Library in ChatGPT.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#file-library-expands-to-free-and-go-users-with-storage-management
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -81,7 +81,7 @@ ChatGPT — File library expands to Free and Go users, with storage management: 
 <!-- chronolog:begin region="evidence" -->
 > Generated images will continue to appear in the Images tab.Storage management is currently available on web and you can access it from Settings > Storage; you can also delete files directly from Library.Files remain in your Library until you delete them. Files uploaded in Temporary Chat aren’t saved to Library.Library and ‘Recent files’ in the composer are supported on web, iOS, and Android. Learn more about File storage and Library in ChatGPT.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#file-library-expands-to-free-and-go-users-with-storage-management
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

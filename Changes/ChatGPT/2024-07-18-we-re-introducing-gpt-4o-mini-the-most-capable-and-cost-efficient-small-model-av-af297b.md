@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: 074e00257f4d19f659eddbd7bbe2edf9423a48ade6de0add49b4d196461c7743
+machine_hash: dd7c951d9a37e097e3565529f223ec06406a322b71dce97476c1ccead410f14d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,7 +39,7 @@ record:
       that fetch data or take actions with external systems, and improved long-context
       performance compared to GPT-3.5 Turbo.You can read more about GPT-4o mini in
       the blog announcement here.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpt-4o-mini
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -93,7 +93,7 @@ ChatGPT — Introducing GPT-4o mini: We’re introducing GPT-4o mini, the most c
 <!-- chronolog:begin region="evidence" -->
 > We’re introducing GPT-4o mini, the most capable and cost-efficient small model available today. GPT-4o mini surpasses GPT-3.5 Turbo and other small models on academic benchmarks across both textual intelligence and multimodal reasoning and supports the same range of languages as GPT-4o. It also demonstrates strong performance in function calling, which can enable developers to build applications that fetch data or take actions with external systems, and improved long-context performance compared to GPT-3.5 Turbo.You can read more about GPT-4o mini in the blog announcement here.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpt-4o-mini
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

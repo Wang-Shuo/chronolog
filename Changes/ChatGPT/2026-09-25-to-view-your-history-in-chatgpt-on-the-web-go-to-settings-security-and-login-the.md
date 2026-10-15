@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 7421a8334e5a97ff1a174ba37fd20091ec913b0b7af12660e31fe251194a5cac
+machine_hash: ea49be699bb10f9d5bda25032bce02728130270b031464370b6314981b2f66fa
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: 'To view your history in ChatGPT on the web, go to Settings > Security
       and login, then select Security history. For help reviewing unfamiliar activity
       and securing your account, see: Keeping your OpenAI account secure.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#security-history-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -70,7 +70,7 @@ ChatGPT — Security history in ChatGPT: To view your history in ChatGPT on the 
 <!-- chronolog:begin region="evidence" -->
 > To view your history in ChatGPT on the web, go to Settings > Security and login, then select Security history. For help reviewing unfamiliar activity and securing your account, see: Keeping your OpenAI account secure.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#security-history-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

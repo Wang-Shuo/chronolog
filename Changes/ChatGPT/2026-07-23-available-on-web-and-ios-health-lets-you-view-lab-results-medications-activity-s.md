@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 413ec1b10361fb381c271d47825a8b26c2343f6a9c8311b9310708ee7be60ecd
+machine_hash: e620adde28eadcb5a3cdbf85bbabc0b29e614729b4f0b005cfe29670689c31f4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,7 +35,7 @@ record:
       discuss with a healthcare professional. The experience builds on feedback from
       early testers and gives you control over what you connect and when ChatGPT can
       use it.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#health-in-chatgpt
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -77,7 +77,7 @@ ChatGPT — Health in ChatGPT: Available on web and iOS, Health lets you view la
 <!-- chronolog:begin region="evidence" -->
 > Available on web and iOS, Health lets you view lab results, medications, activity, sleep, and other health information in one place. You can ask questions directly in ChatGPT or use the Health tab to explore trends, prepare for appointments, understand test results, track wellness goals, and think through questions to discuss with a healthcare professional. The experience builds on feedback from early testers and gives you control over what you connect and when ChatGPT can use it.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#health-in-chatgpt
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: significant
-machine_hash: ab9244ef3b1a16c97551d952e6fc072ee49adf5a870a26836e6fb482d87a1512
+machine_hash: f1f69ecb6cd8d5d46c0b85f6f44cddf1756a1dbf45b1aa873f003003736c7761
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -36,7 +36,7 @@ record:
       will be retired from ChatGPT on June 26, 2026 following a 30-day sunset period.
       These models are currently available to paid users only via model settings.
       These changes apply to ChatGPT only; there are no changes to the API.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-openai-o3-and-gpt-45
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: significant
   product: chatgpt
@@ -71,7 +71,7 @@ ChatGPT — Retiring OpenAI o3 and GPT-4.5: Today, we’re continuing to retire 
 <!-- chronolog:begin region="evidence" -->
 > Today, we’re continuing to retire older models with limited usage in ChatGPT so we can better serve our newer, most capable models. OpenAI o3 will be retired from ChatGPT on August 26, 2026 following a 90-day sunset period, and GPT-4.5 will be retired from ChatGPT on June 26, 2026 following a 30-day sunset period. These models are currently available to paid users only via model settings. These changes apply to ChatGPT only; there are no changes to the API.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-openai-o3-and-gpt-45
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->

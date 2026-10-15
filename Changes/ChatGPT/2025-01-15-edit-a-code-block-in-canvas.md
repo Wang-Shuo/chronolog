@@ -13,7 +13,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v3
 impact: incremental
-machine_hash: 253f9326f46e74ce193d3a919e778e9715bb5e3bc1b635659ea1c3d350c985fa
+machine_hash: 51d45ea95c041251f068d8a7794cbaca3c19ce9219ba08c817f56617c6e76038
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -23,7 +23,7 @@ record:
   description: 'ChatGPT — Import from Chat into Canvas: Edit a code block in Canvas'
   evidence:
   - quote: Edit a code block in Canvas
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#import-from-chat-into-canvas
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v3
   impact: incremental
   product: chatgpt
@@ -54,7 +54,7 @@ ChatGPT — Import from Chat into Canvas: Edit a code block in Canvas
 <!-- chronolog:begin region="evidence" -->
 > Edit a code block in Canvas
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#import-from-chat-into-canvas
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evolution" -->
