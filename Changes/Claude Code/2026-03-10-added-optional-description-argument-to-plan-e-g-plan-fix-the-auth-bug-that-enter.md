@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0781e01c788cddd805a0d05b78761ca5c6a6239f4f531c219b4b5157b46a942b
+machine_hash: 561948f95df76b6db4b7edc0cc428543f4f8cb40883427321d450904040f50a7
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added optional description argument to `/plan` (e.g., `/plan fix the auth
       bug`) that enters plan mode and immediately starts
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.72
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: Added optional description argument to `/plan` (e.g., `/plan fix the auth
-    bug`)
+    bug`)…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-28-added-http-hooks-which-can-post-json-to-a-url-and-receive-json-instead-of-runnin|claude-code-2026-02-28-b47b10]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48|claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48]]'
 source_type: github_releases
 theme: agent-mode
-title: Added optional description argument to /plan (e.g., /plan fix the auth bug)
+title: Added optional description argument to /plan (e.g., /plan fix the auth bug)…
 type: change
 ---
 
-# Added optional description argument to `/plan` (e.g., `/plan fix the auth bug`)
+# Added optional description argument to `/plan` (e.g., `/plan fix the auth bug`)…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.72: Added optional description argument to `/plan` (e.g., `/plan fix the auth bug`) that enters plan mode and immediately starts

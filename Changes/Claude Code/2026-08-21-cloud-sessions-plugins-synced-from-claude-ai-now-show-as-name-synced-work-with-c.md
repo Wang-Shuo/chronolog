@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a8bad3dd3a07284b508c9300c64c3f3022ba951dfa5f3999d0374ce0f39bf13b
+machine_hash: bee8b111aecec8fb061ea57a5dc9a92eb3505109f181e9e36cccefa3ad4b6306
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       work with `claude plugin enable/disable <name>@synced`, and never override a
       same-named plugin you installed'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.239
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   source_type: github_releases
   theme: apps-integrations
   title: 'Cloud sessions: plugins synced from claude.ai now show as `name@synced`,
-    work wi'
+    work…'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-20-plugin-marketplaces-headershelper-on-a-url-marketplace-or-a-catalog-entry-runs-a|claude-code-2026-08-20-b9a366]]'
@@ -46,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-08-21-v2-1-239-github-374556322-5f6b8918|claude-code-2026-08-21-v2-1-239-github-374556322-5f6b8918]]'
 source_type: github_releases
 theme: apps-integrations
-title: 'Cloud sessions: plugins synced from claude.ai now show as name@synced, work
-  wi'
+title: 'Cloud sessions: plugins synced from claude.ai now show as name@synced, work…'
 type: change
 ---
 
-# Cloud sessions: plugins synced from claude.ai now show as `name@synced`, work wi
+# Cloud sessions: plugins synced from claude.ai now show as `name@synced`, work…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.239: Cloud sessions: plugins synced from claude.ai now show as `name@synced`, work with `claude plugin enable/disable <name>@synced`, and never override a same-named plugin you installed

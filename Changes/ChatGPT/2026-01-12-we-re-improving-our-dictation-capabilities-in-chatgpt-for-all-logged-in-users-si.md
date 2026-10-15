@@ -11,9 +11,9 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d673f4a9126a7046b32d4e7650fb14d180d0a0697f9e38da807316aa65416d60
+machine_hash: 64c220e4d41c1544c1d7be54609c1b96b8742862a4c6c9bdf6c0af75ac37dcc5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: We’re improving our dictation capabilities in ChatGPT for all logged-in
       users, significantly reducing empty transcriptions and improving accuracy.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -35,8 +35,7 @@ record:
   source_release: chatgpt-2026-01-12-dictation-updates-a47f3da4
   source_type: chatgpt_changelog
   theme: voice
-  title: We’re improving our dictation capabilities in ChatGPT for all logged-in users,
-    s
+  title: We’re improving our dictation capabilities in ChatGPT for all logged-in users…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-11-25-refer-back-to-earlier-messages-without-interrupting-the-conversation|chatgpt-2025-11-25-dc78fa]]'
@@ -45,12 +44,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-01-12-dictation-updates-a47f3da4|chatgpt-2026-01-12-dictation-updates-a47f3da4]]'
 source_type: chatgpt_changelog
 theme: voice
-title: We’re improving our dictation capabilities in ChatGPT for all logged-in users,
-  s
+title: We’re improving our dictation capabilities in ChatGPT for all logged-in users…
 type: change
 ---
 
-# We’re improving our dictation capabilities in ChatGPT for all logged-in users, s
+# We’re improving our dictation capabilities in ChatGPT for all logged-in users…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Dictation Updates: We’re improving our dictation capabilities in ChatGPT for all logged-in users, significantly reducing empty transcriptions and improving accuracy.

@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-06-26'
-machine_hash: a24b2e155e72f37f56ebd0f51a766e60046cac72ef6fef8509368ab3d4bac9a0
+machine_hash: edcb38e655b0abc0ecebe6b6065e437fef5334e8185c5b6b281f56dba1fae7d4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2026-06-26-as-of-june-26-2026-gpt-4-5-is-no-longer-available-in-chatgpt-including-for-custo|As of June 26, 2026, GPT-4.5 is no longer available in ChatGPT, including for cu]]
+- model-support: [[Changes/ChatGPT/2026-06-26-as-of-june-26-2026-gpt-4-5-is-no-longer-available-in-chatgpt-including-for-custo|As of June 26, 2026, GPT-4.5 is no longer available in ChatGPT, including for custom GPTs]]
 <!-- chronolog:end -->

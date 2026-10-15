@@ -11,9 +11,9 @@ diffusion:
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d6b0e744c6b346c5fc08d190a1a9e2fd1433dd42827bfb968b71b52049397c7b
+machine_hash: 34d639573b23c4eabab7c8a747b9e8296c452308d067228b7af391096fad99bf
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
       cmd+I. We've added Composer Projects (beta), which allows you to share instructions
       among several composers.
     source_release: https://cursor.com/changelog/0-40-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -40,7 +40,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: Composer is now default-on and available to all Pro/Business users by hitting
-    cm
+    cmd+I
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|cursor-2023-09-08-8ba960]]'
@@ -49,11 +49,11 @@ source_release: '[[Releases/Cursor/cursor-2024-08-22-0-40-x-https-cursor-com-cha
 source_type: cursor_changelog
 theme: collaboration
 title: Composer is now default-on and available to all Pro/Business users by hitting
-  cm
+  cmd+I
 type: change
 ---
 
-# Composer is now default-on and available to all Pro/Business users by hitting cm
+# Composer is now default-on and available to all Pro/Business users by hitting cmd+I
 
 <!-- chronolog:begin region="description" -->
 Cursor — New Chat UX, Default-On Composer, New Cursor Tab Model: Composer is now default-on and available to all Pro/Business users by hitting cmd+I. We've added Composer Projects (beta), which allows you to share instructions among several composers.

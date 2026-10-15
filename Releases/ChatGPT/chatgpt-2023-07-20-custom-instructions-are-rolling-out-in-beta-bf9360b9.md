@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-07-20'
-machine_hash: 0282822ca934622e450819c7d8d0553f3c671aaa1bfe118e94f3220c4da0b8fa
+machine_hash: 6421d4b04687ad9bce4be20d42b9ccb80bb95f5f8de1f436ec19945fe8550dfc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- memory: [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re starting to roll out custom instructions, giving you more control over Cha]]
+- memory: [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re starting to roll out custom instructions, giving you more control over…]]
 <!-- chronolog:end -->

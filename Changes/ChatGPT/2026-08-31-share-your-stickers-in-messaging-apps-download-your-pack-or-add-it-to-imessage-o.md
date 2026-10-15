@@ -11,9 +11,9 @@ diffusion:
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 2f547012668954698d0b94c8e8328a1ef0546b7175f02057390e2c31a27fbb0f
+machine_hash: 487408b540bc128441812ab7ff6cec21967f6e8ac11d4186029c0690d7fe71f9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Share your stickers in messaging apps. Download your pack or add it to
       iMessage or WhatsApp on supported devices.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -45,7 +45,7 @@ record:
     score: 50
     theme: mobile-desktop
   theme_resolution: manual-semantic-rule-v1
-  title: Share your stickers in messaging apps. Download your pack or add it to iMessage
+  title: Share your stickers in messaging apps
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-07-09-existing-group-chats-will-remain-available-and-can-continue-to-be-used-for-now-w|chatgpt-2026-07-09-af71cf]]'
@@ -54,11 +54,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-31-create-and-share-personalized-sticker-packs-120616f6|chatgpt-2026-08-31-create-and-share-personalized-sticker-packs-120616f6]]'
 source_type: chatgpt_changelog
 theme: collaboration
-title: Share your stickers in messaging apps. Download your pack or add it to iMessage
+title: Share your stickers in messaging apps
 type: change
 ---
 
-# Share your stickers in messaging apps. Download your pack or add it to iMessage
+# Share your stickers in messaging apps
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Create and share personalized sticker packs: Share your stickers in messaging apps. Download your pack or add it to iMessage or WhatsApp on supported devices.

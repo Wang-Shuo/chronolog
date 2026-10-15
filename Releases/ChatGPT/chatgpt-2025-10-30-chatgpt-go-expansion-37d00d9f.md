@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2025-10-30'
-machine_hash: 57cd70e15694ef5c835bfcafd2aab64a4db0f757dbdbad23428c29cf5f40b0b6
+machine_hash: 7c47a0340b9e817d8eb2a56f28e6a65551ed164337aa2106e9770c7705631033
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,7 +41,7 @@ Tracked cards: 3
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- pricing-model: [[Changes/ChatGPT/2025-10-30-we-re-excited-to-announce-that-chatgpt-go-our-low-cost-subscription-plan-is-now-44be9d|We're excited to announce that ChatGPT Go, our low cost subscription plan, is no]]
+- pricing-model: [[Changes/ChatGPT/2025-10-30-we-re-excited-to-announce-that-chatgpt-go-our-low-cost-subscription-plan-is-now-44be9d|ChatGPT Go, our low cost subscription plan, is now available in 8 additional…]]
 - memory: [[Changes/ChatGPT/2025-10-30-longer-memory-for-more-personalized-responses|Longer memory for more personalized responses]]
 - image-generation: [[Changes/ChatGPT/2025-10-30-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]]
 <!-- chronolog:end -->

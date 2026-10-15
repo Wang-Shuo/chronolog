@@ -11,9 +11,9 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 675ed6c14e5cfd8a6f62cbc23f7722bc2279423fc59b3f58bdffd181eec71343
+machine_hash: e9a5bda09b032c5643a5904c8d433e3eb918ea53ed4f685d61a1e4e781422599
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Turn off voice mode, to remove the option to use voice mode in ChatGPT.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -33,7 +33,7 @@ record:
   source_release: chatgpt-2025-09-29-parental-controls-8b95b69a
   source_type: chatgpt_changelog
   theme: voice
-  title: Turn off voice mode, to remove the option to use voice mode in ChatGPT.
+  title: Turn off voice mode, to remove the option to use voice mode in ChatGPT
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-08-07-today-we-re-rolling-out-improvements-to-voice-mode-to-make-it-more-accessible-an-055388|chatgpt-2025-08-07-055388]]'
@@ -42,11 +42,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-29-parental-controls-8b95b69a|chatgpt-2025-09-29-parental-controls-8b95b69a]]'
 source_type: chatgpt_changelog
 theme: voice
-title: Turn off voice mode, to remove the option to use voice mode in ChatGPT.
+title: Turn off voice mode, to remove the option to use voice mode in ChatGPT
 type: change
 ---
 
-# Turn off voice mode, to remove the option to use voice mode in ChatGPT.
+# Turn off voice mode, to remove the option to use voice mode in ChatGPT
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Parental Controls: Turn off voice mode, to remove the option to use voice mode in ChatGPT.

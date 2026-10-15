@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: aac7cca7f868d769b5e2118596c04b97e2cef96dfaf15192a16c84cee054a508
+machine_hash: eb38c6346e69274bfeb9d7a58a045836e0ff49b2df4a90a15c32ef600f97ca75
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Fixed UI crash when malformed tool input reached the permission dialog
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.90
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

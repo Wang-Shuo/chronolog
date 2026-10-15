@@ -1,7 +1,7 @@
 ---
 changes_count: 4
 date: '2026-01-08'
-machine_hash: 08be785ac23881a83cb7f9cc84af4b51075a2805b74d8528f76beaac63d2dd6a
+machine_hash: 5d69fc6ecb984ea8156e1d1b7d4575b277530f2a961e8d2676011cbf3704a823
 product: cursor
 product_name: Cursor
 record:
@@ -39,8 +39,8 @@ Tracked cards: 4
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- developer-workflow: [[Changes/Cursor/2026-01-08-use-the-new-agent-models-command-list-models-flag-or-models-slash-command-to-lis|Use the new agent models command, --list-models flag, or /models slash command t]]
-- apps-integrations: [[Changes/Cursor/2026-01-08-enable-and-disable-mcp-servers-on-the-fly-with-mcp-enable-and-mcp-disable-comman|Enable and disable MCP servers on the fly with /mcp enable and /mcp disable comm]]
-- editor-experience: [[Changes/Cursor/2026-01-08-create-new-rules-and-edit-existing-ones-directly-from-the-cli-with-the-rules-com|Create new rules and edit existing ones directly from the CLI with the /rules co]]
-- apps-integrations: [[Changes/Cursor/2026-01-08-this-release-introduces-new-cli-controls-for-models-mcp-management-rules-and-com|This release introduces new CLI controls for models, MCP management, rules and c]]
+- developer-workflow: [[Changes/Cursor/2026-01-08-use-the-new-agent-models-command-list-models-flag-or-models-slash-command-to-lis|Use the new agent models command, --list-models flag, or /models slash command…]]
+- apps-integrations: [[Changes/Cursor/2026-01-08-enable-and-disable-mcp-servers-on-the-fly-with-mcp-enable-and-mcp-disable-comman|Enable and disable MCP servers on the fly with /mcp enable and /mcp disable commands]]
+- editor-experience: [[Changes/Cursor/2026-01-08-create-new-rules-and-edit-existing-ones-directly-from-the-cli-with-the-rules-com|Create new rules and edit existing ones directly from the CLI with the /rules command]]
+- apps-integrations: [[Changes/Cursor/2026-01-08-this-release-introduces-new-cli-controls-for-models-mcp-management-rules-and-com|Cursor introduces new CLI controls for models, MCP management, rules and commands…]]
 <!-- chronolog:end -->

@@ -11,9 +11,9 @@ diffusion:
   theme: enterprise-admin
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 35068fa460529a5fad31f19b5898469564b3783e87f5bfcef1d6e52cc939c484
+machine_hash: d774ef0036eff19d41e3957016cce91b624de787c40b6acb5177734e47b00083
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Both are available today on Teams and Enterprise plans.
     source_release: https://cursor.com/changelog/rollouts-and-security-reviewer
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -43,7 +43,7 @@ record:
     score: 50
     theme: enterprise-admin
   theme_resolution: manual-semantic-rule-v1
-  title: Both are available today on Teams and Enterprise plans.
+  title: Both are available today on Teams and Enterprise plans
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-08-13-computer-history-is-an-optional-feature-in-the-chatgpt-macos-app-that-lets-chatg|chatgpt-2026-08-13-513ff2]]'
@@ -52,11 +52,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-09-23-rollouts-and-security-review-https-cursor-com-changelog-rollouts-b860a5fb|cursor-2026-09-23-rollouts-and-security-review-https-cursor-com-changelog-rollouts-b860a5fb]]'
 source_type: cursor_changelog
 theme: enterprise-admin
-title: Both are available today on Teams and Enterprise plans.
+title: Both are available today on Teams and Enterprise plans
 type: change
 ---
 
-# Both are available today on Teams and Enterprise plans.
+# Both are available today on Teams and Enterprise plans
 
 <!-- chronolog:begin region="description" -->
 Cursor — Rollouts and Security Review: Both are available today on Teams and Enterprise plans.

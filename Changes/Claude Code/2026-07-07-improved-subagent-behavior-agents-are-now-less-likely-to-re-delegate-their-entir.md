@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: cf60da73b8dd53107d35a7cafe1a3a131704afbee048744a8577072ad57f83bf
+machine_hash: 49418852f6b18c646d28c10ff124d22e383a5693aa582223c0915f6204461e7a
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: 'Improved subagent behavior: agents are now less likely to re-delegate
       their entire task to another subagent'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.203
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -34,8 +34,7 @@ record:
   source_release: claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc
   source_type: github_releases
   theme: agent-mode
-  title: 'Improved subagent behavior: agents are now less likely to re-delegate their
-    enti'
+  title: Improved subagent behavior
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-06-added-a-dynamic-workflow-size-setting-in-config-for-controlling-how-large-claude|claude-code-2026-07-06-9942eb]]'
@@ -44,12 +43,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc|claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc]]'
 source_type: github_releases
 theme: agent-mode
-title: 'Improved subagent behavior: agents are now less likely to re-delegate their
-  enti'
+title: Improved subagent behavior
 type: change
 ---
 
-# Improved subagent behavior: agents are now less likely to re-delegate their enti
+# Improved subagent behavior
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.203: Improved subagent behavior: agents are now less likely to re-delegate their entire task to another subagent

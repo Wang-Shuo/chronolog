@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 182f90e72bdc212b513b92f66ac5d912c6de46391df6bcbbbfb3d246a03c93c9
+machine_hash: e62c81418931ef1ae43eaa8f4704036b2ed3b4c63796cfa333950ca62eac69b3
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       tried in order when the primary model is overloaded or unavailable; `--fallback-model`
       now also applies to interactive sessions
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.166
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -38,8 +38,7 @@ record:
   source_release: claude-code-2026-06-06-v2-1-166-github-335118845-ef990727
   source_type: github_releases
   theme: model-support
-  title: Added `fallbackModel` setting to configure up to three fallback models tried
-    in
+  title: Added `fallbackModel` setting to configure up to three fallback models tried…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-28-fast-mode-on-opus-4-8-is-now-available-at-a-fraction-of-its-previous-cost-2x-the|claude-code-2026-05-28-ed68c0]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-06-v2-1-166-github-335118845-ef990727|claude-code-2026-06-06-v2-1-166-github-335118845-ef990727]]'
 source_type: github_releases
 theme: model-support
-title: Added fallbackModel setting to configure up to three fallback models tried
-  in
+title: Added fallbackModel setting to configure up to three fallback models tried…
 type: change
 ---
 
-# Added `fallbackModel` setting to configure up to three fallback models tried in
+# Added `fallbackModel` setting to configure up to three fallback models tried…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.166: Added `fallbackModel` setting to configure up to three fallback models tried in order when the primary model is overloaded or unavailable; `--fallback-model` now also applies to interactive sessions

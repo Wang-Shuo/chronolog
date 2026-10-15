@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6649ad9341edfd6b50447d21834b19d10357619d31cd34fd024dc5db9260e2a1
+machine_hash: 2d75dcf8a89263aeeaf84d25825bdb695f27eb273e4bae1925d493135c39fcd2
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Following this, you'll be able to see an improved version of codebase context
       in the search pane, and in chat (by pressing cmd+enter).
     source_release: https://cursor.com/changelog/0-2-27
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,8 +37,7 @@ record:
   theme: context-window
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: Following this, you'll be able to see an improved version of codebase context
-    in
+  title: Following this, you'll be able to see an improved version of codebase context…
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-06-06-introducing-v1-of-codebase-wide-context-we-ll-be-shipping-major-improvements-to|cursor-2023-06-06-1965a6]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-06-06-0-2-27-https-cursor-com-changelog-0-2-27-f949eba0|cursor-2023-06-06-0-2-27-https-cursor-com-changelog-0-2-27-f949eba0]]'
 source_type: cursor_changelog
 theme: context-window
-title: Following this, you'll be able to see an improved version of codebase context
-  in
+title: Following this, you'll be able to see an improved version of codebase context…
 type: change
 ---
 
-# Following this, you'll be able to see an improved version of codebase context in
+# Following this, you'll be able to see an improved version of codebase context…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Codebase Context v2: Following this, you'll be able to see an improved version of codebase context in the search pane, and in chat (by pressing cmd+enter).

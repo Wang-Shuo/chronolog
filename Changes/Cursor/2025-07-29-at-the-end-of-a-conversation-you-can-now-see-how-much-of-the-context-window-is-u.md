@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6469b7d0c848b2193d3b4d1f18b843b0ed90e1e3dcba70ad4f148810ae27f751
+machine_hash: 3bd8b9826c311ed9b4817922d25b9442990ca9421665efbc6a51b1d4cfed19fb
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: At the end of a conversation you can now see how much of the context window
       is used.
     source_release: https://cursor.com/changelog/1-3
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -38,7 +38,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: At the end of a conversation you can now see how much of the context window
-    is u
+    is used
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-01-23-summarize-previous-composers-when-conversations-grow-too-long-you-can-start-a-ne|cursor-2025-01-23-94ee00]]'
@@ -48,11 +48,11 @@ source_release: '[[Releases/Cursor/cursor-2025-07-29-1-3-https-cursor-com-change
 source_type: cursor_changelog
 theme: context-window
 title: At the end of a conversation you can now see how much of the context window
-  is u
+  is used
 type: change
 ---
 
-# At the end of a conversation you can now see how much of the context window is u
+# At the end of a conversation you can now see how much of the context window is used
 
 <!-- chronolog:begin region="description" -->
 Cursor — Shared terminal with Agent, context usage in chat, and faster edits: At the end of a conversation you can now see how much of the context window is used.

@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 08181f0ce1995f45c8776011343fb905279e5abb70b110a7bc1b17be6ac779fd
+machine_hash: fd26df65c895a594007582172e3b06b19f684b0cd80f0e6aeee74d30dd0e2a75
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Automatic scroll to latest message. Existing conversations now automatically
       scroll to the bottom, so you can jump right back in.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -38,8 +38,7 @@ record:
   theme: interface-experience
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Automatic scroll to latest message. Existing conversations now automatically
-    scr
+  title: Automatic scroll to latest message
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-02-18-this-release-introduces-the-ability-to-hand-off-plans-from-the-cli-to-the-cloud|cursor-2026-02-18-a89360]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-27-chatgpt-web-and-android-updates-edit-image-prompts-share-faster-abef696c|chatgpt-2026-02-27-chatgpt-web-and-android-updates-edit-image-prompts-share-faster-abef696c]]'
 source_type: chatgpt_changelog
 theme: interface-experience
-title: Automatic scroll to latest message. Existing conversations now automatically
-  scr
+title: Automatic scroll to latest message
 type: change
 ---
 
-# Automatic scroll to latest message. Existing conversations now automatically scr
+# Automatic scroll to latest message
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT Web and Android updates: Edit image prompts, share faster, and smoother conversations: Automatic scroll to latest message. Existing conversations now automatically scroll to the bottom, so you can jump right back in.

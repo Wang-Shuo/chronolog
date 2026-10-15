@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 7c3f8ddb7fdf58a1d9e25550bc532c3ae8f1050da44a2a70376c80b73d478757
+machine_hash: 9cf7c2536390244e38afe0ad7fe9d5b0a8fbb121ff9ae351134557d6117baf6a
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
   - quote: Agent edits are now faster by lazy loading linter errors. Search & Replace
       edit latency has been reduced by 25% and Apply edits by almost 11%.
     source_release: https://cursor.com/changelog/1-3
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -51,8 +51,7 @@ record:
     - linter
     score: 50
     theme: developer-workflow
-  title: Agent edits are now faster by lazy loading linter errors. Search & Replace
-    edit
+  title: Agent edits are now faster by lazy loading linter errors
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-03-18-4-improved-display-and-faster-streaming-of-conversations-and-message-menu-action|chatgpt-2025-03-18-d5c139]]'
@@ -61,12 +60,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3|cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3]]'
 source_type: cursor_changelog
 theme: reliability-performance
-title: Agent edits are now faster by lazy loading linter errors. Search & Replace
-  edit
+title: Agent edits are now faster by lazy loading linter errors
 type: change
 ---
 
-# Agent edits are now faster by lazy loading linter errors. Search & Replace edit
+# Agent edits are now faster by lazy loading linter errors
 
 <!-- chronolog:begin region="description" -->
 Cursor — Shared terminal with Agent, context usage in chat, and faster edits: Agent edits are now faster by lazy loading linter errors. Search & Replace edit latency has been reduced by 25% and Apply edits by almost 11%.

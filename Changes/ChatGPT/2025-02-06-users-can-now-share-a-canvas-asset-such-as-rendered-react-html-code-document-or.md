@@ -11,9 +11,9 @@ diffusion:
   theme: file-data
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1e2a16075f3d5da9bd1ba95ada5a4b29b01a37269a51c5c5070aaa5c4c5225d4
+machine_hash: b57fa8fb8b2066a4abee163c90568c3d90b49b86abad45859d030d32ded83f18
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       or code with another user, similar to how you share a conversation. You can
       do this from the Canvas toolbar when Canvas is open.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -37,8 +37,7 @@ record:
   source_release: chatgpt-2025-02-06-canvas-sharing-5abe3818
   source_type: chatgpt_changelog
   theme: file-data
-  title: Users can now share a Canvas asset such as rendered React/HTML code, document,
-    o
+  title: Users can now share a Canvas asset such as rendered React/HTML code, document…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2024-12-13-advanced-data-analysis|chatgpt-2024-12-13-6708ef]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-02-06-canvas-sharing-5abe3818|chatgpt-2025-02-06-canvas-sharing-5abe3818]]'
 source_type: chatgpt_changelog
 theme: file-data
-title: Users can now share a Canvas asset such as rendered React/HTML code, document,
-  o
+title: Users can now share a Canvas asset such as rendered React/HTML code, document…
 type: change
 ---
 
-# Users can now share a Canvas asset such as rendered React/HTML code, document, o
+# Users can now share a Canvas asset such as rendered React/HTML code, document…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Canvas sharing: Users can now share a Canvas asset such as rendered React/HTML code, document, or code with another user, similar to how you share a conversation. You can do this from the Canvas toolbar when Canvas is open.

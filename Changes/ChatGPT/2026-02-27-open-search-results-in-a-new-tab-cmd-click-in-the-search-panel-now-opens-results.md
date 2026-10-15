@@ -11,9 +11,9 @@ diffusion:
   theme: search-browsing
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 34f1d160773cea6faba8928b772350167b84e8b78a3dbec926c0fbdbfceff21a
+machine_hash: 18c2b107ec49664ca362da411008ef405780b98d5b73b37670f57900d6c782a5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
   - quote: Open search results in a new tab. Cmd+click in the search panel now opens
       results in a new tab, making it easier to explore without losing your place.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -48,8 +48,7 @@ record:
     score: 50
     theme: editor-experience
   theme_resolution: manual-backfill-review-v1
-  title: Open search results in a new tab. Cmd+click in the search panel now opens
-    result
+  title: Open search results in a new tab
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-09-16-shopping-search-is-better-at-detecting-shopping-intent-showing-products-when-you|chatgpt-2025-09-16-fa547e]]'
@@ -58,11 +57,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-27-chatgpt-web-and-android-updates-edit-image-prompts-share-faster-abef696c|chatgpt-2026-02-27-chatgpt-web-and-android-updates-edit-image-prompts-share-faster-abef696c]]'
 source_type: chatgpt_changelog
 theme: search-browsing
-title: Open search results in a new tab. Cmd+click in the search panel now opens result
+title: Open search results in a new tab
 type: change
 ---
 
-# Open search results in a new tab. Cmd+click in the search panel now opens result
+# Open search results in a new tab
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT Web and Android updates: Edit image prompts, share faster, and smoother conversations: Open search results in a new tab. Cmd+click in the search panel now opens results in a new tab, making it easier to explore without losing your place.

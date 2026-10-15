@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5e1d7269e11755736d5f40e685dd274c54818659305a6ee4be957124e6f37df7
+machine_hash: b00ff859099992e7417fc8128c8176e6d8bd5e48cbce3017aebb23fbef94f95c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
       after installation, helping relevant options surface across ChatGPT on web and
       mobile.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -46,8 +46,7 @@ record:
     score: 50
     theme: mobile-desktop
   theme_resolution: manual-semantic-rule-v1
-  title: Find more useful plugins. Rankings now prioritize plugins people keep using
-    afte
+  title: Find more useful plugins
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-08-20-use-computer-history-in-more-regions-computer-history-is-now-available-in-the-ee|chatgpt-2026-08-20-13542d]]'
@@ -56,12 +55,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-21-improved-plugin-discovery-on-web-and-mobile-4a2c9c9b|chatgpt-2026-08-21-improved-plugin-discovery-on-web-and-mobile-4a2c9c9b]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: Find more useful plugins. Rankings now prioritize plugins people keep using
-  afte
+title: Find more useful plugins
 type: change
 ---
 
-# Find more useful plugins. Rankings now prioritize plugins people keep using afte
+# Find more useful plugins
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Improved plugin discovery on web and mobile: Find more useful plugins. Rankings now prioritize plugins people keep using after installation, helping relevant options surface across ChatGPT on web and mobile.

@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: c982f387a0f3d69f33483c4982ed7b77b70b17ce5e177637e6daf226d419ab4e
+machine_hash: 6f5fc9c6794dcb1870bebe4c02675e0187a5870969f87efaf2fd36978f0f08e4
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       OTEL spans, and fixed trace parenting so background subagent spans nest under
       the dispatching Agent tool span
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.145
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code
@@ -39,7 +39,7 @@ record:
   source_type: github_releases
   theme: agent-mode
   title: Added `agent_id` and `parent_agent_id` attributes to `claude_code.tool` OTEL
-    spa
+    spans…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-18-composer-2-5-is-now-available-in-cursor|cursor-2026-05-18-3afa8e]]'
@@ -48,11 +48,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-19-v2-1-145-github-325388499-227a5ce4|claude-code-2026-05-19-v2-1-145-github-325388499-227a5ce4]]'
 source_type: github_releases
 theme: agent-mode
-title: Added agent_id and parent_agent_id attributes to claude_code.tool OTEL spa
+title: Added agent_id and parent_agent_id attributes to claude_code.tool OTEL spans…
 type: change
 ---
 
-# Added `agent_id` and `parent_agent_id` attributes to `claude_code.tool` OTEL spa
+# Added `agent_id` and `parent_agent_id` attributes to `claude_code.tool` OTEL spans…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.145: Added `agent_id` and `parent_agent_id` attributes to `claude_code.tool` OTEL spans, and fixed trace parenting so background subagent spans nest under the dispatching Agent tool span

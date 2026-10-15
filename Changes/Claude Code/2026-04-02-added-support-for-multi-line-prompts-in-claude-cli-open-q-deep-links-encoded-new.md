@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 16a0d5a9211f8a8c7ef48ff63b3221a27242622c99b94e78a3cb23b2d68fb146
+machine_hash: 8236cfe78bbde6149aa171ebf110e2a4f7d7af7c2f49cbf45da301a8b6d14abb
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Added support for multi-line prompts in `claude-cli://open?q=` deep links
       (encoded newlines `%0A` no longer rejected)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.91
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -38,8 +38,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Added support for multi-line prompts in `claude-cli://open?q=` deep links
-    (encod
+  title: Added support for multi-line prompts in `claude-cli://open?q=` deep links…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-27-reduced-startup-event-loop-stalls-when-many-claude-ai-mcp-connectors-are-configu|claude-code-2026-03-27-dcb91e]]'
@@ -48,11 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-02-v2-1-91-github-304899951-a56266fc|claude-code-2026-04-02-v2-1-91-github-304899951-a56266fc]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added support for multi-line prompts in claude-cli://open?q= deep links (encod
+title: Added support for multi-line prompts in claude-cli://open?q= deep links…
 type: change
 ---
 
-# Added support for multi-line prompts in `claude-cli://open?q=` deep links (encod
+# Added support for multi-line prompts in `claude-cli://open?q=` deep links…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.91: Added support for multi-line prompts in `claude-cli://open?q=` deep links (encoded newlines `%0A` no longer rejected)

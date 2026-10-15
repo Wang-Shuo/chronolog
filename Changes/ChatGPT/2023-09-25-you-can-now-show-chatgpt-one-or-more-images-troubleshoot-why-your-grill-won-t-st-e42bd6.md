@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e0fce216468538695b3ea0bf575334a5e984c902c474ed093763c36612fe47c1
+machine_hash: f611b0e774556dc2819e7aa3eb70a28ee2347ff00b400a72bb4b79ba5d81d058
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,7 +34,7 @@ record:
       button to capture or choose an image. You can also discuss multiple images or
       use our drawing tool to guide your assistant.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -42,8 +42,7 @@ record:
   source_release: chatgpt-2023-09-25-new-voice-and-image-capabilities-in-chatgpt-e8c88ec7
   source_type: chatgpt_changelog
   theme: mobile-desktop
-  title: You can now show ChatGPT one or more images. Troubleshoot why your grill
-    won’t s
+  title: Show ChatGPT one or more images
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-05-24-you-can-now-disable-your-chat-history-on-ios-conversations-started-on-your-devic|chatgpt-2023-05-24-d0a573]]'
@@ -52,12 +51,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2023-09-25-new-voice-and-image-capabilities-in-chatgpt-e8c88ec7|chatgpt-2023-09-25-new-voice-and-image-capabilities-in-chatgpt-e8c88ec7]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: You can now show ChatGPT one or more images. Troubleshoot why your grill won’t
-  s
+title: Show ChatGPT one or more images
 type: change
 ---
 
-# You can now show ChatGPT one or more images. Troubleshoot why your grill won’t s
+# Show ChatGPT one or more images
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — New voice and image capabilities in ChatGPT: You can now show ChatGPT one or more images. Troubleshoot why your grill won’t start, explore the contents of your fridge to plan a meal, or analyze a complex graph for work-related data. To focus on a specific part of the image, you can use the drawing tool in our mobile app.To get started, tap the photo button to capture or choose an image. You can also discuss multiple images or use our drawing tool to guide your assistant.

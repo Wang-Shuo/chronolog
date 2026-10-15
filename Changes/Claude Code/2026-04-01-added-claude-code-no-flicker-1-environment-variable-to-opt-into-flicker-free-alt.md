@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 52194f52daab1a54354c467220f13f659ab5ab5176c89cdd5a14cb2c7e002bb9
+machine_hash: cb4913b2f7abe062b19540312c797d7e659f62328cc64e9723e9a8a9669c42b0
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `CLAUDE_CODE_NO_FLICKER=1` environment variable to opt into flicker-free
       alt-screen rendering with virtualized scrollback
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.89
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   theme: interface-experience
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Added `CLAUDE_CODE_NO_FLICKER=1` environment variable to opt into flicker-free
-    a
+  title: Added `CLAUDE_CODE_NO_FLICKER=1` environment variable to opt into flicker-free…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-17-response-text-now-streams-line-by-line-as-it-s-generated|claude-code-2026-03-17-cd3956]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-01-v2-1-89-github-303967782-358023f0|claude-code-2026-04-01-v2-1-89-github-303967782-358023f0]]'
 source_type: github_releases
 theme: interface-experience
-title: Added CLAUDE_CODE_NO_FLICKER=1 environment variable to opt into flicker-free
-  a
+title: Added CLAUDE_CODE_NO_FLICKER=1 environment variable to opt into flicker-free…
 type: change
 ---
 
-# Added `CLAUDE_CODE_NO_FLICKER=1` environment variable to opt into flicker-free a
+# Added `CLAUDE_CODE_NO_FLICKER=1` environment variable to opt into flicker-free…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.89: Added `CLAUDE_CODE_NO_FLICKER=1` environment variable to opt into flicker-free alt-screen rendering with virtualized scrollback

@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: bc16b565a3326ba240d0238b472a756037ca41702be23ecc04a705c45883819d
+machine_hash: 1fd46f24caa7023d15c97d57d44e783cffb70d6bcac2d2498f083ce283efde29
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
   - quote: Each side chat is a durable, full agent conversation that you can follow
       up on, revisit later, and at-mention to pull context back into the main thread.
     source_release: https://cursor.com/changelog/side-chat
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -48,7 +48,7 @@ record:
     theme: context-window
   theme_resolution: manual-semantic-rule-v1
   title: Each side chat is a durable, full agent conversation that you can follow
-    up on,
+    up…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-12-vscode-added-usage-attribution-to-the-account-usage-dialog-usage-showing-cache-m|claude-code-2026-06-12-7832d6]]'
@@ -57,12 +57,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-07-10-3-11-https-cursor-com-changelog-side-chat-c762410d|cursor-2026-07-10-3-11-https-cursor-com-changelog-side-chat-c762410d]]'
 source_type: cursor_changelog
 theme: context-window
-title: Each side chat is a durable, full agent conversation that you can follow up
-  on,
+title: Each side chat is a durable, full agent conversation that you can follow up…
 type: change
 ---
 
-# Each side chat is a durable, full agent conversation that you can follow up on,
+# Each side chat is a durable, full agent conversation that you can follow up…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Side Chats and Conversation Search: Each side chat is a durable, full agent conversation that you can follow up on, revisit later, and at-mention to pull context back into the main thread.

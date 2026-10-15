@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7fd21d741ad8c1b0a7c6330937616a592de5184f2c7e98adb1d895ab4232991c
+machine_hash: 113f3cb925fee3f78bb4ab03d25717c597651db0fed55022f5f481dee81c97d4
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       or WinGet installations, Claude Code runs the upgrade command in the background
       and prompts to restart'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.129
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -39,7 +39,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: 'Added `CLAUDE_CODE_PACKAGE_MANAGER_AUTO_UPDATE`: when set on Homebrew or
-    WinGet'
+    WinGet…'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-22-the-resume-command-now-offers-to-summarize-stale-large-sessions-before-re-readin|claude-code-2026-04-22-a4073c]]'
@@ -48,11 +48,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-06-v2-1-129-github-317982632-ec56fc0f|claude-code-2026-05-06-v2-1-129-github-317982632-ec56fc0f]]'
 source_type: github_releases
 theme: developer-workflow
-title: 'Added CLAUDE_CODE_PACKAGE_MANAGER_AUTO_UPDATE: when set on Homebrew or WinGet'
+title: 'Added CLAUDE_CODE_PACKAGE_MANAGER_AUTO_UPDATE: when set on Homebrew or WinGet…'
 type: change
 ---
 
-# Added `CLAUDE_CODE_PACKAGE_MANAGER_AUTO_UPDATE`: when set on Homebrew or WinGet
+# Added `CLAUDE_CODE_PACKAGE_MANAGER_AUTO_UPDATE`: when set on Homebrew or WinGet…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.129: Added `CLAUDE_CODE_PACKAGE_MANAGER_AUTO_UPDATE`: when set on Homebrew or WinGet installations, Claude Code runs the upgrade command in the background and prompts to restart

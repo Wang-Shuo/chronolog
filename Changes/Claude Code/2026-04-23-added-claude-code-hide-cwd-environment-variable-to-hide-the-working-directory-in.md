@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a025e349deb0573dc121b2ffde5ec8d16be5f835c38747aa7bfc887478179200
+machine_hash: 1ce35a0bef9fa1e02cd8ca069be24ae755df737acb578f6bffa8933c6faf2414
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `CLAUDE_CODE_HIDE_CWD` environment variable to hide the working directory
       in the startup logo
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.119
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,7 +36,7 @@ record:
   theme: interface-experience
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Added `CLAUDE_CODE_HIDE_CWD` environment variable to hide the working directory
+  title: Added `CLAUDE_CODE_HIDE_CWD` environment variable to hide the working directory…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-20-thinking-spinner-now-shows-progress-inline-still-thinking-thinking-more-almost-d|claude-code-2026-04-20-c71453]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-23-v2-1-119-github-312949780-573724e7|claude-code-2026-04-23-v2-1-119-github-312949780-573724e7]]'
 source_type: github_releases
 theme: interface-experience
-title: Added CLAUDE_CODE_HIDE_CWD environment variable to hide the working directory
+title: Added CLAUDE_CODE_HIDE_CWD environment variable to hide the working directory…
 type: change
 ---
 
-# Added `CLAUDE_CODE_HIDE_CWD` environment variable to hide the working directory
+# Added `CLAUDE_CODE_HIDE_CWD` environment variable to hide the working directory…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.119: Added `CLAUDE_CODE_HIDE_CWD` environment variable to hide the working directory in the startup logo

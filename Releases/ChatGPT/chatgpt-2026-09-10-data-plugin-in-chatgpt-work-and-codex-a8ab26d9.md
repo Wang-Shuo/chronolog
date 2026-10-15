@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-09-10'
-machine_hash: d0391365090413c07c702555e35c56cffee456f953266e7170c57b15437f805e
+machine_hash: c4529bf336aaf555e27df8276158466c0478a46005d72256729f4975334f1250
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- apps-integrations: [[Changes/ChatGPT/2026-09-10-the-data-plugin-helps-you-analyze-connected-business-data-in-chatgpt-work-and-co|The Data plugin helps you analyze connected business data in ChatGPT Work and Co]]
+- apps-integrations: [[Changes/ChatGPT/2026-09-10-the-data-plugin-helps-you-analyze-connected-business-data-in-chatgpt-work-and-co|The Data plugin helps you analyze connected business data in ChatGPT Work and Codex]]
 <!-- chronolog:end -->

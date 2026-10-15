@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1bfc45c86337d13eae1b3d55164828be3c6ba2368728a0c711786d4be721fffe
+machine_hash: 14c6a68e9bc766220a04d1c8a6f31aff21b6b1d3571b5e35bafe75445aea23a2
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Added `/simplify` and `/batch` bundled slash commands
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.63
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

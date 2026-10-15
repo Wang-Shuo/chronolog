@@ -11,9 +11,9 @@ diffusion:
   theme: automation-scheduling
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5a3356ca90f07c6ed6810128c086fde70a6b8fd020355da76b2659abd8901a40
+machine_hash: 39a33cfa4cc7c421d1df4c274494cd006f0636a1b1554436fc22e3d384ca238d
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: React to any Slack message with a designated emoji to kick off an automation.
       At Cursor, we use this to trigger specific automations right from Slack.
     source_release: https://cursor.com/changelog/06-18-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,8 +35,7 @@ record:
   source_release: cursor-2026-06-18-3-8-https-cursor-com-changelog-06-18-26-0b493e15
   source_type: cursor_changelog
   theme: automation-scheduling
-  title: React to any Slack message with a designated emoji to kick off an automation.
-    At
+  title: React to any Slack message with a designated emoji to kick off an automation
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-06-18-use-automate-to-create-an-automation-directly-in-your-local-agent-session|cursor-2026-06-18-45d667]]'
@@ -45,12 +44,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-06-18-3-8-https-cursor-com-changelog-06-18-26-0b493e15|cursor-2026-06-18-3-8-https-cursor-com-changelog-06-18-26-0b493e15]]'
 source_type: cursor_changelog
 theme: automation-scheduling
-title: React to any Slack message with a designated emoji to kick off an automation.
-  At
+title: React to any Slack message with a designated emoji to kick off an automation
 type: change
 ---
 
-# React to any Slack message with a designated emoji to kick off an automation. At
+# React to any Slack message with a designated emoji to kick off an automation
 
 <!-- chronolog:begin region="description" -->
 Cursor — Improvements to Cursor Automations: React to any Slack message with a designated emoji to kick off an automation. At Cursor, we use this to trigger specific automations right from Slack.

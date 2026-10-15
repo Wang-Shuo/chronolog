@@ -11,9 +11,9 @@ diffusion:
   theme: automation-scheduling
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 883f84878237980468930aef47d51cf727c6a0b9a906e4650d00812161c82d35
+machine_hash: c38c801095f90151dc8840fc1c90352c49e898b9da8d859ba3c48a91fbfbffcc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Work can also keep projects moving through Scheduled Tasks that run once,
       repeat on a schedule or trigger, or monitor for changes.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -36,7 +36,7 @@ record:
   source_type: chatgpt_changelog
   theme: automation-scheduling
   title: Work can also keep projects moving through Scheduled Tasks that run once,
-    repeat
+    repeat…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-06-18-describe-the-task-you-want-to-automate-in-plain-language-and-cursor-will-configu|cursor-2026-06-18-60aec9]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272|chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272]]'
 source_type: chatgpt_changelog
 theme: automation-scheduling
-title: Work can also keep projects moving through Scheduled Tasks that run once, repeat
+title: Work can also keep projects moving through Scheduled Tasks that run once, repeat…
 type: change
 ---
 
-# Work can also keep projects moving through Scheduled Tasks that run once, repeat
+# Work can also keep projects moving through Scheduled Tasks that run once, repeat…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Introducing ChatGPT Work: Work can also keep projects moving through Scheduled Tasks that run once, repeat on a schedule or trigger, or monitor for changes.

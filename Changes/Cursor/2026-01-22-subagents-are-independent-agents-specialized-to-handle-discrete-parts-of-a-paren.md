@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: fb4425e5f70b6b34c20290206f13f54904dbde3444cbab610aa723e92b51a94d
+machine_hash: 15dfc065163696974a0c832618c92472a81b0e5834a5c7dc55fbdc0bf8257689
 product: cursor
 product_name: Cursor
 record:
@@ -31,7 +31,7 @@ record:
       a parent agent's task. They run in parallel, use their own context, and can
       be configured with custom prompts, tool access, and models.
     source_release: https://cursor.com/changelog/2-4
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -55,7 +55,7 @@ record:
     score: 50
     theme: model-support
   title: Subagents are independent agents specialized to handle discrete parts of
-    a paren
+    a parent…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-01-22-cursor-includes-default-subagents-for-researching-your-codebase-running-terminal|cursor-2026-01-22-1ab929]]'
@@ -65,11 +65,11 @@ source_release: '[[Releases/Cursor/cursor-2026-01-22-2-4-https-cursor-com-change
 source_type: cursor_changelog
 theme: agent-mode
 title: Subagents are independent agents specialized to handle discrete parts of a
-  paren
+  parent…
 type: change
 ---
 
-# Subagents are independent agents specialized to handle discrete parts of a paren
+# Subagents are independent agents specialized to handle discrete parts of a parent…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Subagents, Skills, and Image Generation: Subagents are independent agents specialized to handle discrete parts of a parent agent's task. They run in parallel, use their own context, and can be configured with custom prompts, tool access, and models.

@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-08-09'
-machine_hash: 656bae9c280ef6474ca6f5ae21d83a3fbceae28a03bce1c40fe5693fb1d4251f
+machine_hash: 920c247ee694d77143521eab9b69e415fdc3cfa6dc2de69fb2c44cc4ef557a77
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- memory: [[Changes/ChatGPT/2023-08-09-custom-instructions-are-now-available-to-chatgpt-users-on-the-free-plan-except-f-963d1e|Custom instructions are now available to ChatGPT users on the free plan, except]]
+- memory: [[Changes/ChatGPT/2023-08-09-custom-instructions-are-now-available-to-chatgpt-users-on-the-free-plan-except-f-963d1e|Custom instructions are now available to ChatGPT users on the free plan, except…]]
 <!-- chronolog:end -->

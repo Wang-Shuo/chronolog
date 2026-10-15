@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4ad7c17fae8c32a8eca37a28b439dc0a1590964a65f7dde163ef5bdc70f2b5a7
+machine_hash: 27c42d355a38ec6fe4cfa7f31d610b512d2a8816d40e31a46935904e06545218
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Available in the ChatGPT app for Android, version 1.2026.216 or later.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -33,7 +33,7 @@ record:
   source_release: chatgpt-2026-08-21-updates-to-chatgpt-on-android-8e3bdeee
   source_type: chatgpt_changelog
   theme: mobile-desktop
-  title: Available in the ChatGPT app for Android, version 1.2026.216 or later.
+  title: Available in the ChatGPT app for Android, version 1.2026.216 or later
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-19-added-notify-when-idle-to-cross-session-sendmessage-ask-another-claude-code-sess|claude-code-2026-08-19-755018]]'
@@ -42,11 +42,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-21-updates-to-chatgpt-on-android-8e3bdeee|chatgpt-2026-08-21-updates-to-chatgpt-on-android-8e3bdeee]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: Available in the ChatGPT app for Android, version 1.2026.216 or later.
+title: Available in the ChatGPT app for Android, version 1.2026.216 or later
 type: change
 ---
 
-# Available in the ChatGPT app for Android, version 1.2026.216 or later.
+# Available in the ChatGPT app for Android, version 1.2026.216 or later
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Updates to ChatGPT on Android: Available in the ChatGPT app for Android, version 1.2026.216 or later.

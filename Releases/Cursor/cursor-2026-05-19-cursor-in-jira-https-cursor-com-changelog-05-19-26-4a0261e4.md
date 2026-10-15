@@ -1,7 +1,7 @@
 ---
 changes_count: 4
 date: '2026-05-19'
-machine_hash: 01fc37e9413370ff650752ff22cf2a205cb207bb725985820b6e2664bcd21d17
+machine_hash: a685f79ba56d121731b93a29c0571cbc2e0f6fce6f5d6a737c1aef3acd6b9404
 product: cursor
 product_name: Cursor
 record:
@@ -38,8 +38,8 @@ Tracked cards: 4
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- agent-mode: [[Changes/Cursor/2026-05-19-assign-work-items-to-cursor-or-mention-cursor-in-a-comment-to-kick-off-a-cloud-a|Assign work items to Cursor, or mention @Cursor in a comment to kick off a cloud]]
-- apps-integrations: [[Changes/Cursor/2026-05-19-cursor-is-now-available-in-jira|Cursor is now available in Jira.]]
-- apps-integrations: [[Changes/Cursor/2026-05-19-you-can-ask-cursor-to-fix-bugs-add-features-update-tests-or-investigate-somethin|You can ask Cursor to fix bugs, add features, update tests, or investigate somet]]
-- apps-integrations: [[Changes/Cursor/2026-05-19-install-the-integration-from-cursor-integrations-you-need-cursor-admin-access-an|Install the integration from Cursor integrations. You need Cursor admin access a]]
+- agent-mode: [[Changes/Cursor/2026-05-19-assign-work-items-to-cursor-or-mention-cursor-in-a-comment-to-kick-off-a-cloud-a|Assign work items to Cursor, or mention @Cursor in a comment to kick off a cloud agent]]
+- apps-integrations: [[Changes/Cursor/2026-05-19-cursor-is-now-available-in-jira|Cursor is now available in Jira]]
+- apps-integrations: [[Changes/Cursor/2026-05-19-you-can-ask-cursor-to-fix-bugs-add-features-update-tests-or-investigate-somethin|You can ask Cursor to fix bugs, add features, update tests, or investigate something…]]
+- apps-integrations: [[Changes/Cursor/2026-05-19-install-the-integration-from-cursor-integrations-you-need-cursor-admin-access-an|Install the integration from Cursor integrations]]
 <!-- chronolog:end -->

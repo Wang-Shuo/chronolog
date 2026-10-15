@@ -11,9 +11,9 @@ diffusion:
   theme: projects-workspaces
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 02a1983d009a8261190aba126b76d6c65ab3be2b506a907554835a8a394b50ed
+machine_hash: 09254f6f96d22f3adeb41df90dd1d1417d52226cbccbb192c6610c7af1d7f95e
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `--from-pr` flag to resume sessions linked to a specific GitHub PR
       number or URL
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.27
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: Added `--from-pr` flag to resume sessions linked to a specific GitHub PR
-    number
+    number or URL
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-06-12-starting-a-new-project-directly-from-a-chat|chatgpt-2025-06-12-6e1e0c]]'
@@ -47,10 +47,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-01-30-v2-1-27-github-28
 source_type: github_releases
 theme: projects-workspaces
 title: Added --from-pr flag to resume sessions linked to a specific GitHub PR number
+  or URL
 type: change
 ---
 
-# Added `--from-pr` flag to resume sessions linked to a specific GitHub PR number
+# Added `--from-pr` flag to resume sessions linked to a specific GitHub PR number or URL
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.27: Added `--from-pr` flag to resume sessions linked to a specific GitHub PR number or URL

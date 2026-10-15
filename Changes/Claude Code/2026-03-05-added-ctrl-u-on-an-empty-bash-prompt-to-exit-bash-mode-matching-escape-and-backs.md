@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: c31f9e1fd6f26acd6753e31225e8476abaaa86b1a51c92f855e2e5ef69c87cb6
+machine_hash: 60c0a7d8153e9981697e1b8596fdc08dfc3e463a910751c001b025757f7133c3
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added Ctrl+U on an empty bash prompt (`!`) to exit bash mode, matching
       `escape` and `backspace`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.69
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,7 +36,7 @@ record:
   theme: developer-workflow
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Added Ctrl+U on an empty bash prompt (`!`) to exit bash mode, matching `escape`
+  title: Added Ctrl+U on an empty bash prompt (`!`) to exit bash mode, matching `escape`…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-28-added-simplify-and-batch-bundled-slash-commands|claude-code-2026-02-28-e4d867]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44|claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44]]'
 source_type: github_releases
 theme: developer-workflow
-title: Added Ctrl+U on an empty bash prompt (!) to exit bash mode, matching escape
+title: Added Ctrl+U on an empty bash prompt (!) to exit bash mode, matching escape…
 type: change
 ---
 
-# Added Ctrl+U on an empty bash prompt (`!`) to exit bash mode, matching `escape`
+# Added Ctrl+U on an empty bash prompt (`!`) to exit bash mode, matching `escape`…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.69: Added Ctrl+U on an empty bash prompt (`!`) to exit bash mode, matching `escape` and `backspace`

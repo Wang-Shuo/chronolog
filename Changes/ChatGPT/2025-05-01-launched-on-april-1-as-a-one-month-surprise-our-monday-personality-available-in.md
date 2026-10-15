@@ -11,9 +11,9 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 24e54d2be084125e0596e4e6e11c3629ee0af979629307ea0b9c43e6f4a6f509
+machine_hash: 7f402f6a09069b55e46a19422c97857a4572dd98366485fc24aae5f2bb7452c5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
       style, and we’re already working on new personalities for future use. Please
       stay tuned for what’s next!
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -49,7 +49,7 @@ record:
     - personality
     score: 50
     theme: memory
-  title: Launched on April 1 as a one-month surprise, our “Monday” personality (available
+  title: Launched on April 1 as a one-month surprise, our “Monday” personality…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2024-12-12-today-we-started-rolling-out-two-updates-to-voice-mode-in-chatgpt|chatgpt-2024-12-12-76507a]]'
@@ -58,11 +58,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-01-sunsetting-monday-gpt-9d013d1e|chatgpt-2025-05-01-sunsetting-monday-gpt-9d013d1e]]'
 source_type: chatgpt_changelog
 theme: voice
-title: Launched on April 1 as a one-month surprise, our “Monday” personality (available
+title: Launched on April 1 as a one-month surprise, our “Monday” personality…
 type: change
 ---
 
-# Launched on April 1 as a one-month surprise, our “Monday” personality (available
+# Launched on April 1 as a one-month surprise, our “Monday” personality…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Sunsetting Monday GPT: Launched on April 1 as a one-month surprise, our “Monday” personality (available in both voice and text) has now been sunset. We hope you enjoyed Monday's irreverent style, and we’re already working on new personalities for future use. Please stay tuned for what’s next!

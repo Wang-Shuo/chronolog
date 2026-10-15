@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 90d6af83e9a6577a2d9a13c5c4fdecb7e6325b92b47c88ef657937d0e12543dd
+machine_hash: 4e9d55be0c4b14b83870100f189d5130c5c5186b8f7a1f9b3ab62c684112ca80
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: You can now select a chart, metric, or record in the Health tab to get
       personalized explanations and insights based on your connected health information.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -35,7 +35,7 @@ record:
   source_release: chatgpt-2026-09-28-explore-your-health-data-with-personalized-summaries-bc04c126
   source_type: chatgpt_changelog
   theme: editor-experience
-  title: You can now select a chart, metric, or record in the Health tab to get personali
+  title: Select a chart, metric, or record in the Health tab to get personalized explanations…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-25-added-the-turn-s-completion-time-to-the-end-of-turn-duration-line-e-g-saut-ed-fo|claude-code-2026-08-25-9ba9ee]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-28-explore-your-health-data-with-personalized-summaries-bc04c126|chatgpt-2026-09-28-explore-your-health-data-with-personalized-summaries-bc04c126]]'
 source_type: chatgpt_changelog
 theme: editor-experience
-title: You can now select a chart, metric, or record in the Health tab to get personali
+title: Select a chart, metric, or record in the Health tab to get personalized explanations…
 type: change
 ---
 
-# You can now select a chart, metric, or record in the Health tab to get personali
+# Select a chart, metric, or record in the Health tab to get personalized explanations…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Explore your health data with personalized summaries: You can now select a chart, metric, or record in the Health tab to get personalized explanations and insights based on your connected health information.

@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: fc8b082e10ebbf7ddbd77a5868295e5cd2ac4e10a8862d429632008160c354e3
+machine_hash: d5b4e0e330a97bc28dcf2a696fb68499abad9a931133e5a60ac6118f00c6e192
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       or see https://docs.anthropic.com/en/docs/claude-code/getting-started for more
       options
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.15
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -39,7 +39,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: Added deprecation notification for npm installations - run `claude install`
-    or s
+    or see…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-13-added-search-functionality-to-config-command-for-quickly-filtering-settings|claude-code-2026-01-13-7f916b]]'
@@ -49,11 +49,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-01-21-v2-1-15-github-27
 source_type: github_releases
 theme: developer-workflow
 title: Added deprecation notification for npm installations - run claude install or
-  s
+  see…
 type: change
 ---
 
-# Added deprecation notification for npm installations - run `claude install` or s
+# Added deprecation notification for npm installations - run `claude install` or see…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.15: Added deprecation notification for npm installations - run `claude install` or see https://docs.anthropic.com/en/docs/claude-code/getting-started for more options

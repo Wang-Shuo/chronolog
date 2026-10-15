@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 227375bacb421ff441e3dfb2ecbd987cc682abcc543c65898c6349930bdd4f6d
+machine_hash: 69a7729340f0efece6d11cd98c52cb8e512d11876bd61d4861875924261f2252
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Added `/debug` for Claude to help troubleshoot the current session
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.30
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

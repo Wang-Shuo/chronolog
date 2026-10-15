@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 13ca68a919951253e4ec9893a24a6578bee9dece6a84e9e51d4184b062a14352
+machine_hash: 18d9fbda6bae068eeaca7e6e212eecc86bbc79905de311f147cec1723e1f5b4e
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       a `--settings` file; it now asks for consent first, and a session that ignores
       bypass shows a short notice that stays
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.293
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -41,7 +41,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: Fixed `claude agents` offering bypass permissions that background sessions
-    then
+    then…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-10-05-added-agentid-to-the-tool-check-event-of-plugin-hooks-so-a-hook-can-tell-a-subag|claude-code-2026-10-05-fd658b]]'
@@ -50,11 +50,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-10-07-v2-1-293-github-405988533-66d1bb8d|claude-code-2026-10-07-v2-1-293-github-405988533-66d1bb8d]]'
 source_type: github_releases
 theme: safety-privacy
-title: Fixed claude agents offering bypass permissions that background sessions then
+title: Fixed claude agents offering bypass permissions that background sessions then…
 type: change
 ---
 
-# Fixed `claude agents` offering bypass permissions that background sessions then
+# Fixed `claude agents` offering bypass permissions that background sessions then…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.293: Fixed `claude agents` offering bypass permissions that background sessions then ignored when consent was saved only in `.claude/settings.local.json` or a `--settings` file; it now asks for consent first, and a session that ignores bypass shows a short notice that stays

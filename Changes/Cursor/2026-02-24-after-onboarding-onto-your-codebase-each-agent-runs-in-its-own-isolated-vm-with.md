@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: d98c3396650c6914c41030d69d0b30c083917112180d224c86cbcc72f4c8bcf3
+machine_hash: c21e6629c13f50237e568fe53e2a50ee5657dba89741b7ac3479fb3913284a74
 product: cursor
 product_name: Cursor
 record:
@@ -32,7 +32,7 @@ record:
       with artifacts (videos, screenshots, and logs) that make it possible to quickly
       review their changes.
     source_release: https://cursor.com/changelog/02-24-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -41,7 +41,7 @@ record:
   source_type: cursor_changelog
   theme: agent-mode
   title: After onboarding onto your codebase, each agent runs in its own isolated
-    VM with
+    VM…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-02-18-when-a-plan-is-generated-the-cli-now-shows-a-persistent-decision-menu-you-can-ch|cursor-2026-02-18-1c1249]]'
@@ -50,12 +50,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-02-24-cloud-agents-with-computer-use-https-cursor-com-changelog-02-24-252fc429|cursor-2026-02-24-cloud-agents-with-computer-use-https-cursor-com-changelog-02-24-252fc429]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: After onboarding onto your codebase, each agent runs in its own isolated VM
-  with
+title: After onboarding onto your codebase, each agent runs in its own isolated VM…
 type: change
 ---
 
-# After onboarding onto your codebase, each agent runs in its own isolated VM with
+# After onboarding onto your codebase, each agent runs in its own isolated VM…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cloud Agents with Computer Use: After onboarding onto your codebase, each agent runs in its own isolated VM with a full development environment. Cloud agents produce merge-ready PRs with artifacts (videos, screenshots, and logs) that make it possible to quickly review their changes.

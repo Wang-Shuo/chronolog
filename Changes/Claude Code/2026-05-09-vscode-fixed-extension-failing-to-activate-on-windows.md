@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 864f6ce52167b84183d545f61d57dec693aa3487092385dc001789e51fa7cc91
+machine_hash: a0f7c46bd05dcf1fd8f6542e141fc909b74ea56c2938795c7c19509f1f3283cd
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: '[VSCode] Fixed extension failing to activate on Windows'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.137
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

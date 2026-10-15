@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: c10a945f15a66ff9960bded177ab7cd579f94d742fdd0996fd38b79286a5eac3
+machine_hash: 59922f07abb9cb4e91e35bbf4689dab4dad617df887dea5727603be450af5228
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       fetches, egress evasion, and cross-tenant reach are no longer auto-approved
       unless your environment marks them expected
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.257
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   source_type: github_releases
   theme: agent-mode
   title: Added a Containment Escape rule to auto mode so cloud metadata-credential
-    fetche
+    fetches…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-08-27-cloud-agents-no-longer-require-a-connected-github-or-other-third-party-scm-provi|cursor-2026-08-27-4f17c1]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6|claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6]]'
 source_type: github_releases
 theme: agent-mode
-title: Added a Containment Escape rule to auto mode so cloud metadata-credential fetche
+title: Added a Containment Escape rule to auto mode so cloud metadata-credential fetches…
 type: change
 ---
 
-# Added a Containment Escape rule to auto mode so cloud metadata-credential fetche
+# Added a Containment Escape rule to auto mode so cloud metadata-credential fetches…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.257: Added a Containment Escape rule to auto mode so cloud metadata-credential fetches, egress evasion, and cross-tenant reach are no longer auto-approved unless your environment marks them expected

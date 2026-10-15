@@ -11,9 +11,9 @@ diffusion:
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ab6cee76bf67d8bb24e5974edf2c4d24010a2ff41de82e884156ca32c4902eae
+machine_hash: 7f4bff883ff5a71cb1f8a6065dc71d90c6454e6983993c46d7456e684c50cd2c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
       help you do more focused work. These updates are available for Plus, Pro, and
       Team users.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -37,7 +37,7 @@ record:
   source_type: chatgpt_changelog
   theme: collaboration
   title: Starting today, we’re adding several updates to projects in ChatGPT to help
-    you
+    you do…
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-03-23-improved-indexing-performance-for-teams-sharing-codebases|cursor-2025-03-23-3b6996]]'
@@ -47,11 +47,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2025-06-12-adding-more-capabilities-
 source_type: chatgpt_changelog
 theme: collaboration
 title: Starting today, we’re adding several updates to projects in ChatGPT to help
-  you
+  you do…
 type: change
 ---
 
-# Starting today, we’re adding several updates to projects in ChatGPT to help you
+# Starting today, we’re adding several updates to projects in ChatGPT to help you do…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Adding More Capabilities to Projects: Starting today, we’re adding several updates to projects in ChatGPT to help you do more focused work. These updates are available for Plus, Pro, and Team users.

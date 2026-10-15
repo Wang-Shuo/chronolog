@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: d66bb3132af48a7c24d06f65d73bc6d96a5d4a42a4b1a055f0f4b93cd2f82b63
+machine_hash: 0c2b0f9e22521b327f8fdb9bc4a6cc9216786fadde366f21db3c0c8087da569e
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       and show a worded staleness clock (`waiting 3m`) instead of the same timestamp
       twice'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.207
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code
@@ -38,8 +38,7 @@ record:
   source_release: claude-code-2026-07-11-v2-1-207-github-352355755-d77b8e91
   source_type: github_releases
   theme: agent-mode
-  title: 'Improved agent view: blocked session peeks now lead with the question and
-    show a'
+  title: Improved agent view
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-07-10-by-default-side-chats-focus-on-reading-searching-and-answering-use-them-to-ask-c|cursor-2026-07-10-430112]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-11-v2-1-207-github-352355755-d77b8e91|claude-code-2026-07-11-v2-1-207-github-352355755-d77b8e91]]'
 source_type: github_releases
 theme: agent-mode
-title: 'Improved agent view: blocked session peeks now lead with the question and
-  show a'
+title: Improved agent view
 type: change
 ---
 
-# Improved agent view: blocked session peeks now lead with the question and show a
+# Improved agent view
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.207: Improved agent view: blocked session peeks now lead with the question and show a worded staleness clock (`waiting 3m`) instead of the same timestamp twice

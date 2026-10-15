@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-08-12'
-machine_hash: 028212808c7a9edaff3280de8dd8b797bbf65052a960627013cd939db6a86953
+machine_hash: 6c670a732aa58894446ba1093f44ef9a50cb912559eee19db515286029920e4e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,5 +43,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2025-08-12-gmail-google-calendar-and-google-contacts-are-now-available-to-connect-and-use-i-9ea6d6|Gmail, Google Calendar, and Google Contacts are now available to connect and use]]
+- model-support: [[Changes/ChatGPT/2025-08-12-gmail-google-calendar-and-google-contacts-are-now-available-to-connect-and-use-i-9ea6d6|Gmail, Google Calendar, and Google Contacts are now available to connect and use in chat]]
 <!-- chronolog:end -->

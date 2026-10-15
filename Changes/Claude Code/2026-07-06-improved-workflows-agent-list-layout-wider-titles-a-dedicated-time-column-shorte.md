@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 592210a8dceb3ac31f1924f2627f64e8d4fe013f937010f0074face45c782841
+machine_hash: 375d89e600d8923f314b507f77d5034a380f686838dc171f84840736b3f38731
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,7 +29,7 @@ record:
   - quote: 'Improved `/workflows` agent list layout: wider titles, a dedicated time
       column, shorter model names, and no per-row tool-call counts'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.202
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code
@@ -47,8 +47,7 @@ record:
     score: 50
     theme: model-support
   theme_resolution: manual-semantic-rule-v1
-  title: 'Improved `/workflows` agent list layout: wider titles, a dedicated time
-    column,'
+  title: Improved `/workflows` agent list layout
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-01-added-background-agent-notifications-in-claude-agents-sessions-that-need-input-o|claude-code-2026-07-01-4d022c]]'
@@ -57,11 +56,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-06-v2-1-202-github-349856235-58e6d3e8|claude-code-2026-07-06-v2-1-202-github-349856235-58e6d3e8]]'
 source_type: github_releases
 theme: agent-mode
-title: 'Improved /workflows agent list layout: wider titles, a dedicated time column,'
+title: Improved /workflows agent list layout
 type: change
 ---
 
-# Improved `/workflows` agent list layout: wider titles, a dedicated time column,
+# Improved `/workflows` agent list layout
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.202: Improved `/workflows` agent list layout: wider titles, a dedicated time column, shorter model names, and no per-row tool-call counts

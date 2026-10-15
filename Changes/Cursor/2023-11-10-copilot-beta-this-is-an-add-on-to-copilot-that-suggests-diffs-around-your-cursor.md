@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0087867effc34ef06a43f454d43352bd193bfbb787ee5fcb0482b424186c579d
+machine_hash: ac737a46afdbfc61ac6cc75592416c212aa9d56f28a1aa0095db0bdf83cabc45
 product: cursor
 product_name: Cursor
 record:
@@ -30,7 +30,7 @@ record:
       tab in the right chat bar. Note: to cover the costs of the AI, this is only
       available for pro users.'
     source_release: https://cursor.com/changelog/0-15-0-0-15-1
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -48,8 +48,7 @@ record:
     score: 50
     theme: editor-experience
   theme_resolution: manual-semantic-rule-v1
-  title: 'Copilot++ (beta): this is an "add-on" to Copilot that suggests diffs around
-    your'
+  title: 'Copilot++ (beta): this is an "add-on" to Copilot that suggests diffs around…'
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-08-30-for-with-codebase-chats-you-can-now-see-the-codebase-context-that-cursor-shows-g|cursor-2023-08-30-e21849]]'
@@ -58,12 +57,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-11-10-0-15-0-0-15-1-https-cursor-com-changelog-0-15-0-0-15-1-9dc9cadb|cursor-2023-11-10-0-15-0-0-15-1-https-cursor-com-changelog-0-15-0-0-15-1-9dc9cadb]]'
 source_type: cursor_changelog
 theme: context-window
-title: 'Copilot++ (beta): this is an "add-on" to Copilot that suggests diffs around
-  your'
+title: 'Copilot++ (beta): this is an "add-on" to Copilot that suggests diffs around…'
 type: change
 ---
 
-# Copilot++ (beta): this is an "add-on" to Copilot that suggests diffs around your
+# Copilot++ (beta): this is an "add-on" to Copilot that suggests diffs around…
 
 <!-- chronolog:begin region="description" -->
 Cursor — New models, Copilot++ beta: Copilot++ (beta): this is an "add-on" to Copilot that suggests diffs around your cursor, using your recent edits as context. To enable it, go to the "More" tab in the right chat bar. Note: to cover the costs of the AI, this is only available for pro users.

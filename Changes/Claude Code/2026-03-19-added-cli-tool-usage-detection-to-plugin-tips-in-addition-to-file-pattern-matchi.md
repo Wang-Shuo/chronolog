@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f877e9f8b83424f45bf7545af79bbd7450c629980b5f1fa1cfebc2fc9e595869
+machine_hash: 3b7f3ca58a9dbe405fddc04fb78f373bab375ea1ce05b08534505800fb4c878f
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added CLI tool usage detection to plugin tips, in addition to file pattern
       matching
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.80
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,7 +35,7 @@ record:
   source_type: github_releases
   theme: apps-integrations
   title: Added CLI tool usage detection to plugin tips, in addition to file pattern
-    match
+    matching
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-17-added-claude-plugin-data-variable-for-plugin-persistent-state-that-survives-plug|claude-code-2026-03-17-d73d30]]'
@@ -45,11 +45,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-03-19-v2-1-80-github-29
 source_type: github_releases
 theme: apps-integrations
 title: Added CLI tool usage detection to plugin tips, in addition to file pattern
-  match
+  matching
 type: change
 ---
 
-# Added CLI tool usage detection to plugin tips, in addition to file pattern match
+# Added CLI tool usage detection to plugin tips, in addition to file pattern matching
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.80: Added CLI tool usage detection to plugin tips, in addition to file pattern matching

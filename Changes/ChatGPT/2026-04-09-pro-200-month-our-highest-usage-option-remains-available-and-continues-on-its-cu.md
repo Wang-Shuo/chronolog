@@ -11,9 +11,9 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ed75ff48038f086f565abedeb2185bfd6f3ff4b54c4827ac5cbe01ae78f01161
+machine_hash: bf03bf8ebe76028c73ed224c398ccc54ce66e8ec8a75295978079d8fba517cf6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: 'Pro ($200/month): Our highest-usage option remains available and continues
       on its current Codex promotion through May 31.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -37,8 +37,7 @@ record:
   theme: pricing-model
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: 'Pro ($200/month): Our highest-usage option remains available and continues
-    on it'
+  title: 'Pro ($200/month): Our highest-usage option remains available and continues…'
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-04-09-pro-100-month-built-for-longer-high-intensity-codex-sessions-it-includes-unlimit|chatgpt-2026-04-09-384163]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2|chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2]]'
 source_type: chatgpt_changelog
 theme: pricing-model
-title: 'Pro ($200/month): Our highest-usage option remains available and continues
-  on it'
+title: 'Pro ($200/month): Our highest-usage option remains available and continues…'
 type: change
 ---
 
-# Pro ($200/month): Our highest-usage option remains available and continues on it
+# Pro ($200/month): Our highest-usage option remains available and continues…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — New Pro plan options: Pro ($200/month): Our highest-usage option remains available and continues on its current Codex promotion through May 31.

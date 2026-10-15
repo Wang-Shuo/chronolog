@@ -11,9 +11,9 @@ diffusion:
   theme: enterprise-admin
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: ac0c490df419103b33664f44c2edb2a0ce74a15fffecfb53bbf552e706fde5af
+machine_hash: 35a8f05435a663e9fb1b22dfaaabc5f7937109c2cfbf51df277ff9996dbd5a8f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,7 +38,7 @@ record:
       including colors and icons, to help keep your projects organized.Learn more
       about projects in ChatGPT.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -47,7 +47,7 @@ record:
   source_type: chatgpt_changelog
   theme: enterprise-admin
   title: Projects bring your chats and files into one place, helping you stay focused
-    and
+    and get…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|chatgpt-2025-06-12-1cc56f]]'
@@ -55,11 +55,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2025-09-03-projects-now-available-on
 source_type: chatgpt_changelog
 theme: enterprise-admin
 title: Projects bring your chats and files into one place, helping you stay focused
-  and
+  and get…
 type: change
 ---
 
-# Projects bring your chats and files into one place, helping you stay focused and
+# Projects bring your chats and files into one place, helping you stay focused and get…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Projects Now Available on ChatGPT Free Tier: Projects bring your chats and files into one place, helping you stay focused and get things done. They’re now available on our Free tier, with up to 5 file uploads per project.We’ve also updated file uploads on paid tiers: Plus, Go, and Edu support up to 25 files per project. Pro, Business, and Enterprise support up to 40 files per project.New customization options are available for all plans, including colors and icons, to help keep your projects organized.Learn more about projects in ChatGPT.

@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 9aff7f206dc0b467aed240f443f8a5050a10b53c8f27d888ab678a6070be0563
+machine_hash: 2f27d2282198fab8e3a5ff648ae7ace1dd4846411b7da7b8f5fea75dce3567fe
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
   - quote: We've also added a file picker, arrow key navigation, and a model toggle
       to Composer. This release also patches a few outstanding Composer bugs.
     source_release: https://cursor.com/changelog/0-38-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -47,8 +47,7 @@ record:
     - model
     score: 50
     theme: model-support
-  title: We've also added a file picker, arrow key navigation, and a model toggle
-    to Comp
+  title: Cursor adds a file picker, arrow key navigation, and a model toggle to Composer
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-04-01-update-0-31-1-0-31-3-adds-back-in-ai-review-alpha-fixes-the-cursor-settings-menu|cursor-2024-04-01-3b8a96]]'
@@ -57,12 +56,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-07-23-0-38-x-https-cursor-com-changelog-0-38-x-e6d087df|cursor-2024-07-23-0-38-x-https-cursor-com-changelog-0-38-x-e6d087df]]'
 source_type: cursor_changelog
 theme: interface-experience
-title: We've also added a file picker, arrow key navigation, and a model toggle to
-  Comp
+title: Cursor adds a file picker, arrow key navigation, and a model toggle to Composer
 type: change
 ---
 
-# We've also added a file picker, arrow key navigation, and a model toggle to Comp
+# Cursor adds a file picker, arrow key navigation, and a model toggle to Composer
 
 <!-- chronolog:begin region="description" -->
 Cursor — Copilot++ Chunked Streaming (beta), Composer improvements: We've also added a file picker, arrow key navigation, and a model toggle to Composer. This release also patches a few outstanding Composer bugs.

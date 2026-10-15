@@ -11,21 +11,21 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3741bf8ee1c4b0ac9da15e85f6c70adb3332c0d01f0010b262e1427117b0ee9b
+machine_hash: 2a977229c27a3f74449151ef08dc00a5d60e1d4f29176351d0e7fe6d96bbd463
 product: cursor
 product_name: Cursor
 record:
   card_id: cursor-2023-03-14-24e9bf
   comparison: ''
   date: '2023-03-14'
-  description: "Cursor — v0.0.37 (2023-03-14): Instant fix all lint errors with AI
-    \U0001F60E"
+  description: 'Cursor — v0.0.37 (2023-03-14): Instant fix all lint errors with AI
+    😎'
   evidence:
-  - quote: "Instant fix all lint errors with AI \U0001F60E"
+  - quote: Instant fix all lint errors with AI 😎
     source_release: https://cursor.com/changelog/0-0-37
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,12 +35,12 @@ record:
   theme: editor-experience
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: "Instant fix all lint errors with AI \U0001F60E"
+  title: Instant fix all lint errors with AI 😎
   type: change
 source_release: '[[Releases/Cursor/cursor-2023-03-14-0-0-37-https-cursor-com-changelog-0-0-37-236c8006|cursor-2023-03-14-0-0-37-https-cursor-com-changelog-0-0-37-236c8006]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: "Instant fix all lint errors with AI \U0001F60E"
+title: Instant fix all lint errors with AI 😎
 type: change
 ---
 

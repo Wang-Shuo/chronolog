@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 2e88a037bcd509df522b57a5817123659876e34baf34fbd23f84a47c9d478f44
+machine_hash: 2855e77efbcb0cc83f58d0ecc2dba742a6a236dc2afc29d3423f511142f522ba
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       an auto-update can't submit a reply, and `claude daemon status` explains version-skew
       behavior
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.176
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,8 +38,7 @@ record:
   theme: reliability-performance
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Background sessions now show clearer guidance when a window left open across
-    an
+  title: Background sessions now show clearer guidance when a window left open across…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-02-improved-auto-mode-classifier-latency-by-reducing-reasoning-on-routine-actions-l|claude-code-2026-06-02-0eb027]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-12-v2-1-176-github-338777362-91e3deb6|claude-code-2026-06-12-v2-1-176-github-338777362-91e3deb6]]'
 source_type: github_releases
 theme: reliability-performance
-title: Background sessions now show clearer guidance when a window left open across
-  an
+title: Background sessions now show clearer guidance when a window left open across…
 type: change
 ---
 
-# Background sessions now show clearer guidance when a window left open across an
+# Background sessions now show clearer guidance when a window left open across…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.176: Background sessions now show clearer guidance when a window left open across an auto-update can't submit a reply, and `claude daemon status` explains version-skew behavior

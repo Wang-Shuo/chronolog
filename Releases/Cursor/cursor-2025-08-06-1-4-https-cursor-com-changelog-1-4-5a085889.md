@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2025-08-06'
-machine_hash: 13c97a9f859a923d67974941f095f59373612572cf178ed5473d5bebd590a622
+machine_hash: e596bc41bb02304d68dac6610536af88ca54fbce85bc367a04a372b5dc4fb625
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ Tracked cards: 3
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- file-data: [[Changes/Cursor/2025-08-06-read-file-now-reads-full-files-when-appropriate-and-the-2mb-cap-is-removed|Read file: Now reads full files when appropriate and the 2MB cap is removed.]]
-- agent-mode: [[Changes/Cursor/2025-08-06-sending-messages-while-cursor-is-working-now-does-a-better-job-of-steering-the-a|Sending messages while Cursor is working now does a better job of steering the a]]
-- context-window: [[Changes/Cursor/2025-08-06-agents-are-significantly-improved-when-operating-across-large-codebases-context|Agents are significantly improved when operating across large codebases. Context]]
+- file-data: [[Changes/Cursor/2025-08-06-read-file-now-reads-full-files-when-appropriate-and-the-2mb-cap-is-removed|Read file: Now reads full files when appropriate and the 2MB cap is removed]]
+- agent-mode: [[Changes/Cursor/2025-08-06-sending-messages-while-cursor-is-working-now-does-a-better-job-of-steering-the-a|Sending messages while Cursor is working now does a better job of steering the agent]]
+- context-window: [[Changes/Cursor/2025-08-06-agents-are-significantly-improved-when-operating-across-large-codebases-context|Agents are significantly improved when operating across large codebases]]
 <!-- chronolog:end -->

@@ -11,9 +11,9 @@ diffusion:
   theme: automation-scheduling
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8919809bbf229505cf5750f1dc3bc5abc48b9530f042713690f683a73db45163
+machine_hash: d30a64bfa3b12239a8b6320d3a202142ac8534e70fcc080a864164a4147f367b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   - quote: 'Tasks let you set up automated prompts that ChatGPT can run for you.You
       can now manage all your tasks directly in Pulse:'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -36,18 +36,16 @@ record:
   theme: automation-scheduling
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Tasks let you set up automated prompts that ChatGPT can run for you.You can
-    now
+  title: Tasks let you set up automated prompts that ChatGPT can run for you
   type: change
 source_release: '[[Releases/ChatGPT/chatgpt-2025-12-17-tasks-are-now-in-pulse-15c01c44|chatgpt-2025-12-17-tasks-are-now-in-pulse-15c01c44]]'
 source_type: chatgpt_changelog
 theme: automation-scheduling
-title: Tasks let you set up automated prompts that ChatGPT can run for you.You can
-  now
+title: Tasks let you set up automated prompts that ChatGPT can run for you
 type: change
 ---
 
-# Tasks let you set up automated prompts that ChatGPT can run for you. You can now
+# Tasks let you set up automated prompts that ChatGPT can run for you
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Tasks are now in Pulse: Tasks let you set up automated prompts that ChatGPT can run for you.You can now manage all your tasks directly in Pulse:

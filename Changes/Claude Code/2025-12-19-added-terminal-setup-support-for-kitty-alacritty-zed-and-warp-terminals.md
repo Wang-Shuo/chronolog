@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 7c9a78477e501117efd6cae947d82e35f27d51402461b1a4a36aeb4cbd8c259e
+machine_hash: 2d513e39097cb73753e4e25cd7daec486c1999ce0ab0830f6f29cd72940a6911
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: Added `/terminal-setup` support for Kitty, Alacritty, Zed, and Warp terminals
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.0.74
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code

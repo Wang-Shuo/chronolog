@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 1014fba3ee7739e996b345e382ab0ec91030d65bed59e7e010db1744ec1a5711
+machine_hash: 0c4317e2bd3bd09ebbc28816e315eb15efb2d3566228493d8c85e24bcec31216
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: New floating mode added with soft dismiss behavior
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT

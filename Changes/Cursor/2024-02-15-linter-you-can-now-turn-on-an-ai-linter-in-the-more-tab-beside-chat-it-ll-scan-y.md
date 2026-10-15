@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e2d18ad8a15b35ade4c31d7690c0e153820576be34e03a72f898ab5911f3dd5d
+machine_hash: 429746ce22e8de21f4330964746213348ada23666f1e02733495c101f66c4d4d
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: 'Linter: You can now turn on an AI linter in the "More" tab beside Chat.
       It''ll scan your file for small bugs every time you save.'
     source_release: https://cursor.com/changelog/0-27-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -45,8 +45,7 @@ record:
     score: 50
     theme: editor-experience
   theme_resolution: manual-semantic-rule-v1
-  title: 'Linter: You can now turn on an AI linter in the "More" tab beside Chat.
-    It''ll sc'
+  title: 'Linter: You can now turn on an AI linter in the "More" tab beside Chat'
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-01-06-dev-containers-are-now-supported-this-build-also|cursor-2024-01-06-bafbc7]]'
@@ -55,12 +54,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-02-15-0-27-x-https-cursor-com-changelog-0-27-x-29975100|cursor-2024-02-15-0-27-x-https-cursor-com-changelog-0-27-x-29975100]]'
 source_type: cursor_changelog
 theme: developer-workflow
-title: 'Linter: You can now turn on an AI linter in the "More" tab beside Chat. It''ll
-  sc'
+title: 'Linter: You can now turn on an AI linter in the "More" tab beside Chat'
 type: change
 ---
 
-# Linter: You can now turn on an AI linter in the "More" tab beside Chat. It'll sc
+# Linter: You can now turn on an AI linter in the "More" tab beside Chat
 
 <!-- chronolog:begin region="description" -->
 Cursor — Linter, Interpreter Mode Updates: Linter: You can now turn on an AI linter in the "More" tab beside Chat. It'll scan your file for small bugs every time you save.

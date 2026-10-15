@@ -11,9 +11,9 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 825403a806cd438189f364d1d0cbef86f5dbabd29cf2bf0bf33651c692c287bb
+machine_hash: 11900c4a0f434ff85c7e1e080bfa7ef2e6e1b6f329e3e0d13be71775c988e98e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       and connected apps available to your account during a Voice conversation and
       follow written responses in the chat.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -53,8 +53,7 @@ record:
     score: 100
     theme: mobile-desktop
   theme_resolution: manual-semantic-rule-v1
-  title: Live now supports plugins on web, iOS, and Android. You can use the plugins
-    and
+  title: Live now supports plugins on web, iOS, and Android
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-08-31-follow-along-outside-the-app-live-activities-can-show-content-from-your-voice-co|chatgpt-2026-08-31-11fda5]]'
@@ -63,12 +62,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-23-use-plugins-in-voice-and-get-work-done-by-speaking-fa63def1|chatgpt-2026-09-23-use-plugins-in-voice-and-get-work-done-by-speaking-fa63def1]]'
 source_type: chatgpt_changelog
 theme: voice
-title: Live now supports plugins on web, iOS, and Android. You can use the plugins
-  and
+title: Live now supports plugins on web, iOS, and Android
 type: change
 ---
 
-# Live now supports plugins on web, iOS, and Android. You can use the plugins and
+# Live now supports plugins on web, iOS, and Android
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Use plugins in Voice and get work done by speaking: Live now supports plugins on web, iOS, and Android. You can use the plugins and connected apps available to your account during a Voice conversation and follow written responses in the chat.

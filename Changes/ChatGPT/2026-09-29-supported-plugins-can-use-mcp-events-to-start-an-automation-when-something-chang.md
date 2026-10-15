@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: a86fbc8f95ac28907cfd77c7404b4bf5e5b8701908a5b2ff2402596276d79031
+machine_hash: 859165898a40932a306772198b18ba374c776a9497505b4eca291386f2a3ab14
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
       it should do with matching updates—for example, prepare a summary when new information
       arrives in a channel you have asked it to monitor.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -52,7 +52,7 @@ record:
     score: 50
     theme: automation-scheduling
   title: Supported plugins can use MCP events to start an automation when something
-    chang
+    changes…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-09-29-this-is-a-limited-preview-with-participating-integrations-using-purchased-credit|chatgpt-2026-09-29-a678ef]]'
@@ -62,11 +62,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-start-automations-from-co
 source_type: chatgpt_changelog
 theme: apps-integrations
 title: Supported plugins can use MCP events to start an automation when something
-  chang
+  changes…
 type: change
 ---
 
-# Supported plugins can use MCP events to start an automation when something chang
+# Supported plugins can use MCP events to start an automation when something changes…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Start automations from connected-app events: Supported plugins can use MCP events to start an automation when something changes in a connected app. Describe what you want ChatGPT to follow and what it should do with matching updates—for example, prepare a summary when new information arrives in a channel you have asked it to monitor.

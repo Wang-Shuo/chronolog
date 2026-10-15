@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 169a7e32f4f68d289bc6c05d1641f4a99c57306b83392d11d8477a1b27935639
+machine_hash: 7582cba0ed19503936c86e9ec5cd266075634553d02fc3ea76c9aa9d4864f69a
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `w` key in `/copy` to write the focused selection directly to a file,
       bypassing the clipboard (useful over SSH)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.72
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   theme: interface-experience
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Added `w` key in `/copy` to write the focused selection directly to a file,
-    bypa
+  title: Added `w` key in `/copy` to write the focused selection directly to a file…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-26-added-copy-command-to-show-an-interactive-picker-when-code-blocks-are-present-al|claude-code-2026-02-26-a51fd0]]'
@@ -46,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48|claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48]]'
 source_type: github_releases
 theme: interface-experience
-title: Added w key in /copy to write the focused selection directly to a file, bypa
+title: Added w key in /copy to write the focused selection directly to a file…
 type: change
 ---
 
-# Added `w` key in `/copy` to write the focused selection directly to a file, bypa
+# Added `w` key in `/copy` to write the focused selection directly to a file…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.72: Added `w` key in `/copy` to write the focused selection directly to a file, bypassing the clipboard (useful over SSH)

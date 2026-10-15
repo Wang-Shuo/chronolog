@@ -1,7 +1,7 @@
 ---
 changes_count: 4
 date: '2026-07-28'
-machine_hash: a0382b3184dc6eb35abbbe9cc61bfb74b3ad79951812cf114d5fa439f23b099b
+machine_hash: 5b62835b1a5c9479f9d4f16e12207eb393657ad86ef4d1744ec2d51a19162fb9
 product: cursor
 product_name: Cursor
 record:
@@ -40,8 +40,8 @@ Tracked cards: 4
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- pricing-model: [[Changes/Cursor/2026-07-28-we-re-introducing-cursor-start-a-new-649-monthly-plan-for-developers-in-india-ma|We're introducing Cursor Start, a new ₹649 monthly plan for developers in India,]]
-- pricing-model: [[Changes/Cursor/2026-07-28-start-bills-monthly-with-auto-renewal-and-is-available-from-july-28-2026|Start bills monthly with auto-renewal and is available from July 28, 2026.]]
-- agent-mode: [[Changes/Cursor/2026-07-28-always-on-cloud-agents-that-build-test-and-ship-code-while-you-keep-working|Always-on cloud agents that build, test, and ship code while you keep working.]]
-- interface-experience: [[Changes/Cursor/2026-07-28-existing-free-users-in-india-can-upgrade-their-plan-from-the-dashboard-new-users|Existing Free users in India can upgrade their plan from the dashboard. New user]]
+- pricing-model: [[Changes/Cursor/2026-07-28-we-re-introducing-cursor-start-a-new-649-monthly-plan-for-developers-in-india-ma|Cursor introduces Cursor Start, a new ₹649 monthly plan for developers in India…]]
+- pricing-model: [[Changes/Cursor/2026-07-28-start-bills-monthly-with-auto-renewal-and-is-available-from-july-28-2026|Start bills monthly with auto-renewal and is available from July 28, 2026]]
+- agent-mode: [[Changes/Cursor/2026-07-28-always-on-cloud-agents-that-build-test-and-ship-code-while-you-keep-working|Always-on cloud agents that build, test, and ship code while you keep working]]
+- interface-experience: [[Changes/Cursor/2026-07-28-existing-free-users-in-india-can-upgrade-their-plan-from-the-dashboard-new-users|Existing Free users in India can upgrade their plan from the dashboard]]
 <!-- chronolog:end -->

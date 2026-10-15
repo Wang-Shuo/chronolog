@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 0c7c510bd83617653f173fcc80a7487558a879217c3ccfa251bb3be4d79c55c7
+machine_hash: e159bfeeb526c8973e636a2bae5a813b4e0dd030daf09371390f42157a27aee9
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Added `agent.spawn` for teammates, one agent id across plugin hook events,
       and idle and waiting states in `$.agent.list()`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.289
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code
@@ -47,7 +47,7 @@ record:
     theme: apps-integrations
   theme_resolution: manual-semantic-rule-v1
   title: Added `agent.spawn` for teammates, one agent id across plugin hook events,
-    and i
+    and idle…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-29-added-claude-plugin-configure-plugin-to-show-a-plugin-s-options-and-which-are-un|claude-code-2026-09-29-d3fe56]]'
@@ -57,11 +57,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-10-03-v2-1-289-github-4
 source_type: github_releases
 theme: apps-integrations
 title: Added agent.spawn for teammates, one agent id across plugin hook events, and
-  i
+  idle…
 type: change
 ---
 
-# Added `agent.spawn` for teammates, one agent id across plugin hook events, and i
+# Added `agent.spawn` for teammates, one agent id across plugin hook events, and idle…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.289: Added `agent.spawn` for teammates, one agent id across plugin hook events, and idle and waiting states in `$.agent.list()`

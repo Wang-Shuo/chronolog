@@ -11,9 +11,9 @@ diffusion:
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: c3543fc88b0b9fb2db2d84937a6152c5790711a66ea8d2cfdf68bc8a0e5aff23
+machine_hash: af400756a887e77c5fccc33ced3a02e1d12b04d64c5fa84e8e56ab8bd3b52a33
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Sharing chats from projects
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT

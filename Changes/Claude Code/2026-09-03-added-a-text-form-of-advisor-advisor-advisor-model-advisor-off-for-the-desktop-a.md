@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 20d6c109f480c02a5e53b50933de24901a99bdc6ccbf60a0733f3c87c737adad
+machine_hash: 789e32e22e3d991d912aad2b80448771af7f38022ae65b53fe65fa8cc5a03399
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       off`) for the desktop app, Remote Control, and other headless (`-p`/Agent SDK)
       sessions
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.260
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code
@@ -53,7 +53,7 @@ record:
     theme: model-support
   theme_resolution: manual-semantic-rule-v1
   title: Added a text form of `/advisor` (`/advisor`, `/advisor <model>`, `/advisor
-    off`)
+    off`)…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-09-03-the-onenote-plugin-helps-you-find-and-summarize-notes-gather-decisions-and-actio|chatgpt-2026-09-03-1687e9]]'
@@ -62,11 +62,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc|claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added a text form of /advisor (/advisor, /advisor model, /advisor off)
+title: Added a text form of /advisor (/advisor, /advisor model, /advisor off)…
 type: change
 ---
 
-# Added a text form of `/advisor` (`/advisor`, `/advisor <model>`, `/advisor off`)
+# Added a text form of `/advisor` (`/advisor`, `/advisor <model>`, `/advisor off`)…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.260: Added a text form of `/advisor` (`/advisor`, `/advisor <model>`, `/advisor off`) for the desktop app, Remote Control, and other headless (`-p`/Agent SDK) sessions

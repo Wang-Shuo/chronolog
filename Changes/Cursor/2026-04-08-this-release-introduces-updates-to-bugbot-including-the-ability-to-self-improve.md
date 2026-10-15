@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 68b13590d3d3900cde4ca57e2f820a304cd636f9aa9f677cabc990a3e08ea50c
+machine_hash: 3966f864f157e87139a238a9b06d1cf517e21b7dd28b6a41492de95c0c6ce44d
 product: cursor
 product_name: Cursor
 record:
@@ -30,7 +30,7 @@ record:
       in real time, MCP support, improvements to Bugbot Autofix, and the highest resolution
       rate to date.
     source_release: https://cursor.com/changelog/04-08-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -38,7 +38,8 @@ record:
   source_release: cursor-2026-04-08-bugbot-learned-rules-and-mcp-support-https-cursor-com-changelog-cba7cd11
   source_type: cursor_changelog
   theme: apps-integrations
-  title: This release introduces updates to Bugbot including the ability to self-improve
+  title: Cursor introduces updates to Bugbot including the ability to self-improve
+    in real…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-07-added-keep-coding-instructions-frontmatter-field-support-for-plugin-output-style|claude-code-2026-04-07-f07863]]'
@@ -47,11 +48,12 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-04-08-bugbot-learned-rules-and-mcp-support-https-cursor-com-changelog-cba7cd11|cursor-2026-04-08-bugbot-learned-rules-and-mcp-support-https-cursor-com-changelog-cba7cd11]]'
 source_type: cursor_changelog
 theme: apps-integrations
-title: This release introduces updates to Bugbot including the ability to self-improve
+title: Cursor introduces updates to Bugbot including the ability to self-improve in
+  real…
 type: change
 ---
 
-# This release introduces updates to Bugbot including the ability to self-improve
+# Cursor introduces updates to Bugbot including the ability to self-improve in real…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Bugbot Learned Rules and MCP Support: This release introduces updates to Bugbot including the ability to self-improve in real time, MCP support, improvements to Bugbot Autofix, and the highest resolution rate to date.

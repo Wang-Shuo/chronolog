@@ -11,9 +11,9 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 61aee2cd4a16e5ae03bcd6727d05598ff8e814a26d489b0a1e36f5981d182e28
+machine_hash: ccf62aed0a7a450ed5e83a7c6822eb6546b674d68c0e97964a93ee099f8390d9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: 'Today we started rolling out two updates to voice mode in ChatGPT:'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -33,7 +33,7 @@ record:
   source_release: chatgpt-2024-12-12-santa-voice-and-video-and-screen-share-in-voice-chats-89eb483d
   source_type: chatgpt_changelog
   theme: voice
-  title: 'Today we started rolling out two updates to voice mode in ChatGPT:'
+  title: Today we started rolling out two updates to voice mode in ChatGPT
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|chatgpt-2023-09-25-cc74ad]]'
@@ -42,11 +42,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2024-12-12-santa-voice-and-video-and-screen-share-in-voice-chats-89eb483d|chatgpt-2024-12-12-santa-voice-and-video-and-screen-share-in-voice-chats-89eb483d]]'
 source_type: chatgpt_changelog
 theme: voice
-title: 'Today we started rolling out two updates to voice mode in ChatGPT:'
+title: Today we started rolling out two updates to voice mode in ChatGPT
 type: change
 ---
 
-# Today we started rolling out two updates to voice mode in ChatGPT:
+# Today we started rolling out two updates to voice mode in ChatGPT
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Santa Voice and Video and Screen Share in Voice Chats: Today we started rolling out two updates to voice mode in ChatGPT:

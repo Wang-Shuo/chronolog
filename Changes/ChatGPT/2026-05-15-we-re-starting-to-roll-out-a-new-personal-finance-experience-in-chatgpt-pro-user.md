@@ -11,9 +11,9 @@ diffusion:
   theme: file-data
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 27fb686f4a0d52949e825201d8adb8fc1da544a960fefaf1f25fe21034cf8514
+machine_hash: 20b585d339f3d546ff62b67c22233c60f078e734236803a3cada84a19aa03b48
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,7 +48,7 @@ record:
       but it cannot move money, pay bills, place trades, file taxes, or act as a financial,
       legal, tax, or investment adviser.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -66,8 +66,7 @@ record:
     score: 50
     theme: mobile-desktop
   theme_resolution: manual-semantic-rule-v2
-  title: We’re starting to roll out a new personal finance experience in ChatGPT.
-    Pro use
+  title: We’re starting to roll out a new personal finance experience in ChatGPT
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-05-14-free-500-mb|chatgpt-2026-05-14-46d719]]'
@@ -76,12 +75,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-05-15-personal-finances-in-chatgpt-028801eb|chatgpt-2026-05-15-personal-finances-in-chatgpt-028801eb]]'
 source_type: chatgpt_changelog
 theme: file-data
-title: We’re starting to roll out a new personal finance experience in ChatGPT. Pro
-  use
+title: We’re starting to roll out a new personal finance experience in ChatGPT
 type: change
 ---
 
-# We’re starting to roll out a new personal finance experience in ChatGPT. Pro use
+# We’re starting to roll out a new personal finance experience in ChatGPT
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Personal finances in ChatGPT: We’re starting to roll out a new personal finance experience in ChatGPT. Pro users in the United States can securely connect supported financial accounts, see a dashboard of where their money is going, and ask questions grounded in their financial context.Available on web and iOS, Finances lets you view spending, bills, subscriptions, net worth, and investment information in one place. You can ask questions directly in ChatGPT or use the Finances page to explore insights, review upcoming payments, track recurring charges, and think through budgets, savings goals, debt payoff, and other financial decisions.Users can connect accounts through Plaid. This experience is rolling out gradually, so some eligible users may not see it right away.ChatGPT can help users understand and plan, but it cannot move money, pay bills, place trades, file taxes, or act as a financial, legal, tax, or investment adviser.

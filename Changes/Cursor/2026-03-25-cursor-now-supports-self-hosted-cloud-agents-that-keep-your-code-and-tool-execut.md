@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 420453daf15849d0a33d4360b6a24cbdf392c1701b79dd1d51896e680114c130
+machine_hash: 67d6fe763758098c73daf47bf94a576970ccd5ec9949dccd7478c4185a349548
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Cursor now supports self-hosted cloud agents that keep your code and tool
       execution entirely in your own network.
     source_release: https://cursor.com/changelog/03-25-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,7 +35,7 @@ record:
   source_type: cursor_changelog
   theme: agent-mode
   title: Cursor now supports self-hosted cloud agents that keep your code and tool
-    execut
+    execution…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-03-04-cursor-is-now-available-in-intellij-idea-pycharm-webstorm-and-other-jetbrains-id|cursor-2026-03-04-f4e0fc]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-03-25-self-hosted-cloud-agents-https-cursor-com-changelog-03-25-26-423e399c|cursor-2026-03-25-self-hosted-cloud-agents-https-cursor-com-changelog-03-25-26-423e399c]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: Cursor now supports self-hosted cloud agents that keep your code and tool execut
+title: Cursor now supports self-hosted cloud agents that keep your code and tool execution…
 type: change
 ---
 
-# Cursor now supports self-hosted cloud agents that keep your code and tool execut
+# Cursor now supports self-hosted cloud agents that keep your code and tool execution…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Self-hosted Cloud Agents: Cursor now supports self-hosted cloud agents that keep your code and tool execution entirely in your own network.

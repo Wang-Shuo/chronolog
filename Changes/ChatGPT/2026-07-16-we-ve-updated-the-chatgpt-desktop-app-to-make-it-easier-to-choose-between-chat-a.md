@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 038f2da98a7edb6b154e58437f2cdff95236302783ddcec35d1c289cd0f724df
+machine_hash: f4aee847eda41d02b0fb933f30781c29a8d360107b894c103440a905a46da6af
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       Chat and Work, find your conversations and Projects, and continue Work across
       devices. These updates are now live for all plans on macOS and Windows.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -37,8 +37,8 @@ record:
   source_release: chatgpt-2026-07-16-chatgpt-desktop-app-experience-updates-936a13ad
   source_type: chatgpt_changelog
   theme: mobile-desktop
-  title: We’ve updated the ChatGPT desktop app to make it easier to choose between
-    Chat a
+  title: ChatGPT updates the ChatGPT desktop app to make it easier to choose between
+    Chat…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-07-09-beginning-july-9-users-on-web-ios-and-android-will-no-longer-be-able-to-create-n|chatgpt-2026-07-09-ed8dc0]]'
@@ -47,12 +47,12 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-16-chatgpt-desktop-app-experience-updates-936a13ad|chatgpt-2026-07-16-chatgpt-desktop-app-experience-updates-936a13ad]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: We’ve updated the ChatGPT desktop app to make it easier to choose between Chat
-  a
+title: ChatGPT updates the ChatGPT desktop app to make it easier to choose between
+  Chat…
 type: change
 ---
 
-# We’ve updated the ChatGPT desktop app to make it easier to choose between Chat a
+# ChatGPT updates the ChatGPT desktop app to make it easier to choose between Chat…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT desktop app experience updates: We’ve updated the ChatGPT desktop app to make it easier to choose between Chat and Work, find your conversations and Projects, and continue Work across devices. These updates are now live for all plans on macOS and Windows.

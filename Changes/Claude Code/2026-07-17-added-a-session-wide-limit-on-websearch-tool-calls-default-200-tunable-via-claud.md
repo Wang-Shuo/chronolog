@@ -11,9 +11,9 @@ diffusion:
   theme: search-browsing
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 30535dfef98df618ce9d1acb9029c2777dae8636a455e69663a96bd01de1b2d4
+machine_hash: d961b796eaa1febbd10f00c4114391f090493548113e6bcc2acd436f160e4bf7
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Added a session-wide limit on WebSearch tool calls (default 200, tunable
       via `CLAUDE_CODE_MAX_WEB_SEARCHES_PER_SESSION`) to stop runaway search loops
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.212
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,8 +37,7 @@ record:
   theme: search-browsing
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Added a session-wide limit on WebSearch tool calls (default 200, tunable
-    via `CL
+  title: Added a session-wide limit on WebSearch tool calls…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-04-08-the-outlook-email-and-calendar-apps-for-chatgpt-can-now-help-with-delegated-or-s|chatgpt-2026-04-08-733761]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11|claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11]]'
 source_type: github_releases
 theme: search-browsing
-title: Added a session-wide limit on WebSearch tool calls (default 200, tunable via
-  CL
+title: Added a session-wide limit on WebSearch tool calls…
 type: change
 ---
 
-# Added a session-wide limit on WebSearch tool calls (default 200, tunable via `CL
+# Added a session-wide limit on WebSearch tool calls…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.212: Added a session-wide limit on WebSearch tool calls (default 200, tunable via `CLAUDE_CODE_MAX_WEB_SEARCHES_PER_SESSION`) to stop runaway search loops

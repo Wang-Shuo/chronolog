@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 67c5393a5cc2050b9e05bbaac32119de4c93eafa481fff1566e432b9a99514c4
+machine_hash: 43120cf2b59cd3e330f2f4a0952a7757f8624a55ac55a9e9ba6207c3fffbf25e
 product: cursor
 product_name: Cursor
 record:
@@ -30,7 +30,7 @@ record:
       doesn't stop it. When something needs testing on your machine, the coordinator
       spins up a local agent to run it there.
     source_release: https://cursor.com/changelog/projects
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -39,6 +39,7 @@ record:
   source_type: cursor_changelog
   theme: agent-mode
   title: A Project runs on its own computer in the cloud, so closing your laptop doesn't
+    stop it
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-09-02-your-codebase-build-outputs-and-secrets-all-stay-on-internal-machines-running-in|cursor-2026-09-02-2a6b87]]'
@@ -48,10 +49,11 @@ source_release: '[[Releases/Cursor/cursor-2026-09-10-cursor-projects-https-curso
 source_type: cursor_changelog
 theme: agent-mode
 title: A Project runs on its own computer in the cloud, so closing your laptop doesn't
+  stop it
 type: change
 ---
 
-# A Project runs on its own computer in the cloud, so closing your laptop doesn't
+# A Project runs on its own computer in the cloud, so closing your laptop doesn't stop it
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cursor Projects: A Project runs on its own computer in the cloud, so closing your laptop doesn't stop it. When something needs testing on your machine, the coordinator spins up a local agent to run it there.

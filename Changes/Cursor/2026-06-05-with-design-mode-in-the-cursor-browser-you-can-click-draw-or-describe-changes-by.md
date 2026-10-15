@@ -11,9 +11,9 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 005c25cdfa27fe31599e2b00ead452c142c96a13b265e2e10e13cac313262c4a
+machine_hash: c7cf47c0b3c99628c0c30d3d9568470978399b183931814f16e46d8ffa72cdc2
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: With Design Mode in the Cursor browser, you can click, draw, or describe
       changes by voice to help agents update your UI.
     source_release: https://cursor.com/changelog/design-mode-improvements
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -45,7 +45,7 @@ record:
     score: 50
     theme: agent-mode
   title: With Design Mode in the Cursor browser, you can click, draw, or describe
-    changes
+    changes…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-07-added-voice-pushtotalk-keybinding-to-make-the-voice-activation-key-rebindable-in|claude-code-2026-03-07-c19380]]'
@@ -54,11 +54,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-06-05-3-7-https-cursor-com-changelog-design-mode-improvements-936ff395|cursor-2026-06-05-3-7-https-cursor-com-changelog-design-mode-improvements-936ff395]]'
 source_type: cursor_changelog
 theme: voice
-title: With Design Mode in the Cursor browser, you can click, draw, or describe changes
+title: With Design Mode in the Cursor browser, you can click, draw, or describe changes…
 type: change
 ---
 
-# With Design Mode in the Cursor browser, you can click, draw, or describe changes
+# With Design Mode in the Cursor browser, you can click, draw, or describe changes…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Design Mode Improvements: With Design Mode in the Cursor browser, you can click, draw, or describe changes by voice to help agents update your UI.

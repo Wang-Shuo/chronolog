@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-01-12'
-machine_hash: 53cad55360ad9348ff3722292149393a1bf157000a4736bb0ea5b6ba1d0213a3
+machine_hash: daf403a0f5b52d9cbb997e55640166e01302935eed338495538cb44e4a929933
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,5 +39,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- voice: [[Changes/ChatGPT/2026-01-12-we-re-improving-our-dictation-capabilities-in-chatgpt-for-all-logged-in-users-si|We’re improving our dictation capabilities in ChatGPT for all logged-in users, s]]
+- voice: [[Changes/ChatGPT/2026-01-12-we-re-improving-our-dictation-capabilities-in-chatgpt-for-all-logged-in-users-si|We’re improving our dictation capabilities in ChatGPT for all logged-in users…]]
 <!-- chronolog:end -->

@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 65e03adffae8365cf8ff3ab0be28a21d7d5157a2bef75702ac052204be8e9b70
+machine_hash: 6111078d064f63296ac6a5d06db6892624c5471e3c002f1fbf7e6cf3632cbc3b
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: API Key input box is now a password type
     source_release: https://cursor.com/changelog/0-9-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

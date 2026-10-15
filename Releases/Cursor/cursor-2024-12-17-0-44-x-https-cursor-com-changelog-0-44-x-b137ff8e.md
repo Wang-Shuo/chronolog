@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2024-12-17'
-machine_hash: 0b76fab72960c0bdd72f1deda0c1ea2de64a5847bac480a857c7bd01a22522f3
+machine_hash: d91830ef3767fa89b3860c225e4e126562ea9b5409c67f237cf85745661ce20b
 product: cursor
 product_name: Cursor
 record:
@@ -42,6 +42,6 @@ Tracked cards: 5
 - developer-workflow: [[Changes/Cursor/2024-12-17-agent-reads-linter-errors-to-automatically-fix-issues|Agent reads linter errors to automatically fix issues]]
 - developer-workflow: [[Changes/Cursor/2024-12-17-with-yolo-mode-the-agent-can-auto-run-terminal-commands|With Yolo Mode, the agent can auto-run terminal commands]]
 - agent-mode: [[Changes/Cursor/2024-12-17-agent-auto-saves-changes-to-disk|Agent auto-saves changes to disk]]
-- developer-workflow: [[Changes/Cursor/2024-12-17-agent-sees-terminal-exit-codes-can-run-commands-in-the-background-and-commands-a|Agent sees terminal exit codes, can run commands in the background, and commands]]
+- developer-workflow: [[Changes/Cursor/2024-12-17-agent-sees-terminal-exit-codes-can-run-commands-in-the-background-and-commands-a|Agent sees terminal exit codes, can run commands in the background, and commands…]]
 - agent-mode: [[Changes/Cursor/2024-12-17-docs-git-web-and-folder-are-now-available-in-the-agent|@docs, @git, @web, and @folder are now available in the agent]]
 <!-- chronolog:end -->

@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 0e5682f3012a7041ba3e9e0bcc7f18f3281a7f0e310b70c201d7658a118aa4f3
+machine_hash: a3bc7e892a14bdac8225b868622dfffe2746b0d61c0754521cacf44d1b76fb79
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,7 +39,7 @@ record:
       from this pilot to improve the experience and inform how we expand to more regions
       and plans over time. To learn more visit the blog.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -48,7 +48,7 @@ record:
   source_type: chatgpt_changelog
   theme: mobile-desktop
   title: We’re piloting group chats so you can bring people - and ChatGPT - into the
-    same
+    same…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-10-08-available-on-web-mobile-ios-android-and-desktop-macos-windows-note-in-cambodia-l|chatgpt-2025-10-08-4d0cb9]]'
@@ -58,11 +58,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2025-11-13-group-chats-in-chatgpt-8a
 source_type: chatgpt_changelog
 theme: mobile-desktop
 title: We’re piloting group chats so you can bring people - and ChatGPT - into the
-  same
+  same…
 type: change
 ---
 
-# We’re piloting group chats so you can bring people - and ChatGPT - into the same
+# We’re piloting group chats so you can bring people - and ChatGPT - into the same…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Group chats in ChatGPT: We’re piloting group chats so you can bring people - and ChatGPT - into the same conversation. Plan trips, make decisions, and collaborate on projects together while ChatGPT helps search, summarize, generate content, and keep everyone on the same page.Group chats are starting to roll out on ChatGPT Web, iOS, and Android in New Zealand, Japan, South Korea, and Taiwan. We’ll use early feedback from this pilot to improve the experience and inform how we expand to more regions and plans over time. To learn more visit the blog.

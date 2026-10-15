@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 9b44a199fd3f20c7738ca7cd0db3b6e26e5dfe805f301d53c167d84476e05025
+machine_hash: c789ee43d3522b0d80978d0689a49ce08525c2e9c395f27b31289c22075d29b5
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       now honor a corporate launcher by running every Claude Code self-spawn through
       a required wrapper executable'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.208
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code
@@ -39,7 +39,7 @@ record:
   source_type: github_releases
   theme: agent-mode
   title: 'Added `CLAUDE_CODE_PROCESS_WRAPPER`: agent view and the background service
-    now h'
+    now honor…'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-11-auto-mode-is-now-available-without-claude-code-enable-auto-mode-opt-in-on-bedroc|claude-code-2026-07-11-7ba039]]'
@@ -49,11 +49,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-07-14-v2-1-208-github-3
 source_type: github_releases
 theme: agent-mode
 title: 'Added CLAUDE_CODE_PROCESS_WRAPPER: agent view and the background service now
-  h'
+  honor…'
 type: change
 ---
 
-# Added `CLAUDE_CODE_PROCESS_WRAPPER`: agent view and the background service now h
+# Added `CLAUDE_CODE_PROCESS_WRAPPER`: agent view and the background service now honor…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.208: Added `CLAUDE_CODE_PROCESS_WRAPPER`: agent view and the background service now honor a corporate launcher by running every Claude Code self-spawn through a required wrapper executable

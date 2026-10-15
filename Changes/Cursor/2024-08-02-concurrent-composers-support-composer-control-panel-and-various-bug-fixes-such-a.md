@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: faaed307d14eb5129b97f7a8b1bfd752be2cb24f3e12e6da051f53add78330e6
+machine_hash: b2b47b0eb1ad82d1cfb31195dba095194067848c3c4d6b12880b930e6a3c61ea
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
   - quote: Concurrent composers support, composer control panel, and various bug fixes
       such as accepted files being deleted.
     source_release: https://cursor.com/changelog/0-39-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -40,7 +40,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: Concurrent composers support, composer control panel, and various bug fixes
-    such
+    such…
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-07-10-this-nightly-build-comes-with-experimental-interface-agent-support|cursor-2023-07-10-6617f2]]'
@@ -50,11 +50,11 @@ source_release: '[[Releases/Cursor/cursor-2024-08-02-0-39-x-https-cursor-com-cha
 source_type: cursor_changelog
 theme: agent-mode
 title: Concurrent composers support, composer control panel, and various bug fixes
-  such
+  such…
 type: change
 ---
 
-# Concurrent composers support, composer control panel, and various bug fixes such
+# Concurrent composers support, composer control panel, and various bug fixes such…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Faster Cursor Tab, More Composer improvements: Concurrent composers support, composer control panel, and various bug fixes such as accepted files being deleted.

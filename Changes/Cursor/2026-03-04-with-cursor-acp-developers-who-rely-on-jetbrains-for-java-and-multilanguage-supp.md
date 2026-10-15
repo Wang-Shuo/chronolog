@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 0742b475d0fb8c2cfaf970e234358ef6a9bbf9507c2a92fad98045439d7592c0
+machine_hash: f93f4f792a4552a028c56b2d841402e9a90986fb24439a3dfa058f6f70f8c0f4
 product: cursor
 product_name: Cursor
 record:
@@ -30,7 +30,7 @@ record:
       support can use any frontier model from OpenAI, Anthropic, Google, and Cursor
       for agent-driven development.
     source_release: https://cursor.com/changelog/03-04-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -49,7 +49,7 @@ record:
     theme: model-support
   theme_resolution: manual-semantic-rule-v1
   title: With Cursor ACP, developers who rely on JetBrains for Java and multilanguage
-    sup
+    support…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-02-24-get-started-at-cursor-com-onboard-to-watch-the-agent-configure-itself-and-record|cursor-2026-02-24-c94da5]]'
@@ -59,11 +59,11 @@ source_release: '[[Releases/Cursor/cursor-2026-03-04-cursor-in-jetbrains-ides-ht
 source_type: cursor_changelog
 theme: agent-mode
 title: With Cursor ACP, developers who rely on JetBrains for Java and multilanguage
-  sup
+  support…
 type: change
 ---
 
-# With Cursor ACP, developers who rely on JetBrains for Java and multilanguage sup
+# With Cursor ACP, developers who rely on JetBrains for Java and multilanguage support…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cursor in JetBrains IDEs: With Cursor ACP, developers who rely on JetBrains for Java and multilanguage support can use any frontier model from OpenAI, Anthropic, Google, and Cursor for agent-driven development.

@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-05-12'
-machine_hash: a2b02147b0dd8dfa54badf4f178f3faff3b728bff5ed12eb2e0221a5cfdab9d4
+machine_hash: 44756792f0e2f9bb169b24e383db7a9544282e88a9c6d4b191cb39bf06bc0d4b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,5 +44,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- search-browsing: [[Changes/ChatGPT/2025-05-12-chatgpt-deep-research-with-sharepoint-and-onedrive-is-available-globally-to-team-c5147c|ChatGPT deep research with SharePoint and OneDrive is available globally to Team]]
+- search-browsing: [[Changes/ChatGPT/2025-05-12-chatgpt-deep-research-with-sharepoint-and-onedrive-is-available-globally-to-team-c5147c|ChatGPT deep research with SharePoint and OneDrive is available globally to Team users]]
 <!-- chronolog:end -->

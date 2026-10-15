@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 60e9dbff59401e2e2efaf7b51c54aa3d3d1814ff0401e57c73cd179fdc66036d
+machine_hash: 708e44171dbdcb93272bf87d3c225786b51033d3b66214886ce7a0fe188d4b0e
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Reduced token overhead when mentioning files with `@` — raw string content
       no longer JSON-escaped
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.86
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   theme: context-window
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Reduced token overhead when mentioning files with `@` — raw string content
-    no lo
+  title: Reduced token overhead when mentioning files with `@`
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-03-05-gpt-5-4-brings-together-the-best-of-our-recent-advances-in-reasoning-coding-and|chatgpt-2026-03-05-77e8f3]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-27-v2-1-86-github-302569462-d6b30859|claude-code-2026-03-27-v2-1-86-github-302569462-d6b30859]]'
 source_type: github_releases
 theme: context-window
-title: Reduced token overhead when mentioning files with @ — raw string content no
-  lo
+title: Reduced token overhead when mentioning files with @
 type: change
 ---
 
-# Reduced token overhead when mentioning files with `@` — raw string content no lo
+# Reduced token overhead when mentioning files with `@`
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.86: Reduced token overhead when mentioning files with `@` — raw string content no longer JSON-escaped

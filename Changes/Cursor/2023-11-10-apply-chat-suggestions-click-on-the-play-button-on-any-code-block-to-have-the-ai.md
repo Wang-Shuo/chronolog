@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1b4a14968e835df716eeaf2814f5991bec3c3ddc0d33cd1bb69696db966f83a3
+machine_hash: d8ee0ebd021824402a298943b1eb40d0e399b54908d4bde70cbf7564add9cc67
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: 'Apply chat suggestions: click on the play button on any code block to
       have the AI apply in-chat suggestions to your current file.'
     source_release: https://cursor.com/changelog/0-15-0-0-15-1
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,8 +37,7 @@ record:
   theme: editor-experience
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: 'Apply chat suggestions: click on the play button on any code block to have
-    the A'
+  title: Apply chat suggestions
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-09-27-you-can-now-use-an-early-preview-of-edit-in-the-chat-it-s-significantly-faster-a|cursor-2023-09-27-5f5e01]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-11-10-0-15-0-0-15-1-https-cursor-com-changelog-0-15-0-0-15-1-9dc9cadb|cursor-2023-11-10-0-15-0-0-15-1-https-cursor-com-changelog-0-15-0-0-15-1-9dc9cadb]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: 'Apply chat suggestions: click on the play button on any code block to have
-  the A'
+title: Apply chat suggestions
 type: change
 ---
 
-# Apply chat suggestions: click on the play button on any code block to have the A
+# Apply chat suggestions
 
 <!-- chronolog:begin region="description" -->
 Cursor — New models, Copilot++ beta: Apply chat suggestions: click on the play button on any code block to have the AI apply in-chat suggestions to your current file.

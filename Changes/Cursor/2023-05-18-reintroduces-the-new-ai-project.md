@@ -11,9 +11,9 @@ diffusion:
   theme: projects-workspaces
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 052fff9771abd70e8e378f3ed8e0220fe87f1c0f6aa9d86e60867c97783ebf21
+machine_hash: 9366479d6d91b47e7436ca45fbc5fb092ccc41fccd9ff0e5c68e191bb2de86d7
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: Reintroduces the "New AI Project"
     source_release: https://cursor.com/changelog/0-2-17
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor

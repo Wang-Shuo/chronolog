@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: fd05058a0298d52c506cfd56c09a9125b7741b7b39c64bb9d3e66c0a6467a1b0
+machine_hash: fd6633927409e8a48eb7b1af52cfb65e4450840c3b03846ec1417e4304cde46d
 product: cursor
 product_name: Cursor
 record:
@@ -30,7 +30,7 @@ record:
       scan your git diff or PR for bugs. You can enable it in the "More" tab beside
       chat. Feedback is much appreciated.'
     source_release: https://cursor.com/changelog/0-20-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -48,8 +48,7 @@ record:
     score: 50
     theme: editor-experience
   theme_resolution: manual-semantic-rule-v2
-  title: 'AI Review (beta): This is a new experimental feature that let''s GPT-4 scan
-    your'
+  title: AI Review (beta)
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-10-16-we-ve-integrated-dall-e-3-with-chatgpt-allowing-it-to-respond-to-your-requests-w-ad3caf|chatgpt-2023-10-16-ad3caf]]'
@@ -58,12 +57,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-12-16-0-20-0-https-cursor-com-changelog-0-20-0-fecb080e|cursor-2023-12-16-0-20-0-https-cursor-com-changelog-0-20-0-fecb080e]]'
 source_type: cursor_changelog
 theme: model-support
-title: 'AI Review (beta): This is a new experimental feature that let''s GPT-4 scan
-  your'
+title: AI Review (beta)
 type: change
 ---
 
-# AI Review (beta): This is a new experimental feature that let's GPT-4 scan your
+# AI Review (beta)
 
 <!-- chronolog:begin region="description" -->
 Cursor — Copilot++, @ previews, AI Review: AI Review (beta): This is a new experimental feature that let's GPT-4 scan your git diff or PR for bugs. You can enable it in the "More" tab beside chat. Feedback is much appreciated.

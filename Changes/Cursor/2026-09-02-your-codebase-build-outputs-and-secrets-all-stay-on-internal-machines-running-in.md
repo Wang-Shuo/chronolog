@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 7fc4a74f6c480d3f4e0a4f48acc664b025a7a444db9837c3bd86d57dcfd02eca
+machine_hash: 9e4e0fa24ff83a983f54aa8bc7aaa3bb2de3c388b90ce3dc6946df204b6ba380
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
   - quote: Your codebase, build outputs, and secrets all stay on internal machines
       running in your infrastructure, while the agent handles tool calls locally.
     source_release: https://cursor.com/changelog/self-hosted-machines
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -37,7 +37,7 @@ record:
   source_release: cursor-2026-09-02-self-hosted-machines-https-cursor-com-changelog-self-hosted-mach-28f9f33e
   source_type: cursor_changelog
   theme: agent-mode
-  title: Your codebase, build outputs, and secrets all stay on internal machines running
+  title: Your codebase, build outputs, and secrets all stay on internal machines running…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-28-added-live-streaming-of-a-foreground-subagent-s-tool-calls-and-results-to-remote|claude-code-2026-08-28-b77369]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-09-02-self-hosted-machines-https-cursor-com-changelog-self-hosted-mach-28f9f33e|cursor-2026-09-02-self-hosted-machines-https-cursor-com-changelog-self-hosted-mach-28f9f33e]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: Your codebase, build outputs, and secrets all stay on internal machines running
+title: Your codebase, build outputs, and secrets all stay on internal machines running…
 type: change
 ---
 
-# Your codebase, build outputs, and secrets all stay on internal machines running
+# Your codebase, build outputs, and secrets all stay on internal machines running…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Self-hosted machines: Your codebase, build outputs, and secrets all stay on internal machines running in your infrastructure, while the agent handles tool calls locally.

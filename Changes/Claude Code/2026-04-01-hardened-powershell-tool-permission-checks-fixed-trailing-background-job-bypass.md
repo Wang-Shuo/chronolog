@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9586a83cfc705cbccae3ac382d9b574123360c9a631794a4b4b4db0bb6af3ac2
+machine_hash: d9c44ac453cda6496dc0dd9f518190833c64b049f05dba733002f964b6eef82e
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       job bypass, `-ErrorAction Break` debugger hang, archive-extraction TOCTOU, and
       parse-fail fallback deny-rule degradation'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.90
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,8 +38,7 @@ record:
   theme: safety-privacy
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: 'Hardened PowerShell tool permission checks: fixed trailing `&` background
-    job by'
+  title: Hardened PowerShell tool permission checks
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-27-fixed-official-marketplace-plugin-scripts-failing-with-permission-denied-on-maco|claude-code-2026-03-27-6bd5a2]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-01-v2-1-90-github-304453197-996aad1b|claude-code-2026-04-01-v2-1-90-github-304453197-996aad1b]]'
 source_type: github_releases
 theme: safety-privacy
-title: 'Hardened PowerShell tool permission checks: fixed trailing & background job
-  by'
+title: Hardened PowerShell tool permission checks
 type: change
 ---
 
-# Hardened PowerShell tool permission checks: fixed trailing `&` background job by
+# Hardened PowerShell tool permission checks
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.90: Hardened PowerShell tool permission checks: fixed trailing `&` background job bypass, `-ErrorAction Break` debugger hang, archive-extraction TOCTOU, and parse-fail fallback deny-rule degradation

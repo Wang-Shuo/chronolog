@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2023-05-04'
-machine_hash: 1fbc3bda7d7acb6ff653861a83a1fcfcdade555cc26ffd4d7cfd744726ccdf0a
+machine_hash: 621f777553f9bf26549913788be061e4257c25bc69621914edf9d55aaad94236
 product: cursor
 product_name: Cursor
 record:
@@ -39,8 +39,8 @@ Tracked cards: 5
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
 - context-window: [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended prompt length for project generation]]
-- apps-integrations: [[Changes/Cursor/2023-05-04-one-click-extension-import-from-vs-code-beta-as-a-highly-requested-feature-we-re|One-Click Extension Import from VS Code (beta). As a highly requested feature, w]]
-- context-window: [[Changes/Cursor/2023-05-04-alpha-feature-alpha-feature-ask-questions-about-your-entire-repo-we-are-experime|Alpha feature: 🧠 Alpha feature: Ask questions about your entire repo 🛠️. We are]]
-- interface-experience: [[Changes/Cursor/2023-05-04-added-the-ability-to-hide-the-tooltip-cursor-config-advanced-chat-edit-tooltip|Added the ability to hide the tooltip (Cursor config  Advanced  Chat/Edit Tool]]
+- apps-integrations: [[Changes/Cursor/2023-05-04-one-click-extension-import-from-vs-code-beta-as-a-highly-requested-feature-we-re|One-Click Extension Import from VS Code (beta)]]
+- context-window: [[Changes/Cursor/2023-05-04-alpha-feature-alpha-feature-ask-questions-about-your-entire-repo-we-are-experime|Alpha feature: 🧠 Alpha feature: Ask questions about your entire repo 🛠️]]
+- interface-experience: [[Changes/Cursor/2023-05-04-added-the-ability-to-hide-the-tooltip-cursor-config-advanced-chat-edit-tooltip|Added the ability to hide the tooltip (Cursor config  Advanced  Chat/Edit Tooltip)]]
 - editor-experience: [[Changes/Cursor/2023-05-04-improved-prompting-for-edits-and-generates|Improved prompting for edits and generates]]
 <!-- chronolog:end -->

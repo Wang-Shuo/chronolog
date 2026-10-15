@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a723f9d0f06ee8a903c42687670de74be2e46531040605a3ee45f7706fb2be3b
+machine_hash: 03f4834a2ca72a13be239f03f8c1601562d1dd3e5260014c1f79ad5279d04f6b
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Improved read/search progress indicators to show "Reading…" while in progress
       and "Read" when complete
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.21
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   theme: interface-experience
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Improved read/search progress indicators to show "Reading…" while in progress
-    an
+  title: Improved read/search progress indicators to show "Reading…" while in progress…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-20-improved-backspace-to-delete-pasted-text-as-a-single-token-instead-of-one-charac|claude-code-2026-01-20-f21dc2]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-01-28-v2-1-21-github-280523920-bba74245|claude-code-2026-01-28-v2-1-21-github-280523920-bba74245]]'
 source_type: github_releases
 theme: interface-experience
-title: Improved read/search progress indicators to show "Reading…" while in progress
-  an
+title: Improved read/search progress indicators to show "Reading…" while in progress…
 type: change
 ---
 
-# Improved read/search progress indicators to show "Reading…" while in progress an
+# Improved read/search progress indicators to show "Reading…" while in progress…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.21: Improved read/search progress indicators to show "Reading…" while in progress and "Read" when complete

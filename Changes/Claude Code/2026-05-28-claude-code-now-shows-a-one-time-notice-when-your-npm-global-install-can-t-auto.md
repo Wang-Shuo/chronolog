@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 34a4bb836af73a24bf2a9ce91698887fbc12be7ba15981288e6dea87302c5593
+machine_hash: c4defa4f254b1c68c4e7d8fb1e49ee8063569c1b386b7d90b70158f9dc8cced8
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Claude Code now shows a one-time notice when your npm global install can't
       auto-update; `/doctor` lists the fixes
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.153
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: Claude Code now shows a one-time notice when your npm global install can't
-    auto-
+    auto-update
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-21-improved-diff-rendering-performance-for-large-file-edits-4ddf04|claude-code-2026-05-21-4ddf04]]'
@@ -47,11 +47,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-05-28-v2-1-153-github-3
 source_type: github_releases
 theme: reliability-performance
 title: Claude Code now shows a one-time notice when your npm global install can't
-  auto-
+  auto-update
 type: change
 ---
 
-# Claude Code now shows a one-time notice when your npm global install can't auto-
+# Claude Code now shows a one-time notice when your npm global install can't auto-update
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.153: Claude Code now shows a one-time notice when your npm global install can't auto-update; `/doctor` lists the fixes

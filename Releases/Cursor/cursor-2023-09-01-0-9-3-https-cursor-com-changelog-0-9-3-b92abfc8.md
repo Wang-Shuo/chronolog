@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-09-01'
-machine_hash: b4f6f1cf5dff26ca9bd3d16f9ed87f0382d659f20314c3bef50c026ad2b846e3
+machine_hash: 131bedaf3ecc9c5b6572a864af0c926e9d1e8466340f9aefdbedbb093dabd3e4
 product: cursor
 product_name: Cursor
 record:
@@ -38,5 +38,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- account-access: [[Changes/Cursor/2023-09-01-you-should-now-be-able-to-sign-in-with-github-again|You should now be able to sign in with GitHub again.]]
+- account-access: [[Changes/Cursor/2023-09-01-you-should-now-be-able-to-sign-in-with-github-again|You should now be able to sign in with GitHub again]]
 <!-- chronolog:end -->

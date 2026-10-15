@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: c0fa9ee09997a369b7d7a2b1b0872f1e863d9af5ada00f307ca20edaa40f90b8
+machine_hash: 045c60d8f52fa51dd56311929b9d1c4f10a9cf643ef87215109542b84edd607d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       reliable facts, more focused answers, and a new slider to choose how much thought
       ChatGPT puts into a response.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -39,7 +39,7 @@ record:
   source_type: chatgpt_changelog
   theme: model-support
   title: Plus and Pro users can now use an updated GPT‑5.6 Sol in ChatGPT with more
-    relia
+    reliable…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-04-added-a-prompt-audit-subcommand-to-the-claude-api-skill-for-auditing-prompts-and|claude-code-2026-08-04-84f16e]]'
@@ -49,11 +49,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-08-06-updates-to-gpt-5-6-in-cha
 source_type: chatgpt_changelog
 theme: model-support
 title: Plus and Pro users can now use an updated GPT‑5.6 Sol in ChatGPT with more
-  relia
+  reliable…
 type: change
 ---
 
-# Plus and Pro users can now use an updated GPT‑5.6 Sol in ChatGPT with more relia
+# Plus and Pro users can now use an updated GPT‑5.6 Sol in ChatGPT with more reliable…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Updates to GPT‑5.6 in ChatGPT: Plus and Pro users can now use an updated GPT‑5.6 Sol in ChatGPT with more reliable facts, more focused answers, and a new slider to choose how much thought ChatGPT puts into a response.

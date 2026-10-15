@@ -11,9 +11,9 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 275ac62d515fdd4e5404f282a83606dd51b9b88746051bb327cd0d554ed0c69d
+machine_hash: 4089f2bee85198fc7ba10141b46baa3f7eb93bdd3be95b435d2768b2ee14d1c4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Follow along with typed answers as you listen
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT

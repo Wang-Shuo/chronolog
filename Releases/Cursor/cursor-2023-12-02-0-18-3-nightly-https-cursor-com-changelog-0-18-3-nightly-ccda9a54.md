@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-12-02'
-machine_hash: ca61343b5024f9100a9a9ed35625f28466960dacf285161bae2751f539248d36
+machine_hash: a9449650b10c689b983a3f42517683aa6fca58439cb6fc8cf5fae17a2bae2bfd
 product: cursor
 product_name: Cursor
 record:
@@ -39,5 +39,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- editor-experience: [[Changes/Cursor/2023-12-02-running-cmd-enter-on-followups-should-result-in-much-better-codebase-results|Running Cmd+enter on followups should result in much better codebase results.]]
+- editor-experience: [[Changes/Cursor/2023-12-02-running-cmd-enter-on-followups-should-result-in-much-better-codebase-results|Running Cmd+enter on followups should result in much better codebase results]]
 <!-- chronolog:end -->

@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 907dce579cce2291861e207ae701f536379108a295d604eb420c40f536013beb
+machine_hash: 4214ff40300502b98099874335a33f92b9a79338596dec5376cd201a93bc5bce
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: 'Third-party plugins: An experimental model that knows when and how to
       use external plugins.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -47,7 +47,7 @@ record:
     theme: model-support
   theme_resolution: manual-semantic-rule-v1
   title: 'Third-party plugins: An experimental model that knows when and how to use
-    extern'
+    external plugins'
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-03-14-complex-instructions|chatgpt-2023-03-14-7438c4]]'
@@ -57,11 +57,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2023-03-23-introducing-plugins-in-ch
 source_type: chatgpt_changelog
 theme: model-support
 title: 'Third-party plugins: An experimental model that knows when and how to use
-  extern'
+  external plugins'
 type: change
 ---
 
-# Third-party plugins: An experimental model that knows when and how to use extern
+# Third-party plugins: An experimental model that knows when and how to use external plugins
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Introducing plugins in ChatGPT: Third-party plugins: An experimental model that knows when and how to use external plugins.

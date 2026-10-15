@@ -11,9 +11,9 @@ diffusion:
   theme: automation-scheduling
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: cec7be783b877eba25127bbff23b5eca7b9efd48849a6b16436f325a5e2fdfd9
+machine_hash: 1cdcf0e451db65df963d48c05342af2704f0c2880bb66edb13e742ea44ea10d0
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       slash commands and carries a new `invocation_trigger` attribute (`"user-slash"`,
       `"claude-proactive"`, or `"nested-skill"`)'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.126
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -41,7 +41,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: '`claude_code.skill_activated` OpenTelemetry event now fires for user-typed
-    slash'
+    slash…'
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-03-11-most-plugins-contain-mcps-that-cloud-agents-can-use-when-kicked-off-manually-or|cursor-2026-03-11-453ce9]]'
@@ -50,11 +50,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-01-v2-1-126-github-316244540-de18d9bb|claude-code-2026-05-01-v2-1-126-github-316244540-de18d9bb]]'
 source_type: github_releases
 theme: automation-scheduling
-title: claude_code.skill_activated OpenTelemetry event now fires for user-typed slash
+title: claude_code.skill_activated OpenTelemetry event now fires for user-typed slash…
 type: change
 ---
 
-# `claude_code.skill_activated` OpenTelemetry event now fires for user-typed slash
+# `claude_code.skill_activated` OpenTelemetry event now fires for user-typed slash…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.126: `claude_code.skill_activated` OpenTelemetry event now fires for user-typed slash commands and carries a new `invocation_trigger` attribute (`"user-slash"`, `"claude-proactive"`, or `"nested-skill"`)

@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: b198735345c9a736de1e20b1cbf629e2e20ccd42c5c3760d26a11ff87aa90bab
+machine_hash: f93d4431f66021f7605e8dab6034e78facd36a9cc0b4c51e10d368707fc24cfc
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
       instead of adding them to the queue. It will also break down larger tasks into
       smaller chunks for a fleet of async subagents to tackle simultaneously.
     source_release: https://cursor.com/changelog/04-24-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,8 +37,7 @@ record:
   source_release: cursor-2026-04-24-3-2-https-cursor-com-changelog-04-24-26-9ab6a4bf
   source_type: cursor_changelog
   theme: agent-mode
-  title: With /multitask, Cursor will run async subagents to parallelize your requests
-    in
+  title: With /multitask, Cursor will run async subagents to parallelize your requests…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-23-print-mode-now-honors-the-agent-s-tools-and-disallowedtools-frontmatter-matching|claude-code-2026-04-23-5a8186]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-04-24-3-2-https-cursor-com-changelog-04-24-26-9ab6a4bf|cursor-2026-04-24-3-2-https-cursor-com-changelog-04-24-26-9ab6a4bf]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: With /multitask, Cursor will run async subagents to parallelize your requests
-  in
+title: With /multitask, Cursor will run async subagents to parallelize your requests…
 type: change
 ---
 
-# With /multitask, Cursor will run async subagents to parallelize your requests in
+# With /multitask, Cursor will run async subagents to parallelize your requests…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Multitask, Worktrees, and Multi-root Workspaces: With /multitask, Cursor will run async subagents to parallelize your requests instead of adding them to the queue. It will also break down larger tasks into smaller chunks for a fleet of async subagents to tackle simultaneously.

@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: eaeee8ecc892fa7e4e777c71ce76b7d9fcc5726080d5919e9525c59d6abcd9f7
+machine_hash: e68beff4e20764f772abfc6bfa3dac2790cb32df95854b0000e4a812dd8b9ac0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,7 +46,7 @@ record:
       toggle; GPT-5.1 will also be available soon in the API as gpt-5.1-chat-latest
       (Instant) and gpt-5.1 (Thinking).
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -68,7 +68,7 @@ record:
     theme: enterprise-admin
   theme_resolution: manual-semantic-rule-v2
   title: We’re updating GPT-5 to GPT-5.1 Instant and GPT-5.1 Thinking, making answers
-    bot
+    both…
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-10-29-introducing-our-first-agentic-coding-model-composer-is-a-frontier-model-that-is|cursor-2025-10-29-6d4dc6]]'
@@ -78,11 +78,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2025-11-12-gpt-5-1-in-chatgpt-3b83bb
 source_type: chatgpt_changelog
 theme: model-support
 title: We’re updating GPT-5 to GPT-5.1 Instant and GPT-5.1 Thinking, making answers
-  bot
+  both…
 type: change
 ---
 
-# We’re updating GPT-5 to GPT-5.1 Instant and GPT-5.1 Thinking, making answers bot
+# We’re updating GPT-5 to GPT-5.1 Instant and GPT-5.1 Thinking, making answers both…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — GPT-5.1 in ChatGPT: We’re updating GPT-5 to GPT-5.1 Instant and GPT-5.1 Thinking, making answers both smarter and more conversational. GPT-5.1 Instant now uses light adaptive reasoning for tougher questions while staying fast, and GPT-5.1 Thinking adapts its thinking time more precisely for complex tasks with clearer, less jargony responses.GPT-5.1 Auto continues to route each query to the best model, and GPT-5 models remain available for three months under the Legacy models dropdown so you can compare and transition at your own pace.GPT-5.1 Instant and Thinking are rolling out first to paid (Pro, Plus, Go, Business) users, then to free and logged-out users, with Enterprise and Edu getting a temporary early-access toggle; GPT-5.1 will also be available soon in the API as gpt-5.1-chat-latest (Instant) and gpt-5.1 (Thinking).

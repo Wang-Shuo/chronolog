@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 97ff257e27e8b5e4bebf62a2e301f3ca6d4d7cf3e73902e65f0043574e4a1f2b
+machine_hash: 1e6d438e196e4398f6dc34794001296739765e6512c39df485a24ee397cdbdbf
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `--json` to `claude plugin validate` for a machine-readable validation
       report
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.259
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,7 +35,7 @@ record:
   source_type: github_releases
   theme: apps-integrations
   title: Added `--json` to `claude plugin validate` for a machine-readable validation
-    rep
+    report
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-21-cloud-sessions-plugins-synced-from-claude-ai-now-show-as-name-synced-work-with-c|claude-code-2026-08-21-9474d7]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-02-v2-1-259-github-381579834-0f335a0f|claude-code-2026-09-02-v2-1-259-github-381579834-0f335a0f]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added --json to claude plugin validate for a machine-readable validation rep
+title: Added --json to claude plugin validate for a machine-readable validation report
 type: change
 ---
 
-# Added `--json` to `claude plugin validate` for a machine-readable validation rep
+# Added `--json` to `claude plugin validate` for a machine-readable validation report
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.259: Added `--json` to `claude plugin validate` for a machine-readable validation report

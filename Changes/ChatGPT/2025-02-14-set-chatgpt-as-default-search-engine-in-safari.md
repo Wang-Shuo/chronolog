@@ -11,9 +11,9 @@ diffusion:
   theme: search-browsing
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8d969a4a9246b421fcb561067a22fb45d34605526a02c5b4c12cb0de5badc858
+machine_hash: e49dd67734a4dd4c05d6290892563db57a5899d00bbdb097f42eee3fa02aa4c4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Set ChatGPT as default search engine in Safari.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -35,7 +35,7 @@ record:
   theme: search-browsing
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Set ChatGPT as default search engine in Safari.
+  title: Set ChatGPT as default search engine in Safari
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-07-03-we-ve-learned-that-the-browsing-beta-can-occasionally-display-content-in-ways-we|chatgpt-2023-07-03-f27b70]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-02-14-set-chatgpt-as-default-search-engine-in-safari-11ec014b|chatgpt-2025-02-14-set-chatgpt-as-default-search-engine-in-safari-11ec014b]]'
 source_type: chatgpt_changelog
 theme: search-browsing
-title: Set ChatGPT as default search engine in Safari.
+title: Set ChatGPT as default search engine in Safari
 type: change
 ---
 
-# Set ChatGPT as default search engine in Safari.
+# Set ChatGPT as default search engine in Safari
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — - Set ChatGPT as default search engine in Safari.: Set ChatGPT as default search engine in Safari.

@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 11346a3f6852fdaf6121a0378cc82f64c44b6a63dae428d5cfe2d44b0fad1c5d
+machine_hash: 89f65dc63ea56972966d7cea3f03693a4b023cbee722677e5f231380484c303e
 product: cursor
 product_name: Cursor
 record:
@@ -30,7 +30,7 @@ record:
       model in the Settings page and use 10 fast requests per day for free (unlimited
       slow, but the delay increases exponentially).
     source_release: https://cursor.com/changelog/claude-support
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -41,7 +41,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: If you're a Pro or Business user, you can add "claude-3-opus" as a custom
-    model
+    model…
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-01-15-cursor-fast-is-a-newly-trained-model-between-gpt-3-5-and-gpt-4-coding-capabiliti|cursor-2024-01-15-7001fb]]'
@@ -50,11 +50,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-03-12-claude-support-https-cursor-com-changelog-claude-support-ed1eb90a|cursor-2024-03-12-claude-support-https-cursor-com-changelog-claude-support-ed1eb90a]]'
 source_type: cursor_changelog
 theme: model-support
-title: If you're a Pro or Business user, you can add "claude-3-opus" as a custom model
+title: If you're a Pro or Business user, you can add "claude-3-opus" as a custom model…
 type: change
 ---
 
-# If you're a Pro or Business user, you can add "claude-3-opus" as a custom model
+# If you're a Pro or Business user, you can add "claude-3-opus" as a custom model…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Claude Support: If you're a Pro or Business user, you can add "claude-3-opus" as a custom model in the Settings page and use 10 fast requests per day for free (unlimited slow, but the delay increases exponentially).

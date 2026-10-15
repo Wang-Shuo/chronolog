@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e99c2547d922b767586e7d1d458e215dfca2c5f40e1cd4e3d79c113657cff41d
+machine_hash: d20f3be0869ed926d64fe6201f44a1cf14e95d3f9eeff0e0f12f91e1d1abb2bd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,7 +41,7 @@ record:
       globally with OpenTable and in the US with Resy and in the US and Canada with
       Yelp. ChatGPT Work does not include restaurant reservation search.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -49,7 +49,7 @@ record:
   source_release: chatgpt-2026-08-10-restaurant-reservations-in-chatgpt-07c9e578
   source_type: chatgpt_changelog
   theme: mobile-desktop
-  title: ChatGPT can now help you find available restaurant reservations with OpenTable,
+  title: ChatGPT can now help you find available restaurant reservations with OpenTable…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-07-29-new-to-both-iphone-and-ipad-an-inbox-to-stay-organized-and-a-review-experience-t|cursor-2026-07-29-deb3b9]]'
@@ -58,11 +58,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-10-restaurant-reservations-in-chatgpt-07c9e578|chatgpt-2026-08-10-restaurant-reservations-in-chatgpt-07c9e578]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: ChatGPT can now help you find available restaurant reservations with OpenTable,
+title: ChatGPT can now help you find available restaurant reservations with OpenTable…
 type: change
 ---
 
-# ChatGPT can now help you find available restaurant reservations with OpenTable,
+# ChatGPT can now help you find available restaurant reservations with OpenTable…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Restaurant reservations in ChatGPT: ChatGPT can now help you find available restaurant reservations with OpenTable, Resy, and Yelp.Ask in the chat and include where and when you’d like to eat, your party size, and any preferences, such as cuisine, budget, dietary needs, or atmosphere. You’ll see available reservation times directly in the response. You can also ask follow-up questions to narrow your options or check a specific restaurant. When you find a time that works, select it to book it.Rolling out across all ChatGPT plans on mobile, web, and desktop. Reservations are available globally with OpenTable and in the US with Resy and in the US and Canada with Yelp. ChatGPT Work does not include restaurant reservation search.

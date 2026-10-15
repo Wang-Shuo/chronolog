@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8e6df33fa640642505d63a8ddb4765a65d1ceaa515ac16d4b50b9907ec4063be
+machine_hash: d3e149385a6aed4add291b3f7a09df4e2f4092d79ee3fec81052320023075006
 product: claude-code
 product_name: Claude Code
 record:
@@ -24,7 +24,7 @@ record:
   evidence:
   - quote: Improved ordering of short task lists
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.59
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

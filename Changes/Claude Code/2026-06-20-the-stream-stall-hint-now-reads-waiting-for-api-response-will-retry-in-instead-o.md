@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 68fe41e0932916dd46a8720af0a7639bd8fa5162cfc213b5cfb4af066a6d8c9d
+machine_hash: 8438fcb40439b99d83f9425debce88fe5e7347cfdcb15bcc84ee8a75a11fcda7
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       in …" instead of "No response from API · Retrying in …", and triggers after
       20s of silence instead of 10s
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.185
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -39,7 +39,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: The stream-stall hint now reads "Waiting for API response · will retry in
-    …" ins
+    …" instead…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-06-17-all-tasks-are-faster-and-more-reliable|chatgpt-2026-06-17-281370]]'
@@ -49,11 +49,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-06-20-v2-1-185-github-3
 source_type: github_releases
 theme: reliability-performance
 title: The stream-stall hint now reads "Waiting for API response · will retry in …"
-  ins
+  instead…
 type: change
 ---
 
-# The stream-stall hint now reads "Waiting for API response · will retry in …" ins
+# The stream-stall hint now reads "Waiting for API response · will retry in …" instead…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.185: The stream-stall hint now reads "Waiting for API response · will retry in …" instead of "No response from API · Retrying in …", and triggers after 20s of silence instead of 10s

@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2024-11-22'
-machine_hash: 659039a2105240bc8f7cdecf79327f6bae685ee8ac2d90f8145b393ef5b10547
+machine_hash: 493cbc07c8bb7cc7424e4ee9b5b35c3d6d239f254dcdc1851676f2eebd439f6e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 3
 <!-- chronolog:begin region="cards" -->
 - interface-experience: [[Changes/ChatGPT/2024-11-22-a-small-settings-icon-was-added-in-larger-viewports-when-the-sidebar-is-not-open|A small settings icon was added in larger viewports when the sidebar is not open]]
 - interface-experience: [[Changes/ChatGPT/2024-11-22-new-floating-mode-added-with-soft-dismiss-behavior|New floating mode added with soft dismiss behavior]]
-- interface-experience: [[Changes/ChatGPT/2024-11-22-recent-conversations-are-now-limited-in-the-sidebar-with-an-unlimited-infinite-s|Recent conversations are now limited in the sidebar, with an unlimited infinite]]
+- interface-experience: [[Changes/ChatGPT/2024-11-22-recent-conversations-are-now-limited-in-the-sidebar-with-an-unlimited-infinite-s|Recent conversations are now limited in the sidebar, with an unlimited infinite…]]
 <!-- chronolog:end -->

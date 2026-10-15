@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-01-20'
-machine_hash: e72f0adf37029128b5afb57a8b61b7901ec00aa4c2a9a75aa6974b11170ec9d1
+machine_hash: f7bbc7dc18f01c96560a97e6a148446557edea035f9dc4c06cb669e83086a8b0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2026-01-20-we-re-rolling-out-an-age-prediction-model-on-chatgpt-consumer-plans-to-help-dete|We're rolling out an age prediction model on ChatGPT consumer plans to help dete]]
+- model-support: [[Changes/ChatGPT/2026-01-20-we-re-rolling-out-an-age-prediction-model-on-chatgpt-consumer-plans-to-help-dete|ChatGPT rolls out an age prediction model on ChatGPT consumer plans to help…]]
 <!-- chronolog:end -->

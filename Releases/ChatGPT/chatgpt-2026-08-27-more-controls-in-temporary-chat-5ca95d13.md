@@ -1,7 +1,7 @@
 ---
 changes_count: 4
 date: '2026-08-27'
-machine_hash: 3319c42240c202d570c676bb5a515a65732d7d335db7e0308f3105f9153e7ac2
+machine_hash: 2b1291aabe25387a89d427d4aeadb77738e27c85de89a5f332bcca51ff9586a4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,8 +41,8 @@ Tracked cards: 4
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- memory: [[Changes/ChatGPT/2026-08-27-saving-a-temporary-chat-when-a-conversation-becomes-useful-for-the-future-you-ca|Saving a temporary chat: When a conversation becomes useful for the future, you]]
-- memory: [[Changes/ChatGPT/2026-08-27-non-personalized-by-default-temporary-chats-are-not-personalized-non-personalize|Non-personalized: By default, temporary chats are not personalized. Non-personal]]
-- memory: [[Changes/ChatGPT/2026-08-27-personalized-when-you-create-a-temporary-chat-you-can-choose-to-have-personalize|Personalized: When you create a temporary chat, you can choose to have personali]]
-- memory: [[Changes/ChatGPT/2026-08-27-we-re-rolling-out-new-controls-in-temporary-chat-you-can-now-choose-to-personali|We’re rolling out new controls in temporary chat. You can now choose to personal]]
+- memory: [[Changes/ChatGPT/2026-08-27-saving-a-temporary-chat-when-a-conversation-becomes-useful-for-the-future-you-ca|Saving a temporary chat]]
+- memory: [[Changes/ChatGPT/2026-08-27-non-personalized-by-default-temporary-chats-are-not-personalized-non-personalize|Non-personalized: By default, temporary chats are not personalized]]
+- memory: [[Changes/ChatGPT/2026-08-27-personalized-when-you-create-a-temporary-chat-you-can-choose-to-have-personalize|Personalized: When you create a temporary chat, you can choose to have personalized…]]
+- memory: [[Changes/ChatGPT/2026-08-27-we-re-rolling-out-new-controls-in-temporary-chat-you-can-now-choose-to-personali|ChatGPT rolls out new controls in temporary chat]]
 <!-- chronolog:end -->

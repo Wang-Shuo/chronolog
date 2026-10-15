@@ -11,9 +11,9 @@ diffusion:
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: cf4ea373357dff81fa9ecd6f5379ea88774a6ce51a0790313e689b8432be87f4
+machine_hash: 40d86fcb641cc527b09a090c2ce8ae0de15051a664ee053a9f27783c2cb1a72e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Library sharing lets you share files and folders in ChatGPT, choose who
       can access them, and work with shared content directly in your conversations.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -38,7 +38,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: Library sharing lets you share files and folders in ChatGPT, choose who can
-    acce
+    access…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-09-09-share-with-specific-people-invite-recipients-and-assign-viewer-or-editor-access|chatgpt-2026-09-09-698a48]]'
@@ -48,11 +48,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-09-09-share-files-and-folders-f
 source_type: chatgpt_changelog
 theme: collaboration
 title: Library sharing lets you share files and folders in ChatGPT, choose who can
-  acce
+  access…
 type: change
 ---
 
-# Library sharing lets you share files and folders in ChatGPT, choose who can acce
+# Library sharing lets you share files and folders in ChatGPT, choose who can access…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Share files and folders from your Library: Library sharing lets you share files and folders in ChatGPT, choose who can access them, and work with shared content directly in your conversations.

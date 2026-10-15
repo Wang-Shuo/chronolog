@@ -11,9 +11,9 @@ diffusion:
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7112795ea46b832b9b536c127fdf7e5f80bbbdab83fb24678dd4aa8f33c86950
+machine_hash: 13833bda5f6d69c5aca7b455fd87c18c57dbf445a7836e9d7277eea41e8178d5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Share a prompt. Share the prompt for a generated image so others can create
       their own version.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -37,8 +37,7 @@ record:
   theme: collaboration
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Share a prompt. Share the prompt for a generated image so others can create
-    thei
+  title: Share a prompt
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-08-20-share-a-read-only-snapshot-of-a-codex-chat-personal-share-links-can-be-opened-by|chatgpt-2026-08-20-eac99b]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-08-chatgpt-images-2-5-new-ways-to-create-and-edit-11ada24d|chatgpt-2026-09-08-chatgpt-images-2-5-new-ways-to-create-and-edit-11ada24d]]'
 source_type: chatgpt_changelog
 theme: collaboration
-title: Share a prompt. Share the prompt for a generated image so others can create
-  thei
+title: Share a prompt
 type: change
 ---
 
-# Share a prompt. Share the prompt for a generated image so others can create thei
+# Share a prompt
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT Images 2.5: new ways to create and edit: Share a prompt. Share the prompt for a generated image so others can create their own version.

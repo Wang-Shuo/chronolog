@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d2812851c3acd726ce0392b5303e2b0267370d93db16af0ca219a0c3a151d444
+machine_hash: 50b9dea365803bc465d2f4141cbd4324eac3f1bf85b890ad3cc2a27639004ddd
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: 'Copilot++ UX: Suggestion previews now have syntax highlighting, which
       we find makes it much easier to quickly understand the changes.'
     source_release: https://cursor.com/changelog/0-32-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -38,7 +38,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: 'Copilot++ UX: Suggestion previews now have syntax highlighting, which we
-    find ma'
+    find makes…'
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-02-09-ai-previews-this-is-an-experimental-new-code-reading-feature-after-enabling-in-t|cursor-2024-02-09-cad515]]'
@@ -48,11 +48,11 @@ source_release: '[[Releases/Cursor/cursor-2024-04-12-0-32-x-https-cursor-com-cha
 source_type: cursor_changelog
 theme: editor-experience
 title: 'Copilot++ UX: Suggestion previews now have syntax highlighting, which we find
-  ma'
+  makes…'
 type: change
 ---
 
-# Copilot++ UX: Suggestion previews now have syntax highlighting, which we find ma
+# Copilot++ UX: Suggestion previews now have syntax highlighting, which we find makes…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Improved Copilot++ UX, New GPT-4 Model: Copilot++ UX: Suggestion previews now have syntax highlighting, which we find makes it much easier to quickly understand the changes.

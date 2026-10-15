@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: eb5d4cd9eae8d19e1c43f7081911934db4253c44667159029205c528e5fb39e7
+machine_hash: d5c8fed8a6a2e6beae037169c3cf8a88f81f08e8d03249b7dfefedb552421080
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       automatically so the session stays usable; configure the threshold or disable
       with `CLAUDE_CODE_MCP_AUTO_BACKGROUND_MS`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.212
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,7 +36,7 @@ record:
   source_release: claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11
   source_type: github_releases
   theme: apps-integrations
-  title: MCP tool calls running longer than 2 minutes now move to the background automati
+  title: MCP tool calls running longer than 2 minutes now move to the background…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-07-09-we-re-also-replacing-the-app-directory-with-the-plugin-directory-existing-app-co|chatgpt-2026-07-09-9c5d58]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11|claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11]]'
 source_type: github_releases
 theme: apps-integrations
-title: MCP tool calls running longer than 2 minutes now move to the background automati
+title: MCP tool calls running longer than 2 minutes now move to the background…
 type: change
 ---
 
-# MCP tool calls running longer than 2 minutes now move to the background automati
+# MCP tool calls running longer than 2 minutes now move to the background…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.212: MCP tool calls running longer than 2 minutes now move to the background automatically so the session stays usable; configure the threshold or disable with `CLAUDE_CODE_MCP_AUTO_BACKGROUND_MS`

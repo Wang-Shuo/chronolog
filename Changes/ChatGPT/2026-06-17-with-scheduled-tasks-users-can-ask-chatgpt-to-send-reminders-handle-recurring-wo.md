@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3a3a8afcb19ba41493455dcb3c80d40946d9b516530d7a6cf2f264a3f775650b
+machine_hash: 3bffc5daba2af6843f15e3450a9fa1bdbdb488c9c2d7b9f68ecdad3933e3d5ec
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       work, or monitor things for them. This update makes tasks easier to find and
       manage, faster and more reliable, with more useful notifications.What’s changing
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -47,7 +47,7 @@ record:
     score: 50
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v1
-  title: With scheduled tasks, users can ask ChatGPT to send reminders, handle recurring
+  title: With scheduled tasks, users can ask ChatGPT to send reminders, handle recurring…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-06-10-the-average-review-time-for-bugbot-is-now-90-seconds-down-from-5-minutes-bugbot|cursor-2026-06-10-a23fef]]'
@@ -56,11 +56,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-17-scheduled-tasks-in-chatgpt-b8005b4a|chatgpt-2026-06-17-scheduled-tasks-in-chatgpt-b8005b4a]]'
 source_type: chatgpt_changelog
 theme: reliability-performance
-title: With scheduled tasks, users can ask ChatGPT to send reminders, handle recurring
+title: With scheduled tasks, users can ask ChatGPT to send reminders, handle recurring…
 type: change
 ---
 
-# With scheduled tasks, users can ask ChatGPT to send reminders, handle recurring
+# With scheduled tasks, users can ask ChatGPT to send reminders, handle recurring…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Scheduled tasks in ChatGPT: With scheduled tasks, users can ask ChatGPT to send reminders, handle recurring work, or monitor things for them. This update makes tasks easier to find and manage, faster and more reliable, with more useful notifications.What’s changing

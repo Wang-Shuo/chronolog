@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: cc352eb727569393f2b15d2dd42f44d705d6cb549594c0972b913bc00b283c22
+machine_hash: e5286a35cf2c72f66097dfef476d81060efbb088bdac485bb0d55179385304c3
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added Updates section to `/doctor` showing auto-update channel and available
       npm versions (stable/latest)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.6
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: Added Updates section to `/doctor` showing auto-update channel and available
-    npm
+    npm…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-09-added-release-channel-stable-or-latest-toggle-to-config|claude-code-2026-01-09-07766b]]'
@@ -47,11 +47,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-01-13-v2-1-6-github-276
 source_type: github_releases
 theme: interface-experience
 title: Added Updates section to /doctor showing auto-update channel and available
-  npm
+  npm…
 type: change
 ---
 
-# Added Updates section to `/doctor` showing auto-update channel and available npm
+# Added Updates section to `/doctor` showing auto-update channel and available npm…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.6: Added Updates section to `/doctor` showing auto-update channel and available npm versions (stable/latest)

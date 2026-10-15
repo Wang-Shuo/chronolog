@@ -11,9 +11,9 @@ diffusion:
   theme: projects-workspaces
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 4cca3dbcb203e5b6e95eabed628a5076a44b05ce7516ad1d8efccab2d2b4ff35
+machine_hash: 1aa816cd5134fe8ddb4fede7f1da84900ec9c1d7dc14ba69be3943fb3f501265
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: 'New experimental feature: Generate entire projects from a single prompt'
     source_release: https://cursor.com/changelog/0-2-6
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor

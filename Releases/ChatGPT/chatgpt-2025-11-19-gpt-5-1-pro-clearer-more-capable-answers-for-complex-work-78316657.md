@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-11-19'
-machine_hash: a2e27202d5adcf26ab6b0f48ef30de236f495c598886ef6e5789e27a0068d5f6
+machine_hash: c53ddf4ecf32b6dfcb6f8ebc6efaa33d3b6cb07094336557e12952d1a2c223ee
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2025-11-19-today-we-re-updating-gpt-5-pro-to-gpt-5-1-pro-in-early-testing-users-consistentl-191826|Today we’re updating GPT-5 Pro to GPT-5.1 Pro. In early testing, users consisten]]
+- model-support: [[Changes/ChatGPT/2025-11-19-today-we-re-updating-gpt-5-pro-to-gpt-5-1-pro-in-early-testing-users-consistentl-191826|Today we’re updating GPT-5 Pro to GPT-5.1 Pro]]
 <!-- chronolog:end -->

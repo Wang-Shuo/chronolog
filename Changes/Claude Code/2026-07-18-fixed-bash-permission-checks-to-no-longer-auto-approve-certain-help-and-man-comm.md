@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 64df3101c32edc98ec57455e6056aa963142f6edbe1cf52e30398c9ade9d7b99
+machine_hash: 9eb628c49489f08551a232c0a6eb52161cd957e15638acbe47c6aa9dd95d3ec5
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       `man` commands that could run unsafe options, command substitutions, or backslash
       paths
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.214
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -39,7 +39,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: Fixed Bash permission checks to no longer auto-approve certain `help` and
-    `man`
+    `man`…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-15-fixed-permission-previews-relayed-to-chat-channels-not-neutralizing-bidirectiona|claude-code-2026-07-15-ae07e9]]'
@@ -48,11 +48,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-18-v2-1-214-github-355973317-478680c5|claude-code-2026-07-18-v2-1-214-github-355973317-478680c5]]'
 source_type: github_releases
 theme: safety-privacy
-title: Fixed Bash permission checks to no longer auto-approve certain help and man
+title: Fixed Bash permission checks to no longer auto-approve certain help and man…
 type: change
 ---
 
-# Fixed Bash permission checks to no longer auto-approve certain `help` and `man`
+# Fixed Bash permission checks to no longer auto-approve certain `help` and `man`…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.214: Fixed Bash permission checks to no longer auto-approve certain `help` and `man` commands that could run unsafe options, command substitutions, or backslash paths

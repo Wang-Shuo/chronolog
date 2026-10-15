@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 33fdcefb1376caee4750436fec5bb5955c98b26259b084e696497966ec2bd3a3
+machine_hash: 361904df3147fec26d81dced34e3d34362391a7be866933bd201df43677cbf09
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       session with `-p --continue`/`--resume`, and plan mode not being re-applied
       after `ExitPlanMode` within the same session
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.132
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,8 +38,7 @@ record:
   theme: safety-privacy
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: Fixed `--permission-mode` flag being ignored when resuming a plan-mode session
-    w
+  title: Fixed `--permission-mode` flag being ignored when resuming a plan-mode session…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-04-30-customize-cursor-managed-security-agents-by-adjusting-triggers-adding-your-own-i|cursor-2026-04-30-bbeb40]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-06-v2-1-132-github-318578987-ed60d664|claude-code-2026-05-06-v2-1-132-github-318578987-ed60d664]]'
 source_type: github_releases
 theme: safety-privacy
-title: Fixed --permission-mode flag being ignored when resuming a plan-mode session
-  w
+title: Fixed --permission-mode flag being ignored when resuming a plan-mode session…
 type: change
 ---
 
-# Fixed `--permission-mode` flag being ignored when resuming a plan-mode session w
+# Fixed `--permission-mode` flag being ignored when resuming a plan-mode session…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.132: Fixed `--permission-mode` flag being ignored when resuming a plan-mode session with `-p --continue`/`--resume`, and plan mode not being re-applied after `ExitPlanMode` within the same session

@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4d20fc4e136e7ca5ebf5ad62968f57cb1f837b630da00dae8016feeb3f926498
+machine_hash: 350e98a6983df5e5e8d8a89701ff32bb7ab782dd2e55e94e44ae7e8fa44d7c24
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Plugin availability depends on your plan, region, and workspace settings.
       Desktop is not included in this update.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -45,8 +45,7 @@ record:
     score: 50
     theme: mobile-desktop
   theme_resolution: manual-semantic-rule-v1
-  title: Plugin availability depends on your plan, region, and workspace settings.
-    Deskto
+  title: Plugin availability depends on your plan, region, and workspace settings
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-20-a-catalog-entry-s-headershelper-runs-only-when-you-install-or-update-that-plugin|claude-code-2026-08-20-748bac]]'
@@ -55,11 +54,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-21-improved-plugin-discovery-on-web-and-mobile-4a2c9c9b|chatgpt-2026-08-21-improved-plugin-discovery-on-web-and-mobile-4a2c9c9b]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
-title: Plugin availability depends on your plan, region, and workspace settings. Deskto
+title: Plugin availability depends on your plan, region, and workspace settings
 type: change
 ---
 
-# Plugin availability depends on your plan, region, and workspace settings. Deskto
+# Plugin availability depends on your plan, region, and workspace settings
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Improved plugin discovery on web and mobile: Plugin availability depends on your plan, region, and workspace settings. Desktop is not included in this update.

@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: dbdd78ec83183069cec91118e37c2d6bdbc495236e8d05f16ebf0bc5142667bc
+machine_hash: ba57cbb1fedadd3be09a43158d9d20309b26e097f50be4043e749d3d5a94d518
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       but no `type`, suggesting `"type": "http"` instead of the misleading "command:
       expected string"'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.202
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   source_release: claude-code-2026-07-06-v2-1-202-github-349856235-58e6d3e8
   source_type: github_releases
   theme: apps-integrations
-  title: 'Improved MCP error messages: clearer error when a server config has `url`
-    but no'
+  title: Improved MCP error messages
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-01-claude-in-chrome-is-now-generally-available|claude-code-2026-07-01-67b585]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-06-v2-1-202-github-349856235-58e6d3e8|claude-code-2026-07-06-v2-1-202-github-349856235-58e6d3e8]]'
 source_type: github_releases
 theme: apps-integrations
-title: 'Improved MCP error messages: clearer error when a server config has url but
-  no'
+title: Improved MCP error messages
 type: change
 ---
 
-# Improved MCP error messages: clearer error when a server config has `url` but no
+# Improved MCP error messages
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.202: Improved MCP error messages: clearer error when a server config has `url` but no `type`, suggesting `"type": "http"` instead of the misleading "command: expected string"

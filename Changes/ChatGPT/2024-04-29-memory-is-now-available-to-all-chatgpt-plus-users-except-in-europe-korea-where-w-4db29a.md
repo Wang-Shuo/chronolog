@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: bfccd91afbd8316c708255726f37e3384e783635f88535cf7c8e931b714b84ec
+machine_hash: 7dba6526832516e81f33f756bd6c187dac597a4570713b0db55f92601332cf70
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
       chat and tell ChatGPT anything you’d like it to remember.Memory can be turned
       on or off in settings. Team, Enterprise, and GPTs to come.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -55,7 +55,7 @@ record:
     score: 50
     theme: enterprise-admin
   title: Memory is now available to all ChatGPT Plus users, except in Europe Korea
-    where
+    where we…
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-09-07-we-no-longer-store-any-full-files-in-memory-and-prevent-users-from-ing-very-larg|cursor-2023-09-07-17aeac]]'
@@ -65,10 +65,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2024-04-29-memory-is-now-available-t
 source_type: chatgpt_changelog
 theme: memory
 title: Memory is now available to all ChatGPT Plus users, except in Europe Korea where
+  we…
 type: change
 ---
 
-# Memory is now available to all ChatGPT Plus users, except in Europe Korea where
+# Memory is now available to all ChatGPT Plus users, except in Europe Korea where we…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Memory is now available to Plus users: Memory is now available to all ChatGPT Plus users, except in Europe Korea where we will be rolling it out soon. Using Memory is easy: just start a new chat and tell ChatGPT anything you’d like it to remember.Memory can be turned on or off in settings. Team, Enterprise, and GPTs to come.

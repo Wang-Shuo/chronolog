@@ -11,9 +11,9 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 827c7485d192a2a232cd95f8a3005bbc65e12ee398ce5928f9e74eaf43a05745
+machine_hash: 1313cf5728aa4701d4c31026a32009eaaf4b5bc8b978636407a66b21cd896a9f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,7 +47,7 @@ record:
       GPT-Live-1 does not support video or screen sharing at this time; eligible subscribers
       can continue using those capabilities with Advanced Voice Mode.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -94,8 +94,7 @@ record:
     - models
     score: 50
     theme: model-support
-  title: We’re rolling out a new ChatGPT Voice experience. ChatGPT Voice is now powered
-    b
+  title: ChatGPT rolls out a new ChatGPT Voice experience
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-06-26-we-re-rolling-out-a-new-speech-to-text-model-for-dictation-in-chatgpt-across-all|chatgpt-2026-06-26-0ad2eb]]'
@@ -104,12 +103,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-08-introducing-gpt-live-1-in-chatgpt-voice-9a0cfc91|chatgpt-2026-07-08-introducing-gpt-live-1-in-chatgpt-voice-9a0cfc91]]'
 source_type: chatgpt_changelog
 theme: voice
-title: We’re rolling out a new ChatGPT Voice experience. ChatGPT Voice is now powered
-  b
+title: ChatGPT rolls out a new ChatGPT Voice experience
 type: change
 ---
 
-# We’re rolling out a new ChatGPT Voice experience. ChatGPT Voice is now powered b
+# ChatGPT rolls out a new ChatGPT Voice experience
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Introducing GPT-Live-1 in ChatGPT Voice: We’re rolling out a new ChatGPT Voice experience. ChatGPT Voice is now powered by GPT-Live-1 for paid users and GPT-Live-1 mini for Free users. Both models can listen and speak at the same time, making turn-taking and interruptions feel more natural.GPT-Live-1 works inside a ChatGPT chat, with spoken responses appearing alongside streamed text. It can use web search and memory, show visual results through supported widgets, and work with text and images in the same conversation.GPT-Live-1 is rolling out across consumer plans, including Free, on chatgpt.com and the ChatGPT iOS and Android apps in supported regions. It is not available in ChatGPT Business, Enterprise, or Edu workspaces at launch. GPT-Live-1 does not support video or screen sharing at this time; eligible subscribers can continue using those capabilities with Advanced Voice Mode.

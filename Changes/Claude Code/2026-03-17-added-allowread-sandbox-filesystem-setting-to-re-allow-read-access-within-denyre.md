@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e61df02099714bc91533af51f3825496caa6164d158ad4451fd2aa51ec1473ef
+machine_hash: 56cc68b2da3983fdd2e61934387ab296a5b22c6da389fc5aace210a1ebd8f3cd
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `allowRead` sandbox filesystem setting to re-allow read access within
       `denyRead` regions
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.77
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   theme: safety-privacy
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: Added `allowRead` sandbox filesystem setting to re-allow read access within
-    `den
+  title: Added `allowRead` sandbox filesystem setting to re-allow read access within…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-07-fixed-false-positive-permission-prompts-for-compound-bash-commands-containing-he|claude-code-2026-03-07-85bd62]]'
@@ -46,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-17-v2-1-77-github-297726061-caf6c30c|claude-code-2026-03-17-v2-1-77-github-297726061-caf6c30c]]'
 source_type: github_releases
 theme: safety-privacy
-title: Added allowRead sandbox filesystem setting to re-allow read access within den
+title: Added allowRead sandbox filesystem setting to re-allow read access within…
 type: change
 ---
 
-# Added `allowRead` sandbox filesystem setting to re-allow read access within `den
+# Added `allowRead` sandbox filesystem setting to re-allow read access within…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.77: Added `allowRead` sandbox filesystem setting to re-allow read access within `denyRead` regions

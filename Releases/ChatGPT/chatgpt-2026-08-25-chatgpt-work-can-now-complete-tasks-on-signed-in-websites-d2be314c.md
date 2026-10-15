@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-08-25'
-machine_hash: a25445a6023e6aa192cb15784fc13c89a290949d42bb6a2e9cc0850edd2c819d
+machine_hash: 720b6dff44e91672b61ae80c62c39c0c90fa9d2f235fbb5bf3129cae2124375c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,5 +40,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- account-access: [[Changes/ChatGPT/2026-08-25-chatgpt-work-s-browser-on-web-and-mobile-can-also-help-you-get-tasks-done-on-som|ChatGPT Work’s browser on web and mobile can also help you get tasks done on som]]
+- account-access: [[Changes/ChatGPT/2026-08-25-chatgpt-work-s-browser-on-web-and-mobile-can-also-help-you-get-tasks-done-on-som|ChatGPT Work’s browser on web and mobile can also help you get tasks done on some…]]
 <!-- chronolog:end -->

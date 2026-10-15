@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 362796604a79057b733de9939a1ede42d6f4957ea05516a4d0746dcfbffc87cf
+machine_hash: 959c5b99e5ceac8c8800a80a87ffe7fa868366e206318695fd6baeaf6b984886
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: 'Dev containers are now supported! This build also:'
     source_release: https://cursor.com/changelog/0-22-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,7 +35,7 @@ record:
   theme: developer-workflow
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: 'Dev containers are now supported! This build also:'
+  title: Dev containers are now supported!
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-10-01-ask-about-git-commits-and-prs-using-git-in-chat|cursor-2023-10-01-3b67a3]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-01-06-0-22-0-https-cursor-com-changelog-0-22-0-04c2cd2c|cursor-2024-01-06-0-22-0-https-cursor-com-changelog-0-22-0-04c2cd2c]]'
 source_type: cursor_changelog
 theme: developer-workflow
-title: 'Dev containers are now supported! This build also:'
+title: Dev containers are now supported!
 type: change
 ---
 
-# Dev containers are now supported! This build also:
+# Dev containers are now supported!
 
 <!-- chronolog:begin region="description" -->
 Cursor — Dev Containers: Dev containers are now supported! This build also:

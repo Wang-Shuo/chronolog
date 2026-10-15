@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: e40d8c7be14d6ee2699f7d90d0f59941b807acf8d50f9d06d33f5c818e3956f0
+machine_hash: 9b4dfcf27c1b53d00df820a4c6ebcd66e6137e62c3b8459dd81d7da41dd92132
 product: claude-code
 product_name: Claude Code
 record:
@@ -31,7 +31,7 @@ record:
       `--plugin-dir`, `--permission-mode`, `--model`, `--effort`, and `--dangerously-skip-permissions`
       to configure dispatched background sessions'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.142
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -54,8 +54,7 @@ record:
     score: 50
     theme: model-support
   theme_resolution: manual-semantic-rule-v2
-  title: 'Added new `claude agents` flags: `--add-dir`, `--settings`, `--mcp-config`,
-    `--p'
+  title: Added new `claude agents` flags
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-07-added-sandbox-bwrappath-and-sandbox-socatpath-managed-settings-linux-wsl-to-spec|claude-code-2026-05-07-b75d47]]'
@@ -64,11 +63,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-14-v2-1-142-github-322792825-ffda4d4f|claude-code-2026-05-14-v2-1-142-github-322792825-ffda4d4f]]'
 source_type: github_releases
 theme: safety-privacy
-title: 'Added new claude agents flags: --add-dir, --settings, --mcp-config, --p'
+title: Added new claude agents flags
 type: change
 ---
 
-# Added new `claude agents` flags: `--add-dir`, `--settings`, `--mcp-config`, `--p
+# Added new `claude agents` flags
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.142: Added new `claude agents` flags: `--add-dir`, `--settings`, `--mcp-config`, `--plugin-dir`, `--permission-mode`, `--model`, `--effort`, and `--dangerously-skip-permissions` to configure dispatched background sessions

@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a867be57b9d6051180980f24cd23406e2d2fec5e10b209fd10b4f25842ff7a92
+machine_hash: 2a4195c2a4160d9357bdfb8cb02fbcc29481dc4484a13ec49cefb4bdb675b35d
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Added `settings.autoMode.hard_deny` for auto mode classifier rules that
       block unconditionally regardless of user intent or allow exceptions
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.136
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,8 +37,7 @@ record:
   theme: safety-privacy
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: Added `settings.autoMode.hard_deny` for auto mode classifier rules that block
-    un
+  title: Added `settings.autoMode.hard_deny` for auto mode classifier rules that block…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-05-07-over-the-coming-weeks-we-ll-be-rolling-out-trusted-contact-an-optional-safety-fe|chatgpt-2026-05-07-d104ca]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-08-v2-1-136-github-319609716-58f21368|claude-code-2026-05-08-v2-1-136-github-319609716-58f21368]]'
 source_type: github_releases
 theme: safety-privacy
-title: Added settings.autoMode.hard_deny for auto mode classifier rules that block
-  un
+title: Added settings.autoMode.hard_deny for auto mode classifier rules that block…
 type: change
 ---
 
-# Added `settings.autoMode.hard_deny` for auto mode classifier rules that block un
+# Added `settings.autoMode.hard_deny` for auto mode classifier rules that block…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.136: Added `settings.autoMode.hard_deny` for auto mode classifier rules that block unconditionally regardless of user intent or allow exceptions

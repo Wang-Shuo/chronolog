@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: f8d8a6b7586bcae8e63b038665e7fae821d416454730c1998c230966b545864e
+machine_hash: 54b6b4d9adc6aab305f1bbfe9c64456cfe3a60b23570acd7ef72f1a9e91d69e2
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       `x-claude-code-compaction` and `x-claude-code-context-compacted` request headers
       for LLM gateways; opt in with `CLAUDE_CODE_GATEWAY_HINT_HEADERS=1`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.273
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code
@@ -52,7 +52,7 @@ record:
     score: 50
     theme: model-support
   theme_resolution: manual-semantic-rule-v1
-  title: Added `x-claude-code-request-class`, `x-claude-code-agent-type`, `x-claude-code-
+  title: Added `x-claude-code-request-class`, `x-claude-code-agent-type`…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-11-improved-compaction-progress-the-retry-countdown-and-stall-hint-now-appear-durin|claude-code-2026-08-11-cbd6f1]]'
@@ -61,11 +61,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826|claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826]]'
 source_type: github_releases
 theme: context-window
-title: Added x-claude-code-request-class, x-claude-code-agent-type, x-claude-code-
+title: Added x-claude-code-request-class, x-claude-code-agent-type…
 type: change
 ---
 
-# Added `x-claude-code-request-class`, `x-claude-code-agent-type`, `x-claude-code-
+# Added `x-claude-code-request-class`, `x-claude-code-agent-type`…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.273: Added `x-claude-code-request-class`, `x-claude-code-agent-type`, `x-claude-code-prev-tool-durations`, `x-claude-code-compaction` and `x-claude-code-context-compacted` request headers for LLM gateways; opt in with `CLAUDE_CODE_GATEWAY_HINT_HEADERS=1`

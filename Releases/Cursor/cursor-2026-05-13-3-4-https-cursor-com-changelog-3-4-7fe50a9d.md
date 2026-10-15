@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2026-05-13'
-machine_hash: c242a7e3a4a26c57e35823d54b4f3495c0f5e2b8d25356a9ed947acc72f4b3a3
+machine_hash: 31d4ebac00fb2822c3fc09329ace01d054fc709743643011f2dff731ef3c7444
 product: cursor
 product_name: Cursor
 record:
@@ -39,9 +39,9 @@ Tracked cards: 5
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- context-window: [[Changes/Cursor/2026-05-13-compact-chats-give-you-a-tighter-view-of-your-agent-conversations-so-you-can-rea|Compact chats give you a tighter view of your agent conversations so you can rea]]
-- agent-mode: [[Changes/Cursor/2026-05-13-files-changes-canvases-prs-browsers-and-terminals-can-expand-to-fill-the-entire|Files, changes, canvases, PRs, browsers, and terminals can expand to fill the en]]
-- interface-experience: [[Changes/Cursor/2026-05-13-full-screen-maximizes-the-right-panel-so-you-can-focus-on-a-single-tab|Full screen maximizes the right panel so you can focus on a single tab.]]
-- agent-mode: [[Changes/Cursor/2026-05-13-this-release-introduces-quality-of-life-improvements-to-the-agents-window|This release introduces quality-of-life improvements to the Agents Window.]]
-- interface-experience: [[Changes/Cursor/2026-05-13-enter-and-exit-full-screen-by-clicking-on-the-expand-contract-button-in-the-pane|Enter and exit full screen by clicking on the expand/contract button in the pane]]
+- context-window: [[Changes/Cursor/2026-05-13-compact-chats-give-you-a-tighter-view-of-your-agent-conversations-so-you-can-rea|Compact chats give you a tighter view of your agent conversations so you can read…]]
+- agent-mode: [[Changes/Cursor/2026-05-13-files-changes-canvases-prs-browsers-and-terminals-can-expand-to-fill-the-entire|Files, changes, canvases, PRs, browsers, and terminals can expand to fill the entire…]]
+- interface-experience: [[Changes/Cursor/2026-05-13-full-screen-maximizes-the-right-panel-so-you-can-focus-on-a-single-tab|Full screen maximizes the right panel so you can focus on a single tab]]
+- agent-mode: [[Changes/Cursor/2026-05-13-this-release-introduces-quality-of-life-improvements-to-the-agents-window|Cursor introduces quality-of-life improvements to the Agents Window]]
+- interface-experience: [[Changes/Cursor/2026-05-13-enter-and-exit-full-screen-by-clicking-on-the-expand-contract-button-in-the-pane|Enter and exit full screen by clicking on the expand/contract button in the panel…]]
 <!-- chronolog:end -->

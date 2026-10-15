@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-11-05'
-machine_hash: e1c8e777626a4b0e278fa3d271f2f21ddb1895211c352fd393c58506f7cdae7b
+machine_hash: a4af906f8f9004a4932a5a222c80ace526a4d2e929458b0381d1500c020ce16c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2025-11-05-you-can-now-interrupt-long-running-queries-such-as-deep-research-or-gpt-5-pro-to|You can now interrupt long-running queries (such as deep research or GPT-5 Pro)]]
+- model-support: [[Changes/ChatGPT/2025-11-05-you-can-now-interrupt-long-running-queries-such-as-deep-research-or-gpt-5-pro-to|Interrupt long-running queries (such as deep research or GPT-5 Pro) to refine what…]]
 <!-- chronolog:end -->

@@ -11,9 +11,9 @@ diffusion:
   theme: image-generation
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 2f87cb73f896eb34fc796d24b4dbf8f66960df1ac5411390a93fee3b9cd5ef6b
+machine_hash: 1d29006e20e8d19e2bd50bd788011fd8ada23cabd8dd04a8b0f458a1d0b1c5d0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: 1⁠. Increased the default size for in‐line generated images.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -33,7 +33,7 @@ record:
   source_release: chatgpt-2025-03-18-android-app-c47c961b
   source_type: chatgpt_changelog
   theme: image-generation
-  title: 1⁠. Increased the default size for in‐line generated images.
+  title: Increased the default size for in‐line generated images
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|chatgpt-2024-01-10-71db32]]'
@@ -41,11 +41,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-03-18-android-app-c47c961b|chatgpt-2025-03-18-android-app-c47c961b]]'
 source_type: chatgpt_changelog
 theme: image-generation
-title: 1⁠. Increased the default size for in‐line generated images.
+title: Increased the default size for in‐line generated images
 type: change
 ---
 
-# 1⁠. Increased the default size for in‐line generated images.
+# Increased the default size for in‐line generated images
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Android App: 1⁠. Increased the default size for in‐line generated images.

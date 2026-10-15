@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9d4cf4f65c06537b79cfc9e630b3cae584f300670c7a2d4f05740c27e84e0836
+machine_hash: 4da29b6311713bb0dfcaa9a0d0ba6964fccb4f9b33a6756487dddc9b344c8950
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Fast mode now uses Opus 4.7 by default (previously Opus 4.6). Set `CLAUDE_CODE_OPUS_4_6_FAST_MODE_OVERRIDE=1`
       to pin fast mode to Opus 4.6
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.142
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme: model-support
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: Fast mode now uses Opus 4.7 by default (previously Opus 4.6). Set `CLAUDE_CODE_O
+  title: Fast mode now uses Opus 4.7 by default (previously Opus 4.6)
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-06-gateway-v1-models-discovery-for-the-model-picker-is-now-opt-in-via-claude-code-e|claude-code-2026-05-06-5398e4]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-14-v2-1-142-github-322792825-ffda4d4f|claude-code-2026-05-14-v2-1-142-github-322792825-ffda4d4f]]'
 source_type: github_releases
 theme: model-support
-title: Fast mode now uses Opus 4.7 by default (previously Opus 4.6). Set CLAUDE_CODE_O
+title: Fast mode now uses Opus 4.7 by default (previously Opus 4.6)
 type: change
 ---
 
-# Fast mode now uses Opus 4.7 by default (previously Opus 4.6). Set `CLAUDE_CODE_O
+# Fast mode now uses Opus 4.7 by default (previously Opus 4.6)
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.142: Fast mode now uses Opus 4.7 by default (previously Opus 4.6). Set `CLAUDE_CODE_OPUS_4_6_FAST_MODE_OVERRIDE=1` to pin fast mode to Opus 4.6

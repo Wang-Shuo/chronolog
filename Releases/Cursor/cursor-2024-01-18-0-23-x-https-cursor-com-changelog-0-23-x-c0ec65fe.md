@@ -1,7 +1,7 @@
 ---
 changes_count: 4
 date: '2024-01-18'
-machine_hash: 1a8fc022572a16b61210d69532235e55268291c60aac38cd0ab489facfc07708
+machine_hash: 62c997e0d85237f511ea87965d278af406b5fe2e1a1e22105c21086a83c0791b
 product: cursor
 product_name: Cursor
 record:
@@ -39,8 +39,8 @@ Tracked cards: 4
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/Cursor/2024-01-18-cursor-fast-this-is-a-new-model-available-in-command-k-and-chat-expect-it-to-be|"cursor-fast": This is a new model available in command-k and chat. Expect it to]]
-- editor-experience: [[Changes/Cursor/2024-01-18-more-chat-symbol-links-when-the-chat-references-a-code-symbol-you-ll-often-be-ab|More chat symbol links: When the chat references a code symbol, you'll often be]]
-- editor-experience: [[Changes/Cursor/2024-01-18-apply-button-we-ve-added-some-polish-to-the-apply-codeblock-experience-in-chat|Apply button: We've added some polish to the "apply codeblock" experience in cha]]
-- editor-experience: [[Changes/Cursor/2024-01-18-chat-lints-if-the-ai-suggests-a-code-change-in-chat-that-involves-a-made-up-code|Chat lints: If the AI suggests a code change in chat that involves a made up cod]]
+- model-support: [[Changes/Cursor/2024-01-18-cursor-fast-this-is-a-new-model-available-in-command-k-and-chat-expect-it-to-be|"cursor-fast": This is a new model available in command-k and chat]]
+- editor-experience: [[Changes/Cursor/2024-01-18-more-chat-symbol-links-when-the-chat-references-a-code-symbol-you-ll-often-be-ab|More chat symbol links]]
+- editor-experience: [[Changes/Cursor/2024-01-18-apply-button-we-ve-added-some-polish-to-the-apply-codeblock-experience-in-chat|Apply button: We've added some polish to the "apply codeblock" experience in chat]]
+- editor-experience: [[Changes/Cursor/2024-01-18-chat-lints-if-the-ai-suggests-a-code-change-in-chat-that-involves-a-made-up-code|Chat lints: If the AI suggests a code change in chat that involves a made up code…]]
 <!-- chronolog:end -->

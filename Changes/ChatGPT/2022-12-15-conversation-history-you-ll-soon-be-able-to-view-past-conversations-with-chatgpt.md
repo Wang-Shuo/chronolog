@@ -11,9 +11,9 @@ diffusion:
   theme: projects-workspaces
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ae364934b0d1b91a5af893bd24f3bb83e9d529908b202f7de3a824dea41a19b9
+machine_hash: 2ec7d77a620b807ed6276ae6b067acbf4a4eacbd2ced3f44018ca128433f0aa0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       ChatGPT, rename your saved conversations and delete the ones you don’t want
       to keep. We are gradually rolling out this feature.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -40,17 +40,17 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: 'Conversation history: You’ll soon be able to view past conversations with
-    ChatGP'
+    ChatGPT…'
   type: change
 source_release: '[[Releases/ChatGPT/chatgpt-2022-12-15-performance-updates-to-chatgpt-d9abf59d|chatgpt-2022-12-15-performance-updates-to-chatgpt-d9abf59d]]'
 source_type: chatgpt_changelog
 theme: projects-workspaces
 title: 'Conversation history: You’ll soon be able to view past conversations with
-  ChatGP'
+  ChatGPT…'
 type: change
 ---
 
-# Conversation history: You’ll soon be able to view past conversations with ChatGP
+# Conversation history: You’ll soon be able to view past conversations with ChatGPT…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Performance updates to ChatGPT: Conversation history: You’ll soon be able to view past conversations with ChatGPT, rename your saved conversations and delete the ones you don’t want to keep. We are gradually rolling out this feature.

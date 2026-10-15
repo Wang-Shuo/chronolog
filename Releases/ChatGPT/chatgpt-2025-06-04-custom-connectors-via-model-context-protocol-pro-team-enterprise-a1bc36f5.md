@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2025-06-04'
-machine_hash: 1660a81ad50afcdc7134335f4b9086e63889aa65595f0d45d275355accade215
+machine_hash: 9da3d958cf7b6933356d323f0fee19c1328c086027709d7c174cb3b4eb2d6819
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 2
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
 - apps-integrations: [[Changes/ChatGPT/2025-06-04-admin-published-connectors-appear-in-the-connector-list-for-all-users|Admin-published connectors appear in the connector list for all users]]
-- apps-integrations: [[Changes/ChatGPT/2025-06-04-admins-and-users-can-now-build-and-deploy-custom-connectors-to-proprietary-syste|Admins and users can now build and deploy custom connectors to proprietary syste]]
+- apps-integrations: [[Changes/ChatGPT/2025-06-04-admins-and-users-can-now-build-and-deploy-custom-connectors-to-proprietary-syste|Admins and users can now build and deploy custom connectors to proprietary systems…]]
 <!-- chronolog:end -->

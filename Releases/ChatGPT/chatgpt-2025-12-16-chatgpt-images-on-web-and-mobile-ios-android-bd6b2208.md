@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-12-16'
-machine_hash: 7223330d8e4409510b4c979ba57fa2ab375142609161f87f4bc8d815ae1e43a3
+machine_hash: 8ad5f6ed413d7d703193ed0556fdea26926f46237726852a43a2515e769b7110
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- image-generation: [[Changes/ChatGPT/2025-12-16-we-ve-introduced-a-new-and-improved-version-of-chatgpt-images-powered-by-our-bes-a63d5c|We’ve introduced a new and improved version of ChatGPT Images, powered by our be]]
+- image-generation: [[Changes/ChatGPT/2025-12-16-we-ve-introduced-a-new-and-improved-version-of-chatgpt-images-powered-by-our-bes-a63d5c|We’ve introduced a new and improved version of ChatGPT Images, powered by our best…]]
 <!-- chronolog:end -->

@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-03-03'
-machine_hash: ea2518a8d9fd141c29cba3aa0cbc317663eb12803899391c5edd8bc65ef5f7d5
+machine_hash: eb995364a30540dbc3e278dc4d9a670668828ca87243f99778c2e4aca13ec85b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2026-03-03-gpt-5-3-instant-delivers-more-accurate-answers-richer-and-better-contextualized|GPT‑5.3 Instant delivers more accurate answers, richer and better-contextualized]]
+- model-support: [[Changes/ChatGPT/2026-03-03-gpt-5-3-instant-delivers-more-accurate-answers-richer-and-better-contextualized|GPT‑5.3 Instant delivers more accurate answers, richer and better-contextualized…]]
 <!-- chronolog:end -->

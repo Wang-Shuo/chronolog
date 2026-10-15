@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-07-25'
-machine_hash: 3c96d964d47cd165eedfb1104df740215c3232d8e2d2eb0acce874cb46018f85
+machine_hash: 8a3c6bb9dabf9a920fb0c77045626deac7a55882afb96012e5b536a9e1208818
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- mobile-desktop: [[Changes/ChatGPT/2023-07-25-chatgpt-for-android-is-now-available-for-download-in-the-united-states-india-ban-6b21e9|ChatGPT for Android is now available for download in the United States, India, B]]
+- mobile-desktop: [[Changes/ChatGPT/2023-07-25-chatgpt-for-android-is-now-available-for-download-in-the-united-states-india-ban-6b21e9|ChatGPT for Android is now available for download in the United States, India…]]
 <!-- chronolog:end -->

@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: bc2c069c86eeb56613159ef0d1905351eb458b023f8091350854bbfd3b6ffac0
+machine_hash: 51392a1fbf936e5c92c398526f88f2539524c7e114a2f22cab15b38fadd20c22
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: Early support for slash commands
     source_release: https://cursor.com/changelog/0-2-36
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor

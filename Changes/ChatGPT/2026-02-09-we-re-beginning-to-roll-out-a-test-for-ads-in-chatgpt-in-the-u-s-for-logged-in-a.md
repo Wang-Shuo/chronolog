@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: cf36d3f4dcc3b45f417caaebf63dc77ed628a3e6afda2259fe08a6199dbd82a2
+machine_hash: 90325a527062ddb73b1436b2b3c59dd4db552f68906e29ead2cd6824caf8b1f3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -57,7 +57,7 @@ record:
       or regulated topics, including health, mental health, or politics, and are not
       shown to users who tell us or we predict are under 18.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -79,7 +79,7 @@ record:
     - performance
     score: 50
     theme: reliability-performance
-  title: We’re beginning to roll out a test for ads in ChatGPT in the U.S. for logged-in
+  title: We’re beginning to roll out a test for ads in ChatGPT in the U.S. for logged-in…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-01-15-when-reference-chat-history-is-enabled-chatgpt-can-now-more-reliably-find-specif|chatgpt-2026-01-15-a3ac65]]'
@@ -88,11 +88,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-09-testing-ads-in-chatgpt-free-go-df231623|chatgpt-2026-02-09-testing-ads-in-chatgpt-free-go-df231623]]'
 source_type: chatgpt_changelog
 theme: memory
-title: We’re beginning to roll out a test for ads in ChatGPT in the U.S. for logged-in
+title: We’re beginning to roll out a test for ads in ChatGPT in the U.S. for logged-in…
 type: change
 ---
 
-# We’re beginning to roll out a test for ads in ChatGPT in the U.S. for logged-in
+# We’re beginning to roll out a test for ads in ChatGPT in the U.S. for logged-in…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Testing ads in ChatGPT (Free, Go): We’re beginning to roll out a test for ads in ChatGPT in the U.S. for logged-in adults on the Free and Go tiers. Plus, Pro, Business, Enterprise, and Education plans do not have ads. The test will be a subset of users to start. We will expand over the coming weeks as we learn from this test.ChatGPT’s answers are generated independently from advertising. Answers are optimized based on what’s most helpful to you. When you see an ad, they are always clearly labeled as sponsored and visually separated from the organic answer.Ads are shown using information that stays within ChatGPT and is not shared with advertisers. This includes what you’re discussing, how you interact with ads (such as ads you hide or engage with), and your past chats and memories, if you have ads personalization enabled. You’re in control of this experience: you can dismiss ads, share feedback, learn how and why you’re being shown an ad, delete your ad data with one tap, and manage ad personalization at any time.Advertisers never see your chats or personal details and receive only aggregated performance information, like impressions and clicks. During the test, ads do not appear in chats about sensitive topics or regulated topics, including health, mental health, or politics, and are not shown to users who tell us or we predict are under 18.

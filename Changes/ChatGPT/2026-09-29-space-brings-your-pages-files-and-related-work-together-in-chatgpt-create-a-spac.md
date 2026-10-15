@@ -11,9 +11,9 @@ diffusion:
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: bce6c8dd1c807eba0bcd3222b83e5acf01ccdf1c8397f38559aa039d120b2ac8
+machine_hash: 5e618f8408c853dc1f521ef51fabbbdc80059cff9d2d6142e73f5769142c3baf
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       so you can keep building on the same work. Space replaces Library for accounts
       with access; your existing Projects remain separate.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -41,8 +41,7 @@ record:
   theme: collaboration
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Space brings your Pages, files, and related work together in ChatGPT. Create
-    a s
+  title: Space brings your Pages, files, and related work together in ChatGPT
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-09-09-library-sharing-lets-you-share-files-and-folders-in-chatgpt-choose-who-can-acces|chatgpt-2026-09-09-e54084]]'
@@ -51,12 +50,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-organize-your-work-in-chatgpt-space-234deac3|chatgpt-2026-09-29-organize-your-work-in-chatgpt-space-234deac3]]'
 source_type: chatgpt_changelog
 theme: collaboration
-title: Space brings your Pages, files, and related work together in ChatGPT. Create
-  a s
+title: Space brings your Pages, files, and related work together in ChatGPT
 type: change
 ---
 
-# Space brings your Pages, files, and related work together in ChatGPT. Create a s
+# Space brings your Pages, files, and related work together in ChatGPT
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Organize your work in ChatGPT Space: Space brings your Pages, files, and related work together in ChatGPT. Create a space for a project, add the material you need, and share it with other people so you can keep building on the same work. Space replaces Library for accounts with access; your existing Projects remain separate.

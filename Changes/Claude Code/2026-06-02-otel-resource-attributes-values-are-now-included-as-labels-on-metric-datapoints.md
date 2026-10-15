@@ -11,9 +11,9 @@ diffusion:
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d434b86152d03381fbab1f19e0331f2691efac18a2c75b8bb68d3fb015d1bd93
+machine_hash: fb2961cea11b5987167fda2a30db11d68f3bf6272d7910891a697a1bef9d51dd
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       datapoints, so you can slice usage metrics by custom dimensions like team or
       repo'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.161
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,7 +36,7 @@ record:
   source_release: claude-code-2026-06-02-v2-1-161-github-333271302-7337e6fa
   source_type: github_releases
   theme: collaboration
-  title: '`OTEL_RESOURCE_ATTRIBUTES` values are now included as labels on metric datapoint'
+  title: '`OTEL_RESOURCE_ATTRIBUTES` values are now included as labels on metric datapoints…'
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-04-customers-with-existing-blocklists-will-need-to-migrate-to-the-new-system-by-jun|cursor-2026-05-04-af4668]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-02-v2-1-161-github-333271302-7337e6fa|claude-code-2026-06-02-v2-1-161-github-333271302-7337e6fa]]'
 source_type: github_releases
 theme: collaboration
-title: OTEL_RESOURCE_ATTRIBUTES values are now included as labels on metric datapoint
+title: OTEL_RESOURCE_ATTRIBUTES values are now included as labels on metric datapoints…
 type: change
 ---
 
-# `OTEL_RESOURCE_ATTRIBUTES` values are now included as labels on metric datapoint
+# `OTEL_RESOURCE_ATTRIBUTES` values are now included as labels on metric datapoints…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.161: `OTEL_RESOURCE_ATTRIBUTES` values are now included as labels on metric datapoints, so you can slice usage metrics by custom dimensions like team or repo

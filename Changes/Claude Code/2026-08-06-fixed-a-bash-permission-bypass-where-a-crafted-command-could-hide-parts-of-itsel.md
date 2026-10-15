@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4fe8cb064ffa3221306eebadeddb2d26463d189533d93bf6c5923c4932636c20
+machine_hash: cc457285f2687689a0ba6f6eadbe80b8dcb7ed9be141441a3d668420293072c9
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Fixed a Bash permission bypass where a crafted command could hide parts
       of itself from permission checks
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.223
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: Fixed a Bash permission bypass where a crafted command could hide parts of
-    itsel
+    itself…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-04-added-mode-mask-for-sandbox-credential-files-on-linux-and-wsl-sandboxed-commands|claude-code-2026-08-04-02f51c]]'
@@ -47,11 +47,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-08-06-v2-1-223-github-3
 source_type: github_releases
 theme: safety-privacy
 title: Fixed a Bash permission bypass where a crafted command could hide parts of
-  itsel
+  itself…
 type: change
 ---
 
-# Fixed a Bash permission bypass where a crafted command could hide parts of itsel
+# Fixed a Bash permission bypass where a crafted command could hide parts of itself…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.223: Fixed a Bash permission bypass where a crafted command could hide parts of itself from permission checks

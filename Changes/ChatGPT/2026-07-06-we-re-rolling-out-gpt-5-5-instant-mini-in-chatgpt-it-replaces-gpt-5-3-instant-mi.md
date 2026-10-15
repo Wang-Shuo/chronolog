@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: b4822b072d4a5f17820416b674ee9b2aefb4017a57c94280d3b761d9da4aaa8f
+machine_hash: 5f2735a466f2fc59314bc9e7cfdfe6dc0e7ceee2eed0ea6007b8bff3f9f87683
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,7 +39,7 @@ record:
       tone, and avoids repetitive or overly structured responses. Testing also showed
       stronger personalization and fewer factual issues.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -62,8 +62,7 @@ record:
     score: 50
     theme: memory
   theme_resolution: manual-semantic-rule-v2
-  title: We’re rolling out GPT-5.5 Instant Mini in ChatGPT. It replaces GPT-5.3 Instant
-    M
+  title: ChatGPT rolls out GPT-5.5 Instant Mini
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-30-introducing-claude-sonnet-5-now-the-default-model-in-claude-code-with-a-native-1|claude-code-2026-06-30-c16f43]]'
@@ -72,12 +71,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-06-gpt-5-5-instant-mini-in-chatgpt-1ce53754|chatgpt-2026-07-06-gpt-5-5-instant-mini-in-chatgpt-1ce53754]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: We’re rolling out GPT-5.5 Instant Mini in ChatGPT. It replaces GPT-5.3 Instant
-  M
+title: ChatGPT rolls out GPT-5.5 Instant Mini
 type: change
 ---
 
-# We’re rolling out GPT-5.5 Instant Mini in ChatGPT. It replaces GPT-5.3 Instant M
+# ChatGPT rolls out GPT-5.5 Instant Mini
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — GPT-5.5 Instant Mini in ChatGPT: We’re rolling out GPT-5.5 Instant Mini in ChatGPT. It replaces GPT-5.3 Instant Mini as the fallback model users reach after hitting their GPT-5.5 Instant or Auto rate limits. Because it serves as a fallback, it won’t appear in the model picker. This update does not affect the API or Codex.Compared with GPT-5.3 Instant Mini, GPT-5.5 Instant Mini better tracks evolving user intent, calibrates tone, and avoids repetitive or overly structured responses. Testing also showed stronger personalization and fewer factual issues.

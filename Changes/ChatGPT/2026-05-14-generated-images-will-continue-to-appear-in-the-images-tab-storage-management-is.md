@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f319ce19d89f341cb67099004e6c69d6f9231446c019274cc858289055da0111
+machine_hash: 5ca61bfc5126112fc0633403805f1f6406349c19505af7bb0da96564c9dec46c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,7 +35,7 @@ record:
       and ‘Recent files’ in the composer are supported on web, iOS, and Android. Learn
       more about File storage and Library in ChatGPT.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -57,8 +57,7 @@ record:
     - tab
     score: 50
     theme: editor-experience
-  title: Generated images will continue to appear in the Images tab.Storage management
-    is
+  title: Generated images will continue to appear in the Images tab
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-09-vscode-fixed-extension-failing-to-activate-on-windows|claude-code-2026-05-09-519945]]'
@@ -67,12 +66,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-05-14-file-library-expands-to-free-and-go-users-with-storage-managemen-94a98ddb|chatgpt-2026-05-14-file-library-expands-to-free-and-go-users-with-storage-managemen-94a98ddb]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: Generated images will continue to appear in the Images tab.Storage management
-  is
+title: Generated images will continue to appear in the Images tab
 type: change
 ---
 
-# Generated images will continue to appear in the Images tab. Storage management i
+# Generated images will continue to appear in the Images tab
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — File library expands to Free and Go users, with storage management: Generated images will continue to appear in the Images tab.Storage management is currently available on web and you can access it from Settings > Storage; you can also delete files directly from Library.Files remain in your Library until you delete them. Files uploaded in Temporary Chat aren’t saved to Library.Library and ‘Recent files’ in the composer are supported on web, iOS, and Android. Learn more about File storage and Library in ChatGPT.

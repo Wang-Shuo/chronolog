@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2024-01-03'
-machine_hash: de25591966b492a52e0a46aaeda3fb4fabaf7394582a7bfeccbc0852453d63e8
+machine_hash: b93848909dd28f1d40641c2c921fc753295e6549451c18693bd3cc305eb091d8
 product: cursor
 product_name: Cursor
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- editor-experience: [[Changes/Cursor/2024-01-03-hold-down-command-press-and-release-shift-and-continue-holding-down-command-this|Hold down command, press and release shift, and continue holding down command. T]]
+- editor-experience: [[Changes/Cursor/2024-01-03-hold-down-command-press-and-release-shift-and-continue-holding-down-command-this|Hold down command, press and release shift, and continue holding down command]]
 <!-- chronolog:end -->

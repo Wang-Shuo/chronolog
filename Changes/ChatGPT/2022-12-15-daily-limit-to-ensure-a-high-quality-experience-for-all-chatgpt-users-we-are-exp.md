@@ -11,9 +11,9 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: cb39a5c90d541543d3dec3434b1aa5e6d8d8c2f7ebd699757da85e0800c50fe7
+machine_hash: 91f3e6b1a1d41693bb9fa78f5f3d1e8264a955d4258c8cfbb844b268d82a1895
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       you’ll be presented with an option to extend your access by providing feedback
       to ChatGPT.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -41,17 +41,16 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: 'Daily limit: To ensure a high-quality experience for all ChatGPT users,
-    we are e'
+    we…'
   type: change
 source_release: '[[Releases/ChatGPT/chatgpt-2022-12-15-performance-updates-to-chatgpt-d9abf59d|chatgpt-2022-12-15-performance-updates-to-chatgpt-d9abf59d]]'
 source_type: chatgpt_changelog
 theme: pricing-model
-title: 'Daily limit: To ensure a high-quality experience for all ChatGPT users, we
-  are e'
+title: 'Daily limit: To ensure a high-quality experience for all ChatGPT users, we…'
 type: change
 ---
 
-# Daily limit: To ensure a high-quality experience for all ChatGPT users, we are e
+# Daily limit: To ensure a high-quality experience for all ChatGPT users, we…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Performance updates to ChatGPT: Daily limit: To ensure a high-quality experience for all ChatGPT users, we are experimenting with a daily message cap. If you’re included in this group, you’ll be presented with an option to extend your access by providing feedback to ChatGPT.

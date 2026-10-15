@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0c976bfdd196654589e129c82ae724e5ae1200f32395ca36f9c1f781ed6876ca
+machine_hash: 867bdc215b3e7a113d600fad398685e855cc913e5e07628a7a5913e009e15c2c
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Improved prompting for edits and generates
     source_release: https://cursor.com/changelog/0-2-9
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

@@ -11,9 +11,9 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 96fb76c622f496a98b0ff91107e5f2d7f31152850ea3ac09904ce5c57b093580
+machine_hash: 7a45c4387136a94e5ac42cd039d75b1d08282a074bdbf4e61c7dc7b4d7b9ff25
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Dictation through voice input is more reliable and accurate. It records
       your full voice clip and transcribes it with batch STT for higher-quality speech-to-text.
     source_release: https://cursor.com/changelog/3-1
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,8 +35,7 @@ record:
   source_release: cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313
   source_type: cursor_changelog
   theme: voice
-  title: Dictation through voice input is more reliable and accurate. It records your
-    ful
+  title: Dictation through voice input is more reliable and accurate
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-02-12-we-re-making-an-update-to-chatgpt-voice-that-improves-its-ability-to-follow-user|chatgpt-2026-02-12-bf1ae0]]'
@@ -45,12 +44,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313|cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313]]'
 source_type: cursor_changelog
 theme: voice
-title: Dictation through voice input is more reliable and accurate. It records your
-  ful
+title: Dictation through voice input is more reliable and accurate
 type: change
 ---
 
-# Dictation through voice input is more reliable and accurate. It records your ful
+# Dictation through voice input is more reliable and accurate
 
 <!-- chronolog:begin region="description" -->
 Cursor — Tiled Layout and Upgraded Voice Input in the Agents Window: Dictation through voice input is more reliable and accurate. It records your full voice clip and transcribes it with batch STT for higher-quality speech-to-text.

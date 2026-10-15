@@ -11,9 +11,9 @@ diffusion:
   theme: artifact-creation
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 778089919edcd302bb73d932edabbe9c6b86fb54c9d7ffa51791384713344d5f
+machine_hash: 57bc929aef477fa60334de4f32fe643caf9db354afdfd44cd180a85ff1fead1e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       trackers, launch calendars, prototypes, internal portals, and reports, then
       preview and refine the result with ChatGPT before sharing it.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -49,18 +49,16 @@ record:
     score: 50
     theme: collaboration
   theme_resolution: manual-backfill-review-v1
-  title: ChatGPT Sites lets you turn your work or ideas into an interactive website
-    or li
+  title: ChatGPT Sites lets you turn your work or ideas into an interactive website…
   type: change
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-sites-in-public-beta-4d20edcd|chatgpt-2026-07-09-introducing-chatgpt-sites-in-public-beta-4d20edcd]]'
 source_type: chatgpt_changelog
 theme: artifact-creation
-title: ChatGPT Sites lets you turn your work or ideas into an interactive website
-  or li
+title: ChatGPT Sites lets you turn your work or ideas into an interactive website…
 type: change
 ---
 
-# ChatGPT Sites lets you turn your work or ideas into an interactive website or li
+# ChatGPT Sites lets you turn your work or ideas into an interactive website…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Introducing ChatGPT Sites in public beta: ChatGPT Sites lets you turn your work or ideas into an interactive website or lightweight app without leaving ChatGPT. You can create dashboards, project trackers, launch calendars, prototypes, internal portals, and reports, then preview and refine the result with ChatGPT before sharing it.

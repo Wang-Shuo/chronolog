@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 47b4fae913670e09f6b3fe968a67068d60b66b598cd74aeaa4f3e1d0b7cc131f
+machine_hash: a42e409fac211c7a84b5b6e6be830b42ada3edfbb3d7a307eaaa916db03c038d
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       zero-width, and look-alike quote characters, so tool inputs cannot visually
       alter the approval message
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.211
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,7 +38,7 @@ record:
   theme: safety-privacy
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: Fixed permission previews relayed to chat channels not neutralizing bidirectiona
+  title: Fixed permission previews relayed to chat channels not neutralizing…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-14-improved-auto-mode-the-permission-classifier-now-defaults-to-sonnet-5-for-extern|claude-code-2026-07-14-de216e]]'
@@ -47,11 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-15-v2-1-211-github-354658856-71e66e57|claude-code-2026-07-15-v2-1-211-github-354658856-71e66e57]]'
 source_type: github_releases
 theme: safety-privacy
-title: Fixed permission previews relayed to chat channels not neutralizing bidirectiona
+title: Fixed permission previews relayed to chat channels not neutralizing…
 type: change
 ---
 
-# Fixed permission previews relayed to chat channels not neutralizing bidirectiona
+# Fixed permission previews relayed to chat channels not neutralizing…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.211: Fixed permission previews relayed to chat channels not neutralizing bidirectional-override, zero-width, and look-alike quote characters, so tool inputs cannot visually alter the approval message

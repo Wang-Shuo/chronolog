@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 7035779c9e9129a188922b6c85045da4ef118bd5ea797ef2638c831dc72806e2
+machine_hash: 7dd2b405abb2cc5a85f0d2d1c1f9a9e5528e1a3c63e9b59f130800ea8157cc1e
 product: cursor
 product_name: Cursor
 record:
@@ -32,7 +32,7 @@ record:
       "Long Context Chat" in the top right of a new chat and try @''ing a folder or
       the entire codebase.'
     source_release: https://cursor.com/changelog/0-31-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -42,8 +42,7 @@ record:
   theme: context-window
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: 'Long Context Chat (Beta): This is a new experimental feature that lets you
-    talk'
+  title: Long Context Chat (Beta)
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-11-24-you-can-now-folder-in-the-chat-to-chat-with-a-folder-let-us-know-what-you-think|cursor-2023-11-24-79ee14]]'
@@ -52,12 +51,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-04-01-0-31-x-https-cursor-com-changelog-0-31-x-f88ca4c9|cursor-2024-04-01-0-31-x-https-cursor-com-changelog-0-31-x-f88ca4c9]]'
 source_type: cursor_changelog
 theme: context-window
-title: 'Long Context Chat (Beta): This is a new experimental feature that lets you
-  talk'
+title: Long Context Chat (Beta)
 type: change
 ---
 
-# Long Context Chat (Beta): This is a new experimental feature that lets you talk
+# Long Context Chat (Beta)
 
 <!-- chronolog:begin region="description" -->
 Cursor — Long Context Chat Beta: Long Context Chat (Beta): This is a new experimental feature that lets you talk with lots of files! To enable it, head to Settings > Beta. Then, select "Long Context Chat" in the top right of a new chat and try @'ing a folder or the entire codebase.

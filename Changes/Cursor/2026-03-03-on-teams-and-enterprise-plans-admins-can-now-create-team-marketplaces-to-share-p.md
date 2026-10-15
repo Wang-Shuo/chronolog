@@ -11,9 +11,9 @@ diffusion:
   theme: enterprise-admin
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 76938798324526cfe1e2d2e3b8c9b2dfcc735af3f746925c2fe775b0aae88d4c
+machine_hash: 80c4e28356780079ef591987b74089eac38bf801da8661168764683f4c8aa7ac
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
       to share private plugins internally. Go to the settings page to manage and distribute
       plugins with central governance and access controls.
     source_release: https://cursor.com/changelog/2-6
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -54,7 +54,7 @@ record:
     theme: apps-integrations
   theme_resolution: manual-semantic-rule-v1
   title: On Teams and Enterprise plans, Admins can now create team marketplaces to
-    share
+    share…
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-10-29-launched-in-beta-in-1-7-browser-for-agent-is-now-ga-we-ve-added-additional-suppo|cursor-2025-10-29-38c733]]'
@@ -63,11 +63,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3|cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3]]'
 source_type: cursor_changelog
 theme: enterprise-admin
-title: On Teams and Enterprise plans, Admins can now create team marketplaces to share
+title: On Teams and Enterprise plans, Admins can now create team marketplaces to share…
 type: change
 ---
 
-# On Teams and Enterprise plans, Admins can now create team marketplaces to share
+# On Teams and Enterprise plans, Admins can now create team marketplaces to share…
 
 <!-- chronolog:begin region="description" -->
 Cursor — MCP Apps and Team Marketplaces for Plugins: On Teams and Enterprise plans, Admins can now create team marketplaces to share private plugins internally. Go to the settings page to manage and distribute plugins with central governance and access controls.

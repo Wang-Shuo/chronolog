@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: b3c62255b609e119726ce2af84041059858bc6262dd89fdd7f9e9b7816d7d414
+machine_hash: 5f9045eef7b46e1a24017ecae7a27d3256df922e641155c6985a98f0238412e6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Improvements to memory to reference past chats in a project*
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT

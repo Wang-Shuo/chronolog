@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 969b74b4d768118cf69e857e9ca57c613429047e359c70af9ddca0e9bae24fd1
+machine_hash: 58b24bc6bb2c9fb004839a7b98538a014aeebf8700140dafb49dd729d24cd403
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
   - quote: Cursor now port-forwards your cloud agent's live environment straight to
       your browser, so you can preview it and use tools like design mode.
     source_release: https://cursor.com/changelog/start-from-scratch
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -37,8 +37,7 @@ record:
   source_release: cursor-2026-08-27-start-from-scratch-without-a-repo-https-cursor-com-changelog-sta-d75d62ae
   source_type: cursor_changelog
   theme: agent-mode
-  title: Cursor now port-forwards your cloud agent's live environment straight to
-    your br
+  title: Cursor now port-forwards your cloud agent's live environment straight…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-08-19-we-re-continuing-to-improve-cloud-agents-and-the-cursor-harness-so-always-on-age|cursor-2026-08-19-e687fa]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-08-27-start-from-scratch-without-a-repo-https-cursor-com-changelog-sta-d75d62ae|cursor-2026-08-27-start-from-scratch-without-a-repo-https-cursor-com-changelog-sta-d75d62ae]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: Cursor now port-forwards your cloud agent's live environment straight to your
-  br
+title: Cursor now port-forwards your cloud agent's live environment straight…
 type: change
 ---
 
-# Cursor now port-forwards your cloud agent's live environment straight to your br
+# Cursor now port-forwards your cloud agent's live environment straight…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Start from scratch, without a repo: Cursor now port-forwards your cloud agent's live environment straight to your browser, so you can preview it and use tools like design mode.

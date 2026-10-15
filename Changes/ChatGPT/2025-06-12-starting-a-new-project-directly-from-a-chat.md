@@ -11,9 +11,9 @@ diffusion:
   theme: projects-workspaces
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: dbb49e2e4ab3ab85f3088a35babe4af8ed9c9c7408a1883064e2f275ff1bf18c
+machine_hash: cb03fc8667d352a16a6b96481b8790eaead483343bd83f4cd8800abfbaf71889
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: Starting a new project directly from a chat
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT

@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: bbbb07e089323bcb1ca007a5ec02e21e755d4477ae992a0dd3bd6129d0469da8
+machine_hash: 811c3b865a9683baac61115f5c80e5c4337db5734aa842a60754bb62613778bb
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: '`EnterWorktree` now asks for confirmation before entering a git worktree
       outside the project''s `.claude/worktrees/` directory'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.206
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,7 +35,7 @@ record:
   source_type: github_releases
   theme: developer-workflow
   title: '`EnterWorktree` now asks for confirmation before entering a git worktree
-    outside'
+    outside…'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-15-improved-doctor-with-consistent-flat-tree-layout-across-all-sections-clearer-sec|claude-code-2026-06-15-a6ee0d]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-10-v2-1-206-github-351694341-0226036e|claude-code-2026-07-10-v2-1-206-github-351694341-0226036e]]'
 source_type: github_releases
 theme: developer-workflow
-title: EnterWorktree now asks for confirmation before entering a git worktree outside
+title: EnterWorktree now asks for confirmation before entering a git worktree outside…
 type: change
 ---
 
-# `EnterWorktree` now asks for confirmation before entering a git worktree outside
+# `EnterWorktree` now asks for confirmation before entering a git worktree outside…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.206: `EnterWorktree` now asks for confirmation before entering a git worktree outside the project's `.claude/worktrees/` directory

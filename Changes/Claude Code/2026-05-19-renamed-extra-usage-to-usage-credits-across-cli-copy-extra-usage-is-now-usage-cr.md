@@ -11,9 +11,9 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5165a384321740aa6a5ab5880957dd2405280698448702d54b8a4ed960e0bdd9
+machine_hash: 76dad3b05f20dbf93c9c3cea24e93a1b9857612fb72d35312188a61ae5ca7d64
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Renamed "extra usage" to "usage credits" across CLI copy; `/extra-usage`
       is now `/usage-credits` (old name still works)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.144
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   theme: pricing-model
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: Renamed "extra usage" to "usage credits" across CLI copy; `/extra-usage`
-    is now
+  title: Renamed "extra usage" to "usage credits" across CLI copy
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-15-added-projected-context-cost-per-turn-and-per-invocation-token-estimates-to-the|claude-code-2026-05-15-ecb4a2]]'
@@ -46,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-19-v2-1-144-github-324524751-1469637a|claude-code-2026-05-19-v2-1-144-github-324524751-1469637a]]'
 source_type: github_releases
 theme: pricing-model
-title: Renamed "extra usage" to "usage credits" across CLI copy; /extra-usage is now
+title: Renamed "extra usage" to "usage credits" across CLI copy
 type: change
 ---
 
-# Renamed "extra usage" to "usage credits" across CLI copy; `/extra-usage` is now
+# Renamed "extra usage" to "usage credits" across CLI copy
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.144: Renamed "extra usage" to "usage credits" across CLI copy; `/extra-usage` is now `/usage-credits` (old name still works)

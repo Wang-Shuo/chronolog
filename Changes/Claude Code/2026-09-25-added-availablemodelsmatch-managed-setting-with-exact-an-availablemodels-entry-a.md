@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: eda511b09e5d54a98c3599bb11648400267419477841b69bf3c8904875b9c395
+machine_hash: f67d4d8942257d48ae0d97c77370edbcc3b290fd54a414233ba16ace874ae9d9
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       entry allows only the model version it names, so new releases stay blocked until
       listed'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.283
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -38,7 +38,7 @@ record:
   source_release: claude-code-2026-09-25-v2-1-283-github-396845205-9a5a07f8
   source_type: github_releases
   theme: model-support
-  title: 'Added `availableModelsMatch` managed setting: with `"exact"`, an `availableModel'
+  title: Added `availableModelsMatch` managed setting
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-17-added-effort-attribute-to-the-claude-code-llm-request-opentelemetry-trace-span-m|claude-code-2026-09-17-814a0e]]'
@@ -47,11 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-25-v2-1-283-github-396845205-9a5a07f8|claude-code-2026-09-25-v2-1-283-github-396845205-9a5a07f8]]'
 source_type: github_releases
 theme: model-support
-title: 'Added availableModelsMatch managed setting: with "exact", an availableModel'
+title: Added availableModelsMatch managed setting
 type: change
 ---
 
-# Added `availableModelsMatch` managed setting: with `"exact"`, an `availableModel
+# Added `availableModelsMatch` managed setting
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.283: Added `availableModelsMatch` managed setting: with `"exact"`, an `availableModels` entry allows only the model version it names, so new releases stay blocked until listed

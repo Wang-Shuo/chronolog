@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 946978b8d748ca48fe94dc4109693ebee67de773d4889ea706d924a52d015961
+machine_hash: 62be5f24710ddeb385fb92412b2d6b88304fe36745a0e3f0144080381b49d1cd
 product: cursor
 product_name: Cursor
 record:
@@ -24,7 +24,7 @@ record:
   evidence:
   - quote: The AI linter now shows diffs!
     source_release: https://cursor.com/changelog/0-2-34-nightly
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

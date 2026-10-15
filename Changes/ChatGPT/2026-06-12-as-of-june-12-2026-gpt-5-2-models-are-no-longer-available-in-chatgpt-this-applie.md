@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: d96fe2b398a4e0ff29507b90c5109491a34ea859439082848ae2ad747f3fd15e
+machine_hash: 4a409bc73c7c9ec821977739744f8351f7b935911aedc722133437cd0a570004
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -36,7 +36,7 @@ record:
       with the release of GPT-5.3 Instant. Models will generally remain available
       in ChatGPT for 90 days after a successor is released.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -47,7 +47,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: As of June 12, 2026, GPT-5.2 models are no longer available in ChatGPT.This
-    appl
+    applies…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-06-10-extra-high-pro-plans-only|chatgpt-2026-06-10-336657]]'
@@ -57,11 +57,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-06-12-retiring-gpt-5-2-models-8
 source_type: chatgpt_changelog
 theme: model-support
 title: As of June 12, 2026, GPT-5.2 models are no longer available in ChatGPT.This
-  appl
+  applies…
 type: change
 ---
 
-# As of June 12, 2026, GPT-5.2 models are no longer available in ChatGPT. This app
+# As of June 12, 2026, GPT-5.2 models are no longer available in ChatGPT.This applies…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Retiring GPT-5.2 models: As of June 12, 2026, GPT-5.2 models are no longer available in ChatGPT.This applies to GPT-5.2 Instant, GPT-5.2 Thinking, and GPT-5.2 Pro. Existing conversations that used GPT-5.2 will automatically continue on the corresponding GPT-5.5 model. GPT-5.5 models remain available in ChatGPT.This retirement was previously announced with the release of GPT-5.3 Instant. Models will generally remain available in ChatGPT for 90 days after a successor is released.

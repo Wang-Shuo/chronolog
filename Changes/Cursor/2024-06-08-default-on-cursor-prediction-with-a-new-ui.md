@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 602e00269779ba81bf47e83cb29d41ba279d6c8f9f1960c77bacbef656b3978e
+machine_hash: b33451972748499261a5a3a679d6571dad81e0491f18d1e0819c01e94571d636
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: Default-on Cursor Prediction with a new UI
     source_release: https://cursor.com/changelog/0-35-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor

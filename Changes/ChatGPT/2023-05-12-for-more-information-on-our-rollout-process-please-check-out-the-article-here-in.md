@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5a25fccfb125bc9a168ed0f255abf456f8d518fd0bb3dc8e91a0b85cb5ad8cf6
+machine_hash: 6948925868a2c0a1c77a57a13e4e3ddd9adec36514d3314905612f1413fd787a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       a message beyond the maximum token limit. Each continuation counts towards the
       message allowance.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -41,7 +41,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: For more information on our rollout process, please check out the article
-    here.I
+    here
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|cursor-2023-05-04-00d3b7]]'
@@ -49,11 +49,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2023-05-12-web-browsing-and-plugins-are-now-rolling-out-in-beta-5dbe86e7|chatgpt-2023-05-12-web-browsing-and-plugins-are-now-rolling-out-in-beta-5dbe86e7]]'
 source_type: chatgpt_changelog
 theme: context-window
-title: For more information on our rollout process, please check out the article here.I
+title: For more information on our rollout process, please check out the article here
 type: change
 ---
 
-# For more information on our rollout process, please check out the article here.I
+# For more information on our rollout process, please check out the article here
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Web browsing and Plugins are now rolling out in beta: For more information on our rollout process, please check out the article here.In addition to the beta panel, users can now choose to continue generating a message beyond the maximum token limit. Each continuation counts towards the message allowance.

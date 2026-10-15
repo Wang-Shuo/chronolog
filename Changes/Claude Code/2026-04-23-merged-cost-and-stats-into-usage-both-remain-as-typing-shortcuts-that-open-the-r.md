@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a1d577f8540cb555df4cb8a3fb84ffb8c8a1621f04b9bd0dedab31faafa57f78
+machine_hash: ef9531bbf273e13573634885ec349e95d989c1a8c4872d881d6f46d4a7b15c29
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Merged `/cost` and `/stats` into `/usage` — both remain as typing shortcuts
       that open the relevant tab
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.118
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -34,8 +34,7 @@ record:
   source_release: claude-code-2026-04-23-v2-1-118-github-312487295-b3c6b04c
   source_type: github_releases
   theme: editor-experience
-  title: Merged `/cost` and `/stats` into `/usage` — both remain as typing shortcuts
-    that
+  title: Merged `/cost` and `/stats` into `/usage`
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-09-added-claude-code-perforce-mode-env-var-when-set-edit-write-notebookedit-fail-on|claude-code-2026-04-09-cbd468]]'
@@ -44,11 +43,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-23-v2-1-118-github-312487295-b3c6b04c|claude-code-2026-04-23-v2-1-118-github-312487295-b3c6b04c]]'
 source_type: github_releases
 theme: editor-experience
-title: Merged /cost and /stats into /usage — both remain as typing shortcuts that
+title: Merged /cost and /stats into /usage
 type: change
 ---
 
-# Merged `/cost` and `/stats` into `/usage` — both remain as typing shortcuts that
+# Merged `/cost` and `/stats` into `/usage`
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.118: Merged `/cost` and `/stats` into `/usage` — both remain as typing shortcuts that open the relevant tab

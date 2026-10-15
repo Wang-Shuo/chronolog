@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7a9796c08a28bece58efc5104d6923bea5bfbaa1e6f353ebd6b092c3b5dff1ba
+machine_hash: ba14299fb3a33a0c786d3a523cb6e9c22d29f76843e57164c26dbf8ab9ee2656
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       in the prompt delete back to the previous whitespace, as in Bash; the default
       (`"classic"`) is unchanged'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.238
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,8 +38,7 @@ record:
   theme: developer-workflow
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: 'Added a `keybindingFlavor` setting: set it to `"readline"` to make Ctrl+W
-    in the'
+  title: Added a `keybindingFlavor` setting
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-07-added-a-cancel-and-confirm-step-when-removing-an-unavailable-paste-changes-a-com|claude-code-2026-08-07-5f6ac5]]'
@@ -48,11 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-08-20-v2-1-238-github-373927029-c96744e2|claude-code-2026-08-20-v2-1-238-github-373927029-c96744e2]]'
 source_type: github_releases
 theme: developer-workflow
-title: 'Added a keybindingFlavor setting: set it to "readline" to make Ctrl+W in the'
+title: Added a keybindingFlavor setting
 type: change
 ---
 
-# Added a `keybindingFlavor` setting: set it to `"readline"` to make Ctrl+W in the
+# Added a `keybindingFlavor` setting
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.238: Added a `keybindingFlavor` setting: set it to `"readline"` to make Ctrl+W in the prompt delete back to the previous whitespace, as in Bash; the default (`"classic"`) is unchanged

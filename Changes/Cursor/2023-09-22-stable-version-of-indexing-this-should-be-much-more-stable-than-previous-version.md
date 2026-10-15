@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 43513eaddbfeb60a0107887b3ec7f0b66b343f814cf544c23053543a69d09f48
+machine_hash: f3884a0ba7d13aa4a0f38ac36f41d3dcc0d2594fab914b18149f70a81cfb8d08
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Stable version of indexing. this should be much more stable than previous
       versions.
     source_release: https://cursor.com/changelog/0-11-5-nightly
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: Stable version of indexing. this should be much more stable than previous
-    versio
+    versions
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-09-07-we-release-an-improved-new-ai-project-feature-to-nightly-users-this-is-a-more-ro|cursor-2023-09-07-3082c7]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-09-22-0-11-5-nightly-https-cursor-com-changelog-0-11-5-nightly-4046a4e1|cursor-2023-09-22-0-11-5-nightly-https-cursor-com-changelog-0-11-5-nightly-4046a4e1]]'
 source_type: cursor_changelog
 theme: reliability-performance
-title: Stable version of indexing. this should be much more stable than previous versio
+title: Stable version of indexing. this should be much more stable than previous versions
 type: change
 ---
 
-# Stable version of indexing. this should be much more stable than previous versio
+# Stable version of indexing. this should be much more stable than previous versions
 
 <!-- chronolog:begin region="description" -->
 Cursor — Stable Indexing v0.1: Stable version of indexing. this should be much more stable than previous versions.

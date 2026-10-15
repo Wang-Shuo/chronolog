@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2026-08-13'
-machine_hash: ce0504ec633fe984d52625555a944a22f789789ce7b250e27ca70fb9f198566f
+machine_hash: f6d9368c459a895f59c412b9aa5bf7f55000e6d3aff0f44489321433ac35b878
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,6 +41,6 @@ Tracked cards: 2
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- search-browsing: [[Changes/ChatGPT/2026-08-13-if-you-have-the-google-drive-plugin-connected-you-can-now-see-and-browse-your-go|If you have the Google Drive plugin connected, you can now see and browse your G]]
-- collaboration: [[Changes/ChatGPT/2026-08-13-the-initial-experience-includes-my-drive-and-files-and-folders-shared-directly-w|The initial experience includes My Drive and files and folders shared directly w]]
+- search-browsing: [[Changes/ChatGPT/2026-08-13-if-you-have-the-google-drive-plugin-connected-you-can-now-see-and-browse-your-go|If you have the Google Drive plugin connected, you can now see and browse…]]
+- collaboration: [[Changes/ChatGPT/2026-08-13-the-initial-experience-includes-my-drive-and-files-and-folders-shared-directly-w|The initial experience includes My Drive and files and folders shared directly with you]]
 <!-- chronolog:end -->

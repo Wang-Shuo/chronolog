@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 74583138eee96a380732a13ca5dec10e64732958fce441a95e99999513f8f4ae
+machine_hash: 8e4ac84a70d741e139b2bfce5f8038ad842f50e1a6c195be9627997079e01fbf
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: When a plan is generated, the CLI now shows a persistent decision menu.
       You can choose to build in the cloud or build locally to execute the plan.
     source_release: https://cursor.com/changelog/cli-feb-18-2026
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,8 +37,7 @@ record:
   theme: agent-mode
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: When a plan is generated, the CLI now shows a persistent decision menu. You
-    can
+  title: When a plan is generated, the CLI now shows a persistent decision menu
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-02-12-cursor-can-now-work-autonomously-over-longer-horizons-to-complete-larger-more-co|cursor-2026-02-12-def8fc]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-02-18-cli-improvements-and-mermaid-ascii-diagrams-https-cursor-com-cha-a75d36c7|cursor-2026-02-18-cli-improvements-and-mermaid-ascii-diagrams-https-cursor-com-cha-a75d36c7]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: When a plan is generated, the CLI now shows a persistent decision menu. You
-  can
+title: When a plan is generated, the CLI now shows a persistent decision menu
 type: change
 ---
 
-# When a plan is generated, the CLI now shows a persistent decision menu. You can
+# When a plan is generated, the CLI now shows a persistent decision menu
 
 <!-- chronolog:begin region="description" -->
 Cursor — CLI Improvements and Mermaid ASCII Diagrams: When a plan is generated, the CLI now shows a persistent decision menu. You can choose to build in the cloud or build locally to execute the plan.

@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e620adde28eadcb5a3cdbf85bbabc0b29e614729b4f0b005cfe29670689c31f4
+machine_hash: 27cb6ee95abdc622c4ba22160ba0523c35230036745ed51664d83ef8336b039d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -36,7 +36,7 @@ record:
       early testers and gives you control over what you connect and when ChatGPT can
       use it.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -55,7 +55,7 @@ record:
     theme: mobile-desktop
   theme_resolution: manual-semantic-rule-v1
   title: Available on web and iOS, Health lets you view lab results, medications,
-    activit
+    activity…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-07-16-a-clearer-desktop-layout-a-global-switcher-lets-you-choose-between-chatgpt-and-c|chatgpt-2026-07-16-55f571]]'
@@ -64,11 +64,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-23-health-in-chatgpt-4cb3bdf6|chatgpt-2026-07-23-health-in-chatgpt-4cb3bdf6]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: Available on web and iOS, Health lets you view lab results, medications, activit
+title: Available on web and iOS, Health lets you view lab results, medications, activity…
 type: change
 ---
 
-# Available on web and iOS, Health lets you view lab results, medications, activit
+# Available on web and iOS, Health lets you view lab results, medications, activity…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Health in ChatGPT: Available on web and iOS, Health lets you view lab results, medications, activity, sleep, and other health information in one place. You can ask questions directly in ChatGPT or use the Health tab to explore trends, prepare for appointments, understand test results, track wellness goals, and think through questions to discuss with a healthcare professional. The experience builds on feedback from early testers and gives you control over what you connect and when ChatGPT can use it.

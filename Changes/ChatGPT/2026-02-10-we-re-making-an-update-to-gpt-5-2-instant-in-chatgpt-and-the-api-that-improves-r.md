@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: f988357b5db17423a6b7e17dfc59eee5af0f0354112629f440e3914953bbda83
+machine_hash: 6ba905b45d049847b02dcd8ba1347e9fe763e75b6e3540d7e2cd197297b9f4c3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,7 +35,7 @@ record:
       The model also tends to output clearer, more relevant answers to advice-seeking
       and how-to questions, more reliably placing the most important info upfront.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -45,8 +45,7 @@ record:
   theme: model-support
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: We’re making an update to GPT-5.2 Instant in ChatGPT and the API that improves
-    r
+  title: We’re making an update to GPT-5.2 Instant in ChatGPT and the API that improves…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-04-improved-system-prompts-to-more-clearly-guide-the-model-toward-using-dedicated-t|claude-code-2026-02-04-78de84]]'
@@ -55,12 +54,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-10-gpt-5-2-instant-update-09d95a8b|chatgpt-2026-02-10-gpt-5-2-instant-update-09d95a8b]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: We’re making an update to GPT-5.2 Instant in ChatGPT and the API that improves
-  r
+title: We’re making an update to GPT-5.2 Instant in ChatGPT and the API that improves…
 type: change
 ---
 
-# We’re making an update to GPT-5.2 Instant in ChatGPT and the API that improves r
+# We’re making an update to GPT-5.2 Instant in ChatGPT and the API that improves…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — GPT-5.2 Instant Update: We’re making an update to GPT-5.2 Instant in ChatGPT and the API that improves response style and quality.Users should notice responses that are more measured and grounded in tone, in a way that’s more contextually appropriate to the conversation. The model also tends to output clearer, more relevant answers to advice-seeking and how-to questions, more reliably placing the most important info upfront.

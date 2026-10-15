@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 807ea8314788496eb9b30ed6c4ad98fae7a0a639d35ffce222d1b3fd3c2e3ea9
+machine_hash: ea823a49cac0731d2b605d20a08d4d98d57d33019c0d0bf9ac83790b0b880a0e
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added a cancel-and-confirm step when removing an unavailable paste changes
       a command's text
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.224
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   theme: developer-workflow
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Added a cancel-and-confirm step when removing an unavailable paste changes
-    a com
+  title: Added a cancel-and-confirm step when removing an unavailable paste changes…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-19-claude-no-longer-runs-the-verify-and-code-review-skills-on-its-own-invoke-them-w|claude-code-2026-07-19-3944a0]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-08-07-v2-1-224-github-366468634-0ab9e64c|claude-code-2026-08-07-v2-1-224-github-366468634-0ab9e64c]]'
 source_type: github_releases
 theme: developer-workflow
-title: Added a cancel-and-confirm step when removing an unavailable paste changes
-  a com
+title: Added a cancel-and-confirm step when removing an unavailable paste changes…
 type: change
 ---
 
-# Added a cancel-and-confirm step when removing an unavailable paste changes a com
+# Added a cancel-and-confirm step when removing an unavailable paste changes…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.224: Added a cancel-and-confirm step when removing an unavailable paste changes a command's text

@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 90d11d6a1b96a44a79b4fbb1bf7d41a2a15a6b61cb3de4ab5437c97ed3395229
+machine_hash: 596798adc2a0364b2b79c8774290541023716b1357f1de89f06b4d97d8a814e6
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       fail on read-only files with a `p4 edit` hint instead of silently overwriting
       them'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.98
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,8 +38,7 @@ record:
   theme: editor-experience
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: 'Added `CLAUDE_CODE_PERFORCE_MODE` env var: when set, Edit/Write/NotebookEdit
-    fai'
+  title: Added `CLAUDE_CODE_PERFORCE_MODE` env var
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-27-added-jj-and-sl-to-vcs-directory-exclusion-lists-so-grep-and-file-autocomplete-d|claude-code-2026-03-27-833a57]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-09-v2-1-98-github-307232194-a0774436|claude-code-2026-04-09-v2-1-98-github-307232194-a0774436]]'
 source_type: github_releases
 theme: editor-experience
-title: 'Added CLAUDE_CODE_PERFORCE_MODE env var: when set, Edit/Write/NotebookEdit
-  fai'
+title: Added CLAUDE_CODE_PERFORCE_MODE env var
 type: change
 ---
 
-# Added `CLAUDE_CODE_PERFORCE_MODE` env var: when set, Edit/Write/NotebookEdit fai
+# Added `CLAUDE_CODE_PERFORCE_MODE` env var
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.98: Added `CLAUDE_CODE_PERFORCE_MODE` env var: when set, Edit/Write/NotebookEdit fail on read-only files with a `p4 edit` hint instead of silently overwriting them

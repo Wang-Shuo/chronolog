@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: cf4bbe9437d035cec813f8323fcfdb554640043db81c549e359c6af8291d5b27
+machine_hash: 64e17e6ab302ec26ab01d2a332c1f6625a719cb207424c2ddd181213c57ef3b1
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Use an OpenAI API key for unlimited requests at cost (GPT-4 access if available)
     source_release: https://cursor.com/changelog/0-1-12
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

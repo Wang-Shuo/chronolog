@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 8fdde3b09ceca7aa69af640de75342d14d073fa7603e915f83551b9163d1a631
+machine_hash: d3ae10a1d58224d64bd14a1a9e72b63703414939cc4f847c9287d9c1f89b2820
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,7 +29,7 @@ record:
   - quote: Added inline display of agent's final response in task notifications, making
       it easier to see results without reading the full transcript file
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.7
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code
@@ -37,8 +37,7 @@ record:
   source_release: claude-code-2026-01-14-v2-1-7-github-276555327-bf21dc80
   source_type: github_releases
   theme: agent-mode
-  title: Added inline display of agent's final response in task notifications, making
-    it
+  title: Added inline display of agent's final response in task notifications, making…
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-12-10-plan-mode-now-supports-inline-mermaid-diagrams-allowing-the-agent-to-automatical|cursor-2025-12-10-8fb01a]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-01-14-v2-1-7-github-276555327-bf21dc80|claude-code-2026-01-14-v2-1-7-github-276555327-bf21dc80]]'
 source_type: github_releases
 theme: agent-mode
-title: Added inline display of agent's final response in task notifications, making
-  it
+title: Added inline display of agent's final response in task notifications, making…
 type: change
 ---
 
-# Added inline display of agent's final response in task notifications, making it
+# Added inline display of agent's final response in task notifications, making…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.7: Added inline display of agent's final response in task notifications, making it easier to see results without reading the full transcript file

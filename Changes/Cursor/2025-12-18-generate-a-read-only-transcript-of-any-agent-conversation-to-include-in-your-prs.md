@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 297835af06d8324fa3f6868d56e7cc31377884e9f9450c3e9b3e659cc8123fb1
+machine_hash: b8f0ec6b5d65098430b6127d150d55f75d348b52851ede6523d8dc9372091163
 product: cursor
 product_name: Cursor
 record:
@@ -31,7 +31,7 @@ record:
       your PRs or internal documentation. Transcripts can be forked so others can
       start new agent conversations from the same context.
     source_release: https://cursor.com/changelog/enterprise-dec-2025
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -50,7 +50,7 @@ record:
     theme: context-window
   theme_resolution: manual-semantic-rule-v1
   title: Generate a read-only transcript of any agent conversation to include in your
-    PRs
+    PRs…
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-07-29-at-the-end-of-a-conversation-you-can-now-see-how-much-of-the-context-window-is-u|cursor-2025-07-29-6bb48b]]'
@@ -60,11 +60,11 @@ source_release: '[[Releases/Cursor/cursor-2025-12-18-enterprise-insights-billing
 source_type: cursor_changelog
 theme: context-window
 title: Generate a read-only transcript of any agent conversation to include in your
-  PRs
+  PRs…
 type: change
 ---
 
-# Generate a read-only transcript of any agent conversation to include in your PRs
+# Generate a read-only transcript of any agent conversation to include in your PRs…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Enterprise Insights, Billing Groups, Service Accounts, and Improved Security Controls: Generate a read-only transcript of any agent conversation to include in your PRs or internal documentation. Transcripts can be forked so others can start new agent conversations from the same context.

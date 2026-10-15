@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 72f5491390c900ed8162681b262c4d325cfa2b3d70a8892ba5357c21ab47a41a
+machine_hash: ce309cb1bdae25ba0807003afff90e5b352d2a196ad7af0870ef62504dc371bd
 product: cursor
 product_name: Cursor
 record:
@@ -24,7 +24,7 @@ record:
   evidence:
   - quote: 'Install plugins to connect:'
     source_release: https://cursor.com/changelog/google-workspace-plugins
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -32,7 +32,7 @@ record:
   source_release: cursor-2026-08-03-google-workspace-plugins-https-cursor-com-changelog-google-works-e8cf52f1
   source_type: cursor_changelog
   theme: apps-integrations
-  title: 'Install plugins to connect:'
+  title: Install plugins to connect
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-24-added-directoryadded-hook-that-fires-after-add-dir-or-the-sdk-register-repo-root|claude-code-2026-07-24-c4cc36]]'
@@ -41,11 +41,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-08-03-google-workspace-plugins-https-cursor-com-changelog-google-works-e8cf52f1|cursor-2026-08-03-google-workspace-plugins-https-cursor-com-changelog-google-works-e8cf52f1]]'
 source_type: cursor_changelog
 theme: apps-integrations
-title: 'Install plugins to connect:'
+title: Install plugins to connect
 type: change
 ---
 
-# Install plugins to connect:
+# Install plugins to connect
 
 <!-- chronolog:begin region="description" -->
 Cursor — Google Workspace Plugins: Install plugins to connect:

@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 497bc222306034522dc0cd017fb28e01f575c6ea0156afeb7a4c68cff2430839
+machine_hash: adda682d9dec0ee3dc59394b12b450c355ade2a9d64d9b0741fecab8b3389d3c
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: 'High: Bugbot spends more time reasoning. Reviews are more expensive and
       take longer, but Bugbot may find more bugs.'
     source_release: https://cursor.com/changelog/05-11-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -36,8 +36,7 @@ record:
   theme: model-support
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: 'High: Bugbot spends more time reasoning. Reviews are more expensive and
-    take lon'
+  title: 'High: Bugbot spends more time reasoning'
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-04-enterprises-also-have-the-option-to-block-new-providers-or-model-versions-by-def|cursor-2026-05-04-793636]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-05-11-bugbot-effort-levels-https-cursor-com-changelog-05-11-26-b41d8617|cursor-2026-05-11-bugbot-effort-levels-https-cursor-com-changelog-05-11-26-b41d8617]]'
 source_type: cursor_changelog
 theme: model-support
-title: 'High: Bugbot spends more time reasoning. Reviews are more expensive and take
-  lon'
+title: 'High: Bugbot spends more time reasoning'
 type: change
 ---
 
-# High: Bugbot spends more time reasoning. Reviews are more expensive and take lon
+# High: Bugbot spends more time reasoning
 
 <!-- chronolog:begin region="description" -->
 Cursor — Bugbot Effort Levels: High: Bugbot spends more time reasoning. Reviews are more expensive and take longer, but Bugbot may find more bugs.

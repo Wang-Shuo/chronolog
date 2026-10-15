@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 80082470c660ceff83095a92dc20d2bb439c423f320bf45fd5dc1a8ef14efc19
+machine_hash: dc24bfd15e95ceea9668e99a2806076e54310c79ae12bbbcd5808dc059ef3eff
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `context_window.used_percentage` and `context_window.remaining_percentage`
       fields to status line input for easier context window display
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.6
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -45,7 +45,7 @@ record:
     score: 60
     theme: interface-experience
   theme_resolution: manual-semantic-rule-v2
-  title: Added `context_window.used_percentage` and `context_window.remaining_percentage`
+  title: Added `context_window.used_percentage` and `context_window.remaining_percentage`…
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-09-12-cursor-automatically-summarizes-long-conversation-for-you-when-reaching-the-cont|cursor-2025-09-12-7d0a07]]'
@@ -54,11 +54,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-01-13-v2-1-6-github-276206295-e2719d9a|claude-code-2026-01-13-v2-1-6-github-276206295-e2719d9a]]'
 source_type: github_releases
 theme: context-window
-title: Added context_window.used_percentage and context_window.remaining_percentage
+title: Added context_window.used_percentage and context_window.remaining_percentage…
 type: change
 ---
 
-# Added `context_window.used_percentage` and `context_window.remaining_percentage`
+# Added `context_window.used_percentage` and `context_window.remaining_percentage`…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.6: Added `context_window.used_percentage` and `context_window.remaining_percentage` fields to status line input for easier context window display

@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0e8cef73a3c7e9903d86cdfb03da3062406eb79ed7027b4dd472973d4675cde8
+machine_hash: 80816ba56aa880a5e48980e58d350e34e520478d8571cd86e134cbb5eadc07e8
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Allows users to provide feedback on the chat response.
     source_release: https://cursor.com/changelog/0-18-4-0-18-5
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,7 +35,7 @@ record:
   theme: interface-experience
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Allows users to provide feedback on the chat response.
+  title: Allows users to provide feedback on the chat response
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-11-10-command-dot-you-can-now-use-the-command-dot-menu-to-have-command-k-fix-lint-erro|cursor-2023-11-10-ae0506]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-12-06-0-18-4-0-18-5-https-cursor-com-changelog-0-18-4-0-18-5-d1de0931|cursor-2023-12-06-0-18-4-0-18-5-https-cursor-com-changelog-0-18-4-0-18-5-d1de0931]]'
 source_type: cursor_changelog
 theme: interface-experience
-title: Allows users to provide feedback on the chat response.
+title: Allows users to provide feedback on the chat response
 type: change
 ---
 
-# Allows users to provide feedback on the chat response.
+# Allows users to provide feedback on the chat response
 
 <!-- chronolog:begin region="description" -->
 Cursor — Onboarding & Feedback: Allows users to provide feedback on the chat response.

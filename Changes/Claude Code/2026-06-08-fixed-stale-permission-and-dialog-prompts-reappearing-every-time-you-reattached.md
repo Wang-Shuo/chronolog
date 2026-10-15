@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 67c2f845a062d2bf580f5bb40d77d92b8619e0c08108b9c1d861258b5c56b071
+machine_hash: f9ad12755a4c770edd0bce792c8b85d587ee941b07277919c81c860851b039b0
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Fixed stale permission and dialog prompts reappearing every time you reattached
       to a remote session whose worker had died while waiting on them
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.169
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme: safety-privacy
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: Fixed stale permission and dialog prompts reappearing every time you reattached
+  title: Fixed stale permission and dialog prompts reappearing every time you reattached…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-06-04-you-can-now-hand-the-local-agent-your-own-tools-by-passing-function-definitions|cursor-2026-06-04-020531]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-08-v2-1-169-github-336158564-d513d69d|claude-code-2026-06-08-v2-1-169-github-336158564-d513d69d]]'
 source_type: github_releases
 theme: safety-privacy
-title: Fixed stale permission and dialog prompts reappearing every time you reattached
+title: Fixed stale permission and dialog prompts reappearing every time you reattached…
 type: change
 ---
 
-# Fixed stale permission and dialog prompts reappearing every time you reattached
+# Fixed stale permission and dialog prompts reappearing every time you reattached…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.169: Fixed stale permission and dialog prompts reappearing every time you reattached to a remote session whose worker had died while waiting on them

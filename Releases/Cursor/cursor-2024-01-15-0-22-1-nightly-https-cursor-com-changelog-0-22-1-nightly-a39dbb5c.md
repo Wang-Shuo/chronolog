@@ -1,7 +1,7 @@
 ---
 changes_count: 4
 date: '2024-01-15'
-machine_hash: 3a89eb42455f56a14c8bf175f8fa776822569ce71b87ce1dba633993540f3f6a
+machine_hash: 08b2383b1e0c45a0d4c0b5ed2bec4a550f2a9c0c3f8ec487fbce1168bcb6cf29
 product: cursor
 product_name: Cursor
 record:
@@ -40,7 +40,7 @@ Tracked cards: 4
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
 - developer-workflow: [[Changes/Cursor/2024-01-15-working-wsl-codebase-search|Working WSL codebase search]]
-- model-support: [[Changes/Cursor/2024-01-15-cursor-fast-is-a-newly-trained-model-between-gpt-3-5-and-gpt-4-coding-capabiliti|Cursor-Fast is a newly trained model between gpt-3.5 and gpt-4 coding capabiliti]]
+- model-support: [[Changes/Cursor/2024-01-15-cursor-fast-is-a-newly-trained-model-between-gpt-3-5-and-gpt-4-coding-capabiliti|Cursor-Fast is a newly trained model between gpt-3.5 and gpt-4 coding capabilities…]]
 - apps-integrations: [[Changes/Cursor/2024-01-15-supports-newer-version-of-python-extension|Supports newer version of python extension]]
-- reliability-performance: [[Changes/Cursor/2024-01-15-we-ll-be-working-to-improve-its-performance-over-the-coming-weeks-counts-the-sam|We'll be working to improve its performance over the coming weeks. Counts the sa]]
+- reliability-performance: [[Changes/Cursor/2024-01-15-we-ll-be-working-to-improve-its-performance-over-the-coming-weeks-counts-the-sam|We'll be working to improve its performance over the coming weeks]]
 <!-- chronolog:end -->

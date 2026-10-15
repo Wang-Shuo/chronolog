@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 717d7b62f028d3c20b9e3cc6e98e9f8204fdb81c6965b18acc0abf55ec137660
+machine_hash: 423142924249d34477294b222353ac2538702d04ebd460129e489fda7fcd7952
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: Press Cmd+Shift+L, and the model will add the terminal context to chat
     source_release: https://cursor.com/changelog/0-2-16
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor

@@ -11,9 +11,9 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: fdfa804a7800f8d9e02b1cc9138643692ae26d6f7b7069b686f23a4c7a08caf9
+machine_hash: d6835fd02f3e9140ee4112106f7cb9f92c2fac539297ca92e493104edb4ea148
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
       This update applies to the version of Voice primarily used by those on the free
       ChatGPT plan, and by Plus users when limits are reached for the main model.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -55,7 +55,7 @@ record:
     score: 50
     theme: model-support
   title: We’re making an update to ChatGPT Voice that improves its ability to follow
-    user
+    user…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-01-12-we-re-improving-our-dictation-capabilities-in-chatgpt-for-all-logged-in-users-si|chatgpt-2026-01-12-22e837]]'
@@ -65,11 +65,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-02-12-chatgpt-voice-update-c17a
 source_type: chatgpt_changelog
 theme: voice
 title: We’re making an update to ChatGPT Voice that improves its ability to follow
-  user
+  user…
 type: change
 ---
 
-# We’re making an update to ChatGPT Voice that improves its ability to follow user
+# We’re making an update to ChatGPT Voice that improves its ability to follow user…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT Voice Update: We’re making an update to ChatGPT Voice that improves its ability to follow user instructions, and usage of tools like web search to provide better responses. This update applies to the version of Voice primarily used by those on the free ChatGPT plan, and by Plus users when limits are reached for the main model.

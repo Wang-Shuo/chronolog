@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2024-02-23'
-machine_hash: 085218101b7ad4e74c4fc76f77c49ca6cf5b13eb0364126b04ed0d7eb2b925ea
+machine_hash: 2b02b6b4a6ca3e40ad559fdbb8c684224e5f05b373b4d09df1f3fb54e0942f59
 product: cursor
 product_name: Cursor
 record:
@@ -39,5 +39,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- editor-experience: [[Changes/Cursor/2024-02-23-cursor-is-now-based-on-vs-code-1-86-2-among-other-things-this-adds-sticky-scroll|Cursor is now based on VS Code 1.86.2! Among other things, this adds sticky scro]]
+- editor-experience: [[Changes/Cursor/2024-02-23-cursor-is-now-based-on-vs-code-1-86-2-among-other-things-this-adds-sticky-scroll|Cursor is now based on VS Code 1.86.2!]]
 <!-- chronolog:end -->

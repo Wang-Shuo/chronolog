@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2024-01-06'
-machine_hash: 1b75723fce32737881f9a98df6fe78a6e4eec38c3c834ddcf49ade1f53b5f415
+machine_hash: d11ffa779444a041237a359f4bb5036d3e0b6a0c5dc14cb5f52794225c59bbf3
 product: cursor
 product_name: Cursor
 record:
@@ -38,5 +38,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- developer-workflow: [[Changes/Cursor/2024-01-06-wsl-and-dev-containers-should-now-work-properly|WSL and Dev Containers should now work properly.]]
+- developer-workflow: [[Changes/Cursor/2024-01-06-wsl-and-dev-containers-should-now-work-properly|WSL and Dev Containers should now work properly]]
 <!-- chronolog:end -->

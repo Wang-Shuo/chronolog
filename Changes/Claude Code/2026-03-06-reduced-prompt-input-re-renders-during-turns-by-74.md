@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: b7ca8eebcba6582886a7bf0b19b30bab3362a2b2402bfe93f7569ea14dbc24f1
+machine_hash: 63a13c449095cc9295c861aa315cacb23d2f169e04ffbe2cc833c0d2fc9c511f
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Reduced prompt input re-renders during turns by ~74%
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.70
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

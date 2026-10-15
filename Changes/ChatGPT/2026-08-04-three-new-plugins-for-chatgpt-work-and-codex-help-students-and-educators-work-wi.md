@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 45436193b8d89f77c862cd199cb6a8047c1ec042d82bcfaf2cdb6fac66d1a124
+machine_hash: 316a6391f45de97fe938d7134f0773ea333cf30f8765ff86c4a8f0dccefaaf27
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       work with their own course materials, connected tools, and institution-approved
       apps.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -39,7 +39,7 @@ record:
   source_type: chatgpt_changelog
   theme: apps-integrations
   title: Three new plugins for ChatGPT Work and Codex help students and educators
-    work wi
+    work…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-07-29-we-re-beginning-to-roll-out-sign-in-with-chatgpt-across-select-plugins-and-partn|chatgpt-2026-07-29-10393b]]'
@@ -48,12 +48,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-04-new-education-plugins-for-students-and-educators-d6701667|chatgpt-2026-08-04-new-education-plugins-for-students-and-educators-d6701667]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
-title: Three new plugins for ChatGPT Work and Codex help students and educators work
-  wi
+title: Three new plugins for ChatGPT Work and Codex help students and educators work…
 type: change
 ---
 
-# Three new plugins for ChatGPT Work and Codex help students and educators work wi
+# Three new plugins for ChatGPT Work and Codex help students and educators work…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — New education plugins for students and educators: Three new plugins for ChatGPT Work and Codex help students and educators work with their own course materials, connected tools, and institution-approved apps.

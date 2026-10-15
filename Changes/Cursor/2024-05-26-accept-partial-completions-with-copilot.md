@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a12a5efece8f32ff4d3b9bd47915069378cfe25b277c7a9a3d4c7fe316a17f08
+machine_hash: 7aa2043635418a178f813757000c24fc883f398ea3c2bd5e7221ea6133b1780c
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Accept partial completions with Copilot++
     source_release: https://cursor.com/changelog/0-34-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

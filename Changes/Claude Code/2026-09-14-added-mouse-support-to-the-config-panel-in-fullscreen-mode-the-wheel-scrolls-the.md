@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 2ea350d96a0ac1fa332f1991e9181aa107001053151f6dffb6ad3449e0466d33
+machine_hash: 91d6e71b7e7240ea171c5a2f678202f0ca2686e6b1acd7609d36897da7cbb382
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       scrolls the settings list, a click on a setting''s value changes it, and the
       row under the pointer is highlighted'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.271
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -38,8 +38,7 @@ record:
   source_release: claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f
   source_type: github_releases
   theme: interface-experience
-  title: 'Added mouse support to the `/config` panel in fullscreen mode: the wheel
-    scrolls'
+  title: Added mouse support to the `/config` panel in fullscreen mode
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-03-added-a-likely-cause-for-prompt-cache-misses-e-g-tool-definitions-or-system-prom|claude-code-2026-09-03-647a8f]]'
@@ -48,11 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f|claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f]]'
 source_type: github_releases
 theme: interface-experience
-title: 'Added mouse support to the /config panel in fullscreen mode: the wheel scrolls'
+title: Added mouse support to the /config panel in fullscreen mode
 type: change
 ---
 
-# Added mouse support to the `/config` panel in fullscreen mode: the wheel scrolls
+# Added mouse support to the `/config` panel in fullscreen mode
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.271: Added mouse support to the `/config` panel in fullscreen mode: the wheel scrolls the settings list, a click on a setting's value changes it, and the row under the pointer is highlighted

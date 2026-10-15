@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: beb29243283cf778ea97c1d62b5cbaf5d8eb6231c26fb08651f3432b37efc18c
+machine_hash: 74812aefdacdd53c389bfa76dc6938e534040be826dfffa0b331002729ed1792
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Add saved files without uploading them again. Open the composer menu on
       the web, select Add from library, and choose a file you’ve already saved.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -35,8 +35,7 @@ record:
   source_release: chatgpt-2026-08-07-chatgpt-app-experience-updates-d15f55c5
   source_type: chatgpt_changelog
   theme: interface-experience
-  title: Add saved files without uploading them again. Open the composer menu on the
-    web,
+  title: Add saved files without uploading them again
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-15-improved-terminal-layout-and-rendering-performance|claude-code-2026-07-15-216bde]]'
@@ -45,12 +44,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-07-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-08-07-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
 theme: interface-experience
-title: Add saved files without uploading them again. Open the composer menu on the
-  web,
+title: Add saved files without uploading them again
 type: change
 ---
 
-# Add saved files without uploading them again. Open the composer menu on the web,
+# Add saved files without uploading them again
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT app experience updates: Add saved files without uploading them again. Open the composer menu on the web, select Add from library, and choose a file you’ve already saved.

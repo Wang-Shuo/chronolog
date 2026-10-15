@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2023-03-23'
-machine_hash: 43e633001bc5a7476430c4b165712747666972ed1946ed4ead15244b12ad931d
+machine_hash: 017b88509096706e6b7e35a0a6c84d8d14ff7e03d5c96bcf32519a8db851e507
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,9 +42,9 @@ Tracked cards: 5
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2023-03-23-third-party-plugins-an-experimental-model-that-knows-when-and-how-to-use-externa|Third-party plugins: An experimental model that knows when and how to use extern]]
-- apps-integrations: [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here:]]
-- apps-integrations: [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-b62dc8|We are announcing experimental support for AI plugins in ChatGPT — tools designe]]
+- model-support: [[Changes/ChatGPT/2023-03-23-third-party-plugins-an-experimental-model-that-knows-when-and-how-to-use-externa|Third-party plugins: An experimental model that knows when and how to use external plugins]]
+- apps-integrations: [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- apps-integrations: [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-b62dc8|We are announcing experimental support for AI plugins in ChatGPT]]
 - search-browsing: [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
-- model-support: [[Changes/ChatGPT/2023-03-23-code-interpreter-an-experimental-chatgpt-model-that-can-use-python-and-handles-u|Code Interpreter: An experimental ChatGPT model that can use Python, and handles]]
+- model-support: [[Changes/ChatGPT/2023-03-23-code-interpreter-an-experimental-chatgpt-model-that-can-use-python-and-handles-u|Code Interpreter: An experimental ChatGPT model that can use Python, and handles…]]
 <!-- chronolog:end -->

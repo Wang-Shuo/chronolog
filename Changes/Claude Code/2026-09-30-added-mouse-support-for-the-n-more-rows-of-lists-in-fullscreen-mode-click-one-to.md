@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 3c7cbc5e5ba4fc9f6373f36e6a9c94a371b374760c1422c7fe9f1f9731cecb86
+machine_hash: 9906cb441b8e6480f32d37614eb5940963fb5f9d3424cd30ff7afad444873d27
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,7 +29,7 @@ record:
   - quote: 'Added mouse support for the "N more" rows of lists in fullscreen mode:
       click one to jump to that end of the list, with hover and pressed states'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.286
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -37,8 +37,7 @@ record:
   source_release: claude-code-2026-09-30-v2-1-286-github-400266224-9fb31eb7
   source_type: github_releases
   theme: interface-experience
-  title: 'Added mouse support for the "N more" rows of lists in fullscreen mode: click
-    one'
+  title: Added mouse support for the "N more" rows of lists in fullscreen mode
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-24-added-a-scrollbar-to-the-feedback-drafts-list-in-fullscreen-mode-it-appears-whil|claude-code-2026-09-24-7b9939]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-30-v2-1-286-github-400266224-9fb31eb7|claude-code-2026-09-30-v2-1-286-github-400266224-9fb31eb7]]'
 source_type: github_releases
 theme: interface-experience
-title: 'Added mouse support for the "N more" rows of lists in fullscreen mode: click
-  one'
+title: Added mouse support for the "N more" rows of lists in fullscreen mode
 type: change
 ---
 
-# Added mouse support for the "N more" rows of lists in fullscreen mode: click one
+# Added mouse support for the "N more" rows of lists in fullscreen mode
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.286: Added mouse support for the "N more" rows of lists in fullscreen mode: click one to jump to that end of the list, with hover and pressed states

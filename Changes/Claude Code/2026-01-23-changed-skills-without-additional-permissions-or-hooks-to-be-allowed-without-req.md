@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d565688765061bc042b985bc7736cafd9744430d1b18a8da33752fa596d34f15
+machine_hash: 423a9e7eb12a59491737c4db61ccb7fd00fa0d89617de56882e5dd1a583bad74
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Changed skills without additional permissions or hooks to be allowed without
       requiring approval
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.19
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Changed skills without additional permissions or hooks to be allowed without
-    req
+  title: Changed skills without additional permissions or hooks to be allowed without…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-20-added-support-for-pinning-plugins-to-specific-git-commit-shas-allowing-marketpla|claude-code-2026-01-20-5e4e1d]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-01-23-v2-1-19-github-279515857-4e1f7640|claude-code-2026-01-23-v2-1-19-github-279515857-4e1f7640]]'
 source_type: github_releases
 theme: apps-integrations
-title: Changed skills without additional permissions or hooks to be allowed without
-  req
+title: Changed skills without additional permissions or hooks to be allowed without…
 type: change
 ---
 
-# Changed skills without additional permissions or hooks to be allowed without req
+# Changed skills without additional permissions or hooks to be allowed without…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.19: Changed skills without additional permissions or hooks to be allowed without requiring approval

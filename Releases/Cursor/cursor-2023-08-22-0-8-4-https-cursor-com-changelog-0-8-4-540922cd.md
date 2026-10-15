@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-08-22'
-machine_hash: 5a96696dc71565def03d851af42076e8f0b96a8d820bc39e110183c81b43cb34
+machine_hash: bfaf8ec438f92d825dfa6597adf5f04304c59fae5e80937eecc5cec95194d926
 product: cursor
 product_name: Cursor
 record:
@@ -40,5 +40,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- developer-workflow: [[Changes/Cursor/2023-08-22-applies-the-patch-from-github-across-all-your-wsl-windows-subsystem-for-linux-di|Applies the patch from Github across all your WSL (Windows Subsystem for Linux)]]
+- developer-workflow: [[Changes/Cursor/2023-08-22-applies-the-patch-from-github-across-all-your-wsl-windows-subsystem-for-linux-di|Applies the patch from Github across all your WSL (Windows Subsystem for Linux)…]]
 <!-- chronolog:end -->

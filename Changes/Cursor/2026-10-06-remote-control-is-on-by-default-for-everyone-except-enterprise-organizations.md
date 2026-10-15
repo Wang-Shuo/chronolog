@@ -11,9 +11,9 @@ diffusion:
   theme: enterprise-admin
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e22e49ed7efb384d736711d9b0e991f744a1f0564439af34f3332cdecb2b50cb
+machine_hash: 012536b8467bf3842fd2b1f76004bee82ec09181d45e6e2e57fe3d3b384b4346
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Remote Control is on by default for everyone except Enterprise organizations.
     source_release: https://cursor.com/changelog/remote-control-local-agents
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -33,7 +33,7 @@ record:
   source_release: cursor-2026-10-06-remote-control-for-local-agents-https-cursor-com-changelog-remot-bb6325fd
   source_type: cursor_changelog
   theme: enterprise-admin
-  title: Remote Control is on by default for everyone except Enterprise organizations.
+  title: Remote Control is on by default for everyone except Enterprise organizations
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-09-29-dots-are-rolling-out-gradually-to-eligible-pro-and-business-premium-users-aged-1|chatgpt-2026-09-29-5031cc]]'
@@ -42,11 +42,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-10-06-remote-control-for-local-agents-https-cursor-com-changelog-remot-bb6325fd|cursor-2026-10-06-remote-control-for-local-agents-https-cursor-com-changelog-remot-bb6325fd]]'
 source_type: cursor_changelog
 theme: enterprise-admin
-title: Remote Control is on by default for everyone except Enterprise organizations.
+title: Remote Control is on by default for everyone except Enterprise organizations
 type: change
 ---
 
-# Remote Control is on by default for everyone except Enterprise organizations.
+# Remote Control is on by default for everyone except Enterprise organizations
 
 <!-- chronolog:begin region="description" -->
 Cursor — Remote control for local agents: Remote Control is on by default for everyone except Enterprise organizations.

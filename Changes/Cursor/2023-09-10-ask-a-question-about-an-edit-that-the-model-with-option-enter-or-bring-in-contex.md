@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 15305ab5fe9c1f517e97503b32a78b5d475c45956626e011a1ae51ae424baad7
+machine_hash: 0b6713ce06d23b6f1590ea03406717cb1d8939b593a0ebd78a917a8e897c48a9
 product: cursor
 product_name: Cursor
 record:
@@ -30,7 +30,7 @@ record:
       in context from the chat with @chat! An early preview, so please let us know
       what you think.
     source_release: https://cursor.com/changelog/0-10-4-nightly
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -49,7 +49,7 @@ record:
     theme: model-support
   theme_resolution: manual-semantic-rule-v1
   title: Ask a question about an edit that the model with option+enter, or bring in
-    conte
+    context…
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-08-26-have-the-advanced-context-button-show-up-for-non-git-repos|cursor-2023-08-26-3822be]]'
@@ -59,11 +59,11 @@ source_release: '[[Releases/Cursor/cursor-2023-09-10-0-10-4-nightly-https-cursor
 source_type: cursor_changelog
 theme: context-window
 title: Ask a question about an edit that the model with option+enter, or bring in
-  conte
+  context…
 type: change
 ---
 
-# Ask a question about an edit that the model with option+enter, or bring in conte
+# Ask a question about an edit that the model with option+enter, or bring in context…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Quick question and @chat in cmd+k: Ask a question about an edit that the model with option+enter, or bring in context from the chat with @chat! An early preview, so please let us know what you think.

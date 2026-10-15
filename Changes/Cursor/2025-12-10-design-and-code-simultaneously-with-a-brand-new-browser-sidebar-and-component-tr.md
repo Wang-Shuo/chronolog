@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: f140fcaf432f9e2f1686487eaed1d7939a1191b3c15aa53947fda5b35d78cd1d
+machine_hash: bebce1d88f3509b7fac4a3649757b315f2b5e17d3f5fddafeb8b5507dbb2959a
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
   - quote: Design and code simultaneously with a brand new browser sidebar and component
       tree.
     source_release: https://cursor.com/changelog/2-2
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -38,7 +38,7 @@ record:
   source_type: cursor_changelog
   theme: interface-experience
   title: Design and code simultaneously with a brand new browser sidebar and component
-    tr
+    tree
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-09-16-formatting-answers-are-better-formatted-for-quick-understanding-without-losing-d|chatgpt-2025-09-16-853082]]'
@@ -48,11 +48,11 @@ source_release: '[[Releases/Cursor/cursor-2025-12-10-2-2-https-cursor-com-change
 source_type: cursor_changelog
 theme: interface-experience
 title: Design and code simultaneously with a brand new browser sidebar and component
-  tr
+  tree
 type: change
 ---
 
-# Design and code simultaneously with a brand new browser sidebar and component tr
+# Design and code simultaneously with a brand new browser sidebar and component tree
 
 <!-- chronolog:begin region="description" -->
 Cursor — Debug Mode, Plan Mode Improvements, Multi-Agent Judging, and Pinned Chats: Design and code simultaneously with a brand new browser sidebar and component tree.

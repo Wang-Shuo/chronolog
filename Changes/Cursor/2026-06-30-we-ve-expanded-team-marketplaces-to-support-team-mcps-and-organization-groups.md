@@ -11,9 +11,9 @@ diffusion:
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: ebba5326f35615d21b741918a59772a467b799600de6aa3386fae8e29e276fe6
+machine_hash: 30c75118dfd152da64c3a71b3094c261739003cd67218c779ba24ee76b14a036
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
   - quote: We've expanded team marketplaces to support Team MCPs and organization
       groups.
     source_release: https://cursor.com/changelog/team-marketplace-updates
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -36,7 +36,7 @@ record:
   source_release: cursor-2026-06-30-3-10-https-cursor-com-changelog-team-marketplace-updates-eb3caab2
   source_type: cursor_changelog
   theme: collaboration
-  title: We've expanded team marketplaces to support Team MCPs and organization groups.
+  title: Cursor expands team marketplaces to support Team MCPs and organization groups
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-06-22-cursor-now-shows-you-a-leaderboard-of-the-most-popular-plugins-skills-and-mcps-a|cursor-2026-06-22-d630c9]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-06-30-3-10-https-cursor-com-changelog-team-marketplace-updates-eb3caab2|cursor-2026-06-30-3-10-https-cursor-com-changelog-team-marketplace-updates-eb3caab2]]'
 source_type: cursor_changelog
 theme: collaboration
-title: We've expanded team marketplaces to support Team MCPs and organization groups.
+title: Cursor expands team marketplaces to support Team MCPs and organization groups
 type: change
 ---
 
-# We've expanded team marketplaces to support Team MCPs and organization groups.
+# Cursor expands team marketplaces to support Team MCPs and organization groups
 
 <!-- chronolog:begin region="description" -->
 Cursor — MCPs and Organizations in Team Marketplaces: We've expanded team marketplaces to support Team MCPs and organization groups.

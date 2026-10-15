@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 97428de7cdd4e9f617f0c5432aefeb4263207edba5e6cc48b361cc410bc528d5
+machine_hash: ee4ab419ebfc1774b4047ae1b32577bceaeafb736fa837c73b9f56ab20c76737
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Improved auto mode to ask before running `rm -rf` on a variable it can't
       resolve from context
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.205
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -45,7 +45,7 @@ record:
     theme: context-window
   theme_resolution: manual-semantic-rule-v1
   title: Improved auto mode to ask before running `rm -rf` on a variable it can't
-    resolve
+    resolve…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-08-added-cd-command-to-move-a-session-to-a-new-working-directory-without-breaking-t|claude-code-2026-06-08-c60825]]'
@@ -54,11 +54,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-08-v2-1-205-github-351140412-aeced5ba|claude-code-2026-07-08-v2-1-205-github-351140412-aeced5ba]]'
 source_type: github_releases
 theme: context-window
-title: Improved auto mode to ask before running rm -rf on a variable it can't resolve
+title: Improved auto mode to ask before running rm -rf on a variable it can't resolve…
 type: change
 ---
 
-# Improved auto mode to ask before running `rm -rf` on a variable it can't resolve
+# Improved auto mode to ask before running `rm -rf` on a variable it can't resolve…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.205: Improved auto mode to ask before running `rm -rf` on a variable it can't resolve from context

@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6d386bd9804e1a7824500190436ea6c5715fa17c618e4b428434a7b8519432d4
+machine_hash: 87028c65505db787e11fb561b904049b15a34c30ed64d102409601919c383a64
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       findings as inline GitHub PR comments. The old cleanup-and-fix behavior has
       been removed
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.147
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,8 +38,7 @@ record:
   source_release: claude-code-2026-05-21-v2-1-147-github-327133263-73928fcd
   source_type: github_releases
   theme: developer-workflow
-  title: Renamed `/simplify` to `/code-review`. It now reports correctness bugs at
-    a chos
+  title: Renamed `/simplify` to `/code-review`
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-13-to-make-it-easier-to-change-debug-and-review-environment-definitions-we-have-imp|cursor-2026-05-13-a0dc0e]]'
@@ -48,11 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-21-v2-1-147-github-327133263-73928fcd|claude-code-2026-05-21-v2-1-147-github-327133263-73928fcd]]'
 source_type: github_releases
 theme: developer-workflow
-title: Renamed /simplify to /code-review. It now reports correctness bugs at a chos
+title: Renamed /simplify to /code-review
 type: change
 ---
 
-# Renamed `/simplify` to `/code-review`. It now reports correctness bugs at a chos
+# Renamed `/simplify` to `/code-review`
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.147: Renamed `/simplify` to `/code-review`. It now reports correctness bugs at a chosen effort level (e.g., `/code-review high`); pass `--comment` to post findings as inline GitHub PR comments. The old cleanup-and-fix behavior has been removed

@@ -11,9 +11,9 @@ diffusion:
   theme: enterprise-admin
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3ab2886bdf117c39d702a9f429ec2a96d005c326c7cc5ef88402a85ca03d5b71
+machine_hash: 232a7889929a1ce0ed36ff42e1d8726bdcce17aeadafc10f29f0efc01d3fe20f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       Area, Switzerland, and the UK at launch. Enterprise access is a beta and is
       off by default. Create your dot in the ChatGPT desktop app or on desktop web.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -50,7 +50,7 @@ record:
     theme: mobile-desktop
   theme_resolution: manual-semantic-rule-v1
   title: Dots are rolling out gradually to eligible Pro and Business Premium users
-    aged 1
+    aged 18…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-09-10-box-dropbox-and-sharepoint-integrations-are-now-rolling-out-to-go-plus-pro-busin|chatgpt-2026-09-10-b97838]]'
@@ -60,11 +60,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-meet-your-dot-8b9f914b|ch
 source_type: chatgpt_changelog
 theme: enterprise-admin
 title: Dots are rolling out gradually to eligible Pro and Business Premium users aged
-  1
+  18…
 type: change
 ---
 
-# Dots are rolling out gradually to eligible Pro and Business Premium users aged 1
+# Dots are rolling out gradually to eligible Pro and Business Premium users aged 18…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Meet your dot: Dots are rolling out gradually to eligible Pro and Business Premium users aged 18 and older in supported markets. Pro access excludes the European Economic Area, Switzerland, and the UK at launch. Enterprise access is a beta and is off by default. Create your dot in the ChatGPT desktop app or on desktop web.

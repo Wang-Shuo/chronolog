@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ac146e312b829ad2f44adaf2926eff0f7002adc0e69ed0e1668e6d634c27a538
+machine_hash: 5b010d24fa25f1d08223e10becad0e17b5bbb11bba2daf4262a3d696626f5c9e
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: 'UPDATE (0.20.1-0.20.2): We added TLDRs to make it easier to sort through
       the bugs flagged by the AI review and fixed a bug with "Diff with Main."'
     source_release: https://cursor.com/changelog/0-20-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -38,7 +38,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: 'UPDATE (0.20.1-0.20.2): We added TLDRs to make it easier to sort through
-    the bug'
+    the bugs…'
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-11-30-more-reliable-copilot-changes-less-flashing-better-highlighting-of-what-s-new|cursor-2023-11-30-ba8f3b]]'
@@ -48,11 +48,11 @@ source_release: '[[Releases/Cursor/cursor-2023-12-16-0-20-0-https-cursor-com-cha
 source_type: cursor_changelog
 theme: editor-experience
 title: 'UPDATE (0.20.1-0.20.2): We added TLDRs to make it easier to sort through the
-  bug'
+  bugs…'
 type: change
 ---
 
-# UPDATE (0.20.1-0.20.2): We added TLDRs to make it easier to sort through the bug
+# UPDATE (0.20.1-0.20.2): We added TLDRs to make it easier to sort through the bugs…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Copilot++, @ previews, AI Review: UPDATE (0.20.1-0.20.2): We added TLDRs to make it easier to sort through the bugs flagged by the AI review and fixed a bug with "Diff with Main."

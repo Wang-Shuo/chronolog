@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 7bdf4c521fe90212dc2997c90f9810a609c0216ef501d4656126f86321b8ea4a
+machine_hash: 9438c8dd7e51fcdabef77029e303a1e074fecf87303fbbc022d904ea7d4d96fe
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
   - quote: Since we released Background Agent, our remote coding agent, in early access
       a few weeks ago, early signals have been positive.
     source_release: https://cursor.com/changelog/1-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -38,7 +38,7 @@ record:
   source_type: cursor_changelog
   theme: agent-mode
   title: Since we released Background Agent, our remote coding agent, in early access
-    a f
+    a few…
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-04-15-we-ve-also-fixed-a-long-standing-issue-where-always-attached-rules-now-persist-a|cursor-2025-04-15-1d3ec5]]'
@@ -48,11 +48,11 @@ source_release: '[[Releases/Cursor/cursor-2025-06-04-1-0-https-cursor-com-change
 source_type: cursor_changelog
 theme: agent-mode
 title: Since we released Background Agent, our remote coding agent, in early access
-  a f
+  a few…
 type: change
 ---
 
-# Since we released Background Agent, our remote coding agent, in early access a f
+# Since we released Background Agent, our remote coding agent, in early access a few…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Bugbot, Background Agent access to everyone, and one-click MCP install: Since we released Background Agent, our remote coding agent, in early access a few weeks ago, early signals have been positive.

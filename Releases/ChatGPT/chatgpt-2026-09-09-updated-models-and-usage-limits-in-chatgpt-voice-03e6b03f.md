@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2026-09-09'
-machine_hash: 1af4f2011b5f71350b9cd582ee72c9ba99e8b4f269cde93e9a9be235e69576b0
+machine_hash: 1564683c69633372c35db46bb8e77182b4142c98411f494bcc1db09304fbd691
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,6 +41,6 @@ Tracked cards: 2
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2026-09-09-chatgpt-voice-can-now-use-gpt-5-6-or-gpt-6-astra-when-it-needs-to-search-or-reas|ChatGPT Voice can now use GPT-5.6 or GPT-6 Astra when it needs to search or reas]]
-- pricing-model: [[Changes/ChatGPT/2026-09-09-pro-100-month-up-to-15-hours-with-gpt-live-1|Pro ($100/month): Up to 15 hours with GPT-Live-1.]]
+- model-support: [[Changes/ChatGPT/2026-09-09-chatgpt-voice-can-now-use-gpt-5-6-or-gpt-6-astra-when-it-needs-to-search-or-reas|ChatGPT Voice can now use GPT-5.6 or GPT-6 Astra when it needs to search or reason…]]
+- pricing-model: [[Changes/ChatGPT/2026-09-09-pro-100-month-up-to-15-hours-with-gpt-live-1|Pro ($100/month): Up to 15 hours with GPT-Live-1]]
 <!-- chronolog:end -->

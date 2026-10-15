@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9534e148380ae591dbcd60d3892f355d124ed80a95a0d258f05d57454e8caabb
+machine_hash: 96e79688ef378a3766ad379252225eb8947084b4c039468132e6f8cf1a9d942f
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Improved `claude agents` completed list to fill available vertical space;
       on short terminals the header compacts so live sessions stay visible
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.195
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,8 +35,7 @@ record:
   source_release: claude-code-2026-06-26-v2-1-195-github-345467919-2d39e460
   source_type: github_releases
   theme: agent-mode
-  title: Improved `claude agents` completed list to fill available vertical space;
-    on sho
+  title: Improved `claude agents` completed list to fill available vertical space
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-22-added-status-filtering-press-f-to-the-workflows-agent-detail-view|claude-code-2026-06-22-f1d8a2]]'
@@ -45,12 +44,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-26-v2-1-195-github-345467919-2d39e460|claude-code-2026-06-26-v2-1-195-github-345467919-2d39e460]]'
 source_type: github_releases
 theme: agent-mode
-title: Improved claude agents completed list to fill available vertical space; on
-  sho
+title: Improved claude agents completed list to fill available vertical space
 type: change
 ---
 
-# Improved `claude agents` completed list to fill available vertical space; on sho
+# Improved `claude agents` completed list to fill available vertical space
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.195: Improved `claude agents` completed list to fill available vertical space; on short terminals the header compacts so live sessions stay visible

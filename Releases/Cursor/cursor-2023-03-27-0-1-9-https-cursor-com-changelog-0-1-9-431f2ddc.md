@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2023-03-27'
-machine_hash: 28e73fcdba4dc6ff456aa8b088e93e3baee866f523a3b13ebfd1e81b4a3dc7fe
+machine_hash: 863b57e4301f9ce6275c149c66573c0149f49fe0ef157f1b8dabe4c67f35a0bc
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ Tracked cards: 3
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- pricing-model: [[Changes/Cursor/2023-03-27-adds-an-optional-paid-plan-if-you-d-like-to-avoid-the-server-capacity-rate-limit|Adds an optional paid plan if you'd like to avoid the server capacity rate limit]]
+- pricing-model: [[Changes/Cursor/2023-03-27-adds-an-optional-paid-plan-if-you-d-like-to-avoid-the-server-capacity-rate-limit|Adds an optional paid plan if you'd like to avoid the server capacity rate limits]]
 - interface-experience: [[Changes/Cursor/2023-03-27-changes-autoupdate-to-notify-you-when-there-s-a-new-version|Changes autoupdate to notify you when there's a new version]]
 - developer-workflow: [[Changes/Cursor/2023-03-27-opens-the-terminal-in-your-current-folder|Opens the terminal in your current folder]]
 <!-- chronolog:end -->

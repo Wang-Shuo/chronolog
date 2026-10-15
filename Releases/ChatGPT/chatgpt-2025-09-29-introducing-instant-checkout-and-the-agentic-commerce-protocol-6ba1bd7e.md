@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2025-09-29'
-machine_hash: 0aef785e4db07090ba5d1e884ac1a9d9bac097479476f8220567ba8d5d457b73
+machine_hash: 651bb81a84cb54cd15b144ebf20b76c3fd86b8346d268fc7dec9ab754157ef15
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,7 +42,7 @@ Tracked cards: 3
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- search-browsing: [[Changes/ChatGPT/2025-09-29-instant-checkout-makes-it-easy-to-go-from-chat-to-checkout-in-just-a-few-taps|Instant Checkout makes it easy to go from chat to checkout in just a few taps.]]
-- agent-mode: [[Changes/ChatGPT/2025-09-29-we-re-introducing-instant-checkout-in-chatgpt-and-the-agentic-commerce-protocol-8cbf19|We’re introducing Instant Checkout in ChatGPT and the Agentic Commerce Protocol]]
-- search-browsing: [[Changes/ChatGPT/2025-09-29-ask-chatgpt-a-shopping-question-and-it-finds-organic-unsponsored-product-results|Ask ChatGPT a shopping question and it finds organic, unsponsored product result]]
+- search-browsing: [[Changes/ChatGPT/2025-09-29-instant-checkout-makes-it-easy-to-go-from-chat-to-checkout-in-just-a-few-taps|Instant Checkout makes it easy to go from chat to checkout in just a few taps]]
+- agent-mode: [[Changes/ChatGPT/2025-09-29-we-re-introducing-instant-checkout-in-chatgpt-and-the-agentic-commerce-protocol-8cbf19|ChatGPT introduces Instant Checkout and the Agentic Commerce Protocol that powers…]]
+- search-browsing: [[Changes/ChatGPT/2025-09-29-ask-chatgpt-a-shopping-question-and-it-finds-organic-unsponsored-product-results|Ask ChatGPT a shopping question and it finds organic, unsponsored product results…]]
 <!-- chronolog:end -->

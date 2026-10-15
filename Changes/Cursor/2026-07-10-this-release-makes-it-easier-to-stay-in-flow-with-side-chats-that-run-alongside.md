@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: fcf33269384f6268573a043fee8e9264d7f931ea4d4cdfe0d385f014a22e7de8
+machine_hash: abc594700684190877146caa57dd5f786d80545789a39f4f27df13559437aea5
 product: cursor
 product_name: Cursor
 record:
@@ -30,7 +30,7 @@ record:
       your main chat, the ability to search agent transcripts, and simplified project
       and repo pickers.
     source_release: https://cursor.com/changelog/side-chat
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -38,7 +38,8 @@ record:
   source_release: cursor-2026-07-10-3-11-https-cursor-com-changelog-side-chat-c762410d
   source_type: cursor_changelog
   theme: agent-mode
-  title: This release makes it easier to stay in flow with side chats that run alongside
+  title: Cursor makes it easier to stay in flow with side chats that run alongside
+    your main…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-08-improved-agent-view-sessions-that-edit-merge-comment-on-or-push-to-an-existing-p|claude-code-2026-07-08-bbb222]]'
@@ -47,11 +48,12 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-07-10-3-11-https-cursor-com-changelog-side-chat-c762410d|cursor-2026-07-10-3-11-https-cursor-com-changelog-side-chat-c762410d]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: This release makes it easier to stay in flow with side chats that run alongside
+title: Cursor makes it easier to stay in flow with side chats that run alongside your
+  main…
 type: change
 ---
 
-# This release makes it easier to stay in flow with side chats that run alongside
+# Cursor makes it easier to stay in flow with side chats that run alongside your main…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Side Chats and Conversation Search: This release makes it easier to stay in flow with side chats that run alongside your main chat, the ability to search agent transcripts, and simplified project and repo pickers.

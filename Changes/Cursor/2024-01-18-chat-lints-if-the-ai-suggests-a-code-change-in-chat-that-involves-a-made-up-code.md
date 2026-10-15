@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ca5655001030745bd03dc0645c7e386c73b05a73d17cd3a8b33d54b1d673ed07
+machine_hash: 527c712fa4f2a7d7afc3479a97604bc32239ef21b7d5583a4836543da6f464c5
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: 'Chat lints: If the AI suggests a code change in chat that involves a made
       up code symbol, we''ll underline it. Available for Python, Typescript, Rust.'
     source_release: https://cursor.com/changelog/0-23-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -38,7 +38,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: 'Chat lints: If the AI suggests a code change in chat that involves a made
-    up cod'
+    up code…'
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-01-06-upgrades-cursor-to-vs-code-1-85-which-comes-with-support-for-dragging-out-tabs-i|cursor-2024-01-06-8d431d]]'
@@ -48,11 +48,11 @@ source_release: '[[Releases/Cursor/cursor-2024-01-18-0-23-x-https-cursor-com-cha
 source_type: cursor_changelog
 theme: editor-experience
 title: 'Chat lints: If the AI suggests a code change in chat that involves a made
-  up cod'
+  up code…'
 type: change
 ---
 
-# Chat lints: If the AI suggests a code change in chat that involves a made up cod
+# Chat lints: If the AI suggests a code change in chat that involves a made up code…
 
 <!-- chronolog:begin region="description" -->
 Cursor — New Model, Apply Button v2: Chat lints: If the AI suggests a code change in chat that involves a made up code symbol, we'll underline it. Available for Python, Typescript, Rust.

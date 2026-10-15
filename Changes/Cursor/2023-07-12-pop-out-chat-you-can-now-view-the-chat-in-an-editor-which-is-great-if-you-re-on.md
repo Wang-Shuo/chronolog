@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: be02d79d0993a0d549ebd6eb839f4a1d36f69e86326b6b568e3ae3ab4efc2333
+machine_hash: 15cb95ffe97facecb8070c7322356635d5a31544f64c281f44f634a61ebd4478
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Pop-out chat! You can now view the chat in an editor, which is great if
       you're on a small screen.
     source_release: https://cursor.com/changelog/0-2-48-nightly
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -34,8 +34,7 @@ record:
   source_release: cursor-2023-07-12-0-2-48-nightly-https-cursor-com-changelog-0-2-48-nightly-d738eefc
   source_type: cursor_changelog
   theme: editor-experience
-  title: Pop-out chat! You can now view the chat in an editor, which is great if you're
-    o
+  title: Pop-out chat!
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-07-03-long-code-selections-no-longer-brick-the-editor|cursor-2023-07-03-1a9c7d]]'
@@ -44,12 +43,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-07-12-0-2-48-nightly-https-cursor-com-changelog-0-2-48-nightly-d738eefc|cursor-2023-07-12-0-2-48-nightly-https-cursor-com-changelog-0-2-48-nightly-d738eefc]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: Pop-out chat! You can now view the chat in an editor, which is great if you're
-  o
+title: Pop-out chat!
 type: change
 ---
 
-# Pop-out chat! You can now view the chat in an editor, which is great if you're o
+# Pop-out chat!
 
 <!-- chronolog:begin region="description" -->
 Cursor — Small things!: Pop-out chat! You can now view the chat in an editor, which is great if you're on a small screen.

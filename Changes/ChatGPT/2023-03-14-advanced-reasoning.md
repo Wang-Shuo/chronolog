@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 2e14f72ad5ef3f793c8d1c5e6f124944f20c69a5fceb4596b48d1970d602f5f9
+machine_hash: 33167dfe72c2292c76c25c642cf32581bda63d10e8bebf424adf6d264fd07f47
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,7 +24,7 @@ record:
   evidence:
   - quote: Advanced reasoning
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT

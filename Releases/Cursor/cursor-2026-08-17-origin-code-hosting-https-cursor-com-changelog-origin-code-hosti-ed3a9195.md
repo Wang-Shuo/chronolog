@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2026-08-17'
-machine_hash: fcd3c51b04bc9466c0929c1ed8de965e2fae3fbf63ad28eae6d20c0570be8101
+machine_hash: 07be540cfc3bbdfdc9e304172603d453e45f7189ebf4127ae05fd5510e8f495d
 product: cursor
 product_name: Cursor
 record:
@@ -38,6 +38,6 @@ Tracked cards: 2
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- search-browsing: [[Changes/Cursor/2026-08-17-origin-begins-rolling-out-today-in-early-beta-on-all-paid-plans-we-re-starting-w|Origin begins rolling out today in early beta on all paid plans. We're starting]]
-- editor-experience: [[Changes/Cursor/2026-08-17-the-new-codebase-tab-is-home-for-origin-repos|The new Codebase tab is home for Origin repos.]]
+- search-browsing: [[Changes/Cursor/2026-08-17-origin-begins-rolling-out-today-in-early-beta-on-all-paid-plans-we-re-starting-w|Origin begins rolling out today in early beta on all paid plans]]
+- editor-experience: [[Changes/Cursor/2026-08-17-the-new-codebase-tab-is-home-for-origin-repos|The new Codebase tab is home for Origin repos]]
 <!-- chronolog:end -->

@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 2ead0a526cca98ebc09a9e0e4116887d1e28f0d0e7b61577a89bd41a96cf0b61
+machine_hash: 2bcb460052841042a2d10a08b93a99333d3f777b68cc0cbb6700e359ddbd6e06
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Cursor Tab now auto-imports symbols in Python files! We've also significantly
       improved the Cursor Tab stability.
     source_release: https://cursor.com/changelog/0-41-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -45,8 +45,7 @@ record:
     score: 50
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v1
-  title: Cursor Tab now auto-imports symbols in Python files! We've also significantly
-    im
+  title: Cursor Tab now auto-imports symbols in Python files!
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-07-23-copilot-now-has-chunked-streaming-currently-in-beta-it-will-surface-edits-faster|cursor-2024-07-23-8546d5]]'
@@ -55,12 +54,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-09-17-0-41-x-https-cursor-com-changelog-0-41-x-a8b13ea8|cursor-2024-09-17-0-41-x-https-cursor-com-changelog-0-41-x-a8b13ea8]]'
 source_type: cursor_changelog
 theme: reliability-performance
-title: Cursor Tab now auto-imports symbols in Python files! We've also significantly
-  im
+title: Cursor Tab now auto-imports symbols in Python files!
 type: change
 ---
 
-# Cursor Tab now auto-imports symbols in Python files! We've also significantly im
+# Cursor Tab now auto-imports symbols in Python files!
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cursor Tab Python Auto Import, Composer Improvements, Remote SSH to Mac Support: Cursor Tab now auto-imports symbols in Python files! We've also significantly improved the Cursor Tab stability.

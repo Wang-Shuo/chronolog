@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: c6b4abe927baa7de12bf1fc133e9da32f06948cfa87752d715cf0cca91a0e560
+machine_hash: c5a9cf37911b900892a3dbea0bd134b8e89fa995809ab76c359f1b727cfd073b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
       of the page. Depending on feedback, we may roll out this feature (or just Turbo)
       to all users soon.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -37,7 +37,7 @@ record:
   source_type: chatgpt_changelog
   theme: interface-experience
   title: Version selection is made easy with a dedicated dropdown menu at the top
-    of the
+    of the page
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|chatgpt-2023-01-09-254e7f]]'
@@ -45,11 +45,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2023-02-09-introducing-chatgpt-plus-
 source_type: chatgpt_changelog
 theme: interface-experience
 title: Version selection is made easy with a dedicated dropdown menu at the top of
-  the
+  the page
 type: change
 ---
 
-# Version selection is made easy with a dedicated dropdown menu at the top of the
+# Version selection is made easy with a dedicated dropdown menu at the top of the page
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Introducing ChatGPT Plus: Version selection is made easy with a dedicated dropdown menu at the top of the page. Depending on feedback, we may roll out this feature (or just Turbo) to all users soon.

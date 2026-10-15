@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9f92cfa395298f72fa0deabc6cdec8c8563d9d79187c4f67b6a1cc0244028ff7
+machine_hash: e660f1182d202508962909ad04e9717ca32a3c45e67c974f42cc3a57e395f50b
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       wait entirely, and bounded `--mcp-config` server connections at 5s instead of
       blocking on the slowest server
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.89
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,7 +36,7 @@ record:
   source_release: claude-code-2026-04-01-v2-1-89-github-303967782-358023f0
   source_type: github_releases
   theme: apps-integrations
-  title: Added `MCP_CONNECTION_NONBLOCKING=true` for `-p` mode to skip the MCP connection
+  title: Added `MCP_CONNECTION_NONBLOCKING=true` for `-p` mode to skip the MCP connection…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-26-deep-link-queries-claude-cli-open-q-now-support-up-to-5-000-characters-with-a-sc|claude-code-2026-03-26-7f4ed1]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-01-v2-1-89-github-303967782-358023f0|claude-code-2026-04-01-v2-1-89-github-303967782-358023f0]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added MCP_CONNECTION_NONBLOCKING=true for -p mode to skip the MCP connection
+title: Added MCP_CONNECTION_NONBLOCKING=true for -p mode to skip the MCP connection…
 type: change
 ---
 
-# Added `MCP_CONNECTION_NONBLOCKING=true` for `-p` mode to skip the MCP connection
+# Added `MCP_CONNECTION_NONBLOCKING=true` for `-p` mode to skip the MCP connection…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.89: Added `MCP_CONNECTION_NONBLOCKING=true` for `-p` mode to skip the MCP connection wait entirely, and bounded `--mcp-config` server connections at 5s instead of blocking on the slowest server

@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 5892a9c2b89cd8b8a61050f97890163f38e68cd6498a17ce890e44272e41df83
+machine_hash: 5b43adfa5bb771af54b0783c1b0cb13b729995e97f4c89022f7bdabe2259ef38
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Added support for Windows Package Manager (winget) installations with automatic
       detection and update instructions
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.2
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -38,7 +38,7 @@ record:
   theme: mobile-desktop
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Added support for Windows Package Manager (winget) installations with automatic
+  title: Added support for Windows Package Manager (winget) installations with automatic…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-12-18-you-can-now-pin-chats-to-the-top-of-your-list-for-quick-access-to-important-conv|chatgpt-2025-12-18-ed71ce]]'
@@ -47,11 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-01-09-v2-1-2-github-275344737-27089666|claude-code-2026-01-09-v2-1-2-github-275344737-27089666]]'
 source_type: github_releases
 theme: mobile-desktop
-title: Added support for Windows Package Manager (winget) installations with automatic
+title: Added support for Windows Package Manager (winget) installations with automatic…
 type: change
 ---
 
-# Added support for Windows Package Manager (winget) installations with automatic
+# Added support for Windows Package Manager (winget) installations with automatic…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.2: Added support for Windows Package Manager (winget) installations with automatic detection and update instructions

@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6c87e41c2824b14a17ec9f9a5bbd942121e8ce58923cfe8ed3de70ab99b004fb
+machine_hash: 1d6237a64e2077dc83acda129ec2684033413e5a7c26a056290892aac29f256a
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Turns off the auto-install of the "cursor ." command (and fixes its install
       altogether)
     source_release: https://cursor.com/changelog/0-2-2
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: Turns off the auto-install of the "cursor ." command (and fixes its install
-    alto
+    altogether)
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-03-18-built-in-terminal|cursor-2023-03-18-76a713]]'
@@ -46,11 +46,11 @@ source_release: '[[Releases/Cursor/cursor-2023-04-07-0-2-2-https-cursor-com-chan
 source_type: cursor_changelog
 theme: developer-workflow
 title: Turns off the auto-install of the "cursor ." command (and fixes its install
-  alto
+  altogether)
 type: change
 ---
 
-# Turns off the auto-install of the "cursor ." command (and fixes its install alto
+# Turns off the auto-install of the "cursor ." command (and fixes its install altogether)
 
 <!-- chronolog:begin region="description" -->
 Cursor — Bug Fixes Galore (2023-04-07): Turns off the auto-install of the "cursor ." command (and fixes its install altogether)

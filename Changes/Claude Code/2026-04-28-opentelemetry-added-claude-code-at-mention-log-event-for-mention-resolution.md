@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 913e31e56e110dfe160bd441561fb821e4f82b81abf98feb75487105feb5fc29
+machine_hash: d9601b9ac63346d8aed8b8eced33280249164be02bfcb848a55ab67c4bb325c4
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: 'OpenTelemetry: added `claude_code.at_mention` log event for `@`-mention
       resolution'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.122
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: 'OpenTelemetry: added `claude_code.at_mention` log event for `@`-mention
-    resoluti'
+    resolution'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-17-changed-the-cli-to-spawn-a-native-claude-code-binary-via-a-per-platform-optional|claude-code-2026-04-17-14de45]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-28-v2-1-122-github-314740479-0cc42196|claude-code-2026-04-28-v2-1-122-github-314740479-0cc42196]]'
 source_type: github_releases
 theme: developer-workflow
-title: 'OpenTelemetry: added claude_code.at_mention log event for @-mention resoluti'
+title: 'OpenTelemetry: added claude_code.at_mention log event for @-mention resolution'
 type: change
 ---
 
-# OpenTelemetry: added `claude_code.at_mention` log event for `@`-mention resoluti
+# OpenTelemetry: added `claude_code.at_mention` log event for `@`-mention resolution
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.122: OpenTelemetry: added `claude_code.at_mention` log event for `@`-mention resolution

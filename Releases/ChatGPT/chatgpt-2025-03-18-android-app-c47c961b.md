@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-03-18'
-machine_hash: f0c0a4514e2ac50b1c4b943373d85bd29b49d06409f5fb8d7060ad50af125ffe
+machine_hash: 22bf3d7ef029851c273b1c6e99cbf04690d3b2fcf648a48ae275e3336c7194ee
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,5 +38,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- image-generation: [[Changes/ChatGPT/2025-03-18-1-increased-the-default-size-for-in-line-generated-images|1⁠. Increased the default size for in‐line generated images.]]
+- image-generation: [[Changes/ChatGPT/2025-03-18-1-increased-the-default-size-for-in-line-generated-images|Increased the default size for in‐line generated images]]
 <!-- chronolog:end -->

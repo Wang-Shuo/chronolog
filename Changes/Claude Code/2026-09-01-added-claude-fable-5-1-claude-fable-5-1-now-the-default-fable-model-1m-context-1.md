@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 01f6b2d3b9f4524f81939e077e4a6a048ebbdb847625c050760c923c36abd561
+machine_hash: 3d32ccee6143b32e812adb9cec9697f5c9fad4cb82472e51f70026cbbf687bac
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,7 +29,7 @@ record:
   - quote: Added Claude Fable 5.1 (`claude-fable-5-1`), now the default Fable model
       — 1M context, $10/$50 per Mtok with $0.25/Mtok cache reads
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.257
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -48,7 +48,6 @@ record:
     theme: model-support
   theme_resolution: manual-semantic-rule-v2
   title: Added Claude Fable 5.1 (`claude-fable-5-1`), now the default Fable model
-    — 1M co
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-19-added-anthropic-default-model-environment-variable-sets-the-model-new-sessions-s|claude-code-2026-08-19-27fec2]]'
@@ -57,12 +56,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6|claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6]]'
 source_type: github_releases
 theme: model-support
-title: Added Claude Fable 5.1 (claude-fable-5-1), now the default Fable model — 1M
-  co
+title: Added Claude Fable 5.1 (claude-fable-5-1), now the default Fable model
 type: change
 ---
 
-# Added Claude Fable 5.1 (`claude-fable-5-1`), now the default Fable model — 1M co
+# Added Claude Fable 5.1 (`claude-fable-5-1`), now the default Fable model
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.257: Added Claude Fable 5.1 (`claude-fable-5-1`), now the default Fable model — 1M context, $10/$50 per Mtok with $0.25/Mtok cache reads

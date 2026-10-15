@@ -11,9 +11,9 @@ diffusion:
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: c3f7c6107129cd3989e416d9359406e6f047e11dba38c82570429594feb1a6d9
+machine_hash: c8eed8e6a8c5aa4de2bd1ecbc639b86170be5d7d9f927cc5b677e3262a0b0378
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
   - quote: 'Plugins now support prebuilt canvases: shared setup templates your team
       can open and reuse.'
     source_release: https://cursor.com/changelog/customize
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -47,7 +47,7 @@ record:
     theme: collaboration
   theme_resolution: manual-semantic-rule-v1
   title: 'Plugins now support prebuilt canvases: shared setup templates your team
-    can open'
+    can open and reuse'
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-06-03-a-user-can-belong-to-more-than-one-team-with-a-different-role-in-each-for-curren|cursor-2026-06-03-af2e9e]]'
@@ -57,11 +57,11 @@ source_release: '[[Releases/Cursor/cursor-2026-06-22-3-9-https-cursor-com-change
 source_type: cursor_changelog
 theme: collaboration
 title: 'Plugins now support prebuilt canvases: shared setup templates your team can
-  open'
+  open and reuse'
 type: change
 ---
 
-# Plugins now support prebuilt canvases: shared setup templates your team can open
+# Plugins now support prebuilt canvases: shared setup templates your team can open and reuse
 
 <!-- chronolog:begin region="description" -->
 Cursor — Customize Cursor: Plugins now support prebuilt canvases: shared setup templates your team can open and reuse.

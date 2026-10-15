@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2026-09-03'
-machine_hash: 82f06ff7edcd02003f275a0a6c34b0d34bda84a7866c2d8a7c2986914942c09b
+machine_hash: 1380ef3c4dd4088f6f8a899420544fd04fe3e2b1116d89ee4e9657a99b47a415
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,6 +41,6 @@ Tracked cards: 2
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- apps-integrations: [[Changes/ChatGPT/2026-09-03-the-onenote-plugin-helps-you-find-and-summarize-notes-gather-decisions-and-actio|The OneNote plugin helps you find and summarize notes, gather decisions and acti]]
-- apps-integrations: [[Changes/ChatGPT/2026-09-03-today-we-added-the-zendesk-and-onenote-plugins-in-the-plugin-directory-the-zende|Today, we added the Zendesk and OneNote plugins in the Plugin directory. The Zen]]
+- apps-integrations: [[Changes/ChatGPT/2026-09-03-the-onenote-plugin-helps-you-find-and-summarize-notes-gather-decisions-and-actio|The OneNote plugin helps you find and summarize notes, gather decisions and action…]]
+- apps-integrations: [[Changes/ChatGPT/2026-09-03-today-we-added-the-zendesk-and-onenote-plugins-in-the-plugin-directory-the-zende|Today, we added the Zendesk and OneNote plugins in the Plugin directory]]
 <!-- chronolog:end -->

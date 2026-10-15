@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 216970e3c844e2203991fa4937fb07055df49c42ba97b2e2ff38e5a127bf32d7
+machine_hash: bff0a60e16033a393a6d35f47f658cb3b2d606891a1ccdfb6cc395d7fdc02ca2
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: '@ folders: You can now use the @ symbol to reference specific folders!
       We''ll try to pick out the most relevant code snippets to show the AI.'
     source_release: https://cursor.com/changelog/0-17-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,8 +37,7 @@ record:
   theme: context-window
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: '@ folders: You can now use the @ symbol to reference specific folders! We''ll
-    try'
+  title: '@ folders: You can now use the @ symbol to reference specific folders!'
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-11-10-copilot-beta-this-is-an-add-on-to-copilot-that-suggests-diffs-around-your-cursor|cursor-2023-11-10-2c3c8d]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-11-27-0-17-0-https-cursor-com-changelog-0-17-0-871d6ce3|cursor-2023-11-27-0-17-0-https-cursor-com-changelog-0-17-0-871d6ce3]]'
 source_type: cursor_changelog
 theme: context-window
-title: '@ folders: You can now use the @ symbol to reference specific folders! We''ll
-  try'
+title: '@ folders: You can now use the @ symbol to reference specific folders!'
 type: change
 ---
 
-# @ folders: You can now use the @ symbol to reference specific folders! We'll try
+# @ folders: You can now use the @ symbol to reference specific folders!
 
 <!-- chronolog:begin region="description" -->
 Cursor — Image Support, Interpreter Mode Beta, @ Folders: @ folders: You can now use the @ symbol to reference specific folders! We'll try to pick out the most relevant code snippets to show the AI.

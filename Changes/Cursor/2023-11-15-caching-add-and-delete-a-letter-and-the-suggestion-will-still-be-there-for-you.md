@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0029595b1d999f28b1032913ede00b977b61fa02e9481c48e0467410c1d48a4e
+machine_hash: e2341fb586248fcde36d492aa380ee784cfb6259791dcd1a46b810ed9e94e4e1
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Caching — add and delete a letter and the suggestion will still be there
       for you!
     source_release: https://cursor.com/changelog/0-16-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: Caching — add and delete a letter and the suggestion will still be there
-    for you
+    for you!
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-10-01-cmd-k-is-now-in-the-terminal-a-bit-hackily-implemented-but-surprisingly-useful|cursor-2023-10-01-6fe917]]'
@@ -47,11 +47,11 @@ source_release: '[[Releases/Cursor/cursor-2023-11-15-0-16-0-https-cursor-com-cha
 source_type: cursor_changelog
 theme: editor-experience
 title: Caching — add and delete a letter and the suggestion will still be there for
-  you
+  you!
 type: change
 ---
 
-# Caching — add and delete a letter and the suggestion will still be there for you
+# Caching — add and delete a letter and the suggestion will still be there for you!
 
 <!-- chronolog:begin region="description" -->
 Cursor — Copilot++ improvements and VS Code 1.84.2: Caching — add and delete a letter and the suggestion will still be there for you!

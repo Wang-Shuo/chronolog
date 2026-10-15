@@ -11,9 +11,9 @@ diffusion:
   theme: enterprise-admin
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 406e786bd7a5678300bfd99c62d6b2c6a12cf12a73a35ba8ecc12f95632522df
+machine_hash: 3e41c5cef6fa3ac5b92dae76b9d44554a2a10d6bd0b86d1cf9bce52bf3ce49bc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       Pro, Pro Lite, Enterprise, and Edu users receive access first; Plus and Business
       users will follow over the coming days. Work is available in all supported regions.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -47,8 +47,7 @@ record:
     score: 50
     theme: mobile-desktop
   theme_resolution: manual-semantic-rule-v1
-  title: On web and mobile, Work is rolling out to paid plans except Free and Go.
-    Pro, Pr
+  title: On web and mobile, Work is rolling out to paid plans except Free and Go
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-04-added-requiredminimumversion-and-requiredmaximumversion-managed-settings-claude|claude-code-2026-06-04-e5de26]]'
@@ -57,12 +56,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272|chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272]]'
 source_type: chatgpt_changelog
 theme: enterprise-admin
-title: On web and mobile, Work is rolling out to paid plans except Free and Go. Pro,
-  Pr
+title: On web and mobile, Work is rolling out to paid plans except Free and Go
 type: change
 ---
 
-# On web and mobile, Work is rolling out to paid plans except Free and Go. Pro, Pr
+# On web and mobile, Work is rolling out to paid plans except Free and Go
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Introducing ChatGPT Work: On web and mobile, Work is rolling out to paid plans except Free and Go. Pro, Pro Lite, Enterprise, and Edu users receive access first; Plus and Business users will follow over the coming days. Work is available in all supported regions.

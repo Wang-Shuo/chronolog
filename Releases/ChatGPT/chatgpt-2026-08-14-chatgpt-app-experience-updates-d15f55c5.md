@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2026-08-14'
-machine_hash: 78a5c61ff3a43c864b90a3a06bc93f3e8ba156ef1236c17f10ac2f288d5433bb
+machine_hash: 610094e3ce2b62a132f5c9b6c14b3227f5db71422cc57587f730e40706326193
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,7 +39,7 @@ Tracked cards: 3
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- memory: [[Changes/ChatGPT/2026-08-14-we-ve-made-it-easier-to-study-with-interactive-quizzes-manage-project-memory-and|We’ve made it easier to study with interactive quizzes, manage project memory, a]]
-- memory: [[Changes/ChatGPT/2026-08-14-change-an-existing-project-s-memory-setting-for-eligible-unshared-projects-switc|Change an existing project’s memory setting. For eligible unshared projects, swi]]
-- mobile-desktop: [[Changes/ChatGPT/2026-08-14-practice-with-interactive-quizzes-ask-chatgpt-to-quiz-you-on-a-topic-and-answer|Practice with interactive quizzes. Ask ChatGPT to quiz you on a topic and answer]]
+- memory: [[Changes/ChatGPT/2026-08-14-we-ve-made-it-easier-to-study-with-interactive-quizzes-manage-project-memory-and|ChatGPT makes it easier to study with interactive quizzes, manage project memory…]]
+- memory: [[Changes/ChatGPT/2026-08-14-change-an-existing-project-s-memory-setting-for-eligible-unshared-projects-switc|Change an existing project’s memory setting]]
+- mobile-desktop: [[Changes/ChatGPT/2026-08-14-practice-with-interactive-quizzes-ask-chatgpt-to-quiz-you-on-a-topic-and-answer|Practice with interactive quizzes]]
 <!-- chronolog:end -->

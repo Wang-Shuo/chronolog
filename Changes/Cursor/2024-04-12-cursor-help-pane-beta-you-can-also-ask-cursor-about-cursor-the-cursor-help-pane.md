@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9173864538fde75ddb0129bde822d127bf2f2af0dbfa52673f5e50c228a422e8
+machine_hash: f7a94d3f0d3f6c95d308e092921e9847c1e3a2671d9916627e10ea90e562866a
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
       Help Pane has information about features, keyboard shortcuts, and much more.
       You can enable it in Settings > Beta.'
     source_release: https://cursor.com/changelog/0-32-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -39,8 +39,7 @@ record:
   theme: interface-experience
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: 'Cursor Help Pane (Beta): You can also ask Cursor about Cursor! The Cursor
-    Help P'
+  title: 'Cursor Help Pane (Beta): You can also ask Cursor about Cursor!'
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-03-01-ai-notes-enabled-by-default-hold-shift-on-any-symbol-better-in-editor-chat-auto|cursor-2024-03-01-2c2dbe]]'
@@ -49,12 +48,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-04-12-0-32-x-https-cursor-com-changelog-0-32-x-ce3690fc|cursor-2024-04-12-0-32-x-https-cursor-com-changelog-0-32-x-ce3690fc]]'
 source_type: cursor_changelog
 theme: interface-experience
-title: 'Cursor Help Pane (Beta): You can also ask Cursor about Cursor! The Cursor
-  Help P'
+title: 'Cursor Help Pane (Beta): You can also ask Cursor about Cursor!'
 type: change
 ---
 
-# Cursor Help Pane (Beta): You can also ask Cursor about Cursor! The Cursor Help P
+# Cursor Help Pane (Beta): You can also ask Cursor about Cursor!
 
 <!-- chronolog:begin region="description" -->
 Cursor — Improved Copilot++ UX, New GPT-4 Model: Cursor Help Pane (Beta): You can also ask Cursor about Cursor! The Cursor Help Pane has information about features, keyboard shortcuts, and much more. You can enable it in Settings > Beta.

@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 82e82b1a2c5014893f21aad9b26897b7e12ef2e328578914cf129589e83aa444
+machine_hash: 680c4aae24869600f0ea72e572cdb3ae108bbe4e25f6351503e1f7895115dbb3
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Upgrades Cursor to VS Code 1.85, which comes with support for dragging
       out tabs into a new window.
     source_release: https://cursor.com/changelog/0-22-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -39,7 +39,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: Upgrades Cursor to VS Code 1.85, which comes with support for dragging out
-    tabs
+    tabs…
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-12-29-you-can-now-run-multiple-command-k-s-in-parallel-also-it-should-now-be-easier-to|cursor-2023-12-29-cc94ca]]'
@@ -49,11 +49,11 @@ source_release: '[[Releases/Cursor/cursor-2024-01-06-0-22-0-https-cursor-com-cha
 source_type: cursor_changelog
 theme: editor-experience
 title: Upgrades Cursor to VS Code 1.85, which comes with support for dragging out
-  tabs
+  tabs…
 type: change
 ---
 
-# Upgrades Cursor to VS Code 1.85, which comes with support for dragging out tabs
+# Upgrades Cursor to VS Code 1.85, which comes with support for dragging out tabs…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Dev Containers: Upgrades Cursor to VS Code 1.85, which comes with support for dragging out tabs into a new window.

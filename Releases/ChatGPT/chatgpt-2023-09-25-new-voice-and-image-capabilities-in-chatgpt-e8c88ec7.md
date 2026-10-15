@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2023-09-25'
-machine_hash: 86f0261d88692ba232d0aadafe99e46cf46c2cede76d08a39f89e0aba6c58632
+machine_hash: f05b73240714daef282b2216679bd09768df23d926c143bbed53981c77b2f0aa
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,7 +41,7 @@ Tracked cards: 3
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- voice: [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|You can now use voice to engage in a back-and-forth conversation with your assis]]
-- voice: [[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We are beginning to roll out new voice and image capabilities in ChatGPT. They o]]
-- mobile-desktop: [[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|You can now show ChatGPT one or more images. Troubleshoot why your grill won’t s]]
+- voice: [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Use voice to engage in a back-and-forth conversation with your assistant]]
+- voice: [[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We are beginning to roll out new voice and image capabilities in ChatGPT]]
+- mobile-desktop: [[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Show ChatGPT one or more images]]
 <!-- chronolog:end -->

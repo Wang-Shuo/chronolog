@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8c7c85768f5e3412dfa2ee3d55ecc6bd0829b41bd5e7641bf1790f9a9332a594
+machine_hash: cb587777b65171744e5d0ecf27a648fcca65030729183fcb51035da306914b22
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       PR attribution; older CLI versions skip a settings file that holds it, so keep
       the object form in files shared across versions'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.281
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -39,7 +39,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: 'Added `"attribution": false` in `settings.json` to hide all commit and PR
-    attrib'
+    attribution'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-09-improved-the-bash-tool-s-description-guidance-so-claude-describes-what-a-command|claude-code-2026-09-09-b44608]]'
@@ -48,11 +48,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-23-v2-1-281-github-394877414-9173ae95|claude-code-2026-09-23-v2-1-281-github-394877414-9173ae95]]'
 source_type: github_releases
 theme: developer-workflow
-title: 'Added "attribution": false in settings.json to hide all commit and PR attrib'
+title: 'Added "attribution": false in settings.json to hide all commit and PR attribution'
 type: change
 ---
 
-# Added `"attribution": false` in `settings.json` to hide all commit and PR attrib
+# Added `"attribution": false` in `settings.json` to hide all commit and PR attribution
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.281: Added `"attribution": false` in `settings.json` to hide all commit and PR attribution; older CLI versions skip a settings file that holds it, so keep the object form in files shared across versions

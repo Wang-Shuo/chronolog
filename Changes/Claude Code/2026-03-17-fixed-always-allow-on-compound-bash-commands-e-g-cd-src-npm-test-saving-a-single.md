@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1f7009a4f6edd867358b4b03727ea3247c0a19a011db8d1e194df7c551ea0992
+machine_hash: 73ead0432b15bbc6255152b81931921224c951f58ffc9c1636e6413be304411b
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       saving a single rule for the full string instead of per-subcommand, leading
       to dead rules and repeated permission prompts
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.77
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -39,7 +39,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: Fixed "Always Allow" on compound bash commands (e.g. `cd src && npm test`)
-    savin
+    saving…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-11-fixed-freezes-and-100-cpu-loops-triggered-by-permission-prompts-for-complex-bash|claude-code-2026-03-11-933354]]'
@@ -48,11 +48,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-17-v2-1-77-github-297726061-caf6c30c|claude-code-2026-03-17-v2-1-77-github-297726061-caf6c30c]]'
 source_type: github_releases
 theme: safety-privacy
-title: Fixed "Always Allow" on compound bash commands (e.g. cd src && npm test) savin
+title: Fixed "Always Allow" on compound bash commands (e.g. cd src && npm test) saving…
 type: change
 ---
 
-# Fixed "Always Allow" on compound bash commands (e.g. `cd src && npm test`) savin
+# Fixed "Always Allow" on compound bash commands (e.g. `cd src && npm test`) saving…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.77: Fixed "Always Allow" on compound bash commands (e.g. `cd src && npm test`) saving a single rule for the full string instead of per-subcommand, leading to dead rules and repeated permission prompts

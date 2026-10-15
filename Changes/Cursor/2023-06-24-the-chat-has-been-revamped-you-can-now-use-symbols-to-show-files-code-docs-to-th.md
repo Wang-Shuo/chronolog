@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3afc6365b548b94ef9f1662e6c3c9bb544abab8bba0cbc8091e07428b240d678
+machine_hash: 9fcc11f935ccaf175063e01018812a0fb36490d38c4f61c483a90281bb9c0efc
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
       to the AI. The chat history is improved, it's easier to see what the AI can
       see, and codeblocks auto-format on paste.
     source_release: https://cursor.com/changelog/0-2-34
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -38,8 +38,7 @@ record:
   theme: interface-experience
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: The chat has been revamped! You can now use @ symbols to show files/code/docs
-    to
+  title: The chat has been revamped!
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-05-04-added-the-ability-to-hide-the-tooltip-cursor-config-advanced-chat-edit-tooltip|cursor-2023-05-04-8b05df]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-06-24-0-2-34-https-cursor-com-changelog-0-2-34-fabeac56|cursor-2023-06-24-0-2-34-https-cursor-com-changelog-0-2-34-fabeac56]]'
 source_type: cursor_changelog
 theme: interface-experience
-title: The chat has been revamped! You can now use @ symbols to show files/code/docs
-  to
+title: The chat has been revamped!
 type: change
 ---
 
-# The chat has been revamped! You can now use @ symbols to show files/code/docs to
+# The chat has been revamped!
 
 <!-- chronolog:begin region="description" -->
 Cursor — Chat v2: The chat has been revamped! You can now use @ symbols to show files/code/docs to the AI. The chat history is improved, it's easier to see what the AI can see, and codeblocks auto-format on paste.

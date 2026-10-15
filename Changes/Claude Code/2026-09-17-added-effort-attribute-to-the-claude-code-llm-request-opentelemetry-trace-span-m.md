@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 11793ccd6e9f21f5c8863664801e7e9118b6d421689db8993eb187aa1bd64d02
+machine_hash: c26f1438c6f5c9146d7697c2c5668d4692e1d358e8bb309573e65898f59b9a80
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `effort` attribute to the `claude_code.llm_request` OpenTelemetry
       trace span, matching the `api_request` event
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.274
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,7 +35,7 @@ record:
   source_type: github_releases
   theme: model-support
   title: Added `effort` attribute to the `claude_code.llm_request` OpenTelemetry trace
-    sp
+    span…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-09-added-maxeffortlevel-setting-top-level-or-per-model-under-modelsettings-caps-the|claude-code-2026-09-09-dfdb1b]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-17-v2-1-274-github-390317660-0d9c7c5d|claude-code-2026-09-17-v2-1-274-github-390317660-0d9c7c5d]]'
 source_type: github_releases
 theme: model-support
-title: Added effort attribute to the claude_code.llm_request OpenTelemetry trace sp
+title: Added effort attribute to the claude_code.llm_request OpenTelemetry trace span…
 type: change
 ---
 
-# Added `effort` attribute to the `claude_code.llm_request` OpenTelemetry trace sp
+# Added `effort` attribute to the `claude_code.llm_request` OpenTelemetry trace span…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.274: Added `effort` attribute to the `claude_code.llm_request` OpenTelemetry trace span, matching the `api_request` event

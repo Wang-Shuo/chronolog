@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 54d7812a711f235b0d17c8f4de8dadf9a956f2169587b865230ec25261c09669
+machine_hash: 65c44613d9bd7d475dadd530032bc02451abd43fb7dcbdbc98d995000b7630f9
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       before launch, closing a gap where a subagent could request a blocked action
       without review'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.178
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   source_release: claude-code-2026-06-15-v2-1-178-github-339741361-902bc427
   source_type: github_releases
   theme: agent-mode
-  title: 'Improved auto mode: subagent spawns are now evaluated by the classifier
-    before l'
+  title: Improved auto mode
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-06-05-ask-the-agent-to-make-one-match-the-other-remove-repeated-content-or-adjust-a-gr|cursor-2026-06-05-70abae]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-15-v2-1-178-github-339741361-902bc427|claude-code-2026-06-15-v2-1-178-github-339741361-902bc427]]'
 source_type: github_releases
 theme: agent-mode
-title: 'Improved auto mode: subagent spawns are now evaluated by the classifier before
-  l'
+title: Improved auto mode
 type: change
 ---
 
-# Improved auto mode: subagent spawns are now evaluated by the classifier before l
+# Improved auto mode
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.178: Improved auto mode: subagent spawns are now evaluated by the classifier before launch, closing a gap where a subagent could request a blocked action without review

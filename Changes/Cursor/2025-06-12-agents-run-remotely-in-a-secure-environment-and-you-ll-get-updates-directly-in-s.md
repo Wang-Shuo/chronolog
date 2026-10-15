@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: bd64c3d30a32037406c2fc7c9da8ef7c5ae8fae6a19a1a4f8fd0489cee68b07e
+machine_hash: bf80c9a4023fe18437a805e84d0702f40091b1037b29508bf7bae1c9320c4d6c
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Agents run remotely in a secure environment and you'll get updates directly
       in Slack, including links to Cursor and GitHub, when the work is done.
     source_release: https://cursor.com/changelog/1-1
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,8 +35,7 @@ record:
   source_release: cursor-2025-06-12-1-1-https-cursor-com-changelog-1-1-0f0190fc
   source_type: cursor_changelog
   theme: agent-mode
-  title: Agents run remotely in a secure environment and you'll get updates directly
-    in S
+  title: Agents run remotely in a secure environment and you'll get updates directly…
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-06-04-this-release-brings-bugbot-for-code-review-a-first-look-at-memories-one-click-mc|cursor-2025-06-04-8ddadd]]'
@@ -45,12 +44,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-06-12-1-1-https-cursor-com-changelog-1-1-0f0190fc|cursor-2025-06-12-1-1-https-cursor-com-changelog-1-1-0f0190fc]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: Agents run remotely in a secure environment and you'll get updates directly
-  in S
+title: Agents run remotely in a secure environment and you'll get updates directly…
 type: change
 ---
 
-# Agents run remotely in a secure environment and you'll get updates directly in S
+# Agents run remotely in a secure environment and you'll get updates directly…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Background Agents in Slack: Agents run remotely in a secure environment and you'll get updates directly in Slack, including links to Cursor and GitHub, when the work is done.

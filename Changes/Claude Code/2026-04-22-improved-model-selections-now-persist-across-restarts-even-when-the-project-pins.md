@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: ce863b2a0aeaabade8ed0d4c318bdd971a2c9844dd176669a7d5af8dc894b01e
+machine_hash: d1f41a9b3238b7816ec71b08ca2799f9b07b7d916ffe248864fdb8a7abb64765
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       project pins a different model, and the startup header shows when the active
       model comes from a project or managed-settings pin'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.117
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -39,7 +39,7 @@ record:
   source_type: github_releases
   theme: model-support
   title: 'Improved `/model`: selections now persist across restarts even when the
-    project'
+    project pins…'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-16-claude-opus-4-7-xhigh-is-now-available-use-effort-to-tune-speed-vs-intelligence|claude-code-2026-04-16-1b24d7]]'
@@ -48,11 +48,12 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-22-v2-1-117-github-311984967-1d917373|claude-code-2026-04-22-v2-1-117-github-311984967-1d917373]]'
 source_type: github_releases
 theme: model-support
-title: 'Improved /model: selections now persist across restarts even when the project'
+title: 'Improved /model: selections now persist across restarts even when the project
+  pins…'
 type: change
 ---
 
-# Improved `/model`: selections now persist across restarts even when the project
+# Improved `/model`: selections now persist across restarts even when the project pins…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.117: Improved `/model`: selections now persist across restarts even when the project pins a different model, and the startup header shows when the active model comes from a project or managed-settings pin

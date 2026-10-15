@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 4301a4d2d45cae2861d308917b937ad7d60d80b3ed34ce7df6c649a9a96b0000
+machine_hash: f1240a22a42078d214b93eee208c753bd262a8fddc4dc3da541691bc815e0b0e
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Auto-review is a new run mode that allows Cursor to work for longer with
       fewer approval prompts and safer execution.
     source_release: https://cursor.com/changelog/auto-review
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -39,7 +39,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: Auto-review is a new run mode that allows Cursor to work for longer with
-    fewer a
+    fewer…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-28-claude-agents-pr-column-now-shows-pr-n-for-a-single-pr-or-n-prs-for-multiple|claude-code-2026-05-28-2277ea]]'
@@ -48,12 +48,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-05-29-3-6-https-cursor-com-changelog-auto-review-c5d7c919|cursor-2026-05-29-3-6-https-cursor-com-changelog-auto-review-c5d7c919]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: Auto-review is a new run mode that allows Cursor to work for longer with fewer
-  a
+title: Auto-review is a new run mode that allows Cursor to work for longer with fewer…
 type: change
 ---
 
-# Auto-review is a new run mode that allows Cursor to work for longer with fewer a
+# Auto-review is a new run mode that allows Cursor to work for longer with fewer…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Auto-review Run Mode: Auto-review is a new run mode that allows Cursor to work for longer with fewer approval prompts and safer execution.

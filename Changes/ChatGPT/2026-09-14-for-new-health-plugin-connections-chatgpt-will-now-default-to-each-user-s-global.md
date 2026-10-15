@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 04e2a6f5bcf418e673116d74522829f4f3937546575b2c781948c7ecca47b75b
+machine_hash: 0df8e45f72a8e2da573b90191250f550afd10703c17b6143aadb2fb41d70df6e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
   - quote: For new Health plugin connections, ChatGPT will now default to each user’s
       global plugins permissions setting.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -38,7 +38,7 @@ record:
   source_type: chatgpt_changelog
   theme: apps-integrations
   title: For new Health plugin connections, ChatGPT will now default to each user’s
-    globa
+    global…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-09-11-we-re-planning-to-retire-custom-gpts-across-chatgpt-plans-and-provide-a-migratio|chatgpt-2026-09-11-b85c10]]'
@@ -48,11 +48,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-09-14-updated-permissions-for-n
 source_type: chatgpt_changelog
 theme: apps-integrations
 title: For new Health plugin connections, ChatGPT will now default to each user’s
-  globa
+  global…
 type: change
 ---
 
-# For new Health plugin connections, ChatGPT will now default to each user’s globa
+# For new Health plugin connections, ChatGPT will now default to each user’s global…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Updated permissions for new Health connections: For new Health plugin connections, ChatGPT will now default to each user’s global plugins permissions setting.

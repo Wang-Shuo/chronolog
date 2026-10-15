@@ -11,9 +11,9 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 689cce1ce67b34ad446568a26c9679385723d6f99eaea5608d71c21c7607a743
+machine_hash: 288b984cae2b5d455f44e485391435092d2d32d3a93e2e9984ea6af7b43f9c78
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: If you're not logged in, we show the popup to log in again
     source_release: https://cursor.com/changelog/0-2-36
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

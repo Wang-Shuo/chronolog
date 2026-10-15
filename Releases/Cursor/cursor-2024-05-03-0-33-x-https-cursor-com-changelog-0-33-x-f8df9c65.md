@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2024-05-03'
-machine_hash: 379f384497ff82cfed2b81c2de6c9fdf1bfece6440bd7dea9191a6a87c099c9f
+machine_hash: 39bb34ab5455c76eee27b7694ae7c30cd4e6706773a44cf023c3f118c7a2f1e3
 product: cursor
 product_name: Cursor
 record:
@@ -40,7 +40,7 @@ Tracked cards: 3
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- reliability-performance: [[Changes/Cursor/2024-05-03-update-0-33-1-0-33-3-fix-to-settings-toggles-fix-to-copilot-diffbox-performance|UPDATE (0.33.1–0.33.3): Fix to settings toggles, fix to Copilot++ diffbox perfor]]
-- interface-experience: [[Changes/Cursor/2024-05-03-command-k-autoselect-we-ve-also-added-automatic-selection-for-command-k-this-mea|Command-K Autoselect: We've also added automatic selection for Command-K! This m]]
-- reliability-performance: [[Changes/Cursor/2024-05-03-stability-this-build-fixes-a-connection-error-problem-that-was-consistently-affe|Stability: This build fixes a connection error problem that was consistently aff]]
+- reliability-performance: [[Changes/Cursor/2024-05-03-update-0-33-1-0-33-3-fix-to-settings-toggles-fix-to-copilot-diffbox-performance|UPDATE (0.33.1–0.33.3): Fix to settings toggles, fix to Copilot++ diffbox…]]
+- interface-experience: [[Changes/Cursor/2024-05-03-command-k-autoselect-we-ve-also-added-automatic-selection-for-command-k-this-mea|Command-K Autoselect: We've also added automatic selection for Command-K!]]
+- reliability-performance: [[Changes/Cursor/2024-05-03-stability-this-build-fixes-a-connection-error-problem-that-was-consistently-affe|Stability: This build fixes a connection error problem that was consistently…]]
 <!-- chronolog:end -->

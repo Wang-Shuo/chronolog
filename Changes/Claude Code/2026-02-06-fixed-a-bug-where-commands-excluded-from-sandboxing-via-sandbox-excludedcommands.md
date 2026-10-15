@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e97ba2113b356e5469dbf8257ac243250dcc7f180524ec03b876448feff418b4
+machine_hash: 75780aaf47f9b1ecded0596aa5cd09cdbe1857ef78207cb52b1c6297b0e385d5
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       or `dangerouslyDisableSandbox`) could bypass the Bash ask permission rule when
       `autoAllowBashIfSandboxed` was enabled
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.34
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,7 +38,7 @@ record:
   theme: safety-privacy
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: Fixed a bug where commands excluded from sandboxing (via `sandbox.excludedComman
+  title: Fixed a bug where commands excluded from sandboxing…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-14-fixed-security-vulnerability-where-wildcard-permission-rules-could-match-compoun|claude-code-2026-01-14-a0bfb2]]'
@@ -47,11 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-02-06-v2-1-34-github-283772587-e48b5e29|claude-code-2026-02-06-v2-1-34-github-283772587-e48b5e29]]'
 source_type: github_releases
 theme: safety-privacy
-title: Fixed a bug where commands excluded from sandboxing (via sandbox.excludedComman
+title: Fixed a bug where commands excluded from sandboxing…
 type: change
 ---
 
-# Fixed a bug where commands excluded from sandboxing (via `sandbox.excludedComman
+# Fixed a bug where commands excluded from sandboxing…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.34: Fixed a bug where commands excluded from sandboxing (via `sandbox.excludedCommands` or `dangerouslyDisableSandbox`) could bypass the Bash ask permission rule when `autoAllowBashIfSandboxed` was enabled

@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 477920bf80f1dd7479551070eb6d7ed17fb70d5b595f62c41d41238ab6152c37
+machine_hash: 8c867685f81738ff996ac42184bbab9b9467bc21ec9d05825f8c08b8f1d5df88
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: 'Default: the standard ChatGPT model'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT

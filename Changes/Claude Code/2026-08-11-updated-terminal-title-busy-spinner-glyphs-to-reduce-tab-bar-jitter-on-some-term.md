@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: fb976067c999824b14f7c96f355718cbffe0a6da3416f31c398fd7aa8e1083a3
+machine_hash: 291ce7b69c0b0959579d233c205dce937ada411452ea46c6c66dbfbe898f0293
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Updated terminal title busy-spinner glyphs to reduce tab-bar jitter on
       some terminals
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.228
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -45,7 +45,7 @@ record:
     theme: editor-experience
   theme_resolution: manual-semantic-rule-v1
   title: Updated terminal title busy-spinner glyphs to reduce tab-bar jitter on some
-    term
+    terminals
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-08-07-add-saved-files-without-uploading-them-again-open-the-composer-menu-on-the-web-s|chatgpt-2026-08-07-07b56e]]'
@@ -55,11 +55,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-08-11-v2-1-228-github-3
 source_type: github_releases
 theme: interface-experience
 title: Updated terminal title busy-spinner glyphs to reduce tab-bar jitter on some
-  term
+  terminals
 type: change
 ---
 
-# Updated terminal title busy-spinner glyphs to reduce tab-bar jitter on some term
+# Updated terminal title busy-spinner glyphs to reduce tab-bar jitter on some terminals
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.228: Updated terminal title busy-spinner glyphs to reduce tab-bar jitter on some terminals

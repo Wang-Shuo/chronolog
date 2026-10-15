@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: fdd26238ad662135a3f99a6c24b648088cb5486e55d5bb15280ca9435f03a157
+machine_hash: 967ab72280002b67eafca96b2f2a29b996302945974c78478e0a2e3bcbad1805
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       custom and plugin subagents run without user, project and local CLAUDE.md files;
       managed policy files still load
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.271
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code
@@ -49,8 +49,7 @@ record:
     - plugin
     score: 50
     theme: apps-integrations
-  title: Added `omitClaudeMd` to agent frontmatter and `--agents` JSON, letting custom
-    an
+  title: Added `omitClaudeMd` to agent frontmatter and `--agents` JSON, letting custom…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-09-10-a-project-runs-on-its-own-computer-in-the-cloud-so-closing-your-laptop-doesn-t-s|cursor-2026-09-10-2aba56]]'
@@ -59,11 +58,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f|claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f]]'
 source_type: github_releases
 theme: agent-mode
-title: Added omitClaudeMd to agent frontmatter and --agents JSON, letting custom an
+title: Added omitClaudeMd to agent frontmatter and --agents JSON, letting custom…
 type: change
 ---
 
-# Added `omitClaudeMd` to agent frontmatter and `--agents` JSON, letting custom an
+# Added `omitClaudeMd` to agent frontmatter and `--agents` JSON, letting custom…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.271: Added `omitClaudeMd` to agent frontmatter and `--agents` JSON, letting custom and plugin subagents run without user, project and local CLAUDE.md files; managed policy files still load

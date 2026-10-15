@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5f87c4a15b02509aab38a2d3cd7dd1e88b02a87d854a6b592932f186c8fe0ad6
+machine_hash: e7219c004a3f845fa7cd9cea8525f3aa0f9a3a900b52f29c69b8dd6733133556
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Fixed `/remote-control` sessions showing the wrong permission mode in the
       mobile and web apps
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.202
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -45,7 +45,7 @@ record:
     theme: mobile-desktop
   theme_resolution: manual-semantic-rule-v2
   title: Fixed `/remote-control` sessions showing the wrong permission mode in the
-    mobile
+    mobile…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-26-fixed-external-plugins-enabled-only-by-project-claude-settings-json-not-requirin|claude-code-2026-06-26-0a16aa]]'
@@ -54,11 +54,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-06-v2-1-202-github-349856235-58e6d3e8|claude-code-2026-07-06-v2-1-202-github-349856235-58e6d3e8]]'
 source_type: github_releases
 theme: safety-privacy
-title: Fixed /remote-control sessions showing the wrong permission mode in the mobile
+title: Fixed /remote-control sessions showing the wrong permission mode in the mobile…
 type: change
 ---
 
-# Fixed `/remote-control` sessions showing the wrong permission mode in the mobile
+# Fixed `/remote-control` sessions showing the wrong permission mode in the mobile…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.202: Fixed `/remote-control` sessions showing the wrong permission mode in the mobile and web apps

@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: fe6116e96ba57118cfefe32c3705195012208243f83f997add40ec6aa04e5c5a
+machine_hash: 5ca470b3da626fb4f33f90252637f8ae2e45cbbe97104ce574534d4bdae6340e
 product: cursor
 product_name: Cursor
 record:
@@ -30,7 +30,7 @@ record:
       or remote machines to prevent file conflicts. Each agent operates in its own
       isolated copy of your codebase.
     source_release: https://cursor.com/changelog/2-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -38,8 +38,7 @@ record:
   source_release: cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e
   source_type: cursor_changelog
   theme: agent-mode
-  title: Run up to eight agents in parallel on a single prompt. This uses git worktrees
-    o
+  title: Run up to eight agents in parallel on a single prompt
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-09-29-cursor-can-now-write-detailed-plans-before-starting-complex-tasks-this-allows-ag|cursor-2025-09-29-6a34b4]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: Run up to eight agents in parallel on a single prompt. This uses git worktrees
-  o
+title: Run up to eight agents in parallel on a single prompt
 type: change
 ---
 
-# Run up to eight agents in parallel on a single prompt. This uses git worktrees o
+# Run up to eight agents in parallel on a single prompt
 
 <!-- chronolog:begin region="description" -->
 Cursor — New Coding Model and Agent Interface: Run up to eight agents in parallel on a single prompt. This uses git worktrees or remote machines to prevent file conflicts. Each agent operates in its own isolated copy of your codebase.

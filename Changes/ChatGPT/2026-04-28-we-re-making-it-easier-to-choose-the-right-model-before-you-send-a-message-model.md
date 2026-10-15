@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 99746266c1fb05b4dd8ef4e0f98e6047a2be555db20c261b90dc70349764c404
+machine_hash: d713e8530f149a3bb5badfcc33f940f31732e02e7ee2e7d9906388d0a3b1abe2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -37,7 +37,7 @@ record:
       can select the level of thinking effort directly from the model picker.This
       update is available on web to ChatGPT users on Plus, Pro, and Business plans.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -55,8 +55,7 @@ record:
     - picker
     score: 50
     theme: interface-experience
-  title: We’re making it easier to choose the right model before you send a message.
-    Mode
+  title: We’re making it easier to choose the right model before you send a message
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-16-auto-mode-is-now-available-for-max-subscribers-when-using-opus-4-7|claude-code-2026-04-16-90cd9d]]'
@@ -65,12 +64,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-04-28-easier-model-selection-in-chatgpt-f4badb6d|chatgpt-2026-04-28-easier-model-selection-in-chatgpt-f4badb6d]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: We’re making it easier to choose the right model before you send a message.
-  Mode
+title: We’re making it easier to choose the right model before you send a message
 type: change
 ---
 
-# We’re making it easier to choose the right model before you send a message. Mode
+# We’re making it easier to choose the right model before you send a message
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Easier model selection in ChatGPT: We’re making it easier to choose the right model before you send a message. Model selection now appears in the composer, so you can find and switch models from the same place where you write your prompt.We’re also moving thinking effort controls into the model picker. When you choose a Thinking or Pro model, you can select the level of thinking effort directly from the model picker.This update is available on web to ChatGPT users on Plus, Pro, and Business plans.

@@ -11,9 +11,9 @@ diffusion:
   theme: enterprise-admin
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ab6c79144ceea4919ec92856d8021f6a890eb10b1a4f046e6a51b0f186d9d3e3
+machine_hash: 39244052ac1ef239515e5c4f87d343347a2312da70e7e852502b85dd08f903a0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       period. Work is off by default during the preview, and admins can opt out before
       it turns on automatically at the end of the preview.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -48,7 +48,7 @@ record:
     score: 50
     theme: mobile-desktop
   title: On web and mobile, Enterprise and Edu workspaces have a two-week preview
-    period.
+    period
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-06-08-send-an-email-directly-from-within-a-chat-if-you-ve-connected-gmail-or-outlook-y|chatgpt-2026-06-08-5e6d65]]'
@@ -57,11 +57,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272|chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272]]'
 source_type: chatgpt_changelog
 theme: enterprise-admin
-title: On web and mobile, Enterprise and Edu workspaces have a two-week preview period.
+title: On web and mobile, Enterprise and Edu workspaces have a two-week preview period
 type: change
 ---
 
-# On web and mobile, Enterprise and Edu workspaces have a two-week preview period.
+# On web and mobile, Enterprise and Edu workspaces have a two-week preview period
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Introducing ChatGPT Work: On web and mobile, Enterprise and Edu workspaces have a two-week preview period. Work is off by default during the preview, and admins can opt out before it turns on automatically at the end of the preview.

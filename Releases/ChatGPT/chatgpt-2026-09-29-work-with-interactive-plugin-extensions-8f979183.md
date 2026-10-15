@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2026-09-29'
-machine_hash: 4648c73fb13b68efa080f9e5e2dcc65a952cf4afa6d4301aedc804a6fcb45b85
+machine_hash: 0a86ce3f85696fbf83e7c0f8fde9390c56c436d461ec73309e07aa402305f65b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,6 +41,6 @@ Tracked cards: 2
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- apps-integrations: [[Changes/ChatGPT/2026-09-29-plugins-can-now-include-interactive-panels-sidebar-views-and-viewers-or-editors|Plugins can now include interactive panels, sidebar views, and viewers or editor]]
-- apps-integrations: [[Changes/ChatGPT/2026-09-29-plugins-still-require-their-applicable-account-connections-and-workspace-permiss|Plugins still require their applicable account connections and workspace permiss]]
+- apps-integrations: [[Changes/ChatGPT/2026-09-29-plugins-can-now-include-interactive-panels-sidebar-views-and-viewers-or-editors|Plugins can now include interactive panels, sidebar views, and viewers or editors…]]
+- apps-integrations: [[Changes/ChatGPT/2026-09-29-plugins-still-require-their-applicable-account-connections-and-workspace-permiss|Plugins still require their applicable account connections and workspace permissions]]
 <!-- chronolog:end -->

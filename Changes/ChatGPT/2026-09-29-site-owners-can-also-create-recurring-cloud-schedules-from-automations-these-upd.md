@@ -11,9 +11,9 @@ diffusion:
   theme: automation-scheduling
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 48196ec184a54b5df6f582b73b92d929b61ca8d98cac054e826c6faa6708ddae
+machine_hash: db0b4697a43bf9419c5588b9875c85b9eacd1a6f44d604be626d05e6ba4847f6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
       These updates are available where Sites is supported. Learn more about creating
       and managing Sites.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -36,8 +36,7 @@ record:
   source_release: chatgpt-2026-09-29-creating-editing-and-scheduling-sites-bb025dd6
   source_type: chatgpt_changelog
   theme: automation-scheduling
-  title: Site owners can also create recurring cloud schedules from Automations. These
-    up
+  title: Site owners can also create recurring cloud schedules from Automations
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-08-25-scheduled-tasks-in-chatgpt-work-can-use-webhooks-to-respond-when-something-chang|chatgpt-2026-08-25-02d5c2]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-creating-editing-and-scheduling-sites-bb025dd6|chatgpt-2026-09-29-creating-editing-and-scheduling-sites-bb025dd6]]'
 source_type: chatgpt_changelog
 theme: automation-scheduling
-title: Site owners can also create recurring cloud schedules from Automations. These
-  up
+title: Site owners can also create recurring cloud schedules from Automations
 type: change
 ---
 
-# Site owners can also create recurring cloud schedules from Automations. These up
+# Site owners can also create recurring cloud schedules from Automations
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Creating, editing, and scheduling Sites: Site owners can also create recurring cloud schedules from Automations. These updates are available where Sites is supported. Learn more about creating and managing Sites.

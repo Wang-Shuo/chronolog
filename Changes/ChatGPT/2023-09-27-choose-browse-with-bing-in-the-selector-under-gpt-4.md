@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: c2fa7df1d1d34f2b9ebca5b56c573e37a1eed08569aae5b44ac0576d9da64846
+machine_hash: cae52d36d54bf6174831052a58162fff722b71ffec387eba547fe4131df176d2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Choose Browse with Bing in the selector under GPT-4.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -43,7 +43,7 @@ record:
     score: 50
     theme: search-browsing
   theme_resolution: manual-semantic-rule-v2
-  title: Choose Browse with Bing in the selector under GPT-4.
+  title: Choose Browse with Bing in the selector under GPT-4
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-07-28-if-you-press-on-any-line-you-will-now-get-gpt-4-powering-fast-completions-for-yo|cursor-2023-07-28-8606dd]]'
@@ -52,11 +52,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2023-09-27-browsing-is-rolling-back-out-to-plus-users-73e98403|chatgpt-2023-09-27-browsing-is-rolling-back-out-to-plus-users-73e98403]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: Choose Browse with Bing in the selector under GPT-4.
+title: Choose Browse with Bing in the selector under GPT-4
 type: change
 ---
 
-# Choose Browse with Bing in the selector under GPT-4.
+# Choose Browse with Bing in the selector under GPT-4
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Browsing is rolling back out to Plus users: Choose Browse with Bing in the selector under GPT-4.

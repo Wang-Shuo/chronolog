@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8b690f763df697db1c36948a6a73b85fbc7b1c325b72d302d5162792cd4cbc3e
+machine_hash: 3412df45226b1abe0c0a9d3b6066034db33012f194808b5db500ac5dd0127fb8
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Renamed `/simplify` to `/code-review` with an optional effort level (e.g.
       `/code-review high`)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.146
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -34,8 +34,7 @@ record:
   source_release: claude-code-2026-05-21-v2-1-146-github-326230049-ea612648
   source_type: github_releases
   theme: developer-workflow
-  title: Renamed `/simplify` to `/code-review` with an optional effort level (e.g.
-    `/code
+  title: Renamed `/simplify` to `/code-review` with an optional effort level…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-08-improved-visual-consistency-across-slash-command-dialogs-standardized-footer-hin|claude-code-2026-05-08-c64f98]]'
@@ -44,11 +43,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-21-v2-1-146-github-326230049-ea612648|claude-code-2026-05-21-v2-1-146-github-326230049-ea612648]]'
 source_type: github_releases
 theme: developer-workflow
-title: Renamed /simplify to /code-review with an optional effort level (e.g. /code
+title: Renamed /simplify to /code-review with an optional effort level…
 type: change
 ---
 
-# Renamed `/simplify` to `/code-review` with an optional effort level (e.g. `/code
+# Renamed `/simplify` to `/code-review` with an optional effort level…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.146: Renamed `/simplify` to `/code-review` with an optional effort level (e.g. `/code-review high`)

@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e637accbec5156b7308f5524a94443c41caa2c869d77c9240dfbea20713e6f3f
+machine_hash: 88585d32098c0cb3e663a4cd046e061d87711867bf4df3ff4a1aaff12b63ad81
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Improved terminal rendering stability by preventing uncontrolled writes
       from corrupting cursor state
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.3
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -44,8 +44,7 @@ record:
     score: 50
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v1
-  title: Improved terminal rendering stability by preventing uncontrolled writes from
-    cor
+  title: Improved terminal rendering stability by preventing uncontrolled writes…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2025-12-19-added-alt-y-yank-pop-to-cycle-through-kill-ring-history-after-ctrl-y-yank|claude-code-2025-12-19-74a34d]]'
@@ -54,12 +53,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-01-09-v2-1-3-github-275638643-101f767c|claude-code-2026-01-09-v2-1-3-github-275638643-101f767c]]'
 source_type: github_releases
 theme: interface-experience
-title: Improved terminal rendering stability by preventing uncontrolled writes from
-  cor
+title: Improved terminal rendering stability by preventing uncontrolled writes…
 type: change
 ---
 
-# Improved terminal rendering stability by preventing uncontrolled writes from cor
+# Improved terminal rendering stability by preventing uncontrolled writes…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.3: Improved terminal rendering stability by preventing uncontrolled writes from corrupting cursor state

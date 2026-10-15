@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: bcd79245df4527b3521d87a64a1dbdc52b5ac7c704d726fcb81fe38b55a3af7f
+machine_hash: 52c4b178b6d7d34376aea09d7684fde4498253cde264746bf917dbc53f3734b4
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Better performance of Copilot++ on linter errors
     source_release: https://cursor.com/changelog/0-34-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

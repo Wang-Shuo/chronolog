@@ -11,9 +11,9 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 66922bfef52e67438aeb8268c5ad359bb3162080096a8da8684e911620db2671
+machine_hash: 4f7075260063726576403285841dd590e0e2737d324944fe83edca94aae9c6ec
 product: cursor
 product_name: Cursor
 record:
@@ -31,7 +31,7 @@ record:
       way you would on the desktop app. Pick any frontier model, describe ideas out
       loud with voice input, and use slash commands to guide Cursor in the right direction.
     source_release: https://cursor.com/changelog/ios-mobile-app
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -59,7 +59,7 @@ record:
     theme: model-support
   theme_resolution: manual-semantic-rule-v1
   title: Open the Cursor mobile app, choose a repo, and launch an agent the same way
-    you
+    you…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-06-18-help-with-pronunciations-chatgpt-can-now-include-text-and-audio-pronunciation-gu|chatgpt-2026-06-18-659ffb]]'
@@ -69,11 +69,11 @@ source_release: '[[Releases/Cursor/cursor-2026-06-29-3-9-https-cursor-com-change
 source_type: cursor_changelog
 theme: voice
 title: Open the Cursor mobile app, choose a repo, and launch an agent the same way
-  you
+  you…
 type: change
 ---
 
-# Open the Cursor mobile app, choose a repo, and launch an agent the same way you
+# Open the Cursor mobile app, choose a repo, and launch an agent the same way you…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cursor Mobile App for iOS: Open the Cursor mobile app, choose a repo, and launch an agent the same way you would on the desktop app. Pick any frontier model, describe ideas out loud with voice input, and use slash commands to guide Cursor in the right direction.

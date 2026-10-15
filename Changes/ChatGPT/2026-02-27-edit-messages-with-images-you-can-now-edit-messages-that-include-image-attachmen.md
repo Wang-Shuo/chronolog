@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5f6924fa65b371a82e37aea89ec069997e47fae607e5d10f30e68c3e260dbd2d
+machine_hash: 871b1f5c6b2da94631306ca2253cfa2ef429d30d2373a54d7de73f860bcbba18
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       attachments, so you don’t have to start over to adjust your prompt or regenerate
       results.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -39,7 +39,7 @@ record:
   theme: editor-experience
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Edit messages with images. You can now edit messages that include image attachme
+  title: Edit messages with images
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-19-simple-mode-claude-code-simple-now-includes-the-file-edit-tool-in-addition-to-th|claude-code-2026-02-19-06f4e9]]'
@@ -48,11 +48,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-27-chatgpt-web-and-android-updates-edit-image-prompts-share-faster-abef696c|chatgpt-2026-02-27-chatgpt-web-and-android-updates-edit-image-prompts-share-faster-abef696c]]'
 source_type: chatgpt_changelog
 theme: editor-experience
-title: Edit messages with images. You can now edit messages that include image attachme
+title: Edit messages with images
 type: change
 ---
 
-# Edit messages with images. You can now edit messages that include image attachme
+# Edit messages with images
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT Web and Android updates: Edit image prompts, share faster, and smoother conversations: Edit messages with images. You can now edit messages that include image attachments, so you don’t have to start over to adjust your prompt or regenerate results.

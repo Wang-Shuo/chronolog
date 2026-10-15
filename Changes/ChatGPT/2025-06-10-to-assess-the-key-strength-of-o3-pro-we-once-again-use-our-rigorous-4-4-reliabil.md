@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 7648d36cc0eafa1e380bf9cde24e05b5a1a983e1eb9f786ed70a7fb730e2bc60
+machine_hash: fc1d63525cb56afbc7993b34d8d25a556a2dd27587ce4ca514565965a7f337af
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
       reliability" evaluation, where a model is considered successful only if it correctly
       answers a question in all four attempts, not just one:'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -42,8 +42,7 @@ record:
   theme: model-support
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: To assess the key strength of o3-pro, we once again use our rigorous "4/4
-    reliab
+  title: To assess the key strength of o3-pro, we once again use our rigorous…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-05-14-since-its-launch-in-the-api-in-april-gpt-4-1-has-become-a-favorite-among-develop-286eb2|chatgpt-2025-05-14-286eb2]]'
@@ -52,11 +51,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-10-today-we-re-launching-openai-o3-pro-available-now-for-pro-users-43fd47c2|chatgpt-2025-06-10-today-we-re-launching-openai-o3-pro-available-now-for-pro-users-43fd47c2]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: To assess the key strength of o3-pro, we once again use our rigorous "4/4 reliab
+title: To assess the key strength of o3-pro, we once again use our rigorous…
 type: change
 ---
 
-# To assess the key strength of o3-pro, we once again use our rigorous "4/4 reliab
+# To assess the key strength of o3-pro, we once again use our rigorous…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Today, we're launching OpenAI o3-pro—available now for Pro users in ChatGPT and in our API.: To assess the key strength of o3-pro, we once again use our rigorous "4/4 reliability" evaluation, where a model is considered successful only if it correctly answers a question in all four attempts, not just one:

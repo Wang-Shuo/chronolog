@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f49121be7d804b492d131cca79f3fb75321c5dfc3735ca0201862084fd98b58c
+machine_hash: c96fe8b2d32c345334827ef6852c0faf61bc09b88c19594276e9283105bafce4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       ways to save, understand your spending, and make sense of your investments,
       with answers grounded in your finances.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -40,7 +40,7 @@ record:
   source_type: chatgpt_changelog
   theme: mobile-desktop
   title: Finances in ChatGPT is rolling out to Free and Go users in the U.S. on web,
-    iOS,
+    iOS…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-09-29-audio-is-deleted-once-your-notes-are-ready-and-can-t-be-accessed-or-replayed-ava|chatgpt-2026-09-29-e895c4]]'
@@ -50,11 +50,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-10-02-finances-expands-to-free-
 source_type: chatgpt_changelog
 theme: mobile-desktop
 title: Finances in ChatGPT is rolling out to Free and Go users in the U.S. on web,
-  iOS,
+  iOS…
 type: change
 ---
 
-# Finances in ChatGPT is rolling out to Free and Go users in the U.S. on web, iOS,
+# Finances in ChatGPT is rolling out to Free and Go users in the U.S. on web, iOS…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Finances expands to Free and Go users: Finances in ChatGPT is rolling out to Free and Go users in the U.S. on web, iOS, and Android. You can securely connect your financial accounts to find ways to save, understand your spending, and make sense of your investments, with answers grounded in your finances.

@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: b255fa8b5adc8011c8a253decf53caa42a184f6c99c424a48d2d5646744c10e5
+machine_hash: 1aad18dab8b7bdf2ac1190cdf56e1d3a5399e9ac3754a3e6b86222500e713309
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: 'Changed `/config` toggle behavior: Enter and Space both change the selected
       setting, and Esc now saves and closes instead of reverting'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.183
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,8 +37,7 @@ record:
   theme: interface-experience
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: 'Changed `/config` toggle behavior: Enter and Space both change the selected
-    sett'
+  title: Changed `/config` toggle behavior
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-17-improved-streaming-of-long-paragraphs-text-now-appears-line-by-line-instead-of-w|claude-code-2026-06-17-64f521]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-19-v2-1-183-github-341696059-98586912|claude-code-2026-06-19-v2-1-183-github-341696059-98586912]]'
 source_type: github_releases
 theme: interface-experience
-title: 'Changed /config toggle behavior: Enter and Space both change the selected
-  sett'
+title: Changed /config toggle behavior
 type: change
 ---
 
-# Changed `/config` toggle behavior: Enter and Space both change the selected sett
+# Changed `/config` toggle behavior
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.183: Changed `/config` toggle behavior: Enter and Space both change the selected setting, and Esc now saves and closes instead of reverting

@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-09-14'
-machine_hash: c917eb2332a7f706d67ed6bda7007d1b0fb5c1ec28a83cc8e822dcb12e16f446
+machine_hash: 23deb660a4ff9448efa094a8d34b64539fedbbc105a1409195459bac383b06ce
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2026-09-14-we-re-retiring-automatic-switching-from-instant-to-thinking-reasoning-for-chatgp|We’re retiring automatic switching from Instant to Thinking (reasoning) for Chat]]
+- model-support: [[Changes/ChatGPT/2026-09-14-we-re-retiring-automatic-switching-from-instant-to-thinking-reasoning-for-chatgp|We’re retiring automatic switching from Instant to Thinking (reasoning) for ChatGPT…]]
 <!-- chronolog:end -->

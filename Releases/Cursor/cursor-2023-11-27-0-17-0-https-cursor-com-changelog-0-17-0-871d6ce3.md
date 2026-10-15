@@ -1,7 +1,7 @@
 ---
 changes_count: 4
 date: '2023-11-27'
-machine_hash: 8a33777bd574171ce7927346b54c6eb30f740ffa21a81a2f186989343c859323
+machine_hash: 044933588984d8405bd74f946a80eb276a389a120c9ae656a35cc86f43c1dba0
 product: cursor
 product_name: Cursor
 record:
@@ -39,8 +39,8 @@ Tracked cards: 4
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- multimodal: [[Changes/Cursor/2023-11-27-image-support-in-chat-you-can-now-drag-and-drop-images-into-the-chat-to-send-the|Image Support in Chat: You can now drag and drop images into the chat to send th]]
-- editor-experience: [[Changes/Cursor/2023-11-27-interpreter-mode-beta-you-can-now-enable-interpreter-mode-in-the-more-tab-this-g|Interpreter Mode Beta: You can now enable Interpreter Mode in the "More" tab. Th]]
-- interface-experience: [[Changes/Cursor/2023-11-27-copilot-improvements-we-ve-spent-some-time-improving-the-latency-of-copilot-and|Copilot++ Improvements: We've spent some time improving the latency of Copilot++]]
-- context-window: [[Changes/Cursor/2023-11-27-folders-you-can-now-use-the-symbol-to-reference-specific-folders-we-ll-try-to-pi|@ folders: You can now use the @ symbol to reference specific folders! We'll try]]
+- multimodal: [[Changes/Cursor/2023-11-27-image-support-in-chat-you-can-now-drag-and-drop-images-into-the-chat-to-send-the|Image Support in Chat]]
+- editor-experience: [[Changes/Cursor/2023-11-27-interpreter-mode-beta-you-can-now-enable-interpreter-mode-in-the-more-tab-this-g|Interpreter Mode Beta: You can now enable Interpreter Mode in the "More" tab]]
+- interface-experience: [[Changes/Cursor/2023-11-27-copilot-improvements-we-ve-spent-some-time-improving-the-latency-of-copilot-and|Copilot++ Improvements: We've spent some time improving the latency…]]
+- context-window: [[Changes/Cursor/2023-11-27-folders-you-can-now-use-the-symbol-to-reference-specific-folders-we-ll-try-to-pi|@ folders: You can now use the @ symbol to reference specific folders!]]
 <!-- chronolog:end -->

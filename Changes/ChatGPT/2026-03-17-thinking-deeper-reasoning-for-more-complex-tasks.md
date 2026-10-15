@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e08763a02880afa0a8bc1e4f33e53fd1f780b204304f210d5689fb629a774d86
+machine_hash: a01c79bb6be957b7333a5809a4753592b11517e4cc54337173fa7e19a4fe0d4b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Thinking – deeper reasoning for more complex tasks
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT

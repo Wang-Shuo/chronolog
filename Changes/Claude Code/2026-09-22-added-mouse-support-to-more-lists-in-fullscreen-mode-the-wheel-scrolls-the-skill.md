@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 53bc07e2f1ee54cf6cfef94b127972590f9554e473c0660113250afaacc0ada3
+machine_hash: ab2abcbd75413759634f381f540248a0d605be41da89d09cc03251d0517d0649
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,7 +29,7 @@ record:
   - quote: 'Added mouse support to more lists in fullscreen mode: the wheel scrolls
       the `/skills` list, and a skill''s state options in `/plugin` can be clicked'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.280
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -47,8 +47,7 @@ record:
     score: 50
     theme: interface-experience
   theme_resolution: manual-semantic-rule-v1
-  title: 'Added mouse support to more lists in fullscreen mode: the wheel scrolls
-    the `/sk'
+  title: Added mouse support to more lists in fullscreen mode
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-17-added-plugin-install-plugin-marketplace-source-which-offers-to-add-the-marketpla|claude-code-2026-09-17-f354ad]]'
@@ -57,12 +56,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b|claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b]]'
 source_type: github_releases
 theme: apps-integrations
-title: 'Added mouse support to more lists in fullscreen mode: the wheel scrolls the
-  /sk'
+title: Added mouse support to more lists in fullscreen mode
 type: change
 ---
 
-# Added mouse support to more lists in fullscreen mode: the wheel scrolls the `/sk
+# Added mouse support to more lists in fullscreen mode
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.280: Added mouse support to more lists in fullscreen mode: the wheel scrolls the `/skills` list, and a skill's state options in `/plugin` can be clicked

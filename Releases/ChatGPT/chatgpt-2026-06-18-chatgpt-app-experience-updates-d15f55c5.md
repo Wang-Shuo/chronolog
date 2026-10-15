@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2026-06-18'
-machine_hash: f39a656fb103c16ec38788aa4ae0f6289b8a838f860b6df4f07cdbcacb4d9942
+machine_hash: 7e91aa8d4ef4f8953230c5daee8a6037c9150ecfd77ff45e20c53f133c0bf9a9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,9 +41,9 @@ Tracked cards: 5
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- safety-privacy: [[Changes/ChatGPT/2026-06-18-app-permission-controls-you-can-now-choose-when-chatgpt-asks-before-using-connec|App permission controls: You can now choose when ChatGPT asks before using conne]]
-- collaboration: [[Changes/ChatGPT/2026-06-18-world-cup-updates-chatgpt-can-now-help-you-follow-the-tournament-in-a-more-conve|World Cup updates: ChatGPT can now help you follow the tournament in a more conv]]
-- interface-experience: [[Changes/ChatGPT/2026-06-18-easier-pinning-and-sidebar-organization-it-s-now-easier-to-keep-important-work-c|Easier pinning and sidebar organization: It’s now easier to keep important work]]
-- voice: [[Changes/ChatGPT/2026-06-18-help-with-pronunciations-chatgpt-can-now-include-text-and-audio-pronunciation-gu|Help with pronunciations: ChatGPT can now include text and audio pronunciation g]]
-- mobile-desktop: [[Changes/ChatGPT/2026-06-18-chatgpt-now-has-more-ways-to-help-with-common-questions-from-pronunciation-guida|ChatGPT now has more ways to help with common questions, from pronunciation guid]]
+- safety-privacy: [[Changes/ChatGPT/2026-06-18-app-permission-controls-you-can-now-choose-when-chatgpt-asks-before-using-connec|App permission controls: You can now choose when ChatGPT asks before using connected apps]]
+- collaboration: [[Changes/ChatGPT/2026-06-18-world-cup-updates-chatgpt-can-now-help-you-follow-the-tournament-in-a-more-conve|World Cup updates]]
+- interface-experience: [[Changes/ChatGPT/2026-06-18-easier-pinning-and-sidebar-organization-it-s-now-easier-to-keep-important-work-c|Easier pinning and sidebar organization]]
+- voice: [[Changes/ChatGPT/2026-06-18-help-with-pronunciations-chatgpt-can-now-include-text-and-audio-pronunciation-gu|Help with pronunciations]]
+- mobile-desktop: [[Changes/ChatGPT/2026-06-18-chatgpt-now-has-more-ways-to-help-with-common-questions-from-pronunciation-guida|ChatGPT now has more ways to help with common questions, from pronunciation guidance…]]
 <!-- chronolog:end -->

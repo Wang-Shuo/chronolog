@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: eaa5751228bcf0a56c885a32fc8743a0a74c6eb97c1f7632bb6857c7ce6ef8ce
+machine_hash: 642a378b2522de6a892c1c6b14d292cc33313476a88c2bee1aceb2cc0896e795
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: that are actually being used for each doc you have uploaded. You'll also
       be able to see what webpages end up being shown to GPT-4 to provide you an answer.
     source_release: https://cursor.com/changelog/0-10-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,8 +37,7 @@ record:
   theme: model-support
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: that are actually being used for each doc you have uploaded. You'll also
-    be able
+  title: that are actually being used for each doc you have uploaded
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-07-28-new-completion-experience-powered-by-gpt-4-just-press-and-you-ll-get-a-long-comp|cursor-2023-07-28-3dcb54]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-09-08-0-10-0-https-cursor-com-changelog-0-10-0-8f32d699|cursor-2023-09-08-0-10-0-https-cursor-com-changelog-0-10-0-8f32d699]]'
 source_type: cursor_changelog
 theme: model-support
-title: that are actually being used for each doc you have uploaded. You'll also be
-  able
+title: that are actually being used for each doc you have uploaded
 type: change
 ---
 
-# that are actually being used for each doc you have uploaded. You'll also be able
+# that are actually being used for each doc you have uploaded
 
 <!-- chronolog:begin region="description" -->
 Cursor — Better Docs Management, Staged Rollouts: that are actually being used for each doc you have uploaded. You'll also be able to see what webpages end up being shown to GPT-4 to provide you an answer.

@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-06-04'
-machine_hash: ee753372a0eb4d03554601be8f37986924d79d9382de3ebe184b8917f83adb13
+machine_hash: 7faafaa099d086993301d7e9091599d58b90a979b5b93c832ba02b64665a30b2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- memory: [[Changes/ChatGPT/2026-06-04-we-ve-upgraded-memory-so-chatgpt-can-better-keep-your-context-up-to-date-helping-9a48f3|We’ve upgraded memory so ChatGPT can better keep your context up to date, helpin]]
+- memory: [[Changes/ChatGPT/2026-06-04-we-ve-upgraded-memory-so-chatgpt-can-better-keep-your-context-up-to-date-helping-9a48f3|We’ve upgraded memory so ChatGPT can better keep your context up to date, helping…]]
 <!-- chronolog:end -->

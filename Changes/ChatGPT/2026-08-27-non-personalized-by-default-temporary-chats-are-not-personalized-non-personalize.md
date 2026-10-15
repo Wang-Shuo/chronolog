@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 50fa3041014330943e1a23f5a9f8f08344e3d7244ee5807775091c9939181935
+machine_hash: 0e98e76f1938347fb5626ba49d8d32eb68293259401b4f836408c8f391d3ba59
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       temporary chats do not use memory, custom instructions, or plugins, and they
       do not create new memories.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -49,7 +49,7 @@ record:
     - plugins
     score: 50
     theme: apps-integrations
-  title: 'Non-personalized: By default, temporary chats are not personalized. Non-personal'
+  title: 'Non-personalized: By default, temporary chats are not personalized'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-18-improved-the-embedded-grep-in-native-macos-linux-builds-pathological-patterns-no|claude-code-2026-08-18-124624]]'
@@ -58,11 +58,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-27-more-controls-in-temporary-chat-5ca95d13|chatgpt-2026-08-27-more-controls-in-temporary-chat-5ca95d13]]'
 source_type: chatgpt_changelog
 theme: memory
-title: 'Non-personalized: By default, temporary chats are not personalized. Non-personal'
+title: 'Non-personalized: By default, temporary chats are not personalized'
 type: change
 ---
 
-# Non-personalized: By default, temporary chats are not personalized. Non-personal
+# Non-personalized: By default, temporary chats are not personalized
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — More controls in temporary chat: Non-personalized: By default, temporary chats are not personalized. Non-personalized temporary chats do not use memory, custom instructions, or plugins, and they do not create new memories.

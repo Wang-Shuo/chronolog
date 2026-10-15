@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-09-18'
-machine_hash: 593ac838c7d5d2bcc9a28d87d4658f592f47d101c9718bdfad2ff2c87f640691
+machine_hash: c410291a7e1651a525f92eb5a8c1a116b47d962375835edb6cf62d6b41ecbf74
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,5 +39,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2025-09-18-we-re-improving-the-quality-and-latency-of-responses-of-the-version-of-advanced|We’re improving the quality and latency of responses of the version of Advanced]]
+- model-support: [[Changes/ChatGPT/2025-09-18-we-re-improving-the-quality-and-latency-of-responses-of-the-version-of-advanced|We’re improving the quality and latency of responses of the version of Advanced…]]
 <!-- chronolog:end -->

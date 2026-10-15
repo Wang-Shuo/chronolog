@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2023-06-06'
-machine_hash: 45d799c65a4330844b4e3ef8841b1901fd0f04472842a3566728f4250ecb8fda
+machine_hash: 5ca2e8f69f64496aa3fe759c868a3c889ad2d6ef585a41824be920ab79862214
 product: cursor
 product_name: Cursor
 record:
@@ -38,6 +38,6 @@ Tracked cards: 2
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- context-window: [[Changes/Cursor/2023-06-06-introducing-v1-of-codebase-wide-context-we-ll-be-shipping-major-improvements-to|Introducing v1 of codebase-wide context! We'll be shipping major improvements to]]
-- context-window: [[Changes/Cursor/2023-06-06-or-on-chat-press-cmd-enter-in-order-to-get-a-response-that-uses-context-from-the|Or, on chat, press Cmd+Enter in order to get a response that uses context from t]]
+- context-window: [[Changes/Cursor/2023-06-06-introducing-v1-of-codebase-wide-context-we-ll-be-shipping-major-improvements-to|Introducing v1 of codebase-wide context!]]
+- context-window: [[Changes/Cursor/2023-06-06-or-on-chat-press-cmd-enter-in-order-to-get-a-response-that-uses-context-from-the|Or, on chat, press Cmd+Enter in order to get a response that uses context…]]
 <!-- chronolog:end -->

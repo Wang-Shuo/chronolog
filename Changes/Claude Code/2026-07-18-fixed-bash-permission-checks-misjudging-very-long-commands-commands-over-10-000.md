@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ff2adaddf0bfd4f9b99ac6da0b96372e0d524c46226a49f90407a2e081294e8e
+machine_hash: 8922ca682ffcc7a1bf890405f10c7822dc45cde2ff3e333e0325488a453b020e
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Fixed Bash permission checks misjudging very long commands — commands over
       10,000 characters now always prompt instead of running automatically
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.214
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,8 +37,7 @@ record:
   theme: safety-privacy
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: Fixed Bash permission checks misjudging very long commands — commands over
-    10,00
+  title: Fixed Bash permission checks misjudging very long commands
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-18-fixed-a-permission-check-bypass-affecting-commands-run-in-windows-powershell-5-1|claude-code-2026-07-18-70feaa]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-18-v2-1-214-github-355973317-478680c5|claude-code-2026-07-18-v2-1-214-github-355973317-478680c5]]'
 source_type: github_releases
 theme: safety-privacy
-title: Fixed Bash permission checks misjudging very long commands — commands over
-  10,00
+title: Fixed Bash permission checks misjudging very long commands
 type: change
 ---
 
-# Fixed Bash permission checks misjudging very long commands — commands over 10,00
+# Fixed Bash permission checks misjudging very long commands
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.214: Fixed Bash permission checks misjudging very long commands — commands over 10,000 characters now always prompt instead of running automatically

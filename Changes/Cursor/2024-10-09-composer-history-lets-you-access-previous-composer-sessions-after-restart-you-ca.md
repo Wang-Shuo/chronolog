@@ -11,9 +11,9 @@ diffusion:
   theme: projects-workspaces
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 30c9c44e8480d02a8418147b61cd9e3d5e79e66b2ac9625c406771f1ca79f754
+machine_hash: 046c61bf9747e382de56043ce810c268d705fda6d9b53bbe3d090785505d069c
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Composer history lets you access previous composer sessions after restart.
       You can also edit and resubmit from previous messages within a session.
     source_release: https://cursor.com/changelog/0-42-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,8 +37,7 @@ record:
   theme: projects-workspaces
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Composer history lets you access previous composer sessions after restart.
-    You c
+  title: Composer history lets you access previous composer sessions after restart
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-09-07-it-still-struggles-with-coherently-producing-large-complex-projects-but-produces|cursor-2023-09-07-a25517]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-10-09-0-42-x-https-cursor-com-changelog-0-42-x-71ecd9d1|cursor-2024-10-09-0-42-x-https-cursor-com-changelog-0-42-x-71ecd9d1]]'
 source_type: cursor_changelog
 theme: projects-workspaces
-title: Composer history lets you access previous composer sessions after restart.
-  You c
+title: Composer history lets you access previous composer sessions after restart
 type: change
 ---
 
-# Composer history lets you access previous composer sessions after restart. You c
+# Composer history lets you access previous composer sessions after restart
 
 <!-- chronolog:begin region="description" -->
 Cursor — Composer History, @Lint Errors, VS Code 1.93.1: Composer history lets you access previous composer sessions after restart. You can also edit and resubmit from previous messages within a session.

@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: e019b69cf338da0d3633f66e79ba04cb337bedd3fe81286893ff5db02fc4b6f7
+machine_hash: 3928387f1ccfcad12e57c654a7c49a6352baa28b467c51339da7783626945fdc
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
   - quote: Available in Cursor 3.7+ and on cursor.com/agents, with support in CLI
       coming soon.
     source_release: https://cursor.com/changelog/bugbot-updates-june-2026
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -38,7 +38,7 @@ record:
   source_type: cursor_changelog
   theme: agent-mode
   title: Available in Cursor 3.7+ and on cursor.com/agents, with support in CLI coming
-    so
+    soon
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-06-04-by-default-a-local-sdk-agent-runs-tool-calls-without-asking-for-approval-since-t|cursor-2026-06-04-ee9248]]'
@@ -48,11 +48,11 @@ source_release: '[[Releases/Cursor/cursor-2026-06-10-bugbot-is-now-over-3x-faste
 source_type: cursor_changelog
 theme: agent-mode
 title: Available in Cursor 3.7+ and on cursor.com/agents, with support in CLI coming
-  so
+  soon
 type: change
 ---
 
-# Available in Cursor 3.7+ and on cursor.com/agents, with support in CLI coming so
+# Available in Cursor 3.7+ and on cursor.com/agents, with support in CLI coming soon
 
 <!-- chronolog:begin region="description" -->
 Cursor — Bugbot is now over 3x faster, 22% cheaper, and finds 10% more bugs: Available in Cursor 3.7+ and on cursor.com/agents, with support in CLI coming soon.

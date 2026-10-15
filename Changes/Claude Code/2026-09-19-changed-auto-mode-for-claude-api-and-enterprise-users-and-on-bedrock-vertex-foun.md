@@ -11,9 +11,9 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 2590e5e2367f5e14b9e461a6ba0863ecb43b5e198fff6d1118da41735ec563fc
+machine_hash: 27713ae5463eedf4f8490ad72c463be0fa4693a8a69acec6f9f66cad7259b2c3
 product: claude-code
 product_name: Claude Code
 record:
@@ -32,7 +32,7 @@ record:
       out on Bedrock, Vertex, Foundry and gateways); warns on billed fallback. See
       https://code.claude.com/docs/en/auto-mode-classifier-billing
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.278
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -54,8 +54,7 @@ record:
     score: 50
     theme: pricing-model
   theme_resolution: manual-semantic-rule-v1
-  title: Changed auto mode for Claude API and Enterprise users, and on Bedrock, Vertex,
-    F
+  title: Changed auto mode for Claude API and Enterprise users, and on Bedrock, Vertex…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-28-added-a-per-session-prompt-cache-line-to-cost-hit-ratio-misses-tokens-re-cached|claude-code-2026-08-28-3956b9]]'
@@ -64,12 +63,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-19-v2-1-278-github-391877760-2958ad0a|claude-code-2026-09-19-v2-1-278-github-391877760-2958ad0a]]'
 source_type: github_releases
 theme: pricing-model
-title: Changed auto mode for Claude API and Enterprise users, and on Bedrock, Vertex,
-  F
+title: Changed auto mode for Claude API and Enterprise users, and on Bedrock, Vertex…
 type: change
 ---
 
-# Changed auto mode for Claude API and Enterprise users, and on Bedrock, Vertex, F
+# Changed auto mode for Claude API and Enterprise users, and on Bedrock, Vertex…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.278: Changed auto mode for Claude API and Enterprise users, and on Bedrock, Vertex, Foundry and gateways, to default to the server-side classifier, which does not charge for classifier overhead (`CLAUDE_CODE_AUTO_MODE_SERVER=0` opts out on Bedrock, Vertex, Foundry and gateways); warns on billed fallback. See https://code.claude.com/docs/en/auto-mode-classifier-billing

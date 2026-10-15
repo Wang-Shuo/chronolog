@@ -11,9 +11,9 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 631662f9dda8f8886f5b3207c1ae572be70f986f755aa92b11a9b2f2cf715974
+machine_hash: d9e98189dcab550bb9bceb0726e42260844d1a49710ea1b6507e8b7e0efc9eb2
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       names it, you confirm it before the credential is saved, and `/status` shows
       it'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.275
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -46,8 +46,7 @@ record:
     score: 50
     theme: apps-integrations
   theme_resolution: manual-semantic-rule-v1
-  title: 'Added the signed-in account to Claude apps gateway sign-in: when the gateway
-    nam'
+  title: Added the signed-in account to Claude apps gateway sign-in
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-21-changed-the-login-expiry-warning-to-appear-3-days-before-expiry-instead-of-5|claude-code-2026-07-21-25f32d]]'
@@ -56,12 +55,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-17-v2-1-275-github-391032307-12ccfafd|claude-code-2026-09-17-v2-1-275-github-391032307-12ccfafd]]'
 source_type: github_releases
 theme: account-access
-title: 'Added the signed-in account to Claude apps gateway sign-in: when the gateway
-  nam'
+title: Added the signed-in account to Claude apps gateway sign-in
 type: change
 ---
 
-# Added the signed-in account to Claude apps gateway sign-in: when the gateway nam
+# Added the signed-in account to Claude apps gateway sign-in
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.275: Added the signed-in account to Claude apps gateway sign-in: when the gateway names it, you confirm it before the credential is saved, and `/status` shows it

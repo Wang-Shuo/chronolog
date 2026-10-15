@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 183535e4db72cbc98474313981bc4a89d8e6895a0338d767716cce9e01415d7b
+machine_hash: b6b781f68050fa8472e34bc10ca19b6ec88a2649615a12aa3578a47d6a258f40
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Fine-grained chat replies (start by hovering over the area of the response
       you want to reply to)
     source_release: https://cursor.com/changelog/0-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -36,8 +36,7 @@ record:
   theme: interface-experience
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Fine-grained chat replies (start by hovering over the area of the response
-    you w
+  title: Fine-grained chat replies…
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-12-16-previews-we-made-it-easier-to-see-what-codeblock-you-re-ing|cursor-2023-12-16-2b94f7]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-02-09-0-26-https-cursor-com-changelog-0-26-9569782c|cursor-2024-02-09-0-26-https-cursor-com-changelog-0-26-9569782c]]'
 source_type: cursor_changelog
 theme: interface-experience
-title: Fine-grained chat replies (start by hovering over the area of the response
-  you w
+title: Fine-grained chat replies…
 type: change
 ---
 
-# Fine-grained chat replies (start by hovering over the area of the response you w
+# Fine-grained chat replies…
 
 <!-- chronolog:begin region="description" -->
 Cursor — AI Previews Beta: Fine-grained chat replies (start by hovering over the area of the response you want to reply to)

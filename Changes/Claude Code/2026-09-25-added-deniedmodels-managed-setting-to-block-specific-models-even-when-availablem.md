@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8e89601da87c91bfa7b176328d8d4bbf142bebed4b92b0c507dc9da8c3a7d4fb
+machine_hash: 8f9d20a87137e078dac1b205493dd0759c3ecf9b8df73bc2a9c835817bbfeab6
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `deniedModels` managed setting to block specific models, even when
       `availableModels` allows them
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.283
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -34,8 +34,7 @@ record:
   source_release: claude-code-2026-09-25-v2-1-283-github-396845205-9a5a07f8
   source_type: github_releases
   theme: model-support
-  title: Added `deniedModels` managed setting to block specific models, even when
-    `availa
+  title: Added `deniedModels` managed setting to block specific models, even…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-17-added-a-send-now-key-ctrl-enter-or-ctrl-x-ctrl-s-that-interrupts-the-current-tur|claude-code-2026-09-17-a922c8]]'
@@ -44,11 +43,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-25-v2-1-283-github-396845205-9a5a07f8|claude-code-2026-09-25-v2-1-283-github-396845205-9a5a07f8]]'
 source_type: github_releases
 theme: model-support
-title: Added deniedModels managed setting to block specific models, even when availa
+title: Added deniedModels managed setting to block specific models, even…
 type: change
 ---
 
-# Added `deniedModels` managed setting to block specific models, even when `availa
+# Added `deniedModels` managed setting to block specific models, even…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.283: Added `deniedModels` managed setting to block specific models, even when `availableModels` allows them

@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1bce492ac8891b7449d2d39b67163f7210456fa50428f6f06c6c8d0977c41309
+machine_hash: bd68362d9a76dec2e0ffb8b32d086dc5ba58b1bc91d93f8c75bda6b77d5345bd
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: 'Intelligence: Frontier quality, matching the most expensive and powerful
       models that might be out of reach for daily use.'
     source_release: https://cursor.com/changelog/router
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,7 +35,7 @@ record:
   source_type: cursor_changelog
   theme: model-support
   title: 'Intelligence: Frontier quality, matching the most expensive and powerful
-    models'
+    models…'
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-07-06-we-re-rolling-out-gpt-5-5-instant-mini-in-chatgpt-it-replaces-gpt-5-3-instant-mi|chatgpt-2026-07-06-367b99]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-07-22-cursor-router-https-cursor-com-changelog-router-af8c2ac4|cursor-2026-07-22-cursor-router-https-cursor-com-changelog-router-af8c2ac4]]'
 source_type: cursor_changelog
 theme: model-support
-title: 'Intelligence: Frontier quality, matching the most expensive and powerful models'
+title: 'Intelligence: Frontier quality, matching the most expensive and powerful models…'
 type: change
 ---
 
-# Intelligence: Frontier quality, matching the most expensive and powerful models
+# Intelligence: Frontier quality, matching the most expensive and powerful models…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cursor Router: Intelligence: Frontier quality, matching the most expensive and powerful models that might be out of reach for daily use.

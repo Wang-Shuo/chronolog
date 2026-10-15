@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-06-24'
-machine_hash: e97881f78d0f4a8d104bce3f4ec2282523799c670a8ee77f88fe231d1617e43c
+machine_hash: 5002e3e3eaa7949b43ab335aca41f5437ff0dc9620df39ca1479be1d4af93976
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2026-06-24-we-re-updating-gpt-5-5-instant-our-most-used-model-in-chatgpt-to-improve-convers|We’re updating GPT-5.5 Instant, our most-used model in ChatGPT, to improve conve]]
+- model-support: [[Changes/ChatGPT/2026-06-24-we-re-updating-gpt-5-5-instant-our-most-used-model-in-chatgpt-to-improve-convers|We’re updating GPT-5.5 Instant, our most-used model in ChatGPT, to improve…]]
 <!-- chronolog:end -->

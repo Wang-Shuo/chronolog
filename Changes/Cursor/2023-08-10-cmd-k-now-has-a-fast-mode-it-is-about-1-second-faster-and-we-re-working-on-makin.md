@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ee0fd2a82d9ca3d089d4e066c5e56e5b02c59889eb970e7ebda13c7fbaf22f5c
+machine_hash: 71b0fbdc37717f86eccf59a7bdfd831f03fb1de0957e582f8b2c4d9cc7ac8e9c
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Cmd-K now has a fast mode! It is about 1 second faster, and we're working
       on making it even faster. Let us know what you think!
     source_release: https://cursor.com/changelog/0-7-1-nightly
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -45,8 +45,7 @@ record:
     score: 50
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v1
-  title: Cmd-K now has a fast mode! It is about 1 second faster, and we're working
-    on mak
+  title: Cmd-K now has a fast mode!
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-07-28-but-copilot-can-be-slow-and-sometimes-just-not-smart-enough-so-we-re-trying-to-s|cursor-2023-07-28-10c378]]'
@@ -55,12 +54,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-08-10-0-7-1-nightly-https-cursor-com-changelog-0-7-1-nightly-cdbf86e6|cursor-2023-08-10-0-7-1-nightly-https-cursor-com-changelog-0-7-1-nightly-cdbf86e6]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: Cmd-K now has a fast mode! It is about 1 second faster, and we're working on
-  mak
+title: Cmd-K now has a fast mode!
 type: change
 ---
 
-# Cmd-K now has a fast mode! It is about 1 second faster, and we're working on mak
+# Cmd-K now has a fast mode!
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cmd-K fast mode: Cmd-K now has a fast mode! It is about 1 second faster, and we're working on making it even faster. Let us know what you think!

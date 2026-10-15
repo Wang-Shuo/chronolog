@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2026-09-29'
-machine_hash: 34ad189aa9d70c2ca4102e124c792bb4cace6ab21ad8992e96765d5abbe35952
+machine_hash: 992737fe266b5d2be6a7ea8604794e5da0e6f7a5cf404b281329d190a789e7fd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,6 +41,6 @@ Tracked cards: 2
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- memory: [[Changes/ChatGPT/2026-09-29-pages-follow-space-s-availability-and-sharing-settings-sharing-a-page-does-not-g|Pages follow Space’s availability and sharing settings. Sharing a Page does not]]
-- editor-experience: [[Changes/ChatGPT/2026-09-29-turn-a-conversation-into-a-page-start-from-a-template-or-begin-writing-directly|Turn a conversation into a Page, start from a template, or begin writing directl]]
+- memory: [[Changes/ChatGPT/2026-09-29-pages-follow-space-s-availability-and-sharing-settings-sharing-a-page-does-not-g|Pages follow Space’s availability and sharing settings]]
+- editor-experience: [[Changes/ChatGPT/2026-09-29-turn-a-conversation-into-a-page-start-from-a-template-or-begin-writing-directly|Turn a conversation into a Page, start from a template, or begin writing directly in Space]]
 <!-- chronolog:end -->

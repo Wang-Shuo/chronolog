@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 761c3e41c369fea557e1566edde2dc08a11efe58e8289d69b62e06a0dfafbd16
+machine_hash: a70a38ffcf28f5f2256d896ff47ecb12fd94befd77e87138a35644030216d0ce
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       Bedrock service tier (`default`, `flex`, or `priority`), sent as the `X-Amzn-Bedrock-Service-Tier`
       header
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.122
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,7 +38,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Added `ANTHROPIC_BEDROCK_SERVICE_TIER` environment variable to select a Bedrock
+  title: Added `ANTHROPIC_BEDROCK_SERVICE_TIER` environment variable to select a Bedrock…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-23-create-and-switch-between-named-custom-themes-from-theme-or-hand-edit-json-files|claude-code-2026-04-23-72b7ff]]'
@@ -47,11 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-28-v2-1-122-github-314740479-0cc42196|claude-code-2026-04-28-v2-1-122-github-314740479-0cc42196]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added ANTHROPIC_BEDROCK_SERVICE_TIER environment variable to select a Bedrock
+title: Added ANTHROPIC_BEDROCK_SERVICE_TIER environment variable to select a Bedrock…
 type: change
 ---
 
-# Added `ANTHROPIC_BEDROCK_SERVICE_TIER` environment variable to select a Bedrock
+# Added `ANTHROPIC_BEDROCK_SERVICE_TIER` environment variable to select a Bedrock…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.122: Added `ANTHROPIC_BEDROCK_SERVICE_TIER` environment variable to select a Bedrock service tier (`default`, `flex`, or `priority`), sent as the `X-Amzn-Bedrock-Service-Tier` header

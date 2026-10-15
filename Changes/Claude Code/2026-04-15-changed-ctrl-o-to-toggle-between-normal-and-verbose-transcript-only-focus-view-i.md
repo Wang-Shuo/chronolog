@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 27d3955a7562fbb4f9a3e59b0e54ac9bea51b92f707bca86a6436c62540f5b25
+machine_hash: 3534a6a0f8b09d1977e117a9fb5d4f212e66c0d10466f766c63bc8d883b303fe
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,7 +29,7 @@ record:
   - quote: Changed `Ctrl+O` to toggle between normal and verbose transcript only;
       focus view is now toggled separately with the new `/focus` command
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.110
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -39,8 +39,7 @@ record:
   theme: interface-experience
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: Changed `Ctrl+O` to toggle between normal and verbose transcript only; focus
-    vie
+  title: Changed `Ctrl+O` to toggle between normal and verbose transcript only
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-14-undo-is-now-an-alias-for-rewind|claude-code-2026-04-14-1ec89b]]'
@@ -49,12 +48,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-15-v2-1-110-github-309583669-83ce1e59|claude-code-2026-04-15-v2-1-110-github-309583669-83ce1e59]]'
 source_type: github_releases
 theme: interface-experience
-title: Changed Ctrl+O to toggle between normal and verbose transcript only; focus
-  vie
+title: Changed Ctrl+O to toggle between normal and verbose transcript only
 type: change
 ---
 
-# Changed `Ctrl+O` to toggle between normal and verbose transcript only; focus vie
+# Changed `Ctrl+O` to toggle between normal and verbose transcript only
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.110: Changed `Ctrl+O` to toggle between normal and verbose transcript only; focus view is now toggled separately with the new `/focus` command

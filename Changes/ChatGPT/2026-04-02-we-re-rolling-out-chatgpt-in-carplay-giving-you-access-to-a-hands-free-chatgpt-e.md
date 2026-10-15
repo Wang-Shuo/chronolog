@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: e75aa7dc11ed963e660e5e2a75ae10220293925dccb8ec64b890bbffe1aa47cb
+machine_hash: 1c412a99931d17c7d3a71a75687ce0f79e7fa16f928e8172de34b13bff95498b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,7 +35,7 @@ record:
       from the CarPlay interface. You can also resume existing conversations you were
       having using voice mode in the ChatGPT mobile app. Learn more.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -54,7 +54,7 @@ record:
     - voice
     score: 110
     theme: voice
-  title: We’re rolling out ChatGPT in CarPlay, giving you access to a hands-free ChatGPT
+  title: ChatGPT rolls out ChatGPT in CarPlay, giving you access to a hands-free ChatGPT…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-03-26-to-give-you-more-space-to-view-your-most-critical-chats-and-projects-the-sidebar|chatgpt-2026-03-26-1b70e7]]'
@@ -63,11 +63,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-04-02-chatgpt-in-apple-carplay-3c2ba8a2|chatgpt-2026-04-02-chatgpt-in-apple-carplay-3c2ba8a2]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: We’re rolling out ChatGPT in CarPlay, giving you access to a hands-free ChatGPT
+title: ChatGPT rolls out ChatGPT in CarPlay, giving you access to a hands-free ChatGPT…
 type: change
 ---
 
-# We’re rolling out ChatGPT in CarPlay, giving you access to a hands-free ChatGPT
+# ChatGPT rolls out ChatGPT in CarPlay, giving you access to a hands-free ChatGPT…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT in Apple CarPlay: We’re rolling out ChatGPT in CarPlay, giving you access to a hands-free ChatGPT experience while on-the-go. If you have iOS 26.4 or newer and are connected to a supported car, you can start new voice conversations with ChatGPT directly from the CarPlay interface. You can also resume existing conversations you were having using voice mode in the ChatGPT mobile app. Learn more.

@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4ea9bb1c4e4710ef998d3e0b2a2f8a6ed294acfa03a9069284240f4978c844fa
+machine_hash: de3453ea65af361e19628b518d1fd8fb05b2f09aa11c79ba1da01fb40b1cc096
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Plugins in `.claude/skills` directories are now automatically loaded, no
       marketplace required
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.157
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,7 +35,7 @@ record:
   source_type: github_releases
   theme: apps-integrations
   title: Plugins in `.claude/skills` directories are now automatically loaded, no
-    marketp
+    marketplace…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-27-sessionstart-hooks-can-now-return-reloadskills-true-to-re-scan-skill-directories|claude-code-2026-05-27-2c7621]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-29-v2-1-157-github-331670634-f5eda9d8|claude-code-2026-05-29-v2-1-157-github-331670634-f5eda9d8]]'
 source_type: github_releases
 theme: apps-integrations
-title: Plugins in .claude/skills directories are now automatically loaded, no marketp
+title: Plugins in .claude/skills directories are now automatically loaded, no marketplace…
 type: change
 ---
 
-# Plugins in `.claude/skills` directories are now automatically loaded, no marketp
+# Plugins in `.claude/skills` directories are now automatically loaded, no marketplace…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.157: Plugins in `.claude/skills` directories are now automatically loaded, no marketplace required

@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f7c8450a8a36accfa45c5ece61a875c770eba0eb00519944dee1b321971d9286
+machine_hash: 8ebab455c2da4e5812dfcd34ac9091f778fc6dae3bd256a373e60261cb6bfcf7
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Fixed PreToolUse hooks returning `"allow"` bypassing `deny` permission
       rules, including enterprise managed settings
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.77
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   theme: safety-privacy
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: Fixed PreToolUse hooks returning `"allow"` bypassing `deny` permission rules,
-    in
+  title: Fixed PreToolUse hooks returning `"allow"` bypassing `deny` permission rules…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-12-fixed-voice-mode-silently-failing-on-the-macos-native-binary-for-users-whose-ter|claude-code-2026-03-12-bcb8f1]]'
@@ -46,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-17-v2-1-77-github-297726061-caf6c30c|claude-code-2026-03-17-v2-1-77-github-297726061-caf6c30c]]'
 source_type: github_releases
 theme: safety-privacy
-title: Fixed PreToolUse hooks returning "allow" bypassing deny permission rules, in
+title: Fixed PreToolUse hooks returning "allow" bypassing deny permission rules…
 type: change
 ---
 
-# Fixed PreToolUse hooks returning `"allow"` bypassing `deny` permission rules, in
+# Fixed PreToolUse hooks returning `"allow"` bypassing `deny` permission rules…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.77: Fixed PreToolUse hooks returning `"allow"` bypassing `deny` permission rules, including enterprise managed settings

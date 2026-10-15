@@ -11,9 +11,9 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 037936f1101c5a7c4b4668967ecf148b5496e844f8753d481ec2eb6c022dabaa
+machine_hash: 8fcf72f22b6edabeca111835f9828d2ee64c77eddc4aa89233995a9b79bfd80e
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       support Dynamic Client Registration (e.g., Slack). Use `--client-id` and `--client-secret`
       with `claude mcp add`.
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.30
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -49,7 +49,7 @@ record:
     theme: apps-integrations
   theme_resolution: manual-semantic-rule-v1
   title: Added pre-configured OAuth client credentials for MCP servers that don't
-    support
+    support…
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-09-01-you-should-now-be-able-to-sign-in-with-github-again|cursor-2023-09-01-272a25]]'
@@ -58,11 +58,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-02-03-v2-1-30-github-282673902-7b2e46f2|claude-code-2026-02-03-v2-1-30-github-282673902-7b2e46f2]]'
 source_type: github_releases
 theme: account-access
-title: Added pre-configured OAuth client credentials for MCP servers that don't support
+title: Added pre-configured OAuth client credentials for MCP servers that don't support…
 type: change
 ---
 
-# Added pre-configured OAuth client credentials for MCP servers that don't support
+# Added pre-configured OAuth client credentials for MCP servers that don't support…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.30: Added pre-configured OAuth client credentials for MCP servers that don't support Dynamic Client Registration (e.g., Slack). Use `--client-id` and `--client-secret` with `claude mcp add`.

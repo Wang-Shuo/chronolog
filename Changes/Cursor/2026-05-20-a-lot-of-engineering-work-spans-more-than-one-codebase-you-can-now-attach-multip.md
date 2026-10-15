@@ -11,9 +11,9 @@ diffusion:
   theme: automation-scheduling
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3c6d2b584a3f13a6f5ea51f401ee7ca5f64f57c44abf16c1b0bf24a44b50445c
+machine_hash: 27711ca13b0e247e7059d5edded5c6e32e16a2483fcb5e6eba1a722aa336ec91
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
       multiple repos to an automation so agents reason across all required context
       and work across repos to deliver, test, and verify tasks.
     source_release: https://cursor.com/changelog/05-20-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -51,8 +51,7 @@ record:
     score: 50
     theme: context-window
   theme_resolution: manual-semantic-rule-v1
-  title: A lot of engineering work spans more than one codebase. You can now attach
-    multi
+  title: A lot of engineering work spans more than one codebase
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-13-proactive-is-now-an-alias-for-loop|claude-code-2026-04-13-dcb90e]]'
@@ -61,12 +60,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-05-20-3-5-https-cursor-com-changelog-05-20-26-f6af79ab|cursor-2026-05-20-3-5-https-cursor-com-changelog-05-20-26-f6af79ab]]'
 source_type: cursor_changelog
 theme: automation-scheduling
-title: A lot of engineering work spans more than one codebase. You can now attach
-  multi
+title: A lot of engineering work spans more than one codebase
 type: change
 ---
 
-# A lot of engineering work spans more than one codebase. You can now attach multi
+# A lot of engineering work spans more than one codebase
 
 <!-- chronolog:begin region="description" -->
 Cursor — Improvements to Cursor Automations: A lot of engineering work spans more than one codebase. You can now attach multiple repos to an automation so agents reason across all required context and work across repos to deliver, test, and verify tasks.

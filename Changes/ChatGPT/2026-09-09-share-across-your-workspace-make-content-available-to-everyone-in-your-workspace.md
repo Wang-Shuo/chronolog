@@ -11,9 +11,9 @@ diffusion:
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 06abe7fc8098a6290d334b01db9522a54826c5e47d00abcd7bcd2b94fef806e6
+machine_hash: c5dfa40538b67e7440b80ea88d2bdf0eaf78db492619d79da7078dff6179b14b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Share across your workspace. Make content available to everyone in your
       workspace.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -36,7 +36,7 @@ record:
   theme: collaboration
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: Share across your workspace. Make content available to everyone in your workspac
+  title: Share across your workspace
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-09-09-manage-access-review-who-has-access-change-permissions-or-remove-access-from-the|chatgpt-2026-09-09-939ef4]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-09-share-files-and-folders-from-your-library-37c26e4d|chatgpt-2026-09-09-share-files-and-folders-from-your-library-37c26e4d]]'
 source_type: chatgpt_changelog
 theme: collaboration
-title: Share across your workspace. Make content available to everyone in your workspac
+title: Share across your workspace
 type: change
 ---
 
-# Share across your workspace. Make content available to everyone in your workspac
+# Share across your workspace
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Share files and folders from your Library: Share across your workspace. Make content available to everyone in your workspace.

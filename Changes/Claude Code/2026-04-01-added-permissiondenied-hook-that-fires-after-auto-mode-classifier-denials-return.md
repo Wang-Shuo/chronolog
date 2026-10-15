@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: d170be0bdd57f95cb03f02e48d9bf4fd3b4be9d7939b9ded12f4ca36d87feaf0
+machine_hash: fa6dc0774936f4922a6aff83c7e06a45b94953a14461cc687a3addf30a0fc757
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,7 +29,7 @@ record:
   - quote: 'Added `PermissionDenied` hook that fires after auto mode classifier denials
       — return `{retry: true}` to tell the model it can retry'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.89
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -48,7 +48,6 @@ record:
     theme: model-support
   theme_resolution: manual-semantic-rule-v1
   title: Added `PermissionDenied` hook that fires after auto mode classifier denials
-    — re
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-03-25-your-codebase-build-outputs-and-secrets-all-stay-on-internal-machines-running-in|cursor-2026-03-25-6430ab]]'
@@ -57,12 +56,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-01-v2-1-89-github-303967782-358023f0|claude-code-2026-04-01-v2-1-89-github-303967782-358023f0]]'
 source_type: github_releases
 theme: agent-mode
-title: Added PermissionDenied hook that fires after auto mode classifier denials —
-  re
+title: Added PermissionDenied hook that fires after auto mode classifier denials
 type: change
 ---
 
-# Added `PermissionDenied` hook that fires after auto mode classifier denials — re
+# Added `PermissionDenied` hook that fires after auto mode classifier denials
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.89: Added `PermissionDenied` hook that fires after auto mode classifier denials — return `{retry: true}` to tell the model it can retry

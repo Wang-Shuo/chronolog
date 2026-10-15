@@ -1,7 +1,7 @@
 ---
 changes_count: 4
 date: '2026-08-25'
-machine_hash: 0ddce8bc48ff40b753165a1b44d3754a2d410db388a2dd6ab400acd801e38ec6
+machine_hash: 0fe7f7c7ef91879f7eb22a9e2901b329446a42848a1566e26548215d864436aa
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,8 +42,8 @@ Tracked cards: 4
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- automation-scheduling: [[Changes/ChatGPT/2026-08-25-scheduled-tasks-in-chatgpt-work-can-use-webhooks-to-respond-when-something-chang|Scheduled tasks in ChatGPT Work can use webhooks to respond when something chang]]
-- automation-scheduling: [[Changes/ChatGPT/2026-08-25-free-go-plus-and-pro-users-can-share-scheduled-tasks-recipients-can-review-and-c|Free, Go, Plus, and Pro users can share scheduled tasks. Recipients can review a]]
-- automation-scheduling: [[Changes/ChatGPT/2026-08-25-free-users-can-create-up-to-three-active-scheduled-tasks-tasks-can-run-once-or-r|Free users can create up to three active scheduled tasks. Tasks can run once or]]
-- mobile-desktop: [[Changes/ChatGPT/2026-08-25-plus-and-pro-users-can-ask-work-on-web-ios-and-android-to-respond-when-a-new-gma|Plus and Pro users can ask Work on web, iOS, and Android to respond when a new G]]
+- automation-scheduling: [[Changes/ChatGPT/2026-08-25-scheduled-tasks-in-chatgpt-work-can-use-webhooks-to-respond-when-something-chang|Scheduled tasks in ChatGPT Work can use webhooks to respond when something changes…]]
+- automation-scheduling: [[Changes/ChatGPT/2026-08-25-free-go-plus-and-pro-users-can-share-scheduled-tasks-recipients-can-review-and-c|Free, Go, Plus, and Pro users can share scheduled tasks]]
+- automation-scheduling: [[Changes/ChatGPT/2026-08-25-free-users-can-create-up-to-three-active-scheduled-tasks-tasks-can-run-once-or-r|Free users can create up to three active scheduled tasks]]
+- mobile-desktop: [[Changes/ChatGPT/2026-08-25-plus-and-pro-users-can-ask-work-on-web-ios-and-android-to-respond-when-a-new-gma|Plus and Pro users can ask Work on web, iOS, and Android to respond when a new Gmail…]]
 <!-- chronolog:end -->

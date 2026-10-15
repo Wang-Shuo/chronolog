@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4afcc577fd5743035b2f022f24bfb8480502c87c95823bb33195b19a9902cce9
+machine_hash: 901625f1cb2c3571183c21d0b880422d09e5d95267a4a8417c20d4fd2b8d2840
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: 'Improved streaming of long paragraphs: text now appears line-by-line instead
       of waiting for the first line break'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.181
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   theme: interface-experience
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: 'Improved streaming of long paragraphs: text now appears line-by-line instead
-    of'
+  title: Improved streaming of long paragraphs
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-12-added-footerlinksregexes-setting-for-regex-matched-link-badges-in-the-footer-row|claude-code-2026-06-12-7dc248]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-17-v2-1-181-github-340975229-c771c493|claude-code-2026-06-17-v2-1-181-github-340975229-c771c493]]'
 source_type: github_releases
 theme: interface-experience
-title: 'Improved streaming of long paragraphs: text now appears line-by-line instead
-  of'
+title: Improved streaming of long paragraphs
 type: change
 ---
 
-# Improved streaming of long paragraphs: text now appears line-by-line instead of
+# Improved streaming of long paragraphs
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.181: Improved streaming of long paragraphs: text now appears line-by-line instead of waiting for the first line break

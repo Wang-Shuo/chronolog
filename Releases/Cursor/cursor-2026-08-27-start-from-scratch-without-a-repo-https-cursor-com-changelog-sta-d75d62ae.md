@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2026-08-27'
-machine_hash: 4d3c6578503f6caa4b30424bc95333bcf34f79f487efeb36cf0c6574d150210f
+machine_hash: 489cd0204105e1d6ea6691f23de7862738dbf8802ae0fa7316a8f62b72aa3c75
 product: cursor
 product_name: Cursor
 record:
@@ -40,7 +40,7 @@ Tracked cards: 3
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- agent-mode: [[Changes/Cursor/2026-08-27-cloud-agents-no-longer-require-a-connected-github-or-other-third-party-scm-provi|Cloud Agents no longer require a connected GitHub or other third-party SCM provi]]
-- editor-experience: [[Changes/Cursor/2026-08-27-once-the-agent-s-build-is-to-your-liking-click-the-create-repo-button-to-save-yo|Once the agent's build is to your liking, click the Create repo button to save y]]
-- agent-mode: [[Changes/Cursor/2026-08-27-cursor-now-port-forwards-your-cloud-agent-s-live-environment-straight-to-your-br|Cursor now port-forwards your cloud agent's live environment straight to your br]]
+- agent-mode: [[Changes/Cursor/2026-08-27-cloud-agents-no-longer-require-a-connected-github-or-other-third-party-scm-provi|Cloud Agents no longer require a connected GitHub or other third-party SCM provider…]]
+- editor-experience: [[Changes/Cursor/2026-08-27-once-the-agent-s-build-is-to-your-liking-click-the-create-repo-button-to-save-yo|Once the agent's build is to your liking, click the Create repo button to save…]]
+- agent-mode: [[Changes/Cursor/2026-08-27-cursor-now-port-forwards-your-cloud-agent-s-live-environment-straight-to-your-br|Cursor now port-forwards your cloud agent's live environment straight…]]
 <!-- chronolog:end -->

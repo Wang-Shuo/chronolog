@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: fb105a2232d0b7561b041afae70c32048a6da124ea0acbc367b9142f51033b9a
+machine_hash: 4d4d5c89d383079b8fdb1dadb51aa5dc939fe6b4e8524bb17ff3b08014fb2c9c
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Smoother onboarding (fix Windows settings import, option to import folder/window
       state)
     source_release: https://cursor.com/changelog/0-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,6 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: Smoother onboarding (fix Windows settings import, option to import folder/window
+    state)
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-12-06-minor-onboarding-changes|cursor-2023-12-06-4f6032]]'
@@ -46,10 +47,11 @@ source_release: '[[Releases/Cursor/cursor-2024-02-09-0-26-https-cursor-com-chang
 source_type: cursor_changelog
 theme: interface-experience
 title: Smoother onboarding (fix Windows settings import, option to import folder/window
+  state)
 type: change
 ---
 
-# Smoother onboarding (fix Windows settings import, option to import folder/window
+# Smoother onboarding (fix Windows settings import, option to import folder/window state)
 
 <!-- chronolog:begin region="description" -->
 Cursor — AI Previews Beta: Smoother onboarding (fix Windows settings import, option to import folder/window state)

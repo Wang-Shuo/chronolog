@@ -11,9 +11,9 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 021ea94a3ce540ae80116aa8c1737f861a1dd9d8ce979176579a089c92cdde46
+machine_hash: 009143549067396232f7a0647f1f797f306fcd1fadb33ae8f5724bac7e133fc3
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       transient network errors, and headless environments skip the browser popup and
       go straight to the paste-the-URL prompt'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.191
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -46,7 +46,7 @@ record:
     score: 50
     theme: apps-integrations
   theme_resolution: manual-semantic-rule-v1
-  title: 'Improved MCP OAuth: discovery and token requests now retry once after transient'
+  title: Improved MCP OAuth
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-02-added-a-prompt-before-writing-to-shell-startup-files-zshenv-zlogin-bash-login-an|claude-code-2026-06-02-8214a8]]'
@@ -55,11 +55,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-24-v2-1-191-github-344307226-67cdfb27|claude-code-2026-06-24-v2-1-191-github-344307226-67cdfb27]]'
 source_type: github_releases
 theme: account-access
-title: 'Improved MCP OAuth: discovery and token requests now retry once after transient'
+title: Improved MCP OAuth
 type: change
 ---
 
-# Improved MCP OAuth: discovery and token requests now retry once after transient
+# Improved MCP OAuth
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.191: Improved MCP OAuth: discovery and token requests now retry once after transient network errors, and headless environments skip the browser popup and go straight to the paste-the-URL prompt

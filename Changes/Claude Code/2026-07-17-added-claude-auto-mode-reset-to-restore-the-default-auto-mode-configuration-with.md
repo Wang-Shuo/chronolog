@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 26990c9d18314c98405acd9a62c7722ed5924a9473bd70e2f4a88e18be44e4cd
+machine_hash: 79a01b9d2187253939f1ecff4bf7278f0026a4de1d4673c90f4d3aebaf1590f5
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Added `claude auto-mode reset` to restore the default auto-mode configuration,
       with a confirmation prompt (pass `--yes` to skip)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.212
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,8 +35,7 @@ record:
   source_release: claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11
   source_type: github_releases
   theme: agent-mode
-  title: Added `claude auto-mode reset` to restore the default auto-mode configuration,
-    w
+  title: Added `claude auto-mode reset` to restore the default auto-mode configuration…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-15-improved-background-agent-result-reporting-claude-now-reports-the-status-of-stil|claude-code-2026-07-15-05aede]]'
@@ -45,12 +44,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11|claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11]]'
 source_type: github_releases
 theme: agent-mode
-title: Added claude auto-mode reset to restore the default auto-mode configuration,
-  w
+title: Added claude auto-mode reset to restore the default auto-mode configuration…
 type: change
 ---
 
-# Added `claude auto-mode reset` to restore the default auto-mode configuration, w
+# Added `claude auto-mode reset` to restore the default auto-mode configuration…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.212: Added `claude auto-mode reset` to restore the default auto-mode configuration, with a confirmation prompt (pass `--yes` to skip)

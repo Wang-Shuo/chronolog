@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7554eba46ebb208a62ec5c479e7123bfcdd09b2c90aabe3bb5d23c8d6af8eca7
+machine_hash: 1a306b1fe0af07936cb8f78e8232d0d64ec5670fcd29f13bbe21fd60fdb2ac00
 product: cursor
 product_name: Cursor
 record:
@@ -24,7 +24,7 @@ record:
   evidence:
   - quote: Opens the terminal in your current folder
     source_release: https://cursor.com/changelog/0-1-9
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

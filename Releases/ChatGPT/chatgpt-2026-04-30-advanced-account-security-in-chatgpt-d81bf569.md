@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-04-30'
-machine_hash: 6cfa557e36af79f962eb924b24182c7ea3cdb4fab91492f9bc05b6e6dfd1d3b4
+machine_hash: 114e4d75d90654da1c07311b6e099232f49234c7aed432cf3ec9c1b37e4f8bae
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- account-access: [[Changes/ChatGPT/2026-04-30-we-re-rolling-out-advanced-account-security-an-optional-setting-for-personal-cha|We’re rolling out Advanced Account Security, an optional setting for personal Ch]]
+- account-access: [[Changes/ChatGPT/2026-04-30-we-re-rolling-out-advanced-account-security-an-optional-setting-for-personal-cha|ChatGPT rolls out Advanced Account Security, an optional setting for personal…]]
 <!-- chronolog:end -->

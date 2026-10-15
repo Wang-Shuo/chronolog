@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-04-15'
-machine_hash: ed6e3fe09b1c3b2fe4147e41f70f44159999d4910a32d7dcda057a2291f2bc4f
+machine_hash: d29cb68eea2bd339d14f789d04dda62763cd99a95e8ce9d1131a10c4d8f0f226
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- image-generation: [[Changes/ChatGPT/2025-04-15-all-images-you-create-with-chatgpt-are-now-automatically-saved-to-a-new-library|All images you create with ChatGPT are now automatically saved to a new Library]]
+- image-generation: [[Changes/ChatGPT/2025-04-15-all-images-you-create-with-chatgpt-are-now-automatically-saved-to-a-new-library|All images you create with ChatGPT are now automatically saved to a new Library…]]
 <!-- chronolog:end -->

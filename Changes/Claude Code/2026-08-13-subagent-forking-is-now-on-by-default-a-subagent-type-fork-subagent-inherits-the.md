@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 75fa4397443e5d5f4c28b29b69e1c147b08d4c3c1f29c8da24ed82085bc1f233
+machine_hash: 7842598f929c150f2c44850c9d54303fc9d31cdccb37805d67a0e4a3c4f003cf
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       inherits the full conversation and prompt cache, and non-teammate agent spawns
       in interactive sessions now run in the background by default'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.232
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code
@@ -38,8 +38,7 @@ record:
   source_release: claude-code-2026-08-13-v2-1-232-github-370225682-71e478db
   source_type: github_releases
   theme: agent-mode
-  title: 'Subagent forking is now on by default: a `subagent_type: "fork"` subagent
-    inheri'
+  title: Subagent forking is now on by default
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-07-28-always-on-cloud-agents-that-build-test-and-ship-code-while-you-keep-working|cursor-2026-07-28-700458]]'
@@ -48,11 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-08-13-v2-1-232-github-370225682-71e478db|claude-code-2026-08-13-v2-1-232-github-370225682-71e478db]]'
 source_type: github_releases
 theme: agent-mode
-title: 'Subagent forking is now on by default: a subagent_type: "fork" subagent inheri'
+title: Subagent forking is now on by default
 type: change
 ---
 
-# Subagent forking is now on by default: a `subagent_type: "fork"` subagent inheri
+# Subagent forking is now on by default
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.232: Subagent forking is now on by default: a `subagent_type: "fork"` subagent inherits the full conversation and prompt cache, and non-teammate agent spawns in interactive sessions now run in the background by default

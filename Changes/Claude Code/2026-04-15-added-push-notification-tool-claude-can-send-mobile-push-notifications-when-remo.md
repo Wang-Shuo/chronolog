@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a03198a62f000977f29a72c20d7edb39b4dc1640652d6f927ecb029e655703cf
+machine_hash: eb658eb23f7fe3d36d0fd322911ef3e348af1acab3332324d1e715df96ad22ca
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Added push notification tool — Claude can send mobile push notifications
       when Remote Control and "Push when Claude decides" config are enabled
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.110
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,8 +35,7 @@ record:
   source_release: claude-code-2026-04-15-v2-1-110-github-309583669-83ce1e59
   source_type: github_releases
   theme: mobile-desktop
-  title: Added push notification tool — Claude can send mobile push notifications
-    when Re
+  title: Added push notification tool
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-03-26-users-can-now-choose-to-share-their-device-location-so-chatgpt-can-provide-more-7907ed|chatgpt-2026-03-26-7907ed]]'
@@ -45,12 +44,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-15-v2-1-110-github-309583669-83ce1e59|claude-code-2026-04-15-v2-1-110-github-309583669-83ce1e59]]'
 source_type: github_releases
 theme: mobile-desktop
-title: Added push notification tool — Claude can send mobile push notifications when
-  Re
+title: Added push notification tool
 type: change
 ---
 
-# Added push notification tool — Claude can send mobile push notifications when Re
+# Added push notification tool
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.110: Added push notification tool — Claude can send mobile push notifications when Remote Control and "Push when Claude decides" config are enabled

@@ -11,9 +11,9 @@ diffusion:
   theme: multimodal
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3dbbef9ddb777bd2914f23d47fe5057df055c67158c5e2517cd667facc2ecbbd
+machine_hash: 7c3df72472d5dc3b8d6876f7e23f08cebf681459e82c6b840ebcb61443be6cbd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       to get started. You can find screen share and image upload controls under the
       “...” menu at the bottom of the screen.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -48,7 +48,7 @@ record:
     score: 50
     theme: interface-experience
   title: Use the controls at the bottom of the screen, like the camera button below,
-    to g
+    to get started
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-11-27-image-support-in-chat-you-can-now-drag-and-drop-images-into-the-chat-to-send-the|cursor-2023-11-27-1702a4]]'
@@ -56,11 +56,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2024-12-12-santa-voice-and-video-and
 source_type: chatgpt_changelog
 theme: multimodal
 title: Use the controls at the bottom of the screen, like the camera button below,
-  to g
+  to get started
 type: change
 ---
 
-# Use the controls at the bottom of the screen, like the camera button below, to g
+# Use the controls at the bottom of the screen, like the camera button below, to get started
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Santa Voice and Video and Screen Share in Voice Chats: Use the controls at the bottom of the screen, like the camera button below, to get started. You can find screen share and image upload controls under the “...” menu at the bottom of the screen.

@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a6edbc110b75bac85f71317b76271164d432053b32fb65e7986879bcf2354023
+machine_hash: 97f26a40fd97d4ba59959c502323d6872eab5151aee2699b18ba5052f314f2b3
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Editing works for same file on multiple tabs
     source_release: https://cursor.com/changelog/0-0-37
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

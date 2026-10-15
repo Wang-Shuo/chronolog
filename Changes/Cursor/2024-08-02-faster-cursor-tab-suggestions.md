@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 161bd0d8692484848846be2617ecac2d3edeaeae97a2f4cf91f88bf4c1d4615d
+machine_hash: 9a29e2071bcc5f3dd0876862e93fc3827ec069273398f72c2f1dd30c4f096ae6
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Faster Cursor Tab Suggestions!
     source_release: https://cursor.com/changelog/0-39-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

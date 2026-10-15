@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7f55b12d81ae848ea5aa4dd9d46368dd5199735b77aacd0445ff80bb296f338a
+machine_hash: 078ce2c7032344a6d446c9cdace940224e0ef42f3e853557406be66921d5233d
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       `cd\`, `cd~`, `X:`) changed the working directory undetected, letting a later
       command read outside the workspace'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.149
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,8 +38,7 @@ record:
   theme: safety-privacy
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: 'Fixed a PowerShell permission bypass: built-in `cd` functions (`cd..`, `cd\`,
-    `c'
+  title: Fixed a PowerShell permission bypass
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-08-added-settings-automode-hard-deny-for-auto-mode-classifier-rules-that-block-unco|claude-code-2026-05-08-32284a]]'
@@ -48,11 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-22-v2-1-149-github-328077450-086ee33f|claude-code-2026-05-22-v2-1-149-github-328077450-086ee33f]]'
 source_type: github_releases
 theme: safety-privacy
-title: 'Fixed a PowerShell permission bypass: built-in cd functions (cd.., cd\, c'
+title: Fixed a PowerShell permission bypass
 type: change
 ---
 
-# Fixed a PowerShell permission bypass: built-in `cd` functions (`cd..`, `cd\`, `c
+# Fixed a PowerShell permission bypass
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.149: Fixed a PowerShell permission bypass: built-in `cd` functions (`cd..`, `cd\`, `cd~`, `X:`) changed the working directory undetected, letting a later command read outside the workspace

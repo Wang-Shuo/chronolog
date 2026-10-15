@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-03-19'
-machine_hash: ad8081ef1021d74f33805d97bfa47e6f63c270d81eb5dc6eade80ad711bde8b3
+machine_hash: ef8b39e3b5d9e5a5ca6cf5e092253d37c914aae7d28bc145b8ba7e8b13b75cf8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- search-browsing: [[Changes/ChatGPT/2026-03-19-the-legacy-deep-research-mode-will-be-removed-on-thursday-march-26-2026-this-cha|The legacy deep research mode will be removed on Thursday, March 26, 2026. This]]
+- search-browsing: [[Changes/ChatGPT/2026-03-19-the-legacy-deep-research-mode-will-be-removed-on-thursday-march-26-2026-this-cha|The legacy deep research mode will be removed on Thursday, March 26, 2026]]
 <!-- chronolog:end -->

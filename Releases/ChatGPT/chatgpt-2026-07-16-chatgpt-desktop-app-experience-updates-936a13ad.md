@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2026-07-16'
-machine_hash: ba3807b22c8b0c845a07836edbaef069a0f359c17cb2515f44de1cb3e466af8a
+machine_hash: f96137e401ba7baa962fddca06755f8144e95c9694d7ecd2fadd75cf9a019273
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,9 +40,9 @@ Tracked cards: 5
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- projects-workspaces: [[Changes/ChatGPT/2026-07-16-unified-recents-chat-and-work-conversations-now-appear-together-in-recents-where|Unified Recents: Chat and Work conversations now appear together in Recents, whe]]
-- projects-workspaces: [[Changes/ChatGPT/2026-07-16-projects-in-the-desktop-app-your-existing-chatgpt-projects-now-appear-in-the-app|Projects in the desktop app: Your existing ChatGPT Projects now appear in the ap]]
-- mobile-desktop: [[Changes/ChatGPT/2026-07-16-a-clearer-desktop-layout-a-global-switcher-lets-you-choose-between-chatgpt-and-c|A clearer desktop layout: A global switcher lets you choose between ChatGPT and]]
-- mobile-desktop: [[Changes/ChatGPT/2026-07-16-we-ve-updated-the-chatgpt-desktop-app-to-make-it-easier-to-choose-between-chat-a|We’ve updated the ChatGPT desktop app to make it easier to choose between Chat a]]
-- mobile-desktop: [[Changes/ChatGPT/2026-07-16-continue-work-across-devices-cloud-work-conversations-now-sync-across-web-mobile|Continue Work across devices: Cloud Work conversations now sync across web, mobi]]
+- projects-workspaces: [[Changes/ChatGPT/2026-07-16-unified-recents-chat-and-work-conversations-now-appear-together-in-recents-where|Unified Recents: Chat and Work conversations now appear together in Recents, where…]]
+- projects-workspaces: [[Changes/ChatGPT/2026-07-16-projects-in-the-desktop-app-your-existing-chatgpt-projects-now-appear-in-the-app|Projects in the desktop app: Your existing ChatGPT Projects now appear in the app]]
+- mobile-desktop: [[Changes/ChatGPT/2026-07-16-a-clearer-desktop-layout-a-global-switcher-lets-you-choose-between-chatgpt-and-c|A clearer desktop layout: A global switcher lets you choose between ChatGPT and Codex]]
+- mobile-desktop: [[Changes/ChatGPT/2026-07-16-we-ve-updated-the-chatgpt-desktop-app-to-make-it-easier-to-choose-between-chat-a|ChatGPT updates the ChatGPT desktop app to make it easier to choose between Chat…]]
+- mobile-desktop: [[Changes/ChatGPT/2026-07-16-continue-work-across-devices-cloud-work-conversations-now-sync-across-web-mobile|Continue Work across devices]]
 <!-- chronolog:end -->

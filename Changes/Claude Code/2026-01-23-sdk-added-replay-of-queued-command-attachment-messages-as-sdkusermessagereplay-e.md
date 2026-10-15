@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 48e0a7ca988ad8693bfca37bf4aab2ee7621dbbea7a4c5488004ac16e568bb18
+machine_hash: 2903745a528235a4408df6b49039c93f2b8e67141fff140075c1e72fad31504e
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: '[SDK] Added replay of `queued_command` attachment messages as `SDKUserMessageReplay`
       events when `replayUserMessages` is enabled'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.19
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,7 +36,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: '[SDK] Added replay of `queued_command` attachment messages as `SDKUserMessageRep'
+  title: '[SDK] Added replay of `queued_command` attachment messages as `SDKUserMessageReplay`…'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-20-added-search-to-installed-plugins-list-type-to-filter-by-name-or-description|claude-code-2026-01-20-5e8d97]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-01-23-v2-1-19-github-279515857-4e1f7640|claude-code-2026-01-23-v2-1-19-github-279515857-4e1f7640]]'
 source_type: github_releases
 theme: apps-integrations
-title: SDK Added replay of queued_command attachment messages as SDKUserMessageRep
+title: SDK Added replay of queued_command attachment messages as SDKUserMessageReplay…
 type: change
 ---
 
-# [SDK] Added replay of `queued_command` attachment messages as `SDKUserMessageRep
+# [SDK] Added replay of `queued_command` attachment messages as `SDKUserMessageReplay`…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.19: [SDK] Added replay of `queued_command` attachment messages as `SDKUserMessageReplay` events when `replayUserMessages` is enabled

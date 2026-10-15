@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 2d9503ca9090ec709893249c95b080fdc332d00deca1a7bb2e0205cbad3ef843
+machine_hash: fb2a8c286ebba616035ab56934f9e32b554108d5fb0d73a56269a9c52b393264
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: Changes autoupdate to notify you when there's a new version
     source_release: https://cursor.com/changelog/0-1-9
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor

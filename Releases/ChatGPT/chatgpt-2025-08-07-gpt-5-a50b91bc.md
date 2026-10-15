@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-08-07'
-machine_hash: 6e642604d2f8b41547eebc8edf6294b3cf0a809f33a559dda992570a4a86855f
+machine_hash: adc9f23e3c007fd92265fbbe0c6251d8a1e4cb01e09f95317c46d0be3e09675c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2025-08-07-gpt-5-is-slowly-rolling-out-to-all-users-on-chatgpt-plus-pro-team-and-free-plans-64a08c|GPT-5 is slowly rolling out to all users on ChatGPT Plus, Pro, Team, and Free pl]]
+- model-support: [[Changes/ChatGPT/2025-08-07-gpt-5-is-slowly-rolling-out-to-all-users-on-chatgpt-plus-pro-team-and-free-plans-64a08c|GPT-5 is slowly rolling out to all users on ChatGPT Plus, Pro, Team, and Free plans…]]
 <!-- chronolog:end -->

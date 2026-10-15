@@ -11,9 +11,9 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: fd59abeea3625933c3036a86646ed069a4308ee19debfb5bc7850104026e79c6
+machine_hash: 25d29d7bf1909004b31ce2e11631089a8fca4f78a63a050985d55221942617ad
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       allow `/login` to a Claude apps gateway on their organization's own public IPv4
       block
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.268
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -47,7 +47,7 @@ record:
     theme: apps-integrations
   theme_resolution: manual-semantic-rule-v1
   title: Added the `gatewayInternalNetworks` managed setting, letting administrators
-    allo
+    allow…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-10-gateway-login-now-supports-anthropic-operated-public-gateway-endpoints|claude-code-2026-07-10-829123]]'
@@ -56,11 +56,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848|claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848]]'
 source_type: github_releases
 theme: account-access
-title: Added the gatewayInternalNetworks managed setting, letting administrators allo
+title: Added the gatewayInternalNetworks managed setting, letting administrators allow…
 type: change
 ---
 
-# Added the `gatewayInternalNetworks` managed setting, letting administrators allo
+# Added the `gatewayInternalNetworks` managed setting, letting administrators allow…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.268: Added the `gatewayInternalNetworks` managed setting, letting administrators allow `/login` to a Claude apps gateway on their organization's own public IPv4 block

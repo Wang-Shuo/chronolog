@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 97e3948aa8f73db629499f0f521fa345127aa891c682ede52b70e28dea719055
+machine_hash: e96fea8aee0383639da7ae40fdfb2b143875142ec044c3c970e7d01eb4454588
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       `--mcp-config` entries skipped by config validation; terminal runs print a startup
       warning
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.219
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -46,8 +46,7 @@ record:
     score: 50
     theme: developer-workflow
   theme_resolution: manual-semantic-rule-v1
-  title: Added `mcp_server_errors` to the headless stream-json init event, listing
-    `--mcp
+  title: Added `mcp_server_errors` to the headless stream-json init event, listing…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-07-17-cursor-in-slack-now-shares-a-plan-before-it-starts-runs-in-multi-repo-environmen|cursor-2026-07-17-39b8ba]]'
@@ -56,11 +55,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-24-v2-1-219-github-359412713-6c14d233|claude-code-2026-07-24-v2-1-219-github-359412713-6c14d233]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added mcp_server_errors to the headless stream-json init event, listing --mcp
+title: Added mcp_server_errors to the headless stream-json init event, listing…
 type: change
 ---
 
-# Added `mcp_server_errors` to the headless stream-json init event, listing `--mcp
+# Added `mcp_server_errors` to the headless stream-json init event, listing…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.219: Added `mcp_server_errors` to the headless stream-json init event, listing `--mcp-config` entries skipped by config validation; terminal runs print a startup warning

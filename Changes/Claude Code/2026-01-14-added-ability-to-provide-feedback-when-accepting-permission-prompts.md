@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7e49f96931ee2c62dc5fd77a721eeb1484cad455abb019f13a62bfa0d99ad584
+machine_hash: 2aa8708534bec894a74c11dc4fb192067aa10bad5781b00c90d61b72b93f5e4d
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Added ability to provide feedback when accepting permission prompts
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.7
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

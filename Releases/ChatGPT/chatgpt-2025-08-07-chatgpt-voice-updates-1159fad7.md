@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-08-07'
-machine_hash: c825f0001d5fe0dc9ca225d4f00589415d2e61c94c6cfeec342da4b0e93a645d
+machine_hash: 2bb4dfb5bed7b4f740b2cc3759bb6ed686d7370abf468ccc3c21fd2670385920
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- voice: [[Changes/ChatGPT/2025-08-07-today-we-re-rolling-out-improvements-to-voice-mode-to-make-it-more-accessible-an-055388|Today we’re rolling out improvements to Voice Mode to make it more accessible an]]
+- voice: [[Changes/ChatGPT/2025-08-07-today-we-re-rolling-out-improvements-to-voice-mode-to-make-it-more-accessible-an-055388|ChatGPT rolls out improvements to Voice Mode to make it more accessible and useful…]]
 <!-- chronolog:end -->

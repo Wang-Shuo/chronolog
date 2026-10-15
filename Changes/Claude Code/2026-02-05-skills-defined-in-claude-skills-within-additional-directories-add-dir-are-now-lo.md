@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: fa07ee5c63486b1b0315fd71e31641fde7a8139ea58c710efc6f6e749427f9f4
+machine_hash: f7a1222b21d50c14c8d5c0db37ea7adf4865ce9c262091541ac44a228a241fb5
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Skills defined in `.claude/skills/` within additional directories (`--add-dir`)
       are now loaded automatically.
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.32
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,7 +36,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Skills defined in `.claude/skills/` within additional directories (`--add-dir`)
+  title: Skills defined in `.claude/skills/` within additional directories (`--add-dir`)…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-23-changed-skills-without-additional-permissions-or-hooks-to-be-allowed-without-req|claude-code-2026-01-23-869c23]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0|claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0]]'
 source_type: github_releases
 theme: apps-integrations
-title: Skills defined in .claude/skills/ within additional directories (--add-dir)
+title: Skills defined in .claude/skills/ within additional directories (--add-dir)…
 type: change
 ---
 
-# Skills defined in `.claude/skills/` within additional directories (`--add-dir`)
+# Skills defined in `.claude/skills/` within additional directories (`--add-dir`)…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.32: Skills defined in `.claude/skills/` within additional directories (`--add-dir`) are now loaded automatically.

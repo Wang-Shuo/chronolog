@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 8d01850ba97dddcbaa7c9f471b81265e45537f36a23472680adf856daf821340
+machine_hash: cc994d256d4f390d0b92e095002239c8c3a321b469320056ce54feea5d3eb80f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       of speed and reasoning effort that works best for your task.The model picker
       now has the following simplified options:'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -54,7 +54,7 @@ record:
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v1
   title: We’re updating the model picker to make it easier to choose the balance of
-    speed
+    speed…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-04-added-a-c-to-copy-shortcut-to-btw-that-copies-the-raw-markdown-answer-to-the-cli|claude-code-2026-06-04-ac3be2]]'
@@ -64,11 +64,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-06-10-simplified-controls-in-th
 source_type: chatgpt_changelog
 theme: interface-experience
 title: We’re updating the model picker to make it easier to choose the balance of
-  speed
+  speed…
 type: change
 ---
 
-# We’re updating the model picker to make it easier to choose the balance of speed
+# We’re updating the model picker to make it easier to choose the balance of speed…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Simplified controls in the model picker: We’re updating the model picker to make it easier to choose the balance of speed and reasoning effort that works best for your task.The model picker now has the following simplified options:

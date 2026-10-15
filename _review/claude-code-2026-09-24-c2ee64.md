@@ -1,6 +1,6 @@
 ---
 draft: true
-machine_hash: b69809a2de4b78541ca1e6b3deecadf282e8c20f2c694df4302d299ac6901d37
+machine_hash: f95e5fc9ceafa9588bcc21243eed8e2d87e0326ca40ac9c12bed7a65126adb85
 product: claude-code
 record:
   card_id: claude-code-2026-09-24-c2ee64
@@ -13,7 +13,7 @@ record:
   - quote: Added a `maxProseWidth` setting that caps the width of Claude's prose in
       wide terminals while tables and code blocks keep the full width
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.282
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -25,7 +25,7 @@ record:
   theme_review_reason: no_match
   theme_suggestion: added-maxprosewidth-setting
   title: Added a `maxProseWidth` setting that caps the width of Claude's prose in
-    wide te
+    wide…
   type: change
 ---
 

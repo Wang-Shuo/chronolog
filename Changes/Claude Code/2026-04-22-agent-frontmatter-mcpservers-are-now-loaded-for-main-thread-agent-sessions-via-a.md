@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: b1f6d1ffe9c705b039002c43ef3c798bdc63e83c91d3a6f7cc2380b1ef39ea76
+machine_hash: cc288493a6ef2a59dd360e92aa345e06b3a6af0cc3a21a86de7ad0f3cbb09fd8
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Agent frontmatter `mcpServers` are now loaded for main-thread agent sessions
       via `--agent`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.117
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   source_type: github_releases
   theme: agent-mode
   title: Agent frontmatter `mcpServers` are now loaded for main-thread agent sessions
-    via
+    via `--agent`
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-04-13-this-release-introduces-improvements-to-our-agents-window-interface-as-part-of-c|cursor-2026-04-13-7873ed]]'
@@ -47,11 +47,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-04-22-v2-1-117-github-3
 source_type: github_releases
 theme: agent-mode
 title: Agent frontmatter mcpServers are now loaded for main-thread agent sessions
-  via
+  via --agent
 type: change
 ---
 
-# Agent frontmatter `mcpServers` are now loaded for main-thread agent sessions via
+# Agent frontmatter `mcpServers` are now loaded for main-thread agent sessions via `--agent`
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.117: Agent frontmatter `mcpServers` are now loaded for main-thread agent sessions via `--agent`

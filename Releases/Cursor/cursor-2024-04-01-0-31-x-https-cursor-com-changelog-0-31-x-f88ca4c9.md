@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2024-04-01'
-machine_hash: af19955e9dcea344bdb33e1e093b18777308c71f23fbce4ac7f1e281884980b9
+machine_hash: 4fe2150fb676942e13560d99f997e41add0b5f9d7e1831171adcd2840dacd993
 product: cursor
 product_name: Cursor
 record:
@@ -41,6 +41,6 @@ Tracked cards: 2
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- interface-experience: [[Changes/Cursor/2024-04-01-update-0-31-1-0-31-3-adds-back-in-ai-review-alpha-fixes-the-cursor-settings-menu|UPDATE (0.31.1–0.31.3): Adds back in AI Review (alpha), fixes the "Cursor Settin]]
-- context-window: [[Changes/Cursor/2024-04-01-long-context-chat-beta-this-is-a-new-experimental-feature-that-lets-you-talk-wit|Long Context Chat (Beta): This is a new experimental feature that lets you talk]]
+- interface-experience: [[Changes/Cursor/2024-04-01-update-0-31-1-0-31-3-adds-back-in-ai-review-alpha-fixes-the-cursor-settings-menu|UPDATE (0.31.1–0.31.3): Adds back in AI Review (alpha), fixes…]]
+- context-window: [[Changes/Cursor/2024-04-01-long-context-chat-beta-this-is-a-new-experimental-feature-that-lets-you-talk-wit|Long Context Chat (Beta)]]
 <!-- chronolog:end -->

@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: f6b584f327d582c3bb15540789671d6e503cef1cc0ee9940947a6d0759ab7a78
+machine_hash: c02b889b11f74fb6b4ffc7767ded9e5dfd10b63f50f4c59d69abf6ef17ee7088
 product: cursor
 product_name: Cursor
 record:
@@ -33,7 +33,7 @@ record:
       agent actions go to a classifier subagent that decides whether to allow the
       call, try a different approach, or ask for your approval.
     source_release: https://cursor.com/changelog/auto-review
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -52,8 +52,7 @@ record:
     score: 50
     theme: apps-integrations
   theme_resolution: manual-semantic-rule-v2
-  title: Auto-review applies to Shell, MCP, and Fetch tool calls. Allowlisted calls
-    run i
+  title: Auto-review applies to Shell, MCP, and Fetch tool calls
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-14-added-new-claude-agents-flags-add-dir-settings-mcp-config-plugin-dir-permission|claude-code-2026-05-14-45e9aa]]'
@@ -62,12 +61,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-05-29-3-6-https-cursor-com-changelog-auto-review-c5d7c919|cursor-2026-05-29-3-6-https-cursor-com-changelog-auto-review-c5d7c919]]'
 source_type: cursor_changelog
 theme: safety-privacy
-title: Auto-review applies to Shell, MCP, and Fetch tool calls. Allowlisted calls
-  run i
+title: Auto-review applies to Shell, MCP, and Fetch tool calls
 type: change
 ---
 
-# Auto-review applies to Shell, MCP, and Fetch tool calls. Allowlisted calls run i
+# Auto-review applies to Shell, MCP, and Fetch tool calls
 
 <!-- chronolog:begin region="description" -->
 Cursor — Auto-review Run Mode: Auto-review applies to Shell, MCP, and Fetch tool calls. Allowlisted calls run immediately, and calls that can be sandboxed run in the sandbox. All other agent actions go to a classifier subagent that decides whether to allow the call, try a different approach, or ask for your approval.

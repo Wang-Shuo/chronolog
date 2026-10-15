@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 5723e33fcda9905f8ffc0eb56663618d4818b63ae86a924dd14cea193b367e1d
+machine_hash: a24dc703a456a3bf548ee8817aaa7fedf2e99868e345f0490b9c14e37125a06e
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ record:
       The shared context grows with the Project, making the coordinator more effective
       over time.
     source_release: https://cursor.com/changelog/projects
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -56,8 +56,7 @@ record:
     - context
     score: 50
     theme: context-window
-  title: You shouldn't have to onboard an agent every time you start a task. Each
-    Project
+  title: You shouldn't have to onboard an agent every time you start a task
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-01-added-claude-code-subagent-model-force-to-apply-claude-code-subagent-model-or-th|claude-code-2026-09-01-ecfbe5]]'
@@ -66,11 +65,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-09-10-cursor-projects-https-cursor-com-changelog-projects-105aab75|cursor-2026-09-10-cursor-projects-https-cursor-com-changelog-projects-105aab75]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: You shouldn't have to onboard an agent every time you start a task. Each Project
+title: You shouldn't have to onboard an agent every time you start a task
 type: change
 ---
 
-# You shouldn't have to onboard an agent every time you start a task. Each Project
+# You shouldn't have to onboard an agent every time you start a task
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cursor Projects: You shouldn't have to onboard an agent every time you start a task. Each Project maintains a set of files that sync across every cloud and local machine its agents use. Agents add research and artifacts, along with what they learn about the codebase and how you prefer work to be done. If one agent figures out how to test a service, for example, every future agent can use those instructions. The shared context grows with the Project, making the coordinator more effective over time.

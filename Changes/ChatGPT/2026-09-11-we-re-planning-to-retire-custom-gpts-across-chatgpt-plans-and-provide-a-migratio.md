@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: bf0be6dcfa8ae106833d628ca25c1401c80b3dda9ae2284a01afc990d4f97094
+machine_hash: 5f38d7a6da193824b6837ad287554efa7239e2044daf67e321fbfd9c0d090aae
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,7 +39,7 @@ record:
       may vary by plan and workspace; follow applicable notices and learn more about
       the planned retirement.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -57,7 +57,7 @@ record:
     - sharing
     score: 50
     theme: collaboration
-  title: We’re planning to retire custom GPTs across ChatGPT plans and provide a migratio
+  title: We’re planning to retire custom GPTs across ChatGPT plans and provide a migration…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-03-added-reload-plugins-to-headless-sessions-so-it-appears-in-the-claude-code-deskt|claude-code-2026-09-03-e75dba]]'
@@ -66,11 +66,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-11-planned-custom-gpt-retirement-and-migration-to-plugins-05b21afb|chatgpt-2026-09-11-planned-custom-gpt-retirement-and-migration-to-plugins-05b21afb]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
-title: We’re planning to retire custom GPTs across ChatGPT plans and provide a migratio
+title: We’re planning to retire custom GPTs across ChatGPT plans and provide a migration…
 type: change
 ---
 
-# We’re planning to retire custom GPTs across ChatGPT plans and provide a migratio
+# We’re planning to retire custom GPTs across ChatGPT plans and provide a migration…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Planned custom GPT retirement and migration to plugins: We’re planning to retire custom GPTs across ChatGPT plans and provide a migration path to plugins, which can combine reusable instructions with connected apps. You can continue using existing GPTs until the retirement date that applies to you, subject to your permissions.To prepare, review the GPTs you rely on and identify their creators and anyone who needs access. When migration becomes available, test migrated plugins and review sharing. Timing and availability may vary by plan and workspace; follow applicable notices and learn more about the planned retirement.

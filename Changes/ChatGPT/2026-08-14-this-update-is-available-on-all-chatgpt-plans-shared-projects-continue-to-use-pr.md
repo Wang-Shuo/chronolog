@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: c86c705b51e8816e0cd6fbe7092a023f8d243a98bb4526ac6985440e9576f1f8
+machine_hash: 3ddb2bb34c4b9f749d09215163b666cb877cc992dff09195920032c33e1c092a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       to use project-only memory and cannot be switched to default memory. ChatGPT
       Work is not available in projects using project-only memory.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -37,8 +37,7 @@ record:
   source_release: chatgpt-2026-08-14-edit-memory-settings-for-existing-projects-db366858
   source_type: chatgpt_changelog
   theme: memory
-  title: This update is available on all ChatGPT plans. Shared projects continue to
-    use p
+  title: This update is available on all ChatGPT plans
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-06-12-if-you-don-t-want-information-from-a-chat-to-be-used-to-personalize-responses-yo|chatgpt-2026-06-12-8e5cec]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-14-edit-memory-settings-for-existing-projects-db366858|chatgpt-2026-08-14-edit-memory-settings-for-existing-projects-db366858]]'
 source_type: chatgpt_changelog
 theme: memory
-title: This update is available on all ChatGPT plans. Shared projects continue to
-  use p
+title: This update is available on all ChatGPT plans
 type: change
 ---
 
-# This update is available on all ChatGPT plans. Shared projects continue to use p
+# This update is available on all ChatGPT plans
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Edit memory settings for existing projects: This update is available on all ChatGPT plans. Shared projects continue to use project-only memory and cannot be switched to default memory. ChatGPT Work is not available in projects using project-only memory.

@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: bd990e468b5d9f67b1431f80ca04c0e5373d44da873d469b0865d7513875f4d3
+machine_hash: 6983d16e30b92ebc2359f88cdb0f5e7bfd619140e9005f851eae3fe63af7a8d9
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       `claude --bg` or agent view now appear alongside interactive ones, marked with
       `bg`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.144
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code
@@ -38,8 +38,7 @@ record:
   source_release: claude-code-2026-05-19-v2-1-144-github-324524751-1469637a
   source_type: github_releases
   theme: agent-mode
-  title: Added `/resume` support for background sessions — sessions started via `claude
-    -
+  title: Added `/resume` support for background sessions
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-13-this-includes-support-for-build-secrets-making-it-easy-to-securely-access-privat|cursor-2026-05-13-be7cc6]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-19-v2-1-144-github-324524751-1469637a|claude-code-2026-05-19-v2-1-144-github-324524751-1469637a]]'
 source_type: github_releases
 theme: agent-mode
-title: Added /resume support for background sessions — sessions started via claude
-  -
+title: Added /resume support for background sessions
 type: change
 ---
 
-# Added `/resume` support for background sessions — sessions started via `claude -
+# Added `/resume` support for background sessions
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.144: Added `/resume` support for background sessions — sessions started via `claude --bg` or agent view now appear alongside interactive ones, marked with `bg`

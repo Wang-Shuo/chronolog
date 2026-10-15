@@ -11,9 +11,9 @@ diffusion:
   theme: automation-scheduling
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 700b5b5fd5342cf55dffbcc2c48e102efd4f7e2101f98099b719de5714dd1cdc
+machine_hash: f955b3f3e0c8e2f9e41001d6a65d4c60ab8944d709b3de11f34969ce328c85ed
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Cursor now supports automations for building always-on agents that run
       based on triggers and instructions you define.
     source_release: https://cursor.com/changelog/03-05-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -44,8 +44,7 @@ record:
     score: 50
     theme: automation-scheduling
   theme_resolution: manual-semantic-rule-v1
-  title: Cursor now supports automations for building always-on agents that run based
-    on
+  title: Cursor now supports automations for building always-on agents that run based…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now|chatgpt-2025-12-17-d1d8fe]]'
@@ -53,12 +52,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-03-05-automations-https-cursor-com-changelog-03-05-26-be367422|cursor-2026-03-05-automations-https-cursor-com-changelog-03-05-26-be367422]]'
 source_type: cursor_changelog
 theme: automation-scheduling
-title: Cursor now supports automations for building always-on agents that run based
-  on
+title: Cursor now supports automations for building always-on agents that run based…
 type: change
 ---
 
-# Cursor now supports automations for building always-on agents that run based on
+# Cursor now supports automations for building always-on agents that run based…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Automations: Cursor now supports automations for building always-on agents that run based on triggers and instructions you define.

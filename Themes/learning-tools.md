@@ -1,7 +1,7 @@
 ---
 created: '2025-07-29'
 date: '2026-04-01'
-machine_hash: 2a8fd2aade9e71aac88e8f6d8cb8682c14f16a5d4c15e4bb4e365fc5f103b4ee
+machine_hash: d53d97f30fec3da5c4e0a81eb0ee8b8d11ad0f782f3e6756edcefd5a84f37a8f
 modified: '2026-04-01'
 products_involved:
 - ChatGPT
@@ -28,13 +28,13 @@ Scope: tracked-products-only. Entries show same-theme chronology; they do not es
 
 ### 2026
 
-- 2026-04-01 · Claude Code: [[Changes/Claude Code/2026-04-01-added-powerup-interactive-lessons-teaching-claude-code-features-with-animated-de|Added /powerup — interactive lessons teaching Claude Code features with animat]]
-- 2026-03-10 · ChatGPT: [[Changes/ChatGPT/2026-03-10-when-you-ask-chatgpt-about-certain-topics-it-can-now-present-an-interactive-visu|When you ask ChatGPT about certain topics, it can now present an interactive vis]]
+- 2026-04-01 · Claude Code: [[Changes/Claude Code/2026-04-01-added-powerup-interactive-lessons-teaching-claude-code-features-with-animated-de|Added /powerup — interactive lessons teaching Claude Code features with animated demos]]
+- 2026-03-10 · ChatGPT: [[Changes/ChatGPT/2026-03-10-when-you-ask-chatgpt-about-certain-topics-it-can-now-present-an-interactive-visu|When you ask ChatGPT about certain topics, it can now present an interactive visual…]]
 
 ### 2025
 
-- 2025-07-29 · ChatGPT: [[Changes/ChatGPT/2025-07-29-guide-understanding-with-socratic-style-questions|Guide understanding with Socratic-style questions.]]
-- 2025-07-29 · ChatGPT: [[Changes/ChatGPT/2025-07-29-break-concepts-into-easy-to-follow-sections-starting-simple-and-adding-complexit|Break concepts into easy to follow sections starting simple and adding complexit]]
+- 2025-07-29 · ChatGPT: [[Changes/ChatGPT/2025-07-29-guide-understanding-with-socratic-style-questions|Guide understanding with Socratic-style questions]]
+- 2025-07-29 · ChatGPT: [[Changes/ChatGPT/2025-07-29-break-concepts-into-easy-to-follow-sections-starting-simple-and-adding-complexit|Break concepts into easy to follow sections starting simple and adding complexity…]]
 <!-- chronolog:end -->
 
 ## Change Cards

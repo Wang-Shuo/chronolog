@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e9009dea2121cd2dfeda57ac10aa3365e56592b9cd965ba24e01026d5862ea17
+machine_hash: 018effd39e1d96589a622daadefcff50c6d568f62024026780c78f8cfd98f360
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: All users get 10 free gpt-4 requests !!!
     source_release: https://cursor.com/changelog/0-2-18
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

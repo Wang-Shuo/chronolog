@@ -11,9 +11,9 @@ diffusion:
   theme: enterprise-admin
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ec673ed68e0dae686f3e5ecc93db1040a436d0e456edff99bf54410d0d5d4d57
+machine_hash: 6710583a81d534bf274bf622ac6b43c241dcdcce57b149653d4e07516a45e8ba
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       characters, up from 1,500, giving them more room to customize ChatGPT’s response
       style and behavior.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -48,8 +48,7 @@ record:
     score: 50
     theme: enterprise-admin
   theme_resolution: manual-semantic-rule-v1
-  title: We’re increasing the character limit for custom instructions in ChatGPT.
-    Plus, P
+  title: We’re increasing the character limit for custom instructions in ChatGPT
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-07-09-on-web-and-mobile-work-is-rolling-out-to-paid-plans-except-free-and-go-pro-pro-l|chatgpt-2026-07-09-82ffb9]]'
@@ -58,12 +57,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-15-increased-custom-instructions-limit-dcba82c8|chatgpt-2026-07-15-increased-custom-instructions-limit-dcba82c8]]'
 source_type: chatgpt_changelog
 theme: enterprise-admin
-title: We’re increasing the character limit for custom instructions in ChatGPT. Plus,
-  P
+title: We’re increasing the character limit for custom instructions in ChatGPT
 type: change
 ---
 
-# We’re increasing the character limit for custom instructions in ChatGPT. Plus, P
+# We’re increasing the character limit for custom instructions in ChatGPT
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Increased custom instructions limit: We’re increasing the character limit for custom instructions in ChatGPT. Plus, Pro, Enterprise, Business, and Education users can now save up to 5,000 characters, up from 1,500, giving them more room to customize ChatGPT’s response style and behavior.

@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 30de1dc8602b9de0ba855bf72aa4b9283e9d3abf61d264076568cea1855a3817
+machine_hash: 5a30a6d405bc19a2e01868405fa9fe40c5e8ab9d9a394db0dcad3c4f682f4abf
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
       findings, and this blog post where we expand on what we missed with sycophancy
       and the changes we're going to make going forward.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -43,7 +43,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: We've reverted the most recent update to GPT-4o due to issues with overly
-    agreea
+    agreeable…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-04-10-effective-april-30-2025-gpt-4-will-be-retired-from-chatgpt-and-fully-replaced-by-d03b3b|chatgpt-2025-04-10-d03b3b]]'
@@ -52,11 +52,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-04-29-updates-to-gpt-4o-3c847c95|chatgpt-2025-04-29-updates-to-gpt-4o-3c847c95]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: We've reverted the most recent update to GPT-4o due to issues with overly agreea
+title: We've reverted the most recent update to GPT-4o due to issues with overly agreeable…
 type: change
 ---
 
-# We've reverted the most recent update to GPT-4o due to issues with overly agreea
+# We've reverted the most recent update to GPT-4o due to issues with overly agreeable…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Updates to GPT-4o: We've reverted the most recent update to GPT-4o due to issues with overly agreeable responses (sycophancy).We’re actively working on further improvements. For more details, check out our blog post explaining what happened and our initial findings, and this blog post where we expand on what we missed with sycophancy and the changes we're going to make going forward.

@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 76514c90a07a169df76c6f5572ec6e5d27132c1d88ecc5d554181a215c0b1c03
+machine_hash: 6b415ac748f8e0b72adc7280e12db1499b18fa8de7c796d02d7129cbd83e39a4
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       cap on MCP tool descriptions and server instructions for every MCP server in
       the session
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.280
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   source_type: github_releases
   theme: apps-integrations
   title: Added `CLAUDE_CODE_MAX_MCP_DESCRIPTION_LENGTH` to change the 2,048-character
-    cap
+    cap…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-18-added-claude-gateway-proxy-is-egress-boundary-1-for-claude-apps-gateways-whose-o|claude-code-2026-09-18-1d1508]]'
@@ -47,11 +47,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-09-22-v2-1-280-github-3
 source_type: github_releases
 theme: apps-integrations
 title: Added CLAUDE_CODE_MAX_MCP_DESCRIPTION_LENGTH to change the 2,048-character
-  cap
+  cap…
 type: change
 ---
 
-# Added `CLAUDE_CODE_MAX_MCP_DESCRIPTION_LENGTH` to change the 2,048-character cap
+# Added `CLAUDE_CODE_MAX_MCP_DESCRIPTION_LENGTH` to change the 2,048-character cap…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.280: Added `CLAUDE_CODE_MAX_MCP_DESCRIPTION_LENGTH` to change the 2,048-character cap on MCP tool descriptions and server instructions for every MCP server in the session

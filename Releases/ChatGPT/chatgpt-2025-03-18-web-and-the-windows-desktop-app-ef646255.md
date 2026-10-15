@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2025-03-18'
-machine_hash: ba71226a50165731873f2877a137138d60a544cccffd30c977a0a941d564cee4
+machine_hash: 4555fc97832621427d4e43e53e97931c3f670f5cdc42f9e0ddd681c3da37fe3d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,6 +40,6 @@ Tracked cards: 2
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- mobile-desktop: [[Changes/ChatGPT/2025-03-18-we-have-been-working-on-a-variety-of-usability-and-performance-improvements-and|We have been working on a variety of usability and performance improvements and]]
-- model-support: [[Changes/ChatGPT/2025-03-18-2-o1-and-o3-mini-now-offer-python-powered-data-analysis-in-chatgpt-you-can-now-a|2⁠. o1 and o3-mini now offer Python-powered data analysis in ChatGPT: You can no]]
+- mobile-desktop: [[Changes/ChatGPT/2025-03-18-we-have-been-working-on-a-variety-of-usability-and-performance-improvements-and|We have been working on a variety of usability and performance improvements and bug…]]
+- model-support: [[Changes/ChatGPT/2025-03-18-2-o1-and-o3-mini-now-offer-python-powered-data-analysis-in-chatgpt-you-can-now-a|o1 and o3-mini now offer Python-powered data analysis in ChatGPT]]
 <!-- chronolog:end -->

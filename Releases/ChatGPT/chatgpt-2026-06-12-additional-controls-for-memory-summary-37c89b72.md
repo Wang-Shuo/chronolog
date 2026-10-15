@@ -1,7 +1,7 @@
 ---
 changes_count: 4
 date: '2026-06-12'
-machine_hash: 5d1735cef29230132507953b99bb8b65ee1164c31ac680460d45636ed272d492
+machine_hash: f9fd9e4cdc4b9f79a3362d123e5dbe053a2efb382793093c68576336323aa82b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,8 +42,8 @@ Tracked cards: 4
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- memory: [[Changes/ChatGPT/2026-06-12-highlight-any-text-in-the-memory-summary-to-make-a-specific-correction|Highlight any text in the memory summary to make a specific correction.]]
-- memory: [[Changes/ChatGPT/2026-06-12-you-can-now-delete-the-memories-shown-on-your-memory-summary-page-and-turn-memor|You can now delete the memories shown on your memory summary page and turn memor]]
-- memory: [[Changes/ChatGPT/2026-06-12-type-what-you-want-changed-into-the-text-box-at-the-bottom-of-the-memory-summary|Type what you want changed into the text box at the bottom of the memory summary]]
-- memory: [[Changes/ChatGPT/2026-06-12-if-you-don-t-want-information-from-a-chat-to-be-used-to-personalize-responses-yo|If you don’t want information from a chat to be used to personalize responses, y]]
+- memory: [[Changes/ChatGPT/2026-06-12-highlight-any-text-in-the-memory-summary-to-make-a-specific-correction|Highlight any text in the memory summary to make a specific correction]]
+- memory: [[Changes/ChatGPT/2026-06-12-you-can-now-delete-the-memories-shown-on-your-memory-summary-page-and-turn-memor|Delete the memories shown on your memory summary page and turn memory off…]]
+- memory: [[Changes/ChatGPT/2026-06-12-type-what-you-want-changed-into-the-text-box-at-the-bottom-of-the-memory-summary|Type what you want changed into the text box at the bottom of the memory summary…]]
+- memory: [[Changes/ChatGPT/2026-06-12-if-you-don-t-want-information-from-a-chat-to-be-used-to-personalize-responses-yo|If you don’t want information from a chat to be used to personalize responses, you…]]
 <!-- chronolog:end -->

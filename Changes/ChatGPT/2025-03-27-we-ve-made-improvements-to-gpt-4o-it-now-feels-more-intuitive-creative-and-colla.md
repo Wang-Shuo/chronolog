@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7be360c5a7682a682f281ee76c7a15e75926f9707d08b1020472196fb513e1ea
+machine_hash: 907b53405446b704994a1f7c12662bd66228115fa6f2e4fe1c4a1aa85bf0682a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
       and collaborative, with enhanced instruction-following, smarter coding capabilities,
       and a clearer communication style.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -38,8 +38,7 @@ record:
   theme: model-support
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: We’ve made improvements to GPT-4o—it now feels more intuitive, creative,
-    and col
+  title: ChatGPT makes improvements to GPT-4o—it now feels more intuitive, creative…
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-03-11-0-47-7-max-mode-for-3-7-sonnet-with-and-without-thinking|cursor-2025-03-11-0d40ed]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-03-27-improvements-to-gpt-4o-4bcfc1a7|chatgpt-2025-03-27-improvements-to-gpt-4o-4bcfc1a7]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: We’ve made improvements to GPT-4o—it now feels more intuitive, creative, and
-  col
+title: ChatGPT makes improvements to GPT-4o—it now feels more intuitive, creative…
 type: change
 ---
 
-# We’ve made improvements to GPT-4o—it now feels more intuitive, creative, and col
+# ChatGPT makes improvements to GPT-4o—it now feels more intuitive, creative…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Improvements to GPT-4o: We’ve made improvements to GPT-4o—it now feels more intuitive, creative, and collaborative, with enhanced instruction-following, smarter coding capabilities, and a clearer communication style.

@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4d3443f92aa13ed4953d2f26d09bf8fe5c0e0bd0cc6f2fa220d5634ffc1f9487
+machine_hash: c0eed5278a7d31d671bd5125f7e39c387bf39deef9bbea6cda782cfa671b8571
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: 'Composer 2 is now available in Cursor: frontier-level coding performance
       with strong results on challenging coding tasks.'
     source_release: https://cursor.com/changelog/composer-2
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -34,8 +34,7 @@ record:
   source_release: cursor-2026-03-19-composer-2-https-cursor-com-changelog-composer-2-8a6d25c8
   source_type: cursor_changelog
   theme: reliability-performance
-  title: 'Composer 2 is now available in Cursor: frontier-level coding performance
-    with st'
+  title: Composer 2 is now available in Cursor
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-11-improved-ide-detection-speed-at-startup|claude-code-2026-03-11-0796c1]]'
@@ -44,12 +43,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-03-19-composer-2-https-cursor-com-changelog-composer-2-8a6d25c8|cursor-2026-03-19-composer-2-https-cursor-com-changelog-composer-2-8a6d25c8]]'
 source_type: cursor_changelog
 theme: reliability-performance
-title: 'Composer 2 is now available in Cursor: frontier-level coding performance with
-  st'
+title: Composer 2 is now available in Cursor
 type: change
 ---
 
-# Composer 2 is now available in Cursor: frontier-level coding performance with st
+# Composer 2 is now available in Cursor
 
 <!-- chronolog:begin region="description" -->
 Cursor — Composer 2: Composer 2 is now available in Cursor: frontier-level coding performance with strong results on challenging coding tasks.

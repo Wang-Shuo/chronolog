@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3152ada81df73f98efd18d4153730b0a27ec1c634e7d15f266b01ae9e54442b2
+machine_hash: 1a1580eb631fc4888637717a5ac465c9f13d718a0db566baa7f154a44e57e138
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added HTTP hooks, which can POST JSON to a URL and receive JSON instead
       of running a shell command
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.63
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,7 +35,7 @@ record:
   source_type: github_releases
   theme: agent-mode
   title: Added HTTP hooks, which can POST JSON to a URL and receive JSON instead of
-    runni
+    running…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-02-24-after-onboarding-onto-your-codebase-each-agent-runs-in-its-own-isolated-vm-with|cursor-2026-02-24-9f5dee]]'
@@ -45,11 +45,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-02-28-v2-1-63-github-29
 source_type: github_releases
 theme: agent-mode
 title: Added HTTP hooks, which can POST JSON to a URL and receive JSON instead of
-  runni
+  running…
 type: change
 ---
 
-# Added HTTP hooks, which can POST JSON to a URL and receive JSON instead of runni
+# Added HTTP hooks, which can POST JSON to a URL and receive JSON instead of running…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.63: Added HTTP hooks, which can POST JSON to a URL and receive JSON instead of running a shell command

@@ -11,9 +11,9 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 160361965c4ab4c2137e6e2e743ec7a05f8fc9d55d802fcd3f2b916070e84b13
+machine_hash: 0d0618659b8bb7bb3cd4766d04d1a1b01a3ee0c84af5fb4a8718e6a053c23b53
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: Type back when you can’t talk and still get a Voice response
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT

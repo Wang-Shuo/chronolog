@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 0165b63b5ee0023271d272e74c710e5b1c34e93dcf942fde03c53a3bb2755c27
+machine_hash: f85f94f9121d0e42aeebc6d35105b5ee87afbeb57a848a5e4a86fbb999ac9bec
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       GPT-4. Rolling out over the next week, the new message limit will be 40 every
       3 hours.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT

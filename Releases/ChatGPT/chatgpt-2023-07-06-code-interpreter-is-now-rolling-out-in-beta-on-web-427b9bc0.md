@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-07-06'
-machine_hash: 5fd5b61239d33647bfd8b234f67c208c728c4863521e2a10932cc63b90e52ebf
+machine_hash: fe186a4575cc8128818fbf8b254e404205eac9383cae18ae8bc62f0a3a893d61
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- file-data: [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|We’re rolling out code interpreter to all ChatGPT Plus users over the next week.]]
+- file-data: [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|ChatGPT rolls out code interpreter to all ChatGPT Plus users over the next week]]
 <!-- chronolog:end -->

@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2024-02-15'
-machine_hash: 353646639ff5c56e89871df0512521e5f564aa7d3cdb46d28a634707540770b8
+machine_hash: c044e995a60f382d0a1d36ed3101eb66da8099ab5d23d3f292fc28840fb3f3d4
 product: cursor
 product_name: Cursor
 record:
@@ -38,6 +38,6 @@ Tracked cards: 2
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- agent-mode: [[Changes/Cursor/2024-02-15-interpreter-mode-we-ve-made-some-big-improvements-to-the-backend-powering-interp|Interpreter Mode: We've made some big improvements to the backend powering inter]]
-- developer-workflow: [[Changes/Cursor/2024-02-15-linter-you-can-now-turn-on-an-ai-linter-in-the-more-tab-beside-chat-it-ll-scan-y|Linter: You can now turn on an AI linter in the "More" tab beside Chat. It'll sc]]
+- agent-mode: [[Changes/Cursor/2024-02-15-interpreter-mode-we-ve-made-some-big-improvements-to-the-backend-powering-interp|Interpreter Mode: We've made some big improvements to the backend powering…]]
+- developer-workflow: [[Changes/Cursor/2024-02-15-linter-you-can-now-turn-on-an-ai-linter-in-the-more-tab-beside-chat-it-ll-scan-y|Linter: You can now turn on an AI linter in the "More" tab beside Chat]]
 <!-- chronolog:end -->

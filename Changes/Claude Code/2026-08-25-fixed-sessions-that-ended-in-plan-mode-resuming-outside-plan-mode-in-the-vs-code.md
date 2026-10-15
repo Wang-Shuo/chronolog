@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4806fafe31a59890bdb988f5d95af7d0e8123a9cf101dbd0f74dc4c8a049878d
+machine_hash: 8c0c6d3f39880ef84888b4d6bd411a9b2bd9b46a2df59966f1103a69847bf641
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       VS Code extension, and in `claude -p --continue`/`--resume` with a permission
       prompt tool, when no permission mode was set
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.246
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -39,7 +39,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: Fixed sessions that ended in plan mode resuming outside plan mode in the
-    VS Code
+    VS Code…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-18-fixed-shift-tab-inside-the-permission-prompt-s-comment-field-approving-the-edit|claude-code-2026-08-18-ef37bf]]'
@@ -49,11 +49,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-08-25-v2-1-246-github-3
 source_type: github_releases
 theme: safety-privacy
 title: Fixed sessions that ended in plan mode resuming outside plan mode in the VS
-  Code
+  Code…
 type: change
 ---
 
-# Fixed sessions that ended in plan mode resuming outside plan mode in the VS Code
+# Fixed sessions that ended in plan mode resuming outside plan mode in the VS Code…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.246: Fixed sessions that ended in plan mode resuming outside plan mode in the VS Code extension, and in `claude -p --continue`/`--resume` with a permission prompt tool, when no permission mode was set

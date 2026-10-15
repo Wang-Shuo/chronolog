@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2026-09-14'
-machine_hash: 97ea53638bdec081482b0af0fd12a14f3a2965f16611b77419f99f2e8bec191f
+machine_hash: b26b3560f68b2f086ce3896c450cdb8362306a919ce51874fcdd6e51c1d89d2a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,7 +39,7 @@ Tracked cards: 3
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- safety-privacy: [[Changes/ChatGPT/2026-09-14-if-you-make-no-changes-to-your-plugins-settings-the-default-permission-setting-i|If you make no changes to your Plugins settings, the default permission setting]]
-- apps-integrations: [[Changes/ChatGPT/2026-09-14-for-new-health-plugin-connections-chatgpt-will-now-default-to-each-user-s-global|For new Health plugin connections, ChatGPT will now default to each user’s globa]]
-- apps-integrations: [[Changes/ChatGPT/2026-09-14-you-can-change-your-health-permissions-anytime-in-settings-plugins-health-learn|You can change your Health permissions anytime in Settings → Plugins → Health. L]]
+- safety-privacy: [[Changes/ChatGPT/2026-09-14-if-you-make-no-changes-to-your-plugins-settings-the-default-permission-setting-i|If you make no changes to your Plugins settings, the default permission setting…]]
+- apps-integrations: [[Changes/ChatGPT/2026-09-14-for-new-health-plugin-connections-chatgpt-will-now-default-to-each-user-s-global|For new Health plugin connections, ChatGPT will now default to each user’s global…]]
+- apps-integrations: [[Changes/ChatGPT/2026-09-14-you-can-change-your-health-permissions-anytime-in-settings-plugins-health-learn|You can change your Health permissions anytime in Settings → Plugins → Health]]
 <!-- chronolog:end -->

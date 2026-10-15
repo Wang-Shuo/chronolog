@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: e5e6ffb94fcc06a8bb333fbe7d6f9bf2957eaffab87582c72208c50403d5010f
+machine_hash: 14e47ed93ade9d842f1546900441b60eb1ea5dad215cd8b571a67724b1bbf62e
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
   - quote: We point to a different marketplace for downloading extensions, and use
       a fork of ms-python and pyright to provide python support.
     source_release: https://cursor.com/changelog/0-11-1
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -40,7 +40,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: We point to a different marketplace for downloading extensions, and use a
-    fork o
+    fork…
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-07-28-more-robust-extension-handling-you-can-now-use-pre-release-extensions-again|cursor-2023-07-28-bfe30f]]'
@@ -49,12 +49,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-09-17-0-11-1-nightly-https-cursor-com-changelog-0-11-1-9c40f1bf|cursor-2023-09-17-0-11-1-nightly-https-cursor-com-changelog-0-11-1-9c40f1bf]]'
 source_type: cursor_changelog
 theme: apps-integrations
-title: We point to a different marketplace for downloading extensions, and use a fork
-  o
+title: We point to a different marketplace for downloading extensions, and use a fork…
 type: change
 ---
 
-# We point to a different marketplace for downloading extensions, and use a fork o
+# We point to a different marketplace for downloading extensions, and use a fork…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cursor Python and Cursor Marketplace: We point to a different marketplace for downloading extensions, and use a fork of ms-python and pyright to provide python support.

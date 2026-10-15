@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 5498d7af652e7b5bdd823a3b49a66e6f9768be5d9dfd321177ceee2ba3ccf7bb
+machine_hash: 5378da567339d68b8e4fd26af965d45808b56652d729bc78c338825f057b5df4
 product: cursor
 product_name: Cursor
 record:
@@ -30,7 +30,7 @@ record:
       in the .cursor/rules directory. The Agent will automatically choose which rule
       to follow.'
     source_release: https://cursor.com/changelog/0-45-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -38,8 +38,7 @@ record:
   source_release: cursor-2025-01-23-0-45-x-https-cursor-com-changelog-0-45-x-c162d228
   source_type: cursor_changelog
   theme: agent-mode
-  title: '.cursor/rules: Users can write several repository-level rules to disk in
-    the .cu'
+  title: '.cursor/rules: Users can write several repository-level rules to disk…'
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-12-17-agent-auto-saves-changes-to-disk|cursor-2024-12-17-870a8a]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-01-23-0-45-x-https-cursor-com-changelog-0-45-x-c162d228|cursor-2025-01-23-0-45-x-https-cursor-com-changelog-0-45-x-c162d228]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: '.cursor/rules: Users can write several repository-level rules to disk in the
-  .cu'
+title: '.cursor/rules: Users can write several repository-level rules to disk…'
 type: change
 ---
 
-# .cursor/rules: Users can write several repository-level rules to disk in the .cu
+# .cursor/rules: Users can write several repository-level rules to disk…
 
 <!-- chronolog:begin region="description" -->
 Cursor — .cursor/rules, Better Codebase Understanding, New Tab Model: .cursor/rules: Users can write several repository-level rules to disk in the .cursor/rules directory. The Agent will automatically choose which rule to follow.

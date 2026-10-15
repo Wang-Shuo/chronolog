@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5d21b5bd43659380b886da7c326a15ce7843592eb7bbc0541f2ee924b041ad10
+machine_hash: 2e9d134f3a7edb0b4a264066a920889830414b835977c1728e37e84a8272d28a
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       are now retried automatically with backoff for subscribers instead of failing
       the turn
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.199
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -39,7 +39,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: Transient server rate-limit errors (429s unrelated to your usage limit) are
-    now
+    now…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-17-improved-auto-retry-api-connection-drops-mid-thinking-now-automatically-retry-in|claude-code-2026-06-17-acfb36]]'
@@ -49,11 +49,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-07-02-v2-1-199-github-3
 source_type: github_releases
 theme: reliability-performance
 title: Transient server rate-limit errors (429s unrelated to your usage limit) are
-  now
+  now…
 type: change
 ---
 
-# Transient server rate-limit errors (429s unrelated to your usage limit) are now
+# Transient server rate-limit errors (429s unrelated to your usage limit) are now…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.199: Transient server rate-limit errors (429s unrelated to your usage limit) are now retried automatically with backoff for subscribers instead of failing the turn

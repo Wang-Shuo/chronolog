@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 4fecb89933bf7357984861ab9496a22cf2da1960d21c5d24fa78c74c4e216a9d
+machine_hash: 22027bb2b30d2a21c8b3384caf992dcd847433c6b45673dbf81d979d1f375b57
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Enterprises also have the option to block new providers or model versions
       by default.
     source_release: https://cursor.com/changelog/05-04-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -37,7 +37,7 @@ record:
   source_type: cursor_changelog
   theme: model-support
   title: Enterprises also have the option to block new providers or model versions
-    by def
+    by default
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-04-29-model-id-composer-2-5|cursor-2026-04-29-695c66]]'
@@ -47,11 +47,11 @@ source_release: '[[Releases/Cursor/cursor-2026-05-04-model-controls-spend-manage
 source_type: cursor_changelog
 theme: model-support
 title: Enterprises also have the option to block new providers or model versions by
-  def
+  default
 type: change
 ---
 
-# Enterprises also have the option to block new providers or model versions by def
+# Enterprises also have the option to block new providers or model versions by default
 
 <!-- chronolog:begin region="description" -->
 Cursor — Model controls, spend management, and usage analytics: Enterprises also have the option to block new providers or model versions by default.

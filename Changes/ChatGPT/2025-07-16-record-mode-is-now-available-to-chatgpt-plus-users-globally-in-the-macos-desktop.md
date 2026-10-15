@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 218e9abd08154e9645c50e6a0bef20f043887ef7631c37e6c653b85eefbcae88
+machine_hash: 3845b577e87ea2ce16e9028ef703a1c375f6e47d707cecf2649328c88fcb5198
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Record mode is now available to ChatGPT Plus users globally in the macOS
       desktop app.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -35,7 +35,7 @@ record:
   source_type: chatgpt_changelog
   theme: mobile-desktop
   title: Record mode is now available to ChatGPT Plus users globally in the macOS
-    desktop
+    desktop app
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-03-18-1-improved-table-copying-functionality-out-of-chatgpt-responses-on-ios-and-macos|chatgpt-2025-03-18-12d17c]]'
@@ -45,10 +45,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2025-07-16-record-mode-in-chatgpt-ma
 source_type: chatgpt_changelog
 theme: mobile-desktop
 title: Record mode is now available to ChatGPT Plus users globally in the macOS desktop
+  app
 type: change
 ---
 
-# Record mode is now available to ChatGPT Plus users globally in the macOS desktop
+# Record mode is now available to ChatGPT Plus users globally in the macOS desktop app
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Record mode in ChatGPT macOS desktop app (Plus): Record mode is now available to ChatGPT Plus users globally in the macOS desktop app.

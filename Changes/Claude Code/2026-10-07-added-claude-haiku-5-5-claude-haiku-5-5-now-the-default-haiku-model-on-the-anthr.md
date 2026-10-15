@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 8dc7ac0aa221385f56a683e36f4d121c0da07cc975822744cee924d141fa3e19
+machine_hash: 51a6589be139c28ae5e6af621564294716b913786ff03eb84e18d1f4de2388f5
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       on the Anthropic API — 1M context, $0.10/$0.50 per Mtok ($0.50/$2.50 for prompts
       over 100K)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.293
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -48,8 +48,7 @@ record:
     score: 50
     theme: model-support
   theme_resolution: manual-semantic-rule-v2
-  title: Added Claude Haiku 5.5 (`claude-haiku-5-5`), now the default Haiku model
-    on the
+  title: Added Claude Haiku 5.5 (`claude-haiku-5-5`), now the default Haiku model…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-09-29-eligible-plus-and-pro-users-can-authorize-participating-apps-to-use-their-chatgp|chatgpt-2026-09-29-e3377a]]'
@@ -58,11 +57,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-10-07-v2-1-293-github-405988533-66d1bb8d|claude-code-2026-10-07-v2-1-293-github-405988533-66d1bb8d]]'
 source_type: github_releases
 theme: model-support
-title: Added Claude Haiku 5.5 (claude-haiku-5-5), now the default Haiku model on the
+title: Added Claude Haiku 5.5 (claude-haiku-5-5), now the default Haiku model…
 type: change
 ---
 
-# Added Claude Haiku 5.5 (`claude-haiku-5-5`), now the default Haiku model on the
+# Added Claude Haiku 5.5 (`claude-haiku-5-5`), now the default Haiku model…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.293: Added Claude Haiku 5.5 (`claude-haiku-5-5`), now the default Haiku model on the Anthropic API — 1M context, $0.10/$0.50 per Mtok ($0.50/$2.50 for prompts over 100K)

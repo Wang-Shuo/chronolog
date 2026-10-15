@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 93356852394a118792a92e23f742a110e9893d089ae0930462b35b7aa40b4850
+machine_hash: c4c0d568a21ad2103277086a413b39f03d857a79465fc855f3289c678349676a
 product: cursor
 product_name: Cursor
 record:
@@ -30,7 +30,7 @@ record:
       New users in India can visit cursor.com/signup and select the Start plan during
       onboarding.
     source_release: https://cursor.com/changelog/cursor-start
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -40,8 +40,7 @@ record:
   theme: interface-experience
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Existing Free users in India can upgrade their plan from the dashboard. New
-    user
+  title: Existing Free users in India can upgrade their plan from the dashboard
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-14-added-mouse-click-support-for-multi-select-menus-and-other-input-rows-in-fullscr|claude-code-2026-07-14-3a9c44]]'
@@ -50,12 +49,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-07-28-cursor-start-https-cursor-com-changelog-cursor-start-386914df|cursor-2026-07-28-cursor-start-https-cursor-com-changelog-cursor-start-386914df]]'
 source_type: cursor_changelog
 theme: interface-experience
-title: Existing Free users in India can upgrade their plan from the dashboard. New
-  user
+title: Existing Free users in India can upgrade their plan from the dashboard
 type: change
 ---
 
-# Existing Free users in India can upgrade their plan from the dashboard. New user
+# Existing Free users in India can upgrade their plan from the dashboard
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cursor Start: Existing Free users in India can upgrade their plan from the dashboard. New users in India can visit cursor.com/signup and select the Start plan during onboarding.

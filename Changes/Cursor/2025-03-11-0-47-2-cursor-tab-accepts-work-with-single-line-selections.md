@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: c56c6641bc1e193469c9186ce82ac6e697711e88fbf4d1812539688aa4237296
+machine_hash: 36a2dedcf13da34c407fc9664647fb5a79ee3e7b4d3f307d24b58b1d648db648
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: '0.47.2: Cursor Tab accepts work with single-line selections'
     source_release: https://cursor.com/changelog/0-47-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

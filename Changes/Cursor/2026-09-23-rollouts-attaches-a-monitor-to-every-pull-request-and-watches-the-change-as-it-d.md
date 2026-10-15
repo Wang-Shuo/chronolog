@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: dde6aa3cb9575cc5f5ab366ac35792ea03e8d307fa9d942822c3557fcda10b7c
+machine_hash: a6bbe10cafd407571909b841e0f313fd890662dce0498fc1cd02644173cd5153
 product: cursor
 product_name: Cursor
 record:
@@ -31,7 +31,7 @@ record:
       detected, or inconclusive. It''s the Cursor version of Firetiger Change Monitors,
       rebuilt with the Bot Development Kit.'
     source_release: https://cursor.com/changelog/rollouts-and-security-reviewer
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -39,8 +39,7 @@ record:
   source_release: cursor-2026-09-23-rollouts-and-security-review-https-cursor-com-changelog-rollouts-b860a5fb
   source_type: cursor_changelog
   theme: developer-workflow
-  title: Rollouts attaches a monitor to every pull request and watches the change
-    as it d
+  title: Rollouts attaches a monitor to every pull request and watches the change…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-11-added-otel-metrics-include-repository-to-tag-opentelemetry-metrics-and-events-wi|claude-code-2026-09-11-7141cf]]'
@@ -49,12 +48,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-09-23-rollouts-and-security-review-https-cursor-com-changelog-rollouts-b860a5fb|cursor-2026-09-23-rollouts-and-security-review-https-cursor-com-changelog-rollouts-b860a5fb]]'
 source_type: cursor_changelog
 theme: developer-workflow
-title: Rollouts attaches a monitor to every pull request and watches the change as
-  it d
+title: Rollouts attaches a monitor to every pull request and watches the change…
 type: change
 ---
 
-# Rollouts attaches a monitor to every pull request and watches the change as it d
+# Rollouts attaches a monitor to every pull request and watches the change…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Rollouts and Security Review: Rollouts attaches a monitor to every pull request and watches the change as it deploys, reporting change health per environment: verified healthy, regression detected, or inconclusive. It's the Cursor version of Firetiger Change Monitors, rebuilt with the Bot Development Kit.

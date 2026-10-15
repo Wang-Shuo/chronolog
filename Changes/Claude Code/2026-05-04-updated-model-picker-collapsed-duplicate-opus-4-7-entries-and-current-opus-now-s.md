@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 68ea6ad3525ae3003a29588e36576f703355d846e3cc1b2ca676c6191ffb8872
+machine_hash: 0eafec7c8d7ca3598478e41afacb8b68094ccb9d5099bc53dd57695ac91eb718
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: 'Updated `/model` picker: collapsed duplicate Opus 4.7 entries, and current
       Opus now shows as "Opus" instead of "Opus 4.7"'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.128
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -47,8 +47,7 @@ record:
     score: 50
     theme: interface-experience
   theme_resolution: manual-semantic-rule-v2
-  title: 'Updated `/model` picker: collapsed duplicate Opus 4.7 entries, and current
-    Opus'
+  title: Updated `/model` picker
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-04-28-we-re-making-it-easier-to-choose-the-right-model-before-you-send-a-message-model|chatgpt-2026-04-28-5e72af]]'
@@ -57,11 +56,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-04-v2-1-128-github-317391175-a20e13a2|claude-code-2026-05-04-v2-1-128-github-317391175-a20e13a2]]'
 source_type: github_releases
 theme: model-support
-title: 'Updated /model picker: collapsed duplicate Opus 4.7 entries, and current Opus'
+title: Updated /model picker
 type: change
 ---
 
-# Updated `/model` picker: collapsed duplicate Opus 4.7 entries, and current Opus
+# Updated `/model` picker
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.128: Updated `/model` picker: collapsed duplicate Opus 4.7 entries, and current Opus now shows as "Opus" instead of "Opus 4.7"

@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: d26125f80210c99bca26b8cff944a18a24b2112fe8845fc90ecf00bc5e31537c
+machine_hash: fe4f8c7e4dd0153370e432056daa13b9529eb49e2f32b2e6b06d407e7faff7b9
 product: cursor
 product_name: Cursor
 record:
@@ -35,7 +35,7 @@ record:
       fully scaffolded Origin repo, ready to share or keep building on. Navigate to
       the Codebase tab to find your repo and access your project.
     source_release: https://cursor.com/changelog/start-from-scratch
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -54,7 +54,7 @@ record:
     theme: editor-experience
   theme_resolution: manual-semantic-rule-v1
   title: Once the agent's build is to your liking, click the Create repo button to
-    save y
+    save…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-21-added-emoji-shortcode-autocomplete-in-the-prompt-input-type-heart-to-insert-or-h|claude-code-2026-07-21-f13b52]]'
@@ -63,12 +63,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-08-27-start-from-scratch-without-a-repo-https-cursor-com-changelog-sta-d75d62ae|cursor-2026-08-27-start-from-scratch-without-a-repo-https-cursor-com-changelog-sta-d75d62ae]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: Once the agent's build is to your liking, click the Create repo button to save
-  y
+title: Once the agent's build is to your liking, click the Create repo button to save…
 type: change
 ---
 
-# Once the agent's build is to your liking, click the Create repo button to save y
+# Once the agent's build is to your liking, click the Create repo button to save…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Start from scratch, without a repo: Once the agent's build is to your liking, click the Create repo button to save your work in an Origin repo. Choose a custom name or pick one of the suggested ones, then set the visibility to private or internal. You'll get a fully scaffolded Origin repo, ready to share or keep building on. Navigate to the Codebase tab to find your repo and access your project.

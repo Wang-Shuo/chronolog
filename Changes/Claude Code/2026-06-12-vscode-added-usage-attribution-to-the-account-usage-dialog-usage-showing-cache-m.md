@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: d703b938a475d2eda42af10e7108dd41177e6b70c2985cb6c38e6484ece6e635
+machine_hash: 383fb4426475a44e46e0583813647b81bcfb58ea0dc59a2c13096a90dbc35356
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       showing cache misses, long context, subagents, and per-skill/agent/plugin/MCP
       breakdowns over the last 24h or 7d'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.174
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code
@@ -56,7 +56,7 @@ record:
     theme: apps-integrations
   theme_resolution: manual-semantic-rule-v2
   title: '[VSCode] Added usage attribution to the Account & usage dialog (`/usage`)
-    showin'
+    showing…'
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-06-04-this-release-introduces-design-mode-for-faster-canvas-editing-new-ways-to-unders|cursor-2026-06-04-434310]]'
@@ -65,11 +65,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-12-v2-1-174-github-338280944-f2fd4f4d|claude-code-2026-06-12-v2-1-174-github-338280944-f2fd4f4d]]'
 source_type: github_releases
 theme: context-window
-title: VSCode Added usage attribution to the Account & usage dialog (/usage) showin
+title: VSCode Added usage attribution to the Account & usage dialog (/usage) showing…
 type: change
 ---
 
-# [VSCode] Added usage attribution to the Account & usage dialog (`/usage`) showin
+# [VSCode] Added usage attribution to the Account & usage dialog (`/usage`) showing…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.174: [VSCode] Added usage attribution to the Account & usage dialog (`/usage`) showing cache misses, long context, subagents, and per-skill/agent/plugin/MCP breakdowns over the last 24h or 7d

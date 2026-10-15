@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: cc0f50fc4e850a23d4adff8f42c166954bd52d9d11b3175df2a41df41d809de7
+machine_hash: aca396d68cc2dd737eae7fae8caabef0779ddf250d54bafa5d1cd54fe5176d3b
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: You can also ⌘+F to search inside generated plans.
     source_release: https://cursor.com/changelog/2-1
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,7 +35,7 @@ record:
   theme: interface-experience
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: You can also ⌘+F to search inside generated plans.
+  title: You can also ⌘+F to search inside generated plans
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-06-03-memory-improvements-are-starting-to-roll-out-to-free-users-in-addition-to-the-sa-a02494|chatgpt-2025-06-03-a02494]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-11-21-2-1-https-cursor-com-changelog-2-1-730bb490|cursor-2025-11-21-2-1-https-cursor-com-changelog-2-1-730bb490]]'
 source_type: cursor_changelog
 theme: interface-experience
-title: You can also ⌘+F to search inside generated plans.
+title: You can also ⌘+F to search inside generated plans
 type: change
 ---
 
-# You can also ⌘+F to search inside generated plans.
+# You can also ⌘+F to search inside generated plans
 
 <!-- chronolog:begin region="description" -->
 Cursor — Improved Plan Mode, AI Code Review in Editor, and Instant Grep: You can also ⌘+F to search inside generated plans.

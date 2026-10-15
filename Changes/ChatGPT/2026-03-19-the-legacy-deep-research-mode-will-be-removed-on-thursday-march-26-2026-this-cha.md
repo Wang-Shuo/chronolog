@@ -11,9 +11,9 @@ diffusion:
   theme: search-browsing
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: c8159f241c71b945ef797afaf86d945f502b3e7d3039ccc3073f3de8968961e7
+machine_hash: a62bd5424d04a617269ef9446a524b9f6bdbb0e9453b5031d9207017d36a7ab3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       will remain unchanged.Historical conversations and results will remain accessible.To
       learn more about deep research, see: Deep research in ChatGPT.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -39,8 +39,7 @@ record:
   source_release: chatgpt-2026-03-19-legacy-deep-research-mode-deprecation-notice-99d97534
   source_type: chatgpt_changelog
   theme: search-browsing
-  title: The legacy deep research mode will be removed on Thursday, March 26, 2026.
-    This
+  title: The legacy deep research mode will be removed on Thursday, March 26, 2026
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-09-29-instant-checkout-makes-it-easy-to-go-from-chat-to-checkout-in-just-a-few-taps|chatgpt-2025-09-29-339f74]]'
@@ -49,12 +48,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-19-legacy-deep-research-mode-deprecation-notice-99d97534|chatgpt-2026-03-19-legacy-deep-research-mode-deprecation-notice-99d97534]]'
 source_type: chatgpt_changelog
 theme: search-browsing
-title: The legacy deep research mode will be removed on Thursday, March 26, 2026.
-  This
+title: The legacy deep research mode will be removed on Thursday, March 26, 2026
 type: change
 ---
 
-# The legacy deep research mode will be removed on Thursday, March 26, 2026. This
+# The legacy deep research mode will be removed on Thursday, March 26, 2026
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Legacy deep research mode deprecation notice: The legacy deep research mode will be removed on Thursday, March 26, 2026. This change only affects the legacy mode; the current deep research experience will remain unchanged.Historical conversations and results will remain accessible.To learn more about deep research, see: Deep research in ChatGPT.

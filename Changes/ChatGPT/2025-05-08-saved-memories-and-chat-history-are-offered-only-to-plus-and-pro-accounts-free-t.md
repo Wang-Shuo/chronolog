@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f9603274c48a5780f52e1ed9c0c6e390d874b392fc3cb5884c98ff897069002e
+machine_hash: 3b99048c7d1c39f6c5d340f646e81b59a316dbf061900cbbed01cc3c4e775599
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: • Saved memories and Chat history are offered only to Plus and Pro accounts.•
       Free‑tier users have access to Saved memories only.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -35,8 +35,7 @@ record:
   source_release: chatgpt-2025-05-08-enhanced-memory-in-chatgpt-including-eu-on-plus-pro-b6107d35
   source_type: chatgpt_changelog
   theme: memory
-  title: • Saved memories and Chat history are offered only to Plus and Pro accounts.•
-    Fr
+  title: • Saved memories and Chat history are offered only to Plus and Pro…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2024-04-29-memory-is-now-available-to-all-chatgpt-plus-users-except-in-europe-korea-where-w-4db29a|chatgpt-2024-04-29-4db29a]]'
@@ -45,12 +44,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-08-enhanced-memory-in-chatgpt-including-eu-on-plus-pro-b6107d35|chatgpt-2025-05-08-enhanced-memory-in-chatgpt-including-eu-on-plus-pro-b6107d35]]'
 source_type: chatgpt_changelog
 theme: memory
-title: • Saved memories and Chat history are offered only to Plus and Pro accounts.•
-  Fr
+title: • Saved memories and Chat history are offered only to Plus and Pro…
 type: change
 ---
 
-# • Saved memories and Chat history are offered only to Plus and Pro accounts.• Fr
+# • Saved memories and Chat history are offered only to Plus and Pro…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Enhanced Memory in ChatGPT (including EU) on Plus/Pro: • Saved memories and Chat history are offered only to Plus and Pro accounts.• Free‑tier users have access to Saved memories only.

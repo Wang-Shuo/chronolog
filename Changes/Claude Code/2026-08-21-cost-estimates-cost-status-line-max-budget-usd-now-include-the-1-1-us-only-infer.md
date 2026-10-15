@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4f32fb33630fe3131520afed6ce5d32190e5afde3ef18246965d2e4c8ce5fdb1
+machine_hash: e15537ad33155a02bb8b1737f6d79e032e17fb1caa32c8f580430bdfa988d07c
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Cost estimates (`/cost`, status line, `--max-budget-usd`) now include the
       1.1× US-only-inference premium for data-residency workspaces
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.239
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -34,8 +34,7 @@ record:
   source_release: claude-code-2026-08-21-v2-1-239-github-374556322-5f6b8918
   source_type: github_releases
   theme: interface-experience
-  title: Cost estimates (`/cost`, status line, `--max-budget-usd`) now include the
-    1.1× U
+  title: Cost estimates (`/cost`, status line, `--max-budget-usd`) now include…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-17-added-the-selection-clear-keybinding-action-so-a-key-can-be-bound-to-clear-an-in|claude-code-2026-08-17-500eef]]'
@@ -44,12 +43,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-08-21-v2-1-239-github-374556322-5f6b8918|claude-code-2026-08-21-v2-1-239-github-374556322-5f6b8918]]'
 source_type: github_releases
 theme: interface-experience
-title: Cost estimates (/cost, status line, --max-budget-usd) now include the 1.1×
-  U
+title: Cost estimates (/cost, status line, --max-budget-usd) now include…
 type: change
 ---
 
-# Cost estimates (`/cost`, status line, `--max-budget-usd`) now include the 1.1× U
+# Cost estimates (`/cost`, status line, `--max-budget-usd`) now include…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.239: Cost estimates (`/cost`, status line, `--max-budget-usd`) now include the 1.1× US-only-inference premium for data-residency workspaces

@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 46232b86e9302a93d1f954883921481d80cc526022171535d677bae1f770544c
+machine_hash: 2cd0733e2d9842da50448d828a5527da99b23dbe004923a29ea6b1d135272b1c
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       reach the outer terminal when running inside tmux with `set -g allow-passthrough
       on`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.78
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   source_release: claude-code-2026-03-17-v2-1-78-github-298204446-1f2c1721
   source_type: github_releases
   theme: developer-workflow
-  title: Terminal notifications (iTerm2/Kitty/Ghostty popups, progress bar) now reach
-    the
+  title: Terminal notifications (iTerm2/Kitty/Ghostty popups, progress bar) now reach…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-10-added-exitworktree-tool-to-leave-an-enterworktree-session|claude-code-2026-03-10-e6cb03]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-17-v2-1-78-github-298204446-1f2c1721|claude-code-2026-03-17-v2-1-78-github-298204446-1f2c1721]]'
 source_type: github_releases
 theme: developer-workflow
-title: Terminal notifications (iTerm2/Kitty/Ghostty popups, progress bar) now reach
-  the
+title: Terminal notifications (iTerm2/Kitty/Ghostty popups, progress bar) now reach…
 type: change
 ---
 
-# Terminal notifications (iTerm2/Kitty/Ghostty popups, progress bar) now reach the
+# Terminal notifications (iTerm2/Kitty/Ghostty popups, progress bar) now reach…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.78: Terminal notifications (iTerm2/Kitty/Ghostty popups, progress bar) now reach the outer terminal when running inside tmux with `set -g allow-passthrough on`

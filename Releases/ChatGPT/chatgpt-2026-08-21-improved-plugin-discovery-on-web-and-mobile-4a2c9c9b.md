@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2026-08-21'
-machine_hash: 26b0634e7e199e1b6d19403c51762c7048bd71a59a9bdaa1bd034cbf5753253b
+machine_hash: 75a702cdfc28bb63c738d13676d27ac423df9d9b48e34fd9a618f296e762e9bb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,7 +39,7 @@ Tracked cards: 3
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- apps-integrations: [[Changes/ChatGPT/2026-08-21-updated-plugin-recommendations-make-it-easier-to-find-tools-people-continue-to-u|Updated plugin recommendations make it easier to find tools people continue to u]]
-- apps-integrations: [[Changes/ChatGPT/2026-08-21-plugin-availability-depends-on-your-plan-region-and-workspace-settings-desktop-i|Plugin availability depends on your plan, region, and workspace settings. Deskto]]
-- mobile-desktop: [[Changes/ChatGPT/2026-08-21-find-more-useful-plugins-rankings-now-prioritize-plugins-people-keep-using-after|Find more useful plugins. Rankings now prioritize plugins people keep using afte]]
+- apps-integrations: [[Changes/ChatGPT/2026-08-21-updated-plugin-recommendations-make-it-easier-to-find-tools-people-continue-to-u|Updated plugin recommendations make it easier to find tools people continue to use]]
+- apps-integrations: [[Changes/ChatGPT/2026-08-21-plugin-availability-depends-on-your-plan-region-and-workspace-settings-desktop-i|Plugin availability depends on your plan, region, and workspace settings]]
+- mobile-desktop: [[Changes/ChatGPT/2026-08-21-find-more-useful-plugins-rankings-now-prioritize-plugins-people-keep-using-after|Find more useful plugins]]
 <!-- chronolog:end -->

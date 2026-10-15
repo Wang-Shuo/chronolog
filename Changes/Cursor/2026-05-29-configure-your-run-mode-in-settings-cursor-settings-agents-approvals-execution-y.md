@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 49379d2499ce184865b2e5b98ecaa5b347c41306f00d1d346822e3d26099736f
+machine_hash: de03f94cb4de0990a9d7df6b922e84de78f9315ef70cc45f06421ea8639157ec
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
   - quote: Configure your run mode in Settings > Cursor Settings > Agents > Approvals
       & Execution. You can also steer the classifier agent by giving it custom instructions.
     source_release: https://cursor.com/changelog/auto-review
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -48,7 +48,7 @@ record:
     score: 60
     theme: memory
   title: Configure your run mode in Settings > Cursor Settings > Agents > Approvals
-    & Exe
+    & Execution
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-28-introducing-dynamic-workflows-ask-claude-to-create-a-workflow-and-it-orchestrate|claude-code-2026-05-28-dfaf75]]'
@@ -57,11 +57,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-05-29-3-6-https-cursor-com-changelog-auto-review-c5d7c919|cursor-2026-05-29-3-6-https-cursor-com-changelog-auto-review-c5d7c919]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: Configure your run mode in Settings  Cursor Settings  Agents  Approvals & Exe
+title: Configure your run mode in Settings  Cursor Settings  Agents  Approvals & Execution
 type: change
 ---
 
-# Configure your run mode in Settings > Cursor Settings > Agents > Approvals & Exe
+# Configure your run mode in Settings > Cursor Settings > Agents > Approvals & Execution
 
 <!-- chronolog:begin region="description" -->
 Cursor — Auto-review Run Mode: Configure your run mode in Settings > Cursor Settings > Agents > Approvals & Execution. You can also steer the classifier agent by giving it custom instructions.

@@ -11,9 +11,9 @@ diffusion:
   theme: learning-tools
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e7cc17142c12e66185fee4b357d1f684a388f1155ccc880a9ace3a4b1475d3f1
+machine_hash: 61c7a9e9bb984f89e09248bf2d5a31e60578b6c450252fb3f4a270b380f3e509
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,7 +24,7 @@ record:
   evidence:
   - quote: Guide understanding with Socratic-style questions.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -32,18 +32,18 @@ record:
   source_release: chatgpt-2025-07-29-study-mode-ffbfbea6
   source_type: chatgpt_changelog
   theme: learning-tools
-  title: Guide understanding with Socratic-style questions.
+  title: Guide understanding with Socratic-style questions
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-07-29-break-concepts-into-easy-to-follow-sections-starting-simple-and-adding-complexit|chatgpt-2025-07-29-37b667]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-07-29-study-mode-ffbfbea6|chatgpt-2025-07-29-study-mode-ffbfbea6]]'
 source_type: chatgpt_changelog
 theme: learning-tools
-title: Guide understanding with Socratic-style questions.
+title: Guide understanding with Socratic-style questions
 type: change
 ---
 
-# Guide understanding with Socratic-style questions.
+# Guide understanding with Socratic-style questions
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Study Mode: Guide understanding with Socratic-style questions.

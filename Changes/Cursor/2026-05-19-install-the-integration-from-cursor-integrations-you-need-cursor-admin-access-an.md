@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 2e8f9c2900f36f2eb17366d7e28be5b8ef87f5db3fbee99b48b95228902c2ded
+machine_hash: 347704173f60acf3b3aaac9514dc9e5cd7514f7a5bc17bacbd3656c3ca66ace0
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
   - quote: Install the integration from Cursor integrations. You need Cursor admin
       access and Jira Commercial Cloud with Rovo enabled. Learn more in our docs.
     source_release: https://cursor.com/changelog/05-19-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -37,8 +37,7 @@ record:
   source_release: cursor-2026-05-19-cursor-in-jira-https-cursor-com-changelog-05-19-26-4a0261e4
   source_type: cursor_changelog
   theme: apps-integrations
-  title: Install the integration from Cursor integrations. You need Cursor admin access
-    a
+  title: Install the integration from Cursor integrations
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-19-plugin-discover-and-browse-screens-now-show-a-plugin-s-commands-agents-skills-ho|claude-code-2026-05-19-0a56ec]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-05-19-cursor-in-jira-https-cursor-com-changelog-05-19-26-4a0261e4|cursor-2026-05-19-cursor-in-jira-https-cursor-com-changelog-05-19-26-4a0261e4]]'
 source_type: cursor_changelog
 theme: apps-integrations
-title: Install the integration from Cursor integrations. You need Cursor admin access
-  a
+title: Install the integration from Cursor integrations
 type: change
 ---
 
-# Install the integration from Cursor integrations. You need Cursor admin access a
+# Install the integration from Cursor integrations
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cursor in Jira: Install the integration from Cursor integrations. You need Cursor admin access and Jira Commercial Cloud with Rovo enabled. Learn more in our docs.

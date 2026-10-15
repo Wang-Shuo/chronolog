@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: d07e4eedd8639b9a47bd425f7049d0b468b6ed42bc1c9cf9dd9316c6004cbb53
+machine_hash: 1adcfcbe1a6dd5e85b74ad8c52522d35fec3b0bbf4a00b70206cd045f1e79f6c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,7 +35,7 @@ record:
       in ChatGPT, reconnect the app to start using the updated experience. Existing
       sync functionality (Pro users only) for these apps is not affected.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -43,8 +43,7 @@ record:
   source_release: chatgpt-2026-03-27-updated-box-notion-linear-and-dropbox-apps-c362d055
   source_type: chatgpt_changelog
   theme: apps-integrations
-  title: We’re rolling out updated Box, Notion, Linear, and Dropbox apps in ChatGPT.
-    Thes
+  title: ChatGPT rolls out updated Box, Notion, Linear, and Dropbox apps
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-25-added-cwdchanged-and-filechanged-hook-events-for-reactive-environment-management|claude-code-2026-03-25-f3027d]]'
@@ -53,12 +52,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-27-updated-box-notion-linear-and-dropbox-apps-c362d055|chatgpt-2026-03-27-updated-box-notion-linear-and-dropbox-apps-c362d055]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
-title: We’re rolling out updated Box, Notion, Linear, and Dropbox apps in ChatGPT.
-  Thes
+title: ChatGPT rolls out updated Box, Notion, Linear, and Dropbox apps
 type: change
 ---
 
-# We’re rolling out updated Box, Notion, Linear, and Dropbox apps in ChatGPT. Thes
+# ChatGPT rolls out updated Box, Notion, Linear, and Dropbox apps
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Updated Box, Notion, Linear, and Dropbox apps: We’re rolling out updated Box, Notion, Linear, and Dropbox apps in ChatGPT. These updates add new app actions, including new write capabilities where supported, and bring the latest app experience into ChatGPT. If you already use these apps in ChatGPT, reconnect the app to start using the updated experience. Existing sync functionality (Pro users only) for these apps is not affected.

@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: bfa41847ef30c3ff80f64b23228be36ffee92c89079b44c0200107fc047347a1
+machine_hash: 34cc32291e72f5061850d31825694bb39beeecfd8bff4e4d7c0a37215b25a414
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Added `● N running` indicator in `/agents` next to agent types with live
       subagent instances
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.97
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   source_type: github_releases
   theme: agent-mode
   title: Added `● N running` indicator in `/agents` next to agent types with live
-    subagen
+    subagent…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-04-02-in-the-agents-window-you-can-use-design-mode-to-annotate-and-target-ui-elements|cursor-2026-04-02-44dffa]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-08-v2-1-97-github-306811434-0f57bf33|claude-code-2026-04-08-v2-1-97-github-306811434-0f57bf33]]'
 source_type: github_releases
 theme: agent-mode
-title: Added ● N running indicator in /agents next to agent types with live subagen
+title: Added ● N running indicator in /agents next to agent types with live subagent…
 type: change
 ---
 
-# Added `● N running` indicator in `/agents` next to agent types with live subagen
+# Added `● N running` indicator in `/agents` next to agent types with live subagent…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.97: Added `● N running` indicator in `/agents` next to agent types with live subagent instances

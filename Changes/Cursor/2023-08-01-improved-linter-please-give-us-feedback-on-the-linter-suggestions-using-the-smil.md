@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 71342bb38ade258d5e42d2d88277a5a496e25a07f26c94683d7aa7755eb233e3
+machine_hash: eb138010b7f937fc31e1ab8fab3f332e4e4bdec8dea2d89f9d26f41dc926184b
 product: cursor
 product_name: Cursor
 record:
@@ -30,7 +30,7 @@ record:
       to the More tab and then clicking on "Advanced linter settings" at the bottom.
       Let us know what you think in the Discord.
     source_release: https://cursor.com/changelog/0-6-1-nightly-0-6-2-nightly
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -49,7 +49,7 @@ record:
     theme: editor-experience
   theme_resolution: manual-semantic-rule-v1
   title: Improved linter! Please give us feedback on the linter suggestions using
-    the smi
+    the smiley faces
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-07-12-this-update-patches-search-cmd-win-shift-f-and-many-extensions-for-and-wsl-and-s|cursor-2023-07-12-75f4dc]]'
@@ -59,11 +59,11 @@ source_release: '[[Releases/Cursor/cursor-2023-08-01-0-6-1-nightly-0-6-2-nightly
 source_type: cursor_changelog
 theme: developer-workflow
 title: Improved linter! Please give us feedback on the linter suggestions using the
-  smi
+  smiley faces
 type: change
 ---
 
-# Improved linter! Please give us feedback on the linter suggestions using the smi
+# Improved linter! Please give us feedback on the linter suggestions using the smiley faces
 
 <!-- chronolog:begin region="description" -->
 Cursor — Improved linter: Improved linter! Please give us feedback on the linter suggestions using the smiley faces. If you would like, you can make it more aggressive by going to the More tab and then clicking on "Advanced linter settings" at the bottom. Let us know what you think in the Discord.

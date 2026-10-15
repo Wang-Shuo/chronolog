@@ -11,9 +11,9 @@ diffusion:
   theme: automation-scheduling
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 5f63c74e3a96381b452994c601ab942d96e8c1725872cdb93944ebcd7e3d7fde
+machine_hash: caeb4eef6d6a3571c5ff6510687b5d4c77b63ed2b4aa962a66922c3aa7f05014
 product: cursor
 product_name: Cursor
 record:
@@ -31,7 +31,7 @@ record:
       agents. This release introduces the /automate skill, new triggers for GitHub
       and Slack, and support for computer use.
     source_release: https://cursor.com/changelog/06-18-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -50,7 +50,7 @@ record:
     score: 50
     theme: agent-mode
   title: Cursor Automations save you time by automating repetitive tasks with always-on
-    a
+    agents
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-20-this-release-brings-cursor-automations-to-the-agents-window-and-introduces-the-a|cursor-2026-05-20-c0e77c]]'
@@ -60,11 +60,11 @@ source_release: '[[Releases/Cursor/cursor-2026-06-18-3-8-https-cursor-com-change
 source_type: cursor_changelog
 theme: automation-scheduling
 title: Cursor Automations save you time by automating repetitive tasks with always-on
-  a
+  agents
 type: change
 ---
 
-# Cursor Automations save you time by automating repetitive tasks with always-on a
+# Cursor Automations save you time by automating repetitive tasks with always-on agents
 
 <!-- chronolog:begin region="description" -->
 Cursor — Improvements to Cursor Automations: Cursor Automations save you time by automating repetitive tasks with always-on agents. This release introduces the /automate skill, new triggers for GitHub and Slack, and support for computer use.

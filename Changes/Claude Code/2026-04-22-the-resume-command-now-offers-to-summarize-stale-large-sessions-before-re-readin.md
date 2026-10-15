@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: bf28f93eb277b152b7b5db517fb8951d78158c053b45a012fe4cc53afe4273c9
+machine_hash: d4e479fefabd183a97b9d2bfd2421a02acaa4d5990cfccc9710a9e3b097a8608
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: The `/resume` command now offers to summarize stale, large sessions before
       re-reading them, matching the existing `--resume` behavior
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.117
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,8 +37,7 @@ record:
   theme: developer-workflow
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: The `/resume` command now offers to summarize stale, large sessions before
-    re-re
+  title: The `/resume` command now offers to summarize stale, large sessions before…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-04-15-in-the-agents-window-canvases-are-durable-artifacts-that-live-in-the-side-panel|cursor-2026-04-15-303734]]'
@@ -47,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-22-v2-1-117-github-311984967-1d917373|claude-code-2026-04-22-v2-1-117-github-311984967-1d917373]]'
 source_type: github_releases
 theme: developer-workflow
-title: The /resume command now offers to summarize stale, large sessions before re-re
+title: The /resume command now offers to summarize stale, large sessions before…
 type: change
 ---
 
-# The `/resume` command now offers to summarize stale, large sessions before re-re
+# The `/resume` command now offers to summarize stale, large sessions before…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.117: The `/resume` command now offers to summarize stale, large sessions before re-reading them, matching the existing `--resume` behavior

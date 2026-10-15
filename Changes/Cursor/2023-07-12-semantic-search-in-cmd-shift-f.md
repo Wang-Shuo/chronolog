@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3392bf2f5596d08a819549d5e54272b297d0b23800e1a23d0f6c7ded80891b4c
+machine_hash: e54864eebce687a8349614c90d9e0fdc69fb0843f17d286d193bc8906f7450ac
 product: cursor
 product_name: Cursor
 record:
@@ -24,7 +24,7 @@ record:
   evidence:
   - quote: Semantic search in Cmd-Shift-F
     source_release: https://cursor.com/changelog/0-2-48-nightly
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

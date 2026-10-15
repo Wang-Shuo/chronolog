@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2026-08-14'
-machine_hash: 3d70ff49bc79168d9193c4a5268ee7c89ae464e9b44f104a69e7ab9daa2cd967
+machine_hash: 82e76d1aa36492bfa05382993f93d78fab3b85fc7e1c307b7cb3e60b735f3605
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,7 +40,7 @@ Tracked cards: 3
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- reliability-performance: [[Changes/ChatGPT/2026-08-14-with-project-only-memory-chatgpt-can-use-conversations-from-the-same-project-for|With project-only memory, ChatGPT can use conversations from the same project fo]]
-- memory: [[Changes/ChatGPT/2026-08-14-this-update-is-available-on-all-chatgpt-plans-shared-projects-continue-to-use-pr|This update is available on all ChatGPT plans. Shared projects continue to use p]]
-- memory: [[Changes/ChatGPT/2026-08-14-you-can-now-change-a-project-s-memory-setting-after-you-create-it-open-the-proje|You can now change a project’s memory setting after you create it. Open the proj]]
+- reliability-performance: [[Changes/ChatGPT/2026-08-14-with-project-only-memory-chatgpt-can-use-conversations-from-the-same-project-for|With project-only memory, ChatGPT can use conversations from the same project…]]
+- memory: [[Changes/ChatGPT/2026-08-14-this-update-is-available-on-all-chatgpt-plans-shared-projects-continue-to-use-pr|This update is available on all ChatGPT plans]]
+- memory: [[Changes/ChatGPT/2026-08-14-you-can-now-change-a-project-s-memory-setting-after-you-create-it-open-the-proje|Change a project’s memory setting after you create it]]
 <!-- chronolog:end -->

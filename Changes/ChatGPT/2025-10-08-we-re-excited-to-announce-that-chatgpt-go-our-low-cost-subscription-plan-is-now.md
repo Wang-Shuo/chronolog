@@ -11,9 +11,9 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9e4bf93a0fa98052de6ae70d632d408b14278d4a6447dcbc6773d5fbf387641e
+machine_hash: 05c90f3df24f20d6499b2093453da09fb56516a528bdccb6296d1110ceaa9ae0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       plan, is now available in 16 additional countries. For an affordable price,
       ChatGPT Go provides everything included in the Free plan, and:'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -37,8 +37,8 @@ record:
   source_release: chatgpt-2025-10-08-chatgpt-go-expansion-37d00d9f
   source_type: chatgpt_changelog
   theme: pricing-model
-  title: We're excited to announce that ChatGPT Go, our low cost subscription plan,
-    is no
+  title: ChatGPT Go, our low cost subscription plan, is now available in 16 additional
+    countries
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-05-15-all-model-usage-is-now-unified-into-request-based-pricing|cursor-2025-05-15-fcfeee]]'
@@ -47,12 +47,12 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-08-chatgpt-go-expansion-37d00d9f|chatgpt-2025-10-08-chatgpt-go-expansion-37d00d9f]]'
 source_type: chatgpt_changelog
 theme: pricing-model
-title: We're excited to announce that ChatGPT Go, our low cost subscription plan,
-  is no
+title: ChatGPT Go, our low cost subscription plan, is now available in 16 additional
+  countries
 type: change
 ---
 
-# We're excited to announce that ChatGPT Go, our low cost subscription plan, is no
+# ChatGPT Go, our low cost subscription plan, is now available in 16 additional countries
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT Go expansion: We're excited to announce that ChatGPT Go, our low cost subscription plan, is now available in 16 additional countries. For an affordable price, ChatGPT Go provides everything included in the Free plan, and:

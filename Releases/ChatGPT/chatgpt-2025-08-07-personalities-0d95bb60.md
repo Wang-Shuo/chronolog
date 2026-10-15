@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-08-07'
-machine_hash: 509c9908c72201085d841576f9153ea745e71419375be8a77ec9d17f600e891a
+machine_hash: 738187ddcf4798b279a6b47388f5796d315129fcb5f1a70663d118ad79de112f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- voice: [[Changes/ChatGPT/2025-08-07-you-can-now-choose-from-four-distinct-personalities-or-use-the-default-personali-b6826c|You can now choose from four distinct personalities or use the Default personali]]
+- voice: [[Changes/ChatGPT/2025-08-07-you-can-now-choose-from-four-distinct-personalities-or-use-the-default-personali-b6826c|Choose from four distinct personalities or use the Default personality…]]
 <!-- chronolog:end -->

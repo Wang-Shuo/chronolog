@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1a3c44d5f67e3058f98412c81cfd58495d43958207a50a546b44010b67ec39d8
+machine_hash: 54de09feaad652728818d4847549af9d5d52389e528d18625ef6afa0581ca4fe
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       as previously announced. There are no API changes at this time. For details,
       see our blog post and Help Center.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -41,7 +41,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: As previously announced, we have retired GPT-4o, GPT-4.1, GPT-4.1 mini, and
-    Open
+    OpenAI…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-05-claude-opus-4-6-is-now-available|claude-code-2026-02-05-66b174]]'
@@ -51,11 +51,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-02-13-retiring-gpt-4o-and-other
 source_type: chatgpt_changelog
 theme: model-support
 title: As previously announced, we have retired GPT-4o, GPT-4.1, GPT-4.1 mini, and
-  Open
+  OpenAI…
 type: change
 ---
 
-# As previously announced, we have retired GPT-4o, GPT-4.1, GPT-4.1 mini, and Open
+# As previously announced, we have retired GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Retiring GPT-4o and other legacy models: As previously announced, we have retired GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini from ChatGPT. We are also retiring GPT-5 (Instant and Thinking), as previously announced. There are no API changes at this time. For details, see our blog post and Help Center.

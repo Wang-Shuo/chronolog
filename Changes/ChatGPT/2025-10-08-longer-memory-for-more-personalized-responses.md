@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0c2d619a4c266a5a87b7685b7e2ed839dd48aa2f2b87804d8e56347c7e4ea028
+machine_hash: 82c2a42dd795c581b70a1244f9b73ba2ff885c153fa8479e68b534690a9a18ae
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Longer memory for more personalized responses
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT

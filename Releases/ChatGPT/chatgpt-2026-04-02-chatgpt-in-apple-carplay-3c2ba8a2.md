@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-04-02'
-machine_hash: 8d1b2bee2a7496ea41c20bf90e1790b7e0da95078473fd458c6a135aafd0c3be
+machine_hash: 0d69d51835f7d3910618e7fe27cc1e175c408afb1ab42be60c343138d7cd3740
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- mobile-desktop: [[Changes/ChatGPT/2026-04-02-we-re-rolling-out-chatgpt-in-carplay-giving-you-access-to-a-hands-free-chatgpt-e|We’re rolling out ChatGPT in CarPlay, giving you access to a hands-free ChatGPT]]
+- mobile-desktop: [[Changes/ChatGPT/2026-04-02-we-re-rolling-out-chatgpt-in-carplay-giving-you-access-to-a-hands-free-chatgpt-e|ChatGPT rolls out ChatGPT in CarPlay, giving you access to a hands-free ChatGPT…]]
 <!-- chronolog:end -->

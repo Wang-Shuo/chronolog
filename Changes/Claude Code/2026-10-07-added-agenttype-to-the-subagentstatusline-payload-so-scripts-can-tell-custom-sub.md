@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 03fd170c005f3fe227bb06c917776f02700c4b1d8ba5e471c7cbe318c0b5f3f2
+machine_hash: b6d17c699504ca291a228e499f112d7d36c0d77222553d9f16e932c77e2a42e2
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `agentType` to the `subagentStatusLine` payload, so scripts can tell
       custom subagent types apart
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.293
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,7 +35,7 @@ record:
   source_type: github_releases
   theme: agent-mode
   title: Added `agentType` to the `subagentStatusLine` payload, so scripts can tell
-    custo
+    custom…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-10-01-added-an-n-text-filter-to-the-agents-view-that-matches-session-names-and-tasks-a|claude-code-2026-10-01-55ba7c]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-10-07-v2-1-293-github-405988533-66d1bb8d|claude-code-2026-10-07-v2-1-293-github-405988533-66d1bb8d]]'
 source_type: github_releases
 theme: agent-mode
-title: Added agentType to the subagentStatusLine payload, so scripts can tell custo
+title: Added agentType to the subagentStatusLine payload, so scripts can tell custom…
 type: change
 ---
 
-# Added `agentType` to the `subagentStatusLine` payload, so scripts can tell custo
+# Added `agentType` to the `subagentStatusLine` payload, so scripts can tell custom…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.293: Added `agentType` to the `subagentStatusLine` payload, so scripts can tell custom subagent types apart

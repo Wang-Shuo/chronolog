@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-04-16'
-machine_hash: 9c17173f358ec570cc6fa7276d278e11779ee3dc25c9610c284c1f690772a5c3
+machine_hash: 292d20ed0488af2e1d6dc4277b7143eeb6df55660cc7a850c9b51096e7acf6dc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,5 +40,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- enterprise-admin: [[Changes/ChatGPT/2026-04-16-we-re-beginning-to-roll-out-ads-for-users-on-free-and-go-plans-in-australia-new|We're beginning to roll out ads for users on Free and Go plans in Australia, New]]
+- enterprise-admin: [[Changes/ChatGPT/2026-04-16-we-re-beginning-to-roll-out-ads-for-users-on-free-and-go-plans-in-australia-new|We're beginning to roll out ads for users on Free and Go plans in Australia, New…]]
 <!-- chronolog:end -->

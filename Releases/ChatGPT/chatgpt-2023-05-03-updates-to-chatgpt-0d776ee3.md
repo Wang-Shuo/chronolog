@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2023-05-03'
-machine_hash: faa1bb4cb2e58f52145f1def4eb59d5edaadf7a146e1f09304a156ad90823016
+machine_hash: f7767673b214c318639fecf45439de0b761700a62652f09e3f793c44302f3c68
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,6 +38,6 @@ Tracked cards: 2
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2023-05-03-we-are-deprecating-the-legacy-gpt-3-5-model-on-may-10th-users-will-be-able-to-co|We are deprecating the Legacy (GPT-3.5) model on May 10th. Users will be able to]]
-- interface-experience: [[Changes/ChatGPT/2023-05-03-you-can-now-turn-off-chat-history-and-export-your-data-from-the-chatgpt-settings|You can now turn off chat history and export your data from the ChatGPT settings]]
+- model-support: [[Changes/ChatGPT/2023-05-03-we-are-deprecating-the-legacy-gpt-3-5-model-on-may-10th-users-will-be-able-to-co|We are deprecating the Legacy (GPT-3.5) model on May 10th]]
+- interface-experience: [[Changes/ChatGPT/2023-05-03-you-can-now-turn-off-chat-history-and-export-your-data-from-the-chatgpt-settings|Turn off chat history and export your data from the ChatGPT settings]]
 <!-- chronolog:end -->

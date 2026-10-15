@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: c61a39d7270045dcfd4f594e5a29ed3fef620fa8584a0750b85334e93af4d4c2
+machine_hash: 28569cbcf77df3133994af89239ad2ce76bf651579116689c2969853c63f932e
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Fixed read-only git commands in Bash unexpectedly asking for permission
       after a session had been running for a while (regression in 2.1.269)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.270
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,8 +37,7 @@ record:
   theme: safety-privacy
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: Fixed read-only git commands in Bash unexpectedly asking for permission after
-    a
+  title: Fixed read-only git commands in Bash unexpectedly asking for permission after…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-08-fixed-syntax-highlighted-code-in-permission-prompts-and-messages-sometimes-omitt|claude-code-2026-09-08-2851b6]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-12-v2-1-270-github-387670363-32c73094|claude-code-2026-09-12-v2-1-270-github-387670363-32c73094]]'
 source_type: github_releases
 theme: safety-privacy
-title: Fixed read-only git commands in Bash unexpectedly asking for permission after
-  a
+title: Fixed read-only git commands in Bash unexpectedly asking for permission after…
 type: change
 ---
 
-# Fixed read-only git commands in Bash unexpectedly asking for permission after a
+# Fixed read-only git commands in Bash unexpectedly asking for permission after…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.270: Fixed read-only git commands in Bash unexpectedly asking for permission after a session had been running for a while (regression in 2.1.269)

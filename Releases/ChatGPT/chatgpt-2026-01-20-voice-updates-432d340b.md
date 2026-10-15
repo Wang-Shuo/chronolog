@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-01-20'
-machine_hash: dac2d4aef467fc2c8767d74b1bbbf67008a2e367ce723ddf1ccabdb51e1ab680
+machine_hash: 103590fb2c9ca8643bb07d967db030fc47c38418561bc8fa45549eb5e4a4b2f6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,5 +40,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- voice: [[Changes/ChatGPT/2026-01-20-we-re-making-an-update-to-chatgpt-voice-for-paid-users-that-improves-its-ability|We’re making an update to ChatGPT Voice for paid users that improves its ability]]
+- voice: [[Changes/ChatGPT/2026-01-20-we-re-making-an-update-to-chatgpt-voice-for-paid-users-that-improves-its-ability|We’re making an update to ChatGPT Voice for paid users that improves its ability…]]
 <!-- chronolog:end -->

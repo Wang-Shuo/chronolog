@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 23261795f3cb880de8f9822668405e38c450e4e41e09bbb91b540a8649fce306
+machine_hash: 5c30de7a1b63a9b3190b429df8b7cdb17e0abefdfc4ec0985ee70931a6cf899b
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Added `s` in `/effort` to change effort for the current session only, matching
       `/model`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.257
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   source_type: github_releases
   theme: model-support
   title: Added `s` in `/effort` to change effort for the current session only, matching
-    `
+    `/model`
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-26-added-claude-api-cost-optimize-to-profile-an-existing-project-s-claude-api-spend|claude-code-2026-08-26-10b266]]'
@@ -46,11 +46,12 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6|claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6]]'
 source_type: github_releases
 theme: model-support
-title: 'Added s in /effort to change effort for the current session only, matching '
+title: Added s in /effort to change effort for the current session only, matching
+  /model
 type: change
 ---
 
-# Added `s` in `/effort` to change effort for the current session only, matching `
+# Added `s` in `/effort` to change effort for the current session only, matching `/model`
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.257: Added `s` in `/effort` to change effort for the current session only, matching `/model`

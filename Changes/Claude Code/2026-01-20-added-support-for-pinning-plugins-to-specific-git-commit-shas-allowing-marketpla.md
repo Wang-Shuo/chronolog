@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 984e774fd3714a922eafef0ba1a4a9d7c29250325f95959498221d2cf93cf3be
+machine_hash: 01b10d2e95bf4d17060cc837f3f8a9dd76fa10345787f09dc8145382a7b3e5c7
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Added support for pinning plugins to specific git commit SHAs, allowing
       marketplace entries to install exact versions
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.14
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -36,7 +36,7 @@ record:
   source_release: claude-code-2026-01-20-v2-1-14-github-278458927-a7d53111
   source_type: github_releases
   theme: apps-integrations
-  title: Added support for pinning plugins to specific git commit SHAs, allowing marketpl
+  title: Added support for pinning plugins to specific git commit SHAs, allowing marketplace…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-01-08-this-release-introduces-new-cli-controls-for-models-mcp-management-rules-and-com|cursor-2026-01-08-cc6cf4]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-01-20-v2-1-14-github-278458927-a7d53111|claude-code-2026-01-20-v2-1-14-github-278458927-a7d53111]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added support for pinning plugins to specific git commit SHAs, allowing marketpl
+title: Added support for pinning plugins to specific git commit SHAs, allowing marketplace…
 type: change
 ---
 
-# Added support for pinning plugins to specific git commit SHAs, allowing marketpl
+# Added support for pinning plugins to specific git commit SHAs, allowing marketplace…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.14: Added support for pinning plugins to specific git commit SHAs, allowing marketplace entries to install exact versions

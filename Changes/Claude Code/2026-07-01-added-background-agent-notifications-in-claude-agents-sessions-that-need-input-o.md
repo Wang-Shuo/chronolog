@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 380b38aeac49d4a78b00616a437cd888edee445ab451223e89c50aaa07816957
+machine_hash: e85ffdbaaa2703afa243820dd378d553dbe8471b027d3c81513ac677a16fcda6
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       need input or finish now fire the `Notification` hook (`agent_needs_input` /
       `agent_completed`)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.198
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code
@@ -38,8 +38,7 @@ record:
   source_release: claude-code-2026-07-01-v2-1-198-github-347599701-9cec0dab
   source_type: github_releases
   theme: agent-mode
-  title: Added background agent notifications in `claude agents` — sessions that need
-    inp
+  title: Added background agent notifications in `claude agents`
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-06-29-use-remote-control-in-the-agents-window-to-take-an-agent-you-re-running-on-your|cursor-2026-06-29-191c1b]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-01-v2-1-198-github-347599701-9cec0dab|claude-code-2026-07-01-v2-1-198-github-347599701-9cec0dab]]'
 source_type: github_releases
 theme: agent-mode
-title: Added background agent notifications in claude agents — sessions that need
-  inp
+title: Added background agent notifications in claude agents
 type: change
 ---
 
-# Added background agent notifications in `claude agents` — sessions that need inp
+# Added background agent notifications in `claude agents`
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.198: Added background agent notifications in `claude agents` — sessions that need input or finish now fire the `Notification` hook (`agent_needs_input` / `agent_completed`)

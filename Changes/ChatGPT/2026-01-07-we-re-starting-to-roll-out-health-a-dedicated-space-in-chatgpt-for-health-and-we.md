@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: edf2206d2a2d56fa86d56d379f42a72121c5f309717468c53cf1447cfcd919ba
+machine_hash: 412760e306ef326140de60747e596a178770a479f9e2b5b269d117d50ca0714f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,7 +34,7 @@ record:
       conversations, memory, and files are kept separate from the rest of ChatGPT
       and are not used to train our foundation models.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -55,8 +55,7 @@ record:
     - models
     score: 50
     theme: model-support
-  title: We’re starting to roll out Health, a dedicated space in ChatGPT for health
-    and w
+  title: We’re starting to roll out Health, a dedicated space in ChatGPT for health…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-12-19-in-addition-to-selecting-a-base-style-and-tone-preset-like-candid-and-friendly-y|chatgpt-2025-12-19-c71a45]]'
@@ -65,12 +64,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-01-07-health-in-chatgpt-4cb3bdf6|chatgpt-2026-01-07-health-in-chatgpt-4cb3bdf6]]'
 source_type: chatgpt_changelog
 theme: memory
-title: We’re starting to roll out Health, a dedicated space in ChatGPT for health
-  and w
+title: We’re starting to roll out Health, a dedicated space in ChatGPT for health…
 type: change
 ---
 
-# We’re starting to roll out Health, a dedicated space in ChatGPT for health and w
+# We’re starting to roll out Health, a dedicated space in ChatGPT for health…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Health in ChatGPT: We’re starting to roll out Health, a dedicated space in ChatGPT for health and wellness conversations. You can securely connect medical records, Apple Health and supported wellness apps so answers can be grounded in your own data. Health is designed to help you navigate medical care, not replace it. Health conversations, memory, and files are kept separate from the rest of ChatGPT and are not used to train our foundation models.

@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 317f1ab235a65f888c13a16c9d41f29a973a2f1a56f9b71d6e788481e5ddc098
+machine_hash: 0a32d354c528717ac660ef561d2589195e05451ef153f9f2086a196ea281aca3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       does not give other people access to your private chats or memory; information
       added to the Page is visible to people who can view it.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -46,8 +46,7 @@ record:
     - sharing
     score: 50
     theme: collaboration
-  title: Pages follow Space’s availability and sharing settings. Sharing a Page does
-    not
+  title: Pages follow Space’s availability and sharing settings
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-08-27-non-personalized-by-default-temporary-chats-are-not-personalized-non-personalize|chatgpt-2026-08-27-1f283e]]'
@@ -56,12 +55,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-create-and-collaborate-on-pages-aae35683|chatgpt-2026-09-29-create-and-collaborate-on-pages-aae35683]]'
 source_type: chatgpt_changelog
 theme: memory
-title: Pages follow Space’s availability and sharing settings. Sharing a Page does
-  not
+title: Pages follow Space’s availability and sharing settings
 type: change
 ---
 
-# Pages follow Space’s availability and sharing settings. Sharing a Page does not
+# Pages follow Space’s availability and sharing settings
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Create and collaborate on Pages: Pages follow Space’s availability and sharing settings. Sharing a Page does not give other people access to your private chats or memory; information added to the Page is visible to people who can view it.

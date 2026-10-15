@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: ca764199929d5abb4e436bacd782968b054d29f16698e79c259c9f42847f2b35
+machine_hash: 0f0388cc5aaf136b50d5d58b31f131c281dfa044d22645aa107da13963579466
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       caps the effort level on every provider, including Bedrock, Vertex and Foundry;
       users can still pick a lower level'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.267
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -38,8 +38,7 @@ record:
   source_release: claude-code-2026-09-09-v2-1-267-github-385748811-6409148e
   source_type: github_releases
   theme: model-support
-  title: 'Added `maxEffortLevel` setting (top-level or per model under `modelSettings`):
-    c'
+  title: Added `maxEffortLevel` setting (top-level or per model under `modelSettings`)
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-01-added-s-in-effort-to-change-effort-for-the-current-session-only-matching-model|claude-code-2026-09-01-53453f]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-09-v2-1-267-github-385748811-6409148e|claude-code-2026-09-09-v2-1-267-github-385748811-6409148e]]'
 source_type: github_releases
 theme: model-support
-title: 'Added maxEffortLevel setting (top-level or per model under modelSettings):
-  c'
+title: Added maxEffortLevel setting (top-level or per model under modelSettings)
 type: change
 ---
 
-# Added `maxEffortLevel` setting (top-level or per model under `modelSettings`): c
+# Added `maxEffortLevel` setting (top-level or per model under `modelSettings`)
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.267: Added `maxEffortLevel` setting (top-level or per model under `modelSettings`): caps the effort level on every provider, including Bedrock, Vertex and Foundry; users can still pick a lower level

@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 51700d1491800dd19234c088b11e5522f7919b3a542f4d525f643c67fd9f8474
+machine_hash: 5330618ae3f3a1e0964fe1586180b40906caf52f7fa88bc255ea8ae861b5c41f
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: Added `TeammateIdle` and `TaskCompleted` hook events for multi-agent workflows
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.33
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code

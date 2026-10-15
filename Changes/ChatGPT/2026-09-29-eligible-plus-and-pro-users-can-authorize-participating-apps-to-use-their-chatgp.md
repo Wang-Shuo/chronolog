@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: f81815b325fec27d9efac24c754dd6f77c537e3f78546867bea6e29e3ce9384b
+machine_hash: 7121a6cd39df633a4e4723062dce2dfb91e4743bf3a10925d8c8e66851fd1339
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
       your allowance and set an app-specific limit. Usage counts toward your existing
       plan allowance; connecting an app does not add more usage.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -52,7 +52,7 @@ record:
     theme: model-support
   theme_resolution: manual-semantic-rule-v1
   title: Eligible Plus and Pro users can authorize participating apps to use their
-    ChatGP
+    ChatGPT…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-28-added-claude-sonnet-5-5-claude-sonnet-5-5-now-the-default-sonnet-model-on-the-an|claude-code-2026-09-28-d71286]]'
@@ -61,11 +61,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-use-your-chatgpt-allowance-in-participating-apps-aecfcdb3|chatgpt-2026-09-29-use-your-chatgpt-allowance-in-participating-apps-aecfcdb3]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: Eligible Plus and Pro users can authorize participating apps to use their ChatGP
+title: Eligible Plus and Pro users can authorize participating apps to use their ChatGPT…
 type: change
 ---
 
-# Eligible Plus and Pro users can authorize participating apps to use their ChatGP
+# Eligible Plus and Pro users can authorize participating apps to use their ChatGPT…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Use your ChatGPT allowance in participating apps: Eligible Plus and Pro users can authorize participating apps to use their ChatGPT model allowance without creating an API key. Choose which apps can use your allowance and set an app-specific limit. Usage counts toward your existing plan allowance; connecting an app does not add more usage.

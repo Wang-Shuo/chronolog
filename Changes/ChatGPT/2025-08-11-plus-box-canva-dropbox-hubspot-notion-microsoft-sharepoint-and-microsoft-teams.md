@@ -11,9 +11,9 @@ diffusion:
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e00dc853a61cc6d460122ebecb2b1d9435014f92b156783bcd12ad6b49aa2e21
+machine_hash: c615a6a1b4bfad9b30d94416031c0fe92bf116a2e48e03fdb1c0a7bcf7ce358b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   - quote: 'Plus: Box, Canva, Dropbox, HubSpot, Notion, Microsoft SharePoint, and
       Microsoft Teams'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -34,7 +34,8 @@ record:
   source_release: chatgpt-2025-08-11-additional-connectors-for-plus-and-pro-6d22248a
   source_type: chatgpt_changelog
   theme: collaboration
-  title: 'Plus: Box, Canva, Dropbox, HubSpot, Notion, Microsoft SharePoint, and Microsoft'
+  title: 'Plus: Box, Canva, Dropbox, HubSpot, Notion, Microsoft SharePoint, and Microsoft
+    Teams'
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-06-12-sharing-chats-from-projects|chatgpt-2025-06-12-1db390]]'
@@ -43,11 +44,12 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-11-additional-connectors-for-plus-and-pro-6d22248a|chatgpt-2025-08-11-additional-connectors-for-plus-and-pro-6d22248a]]'
 source_type: chatgpt_changelog
 theme: collaboration
-title: 'Plus: Box, Canva, Dropbox, HubSpot, Notion, Microsoft SharePoint, and Microsoft'
+title: 'Plus: Box, Canva, Dropbox, HubSpot, Notion, Microsoft SharePoint, and Microsoft
+  Teams'
 type: change
 ---
 
-# Plus: Box, Canva, Dropbox, HubSpot, Notion, Microsoft SharePoint, and Microsoft
+# Plus: Box, Canva, Dropbox, HubSpot, Notion, Microsoft SharePoint, and Microsoft Teams
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Additional connectors for Plus and Pro: Plus: Box, Canva, Dropbox, HubSpot, Notion, Microsoft SharePoint, and Microsoft Teams

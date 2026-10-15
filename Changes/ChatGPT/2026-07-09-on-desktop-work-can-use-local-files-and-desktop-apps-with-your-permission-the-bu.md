@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 5d5facaca2b4480d224001ff88721a886793990521c4c5a376f1e1b2dc1d0bbc
+machine_hash: 6db5d1410bf329df528da25cee5417ca7994ad99dda57a29d6a2a456dedd5861
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,7 +35,7 @@ record:
       diffs, pull-request review in the side panel, faster computer use, and support
       for multiple repositories in one project.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -61,8 +61,7 @@ record:
     score: 50
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v2
-  title: On desktop, Work can use local files and desktop apps with your permission.
-    The
+  title: On desktop, Work can use local files and desktop apps with your permission
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-07-added-a-grey-badge-to-the-footer-when-in-manual-permission-mode-making-the-activ|claude-code-2026-07-07-16e820]]'
@@ -71,12 +70,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together-90482810|chatgpt-2026-07-09-the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together-90482810]]'
 source_type: chatgpt_changelog
 theme: safety-privacy
-title: On desktop, Work can use local files and desktop apps with your permission.
-  The
+title: On desktop, Work can use local files and desktop apps with your permission
 type: change
 ---
 
-# On desktop, Work can use local files and desktop apps with your permission. The
+# On desktop, Work can use local files and desktop apps with your permission
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — The new ChatGPT desktop app brings Chat, Work, and Codex together: On desktop, Work can use local files and desktop apps with your permission. The built-in browser lets ChatGPT gather information from websites and work with supported web-based tools and files. Codex also adds inline editing within diffs, pull-request review in the side panel, faster computer use, and support for multiple repositories in one project.

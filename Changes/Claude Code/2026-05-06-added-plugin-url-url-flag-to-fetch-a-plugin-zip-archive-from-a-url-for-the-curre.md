@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 69155f85b37a37c39fea419bd2ac52801c711d0892cb2495ae089b74663dc0a9
+machine_hash: ac688da169374c9c1b827cba986d541857edbee962f72a55fd8615581ea67f52
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `--plugin-url <url>` flag to fetch a plugin `.zip` archive from a
       URL for the current session
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.129
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -34,8 +34,7 @@ record:
   source_release: claude-code-2026-05-06-v2-1-129-github-317982632-ec56fc0f
   source_type: github_releases
   theme: apps-integrations
-  title: Added `--plugin-url <url>` flag to fetch a plugin `.zip` archive from a URL
-    for
+  title: Added `--plugin-url <url>` flag to fetch a plugin `.zip` archive from a URL…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-04-mcp-now-shows-the-tool-count-for-connected-servers-and-flags-servers-that-connec|claude-code-2026-05-04-c7abbc]]'
@@ -44,11 +43,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-06-v2-1-129-github-317982632-ec56fc0f|claude-code-2026-05-06-v2-1-129-github-317982632-ec56fc0f]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added --plugin-url url flag to fetch a plugin .zip archive from a URL for
+title: Added --plugin-url url flag to fetch a plugin .zip archive from a URL…
 type: change
 ---
 
-# Added `--plugin-url <url>` flag to fetch a plugin `.zip` archive from a URL for
+# Added `--plugin-url <url>` flag to fetch a plugin `.zip` archive from a URL…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.129: Added `--plugin-url <url>` flag to fetch a plugin `.zip` archive from a URL for the current session

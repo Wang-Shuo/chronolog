@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 0b09ff7b97a736ba766425db4bad3d3cda24a6c0488442b9a6c6daece57dbd76
+machine_hash: b61ba4c2f4b8e5314f0a03288108702204b79dec59966a42a5e7c5eff8ed2895
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Added GitLab merge request URL support to the `--worktree` flag and the
       `claude agents` view (where MRs display as `!N`)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.233
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -46,7 +46,7 @@ record:
     score: 50
     theme: developer-workflow
   theme_resolution: manual-semantic-rule-v1
-  title: Added GitLab merge request URL support to the `--worktree` flag and the `claude
+  title: Added GitLab merge request URL support to the `--worktree` flag…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-21-improved-footer-pr-badge-links-to-be-clickable-hyperlinks-even-when-terminal-sup|claude-code-2026-07-21-7c3261]]'
@@ -55,11 +55,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-08-14-v2-1-233-github-370762090-de6823a9|claude-code-2026-08-14-v2-1-233-github-370762090-de6823a9]]'
 source_type: github_releases
 theme: developer-workflow
-title: Added GitLab merge request URL support to the --worktree flag and the claude
+title: Added GitLab merge request URL support to the --worktree flag…
 type: change
 ---
 
-# Added GitLab merge request URL support to the `--worktree` flag and the `claude
+# Added GitLab merge request URL support to the `--worktree` flag…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.233: Added GitLab merge request URL support to the `--worktree` flag and the `claude agents` view (where MRs display as `!N`)

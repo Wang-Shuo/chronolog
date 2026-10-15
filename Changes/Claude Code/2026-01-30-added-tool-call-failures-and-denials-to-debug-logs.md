@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 88d8aeb22827f06de3e0706309eeb613e4109d7d089bd67e7372229ad257a66d
+machine_hash: 6dcb2c7972dd19919c37e5f6821f21ab604d4d7b271831a2909f875965823088
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Added tool call failures and denials to debug logs
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.27
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

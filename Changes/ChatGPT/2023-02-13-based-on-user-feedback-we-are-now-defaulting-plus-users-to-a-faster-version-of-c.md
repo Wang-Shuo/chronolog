@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a480b3d04de200518f1689acd9313894234fe0c7eec0f72896d00a20253e6806
+machine_hash: b6e2eaab45994f19c65da9f0c81cdab49d308ea6fb3308cb474804a86c896af0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
       of ChatGPT, formerly known as “Turbo”. We’ll keep the previous version around
       for a while.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -36,8 +36,7 @@ record:
   source_release: chatgpt-2023-02-13-updates-to-chatgpt-0d776ee3
   source_type: chatgpt_changelog
   theme: reliability-performance
-  title: Based on user feedback, we are now defaulting Plus users to a faster version
-    of
+  title: Based on user feedback, we are now defaulting Plus users to a faster version…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|chatgpt-2022-12-15-9c6f9c]]'
@@ -45,12 +44,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2023-02-13-updates-to-chatgpt-0d776ee3|chatgpt-2023-02-13-updates-to-chatgpt-0d776ee3]]'
 source_type: chatgpt_changelog
 theme: reliability-performance
-title: Based on user feedback, we are now defaulting Plus users to a faster version
-  of
+title: Based on user feedback, we are now defaulting Plus users to a faster version…
 type: change
 ---
 
-# Based on user feedback, we are now defaulting Plus users to a faster version of
+# Based on user feedback, we are now defaulting Plus users to a faster version…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Updates to ChatGPT: Based on user feedback, we are now defaulting Plus users to a faster version of ChatGPT, formerly known as “Turbo”. We’ll keep the previous version around for a while.

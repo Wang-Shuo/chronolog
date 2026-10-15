@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 1e2fff700947a0a09ecf864cb165ed4a072901af6a6e3551d24e18f04a48b12e
+machine_hash: 5550ce4ca168678e89f5c2ff671db98bf198b2f8f5c4bed5879152af54cb5865
 product: cursor
 product_name: Cursor
 record:
@@ -22,11 +22,11 @@ record:
   comparison: ''
   confidence: low
   date: '2023-03-14'
-  description: "Cursor — v0.0.37 (2023-03-14): Windows and Linux support \U0001F973"
+  description: 'Cursor — v0.0.37 (2023-03-14): Windows and Linux support 🥳'
   evidence:
-  - quote: "Windows and Linux support \U0001F973"
+  - quote: Windows and Linux support 🥳
     source_release: https://cursor.com/changelog/0-0-37
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -36,12 +36,12 @@ record:
   theme: mobile-desktop
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: "Windows and Linux support \U0001F973"
+  title: Windows and Linux support 🥳
   type: change
 source_release: '[[Releases/Cursor/cursor-2023-03-14-0-0-37-https-cursor-com-changelog-0-0-37-236c8006|cursor-2023-03-14-0-0-37-https-cursor-com-changelog-0-0-37-236c8006]]'
 source_type: cursor_changelog
 theme: mobile-desktop
-title: "Windows and Linux support \U0001F973"
+title: Windows and Linux support 🥳
 type: change
 ---
 

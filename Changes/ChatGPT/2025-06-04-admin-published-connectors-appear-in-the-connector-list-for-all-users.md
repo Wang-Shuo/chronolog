@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: eff06ca6016c237a2e18d58f4d272a018af8d3d9cfc464900e9503a4dde99ce3
+machine_hash: fe57a073a2f52b683ef9295d96a130ed8a4505d9b6dce219992ac4ce4371fcfb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: Admin-published connectors appear in the connector list for all users
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT

@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a7f6e50035fbd364f578c662307e2882567681e6127bef2077460be96244a1a1
+machine_hash: 401de096d71e44341ff8253f1c10f6c27bdbcc111444ef3a3353f7e2b34ccf99
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Added a "c to copy" shortcut to `/btw` that copies the raw markdown answer
       to the clipboard, preserving formatting when pasted elsewhere
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.163
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,8 +37,7 @@ record:
   theme: interface-experience
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Added a "c to copy" shortcut to `/btw` that copies the raw markdown answer
-    to th
+  title: Added a "c to copy" shortcut to `/btw` that copies the raw markdown answer…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-28-claude-agents-autocomplete-in-the-dispatch-input-now-suggests-native-slash-comma|claude-code-2026-05-28-40dca9]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988|claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988]]'
 source_type: github_releases
 theme: interface-experience
-title: Added a "c to copy" shortcut to /btw that copies the raw markdown answer to
-  th
+title: Added a "c to copy" shortcut to /btw that copies the raw markdown answer…
 type: change
 ---
 
-# Added a "c to copy" shortcut to `/btw` that copies the raw markdown answer to th
+# Added a "c to copy" shortcut to `/btw` that copies the raw markdown answer…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.163: Added a "c to copy" shortcut to `/btw` that copies the raw markdown answer to the clipboard, preserving formatting when pasted elsewhere

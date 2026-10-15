@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: f21b62489137d1cacd51f8f6a378c5e0e9f8ec07c4aa3fc6e2838fbdfabe7afe
+machine_hash: 8616aa2501f4776d8c3736550c1f66210a9d83c029cafbf6fa97f2bff01fa865
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Added `effort`, `maxTurns`, and `disallowedTools` frontmatter support for
       plugin-shipped agents
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.78
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -46,8 +46,7 @@ record:
     score: 50
     theme: apps-integrations
   theme_resolution: manual-semantic-rule-v1
-  title: Added `effort`, `maxTurns`, and `disallowedTools` frontmatter support for
-    plugin
+  title: Added `effort`, `maxTurns`, and `disallowedTools` frontmatter support…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-14-added-new-elicitation-and-elicitationresult-hooks-to-intercept-and-override-resp|claude-code-2026-03-14-00facb]]'
@@ -56,11 +55,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-17-v2-1-78-github-298204446-1f2c1721|claude-code-2026-03-17-v2-1-78-github-298204446-1f2c1721]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added effort, maxTurns, and disallowedTools frontmatter support for plugin
+title: Added effort, maxTurns, and disallowedTools frontmatter support…
 type: change
 ---
 
-# Added `effort`, `maxTurns`, and `disallowedTools` frontmatter support for plugin
+# Added `effort`, `maxTurns`, and `disallowedTools` frontmatter support…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.78: Added `effort`, `maxTurns`, and `disallowedTools` frontmatter support for plugin-shipped agents

@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8175c9cd5a6ada3869ecdc3ebf7d768680061ac743fa5c0b65284b5881f2043d
+machine_hash: 1a3bdfc7c41288b5bd710a6785ebbffbca88effdb796a3201fdc216d5bde8a9b
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Added `CLAUDE_CODE_MCP_STARTUP_WAIT_MS` to bound how long the first non-interactive
       turn waits for connecting MCP servers (`0` = don't wait)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.274
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,7 +35,7 @@ record:
   source_release: claude-code-2026-09-17-v2-1-274-github-390317660-0d9c7c5d
   source_type: github_releases
   theme: apps-integrations
-  title: Added `CLAUDE_CODE_MCP_STARTUP_WAIT_MS` to bound how long the first non-interact
+  title: Added `CLAUDE_CODE_MCP_STARTUP_WAIT_MS` to bound how long the first non-interactive…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-15-added-forking-a-session-started-with-claude-remote-control-or-remote-control-fro|claude-code-2026-09-15-58687b]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-17-v2-1-274-github-390317660-0d9c7c5d|claude-code-2026-09-17-v2-1-274-github-390317660-0d9c7c5d]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added CLAUDE_CODE_MCP_STARTUP_WAIT_MS to bound how long the first non-interact
+title: Added CLAUDE_CODE_MCP_STARTUP_WAIT_MS to bound how long the first non-interactive…
 type: change
 ---
 
-# Added `CLAUDE_CODE_MCP_STARTUP_WAIT_MS` to bound how long the first non-interact
+# Added `CLAUDE_CODE_MCP_STARTUP_WAIT_MS` to bound how long the first non-interactive…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.274: Added `CLAUDE_CODE_MCP_STARTUP_WAIT_MS` to bound how long the first non-interactive turn waits for connecting MCP servers (`0` = don't wait)

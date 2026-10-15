@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2026-06-18'
-machine_hash: 6fdc42342af3248a0bbc6655545714d455857a0d47d68d5111d44b37d480fd92
+machine_hash: afb842ed5fe14335ae9362b13296350f1ace740e00859c9a5fb8fc8a733a5bb2
 product: cursor
 product_name: Cursor
 record:
@@ -40,9 +40,9 @@ Tracked cards: 5
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- automation-scheduling: [[Changes/Cursor/2026-06-18-cursor-automations-save-you-time-by-automating-repetitive-tasks-with-always-on-a|Cursor Automations save you time by automating repetitive tasks with always-on a]]
-- automation-scheduling: [[Changes/Cursor/2026-06-18-use-automate-to-create-an-automation-directly-in-your-local-agent-session|Use /automate to create an automation directly in your local agent session.]]
-- automation-scheduling: [[Changes/Cursor/2026-06-18-describe-the-task-you-want-to-automate-in-plain-language-and-cursor-will-configu|Describe the task you want to automate in plain language and Cursor will configu]]
-- automation-scheduling: [[Changes/Cursor/2026-06-18-automations-now-support-five-additional-github-triggers|Automations now support five additional GitHub triggers:]]
-- automation-scheduling: [[Changes/Cursor/2026-06-18-react-to-any-slack-message-with-a-designated-emoji-to-kick-off-an-automation-at|React to any Slack message with a designated emoji to kick off an automation. At]]
+- automation-scheduling: [[Changes/Cursor/2026-06-18-cursor-automations-save-you-time-by-automating-repetitive-tasks-with-always-on-a|Cursor Automations save you time by automating repetitive tasks with always-on agents]]
+- automation-scheduling: [[Changes/Cursor/2026-06-18-use-automate-to-create-an-automation-directly-in-your-local-agent-session|Use /automate to create an automation directly in your local agent session]]
+- automation-scheduling: [[Changes/Cursor/2026-06-18-describe-the-task-you-want-to-automate-in-plain-language-and-cursor-will-configu|Describe the task you want to automate in plain language and Cursor will configure…]]
+- automation-scheduling: [[Changes/Cursor/2026-06-18-automations-now-support-five-additional-github-triggers|Automations now support five additional GitHub triggers]]
+- automation-scheduling: [[Changes/Cursor/2026-06-18-react-to-any-slack-message-with-a-designated-emoji-to-kick-off-an-automation-at|React to any Slack message with a designated emoji to kick off an automation]]
 <!-- chronolog:end -->

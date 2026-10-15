@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-11-12'
-machine_hash: 89dc291379fa7f3fb9dd897df9c06df14eb449fbaa81c4dcf52359149ef2150e
+machine_hash: 2fceacf12ce99287b9f2990528cf4a2a844aa5f5498e4cb7ed553dc7c1190bc5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2025-11-12-we-re-updating-chatgpt-s-tone-controls-so-it-s-easier-to-make-responses-sound-th-d3a253|We’re updating ChatGPT’s tone controls so it’s easier to make responses sound th]]
+- model-support: [[Changes/ChatGPT/2025-11-12-we-re-updating-chatgpt-s-tone-controls-so-it-s-easier-to-make-responses-sound-th-d3a253|We’re updating ChatGPT’s tone controls so it’s easier to make responses sound…]]
 <!-- chronolog:end -->

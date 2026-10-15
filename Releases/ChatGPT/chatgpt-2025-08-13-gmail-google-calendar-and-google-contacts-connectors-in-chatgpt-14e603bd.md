@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-08-13'
-machine_hash: 23d34028a0f61c6f52ee1818bc0962729d2c66f28df07eb821f8b72f56ea2996
+machine_hash: ac4230ba8b73532f99e7cdd24de34eb739e1dbe9c9372679b3bcfab16fe8db4d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,5 +43,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- apps-integrations: [[Changes/ChatGPT/2025-08-13-gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-are-now-availabl-e34de4|Gmail, Google Calendar, and Google Contacts Connectors in ChatGPT are now availa]]
+- apps-integrations: [[Changes/ChatGPT/2025-08-13-gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-are-now-availabl-e34de4|Gmail, Google Calendar, and Google Contacts Connectors in ChatGPT are now available…]]
 <!-- chronolog:end -->

@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f53f6ea50b32d832151aa780e9f5340654be59cbbb2e5549f0bd2cad32d7525b
+machine_hash: d34dfe71be2993def8da034f8196efcb91c2ae3945d7d4f51b9aaa959934c35e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Preview diagrams and mini apps directly in chat
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT

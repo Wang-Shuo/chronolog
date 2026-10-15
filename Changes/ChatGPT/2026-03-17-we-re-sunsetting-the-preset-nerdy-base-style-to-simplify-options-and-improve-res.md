@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: b9a74be3d5bfba40804215c9d154a861b1547ed6ac30a759b8043d0c5526eaae
+machine_hash: f7238e4fa7b6a26b7c2ce7dd3150db2e0b10bc77045e1b3bc02bf5d880623b80
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       response quality. Users who selected it will be moved to the default personality.
       You can manage personality settings anytime in ChatGPT under Settings → Personalization.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -37,8 +37,7 @@ record:
   source_release: chatgpt-2026-03-17-sunsetting-the-nerdy-base-style-f0e6829f
   source_type: chatgpt_changelog
   theme: memory
-  title: We’re sunsetting the preset Nerdy base style to simplify options and improve
-    res
+  title: We’re sunsetting the preset Nerdy base style to simplify options and improve…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-06-reduced-startup-memory-by-426kb-for-users-without-custom-ca-certificates|claude-code-2026-03-06-159dc2]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-17-sunsetting-the-nerdy-base-style-f0e6829f|chatgpt-2026-03-17-sunsetting-the-nerdy-base-style-f0e6829f]]'
 source_type: chatgpt_changelog
 theme: memory
-title: We’re sunsetting the preset Nerdy base style to simplify options and improve
-  res
+title: We’re sunsetting the preset Nerdy base style to simplify options and improve…
 type: change
 ---
 
-# We’re sunsetting the preset Nerdy base style to simplify options and improve res
+# We’re sunsetting the preset Nerdy base style to simplify options and improve…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Sunsetting the “Nerdy” base style: We’re sunsetting the preset Nerdy base style to simplify options and improve response quality. Users who selected it will be moved to the default personality. You can manage personality settings anytime in ChatGPT under Settings → Personalization.

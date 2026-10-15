@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 2da008c1e6489b2d10d7c2d42f2eaa02e9a1d52e7d8667d4b2c47a34b82c4349
+machine_hash: 6068f2995a67507b6c1e98cce584ea03e9fe3f3584a34a4af0ef30a9a4d11229
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Response text now streams line-by-line as it's generated
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.78
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 6f097a9f546a0a6720b7bf72f1c39b7af2697ebe06645e8ca7d138ea88575bdd
+machine_hash: eb651982692723df76f2db1698a985902aaacd4b6db930610bd369f52145371a
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
   - quote: 'New Settings: We moved all our settings to be accessible by the gear in
       the top right. No more "More" tab!'
     source_release: https://cursor.com/changelog/0-30-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -39,7 +39,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: 'New Settings: We moved all our settings to be accessible by the gear in
-    the top'
+    the top right'
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-02-09-smoother-onboarding-fix-windows-settings-import-option-to-import-folder-window-s|cursor-2024-02-09-02fe26]]'
@@ -49,11 +49,11 @@ source_release: '[[Releases/Cursor/cursor-2024-03-20-0-30-x-https-cursor-com-cha
 source_type: cursor_changelog
 theme: interface-experience
 title: 'New Settings: We moved all our settings to be accessible by the gear in the
-  top'
+  top right'
 type: change
 ---
 
-# New Settings: We moved all our settings to be accessible by the gear in the top
+# New Settings: We moved all our settings to be accessible by the gear in the top right
 
 <!-- chronolog:begin region="description" -->
 Cursor — Faster Copilot++, Claude: New Settings: We moved all our settings to be accessible by the gear in the top right. No more "More" tab!

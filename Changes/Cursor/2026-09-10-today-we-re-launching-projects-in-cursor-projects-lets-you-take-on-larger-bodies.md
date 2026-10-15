@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f539b7e57bd431ef293b8b11bd09fd80a9dbc6fec342b562b303a4e71c8220ea
+machine_hash: 5f3919c878acc08ca17095935e91eb2fdb3a440d5411acdd5faa41b97e586f84
 product: cursor
 product_name: Cursor
 record:
@@ -30,7 +30,7 @@ record:
       context over months of work, delegates tasks to thousands of subagents, and
       performs recurring work without being prompted.
     source_release: https://cursor.com/changelog/projects
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -48,8 +48,7 @@ record:
     score: 50
     theme: context-window
   theme_resolution: manual-semantic-rule-v1
-  title: Today we're launching Projects in Cursor. Projects lets you take on larger
-    bodie
+  title: Cursor launches Projects
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-08-04-if-you-paste-more-than-10k-characters-into-the-composer-chatgpt-will-automatical|chatgpt-2026-08-04-923b6c]]'
@@ -58,12 +57,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-09-10-cursor-projects-https-cursor-com-changelog-projects-105aab75|cursor-2026-09-10-cursor-projects-https-cursor-com-changelog-projects-105aab75]]'
 source_type: cursor_changelog
 theme: context-window
-title: Today we're launching Projects in Cursor. Projects lets you take on larger
-  bodie
+title: Cursor launches Projects
 type: change
 ---
 
-# Today we're launching Projects in Cursor. Projects lets you take on larger bodie
+# Cursor launches Projects
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cursor Projects: Today we're launching Projects in Cursor. Projects lets you take on larger bodies of work, such as a feature, a migration, or a full app. It maintains context over months of work, delegates tasks to thousands of subagents, and performs recurring work without being prompted.

@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1a90b0fe4a51c7ff0e8c41171b3508c6cb024fd5bdcc3aab072429f0d65bbc53
+machine_hash: 5e1bb7da43d01700310b5eb5046a2e74b5f4366cc5b227fb59c9eac7d736538b
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: 'Chat scroll: we got rid of sticky scroll to make the chat easier to read.'
     source_release: https://cursor.com/changelog/0-14-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,7 +35,7 @@ record:
   theme: interface-experience
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: 'Chat scroll: we got rid of sticky scroll to make the chat easier to read.'
+  title: 'Chat scroll: we got rid of sticky scroll to make the chat easier to read'
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-08-22-nicer-error-messages-in-the-chat-fewer-annoying-popups|cursor-2023-08-22-e455fc]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-11-03-0-14-0-https-cursor-com-changelog-0-14-0-45a47acf|cursor-2023-11-03-0-14-0-https-cursor-com-changelog-0-14-0-45a47acf]]'
 source_type: cursor_changelog
 theme: interface-experience
-title: 'Chat scroll: we got rid of sticky scroll to make the chat easier to read.'
+title: 'Chat scroll: we got rid of sticky scroll to make the chat easier to read'
 type: change
 ---
 
-# Chat scroll: we got rid of sticky scroll to make the chat easier to read.
+# Chat scroll: we got rid of sticky scroll to make the chat easier to read
 
 <!-- chronolog:begin region="description" -->
 Cursor — Pro++, Word-wrapping diffs, and more: Chat scroll: we got rid of sticky scroll to make the chat easier to read.

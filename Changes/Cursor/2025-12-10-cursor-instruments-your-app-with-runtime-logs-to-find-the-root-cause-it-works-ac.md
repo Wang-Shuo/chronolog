@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6abe99615da07b4e16bc53a66429468109cef79c18a42f133cee7fad29bad811
+machine_hash: 6c4b4bebf329ae6d4d89cd770936e229cd86f0bc2d8a2bcf1bdb8245ac5edfdf
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Cursor instruments your app with runtime logs to find the root cause. It
       works across stacks, languages, and models.
     source_release: https://cursor.com/changelog/2-2
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,8 +35,7 @@ record:
   source_release: cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323
   source_type: cursor_changelog
   theme: model-support
-  title: Cursor instruments your app with runtime logs to find the root cause. It
-    works a
+  title: Cursor instruments your app with runtime logs to find the root cause
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-11-12-we-re-updating-gpt-5-to-gpt-5-1-instant-and-gpt-5-1-thinking-making-answers-both-d702c4|chatgpt-2025-11-12-d702c4]]'
@@ -45,12 +44,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323|cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323]]'
 source_type: cursor_changelog
 theme: model-support
-title: Cursor instruments your app with runtime logs to find the root cause. It works
-  a
+title: Cursor instruments your app with runtime logs to find the root cause
 type: change
 ---
 
-# Cursor instruments your app with runtime logs to find the root cause. It works a
+# Cursor instruments your app with runtime logs to find the root cause
 
 <!-- chronolog:begin region="description" -->
 Cursor — Debug Mode, Plan Mode Improvements, Multi-Agent Judging, and Pinned Chats: Cursor instruments your app with runtime logs to find the root cause. It works across stacks, languages, and models.

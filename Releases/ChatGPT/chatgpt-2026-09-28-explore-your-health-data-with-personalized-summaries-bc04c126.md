@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-09-28'
-machine_hash: 321537ca2da7cc475d2049649d39e2f3da0b5ce01f24c36b323c488e4ebb7ad8
+machine_hash: 7717937e7f32f40f6e240acb79ea0db434c7f4f3b238406cd6fd39975ef38146
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,5 +39,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- editor-experience: [[Changes/ChatGPT/2026-09-28-you-can-now-select-a-chart-metric-or-record-in-the-health-tab-to-get-personalize|You can now select a chart, metric, or record in the Health tab to get personali]]
+- editor-experience: [[Changes/ChatGPT/2026-09-28-you-can-now-select-a-chart-metric-or-record-in-the-health-tab-to-get-personalize|Select a chart, metric, or record in the Health tab to get personalized explanations…]]
 <!-- chronolog:end -->

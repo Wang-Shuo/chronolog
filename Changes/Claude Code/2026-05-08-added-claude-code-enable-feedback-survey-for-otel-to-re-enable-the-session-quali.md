@@ -11,9 +11,9 @@ diffusion:
   theme: enterprise-admin
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1abf8d88831c82d21057b3b2e4f3550f388953a7aea13cf5151e98b652e20fef
+machine_hash: 787190c31e942cbe7b6d12cceb25d19587bd011e648db935f983b404b6f5a43d
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Added `CLAUDE_CODE_ENABLE_FEEDBACK_SURVEY_FOR_OTEL` to re-enable the session
       quality survey for enterprises capturing responses through OpenTelemetry
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.136
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,7 +38,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: Added `CLAUDE_CODE_ENABLE_FEEDBACK_SURVEY_FOR_OTEL` to re-enable the session
-    qua
+    quality…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-04-this-release-introduces-updates-for-enterprise-admins-a-new-system-for-model-con|cursor-2026-05-04-3db092]]'
@@ -48,11 +48,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-05-08-v2-1-136-github-3
 source_type: github_releases
 theme: enterprise-admin
 title: Added CLAUDE_CODE_ENABLE_FEEDBACK_SURVEY_FOR_OTEL to re-enable the session
-  qua
+  quality…
 type: change
 ---
 
-# Added `CLAUDE_CODE_ENABLE_FEEDBACK_SURVEY_FOR_OTEL` to re-enable the session qua
+# Added `CLAUDE_CODE_ENABLE_FEEDBACK_SURVEY_FOR_OTEL` to re-enable the session quality…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.136: Added `CLAUDE_CODE_ENABLE_FEEDBACK_SURVEY_FOR_OTEL` to re-enable the session quality survey for enterprises capturing responses through OpenTelemetry

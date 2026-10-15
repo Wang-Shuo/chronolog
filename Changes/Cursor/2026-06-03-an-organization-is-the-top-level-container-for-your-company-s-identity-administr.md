@@ -11,9 +11,9 @@ diffusion:
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 21f78d38595c8fc81183f074a5d4373d7dba2f006cf085de38352014270fc9bd
+machine_hash: 40b4f2c1d03acdec85e3794f3c04493af7dfa9f8c7f1feb5359bb76219b7258e
 product: cursor
 product_name: Cursor
 record:
@@ -30,7 +30,7 @@ record:
       their entire Cursor setup, including a rollup of spend and token usage across
       every team.
     source_release: https://cursor.com/changelog/enterprise-organizations
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -48,7 +48,7 @@ record:
     score: 50
     theme: enterprise-admin
   theme_resolution: manual-semantic-rule-v1
-  title: An organization is the top-level container for your company's identity, administ
+  title: An organization is the top-level container for your company's identity…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-11-cursor-is-now-available-in-microsoft-teams|cursor-2026-05-11-cc179a]]'
@@ -57,11 +57,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-06-03-organizations-for-cursor-enterprise-https-cursor-com-changelog-e-b5c7f576|cursor-2026-06-03-organizations-for-cursor-enterprise-https-cursor-com-changelog-e-b5c7f576]]'
 source_type: cursor_changelog
 theme: collaboration
-title: An organization is the top-level container for your company's identity, administ
+title: An organization is the top-level container for your company's identity…
 type: change
 ---
 
-# An organization is the top-level container for your company's identity, administ
+# An organization is the top-level container for your company's identity…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Organizations for Cursor Enterprise: An organization is the top-level container for your company's identity, administration, and membership. It gives admins one place to view and manage their entire Cursor setup, including a rollup of spend and token usage across every team.

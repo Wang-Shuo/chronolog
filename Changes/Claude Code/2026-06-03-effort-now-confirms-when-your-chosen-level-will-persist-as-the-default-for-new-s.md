@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 3d2293966933a4e4b4529f0ab6e91b240256ccc1a1e6c264e4bf212437221b2a
+machine_hash: 3c5b25bce629553129acefe426b8803ebb62318399aecf1f48069e5608897ada
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: '`/effort` now confirms when your chosen level will persist as the default
       for new sessions'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.162
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -39,7 +39,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: '`/effort` now confirms when your chosen level will persist as the default
-    for ne'
+    for new sessions'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-28-opus-4-8-is-here-now-defaults-to-high-effort-effort-xhigh-for-your-hardest-tasks|claude-code-2026-05-28-e71892]]'
@@ -49,11 +49,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-06-03-v2-1-162-github-3
 source_type: github_releases
 theme: model-support
 title: /effort now confirms when your chosen level will persist as the default for
-  ne
+  new sessions
 type: change
 ---
 
-# `/effort` now confirms when your chosen level will persist as the default for ne
+# `/effort` now confirms when your chosen level will persist as the default for new sessions
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.162: `/effort` now confirms when your chosen level will persist as the default for new sessions

@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d3b4c85b00f9e3588aed05cccb6b0e6dd08e350a465743c2d5b993c1da80aa77
+machine_hash: 34c7b8088745980bff196aabf5152fbce3b4a3bf80ec20273b669881aa697ed8
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Have the advanced context button show up for non git repos.
     source_release: https://cursor.com/changelog/0-8-5
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -33,7 +33,7 @@ record:
   source_release: cursor-2023-08-26-0-8-5-https-cursor-com-changelog-0-8-5-057abd19
   source_type: cursor_changelog
   theme: context-window
-  title: Have the advanced context button show up for non git repos.
+  title: Have the advanced context button show up for non git repos
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-07-19-more-control-of-context-building-abilities-for-codebase-wide-chat|cursor-2023-07-19-14c678]]'
@@ -42,11 +42,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-08-26-0-8-5-https-cursor-com-changelog-0-8-5-057abd19|cursor-2023-08-26-0-8-5-https-cursor-com-changelog-0-8-5-057abd19]]'
 source_type: cursor_changelog
 theme: context-window
-title: Have the advanced context button show up for non git repos.
+title: Have the advanced context button show up for non git repos
 type: change
 ---
 
-# Have the advanced context button show up for non git repos.
+# Have the advanced context button show up for non git repos
 
 <!-- chronolog:begin region="description" -->
 Cursor — Advanced Button: Have the advanced context button show up for non git repos.

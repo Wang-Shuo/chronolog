@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-03-27'
-machine_hash: fd1aab041e786d4b4920334fdc1df494083ba3b32cf2c2b5920f23ca57459654
+machine_hash: 2c008e07707e51ae31024e492109cd82cf6058c657177362015a7fff9bac2045
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- apps-integrations: [[Changes/ChatGPT/2026-03-27-we-re-rolling-out-updated-box-notion-linear-and-dropbox-apps-in-chatgpt-these-up-9f6ee9|We’re rolling out updated Box, Notion, Linear, and Dropbox apps in ChatGPT. Thes]]
+- apps-integrations: [[Changes/ChatGPT/2026-03-27-we-re-rolling-out-updated-box-notion-linear-and-dropbox-apps-in-chatgpt-these-up-9f6ee9|ChatGPT rolls out updated Box, Notion, Linear, and Dropbox apps]]
 <!-- chronolog:end -->

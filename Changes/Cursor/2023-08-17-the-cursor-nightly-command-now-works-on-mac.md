@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ef74c4adc6501a361eab6d7f0d2fbf0006d307293503721f7cdb6dbf17f872b6
+machine_hash: 6e687d30ed8100054e1780e2a651eef64051045c3fde4a3a93362bafd6607825
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: The cursor-nightly command now works on Mac.
     source_release: https://cursor.com/changelog/0-7-14-nightly
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,7 +35,7 @@ record:
   theme: developer-workflow
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: The cursor-nightly command now works on Mac.
+  title: The cursor-nightly command now works on Mac
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-07-28-remote-ssh-is-now-built-in-to-cursor-you-do-not-need-to-edit-the-behavior-it-sho|cursor-2023-07-28-a55dba]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-08-17-0-7-14-nightly-https-cursor-com-changelog-0-7-14-nightly-b6b0c549|cursor-2023-08-17-0-7-14-nightly-https-cursor-com-changelog-0-7-14-nightly-b6b0c549]]'
 source_type: cursor_changelog
 theme: developer-workflow
-title: The cursor-nightly command now works on Mac.
+title: The cursor-nightly command now works on Mac
 type: change
 ---
 
-# The cursor-nightly command now works on Mac.
+# The cursor-nightly command now works on Mac
 
 <!-- chronolog:begin region="description" -->
 Cursor — Small improvements: The cursor-nightly command now works on Mac.

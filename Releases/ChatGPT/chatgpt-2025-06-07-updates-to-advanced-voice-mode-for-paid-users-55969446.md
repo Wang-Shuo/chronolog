@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2025-06-07'
-machine_hash: 96a2d630f88b22bb2bfb391af7d7163a80b39134052d4657a4752f8db7ad8e43
+machine_hash: 9c960df37edda5c3c83c554829ddc716a5800c60f93df3ecea5bb8ebbad91872
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,6 +41,6 @@ Tracked cards: 2
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- voice: [[Changes/ChatGPT/2025-06-07-we-re-upgrading-advanced-voice-in-chatgpt-for-paid-users-with-significant-enhanc-ad0b3e|We're upgrading Advanced Voice in ChatGPT for paid users with significant enhanc]]
-- voice: [[Changes/ChatGPT/2025-06-07-in-testing-we-ve-observed-that-this-update-may-occasionally-cause-minor-decrease-ca0630|In testing, we've observed that this update may occasionally cause minor decreas]]
+- voice: [[Changes/ChatGPT/2025-06-07-we-re-upgrading-advanced-voice-in-chatgpt-for-paid-users-with-significant-enhanc-ad0b3e|We're upgrading Advanced Voice in ChatGPT for paid users with significant…]]
+- voice: [[Changes/ChatGPT/2025-06-07-in-testing-we-ve-observed-that-this-update-may-occasionally-cause-minor-decrease-ca0630|In testing, we've observed that this update may occasionally cause minor decreases…]]
 <!-- chronolog:end -->

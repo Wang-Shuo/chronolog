@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-11-06'
-machine_hash: bc363f51858af285d3420752f20e0c440de31580851962076907c41db5d2a59b
+machine_hash: 23d67404282a252f7f7b160d901d8658397b0a0f9046be54a8943cbc0bb04d3d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- apps-integrations: [[Changes/ChatGPT/2023-11-06-you-can-now-create-custom-versions-of-chatgpt-that-combine-instructions-extra-kn-5c0997|You can now create custom versions of ChatGPT that combine instructions, extra k]]
+- apps-integrations: [[Changes/ChatGPT/2023-11-06-you-can-now-create-custom-versions-of-chatgpt-that-combine-instructions-extra-kn-5c0997|Create custom versions of ChatGPT that combine instructions, extra knowledge…]]
 <!-- chronolog:end -->

@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: bc218e8293b99b7a89528079f5b263a4ab26b018af3d65d3dfecdca9db0a7b1e
+machine_hash: 9931df206468c76a091abd7c548b6f88bd9baecc7c87c56b73271f05ec93263b
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: 'Parallel tool calls: a failed Bash command no longer cancels other calls
       in the same batch — each tool returns its own result independently'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.161
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,8 +37,7 @@ record:
   theme: developer-workflow
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: 'Parallel tool calls: a failed Bash command no longer cancels other calls
-    in the'
+  title: Parallel tool calls
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-28-status-line-commands-now-receive-columns-and-lines-environment-variables-so-scri|claude-code-2026-05-28-fe5ca3]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-02-v2-1-161-github-333271302-7337e6fa|claude-code-2026-06-02-v2-1-161-github-333271302-7337e6fa]]'
 source_type: github_releases
 theme: developer-workflow
-title: 'Parallel tool calls: a failed Bash command no longer cancels other calls in
-  the'
+title: Parallel tool calls
 type: change
 ---
 
-# Parallel tool calls: a failed Bash command no longer cancels other calls in the
+# Parallel tool calls
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.161: Parallel tool calls: a failed Bash command no longer cancels other calls in the same batch — each tool returns its own result independently

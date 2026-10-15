@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-11-24'
-machine_hash: a68ca094ebff9147e826d980e50f6982e2a7607a790096b3c5e8f38bf1ede99e
+machine_hash: e40ac35d13633286f46f4555a2dcbe93967ed3dee0a2c069bde8e1e800ae807e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- memory: [[Changes/ChatGPT/2025-11-24-shopping-research-is-a-new-interactive-experience-that-helps-you-find-the-right-0a021d|Shopping research is a new interactive experience that helps you find the right]]
+- memory: [[Changes/ChatGPT/2025-11-24-shopping-research-is-a-new-interactive-experience-that-helps-you-find-the-right-0a021d|Shopping research is a new interactive experience that helps you find the right…]]
 <!-- chronolog:end -->

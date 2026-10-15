@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1d8254e3cadf842a0b65758d43ce46d44b6632049ed1203e45835bae85e1dbb1
+machine_hash: e5c4050b6a5d87a9c06cd74a1bef87e319918630be544729bc5c93f795655689
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
       wherever your context already lives; from apps, conversations, or quick text
       inputs.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -46,8 +46,7 @@ record:
     score: 50
     theme: context-window
   theme_resolution: manual-semantic-rule-v1
-  title: Projects now make it easy to build a living knowledge base by adding sources
-    whe
+  title: Projects now make it easy to build a living knowledge base by adding sources…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-13-improved-rename-to-auto-generate-session-name-from-conversation-context-when-cal|claude-code-2026-02-13-3770b4]]'
@@ -56,12 +55,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-25-add-sources-to-your-projects-from-anywhere-83407292|chatgpt-2026-02-25-add-sources-to-your-projects-from-anywhere-83407292]]'
 source_type: chatgpt_changelog
 theme: context-window
-title: Projects now make it easy to build a living knowledge base by adding sources
-  whe
+title: Projects now make it easy to build a living knowledge base by adding sources…
 type: change
 ---
 
-# Projects now make it easy to build a living knowledge base by adding sources whe
+# Projects now make it easy to build a living knowledge base by adding sources…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Add sources to your projects from anywhere: Projects now make it easy to build a living knowledge base by adding sources wherever your context already lives; from apps, conversations, or quick text inputs.

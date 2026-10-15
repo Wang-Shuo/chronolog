@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-08-15'
-machine_hash: 6abb4224ad46554d24ffbc70749ad813da57ad119843cdbf0f2ed1756ca5999e
+machine_hash: 23aad36cc9ed73c9b5b178b441d6758582f078c5029343cc7040e6e09063bc38
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2025-08-15-we-re-making-gpt-5-s-default-personality-warmer-and-more-familiar-this-is-in-res-19a03e|We’re making GPT-5’s default personality warmer and more familiar. This is in re]]
+- model-support: [[Changes/ChatGPT/2025-08-15-we-re-making-gpt-5-s-default-personality-warmer-and-more-familiar-this-is-in-res-19a03e|We’re making GPT-5’s default personality warmer and more familiar]]
 <!-- chronolog:end -->

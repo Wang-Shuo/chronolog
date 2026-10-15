@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-04-25'
-machine_hash: 08011d536ba79389fcf87b62a63234f363c2f00101453c2d30fe8a93df2b3b64
+machine_hash: ca1340eb9d73588c687f0735de4c0392ca99a828d63f76801670e8842c6a795c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2025-04-25-we-re-making-additional-improvements-to-gpt-4o-optimizing-when-it-saves-memories|We’re making additional improvements to GPT-4o, optimizing when it saves memorie]]
+- model-support: [[Changes/ChatGPT/2025-04-25-we-re-making-additional-improvements-to-gpt-4o-optimizing-when-it-saves-memories|We’re making additional improvements to GPT-4o, optimizing when it saves memories…]]
 <!-- chronolog:end -->

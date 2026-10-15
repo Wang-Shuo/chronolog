@@ -11,9 +11,9 @@ diffusion:
   theme: search-browsing
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 69b12ca1fa3ce10bfd59f3d92fbef0f84bb01b12d9f74bdb1d62c8abdd4b6d82
+machine_hash: 6ad718d1f8bfb4717d74a210b49ac689fb95cad2ec3b3d1ad47ec96c67b55444
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       EEA, and the UK) to generate long-form, cited responses that include your company’s
       internal tools.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -58,7 +58,7 @@ record:
     theme: enterprise-admin
   theme_resolution: manual-semantic-rule-v1
   title: ChatGPT Team, Enterprise, and Edu customers globally can use connectors in
-    deep
+    deep…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-05-12-chatgpt-deep-research-with-sharepoint-and-onedrive-is-available-globally-to-team-c5147c|chatgpt-2025-05-12-c5147c]]'
@@ -68,11 +68,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2025-06-04-connectors-in-beta-for-de
 source_type: chatgpt_changelog
 theme: search-browsing
 title: ChatGPT Team, Enterprise, and Edu customers globally can use connectors in
-  deep
+  deep…
 type: change
 ---
 
-# ChatGPT Team, Enterprise, and Edu customers globally can use connectors in deep
+# ChatGPT Team, Enterprise, and Edu customers globally can use connectors in deep…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Connectors in beta for deep research (Plus, Pro, Team, Enterprise, Edu): ChatGPT Team, Enterprise, and Edu customers globally can use connectors in deep research, as well as Pro and Plus users (excluding users in Switzerland, EEA, and the UK) to generate long-form, cited responses that include your company’s internal tools.

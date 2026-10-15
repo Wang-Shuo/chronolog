@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5328305cdc92022111e1675c3e1a8c90d3100de1d185bb2b36fb12d83585f71e
+machine_hash: cd5d346b2de0f6c72b30ad03c0ce7a51efa602842ba8a6e3fda5f981ce397307
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: In the Agents Window, canvases are durable artifacts that live in the side
       panel alongside the terminal, browser, and source control.
     source_release: https://cursor.com/changelog/04-15-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -45,7 +45,7 @@ record:
     theme: developer-workflow
   theme_resolution: manual-semantic-rule-v1
   title: In the Agents Window, canvases are durable artifacts that live in the side
-    panel
+    panel…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-13-added-path-parameter-to-the-enterworktree-tool-to-switch-into-an-existing-worktr|claude-code-2026-04-13-467b16]]'
@@ -55,11 +55,11 @@ source_release: '[[Releases/Cursor/cursor-2026-04-15-canvases-https-cursor-com-c
 source_type: cursor_changelog
 theme: developer-workflow
 title: In the Agents Window, canvases are durable artifacts that live in the side
-  panel
+  panel…
 type: change
 ---
 
-# In the Agents Window, canvases are durable artifacts that live in the side panel
+# In the Agents Window, canvases are durable artifacts that live in the side panel…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Canvases: In the Agents Window, canvases are durable artifacts that live in the side panel alongside the terminal, browser, and source control.

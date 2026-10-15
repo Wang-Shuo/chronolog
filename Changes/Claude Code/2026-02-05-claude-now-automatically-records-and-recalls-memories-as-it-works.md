@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 24739c4d4ec62104ecb3d79cdcc22559c17006fb803c3a2d5ec123a249a79681
+machine_hash: 86301affb7fac6234d882f11e5ff3b4c2392486564c5c102ce4c07cfbc8aff06
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Claude now automatically records and recalls memories as it works
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.32
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

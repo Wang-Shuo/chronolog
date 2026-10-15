@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 719461e945adcfbcf2befe6f47edea35bb238d9692bfdbf57da94c8a89c51514
+machine_hash: eac7081e95eb367ef23fd7aa57b84de6e61d2a2c02d4112a502aa4b14bc9105c
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: 'Hooks can now invoke MCP tools directly via `type: "mcp_tool"`'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.118
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

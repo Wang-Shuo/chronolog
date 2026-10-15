@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-04-29'
-machine_hash: 854f9337a9cf828681eae0bf36d52ac4b6c12b1757c39b5528b63d62e182475c
+machine_hash: 9476900dd58e590b3e72e426d28f44bf0516601788bf026d5886ab02b363b708
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2025-04-29-we-ve-reverted-the-most-recent-update-to-gpt-4o-due-to-issues-with-overly-agreea-097503|We've reverted the most recent update to GPT-4o due to issues with overly agreea]]
+- model-support: [[Changes/ChatGPT/2025-04-29-we-ve-reverted-the-most-recent-update-to-gpt-4o-due-to-issues-with-overly-agreea-097503|We've reverted the most recent update to GPT-4o due to issues with overly agreeable…]]
 <!-- chronolog:end -->

@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5335b2fcb9226e9b41f9809a8d602ecd3824583f3e1729932b0b5a8e77bcb6dc
+machine_hash: 7cb611507dc4d6986c6be2e48ea55557e750188a283ac78c19b9c43af42c6184
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: We no longer store any full files in memory and prevent users from @'ing
       very large files (> 2MB)
     source_release: https://cursor.com/changelog/0-9-7-nightly
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,7 +35,7 @@ record:
   source_type: cursor_changelog
   theme: memory
   title: We no longer store any full files in memory and prevent users from @'ing
-    very la
+    very large…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|chatgpt-2023-07-20-37833c]]'
@@ -45,11 +45,11 @@ source_release: '[[Releases/Cursor/cursor-2023-09-07-0-9-7-nightly-https-cursor-
 source_type: cursor_changelog
 theme: memory
 title: We no longer store any full files in memory and prevent users from @'ing very
-  la
+  large…
 type: change
 ---
 
-# We no longer store any full files in memory and prevent users from @'ing very la
+# We no longer store any full files in memory and prevent users from @'ing very large…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Better State Management: We no longer store any full files in memory and prevent users from @'ing very large files (> 2MB)

@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 82cb7edb8c2e2c9ed338ae5255aba0d29508046066e1969d0a71bf404863ab3f
+machine_hash: 6849393cb67a4a9b28ecfb6575a64df3c60b12fdfe1635e0ac5b0f8b597a9000
 product: cursor
 product_name: Cursor
 record:
@@ -31,7 +31,7 @@ record:
       off our work on multi-root workspaces. You can configure a single environment
       with all the repositories an agent needs for its work, with re-use across sessions.
     source_release: https://cursor.com/changelog/05-13-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -50,7 +50,7 @@ record:
     score: 50
     theme: automation-scheduling
   title: Cloud agents and automations now support multi-repo environments, building
-    off o
+    off our…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-13-to-take-engineering-tasks-from-start-to-finish-agents-need-a-development-environ|cursor-2026-05-13-2235e3]]'
@@ -60,11 +60,11 @@ source_release: '[[Releases/Cursor/cursor-2026-05-13-3-4-https-cursor-com-change
 source_type: cursor_changelog
 theme: agent-mode
 title: Cloud agents and automations now support multi-repo environments, building
-  off o
+  off our…
 type: change
 ---
 
-# Cloud agents and automations now support multi-repo environments, building off o
+# Cloud agents and automations now support multi-repo environments, building off our…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Development environments for cloud agents: Cloud agents and automations now support multi-repo environments, building off our work on multi-root workspaces. You can configure a single environment with all the repositories an agent needs for its work, with re-use across sessions.

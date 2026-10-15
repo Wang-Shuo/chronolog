@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 28be553d3ae6020f4f92c7747a2488c5b2c53447b5e0ffa995e9aab1eb23725e
+machine_hash: 0b49c1aef6a90704343558ed9f78ce5e89df2696c66e067248721ad17e4d33ad
 product: cursor
 product_name: Cursor
 record:
@@ -31,7 +31,7 @@ record:
       chat and streamed into Slack when relevant. It can update this list as work
       progresses, keeping context fresh and interactions predictable.
     source_release: https://cursor.com/changelog/1-2
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -49,8 +49,7 @@ record:
     score: 50
     theme: context-window
   theme_resolution: manual-backfill-review-v1
-  title: The agent breaks down longer tasks with dependencies, visible to you in chat
-    and
+  title: The agent breaks down longer tasks with dependencies, visible to you in chat…
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-06-12-agents-run-remotely-in-a-secure-environment-and-you-ll-get-updates-directly-in-s|cursor-2025-06-12-2bf13a]]'
@@ -59,12 +58,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d|cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: The agent breaks down longer tasks with dependencies, visible to you in chat
-  and
+title: The agent breaks down longer tasks with dependencies, visible to you in chat…
 type: change
 ---
 
-# The agent breaks down longer tasks with dependencies, visible to you in chat and
+# The agent breaks down longer tasks with dependencies, visible to you in chat…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Agent Planning, Better Context & Faster Tab: The agent breaks down longer tasks with dependencies, visible to you in chat and streamed into Slack when relevant. It can update this list as work progresses, keeping context fresh and interactions predictable.

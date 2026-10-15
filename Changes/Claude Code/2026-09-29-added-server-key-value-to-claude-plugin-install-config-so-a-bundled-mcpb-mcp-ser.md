@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0fbf540ec4752932142b12f78683c050e9f221e8c4097a058342aace2fb47c7e
+machine_hash: 753a35be37bb0cc798eb6a5e8e9245a8e8596459f6824f34bd224c7833009306
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       a bundled `.mcpb` MCP server's own settings can be set at install time and it
       starts without visiting `/plugin` → Configure
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.285
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   source_type: github_releases
   theme: apps-integrations
   title: Added `<server>.<key>=<value>` to `claude plugin install --config`, so a
-    bundled
+    bundled…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-09-29-plugins-still-require-their-applicable-account-connections-and-workspace-permiss|chatgpt-2026-09-29-b2b607]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-29-v2-1-285-github-399375132-96b3ffbc|claude-code-2026-09-29-v2-1-285-github-399375132-96b3ffbc]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added server.key=value to claude plugin install --config, so a bundled
+title: Added server.key=value to claude plugin install --config, so a bundled…
 type: change
 ---
 
-# Added `<server>.<key>=<value>` to `claude plugin install --config`, so a bundled
+# Added `<server>.<key>=<value>` to `claude plugin install --config`, so a bundled…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.285: Added `<server>.<key>=<value>` to `claude plugin install --config`, so a bundled `.mcpb` MCP server's own settings can be set at install time and it starts without visiting `/plugin` → Configure

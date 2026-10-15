@@ -1,7 +1,7 @@
 ---
 changes_count: 4
 date: '2026-04-24'
-machine_hash: 94869bfde421b3cfa669c65755c35f2114676d520492f7ad96c94dabc0638305
+machine_hash: 2fc8ff7b763412578bb914cf186ab5520a801ea827a24d4081629603c149aceb
 product: cursor
 product_name: Cursor
 record:
@@ -40,8 +40,8 @@ Tracked cards: 4
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- agent-mode: [[Changes/Cursor/2026-04-24-this-release-introduces-a-new-way-to-multitask-with-async-subagents-an-improved|This release introduces a new way to multitask with async subagents, an improved]]
-- agent-mode: [[Changes/Cursor/2026-04-24-if-you-already-have-messages-in-the-queue-you-can-ask-cursor-to-multitask-on-the|If you already have messages in the queue, you can ask Cursor to multitask on th]]
-- agent-mode: [[Changes/Cursor/2026-04-24-with-multitask-cursor-will-run-async-subagents-to-parallelize-your-requests-inst|With /multitask, Cursor will run async subagents to parallelize your requests in]]
-- agent-mode: [[Changes/Cursor/2026-04-24-we-ve-added-new-and-improved-worktrees-in-the-agents-window|We've added new and improved worktrees in the Agents Window.]]
+- agent-mode: [[Changes/Cursor/2026-04-24-this-release-introduces-a-new-way-to-multitask-with-async-subagents-an-improved|Cursor introduces a new way to multitask with async subagents, an improved worktrees…]]
+- agent-mode: [[Changes/Cursor/2026-04-24-if-you-already-have-messages-in-the-queue-you-can-ask-cursor-to-multitask-on-the|If you already have messages in the queue, you can ask Cursor to multitask on them…]]
+- agent-mode: [[Changes/Cursor/2026-04-24-with-multitask-cursor-will-run-async-subagents-to-parallelize-your-requests-inst|With /multitask, Cursor will run async subagents to parallelize your requests…]]
+- agent-mode: [[Changes/Cursor/2026-04-24-we-ve-added-new-and-improved-worktrees-in-the-agents-window|Cursor adds new and improved worktrees in the Agents Window]]
 <!-- chronolog:end -->

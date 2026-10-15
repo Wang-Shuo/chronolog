@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2023-10-01'
-machine_hash: 4dc02217ce7729b577bfa98098fe0bfdc244c42d583abba533ab99b9146c56ce
+machine_hash: af478d04143515640729e43ea979fad693047c0deea459f9b27e6ec24cf3d26b
 product: cursor
 product_name: Cursor
 record:
@@ -40,9 +40,9 @@ Tracked cards: 5
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- reliability-performance: [[Changes/Cursor/2023-10-01-indexing-should-now-be-faster-more-stable-and-use-less-of-your-system-resources|Indexing should now be faster, more stable, and use less of your system resource]]
+- reliability-performance: [[Changes/Cursor/2023-10-01-indexing-should-now-be-faster-more-stable-and-use-less-of-your-system-resources|Indexing should now be faster, more stable, and use less of your system resources]]
 - developer-workflow: [[Changes/Cursor/2023-10-01-ask-about-git-commits-and-prs-using-git-in-chat|Ask about git commits and PRs using @git in chat!]]
-- editor-experience: [[Changes/Cursor/2023-10-01-cmd-k-is-now-in-the-terminal-a-bit-hackily-implemented-but-surprisingly-useful|Cmd-k is now in the terminal! A bit hackily implemented, but surprisingly useful]]
-- model-support: [[Changes/Cursor/2023-10-01-use-edit-in-the-chat-to-edit-a-whole-file-if-less-than-400-lines-expect-the-edit|Use /edit in the chat to edit a whole file (if less than 400 lines). Expect the]]
-- reliability-performance: [[Changes/Cursor/2023-10-01-bugfixes-fixed-the-ejected-from-slow-mode-ui-added-auto-switching-logic-for-the|Bugfixes! Fixed the "ejected from slow mode" UI, added auto-switching logic for]]
+- editor-experience: [[Changes/Cursor/2023-10-01-cmd-k-is-now-in-the-terminal-a-bit-hackily-implemented-but-surprisingly-useful|Cmd-k is now in the terminal!]]
+- model-support: [[Changes/Cursor/2023-10-01-use-edit-in-the-chat-to-edit-a-whole-file-if-less-than-400-lines-expect-the-edit|Use /edit in the chat to edit a whole file (if less than 400 lines)]]
+- reliability-performance: [[Changes/Cursor/2023-10-01-bugfixes-fixed-the-ejected-from-slow-mode-ui-added-auto-switching-logic-for-the|Bugfixes!]]
 <!-- chronolog:end -->

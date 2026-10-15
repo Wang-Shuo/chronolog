@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 52ba9a86487948a4cef33f5eb318eb952084c6672b14cc0324460f991e3c7f5b
+machine_hash: 85a37b8199cb61c6a46ef723de10aa6c88cb4ea27dcdc9a167956b73a21dc74a
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       of our frontier Sonnet 4.6 model, which now has 1M context. Please switch in
       /model.
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.49
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -50,7 +50,7 @@ record:
     theme: context-window
   theme_resolution: manual-semantic-rule-v2
   title: Sonnet 4.5 with 1M context is being removed from the Max plan in favor of
-    our fr
+    our…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-02-10-we-re-making-an-update-to-gpt-5-2-instant-in-chatgpt-and-the-api-that-improves-r|chatgpt-2026-02-10-45228e]]'
@@ -59,12 +59,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-02-19-v2-1-49-github-288498923-7c27a140|claude-code-2026-02-19-v2-1-49-github-288498923-7c27a140]]'
 source_type: github_releases
 theme: model-support
-title: Sonnet 4.5 with 1M context is being removed from the Max plan in favor of our
-  fr
+title: Sonnet 4.5 with 1M context is being removed from the Max plan in favor of our…
 type: change
 ---
 
-# Sonnet 4.5 with 1M context is being removed from the Max plan in favor of our fr
+# Sonnet 4.5 with 1M context is being removed from the Max plan in favor of our…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.49: Sonnet 4.5 with 1M context is being removed from the Max plan in favor of our frontier Sonnet 4.6 model, which now has 1M context. Please switch in /model.

@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e2c52dad3448d795b4e5552576516f1d7689c83608cb90f93e7eb3371ad82d54
+machine_hash: cdd9ec7ea27720dd79b51693a91f7d5a49fad5d9d47ff91a1ead49ed74749789
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Cloud agents are available anywhere you use Cursor, including web, desktop,
       mobile, Slack, and GitHub.
     source_release: https://cursor.com/changelog/02-24-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -45,7 +45,7 @@ record:
     score: 50
     theme: agent-mode
   title: Cloud agents are available anywhere you use Cursor, including web, desktop,
-    mobi
+    mobile…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-09-added-support-for-windows-package-manager-winget-installations-with-automatic-de|claude-code-2026-01-09-e25bf9]]'
@@ -55,11 +55,11 @@ source_release: '[[Releases/Cursor/cursor-2026-02-24-cloud-agents-with-computer-
 source_type: cursor_changelog
 theme: mobile-desktop
 title: Cloud agents are available anywhere you use Cursor, including web, desktop,
-  mobi
+  mobile…
 type: change
 ---
 
-# Cloud agents are available anywhere you use Cursor, including web, desktop, mobi
+# Cloud agents are available anywhere you use Cursor, including web, desktop, mobile…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cloud Agents with Computer Use: Cloud agents are available anywhere you use Cursor, including web, desktop, mobile, Slack, and GitHub.

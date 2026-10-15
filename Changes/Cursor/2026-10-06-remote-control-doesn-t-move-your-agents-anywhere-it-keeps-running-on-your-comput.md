@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: b2d10dad4e75c27f37b7de5d47600bf147af34c0f1f9304cd810fa5591ca804e
+machine_hash: f5bc74b6f4e65133a7abbb43200471c92a02c3cb3c8520d6186a2198d1cfb4d4
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
       computer, and the app connects to it. Your computer needs to stay on and online
       for remote control to work.
     source_release: https://cursor.com/changelog/remote-control-local-agents
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -36,8 +36,7 @@ record:
   source_release: cursor-2026-10-06-remote-control-for-local-agents-https-cursor-com-changelog-remot-bb6325fd
   source_type: cursor_changelog
   theme: agent-mode
-  title: Remote control doesn't move your agents anywhere. It keeps running on your
-    compu
+  title: Remote control doesn't move your agents anywhere
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-30-improved-replies-from-background-agents-to-your-messages-so-they-no-longer-open|claude-code-2026-09-30-f6a1b4]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-10-06-remote-control-for-local-agents-https-cursor-com-changelog-remot-bb6325fd|cursor-2026-10-06-remote-control-for-local-agents-https-cursor-com-changelog-remot-bb6325fd]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: Remote control doesn't move your agents anywhere. It keeps running on your
-  compu
+title: Remote control doesn't move your agents anywhere
 type: change
 ---
 
-# Remote control doesn't move your agents anywhere. It keeps running on your compu
+# Remote control doesn't move your agents anywhere
 
 <!-- chronolog:begin region="description" -->
 Cursor — Remote control for local agents: Remote control doesn't move your agents anywhere. It keeps running on your computer, and the app connects to it. Your computer needs to stay on and online for remote control to work.

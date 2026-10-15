@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 28c5792d8398423c2e2eadc3a49b92ca74faa0ea2b09d61910db1a3d084ee98a
+machine_hash: c714daef64b274dcbafba0b45f1075f1b7d0c907baca5f0863a59dbe4989d356
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       variables to MCP `headersHelper` scripts, allowing one helper to serve multiple
       servers
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.85
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,7 +36,7 @@ record:
   source_release: claude-code-2026-03-26-v2-1-85-github-302129484-6eb9dcd7
   source_type: github_releases
   theme: apps-integrations
-  title: Added `CLAUDE_CODE_MCP_SERVER_NAME` and `CLAUDE_CODE_MCP_SERVER_URL` environment
+  title: Added `CLAUDE_CODE_MCP_SERVER_NAME` and `CLAUDE_CODE_MCP_SERVER_URL` environment…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-03-25-google-s-file-connectors-in-chatgpt-are-now-unified-under-google-drive-providing|chatgpt-2026-03-25-6c2ae6]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-26-v2-1-85-github-302129484-6eb9dcd7|claude-code-2026-03-26-v2-1-85-github-302129484-6eb9dcd7]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added CLAUDE_CODE_MCP_SERVER_NAME and CLAUDE_CODE_MCP_SERVER_URL environment
+title: Added CLAUDE_CODE_MCP_SERVER_NAME and CLAUDE_CODE_MCP_SERVER_URL environment…
 type: change
 ---
 
-# Added `CLAUDE_CODE_MCP_SERVER_NAME` and `CLAUDE_CODE_MCP_SERVER_URL` environment
+# Added `CLAUDE_CODE_MCP_SERVER_NAME` and `CLAUDE_CODE_MCP_SERVER_URL` environment…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.85: Added `CLAUDE_CODE_MCP_SERVER_NAME` and `CLAUDE_CODE_MCP_SERVER_URL` environment variables to MCP `headersHelper` scripts, allowing one helper to serve multiple servers

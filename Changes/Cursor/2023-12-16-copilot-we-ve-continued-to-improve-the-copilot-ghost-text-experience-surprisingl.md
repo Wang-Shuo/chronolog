@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6707d77c96a08c63c31f382a5c6e1a41c88ce05838b81159f0c019a1f392c056
+machine_hash: 52988b82e8e3891dae2483a8b3307e69f8e72c245ff2c0089ab424356c43b2b7
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
       Surprisingly, many of us now enjoy using Copilot++ without any other autocomplete
       plugin installed.'
     source_release: https://cursor.com/changelog/0-20-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -46,8 +46,7 @@ record:
     score: 50
     theme: editor-experience
   theme_resolution: manual-semantic-rule-v1
-  title: 'Copilot++: We''ve continued to improve the Copilot++ ghost text experience.
-    Surpr'
+  title: 'Copilot++: We''ve continued to improve the Copilot++ ghost text experience'
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-11-06-you-can-now-create-custom-versions-of-chatgpt-that-combine-instructions-extra-kn-5c0997|chatgpt-2023-11-06-5c0997]]'
@@ -56,12 +55,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-12-16-0-20-0-https-cursor-com-changelog-0-20-0-fecb080e|cursor-2023-12-16-0-20-0-https-cursor-com-changelog-0-20-0-fecb080e]]'
 source_type: cursor_changelog
 theme: apps-integrations
-title: 'Copilot++: We''ve continued to improve the Copilot++ ghost text experience.
-  Surpr'
+title: 'Copilot++: We''ve continued to improve the Copilot++ ghost text experience'
 type: change
 ---
 
-# Copilot++: We've continued to improve the Copilot++ ghost text experience. Surpr
+# Copilot++: We've continued to improve the Copilot++ ghost text experience
 
 <!-- chronolog:begin region="description" -->
 Cursor — Copilot++, @ previews, AI Review: Copilot++: We've continued to improve the Copilot++ ghost text experience. Surprisingly, many of us now enjoy using Copilot++ without any other autocomplete plugin installed.

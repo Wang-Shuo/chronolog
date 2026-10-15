@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0f172bfa6a3553b5bb9a373b3af1793a3d85047cdb94f07b2ec151d9017fab52
+machine_hash: 6e54e19da5a0d032e143c1309c37aed5ed7e42716516ab9f47e23e8308889b13
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: '`Ctrl+A` and `Ctrl+E` now move to the start/end of the current logical
       line in multiline input, matching readline behavior'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.113
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   theme: interface-experience
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: '`Ctrl+A` and `Ctrl+E` now move to the start/end of the current logical line
-    in m'
+  title: '`Ctrl+A` and `Ctrl+E` now move to the start/end of the current logical line…'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-16-effort-now-opens-an-interactive-slider-when-called-without-arguments-with-arrow|claude-code-2026-04-16-626106]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-17-v2-1-113-github-310525785-1b5293ba|claude-code-2026-04-17-v2-1-113-github-310525785-1b5293ba]]'
 source_type: github_releases
 theme: interface-experience
-title: Ctrl+A and Ctrl+E now move to the start/end of the current logical line in
-  m
+title: Ctrl+A and Ctrl+E now move to the start/end of the current logical line…
 type: change
 ---
 
-# `Ctrl+A` and `Ctrl+E` now move to the start/end of the current logical line in m
+# `Ctrl+A` and `Ctrl+E` now move to the start/end of the current logical line…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.113: `Ctrl+A` and `Ctrl+E` now move to the start/end of the current logical line in multiline input, matching readline behavior

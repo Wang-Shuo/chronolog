@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9fe1d91b66b9f0710bfe49bbc9bdaf288701a87efeded827fd624f18ebc0cff5
+machine_hash: 232fff99ff52bbcef1f2529dfa597f2e9a2552ff785eb57c3154157d31573d50
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       ChatGPT sidebar. Word joins Excel and PowerPoint through the same Microsoft
       add-in.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -38,7 +38,7 @@ record:
   source_release: chatgpt-2026-09-17-chatgpt-for-word-f072ecd9
   source_type: chatgpt_changelog
   theme: interface-experience
-  title: ChatGPT is now available in Microsoft Word. You can draft from notes, summarize
+  title: ChatGPT is now available in Microsoft Word
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-03-added-a-diff-panel-that-opens-beside-the-conversation-in-fullscreen-mode-and-sho|claude-code-2026-09-03-85dca8]]'
@@ -47,11 +47,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-17-chatgpt-for-word-f072ecd9|chatgpt-2026-09-17-chatgpt-for-word-f072ecd9]]'
 source_type: chatgpt_changelog
 theme: interface-experience
-title: ChatGPT is now available in Microsoft Word. You can draft from notes, summarize
+title: ChatGPT is now available in Microsoft Word
 type: change
 ---
 
-# ChatGPT is now available in Microsoft Word. You can draft from notes, summarize
+# ChatGPT is now available in Microsoft Word
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT for Word: ChatGPT is now available in Microsoft Word. You can draft from notes, summarize a document, revise selected text, and adjust headings and formatting from the ChatGPT sidebar. Word joins Excel and PowerPoint through the same Microsoft add-in.

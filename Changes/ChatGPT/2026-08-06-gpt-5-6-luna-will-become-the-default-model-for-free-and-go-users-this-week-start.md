@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 38ac358c6d31f997f776f12da1d53013b38c6a71bba3b465a9afdfb7b538cc9f
+machine_hash: 60df6246267c451fd2b1bc95db74454d11394a7fc29a59766821d5ac351c85e0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
       Think button for harder questions (subject to abuse guardrails). Limits will
       still apply for file uploads, images and other tools.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -41,8 +41,7 @@ record:
   source_release: chatgpt-2026-08-06-updates-to-gpt-5-6-in-chatgpt-29572055
   source_type: chatgpt_changelog
   theme: model-support
-  title: GPT‑5.6 Luna will become the default model for Free and Go users this week.
-    Star
+  title: GPT‑5.6 Luna will become the default model for Free and Go users this week
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-24-added-claude-opus-5-claude-opus-5-now-the-default-opus-model-1m-context-fast-mod|claude-code-2026-07-24-9e4b09]]'
@@ -51,12 +50,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-06-updates-to-gpt-5-6-in-chatgpt-29572055|chatgpt-2026-08-06-updates-to-gpt-5-6-in-chatgpt-29572055]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: GPT‑5.6 Luna will become the default model for Free and Go users this week.
-  Star
+title: GPT‑5.6 Luna will become the default model for Free and Go users this week
 type: change
 ---
 
-# GPT‑5.6 Luna will become the default model for Free and Go users this week. Star
+# GPT‑5.6 Luna will become the default model for Free and Go users this week
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Updates to GPT‑5.6 in ChatGPT: GPT‑5.6 Luna will become the default model for Free and Go users this week. Starting next week, they’ll also have unlimited text chats and access to a new Think button for harder questions (subject to abuse guardrails). Limits will still apply for file uploads, images and other tools.

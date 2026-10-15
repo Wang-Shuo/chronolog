@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: e56588c4250414a0267abd226d69f167436fd0ff1228c15220d20789a6e2e7c9
+machine_hash: dcc0b7bd176736972325ace267d83e2c2784841e9116d2a7b84f2d6dbd2911a7
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: 'Improved agent view: sessions that edit, merge, comment on, or push to
       an existing PR now link it in `claude agents`'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.205
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   source_release: claude-code-2026-07-08-v2-1-205-github-351140412-aeced5ba
   source_type: github_releases
   theme: agent-mode
-  title: 'Improved agent view: sessions that edit, merge, comment on, or push to an
-    existi'
+  title: Improved agent view
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-06-improved-workflows-agent-list-layout-wider-titles-a-dedicated-time-column-shorte|claude-code-2026-07-06-f013ee]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-08-v2-1-205-github-351140412-aeced5ba|claude-code-2026-07-08-v2-1-205-github-351140412-aeced5ba]]'
 source_type: github_releases
 theme: agent-mode
-title: 'Improved agent view: sessions that edit, merge, comment on, or push to an
-  existi'
+title: Improved agent view
 type: change
 ---
 
-# Improved agent view: sessions that edit, merge, comment on, or push to an existi
+# Improved agent view
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.205: Improved agent view: sessions that edit, merge, comment on, or push to an existing PR now link it in `claude agents`

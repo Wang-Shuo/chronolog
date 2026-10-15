@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7e33838f04896ca36a7cfc4b8ef72a2324fc7ec5953c2b5efc8fe74572811ba1
+machine_hash: 3721d0402e7f72afbaf6f7e422e9c5cda6ef8b9182d66ac1e5d520d2acdddf52
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       characters are bolded instead of recolored, and emoji or accented names keep
       their glyphs'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.227
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   source_release: claude-code-2026-08-10-v2-1-227-github-368190806-b6269cf8
   source_type: github_releases
   theme: interface-experience
-  title: 'Improved slash-command menu: blue now marks only the selected row, matched
-    chara'
+  title: Improved slash-command menu
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-04-vscode-added-focus-view-a-chat-menu-toggle-that-hides-tool-activity-behind-an-ex|claude-code-2026-08-04-941042]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-08-10-v2-1-227-github-368190806-b6269cf8|claude-code-2026-08-10-v2-1-227-github-368190806-b6269cf8]]'
 source_type: github_releases
 theme: interface-experience
-title: 'Improved slash-command menu: blue now marks only the selected row, matched
-  chara'
+title: Improved slash-command menu
 type: change
 ---
 
-# Improved slash-command menu: blue now marks only the selected row, matched chara
+# Improved slash-command menu
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.227: Improved slash-command menu: blue now marks only the selected row, matched characters are bolded instead of recolored, and emoji or accented names keep their glyphs

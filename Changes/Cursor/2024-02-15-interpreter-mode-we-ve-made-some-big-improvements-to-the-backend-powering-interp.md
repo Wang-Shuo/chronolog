@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9804aef372eaf3c3d417ce1d963266364eb29bf69b600f693f10a57a9703f5d0
+machine_hash: 309be6412782d58d021aac75a66fc697827562cb29ae41ed6a7d82579f25d926
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
       interpreter mode! It should now be much better at using tools and understanding
       your project.'
     source_release: https://cursor.com/changelog/0-27-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -38,8 +38,7 @@ record:
   theme: agent-mode
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: 'Interpreter Mode: We''ve made some big improvements to the backend powering
-    inter'
+  title: 'Interpreter Mode: We''ve made some big improvements to the backend powering…'
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-02-15-0-27-x-https-cursor-com-changelog-0-27-x-29975100|cursor-2024-02-15-0-27-x-https-cursor-com-changelog-0-27-x-29975100]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: 'Interpreter Mode: We''ve made some big improvements to the backend powering
-  inter'
+title: 'Interpreter Mode: We''ve made some big improvements to the backend powering…'
 type: change
 ---
 
-# Interpreter Mode: We've made some big improvements to the backend powering inter
+# Interpreter Mode: We've made some big improvements to the backend powering…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Linter, Interpreter Mode Updates: Interpreter Mode: We've made some big improvements to the backend powering interpreter mode! It should now be much better at using tools and understanding your project.

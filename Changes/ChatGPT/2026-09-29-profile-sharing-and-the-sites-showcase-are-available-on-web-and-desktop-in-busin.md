@@ -11,9 +11,9 @@ diffusion:
   theme: enterprise-admin
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 769e194632b9c594fed705874aac9907a214a5235e6d921921fcad47e46ca22b
+machine_hash: b40b0c1f501fa1376f076e38d146b1b1688bd203aab70ee76489f0367839d65a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       In Business workspaces, administrators control whether coworkers can view workspace
       profiles. Enterprise access is coming later.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -51,8 +51,7 @@ record:
     score: 50
     theme: mobile-desktop
   theme_resolution: manual-semantic-rule-v1
-  title: Profile sharing and the Sites showcase are available on web and desktop.
-    In Busi
+  title: Profile sharing and the Sites showcase are available on web and desktop
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-09-02-team-pools-are-named-queues-of-workers-for-a-team-or-enterprise-capacity-can-gro|cursor-2026-09-02-4687fa]]'
@@ -61,12 +60,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-share-your-profile-and-showcase-your-sites-b1579ad3|chatgpt-2026-09-29-share-your-profile-and-showcase-your-sites-b1579ad3]]'
 source_type: chatgpt_changelog
 theme: enterprise-admin
-title: Profile sharing and the Sites showcase are available on web and desktop. In
-  Busi
+title: Profile sharing and the Sites showcase are available on web and desktop
 type: change
 ---
 
-# Profile sharing and the Sites showcase are available on web and desktop. In Busi
+# Profile sharing and the Sites showcase are available on web and desktop
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Share your profile and showcase your Sites: Profile sharing and the Sites showcase are available on web and desktop. In Business workspaces, administrators control whether coworkers can view workspace profiles. Enterprise access is coming later.

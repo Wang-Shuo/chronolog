@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a85fe617ba1a82936ef9720cdd99f2aa96f6767bce7e773782f92596b9127c39
+machine_hash: 2d82c2ad836e68117b2af1c8024505f6b1e0f7aacca38ae9bda5fd584a757dba
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       used for internal temp files, useful for environments with custom temp directory
       requirements
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.5
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -39,7 +39,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: Added `CLAUDE_CODE_TMPDIR` environment variable to override the temp directory
-    u
+    used…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-09-improved-slash-command-suggestion-readability-by-truncating-long-descriptions-to|claude-code-2026-01-09-4d3b66]]'
@@ -49,11 +49,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-01-12-v2-1-5-github-276
 source_type: github_releases
 theme: developer-workflow
 title: Added CLAUDE_CODE_TMPDIR environment variable to override the temp directory
-  u
+  used…
 type: change
 ---
 
-# Added `CLAUDE_CODE_TMPDIR` environment variable to override the temp directory u
+# Added `CLAUDE_CODE_TMPDIR` environment variable to override the temp directory used…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.5: Added `CLAUDE_CODE_TMPDIR` environment variable to override the temp directory used for internal temp files, useful for environments with custom temp directory requirements

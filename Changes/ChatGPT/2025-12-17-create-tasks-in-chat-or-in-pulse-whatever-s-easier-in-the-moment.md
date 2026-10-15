@@ -11,9 +11,9 @@ diffusion:
   theme: automation-scheduling
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 56c58a3046d64e23aa3c689c2e6a684732c67c480b96b5942629712ffe139f51
+machine_hash: 9323beb1558f362e12ef85b0266125aa5ee147a2ceec5c592679ebdb0ddc9aff
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Create tasks in chat or in Pulse—whatever’s easier in the moment.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -35,18 +35,18 @@ record:
   theme: automation-scheduling
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Create tasks in chat or in Pulse—whatever’s easier in the moment.
+  title: Create tasks in chat or in Pulse—whatever’s easier in the moment
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now|chatgpt-2025-12-17-d1d8fe]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-12-17-tasks-are-now-in-pulse-15c01c44|chatgpt-2025-12-17-tasks-are-now-in-pulse-15c01c44]]'
 source_type: chatgpt_changelog
 theme: automation-scheduling
-title: Create tasks in chat or in Pulse—whatever’s easier in the moment.
+title: Create tasks in chat or in Pulse—whatever’s easier in the moment
 type: change
 ---
 
-# Create tasks in chat or in Pulse—whatever’s easier in the moment.
+# Create tasks in chat or in Pulse—whatever’s easier in the moment
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Tasks are now in Pulse: Create tasks in chat or in Pulse—whatever’s easier in the moment.

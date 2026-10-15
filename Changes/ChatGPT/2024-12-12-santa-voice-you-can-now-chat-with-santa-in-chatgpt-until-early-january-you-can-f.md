@@ -11,9 +11,9 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: db96a30c9826763f7e4d4008ef28950c49303417a643fa8fdb07c1f2f5007353
+machine_hash: 789c3165fa7958ca6c4084cb137bd632889d6408750c69cf1e1818b87bad0c6c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       on a snowflake icon. We are rolling out Santa globally to all logged in users
       today, and you can chat with Santa everywhere you use voice mode.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -39,8 +39,7 @@ record:
   source_release: chatgpt-2024-12-12-santa-voice-and-video-and-screen-share-in-voice-chats-89eb483d
   source_type: chatgpt_changelog
   theme: voice
-  title: 'Santa voice: You can now chat with Santa in ChatGPT! Until early January,
-    you ca'
+  title: 'Santa voice: You can now chat with Santa in ChatGPT!'
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-11-21-chatgpt-with-voice-is-now-available-to-all-free-users-download-the-app-on-your-p|chatgpt-2023-11-21-13b864]]'
@@ -49,12 +48,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2024-12-12-santa-voice-and-video-and-screen-share-in-voice-chats-89eb483d|chatgpt-2024-12-12-santa-voice-and-video-and-screen-share-in-voice-chats-89eb483d]]'
 source_type: chatgpt_changelog
 theme: voice
-title: 'Santa voice: You can now chat with Santa in ChatGPT! Until early January,
-  you ca'
+title: 'Santa voice: You can now chat with Santa in ChatGPT!'
 type: change
 ---
 
-# Santa voice: You can now chat with Santa in ChatGPT! Until early January, you ca
+# Santa voice: You can now chat with Santa in ChatGPT!
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Santa Voice and Video and Screen Share in Voice Chats: Santa voice: You can now chat with Santa in ChatGPT! Until early January, you can find Santa in the list of available voices in settings or by tapping on a snowflake icon. We are rolling out Santa globally to all logged in users today, and you can chat with Santa everywhere you use voice mode.

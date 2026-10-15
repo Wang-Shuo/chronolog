@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2026-05-01'
-machine_hash: 3a80bf6522ad4b1cba69bc06ef17f8e5b7afd42c507b7a7d841bf1c592a92510
+machine_hash: 6f0b69bf611d177f90e0f9ec22c020eae771dd85b70b05f8b649939809733338
 product: cursor
 product_name: Cursor
 record:
@@ -40,8 +40,8 @@ Tracked cards: 5
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- apps-integrations: [[Changes/Cursor/2026-05-01-plugins-bundle-capabilities-like-mcp-servers-skills-subagents-rules-and-hooks-th|Plugins bundle capabilities like MCP servers, skills, subagents, rules, and hook]]
-- collaboration: [[Changes/Cursor/2026-05-01-admins-can-now-create-a-team-marketplace-without-connecting-a-repository-first-a|Admins can now create a team marketplace without connecting a repository first.]]
+- apps-integrations: [[Changes/Cursor/2026-05-01-plugins-bundle-capabilities-like-mcp-servers-skills-subagents-rules-and-hooks-th|Plugins bundle capabilities like MCP servers, skills, subagents, rules, and hooks…]]
+- collaboration: [[Changes/Cursor/2026-05-01-admins-can-now-create-a-team-marketplace-without-connecting-a-repository-first-a|Admins can now create a team marketplace without connecting a repository first]]
 - safety-privacy: [[Changes/Cursor/2026-05-01-default-off-users-can-discover-and-opt-in|Default Off: users can discover and opt in]]
 - apps-integrations: [[Changes/Cursor/2026-05-01-required-users-always-have-the-plugin-and-cannot-uninstall-it|Required: users always have the plugin and cannot uninstall it]]
 - apps-integrations: [[Changes/Cursor/2026-05-01-default-on-users-get-the-plugin-installed-by-default-but-can-opt-out|Default On: users get the plugin installed by default, but can opt out]]

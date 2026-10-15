@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 67b84737c72e0668c1c09daace7029c30123c9931a63016998aed6038792da2b
+machine_hash: 8e60e9fbbb8d1bec881382339db865052833d25f3060c9866782ffba84275e3e
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `refreshInterval` status line setting to re-run the status line command
       every N seconds
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.97
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,7 +35,7 @@ record:
   source_type: github_releases
   theme: interface-experience
   title: Added `refreshInterval` status line setting to re-run the status line command
-    ev
+    every…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-19-added-rate-limits-field-to-statusline-scripts-for-displaying-claude-ai-rate-limi|claude-code-2026-03-19-5110e3]]'
@@ -45,11 +45,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-04-08-v2-1-97-github-30
 source_type: github_releases
 theme: interface-experience
 title: Added refreshInterval status line setting to re-run the status line command
-  ev
+  every…
 type: change
 ---
 
-# Added `refreshInterval` status line setting to re-run the status line command ev
+# Added `refreshInterval` status line setting to re-run the status line command every…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.97: Added `refreshInterval` status line setting to re-run the status line command every N seconds

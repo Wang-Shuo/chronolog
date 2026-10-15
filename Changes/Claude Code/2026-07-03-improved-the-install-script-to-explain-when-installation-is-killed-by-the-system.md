@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ee1bcba44a13e937dbeb8b91c6d4b4fc4f986995b6c2c98204b207b3638002bc
+machine_hash: f12699d18504780c38964377cde767fe5dc211a87045af289c84b7f50b4d0b68
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Improved the install script to explain when installation is killed by the
       system running out of memory
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.200
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: Improved the install script to explain when installation is killed by the
-    system
+    system…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-20-the-stream-stall-hint-now-reads-waiting-for-api-response-will-retry-in-instead-o|claude-code-2026-06-20-ef4f72]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-03-v2-1-200-github-348415228-64d6d68d|claude-code-2026-07-03-v2-1-200-github-348415228-64d6d68d]]'
 source_type: github_releases
 theme: reliability-performance
-title: Improved the install script to explain when installation is killed by the system
+title: Improved the install script to explain when installation is killed by the system…
 type: change
 ---
 
-# Improved the install script to explain when installation is killed by the system
+# Improved the install script to explain when installation is killed by the system…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.200: Improved the install script to explain when installation is killed by the system running out of memory

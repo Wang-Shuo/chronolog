@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 28f7a640f21869cb40a8a38c578c198477b6dd48a87546377df40b8e44324bb0
+machine_hash: 6bca8bb97b6f4974baff75461dca8a2809c178fc0f9f400384168ccee746a6f3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
       is in alpha, requires opting in, and currently can only be used on the web at
       chatgpt.com. Learn more here.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -42,7 +42,7 @@ record:
   source_type: chatgpt_changelog
   theme: interface-experience
   title: If you've configured your browser to use one of these supported languages,
-    you'l
+    you'll…
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-08-21-nicer-error-messages-in-the-chat-fewer-annoying-popups|cursor-2023-08-21-703386]]'
@@ -52,11 +52,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2023-09-11-chatgpt-language-support-
 source_type: chatgpt_changelog
 theme: interface-experience
 title: If you've configured your browser to use one of these supported languages,
-  you'l
+  you'll…
 type: change
 ---
 
-# If you've configured your browser to use one of these supported languages, you'l
+# If you've configured your browser to use one of these supported languages, you'll…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT language support - Alpha on web: If you've configured your browser to use one of these supported languages, you'll see a banner in ChatGPT that enables you to switch your language settings. You can deactivate this option at any time through the settings menu.This feature is in alpha, requires opting in, and currently can only be used on the web at chatgpt.com. Learn more here.

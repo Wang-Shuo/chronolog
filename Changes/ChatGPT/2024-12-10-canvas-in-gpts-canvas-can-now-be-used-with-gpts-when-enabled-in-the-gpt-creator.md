@@ -11,9 +11,9 @@ diffusion:
   theme: file-data
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: fbaae076612699e54310ed60b0273d63b4a107e523f6ebf911c68d9227444ed7
+machine_hash: bf1afeededff7cde45786050d325ee73b900e568c5d25670f21f33c8939cbe70
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: 'Canvas in GPTs: Canvas can now be used with GPTs when enabled in the GPT
       creator. This toggle will be enabled for newly created GPTs by default.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT

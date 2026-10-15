@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a9f6aaa76e6fb3ec76bd25d48ca8c62e5822524ddca0b656a9ed1a9fbac589d7
+machine_hash: 6140ff46106321aa2af4f3f50109416db7741c06a4a6dabf4e70bbabd5eb8ed9
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
       can be helpful for clarifying the models thinking behind a diff or for getting
       quick inline answers to questions about a file.
     source_release: https://cursor.com/changelog/0-11-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -46,8 +46,7 @@ record:
     score: 50
     theme: model-support
   theme_resolution: manual-semantic-rule-v1
-  title: You can now alternate between diffs and texts responses in Cmd-K. This can
-    be he
+  title: Alternate between diffs and texts responses in Cmd-K
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-08-22-codeblocks-and-code-symbols-in-with-codebase-responses-will-now-often-be-clickab|cursor-2023-08-22-1000e7]]'
@@ -56,12 +55,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-09-19-0-11-0-https-cursor-com-changelog-0-11-0-93d42f83|cursor-2023-09-19-0-11-0-https-cursor-com-changelog-0-11-0-93d42f83]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: You can now alternate between diffs and texts responses in Cmd-K. This can
-  be he
+title: Alternate between diffs and texts responses in Cmd-K
 type: change
 ---
 
-# You can now alternate between diffs and texts responses in Cmd-K. This can be he
+# Alternate between diffs and texts responses in Cmd-K
 
 <!-- chronolog:begin region="description" -->
 Cursor — Inline Chat: You can now alternate between diffs and texts responses in Cmd-K. This can be helpful for clarifying the models thinking behind a diff or for getting quick inline answers to questions about a file.

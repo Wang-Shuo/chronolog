@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: dd5ea3772e96e62995aaf7e0232ee96992fbd66c1dbdd49ff9ea853fbae95181
+machine_hash: 0e33dd00d8263bfe71490a83959445944fd8d6f38d2c5b81586a2a38739b6c41
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       boot error when the database is unreachable to point to `store.postgres_url`
       and the configured timeout
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.274
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -39,7 +39,7 @@ record:
   source_type: github_releases
   theme: apps-integrations
   title: Added `store.connect_timeout_seconds` to the Claude apps gateway config to
-    lengt
+    lengthen…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-09-14-you-can-change-your-health-permissions-anytime-in-settings-plugins-health-learn|chatgpt-2026-09-14-d001f0]]'
@@ -48,11 +48,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-17-v2-1-274-github-390317660-0d9c7c5d|claude-code-2026-09-17-v2-1-274-github-390317660-0d9c7c5d]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added store.connect_timeout_seconds to the Claude apps gateway config to lengt
+title: Added store.connect_timeout_seconds to the Claude apps gateway config to lengthen…
 type: change
 ---
 
-# Added `store.connect_timeout_seconds` to the Claude apps gateway config to lengt
+# Added `store.connect_timeout_seconds` to the Claude apps gateway config to lengthen…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.274: Added `store.connect_timeout_seconds` to the Claude apps gateway config to lengthen the Postgres connect timeout (default 5 seconds), and improved the boot error when the database is unreachable to point to `store.postgres_url` and the configured timeout

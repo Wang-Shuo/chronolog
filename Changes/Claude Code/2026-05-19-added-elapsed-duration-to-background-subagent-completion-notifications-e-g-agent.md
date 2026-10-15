@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: af9ee4c8bc52de49b5e346fa65107a887c6258bf18300f6859ec2659b10d00ac
+machine_hash: d30f1bed192e975f2d2ed325b7ffffbc1cd828435b0b521924fad1a7c6658b09
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Added elapsed duration to background subagent completion notifications
       (e.g. "Agent completed · 3h 2m 5s")
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.144
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code
@@ -46,8 +46,7 @@ record:
     - completion
     score: 50
     theme: editor-experience
-  title: Added elapsed duration to background subagent completion notifications (e.g.
-    "Ag
+  title: Added elapsed duration to background subagent completion notifications…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-19-claude-agents-terminal-tab-title-now-shows-the-awaiting-input-count-so-an-alt-ta|claude-code-2026-05-19-2f1483]]'
@@ -56,12 +55,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-19-v2-1-144-github-324524751-1469637a|claude-code-2026-05-19-v2-1-144-github-324524751-1469637a]]'
 source_type: github_releases
 theme: agent-mode
-title: Added elapsed duration to background subagent completion notifications (e.g.
-  "Ag
+title: Added elapsed duration to background subagent completion notifications…
 type: change
 ---
 
-# Added elapsed duration to background subagent completion notifications (e.g. "Ag
+# Added elapsed duration to background subagent completion notifications…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.144: Added elapsed duration to background subagent completion notifications (e.g. "Agent completed · 3h 2m 5s")

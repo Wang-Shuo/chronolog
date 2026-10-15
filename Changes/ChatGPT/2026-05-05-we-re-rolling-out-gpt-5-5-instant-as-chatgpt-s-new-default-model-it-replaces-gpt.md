@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 74780eae9a2503876c22046d70522cedff651f8fb5e526bf12657076c983bded
+machine_hash: 7cbba51d7a65cbfebb50cad2a6dd8d7d45458cad5c4d6c16e386621b95c3d29a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,7 +51,7 @@ record:
       today to all ChatGPT users. Paid users can continue using GPT-5.3 Instant for
       three months through model configuration settings before it is retired.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -70,8 +70,7 @@ record:
     score: 50
     theme: context-window
   theme_resolution: manual-semantic-rule-v2
-  title: We’re rolling out GPT-5.5 Instant as ChatGPT’s new default model. It replaces
-    GP
+  title: ChatGPT rolls out GPT-5.5 Instant as ChatGPT’s new default model
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-01-the-model-picker-now-lists-models-from-your-gateway-s-v1-models-endpoint-when-an|claude-code-2026-05-01-f3cdd1]]'
@@ -80,12 +79,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-05-05-gpt-5-5-instant-in-chatgpt-6a2694d3|chatgpt-2026-05-05-gpt-5-5-instant-in-chatgpt-6a2694d3]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: We’re rolling out GPT-5.5 Instant as ChatGPT’s new default model. It replaces
-  GP
+title: ChatGPT rolls out GPT-5.5 Instant as ChatGPT’s new default model
 type: change
 ---
 
-# We’re rolling out GPT-5.5 Instant as ChatGPT’s new default model. It replaces GP
+# ChatGPT rolls out GPT-5.5 Instant as ChatGPT’s new default model
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — GPT-5.5 Instant in ChatGPT: We’re rolling out GPT-5.5 Instant as ChatGPT’s new default model. It replaces GPT-5.3 Instant for all ChatGPT users and improves everyday answers across accuracy, clarity and conciseness, image understanding, STEM questions, and when ChatGPT decides to search the web.GPT-5.5 Instant is more factually reliable, especially for prompts where accuracy matters most. It also gives tighter, more direct answers without losing useful details, asks fewer unnecessary follow-up questions, and reduces clutter like overformatting and gratuitous emojis.For Plus and Pro users using ChatGPT on web, GPT-5.5 Instant can more effectively use context from past chats, files, and Gmail, when connected, to make responses more relevant. This can help ChatGPT tailor suggestions, pick up ongoing work, and reduce the need to repeat context across conversations.GPT-5.5 Instant is rolling out starting today to all ChatGPT users. Paid users can continue using GPT-5.3 Instant for three months through model configuration settings before it is retired.

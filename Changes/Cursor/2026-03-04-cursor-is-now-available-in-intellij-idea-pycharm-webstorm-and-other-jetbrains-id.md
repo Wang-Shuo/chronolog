@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 8ffcb81180061cf8729b329b5cc4157da6f6b77a26635d13ab75e75c6ced7043
+machine_hash: e1bb4823d8df5d2b2f79d7482683c562b41a0a2446f7b72fafd064aaf1f00e3e
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
   - quote: Cursor is now available in IntelliJ IDEA, PyCharm, WebStorm, and other
       JetBrains IDEs through the Agent Client Protocol (ACP).
     source_release: https://cursor.com/changelog/03-04-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -37,7 +37,7 @@ record:
   source_release: cursor-2026-03-04-cursor-in-jetbrains-ides-https-cursor-com-changelog-03-04-26-59bae4c8
   source_type: cursor_changelog
   theme: agent-mode
-  title: Cursor is now available in IntelliJ IDEA, PyCharm, WebStorm, and other JetBrains
+  title: Cursor is now available in IntelliJ IDEA, PyCharm, WebStorm, and other JetBrains…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-02-26-autofix-runs-cloud-agents-on-their-own-machines-to-test-changes-and-propose-fixe|cursor-2026-02-26-ef0b88]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-03-04-cursor-in-jetbrains-ides-https-cursor-com-changelog-03-04-26-59bae4c8|cursor-2026-03-04-cursor-in-jetbrains-ides-https-cursor-com-changelog-03-04-26-59bae4c8]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: Cursor is now available in IntelliJ IDEA, PyCharm, WebStorm, and other JetBrains
+title: Cursor is now available in IntelliJ IDEA, PyCharm, WebStorm, and other JetBrains…
 type: change
 ---
 
-# Cursor is now available in IntelliJ IDEA, PyCharm, WebStorm, and other JetBrains
+# Cursor is now available in IntelliJ IDEA, PyCharm, WebStorm, and other JetBrains…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cursor in JetBrains IDEs: Cursor is now available in IntelliJ IDEA, PyCharm, WebStorm, and other JetBrains IDEs through the Agent Client Protocol (ACP).

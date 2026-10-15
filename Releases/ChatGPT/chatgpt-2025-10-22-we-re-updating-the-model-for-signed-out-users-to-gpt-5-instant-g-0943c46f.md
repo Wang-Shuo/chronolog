@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-10-22'
-machine_hash: 108a8e5a94d88626fd7b40449182d7b6a8332af2cc983fd9fb656181157a5210
+machine_hash: 4d01a9e9eac38707096f8349a891dcf62f06ad58c7d8b06b05dcbd9b13378f25
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,5 +45,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2025-10-22-we-re-updating-the-model-for-signed-out-users-to-gpt-5-instant-giving-more-peopl|We’re updating the model for signed-out users to GPT-5 Instant, giving more peop]]
+- model-support: [[Changes/ChatGPT/2025-10-22-we-re-updating-the-model-for-signed-out-users-to-gpt-5-instant-giving-more-peopl|We’re updating the model for signed-out users to GPT-5 Instant, giving more people…]]
 <!-- chronolog:end -->

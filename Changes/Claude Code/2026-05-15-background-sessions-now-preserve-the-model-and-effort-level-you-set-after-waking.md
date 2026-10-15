@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 559b6dfd4e4ee38625cbb917fc797014dad689138114de89273df5592b306cc8
+machine_hash: a4329c7bc5e816288f9b5dd83ff3dca92ee4a03c7f0e367c10b9d3d6845667c5
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Background sessions now preserve the model and effort level you set after
       waking from idle
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.143
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   source_type: github_releases
   theme: model-support
   title: Background sessions now preserve the model and effort level you set after
-    waking
+    waking from idle
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-11-high-bugbot-spends-more-time-reasoning-reviews-are-more-expensive-and-take-longe|cursor-2026-05-11-5baefc]]'
@@ -47,10 +47,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-05-15-v2-1-143-github-3
 source_type: github_releases
 theme: model-support
 title: Background sessions now preserve the model and effort level you set after waking
+  from idle
 type: change
 ---
 
-# Background sessions now preserve the model and effort level you set after waking
+# Background sessions now preserve the model and effort level you set after waking from idle
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.143: Background sessions now preserve the model and effort level you set after waking from idle

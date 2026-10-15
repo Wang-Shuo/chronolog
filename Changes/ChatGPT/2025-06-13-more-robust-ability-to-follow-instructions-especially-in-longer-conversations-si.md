@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a73837324597b0a25f75c8b3b8e5327c4fb812062d5b6e5afb5a7d4f41b438e8
+machine_hash: bd59a5a3a1b6f1da2c8e6c8c3ad4b3de414a1a26b3d78a089cae72df4ead5872
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: More robust ability to follow instructions, especially in longer conversations,
       significantly reducing repetitive responses.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -37,7 +37,7 @@ record:
   theme: reliability-performance
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: More robust ability to follow instructions, especially in longer conversations,
+  title: More robust ability to follow instructions, especially in longer conversations…
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-03-11-0-47-6-faster-applies-warns-user-when-edits-fails-because-of-cursorignore|cursor-2025-03-11-e25337]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-13-improvements-to-the-chatgpt-search-response-quality-2791e464|chatgpt-2025-06-13-improvements-to-the-chatgpt-search-response-quality-2791e464]]'
 source_type: chatgpt_changelog
 theme: reliability-performance
-title: More robust ability to follow instructions, especially in longer conversations,
+title: More robust ability to follow instructions, especially in longer conversations…
 type: change
 ---
 
-# More robust ability to follow instructions, especially in longer conversations,
+# More robust ability to follow instructions, especially in longer conversations…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Improvements to the ChatGPT search response quality: More robust ability to follow instructions, especially in longer conversations, significantly reducing repetitive responses.

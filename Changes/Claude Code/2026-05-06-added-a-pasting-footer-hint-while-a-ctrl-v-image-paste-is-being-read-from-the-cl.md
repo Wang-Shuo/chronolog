@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: bdbadcf1ca331111808632dbf7f512a14cb118c09a366d28b90e9cea514b83ab
+machine_hash: 1e4fd770b4e53056f94b620b70b22a7f5426781a3b07959d4a285b5aae69f282
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added a "Pasting…" footer hint while a Ctrl+V image paste is being read
       from the clipboard
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.132
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: Added a "Pasting…" footer hint while a Ctrl+V image paste is being read from
-    the
+    the clipboard
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-04-bare-color-no-args-now-picks-a-random-session-color|claude-code-2026-05-04-7e0d02]]'
@@ -47,11 +47,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-05-06-v2-1-132-github-3
 source_type: github_releases
 theme: interface-experience
 title: Added a "Pasting…" footer hint while a Ctrl+V image paste is being read from
-  the
+  the clipboard
 type: change
 ---
 
-# Added a "Pasting…" footer hint while a Ctrl+V image paste is being read from the
+# Added a "Pasting…" footer hint while a Ctrl+V image paste is being read from the clipboard
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.132: Added a "Pasting…" footer hint while a Ctrl+V image paste is being read from the clipboard

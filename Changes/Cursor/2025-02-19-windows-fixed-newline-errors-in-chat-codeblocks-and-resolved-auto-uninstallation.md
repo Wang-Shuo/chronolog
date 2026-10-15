@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: fb4f49b13b30de358d7803c5aeb1ad9762ceeec1aae221fdc8008ef359d9b984
+machine_hash: 20a34dfee9dc8617b0aa4e0a09c9f839d2be84d3ac367f28bd3f84398bdba1dd
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: 'Windows: Fixed newline errors in Chat Codeblocks and resolved auto-uninstallation
       issues.'
     source_release: https://cursor.com/changelog/0-46-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -36,7 +36,8 @@ record:
   theme: developer-workflow
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: 'Windows: Fixed newline errors in Chat Codeblocks and resolved auto-uninstallatio'
+  title: 'Windows: Fixed newline errors in Chat Codeblocks and resolved auto-uninstallation
+    issues'
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-12-17-agent-reads-linter-errors-to-automatically-fix-issues|cursor-2024-12-17-210a55]]'
@@ -45,11 +46,12 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10|cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10]]'
 source_type: cursor_changelog
 theme: developer-workflow
-title: 'Windows: Fixed newline errors in Chat Codeblocks and resolved auto-uninstallatio'
+title: 'Windows: Fixed newline errors in Chat Codeblocks and resolved auto-uninstallation
+  issues'
 type: change
 ---
 
-# Windows: Fixed newline errors in Chat Codeblocks and resolved auto-uninstallatio
+# Windows: Fixed newline errors in Chat Codeblocks and resolved auto-uninstallation issues
 
 <!-- chronolog:begin region="description" -->
 Cursor — Agent is ready and UI refresh: Windows: Fixed newline errors in Chat Codeblocks and resolved auto-uninstallation issues.

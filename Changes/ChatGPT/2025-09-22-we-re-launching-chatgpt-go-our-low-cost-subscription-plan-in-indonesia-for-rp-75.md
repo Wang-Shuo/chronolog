@@ -11,9 +11,9 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 96d0e0a80eacada297fcfde5d40f147aedf6ff8e035bf3657efc7e99abe4da42
+machine_hash: 7c87bf3c96c0a5444441f7c1b5f72ceff0a3e8c69b3edec33b520f7dcdf0c5ae
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: 'We''re launching ChatGPT Go, our low cost subscription plan, in Indonesia.For
       Rp 75.000/month, ChatGPT Go provides everything included in the Free plan, and:'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -35,8 +35,7 @@ record:
   source_release: chatgpt-2025-09-22-chatgpt-go-now-available-in-indonesia-27c365a7
   source_type: chatgpt_changelog
   theme: pricing-model
-  title: We're launching ChatGPT Go, our low cost subscription plan, in Indonesia.For
-    Rp
+  title: ChatGPT launches ChatGPT Go, our low cost subscription plan, in Indonesia
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-05-15-introducing-unified-request-based-pricing-max-mode-for-all-top-models-and-backgr|cursor-2025-05-15-fc2353]]'
@@ -45,12 +44,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-22-chatgpt-go-now-available-in-indonesia-27c365a7|chatgpt-2025-09-22-chatgpt-go-now-available-in-indonesia-27c365a7]]'
 source_type: chatgpt_changelog
 theme: pricing-model
-title: We're launching ChatGPT Go, our low cost subscription plan, in Indonesia.For
-  Rp
+title: ChatGPT launches ChatGPT Go, our low cost subscription plan, in Indonesia
 type: change
 ---
 
-# We're launching ChatGPT Go, our low cost subscription plan, in Indonesia.For Rp
+# ChatGPT launches ChatGPT Go, our low cost subscription plan, in Indonesia
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT Go now available in Indonesia: We're launching ChatGPT Go, our low cost subscription plan, in Indonesia.For Rp 75.000/month, ChatGPT Go provides everything included in the Free plan, and:

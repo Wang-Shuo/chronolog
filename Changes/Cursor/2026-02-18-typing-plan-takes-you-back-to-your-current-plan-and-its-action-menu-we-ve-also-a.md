@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: dfd6d319410746b7f63678e7f6027fdfd3c90c9892b376eb4304f3bb8dd625f5
+machine_hash: 7f5952e67d0ac3294c495b4fbc9a7273f91fecda27205cd83ccec98c30cecb26
 product: cursor
 product_name: Cursor
 record:
@@ -30,7 +30,7 @@ record:
       navigate options, Enter to execute the selected option, and Shift+Enter as a
       shortcut for "Build in cloud."
     source_release: https://cursor.com/changelog/cli-feb-18-2026
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -38,8 +38,7 @@ record:
   source_release: cursor-2026-02-18-cli-improvements-and-mermaid-ascii-diagrams-https-cursor-com-cha-a75d36c7
   source_type: cursor_changelog
   theme: interface-experience
-  title: Typing /plan takes you back to your current plan and its action menu. We've
-    also
+  title: Typing /plan takes you back to your current plan and its action menu
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-02-13-simplified-composer-the-message-composer-has-been-streamlined-to-reduce-visual-c|chatgpt-2026-02-13-3a2b87]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-02-18-cli-improvements-and-mermaid-ascii-diagrams-https-cursor-com-cha-a75d36c7|cursor-2026-02-18-cli-improvements-and-mermaid-ascii-diagrams-https-cursor-com-cha-a75d36c7]]'
 source_type: cursor_changelog
 theme: interface-experience
-title: Typing /plan takes you back to your current plan and its action menu. We've
-  also
+title: Typing /plan takes you back to your current plan and its action menu
 type: change
 ---
 
-# Typing /plan takes you back to your current plan and its action menu. We've also
+# Typing /plan takes you back to your current plan and its action menu
 
 <!-- chronolog:begin region="description" -->
 Cursor — CLI Improvements and Mermaid ASCII Diagrams: Typing /plan takes you back to your current plan and its action menu. We've also added keyboard shortcuts in the prompt bar so you can use arrow keys to navigate options, Enter to execute the selected option, and Shift+Enter as a shortcut for "Build in cloud."

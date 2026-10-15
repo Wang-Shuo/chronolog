@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9b0632c79973cf33e0fc195743941dbcee973ac1e538eefb52cf7a42a7839698
+machine_hash: b8a81d809fe9fec1430df767bb3b5b830182d3aa2f9e376bca0f3fd4f2d8ed75
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Bugbot can automatically fix issues it finds in pull requests.
     source_release: https://cursor.com/changelog/02-26-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,7 +35,7 @@ record:
   theme: developer-workflow
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Bugbot can automatically fix issues it finds in pull requests.
+  title: Bugbot can automatically fix issues it finds in pull requests
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-24-bashtool-now-skips-login-shell-l-flag-by-default-when-a-shell-snapshot-is-availa|claude-code-2026-02-24-30f423]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-02-26-bugbot-autofix-https-cursor-com-changelog-02-26-26-22c9cc48|cursor-2026-02-26-bugbot-autofix-https-cursor-com-changelog-02-26-26-22c9cc48]]'
 source_type: cursor_changelog
 theme: developer-workflow
-title: Bugbot can automatically fix issues it finds in pull requests.
+title: Bugbot can automatically fix issues it finds in pull requests
 type: change
 ---
 
-# Bugbot can automatically fix issues it finds in pull requests.
+# Bugbot can automatically fix issues it finds in pull requests
 
 <!-- chronolog:begin region="description" -->
 Cursor — Bugbot Autofix: Bugbot can automatically fix issues it finds in pull requests.

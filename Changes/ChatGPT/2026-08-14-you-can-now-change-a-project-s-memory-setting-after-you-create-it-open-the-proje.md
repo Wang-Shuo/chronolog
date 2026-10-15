@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0c7096a320daedab0c480e9ac1f39ee84f33d881445c8f4b38d510b253cad4d7
+machine_hash: 80b7bdd81c2b5880d798cac89878a7fd302b7f7b75d250f8a769885190304fb1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       the project, select the three-dot menu, choose Project settings, and select
       Default memory or Project-only memory under Memory.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -46,8 +46,7 @@ record:
     - menu
     score: 50
     theme: interface-experience
-  title: You can now change a project’s memory setting after you create it. Open the
-    proj
+  title: Change a project’s memory setting after you create it
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-08-14-we-ve-made-it-easier-to-study-with-interactive-quizzes-manage-project-memory-and|chatgpt-2026-08-14-3323d0]]'
@@ -56,12 +55,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-14-edit-memory-settings-for-existing-projects-db366858|chatgpt-2026-08-14-edit-memory-settings-for-existing-projects-db366858]]'
 source_type: chatgpt_changelog
 theme: memory
-title: You can now change a project’s memory setting after you create it. Open the
-  proj
+title: Change a project’s memory setting after you create it
 type: change
 ---
 
-# You can now change a project’s memory setting after you create it. Open the proj
+# Change a project’s memory setting after you create it
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Edit memory settings for existing projects: You can now change a project’s memory setting after you create it. Open the project, select the three-dot menu, choose Project settings, and select Default memory or Project-only memory under Memory.

@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a974717f66c4f95b0592e27147aaf5afd763a827b1ebe56cb7d8031e61bd90a2
+machine_hash: dd2b171ede80c0fdb64b448ab3552f54413f2c37ea381f3812b705ac7e3e8913
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Remote Control now shows as a persistent footer pill (with a link to the
       session) instead of a startup message
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.162
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: Remote Control now shows as a persistent footer pill (with a link to the
-    session
+    session)…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-29-plugins-in-claude-skills-directories-are-now-automatically-loaded-no-marketplace|claude-code-2026-05-29-84ef75]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-03-v2-1-162-github-333906405-cdc7c67c|claude-code-2026-06-03-v2-1-162-github-333906405-cdc7c67c]]'
 source_type: github_releases
 theme: apps-integrations
-title: Remote Control now shows as a persistent footer pill (with a link to the session
+title: Remote Control now shows as a persistent footer pill (with a link to the session)…
 type: change
 ---
 
-# Remote Control now shows as a persistent footer pill (with a link to the session
+# Remote Control now shows as a persistent footer pill (with a link to the session)…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.162: Remote Control now shows as a persistent footer pill (with a link to the session) instead of a startup message

@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: b7be26099d6ee4726ac481d067cd77d10d2e84ab543adf6a7ae463d51620a1c7
+machine_hash: f9eec2a231f28e6c262f143909ea1ca31e9aea96a8999f17d76ba84fa334fe7a
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: GPT-4 support
     source_release: https://cursor.com/changelog/0-2-3
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor

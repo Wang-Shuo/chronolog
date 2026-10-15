@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9826a6ec245ed2e80686ce64fce3bc12a257e8826ba6d00a8edbff421997fcda
+machine_hash: bb173855f541b2eb316dce1997f2384938d34c413568485b502a3e9df9fbe834
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `sandbox.allowAppleEvents` opt-in setting that lets sandboxed commands
       send Apple Events on macOS
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.181
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: Added `sandbox.allowAppleEvents` opt-in setting that lets sandboxed commands
-    sen
+    send…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-10-fixed-webfetch-domain-example-com-wildcard-domain-rules-never-matching-subdomain|claude-code-2026-06-10-c26bef]]'
@@ -47,11 +47,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-06-17-v2-1-181-github-3
 source_type: github_releases
 theme: safety-privacy
 title: Added sandbox.allowAppleEvents opt-in setting that lets sandboxed commands
-  sen
+  send…
 type: change
 ---
 
-# Added `sandbox.allowAppleEvents` opt-in setting that lets sandboxed commands sen
+# Added `sandbox.allowAppleEvents` opt-in setting that lets sandboxed commands send…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.181: Added `sandbox.allowAppleEvents` opt-in setting that lets sandboxed commands send Apple Events on macOS

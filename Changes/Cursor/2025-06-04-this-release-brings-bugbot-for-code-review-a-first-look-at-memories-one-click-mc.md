@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: d07a7200399e7a1de1100c72709ea62a674e48340421de196b2295827ef20338
+machine_hash: c77dc0ba84d880eff8ff1c810e840b77e2064ff15eba3fc31aeb506679a47d0f
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
   - quote: This release brings Bugbot for code review, a first look at memories, one-click
       MCP setup, Jupyter support, and general availability of Background Agent.
     source_release: https://cursor.com/changelog/1-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -55,7 +55,8 @@ record:
     - memories
     score: 50
     theme: memory
-  title: This release brings Bugbot for code review, a first look at memories, one-click
+  title: Cursor brings Bugbot for code review, a first look at memories, one-click
+    MCP setup…
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-04-15-reviewing-agent-generated-code-is-now-easier-with-a-built-in-diff-view-at-the-en|cursor-2025-04-15-1a9804]]'
@@ -64,11 +65,12 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca|cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: This release brings Bugbot for code review, a first look at memories, one-click
+title: Cursor brings Bugbot for code review, a first look at memories, one-click MCP
+  setup…
 type: change
 ---
 
-# This release brings Bugbot for code review, a first look at memories, one-click
+# Cursor brings Bugbot for code review, a first look at memories, one-click MCP setup…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Bugbot, Background Agent access to everyone, and one-click MCP install: This release brings Bugbot for code review, a first look at memories, one-click MCP setup, Jupyter support, and general availability of Background Agent.

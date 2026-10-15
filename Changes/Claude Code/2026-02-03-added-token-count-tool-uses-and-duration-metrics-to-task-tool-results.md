@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 47dc6ffb2c8bab170ab51c49f2acfb939418fd8f4f29896fdf0dfe7f43819f10
+machine_hash: e4132536706d7c377a5117cfcf17684d84d71f77a8bd3a7e33702088a75650ea
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Added token count, tool uses, and duration metrics to Task tool results
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.30
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

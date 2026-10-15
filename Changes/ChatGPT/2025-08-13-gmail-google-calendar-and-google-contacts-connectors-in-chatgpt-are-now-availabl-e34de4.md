@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: fd6d986b958675885ac07c1d6025fe3289662a2ba47914d8c8f2a0f43a33e697
+machine_hash: bf83ef801fc8d49f40ed8a281b98095f3761b0358f327be826a2419d7d64bbaf
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       today.This was previously made available to Pro users on August 12, 2025.Learn
       more about connectors.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -40,7 +40,7 @@ record:
   source_type: chatgpt_changelog
   theme: apps-integrations
   title: Gmail, Google Calendar, and Google Contacts Connectors in ChatGPT are now
-    availa
+    available…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-06-24-pro-users-are-now-able-to-use-chat-search-connectors-in-addition-to-deep-researc-9d5a85|chatgpt-2025-06-24-9d5a85]]'
@@ -49,11 +49,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-13-gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-14e603bd|chatgpt-2025-08-13-gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-14e603bd]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
-title: Gmail, Google Calendar, and Google Contacts Connectors in ChatGPT are now availa
+title: Gmail, Google Calendar, and Google Contacts Connectors in ChatGPT are now available…
 type: change
 ---
 
-# Gmail, Google Calendar, and Google Contacts Connectors in ChatGPT are now availa
+# Gmail, Google Calendar, and Google Contacts Connectors in ChatGPT are now available…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Gmail, Google Calendar, and Google Contacts Connectors in ChatGPT (Plus): Gmail, Google Calendar, and Google Contacts Connectors in ChatGPT are now available to Plus users globally. Access will be granted to users throughout today.This was previously made available to Pro users on August 12, 2025.Learn more about connectors.

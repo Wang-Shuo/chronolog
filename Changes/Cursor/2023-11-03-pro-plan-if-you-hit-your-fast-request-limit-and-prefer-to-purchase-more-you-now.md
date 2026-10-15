@@ -11,9 +11,9 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: cc4b6b4ae4839bc1112de83048fa8fe4fa41db0a18041908028452d7893183de
+machine_hash: 5649ff62e57293af6fc4d4c9a7eccc32037bc19e1d221fc4ccf69aaff2a163d8
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: 'Pro++ plan: if you hit your fast request limit and prefer to purchase
       more, you now can.'
     source_release: https://cursor.com/changelog/0-14-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: 'Pro++ plan: if you hit your fast request limit and prefer to purchase more,
-    you'
+    you now can'
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-02-13-we-rolled-out-the-ability-to-purchase-chatgpt-plus-internationally|chatgpt-2023-02-13-d327ff]]'
@@ -47,11 +47,11 @@ source_release: '[[Releases/Cursor/cursor-2023-11-03-0-14-0-https-cursor-com-cha
 source_type: cursor_changelog
 theme: pricing-model
 title: 'Pro++ plan: if you hit your fast request limit and prefer to purchase more,
-  you'
+  you now can'
 type: change
 ---
 
-# Pro++ plan: if you hit your fast request limit and prefer to purchase more, you
+# Pro++ plan: if you hit your fast request limit and prefer to purchase more, you now can
 
 <!-- chronolog:begin region="description" -->
 Cursor — Pro++, Word-wrapping diffs, and more: Pro++ plan: if you hit your fast request limit and prefer to purchase more, you now can.

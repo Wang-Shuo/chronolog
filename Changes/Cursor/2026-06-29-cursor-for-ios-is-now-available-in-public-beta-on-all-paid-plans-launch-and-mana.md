@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4d3fd29d06be43ca5d85a4fb55730d476daa8a144cf72179974c79be93ff5c92
+machine_hash: 77a9bcfa32ecd4c7636dcf663e5ecc3c4ab035ef7d436f92d5326daabe84138b
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Cursor for iOS is now available in public beta on all paid plans. Launch
       and manage always-on agents from anywhere.
     source_release: https://cursor.com/changelog/ios-mobile-app
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -44,8 +44,7 @@ record:
     score: 50
     theme: mobile-desktop
   theme_resolution: manual-semantic-rule-v1
-  title: Cursor for iOS is now available in public beta on all paid plans. Launch
-    and man
+  title: Cursor for iOS is now available in public beta on all paid plans
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-06-17-this-release-introduces-updates-to-cloud-agents-in-the-agents-window-of-the-curs|cursor-2026-06-17-eb2180]]'
@@ -54,12 +53,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-06-29-3-9-https-cursor-com-changelog-ios-mobile-app-d7278607|cursor-2026-06-29-3-9-https-cursor-com-changelog-ios-mobile-app-d7278607]]'
 source_type: cursor_changelog
 theme: mobile-desktop
-title: Cursor for iOS is now available in public beta on all paid plans. Launch and
-  man
+title: Cursor for iOS is now available in public beta on all paid plans
 type: change
 ---
 
-# Cursor for iOS is now available in public beta on all paid plans. Launch and man
+# Cursor for iOS is now available in public beta on all paid plans
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cursor Mobile App for iOS: Cursor for iOS is now available in public beta on all paid plans. Launch and manage always-on agents from anywhere.

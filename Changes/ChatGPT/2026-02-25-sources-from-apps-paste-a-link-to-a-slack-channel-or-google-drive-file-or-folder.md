@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: aef4997048c08e986dcfdaee1960d5a321146b2319bd0978d869b0c6921bcc7c
+machine_hash: 05c069fba50a7986ee412d14ba0ecc10533a25309b705cc878a2a3f8208e9b7b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
       or folder to add it directly as a project source.Additionally, use connected
       apps directly in chats.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -36,8 +36,7 @@ record:
   source_release: chatgpt-2026-02-25-add-sources-to-your-projects-from-anywhere-83407292
   source_type: chatgpt_changelog
   theme: apps-integrations
-  title: 'Sources from apps: Paste a link to a Slack channel or Google Drive file
-    or folde'
+  title: Sources from apps
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-24-added-support-for-custom-npm-registries-and-specific-version-pinning-when-instal|claude-code-2026-02-24-9b2df2]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-25-add-sources-to-your-projects-from-anywhere-83407292|chatgpt-2026-02-25-add-sources-to-your-projects-from-anywhere-83407292]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
-title: 'Sources from apps: Paste a link to a Slack channel or Google Drive file or
-  folde'
+title: Sources from apps
 type: change
 ---
 
-# Sources from apps: Paste a link to a Slack channel or Google Drive file or folde
+# Sources from apps
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Add sources to your projects from anywhere: Sources from apps: Paste a link to a Slack channel or Google Drive file or folder to add it directly as a project source.Additionally, use connected apps directly in chats.

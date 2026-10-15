@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: aa2892636000164279e41e24bcc3dc0e9301d757b09dd723d91bf1e8edae0948
+machine_hash: 5edb354406d6c110cc39cd92df6d68ce039082fe4c79c9ef671b57c3f0182e8e
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Active Tab in Chat
     source_release: https://cursor.com/changelog/1-3
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

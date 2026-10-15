@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 9e2431f55b4110aedef32186195706092d83ec5c0243064a8f3ef5fd7427e7ae
+machine_hash: 25eda4cba4072570000ff52a377760a72f89654facce1148d0cb8e76b7d9cdb9
 product: cursor
 product_name: Cursor
 record:
@@ -32,7 +32,7 @@ record:
       and wakes when something happens. Subscriptions are available for cloud agents
       only, for now.
     source_release: https://cursor.com/changelog/08-19-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -50,8 +50,7 @@ record:
     - scheduled tasks
     score: 60
     theme: automation-scheduling
-  title: Cursor can now monitor your PRs, watch a Slack thread, or run scheduled tasks.
-    C
+  title: Cursor can now monitor your PRs, watch a Slack thread, or run scheduled tasks
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-19-improved-auto-mode-monitor-allow-rules-are-now-set-aside-while-auto-mode-is-acti|claude-code-2026-08-19-a14b9f]]'
@@ -60,12 +59,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-08-19-cloud-agents-and-cursor-harness-improvements-https-cursor-com-ch-a4daf0c1|cursor-2026-08-19-cloud-agents-and-cursor-harness-improvements-https-cursor-com-ch-a4daf0c1]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: Cursor can now monitor your PRs, watch a Slack thread, or run scheduled tasks.
-  C
+title: Cursor can now monitor your PRs, watch a Slack thread, or run scheduled tasks
 type: change
 ---
 
-# Cursor can now monitor your PRs, watch a Slack thread, or run scheduled tasks. C
+# Cursor can now monitor your PRs, watch a Slack thread, or run scheduled tasks
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cloud Agents and Cursor Harness Improvements: Cursor can now monitor your PRs, watch a Slack thread, or run scheduled tasks. Cursor Agent subscribes to an event source (a thread or conversation) and wakes when something happens. Subscriptions are available for cloud agents only, for now.

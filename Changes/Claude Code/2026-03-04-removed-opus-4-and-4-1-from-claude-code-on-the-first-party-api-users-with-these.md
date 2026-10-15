@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e392d8564de104d2331aa79e60a1f6216eef13752ec3dce9c996b874281c214d
+machine_hash: 88b711475082503484614a91d846d4ed04f945032dc29c23263bd86919761bf4
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Removed Opus 4 and 4.1 from Claude Code on the first-party API — users
       with these models pinned are automatically moved to Opus 4.6
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.68
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,8 +37,7 @@ record:
   theme: model-support
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: Removed Opus 4 and 4.1 from Claude Code on the first-party API — users with
-    thes
+  title: Removed Opus 4 and 4.1 from Claude Code on the first-party API
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-17-added-support-for-claude-sonnet-4-6|claude-code-2026-02-17-2a1b86]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-04-v2-1-68-github-292908895-c7aaa3de|claude-code-2026-03-04-v2-1-68-github-292908895-c7aaa3de]]'
 source_type: github_releases
 theme: model-support
-title: Removed Opus 4 and 4.1 from Claude Code on the first-party API — users with
-  thes
+title: Removed Opus 4 and 4.1 from Claude Code on the first-party API
 type: change
 ---
 
-# Removed Opus 4 and 4.1 from Claude Code on the first-party API — users with thes
+# Removed Opus 4 and 4.1 from Claude Code on the first-party API
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.68: Removed Opus 4 and 4.1 from Claude Code on the first-party API — users with these models pinned are automatically moved to Opus 4.6

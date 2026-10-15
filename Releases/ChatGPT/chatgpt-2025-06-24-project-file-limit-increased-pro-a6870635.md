@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-06-24'
-machine_hash: af0a4d61a0923e5a33feb7f07a4e7fc2a355eb2f03efd47e5cafeedfddff79f7
+machine_hash: 0b9e2c2bd9ed870ac01f61aebafc6b9a22b82dc81f34af93d20d537e39a274f0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,5 +39,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- file-data: [[Changes/ChatGPT/2025-06-24-projects-can-now-support-40-uploaded-files-up-from-20-for-pro-users|Projects can now support 40 uploaded files, up from 20, for Pro users.]]
+- file-data: [[Changes/ChatGPT/2025-06-24-projects-can-now-support-40-uploaded-files-up-from-20-for-pro-users|Projects can now support 40 uploaded files, up from 20, for Pro users]]
 <!-- chronolog:end -->

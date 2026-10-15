@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f1fce9a1c70f5505a9cbc00f21cd6c608a34514548ffed92e58808cdd1e95c48
+machine_hash: 3f709e99cac35508b97f39b71c993287ba5f0289a6a2e1e301d27c36597cdf85
 product: claude-code
 product_name: Claude Code
 record:
@@ -24,7 +24,7 @@ record:
   evidence:
   - quote: Expand Remote Control to more users
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.58
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

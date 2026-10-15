@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f354b1c267b012399b5c9ef5c78d84dfa17e1e0c97cdf26667e87d2560af945e
+machine_hash: ef5503d9e9a786ba08b0c0c74577746cfa3c69f2f661c50d13cbc704886698b2
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Fixed syntax-highlighted code in permission prompts and messages sometimes
       omitting a character after a Ruby `?`, Erlang `$`, or Perl `$` sigil
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.265
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,7 +38,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: Fixed syntax-highlighted code in permission prompts and messages sometimes
-    omitt
+    omitting…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-02-fixed-concurrent-sessions-silently-reverting-each-other-s-claude-json-changes-wo|claude-code-2026-09-02-0e0873]]'
@@ -48,11 +48,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-09-08-v2-1-265-github-3
 source_type: github_releases
 theme: safety-privacy
 title: Fixed syntax-highlighted code in permission prompts and messages sometimes
-  omitt
+  omitting…
 type: change
 ---
 
-# Fixed syntax-highlighted code in permission prompts and messages sometimes omitt
+# Fixed syntax-highlighted code in permission prompts and messages sometimes omitting…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.265: Fixed syntax-highlighted code in permission prompts and messages sometimes omitting a character after a Ruby `?`, Erlang `$`, or Perl `$` sigil

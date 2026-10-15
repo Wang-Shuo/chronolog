@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 77ad511157fc05b8fb0a6958ec8ed5f1c33f9f94173bd241c10e38a454132af7
+machine_hash: 02341e2907c86c8ab47da6d84c8352f1c358a7c7b510549553b38be2866de8fe
 product: cursor
 product_name: Cursor
 record:
@@ -31,7 +31,7 @@ record:
       The start command still runs when you first prompt an agent and should focus
       on services that need to be fresh in the session.
     source_release: https://cursor.com/changelog/08-13-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -39,8 +39,7 @@ record:
   source_release: cursor-2026-08-13-cloud-agents-start-3x-faster-with-builds-https-cursor-com-change-f8f503a3
   source_type: cursor_changelog
   theme: agent-mode
-  title: Use your install command for anything that can be prepared ahead of time.
-    The st
+  title: Use your install command for anything that can be prepared ahead of time
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-08-13-cursor-runs-a-new-build-of-your-environment-regularly-when-a-build-succeeds-it-b|cursor-2026-08-13-639f2f]]'
@@ -49,12 +48,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-08-13-cloud-agents-start-3x-faster-with-builds-https-cursor-com-change-f8f503a3|cursor-2026-08-13-cloud-agents-start-3x-faster-with-builds-https-cursor-com-change-f8f503a3]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: Use your install command for anything that can be prepared ahead of time. The
-  st
+title: Use your install command for anything that can be prepared ahead of time
 type: change
 ---
 
-# Use your install command for anything that can be prepared ahead of time. The st
+# Use your install command for anything that can be prepared ahead of time
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cloud Agents Start 3x Faster with Builds: Use your install command for anything that can be prepared ahead of time. The start command still runs when you first prompt an agent and should focus on services that need to be fresh in the session.

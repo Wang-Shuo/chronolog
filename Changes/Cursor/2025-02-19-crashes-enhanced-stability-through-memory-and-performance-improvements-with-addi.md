@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6d049bddc13c6bc30141cb00bd934bb5471a56c8c43970336748afe7f1d3d52f
+machine_hash: 77599a488bd155c04d4f861c98f16e081dda9f2f6ebfba4f48516a54736a0104
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: 'Crashes: Enhanced stability through memory and performance improvements,
       with additional crash prevention systems in place.'
     source_release: https://cursor.com/changelog/0-46-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -46,8 +46,7 @@ record:
     score: 100
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v1
-  title: 'Crashes: Enhanced stability through memory and performance improvements,
-    with ad'
+  title: 'Crashes: Enhanced stability through memory and performance improvements…'
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-09-07-this-should-reduce-any-significant-memory-issues-that-users-have-been-experienci|cursor-2023-09-07-384c8c]]'
@@ -56,12 +55,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10|cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10]]'
 source_type: cursor_changelog
 theme: memory
-title: 'Crashes: Enhanced stability through memory and performance improvements, with
-  ad'
+title: 'Crashes: Enhanced stability through memory and performance improvements…'
 type: change
 ---
 
-# Crashes: Enhanced stability through memory and performance improvements, with ad
+# Crashes: Enhanced stability through memory and performance improvements…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Agent is ready and UI refresh: Crashes: Enhanced stability through memory and performance improvements, with additional crash prevention systems in place.

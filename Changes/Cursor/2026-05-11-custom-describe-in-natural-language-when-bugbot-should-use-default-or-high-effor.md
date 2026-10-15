@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ad21ce1f88501f3860d0689ddb7210e443bb674551edd44eb62642ec94a62d18
+machine_hash: df0411d95a85b3ba32ee193f0d82f7b8b0a51c06636d170f78d82661b3be66eb
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: 'Custom: Describe in natural language when Bugbot should use default or
       high effort. Cursor will dynamically set effort levels based on your instructions.'
     source_release: https://cursor.com/changelog/05-11-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -38,7 +38,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: 'Custom: Describe in natural language when Bugbot should use default or high
-    effo'
+    effort'
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-05-05-we-re-rolling-out-gpt-5-5-instant-as-chatgpt-s-new-default-model-it-replaces-gpt|chatgpt-2026-05-05-224f9a]]'
@@ -48,11 +48,11 @@ source_release: '[[Releases/Cursor/cursor-2026-05-11-bugbot-effort-levels-https-
 source_type: cursor_changelog
 theme: model-support
 title: 'Custom: Describe in natural language when Bugbot should use default or high
-  effo'
+  effort'
 type: change
 ---
 
-# Custom: Describe in natural language when Bugbot should use default or high effo
+# Custom: Describe in natural language when Bugbot should use default or high effort
 
 <!-- chronolog:begin region="description" -->
 Cursor — Bugbot Effort Levels: Custom: Describe in natural language when Bugbot should use default or high effort. Cursor will dynamically set effort levels based on your instructions.

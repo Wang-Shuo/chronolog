@@ -11,9 +11,9 @@ diffusion:
   theme: file-data
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ff6ff9b96ee4edfb58a53e848e80f2928939d0bf37622876c9cd8661b62492e5
+machine_hash: f05b5e4940fcb446d2659afe6321e1d54988cc4f28227535efebb87ae060aac1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: 'Python code execution: You can now execute Python code in a canvas. ChatGPT
       will take a pass on fixing bugs in your code and provide comments on errors.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -35,8 +35,7 @@ record:
   source_release: chatgpt-2024-12-10-canvas-a457e8f0
   source_type: chatgpt_changelog
   theme: file-data
-  title: 'Python code execution: You can now execute Python code in a canvas. ChatGPT
-    will'
+  title: 'Python code execution: You can now execute Python code in a canvas'
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2024-05-16-customize-and-download-presentation-ready-charts-and-documents|chatgpt-2024-05-16-c198c8]]'
@@ -45,12 +44,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2024-12-10-canvas-a457e8f0|chatgpt-2024-12-10-canvas-a457e8f0]]'
 source_type: chatgpt_changelog
 theme: file-data
-title: 'Python code execution: You can now execute Python code in a canvas. ChatGPT
-  will'
+title: 'Python code execution: You can now execute Python code in a canvas'
 type: change
 ---
 
-# Python code execution: You can now execute Python code in a canvas. ChatGPT will
+# Python code execution: You can now execute Python code in a canvas
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Canvas: Python code execution: You can now execute Python code in a canvas. ChatGPT will take a pass on fixing bugs in your code and provide comments on errors.

@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5a54c9f06944d01f02837becb5f13dbda689883405b38e6f7a50d2e57fac7a11
+machine_hash: 91176ca9bbe8abfe0c41d9a096233fce7957ee3a8a4d15c3f2a243b03e4c17d2
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       no longer fills your conversation and keeps stacked slash commands as its review
       target
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.218
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -47,7 +47,7 @@ record:
     theme: agent-mode
   theme_resolution: manual-semantic-rule-v1
   title: Changed `/code-review` to run as a background subagent, so review work no
-    longer
+    longer…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-10-added-directory-path-suggestions-to-cd-matching-add-dir-behavior|claude-code-2026-07-10-e508b3]]'
@@ -56,11 +56,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-22-v2-1-218-github-358276841-57d73db4|claude-code-2026-07-22-v2-1-218-github-358276841-57d73db4]]'
 source_type: github_releases
 theme: developer-workflow
-title: Changed /code-review to run as a background subagent, so review work no longer
+title: Changed /code-review to run as a background subagent, so review work no longer…
 type: change
 ---
 
-# Changed `/code-review` to run as a background subagent, so review work no longer
+# Changed `/code-review` to run as a background subagent, so review work no longer…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.218: Changed `/code-review` to run as a background subagent, so review work no longer fills your conversation and keeps stacked slash commands as its review target

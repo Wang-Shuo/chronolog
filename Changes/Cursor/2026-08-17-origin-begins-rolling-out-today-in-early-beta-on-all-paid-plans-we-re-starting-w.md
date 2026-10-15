@@ -11,9 +11,9 @@ diffusion:
   theme: search-browsing
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 80433e68e5d6a1860ec6da4d6be5b54d372fa7a4acce2a80efca860453d80593
+machine_hash: a044e9b633b06854a8dba75c289b2260b127d762a8777c05c024924386cb960a
 product: cursor
 product_name: Cursor
 record:
@@ -31,7 +31,7 @@ record:
       starting with the essentials, designed for agent scale: repos, pull requests,
       code browsing, and GitHub sync. Agent-native features ship soon.'
     source_release: https://cursor.com/changelog/origin-code-hosting
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -49,7 +49,7 @@ record:
     score: 50
     theme: search-browsing
   theme_resolution: manual-semantic-rule-v1
-  title: Origin begins rolling out today in early beta on all paid plans. We're starting
+  title: Origin begins rolling out today in early beta on all paid plans
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-06-01-chatgpt-can-now-help-with-more-of-the-job-search-process-from-finding-relevant-l|chatgpt-2026-06-01-d9a25a]]'
@@ -58,11 +58,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-08-17-origin-code-hosting-https-cursor-com-changelog-origin-code-hosti-ed3a9195|cursor-2026-08-17-origin-code-hosting-https-cursor-com-changelog-origin-code-hosti-ed3a9195]]'
 source_type: cursor_changelog
 theme: search-browsing
-title: Origin begins rolling out today in early beta on all paid plans. We're starting
+title: Origin begins rolling out today in early beta on all paid plans
 type: change
 ---
 
-# Origin begins rolling out today in early beta on all paid plans. We're starting
+# Origin begins rolling out today in early beta on all paid plans
 
 <!-- chronolog:begin region="description" -->
 Cursor — Origin Code Hosting: Origin begins rolling out today in early beta on all paid plans. We're starting with the essentials, designed for agent scale: repos, pull requests, code browsing, and GitHub sync. Agent-native features ship soon.

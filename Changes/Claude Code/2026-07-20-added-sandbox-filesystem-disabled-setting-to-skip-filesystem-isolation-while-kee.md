@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9a73af5384510253eb67f9333dfeb61e64049cc3ac13a3b7e1e8cd759bded5e6
+machine_hash: 637b31a06d4a0de5c6b2d08aae3fa3783652fa9a07e52f5a80ef61c64f9e172b
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `sandbox.filesystem.disabled` setting to skip filesystem isolation
       while keeping network egress control
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.216
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   theme: safety-privacy
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: Added `sandbox.filesystem.disabled` setting to skip filesystem isolation
-    while k
+  title: Added `sandbox.filesystem.disabled` setting to skip filesystem isolation…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-18-fixed-bash-permission-checks-misjudging-very-long-commands-commands-over-10-000|claude-code-2026-07-18-c7cc5a]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-20-v2-1-216-github-356972381-87e422ae|claude-code-2026-07-20-v2-1-216-github-356972381-87e422ae]]'
 source_type: github_releases
 theme: safety-privacy
-title: Added sandbox.filesystem.disabled setting to skip filesystem isolation while
-  k
+title: Added sandbox.filesystem.disabled setting to skip filesystem isolation…
 type: change
 ---
 
-# Added `sandbox.filesystem.disabled` setting to skip filesystem isolation while k
+# Added `sandbox.filesystem.disabled` setting to skip filesystem isolation…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.216: Added `sandbox.filesystem.disabled` setting to skip filesystem isolation while keeping network egress control

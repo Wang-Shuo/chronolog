@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 151269a67022eacebff6f26a043bbdb161833175063b17e7fc529a9bcd27d38a
+machine_hash: ccb4f7dfa1af3a4e362049f2afda0c487bdc01477964ce222c4405afca445a03
 product: cursor
 product_name: Cursor
 record:
@@ -24,7 +24,7 @@ record:
   evidence:
   - quote: '0.25.2: Copilot++ performance improvements'
     source_release: https://cursor.com/changelog/0-25-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

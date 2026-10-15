@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5b1afb9c403de6a7429531666a1d87b07ae60a257e3fda0866d87c4050b2b606
+machine_hash: db46819fd590354c63d51678729529bb2ec885fdcec91c28889b7ddfe17f504b
 product: claude-code
 product_name: Claude Code
 record:
@@ -24,7 +24,7 @@ record:
   evidence:
   - quote: '`/undo` is now an alias for `/rewind`'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.108
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

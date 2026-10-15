@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: ab7a7c8b67b8a38a8de08b08330c79fb219ddb0b54c995a3d1cbaf2c4a2e187a
+machine_hash: 849be793f67a9d7ab22077fc1fdd233e183395d16100fc46d3e1561c6fc00649
 product: cursor
 product_name: Cursor
 record:
@@ -33,7 +33,7 @@ record:
       slash command. This can be useful when you don't want to create a new chat,
       but want to free up space in the context window.
     source_release: https://cursor.com/changelog/1-6
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -44,7 +44,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: Cursor automatically summarizes long conversation for you when reaching the
-    cont
+    context…
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-05-15-premium-tool-calls-and-long-context-mode-are-removed-to-keep-it-simple|cursor-2025-05-15-d5b1cd]]'
@@ -54,11 +54,11 @@ source_release: '[[Releases/Cursor/cursor-2025-09-12-1-6-https-cursor-com-change
 source_type: cursor_changelog
 theme: context-window
 title: Cursor automatically summarizes long conversation for you when reaching the
-  cont
+  context…
 type: change
 ---
 
-# Cursor automatically summarizes long conversation for you when reaching the cont
+# Cursor automatically summarizes long conversation for you when reaching the context…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Slash commands, summarization, and improved Agent terminal: Cursor automatically summarizes long conversation for you when reaching the context window limit. You can now summarize context on-demand with the /summarize slash command. This can be useful when you don't want to create a new chat, but want to free up space in the context window.

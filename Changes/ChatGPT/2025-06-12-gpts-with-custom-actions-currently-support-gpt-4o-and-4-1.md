@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 9ae4845bdde2e2f659ebbe06a446de3cae3e6f895f66acab1d2a70449df0b2fe
+machine_hash: 20a5d9742290215c8c79b60c08fc628e99f21772ce247b7f030ef6c7d88cda5f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: GPTs with Custom Actions currently support GPT-4o and 4.1
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT

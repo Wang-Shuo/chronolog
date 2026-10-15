@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-04-09'
-machine_hash: e39d46deada54909b8d750b5ce16561a444a1d656651cc5450391ffe4748f5cc
+machine_hash: 1bc5ab9f0b18487236900b9a0031c6cb5edbef2adac8b647b8932eeea8bb6294
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2026-04-09-today-we-re-releasing-gpt-5-3-instant-mini-in-chatgpt-it-replaces-gpt-5-instant|Today, we’re releasing GPT-5.3 Instant Mini in ChatGPT. It replaces GPT-5 Instan]]
+- model-support: [[Changes/ChatGPT/2026-04-09-today-we-re-releasing-gpt-5-3-instant-mini-in-chatgpt-it-replaces-gpt-5-instant|Today, we’re releasing GPT-5.3 Instant Mini in ChatGPT]]
 <!-- chronolog:end -->

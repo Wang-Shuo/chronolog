@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: baba545a71dd7f15937c35589fa2c82c13d4449cc2bc60f0e6c589d0f5a12abe
+machine_hash: a6e3d20f4e97768e2b3b1eaf088895fed47dae80c489bd3aa1763e707a196c2c
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Codeblocks and code symbols in "with codebase" responses will now often
       be clickable.
     source_release: https://cursor.com/changelog/0-8-2
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: Codeblocks and code symbols in "with codebase" responses will now often be
-    click
+    clickable
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-08-10-cmd-k-now-has-a-fast-mode-it-is-about-1-second-faster-and-we-re-working-on-makin|cursor-2023-08-10-7e3e10]]'
@@ -47,11 +47,11 @@ source_release: '[[Releases/Cursor/cursor-2023-08-22-0-8-2-https-cursor-com-chan
 source_type: cursor_changelog
 theme: editor-experience
 title: Codeblocks and code symbols in "with codebase" responses will now often be
-  click
+  clickable
 type: change
 ---
 
-# Codeblocks and code symbols in "with codebase" responses will now often be click
+# Codeblocks and code symbols in "with codebase" responses will now often be clickable
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cmd-k Followups, chat with large files, and more: Codeblocks and code symbols in "with codebase" responses will now often be clickable.

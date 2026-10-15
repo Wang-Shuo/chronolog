@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: b960d52f18b6ba534b3abfa5bec88aa397ab4bc28f22322a70486e33dafb5e43
+machine_hash: 5740e75119f6a79d83cdd9e1aeba9c574ccc0e11f6a614055ef8c67f7c41080e
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
       of all extensions will work without problem in Cursor. Thank you to everyone
       who urged us to do this on the forum!
     source_release: https://cursor.com/changelog/0-13-0-0-13-4
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -38,8 +38,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Cursor is now based on VS Code 1.83.1. This ensures that the newest versions
-    of
+  title: Cursor is now based on VS Code 1.83.1
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-09-08-the-main-addition-in-this-update-is-better-docs-support-this-means-you-can-add-a|cursor-2023-09-08-1160cc]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-10-20-0-13-0-0-13-4-https-cursor-com-changelog-0-13-0-0-13-4-5f700e1b|cursor-2023-10-20-0-13-0-0-13-4-https-cursor-com-changelog-0-13-0-0-13-4-5f700e1b]]'
 source_type: cursor_changelog
 theme: apps-integrations
-title: Cursor is now based on VS Code 1.83.1. This ensures that the newest versions
-  of
+title: Cursor is now based on VS Code 1.83.1
 type: change
 ---
 
-# Cursor is now based on VS Code 1.83.1. This ensures that the newest versions of
+# Cursor is now based on VS Code 1.83.1
 
 <!-- chronolog:begin region="description" -->
 Cursor — New VS Code version: Cursor is now based on VS Code 1.83.1. This ensures that the newest versions of all extensions will work without problem in Cursor. Thank you to everyone who urged us to do this on the forum!

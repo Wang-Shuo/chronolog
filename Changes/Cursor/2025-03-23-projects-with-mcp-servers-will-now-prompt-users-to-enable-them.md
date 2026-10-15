@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 040628e82c032f5d97d353b1a3df125016f7251d9d6af529a8b2881e9720aed4
+machine_hash: d74b71155b06579620ddef46815a97b04f96eabdaa3881b479007e48b84d8448
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Projects with MCP servers will now prompt users to enable them
     source_release: https://cursor.com/changelog/0-48-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

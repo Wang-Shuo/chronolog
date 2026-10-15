@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: bedebdc7240edaac5da35c68f965a22382440d4bc45a1fe73a4138d824121cd5
+machine_hash: 63ec808e6aa0c7c1d293490d365a9bdeea750b91cd35925df506c043fbc422a2
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Fixed false-positive permission prompts for compound bash commands containing
       heredoc commit messages
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.71
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   theme: safety-privacy
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: Fixed false-positive permission prompts for compound bash commands containing
-    he
+  title: Fixed false-positive permission prompts for compound bash commands containing…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-19-permission-suggestions-are-now-populated-when-safety-checks-trigger-an-ask-respo|claude-code-2026-02-19-e3327d]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-07-v2-1-71-github-294146317-ab5a32e0|claude-code-2026-03-07-v2-1-71-github-294146317-ab5a32e0]]'
 source_type: github_releases
 theme: safety-privacy
-title: Fixed false-positive permission prompts for compound bash commands containing
-  he
+title: Fixed false-positive permission prompts for compound bash commands containing…
 type: change
 ---
 
-# Fixed false-positive permission prompts for compound bash commands containing he
+# Fixed false-positive permission prompts for compound bash commands containing…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.71: Fixed false-positive permission prompts for compound bash commands containing heredoc commit messages

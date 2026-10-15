@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 0f84f2ec1007803e77d99032dfcc1e2782f5aa0a1bf59ff6ca0262ced854cf1b
+machine_hash: c82c492eb7006d4d396150d3453ea86488459d104a403bf77101464c2d536ae7
 product: cursor
 product_name: Cursor
 record:
@@ -30,7 +30,7 @@ record:
       or follow all your PRs. This way it can take action based on signals it detects,
       without waiting for your prompt.
     source_release: https://cursor.com/changelog/projects
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -39,7 +39,7 @@ record:
   source_type: cursor_changelog
   theme: agent-mode
   title: Tell the coordinator agent to watch a Slack channel, run on a schedule, or
-    follo
+    follow…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-09-10-you-shouldn-t-have-to-onboard-an-agent-every-time-you-start-a-task-each-project|cursor-2026-09-10-197c34]]'
@@ -49,11 +49,11 @@ source_release: '[[Releases/Cursor/cursor-2026-09-10-cursor-projects-https-curso
 source_type: cursor_changelog
 theme: agent-mode
 title: Tell the coordinator agent to watch a Slack channel, run on a schedule, or
-  follo
+  follow…
 type: change
 ---
 
-# Tell the coordinator agent to watch a Slack channel, run on a schedule, or follo
+# Tell the coordinator agent to watch a Slack channel, run on a schedule, or follow…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cursor Projects: Tell the coordinator agent to watch a Slack channel, run on a schedule, or follow all your PRs. This way it can take action based on signals it detects, without waiting for your prompt.

@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 6579544da2eb89a45195f1e447a370fd08b390ce6490159ade03a856ae2a045d
+machine_hash: 030520d1d5b285fd7eac5dab2ae95772a3d462e684aecae75d83c4c36b79781e
 product: cursor
 product_name: Cursor
 record:
@@ -31,7 +31,7 @@ record:
       let us know of any annoyances or bugs, or if you preferred the no-followup mode.
       Please please send all feedback you have in the Discord channel!
     source_release: https://cursor.com/changelog/0-7-8-nightly
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -39,8 +39,7 @@ record:
   source_release: cursor-2023-08-12-0-7-8-nightly-https-cursor-com-changelog-0-7-8-nightly-97c61cea
   source_type: cursor_changelog
   theme: editor-experience
-  title: The cmd-k edits now support followups! This is an early preview — please
-    let us
+  title: The cmd-k edits now support followups!
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-07-28-we-know-that-sometimes-all-of-us-want-copilot-to-write-an-entire-function-or-a-b|cursor-2023-07-28-b3aa93]]'
@@ -49,12 +48,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-08-12-0-7-8-nightly-https-cursor-com-changelog-0-7-8-nightly-97c61cea|cursor-2023-08-12-0-7-8-nightly-https-cursor-com-changelog-0-7-8-nightly-97c61cea]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: The cmd-k edits now support followups! This is an early preview — please let
-  us
+title: The cmd-k edits now support followups!
 type: change
 ---
 
-# The cmd-k edits now support followups! This is an early preview — please let us
+# The cmd-k edits now support followups!
 
 <!-- chronolog:begin region="description" -->
 Cursor — Followups in edits: The cmd-k edits now support followups! This is an early preview — please let us know of any annoyances or bugs, or if you preferred the no-followup mode. Please please send all feedback you have in the Discord channel!

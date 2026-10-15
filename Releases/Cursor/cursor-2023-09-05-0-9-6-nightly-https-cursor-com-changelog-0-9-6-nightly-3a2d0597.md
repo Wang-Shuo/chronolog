@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-09-05'
-machine_hash: 622b643e2ed24938645a8becbcae9d96cfab8cef5bc2fc74e61a007688043ee3
+machine_hash: 10241f44ab8be03477eacd99def72bbb0ce4d20abdd51fa5c53f490aa5b997cb
 product: cursor
 product_name: Cursor
 record:
@@ -40,5 +40,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- reliability-performance: [[Changes/Cursor/2023-09-05-updates-to-docs-try-pasting-a-link-in-chat-you-can-delete-edit-docs-you-can-see|Updates to docs (try pasting a link in chat, you can delete/edit docs, you can s]]
+- reliability-performance: [[Changes/Cursor/2023-09-05-updates-to-docs-try-pasting-a-link-in-chat-you-can-delete-edit-docs-you-can-see|Updates to docs…]]
 <!-- chronolog:end -->

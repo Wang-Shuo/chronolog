@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2025-02-14'
-machine_hash: 7ba6ab0f9872585448a64ca81c2e52cbc3381beebfd8d8d4503f84e37834eeab
+machine_hash: 8be328a94ab7d0cfc793983ec0b13adde68d18c51b4472d04721a645ae0c0892
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,9 +38,9 @@ Tracked cards: 5
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- search-browsing: [[Changes/ChatGPT/2025-02-14-set-chatgpt-as-default-search-engine-in-safari|Set ChatGPT as default search engine in Safari.]]
-- mobile-desktop: [[Changes/ChatGPT/2025-02-14-improved-android-conversation-parsing-performance|Improved Android conversation parsing performance.]]
-- mobile-desktop: [[Changes/ChatGPT/2025-02-14-ios-performance-fixes|iOS performance fixes.]]
-- mobile-desktop: [[Changes/ChatGPT/2025-02-14-confirmation-dialog-for-logging-out-ios-web|Confirmation dialog for logging out (iOS, web).]]
-- mobile-desktop: [[Changes/ChatGPT/2025-02-14-updated-launch-animations-and-composer-design-on-android|Updated launch animations and composer design on Android.]]
+- search-browsing: [[Changes/ChatGPT/2025-02-14-set-chatgpt-as-default-search-engine-in-safari|Set ChatGPT as default search engine in Safari]]
+- mobile-desktop: [[Changes/ChatGPT/2025-02-14-improved-android-conversation-parsing-performance|Improved Android conversation parsing performance]]
+- mobile-desktop: [[Changes/ChatGPT/2025-02-14-ios-performance-fixes|iOS performance fixes]]
+- mobile-desktop: [[Changes/ChatGPT/2025-02-14-confirmation-dialog-for-logging-out-ios-web|Confirmation dialog for logging out (iOS, web)]]
+- mobile-desktop: [[Changes/ChatGPT/2025-02-14-updated-launch-animations-and-composer-design-on-android|Updated launch animations and composer design on Android]]
 <!-- chronolog:end -->

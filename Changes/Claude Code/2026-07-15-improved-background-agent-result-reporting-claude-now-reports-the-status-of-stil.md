@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: a5ace76e21c289655d8af7954bf1cb8b7a29fd1bc7dd1d25924236d672ab3ae7
+machine_hash: 37cfbbfc697f39bb19cda85e639ef094cc98cfb8c5b127e065bb7a0abae463a9
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       of still-running agents and waits for the real completion instead of fabricating
       results
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.211
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code
@@ -49,8 +49,7 @@ record:
     - completion
     score: 50
     theme: editor-experience
-  title: Improved background agent result reporting — Claude now reports the status
-    of st
+  title: Improved background agent result reporting
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-11-improved-agent-view-blocked-session-peeks-now-lead-with-the-question-and-show-a|claude-code-2026-07-11-fb27cb]]'
@@ -59,12 +58,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-15-v2-1-211-github-354658856-71e66e57|claude-code-2026-07-15-v2-1-211-github-354658856-71e66e57]]'
 source_type: github_releases
 theme: agent-mode
-title: Improved background agent result reporting — Claude now reports the status
-  of st
+title: Improved background agent result reporting
 type: change
 ---
 
-# Improved background agent result reporting — Claude now reports the status of st
+# Improved background agent result reporting
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.211: Improved background agent result reporting — Claude now reports the status of still-running agents and waits for the real completion instead of fabricating results

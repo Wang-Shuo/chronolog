@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1a73e36c3eb69242de9291735fb4d5354bac71d249f2f1b459d31de7de4636ab
+machine_hash: d7353ccc6e52875694e4bf947578fd8b41452c94fa1fb17ff4dae9d3876b3ef8
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: Bugbot automatically reviews your PRs and catches potential bugs and issues.
     source_release: https://cursor.com/changelog/1-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -36,7 +36,7 @@ record:
   theme: developer-workflow
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Bugbot automatically reviews your PRs and catches potential bugs and issues.
+  title: Bugbot automatically reviews your PRs and catches potential bugs and issues
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-12-17-with-yolo-mode-the-agent-can-auto-run-terminal-commands|cursor-2024-12-17-4dac73]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca|cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca]]'
 source_type: cursor_changelog
 theme: developer-workflow
-title: Bugbot automatically reviews your PRs and catches potential bugs and issues.
+title: Bugbot automatically reviews your PRs and catches potential bugs and issues
 type: change
 ---
 
-# Bugbot automatically reviews your PRs and catches potential bugs and issues.
+# Bugbot automatically reviews your PRs and catches potential bugs and issues
 
 <!-- chronolog:begin region="description" -->
 Cursor — Bugbot, Background Agent access to everyone, and one-click MCP install: Bugbot automatically reviews your PRs and catches potential bugs and issues.

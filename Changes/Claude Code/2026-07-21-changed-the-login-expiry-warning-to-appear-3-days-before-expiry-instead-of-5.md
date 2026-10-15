@@ -11,9 +11,9 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: fbaf524276435b0140de5b543c17e32cc9007f03cc1da3611319b222feb21c0b
+machine_hash: 319d7688c343085820ad72766b80418e7a6df6a3d31e4ce2388e90dcbb17aeb5
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Changed the login-expiry warning to appear 3 days before expiry instead
       of 5
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.217
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

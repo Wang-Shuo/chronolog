@@ -1,6 +1,6 @@
 ---
 draft: true
-machine_hash: 52486bc7a2a670509ad027dea530359d4b12edbcf9c988d05601cd0e048affdd
+machine_hash: f6794ce1c084900bdd1044738bba53e7ba204e07b6612a6424fc4f85f3c5890c
 product: chatgpt
 record:
   card_id: chatgpt-2026-08-31-ca1bcb
@@ -13,7 +13,7 @@ record:
   - quote: Start with a prompt or template. Ask ChatGPT to make a sticker pack, or
       choose a sticker template from the home screen or Images.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -24,8 +24,7 @@ record:
   theme_matches: []
   theme_review_reason: no_match
   theme_suggestion: start-with-prompt
-  title: Start with a prompt or template. Ask ChatGPT to make a sticker pack, or choose
-    a
+  title: Start with a prompt or template
   type: change
 ---
 

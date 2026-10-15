@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 3199a64996bed24d7ece5e0f376252572a376d76008aa4c1fbcbc44a428ffdfd
+machine_hash: 5f50eb6e1139446669857c62647601ecd676a15d38453f271d5db105084526db
 product: cursor
 product_name: Cursor
 record:
@@ -32,7 +32,7 @@ record:
       agent to resolve them. The whole path from agent output to merged PR now travels
       with you.'
     source_release: https://cursor.com/changelog/ipad
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -50,8 +50,7 @@ record:
     - agent
     score: 50
     theme: agent-mode
-  title: 'On iPhone and iPad, the review screen now covers the full PR: comments,
-    checks,'
+  title: On iPhone and iPad, the review screen now covers the full PR
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-07-16-continue-work-across-devices-cloud-work-conversations-now-sync-across-web-mobile|chatgpt-2026-07-16-d5b45e]]'
@@ -60,11 +59,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-07-29-cursor-now-on-ipad-https-cursor-com-changelog-ipad-d2eeee4c|cursor-2026-07-29-cursor-now-on-ipad-https-cursor-com-changelog-ipad-d2eeee4c]]'
 source_type: cursor_changelog
 theme: mobile-desktop
-title: 'On iPhone and iPad, the review screen now covers the full PR: comments, checks,'
+title: On iPhone and iPad, the review screen now covers the full PR
 type: change
 ---
 
-# On iPhone and iPad, the review screen now covers the full PR: comments, checks,
+# On iPhone and iPad, the review screen now covers the full PR
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cursor, now on iPad: On iPhone and iPad, the review screen now covers the full PR: comments, checks, and approvals. Add or change reviewers, read comments, and prompt the agent to resolve them. The whole path from agent output to merged PR now travels with you.

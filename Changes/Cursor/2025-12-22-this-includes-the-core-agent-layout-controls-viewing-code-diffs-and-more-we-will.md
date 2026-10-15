@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: ae416ff8538ae913e602ed904624ab14bfee67746099f1d0338514a20dcdf102
+machine_hash: 35f0f3785138ae63d2e097c8ea16b311c121002858b4733d28cc43e919b5c988
 product: cursor
 product_name: Cursor
 record:
@@ -31,7 +31,7 @@ record:
       more. We will be slowly rolling these updates out over the week, ensuring there
       are no regressions during your holiday coding.
     source_release: https://cursor.com/changelog/2-3
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -39,8 +39,7 @@ record:
   source_release: cursor-2025-12-22-2-3-https-cursor-com-changelog-2-3-fe418465
   source_type: cursor_changelog
   theme: agent-mode
-  title: This includes the core agent, layout controls, viewing code diffs, and more.
-    We
+  title: This includes the core agent, layout controls, viewing code diffs, and more
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-11-21-when-creating-plans-cursor-responds-with-clarifying-questions-to-improve-the-pla|cursor-2025-11-21-c66e0a]]'
@@ -49,12 +48,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-12-22-2-3-https-cursor-com-changelog-2-3-fe418465|cursor-2025-12-22-2-3-https-cursor-com-changelog-2-3-fe418465]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: This includes the core agent, layout controls, viewing code diffs, and more.
-  We
+title: This includes the core agent, layout controls, viewing code diffs, and more
 type: change
 ---
 
-# This includes the core agent, layout controls, viewing code diffs, and more. We
+# This includes the core agent, layout controls, viewing code diffs, and more
 
 <!-- chronolog:begin region="description" -->
 Cursor — Layout Customization and Stability Improvements: This includes the core agent, layout controls, viewing code diffs, and more. We will be slowly rolling these updates out over the week, ensuring there are no regressions during your holiday coding.

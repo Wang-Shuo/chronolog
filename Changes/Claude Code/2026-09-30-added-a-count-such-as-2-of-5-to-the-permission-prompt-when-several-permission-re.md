@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 660dfed878d95284e75dd5058dad15b0531395c7b1ee35013efebc9f81ef86e6
+machine_hash: 8602c9061ad680e52dac5a39fd5607be9ed22a721041d033d8be4a779113b5c7
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added a count such as "2 of 5" to the permission prompt when several permission
       requests stack up
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.286
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,7 +36,7 @@ record:
   theme: safety-privacy
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: Added a count such as "2 of 5" to the permission prompt when several permission
+  title: Added a count such as "2 of 5" to the permission prompt when several permission…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-09-23-today-we-re-launching-two-cursor-bots-for-the-last-mile-of-shipping-code-rollout|cursor-2026-09-23-06ce09]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-30-v2-1-286-github-400266224-9fb31eb7|claude-code-2026-09-30-v2-1-286-github-400266224-9fb31eb7]]'
 source_type: github_releases
 theme: safety-privacy
-title: Added a count such as "2 of 5" to the permission prompt when several permission
+title: Added a count such as "2 of 5" to the permission prompt when several permission…
 type: change
 ---
 
-# Added a count such as "2 of 5" to the permission prompt when several permission
+# Added a count such as "2 of 5" to the permission prompt when several permission…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.286: Added a count such as "2 of 5" to the permission prompt when several permission requests stack up

@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: ac395e3bf06fa3c4b25d0993a11445454486ca4f6ba01e58cb3511fbffcb6077
+machine_hash: a6a95ef72134b3cb046ca7f2847b44569e5499c6964ddff257c82950dd4b478f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -37,7 +37,7 @@ record:
       ChatGPT can still switch automatically for safety purposes. For more information,
       see: GPT-5.6 and GPT-6 Pro in ChatGPT.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -61,7 +61,7 @@ record:
     theme: safety-privacy
   theme_resolution: manual-semantic-rule-v2
   title: We’re retiring automatic switching from Instant to Thinking (reasoning) for
-    Chat
+    ChatGPT…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-09-09-chatgpt-voice-can-now-use-gpt-5-6-or-gpt-6-astra-when-it-needs-to-search-or-reas|chatgpt-2026-09-09-200a70]]'
@@ -71,11 +71,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-09-14-changes-to-automatic-swit
 source_type: chatgpt_changelog
 theme: model-support
 title: We’re retiring automatic switching from Instant to Thinking (reasoning) for
-  Chat
+  ChatGPT…
 type: change
 ---
 
-# We’re retiring automatic switching from Instant to Thinking (reasoning) for Chat
+# We’re retiring automatic switching from Instant to Thinking (reasoning) for ChatGPT…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Changes to automatic switching to thinking in ChatGPT (Plus and Pro): We’re retiring automatic switching from Instant to Thinking (reasoning) for ChatGPT Plus and Pro users globally. You can still select an available option in the model picker to give ChatGPT more time to think or reason. We’re also removing the Higher intelligence setting from ChatGPT on the web for these plans. ChatGPT can still switch automatically for safety purposes. For more information, see: GPT-5.6 and GPT-6 Pro in ChatGPT.

@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2024-03-12'
-machine_hash: 51a40036b5149566172938eabe0e87e30a175be53bdafe403aa1a94d42c4a4ea
+machine_hash: 9c75b3c145932006b090380adb48909c58fb2b27e852a97c460df94e95613421
 product: cursor
 product_name: Cursor
 record:
@@ -40,5 +40,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/Cursor/2024-03-12-if-you-re-a-pro-or-business-user-you-can-add-claude-3-opus-as-a-custom-model-in|If you're a Pro or Business user, you can add "claude-3-opus" as a custom model]]
+- model-support: [[Changes/Cursor/2024-03-12-if-you-re-a-pro-or-business-user-you-can-add-claude-3-opus-as-a-custom-model-in|If you're a Pro or Business user, you can add "claude-3-opus" as a custom model…]]
 <!-- chronolog:end -->

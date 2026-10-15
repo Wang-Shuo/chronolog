@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: db93663233157b9b996bd31f82c2a28f6f47dcf13071609fc6f8a45e38c38016
+machine_hash: 65918fe1b933dd670812e3b67586b29b304831de88c6e77ad8478d5dbcf031d0
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Extended prompt length for project generation
     source_release: https://cursor.com/changelog/0-2-9
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

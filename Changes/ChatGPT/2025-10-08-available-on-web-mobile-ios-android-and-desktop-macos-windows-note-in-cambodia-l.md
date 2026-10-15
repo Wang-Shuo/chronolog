@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e6e0c2de52d8bb4e979fa98419c0b19749b88d062ed941be4a1c7877653e024f
+machine_hash: acda12c98ff7d5bb7853d110ee0c01fda53a46b4400f4116f90db814304fc2ea
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       iOS app currently. Web and Android subscriptions remain available.Learn more
       about ChatGPT Go.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -38,8 +38,7 @@ record:
   source_release: chatgpt-2025-10-08-chatgpt-go-expansion-37d00d9f
   source_type: chatgpt_changelog
   theme: mobile-desktop
-  title: 'Available on web, mobile (iOS & Android), and desktop (macOS & Windows).Note:
-    In'
+  title: Available on web, mobile (iOS & Android), and desktop (macOS & Windows)
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-08-07-you-can-now-set-an-accent-color-that-applies-to-elements-in-chatgpt-including-yo-865968|chatgpt-2025-08-07-865968]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-08-chatgpt-go-expansion-37d00d9f|chatgpt-2025-10-08-chatgpt-go-expansion-37d00d9f]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: 'Available on web, mobile (iOS & Android), and desktop (macOS & Windows).Note:
-  In'
+title: Available on web, mobile (iOS & Android), and desktop (macOS & Windows)
 type: change
 ---
 
-# Available on web, mobile (iOS & Android), and desktop (macOS & Windows).Note: In
+# Available on web, mobile (iOS & Android), and desktop (macOS & Windows)
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT Go expansion: Available on web, mobile (iOS & Android), and desktop (macOS & Windows).Note: In Cambodia, Laos, and Nepal, ChatGPT Go subscriptions aren’t available in the iOS app currently. Web and Android subscriptions remain available.Learn more about ChatGPT Go.

@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 7f0c3b945294bb0f399ced4f3dfc2f25f646b70edb21bf8bf96a0f087a1427e3
+machine_hash: 1539b752eda6b0225622a489e6cf2325547a0d20f9e36b376288f87d4c9c69aa
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
   - quote: MCP Apps support interactive user interfaces like charts from Amplitude,
       diagrams from Figma, and whiteboards from tldraw directly inside Cursor.
     source_release: https://cursor.com/changelog/2-6
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -38,7 +38,7 @@ record:
   source_type: cursor_changelog
   theme: apps-integrations
   title: MCP Apps support interactive user interfaces like charts from Amplitude,
-    diagram
+    diagrams…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-02-25-sources-from-apps-paste-a-link-to-a-slack-channel-or-google-drive-file-or-folder|chatgpt-2026-02-25-69aa7f]]'
@@ -47,11 +47,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3|cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3]]'
 source_type: cursor_changelog
 theme: apps-integrations
-title: MCP Apps support interactive user interfaces like charts from Amplitude, diagram
+title: MCP Apps support interactive user interfaces like charts from Amplitude, diagrams…
 type: change
 ---
 
-# MCP Apps support interactive user interfaces like charts from Amplitude, diagram
+# MCP Apps support interactive user interfaces like charts from Amplitude, diagrams…
 
 <!-- chronolog:begin region="description" -->
 Cursor — MCP Apps and Team Marketplaces for Plugins: MCP Apps support interactive user interfaces like charts from Amplitude, diagrams from Figma, and whiteboards from tldraw directly inside Cursor.

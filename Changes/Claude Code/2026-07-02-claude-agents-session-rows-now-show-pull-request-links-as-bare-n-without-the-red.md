@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 16cd153319da437188f8c37d3908eaae1a6597f69a21e452d885eab86905f842
+machine_hash: 896d22eca6469266057637ff50371fe3e526386ba3fe3724c1022262387122e9
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: '`claude agents` session rows now show pull-request links as bare `#N`
       without the redundant "PR" label'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.199
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -44,8 +44,7 @@ record:
     score: 50
     theme: agent-mode
   theme_resolution: manual-semantic-rule-v1
-  title: '`claude agents` session rows now show pull-request links as bare `#N` without
-    th'
+  title: '`claude agents` session rows now show pull-request links as bare `#N` without…'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-04-skills-added-escape-syntax-to-include-a-literal-before-a-digit-in-command-bodies|claude-code-2026-06-04-c16d8f]]'
@@ -54,11 +53,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-02-v2-1-199-github-348195313-a8a76d9f|claude-code-2026-07-02-v2-1-199-github-348195313-a8a76d9f]]'
 source_type: github_releases
 theme: developer-workflow
-title: claude agents session rows now show pull-request links as bare ♯N without th
+title: claude agents session rows now show pull-request links as bare ♯N without…
 type: change
 ---
 
-# `claude agents` session rows now show pull-request links as bare `#N` without th
+# `claude agents` session rows now show pull-request links as bare `#N` without…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.199: `claude agents` session rows now show pull-request links as bare `#N` without the redundant "PR" label

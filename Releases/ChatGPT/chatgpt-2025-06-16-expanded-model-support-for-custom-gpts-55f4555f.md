@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2025-06-16'
-machine_hash: 4f2d5c72e1179d7bb610b3721209727de99549cdd5b044ca0d5954f1c64e389f
+machine_hash: d664ac7b215c628833ff751346de30f05c61e199e74506a985846e78409e16ca
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,7 +40,7 @@ Tracked cards: 3
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2025-06-16-gpts-without-custom-actions-can-use-the-model-picker-to-select-from-all-models-a|GPTs without Custom Actions can use the model picker to select from all models a]]
+- model-support: [[Changes/ChatGPT/2025-06-16-gpts-without-custom-actions-can-use-the-model-picker-to-select-from-all-models-a|GPTs without Custom Actions can use the model picker to select from all models…]]
 - model-support: [[Changes/ChatGPT/2025-06-16-gpts-with-custom-actions-currently-support-gpt-4o-and-4-1|GPTs with Custom Actions currently support GPT-4o and 4.1]]
-- model-support: [[Changes/ChatGPT/2025-06-16-enterprise-and-edu-users-can-also-now-choose-from-the-full-set-of-chatgpt-models-c891f9|Enterprise and Edu users can also now choose from the full set of ChatGPT models]]
+- model-support: [[Changes/ChatGPT/2025-06-16-enterprise-and-edu-users-can-also-now-choose-from-the-full-set-of-chatgpt-models-c891f9|Enterprise and Edu users can also now choose from the full set of ChatGPT models…]]
 <!-- chronolog:end -->

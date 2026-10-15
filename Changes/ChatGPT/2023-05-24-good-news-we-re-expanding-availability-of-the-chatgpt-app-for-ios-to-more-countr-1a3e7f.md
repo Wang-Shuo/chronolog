@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: a29bc907e838c811797db12022e7e8504e50b9a5d7ff3e8a6dc6daed027c5429
+machine_hash: d2e8365979a2a6a47993a331f5caf10af8b35cc8801daf5ac6c40e5de7f81a49
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -37,7 +37,7 @@ record:
       Kingdom.We will continue to roll out to more countries and regions in the coming
       weeks. You can track the iOS app rollout here.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -45,20 +45,20 @@ record:
   source_release: chatgpt-2023-05-24-ios-app-available-in-more-countries-shared-links-in-alpha-bing-p-9800ed96
   source_type: chatgpt_changelog
   theme: mobile-desktop
-  title: Good news! We’re expanding availability of the ChatGPT app for iOS to more
-    count
+  title: ChatGPT expands availability of the ChatGPT app for iOS to more countries
+    and regions
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-03-14-windows-and-linux-support|cursor-2023-03-14-0021fe]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-05-24-ios-app-available-in-more-countries-shared-links-in-alpha-bing-p-9800ed96|chatgpt-2023-05-24-ios-app-available-in-more-countries-shared-links-in-alpha-bing-p-9800ed96]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: Good news! We’re expanding availability of the ChatGPT app for iOS to more
-  count
+title: ChatGPT expands availability of the ChatGPT app for iOS to more countries and
+  regions
 type: change
 ---
 
-# Good news! We’re expanding availability of the ChatGPT app for iOS to more count
+# ChatGPT expands availability of the ChatGPT app for iOS to more countries and regions
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — iOS app available in more countries, shared links in alpha, Bing Plugin, disable history on iOS: Good news! We’re expanding availability of the ChatGPT app for iOS to more countries and regions. Users in 11 countries can now download the ChatGPT app in the Apple App Store including the United States: Albania, Croatia, France, Germany, Ireland, Jamaica, Korea, New Zealand, Nicaragua, Nigeria, and the United Kingdom.We will continue to roll out to more countries and regions in the coming weeks. You can track the iOS app rollout here.

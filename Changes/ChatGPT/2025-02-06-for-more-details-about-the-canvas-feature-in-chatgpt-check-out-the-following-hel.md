@@ -11,9 +11,9 @@ diffusion:
   theme: file-data
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5eabe36c260ef0232964f7d720d047cfb1d7a1527482451590a4f31f932b6d71
+machine_hash: d813f184726d29c4fafada7bca11b6ef9f12258e444bd89f4b3a6f690165b9a3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   - quote: For more details about the canvas feature in ChatGPT, check out the following
       Help Center article!
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -35,7 +35,7 @@ record:
   source_type: chatgpt_changelog
   theme: file-data
   title: For more details about the canvas feature in ChatGPT, check out the following
-    He
+    Help…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-01-15-edit-a-full-model-response-in-canvas|chatgpt-2025-01-15-1662f4]]'
@@ -45,11 +45,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2025-02-06-canvas-sharing-5abe3818|c
 source_type: chatgpt_changelog
 theme: file-data
 title: For more details about the canvas feature in ChatGPT, check out the following
-  He
+  Help…
 type: change
 ---
 
-# For more details about the canvas feature in ChatGPT, check out the following He
+# For more details about the canvas feature in ChatGPT, check out the following Help…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Canvas sharing: For more details about the canvas feature in ChatGPT, check out the following Help Center article!

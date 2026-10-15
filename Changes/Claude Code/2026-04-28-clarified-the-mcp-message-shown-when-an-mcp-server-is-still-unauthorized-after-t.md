@@ -11,9 +11,9 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d5069e03d40cc8390d96e635d26fe5953f7820dff0aaeab3adcf482d4b3ad221
+machine_hash: 1364b3724f11a8bc747badee57d39d9c957b1a7564443f4e5df89ec970b0f1e2
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Clarified the `/mcp` message shown when an MCP server is still unauthorized
       after the browser sign-in flow
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.122
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -45,7 +45,7 @@ record:
     theme: apps-integrations
   theme_resolution: manual-semantic-rule-v1
   title: Clarified the `/mcp` message shown when an MCP server is still unauthorized
-    afte
+    after…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-04-added-interactive-bedrock-setup-wizard-accessible-from-the-login-screen-when-sel|claude-code-2026-04-04-a16052]]'
@@ -54,11 +54,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-28-v2-1-122-github-314740479-0cc42196|claude-code-2026-04-28-v2-1-122-github-314740479-0cc42196]]'
 source_type: github_releases
 theme: account-access
-title: Clarified the /mcp message shown when an MCP server is still unauthorized afte
+title: Clarified the /mcp message shown when an MCP server is still unauthorized after…
 type: change
 ---
 
-# Clarified the `/mcp` message shown when an MCP server is still unauthorized afte
+# Clarified the `/mcp` message shown when an MCP server is still unauthorized after…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.122: Clarified the `/mcp` message shown when an MCP server is still unauthorized after the browser sign-in flow

@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-08-21'
-machine_hash: b2a00403ec1cf038fe5acc6e4ae07d4c62aca1806b2dc282a1eb85ab8a32ba00
+machine_hash: 5d8b9157a0de26f91a9f409a938d417303b3064a703e33b9f8e6054ce20836c5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,5 +39,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- memory: [[Changes/ChatGPT/2023-08-21-custom-instructions-are-now-available-to-users-in-the-european-union-united-king-cfc1d5|Custom instructions are now available to users in the European Union United King]]
+- memory: [[Changes/ChatGPT/2023-08-21-custom-instructions-are-now-available-to-users-in-the-european-union-united-king-cfc1d5|Custom instructions are now available to users in the European Union United Kingdom]]
 <!-- chronolog:end -->

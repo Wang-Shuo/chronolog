@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a3076a89698ff3dcb5a00ed13f24c2ea339539d899b9abb95a08f492635ba043
+machine_hash: 4a521ae9032d2411164df8b173846b88e08d27568c3b69e1a513cc1907c923df
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       desktop app on macOS. It is off by default and requires Memories. Learn more
       about Computer History.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -48,8 +48,7 @@ record:
     - memories
     score: 50
     theme: memory
-  title: Use Computer History in more regions. Computer History is now available in
-    the E
+  title: Use Computer History in more regions
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-08-10-chatgpt-can-now-help-you-find-available-restaurant-reservations-with-opentable-r|chatgpt-2026-08-10-7c31a4]]'
@@ -58,12 +57,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574|chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: Use Computer History in more regions. Computer History is now available in
-  the E
+title: Use Computer History in more regions
 type: change
 ---
 
-# Use Computer History in more regions. Computer History is now available in the E
+# Use Computer History in more regions
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Codex and ChatGPT feature updates: Use Computer History in more regions. Computer History is now available in the EEA, Switzerland, and the United Kingdom for Pro users in the ChatGPT desktop app on macOS. It is off by default and requires Memories. Learn more about Computer History.

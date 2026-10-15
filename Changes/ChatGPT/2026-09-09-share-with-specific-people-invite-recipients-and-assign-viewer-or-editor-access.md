@@ -11,9 +11,9 @@ diffusion:
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ca98517a9fea1c5a37c5bb7bd3d8ed518c0ae733654785974e7627e122bb209e
+machine_hash: 28a4d4225827231635e3ac7df31c4b9aa18937201dc609f23b23fd22bef0b598
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Share with specific people. Invite recipients and assign Viewer or Editor
       access.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -36,8 +36,7 @@ record:
   theme: collaboration
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: Share with specific people. Invite recipients and assign Viewer or Editor
-    access
+  title: Share with specific people
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-08-31-share-your-stickers-in-messaging-apps-download-your-pack-or-add-it-to-imessage-o|chatgpt-2026-08-31-30dd60]]'
@@ -46,11 +45,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-09-share-files-and-folders-from-your-library-37c26e4d|chatgpt-2026-09-09-share-files-and-folders-from-your-library-37c26e4d]]'
 source_type: chatgpt_changelog
 theme: collaboration
-title: Share with specific people. Invite recipients and assign Viewer or Editor access
+title: Share with specific people
 type: change
 ---
 
-# Share with specific people. Invite recipients and assign Viewer or Editor access
+# Share with specific people
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Share files and folders from your Library: Share with specific people. Invite recipients and assign Viewer or Editor access.

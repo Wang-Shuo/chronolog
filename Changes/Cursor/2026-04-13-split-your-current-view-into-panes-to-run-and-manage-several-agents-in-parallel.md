@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4376acf8560726f314a928aa26138785ecb9e4909ed50bc1165ccc6d83b818da
+machine_hash: ee642118d7f37beb5f3efcd7331eece404ca3c22f3c3dfe65990a773843872a5
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
       parallel. The tiled layout makes it easier to multi-task and compare outputs
       across agents without jumping between tabs.
     source_release: https://cursor.com/changelog/3-1
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,7 +37,7 @@ record:
   source_release: cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313
   source_type: cursor_changelog
   theme: agent-mode
-  title: Split your current view into panes to run and manage several agents in parallel.
+  title: Split your current view into panes to run and manage several agents in parallel
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-09-added-monitor-tool-for-streaming-events-from-background-scripts|claude-code-2026-04-09-0c963d]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313|cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: Split your current view into panes to run and manage several agents in parallel.
+title: Split your current view into panes to run and manage several agents in parallel
 type: change
 ---
 
-# Split your current view into panes to run and manage several agents in parallel.
+# Split your current view into panes to run and manage several agents in parallel
 
 <!-- chronolog:begin region="description" -->
 Cursor — Tiled Layout and Upgraded Voice Input in the Agents Window: Split your current view into panes to run and manage several agents in parallel. The tiled layout makes it easier to multi-task and compare outputs across agents without jumping between tabs.

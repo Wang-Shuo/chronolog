@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a718b629f1bda661e2832cc510771641c98dc79bd4a3c034a6b64bbae04199c3
+machine_hash: 9c9ad3e78e60a5523e1c90d3352fcc4d6cc8e4f9026c7d9dd9a8fd74e80a29ec
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `/reload-plugins` to headless sessions, so it appears in the Claude
       Code Desktop and SDK command lists
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.260
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -45,7 +45,7 @@ record:
     theme: mobile-desktop
   theme_resolution: manual-semantic-rule-v1
   title: Added `/reload-plugins` to headless sessions, so it appears in the Claude
-    Code D
+    Code…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-09-03-today-we-added-the-zendesk-and-onenote-plugins-in-the-plugin-directory-the-zende|chatgpt-2026-09-03-1f24d3]]'
@@ -54,12 +54,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc|claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added /reload-plugins to headless sessions, so it appears in the Claude Code
-  D
+title: Added /reload-plugins to headless sessions, so it appears in the Claude Code…
 type: change
 ---
 
-# Added `/reload-plugins` to headless sessions, so it appears in the Claude Code D
+# Added `/reload-plugins` to headless sessions, so it appears in the Claude Code…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.260: Added `/reload-plugins` to headless sessions, so it appears in the Claude Code Desktop and SDK command lists

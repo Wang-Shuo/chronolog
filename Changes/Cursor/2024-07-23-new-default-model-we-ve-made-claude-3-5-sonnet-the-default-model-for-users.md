@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 48c360866b06842d312b1a9a5e03bb8c1051d2820c70c2bc37d7e1a21dd67aef
+machine_hash: 2a3f514bf4f3d67bba8cdcc95cc4911a070bd9b22a760097233141355885c86a
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
   - quote: 'New Default Model: We''ve made Claude 3.5 Sonnet the default model for
       users.'
     source_release: https://cursor.com/changelog/0-38-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -38,7 +38,7 @@ record:
   theme: model-support
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: 'New Default Model: We''ve made Claude 3.5 Sonnet the default model for users.'
+  title: 'New Default Model: We''ve made Claude 3.5 Sonnet the default model for users'
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-05-26-gemini-1-5-flash-is-available-in-long-context-mode|cursor-2024-05-26-2f147d]]'
@@ -47,11 +47,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-07-23-0-38-x-https-cursor-com-changelog-0-38-x-e6d087df|cursor-2024-07-23-0-38-x-https-cursor-com-changelog-0-38-x-e6d087df]]'
 source_type: cursor_changelog
 theme: model-support
-title: 'New Default Model: We''ve made Claude 3.5 Sonnet the default model for users.'
+title: 'New Default Model: We''ve made Claude 3.5 Sonnet the default model for users'
 type: change
 ---
 
-# New Default Model: We've made Claude 3.5 Sonnet the default model for users.
+# New Default Model: We've made Claude 3.5 Sonnet the default model for users
 
 <!-- chronolog:begin region="description" -->
 Cursor — Copilot++ Chunked Streaming (beta), Composer improvements: New Default Model: We've made Claude 3.5 Sonnet the default model for users.

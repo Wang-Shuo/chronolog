@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 53d3bb30c73348254c6a32e66d8b4cd77039b7cd90f45fd6af37108dc73ccc56
+machine_hash: 2cf685a0ff297f567cbde480779153d2eb0357849c3ca2ecb8c7713fd4709d55
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: 'More chat symbol links: When the chat references a code symbol, you''ll
       often be able to click directly to it.'
     source_release: https://cursor.com/changelog/0-23-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,8 +37,7 @@ record:
   theme: editor-experience
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: 'More chat symbol links: When the chat references a code symbol, you''ll
-    often be'
+  title: More chat symbol links
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-12-31-you-can-now-use-chat-and-cmd-k-in-the-aux-window-without-too-many-problems|cursor-2023-12-31-0890c3]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-01-18-0-23-x-https-cursor-com-changelog-0-23-x-c0ec65fe|cursor-2024-01-18-0-23-x-https-cursor-com-changelog-0-23-x-c0ec65fe]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: 'More chat symbol links: When the chat references a code symbol, you''ll often
-  be'
+title: More chat symbol links
 type: change
 ---
 
-# More chat symbol links: When the chat references a code symbol, you'll often be
+# More chat symbol links
 
 <!-- chronolog:begin region="description" -->
 Cursor — New Model, Apply Button v2: More chat symbol links: When the chat references a code symbol, you'll often be able to click directly to it.

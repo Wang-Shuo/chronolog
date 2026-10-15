@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9c079a93bc6ed0a03b5e45fe7666664646c69f0d06fc228385b30da8e7623bbf
+machine_hash: d9cf1dbaeb8d22a7a72a22991aac709708f1ee51cc8d5ff0e648f3a2b581f048
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,7 +34,7 @@ record:
       starting to roll out to all paid (Plus, Team, Enterprise, and Edu) users today,
       and expect it to take a few days.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -65,7 +65,7 @@ record:
     - enterprise
     score: 50
     theme: enterprise-admin
-  title: Starting today, we’re beginning to roll out Advanced Voice Mode on web (already
+  title: Starting today, we’re beginning to roll out Advanced Voice Mode on web…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-07-25-chatgpt-for-android-is-now-available-for-download-in-the-united-states-india-ban-6b21e9|chatgpt-2023-07-25-6b21e9]]'
@@ -74,11 +74,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2024-11-19-advanced-voice-for-chatgpt-web-e7868264|chatgpt-2024-11-19-advanced-voice-for-chatgpt-web-e7868264]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: Starting today, we’re beginning to roll out Advanced Voice Mode on web (already
+title: Starting today, we’re beginning to roll out Advanced Voice Mode on web…
 type: change
 ---
 
-# Starting today, we’re beginning to roll out Advanced Voice Mode on web (already
+# Starting today, we’re beginning to roll out Advanced Voice Mode on web…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Advanced Voice for ChatGPT Web: Starting today, we’re beginning to roll out Advanced Voice Mode on web (already available on mobile and desktop apps). You can now start a voice chat on chatgpt.com on your desktop and have real-time, natural conversations with ChatGPT while doing tasks like shopping, planning, writing, and brainstorming.We’re starting to roll out to all paid (Plus, Team, Enterprise, and Edu) users today, and expect it to take a few days.

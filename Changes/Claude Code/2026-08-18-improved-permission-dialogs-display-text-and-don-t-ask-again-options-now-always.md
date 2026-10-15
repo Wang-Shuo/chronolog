@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e0e1e815c886db51a2f4434cf0ec50183dc36866b85aeb984f2f6ba9c8aa91bd
+machine_hash: a625cde5a1043d75600e669a1235a2f14137993f3acfbfcfba31165ccdb9cdda
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       now always match what a grant would cover, and "don''t ask again" is withheld
       when contents cannot be fully displayed'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.235
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,8 +38,7 @@ record:
   theme: safety-privacy
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: 'Improved permission dialogs: display text and "don''t ask again" options
-    now alwa'
+  title: Improved permission dialogs
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-08-added-a-workspace-trust-prompt-to-claude-agents-for-untrusted-directories-matchi|claude-code-2026-08-08-d35e2a]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-08-18-v2-1-235-github-372521030-3c3fae7f|claude-code-2026-08-18-v2-1-235-github-372521030-3c3fae7f]]'
 source_type: github_releases
 theme: safety-privacy
-title: 'Improved permission dialogs: display text and "don''t ask again" options now
-  alwa'
+title: Improved permission dialogs
 type: change
 ---
 
-# Improved permission dialogs: display text and "don't ask again" options now alwa
+# Improved permission dialogs
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.235: Improved permission dialogs: display text and "don't ask again" options now always match what a grant would cover, and "don't ask again" is withheld when contents cannot be fully displayed

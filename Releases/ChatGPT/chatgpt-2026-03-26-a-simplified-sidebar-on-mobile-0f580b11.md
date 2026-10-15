@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-03-26'
-machine_hash: 0580ed338ba06271f5cdcb0beabfd49ed250313753da151aa096419dd94a6f55
+machine_hash: d9fcf5d234322e719ba26ae7eaeb82582855b1725ef3944b01e7b4b06f668359
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- mobile-desktop: [[Changes/ChatGPT/2026-03-26-to-give-you-more-space-to-view-your-most-critical-chats-and-projects-the-sidebar|To give you more space to view your most critical chats and projects, the sideba]]
+- mobile-desktop: [[Changes/ChatGPT/2026-03-26-to-give-you-more-space-to-view-your-most-critical-chats-and-projects-the-sidebar|To give you more space to view your most critical chats and projects, the sidebar…]]
 <!-- chronolog:end -->

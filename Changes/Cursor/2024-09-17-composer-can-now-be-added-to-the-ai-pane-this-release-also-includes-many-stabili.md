@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 69313fc2fc1546f7563fb96664104c3a8cb8f72a0f268f0169edc2b736038b44
+machine_hash: e4d6f7b2cb3dbb908d22276fc0c4ad3368e42e318c60b4b53ff85cfa95db9eaf
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
   - quote: Composer can now be added to the AI pane. This release also includes many
       stability fixes and image support!
     source_release: https://cursor.com/changelog/0-41-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -37,8 +37,7 @@ record:
   source_release: cursor-2024-09-17-0-41-x-https-cursor-com-changelog-0-41-x-a8b13ea8
   source_type: cursor_changelog
   theme: reliability-performance
-  title: Composer can now be added to the AI pane. This release also includes many
-    stabil
+  title: Composer can now be added to the AI pane
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-08-02-faster-cursor-tab-suggestions|cursor-2024-08-02-db9b41]]'
@@ -47,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-09-17-0-41-x-https-cursor-com-changelog-0-41-x-a8b13ea8|cursor-2024-09-17-0-41-x-https-cursor-com-changelog-0-41-x-a8b13ea8]]'
 source_type: cursor_changelog
 theme: reliability-performance
-title: Composer can now be added to the AI pane. This release also includes many stabil
+title: Composer can now be added to the AI pane
 type: change
 ---
 
-# Composer can now be added to the AI pane. This release also includes many stabil
+# Composer can now be added to the AI pane
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cursor Tab Python Auto Import, Composer Improvements, Remote SSH to Mac Support: Composer can now be added to the AI pane. This release also includes many stability fixes and image support!

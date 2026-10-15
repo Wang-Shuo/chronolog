@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4e73ba8859ead67ef56eb644ca492fe9aea53529ec3a1536cdab95d572b35e07
+machine_hash: d07d1af21f991b400fec9a1b93034be7462ddf54988e0f4f38454684b5c725a7
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Added an optional `headers:` map on Claude apps gateway upstreams, to send
       static headers to a proxy you run in front of a provider
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.277
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,7 +36,7 @@ record:
   source_type: github_releases
   theme: apps-integrations
   title: Added an optional `headers:` map on Claude apps gateway upstreams, to send
-    stati
+    static…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-17-added-claude-code-mcp-startup-wait-ms-to-bound-how-long-the-first-non-interactiv|claude-code-2026-09-17-4b0f38]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-18-v2-1-277-github-391616593-06a20f36|claude-code-2026-09-18-v2-1-277-github-391616593-06a20f36]]'
 source_type: github_releases
 theme: apps-integrations
-title: 'Added an optional headers: map on Claude apps gateway upstreams, to send stati'
+title: 'Added an optional headers: map on Claude apps gateway upstreams, to send static…'
 type: change
 ---
 
-# Added an optional `headers:` map on Claude apps gateway upstreams, to send stati
+# Added an optional `headers:` map on Claude apps gateway upstreams, to send static…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.277: Added an optional `headers:` map on Claude apps gateway upstreams, to send static headers to a proxy you run in front of a provider

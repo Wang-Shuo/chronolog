@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: de87b657793da4ba4dd449be21decde569fa8e704efdfad9dd8ab6174ef606cf
+machine_hash: 394dbf56828c4d4a7f98d804bb5243d6ed770e4af3ea60b102187558a9fcc731
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Improved the extended-thinking indicator with a rotating progress hint
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.109
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

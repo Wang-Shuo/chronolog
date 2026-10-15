@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: e878109f36a3232d062fdd449dac1f6b2bd91e6353927091e2024fe7d7c89444
+machine_hash: 92195bf1754d25b89677aa742fc692e14e8b1ec1abace87842d40502111c6d20
 product: cursor
 product_name: Cursor
 record:
@@ -30,7 +30,7 @@ record:
       and sends it to the right model for the job. Frontier models handle work that
       demands them. Price-efficient models handle the rest.
     source_release: https://cursor.com/changelog/router
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -38,8 +38,7 @@ record:
   source_release: cursor-2026-07-22-cursor-router-https-cursor-com-changelog-router-af8c2ac4
   source_type: cursor_changelog
   theme: model-support
-  title: Cursor Router is our intelligent model router. It analyzes each request and
-    send
+  title: Cursor Router is our intelligent model router
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-03-claude-sonnet-5-sessions-no-longer-use-the-mid-conversation-system-role-for-harn|claude-code-2026-07-03-8405a6]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-07-22-cursor-router-https-cursor-com-changelog-router-af8c2ac4|cursor-2026-07-22-cursor-router-https-cursor-com-changelog-router-af8c2ac4]]'
 source_type: cursor_changelog
 theme: model-support
-title: Cursor Router is our intelligent model router. It analyzes each request and
-  send
+title: Cursor Router is our intelligent model router
 type: change
 ---
 
-# Cursor Router is our intelligent model router. It analyzes each request and send
+# Cursor Router is our intelligent model router
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cursor Router: Cursor Router is our intelligent model router. It analyzes each request and sends it to the right model for the job. Frontier models handle work that demands them. Price-efficient models handle the rest.

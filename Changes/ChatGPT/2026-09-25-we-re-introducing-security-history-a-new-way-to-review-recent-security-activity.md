@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: f77fcb7fdcfe5434c48c530aafca18e6cbcaee8555a98d4c50ebd8bdc6424b29
+machine_hash: 391f287a9a56cdb80418611193cc2d1f0708084fe4df03c40fe3219e3719f8cd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,7 +34,7 @@ record:
       Events include the time, location, and device details. Some details may be approximate
       or unavailable.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -52,7 +52,8 @@ record:
     score: 50
     theme: safety-privacy
   theme_resolution: manual-semantic-rule-v1
-  title: We’re introducing security history, a new way to review recent security activity
+  title: ChatGPT introduces security history, a new way to review recent security
+    activity…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-09-21-privacy-center-is-rolling-out-to-signed-in-chatgpt-free-go-plus-and-pro-users-it|chatgpt-2026-09-21-1ea729]]'
@@ -61,11 +62,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-25-security-history-in-chatgpt-5ecdb0cb|chatgpt-2026-09-25-security-history-in-chatgpt-5ecdb0cb]]'
 source_type: chatgpt_changelog
 theme: safety-privacy
-title: We’re introducing security history, a new way to review recent security activity
+title: ChatGPT introduces security history, a new way to review recent security activity…
 type: change
 ---
 
-# We’re introducing security history, a new way to review recent security activity
+# ChatGPT introduces security history, a new way to review recent security activity…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Security history in ChatGPT: We’re introducing security history, a new way to review recent security activity for your OpenAI account. You can see sign-ins, sign-outs, and changes to multi-factor authentication (MFA), passkeys, and other security settings. Events include the time, location, and device details. Some details may be approximate or unavailable.

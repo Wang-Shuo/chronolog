@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 026460f9d921247118bab48abfe6c1936150d1db132f1f3b3cb2cbdbec870d43
+machine_hash: eec30477a536f87b822743ad99db72b42eb8ef064f73615ec8ff03811ed92c65
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: We've transitioned to building Cursor on top of a fork of VSCodium, moving
       away from our previous Codemirror-based approach.
     source_release: https://cursor.com/changelog/0-2-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -38,7 +38,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: We've transitioned to building Cursor on top of a fork of VSCodium, moving
-    away
+    away…
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-04-06-while-currently-similar-to-a-standard-code-editor-with-ai-features-we-plan-to-ev|cursor-2023-04-06-05a6a3]]'
@@ -48,11 +48,11 @@ source_release: '[[Releases/Cursor/cursor-2023-04-06-0-2-0-https-cursor-com-chan
 source_type: cursor_changelog
 theme: editor-experience
 title: We've transitioned to building Cursor on top of a fork of VSCodium, moving
-  away
+  away…
 type: change
 ---
 
-# We've transitioned to building Cursor on top of a fork of VSCodium, moving away
+# We've transitioned to building Cursor on top of a fork of VSCodium, moving away…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Introducing Cursor 0.2.0! (2023-04-06): We've transitioned to building Cursor on top of a fork of VSCodium, moving away from our previous Codemirror-based approach.

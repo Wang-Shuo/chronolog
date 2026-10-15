@@ -11,9 +11,9 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 128d143731f05d0c4363c39d3aef67aacd712e1125c77e7c3303906357a1f7a7
+machine_hash: a70f7c4ebe8b21e61dabd431a279764d795bde4b11c1003c685ea52e582a6abc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   evidence:
   - quote: Refer back to earlier messages without interrupting the conversation
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT

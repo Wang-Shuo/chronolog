@@ -11,9 +11,9 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: cf710aa21dda4e3df13e9dd4551b0b73c38b543c99a98dff43ced03806271a3a
+machine_hash: 83a54d4c10547ae9c41730e74759825908e5b592e02c62d39aebef25ecf18bb8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: We’re introducing a new $100/month Pro plan and updating how Codex usage
       works across Plus and Pro.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -39,7 +39,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: We’re introducing a new $100/month Pro plan and updating how Codex usage
-    works a
+    works…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-03-19-fast-default-1-50-m-input-7-50-m-output-tokens|cursor-2026-03-19-425e73]]'
@@ -48,12 +48,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2|chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2]]'
 source_type: chatgpt_changelog
 theme: pricing-model
-title: We’re introducing a new $100/month Pro plan and updating how Codex usage works
-  a
+title: We’re introducing a new $100/month Pro plan and updating how Codex usage works…
 type: change
 ---
 
-# We’re introducing a new $100/month Pro plan and updating how Codex usage works a
+# We’re introducing a new $100/month Pro plan and updating how Codex usage works…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — New Pro plan options: We’re introducing a new $100/month Pro plan and updating how Codex usage works across Plus and Pro.

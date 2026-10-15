@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 2f8f1434e89af7e7de1a7de2ce6587b15e9a0f5df7bf53208988dba9df065cb7
+machine_hash: 165ea7040885ca46ac6f82ba54f7ca827f6b75af9dd4dd9aa8f83744f8db5be3
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `skipLfs` option to `github`/`git` plugin marketplace sources to
       skip Git LFS downloads during clone and update
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.153
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,7 +35,7 @@ record:
   source_type: github_releases
   theme: apps-integrations
   title: Added `skipLfs` option to `github`/`git` plugin marketplace sources to skip
-    Git
+    Git LFS…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-22-enterprise-added-the-allowallclaudeaimcps-managed-setting-to-load-claude-ai-clou|claude-code-2026-05-22-f593da]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-28-v2-1-153-github-330532213-2fa9c18a|claude-code-2026-05-28-v2-1-153-github-330532213-2fa9c18a]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added skipLfs option to github/git plugin marketplace sources to skip Git
+title: Added skipLfs option to github/git plugin marketplace sources to skip Git LFS…
 type: change
 ---
 
-# Added `skipLfs` option to `github`/`git` plugin marketplace sources to skip Git
+# Added `skipLfs` option to `github`/`git` plugin marketplace sources to skip Git LFS…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.153: Added `skipLfs` option to `github`/`git` plugin marketplace sources to skip Git LFS downloads during clone and update

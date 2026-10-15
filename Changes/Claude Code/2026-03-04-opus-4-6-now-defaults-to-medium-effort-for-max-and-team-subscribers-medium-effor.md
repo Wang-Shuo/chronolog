@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: d98e1e3cd40036be3ff775897c6f6a4a7c3fc3f6196bcf59dff791052895c7f5
+machine_hash: ad9a9a60ff9f89afe08222beef23bf1bb12f14a1dafe2e26bcfb615f573f247d
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       effort works well for most tasks — it's the sweet spot between speed and thoroughness.
       You can change this anytime with `/model`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.68
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -53,8 +53,7 @@ record:
     score: 50
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v2
-  title: Opus 4.6 now defaults to medium effort for Max and Team subscribers. Medium
-    effo
+  title: Opus 4.6 now defaults to medium effort for Max and Team subscribers
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-19-sonnet-4-5-with-1m-context-is-being-removed-from-the-max-plan-in-favor-of-our-fr|claude-code-2026-02-19-e0fe0f]]'
@@ -63,12 +62,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-04-v2-1-68-github-292908895-c7aaa3de|claude-code-2026-03-04-v2-1-68-github-292908895-c7aaa3de]]'
 source_type: github_releases
 theme: model-support
-title: Opus 4.6 now defaults to medium effort for Max and Team subscribers. Medium
-  effo
+title: Opus 4.6 now defaults to medium effort for Max and Team subscribers
 type: change
 ---
 
-# Opus 4.6 now defaults to medium effort for Max and Team subscribers. Medium effo
+# Opus 4.6 now defaults to medium effort for Max and Team subscribers
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.68: Opus 4.6 now defaults to medium effort for Max and Team subscribers. Medium effort works well for most tasks — it's the sweet spot between speed and thoroughness. You can change this anytime with `/model`

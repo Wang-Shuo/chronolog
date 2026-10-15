@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2026-02-12'
-machine_hash: 160439365f6bb3fdb6b0e5bf29ed3408b713d7c54afb11c60257e41b243c0336
+machine_hash: 6ee62305227453e854e64f8b0674c26569c0ecde9e2af20f9f1b96eb5d5b7e7a
 product: cursor
 product_name: Cursor
 record:
@@ -40,7 +40,7 @@ Tracked cards: 3
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- agent-mode: [[Changes/Cursor/2026-02-12-cursor-s-long-running-agent-is-now-available-at-cursor-com-agents-for-ultra-team|Cursor's long-running agent is now available at cursor.com/agents for Ultra, Tea]]
-- agent-mode: [[Changes/Cursor/2026-02-12-in-research-preview-and-internal-testing-long-running-agents-completed-work-that|In research preview and internal testing, long-running agents completed work tha]]
-- agent-mode: [[Changes/Cursor/2026-02-12-cursor-can-now-work-autonomously-over-longer-horizons-to-complete-larger-more-co|Cursor can now work autonomously over longer horizons to complete larger, more c]]
+- agent-mode: [[Changes/Cursor/2026-02-12-cursor-s-long-running-agent-is-now-available-at-cursor-com-agents-for-ultra-team|Cursor's long-running agent is now available at cursor.com/agents for Ultra, Teams…]]
+- agent-mode: [[Changes/Cursor/2026-02-12-in-research-preview-and-internal-testing-long-running-agents-completed-work-that|In research preview and internal testing, long-running agents completed work…]]
+- agent-mode: [[Changes/Cursor/2026-02-12-cursor-can-now-work-autonomously-over-longer-horizons-to-complete-larger-more-co|Cursor can now work autonomously over longer horizons to complete larger, more…]]
 <!-- chronolog:end -->

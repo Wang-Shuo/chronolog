@@ -11,9 +11,9 @@ diffusion:
   theme: search-browsing
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f8443ce1a9a14c244b32fb8e09de1516bcf859745eff26b4e54db14d668af5a6
+machine_hash: bef74e50adaa81466b1a49210c2b56096ce31c65c6d52bf1d3811094f7d67013
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       up-to-date responses. In testing, we found users preferred these search improvements
       over our previous search experience.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -39,7 +39,7 @@ record:
   theme: search-browsing
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: We’ve upgraded ChatGPT search for all users to provide even more comprehensive,
+  title: We’ve upgraded ChatGPT search for all users to provide even more comprehensive…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-05-15-chatgpt-deep-research-with-dropbox-is-available-globally-to-team-users-it-is-als-eaf8af|chatgpt-2025-05-15-eaf8af]]'
@@ -48,11 +48,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-13-improvements-to-the-chatgpt-search-response-quality-2791e464|chatgpt-2025-06-13-improvements-to-the-chatgpt-search-response-quality-2791e464]]'
 source_type: chatgpt_changelog
 theme: search-browsing
-title: We’ve upgraded ChatGPT search for all users to provide even more comprehensive,
+title: We’ve upgraded ChatGPT search for all users to provide even more comprehensive…
 type: change
 ---
 
-# We’ve upgraded ChatGPT search for all users to provide even more comprehensive,
+# We’ve upgraded ChatGPT search for all users to provide even more comprehensive…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Improvements to the ChatGPT search response quality: We’ve upgraded ChatGPT search for all users to provide even more comprehensive, up-to-date responses. In testing, we found users preferred these search improvements over our previous search experience.

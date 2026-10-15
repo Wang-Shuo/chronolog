@@ -11,9 +11,9 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 2c9d7162a2b7f2c2e82434fe42de274baff8d2af7caaeed362c96b7c8e3d26ff
+machine_hash: 5d9b09b2a366b6e88ce9a678d59d14f93ba3e0c25599b421b770b7ae6a8446d2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,7 +39,7 @@ record:
       richer and more contextual by pairing spoken answers with visual context. You
       can:'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -62,7 +62,7 @@ record:
     score: 50
     theme: context-window
   title: We’re making ChatGPT Voice a seamless part of the ChatGPT experience, so
-    you can
+    you can use…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-09-29-turn-off-voice-mode-to-remove-the-option-to-use-voice-mode-in-chatgpt|chatgpt-2025-09-29-9d6772]]'
@@ -72,11 +72,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2025-11-25-an-improved-voice-interfa
 source_type: chatgpt_changelog
 theme: voice
 title: We’re making ChatGPT Voice a seamless part of the ChatGPT experience, so you
-  can
+  can use…
 type: change
 ---
 
-# We’re making ChatGPT Voice a seamless part of the ChatGPT experience, so you can
+# We’re making ChatGPT Voice a seamless part of the ChatGPT experience, so you can use…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — An improved Voice interface: the audio you know, with text and visuals when you need them.: We’re making ChatGPT Voice a seamless part of the ChatGPT experience, so you can use voice right inside the chat interface you already use every day—no separate mode required.Many of you have asked for a more flexible Voice experience—now, you can speak, listen, and see your conversation at the same time. Answers will be spoken alongside streamed text, image search results, widgets (maps, weather, etc.) and more—right in the same chat thread.This makes voice chats clearer, richer and more contextual by pairing spoken answers with visual context. You can:

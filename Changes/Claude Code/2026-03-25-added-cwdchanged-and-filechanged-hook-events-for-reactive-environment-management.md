@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e64497eac6c364051ccb9daf7270140f66d46fd8534fb7246d3d4f5803be5279
+machine_hash: 22b8c56bc757a03d86b229d0d3e67b8d00f651e9d54a945f5c7cedcbbe0be5b1
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `CwdChanged` and `FileChanged` hook events for reactive environment
       management (e.g., direnv)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.83
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: Added `CwdChanged` and `FileChanged` hook events for reactive environment
-    manage
+    management…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-20-improved-mcp-read-search-tool-calls-to-collapse-into-a-single-queried-server-lin|claude-code-2026-03-20-a75158]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317|claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added CwdChanged and FileChanged hook events for reactive environment manage
+title: Added CwdChanged and FileChanged hook events for reactive environment management…
 type: change
 ---
 
-# Added `CwdChanged` and `FileChanged` hook events for reactive environment manage
+# Added `CwdChanged` and `FileChanged` hook events for reactive environment management…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.83: Added `CwdChanged` and `FileChanged` hook events for reactive environment management (e.g., direnv)

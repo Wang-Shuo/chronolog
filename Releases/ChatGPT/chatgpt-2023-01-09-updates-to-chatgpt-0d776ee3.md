@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2023-01-09'
-machine_hash: bda04e27ee170fb161344fe6ab1f104944c16aa6fb11312da39439aa15933cf6
+machine_hash: 7c1682d693a166d3efacc9a3755d4344e6b4b55f03cdd18ac3c095c072da7d8e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,6 +39,6 @@ Tracked cards: 2
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- interface-experience: [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generat]]
-- model-support: [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We made more improvements to the ChatGPT model! It should be generally better ac]]
+- interface-experience: [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- model-support: [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We made more improvements to the ChatGPT model!]]
 <!-- chronolog:end -->

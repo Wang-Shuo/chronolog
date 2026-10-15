@@ -1,6 +1,7 @@
 """Fixed semantic expectations and publication regressions, not a human sign-off."""
 import gzip
 import json
+import re
 from collections import Counter
 from pathlib import Path
 
@@ -142,3 +143,35 @@ def test_sdk_examples_are_not_changes_but_release_prose_survives():
     assert any('introducing the Cursor SDK' in c['evidence'][0]['quote'] for c in cards)
     from _scripts.extract import split_release_lines
     assert split_release_lines('```typescript\nAgent.create({model: "test"});\n```\nAgent now supports remote execution.') == ['Agent now supports remote execution.']
+
+
+# Vendor openings that card_title rewrites with an explicit rule. Other first-person
+# openings ("We're retiring ...") intentionally keep the vendor's wording.
+EXPLICIT_VENDOR_OPENING_RE = re.compile(
+    r"^(?:good news!|you can now |this release (?:introduces|brings|adds|includes|makes) |"
+    r"(?:today,? )?we(?:[’']re| are) (?:introducing|launching|rolling out|expanding|adding) |"
+    r"(?:today,? )?we(?:[’']ve| have) (?:also )?added |"
+    r"(?:today,? )?we[’']ve (?:also )?(?:improved|updated|fixed|made|expanded|changed) |"
+    r"(?:today,? )?we(?:[’']re| are) (?:now )?(?:excited|happy|thrilled) to "
+    r"(?:(?:announce|share) that|introduce|launch|announce|bring|expand) )",
+    re.I,
+)
+COORDINATED_GERUND = re.compile(r" and (?:also )?\w+ing\b")
+
+
+def test_every_m2_card_title_is_readable_and_bounded():
+    from _scripts.extract import _first_sentence
+    payload, themes, review = inputs()
+    cards = [c for r in payload['releases'] for c in extract_cards_from_release(r, themes, review)]
+    assert len(cards) > 1900
+    for card in cards:
+        title = card['title']
+        assert len(title) <= 90, title
+        assert title == title.strip(), title
+        assert not title.endswith(('.', ':')), title
+        if title.endswith('…'):
+            assert title[-2].isalnum() or title[-2] in ")`'", title
+        assert title.count('`') % 2 == 0, title
+        if EXPLICIT_VENDOR_OPENING_RE.match(title):
+            # Only a coordinated gerund ("introducing X and updating Y") blocks the rewrite.
+            assert COORDINATED_GERUND.search(_first_sentence(card['evidence'][0]['quote'])), title

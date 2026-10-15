@@ -11,9 +11,9 @@ diffusion:
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 3d6bb5e0f086a5a897d72a73129cc8bc3836dd689eddcbe2b26e738c67a1fdbc
+machine_hash: 5dc27f937647ea4551d756b297b57f66ec0cf31669b1fb7342c6ce9fad7cf412
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: You can now share agent conversations with your team.
     source_release: https://cursor.com/changelog/enterprise-dec-2025
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -45,7 +45,7 @@ record:
     score: 50
     theme: collaboration
   theme_resolution: manual-semantic-rule-v1
-  title: You can now share agent conversations with your team.
+  title: Share agent conversations with your team
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-08-11-plus-box-canva-dropbox-hubspot-notion-microsoft-sharepoint-and-microsoft-teams|chatgpt-2025-08-11-5966c6]]'
@@ -54,11 +54,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-12-18-enterprise-insights-billing-groups-service-accounts-and-improved-23eccccb|cursor-2025-12-18-enterprise-insights-billing-groups-service-accounts-and-improved-23eccccb]]'
 source_type: cursor_changelog
 theme: collaboration
-title: You can now share agent conversations with your team.
+title: Share agent conversations with your team
 type: change
 ---
 
-# You can now share agent conversations with your team.
+# Share agent conversations with your team
 
 <!-- chronolog:begin region="description" -->
 Cursor — Enterprise Insights, Billing Groups, Service Accounts, and Improved Security Controls: You can now share agent conversations with your team.

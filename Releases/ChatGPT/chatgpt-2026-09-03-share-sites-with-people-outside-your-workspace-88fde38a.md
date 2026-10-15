@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-09-03'
-machine_hash: 38b7effa8b9e23d457e5aca36244254de841b889ca3cf3a38d9225f7eb8f174d
+machine_hash: fd6fc58eed74f41550d7cccdcbebac53a783ee8d64d312ca3370ea7b1353fb48
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- collaboration: [[Changes/ChatGPT/2026-09-03-eligible-site-owners-can-now-share-a-live-chatgpt-site-with-named-people-outside|Eligible Site owners can now share a live ChatGPT Site with named people outside]]
+- collaboration: [[Changes/ChatGPT/2026-09-03-eligible-site-owners-can-now-share-a-live-chatgpt-site-with-named-people-outside|Eligible Site owners can now share a live ChatGPT Site with named people outside…]]
 <!-- chronolog:end -->

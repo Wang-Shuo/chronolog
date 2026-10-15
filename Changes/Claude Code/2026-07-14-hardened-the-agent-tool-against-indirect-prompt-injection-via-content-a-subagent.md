@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 11b277ae5b23730ff20bdc6e4da58858861b8af03e4c8186759545191058c0a2
+machine_hash: 044fdd674c3b9db1106320732d04ae46cb537492457b6cdbf640274e2406e4da
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Hardened the Agent tool against indirect prompt injection via content a
       subagent read
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.210
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code
@@ -37,6 +37,7 @@ record:
   source_type: github_releases
   theme: agent-mode
   title: Hardened the Agent tool against indirect prompt injection via content a subagent
+    read
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-07-10-this-release-makes-it-easier-to-stay-in-flow-with-side-chats-that-run-alongside|cursor-2026-07-10-90d48c]]'
@@ -46,10 +47,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-07-14-v2-1-210-github-3
 source_type: github_releases
 theme: agent-mode
 title: Hardened the Agent tool against indirect prompt injection via content a subagent
+  read
 type: change
 ---
 
-# Hardened the Agent tool against indirect prompt injection via content a subagent
+# Hardened the Agent tool against indirect prompt injection via content a subagent read
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.210: Hardened the Agent tool against indirect prompt injection via content a subagent read

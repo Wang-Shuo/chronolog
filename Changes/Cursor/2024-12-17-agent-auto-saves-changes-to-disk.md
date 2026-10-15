@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: eada41c9af7b4c122c06678e9659d2e49ca1902a74ef9d5bbc52cd79c9188dd8
+machine_hash: aa6a9d60b5d758a9eff9d68a60b6be006f9f35039bf27e8aae8994a52b55113d
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: Agent auto-saves changes to disk
     source_release: https://cursor.com/changelog/0-44-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor

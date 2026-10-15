@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 83011ef3b33b8d9059d504a4849561266aba27d924df9a1b324c04e4d89c8814
+machine_hash: bcd879348c5a2729ff1bc470bdb01aa0f1a49874ebf277e402441e989ffe72e7
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       or annotate a model switch); `SessionStart` resume hooks now receive session
       staleness and the estimated re-cache cost
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.251
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -38,8 +38,7 @@ record:
   source_release: claude-code-2026-08-28-v2-1-251-github-378586104-42ac2f96
   source_type: github_releases
   theme: model-support
-  title: Added `PreModelSwitch` and `PostModelSwitch` hook events (block, confirm,
-    or ann
+  title: Added `PreModelSwitch` and `PostModelSwitch` hook events…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-08-06-plus-and-pro-users-can-now-use-an-updated-gpt-5-6-sol-in-chatgpt-with-more-relia|chatgpt-2026-08-06-947d9c]]'
@@ -48,11 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-08-28-v2-1-251-github-378586104-42ac2f96|claude-code-2026-08-28-v2-1-251-github-378586104-42ac2f96]]'
 source_type: github_releases
 theme: model-support
-title: Added PreModelSwitch and PostModelSwitch hook events (block, confirm, or ann
+title: Added PreModelSwitch and PostModelSwitch hook events…
 type: change
 ---
 
-# Added `PreModelSwitch` and `PostModelSwitch` hook events (block, confirm, or ann
+# Added `PreModelSwitch` and `PostModelSwitch` hook events…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.251: Added `PreModelSwitch` and `PostModelSwitch` hook events (block, confirm, or annotate a model switch); `SessionStart` resume hooks now receive session staleness and the estimated re-cache cost

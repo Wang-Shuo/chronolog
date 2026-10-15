@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 50bb6ac4d77a06dabf2a646592ce124da34804a2d6a8623a3c2b2db7a0f7f462
+machine_hash: fb305541e30df135d27578ae51c1df974367a68af2cd3443e40f076935d1057f
 product: cursor
 product_name: Cursor
 record:
@@ -31,7 +31,7 @@ record:
       accessible with a few lines of TypeScript. Run it on your machine or on Cursor's
       cloud against a dedicated VM, with any frontier model.
     source_release: https://cursor.com/changelog/sdk-release
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -53,7 +53,7 @@ record:
     score: 50
     theme: model-support
   theme_resolution: manual-semantic-rule-v1
-  title: The agents that run in the Cursor desktop app, CLI, and web app are now accessib
+  title: The agents that run in the Cursor desktop app, CLI, and web app are now accessible…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-26-added-powershell-tool-for-windows-as-an-opt-in-preview-learn-more-at-https-code|claude-code-2026-03-26-7be4e2]]'
@@ -62,11 +62,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-04-29-build-programmatic-agents-with-the-cursor-sdk-https-cursor-com-c-b4665fa3|cursor-2026-04-29-build-programmatic-agents-with-the-cursor-sdk-https-cursor-com-c-b4665fa3]]'
 source_type: cursor_changelog
 theme: mobile-desktop
-title: The agents that run in the Cursor desktop app, CLI, and web app are now accessib
+title: The agents that run in the Cursor desktop app, CLI, and web app are now accessible…
 type: change
 ---
 
-# The agents that run in the Cursor desktop app, CLI, and web app are now accessib
+# The agents that run in the Cursor desktop app, CLI, and web app are now accessible…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Build programmatic agents with the Cursor SDK: The agents that run in the Cursor desktop app, CLI, and web app are now accessible with a few lines of TypeScript. Run it on your machine or on Cursor's cloud against a dedicated VM, with any frontier model.

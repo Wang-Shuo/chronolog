@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: c41ad51748cb23fe9705b27cdf28fafc74cdc71026b6c353388131e03134a897
+machine_hash: cfc80065b852693e5a02f643a5dd89a83ac2ce87577684de92bcd356e94895ad
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Changed the CLI to spawn a native Claude Code binary (via a per-platform
       optional dependency) instead of bundled JavaScript
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.113
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   theme: developer-workflow
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Changed the CLI to spawn a native Claude Code binary (via a per-platform
-    optiona
+  title: Changed the CLI to spawn a native Claude Code binary…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-04-14-we-ve-shipped-quality-of-life-improvements-to-the-cursor-cli-to-make-working-wit|cursor-2026-04-14-5ba084]]'
@@ -46,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-17-v2-1-113-github-310525785-1b5293ba|claude-code-2026-04-17-v2-1-113-github-310525785-1b5293ba]]'
 source_type: github_releases
 theme: developer-workflow
-title: Changed the CLI to spawn a native Claude Code binary (via a per-platform optiona
+title: Changed the CLI to spawn a native Claude Code binary…
 type: change
 ---
 
-# Changed the CLI to spawn a native Claude Code binary (via a per-platform optiona
+# Changed the CLI to spawn a native Claude Code binary…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.113: Changed the CLI to spawn a native Claude Code binary (via a per-platform optional dependency) instead of bundled JavaScript

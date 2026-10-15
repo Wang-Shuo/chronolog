@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e025edfbdc95fd62e15f70f1d1680f8dc938fb399e40ea1eeea70bd486202e72
+machine_hash: ab3112ee46dd032f95b474b7582fb323ce972951774e333f3026ef1d1e9c5e61
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Outside the European regions listed above, all Free users that have memory
       enabled will receive the upgrade automatically.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -36,7 +36,7 @@ record:
   source_type: chatgpt_changelog
   theme: memory
   title: Outside the European regions listed above, all Free users that have memory
-    enabl
+    enabled…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-05-08-enhanced-memory-rolling-out-to-all-plus-and-pro-users-including-the-eu-the-new-m|chatgpt-2025-05-08-bb9a62]]'
@@ -46,11 +46,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2025-06-03-memory-is-now-more-compre
 source_type: chatgpt_changelog
 theme: memory
 title: Outside the European regions listed above, all Free users that have memory
-  enabl
+  enabled…
 type: change
 ---
 
-# Outside the European regions listed above, all Free users that have memory enabl
+# Outside the European regions listed above, all Free users that have memory enabled…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Memory is now more comprehensive for Free users: Outside the European regions listed above, all Free users that have memory enabled will receive the upgrade automatically.

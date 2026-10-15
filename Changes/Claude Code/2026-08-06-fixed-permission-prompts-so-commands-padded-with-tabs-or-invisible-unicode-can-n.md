@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8edb6847ed3def6d6b470837db139507597cea06fa5289d77b42e6938271fcb1
+machine_hash: 6412d981f2f6377d91c2edd5c0fe123d9fe2fc31a313e7e1dc63f48d1458825d
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Fixed permission prompts so commands padded with tabs or invisible Unicode
       can no longer hide part of the command from the approval dialog
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.223
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,7 +38,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: Fixed permission prompts so commands padded with tabs or invisible Unicode
-    can n
+    can no…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-04-improved-auto-mode-safety-messages-sent-to-other-agent-sessions-via-sendmessage|claude-code-2026-08-04-7aec9f]]'
@@ -48,11 +48,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-08-06-v2-1-223-github-3
 source_type: github_releases
 theme: safety-privacy
 title: Fixed permission prompts so commands padded with tabs or invisible Unicode
-  can n
+  can no…
 type: change
 ---
 
-# Fixed permission prompts so commands padded with tabs or invisible Unicode can n
+# Fixed permission prompts so commands padded with tabs or invisible Unicode can no…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.223: Fixed permission prompts so commands padded with tabs or invisible Unicode can no longer hide part of the command from the approval dialog

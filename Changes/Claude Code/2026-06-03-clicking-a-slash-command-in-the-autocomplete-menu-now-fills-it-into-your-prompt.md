@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ce48b70f640c48aecf786fc58feb3e1e0f189c215f6699144306c09456f2c567
+machine_hash: 6ba0903006c3bf305d528493d565472fcf5c974e23dd1991eaac5feb46b5613a
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Clicking a slash command in the autocomplete menu now fills it into your
       prompt instead of running it immediately; press Enter to run
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.162
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -46,7 +46,7 @@ record:
     theme: interface-experience
   theme_resolution: manual-semantic-rule-v1
   title: Clicking a slash command in the autocomplete menu now fills it into your
-    prompt
+    prompt…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-22-markdown-output-now-renders-gfm-task-list-checkboxes-todo-x-done-instead-of-plai|claude-code-2026-05-22-222993]]'
@@ -55,11 +55,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-03-v2-1-162-github-333906405-cdc7c67c|claude-code-2026-06-03-v2-1-162-github-333906405-cdc7c67c]]'
 source_type: github_releases
 theme: interface-experience
-title: Clicking a slash command in the autocomplete menu now fills it into your prompt
+title: Clicking a slash command in the autocomplete menu now fills it into your prompt…
 type: change
 ---
 
-# Clicking a slash command in the autocomplete menu now fills it into your prompt
+# Clicking a slash command in the autocomplete menu now fills it into your prompt…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.162: Clicking a slash command in the autocomplete menu now fills it into your prompt instead of running it immediately; press Enter to run

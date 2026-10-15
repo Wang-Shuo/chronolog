@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 55de87688455755f404865040fb019ed104b3ea4d102dc1ea24e8839b282c3e0
+machine_hash: b25769a6390e200511d2a495c9c1fcb8ad2cb3a4ec71f75466ddcdbf98081136
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Improved `/model` to warn before switching models mid-conversation, since
       the next response re-reads the full history uncached
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.108
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   source_type: github_releases
   theme: model-support
   title: Improved `/model` to warn before switching models mid-conversation, since
-    the ne
+    the next…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-03-25-self-hosted-cloud-agents-offer-the-same-capabilities-as-cursor-hosted-cloud-agen|cursor-2026-03-25-6db779]]'
@@ -47,11 +47,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-04-14-v2-1-108-github-3
 source_type: github_releases
 theme: model-support
 title: Improved /model to warn before switching models mid-conversation, since the
-  ne
+  next…
 type: change
 ---
 
-# Improved `/model` to warn before switching models mid-conversation, since the ne
+# Improved `/model` to warn before switching models mid-conversation, since the next…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.108: Improved `/model` to warn before switching models mid-conversation, since the next response re-reads the full history uncached

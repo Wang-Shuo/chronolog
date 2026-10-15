@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 0a32288ea9bfe70ecfc16bb17d9f1ab3e7a22ba9df41cb8ed5e3d0b282fc7673
+machine_hash: 0cb281116686c842c650ebfc9e9013d462d15baa8a04649d71b8250369fb5f28
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       input parameters (with `*` wildcard), e.g. `Agent(model:opus)` to block Opus
       subagents
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.178
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code
@@ -50,8 +50,7 @@ record:
     score: 100
     theme: model-support
   theme_resolution: manual-semantic-rule-v2
-  title: Added `Tool(param:value)` syntax for permission rules to match a tool's input
-    pa
+  title: Added `Tool(param:value)` syntax for permission rules to match a tool's input…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-08-fixed-stale-permission-and-dialog-prompts-reappearing-every-time-you-reattached|claude-code-2026-06-08-d4c97e]]'
@@ -60,12 +59,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-15-v2-1-178-github-339741361-902bc427|claude-code-2026-06-15-v2-1-178-github-339741361-902bc427]]'
 source_type: github_releases
 theme: safety-privacy
-title: Added Tool(param:value) syntax for permission rules to match a tool's input
-  pa
+title: Added Tool(param:value) syntax for permission rules to match a tool's input…
 type: change
 ---
 
-# Added `Tool(param:value)` syntax for permission rules to match a tool's input pa
+# Added `Tool(param:value)` syntax for permission rules to match a tool's input…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.178: Added `Tool(param:value)` syntax for permission rules to match a tool's input parameters (with `*` wildcard), e.g. `Agent(model:opus)` to block Opus subagents

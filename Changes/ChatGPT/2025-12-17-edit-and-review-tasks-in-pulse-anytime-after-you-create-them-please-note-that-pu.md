@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0258beebbf59700050721256a11e4a0f7d065b2b9e425ca66ca26ac242932c42
+machine_hash: e8b1f7f9a86f47868419bdc5ab388b4ce504d5e12a23f71a76690c3d2ea94112
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Edit and review tasks in Pulse anytime after you create them. Please note
       that Pulse is only available in ChatGPT Pro.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -36,8 +36,7 @@ record:
   theme: editor-experience
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Edit and review tasks in Pulse anytime after you create them. Please note
-    that P
+  title: Edit and review tasks in Pulse anytime after you create them
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-07-29-active-tab-in-chat|cursor-2025-07-29-72e87c]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-12-17-tasks-are-now-in-pulse-15c01c44|chatgpt-2025-12-17-tasks-are-now-in-pulse-15c01c44]]'
 source_type: chatgpt_changelog
 theme: editor-experience
-title: Edit and review tasks in Pulse anytime after you create them. Please note that
-  P
+title: Edit and review tasks in Pulse anytime after you create them
 type: change
 ---
 
-# Edit and review tasks in Pulse anytime after you create them. Please note that P
+# Edit and review tasks in Pulse anytime after you create them
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Tasks are now in Pulse: Edit and review tasks in Pulse anytime after you create them. Please note that Pulse is only available in ChatGPT Pro.

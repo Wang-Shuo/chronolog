@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2023-09-11'
-machine_hash: bb1393487403b752e99e8936651eb1d15f0ec71570825a55e94ae3646876d671
+machine_hash: e2b2c0ea3845355fea8c0085326e2b5a8ba40bebb110ab9e231696321bb9c6f7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,6 +38,6 @@ Tracked cards: 2
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- accessibility-localization: [[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT now supports a limited selection of languages in the interface:]]
-- interface-experience: [[Changes/ChatGPT/2023-09-11-if-you-ve-configured-your-browser-to-use-one-of-these-supported-languages-you-ll-e4857e|If you've configured your browser to use one of these supported languages, you'l]]
+- accessibility-localization: [[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT now supports a limited selection of languages in the interface]]
+- interface-experience: [[Changes/ChatGPT/2023-09-11-if-you-ve-configured-your-browser-to-use-one-of-these-supported-languages-you-ll-e4857e|If you've configured your browser to use one of these supported languages, you'll…]]
 <!-- chronolog:end -->

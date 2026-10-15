@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 39c056ac87c9a16bdbe5fd6c681edba6e8f0b8e7270d98f37bd7861258a4c473
+machine_hash: 9446113362ea30f958d6c57817fb1d3aea4561d51fa9b43fad80de137ffc8881
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
   - quote: You can now observe, control, and extend the Agent loop using custom scripts.
       Hooks give you a way to customize and influence Agent behavior at runtime.
     source_release: https://cursor.com/changelog/1-7
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -37,8 +37,7 @@ record:
   source_release: cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae
   source_type: cursor_changelog
   theme: agent-mode
-  title: You can now observe, control, and extend the Agent loop using custom scripts.
-    Ho
+  title: Observe, control, and extend the Agent loop using custom scripts
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-09-29-we-re-introducing-instant-checkout-in-chatgpt-and-the-agentic-commerce-protocol-8cbf19|chatgpt-2025-09-29-8cbf19]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae|cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: You can now observe, control, and extend the Agent loop using custom scripts.
-  Ho
+title: Observe, control, and extend the Agent loop using custom scripts
 type: change
 ---
 
-# You can now observe, control, and extend the Agent loop using custom scripts. Ho
+# Observe, control, and extend the Agent loop using custom scripts
 
 <!-- chronolog:begin region="description" -->
 Cursor — Browser Controls, Plan Mode, and Hooks: You can now observe, control, and extend the Agent loop using custom scripts. Hooks give you a way to customize and influence Agent behavior at runtime.

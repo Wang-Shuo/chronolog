@@ -1,7 +1,7 @@
 ---
 changes_count: 4
 date: '2026-04-14'
-machine_hash: 19581ef562897a821894b7379744b6f74d3cc542efa5fa82a2d17f4e7ffa00cb
+machine_hash: 716e48f8f3da6bc35b04c7259e9abdfd856171fc00212461c682f640a4f5e794
 product: cursor
 product_name: Cursor
 record:
@@ -39,8 +39,8 @@ Tracked cards: 4
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- agent-mode: [[Changes/Cursor/2026-04-14-ask-a-quick-side-question-without-derailing-the-agent-s-main-task-btw-allows-you|Ask a quick side question without derailing the agent's main task. /btw allows y]]
-- developer-workflow: [[Changes/Cursor/2026-04-14-use-debug-to-find-root-causes-and-fix-tricky-bugs-that-are-hard-to-reproduce-or|Use /debug to find root causes and fix tricky bugs that are hard to reproduce or]]
-- developer-workflow: [[Changes/Cursor/2026-04-14-we-ve-shipped-quality-of-life-improvements-to-the-cursor-cli-to-make-working-wit|We've shipped quality-of-life improvements to the Cursor CLI to make working wit]]
-- model-support: [[Changes/Cursor/2026-04-14-config-opens-an-interactive-settings-panel-inside-the-cli-where-you-can-view-and|/config opens an interactive settings panel inside the CLI where you can view an]]
+- agent-mode: [[Changes/Cursor/2026-04-14-ask-a-quick-side-question-without-derailing-the-agent-s-main-task-btw-allows-you|Ask a quick side question without derailing the agent's main task]]
+- developer-workflow: [[Changes/Cursor/2026-04-14-use-debug-to-find-root-causes-and-fix-tricky-bugs-that-are-hard-to-reproduce-or|Use /debug to find root causes and fix tricky bugs that are hard to reproduce…]]
+- developer-workflow: [[Changes/Cursor/2026-04-14-we-ve-shipped-quality-of-life-improvements-to-the-cursor-cli-to-make-working-wit|We've shipped quality-of-life improvements to the Cursor CLI to make working…]]
+- model-support: [[Changes/Cursor/2026-04-14-config-opens-an-interactive-settings-panel-inside-the-cli-where-you-can-view-and|/config opens an interactive settings panel inside the CLI where you can view…]]
 <!-- chronolog:end -->

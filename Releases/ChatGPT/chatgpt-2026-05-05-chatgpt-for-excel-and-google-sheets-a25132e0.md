@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-05-05'
-machine_hash: 0c64031a04b38d716e27cf83921d55e8297f88d8a87f1990e851beb7fac85fcc
+machine_hash: 0731beb93be75567ebed44b4811a5c5c67b0dc4b9788cd0f35a79b6cbe9d23b2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- account-access: [[Changes/ChatGPT/2026-05-05-chatgpt-for-excel-and-google-sheets-is-now-available-globally-bringing-chatgpt-i|ChatGPT for Excel and Google Sheets is now available globally, bringing ChatGPT]]
+- account-access: [[Changes/ChatGPT/2026-05-05-chatgpt-for-excel-and-google-sheets-is-now-available-globally-bringing-chatgpt-i|ChatGPT for Excel and Google Sheets is now available globally, bringing ChatGPT…]]
 <!-- chronolog:end -->

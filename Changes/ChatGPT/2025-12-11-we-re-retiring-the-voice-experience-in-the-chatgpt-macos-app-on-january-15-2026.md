@@ -11,9 +11,9 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 550397b4114e954d582fc005ae7170b23fbbb386de2353aa300f78b49204a735
+machine_hash: 18f2a2c385ec48db0425c4af7fe1de655482854f7c64369d29504bc2705afd9a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       15, 2026. This change allows us to focus on more unified and improved voice
       experiences across our apps.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT

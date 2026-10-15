@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f2b9fbcd62b5bc799cfd634c7dda918a3157efa9d5d012650b74af5decb38c50
+machine_hash: ead22a58408edc17eee18b5c294bc9878cfe7587c9d3b7f4421219d483242a8b
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Added `/config key=value` syntax to set any setting from the prompt (e.g.
       `/config thinking=false`) — works in interactive, `-p`, and Remote Control
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.181
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,8 +37,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Added `/config key=value` syntax to set any setting from the prompt (e.g.
-    `/conf
+  title: Added `/config key=value` syntax to set any setting from the prompt…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-15-skills-in-nested-claude-skills-directories-now-load-when-working-on-files-there|claude-code-2026-06-15-05b30a]]'
@@ -47,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-17-v2-1-181-github-340975229-c771c493|claude-code-2026-06-17-v2-1-181-github-340975229-c771c493]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added /config key=value syntax to set any setting from the prompt (e.g. /conf
+title: Added /config key=value syntax to set any setting from the prompt…
 type: change
 ---
 
-# Added `/config key=value` syntax to set any setting from the prompt (e.g. `/conf
+# Added `/config key=value` syntax to set any setting from the prompt…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.181: Added `/config key=value` syntax to set any setting from the prompt (e.g. `/config thinking=false`) — works in interactive, `-p`, and Remote Control

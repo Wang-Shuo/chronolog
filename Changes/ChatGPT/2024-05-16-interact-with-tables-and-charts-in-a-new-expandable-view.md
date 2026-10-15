@@ -11,9 +11,9 @@ diffusion:
   theme: file-data
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 660f81a2256fc2c561bab014bd9ac15c1b951e54f230f9dc5c5036a71597c370
+machine_hash: 476c485ea056092bbcf589c027408b5bc02d15d611bca80e9f0d5f8d20307aaf
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: Interact with tables and charts in a new expandable view
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT

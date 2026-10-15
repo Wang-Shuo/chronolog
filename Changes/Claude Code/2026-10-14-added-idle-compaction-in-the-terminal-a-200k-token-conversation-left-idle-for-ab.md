@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 52a7d94ac3b512db84b747a3a19543cd67a5f5ed632f832861c27302a2cf6a20
+machine_hash: e3f396582467cb19684dbc48ae7738a8962579de3a7e116b50f904a0f517a51d
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       idle for about 54 minutes is compacted before its one-hour prompt cache expires,
       so your next message doesn''t reprocess it all'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.299
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code
@@ -38,8 +38,7 @@ record:
   source_release: claude-code-2026-10-14-v2-1-299-github-412217284-623d9162
   source_type: github_releases
   theme: developer-workflow
-  title: 'Added idle compaction in the terminal: a 200K+ token conversation left idle
-    for'
+  title: Added idle compaction in the terminal
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-10-02-added-max-findings-n-all-to-code-review-to-report-more-or-fewer-findings-than-th|claude-code-2026-10-02-9969bf]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-299-github-412217284-623d9162|claude-code-2026-10-14-v2-1-299-github-412217284-623d9162]]'
 source_type: github_releases
 theme: developer-workflow
-title: 'Added idle compaction in the terminal: a 200K+ token conversation left idle
-  for'
+title: Added idle compaction in the terminal
 type: change
 ---
 
-# Added idle compaction in the terminal: a 200K+ token conversation left idle for
+# Added idle compaction in the terminal
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.299: Added idle compaction in the terminal: a 200K+ token conversation left idle for about 54 minutes is compacted before its one-hour prompt cache expires, so your next message doesn't reprocess it all

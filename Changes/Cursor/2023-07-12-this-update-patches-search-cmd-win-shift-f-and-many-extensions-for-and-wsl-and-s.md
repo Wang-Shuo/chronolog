@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 59e9a548107e156965df112ba0d43dade72f57a273aa082b1048b5cbf3b82749
+machine_hash: 018fd0f50a48929246f98e65a6d3e33573378ff92041314907d28c53fefa7d0f
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: This update patches search (Cmd/Win+Shift+F) and many extensions for and
       WSL and SSH users.
     source_release: https://cursor.com/changelog/0-2-47
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,7 +35,7 @@ record:
   source_type: cursor_changelog
   theme: developer-workflow
   title: This update patches search (Cmd/Win+Shift+F) and many extensions for and
-    WSL and
+    WSL and SSH users
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-06-24-chat-was-failing-on-some-non-git-folders-that-is-now-fixed|cursor-2023-06-24-9dd0de]]'
@@ -45,11 +45,11 @@ source_release: '[[Releases/Cursor/cursor-2023-07-12-0-2-47-https-cursor-com-cha
 source_type: cursor_changelog
 theme: developer-workflow
 title: This update patches search (Cmd/Win+Shift+F) and many extensions for and WSL
-  and
+  and SSH users
 type: change
 ---
 
-# This update patches search (Cmd/Win+Shift+F) and many extensions for and WSL and
+# This update patches search (Cmd/Win+Shift+F) and many extensions for and WSL and SSH users
 
 <!-- chronolog:begin region="description" -->
 Cursor — Patch for WSL/SSH (Search and Extensions): This update patches search (Cmd/Win+Shift+F) and many extensions for and WSL and SSH users.

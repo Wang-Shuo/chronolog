@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 6e078bd854ac0e90b7d0ec1867dfe926a74b0aaced927cd3a50033243992fa38
+machine_hash: ac9d46825aff270ad26278587f33e4a0760b98205ef1d1c1fed9ce249e11ae4a
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: '`--print` mode now honors the agent''s `tools:` and `disallowedTools:`
       frontmatter, matching interactive-mode behavior'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.119
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code
@@ -36,7 +36,7 @@ record:
   source_release: claude-code-2026-04-23-v2-1-119-github-312949780-573724e7
   source_type: github_releases
   theme: agent-mode
-  title: '`--print` mode now honors the agent''s `tools:` and `disallowedTools:` frontmatte'
+  title: '`--print` mode now honors the agent''s `tools:` and `disallowedTools:` frontmatter…'
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-04-14-ask-a-quick-side-question-without-derailing-the-agent-s-main-task-btw-allows-you|cursor-2026-04-14-37f69f]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-23-v2-1-119-github-312949780-573724e7|claude-code-2026-04-23-v2-1-119-github-312949780-573724e7]]'
 source_type: github_releases
 theme: agent-mode
-title: '--print mode now honors the agent''s tools: and disallowedTools: frontmatte'
+title: '--print mode now honors the agent''s tools: and disallowedTools: frontmatter…'
 type: change
 ---
 
-# `--print` mode now honors the agent's `tools:` and `disallowedTools:` frontmatte
+# `--print` mode now honors the agent's `tools:` and `disallowedTools:` frontmatter…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.119: `--print` mode now honors the agent's `tools:` and `disallowedTools:` frontmatter, matching interactive-mode behavior

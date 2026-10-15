@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: babb51940a87d8ae25f212a78fe13fee80d5aa951f891a9b09207993eeda7d17
+machine_hash: 1d6d528e1f740cc3c251fc32df7033f2d60667d0c42bcc831ced57f62bf8bf64
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Thinking spinner now shows progress inline ("still thinking", "thinking
       more", "almost done thinking"), replacing the separate hint row
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.116
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,8 +37,7 @@ record:
   theme: interface-experience
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Thinking spinner now shows progress inline ("still thinking", "thinking more",
-    "
+  title: Thinking spinner now shows progress inline…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-17-fullscreen-mode-shift-now-scrolls-the-viewport-when-extending-a-selection-past-t|claude-code-2026-04-17-0df531]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-20-v2-1-116-github-311446114-3b24dc7e|claude-code-2026-04-20-v2-1-116-github-311446114-3b24dc7e]]'
 source_type: github_releases
 theme: interface-experience
-title: Thinking spinner now shows progress inline ("still thinking", "thinking more",
-  "
+title: Thinking spinner now shows progress inline…
 type: change
 ---
 
-# Thinking spinner now shows progress inline ("still thinking", "thinking more", "
+# Thinking spinner now shows progress inline…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.116: Thinking spinner now shows progress inline ("still thinking", "thinking more", "almost done thinking"), replacing the separate hint row

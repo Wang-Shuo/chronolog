@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5753491a288078bae25c8fddaf1d639d8054b326b53d2493321aec61e781aeaa
+machine_hash: 4f5a10dad8872ed4306d8870590b26ba1e630d454933cd83e76e12d032613ce5
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Fixed compound commands with `cd` prompting for permission when the only
       output redirect was to `/dev/null`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.207
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: Fixed compound commands with `cd` prompting for permission when the only
-    output
+    output…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-08-background-task-notifications-now-explicitly-state-that-no-human-input-has-occur|claude-code-2026-07-08-e5045d]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-11-v2-1-207-github-352355755-d77b8e91|claude-code-2026-07-11-v2-1-207-github-352355755-d77b8e91]]'
 source_type: github_releases
 theme: safety-privacy
-title: Fixed compound commands with cd prompting for permission when the only output
+title: Fixed compound commands with cd prompting for permission when the only output…
 type: change
 ---
 
-# Fixed compound commands with `cd` prompting for permission when the only output
+# Fixed compound commands with `cd` prompting for permission when the only output…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.207: Fixed compound commands with `cd` prompting for permission when the only output redirect was to `/dev/null`

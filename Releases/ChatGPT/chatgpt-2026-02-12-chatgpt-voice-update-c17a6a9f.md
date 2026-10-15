@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-02-12'
-machine_hash: f23ab29ecec2b5a00a0c3d78a50be8a7f320be3fdfa170b57b42e9dada42b11e
+machine_hash: 47d0d2a0b1fd73d67781809a4ced1fa5ec9f5e0ae46baacf714b51ee4e12cb21
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- voice: [[Changes/ChatGPT/2026-02-12-we-re-making-an-update-to-chatgpt-voice-that-improves-its-ability-to-follow-user|We’re making an update to ChatGPT Voice that improves its ability to follow user]]
+- voice: [[Changes/ChatGPT/2026-02-12-we-re-making-an-update-to-chatgpt-voice-that-improves-its-ability-to-follow-user|We’re making an update to ChatGPT Voice that improves its ability to follow user…]]
 <!-- chronolog:end -->

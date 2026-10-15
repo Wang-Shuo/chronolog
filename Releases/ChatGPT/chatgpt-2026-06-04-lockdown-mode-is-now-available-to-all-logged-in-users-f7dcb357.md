@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-06-04'
-machine_hash: 90bd6d419f8e59f929f086d8be303b6f62c6a096b65e5a1bb5b2e23259967e8c
+machine_hash: eb336ca34212d75138ad988e40e08710154eeb68a46d05b37694707a8d9c7034
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- safety-privacy: [[Changes/ChatGPT/2026-06-04-lockdown-mode-is-now-available-to-all-logged-in-users-across-account-types-and-w|Lockdown Mode is now available to all logged-in users across account types and w]]
+- safety-privacy: [[Changes/ChatGPT/2026-06-04-lockdown-mode-is-now-available-to-all-logged-in-users-across-account-types-and-w|Lockdown Mode is now available to all logged-in users across account types and workspaces]]
 <!-- chronolog:end -->

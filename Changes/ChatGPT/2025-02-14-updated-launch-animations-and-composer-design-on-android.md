@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8660b9402de851293bb6866799893a1a1cfaa045e22d3b634a1b1fb05b8abf11
+machine_hash: 4af5e18699efa18294845b32623b6daeaf7cbe81c24b2953bf5d7e8c612489c0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Updated launch animations and composer design on Android.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -33,7 +33,7 @@ record:
   source_release: chatgpt-2025-02-14-set-chatgpt-as-default-search-engine-in-safari-11ec014b
   source_type: chatgpt_changelog
   theme: mobile-desktop
-  title: Updated launch animations and composer design on Android.
+  title: Updated launch animations and composer design on Android
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-02-14-improved-android-conversation-parsing-performance|chatgpt-2025-02-14-70171a]]'
@@ -42,11 +42,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-02-14-set-chatgpt-as-default-search-engine-in-safari-11ec014b|chatgpt-2025-02-14-set-chatgpt-as-default-search-engine-in-safari-11ec014b]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: Updated launch animations and composer design on Android.
+title: Updated launch animations and composer design on Android
 type: change
 ---
 
-# Updated launch animations and composer design on Android.
+# Updated launch animations and composer design on Android
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — - Set ChatGPT as default search engine in Safari.: Updated launch animations and composer design on Android.

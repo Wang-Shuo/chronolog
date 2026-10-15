@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 46921a0502422df1e624afd482644aa63370adba09df89faf5a6cd9a1b8c5ab4
+machine_hash: 6e96b831d203a764f3b7620e14df1b796fcfd6630e70037c0ca8380972f3613f
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `hookSpecificOutput.sessionTitle` to `UserPromptSubmit` hooks for
       setting the session title
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.94
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,7 +36,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Added `hookSpecificOutput.sessionTitle` to `UserPromptSubmit` hooks for setting
+  title: Added `hookSpecificOutput.sessionTitle` to `UserPromptSubmit` hooks for setting…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-02-added-disableskillshellexecution-setting-to-disable-inline-shell-execution-in-sk|claude-code-2026-04-02-cbe9e3]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-07-v2-1-94-github-306300914-5622fba4|claude-code-2026-04-07-v2-1-94-github-306300914-5622fba4]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added hookSpecificOutput.sessionTitle to UserPromptSubmit hooks for setting
+title: Added hookSpecificOutput.sessionTitle to UserPromptSubmit hooks for setting…
 type: change
 ---
 
-# Added `hookSpecificOutput.sessionTitle` to `UserPromptSubmit` hooks for setting
+# Added `hookSpecificOutput.sessionTitle` to `UserPromptSubmit` hooks for setting…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.94: Added `hookSpecificOutput.sessionTitle` to `UserPromptSubmit` hooks for setting the session title

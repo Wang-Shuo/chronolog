@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 214f52604d5bfa801fc907f0e82af5d46f7fa20cbe01d2ee65a112e3e5c710e6
+machine_hash: 1d947ad63a9dde7405f5b95e3fb18bff40be2c50b1a7b5a4e3b9c651a8b45f84
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Faster MCP startup when multiple stdio servers are configured; `resources/templates/list`
       is now deferred to first `@`-mention
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.116
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -44,7 +44,7 @@ record:
     score: 50
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v1
-  title: Faster MCP startup when multiple stdio servers are configured; `resources/templa
+  title: Faster MCP startup when multiple stdio servers are configured
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-04-08-this-release-introduces-updates-to-bugbot-including-the-ability-to-self-improve|cursor-2026-04-08-f29812]]'
@@ -53,11 +53,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-20-v2-1-116-github-311446114-3b24dc7e|claude-code-2026-04-20-v2-1-116-github-311446114-3b24dc7e]]'
 source_type: github_releases
 theme: apps-integrations
-title: Faster MCP startup when multiple stdio servers are configured; resources/templa
+title: Faster MCP startup when multiple stdio servers are configured
 type: change
 ---
 
-# Faster MCP startup when multiple stdio servers are configured; `resources/templa
+# Faster MCP startup when multiple stdio servers are configured
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.116: Faster MCP startup when multiple stdio servers are configured; `resources/templates/list` is now deferred to first `@`-mention

@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2025-12-11'
-machine_hash: 86bbf04c6a9360fa131984990e02286b15e093de04b87c2eb5460e4b8a46826d
+machine_hash: 6745b27fb0704b7c0f810cd009b5d8e7502ed6b69983617ad3d10dea4ecf4edf
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 2
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
 - voice: [[Changes/ChatGPT/2025-12-11-we-re-retiring-the-voice-experience-in-the-chatgpt-macos-app-on-january-15-2026|We’re retiring the Voice experience in the ChatGPT macOS app on January 15, 2026]]
-- voice: [[Changes/ChatGPT/2025-12-11-voice-will-continue-to-be-available-on-chatgpt-com-ios-android-and-windows-app|Voice will continue to be available on chatgpt.com, iOS, Android, and Windows ap]]
+- voice: [[Changes/ChatGPT/2025-12-11-voice-will-continue-to-be-available-on-chatgpt-com-ios-android-and-windows-app|Voice will continue to be available on chatgpt.com, iOS, Android, and Windows app]]
 <!-- chronolog:end -->

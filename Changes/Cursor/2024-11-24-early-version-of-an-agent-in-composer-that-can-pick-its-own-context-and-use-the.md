@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 3cdeacc8b8d524bf6f87baf4b919ac7eddd345fae1705bebd2dce8421362e061
+machine_hash: c237de2ef824f5c41cd3191f36d9ef76e6883fb10b3c7841a207d1c0e88381f4
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Early version of an agent in composer that can pick its own context and
       use the terminal
     source_release: https://cursor.com/changelog/0-43-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -51,7 +51,7 @@ record:
     theme: developer-workflow
   theme_resolution: manual-semantic-rule-v1
   title: Early version of an agent in composer that can pick its own context and use
-    the
+    the terminal
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-08-22-we-ve-also-trained-a-new-cursor-tab-model-that-s-smarter-and-more-context-aware|cursor-2024-08-22-448b7c]]'
@@ -61,11 +61,11 @@ source_release: '[[Releases/Cursor/cursor-2024-11-24-0-43-x-https-cursor-com-cha
 source_type: cursor_changelog
 theme: context-window
 title: Early version of an agent in composer that can pick its own context and use
-  the
+  the terminal
 type: change
 ---
 
-# Early version of an agent in composer that can pick its own context and use the
+# Early version of an agent in composer that can pick its own context and use the terminal
 
 <!-- chronolog:begin region="description" -->
 Cursor — New Composer UI, Agent, Commit Messages: Early version of an agent in composer that can pick its own context and use the terminal

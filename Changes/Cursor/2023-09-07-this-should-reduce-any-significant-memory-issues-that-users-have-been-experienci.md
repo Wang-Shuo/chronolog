@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e85e45a88c5f0097e21dc8a9a130e2e7a9e89cf6bb50de28b23bab2c8fed8d22
+machine_hash: 18651c6040e1992a983b5fb3faee2e3ef1c21109bc4a5f4cb63c71e0f64f602b
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: This should reduce any significant memory issues that users have been experiencing.
     source_release: https://cursor.com/changelog/0-9-7-nightly
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -33,7 +33,7 @@ record:
   source_release: cursor-2023-09-07-0-9-7-nightly-https-cursor-com-changelog-0-9-7-nightly-87d1216f
   source_type: cursor_changelog
   theme: memory
-  title: This should reduce any significant memory issues that users have been experienci
+  title: This should reduce any significant memory issues that users have been experiencing
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-08-09-custom-instructions-are-now-available-to-chatgpt-users-on-the-free-plan-except-f-963d1e|chatgpt-2023-08-09-963d1e]]'
@@ -42,11 +42,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-09-07-0-9-7-nightly-https-cursor-com-changelog-0-9-7-nightly-87d1216f|cursor-2023-09-07-0-9-7-nightly-https-cursor-com-changelog-0-9-7-nightly-87d1216f]]'
 source_type: cursor_changelog
 theme: memory
-title: This should reduce any significant memory issues that users have been experienci
+title: This should reduce any significant memory issues that users have been experiencing
 type: change
 ---
 
-# This should reduce any significant memory issues that users have been experienci
+# This should reduce any significant memory issues that users have been experiencing
 
 <!-- chronolog:begin region="description" -->
 Cursor — Better State Management: This should reduce any significant memory issues that users have been experiencing.

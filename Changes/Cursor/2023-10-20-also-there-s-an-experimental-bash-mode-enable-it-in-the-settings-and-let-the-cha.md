@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6e687b1ac3916740bea5356d9b5f5a9be9593522c43d49e1d1817187b01dbb1e
+machine_hash: 3690fdd0420732f1f12a1f6b16297b683308800f5262f24e9b9290163e02c035
 product: cursor
 product_name: Cursor
 record:
@@ -30,7 +30,7 @@ record:
       find it useful, please let us know, and we will spend more time on making it
       production-ready!'
     source_release: https://cursor.com/changelog/0-13-0-0-13-4
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -40,8 +40,7 @@ record:
   theme: developer-workflow
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: 'Also, there''s an experimental bash mode: enable it in the settings, and
-    let the'
+  title: Also, there's an experimental bash mode
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-09-05-ships-with-cursor-python-a-language-server-fork-of-pyright-built-for-cursor|cursor-2023-09-05-66b064]]'
@@ -50,12 +49,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-10-20-0-13-0-0-13-4-https-cursor-com-changelog-0-13-0-0-13-4-5f700e1b|cursor-2023-10-20-0-13-0-0-13-4-https-cursor-com-changelog-0-13-0-0-13-4-5f700e1b]]'
 source_type: cursor_changelog
 theme: developer-workflow
-title: 'Also, there''s an experimental bash mode: enable it in the settings, and let
-  the'
+title: Also, there's an experimental bash mode
 type: change
 ---
 
-# Also, there's an experimental bash mode: enable it in the settings, and let the
+# Also, there's an experimental bash mode
 
 <!-- chronolog:begin region="description" -->
 Cursor — New VS Code version: Also, there's an experimental bash mode: enable it in the settings, and let the chat answer questions with the help of running bash commands. If you find it useful, please let us know, and we will spend more time on making it production-ready!

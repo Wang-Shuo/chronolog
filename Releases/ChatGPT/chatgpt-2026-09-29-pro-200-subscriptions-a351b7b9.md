@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2026-09-29'
-machine_hash: ceb9b04ce13e9ca4aa453e0355fb8bb25eda00327310d04ac4079bff60ee2eba
+machine_hash: 3eb7be100e03dbd5ad40ff6a933e0691405c090ae6aeb71b4897aef4355ff282
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,6 +38,6 @@ Tracked cards: 2
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- pricing-model: [[Changes/ChatGPT/2026-09-29-pro-200-is-available-for-new-subscriptions-again-at-200-month|Pro 200 is available for new subscriptions again at $200/month.]]
-- pricing-model: [[Changes/ChatGPT/2026-09-29-included-usage-allowances-are-changing-users-affected-by-these-changes-will-rece|Included usage allowances are changing. Users affected by these changes will rec]]
+- pricing-model: [[Changes/ChatGPT/2026-09-29-pro-200-is-available-for-new-subscriptions-again-at-200-month|Pro 200 is available for new subscriptions again at $200/month]]
+- pricing-model: [[Changes/ChatGPT/2026-09-29-included-usage-allowances-are-changing-users-affected-by-these-changes-will-rece|Included usage allowances are changing]]
 <!-- chronolog:end -->

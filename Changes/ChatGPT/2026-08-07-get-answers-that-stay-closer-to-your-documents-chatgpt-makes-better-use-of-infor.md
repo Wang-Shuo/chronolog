@@ -11,9 +11,9 @@ diffusion:
   theme: file-data
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 91e3d5064c91dfbc1e553478736e4298f193da99c0003df6fd74b91f71290de1
+machine_hash: 5d41963ec9ea92c42bbadf3c2d334f08b167bef69447df54512654798dfd3065
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       of information in attached files when you ask it to summarize a document, find
       specific details, review material, or draft from a source.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -37,8 +37,7 @@ record:
   source_release: chatgpt-2026-08-07-chatgpt-app-experience-updates-d15f55c5
   source_type: chatgpt_changelog
   theme: file-data
-  title: Get answers that stay closer to your documents. ChatGPT makes better use
-    of info
+  title: Get answers that stay closer to your documents
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-06-26-the-personal-finance-experience-in-chatgpt-is-rolling-out-to-plus-users-in-the-u|chatgpt-2026-06-26-531a97]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-07-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-08-07-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
 theme: file-data
-title: Get answers that stay closer to your documents. ChatGPT makes better use of
-  info
+title: Get answers that stay closer to your documents
 type: change
 ---
 
-# Get answers that stay closer to your documents. ChatGPT makes better use of info
+# Get answers that stay closer to your documents
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT app experience updates: Get answers that stay closer to your documents. ChatGPT makes better use of information in attached files when you ask it to summarize a document, find specific details, review material, or draft from a source.

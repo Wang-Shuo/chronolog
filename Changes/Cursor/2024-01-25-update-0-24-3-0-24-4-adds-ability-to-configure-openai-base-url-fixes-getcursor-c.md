@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 88a3eabfb4b4f5f8dae21ed3c792bf4dbd90402d4b158f31fcea18dc6bc07297
+machine_hash: 4af0e3d8652f1b2e975f3e0a1ba00182d9dd7932d0a13488dbae0d95f1dae18f
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: 'UPDATE (0.24.3-0.24.4): Adds ability to configure OpenAI base URL, fixes
       getcursor/cursor#1202.'
     source_release: https://cursor.com/changelog/0-24-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -36,8 +36,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: 'UPDATE (0.24.3-0.24.4): Adds ability to configure OpenAI base URL, fixes
-    getcurs'
+  title: 'UPDATE (0.24.3-0.24.4): Adds ability to configure OpenAI base URL, fixes…'
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-11-15-cursor-is-now-based-on-vs-code-1-84-2-notably-this-fixes-a-few-notebook-bugs-and|cursor-2023-11-15-fdd1fd]]'
@@ -46,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-01-25-0-24-x-https-cursor-com-changelog-0-24-x-c3b46238|cursor-2024-01-25-0-24-x-https-cursor-com-changelog-0-24-x-c3b46238]]'
 source_type: cursor_changelog
 theme: apps-integrations
-title: 'UPDATE (0.24.3-0.24.4): Adds ability to configure OpenAI base URL, fixes getcurs'
+title: 'UPDATE (0.24.3-0.24.4): Adds ability to configure OpenAI base URL, fixes…'
 type: change
 ---
 
-# UPDATE (0.24.3-0.24.4): Adds ability to configure OpenAI base URL, fixes getcurs
+# UPDATE (0.24.3-0.24.4): Adds ability to configure OpenAI base URL, fixes…
 
 <!-- chronolog:begin region="description" -->
 Cursor — @Web, gpt-4-0125-preview: UPDATE (0.24.3-0.24.4): Adds ability to configure OpenAI base URL, fixes getcursor/cursor#1202.

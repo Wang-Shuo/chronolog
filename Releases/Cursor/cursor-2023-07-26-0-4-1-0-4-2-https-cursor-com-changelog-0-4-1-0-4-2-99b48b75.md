@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-07-26'
-machine_hash: b753184311d26784b71a88b28033d9e5728b6c21ffc3897aa160d8e731253c6d
+machine_hash: a506dbaf35c3f0474ba96e35101823d6723ae9be0b2d26d2d19806c1526d0cab
 product: cursor
 product_name: Cursor
 record:
@@ -39,5 +39,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- reliability-performance: [[Changes/Cursor/2023-07-26-removes-a-check-in-the-chat-that-slows-the-chat-down-in-certain-cases|Removes a check in the chat that slows the chat down in certain cases.]]
+- reliability-performance: [[Changes/Cursor/2023-07-26-removes-a-check-in-the-chat-that-slows-the-chat-down-in-certain-cases|Removes a check in the chat that slows the chat down in certain cases]]
 <!-- chronolog:end -->

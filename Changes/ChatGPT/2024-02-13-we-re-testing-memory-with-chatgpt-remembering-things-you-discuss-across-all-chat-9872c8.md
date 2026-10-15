@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: fb7ed114faeb83287bba69755ce2886c2125796d2eb2e60360d5dcce1d6d2506
+machine_hash: e611842bc0bf0e7e20e71694dec6197a5bce7964a44cc032a3bd533d7d5180c1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,7 +38,7 @@ record:
       it is. We will share plans for a broader roll out soon.You can read more about
       memory and controls here.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -46,8 +46,7 @@ record:
   source_release: chatgpt-2024-02-13-memory-and-new-controls-for-chatgpt-2fd43ded
   source_type: chatgpt_changelog
   theme: memory
-  title: We’re testing memory with ChatGPT. Remembering things you discuss across
-    all cha
+  title: We’re testing memory with ChatGPT
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-08-21-custom-instructions-are-now-available-to-users-in-the-european-union-united-king-cfc1d5|chatgpt-2023-08-21-cfc1d5]]'
@@ -56,12 +55,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2024-02-13-memory-and-new-controls-for-chatgpt-2fd43ded|chatgpt-2024-02-13-memory-and-new-controls-for-chatgpt-2fd43ded]]'
 source_type: chatgpt_changelog
 theme: memory
-title: We’re testing memory with ChatGPT. Remembering things you discuss across all
-  cha
+title: We’re testing memory with ChatGPT
 type: change
 ---
 
-# We’re testing memory with ChatGPT. Remembering things you discuss across all cha
+# We’re testing memory with ChatGPT
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Memory and new controls for ChatGPT: We’re testing memory with ChatGPT. Remembering things you discuss across all chats saves you from having to repeat information and makes future conversations more helpful.You're in control of ChatGPT's memory. You can explicitly tell it to remember something, ask it what it remembers, and tell it to forget conversationally or through settings. You can also turn it off entirely.We are rolling out to a small portion of ChatGPT free and Plus users this week to learn how useful it is. We will share plans for a broader roll out soon.You can read more about memory and controls here.

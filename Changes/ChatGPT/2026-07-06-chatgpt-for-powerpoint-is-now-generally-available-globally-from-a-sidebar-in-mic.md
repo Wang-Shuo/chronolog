@@ -11,9 +11,9 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 8c0f558fa5bc3165cd0f49ca9370fa4e155a44269cb69a909f7c6194e580d86f
+machine_hash: a67a44adde9b854dc64b6045954598e487e02ff833a4eb03ddf5580d54067933
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,7 +45,7 @@ record:
       and review important claims, numbers, and slide changes before sharing. Learn
       more about ChatGPT for PowerPoint.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -75,8 +75,7 @@ record:
     score: 50
     theme: interface-experience
   theme_resolution: manual-semantic-rule-v1
-  title: ChatGPT for PowerPoint is now generally available globally. From a sidebar
-    in Mi
+  title: ChatGPT for PowerPoint is now generally available globally
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-22-added-claude-platform-on-aws-refresh-credentials-option-to-login-when-awsauthref|claude-code-2026-06-22-886889]]'
@@ -85,12 +84,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-06-chatgpt-for-powerpoint-is-now-generally-available-fc1a6be9|chatgpt-2026-07-06-chatgpt-for-powerpoint-is-now-generally-available-fc1a6be9]]'
 source_type: chatgpt_changelog
 theme: account-access
-title: ChatGPT for PowerPoint is now generally available globally. From a sidebar
-  in Mi
+title: ChatGPT for PowerPoint is now generally available globally
 type: change
 ---
 
-# ChatGPT for PowerPoint is now generally available globally. From a sidebar in Mi
+# ChatGPT for PowerPoint is now generally available globally
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT for PowerPoint is now generally available: ChatGPT for PowerPoint is now generally available globally. From a sidebar in Microsoft PowerPoint, you can create new slides and decks, revise existing presentations, ask questions about a deck’s story and structure, and use Skills and apps to work with repeatable workflows and connected sources. Slides remain editable in PowerPoint, although advanced edits and template matching may still require review.The add-in is available to Free, Go, Plus, Pro, Business, Enterprise, ChatGPT Edu, and K-12 users, subject to plan limits and workspace settings. Install it from Microsoft Marketplace, sign in with your eligible ChatGPT account, and review important claims, numbers, and slide changes before sharing. Learn more about ChatGPT for PowerPoint.

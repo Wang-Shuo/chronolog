@@ -1,7 +1,7 @@
 ---
 changes_count: 4
 date: '2026-01-16'
-machine_hash: d783338ec31596abd9c0b08aed0e363d592f8f73555d78e3deb1e13e8b1a4655
+machine_hash: f042b5f19ed64c6bca927d733ac6aee0dedec240b15ebbf0d9eed32eeee4193c
 product: cursor
 product_name: Cursor
 record:
@@ -39,8 +39,8 @@ Tracked cards: 4
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- agent-mode: [[Changes/Cursor/2026-01-16-push-your-local-conversation-to-a-cloud-agent-and-let-it-keep-running-while-you|Push your local conversation to a Cloud Agent and let it keep running while you']]
-- editor-experience: [[Changes/Cursor/2026-01-16-this-release-brings-many-of-the-editor-s-most-loved-features-to-the-cursor-cli-a|This release brings many of the editor’s most-loved features to the Cursor CLI,]]
-- agent-mode: [[Changes/Cursor/2026-01-16-use-plan-mode-to-design-your-approach-before-coding-cursor-will-ask-clarifying-q|Use Plan mode to design your approach before coding. Cursor will ask clarifying]]
-- editor-experience: [[Changes/Cursor/2026-01-16-use-ask-mode-to-explore-code-without-making-changes-just-like-in-the-editor-star|Use Ask mode to explore code without making changes, just like in the editor. St]]
+- agent-mode: [[Changes/Cursor/2026-01-16-push-your-local-conversation-to-a-cloud-agent-and-let-it-keep-running-while-you|Push your local conversation to a Cloud Agent and let it keep running while you're away]]
+- editor-experience: [[Changes/Cursor/2026-01-16-this-release-brings-many-of-the-editor-s-most-loved-features-to-the-cursor-cli-a|Cursor brings many of the editor’s most-loved features to the Cursor CLI, along…]]
+- agent-mode: [[Changes/Cursor/2026-01-16-use-plan-mode-to-design-your-approach-before-coding-cursor-will-ask-clarifying-q|Use Plan mode to design your approach before coding]]
+- editor-experience: [[Changes/Cursor/2026-01-16-use-ask-mode-to-explore-code-without-making-changes-just-like-in-the-editor-star|Use Ask mode to explore code without making changes, just like in the editor]]
 <!-- chronolog:end -->

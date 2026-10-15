@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-04-07'
-machine_hash: b3bd0fa6d16389fb6324d3ea1c0a9d77173af5ff096b218a234b7aa35d1b4e63
+machine_hash: 3d366b7c68afb32db5d4ed2427afd8e3a92109307f70472a7d3c0ba7876d0e69
 product: cursor
 product_name: Cursor
 record:
@@ -38,5 +38,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- developer-workflow: [[Changes/Cursor/2023-04-07-turns-off-the-auto-install-of-the-cursor-command-and-fixes-its-install-altogethe|Turns off the auto-install of the "cursor ." command (and fixes its install alto]]
+- developer-workflow: [[Changes/Cursor/2023-04-07-turns-off-the-auto-install-of-the-cursor-command-and-fixes-its-install-altogethe|Turns off the auto-install of the "cursor ." command (and fixes its install altogether)]]
 <!-- chronolog:end -->

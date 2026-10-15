@@ -11,9 +11,9 @@ diffusion:
   theme: enterprise-admin
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 93d601ca679682f8b97b439e38176600c6e4dfdd090794c717f6233b128e59fb
+machine_hash: 13c3035a2c2259d7764c4980a0b789ca9918bc6abd513c6301f4222c21c54040
 product: cursor
 product_name: Cursor
 record:
@@ -30,7 +30,7 @@ record:
   - quote: 'Many of the largest software companies in the world have adopted Cursor
       for Enterprise. Here are some of the new features we''re releasing today:'
     source_release: https://cursor.com/changelog/enterprise-dec-2025
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -39,7 +39,7 @@ record:
   source_type: cursor_changelog
   theme: enterprise-admin
   title: Many of the largest software companies in the world have adopted Cursor for
-    Ente
+    Enterprise
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-09-03-projects-bring-your-chats-and-files-into-one-place-helping-you-stay-focused-and-96a40d|chatgpt-2025-09-03-96a40d]]'
@@ -49,11 +49,11 @@ source_release: '[[Releases/Cursor/cursor-2025-12-18-enterprise-insights-billing
 source_type: cursor_changelog
 theme: enterprise-admin
 title: Many of the largest software companies in the world have adopted Cursor for
-  Ente
+  Enterprise
 type: change
 ---
 
-# Many of the largest software companies in the world have adopted Cursor for Ente
+# Many of the largest software companies in the world have adopted Cursor for Enterprise
 
 <!-- chronolog:begin region="description" -->
 Cursor — Enterprise Insights, Billing Groups, Service Accounts, and Improved Security Controls: Many of the largest software companies in the world have adopted Cursor for Enterprise. Here are some of the new features we're releasing today:

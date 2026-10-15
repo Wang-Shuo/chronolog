@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 2c9d66eac865c6ab3b669f8f5a70f71836a4f21910387ee999c423cfe68fcae7
+machine_hash: c903cd222fc083bca7c942ce133b5f4d56ba1f4b0798084573b22d370abc9427
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Chat/Edit tooltip blocks less code
     source_release: https://cursor.com/changelog/0-2-44
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

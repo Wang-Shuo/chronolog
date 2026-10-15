@@ -1,7 +1,7 @@
 ---
 changes_count: 4
 date: '2025-07-29'
-machine_hash: 68a311aefec2ceb3f55f65ccf5281abfefcdca6d35f9c6137256d9199d55526f
+machine_hash: 378e2678d0aa03a0d458cffbb7a1dec35ef88f856e0f386c241114bcd8e6c348
 product: cursor
 product_name: Cursor
 record:
@@ -38,8 +38,8 @@ Tracked cards: 4
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- reliability-performance: [[Changes/Cursor/2025-07-29-agent-edits-are-now-faster-by-lazy-loading-linter-errors-search-replace-edit-lat|Agent edits are now faster by lazy loading linter errors. Search & Replace edit]]
-- agent-mode: [[Changes/Cursor/2025-07-29-agents-can-now-use-your-native-terminal-a-new-terminal-will-be-created-when-need|Agents can now use your native terminal. A new terminal will be created when nee]]
-- context-window: [[Changes/Cursor/2025-07-29-at-the-end-of-a-conversation-you-can-now-see-how-much-of-the-context-window-is-u|At the end of a conversation you can now see how much of the context window is u]]
+- reliability-performance: [[Changes/Cursor/2025-07-29-agent-edits-are-now-faster-by-lazy-loading-linter-errors-search-replace-edit-lat|Agent edits are now faster by lazy loading linter errors]]
+- agent-mode: [[Changes/Cursor/2025-07-29-agents-can-now-use-your-native-terminal-a-new-terminal-will-be-created-when-need|Agents can now use your native terminal]]
+- context-window: [[Changes/Cursor/2025-07-29-at-the-end-of-a-conversation-you-can-now-see-how-much-of-the-context-window-is-u|At the end of a conversation you can now see how much of the context window is used]]
 - editor-experience: [[Changes/Cursor/2025-07-29-active-tab-in-chat|Active Tab in Chat]]
 <!-- chronolog:end -->

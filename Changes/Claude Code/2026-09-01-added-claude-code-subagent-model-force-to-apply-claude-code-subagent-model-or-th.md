@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: b68f780c355109fd933e5736ad6f7565a7c6e2f32f6806311caa997ea7e5ae3c
+machine_hash: de8a6be6e88a64a33ca761b9f04961c3d59f065d5d4a84dda0d96c500a9916a6
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       (or the main model) to every subagent, ignoring per-spawn and agent-definition
       model overrides
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.257
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code
@@ -48,8 +48,7 @@ record:
     - model
     score: 50
     theme: model-support
-  title: Added `CLAUDE_CODE_SUBAGENT_MODEL_FORCE` to apply `CLAUDE_CODE_SUBAGENT_MODEL`
-    (
+  title: Added `CLAUDE_CODE_SUBAGENT_MODEL_FORCE` to apply `CLAUDE_CODE_SUBAGENT_MODEL`…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-08-27-cursor-now-port-forwards-your-cloud-agent-s-live-environment-straight-to-your-br|cursor-2026-08-27-f37075]]'
@@ -58,12 +57,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6|claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6]]'
 source_type: github_releases
 theme: agent-mode
-title: Added CLAUDE_CODE_SUBAGENT_MODEL_FORCE to apply CLAUDE_CODE_SUBAGENT_MODEL
-  (
+title: Added CLAUDE_CODE_SUBAGENT_MODEL_FORCE to apply CLAUDE_CODE_SUBAGENT_MODEL…
 type: change
 ---
 
-# Added `CLAUDE_CODE_SUBAGENT_MODEL_FORCE` to apply `CLAUDE_CODE_SUBAGENT_MODEL` (
+# Added `CLAUDE_CODE_SUBAGENT_MODEL_FORCE` to apply `CLAUDE_CODE_SUBAGENT_MODEL`…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.257: Added `CLAUDE_CODE_SUBAGENT_MODEL_FORCE` to apply `CLAUDE_CODE_SUBAGENT_MODEL` (or the main model) to every subagent, ignoring per-spawn and agent-definition model overrides

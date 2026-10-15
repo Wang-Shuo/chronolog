@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2023-02-13'
-machine_hash: bba30cc15f8cbdb7db4c8bd6cb0e93c1e4773589f34748deb3b4a7065a33564e
+machine_hash: fbe92f4eced73e92ac11514f8df001750d0b842daf7a55de661d74d6804c9809
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,7 +38,7 @@ Tracked cards: 3
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- reliability-performance: [[Changes/ChatGPT/2023-02-13-based-on-user-feedback-we-are-now-defaulting-plus-users-to-a-faster-version-of-c|Based on user feedback, we are now defaulting Plus users to a faster version of]]
-- reliability-performance: [[Changes/ChatGPT/2023-02-13-we-ve-updated-performance-of-the-chatgpt-model-on-our-free-plan-in-order-to-serv|We’ve updated performance of the ChatGPT model on our free plan in order to serv]]
-- pricing-model: [[Changes/ChatGPT/2023-02-13-we-rolled-out-the-ability-to-purchase-chatgpt-plus-internationally|We rolled out the ability to purchase ChatGPT Plus internationally.]]
+- reliability-performance: [[Changes/ChatGPT/2023-02-13-based-on-user-feedback-we-are-now-defaulting-plus-users-to-a-faster-version-of-c|Based on user feedback, we are now defaulting Plus users to a faster version…]]
+- reliability-performance: [[Changes/ChatGPT/2023-02-13-we-ve-updated-performance-of-the-chatgpt-model-on-our-free-plan-in-order-to-serv|ChatGPT updates performance of the ChatGPT model on our free plan in order to serve…]]
+- pricing-model: [[Changes/ChatGPT/2023-02-13-we-rolled-out-the-ability-to-purchase-chatgpt-plus-internationally|We rolled out the ability to purchase ChatGPT Plus internationally]]
 <!-- chronolog:end -->

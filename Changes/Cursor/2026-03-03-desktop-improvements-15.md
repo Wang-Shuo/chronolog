@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5840ba24589620add09ada2b0b58dd683c22277f072239cca0f751d2171d3b80
+machine_hash: a023dd26623f29daba47ee27a2207645e25f3ec559ee24e8259eb0e5290d8491
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Desktop Improvements (15)↓↑
     source_release: https://cursor.com/changelog/2-6
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

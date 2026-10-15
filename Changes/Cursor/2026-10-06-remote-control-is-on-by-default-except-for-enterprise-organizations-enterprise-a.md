@@ -11,9 +11,9 @@ diffusion:
   theme: enterprise-admin
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: bfc85c01a28aa71825092e7ca45b70fcb9d651d53f2fcfb60690105bcb90c668
+machine_hash: f1fbb6617e67369ad91fe0c9cfcf08698bf57c4e4cf5af5a97be051df309dc73
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Remote control is on by default, except for Enterprise organizations. Enterprise
       admins can turn it on in Org settings > Security and identity > Remote control.
     source_release: https://cursor.com/changelog/remote-control-local-agents
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -45,7 +45,7 @@ record:
     - security
     score: 50
     theme: safety-privacy
-  title: Remote control is on by default, except for Enterprise organizations. Enterprise
+  title: Remote control is on by default, except for Enterprise organizations
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-09-29-profile-sharing-and-the-sites-showcase-are-available-on-web-and-desktop-in-busin|chatgpt-2026-09-29-0fde0c]]'
@@ -54,11 +54,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-10-06-remote-control-for-local-agents-https-cursor-com-changelog-remot-bb6325fd|cursor-2026-10-06-remote-control-for-local-agents-https-cursor-com-changelog-remot-bb6325fd]]'
 source_type: cursor_changelog
 theme: enterprise-admin
-title: Remote control is on by default, except for Enterprise organizations. Enterprise
+title: Remote control is on by default, except for Enterprise organizations
 type: change
 ---
 
-# Remote control is on by default, except for Enterprise organizations. Enterprise
+# Remote control is on by default, except for Enterprise organizations
 
 <!-- chronolog:begin region="description" -->
 Cursor — Remote control for local agents: Remote control is on by default, except for Enterprise organizations. Enterprise admins can turn it on in Org settings > Security and identity > Remote control.

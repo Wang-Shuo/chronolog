@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-08-28'
-machine_hash: 653c27111f63b57d82547106fc2fd0badf7faa0125bf44984383bd38293bb316
+machine_hash: 3a62a9001b20c23417a8ef4a450c7a855ef1cd55da3a2c0ef76521374bc977b7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- safety-privacy: [[Changes/ChatGPT/2023-08-28-today-we-re-launching-chatgpt-enterprise-which-offers-enterprise-grade-security-4958cf|Today we’re launching ChatGPT Enterprise, which offers enterprise-grade security]]
+- safety-privacy: [[Changes/ChatGPT/2023-08-28-today-we-re-launching-chatgpt-enterprise-which-offers-enterprise-grade-security-4958cf|ChatGPT launches ChatGPT Enterprise, which offers enterprise-grade security…]]
 <!-- chronolog:end -->

@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: a262f93c84c7add6e58b9df11c06b680b39f4cf4851242ee6b30e798422bae89
+machine_hash: 9088046593be2ba6338955b0b0d943f9788d4cee10fc569fe92f9a52f1f5a8aa
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Added `CLAUDE_CODE_WORKFLOW_SUBAGENT_MODEL` to run every workflow agent
       on one model while other subagents keep theirs
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.296
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code
@@ -48,7 +48,7 @@ record:
     score: 50
     theme: model-support
   title: Added `CLAUDE_CODE_WORKFLOW_SUBAGENT_MODEL` to run every workflow agent on
-    one m
+    one model…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-10-06-added-an-effort-parameter-to-the-agent-tool-so-claude-runs-a-sub-agent-at-the-ef|claude-code-2026-10-06-bfd4e5]]'
@@ -58,11 +58,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-10-09-v2-1-296-github-4
 source_type: github_releases
 theme: agent-mode
 title: Added CLAUDE_CODE_WORKFLOW_SUBAGENT_MODEL to run every workflow agent on one
-  m
+  model…
 type: change
 ---
 
-# Added `CLAUDE_CODE_WORKFLOW_SUBAGENT_MODEL` to run every workflow agent on one m
+# Added `CLAUDE_CODE_WORKFLOW_SUBAGENT_MODEL` to run every workflow agent on one model…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.296: Added `CLAUDE_CODE_WORKFLOW_SUBAGENT_MODEL` to run every workflow agent on one model while other subagents keep theirs

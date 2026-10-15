@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1a37a603fc78ef330d8bcebf14324979e6bb6f3861eccb1e2b5e679e8bd36d84
+machine_hash: ae5085de39bf118371759fca5420b825083552b7a6a7733afd0ab64985a15369
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   - quote: 'Pro users get two additional options: Light (snappiest) and Heavy (deeper
       reasoning).'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: 'Pro users get two additional options: Light (snappiest) and Heavy (deeper
-    reason'
+    reasoning)'
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-08-12-you-can-now-choose-between-auto-fast-and-thinking-for-gpt-5-most-users-will-want-f4c05b|chatgpt-2025-08-12-f4c05b]]'
@@ -47,11 +47,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2025-09-17-toggle-thinking-time-in-t
 source_type: chatgpt_changelog
 theme: model-support
 title: 'Pro users get two additional options: Light (snappiest) and Heavy (deeper
-  reason'
+  reasoning)'
 type: change
 ---
 
-# Pro users get two additional options: Light (snappiest) and Heavy (deeper reason
+# Pro users get two additional options: Light (snappiest) and Heavy (deeper reasoning)
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Toggle thinking time in the message composer: Pro users get two additional options: Light (snappiest) and Heavy (deeper reasoning).

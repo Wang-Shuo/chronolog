@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 929ef418c7967a709510d3e95658e7194f273e04362fc8cb22add0d0db33cae2
+machine_hash: 4ac2d5d2320f144cd83a5775bc1642b814e144aa6af413ac5459f5c78e164cac
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
       you can see citations), @ symbol performance on long files in chat should improve,
       and more.
     source_release: https://cursor.com/changelog/0-9-6-nightly
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -36,8 +36,7 @@ record:
   source_release: cursor-2023-09-05-0-9-6-nightly-https-cursor-com-changelog-0-9-6-nightly-3a2d0597
   source_type: cursor_changelog
   theme: reliability-performance
-  title: Updates to docs (try pasting a link in chat, you can delete/edit docs, you
-    can s
+  title: Updates to docs…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-02-13-we-ve-updated-performance-of-the-chatgpt-model-on-our-free-plan-in-order-to-serv|chatgpt-2023-02-13-3a0312]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-09-05-0-9-6-nightly-https-cursor-com-changelog-0-9-6-nightly-3a2d0597|cursor-2023-09-05-0-9-6-nightly-https-cursor-com-changelog-0-9-6-nightly-3a2d0597]]'
 source_type: cursor_changelog
 theme: reliability-performance
-title: Updates to docs (try pasting a link in chat, you can delete/edit docs, you
-  can s
+title: Updates to docs…
 type: change
 ---
 
-# Updates to docs (try pasting a link in chat, you can delete/edit docs, you can s
+# Updates to docs…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Docs updates: Updates to docs (try pasting a link in chat, you can delete/edit docs, you can see citations), @ symbol performance on long files in chat should improve, and more.

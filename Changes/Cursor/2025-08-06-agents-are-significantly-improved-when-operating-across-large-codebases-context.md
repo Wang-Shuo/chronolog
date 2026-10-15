@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f8bae4ac91060992adcd65fb3d9346db8926887cba2eb19aabfd8fbfb1de03d2
+machine_hash: 0854ac5f693b2d237669580f1d4e04cd1e9cd39918ffd663caa9fec2f3a1c9ea
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
       Context selection is more relevant, token use is more efficient, and edit quality
       is higher:'
     source_release: https://cursor.com/changelog/1-4
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -46,8 +46,7 @@ record:
     score: 50
     theme: context-window
   theme_resolution: manual-semantic-rule-v1
-  title: Agents are significantly improved when operating across large codebases.
-    Context
+  title: Agents are significantly improved when operating across large codebases
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-04-15-you-can-now-generate-rules-directly-from-a-conversation-using-the-generate-curso|cursor-2025-04-15-c77526]]'
@@ -56,11 +55,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-08-06-1-4-https-cursor-com-changelog-1-4-5a085889|cursor-2025-08-06-1-4-https-cursor-com-changelog-1-4-5a085889]]'
 source_type: cursor_changelog
 theme: context-window
-title: Agents are significantly improved when operating across large codebases. Context
+title: Agents are significantly improved when operating across large codebases
 type: change
 ---
 
-# Agents are significantly improved when operating across large codebases. Context
+# Agents are significantly improved when operating across large codebases
 
 <!-- chronolog:begin region="description" -->
 Cursor — Improved Agent tools, steerability, and usage visibility: Agents are significantly improved when operating across large codebases. Context selection is more relevant, token use is more efficient, and edit quality is higher:

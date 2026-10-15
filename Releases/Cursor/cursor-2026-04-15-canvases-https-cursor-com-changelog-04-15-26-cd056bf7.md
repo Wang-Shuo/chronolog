@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2026-04-15'
-machine_hash: 9dcc5a6260d46b08477d6de3932649a2315b2007c2e61f571661450105450b75
+machine_hash: 83589db60b2f79aab4da0513cfb580d3adbf28a37aa7054a4b40ea7b0bacff02
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ Tracked cards: 3
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- developer-workflow: [[Changes/Cursor/2026-04-15-in-the-agents-window-canvases-are-durable-artifacts-that-live-in-the-side-panel|In the Agents Window, canvases are durable artifacts that live in the side panel]]
-- file-data: [[Changes/Cursor/2026-04-15-these-visualizations-can-include-dashboards-and-custom-interfaces-built-using-fi|These visualizations can include dashboards and custom interfaces built using fi]]
-- file-data: [[Changes/Cursor/2026-04-15-cursor-can-now-respond-by-creating-interactive-canvases|Cursor can now respond by creating interactive canvases.]]
+- developer-workflow: [[Changes/Cursor/2026-04-15-in-the-agents-window-canvases-are-durable-artifacts-that-live-in-the-side-panel|In the Agents Window, canvases are durable artifacts that live in the side panel…]]
+- file-data: [[Changes/Cursor/2026-04-15-these-visualizations-can-include-dashboards-and-custom-interfaces-built-using-fi|These visualizations can include dashboards and custom interfaces built using…]]
+- file-data: [[Changes/Cursor/2026-04-15-cursor-can-now-respond-by-creating-interactive-canvases|Cursor can now respond by creating interactive canvases]]
 <!-- chronolog:end -->

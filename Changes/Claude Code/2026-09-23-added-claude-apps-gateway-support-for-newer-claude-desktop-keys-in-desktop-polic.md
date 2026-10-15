@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 2aebfa56f9c34f3e0a2286516a6a80c84a83fefddf89d35d9292504743dd9902
+machine_hash: 224cfd0b8cd1c31469a588ce8b71502349196dcbda9d14de58b1133fbce816a7
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,7 +29,7 @@ record:
   - quote: Added Claude apps gateway support for newer Claude Desktop keys in `desktop`
       policy blocks, including `blockReadsOutsideWorkingDirectories` and `disableBypassPermissionsMode`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.281
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -48,7 +48,7 @@ record:
     theme: mobile-desktop
   theme_resolution: manual-semantic-rule-v1
   title: Added Claude apps gateway support for newer Claude Desktop keys in `desktop`
-    pol
+    policy…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-08-added-user-email-and-user-groups-to-the-telemetry-claude-desktop-and-cowork-send|claude-code-2026-09-08-2ce9f0]]'
@@ -58,11 +58,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-09-23-v2-1-281-github-3
 source_type: github_releases
 theme: mobile-desktop
 title: Added Claude apps gateway support for newer Claude Desktop keys in desktop
-  pol
+  policy…
 type: change
 ---
 
-# Added Claude apps gateway support for newer Claude Desktop keys in `desktop` pol
+# Added Claude apps gateway support for newer Claude Desktop keys in `desktop` policy…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.281: Added Claude apps gateway support for newer Claude Desktop keys in `desktop` policy blocks, including `blockReadsOutsideWorkingDirectories` and `disableBypassPermissionsMode`

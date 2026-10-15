@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: c7f385a5ddcb3b9d211ec0f295722827d9c41215852412966eb5c08575f0f7a8
+machine_hash: 6f8d7c9f3311f1c4bc2a7af374b83f3cf033aa6549cfadc0e9e48a407d57b8a4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Available in the ChatGPT app for iOS. Access to recent photos requires
       permission to access your photos.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -36,7 +36,7 @@ record:
   theme: safety-privacy
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: Available in the ChatGPT app for iOS. Access to recent photos requires permissio
+  title: Available in the ChatGPT app for iOS
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-18-improved-permission-dialogs-display-text-and-don-t-ask-again-options-now-always|claude-code-2026-08-18-2b0277]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-21-updates-to-chatgpt-on-ios-148662ce|chatgpt-2026-08-21-updates-to-chatgpt-on-ios-148662ce]]'
 source_type: chatgpt_changelog
 theme: safety-privacy
-title: Available in the ChatGPT app for iOS. Access to recent photos requires permissio
+title: Available in the ChatGPT app for iOS
 type: change
 ---
 
-# Available in the ChatGPT app for iOS. Access to recent photos requires permissio
+# Available in the ChatGPT app for iOS
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Updates to ChatGPT on iOS: Available in the ChatGPT app for iOS. Access to recent photos requires permission to access your photos.

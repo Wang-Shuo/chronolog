@@ -1,6 +1,6 @@
 ---
 draft: true
-machine_hash: 95a0f01eb8a9a9bdba3ecd95ebf7b172c0c97388e1106e8000492e91a2b68c84
+machine_hash: a3e37deaf9ca6d8f560cb72e1b3c7151d1cca2ea0c9e5bff05f396b6527dc4d9
 product: claude-code
 record:
   card_id: claude-code-2026-09-25-dd00ab
@@ -14,7 +14,7 @@ record:
       CLAUDE.md files, skills, agents and commands for prompting patterns written
       for older models
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.283
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -34,7 +34,7 @@ record:
   theme_review_reason: ambiguous_match
   theme_suggestion: agent-mode-or-model-support
   title: Added `/doctor prompt-audit` (also `/checkup prompt-audit`) to audit your
-    CLAUDE
+    CLAUDE.md…
   type: change
 ---
 

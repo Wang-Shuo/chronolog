@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: c5e75b5c407ae949575cba4bacde2de44281db5a2f5e872a4493c78d87f40b58
+machine_hash: 840821234825d40674fd8295bcd53c654039ed0f2d62c4be16d6df9082c8cba0
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Changed `AskUserQuestion` dialogs to no longer auto-continue by default;
       opt into an idle timeout via `/config`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.200
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   theme: interface-experience
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Changed `AskUserQuestion` dialogs to no longer auto-continue by default;
-    opt int
+  title: Changed `AskUserQuestion` dialogs to no longer auto-continue by default
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-23-added-org-configured-model-restrictions-to-the-model-picker-model-model-and-anth|claude-code-2026-06-23-761df2]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-03-v2-1-200-github-348415228-64d6d68d|claude-code-2026-07-03-v2-1-200-github-348415228-64d6d68d]]'
 source_type: github_releases
 theme: interface-experience
-title: Changed AskUserQuestion dialogs to no longer auto-continue by default; opt
-  int
+title: Changed AskUserQuestion dialogs to no longer auto-continue by default
 type: change
 ---
 
-# Changed `AskUserQuestion` dialogs to no longer auto-continue by default; opt int
+# Changed `AskUserQuestion` dialogs to no longer auto-continue by default
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.200: Changed `AskUserQuestion` dialogs to no longer auto-continue by default; opt into an idle timeout via `/config`

@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: c7401a11a5ef991b6c4efc05b024b7f33c6475dfe3176577324083fd98698bf1
+machine_hash: 211860327386a17db8007c2ae1d7d71ba50e93be94220304ed85c05d6589b02e
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Skills and slash commands can now set `disallowed-tools` in frontmatter
       to remove tools from the model while the skill is active
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.152
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   source_type: github_releases
   theme: model-support
   title: Skills and slash commands can now set `disallowed-tools` in frontmatter to
-    remov
+    remove…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-15-background-sessions-now-preserve-the-model-and-effort-level-you-set-after-waking|claude-code-2026-05-15-ac2b70]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-27-v2-1-152-github-329718732-e62ea850|claude-code-2026-05-27-v2-1-152-github-329718732-e62ea850]]'
 source_type: github_releases
 theme: model-support
-title: Skills and slash commands can now set disallowed-tools in frontmatter to remov
+title: Skills and slash commands can now set disallowed-tools in frontmatter to remove…
 type: change
 ---
 
-# Skills and slash commands can now set `disallowed-tools` in frontmatter to remov
+# Skills and slash commands can now set `disallowed-tools` in frontmatter to remove…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.152: Skills and slash commands can now set `disallowed-tools` in frontmatter to remove tools from the model while the skill is active

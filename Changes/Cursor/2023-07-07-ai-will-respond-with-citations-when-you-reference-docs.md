@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 143b4a414b2dfb071e245394e14740fe3dda0dfa893f141031285b42a88df876
+machine_hash: b5243ad57166f9b89caaf9721768ffacf5b02139beeba459675b166daf332872
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: AI will respond with citations when you reference docs
     source_release: https://cursor.com/changelog/0-2-44
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

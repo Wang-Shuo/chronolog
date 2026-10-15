@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d1db9752de109b9df218914cb4795c0d3db045a7c2e332a2b00c157ac4d7d73b
+machine_hash: 13da29e70e1052779c439f4512e25df407cd0511e0adfcd8ebf2b2e48edf50c4
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added the turn's completion time to the end-of-turn duration line, e.g.
       `✻ Sautéed for 23s · done 6:05 PM`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.246
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -34,8 +34,7 @@ record:
   source_release: claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0
   source_type: github_releases
   theme: editor-experience
-  title: Added the turn's completion time to the end-of-turn duration line, e.g. `✻
-    Sauté
+  title: Added the turn's completion time to the end-of-turn duration line…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-14-added-viminsertmoderemaps-setting-map-two-key-insert-mode-sequences-like-jj-to-e|claude-code-2026-07-14-7fcf5d]]'
@@ -44,11 +43,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0|claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0]]'
 source_type: github_releases
 theme: editor-experience
-title: Added the turn's completion time to the end-of-turn duration line, e.g. ✻ Sauté
+title: Added the turn's completion time to the end-of-turn duration line…
 type: change
 ---
 
-# Added the turn's completion time to the end-of-turn duration line, e.g. `✻ Sauté
+# Added the turn's completion time to the end-of-turn duration line…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.246: Added the turn's completion time to the end-of-turn duration line, e.g. `✻ Sautéed for 23s · done 6:05 PM`

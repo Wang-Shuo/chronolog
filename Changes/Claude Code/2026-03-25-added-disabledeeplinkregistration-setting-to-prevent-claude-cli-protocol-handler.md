@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: bac08dad62983bed5e61e1a552a3bd350f0d36bc9a5c04abfc92ecc053b6da1f
+machine_hash: 1ce7bc6d7a31f944385851b825aa31c4263f73a8e2be3280db7e5e339a800661
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `disableDeepLinkRegistration` setting to prevent `claude-cli://`
       protocol handler registration
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.83
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,7 +36,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Added `disableDeepLinkRegistration` setting to prevent `claude-cli://` protocol
+  title: Added `disableDeepLinkRegistration` setting to prevent `claude-cli://` protocol…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-19-added-cli-tool-usage-detection-to-plugin-tips-in-addition-to-file-pattern-matchi|claude-code-2026-03-19-90d169]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317|claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added disableDeepLinkRegistration setting to prevent claude-cli:// protocol
+title: Added disableDeepLinkRegistration setting to prevent claude-cli:// protocol…
 type: change
 ---
 
-# Added `disableDeepLinkRegistration` setting to prevent `claude-cli://` protocol
+# Added `disableDeepLinkRegistration` setting to prevent `claude-cli://` protocol…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.83: Added `disableDeepLinkRegistration` setting to prevent `claude-cli://` protocol handler registration

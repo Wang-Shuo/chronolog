@@ -11,9 +11,9 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7f11d7eff8cf612c6dab4476589062d5924b50d2960658ca0a2e7cd4ad6ec4a2
+machine_hash: da82fdef1999f1b543db1276042043f5e41bdc87947b14404e4bcd340befa543
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Log out of individual sessions or all sessions from Active sessions
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT

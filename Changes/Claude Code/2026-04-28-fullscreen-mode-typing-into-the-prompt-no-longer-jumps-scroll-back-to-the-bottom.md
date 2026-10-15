@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 720541052672839da983bb81c95cde01fe57d3bd64361a134784cf388859a31d
+machine_hash: 19f1c3f86884c274369e2da6ca864deabba28b57f9bf55b2d4911c760b318598
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: 'Fullscreen mode: typing into the prompt no longer jumps scroll back to
       the bottom after you''ve scrolled up to read earlier output'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.121
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,7 +36,7 @@ record:
   source_type: github_releases
   theme: interface-experience
   title: 'Fullscreen mode: typing into the prompt no longer jumps scroll back to the
-    botto'
+    bottom…'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-23-added-vim-visual-mode-v-and-visual-line-mode-v-with-selection-operators-and-visu|claude-code-2026-04-23-8ff90a]]'
@@ -46,11 +46,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-04-28-v2-1-121-github-3
 source_type: github_releases
 theme: interface-experience
 title: 'Fullscreen mode: typing into the prompt no longer jumps scroll back to the
-  botto'
+  bottom…'
 type: change
 ---
 
-# Fullscreen mode: typing into the prompt no longer jumps scroll back to the botto
+# Fullscreen mode: typing into the prompt no longer jumps scroll back to the bottom…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.121: Fullscreen mode: typing into the prompt no longer jumps scroll back to the bottom after you've scrolled up to read earlier output

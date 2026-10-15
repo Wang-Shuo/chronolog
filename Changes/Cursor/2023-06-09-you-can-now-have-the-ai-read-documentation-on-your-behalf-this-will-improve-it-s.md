@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ea6edb04411e1464d271a81290a9a28d5e8c81324795300c7f4f3db9c15018a7
+machine_hash: 4971b6ce3521c02ddcaa2642468ce996ae904005584583beb7e87c7c2894477f
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
       it's ability to answer questions about your favorite libraries. To use this
       feature, simply press the "Docs" button in the top right of the chat pane.
     source_release: https://cursor.com/changelog/0-2-30
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -39,8 +39,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: You can now have the AI read documentation on your behalf! This will improve
-    it'
+  title: Have the AI read documentation on your behalf!
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-05-12-plugins-try-a-new-version-of-chatgpt-that-knows-when-and-how-to-use-third-party|chatgpt-2023-05-12-14e649]]'
@@ -49,12 +48,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-06-09-0-2-30-https-cursor-com-changelog-0-2-30-0ed341a6|cursor-2023-06-09-0-2-30-https-cursor-com-changelog-0-2-30-0ed341a6]]'
 source_type: cursor_changelog
 theme: apps-integrations
-title: You can now have the AI read documentation on your behalf! This will improve
-  it'
+title: Have the AI read documentation on your behalf!
 type: change
 ---
 
-# You can now have the AI read documentation on your behalf! This will improve it'
+# Have the AI read documentation on your behalf!
 
 <!-- chronolog:begin region="description" -->
 Cursor — Show the AI documentation: You can now have the AI read documentation on your behalf! This will improve it's ability to answer questions about your favorite libraries. To use this feature, simply press the "Docs" button in the top right of the chat pane.

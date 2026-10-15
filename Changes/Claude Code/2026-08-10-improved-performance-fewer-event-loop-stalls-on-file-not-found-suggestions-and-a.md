@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3223807d2cfa6fc10d42c4398e4c2df6f08f3279053a658687cfa7f131f9f0a1
+machine_hash: e6661a346876ef824c01b2040a5826bc78bd23da298b820582125086c278df81
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: 'Improved performance: fewer event-loop stalls on file-not-found suggestions
       and at-mention size checks'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.227
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -34,8 +34,7 @@ record:
   source_release: claude-code-2026-08-10-v2-1-227-github-368190806-b6269cf8
   source_type: github_releases
   theme: reliability-performance
-  title: 'Improved performance: fewer event-loop stalls on file-not-found suggestions
-    and'
+  title: 'Improved performance: fewer event-loop stalls on file-not-found suggestions…'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-07-improved-responsiveness-while-long-responses-stream-live-preview-updates-no-long|claude-code-2026-07-07-8a4dff]]'
@@ -44,12 +43,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-08-10-v2-1-227-github-368190806-b6269cf8|claude-code-2026-08-10-v2-1-227-github-368190806-b6269cf8]]'
 source_type: github_releases
 theme: reliability-performance
-title: 'Improved performance: fewer event-loop stalls on file-not-found suggestions
-  and'
+title: 'Improved performance: fewer event-loop stalls on file-not-found suggestions…'
 type: change
 ---
 
-# Improved performance: fewer event-loop stalls on file-not-found suggestions and
+# Improved performance: fewer event-loop stalls on file-not-found suggestions…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.227: Improved performance: fewer event-loop stalls on file-not-found suggestions and at-mention size checks

@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4de36cfc785facc77a1b697f00c443c06d498e081826dbe3d60baccdb0c19730
+machine_hash: 75fa8571488a83a10ff4e578042844a3b90e55341f6b7f9bf6cf9ec60880d086
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       across turns until it''s met. Works in interactive, `-p`, and Remote Control.
       Shows live elapsed/turns/tokens as an overlay panel'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.139
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -46,8 +46,7 @@ record:
     score: 50
     theme: editor-experience
   theme_resolution: manual-semantic-rule-v1
-  title: 'Added `/goal` command: set a completion condition and Claude keeps working
-    acros'
+  title: Added `/goal` command
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-06-added-plugin-url-url-flag-to-fetch-a-plugin-zip-archive-from-a-url-for-the-curre|claude-code-2026-05-06-acc535]]'
@@ -56,11 +55,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d|claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d]]'
 source_type: github_releases
 theme: apps-integrations
-title: 'Added /goal command: set a completion condition and Claude keeps working acros'
+title: Added /goal command
 type: change
 ---
 
-# Added `/goal` command: set a completion condition and Claude keeps working acros
+# Added `/goal` command
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.139: Added `/goal` command: set a completion condition and Claude keeps working across turns until it's met. Works in interactive, `-p`, and Remote Control. Shows live elapsed/turns/tokens as an overlay panel

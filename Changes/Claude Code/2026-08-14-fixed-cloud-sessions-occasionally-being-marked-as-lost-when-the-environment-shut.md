@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1504e951de2dab8f2e00eae9dbb1f69d15f78cfd3db665e77c1bf9d249d4e529
+machine_hash: 3dc9c3e7b52b6f5aad8895105e7cdcc5cdfedc60f0650005cd1bc47018552bda
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Fixed cloud sessions occasionally being marked as lost when the environment
       shut down while Claude was waiting on a permission prompt
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.233
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,7 +38,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: Fixed cloud sessions occasionally being marked as lost when the environment
-    shut
+    shut…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-06-fixed-permission-prompts-so-commands-padded-with-tabs-or-invisible-unicode-can-n|claude-code-2026-08-06-c063c5]]'
@@ -48,11 +48,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-08-14-v2-1-233-github-3
 source_type: github_releases
 theme: safety-privacy
 title: Fixed cloud sessions occasionally being marked as lost when the environment
-  shut
+  shut…
 type: change
 ---
 
-# Fixed cloud sessions occasionally being marked as lost when the environment shut
+# Fixed cloud sessions occasionally being marked as lost when the environment shut…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.233: Fixed cloud sessions occasionally being marked as lost when the environment shut down while Claude was waiting on a permission prompt

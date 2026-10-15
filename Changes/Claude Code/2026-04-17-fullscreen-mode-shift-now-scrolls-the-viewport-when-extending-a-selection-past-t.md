@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 558468b86092bf43440032627286740f0c4864bccae97245b034f64aca577d1a
+machine_hash: a52c1a90a2dce4b3078151f75575f4e944575b2b462b5590493585ac6868d7de
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: 'Fullscreen mode: Shift+↑/↓ now scrolls the viewport when extending a selection
       past the visible edge'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.113
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,7 +35,7 @@ record:
   source_type: github_releases
   theme: interface-experience
   title: 'Fullscreen mode: Shift+↑/↓ now scrolls the viewport when extending a selection
-    p'
+    past…'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-15-added-tui-command-and-tui-setting-run-tui-fullscreen-to-switch-to-flicker-free-r|claude-code-2026-04-15-55d9a6]]'
@@ -45,11 +45,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-04-17-v2-1-113-github-3
 source_type: github_releases
 theme: interface-experience
 title: 'Fullscreen mode: Shift+↑/↓ now scrolls the viewport when extending a selection
-  p'
+  past…'
 type: change
 ---
 
-# Fullscreen mode: Shift+↑/↓ now scrolls the viewport when extending a selection p
+# Fullscreen mode: Shift+↑/↓ now scrolls the viewport when extending a selection past…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.113: Fullscreen mode: Shift+↑/↓ now scrolls the viewport when extending a selection past the visible edge

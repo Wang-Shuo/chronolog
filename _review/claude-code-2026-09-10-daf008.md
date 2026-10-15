@@ -1,6 +1,6 @@
 ---
 draft: true
-machine_hash: 4b897046ba0d146a15be4b1298978e6a2a651667ea89838a8bb61b8296ca2c84
+machine_hash: 160e59bef8512eb00e4f012ae7ada668b4e550b566f635e0599f06150a8c5a82
 product: claude-code
 record:
   card_id: claude-code-2026-09-10-daf008
@@ -11,7 +11,7 @@ record:
   evidence:
   - quote: Added `configDirectory` to the output of `claude auth status --json`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.268
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

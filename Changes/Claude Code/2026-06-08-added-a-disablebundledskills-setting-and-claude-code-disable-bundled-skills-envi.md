@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 34c04a7142cbdf8d070cd4dcdc38bfd26252e8fef5f37c875eeff1b44e4f7f5b
+machine_hash: f6398f6bbf632bc99879a56280cc4f79d881a2b15ebf3da7e5646a49008afe2b
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       environment variable to hide bundled skills, workflows, and built-in slash commands
       from the model
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.169
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -38,7 +38,7 @@ record:
   source_release: claude-code-2026-06-08-v2-1-169-github-336158564-d513d69d
   source_type: github_releases
   theme: model-support
-  title: Added a `disableBundledSkills` setting and `CLAUDE_CODE_DISABLE_BUNDLED_SKILLS`
+  title: Added a `disableBundledSkills` setting and `CLAUDE_CODE_DISABLE_BUNDLED_SKILLS`…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-06-added-fallbackmodel-setting-to-configure-up-to-three-fallback-models-tried-in-or|claude-code-2026-06-06-0d153f]]'
@@ -47,11 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-08-v2-1-169-github-336158564-d513d69d|claude-code-2026-06-08-v2-1-169-github-336158564-d513d69d]]'
 source_type: github_releases
 theme: model-support
-title: Added a disableBundledSkills setting and CLAUDE_CODE_DISABLE_BUNDLED_SKILLS
+title: Added a disableBundledSkills setting and CLAUDE_CODE_DISABLE_BUNDLED_SKILLS…
 type: change
 ---
 
-# Added a `disableBundledSkills` setting and `CLAUDE_CODE_DISABLE_BUNDLED_SKILLS`
+# Added a `disableBundledSkills` setting and `CLAUDE_CODE_DISABLE_BUNDLED_SKILLS`…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.169: Added a `disableBundledSkills` setting and `CLAUDE_CODE_DISABLE_BUNDLED_SKILLS` environment variable to hide bundled skills, workflows, and built-in slash commands from the model

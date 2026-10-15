@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d8d633e06ed0812dc0f4dd3ab0ee066e7e5897013dd01a2474aeeb6c521376e1
+machine_hash: 931721066e0c9c0bdb7763972dbf33710a44d09cc7e628f20599186ad8487dc3
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Gemini 1.5 Flash is available in long-context mode
     source_release: https://cursor.com/changelog/0-34-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

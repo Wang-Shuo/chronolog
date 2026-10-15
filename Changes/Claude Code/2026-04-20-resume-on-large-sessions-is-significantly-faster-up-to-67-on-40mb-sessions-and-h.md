@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8d08fcbcc512b4ec7142c54b24a936771812d611527708c9b26f9a1bfa5bb322
+machine_hash: ac577c828905abd8bae8e00ca03beb706e43f7ed9c7ac9c8a593855e9b8e8101
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: '`/resume` on large sessions is significantly faster (up to 67% on 40MB+
       sessions) and handles sessions with many dead-fork entries more efficiently'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.116
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,7 +36,7 @@ record:
   source_type: github_releases
   theme: reliability-performance
   title: '`/resume` on large sessions is significantly faster (up to 67% on 40MB+
-    sessions'
+    sessions)…'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-26-added-claude-stream-idle-timeout-ms-env-var-to-configure-the-streaming-idle-watc|claude-code-2026-03-26-33b65d]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-20-v2-1-116-github-311446114-3b24dc7e|claude-code-2026-04-20-v2-1-116-github-311446114-3b24dc7e]]'
 source_type: github_releases
 theme: reliability-performance
-title: /resume on large sessions is significantly faster (up to 67% on 40MB+ sessions
+title: /resume on large sessions is significantly faster (up to 67% on 40MB+ sessions)…
 type: change
 ---
 
-# `/resume` on large sessions is significantly faster (up to 67% on 40MB+ sessions
+# `/resume` on large sessions is significantly faster (up to 67% on 40MB+ sessions)…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.116: `/resume` on large sessions is significantly faster (up to 67% on 40MB+ sessions) and handles sessions with many dead-fork entries more efficiently

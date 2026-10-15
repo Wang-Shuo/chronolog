@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 62fdcf2c56af985a0b35e6efd07cce6051fd1585e979c73222487100485777f7
+machine_hash: 20dd9be960776ee37641291b77c2f6570925a5571df8df6b30bbceac9b1210cc
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Enable it from the dashboard and connect source control, your deploy system,
       and your telemetry provider. Rollouts starts watching on the next pull request.
     source_release: https://cursor.com/changelog/rollouts-and-security-reviewer
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,8 +35,7 @@ record:
   source_release: cursor-2026-09-23-rollouts-and-security-review-https-cursor-com-changelog-rollouts-b860a5fb
   source_type: cursor_changelog
   theme: developer-workflow
-  title: Enable it from the dashboard and connect source control, your deploy system,
-    and
+  title: Enable it from the dashboard and connect source control, your deploy system…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-17-added-syncing-of-the-skills-and-plugins-enabled-on-your-claude-ai-account-to-ter|claude-code-2026-09-17-ed0ee0]]'
@@ -45,12 +44,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-09-23-rollouts-and-security-review-https-cursor-com-changelog-rollouts-b860a5fb|cursor-2026-09-23-rollouts-and-security-review-https-cursor-com-changelog-rollouts-b860a5fb]]'
 source_type: cursor_changelog
 theme: developer-workflow
-title: Enable it from the dashboard and connect source control, your deploy system,
-  and
+title: Enable it from the dashboard and connect source control, your deploy system…
 type: change
 ---
 
-# Enable it from the dashboard and connect source control, your deploy system, and
+# Enable it from the dashboard and connect source control, your deploy system…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Rollouts and Security Review: Enable it from the dashboard and connect source control, your deploy system, and your telemetry provider. Rollouts starts watching on the next pull request.

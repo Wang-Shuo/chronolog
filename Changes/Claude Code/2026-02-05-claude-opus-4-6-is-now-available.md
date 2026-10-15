@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 17eb71ee4f52e0e83e5d67ddd34c69036a16baa3c25d2ffdeb4c34149377e2ef
+machine_hash: eeae98d3f489759a30ec012f9e9303c74d1e0f0fe99d6a06492f82a3ee4a10e5
 product: claude-code
 product_name: Claude Code
 record:
@@ -24,7 +24,7 @@ record:
   evidence:
   - quote: Claude Opus 4.6 is now available!
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.32
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

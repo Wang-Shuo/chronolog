@@ -11,9 +11,9 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a4dc36f6ef80a4501fa35b3eb1efe89cd98ff7bf0c27f81fcf2320506d8d82bb
+machine_hash: 251430babc962dd07bd165759b76420c9785d02182f1cbdf7bacf65a2f874e4a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Included usage allowances are changing. Users affected by these changes
       will receive an email with additional details. The monthly price remains $200.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -37,8 +37,7 @@ record:
   theme: pricing-model
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: Included usage allowances are changing. Users affected by these changes will
-    rec
+  title: Included usage allowances are changing
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-19-changed-auto-mode-for-claude-api-and-enterprise-users-and-on-bedrock-vertex-foun|claude-code-2026-09-19-0ddc26]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-pro-200-subscriptions-a351b7b9|chatgpt-2026-09-29-pro-200-subscriptions-a351b7b9]]'
 source_type: chatgpt_changelog
 theme: pricing-model
-title: Included usage allowances are changing. Users affected by these changes will
-  rec
+title: Included usage allowances are changing
 type: change
 ---
 
-# Included usage allowances are changing. Users affected by these changes will rec
+# Included usage allowances are changing
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Pro 200 subscriptions: Included usage allowances are changing. Users affected by these changes will receive an email with additional details. The monthly price remains $200.

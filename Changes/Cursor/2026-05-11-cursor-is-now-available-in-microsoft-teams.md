@@ -11,9 +11,9 @@ diffusion:
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a74c3772afd0195d6d7aa63af9ba46683d26a11da6ec441b3773bd897ae95f4e
+machine_hash: 843c31d69925be799f1c4d765c37d183d8cdc3cb6b80ead6b406dfe0252e58ec
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Cursor is now available in Microsoft Teams.
     source_release: https://cursor.com/changelog/microsoft-teams
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -33,7 +33,7 @@ record:
   source_release: cursor-2026-05-11-cursor-in-microsoft-teams-https-cursor-com-changelog-microsoft-t-26de16e4
   source_type: cursor_changelog
   theme: collaboration
-  title: Cursor is now available in Microsoft Teams.
+  title: Cursor is now available in Microsoft Teams
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-10-added-team-onboarding-command-to-generate-a-teammate-ramp-up-guide-from-your-loc|claude-code-2026-04-10-aa9ea1]]'
@@ -42,11 +42,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-05-11-cursor-in-microsoft-teams-https-cursor-com-changelog-microsoft-t-26de16e4|cursor-2026-05-11-cursor-in-microsoft-teams-https-cursor-com-changelog-microsoft-t-26de16e4]]'
 source_type: cursor_changelog
 theme: collaboration
-title: Cursor is now available in Microsoft Teams.
+title: Cursor is now available in Microsoft Teams
 type: change
 ---
 
-# Cursor is now available in Microsoft Teams.
+# Cursor is now available in Microsoft Teams
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cursor in Microsoft Teams: Cursor is now available in Microsoft Teams.

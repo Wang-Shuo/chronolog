@@ -11,9 +11,9 @@ diffusion:
   theme: enterprise-admin
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9851e18d5b35311dae11dacfdecd44f774b5d72fb943fa3109c6776442113b48
+machine_hash: 10e4c818ce44b2aecdb37ad7bd20bd90b947c6553e2850501eeb48aede60b376
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
       users. Cursor can also monitor usage and sends automatic alerts to users reaching
       50%, 80%, and 100% of their soft or hard limits.
     source_release: https://cursor.com/changelog/05-04-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,8 +37,7 @@ record:
   source_release: cursor-2026-05-04-model-controls-spend-management-and-usage-analytics-https-cursor-1ab41047
   source_type: cursor_changelog
   theme: enterprise-admin
-  title: Admins can now set soft limits instead of hard limits to avoid blocking users.
-    C
+  title: Admins can now set soft limits instead of hard limits to avoid blocking users
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-23-added-disable-updates-env-var-to-completely-block-all-update-paths-including-man|claude-code-2026-04-23-85de42]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-05-04-model-controls-spend-management-and-usage-analytics-https-cursor-1ab41047|cursor-2026-05-04-model-controls-spend-management-and-usage-analytics-https-cursor-1ab41047]]'
 source_type: cursor_changelog
 theme: enterprise-admin
-title: Admins can now set soft limits instead of hard limits to avoid blocking users.
-  C
+title: Admins can now set soft limits instead of hard limits to avoid blocking users
 type: change
 ---
 
-# Admins can now set soft limits instead of hard limits to avoid blocking users. C
+# Admins can now set soft limits instead of hard limits to avoid blocking users
 
 <!-- chronolog:begin region="description" -->
 Cursor — Model controls, spend management, and usage analytics: Admins can now set soft limits instead of hard limits to avoid blocking users. Cursor can also monitor usage and sends automatic alerts to users reaching 50%, 80%, and 100% of their soft or hard limits.

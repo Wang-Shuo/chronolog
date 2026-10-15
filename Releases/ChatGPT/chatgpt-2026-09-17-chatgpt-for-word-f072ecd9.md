@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2026-09-17'
-machine_hash: 9d8f19a43f7c2ec2025279d2ea67815db55ea2ceacf16e14ef5f5c5e90bdaa19
+machine_hash: d8e2320cabd72226375a1efda312c01ee716117325bbf08fd657670b22e2531f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,6 +41,6 @@ Tracked cards: 2
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- collaboration: [[Changes/ChatGPT/2026-09-17-chatgpt-for-word-is-available-on-all-chatgpt-plans-including-free-your-plan-s-to|ChatGPT for Word is available on all ChatGPT plans, including Free. Your plan’s]]
-- interface-experience: [[Changes/ChatGPT/2026-09-17-chatgpt-is-now-available-in-microsoft-word-you-can-draft-from-notes-summarize-a|ChatGPT is now available in Microsoft Word. You can draft from notes, summarize]]
+- collaboration: [[Changes/ChatGPT/2026-09-17-chatgpt-for-word-is-available-on-all-chatgpt-plans-including-free-your-plan-s-to|ChatGPT for Word is available on all ChatGPT plans, including Free]]
+- interface-experience: [[Changes/ChatGPT/2026-09-17-chatgpt-is-now-available-in-microsoft-word-you-can-draft-from-notes-summarize-a|ChatGPT is now available in Microsoft Word]]
 <!-- chronolog:end -->

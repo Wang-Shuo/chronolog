@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2025-12-10'
-machine_hash: 871fa392c432aabee0db879c5b5898c6e8ac2f956a9d752921fe91f565236437
+machine_hash: dc98efb6d1f83a6ac7e4dc60c1793d0a19a3a548d16b5c2e23421e31c732e68b
 product: cursor
 product_name: Cursor
 record:
@@ -40,9 +40,9 @@ Tracked cards: 5
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- agent-mode: [[Changes/Cursor/2025-12-10-move-elements-update-colors-test-layouts-and-experiment-with-css-in-real-time-th|Move elements, update colors, test layouts, and experiment with CSS in real time]]
-- interface-experience: [[Changes/Cursor/2025-12-10-design-and-code-simultaneously-with-a-brand-new-browser-sidebar-and-component-tr|Design and code simultaneously with a brand new browser sidebar and component tr]]
-- agent-mode: [[Changes/Cursor/2025-12-10-plan-mode-now-supports-inline-mermaid-diagrams-allowing-the-agent-to-automatical|Plan Mode now supports inline Mermaid diagrams, allowing the agent to automatica]]
-- developer-workflow: [[Changes/Cursor/2025-12-10-debug-mode-helps-you-reproduce-and-fix-the-most-tricky-bugs|Debug Mode helps you reproduce and fix the most tricky bugs.]]
-- model-support: [[Changes/Cursor/2025-12-10-cursor-instruments-your-app-with-runtime-logs-to-find-the-root-cause-it-works-ac|Cursor instruments your app with runtime logs to find the root cause. It works a]]
+- agent-mode: [[Changes/Cursor/2025-12-10-move-elements-update-colors-test-layouts-and-experiment-with-css-in-real-time-th|Move elements, update colors, test layouts, and experiment with CSS in real time…]]
+- interface-experience: [[Changes/Cursor/2025-12-10-design-and-code-simultaneously-with-a-brand-new-browser-sidebar-and-component-tr|Design and code simultaneously with a brand new browser sidebar and component tree]]
+- agent-mode: [[Changes/Cursor/2025-12-10-plan-mode-now-supports-inline-mermaid-diagrams-allowing-the-agent-to-automatical|Plan Mode now supports inline Mermaid diagrams, allowing the agent to automatically…]]
+- developer-workflow: [[Changes/Cursor/2025-12-10-debug-mode-helps-you-reproduce-and-fix-the-most-tricky-bugs|Debug Mode helps you reproduce and fix the most tricky bugs]]
+- model-support: [[Changes/Cursor/2025-12-10-cursor-instruments-your-app-with-runtime-logs-to-find-the-root-cause-it-works-ac|Cursor instruments your app with runtime logs to find the root cause]]
 <!-- chronolog:end -->

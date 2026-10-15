@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a363b697b55182ee2c32fc116e50734a74600f2c65ccd376999529b106353dbe
+machine_hash: 3ce10579a649da599c6ba6634807227d0484846e8c2bd73a6f3e22ee9af12a36
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Added actionable suggestions to `/context` command — identifies context-heavy
       tools, memory bloat, and capacity warnings with specific optimization tips
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.74
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -44,8 +44,7 @@ record:
     - context
     score: 50
     theme: context-window
-  title: Added actionable suggestions to `/context` command — identifies context-heavy
-    to
+  title: Added actionable suggestions to `/context` command
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-28-project-configs-auto-memory-now-shared-across-git-worktrees-of-the-same-reposito|claude-code-2026-02-28-29e9b3]]'
@@ -54,12 +53,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-12-v2-1-74-github-295929475-2ee971ae|claude-code-2026-03-12-v2-1-74-github-295929475-2ee971ae]]'
 source_type: github_releases
 theme: memory
-title: Added actionable suggestions to /context command — identifies context-heavy
-  to
+title: Added actionable suggestions to /context command
 type: change
 ---
 
-# Added actionable suggestions to `/context` command — identifies context-heavy to
+# Added actionable suggestions to `/context` command
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.74: Added actionable suggestions to `/context` command — identifies context-heavy tools, memory bloat, and capacity warnings with specific optimization tips

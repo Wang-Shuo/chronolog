@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d2c66033ed78238d003aea9240a97717a015fd119f18570d07aaa65fe6bb29db
+machine_hash: e2068a7c72dc6c13cf03166b18952f2907a5a12cea8109f105d53044cbf464eb
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       other Claude sessions no longer carry user authority — receivers refuse relayed
       permission requests, and auto mode blocks them'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.166
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,8 +38,7 @@ record:
   theme: safety-privacy
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: 'Hardened cross-session messaging: messages relayed via `SendMessage` from
-    other'
+  title: Hardened cross-session messaging
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-06-03-teams-are-the-operating-unit-for-a-department-region-or-subsidiary-this-is-what|cursor-2026-06-03-df00e8]]'
@@ -48,11 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-06-v2-1-166-github-335118845-ef990727|claude-code-2026-06-06-v2-1-166-github-335118845-ef990727]]'
 source_type: github_releases
 theme: safety-privacy
-title: 'Hardened cross-session messaging: messages relayed via SendMessage from other'
+title: Hardened cross-session messaging
 type: change
 ---
 
-# Hardened cross-session messaging: messages relayed via `SendMessage` from other
+# Hardened cross-session messaging
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.166: Hardened cross-session messaging: messages relayed via `SendMessage` from other Claude sessions no longer carry user authority — receivers refuse relayed permission requests, and auto mode blocks them

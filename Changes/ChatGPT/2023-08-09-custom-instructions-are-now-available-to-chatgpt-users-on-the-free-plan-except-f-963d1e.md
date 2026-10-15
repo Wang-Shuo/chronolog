@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d70cc5561418581b7b475a7051c242e320683bafdfe24cf2e018589fee2e5be0
+machine_hash: 222cc16519122331a7acfef730614aa364e3c33d421b2c0851397ba556bb6962
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       interactions with ChatGPT by providing specific details and guidelines for your
       chats.To add your instructions:'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -40,18 +40,18 @@ record:
   source_type: chatgpt_changelog
   theme: memory
   title: Custom instructions are now available to ChatGPT users on the free plan,
-    except
+    except…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|chatgpt-2023-07-20-37833c]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-08-09-custom-instructions-are-now-available-to-free-users-47df9fa5|chatgpt-2023-08-09-custom-instructions-are-now-available-to-free-users-47df9fa5]]'
 source_type: chatgpt_changelog
 theme: memory
-title: Custom instructions are now available to ChatGPT users on the free plan, except
+title: Custom instructions are now available to ChatGPT users on the free plan, except…
 type: change
 ---
 
-# Custom instructions are now available to ChatGPT users on the free plan, except
+# Custom instructions are now available to ChatGPT users on the free plan, except…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Custom instructions are now available to free users: Custom instructions are now available to ChatGPT users on the free plan, except for in the EU UK where we will be rolling it out soon!Customize your interactions with ChatGPT by providing specific details and guidelines for your chats.To add your instructions:

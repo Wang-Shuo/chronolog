@@ -11,9 +11,9 @@ diffusion:
   theme: file-data
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f7ac54796334e89779ac34a850972df6e1688f3dd1074132f2167455ac0bb18a
+machine_hash: 24bd73aa8a459a9f32b2778dd9dfc3f7f1b5563c327f8125948f798f835b89ac
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: 'Canvas in Toolbox: Canvas has been added as an option in the toolbox.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -33,7 +33,7 @@ record:
   source_release: chatgpt-2024-12-10-canvas-a457e8f0
   source_type: chatgpt_changelog
   theme: file-data
-  title: 'Canvas in Toolbox: Canvas has been added as an option in the toolbox.'
+  title: 'Canvas in Toolbox: Canvas has been added as an option in the toolbox'
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2024-12-10-today-we-made-canvas-available-in-4o-by-default-for-all-users-free-and-paid-addi|chatgpt-2024-12-10-11203d]]'
@@ -42,11 +42,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2024-12-10-canvas-a457e8f0|chatgpt-2024-12-10-canvas-a457e8f0]]'
 source_type: chatgpt_changelog
 theme: file-data
-title: 'Canvas in Toolbox: Canvas has been added as an option in the toolbox.'
+title: 'Canvas in Toolbox: Canvas has been added as an option in the toolbox'
 type: change
 ---
 
-# Canvas in Toolbox: Canvas has been added as an option in the toolbox.
+# Canvas in Toolbox: Canvas has been added as an option in the toolbox
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Canvas: Canvas in Toolbox: Canvas has been added as an option in the toolbox.

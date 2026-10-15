@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7116b5e394bc808b9cf0e1d2a9ec5758b2246910e873196b835ca9d42829ec17
+machine_hash: e2cff51dee4fe7d3a2210c93972c7d10ea5a2328210d0d2b6d328c14c8b594af
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: 'Added `vimInsertModeRemaps` setting: map two-key insert-mode sequences
       like `jj` to Escape in vim mode'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.208
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   theme: editor-experience
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: 'Added `vimInsertModeRemaps` setting: map two-key insert-mode sequences like
-    `jj`'
+  title: Added `vimInsertModeRemaps` setting
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-25-added-live-file-path-autocomplete-to-bash-mode|claude-code-2026-06-25-321283]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-14-v2-1-208-github-353442054-2756b984|claude-code-2026-07-14-v2-1-208-github-353442054-2756b984]]'
 source_type: github_releases
 theme: editor-experience
-title: 'Added vimInsertModeRemaps setting: map two-key insert-mode sequences like
-  jj'
+title: Added vimInsertModeRemaps setting
 type: change
 ---
 
-# Added `vimInsertModeRemaps` setting: map two-key insert-mode sequences like `jj`
+# Added `vimInsertModeRemaps` setting
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.208: Added `vimInsertModeRemaps` setting: map two-key insert-mode sequences like `jj` to Escape in vim mode

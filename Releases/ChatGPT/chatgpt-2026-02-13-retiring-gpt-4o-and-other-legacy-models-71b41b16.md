@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-02-13'
-machine_hash: c61efe1e6d2e22decddfcfd31d66b2ccaf381f9e10966efb9c58da7efc199cc0
+machine_hash: 705d904778fb8d0ee8a149a0a62bab5d8d36a4e88fe75ca8ed6f3ba615e071bc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2026-02-13-as-previously-announced-we-have-retired-gpt-4o-gpt-4-1-gpt-4-1-mini-and-openai-o|As previously announced, we have retired GPT-4o, GPT-4.1, GPT-4.1 mini, and Open]]
+- model-support: [[Changes/ChatGPT/2026-02-13-as-previously-announced-we-have-retired-gpt-4o-gpt-4-1-gpt-4-1-mini-and-openai-o|As previously announced, we have retired GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI…]]
 <!-- chronolog:end -->

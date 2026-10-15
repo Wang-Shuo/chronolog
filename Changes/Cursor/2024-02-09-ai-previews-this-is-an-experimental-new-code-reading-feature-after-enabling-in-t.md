@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 9c82013a15feb2499b3ffa626491cfe38b2cd88ac38dc9c925304d9df4ca9878
+machine_hash: 96ffbabb5a4aab44bf14ecc327918c3dc970d6e81e28f48aad2d636151003985
 product: cursor
 product_name: Cursor
 record:
@@ -32,7 +32,7 @@ record:
       notes about the symbol you''re on. If you''d like us to dedicate more time to
       this direction, please let us know.'
     source_release: https://cursor.com/changelog/0-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -40,8 +40,7 @@ record:
   source_release: cursor-2024-02-09-0-26-https-cursor-com-changelog-0-26-9569782c
   source_type: cursor_changelog
   theme: editor-experience
-  title: 'AI Previews: this is an experimental new code reading feature. After enabling
-    in'
+  title: 'AI Previews: this is an experimental new code reading feature'
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-01-18-chat-lints-if-the-ai-suggests-a-code-change-in-chat-that-involves-a-made-up-code|cursor-2024-01-18-f95dc7]]'
@@ -50,12 +49,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-02-09-0-26-https-cursor-com-changelog-0-26-9569782c|cursor-2024-02-09-0-26-https-cursor-com-changelog-0-26-9569782c]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: 'AI Previews: this is an experimental new code reading feature. After enabling
-  in'
+title: 'AI Previews: this is an experimental new code reading feature'
 type: change
 ---
 
-# AI Previews: this is an experimental new code reading feature. After enabling in
+# AI Previews: this is an experimental new code reading feature
 
 <!-- chronolog:begin region="description" -->
 Cursor — AI Previews Beta: AI Previews: this is an experimental new code reading feature. After enabling in the "More" tab beside Chat, just hold shift to see a generate some quick notes about the symbol you're on. If you'd like us to dedicate more time to this direction, please let us know.

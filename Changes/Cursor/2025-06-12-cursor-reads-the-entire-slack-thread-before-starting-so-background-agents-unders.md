@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 63e5fc82dd7f7651a682f5f2e11232c804bfb904fa4ed57b9f2069fe8b90dd86
+machine_hash: 641d9c5621b8d30baa76a014b868c551a0593e06067f0f60fa2cf2bd82f3b95b
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Cursor reads the entire Slack thread before starting, so Background Agents
       understand the full context when you reference previous discussions or issues.
     source_release: https://cursor.com/changelog/1-1
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -45,8 +45,7 @@ record:
     score: 50
     theme: context-window
   theme_resolution: manual-semantic-rule-v1
-  title: Cursor reads the entire Slack thread before starting, so Background Agents
-    under
+  title: Cursor reads the entire Slack thread before starting, so Background Agents…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-06-04-supported-connectors-google-drive-sharepoint-dropbox-box-outlook-gmail-google-ca|chatgpt-2025-06-04-1334fc]]'
@@ -55,12 +54,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-06-12-1-1-https-cursor-com-changelog-1-1-0f0190fc|cursor-2025-06-12-1-1-https-cursor-com-changelog-1-1-0f0190fc]]'
 source_type: cursor_changelog
 theme: apps-integrations
-title: Cursor reads the entire Slack thread before starting, so Background Agents
-  under
+title: Cursor reads the entire Slack thread before starting, so Background Agents…
 type: change
 ---
 
-# Cursor reads the entire Slack thread before starting, so Background Agents under
+# Cursor reads the entire Slack thread before starting, so Background Agents…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Background Agents in Slack: Cursor reads the entire Slack thread before starting, so Background Agents understand the full context when you reference previous discussions or issues.

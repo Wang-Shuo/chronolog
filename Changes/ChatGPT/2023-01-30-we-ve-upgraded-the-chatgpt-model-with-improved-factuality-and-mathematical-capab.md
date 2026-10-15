@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 2e57c133f117942ef9506835c62966ca6c9ebf83230381da8619db4a7f7d8dc4
+machine_hash: 9024e6984e0f6d7ac3c2b11ec00e4972acf5414f59d85342c0b4f73411c747f2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: We’ve upgraded the ChatGPT model with improved factuality and mathematical
       capabilities.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -37,7 +37,7 @@ record:
   source_type: chatgpt_changelog
   theme: model-support
   title: We’ve upgraded the ChatGPT model with improved factuality and mathematical
-    capab
+    capabilities
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|chatgpt-2023-01-09-5af3d4]]'
@@ -45,11 +45,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2023-01-30-factuality-and-mathematic
 source_type: chatgpt_changelog
 theme: model-support
 title: We’ve upgraded the ChatGPT model with improved factuality and mathematical
-  capab
+  capabilities
 type: change
 ---
 
-# We’ve upgraded the ChatGPT model with improved factuality and mathematical capab
+# We’ve upgraded the ChatGPT model with improved factuality and mathematical capabilities
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Factuality and mathematical improvements: We’ve upgraded the ChatGPT model with improved factuality and mathematical capabilities.

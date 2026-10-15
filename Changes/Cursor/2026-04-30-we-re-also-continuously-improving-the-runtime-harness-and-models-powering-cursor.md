@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e1e00743d6731b8382dd4c58bce0592c02ba4fef333882013aa7c9e91becf8bd
+machine_hash: 3fc1542a09640db063892020bdec5abef1c4e6ce348bcb03130ffc085cbd9233
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: We're also continuously improving the runtime, harness, and models powering
       Cursor Security Review for a strong out-of-the-box experience.
     source_release: https://cursor.com/changelog/04-30-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -46,7 +46,7 @@ record:
     theme: safety-privacy
   theme_resolution: manual-semantic-rule-v2
   title: We're also continuously improving the runtime, harness, and models powering
-    Curs
+    Cursor…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-14-the-model-can-now-discover-and-invoke-built-in-slash-commands-like-init-review-a|claude-code-2026-04-14-eb6e81]]'
@@ -56,11 +56,11 @@ source_release: '[[Releases/Cursor/cursor-2026-04-30-cursor-security-review-http
 source_type: cursor_changelog
 theme: safety-privacy
 title: We're also continuously improving the runtime, harness, and models powering
-  Curs
+  Cursor…
 type: change
 ---
 
-# We're also continuously improving the runtime, harness, and models powering Curs
+# We're also continuously improving the runtime, harness, and models powering Cursor…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cursor Security Review: We're also continuously improving the runtime, harness, and models powering Cursor Security Review for a strong out-of-the-box experience.

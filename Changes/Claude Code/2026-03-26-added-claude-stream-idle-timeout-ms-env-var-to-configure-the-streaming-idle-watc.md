@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: b94b523af943d8725dddaaca9a0826f8998a67499593664271e326ec5dd71a26
+machine_hash: 990965cf4205aca1ec353a0d4e97c39766932d5fb8bd1ef80c79cec08c37f43b
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `CLAUDE_STREAM_IDLE_TIMEOUT_MS` env var to configure the streaming
       idle watchdog threshold (default 90s)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.84
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: Added `CLAUDE_STREAM_IDLE_TIMEOUT_MS` env var to configure the streaming
-    idle wa
+    idle…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-18-improved-startup-memory-usage-by-18mb-across-all-scenarios|claude-code-2026-03-18-545a2b]]'
@@ -46,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-26-v2-1-84-github-301540101-d02104aa|claude-code-2026-03-26-v2-1-84-github-301540101-d02104aa]]'
 source_type: github_releases
 theme: reliability-performance
-title: Added CLAUDE_STREAM_IDLE_TIMEOUT_MS env var to configure the streaming idle
-  wa
+title: Added CLAUDE_STREAM_IDLE_TIMEOUT_MS env var to configure the streaming idle…
 type: change
 ---
 
-# Added `CLAUDE_STREAM_IDLE_TIMEOUT_MS` env var to configure the streaming idle wa
+# Added `CLAUDE_STREAM_IDLE_TIMEOUT_MS` env var to configure the streaming idle…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.84: Added `CLAUDE_STREAM_IDLE_TIMEOUT_MS` env var to configure the streaming idle watchdog threshold (default 90s)

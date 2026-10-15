@@ -11,9 +11,9 @@ diffusion:
   theme: file-data
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 5d40a50785b562058bdf863f92dd7e8cfeb3ad781527286d6149560361a7b88a
+machine_hash: 7cde9b938c91f4bccd201456388ea6558dcdbfdf1e6c91eb6854a62eb8c9378e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: Projects can now support 40 uploaded files, up from 20, for Pro users.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -37,7 +37,7 @@ record:
   theme: file-data
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Projects can now support 40 uploaded files, up from 20, for Pro users.
+  title: Projects can now support 40 uploaded files, up from 20, for Pro users
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-01-15-edit-a-code-block-in-canvas|chatgpt-2025-01-15-f32a4e]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-24-project-file-limit-increased-pro-a6870635|chatgpt-2025-06-24-project-file-limit-increased-pro-a6870635]]'
 source_type: chatgpt_changelog
 theme: file-data
-title: Projects can now support 40 uploaded files, up from 20, for Pro users.
+title: Projects can now support 40 uploaded files, up from 20, for Pro users
 type: change
 ---
 
-# Projects can now support 40 uploaded files, up from 20, for Pro users.
+# Projects can now support 40 uploaded files, up from 20, for Pro users
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Project file limit increased (Pro): Projects can now support 40 uploaded files, up from 20, for Pro users.

@@ -11,9 +11,9 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7c965af65ce3dcd1d1fb9c5385f15055d349a40cbee99159f9c51a829c2a03b6
+machine_hash: 3d2abb9dfa29f695e360121d351d3db2f240ace46336c398d7e25ea7310f6d5d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,7 +38,7 @@ record:
       out gradually. Usage limits apply.ChatGPT is also available on Kakao in South
       Korea and Viber in supported markets.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -55,8 +55,7 @@ record:
     - whatsapp
     score: 50
     theme: mobile-desktop
-  title: ChatGPT is available again on WhatsApp in the European Economic Area (EEA).
-    You
+  title: ChatGPT is available again on WhatsApp in the European Economic Area (EEA)
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-26-improved-voice-mode-on-linux-now-distinguishes-no-microphone-from-sox-not-instal|claude-code-2026-06-26-ebd81f]]'
@@ -65,12 +64,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-13-chatgpt-returns-to-whatsapp-in-the-eea-ce61ee08|chatgpt-2026-07-13-chatgpt-returns-to-whatsapp-in-the-eea-ce61ee08]]'
 source_type: chatgpt_changelog
 theme: voice
-title: ChatGPT is available again on WhatsApp in the European Economic Area (EEA).
-  You
+title: ChatGPT is available again on WhatsApp in the European Economic Area (EEA)
 type: change
 ---
 
-# ChatGPT is available again on WhatsApp in the European Economic Area (EEA). You
+# ChatGPT is available again on WhatsApp in the European Economic Area (EEA)
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT returns to WhatsApp in the EEA: ChatGPT is available again on WhatsApp in the European Economic Area (EEA). You can get started without a ChatGPT account by messaging the verified 1-800-CHATGPT contact at +1-800-242-8478.On WhatsApp, you can message ChatGPT, upload images, send voice notes, create images, and use ChatGPT in many languages. Linking your ChatGPT account is optional and provides higher usage limits.Availability is based on the country code associated with your WhatsApp number and may roll out gradually. Usage limits apply.ChatGPT is also available on Kakao in South Korea and Viber in supported markets.

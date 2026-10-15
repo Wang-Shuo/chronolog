@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8fc857a8809aa35d556c2cedea462dd676108a4f67ab35e5757ba6ffa39c70c6
+machine_hash: 5c74f1f427e0bfcba5ef4cfbf2034941406feecf2617a6c1b220e8a39ddb264e
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Changed `--plugin-dir` so local dev copies now override installed marketplace
       plugins with the same name (unless that plugin is force-enabled by managed settings)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.74
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,8 +35,7 @@ record:
   source_release: claude-code-2026-03-12-v2-1-74-github-295929475-2ee971ae
   source_type: github_releases
   theme: apps-integrations
-  title: Changed `--plugin-dir` so local dev copies now override installed marketplace
-    pl
+  title: Changed `--plugin-dir` so local dev copies now override installed marketplace…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-10-added-claude-plugins-as-an-alias-for-claude-plugin|claude-code-2026-03-10-f60eaf]]'
@@ -45,12 +44,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-12-v2-1-74-github-295929475-2ee971ae|claude-code-2026-03-12-v2-1-74-github-295929475-2ee971ae]]'
 source_type: github_releases
 theme: apps-integrations
-title: Changed --plugin-dir so local dev copies now override installed marketplace
-  pl
+title: Changed --plugin-dir so local dev copies now override installed marketplace…
 type: change
 ---
 
-# Changed `--plugin-dir` so local dev copies now override installed marketplace pl
+# Changed `--plugin-dir` so local dev copies now override installed marketplace…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.74: Changed `--plugin-dir` so local dev copies now override installed marketplace plugins with the same name (unless that plugin is force-enabled by managed settings)

@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 866ed5d609ea3b6db4f9840753afbd6177412cfd1fe74c5a7751bba420040442
+machine_hash: 95a039f1be322b97962475c78ae4a0a8cbc3d6151a55aedf3362fb134864bba7
 product: cursor
 product_name: Cursor
 record:
@@ -31,7 +31,7 @@ record:
       at the end of each conversation. You’ll find the Review changes button at the
       bottom of chat after a message from the agent.
     source_release: https://cursor.com/changelog/0-49
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -40,7 +40,7 @@ record:
   source_type: cursor_changelog
   theme: agent-mode
   title: Reviewing agent generated code is now easier with a built-in diff view at
-    the en
+    the end…
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-12-17-docs-git-web-and-folder-are-now-available-in-the-agent|cursor-2024-12-17-dd6bb2]]'
@@ -50,11 +50,11 @@ source_release: '[[Releases/Cursor/cursor-2025-04-15-0-49-https-cursor-com-chang
 source_type: cursor_changelog
 theme: agent-mode
 title: Reviewing agent generated code is now easier with a built-in diff view at the
-  en
+  end…
 type: change
 ---
 
-# Reviewing agent generated code is now easier with a built-in diff view at the en
+# Reviewing agent generated code is now easier with a built-in diff view at the end…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Rules generation, improved agent terminal and MCP images: Reviewing agent generated code is now easier with a built-in diff view at the end of each conversation. You’ll find the Review changes button at the bottom of chat after a message from the agent.

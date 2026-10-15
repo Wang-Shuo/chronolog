@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2023-08-22'
-machine_hash: cd3bcde005c7738477f78d93efac07421b04dafb271c1e6e1cf5898dc7440cce
+machine_hash: df3adfb7de249774588db424efc69a13cfe42a78de747116bf5ec1f09a030194
 product: cursor
 product_name: Cursor
 record:
@@ -39,9 +39,9 @@ Tracked cards: 5
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- editor-experience: [[Changes/Cursor/2023-08-22-codeblocks-and-code-symbols-in-with-codebase-responses-will-now-often-be-clickab|Codeblocks and code symbols in "with codebase" responses will now often be click]]
-- context-window: [[Changes/Cursor/2023-08-22-follow-up-chat-messages-to-with-codebase-will-keep-the-codebase-context|Follow-up chat messages to "with codebase" will keep the codebase context.]]
-- context-window: [[Changes/Cursor/2023-08-22-if-you-reference-a-long-file-that-will-be-cutoff-by-the-context-limit-you-ll-be|If you @ reference a long file that will be cutoff by the context limit, you'll]]
-- editor-experience: [[Changes/Cursor/2023-08-22-you-can-now-reply-to-cmd-k-outputs-making-it-much-easier-to-have-the-model-revis|You can now reply to Cmd-K outputs, making it much easier to have the model revi]]
-- interface-experience: [[Changes/Cursor/2023-08-22-nicer-error-messages-in-the-chat-fewer-annoying-popups|Nicer error messages in the chat! Fewer annoying popups.]]
+- editor-experience: [[Changes/Cursor/2023-08-22-codeblocks-and-code-symbols-in-with-codebase-responses-will-now-often-be-clickab|Codeblocks and code symbols in "with codebase" responses will now often be clickable]]
+- context-window: [[Changes/Cursor/2023-08-22-follow-up-chat-messages-to-with-codebase-will-keep-the-codebase-context|Follow-up chat messages to "with codebase" will keep the codebase context]]
+- context-window: [[Changes/Cursor/2023-08-22-if-you-reference-a-long-file-that-will-be-cutoff-by-the-context-limit-you-ll-be|If you @ reference a long file that will be cutoff by the context limit, you'll…]]
+- editor-experience: [[Changes/Cursor/2023-08-22-you-can-now-reply-to-cmd-k-outputs-making-it-much-easier-to-have-the-model-revis|Reply to Cmd-K outputs, making it much easier to have the model revise its work]]
+- interface-experience: [[Changes/Cursor/2023-08-22-nicer-error-messages-in-the-chat-fewer-annoying-popups|Nicer error messages in the chat!]]
 <!-- chronolog:end -->

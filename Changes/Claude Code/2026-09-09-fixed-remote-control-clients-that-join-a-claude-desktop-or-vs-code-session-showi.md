@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: abe7e6385e4a9875f4d02526b410c04bec6f812035ebfc7e73e29a4bf9e6bc90
+machine_hash: 1df44c5b958de1eb3a51f2552965bd84bae4df4ec3442961d8d82b5af3adae08
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Fixed Remote Control clients that join a Claude Desktop or VS Code session
       showing a stale permission mode until it was changed again
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.267
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,7 +38,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: Fixed Remote Control clients that join a Claude Desktop or VS Code session
-    showi
+    showing…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-04-fixed-remote-control-showing-a-stale-permission-mode-when-a-phone-browser-or-cla|claude-code-2026-09-04-9601e4]]'
@@ -48,11 +48,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-09-09-v2-1-267-github-3
 source_type: github_releases
 theme: safety-privacy
 title: Fixed Remote Control clients that join a Claude Desktop or VS Code session
-  showi
+  showing…
 type: change
 ---
 
-# Fixed Remote Control clients that join a Claude Desktop or VS Code session showi
+# Fixed Remote Control clients that join a Claude Desktop or VS Code session showing…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.267: Fixed Remote Control clients that join a Claude Desktop or VS Code session showing a stale permission mode until it was changed again

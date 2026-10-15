@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 967a02b1e129ea03ffb0003b648153de333ce1a7aedb4af94b244754db1dfb8a
+machine_hash: 4803d7d5ecc2f4ecd53f7c63e7ad1481d2f46d22f3cc57fae1b8fc47496620e4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       web, hover over a chat in the left-hand sidebar, click ⋯, and select Pin chat.
       On mobile, long-press a chat and select Pin chat.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -49,8 +49,7 @@ record:
     - sidebar
     score: 50
     theme: interface-experience
-  title: You can now pin chats to the top of your list for quick access to important
-    conv
+  title: Pin chats to the top of your list for quick access to important conversations
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-10-14-available-on-web-mobile-ios-android-and-desktop-macos-windows-note-in-cambodia-l|chatgpt-2025-10-14-2cf3c2]]'
@@ -59,12 +58,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-12-18-pinned-chats-in-chatgpt-f0483839|chatgpt-2025-12-18-pinned-chats-in-chatgpt-f0483839]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: You can now pin chats to the top of your list for quick access to important
-  conv
+title: Pin chats to the top of your list for quick access to important conversations
 type: change
 ---
 
-# You can now pin chats to the top of your list for quick access to important conv
+# Pin chats to the top of your list for quick access to important conversations
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Pinned chats in ChatGPT: You can now pin chats to the top of your list for quick access to important conversations. Pinned chats are available on iOS, Android, Web, and Atlas. On web, hover over a chat in the left-hand sidebar, click ⋯, and select Pin chat. On mobile, long-press a chat and select Pin chat.

@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: fc24697b3990d48a3f4aa8ca3149e8757938c63d0b0ee9071afda91ed7ffb0c0
+machine_hash: edec18ce8d6cb4c8b2e5568fb21b036faf0096780913a0c0dd66ca6d3f950b55
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: '`claude agents` rows now show `done/total` before the detail when work
       is fanned out; peek shows the longest-running item'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.161
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,7 +35,7 @@ record:
   source_type: github_releases
   theme: agent-mode
   title: '`claude agents` rows now show `done/total` before the detail when work is
-    fanned'
+    fanned out'
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-29-auto-review-is-a-new-run-mode-that-allows-cursor-to-work-for-longer-with-fewer-a|cursor-2026-05-29-3941c1]]'
@@ -45,10 +45,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-06-02-v2-1-161-github-3
 source_type: github_releases
 theme: agent-mode
 title: claude agents rows now show done/total before the detail when work is fanned
+  out
 type: change
 ---
 
-# `claude agents` rows now show `done/total` before the detail when work is fanned
+# `claude agents` rows now show `done/total` before the detail when work is fanned out
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.161: `claude agents` rows now show `done/total` before the detail when work is fanned out; peek shows the longest-running item

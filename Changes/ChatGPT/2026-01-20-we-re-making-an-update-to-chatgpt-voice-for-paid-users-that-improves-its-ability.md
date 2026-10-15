@@ -11,9 +11,9 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7b96ad6a70b0a47301fe64314b4cfefcd2ee98098ef3044356f2bfb4f1ca1d5b
+machine_hash: da413e9c581c2266c2a46979fbb6a0d57e52fb67ff255594ccb4d24dcebec3ef
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
       ability to follow user instructions, as well as fixes a bug where Voice can
       sometimes repeat back custom instructions.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -46,7 +46,7 @@ record:
     score: 60
     theme: memory
   title: We’re making an update to ChatGPT Voice for paid users that improves its
-    ability
+    ability…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-12-11-we-re-retiring-the-voice-experience-in-the-chatgpt-macos-app-on-january-15-2026|chatgpt-2025-12-11-178cb1]]'
@@ -55,11 +55,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-01-20-voice-updates-432d340b|chatgpt-2026-01-20-voice-updates-432d340b]]'
 source_type: chatgpt_changelog
 theme: voice
-title: We’re making an update to ChatGPT Voice for paid users that improves its ability
+title: We’re making an update to ChatGPT Voice for paid users that improves its ability…
 type: change
 ---
 
-# We’re making an update to ChatGPT Voice for paid users that improves its ability
+# We’re making an update to ChatGPT Voice for paid users that improves its ability…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Voice Updates: We’re making an update to ChatGPT Voice for paid users that improves its ability to follow user instructions, as well as fixes a bug where Voice can sometimes repeat back custom instructions.

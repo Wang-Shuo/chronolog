@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: dc6840e0be4e723a0a28283da21246a934ad22d8346cc2cfc7827945c03821f4
+machine_hash: 1e06a63b1b363a960839669f8d0e2af695ec07e309865c9f5f73289f18f853a8
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `/reload-skills` command to re-scan skill directories without restarting
       the session
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.152
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: Added `/reload-skills` command to re-scan skill directories without restarting
-    t
+    the session
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-21-renamed-simplify-to-code-review-with-an-optional-effort-level-e-g-code-review-hi|claude-code-2026-05-21-796b5a]]'
@@ -47,11 +47,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-05-27-v2-1-152-github-3
 source_type: github_releases
 theme: developer-workflow
 title: Added /reload-skills command to re-scan skill directories without restarting
-  t
+  the session
 type: change
 ---
 
-# Added `/reload-skills` command to re-scan skill directories without restarting t
+# Added `/reload-skills` command to re-scan skill directories without restarting the session
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.152: Added `/reload-skills` command to re-scan skill directories without restarting the session

@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 48a80e9a1bb5beafff7dd42670fa121ae502f4f6f46cd55a87d6e767761a4d18
+machine_hash: 7d801ebdc2a2773b9590780e5d0f4b956164023bd26c6786db69201bef9cc51c
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,7 +29,7 @@ record:
       or MCP prompts, their descriptions are sanitized and labeled, and on your machine
       their bodies don''t run `!` commands or expand `@` files'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.228
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,8 +37,7 @@ record:
   source_release: claude-code-2026-08-11-v2-1-228-github-368745796-47d0c6b9
   source_type: github_releases
   theme: apps-integrations
-  title: 'Hardened skills synced from claude.ai: they no longer shadow local commands
-    or M'
+  title: Hardened skills synced from claude.ai
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-07-added-archive-plugin-source-install-plugins-from-a-zip-over-https-without-git-or|claude-code-2026-08-07-5bbbce]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-08-11-v2-1-228-github-368745796-47d0c6b9|claude-code-2026-08-11-v2-1-228-github-368745796-47d0c6b9]]'
 source_type: github_releases
 theme: apps-integrations
-title: 'Hardened skills synced from claude.ai: they no longer shadow local commands
-  or M'
+title: Hardened skills synced from claude.ai
 type: change
 ---
 
-# Hardened skills synced from claude.ai: they no longer shadow local commands or M
+# Hardened skills synced from claude.ai
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.228: Hardened skills synced from claude.ai: they no longer shadow local commands or MCP prompts, their descriptions are sanitized and labeled, and on your machine their bodies don't run `!` commands or expand `@` files

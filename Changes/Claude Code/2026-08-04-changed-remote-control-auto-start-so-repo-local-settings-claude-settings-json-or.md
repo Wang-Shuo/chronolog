@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 2dd021cc1e84be2fba7f33213a2425b998c421e8b96fceaa0ac3ca219bfa4804
+machine_hash: f6929b72801bd8702744663ba292074da4d8c7d893634666a8c46a96781313ce
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       or `.claude/settings.local.json`) can no longer turn it on (they can still turn
       it off); enable it at user scope via `/config`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.222
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,7 +38,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Changed Remote Control auto-start so repo-local settings (`.claude/settings.json
+  title: Changed Remote Control auto-start so repo-local settings…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-08-03-install-plugins-to-connect|cursor-2026-08-03-96c134]]'
@@ -47,11 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-08-04-v2-1-222-github-365137491-9ea4d4a2|claude-code-2026-08-04-v2-1-222-github-365137491-9ea4d4a2]]'
 source_type: github_releases
 theme: apps-integrations
-title: Changed Remote Control auto-start so repo-local settings (.claude/settings.json
+title: Changed Remote Control auto-start so repo-local settings…
 type: change
 ---
 
-# Changed Remote Control auto-start so repo-local settings (`.claude/settings.json
+# Changed Remote Control auto-start so repo-local settings…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.222: Changed Remote Control auto-start so repo-local settings (`.claude/settings.json` or `.claude/settings.local.json`) can no longer turn it on (they can still turn it off); enable it at user scope via `/config`

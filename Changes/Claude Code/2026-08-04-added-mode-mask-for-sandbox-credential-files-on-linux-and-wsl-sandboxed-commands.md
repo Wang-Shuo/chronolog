@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4b38038d6939f829a2fd9edcc17663a4757e374426cc1200b4671a0864933688
+machine_hash: 1f88aecec0f506928bdf79a5b013b7277ea2754fb51586ca50f222b32286f46d
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       an `extract` regex) while the sandbox proxy substitutes the real value on egress;
       on macOS file masking falls back to `deny`'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.221
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -48,8 +48,7 @@ record:
     score: 50
     theme: mobile-desktop
   theme_resolution: manual-semantic-rule-v2
-  title: 'Added `mode: "mask"` for sandbox credential files on Linux and WSL — sandboxed
-    c'
+  title: 'Added `mode: "mask"` for sandbox credential files on Linux and WSL'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-22-fixed-agent-frontmatter-hooks-running-from-untrusted-folders-hooks-now-require-t|claude-code-2026-07-22-9528ae]]'
@@ -58,12 +57,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-08-04-v2-1-221-github-364520051-d6a656ce|claude-code-2026-08-04-v2-1-221-github-364520051-d6a656ce]]'
 source_type: github_releases
 theme: safety-privacy
-title: 'Added mode: "mask" for sandbox credential files on Linux and WSL — sandboxed
-  c'
+title: 'Added mode: "mask" for sandbox credential files on Linux and WSL'
 type: change
 ---
 
-# Added `mode: "mask"` for sandbox credential files on Linux and WSL — sandboxed c
+# Added `mode: "mask"` for sandbox credential files on Linux and WSL
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.221: Added `mode: "mask"` for sandbox credential files on Linux and WSL — sandboxed commands read a sentinel copy (the whole file, or just the spans captured by an `extract` regex) while the sandbox proxy substitutes the real value on egress; on macOS file masking falls back to `deny`

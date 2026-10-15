@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9ee0aaebc9eb7dc4dac282d0c482286f493fd9a00445ad1650efdce196b1b83b
+machine_hash: a3b114a69e5faa077b2ea07815fc5f88600f77176574ca29e21aa00bc3e64867
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   - quote: 'Group work: Upload notes, proposals, and contracts so collaborators can
       draft deliverables faster and stay in sync.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -35,7 +35,7 @@ record:
   source_type: chatgpt_changelog
   theme: reliability-performance
   title: 'Group work: Upload notes, proposals, and contracts so collaborators can
-    draft de'
+    draft…'
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-06-13-more-robust-ability-to-follow-instructions-especially-in-longer-conversations-si|chatgpt-2025-06-13-147d5c]]'
@@ -44,12 +44,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-23-shared-projects-217fa07d|chatgpt-2025-10-23-shared-projects-217fa07d]]'
 source_type: chatgpt_changelog
 theme: reliability-performance
-title: 'Group work: Upload notes, proposals, and contracts so collaborators can draft
-  de'
+title: 'Group work: Upload notes, proposals, and contracts so collaborators can draft…'
 type: change
 ---
 
-# Group work: Upload notes, proposals, and contracts so collaborators can draft de
+# Group work: Upload notes, proposals, and contracts so collaborators can draft…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Shared projects: Group work: Upload notes, proposals, and contracts so collaborators can draft deliverables faster and stay in sync.

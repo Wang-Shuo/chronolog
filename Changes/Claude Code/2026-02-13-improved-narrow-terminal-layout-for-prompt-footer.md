@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 47ac307727efd8e886da299bbd839b4c77e15807dcf3bb857849cb6281c99e88
+machine_hash: 84f3f8e60903aa88dc2cb7180dc618c303cd8e15ccf092af75a0f8d74c84abd0
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Improved narrow terminal layout for prompt footer
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.41
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

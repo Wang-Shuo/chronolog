@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-03-10'
-machine_hash: caa3afbcd08af627d9f72cce2f650b547ac327524faa05727afda2f93e2e59e5
+machine_hash: 1a7e469112614dff63d2a80eab86578b29eb6a10fba15e1c87dfcd7616743f77
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- learning-tools: [[Changes/ChatGPT/2026-03-10-when-you-ask-chatgpt-about-certain-topics-it-can-now-present-an-interactive-visu|When you ask ChatGPT about certain topics, it can now present an interactive vis]]
+- learning-tools: [[Changes/ChatGPT/2026-03-10-when-you-ask-chatgpt-about-certain-topics-it-can-now-present-an-interactive-visu|When you ask ChatGPT about certain topics, it can now present an interactive visual…]]
 <!-- chronolog:end -->

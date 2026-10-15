@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 87a704a79e0588121ee2c74f15e8100fed6e42d137583c62934628f73ab4e28c
+machine_hash: 1e92ae5ce81ad2f5ad685088f4c1353a4e3570ecc78d0b048eb0add7b19854c1
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: PowerShell tool now passes `-ExecutionPolicy Bypass`. Opt out with `CLAUDE_CODE_POWERSHELL_RESPECT_EXECUTION_POLICY=1`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.143
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,7 +35,7 @@ record:
   theme: safety-privacy
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: PowerShell tool now passes `-ExecutionPolicy Bypass`. Opt out with `CLAUDE_CODE_
+  title: PowerShell tool now passes `-ExecutionPolicy Bypass`
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-08-fixed-bash-permission-prompts-showing-an-internal-parser-diagnostic-instead-of-a|claude-code-2026-05-08-05c237]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c|claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c]]'
 source_type: github_releases
 theme: safety-privacy
-title: PowerShell tool now passes -ExecutionPolicy Bypass. Opt out with CLAUDE_CODE
+title: PowerShell tool now passes -ExecutionPolicy Bypass
 type: change
 ---
 
-# PowerShell tool now passes `-ExecutionPolicy Bypass`. Opt out with `CLAUDE_CODE_
+# PowerShell tool now passes `-ExecutionPolicy Bypass`
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.143: PowerShell tool now passes `-ExecutionPolicy Bypass`. Opt out with `CLAUDE_CODE_POWERSHELL_RESPECT_EXECUTION_POLICY=1`

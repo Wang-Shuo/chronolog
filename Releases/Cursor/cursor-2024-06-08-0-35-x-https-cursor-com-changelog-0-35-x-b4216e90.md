@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2024-06-08'
-machine_hash: bdc641e5f6a23c9b08f684883811df504bbfde8d246a1f5629358a2679e267c0
+machine_hash: a869564dd6153e23d12915d56acd1cf557978588d1349f49f0e945b39835cc52
 product: cursor
 product_name: Cursor
 record:
@@ -41,6 +41,6 @@ Tracked cards: 5
 - editor-experience: [[Changes/Cursor/2024-06-08-default-on-cursor-prediction-with-a-new-ui|Default-on Cursor Prediction with a new UI]]
 - context-window: [[Changes/Cursor/2024-06-08-adds-context-pills-to-chat-messages-so-you-can-see-what-will-be-was-used|Adds context pills to chat messages, so you can see what will be/was used]]
 - context-window: [[Changes/Cursor/2024-06-08-cmd-k-context-building-improvements|Cmd K context-building improvements]]
-- model-support: [[Changes/Cursor/2024-06-08-update-0-35-1-disables-copilot-partial-accepts-by-default-and-makes-the-keybindi|UPDATE (0.35.1): Disables Copilot++ partial accepts by default and makes the key]]
-- developer-workflow: [[Changes/Cursor/2024-06-08-remote-tunnels-are-now-supported-remote-ssh-support-is-also-more-robust-now-supp|Remote tunnels are now supported! Remote SSH support is also more robust (now su]]
+- model-support: [[Changes/Cursor/2024-06-08-update-0-35-1-disables-copilot-partial-accepts-by-default-and-makes-the-keybindi|UPDATE (0.35.1): Disables Copilot++ partial accepts by default and makes…]]
+- developer-workflow: [[Changes/Cursor/2024-06-08-remote-tunnels-are-now-supported-remote-ssh-support-is-also-more-robust-now-supp|Remote tunnels are now supported!]]
 <!-- chronolog:end -->

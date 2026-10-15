@@ -11,9 +11,9 @@ diffusion:
   theme: learning-tools
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d890e0628c54b74457a2fe02381071417ab3525440748469543533e7fafc1233
+machine_hash: 31820819db05cb2fc742cd1cf87ebce24490e3d908666b25c9166c004d793991
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Break concepts into easy to follow sections starting simple and adding
       complexity as you progress.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -36,16 +36,16 @@ record:
   theme: learning-tools
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Break concepts into easy to follow sections starting simple and adding complexit
+  title: Break concepts into easy to follow sections starting simple and adding complexity…
   type: change
 source_release: '[[Releases/ChatGPT/chatgpt-2025-07-29-study-mode-ffbfbea6|chatgpt-2025-07-29-study-mode-ffbfbea6]]'
 source_type: chatgpt_changelog
 theme: learning-tools
-title: Break concepts into easy to follow sections starting simple and adding complexit
+title: Break concepts into easy to follow sections starting simple and adding complexity…
 type: change
 ---
 
-# Break concepts into easy to follow sections starting simple and adding complexit
+# Break concepts into easy to follow sections starting simple and adding complexity…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Study Mode: Break concepts into easy to follow sections starting simple and adding complexity as you progress.

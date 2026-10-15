@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2024-04-29'
-machine_hash: 58c6acc321aa2cede2646215c4563adecf71d9e478fff1c2e2ae1b6501027c59
+machine_hash: 85ff5699824d77070d489e1eb9a9fc38c88c9ceacccef039a516a05be89e308e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- memory: [[Changes/ChatGPT/2024-04-29-memory-is-now-available-to-all-chatgpt-plus-users-except-in-europe-korea-where-w-4db29a|Memory is now available to all ChatGPT Plus users, except in Europe Korea where]]
+- memory: [[Changes/ChatGPT/2024-04-29-memory-is-now-available-to-all-chatgpt-plus-users-except-in-europe-korea-where-w-4db29a|Memory is now available to all ChatGPT Plus users, except in Europe Korea where we…]]
 <!-- chronolog:end -->

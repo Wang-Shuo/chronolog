@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: f9bfe59aa4308e817e38fb0c67210b7d1e0304121c39b7a70760e2bd37a5107a
+machine_hash: 720fbdc73a75f05cdb8f4331987690615e7a53ee19c9db471b112cbd4af673e0
 product: cursor
 product_name: Cursor
 record:
@@ -32,7 +32,7 @@ record:
       generate and stream visuals into your plans. You also have more control over
       how you build them, with the option to send selected to-dos to new agents.
     source_release: https://cursor.com/changelog/2-2
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -40,7 +40,7 @@ record:
   source_release: cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323
   source_type: cursor_changelog
   theme: agent-mode
-  title: Plan Mode now supports inline Mermaid diagrams, allowing the agent to automatica
+  title: Plan Mode now supports inline Mermaid diagrams, allowing the agent to automatically…
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-11-21-all-grep-commands-run-by-the-agent-are-now-instant|cursor-2025-11-21-af1861]]'
@@ -49,11 +49,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323|cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: Plan Mode now supports inline Mermaid diagrams, allowing the agent to automatica
+title: Plan Mode now supports inline Mermaid diagrams, allowing the agent to automatically…
 type: change
 ---
 
-# Plan Mode now supports inline Mermaid diagrams, allowing the agent to automatica
+# Plan Mode now supports inline Mermaid diagrams, allowing the agent to automatically…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Debug Mode, Plan Mode Improvements, Multi-Agent Judging, and Pinned Chats: Plan Mode now supports inline Mermaid diagrams, allowing the agent to automatically generate and stream visuals into your plans. You also have more control over how you build them, with the option to send selected to-dos to new agents.

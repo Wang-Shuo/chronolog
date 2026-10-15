@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 18bd0da7cec37173bf2b8111f0531efee77be2812d49c2736c499195848196e8
+machine_hash: b8c065cf8916232c2ed77d8f6cce5b1ded9bc137555e27a96ec8533aa1b266df
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
   - quote: For Auto Attached rules with path patterns defined, Agent will now automatically
       apply the right rules when reading or writing files
     source_release: https://cursor.com/changelog/0-49
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -37,7 +37,7 @@ record:
   source_release: cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f
   source_type: cursor_changelog
   theme: agent-mode
-  title: For Auto Attached rules with path patterns defined, Agent will now automatically
+  title: For Auto Attached rules with path patterns defined, Agent will now automatically…
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-01-23-cursor-rules-users-can-write-several-repository-level-rules-to-disk-in-the-curso|cursor-2025-01-23-eed3a4]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f|cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: For Auto Attached rules with path patterns defined, Agent will now automatically
+title: For Auto Attached rules with path patterns defined, Agent will now automatically…
 type: change
 ---
 
-# For Auto Attached rules with path patterns defined, Agent will now automatically
+# For Auto Attached rules with path patterns defined, Agent will now automatically…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Rules generation, improved agent terminal and MCP images: For Auto Attached rules with path patterns defined, Agent will now automatically apply the right rules when reading or writing files

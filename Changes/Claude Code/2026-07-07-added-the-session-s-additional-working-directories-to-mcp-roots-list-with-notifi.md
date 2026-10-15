@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4ac45facae40bdf578d7176ad5e7c94cd86f21a4c8e9e22653c59e7ffe110b7f
+machine_hash: 5bc0e4fd73d80bdfe5e61debab84f8b0f7c4a24bbb9161cf9f452ddc153217cf
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Added the session's additional working directories to MCP `roots/list`,
       with `notifications/roots/list_changed` sent when the set changes
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.203
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,8 +35,7 @@ record:
   source_release: claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc
   source_type: github_releases
   theme: apps-integrations
-  title: Added the session's additional working directories to MCP `roots/list`, with
-    `no
+  title: Added the session's additional working directories to MCP `roots/list`…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-01-added-dataviz-skill-for-chart-and-dashboard-design-guidance-with-a-runnable-colo|claude-code-2026-07-01-e79b67]]'
@@ -45,12 +44,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc|claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added the session's additional working directories to MCP roots/list, with
-  no
+title: Added the session's additional working directories to MCP roots/list…
 type: change
 ---
 
-# Added the session's additional working directories to MCP `roots/list`, with `no
+# Added the session's additional working directories to MCP `roots/list`…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.203: Added the session's additional working directories to MCP `roots/list`, with `notifications/roots/list_changed` sent when the set changes

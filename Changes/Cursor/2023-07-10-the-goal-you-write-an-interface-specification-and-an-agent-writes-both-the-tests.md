@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: fa8fbfaaa94ecd71cee1ed8534ee1c44e63c20cee3806d9b786c28240e5c4d4f
+machine_hash: 216e4ff990dae976db3069091897d2115fa3b1d83c30b4405f049fadabe7e798
 product: cursor
 product_name: Cursor
 record:
@@ -31,7 +31,7 @@ record:
       the tests and the implementation for you. It makes sure that the tests pass,
       so you don''t even need to look at the implementation at all.'
     source_release: https://cursor.com/changelog/0-2-46-nightly
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -40,7 +40,7 @@ record:
   source_type: cursor_changelog
   theme: agent-mode
   title: 'The goal: you write an interface specification, and an agent writes both
-    the tes'
+    the tests…'
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|cursor-2023-07-06-d7057e]]'
@@ -49,11 +49,11 @@ source_release: '[[Releases/Cursor/cursor-2023-07-10-0-2-46-nightly-https-cursor
 source_type: cursor_changelog
 theme: agent-mode
 title: 'The goal: you write an interface specification, and an agent writes both the
-  tes'
+  tests…'
 type: change
 ---
 
-# The goal: you write an interface specification, and an agent writes both the tes
+# The goal: you write an interface specification, and an agent writes both the tests…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Experimental: interface agent!: The goal: you write an interface specification, and an agent writes both the tests and the implementation for you. It makes sure that the tests pass, so you don't even need to look at the implementation at all.

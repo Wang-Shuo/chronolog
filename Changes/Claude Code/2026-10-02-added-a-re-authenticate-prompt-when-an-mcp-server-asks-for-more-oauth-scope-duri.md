@@ -11,9 +11,9 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d1a1e635329cb13a44955e52a44f7a826775de11674553cc1e1b6808fb25e6b6
+machine_hash: 39168466e0eacab115c44a0ce23b09f3f7711defa31d34db848b83033b256dbb
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added a re-authenticate prompt when an MCP server asks for more OAuth scope
       during a tool call
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.288
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -45,7 +45,7 @@ record:
     theme: apps-integrations
   theme_resolution: manual-semantic-rule-v1
   title: Added a re-authenticate prompt when an MCP server asks for more OAuth scope
-    duri
+    during…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-17-added-the-signed-in-account-to-claude-apps-gateway-sign-in-when-the-gateway-name|claude-code-2026-09-17-c1bdde]]'
@@ -55,11 +55,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-10-02-v2-1-288-github-4
 source_type: github_releases
 theme: account-access
 title: Added a re-authenticate prompt when an MCP server asks for more OAuth scope
-  duri
+  during…
 type: change
 ---
 
-# Added a re-authenticate prompt when an MCP server asks for more OAuth scope duri
+# Added a re-authenticate prompt when an MCP server asks for more OAuth scope during…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.288: Added a re-authenticate prompt when an MCP server asks for more OAuth scope during a tool call

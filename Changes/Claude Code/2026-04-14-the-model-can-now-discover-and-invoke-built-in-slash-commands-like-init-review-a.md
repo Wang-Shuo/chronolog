@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: e54e88f73ccd2b26009a42adc3b5007279f4ac1cec0def1c63f34b0db0227302
+machine_hash: 1c75032eeb7237a0f172982ef679a9e363046d79e8d16b2a7af1117df65523fc
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: The model can now discover and invoke built-in slash commands like `/init`,
       `/review`, and `/security-review` via the Skill tool
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.108
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -46,8 +46,7 @@ record:
     score: 50
     theme: safety-privacy
   theme_resolution: manual-semantic-rule-v1
-  title: The model can now discover and invoke built-in slash commands like `/init`,
-    `/re
+  title: The model can now discover and invoke built-in slash commands like `/init`…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-01-added-defer-permission-decision-to-pretooluse-hooks-headless-sessions-can-pause|claude-code-2026-04-01-789bcb]]'
@@ -56,11 +55,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-14-v2-1-108-github-309009167-35123bd5|claude-code-2026-04-14-v2-1-108-github-309009167-35123bd5]]'
 source_type: github_releases
 theme: safety-privacy
-title: The model can now discover and invoke built-in slash commands like /init, /re
+title: The model can now discover and invoke built-in slash commands like /init…
 type: change
 ---
 
-# The model can now discover and invoke built-in slash commands like `/init`, `/re
+# The model can now discover and invoke built-in slash commands like `/init`…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.108: The model can now discover and invoke built-in slash commands like `/init`, `/review`, and `/security-review` via the Skill tool

@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3b25479c6f2663399deceae08d43efad036af1e94f4f036c785931ad1138291b
+machine_hash: 7f9d51bf1b66bdaa4839fac7d6c86b854c9f311e1a270a2aff154feae5344905
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Improved MCP read/search tool calls to collapse into a single "Queried
       {server}" line (expand with Ctrl+O)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.81
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -34,7 +34,7 @@ record:
   source_release: claude-code-2026-03-20-v2-1-81-github-299621655-10d2d4fe
   source_type: github_releases
   theme: apps-integrations
-  title: Improved MCP read/search tool calls to collapse into a single "Queried {server}"
+  title: Improved MCP read/search tool calls to collapse into a single…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-19-added-source-settings-plugin-marketplace-source-declare-plugin-entries-inline-in|claude-code-2026-03-19-2a82cc]]'
@@ -43,11 +43,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-20-v2-1-81-github-299621655-10d2d4fe|claude-code-2026-03-20-v2-1-81-github-299621655-10d2d4fe]]'
 source_type: github_releases
 theme: apps-integrations
-title: Improved MCP read/search tool calls to collapse into a single "Queried {server}"
+title: Improved MCP read/search tool calls to collapse into a single…
 type: change
 ---
 
-# Improved MCP read/search tool calls to collapse into a single "Queried {server}"
+# Improved MCP read/search tool calls to collapse into a single…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.81: Improved MCP read/search tool calls to collapse into a single "Queried {server}" line (expand with Ctrl+O)

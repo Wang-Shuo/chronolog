@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-05-05'
-machine_hash: 5ad6e92ffa12abc5211a3356b45e91f91996995541da215cb1d52ae4e56554e1
+machine_hash: 0403caa3ed33634f8b45b2af6e890a08f54fe239c65e444d054617ea86812009
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2026-05-05-we-re-rolling-out-gpt-5-5-instant-as-chatgpt-s-new-default-model-it-replaces-gpt|We’re rolling out GPT-5.5 Instant as ChatGPT’s new default model. It replaces GP]]
+- model-support: [[Changes/ChatGPT/2026-05-05-we-re-rolling-out-gpt-5-5-instant-as-chatgpt-s-new-default-model-it-replaces-gpt|ChatGPT rolls out GPT-5.5 Instant as ChatGPT’s new default model]]
 <!-- chronolog:end -->

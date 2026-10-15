@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2024-07-13'
-machine_hash: 24ab88d96520935c08b039022886b2242d6420d9ae607ebb876350b8a59524ec
+machine_hash: 5b48385a54e3230f12d55efd21ce351f6aacdaf404ace40d7078419f065a2757
 product: cursor
 product_name: Cursor
 record:
@@ -40,5 +40,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- editor-experience: [[Changes/Cursor/2024-07-13-this-build-comes-with-a-new-experimental-multi-file-editing-feature-to-enable-it|This build comes with a new experimental multi-file editing feature. To enable i]]
+- editor-experience: [[Changes/Cursor/2024-07-13-this-build-comes-with-a-new-experimental-multi-file-editing-feature-to-enable-it|This build comes with a new experimental multi-file editing feature]]
 <!-- chronolog:end -->

@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-08-08'
-machine_hash: 93d68b04ddf2eb96e828607f0b43c6aaf3ad1637c7683a99a587f681cd0ac300
+machine_hash: cb24efdf6c0287bead73192b7b8c0f4de796867fce74720d687789610c7e81e4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,5 +39,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- image-generation: [[Changes/ChatGPT/2025-08-08-we-re-rolling-out-a-small-update-to-image-generation-for-chatgpt-free-tier-users|We're rolling out a small update to image generation for ChatGPT Free tier users]]
+- image-generation: [[Changes/ChatGPT/2025-08-08-we-re-rolling-out-a-small-update-to-image-generation-for-chatgpt-free-tier-users|ChatGPT rolls out a small update to image generation for ChatGPT Free tier users…]]
 <!-- chronolog:end -->

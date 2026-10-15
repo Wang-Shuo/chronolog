@@ -11,9 +11,9 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 061f5c55cb0e9aaa8caefc316f5859b9ac006accf03acb8952d15b11ab4823aa
+machine_hash: 02f28c3ae0baaf029a8ac893e9d29851a06b3a95880717aa18db1ddbf96ecc32
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
       to start or coordinate work using the tools and permissions available to the
       selected experience.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -49,8 +49,7 @@ record:
     - desktop
     score: 50
     theme: mobile-desktop
-  title: ChatGPT Voice is now available in Work and Codex in the ChatGPT desktop app.
-    Sta
+  title: ChatGPT Voice is now available in Work and Codex in the ChatGPT desktop app
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-06-29-open-the-cursor-mobile-app-choose-a-repo-and-launch-an-agent-the-same-way-you-wo|cursor-2026-06-29-fe852a]]'
@@ -59,12 +58,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-23-chatgpt-voice-in-work-and-codex-on-desktop-449df8e7|chatgpt-2026-07-23-chatgpt-voice-in-work-and-codex-on-desktop-449df8e7]]'
 source_type: chatgpt_changelog
 theme: voice
-title: ChatGPT Voice is now available in Work and Codex in the ChatGPT desktop app.
-  Sta
+title: ChatGPT Voice is now available in Work and Codex in the ChatGPT desktop app
 type: change
 ---
 
-# ChatGPT Voice is now available in Work and Codex in the ChatGPT desktop app. Sta
+# ChatGPT Voice is now available in Work and Codex in the ChatGPT desktop app
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT Voice in Work and Codex on desktop: ChatGPT Voice is now available in Work and Codex in the ChatGPT desktop app. Start a new task in Voice to speak naturally, interrupt, and ask Voice to start or coordinate work using the tools and permissions available to the selected experience.

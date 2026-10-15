@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d020b0bb6f90880bd97e34c1e3c0a0f14d2ce3f49c3c56961130de9494548a44
+machine_hash: 4f63901ae5050c47f804d4778ae13186c52933e9978824bddeacdd8e4aa670d7
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       subscribers, so the usage-limit notices that mention it point to a command you
       can find
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.284
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   source_release: claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49
   source_type: github_releases
   theme: interface-experience
-  title: Added `/rate-limit-options` to `/help` and the command menu for claude.ai
-    subscr
+  title: Added `/rate-limit-options` to `/help` and the command menu for claude.ai…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-09-17-chatgpt-is-now-available-in-microsoft-word-you-can-draft-from-notes-summarize-a|chatgpt-2026-09-17-f3d1dc]]'
@@ -46,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49|claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49]]'
 source_type: github_releases
 theme: interface-experience
-title: Added /rate-limit-options to /help and the command menu for claude.ai subscr
+title: Added /rate-limit-options to /help and the command menu for claude.ai…
 type: change
 ---
 
-# Added `/rate-limit-options` to `/help` and the command menu for claude.ai subscr
+# Added `/rate-limit-options` to `/help` and the command menu for claude.ai…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.284: Added `/rate-limit-options` to `/help` and the command menu for claude.ai subscribers, so the usage-limit notices that mention it point to a command you can find

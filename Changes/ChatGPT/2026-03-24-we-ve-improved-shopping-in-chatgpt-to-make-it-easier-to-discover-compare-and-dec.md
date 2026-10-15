@@ -11,9 +11,9 @@ diffusion:
   theme: search-browsing
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 00b8d60455da4d0e847f3ab79c0ce56a8beb829dec4947f7e1ddf3aa2542b24d
+machine_hash: 0f9e599f6241d027a39ab4b60b491d3bf3c644781430ba39a97029fb633d4fa6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,7 +43,7 @@ record:
       updates improve how ChatGPT retrieves and presents product information from
       merchants and other providers using the Agentic Commerce Protocol (ACP).
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -65,8 +65,8 @@ record:
     score: 50
     theme: search-browsing
   theme_resolution: manual-backfill-review-v1
-  title: We’ve improved shopping in ChatGPT to make it easier to discover, compare,
-    and d
+  title: ChatGPT improves shopping to make it easier to discover, compare, and decide
+    on products
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-09-29-ask-chatgpt-a-shopping-question-and-it-finds-organic-unsponsored-product-results|chatgpt-2025-09-29-f21703]]'
@@ -75,12 +75,12 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-24-shopping-updates-in-chatgpt-4ca736aa|chatgpt-2026-03-24-shopping-updates-in-chatgpt-4ca736aa]]'
 source_type: chatgpt_changelog
 theme: search-browsing
-title: We’ve improved shopping in ChatGPT to make it easier to discover, compare,
-  and d
+title: ChatGPT improves shopping to make it easier to discover, compare, and decide
+  on products
 type: change
 ---
 
-# We’ve improved shopping in ChatGPT to make it easier to discover, compare, and d
+# ChatGPT improves shopping to make it easier to discover, compare, and decide on products
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Shopping updates in ChatGPT: We’ve improved shopping in ChatGPT to make it easier to discover, compare, and decide on products.Product results are now more visually rich, with improved detail and relevance. You can browse products in chat, refine results through conversation, and upload images to find similar items. Products can also be compared side by side with key details such as price, reviews, and features, making it easier to compare without opening multiple tabs.We’ve also improved product data coverage, freshness, and speed so results are more up to date and useful. These improvements are rolling out to all ChatGPT users this week.These updates improve how ChatGPT retrieves and presents product information from merchants and other providers using the Agentic Commerce Protocol (ACP).

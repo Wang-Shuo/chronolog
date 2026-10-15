@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-01-30'
-machine_hash: 50cc51f482b8011e03cbcf00ca02c375b5c39c1ff9e3c17e83a31912254eb2aa
+machine_hash: 107f051fc7fd679909aed5e163b1babe751347dced4058fae152f6f816478ac7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- interface-experience: [[Changes/ChatGPT/2026-01-30-responses-in-chatgpt-are-now-more-visual-and-easier-to-scan-for-everyday-questio|Responses in ChatGPT are now more visual and easier to scan.For everyday questio]]
+- interface-experience: [[Changes/ChatGPT/2026-01-30-responses-in-chatgpt-are-now-more-visual-and-easier-to-scan-for-everyday-questio|Responses in ChatGPT are now more visual and easier to scan]]
 <!-- chronolog:end -->

@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: df75c7194319fec369e60d1966a683b8e850c2fae18c9a6cb2fd28db6214a7f2
+machine_hash: 145d1cf9586c6038095548bc60e19446057376679f1f4e55ef900fb0557b4396
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
       default, ChatGPT asks the user to approve the message and recipients before
       sending. Learn more about the Apple Messages plugin.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -51,8 +51,7 @@ record:
     score: 50
     theme: mobile-desktop
   theme_resolution: manual-semantic-rule-v1
-  title: Use Apple Messages from Codex and ChatGPT Work. On Apple silicon Macs, the
-    Apple
+  title: Use Apple Messages from Codex and ChatGPT Work
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-12-documented-claude-remote-control-continue-for-resuming-the-most-recent-remote-co|claude-code-2026-08-12-bb1792]]'
@@ -61,12 +60,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574|chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
-title: Use Apple Messages from Codex and ChatGPT Work. On Apple silicon Macs, the
-  Apple
+title: Use Apple Messages from Codex and ChatGPT Work
 type: change
 ---
 
-# Use Apple Messages from Codex and ChatGPT Work. On Apple silicon Macs, the Apple
+# Use Apple Messages from Codex and ChatGPT Work
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Codex and ChatGPT feature updates: Use Apple Messages from Codex and ChatGPT Work. On Apple silicon Macs, the Apple Messages plugin in the ChatGPT desktop app can read and search iMessage, SMS, and RCS conversations and prepare or send messages through Messages. By default, ChatGPT asks the user to approve the message and recipients before sending. Learn more about the Apple Messages plugin.

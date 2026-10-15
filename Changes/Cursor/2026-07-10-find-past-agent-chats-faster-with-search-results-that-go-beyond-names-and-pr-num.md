@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 5ddfd01c9477d00548ef5eadf184152224bbca38b0f24fbe0a14abe054f24111
+machine_hash: 04e9ec2040960793edd43081a9c31051472195304e69a8e7e4aca127fd3cf181
 product: cursor
 product_name: Cursor
 record:
@@ -33,7 +33,7 @@ record:
       command palette (Cmd+K). Cursor builds a local search index that scales search
       to thousands of conversations with snappy performance.
     source_release: https://cursor.com/changelog/side-chat
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -62,7 +62,7 @@ record:
     theme: search-browsing
   theme_resolution: manual-semantic-rule-v1
   title: Find past agent chats faster with search results that go beyond names and
-    PR num
+    PR numbers
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-06-17-this-is-especially-useful-for-isolating-long-running-or-parallel-work-like-fixin|cursor-2026-06-17-1edb5b]]'
@@ -72,11 +72,11 @@ source_release: '[[Releases/Cursor/cursor-2026-07-10-3-11-https-cursor-com-chang
 source_type: cursor_changelog
 theme: editor-experience
 title: Find past agent chats faster with search results that go beyond names and PR
-  num
+  numbers
 type: change
 ---
 
-# Find past agent chats faster with search results that go beyond names and PR num
+# Find past agent chats faster with search results that go beyond names and PR numbers
 
 <!-- chronolog:begin region="description" -->
 Cursor — Side Chats and Conversation Search: Find past agent chats faster with search results that go beyond names and PR numbers. In the Agents Window, you can search agent transcripts from the command palette (Cmd+K). Cursor builds a local search index that scales search to thousands of conversations with snappy performance.

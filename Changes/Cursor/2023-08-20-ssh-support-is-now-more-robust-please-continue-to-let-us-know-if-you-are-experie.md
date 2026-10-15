@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: f13f9f171abf0ebc34bea777d5421c87a7c0ce05781e9dfda6048f1b2489ff36
+machine_hash: f7c056ecadbbc24b9e296333063852c5e11132571200aa59701a1d954396886c
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
   - quote: SSH support is now more robust! Please continue to let us know if you are
       experiencing any SSH problems.
     source_release: https://cursor.com/changelog/0-7-16-nightly
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -38,8 +38,7 @@ record:
   theme: reliability-performance
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: SSH support is now more robust! Please continue to let us know if you are
-    experi
+  title: SSH support is now more robust!
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-02-13-based-on-user-feedback-we-are-now-defaulting-plus-users-to-a-faster-version-of-c|chatgpt-2023-02-13-24aa11]]'
@@ -48,11 +47,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-08-20-0-7-16-nightly-https-cursor-com-changelog-0-7-16-nightly-44582b7b|cursor-2023-08-20-0-7-16-nightly-https-cursor-com-changelog-0-7-16-nightly-44582b7b]]'
 source_type: cursor_changelog
 theme: reliability-performance
-title: SSH support is now more robust! Please continue to let us know if you are experi
+title: SSH support is now more robust!
 type: change
 ---
 
-# SSH support is now more robust! Please continue to let us know if you are experi
+# SSH support is now more robust!
 
 <!-- chronolog:begin region="description" -->
 Cursor — More robust SSH support: SSH support is now more robust! Please continue to let us know if you are experiencing any SSH problems.

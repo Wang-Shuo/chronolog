@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 93634c615e60b8d2e38801dd0b8b6c6e912b1aef8c6d2aa6d4586e5c023e55af
+machine_hash: 4b98f3e0ef562c2a101c383b401500dc30d7e76c63249f59e9aaa9b97f43e320
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
   - quote: 'New GPT-4 model: As of a couple of days ago, you can try out gpt-4-turbo-2024-04-09
       in Cursor by toggling it on in Settings > Models.'
     source_release: https://cursor.com/changelog/0-32-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -39,7 +39,7 @@ record:
   theme: model-support
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: 'New GPT-4 model: As of a couple of days ago, you can try out gpt-4-turbo-2024-04'
+  title: 'New GPT-4 model: As of a couple of days ago, you can try out gpt-4-turbo-2024-04-09…'
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-01-25-both-pro-and-api-key-users-can-also-try-out-gpt-4-0125-preview-by-configuring-th|cursor-2024-01-25-f7cd44]]'
@@ -48,11 +48,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-04-12-0-32-x-https-cursor-com-changelog-0-32-x-ce3690fc|cursor-2024-04-12-0-32-x-https-cursor-com-changelog-0-32-x-ce3690fc]]'
 source_type: cursor_changelog
 theme: model-support
-title: 'New GPT-4 model: As of a couple of days ago, you can try out gpt-4-turbo-2024-04'
+title: 'New GPT-4 model: As of a couple of days ago, you can try out gpt-4-turbo-2024-04-09…'
 type: change
 ---
 
-# New GPT-4 model: As of a couple of days ago, you can try out gpt-4-turbo-2024-04
+# New GPT-4 model: As of a couple of days ago, you can try out gpt-4-turbo-2024-04-09…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Improved Copilot++ UX, New GPT-4 Model: New GPT-4 model: As of a couple of days ago, you can try out gpt-4-turbo-2024-04-09 in Cursor by toggling it on in Settings > Models.

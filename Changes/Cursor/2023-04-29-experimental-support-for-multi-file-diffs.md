@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 4995d90b58bbeef6b6b9096f288777fc76151130e27bb57c60e90e7fbf993574
+machine_hash: 38a3c3da7b79644b31de44343c764f37e2514138c1fe8c1779668ef12c702a6a
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: Experimental support for multi-file diffs
     source_release: https://cursor.com/changelog/0-2-8
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor

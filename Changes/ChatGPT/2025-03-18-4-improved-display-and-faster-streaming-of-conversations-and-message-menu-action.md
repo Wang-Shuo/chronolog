@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: cd45e3cc3054eefe2e7626a73203265426d0bd3e81e4d0c0f13059fea64e7768
+machine_hash: 998ece32886571eae4a0d835ee38b9ebcce84da0a860a9f8ac816773d89055ba
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   - quote: 4⁠. Improved display and faster streaming of conversations and message
       menu actions.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -44,8 +44,7 @@ record:
     score: 50
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v1
-  title: 4⁠. Improved display and faster streaming of conversations and message menu
-    acti
+  title: Improved display and faster streaming of conversations and message menu actions
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-02-21-2-text-selection-improvements-you-can-now-select-text-across-horizontal-rulers-3|chatgpt-2025-02-21-ddab00]]'
@@ -54,12 +53,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-03-18-ios-app-6a42bb0f|chatgpt-2025-03-18-ios-app-6a42bb0f]]'
 source_type: chatgpt_changelog
 theme: reliability-performance
-title: 4⁠. Improved display and faster streaming of conversations and message menu
-  acti
+title: Improved display and faster streaming of conversations and message menu actions
 type: change
 ---
 
-# 4⁠. Improved display and faster streaming of conversations and message menu acti
+# Improved display and faster streaming of conversations and message menu actions
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — iOS App: 4⁠. Improved display and faster streaming of conversations and message menu actions.

@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 48f443f32695d43ca40c07bacee7c1655fa879ae6bcae0d4fb69daafd925b1fe
+machine_hash: 52cb60a6b4703476cde51a35d681201aeafb0cb42280ac613f545423e9c68415
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Better @ symbol keyboard ergonomics
     source_release: https://cursor.com/changelog/0-2-44
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

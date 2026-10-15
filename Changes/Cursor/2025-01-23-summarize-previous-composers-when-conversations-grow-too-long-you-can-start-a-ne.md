@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: ec32bde4f398f0f6cc9e3609596103193485132b8143c28bd00ab2e16083708e
+machine_hash: 953f3e496289e3c9186b81ae416501f551b4d3e213e3daf2be5f5c5d2cedb094
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
   - quote: 'Summarize Previous Composers: When conversations grow too long, you can
       start a new conversation while referencing the previous one.'
     source_release: https://cursor.com/changelog/0-45-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -39,8 +39,7 @@ record:
   theme: context-window
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: 'Summarize Previous Composers: When conversations grow too long, you can
-    start a'
+  title: Summarize Previous Composers
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-11-24-recommended-in-chat-composer-to-semantically-search-for-context|cursor-2024-11-24-41c98c]]'
@@ -49,12 +48,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-01-23-0-45-x-https-cursor-com-changelog-0-45-x-c162d228|cursor-2025-01-23-0-45-x-https-cursor-com-changelog-0-45-x-c162d228]]'
 source_type: cursor_changelog
 theme: context-window
-title: 'Summarize Previous Composers: When conversations grow too long, you can start
-  a'
+title: Summarize Previous Composers
 type: change
 ---
 
-# Summarize Previous Composers: When conversations grow too long, you can start a
+# Summarize Previous Composers
 
 <!-- chronolog:begin region="description" -->
 Cursor — .cursor/rules, Better Codebase Understanding, New Tab Model: Summarize Previous Composers: When conversations grow too long, you can start a new conversation while referencing the previous one.

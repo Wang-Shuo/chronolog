@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: ce69ff5ccec59f87c8fda2bf6295c654e3cd8360e13cabb923ad34a6d608d442
+machine_hash: 8ebe7dd04eab57b312ee9e6bee658c6f8e0beb5db93f5f193836caeb95f3088a
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,7 +29,7 @@ record:
   - quote: 'Improved agent view: pasting the same text again now expands the collapsed
       `[Pasted text #N]` placeholder instead of adding a second one'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.207
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code
@@ -39,8 +39,7 @@ record:
   theme: interface-experience
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: 'Improved agent view: pasting the same text again now expands the collapsed
-    `[Pas'
+  title: Improved agent view
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-23-improved-btw-with-arrow-navigation-to-step-through-earlier-answers|claude-code-2026-06-23-cb71e8]]'
@@ -49,12 +48,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-11-v2-1-207-github-352355755-d77b8e91|claude-code-2026-07-11-v2-1-207-github-352355755-d77b8e91]]'
 source_type: github_releases
 theme: interface-experience
-title: 'Improved agent view: pasting the same text again now expands the collapsed
-  Pas'
+title: Improved agent view
 type: change
 ---
 
-# Improved agent view: pasting the same text again now expands the collapsed `[Pas
+# Improved agent view
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.207: Improved agent view: pasting the same text again now expands the collapsed `[Pasted text #N]` placeholder instead of adding a second one

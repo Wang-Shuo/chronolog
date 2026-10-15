@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: b7c340e964175c1eff426d895bb523d5520a262ef9d1f1f13b2bdc81c0fbed48
+machine_hash: fb05f4b34be94274701a5ca7977a8ab493b0c84e1b2a11e5ead87fb0e1233a85
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       They are available in the built-in desktop browser, not through the Chrome extension.
       Existing website-access and sensitive-action confirmations still apply.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -49,8 +49,7 @@ record:
     score: 50
     theme: model-support
   theme_resolution: manual-semantic-rule-v1
-  title: Site tools use WebMCP and require a supported account, model, and webpage.
-    They
+  title: Site tools use WebMCP and require a supported account, model, and webpage
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-08-31-side-chat-is-available-in-edge-brave-and-vivaldi-opera-supports-tab-mentions-and|chatgpt-2026-08-31-251b78]]'
@@ -59,12 +58,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-31-use-website-tools-in-the-desktop-browser-6c07f08a|chatgpt-2026-08-31-use-website-tools-in-the-desktop-browser-6c07f08a]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: Site tools use WebMCP and require a supported account, model, and webpage.
-  They
+title: Site tools use WebMCP and require a supported account, model, and webpage
 type: change
 ---
 
-# Site tools use WebMCP and require a supported account, model, and webpage. They
+# Site tools use WebMCP and require a supported account, model, and webpage
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Use website tools in the desktop browser: Site tools use WebMCP and require a supported account, model, and webpage. They are available in the built-in desktop browser, not through the Chrome extension. Existing website-access and sensitive-action confirmations still apply.

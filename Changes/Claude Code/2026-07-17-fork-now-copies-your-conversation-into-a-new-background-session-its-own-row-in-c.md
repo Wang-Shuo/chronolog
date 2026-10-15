@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 07ca9b1b730ecbfb800e046375350a8a6778d2e01ef74f55d95ad1c738032701
+machine_hash: 011e4011bd1270a1d688971b775b60e889af65944cdbf1a2cfc78d09c4b8c14a
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       own row in `claude agents`) while you keep working; the in-session subagent
       it used to launch is now `/subtask`'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.212
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -38,8 +38,7 @@ record:
   source_release: claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11
   source_type: github_releases
   theme: agent-mode
-  title: '`/fork` now copies your conversation into a new background session (its
-    own row'
+  title: '`/fork` now copies your conversation into a new background session…'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-15-added-forward-subagent-text-flag-and-claude-code-forward-subagent-text-environme|claude-code-2026-07-15-12d419]]'
@@ -48,11 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11|claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11]]'
 source_type: github_releases
 theme: agent-mode
-title: /fork now copies your conversation into a new background session (its own row
+title: /fork now copies your conversation into a new background session…
 type: change
 ---
 
-# `/fork` now copies your conversation into a new background session (its own row
+# `/fork` now copies your conversation into a new background session…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.212: `/fork` now copies your conversation into a new background session (its own row in `claude agents`) while you keep working; the in-session subagent it used to launch is now `/subtask`

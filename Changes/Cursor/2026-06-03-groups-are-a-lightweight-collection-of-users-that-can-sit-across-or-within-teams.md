@@ -11,9 +11,9 @@ diffusion:
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: ec5750e528c5a2220f213c4fed8f444bbf98d42db1c2e74c6a18141f1ffc8794
+machine_hash: 73ecb21af81105517b7358e62e942c87a16011fe801b26f467252bcc9ccd894b
 product: cursor
 product_name: Cursor
 record:
@@ -33,7 +33,7 @@ record:
       permissions without standing up a whole new team. When a user belongs to more
       than one team or group, the most permissive setting wins.
     source_release: https://cursor.com/changelog/enterprise-organizations
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor

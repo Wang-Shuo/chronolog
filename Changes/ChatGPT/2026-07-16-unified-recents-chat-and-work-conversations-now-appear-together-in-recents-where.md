@@ -11,9 +11,9 @@ diffusion:
   theme: projects-workspaces
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f6a7bba75b492cff331a6c25d89261a3c3702392836723363b6f84f50af23717
+machine_hash: d265d86b3d557365ec970dc11a9b4957ccc98cdaa82c8210b106c5332a632c2d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: 'Unified Recents: Chat and Work conversations now appear together in Recents,
       where you can sort, filter, and pin them.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -38,7 +38,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: 'Unified Recents: Chat and Work conversations now appear together in Recents,
-    whe'
+    where…'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-24-added-rewind-support-for-resuming-a-conversation-from-before-clear-was-run|claude-code-2026-06-24-659e5b]]'
@@ -48,11 +48,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-07-16-chatgpt-desktop-app-exper
 source_type: chatgpt_changelog
 theme: projects-workspaces
 title: 'Unified Recents: Chat and Work conversations now appear together in Recents,
-  whe'
+  where…'
 type: change
 ---
 
-# Unified Recents: Chat and Work conversations now appear together in Recents, whe
+# Unified Recents: Chat and Work conversations now appear together in Recents, where…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT desktop app experience updates: Unified Recents: Chat and Work conversations now appear together in Recents, where you can sort, filter, and pin them.

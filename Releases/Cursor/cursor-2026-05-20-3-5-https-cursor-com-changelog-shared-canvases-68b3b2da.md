@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2026-05-20'
-machine_hash: 9431c9ff42d978dc6faa7248b65fdfec706c4e1185e2164c286d454d0fdb332d
+machine_hash: a5d0870b0e51579bc513084cd92c13723db38528d96b548f52acee1804655a65
 product: cursor
 product_name: Cursor
 record:
@@ -38,9 +38,9 @@ Tracked cards: 5
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- enterprise-admin: [[Changes/Cursor/2026-05-20-teammates-open-a-shared-canvas-from-its-link-with-read-only-access-the-shared-ca|Teammates open a shared canvas from its link with read-only access. The Shared C]]
-- collaboration: [[Changes/Cursor/2026-05-20-you-can-now-share-canvases-from-cursor-with-your-teammates|You can now share canvases from Cursor with your teammates.]]
-- agent-mode: [[Changes/Cursor/2026-05-20-use-the-loop-skill-for-local-long-running-agents-for-example-you-can-ask-it-to-c|Use the /loop skill for local long-running agents. For example, you can ask it t]]
-- agent-mode: [[Changes/Cursor/2026-05-20-with-loop-cursor-can-run-a-prompt-repeatedly-on-a-local-schedule-until-a-certain|With /loop, Cursor can run a prompt repeatedly on a local schedule, until a cert]]
-- file-data: [[Changes/Cursor/2026-05-20-canvases-are-interactive-artifacts-created-by-agents-like-reports-dashboards-and|Canvases are interactive artifacts created by agents, like reports, dashboards,]]
+- enterprise-admin: [[Changes/Cursor/2026-05-20-teammates-open-a-shared-canvas-from-its-link-with-read-only-access-the-shared-ca|Teammates open a shared canvas from its link with read-only access]]
+- collaboration: [[Changes/Cursor/2026-05-20-you-can-now-share-canvases-from-cursor-with-your-teammates|Share canvases from Cursor with your teammates]]
+- agent-mode: [[Changes/Cursor/2026-05-20-use-the-loop-skill-for-local-long-running-agents-for-example-you-can-ask-it-to-c|Use the /loop skill for local long-running agents]]
+- agent-mode: [[Changes/Cursor/2026-05-20-with-loop-cursor-can-run-a-prompt-repeatedly-on-a-local-schedule-until-a-certain|With /loop, Cursor can run a prompt repeatedly on a local schedule, until a certain…]]
+- file-data: [[Changes/Cursor/2026-05-20-canvases-are-interactive-artifacts-created-by-agents-like-reports-dashboards-and|Canvases are interactive artifacts created by agents, like reports, dashboards…]]
 <!-- chronolog:end -->

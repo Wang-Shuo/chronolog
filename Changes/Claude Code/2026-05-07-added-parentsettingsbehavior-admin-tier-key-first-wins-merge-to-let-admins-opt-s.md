@@ -11,9 +11,9 @@ diffusion:
   theme: enterprise-admin
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4fc1705a392e6a17f57d7c9c9ea13cbae37d4533bcd931af07f3e406f5aad558
+machine_hash: 64c6466aa7e37dc5b1c09688d491750f83b265fd63b50816fac702dda802b946
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Added `parentSettingsBehavior` admin-tier key (`'first-wins' | 'merge'`)
       to let admins opt SDK `managedSettings` (parent tier) into the policy merge
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.133
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,7 +36,7 @@ record:
   source_type: github_releases
   theme: enterprise-admin
   title: Added `parentSettingsBehavior` admin-tier key (`'first-wins' | 'merge'`)
-    to let
+    to let…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-28-pasting-a-pr-url-into-the-resume-search-box-now-finds-the-session-that-created-t|claude-code-2026-04-28-318ef9]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-07-v2-1-133-github-319164825-08653677|claude-code-2026-05-07-v2-1-133-github-319164825-08653677]]'
 source_type: github_releases
 theme: enterprise-admin
-title: Added parentSettingsBehavior admin-tier key ('first-wins'  /  'merge') to let
+title: Added parentSettingsBehavior admin-tier key ('first-wins'  /  'merge') to let…
 type: change
 ---
 
-# Added `parentSettingsBehavior` admin-tier key (`'first-wins' | 'merge'`) to let
+# Added `parentSettingsBehavior` admin-tier key (`'first-wins' | 'merge'`) to let…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.133: Added `parentSettingsBehavior` admin-tier key (`'first-wins' | 'merge'`) to let admins opt SDK `managedSettings` (parent tier) into the policy merge

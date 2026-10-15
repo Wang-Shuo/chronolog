@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: eace0267d4ba69f1cd606d78777d4724f8d2f4e5ada8b21c01838a7b2c3d4640
+machine_hash: 47e28a5d3852e4eeb19e86de7140b839ad9759202d7a9af1154bdc5e5d41b06f
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
   - quote: The main addition in this update is better docs support. This means you
       can add and remove docs and inspect the urls
     source_release: https://cursor.com/changelog/0-10-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -39,8 +39,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: The main addition in this update is better docs support. This means you can
-    add
+  title: The main addition in this update is better docs support
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-07-07-improved-the-add-new-doc-experience|cursor-2023-07-07-bf8ca4]]'
@@ -49,12 +48,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-09-08-0-10-0-https-cursor-com-changelog-0-10-0-8f32d699|cursor-2023-09-08-0-10-0-https-cursor-com-changelog-0-10-0-8f32d699]]'
 source_type: cursor_changelog
 theme: apps-integrations
-title: The main addition in this update is better docs support. This means you can
-  add
+title: The main addition in this update is better docs support
 type: change
 ---
 
-# The main addition in this update is better docs support. This means you can add
+# The main addition in this update is better docs support
 
 <!-- chronolog:begin region="description" -->
 Cursor — Better Docs Management, Staged Rollouts: The main addition in this update is better docs support. This means you can add and remove docs and inspect the urls

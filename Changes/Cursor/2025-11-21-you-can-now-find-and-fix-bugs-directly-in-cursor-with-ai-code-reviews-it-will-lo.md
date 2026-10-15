@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e302483cfa00ef39600c9ad4e84d91af4ac04c8290973df45f8b3d1b9fbd6ff3
+machine_hash: 835552868952ef00c9188490c78bca3b315324b6e352349b8ac3dc158112d68f
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: You can now find and fix bugs directly in Cursor with AI code reviews.
       It will look at your changes and find issues which you can see in the sidepanel.
     source_release: https://cursor.com/changelog/2-1
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,8 +37,7 @@ record:
   theme: developer-workflow
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: You can now find and fix bugs directly in Cursor with AI code reviews. It
-    will l
+  title: Find and fix bugs directly in Cursor with AI code reviews
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-08-21-the-terminal-now-opens-on-the-left-with-a-clear-backdrop-and-border-animation-to|cursor-2025-08-21-a0f2ff]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-11-21-2-1-https-cursor-com-changelog-2-1-730bb490|cursor-2025-11-21-2-1-https-cursor-com-changelog-2-1-730bb490]]'
 source_type: cursor_changelog
 theme: developer-workflow
-title: You can now find and fix bugs directly in Cursor with AI code reviews. It will
-  l
+title: Find and fix bugs directly in Cursor with AI code reviews
 type: change
 ---
 
-# You can now find and fix bugs directly in Cursor with AI code reviews. It will l
+# Find and fix bugs directly in Cursor with AI code reviews
 
 <!-- chronolog:begin region="description" -->
 Cursor — Improved Plan Mode, AI Code Review in Editor, and Instant Grep: You can now find and fix bugs directly in Cursor with AI code reviews. It will look at your changes and find issues which you can see in the sidepanel.

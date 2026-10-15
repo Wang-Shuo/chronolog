@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 64c09046d7229cba4e9b13809cc85a84ee1b0814f6c043bd053b9688a0dd3098
+machine_hash: ee2076facf89089368e1bdceb8ef4b158572093360e9a11f01d8db8c0f23e510
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       consumers to receive rate limit status updates including utilization, reset
       times, and overage information
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.45
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,8 +38,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Added `SDKRateLimitInfo` and `SDKRateLimitEvent` types to the SDK, enabling
-    cons
+  title: Added `SDKRateLimitInfo` and `SDKRateLimitEvent` types to the SDK, enabling…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-05-skills-defined-in-claude-skills-within-additional-directories-add-dir-are-now-lo|claude-code-2026-02-05-175f9f]]'
@@ -48,11 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-02-17-v2-1-45-github-287379410-d0651fb6|claude-code-2026-02-17-v2-1-45-github-287379410-d0651fb6]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added SDKRateLimitInfo and SDKRateLimitEvent types to the SDK, enabling cons
+title: Added SDKRateLimitInfo and SDKRateLimitEvent types to the SDK, enabling…
 type: change
 ---
 
-# Added `SDKRateLimitInfo` and `SDKRateLimitEvent` types to the SDK, enabling cons
+# Added `SDKRateLimitInfo` and `SDKRateLimitEvent` types to the SDK, enabling…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.45: Added `SDKRateLimitInfo` and `SDKRateLimitEvent` types to the SDK, enabling consumers to receive rate limit status updates including utilization, reset times, and overage information

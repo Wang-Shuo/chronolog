@@ -11,9 +11,9 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: a725769c7f5a03a873523232fca87d51dad20c34e12e066e5a60da672199bdeb
+machine_hash: d9d949d2254c4f0191eb5742705e519da35e0159818e76ecc4c76a429dc778b5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: You can upgrade, switch, or cancel your plan from Settings > My Plan or
       from the Pricing page.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: chatgpt
   product_name: ChatGPT
@@ -36,8 +36,7 @@ record:
   source_release: chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2
   source_type: chatgpt_changelog
   theme: pricing-model
-  title: You can upgrade, switch, or cancel your plan from Settings > My Plan or from
-    the
+  title: You can upgrade, switch, or cancel your plan from Settings > My Plan or…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-04-09-we-re-introducing-a-new-100-month-pro-plan-and-updating-how-codex-usage-works-ac|chatgpt-2026-04-09-441673]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2|chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2]]'
 source_type: chatgpt_changelog
 theme: pricing-model
-title: You can upgrade, switch, or cancel your plan from Settings  My Plan or from
-  the
+title: You can upgrade, switch, or cancel your plan from Settings  My Plan or…
 type: change
 ---
 
-# You can upgrade, switch, or cancel your plan from Settings > My Plan or from the
+# You can upgrade, switch, or cancel your plan from Settings > My Plan or…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — New Pro plan options: You can upgrade, switch, or cancel your plan from Settings > My Plan or from the Pricing page.

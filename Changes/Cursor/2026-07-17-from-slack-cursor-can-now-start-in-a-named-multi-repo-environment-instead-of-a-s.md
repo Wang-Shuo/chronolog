@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0681a6e67c65cc7fb1b5b2e9bac758ce2d1a4e1259c9fce718532ce38d61eb59
+machine_hash: b00a4f30e17c5fcdda1124897a052867b97f764ae0b3c7971c34e74fe23be035
 product: cursor
 product_name: Cursor
 record:
@@ -30,7 +30,7 @@ record:
       in separate repos, Cursor reads your request and targets the environment that
       gives it access to all of them.
     source_release: https://cursor.com/changelog/slack-improvements
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -40,8 +40,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: From Slack, Cursor can now start in a named multi-repo environment instead
-    of a
+  title: From Slack, Cursor can now start in a named multi-repo environment instead…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-07-09-enterprise-and-edu-users-can-find-skills-under-plugins-in-the-sidebar-on-the-ski|chatgpt-2026-07-09-baa5ca]]'
@@ -50,12 +49,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-07-17-improvements-to-cursor-in-slack-https-cursor-com-changelog-slack-f233f9c6|cursor-2026-07-17-improvements-to-cursor-in-slack-https-cursor-com-changelog-slack-f233f9c6]]'
 source_type: cursor_changelog
 theme: apps-integrations
-title: From Slack, Cursor can now start in a named multi-repo environment instead
-  of a
+title: From Slack, Cursor can now start in a named multi-repo environment instead…
 type: change
 ---
 
-# From Slack, Cursor can now start in a named multi-repo environment instead of a
+# From Slack, Cursor can now start in a named multi-repo environment instead…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Improvements to Cursor in Slack: From Slack, Cursor can now start in a named multi-repo environment instead of a single default repository. If your frontend, backend, and shared code live in separate repos, Cursor reads your request and targets the environment that gives it access to all of them.

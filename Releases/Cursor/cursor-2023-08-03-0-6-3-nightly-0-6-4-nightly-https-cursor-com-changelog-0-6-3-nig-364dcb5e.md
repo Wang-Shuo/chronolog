@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-08-03'
-machine_hash: 9c87b180519182f8d2db0158868bdea54e37092df176612b4f5b862338e9afd4
+machine_hash: e049e77e3574a90c89d318335478fb938424858c6ce19740a2f1c1656f97e16d
 product: cursor
 product_name: Cursor
 record:
@@ -38,5 +38,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- developer-workflow: [[Changes/Cursor/2023-08-03-also-the-linter-is-slightly-improved|Also, the linter is slightly improved.]]
+- developer-workflow: [[Changes/Cursor/2023-08-03-also-the-linter-is-slightly-improved|Also, the linter is slightly improved]]
 <!-- chronolog:end -->

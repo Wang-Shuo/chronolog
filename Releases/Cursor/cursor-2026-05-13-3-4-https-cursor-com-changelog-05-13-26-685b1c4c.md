@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2026-05-13'
-machine_hash: 7ef2e687a77a6b4da721ac66c2543e49cb638ba21fceb12380cfa1faef537438
+machine_hash: c4a10f84882cf3eacd457f9e59b42f768b870f059c44554030c686f8650f9411
 product: cursor
 product_name: Cursor
 record:
@@ -40,9 +40,9 @@ Tracked cards: 5
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- agent-mode: [[Changes/Cursor/2026-05-13-to-take-engineering-tasks-from-start-to-finish-agents-need-a-development-environ|To take engineering tasks from start to finish, agents need a development enviro]]
-- developer-workflow: [[Changes/Cursor/2026-05-13-to-make-it-easier-to-change-debug-and-review-environment-definitions-we-have-imp|To make it easier to change, debug, and review environment definitions, we have]]
-- agent-mode: [[Changes/Cursor/2026-05-13-cloud-agents-and-automations-now-support-multi-repo-environments-building-off-ou|Cloud agents and automations now support multi-repo environments, building off o]]
-- agent-mode: [[Changes/Cursor/2026-05-13-this-includes-support-for-build-secrets-making-it-easy-to-securely-access-privat|This includes support for build secrets, making it easy to securely access priva]]
-- agent-mode: [[Changes/Cursor/2026-05-13-this-release-introduces-new-tools-for-teams-to-configure-development-environment|This release introduces new tools for teams to configure development environment]]
+- agent-mode: [[Changes/Cursor/2026-05-13-to-take-engineering-tasks-from-start-to-finish-agents-need-a-development-environ|To take engineering tasks from start to finish, agents need a development…]]
+- developer-workflow: [[Changes/Cursor/2026-05-13-to-make-it-easier-to-change-debug-and-review-environment-definitions-we-have-imp|To make it easier to change, debug, and review environment definitions, we have…]]
+- agent-mode: [[Changes/Cursor/2026-05-13-cloud-agents-and-automations-now-support-multi-repo-environments-building-off-ou|Cloud agents and automations now support multi-repo environments, building off our…]]
+- agent-mode: [[Changes/Cursor/2026-05-13-this-includes-support-for-build-secrets-making-it-easy-to-securely-access-privat|This includes support for build secrets, making it easy to securely access private…]]
+- agent-mode: [[Changes/Cursor/2026-05-13-this-release-introduces-new-tools-for-teams-to-configure-development-environment|Cursor introduces new tools for teams to configure development environments…]]
 <!-- chronolog:end -->

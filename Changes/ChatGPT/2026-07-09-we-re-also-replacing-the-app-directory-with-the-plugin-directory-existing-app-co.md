@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4b0e3bcf0755e9dc2bde50b2cae662933f5bd9edb2827a8392a8b1ba521e423d
+machine_hash: 2434a709b06a8ad1b2375fa2aa3b8a7c8e65a67530785a98717533fff9eecf06
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       for specific workflows, and are available from ChatGPT on web and desktop, including
       Work and Codex.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -50,8 +50,7 @@ record:
     - desktop
     score: 50
     theme: mobile-desktop
-  title: We’re also replacing the App Directory with the Plugin Directory. Existing
-    app c
+  title: We’re also replacing the App Directory with the Plugin Directory
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-02-stacked-slash-skill-invocations-like-skill-a-skill-b-do-xyz-now-load-all-leading|claude-code-2026-07-02-cca9d1]]'
@@ -60,12 +59,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272|chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
-title: We’re also replacing the App Directory with the Plugin Directory. Existing
-  app c
+title: We’re also replacing the App Directory with the Plugin Directory
 type: change
 ---
 
-# We’re also replacing the App Directory with the Plugin Directory. Existing app c
+# We’re also replacing the App Directory with the Plugin Directory
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Introducing ChatGPT Work: We’re also replacing the App Directory with the Plugin Directory. Existing app connections are unaffected. Plugins can package skills, apps, and app templates for specific workflows, and are available from ChatGPT on web and desktop, including Work and Codex.

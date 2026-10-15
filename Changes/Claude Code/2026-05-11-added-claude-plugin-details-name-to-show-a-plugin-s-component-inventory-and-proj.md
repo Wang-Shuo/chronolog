@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e97d73fe236f5c8da1a7452ffac7496a71a82bc0ddd78bb69f672d2bb3dbb48d
+machine_hash: b0a8e2c4d71803d4ead4a4434c0ca32c43997b96db7823e7936b009f83da6b28
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `claude plugin details <name>` to show a plugin's component inventory
       and projected per-session token cost
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.139
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -34,8 +34,7 @@ record:
   source_release: claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d
   source_type: github_releases
   theme: apps-integrations
-  title: Added `claude plugin details <name>` to show a plugin's component inventory
-    and
+  title: Added `claude plugin details <name>` to show a plugin's component inventory…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-06-added-claude-code-session-id-environment-variable-to-the-bash-tool-subprocess-en|claude-code-2026-05-06-58bd22]]'
@@ -44,11 +43,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d|claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added claude plugin details name to show a plugin's component inventory and
+title: Added claude plugin details name to show a plugin's component inventory…
 type: change
 ---
 
-# Added `claude plugin details <name>` to show a plugin's component inventory and
+# Added `claude plugin details <name>` to show a plugin's component inventory…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.139: Added `claude plugin details <name>` to show a plugin's component inventory and projected per-session token cost

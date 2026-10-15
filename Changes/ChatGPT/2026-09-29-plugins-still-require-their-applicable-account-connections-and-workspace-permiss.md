@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: c15163e4bdbb311c664df31fabac024be34b3c8232e5d5d78bb522b4d68fa5c9
+machine_hash: e434cf19fc66bed0c218ebb369b121444139485f95928d67178286cbec37ca9e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Plugins still require their applicable account connections and workspace
       permissions.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -35,7 +35,7 @@ record:
   source_type: chatgpt_changelog
   theme: apps-integrations
   title: Plugins still require their applicable account connections and workspace
-    permiss
+    permissions
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-25-added-mcp-tool-webfetch-and-websearch-outputs-to-the-tool-output-opentelemetry-s|claude-code-2026-09-25-65305d]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-work-with-interactive-plugin-extensions-8f979183|chatgpt-2026-09-29-work-with-interactive-plugin-extensions-8f979183]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
-title: Plugins still require their applicable account connections and workspace permiss
+title: Plugins still require their applicable account connections and workspace permissions
 type: change
 ---
 
-# Plugins still require their applicable account connections and workspace permiss
+# Plugins still require their applicable account connections and workspace permissions
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Work with interactive plugin extensions: Plugins still require their applicable account connections and workspace permissions.

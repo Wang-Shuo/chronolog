@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 321ddd6c0d03da18211a3415e58ba41b62d97dd6181df9493add191983b36000
+machine_hash: 5eeb1383bf37a46fafe07b5eb7ecc8af57d965b5d353b000fac2b0f35282c30b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       content, files, data, links, or constraints, and review the private preview
       before publishing.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -38,8 +38,7 @@ record:
   source_release: chatgpt-2026-07-09-introducing-chatgpt-sites-in-public-beta-4d20edcd
   source_type: chatgpt_changelog
   theme: mobile-desktop
-  title: To create a Site, start in ChatGPT Work on the web or in Work or Codex in
-    the Ch
+  title: To create a Site, start in ChatGPT Work on the web or in Work or Codex…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-06-18-chatgpt-now-has-more-ways-to-help-with-common-questions-from-pronunciation-guida|chatgpt-2026-06-18-f650fa]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-sites-in-public-beta-4d20edcd|chatgpt-2026-07-09-introducing-chatgpt-sites-in-public-beta-4d20edcd]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: To create a Site, start in ChatGPT Work on the web or in Work or Codex in the
-  Ch
+title: To create a Site, start in ChatGPT Work on the web or in Work or Codex…
 type: change
 ---
 
-# To create a Site, start in ChatGPT Work on the web or in Work or Codex in the Ch
+# To create a Site, start in ChatGPT Work on the web or in Work or Codex…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Introducing ChatGPT Sites in public beta: To create a Site, start in ChatGPT Work on the web or in Work or Codex in the ChatGPT desktop app. Describe what you want to build, add any relevant content, files, data, links, or constraints, and review the private preview before publishing.

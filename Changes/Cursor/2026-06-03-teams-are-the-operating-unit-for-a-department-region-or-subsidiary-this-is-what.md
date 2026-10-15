@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7392bd001bc3f622bb92608e15a118675ca70d0f761b1505bb480b4a6cef67c0
+machine_hash: a3a536898238288ed665252f2b94a50864e5fee3e7b02d087ec4818bfd2ef724
 product: cursor
 product_name: Cursor
 record:
@@ -30,7 +30,7 @@ record:
       an organization, so you can run multiple teams, each with its own security,
       governance, spend, and feature settings.
     source_release: https://cursor.com/changelog/enterprise-organizations
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -52,8 +52,7 @@ record:
     score: 50
     theme: safety-privacy
   theme_resolution: manual-semantic-rule-v1
-  title: Teams are the operating unit for a department, region, or subsidiary. This
-    is wh
+  title: Teams are the operating unit for a department, region, or subsidiary
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-06-02-we-re-rolling-out-active-sessions-a-new-security-feature-in-chatgpt-that-helps-u|chatgpt-2026-06-02-afa8b4]]'
@@ -62,12 +61,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-06-03-organizations-for-cursor-enterprise-https-cursor-com-changelog-e-b5c7f576|cursor-2026-06-03-organizations-for-cursor-enterprise-https-cursor-com-changelog-e-b5c7f576]]'
 source_type: cursor_changelog
 theme: safety-privacy
-title: Teams are the operating unit for a department, region, or subsidiary. This
-  is wh
+title: Teams are the operating unit for a department, region, or subsidiary
 type: change
 ---
 
-# Teams are the operating unit for a department, region, or subsidiary. This is wh
+# Teams are the operating unit for a department, region, or subsidiary
 
 <!-- chronolog:begin region="description" -->
 Cursor — Organizations for Cursor Enterprise: Teams are the operating unit for a department, region, or subsidiary. This is what admins manage as their Cursor org today. We've moved that unit under an organization, so you can run multiple teams, each with its own security, governance, spend, and feature settings.

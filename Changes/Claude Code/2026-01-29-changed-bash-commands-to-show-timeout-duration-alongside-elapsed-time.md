@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9df73244815d1c4b7d9e8d51f3b08147676f2de086744c39439cff8bfc166875
+machine_hash: 3048e0108830cac825f9f4f5fdf9fa251ec46ba3883c60533cfc3e248c8cda47
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Changed Bash commands to show timeout duration alongside elapsed time
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.23
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

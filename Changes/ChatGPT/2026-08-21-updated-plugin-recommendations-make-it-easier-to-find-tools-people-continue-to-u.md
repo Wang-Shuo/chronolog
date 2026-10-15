@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8beafa5b4e9d616b70fd409157798c8713c3e83be2b79d69efec857943c1564f
+machine_hash: 89b349a9ee4b562a2c0c90615cdb797a9b90d56f30048e2fa4fc7904a48ce7d4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Updated plugin recommendations make it easier to find tools people continue
       to use.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -35,7 +35,7 @@ record:
   source_type: chatgpt_changelog
   theme: apps-integrations
   title: Updated plugin recommendations make it easier to find tools people continue
-    to u
+    to use
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-08-20-use-apple-messages-from-codex-and-chatgpt-work-on-apple-silicon-macs-the-apple-m|chatgpt-2026-08-20-96b57b]]'
@@ -45,11 +45,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-08-21-improved-plugin-discovery
 source_type: chatgpt_changelog
 theme: apps-integrations
 title: Updated plugin recommendations make it easier to find tools people continue
-  to u
+  to use
 type: change
 ---
 
-# Updated plugin recommendations make it easier to find tools people continue to u
+# Updated plugin recommendations make it easier to find tools people continue to use
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Improved plugin discovery on web and mobile: Updated plugin recommendations make it easier to find tools people continue to use.

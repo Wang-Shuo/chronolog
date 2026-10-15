@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: f1f5b569b56e57b8130f2962679dde61243ad0183f78a0fcd41954f391fa8e96
+machine_hash: c558561a4c706936bf1a8d0b887ac7da7b6c799d27746e4b206fa70903ca8ce3
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Ask the agent to make one match the other, remove repeated content, or
       adjust a group of components at once.
     source_release: https://cursor.com/changelog/design-mode-improvements
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -36,8 +36,7 @@ record:
   source_release: cursor-2026-06-05-3-7-https-cursor-com-changelog-design-mode-improvements-936ff395
   source_type: cursor_changelog
   theme: agent-mode
-  title: Ask the agent to make one match the other, remove repeated content, or adjust
-    a
+  title: Ask the agent to make one match the other, remove repeated content, or adjust…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-02-claude-agents-rows-now-show-done-total-before-the-detail-when-work-is-fanned-out|claude-code-2026-06-02-e9ef76]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-06-05-3-7-https-cursor-com-changelog-design-mode-improvements-936ff395|cursor-2026-06-05-3-7-https-cursor-com-changelog-design-mode-improvements-936ff395]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: Ask the agent to make one match the other, remove repeated content, or adjust
-  a
+title: Ask the agent to make one match the other, remove repeated content, or adjust…
 type: change
 ---
 
-# Ask the agent to make one match the other, remove repeated content, or adjust a
+# Ask the agent to make one match the other, remove repeated content, or adjust…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Design Mode Improvements: Ask the agent to make one match the other, remove repeated content, or adjust a group of components at once.

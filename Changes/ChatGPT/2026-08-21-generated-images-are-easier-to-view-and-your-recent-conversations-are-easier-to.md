@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d30673b7a9d5e3425e6cc538fc975f483c4ad6ba4da3368fe0bdd2f9bc389d0d
+machine_hash: 3dc7b389558bf8dc866fe12d7385e8dfa640e2149dad3906ffd3d44d168f8196
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Generated images are easier to view, and your recent conversations are
       easier to browse.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -45,7 +45,7 @@ record:
     theme: search-browsing
   theme_resolution: manual-semantic-rule-v2
   title: Generated images are easier to view, and your recent conversations are easier
-    to
+    to browse
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-11-updated-terminal-title-busy-spinner-glyphs-to-reduce-tab-bar-jitter-on-some-term|claude-code-2026-08-11-7e48ce]]'
@@ -55,11 +55,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-08-21-updates-to-chatgpt-on-and
 source_type: chatgpt_changelog
 theme: interface-experience
 title: Generated images are easier to view, and your recent conversations are easier
-  to
+  to browse
 type: change
 ---
 
-# Generated images are easier to view, and your recent conversations are easier to
+# Generated images are easier to view, and your recent conversations are easier to browse
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Updates to ChatGPT on Android: Generated images are easier to view, and your recent conversations are easier to browse.

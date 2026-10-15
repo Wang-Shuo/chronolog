@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ccf006c57b710d904e6d14c260e7164965f145a42105321f7a123afcf3f00c38
+machine_hash: b81987b5af791d70e20a1ad7d8f507e20aff51b8aeaef1629657c4d8ff956e07
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: 'Added transcript view navigation: `?` for keyboard shortcuts, `{`/`}`
       to jump between user prompts, `v` to toggle shortcut panel'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.139
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,8 +35,7 @@ record:
   source_release: claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d
   source_type: github_releases
   theme: interface-experience
-  title: 'Added transcript view navigation: `?` for keyboard shortcuts, `{`/`}` to
-    jump be'
+  title: Added transcript view navigation
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-06-added-a-pasting-footer-hint-while-a-ctrl-v-image-paste-is-being-read-from-the-cl|claude-code-2026-05-06-ad5c79]]'
@@ -45,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d|claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d]]'
 source_type: github_releases
 theme: interface-experience
-title: 'Added transcript view navigation: ? for keyboard shortcuts, {/} to jump be'
+title: Added transcript view navigation
 type: change
 ---
 
-# Added transcript view navigation: `?` for keyboard shortcuts, `{`/`}` to jump be
+# Added transcript view navigation
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.139: Added transcript view navigation: `?` for keyboard shortcuts, `{`/`}` to jump between user prompts, `v` to toggle shortcut panel

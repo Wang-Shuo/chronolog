@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ac1a851a66e9ee56c0dc4b271873b0087c3e7de06e91ae7ccf07e2faf376fcdd
+machine_hash: 2c77bc7ea62bc0ed546ae91ab7f55c25f9bfb95fee370e3a418d86f54dfd7117
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Hover over an error to have the AI explain it/fix it
     source_release: https://cursor.com/changelog/0-2-3
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

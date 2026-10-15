@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2024-12-12'
-machine_hash: caa57cc23536587c4f625f4e1fbaafa1434b8d5a1c4e5cfe217db9bdc80beb3d
+machine_hash: 95178980c720def1009c3c9876e728f4f4abb26b11fb60bb645537e08a8ccdef
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,9 +38,9 @@ Tracked cards: 5
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- voice: [[Changes/ChatGPT/2024-12-12-video-and-screenshare-in-our-latest-mobile-apps-we-are-starting-to-roll-out-real|Video and screenshare: In our latest mobile apps, we are starting to roll out re]]
-- multimodal: [[Changes/ChatGPT/2024-12-12-use-the-controls-at-the-bottom-of-the-screen-like-the-camera-button-below-to-get|Use the controls at the bottom of the screen, like the camera button below, to g]]
-- voice: [[Changes/ChatGPT/2024-12-12-today-we-started-rolling-out-two-updates-to-voice-mode-in-chatgpt|Today we started rolling out two updates to voice mode in ChatGPT:]]
-- voice: [[Changes/ChatGPT/2024-12-12-santa-voice-you-can-now-chat-with-santa-in-chatgpt-until-early-january-you-can-f|Santa voice: You can now chat with Santa in ChatGPT! Until early January, you ca]]
-- voice: [[Changes/ChatGPT/2024-12-12-the-first-time-you-chat-with-santa-your-advanced-voice-limit-will-reset-one-time|The first time you chat with Santa, your advanced voice limit will reset one tim]]
+- voice: [[Changes/ChatGPT/2024-12-12-video-and-screenshare-in-our-latest-mobile-apps-we-are-starting-to-roll-out-real|Video and screenshare]]
+- multimodal: [[Changes/ChatGPT/2024-12-12-use-the-controls-at-the-bottom-of-the-screen-like-the-camera-button-below-to-get|Use the controls at the bottom of the screen, like the camera button below, to get started]]
+- voice: [[Changes/ChatGPT/2024-12-12-today-we-started-rolling-out-two-updates-to-voice-mode-in-chatgpt|Today we started rolling out two updates to voice mode in ChatGPT]]
+- voice: [[Changes/ChatGPT/2024-12-12-santa-voice-you-can-now-chat-with-santa-in-chatgpt-until-early-january-you-can-f|Santa voice: You can now chat with Santa in ChatGPT!]]
+- voice: [[Changes/ChatGPT/2024-12-12-the-first-time-you-chat-with-santa-your-advanced-voice-limit-will-reset-one-time|The first time you chat with Santa, your advanced voice limit will reset one time]]
 <!-- chronolog:end -->

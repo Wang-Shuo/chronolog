@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5ae18700076e5c3692b99908264e812bb087b465f5e2d5403fe69a61571fda37
+machine_hash: 31c26114d7698bf52bda36e1bfc5432b6e30dd59a8a36a418462ff9a23539e64
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: (Also, you can now use up/down arrows for history in chat.)
     source_release: https://cursor.com/changelog/0-2-39
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

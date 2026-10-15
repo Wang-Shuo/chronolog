@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: bd4e1e31b6612dc433f6d330021de53da62b6b90a54935053c7d91235e9b4a02
+machine_hash: b6f395a66be6a8a219ac4351348b28e013faf6bd691f600baf8a9292b03ec5c0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       project. Information from the project is also kept out of memory used in chats
       outside the project.Changes may take a few hours to take effect.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -50,8 +50,7 @@ record:
     score: 50
     theme: context-window
   theme_resolution: manual-semantic-rule-v2
-  title: With project-only memory, ChatGPT can use conversations from the same project
-    fo
+  title: With project-only memory, ChatGPT can use conversations from the same project…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-08-auto-update-binary-downloads-now-stream-to-disk-instead-of-buffering-in-memory-c|claude-code-2026-07-08-bf6c5c]]'
@@ -60,12 +59,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-14-edit-memory-settings-for-existing-projects-db366858|chatgpt-2026-08-14-edit-memory-settings-for-existing-projects-db366858]]'
 source_type: chatgpt_changelog
 theme: reliability-performance
-title: With project-only memory, ChatGPT can use conversations from the same project
-  fo
+title: With project-only memory, ChatGPT can use conversations from the same project…
 type: change
 ---
 
-# With project-only memory, ChatGPT can use conversations from the same project fo
+# With project-only memory, ChatGPT can use conversations from the same project…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Edit memory settings for existing projects: With project-only memory, ChatGPT can use conversations from the same project for context, but it won’t reference memories or conversations from outside the project. Information from the project is also kept out of memory used in chats outside the project.Changes may take a few hours to take effect.

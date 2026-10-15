@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2026-10-06'
-machine_hash: 27266b48aace18c3e911063c0dfab8c2bb1c82df94ad304af71c99c14b20b30b
+machine_hash: 4584daba033a61de9e4746c1c0df6bb5ec60c7080dd65156b996efa34bbba200
 product: cursor
 product_name: Cursor
 record:
@@ -39,9 +39,9 @@ Tracked cards: 5
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- mobile-desktop: [[Changes/Cursor/2026-10-06-to-stop-your-computer-from-sleeping-while-you-re-away-turn-on-keep-this-computer|To stop your computer from sleeping while you're away, turn on "Keep this comput]]
-- enterprise-admin: [[Changes/Cursor/2026-10-06-remote-control-is-on-by-default-except-for-enterprise-organizations-enterprise-a|Remote control is on by default, except for Enterprise organizations. Enterprise]]
-- mobile-desktop: [[Changes/Cursor/2026-10-06-you-can-now-see-and-reply-to-the-local-agents-running-on-your-computer-from-the|You can now see and reply to the local agents running on your computer from the]]
-- enterprise-admin: [[Changes/Cursor/2026-10-06-remote-control-is-on-by-default-for-everyone-except-enterprise-organizations|Remote Control is on by default for everyone except Enterprise organizations.]]
-- agent-mode: [[Changes/Cursor/2026-10-06-remote-control-doesn-t-move-your-agents-anywhere-it-keeps-running-on-your-comput|Remote control doesn't move your agents anywhere. It keeps running on your compu]]
+- mobile-desktop: [[Changes/Cursor/2026-10-06-to-stop-your-computer-from-sleeping-while-you-re-away-turn-on-keep-this-computer|To stop your computer from sleeping while you're away, turn…]]
+- enterprise-admin: [[Changes/Cursor/2026-10-06-remote-control-is-on-by-default-except-for-enterprise-organizations-enterprise-a|Remote control is on by default, except for Enterprise organizations]]
+- mobile-desktop: [[Changes/Cursor/2026-10-06-you-can-now-see-and-reply-to-the-local-agents-running-on-your-computer-from-the|See and reply to the local agents running on your computer from the Cursor iOS app]]
+- enterprise-admin: [[Changes/Cursor/2026-10-06-remote-control-is-on-by-default-for-everyone-except-enterprise-organizations|Remote Control is on by default for everyone except Enterprise organizations]]
+- agent-mode: [[Changes/Cursor/2026-10-06-remote-control-doesn-t-move-your-agents-anywhere-it-keeps-running-on-your-comput|Remote control doesn't move your agents anywhere]]
 <!-- chronolog:end -->

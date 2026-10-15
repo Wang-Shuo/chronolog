@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 644f0100f8ed816dcf24bcab8970c66518bb51f43a6221b3ca047a45a0576ee7
+machine_hash: 32758c6e4841064d0a91343e8db8fc5d5d369fd32a696de7f30611e434572c2e
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added focus view toggle (`Ctrl+O`) in `NO_FLICKER` mode showing prompt,
       one-line tool summary with edit diffstats, and final response
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.97
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,7 +36,7 @@ record:
   theme: interface-experience
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: Added focus view toggle (`Ctrl+O`) in `NO_FLICKER` mode showing prompt, one-line
+  title: Added focus view toggle (`Ctrl+O`) in `NO_FLICKER` mode showing prompt, one-line…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-01-added-claude-code-no-flicker-1-environment-variable-to-opt-into-flicker-free-alt|claude-code-2026-04-01-b9ce60]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-08-v2-1-97-github-306811434-0f57bf33|claude-code-2026-04-08-v2-1-97-github-306811434-0f57bf33]]'
 source_type: github_releases
 theme: interface-experience
-title: Added focus view toggle (Ctrl+O) in NO_FLICKER mode showing prompt, one-line
+title: Added focus view toggle (Ctrl+O) in NO_FLICKER mode showing prompt, one-line…
 type: change
 ---
 
-# Added focus view toggle (`Ctrl+O`) in `NO_FLICKER` mode showing prompt, one-line
+# Added focus view toggle (`Ctrl+O`) in `NO_FLICKER` mode showing prompt, one-line…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.97: Added focus view toggle (`Ctrl+O`) in `NO_FLICKER` mode showing prompt, one-line tool summary with edit diffstats, and final response

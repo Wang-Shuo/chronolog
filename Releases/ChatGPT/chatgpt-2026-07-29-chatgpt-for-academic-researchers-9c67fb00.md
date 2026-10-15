@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-07-29'
-machine_hash: 7cea7e4b76df4a9d31ae52cd34ce8e2fe026a59d7cb6e4681b1f5c3df5961fca
+machine_hash: c3f95ea51c60c46809a42013ab07f5d6aaca3a833f5c1c766b6cded4a2c1c429
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- pricing-model: [[Changes/ChatGPT/2026-07-29-research-rarely-happens-alone-chatgpt-for-academic-researchers-gives-faculty-and|Research rarely happens alone. ChatGPT for Academic Researchers gives faculty an]]
+- pricing-model: [[Changes/ChatGPT/2026-07-29-research-rarely-happens-alone-chatgpt-for-academic-researchers-gives-faculty-and|Research rarely happens alone]]
 <!-- chronolog:end -->

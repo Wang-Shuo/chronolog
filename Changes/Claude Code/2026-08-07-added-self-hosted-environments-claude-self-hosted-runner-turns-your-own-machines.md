@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d5e7e9eddd2def7673ffdf607e11643673a6c7323bd64b8df1a550b91b76b95a
+machine_hash: ae40b51f7e438f0e177881750db619974c3e053321087d413016820ac5cd86a8
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       own machines or containers into a place Claude Code web, mobile, and desktop
       sessions can run, on Team and Enterprise plans'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.224
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -51,8 +51,7 @@ record:
     - enterprise
     score: 50
     theme: enterprise-admin
-  title: 'Added self-hosted environments: `claude self-hosted-runner` turns your own
-    machi'
+  title: Added self-hosted environments
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-07-29-cursor-for-ipad-is-now-available-on-all-paid-plans|cursor-2026-07-29-9baac5]]'
@@ -61,11 +60,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-08-07-v2-1-224-github-366468634-0ab9e64c|claude-code-2026-08-07-v2-1-224-github-366468634-0ab9e64c]]'
 source_type: github_releases
 theme: mobile-desktop
-title: 'Added self-hosted environments: claude self-hosted-runner turns your own machi'
+title: Added self-hosted environments
 type: change
 ---
 
-# Added self-hosted environments: `claude self-hosted-runner` turns your own machi
+# Added self-hosted environments
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.224: Added self-hosted environments: `claude self-hosted-runner` turns your own machines or containers into a place Claude Code web, mobile, and desktop sessions can run, on Team and Enterprise plans

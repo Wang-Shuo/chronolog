@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: b3e41ca33e46dd7fd933fed0b2ad89fe6d519282b4d4a963fe0bbe3d790e99d5
+machine_hash: bbb0f7201dc263033359a18805d49f6805f8a976db236d5497a8601a455f07ef
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       --chrome` run alongside an exclusive `managed-mcp.json`; the error shown when
       Chrome is blocked now names it
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.282
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   source_release: claude-code-2026-09-24-v2-1-282-github-395840120-957e42c4
   source_type: github_releases
   theme: apps-integrations
-  title: Added the `allowClaudeInChromeWithManagedMcp` managed setting to let `claude
-    --c
+  title: Added the `allowClaudeInChromeWithManagedMcp` managed setting to let…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-23-added-guardrail-id-version-on-claude-apps-gateway-bedrock-upstreams-to-apply-an|claude-code-2026-09-23-ce7d18]]'
@@ -46,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-24-v2-1-282-github-395840120-957e42c4|claude-code-2026-09-24-v2-1-282-github-395840120-957e42c4]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added the allowClaudeInChromeWithManagedMcp managed setting to let claude --c
+title: Added the allowClaudeInChromeWithManagedMcp managed setting to let…
 type: change
 ---
 
-# Added the `allowClaudeInChromeWithManagedMcp` managed setting to let `claude --c
+# Added the `allowClaudeInChromeWithManagedMcp` managed setting to let…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.282: Added the `allowClaudeInChromeWithManagedMcp` managed setting to let `claude --chrome` run alongside an exclusive `managed-mcp.json`; the error shown when Chrome is blocked now names it

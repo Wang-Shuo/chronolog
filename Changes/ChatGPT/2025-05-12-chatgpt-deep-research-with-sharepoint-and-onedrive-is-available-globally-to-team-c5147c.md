@@ -11,9 +11,9 @@ diffusion:
   theme: search-browsing
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8a1495f9c6a052cfd2770e985a1258b2ec070475e802fc4a22a3f78aa35f2397
+machine_hash: 8b1357e1acb6b45c6b619b9794ff8b33d73c0112caf2ffc4f9c97e6ad4b66950
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
       announced at a later date.See: Connecting SharePoint and Microsoft OneDrive
       to ChatGPT deep research'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -56,7 +56,7 @@ record:
     theme: enterprise-admin
   theme_resolution: manual-semantic-rule-v1
   title: ChatGPT deep research with SharePoint and OneDrive is available globally
-    to Team
+    to Team users
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-02-14-set-chatgpt-as-default-search-engine-in-safari|chatgpt-2025-02-14-6ee943]]'
@@ -66,11 +66,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2025-05-12-microsoft-sharepoint-and-
 source_type: chatgpt_changelog
 theme: search-browsing
 title: ChatGPT deep research with SharePoint and OneDrive is available globally to
-  Team
+  Team users
 type: change
 ---
 
-# ChatGPT deep research with SharePoint and OneDrive is available globally to Team
+# ChatGPT deep research with SharePoint and OneDrive is available globally to Team users
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Microsoft SharePoint and OneDrive connector for deep research for Plus/Pro/Team: ChatGPT deep research with SharePoint and OneDrive is available globally to Team users. It is also gradually rolling out to Plus and Pro users, except for those in the EEA, Switzerland, and the UK. Enterprise user access will be announced at a later date.See: Connecting SharePoint and Microsoft OneDrive to ChatGPT deep research

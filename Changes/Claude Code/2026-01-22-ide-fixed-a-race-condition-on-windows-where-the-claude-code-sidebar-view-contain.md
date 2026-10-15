@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 743743abc9bd33048353d3981d53fbb6d47c315969fe7e6de599501fb8184eab
+machine_hash: ebfa1a7a17e74032685daac13fefe84643413ae1799b73cec5e179f56c2b57e1
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: '[IDE] Fixed a race condition on Windows where the Claude Code sidebar
       view container would not appear on start'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.16
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -45,7 +45,7 @@ record:
     theme: interface-experience
   theme_resolution: manual-semantic-rule-v1
   title: '[IDE] Fixed a race condition on Windows where the Claude Code sidebar view
-    conta'
+    container…'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2025-12-19-added-guidance-for-macos-users-when-alt-shortcuts-fail-due-to-terminal-configura|claude-code-2025-12-19-9ee70f]]'
@@ -54,11 +54,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-01-22-v2-1-16-github-279146529-0e5b3428|claude-code-2026-01-22-v2-1-16-github-279146529-0e5b3428]]'
 source_type: github_releases
 theme: mobile-desktop
-title: IDE Fixed a race condition on Windows where the Claude Code sidebar view conta
+title: IDE Fixed a race condition on Windows where the Claude Code sidebar view container…
 type: change
 ---
 
-# [IDE] Fixed a race condition on Windows where the Claude Code sidebar view conta
+# [IDE] Fixed a race condition on Windows where the Claude Code sidebar view container…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.16: [IDE] Fixed a race condition on Windows where the Claude Code sidebar view container would not appear on start

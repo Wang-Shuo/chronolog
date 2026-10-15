@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: fa646237085b6838179a53bd83f94dd3ad4a6468a6f298269c5e3365a09ec095
+machine_hash: ed295b2e99605290767b32950635400872e133e47e7afcf2a40640f626280dce
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: When creating plans, Cursor responds with clarifying questions to improve
       the plan quality. Cursor now shows an interactive UI to easily answer questions.
     source_release: https://cursor.com/changelog/2-1
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -38,7 +38,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: When creating plans, Cursor responds with clarifying questions to improve
-    the pl
+    the plan quality
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-09-29-you-can-now-observe-control-and-extend-the-agent-loop-using-custom-scripts-hooks|cursor-2025-09-29-cf3808]]'
@@ -48,11 +48,11 @@ source_release: '[[Releases/Cursor/cursor-2025-11-21-2-1-https-cursor-com-change
 source_type: cursor_changelog
 theme: agent-mode
 title: When creating plans, Cursor responds with clarifying questions to improve the
-  pl
+  plan quality
 type: change
 ---
 
-# When creating plans, Cursor responds with clarifying questions to improve the pl
+# When creating plans, Cursor responds with clarifying questions to improve the plan quality
 
 <!-- chronolog:begin region="description" -->
 Cursor — Improved Plan Mode, AI Code Review in Editor, and Instant Grep: When creating plans, Cursor responds with clarifying questions to improve the plan quality. Cursor now shows an interactive UI to easily answer questions.

@@ -11,9 +11,9 @@ diffusion:
   theme: multimodal
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: c3eb7b5cae466319662ba17e0d856849c2a633c29afe6613ac91fd0d962a5827
+machine_hash: 38a82347f7c76c6d1483e65a4ae26890eff121ece48d53c3fb7cd389e63ce06c
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
   - quote: 'Image Support in Chat: You can now drag and drop images into the chat
       to send them to the AI.'
     source_release: https://cursor.com/changelog/0-17-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -38,18 +38,16 @@ record:
   theme: multimodal
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: 'Image Support in Chat: You can now drag and drop images into the chat to
-    send th'
+  title: Image Support in Chat
   type: change
 source_release: '[[Releases/Cursor/cursor-2023-11-27-0-17-0-https-cursor-com-changelog-0-17-0-871d6ce3|cursor-2023-11-27-0-17-0-https-cursor-com-changelog-0-17-0-871d6ce3]]'
 source_type: cursor_changelog
 theme: multimodal
-title: 'Image Support in Chat: You can now drag and drop images into the chat to send
-  th'
+title: Image Support in Chat
 type: change
 ---
 
-# Image Support in Chat: You can now drag and drop images into the chat to send th
+# Image Support in Chat
 
 <!-- chronolog:begin region="description" -->
 Cursor — Image Support, Interpreter Mode Beta, @ Folders: Image Support in Chat: You can now drag and drop images into the chat to send them to the AI.

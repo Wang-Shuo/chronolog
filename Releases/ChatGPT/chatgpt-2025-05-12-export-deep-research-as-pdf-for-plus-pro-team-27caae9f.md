@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-05-12'
-machine_hash: 77c4f7d5659a7d7c02d81e7f386ca94dbe18d9291c8a4c08de989292d5344911
+machine_hash: 65a84ed1bee1f262bd00b20d0cdd15d270433c419e6c2514cd2cb3e8ef2ca251
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,5 +40,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- search-browsing: [[Changes/ChatGPT/2025-05-12-you-can-now-export-your-deep-research-reports-as-well-formatted-pdfs-complete-wi-87a3fa|You can now export your deep research reports as well-formatted PDFs—complete wi]]
+- search-browsing: [[Changes/ChatGPT/2025-05-12-you-can-now-export-your-deep-research-reports-as-well-formatted-pdfs-complete-wi-87a3fa|Export your deep research reports as well-formatted PDFs—complete with tables…]]
 <!-- chronolog:end -->

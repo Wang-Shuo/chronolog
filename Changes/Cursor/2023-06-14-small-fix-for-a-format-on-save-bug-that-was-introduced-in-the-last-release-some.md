@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 20ba9b3d4f1d3345b60e4830c4c6acd96610c0dc6db9e9985d2c95677ef5716b
+machine_hash: 631677db1af22a972fe7af0b4d337c56f22b4b23261841d34d58a85e5da2db3c
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Small fix for a format-on-save bug that was introduced in the last release.
       Some small improvements to the AI linter and codebase-wide chat.
     source_release: https://cursor.com/changelog/0-2-32
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,8 +35,7 @@ record:
   source_release: cursor-2023-06-14-0-2-32-https-cursor-com-changelog-0-2-32-fcd78291
   source_type: cursor_changelog
   theme: developer-workflow
-  title: Small fix for a format-on-save bug that was introduced in the last release.
-    Some
+  title: Small fix for a format-on-save bug that was introduced in the last release
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-04-14-don-t-install-cursor-command-on-startup|cursor-2023-04-14-337feb]]'
@@ -45,12 +44,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-06-14-0-2-32-https-cursor-com-changelog-0-2-32-fcd78291|cursor-2023-06-14-0-2-32-https-cursor-com-changelog-0-2-32-fcd78291]]'
 source_type: cursor_changelog
 theme: developer-workflow
-title: Small fix for a format-on-save bug that was introduced in the last release.
-  Some
+title: Small fix for a format-on-save bug that was introduced in the last release
 type: change
 ---
 
-# Small fix for a format-on-save bug that was introduced in the last release. Some
+# Small fix for a format-on-save bug that was introduced in the last release
 
 <!-- chronolog:begin region="description" -->
 Cursor — Small improvements: Small fix for a format-on-save bug that was introduced in the last release. Some small improvements to the AI linter and codebase-wide chat.

@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 6302a1526043d88422c12072e372186e5d8173283189f98a90d16da58ae868af
+machine_hash: 49ad38a65f7b5245fbcca3eb59655716e332d46715976a7408f5111266005149
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,7 +34,7 @@ record:
       section of your app settings. Then select GPT-4 in the model switcher and choose
       “Browse with Bing” in the drop-down.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -55,7 +55,7 @@ record:
     theme: search-browsing
   theme_resolution: manual-semantic-rule-v2
   title: 'Browsing: Plus users can now use Browsing to get comprehensive answers and
-    curre'
+    current…'
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-05-20-switching-between-models-is-a-lot-more-easy-and-the-transition-to-gpt-4-is-a-lot|cursor-2023-05-20-790c2a]]'
@@ -65,11 +65,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2023-06-22-browsing-and-search-on-mo
 source_type: chatgpt_changelog
 theme: model-support
 title: 'Browsing: Plus users can now use Browsing to get comprehensive answers and
-  curre'
+  current…'
 type: change
 ---
 
-# Browsing: Plus users can now use Browsing to get comprehensive answers and curre
+# Browsing: Plus users can now use Browsing to get comprehensive answers and current…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Browsing and search on mobile: Browsing: Plus users can now use Browsing to get comprehensive answers and current insights on events and information that extend beyond the model's original training data. To try it out, enable Browsing in the “new features” section of your app settings. Then select GPT-4 in the model switcher and choose “Browse with Bing” in the drop-down.

@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2026-09-25'
-machine_hash: 4b5a09a65ff6607a1c7e2f87d483e389b92c2bbd778e1c75d6769c169b599d8b
+machine_hash: 31e98c8ac797854b6b0e4b8d2e7b9464e5f6eac049ca96218d4b14bf077f3740
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,6 +42,6 @@ Tracked cards: 2
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- safety-privacy: [[Changes/ChatGPT/2026-09-25-we-re-introducing-security-history-a-new-way-to-review-recent-security-activity|We’re introducing security history, a new way to review recent security activity]]
-- safety-privacy: [[Changes/ChatGPT/2026-09-25-to-view-your-history-in-chatgpt-on-the-web-go-to-settings-security-and-login-the|To view your history in ChatGPT on the web, go to Settings  Security and login,]]
+- safety-privacy: [[Changes/ChatGPT/2026-09-25-we-re-introducing-security-history-a-new-way-to-review-recent-security-activity|ChatGPT introduces security history, a new way to review recent security activity…]]
+- safety-privacy: [[Changes/ChatGPT/2026-09-25-to-view-your-history-in-chatgpt-on-the-web-go-to-settings-security-and-login-the|To view your history in ChatGPT on the web, go to Settings  Security and login…]]
 <!-- chronolog:end -->

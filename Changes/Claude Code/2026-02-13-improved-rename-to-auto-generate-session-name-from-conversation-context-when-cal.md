@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 716ce045de51f25bd162d3bea6be2f7aeb33db66ce095c66b01de772de2021f4
+machine_hash: 9151b2ee131b5b7cf681db8dcca0e6f2240c31292762402b5dc01d217dec7ffa
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Improved `/rename` to auto-generate session name from conversation context
       when called without arguments
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.41
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -34,8 +34,7 @@ record:
   source_release: claude-code-2026-02-13-v2-1-41-github-285970764-07a64ba8
   source_type: github_releases
   theme: context-window
-  title: Improved `/rename` to auto-generate session name from conversation context
-    when
+  title: Improved `/rename` to auto-generate session name from conversation context…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-03-added-pages-parameter-to-the-read-tool-for-pdfs-allowing-specific-page-ranges-to|claude-code-2026-02-03-618c1b]]'
@@ -44,11 +43,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-02-13-v2-1-41-github-285970764-07a64ba8|claude-code-2026-02-13-v2-1-41-github-285970764-07a64ba8]]'
 source_type: github_releases
 theme: context-window
-title: Improved /rename to auto-generate session name from conversation context when
+title: Improved /rename to auto-generate session name from conversation context…
 type: change
 ---
 
-# Improved `/rename` to auto-generate session name from conversation context when
+# Improved `/rename` to auto-generate session name from conversation context…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.41: Improved `/rename` to auto-generate session name from conversation context when called without arguments

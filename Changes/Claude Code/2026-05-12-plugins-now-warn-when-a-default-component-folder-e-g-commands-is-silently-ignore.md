@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 31f061a24ec747c2f7fd6b00feee3195bd31e8b94c8f03989b5053383de97c31
+machine_hash: 0adc146ea1e4d806b0f87f9463e7a6869dfc584d2fb87a2125c5617da405de04
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       silently ignored because `plugin.json` sets the matching key. Shown in `/doctor`,
       `claude plugin list`, and `/plugin`.
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.140
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,7 +36,7 @@ record:
   source_release: claude-code-2026-05-12-v2-1-140-github-321395205-971146de
   source_type: github_releases
   theme: apps-integrations
-  title: Plugins now warn when a default component folder (e.g. `commands/`) is silently
+  title: Plugins now warn when a default component folder (e.g. `commands/`) is silently…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-11-added-claude-plugin-details-name-to-show-a-plugin-s-component-inventory-and-proj|claude-code-2026-05-11-05cc0b]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-12-v2-1-140-github-321395205-971146de|claude-code-2026-05-12-v2-1-140-github-321395205-971146de]]'
 source_type: github_releases
 theme: apps-integrations
-title: Plugins now warn when a default component folder (e.g. commands/) is silently
+title: Plugins now warn when a default component folder (e.g. commands/) is silently…
 type: change
 ---
 
-# Plugins now warn when a default component folder (e.g. `commands/`) is silently
+# Plugins now warn when a default component folder (e.g. `commands/`) is silently…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.140: Plugins now warn when a default component folder (e.g. `commands/`) is silently ignored because `plugin.json` sets the matching key. Shown in `/doctor`, `claude plugin list`, and `/plugin`.

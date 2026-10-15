@@ -11,9 +11,9 @@ diffusion:
   theme: file-data
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 889cebf9a795c47f2e3f073f514baa2ea93d593c24d3c6cb06f42451698400ad
+machine_hash: 1b9baeea86c884a91e03e909b0242848b46319cb1c075bd605c224f0d5a62f4c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
       connect supported health records and Apple Health data, see a dashboard of their
       health information, and ask questions grounded in their personal health context.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -43,8 +43,7 @@ record:
   theme: file-data
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: We’re starting to roll out a new health experience in ChatGPT. Logged-in
-    Free, G
+  title: We’re starting to roll out a new health experience in ChatGPT
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-06-08-full-screen-writing-blocks-for-longer-form-work-writing-blocks-now-cover-long-fo|chatgpt-2026-06-08-95da8e]]'
@@ -53,12 +52,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-23-health-in-chatgpt-4cb3bdf6|chatgpt-2026-07-23-health-in-chatgpt-4cb3bdf6]]'
 source_type: chatgpt_changelog
 theme: file-data
-title: We’re starting to roll out a new health experience in ChatGPT. Logged-in Free,
-  G
+title: We’re starting to roll out a new health experience in ChatGPT
 type: change
 ---
 
-# We’re starting to roll out a new health experience in ChatGPT. Logged-in Free, G
+# We’re starting to roll out a new health experience in ChatGPT
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Health in ChatGPT: We’re starting to roll out a new health experience in ChatGPT. Logged-in Free, Go, Plus, and Pro users in the United States who are 18 or older can securely connect supported health records and Apple Health data, see a dashboard of their health information, and ask questions grounded in their personal health context.

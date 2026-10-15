@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 8213e60bbe77d50a484e97f5522e09f17eaf6c1c2cb0328d881426265ead9157
+machine_hash: c156c860863f1450853f3c591533bf05a17d11e4a8687a5d509c48a8aff212e1
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: 'Gateway: added Claude Platform on AWS (anthropicAws) as an upstream provider;
       model-not-found responses now advance the failover chain'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.198
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   source_release: claude-code-2026-07-01-v2-1-198-github-347599701-9cec0dab
   source_type: github_releases
   theme: model-support
-  title: 'Gateway: added Claude Platform on AWS (anthropicAws) as an upstream provider;
-    mo'
+  title: 'Gateway: added Claude Platform on AWS (anthropicAws) as an upstream provider'
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-06-26-as-of-june-26-2026-gpt-4-5-is-no-longer-available-in-chatgpt-including-for-custo|chatgpt-2026-06-26-46ba84]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-01-v2-1-198-github-347599701-9cec0dab|claude-code-2026-07-01-v2-1-198-github-347599701-9cec0dab]]'
 source_type: github_releases
 theme: model-support
-title: 'Gateway: added Claude Platform on AWS (anthropicAws) as an upstream provider;
-  mo'
+title: 'Gateway: added Claude Platform on AWS (anthropicAws) as an upstream provider'
 type: change
 ---
 
-# Gateway: added Claude Platform on AWS (anthropicAws) as an upstream provider; mo
+# Gateway: added Claude Platform on AWS (anthropicAws) as an upstream provider
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.198: Gateway: added Claude Platform on AWS (anthropicAws) as an upstream provider; model-not-found responses now advance the failover chain

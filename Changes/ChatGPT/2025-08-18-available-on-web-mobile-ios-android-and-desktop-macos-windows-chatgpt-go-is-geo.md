@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: b39cf5a01f5ffa1b8539a84b768a9cf4fc84c4e1bc39251c3436faa366034afb
+machine_hash: 4fdcfba94caf9c55ba65c49d4d09aed25598e344cdce70d3b353db24de952dbc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       Go is geo-restricted to India at launch, and is able to be subscribed to by
       credit card or UPI.Learn more about ChatGPT Go.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -37,7 +37,7 @@ record:
   source_release: chatgpt-2025-08-18-introducing-chatgpt-go-fbc1ef7a
   source_type: chatgpt_changelog
   theme: mobile-desktop
-  title: Available on web, mobile (iOS & Android), and desktop (macOS & Windows).ChatGPT
+  title: Available on web, mobile (iOS & Android), and desktop (macOS & Windows)
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-07-16-record-mode-is-now-available-to-chatgpt-plus-users-globally-in-the-macos-desktop|chatgpt-2025-07-16-86ff26]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-18-introducing-chatgpt-go-fbc1ef7a|chatgpt-2025-08-18-introducing-chatgpt-go-fbc1ef7a]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: Available on web, mobile (iOS & Android), and desktop (macOS & Windows).ChatGPT
+title: Available on web, mobile (iOS & Android), and desktop (macOS & Windows)
 type: change
 ---
 
-# Available on web, mobile (iOS & Android), and desktop (macOS & Windows).ChatGPT
+# Available on web, mobile (iOS & Android), and desktop (macOS & Windows)
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Introducing ChatGPT Go: Available on web, mobile (iOS & Android), and desktop (macOS & Windows).ChatGPT Go is geo-restricted to India at launch, and is able to be subscribed to by credit card or UPI.Learn more about ChatGPT Go.

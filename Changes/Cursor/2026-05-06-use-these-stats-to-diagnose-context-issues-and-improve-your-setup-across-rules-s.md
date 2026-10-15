@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7b23ae81a85979a178a97184345f3a92e54bf6de086a7aa5bfcecee26be0ab25
+machine_hash: 14cac72fb3438da51031cfe5c23335cf85c478035f017003be424b9bb7ebcbcb
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Use these stats to diagnose context issues and improve your setup across
       rules, skills, MCPs, and subagents.
     source_release: https://cursor.com/changelog/05-06-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -45,7 +45,7 @@ record:
     theme: context-window
   theme_resolution: manual-semantic-rule-v1
   title: Use these stats to diagnose context issues and improve your setup across
-    rules,
+    rules…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-14-added-recap-feature-to-provide-context-when-returning-to-a-session-configurable|claude-code-2026-04-14-705fd6]]'
@@ -54,11 +54,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-05-06-3-3-https-cursor-com-changelog-05-06-26-2cf56c40|cursor-2026-05-06-3-3-https-cursor-com-changelog-05-06-26-2cf56c40]]'
 source_type: cursor_changelog
 theme: context-window
-title: Use these stats to diagnose context issues and improve your setup across rules,
+title: Use these stats to diagnose context issues and improve your setup across rules…
 type: change
 ---
 
-# Use these stats to diagnose context issues and improve your setup across rules,
+# Use these stats to diagnose context issues and improve your setup across rules…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Context Usage Breakdown: Use these stats to diagnose context issues and improve your setup across rules, skills, MCPs, and subagents.

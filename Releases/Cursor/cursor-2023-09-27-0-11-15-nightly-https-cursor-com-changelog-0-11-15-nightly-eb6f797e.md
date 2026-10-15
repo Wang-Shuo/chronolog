@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-09-27'
-machine_hash: aed0ac2a5a30ffd30a834ba487f1ba6f190718c12901e72a1f913d4957000873
+machine_hash: ac1435f53005cc2669f588e4c6b9e9cd3db424490fc8b1aa1acca4ab54170507
 product: cursor
 product_name: Cursor
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- editor-experience: [[Changes/Cursor/2023-09-27-you-can-now-use-an-early-preview-of-edit-in-the-chat-it-s-significantly-faster-a|You can now use an early preview of /edit in the chat! It's significantly faster]]
+- editor-experience: [[Changes/Cursor/2023-09-27-you-can-now-use-an-early-preview-of-edit-in-the-chat-it-s-significantly-faster-a|Use an early preview of /edit in the chat!]]
 <!-- chronolog:end -->

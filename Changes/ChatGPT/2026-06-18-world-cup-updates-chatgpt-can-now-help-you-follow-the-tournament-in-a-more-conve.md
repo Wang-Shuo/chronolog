@@ -11,9 +11,9 @@ diffusion:
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 344f2a68bcff1ca57da04449fa2450a22db3572785e74551dfa88f36d9fbf674
+machine_hash: cc0cd2ccb5464843184bfe37b20b96ca57957ee7d0d0168f32cbc80508575fd0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       storylines, predictions, and what different match outcomes mean. Get started
       at chatgpt.com/football.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -38,8 +38,7 @@ record:
   source_release: chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5
   source_type: chatgpt_changelog
   theme: collaboration
-  title: 'World Cup updates: ChatGPT can now help you follow the tournament in a more
-    conv'
+  title: World Cup updates
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-06-03-groups-are-a-lightweight-collection-of-users-that-can-sit-across-or-within-teams|cursor-2026-06-03-712ba7]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
 theme: collaboration
-title: 'World Cup updates: ChatGPT can now help you follow the tournament in a more
-  conv'
+title: World Cup updates
 type: change
 ---
 
-# World Cup updates: ChatGPT can now help you follow the tournament in a more conv
+# World Cup updates
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT app experience updates: World Cup updates: ChatGPT can now help you follow the tournament in a more conversational way. Ask about schedules, matchups, teams and players, country storylines, predictions, and what different match outcomes mean. Get started at chatgpt.com/football.

@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: dbe887bac756cac6f16293c68172576987fa4f6395c88c81faf2be6a965b950c
+machine_hash: 88ccee19519985ebc9eba83994aa031253266bc74c5012158cc2e5e7e3435e22
 product: claude-code
 product_name: Claude Code
 record:
@@ -24,7 +24,7 @@ record:
   evidence:
   - quote: Claude in Chrome is now generally available
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.198
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

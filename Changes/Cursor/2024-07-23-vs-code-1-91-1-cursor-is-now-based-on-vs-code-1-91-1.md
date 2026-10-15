@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 2096281ad6edc9510551ddc80042a16ea9c95b3faf31af3633d17045054461ab
+machine_hash: 09611f035166e58f22e2425d70af04940edfe77b89da70ff71372adf2018088a
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: 'VS Code 1.91.1: Cursor is now based on VS Code 1.91.1.'
     source_release: https://cursor.com/changelog/0-38-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,7 +35,7 @@ record:
   theme: editor-experience
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: 'VS Code 1.91.1: Cursor is now based on VS Code 1.91.1.'
+  title: 'VS Code 1.91.1: Cursor is now based on VS Code 1.91.1'
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-05-26-accept-partial-completions-with-copilot|cursor-2024-05-26-f524e2]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-07-23-0-38-x-https-cursor-com-changelog-0-38-x-e6d087df|cursor-2024-07-23-0-38-x-https-cursor-com-changelog-0-38-x-e6d087df]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: 'VS Code 1.91.1: Cursor is now based on VS Code 1.91.1.'
+title: 'VS Code 1.91.1: Cursor is now based on VS Code 1.91.1'
 type: change
 ---
 
-# VS Code 1.91.1: Cursor is now based on VS Code 1.91.1.
+# VS Code 1.91.1: Cursor is now based on VS Code 1.91.1
 
 <!-- chronolog:begin region="description" -->
 Cursor — Copilot++ Chunked Streaming (beta), Composer improvements: VS Code 1.91.1: Cursor is now based on VS Code 1.91.1.

@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 19282caa54cafc48c26e902355bdc00f6c9b6712c5f69394195935bf6e2c739c
+machine_hash: f6c3b2ed25fbbf3748cca9f94c3b15e676316395b98f412a8ebeb40ddd5a0014
 product: cursor
 product_name: Cursor
 record:
@@ -24,7 +24,7 @@ record:
   evidence:
   - quote: Cleaned up chat styling
     source_release: https://cursor.com/changelog/0-1-12
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

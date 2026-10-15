@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ba4298f3a05271e654a6b372908009e9e8c449830fd138d939642808f5c396c3
+machine_hash: 252ec025f1bbfacd447156bb75a70242baabc0ef0a7c1d5eeda03ab70aba5473
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: 'Improved startup performance: the session counter is now written in the
       background'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.236
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,7 +35,7 @@ record:
   source_type: github_releases
   theme: reliability-performance
   title: 'Improved startup performance: the session counter is now written in the
-    backgrou'
+    background'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-21-added-warnings-when-transcript-writes-are-failing-e-g-disk-full-or-when-session|claude-code-2026-07-21-5131b9]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-08-19-v2-1-236-github-373272539-bbbacf79|claude-code-2026-08-19-v2-1-236-github-373272539-bbbacf79]]'
 source_type: github_releases
 theme: reliability-performance
-title: 'Improved startup performance: the session counter is now written in the backgrou'
+title: 'Improved startup performance: the session counter is now written in the background'
 type: change
 ---
 
-# Improved startup performance: the session counter is now written in the backgrou
+# Improved startup performance: the session counter is now written in the background
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.236: Improved startup performance: the session counter is now written in the background

@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-01-29'
-machine_hash: 843b17d6a6a48f52a6c34421c902158cfd900804364a1148a3638a75f66d5c18
+machine_hash: 07e8b9f57f74b0bc7751033850670b5e6cff0f13dbe6f307d83db3877cf77fed
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2026-01-29-on-february-13-2026-alongside-the-previously-announced-retirement-of-gpt-5-insta|On February 13, 2026, alongside the previously announced retirement⁠ of GPT‑5 (I]]
+- model-support: [[Changes/ChatGPT/2026-01-29-on-february-13-2026-alongside-the-previously-announced-retirement-of-gpt-5-insta|On February 13, 2026, alongside the previously announced retirement of GPT‑5…]]
 <!-- chronolog:end -->

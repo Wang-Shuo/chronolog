@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a937ecdc0919ab23631ce687f0742102002d3b1d6f3a1cb0a26144b37e0a0103
+machine_hash: b525ba8c27a7af251433ef474a345086d8ca5de9b0f3052f67fc44f1f849284b
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Added `CLAUDE_CODE_PLUGIN_PREFER_HTTPS` to clone GitHub plugin sources
       over HTTPS instead of SSH, for environments without a GitHub SSH key
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.141
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,7 +36,7 @@ record:
   source_type: github_releases
   theme: apps-integrations
   title: Added `CLAUDE_CODE_PLUGIN_PREFER_HTTPS` to clone GitHub plugin sources over
-    HTTP
+    HTTPS…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-11-get-started-by-installing-the-integration-in-the-cursor-dashboard-learn-more-in|cursor-2026-05-11-df0e2b]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22|claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added CLAUDE_CODE_PLUGIN_PREFER_HTTPS to clone GitHub plugin sources over HTTP
+title: Added CLAUDE_CODE_PLUGIN_PREFER_HTTPS to clone GitHub plugin sources over HTTPS…
 type: change
 ---
 
-# Added `CLAUDE_CODE_PLUGIN_PREFER_HTTPS` to clone GitHub plugin sources over HTTP
+# Added `CLAUDE_CODE_PLUGIN_PREFER_HTTPS` to clone GitHub plugin sources over HTTPS…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.141: Added `CLAUDE_CODE_PLUGIN_PREFER_HTTPS` to clone GitHub plugin sources over HTTPS instead of SSH, for environments without a GitHub SSH key

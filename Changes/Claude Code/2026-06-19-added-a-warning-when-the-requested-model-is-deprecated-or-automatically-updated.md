@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 1cdc09b64681f6b1c2df93ffd49551ee256ac9564a98f8f3a2fe28118c9a89e7
+machine_hash: 8a7fc2c1ac29c92c36258e23bd96365ed542fa0bc1cfcf9af9ca05d3e1a57558
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       updated to a newer model, shown on stderr in print mode (`-p`) and now also
       covering models set in agent frontmatter
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.183
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code
@@ -48,7 +48,7 @@ record:
     - agent
     score: 50
     theme: agent-mode
-  title: Added a warning when the requested model is deprecated or automatically updated
+  title: Added a warning when the requested model is deprecated or automatically updated…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-10-added-model-attribute-to-the-claude-code-lines-of-code-count-otel-metric|claude-code-2026-06-10-2a22f5]]'
@@ -57,11 +57,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-19-v2-1-183-github-341696059-98586912|claude-code-2026-06-19-v2-1-183-github-341696059-98586912]]'
 source_type: github_releases
 theme: model-support
-title: Added a warning when the requested model is deprecated or automatically updated
+title: Added a warning when the requested model is deprecated or automatically updated…
 type: change
 ---
 
-# Added a warning when the requested model is deprecated or automatically updated
+# Added a warning when the requested model is deprecated or automatically updated…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.183: Added a warning when the requested model is deprecated or automatically updated to a newer model, shown on stderr in print mode (`-p`) and now also covering models set in agent frontmatter

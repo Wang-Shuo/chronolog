@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9a9424330de8caaa2863718e5c35d13e30c7fd8eb2cbe4bf1ad1cf6805f0e851
+machine_hash: 2ce53e84f3ec273b20838d1f89bf3d2526ae348fb4a9a7f2eae2b61e2f3586e9
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: 'Added `teammateMode: "iterm2"` setting with a warning when auto mode cannot
       find the `it2` CLI'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.186
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,7 +35,7 @@ record:
   source_type: github_releases
   theme: agent-mode
   title: 'Added `teammateMode: "iterm2"` setting with a warning when auto mode cannot
-    find'
+    find…'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-15-nested-claude-directories-the-agent-workflow-and-output-style-closest-to-the-wor|claude-code-2026-06-15-f824ca]]'
@@ -45,11 +45,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-06-22-v2-1-186-github-3
 source_type: github_releases
 theme: agent-mode
 title: 'Added teammateMode: "iterm2" setting with a warning when auto mode cannot
-  find'
+  find…'
 type: change
 ---
 
-# Added `teammateMode: "iterm2"` setting with a warning when auto mode cannot find
+# Added `teammateMode: "iterm2"` setting with a warning when auto mode cannot find…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.186: Added `teammateMode: "iterm2"` setting with a warning when auto mode cannot find the `it2` CLI

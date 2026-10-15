@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ad0442b7d1b282c431a3f06fbbc4d92d6e4979664bf971a570ecf510b4054c69
+machine_hash: d06bf5b8600a161bc3ff8d0e161596813b1893bef44de0ff4b5ff6f2fc486875
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Reduced startup memory by ~426KB for users without custom CA certificates
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.70
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1912e5f56c345f22c31a90fc1c56d20347f982a79cd038cd59b42b96b168afc2
+machine_hash: 2898477010023accdbb3902bd8926ba239614bdd2d1cd70bb4b1be54e361a8c0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   - quote: 'Formatting: Answers are better formatted for quick understanding without
       losing detail or quality.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: 'Formatting: Answers are better formatted for quick understanding without
-    losing'
+    losing…'
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-04-15-chat-history-has-moved-into-the-command-palette-you-can-access-it-from-the-show|cursor-2025-04-15-d363cf]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-16-improvements-to-search-in-chatgpt-2ec68690|chatgpt-2025-09-16-improvements-to-search-in-chatgpt-2ec68690]]'
 source_type: chatgpt_changelog
 theme: interface-experience
-title: 'Formatting: Answers are better formatted for quick understanding without losing'
+title: 'Formatting: Answers are better formatted for quick understanding without losing…'
 type: change
 ---
 
-# Formatting: Answers are better formatted for quick understanding without losing
+# Formatting: Answers are better formatted for quick understanding without losing…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Improvements to search in ChatGPT: Formatting: Answers are better formatted for quick understanding without losing detail or quality.

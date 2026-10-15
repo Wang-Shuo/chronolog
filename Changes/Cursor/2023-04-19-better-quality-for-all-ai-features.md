@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e79c0926437b3c22d1a205b9a64c2c15aa27148fcca317f85a4ddb0fbbc45bae
+machine_hash: d68e5de453b94a5fd8f3415d20c9a8e8de74c43a8225c4ee35cad6bf20772ce9
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Better quality for all AI features
     source_release: https://cursor.com/changelog/0-2-6
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

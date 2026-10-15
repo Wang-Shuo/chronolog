@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ecb744c15975b44335ddaaa7d1bb6a5a0ca3b49baee139d2a6806996a80caa79
+machine_hash: 651b950e9ff29fef50bf9acd85d24784c3d8216aaf23c1f631fc3fbc0bc54a86
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       (was 1–2s), cutting server load ~300×. Reconnection is unaffected — transport
       loss immediately wakes fast polling.
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.70
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,8 +38,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Reduced Remote Control `/poll` rate to once per 10 minutes while connected
-    (was
+  title: Reduced Remote Control `/poll` rate to once per 10 minutes while connected…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-03-03-mcp-apps-support-interactive-user-interfaces-like-charts-from-amplitude-diagrams|cursor-2026-03-03-08d82a]]'
@@ -48,11 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-06-v2-1-70-github-293754953-afac13c0|claude-code-2026-03-06-v2-1-70-github-293754953-afac13c0]]'
 source_type: github_releases
 theme: apps-integrations
-title: Reduced Remote Control /poll rate to once per 10 minutes while connected (was
+title: Reduced Remote Control /poll rate to once per 10 minutes while connected…
 type: change
 ---
 
-# Reduced Remote Control `/poll` rate to once per 10 minutes while connected (was
+# Reduced Remote Control `/poll` rate to once per 10 minutes while connected…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.70: Reduced Remote Control `/poll` rate to once per 10 minutes while connected (was 1–2s), cutting server load ~300×. Reconnection is unaffected — transport loss immediately wakes fast polling.

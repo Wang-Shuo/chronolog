@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 50a81cb686bc1884a5e56e2035a491f26c52bd4bc2e6e032c67c585196054ef0
+machine_hash: 5b49aa39605270adadc69b58166b439c3aadcce980af82dc1b624217d1a3efcb
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Remote-ssh is now built-in to cursor. You do not need to edit the behavior,
       it should just work :)
     source_release: https://cursor.com/changelog/0-6-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,8 +35,7 @@ record:
   source_release: cursor-2023-07-28-0-6-0-https-cursor-com-changelog-0-6-0-ec91c991
   source_type: cursor_changelog
   theme: developer-workflow
-  title: Remote-ssh is now built-in to cursor. You do not need to edit the behavior,
-    it s
+  title: Remote-ssh is now built-in to cursor
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-06-27-early-support-for-slash-commands|cursor-2023-06-27-6862ce]]'
@@ -45,12 +44,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-07-28-0-6-0-https-cursor-com-changelog-0-6-0-ec91c991|cursor-2023-07-28-0-6-0-https-cursor-com-changelog-0-6-0-ec91c991]]'
 source_type: cursor_changelog
 theme: developer-workflow
-title: Remote-ssh is now built-in to cursor. You do not need to edit the behavior,
-  it s
+title: Remote-ssh is now built-in to cursor
 type: change
 ---
 
-# Remote-ssh is now built-in to cursor. You do not need to edit the behavior, it s
+# Remote-ssh is now built-in to cursor
 
 <!-- chronolog:begin region="description" -->
 Cursor — A copilot experience powered by gpt-4: Remote-ssh is now built-in to cursor. You do not need to edit the behavior, it should just work :)

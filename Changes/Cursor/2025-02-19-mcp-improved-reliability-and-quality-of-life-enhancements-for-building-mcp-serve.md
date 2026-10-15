@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e758842b96c2bc5b6ddf8c6f2921e89bcb4f40047418f10f1146a86ee226060e
+machine_hash: fc260412490833d65afcb761576233735b6a17b745e9c5f8bb03dcbf76b0f259
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: 'MCP: Improved reliability and quality of life enhancements for building
       MCP servers in Cursor.'
     source_release: https://cursor.com/changelog/0-46-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,7 +35,7 @@ record:
   source_type: cursor_changelog
   theme: apps-integrations
   title: 'MCP: Improved reliability and quality of life enhancements for building
-    MCP serv'
+    MCP servers…'
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-01-25-update-0-24-3-0-24-4-adds-ability-to-configure-openai-base-url-fixes-getcursor-c|cursor-2024-01-25-0ef947]]'
@@ -45,11 +45,11 @@ source_release: '[[Releases/Cursor/cursor-2025-02-19-0-46-x-https-cursor-com-cha
 source_type: cursor_changelog
 theme: apps-integrations
 title: 'MCP: Improved reliability and quality of life enhancements for building MCP
-  serv'
+  servers…'
 type: change
 ---
 
-# MCP: Improved reliability and quality of life enhancements for building MCP serv
+# MCP: Improved reliability and quality of life enhancements for building MCP servers…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Agent is ready and UI refresh: MCP: Improved reliability and quality of life enhancements for building MCP servers in Cursor.

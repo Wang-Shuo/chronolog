@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: f69eb907f879089da6c45dcf6955524b7a5c4d6c55d9fbd5f788986a9a1344e3
+machine_hash: c915941aa5d77d23d6396c0d14f47eb48679aabc50e9843fe88aa1a4cc4f7db0
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Improved performance of opening recently-inactive background agent sessions
       in `claude agents`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.160
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code
@@ -47,8 +47,7 @@ record:
     - performance
     score: 50
     theme: reliability-performance
-  title: Improved performance of opening recently-inactive background agent sessions
-    in `
+  title: Improved performance of opening recently-inactive background agent sessions…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-29-claude-agents-the-agent-field-in-settings-json-is-now-honored-for-dispatched-ses|claude-code-2026-05-29-371def]]'
@@ -57,12 +56,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-02-v2-1-160-github-332740156-03dd8b5a|claude-code-2026-06-02-v2-1-160-github-332740156-03dd8b5a]]'
 source_type: github_releases
 theme: agent-mode
-title: 'Improved performance of opening recently-inactive background agent sessions
-  in '
+title: Improved performance of opening recently-inactive background agent sessions…
 type: change
 ---
 
-# Improved performance of opening recently-inactive background agent sessions in `
+# Improved performance of opening recently-inactive background agent sessions…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.160: Improved performance of opening recently-inactive background agent sessions in `claude agents`

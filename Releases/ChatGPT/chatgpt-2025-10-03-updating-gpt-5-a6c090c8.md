@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-10-03'
-machine_hash: 5727e69950d680c3c03611039e752abaa831c9f19ab14c6ef769de6731b5900f
+machine_hash: b1613d7b122163034d3f9f8c255ac12f25c11ca8999949f3d7461b0fdff95aff
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2025-10-03-we-re-updating-gpt-5-instant-to-better-recognize-and-support-people-in-moments-o-ea32fc|We’re updating GPT-5 Instant to better recognize and support people in moments o]]
+- model-support: [[Changes/ChatGPT/2025-10-03-we-re-updating-gpt-5-instant-to-better-recognize-and-support-people-in-moments-o-ea32fc|We’re updating GPT-5 Instant to better recognize and support people in moments of distress]]
 <!-- chronolog:end -->

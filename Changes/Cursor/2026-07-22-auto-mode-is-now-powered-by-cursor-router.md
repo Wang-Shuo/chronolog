@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 05cd7a9a189e696c62d6c421599cb23a6e40531f3b4031f3f1ef93ba7bf739ab
+machine_hash: 68484d2e731164a7c18e66bfe5c8ee70ed84ae108679e257790aee701d010cf8
 product: cursor
 product_name: Cursor
 record:
@@ -24,7 +24,7 @@ record:
   evidence:
   - quote: Auto mode is now powered by Cursor Router.
     source_release: https://cursor.com/changelog/router
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -32,7 +32,7 @@ record:
   source_release: cursor-2026-07-22-cursor-router-https-cursor-com-changelog-router-af8c2ac4
   source_type: cursor_changelog
   theme: agent-mode
-  title: Auto mode is now powered by Cursor Router.
+  title: Auto mode is now powered by Cursor Router
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-17-added-claude-auto-mode-reset-to-restore-the-default-auto-mode-configuration-with|claude-code-2026-07-17-ceabc9]]'
@@ -41,11 +41,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-07-22-cursor-router-https-cursor-com-changelog-router-af8c2ac4|cursor-2026-07-22-cursor-router-https-cursor-com-changelog-router-af8c2ac4]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: Auto mode is now powered by Cursor Router.
+title: Auto mode is now powered by Cursor Router
 type: change
 ---
 
-# Auto mode is now powered by Cursor Router.
+# Auto mode is now powered by Cursor Router
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cursor Router: Auto mode is now powered by Cursor Router.

@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 74303be86799dd937d2ee76e864a6d370ae462546da4bc2b078c4147f3ec920c
+machine_hash: 24f249dc2a0b208d88beb3d818d2658da7669a040a53444d3517dbe8ab152265
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       events with `vcs.*` repository attributes; commit events get `vcs.ref.head.*`
       with `OTEL_LOG_TOOL_DETAILS`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.269
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -39,7 +39,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: Added `OTEL_METRICS_INCLUDE_REPOSITORY` to tag OpenTelemetry metrics and
-    events
+    events…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-28-added-attach-logs-stop-respawn-and-rm-to-claude-help-the-resume-message-for-a-ru|claude-code-2026-08-28-4b188b]]'
@@ -48,11 +48,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-11-v2-1-269-github-387243742-288e9189|claude-code-2026-09-11-v2-1-269-github-387243742-288e9189]]'
 source_type: github_releases
 theme: developer-workflow
-title: Added OTEL_METRICS_INCLUDE_REPOSITORY to tag OpenTelemetry metrics and events
+title: Added OTEL_METRICS_INCLUDE_REPOSITORY to tag OpenTelemetry metrics and events…
 type: change
 ---
 
-# Added `OTEL_METRICS_INCLUDE_REPOSITORY` to tag OpenTelemetry metrics and events
+# Added `OTEL_METRICS_INCLUDE_REPOSITORY` to tag OpenTelemetry metrics and events…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.269: Added `OTEL_METRICS_INCLUDE_REPOSITORY` to tag OpenTelemetry metrics and events with `vcs.*` repository attributes; commit events get `vcs.ref.head.*` with `OTEL_LOG_TOOL_DETAILS`

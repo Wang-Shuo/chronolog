@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2023-08-17'
-machine_hash: 8ad21b304ed1ebcb6c9d5cd989e3ad1135df169ec9c4df5a9c3bea8164424edf
+machine_hash: 1181e0487c51fd0fabf224981c7910713e11fc9ccb1f3cad65610296bb060b2b
 product: cursor
 product_name: Cursor
 record:
@@ -38,6 +38,6 @@ Tracked cards: 2
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- interface-experience: [[Changes/Cursor/2023-08-17-keychords-now-use-cmd-r-ctrl-r|Keychords now use Cmd+R/Ctrl+R.]]
-- developer-workflow: [[Changes/Cursor/2023-08-17-the-cursor-nightly-command-now-works-on-mac|The cursor-nightly command now works on Mac.]]
+- interface-experience: [[Changes/Cursor/2023-08-17-keychords-now-use-cmd-r-ctrl-r|Keychords now use Cmd+R/Ctrl+R]]
+- developer-workflow: [[Changes/Cursor/2023-08-17-the-cursor-nightly-command-now-works-on-mac|The cursor-nightly command now works on Mac]]
 <!-- chronolog:end -->

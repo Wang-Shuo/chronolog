@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4f634cac75228dcf66f1c747581ea8f68d8c95d52467ab0296de578f0f2f0549
+machine_hash: 36ecc7d5ca05be13a78f6d341fb6126e827631a4cac011017e75b23c0354a974
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `.jj` and `.sl` to VCS directory exclusion lists so Grep and file
       autocomplete don't descend into Jujutsu or Sapling metadata
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.86
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -34,7 +34,7 @@ record:
   source_release: claude-code-2026-03-27-v2-1-86-github-302569462-d6b30859
   source_type: github_releases
   theme: editor-experience
-  title: Added `.jj` and `.sl` to VCS directory exclusion lists so Grep and file autocomp
+  title: Added `.jj` and `.sl` to VCS directory exclusion lists so Grep and file autocomplete…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-25-vs-code-fixed-another-cause-of-command-claude-vscode-editor-openlast-not-found-c|claude-code-2026-02-25-d004fd]]'
@@ -43,11 +43,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-27-v2-1-86-github-302569462-d6b30859|claude-code-2026-03-27-v2-1-86-github-302569462-d6b30859]]'
 source_type: github_releases
 theme: editor-experience
-title: Added .jj and .sl to VCS directory exclusion lists so Grep and file autocomp
+title: Added .jj and .sl to VCS directory exclusion lists so Grep and file autocomplete…
 type: change
 ---
 
-# Added `.jj` and `.sl` to VCS directory exclusion lists so Grep and file autocomp
+# Added `.jj` and `.sl` to VCS directory exclusion lists so Grep and file autocomplete…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.86: Added `.jj` and `.sl` to VCS directory exclusion lists so Grep and file autocomplete don't descend into Jujutsu or Sapling metadata

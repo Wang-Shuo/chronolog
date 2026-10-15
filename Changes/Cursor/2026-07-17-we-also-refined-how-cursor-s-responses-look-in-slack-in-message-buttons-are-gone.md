@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 52726ff2af62321c0ec0c96018aab9d8c0e8c92fab5d660cf78816c86414180f
+machine_hash: c18253bd34e1d326775aaf443485bfe954e2e4b5b6198a91f2d2648ddc5eceae
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
       are gone, replaced by compact footer links. Tables, PRs, and artifacts now render
       more cleanly.
     source_release: https://cursor.com/changelog/slack-improvements
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -38,8 +38,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: We also refined how Cursor's responses look in Slack. In-message buttons
-    are gon
+  title: We also refined how Cursor's responses look in Slack
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-17-mcp-tool-calls-running-longer-than-2-minutes-now-move-to-the-background-automati|claude-code-2026-07-17-0b1708]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-07-17-improvements-to-cursor-in-slack-https-cursor-com-changelog-slack-f233f9c6|cursor-2026-07-17-improvements-to-cursor-in-slack-https-cursor-com-changelog-slack-f233f9c6]]'
 source_type: cursor_changelog
 theme: apps-integrations
-title: We also refined how Cursor's responses look in Slack. In-message buttons are
-  gon
+title: We also refined how Cursor's responses look in Slack
 type: change
 ---
 
-# We also refined how Cursor's responses look in Slack. In-message buttons are gon
+# We also refined how Cursor's responses look in Slack
 
 <!-- chronolog:begin region="description" -->
 Cursor — Improvements to Cursor in Slack: We also refined how Cursor's responses look in Slack. In-message buttons are gone, replaced by compact footer links. Tables, PRs, and artifacts now render more cleanly.

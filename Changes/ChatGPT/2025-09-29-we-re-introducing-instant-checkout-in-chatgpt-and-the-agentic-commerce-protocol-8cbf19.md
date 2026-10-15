@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: dfa3113d6dd606760b95b2d5bf556dc79ca7dd726d6ad209283b9fab6b564b40
+machine_hash: 16bdd31e39e7b9a9f8531027f4fd2b230e6e4c026d7ee8e37dfdad0fba40c2ad
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,7 +35,7 @@ record:
       users can buy directly from U.S. Etsy sellers through ChatGPT, with over 1 million
       Shopify merchants, like Glossier, SKIMS, Spanx and Vuori, coming soon.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -43,7 +43,8 @@ record:
   source_release: chatgpt-2025-09-29-introducing-instant-checkout-and-the-agentic-commerce-protocol-6ba1bd7e
   source_type: chatgpt_changelog
   theme: agent-mode
-  title: We’re introducing Instant Checkout in ChatGPT and the Agentic Commerce Protocol
+  title: ChatGPT introduces Instant Checkout and the Agentic Commerce Protocol that
+    powers…
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-08-06-sending-messages-while-cursor-is-working-now-does-a-better-job-of-steering-the-a|cursor-2025-08-06-9e7586]]'
@@ -52,11 +53,12 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-29-introducing-instant-checkout-and-the-agentic-commerce-protocol-6ba1bd7e|chatgpt-2025-09-29-introducing-instant-checkout-and-the-agentic-commerce-protocol-6ba1bd7e]]'
 source_type: chatgpt_changelog
 theme: agent-mode
-title: We’re introducing Instant Checkout in ChatGPT and the Agentic Commerce Protocol
+title: ChatGPT introduces Instant Checkout and the Agentic Commerce Protocol that
+  powers…
 type: change
 ---
 
-# We’re introducing Instant Checkout in ChatGPT and the Agentic Commerce Protocol
+# ChatGPT introduces Instant Checkout and the Agentic Commerce Protocol that powers…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Introducing Instant Checkout and the Agentic Commerce Protocol: We’re introducing Instant Checkout in ChatGPT and the Agentic Commerce Protocol that powers it, built with Stripe.ChatGPT can help you find anything on the web and now with Instant Checkout, you can seamlessly buy directly from the merchant, right in chat. Starting today, U.S. ChatGPT Plus, Pro, and Free users can buy directly from U.S. Etsy sellers through ChatGPT, with over 1 million Shopify merchants, like Glossier, SKIMS, Spanx and Vuori, coming soon.

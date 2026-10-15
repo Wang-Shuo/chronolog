@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 131004a73d907a96e373f06f71e9de97bcc54e7327bde095e920ffe560905e0b
+machine_hash: a22763fb38d8877a8313e7a4892429a078f207bbbf82e21e73b03c305a9aa214
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: We're introducing the Cursor SDK so you can build agents with the same
       runtime, harness, and models that power Cursor.
     source_release: https://cursor.com/changelog/sdk-release
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -45,7 +45,7 @@ record:
     score: 50
     theme: model-support
   theme_resolution: manual-semantic-rule-v1
-  title: We're introducing the Cursor SDK so you can build agents with the same runtime,
+  title: Cursor introduces the Cursor SDK so you can build agents with the same runtime…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-28-mcp-now-shows-claude-ai-connectors-hidden-by-a-manually-added-server-with-the-sa|claude-code-2026-04-28-ae0713]]'
@@ -54,11 +54,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-04-29-build-programmatic-agents-with-the-cursor-sdk-https-cursor-com-c-b4665fa3|cursor-2026-04-29-build-programmatic-agents-with-the-cursor-sdk-https-cursor-com-c-b4665fa3]]'
 source_type: cursor_changelog
 theme: apps-integrations
-title: We're introducing the Cursor SDK so you can build agents with the same runtime,
+title: Cursor introduces the Cursor SDK so you can build agents with the same runtime…
 type: change
 ---
 
-# We're introducing the Cursor SDK so you can build agents with the same runtime,
+# Cursor introduces the Cursor SDK so you can build agents with the same runtime…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Build programmatic agents with the Cursor SDK: We're introducing the Cursor SDK so you can build agents with the same runtime, harness, and models that power Cursor.

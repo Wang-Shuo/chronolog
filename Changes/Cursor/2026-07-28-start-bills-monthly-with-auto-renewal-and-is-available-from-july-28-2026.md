@@ -11,9 +11,9 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 166c5831ce18381ead732163635d95c4b31fb3a6ee48589d7625972d609b0552
+machine_hash: 26b264ca9cd85bcf2599986013128f2f596d9fb954eb26dc9d628583e88b4010
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Start bills monthly with auto-renewal and is available from July 28, 2026.
     source_release: https://cursor.com/changelog/cursor-start
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,7 +35,7 @@ record:
   theme: pricing-model
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Start bills monthly with auto-renewal and is available from July 28, 2026.
+  title: Start bills monthly with auto-renewal and is available from July 28, 2026
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-19-renamed-extra-usage-to-usage-credits-across-cli-copy-extra-usage-is-now-usage-cr|claude-code-2026-05-19-3cdb1c]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-07-28-cursor-start-https-cursor-com-changelog-cursor-start-386914df|cursor-2026-07-28-cursor-start-https-cursor-com-changelog-cursor-start-386914df]]'
 source_type: cursor_changelog
 theme: pricing-model
-title: Start bills monthly with auto-renewal and is available from July 28, 2026.
+title: Start bills monthly with auto-renewal and is available from July 28, 2026
 type: change
 ---
 
-# Start bills monthly with auto-renewal and is available from July 28, 2026.
+# Start bills monthly with auto-renewal and is available from July 28, 2026
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cursor Start: Start bills monthly with auto-renewal and is available from July 28, 2026.

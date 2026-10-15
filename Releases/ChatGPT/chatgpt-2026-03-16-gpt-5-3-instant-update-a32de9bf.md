@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-03-16'
-machine_hash: d368129d1f079a25d7c28a01017410b56fc89a97df7646d9ae5cf8d5459bb9f0
+machine_hash: 15f31284a658d3ad5f655c3e2be72c09cae9efac60ee9d72daba78ce377a2dba
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,5 +40,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2026-03-16-we-re-rolling-out-an-update-to-gpt-5-3-instant-that-improves-follow-up-tone-and|We’re rolling out an update to GPT-5.3 Instant that improves follow-up tone and]]
+- model-support: [[Changes/ChatGPT/2026-03-16-we-re-rolling-out-an-update-to-gpt-5-3-instant-that-improves-follow-up-tone-and|ChatGPT rolls out an update to GPT-5.3 Instant that improves follow-up tone…]]
 <!-- chronolog:end -->

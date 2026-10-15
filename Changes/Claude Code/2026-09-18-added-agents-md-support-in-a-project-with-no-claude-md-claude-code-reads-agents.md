@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: a7a88ca67cfd333ff59694455988e3e3c4709246bd425d19bf6a4b7d2aee0449
+machine_hash: e9f12a947ee23eb60cb2e39ba6e139cd8e94aadcfd2e96bade27ec3210db69fd
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       AGENTS.md instead; change it under "Project instructions" in `/config` (not
       yet on Bedrock, Vertex or Foundry)'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.277
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -38,8 +38,7 @@ record:
   source_release: claude-code-2026-09-18-v2-1-277-github-391616593-06a20f36
   source_type: github_releases
   theme: agent-mode
-  title: 'Added AGENTS.md support: in a project with no CLAUDE.md, Claude Code reads
-    AGENT'
+  title: Added AGENTS.md support
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-09-10-tell-the-coordinator-agent-to-watch-a-slack-channel-run-on-a-schedule-or-follow|cursor-2026-09-10-a4fd1d]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-18-v2-1-277-github-391616593-06a20f36|claude-code-2026-09-18-v2-1-277-github-391616593-06a20f36]]'
 source_type: github_releases
 theme: agent-mode
-title: 'Added AGENTS.md support: in a project with no CLAUDE.md, Claude Code reads
-  AGENT'
+title: Added AGENTS.md support
 type: change
 ---
 
-# Added AGENTS.md support: in a project with no CLAUDE.md, Claude Code reads AGENT
+# Added AGENTS.md support
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.277: Added AGENTS.md support: in a project with no CLAUDE.md, Claude Code reads AGENTS.md instead; change it under "Project instructions" in `/config` (not yet on Bedrock, Vertex or Foundry)

@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9f71666d21a7eb4fb6e7c8785d6234e10a9cb14ed2224d1975b1063ca54c1114
+machine_hash: 8f0a4b20a99dc7487193b69024861e956dede166ea4f76b7c412e13c7d6d59e8
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Added session URL attribution to commits and PRs created from web sessions
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.9
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

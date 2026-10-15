@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 89d9d6ce70aa7f5357d4e86cbf5e0722e0ba2881cc66995f3453f41489601f3d
+machine_hash: dc2dd9db4ea4d19727ce764a8f3487530c91f6fbdada5172f5cd7b30f17c0c30
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
       Cursor Rules command. This is useful when you want to capture the existing context
       of a conversation to reuse later.
     source_release: https://cursor.com/changelog/0-49
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,8 +37,8 @@ record:
   source_release: cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f
   source_type: cursor_changelog
   theme: context-window
-  title: You can now generate rules directly from a conversation using the /Generate
-    Curs
+  title: Generate rules directly from a conversation using the /Generate Cursor Rules
+    command
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-11-24-file-pill-recommendations-in-chat-composer|cursor-2024-11-24-aa8a7e]]'
@@ -47,12 +47,12 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f|cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f]]'
 source_type: cursor_changelog
 theme: context-window
-title: You can now generate rules directly from a conversation using the /Generate
-  Curs
+title: Generate rules directly from a conversation using the /Generate Cursor Rules
+  command
 type: change
 ---
 
-# You can now generate rules directly from a conversation using the /Generate Curs
+# Generate rules directly from a conversation using the /Generate Cursor Rules command
 
 <!-- chronolog:begin region="description" -->
 Cursor — Rules generation, improved agent terminal and MCP images: You can now generate rules directly from a conversation using the /Generate Cursor Rules command. This is useful when you want to capture the existing context of a conversation to reuse later.

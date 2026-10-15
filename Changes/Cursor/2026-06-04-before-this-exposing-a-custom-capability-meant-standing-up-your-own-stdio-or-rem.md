@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 658760e4490f66f1a97c5e9e9b4baee0e0aeb1fb71784c4e26e49f8dcb7bd50f
+machine_hash: fa79c6d9fc30c3a4d8304d901bec4dbf6f507573a6ea895b482a3186d5126393
 product: cursor
 product_name: Cursor
 record:
@@ -33,7 +33,7 @@ record:
       is enough. Custom tools are also visible to every subagent of a parent agent,
       so a tool you define once is available throughout the whole run.
     source_release: https://cursor.com/changelog/sdk-updates-jun-2026
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -52,7 +52,7 @@ record:
     score: 50
     theme: apps-integrations
   title: Before this, exposing a custom capability meant standing up your own stdio
-    or re
+    or remote…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-29-configure-your-run-mode-in-settings-cursor-settings-agents-approvals-execution-y|cursor-2026-05-29-d4afd0]]'
@@ -62,11 +62,11 @@ source_release: '[[Releases/Cursor/cursor-2026-06-04-custom-stores-custom-tools-
 source_type: cursor_changelog
 theme: agent-mode
 title: Before this, exposing a custom capability meant standing up your own stdio
-  or re
+  or remote…
 type: change
 ---
 
-# Before this, exposing a custom capability meant standing up your own stdio or re
+# Before this, exposing a custom capability meant standing up your own stdio or remote…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Custom stores, custom tools, and auto-review for the Cursor SDK: Before this, exposing a custom capability meant standing up your own stdio or remote HTTP MCP server and wiring it into the agent. Now a function definition is enough. Custom tools are also visible to every subagent of a parent agent, so a tool you define once is available throughout the whole run.

@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6ce2f8fedb3aae6d27385a50481247581e8877de12a19bc0041b841b4cf79884
+machine_hash: 05b57335defb1fdc8a8722484fd701b86af9ac91cec5f90719b70b007e96aa77
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: '`/mcp` now collapses claude.ai connectors you''ve never signed in to behind
       a "Show unused connectors" row'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.161
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -34,8 +34,7 @@ record:
   source_release: claude-code-2026-06-02-v2-1-161-github-333271302-7337e6fa
   source_type: github_releases
   theme: apps-integrations
-  title: '`/mcp` now collapses claude.ai connectors you''ve never signed in to behind
-    a "Sh'
+  title: '`/mcp` now collapses claude.ai connectors you''ve never signed in to behind…'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-29-added-claude-plugin-init-name-to-scaffold-a-new-plugin-in-claude-skills|claude-code-2026-05-29-7272e1]]'
@@ -44,12 +43,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-02-v2-1-161-github-333271302-7337e6fa|claude-code-2026-06-02-v2-1-161-github-333271302-7337e6fa]]'
 source_type: github_releases
 theme: apps-integrations
-title: /mcp now collapses claude.ai connectors you've never signed in to behind a
-  "Sh
+title: /mcp now collapses claude.ai connectors you've never signed in to behind…
 type: change
 ---
 
-# `/mcp` now collapses claude.ai connectors you've never signed in to behind a "Sh
+# `/mcp` now collapses claude.ai connectors you've never signed in to behind…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.161: `/mcp` now collapses claude.ai connectors you've never signed in to behind a "Show unused connectors" row

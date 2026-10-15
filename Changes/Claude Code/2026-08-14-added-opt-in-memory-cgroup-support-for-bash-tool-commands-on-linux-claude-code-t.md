@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: b930db2bde61ec5df4e3640524833aca48ff9cda51870cfbc6947396c86edd13
+machine_hash: b815b23ebf0e1d19d5bc46e3b39561d203a2ac8bf53442d1ab0eaa1fd1c88be4
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,7 +29,7 @@ record:
   - quote: Added opt-in memory cgroup support for Bash tool commands on Linux (`CLAUDE_CODE_TOOL_MEMORY_LIMIT`)
       so a runaway build can't stall the session
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.233
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   source_release: claude-code-2026-08-14-v2-1-233-github-370762090-de6823a9
   source_type: github_releases
   theme: memory
-  title: Added opt-in memory cgroup support for Bash tool commands on Linux (`CLAUDE_CODE
+  title: Added opt-in memory cgroup support for Bash tool commands on Linux…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-08-14-change-an-existing-project-s-memory-setting-for-eligible-unshared-projects-switc|chatgpt-2026-08-14-5bf7ce]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-08-14-v2-1-233-github-370762090-de6823a9|claude-code-2026-08-14-v2-1-233-github-370762090-de6823a9]]'
 source_type: github_releases
 theme: memory
-title: Added opt-in memory cgroup support for Bash tool commands on Linux (CLAUDE_CODE
+title: Added opt-in memory cgroup support for Bash tool commands on Linux…
 type: change
 ---
 
-# Added opt-in memory cgroup support for Bash tool commands on Linux (`CLAUDE_CODE
+# Added opt-in memory cgroup support for Bash tool commands on Linux…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.233: Added opt-in memory cgroup support for Bash tool commands on Linux (`CLAUDE_CODE_TOOL_MEMORY_LIMIT`) so a runaway build can't stall the session

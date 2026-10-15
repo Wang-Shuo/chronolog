@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: a311f21884fe94eb0bb07e1cba3659a34adb18a11a397d64cba52a8d872d16d7
+machine_hash: 513db0d3d685b12423afb0dd5be92b192442926274c907fa694f907e532e17ac
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: Improved the "@Add new doc" experience
     source_release: https://cursor.com/changelog/0-2-44
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor

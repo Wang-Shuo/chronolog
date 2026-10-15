@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-02-20'
-machine_hash: c270aa2c9f13a67903d3a0e775ca2ef7e0dfdb0bb56be0a57f6cbcf7501ef920
+machine_hash: 2adce98f7264b8dbefe5751adf96224782c22a3058808489469b2ab04ea481a7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,5 +40,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- context-window: [[Changes/ChatGPT/2026-02-20-chatgpt-now-has-a-total-context-window-length-of-256k-tokens-128k-input-and-128k|ChatGPT now has a total context window length of 256k tokens (128k input and 128]]
+- context-window: [[Changes/ChatGPT/2026-02-20-chatgpt-now-has-a-total-context-window-length-of-256k-tokens-128k-input-and-128k|ChatGPT now has a total context window length of 256k tokens…]]
 <!-- chronolog:end -->

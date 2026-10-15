@@ -11,9 +11,9 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 601da3bb71fd02f076f26bf2295a311f37eab79d825d8121d9e13704f3b125f4
+machine_hash: 4ed014f4c73ac8bd59d3af8930f3cbbee9352a9bbea79a3b45a6b392fa5d7e81
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: Added per-model and cache-hit breakdown to `/cost` for subscription users
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.92
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code

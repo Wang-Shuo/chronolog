@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3b7ccc43400aa7a814257ff9eede7282530a4319bf1c4b908f887c9ed6243b0a
+machine_hash: 88b4a18cdc50443cbbb24aac51d055e3104bb1b7810c29b82891fa03b49b920c
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
       ask it to “check deploy status every 5 minutes” or “work on this feature until
       tests pass.”
     source_release: https://cursor.com/changelog/shared-canvases
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -36,8 +36,7 @@ record:
   source_release: cursor-2026-05-20-3-5-https-cursor-com-changelog-shared-canvases-68b3b2da
   source_type: cursor_changelog
   theme: agent-mode
-  title: Use the /loop skill for local long-running agents. For example, you can ask
-    it t
+  title: Use the /loop skill for local long-running agents
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-19-added-claude-agents-json-to-list-live-claude-sessions-as-json-for-scripting-tmux|claude-code-2026-05-19-9159e4]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-05-20-3-5-https-cursor-com-changelog-shared-canvases-68b3b2da|cursor-2026-05-20-3-5-https-cursor-com-changelog-shared-canvases-68b3b2da]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: Use the /loop skill for local long-running agents. For example, you can ask
-  it t
+title: Use the /loop skill for local long-running agents
 type: change
 ---
 
-# Use the /loop skill for local long-running agents. For example, you can ask it t
+# Use the /loop skill for local long-running agents
 
 <!-- chronolog:begin region="description" -->
 Cursor — Shared Canvases and /loop Skill: Use the /loop skill for local long-running agents. For example, you can ask it to “check deploy status every 5 minutes” or “work on this feature until tests pass.”

@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 04143502d5fe2f18e44e10df102bf74e0460b23a569e8d63f93287ea65114f22
+machine_hash: 83263df3c8420344aa0909a57f40fe2109f256f5b8eac3056839b64bb4c247dd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       web, mobile, and desktop, so you can start on one surface and continue on another.
       Local conversations stay on your computer.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -37,8 +37,7 @@ record:
   source_release: chatgpt-2026-07-16-chatgpt-desktop-app-experience-updates-936a13ad
   source_type: chatgpt_changelog
   theme: mobile-desktop
-  title: 'Continue Work across devices: Cloud Work conversations now sync across web,
-    mobi'
+  title: Continue Work across devices
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-07-14-we-ve-rolled-out-a-new-way-to-search-your-chats-projects-images-and-documents-in-4d2327|chatgpt-2026-07-14-4d2327]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-16-chatgpt-desktop-app-experience-updates-936a13ad|chatgpt-2026-07-16-chatgpt-desktop-app-experience-updates-936a13ad]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: 'Continue Work across devices: Cloud Work conversations now sync across web,
-  mobi'
+title: Continue Work across devices
 type: change
 ---
 
-# Continue Work across devices: Cloud Work conversations now sync across web, mobi
+# Continue Work across devices
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT desktop app experience updates: Continue Work across devices: Cloud Work conversations now sync across web, mobile, and desktop, so you can start on one surface and continue on another. Local conversations stay on your computer.

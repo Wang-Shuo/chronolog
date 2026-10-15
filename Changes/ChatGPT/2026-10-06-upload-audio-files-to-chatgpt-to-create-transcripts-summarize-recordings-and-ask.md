@@ -11,9 +11,9 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 0ed175b4781dd990340dc770338f8baa7454532a46b260630928d14b7a33f1f8
+machine_hash: 2bf15cb0c44dfec51e3b4ac588dc90c11b4800cb4606055f56a206d7b36bdf29
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,7 +40,7 @@ record:
       contain errors, and performance may vary across languages.For more information,
       see: Uploading files and audio to ChatGPT.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -63,7 +63,7 @@ record:
     theme: voice
   theme_resolution: manual-semantic-rule-v1
   title: Upload audio files to ChatGPT to create transcripts, summarize recordings,
-    and a
+    and ask…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-09-23-free-and-go-users-can-use-voice-in-chat-with-the-plugins-their-plan-supports-voi|chatgpt-2026-09-23-053ff0]]'
@@ -73,11 +73,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-10-06-audio-uploads-in-chatgpt-
 source_type: chatgpt_changelog
 theme: voice
 title: Upload audio files to ChatGPT to create transcripts, summarize recordings,
-  and a
+  and ask…
 type: change
 ---
 
-# Upload audio files to ChatGPT to create transcripts, summarize recordings, and a
+# Upload audio files to ChatGPT to create transcripts, summarize recordings, and ask…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Audio uploads in ChatGPT: Upload audio files to ChatGPT to create transcripts, summarize recordings, and ask questions about their contents. You can turn a meeting, interview, or lecture into structured notes or a follow-up email draft. To get started, attach a supported audio file to a conversation and describe what you need.Audio uploads are available with paid ChatGPT subscriptions and workspaces. Availability may vary by workspace settings, region, client version, and model. Transcripts may contain errors, and performance may vary across languages.For more information, see: Uploading files and audio to ChatGPT.

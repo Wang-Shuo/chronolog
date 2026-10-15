@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: dc6514d7b5cf746b183449477630aef81feca028336b0fad6ae2a604fe275e92
+machine_hash: 505885109c85873f5c3a00826610f10e92d615499e0d130ee0196f747a1919e0
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Added `ExitWorktree` tool to leave an `EnterWorktree` session
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.72
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

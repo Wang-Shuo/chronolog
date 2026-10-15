@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: eaff91513b7dd12eadb44b15bf776776b5309b7332ab8fb183a39898fac831aa
+machine_hash: 0d6a19c84d6399ca32e7fcc6edb4b12609733fac18acf62df1278ddd8ad45a3b
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: But copilot can be slow and sometimes just not smart enough :(. So we're
       trying to solve this with a
     source_release: https://cursor.com/changelog/0-6-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,8 +37,7 @@ record:
   theme: editor-experience
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: But copilot can be slow and sometimes just not smart enough :(. So we're
-    trying
+  title: But copilot can be slow and sometimes just not smart enough :(
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-07-19-some-ui-ux-tweaks-to-cmd-k|cursor-2023-07-19-f27fbe]]'
@@ -47,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-07-28-0-6-0-https-cursor-com-changelog-0-6-0-ec91c991|cursor-2023-07-28-0-6-0-https-cursor-com-changelog-0-6-0-ec91c991]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: But copilot can be slow and sometimes just not smart enough :(. So we're trying
+title: But copilot can be slow and sometimes just not smart enough :(
 type: change
 ---
 
-# But copilot can be slow and sometimes just not smart enough :(. So we're trying
+# But copilot can be slow and sometimes just not smart enough :(
 
 <!-- chronolog:begin region="description" -->
 Cursor — A copilot experience powered by gpt-4: But copilot can be slow and sometimes just not smart enough :(. So we're trying to solve this with a

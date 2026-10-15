@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4e458eee6c7e42387add6852141383c48a6caecb570b36b013f11665be38fa6e
+machine_hash: 8a76ed0795c8966c64ed268026c8af93527fc5a00a8823591b06628cf1a55fa6
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: '`/plugin` Discover and Browse screens now show a plugin''s commands, agents,
       skills, hooks, and MCP/LSP servers before installation'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.145
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -53,7 +53,7 @@ record:
     score: 50
     theme: search-browsing
   title: '`/plugin` Discover and Browse screens now show a plugin''s commands, agents,
-    skil'
+    skills…'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-14-the-plugin-details-pane-and-claude-plugin-details-now-show-lsp-servers-a-plugin|claude-code-2026-05-14-4abb1d]]'
@@ -62,11 +62,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-19-v2-1-145-github-325388499-227a5ce4|claude-code-2026-05-19-v2-1-145-github-325388499-227a5ce4]]'
 source_type: github_releases
 theme: apps-integrations
-title: /plugin Discover and Browse screens now show a plugin's commands, agents, skil
+title: /plugin Discover and Browse screens now show a plugin's commands, agents, skills…
 type: change
 ---
 
-# `/plugin` Discover and Browse screens now show a plugin's commands, agents, skil
+# `/plugin` Discover and Browse screens now show a plugin's commands, agents, skills…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.145: `/plugin` Discover and Browse screens now show a plugin's commands, agents, skills, hooks, and MCP/LSP servers before installation

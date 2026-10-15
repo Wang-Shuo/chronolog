@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-05-01'
-machine_hash: 38c2cd6f0ceab90b1b86a8585b5b6cbe0ea328ede1b0f82d4212fa838e2dd05a
+machine_hash: dad8d4cd7950eeb5ad611eef3057c64709e20afb1bc63165c113fd10b792db57
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- voice: [[Changes/ChatGPT/2025-05-01-launched-on-april-1-as-a-one-month-surprise-our-monday-personality-available-in|Launched on April 1 as a one-month surprise, our “Monday” personality (available]]
+- voice: [[Changes/ChatGPT/2025-05-01-launched-on-april-1-as-a-one-month-surprise-our-monday-personality-available-in|Launched on April 1 as a one-month surprise, our “Monday” personality…]]
 <!-- chronolog:end -->

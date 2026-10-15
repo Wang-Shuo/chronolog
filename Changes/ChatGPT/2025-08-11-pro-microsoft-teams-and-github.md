@@ -11,9 +11,9 @@ diffusion:
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: fc73391f26254fcf158962ae27255a5e10cfb9b843dffe57a151dc2b3ceaa721
+machine_hash: 0ba6b76d03116b958f2543ac1ecf218248ce49e2562124b8919df5db3e2c52e1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: 'Pro: Microsoft Teams and GitHub'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -46,7 +46,7 @@ title: 'Pro: Microsoft Teams and GitHub'
 type: change
 ---
 
-# Pro: Microsoft Teams and Github
+# Pro: Microsoft Teams and GitHub
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Additional connectors for Plus and Pro: Pro: Microsoft Teams and GitHub

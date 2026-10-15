@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 7bce1f7b1c0d0113431adadbabb98f75eaa483ddc4e23cc7d96b1fc5bc7b1e32
+machine_hash: d07e66bd9ad2236862a0c1b9cebd52a2548d0339eb586b9b2dd5c6091a24d787
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,7 +42,7 @@ record:
       actions - ChatGPT will switch over once you’ve done the reconnection.For Pro
       users, Google Drive sync behavior is unchanged. Read more.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -50,7 +50,7 @@ record:
   source_release: chatgpt-2026-03-25-google-drive-app-unification-4e5cfa13
   source_type: chatgpt_changelog
   theme: apps-integrations
-  title: Google’s file connectors in ChatGPT are now unified under Google Drive, providin
+  title: Google’s file connectors in ChatGPT are now unified under Google Drive, providing…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-19-added-channels-research-preview-allow-mcp-servers-to-push-messages-into-your-ses|claude-code-2026-03-19-324d53]]'
@@ -59,11 +59,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-25-google-drive-app-unification-4e5cfa13|chatgpt-2026-03-25-google-drive-app-unification-4e5cfa13]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
-title: Google’s file connectors in ChatGPT are now unified under Google Drive, providin
+title: Google’s file connectors in ChatGPT are now unified under Google Drive, providing…
 type: change
 ---
 
-# Google’s file connectors in ChatGPT are now unified under Google Drive, providin
+# Google’s file connectors in ChatGPT are now unified under Google Drive, providing…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Google Drive app unification: Google’s file connectors in ChatGPT are now unified under Google Drive, providing a single app experience for interacting with your Google Docs, Sheets and Slides on Google Drive.If you’re a new user, you can connect to the Google Drive app in ChatGPT to use Google Drive, Docs, Sheets, and Slides actions, removing the need to install and authenticate separate Google file apps. If you’ve already connected to the separate apps in the past, they will continue to work as normal. You can also reconnect the Google Drive app to get the new actions - ChatGPT will switch over once you’ve done the reconnection.For Pro users, Google Drive sync behavior is unchanged. Read more.

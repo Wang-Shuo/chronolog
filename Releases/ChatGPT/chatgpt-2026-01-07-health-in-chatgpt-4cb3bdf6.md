@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2026-01-07'
-machine_hash: fef4d7052664c62b6b7bea821621a905f96f3c157f99237cdf3add5785e42757
+machine_hash: 403e1fb93ee68d8bf4dc6068f0c8caa2598cea70f89f32d53da8dc5388327022
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,6 +41,6 @@ Tracked cards: 2
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- mobile-desktop: [[Changes/ChatGPT/2026-01-07-health-appears-as-a-new-space-in-the-chatgpt-sidebar-if-you-ask-a-health-related|Health appears as a new space in the ChatGPT sidebar. If you ask a health-relate]]
-- memory: [[Changes/ChatGPT/2026-01-07-we-re-starting-to-roll-out-health-a-dedicated-space-in-chatgpt-for-health-and-we|We’re starting to roll out Health, a dedicated space in ChatGPT for health and w]]
+- mobile-desktop: [[Changes/ChatGPT/2026-01-07-health-appears-as-a-new-space-in-the-chatgpt-sidebar-if-you-ask-a-health-related|Health appears as a new space in the ChatGPT sidebar]]
+- memory: [[Changes/ChatGPT/2026-01-07-we-re-starting-to-roll-out-health-a-dedicated-space-in-chatgpt-for-health-and-we|We’re starting to roll out Health, a dedicated space in ChatGPT for health…]]
 <!-- chronolog:end -->

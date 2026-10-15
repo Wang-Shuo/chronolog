@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 78ae8ec26aa01467248b7e27c07bcae8a15a875e755ec3d6b7b7e8bb3186a478
+machine_hash: 66de4c752ec46ab71173017d57283523f457f75c329903ec7ce0fdcb0a367b6d
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Cmd-K can again see all of your cells in Jupyter!
     source_release: https://cursor.com/changelog/0-3-1
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

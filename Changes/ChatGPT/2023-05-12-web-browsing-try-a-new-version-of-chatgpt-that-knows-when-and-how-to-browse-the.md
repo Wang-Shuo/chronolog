@@ -11,9 +11,9 @@ diffusion:
   theme: search-browsing
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: ac69abfb111e98b51aedd4e56a2197e3a05bdea1bead1b82d4908f8ce1d24c2a
+machine_hash: 99c6e92e652d16f6d10d7eac56f34febb2a85d8663751270d240ee8b3a840735
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
   - quote: 'Web browsing: Try a new version of ChatGPT that knows when and how to
       browse the internet to answer questions about recent topics and events.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -37,20 +37,18 @@ record:
   source_release: chatgpt-2023-05-12-web-browsing-and-plugins-are-now-rolling-out-in-beta-5dbe86e7
   source_type: chatgpt_changelog
   theme: search-browsing
-  title: 'Web browsing: Try a new version of ChatGPT that knows when and how to browse
-    the'
+  title: 'Web browsing: Try a new version of ChatGPT that knows when and how to browse…'
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|chatgpt-2023-03-23-c03c55]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-05-12-web-browsing-and-plugins-are-now-rolling-out-in-beta-5dbe86e7|chatgpt-2023-05-12-web-browsing-and-plugins-are-now-rolling-out-in-beta-5dbe86e7]]'
 source_type: chatgpt_changelog
 theme: search-browsing
-title: 'Web browsing: Try a new version of ChatGPT that knows when and how to browse
-  the'
+title: 'Web browsing: Try a new version of ChatGPT that knows when and how to browse…'
 type: change
 ---
 
-# Web browsing: Try a new version of ChatGPT that knows when and how to browse the
+# Web browsing: Try a new version of ChatGPT that knows when and how to browse…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Web browsing and Plugins are now rolling out in beta: Web browsing: Try a new version of ChatGPT that knows when and how to browse the internet to answer questions about recent topics and events.

@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8c71818aa7dabbaadefd2958d7538312cf8cde36119dadc2c36e80314a9d7d8e
+machine_hash: 4251a4d0af7459fa3269e0d08fea13084523e0ee6484a88c3864b85be765aa9a
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       `python` and `pip` commands use the correct interpreter (configurable via `claudeCode.usePythonEnvironment`
       setting)'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.21
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -39,7 +39,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: '[VSCode] Added automatic Python virtual environment activation, ensuring
-    `python'
+    `python`…'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-23-changed-indexed-argument-syntax-from-arguments-0-to-arguments-0-bracket-syntax|claude-code-2026-01-23-48861a]]'
@@ -48,11 +48,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-01-28-v2-1-21-github-280523920-bba74245|claude-code-2026-01-28-v2-1-21-github-280523920-bba74245]]'
 source_type: github_releases
 theme: developer-workflow
-title: VSCode Added automatic Python virtual environment activation, ensuring python
+title: VSCode Added automatic Python virtual environment activation, ensuring python…
 type: change
 ---
 
-# [VSCode] Added automatic Python virtual environment activation, ensuring `python
+# [VSCode] Added automatic Python virtual environment activation, ensuring `python`…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.21: [VSCode] Added automatic Python virtual environment activation, ensuring `python` and `pip` commands use the correct interpreter (configurable via `claudeCode.usePythonEnvironment` setting)

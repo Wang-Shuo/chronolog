@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f54f16e5deebe542369d822caaed56521bf18237b150f48d39211b32fb93c284
+machine_hash: 66252c828b104d9e4376737f43040b55b98344dece9ba51cef56ed52ed884269
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Fixed per-user temp directory isolation to prevent permission conflicts
       on shared systems
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.23
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: Fixed per-user temp directory isolation to prevent permission conflicts on
-    share
+    shared systems
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-09-added-detection-and-warnings-for-unreachable-permission-rules-with-warnings-in-d|claude-code-2026-01-09-b5be29]]'
@@ -47,11 +47,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-01-29-v2-1-23-github-28
 source_type: github_releases
 theme: safety-privacy
 title: Fixed per-user temp directory isolation to prevent permission conflicts on
-  share
+  shared systems
 type: change
 ---
 
-# Fixed per-user temp directory isolation to prevent permission conflicts on share
+# Fixed per-user temp directory isolation to prevent permission conflicts on shared systems
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.23: Fixed per-user temp directory isolation to prevent permission conflicts on shared systems

@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2026-09-29'
-machine_hash: fd32bc73192b4e3cf45404ad7509b3ab90033858400df0035f8cb09587312d69
+machine_hash: 97545b2919b16c0b6130a6d8cc35223628ee79fe7e1bc9d5ccb2e2b4432c89f0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,6 +42,6 @@ Tracked cards: 2
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- apps-integrations: [[Changes/ChatGPT/2026-09-29-we-re-making-it-easier-to-bring-meeting-context-into-chatgpt-so-you-can-act-on-n|We’re making it easier to bring meeting context into ChatGPT so you can act on n]]
-- mobile-desktop: [[Changes/ChatGPT/2026-09-29-audio-is-deleted-once-your-notes-are-ready-and-can-t-be-accessed-or-replayed-ava|Audio is deleted once your notes are ready and can’t be accessed or replayed. Av]]
+- apps-integrations: [[Changes/ChatGPT/2026-09-29-we-re-making-it-easier-to-bring-meeting-context-into-chatgpt-so-you-can-act-on-n|We’re making it easier to bring meeting context into ChatGPT so you can act on next…]]
+- mobile-desktop: [[Changes/ChatGPT/2026-09-29-audio-is-deleted-once-your-notes-are-ready-and-can-t-be-accessed-or-replayed-ava|Audio is deleted once your notes are ready and can’t be accessed or replayed]]
 <!-- chronolog:end -->

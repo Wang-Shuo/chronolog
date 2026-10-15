@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2026-09-10'
-machine_hash: dab61b8253b5b75b6a0dd416bcc188b32b8fb44a113a55275982257c94d9bd99
+machine_hash: f7404067778213eef9597ba08ec4825495067992a2193ff5768fc2c4a53d3223
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,6 +41,6 @@ Tracked cards: 2
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- enterprise-admin: [[Changes/ChatGPT/2026-09-10-box-dropbox-and-sharepoint-integrations-are-now-rolling-out-to-go-plus-pro-busin|Box, Dropbox, and SharePoint integrations are now rolling out to Go, Plus, Pro,]]
-- search-browsing: [[Changes/ChatGPT/2026-09-10-box-dropbox-and-sharepoint-now-join-google-drive-in-chatgpt-library-once-connect|Box, Dropbox, and SharePoint now join Google Drive in ChatGPT Library. Once conn]]
+- enterprise-admin: [[Changes/ChatGPT/2026-09-10-box-dropbox-and-sharepoint-integrations-are-now-rolling-out-to-go-plus-pro-busin|Box, Dropbox, and SharePoint integrations are now rolling out to Go, Plus, Pro…]]
+- search-browsing: [[Changes/ChatGPT/2026-09-10-box-dropbox-and-sharepoint-now-join-google-drive-in-chatgpt-library-once-connect|Box, Dropbox, and SharePoint now join Google Drive in ChatGPT Library]]
 <!-- chronolog:end -->

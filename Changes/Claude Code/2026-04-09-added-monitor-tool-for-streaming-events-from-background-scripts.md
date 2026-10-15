@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7e7416ae55b5b6509a74cfff5c83e64e4ac757a5f34eb9cb00d33217ad106f58
+machine_hash: 9031cd63738ec272646c03bfb7cd5cad82d2ed74fbc88023de4e4258673eb723
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Added Monitor tool for streaming events from background scripts
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.98
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

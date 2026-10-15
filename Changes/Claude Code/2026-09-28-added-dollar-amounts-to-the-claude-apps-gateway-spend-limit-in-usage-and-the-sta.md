@@ -11,9 +11,9 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 64c074c74e3715223bbe0c155ff79674632ba0241b85cb62250a92e9d726b500
+machine_hash: 18fa66ea97efa0810a7fe8b17df10be3631d3ccbee588fd689258466c74c719d
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       the gateway runs this version or later; the status line's `rate_limits.spend_limit`
       also gains `used_usd`, `limit_usd` and `period`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.284
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -48,8 +48,7 @@ record:
     score: 50
     theme: apps-integrations
   theme_resolution: manual-semantic-rule-v2
-  title: Added dollar amounts to the Claude apps gateway spend limit in `/usage` and
-    the
+  title: Added dollar amounts to the Claude apps gateway spend limit in `/usage`…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-09-09-pro-100-month-up-to-15-hours-with-gpt-live-1|chatgpt-2026-09-09-3e50fc]]'
@@ -58,11 +57,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49|claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49]]'
 source_type: github_releases
 theme: pricing-model
-title: Added dollar amounts to the Claude apps gateway spend limit in /usage and the
+title: Added dollar amounts to the Claude apps gateway spend limit in /usage…
 type: change
 ---
 
-# Added dollar amounts to the Claude apps gateway spend limit in `/usage` and the
+# Added dollar amounts to the Claude apps gateway spend limit in `/usage`…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.284: Added dollar amounts to the Claude apps gateway spend limit in `/usage` and the status line (for example "$271.40 / $500.00 spent this month") when the gateway runs this version or later; the status line's `rate_limits.spend_limit` also gains `used_usd`, `limit_usd` and `period`

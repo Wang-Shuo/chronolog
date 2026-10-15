@@ -1,7 +1,7 @@
 ---
 changes_count: 4
 date: '2025-06-10'
-machine_hash: 82a1a6420bf31b7f3c4ff3ca910d35dd099e3282c49695a2f59ce7264df24e7a
+machine_hash: 7e5eb4a5f42c19eef0e8da15cb2cf2ed4fcdc38bcf258c77e41ee9a6876b511f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,8 +47,8 @@ Tracked cards: 4
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2025-06-10-academic-evaluations-show-that-o3-pro-consistently-outperforms-both-o1-pro-and-o|Academic evaluations show that o3-pro consistently outperforms both o1-pro and o]]
-- model-support: [[Changes/ChatGPT/2025-06-10-to-assess-the-key-strength-of-o3-pro-we-once-again-use-our-rigorous-4-4-reliabil|To assess the key strength of o3-pro, we once again use our rigorous "4/4 reliab]]
-- model-support: [[Changes/ChatGPT/2025-06-10-o3-pro-is-available-in-the-model-picker-for-pro-and-team-users-starting-today-re-ca01e0|o3-pro is available in the model picker for Pro and Team users starting today, r]]
-- model-support: [[Changes/ChatGPT/2025-06-10-like-o1-pro-o3-pro-is-a-version-of-our-most-intelligent-model-o3-designed-to-thi-f1f72c|Like o1-pro, o3-pro is a version of our most intelligent model, o3, designed to]]
+- model-support: [[Changes/ChatGPT/2025-06-10-academic-evaluations-show-that-o3-pro-consistently-outperforms-both-o1-pro-and-o|Academic evaluations show that o3-pro consistently outperforms both o1-pro and o3]]
+- model-support: [[Changes/ChatGPT/2025-06-10-to-assess-the-key-strength-of-o3-pro-we-once-again-use-our-rigorous-4-4-reliabil|To assess the key strength of o3-pro, we once again use our rigorous…]]
+- model-support: [[Changes/ChatGPT/2025-06-10-o3-pro-is-available-in-the-model-picker-for-pro-and-team-users-starting-today-re-ca01e0|o3-pro is available in the model picker for Pro and Team users starting today…]]
+- model-support: [[Changes/ChatGPT/2025-06-10-like-o1-pro-o3-pro-is-a-version-of-our-most-intelligent-model-o3-designed-to-thi-f1f72c|Like o1-pro, o3-pro is a version of our most intelligent model, o3, designed…]]
 <!-- chronolog:end -->

@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5ef9f5bddc06ed0318c6b340e38ae84e0a8dab3611dd625b5258998413803ffc
+machine_hash: 4267ec72caf14d3eb06e2dea8856477f92460cea283fc105e4ffffd38d234041
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Enable and disable MCP servers on the fly with /mcp enable and /mcp disable
       commands.
     source_release: https://cursor.com/changelog/cli-jan-08-2026
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,7 +35,7 @@ record:
   source_type: cursor_changelog
   theme: apps-integrations
   title: Enable and disable MCP servers on the fly with /mcp enable and /mcp disable
-    comm
+    commands
   type: change
 related_changes:
 - '[[Changes/Claude Code/2025-12-19-added-search-filtering-to-the-plugin-discover-screen-type-to-filter-by-name-desc|claude-code-2025-12-19-f245b1]]'
@@ -45,11 +45,11 @@ source_release: '[[Releases/Cursor/cursor-2026-01-08-new-cli-features-and-improv
 source_type: cursor_changelog
 theme: apps-integrations
 title: Enable and disable MCP servers on the fly with /mcp enable and /mcp disable
-  comm
+  commands
 type: change
 ---
 
-# Enable and disable MCP servers on the fly with /mcp enable and /mcp disable comm
+# Enable and disable MCP servers on the fly with /mcp enable and /mcp disable commands
 
 <!-- chronolog:begin region="description" -->
 Cursor — New CLI Features and Improved CLI Performance: Enable and disable MCP servers on the fly with /mcp enable and /mcp disable commands.

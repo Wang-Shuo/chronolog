@@ -11,9 +11,9 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5e2026f3456db56feaa428c233da94c4d6f4454ac5bfa435d4289200bb7943a1
+machine_hash: 66ef14d169189ea62d55fc24e3cb4eb7d317e50fef1ca9d17a5a04704e8964f4
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Improved performance by caching authentication failures for HTTP and SSE
       MCP servers, avoiding repeated connection attempts to servers requiring auth
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.49
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -50,7 +50,7 @@ record:
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v1
   title: Improved performance by caching authentication failures for HTTP and SSE
-    MCP ser
+    MCP…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-22-vscode-added-ability-for-oauth-users-to-browse-and-resume-remote-claude-sessions|claude-code-2026-01-22-5b6a2e]]'
@@ -59,12 +59,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-02-19-v2-1-49-github-288498923-7c27a140|claude-code-2026-02-19-v2-1-49-github-288498923-7c27a140]]'
 source_type: github_releases
 theme: account-access
-title: Improved performance by caching authentication failures for HTTP and SSE MCP
-  ser
+title: Improved performance by caching authentication failures for HTTP and SSE MCP…
 type: change
 ---
 
-# Improved performance by caching authentication failures for HTTP and SSE MCP ser
+# Improved performance by caching authentication failures for HTTP and SSE MCP…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.49: Improved performance by caching authentication failures for HTTP and SSE MCP servers, avoiding repeated connection attempts to servers requiring auth

@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2026-02-17'
-machine_hash: c3909741d760aa1e0d2bdf78227160907d8a5d798c430e13445e667e4ae82c23
+machine_hash: 96a102d981a0b8b8f863c737e9efd7a36569102a23baa42d9d5ef1b8f4d92cfc
 product: cursor
 product_name: Cursor
 record:
@@ -40,9 +40,9 @@ Tracked cards: 5
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- apps-integrations: [[Changes/Cursor/2026-02-17-plugins-package-skills-subagents-mcp-servers-hooks-and-rules-into-a-single-insta|Plugins package skills, subagents, MCP servers, hooks, and rules, into a single]]
-- apps-integrations: [[Changes/Cursor/2026-02-17-browse-plugins-at-cursor-com-marketplace-or-install-directly-in-the-editor-with|Browse plugins at cursor.com/marketplace or install directly in the editor with]]
-- apps-integrations: [[Changes/Cursor/2026-02-17-our-initial-partners-include-amplitude-aws-figma-linear-stripe-and-more-these-pl|Our initial partners include Amplitude, AWS, Figma, Linear, Stripe, and more. Th]]
-- agent-mode: [[Changes/Cursor/2026-02-17-this-release-introduces-plugins-for-extending-cursor-improvements-to-core-agent|This release introduces plugins for extending Cursor, improvements to core agent]]
-- safety-privacy: [[Changes/Cursor/2026-02-17-the-sandbox-now-supports-granular-network-access-controls-as-well-as-controls-fo|The sandbox now supports granular network access controls, as well as controls f]]
+- apps-integrations: [[Changes/Cursor/2026-02-17-plugins-package-skills-subagents-mcp-servers-hooks-and-rules-into-a-single-insta|Plugins package skills, subagents, MCP servers, hooks, and rules, into a single install]]
+- apps-integrations: [[Changes/Cursor/2026-02-17-browse-plugins-at-cursor-com-marketplace-or-install-directly-in-the-editor-with|Browse plugins at cursor.com/marketplace or install directly in the editor…]]
+- apps-integrations: [[Changes/Cursor/2026-02-17-our-initial-partners-include-amplitude-aws-figma-linear-stripe-and-more-these-pl|Our initial partners include Amplitude, AWS, Figma, Linear, Stripe, and more]]
+- agent-mode: [[Changes/Cursor/2026-02-17-this-release-introduces-plugins-for-extending-cursor-improvements-to-core-agent|Cursor introduces plugins for extending Cursor, improvements to core agent…]]
+- safety-privacy: [[Changes/Cursor/2026-02-17-the-sandbox-now-supports-granular-network-access-controls-as-well-as-controls-fo|The sandbox now supports granular network access controls, as well as controls…]]
 <!-- chronolog:end -->

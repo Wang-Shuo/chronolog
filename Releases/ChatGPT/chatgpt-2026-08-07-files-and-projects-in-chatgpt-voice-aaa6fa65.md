@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-08-07'
-machine_hash: bfa395cf176e8490930cf305b14a5b5949d9660cb7aebcf71f2567b9096bf36c
+machine_hash: 2a52940bb7f43bda82ed09f6a9cc02cfb06625a81b63ceb3da95888dcdbf4f25
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- voice: [[Changes/ChatGPT/2026-08-07-gpt-live-in-chatgpt-voice-now-supports-file-uploads-and-projects-you-can-now-upl|GPT-Live in ChatGPT Voice now supports file uploads and Projects. You can now up]]
+- voice: [[Changes/ChatGPT/2026-08-07-gpt-live-in-chatgpt-voice-now-supports-file-uploads-and-projects-you-can-now-upl|GPT-Live in ChatGPT Voice now supports file uploads and Projects]]
 <!-- chronolog:end -->

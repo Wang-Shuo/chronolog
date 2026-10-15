@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d510d8fccdc3ab716929d5a8eaaeec25087febd41d33bcd691dbfe43f3b15314
+machine_hash: ac5abc695edd3198e65f0d03814cc4a86d18aae367dd6bf68ba8599a688e7007
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: For "with codebase" chats, you can now see the codebase context that Cursor
       shows GPT-4. We hope this will make it easier to prompt codebase answers.
     source_release: https://cursor.com/changelog/0-9-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -46,7 +46,7 @@ record:
     theme: context-window
   theme_resolution: manual-semantic-rule-v2
   title: For "with codebase" chats, you can now see the codebase context that Cursor
-    show
+    shows GPT-4
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-08-22-follow-up-chat-messages-to-with-codebase-will-keep-the-codebase-context|cursor-2023-08-22-8a6a3a]]'
@@ -56,11 +56,11 @@ source_release: '[[Releases/Cursor/cursor-2023-08-30-0-9-0-https-cursor-com-chan
 source_type: cursor_changelog
 theme: context-window
 title: For "with codebase" chats, you can now see the codebase context that Cursor
-  show
+  shows GPT-4
 type: change
 ---
 
-# For "with codebase" chats, you can now see the codebase context that Cursor show
+# For "with codebase" chats, you can now see the codebase context that Cursor shows GPT-4
 
 <!-- chronolog:begin region="description" -->
 Cursor — Auditable codebase context, VS Code left bar: For "with codebase" chats, you can now see the codebase context that Cursor shows GPT-4. We hope this will make it easier to prompt codebase answers.

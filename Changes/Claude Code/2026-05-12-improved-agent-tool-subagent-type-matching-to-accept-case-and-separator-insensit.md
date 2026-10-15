@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: d7c39ba2575e287d942446012ba88d99e84fe8566dc52b970c4d280e1197c431
+machine_hash: 40d56df2f91413523300f784f583cf510cd9c036c7fbb428155f822cd366e7b1
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,7 +29,7 @@ record:
   - quote: Improved Agent tool `subagent_type` matching to accept case- and separator-insensitive
       values (e.g. `"Code Reviewer"` resolves to `code-reviewer`)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.140
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   source_release: claude-code-2026-05-12-v2-1-140-github-321395205-971146de
   source_type: github_releases
   theme: agent-mode
-  title: Improved Agent tool `subagent_type` matching to accept case- and separator-insen
+  title: Improved Agent tool `subagent_type` matching to accept case…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-04-24-we-ve-added-new-and-improved-worktrees-in-the-agents-window|cursor-2026-04-24-fa21dd]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-12-v2-1-140-github-321395205-971146de|claude-code-2026-05-12-v2-1-140-github-321395205-971146de]]'
 source_type: github_releases
 theme: agent-mode
-title: Improved Agent tool subagent_type matching to accept case- and separator-insen
+title: Improved Agent tool subagent_type matching to accept case…
 type: change
 ---
 
-# Improved Agent tool `subagent_type` matching to accept case- and separator-insen
+# Improved Agent tool `subagent_type` matching to accept case…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.140: Improved Agent tool `subagent_type` matching to accept case- and separator-insensitive values (e.g. `"Code Reviewer"` resolves to `code-reviewer`)

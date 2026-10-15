@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 80228aed4e29eca155ada60271ce64eb3ca44438f9e084ef8f3e2b9695a91bdf
+machine_hash: 977d5f91f92d3d38f11db705a8f653447367a818df380cf1d8374a6afa548cb0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       profile picture if you have one. Signing in does not share your ChatGPT conversations
       or memory; you approve any additional access separately.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -48,8 +48,7 @@ record:
     - sign in
     score: 60
     theme: account-access
-  title: You can use your ChatGPT account to sign in to participating products without
-    cr
+  title: You can use your ChatGPT account to sign in to participating products without…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-08-27-personalized-when-you-create-a-temporary-chat-you-can-choose-to-have-personalize|chatgpt-2026-08-27-a1c81f]]'
@@ -58,12 +57,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-sign-in-to-other-products-with-chatgpt-3054f3c5|chatgpt-2026-09-29-sign-in-to-other-products-with-chatgpt-3054f3c5]]'
 source_type: chatgpt_changelog
 theme: memory
-title: You can use your ChatGPT account to sign in to participating products without
-  cr
+title: You can use your ChatGPT account to sign in to participating products without…
 type: change
 ---
 
-# You can use your ChatGPT account to sign in to participating products without cr
+# You can use your ChatGPT account to sign in to participating products without…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Sign in to other products with ChatGPT: You can use your ChatGPT account to sign in to participating products without creating another password. The product receives your name, email address, and profile picture if you have one. Signing in does not share your ChatGPT conversations or memory; you approve any additional access separately.

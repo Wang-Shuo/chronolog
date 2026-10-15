@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: b1ae5a6aadb96793b6a71908d5e1f5a71a3873d76dcbf579800fc4056342cebf
+machine_hash: 7b001cfb6b6be674a4a9bdecb1e07c6d585aecd7b179cf8d2b91b66bd6b98264
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,7 +29,7 @@ record:
   - quote: 'Added prompt caching to `$.model.complete` for mods: `prompt` and `system`
       take blocks of text, and `cache: true` on a block caches the request up to it'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.292
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -37,8 +37,7 @@ record:
   source_release: claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab
   source_type: github_releases
   theme: model-support
-  title: 'Added prompt caching to `$.model.complete` for mods: `prompt` and `system`
-    take'
+  title: Added prompt caching to `$.model.complete` for mods
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-09-29-for-availability-and-model-selection-see-chatgpt-work-and-codex|chatgpt-2026-09-29-2885e9]]'
@@ -47,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab|claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab]]'
 source_type: github_releases
 theme: model-support
-title: 'Added prompt caching to $.model.complete for mods: prompt and system take'
+title: Added prompt caching to $.model.complete for mods
 type: change
 ---
 
-# Added prompt caching to `$.model.complete` for mods: `prompt` and `system` take
+# Added prompt caching to `$.model.complete` for mods
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.292: Added prompt caching to `$.model.complete` for mods: `prompt` and `system` take blocks of text, and `cache: true` on a block caches the request up to it

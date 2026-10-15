@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 3587fd926260dccfe5779069be7b6efb923e71aaeae0f2f1991a6f8b31c8c183
+machine_hash: 0ec28a4476e5dbf98e1daf8f57cb495ea6c4470ae160c53e06dc0dbc22a89105
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
   - quote: Your codebase, build outputs, and secrets all stay on internal machines
       running in your infrastructure, while the agent handles tool calls locally.
     source_release: https://cursor.com/changelog/03-25-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -37,7 +37,7 @@ record:
   source_release: cursor-2026-03-25-self-hosted-cloud-agents-https-cursor-com-changelog-03-25-26-423e399c
   source_type: cursor_changelog
   theme: agent-mode
-  title: Your codebase, build outputs, and secrets all stay on internal machines running
+  title: Your codebase, build outputs, and secrets all stay on internal machines running…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-03-04-with-cursor-acp-developers-who-rely-on-jetbrains-for-java-and-multilanguage-supp|cursor-2026-03-04-8743fd]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-03-25-self-hosted-cloud-agents-https-cursor-com-changelog-03-25-26-423e399c|cursor-2026-03-25-self-hosted-cloud-agents-https-cursor-com-changelog-03-25-26-423e399c]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: Your codebase, build outputs, and secrets all stay on internal machines running
+title: Your codebase, build outputs, and secrets all stay on internal machines running…
 type: change
 ---
 
-# Your codebase, build outputs, and secrets all stay on internal machines running
+# Your codebase, build outputs, and secrets all stay on internal machines running…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Self-hosted Cloud Agents: Your codebase, build outputs, and secrets all stay on internal machines running in your infrastructure, while the agent handles tool calls locally.

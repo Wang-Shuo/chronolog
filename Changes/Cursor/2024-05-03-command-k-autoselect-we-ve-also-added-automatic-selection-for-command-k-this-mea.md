@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 05c3b940e84de929060715b4a91901233fb0f70d2c6ca8c899e9cc3f1fd9dc7b
+machine_hash: 04f2a584d4b902604d2a763a87bcd6bd8df954b51a2fc1af73d293b17369b9ba
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
       This means you can now press Command-K, and it will automatically select the
       region you''re working on, though you can still select manually if you prefer.'
     source_release: https://cursor.com/changelog/0-33-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -39,8 +39,7 @@ record:
   theme: interface-experience
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: 'Command-K Autoselect: We''ve also added automatic selection for Command-K!
-    This m'
+  title: 'Command-K Autoselect: We''ve also added automatic selection for Command-K!'
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-03-20-new-settings-we-moved-all-our-settings-to-be-accessible-by-the-gear-in-the-top-r|cursor-2024-03-20-8c6212]]'
@@ -49,12 +48,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-05-03-0-33-x-https-cursor-com-changelog-0-33-x-f8df9c65|cursor-2024-05-03-0-33-x-https-cursor-com-changelog-0-33-x-f8df9c65]]'
 source_type: cursor_changelog
 theme: interface-experience
-title: 'Command-K Autoselect: We''ve also added automatic selection for Command-K!
-  This m'
+title: 'Command-K Autoselect: We''ve also added automatic selection for Command-K!'
 type: change
 ---
 
-# Command-K Autoselect: We've also added automatic selection for Command-K! This m
+# Command-K Autoselect: We've also added automatic selection for Command-K!
 
 <!-- chronolog:begin region="description" -->
 Cursor — Networking Stability, Command-K Autoselect: Command-K Autoselect: We've also added automatic selection for Command-K! This means you can now press Command-K, and it will automatically select the region you're working on, though you can still select manually if you prefer.

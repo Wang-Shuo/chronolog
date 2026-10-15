@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7979fba46ecd5e1ea1f6767a7dd7c80ace38dc67b7f82610bcccff59a06b689a
+machine_hash: c3bd47454f532651d62502807cf00b8dd6102811b07fb79613a19ef4fec97145
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       and tasks; a filter now shows matches in collapsed sections and Enter opens
       the first match
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.287
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   source_type: github_releases
   theme: agent-mode
   title: Added an `n:<text>` filter to the agents view that matches session names
-    and tas
+    and tasks
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-09-29-we-re-introducing-dots-always-on-agents-in-chatgpt-that-can-take-on-ongoing-work|chatgpt-2026-09-29-90a0e4]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87|claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87]]'
 source_type: github_releases
 theme: agent-mode
-title: Added an n:text filter to the agents view that matches session names and tas
+title: Added an n:text filter to the agents view that matches session names and tasks
 type: change
 ---
 
-# Added an `n:<text>` filter to the agents view that matches session names and tas
+# Added an `n:<text>` filter to the agents view that matches session names and tasks
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.287: Added an `n:<text>` filter to the agents view that matches session names and tasks; a filter now shows matches in collapsed sections and Enter opens the first match

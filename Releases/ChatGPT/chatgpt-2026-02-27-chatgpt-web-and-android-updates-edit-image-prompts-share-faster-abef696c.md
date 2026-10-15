@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2026-02-27'
-machine_hash: 2b2ae39bd990dafafe9c2211190ce16c2e1a30e4361588480d39cf79251d037a
+machine_hash: b73cb242bf4dbedfc3f7225d435412b22604511a420827157f006772d69e3452
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,9 +43,9 @@ Tracked cards: 5
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- interface-experience: [[Changes/ChatGPT/2026-02-27-automatic-scroll-to-latest-message-existing-conversations-now-automatically-scro|Automatic scroll to latest message. Existing conversations now automatically scr]]
-- search-browsing: [[Changes/ChatGPT/2026-02-27-open-search-results-in-a-new-tab-cmd-click-in-the-search-panel-now-opens-results|Open search results in a new tab. Cmd+click in the search panel now opens result]]
-- reliability-performance: [[Changes/ChatGPT/2026-02-27-faster-sharing-sharing-chats-is-now-easier-and-faster-with-a-quicker-loading-sha|Faster sharing. Sharing chats is now easier and faster, with a quicker-loading s]]
-- file-data: [[Changes/ChatGPT/2026-02-27-export-visuals-from-code-blocks-flowcharts-diagrams-and-data-visualizations-crea|Export visuals from Code Blocks. Flowcharts, diagrams, and data visualizations c]]
-- editor-experience: [[Changes/ChatGPT/2026-02-27-edit-messages-with-images-you-can-now-edit-messages-that-include-image-attachmen|Edit messages with images. You can now edit messages that include image attachme]]
+- interface-experience: [[Changes/ChatGPT/2026-02-27-automatic-scroll-to-latest-message-existing-conversations-now-automatically-scro|Automatic scroll to latest message]]
+- search-browsing: [[Changes/ChatGPT/2026-02-27-open-search-results-in-a-new-tab-cmd-click-in-the-search-panel-now-opens-results|Open search results in a new tab]]
+- reliability-performance: [[Changes/ChatGPT/2026-02-27-faster-sharing-sharing-chats-is-now-easier-and-faster-with-a-quicker-loading-sha|Faster sharing. Sharing chats is now easier and faster, with a quicker-loading share menu]]
+- file-data: [[Changes/ChatGPT/2026-02-27-export-visuals-from-code-blocks-flowcharts-diagrams-and-data-visualizations-crea|Export visuals from Code Blocks]]
+- editor-experience: [[Changes/ChatGPT/2026-02-27-edit-messages-with-images-you-can-now-edit-messages-that-include-image-attachmen|Edit messages with images]]
 <!-- chronolog:end -->

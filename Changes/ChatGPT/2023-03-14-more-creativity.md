@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e5d5cdb7a7e86a6668849cc9aff0daa3f1d1d93ca51402266f5994fb9893700b
+machine_hash: ad36bf03bf359b7f24f0db057691f09d9d3ab1c4219610ae33b5b1e0f5649492
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,7 +24,7 @@ record:
   evidence:
   - quote: More creativity
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT

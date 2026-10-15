@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 609479402595db395163c459f623419b2adf815ce174528c7aac5d580d8ee431
+machine_hash: 84f650cd15f276d6e58cb0c82300a63fdab7b21f8322e80dfe6143a2462ef731
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       VS Code, and JetBrains; `--permission-mode manual` and `"defaultMode": "manual"`
       are accepted alongside `default`'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.200
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -39,7 +39,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: Changed the "default" permission mode to "Manual" across the CLI, `--help`,
-    VS C
+    VS Code…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-24-improved-sandbox-network-permission-dialog-hosts-you-allow-with-yes-are-now-reme|claude-code-2026-06-24-b762ff]]'
@@ -49,11 +49,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-07-03-v2-1-200-github-3
 source_type: github_releases
 theme: safety-privacy
 title: Changed the "default" permission mode to "Manual" across the CLI, --help, VS
-  C
+  Code…
 type: change
 ---
 
-# Changed the "default" permission mode to "Manual" across the CLI, `--help`, VS C
+# Changed the "default" permission mode to "Manual" across the CLI, `--help`, VS Code…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.200: Changed the "default" permission mode to "Manual" across the CLI, `--help`, VS Code, and JetBrains; `--permission-mode manual` and `"defaultMode": "manual"` are accepted alongside `default`

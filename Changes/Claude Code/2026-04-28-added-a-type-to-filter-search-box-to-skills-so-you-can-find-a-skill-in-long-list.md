@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e54bf2dda34bf39aaa3e5755366f391bddbb4a2b23646a3540ea47c9e67b1ddc
+machine_hash: b707e9a0521ead365f5492a3c287d444a8ed47c27087e0ea173dea0680d87057
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added a type-to-filter search box to `/skills` so you can find a skill
       in long lists without scrolling
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.121
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: Added a type-to-filter search box to `/skills` so you can find a skill in
-    long l
+    long lists…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-20-smoother-fullscreen-scrolling-in-vs-code-cursor-and-windsurf-terminals-terminal|claude-code-2026-04-20-f519b5]]'
@@ -47,11 +47,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-04-28-v2-1-121-github-3
 source_type: github_releases
 theme: interface-experience
 title: Added a type-to-filter search box to /skills so you can find a skill in long
-  l
+  lists…
 type: change
 ---
 
-# Added a type-to-filter search box to `/skills` so you can find a skill in long l
+# Added a type-to-filter search box to `/skills` so you can find a skill in long lists…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.121: Added a type-to-filter search box to `/skills` so you can find a skill in long lists without scrolling

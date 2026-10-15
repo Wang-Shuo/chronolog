@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: b5906c2f5d1e103fcbca14f08ef1eb54ad1aa88ad7ae9da567ef0321cfb41914
+machine_hash: 1b32d8ab8600a32e906237db9329194da5e89b13da7f1e5390fd010956fcb73f
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,7 +29,7 @@ record:
   - quote: 'Added `$.ui.view({ agentId })` for mods: shows an agent''s transcript
       in the main view when you ask, and `$.ui.view({})` goes back'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.300
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code
@@ -37,8 +37,7 @@ record:
   source_release: claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0
   source_type: github_releases
   theme: agent-mode
-  title: 'Added `$.ui.view({ agentId })` for mods: shows an agent''s transcript in
-    the main'
+  title: Added `$.ui.view({ agentId })` for mods
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-10-06-remote-control-doesn-t-move-your-agents-anywhere-it-keeps-running-on-your-comput|cursor-2026-10-06-ae0e4b]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0|claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0]]'
 source_type: github_releases
 theme: agent-mode
-title: 'Added $.ui.view({ agentId }) for mods: shows an agent''s transcript in the
-  main'
+title: Added $.ui.view({ agentId }) for mods
 type: change
 ---
 
-# Added `$.ui.view({ agentId })` for mods: shows an agent's transcript in the main
+# Added `$.ui.view({ agentId })` for mods
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.300: Added `$.ui.view({ agentId })` for mods: shows an agent's transcript in the main view when you ask, and `$.ui.view({})` goes back

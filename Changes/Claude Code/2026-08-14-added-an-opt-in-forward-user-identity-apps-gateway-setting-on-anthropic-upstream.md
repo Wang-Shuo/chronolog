@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: dc0ea7c9e9aba4359bdef80f5a3c3c1561459c826388f890b7da32156e52a961
+machine_hash: 59e9b9559a7ae62181fe8c3c8a79b0c8a2ceeb0f9dd56121c83c29b8782e664f
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       upstreams that sends the signed-in user's identity as headers, so a proxy behind
       the gateway can attribute spend per user
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.233
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   source_type: github_releases
   theme: apps-integrations
   title: Added an opt-in `forward_user_identity` apps gateway setting on Anthropic
-    upstre
+    upstreams…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-12-added-plugin-marketplace-command-sources-a-local-command-e-g-an-ide-prints-the-p|claude-code-2026-08-12-5a7eeb]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-08-14-v2-1-233-github-370762090-de6823a9|claude-code-2026-08-14-v2-1-233-github-370762090-de6823a9]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added an opt-in forward_user_identity apps gateway setting on Anthropic upstre
+title: Added an opt-in forward_user_identity apps gateway setting on Anthropic upstreams…
 type: change
 ---
 
-# Added an opt-in `forward_user_identity` apps gateway setting on Anthropic upstre
+# Added an opt-in `forward_user_identity` apps gateway setting on Anthropic upstreams…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.233: Added an opt-in `forward_user_identity` apps gateway setting on Anthropic upstreams that sends the signed-in user's identity as headers, so a proxy behind the gateway can attribute spend per user

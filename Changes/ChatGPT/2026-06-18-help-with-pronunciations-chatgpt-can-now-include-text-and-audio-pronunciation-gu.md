@@ -11,9 +11,9 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d72421dc140830080d57faac62cab12c105b82c35d096287ce4c0a5ffd3f8817
+machine_hash: 8442cd301c29e0816f16d3c9d9d88a584a2bec273994c0bd23dda260fa2929b1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       guidance for words in more than 60 languages. Ask how to pronounce a word and
       ChatGPT can explain it with both audio and text in the conversation.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -37,8 +37,7 @@ record:
   source_release: chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5
   source_type: chatgpt_changelog
   theme: voice
-  title: 'Help with pronunciations: ChatGPT can now include text and audio pronunciation
-    g'
+  title: Help with pronunciations
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-04-13-dictation-through-voice-input-is-more-reliable-and-accurate-it-records-your-full|cursor-2026-04-13-9d6faa]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
 theme: voice
-title: 'Help with pronunciations: ChatGPT can now include text and audio pronunciation
-  g'
+title: Help with pronunciations
 type: change
 ---
 
-# Help with pronunciations: ChatGPT can now include text and audio pronunciation g
+# Help with pronunciations
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT app experience updates: Help with pronunciations: ChatGPT can now include text and audio pronunciation guidance for words in more than 60 languages. Ask how to pronounce a word and ChatGPT can explain it with both audio and text in the conversation.

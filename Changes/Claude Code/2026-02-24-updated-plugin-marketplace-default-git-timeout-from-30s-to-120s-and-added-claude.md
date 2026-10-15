@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7ed32ae2d580211af29a7e300744b37fddca3663ac5c7df24e062a4ab323284e
+machine_hash: a388293d3544f57199c918882ea17726e48926a29e44e089aedd2e5462be49c6
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Updated plugin marketplace default git timeout from 30s to 120s and added
       `CLAUDE_CODE_PLUGIN_GIT_TIMEOUT_MS` to configure.
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.51
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -34,8 +34,7 @@ record:
   source_release: claude-code-2026-02-24-v2-1-51-github-289665343-b4bbdd9c
   source_type: github_releases
   theme: apps-integrations
-  title: Updated plugin marketplace default git timeout from 30s to 120s and added
-    `CLAUD
+  title: Updated plugin marketplace default git timeout from 30s to 120s and added…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-20-claude-code-simple-mode-now-also-disables-mcp-tools-attachments-hooks-and-claude|claude-code-2026-02-20-a36260]]'
@@ -44,11 +43,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-02-24-v2-1-51-github-289665343-b4bbdd9c|claude-code-2026-02-24-v2-1-51-github-289665343-b4bbdd9c]]'
 source_type: github_releases
 theme: apps-integrations
-title: Updated plugin marketplace default git timeout from 30s to 120s and added CLAUD
+title: Updated plugin marketplace default git timeout from 30s to 120s and added…
 type: change
 ---
 
-# Updated plugin marketplace default git timeout from 30s to 120s and added `CLAUD
+# Updated plugin marketplace default git timeout from 30s to 120s and added…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.51: Updated plugin marketplace default git timeout from 30s to 120s and added `CLAUDE_CODE_PLUGIN_GIT_TIMEOUT_MS` to configure.

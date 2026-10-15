@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-12-29'
-machine_hash: fa9f7e32d7ad727f54f0d20cbb7c119786b08bcf76c2fd38554de9115576e115
+machine_hash: 9e052203885f44d64bf07c39654807a67018abfce03d97193f36e90df07cdd24
 product: cursor
 product_name: Cursor
 record:
@@ -39,5 +39,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- editor-experience: [[Changes/Cursor/2023-12-29-you-can-now-run-multiple-command-k-s-in-parallel-also-it-should-now-be-easier-to|You can now run multiple Command-K's in parallel! Also, it should now be easier]]
+- editor-experience: [[Changes/Cursor/2023-12-29-you-can-now-run-multiple-command-k-s-in-parallel-also-it-should-now-be-easier-to|Run multiple Command-K's in parallel!]]
 <!-- chronolog:end -->

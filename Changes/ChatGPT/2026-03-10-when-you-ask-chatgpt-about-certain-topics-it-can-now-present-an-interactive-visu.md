@@ -11,9 +11,9 @@ diffusion:
   theme: learning-tools
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 877ff4454c8168b5080704524f58756917b1ff103b78c363b7adc809008875b9
+machine_hash: 62b83bfa269079c6253ac5da59d1852aff68d47eddb8489eb0903a186f2c648b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,7 +40,7 @@ record:
       designed to help students work through problems step by step and strengthen
       understanding.Try asking:'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -49,7 +49,7 @@ record:
   source_type: chatgpt_changelog
   theme: learning-tools
   title: When you ask ChatGPT about certain topics, it can now present an interactive
-    vis
+    visual…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-07-29-break-concepts-into-easy-to-follow-sections-starting-simple-and-adding-complexit|chatgpt-2025-07-29-37b667]]'
@@ -58,11 +58,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-03-10-interactive-learning-for-
 source_type: chatgpt_changelog
 theme: learning-tools
 title: When you ask ChatGPT about certain topics, it can now present an interactive
-  vis
+  visual…
 type: change
 ---
 
-# When you ask ChatGPT about certain topics, it can now present an interactive vis
+# When you ask ChatGPT about certain topics, it can now present an interactive visual…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Interactive learning for math and science: When you ask ChatGPT about certain topics, it can now present an interactive visual module that lets you experiment with formulas and variables in real time. Adjust inputs, manipulate equations, and instantly see how changes affect graphs and outcomes—turning abstract concepts into something you can explore directly.Interactive learning launches with 70+ math and science topics, including concepts like the Pythagorean theorem, ideal gas law, circle area, and lens equations.This feature builds on other learning tools in ChatGPT, like study mode and quizzes, designed to help students work through problems step by step and strengthen understanding.Try asking:

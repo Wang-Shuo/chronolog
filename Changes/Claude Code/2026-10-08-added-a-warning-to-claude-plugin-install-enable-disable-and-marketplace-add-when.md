@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 603880af6c648b01f1d353e7db222ee99f851d40a1e87b80c2c2e32d72daaf9c
+machine_hash: a33e2e6aac37eb52294a1117f2cf4a68b8b02456e2b8852375dac703da5af98a
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Added a warning to `claude plugin install`, `enable`, `disable` and `marketplace
       add` when the settings file they write to does not load
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.295
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,7 +35,7 @@ record:
   source_release: claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510
   source_type: github_releases
   theme: apps-integrations
-  title: Added a warning to `claude plugin install`, `enable`, `disable` and `marketplace
+  title: Added a warning to `claude plugin install`, `enable`, `disable`…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-10-06-added-marketplace-source-to-claude-plugin-install-adds-the-marketplace-if-needed|claude-code-2026-10-06-9287c4]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510|claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added a warning to claude plugin install, enable, disable and marketplace
+title: Added a warning to claude plugin install, enable, disable…
 type: change
 ---
 
-# Added a warning to `claude plugin install`, `enable`, `disable` and `marketplace
+# Added a warning to `claude plugin install`, `enable`, `disable`…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.295: Added a warning to `claude plugin install`, `enable`, `disable` and `marketplace add` when the settings file they write to does not load

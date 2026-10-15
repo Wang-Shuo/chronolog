@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: bead33660bf2abe97be1c4af142a9c1a7e25b61a633f1ccc4427926d3e02c07f
+machine_hash: ca2be8474963502f1c84cf4b877fe94f9e7c221befec2f63f23db4625b960afd
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
       more complex tasks. Long-running agents plan first and finish more difficult
       work without human intervention.
     source_release: https://cursor.com/changelog/02-12-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -39,7 +39,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: Cursor can now work autonomously over longer horizons to complete larger,
-    more c
+    more…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-06-added-teammateidle-and-taskcompleted-hook-events-for-multi-agent-workflows|claude-code-2026-02-06-4abc13]]'
@@ -48,12 +48,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-02-12-long-running-agents-in-research-preview-https-cursor-com-changel-2b95c718|cursor-2026-02-12-long-running-agents-in-research-preview-https-cursor-com-changel-2b95c718]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: Cursor can now work autonomously over longer horizons to complete larger, more
-  c
+title: Cursor can now work autonomously over longer horizons to complete larger, more…
 type: change
 ---
 
-# Cursor can now work autonomously over longer horizons to complete larger, more c
+# Cursor can now work autonomously over longer horizons to complete larger, more…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Long-running Agents in Research Preview: Cursor can now work autonomously over longer horizons to complete larger, more complex tasks. Long-running agents plan first and finish more difficult work without human intervention.

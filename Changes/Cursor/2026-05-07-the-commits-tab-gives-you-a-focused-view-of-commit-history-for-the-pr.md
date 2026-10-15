@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 945b3b129774fade30699f998368df1c706f24443af6a2e5811d4ec0a57153c4
+machine_hash: aff9e7f935570707edcc4e5bb138f70c4bef1307455e5876f07bb0500758a8cd
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: The Commits tab gives you a focused view of commit history for the PR.
     source_release: https://cursor.com/changelog/05-07-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -33,7 +33,7 @@ record:
   source_release: cursor-2026-05-07-3-3-https-cursor-com-changelog-05-07-26-9d8a16d3
   source_type: cursor_changelog
   theme: editor-experience
-  title: The Commits tab gives you a focused view of commit history for the PR.
+  title: The Commits tab gives you a focused view of commit history for the PR
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-20-config-search-now-matches-option-values-e-g-searching-vim-finds-the-editor-mode|claude-code-2026-04-20-ae9196]]'
@@ -42,11 +42,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-05-07-3-3-https-cursor-com-changelog-05-07-26-9d8a16d3|cursor-2026-05-07-3-3-https-cursor-com-changelog-05-07-26-9d8a16d3]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: The Commits tab gives you a focused view of commit history for the PR.
+title: The Commits tab gives you a focused view of commit history for the PR
 type: change
 ---
 
-# The Commits tab gives you a focused view of commit history for the PR.
+# The Commits tab gives you a focused view of commit history for the PR
 
 <!-- chronolog:begin region="description" -->
 Cursor — PR Review, Build Plan in Parallel, and Split PRs: The Commits tab gives you a focused view of commit history for the PR.

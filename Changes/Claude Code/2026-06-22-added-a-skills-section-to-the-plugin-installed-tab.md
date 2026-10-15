@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 43f0f59405f13ca712f8933d00c8a745c1a6732cd3fa81b6160a004eaf88ebea
+machine_hash: 07fc73bfea55ef493c9cdebfc1d3441b706815686742a0520de7699c888987f4
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Added a "Skills" section to the `/plugin` Installed tab
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.186
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

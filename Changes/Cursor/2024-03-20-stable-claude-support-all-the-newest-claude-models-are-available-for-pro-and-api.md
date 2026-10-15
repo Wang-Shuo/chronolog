@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 9d980f282b9a46ba3482691d2a3438ca99f1a9ae0827f9540d3caddfe4cb384f
+machine_hash: 90a652c5b5b3cfef5d11aa774c9d978ecf963bb2cc0cfb9869c6308029d17379
 product: cursor
 product_name: Cursor
 record:
@@ -32,7 +32,7 @@ record:
       get 10 requests / day for free and can keep using Claude at API-key prices for
       subsequent requests.'
     source_release: https://cursor.com/changelog/0-30-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -40,8 +40,7 @@ record:
   source_release: cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e
   source_type: cursor_changelog
   theme: model-support
-  title: 'Stable Claude Support: All the newest Claude models are available for Pro
-    and AP'
+  title: Stable Claude Support
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-01-18-cursor-fast-this-is-a-new-model-available-in-command-k-and-chat-expect-it-to-be|cursor-2024-01-18-88538f]]'
@@ -50,12 +49,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e|cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e]]'
 source_type: cursor_changelog
 theme: model-support
-title: 'Stable Claude Support: All the newest Claude models are available for Pro
-  and AP'
+title: Stable Claude Support
 type: change
 ---
 
-# Stable Claude Support: All the newest Claude models are available for Pro and AP
+# Stable Claude Support
 
 <!-- chronolog:begin region="description" -->
 Cursor — Faster Copilot++, Claude: Stable Claude Support: All the newest Claude models are available for Pro and API key users. Head to Settings > Models to toggle them on. Pro users get 10 requests / day for free and can keep using Claude at API-key prices for subsequent requests.

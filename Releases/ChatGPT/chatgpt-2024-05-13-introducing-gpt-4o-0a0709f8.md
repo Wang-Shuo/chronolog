@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2024-05-13'
-machine_hash: c8e413939769e8aa5d75a58c23be55b9c47a47f19cbc59d16662238532d345ce
+machine_hash: d3527f1a7713c5c86666a630ab97ee1d9b9f6ee0a7285afa837bfbe80bc99a91
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2024-05-13-gpt-4o-is-our-newest-flagship-model-that-provides-gpt-4-level-intelligence-that-297427|GPT-4o is our newest flagship model that provides GPT-4-level intelligence that]]
+- model-support: [[Changes/ChatGPT/2024-05-13-gpt-4o-is-our-newest-flagship-model-that-provides-gpt-4-level-intelligence-that-297427|GPT-4o is our newest flagship model that provides GPT-4-level intelligence…]]
 <!-- chronolog:end -->

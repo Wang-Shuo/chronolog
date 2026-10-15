@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 820908c37d93270aada7377b289f7f70dfd93a0b2f5538c63ccc45553866c841
+machine_hash: a88254d253fdc7c0c182a8d57f1a57c6f3f5cbd1812781331b1d671bc09ab7b9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -36,7 +36,7 @@ record:
       the context without asking follow-up questions. Rolling out globally on iOS,
       Android, web.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -59,8 +59,7 @@ record:
     score: 50
     theme: context-window
   theme_resolution: manual-backfill-review-v1
-  title: Responses in ChatGPT are now more visual and easier to scan.For everyday
-    questio
+  title: Responses in ChatGPT are now more visual and easier to scan
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-29-improved-terminal-rendering-performance-with-optimized-screen-data-layout|claude-code-2026-01-29-850461]]'
@@ -69,11 +68,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-01-30-more-visual-responses-d2d2073c|chatgpt-2026-01-30-more-visual-responses-d2d2073c]]'
 source_type: chatgpt_changelog
 theme: interface-experience
-title: Responses in ChatGPT are now more visual and easier to scan.For everyday questio
+title: Responses in ChatGPT are now more visual and easier to scan
 type: change
 ---
 
-# Responses in ChatGPT are now more visual and easier to scan. For everyday questi
+# Responses in ChatGPT are now more visual and easier to scan
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — More visual responses: Responses in ChatGPT are now more visual and easier to scan.For everyday questions, responses may include at-a-glance visuals—like checking your team’s latest stats, converting units, or doing a quick calculation.Answers now also highlight important people, places, products, and ideas. You can tap any highlight to open a side panel with key facts and trusted sources, making it easy to understand the context without asking follow-up questions. Rolling out globally on iOS, Android, web.

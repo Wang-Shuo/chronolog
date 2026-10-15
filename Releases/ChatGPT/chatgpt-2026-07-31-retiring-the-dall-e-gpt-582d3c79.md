@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-07-31'
-machine_hash: 16a6aff1df82a6197b03183d9bfb93656e7dfc6dfa161fd1cd90b9dd19bcbc21
+machine_hash: 77bc4382a2a86f4d7626dc7bd5f1ddc3f0a47962ed77f4a4197de4c22bf24323
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- image-generation: [[Changes/ChatGPT/2026-07-31-on-august-30-2026-we-re-retiring-the-official-dall-e-gpt-in-chatgpt-we-encourage|On August 30, 2026, we’re retiring the official DALL·E GPT in ChatGPT. We encour]]
+- image-generation: [[Changes/ChatGPT/2026-07-31-on-august-30-2026-we-re-retiring-the-official-dall-e-gpt-in-chatgpt-we-encourage|On August 30, 2026, we’re retiring the official DALL·E GPT in ChatGPT]]
 <!-- chronolog:end -->

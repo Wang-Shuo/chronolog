@@ -11,9 +11,9 @@ diffusion:
   theme: automation-scheduling
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: cf29eac01356aba3033912e6d4b9e664227a2f426a419eef09b131fc103fd7e6
+machine_hash: 7d72651c6d237f19f31aa71a4e8ada73862da32321539f1e419714784a39815b
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Describe the task you want to automate in plain language and Cursor will
       configure the triggers, instructions, and tools for you.
     source_release: https://cursor.com/changelog/06-18-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -36,7 +36,7 @@ record:
   source_type: cursor_changelog
   theme: automation-scheduling
   title: Describe the task you want to automate in plain language and Cursor will
-    configu
+    configure…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-06-17-users-can-schedule-work-for-specific-times-or-broader-windows-such-as-morning-af|chatgpt-2026-06-17-b41991]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-06-18-3-8-https-cursor-com-changelog-06-18-26-0b493e15|cursor-2026-06-18-3-8-https-cursor-com-changelog-06-18-26-0b493e15]]'
 source_type: cursor_changelog
 theme: automation-scheduling
-title: Describe the task you want to automate in plain language and Cursor will configu
+title: Describe the task you want to automate in plain language and Cursor will configure…
 type: change
 ---
 
-# Describe the task you want to automate in plain language and Cursor will configu
+# Describe the task you want to automate in plain language and Cursor will configure…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Improvements to Cursor Automations: Describe the task you want to automate in plain language and Cursor will configure the triggers, instructions, and tools for you.

@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: dd7c951d9a37e097e3565529f223ec06406a322b71dce97476c1ccead410f14d
+machine_hash: 1ee8fa01a22bd832150105c7d5e2c5d442780af02ae3cb007f83b4602f37ee1a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,7 +40,7 @@ record:
       performance compared to GPT-3.5 Turbo.You can read more about GPT-4o mini in
       the blog announcement here.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -69,8 +69,8 @@ record:
     score: 50
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v2
-  title: We’re introducing GPT-4o mini, the most capable and cost-efficient small
-    model a
+  title: ChatGPT introduces GPT-4o mini, the most capable and cost-efficient small
+    model…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2024-05-16-data-analysis-improvements-are-available-in-our-new-flagship-model-gpt-4o-for-ch|chatgpt-2024-05-16-43e26c]]'
@@ -79,12 +79,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2024-07-18-introducing-gpt-4o-mini-e0bf3077|chatgpt-2024-07-18-introducing-gpt-4o-mini-e0bf3077]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: We’re introducing GPT-4o mini, the most capable and cost-efficient small model
-  a
+title: ChatGPT introduces GPT-4o mini, the most capable and cost-efficient small model…
 type: change
 ---
 
-# We’re introducing GPT-4o mini, the most capable and cost-efficient small model a
+# ChatGPT introduces GPT-4o mini, the most capable and cost-efficient small model…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Introducing GPT-4o mini: We’re introducing GPT-4o mini, the most capable and cost-efficient small model available today. GPT-4o mini surpasses GPT-3.5 Turbo and other small models on academic benchmarks across both textual intelligence and multimodal reasoning and supports the same range of languages as GPT-4o. It also demonstrates strong performance in function calling, which can enable developers to build applications that fetch data or take actions with external systems, and improved long-context performance compared to GPT-3.5 Turbo.You can read more about GPT-4o mini in the blog announcement here.

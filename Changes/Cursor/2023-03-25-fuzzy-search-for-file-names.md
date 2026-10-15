@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 55383719a040a74e2512838c3feaa8760fbc7469b6fd31679f28424bdc78559a
+machine_hash: 19b13caec5546bd3650ef082d75361afe07937a1bb8102cf89ed9a38ed94feae
 product: cursor
 product_name: Cursor
 record:
@@ -24,7 +24,7 @@ record:
   evidence:
   - quote: Fuzzy search for file names
     source_release: https://cursor.com/changelog/0-1-7
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

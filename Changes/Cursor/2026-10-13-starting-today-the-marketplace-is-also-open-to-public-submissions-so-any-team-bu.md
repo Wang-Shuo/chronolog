@@ -11,9 +11,9 @@ diffusion:
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 174ff4b839b67e2187fd5471a09710391faba2fe8f6e5a5dbed5e682630bccab
+machine_hash: dd771eb111b1e2a1f70f58d844be84dba1d60144196359dc8186c18563ec0e4b
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Starting today, the marketplace is also open to public submissions, so
       any team building developer tools can publish an app for Origin.
     source_release: https://cursor.com/changelog/origin-app-marketplace
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -46,7 +46,7 @@ record:
     theme: collaboration
   theme_resolution: manual-semantic-rule-v1
   title: Starting today, the marketplace is also open to public submissions, so any
-    team
+    team…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-09-17-chatgpt-for-word-is-available-on-all-chatgpt-plans-including-free-your-plan-s-to|chatgpt-2026-09-17-c49c1f]]'
@@ -56,11 +56,11 @@ source_release: '[[Releases/Cursor/cursor-2026-10-13-origin-app-marketplace-http
 source_type: cursor_changelog
 theme: collaboration
 title: Starting today, the marketplace is also open to public submissions, so any
-  team
+  team…
 type: change
 ---
 
-# Starting today, the marketplace is also open to public submissions, so any team
+# Starting today, the marketplace is also open to public submissions, so any team…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Origin App Marketplace: Starting today, the marketplace is also open to public submissions, so any team building developer tools can publish an app for Origin.

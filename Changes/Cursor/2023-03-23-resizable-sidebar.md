@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1ade78dfcad6d5ae746d2e07fd4c307654099c9368f87bc69b06c6861ce143be
+machine_hash: 99290660533b59ac4e09478ebefcd0dc6521283453b4640fb109d5b3c85d8cea
 product: cursor
 product_name: Cursor
 record:
@@ -24,7 +24,7 @@ record:
   evidence:
   - quote: Resizable sidebar
     source_release: https://cursor.com/changelog/0-1-5
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

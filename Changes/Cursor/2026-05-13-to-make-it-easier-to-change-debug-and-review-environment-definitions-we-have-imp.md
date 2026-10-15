@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5ad9f67190b943b4bb2c2b0a606f81230d404615065cbbfddbd32d99eec122a5
+machine_hash: eddafd6f87fc7d48154cb7b542569423101c72fc3514777e50d2749de8340a20
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: To make it easier to change, debug, and review environment definitions,
       we have improved Dockerfile-based configuration.
     source_release: https://cursor.com/changelog/05-13-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -38,7 +38,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: To make it easier to change, debug, and review environment definitions, we
-    have
+    have…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-07-a-new-pr-review-experience-is-now-available-in-cursor-3-take-prs-from-creation-t|cursor-2026-05-07-485ba7]]'
@@ -48,11 +48,11 @@ source_release: '[[Releases/Cursor/cursor-2026-05-13-3-4-https-cursor-com-change
 source_type: cursor_changelog
 theme: developer-workflow
 title: To make it easier to change, debug, and review environment definitions, we
-  have
+  have…
 type: change
 ---
 
-# To make it easier to change, debug, and review environment definitions, we have
+# To make it easier to change, debug, and review environment definitions, we have…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Development environments for cloud agents: To make it easier to change, debug, and review environment definitions, we have improved Dockerfile-based configuration.

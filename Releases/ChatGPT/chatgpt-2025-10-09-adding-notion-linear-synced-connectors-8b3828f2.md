@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-10-09'
-machine_hash: 145e8ea52ada929cdcb87b13fc50e1fc14e95b3a7d6f4a85260dd0ddbf560392
+machine_hash: fa8d7c3ca6743cca3509f6da14b0b777e743404151330ada239e3ad376050f1e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- apps-integrations: [[Changes/ChatGPT/2025-10-09-we-re-adding-notion-and-linear-as-synced-connectors-for-pro-users-so-you-can-sec|We're adding Notion and Linear as synced connectors (for Pro users), so you can]]
+- apps-integrations: [[Changes/ChatGPT/2025-10-09-we-re-adding-notion-and-linear-as-synced-connectors-for-pro-users-so-you-can-sec|ChatGPT adds Notion and Linear as synced connectors (for Pro users), so you can…]]
 <!-- chronolog:end -->

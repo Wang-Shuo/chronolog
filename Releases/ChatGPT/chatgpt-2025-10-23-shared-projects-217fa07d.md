@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2025-10-23'
-machine_hash: 218a24d2421881fb9c8da6d8ec7dcaf56e8ae7398809244f8e49c90f47ed6f43
+machine_hash: fc9d89b213a43ab21d272c0c32288f1d3b353bcd684e173e69b01b81c06adeba
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,7 +41,7 @@ Tracked cards: 3
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- collaboration: [[Changes/ChatGPT/2025-10-23-content-creation-apply-project-specific-instructions-to-keep-tone-and-style-cons|Content creation: Apply project-specific instructions to keep tone and style con]]
-- mobile-desktop: [[Changes/ChatGPT/2025-10-23-starting-today-project-sharing-is-available-to-all-chatgpt-users-including-for-f-9033cc|Starting today, project sharing is available to all ChatGPT users, including for]]
-- reliability-performance: [[Changes/ChatGPT/2025-10-23-group-work-upload-notes-proposals-and-contracts-so-collaborators-can-draft-deliv|Group work: Upload notes, proposals, and contracts so collaborators can draft de]]
+- collaboration: [[Changes/ChatGPT/2025-10-23-content-creation-apply-project-specific-instructions-to-keep-tone-and-style-cons|Content creation: Apply project-specific instructions to keep tone and style…]]
+- mobile-desktop: [[Changes/ChatGPT/2025-10-23-starting-today-project-sharing-is-available-to-all-chatgpt-users-including-for-f-9033cc|Starting today, project sharing is available to all ChatGPT users, including…]]
+- reliability-performance: [[Changes/ChatGPT/2025-10-23-group-work-upload-notes-proposals-and-contracts-so-collaborators-can-draft-deliv|Group work: Upload notes, proposals, and contracts so collaborators can draft…]]
 <!-- chronolog:end -->

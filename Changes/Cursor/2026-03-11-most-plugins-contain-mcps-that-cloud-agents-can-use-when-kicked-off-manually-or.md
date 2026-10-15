@@ -11,9 +11,9 @@ diffusion:
   theme: automation-scheduling
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1c7bc3541a13d2db1de13d73c549c3856ec771f2f759111605be8dd72fd3cf37
+machine_hash: f04f00a326d28ef6e86efbd8382ad2f9b52f99bdd5bb0c392ea528a01b738618
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Most plugins contain MCPs that cloud agents can use when kicked off manually
       or triggered automatically through automations.
     source_release: https://cursor.com/changelog/03-11-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -49,8 +49,7 @@ record:
     score: 50
     theme: automation-scheduling
   theme_resolution: manual-semantic-rule-v1
-  title: Most plugins contain MCPs that cloud agents can use when kicked off manually
-    or
+  title: Most plugins contain MCPs that cloud agents can use when kicked off manually…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-03-05-automations-run-on-schedules-or-are-triggered-by-events-from-slack-linear-github|cursor-2026-03-05-fc1325]]'
@@ -59,12 +58,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-03-11-new-plugins-on-the-cursor-marketplace-https-cursor-com-changelog-f5d077c3|cursor-2026-03-11-new-plugins-on-the-cursor-marketplace-https-cursor-com-changelog-f5d077c3]]'
 source_type: cursor_changelog
 theme: automation-scheduling
-title: Most plugins contain MCPs that cloud agents can use when kicked off manually
-  or
+title: Most plugins contain MCPs that cloud agents can use when kicked off manually…
 type: change
 ---
 
-# Most plugins contain MCPs that cloud agents can use when kicked off manually or
+# Most plugins contain MCPs that cloud agents can use when kicked off manually…
 
 <!-- chronolog:begin region="description" -->
 Cursor — New Plugins on the Cursor Marketplace: Most plugins contain MCPs that cloud agents can use when kicked off manually or triggered automatically through automations.

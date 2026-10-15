@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: dfbcbe0cb54c2891a94c28d0b6f0b4adf25ddefef9c78f99c475b451bf0da657
+machine_hash: 76d1c0b8a2db83724a7f050b8b0a5bbea16a2137f16b3d7f23719af76d48288a
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
       Flowcharts, sequence diagrams, state machines, class diagrams, and ER diagrams
       can all be displayed directly in the terminal.
     source_release: https://cursor.com/changelog/cli-feb-18-2026
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 58eda51424fdf2ab43490a34e611b997bf4d8146736f09dcd92259cc770dca65
+machine_hash: 4d9b031dac6d6e015b3e4f7b4b1dbadf0c8c0f2114bb08b5a9d61807e7bda0be
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
   - quote: We've added a new feedback button at the top right of the app. - We really
       do
     source_release: https://cursor.com/changelog/0-2-18
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -38,8 +38,7 @@ record:
   theme: interface-experience
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: We've added a new feedback button at the top right of the app. - We really
-    do
+  title: Cursor adds a new feedback button at the top right of the app
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-05-03-you-can-now-turn-off-chat-history-and-export-your-data-from-the-chatgpt-settings|chatgpt-2023-05-03-96ffb8]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-05-20-0-2-18-https-cursor-com-changelog-0-2-18-ba8b7390|cursor-2023-05-20-0-2-18-https-cursor-com-changelog-0-2-18-ba8b7390]]'
 source_type: cursor_changelog
 theme: interface-experience
-title: We've added a new feedback button at the top right of the app. - We really
-  do
+title: Cursor adds a new feedback button at the top right of the app
 type: change
 ---
 
-# We've added a new feedback button at the top right of the app. - We really do
+# Cursor adds a new feedback button at the top right of the app
 
 <!-- chronolog:begin region="description" -->
 Cursor — Upgrades to GPT-4 and Please give us feedback!! (2023-05-20): We've added a new feedback button at the top right of the app. - We really do

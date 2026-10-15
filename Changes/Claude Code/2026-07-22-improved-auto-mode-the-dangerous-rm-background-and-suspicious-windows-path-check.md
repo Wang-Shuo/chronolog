@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 939a5aa49c7e82090b4d36bf974ed3a712b70f7ea1b6cfa368fff927cfad3675
+machine_hash: 944a5bac793b24f707d48805d3cf00851e6ab54d9b3c5b74c02304d454fd55cc
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       checks no longer open permission dialogs; the auto-mode classifier adjudicates
       them instead'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.218
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,7 +38,7 @@ record:
   theme: safety-privacy
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: 'Improved auto mode: the dangerous-rm, background-`&`, and suspicious-Windows-pat'
+  title: Improved auto mode
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-20-fixed-bash-command-permission-checking-for-compound-statements-with-redirects-in|claude-code-2026-07-20-cdef23]]'
@@ -47,11 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-22-v2-1-218-github-358276841-57d73db4|claude-code-2026-07-22-v2-1-218-github-358276841-57d73db4]]'
 source_type: github_releases
 theme: safety-privacy
-title: 'Improved auto mode: the dangerous-rm, background-&, and suspicious-Windows-pat'
+title: Improved auto mode
 type: change
 ---
 
-# Improved auto mode: the dangerous-rm, background-`&`, and suspicious-Windows-pat
+# Improved auto mode
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.218: Improved auto mode: the dangerous-rm, background-`&`, and suspicious-Windows-path checks no longer open permission dialogs; the auto-mode classifier adjudicates them instead

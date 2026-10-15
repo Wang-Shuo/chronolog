@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2026-05-07'
-machine_hash: b3fa9e4396e5986c349c4e1fcbe0c00e0ca132a88e59c90cb24608da2957bc9d
+machine_hash: 8ee6c12ff91c32ad6c0131cccbc96c3d88da375c10de14657a5063d23d8be3ec
 product: cursor
 product_name: Cursor
 record:
@@ -39,9 +39,9 @@ Tracked cards: 5
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- developer-workflow: [[Changes/Cursor/2026-05-07-a-new-pr-review-experience-is-now-available-in-cursor-3-take-prs-from-creation-t|A new PR review experience is now available in Cursor 3. Take PRs from creation]]
-- interface-experience: [[Changes/Cursor/2026-05-07-the-changes-tab-makes-it-easier-to-navigate-larger-prs-with-a-file-tree-and-chan|The Changes tab makes it easier to navigate larger PRs with a file tree and chan]]
-- editor-experience: [[Changes/Cursor/2026-05-07-the-commits-tab-gives-you-a-focused-view-of-commit-history-for-the-pr|The Commits tab gives you a focused view of commit history for the PR.]]
-- developer-workflow: [[Changes/Cursor/2026-05-07-this-release-introduces-a-new-pr-review-experience-faster-execution-on-plans-thr|This release introduces a new PR review experience, faster execution on plans th]]
-- editor-experience: [[Changes/Cursor/2026-05-07-the-reviews-tab-now-shows-inline-review-threads-and-top-level-pr-comments|The Reviews tab now shows inline review threads and top-level PR comments.]]
+- developer-workflow: [[Changes/Cursor/2026-05-07-a-new-pr-review-experience-is-now-available-in-cursor-3-take-prs-from-creation-t|A new PR review experience is now available in Cursor 3]]
+- interface-experience: [[Changes/Cursor/2026-05-07-the-changes-tab-makes-it-easier-to-navigate-larger-prs-with-a-file-tree-and-chan|The Changes tab makes it easier to navigate larger PRs with a file tree and changes picker]]
+- editor-experience: [[Changes/Cursor/2026-05-07-the-commits-tab-gives-you-a-focused-view-of-commit-history-for-the-pr|The Commits tab gives you a focused view of commit history for the PR]]
+- developer-workflow: [[Changes/Cursor/2026-05-07-this-release-introduces-a-new-pr-review-experience-faster-execution-on-plans-thr|Cursor introduces a new PR review experience, faster execution on plans through…]]
+- editor-experience: [[Changes/Cursor/2026-05-07-the-reviews-tab-now-shows-inline-review-threads-and-top-level-pr-comments|The Reviews tab now shows inline review threads and top-level PR comments]]
 <!-- chronolog:end -->

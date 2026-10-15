@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d2cf74f84bcf99894054f2f01adef9ca6444da7dce3a8a16e4560636b237e168
+machine_hash: 73cd8b8574e3293397a3fdd9ccc764b2cd865e0a9fa7b83fec41a977a490d7b8
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: This release introduces updates to cloud agents in the Agents Window of
       the Cursor desktop app.
     source_release: https://cursor.com/changelog/cloud-in-agents-window
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -45,8 +45,8 @@ record:
     score: 50
     theme: mobile-desktop
   theme_resolution: manual-semantic-rule-v1
-  title: This release introduces updates to cloud agents in the Agents Window of the
-    Curs
+  title: Cursor introduces updates to cloud agents in the Agents Window of the Cursor
+    desktop app
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-05-14-generated-images-will-continue-to-appear-in-the-images-tab-storage-management-is|chatgpt-2026-05-14-8895ca]]'
@@ -55,12 +55,12 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-06-17-3-7-https-cursor-com-changelog-cloud-in-agents-window-d40d64fa|cursor-2026-06-17-3-7-https-cursor-com-changelog-cloud-in-agents-window-d40d64fa]]'
 source_type: cursor_changelog
 theme: mobile-desktop
-title: This release introduces updates to cloud agents in the Agents Window of the
-  Curs
+title: Cursor introduces updates to cloud agents in the Agents Window of the Cursor
+  desktop app
 type: change
 ---
 
-# This release introduces updates to cloud agents in the Agents Window of the Curs
+# Cursor introduces updates to cloud agents in the Agents Window of the Cursor desktop app
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cloud Environment Setup and Cloud Subagents in Agents Window: This release introduces updates to cloud agents in the Agents Window of the Cursor desktop app.

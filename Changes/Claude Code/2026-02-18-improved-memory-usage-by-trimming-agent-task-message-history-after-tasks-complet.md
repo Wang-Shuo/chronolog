@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 8526a7e356fa44c16881d62cc8a0d4d61f942e02efa26ec75013914bd006bca0
+machine_hash: 2559df0b298b9762721a21cbe3733ff28516c5d71682ec88dc095f9cc0bef0fe
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Improved memory usage by trimming agent task message history after tasks
       complete
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.47
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code
@@ -47,7 +47,7 @@ record:
     theme: agent-mode
   theme_resolution: manual-semantic-rule-v2
   title: Improved memory usage by trimming agent task message history after tasks
-    complet
+    complete
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-12-22-for-this-holiday-release-we-ve-focused-entirely-on-fixing-bugs-and-improving-sta|cursor-2025-12-22-1c2a12]]'
@@ -56,11 +56,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-02-18-v2-1-47-github-287886320-98b6e931|claude-code-2026-02-18-v2-1-47-github-287886320-98b6e931]]'
 source_type: github_releases
 theme: reliability-performance
-title: Improved memory usage by trimming agent task message history after tasks complet
+title: Improved memory usage by trimming agent task message history after tasks complete
 type: change
 ---
 
-# Improved memory usage by trimming agent task message history after tasks complet
+# Improved memory usage by trimming agent task message history after tasks complete
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.47: Improved memory usage by trimming agent task message history after tasks complete

@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3d2c04335c5eec8ebe14f1ffe584c9d5aef92cf615fbc31e13b580862e1ddf8b
+machine_hash: d96fae708ae7f263e69c76ce8ab8bb6f60a34938963cedb64b21e9ceef6180a3
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: '0.47.1: Improved performance, added back play button to apply code blocks'
     source_release: https://cursor.com/changelog/0-47-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

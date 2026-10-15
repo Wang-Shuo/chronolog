@@ -11,9 +11,9 @@ diffusion:
   theme: multimodal
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 2de75c3a6f73ffc2b7df3c11abfe54f8393eb4f59d70ce09eeda6d67730f7d6f
+machine_hash: 42a0b6d325e1e21fead7e91b85300e91f46d542586f3230f175261597ba7e796
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: 'Added clickable `[Image #N]` links that open attached images in the default
       viewer'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.0.73
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: 'Added clickable `[Image #N]` links that open attached images in the default
-    view'
+    viewer'
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-11-27-image-support-in-chat-you-can-now-drag-and-drop-images-into-the-chat-to-send-the|cursor-2023-11-27-1702a4]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2025-12-19-v2-0-73-github-271620087-160adbe9|claude-code-2025-12-19-v2-0-73-github-271620087-160adbe9]]'
 source_type: github_releases
 theme: multimodal
-title: Added clickable Image ♯N links that open attached images in the default view
+title: Added clickable Image ♯N links that open attached images in the default viewer
 type: change
 ---
 
-# Added clickable `[Image #N]` links that open attached images in the default view
+# Added clickable `[Image #N]` links that open attached images in the default viewer
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.0.73: Added clickable `[Image #N]` links that open attached images in the default viewer

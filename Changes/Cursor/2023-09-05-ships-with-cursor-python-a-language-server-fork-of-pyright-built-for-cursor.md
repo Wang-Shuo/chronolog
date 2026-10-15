@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4fcba95b371da0e0da31e0ed7746e25cb13f6ae826f4f03fdc18c8405dccef5c
+machine_hash: ec4f8dead463efdf593b2593803fc5e0d2c1a03c09b271238f6b0254caa803f2
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Ships with cursor-python, a Language-Server fork of pyright built for Cursor
     source_release: https://cursor.com/changelog/0-9-5-nightly
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

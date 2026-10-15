@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: ce7df8f3848e37fcf13631c54d4450709d09f98fb4f79c5ed88a623c8110d678
+machine_hash: 68c3c544e08275b202d11e2cce38ee142443037793f0401919a62ffdd1ae0265
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,7 +38,7 @@ record:
       questions to understand your goals and skill level, then work with you to reach
       the answer together.With Study mode enabled, ChatGPT can:'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -67,7 +67,7 @@ record:
     score: 50
     theme: model-support
   title: Study mode is currently available to users in Free, Plus, Pro, and Teams
-    plans g
+    plans…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-03-18-we-have-been-working-on-a-variety-of-usability-and-performance-improvements-and|chatgpt-2025-03-18-3de287]]'
@@ -76,12 +76,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-07-29-study-mode-ffbfbea6|chatgpt-2025-07-29-study-mode-ffbfbea6]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: Study mode is currently available to users in Free, Plus, Pro, and Teams plans
-  g
+title: Study mode is currently available to users in Free, Plus, Pro, and Teams plans…
 type: change
 ---
 
-# Study mode is currently available to users in Free, Plus, Pro, and Teams plans g
+# Study mode is currently available to users in Free, Plus, Pro, and Teams plans…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Study Mode: Study mode is currently available to users in Free, Plus, Pro, and Teams plans globally and will expand to Edu plans in the coming weeks. Study mode works with any model available in ChatGPT on iOS, Android, web, and desktop.Study mode is a new learning experience in ChatGPT designed to help you build a deeper understanding of any topic. When you turn it on, ChatGPT will ask interactive questions to understand your goals and skill level, then work with you to reach the answer together.With Study mode enabled, ChatGPT can:

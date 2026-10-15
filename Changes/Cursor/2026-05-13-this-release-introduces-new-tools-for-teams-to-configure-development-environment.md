@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: fd251ed316766c8df8bce935c6155767b06a2a2bf7af997930e53459a56d04be
+machine_hash: 291b23195818bc1fa102dd6dfe806a45524f86cb86bce79254b781219c828280
 product: cursor
 product_name: Cursor
 record:
@@ -34,7 +34,7 @@ record:
       agents that handle tasks from end-to-end, inside development environments you
       fully control.
     source_release: https://cursor.com/changelog/05-13-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -52,7 +52,7 @@ record:
     score: 50
     theme: collaboration
   theme_resolution: manual-backfill-review-v1
-  title: This release introduces new tools for teams to configure development environment
+  title: Cursor introduces new tools for teams to configure development environments…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-13-this-release-introduces-quality-of-life-improvements-to-the-agents-window|cursor-2026-05-13-8b8717]]'
@@ -61,11 +61,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-05-13-3-4-https-cursor-com-changelog-05-13-26-685b1c4c|cursor-2026-05-13-3-4-https-cursor-com-changelog-05-13-26-685b1c4c]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: This release introduces new tools for teams to configure development environment
+title: Cursor introduces new tools for teams to configure development environments…
 type: change
 ---
 
-# This release introduces new tools for teams to configure development environment
+# Cursor introduces new tools for teams to configure development environments…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Development environments for cloud agents: This release introduces new tools for teams to configure development environments for their agents. Cursor also can use these tools to set up and maintain environments for you. Together, this makes it easier for teams to run fleets of parallelized agents that handle tasks from end-to-end, inside development environments you fully control.

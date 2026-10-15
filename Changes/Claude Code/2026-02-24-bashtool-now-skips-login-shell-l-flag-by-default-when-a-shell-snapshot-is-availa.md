@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e5f4382f2906ddde9e7dc643b657cd0db84499ab32b20b1d169f00f8a68d1eeb
+machine_hash: 72f750653a0e6932805193201611666a830aefe2eed23923ef4fa60540ec5e94
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       is available, improving command execution performance. Previously this required
       setting `CLAUDE_BASH_NO_LOGIN=true`.
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.51
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -46,8 +46,7 @@ record:
     score: 50
     theme: reliability-performance
   theme_resolution: manual-backfill-review-v1
-  title: BashTool now skips login shell (`-l` flag) by default when a shell snapshot
-    is a
+  title: BashTool now skips login shell (`-l` flag) by default when a shell snapshot…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-02-19-review-code-in-split-screen-views|chatgpt-2026-02-19-97cccf]]'
@@ -56,12 +55,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-02-24-v2-1-51-github-289665343-b4bbdd9c|claude-code-2026-02-24-v2-1-51-github-289665343-b4bbdd9c]]'
 source_type: github_releases
 theme: developer-workflow
-title: BashTool now skips login shell (-l flag) by default when a shell snapshot is
-  a
+title: BashTool now skips login shell (-l flag) by default when a shell snapshot…
 type: change
 ---
 
-# BashTool now skips login shell (`-l` flag) by default when a shell snapshot is a
+# BashTool now skips login shell (`-l` flag) by default when a shell snapshot…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.51: BashTool now skips login shell (`-l` flag) by default when a shell snapshot is available, improving command execution performance. Previously this required setting `CLAUDE_BASH_NO_LOGIN=true`.

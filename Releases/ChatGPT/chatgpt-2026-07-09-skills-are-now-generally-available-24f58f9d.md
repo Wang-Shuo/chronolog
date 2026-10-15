@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-07-09'
-machine_hash: c39d72445e6c459847d9cadb6c8962a11c00597011a96ca082d451b1595c32fb
+machine_hash: d1d2a7a4995cd0013532bf522cb2d250010169a0c2447f81268c726099270647
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,5 +39,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- apps-integrations: [[Changes/ChatGPT/2026-07-09-enterprise-and-edu-users-can-find-skills-under-plugins-in-the-sidebar-on-the-ski|Enterprise and Edu users can find skills under Plugins in the sidebar, on the Sk]]
+- apps-integrations: [[Changes/ChatGPT/2026-07-09-enterprise-and-edu-users-can-find-skills-under-plugins-in-the-sidebar-on-the-ski|Enterprise and Edu users can find skills under Plugins in the sidebar, on the Skills…]]
 <!-- chronolog:end -->

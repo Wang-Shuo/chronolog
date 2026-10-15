@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 43d117e697559a34eec4605fd146932c9ea03525c99d13a3a8ff8f3b9b7960c9
+machine_hash: 03d1268c3ee111bd2833dedeb08590a8a2596b1c2f4e0e2eaf0fbdec9cbdc0ed
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Improved non-streaming API fallback with a 2-minute per-attempt timeout,
       preventing sessions from hanging indefinitely
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.79
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: Improved non-streaming API fallback with a 2-minute per-attempt timeout,
-    prevent
+    preventing…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-06-improved-compaction-to-preserve-images-in-the-summarizer-request-allowing-prompt|claude-code-2026-03-06-520da5]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-18-v2-1-79-github-298704791-2ebf4bbd|claude-code-2026-03-18-v2-1-79-github-298704791-2ebf4bbd]]'
 source_type: github_releases
 theme: reliability-performance
-title: Improved non-streaming API fallback with a 2-minute per-attempt timeout, prevent
+title: Improved non-streaming API fallback with a 2-minute per-attempt timeout, preventing…
 type: change
 ---
 
-# Improved non-streaming API fallback with a 2-minute per-attempt timeout, prevent
+# Improved non-streaming API fallback with a 2-minute per-attempt timeout, preventing…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.79: Improved non-streaming API fallback with a 2-minute per-attempt timeout, preventing sessions from hanging indefinitely

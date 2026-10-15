@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 26c0c4a6184d1546000f6d7b03c5752ce427fe4deac3d01eff1821bbce9cfb01
+machine_hash: 04addc07c16a8fed5c0308fb90bdf8f7ba21ce7b076c0cd1a4682fea5adb4ffa
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       `AWS_REGION` isn't set, matching AWS SDK precedence; `/status` shows where the
       region came from
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.172
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,7 +38,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Amazon Bedrock now reads the AWS region from `~/.aws` config files when `AWS_REG
+  title: Amazon Bedrock now reads the AWS region from `~/.aws` config files when `AWS_REGION`…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-06-04-we-ve-shipped-a-batch-of-new-functionality-across-the-typescript-and-python-sdks|cursor-2026-06-04-73350b]]'
@@ -47,11 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-10-v2-1-172-github-337412034-dc68562c|claude-code-2026-06-10-v2-1-172-github-337412034-dc68562c]]'
 source_type: github_releases
 theme: apps-integrations
-title: Amazon Bedrock now reads the AWS region from ~/.aws config files when AWS_REG
+title: Amazon Bedrock now reads the AWS region from ~/.aws config files when AWS_REGION…
 type: change
 ---
 
-# Amazon Bedrock now reads the AWS region from `~/.aws` config files when `AWS_REG
+# Amazon Bedrock now reads the AWS region from `~/.aws` config files when `AWS_REGION`…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.172: Amazon Bedrock now reads the AWS region from `~/.aws` config files when `AWS_REGION` isn't set, matching AWS SDK precedence; `/status` shows where the region came from

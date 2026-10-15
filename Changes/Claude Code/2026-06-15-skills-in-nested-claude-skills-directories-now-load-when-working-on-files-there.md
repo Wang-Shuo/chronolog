@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e38b24ca45d9b48b2a8d04a331bb926497eacc1915aa63fcf2111c119ccc5c0b
+machine_hash: c099ac43d3a28011d70d7d119f673de881e25e7d9ba551562e4907bd176d813f
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       files there; on a name clash, the nested skill appears as `<dir>:<name>` so
       both stay available
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.178
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -39,7 +39,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: Skills in nested `.claude/skills` directories now load when working on files
-    the
+    there
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-06-added-glob-pattern-support-in-deny-rule-tool-name-position-denies-all-tools-allo|claude-code-2026-06-06-cd06e2]]'
@@ -49,11 +49,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-06-15-v2-1-178-github-3
 source_type: github_releases
 theme: apps-integrations
 title: Skills in nested .claude/skills directories now load when working on files
-  the
+  there
 type: change
 ---
 
-# Skills in nested `.claude/skills` directories now load when working on files the
+# Skills in nested `.claude/skills` directories now load when working on files there
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.178: Skills in nested `.claude/skills` directories now load when working on files there; on a name clash, the nested skill appears as `<dir>:<name>` so both stay available

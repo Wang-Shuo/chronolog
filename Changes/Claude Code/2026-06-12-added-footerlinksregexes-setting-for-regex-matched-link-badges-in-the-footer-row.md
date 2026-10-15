@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 796597949fa274c5935f057ba7534e81fd6d7512b28916f5b43b2aa89624c34e
+machine_hash: f02fd960bd507b4185b988f9a44dbd8c2302d9d2d9a14ea56dcdc747e3456d8d
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `footerLinksRegexes` setting for regex-matched link badges in the
       footer row, configurable via user or managed settings
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.176
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: Added `footerLinksRegexes` setting for regex-matched link badges in the footer
-    r
+    row…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-06-08-improvement-to-charts-table-of-contents-and-full-screen-writing-also-fixes-long|chatgpt-2026-06-08-6d3f17]]'
@@ -47,11 +47,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-06-12-v2-1-176-github-3
 source_type: github_releases
 theme: interface-experience
 title: Added footerLinksRegexes setting for regex-matched link badges in the footer
-  r
+  row…
 type: change
 ---
 
-# Added `footerLinksRegexes` setting for regex-matched link badges in the footer r
+# Added `footerLinksRegexes` setting for regex-matched link badges in the footer row…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.176: Added `footerLinksRegexes` setting for regex-matched link badges in the footer row, configurable via user or managed settings

@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 98f4a67ff8b727f5256ccc8d933bbd90511ec782c5ac507fdf2971a3e9926b5d
+machine_hash: 44c460fe8fa570fd352f053261ab72e2d65f64658e7aceb73c5895d46d5f6349
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       Code session on this machine to send one notice when it next goes idle — opt-in,
       one-shot, no polling (macOS and Linux)'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.236
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   source_release: claude-code-2026-08-19-v2-1-236-github-373272539-bbbacf79
   source_type: github_releases
   theme: mobile-desktop
-  title: 'Added `notify_when_idle` to cross-session `SendMessage`: ask another Claude
-    Code'
+  title: Added `notify_when_idle` to cross-session `SendMessage`
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-07-added-self-hosted-environments-claude-self-hosted-runner-turns-your-own-machines|claude-code-2026-08-07-27a4fb]]'
@@ -46,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-08-19-v2-1-236-github-373272539-bbbacf79|claude-code-2026-08-19-v2-1-236-github-373272539-bbbacf79]]'
 source_type: github_releases
 theme: mobile-desktop
-title: 'Added notify_when_idle to cross-session SendMessage: ask another Claude Code'
+title: Added notify_when_idle to cross-session SendMessage
 type: change
 ---
 
-# Added `notify_when_idle` to cross-session `SendMessage`: ask another Claude Code
+# Added `notify_when_idle` to cross-session `SendMessage`
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.236: Added `notify_when_idle` to cross-session `SendMessage`: ask another Claude Code session on this machine to send one notice when it next goes idle — opt-in, one-shot, no polling (macOS and Linux)

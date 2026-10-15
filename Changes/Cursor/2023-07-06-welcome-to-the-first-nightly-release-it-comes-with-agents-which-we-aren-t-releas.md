@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a09b2da7efa6b6131f4d8dc7083c962cfdef7d0da05108dc753214b3dceb4d4d
+machine_hash: 644f858a7c60403dce618e18e699dfba73c2b1ff8cbcb075c52821cfafbeb69a
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
       releasing to the general public yet because we aren't convinced that they are
       useful. If you like them, please let us know what you use them for!
     source_release: https://cursor.com/changelog/0-2-44-nightly
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,18 +37,16 @@ record:
   source_release: cursor-2023-07-06-0-2-44-nightly-https-cursor-com-changelog-0-2-44-nightly-3bedc80b
   source_type: cursor_changelog
   theme: agent-mode
-  title: Welcome to the first nightly release! It comes with agents, which we aren't
-    rele
+  title: Welcome to the first nightly release!
   type: change
 source_release: '[[Releases/Cursor/cursor-2023-07-06-0-2-44-nightly-https-cursor-com-changelog-0-2-44-nightly-3bedc80b|cursor-2023-07-06-0-2-44-nightly-https-cursor-com-changelog-0-2-44-nightly-3bedc80b]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: Welcome to the first nightly release! It comes with agents, which we aren't
-  rele
+title: Welcome to the first nightly release!
 type: change
 ---
 
-# Welcome to the first nightly release! It comes with agents, which we aren't rele
+# Welcome to the first nightly release!
 
 <!-- chronolog:begin region="description" -->
 Cursor — Agents, new docs: Welcome to the first nightly release! It comes with agents, which we aren't releasing to the general public yet because we aren't convinced that they are useful. If you like them, please let us know what you use them for!

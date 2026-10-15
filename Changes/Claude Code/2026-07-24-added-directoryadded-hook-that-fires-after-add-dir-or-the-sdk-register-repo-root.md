@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: f8cee95441acb91a25d88fa30e60673ad0bb920e521a48e2ab6d74661e802ac1
+machine_hash: fd382012f96cb7e0f3413639fac9465cb222e6be268d98a681e85986bba3651d
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,7 +29,7 @@ record:
   - quote: Added `DirectoryAdded` hook that fires after `/add-dir` or the SDK `register_repo_root`
       control request registers a new working directory mid-session
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.219
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -39,7 +39,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Added `DirectoryAdded` hook that fires after `/add-dir` or the SDK `register_rep
+  title: Added `DirectoryAdded` hook that fires after `/add-dir` or the SDK…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-07-17-we-also-refined-how-cursor-s-responses-look-in-slack-in-message-buttons-are-gone|cursor-2026-07-17-40bd59]]'
@@ -48,11 +48,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-24-v2-1-219-github-359412713-6c14d233|claude-code-2026-07-24-v2-1-219-github-359412713-6c14d233]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added DirectoryAdded hook that fires after /add-dir or the SDK register_rep
+title: Added DirectoryAdded hook that fires after /add-dir or the SDK…
 type: change
 ---
 
-# Added `DirectoryAdded` hook that fires after `/add-dir` or the SDK `register_rep
+# Added `DirectoryAdded` hook that fires after `/add-dir` or the SDK…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.219: Added `DirectoryAdded` hook that fires after `/add-dir` or the SDK `register_repo_root` control request registers a new working directory mid-session

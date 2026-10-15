@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 2b449758cfccc1e415179be49e8769a74513c8e6368a7eaf3d85d32b77ae8f4b
+machine_hash: a791a7621da006d3ea0756178a9e471b04389ea8fe9aa4155ce6087495b883e8
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Cursor for iPad is now available on all paid plans.
     source_release: https://cursor.com/changelog/ipad
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -33,7 +33,7 @@ record:
   source_release: cursor-2026-07-29-cursor-now-on-ipad-https-cursor-com-changelog-ipad-d2eeee4c
   source_type: cursor_changelog
   theme: mobile-desktop
-  title: Cursor for iPad is now available on all paid plans.
+  title: Cursor for iPad is now available on all paid plans
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-07-23-available-on-web-and-ios-health-lets-you-view-lab-results-medications-activity-s|chatgpt-2026-07-23-68a99e]]'
@@ -42,11 +42,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-07-29-cursor-now-on-ipad-https-cursor-com-changelog-ipad-d2eeee4c|cursor-2026-07-29-cursor-now-on-ipad-https-cursor-com-changelog-ipad-d2eeee4c]]'
 source_type: cursor_changelog
 theme: mobile-desktop
-title: Cursor for iPad is now available on all paid plans.
+title: Cursor for iPad is now available on all paid plans
 type: change
 ---
 
-# Cursor for iPad is now available on all paid plans.
+# Cursor for iPad is now available on all paid plans
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cursor, now on iPad: Cursor for iPad is now available on all paid plans.

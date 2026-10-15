@@ -11,9 +11,9 @@ diffusion:
   theme: automation-scheduling
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: d4c3a6f033334178092a2cfb83eaaab01ec1ed919d962dde6fc6a5a5e77404e8
+machine_hash: 664014284598c52e2a2ab2d090336a7c8117ae1ca9f011ce482751f8e87656d3
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: 'Automations now support five additional GitHub triggers:'
     source_release: https://cursor.com/changelog/06-18-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -35,7 +35,7 @@ record:
   source_release: cursor-2026-06-18-3-8-https-cursor-com-changelog-06-18-26-0b493e15
   source_type: cursor_changelog
   theme: automation-scheduling
-  title: 'Automations now support five additional GitHub triggers:'
+  title: Automations now support five additional GitHub triggers
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-06-18-cursor-automations-save-you-time-by-automating-repetitive-tasks-with-always-on-a|cursor-2026-06-18-3d4d12]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-06-18-3-8-https-cursor-com-changelog-06-18-26-0b493e15|cursor-2026-06-18-3-8-https-cursor-com-changelog-06-18-26-0b493e15]]'
 source_type: cursor_changelog
 theme: automation-scheduling
-title: 'Automations now support five additional GitHub triggers:'
+title: Automations now support five additional GitHub triggers
 type: change
 ---
 
-# Automations now support five additional GitHub triggers:
+# Automations now support five additional GitHub triggers
 
 <!-- chronolog:begin region="description" -->
 Cursor — Improvements to Cursor Automations: Automations now support five additional GitHub triggers:

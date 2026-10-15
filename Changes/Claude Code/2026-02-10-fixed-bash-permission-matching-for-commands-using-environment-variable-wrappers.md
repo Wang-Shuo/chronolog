@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 18131f59b04d2a90ee1a346d9fc89c25343ecb9b4b7fd4c9f287e1a412352109
+machine_hash: cab05f5d5b3a58b0be410f9b4e284157b978cbcebca81ad863934eb73d37bd41
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Fixed bash permission matching for commands using environment variable
       wrappers
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.38
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

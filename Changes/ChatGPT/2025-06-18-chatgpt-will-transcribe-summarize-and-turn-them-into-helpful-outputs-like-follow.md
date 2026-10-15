@@ -11,9 +11,9 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 52c057d2b2e953a64e272ce5cc749d20c9823ade6f9f66c7df8c97b72105c5aa
+machine_hash: 942c410a4ece2f7554be66d2e171e6c5bb0657b3f5993f97fefb905cbcc673d2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   - quote: ChatGPT will transcribe, summarize, and turn them into helpful outputs
       like follow-ups, plans, or even code.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -36,8 +36,7 @@ record:
   theme: voice
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: ChatGPT will transcribe, summarize, and turn them into helpful outputs like
-    foll
+  title: ChatGPT will transcribe, summarize, and turn them into helpful outputs like…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-06-07-we-re-upgrading-advanced-voice-in-chatgpt-for-paid-users-with-significant-enhanc-ad0b3e|chatgpt-2025-06-07-ad0b3e]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-18-chatgpt-record-mode-f7984257|chatgpt-2025-06-18-chatgpt-record-mode-f7984257]]'
 source_type: chatgpt_changelog
 theme: voice
-title: ChatGPT will transcribe, summarize, and turn them into helpful outputs like
-  foll
+title: ChatGPT will transcribe, summarize, and turn them into helpful outputs like…
 type: change
 ---
 
-# ChatGPT will transcribe, summarize, and turn them into helpful outputs like foll
+# ChatGPT will transcribe, summarize, and turn them into helpful outputs like…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT record mode: ChatGPT will transcribe, summarize, and turn them into helpful outputs like follow-ups, plans, or even code.

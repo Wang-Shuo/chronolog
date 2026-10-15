@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 860e5da41ad70d1feb3203fda9b815d2e73f0afae65b6040b807adbb4f7d2a49
+machine_hash: c983f8fe2230ceef890b74d678139170a097d8a2df3101c828b79573f3aeeaaa
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
       responses can now include a table of contents, so you can scan sections and
       jump to the part you need.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -38,8 +38,7 @@ record:
   theme: interface-experience
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: 'Table of contents in longer conversations: Conversations longer than five
-    respon'
+  title: Table of contents in longer conversations
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-03-clicking-a-slash-command-in-the-autocomplete-menu-now-fills-it-into-your-prompt|claude-code-2026-06-03-92aa13]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
 theme: interface-experience
-title: 'Table of contents in longer conversations: Conversations longer than five
-  respon'
+title: Table of contents in longer conversations
 type: change
 ---
 
-# Table of contents in longer conversations: Conversations longer than five respon
+# Table of contents in longer conversations
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT app experience updates: Table of contents in longer conversations: Conversations longer than five responses can now include a table of contents, so you can scan sections and jump to the part you need.

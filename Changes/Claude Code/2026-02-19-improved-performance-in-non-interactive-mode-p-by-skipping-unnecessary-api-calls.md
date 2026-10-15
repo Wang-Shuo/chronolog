@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1ed7814637eef48b4a84b52d81195f77d6c1b745e74b862e9782f88e3bb3f185
+machine_hash: fb3c405135d646efc89d3742830959bf873349cc790df6d2575d30680dcfd522
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Improved performance in non-interactive mode (`-p`) by skipping unnecessary
       API calls during startup
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.49
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,7 +35,7 @@ record:
   source_type: github_releases
   theme: reliability-performance
   title: Improved performance in non-interactive mode (`-p`) by skipping unnecessary
-    API
+    API…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-18-improved-startup-performance-by-deferring-sessionstart-hook-execution-reducing-t|claude-code-2026-02-18-91c0ec]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-02-19-v2-1-49-github-288498923-7c27a140|claude-code-2026-02-19-v2-1-49-github-288498923-7c27a140]]'
 source_type: github_releases
 theme: reliability-performance
-title: Improved performance in non-interactive mode (-p) by skipping unnecessary API
+title: Improved performance in non-interactive mode (-p) by skipping unnecessary API…
 type: change
 ---
 
-# Improved performance in non-interactive mode (`-p`) by skipping unnecessary API
+# Improved performance in non-interactive mode (`-p`) by skipping unnecessary API…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.49: Improved performance in non-interactive mode (`-p`) by skipping unnecessary API calls during startup

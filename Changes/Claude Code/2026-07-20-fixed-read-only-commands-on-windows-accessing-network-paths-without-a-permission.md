@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 09f398b56e8504b52b5a08cd35e344bebab73dd5224995e7531a13071905495a
+machine_hash: 65b1161c69c1039e095b6df47bf87b29bf18e60a4520c13664b881ccbe231361
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Fixed read-only commands on Windows accessing network paths without a permission
       prompt
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.216
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,6 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: Fixed read-only commands on Windows accessing network paths without a permission
+    prompt
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-18-fixed-bash-permission-checks-to-fail-closed-on-file-descriptor-redirect-forms-th|claude-code-2026-07-18-e06205]]'
@@ -46,10 +47,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-07-20-v2-1-216-github-3
 source_type: github_releases
 theme: safety-privacy
 title: Fixed read-only commands on Windows accessing network paths without a permission
+  prompt
 type: change
 ---
 
-# Fixed read-only commands on Windows accessing network paths without a permission
+# Fixed read-only commands on Windows accessing network paths without a permission prompt
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.216: Fixed read-only commands on Windows accessing network paths without a permission prompt

@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 579814b8aae958e879a831807d0d2dbfac767768aa8047c9dd9a840e7f034b33
+machine_hash: b1f82866337137dfb3a485a5968c398e5343da724aba7555156f43b8a2218bd5
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       whose only egress is a forward proxy: every outbound request hands the proxy
       the hostname instead of resolving it locally'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.277
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   source_type: github_releases
   theme: apps-integrations
   title: Added `CLAUDE_GATEWAY_PROXY_IS_EGRESS_BOUNDARY=1` for Claude apps gateways
-    whose
+    whose…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-17-added-store-connect-timeout-seconds-to-the-claude-apps-gateway-config-to-lengthe|claude-code-2026-09-17-494f3b]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-18-v2-1-277-github-391616593-06a20f36|claude-code-2026-09-18-v2-1-277-github-391616593-06a20f36]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added CLAUDE_GATEWAY_PROXY_IS_EGRESS_BOUNDARY=1 for Claude apps gateways whose
+title: Added CLAUDE_GATEWAY_PROXY_IS_EGRESS_BOUNDARY=1 for Claude apps gateways whose…
 type: change
 ---
 
-# Added `CLAUDE_GATEWAY_PROXY_IS_EGRESS_BOUNDARY=1` for Claude apps gateways whose
+# Added `CLAUDE_GATEWAY_PROXY_IS_EGRESS_BOUNDARY=1` for Claude apps gateways whose…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.277: Added `CLAUDE_GATEWAY_PROXY_IS_EGRESS_BOUNDARY=1` for Claude apps gateways whose only egress is a forward proxy: every outbound request hands the proxy the hostname instead of resolving it locally

@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 514eb19841e622a973ab2fa3d717d4384e6ca7e22b8a4d50652f4eb18e4069b3
+machine_hash: 4a96314f4cc4a7ae557e7d5782c77f2b974afd28265f165f62187e6e4627bdef
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: 'Added to `claude plugin validate`: each hook a mod registers at a gating
       site is listed with whether it has a `.catch` (`gatingHooks` under `--json`)'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.290
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,8 +35,7 @@ record:
   source_release: claude-code-2026-10-05-v2-1-290-github-403993621-ae06f2b6
   source_type: github_releases
   theme: apps-integrations
-  title: 'Added to `claude plugin validate`: each hook a mod registers at a gating
-    site is'
+  title: Added to `claude plugin validate`
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-10-03-added-agent-spawn-for-teammates-one-agent-id-across-plugin-hook-events-and-idle|claude-code-2026-10-03-933a7b]]'
@@ -45,12 +44,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-10-05-v2-1-290-github-403993621-ae06f2b6|claude-code-2026-10-05-v2-1-290-github-403993621-ae06f2b6]]'
 source_type: github_releases
 theme: apps-integrations
-title: 'Added to claude plugin validate: each hook a mod registers at a gating site
-  is'
+title: Added to claude plugin validate
 type: change
 ---
 
-# Added to `claude plugin validate`: each hook a mod registers at a gating site is
+# Added to `claude plugin validate`
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.290: Added to `claude plugin validate`: each hook a mod registers at a gating site is listed with whether it has a `.catch` (`gatingHooks` under `--json`)

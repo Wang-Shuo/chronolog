@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f144165cbe9033ad21cdf6765e7a8add6d8a3a9737cbe47d7c349c85e0880ddc
+machine_hash: 0459e742258b8c9e7363dab4e7b42d9effaa5ce8c155ec354fbf3d0a3916158e
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `/config --help` to list all available shorthand keys for `/config
       key=value`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.183
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: Added `/config --help` to list all available shorthand keys for `/config
-    key=val
+    key=value`
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-06-17-a-new-scheduled-page-discoverable-in-the-sidebar-gives-users-one-place-to-view-a|chatgpt-2026-06-17-a1660a]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-19-v2-1-183-github-341696059-98586912|claude-code-2026-06-19-v2-1-183-github-341696059-98586912]]'
 source_type: github_releases
 theme: interface-experience
-title: Added /config --help to list all available shorthand keys for /config key=val
+title: Added /config --help to list all available shorthand keys for /config key=value
 type: change
 ---
 
-# Added `/config --help` to list all available shorthand keys for `/config key=val
+# Added `/config --help` to list all available shorthand keys for `/config key=value`
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.183: Added `/config --help` to list all available shorthand keys for `/config key=value`

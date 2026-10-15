@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: b543886a1a325e139efd0b61b4c07995c0807aa0b683d2343b9440a9211d772b
+machine_hash: 3850dd62909bc83c2b5b13057f560819d3650820b537df63f06b3599a78710ae
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: The Reviews tab now shows inline review threads and top-level PR comments.
     source_release: https://cursor.com/changelog/05-07-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -33,7 +33,7 @@ record:
   source_release: cursor-2026-05-07-3-3-https-cursor-com-changelog-05-07-26-9d8a16d3
   source_type: cursor_changelog
   theme: editor-experience
-  title: The Reviews tab now shows inline review threads and top-level PR comments.
+  title: The Reviews tab now shows inline review threads and top-level PR comments
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-23-config-settings-theme-editor-mode-verbose-etc-now-persist-to-claude-settings-jso|claude-code-2026-04-23-774df5]]'
@@ -42,11 +42,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-05-07-3-3-https-cursor-com-changelog-05-07-26-9d8a16d3|cursor-2026-05-07-3-3-https-cursor-com-changelog-05-07-26-9d8a16d3]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: The Reviews tab now shows inline review threads and top-level PR comments.
+title: The Reviews tab now shows inline review threads and top-level PR comments
 type: change
 ---
 
-# The Reviews tab now shows inline review threads and top-level PR comments.
+# The Reviews tab now shows inline review threads and top-level PR comments
 
 <!-- chronolog:begin region="description" -->
 Cursor — PR Review, Build Plan in Parallel, and Split PRs: The Reviews tab now shows inline review threads and top-level PR comments.

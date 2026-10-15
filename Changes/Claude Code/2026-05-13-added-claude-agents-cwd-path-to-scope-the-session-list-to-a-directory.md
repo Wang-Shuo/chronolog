@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: dc18bf393601131211ad6f3b50462042eb8944994a79fdb4fd27350056063f04
+machine_hash: 145d830cea7cd802b21489ac89737dff7a32338fe178e6b07c3fbdc446c473d2
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Added `claude agents --cwd <path>` to scope the session list to a directory
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.141
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

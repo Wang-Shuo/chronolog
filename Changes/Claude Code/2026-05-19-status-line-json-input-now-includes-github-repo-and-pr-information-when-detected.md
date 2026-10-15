@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ae7991b3334f894b6ee7ec843fb7a25da9d20228f68fca7f10e324d17e679069
+machine_hash: 09d6a2722317d4340523f340d35cab938ea2b4921a119b9a6ed812cba9c128a0
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Status line JSON input now includes GitHub repo and PR information when
       detected
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.145
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

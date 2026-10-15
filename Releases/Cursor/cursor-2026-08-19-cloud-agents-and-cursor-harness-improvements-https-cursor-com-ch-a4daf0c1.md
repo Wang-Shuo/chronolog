@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2026-08-19'
-machine_hash: 0de72fef3e4f4f082e66db104fdf877d69d1ef8c0a751a36d00ba5d5c083a592
+machine_hash: ab88dd9ed6b90bbd41969bb3a8323d4ee51781e5faefbee9e8ea3b4a1158af8d
 product: cursor
 product_name: Cursor
 record:
@@ -40,9 +40,9 @@ Tracked cards: 5
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- agent-mode: [[Changes/Cursor/2026-08-19-with-this-release-cloud-agents-can-automatically-pick-up-work-in-response-to-eve|With this release, cloud agents can automatically pick up work in response to ev]]
-- agent-mode: [[Changes/Cursor/2026-08-19-use-any-skill-as-a-custom-mode-a-skill-that-stays-pinned-in-the-chat-custom-mode|Use any skill as a Custom Mode: a skill that stays pinned in the chat. Custom mo]]
-- apps-integrations: [[Changes/Cursor/2026-08-19-cloud-agents-automatically-subscribe-to-prs-they-create-and-drive-them-to-comple|Cloud agents automatically subscribe to PRs they create and drive them to comple]]
-- agent-mode: [[Changes/Cursor/2026-08-19-cursor-can-now-monitor-your-prs-watch-a-slack-thread-or-run-scheduled-tasks-curs|Cursor can now monitor your PRs, watch a Slack thread, or run scheduled tasks. C]]
-- agent-mode: [[Changes/Cursor/2026-08-19-we-re-continuing-to-improve-cloud-agents-and-the-cursor-harness-so-always-on-age|We're continuing to improve cloud agents and the Cursor harness so always-on age]]
+- agent-mode: [[Changes/Cursor/2026-08-19-with-this-release-cloud-agents-can-automatically-pick-up-work-in-response-to-eve|With this release, cloud agents can automatically pick up work in response…]]
+- agent-mode: [[Changes/Cursor/2026-08-19-use-any-skill-as-a-custom-mode-a-skill-that-stays-pinned-in-the-chat-custom-mode|Use any skill as a Custom Mode: a skill that stays pinned in the chat]]
+- apps-integrations: [[Changes/Cursor/2026-08-19-cloud-agents-automatically-subscribe-to-prs-they-create-and-drive-them-to-comple|Cloud agents automatically subscribe to PRs they create and drive them…]]
+- agent-mode: [[Changes/Cursor/2026-08-19-cursor-can-now-monitor-your-prs-watch-a-slack-thread-or-run-scheduled-tasks-curs|Cursor can now monitor your PRs, watch a Slack thread, or run scheduled tasks]]
+- agent-mode: [[Changes/Cursor/2026-08-19-we-re-continuing-to-improve-cloud-agents-and-the-cursor-harness-so-always-on-age|We're continuing to improve cloud agents and the Cursor harness so always-on agents…]]
 <!-- chronolog:end -->

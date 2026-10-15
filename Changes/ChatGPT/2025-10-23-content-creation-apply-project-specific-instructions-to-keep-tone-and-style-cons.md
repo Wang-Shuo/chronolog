@@ -11,9 +11,9 @@ diffusion:
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: dffb0b60f79a2a2e4ff318a560191874cac1191eee2cfa189d0780de767095cf
+machine_hash: e64add24b9258adf39648d3ee077da73731a624445bc67f828dce145764b402b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   - quote: 'Content creation: Apply project-specific instructions to keep tone and
       style consistent across contributors.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -36,8 +36,7 @@ record:
   theme: collaboration
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: 'Content creation: Apply project-specific instructions to keep tone and style
-    con'
+  title: 'Content creation: Apply project-specific instructions to keep tone and style…'
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-06-12-starting-today-we-re-adding-several-updates-to-projects-in-chatgpt-to-help-you-d|chatgpt-2025-06-12-a56e91]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-23-shared-projects-217fa07d|chatgpt-2025-10-23-shared-projects-217fa07d]]'
 source_type: chatgpt_changelog
 theme: collaboration
-title: 'Content creation: Apply project-specific instructions to keep tone and style
-  con'
+title: 'Content creation: Apply project-specific instructions to keep tone and style…'
 type: change
 ---
 
-# Content creation: Apply project-specific instructions to keep tone and style con
+# Content creation: Apply project-specific instructions to keep tone and style…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Shared projects: Content creation: Apply project-specific instructions to keep tone and style consistent across contributors.

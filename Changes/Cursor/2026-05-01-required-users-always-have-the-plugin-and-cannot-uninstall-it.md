@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1757837ffd6fe58aec18f6e1597db68620a3d2d7b66751f68fa30b05201120f7
+machine_hash: da6c57fcdadd968443b77943ae54370d612fdbe53d1922fb4dcf7d57428ac27b
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: 'Required: users always have the plugin and cannot uninstall it'
     source_release: https://cursor.com/changelog/05-01-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

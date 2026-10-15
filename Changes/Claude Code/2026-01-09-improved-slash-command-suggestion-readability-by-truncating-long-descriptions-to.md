@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f0997fcf3e5968d0da06b8c2e35490697d8c205ba1606fb97253b66ad047f93e
+machine_hash: 516e61a6f7383219233b6437b68af71799596f0c9b448ec3276a908601ac33d8
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Improved slash command suggestion readability by truncating long descriptions
       to 2 lines
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.3
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: Improved slash command suggestion readability by truncating long descriptions
-    to
+    to 2 lines
   type: change
 related_changes:
 - '[[Changes/Claude Code/2025-12-19-added-lsp-language-server-protocol-tool-for-code-intelligence-features-like-go-t|claude-code-2025-12-19-4cdc72]]'
@@ -47,11 +47,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-01-09-v2-1-3-github-275
 source_type: github_releases
 theme: developer-workflow
 title: Improved slash command suggestion readability by truncating long descriptions
-  to
+  to 2 lines
 type: change
 ---
 
-# Improved slash command suggestion readability by truncating long descriptions to
+# Improved slash command suggestion readability by truncating long descriptions to 2 lines
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.3: Improved slash command suggestion readability by truncating long descriptions to 2 lines

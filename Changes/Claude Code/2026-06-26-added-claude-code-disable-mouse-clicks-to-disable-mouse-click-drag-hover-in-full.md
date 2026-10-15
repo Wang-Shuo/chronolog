@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ec76b1b82c7eb090642363a6ccf7fd11aac3cdd32772c97b9aa0f80976049fda
+machine_hash: 09ad9d1d8ee43304c3d26bfd13ceb8e348472bc68fb990152210534e60e8b845
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `CLAUDE_CODE_DISABLE_MOUSE_CLICKS` to disable mouse click/drag/hover
       in fullscreen mode while keeping wheel scroll
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.195
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -34,8 +34,7 @@ record:
   source_release: claude-code-2026-06-26-v2-1-195-github-345467919-2d39e460
   source_type: github_releases
   theme: interface-experience
-  title: Added `CLAUDE_CODE_DISABLE_MOUSE_CLICKS` to disable mouse click/drag/hover
-    in fu
+  title: Added `CLAUDE_CODE_DISABLE_MOUSE_CLICKS` to disable mouse click/drag/hover…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-19-changed-config-toggle-behavior-enter-and-space-both-change-the-selected-setting|claude-code-2026-06-19-fd6838]]'
@@ -44,12 +43,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-26-v2-1-195-github-345467919-2d39e460|claude-code-2026-06-26-v2-1-195-github-345467919-2d39e460]]'
 source_type: github_releases
 theme: interface-experience
-title: Added CLAUDE_CODE_DISABLE_MOUSE_CLICKS to disable mouse click/drag/hover in
-  fu
+title: Added CLAUDE_CODE_DISABLE_MOUSE_CLICKS to disable mouse click/drag/hover…
 type: change
 ---
 
-# Added `CLAUDE_CODE_DISABLE_MOUSE_CLICKS` to disable mouse click/drag/hover in fu
+# Added `CLAUDE_CODE_DISABLE_MOUSE_CLICKS` to disable mouse click/drag/hover…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.195: Added `CLAUDE_CODE_DISABLE_MOUSE_CLICKS` to disable mouse click/drag/hover in fullscreen mode while keeping wheel scroll

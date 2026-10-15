@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: cffa1960f64d869eed1c36acf8b73b7e4272cd95245217d56cfb8827b884d8e5
+machine_hash: 949b71b8214c338308fa2d5f1b880f64d104d8ac7881a96252f7aa6b240533bf
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,7 +24,7 @@ record:
   evidence:
   - quote: Be more or less enthusiastic
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT

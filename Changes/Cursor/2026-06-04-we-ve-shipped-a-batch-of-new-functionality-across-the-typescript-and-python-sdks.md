@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 60441e7a33c4258a427da5a66e0e432d15183f75b0fe11512dc815dad8708c6e
+machine_hash: cd3bdf026f3e3ac6736879c97e0ad36a2bf3725529af9eec5cc01efb33a351b0
 product: cursor
 product_name: Cursor
 record:
@@ -37,7 +37,7 @@ record:
       performance, and platform fixes that make local and cloud SDK agents easier
       to run in production scripts, CI, and custom integrations.
     source_release: https://cursor.com/changelog/sdk-updates-jun-2026
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor

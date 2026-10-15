@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8711c4f832ed61f0c41ffd3420bd07f7d7936de6ff7c502543f0cdb7c056e7ba
+machine_hash: c094dcc0903460fccc752468cbbe2a283c063a5ba9426e8f465c90a0f104b67a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
       along with tuning characteristics like warmth and emoji use, within the Personalization
       menu in settings.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -56,8 +56,7 @@ record:
     score: 50
     theme: interface-experience
   theme_resolution: manual-semantic-rule-v2
-  title: We’re updating GPT-5.2 Instant’s default personality to be more conversational
-    a
+  title: We’re updating GPT-5.2 Instant’s default personality to be more conversational…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-09-merged-slash-commands-and-skills-simplifying-the-mental-model-with-no-change-in|claude-code-2026-01-09-0a1bac]]'
@@ -66,12 +65,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-01-22-5-2-personality-system-prompt-update-efbe6e4b|chatgpt-2026-01-22-5-2-personality-system-prompt-update-efbe6e4b]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: We’re updating GPT-5.2 Instant’s default personality to be more conversational
-  a
+title: We’re updating GPT-5.2 Instant’s default personality to be more conversational…
 type: change
 ---
 
-# We’re updating GPT-5.2 Instant’s default personality to be more conversational a
+# We’re updating GPT-5.2 Instant’s default personality to be more conversational…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — 5.2 Personality System Prompt Update: We’re updating GPT-5.2 Instant’s default personality to be more conversational and better at adapting its tone contextually, making exchanges feel smoother and more natural. You can still select a different base style and tone for ChatGPT, along with tuning characteristics like warmth and emoji use, within the Personalization menu in settings.

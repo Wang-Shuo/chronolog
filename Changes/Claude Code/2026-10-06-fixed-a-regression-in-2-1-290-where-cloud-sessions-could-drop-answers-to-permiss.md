@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 24e2dbc9b0571a7a8e6199830b986908448a4c4fa74f797aa59e39d384b7a37e
+machine_hash: 9d4112693aefb40dc5c8277bc7a3ecb56cbb4329c04af1549168df5df96213d7
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Fixed a regression in 2.1.290 where cloud sessions could drop answers to
       permission prompts
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.291
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: Fixed a regression in 2.1.290 where cloud sessions could drop answers to
-    permiss
+    permission…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-09-25-to-view-your-history-in-chatgpt-on-the-web-go-to-settings-security-and-login-the|chatgpt-2026-09-25-5908d0]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-10-06-v2-1-291-github-404281867-6120dc4f|claude-code-2026-10-06-v2-1-291-github-404281867-6120dc4f]]'
 source_type: github_releases
 theme: safety-privacy
-title: Fixed a regression in 2.1.290 where cloud sessions could drop answers to permiss
+title: Fixed a regression in 2.1.290 where cloud sessions could drop answers to permission…
 type: change
 ---
 
-# Fixed a regression in 2.1.290 where cloud sessions could drop answers to permiss
+# Fixed a regression in 2.1.290 where cloud sessions could drop answers to permission…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.291: Fixed a regression in 2.1.290 where cloud sessions could drop answers to permission prompts

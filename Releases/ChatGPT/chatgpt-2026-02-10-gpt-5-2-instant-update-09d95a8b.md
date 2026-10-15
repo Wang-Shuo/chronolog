@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-02-10'
-machine_hash: 439a76774630cb9e1bdd364c11733e6c7f33c17a67b108e5839f221bb047bcb9
+machine_hash: 9f3513227da23a80e9d63c96bbe265d48fab0345ff8ba50c149dca0e2c62cf61
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2026-02-10-we-re-making-an-update-to-gpt-5-2-instant-in-chatgpt-and-the-api-that-improves-r|We’re making an update to GPT-5.2 Instant in ChatGPT and the API that improves r]]
+- model-support: [[Changes/ChatGPT/2026-02-10-we-re-making-an-update-to-gpt-5-2-instant-in-chatgpt-and-the-api-that-improves-r|We’re making an update to GPT-5.2 Instant in ChatGPT and the API that improves…]]
 <!-- chronolog:end -->

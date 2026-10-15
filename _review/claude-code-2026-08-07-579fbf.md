@@ -1,6 +1,6 @@
 ---
 draft: true
-machine_hash: 9ce1028d0bbf5123fd546556b55b757e5f15f3bae2342bde6a0653d20a36ec64
+machine_hash: 080f6fb898a7abc924c373bbcea4e91e3b274b7f669bf342c55fb2514ac9b10b
 product: claude-code
 record:
   card_id: claude-code-2026-08-07-579fbf
@@ -13,7 +13,7 @@ record:
   - quote: Added `ANTHROPIC_BEDROCK_REGION_PREFIX` env var for Bedrock to prefer a
       specific cross-region inference profile over the `AWS_REGION`-derived one
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.224
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -24,7 +24,7 @@ record:
   theme_matches: []
   theme_review_reason: no_match
   theme_suggestion: added-anthropic-bedrock
-  title: Added `ANTHROPIC_BEDROCK_REGION_PREFIX` env var for Bedrock to prefer a specific
+  title: Added `ANTHROPIC_BEDROCK_REGION_PREFIX` env var for Bedrock to prefer a specific…
   type: change
 ---
 

@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: effecf59db6af20845f1b92478dc84bb73fc955ab5903b4df80a7eff613c839a
+machine_hash: 61c35364ce647c5bc20a802af252d9167fc36f6116c41fdf57264abf4c94d48c
 product: cursor
 product_name: Cursor
 record:
@@ -31,7 +31,7 @@ record:
       can iterate over long time horizons until outputs are verified. This benefits
       your entire team when committed to .cursor/environment.json.
     source_release: https://cursor.com/changelog/cloud-in-agents-window
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -54,7 +54,7 @@ record:
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v1
   title: Your environment is captured in a reusable snapshot, so future cloud agents
-    star
+    start up…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-06-17-with-scheduled-tasks-users-can-ask-chatgpt-to-send-reminders-handle-recurring-wo|chatgpt-2026-06-17-09675e]]'
@@ -64,11 +64,11 @@ source_release: '[[Releases/Cursor/cursor-2026-06-17-3-7-https-cursor-com-change
 source_type: cursor_changelog
 theme: reliability-performance
 title: Your environment is captured in a reusable snapshot, so future cloud agents
-  star
+  start up…
 type: change
 ---
 
-# Your environment is captured in a reusable snapshot, so future cloud agents star
+# Your environment is captured in a reusable snapshot, so future cloud agents start up…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cloud Environment Setup and Cloud Subagents in Agents Window: Your environment is captured in a reusable snapshot, so future cloud agents start up faster with the ability to test changes by running your software. It can iterate over long time horizons until outputs are verified. This benefits your entire team when committed to .cursor/environment.json.

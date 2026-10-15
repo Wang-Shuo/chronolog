@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 40ba4cd9a016a4295ca30aa758d7cf7d9c51ecb2eb842936d1e99a9c3b0e9536
+machine_hash: f7ccde8fe0b4a542f2b698e5d9b39f5ede4d52c84c6b4723adc7a9153b60401d
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: 'Default: Bugbot continues to use the same effort level as it does today.
       Optimized for efficiency and speed.'
     source_release: https://cursor.com/changelog/05-11-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -34,8 +34,7 @@ record:
   source_release: cursor-2026-05-11-bugbot-effort-levels-https-cursor-com-changelog-05-11-26-b41d8617
   source_type: cursor_changelog
   theme: reliability-performance
-  title: 'Default: Bugbot continues to use the same effort level as it does today.
-    Optimiz'
+  title: 'Default: Bugbot continues to use the same effort level as it does today'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-13-improved-stalled-api-stream-handling-streams-now-abort-after-5-minutes-of-no-dat|claude-code-2026-04-13-c9394b]]'
@@ -44,11 +43,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-05-11-bugbot-effort-levels-https-cursor-com-changelog-05-11-26-b41d8617|cursor-2026-05-11-bugbot-effort-levels-https-cursor-com-changelog-05-11-26-b41d8617]]'
 source_type: cursor_changelog
 theme: reliability-performance
-title: 'Default: Bugbot continues to use the same effort level as it does today. Optimiz'
+title: 'Default: Bugbot continues to use the same effort level as it does today'
 type: change
 ---
 
-# Default: Bugbot continues to use the same effort level as it does today. Optimiz
+# Default: Bugbot continues to use the same effort level as it does today
 
 <!-- chronolog:begin region="description" -->
 Cursor — Bugbot Effort Levels: Default: Bugbot continues to use the same effort level as it does today. Optimized for efficiency and speed.

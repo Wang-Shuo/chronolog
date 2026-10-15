@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 6e7a63d60339bb97e1b1b8107825d0391abb6c43956df50bbd5641c53205dc1c
+machine_hash: 8b979af939775aab1504c7a8ef3adba9e2af17175be761adc39463875d943f1f
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       sessions start on, while a `/model` pick still overrides it and persists across
       restarts (unlike `ANTHROPIC_MODEL`)'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.236
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -38,8 +38,7 @@ record:
   source_release: claude-code-2026-08-19-v2-1-236-github-373272539-bbbacf79
   source_type: github_releases
   theme: model-support
-  title: 'Added `ANTHROPIC_DEFAULT_MODEL` environment variable: sets the model new
-    session'
+  title: Added `ANTHROPIC_DEFAULT_MODEL` environment variable
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-04-improved-the-refusal-when-claude-tries-to-invoke-a-skill-with-disable-model-invo|claude-code-2026-08-04-c4013a]]'
@@ -48,11 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-08-19-v2-1-236-github-373272539-bbbacf79|claude-code-2026-08-19-v2-1-236-github-373272539-bbbacf79]]'
 source_type: github_releases
 theme: model-support
-title: 'Added ANTHROPIC_DEFAULT_MODEL environment variable: sets the model new session'
+title: Added ANTHROPIC_DEFAULT_MODEL environment variable
 type: change
 ---
 
-# Added `ANTHROPIC_DEFAULT_MODEL` environment variable: sets the model new session
+# Added `ANTHROPIC_DEFAULT_MODEL` environment variable
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.236: Added `ANTHROPIC_DEFAULT_MODEL` environment variable: sets the model new sessions start on, while a `/model` pick still overrides it and persists across restarts (unlike `ANTHROPIC_MODEL`)

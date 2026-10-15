@@ -11,9 +11,9 @@ diffusion:
   theme: accessibility-localization
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e4d099280e2e2b6438632324475e4e2a97c13056459cd6915e2f73f999fba998
+machine_hash: f93d0610f4399ef9f92738a6526c77210a9d8c4ddfd5bedc6f77bfe16163dfc3
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       users. Run `claude --ax-screen-reader`, set CLAUDE_AX_SCREEN_READER=1, or add
       "axScreenReader": true to settings.'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.208
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   source_type: github_releases
   theme: accessibility-localization
   title: 'Added screen reader mode: opt-in plain-text rendering for screen reader
-    users. R'
+    users'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-04-added-support-for-full-width-zenkaku-space-input-from-japanese-ime-in-checkbox-s|claude-code-2026-02-04-0a49b9]]'
@@ -46,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-14-v2-1-208-github-353442054-2756b984|claude-code-2026-07-14-v2-1-208-github-353442054-2756b984]]'
 source_type: github_releases
 theme: accessibility-localization
-title: 'Added screen reader mode: opt-in plain-text rendering for screen reader users.
-  R'
+title: 'Added screen reader mode: opt-in plain-text rendering for screen reader users'
 type: change
 ---
 
-# Added screen reader mode: opt-in plain-text rendering for screen reader users. R
+# Added screen reader mode: opt-in plain-text rendering for screen reader users
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.208: Added screen reader mode: opt-in plain-text rendering for screen reader users. Run `claude --ax-screen-reader`, set CLAUDE_AX_SCREEN_READER=1, or add "axScreenReader": true to settings.

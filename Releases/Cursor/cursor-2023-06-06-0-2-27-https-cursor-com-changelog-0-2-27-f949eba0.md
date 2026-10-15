@@ -1,7 +1,7 @@
 ---
 changes_count: 4
 date: '2023-06-06'
-machine_hash: 7a4c4657e9e44879875c70a953016236610c1c6a4f701854c0fb24065309f857
+machine_hash: 2702338651e2058540740d27be17d62cb60cb1b79395b7eca3f42b580d6ca821
 product: cursor
 product_name: Cursor
 record:
@@ -39,7 +39,7 @@ Tracked cards: 4
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
 - account-access: [[Changes/Cursor/2023-06-06-login-via-github-then-add-the-repo-you-wish-to-sync|Login via github, then add the repo you wish to sync!]]
-- context-window: [[Changes/Cursor/2023-06-06-we-ve-improved-codebase-context|We've improved codebase context!]]
-- editor-experience: [[Changes/Cursor/2023-06-06-in-order-to-take-full-advantage-navigate-to-settings-top-right-button-then-sync|In order to take full advantage, navigate to Settings (top right button), then "]]
-- context-window: [[Changes/Cursor/2023-06-06-following-this-you-ll-be-able-to-see-an-improved-version-of-codebase-context-in|Following this, you'll be able to see an improved version of codebase context in]]
+- context-window: [[Changes/Cursor/2023-06-06-we-ve-improved-codebase-context|Cursor improves codebase context!]]
+- editor-experience: [[Changes/Cursor/2023-06-06-in-order-to-take-full-advantage-navigate-to-settings-top-right-button-then-sync|In order to take full advantage, navigate to Settings (top right button), then…]]
+- context-window: [[Changes/Cursor/2023-06-06-following-this-you-ll-be-able-to-see-an-improved-version-of-codebase-context-in|Following this, you'll be able to see an improved version of codebase context…]]
 <!-- chronolog:end -->

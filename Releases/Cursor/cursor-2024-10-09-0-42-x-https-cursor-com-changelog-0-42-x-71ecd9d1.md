@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2024-10-09'
-machine_hash: d32f0faea8008831c3dde9ed1a10f6dc1dc15301ca8423bda6c2d4f9fbfcd306
+machine_hash: 81c8a5dcbbd2114fbadf62d361a99a30b6a172ecc601a286d7287cb2eba6b665
 product: cursor
 product_name: Cursor
 record:
@@ -39,9 +39,9 @@ Tracked cards: 5
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- developer-workflow: [[Changes/Cursor/2024-10-09-we-have-made-slight-improvements-to-debug-with-ai-and-added-back-lint-errors-in|We have made slight improvements to Debug with AI and added back @Lint Errors in]]
-- editor-experience: [[Changes/Cursor/2024-10-09-python-auto-import-for-cursor-tab-is-much-more-stable-in-this-release|Python auto import for Cursor Tab is much more stable in this release.]]
-- projects-workspaces: [[Changes/Cursor/2024-10-09-composer-history-lets-you-access-previous-composer-sessions-after-restart-you-ca|Composer history lets you access previous composer sessions after restart. You c]]
-- model-support: [[Changes/Cursor/2024-10-09-switching-models-is-a-lot-easier-with-model-search-cmd-option-in-the-chat-compos|Switching models is a lot easier with model search (Cmd-option-/) in the chat, c]]
-- editor-experience: [[Changes/Cursor/2024-10-09-vs-code-1-93-1-cursor-is-now-based-on-vs-code-1-93-1|VS Code 1.93.1: Cursor is now based on VS Code 1.93.1.]]
+- developer-workflow: [[Changes/Cursor/2024-10-09-we-have-made-slight-improvements-to-debug-with-ai-and-added-back-lint-errors-in|We have made slight improvements to Debug with AI and added back @Lint Errors in Chat]]
+- editor-experience: [[Changes/Cursor/2024-10-09-python-auto-import-for-cursor-tab-is-much-more-stable-in-this-release|Python auto import for Cursor Tab is much more stable in this release]]
+- projects-workspaces: [[Changes/Cursor/2024-10-09-composer-history-lets-you-access-previous-composer-sessions-after-restart-you-ca|Composer history lets you access previous composer sessions after restart]]
+- model-support: [[Changes/Cursor/2024-10-09-switching-models-is-a-lot-easier-with-model-search-cmd-option-in-the-chat-compos|Switching models is a lot easier with model search (Cmd-option-/) in the chat…]]
+- editor-experience: [[Changes/Cursor/2024-10-09-vs-code-1-93-1-cursor-is-now-based-on-vs-code-1-93-1|VS Code 1.93.1: Cursor is now based on VS Code 1.93.1]]
 <!-- chronolog:end -->

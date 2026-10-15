@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-07-12'
-machine_hash: 1f65fc7056fdf48583207f22d269e424511c4554ba78ea1b7e47b3a8c923c4f2
+machine_hash: 75b2e9a6a9c7208decbe7a00ad362f21d27327010a25b2867259f2e85dc5544c
 product: cursor
 product_name: Cursor
 record:
@@ -39,5 +39,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- developer-workflow: [[Changes/Cursor/2023-07-12-this-update-patches-search-cmd-win-shift-f-and-many-extensions-for-and-wsl-and-s|This update patches search (Cmd/Win+Shift+F) and many extensions for and WSL and]]
+- developer-workflow: [[Changes/Cursor/2023-07-12-this-update-patches-search-cmd-win-shift-f-and-many-extensions-for-and-wsl-and-s|This update patches search (Cmd/Win+Shift+F) and many extensions for and WSL and SSH users]]
 <!-- chronolog:end -->

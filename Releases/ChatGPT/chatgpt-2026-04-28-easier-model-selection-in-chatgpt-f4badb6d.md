@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-04-28'
-machine_hash: df51f00e470a04921658a8d75af1dad296bd515740c9b3188ab5d8cfa6b6a3b2
+machine_hash: d582e148fb37887eb1e863c34d2ed4e6a90317324a93e102d711972ec759e74f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2026-04-28-we-re-making-it-easier-to-choose-the-right-model-before-you-send-a-message-model|We’re making it easier to choose the right model before you send a message. Mode]]
+- model-support: [[Changes/ChatGPT/2026-04-28-we-re-making-it-easier-to-choose-the-right-model-before-you-send-a-message-model|We’re making it easier to choose the right model before you send a message]]
 <!-- chronolog:end -->

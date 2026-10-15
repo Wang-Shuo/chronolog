@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 1c744fc36bddcb45fa6532ae6feac055a22daf9e30ba7aab03fda8e28bf14043
+machine_hash: 64d03ad3dd608262920f4a1d76740c4b1c17ac3bf802612348bf4cecc22ef739
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -60,7 +60,7 @@ record:
       saved memory and chat history to be turned on, and you can switch pulse off
       anytime in settings. See ChatGPT Pulse.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -79,8 +79,8 @@ record:
     score: 100
     theme: mobile-desktop
   theme_resolution: manual-semantic-rule-v1
-  title: We’re launching an early preview of ChatGPT pulse for Pro users on iOS and
-    Andro
+  title: ChatGPT launches an early preview of ChatGPT pulse for Pro users on iOS and
+    Android
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-08-22-an-improvement-to-projects-is-now-available-when-creating-a-project-users-have-t-aa77f4|chatgpt-2025-08-22-aa77f4]]'
@@ -89,12 +89,12 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-25-introducing-chatgpt-pulse-for-pro-users-5be6c168|chatgpt-2025-09-25-introducing-chatgpt-pulse-for-pro-users-5be6c168]]'
 source_type: chatgpt_changelog
 theme: memory
-title: We’re launching an early preview of ChatGPT pulse for Pro users on iOS and
-  Andro
+title: ChatGPT launches an early preview of ChatGPT pulse for Pro users on iOS and
+  Android
 type: change
 ---
 
-# We’re launching an early preview of ChatGPT pulse for Pro users on iOS and Andro
+# ChatGPT launches an early preview of ChatGPT pulse for Pro users on iOS and Android
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Introducing ChatGPT Pulse for Pro users: We’re launching an early preview of ChatGPT pulse for Pro users on iOS and Android. This is a new experience where ChatGPT can now proactively deliver personalized, focused updates for you once a day. These updates are based on asynchronous research ChatGPT can do on your behalf overnight, synthesizing information from your memory, chat history, and direct feedback to learn what’s most relevant to you.Updates are delivered once a day as visual summaries you can scan at a glance or dive deeper into. Each topic opens into more detail where you can ask follow-up questions. You can shape what shows up in pulse with a quick thumbs up or down, or by using curate to tell ChatGPT what you’d like to see.If you ask for something new in the evening, we aim to include it the next morning, though exact timing may vary. Pulse refreshes daily, and you can save any item into a chat to keep it.As a preview, pulse has some limitations. It aims to show you what’s most relevant and useful but you may still see suggestions that miss the mark. For example, you may get tips for a project you already completed. You can guide what shows up by telling ChatGPT directly. It remembers your feedback for next time and improves as it learns from real use.It requires saved memory and chat history to be turned on, and you can switch pulse off anytime in settings. See ChatGPT Pulse.

@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ab27a870be45dac460f19277095d435ac00f29c193b255aed73fb513ebff2ae3
+machine_hash: 8147edcb475cc6d67346bce63338669edc4ea72cb66392ff61c815019bde84c9
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: '@Recommended in chat/composer to semantically search for context'
     source_release: https://cursor.com/changelog/0-43-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 750fd14e2d4b96bc2fb1ea77ed24f18299640077a68c86b6016977a4992e894a
+machine_hash: 01fd5f37ace6f70ed67938c8e7209789d7eb767c14387c7429564180d6ad9320
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: With Yolo Mode, the agent can auto-run terminal commands
     source_release: https://cursor.com/changelog/0-44-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor

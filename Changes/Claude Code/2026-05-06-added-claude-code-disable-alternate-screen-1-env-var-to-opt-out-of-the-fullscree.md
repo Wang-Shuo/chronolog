@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 76fa1ad3025f1d236bbe32062e2148438d5b6adf3e190813ce883e98f37e9c8f
+machine_hash: bbdcbb205495bcfeb8a61adc72c38f2096ff07f3f07cf3b89530294bb3429fe2
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       fullscreen alternate-screen renderer and keep the conversation in the terminal's
       native scrollback
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.132
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -47,7 +47,7 @@ record:
     theme: interface-experience
   theme_resolution: manual-semantic-rule-v1
   title: Added `CLAUDE_CODE_DISABLE_ALTERNATE_SCREEN=1` env var to opt out of the
-    fullscr
+    fullscreen…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-28-fullscreen-mode-typing-into-the-prompt-no-longer-jumps-scroll-back-to-the-bottom|claude-code-2026-04-28-8a2fb3]]'
@@ -56,11 +56,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-06-v2-1-132-github-318578987-ed60d664|claude-code-2026-05-06-v2-1-132-github-318578987-ed60d664]]'
 source_type: github_releases
 theme: interface-experience
-title: Added CLAUDE_CODE_DISABLE_ALTERNATE_SCREEN=1 env var to opt out of the fullscr
+title: Added CLAUDE_CODE_DISABLE_ALTERNATE_SCREEN=1 env var to opt out of the fullscreen…
 type: change
 ---
 
-# Added `CLAUDE_CODE_DISABLE_ALTERNATE_SCREEN=1` env var to opt out of the fullscr
+# Added `CLAUDE_CODE_DISABLE_ALTERNATE_SCREEN=1` env var to opt out of the fullscreen…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.132: Added `CLAUDE_CODE_DISABLE_ALTERNATE_SCREEN=1` env var to opt out of the fullscreen alternate-screen renderer and keep the conversation in the terminal's native scrollback

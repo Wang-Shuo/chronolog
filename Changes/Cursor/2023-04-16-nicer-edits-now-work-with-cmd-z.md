@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 85a5df11de773e3b239cc2b6f22cb2c7b573c2e5cf6385a98eace6721c4d4408
+machine_hash: 6d3013a595589a6c7246f05f955575417f18c5df75629e37db2214326231ac1b
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Nicer edits, now work with cmd-Z
     source_release: https://cursor.com/changelog/0-2-4
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

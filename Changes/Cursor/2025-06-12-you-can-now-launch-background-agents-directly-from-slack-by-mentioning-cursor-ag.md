@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 95f05ecd800aef3d0bdc0d2ef69481adf517d076c1a1b0f7ae682c62e7356334
+machine_hash: 385e1fc11eb0a2b0ef2aaaca5f8aff91b7235c6ba1f25c87cacdd79894963c5f
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
       @Cursor. Agents can read the thread, understand what's going on, and create
       PRs in GitHub, all without leaving the conversation.
     source_release: https://cursor.com/changelog/1-1
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,7 +37,7 @@ record:
   source_release: cursor-2025-06-12-1-1-https-cursor-com-changelog-1-1-0f0190fc
   source_type: cursor_changelog
   theme: agent-mode
-  title: You can now launch Background Agents directly from Slack by mentioning @Cursor.
+  title: Launch Background Agents directly from Slack by mentioning @Cursor
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-04-15-for-auto-attached-rules-with-path-patterns-defined-agent-will-now-automatically|cursor-2025-04-15-465624]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-06-12-1-1-https-cursor-com-changelog-1-1-0f0190fc|cursor-2025-06-12-1-1-https-cursor-com-changelog-1-1-0f0190fc]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: You can now launch Background Agents directly from Slack by mentioning @Cursor.
+title: Launch Background Agents directly from Slack by mentioning @Cursor
 type: change
 ---
 
-# You can now launch Background Agents directly from Slack by mentioning @Cursor.
+# Launch Background Agents directly from Slack by mentioning @Cursor
 
 <!-- chronolog:begin region="description" -->
 Cursor — Background Agents in Slack: You can now launch Background Agents directly from Slack by mentioning @Cursor. Agents can read the thread, understand what's going on, and create PRs in GitHub, all without leaving the conversation.

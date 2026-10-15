@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d926681e9d85143b3abeb18af26d5827ae3c34c413562a3c224f059f3ed2287e
+machine_hash: d0a0dfc5df89c9c35a037e89ac274cbaf933df8de125b3971f9fbd78c8adb931
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
       Recents as one combined list, or group chats by project so related work stays
       together.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -40,8 +40,7 @@ record:
   source_release: chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5
   source_type: chatgpt_changelog
   theme: interface-experience
-  title: 'Easier pinning and sidebar organization: It’s now easier to keep important
-    work'
+  title: Easier pinning and sidebar organization
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-12-added-wheelscrollaccelerationenabled-setting-to-disable-mouse-wheel-scroll-accel|claude-code-2026-06-12-e09c0a]]'
@@ -50,12 +49,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
 theme: interface-experience
-title: 'Easier pinning and sidebar organization: It’s now easier to keep important
-  work'
+title: Easier pinning and sidebar organization
 type: change
 ---
 
-# Easier pinning and sidebar organization: It’s now easier to keep important work
+# Easier pinning and sidebar organization
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT app experience updates: Easier pinning and sidebar organization: It’s now easier to keep important work close in ChatGPT. You can pin chats and projects directly from the sidebar, and your Pinned section now includes both chats and projects. You can also organize Recents as one combined list, or group chats by project so related work stays together.

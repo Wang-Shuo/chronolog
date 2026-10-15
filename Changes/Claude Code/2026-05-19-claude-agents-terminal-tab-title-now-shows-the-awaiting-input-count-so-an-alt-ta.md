@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: f9f118318360737358e94fb6dba0690a18ccbe97c49204cec0b6daa0e7e31ddc
+machine_hash: 360131d06df1c6e9d891c54b16bff1709e6ad61f8ac7108cdd1af62a214cd04f
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,7 +29,7 @@ record:
   - quote: '`claude agents` terminal tab title now shows the awaiting-input count
       so an alt-tabbed window tells you when an agent needs attention'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.145
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code
@@ -51,8 +51,7 @@ record:
     - tab
     score: 50
     theme: editor-experience
-  title: '`claude agents` terminal tab title now shows the awaiting-input count so
-    an alt-'
+  title: '`claude agents` terminal tab title now shows the awaiting-input count…'
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-13-this-release-introduces-new-tools-for-teams-to-configure-development-environment|cursor-2026-05-13-e9f5ab]]'
@@ -61,11 +60,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-19-v2-1-145-github-325388499-227a5ce4|claude-code-2026-05-19-v2-1-145-github-325388499-227a5ce4]]'
 source_type: github_releases
 theme: agent-mode
-title: claude agents terminal tab title now shows the awaiting-input count so an alt-
+title: claude agents terminal tab title now shows the awaiting-input count…
 type: change
 ---
 
-# `claude agents` terminal tab title now shows the awaiting-input count so an alt-
+# `claude agents` terminal tab title now shows the awaiting-input count…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.145: `claude agents` terminal tab title now shows the awaiting-input count so an alt-tabbed window tells you when an agent needs attention

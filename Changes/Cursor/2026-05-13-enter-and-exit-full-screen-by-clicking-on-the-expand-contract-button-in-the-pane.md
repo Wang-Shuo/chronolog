@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 55ad2bb025d9c96bde27ff98c782047adb966a83641afd359db4a37ade0b6552
+machine_hash: 1482050287c8daacbf534c61b26b457a94c41b65a9940a4f963d9af46152b265
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Enter and exit full screen by clicking on the expand/contract button in
       the panel header, using the command palette, or pressing Cmd/Ctrl+Shift+M.
     source_release: https://cursor.com/changelog/3-4
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -36,7 +36,7 @@ record:
   source_type: cursor_changelog
   theme: interface-experience
   title: Enter and exit full screen by clicking on the expand/contract button in the
-    pane
+    panel…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-07-the-changes-tab-makes-it-easier-to-navigate-larger-prs-with-a-file-tree-and-chan|cursor-2026-05-07-9cdfdf]]'
@@ -46,11 +46,11 @@ source_release: '[[Releases/Cursor/cursor-2026-05-13-3-4-https-cursor-com-change
 source_type: cursor_changelog
 theme: interface-experience
 title: Enter and exit full screen by clicking on the expand/contract button in the
-  pane
+  panel…
 type: change
 ---
 
-# Enter and exit full screen by clicking on the expand/contract button in the pane
+# Enter and exit full screen by clicking on the expand/contract button in the panel…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Full-screen Tabs and Compact Chats: Enter and exit full screen by clicking on the expand/contract button in the panel header, using the command palette, or pressing Cmd/Ctrl+Shift+M.

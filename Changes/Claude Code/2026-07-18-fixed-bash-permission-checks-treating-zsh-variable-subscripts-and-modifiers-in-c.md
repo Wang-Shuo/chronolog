@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8cbd1e04fc3bcb2827ad64f309c086b9e024bf72d6a5432a76d8ecb05c863830
+machine_hash: 44cbe73796a638a51f1be69ba473c70be363baa1630d9126fe774e3576d065f3
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Fixed Bash permission checks treating zsh variable subscripts and modifiers
       in `[[ ]]` comparisons as inert text — these commands now prompt for approval
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.214
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,8 +37,7 @@ record:
   theme: safety-privacy
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: Fixed Bash permission checks treating zsh variable subscripts and modifiers
-    in `
+  title: Fixed Bash permission checks treating zsh variable subscripts and modifiers…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-14-added-a-startup-warning-for-write-path-notebookedit-path-and-glob-path-permissio|claude-code-2026-07-14-f07656]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-18-v2-1-214-github-355973317-478680c5|claude-code-2026-07-18-v2-1-214-github-355973317-478680c5]]'
 source_type: github_releases
 theme: safety-privacy
-title: 'Fixed Bash permission checks treating zsh variable subscripts and modifiers
-  in '
+title: Fixed Bash permission checks treating zsh variable subscripts and modifiers…
 type: change
 ---
 
-# Fixed Bash permission checks treating zsh variable subscripts and modifiers in `
+# Fixed Bash permission checks treating zsh variable subscripts and modifiers…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.214: Fixed Bash permission checks treating zsh variable subscripts and modifiers in `[[ ]]` comparisons as inert text — these commands now prompt for approval

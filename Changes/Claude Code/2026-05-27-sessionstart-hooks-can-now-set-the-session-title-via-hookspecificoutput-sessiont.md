@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4763ae850c7fdde35ee02e83eb50ab20f35c30c20cb67c5480c625712690a964
+machine_hash: 18c7effd0718af2dba92955ae68253d0fef7b8b51e8829b6b3a823dc8458a6ac
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: '`SessionStart` hooks can now set the session title via `hookSpecificOutput.sessionTitle`
       on startup and resume'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.152
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,7 +36,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: '`SessionStart` hooks can now set the session title via `hookSpecificOutput.sessi'
+  title: '`SessionStart` hooks can now set the session title…'
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-19-install-the-integration-from-cursor-integrations-you-need-cursor-admin-access-an|cursor-2026-05-19-af93f5]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-27-v2-1-152-github-329718732-e62ea850|claude-code-2026-05-27-v2-1-152-github-329718732-e62ea850]]'
 source_type: github_releases
 theme: apps-integrations
-title: SessionStart hooks can now set the session title via hookSpecificOutput.sessi
+title: SessionStart hooks can now set the session title…
 type: change
 ---
 
-# `SessionStart` hooks can now set the session title via `hookSpecificOutput.sessi
+# `SessionStart` hooks can now set the session title…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.152: `SessionStart` hooks can now set the session title via `hookSpecificOutput.sessionTitle` on startup and resume

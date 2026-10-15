@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 564d5025f40f6d9d8597ae3c5444bd5da80cde111980e7dba162507b39997d91
+machine_hash: 52981af793f8de3e90314396a7b3d6c4b30a3af6b9148f38e284d25419144a6a
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Fixed custom status line showing nothing when workspace trust is blocking
       it
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.79
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

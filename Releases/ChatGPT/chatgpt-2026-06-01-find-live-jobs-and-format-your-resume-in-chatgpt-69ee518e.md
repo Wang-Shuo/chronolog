@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-06-01'
-machine_hash: 1cac45825db303cea5486dee5a340ddfe79df490cb20394e18e85a376e5a51d2
+machine_hash: af697f1596df48336d1885f4835d2ba3f3af6e2a89e8279417cc4dc0f0522e34
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- search-browsing: [[Changes/ChatGPT/2026-06-01-chatgpt-can-now-help-with-more-of-the-job-search-process-from-finding-relevant-l|ChatGPT can now help with more of the job search process, from finding relevant]]
+- search-browsing: [[Changes/ChatGPT/2026-06-01-chatgpt-can-now-help-with-more-of-the-job-search-process-from-finding-relevant-l|ChatGPT can now help with more of the job search process, from finding relevant live…]]
 <!-- chronolog:end -->

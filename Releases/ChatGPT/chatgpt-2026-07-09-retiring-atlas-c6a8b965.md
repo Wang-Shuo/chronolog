@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-07-09'
-machine_hash: 4466192662390a5fc82b7d6eb6dcc00a7975ef9f9dad9b7ba79755284401fe0e
+machine_hash: 9a9db5204d6c261ac960c404de9bb7cd13fdfde7778e84302c424b88f56d68c5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- account-access: [[Changes/ChatGPT/2026-07-09-we-re-deprecating-atlas-as-we-bring-browser-based-agentic-capabilities-into-chat|We’re deprecating Atlas as we bring browser-based agentic capabilities into Chat]]
+- account-access: [[Changes/ChatGPT/2026-07-09-we-re-deprecating-atlas-as-we-bring-browser-based-agentic-capabilities-into-chat|We’re deprecating Atlas as we bring browser-based agentic capabilities into ChatGPT…]]
 <!-- chronolog:end -->

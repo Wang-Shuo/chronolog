@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4a1fbeb6226a7dfc7e7c510317f743c7a0951a65eeaf563d3351d334b5c2d615
+machine_hash: 31e5c41e6ed521ad2864319f3803e0358d45066b17f082e44bbff16ab61d039d
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: '`/mcp` now shows claude.ai connectors hidden by a manually-added server
       with the same URL, with a hint to remove the duplicate'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.122
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -34,8 +34,7 @@ record:
   source_release: claude-code-2026-04-28-v2-1-122-github-314740479-0cc42196
   source_type: github_releases
   theme: apps-integrations
-  title: '`/mcp` now shows claude.ai connectors hidden by a manually-added server
-    with the'
+  title: '`/mcp` now shows claude.ai connectors hidden by a manually-added server…'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-23-hooks-can-now-invoke-mcp-tools-directly-via-type-mcp-tool|claude-code-2026-04-23-f3019e]]'
@@ -44,12 +43,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-28-v2-1-122-github-314740479-0cc42196|claude-code-2026-04-28-v2-1-122-github-314740479-0cc42196]]'
 source_type: github_releases
 theme: apps-integrations
-title: /mcp now shows claude.ai connectors hidden by a manually-added server with
-  the
+title: /mcp now shows claude.ai connectors hidden by a manually-added server…
 type: change
 ---
 
-# `/mcp` now shows claude.ai connectors hidden by a manually-added server with the
+# `/mcp` now shows claude.ai connectors hidden by a manually-added server…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.122: `/mcp` now shows claude.ai connectors hidden by a manually-added server with the same URL, with a hint to remove the duplicate

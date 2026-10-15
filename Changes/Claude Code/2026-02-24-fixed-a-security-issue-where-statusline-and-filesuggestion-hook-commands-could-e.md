@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 90b536b33f1f73b6de5e587aac76c7ea24a7a5dd20a831927bb785a07681dc29
+machine_hash: fbc2725cd02eec68cb61ef43dfa99ae55257dc2ecdf4693ed5718fc8d354159e
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Fixed a security issue where `statusLine` and `fileSuggestion` hook commands
       could execute without workspace trust acceptance in interactive mode.
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.51
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,7 +38,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: Fixed a security issue where `statusLine` and `fileSuggestion` hook commands
-    cou
+    could…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-13-fixed-permission-wait-time-being-included-in-subagent-elapsed-time-display|claude-code-2026-02-13-b41cef]]'
@@ -47,11 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-02-24-v2-1-51-github-289665343-b4bbdd9c|claude-code-2026-02-24-v2-1-51-github-289665343-b4bbdd9c]]'
 source_type: github_releases
 theme: safety-privacy
-title: Fixed a security issue where statusLine and fileSuggestion hook commands cou
+title: Fixed a security issue where statusLine and fileSuggestion hook commands could…
 type: change
 ---
 
-# Fixed a security issue where `statusLine` and `fileSuggestion` hook commands cou
+# Fixed a security issue where `statusLine` and `fileSuggestion` hook commands could…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.51: Fixed a security issue where `statusLine` and `fileSuggestion` hook commands could execute without workspace trust acceptance in interactive mode.

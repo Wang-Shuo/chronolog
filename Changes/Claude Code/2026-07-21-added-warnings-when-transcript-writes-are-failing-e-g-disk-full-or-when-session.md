@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: b8dd51bdd35ec789cf80a0afe44e3d64b81ba053427dfdf8e3212a58975af891
+machine_hash: d7d0620fbe57004ed820530c3079af7c455652ec359b37b1bae5aa9f8c000f60
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       session saving is off due to an inherited environment variable, instead of losing
       transcripts silently
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.217
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -39,7 +39,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: Added warnings when transcript writes are failing (e.g. disk full) or when
-    sessi
+    session…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-03-improved-the-install-script-to-explain-when-installation-is-killed-by-the-system|claude-code-2026-07-03-39f603]]'
@@ -49,11 +49,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-07-21-v2-1-217-github-3
 source_type: github_releases
 theme: reliability-performance
 title: Added warnings when transcript writes are failing (e.g. disk full) or when
-  sessi
+  session…
 type: change
 ---
 
-# Added warnings when transcript writes are failing (e.g. disk full) or when sessi
+# Added warnings when transcript writes are failing (e.g. disk full) or when session…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.217: Added warnings when transcript writes are failing (e.g. disk full) or when session saving is off due to an inherited environment variable, instead of losing transcripts silently

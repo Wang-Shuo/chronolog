@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 64a04ba89b00c0b8835cc8721ef021db8af68d113f51e8eda8bd44dc8fb59b59
+machine_hash: ca7f3eaf16d6bca22987bcb6ebed650e8bf1cb1b98a09d75bec8feb22184b133
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Agents now plan ahead with structured to-do lists, making long-horizon
       tasks easier to understand and track.
     source_release: https://cursor.com/changelog/1-2
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -38,7 +38,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: Agents now plan ahead with structured to-do lists, making long-horizon tasks
-    eas
+    easier…
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-06-04-since-we-released-background-agent-our-remote-coding-agent-in-early-access-a-few|cursor-2025-06-04-ace3ea]]'
@@ -48,11 +48,11 @@ source_release: '[[Releases/Cursor/cursor-2025-07-03-1-2-https-cursor-com-change
 source_type: cursor_changelog
 theme: agent-mode
 title: Agents now plan ahead with structured to-do lists, making long-horizon tasks
-  eas
+  easier…
 type: change
 ---
 
-# Agents now plan ahead with structured to-do lists, making long-horizon tasks eas
+# Agents now plan ahead with structured to-do lists, making long-horizon tasks easier…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Agent Planning, Better Context & Faster Tab: Agents now plan ahead with structured to-do lists, making long-horizon tasks easier to understand and track.

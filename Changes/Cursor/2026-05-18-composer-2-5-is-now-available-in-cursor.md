@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 72db75c2b7e3193e032ca0de3bb7960b7524e78ca3bcec162c587e3f2e2ddfbd
+machine_hash: bbc90f7618f2b2b32dddf6c9a1055d4a49a8217ef51b22aa3f629e8befe914b1
 product: cursor
 product_name: Cursor
 record:
@@ -24,7 +24,7 @@ record:
   evidence:
   - quote: Composer 2.5 is now available in Cursor.
     source_release: https://cursor.com/changelog/composer-2-5
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -34,7 +34,7 @@ record:
   theme: agent-mode
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Composer 2.5 is now available in Cursor.
+  title: Composer 2.5 is now available in Cursor
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-13-cloud-agents-and-automations-now-support-multi-repo-environments-building-off-ou|cursor-2026-05-13-b5c19b]]'
@@ -43,11 +43,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-05-18-composer-2-5-https-cursor-com-changelog-composer-2-5-1dffe5a1|cursor-2026-05-18-composer-2-5-https-cursor-com-changelog-composer-2-5-1dffe5a1]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: Composer 2.5 is now available in Cursor.
+title: Composer 2.5 is now available in Cursor
 type: change
 ---
 
-# Composer 2.5 is now available in Cursor.
+# Composer 2.5 is now available in Cursor
 
 <!-- chronolog:begin region="description" -->
 Cursor — Composer 2.5: Composer 2.5 is now available in Cursor.

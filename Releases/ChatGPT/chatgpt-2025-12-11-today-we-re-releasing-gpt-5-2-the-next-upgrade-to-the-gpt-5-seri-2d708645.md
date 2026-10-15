@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-12-11'
-machine_hash: 7c8beda93063279232d5ba2e2948644a51ca2617524baa7eaf1745b52277208c
+machine_hash: 69a90fbe6645244aab77f87650d83d253a2a82afa7259529f045230129c61e06
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2025-12-11-today-we-re-releasing-gpt-5-2-the-next-upgrade-to-the-gpt-5-series-gpt-5-2-is-sm|Today, we’re releasing GPT-5.2, the next upgrade to the GPT-5 series. GPT-5.2 is]]
+- model-support: [[Changes/ChatGPT/2025-12-11-today-we-re-releasing-gpt-5-2-the-next-upgrade-to-the-gpt-5-series-gpt-5-2-is-sm|Today, we’re releasing GPT-5.2, the next upgrade to the GPT-5 series]]
 <!-- chronolog:end -->

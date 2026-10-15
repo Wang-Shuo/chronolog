@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1196699168526c23ec31a22cec3108918b168486a46d3408e651ed9733657e96
+machine_hash: 1056f4f759be98bb8115e415741425b7eafadc7bceb389c8eeefb154ff3062b2
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Running Cmd+enter on followups should result in much better codebase results.
     source_release: https://cursor.com/changelog/0-18-3-nightly
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,7 +35,7 @@ record:
   theme: editor-experience
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Running Cmd+enter on followups should result in much better codebase results.
+  title: Running Cmd+enter on followups should result in much better codebase results
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-11-22-experimental-feature-go-to-more-interpreter-mode-to-enable-it-gives-the-model-ac|cursor-2023-11-22-2f083d]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-12-02-0-18-3-nightly-https-cursor-com-changelog-0-18-3-nightly-ccda9a54|cursor-2023-12-02-0-18-3-nightly-https-cursor-com-changelog-0-18-3-nightly-ccda9a54]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: Running Cmd+enter on followups should result in much better codebase results.
+title: Running Cmd+enter on followups should result in much better codebase results
 type: change
 ---
 
-# Running Cmd+enter on followups should result in much better codebase results.
+# Running Cmd+enter on followups should result in much better codebase results
 
 <!-- chronolog:begin region="description" -->
 Cursor — Smarter Followups: Running Cmd+enter on followups should result in much better codebase results.

@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: be9de613d78fa9091c5e0e902fd81e8eb47a5434378a79255abdc6a4ee5d778c
+machine_hash: a977d79155fce69a6c1055b1923ba8eba3bc42c82e96e9f7185535fd1e986ce4
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
       more. These plugins cover workflows across design, databases, payments, analytics,
       and deployment.
     source_release: https://cursor.com/changelog/2-5
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -36,8 +36,7 @@ record:
   source_release: cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320
   source_type: cursor_changelog
   theme: apps-integrations
-  title: Our initial partners include Amplitude, AWS, Figma, Linear, Stripe, and more.
-    Th
+  title: Our initial partners include Amplitude, AWS, Figma, Linear, Stripe, and more
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-17-added-sdkratelimitinfo-and-sdkratelimitevent-types-to-the-sdk-enabling-consumers|claude-code-2026-02-17-2ceb36]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320|cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320]]'
 source_type: cursor_changelog
 theme: apps-integrations
-title: Our initial partners include Amplitude, AWS, Figma, Linear, Stripe, and more.
-  Th
+title: Our initial partners include Amplitude, AWS, Figma, Linear, Stripe, and more
 type: change
 ---
 
-# Our initial partners include Amplitude, AWS, Figma, Linear, Stripe, and more. Th
+# Our initial partners include Amplitude, AWS, Figma, Linear, Stripe, and more
 
 <!-- chronolog:begin region="description" -->
 Cursor — Plugins, Sandbox Access Controls, and Async Subagents: Our initial partners include Amplitude, AWS, Figma, Linear, Stripe, and more. These plugins cover workflows across design, databases, payments, analytics, and deployment.

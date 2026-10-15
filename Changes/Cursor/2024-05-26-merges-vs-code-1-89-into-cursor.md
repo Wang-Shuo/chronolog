@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 556b0bce398490907225a2a1a89f681c12e797d76f8c7a02563864431bd0ef84
+machine_hash: 66f7092700c786b48168c8c87a4acf69eb1bd43a43d465cea78af7492b75a8b3
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Merges VS Code 1.89 into Cursor
     source_release: https://cursor.com/changelog/0-34-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 55fdfcc80b7d58cde4c8dc2377e577ddfde838fe97326aba47177fef5278acfb
+machine_hash: 653d6feb908119397d73b04c02a5eb15f03a1ce0addb167e77e3d022689a3a33
 product: cursor
 product_name: Cursor
 record:
@@ -24,7 +24,7 @@ record:
   evidence:
   - quote: Working WSL codebase search
     source_release: https://cursor.com/changelog/0-22-1-nightly
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

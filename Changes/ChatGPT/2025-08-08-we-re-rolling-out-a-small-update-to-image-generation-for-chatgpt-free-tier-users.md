@@ -11,9 +11,9 @@ diffusion:
   theme: image-generation
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a3e209f390fc6af1b417678a5526ef505e2a18199314dbb3192b14ae1820416f
+machine_hash: a363482e6ff669a601b3f0b0662ddb2c8e0c7cab60e3fce397ee3d58ae9cb025
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: We're rolling out a small update to image generation for ChatGPT Free tier
       users that makes its performance more efficient.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -44,8 +44,8 @@ record:
     - performance
     score: 50
     theme: reliability-performance
-  title: We're rolling out a small update to image generation for ChatGPT Free tier
-    users
+  title: ChatGPT rolls out a small update to image generation for ChatGPT Free tier
+    users…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|chatgpt-2024-08-08-2c505c]]'
@@ -54,12 +54,12 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-08-image-generation-update-to-chatgpt-free-1b23f923|chatgpt-2025-08-08-image-generation-update-to-chatgpt-free-1b23f923]]'
 source_type: chatgpt_changelog
 theme: image-generation
-title: We're rolling out a small update to image generation for ChatGPT Free tier
-  users
+title: ChatGPT rolls out a small update to image generation for ChatGPT Free tier
+  users…
 type: change
 ---
 
-# We're rolling out a small update to image generation for ChatGPT Free tier users
+# ChatGPT rolls out a small update to image generation for ChatGPT Free tier users…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Image generation update to ChatGPT Free: We're rolling out a small update to image generation for ChatGPT Free tier users that makes its performance more efficient.

@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a1b5e973d4b04e7cd0fe5aaf3f8835abdd9513b6c20496920d5518960eca2c72
+machine_hash: 6d378bd4fce8ce04e4a9e5a81f10777c8ba9a29defd8667a8af32fe404ff38d3
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: More control of context building abilities for codebase-wide chat
     source_release: https://cursor.com/changelog/0-2-49
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

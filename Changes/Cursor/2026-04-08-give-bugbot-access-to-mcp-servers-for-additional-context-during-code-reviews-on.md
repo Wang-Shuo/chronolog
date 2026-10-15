@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f9a3c15192dfc84ca06940ae235d2a4e3754f3d894f94bf0d2a7626605198a8e
+machine_hash: 7206633ea19903ec30e473a9ad22602fe65958b87212ad8ab7a4c54f04684a0d
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Give Bugbot access to MCP servers for additional context during code reviews.
       On Teams and Enterprise plans, you can add tools to Bugbot in the Bugbot dashboard.
     source_release: https://cursor.com/changelog/04-08-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -53,8 +53,7 @@ record:
     score: 50
     theme: enterprise-admin
   theme_resolution: manual-semantic-rule-v1
-  title: Give Bugbot access to MCP servers for additional context during code reviews.
-    On
+  title: Give Bugbot access to MCP servers for additional context during code reviews
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-07-added-compact-slacked-channel-header-with-a-clickable-channel-link-for-slack-mcp|claude-code-2026-04-07-6ed963]]'
@@ -63,12 +62,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-04-08-bugbot-learned-rules-and-mcp-support-https-cursor-com-changelog-cba7cd11|cursor-2026-04-08-bugbot-learned-rules-and-mcp-support-https-cursor-com-changelog-cba7cd11]]'
 source_type: cursor_changelog
 theme: apps-integrations
-title: Give Bugbot access to MCP servers for additional context during code reviews.
-  On
+title: Give Bugbot access to MCP servers for additional context during code reviews
 type: change
 ---
 
-# Give Bugbot access to MCP servers for additional context during code reviews. On
+# Give Bugbot access to MCP servers for additional context during code reviews
 
 <!-- chronolog:begin region="description" -->
 Cursor — Bugbot Learned Rules and MCP Support: Give Bugbot access to MCP servers for additional context during code reviews. On Teams and Enterprise plans, you can add tools to Bugbot in the Bugbot dashboard.

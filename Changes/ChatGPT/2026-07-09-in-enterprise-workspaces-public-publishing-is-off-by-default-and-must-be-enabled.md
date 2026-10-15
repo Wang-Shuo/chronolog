@@ -11,9 +11,9 @@ diffusion:
   theme: enterprise-admin
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: a904993401c922f49370cd89a95d896c0a3d019e2544b06e469ee845346a02a2
+machine_hash: f902dac7205606f395c6e00ec12e5e05f3e162f2791dbcea93f33245a83a8204
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,7 +35,7 @@ record:
       not available on Free or Go plans. Public publishing and the expanded beta rollout
       are not available in the EEA, Switzerland, or the United Kingdom at launch.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -44,7 +44,7 @@ record:
   source_type: chatgpt_changelog
   theme: enterprise-admin
   title: In Enterprise workspaces, public publishing is off by default and must be
-    enable
+    enabled…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-07-09-business-and-enterprise-customers-already-have-access-to-sites-starting-today-th|chatgpt-2026-07-09-6ad0f1]]'
@@ -53,11 +53,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-sites-in-public-beta-4d20edcd|chatgpt-2026-07-09-introducing-chatgpt-sites-in-public-beta-4d20edcd]]'
 source_type: chatgpt_changelog
 theme: enterprise-admin
-title: In Enterprise workspaces, public publishing is off by default and must be enable
+title: In Enterprise workspaces, public publishing is off by default and must be enabled…
 type: change
 ---
 
-# In Enterprise workspaces, public publishing is off by default and must be enable
+# In Enterprise workspaces, public publishing is off by default and must be enabled…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Introducing ChatGPT Sites in public beta: In Enterprise workspaces, public publishing is off by default and must be enabled by an admin. Sites is also rolling out in public beta to Pro, Pro Lite, and Edu users, with Plus users following over the coming days. Sites is not available on Free or Go plans. Public publishing and the expanded beta rollout are not available in the EEA, Switzerland, or the United Kingdom at launch.

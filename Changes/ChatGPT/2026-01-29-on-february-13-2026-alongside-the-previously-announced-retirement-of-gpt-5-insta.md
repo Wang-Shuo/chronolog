@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 410ec55b86d9dc8970d47996e507679c2d1e73c89c9588dd3d49a4ada77fdfa7
+machine_hash: c2fb68c900641df3e0e14e26bb15a9dcc75a761c3c09097530130848e01bb88f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       and OpenAI o4-mini from ChatGPT. In the API, there are no changes at this time.
       For more, see our blog post or help center.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -41,8 +41,7 @@ record:
   theme: model-support
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: On February 13, 2026, alongside the previously announced retirement⁠ of GPT‑5
-    (I
+  title: On February 13, 2026, alongside the previously announced retirement of GPT‑5…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-16-added-support-for-pretooluse-hooks-to-return-additionalcontext-to-the-model|claude-code-2026-01-16-7efdf0]]'
@@ -51,12 +50,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-01-29-retiring-gpt-4o-and-other-legacy-models-71b41b16|chatgpt-2026-01-29-retiring-gpt-4o-and-other-legacy-models-71b41b16]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: On February 13, 2026, alongside the previously announced retirement⁠ of GPT‑5
-  (I
+title: On February 13, 2026, alongside the previously announced retirement of GPT‑5…
 type: change
 ---
 
-# On February 13, 2026, alongside the previously announced retirement⁠ of GPT‑5 (I
+# On February 13, 2026, alongside the previously announced retirement of GPT‑5…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Retiring GPT-4o and other legacy models: On February 13, 2026, alongside the previously announced retirement⁠ of GPT‑5 (Instant and Thinking), we will retire GPT‑4o, GPT‑4.1, GPT‑4.1 mini, and OpenAI o4-mini from ChatGPT. In the API, there are no changes at this time. For more, see our blog post or help center.

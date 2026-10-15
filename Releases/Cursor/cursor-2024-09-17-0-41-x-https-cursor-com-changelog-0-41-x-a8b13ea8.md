@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2024-09-17'
-machine_hash: 3779658e2502a63340ace8062c3e8f206a1a90f40ce72b10c4182b4774f649a5
+machine_hash: 295682f1acbefb88a080d424484c5a9fe279dd59089a1737fdc9433af5cdcd9c
 product: cursor
 product_name: Cursor
 record:
@@ -40,9 +40,9 @@ Tracked cards: 5
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- reliability-performance: [[Changes/Cursor/2024-09-17-apply-and-composer-are-slightly-faster-in-this-release|Apply and Composer are slightly faster in this release.]]
-- projects-workspaces: [[Changes/Cursor/2024-09-17-composer-notepads-previously-called-projects-can-now-include-tagged-files-and-be|Composer Notepads (previously called Projects) can now include tagged files and]]
-- reliability-performance: [[Changes/Cursor/2024-09-17-cursor-tab-now-auto-imports-symbols-in-python-files-we-ve-also-significantly-imp|Cursor Tab now auto-imports symbols in Python files! We've also significantly im]]
-- reliability-performance: [[Changes/Cursor/2024-09-17-composer-can-now-be-added-to-the-ai-pane-this-release-also-includes-many-stabili|Composer can now be added to the AI pane. This release also includes many stabil]]
-- safety-privacy: [[Changes/Cursor/2024-09-17-this-update-fixes-the-following-security-issue-cve-2024-45599|This update fixes the following security issue: CVE-2024-45599.]]
+- reliability-performance: [[Changes/Cursor/2024-09-17-apply-and-composer-are-slightly-faster-in-this-release|Apply and Composer are slightly faster in this release]]
+- projects-workspaces: [[Changes/Cursor/2024-09-17-composer-notepads-previously-called-projects-can-now-include-tagged-files-and-be|Composer Notepads (previously called Projects) can now include tagged files…]]
+- reliability-performance: [[Changes/Cursor/2024-09-17-cursor-tab-now-auto-imports-symbols-in-python-files-we-ve-also-significantly-imp|Cursor Tab now auto-imports symbols in Python files!]]
+- reliability-performance: [[Changes/Cursor/2024-09-17-composer-can-now-be-added-to-the-ai-pane-this-release-also-includes-many-stabili|Composer can now be added to the AI pane]]
+- safety-privacy: [[Changes/Cursor/2024-09-17-this-update-fixes-the-following-security-issue-cve-2024-45599|This update fixes the following security issue: CVE-2024-45599]]
 <!-- chronolog:end -->

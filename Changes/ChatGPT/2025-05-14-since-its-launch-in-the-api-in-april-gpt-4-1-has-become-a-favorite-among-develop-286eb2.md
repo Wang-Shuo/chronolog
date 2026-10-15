@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 8becb0fa64a5d7380db623e19a10f79bcfd7542d86da34e35ca49ed1956a2fcd
+machine_hash: 9a6e19b406480dda6abdd8f6073c668c652e88b01da9f42f7b0bd379746ea2fb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,7 +42,7 @@ record:
       get access in the coming weeks. GPT-4.1 has the same rate limits as GPT-4o for
       paid users.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -72,8 +72,7 @@ record:
     score: 50
     theme: interface-experience
   theme_resolution: manual-semantic-rule-v2
-  title: Since its launch in the API in April, GPT-4.1 has become a favorite among
-    develo
+  title: Since its launch in the API in April, GPT-4.1 has become a favorite among…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-04-16-today-we-re-releasing-openai-o3-and-o4-mini-the-latest-in-our-o-series-of-models|chatgpt-2025-04-16-cebd09]]'
@@ -82,11 +81,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-14-releasing-gpt-4-1-in-chatgpt-for-all-paid-users-ab6fd3aa|chatgpt-2025-05-14-releasing-gpt-4-1-in-chatgpt-for-all-paid-users-ab6fd3aa]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: Since its launch in the API in April, GPT-4.1 has become a favorite among develo
+title: Since its launch in the API in April, GPT-4.1 has become a favorite among…
 type: change
 ---
 
-# Since its launch in the API in April, GPT-4.1 has become a favorite among develo
+# Since its launch in the API in April, GPT-4.1 has become a favorite among…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Releasing GPT-4.1 in ChatGPT for all paid users: Since its launch in the API in April, GPT-4.1 has become a favorite among developers—by popular demand, we’re making it available directly in ChatGPT.GPT-4.1 is a specialized model that excels at coding tasks. Compared to GPT-4o, it's even stronger at precise instruction following and web development tasks, and offers an alternative to OpenAI o3 and OpenAI o4-mini for simpler, everyday coding needs.Starting today, Plus, Pro, and Team users can access GPT-4.1 via the "more models" dropdown in the model picker. Enterprise and Edu users will get access in the coming weeks. GPT-4.1 has the same rate limits as GPT-4o for paid users.

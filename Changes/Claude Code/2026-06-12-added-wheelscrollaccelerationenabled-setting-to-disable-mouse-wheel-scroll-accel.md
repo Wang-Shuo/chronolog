@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: b76a9cb5b09f324aaf5e4de3e4560c101a0b539008c2cb39545686beed22a93a
+machine_hash: 13a0cde85decb0b8c3354e73d2149d417b9519beeb649a4982f3e0c44974e0b5
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `wheelScrollAccelerationEnabled` setting to disable mouse-wheel scroll
       acceleration in fullscreen mode
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.174
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -34,8 +34,7 @@ record:
   source_release: claude-code-2026-06-12-v2-1-174-github-338280944-f2fd4f4d
   source_type: github_releases
   theme: interface-experience
-  title: Added `wheelScrollAccelerationEnabled` setting to disable mouse-wheel scroll
-    acc
+  title: Added `wheelScrollAccelerationEnabled` setting to disable mouse-wheel scroll…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-06-08-table-of-contents-in-longer-conversations-conversations-longer-than-five-respons|chatgpt-2026-06-08-7c23e0]]'
@@ -44,12 +43,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-12-v2-1-174-github-338280944-f2fd4f4d|claude-code-2026-06-12-v2-1-174-github-338280944-f2fd4f4d]]'
 source_type: github_releases
 theme: interface-experience
-title: Added wheelScrollAccelerationEnabled setting to disable mouse-wheel scroll
-  acc
+title: Added wheelScrollAccelerationEnabled setting to disable mouse-wheel scroll…
 type: change
 ---
 
-# Added `wheelScrollAccelerationEnabled` setting to disable mouse-wheel scroll acc
+# Added `wheelScrollAccelerationEnabled` setting to disable mouse-wheel scroll…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.174: Added `wheelScrollAccelerationEnabled` setting to disable mouse-wheel scroll acceleration in fullscreen mode

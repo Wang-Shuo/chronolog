@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-09-29'
-machine_hash: b1144b9af3d9daa38e3782f45701dabd628cef71976220bdafe28ecdef496011
+machine_hash: ea84d4438dcfdd09bcf55283939aff2db7c522cd9270f574ab3c6416c5785126
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- memory: [[Changes/ChatGPT/2026-09-29-you-can-use-your-chatgpt-account-to-sign-in-to-participating-products-without-cr|You can use your ChatGPT account to sign in to participating products without cr]]
+- memory: [[Changes/ChatGPT/2026-09-29-you-can-use-your-chatgpt-account-to-sign-in-to-participating-products-without-cr|You can use your ChatGPT account to sign in to participating products without…]]
 <!-- chronolog:end -->

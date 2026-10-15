@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f3da17d00aa7e0bb32c570beecd525a63855c600626fbec42a8ecc4d14089cfe
+machine_hash: 66310644aef939b39298afda2b60899fa6adc002945f4058ca71560c1312d011
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Debug Mode helps you reproduce and fix the most tricky bugs.
     source_release: https://cursor.com/changelog/2-2
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,7 +35,7 @@ record:
   theme: developer-workflow
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Debug Mode helps you reproduce and fix the most tricky bugs.
+  title: Debug Mode helps you reproduce and fix the most tricky bugs
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-09-12-you-can-now-create-reusable-prompts-and-quickly-share-them-with-your-team-comman|cursor-2025-09-12-87e5b1]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323|cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323]]'
 source_type: cursor_changelog
 theme: developer-workflow
-title: Debug Mode helps you reproduce and fix the most tricky bugs.
+title: Debug Mode helps you reproduce and fix the most tricky bugs
 type: change
 ---
 
-# Debug Mode helps you reproduce and fix the most tricky bugs.
+# Debug Mode helps you reproduce and fix the most tricky bugs
 
 <!-- chronolog:begin region="description" -->
 Cursor — Debug Mode, Plan Mode Improvements, Multi-Agent Judging, and Pinned Chats: Debug Mode helps you reproduce and fix the most tricky bugs.

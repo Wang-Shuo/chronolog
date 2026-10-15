@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 93892c93afe5cd2eea0ffb762e865f03d0c518d5ecfdb36b42d3caa4be06f146
+machine_hash: 375d1e5bfca222e81e79219177e7dd1ad7be375134bf03bdb19013273369bc3a
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Improved `/doctor` with consistent flat tree layout across all sections,
       clearer section status icons, and highlighted command names
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.178
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,7 +38,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: Improved `/doctor` with consistent flat tree layout across all sections,
-    clearer
+    clearer…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-02-parallel-tool-calls-a-failed-bash-command-no-longer-cancels-other-calls-in-the-s|claude-code-2026-06-02-ae28c1]]'
@@ -47,11 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-15-v2-1-178-github-339741361-902bc427|claude-code-2026-06-15-v2-1-178-github-339741361-902bc427]]'
 source_type: github_releases
 theme: developer-workflow
-title: Improved /doctor with consistent flat tree layout across all sections, clearer
+title: Improved /doctor with consistent flat tree layout across all sections, clearer…
 type: change
 ---
 
-# Improved `/doctor` with consistent flat tree layout across all sections, clearer
+# Improved `/doctor` with consistent flat tree layout across all sections, clearer…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.178: Improved `/doctor` with consistent flat tree layout across all sections, clearer section status icons, and highlighted command names

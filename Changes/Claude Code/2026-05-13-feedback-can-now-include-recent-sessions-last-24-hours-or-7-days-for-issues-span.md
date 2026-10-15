@@ -11,9 +11,9 @@ diffusion:
   theme: projects-workspaces
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: da108ef270816275927b16f054c0a80ed828506c4ca65555a328f6619655cc44
+machine_hash: 2057229d335ff8f1c16ed9f09488333d25b13d84a47579cd91d9657bed4550bd
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: '`/feedback` can now include recent sessions (last 24 hours or 7 days)
       for issues spanning more than the current session'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.141
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: '`/feedback` can now include recent sessions (last 24 hours or 7 days) for
-    issues'
+    issues…'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-06-improved-rename-to-work-while-claude-is-processing-instead-of-being-silently-que|claude-code-2026-03-06-836c05]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22|claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22]]'
 source_type: github_releases
 theme: projects-workspaces
-title: /feedback can now include recent sessions (last 24 hours or 7 days) for issues
+title: /feedback can now include recent sessions (last 24 hours or 7 days) for issues…
 type: change
 ---
 
-# `/feedback` can now include recent sessions (last 24 hours or 7 days) for issues
+# `/feedback` can now include recent sessions (last 24 hours or 7 days) for issues…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.141: `/feedback` can now include recent sessions (last 24 hours or 7 days) for issues spanning more than the current session

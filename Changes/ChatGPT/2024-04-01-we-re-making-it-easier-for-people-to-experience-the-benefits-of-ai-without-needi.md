@@ -11,9 +11,9 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 433cf478fcd8ab580766f3d5093bf9a7dc836f0b3736baae9b8bce2979adb305
+machine_hash: f4e6f0884b61260f70013d050f1e4a244966d612c76be461a6f51685f08d6a9c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       to sign-up. We're rolling this out gradually, with the aim to make AI accessible
       to anyone curious about its capabilities.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -42,7 +42,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: We’re making it easier for people to experience the benefits of AI without
-    needi
+    needing…
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-06-27-if-you-re-not-logged-in-we-show-the-popup-to-log-in-again|cursor-2023-06-27-2e6d58]]'
@@ -52,11 +52,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2024-04-01-start-using-chatgpt-insta
 source_type: chatgpt_changelog
 theme: account-access
 title: We’re making it easier for people to experience the benefits of AI without
-  needi
+  needing…
 type: change
 ---
 
-# We’re making it easier for people to experience the benefits of AI without needi
+# We’re making it easier for people to experience the benefits of AI without needing…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Start using ChatGPT instantly: We’re making it easier for people to experience the benefits of AI without needing to sign up. Starting today, you can use ChatGPT instantly, without needing to sign-up. We're rolling this out gradually, with the aim to make AI accessible to anyone curious about its capabilities.

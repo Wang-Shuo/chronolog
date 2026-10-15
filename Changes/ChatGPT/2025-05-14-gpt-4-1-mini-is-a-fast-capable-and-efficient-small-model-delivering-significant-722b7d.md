@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: adf7c69e48f74ea1689c5e78f12c83a653816bf7564141362568c77d8ac225c8
+machine_hash: 0df67590d71dcf677dccb83feaebe53972766ec9d2059742b7b946f7b23ecbb8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,7 +42,7 @@ record:
       safety evaluations. Detailed results are available in the newly launched Safety
       Evaluations Hub.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -68,7 +68,7 @@ record:
     score: 50
     theme: safety-privacy
   theme_resolution: manual-semantic-rule-v2
-  title: GPT-4.1 mini is a fast, capable, and efficient small model, delivering significa
+  title: GPT-4.1 mini is a fast, capable, and efficient small model, delivering significant…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-04-25-we-re-making-additional-improvements-to-gpt-4o-optimizing-when-it-saves-memories|chatgpt-2025-04-25-6ac8ab]]'
@@ -77,11 +77,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-14-introducing-gpt-4-1-mini-replacing-gpt-4o-mini-in-chatgpt-for-al-05dfeae0|chatgpt-2025-05-14-introducing-gpt-4-1-mini-replacing-gpt-4o-mini-in-chatgpt-for-al-05dfeae0]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: GPT-4.1 mini is a fast, capable, and efficient small model, delivering significa
+title: GPT-4.1 mini is a fast, capable, and efficient small model, delivering significant…
 type: change
 ---
 
-# GPT-4.1 mini is a fast, capable, and efficient small model, delivering significa
+# GPT-4.1 mini is a fast, capable, and efficient small model, delivering significant…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Introducing GPT-4.1 mini, replacing GPT-4o mini, in ChatGPT for all users: GPT-4.1 mini is a fast, capable, and efficient small model, delivering significant improvements compared to GPT-4o mini—in instruction-following, coding, and overall intelligence. Starting today, GPT-4.1 mini replaces GPT-4o mini in the model picker under "more models" for paid users, and will serve as the fallback model for free users once they reach their GPT-4o usage limits. Rate limits remain the same.Evals for GPT-4.1 and GPT-4.1 mini were originally shared in the blog post accompanying their API release. They also went through standard safety evaluations. Detailed results are available in the newly launched Safety Evaluations Hub.

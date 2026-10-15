@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 35eb8aa25187af7eee324e4a5206113c30df60f3001171c3632d86cea2006467
+machine_hash: 26d3bc05a232848c56773f9343d90c6789c9b4a45c0761a77f2683c385e75ad1
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Try out the new plugins at cursor.com/marketplace, or read more in our
       announcement.
     source_release: https://cursor.com/changelog/03-11-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -36,7 +36,7 @@ record:
   source_release: cursor-2026-03-11-new-plugins-on-the-cursor-marketplace-https-cursor-com-changelog-f5d077c3
   source_type: cursor_changelog
   theme: apps-integrations
-  title: Try out the new plugins at cursor.com/marketplace, or read more in our announcem
+  title: Try out the new plugins at cursor.com/marketplace, or read more in our announcement
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-06-reduced-remote-control-poll-rate-to-once-per-10-minutes-while-connected-was-1-2s|claude-code-2026-03-06-7eca43]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-03-11-new-plugins-on-the-cursor-marketplace-https-cursor-com-changelog-f5d077c3|cursor-2026-03-11-new-plugins-on-the-cursor-marketplace-https-cursor-com-changelog-f5d077c3]]'
 source_type: cursor_changelog
 theme: apps-integrations
-title: Try out the new plugins at cursor.com/marketplace, or read more in our announcem
+title: Try out the new plugins at cursor.com/marketplace, or read more in our announcement
 type: change
 ---
 
-# Try out the new plugins at cursor.com/marketplace, or read more in our announcem
+# Try out the new plugins at cursor.com/marketplace, or read more in our announcement
 
 <!-- chronolog:begin region="description" -->
 Cursor — New Plugins on the Cursor Marketplace: Try out the new plugins at cursor.com/marketplace, or read more in our announcement.

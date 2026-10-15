@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-12-30'
-machine_hash: 64817c7e57fd70872b81d1748ac8933446bae36777d28d3f9abc71bbbec0fadf
+machine_hash: bc043d93749cbf74bbe9f7136d9b18ecf4ce807989fcdbf96deaac969edc8466
 product: cursor
 product_name: Cursor
 record:
@@ -40,5 +40,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- mobile-desktop: [[Changes/Cursor/2023-12-30-cursor-is-now-based-on-vs-code-1-85-1-which-among-other-things-includes-floating|Cursor is now based on VS Code 1.85.1, which, among other things, includes float]]
+- mobile-desktop: [[Changes/Cursor/2023-12-30-cursor-is-now-based-on-vs-code-1-85-1-which-among-other-things-includes-floating|Cursor is now based on VS Code 1.85.1, which, among other things, includes floating…]]
 <!-- chronolog:end -->

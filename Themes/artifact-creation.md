@@ -1,7 +1,7 @@
 ---
 created: '2026-07-09'
 date: '2026-07-09'
-machine_hash: 99543c49ba353e3b3d3fbb808eead09d3938e0037802116028f6d2d3806fa8b5
+machine_hash: 8ee1561db3c5699e6eb362950589f1454bf533c1d47bf416e3027f3e701d02eb
 modified: '2026-07-09'
 products_involved:
 - ChatGPT
@@ -27,7 +27,7 @@ Scope: tracked-products-only. Entries show same-theme chronology; they do not es
 
 ### 2026
 
-- 2026-07-09 · ChatGPT: [[Changes/ChatGPT/2026-07-09-chatgpt-sites-lets-you-turn-your-work-or-ideas-into-an-interactive-website-or-li|ChatGPT Sites lets you turn your work or ideas into an interactive website or li]]
+- 2026-07-09 · ChatGPT: [[Changes/ChatGPT/2026-07-09-chatgpt-sites-lets-you-turn-your-work-or-ideas-into-an-interactive-website-or-li|ChatGPT Sites lets you turn your work or ideas into an interactive website…]]
 <!-- chronolog:end -->
 
 ## Change Cards

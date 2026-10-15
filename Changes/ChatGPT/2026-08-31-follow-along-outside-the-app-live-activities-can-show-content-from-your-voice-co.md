@@ -11,9 +11,9 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a8a7a5eeb520984716967db0c8686b0df5f908d89eb32282b54798aa39623f02
+machine_hash: f1699aceffcd18e29a37b8d1c11b7fa18d45ad24bfb2756bf53779409144804a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Follow along outside the app. Live Activities can show content from your
       voice conversation while you use another app or your phone is locked.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -35,8 +35,7 @@ record:
   source_release: chatgpt-2026-08-31-see-live-voice-content-on-your-lock-screen-3b9abebd
   source_type: chatgpt_changelog
   theme: voice
-  title: Follow along outside the app. Live Activities can show content from your
-    voice c
+  title: Follow along outside the app
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-08-07-gpt-live-in-chatgpt-voice-now-supports-file-uploads-and-projects-you-can-now-upl|chatgpt-2026-08-07-d320ca]]'
@@ -45,12 +44,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-31-see-live-voice-content-on-your-lock-screen-3b9abebd|chatgpt-2026-08-31-see-live-voice-content-on-your-lock-screen-3b9abebd]]'
 source_type: chatgpt_changelog
 theme: voice
-title: Follow along outside the app. Live Activities can show content from your voice
-  c
+title: Follow along outside the app
 type: change
 ---
 
-# Follow along outside the app. Live Activities can show content from your voice c
+# Follow along outside the app
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — See Live voice content on your Lock Screen: Follow along outside the app. Live Activities can show content from your voice conversation while you use another app or your phone is locked.

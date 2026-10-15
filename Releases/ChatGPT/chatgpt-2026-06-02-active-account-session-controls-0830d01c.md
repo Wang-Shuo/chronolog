@@ -1,7 +1,7 @@
 ---
 changes_count: 4
 date: '2026-06-02'
-machine_hash: ebba8cb6d6f097527794bf458acdb371d50b624be6d06ee88c1be5813240be8c
+machine_hash: b2a77685a0ce612f480684face35f272ad8c06d08d7508c01d2626d1ba91acad
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,8 +40,8 @@ Tracked cards: 4
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- account-access: [[Changes/ChatGPT/2026-06-02-active-sessions-shows-sessions-known-through-session-management-including-chatgp|Active sessions shows sessions known through session management, including ChatG]]
-- safety-privacy: [[Changes/ChatGPT/2026-06-02-review-first-party-openai-sessions-from-settings-security-active-sessions-with-a|Review first-party OpenAI sessions from Settings  Security  Active sessions, w]]
+- account-access: [[Changes/ChatGPT/2026-06-02-active-sessions-shows-sessions-known-through-session-management-including-chatgp|Active sessions shows sessions known through session management, including ChatGPT…]]
+- safety-privacy: [[Changes/ChatGPT/2026-06-02-review-first-party-openai-sessions-from-settings-security-active-sessions-with-a|Review first-party OpenAI sessions from Settings  Security  Active sessions…]]
 - account-access: [[Changes/ChatGPT/2026-06-02-log-out-of-individual-sessions-or-all-sessions-from-active-sessions|Log out of individual sessions or all sessions from Active sessions]]
-- safety-privacy: [[Changes/ChatGPT/2026-06-02-we-re-rolling-out-active-sessions-a-new-security-feature-in-chatgpt-that-helps-u|We’re rolling out Active sessions, a new security feature in ChatGPT that helps]]
+- safety-privacy: [[Changes/ChatGPT/2026-06-02-we-re-rolling-out-active-sessions-a-new-security-feature-in-chatgpt-that-helps-u|ChatGPT rolls out Active sessions, a new security feature that helps users review…]]
 <!-- chronolog:end -->

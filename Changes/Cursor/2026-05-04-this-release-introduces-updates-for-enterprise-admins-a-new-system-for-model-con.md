@@ -11,9 +11,9 @@ diffusion:
   theme: enterprise-admin
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 2eb254b559a3b8d41aa342bf43273c88e76acf474278db17c20d370297a87952
+machine_hash: 2e23204b483356244fb99b3393d83427c7839e0b48eb9a76e74d93b21a2c2c89
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
   - quote: 'This release introduces updates for Enterprise admins: a new system for
       model controls, updated spend management, and more detail for usage analytics.'
     source_release: https://cursor.com/changelog/05-04-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -47,8 +47,7 @@ record:
     - model
     score: 50
     theme: model-support
-  title: 'This release introduces updates for Enterprise admins: a new system for
-    model co'
+  title: Cursor introduces updates for Enterprise admins
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-23-from-pr-now-accepts-gitlab-merge-request-bitbucket-pull-request-and-github-enter|claude-code-2026-04-23-098176]]'
@@ -57,12 +56,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-05-04-model-controls-spend-management-and-usage-analytics-https-cursor-1ab41047|cursor-2026-05-04-model-controls-spend-management-and-usage-analytics-https-cursor-1ab41047]]'
 source_type: cursor_changelog
 theme: enterprise-admin
-title: 'This release introduces updates for Enterprise admins: a new system for model
-  co'
+title: Cursor introduces updates for Enterprise admins
 type: change
 ---
 
-# This release introduces updates for Enterprise admins: a new system for model co
+# Cursor introduces updates for Enterprise admins
 
 <!-- chronolog:begin region="description" -->
 Cursor — Model controls, spend management, and usage analytics: This release introduces updates for Enterprise admins: a new system for model controls, updated spend management, and more detail for usage analytics.

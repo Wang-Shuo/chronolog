@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-09-05'
-machine_hash: 3ea3ff024b12b224314241084f778cbc9346b6f32c6bb29816693076b1e2f5df
+machine_hash: aa2936629984898eb49cc1db1703955ffef9d5b93dc3f878f44ba905b33b211a
 product: cursor
 product_name: Cursor
 record:
@@ -38,5 +38,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- editor-experience: [[Changes/Cursor/2023-09-05-cmd-k-will-no-longer-output-backticks-if-you-do-file|Cmd-K will no longer output backticks if you do @file.]]
+- editor-experience: [[Changes/Cursor/2023-09-05-cmd-k-will-no-longer-output-backticks-if-you-do-file|Cmd-K will no longer output backticks if you do @file]]
 <!-- chronolog:end -->

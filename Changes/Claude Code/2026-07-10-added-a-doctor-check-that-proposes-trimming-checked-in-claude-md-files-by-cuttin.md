@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0eb0f6caaf6fc634b87b66decd530b5a20ea9a83accdd33cd21f66d92b0c7667
+machine_hash: b56fa37ae5f1ed384ba5d34ba5397cf9023d1c30100dc0b498efe9de2208aa87
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added a `/doctor` check that proposes trimming checked-in `CLAUDE.md` files
       by cutting content Claude could derive from the codebase
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.206
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   theme: editor-experience
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Added a `/doctor` check that proposes trimming checked-in `CLAUDE.md` files
-    by c
+  title: Added a `/doctor` check that proposes trimming checked-in `CLAUDE.md` files…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-06-10-review-also-syncs-with-bugbot-on-github-and-gitlab-if-you-run-review-and-then-op|cursor-2026-06-10-ce252c]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-10-v2-1-206-github-351694341-0226036e|claude-code-2026-07-10-v2-1-206-github-351694341-0226036e]]'
 source_type: github_releases
 theme: editor-experience
-title: Added a /doctor check that proposes trimming checked-in CLAUDE.md files by
-  c
+title: Added a /doctor check that proposes trimming checked-in CLAUDE.md files…
 type: change
 ---
 
-# Added a `/doctor` check that proposes trimming checked-in `CLAUDE.md` files by c
+# Added a `/doctor` check that proposes trimming checked-in `CLAUDE.md` files…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.206: Added a `/doctor` check that proposes trimming checked-in `CLAUDE.md` files by cutting content Claude could derive from the codebase

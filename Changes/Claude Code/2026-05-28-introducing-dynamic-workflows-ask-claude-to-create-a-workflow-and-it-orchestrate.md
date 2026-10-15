@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 41318b0c6842aa2c2eb35e76bf303893a0ce32149ca89ec63009598e90e5bf3e
+machine_hash: e3d4908840c9e54ad22d83b2ad5552ea6bbe01a742968b9d314ac0fa368a40f8
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,7 +29,7 @@ record:
       orchestrates work across tens to hundreds of agents in the background, so you
       can take on larger, more complex tasks. Run `/workflows` to view your runs'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.154
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   source_release: claude-code-2026-05-28-v2-1-154-github-330944050-782cdfc9
   source_type: github_releases
   theme: agent-mode
-  title: 'Introducing dynamic workflows: ask Claude to create a workflow and it orchestrat'
+  title: Introducing dynamic workflows
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-20-with-loop-cursor-can-run-a-prompt-repeatedly-on-a-local-schedule-until-a-certain|cursor-2026-05-20-8c2c28]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-28-v2-1-154-github-330944050-782cdfc9|claude-code-2026-05-28-v2-1-154-github-330944050-782cdfc9]]'
 source_type: github_releases
 theme: agent-mode
-title: 'Introducing dynamic workflows: ask Claude to create a workflow and it orchestrat'
+title: Introducing dynamic workflows
 type: change
 ---
 
-# Introducing dynamic workflows: ask Claude to create a workflow and it orchestrat
+# Introducing dynamic workflows
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.154: Introducing dynamic workflows: ask Claude to create a workflow and it orchestrates work across tens to hundreds of agents in the background, so you can take on larger, more complex tasks. Run `/workflows` to view your runs

@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5fefa76b2ac2130650395ec81a09d3d4871bb5a34b1c97b3aeef87decbb4b612
+machine_hash: 2eed50e84896f4bf625d289104300d5bd27b49cfa7a4c4427df1f10df53433c8
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
       to completion, fixing CI and addressing bot comments. In Slack, ask @cursor
       check back in an hour and keep going until that feedback is in.
     source_release: https://cursor.com/changelog/08-19-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -47,8 +47,7 @@ record:
     score: 50
     theme: editor-experience
   theme_resolution: manual-semantic-rule-v1
-  title: Cloud agents automatically subscribe to PRs they create and drive them to
-    comple
+  title: Cloud agents automatically subscribe to PRs they create and drive them…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-12-listagents-now-marks-disconnected-remote-control-sessions-as-offline-and-labels|claude-code-2026-08-12-5f8233]]'
@@ -57,11 +56,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-08-19-cloud-agents-and-cursor-harness-improvements-https-cursor-com-ch-a4daf0c1|cursor-2026-08-19-cloud-agents-and-cursor-harness-improvements-https-cursor-com-ch-a4daf0c1]]'
 source_type: cursor_changelog
 theme: apps-integrations
-title: Cloud agents automatically subscribe to PRs they create and drive them to comple
+title: Cloud agents automatically subscribe to PRs they create and drive them…
 type: change
 ---
 
-# Cloud agents automatically subscribe to PRs they create and drive them to comple
+# Cloud agents automatically subscribe to PRs they create and drive them…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cloud Agents and Cursor Harness Improvements: Cloud agents automatically subscribe to PRs they create and drive them to completion, fixing CI and addressing bot comments. In Slack, ask @cursor check back in an hour and keep going until that feedback is in.

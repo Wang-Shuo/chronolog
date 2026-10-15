@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d8b2f6c26fbda0b70b243bd730968eecd9144e782ea8a148733debd111fc2c81
+machine_hash: f5fef39154bf72916ffefbc85be1d3ed5c7d1975cd87fa87bb08ffae82ec1213
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Added forking a session started with `claude --remote-control` or `/remote-control`
       from the Claude app; the fork runs as a background session on your computer
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.273
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Added forking a session started with `claude --remote-control` or `/remote-contr
+  title: Added forking a session started with `claude --remote-control` or `/remote-control`…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-11-added-claude-plugin-eval-run-a-plugin-s-eval-suite-against-claude-code-and-get-s|claude-code-2026-09-11-e50c45]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826|claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added forking a session started with claude --remote-control or /remote-contr
+title: Added forking a session started with claude --remote-control or /remote-control…
 type: change
 ---
 
-# Added forking a session started with `claude --remote-control` or `/remote-contr
+# Added forking a session started with `claude --remote-control` or `/remote-control`…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.273: Added forking a session started with `claude --remote-control` or `/remote-control` from the Claude app; the fork runs as a background session on your computer

@@ -11,9 +11,9 @@ diffusion:
   theme: search-browsing
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 097a136eae3038372be9d5241bb357600975260fcbe594634535d598af1e2474
+machine_hash: fd4e141b5d37328184ae2aee415f241a41425deacad9fbf12f162b93f8abe108
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   - quote: We’ve made further improvements to search in ChatGPT, making results more
       accurate, reliable, and useful.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -36,8 +36,7 @@ record:
   theme: search-browsing
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: We’ve made further improvements to search in ChatGPT, making results more
-    accura
+  title: ChatGPT makes further improvements to search, making results more accurate…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-06-13-we-ve-upgraded-chatgpt-search-for-all-users-to-provide-even-more-comprehensive-u|chatgpt-2025-06-13-2cebee]]'
@@ -46,11 +45,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-16-improvements-to-search-in-chatgpt-2ec68690|chatgpt-2025-09-16-improvements-to-search-in-chatgpt-2ec68690]]'
 source_type: chatgpt_changelog
 theme: search-browsing
-title: We’ve made further improvements to search in ChatGPT, making results more accura
+title: ChatGPT makes further improvements to search, making results more accurate…
 type: change
 ---
 
-# We’ve made further improvements to search in ChatGPT, making results more accura
+# ChatGPT makes further improvements to search, making results more accurate…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Improvements to search in ChatGPT: We’ve made further improvements to search in ChatGPT, making results more accurate, reliable, and useful.

@@ -11,9 +11,9 @@ diffusion:
   theme: accessibility-localization
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 354cbc62bd318aeb0b46216a07aea53e3116c94961c0cfc66b1953d5b447c41c
+machine_hash: 80ccdf6d26fac656f8cb76127874df7028a6fce741c59d012c1862693da554fe
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: 'Improved screen-reader output: decorative glyphs are now hidden, transcript
       symbols read as short labels, and nested tables read as `Header: value.` lines'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.200
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,8 +35,7 @@ record:
   source_release: claude-code-2026-07-03-v2-1-200-github-348415228-64d6d68d
   source_type: github_releases
   theme: accessibility-localization
-  title: 'Improved screen-reader output: decorative glyphs are now hidden, transcript
-    symb'
+  title: Improved screen-reader output
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-28-added-support-for-full-width-zenkaku-number-input-from-japanese-ime-in-option-se|claude-code-2026-01-28-95d1f5]]'
@@ -45,12 +44,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-03-v2-1-200-github-348415228-64d6d68d|claude-code-2026-07-03-v2-1-200-github-348415228-64d6d68d]]'
 source_type: github_releases
 theme: accessibility-localization
-title: 'Improved screen-reader output: decorative glyphs are now hidden, transcript
-  symb'
+title: Improved screen-reader output
 type: change
 ---
 
-# Improved screen-reader output: decorative glyphs are now hidden, transcript symb
+# Improved screen-reader output
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.200: Improved screen-reader output: decorative glyphs are now hidden, transcript symbols read as short labels, and nested tables read as `Header: value.` lines

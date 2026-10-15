@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 2bc27c9c0d0b360b3d9166ae6add5d59235d9411137b2eb21a44616604a6f758
+machine_hash: f100b187fc5910b1a7afee0b7bb91460859bdab2ce0df4d055121281d315ada6
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       telemetry emitted by workflow-spawned agents, so a workflow run's activity can
       be reconstructed from OTel data
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.202
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,7 +36,7 @@ record:
   source_release: claude-code-2026-07-06-v2-1-202-github-349856235-58e6d3e8
   source_type: github_releases
   theme: agent-mode
-  title: Added `workflow.run_id` and `workflow.name` OpenTelemetry attributes to telemetr
+  title: Added `workflow.run_id` and `workflow.name` OpenTelemetry attributes to telemetry…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-01-subagents-now-run-in-the-background-by-default-so-claude-keeps-working-while-the|claude-code-2026-07-01-0bd143]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-06-v2-1-202-github-349856235-58e6d3e8|claude-code-2026-07-06-v2-1-202-github-349856235-58e6d3e8]]'
 source_type: github_releases
 theme: agent-mode
-title: Added workflow.run_id and workflow.name OpenTelemetry attributes to telemetr
+title: Added workflow.run_id and workflow.name OpenTelemetry attributes to telemetry…
 type: change
 ---
 
-# Added `workflow.run_id` and `workflow.name` OpenTelemetry attributes to telemetr
+# Added `workflow.run_id` and `workflow.name` OpenTelemetry attributes to telemetry…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.202: Added `workflow.run_id` and `workflow.name` OpenTelemetry attributes to telemetry emitted by workflow-spawned agents, so a workflow run's activity can be reconstructed from OTel data

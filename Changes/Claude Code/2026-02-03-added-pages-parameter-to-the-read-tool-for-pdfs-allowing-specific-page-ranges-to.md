@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 116b9200eb78896febdb54ae3c8a3ec1ee6ee050a68c4ee73662d1a3feb678c7
+machine_hash: 4cf7c645f99d5e628e1f98f42dded3f086ef07a39fe0c0807df70368dcf38bd3
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,7 +29,7 @@ record:
       ranges to be read (e.g., `pages: "1-5"`). Large PDFs (>10 pages) now return
       a lightweight reference when `@` mentioned instead of being inlined into context.'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.30
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,7 +38,7 @@ record:
   source_type: github_releases
   theme: context-window
   title: Added `pages` parameter to the Read tool for PDFs, allowing specific page
-    ranges
+    ranges…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-13-added-context-window-used-percentage-and-context-window-remaining-percentage-fie|claude-code-2026-01-13-00ffe3]]'
@@ -47,11 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-02-03-v2-1-30-github-282673902-7b2e46f2|claude-code-2026-02-03-v2-1-30-github-282673902-7b2e46f2]]'
 source_type: github_releases
 theme: context-window
-title: Added pages parameter to the Read tool for PDFs, allowing specific page ranges
+title: Added pages parameter to the Read tool for PDFs, allowing specific page ranges…
 type: change
 ---
 
-# Added `pages` parameter to the Read tool for PDFs, allowing specific page ranges
+# Added `pages` parameter to the Read tool for PDFs, allowing specific page ranges…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.30: Added `pages` parameter to the Read tool for PDFs, allowing specific page ranges to be read (e.g., `pages: "1-5"`). Large PDFs (>10 pages) now return a lightweight reference when `@` mentioned instead of being inlined into context.

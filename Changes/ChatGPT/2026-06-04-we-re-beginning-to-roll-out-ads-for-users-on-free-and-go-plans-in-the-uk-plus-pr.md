@@ -11,9 +11,9 @@ diffusion:
   theme: enterprise-admin
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0a48b5743ce9ad90a19311432c5fc70fae892ffdc653b52e166b2e46dc5a93ee
+machine_hash: 9d8f1c5cb835d29cf7c97b3902f583b68a5500fd2a34799d9cd3b6c0d77374ec
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: We're beginning to roll out ads for users on Free and Go plans in the UK.
       Plus, Pro, Business, Enterprise, and Education plans will remain ad-free.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -35,8 +35,7 @@ record:
   source_release: chatgpt-2026-06-04-rolling-out-ads-in-the-uk-6015e870
   source_type: chatgpt_changelog
   theme: enterprise-admin
-  title: We're beginning to roll out ads for users on Free and Go plans in the UK.
-    Plus,
+  title: We're beginning to roll out ads for users on Free and Go plans in the UK
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-11-teams-admins-and-individual-plan-users-can-now-customize-the-effort-level-bugbot|cursor-2026-05-11-91c39e]]'
@@ -45,11 +44,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-04-rolling-out-ads-in-the-uk-6015e870|chatgpt-2026-06-04-rolling-out-ads-in-the-uk-6015e870]]'
 source_type: chatgpt_changelog
 theme: enterprise-admin
-title: We're beginning to roll out ads for users on Free and Go plans in the UK. Plus,
+title: We're beginning to roll out ads for users on Free and Go plans in the UK
 type: change
 ---
 
-# We're beginning to roll out ads for users on Free and Go plans in the UK. Plus,
+# We're beginning to roll out ads for users on Free and Go plans in the UK
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Rolling out ads in the UK: We're beginning to roll out ads for users on Free and Go plans in the UK. Plus, Pro, Business, Enterprise, and Education plans will remain ad-free.

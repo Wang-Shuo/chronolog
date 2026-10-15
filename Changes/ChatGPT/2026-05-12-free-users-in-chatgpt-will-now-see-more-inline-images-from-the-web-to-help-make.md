@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 946cd81f76bce820df2f8ecf875d5ebaccbf6dbaf352bdb7299b9782b8066594
+machine_hash: 244c8c444beccae826c6b5f6f3732a7f6b02e572667277e4fb5e9763afe31f41
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,7 +34,7 @@ record:
       and see source attribution.This is rolling out globally on web and iOS to Free
       users for responses using 5.5-Instant.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -43,7 +43,7 @@ record:
   source_type: chatgpt_changelog
   theme: mobile-desktop
   title: Free users in ChatGPT will now see more inline images from the web to help
-    make
+    make…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-15-added-push-notification-tool-claude-can-send-mobile-push-notifications-when-remo|claude-code-2026-04-15-681083]]'
@@ -53,11 +53,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-05-12-more-images-in-answers-fo
 source_type: chatgpt_changelog
 theme: mobile-desktop
 title: Free users in ChatGPT will now see more inline images from the web to help
-  make
+  make…
 type: change
 ---
 
-# Free users in ChatGPT will now see more inline images from the web to help make
+# Free users in ChatGPT will now see more inline images from the web to help make…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — More images in answers for Free users: Free users in ChatGPT will now see more inline images from the web to help make visual topics easier to understand, including well-known people, places, and products. When visuals can add clarity, images may appear alongside relevant parts of an answer. You can click any image to view it at its original size and see source attribution.This is rolling out globally on web and iOS to Free users for responses using 5.5-Instant.

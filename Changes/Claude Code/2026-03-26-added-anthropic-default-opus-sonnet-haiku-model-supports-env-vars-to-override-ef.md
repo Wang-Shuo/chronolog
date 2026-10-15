@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: fc5e508847c44721e27a8d4fecf4734841054fd853a086932efb70efac2fe537
+machine_hash: 7e3f1cdd363662ee740b3b742c3136aba62f92299829922bf9e635b427453d3c
 product: claude-code
 product_name: Claude Code
 record:
@@ -32,7 +32,7 @@ record:
       3p (Bedrock, Vertex, Foundry), and `_MODEL_NAME`/`_DESCRIPTION` to customize
       the `/model` picker label
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.84
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -54,7 +54,7 @@ record:
     theme: interface-experience
   theme_resolution: manual-semantic-rule-v2
   title: Added `ANTHROPIC_DEFAULT_{OPUS,SONNET,HAIKU}_MODEL_SUPPORTS` env vars to
-    overrid
+    override…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-03-18-we-re-rolling-out-gpt-5-4-mini-in-chatgpt-gpt-5-4-mini-is-available-to-free-and|chatgpt-2026-03-18-64ffa1]]'
@@ -63,11 +63,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-26-v2-1-84-github-301540101-d02104aa|claude-code-2026-03-26-v2-1-84-github-301540101-d02104aa]]'
 source_type: github_releases
 theme: model-support
-title: Added ANTHROPIC_DEFAULT{OPUS,SONNET,HAIKU}MODEL_SUPPORTS env vars to overrid
+title: Added ANTHROPIC_DEFAULT{OPUS,SONNET,HAIKU}MODEL_SUPPORTS env vars to override…
 type: change
 ---
 
-# Added `ANTHROPIC_DEFAULT_{OPUS,SONNET,HAIKU}_MODEL_SUPPORTS` env vars to overrid
+# Added `ANTHROPIC_DEFAULT_{OPUS,SONNET,HAIKU}_MODEL_SUPPORTS` env vars to override…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.84: Added `ANTHROPIC_DEFAULT_{OPUS,SONNET,HAIKU}_MODEL_SUPPORTS` env vars to override effort/thinking capability detection for pinned default models for 3p (Bedrock, Vertex, Foundry), and `_MODEL_NAME`/`_DESCRIPTION` to customize the `/model` picker label

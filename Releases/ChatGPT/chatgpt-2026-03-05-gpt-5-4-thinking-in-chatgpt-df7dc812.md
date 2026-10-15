@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-03-05'
-machine_hash: 03920ff162c738438ac0758f3c9328d7221c9f79aea01d7d5237236ed4ea68aa
+machine_hash: 97f28810037f4f206249300f2f02ce8510d6e0cd17e1b37c73455aa66c299d5e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- context-window: [[Changes/ChatGPT/2026-03-05-gpt-5-4-brings-together-the-best-of-our-recent-advances-in-reasoning-coding-and|GPT‑5.4 brings together the best of our recent advances in reasoning, coding, an]]
+- context-window: [[Changes/ChatGPT/2026-03-05-gpt-5-4-brings-together-the-best-of-our-recent-advances-in-reasoning-coding-and|GPT‑5.4 brings together the best of our recent advances in reasoning, coding…]]
 <!-- chronolog:end -->

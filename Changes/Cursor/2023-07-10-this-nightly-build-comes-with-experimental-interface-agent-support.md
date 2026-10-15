@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 00bd546f42061a680496d308a5906e9d72a2307153aa8da1d9386b455dd9ccd2
+machine_hash: c4de477b19d9d72a1bcd9bf331e1561dd45fd7d2a9293c850e203127b1962158
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: This nightly build comes with experimental interface agent support!
     source_release: https://cursor.com/changelog/0-2-46-nightly
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor

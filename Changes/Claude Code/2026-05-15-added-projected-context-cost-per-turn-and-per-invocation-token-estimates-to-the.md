@@ -11,9 +11,9 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: b70eb699851aa204bc900bbd039af7ec82c101807eef58ea5db714d9b3000779
+machine_hash: 1f3eee2eb80c7234981f5c471ac6e0b9c765161b2173cbb4d021f3e46ac8f469
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added projected context cost (per-turn and per-invocation token estimates)
       to the `/plugin` marketplace browse pane
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.143
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -48,8 +48,7 @@ record:
     score: 50
     theme: search-browsing
   theme_resolution: manual-semantic-rule-v1
-  title: Added projected context cost (per-turn and per-invocation token estimates)
-    to th
+  title: Added projected context cost (per-turn and per-invocation token estimates)…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-04-09-pro-200-month-our-highest-usage-option-remains-available-and-continues-on-its-cu|chatgpt-2026-04-09-6c3292]]'
@@ -58,12 +57,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c|claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c]]'
 source_type: github_releases
 theme: pricing-model
-title: Added projected context cost (per-turn and per-invocation token estimates)
-  to th
+title: Added projected context cost (per-turn and per-invocation token estimates)…
 type: change
 ---
 
-# Added projected context cost (per-turn and per-invocation token estimates) to th
+# Added projected context cost (per-turn and per-invocation token estimates)…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.143: Added projected context cost (per-turn and per-invocation token estimates) to the `/plugin` marketplace browse pane

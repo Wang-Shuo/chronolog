@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: a26dc015284ce32243d84ec73eaefed8a634c7894e97189261c2a7f5fe15f848
+machine_hash: 69f0295313f2f5381557895b21b57113bf547231bd6c919832008db776364218
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,7 +29,7 @@ record:
   - quote: 'Added `experimental.cacheTtl` (`"5m"` or `"1h"`) to agent frontmatter:
       a per-agent prompt cache TTL used when no subagent TTL setting is configured'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.248
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code
@@ -37,8 +37,7 @@ record:
   source_release: claude-code-2026-08-27-v2-1-248-github-378106990-677106e3
   source_type: github_releases
   theme: agent-mode
-  title: 'Added `experimental.cacheTtl` (`"5m"` or `"1h"`) to agent frontmatter: a
-    per-age'
+  title: Added `experimental.cacheTtl` (`"5m"` or `"1h"`) to agent frontmatter
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-08-19-use-any-skill-as-a-custom-mode-a-skill-that-stays-pinned-in-the-chat-custom-mode|cursor-2026-08-19-361b69]]'
@@ -47,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-08-27-v2-1-248-github-378106990-677106e3|claude-code-2026-08-27-v2-1-248-github-378106990-677106e3]]'
 source_type: github_releases
 theme: agent-mode
-title: 'Added experimental.cacheTtl ("5m" or "1h") to agent frontmatter: a per-age'
+title: Added experimental.cacheTtl ("5m" or "1h") to agent frontmatter
 type: change
 ---
 
-# Added `experimental.cacheTtl` (`"5m"` or `"1h"`) to agent frontmatter: a per-age
+# Added `experimental.cacheTtl` (`"5m"` or `"1h"`) to agent frontmatter
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.248: Added `experimental.cacheTtl` (`"5m"` or `"1h"`) to agent frontmatter: a per-agent prompt cache TTL used when no subagent TTL setting is configured

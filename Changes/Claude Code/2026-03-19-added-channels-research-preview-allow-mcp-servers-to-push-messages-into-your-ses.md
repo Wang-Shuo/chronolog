@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 184a4ea6c9e093b5f21c69ecfd667ec62c3533587afd650bf5e24e2d5cb1d5ac
+machine_hash: 7bd9c0c382482098d5ab29835df5d11c8ecd3aa3a1a2ec2ad06be762da215818
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `--channels` (research preview) — allow MCP servers to push messages
       into your session
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.80
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -34,8 +34,7 @@ record:
   source_release: claude-code-2026-03-19-v2-1-80-github-299176707-1bfcfc3a
   source_type: github_releases
   theme: apps-integrations
-  title: Added `--channels` (research preview) — allow MCP servers to push messages
-    into
+  title: Added `--channels` (research preview)
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-17-added-effort-maxturns-and-disallowedtools-frontmatter-support-for-plugin-shipped|claude-code-2026-03-17-567e32]]'
@@ -44,11 +43,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-19-v2-1-80-github-299176707-1bfcfc3a|claude-code-2026-03-19-v2-1-80-github-299176707-1bfcfc3a]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added --channels (research preview) — allow MCP servers to push messages into
+title: Added --channels (research preview)
 type: change
 ---
 
-# Added `--channels` (research preview) — allow MCP servers to push messages into
+# Added `--channels` (research preview)
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.80: Added `--channels` (research preview) — allow MCP servers to push messages into your session

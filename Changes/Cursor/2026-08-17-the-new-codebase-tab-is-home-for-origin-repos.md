@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 815636a7cc714c67a84fad49a9a33f2629f491f2c6897b0dc83220f5fa54ff28
+machine_hash: bc36313a9d7a899da2f81d0e93b6b8800bac4bf7d6f850de1dc0092b335b09bf
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   evidence:
   - quote: The new Codebase tab is home for Origin repos.
     source_release: https://cursor.com/changelog/origin-code-hosting
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -35,7 +35,7 @@ record:
   source_release: cursor-2026-08-17-origin-code-hosting-https-cursor-com-changelog-origin-code-hosti-ed3a9195
   source_type: cursor_changelog
   theme: editor-experience
-  title: The new Codebase tab is home for Origin repos.
+  title: The new Codebase tab is home for Origin repos
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-07-10-find-past-agent-chats-faster-with-search-results-that-go-beyond-names-and-pr-num|cursor-2026-07-10-268a25]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-08-17-origin-code-hosting-https-cursor-com-changelog-origin-code-hosti-ed3a9195|cursor-2026-08-17-origin-code-hosting-https-cursor-com-changelog-origin-code-hosti-ed3a9195]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: The new Codebase tab is home for Origin repos.
+title: The new Codebase tab is home for Origin repos
 type: change
 ---
 
-# The new Codebase tab is home for Origin repos.
+# The new Codebase tab is home for Origin repos
 
 <!-- chronolog:begin region="description" -->
 Cursor — Origin Code Hosting: The new Codebase tab is home for Origin repos.

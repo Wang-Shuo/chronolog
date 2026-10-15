@@ -11,9 +11,9 @@ diffusion:
   theme: file-data
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f4bc1f75b0745f25dd46e8341fe6ca56a6ac26a06829fba3ec7eae70d4f55f93
+machine_hash: 34d0a0e2983a47352c4336f2836b04a57fc84eab1de4aa7edef176164ae1de60
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,7 +39,7 @@ record:
       upload and files created in ChatGPT, including documents, spreadsheets, presentations,
       and images. Limits vary by plan:'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -59,7 +59,7 @@ record:
     score: 50
     theme: search-browsing
   title: File library is expanding to Free and Go users, including to users in the
-    Europe
+    European…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-04-15-cursor-can-now-respond-by-creating-interactive-canvases|cursor-2026-04-15-d2c23f]]'
@@ -68,11 +68,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-05-14-file-library-expands-to-free-and-go-users-with-storage-managemen-94a98ddb|chatgpt-2026-05-14-file-library-expands-to-free-and-go-users-with-storage-managemen-94a98ddb]]'
 source_type: chatgpt_changelog
 theme: file-data
-title: File library is expanding to Free and Go users, including to users in the Europe
+title: File library is expanding to Free and Go users, including to users in the European…
 type: change
 ---
 
-# File library is expanding to Free and Go users, including to users in the Europe
+# File library is expanding to Free and Go users, including to users in the European…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — File library expands to Free and Go users, with storage management: File library is expanding to Free and Go users, including to users in the European Economic Area (EEA) making it easier to find, reuse, and build on files you upload or create in ChatGPT. You can add recent files from the composer, browse saved files in Library, and ask ChatGPT about files you’ve used before, like “What should I know about the document I uploaded yesterday?”We’re also introducing storage management across plans. Storage includes files you upload and files created in ChatGPT, including documents, spreadsheets, presentations, and images. Limits vary by plan:

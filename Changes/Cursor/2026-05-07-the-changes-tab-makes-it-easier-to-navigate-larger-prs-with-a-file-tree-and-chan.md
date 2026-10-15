@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 26157dd6993bebe8aa61fea0651ccb28e715c5ee3d3e66500fbdc84cf6285737
+machine_hash: a6379dd7942210edf71437b14482c191e62924e36c825c50dcbbd1f2b3790b6b
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: The Changes tab makes it easier to navigate larger PRs with a file tree
       and changes picker.
     source_release: https://cursor.com/changelog/05-07-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -45,7 +45,7 @@ record:
     theme: interface-experience
   theme_resolution: manual-semantic-rule-v1
   title: The Changes tab makes it easier to navigate larger PRs with a file tree and
-    chan
+    changes picker
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-06-added-claude-code-disable-alternate-screen-1-env-var-to-opt-out-of-the-fullscree|claude-code-2026-05-06-6aaf8f]]'
@@ -55,11 +55,11 @@ source_release: '[[Releases/Cursor/cursor-2026-05-07-3-3-https-cursor-com-change
 source_type: cursor_changelog
 theme: interface-experience
 title: The Changes tab makes it easier to navigate larger PRs with a file tree and
-  chan
+  changes picker
 type: change
 ---
 
-# The Changes tab makes it easier to navigate larger PRs with a file tree and chan
+# The Changes tab makes it easier to navigate larger PRs with a file tree and changes picker
 
 <!-- chronolog:begin region="description" -->
 Cursor — PR Review, Build Plan in Parallel, and Split PRs: The Changes tab makes it easier to navigate larger PRs with a file tree and changes picker.

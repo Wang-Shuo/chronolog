@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 65e3be25a6aab627983647f362bf53834cc39664533315bbc78fb5a5ba3829df
+machine_hash: 4cd9fd4049e4a884664ed27cc3e7e04915950ceed0e8f25b51f7664d90c6ee99
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
       Rollouts watches every change as it deploys and reports its health per environment.
       Security Review reports exploitable bugs on every pull request.
     source_release: https://cursor.com/changelog/rollouts-and-security-reviewer
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -47,8 +47,7 @@ record:
     score: 50
     theme: safety-privacy
   theme_resolution: manual-semantic-rule-v2
-  title: Today we're launching two Cursor bots for the last mile of shipping code.
-    Rollou
+  title: Cursor launches two Cursor bots for the last mile of shipping code
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-09-21-on-the-web-open-your-account-menu-select-help-then-select-privacy-center-on-mobi|chatgpt-2026-09-21-052f40]]'
@@ -57,11 +56,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-09-23-rollouts-and-security-review-https-cursor-com-changelog-rollouts-b860a5fb|cursor-2026-09-23-rollouts-and-security-review-https-cursor-com-changelog-rollouts-b860a5fb]]'
 source_type: cursor_changelog
 theme: safety-privacy
-title: Today we're launching two Cursor bots for the last mile of shipping code. Rollou
+title: Cursor launches two Cursor bots for the last mile of shipping code
 type: change
 ---
 
-# Today we're launching two Cursor bots for the last mile of shipping code. Rollou
+# Cursor launches two Cursor bots for the last mile of shipping code
 
 <!-- chronolog:begin region="description" -->
 Cursor — Rollouts and Security Review: Today we're launching two Cursor bots for the last mile of shipping code. Rollouts watches every change as it deploys and reports its health per environment. Security Review reports exploitable bugs on every pull request.

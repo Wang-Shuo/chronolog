@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: b891f21154edcf946c24c9717d180775461c8676993c9ddb3d55e2733e81931e
+machine_hash: bcc9bce22fd30428eeda08a7826019d0921547bd3bfda6403298b9684dc2c03d
 product: cursor
 product_name: Cursor
 record:
@@ -30,7 +30,7 @@ record:
       allows you to get clarification on the change Cursor is making without stopping
       the current run.
     source_release: https://cursor.com/changelog/04-14-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -38,8 +38,7 @@ record:
   source_release: cursor-2026-04-14-cli-debug-mode-and-btw-support-https-cursor-com-changelog-04-14-43ba096a
   source_type: cursor_changelog
   theme: agent-mode
-  title: Ask a quick side question without derailing the agent's main task. /btw allows
-    y
+  title: Ask a quick side question without derailing the agent's main task
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-10-ultraplan-and-other-remote-session-features-now-auto-create-a-default-cloud-envi|claude-code-2026-04-10-b23fe4]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-04-14-cli-debug-mode-and-btw-support-https-cursor-com-changelog-04-14-43ba096a|cursor-2026-04-14-cli-debug-mode-and-btw-support-https-cursor-com-changelog-04-14-43ba096a]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: Ask a quick side question without derailing the agent's main task. /btw allows
-  y
+title: Ask a quick side question without derailing the agent's main task
 type: change
 ---
 
-# Ask a quick side question without derailing the agent's main task. /btw allows y
+# Ask a quick side question without derailing the agent's main task
 
 <!-- chronolog:begin region="description" -->
 Cursor — CLI Debug Mode and /btw Support: Ask a quick side question without derailing the agent's main task. /btw allows you to get clarification on the change Cursor is making without stopping the current run.

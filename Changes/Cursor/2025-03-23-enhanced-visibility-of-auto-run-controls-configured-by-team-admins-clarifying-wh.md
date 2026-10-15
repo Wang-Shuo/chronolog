@@ -11,9 +11,9 @@ diffusion:
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0cb2794b74d12df54d4d131f8a57990315c20722c65ccde3670399992753f882
+machine_hash: fa77de65cf8958e8afbf7c778ee7a7949dfaae6412e44d98d9bf158a9310c0b7
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Enhanced visibility of auto-run controls configured by team admins, clarifying
       when they are active
     source_release: https://cursor.com/changelog/0-48-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -44,8 +44,7 @@ record:
     score: 50
     theme: enterprise-admin
   theme_resolution: manual-semantic-rule-v1
-  title: Enhanced visibility of auto-run controls configured by team admins, clarifying
-    w
+  title: Enhanced visibility of auto-run controls configured by team admins, clarifying…
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-08-22-composer-is-now-default-on-and-available-to-all-pro-business-users-by-hitting-cm|cursor-2024-08-22-915f5c]]'
@@ -54,12 +53,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b|cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b]]'
 source_type: cursor_changelog
 theme: collaboration
-title: Enhanced visibility of auto-run controls configured by team admins, clarifying
-  w
+title: Enhanced visibility of auto-run controls configured by team admins, clarifying…
 type: change
 ---
 
-# Enhanced visibility of auto-run controls configured by team admins, clarifying w
+# Enhanced visibility of auto-run controls configured by team admins, clarifying…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Chat tabs, Custom modes & Faster indexing: Enhanced visibility of auto-run controls configured by team admins, clarifying when they are active

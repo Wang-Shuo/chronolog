@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: cec70c4bcc1db953661a953326d2bd301319c6a3b67e4b5f3bbee167e688940e
+machine_hash: 83bbc9b61d7ac7b84ed3f1730a5ac6a1988e0fa1d5bf978555693a11f05fd6c7
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Python auto import for Cursor Tab is much more stable in this release.
     source_release: https://cursor.com/changelog/0-42-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -33,7 +33,7 @@ record:
   source_release: cursor-2024-10-09-0-42-x-https-cursor-com-changelog-0-42-x-71ecd9d1
   source_type: cursor_changelog
   theme: editor-experience
-  title: Python auto import for Cursor Tab is much more stable in this release.
+  title: Python auto import for Cursor Tab is much more stable in this release
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-07-23-vs-code-1-91-1-cursor-is-now-based-on-vs-code-1-91-1|cursor-2024-07-23-1d3213]]'
@@ -42,11 +42,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-10-09-0-42-x-https-cursor-com-changelog-0-42-x-71ecd9d1|cursor-2024-10-09-0-42-x-https-cursor-com-changelog-0-42-x-71ecd9d1]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: Python auto import for Cursor Tab is much more stable in this release.
+title: Python auto import for Cursor Tab is much more stable in this release
 type: change
 ---
 
-# Python auto import for Cursor Tab is much more stable in this release.
+# Python auto import for Cursor Tab is much more stable in this release
 
 <!-- chronolog:begin region="description" -->
 Cursor — Composer History, @Lint Errors, VS Code 1.93.1: Python auto import for Cursor Tab is much more stable in this release.

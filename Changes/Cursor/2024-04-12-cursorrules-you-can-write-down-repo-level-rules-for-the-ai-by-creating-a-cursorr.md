@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 121e59a834d10f8f2a76f724bf61d2e6b0f91c34d249ab05080137f6855b63b0
+machine_hash: 2086b25a4f6895541a8b56a049aa8b52e12697984f1eaa1c3f0e386cd0798e29
 product: cursor
 product_name: Cursor
 record:
@@ -30,7 +30,7 @@ record:
       for context on what you''re building, style guidelines, or info on commonly-used
       methods.'
     source_release: https://cursor.com/changelog/0-32-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -38,8 +38,7 @@ record:
   source_release: cursor-2024-04-12-0-32-x-https-cursor-com-changelog-0-32-x-ce3690fc
   source_type: cursor_changelog
   theme: context-window
-  title: '.cursorrules: You can write down repo-level rules for the AI by creating
-    a .curs'
+  title: '.cursorrules: You can write down repo-level rules for the AI by creating…'
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-11-27-folders-you-can-now-use-the-symbol-to-reference-specific-folders-we-ll-try-to-pi|cursor-2023-11-27-4becb7]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-04-12-0-32-x-https-cursor-com-changelog-0-32-x-ce3690fc|cursor-2024-04-12-0-32-x-https-cursor-com-changelog-0-32-x-ce3690fc]]'
 source_type: cursor_changelog
 theme: context-window
-title: '.cursorrules: You can write down repo-level rules for the AI by creating a
-  .curs'
+title: '.cursorrules: You can write down repo-level rules for the AI by creating…'
 type: change
 ---
 
-# .cursorrules: You can write down repo-level rules for the AI by creating a .curs
+# .cursorrules: You can write down repo-level rules for the AI by creating…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Improved Copilot++ UX, New GPT-4 Model: .cursorrules: You can write down repo-level rules for the AI by creating a .cursorrules file in the root of your repository. You might use this to give for context on what you're building, style guidelines, or info on commonly-used methods.

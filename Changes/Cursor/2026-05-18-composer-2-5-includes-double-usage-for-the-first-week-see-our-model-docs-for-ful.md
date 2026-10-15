@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 1caaee89b3fd7280b2b97516f6687960af203ce266d38457cf89b3475f7720de
+machine_hash: 6bb3dc413b9873d8f21c546ce8d51dec638ea41716e74362ec840a96430a48b9
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Composer 2.5 includes double usage for the first week. See our model docs
       for full details.
     source_release: https://cursor.com/changelog/composer-2-5
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -36,8 +36,7 @@ record:
   source_release: cursor-2026-05-18-composer-2-5-https-cursor-com-changelog-composer-2-5-1dffe5a1
   source_type: cursor_changelog
   theme: model-support
-  title: Composer 2.5 includes double usage for the first week. See our model docs
-    for fu
+  title: Composer 2.5 includes double usage for the first week
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-11-custom-describe-in-natural-language-when-bugbot-should-use-default-or-high-effor|cursor-2026-05-11-7647fd]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-05-18-composer-2-5-https-cursor-com-changelog-composer-2-5-1dffe5a1|cursor-2026-05-18-composer-2-5-https-cursor-com-changelog-composer-2-5-1dffe5a1]]'
 source_type: cursor_changelog
 theme: model-support
-title: Composer 2.5 includes double usage for the first week. See our model docs for
-  fu
+title: Composer 2.5 includes double usage for the first week
 type: change
 ---
 
-# Composer 2.5 includes double usage for the first week. See our model docs for fu
+# Composer 2.5 includes double usage for the first week
 
 <!-- chronolog:begin region="description" -->
 Cursor — Composer 2.5: Composer 2.5 includes double usage for the first week. See our model docs for full details.

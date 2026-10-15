@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 377c4f409802dbfffea32639e4a59ccd7bd04be0d3f85b3a98e32b3532478e07
+machine_hash: e8f43224c11f82bcb24ebcabb1cdcf3343c450dd457320cecfd7a6509ad79ebc
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Cursor now responds with a plan before it begins, so you can jump in and
       redirect early. As it works, it updates its status so you can follow each step.
     source_release: https://cursor.com/changelog/slack-improvements
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -38,7 +38,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: Cursor now responds with a plan before it begins, so you can jump in and
-    redirec
+    redirect early
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-17-added-a-per-session-cap-on-subagent-spawns-default-200-override-with-claude-code|claude-code-2026-07-17-967a66]]'
@@ -47,11 +47,12 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-07-17-improvements-to-cursor-in-slack-https-cursor-com-changelog-slack-f233f9c6|cursor-2026-07-17-improvements-to-cursor-in-slack-https-cursor-com-changelog-slack-f233f9c6]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: Cursor now responds with a plan before it begins, so you can jump in and redirec
+title: Cursor now responds with a plan before it begins, so you can jump in and redirect
+  early
 type: change
 ---
 
-# Cursor now responds with a plan before it begins, so you can jump in and redirec
+# Cursor now responds with a plan before it begins, so you can jump in and redirect early
 
 <!-- chronolog:begin region="description" -->
 Cursor — Improvements to Cursor in Slack: Cursor now responds with a plan before it begins, so you can jump in and redirect early. As it works, it updates its status so you can follow each step.

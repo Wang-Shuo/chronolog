@@ -130,6 +130,53 @@ def test_write_markdown_file_preserves_custom_human_frontmatter(tmp_path: Path):
     assert frontmatter.load(target).metadata["research_note"] == "keep this"
 
 
+def _card_heading(path: Path) -> str:
+    return next(line for line in frontmatter.load(path).content.splitlines() if line.startswith("# "))
+
+
+def test_write_markdown_file_refreshes_generated_card_heading(tmp_path: Path):
+    target = tmp_path / "change.md"
+    legacy = {**change_card(), "title": "We're adding an agent shell so agents can run comma"}
+    write_markdown_file(target, render_change_markdown(legacy, {"evolves_from": []}, {}), [])
+    target.write_text(
+        target.read_text(encoding="utf-8").replace("## Editor Notes", "## Editor Notes\n\nKeep me."),
+        encoding="utf-8",
+    )
+    retitled = {**legacy, "title": "Cursor adds an agent shell so agents can run commands"}
+    conflicts: list[dict[str, str]] = []
+
+    wrote = write_markdown_file(
+        target, render_change_markdown(retitled, {"evolves_from": []}, {}), conflicts
+    )
+
+    assert wrote is True and conflicts == []
+    post = frontmatter.load(target)
+    assert _card_heading(target) == "# Cursor adds an agent shell so agents can run commands"
+    assert post["record"]["title"] == retitled["title"]
+    assert post["title"] == retitled["title"]
+    assert "Keep me." in post.content
+
+
+def test_write_markdown_file_preserves_edited_card_heading(tmp_path: Path):
+    target = tmp_path / "change.md"
+    card = change_card()
+    write_markdown_file(target, render_change_markdown(card, {"evolves_from": []}, {}), [])
+    target.write_text(
+        target.read_text(encoding="utf-8").replace("# Agent shell\n", "# Curated agent shell\n"),
+        encoding="utf-8",
+    )
+    retitled = {**card, "title": "Agent can run shell commands"}
+    conflicts: list[dict[str, str]] = []
+
+    wrote = write_markdown_file(
+        target, render_change_markdown(retitled, {"evolves_from": []}, {}), conflicts
+    )
+
+    assert wrote is True and conflicts == []
+    assert _card_heading(target) == "# Curated agent shell"
+    assert frontmatter.load(target)["record"]["title"] == "Agent can run shell commands"
+
+
 def test_change_card_paths_reuses_existing_path_for_stable_card_id(tmp_path: Path):
     target = tmp_path / "Changes" / "Cursor" / "2025-02-01-original-slug.md"
     target.parent.mkdir(parents=True)

@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ce884504a0616a0cf0456ad05c9551f8bfbfaf87e109244b2cc22902964b9452
+machine_hash: 7eeea7298410088e8c4bb41f15bfb64c5eed69ab262c1827a6fcf1e758429a0d
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       entry runs a command that mints HTTP headers (e.g. a short-lived token) for
       catalog and same-origin archive fetches'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.238
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   source_type: github_releases
   theme: apps-integrations
   title: 'Plugin marketplaces: `headersHelper` on a url marketplace or a catalog entry
-    run'
+    runs…'
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-08-19-cloud-agents-automatically-subscribe-to-prs-they-create-and-drive-them-to-comple|cursor-2026-08-19-7c58cc]]'
@@ -47,11 +47,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-08-20-v2-1-238-github-3
 source_type: github_releases
 theme: apps-integrations
 title: 'Plugin marketplaces: headersHelper on a url marketplace or a catalog entry
-  run'
+  runs…'
 type: change
 ---
 
-# Plugin marketplaces: `headersHelper` on a url marketplace or a catalog entry run
+# Plugin marketplaces: `headersHelper` on a url marketplace or a catalog entry runs…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.238: Plugin marketplaces: `headersHelper` on a url marketplace or a catalog entry runs a command that mints HTTP headers (e.g. a short-lived token) for catalog and same-origin archive fetches

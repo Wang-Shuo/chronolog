@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: a60783c70dac575e3e52e5f54babe623bff4bdfe7bb169942255a761439a7bc3
+machine_hash: 72f147da7046623ccf20004212b48a6f66c573370c19ccef52960cdcc4ebfa77
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,7 +35,7 @@ record:
       and get things done across your personal and work accounts. Available on all
       ChatGPT plans across web, mobile, and desktop.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -54,8 +54,8 @@ record:
     - plugins
     score: 50
     theme: apps-integrations
-  title: You can now connect multiple accounts to plugins in ChatGPT, expanding support
-    b
+  title: Connect multiple accounts to plugins in ChatGPT, expanding support beyond
+    Gmail…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-09-08-edit-and-comment-on-mobile-open-a-generated-image-full-screen-to-edit-it-or-add|chatgpt-2026-09-08-48cf73]]'
@@ -64,12 +64,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-17-connect-multiple-accounts-to-plugins-in-chatgpt-4c1d9bb4|chatgpt-2026-09-17-connect-multiple-accounts-to-plugins-in-chatgpt-4c1d9bb4]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: You can now connect multiple accounts to plugins in ChatGPT, expanding support
-  b
+title: Connect multiple accounts to plugins in ChatGPT, expanding support beyond Gmail…
 type: change
 ---
 
-# You can now connect multiple accounts to plugins in ChatGPT, expanding support b
+# Connect multiple accounts to plugins in ChatGPT, expanding support beyond Gmail…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Connect multiple accounts to plugins in ChatGPT: You can now connect multiple accounts to plugins in ChatGPT, expanding support beyond Gmail, Google Calendar, and Google Contacts. Bring your personal and work accounts into the same conversation, so ChatGPT can help you find information and get things done across your personal and work accounts. Available on all ChatGPT plans across web, mobile, and desktop.

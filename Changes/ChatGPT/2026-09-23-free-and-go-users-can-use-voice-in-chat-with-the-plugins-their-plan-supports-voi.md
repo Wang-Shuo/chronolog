@@ -11,9 +11,9 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3418d579ed84ac75e9d644b46b41fb310c19890fdb6f21966a2bd3877a364af1
+machine_hash: ba10edb644ea5c52e945c88a634a0a76a313b4db928ea67e8cd988b69c48e81e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       Voice in Work requires both Voice and Work access. Existing app connections,
       permissions, and usage limits apply.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -46,8 +46,7 @@ record:
     - plugins
     score: 50
     theme: apps-integrations
-  title: Free and Go users can use Voice in Chat with the plugins their plan supports.
-    Vo
+  title: Free and Go users can use Voice in Chat with the plugins their plan supports
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-08-31-content-from-a-live-voice-conversation-can-now-appear-on-your-iphone-s-lock-scre|chatgpt-2026-08-31-114d55]]'
@@ -56,12 +55,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-23-use-plugins-in-voice-and-get-work-done-by-speaking-fa63def1|chatgpt-2026-09-23-use-plugins-in-voice-and-get-work-done-by-speaking-fa63def1]]'
 source_type: chatgpt_changelog
 theme: voice
-title: Free and Go users can use Voice in Chat with the plugins their plan supports.
-  Vo
+title: Free and Go users can use Voice in Chat with the plugins their plan supports
 type: change
 ---
 
-# Free and Go users can use Voice in Chat with the plugins their plan supports. Vo
+# Free and Go users can use Voice in Chat with the plugins their plan supports
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Use plugins in Voice and get work done by speaking: Free and Go users can use Voice in Chat with the plugins their plan supports. Voice in Work requires both Voice and Work access. Existing app connections, permissions, and usage limits apply.

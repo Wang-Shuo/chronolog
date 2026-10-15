@@ -11,9 +11,9 @@ diffusion:
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ed69ec8ed8760356b4b1ba5872cb8e2c9e0a73286b4c3377bfbec0c2ad8e1ab1
+machine_hash: a98842ae5292f533440a6e7400858041995a98234f44befdcf4da2af50676b06
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Manage access. Review who has access, change permissions, or remove access
       from the sharing dialog.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -34,8 +34,7 @@ record:
   source_release: chatgpt-2026-09-09-share-files-and-folders-from-your-library-37c26e4d
   source_type: chatgpt_changelog
   theme: collaboration
-  title: Manage access. Review who has access, change permissions, or remove access
-    from
+  title: Manage access
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-09-03-eligible-site-owners-can-now-share-a-live-chatgpt-site-with-named-people-outside|chatgpt-2026-09-03-e222bc]]'
@@ -44,12 +43,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-09-share-files-and-folders-from-your-library-37c26e4d|chatgpt-2026-09-09-share-files-and-folders-from-your-library-37c26e4d]]'
 source_type: chatgpt_changelog
 theme: collaboration
-title: Manage access. Review who has access, change permissions, or remove access
-  from
+title: Manage access
 type: change
 ---
 
-# Manage access. Review who has access, change permissions, or remove access from
+# Manage access
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Share files and folders from your Library: Manage access. Review who has access, change permissions, or remove access from the sharing dialog.

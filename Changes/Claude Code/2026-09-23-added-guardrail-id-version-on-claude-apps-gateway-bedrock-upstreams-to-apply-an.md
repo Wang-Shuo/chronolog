@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d86ffc798268b0b201288e41df322137fc6f558ccea5693ef3312740b262e1f4
+machine_hash: 49c5bffe2777a8ab8e146e51148780b7365d7ca3d4cfca417693aef6b8c4fdf0
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       to apply an Amazon Bedrock guardrail to every request sent through them (set
       it on all Bedrock upstreams or none)'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.281
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   source_type: github_releases
   theme: apps-integrations
   title: 'Added `guardrail: {id, version}` on Claude apps gateway Bedrock upstreams
-    to app'
+    to apply…'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-18-added-an-optional-headers-map-on-claude-apps-gateway-upstreams-to-send-static-he|claude-code-2026-09-18-c95b70]]'
@@ -47,11 +47,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-09-23-v2-1-281-github-3
 source_type: github_releases
 theme: apps-integrations
 title: 'Added guardrail: {id, version} on Claude apps gateway Bedrock upstreams to
-  app'
+  apply…'
 type: change
 ---
 
-# Added `guardrail: {id, version}` on Claude apps gateway Bedrock upstreams to app
+# Added `guardrail: {id, version}` on Claude apps gateway Bedrock upstreams to apply…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.281: Added `guardrail: {id, version}` on Claude apps gateway Bedrock upstreams to apply an Amazon Bedrock guardrail to every request sent through them (set it on all Bedrock upstreams or none)

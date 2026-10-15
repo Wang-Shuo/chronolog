@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8c6ece36a4cb3c779e9a5c670cbb522388e007e433307795b84710046f7fe9e0
+machine_hash: 0e10f0e740490484e0ddf17cd56adc48318f73ff7ccc5d05f302e9e70c3b2143
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: While currently similar to a standard code editor with AI features, we
       plan to evolve the programming experience significantly over time.
     source_release: https://cursor.com/changelog/0-2-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,8 +35,7 @@ record:
   source_release: cursor-2023-04-06-0-2-0-https-cursor-com-changelog-0-2-0-2dbfe24a
   source_type: cursor_changelog
   theme: editor-experience
-  title: While currently similar to a standard code editor with AI features, we plan
-    to e
+  title: While currently similar to a standard code editor with AI features, we plan…
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-03-23-automatically-apply-chat-suggestion|cursor-2023-03-23-1f23e4]]'
@@ -45,12 +44,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-04-06-0-2-0-https-cursor-com-changelog-0-2-0-2dbfe24a|cursor-2023-04-06-0-2-0-https-cursor-com-changelog-0-2-0-2dbfe24a]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: While currently similar to a standard code editor with AI features, we plan
-  to e
+title: While currently similar to a standard code editor with AI features, we plan…
 type: change
 ---
 
-# While currently similar to a standard code editor with AI features, we plan to e
+# While currently similar to a standard code editor with AI features, we plan…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Introducing Cursor 0.2.0! (2023-04-06): While currently similar to a standard code editor with AI features, we plan to evolve the programming experience significantly over time.

@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e72957801ecce71f571dbeade64ca952c00f916e9500ad28cc7c1dea2f07fb3c
+machine_hash: 82fb3af44e51a041b292abaa2875d9758a6818e32bddf8e8df7be39099476bf0
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added option to show Claude's last response as commented context in the
       `Ctrl+G` external editor (enable via `/config`)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.110
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -44,7 +44,7 @@ record:
     score: 50
     theme: editor-experience
   theme_resolution: manual-semantic-rule-v1
-  title: Added option to show Claude's last response as commented context in the `Ctrl+G`
+  title: Added option to show Claude's last response as commented context in the `Ctrl+G`…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-09-added-exclude-dynamic-system-prompt-sections-flag-to-print-mode-for-improved-cro|claude-code-2026-04-09-ea27a8]]'
@@ -53,11 +53,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-15-v2-1-110-github-309583669-83ce1e59|claude-code-2026-04-15-v2-1-110-github-309583669-83ce1e59]]'
 source_type: github_releases
 theme: context-window
-title: Added option to show Claude's last response as commented context in the Ctrl+G
+title: Added option to show Claude's last response as commented context in the Ctrl+G…
 type: change
 ---
 
-# Added option to show Claude's last response as commented context in the `Ctrl+G`
+# Added option to show Claude's last response as commented context in the `Ctrl+G`…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.110: Added option to show Claude's last response as commented context in the `Ctrl+G` external editor (enable via `/config`)

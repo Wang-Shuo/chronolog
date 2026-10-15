@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2026-08-04'
-machine_hash: aad8691125e0a5568c0dc0b8c3f428b5c2d0c4639257fe6cc4e07a6bbd053f70
+machine_hash: 353765c4d691233e0bce1f2e5afd05b1991795d0157ac5c615417be42d72262c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,6 +39,6 @@ Tracked cards: 2
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- context-window: [[Changes/ChatGPT/2026-08-04-if-you-paste-more-than-10k-characters-into-the-composer-chatgpt-will-automatical|If you paste more than 10k characters into the composer, ChatGPT will automatica]]
-- enterprise-admin: [[Changes/ChatGPT/2026-08-04-starting-today-for-chatgpt-enterprise-and-education-users-long-pastes-are-handle|Starting today for ChatGPT Enterprise and Education users, long pastes are handl]]
+- context-window: [[Changes/ChatGPT/2026-08-04-if-you-paste-more-than-10k-characters-into-the-composer-chatgpt-will-automatical|If you paste more than 10k characters into the composer, ChatGPT will automatically…]]
+- enterprise-admin: [[Changes/ChatGPT/2026-08-04-starting-today-for-chatgpt-enterprise-and-education-users-long-pastes-are-handle|Starting today for ChatGPT Enterprise and Education users, long pastes are handled…]]
 <!-- chronolog:end -->

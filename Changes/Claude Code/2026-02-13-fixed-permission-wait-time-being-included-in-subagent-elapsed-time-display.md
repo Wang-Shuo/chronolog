@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8e770735e59fb6265985450353c76cdf97bc269265a06f1682d8f46a1d7a520c
+machine_hash: 519f067d01f34432d4e52d1b770547d58780e744f64390cd6e40e35103bb3d3b
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Fixed permission wait time being included in subagent elapsed time display
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.41
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

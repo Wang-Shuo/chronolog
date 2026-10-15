@@ -11,9 +11,9 @@ diffusion:
   theme: projects-workspaces
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: a285310a51ef3aaf16aa4c24c0c830844af716644cc6a10046e0c04d2c537629
+machine_hash: 64b1c623d060f78cf69ad309ac67e87f463da6034f76adbba6131dfe9f3977eb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
       click More actions (⋯), and select Branch in new chat to start a separate conversation
       from that point.This feature is available today for all logged-in users on web.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -43,8 +43,7 @@ record:
   theme: projects-workspaces
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: You can now branch conversations in ChatGPT, making it easier to explore
-    differe
+  title: Branch conversations in ChatGPT, making it easier to explore different directions…
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-09-17-composer-notepads-previously-called-projects-can-now-include-tagged-files-and-be|cursor-2024-09-17-3c075c]]'
@@ -53,11 +52,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-04-branch-conversations-on-web-335d0aa3|chatgpt-2025-09-04-branch-conversations-on-web-335d0aa3]]'
 source_type: chatgpt_changelog
 theme: projects-workspaces
-title: You can now branch conversations in ChatGPT, making it easier to explore differe
+title: Branch conversations in ChatGPT, making it easier to explore different directions…
 type: change
 ---
 
-# You can now branch conversations in ChatGPT, making it easier to explore differe
+# Branch conversations in ChatGPT, making it easier to explore different directions…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Branch conversations on web: You can now branch conversations in ChatGPT, making it easier to explore different directions without losing your original thread. Hover over a message, click More actions (⋯), and select Branch in new chat to start a separate conversation from that point.This feature is available today for all logged-in users on web.

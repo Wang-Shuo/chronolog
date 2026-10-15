@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: dda9ad6532ec0c369c95cc6442042493b215fe50ba593bc2020bf72cfc96d8c1
+machine_hash: 6af82a829c11de0da9573e630bb85b0f8df2615349eb85c458648d5257cacbd8
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       for external sessions, validated on the session''s first request and pinned
       for the session'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.210
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -46,8 +46,7 @@ record:
     score: 50
     theme: model-support
   theme_resolution: manual-semantic-rule-v2
-  title: 'Improved auto mode: the permission classifier now defaults to Sonnet 5 for
-    exter'
+  title: Improved auto mode
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-07-09-on-desktop-work-can-use-local-files-and-desktop-apps-with-your-permission-the-bu|chatgpt-2026-07-09-6ac3cb]]'
@@ -56,12 +55,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-07-14-v2-1-210-github-354034085-7eba9ec7|claude-code-2026-07-14-v2-1-210-github-354034085-7eba9ec7]]'
 source_type: github_releases
 theme: safety-privacy
-title: 'Improved auto mode: the permission classifier now defaults to Sonnet 5 for
-  exter'
+title: Improved auto mode
 type: change
 ---
 
-# Improved auto mode: the permission classifier now defaults to Sonnet 5 for exter
+# Improved auto mode
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.210: Improved auto mode: the permission classifier now defaults to Sonnet 5 for external sessions, validated on the session's first request and pinned for the session

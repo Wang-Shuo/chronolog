@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 47fad625c3fa3be64c68a872dcd48c88726ae2da5daee00c566994a79cdf99fd
+machine_hash: c4d95f7dc624e14c708848a95a3a699226f2f8d0539595db3ef68779343b80a4
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
   - quote: 'Better Codebase Understanding: We''ve trained a new model for Codebase
       Understanding. We''ll be rolling it out to all users on 0.45 in the coming week.'
     source_release: https://cursor.com/changelog/0-45-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -37,7 +37,7 @@ record:
   source_release: cursor-2025-01-23-0-45-x-https-cursor-com-changelog-0-45-x-c162d228
   source_type: cursor_changelog
   theme: model-support
-  title: 'Better Codebase Understanding: We''ve trained a new model for Codebase Understand'
+  title: 'Better Codebase Understanding: We''ve trained a new model for Codebase Understanding'
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-10-09-switching-models-is-a-lot-easier-with-model-search-cmd-option-in-the-chat-compos|cursor-2024-10-09-ba793f]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-01-23-0-45-x-https-cursor-com-changelog-0-45-x-c162d228|cursor-2025-01-23-0-45-x-https-cursor-com-changelog-0-45-x-c162d228]]'
 source_type: cursor_changelog
 theme: model-support
-title: 'Better Codebase Understanding: We''ve trained a new model for Codebase Understand'
+title: 'Better Codebase Understanding: We''ve trained a new model for Codebase Understanding'
 type: change
 ---
 
-# Better Codebase Understanding: We've trained a new model for Codebase Understand
+# Better Codebase Understanding: We've trained a new model for Codebase Understanding
 
 <!-- chronolog:begin region="description" -->
 Cursor — .cursor/rules, Better Codebase Understanding, New Tab Model: Better Codebase Understanding: We've trained a new model for Codebase Understanding. We'll be rolling it out to all users on 0.45 in the coming week.

@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f091f9d14843003de52dda13d400ced478eea0dad74f8838669d23c226a1ea5d
+machine_hash: b055bb58a7a93e2a02d3648402a3d16beee7807e7c202d285e7596f7d6a1150d
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: never lets your root directory be in the gitignore
     source_release: https://cursor.com/changelog/0-11-13-nightly
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

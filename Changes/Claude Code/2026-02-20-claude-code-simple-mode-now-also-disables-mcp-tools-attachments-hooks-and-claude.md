@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 90bc89b46e00e89582fc0d5a5012a55e0d236a197480f853f9a9eeeb6dfe2e9b
+machine_hash: 97145b9cdd5aa9ee66043c0224cf189bcb2086f4c2be6dded0211a83a2694064
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: '`CLAUDE_CODE_SIMPLE` mode now also disables MCP tools, attachments, hooks,
       and CLAUDE.md file loading for a fully minimal experience.'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.50
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,8 +35,7 @@ record:
   source_release: claude-code-2026-02-20-v2-1-50-github-288920711-09694b82
   source_type: github_releases
   theme: apps-integrations
-  title: '`CLAUDE_CODE_SIMPLE` mode now also disables MCP tools, attachments, hooks,
-    and C'
+  title: '`CLAUDE_CODE_SIMPLE` mode now also disables MCP tools, attachments, hooks…'
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-02-17-browse-plugins-at-cursor-com-marketplace-or-install-directly-in-the-editor-with|cursor-2026-02-17-acbb31]]'
@@ -45,12 +44,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-02-20-v2-1-50-github-288920711-09694b82|claude-code-2026-02-20-v2-1-50-github-288920711-09694b82]]'
 source_type: github_releases
 theme: apps-integrations
-title: CLAUDE_CODE_SIMPLE mode now also disables MCP tools, attachments, hooks, and
-  C
+title: CLAUDE_CODE_SIMPLE mode now also disables MCP tools, attachments, hooks…
 type: change
 ---
 
-# `CLAUDE_CODE_SIMPLE` mode now also disables MCP tools, attachments, hooks, and C
+# `CLAUDE_CODE_SIMPLE` mode now also disables MCP tools, attachments, hooks…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.50: `CLAUDE_CODE_SIMPLE` mode now also disables MCP tools, attachments, hooks, and CLAUDE.md file loading for a fully minimal experience.

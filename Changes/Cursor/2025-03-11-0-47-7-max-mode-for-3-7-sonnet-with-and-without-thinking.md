@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 2560026f9a86747f38d04ba63f3caed8f64f6c339053b0a5cdd65f0e252d9335
+machine_hash: 9a8eeddfc483943437a8638c34d3908487a607cbbb0e7320bebf82d5e0b09157
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: '0.47.7: MAX mode for 3.7 Sonnet with and without thinking'
     source_release: https://cursor.com/changelog/0-47-x
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

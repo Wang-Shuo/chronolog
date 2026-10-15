@@ -11,9 +11,9 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4e296f301223b951810ad39ab4badc12b2e335624e730e59804b7687d4d8ec05
+machine_hash: 6e83df1e30f646f192abcdb3f92abe90aa6c508aa192bcdca91196498bad45d6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -36,7 +36,7 @@ record:
       adapts to your instructions, adjusting its speaking style (length, speed, tone,
       and more) to fit the moment.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -53,8 +53,8 @@ record:
     - speed
     score: 50
     theme: reliability-performance
-  title: Today we’re rolling out improvements to Voice Mode to make it more accessible
-    an
+  title: ChatGPT rolls out improvements to Voice Mode to make it more accessible and
+    useful…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-06-18-capture-meetings-brainstorms-or-voice-notes-launching-today-for-pro-enterprise-a|chatgpt-2025-06-18-7680b9]]'
@@ -63,12 +63,12 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-07-chatgpt-voice-updates-1159fad7|chatgpt-2025-08-07-chatgpt-voice-updates-1159fad7]]'
 source_type: chatgpt_changelog
 theme: voice
-title: Today we’re rolling out improvements to Voice Mode to make it more accessible
-  an
+title: ChatGPT rolls out improvements to Voice Mode to make it more accessible and
+  useful…
 type: change
 ---
 
-# Today we’re rolling out improvements to Voice Mode to make it more accessible an
+# ChatGPT rolls out improvements to Voice Mode to make it more accessible and useful…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT Voice updates: Today we’re rolling out improvements to Voice Mode to make it more accessible and useful for everyone. It also now works with custom GPTs. We’re expanding access with near-unlimited use for Plus users and hours each day for Free users. To simplify the experience, Standard Voice Mode will be retired in 30 days, unifying all users onto our latest voice experience.For paid users, Voice now adapts to your instructions, adjusting its speaking style (length, speed, tone, and more) to fit the moment.

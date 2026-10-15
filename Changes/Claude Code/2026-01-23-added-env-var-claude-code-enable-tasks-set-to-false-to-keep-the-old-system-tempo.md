@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5f1edb1f561e1fbe6855dd62f5d9b1aa184f0fdb66f9cd25612b349457406f4f
+machine_hash: 3fd4ba415a041b935f07509c20a512de957cb83a83f0a249bc60955951e0dc31
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added env var `CLAUDE_CODE_ENABLE_TASKS`, set to `false` to keep the old
       system temporarily
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.19
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: Added env var `CLAUDE_CODE_ENABLE_TASKS`, set to `false` to keep the old
-    system
+    system…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-01-22-agents-are-solving-increasingly-complex-long-running-tasks-across-your-codebase|cursor-2026-01-22-5cc8fc]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-01-23-v2-1-19-github-279515857-4e1f7640|claude-code-2026-01-23-v2-1-19-github-279515857-4e1f7640]]'
 source_type: github_releases
 theme: agent-mode
-title: Added env var CLAUDE_CODE_ENABLE_TASKS, set to false to keep the old system
+title: Added env var CLAUDE_CODE_ENABLE_TASKS, set to false to keep the old system…
 type: change
 ---
 
-# Added env var `CLAUDE_CODE_ENABLE_TASKS`, set to `false` to keep the old system
+# Added env var `CLAUDE_CODE_ENABLE_TASKS`, set to `false` to keep the old system…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.19: Added env var `CLAUDE_CODE_ENABLE_TASKS`, set to `false` to keep the old system temporarily

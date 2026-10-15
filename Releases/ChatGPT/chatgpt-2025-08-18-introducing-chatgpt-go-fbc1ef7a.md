@@ -1,7 +1,7 @@
 ---
 changes_count: 4
 date: '2025-08-18'
-machine_hash: eac7355c0e0b2045edd8553fd36c0f44c2820f0df37a3d2010930d81514f24da
+machine_hash: 7f8bdbe8edfea9c1bf8b26632d693f000ede5782de6d9d09379ccb9525768860
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,8 +40,8 @@ Tracked cards: 4
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- mobile-desktop: [[Changes/ChatGPT/2025-08-18-available-on-web-mobile-ios-android-and-desktop-macos-windows-chatgpt-go-is-geo|Available on web, mobile (iOS & Android), and desktop (macOS & Windows).ChatGPT]]
+- mobile-desktop: [[Changes/ChatGPT/2025-08-18-available-on-web-mobile-ios-android-and-desktop-macos-windows-chatgpt-go-is-geo|Available on web, mobile (iOS & Android), and desktop (macOS & Windows)]]
 - memory: [[Changes/ChatGPT/2025-08-18-longer-memory-for-more-personalized-responses|Longer memory for more personalized responses]]
 - image-generation: [[Changes/ChatGPT/2025-08-18-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]]
-- pricing-model: [[Changes/ChatGPT/2025-08-18-we-re-launching-chatgpt-go-a-new-low-cost-subscription-plan-this-will-initially-e5f740|We’re launching ChatGPT Go, a new low-cost subscription plan. This will initiall]]
+- pricing-model: [[Changes/ChatGPT/2025-08-18-we-re-launching-chatgpt-go-a-new-low-cost-subscription-plan-this-will-initially-e5f740|ChatGPT launches ChatGPT Go, a new low-cost subscription plan]]
 <!-- chronolog:end -->

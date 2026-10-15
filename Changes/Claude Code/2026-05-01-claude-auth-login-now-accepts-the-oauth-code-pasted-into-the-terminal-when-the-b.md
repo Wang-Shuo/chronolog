@@ -11,9 +11,9 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 26a34e02f3d53506f8a54d4c7b6c9afc98526705ec02d22ac9d63741bf3cf4a3
+machine_hash: baa98aa43d21413550e5d753388d6ba571ee8d29756411ee4ae3cc3ff41dd60a
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: '`claude auth login` now accepts the OAuth code pasted into the terminal
       when the browser callback can''t reach localhost (WSL2, SSH, containers)'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.126
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -45,8 +45,7 @@ record:
     - terminal
     score: 50
     theme: developer-workflow
-  title: '`claude auth login` now accepts the OAuth code pasted into the terminal
-    when the'
+  title: '`claude auth login` now accepts the OAuth code pasted into the terminal…'
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-04-22-we-re-launching-chatgpt-for-clinicians-a-free-version-of-chatgpt-for-verified-cl|chatgpt-2026-04-22-432031]]'
@@ -55,12 +54,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-01-v2-1-126-github-316244540-de18d9bb|claude-code-2026-05-01-v2-1-126-github-316244540-de18d9bb]]'
 source_type: github_releases
 theme: account-access
-title: claude auth login now accepts the OAuth code pasted into the terminal when
-  the
+title: claude auth login now accepts the OAuth code pasted into the terminal…
 type: change
 ---
 
-# `claude auth login` now accepts the OAuth code pasted into the terminal when the
+# `claude auth login` now accepts the OAuth code pasted into the terminal…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.126: `claude auth login` now accepts the OAuth code pasted into the terminal when the browser callback can't reach localhost (WSL2, SSH, containers)

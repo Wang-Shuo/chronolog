@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a27e0c3622c4544ae393169eaa92eac64f0b9f8d79c0c7be66e93d87788d7593
+machine_hash: c45ff3d74c179c462ef74b1bdd4c0fbd8c4940af56559c55a5c47806de2bb4c3
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added a scrollbar to the `/feedback` drafts list in fullscreen mode; it
       appears while the mouse is over the list
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.282
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -34,7 +34,7 @@ record:
   source_release: claude-code-2026-09-24-v2-1-282-github-395840120-957e42c4
   source_type: github_releases
   theme: interface-experience
-  title: Added a scrollbar to the `/feedback` drafts list in fullscreen mode; it appears
+  title: Added a scrollbar to the `/feedback` drafts list in fullscreen mode
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-09-improved-the-diff-panel-it-no-longer-flashes-0-files-changed-and-a-spinner-befor|claude-code-2026-09-09-6cb011]]'
@@ -43,11 +43,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-24-v2-1-282-github-395840120-957e42c4|claude-code-2026-09-24-v2-1-282-github-395840120-957e42c4]]'
 source_type: github_releases
 theme: interface-experience
-title: Added a scrollbar to the /feedback drafts list in fullscreen mode; it appears
+title: Added a scrollbar to the /feedback drafts list in fullscreen mode
 type: change
 ---
 
-# Added a scrollbar to the `/feedback` drafts list in fullscreen mode; it appears
+# Added a scrollbar to the `/feedback` drafts list in fullscreen mode
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.282: Added a scrollbar to the `/feedback` drafts list in fullscreen mode; it appears while the mouse is over the list

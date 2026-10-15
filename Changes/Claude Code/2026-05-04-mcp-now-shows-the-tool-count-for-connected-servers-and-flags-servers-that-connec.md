@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 71a4c59402d92a490db2c45fac4978c01edbb3886854e866a740fe34f332e933
+machine_hash: 5525b9df13957dbcefe6c2e12b01b3fa8e060ddde0c1779c899d55a67e4cb8e3
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: '`/mcp` now shows the tool count for connected servers and flags servers
       that connected with 0 tools'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.128
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -34,8 +34,7 @@ record:
   source_release: claude-code-2026-05-04-v2-1-128-github-317391175-a20e13a2
   source_type: github_releases
   theme: apps-integrations
-  title: '`/mcp` now shows the tool count for connected servers and flags servers
-    that con'
+  title: '`/mcp` now shows the tool count for connected servers and flags servers…'
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-01-required-users-always-have-the-plugin-and-cannot-uninstall-it|cursor-2026-05-01-9625ed]]'
@@ -44,12 +43,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-04-v2-1-128-github-317391175-a20e13a2|claude-code-2026-05-04-v2-1-128-github-317391175-a20e13a2]]'
 source_type: github_releases
 theme: apps-integrations
-title: /mcp now shows the tool count for connected servers and flags servers that
-  con
+title: /mcp now shows the tool count for connected servers and flags servers…
 type: change
 ---
 
-# `/mcp` now shows the tool count for connected servers and flags servers that con
+# `/mcp` now shows the tool count for connected servers and flags servers…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.128: `/mcp` now shows the tool count for connected servers and flags servers that connected with 0 tools

@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: eddd3601e310ab4b4de045d51a98b3bb5b7e168194df9243f1f4fd5956fac6a6
+machine_hash: bc743daa2700dd02cc013d1d7396edee21b3d4a8f9f10f636a4a7840e6260a61
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -36,7 +36,7 @@ record:
       can be set only when you start a temporary chat and cannot be changed after
       the conversation begins.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -55,7 +55,7 @@ record:
     - plugins
     score: 50
     theme: apps-integrations
-  title: 'Personalized: When you create a temporary chat, you can choose to have personali'
+  title: 'Personalized: When you create a temporary chat, you can choose to have personalized…'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-18-improved-memory-and-cpu-usage-while-cloud-sessions-such-as-ultrareview-or-autofi|claude-code-2026-08-18-d6379f]]'
@@ -64,11 +64,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-27-more-controls-in-temporary-chat-5ca95d13|chatgpt-2026-08-27-more-controls-in-temporary-chat-5ca95d13]]'
 source_type: chatgpt_changelog
 theme: memory
-title: 'Personalized: When you create a temporary chat, you can choose to have personali'
+title: 'Personalized: When you create a temporary chat, you can choose to have personalized…'
 type: change
 ---
 
-# Personalized: When you create a temporary chat, you can choose to have personali
+# Personalized: When you create a temporary chat, you can choose to have personalized…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — More controls in temporary chat: Personalized: When you create a temporary chat, you can choose to have personalized responses. Personalized temporary chats can use your memories, custom instructions, and plugins to tailor responses. They do not create new memories and remain out of your chat history unless you save them. Personalization can be set only when you start a temporary chat and cannot be changed after the conversation begins.

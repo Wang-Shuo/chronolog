@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: aec881ccf58e0e376fd02118afd2fd5f549d4f40a767642757efba0e2de3b657
+machine_hash: a661eebe7f572efd03025aa14f1d17e52165e59e99e3cfe578d40dcfeaabeb9e
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `claude agents --json` to list live Claude sessions as JSON for scripting
       (tmux-resurrect, status bars, session pickers)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.145
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -34,7 +34,7 @@ record:
   source_release: claude-code-2026-05-19-v2-1-145-github-325388499-227a5ce4
   source_type: github_releases
   theme: agent-mode
-  title: Added `claude agents --json` to list live Claude sessions as JSON for scripting
+  title: Added `claude agents --json` to list live Claude sessions as JSON for scripting…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-19-added-resume-support-for-background-sessions-sessions-started-via-claude-bg-or-a|claude-code-2026-05-19-215520]]'
@@ -43,11 +43,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-19-v2-1-145-github-325388499-227a5ce4|claude-code-2026-05-19-v2-1-145-github-325388499-227a5ce4]]'
 source_type: github_releases
 theme: agent-mode
-title: Added claude agents --json to list live Claude sessions as JSON for scripting
+title: Added claude agents --json to list live Claude sessions as JSON for scripting…
 type: change
 ---
 
-# Added `claude agents --json` to list live Claude sessions as JSON for scripting
+# Added `claude agents --json` to list live Claude sessions as JSON for scripting…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.145: Added `claude agents --json` to list live Claude sessions as JSON for scripting (tmux-resurrect, status bars, session pickers)

@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 7d4ef9fd9604ab85a551281a2bf14d6216fa31042dd2e4e1c16cd6ff6f4e634a
+machine_hash: de1735b7bb6bb0c95578c92542dc083ddf82f1d7285d3fa094157ea96c11b7d9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,7 +48,7 @@ record:
       To help with holiday shopping, we’re making usage nearly unlimited across plans
       through the season. To learn more, visit the blog.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -72,7 +72,7 @@ record:
     theme: search-browsing
   theme_resolution: manual-semantic-rule-v1
   title: Shopping research is a new interactive experience that helps you find the
-    right
+    right…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-10-29-chatgpt-pulse-is-now-available-on-web-and-rolling-out-to-atlas-for-pro-users-wit|chatgpt-2025-10-29-4e6c68]]'
@@ -81,11 +81,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-24-shopping-research-in-chatgpt-1b8ce931|chatgpt-2025-11-24-shopping-research-in-chatgpt-1b8ce931]]'
 source_type: chatgpt_changelog
 theme: memory
-title: Shopping research is a new interactive experience that helps you find the right
+title: Shopping research is a new interactive experience that helps you find the right…
 type: change
 ---
 
-# Shopping research is a new interactive experience that helps you find the right
+# Shopping research is a new interactive experience that helps you find the right…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Shopping research in ChatGPT: Shopping research is a new interactive experience that helps you find the right products without doing all the research yourself. Describe what you need—like a quiet cordless vacuum for a small apartment, a gift for a four‑year‑old who loves art, or a way to choose between three bikes—and ChatGPT will ask clarifying questions, research deeply across the internet, review quality sources, and build on ChatGPT’s understanding of you from past conversations and memory to return a personalized buyer’s guide with options, tradeoffs, and links to buy.ChatGPT learns what you like through an interactive interface allowing you to guide the research based on your real-time feedback.Shopping research is available on ChatGPT Web, iOS, and Android for logged‑in Free, Go, Plus, and Pro users. To help with holiday shopping, we’re making usage nearly unlimited across plans through the season. To learn more, visit the blog.

@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-12-22'
-machine_hash: 344bc3991f8fa36ac81b8c9f10cc50de060a4b98e87845c436e369686c15f477
+machine_hash: d0486ddc1d9f437a50a8d17879e806ac8c9d349c9cadbe1175afada30417196b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- memory: [[Changes/ChatGPT/2025-12-22-today-we-re-rolling-out-your-year-with-chatgpt-an-optional-personalized-end-of-y-740eb1|Today we’re rolling out Your Year with ChatGPT, an optional, personalized end-of]]
+- memory: [[Changes/ChatGPT/2025-12-22-today-we-re-rolling-out-your-year-with-chatgpt-an-optional-personalized-end-of-y-740eb1|ChatGPT rolls out Your Year with ChatGPT, an optional, personalized end-of-year…]]
 <!-- chronolog:end -->

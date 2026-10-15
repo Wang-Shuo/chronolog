@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 8c41a503824f4ca6868be3c0c1daac3db079d2b2ea8cece969765ddfa0fde5b6
+machine_hash: fc0fe0cc5fc0afd356fba205159e553049e2c5373664b476e98d833e4bbcdd7f
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,7 +30,7 @@ record:
       to the working directory now wins when names collide; project-scope workflow
       saves now target the closest existing `.claude/workflows/`'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.178
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code
@@ -38,8 +38,7 @@ record:
   source_release: claude-code-2026-06-15-v2-1-178-github-339741361-902bc427
   source_type: github_releases
   theme: agent-mode
-  title: 'Nested `.claude/` directories: the agent, workflow, and output-style closest
-    to'
+  title: Nested `.claude/` directories
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-10-sub-agents-can-now-spawn-their-own-sub-agents-up-to-5-levels-deep|claude-code-2026-06-10-78521c]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-15-v2-1-178-github-339741361-902bc427|claude-code-2026-06-15-v2-1-178-github-339741361-902bc427]]'
 source_type: github_releases
 theme: agent-mode
-title: 'Nested .claude/ directories: the agent, workflow, and output-style closest
-  to'
+title: Nested .claude/ directories
 type: change
 ---
 
-# Nested `.claude/` directories: the agent, workflow, and output-style closest to
+# Nested `.claude/` directories
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.178: Nested `.claude/` directories: the agent, workflow, and output-style closest to the working directory now wins when names collide; project-scope workflow saves now target the closest existing `.claude/workflows/`

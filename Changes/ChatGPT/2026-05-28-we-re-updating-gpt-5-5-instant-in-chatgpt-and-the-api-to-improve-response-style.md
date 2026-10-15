@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e19b727f7fe14941a301b20aad8a97726998d509788b524d02542d79047c86f5
+machine_hash: 47f9c00e345ff400bf8dcf07d0d6282807c0e0227a48dbda0c11e60082b98f15
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,7 +38,7 @@ record:
       using canvas for a limited time through legacy models until those models are
       sunset.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -58,7 +58,7 @@ record:
     theme: file-data
   theme_resolution: manual-semantic-rule-v2
   title: We’re updating GPT-5.5 Instant in ChatGPT and the API to improve response
-    style
+    style…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-18-it-s-a-substantial-improvement-in-intelligence-and-behavior-over-composer-2-it-i|cursor-2026-05-18-b02650]]'
@@ -67,11 +67,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-05-28-gpt-5-5-instant-update-6c17e30e|chatgpt-2026-05-28-gpt-5-5-instant-update-6c17e30e]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: We’re updating GPT-5.5 Instant in ChatGPT and the API to improve response style
+title: We’re updating GPT-5.5 Instant in ChatGPT and the API to improve response style…
 type: change
 ---
 
-# We’re updating GPT-5.5 Instant in ChatGPT and the API to improve response style
+# We’re updating GPT-5.5 Instant in ChatGPT and the API to improve response style…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — GPT-5.5 Instant Update: We’re updating GPT-5.5 Instant in ChatGPT and the API to improve response style and quality. It’s now easier to read, more natural in everyday conversations, and better paced in practical help tasks, with fewer overly long or bullet-heavy responses.With this update, canvas will no longer be available in GPT-5.5 Instant or GPT-5.5 Thinking. Writing and coding functionality is now supported directly in chat responses through writing blocks and code blocks. Paid users can continue using canvas for a limited time through legacy models until those models are sunset.

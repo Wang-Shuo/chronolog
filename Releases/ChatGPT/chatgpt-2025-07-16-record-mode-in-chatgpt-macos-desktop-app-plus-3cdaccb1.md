@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2025-07-16'
-machine_hash: 0c8d727a1a3a106923618eda4672055e39280ff586e325f74b603d3f6b04f34d
+machine_hash: f39ed05f6988ebdf4f40d8f6855a4fcebefa06efb7aef0d83e24765dbec21efe
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,6 +39,6 @@ Tracked cards: 2
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- voice: [[Changes/ChatGPT/2025-07-16-record-live-conversations-like-team-meetings-or-voice-notes-and-turn-those-into|Record live conversations like team meetings or voice notes, and turn those into]]
-- mobile-desktop: [[Changes/ChatGPT/2025-07-16-record-mode-is-now-available-to-chatgpt-plus-users-globally-in-the-macos-desktop|Record mode is now available to ChatGPT Plus users globally in the macOS desktop]]
+- voice: [[Changes/ChatGPT/2025-07-16-record-live-conversations-like-team-meetings-or-voice-notes-and-turn-those-into|Record live conversations like team meetings or voice notes, and turn those…]]
+- mobile-desktop: [[Changes/ChatGPT/2025-07-16-record-mode-is-now-available-to-chatgpt-plus-users-globally-in-the-macos-desktop|Record mode is now available to ChatGPT Plus users globally in the macOS desktop app]]
 <!-- chronolog:end -->

@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 2144d9fafb7f5184ee88885b7546e8eb54b2ac4c7c48aead5350652c4801ec36
+machine_hash: d557923086eeb9cf1823c810e8edc92ecfba72c37113d1d6910eb9c4cf3605ba
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,7 +49,7 @@ record:
       only see basic chat statistics.At launch, this experience is available in English
       in the United States, United Kingdom, Canada, Australia, and New Zealand.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -66,8 +66,7 @@ record:
     - enterprise
     score: 50
     theme: enterprise-admin
-  title: Today we’re rolling out Your Year with ChatGPT, an optional, personalized
-    end-of
+  title: ChatGPT rolls out Your Year with ChatGPT, an optional, personalized end-of-year…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-12-19-be-more-or-less-enthusiastic|chatgpt-2025-12-19-7c1129]]'
@@ -76,11 +75,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-12-22-your-year-with-chatgpt-6dbbef4d|chatgpt-2025-12-22-your-year-with-chatgpt-6dbbef4d]]'
 source_type: chatgpt_changelog
 theme: memory
-title: Today we’re rolling out Your Year with ChatGPT, an optional, personalized end-of
+title: ChatGPT rolls out Your Year with ChatGPT, an optional, personalized end-of-year…
 type: change
 ---
 
-# Today we’re rolling out Your Year with ChatGPT, an optional, personalized end-of
+# ChatGPT rolls out Your Year with ChatGPT, an optional, personalized end-of-year…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Your Year with ChatGPT: Today we’re rolling out Your Year with ChatGPT, an optional, personalized end-of-year experience that reflects on how you interacted with ChatGPT in 2025. It highlights high-level themes from your conversations and includes summary statistics about your usage over the year.This experience is rolling out gradually throughout the day, so it may not be available to everyone immediately. It’s available to Free, Plus, and Pro users in the United States, the United Kingdom, Canada, Australia, and New Zealand as well as Go, Plus, and Pro users in India, and is not available on Business, Enterprise, or Edu plans.To see Your Year with ChatGPT, Memory and Reference Chat History must be turned on, and you must meet a minimum activity threshold. If you have very limited activity, you’ll only see basic chat statistics.At launch, this experience is available in English in the United States, United Kingdom, Canada, Australia, and New Zealand.

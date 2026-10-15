@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-07-24'
-machine_hash: dedc7481ff58dbc075859a4f9af1b4cc82f138a6fcde86435958e701966fef14
+machine_hash: 963ca0bec601117cb43afb4d9a25c47115fb6055a6a67ce1d50f11784426842f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- apps-integrations: [[Changes/ChatGPT/2025-07-24-pro-users-can-now-utilize-chat-search-with-hubspot-and-custom-connectors-mcp-in-b9b682|Pro users can now utilize chat search with HubSpot and custom connectors (MCP) i]]
+- apps-integrations: [[Changes/ChatGPT/2025-07-24-pro-users-can-now-utilize-chat-search-with-hubspot-and-custom-connectors-mcp-in-b9b682|Pro users can now utilize chat search with HubSpot and custom connectors (MCP)…]]
 <!-- chronolog:end -->

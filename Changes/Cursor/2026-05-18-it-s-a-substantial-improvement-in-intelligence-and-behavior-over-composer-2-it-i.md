@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1e793140772f24b5721c3b02157c583bb7b12ff863d6406672e6fdc859263d50
+machine_hash: eb23403ac755feda4aa81a3659b1beeab52ca317d9871992381400c0df67b893
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
       2. It is better at sustained work on long-running tasks, follows complex instructions
       more reliably, and is more pleasant to collaborate with.
     source_release: https://cursor.com/changelog/composer-2-5
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -40,7 +40,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: It's a substantial improvement in intelligence and behavior over Composer
-    2. It
+    2
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-14-fast-mode-now-uses-opus-4-7-by-default-previously-opus-4-6-set-claude-code-opus|claude-code-2026-05-14-47ff02]]'
@@ -49,12 +49,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-05-18-composer-2-5-https-cursor-com-changelog-composer-2-5-1dffe5a1|cursor-2026-05-18-composer-2-5-https-cursor-com-changelog-composer-2-5-1dffe5a1]]'
 source_type: cursor_changelog
 theme: model-support
-title: It's a substantial improvement in intelligence and behavior over Composer 2.
-  It
+title: It's a substantial improvement in intelligence and behavior over Composer 2
 type: change
 ---
 
-# It's a substantial improvement in intelligence and behavior over Composer 2. It
+# It's a substantial improvement in intelligence and behavior over Composer 2
 
 <!-- chronolog:begin region="description" -->
 Cursor — Composer 2.5: It's a substantial improvement in intelligence and behavior over Composer 2. It is better at sustained work on long-running tasks, follows complex instructions more reliably, and is more pleasant to collaborate with.

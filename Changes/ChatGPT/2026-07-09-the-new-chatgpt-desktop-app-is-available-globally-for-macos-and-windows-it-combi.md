@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 185ad36918eeef1af131464bb5c54fab93ad3045f8f15dcb66b0eabef8d4263b
+machine_hash: a5ae17975689220ca52600b6947b90db062d8c0913a3f6cb83baa615deda8428
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       It combines Chat for questions and conversation, Work for research and finished
       deliverables, and Codex for software development in one app.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -39,8 +39,7 @@ record:
   source_release: chatgpt-2026-07-09-the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together-90482810
   source_type: chatgpt_changelog
   theme: mobile-desktop
-  title: The new ChatGPT desktop app is available globally for macOS and Windows.
-    It comb
+  title: The new ChatGPT desktop app is available globally for macOS and Windows
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-29-improved-background-session-reliability-long-running-commands-and-workflows-now|claude-code-2026-06-29-a914be]]'
@@ -49,12 +48,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together-90482810|chatgpt-2026-07-09-the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together-90482810]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: The new ChatGPT desktop app is available globally for macOS and Windows. It
-  comb
+title: The new ChatGPT desktop app is available globally for macOS and Windows
 type: change
 ---
 
-# The new ChatGPT desktop app is available globally for macOS and Windows. It comb
+# The new ChatGPT desktop app is available globally for macOS and Windows
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — The new ChatGPT desktop app brings Chat, Work, and Codex together: The new ChatGPT desktop app is available globally for macOS and Windows. It combines Chat for questions and conversation, Work for research and finished deliverables, and Codex for software development in one app.

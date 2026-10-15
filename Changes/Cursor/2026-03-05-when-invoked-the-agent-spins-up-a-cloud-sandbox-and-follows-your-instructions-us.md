@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: bb761b6bcad93223f043a46a15d6f970e62731989283411cf464da138a80b6a2
+machine_hash: b08757348e3c4c2863c0bc2da4479fda96896797b8f63513fcf6140b46ecb663
 product: cursor
 product_name: Cursor
 record:
@@ -31,7 +31,7 @@ record:
       using the MCPs and models you've configured. Agents also have access to a memory
       tool that lets them learn from past runs and improve with repetition.
     source_release: https://cursor.com/changelog/03-05-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -55,7 +55,7 @@ record:
     theme: model-support
   theme_resolution: manual-semantic-rule-v2
   title: When invoked, the agent spins up a cloud sandbox and follows your instructions
-    u
+    using…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-02-17-the-sandbox-now-supports-granular-network-access-controls-as-well-as-controls-fo|cursor-2026-02-17-d49ecd]]'
@@ -65,11 +65,11 @@ source_release: '[[Releases/Cursor/cursor-2026-03-05-automations-https-cursor-co
 source_type: cursor_changelog
 theme: safety-privacy
 title: When invoked, the agent spins up a cloud sandbox and follows your instructions
-  u
+  using…
 type: change
 ---
 
-# When invoked, the agent spins up a cloud sandbox and follows your instructions u
+# When invoked, the agent spins up a cloud sandbox and follows your instructions using…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Automations: When invoked, the agent spins up a cloud sandbox and follows your instructions using the MCPs and models you've configured. Agents also have access to a memory tool that lets them learn from past runs and improve with repetition.

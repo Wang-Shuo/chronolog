@@ -11,9 +11,9 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e972923799d7335554262fcf6940702244202b983c25038528a2576848b4470c
+machine_hash: 401eb3834bf634c07fca326dd44414fcf0e376b5beea5492ebf95f0ce60eb569
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: 'Alpine/musl builds: native image paste, clipboard, and audio-capture add-ons
       now load (musl-built binaries instead of glibc ones refused by the runtime)'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.239
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,7 +36,7 @@ record:
   source_type: github_releases
   theme: voice
   title: 'Alpine/musl builds: native image paste, clipboard, and audio-capture add-ons
-    now'
+    now…'
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-07-13-chatgpt-is-available-again-on-whatsapp-in-the-european-economic-area-eea-you-can-f60c71|chatgpt-2026-07-13-f60c71]]'
@@ -46,11 +46,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-08-21-v2-1-239-github-3
 source_type: github_releases
 theme: voice
 title: 'Alpine/musl builds: native image paste, clipboard, and audio-capture add-ons
-  now'
+  now…'
 type: change
 ---
 
-# Alpine/musl builds: native image paste, clipboard, and audio-capture add-ons now
+# Alpine/musl builds: native image paste, clipboard, and audio-capture add-ons now…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.239: Alpine/musl builds: native image paste, clipboard, and audio-capture add-ons now load (musl-built binaries instead of glibc ones refused by the runtime)

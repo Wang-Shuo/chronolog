@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2026-08-03'
-machine_hash: c6682f46ba713eee49955ae7fda5c3ac0e7bd29d2369b85d36b4afc0b2fae5ff
+machine_hash: 9a2c63442c5c52ffa48e9386929cd261bf61d32cf08e822b3f569ec46a7a5898
 product: cursor
 product_name: Cursor
 record:
@@ -38,6 +38,6 @@ Tracked cards: 2
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- apps-integrations: [[Changes/Cursor/2026-08-03-new-plugins-give-coding-agents-direct-access-to-gmail-google-drive-and-calendar|New plugins give coding agents direct access to Gmail, Google Drive, and Calenda]]
-- apps-integrations: [[Changes/Cursor/2026-08-03-install-plugins-to-connect|Install plugins to connect:]]
+- apps-integrations: [[Changes/Cursor/2026-08-03-new-plugins-give-coding-agents-direct-access-to-gmail-google-drive-and-calendar|New plugins give coding agents direct access to Gmail, Google Drive, and Calendar…]]
+- apps-integrations: [[Changes/Cursor/2026-08-03-install-plugins-to-connect|Install plugins to connect]]
 <!-- chronolog:end -->

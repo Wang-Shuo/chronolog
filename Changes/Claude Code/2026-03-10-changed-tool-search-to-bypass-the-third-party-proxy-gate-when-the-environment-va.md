@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 788d7873916c7f85cde728402e10854f28f1c71e696b696765a3234bf83c3cc0
+machine_hash: ffdf19dd4659007395a960063924321d011b440eb9472c3141a9999cf19a9989
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Changed tool search to bypass the third-party proxy gate when the environment
       variable is set (replaces `CLAUDE_CODE_PROXY_SUPPORTS_TOOL_REFERENCE`, now removed)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.72
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,8 +37,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Changed tool search to bypass the third-party proxy gate when the environment
-    va
+  title: Changed tool search to bypass the third-party proxy gate when the environment…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-05-added-the-claude-api-skill-for-building-applications-with-the-claude-api-and-ant|claude-code-2026-03-05-4574a6]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48|claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48]]'
 source_type: github_releases
 theme: apps-integrations
-title: Changed tool search to bypass the third-party proxy gate when the environment
-  va
+title: Changed tool search to bypass the third-party proxy gate when the environment…
 type: change
 ---
 
-# Changed tool search to bypass the third-party proxy gate when the environment va
+# Changed tool search to bypass the third-party proxy gate when the environment…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.72: Changed tool search to bypass the third-party proxy gate when the environment variable is set (replaces `CLAUDE_CODE_PROXY_SUPPORTS_TOOL_REFERENCE`, now removed)

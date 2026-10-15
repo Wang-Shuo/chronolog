@@ -11,9 +11,9 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: ff7a60b4738524d432cf9f81b5f6d19f2d5fae33236e97c2f64dd24b89b54879
+machine_hash: 8cf32c7369ac449c5a64cf4750da1e8b5d7b84344a9f4789f297e7ea9037cafb
 product: cursor
 product_name: Cursor
 record:
@@ -30,7 +30,7 @@ record:
       while an agent is mid-run, so you can queue the next change by voice without
       waiting for the previous one to finish.
     source_release: https://cursor.com/changelog/design-mode-improvements
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -47,8 +47,7 @@ record:
     - agent
     score: 50
     theme: agent-mode
-  title: Narrate changes through the Design Mode overlay. The mic stays available
-    while a
+  title: Narrate changes through the Design Mode overlay
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-05-added-voice-stt-support-for-10-new-languages-20-total-russian-polish-turkish-dut|claude-code-2026-03-05-69ebb8]]'
@@ -57,12 +56,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-06-05-3-7-https-cursor-com-changelog-design-mode-improvements-936ff395|cursor-2026-06-05-3-7-https-cursor-com-changelog-design-mode-improvements-936ff395]]'
 source_type: cursor_changelog
 theme: voice
-title: Narrate changes through the Design Mode overlay. The mic stays available while
-  a
+title: Narrate changes through the Design Mode overlay
 type: change
 ---
 
-# Narrate changes through the Design Mode overlay. The mic stays available while a
+# Narrate changes through the Design Mode overlay
 
 <!-- chronolog:begin region="description" -->
 Cursor — Design Mode Improvements: Narrate changes through the Design Mode overlay. The mic stays available while an agent is mid-run, so you can queue the next change by voice without waiting for the previous one to finish.

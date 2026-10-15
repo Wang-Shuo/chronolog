@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 7922d40d141c0dde10a39bfd04e798a6ae92b3b6b84896b57d916af4dbaf081a
+machine_hash: a081c0b3acdaf9ff14d62bdaead5f587f218d113cb6b7c6b6949396797139409
 product: cursor
 product_name: Cursor
 record:
@@ -31,7 +31,7 @@ record:
       prompt and recent agent activity. It reads the entire thread for context before
       implementing a solution and creating a PR for your team to review.
     source_release: https://cursor.com/changelog/microsoft-teams
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -57,8 +57,7 @@ record:
     score: 50
     theme: model-support
   theme_resolution: manual-semantic-rule-v1
-  title: Cursor automatically picks the right repository and model based on your prompt
-    a
+  title: Cursor automatically picks the right repository and model based on your prompt…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-04-admins-can-now-set-more-granular-allow-or-blocklists-at-the-model-and-provider-l|cursor-2026-05-04-50f164]]'
@@ -67,12 +66,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-05-11-cursor-in-microsoft-teams-https-cursor-com-changelog-microsoft-t-26de16e4|cursor-2026-05-11-cursor-in-microsoft-teams-https-cursor-com-changelog-microsoft-t-26de16e4]]'
 source_type: cursor_changelog
 theme: context-window
-title: Cursor automatically picks the right repository and model based on your prompt
-  a
+title: Cursor automatically picks the right repository and model based on your prompt…
 type: change
 ---
 
-# Cursor automatically picks the right repository and model based on your prompt a
+# Cursor automatically picks the right repository and model based on your prompt…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cursor in Microsoft Teams: Cursor automatically picks the right repository and model based on your prompt and recent agent activity. It reads the entire thread for context before implementing a solution and creating a PR for your team to review.

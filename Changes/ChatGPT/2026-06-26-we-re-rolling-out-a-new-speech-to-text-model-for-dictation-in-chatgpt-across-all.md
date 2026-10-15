@@ -11,9 +11,9 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: a8895c2ba85d7d02198ea064f346d1f54834e3278698f0b2948b46035ff772dc
+machine_hash: 462359f96dda7d4b696c0a49c0d55ea6c1adf2c19877cc8a351b09d69b49f759
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,7 +46,7 @@ record:
       accuracy—was at least 10% lower for top languages tested than with the previous
       production model.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -65,8 +65,7 @@ record:
     - model
     score: 50
     theme: model-support
-  title: We’re rolling out a new speech-to-text model for dictation in ChatGPT across
-    all
+  title: ChatGPT rolls out a new speech-to-text model for dictation across all plans
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-06-05-narrate-changes-through-the-design-mode-overlay-the-mic-stays-available-while-an|cursor-2026-06-05-23ed8d]]'
@@ -75,12 +74,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-26-improved-dictation-in-chatgpt-19d2c1ea|chatgpt-2026-06-26-improved-dictation-in-chatgpt-19d2c1ea]]'
 source_type: chatgpt_changelog
 theme: voice
-title: We’re rolling out a new speech-to-text model for dictation in ChatGPT across
-  all
+title: ChatGPT rolls out a new speech-to-text model for dictation across all plans
 type: change
 ---
 
-# We’re rolling out a new speech-to-text model for dictation in ChatGPT across all
+# ChatGPT rolls out a new speech-to-text model for dictation across all plans
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Improved dictation in ChatGPT: We’re rolling out a new speech-to-text model for dictation in ChatGPT across all plans. This is a behind-the-scenes update, so there are no changes to how you use dictation.The update improves transcription accuracy across languages and accents, including when multilingual speakers mix or switch between languages. Evaluations showed gains in Japanese, Korean, Chinese, Urdu, Vietnamese, accented English, and long-form Spanish, French, Italian, and Portuguese.Dictation is also more robust in noisy public spaces and workplace environments, with quiet or whispered speech, and when transcribing combinations of letters and numbers.In our ChatGPT dictation evaluations, word error rate—a standard measure of transcription accuracy—was at least 10% lower for top languages tested than with the previous production model.

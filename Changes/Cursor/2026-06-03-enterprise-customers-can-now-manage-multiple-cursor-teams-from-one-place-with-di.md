@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5c1d818d2c44a3577de37a563bb2e6953afa43ea10b9bdfd58888449c509e496
+machine_hash: 9d43dcb0f9c60ae83ae85f042745b18723bd05bb2fed8c58ded15a7ce4dbd205
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
       with different security, governance, budget, and feature controls for each.
       These capabilities are now generally available to all Enterprise customers.
     source_release: https://cursor.com/changelog/enterprise-organizations
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -51,8 +51,7 @@ record:
     score: 50
     theme: safety-privacy
   theme_resolution: manual-semantic-rule-v1
-  title: Enterprise customers can now manage multiple Cursor teams from one place,
-    with d
+  title: Enterprise customers can now manage multiple Cursor teams from one place…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-06-02-review-first-party-openai-sessions-from-settings-security-active-sessions-with-a|chatgpt-2026-06-02-61d936]]'
@@ -61,12 +60,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-06-03-organizations-for-cursor-enterprise-https-cursor-com-changelog-e-b5c7f576|cursor-2026-06-03-organizations-for-cursor-enterprise-https-cursor-com-changelog-e-b5c7f576]]'
 source_type: cursor_changelog
 theme: safety-privacy
-title: Enterprise customers can now manage multiple Cursor teams from one place, with
-  d
+title: Enterprise customers can now manage multiple Cursor teams from one place…
 type: change
 ---
 
-# Enterprise customers can now manage multiple Cursor teams from one place, with d
+# Enterprise customers can now manage multiple Cursor teams from one place…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Organizations for Cursor Enterprise: Enterprise customers can now manage multiple Cursor teams from one place, with different security, governance, budget, and feature controls for each. These capabilities are now generally available to all Enterprise customers.

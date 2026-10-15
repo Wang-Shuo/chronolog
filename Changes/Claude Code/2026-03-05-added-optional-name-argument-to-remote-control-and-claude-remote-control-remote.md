@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 2b38836427977192b3769b28d3190a8f30343507c7bf633a278b3a36cfaf3170
+machine_hash: 5c25cab46730cf3f96ec74054e11514f9e29de3f4fcc3eb398f292ac8f010710
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       (`/remote-control My Project` or `--name "My Project"`) to set a custom session
       title visible in claude.ai/code
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.69
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,8 +38,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Added optional name argument to `/remote-control` and `claude remote-control`
-    (`
+  title: Added optional name argument to `/remote-control` and `claude remote-control`…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-28-added-enable-claudeai-mcp-servers-false-env-var-to-opt-out-from-making-claude-ai|claude-code-2026-02-28-ba5861]]'
@@ -48,11 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44|claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added optional name argument to /remote-control and claude remote-control (
+title: Added optional name argument to /remote-control and claude remote-control…
 type: change
 ---
 
-# Added optional name argument to `/remote-control` and `claude remote-control` (`
+# Added optional name argument to `/remote-control` and `claude remote-control`…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.69: Added optional name argument to `/remote-control` and `claude remote-control` (`/remote-control My Project` or `--name "My Project"`) to set a custom session title visible in claude.ai/code

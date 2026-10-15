@@ -11,9 +11,9 @@ diffusion:
   theme: file-data
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: c765ae9e247d1aa3b7b512205a3fb36a198674490cc76df52d7a72aea2485211
+machine_hash: 8ae9783f508fb137b5f6c4f19ba5a11a2094f8bcdb5dd6fc26fbd11bd5e74857
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Customize and download presentation-ready charts and documents
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT

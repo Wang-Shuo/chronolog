@@ -1,7 +1,7 @@
 ---
 changes_count: 5
 date: '2026-03-17'
-machine_hash: 018c5a2e3ebc10e263b3009a050f7b3dd35b979ccf5654131c17c8477e6946ca
+machine_hash: 6da77e91d172e38894e54f9c59b776355bfc7a773ce6bb2fa1b6b572ca57c3c2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,9 +40,9 @@ Tracked cards: 5
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- enterprise-admin: [[Changes/ChatGPT/2026-03-17-we-ve-simplified-the-model-picker-to-make-it-easier-to-choose-the-right-level-of|We’ve simplified the model picker to make it easier to choose the right level of]]
+- enterprise-admin: [[Changes/ChatGPT/2026-03-17-we-ve-simplified-the-model-picker-to-make-it-easier-to-choose-the-right-level-of|We’ve simplified the model picker to make it easier to choose the right level of reasoning]]
 - model-support: [[Changes/ChatGPT/2026-03-17-instant-fast-responses-for-everyday-questions|Instant – fast responses for everyday questions]]
 - model-support: [[Changes/ChatGPT/2026-03-17-pro-the-most-advanced-reasoning-models|Pro – the most advanced reasoning models]]
 - model-support: [[Changes/ChatGPT/2026-03-17-thinking-deeper-reasoning-for-more-complex-tasks|Thinking – deeper reasoning for more complex tasks]]
-- interface-experience: [[Changes/ChatGPT/2026-03-17-the-auto-functionality-can-be-accessed-by-clicking-configure-in-the-model-picker|The Auto functionality can be accessed by clicking Configure in the model picker]]
+- interface-experience: [[Changes/ChatGPT/2026-03-17-the-auto-functionality-can-be-accessed-by-clicking-configure-in-the-model-picker|The Auto functionality can be accessed by clicking Configure in the model picker…]]
 <!-- chronolog:end -->

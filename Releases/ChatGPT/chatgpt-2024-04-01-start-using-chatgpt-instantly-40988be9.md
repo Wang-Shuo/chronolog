@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2024-04-01'
-machine_hash: 0d596b42aedfda4a451c4e42cd16657acb360c51f268e5221232f1aac3555c7b
+machine_hash: c85bfda2bce909fbc5b59cb51c2ea38ad80d8540bd0ac967316b4c7d07c629e4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- account-access: [[Changes/ChatGPT/2024-04-01-we-re-making-it-easier-for-people-to-experience-the-benefits-of-ai-without-needi|We’re making it easier for people to experience the benefits of AI without needi]]
+- account-access: [[Changes/ChatGPT/2024-04-01-we-re-making-it-easier-for-people-to-experience-the-benefits-of-ai-without-needi|We’re making it easier for people to experience the benefits of AI without needing…]]
 <!-- chronolog:end -->

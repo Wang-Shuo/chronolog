@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: b04349c95044f42230ccba8d3c2de84efbacd029c67a2c91ec6985e7399a8476
+machine_hash: afbe9af58420e16832918ebd46891fafb7289abd6f368057d4d259ecb7edeb5c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,7 +47,7 @@ record:
       developers can submit apps for review and publication in the app directory,
       making approved apps available to a broader set of ChatGPT users.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -66,8 +66,7 @@ record:
     - browse
     score: 50
     theme: search-browsing
-  title: You can now browse and add approved apps in the new app directory. Apps let
-    you
+  title: Browse and add approved apps in the new app directory
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-09-29-use-hooks-to-audit-agent-usage-block-commands-or-redact-secrets-from-context-it|cursor-2025-09-29-97ce8c]]'
@@ -76,12 +75,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-12-18-introducing-the-app-directory-in-chatgpt-c4ab90ba|chatgpt-2025-12-18-introducing-the-app-directory-in-chatgpt-c4ab90ba]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
-title: You can now browse and add approved apps in the new app directory. Apps let
-  you
+title: Browse and add approved apps in the new app directory
 type: change
 ---
 
-# You can now browse and add approved apps in the new app directory. Apps let you
+# Browse and add approved apps in the new app directory
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Introducing the app directory in ChatGPT: You can now browse and add approved apps in the new app directory. Apps let you work with your tools and data directly inside a conversation—from interactive in-chat experiences to secure connections that allow ChatGPT to search and reference information from third-party services.As part of this update, connectors now appear in the directory as apps, making it easier to manage all your tools in one place. References across the Help Center have been updated to reflect this new terminology.Apps are available to all logged-in ChatGPT users, with availability and functionality varying by plan and region. Some apps or capabilities may not be available in certain regions or may require specific plan tiers.Additionally, developers can submit apps for review and publication in the app directory, making approved apps available to a broader set of ChatGPT users.

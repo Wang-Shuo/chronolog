@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: c67351e32786d07d8123c89505d505eddad15831147b0d2fa3963165a474118e
+machine_hash: d0777836de066431761323c5c2148c0a4c078d4602a0c93df6595e2647a877bf
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Can open chat history from the prompt bar
     source_release: https://cursor.com/changelog/0-1-2
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor

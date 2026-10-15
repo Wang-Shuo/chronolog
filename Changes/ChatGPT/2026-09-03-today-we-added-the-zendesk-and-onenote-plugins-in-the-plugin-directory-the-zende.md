@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: ef2b9ff58a069b2baa61c0c68e703464d90b51e4e9817a7adfdc22bf8de7177b
+machine_hash: 12b85bce8c24fd88fbad0a921d2bed7fadc962f7a46bc294bba32efc27c0fc7a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
       find relevant knowledge, and prepare replies in ChatGPT and Codex. Members connect
       their own Zendesk accounts to work with the support information they can access.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -51,8 +51,7 @@ record:
     - teams
     score: 50
     theme: collaboration
-  title: Today, we added the Zendesk and OneNote plugins in the Plugin directory.
-    The Zen
+  title: Today, we added the Zendesk and OneNote plugins in the Plugin directory
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-02-added-json-to-claude-plugin-validate-for-a-machine-readable-validation-report|claude-code-2026-09-02-077441]]'
@@ -61,12 +60,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-03-zendesk-onenote-plugins-in-chatgpt-and-codex-beta-d31462ff|chatgpt-2026-09-03-zendesk-onenote-plugins-in-chatgpt-and-codex-beta-d31462ff]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
-title: Today, we added the Zendesk and OneNote plugins in the Plugin directory. The
-  Zen
+title: Today, we added the Zendesk and OneNote plugins in the Plugin directory
 type: change
 ---
 
-# Today, we added the Zendesk and OneNote plugins in the Plugin directory. The Zen
+# Today, we added the Zendesk and OneNote plugins in the Plugin directory
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Zendesk & OneNote Plugins in ChatGPT and Codex [Beta]: Today, we added the Zendesk and OneNote plugins in the Plugin directory. The Zendesk plugin helps teams review support tickets and customer history, find relevant knowledge, and prepare replies in ChatGPT and Codex. Members connect their own Zendesk accounts to work with the support information they can access.

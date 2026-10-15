@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4838bb9d2dfbf77cb9339c3c0b716f80c0238d66ca3b4da8c1debbc2572ec27c
+machine_hash: 050de7ed2122d02eb7d71d1c58705b3b4dc5d2b43cb622b94807d65e44f4a61b
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       to Remote Control clients (background subagents, the default, still show status
       only)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.251
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   source_type: github_releases
   theme: agent-mode
   title: Added live streaming of a foreground subagent's tool calls and results to
-    Remote
+    Remote…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-27-added-experimental-cachettl-5m-or-1h-to-agent-frontmatter-a-per-agent-prompt-cac|claude-code-2026-08-27-4c06f7]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-08-28-v2-1-251-github-378586104-42ac2f96|claude-code-2026-08-28-v2-1-251-github-378586104-42ac2f96]]'
 source_type: github_releases
 theme: agent-mode
-title: Added live streaming of a foreground subagent's tool calls and results to Remote
+title: Added live streaming of a foreground subagent's tool calls and results to Remote…
 type: change
 ---
 
-# Added live streaming of a foreground subagent's tool calls and results to Remote
+# Added live streaming of a foreground subagent's tool calls and results to Remote…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.251: Added live streaming of a foreground subagent's tool calls and results to Remote Control clients (background subagents, the default, still show status only)

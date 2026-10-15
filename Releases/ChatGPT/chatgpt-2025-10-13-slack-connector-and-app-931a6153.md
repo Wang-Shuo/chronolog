@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-10-13'
-machine_hash: ae44f02a53fbebe206d89cd5d895dc873c85402a4ca376db1ed30331c9102cc3
+machine_hash: f578564c594d7c7711fe186ddb67b0f3e0f2f1e3c34412e692f231a66f0b3f74
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- apps-integrations: [[Changes/ChatGPT/2025-10-13-we-re-rolling-out-two-new-ways-to-bring-slack-and-chatgpt-together-a-connector-t-be2213|We’re rolling out two new ways to bring Slack and ChatGPT together: a connector]]
+- apps-integrations: [[Changes/ChatGPT/2025-10-13-we-re-rolling-out-two-new-ways-to-bring-slack-and-chatgpt-together-a-connector-t-be2213|ChatGPT rolls out two new ways to bring Slack and ChatGPT together]]
 <!-- chronolog:end -->

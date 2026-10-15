@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: fed098dbed7f04b89fca24c17e0e825aa0cfa40851a7e325e84e74d72d8d64cc
+machine_hash: 7d81d226eb0d79a6cecfaaed8a988c0e60e66f1049de11db12da09ba86d5f003
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
       that used GPT-5.1 will automatically continue on the corresponding current model:
       GPT-5.3 Instant, GPT-5.4 Thinking, or GPT-5.4 Pro.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -44,7 +44,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: As of March 11, 2026, GPT-5.1 models are no longer available in ChatGPT.This
-    app
+    applies…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-04-removed-opus-4-and-4-1-from-claude-code-on-the-first-party-api-users-with-these|claude-code-2026-03-04-20136c]]'
@@ -54,11 +54,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-03-11-retiring-gpt-5-1-models-2
 source_type: chatgpt_changelog
 theme: model-support
 title: As of March 11, 2026, GPT-5.1 models are no longer available in ChatGPT.This
-  app
+  applies…
 type: change
 ---
 
-# As of March 11, 2026, GPT-5.1 models are no longer available in ChatGPT. This ap
+# As of March 11, 2026, GPT-5.1 models are no longer available in ChatGPT.This applies…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Retiring GPT-5.1 models: As of March 11, 2026, GPT-5.1 models are no longer available in ChatGPT.This applies to GPT-5.1 Instant, GPT-5.1 Thinking, and GPT-5.1 Pro. Existing conversations that used GPT-5.1 will automatically continue on the corresponding current model: GPT-5.3 Instant, GPT-5.4 Thinking, or GPT-5.4 Pro.

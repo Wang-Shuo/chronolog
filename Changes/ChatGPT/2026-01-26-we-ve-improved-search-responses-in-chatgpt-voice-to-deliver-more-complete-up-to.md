@@ -11,9 +11,9 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6583f6c45af4db9108eab0d7e56ea42be05c9e0ed24430fb7107f3082fbed0aa
+machine_hash: 0a1a5a0be953689b72eef1ab03cb4da536d4c4c1935842f4dca9ed7138362bae
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: We’ve improved search responses in ChatGPT Voice to deliver more complete,
       up-to-date answers, including better access to shopping results.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -35,8 +35,7 @@ record:
   source_release: chatgpt-2026-01-26-improvements-to-search-response-quality-in-voice-f8293292
   source_type: chatgpt_changelog
   theme: voice
-  title: We’ve improved search responses in ChatGPT Voice to deliver more complete,
-    up-to
+  title: ChatGPT improves search responses in ChatGPT Voice to deliver more complete…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-12-11-voice-will-continue-to-be-available-on-chatgpt-com-ios-android-and-windows-app|chatgpt-2025-12-11-ac9a55]]'
@@ -45,12 +44,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-01-26-improvements-to-search-response-quality-in-voice-f8293292|chatgpt-2026-01-26-improvements-to-search-response-quality-in-voice-f8293292]]'
 source_type: chatgpt_changelog
 theme: voice
-title: We’ve improved search responses in ChatGPT Voice to deliver more complete,
-  up-to
+title: ChatGPT improves search responses in ChatGPT Voice to deliver more complete…
 type: change
 ---
 
-# We’ve improved search responses in ChatGPT Voice to deliver more complete, up-to
+# ChatGPT improves search responses in ChatGPT Voice to deliver more complete…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Improvements to search response quality in Voice: We’ve improved search responses in ChatGPT Voice to deliver more complete, up-to-date answers, including better access to shopping results.

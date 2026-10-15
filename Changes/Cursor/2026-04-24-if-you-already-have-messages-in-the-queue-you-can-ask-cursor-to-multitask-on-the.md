@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a0c37ba58945f8b6f35f2debbb1e6703caa9c80be69fb953735736564fb3e1de
+machine_hash: 63e8692ebef50ed60510e95a4c263788ab86334c2bd1e86a400106aa0a606ed2
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: If you already have messages in the queue, you can ask Cursor to multitask
       on them instead of waiting for the current run to finish.
     source_release: https://cursor.com/changelog/04-24-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -38,7 +38,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: If you already have messages in the queue, you can ask Cursor to multitask
-    on th
+    on them…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-22-forked-subagents-can-now-be-enabled-on-external-builds-by-setting-claude-code-fo|claude-code-2026-04-22-9b1eed]]'
@@ -48,11 +48,11 @@ source_release: '[[Releases/Cursor/cursor-2026-04-24-3-2-https-cursor-com-change
 source_type: cursor_changelog
 theme: agent-mode
 title: If you already have messages in the queue, you can ask Cursor to multitask
-  on th
+  on them…
 type: change
 ---
 
-# If you already have messages in the queue, you can ask Cursor to multitask on th
+# If you already have messages in the queue, you can ask Cursor to multitask on them…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Multitask, Worktrees, and Multi-root Workspaces: If you already have messages in the queue, you can ask Cursor to multitask on them instead of waiting for the current run to finish.

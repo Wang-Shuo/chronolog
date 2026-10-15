@@ -1,7 +1,7 @@
 ---
 changes_count: 4
 date: '2026-05-14'
-machine_hash: d346b5d3b3554ee3f5bdd8e3729f8c49a591cdac79f7345811842173a59e8184
+machine_hash: a585900c59f116be4a87af2d5b0485b1dcb71bf46f67e8bbac3e7e11a12a8c01
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,7 +43,7 @@ Tracked cards: 4
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
 - file-data: [[Changes/ChatGPT/2026-05-14-free-500-mb|Free: 500 MB]]
-- mobile-desktop: [[Changes/ChatGPT/2026-05-14-generated-images-will-continue-to-appear-in-the-images-tab-storage-management-is|Generated images will continue to appear in the Images tab.Storage management is]]
+- mobile-desktop: [[Changes/ChatGPT/2026-05-14-generated-images-will-continue-to-appear-in-the-images-tab-storage-management-is|Generated images will continue to appear in the Images tab]]
 - file-data: [[Changes/ChatGPT/2026-05-14-plus-and-business-20-gb|Plus and Business: 20 GB]]
-- file-data: [[Changes/ChatGPT/2026-05-14-file-library-is-expanding-to-free-and-go-users-including-to-users-in-the-europea|File library is expanding to Free and Go users, including to users in the Europe]]
+- file-data: [[Changes/ChatGPT/2026-05-14-file-library-is-expanding-to-free-and-go-users-including-to-users-in-the-europea|File library is expanding to Free and Go users, including to users in the European…]]
 <!-- chronolog:end -->

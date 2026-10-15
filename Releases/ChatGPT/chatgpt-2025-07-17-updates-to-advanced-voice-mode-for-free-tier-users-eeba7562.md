@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-07-17'
-machine_hash: 4dff58baa64870669fb3fdcb8eddf9160f9a368ef80fac404039e54138061adc
+machine_hash: 8e29d2af2cac8512f2b938b86e1cd0d00db7f650ffc05fd127fc39705adbbc24
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- voice: [[Changes/ChatGPT/2025-07-17-the-advanced-voice-upgrades-we-announced-on-june-7th-are-now-rolling-out-to-chat|The Advanced Voice upgrades we announced on June 7th are now rolling out to Chat]]
+- voice: [[Changes/ChatGPT/2025-07-17-the-advanced-voice-upgrades-we-announced-on-june-7th-are-now-rolling-out-to-chat|The Advanced Voice upgrades we announced on June 7th are now rolling out to ChatGPT…]]
 <!-- chronolog:end -->

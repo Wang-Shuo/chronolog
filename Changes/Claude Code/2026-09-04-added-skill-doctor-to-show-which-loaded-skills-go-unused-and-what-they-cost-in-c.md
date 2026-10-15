@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 708cf9ef5ed2449a3af98d862d0ebf30477504d1977caf240fea2d2eddc8abb8
+machine_hash: 5aeced017db6f84b062322d7ccd93b23bef11b76d55152908bc400369430f396
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `/skill-doctor` to show which loaded skills go unused and what they
       cost in context, so you can prune them
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.261
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,7 +35,7 @@ record:
   source_type: github_releases
   theme: context-window
   title: Added `/skill-doctor` to show which loaded skills go unused and what they
-    cost i
+    cost…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-07-10-open-a-side-chat-to-ask-questions-explore-ideas-and-investigate-tangents-without|cursor-2026-07-10-b2c8bd]]'
@@ -44,12 +44,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-04-v2-1-261-github-382913543-2cb10519|claude-code-2026-09-04-v2-1-261-github-382913543-2cb10519]]'
 source_type: github_releases
 theme: context-window
-title: Added /skill-doctor to show which loaded skills go unused and what they cost
-  i
+title: Added /skill-doctor to show which loaded skills go unused and what they cost…
 type: change
 ---
 
-# Added `/skill-doctor` to show which loaded skills go unused and what they cost i
+# Added `/skill-doctor` to show which loaded skills go unused and what they cost…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.261: Added `/skill-doctor` to show which loaded skills go unused and what they cost in context, so you can prune them

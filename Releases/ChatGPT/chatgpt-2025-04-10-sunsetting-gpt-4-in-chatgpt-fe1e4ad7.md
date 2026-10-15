@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-04-10'
-machine_hash: 099c8b41d1b3fc946101f130bc54a4a95b4d96693a589bf09c370ab709132a05
+machine_hash: 44393a8ee4bfc534f695f16754c29c3b67af51ea035291b8f366c745d32c1457
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,5 +41,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2025-04-10-effective-april-30-2025-gpt-4-will-be-retired-from-chatgpt-and-fully-replaced-by-d03b3b|Effective April 30, 2025, GPT‑4 will be retired from ChatGPT and fully replaced]]
+- model-support: [[Changes/ChatGPT/2025-04-10-effective-april-30-2025-gpt-4-will-be-retired-from-chatgpt-and-fully-replaced-by-d03b3b|Effective April 30, 2025, GPT‑4 will be retired from ChatGPT and fully replaced by GPT‑4o]]
 <!-- chronolog:end -->

@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 69c36ae99a30770f504d724ea5bd80c5177f1c1fc3730412d4a3d2205e39efa5
+machine_hash: ab84e97baaee9e57772ce61042ae2e3d99eccf704037d07f9e1dd54e2a54e5c6
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Status line commands now receive `COLUMNS` and `LINES` environment variables
       so scripts can size output to the terminal width
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.153
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -44,8 +44,7 @@ record:
     score: 50
     theme: developer-workflow
   theme_resolution: manual-semantic-rule-v1
-  title: Status line commands now receive `COLUMNS` and `LINES` environment variables
-    so
+  title: Status line commands now receive `COLUMNS` and `LINES` environment variables…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-21-renamed-simplify-to-code-review-it-now-reports-correctness-bugs-at-a-chosen-effo|claude-code-2026-05-21-b0bdbe]]'
@@ -54,11 +53,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-28-v2-1-153-github-330532213-2fa9c18a|claude-code-2026-05-28-v2-1-153-github-330532213-2fa9c18a]]'
 source_type: github_releases
 theme: developer-workflow
-title: Status line commands now receive COLUMNS and LINES environment variables so
+title: Status line commands now receive COLUMNS and LINES environment variables…
 type: change
 ---
 
-# Status line commands now receive `COLUMNS` and `LINES` environment variables so
+# Status line commands now receive `COLUMNS` and `LINES` environment variables…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.153: Status line commands now receive `COLUMNS` and `LINES` environment variables so scripts can size output to the terminal width

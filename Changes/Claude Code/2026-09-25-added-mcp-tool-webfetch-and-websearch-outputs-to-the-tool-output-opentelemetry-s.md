@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7f09f8af2a3764a23f49d94f4164120a157f56b6f8e4dab79dd010c90b1dbdc8
+machine_hash: 71c4269e5059ab650a8a0edc5107052d5e1e6f2dae8fedf52a16ed442c628687
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added MCP tool, WebFetch and WebSearch outputs to the `tool.output` OpenTelemetry
       span event when `OTEL_LOG_TOOL_CONTENT=1`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.283
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -34,7 +34,7 @@ record:
   source_release: claude-code-2026-09-25-v2-1-283-github-396845205-9a5a07f8
   source_type: github_releases
   theme: apps-integrations
-  title: Added MCP tool, WebFetch and WebSearch outputs to the `tool.output` OpenTelemetr
+  title: Added MCP tool, WebFetch and WebSearch outputs to the `tool.output` OpenTelemetry…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-23-added-assume-role-on-claude-apps-gateway-bedrock-upstreams-the-gateway-calls-bed|claude-code-2026-09-23-edd757]]'
@@ -43,11 +43,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-25-v2-1-283-github-396845205-9a5a07f8|claude-code-2026-09-25-v2-1-283-github-396845205-9a5a07f8]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added MCP tool, WebFetch and WebSearch outputs to the tool.output OpenTelemetr
+title: Added MCP tool, WebFetch and WebSearch outputs to the tool.output OpenTelemetry…
 type: change
 ---
 
-# Added MCP tool, WebFetch and WebSearch outputs to the `tool.output` OpenTelemetr
+# Added MCP tool, WebFetch and WebSearch outputs to the `tool.output` OpenTelemetry…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.283: Added MCP tool, WebFetch and WebSearch outputs to the `tool.output` OpenTelemetry span event when `OTEL_LOG_TOOL_CONTENT=1`

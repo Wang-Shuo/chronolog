@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-09-25'
-machine_hash: 0d21a44234992dca1d26a6d118a0b8b5b6e9c0298f2cfa62ad2525f7a197d21f
+machine_hash: 2f9330ec52319b61b743f9151704fe8ba7c96bfed7fe7e4f7b5078c2c0b5188b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- memory: [[Changes/ChatGPT/2025-09-25-we-re-launching-an-early-preview-of-chatgpt-pulse-for-pro-users-on-ios-and-andro-cf8064|We’re launching an early preview of ChatGPT pulse for Pro users on iOS and Andro]]
+- memory: [[Changes/ChatGPT/2025-09-25-we-re-launching-an-early-preview-of-chatgpt-pulse-for-pro-users-on-ios-and-andro-cf8064|ChatGPT launches an early preview of ChatGPT pulse for Pro users on iOS and Android]]
 <!-- chronolog:end -->

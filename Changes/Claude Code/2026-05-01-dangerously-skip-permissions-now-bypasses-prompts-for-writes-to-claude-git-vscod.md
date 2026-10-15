@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f077c3d1de3f0a1f832b1c737c2286fdf0e50a6ec6586d0bd5baea7c2a2b822c
+machine_hash: 9d88c737852eedf6ad572101c8c0b098ff97127eb163899f5e4bebb83557da82
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,7 +29,7 @@ record:
       `.git/`, `.vscode/`, shell config files, and other previously-protected paths
       (catastrophic removal commands still prompt as a safety net)'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.126
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   source_release: claude-code-2026-05-01-v2-1-126-github-316244540-de18d9bb
   source_type: github_releases
   theme: safety-privacy
-  title: '`--dangerously-skip-permissions` now bypasses prompts for writes to `.claude/`,'
+  title: '`--dangerously-skip-permissions` now bypasses prompts for writes to `.claude/`…'
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-04-30-vulnerability-scanner-runs-scheduled-scans-of-your-codebase-to-check-for-known-v|cursor-2026-04-30-67f1e8]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-01-v2-1-126-github-316244540-de18d9bb|claude-code-2026-05-01-v2-1-126-github-316244540-de18d9bb]]'
 source_type: github_releases
 theme: safety-privacy
-title: --dangerously-skip-permissions now bypasses prompts for writes to .claude/,
+title: --dangerously-skip-permissions now bypasses prompts for writes to .claude/…
 type: change
 ---
 
-# `--dangerously-skip-permissions` now bypasses prompts for writes to `.claude/`,
+# `--dangerously-skip-permissions` now bypasses prompts for writes to `.claude/`…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.126: `--dangerously-skip-permissions` now bypasses prompts for writes to `.claude/`, `.git/`, `.vscode/`, shell config files, and other previously-protected paths (catastrophic removal commands still prompt as a safety net)

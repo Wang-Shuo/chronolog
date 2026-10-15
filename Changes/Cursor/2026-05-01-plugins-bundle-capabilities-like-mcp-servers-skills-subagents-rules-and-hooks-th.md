@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 2d0df5b9197b8a0ace2248d76d7847b79744581a66db5b4f4cef5d67ea9db755
+machine_hash: 31874c6839d7a9a68f0c0569b7da89c6e3f92f944e1a7842860d00e7b61ba0be
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
       and hooks that extend agents with custom functionality. Each plugin can be distributed
       in one of three ways:'
     source_release: https://cursor.com/changelog/05-01-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -49,7 +49,7 @@ record:
     score: 100
     theme: agent-mode
   title: Plugins bundle capabilities like MCP servers, skills, subagents, rules, and
-    hook
+    hooks…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-28-posttooluse-hooks-can-now-replace-tool-output-for-all-tools-via-hookspecificoutp|claude-code-2026-04-28-cd9249]]'
@@ -59,11 +59,11 @@ source_release: '[[Releases/Cursor/cursor-2026-05-01-team-marketplace-updates-ht
 source_type: cursor_changelog
 theme: apps-integrations
 title: Plugins bundle capabilities like MCP servers, skills, subagents, rules, and
-  hook
+  hooks…
 type: change
 ---
 
-# Plugins bundle capabilities like MCP servers, skills, subagents, rules, and hook
+# Plugins bundle capabilities like MCP servers, skills, subagents, rules, and hooks…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Team Marketplace Updates: Plugins bundle capabilities like MCP servers, skills, subagents, rules, and hooks that extend agents with custom functionality. Each plugin can be distributed in one of three ways:

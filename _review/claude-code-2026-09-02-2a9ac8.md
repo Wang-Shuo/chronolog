@@ -1,6 +1,6 @@
 ---
 draft: true
-machine_hash: e1fb4f8f47e3f420099f1b93d429e2e7861e48998cb3d4dba8962009af409d0e
+machine_hash: 9c5376cf26719ddb920b82c80fec2bb432e542a89e2d3a406b6caa6c7bdb6e30
 product: claude-code
 record:
   card_id: claude-code-2026-09-02-2a9ac8
@@ -14,7 +14,7 @@ record:
       GitLab merge requests show as `MR !N` in the collapsed tool summary and refresh
       the footer MR badge
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.259
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -26,7 +26,7 @@ record:
   theme_review_reason: no_match
   theme_suggestion: added-recognition-of
   title: Added recognition of `glab mr create/merge/close/reopen/note/update` so GitLab
-    m
+    merge…
   type: change
 ---
 

@@ -1,7 +1,7 @@
 ---
 changes_count: 2
 date: '2023-09-27'
-machine_hash: be63cb8a3f68736afdb24648d4dada33925e86f3ca4c0c76e3406c313f718f6c
+machine_hash: d3f768b2d73c7e13911daf8c2d8743d7ab47d086153bd7e874b0545149f4af61
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,6 +41,6 @@ Tracked cards: 2
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- search-browsing: [[Changes/ChatGPT/2023-09-27-browsing-is-rolling-out-to-all-plus-users-chatgpt-can-now-browse-the-internet-to-335b58|Browsing is rolling out to all Plus users. ChatGPT can now browse the internet t]]
-- model-support: [[Changes/ChatGPT/2023-09-27-choose-browse-with-bing-in-the-selector-under-gpt-4|Choose Browse with Bing in the selector under GPT-4.]]
+- search-browsing: [[Changes/ChatGPT/2023-09-27-browsing-is-rolling-out-to-all-plus-users-chatgpt-can-now-browse-the-internet-to-335b58|Browsing is rolling out to all Plus users]]
+- model-support: [[Changes/ChatGPT/2023-09-27-choose-browse-with-bing-in-the-selector-under-gpt-4|Choose Browse with Bing in the selector under GPT-4]]
 <!-- chronolog:end -->

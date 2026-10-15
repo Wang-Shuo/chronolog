@@ -11,9 +11,9 @@ diffusion:
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8e88923444414de2946ad8a554dc7c398939e7c33007408a5b1081400e9e6b59
+machine_hash: 6ffd231c21192a2bdd8562258a15fac0b31789a9f1011372dc5bfb76b3979d58
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: ChatGPT Projects are available to all Plus, Team, and Pro users.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -33,7 +33,7 @@ record:
   source_release: chatgpt-2024-12-13-projects-in-chatgpt-01b98e1c
   source_type: chatgpt_changelog
   theme: collaboration
-  title: ChatGPT Projects are available to all Plus, Team, and Pro users.
+  title: ChatGPT Projects are available to all Plus, Team, and Pro users
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|cursor-2023-09-08-8ba960]]'
@@ -42,11 +42,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2024-12-13-projects-in-chatgpt-01b98e1c|chatgpt-2024-12-13-projects-in-chatgpt-01b98e1c]]'
 source_type: chatgpt_changelog
 theme: collaboration
-title: ChatGPT Projects are available to all Plus, Team, and Pro users.
+title: ChatGPT Projects are available to all Plus, Team, and Pro users
 type: change
 ---
 
-# ChatGPT Projects are available to all Plus, Team, and Pro users.
+# ChatGPT Projects are available to all Plus, Team, and Pro users
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Projects in ChatGPT: ChatGPT Projects are available to all Plus, Team, and Pro users.

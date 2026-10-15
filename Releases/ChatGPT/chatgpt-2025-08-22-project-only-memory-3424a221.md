@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2025-08-22'
-machine_hash: 74275ce1e6981ec012e6db9e340c506f6e8584cbb3d04187d332d1162a215344
+machine_hash: 49fb45d56c3ef86c37415eb59cb55ffd224ced504a6fec0bd2e53c93405dc217
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,7 +41,7 @@ Tracked cards: 3
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- memory: [[Changes/ChatGPT/2025-08-22-personal-memory-must-be-enabled-to-utilize-this-feature-settings-personalization|Personal Memory must be enabled to utilize this feature.Settings - Personalizat]]
-- mobile-desktop: [[Changes/ChatGPT/2025-08-22-this-feature-will-initially-only-be-available-on-the-chatgpt-website-and-windows|This feature will initially only be available on the ChatGPT website and Windows]]
-- memory: [[Changes/ChatGPT/2025-08-22-an-improvement-to-projects-is-now-available-when-creating-a-project-users-have-t-aa77f4|An improvement to projects is now available. When creating a project, users have]]
+- memory: [[Changes/ChatGPT/2025-08-22-personal-memory-must-be-enabled-to-utilize-this-feature-settings-personalization|Personal Memory must be enabled to utilize this feature]]
+- mobile-desktop: [[Changes/ChatGPT/2025-08-22-this-feature-will-initially-only-be-available-on-the-chatgpt-website-and-windows|This feature will initially only be available on the ChatGPT website and Windows app]]
+- memory: [[Changes/ChatGPT/2025-08-22-an-improvement-to-projects-is-now-available-when-creating-a-project-users-have-t-aa77f4|An improvement to projects is now available]]
 <!-- chronolog:end -->

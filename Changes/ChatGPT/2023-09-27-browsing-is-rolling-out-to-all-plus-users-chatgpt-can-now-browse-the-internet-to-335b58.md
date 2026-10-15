@@ -11,9 +11,9 @@ diffusion:
   theme: search-browsing
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 833613cf5cec645f594eeb6edf57e2e1dcb523c5bde91bf94181e3a65cd106c0
+machine_hash: fdce613f27cdbfd5fd2d1f590b0bdccf6d072b85fb54e78f472cec6edceb8b28
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       links to sources. It is no longer limited to data before September 2021.To try
       it out, enable Browsing in your beta features setting.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -39,8 +39,7 @@ record:
   source_release: chatgpt-2023-09-27-browsing-is-rolling-back-out-to-plus-users-73e98403
   source_type: chatgpt_changelog
   theme: search-browsing
-  title: Browsing is rolling out to all Plus users. ChatGPT can now browse the internet
-    t
+  title: Browsing is rolling out to all Plus users
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-05-24-browse-with-bing-we-ve-integrated-the-browsing-feature-currently-in-beta-for-pai|chatgpt-2023-05-24-d5e485]]'
@@ -49,12 +48,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2023-09-27-browsing-is-rolling-back-out-to-plus-users-73e98403|chatgpt-2023-09-27-browsing-is-rolling-back-out-to-plus-users-73e98403]]'
 source_type: chatgpt_changelog
 theme: search-browsing
-title: Browsing is rolling out to all Plus users. ChatGPT can now browse the internet
-  t
+title: Browsing is rolling out to all Plus users
 type: change
 ---
 
-# Browsing is rolling out to all Plus users. ChatGPT can now browse the internet t
+# Browsing is rolling out to all Plus users
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Browsing is rolling back out to Plus users: Browsing is rolling out to all Plus users. ChatGPT can now browse the internet to provide you with current and authoritative information, complete with direct links to sources. It is no longer limited to data before September 2021.To try it out, enable Browsing in your beta features setting.

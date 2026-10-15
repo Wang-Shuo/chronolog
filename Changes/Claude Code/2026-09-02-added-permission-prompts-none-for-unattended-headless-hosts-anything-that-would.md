@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 60dc600e24735c843b731241af8a3f1ec22ef983b59d292bc4bdf65ae1e4200b
+machine_hash: c96e42ce5fe38c15327250ec7be2fa30cd804bff3f1b088a269f1effa8c21051
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       that would prompt is denied automatically while the active permission mode (including
       auto mode) keeps deciding'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.259
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -38,8 +38,7 @@ record:
   theme: safety-privacy
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: 'Added `--permission-prompts none` for unattended headless hosts: anything
-    that w'
+  title: Added `--permission-prompts none` for unattended headless hosts
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-26-added-a-tip-on-bash-permission-prompts-pointing-to-auto-mode-with-a-one-keystrok|claude-code-2026-08-26-07efe6]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-02-v2-1-259-github-381579834-0f335a0f|claude-code-2026-09-02-v2-1-259-github-381579834-0f335a0f]]'
 source_type: github_releases
 theme: safety-privacy
-title: 'Added --permission-prompts none for unattended headless hosts: anything that
-  w'
+title: Added --permission-prompts none for unattended headless hosts
 type: change
 ---
 
-# Added `--permission-prompts none` for unattended headless hosts: anything that w
+# Added `--permission-prompts none` for unattended headless hosts
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.259: Added `--permission-prompts none` for unattended headless hosts: anything that would prompt is denied automatically while the active permission mode (including auto mode) keeps deciding

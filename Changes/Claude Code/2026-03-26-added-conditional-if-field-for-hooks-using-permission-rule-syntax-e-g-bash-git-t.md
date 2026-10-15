@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e9c976b87e7dfcc535303620f4842fec368adb94a2248ef807784a310e32304b
+machine_hash: 35000d2670eeec9cc8b0501cb020d6922b27e5306875f95597bdd48f3a0cf4e0
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Added conditional `if` field for hooks using permission rule syntax (e.g.,
       `Bash(git *)`) to filter when they run, reducing process spawning overhead
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.85
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,8 +37,7 @@ record:
   theme: safety-privacy
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: Added conditional `if` field for hooks using permission rule syntax (e.g.,
-    `Bash
+  title: Added conditional `if` field for hooks using permission rule syntax…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-20-fixed-unnecessary-permission-prompts-for-bash-commands-containing-dashes-in-stri|claude-code-2026-03-20-c0b999]]'
@@ -47,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-26-v2-1-85-github-302129484-6eb9dcd7|claude-code-2026-03-26-v2-1-85-github-302129484-6eb9dcd7]]'
 source_type: github_releases
 theme: safety-privacy
-title: Added conditional if field for hooks using permission rule syntax (e.g., Bash
+title: Added conditional if field for hooks using permission rule syntax…
 type: change
 ---
 
-# Added conditional `if` field for hooks using permission rule syntax (e.g., `Bash
+# Added conditional `if` field for hooks using permission rule syntax…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.85: Added conditional `if` field for hooks using permission rule syntax (e.g., `Bash(git *)`) to filter when they run, reducing process spawning overhead

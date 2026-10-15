@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8a96cda1fd600a46fc827297af641196fb868fa794355ca0bc270c5ae6d13660
+machine_hash: adcad36698de32baf7c049e9d42a385a6a43468b72884ffcaa0986c2c7f5843d
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Added `.husky` to protected directories (acceptEdits mode)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.90
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

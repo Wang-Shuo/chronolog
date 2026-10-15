@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: ba5e30a81a4add9f6055104586281a5c9a5afdef61c8d76b7749356b31291362
+machine_hash: 60b74989edbdee42dd21af7ae6611537fd4e3ff958bb8d1a85ab0320b8842c85
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
   - quote: We release an improved New AI Project feature to nightly users. This is
       a more robust chain and cleaner
     source_release: https://cursor.com/changelog/0-9-8-nightly
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -38,8 +38,7 @@ record:
   theme: reliability-performance
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: We release an improved New AI Project feature to nightly users. This is a
-    more r
+  title: We release an improved New AI Project feature to nightly users
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-07-26-removes-a-check-in-the-chat-that-slows-the-chat-down-in-certain-cases|cursor-2023-07-26-fd20a9]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-09-07-0-9-8-nightly-https-cursor-com-changelog-0-9-8-nightly-bc635135|cursor-2023-09-07-0-9-8-nightly-https-cursor-com-changelog-0-9-8-nightly-bc635135]]'
 source_type: cursor_changelog
 theme: reliability-performance
-title: We release an improved New AI Project feature to nightly users. This is a more
-  r
+title: We release an improved New AI Project feature to nightly users
 type: change
 ---
 
-# We release an improved New AI Project feature to nightly users. This is a more r
+# We release an improved New AI Project feature to nightly users
 
 <!-- chronolog:begin region="description" -->
 Cursor — New AI Project: We release an improved New AI Project feature to nightly users. This is a more robust chain and cleaner

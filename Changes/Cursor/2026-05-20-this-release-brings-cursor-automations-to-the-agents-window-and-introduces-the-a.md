@@ -11,9 +11,9 @@ diffusion:
   theme: automation-scheduling
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 659baa77b4a54fbc40c04d161a80c5334cb6c97cd4469b36d15a85124fc80800
+machine_hash: 3be3da075c2f17b8d4a46afb79bc31cf84e95c99ab004b770a6140e0dcd941e8
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
       the ability to configure automations with multiple attached repos or no repos
       at all.
     source_release: https://cursor.com/changelog/05-20-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -46,8 +46,8 @@ record:
     score: 50
     theme: automation-scheduling
   theme_resolution: manual-semantic-rule-v1
-  title: This release brings Cursor Automations to the Agents Window and introduces
-    the a
+  title: Cursor brings Cursor Automations to the Agents Window and introduces the
+    ability…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-05-20-a-lot-of-engineering-work-spans-more-than-one-codebase-you-can-now-attach-multip|cursor-2026-05-20-426abf]]'
@@ -56,12 +56,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-05-20-3-5-https-cursor-com-changelog-05-20-26-f6af79ab|cursor-2026-05-20-3-5-https-cursor-com-changelog-05-20-26-f6af79ab]]'
 source_type: cursor_changelog
 theme: automation-scheduling
-title: This release brings Cursor Automations to the Agents Window and introduces
-  the a
+title: Cursor brings Cursor Automations to the Agents Window and introduces the ability…
 type: change
 ---
 
-# This release brings Cursor Automations to the Agents Window and introduces the a
+# Cursor brings Cursor Automations to the Agents Window and introduces the ability…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Improvements to Cursor Automations: This release brings Cursor Automations to the Agents Window and introduces the ability to configure automations with multiple attached repos or no repos at all.

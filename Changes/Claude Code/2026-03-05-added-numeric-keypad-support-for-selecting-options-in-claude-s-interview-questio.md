@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 728db380db9206b53e065a273feed5a810c129e59fff7a4eef8072158af00554
+machine_hash: 185a6aa80886347fa5dc99d8ff745e58d4939aeb6fef3e7b19fe9a33bf3db676
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,7 +29,7 @@ record:
   - quote: Added numeric keypad support for selecting options in Claude's interview
       questions (previously only the number row above QWERTY worked)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.69
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: claude-code
   product_name: Claude Code
@@ -40,7 +40,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: Added numeric keypad support for selecting options in Claude's interview
-    questio
+    questions…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-26-improved-ordering-of-short-task-lists|claude-code-2026-02-26-8a4d6a]]'
@@ -49,11 +49,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44|claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44]]'
 source_type: github_releases
 theme: interface-experience
-title: Added numeric keypad support for selecting options in Claude's interview questio
+title: Added numeric keypad support for selecting options in Claude's interview questions…
 type: change
 ---
 
-# Added numeric keypad support for selecting options in Claude's interview questio
+# Added numeric keypad support for selecting options in Claude's interview questions…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.69: Added numeric keypad support for selecting options in Claude's interview questions (previously only the number row above QWERTY worked)

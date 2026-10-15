@@ -11,9 +11,9 @@ diffusion:
   theme: file-data
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7679d0bba7dc841ec81fae9fa8b41d7e57416c60f46fbfc2fdd5b84bcbe2dce5
+machine_hash: b950ede1d9d8a26b234e6ddff830aba588c9db348f73da69dcd12093a0ab89b5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: 'Canvas shortcut: You can now paste content into ChatGPT and instantly
       open it in canvas via a shortcut in the upper right corner of the composer.⁠'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -35,8 +35,7 @@ record:
   source_release: chatgpt-2024-12-10-canvas-a457e8f0
   source_type: chatgpt_changelog
   theme: file-data
-  title: 'Canvas shortcut: You can now paste content into ChatGPT and instantly open
-    it in'
+  title: 'Canvas shortcut: You can now paste content into ChatGPT and instantly open…'
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2024-12-10-canvas-in-gpts-canvas-can-now-be-used-with-gpts-when-enabled-in-the-gpt-creator|chatgpt-2024-12-10-05b8bc]]'
@@ -45,12 +44,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2024-12-10-canvas-a457e8f0|chatgpt-2024-12-10-canvas-a457e8f0]]'
 source_type: chatgpt_changelog
 theme: file-data
-title: 'Canvas shortcut: You can now paste content into ChatGPT and instantly open
-  it in'
+title: 'Canvas shortcut: You can now paste content into ChatGPT and instantly open…'
 type: change
 ---
 
-# Canvas shortcut: You can now paste content into ChatGPT and instantly open it in
+# Canvas shortcut: You can now paste content into ChatGPT and instantly open…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Canvas: Canvas shortcut: You can now paste content into ChatGPT and instantly open it in canvas via a shortcut in the upper right corner of the composer.⁠

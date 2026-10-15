@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 33e4c2a98a345ba98837dfbcd889f315d9107fb3e5bedc4caed93dc6bead810a
+machine_hash: dcf3df75e58cb7bf5c7c0883fb047abb8a5abc0c858b905314e2218d0e252ca7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       you can decide whether you want a quicker answer or more in-depth reasoning
       for your task.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -41,7 +41,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: We’re giving Plus, Business, and Pro users more control over how long GPT-5
-    thin
+    thinks…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-08-15-we-re-making-gpt-5-s-default-personality-warmer-and-more-familiar-this-is-in-res-19a03e|chatgpt-2025-08-15-19a03e]]'
@@ -51,11 +51,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2025-09-17-toggle-thinking-time-in-t
 source_type: chatgpt_changelog
 theme: model-support
 title: We’re giving Plus, Business, and Pro users more control over how long GPT-5
-  thin
+  thinks…
 type: change
 ---
 
-# We’re giving Plus, Business, and Pro users more control over how long GPT-5 thin
+# We’re giving Plus, Business, and Pro users more control over how long GPT-5 thinks…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Toggle thinking time in the message composer: We’re giving Plus, Business, and Pro users more control over how long GPT-5 thinks before responding. You can now choose the level of reasoning time, so you can decide whether you want a quicker answer or more in-depth reasoning for your task.

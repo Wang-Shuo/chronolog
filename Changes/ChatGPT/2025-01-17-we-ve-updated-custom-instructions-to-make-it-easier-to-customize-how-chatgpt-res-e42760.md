@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: f625dd6ce7e8993f42c5be1047f0deda36adcaa763ab92fca90a18822d8efa9a
+machine_hash: 402ee311d0102aa5fd2b3ade7855c1d02b43b5a7a97ed132bd9ae4b36f43536e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,7 +39,7 @@ record:
       is coming to mobile and desktop on macOS in the next few weeks. Available soon
       to ChatGPT users in the EU, Norway, Iceland, Liechtenstein, and Switzerland.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -59,8 +59,7 @@ record:
     - custom instructions
     score: 60
     theme: memory
-  title: We've updated custom instructions to make it easier to customize how ChatGPT
-    res
+  title: ChatGPT updates custom instructions to make it easier to customize how ChatGPT…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|chatgpt-2023-09-25-e42bd6]]'
@@ -69,12 +68,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-01-17-more-personalization-in-custom-instructions-bab36367|chatgpt-2025-01-17-more-personalization-in-custom-instructions-bab36367]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: We've updated custom instructions to make it easier to customize how ChatGPT
-  res
+title: ChatGPT updates custom instructions to make it easier to customize how ChatGPT…
 type: change
 ---
 
-# We've updated custom instructions to make it easier to customize how ChatGPT res
+# ChatGPT updates custom instructions to make it easier to customize how ChatGPT…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — More personalization in Custom Instructions: We've updated custom instructions to make it easier to customize how ChatGPT responds to you. With the new UI, you can tell ChatGPT the traits you want it to have, how you want it to talk to you, and any rules you want it to follow.If you're already using custom instructions, this won't change your current settings.The new UI is rolling out now on http://chatgpt.com and desktop on Windows, and is coming to mobile and desktop on macOS in the next few weeks. Available soon to ChatGPT users in the EU, Norway, Iceland, Liechtenstein, and Switzerland.

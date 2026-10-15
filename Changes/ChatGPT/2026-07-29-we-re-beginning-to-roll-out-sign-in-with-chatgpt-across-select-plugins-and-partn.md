@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7833bb2462d8d296046c2a5eb42eba49bb8346aff8c16387cc4cb4882f556648
+machine_hash: d1c9e1ce42a3b7111ff8952ccec5ec9e1aa2e256ab64792290d55bbf0f5e0b14
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,7 +42,7 @@ record:
       shared with the partner. You’ll still separately review and approve the access
       each plugin receives.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -61,7 +61,7 @@ record:
     score: 60
     theme: account-access
   title: We’re beginning to roll out Sign in with ChatGPT across select plugins and
-    partn
+    partner…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-22-added-http-status-and-error-text-to-claude-mcp-list-and-mcp-when-a-server-fails|claude-code-2026-07-22-770179]]'
@@ -71,11 +71,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-07-29-sign-in-with-chatgpt-d166
 source_type: chatgpt_changelog
 theme: apps-integrations
 title: We’re beginning to roll out Sign in with ChatGPT across select plugins and
-  partn
+  partner…
 type: change
 ---
 
-# We’re beginning to roll out Sign in with ChatGPT across select plugins and partn
+# We’re beginning to roll out Sign in with ChatGPT across select plugins and partner…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Sign in with ChatGPT: We’re beginning to roll out Sign in with ChatGPT across select plugins and partner sites, starting with Airtable, GitLab, HubSpot, Notion, Supabase, and Vercel.When you connect a supported app from the plugin directory ChatGPT, you can use Sign in with ChatGPT to create or link an account with that service in fewer steps. On participating partner sites, you can also choose ‘Sign in with ChatGPT’ to create or access your account.This means less time on account setup and an easier way to start working with these tools from ChatGPT and Codex.When you sign in, only your name, email, and profile picture (if you have one) are shared with the partner. You’ll still separately review and approve the access each plugin receives.

@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 363bc5f8d9ebf082cbdac760c11e0b24b983eec7e47692a9400a52077efcc48c
+machine_hash: 5fe3276f576653229989cc4bc17acae21b696d8e740241d369aa73f1007625d2
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       findings than the usual limit; the choice is reused until you pass `--max-findings
       default`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.288
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,6 +37,7 @@ record:
   source_type: github_releases
   theme: developer-workflow
   title: Added `--max-findings <n>|all` to /code-review to report more or fewer findings
+    than…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-09-23-when-a-pull-request-opens-rollouts-reads-the-diff-and-the-systems-it-touches-the|cursor-2026-09-23-e5abac]]'
@@ -46,10 +47,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-10-02-v2-1-288-github-4
 source_type: github_releases
 theme: developer-workflow
 title: Added --max-findings n / all to /code-review to report more or fewer findings
+  than…
 type: change
 ---
 
-# Added `--max-findings <n>|all` to /code-review to report more or fewer findings
+# Added `--max-findings <n>|all` to /code-review to report more or fewer findings than…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.288: Added `--max-findings <n>|all` to /code-review to report more or fewer findings than the usual limit; the choice is reused until you pass `--max-findings default`

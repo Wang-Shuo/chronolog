@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2023-06-24'
-machine_hash: c7a94686bac9ae60ebc800120a1a6ec1944c55aa442ba700808af9b9a3972faf
+machine_hash: 70cc1df5cd6487e26fbdcff6dac1c2c85a9b7b638e0c7a0886281482aad7ee4a
 product: cursor
 product_name: Cursor
 record:
@@ -38,5 +38,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- developer-workflow: [[Changes/Cursor/2023-06-24-chat-was-failing-on-some-non-git-folders-that-is-now-fixed|Chat was failing on some non-git folders. That is now fixed.]]
+- developer-workflow: [[Changes/Cursor/2023-06-24-chat-was-failing-on-some-non-git-folders-that-is-now-fixed|Chat was failing on some non-git folders]]
 <!-- chronolog:end -->

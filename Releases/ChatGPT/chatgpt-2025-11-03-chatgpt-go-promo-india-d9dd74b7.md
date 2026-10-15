@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-11-03'
-machine_hash: bb81e4ccdd697b0059f5596af28ebd0d2ea40405db3ade90d6b38ea0d397f1b2
+machine_hash: 3bd3094a21b3885dc44ac398e8e4905113aeeb89b9879c2c978551356539b2cb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- pricing-model: [[Changes/ChatGPT/2025-11-03-eligible-customers-in-india-can-now-get-12-months-of-chatgpt-go-at-no-cost-new-u|Eligible customers in India can now get 12 months of ChatGPT Go at no cost. New]]
+- pricing-model: [[Changes/ChatGPT/2025-11-03-eligible-customers-in-india-can-now-get-12-months-of-chatgpt-go-at-no-cost-new-u|Eligible customers in India can now get 12 months of ChatGPT Go at no cost]]
 <!-- chronolog:end -->

@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1c568fd5843b3155db00300b707d274c82b14a1d4fa1537c495e8d991ac1b04c
+machine_hash: d4cef1653b7bad04a14ffeb6b48721282e8bdff9fa71557d517b5557d015d433
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added a visible warning when memory usage is critical, with steps to free
       memory or restart safely
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.274
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: Added a visible warning when memory usage is critical, with steps to free
-    memory
+    memory…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-08-14-with-project-only-memory-chatgpt-can-use-conversations-from-the-same-project-for|chatgpt-2026-08-14-29a2e3]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-17-v2-1-274-github-390317660-0d9c7c5d|claude-code-2026-09-17-v2-1-274-github-390317660-0d9c7c5d]]'
 source_type: github_releases
 theme: reliability-performance
-title: Added a visible warning when memory usage is critical, with steps to free memory
+title: Added a visible warning when memory usage is critical, with steps to free memory…
 type: change
 ---
 
-# Added a visible warning when memory usage is critical, with steps to free memory
+# Added a visible warning when memory usage is critical, with steps to free memory…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.274: Added a visible warning when memory usage is critical, with steps to free memory or restart safely

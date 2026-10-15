@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: f25acece7dcf09f1188c7c7d556f9689d0f8d0725cb58d11d152009b08fa19f0
+machine_hash: 027892147cb33c78d810de0eb1238e20bc93df35164e9e1c11ade9746f200b99
 product: cursor
 product_name: Cursor
 record:
@@ -30,7 +30,7 @@ record:
       gpt-3 turbo models. We''re evaluating the coding skills of these models before
       rolling out to pro users.'
     source_release: https://cursor.com/changelog/0-15-0-0-15-1
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -41,7 +41,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: 'New models: you can plug in your API key to try out the newest gpt-4 and
-    gpt-3 t'
+    gpt-3 turbo…'
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-10-01-use-edit-in-the-chat-to-edit-a-whole-file-if-less-than-400-lines-expect-the-edit|cursor-2023-10-01-be4968]]'
@@ -51,11 +51,11 @@ source_release: '[[Releases/Cursor/cursor-2023-11-10-0-15-0-0-15-1-https-cursor-
 source_type: cursor_changelog
 theme: model-support
 title: 'New models: you can plug in your API key to try out the newest gpt-4 and gpt-3
-  t'
+  turbo…'
 type: change
 ---
 
-# New models: you can plug in your API key to try out the newest gpt-4 and gpt-3 t
+# New models: you can plug in your API key to try out the newest gpt-4 and gpt-3 turbo…
 
 <!-- chronolog:begin region="description" -->
 Cursor — New models, Copilot++ beta: New models: you can plug in your API key to try out the newest gpt-4 and gpt-3 turbo models. We're evaluating the coding skills of these models before rolling out to pro users.

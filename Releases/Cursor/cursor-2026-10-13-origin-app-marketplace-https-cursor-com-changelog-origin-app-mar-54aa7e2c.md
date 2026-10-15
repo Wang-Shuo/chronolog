@@ -1,7 +1,7 @@
 ---
 changes_count: 3
 date: '2026-10-13'
-machine_hash: 90a980cde2e5d003d58ce3c0210a55c7fefd2e2c663e741f57a83bf4f3c30432
+machine_hash: a32614c1feb724f200f0018b3ab58493aa239aaa4e27d97d7ad82ac9898d0eb9
 product: cursor
 product_name: Cursor
 record:
@@ -40,7 +40,7 @@ Tracked cards: 3
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- safety-privacy: [[Changes/Cursor/2026-10-13-origin-now-integrates-with-over-20-apps-for-deployments-ci-code-review-security|Origin now integrates with over 20 apps for deployments, CI, code review, securi]]
-- apps-integrations: [[Changes/Cursor/2026-10-13-the-marketplace-now-includes-apps-for|The marketplace now includes apps for:]]
-- collaboration: [[Changes/Cursor/2026-10-13-starting-today-the-marketplace-is-also-open-to-public-submissions-so-any-team-bu|Starting today, the marketplace is also open to public submissions, so any team]]
+- safety-privacy: [[Changes/Cursor/2026-10-13-origin-now-integrates-with-over-20-apps-for-deployments-ci-code-review-security|Origin now integrates with over 20 apps for deployments, CI, code review, security…]]
+- apps-integrations: [[Changes/Cursor/2026-10-13-the-marketplace-now-includes-apps-for|The marketplace now includes apps for]]
+- collaboration: [[Changes/Cursor/2026-10-13-starting-today-the-marketplace-is-also-open-to-public-submissions-so-any-team-bu|Starting today, the marketplace is also open to public submissions, so any team…]]
 <!-- chronolog:end -->

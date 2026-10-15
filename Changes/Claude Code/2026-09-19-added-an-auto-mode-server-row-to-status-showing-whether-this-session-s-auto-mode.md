@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 394c1578d2bff5a18f0333168420ad6a4fccc73b3637d7b32b9d303bb0470e31
+machine_hash: 49054b212827ffaf70de238609b550c2a28ee49c58b8a1601b6b435e8272431b
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added an `Auto mode server` row to `/status` showing whether this session's
       auto mode classifier runs on the server
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.278
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,7 +35,7 @@ record:
   source_type: github_releases
   theme: agent-mode
   title: Added an `Auto mode server` row to `/status` showing whether this session's
-    auto
+    auto…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-14-added-omitclaudemd-to-agent-frontmatter-and-agents-json-letting-custom-and-plugi|claude-code-2026-09-14-88ee81]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-19-v2-1-278-github-391877760-2958ad0a|claude-code-2026-09-19-v2-1-278-github-391877760-2958ad0a]]'
 source_type: github_releases
 theme: agent-mode
-title: Added an Auto mode server row to /status showing whether this session's auto
+title: Added an Auto mode server row to /status showing whether this session's auto…
 type: change
 ---
 
-# Added an `Auto mode server` row to `/status` showing whether this session's auto
+# Added an `Auto mode server` row to `/status` showing whether this session's auto…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.278: Added an `Auto mode server` row to `/status` showing whether this session's auto mode classifier runs on the server

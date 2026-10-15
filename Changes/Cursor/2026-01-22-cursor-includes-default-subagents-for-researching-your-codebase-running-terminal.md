@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 9ff61531c86d119f889f27425d4dc4a5f1403e0e80fad88b5fab4cef276d568a
+machine_hash: edf6e44919316ffb320d35bd6d8e2c86a3bfba5f18d7aa32cae7ec82ff7790d5
 product: cursor
 product_name: Cursor
 record:
@@ -32,7 +32,7 @@ record:
       start improving the quality of your agent conversations in the editor and the
       Cursor CLI.
     source_release: https://cursor.com/changelog/2-4
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -55,7 +55,7 @@ record:
     score: 50
     theme: editor-experience
   title: Cursor includes default subagents for researching your codebase, running
-    termina
+    terminal…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-16-added-plansdirectory-setting-to-customize-where-plan-files-are-stored|claude-code-2026-01-16-16bbe2]]'
@@ -64,11 +64,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03|cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: Cursor includes default subagents for researching your codebase, running termina
+title: Cursor includes default subagents for researching your codebase, running terminal…
 type: change
 ---
 
-# Cursor includes default subagents for researching your codebase, running termina
+# Cursor includes default subagents for researching your codebase, running terminal…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Subagents, Skills, and Image Generation: Cursor includes default subagents for researching your codebase, running terminal commands, and executing parallel work streams. These will automatically start improving the quality of your agent conversations in the editor and the Cursor CLI.

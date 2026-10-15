@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0efd6b50d44a404a22b1a387b4ac0a0d7759d83c3c3d7c2d428c92f7506512cc
+machine_hash: 4fbadd46e49e5cbd998aacb2b52f4f6cd74b2233d7b8c855578a0cbad9dabc38
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Added `sandbox.network.deniedDomains` setting to block specific domains
       even when a broader `allowedDomains` wildcard would otherwise permit them
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.113
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,8 +37,7 @@ record:
   theme: safety-privacy
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: Added `sandbox.network.deniedDomains` setting to block specific domains even
-    whe
+  title: Added `sandbox.network.deniedDomains` setting to block specific domains even…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-02-fixed-plan-mode-in-remote-sessions-losing-track-of-the-plan-file-after-a-contain|claude-code-2026-04-02-76e8e8]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-17-v2-1-113-github-310525785-1b5293ba|claude-code-2026-04-17-v2-1-113-github-310525785-1b5293ba]]'
 source_type: github_releases
 theme: safety-privacy
-title: Added sandbox.network.deniedDomains setting to block specific domains even
-  whe
+title: Added sandbox.network.deniedDomains setting to block specific domains even…
 type: change
 ---
 
-# Added `sandbox.network.deniedDomains` setting to block specific domains even whe
+# Added `sandbox.network.deniedDomains` setting to block specific domains even…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.113: Added `sandbox.network.deniedDomains` setting to block specific domains even when a broader `allowedDomains` wildcard would otherwise permit them

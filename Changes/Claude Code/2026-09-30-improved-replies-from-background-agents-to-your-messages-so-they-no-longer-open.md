@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: fb00be465fd3008e9c359681cdd8b0ba3b30f4c6f4f92cf7720d2db8c402a06f
+machine_hash: 1df641139f88e239e351420df39fcb7fbcd8283f4f4cd9115512640a781269f4
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Improved replies from background agents to your messages so they no longer
       open with a separate recap of what you said
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.286
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,7 +35,7 @@ record:
   source_type: github_releases
   theme: agent-mode
   title: Improved replies from background agents to your messages so they no longer
-    open
+    open…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-28-added-a-yes-but-ask-again-next-time-answer-to-auto-mode-s-prompt-before-a-read-o|claude-code-2026-09-28-09976e]]'
@@ -45,11 +45,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-09-30-v2-1-286-github-4
 source_type: github_releases
 theme: agent-mode
 title: Improved replies from background agents to your messages so they no longer
-  open
+  open…
 type: change
 ---
 
-# Improved replies from background agents to your messages so they no longer open
+# Improved replies from background agents to your messages so they no longer open…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.286: Improved replies from background agents to your messages so they no longer open with a separate recap of what you said

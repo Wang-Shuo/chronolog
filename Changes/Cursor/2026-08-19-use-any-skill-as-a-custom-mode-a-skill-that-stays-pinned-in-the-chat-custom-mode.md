@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: ed09ea74fdfebe3eff069a2d6f815352178a3e7d85ccca0f79503c037c615f60
+machine_hash: 4329f16d1816fb458b153e389a8c0f1b490c35bb67fa219671472214cba7c5dd
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
       Custom modes keep agents focused on a skill - you can think about it like "always
       on" skills.'
     source_release: https://cursor.com/changelog/08-19-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -36,8 +36,7 @@ record:
   source_release: cursor-2026-08-19-cloud-agents-and-cursor-harness-improvements-https-cursor-com-ch-a4daf0c1
   source_type: cursor_changelog
   theme: agent-mode
-  title: 'Use any skill as a Custom Mode: a skill that stays pinned in the chat. Custom
-    mo'
+  title: 'Use any skill as a Custom Mode: a skill that stays pinned in the chat'
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-08-13-use-your-install-command-for-anything-that-can-be-prepared-ahead-of-time-the-sta|cursor-2026-08-13-d55c47]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-08-19-cloud-agents-and-cursor-harness-improvements-https-cursor-com-ch-a4daf0c1|cursor-2026-08-19-cloud-agents-and-cursor-harness-improvements-https-cursor-com-ch-a4daf0c1]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: 'Use any skill as a Custom Mode: a skill that stays pinned in the chat. Custom
-  mo'
+title: 'Use any skill as a Custom Mode: a skill that stays pinned in the chat'
 type: change
 ---
 
-# Use any skill as a Custom Mode: a skill that stays pinned in the chat. Custom mo
+# Use any skill as a Custom Mode: a skill that stays pinned in the chat
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cloud Agents and Cursor Harness Improvements: Use any skill as a Custom Mode: a skill that stays pinned in the chat. Custom modes keep agents focused on a skill - you can think about it like "always on" skills.

@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 4dce4d11c69cc81261cbf2145136f855c6b7f752bfcf043b7789abbb1cbf2da1
+machine_hash: 5e3db7931ef242bfe146548b83886b9b977b5b8449f6690b96f20da2c230ba6c
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
   - quote: This release introduces new CLI controls for models, MCP management, rules
       and commands, alongside major hooks performance improvements and bug fixes.
     source_release: https://cursor.com/changelog/cli-jan-08-2026
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -51,8 +51,8 @@ record:
     score: 50
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v1
-  title: This release introduces new CLI controls for models, MCP management, rules
-    and c
+  title: Cursor introduces new CLI controls for models, MCP management, rules and
+    commands…
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-12-22-improved-integrated-browser-to-support-opening-multiple-tabs|cursor-2025-12-22-2c790e]]'
@@ -61,12 +61,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-01-08-new-cli-features-and-improved-cli-performance-https-cursor-com-c-8afb8542|cursor-2026-01-08-new-cli-features-and-improved-cli-performance-https-cursor-com-c-8afb8542]]'
 source_type: cursor_changelog
 theme: apps-integrations
-title: This release introduces new CLI controls for models, MCP management, rules
-  and c
+title: Cursor introduces new CLI controls for models, MCP management, rules and commands…
 type: change
 ---
 
-# This release introduces new CLI controls for models, MCP management, rules and c
+# Cursor introduces new CLI controls for models, MCP management, rules and commands…
 
 <!-- chronolog:begin region="description" -->
 Cursor — New CLI Features and Improved CLI Performance: This release introduces new CLI controls for models, MCP management, rules and commands, alongside major hooks performance improvements and bug fixes.

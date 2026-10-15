@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a2a247fe8f69554d19d3f259d7c45c3c98d5195f0cbc12633c238dd51107443f
+machine_hash: 98dff82afa2e93e0f6495287341030a41e1eac96c70677be730ac7b5e6e51419
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `StopFailure` hook event that fires when the turn ends due to an
       API error (rate limit, auth failure, etc.)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.78
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: Added `StopFailure` hook event that fires when the turn ends due to an API
-    error
+    error…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-12-changed-plugin-dir-so-local-dev-copies-now-override-installed-marketplace-plugin|claude-code-2026-03-12-f0c0b4]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-17-v2-1-78-github-298204446-1f2c1721|claude-code-2026-03-17-v2-1-78-github-298204446-1f2c1721]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added StopFailure hook event that fires when the turn ends due to an API error
+title: Added StopFailure hook event that fires when the turn ends due to an API error…
 type: change
 ---
 
-# Added `StopFailure` hook event that fires when the turn ends due to an API error
+# Added `StopFailure` hook event that fires when the turn ends due to an API error…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.78: Added `StopFailure` hook event that fires when the turn ends due to an API error (rate limit, auth failure, etc.)

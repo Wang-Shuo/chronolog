@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 391f892f3c90312f7a7e90f58ad072cb27aa3027d880edd1d355c290fbdbcf48
+machine_hash: a1f83f8eedd9423f8c6bd3d8d161029b1a820ac9d30fdbf0362ce4faa2f77040
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Cursor now separates processes running for user-installed extensions and
       built-in Cursor extensions, such as codebase indexing.
     source_release: https://cursor.com/changelog/2-3
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -38,7 +38,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: Cursor now separates processes running for user-installed extensions and
-    built-i
+    built-in…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-12-18-you-can-now-browse-and-add-approved-apps-in-the-new-app-directory-apps-let-you-w|chatgpt-2025-12-18-34e422]]'
@@ -47,11 +47,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-12-22-2-3-https-cursor-com-changelog-2-3-fe418465|cursor-2025-12-22-2-3-https-cursor-com-changelog-2-3-fe418465]]'
 source_type: cursor_changelog
 theme: apps-integrations
-title: Cursor now separates processes running for user-installed extensions and built-i
+title: Cursor now separates processes running for user-installed extensions and built-in…
 type: change
 ---
 
-# Cursor now separates processes running for user-installed extensions and built-i
+# Cursor now separates processes running for user-installed extensions and built-in…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Layout Customization and Stability Improvements: Cursor now separates processes running for user-installed extensions and built-in Cursor extensions, such as codebase indexing.

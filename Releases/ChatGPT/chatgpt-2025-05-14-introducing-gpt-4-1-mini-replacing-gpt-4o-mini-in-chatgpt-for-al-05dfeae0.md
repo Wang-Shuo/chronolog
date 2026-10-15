@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2025-05-14'
-machine_hash: 39dee45d0faf6cc11408b995faab79cf9deaefa0c006734f79b301aa7b84e32e
+machine_hash: 9e8cc798148deffe68ee15d0fb14dccf46799ba916355e56660ac9c725d5a6e5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,5 +43,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- model-support: [[Changes/ChatGPT/2025-05-14-gpt-4-1-mini-is-a-fast-capable-and-efficient-small-model-delivering-significant-722b7d|GPT-4.1 mini is a fast, capable, and efficient small model, delivering significa]]
+- model-support: [[Changes/ChatGPT/2025-05-14-gpt-4-1-mini-is-a-fast-capable-and-efficient-small-model-delivering-significant-722b7d|GPT-4.1 mini is a fast, capable, and efficient small model, delivering significant…]]
 <!-- chronolog:end -->

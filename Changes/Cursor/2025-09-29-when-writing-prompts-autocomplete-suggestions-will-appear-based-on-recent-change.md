@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f8bd181b1264ab0589675338a7034d2b48990a3829548effffd01afdf6980725
+machine_hash: e2797c5487f956fc9a2a13235dc51cfb0c1ccf054d25169e5bc0470676a7392a
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: When writing prompts, autocomplete suggestions will appear based on recent
       changes. Tab to accept suggestions and attach files to context.
     source_release: https://cursor.com/changelog/1-7
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -46,7 +46,7 @@ record:
     score: 50
     theme: context-window
   title: When writing prompts, autocomplete suggestions will appear based on recent
-    chang
+    changes
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-03-11-0-47-2-cursor-tab-accepts-work-with-single-line-selections|cursor-2025-03-11-478e32]]'
@@ -56,11 +56,11 @@ source_release: '[[Releases/Cursor/cursor-2025-09-29-1-7-https-cursor-com-change
 source_type: cursor_changelog
 theme: editor-experience
 title: When writing prompts, autocomplete suggestions will appear based on recent
-  chang
+  changes
 type: change
 ---
 
-# When writing prompts, autocomplete suggestions will appear based on recent chang
+# When writing prompts, autocomplete suggestions will appear based on recent changes
 
 <!-- chronolog:begin region="description" -->
 Cursor — Browser Controls, Plan Mode, and Hooks: When writing prompts, autocomplete suggestions will appear based on recent changes. Tab to accept suggestions and attach files to context.

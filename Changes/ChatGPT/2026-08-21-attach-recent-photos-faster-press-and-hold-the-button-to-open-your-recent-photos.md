@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5c9673569b1539354d6e3631b4558ee2e2903a0e033c997d4c502dbb4720b129
+machine_hash: 1ae146dfca50216b5ab75b0fede1f1e89455ad9cac0d05735c984b55cd86f72a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Attach recent photos faster. Press and hold the + button to open your recent
       photos, then choose one to add to your conversation.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -35,8 +35,7 @@ record:
   source_release: chatgpt-2026-08-21-updates-to-chatgpt-on-ios-148662ce
   source_type: chatgpt_changelog
   theme: reliability-performance
-  title: Attach recent photos faster. Press and hold the + button to open your recent
-    pho
+  title: Attach recent photos faster
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-08-10-improved-performance-fewer-event-loop-stalls-on-file-not-found-suggestions-and-a|claude-code-2026-08-10-59eb44]]'
@@ -45,12 +44,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-21-updates-to-chatgpt-on-ios-148662ce|chatgpt-2026-08-21-updates-to-chatgpt-on-ios-148662ce]]'
 source_type: chatgpt_changelog
 theme: reliability-performance
-title: Attach recent photos faster. Press and hold the + button to open your recent
-  pho
+title: Attach recent photos faster
 type: change
 ---
 
-# Attach recent photos faster. Press and hold the + button to open your recent pho
+# Attach recent photos faster
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Updates to ChatGPT on iOS: Attach recent photos faster. Press and hold the + button to open your recent photos, then choose one to add to your conversation.

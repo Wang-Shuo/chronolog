@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: d8dac617d6998a2b80f2b5a321b1d2a3c63b880722c6ca44d1dac1d873d32c0f
+machine_hash: ce2c94e9cb50d281ed52f1b0f7f769334d0f025e4954d9985c39db4d17437461
 product: cursor
 product_name: Cursor
 record:
@@ -28,7 +28,7 @@ record:
   - quote: Plugins, skills, and MCPs let you customize Cursor for your workflows.
       The new Customize page brings them into one place.
     source_release: https://cursor.com/changelog/customize
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -36,8 +36,7 @@ record:
   source_release: cursor-2026-06-22-3-9-https-cursor-com-changelog-customize-7ff4b6b2
   source_type: cursor_changelog
   theme: apps-integrations
-  title: Plugins, skills, and MCPs let you customize Cursor for your workflows. The
-    new C
+  title: Plugins, skills, and MCPs let you customize Cursor for your workflows
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-22-added-a-skills-section-to-the-plugin-installed-tab|claude-code-2026-06-22-f77635]]'
@@ -46,12 +45,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-06-22-3-9-https-cursor-com-changelog-customize-7ff4b6b2|cursor-2026-06-22-3-9-https-cursor-com-changelog-customize-7ff4b6b2]]'
 source_type: cursor_changelog
 theme: apps-integrations
-title: Plugins, skills, and MCPs let you customize Cursor for your workflows. The
-  new C
+title: Plugins, skills, and MCPs let you customize Cursor for your workflows
 type: change
 ---
 
-# Plugins, skills, and MCPs let you customize Cursor for your workflows. The new C
+# Plugins, skills, and MCPs let you customize Cursor for your workflows
 
 <!-- chronolog:begin region="description" -->
 Cursor — Customize Cursor: Plugins, skills, and MCPs let you customize Cursor for your workflows. The new Customize page brings them into one place.

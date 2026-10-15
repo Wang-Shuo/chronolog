@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: c032971ec9bd9325432342fd56941d75d3a2d8b67f7042b6c4638872d4bd4134
+machine_hash: 9a30b78d046aa0efb18d386686049daa99ba3796ec4baad6520433acac61e63b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Enterprise and Edu users can find skills under Plugins in the sidebar,
       on the Skills tab in the Plugin Directory.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -54,7 +54,7 @@ record:
     score: 50
     theme: interface-experience
   title: Enterprise and Edu users can find skills under Plugins in the sidebar, on
-    the Sk
+    the Skills…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-06-improved-mcp-error-messages-clearer-error-when-a-server-config-has-url-but-no-ty|claude-code-2026-07-06-975aeb]]'
@@ -64,11 +64,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-skills-are-now-generally-
 source_type: chatgpt_changelog
 theme: apps-integrations
 title: Enterprise and Edu users can find skills under Plugins in the sidebar, on the
-  Sk
+  Skills…
 type: change
 ---
 
-# Enterprise and Edu users can find skills under Plugins in the sidebar, on the Sk
+# Enterprise and Edu users can find skills under Plugins in the sidebar, on the Skills…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Skills are now generally available: Enterprise and Edu users can find skills under Plugins in the sidebar, on the Skills tab in the Plugin Directory.

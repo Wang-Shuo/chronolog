@@ -11,9 +11,9 @@ diffusion:
   theme: image-generation
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 6cded05218746609e661fcfa021407b9766006596b10d868a649459870277a94
+machine_hash: 02e0f67a6a50fbd3213bf26917e4431e1038ca155b30ac0eaad9a7480518fd9a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
   - quote: 'ChatGPT Images 2.5 brings sharper details, more precise editing, and faster
       image generation. We’re also introducing new ways to create and share:'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -47,7 +47,7 @@ record:
     score: 50
     theme: reliability-performance
   title: ChatGPT Images 2.5 brings sharper details, more precise editing, and faster
-    imag
+    image…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-12-16-we-ve-introduced-a-new-and-improved-version-of-chatgpt-images-powered-by-our-bes-a63d5c|chatgpt-2025-12-16-a63d5c]]'
@@ -57,11 +57,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2026-09-08-chatgpt-images-2-5-new-wa
 source_type: chatgpt_changelog
 theme: image-generation
 title: ChatGPT Images 2.5 brings sharper details, more precise editing, and faster
-  imag
+  image…
 type: change
 ---
 
-# ChatGPT Images 2.5 brings sharper details, more precise editing, and faster imag
+# ChatGPT Images 2.5 brings sharper details, more precise editing, and faster image…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT Images 2.5: new ways to create and edit: ChatGPT Images 2.5 brings sharper details, more precise editing, and faster image generation. We’re also introducing new ways to create and share:

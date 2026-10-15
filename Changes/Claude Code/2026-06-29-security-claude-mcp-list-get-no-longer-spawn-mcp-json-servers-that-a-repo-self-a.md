@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 667c0cb85c8534799cf14f9574cc4c506d5ec7bf26bca8e2b50dd589d91304f8
+machine_hash: 0d0827e81d09526ef4095a7d2b98af7d1dce07e57f2556c849d64d6c14e9642d
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       that a repo self-approved via a committed `.claude/settings.json`; untrusted
       workspaces show `⏸ Pending approval`'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.196
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -47,7 +47,7 @@ record:
     theme: safety-privacy
   theme_resolution: manual-semantic-rule-v1
   title: 'Security: `claude mcp list`/`get` no longer spawn `.mcp.json` servers that
-    a rep'
+    a repo…'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-23-added-sandbox-credentials-setting-to-block-sandboxed-commands-from-reading-crede|claude-code-2026-06-23-3d5454]]'
@@ -56,11 +56,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-06-29-v2-1-196-github-346482381-e21be272|claude-code-2026-06-29-v2-1-196-github-346482381-e21be272]]'
 source_type: github_releases
 theme: safety-privacy
-title: 'Security: claude mcp list/get no longer spawn .mcp.json servers that a rep'
+title: 'Security: claude mcp list/get no longer spawn .mcp.json servers that a repo…'
 type: change
 ---
 
-# Security: `claude mcp list`/`get` no longer spawn `.mcp.json` servers that a rep
+# Security: `claude mcp list`/`get` no longer spawn `.mcp.json` servers that a repo…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.196: Security: `claude mcp list`/`get` no longer spawn `.mcp.json` servers that a repo self-approved via a committed `.claude/settings.json`; untrusted workspaces show `⏸ Pending approval`

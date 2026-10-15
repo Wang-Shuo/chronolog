@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 07cab1a1819322dfb8998002227bee924aeb9fe6de7100ad4bd1a77b5644faa1
+machine_hash: a67bd048ead5c78a546f87a4283c84b5de583863cd3b864c51171dc1c3ba2788
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added the `/claude-api` skill for building applications with the Claude
       API and Anthropic SDK
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.69
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,8 +36,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Added the `/claude-api` skill for building applications with the Claude API
-    and
+  title: Added the `/claude-api` skill for building applications with the Claude API…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-25-expand-remote-control-to-more-users|claude-code-2026-02-25-5873b8]]'
@@ -46,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44|claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added the /claude-api skill for building applications with the Claude API and
+title: Added the /claude-api skill for building applications with the Claude API…
 type: change
 ---
 
-# Added the `/claude-api` skill for building applications with the Claude API and
+# Added the `/claude-api` skill for building applications with the Claude API…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.69: Added the `/claude-api` skill for building applications with the Claude API and Anthropic SDK

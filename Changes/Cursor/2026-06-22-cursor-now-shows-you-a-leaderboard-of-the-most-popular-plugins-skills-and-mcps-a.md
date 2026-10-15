@@ -11,9 +11,9 @@ diffusion:
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: c40f2a1a29167b71129e8f7e9e6463c051bcd893bd45edf536d53d2d9cdce834
+machine_hash: 2011784d9a18b50757cb6748b77807c8cc1545d95b053075a32f64555b374333
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Cursor now shows you a leaderboard of the most popular plugins, skills,
       and MCPs across your team.
     source_release: https://cursor.com/changelog/customize
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -45,7 +45,7 @@ record:
     theme: collaboration
   theme_resolution: manual-semantic-rule-v1
   title: Cursor now shows you a leaderboard of the most popular plugins, skills, and
-    MCPs
+    MCPs…
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-06-04-with-canvases-agents-can-create-interactive-artifacts-like-dashboards-reports-an|cursor-2026-06-04-b7e396]]'
@@ -55,11 +55,11 @@ source_release: '[[Releases/Cursor/cursor-2026-06-22-3-9-https-cursor-com-change
 source_type: cursor_changelog
 theme: collaboration
 title: Cursor now shows you a leaderboard of the most popular plugins, skills, and
-  MCPs
+  MCPs…
 type: change
 ---
 
-# Cursor now shows you a leaderboard of the most popular plugins, skills, and MCPs
+# Cursor now shows you a leaderboard of the most popular plugins, skills, and MCPs…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Customize Cursor: Cursor now shows you a leaderboard of the most popular plugins, skills, and MCPs across your team.

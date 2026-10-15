@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f5b3568dfd174c8f578f819cf9cacb5696dabed80e9901039f73ddce6a462a38
+machine_hash: d5dd800809c2e9ae5aa39b4c6457c04f32db60e3c346157e5e438ef55d51c1a5
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Added history-based autocomplete in bash mode (`!`) - type a partial command
       and press Tab to complete from your bash command history
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.14
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -35,8 +35,7 @@ record:
   source_release: claude-code-2026-01-20-v2-1-14-github-278458927-a7d53111
   source_type: github_releases
   theme: editor-experience
-  title: Added history-based autocomplete in bash mode (`!`) - type a partial command
-    and
+  title: Added history-based autocomplete in bash mode (`!`) - type a partial command…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-16-added-external-editor-support-ctrl-g-in-askuserquestion-other-input-field|claude-code-2026-01-16-f365e9]]'
@@ -45,12 +44,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-01-20-v2-1-14-github-278458927-a7d53111|claude-code-2026-01-20-v2-1-14-github-278458927-a7d53111]]'
 source_type: github_releases
 theme: editor-experience
-title: Added history-based autocomplete in bash mode (!) - type a partial command
-  and
+title: Added history-based autocomplete in bash mode (!) - type a partial command…
 type: change
 ---
 
-# Added history-based autocomplete in bash mode (`!`) - type a partial command and
+# Added history-based autocomplete in bash mode (`!`) - type a partial command…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.14: Added history-based autocomplete in bash mode (`!`) - type a partial command and press Tab to complete from your bash command history

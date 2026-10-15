@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 21071f0e3d33963dd2dd158c7fee971ad6d7c5fe0e4ee1e65dfc66557fe3e6b6
+machine_hash: ea5340840ec28ff2ecdbb97f59cf6a1beec88bcd2e9e4795fa8692d0085e8892
 product: cursor
 product_name: Cursor
 record:
@@ -29,7 +29,7 @@ record:
   - quote: 'The new Cursor interface allows you to run many agents in parallel across
       repos and environments: locally, in worktrees, in the cloud, and on remote SSH.'
     source_release: https://cursor.com/changelog/3-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: cursor
   product_name: Cursor
@@ -48,7 +48,7 @@ record:
     theme: agent-mode
   theme_resolution: manual-semantic-rule-v1
   title: The new Cursor interface allows you to run many agents in parallel across
-    repos
+    repos…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-20-added-bare-flag-for-scripted-p-calls-skips-hooks-lsp-plugin-sync-and-skill-direc|claude-code-2026-03-20-d05f5d]]'
@@ -57,11 +57,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad|cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad]]'
 source_type: cursor_changelog
 theme: developer-workflow
-title: The new Cursor interface allows you to run many agents in parallel across repos
+title: The new Cursor interface allows you to run many agents in parallel across repos…
 type: change
 ---
 
-# The new Cursor interface allows you to run many agents in parallel across repos
+# The new Cursor interface allows you to run many agents in parallel across repos…
 
 <!-- chronolog:begin region="description" -->
 Cursor — New Cursor Interface: The new Cursor interface allows you to run many agents in parallel across repos and environments: locally, in worktrees, in the cloud, and on remote SSH.

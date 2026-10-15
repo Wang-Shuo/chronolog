@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 22177ea31b93f2b8e27fbcb6bf604449d5af9ea5bd840f89799adce0ffc8ac06
+machine_hash: e524ce67f58ef2d33464d66e55c10e624644e17e19ae2ea9f35e3bed35431723
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
       images.To use DALL·E 3 on both web and mobile, choose DALL·E 3 in the selector
       under GPT-4. The message limit may vary based on capacity.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -55,7 +55,7 @@ record:
     score: 50
     theme: mobile-desktop
   theme_resolution: manual-semantic-rule-v2
-  title: We’ve integrated DALL·E 3 with ChatGPT, allowing it to respond to your requests
+  title: We’ve integrated DALL·E 3 with ChatGPT, allowing it to respond to your requests…
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-09-08-that-are-actually-being-used-for-each-doc-you-have-uploaded-you-ll-also-be-able|cursor-2023-09-08-438ba5]]'
@@ -64,11 +64,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2023-10-16-dall-e-3-is-now-rolling-out-in-beta-d2dd292b|chatgpt-2023-10-16-dall-e-3-is-now-rolling-out-in-beta-d2dd292b]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: We’ve integrated DALL·E 3 with ChatGPT, allowing it to respond to your requests
+title: We’ve integrated DALL·E 3 with ChatGPT, allowing it to respond to your requests…
 type: change
 ---
 
-# We’ve integrated DALL·E 3 with ChatGPT, allowing it to respond to your requests
+# We’ve integrated DALL·E 3 with ChatGPT, allowing it to respond to your requests…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — DALL·E 3 is now rolling out in beta: We’ve integrated DALL·E 3 with ChatGPT, allowing it to respond to your requests with images. From a simple sentence to a detailed paragraph, ask ChatGPT what you want to see and it will translate your ideas into exceptionally accurate images.To use DALL·E 3 on both web and mobile, choose DALL·E 3 in the selector under GPT-4. The message limit may vary based on capacity.

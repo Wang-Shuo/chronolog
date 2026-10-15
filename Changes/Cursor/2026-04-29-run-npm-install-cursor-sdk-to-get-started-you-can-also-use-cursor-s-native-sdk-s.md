@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9bd9825edbd151f3b5e6c63ffae633f75bd1cbbb1d5750341f4178bc8cf0e4b3
+machine_hash: f93feb1bee48ad44e6de53aabb0961faa2365807fcc6b58337b50967db64737b
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: Run npm install @cursor/sdk to get started. You can also use Cursor's native
       /sdk skill to help you start building.
     source_release: https://cursor.com/changelog/sdk-release
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,8 +37,7 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Run npm install @cursor/sdk to get started. You can also use Cursor's native
-    /sd
+  title: Run npm install @cursor/sdk to get started
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-28-added-alwaysload-option-to-mcp-server-config-when-true-all-tools-from-that-serve|claude-code-2026-04-28-c60884]]'
@@ -47,12 +46,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-04-29-build-programmatic-agents-with-the-cursor-sdk-https-cursor-com-c-b4665fa3|cursor-2026-04-29-build-programmatic-agents-with-the-cursor-sdk-https-cursor-com-c-b4665fa3]]'
 source_type: cursor_changelog
 theme: apps-integrations
-title: Run npm install @cursor/sdk to get started. You can also use Cursor's native
-  /sd
+title: Run npm install @cursor/sdk to get started
 type: change
 ---
 
-# Run npm install @cursor/sdk to get started. You can also use Cursor's native /sd
+# Run npm install @cursor/sdk to get started
 
 <!-- chronolog:begin region="description" -->
 Cursor — Build programmatic agents with the Cursor SDK: Run npm install @cursor/sdk to get started. You can also use Cursor's native /sdk skill to help you start building.

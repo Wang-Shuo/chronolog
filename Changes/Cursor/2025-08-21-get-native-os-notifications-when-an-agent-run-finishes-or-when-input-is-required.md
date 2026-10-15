@@ -11,9 +11,9 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 13f684fb2afe3497d87504fbeb27811d3e04bbb0c7730d5eec3dfd6014d3d881
+machine_hash: 584094c916301e4b91978c8a3664cce3fe494fdf81f6d25da30bdd830a2761ec
 product: cursor
 product_name: Cursor
 record:
@@ -30,7 +30,7 @@ record:
       required, for example approving a command that is not allowlisted. Enable from
       Settings.
     source_release: https://cursor.com/changelog/1-5
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -38,7 +38,7 @@ record:
   source_release: cursor-2025-08-21-1-5-https-cursor-com-changelog-1-5-f93efb89
   source_type: cursor_changelog
   theme: agent-mode
-  title: Get native OS notifications when an agent run finishes or when input is required
+  title: Get native OS notifications when an agent run finishes or when input is required…
   type: change
 related_changes:
 - '[[Changes/Cursor/2025-07-29-agents-can-now-use-your-native-terminal-a-new-terminal-will-be-created-when-need|cursor-2025-07-29-54a1c8]]'
@@ -47,11 +47,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2025-08-21-1-5-https-cursor-com-changelog-1-5-f93efb89|cursor-2025-08-21-1-5-https-cursor-com-changelog-1-5-f93efb89]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: Get native OS notifications when an agent run finishes or when input is required
+title: Get native OS notifications when an agent run finishes or when input is required…
 type: change
 ---
 
-# Get native OS notifications when an agent run finishes or when input is required
+# Get native OS notifications when an agent run finishes or when input is required…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Linear integration, improved Agent terminal, and OS notifications: Get native OS notifications when an agent run finishes or when input is required, for example approving a command that is not allowlisted. Enable from Settings.

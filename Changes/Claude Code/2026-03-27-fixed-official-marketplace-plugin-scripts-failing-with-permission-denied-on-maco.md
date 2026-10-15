@@ -11,9 +11,9 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 383d48185ddc03a6a27825056d477c77843e4a666eba79988147e20bb663b313
+machine_hash: 45fd1acf158c7e44639bdfdd3fd178d1a8cbb10b69fba6e99898ca0e6a1d9e91
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Fixed official marketplace plugin scripts failing with "Permission denied"
       on macOS/Linux since v2.1.83
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.86
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -44,8 +44,7 @@ record:
     score: 50
     theme: mobile-desktop
   theme_resolution: manual-semantic-rule-v2
-  title: Fixed official marketplace plugin scripts failing with "Permission denied"
-    on ma
+  title: Fixed official marketplace plugin scripts failing…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-25-added-claude-code-subprocess-env-scrub-1-to-strip-anthropic-and-cloud-provider-c|claude-code-2026-03-25-502a32]]'
@@ -54,12 +53,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-03-27-v2-1-86-github-302569462-d6b30859|claude-code-2026-03-27-v2-1-86-github-302569462-d6b30859]]'
 source_type: github_releases
 theme: safety-privacy
-title: Fixed official marketplace plugin scripts failing with "Permission denied"
-  on ma
+title: Fixed official marketplace plugin scripts failing…
 type: change
 ---
 
-# Fixed official marketplace plugin scripts failing with "Permission denied" on ma
+# Fixed official marketplace plugin scripts failing…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.86: Fixed official marketplace plugin scripts failing with "Permission denied" on macOS/Linux since v2.1.83

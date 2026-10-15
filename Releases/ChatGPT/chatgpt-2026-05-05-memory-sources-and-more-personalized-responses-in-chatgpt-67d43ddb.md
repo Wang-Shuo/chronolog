@@ -1,7 +1,7 @@
 ---
 changes_count: 1
 date: '2026-05-05'
-machine_hash: b28c318d3994b6a6b345032e8e1c866201b74cd6f0b0a9903e8df9891c0259c0
+machine_hash: d8848b5c73452eac4df2e77efd95c3082052792b06494f3e341e86b6eb58c97d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,5 +42,5 @@ Tracked cards: 1
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- memory: [[Changes/ChatGPT/2026-05-05-starting-today-we-re-rolling-out-memory-improvements-to-chatgpt-plus-and-pro-use|Starting today, we’re rolling out memory improvements to ChatGPT Plus and Pro us]]
+- memory: [[Changes/ChatGPT/2026-05-05-starting-today-we-re-rolling-out-memory-improvements-to-chatgpt-plus-and-pro-use|Starting today, we’re rolling out memory improvements to ChatGPT Plus and Pro users…]]
 <!-- chronolog:end -->

@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8ce660f03f8c2e5d352207572d33cc94edf42a52e3c1a2d2ef9b5f8d559ed03a
+machine_hash: 8f564b3bd1e37587fb2ac560eb0c2a7ff9be6e6506aca6d350970c965cca8429
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Resuming a session that was in a worktree now switches back to that worktree
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.81
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code

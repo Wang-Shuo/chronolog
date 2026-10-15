@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 3af55e0e650da60002109bbfafa36e41b46168ddc82beb213a4a21b2afe76c88
+machine_hash: 8643b07d42fe0e9965733b754238825b274dd66d9482258ce6c303da63c116d4
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,7 +29,7 @@ record:
   - quote: Added `WorktreeCreate` and `WorktreeRemove` hook events, enabling custom
       VCS setup and teardown when agent worktree isolation creates or removes worktrees.
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.50
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: claude-code
   product_name: Claude Code
@@ -48,7 +48,7 @@ record:
     theme: developer-workflow
   theme_resolution: manual-semantic-rule-v1
   title: Added `WorktreeCreate` and `WorktreeRemove` hook events, enabling custom
-    VCS set
+    VCS setup…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-10-improved-heredoc-delimiter-parsing-to-prevent-command-smuggling|claude-code-2026-02-10-ac3a58]]'
@@ -57,11 +57,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-02-20-v2-1-50-github-288920711-09694b82|claude-code-2026-02-20-v2-1-50-github-288920711-09694b82]]'
 source_type: github_releases
 theme: developer-workflow
-title: Added WorktreeCreate and WorktreeRemove hook events, enabling custom VCS set
+title: Added WorktreeCreate and WorktreeRemove hook events, enabling custom VCS setup…
 type: change
 ---
 
-# Added `WorktreeCreate` and `WorktreeRemove` hook events, enabling custom VCS set
+# Added `WorktreeCreate` and `WorktreeRemove` hook events, enabling custom VCS setup…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.50: Added `WorktreeCreate` and `WorktreeRemove` hook events, enabling custom VCS setup and teardown when agent worktree isolation creates or removes worktrees.

@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8406ba4532b03fbb38f899a70f07ad9cb0f79f6cf7137b807e76d4fa6ab93321
+machine_hash: 05190d3a59e05a3b6c7da78d83f7bed435d4f117c0a436ce6d81570b5d42e7e5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       mentions and browser control, but not side chat. Update the desktop app before
       setup; availability depends on your workspace settings.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -47,7 +47,7 @@ record:
     score: 50
     theme: mobile-desktop
   theme_resolution: manual-semantic-rule-v1
-  title: Side chat is available in Edge, Brave, and Vivaldi. Opera supports tab mentions
+  title: Side chat is available in Edge, Brave, and Vivaldi
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-08-25-plus-and-pro-users-can-ask-work-on-web-ios-and-android-to-respond-when-a-new-gma|chatgpt-2026-08-25-f34896]]'
@@ -56,11 +56,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-31-use-the-browser-extension-in-more-browsers-87a64682|chatgpt-2026-08-31-use-the-browser-extension-in-more-browsers-87a64682]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: Side chat is available in Edge, Brave, and Vivaldi. Opera supports tab mentions
+title: Side chat is available in Edge, Brave, and Vivaldi
 type: change
 ---
 
-# Side chat is available in Edge, Brave, and Vivaldi. Opera supports tab mentions
+# Side chat is available in Edge, Brave, and Vivaldi
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Use the browser extension in more browsers: Side chat is available in Edge, Brave, and Vivaldi. Opera supports tab mentions and browser control, but not side chat. Update the desktop app before setup; availability depends on your workspace settings.

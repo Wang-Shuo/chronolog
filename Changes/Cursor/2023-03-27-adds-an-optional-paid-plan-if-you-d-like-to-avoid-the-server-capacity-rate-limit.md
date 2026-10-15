@@ -11,9 +11,9 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 67967612f5ce974a1f92c1208ece395c34c4071206bdce3845169ca26e56db17
+machine_hash: 5cf3b7bd7711b4b14849ae26e6a6359d36d72b210e63928a394f150eaa9ef556
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Adds an optional paid plan if you'd like to avoid the server capacity rate
       limits
     source_release: https://cursor.com/changelog/0-1-9
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: Adds an optional paid plan if you'd like to avoid the server capacity rate
-    limit
+    limits
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|chatgpt-2022-12-15-6d306d]]'
@@ -46,11 +46,11 @@ source_release: '[[Releases/Cursor/cursor-2023-03-27-0-1-9-https-cursor-com-chan
 source_type: cursor_changelog
 theme: pricing-model
 title: Adds an optional paid plan if you'd like to avoid the server capacity rate
-  limit
+  limits
 type: change
 ---
 
-# Adds an optional paid plan if you'd like to avoid the server capacity rate limit
+# Adds an optional paid plan if you'd like to avoid the server capacity rate limits
 
 <!-- chronolog:begin region="description" -->
 Cursor — v0.1.9 (2023-03-27): Adds an optional paid plan if you'd like to avoid the server capacity rate limits

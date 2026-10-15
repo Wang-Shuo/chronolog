@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f32d1408eb60cdb0c799588821eb27eafa6ff8b553d0465e968fc09e97bb5841
+machine_hash: b9a2cc6889dc6f7c0cd47eb272d4b9a875515e5c3607515c132713627fa1d87a
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `--exclude-dynamic-system-prompt-sections` flag to print mode for
       improved cross-user prompt caching
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.98
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -36,7 +36,7 @@ record:
   theme: context-window
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Added `--exclude-dynamic-system-prompt-sections` flag to print mode for improved
+  title: Added `--exclude-dynamic-system-prompt-sections` flag to print mode for improved…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-14-added-postcompact-hook-that-fires-after-compaction-completes|claude-code-2026-03-14-603f55]]'
@@ -45,11 +45,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-09-v2-1-98-github-307232194-a0774436|claude-code-2026-04-09-v2-1-98-github-307232194-a0774436]]'
 source_type: github_releases
 theme: context-window
-title: Added --exclude-dynamic-system-prompt-sections flag to print mode for improved
+title: Added --exclude-dynamic-system-prompt-sections flag to print mode for improved…
 type: change
 ---
 
-# Added `--exclude-dynamic-system-prompt-sections` flag to print mode for improved
+# Added `--exclude-dynamic-system-prompt-sections` flag to print mode for improved…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.98: Added `--exclude-dynamic-system-prompt-sections` flag to print mode for improved cross-user prompt caching

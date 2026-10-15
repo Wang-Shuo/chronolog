@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e8f40369602eb17659d5b4d89d3c001a3a39f2ef1147450edf1be0a8fd1ad3ca
+machine_hash: 4f740667fea02f5971a42b0022c37c4c59137c62ba1150aa0d59ca1a2a82b357
 product: claude-code
 product_name: Claude Code
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Claude automatically saves useful context to auto-memory. Manage with /memory
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.59
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -42,7 +42,7 @@ record:
     - context
     score: 50
     theme: context-window
-  title: Claude automatically saves useful context to auto-memory. Manage with /memory
+  title: Claude automatically saves useful context to auto-memory
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-05-claude-now-automatically-records-and-recalls-memories-as-it-works|claude-code-2026-02-05-b2014f]]'
@@ -51,11 +51,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-02-26-v2-1-59-github-290659389-9e2d6217|claude-code-2026-02-26-v2-1-59-github-290659389-9e2d6217]]'
 source_type: github_releases
 theme: memory
-title: Claude automatically saves useful context to auto-memory. Manage with /memory
+title: Claude automatically saves useful context to auto-memory
 type: change
 ---
 
-# Claude automatically saves useful context to auto-memory. Manage with /memory
+# Claude automatically saves useful context to auto-memory
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.59: Claude automatically saves useful context to auto-memory. Manage with /memory

@@ -11,9 +11,9 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: c861310311197c69a30cd87ed3383bee908dd4ddd7a8ea51196135e0e7d28bd2
+machine_hash: e975fa800a346767c097eca84984250d473b31a217666190eb5ace8fead805f4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
       switch between default and project-only memory without starting a new project.
       Shared projects remain project-only.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -38,8 +38,7 @@ record:
   source_release: chatgpt-2026-08-14-chatgpt-app-experience-updates-d15f55c5
   source_type: chatgpt_changelog
   theme: memory
-  title: Change an existing project’s memory setting. For eligible unshared projects,
-    swi
+  title: Change an existing project’s memory setting
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-06-12-type-what-you-want-changed-into-the-text-box-at-the-bottom-of-the-memory-summary|chatgpt-2026-06-12-5e9808]]'
@@ -48,12 +47,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-14-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-08-14-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
 theme: memory
-title: Change an existing project’s memory setting. For eligible unshared projects,
-  swi
+title: Change an existing project’s memory setting
 type: change
 ---
 
-# Change an existing project’s memory setting. For eligible unshared projects, swi
+# Change an existing project’s memory setting
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — ChatGPT app experience updates: Change an existing project’s memory setting. For eligible unshared projects, switch between default and project-only memory without starting a new project. Shared projects remain project-only.

@@ -11,9 +11,9 @@ diffusion:
   theme: search-browsing
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 65d73b31fc0f76a81aa1755dc59bf430ce729cff7d550e4be3e9453329e85080
+machine_hash: d7c72c7594ffd621fe1f343e41d6032f2120016fd10a4d213e33b5ee4183b4d1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
       deep research.Note this feature is currently limited to users located outside
       of the EEA, Switzerland, and the UK.Learn more about connectors.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -48,7 +48,7 @@ record:
     theme: apps-integrations
   theme_resolution: manual-semantic-rule-v1
   title: Pro users can now connect to Canva and Notion for both chat search and deep
-    rese
+    research
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-06-04-combines-internal-web-sources-for-synthesis|chatgpt-2025-06-04-74d0d0]]'
@@ -58,11 +58,11 @@ source_release: '[[Releases/ChatGPT/chatgpt-2025-07-24-canva-and-notion-connecto
 source_type: chatgpt_changelog
 theme: search-browsing
 title: Pro users can now connect to Canva and Notion for both chat search and deep
-  rese
+  research
 type: change
 ---
 
-# Pro users can now connect to Canva and Notion for both chat search and deep rese
+# Pro users can now connect to Canva and Notion for both chat search and deep research
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Canva and Notion connectors (Pro): Pro users can now connect to Canva and Notion for both chat search and deep research.Note this feature is currently limited to users located outside of the EEA, Switzerland, and the UK.Learn more about connectors.

@@ -11,9 +11,9 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a2c95c6a9f71c12ae99bd298999e6575b6facf64041272b817579099c5e13582
+machine_hash: 9548717c2071d6368c06ff0fcde0b4d06762f63b45a7c8e69e904797c7a38f9c
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added date range filtering to `/stats` command - press `r` to cycle between
       Last 7 days, Last 30 days, and All time
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.6
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: Added date range filtering to `/stats` command - press `r` to cycle between
-    Last
+    Last 7…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-09-added-source-path-metadata-to-images-dragged-onto-the-terminal-helping-claude-un|claude-code-2026-01-09-88f6ef]]'
@@ -47,10 +47,11 @@ source_release: '[[Releases/Claude Code/claude-code-2026-01-13-v2-1-6-github-276
 source_type: github_releases
 theme: developer-workflow
 title: Added date range filtering to /stats command - press r to cycle between Last
+  7…
 type: change
 ---
 
-# Added date range filtering to `/stats` command - press `r` to cycle between Last
+# Added date range filtering to `/stats` command - press `r` to cycle between Last 7…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.6: Added date range filtering to `/stats` command - press `r` to cycle between Last 7 days, Last 30 days, and All time

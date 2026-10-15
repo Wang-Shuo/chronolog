@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: f29cf3c3c0f98820c7c1020a4e016eb8b0ba7360dbef4627690f645c84a099d9
+machine_hash: 530c14174e93ba0f05b319a446e2abacee67e90f99fe265486ad425b8e20bd3a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
       or create interactive content. Collaborators can work on the same Page and leave
       comments, with each person using their own ChatGPT.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: chatgpt
   product_name: ChatGPT
@@ -42,7 +42,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: Turn a conversation into a Page, start from a template, or begin writing
-    directl
+    directly in Space
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-08-27-once-the-agent-s-build-is-to-your-liking-click-the-create-repo-button-to-save-yo|cursor-2026-08-27-ba4a9f]]'
@@ -51,11 +51,12 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-create-and-collaborate-on-pages-aae35683|chatgpt-2026-09-29-create-and-collaborate-on-pages-aae35683]]'
 source_type: chatgpt_changelog
 theme: editor-experience
-title: Turn a conversation into a Page, start from a template, or begin writing directl
+title: Turn a conversation into a Page, start from a template, or begin writing directly
+  in Space
 type: change
 ---
 
-# Turn a conversation into a Page, start from a template, or begin writing directl
+# Turn a conversation into a Page, start from a template, or begin writing directly in Space
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Create and collaborate on Pages: Turn a conversation into a Page, start from a template, or begin writing directly in Space. Edit the text yourself or ask ChatGPT to revise it, add charts, or create interactive content. Collaborators can work on the same Page and leave comments, with each person using their own ChatGPT.

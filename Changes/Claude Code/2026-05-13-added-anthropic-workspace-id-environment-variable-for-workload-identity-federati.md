@@ -11,9 +11,9 @@ diffusion:
   theme: enterprise-admin
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: d05be1903d0d7bdc2c5d1e5c2b33c30af1c066566b8e6ae31d2d0e42ec3279f7
+machine_hash: d68824f449850f4726935959e6f3295524b6df571ff84ebdd19b78f6a58ce28a
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,7 +28,7 @@ record:
       federation — scopes the minted token to a specific workspace when the federation
       rule covers more than one
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.141
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -39,7 +39,7 @@ record:
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: Added `ANTHROPIC_WORKSPACE_ID` environment variable for workload identity
-    federa
+    federation
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-07-added-parentsettingsbehavior-admin-tier-key-first-wins-merge-to-let-admins-opt-s|claude-code-2026-05-07-db2677]]'
@@ -48,11 +48,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22|claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22]]'
 source_type: github_releases
 theme: enterprise-admin
-title: Added ANTHROPIC_WORKSPACE_ID environment variable for workload identity federa
+title: Added ANTHROPIC_WORKSPACE_ID environment variable for workload identity federation
 type: change
 ---
 
-# Added `ANTHROPIC_WORKSPACE_ID` environment variable for workload identity federa
+# Added `ANTHROPIC_WORKSPACE_ID` environment variable for workload identity federation
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.141: Added `ANTHROPIC_WORKSPACE_ID` environment variable for workload identity federation — scopes the minted token to a specific workspace when the federation rule covers more than one

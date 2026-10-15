@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: e819d198dac159e3591957bcd91bebf8bd3b1c2f9912c803803d3cebe20f8650
+machine_hash: 811db305181f84a84beebaf964f22757dbb462903f42367a960a54b535976d6c
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: This update improves the prompt for Cmd-k when you don't have any code
       selected.
     source_release: https://cursor.com/changelog/0-2-46
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -34,7 +34,7 @@ record:
   source_release: cursor-2023-07-11-0-2-46-https-cursor-com-changelog-0-2-46-80f7cf5d
   source_type: cursor_changelog
   theme: editor-experience
-  title: This update improves the prompt for Cmd-k when you don't have any code selected.
+  title: This update improves the prompt for Cmd-k when you don't have any code selected
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-06-06-in-order-to-take-full-advantage-navigate-to-settings-top-right-button-then-sync|cursor-2023-06-06-a97747]]'
@@ -43,11 +43,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-07-11-0-2-46-https-cursor-com-changelog-0-2-46-80f7cf5d|cursor-2023-07-11-0-2-46-https-cursor-com-changelog-0-2-46-80f7cf5d]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: This update improves the prompt for Cmd-k when you don't have any code selected.
+title: This update improves the prompt for Cmd-k when you don't have any code selected
 type: change
 ---
 
-# This update improves the prompt for Cmd-k when you don't have any code selected.
+# This update improves the prompt for Cmd-k when you don't have any code selected
 
 <!-- chronolog:begin region="description" -->
 Cursor — 0.2.46 - Patch for Cmd-k Generates: This update improves the prompt for Cmd-k when you don't have any code selected.

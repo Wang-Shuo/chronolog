@@ -11,9 +11,9 @@ diffusion:
   theme: file-data
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 09115d0b53fe4cc40d6054319b1a596df4e1b81229803df91a5bbb3c2783fb71
+machine_hash: 0effbf4be483f6b7f83b6d9519784393310ebc0a244c1f1a0de6080c38e23145
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: Cursor can now respond by creating interactive canvases.
     source_release: https://cursor.com/changelog/04-15-26
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,7 +35,7 @@ record:
   theme: file-data
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Cursor can now respond by creating interactive canvases.
+  title: Cursor can now respond by creating interactive canvases
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-02-13-expanded-file-type-support-we-now-support-additional-text-and-code-file-formats|chatgpt-2026-02-13-b3a162]]'
@@ -44,11 +44,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-04-15-canvases-https-cursor-com-changelog-04-15-26-cd056bf7|cursor-2026-04-15-canvases-https-cursor-com-changelog-04-15-26-cd056bf7]]'
 source_type: cursor_changelog
 theme: file-data
-title: Cursor can now respond by creating interactive canvases.
+title: Cursor can now respond by creating interactive canvases
 type: change
 ---
 
-# Cursor can now respond by creating interactive canvases.
+# Cursor can now respond by creating interactive canvases
 
 <!-- chronolog:begin region="description" -->
 Cursor — Canvases: Cursor can now respond by creating interactive canvases.

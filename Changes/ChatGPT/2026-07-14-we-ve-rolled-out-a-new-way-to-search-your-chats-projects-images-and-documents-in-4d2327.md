@@ -11,9 +11,9 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 72ff61828b0c16769dd0817e8589575825c540882a0cffcbd05cce14347ad0b6
+machine_hash: 2d8b6d92e5fb4d9dcc65b796896d1b9da8a8fbbff45fb1190a6c858295595080
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -37,7 +37,7 @@ record:
       by content type. Select a result to open the chat, project, or file directly
       in ChatGPT.Available on all ChatGPT plans globally.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -63,7 +63,7 @@ record:
     - sidebar
     score: 50
     theme: interface-experience
-  title: We’ve rolled out a new way to search your chats, projects, images, and documents
+  title: We’ve rolled out a new way to search your chats, projects, images, and documents…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-07-09-to-create-a-site-start-in-chatgpt-work-on-the-web-or-in-work-or-codex-in-the-cha|chatgpt-2026-07-09-55908c]]'
@@ -72,11 +72,11 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-14-search-across-chats-projects-and-files-is-now-supercharged-90a28571|chatgpt-2026-07-14-search-across-chats-projects-and-files-is-now-supercharged-90a28571]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: We’ve rolled out a new way to search your chats, projects, images, and documents
+title: We’ve rolled out a new way to search your chats, projects, images, and documents…
 type: change
 ---
 
-# We’ve rolled out a new way to search your chats, projects, images, and documents
+# We’ve rolled out a new way to search your chats, projects, images, and documents…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Search across chats, projects, and files is now supercharged.: We’ve rolled out a new way to search your chats, projects, images, and documents in ChatGPT on web, iOS, and Android. You can quickly find past chats, projects, images, and documents from one place.Start searching from the ChatGPT sidebar to find what you need across everything, or use filters to narrow results by content type. Select a result to open the chat, project, or file directly in ChatGPT.Available on all ChatGPT plans globally.

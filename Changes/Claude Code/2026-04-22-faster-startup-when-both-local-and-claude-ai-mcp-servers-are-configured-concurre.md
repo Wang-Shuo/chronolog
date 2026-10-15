@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: a547ee3f1df57cef4cf558b26a53c34cf4d553da3ab2579a78d4921cd8c8b314
+machine_hash: ee65382dda24c7399ca443f6689678cc4e42352ae194677b0f86e87f3f97c79a
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Faster startup when both local and claude.ai MCP servers are configured
       (concurrent connect now default)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.117
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -44,7 +44,7 @@ record:
     score: 50
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v1
-  title: Faster startup when both local and claude.ai MCP servers are configured (concurr
+  title: Faster startup when both local and claude.ai MCP servers are configured…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-13-added-background-monitor-support-for-plugins-via-a-top-level-monitors-manifest-k|claude-code-2026-04-13-8f75bf]]'
@@ -53,11 +53,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-04-22-v2-1-117-github-311984967-1d917373|claude-code-2026-04-22-v2-1-117-github-311984967-1d917373]]'
 source_type: github_releases
 theme: apps-integrations
-title: Faster startup when both local and claude.ai MCP servers are configured (concurr
+title: Faster startup when both local and claude.ai MCP servers are configured…
 type: change
 ---
 
-# Faster startup when both local and claude.ai MCP servers are configured (concurr
+# Faster startup when both local and claude.ai MCP servers are configured…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.117: Faster startup when both local and claude.ai MCP servers are configured (concurrent connect now default)

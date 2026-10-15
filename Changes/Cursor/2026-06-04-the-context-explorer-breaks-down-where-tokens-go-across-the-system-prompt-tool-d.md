@@ -11,9 +11,9 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: f359812d6b6c0b315233f55a3a93550e61a40cd592dd6ef3f030ee20cb0a03fd
+machine_hash: edc10d66e6bb8d8e0ae0322c8f7054051cc983fab5ad578de094f29131cd3468
 product: cursor
 product_name: Cursor
 record:
@@ -32,7 +32,7 @@ record:
       the agent follow-up questions, and it can customize the report to answer your
       specific questions.
     source_release: https://cursor.com/changelog/canvas-improvements
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: paradigm-shift
   product: cursor
   product_name: Cursor
@@ -55,7 +55,7 @@ record:
     score: 50
     theme: file-data
   title: The context explorer breaks down where tokens go across the system prompt,
-    tool
+    tool…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-05-28-claude-now-reserves-the-multiple-choice-question-prompt-for-decisions-it-genuine|claude-code-2026-05-28-e3cabb]]'
@@ -65,11 +65,11 @@ source_release: '[[Releases/Cursor/cursor-2026-06-04-3-7-https-cursor-com-change
 source_type: cursor_changelog
 theme: context-window
 title: The context explorer breaks down where tokens go across the system prompt,
-  tool
+  tool…
 type: change
 ---
 
-# The context explorer breaks down where tokens go across the system prompt, tool
+# The context explorer breaks down where tokens go across the system prompt, tool…
 
 <!-- chronolog:begin region="description" -->
 Cursor — Canvas Design Mode and Context Usage Report: The context explorer breaks down where tokens go across the system prompt, tool definitions, rules, skills, and more. Because it's a canvas, you can ask the agent follow-up questions, and it can customize the report to answer your specific questions.

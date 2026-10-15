@@ -1,6 +1,6 @@
 ---
 draft: true
-machine_hash: daca9e9917332e0d07a2f5dbf25959c7bd8f7b793b57ee468b7ee8d9ac6d63b0
+machine_hash: 6c4c7aab76545ebf913f07c414a7b22c488d75a50ae8abbd11649f9a788caf76
 product: claude-code
 record:
   card_id: claude-code-2026-08-11-b0e8a9
@@ -13,7 +13,7 @@ record:
   - quote: 'Improved Vertex AI credential handling: expired or missing Google Cloud
       credentials now fail within seconds instead of retrying for minutes'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.228
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -24,8 +24,7 @@ record:
   theme_matches: []
   theme_review_reason: no_match
   theme_suggestion: improved-vertex-ai
-  title: 'Improved Vertex AI credential handling: expired or missing Google Cloud
-    credenti'
+  title: Improved Vertex AI credential handling
   type: change
 ---
 

@@ -11,9 +11,9 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: cea1224d1aabaa78d0deecd6d6a54cbd0cc3c830b63120a349afa8e46df552a9
+machine_hash: 43393b43bce20db13c67d137cfc87795be22df47e16ff215b2a5424112646247
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,7 +26,7 @@ record:
   - quote: Added `/output-style [name]` to list and switch output styles, including
       over Remote Control and in cloud and other headless sessions
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.269
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: claude-code
   product_name: Claude Code
@@ -37,7 +37,7 @@ record:
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
   title: Added `/output-style [name]` to list and switch output styles, including
-    over Re
+    over Remote…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-09-08-added-support-for-pointing-plugin-dir-at-a-folder-of-plugins-each-child-folder-w|claude-code-2026-09-08-4f567a]]'
@@ -46,11 +46,11 @@ related_changes:
 source_release: '[[Releases/Claude Code/claude-code-2026-09-11-v2-1-269-github-387243742-288e9189|claude-code-2026-09-11-v2-1-269-github-387243742-288e9189]]'
 source_type: github_releases
 theme: apps-integrations
-title: Added /output-style name to list and switch output styles, including over Re
+title: Added /output-style name to list and switch output styles, including over Remote…
 type: change
 ---
 
-# Added `/output-style [name]` to list and switch output styles, including over Re
+# Added `/output-style [name]` to list and switch output styles, including over Remote…
 
 <!-- chronolog:begin region="description" -->
 Claude Code — v2.1.269: Added `/output-style [name]` to list and switch output styles, including over Remote Control and in cloud and other headless sessions

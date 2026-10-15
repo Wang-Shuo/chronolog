@@ -11,9 +11,9 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: significant
-machine_hash: 0015e04ce5694bb53c024c51e8957d515876877a775684f54e8149b00c5a8e72
+machine_hash: c1ab6ef81d54790d70fe03d4f98401744f7349ebe9206a6265883ee29f45c2a9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   - quote: We’ve updated performance of the ChatGPT model on our free plan in order
       to serve more users.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: significant
   product: chatgpt
   product_name: ChatGPT
@@ -46,8 +46,8 @@ record:
     score: 50
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v1
-  title: We’ve updated performance of the ChatGPT model on our free plan in order
-    to serv
+  title: ChatGPT updates performance of the ChatGPT model on our free plan in order
+    to serve…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|chatgpt-2022-12-15-9c6f9c]]'
@@ -56,12 +56,12 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2023-02-13-updates-to-chatgpt-0d776ee3|chatgpt-2023-02-13-updates-to-chatgpt-0d776ee3]]'
 source_type: chatgpt_changelog
 theme: reliability-performance
-title: We’ve updated performance of the ChatGPT model on our free plan in order to
-  serv
+title: ChatGPT updates performance of the ChatGPT model on our free plan in order
+  to serve…
 type: change
 ---
 
-# We’ve updated performance of the ChatGPT model on our free plan in order to serv
+# ChatGPT updates performance of the ChatGPT model on our free plan in order to serve…
 
 <!-- chronolog:begin region="description" -->
 ChatGPT — Updates to ChatGPT: We’ve updated performance of the ChatGPT model on our free plan in order to serve more users.

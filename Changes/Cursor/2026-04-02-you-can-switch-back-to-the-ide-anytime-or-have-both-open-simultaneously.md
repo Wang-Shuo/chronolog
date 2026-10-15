@@ -11,9 +11,9 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 61996dcf08fcefdd63584edbcd8aaacadfd4108653a84892e41e4427553a6593
+machine_hash: ffac58a31e1028e72b3d8ad1339050004ca577023165df7d99217bfc28c43ed5
 product: cursor
 product_name: Cursor
 record:
@@ -25,7 +25,7 @@ record:
   evidence:
   - quote: You can switch back to the IDE anytime, or have both open simultaneously.
     source_release: https://cursor.com/changelog/3-0
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -33,7 +33,7 @@ record:
   source_release: cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad
   source_type: cursor_changelog
   theme: editor-experience
-  title: You can switch back to the IDE anytime, or have both open simultaneously.
+  title: You can switch back to the IDE anytime, or have both open simultaneously
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-02-27-edit-messages-with-images-you-can-now-edit-messages-that-include-image-attachmen|chatgpt-2026-02-27-f608a6]]'
@@ -42,11 +42,11 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad|cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: You can switch back to the IDE anytime, or have both open simultaneously.
+title: You can switch back to the IDE anytime, or have both open simultaneously
 type: change
 ---
 
-# You can switch back to the IDE anytime, or have both open simultaneously.
+# You can switch back to the IDE anytime, or have both open simultaneously
 
 <!-- chronolog:begin region="description" -->
 Cursor — New Cursor Interface: You can switch back to the IDE anytime, or have both open simultaneously.

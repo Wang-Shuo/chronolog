@@ -11,9 +11,9 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: b8fd343d595075047f5ad2df657dba3c1aed65b80030d48c88af6d23887e5be9
+machine_hash: 628b8e45f616fb5b6f7d5d91f20c0be69a517e1f9c81c0ed03908808b10f0557
 product: cursor
 product_name: Cursor
 record:
@@ -26,7 +26,7 @@ record:
   - quote: 'Balance: Strong quality, matching the frontier models that most people
       like to daily drive.'
     source_release: https://cursor.com/changelog/router
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -35,7 +35,7 @@ record:
   source_type: cursor_changelog
   theme: model-support
   title: 'Balance: Strong quality, matching the frontier models that most people like
-    to d'
+    to daily drive'
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-07-14-improved-the-bash-powershell-tool-message-when-a-command-hits-its-timeout-and-is|claude-code-2026-07-14-610e14]]'
@@ -45,11 +45,11 @@ source_release: '[[Releases/Cursor/cursor-2026-07-22-cursor-router-https-cursor-
 source_type: cursor_changelog
 theme: model-support
 title: 'Balance: Strong quality, matching the frontier models that most people like
-  to d'
+  to daily drive'
 type: change
 ---
 
-# Balance: Strong quality, matching the frontier models that most people like to d
+# Balance: Strong quality, matching the frontier models that most people like to daily drive
 
 <!-- chronolog:begin region="description" -->
 Cursor — Cursor Router: Balance: Strong quality, matching the frontier models that most people like to daily drive.

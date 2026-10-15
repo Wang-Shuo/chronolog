@@ -11,9 +11,9 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v3
+extractor_version: fallback-v4
 impact: incremental
-machine_hash: 797ae81bc8ed459b3fbb48ebb76e36a94d61af5b94f6cb85eba03c5015e07e15
+machine_hash: 10a03c411d76600abd1bcf5cdfa3393f0324f9959c228f8259ece3919cdd34ee
 product: cursor
 product_name: Cursor
 record:
@@ -27,7 +27,7 @@ record:
   - quote: This release introduces the ability to hand off plans from the CLI to the
       cloud, in-line rendering of ASCII diagrams, and many quality-of-life improvements.
     source_release: https://cursor.com/changelog/cli-feb-18-2026
-  extractor_version: fallback-v3
+  extractor_version: fallback-v4
   impact: incremental
   product: cursor
   product_name: Cursor
@@ -37,8 +37,8 @@ record:
   theme: interface-experience
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: This release introduces the ability to hand off plans from the CLI to the
-    cloud,
+  title: Cursor introduces the ability to hand off plans from the CLI to the cloud,
+    in-line…
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-13-improved-narrow-terminal-layout-for-prompt-footer|claude-code-2026-02-13-db1e52]]'
@@ -47,11 +47,12 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-02-18-cli-improvements-and-mermaid-ascii-diagrams-https-cursor-com-cha-a75d36c7|cursor-2026-02-18-cli-improvements-and-mermaid-ascii-diagrams-https-cursor-com-cha-a75d36c7]]'
 source_type: cursor_changelog
 theme: interface-experience
-title: This release introduces the ability to hand off plans from the CLI to the cloud,
+title: Cursor introduces the ability to hand off plans from the CLI to the cloud,
+  in-line…
 type: change
 ---
 
-# This release introduces the ability to hand off plans from the CLI to the cloud,
+# Cursor introduces the ability to hand off plans from the CLI to the cloud, in-line…
 
 <!-- chronolog:begin region="description" -->
 Cursor — CLI Improvements and Mermaid ASCII Diagrams: This release introduces the ability to hand off plans from the CLI to the cloud, in-line rendering of ASCII diagrams, and many quality-of-life improvements.
