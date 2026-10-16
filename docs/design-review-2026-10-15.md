@@ -3,7 +3,7 @@
 **评审日期：2026-10-15（Asia/Shanghai）**
 **代码基线：`main` / `5280419`**
 **线上基线：<https://wang-shuo.github.io/chronolog/>（部署自 PR #5 / #6）**
-**状态：评审建议，未实施。实施顺序见第 6 节；与 [开发与验收计划](development-plan-2026-10-13.md) 的衔接见第 7 节。**
+**状态（更新于 2026-10-16）：W1 已全部上线：[PR #7](https://github.com/Wang-Shuo/chronolog/pull/7) 标题生成、[PR #8](https://github.com/Wang-Shuo/chronolog/pull/8) 页面模板、[PR #9](https://github.com/Wang-Shuo/chronolog/pull/9) 站点布局、首页与 About 页；验收记录见 `acceptance/w1-*.md`。W1 未做：og-image 与站点图标替换、浏览器与移动端截图。W2 的 P3 需要先决策卡片定义，方案估算见附录 C。实施顺序见第 6 节；与 [开发与验收计划](development-plan-2026-10-13.md) 的衔接见第 7 节。**
 
 本文承接 M1–M3 的工程验收，只评审"读者看到的产品"：信息架构、页面模板、文案与分类质量。管线可靠性、CI 与部署门禁不在本文范围内，已在 M1/M3 记录中覆盖。
 
@@ -432,6 +432,8 @@ W1 为低成本修正，只涉及 writer、Quartz 配置与首页人类区域，
 
 W1 预计两个 PR：一个改提取与 writer 模板（会重写全部 Markdown 的机器区域），一个改 Quartz 布局与首页人类区域。
 
+W1 实际交付（2026-10-15）：C1 与 U3 的卡片部分 → PR #7；U3 其余、U4 / P4、C7、C9、U8、P10 的反馈链接 → PR #8；U2、U1 的标语与色标变量、U7、P1 / P8 / P9、C8、C10 术语表、P10 的 RSS 限定 → PR #9。U9 与 U1 的图标替换未做。
+
 ## 7. 与现有计划的衔接与风险
 
 - **机器区域全量重写。** C1、U3、U4 会改变每张卡与每个列表页的机器区域，`machine_hash` 全部更新。这是一次性的大 PR，应在没有待审 Rolling PR 时合并，避免与 `codex/chronolog-updates` 冲突；人类区域与 `human_overrides` 按 M1 所有权模型保留。
@@ -464,3 +466,18 @@ W1 预计两个 PR：一个改提取与 writer 模板（会重写全部 Markdown
 | `Releases/Cursor/cursor-2026-09-10-cursor-projects-…` | H1 "Cursor Cursor Projects"；5 张卡中 3 张为同一功能的连续段落 |
 | `Releases/Claude Code/claude-code-2026-10-14-v2-1-300-…` | Summary "What's changed"；Tracked cards: 3；GitHub 原文 102 条 |
 | `_review/chatgpt-2023-02-09-e4f9a9.md` | 候选理由 `no_match`，`theme_suggestion: as-we-recently`（由句首词生成，无指导意义） |
+
+## 附录 C：W2 P3 卡片定义方案估算（2026-10-16）
+
+按 2026-10-15 的采集集合（790 个 Release）重新模拟提取，比较三种卡片定义下的卡片规模。数字含待审主题行，因此略高于活动集合的 1,949。
+
+| 方案 | ChatGPT | Claude Code | Cursor | 合计 | 说明 |
+| --- | ---: | ---: | ---: | ---: | --- |
+| 现状：每行一卡，每 Release 最多 5 张 | 607 | 847 | 690 | 2,144 | Claude Code 候选行 6,948 只入档 11%，v2.1.300 的 102 条变更收录 3 条 |
+| 方案 A：取消上限，每行一卡 | 693 | 3,310 | 1,509 | 5,512 | 覆盖完整，但 Claude Code 占六成，主题时间线与首页被配置项级变更淹没 |
+| 方案 B：结构化公告按小节成卡；扁平列表按主题聚合 | 592 | 1,170 | 420 | 2,182 | Cursor 与 ChatGPT 的小节即一项能力（碎片消失）；Claude Code 每 Release 每主题一张“摘要卡”，evidence 列出全部条目，不再丢失 |
+| 方案 B+：方案 B，另外把 Claude Code 中高信号条目单独成卡 | 592 | 约 1,400–1,600 | 420 | 约 2,400–2,600 | 高信号判定需要新的规则或人工标注，先用关键词（Introducing、now … by default、Added /command）并抽样复核 |
+
+方案 B 的代价：卡片身份改变（聚合卡的 `card_id` 由多条 quote 哈希得到），M2 的 60 张黄金样本中按 `card_id` 定位的用例需要重做口径；`related_changes`、`diffusion.first_in_tracked` 与 `editorial.yaml` 中引用 Release 的 Era 证据不受影响。方案 A 不改变现有身份，只新增卡片，但读者体验会明显退化。
+
+建议：方案 B 作为 W2 P3 的基线，Claude Code 摘要卡的标题形如 "v2.1.300 · Agent Mode: 12 changes" 并在正文逐条列出 bullet；`kind` 字段（launch / expansion / pricing / policy / fix / digest）同步引入；黄金样本改为按 Release 与 quote 定位。实施前需要确认：是否接受聚合卡作为“最小知识单元”的例外，以及 B+ 的高信号规则是否值得先做。
