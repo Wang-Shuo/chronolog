@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b16d232321f11a0173c2db094116a376fca88a83d74dddd78cbe9f0e90c902d8
+machine_hash: 8ad9a642ef36695bc2a3a624346582c218d71a1b6df0f791cca7dfb66ce7197f
 product: claude-code
 product_name: Claude Code
 record:
@@ -85,6 +85,7 @@ type: change
 - [[Changes/Claude Code/2026-01-09-2-safety-and-privacy-changes-in-v2-1-2|2 Safety and Privacy changes in v2.1.2]] · Safety and Privacy
 - [[Changes/Claude Code/2026-01-09-3-developer-workflow-changes-in-v2-1-2|3 Developer Workflow changes in v2.1.2]] · Developer Workflow
 - [[Changes/Claude Code/2026-01-09-added-agent-type-to-sessionstart-hook-input-populated-if-agent-is-specified|Added agent_type to SessionStart hook input, populated if --agent is specified]] · Agent Mode
+- [[Changes/Claude Code/2026-01-09-4-other-changes-in-v2-1-2|4 other changes in v2.1.2]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

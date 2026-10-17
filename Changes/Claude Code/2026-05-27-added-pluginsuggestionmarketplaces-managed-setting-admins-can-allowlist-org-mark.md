@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 149515cfb20d3559b0525226bd5f875fee12f60fd59214cd71605ab8bffc7d93
+machine_hash: 1cf2f7ce2114718a4ae3fcc2bf85a8271d75c6693ee54b82928f54dcc70857aa
 product: claude-code
 product_name: Claude Code
 record:
@@ -93,6 +93,7 @@ type: change
 - [[Changes/Claude Code/2026-05-27-added-reload-skills-command-to-re-scan-skill-directories-without-restarting-the|Added /reload-skills command to re-scan skill directories without restarting the session]] · Developer Workflow
 - [[Changes/Claude Code/2026-05-27-2-safety-and-privacy-changes-in-v2-1-152|2 Safety and Privacy changes in v2.1.152]] · Safety and Privacy
 - [[Changes/Claude Code/2026-05-27-the-usage-breakdown-now-includes-large-session-files-files-are-scanned-with-a-st|The /usage breakdown now includes large session files]] · Reliability and Performance
+- [[Changes/Claude Code/2026-05-27-2-other-changes-in-v2-1-152|2 other changes in v2.1.152]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

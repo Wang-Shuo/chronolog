@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d4cbc7f7fd73e8c0e24eb83c77906a4ff6862f1811e3885fb558a484ed7b92ae
+machine_hash: 81d8b2ea75e2b887cf021113322fe5cd5ab8a0d282c9a7301ceb8a50e2926907
 product: claude-code
 product_name: Claude Code
 record:
@@ -76,6 +76,7 @@ type: change
 - [[Changes/Claude Code/2026-01-27-3-developer-workflow-changes-in-v2-1-20|3 Developer Workflow changes in v2.1.20]] · Developer Workflow
 - [[Changes/Claude Code/2026-01-27-2-safety-and-privacy-changes-in-v2-1-20|2 Safety and Privacy changes in v2.1.20]] · Safety and Privacy
 - [[Changes/Claude Code/2026-01-27-2-agent-mode-changes-in-v2-1-20|2 Agent Mode changes in v2.1.20]] · Agent Mode
+- [[Changes/Claude Code/2026-01-27-6-other-changes-in-v2-1-20|6 other changes in v2.1.20]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

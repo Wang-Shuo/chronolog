@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5318556a62816709b815a5aa36826df652986b47775ea2f65ce877d49f3a3393
+machine_hash: 7d1a10a17f5845ac3c70bd6da2d52385508bd8aae5972c8623ff39256fa71718
 product: claude-code
 product_name: Claude Code
 record:
@@ -80,6 +80,7 @@ type: change
 - [[Changes/Claude Code/2026-04-09-added-interactive-google-vertex-ai-setup-wizard-accessible-from-the-login-screen|Added interactive Google Vertex AI setup wizard accessible from the login screen…]] · Account and Access
 - [[Changes/Claude Code/2026-04-09-3-agent-mode-changes-in-v2-1-98|3 Agent Mode changes in v2.1.98]] · Agent Mode
 - [[Changes/Claude Code/2026-04-09-2-apps-and-integrations-changes-in-v2-1-98|2 Apps and Integrations changes in v2.1.98]] · Apps and Integrations
+- [[Changes/Claude Code/2026-04-09-3-other-changes-in-v2-1-98|3 other changes in v2.1.98]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

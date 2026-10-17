@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: e6b939410eca1a0f268a884f1da272047cf236ab0fa04d99a6dcbf409eb6c686
+machine_hash: d9817f90dc52301e37afc0d499dea551c8836aeba5ac2e4dd44156f5800ce537
 product: cursor
 product_name: Cursor
 record:
@@ -97,6 +97,7 @@ type: change
 - [[Changes/Cursor/2025-09-29-image-file-support-for-agent|Image file support for Agent]] · Agent Mode
 - [[Changes/Cursor/2025-09-29-1-7-45-model-picker-ux|1.7.45: Model picker UX]] · Interface Experience
 - [[Changes/Cursor/2025-09-29-1-7-41-token-sync-improvements-for-authentication|1.7.41: Token sync improvements for authentication]] · Account and Access
+- [[Changes/Cursor/2025-09-29-15-other-changes-in-1-7|15 other changes in 1.7]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

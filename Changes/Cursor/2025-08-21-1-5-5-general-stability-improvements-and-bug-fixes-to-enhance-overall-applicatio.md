@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: db695848a5c8945e45ef55adb486503248966c1eb4649abb027c28c39ff8a7ae
+machine_hash: 66e37e0a4ea0a538226264b9514bb0ba84d5650d0254847098c0fe74a33561da
 product: cursor
 product_name: Cursor
 record:
@@ -77,6 +77,7 @@ type: change
 - [[Changes/Cursor/2025-08-21-context-usage-is-always-shown-in-the-chat-input|Context usage is always shown in the chat input]] · Context Window
 - [[Changes/Cursor/2025-08-21-2-model-support-changes-in-1-5|2 Model Support changes in 1.5]] · Model Support
 - [[Changes/Cursor/2025-08-21-get-native-os-notifications-when-an-agent-run-finishes-or-when-input-is-required|OS notifications from Agent]] · Agent Mode
+- [[Changes/Cursor/2025-08-21-2-other-changes-in-1-5|2 other changes in 1.5]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

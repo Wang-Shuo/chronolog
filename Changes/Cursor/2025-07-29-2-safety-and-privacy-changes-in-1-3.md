@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f3b59d7f51eaab3fcc8dab4d07898df58954fd58ae8dcf84ac0e5ee3b2287dbb
+machine_hash: e462c9297ab9ed3404bb9e7b92a62b6ce26ca2ffbeebc21b5a31897cfaf6762f
 product: cursor
 product_name: Cursor
 record:
@@ -84,6 +84,7 @@ Source: https://cursor.com/changelog/1-3
 - [[Changes/Cursor/2025-07-29-2-reliability-and-performance-changes-in-1-3|2 Reliability and Performance changes in 1.3]] · Reliability and Performance
 - [[Changes/Cursor/2025-07-29-2-developer-workflow-changes-in-1-3|2 Developer Workflow changes in 1.3]] · Developer Workflow
 - [[Changes/Cursor/2025-07-29-allow-team-admins-to-configure-an-extension-allowlist|Allow team admins to configure an extension allowlist]] · Collaboration
+- [[Changes/Cursor/2025-07-29-3-other-changes-in-1-3|3 other changes in 1.3]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

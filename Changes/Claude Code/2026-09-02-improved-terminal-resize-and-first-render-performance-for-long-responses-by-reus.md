@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: aa44d421d52017867c9eaf52db138429ad1d07387c78b5c3c5ac9efaff70845b
+machine_hash: 455cc7db2991b28611966dc2a323a5b74ab6d9cf7311a523c3aadb85ac371237
 product: claude-code
 product_name: Claude Code
 record:
@@ -85,6 +85,7 @@ type: change
 - [[Changes/Claude Code/2026-09-02-5-apps-and-integrations-changes-in-v2-1-259|5 Apps and Integrations changes in v2.1.259]] · Apps and Integrations
 - [[Changes/Claude Code/2026-09-02-4-safety-and-privacy-changes-in-v2-1-259|4 Safety and Privacy changes in v2.1.259]] · Safety and Privacy
 - [[Changes/Claude Code/2026-09-02-2-agent-mode-changes-in-v2-1-259|2 Agent Mode changes in v2.1.259]] · Agent Mode
+- [[Changes/Claude Code/2026-09-02-added-recognition-of-glab-mr-create-merge-close-reopen-note-update-so-gitlab-mer|Added recognition of glab mr create/merge/close/reopen/note/update so GitLab merge…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

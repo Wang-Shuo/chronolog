@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 44d968bc7a91a4d901b7a928cc8f4d66afe72d27c88fe3eaf26b845fdabfee4b
+machine_hash: 0d57bc11de77dd81e7127c8f357693df70eb8458a949229ce3848964a0c90ba5
 product: claude-code
 product_name: Claude Code
 record:
@@ -81,6 +81,7 @@ type: change
 - [[Changes/Claude Code/2026-09-30-improved-the-external-editor-ctrl-g-editors-that-take-a-line-number-now-open-on|Improved the external editor (Ctrl+G)]] · Editor Experience
 - [[Changes/Claude Code/2026-09-30-improved-the-model-fallback-notice-and-the-autocompact-thrashing-error-to-say-wh|Improved the model fallback notice and the autocompact-thrashing error to say…]] · Context Window
 - [[Changes/Claude Code/2026-09-30-4-safety-and-privacy-changes-in-v2-1-286|4 Safety and Privacy changes in v2.1.286]] · Safety and Privacy
+- [[Changes/Claude Code/2026-09-30-8-other-changes-in-v2-1-286|8 other changes in v2.1.286]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

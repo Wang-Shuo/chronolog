@@ -15,7 +15,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 97f5fa83fe25ff96a6f8e36900c1e4d377219c79c47a4b85415064fcc905bab1
+machine_hash: 62b568b2462a8750a7b6ec17a2842c215fc95bd2342d75f5f3818d206a3f27e1
 product: cursor
 product_name: Cursor
 record:
@@ -72,6 +72,7 @@ type: change
 - [[Changes/Cursor/2023-05-17-a-better-cursor-tutor-onboarding|A better Cursor Tutor onboarding!]] · Interface Experience
 - [[Changes/Cursor/2023-05-17-diff-generate-improvements|Diff/Generate improvements]] · Editor Experience
 - [[Changes/Cursor/2023-05-17-in-terminal-debugging-f140b2|In-terminal Debugging]] · Developer Workflow
+- [[Changes/Cursor/2023-05-17-2-other-changes-in-0-2-16|2 other changes in 0.2.16]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 901779ac1ad152c3e75dd4569bcc8d4086c8099ad15a61b31c6c7cb54d14c571
+machine_hash: 5958f6c49d783c55c079208f905b19aa056e37de0af8cc8132f0db3aa8de9318
 product: claude-code
 product_name: Claude Code
 record:
@@ -76,6 +76,7 @@ type: change
 - [[Changes/Claude Code/2026-03-25-3-reliability-and-performance-changes-in-v2-1-83|3 Reliability and Performance changes in v2.1.83]] · Reliability and Performance
 - [[Changes/Claude Code/2026-03-25-2-safety-and-privacy-changes-in-v2-1-83|2 Safety and Privacy changes in v2.1.83]] · Safety and Privacy
 - [[Changes/Claude Code/2026-03-25-6-apps-and-integrations-changes-in-v2-1-83|6 Apps and Integrations changes in v2.1.83]] · Apps and Integrations
+- [[Changes/Claude Code/2026-03-25-9-other-changes-in-v2-1-83|9 other changes in v2.1.83]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

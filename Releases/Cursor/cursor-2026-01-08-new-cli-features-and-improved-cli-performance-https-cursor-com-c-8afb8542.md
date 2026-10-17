@@ -1,9 +1,9 @@
 ---
-changes_count: 12
+changes_count: 13
 date: '2026-01-08'
 description: 'Cursor release New CLI Features and Improved CLI Performance on 2026-01-08:
-  12 tracked changes across Apps and Integrations, Editor Experience, Agent Mode…'
-machine_hash: 260df2ebd14d32b82720f9885c7b121f4f2637c6f8805a839b7b482238aedd3a
+  13 tracked changes across Apps and Integrations, Editor Experience, Agent Mode…'
+machine_hash: 52e26aad1a466db3b2d904f95b74b0da6616ba989f83b3dae73b03287a14a056
 product: cursor
 product_name: Cursor
 record:
@@ -39,7 +39,7 @@ version: New CLI Features and Improved CLI Performance
 <!-- chronolog:begin region="summary" -->
 This release introduces new CLI controls for models, MCP management, rules and commands, alongside major hooks performance improvements and bug fixes.
 
-Tracked 12 cards from 24 candidate lines; 2 lines pending review.
+Tracked 13 cards from 24 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
@@ -56,4 +56,5 @@ Tracked 12 cards from 24 candidate lines; 2 lines pending review.
 - [[Changes/Cursor/2026-01-08-this-release-introduces-new-cli-controls-for-models-mcp-management-rules-and-com|Cursor introduces new CLI controls for models, MCP management, rules and commands…]] · Apps and Integrations · Launch
 - [[Changes/Cursor/2026-01-08-afterfileedit-hook-now-correctly-provides-old-string-with-the-file-s-previous-co|afterFileEdit hook now correctly provides old_string with the file's previous…]] · Editor Experience
 - [[Changes/Cursor/2026-01-08-mcp-server-names-with-spaces-are-now-supported-in-all-mcp-commands|MCP server names with spaces are now supported in all /mcp commands]] · Apps and Integrations
+- [[Changes/Cursor/2026-01-08-2-other-changes-in-new-cli-features-and-improved-cli|2 other changes in New CLI Features and Improved CLI…]] · Other changes · Digest
 <!-- chronolog:end -->

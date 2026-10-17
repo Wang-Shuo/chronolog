@@ -16,8 +16,8 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
-kind: launch
-machine_hash: b4870c41f9be997c50546ac4b51cfbf6c82805452d4920ac08ae84e8976b35ea
+kind: change
+machine_hash: d61d294dd3540dab4508f1787483cf85d8e182d1b03442bdb3ed418ce693fa60
 product: cursor
 product_name: Cursor
 record:
@@ -43,7 +43,7 @@ record:
     source_release: https://cursor.com/changelog/08-13-26
   extractor_version: fallback-v5
   impact: paradigm-shift
-  kind: launch
+  kind: change
   product: cursor
   product_name: Cursor
   slug: faster-starts
@@ -69,7 +69,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Faster starts
 
-**Cursor** · 2026-08-13 · [[Themes/reliability-performance|Reliability and Performance]] · Launch · [Official source](https://cursor.com/changelog/08-13-26) · from [[Releases/Cursor/cursor-2026-08-13-cloud-agents-start-3x-faster-with-builds-https-cursor-com-change-f8f503a3|Cloud Agents Start 3x Faster with Builds]]
+**Cursor** · 2026-08-13 · [[Themes/reliability-performance|Reliability and Performance]] · [Official source](https://cursor.com/changelog/08-13-26) · from [[Releases/Cursor/cursor-2026-08-13-cloud-agents-start-3x-faster-with-builds-https-cursor-com-change-f8f503a3|Cloud Agents Start 3x Faster with Builds]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->

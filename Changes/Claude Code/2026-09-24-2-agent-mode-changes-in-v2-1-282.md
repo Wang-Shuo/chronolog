@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d8af9cf1be926d03b40c8acab243cb29ca48f4d1ebce517d77c413736d6ac380
+machine_hash: 4d375beb9b46d8d7e5f42cab8bab6693172b081fae1b93876aa074272c33f820
 product: claude-code
 product_name: Claude Code
 record:
@@ -85,6 +85,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.282
 - [[Changes/Claude Code/2026-09-24-changed-windows-wsl-managed-settings-so-an-admin-policy-that-is-present-but-inva|Changed Windows/WSL managed settings so an admin policy that is present but invalid…]] · Developer Workflow
 - [[Changes/Claude Code/2026-09-24-8-apps-and-integrations-changes-in-v2-1-282|8 Apps and Integrations changes in v2.1.282]] · Apps and Integrations
 - [[Changes/Claude Code/2026-09-24-4-safety-and-privacy-changes-in-v2-1-282|4 Safety and Privacy changes in v2.1.282]] · Safety and Privacy
+- [[Changes/Claude Code/2026-09-24-6-other-changes-in-v2-1-282|6 other changes in v2.1.282]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

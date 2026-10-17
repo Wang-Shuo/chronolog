@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6f448f95c83a674344ce4e1e5f23bf5028068535302101745e6b2e50745a25b3
+machine_hash: c86c2916658dc78a60bf5a5206786c53129cd50926fc5673fb80902ceab81b3b
 product: claude-code
 product_name: Claude Code
 record:
@@ -94,6 +94,8 @@ type: change
 - [[Changes/Claude Code/2026-09-25-2-reliability-and-performance-changes-in-v2-1-283|2 Reliability and Performance changes in v2.1.283]] · Reliability and Performance
 - [[Changes/Claude Code/2026-09-25-2-interface-experience-changes-in-v2-1-283|2 Interface Experience changes in v2.1.283]] · Interface Experience
 - [[Changes/Claude Code/2026-09-25-3-model-support-changes-in-v2-1-283|3 Model Support changes in v2.1.283]] · Model Support
+- [[Changes/Claude Code/2026-09-25-9-other-changes-in-v2-1-283|9 other changes in v2.1.283]] · Other changes
+- [[Changes/Claude Code/2026-09-25-added-doctor-prompt-audit-also-checkup-prompt-audit-to-audit-your-claude-md-file|Added /doctor prompt-audit (also /checkup prompt-audit) to audit your CLAUDE.md…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

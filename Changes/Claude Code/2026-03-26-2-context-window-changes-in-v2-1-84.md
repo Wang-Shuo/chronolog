@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1a5177d57a1a84390195016e791d8726f177cc97237ec45fba6fb2cd542af938
+machine_hash: 632d7d257b2efac2e38e1debb70c7d27bdbca0766003ef953151da5f1c2a0e2d
 product: claude-code
 product_name: Claude Code
 record:
@@ -84,6 +84,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.84
 - [[Changes/Claude Code/2026-03-26-added-powershell-tool-for-windows-as-an-opt-in-preview-learn-more-at-https-code|Added PowerShell tool for Windows as an opt-in preview]] · Mobile and Desktop
 - [[Changes/Claude Code/2026-03-26-2-agent-mode-changes-in-v2-1-84|2 Agent Mode changes in v2.1.84]] · Agent Mode
 - [[Changes/Claude Code/2026-03-26-5-developer-workflow-changes-in-v2-1-84|5 Developer Workflow changes in v2.1.84]] · Developer Workflow
+- [[Changes/Claude Code/2026-03-26-6-other-changes-in-v2-1-84|6 other changes in v2.1.84]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 55c3f91b09d019e3b236fab1aafdf7b4ebfdcfe7a20b8457c1395dc5233ae44f
+machine_hash: 1977025b2c0dfe9053116d833ceabeb1d49a454b586f82da2a07e5bf3d638251
 product: cursor
 product_name: Cursor
 record:
@@ -86,6 +86,7 @@ type: change
 - [[Changes/Cursor/2025-09-29-image-file-support-for-agent|Image file support for Agent]] · Agent Mode
 - [[Changes/Cursor/2025-09-29-1-7-45-model-picker-ux|1.7.45: Model picker UX]] · Interface Experience
 - [[Changes/Cursor/2025-09-29-1-7-41-token-sync-improvements-for-authentication|1.7.41: Token sync improvements for authentication]] · Account and Access
+- [[Changes/Cursor/2025-09-29-15-other-changes-in-1-7|15 other changes in 1.7]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 26ffc33deb65a5fb61a91748f1355dece41cc6ac2390940717a25e84e8626e8c
+machine_hash: eddba7123ca35dc366711dd333d1f654fc03cc92a42700306247b5ac2a098fa7
 product: cursor
 product_name: Cursor
 record:
@@ -76,6 +76,7 @@ type: change
 - [[Changes/Cursor/2025-11-21-4-editor-experience-changes-in-2-1|4 Editor Experience changes in 2.1]] · Editor Experience
 - [[Changes/Cursor/2025-11-21-2-agent-mode-changes-in-2-1|2 Agent Mode changes in 2.1]] · Agent Mode
 - [[Changes/Cursor/2025-11-21-rules-in-home-folder-cursor-rules-will-be-included-in-context|Rules in home folder (~/.cursor/rules) will be included in context]] · Context Window
+- [[Changes/Cursor/2025-11-21-4-other-changes-in-2-1|4 other changes in 2.1]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

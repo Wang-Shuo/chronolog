@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d51639d586ed2d8ce1d6621a993a8a4bca830ed884f03d9c3003efc7d5ec8941
+machine_hash: 929d4b63fc55ee5fc208ba4928dff7352f7f7f4fdd74aba9b5aa4f885b48cbc7
 product: claude-code
 product_name: Claude Code
 record:
@@ -92,6 +92,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.261
 - [[Changes/Claude Code/2026-09-04-added-skill-doctor-to-show-which-loaded-skills-go-unused-and-what-they-cost-in-c|Added /skill-doctor to show which loaded skills go unused and what they cost…]] · Context Window
 - [[Changes/Claude Code/2026-09-04-4-safety-and-privacy-changes-in-v2-1-261|4 Safety and Privacy changes in v2.1.261]] · Safety and Privacy
 - [[Changes/Claude Code/2026-09-04-improved-the-model-picker-and-the-vs-code-model-pill-to-show-a-model-s-name-inst|Improved the /model picker and the VS Code model pill to show a model's name…]] · Model Support
+- [[Changes/Claude Code/2026-09-04-3-other-changes-in-v2-1-261|3 other changes in v2.1.261]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

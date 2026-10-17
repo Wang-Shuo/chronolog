@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 63f87028592e3f3ed42b41d6aedcd0e5d971e7d5c186edffc6bdebf76729a489
+machine_hash: 0927a0618e3741cca7e60d56f22a9b22d33e2f5b7fc0ed2e455590cb09b40b68
 product: claude-code
 product_name: Claude Code
 record:
@@ -82,6 +82,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.235
 - [[Changes/Claude Code/2026-08-18-improved-the-context-limit-error-to-say-when-auto-compact-is-off-and-point-to-co|Improved the context-limit error to say when auto-compact is off and point…]] · Context Window
 - [[Changes/Claude Code/2026-08-18-improved-memory-and-cpu-usage-while-cloud-sessions-such-as-ultrareview-or-autofi|Improved memory and CPU usage while cloud sessions such as /ultrareview…]] · Reliability and Performance
 - [[Changes/Claude Code/2026-08-18-remote-control-claude-rc-now-applies-the-same-enterprise-gateway-availability-ch|Remote Control: claude rc now applies the same enterprise-gateway availability…]] · Enterprise and Administration
+- [[Changes/Claude Code/2026-08-18-4-other-changes-in-v2-1-235|4 other changes in v2.1.235]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

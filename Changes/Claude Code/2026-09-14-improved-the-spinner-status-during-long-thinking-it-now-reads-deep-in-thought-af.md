@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1bde0fe4c916a49ffef584e0a9584016bd8c738c1fd6aceaa26e4fe76641e468
+machine_hash: c64b0c7945eafcac1e9f56b50494bff643652774b613a5677d51b01c31e9f689
 product: claude-code
 product_name: Claude Code
 record:
@@ -86,6 +86,7 @@ type: change
 - [[Changes/Claude Code/2026-09-14-2-mobile-and-desktop-changes-in-v2-1-271|2 Mobile and Desktop changes in v2.1.271]] · Mobile and Desktop
 - [[Changes/Claude Code/2026-09-14-3-interface-experience-changes-in-v2-1-271|3 Interface Experience changes in v2.1.271]] · Interface Experience
 - [[Changes/Claude Code/2026-09-14-improved-startup-time-slightly-by-skipping-a-redundant-validation-of-built-in-mo|Improved startup time slightly by skipping a redundant validation of built-in model…]] · Model Support
+- [[Changes/Claude Code/2026-09-14-9-other-changes-in-v2-1-271|9 other changes in v2.1.271]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

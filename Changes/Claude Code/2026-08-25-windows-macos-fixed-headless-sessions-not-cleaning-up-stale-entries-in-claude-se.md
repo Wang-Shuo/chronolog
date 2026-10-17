@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9a0e1bab51a21c0b4d525a8823c2a4cc7914d4f3c2b742a5c3aea8cafce913de
+machine_hash: 1219da51a9bd90b26332f41928f323897e3ceda494e14873ca156f963385042d
 product: claude-code
 product_name: Claude Code
 record:
@@ -79,6 +79,7 @@ type: change
 - [[Changes/Claude Code/2026-08-25-2-developer-workflow-changes-in-v2-1-246|2 Developer Workflow changes in v2.1.246]] · Developer Workflow
 - [[Changes/Claude Code/2026-08-25-3-apps-and-integrations-changes-in-v2-1-246|3 Apps and Integrations changes in v2.1.246]] · Apps and Integrations
 - [[Changes/Claude Code/2026-08-25-improved-attribution-of-usage-telemetry-to-your-organization-for-workload-identi|Improved attribution of usage telemetry to your organization for workload identity…]] · Account and Access
+- [[Changes/Claude Code/2026-08-25-goal-changed-idle-sessions-to-start-at-most-three-check-ins-on-long-running-back|/goal: Changed idle sessions to start at most three check-ins on long-running…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

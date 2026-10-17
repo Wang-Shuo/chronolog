@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 29bd460b1e603b4dc5abf808c955c0add92253d615c478179c54ac64c2a3ac4f
+machine_hash: 0f6b257661e2155346076865c39d17bd728f7202882c7c5bf587e97156770b71
 product: claude-code
 product_name: Claude Code
 record:
@@ -82,6 +82,8 @@ type: change
 - [[Changes/Claude Code/2026-08-13-9-safety-and-privacy-changes-in-v2-1-232|9 Safety and Privacy changes in v2.1.232]] · Safety and Privacy
 - [[Changes/Claude Code/2026-08-13-remote-control-the-terminal-now-says-whether-a-session-was-taken-over-by-another|Remote Control: the terminal now says whether a session was taken over by another…]] · Developer Workflow
 - [[Changes/Claude Code/2026-08-13-pasted-and-clipboard-images-are-read-without-blocking-the-event-loop|Pasted and clipboard images are read without blocking the event loop]] · Automation and Scheduling
+- [[Changes/Claude Code/2026-08-13-added-config-rows-for-dialog-expiry-and-messages-from-your-other-sessions-cross|Added /config rows…]] · Other changes
+- [[Changes/Claude Code/2026-08-13-5-other-changes-in-v2-1-232|5 other changes in v2.1.232]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

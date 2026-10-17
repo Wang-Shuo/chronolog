@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8b760c94a3262d9404fcddac8474c36c6db260988172ae50d418f0e2f16fd7a8
+machine_hash: 4d8db785f9fc41a7a4570b16808e2788d1a422b29193ee430fb98dfc79e4cb56
 product: claude-code
 product_name: Claude Code
 record:
@@ -84,6 +84,8 @@ type: change
 - [[Changes/Claude Code/2026-08-21-remote-sessions-images-uploaded-from-mobile-now-include-their-saved-file-path-so|Remote sessions: images uploaded from mobile now include their saved file path…]] · Mobile and Desktop
 - [[Changes/Claude Code/2026-08-21-fixed-fullscreen-mode-answering-a-permission-prompt-or-pressing-a-button-when-yo|Fixed fullscreen mode answering a permission prompt or pressing a button when you…]] · Safety and Privacy
 - [[Changes/Claude Code/2026-08-21-windows-cross-session-messaging-is-now-available-so-claude-code-sessions-across|Windows: cross-session messaging is now available, so Claude Code sessions across…]] · Mobile and Desktop
+- [[Changes/Claude Code/2026-08-21-added-claude-api-upgrade-to-migrate-python-projects-from-anthropic-0-x-to-1-x-an|Added /claude-api upgrade to migrate Python projects from anthropic 0.x to 1.x…]] · Other changes
+- [[Changes/Claude Code/2026-08-21-5-other-changes-in-v2-1-239|5 other changes in v2.1.239]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

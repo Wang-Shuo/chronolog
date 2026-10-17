@@ -1,9 +1,9 @@
 ---
-changes_count: 6
+changes_count: 7
 date: '2023-05-17'
 description: 'Cursor release Terminal Debugger, and our biggest bug bash yet on 2023-05-17:
-  6 tracked changes across Developer Workflow, Apps and Integrations, Context…'
-machine_hash: b9f101ce538541e23761c5c322846ed5d91d13899bf1d7b4c59bccb0a609827c
+  7 tracked changes across Developer Workflow, Apps and Integrations, Context…'
+machine_hash: c13a73332f72b5d2bf6f767aeb595dbd7149bb756403518fb6944cd796172901
 product: cursor
 product_name: Cursor
 record:
@@ -38,15 +38,16 @@ version: 0.2.16
 <!-- chronolog:begin region="summary" -->
 #In-terminal Debugging
 
-Tracked 6 cards from 13 candidate lines; 2 lines pending review.
+Tracked 7 cards from 13 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2023-05-17-better-jupyter-support|Better Jupyter Support]] · Context Window · Launch
+- [[Changes/Cursor/2023-05-17-better-jupyter-support|Better Jupyter Support]] · Context Window
 - [[Changes/Cursor/2023-05-17-you-can-pin-custom-extensions-to-your-activity-bar-in-the-top-left|Activity Bar pinning]] · Apps and Integrations · Launch
 - [[Changes/Cursor/2023-05-17-a-better-cursor-tutor-onboarding|A better Cursor Tutor onboarding!]] · Interface Experience
 - [[Changes/Cursor/2023-05-17-diff-generate-improvements|Diff/Generate improvements]] · Editor Experience · Launch
 - [[Changes/Cursor/2023-05-17-remote-ssh-is-easier-to-use|Remote SSH is easier to use!]] · Developer Workflow
 - [[Changes/Cursor/2023-05-17-in-terminal-debugging-f140b2|In-terminal Debugging]] · Developer Workflow · Launch
+- [[Changes/Cursor/2023-05-17-2-other-changes-in-0-2-16|2 other changes in 0.2.16]] · Other changes · Digest
 <!-- chronolog:end -->

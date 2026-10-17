@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e8db1ce4043195a3f8b12b28a36bea9034f0d71da8e41323f641f3e2e2fad876
+machine_hash: 4706b03f2b0eff3b925e5db861752b2efb0456c0201c3089a568bfabc4edf749
 product: cursor
 product_name: Cursor
 record:
@@ -79,6 +79,7 @@ type: change
 - [[Changes/Cursor/2025-08-06-sending-messages-while-cursor-is-working-now-does-a-better-job-of-steering-the-a|More Agent steerability]] · Agent Mode
 - [[Changes/Cursor/2025-08-06-1-4-5-improved-performance|1.4.5: Improved performance]] · Reliability and Performance
 - [[Changes/Cursor/2025-08-06-admin-api-for-blocklists-block-specific-files-or-directories-from-being-indexed|Admin API for blocklists]] · Context Window
+- [[Changes/Cursor/2025-08-06-member-exports-export-all-workspace-members-to-csv-from-the-dashboard|Member exports: Export all workspace members to CSV from the dashboard]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

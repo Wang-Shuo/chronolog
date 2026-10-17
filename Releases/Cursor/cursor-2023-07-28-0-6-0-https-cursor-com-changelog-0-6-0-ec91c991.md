@@ -3,7 +3,7 @@ changes_count: 3
 date: '2023-07-28'
 description: 'Cursor release A copilot experience powered by gpt-4 on 2023-07-28:
   3 tracked changes across Developer Workflow, Model Support'
-machine_hash: bcea71d04c17e77b7bcd75489656e91faee458dde29483600bdbed0a1f8f390e
+machine_hash: 442b929ec6acda4853bb144497810a97b465051c7bd4b727f54b79d73b35f4cb
 product: cursor
 product_name: Cursor
 record:
@@ -43,7 +43,7 @@ Tracked 3 cards from 8 candidate lines.
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2023-07-28-better-support-for-remote-ssh|Better support for remote-ssh]] · Developer Workflow · Launch
+- [[Changes/Cursor/2023-07-28-better-support-for-remote-ssh|Better support for remote-ssh]] · Developer Workflow
 - [[Changes/Cursor/2023-07-28-long-ai-completions-8c21b2|Long AI completions]] · Model Support · Launch
 - [[Changes/Cursor/2023-07-28-ai-linter|AI linter]] · Developer Workflow · Launch
 <!-- chronolog:end -->

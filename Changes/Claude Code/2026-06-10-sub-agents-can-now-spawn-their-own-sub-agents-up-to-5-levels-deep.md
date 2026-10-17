@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 08f5f88159f446ed8b860677cb3f4b05eafc3ac7e4a7b5d2137f69586fe33a95
+machine_hash: 9da9246bd8925abb9973f95f4f204216e880545030fe6c3c9ab9b00d4baf5745
 product: claude-code
 product_name: Claude Code
 record:
@@ -76,6 +76,7 @@ type: change
 - [[Changes/Claude Code/2026-06-10-disable-mouse-tracking-on-windows-consoles-that-don-t-fully-support-it|Disable mouse tracking on Windows consoles that don't fully support it]] · Mobile and Desktop
 - [[Changes/Claude Code/2026-06-10-stopped-promoting-loop-in-remote-sessions-where-pending-loops-don-t-keep-the-con|Stopped promoting /loop in remote sessions, where pending loops don't keep…]] · Automation and Scheduling
 - [[Changes/Claude Code/2026-06-10-2-model-support-changes-in-v2-1-172|2 Model Support changes in v2.1.172]] · Model Support
+- [[Changes/Claude Code/2026-06-10-improved-claude-in-chrome-tool-loading-browser-tools-now-load-in-a-single-batche|Improved Claude in Chrome tool loading]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

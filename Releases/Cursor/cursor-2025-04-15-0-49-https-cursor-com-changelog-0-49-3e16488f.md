@@ -3,7 +3,7 @@ changes_count: 7
 date: '2025-04-15'
 description: 'Cursor release Rules generation, improved agent terminal and MCP images
   on 2025-04-15: 7 tracked changes across Context Window, Agent Mode, Apps and…'
-machine_hash: 30831c3512afd45c701de321e76dd16db6d21d578e117dcff010261c0bb2d362
+machine_hash: 6ea7bbbf192605746cf0825a6e45accf3bbfa85df77bce5e5438334baf07ccdc
 product: cursor
 product_name: Cursor
 record:
@@ -45,7 +45,7 @@ Tracked 7 cards from 10 candidate lines; 1 line pending review.
 <!-- chronolog:begin region="cards" -->
 - [[Changes/Cursor/2025-04-15-automated-and-improved-rules-15afc6|Automated and improved rules]] · Context Window · Launch
 - [[Changes/Cursor/2025-04-15-reviewing-agent-generated-code-is-now-easier-with-a-built-in-diff-view-at-the-en|Making reviews easier]] · Agent Mode · Launch
-- [[Changes/Cursor/2025-04-15-improved-agent-terminal-control|Improved agent terminal control]] · Developer Workflow · Launch
+- [[Changes/Cursor/2025-04-15-improved-agent-terminal-control|Improved agent terminal control]] · Developer Workflow
 - [[Changes/Cursor/2025-04-15-new-models|New models]] · Model Support · Launch
 - [[Changes/Cursor/2025-04-15-chat-history-has-moved-into-the-command-palette-you-can-access-it-from-the-show|More accessible history]] · Interface Experience · Launch
 - [[Changes/Cursor/2025-04-15-images-in-mcp|Images in MCP]] · Apps and Integrations · Launch

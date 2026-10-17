@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 06d827cf71161510c8ce2357cdb7fbe413731c49df6015802e7c0f2bd38422c0
+machine_hash: eba66ce78206d3b9968ef74ef2cae65910341d922be6afe844e4b7419ae760e3
 product: cursor
 product_name: Cursor
 record:
@@ -79,6 +79,7 @@ type: change
 - [[Changes/Cursor/2026-04-13-3-editor-experience-changes-in-3-1|3 Editor Experience changes in 3.1]] · Editor Experience
 - [[Changes/Cursor/2026-04-13-branch-selection-in-empty-state|Branch selection in empty state]] · Agent Mode
 - [[Changes/Cursor/2026-04-13-3-agent-mode-changes-in-3-1|3 Agent Mode changes in 3.1]] · Agent Mode
+- [[Changes/Cursor/2026-04-13-4-other-changes-in-3-1|4 other changes in 3.1]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

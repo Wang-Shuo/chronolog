@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 36b58304272e09f7333bc7d5954707e0ce742cd600cebf99cd9b572d19cae325
+machine_hash: b825f3d73731ff3518dd54872f0017c6c12422cc79be2d7ca3d8fe85dc6c480c
 product: cursor
 product_name: Cursor
 record:
@@ -98,6 +98,7 @@ type: change
 - [[Changes/Cursor/2025-02-19-web-search-agent-can-now-automatically-search-the-web-for-up-to-date-information|Web search: Agent can now automatically search the web for up-to-date information…]] · Search and Browsing
 - [[Changes/Cursor/2025-02-19-2-interface-experience-changes-in-0-46-x|2 Interface Experience changes in 0.46.x]] · Interface Experience
 - [[Changes/Cursor/2025-02-19-mcp-improvements|MCP improvements]] · Apps and Integrations
+- [[Changes/Cursor/2025-02-19-2-other-changes-in-0-46-x|2 other changes in 0.46.x]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

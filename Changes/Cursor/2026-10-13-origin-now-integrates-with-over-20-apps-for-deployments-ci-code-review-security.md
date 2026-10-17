@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ce0b13eff739d54d0bbe3d35ebceea8eda10220d96d0b12c40e99f51e3afd9d0
+machine_hash: ed633d6dcc9c06271b1567e9786fe1062b39dc795102dcfbbbe7bd964bf07948
 product: cursor
 product_name: Cursor
 record:
@@ -90,6 +90,7 @@ type: change
 - [[Changes/Cursor/2026-10-13-2-apps-and-integrations-changes-in-origin-app-marketplace|2 Apps and Integrations changes in Origin App Marketplace]] · Apps and Integrations
 - [[Changes/Cursor/2026-10-13-apps-for-your-stack|Apps for your stack]] · Apps and Integrations
 - [[Changes/Cursor/2026-10-13-starting-today-the-marketplace-is-also-open-to-public-submissions-so-any-team-bu|Starting today, the marketplace is also open to public submissions, so any team…]] · Collaboration
+- [[Changes/Cursor/2026-10-13-want-to-build-an-origin-app-start-with-the-publishing-guide-and-the-origin-api-r|Want to build an Origin app?]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: eec0d48f2ecfd183aba44fada89e167f9249c3653bba1661a524152599b205f8
+machine_hash: 485dc6b4b91bb3d80cb6bf6d7eeecb1fddac4e35c16ffff8e52a07196d14258c
 product: cursor
 product_name: Cursor
 record:
@@ -93,6 +93,7 @@ type: change
 - [[Changes/Cursor/2026-02-17-3-safety-and-privacy-changes-in-2-5|3 Safety and Privacy changes in 2.5]] · Safety and Privacy
 - [[Changes/Cursor/2026-02-17-6-agent-mode-changes-in-2-5|6 Agent Mode changes in 2.5]] · Agent Mode
 - [[Changes/Cursor/2026-02-17-2-reliability-and-performance-changes-in-2-5|2 Reliability and Performance changes in 2.5]] · Reliability and Performance
+- [[Changes/Cursor/2026-02-17-the-global-ignore-list-is-now-empty-by-default-to-fix-sandboxing-issues-existing|The global ignore list is now empty by default to fix sandboxing issues]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

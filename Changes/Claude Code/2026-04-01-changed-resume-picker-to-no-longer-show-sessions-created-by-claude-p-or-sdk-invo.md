@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b4b5fb0d8b786788435f9a1e85da43b9f999429f162e4e9fec62563a44e24e44
+machine_hash: ef04ec3c5d5cacc5ddefa09f8f2a617fbba933153c25407d9b0171b735451506
 product: claude-code
 product_name: Claude Code
 record:
@@ -76,6 +76,7 @@ type: change
 - [[Changes/Claude Code/2026-04-01-added-powerup-interactive-lessons-teaching-claude-code-features-with-animated-de|Added /powerup — interactive lessons teaching Claude Code features with animated demos]] · Learning Tools
 - [[Changes/Claude Code/2026-04-01-4-safety-and-privacy-changes-in-v2-1-90|4 Safety and Privacy changes in v2.1.90]] · Safety and Privacy
 - [[Changes/Claude Code/2026-04-01-2-apps-and-integrations-changes-in-v2-1-90|2 Apps and Integrations changes in v2.1.90]] · Apps and Integrations
+- [[Changes/Claude Code/2026-04-01-improved-resume-all-projects-view-to-load-project-sessions-in-parallel-improving|Improved /resume all-projects view to load project sessions in parallel, improving…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

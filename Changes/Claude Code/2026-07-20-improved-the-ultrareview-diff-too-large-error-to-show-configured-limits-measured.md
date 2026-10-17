@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3a24660b0f529d9bdad033b9e998c6df9230a02b7802db044713abb7aaa9116e
+machine_hash: 2aa1c7e3efa0c1357ab5dc5bfd0b053a93077120ef2660431a04744889b139ef
 product: claude-code
 product_name: Claude Code
 record:
@@ -78,6 +78,7 @@ type: change
 - [[Changes/Claude Code/2026-07-20-context-now-shows-an-explicit-warning-when-the-conversation-exceeds-the-context|/context now shows an explicit warning when the conversation exceeds the context…]] · Context Window
 - [[Changes/Claude Code/2026-07-20-background-sessions-mcp-and-install-github-app-now-park-a-needs-input-request-in|Background sessions: /mcp and /install-github-app now park…]] · Apps and Integrations
 - [[Changes/Claude Code/2026-07-20-2-developer-workflow-changes-in-v2-1-216|2 Developer Workflow changes in v2.1.216]] · Developer Workflow
+- [[Changes/Claude Code/2026-07-20-4-other-changes-in-v2-1-216|4 other changes in v2.1.216]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0aa87fb5afca1d3d62a33780cd218f8324fac06a7ed88b2858aaeb3fbf842bf4
+machine_hash: d6d621e3a81f0217b915435ab7576d7fce5e7ab706cfce5a2223528e5e0d5b34
 product: claude-code
 product_name: Claude Code
 record:
@@ -87,6 +87,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.260
 - [[Changes/Claude Code/2026-09-03-4-apps-and-integrations-changes-in-v2-1-260|4 Apps and Integrations changes in v2.1.260]] · Apps and Integrations
 - [[Changes/Claude Code/2026-09-03-7-safety-and-privacy-changes-in-v2-1-260|7 Safety and Privacy changes in v2.1.260]] · Safety and Privacy
 - [[Changes/Claude Code/2026-09-03-added-reload-plugins-to-headless-sessions-so-it-appears-in-the-claude-code-deskt|Added /reload-plugins to headless sessions, so it appears in the Claude Code…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-09-03-4-other-changes-in-v2-1-260|4 other changes in v2.1.260]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

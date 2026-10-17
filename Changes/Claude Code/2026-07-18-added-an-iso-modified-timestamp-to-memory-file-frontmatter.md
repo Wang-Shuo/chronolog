@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 100a12cbe63d98c60dfc2a141e08251ddcde547fcba6241a1d27ea1c4adbb055
+machine_hash: ba91f4666cabf86c3f037c24c3364580692d9a8f6fe5985d3bfc82b7bc9d3513
 product: claude-code
 product_name: Claude Code
 record:
@@ -73,6 +73,7 @@ type: change
 - [[Changes/Claude Code/2026-07-18-added-a-periodic-progress-heartbeat-for-long-running-tool-calls-that-previously|Added a periodic progress heartbeat for long-running tool calls that previously went…]] · Reliability and Performance
 - [[Changes/Claude Code/2026-07-18-9-safety-and-privacy-changes-in-v2-1-214|9 Safety and Privacy changes in v2.1.214]] · Safety and Privacy
 - [[Changes/Claude Code/2026-07-18-changed-sessionstart-hooks-to-report-source-fork-when-a-session-begins-as-a-fork|Changed SessionStart hooks to report source "fork" when a session begins as a fork…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-07-18-5-other-changes-in-v2-1-214|5 other changes in v2.1.214]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

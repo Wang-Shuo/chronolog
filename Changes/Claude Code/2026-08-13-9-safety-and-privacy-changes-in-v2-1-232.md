@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 47612d55a58704d658991652ecbe7b3f451fbf59145c1f07e8112448a863dd92
+machine_hash: da1bbd6f63ee8125483e56b500364c345fddd3a1fcf8cf1a8f4a9b74c3b86372
 product: claude-code
 product_name: Claude Code
 record:
@@ -127,6 +127,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.232
 - [[Changes/Claude Code/2026-08-13-subagent-forking-is-now-on-by-default-a-subagent-type-fork-subagent-inherits-the|Subagent forking is now on by default]] · Agent Mode
 - [[Changes/Claude Code/2026-08-13-remote-control-the-terminal-now-says-whether-a-session-was-taken-over-by-another|Remote Control: the terminal now says whether a session was taken over by another…]] · Developer Workflow
 - [[Changes/Claude Code/2026-08-13-pasted-and-clipboard-images-are-read-without-blocking-the-event-loop|Pasted and clipboard images are read without blocking the event loop]] · Automation and Scheduling
+- [[Changes/Claude Code/2026-08-13-added-config-rows-for-dialog-expiry-and-messages-from-your-other-sessions-cross|Added /config rows…]] · Other changes
+- [[Changes/Claude Code/2026-08-13-5-other-changes-in-v2-1-232|5 other changes in v2.1.232]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ee51bd465ff8a9476845a15e278f13ff30e864a2ad05723d71ade900b1421b93
+machine_hash: 429112adbaef47ef424fd55fd2fcf1c586588cb1962671635921a57cf83f0fcb
 product: claude-code
 product_name: Claude Code
 record:
@@ -83,6 +83,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.83
 - [[Changes/Claude Code/2026-03-25-2-safety-and-privacy-changes-in-v2-1-83|2 Safety and Privacy changes in v2.1.83]] · Safety and Privacy
 - [[Changes/Claude Code/2026-03-25-6-apps-and-integrations-changes-in-v2-1-83|6 Apps and Integrations changes in v2.1.83]] · Apps and Integrations
 - [[Changes/Claude Code/2026-03-25-added-managed-settings-d-drop-in-directory-alongside-managed-settings-json-letti|Added managed-settings.d/ drop-in directory alongside managed-settings.json…]] · Collaboration
+- [[Changes/Claude Code/2026-03-25-9-other-changes-in-v2-1-83|9 other changes in v2.1.83]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

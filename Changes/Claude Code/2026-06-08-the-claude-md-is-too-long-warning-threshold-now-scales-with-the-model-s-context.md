@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 989eddb8bc95910a42111d8cf650a5c784a800b19ddd1227fbf998db8f7fb468
+machine_hash: e26a729e8c79ce3501d688a53f3b5d008f2d972a0b819f93f17ff43b1bd87d15
 product: claude-code
 product_name: Claude Code
 record:
@@ -95,6 +95,7 @@ type: change
 - [[Changes/Claude Code/2026-06-08-workflows-now-opens-immediately-even-while-a-turn-is-in-progress|/workflows now opens immediately even while a turn is in progress]] · Automation and Scheduling
 - [[Changes/Claude Code/2026-06-08-added-a-disablebundledskills-setting-and-claude-code-disable-bundled-skills-envi|Added a disableBundledSkills setting and CLAUDE_CODE_DISABLE_BUNDLED_SKILLS…]] · Model Support
 - [[Changes/Claude Code/2026-06-08-added-cd-command-to-move-a-session-to-a-new-working-directory-without-breaking-t|Added /cd command to move a session to a new working directory without breaking…]] · Context Window
+- [[Changes/Claude Code/2026-06-08-3-other-changes-in-v2-1-169|3 other changes in v2.1.169]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

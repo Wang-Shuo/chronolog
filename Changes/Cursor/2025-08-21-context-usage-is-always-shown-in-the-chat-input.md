@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9c6a8c0b8e5e977c93880a379cc493daca71ba0966c89ef760dc5729a48f9a01
+machine_hash: 006a1b14687537203c715232cb47b6e8baf52df8989b38fc894364faf45533bb
 product: cursor
 product_name: Cursor
 record:
@@ -75,6 +75,7 @@ type: change
 - [[Changes/Cursor/2025-08-21-the-terminal-now-opens-on-the-left-with-a-clear-backdrop-and-border-animation-to|Improved review flow in Agent terminal]] · Developer Workflow
 - [[Changes/Cursor/2025-08-21-2-model-support-changes-in-1-5|2 Model Support changes in 1.5]] · Model Support
 - [[Changes/Cursor/2025-08-21-get-native-os-notifications-when-an-agent-run-finishes-or-when-input-is-required|OS notifications from Agent]] · Agent Mode
+- [[Changes/Cursor/2025-08-21-2-other-changes-in-1-5|2 other changes in 1.5]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

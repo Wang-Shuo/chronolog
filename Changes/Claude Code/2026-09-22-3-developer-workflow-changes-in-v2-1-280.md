@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7343bdf375e8f6aed3a3eb451abcf4c23aef6f319ae546c4bb4b7d05f84a33cd
+machine_hash: b8cd56ef51478f6e05f6fe0f32d99d662500f5b33d48fa4d734105666f28e4b8
 product: claude-code
 product_name: Claude Code
 record:
@@ -90,6 +90,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.280
 - [[Changes/Claude Code/2026-09-22-5-interface-experience-changes-in-v2-1-280|5 Interface Experience changes in v2.1.280]] · Interface Experience
 - [[Changes/Claude Code/2026-09-22-claude-tag-improved-the-github-banner-in-claude-tag-admin-settings-to-say-why-gi|Claude Tag Improved the GitHub banner in Claude Tag admin settings to say why…]] · Account and Access
 - [[Changes/Claude Code/2026-09-22-vscode-changed-open-in-new-tab-to-open-claude-beside-the-editor-group-you-are-wo|VSCode Changed "Open in New Tab" to open Claude beside the editor group you…]] · Editor Experience
+- [[Changes/Claude Code/2026-09-22-17-other-changes-in-v2-1-280|17 other changes in v2.1.280]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

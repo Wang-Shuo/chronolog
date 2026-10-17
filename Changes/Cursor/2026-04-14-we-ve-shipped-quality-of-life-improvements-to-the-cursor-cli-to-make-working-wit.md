@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fdda4e5ed1623ddd969010f689dec59d3e5d338f2054236129016c8724e8e826
+machine_hash: 6352bb4d080c671be756c79e526f83951f69dc82a9d93ac3ca3212e969bcd68e
 product: cursor
 product_name: Cursor
 record:
@@ -85,6 +85,8 @@ type: change
 - [[Changes/Cursor/2026-04-14-use-debug-to-find-root-causes-and-fix-tricky-bugs-that-are-hard-to-reproduce-or|Debug Mode in CLI]] · Developer Workflow
 - [[Changes/Cursor/2026-04-14-configuration-menu-in-cli|Configuration menu in CLI]] · Interface Experience
 - [[Changes/Cursor/2026-04-14-3-developer-workflow-changes-in-04-14-26|3 Developer Workflow changes in 04.14.26]] · Developer Workflow
+- [[Changes/Cursor/2026-04-14-2-other-changes-in-04-14-26|2 other changes in 04.14.26]] · Other changes
+- [[Changes/Cursor/2026-04-14-you-can-now-reliably-send-the-cli-to-the-background-using-ctrl-z|Reliably send the CLI to the background using Ctrl+Z]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

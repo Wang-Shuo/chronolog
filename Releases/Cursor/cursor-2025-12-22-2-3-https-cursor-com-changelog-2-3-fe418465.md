@@ -1,9 +1,9 @@
 ---
-changes_count: 8
+changes_count: 9
 date: '2025-12-22'
 description: 'Cursor release Layout Customization and Stability Improvements on 2025-12-22:
-  8 tracked changes across Agent Mode, Reliability and Performance, Account and…'
-machine_hash: d73f46de8daf723bb0674a43985e8ac42d9356ba77fcff5fb35c3ad5ae2bca5d
+  9 tracked changes across Agent Mode, Reliability and Performance, Account and…'
+machine_hash: 78e4a83a8a372179a790db8d8fff067a35b8c20a7cf716de9ec0ea5ba2bd2afe
 product: cursor
 product_name: Cursor
 record:
@@ -39,7 +39,7 @@ version: '2.3'
 <!-- chronolog:begin region="summary" -->
 For this holiday release, we've focused entirely on fixing bugs and improving stability.
 
-Tracked 8 cards from 47 candidate lines; 6 lines pending review.
+Tracked 9 cards from 47 candidate lines; 2 lines pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
@@ -52,4 +52,5 @@ Tracked 8 cards from 47 candidate lines; 6 lines pending review.
 - [[Changes/Cursor/2025-12-22-improved-stability-around-how-the-agent-respects-auto-run-preferences-to-prevent|Improved stability around how the agent respects auto-run preferences to prevent…]] · Safety and Privacy
 - [[Changes/Cursor/2025-12-22-2-account-and-access-changes-in-2-3|2 Account and Access changes in 2.3]] · Account and Access · Digest
 - [[Changes/Cursor/2025-12-22-2-reliability-and-performance-changes-in-2-3|2 Reliability and Performance changes in 2.3]] · Reliability and Performance · Digest
+- [[Changes/Cursor/2025-12-22-4-other-changes-in-2-3|4 other changes in 2.3]] · Other changes · Digest
 <!-- chronolog:end -->

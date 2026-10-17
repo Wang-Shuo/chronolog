@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 27779ab8bc7eb104e143c9a5a08740ba2767d27a0dcf270dbfb0d54cb893911f
+machine_hash: b31a6d2ccc8515adc619c33e401d0ada14ad4dcf9ec2aaa8ab3babd9310ff91c
 product: claude-code
 product_name: Claude Code
 record:
@@ -77,6 +77,7 @@ type: change
 - [[Changes/Claude Code/2026-01-09-2-interface-experience-changes-in-v2-1-3|2 Interface Experience changes in v2.1.3]] · Interface Experience
 - [[Changes/Claude Code/2026-01-09-improved-slash-command-suggestion-readability-by-truncating-long-descriptions-to|Improved slash command suggestion readability by truncating long descriptions to 2 lines]] · Developer Workflow
 - [[Changes/Claude Code/2026-01-09-2-safety-and-privacy-changes-in-v2-1-3|2 Safety and Privacy changes in v2.1.3]] · Safety and Privacy
+- [[Changes/Claude Code/2026-01-09-changed-tool-hook-execution-timeout-from-60-seconds-to-10-minutes|Changed tool hook execution timeout from 60 seconds to 10 minutes]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

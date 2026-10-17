@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 48d1f35da314a72698be01bacef60a5821cc37cdca6d887bd89cf6a63017d861
+machine_hash: c99d6e49d1a6c3e9d41478223561643bc1c882d29a1ff4641acf307eecf2a6b0
 product: claude-code
 product_name: Claude Code
 record:
@@ -77,6 +77,7 @@ type: change
 - [[Changes/Claude Code/2026-06-06-added-glob-pattern-support-in-deny-rule-tool-name-position-denies-all-tools-allo|Added glob pattern support in deny rule tool-name position ("" denies all tools)]] · Apps and Integrations
 - [[Changes/Claude Code/2026-06-06-3-model-support-changes-in-v2-1-166|3 Model Support changes in v2.1.166]] · Model Support
 - [[Changes/Claude Code/2026-06-06-claude-agents-typing-a-url-into-the-list-now-filters-to-the-session-whose-first|claude agents: typing a URL into the list now filters to the session whose first…]] · Agent Mode
+- [[Changes/Claude Code/2026-06-06-claude-update-now-announces-the-target-version-before-downloading-instead-of-goi|claude update now announces the target version before downloading instead of going…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

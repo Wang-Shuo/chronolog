@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 59ba959eb8cce9c60fa14f253b2da29afbca96e0e35bc07b477a9ac5cec5bfa4
+machine_hash: 4b28dbbbfc0486ac9ed6a3dd588eb7b124203afc55eafff47eb480be95071234
 product: claude-code
 product_name: Claude Code
 record:
@@ -88,6 +88,7 @@ type: change
 - [[Changes/Claude Code/2026-09-09-2-safety-and-privacy-changes-in-v2-1-267|2 Safety and Privacy changes in v2.1.267]] · Safety and Privacy
 - [[Changes/Claude Code/2026-09-09-improved-prompt-input-responsiveness-keystrokes-no-longer-occasionally-wait-a-fr|Improved prompt input responsiveness]] · Reliability and Performance
 - [[Changes/Claude Code/2026-09-09-added-maxeffortlevel-setting-top-level-or-per-model-under-modelsettings-caps-the|Added maxEffortLevel setting (top-level or per model under modelSettings)]] · Model Support
+- [[Changes/Claude Code/2026-09-09-3-other-changes-in-v2-1-267|3 other changes in v2.1.267]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

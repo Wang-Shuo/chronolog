@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9a0a77bac7a439bca3407b4955c6c4bd87934616a51b0ea1d35e5df36ea91546
+machine_hash: ae0d966537987bd0c0a046b3a769ec7b254d5d68d4e80e2d9822d077e2a3a1fa
 product: claude-code
 product_name: Claude Code
 record:
@@ -88,6 +88,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.257
 - [[Changes/Claude Code/2026-09-01-2-apps-and-integrations-changes-in-v2-1-257|2 Apps and Integrations changes in v2.1.257]] · Apps and Integrations
 - [[Changes/Claude Code/2026-09-01-2-interface-experience-changes-in-v2-1-257|2 Interface Experience changes in v2.1.257]] · Interface Experience
 - [[Changes/Claude Code/2026-09-01-6-model-support-changes-in-v2-1-257|6 Model Support changes in v2.1.257]] · Model Support
+- [[Changes/Claude Code/2026-09-01-7-other-changes-in-v2-1-257|7 other changes in v2.1.257]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

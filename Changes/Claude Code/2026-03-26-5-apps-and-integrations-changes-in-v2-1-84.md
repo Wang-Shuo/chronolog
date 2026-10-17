@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 786381a1e7c1715a14913e09f3e83db92d1dbbb162975416ecfd142d70254f53
+machine_hash: 2da8eebc5599f60d68e7d44ad888d0ed331187c5b0cdaae0acd39aaf4d3c0241
 product: claude-code
 product_name: Claude Code
 record:
@@ -100,6 +100,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.84
 - [[Changes/Claude Code/2026-03-26-2-agent-mode-changes-in-v2-1-84|2 Agent Mode changes in v2.1.84]] · Agent Mode
 - [[Changes/Claude Code/2026-03-26-2-context-window-changes-in-v2-1-84|2 Context Window changes in v2.1.84]] · Context Window
 - [[Changes/Claude Code/2026-03-26-5-developer-workflow-changes-in-v2-1-84|5 Developer Workflow changes in v2.1.84]] · Developer Workflow
+- [[Changes/Claude Code/2026-03-26-6-other-changes-in-v2-1-84|6 other changes in v2.1.84]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

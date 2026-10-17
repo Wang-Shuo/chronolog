@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b37fc85280925bb24bd4ec838a1a889256d6e4cb17ca127dd79476e390449a16
+machine_hash: 467fc4ed218b170196c3b06c26ceee32c7bfd883f71bf95eeff07e1406deeddf
 product: claude-code
 product_name: Claude Code
 record:
@@ -81,6 +81,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.6
 - [[Changes/Claude Code/2026-01-13-added-updates-section-to-doctor-showing-auto-update-channel-and-available-npm-ve|Added Updates section to /doctor showing auto-update channel and available npm…]] · Interface Experience
 - [[Changes/Claude Code/2026-01-13-3-developer-workflow-changes-in-v2-1-6|3 Developer Workflow changes in v2.1.6]] · Developer Workflow
 - [[Changes/Claude Code/2026-01-13-fixed-permission-bypass-via-shell-line-continuation-that-could-allow-blocked-com|Fixed permission bypass via shell line continuation that could allow blocked…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-01-13-3-other-changes-in-v2-1-6|3 other changes in v2.1.6]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

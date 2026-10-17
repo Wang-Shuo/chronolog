@@ -16,8 +16,8 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
-kind: launch
-machine_hash: 8a64a18baca74ec143fdd1731acb1fe4b5961ef9a0bd3a8ba083803d3ed2a906
+kind: change
+machine_hash: 9bd3420402e7752bc677b6c168db1e6ff3404740e2676fdc4b17aa9ea643b793
 product: cursor
 product_name: Cursor
 record:
@@ -37,7 +37,7 @@ record:
     source_release: https://cursor.com/changelog/0-49
   extractor_version: fallback-v5
   impact: paradigm-shift
-  kind: launch
+  kind: change
   product: cursor
   product_name: Cursor
   slug: improved-agent-terminal-control
@@ -73,7 +73,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Improved agent terminal control
 
-**Cursor** · 2025-04-15 · [[Themes/developer-workflow|Developer Workflow]] · Launch · [Official source](https://cursor.com/changelog/0-49) · from [[Releases/Cursor/cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f|Rules generation, improved agent terminal and MCP images]]
+**Cursor** · 2025-04-15 · [[Themes/developer-workflow|Developer Workflow]] · [Official source](https://cursor.com/changelog/0-49) · from [[Releases/Cursor/cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f|Rules generation, improved agent terminal and MCP images]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->

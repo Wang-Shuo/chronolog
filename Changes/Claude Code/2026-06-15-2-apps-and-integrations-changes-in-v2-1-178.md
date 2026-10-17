@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d023120aeb6d758b3b6143d6d0f6a3cd92830625b0f84acca44ebec0564f8ed1
+machine_hash: 8213e00e5e68beb35eb90b9998dd9854a5774df53fc848b7697337c69ae21cc8
 product: claude-code
 product_name: Claude Code
 record:
@@ -83,6 +83,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.178
 - [[Changes/Claude Code/2026-06-15-2-safety-and-privacy-changes-in-v2-1-178|2 Safety and Privacy changes in v2.1.178]] · Safety and Privacy
 - [[Changes/Claude Code/2026-06-15-2-agent-mode-changes-in-v2-1-178|2 Agent Mode changes in v2.1.178]] · Agent Mode
 - [[Changes/Claude Code/2026-06-15-improved-doctor-with-consistent-flat-tree-layout-across-all-sections-clearer-sec|Improved /doctor with consistent flat tree layout across all sections, clearer…]] · Developer Workflow
+- [[Changes/Claude Code/2026-06-15-2-other-changes-in-v2-1-178|2 other changes in v2.1.178]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

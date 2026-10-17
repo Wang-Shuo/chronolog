@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d5668d7ab0ff3e8224ce4e3af5d894f2ea5a989f450277e6346fce53d306329a
+machine_hash: e76a48ce05b61771cae1444d946a087e1d7dec5e82d219cac91acdc008de9cde
 product: claude-code
 product_name: Claude Code
 record:
@@ -81,6 +81,7 @@ type: change
 - [[Changes/Claude Code/2026-10-06-claude-tag-added-an-edit-button-to-the-allowed-domains-card-on-a-channel-s-confi|Claude Tag Added an Edit button to the Allowed domains card on a channel's…]] · Enterprise and Administration
 - [[Changes/Claude Code/2026-10-06-improved-the-focus-tip-it-now-invites-you-to-try-focus-view-mid-turn-and-shows-h|Improved the /focus tip]] · Interface Experience
 - [[Changes/Claude Code/2026-10-06-3-agent-mode-changes-in-v2-1-292|3 Agent Mode changes in v2.1.292]] · Agent Mode
+- [[Changes/Claude Code/2026-10-06-8-other-changes-in-v2-1-292|8 other changes in v2.1.292]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

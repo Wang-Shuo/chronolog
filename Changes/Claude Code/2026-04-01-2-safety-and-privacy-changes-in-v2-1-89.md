@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dcbbdb0651f8b023c4d299929a79ec924094650be6fd71fc7280a9a5317ce425
+machine_hash: 6dbb1c325aeda1df6cefa5ecc622c85a711e4fa5813d2e3cd40c304b758400c6
 product: claude-code
 product_name: Claude Code
 record:
@@ -85,6 +85,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.89
 - [[Changes/Claude Code/2026-04-01-changed-hook-output-over-50k-characters-to-be-saved-to-disk-with-a-file-path-pre|Changed hook output over 50K characters to be saved to disk with a file path…]] · Context Window
 - [[Changes/Claude Code/2026-04-01-powershell-tool-on-windows-external-command-arguments-containing-both-a-double-q|PowerShell tool on Windows]] · Mobile and Desktop
 - [[Changes/Claude Code/2026-04-01-added-claude-code-no-flicker-1-environment-variable-to-opt-into-flicker-free-alt|Added CLAUDE_CODE_NO_FLICKER=1 environment variable to opt into flicker-free…]] · Interface Experience
+- [[Changes/Claude Code/2026-04-01-6-other-changes-in-v2-1-89|6 other changes in v2.1.89]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

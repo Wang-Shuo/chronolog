@@ -23,12 +23,22 @@ def vault(tmp_path):
     return tmp_path
 
 
-def release(product="cursor", date="2026-07-01", body="- Agent can run shell commands after approval"):
+def release(product="cursor", date="2026-07-01", body="- Agent can run shell commands after approval",
+            source_type="github_releases"):
     return normalize_release(
         {"name": product, "display_name": {"cursor": "Cursor", "chatgpt": "ChatGPT"}[product]},
         release_date=date, version=date, title=f"Release {date}", body=body,
-        source_url=f"https://example.com/{product}/{date}", source_type="github_releases",
+        source_url=f"https://example.com/{product}/{date}", source_type=source_type,
     )
+
+
+# List lines without a theme are published as "Other changes"; prose without a theme
+# is what still waits in the review queue.
+PENDING_PROSE = "New quasar renderer for geometric palettes."
+
+
+def prose_release(date="2026-07-01", body=PENDING_PROSE):
+    return release(date=date, body=body, source_type="cursor_changelog")
 
 
 def collection(releases, *, mode="full", requested=None, complete=None):
@@ -122,7 +132,7 @@ def test_a4_success_no_new_releases_is_no_change(vault):
 
 def test_a5_scoped_reconcile_preserves_unselected_and_pending_history(vault):
     old, recent, other = release(date="2025-01-01"), release(), release("chatgpt")
-    candidate = release(date="2025-02-01", body="- New quasar renderer for geometric palettes")
+    candidate = prose_release(date="2025-02-01")
     run(vault, "seed", collection([old, recent, other, candidate]))
     pending_id = next((vault / "_review").glob("*.md")).stem
     shutil.rmtree(vault / "_pipeline")
@@ -303,7 +313,7 @@ def test_a1_new_release_extends_full_history_and_cross_product_relations(vault):
 
 def test_pending_promotion_survives_without_run_json_and_keeps_review_notes(vault):
     import yaml
-    unknown = release(body="- New quasar renderer for geometric palettes")
+    unknown = prose_release()
     run(vault, "seed", collection([unknown]))
     path = next((vault / "_review").glob("*.md"))
     path.write_text(path.read_text() + "\n\nHuman review notes.")
@@ -503,9 +513,9 @@ def test_repeated_pending_resolution_preserves_earlier_review_notes(vault):
     from _scripts.history import write_pending
     from _scripts.extract import extract_cards_from_release, load_theme_vocabulary
     candidate = extract_cards_from_release(
-        release(body="- New quasar renderer for geometric palettes"),
-        load_theme_vocabulary(vault / "_scripts/themes.yaml"),
+        prose_release(), load_theme_vocabulary(vault / "_scripts/themes.yaml"),
     )[0]
+    assert candidate["theme"] == "__candidate__"
     write_pending(vault, [candidate], {"cursor"})
     path = vault / "_review" / f"{candidate['card_id']}.md"
     path.write_text(path.read_text() + "\n\nFirst review notes.")
@@ -517,3 +527,32 @@ def test_repeated_pending_resolution_preserves_earlier_review_notes(vault):
     assert len(archived) == 2
     assert any("First review notes." in p.read_text() for p in archived)
     assert any("Second review notes." in p.read_text() for p in archived)
+
+
+def test_list_lines_without_a_theme_publish_as_other_changes_and_retire_old_queue_entries(vault):
+    from _scripts.extract import extract_cards_from_release, load_theme_vocabulary
+    from _scripts.history import write_pending
+    listed = release(body="- New quasar renderer for geometric palettes\n"
+                          "- Zephyr gauges round half values up")
+    run(vault, "seed", collection([listed]))
+    assert not list((vault / "_review").glob("*.md"))
+    [card] = cards(vault)
+    assert (card["theme"], card["kind"], card["title"]) == (
+        "uncategorized", "digest", "2 other changes in 2026-07-01")
+    assert not (vault / "Themes/uncategorized.md").exists()
+    assert "Other changes · Digest" in next((vault / "Releases").rglob("*.md")).read_text()
+    # Queue entries the previous card definition left for the same lines (one per line)
+    # retire in an incremental run: their lines joined a card of the same release.
+    themes = load_theme_vocabulary(vault / "_scripts/themes.yaml")
+    official = {slug: theme for slug, theme in themes.items() if theme["status"] == "official"}
+    old_entries = extract_cards_from_release(listed, official)
+    assert [entry["theme"] for entry in old_entries] == ["__candidate__"] * 2
+    write_pending(vault, old_entries, {"cursor"})
+    shutil.rmtree(vault / "_pipeline")
+
+    result = run(vault, "incremental", collection([listed], mode="incremental"))
+
+    assert result["pending_theme_review"] == 0
+    assert not list((vault / "_review").glob("*.md"))
+    assert len(list((vault / "_review/resolved").glob("*.md"))) == 2
+    assert [c["card_id"] for c in cards(vault)] == [card["card_id"]]

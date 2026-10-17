@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: dcdaf924d70372e62c60accc5ef2b1a90ffc54ed1aaff71daf1312fc518d170b
+machine_hash: c526d5309c1acfbb2de9446f0ffbcd44bedcb3b11b05efb9f80917bbad039183
 product: claude-code
 product_name: Claude Code
 record:
@@ -95,6 +95,7 @@ type: change
 - [[Changes/Claude Code/2026-08-17-3-interface-experience-changes-in-v2-1-234|3 Interface Experience changes in v2.1.234]] · Interface Experience
 - [[Changes/Claude Code/2026-08-17-removed-the-redundant-allowed-by-auto-mode-classifier-line-that-auto-mode-showed|Removed the redundant "Allowed by auto mode classifier" line that auto mode showed…]] · Agent Mode
 - [[Changes/Claude Code/2026-08-17-2-account-and-access-changes-in-v2-1-234|2 Account and Access changes in v2.1.234]] · Account and Access
+- [[Changes/Claude Code/2026-08-17-12-other-changes-in-v2-1-234|12 other changes in v2.1.234]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

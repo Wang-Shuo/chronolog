@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3043f3bd65fa1f03c7a7385ae7cf7d717db8afd3ff2926cec2e4154a302ea62b
+machine_hash: 61e79e5fcba0dec03a231d2d1b5c017cf32f7ca21920ef358648826ca2a2a742
 product: claude-code
 product_name: Claude Code
 record:
@@ -91,6 +91,7 @@ type: change
 - [[Changes/Claude Code/2026-08-28-4-agent-mode-changes-in-v2-1-251|4 Agent Mode changes in v2.1.251]] · Agent Mode
 - [[Changes/Claude Code/2026-08-28-improved-amazon-bedrock-session-start-under-claude-code-provider-managed-by-host|Improved Amazon Bedrock session start under CLAUDE_CODE_PROVIDER_MANAGED_BY_HOST…]] · Mobile and Desktop
 - [[Changes/Claude Code/2026-08-28-6-safety-and-privacy-changes-in-v2-1-251|6 Safety and Privacy changes in v2.1.251]] · Safety and Privacy
+- [[Changes/Claude Code/2026-08-28-8-other-changes-in-v2-1-251|8 other changes in v2.1.251]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

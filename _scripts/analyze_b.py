@@ -3,6 +3,7 @@ from __future__ import annotations
 import argparse
 import sys
 from collections import defaultdict
+from collections.abc import Collection
 from datetime import date
 from pathlib import Path
 from typing import Any
@@ -12,13 +13,20 @@ if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
 from _scripts.common import PipelinePaths, read_json, write_json
+from _scripts.extract import HOLDING_THEMES
 
 
 def date_value(value: str) -> date:
     return date.fromisoformat(value)
 
 
-def analyze_themes(cards: list[dict[str, Any]]) -> dict[str, Any]:
+def analyze_themes(
+    cards: list[dict[str, Any]],
+    holding: Collection[str] = HOLDING_THEMES,
+) -> dict[str, Any]:
+    """Same-theme chronology. A holding theme ("Other changes") groups lines without a
+    confident theme, so its cards get no diffusion, related changes or theme entry."""
+    cards = [card for card in cards if card["theme"] not in holding]
     grouped: dict[str, list[dict[str, Any]]] = defaultdict(list)
     tracked_products = {card["product"] for card in cards}
     for card in cards:

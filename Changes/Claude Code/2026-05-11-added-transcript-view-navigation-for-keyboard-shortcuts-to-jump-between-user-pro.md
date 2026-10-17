@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fd95ed93b1161e69368b7aac2797cdbca3065dde79af9d17ca12e50908b09ff6
+machine_hash: 9d54e109533bc6f82d29255490f88dd028066587bbc79de3cf6699c38eff1c86
 product: claude-code
 product_name: Claude Code
 record:
@@ -81,6 +81,7 @@ type: change
 - [[Changes/Claude Code/2026-05-11-vscode-press-cmd-ctrl-shift-t-to-reopen-the-most-recently-closed-session-tab-con|VSCode Press Cmd/Ctrl+Shift+T to reopen the most recently closed session tab…]] · Editor Experience
 - [[Changes/Claude Code/2026-05-11-added-scroll-speed-command-to-tune-mouse-wheel-scroll-speed-with-a-live-preview|Added /scroll-speed command to tune mouse wheel scroll speed with a live preview]] · Reliability and Performance
 - [[Changes/Claude Code/2026-05-11-2-agent-mode-changes-in-v2-1-139|2 Agent Mode changes in v2.1.139]] · Agent Mode
+- [[Changes/Claude Code/2026-05-11-added-hook-continueonblock-config-option-for-posttooluse-set-to-true-to-feed-the|Added hook continueOnBlock config option for PostToolUse]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

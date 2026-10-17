@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c598cc1e4876cbe7ba126221c510b7cce36708463f3ff5aaa798d1b4dc0483dd
+machine_hash: 97b3aee9bde4f4ace2a037c2c80e509ed1f48746d9a9b164ba0b5a7e5e70f065
 product: claude-code
 product_name: Claude Code
 record:
@@ -79,6 +79,7 @@ type: change
 - [[Changes/Claude Code/2026-07-14-2-interface-experience-changes-in-v2-1-210|2 Interface Experience changes in v2.1.210]] · Interface Experience
 - [[Changes/Claude Code/2026-07-14-memory-writes-that-leave-a-memory-md-index-over-its-read-limit-now-produce-an-ex|Memory writes that leave a MEMORY.md index over its read limit now produce…]] · Memory and Personalization
 - [[Changes/Claude Code/2026-07-14-3-agent-mode-changes-in-v2-1-210|3 Agent Mode changes in v2.1.210]] · Agent Mode
+- [[Changes/Claude Code/2026-07-14-improved-the-bundled-dataviz-skill-s-chart-color-validation-with-perceptual-okla|Improved the bundled dataviz skill's chart color validation with perceptual OKLab…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

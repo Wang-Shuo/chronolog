@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1d916a8e3f39b5cfa7216cd3f0f473bbd5262bcea6239860c6b11383cb337032
+machine_hash: 553b5e5e5f154c4569ffb0817946ac2bd68431a58af5c85805a0be2bb79fde60
 product: claude-code
 product_name: Claude Code
 record:
@@ -84,6 +84,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.247
 - [[Changes/Claude Code/2026-08-26-3-account-and-access-changes-in-v2-1-247|3 Account and Access changes in v2.1.247]] · Account and Access
 - [[Changes/Claude Code/2026-08-26-changed-the-prompt-footer-pr-badge-to-skip-its-github-re-check-on-terminal-refoc|Changed the prompt-footer PR badge to skip its GitHub re-check on terminal refocus…]] · Interface Experience
 - [[Changes/Claude Code/2026-08-26-changed-sonnet-5-s-default-auto-compact-window-to-its-full-1m-context-so-session|Changed Sonnet 5's default auto-compact window to its full 1M context, so sessions…]] · Context Window
+- [[Changes/Claude Code/2026-08-26-4-other-changes-in-v2-1-247|4 other changes in v2.1.247]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: e6be04874a3201b2dffac1ef7074e653f071d1892cab3c6cf6e13127f575bd30
+machine_hash: b15b2e6941984b500be96c1acace769f00f85aff1f4c83c200f3e10800b7cb19
 product: cursor
 product_name: Cursor
 record:
@@ -83,6 +83,7 @@ type: change
 - [[Changes/Cursor/2025-06-04-new-settings-and-dashboard|New Settings and Dashboard]] · Interface Experience
 - [[Changes/Cursor/2025-06-04-faster-responses-with-parallel-tool-calls|Faster responses with parallel tool calls]] · Reliability and Performance
 - [[Changes/Cursor/2025-06-04-mcp-one-click-install-and-oauth-support|MCP one-click install and OAuth support]] · Account and Access
+- [[Changes/Cursor/2025-06-04-2-other-changes-in-1-0|2 other changes in 1.0]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

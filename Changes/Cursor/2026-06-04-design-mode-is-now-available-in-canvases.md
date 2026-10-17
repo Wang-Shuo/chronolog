@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 671e91989255a3fa93685483d8a878942bbd1e7f2c629664c627905d3b293d55
+machine_hash: 568b905028b1280163fa66e3bbd1bf8bfb7b39796af5f82a3ad6d2ed16ee4a85
 product: cursor
 product_name: Cursor
 record:
@@ -77,6 +77,7 @@ type: change
 - [[Changes/Cursor/2026-06-04-shared-canvases-can-now-be-opened-full-screen-in-the-browser-making-them-easier|Shared canvases can now be opened full-screen in the browser, making them easier…]] · Interface Experience
 - [[Changes/Cursor/2026-06-04-with-canvases-agents-can-create-interactive-artifacts-like-dashboards-reports-an|With canvases, agents can create interactive artifacts like dashboards, reports…]] · Collaboration
 - [[Changes/Cursor/2026-06-04-context-usage-report-in-canvas-d08e2a|Context usage report in canvas]] · Context Window
+- [[Changes/Cursor/2026-06-04-improved-component-styling-and-added-more-chart-customization-functionality|Improved component styling, and added more chart customization functionality]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

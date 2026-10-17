@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ddc1c64cb67f579ac3924c2f2f9189bce6afcdb2414a4519c6a7e3c5248addbd
+machine_hash: 653d05721946195af73c60951a174319c83fa55edf8a20183e4861b6fba2aa22
 product: cursor
 product_name: Cursor
 record:
@@ -95,6 +95,7 @@ Source: https://cursor.com/changelog/1-6
 - [[Changes/Cursor/2025-09-12-custom-slash-commands-b79c4b|Custom slash commands]] · Developer Workflow
 - [[Changes/Cursor/2025-09-12-5-reliability-and-performance-changes-in-1-6|5 Reliability and Performance changes in 1.6]] · Reliability and Performance
 - [[Changes/Cursor/2025-09-12-mcp-resources-support|MCP Resources support]] · Apps and Integrations
+- [[Changes/Cursor/2025-09-12-1-6-26-summarization-and-extension-improvements|1.6.26: Summarization and extension improvements]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

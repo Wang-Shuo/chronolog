@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1b6e641a37b51663da83bfba3d8eb7fd6ee11423c0f533cdfb7b3ccb58eb5bdd
+machine_hash: 8b2663e0d1eb1012782fbfc650b7926d2bafb6534c9ca1f0398b4d286ac435fd
 product: claude-code
 product_name: Claude Code
 record:
@@ -85,6 +85,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.77
 - [[Changes/Claude Code/2026-03-17-2-mobile-and-desktop-changes-in-v2-1-77|2 Mobile and Desktop changes in v2.1.77]] · Mobile and Desktop
 - [[Changes/Claude Code/2026-03-17-2-agent-mode-changes-in-v2-1-77|2 Agent Mode changes in v2.1.77]] · Agent Mode
 - [[Changes/Claude Code/2026-03-17-increased-default-maximum-output-token-limits-for-claude-opus-4-6-to-64k-tokens|Increased default maximum output token limits for Claude Opus 4.6 to 64k tokens…]] · Model Support
+- [[Changes/Claude Code/2026-03-17-3-other-changes-in-v2-1-77|3 other changes in v2.1.77]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

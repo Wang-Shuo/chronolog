@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 07f56f40b987acef03cbdf9e9b7338f4f27c13fb1c7e27c98ef8b0c9c4ebfce9
+machine_hash: 2217ba72c76ba22775a57aa9ec7c89f21b1b7e47c0f8b7c34a5c1211294ca5d2
 product: cursor
 product_name: Cursor
 record:
@@ -104,6 +104,7 @@ type: change
 - [[Changes/Cursor/2025-10-29-team-commands|Team Commands]] · Collaboration
 - [[Changes/Cursor/2025-10-29-improved-prompt-ui|Improved Prompt UI]] · Context Window
 - [[Changes/Cursor/2025-10-29-sandboxed-terminals-admin-controls|Sandboxed Terminals: Admin Controls]] · Enterprise and Administration
+- [[Changes/Cursor/2025-10-29-notepads-have-been-deprecated|Notepads have been deprecated]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

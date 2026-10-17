@@ -1,9 +1,9 @@
 ---
-changes_count: 5
+changes_count: 6
 date: '2026-07-29'
-description: 'Cursor release Cursor, now on iPad on 2026-07-29: 5 tracked changes
-  across Mobile and Desktop, Agent Mode, Collaboration'
-machine_hash: b60574584367554727585383d7db9689894a73b37d9caad135882879f23bbd21
+description: 'Cursor release Cursor, now on iPad on 2026-07-29: 6 tracked changes
+  across Mobile and Desktop, Agent Mode, Collaboration, Other changes'
+machine_hash: adcd8e7dd643d54353608fb2149ad6b83a8e456243209c27e7f28e471e8a0c47
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ version: Cursor, now on iPad
 <!-- chronolog:begin region="summary" -->
 Cursor for iPad is now available on all paid plans.
 
-Tracked 5 cards from 10 candidate lines; 2 lines pending review.
+Tracked 6 cards from 10 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
@@ -48,4 +48,5 @@ Tracked 5 cards from 10 candidate lines; 2 lines pending review.
 - [[Changes/Cursor/2026-07-29-built-for-the-bigger-screen-98bf7a|Built for the bigger screen]] · Mobile and Desktop · Launch
 - [[Changes/Cursor/2026-07-29-inbox|Inbox]] · Agent Mode · Launch
 - [[Changes/Cursor/2026-07-29-cursor-for-ipad-is-now-available-on-all-paid-plans-ce68be|Cursor for iPad is now available on all paid plans]] · Mobile and Desktop · Launch
+- [[Changes/Cursor/2026-07-29-2-other-changes-in-cursor-now-on-ipad|2 other changes in Cursor, now on iPad]] · Other changes · Digest
 <!-- chronolog:end -->

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7353f2c3f97739b690675feba1890d4a08508d47cf4baf51b3173ce532898a05
+machine_hash: eb3d95d5a59ff794d48feab6435b19869aec7a72d5136b63265e83a12c350740
 product: claude-code
 product_name: Claude Code
 record:
@@ -81,6 +81,7 @@ type: change
 - [[Changes/Claude Code/2026-05-28-simplify-now-runs-a-cleanup-only-review-reuse-simplification-efficiency-altitude|/simplify now runs a cleanup-only review…]] · Developer Workflow
 - [[Changes/Claude Code/2026-05-28-introducing-dynamic-workflows-ask-claude-to-create-a-workflow-and-it-orchestrate|Introducing dynamic workflows]] · Agent Mode
 - [[Changes/Claude Code/2026-05-28-renamed-the-effort-slider-labels-from-speed-intelligence-to-faster-smarter-for-c|Renamed the /effort slider labels…]] · Reliability and Performance
+- [[Changes/Claude Code/2026-05-28-3-other-changes-in-v2-1-154|3 other changes in v2.1.154]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

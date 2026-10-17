@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2fb8f42ca0dc45b79e87326b97b7384035781b6e2820adf563adc92d9514e50d
+machine_hash: e2e20ed44f8c005d67fc43e258dada80129817157623146e9e887540694b5bbb
 product: claude-code
 product_name: Claude Code
 record:
@@ -99,6 +99,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.277
 - [[Changes/Claude Code/2026-09-18-6-apps-and-integrations-changes-in-v2-1-277|6 Apps and Integrations changes in v2.1.277]] · Apps and Integrations
 - [[Changes/Claude Code/2026-09-18-claude-code-on-the-web-changed-the-admin-claude-code-setting-labeled-web-to-clou|Claude Code on the web Changed the admin Claude Code setting labeled…]] · Mobile and Desktop
 - [[Changes/Claude Code/2026-09-18-changed-fable-to-always-appear-in-model-on-the-anthropic-api-it-is-greyed-out-on|Changed Fable to always appear in /model on the Anthropic API]] · Model Support
+- [[Changes/Claude Code/2026-09-18-7-other-changes-in-v2-1-277|7 other changes in v2.1.277]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

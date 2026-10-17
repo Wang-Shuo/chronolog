@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: f90ac8da703cda38dac86570e562527f07fd366206b1639fcd94618a227cc5ba
+machine_hash: ca222c27e1d0ea37e0553e8bcde514c7940915a3e93d980c6a18b05a6641bf31
 product: cursor
 product_name: Cursor
 record:
@@ -74,6 +74,7 @@ type: change
 - [[Changes/Cursor/2025-06-12-once-connected-try-it-in-any-channel-with-cursor-and-write-a-prompt-use-the-comm|Once connected, try it in any channel with @Cursor and write a prompt]] · Model Support
 - [[Changes/Cursor/2025-06-12-agents-understand-context-6b73fc|Agents understand context]] · Apps and Integrations
 - [[Changes/Cursor/2025-06-12-3-reliability-and-performance-changes-in-1-1|3 Reliability and Performance changes in 1.1]] · Reliability and Performance
+- [[Changes/Cursor/2025-06-12-7-other-changes-in-1-1|7 other changes in 1.1]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

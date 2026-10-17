@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 452754a8590fe89d4163f1b7f39f025f78ea29d454f3c50ffcf63e93583b0963
+machine_hash: 04d5b810222f714d916f8e0fd72ad59fada4ff8b00bc8bc4dc2784664727edbb
 product: cursor
 product_name: Cursor
 record:
@@ -83,6 +83,8 @@ Source: https://cursor.com/changelog/04-14-26
 - [[Changes/Cursor/2026-04-14-use-debug-to-find-root-causes-and-fix-tricky-bugs-that-are-hard-to-reproduce-or|Debug Mode in CLI]] · Developer Workflow
 - [[Changes/Cursor/2026-04-14-we-ve-shipped-quality-of-life-improvements-to-the-cursor-cli-to-make-working-wit|We've shipped quality-of-life improvements to the Cursor CLI to make working…]] · Developer Workflow
 - [[Changes/Cursor/2026-04-14-configuration-menu-in-cli|Configuration menu in CLI]] · Interface Experience
+- [[Changes/Cursor/2026-04-14-2-other-changes-in-04-14-26|2 other changes in 04.14.26]] · Other changes
+- [[Changes/Cursor/2026-04-14-you-can-now-reliably-send-the-cli-to-the-background-using-ctrl-z|Reliably send the CLI to the background using Ctrl+Z]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4257ac88bf04dadfc96bed6b30c204525c9e63aeb760717e8119064c6800d261
+machine_hash: a22f24654107e6f332fed19266a18c80edecac62aeaf01c463eecb59874941a7
 product: claude-code
 product_name: Claude Code
 record:
@@ -79,6 +79,7 @@ type: change
 - [[Changes/Claude Code/2026-05-28-introducing-dynamic-workflows-ask-claude-to-create-a-workflow-and-it-orchestrate|Introducing dynamic workflows]] · Agent Mode
 - [[Changes/Claude Code/2026-05-28-claude-now-reserves-the-multiple-choice-question-prompt-for-decisions-it-genuine|Claude now reserves the multiple-choice question prompt for decisions it genuinely…]] · Context Window
 - [[Changes/Claude Code/2026-05-28-renamed-the-effort-slider-labels-from-speed-intelligence-to-faster-smarter-for-c|Renamed the /effort slider labels…]] · Reliability and Performance
+- [[Changes/Claude Code/2026-05-28-3-other-changes-in-v2-1-154|3 other changes in v2.1.154]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

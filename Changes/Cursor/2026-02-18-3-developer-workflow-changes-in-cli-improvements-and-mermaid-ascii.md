@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5baa27ac4f8cd221f71fef904255b17aef929caa583a9421fc20210511aee6bd
+machine_hash: fa6e3c2d566da047cb8a054852273ec34be91f35625cb1ba0cedf02fa1d833c5
 product: cursor
 product_name: Cursor
 record:
@@ -91,6 +91,7 @@ Source: https://cursor.com/changelog/cli-feb-18-2026
 - [[Changes/Cursor/2026-02-18-auto-updates-now-run-in-the-background-for-faster-time-to-interactive|Auto-updates now run in the background for faster time-to-interactive]] · Reliability and Performance
 - [[Changes/Cursor/2026-02-18-3-apps-and-integrations-changes-in-cli-improvements-and-mermaid-ascii|3 Apps and Integrations changes in CLI Improvements and Mermaid ASCII…]] · Apps and Integrations
 - [[Changes/Cursor/2026-02-18-7-safety-and-privacy-changes-in-cli-improvements-and-mermaid-ascii|7 Safety and Privacy changes in CLI Improvements and Mermaid ASCII…]] · Safety and Privacy
+- [[Changes/Cursor/2026-02-18-12-other-changes-in-cli-improvements-and-mermaid-ascii|12 other changes in CLI Improvements and Mermaid ASCII…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

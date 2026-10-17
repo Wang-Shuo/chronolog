@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e14d52dfefcccacf3012a9b2446a24b6a0210a1e360084062d5678fb2bb549e1
+machine_hash: 0e8df5a373cb838e021be953ce43b28bd8651f526820e0a2545313c6420e088f
 product: claude-code
 product_name: Claude Code
 record:
@@ -75,6 +75,7 @@ type: change
 - [[Changes/Claude Code/2026-04-08-4-editor-experience-changes-in-v2-1-97|4 Editor Experience changes in v2.1.97]] · Editor Experience
 - [[Changes/Claude Code/2026-04-08-3-developer-workflow-changes-in-v2-1-97|3 Developer Workflow changes in v2.1.97]] · Developer Workflow
 - [[Changes/Claude Code/2026-04-08-2-agent-mode-changes-in-v2-1-97|2 Agent Mode changes in v2.1.97]] · Agent Mode
+- [[Changes/Claude Code/2026-04-08-4-other-changes-in-v2-1-97|4 other changes in v2.1.97]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

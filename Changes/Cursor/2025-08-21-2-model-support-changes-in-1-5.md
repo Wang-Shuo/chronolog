@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e04926023ca47f1942efc80fae6905356934fcc164427977be8f97df4071ec64
+machine_hash: 3baf109257fdbf2d8bad62982aa1f5b6c0c1ed2133abafbd0f704c2c10e2226d
 product: cursor
 product_name: Cursor
 record:
@@ -83,6 +83,7 @@ Source: https://cursor.com/changelog/1-5
 - [[Changes/Cursor/2025-08-21-the-terminal-now-opens-on-the-left-with-a-clear-backdrop-and-border-animation-to|Improved review flow in Agent terminal]] · Developer Workflow
 - [[Changes/Cursor/2025-08-21-context-usage-is-always-shown-in-the-chat-input|Context usage is always shown in the chat input]] · Context Window
 - [[Changes/Cursor/2025-08-21-get-native-os-notifications-when-an-agent-run-finishes-or-when-input-is-required|OS notifications from Agent]] · Agent Mode
+- [[Changes/Cursor/2025-08-21-2-other-changes-in-1-5|2 other changes in 1.5]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

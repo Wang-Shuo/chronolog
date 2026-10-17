@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a84cb2e640426d3ae9992444c730311b97a991edf99c49f8dd21316a95695206
+machine_hash: c427030bf3fb3ef0231c81267c66f7423c70d47e7764a1cfac6a8cb2f7bc7f33
 product: cursor
 product_name: Cursor
 record:
@@ -99,6 +99,7 @@ type: change
 - [[Changes/Cursor/2025-09-29-on-windows-agent-now-correctly-uses-powershell-on-macos-and-linux-powershell-wil|On Windows, Agent now correctly uses PowerShell]] · Mobile and Desktop
 - [[Changes/Cursor/2025-09-29-image-file-support-for-agent|Image file support for Agent]] · Agent Mode
 - [[Changes/Cursor/2025-09-29-1-7-41-token-sync-improvements-for-authentication|1.7.41: Token sync improvements for authentication]] · Account and Access
+- [[Changes/Cursor/2025-09-29-15-other-changes-in-1-7|15 other changes in 1.7]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

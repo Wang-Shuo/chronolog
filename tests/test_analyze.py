@@ -102,3 +102,25 @@ def test_analyze_themes_creates_related_changes_and_diffusion():
     assert cursor["diffusion"]["scope"] == "tracked-products-only"
     assert cursor["diffusion"]["role"] == "later-observed"
     assert cursor["diffusion"]["lag_days"] == 31
+
+
+def test_holding_theme_cards_have_no_chronology_and_rank_among_no_themes():
+    base = {"product": "cursor", "product_name": "Cursor"}
+    cards = [
+        {**base, "card_id": "cursor-2025-01-01-aaaaaa", "date": "2025-01-01",
+         "theme": "agent-mode", "source_release": "r1"},
+        {**base, "card_id": "cursor-2025-01-01-bbbbbb", "date": "2025-01-01",
+         "theme": "uncategorized", "source_release": "r1"},
+        {**base, "card_id": "cursor-2025-02-01-cccccc", "date": "2025-02-01",
+         "theme": "uncategorized", "source_release": "r2"},
+    ]
+
+    cursor = analyze_products(cards)["products"]["cursor"]
+    assert cursor["top_themes"] == ["agent-mode"]
+    # Holding cards are published cards, so the baseline still counts them.
+    assert cursor["verbosity_baseline"] == 1.5
+
+    themes = analyze_themes(cards)
+    assert list(themes["themes"]) == ["agent-mode"]
+    assert list(themes["cards"]) == ["cursor-2025-01-01-aaaaaa"]
+    assert themes["cards"]["cursor-2025-01-01-aaaaaa"]["diffusion"]["role"] == "first-observed"

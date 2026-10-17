@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 69952398c63615eaed12d2a42d774b38605a9a3456c95a33522a4f957e2979c6
+machine_hash: 0942dd842814545d95f2ac011ee117afafc3a7f3448ea241a68bfdcd75821d12
 product: claude-code
 product_name: Claude Code
 record:
@@ -83,6 +83,7 @@ type: change
 - [[Changes/Claude Code/2026-09-17-improved-the-desktop-error-when-claude-desktop-does-not-open-it-now-says-why-and|Improved the /desktop error when Claude Desktop does not open]] · Mobile and Desktop
 - [[Changes/Claude Code/2026-09-17-improved-the-artifact-tool-s-publish-and-read-results-they-now-say-who-can-open|Improved the Artifact tool's publish and read results]] · Interface Experience
 - [[Changes/Claude Code/2026-09-17-added-plugin-install-plugin-marketplace-source-which-offers-to-add-the-marketpla|Added /plugin install plugin --marketplace source, which offers to add…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-09-17-6-other-changes-in-v2-1-275|6 other changes in v2.1.275]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

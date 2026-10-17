@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b159791b7121b6a1885a59ee856fce69e4374a14c0f974afa40041da84f1cf6a
+machine_hash: ddc76b58c294b8d50defd51199c6bdc29c7cea68fd980f30844eb4141598466d
 product: claude-code
 product_name: Claude Code
 record:
@@ -91,6 +91,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.218
 - [[Changes/Claude Code/2026-07-22-added-screen-reader-announcements-of-deleted-text-for-word-and-line-deletions-op|Added screen-reader announcements of deleted text for word and line deletions…]] · Accessibility and Localization
 - [[Changes/Claude Code/2026-07-22-changed-code-review-to-run-as-a-background-subagent-so-review-work-no-longer-fil|Changed /code-review to run as a background subagent, so review work no longer…]] · Developer Workflow
 - [[Changes/Claude Code/2026-07-22-changed-skills-with-context-fork-to-run-in-the-background-by-default-opt-out-per|Changed skills with context: fork to run in the background by default]] · Context Window
+- [[Changes/Claude Code/2026-07-22-improved-trust-dialogs-to-name-the-repository-root-the-grant-covers|Improved trust dialogs to name the repository root the grant covers]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

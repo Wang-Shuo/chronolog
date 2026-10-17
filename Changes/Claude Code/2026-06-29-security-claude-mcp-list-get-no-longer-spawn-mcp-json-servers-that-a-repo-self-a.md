@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 96d2da2bf14fd4ca539d1c0f8b549830a521ab83d050c96c659df6f0be8f11da
+machine_hash: 0a14a001b3325e68bf2bfbdef875f0b997dc0b0d2ddb3c2997267d04ab450db0
 product: claude-code
 product_name: Claude Code
 record:
@@ -91,6 +91,7 @@ type: change
 - [[Changes/Claude Code/2026-06-29-remote-control-is-now-disabled-when-anthropic-base-url-points-at-a-non-anthropic|Remote Control is now disabled when ANTHROPIC_BASE_URL points at a non-Anthropic…]] · Apps and Integrations
 - [[Changes/Claude Code/2026-06-29-added-clickable-file-attachments-in-chat-cmd-ctrl-click-reveals-the-file-in-find|Added clickable file attachments in chat]] · Files and Data
 - [[Changes/Claude Code/2026-06-29-improved-background-session-reliability-long-running-commands-and-workflows-now|Improved background session reliability]] · Mobile and Desktop
+- [[Changes/Claude Code/2026-06-29-the-streaming-idle-watchdog-is-now-on-by-default-for-all-providers-it-aborts-and|The streaming idle watchdog is now on by default for all providers]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

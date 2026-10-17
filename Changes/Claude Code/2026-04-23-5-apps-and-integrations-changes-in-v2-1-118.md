@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 49a31154ed1b364ea61df37fea1244b17f4233ae5aa0baaff866f872e836f73c
+machine_hash: b97ac89dee93edd6fb2c631f09c096e6f056a3e73cbc5799fd0a2a1bfc729de2
 product: claude-code
 product_name: Claude Code
 record:
@@ -98,6 +98,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.118
 - [[Changes/Claude Code/2026-04-23-fixed-mcp-step-up-authorization-silently-refreshing-instead-of-prompting-for-re|Fixed MCP step-up authorization silently refreshing instead of prompting…]] · Safety and Privacy
 - [[Changes/Claude Code/2026-04-23-merged-cost-and-stats-into-usage-both-remain-as-typing-shortcuts-that-open-the-r|Merged /cost and /stats into /usage]] · Editor Experience
 - [[Changes/Claude Code/2026-04-23-2-interface-experience-changes-in-v2-1-118|2 Interface Experience changes in v2.1.118]] · Interface Experience
+- [[Changes/Claude Code/2026-04-23-continue-resume-now-find-sessions-that-added-the-current-directory-via-add-dir|--continue/--resume now find sessions that added the current directory via /add-dir]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

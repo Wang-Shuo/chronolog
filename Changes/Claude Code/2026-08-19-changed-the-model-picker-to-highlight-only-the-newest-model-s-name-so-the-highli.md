@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 38dd93f0b36005112e56c50ccdd138e2166f4e94b84c2b092f1de3603213a1dd
+machine_hash: 2ea168ba8c452274fc44e41f578c2b1f29f545844cf26b6f373a69e8ea3d3633
 product: claude-code
 product_name: Claude Code
 record:
@@ -93,6 +93,7 @@ type: change
 - [[Changes/Claude Code/2026-08-19-4-agent-mode-changes-in-v2-1-236|4 Agent Mode changes in v2.1.236]] · Agent Mode
 - [[Changes/Claude Code/2026-08-19-sigterm-in-print-sdk-mode-no-longer-records-an-interrupted-turn-or-synthetic-too|SIGTERM in print/SDK mode no longer records an interrupted turn or synthetic tool…]] · Apps and Integrations
 - [[Changes/Claude Code/2026-08-19-usage-now-shows-the-usage-credits-spend-row-for-team-and-enterprise-members-and|/usage now shows the usage-credits spend row for Team and Enterprise members…]] · Pricing Model
+- [[Changes/Claude Code/2026-08-19-3-other-changes-in-v2-1-236|3 other changes in v2.1.236]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

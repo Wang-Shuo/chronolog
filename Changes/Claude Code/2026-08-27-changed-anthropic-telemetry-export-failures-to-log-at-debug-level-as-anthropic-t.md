@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9c6e6480de62353801b068b837d874f2e05036e41f5e42d62474a47fecfbd2a9
+machine_hash: 0570470315d922a981098b9b856143da41c3b68afe4920513c5e328fd75d70d3
 product: claude-code
 product_name: Claude Code
 record:
@@ -80,6 +80,7 @@ type: change
 - [[Changes/Claude Code/2026-08-27-improved-the-workflow-tool-s-prompt-footprint-its-description-is-now-about-1k-to|Improved the Workflow tool's prompt footprint]] · Context Window
 - [[Changes/Claude Code/2026-08-27-improved-managed-settings-client-side-timeout-mcp-startup-mode-and-stream-watchd|Improved managed settings]] · Apps and Integrations
 - [[Changes/Claude Code/2026-08-27-changed-loop-self-paced-dynamic-mode-and-the-no-prompt-autonomous-default-are-no|Changed /loop: self-paced dynamic mode and the no-prompt autonomous default…]] · Automation and Scheduling
+- [[Changes/Claude Code/2026-08-27-7-other-changes-in-v2-1-248|7 other changes in v2.1.248]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

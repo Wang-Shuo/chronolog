@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 0d08707a4b3884a836f373b123f08090c56f7a31dfdf2e4c21343eddc311256c
+machine_hash: 7be5234647d64b8edb4de0d80d5f1151e8d913798173484f8e9c2b6814f96eb5
 product: claude-code
 product_name: Claude Code
 record:
@@ -89,6 +89,7 @@ type: change
 - [[Changes/Claude Code/2026-06-02-added-a-prompt-before-writing-to-shell-startup-files-zshenv-zlogin-bash-login-an|Added a prompt before writing to shell startup files…]] · Account and Access
 - [[Changes/Claude Code/2026-06-02-edit-no-longer-requires-a-separate-read-after-viewing-a-file-with-grep-single-fi|Edit no longer requires a separate Read after viewing a file with grep]] · Editor Experience
 - [[Changes/Claude Code/2026-06-02-removed-the-jetbrains-plugin-install-suggestion-from-startup|Removed the JetBrains plugin install suggestion from startup]] · Apps and Integrations
+- [[Changes/Claude Code/2026-06-02-renamed-the-dynamic-workflow-trigger-keyword-from-workflow-to-ultracode-the-word|Renamed the dynamic-workflow trigger keyword from workflow to ultracode]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d9956e9ba302ed6176818a98e8e94fb90b90e99ed641ebb7e78dd61d1ec21cff
+machine_hash: 861ab417d76239bdf735ff327f5d965c8efd150c0c21a3ba6ffb9ff6bd589374
 product: claude-code
 product_name: Claude Code
 record:
@@ -78,6 +78,7 @@ type: change
 - [[Changes/Claude Code/2026-04-16-2-developer-workflow-changes-in-v2-1-111|2 Developer Workflow changes in v2.1.111]] · Developer Workflow
 - [[Changes/Claude Code/2026-04-16-added-ultrareview-for-running-comprehensive-code-review-in-the-cloud-using-paral|Added /ultrareview for running comprehensive code review in the cloud using…]] · Developer Workflow
 - [[Changes/Claude Code/2026-04-16-2-safety-and-privacy-changes-in-v2-1-111|2 Safety and Privacy changes in v2.1.111]] · Safety and Privacy
+- [[Changes/Claude Code/2026-04-16-6-other-changes-in-v2-1-111|6 other changes in v2.1.111]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

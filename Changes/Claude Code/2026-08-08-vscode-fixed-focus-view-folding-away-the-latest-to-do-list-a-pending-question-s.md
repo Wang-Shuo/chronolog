@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 3f64e629041e5ffa116c9b303d0e8941382fa5cdcf13719ae1b7dc7b5e21e0d5
+machine_hash: d2895ca24fc24ddd9c6693bcb19f286353ef9d4d702126cfb1ea7cde426eb0d3
 product: claude-code
 product_name: Claude Code
 record:
@@ -77,6 +77,7 @@ type: change
 
 - [[Changes/Claude Code/2026-08-08-2-safety-and-privacy-changes-in-v2-1-225|2 Safety and Privacy changes in v2.1.225]] · Safety and Privacy
 - [[Changes/Claude Code/2026-08-08-3-apps-and-integrations-changes-in-v2-1-225|3 Apps and Integrations changes in v2.1.225]] · Apps and Integrations
+- [[Changes/Claude Code/2026-08-08-added-gateway-spend-limit-support-to-claude-code-s-usage-warning-the-limit-reach|Added gateway spend-limit support to Claude Code's usage warning]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

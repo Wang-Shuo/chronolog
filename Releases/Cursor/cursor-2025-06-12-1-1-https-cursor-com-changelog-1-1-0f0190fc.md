@@ -1,9 +1,9 @@
 ---
-changes_count: 6
+changes_count: 7
 date: '2025-06-12'
-description: 'Cursor release Background Agents in Slack on 2025-06-12: 6 tracked changes
+description: 'Cursor release Background Agents in Slack on 2025-06-12: 7 tracked changes
   across Agent Mode, Apps and Integrations, Collaboration, Model Support, Reliability…'
-machine_hash: 98295ef446afc2f99b7d99cd1a80fbd5517e7828ac5d2b85be2968ff9ca3ceb1
+machine_hash: dec22fdcc2a0d92001a5463a9c971cd1dfa373c09550484807b1f0e1d97076ba
 product: cursor
 product_name: Cursor
 record:
@@ -40,7 +40,7 @@ version: '1.1'
 <!-- chronolog:begin region="summary" -->
 You can now launch Background Agents directly from Slack by mentioning @Cursor. Agents can read the thread, understand what's going on, and create PRs in GitHub, all without leaving the conversation.
 
-Tracked 6 cards from 24 candidate lines; 7 lines pending review.
+Tracked 7 cards from 24 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
@@ -51,4 +51,5 @@ Tracked 6 cards from 24 candidate lines; 7 lines pending review.
 - [[Changes/Cursor/2025-06-12-agents-understand-context-6b73fc|Agents understand context]] · Apps and Integrations · Launch
 - [[Changes/Cursor/2025-06-12-improved-background-agent-reliability|Improved Background Agent reliability]] · Agent Mode
 - [[Changes/Cursor/2025-06-12-3-reliability-and-performance-changes-in-1-1|3 Reliability and Performance changes in 1.1]] · Reliability and Performance · Digest
+- [[Changes/Cursor/2025-06-12-7-other-changes-in-1-1|7 other changes in 1.1]] · Other changes · Digest
 <!-- chronolog:end -->

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b622d10f6344b1ee278d3040c9cceb8a6bc7c50cd79eb3a67a7f347df0ca0f18
+machine_hash: 2e1a5b24036e051879525998ecc90552cba9a96c7a0d5f8dea1dcea7898abb9e
 product: claude-code
 product_name: Claude Code
 record:
@@ -91,6 +91,7 @@ type: change
 - [[Changes/Claude Code/2026-07-22-3-apps-and-integrations-changes-in-v2-1-218|3 Apps and Integrations changes in v2.1.218]] · Apps and Integrations
 - [[Changes/Claude Code/2026-07-22-added-screen-reader-announcements-of-deleted-text-for-word-and-line-deletions-op|Added screen-reader announcements of deleted text for word and line deletions…]] · Accessibility and Localization
 - [[Changes/Claude Code/2026-07-22-changed-skills-with-context-fork-to-run-in-the-background-by-default-opt-out-per|Changed skills with context: fork to run in the background by default]] · Context Window
+- [[Changes/Claude Code/2026-07-22-improved-trust-dialogs-to-name-the-repository-root-the-grant-covers|Improved trust dialogs to name the repository root the grant covers]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

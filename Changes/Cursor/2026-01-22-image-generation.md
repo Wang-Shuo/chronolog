@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 0a163bc663350f8ddfc582432ac7a178f503fd82461076da90532613487011b6
+machine_hash: a15111117d4bfa5f5468be9861bb072c4cb3fcfa1f3b51c72956e52c87f73939
 product: cursor
 product_name: Cursor
 record:
@@ -97,6 +97,7 @@ type: change
 - [[Changes/Cursor/2026-01-22-cursor-blame|Cursor Blame]] · Enterprise and Administration
 - [[Changes/Cursor/2026-01-22-clarification-questions-from-the-agent|Clarification questions from the agent]] · Agent Mode
 - [[Changes/Cursor/2026-01-22-4-reliability-and-performance-changes-in-2-4|4 Reliability and Performance changes in 2.4]] · Reliability and Performance
+- [[Changes/Cursor/2026-01-22-6-other-changes-in-2-4|6 other changes in 2.4]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

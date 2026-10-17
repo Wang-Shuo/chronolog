@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: a1239bafbd1597d7a1bd10146f5f0753f55116b5918067daed8b6405cc1ca21e
+machine_hash: 3edca32a3c238ce9079c366151549a5d7122850b9e074bf4c949e9771edf679a
 product: cursor
 product_name: Cursor
 record:
@@ -89,6 +89,7 @@ type: change
 - [[Changes/Cursor/2025-09-12-2-apps-and-integrations-changes-in-1-6|2 Apps and Integrations changes in 1.6]] · Apps and Integrations
 - [[Changes/Cursor/2025-09-12-custom-slash-commands-b79c4b|Custom slash commands]] · Developer Workflow
 - [[Changes/Cursor/2025-09-12-5-reliability-and-performance-changes-in-1-6|5 Reliability and Performance changes in 1.6]] · Reliability and Performance
+- [[Changes/Cursor/2025-09-12-1-6-26-summarization-and-extension-improvements|1.6.26: Summarization and extension improvements]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 564602994ff0646623e1119c20acee9d255f30c658369d890f03df1fc42dfc9b
+machine_hash: a8b41a24b0399ea58c8fc33010f740189d039e2ed40d5b8652a059efafea437a
 product: cursor
 product_name: Cursor
 record:
@@ -87,6 +87,7 @@ Source: https://cursor.com/changelog/0-47-x
 - [[Changes/Cursor/2025-03-11-sonnet-3-7-thinking-we-ve-made-a-few-improvements-to-3-7-prompting-thinking-will|Sonnet 3.7 thinking: We've made a few improvements to 3.7 prompting]] · Model Support
 - [[Changes/Cursor/2025-03-11-0-47-11-release-track-picker-prerelease-or-standard-fix-for-dmg-installer-not-wo|0.47.11: Release track picker (prerelease or standard), fix for dmg installer not…]] · Interface Experience
 - [[Changes/Cursor/2025-03-11-this-release-focuses-mainly-on-stability-and-performance-improvements-to-make-ex|This release focuses mainly on stability and performance improvements to make…]] · Reliability and Performance
+- [[Changes/Cursor/2025-03-11-6-other-changes-in-0-47-x|6 other changes in 0.47.x]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

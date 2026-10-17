@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 576f7803e8677bb00bbf1cc46e1615a5faa53816ffc7111aa2a56848f5c3904d
+machine_hash: fa58249872f90c0e2b8d4858d420ab9803a802381e04ea49d6dd6f7a069c0a8e
 product: claude-code
 product_name: Claude Code
 record:
@@ -107,6 +107,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.238
 - [[Changes/Claude Code/2026-08-20-3-safety-and-privacy-changes-in-v2-1-238|3 Safety and Privacy changes in v2.1.238]] · Safety and Privacy
 - [[Changes/Claude Code/2026-08-20-improved-startup-responsiveness-the-automatic-update-check-now-runs-about-10-sec|Improved startup responsiveness]] · Reliability and Performance
 - [[Changes/Claude Code/2026-08-20-changed-ctrl-l-and-cmd-k-in-fullscreen-to-always-just-repaint-the-double-press-c|Changed Ctrl+L and Cmd+K in fullscreen to always just repaint]] · Interface Experience
+- [[Changes/Claude Code/2026-08-20-3-other-changes-in-v2-1-238|3 other changes in v2.1.238]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

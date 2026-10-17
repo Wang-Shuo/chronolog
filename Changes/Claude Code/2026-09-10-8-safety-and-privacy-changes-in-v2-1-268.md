@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b0856180bef8d2cda4186bd167cb3dba5a718a96fb60cd27d433c840689dba43
+machine_hash: 3f482b70c28115b70c1c119c5f1f5e18cfef07f123edbdfe54017455b3133e11
 product: claude-code
 product_name: Claude Code
 record:
@@ -122,6 +122,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.268
 - [[Changes/Claude Code/2026-09-10-vscode-added-a-claude-code-focus-last-message-command-that-moves-keyboard-focus|VSCode Added a "Claude Code]] · Accessibility and Localization
 - [[Changes/Claude Code/2026-09-10-7-apps-and-integrations-changes-in-v2-1-268|7 Apps and Integrations changes in v2.1.268]] · Apps and Integrations
 - [[Changes/Claude Code/2026-09-10-2-model-support-changes-in-v2-1-268|2 Model Support changes in v2.1.268]] · Model Support
+- [[Changes/Claude Code/2026-09-10-9-other-changes-in-v2-1-268|9 other changes in v2.1.268]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 4d1796dfc51bb2eaaaa8c2f12f0adedb5602df44d3f18b54557d979d5368be89
+machine_hash: 409f02a6b41b6faabf835b5efc89bbc7a6a5ff562069621a4d04ae12fda58504
 product: cursor
 product_name: Cursor
 record:
@@ -97,6 +97,7 @@ type: change
 - [[Changes/Cursor/2026-07-29-switch-between-teams-that-you-belong-to-directly-in-the-app|Switch between teams that you belong to directly in the app]] · Collaboration
 - [[Changes/Cursor/2026-07-29-inbox|Inbox]] · Agent Mode
 - [[Changes/Cursor/2026-07-29-cursor-for-ipad-is-now-available-on-all-paid-plans-ce68be|Cursor for iPad is now available on all paid plans]] · Mobile and Desktop
+- [[Changes/Cursor/2026-07-29-2-other-changes-in-cursor-now-on-ipad|2 other changes in Cursor, now on iPad]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

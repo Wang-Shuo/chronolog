@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8bbec639c88fd6bee6133b0d9f294a1764519a0c99eed07fb8bd4da70c31c628
+machine_hash: 7b4801a0d22d7e566d41a64b438601b54384f4108a5e720a637225e612764fe8
 product: claude-code
 product_name: Claude Code
 record:
@@ -95,6 +95,7 @@ type: change
 - [[Changes/Claude Code/2026-10-02-6-safety-and-privacy-changes-in-v2-1-288|6 Safety and Privacy changes in v2.1.288]] · Safety and Privacy
 - [[Changes/Claude Code/2026-10-02-added-ui-selection-for-mods-returns-the-text-you-last-selected-in-fullscreen-mod|Added $.ui.selection() for mods]] · Interface Experience
 - [[Changes/Claude Code/2026-10-02-improved-the-usage-credits-message-shown-to-team-and-enterprise-members-whose-or|Improved the /usage-credits message shown to Team and Enterprise members whose…]] · Pricing Model
+- [[Changes/Claude Code/2026-10-02-4-other-changes-in-v2-1-288|4 other changes in v2.1.288]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

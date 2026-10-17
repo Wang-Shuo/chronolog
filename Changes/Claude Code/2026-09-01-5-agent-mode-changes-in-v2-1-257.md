@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 00baf2965bd82770a04ee54c8afb5e07e10b8a27d0bd1f60593852513537b225
+machine_hash: 53e7746ce10a2cb5cb90cbb44dbc28e78347ba305923e8c8e5f5b550a29ee967
 product: claude-code
 product_name: Claude Code
 record:
@@ -104,6 +104,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.257
 - [[Changes/Claude Code/2026-09-01-2-account-and-access-changes-in-v2-1-257|2 Account and Access changes in v2.1.257]] · Account and Access
 - [[Changes/Claude Code/2026-09-01-2-interface-experience-changes-in-v2-1-257|2 Interface Experience changes in v2.1.257]] · Interface Experience
 - [[Changes/Claude Code/2026-09-01-6-model-support-changes-in-v2-1-257|6 Model Support changes in v2.1.257]] · Model Support
+- [[Changes/Claude Code/2026-09-01-7-other-changes-in-v2-1-257|7 other changes in v2.1.257]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

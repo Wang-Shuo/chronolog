@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0f58da265600338627cab3367d82364b870a8c53ed6ea38e028a5b55acf1a9cf
+machine_hash: 045c9db8cfce9e0095117b891f3235e416cf701f9db7bef40be7ad5359198b4a
 product: claude-code
 product_name: Claude Code
 record:
@@ -77,6 +77,7 @@ type: change
 - [[Changes/Claude Code/2026-03-27-changed-skills-menu-to-sort-alphabetically-for-easier-scanning|Changed /skills menu to sort alphabetically for easier scanning]] · Interface Experience
 - [[Changes/Claude Code/2026-03-27-reduced-startup-event-loop-stalls-when-many-claude-ai-mcp-connectors-are-configu|Reduced startup event-loop stalls when many claude.ai MCP connectors are configured…]] · Apps and Integrations
 - [[Changes/Claude Code/2026-03-27-3-context-window-changes-in-v2-1-86|3 Context Window changes in v2.1.86]] · Context Window
+- [[Changes/Claude Code/2026-03-27-read-tool-now-uses-compact-line-number-format-and-deduplicates-unchanged-re-read|Read tool now uses compact line-number format and deduplicates unchanged re-reads…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

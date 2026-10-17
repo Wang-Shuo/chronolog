@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: c2f4f6bbb336d8a5017cac33c5e20aa194c6f2946498ffbc0e9254546a73dd24
+machine_hash: bfce53a4abed08e60fb1396807c3c16c112df1348ed391f7b4d9dc828cec37c3
 product: cursor
 product_name: Cursor
 record:
@@ -100,6 +100,7 @@ type: change
 - [[Changes/Cursor/2026-01-22-3-developer-workflow-changes-in-2-4|3 Developer Workflow changes in 2.4]] · Developer Workflow
 - [[Changes/Cursor/2026-01-22-cursor-blame|Cursor Blame]] · Enterprise and Administration
 - [[Changes/Cursor/2026-01-22-4-reliability-and-performance-changes-in-2-4|4 Reliability and Performance changes in 2.4]] · Reliability and Performance
+- [[Changes/Cursor/2026-01-22-6-other-changes-in-2-4|6 other changes in 2.4]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

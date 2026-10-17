@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3a3adf5efea8fab61b456c49361402f99ce50ac412b71593ec02e6938c78bc77
+machine_hash: 54eb681be27c5c86991633e2a0803279cabc399f11c345c01231d7eb7ee87147
 product: cursor
 product_name: Cursor
 record:
@@ -88,6 +88,7 @@ Source: https://cursor.com/changelog/cli-feb-18-2026
 - [[Changes/Cursor/2026-02-18-3-apps-and-integrations-changes-in-cli-improvements-and-mermaid-ascii|3 Apps and Integrations changes in CLI Improvements and Mermaid ASCII…]] · Apps and Integrations
 - [[Changes/Cursor/2026-02-18-7-safety-and-privacy-changes-in-cli-improvements-and-mermaid-ascii|7 Safety and Privacy changes in CLI Improvements and Mermaid ASCII…]] · Safety and Privacy
 - [[Changes/Cursor/2026-02-18-3-developer-workflow-changes-in-cli-improvements-and-mermaid-ascii|3 Developer Workflow changes in CLI Improvements and Mermaid ASCII…]] · Developer Workflow
+- [[Changes/Cursor/2026-02-18-12-other-changes-in-cli-improvements-and-mermaid-ascii|12 other changes in CLI Improvements and Mermaid ASCII…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

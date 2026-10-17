@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dbe227deb2b53fbd543f42584a6ab0273f4a43ffa1692bcd8fa5d8f65b7511fb
+machine_hash: 8dbd2cb39b0ecc70d9f2881e7b73cef62bc18c99934e7e7c1cb4c65da93c6785
 product: claude-code
 product_name: Claude Code
 record:
@@ -86,6 +86,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.225
 
 - [[Changes/Claude Code/2026-08-08-2-safety-and-privacy-changes-in-v2-1-225|2 Safety and Privacy changes in v2.1.225]] · Safety and Privacy
 - [[Changes/Claude Code/2026-08-08-vscode-fixed-focus-view-folding-away-the-latest-to-do-list-a-pending-question-s|VSCode Fixed Focus view folding away the latest to-do list, a pending question's…]] · Interface Experience
+- [[Changes/Claude Code/2026-08-08-added-gateway-spend-limit-support-to-claude-code-s-usage-warning-the-limit-reach|Added gateway spend-limit support to Claude Code's usage warning]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

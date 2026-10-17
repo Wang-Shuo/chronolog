@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 767e811f9bdd68b82b2f2b1fbc37471061ddb5b17115a51a42294a592354a5eb
+machine_hash: f9f8b47c599db14f77f429c4b3c99cbe8daa38bd05ff0b2671cbc1c848260f6a
 product: claude-code
 product_name: Claude Code
 record:
@@ -85,6 +85,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.98
 - [[Changes/Claude Code/2026-04-09-3-agent-mode-changes-in-v2-1-98|3 Agent Mode changes in v2.1.98]] · Agent Mode
 - [[Changes/Claude Code/2026-04-09-2-apps-and-integrations-changes-in-v2-1-98|2 Apps and Integrations changes in v2.1.98]] · Apps and Integrations
 - [[Changes/Claude Code/2026-04-09-added-exclude-dynamic-system-prompt-sections-flag-to-print-mode-for-improved-cro|Added --exclude-dynamic-system-prompt-sections flag to print mode for improved…]] · Context Window
+- [[Changes/Claude Code/2026-04-09-3-other-changes-in-v2-1-98|3 other changes in v2.1.98]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

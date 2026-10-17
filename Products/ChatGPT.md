@@ -13,7 +13,7 @@ coverage:
   url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 created: '2022-12-15'
 date: '2026-10-07'
-machine_hash: b3d1d10e08a8e6a892f82630f8b33b69802b4e67c14a2f496da9b22825285072
+machine_hash: 48b90ab4a354854798dd6153818987ab1c12b780e04db2d6624c020037bfcf28
 modified: '2026-10-07'
 product: chatgpt
 product_name: ChatGPT
@@ -47,7 +47,7 @@ top_themes:
 - accessibility-localization
 - developer-workflow
 - artifact-creation
-verbosity_baseline: 1.7
+verbosity_baseline: 1.71
 ---
 
 # ChatGPT
@@ -68,7 +68,7 @@ Acquisition details, how cards are made and known gaps: [[About]].
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
-ChatGPT: 292 archived releases and 485 tracked changes.
+ChatGPT: 292 archived releases and 488 tracked changes.
 
 Most represented themes: Model Support, Mobile and Desktop, Memory and Personalization, Voice and Audio, Apps and Integrations.
 <!-- chronolog:end -->
@@ -488,6 +488,7 @@ Work explicitly handles longer tasks across apps and files and produces finished
 - 2024-11-22 · Interface Experience: [[Changes/ChatGPT/2024-11-22-the-new-chat-button-has-been-moved-to-the-left-of-the-model-picker-to-be-easier|The new chat button has been moved to the left of the Model Picker to be easier to access]]
 - 2024-11-22 · Image Generation: [[Changes/ChatGPT/2024-11-22-dall-e-focused-view-has-an-updated-layout|DALL-E focused view has an updated layout]]
 - 2024-11-22 · Files and Data: [[Changes/ChatGPT/2024-11-22-the-sidebar-when-pinned-can-now-stay-open-with-an-active-canvas-if-enough-space|The sidebar when pinned can now stay open with an active Canvas if enough space…]]
+- 2024-11-22 · Other changes: [[Changes/ChatGPT/2024-11-22-6-other-changes-in-updates-to-the-chatgpt-web-experience|6 other changes in Updates to the ChatGPT Web experience]]
 - 2024-11-22 · Mobile and Desktop: [[Changes/ChatGPT/2024-11-22-improved-mobile-web-experience|Improved Mobile Web Experience]]
 - 2024-11-22 · Interface Experience: [[Changes/ChatGPT/2024-11-22-sidebar-redesign-e6413a|Sidebar redesign]]
 - 2024-12-10 · Files and Data: [[Changes/ChatGPT/2024-12-10-today-we-made-canvas-available-in-4o-by-default-for-all-users-free-and-paid-addi-5aaec4|Canvas]]
@@ -559,6 +560,7 @@ Work explicitly handles longer tasks across apps and files and produces finished
 - 2025-06-12 · Model Support: [[Changes/ChatGPT/2025-06-12-creators-can-now-choose-from-the-full-set-of-chatgpt-models-gpt-4o-o3-o4-mini-an-ad1adf|Creators can now choose from the full set of ChatGPT models…]]
 - 2025-06-12 · Memory and Personalization: [[Changes/ChatGPT/2025-06-12-improvements-to-memory-to-reference-past-chats-in-a-project|Improvements to memory to reference past chats in a project]]
 - 2025-06-12 · Voice and Audio: [[Changes/ChatGPT/2025-06-12-deep-research-and-voice-mode-support|Deep research and voice mode support]]
+- 2025-06-13 · Other changes: [[Changes/ChatGPT/2025-06-13-2-other-changes-in-improvements-to-the-chatgpt-search|2 other changes in Improvements to the ChatGPT search…]]
 - 2025-06-13 · Search and Browsing: [[Changes/ChatGPT/2025-06-13-we-ve-upgraded-chatgpt-search-for-all-users-to-provide-even-more-comprehensive-u|We’ve upgraded ChatGPT search for all users to provide even more comprehensive…]]
 - 2025-06-13 · Model Support: [[Changes/ChatGPT/2025-06-13-in-some-cases-a-chain-of-thought-reasoning-will-show-up-unexpectedly-for-simple|In some cases, a “chain of thought” reasoning will show up unexpectedly for simple queries]]
 - 2025-06-13 · Reliability and Performance: [[Changes/ChatGPT/2025-06-13-improved-search-capability-and-instruction-following-594de0|Improved search capability and instruction following]]
@@ -601,6 +603,7 @@ Work explicitly handles longer tasks across apps and files and produces finished
 - 2025-09-16 · Search and Browsing: [[Changes/ChatGPT/2025-09-16-we-ve-made-further-improvements-to-search-in-chatgpt-making-results-more-accurat|ChatGPT makes further improvements to search, making results more accurate…]]
 - 2025-09-16 · Interface Experience: [[Changes/ChatGPT/2025-09-16-formatting-answers-are-better-formatted-for-quick-understanding-without-losing-d|Formatting: Answers are better formatted for quick understanding without losing…]]
 - 2025-09-16 · Search and Browsing: [[Changes/ChatGPT/2025-09-16-shopping-search-is-better-at-detecting-shopping-intent-showing-products-when-you|Shopping: Search is better at detecting shopping intent, showing products when you…]]
+- 2025-09-17 · Other changes: [[Changes/ChatGPT/2025-09-17-extended-heavy-more-time-for-deeper-more-comprehensive-responses-when-the-stakes|Extended / Heavy → more time for deeper, more comprehensive responses…]]
 - 2025-09-17 · Mobile and Desktop: [[Changes/ChatGPT/2025-09-17-the-thinking-time-toggle-is-live-today-on-chatgpt-com-settings-you-choose-on-the|The thinking-time toggle is live today on chatgpt.com]]
 - 2025-09-17 · Model Support: [[Changes/ChatGPT/2025-09-17-5-model-support-changes-in-toggle-thinking-time-in-the-message|5 Model Support changes in Toggle thinking time in the message…]]
 - 2025-09-17 · Reliability and Performance: [[Changes/ChatGPT/2025-09-17-2-reliability-and-performance-changes-in-toggle-thinking-time-in-the-message|2 Reliability and Performance changes in Toggle thinking time in the message…]]

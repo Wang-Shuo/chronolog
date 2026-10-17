@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c79ebd1e9be92b4b376b4baa8520c3f8559322f2d0fce9f0516fa6dc8806bb8b
+machine_hash: facb64aa8e624ac6c345a542f4f181db14efabe7556c4004be50abd972910ffd
 product: claude-code
 product_name: Claude Code
 record:
@@ -91,6 +91,7 @@ type: change
 - [[Changes/Claude Code/2026-05-19-3-developer-workflow-changes-in-v2-1-144|3 Developer Workflow changes in v2.1.144]] · Developer Workflow
 - [[Changes/Claude Code/2026-05-19-3-apps-and-integrations-changes-in-v2-1-144|3 Apps and Integrations changes in v2.1.144]] · Apps and Integrations
 - [[Changes/Claude Code/2026-05-19-the-post-survey-follow-up-hint-now-appears-after-every-non-dismiss-survey-respon|The post-survey follow-up hint now appears after every non-dismiss survey response…]] · Context Window
+- [[Changes/Claude Code/2026-05-19-4-other-changes-in-v2-1-144|4 other changes in v2.1.144]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

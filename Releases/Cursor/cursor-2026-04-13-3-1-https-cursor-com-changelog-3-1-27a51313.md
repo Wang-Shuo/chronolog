@@ -1,9 +1,9 @@
 ---
-changes_count: 11
+changes_count: 12
 date: '2026-04-13'
 description: 'Cursor release Tiled Layout and Upgraded Voice Input in the Agents Window
-  on 2026-04-13: 11 tracked changes across Agent Mode, Voice and Audio, Editor…'
-machine_hash: 25e9e525b2d45cb5835408020be47f394135189d0cb542825773fac36411fb52
+  on 2026-04-13: 12 tracked changes across Agent Mode, Voice and Audio, Editor…'
+machine_hash: 0ae8f1ccac327460adb7ab7f2676bc286e1c35b873444991a628aa23896ac45b
 product: cursor
 product_name: Cursor
 record:
@@ -39,7 +39,7 @@ version: '3.1'
 <!-- chronolog:begin region="summary" -->
 This release introduces improvements to our Agents Window interface as part of Cursor 3.
 
-Tracked 11 cards from 27 candidate lines; 5 lines pending review.
+Tracked 12 cards from 27 candidate lines; 1 line pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
@@ -55,4 +55,5 @@ Tracked 11 cards from 27 candidate lines; 5 lines pending review.
 - [[Changes/Cursor/2026-04-13-3-editor-experience-changes-in-3-1|3 Editor Experience changes in 3.1]] · Editor Experience · Digest
 - [[Changes/Cursor/2026-04-13-branch-selection-in-empty-state|Branch selection in empty state]] · Agent Mode · Launch
 - [[Changes/Cursor/2026-04-13-3-agent-mode-changes-in-3-1|3 Agent Mode changes in 3.1]] · Agent Mode · Digest
+- [[Changes/Cursor/2026-04-13-4-other-changes-in-3-1|4 other changes in 3.1]] · Other changes · Digest
 <!-- chronolog:end -->

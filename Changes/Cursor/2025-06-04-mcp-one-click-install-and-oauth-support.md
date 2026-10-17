@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 371b96a9cc8309f81c5c09e58a9dbcc0f903c1f8d5eb55bd7a4e6d9fc3440dd7
+machine_hash: 15985207095a8280b73c8faa297d8ed6fcfae3dc9299190928b7ea50824cf325
 product: cursor
 product_name: Cursor
 record:
@@ -107,6 +107,7 @@ type: change
 - [[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise users can only access stable release (no pre-release)]] · Enterprise and Administration
 - [[Changes/Cursor/2025-06-04-new-settings-and-dashboard|New Settings and Dashboard]] · Interface Experience
 - [[Changes/Cursor/2025-06-04-faster-responses-with-parallel-tool-calls|Faster responses with parallel tool calls]] · Reliability and Performance
+- [[Changes/Cursor/2025-06-04-2-other-changes-in-1-0|2 other changes in 1.0]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

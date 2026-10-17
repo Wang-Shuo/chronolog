@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 18ed7e0f78115f4d27568058797b4bb81e77884c0493ee4d449a27a56b37c22f
+machine_hash: 2ddf95d7dbe6eeff913d8e0d6283eb8b5975c2b6b068fdebf94265f3033c935f
 product: claude-code
 product_name: Claude Code
 record:
@@ -82,6 +82,7 @@ type: change
 - [[Changes/Claude Code/2026-05-01-3-safety-and-privacy-changes-in-v2-1-126|3 Safety and Privacy changes in v2.1.126]] · Safety and Privacy
 - [[Changes/Claude Code/2026-05-01-powershell-tool-bare-e-g-git-diff-file-is-no-longer-mis-flagged-as-the-stop-pars|PowerShell tool: bare -- (e.g. git diff -- file) is no longer mis-flagged…]] · Editor Experience
 - [[Changes/Claude Code/2026-05-01-claude-auth-login-now-accepts-the-oauth-code-pasted-into-the-terminal-when-the-b|claude auth login now accepts the OAuth code pasted into the terminal…]] · Account and Access
+- [[Changes/Claude Code/2026-05-01-2-other-changes-in-v2-1-126|2 other changes in v2.1.126]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

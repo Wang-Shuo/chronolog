@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0c24ef0c7825a43594049152a3218bfdc5886f8b964e8e3344e89612190d41ca
+machine_hash: 7a34786b9bb5e7ea4cdb90c4b8626ef784d0c93d2c53a96b146ea78301275175
 product: claude-code
 product_name: Claude Code
 record:
@@ -76,6 +76,7 @@ type: change
 - [[Changes/Claude Code/2026-07-15-improved-the-memory-index-over-limit-warning-to-measure-only-loaded-content-excl|Improved the memory index over-limit warning to measure only loaded content…]] · Memory and Personalization
 - [[Changes/Claude Code/2026-07-15-2-safety-and-privacy-changes-in-v2-1-211|2 Safety and Privacy changes in v2.1.211]] · Safety and Privacy
 - [[Changes/Claude Code/2026-07-15-claude-in-chrome-hardened-file-upload-path-validation|Claude in Chrome: hardened file-upload path validation]] · Files and Data
+- [[Changes/Claude Code/2026-07-15-4-other-changes-in-v2-1-211|4 other changes in v2.1.211]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

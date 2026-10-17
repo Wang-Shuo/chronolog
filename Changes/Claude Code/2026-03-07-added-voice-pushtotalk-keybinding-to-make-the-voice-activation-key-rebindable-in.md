@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6eaa5aae4c9105a84b314f33c697c5afd0704e1d844a824e84c75f19467d9f12
+machine_hash: 9ba643dd5d65cff028c1d4b3d921790673dfbfa133f1f1fbd547e6ec01fed1bb
 product: claude-code
 product_name: Claude Code
 record:
@@ -86,6 +86,7 @@ type: change
 - [[Changes/Claude Code/2026-03-07-fixed-false-positive-permission-prompts-for-compound-bash-commands-containing-he|Fixed false-positive permission prompts for compound bash commands containing…]] · Safety and Privacy
 - [[Changes/Claude Code/2026-03-07-3-apps-and-integrations-changes-in-v2-1-71|3 Apps and Integrations changes in v2.1.71]] · Apps and Integrations
 - [[Changes/Claude Code/2026-03-07-2-developer-workflow-changes-in-v2-1-71|2 Developer Workflow changes in v2.1.71]] · Developer Workflow
+- [[Changes/Claude Code/2026-03-07-2-other-changes-in-v2-1-71|2 other changes in v2.1.71]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

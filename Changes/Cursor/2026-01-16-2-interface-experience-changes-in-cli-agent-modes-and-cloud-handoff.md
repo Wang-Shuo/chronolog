@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8c2282a8ffbe5f819679594a6e8a7e5b42658949f9946843c4d16075b907d169
+machine_hash: b169cb7248550af656b4c147db04bd9bb9ee3e5c6dede546c65326e43c1d505c
 product: cursor
 product_name: Cursor
 record:
@@ -86,6 +86,8 @@ Source: https://cursor.com/changelog/cli-jan-16-2026
 - [[Changes/Cursor/2026-01-16-added-webfetch-websearch-tools-approval-options-for-granular-controls-over-web-s|Added WebFetch, WebSearch tools, & approval options for granular controls over web…]] · Search and Browsing
 - [[Changes/Cursor/2026-01-16-use-ask-mode-to-explore-code-without-making-changes-just-like-in-the-editor-star|Ask mode in CLI]] · Editor Experience
 - [[Changes/Cursor/2026-01-16-added-hooks-for-session-start-end-prompt-and-stop-for-customizing-agent-lifecycl|Added hooks for session start/end, prompt, and stop for customizing agent lifecycle events]] · Agent Mode
+- [[Changes/Cursor/2026-01-16-list-removed-use-resume-to-see-all-prior-conversations|/list removed. Use /resume to see all prior conversations]] · Other changes
+- [[Changes/Cursor/2026-01-16-added-about-for-seeing-basic-details-about-your-environment-and-cursor-cli-setup|Added /about for seeing basic details about your environment and Cursor CLI setup]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

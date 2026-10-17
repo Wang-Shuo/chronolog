@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 6ff800ec2c5684d9bb2626c8c754836413229eea175cb53f45c14fbe1eaf0518
+machine_hash: 841c4f4e55b081f2ddcd9a0545e1024f0c0a553a6f27bbe75e71a1a489cae18f
 product: claude-code
 product_name: Claude Code
 record:
@@ -84,6 +84,7 @@ type: change
 - [[Changes/Claude Code/2026-05-19-3-apps-and-integrations-changes-in-v2-1-144|3 Apps and Integrations changes in v2.1.144]] · Apps and Integrations
 - [[Changes/Claude Code/2026-05-19-model-now-changes-the-model-for-the-current-session-only-press-d-in-the-model-pi|/model now changes the model for the current session only]] · Interface Experience
 - [[Changes/Claude Code/2026-05-19-the-post-survey-follow-up-hint-now-appears-after-every-non-dismiss-survey-respon|The post-survey follow-up hint now appears after every non-dismiss survey response…]] · Context Window
+- [[Changes/Claude Code/2026-05-19-4-other-changes-in-v2-1-144|4 other changes in v2.1.144]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

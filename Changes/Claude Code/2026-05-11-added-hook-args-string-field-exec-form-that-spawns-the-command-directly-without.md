@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 196291d5a4901304f116fb6c72495fcd8e6cc6ade19ef2eeb1c2921a233c87a5
+machine_hash: d3bd33e06e6d9a97f338647d3796bf374b27e902f5aaa7f41a00bb91a284d544
 product: claude-code
 product_name: Claude Code
 record:
@@ -80,6 +80,7 @@ type: change
 - [[Changes/Claude Code/2026-05-11-added-scroll-speed-command-to-tune-mouse-wheel-scroll-speed-with-a-live-preview|Added /scroll-speed command to tune mouse wheel scroll speed with a live preview]] · Reliability and Performance
 - [[Changes/Claude Code/2026-05-11-2-agent-mode-changes-in-v2-1-139|2 Agent Mode changes in v2.1.139]] · Agent Mode
 - [[Changes/Claude Code/2026-05-11-added-transcript-view-navigation-for-keyboard-shortcuts-to-jump-between-user-pro|Added transcript view navigation]] · Interface Experience
+- [[Changes/Claude Code/2026-05-11-added-hook-continueonblock-config-option-for-posttooluse-set-to-true-to-feed-the|Added hook continueOnBlock config option for PostToolUse]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

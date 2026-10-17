@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4b92820916cb48003815bd44aef84f5e526d22e44c39610271a1a4c56654f99b
+machine_hash: 2d3000129df3c2cd8e14191d9cd10cd3fd7fe871ef67376c5fa622cb0d08419a
 product: cursor
 product_name: Cursor
 record:
@@ -95,6 +95,7 @@ Source: https://cursor.com/changelog/2-4
 - [[Changes/Cursor/2026-01-22-cursor-blame|Cursor Blame]] · Enterprise and Administration
 - [[Changes/Cursor/2026-01-22-clarification-questions-from-the-agent|Clarification questions from the agent]] · Agent Mode
 - [[Changes/Cursor/2026-01-22-4-reliability-and-performance-changes-in-2-4|4 Reliability and Performance changes in 2.4]] · Reliability and Performance
+- [[Changes/Cursor/2026-01-22-6-other-changes-in-2-4|6 other changes in 2.4]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 21fa7f9837743bb2a93dfa7f7d8fb8df705186bfe611431901d68e34145fa7dd
+machine_hash: 46cc34a73d6a7e7ba2d878629f216767e6115a7012f5b2c93abcaa816834cf04
 product: cursor
 product_name: Cursor
 record:
@@ -98,6 +98,7 @@ type: change
 - [[Changes/Cursor/2025-03-23-this-release-introduces-chat-tabs-for-parallel-conversations-a-redesignedmodes-s|Cursor introduces chat tabs for parallel conversations, a redesignedmodes system…]] · Pricing Model
 - [[Changes/Cursor/2025-03-23-faster-indexing|Faster indexing]] · Reliability and Performance
 - [[Changes/Cursor/2025-03-23-chat-tabs|Chat tabs]] · Editor Experience
+- [[Changes/Cursor/2025-03-23-4-other-changes-in-0-48-x|4 other changes in 0.48.x]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

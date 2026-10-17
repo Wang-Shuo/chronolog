@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5f45bb51b8dfa87a52d30ccb057c249ff5343f928f1c951bce84bb4b2d51f178
+machine_hash: 8bb5b281743e3035470c7f68a4ea2d736fe1be5025771970eb187e04d8757658
 product: claude-code
 product_name: Claude Code
 record:
@@ -77,6 +77,7 @@ type: change
 - [[Changes/Claude Code/2026-01-16-added-session-url-attribution-to-commits-and-prs-created-from-web-sessions|Added session URL attribution to commits and PRs created from web sessions]] · Developer Workflow
 - [[Changes/Claude Code/2026-01-16-added-auto-n-syntax-for-configuring-the-mcp-tool-search-auto-enable-threshold-wh|Added auto:N syntax for configuring the MCP tool search auto-enable threshold…]] · Context Window
 - [[Changes/Claude Code/2026-01-16-added-external-editor-support-ctrl-g-in-askuserquestion-other-input-field|Added external editor support (Ctrl+G) in AskUserQuestion "Other" input field]] · Editor Experience
+- [[Changes/Claude Code/2026-01-16-added-claude-session-id-string-substitution-for-skills-to-access-the-current-ses|Added ${CLAUDE_SESSION_ID} string substitution for skills to access the current…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

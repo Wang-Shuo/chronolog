@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: c3a914a7567b660add71b4c6bbe371b1e7327f9fe341c178b697b19ad0f90731
+machine_hash: 8172d5e38e7d84a529a71b701c6d75d651b874b3b940282adf1c3b3b75b3aaad
 product: claude-code
 product_name: Claude Code
 record:
@@ -79,6 +79,7 @@ type: change
 - [[Changes/Claude Code/2026-02-28-added-enable-claudeai-mcp-servers-false-env-var-to-opt-out-from-making-claude-ai|Added ENABLE_CLAUDEAI_MCP_SERVERS=false env var to opt out from making claude.ai…]] · Apps and Integrations
 - [[Changes/Claude Code/2026-02-28-improved-memory-usage-in-long-sessions-with-subagents-by-stripping-heavy-progres|Improved memory usage in long sessions with subagents by stripping heavy progress…]] · Reliability and Performance
 - [[Changes/Claude Code/2026-02-28-added-simplify-and-batch-bundled-slash-commands|Added /simplify and /batch bundled slash commands]] · Developer Workflow
+- [[Changes/Claude Code/2026-02-28-vscode-added-session-rename-and-remove-actions-to-the-sessions-list|VSCode: Added session rename and remove actions to the sessions list]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

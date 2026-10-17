@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: fc257cc4c5f800cea7d410cadfc07cbe38a068962425dcf07d73840daad5e2ac
+machine_hash: 5c82007dc9346744bf213a37b60e3cb263272361b7ad210235e74a8591844c1f
 product: claude-code
 product_name: Claude Code
 record:
@@ -80,6 +80,7 @@ type: change
 - [[Changes/Claude Code/2026-05-29-removed-the-ide-for-startup-hint-toast|Removed the "/ide for …" startup hint toast]] · Editor Experience
 - [[Changes/Claude Code/2026-05-29-improved-performance-of-long-and-resumed-conversations-by-eliminating-redundant|Improved performance of long and resumed conversations by eliminating redundant…]] · Reliability and Performance
 - [[Changes/Claude Code/2026-05-29-4-apps-and-integrations-changes-in-v2-1-157|4 Apps and Integrations changes in v2.1.157]] · Apps and Integrations
+- [[Changes/Claude Code/2026-05-29-3-other-changes-in-v2-1-157|3 other changes in v2.1.157]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

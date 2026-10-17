@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 62e14776c8d0df8a434f64bc577034e6dcac3aa12955d1c8b7b6918e1d7b1647
+machine_hash: aaa2f66a8dc37ad068863a343a28a96074189365514a407a35a1e5fbf4fc4c88
 product: claude-code
 product_name: Claude Code
 record:
@@ -82,6 +82,8 @@ type: change
 - [[Changes/Claude Code/2026-09-25-improved-lists-in-help-hooks-copy-chrome-memory-ide-release-notes-rewind-diff-re|Improved lists in /help, /hooks, /copy, /chrome, /memory, /ide…]] · Memory and Personalization
 - [[Changes/Claude Code/2026-09-25-2-interface-experience-changes-in-v2-1-283|2 Interface Experience changes in v2.1.283]] · Interface Experience
 - [[Changes/Claude Code/2026-09-25-3-model-support-changes-in-v2-1-283|3 Model Support changes in v2.1.283]] · Model Support
+- [[Changes/Claude Code/2026-09-25-9-other-changes-in-v2-1-283|9 other changes in v2.1.283]] · Other changes
+- [[Changes/Claude Code/2026-09-25-added-doctor-prompt-audit-also-checkup-prompt-audit-to-audit-your-claude-md-file|Added /doctor prompt-audit (also /checkup prompt-audit) to audit your CLAUDE.md…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

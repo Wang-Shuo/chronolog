@@ -16,8 +16,8 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
-kind: launch
-machine_hash: 87c2ef0621bbf94af2a71f43fbde711bb5866d8a148d742762f8acf41e4650a8
+kind: change
+machine_hash: 5d68439b68d52852263065ffc6b1b2553fbe895c0fb82033bf78706ed935a278
 product: cursor
 product_name: Cursor
 record:
@@ -42,7 +42,7 @@ record:
     source_release: https://cursor.com/changelog/2-0
   extractor_version: fallback-v5
   impact: incremental
-  kind: launch
+  kind: change
   product: cursor
   product_name: Cursor
   slug: improved-performance
@@ -68,7 +68,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Improved Performance
 
-**Cursor** · 2025-10-29 · [[Themes/reliability-performance|Reliability and Performance]] · Launch · [Official source](https://cursor.com/changelog/2-0) · from [[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|New Coding Model and Agent Interface]]
+**Cursor** · 2025-10-29 · [[Themes/reliability-performance|Reliability and Performance]] · [Official source](https://cursor.com/changelog/2-0) · from [[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|New Coding Model and Agent Interface]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -107,6 +107,7 @@ type: change
 - [[Changes/Cursor/2025-10-29-team-commands|Team Commands]] · Collaboration
 - [[Changes/Cursor/2025-10-29-improved-prompt-ui|Improved Prompt UI]] · Context Window
 - [[Changes/Cursor/2025-10-29-sandboxed-terminals-admin-controls|Sandboxed Terminals: Admin Controls]] · Enterprise and Administration
+- [[Changes/Cursor/2025-10-29-notepads-have-been-deprecated|Notepads have been deprecated]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

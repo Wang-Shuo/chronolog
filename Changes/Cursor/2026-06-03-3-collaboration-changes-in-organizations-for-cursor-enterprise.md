@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c97031bb1e3c4349dcc9f17e3c4ac5f6f125c685bb07e83a8c9b00108549ef09
+machine_hash: d18d02df58efceb5e71dc2b809d39c9835690eada4b17124851d85acdf213d23
 product: cursor
 product_name: Cursor
 record:
@@ -80,6 +80,7 @@ Source: https://cursor.com/changelog/enterprise-organizations
 - [[Changes/Cursor/2026-06-03-groups-are-a-lightweight-collection-of-users-that-can-sit-across-or-within-teams|Groups]] · Collaboration
 - [[Changes/Cursor/2026-06-03-enterprise-customers-can-now-manage-multiple-cursor-teams-from-one-place-with-di|Enterprise customers can now manage multiple Cursor teams from one place…]] · Safety and Privacy
 - [[Changes/Cursor/2026-06-03-teams|Teams]] · Collaboration
+- [[Changes/Cursor/2026-06-03-2-other-changes-in-organizations-for-cursor-enterprise|2 other changes in Organizations for Cursor Enterprise]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

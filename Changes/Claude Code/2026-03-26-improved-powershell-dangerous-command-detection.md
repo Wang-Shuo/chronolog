@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3d3a3b65fe8519153dd0f19ad032e75cfc04d1e9ddf3ed33002cc079446f7bf0
+machine_hash: 3a9a4c34ef66359564dadf0ee815e6f8edc93723917b6efa0ecfef1b8d75c2c4
 product: claude-code
 product_name: Claude Code
 record:
@@ -76,6 +76,7 @@ type: change
 - [[Changes/Claude Code/2026-03-26-improved-mention-file-autocomplete-performance-on-large-repositories|Improved @-mention file autocomplete performance on large repositories]] · Interface Experience
 - [[Changes/Claude Code/2026-03-26-reduced-ui-stutter-when-compaction-triggers-on-large-sessions|Reduced UI stutter when compaction triggers on large sessions]] · Context Window
 - [[Changes/Claude Code/2026-03-26-4-apps-and-integrations-changes-in-v2-1-85|4 Apps and Integrations changes in v2.1.85]] · Apps and Integrations
+- [[Changes/Claude Code/2026-03-26-tool-parameters-in-opentelemetry-tool-result-events-are-now-gated-behind-otel-lo|tool_parameters in OpenTelemetry tool_result events are now gated behind…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

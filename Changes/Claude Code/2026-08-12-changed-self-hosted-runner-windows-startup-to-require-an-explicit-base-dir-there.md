@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 31e26a0d082602ff5108d1136f569323b0c04cdbaadd2efe6afd14d5da90f648
+machine_hash: 942b2dcca744190008958e078cf20438822045b57a264e51600f8ee3b7a53cac
 product: claude-code
 product_name: Claude Code
 record:
@@ -80,6 +80,7 @@ type: change
 - [[Changes/Claude Code/2026-08-12-changed-commit-push-pr-so-git-gh-commands-with-dangerous-flags-force-amend-no-ve|Changed /commit-push-pr so git/gh commands with dangerous flags…]] · Developer Workflow
 - [[Changes/Claude Code/2026-08-12-improved-workflow-fan-outs-to-stagger-same-prefix-sibling-agents-so-subsequent-a|Improved workflow fan-outs to stagger same-prefix sibling agents so subsequent…]] · Agent Mode
 - [[Changes/Claude Code/2026-08-12-vscode-added-session-groups-in-the-sidebar-right-click-to-create-rename-or-delet|VSCode Added session groups in the sidebar]] · Interface Experience
+- [[Changes/Claude Code/2026-08-12-4-other-changes-in-v2-1-229|4 other changes in v2.1.229]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

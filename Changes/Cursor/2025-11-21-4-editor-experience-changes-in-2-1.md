@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2cb0cae2c7c78c80e7fdb1d838c5676fb8f2ccbecf6a56e81d1704a9982b7d45
+machine_hash: 9a5bb463e72d20d089b1a2e00b671ead00259728066dd2ab8245633c59ce9f77
 product: cursor
 product_name: Cursor
 record:
@@ -89,6 +89,7 @@ Source: https://cursor.com/changelog/2-1
 - [[Changes/Cursor/2025-11-21-project-level-hooks-are-now-supported|Project level hooks are now supported]] · Apps and Integrations
 - [[Changes/Cursor/2025-11-21-2-agent-mode-changes-in-2-1|2 Agent Mode changes in 2.1]] · Agent Mode
 - [[Changes/Cursor/2025-11-21-rules-in-home-folder-cursor-rules-will-be-included-in-context|Rules in home folder (~/.cursor/rules) will be included in context]] · Context Window
+- [[Changes/Cursor/2025-11-21-4-other-changes-in-2-1|4 other changes in 2.1]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

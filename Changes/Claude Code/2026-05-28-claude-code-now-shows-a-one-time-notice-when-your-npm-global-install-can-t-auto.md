@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cc901d056aa8923a939599c20d73993827a3b16a02e1952cce52d15af07473ed
+machine_hash: adbd3d3b89ddadef1c43e3afd5971180cfaa929547f690407ade79a5c3cf5ca0
 product: claude-code
 product_name: Claude Code
 record:
@@ -81,6 +81,7 @@ type: change
 - [[Changes/Claude Code/2026-05-28-model-now-saves-your-selection-as-the-default-for-new-sessions-matching-the-ide|/model now saves your selection as the default for new sessions (matching the IDE)]] · Model Support
 - [[Changes/Claude Code/2026-05-28-3-agent-mode-changes-in-v2-1-153|3 Agent Mode changes in v2.1.153]] · Agent Mode
 - [[Changes/Claude Code/2026-05-28-status-line-commands-now-receive-columns-and-lines-environment-variables-so-scri|Status line commands now receive COLUMNS and LINES environment variables…]] · Developer Workflow
+- [[Changes/Claude Code/2026-05-28-claude-doctor-now-shows-the-result-of-your-last-update-attempt|claude doctor now shows the result of your last update attempt]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2866e07337a69a5e25af50cf837c3b2225bb8b22578a248a2b059ffabdd89942
+machine_hash: 460a4db399abbce901e05b04b2d6f12a79101a4a8704be2326faaed377a5acaf
 product: claude-code
 product_name: Claude Code
 record:
@@ -83,6 +83,7 @@ type: change
 - [[Changes/Claude Code/2026-09-18-6-apps-and-integrations-changes-in-v2-1-277|6 Apps and Integrations changes in v2.1.277]] · Apps and Integrations
 - [[Changes/Claude Code/2026-09-18-claude-code-on-the-web-changed-the-admin-claude-code-setting-labeled-web-to-clou|Claude Code on the web Changed the admin Claude Code setting labeled…]] · Mobile and Desktop
 - [[Changes/Claude Code/2026-09-18-4-agent-mode-changes-in-v2-1-277|4 Agent Mode changes in v2.1.277]] · Agent Mode
+- [[Changes/Claude Code/2026-09-18-7-other-changes-in-v2-1-277|7 other changes in v2.1.277]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

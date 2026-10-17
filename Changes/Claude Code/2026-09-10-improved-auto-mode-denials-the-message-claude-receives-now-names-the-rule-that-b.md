@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 66b135662ab2265a673d75fd47c56e129e29c1680d3cdb2f7f054ec266cc828c
+machine_hash: eb08328626fb46b6c38f1f584c77c94f887ba458afecc951fbcdd551b84e87fd
 product: claude-code
 product_name: Claude Code
 record:
@@ -84,6 +84,7 @@ type: change
 - [[Changes/Claude Code/2026-09-10-8-safety-and-privacy-changes-in-v2-1-268|8 Safety and Privacy changes in v2.1.268]] · Safety and Privacy
 - [[Changes/Claude Code/2026-09-10-7-apps-and-integrations-changes-in-v2-1-268|7 Apps and Integrations changes in v2.1.268]] · Apps and Integrations
 - [[Changes/Claude Code/2026-09-10-2-model-support-changes-in-v2-1-268|2 Model Support changes in v2.1.268]] · Model Support
+- [[Changes/Claude Code/2026-09-10-9-other-changes-in-v2-1-268|9 other changes in v2.1.268]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

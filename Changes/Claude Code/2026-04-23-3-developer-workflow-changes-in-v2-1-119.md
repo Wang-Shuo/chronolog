@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8102dd5cbed7d557798c4f373c1ecc578d024f470099f16521847c3e0275e5cc
+machine_hash: ad4a133f10cc18066c29cef766494dfc949191537c06eef9f429497bcc8cda47
 product: claude-code
 product_name: Claude Code
 record:
@@ -87,6 +87,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.119
 - [[Changes/Claude Code/2026-04-23-config-settings-theme-editor-mode-verbose-etc-now-persist-to-claude-settings-jso|/config settings (theme, editor mode, verbose, etc.) now persist…]] · Editor Experience
 - [[Changes/Claude Code/2026-04-23-2-agent-mode-changes-in-v2-1-119|2 Agent Mode changes in v2.1.119]] · Agent Mode
 - [[Changes/Claude Code/2026-04-23-4-safety-and-privacy-changes-in-v2-1-119|4 Safety and Privacy changes in v2.1.119]] · Safety and Privacy
+- [[Changes/Claude Code/2026-04-23-3-other-changes-in-v2-1-119|3 other changes in v2.1.119]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

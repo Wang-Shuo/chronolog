@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: a1e3d3c32884014386ad411d830f5f5a149b9677dd3cdedbb82ee51558ed3408
+machine_hash: 2058df1aa55756c757567cf457f33ab44b7d1f746a5adac49148dd57332bbd45
 product: claude-code
 product_name: Claude Code
 record:
@@ -88,6 +88,7 @@ type: change
 - [[Changes/Claude Code/2026-06-22-bash-commands-now-trigger-claude-to-respond-to-the-output-automatically-set-resp|! bash commands now trigger Claude to respond to the output automatically]] · Context Window
 - [[Changes/Claude Code/2026-06-22-2-agent-mode-changes-in-v2-1-186|2 Agent Mode changes in v2.1.186]] · Agent Mode
 - [[Changes/Claude Code/2026-06-22-2-account-and-access-changes-in-v2-1-186|2 Account and Access changes in v2.1.186]] · Account and Access
+- [[Changes/Claude Code/2026-06-22-3-other-changes-in-v2-1-186|3 other changes in v2.1.186]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

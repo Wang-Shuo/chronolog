@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fee8f55a8faf8283a151c5180148b3f1e1504e0cb68de7701a71f9df78b218a7
+machine_hash: 698e0ea397ca9102fb66d2c6be1b65484fe92011f620b82f8d616b350d1d2040
 product: cursor
 product_name: Cursor
 record:
@@ -112,6 +112,7 @@ Source: https://cursor.com/changelog/1-7
 - [[Changes/Cursor/2025-09-29-image-file-support-for-agent|Image file support for Agent]] · Agent Mode
 - [[Changes/Cursor/2025-09-29-1-7-45-model-picker-ux|1.7.45: Model picker UX]] · Interface Experience
 - [[Changes/Cursor/2025-09-29-1-7-41-token-sync-improvements-for-authentication|1.7.41: Token sync improvements for authentication]] · Account and Access
+- [[Changes/Cursor/2025-09-29-15-other-changes-in-1-7|15 other changes in 1.7]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

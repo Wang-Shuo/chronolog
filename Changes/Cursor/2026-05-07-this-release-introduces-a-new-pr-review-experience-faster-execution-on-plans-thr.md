@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 717ca496cb192ec25e68f6c2d2198afeb1d261701eb2d4137dbd0b6ab4ff57bb
+machine_hash: bb747002201f73d2ab582144b21f7804b3b77ea4ad476267f2b14ce1c0547204
 product: cursor
 product_name: Cursor
 record:
@@ -90,6 +90,7 @@ type: change
 - [[Changes/Cursor/2026-05-07-multitask-is-now-available-in-the-editor-for-running-async-subagents-to-parallel|/multitask is now available in the editor for running async subagents to parallelize…]] · Editor Experience
 - [[Changes/Cursor/2026-05-07-build-in-parallel-from-plans|Build in parallel from plans]] · Reliability and Performance
 - [[Changes/Cursor/2026-05-07-added-support-for-general-model-names-for-subagent-configuration-i-e-set-model-o|Added support for general model names for subagent configuration (i.e., set model]] · Model Support
+- [[Changes/Cursor/2026-05-07-improved-long-chat-handling-and-reduced-jumpiness-and-other-surprising-behaviors|Improved long-chat handling and reduced jumpiness and other surprising behaviors]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

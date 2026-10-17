@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 24fa35901c79bb658c2985b9a921bcbdbf75085eaf767b423e6b43e60f26c82b
+machine_hash: 3d8ad66ffebcb389e071e20ac7160e04db6c2b5248dddacd36943439ac52d283
 product: claude-code
 product_name: Claude Code
 record:
@@ -94,6 +94,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.221
 - [[Changes/Claude Code/2026-08-04-3-developer-workflow-changes-in-v2-1-221|3 Developer Workflow changes in v2.1.221]] · Developer Workflow
 - [[Changes/Claude Code/2026-08-04-changed-fast-mode-to-report-on-the-stream-when-usage-credits-run-out-mid-session|Changed fast mode to report on the stream when usage credits run out mid-session…]] · Pricing Model
 - [[Changes/Claude Code/2026-08-04-7-safety-and-privacy-changes-in-v2-1-221|7 Safety and Privacy changes in v2.1.221]] · Safety and Privacy
+- [[Changes/Claude Code/2026-08-04-3-other-changes-in-v2-1-221|3 other changes in v2.1.221]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

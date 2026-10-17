@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1d66ab3a3402a7e4f9f02c46e024bc1b28c2eff0cd7450387214d4a24007ed0c
+machine_hash: ddd5e975c063787bcaf5f829af213b604ab671210b10b8159a027bde75154d3d
 product: claude-code
 product_name: Claude Code
 record:
@@ -76,6 +76,7 @@ type: change
 - [[Changes/Claude Code/2026-05-04-6-apps-and-integrations-changes-in-v2-1-128|6 Apps and Integrations changes in v2.1.128]] · Apps and Integrations
 - [[Changes/Claude Code/2026-05-04-updated-model-picker-collapsed-duplicate-opus-4-7-entries-and-current-opus-now-s|Updated /model picker]] · Model Support
 - [[Changes/Claude Code/2026-05-04-channels-now-works-with-console-api-key-authentication-console-orgs-with-managed|--channels now works with console (API key) authentication]] · Account and Access
+- [[Changes/Claude Code/2026-05-04-enterworktree-now-creates-the-new-branch-from-local-head-as-documented-instead-o|EnterWorktree now creates the new branch from local HEAD as documented, instead…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b95ffa1730b40698481e883ca645619f87c1f76261df018e2bc5f0493389ca40
+machine_hash: 9836248b5d967270ea168cec9634415dbdc425dea9e0787bf3535aabf40be546
 product: cursor
 product_name: Cursor
 record:
@@ -89,6 +89,7 @@ type: change
 - [[Changes/Cursor/2025-02-19-agent-tool-limit-upon-reaching-the-25-tool-call-limit-you-can-press-continue-to|Agent tool limit]] · Agent Mode
 - [[Changes/Cursor/2025-02-19-web-search-agent-can-now-automatically-search-the-web-for-up-to-date-information|Web search: Agent can now automatically search the web for up-to-date information…]] · Search and Browsing
 - [[Changes/Cursor/2025-02-19-2-interface-experience-changes-in-0-46-x|2 Interface Experience changes in 0.46.x]] · Interface Experience
+- [[Changes/Cursor/2025-02-19-2-other-changes-in-0-46-x|2 other changes in 0.46.x]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

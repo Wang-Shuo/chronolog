@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0045c5d39c004ab0e44d15abeed7d7b35169e1f5090d8dedbdb27ecc5ce0a74e
+machine_hash: 7b6587a6b670110c90f8de555354326e58b127f0ac4b2f84b7e4e150898a6833
 product: claude-code
 product_name: Claude Code
 record:
@@ -87,6 +87,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.139
 - [[Changes/Claude Code/2026-05-11-vscode-press-cmd-ctrl-shift-t-to-reopen-the-most-recently-closed-session-tab-con|VSCode Press Cmd/Ctrl+Shift+T to reopen the most recently closed session tab…]] · Editor Experience
 - [[Changes/Claude Code/2026-05-11-added-scroll-speed-command-to-tune-mouse-wheel-scroll-speed-with-a-live-preview|Added /scroll-speed command to tune mouse wheel scroll speed with a live preview]] · Reliability and Performance
 - [[Changes/Claude Code/2026-05-11-added-transcript-view-navigation-for-keyboard-shortcuts-to-jump-between-user-pro|Added transcript view navigation]] · Interface Experience
+- [[Changes/Claude Code/2026-05-11-added-hook-continueonblock-config-option-for-posttooluse-set-to-true-to-feed-the|Added hook continueOnBlock config option for PostToolUse]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

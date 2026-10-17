@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 8a27e52cd0d1d8046351611f2abb2eb7a82ba543d451e3f8807367a035131b69
+machine_hash: f976e9ecd63ce0133b31ada4d00bc2bf5b34770f6e730c28b08f7f0e5df29aa6
 product: cursor
 product_name: Cursor
 record:
@@ -95,6 +95,7 @@ type: change
 - [[Changes/Cursor/2026-05-07-build-in-parallel-from-plans|Build in parallel from plans]] · Reliability and Performance
 - [[Changes/Cursor/2026-05-07-this-release-introduces-a-new-pr-review-experience-faster-execution-on-plans-thr|Cursor introduces a new PR review experience, faster execution on plans through…]] · Developer Workflow
 - [[Changes/Cursor/2026-05-07-added-support-for-general-model-names-for-subagent-configuration-i-e-set-model-o|Added support for general model names for subagent configuration (i.e., set model]] · Model Support
+- [[Changes/Cursor/2026-05-07-improved-long-chat-handling-and-reduced-jumpiness-and-other-surprising-behaviors|Improved long-chat handling and reduced jumpiness and other surprising behaviors]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

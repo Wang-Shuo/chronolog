@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8f1f559d4cd396e6eae67682eb464f3745fa87df3faad49d5d931b205ee98bba
+machine_hash: 538467f7ed400ebea67bccae6bace15ac57f1b21d41aa87cdf6960b3e12eac06
 product: claude-code
 product_name: Claude Code
 record:
@@ -88,6 +88,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.193
 - [[Changes/Claude Code/2026-06-25-added-claude-code-assistant-response-opentelemetry-log-event-containing-the-mode|Added claude_code.assistant_response OpenTelemetry log event containing…]] · Model Support
 - [[Changes/Claude Code/2026-06-25-added-a-startup-notice-when-mcp-servers-need-authentication-pointing-at-mcp|Added a startup notice when MCP servers need authentication, pointing at /mcp]] · Account and Access
 - [[Changes/Claude Code/2026-06-25-added-automatic-memory-pressure-reaping-for-idle-background-shell-commands-disab|Added automatic memory-pressure reaping for idle background shell commands…]] · Reliability and Performance
+- [[Changes/Claude Code/2026-06-25-improved-add-dir-message-when-the-directory-is-already-a-working-directory|Improved /add-dir message when the directory is already a working directory]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

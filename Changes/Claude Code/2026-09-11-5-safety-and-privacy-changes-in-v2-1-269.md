@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 02881242becce424a7f8924600cb0c39127e88e8ec2cafd0a684978cd90fc8f3
+machine_hash: e82b90d118d09a52f2d52b83db2d7563f792acc0fb83e9177c07665c6c318bb7
 product: claude-code
 product_name: Claude Code
 record:
@@ -105,6 +105,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.269
 - [[Changes/Claude Code/2026-09-11-3-editor-experience-changes-in-v2-1-269|3 Editor Experience changes in v2.1.269]] · Editor Experience
 - [[Changes/Claude Code/2026-09-11-added-claude-code-gateway-model-discovery-timeout-ms-to-extend-the-llm-gateway-v|Added CLAUDE_CODE_GATEWAY_MODEL_DISCOVERY_TIMEOUT_MS to extend the LLM gateway…]] · Model Support
 - [[Changes/Claude Code/2026-09-11-2-agent-mode-changes-in-v2-1-269|2 Agent Mode changes in v2.1.269]] · Agent Mode
+- [[Changes/Claude Code/2026-09-11-11-other-changes-in-v2-1-269|11 other changes in v2.1.269]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: af655af2d0aae1fceb1efc0b0ac79775279dd126f29e7d8461360fe78b3ba1c2
+machine_hash: 96138d8e77776a733fb0f3fe294b716be9c62852e98fef556bb676705ce625fb
 product: cursor
 product_name: Cursor
 record:
@@ -100,6 +100,7 @@ type: change
 - [[Changes/Cursor/2024-12-17-agent-sees-terminal-exit-codes-can-run-commands-in-the-background-and-commands-a-4f6044|Agent sees terminal exit codes, can run commands in the background, and commands…]] · Developer Workflow
 - [[Changes/Cursor/2024-12-17-cursor-starts-up-faster|Cursor starts up faster]] · Reliability and Performance
 - [[Changes/Cursor/2024-12-17-cheaper-and-faster-bug-finding-model|Cheaper and faster Bug Finding Model]] · Reliability and Performance
+- [[Changes/Cursor/2024-12-17-composer-no-longer-looks-at-files-that-were-deleted|Composer no longer looks at files that were deleted]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

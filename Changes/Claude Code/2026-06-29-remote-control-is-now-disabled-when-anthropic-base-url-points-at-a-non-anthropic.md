@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0466c6d50e7da919003fff1fc7209a3a68dd47c156188863772c37f3f9a73c3a
+machine_hash: 930b17f0788c1e136f042ad74c76cc8671156a905f7200ef26452f8525b2a46f
 product: claude-code
 product_name: Claude Code
 record:
@@ -80,6 +80,7 @@ type: change
 - [[Changes/Claude Code/2026-06-29-added-clickable-file-attachments-in-chat-cmd-ctrl-click-reveals-the-file-in-find|Added clickable file attachments in chat]] · Files and Data
 - [[Changes/Claude Code/2026-06-29-security-claude-mcp-list-get-no-longer-spawn-mcp-json-servers-that-a-repo-self-a|Security: claude mcp list/get no longer spawn .mcp.json servers that a repo…]] · Safety and Privacy
 - [[Changes/Claude Code/2026-06-29-improved-background-session-reliability-long-running-commands-and-workflows-now|Improved background session reliability]] · Mobile and Desktop
+- [[Changes/Claude Code/2026-06-29-the-streaming-idle-watchdog-is-now-on-by-default-for-all-providers-it-aborts-and|The streaming idle watchdog is now on by default for all providers]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

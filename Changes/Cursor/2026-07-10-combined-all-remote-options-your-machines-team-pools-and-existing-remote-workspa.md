@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1f2f26aa9fa8f0827cde0047cc41573ca40a045db93ae8a3b18bd446316d85ed
+machine_hash: 8de15749949b69dfe4602426fde6f4a5c9c097f9e64136a560549f5315d50978
 product: cursor
 product_name: Cursor
 record:
@@ -87,6 +87,7 @@ type: change
 - [[Changes/Cursor/2026-07-10-6-interface-experience-changes-in-side-chats-and-conversation-search|6 Interface Experience changes in Side Chats and Conversation Search]] · Interface Experience
 - [[Changes/Cursor/2026-07-10-this-release-makes-it-easier-to-stay-in-flow-with-side-chats-that-run-alongside|Cursor makes it easier to stay in flow with side chats that run alongside your main…]] · Agent Mode
 - [[Changes/Cursor/2026-07-10-redesigned-project-and-repo-pickers|Redesigned project and repo pickers]] · Interface Experience
+- [[Changes/Cursor/2026-07-10-6-other-changes-in-side-chats-and-conversation-search|6 other changes in Side Chats and Conversation Search]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

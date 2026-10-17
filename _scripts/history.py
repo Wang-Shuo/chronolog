@@ -93,7 +93,7 @@ def historical_source_summary(summary: str) -> str:
     """Official summary text of a Release ``summary`` region, without generated lines."""
     text = re.split(r"\n\n(?:\[Official release notes\]|Tracked )", summary, maxsplit=1)[0].strip()
     # A generated fallback is not an official summary; the writer recomputes it.
-    if re.match(r"^(?:\d+ tracked changes? across |No change cards extracted\.$)", text):
+    if re.match(r"^(?:\d+ tracked changes?(?: across |, all in )|No change cards extracted\.$)", text):
         return ""
     return text
 

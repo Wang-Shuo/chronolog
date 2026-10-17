@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: aaa70d8453a4e405325a3cf446e864a1a4f6d86e44c9e27dd6ba939ad1e22207
+machine_hash: 3d4d3e8d215c89244d87fb3362986a31c787c57ce02abfa0e317b13ade8cbcbe
 product: claude-code
 product_name: Claude Code
 record:
@@ -80,6 +80,7 @@ type: change
 - [[Changes/Claude Code/2026-05-15-2-developer-workflow-changes-in-v2-1-143|2 Developer Workflow changes in v2.1.143]] · Developer Workflow
 - [[Changes/Claude Code/2026-05-15-2-agent-mode-changes-in-v2-1-143|2 Agent Mode changes in v2.1.143]] · Agent Mode
 - [[Changes/Claude Code/2026-05-15-added-projected-context-cost-per-turn-and-per-invocation-token-estimates-to-the|Added projected context cost (per-turn and per-invocation token estimates)…]] · Pricing Model
+- [[Changes/Claude Code/2026-05-15-claude-bg-dangerously-skip-permissions-now-persists-across-retire-wake|claude --bg --dangerously-skip-permissions now persists across retire→wake]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

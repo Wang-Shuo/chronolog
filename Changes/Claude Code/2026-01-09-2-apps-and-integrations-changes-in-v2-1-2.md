@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 53670f2790dbd86939ca8c675f13c166ad7547e017c070bf19a59755b4e6e609
+machine_hash: 1b2be743a5031eebebb6ca3bd7b540d15e5f428b3032a92b829e149a7f7e07f0
 product: claude-code
 product_name: Claude Code
 record:
@@ -81,6 +81,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.2
 - [[Changes/Claude Code/2026-01-09-added-shift-tab-keyboard-shortcut-in-plan-mode-to-quickly-select-auto-accept-edi|Added Shift+Tab keyboard shortcut in plan mode to quickly select…]] · Interface Experience
 - [[Changes/Claude Code/2026-01-09-3-developer-workflow-changes-in-v2-1-2|3 Developer Workflow changes in v2.1.2]] · Developer Workflow
 - [[Changes/Claude Code/2026-01-09-added-agent-type-to-sessionstart-hook-input-populated-if-agent-is-specified|Added agent_type to SessionStart hook input, populated if --agent is specified]] · Agent Mode
+- [[Changes/Claude Code/2026-01-09-4-other-changes-in-v2-1-2|4 other changes in v2.1.2]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

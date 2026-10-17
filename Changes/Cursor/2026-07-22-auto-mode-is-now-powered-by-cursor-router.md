@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 00e133489aa9ca5bdf4249af5b5b44b06f37766515249d1855fc20a9b4826dbf
+machine_hash: 6820635d09fc508dbb0aec5920a73470c0e14a0f37776cd347f469367c1a677f
 product: cursor
 product_name: Cursor
 record:
@@ -74,6 +74,7 @@ type: change
 - [[Changes/Cursor/2026-07-22-2-pricing-model-changes-in-cursor-router|2 Pricing Model changes in Cursor Router]] · Pricing Model
 - [[Changes/Cursor/2026-07-22-routed-model-can-be-displayed-or-hidden-hidden-by-default|Routed model can be displayed or hidden (hidden by default)]] · Model Support
 - [[Changes/Cursor/2026-07-22-optimization-modes-e62142|Optimization modes]] · Model Support
+- [[Changes/Cursor/2026-07-22-2-other-changes-in-cursor-router|2 other changes in Cursor Router]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

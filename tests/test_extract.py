@@ -852,7 +852,7 @@ LIST_BODY = "\n".join([
 ])
 
 
-def test_list_mode_builds_digests_standalone_announcements_and_pending_lines():
+def test_list_mode_builds_digests_standalone_announcements_and_other_changes():
     cards = w2_cards(LIST_BODY, product="claude-code", source_type="github_releases",
                      title="v2.1.300", version="v2.1.300")
     by_kind = {}
@@ -873,8 +873,12 @@ def test_list_mode_builds_digests_standalone_announcements_and_pending_lines():
     # A single line of a theme is an ordinary card, not a digest of one.
     model = next(card for card in cards if card["theme"] == "model-support")
     assert model["kind"] != "digest" and len(model["evidence"]) == 1
-    pending = [card for card in cards if card["theme"] == "__candidate__"]
-    assert [quotes(card) for card in pending] == [["Added new quasar renderer for geometric palettes"]]
+    # The one line without a theme is an ordinary card of the holding theme, not queued.
+    assert not [card for card in cards if card["theme"] == "__candidate__"]
+    other = [card for card in cards if card["theme"] == "uncategorized"]
+    assert [(quotes(card), card["kind"]) for card in other] == [
+        (["Added new quasar renderer for geometric palettes"], "change")]
+    assert other[0]["title"] == "Added new quasar renderer for geometric palettes"
     assert not any("Fixed a crash" in quote for card in cards for quote in quotes(card))
     themes = set(load_theme_vocabulary("_scripts/themes.yaml"))
     assert all(validate_card(card, themes) == [] for card in cards)
@@ -1091,3 +1095,132 @@ def test_cursor_digest_title_uses_the_version_from_the_changelog_url():
                "source_url": "https://cursor.com/changelog/0-48-x"}
     card = extract_cards_from_release(release, load_theme_vocabulary("_scripts/themes.yaml"))[0]
     assert card["title"] == "3 Agent Mode changes in 0.48.x"
+
+
+# W2 PR 2: holding theme ("Other changes") for list lines without a theme; kind headings.
+
+OTHER_LINES = [
+    "Added new quasar renderer for geometric palettes",
+    "Changed the zephyr gauge to round half values up",
+    "Improved nebula glyph spacing in narrow panes",
+]
+OTHER_LIST = "## What's changed\n" + "\n".join(f"- {line}" for line in OTHER_LINES)
+
+
+def other_release(body: str = OTHER_LIST):
+    return structured_release(body, product="claude-code", source_type="github_releases",
+                              title="v2.1.300", version="v2.1.300")
+
+
+def test_list_lines_without_a_theme_form_one_other_changes_digest_per_release():
+    body = (OTHER_LIST + "\n- Introducing quasar palettes for every gauge"
+            "\n- Agent can now run shell commands after approval")
+    themes = load_theme_vocabulary("_scripts/themes.yaml")
+    cards = extract_cards_from_release(other_release(body), themes)
+
+    assert not [card for card in cards if card["theme"] == "__candidate__"]
+    other = [card for card in cards if card["theme"] == "uncategorized"]
+    digest = next(card for card in other if card["kind"] == "digest")
+    assert digest["title"] == "3 other changes in v2.1.300"
+    assert quotes(digest) == OTHER_LINES
+    assert digest["description"] == "Claude Code — v2.1.300: 3 other changes"
+    assert digest["card_id"] == card_id_for(
+        "claude-code", "2026-06-01", "\n".join(OTHER_LINES), source_release=digest["source_release"])
+    # A high-signal line without a theme stays a standalone card of the holding theme.
+    standalone = [card for card in other if card["kind"] != "digest"]
+    assert [(quotes(card), card["kind"]) for card in standalone] == [
+        (["Introducing quasar palettes for every gauge"], "launch")]
+    assert {card["theme"] for card in cards} == {"uncategorized", "agent-mode"}
+    assert all(validate_card(card, set(themes)) == [] for card in cards)
+
+
+def test_holding_theme_is_assigned_by_structure_never_by_words():
+    from _scripts.extract import line_classification
+    themes = load_theme_vocabulary("_scripts/themes.yaml")
+
+    assert themes["uncategorized"]["display_name"] == "Other changes"
+    assert themes["uncategorized"]["terms"] == set()
+    line = "Other changes to the uncategorized quasar list"
+    assert line_classification(line, themes)["theme"] == "__candidate__"
+    # Without a holding theme in the vocabulary, list lines wait for review as before.
+    official = {slug: theme for slug, theme in themes.items() if theme["status"] == "official"}
+    cards = extract_cards_from_release(other_release(), official)
+    assert [card["theme"] for card in cards] == ["__candidate__"] * 3
+
+
+def test_prose_feature_sections_and_short_lists_without_a_theme_still_wait_for_review():
+    body = ("New quasar renderer for geometric palettes.\n"
+            "#Zephyr gauges\nGauges now round half values up.")
+    prose = w2_cards(body, title="Quasar update")
+    assert [(card["theme"], quotes(card)) for card in prose] == [
+        ("__candidate__", ["New quasar renderer for geometric palettes."]),
+        ("__candidate__", ["Gauges now round half values up."]),
+    ]
+    short_list = w2_cards("- Quasar renderer draws geometric palettes\n"
+                          "- Zephyr gauges round half values up",
+                          product="chatgpt", source_type="chatgpt_changelog", title="Quasar update")
+    assert [card["theme"] for card in short_list] == ["__candidate__"] * 2
+
+
+def test_review_decisions_cannot_name_the_holding_theme(tmp_path: Path):
+    review = tmp_path / "review.yaml"
+    review.write_text("decisions:\n  card-1: uncategorized\n", encoding="utf-8")
+
+    with pytest.raises(ValueError, match="unknown themes in semantic review: uncategorized"):
+        load_review_decisions(review, load_theme_vocabulary("_scripts/themes.yaml"))
+
+
+def test_card_decision_moves_an_other_changes_digest_into_an_official_theme():
+    themes = load_theme_vocabulary("_scripts/themes.yaml")
+    digest = extract_cards_from_release(other_release(), themes)[0]
+
+    moved = extract_cards_from_release(other_release(), themes,
+                                       {digest["card_id"]: "interface-experience"})[0]
+
+    assert moved["card_id"] == digest["card_id"]
+    assert moved["theme"] == "interface-experience"
+    assert moved["title"] == "3 Interface Experience changes in v2.1.300"
+
+
+@pytest.mark.parametrize(("heading", "kind"), [
+    ("Improved Code Review", "change"),
+    ("Improvement to long sessions", "change"),
+    ("Improvements for agent planning", "change"),
+    ("Improving tab completions", "change"),
+    ("Better context for agents", "change"),
+    ("Faster indexing", "change"),
+    ("Updated model picker", "change"),
+    ("Update to Bugbot", "change"),
+    ("Updates to the agent panel", "change"),
+    ("Fixed agent restarts", "fix"),
+    ("Fix for terminal hangs", "fix"),
+    ("Fixes in the agent panel", "fix"),
+    ("Background Agent", "launch"),
+    ("Betterment of plans", "launch"),
+    ("Upgraded terminal", "launch"),
+])
+def test_feature_heading_names_an_improvement_or_a_fix(heading, kind):
+    from _scripts.extract import card_kind
+    assert card_kind([heading, "Agents now plan before they edit."], "agent-mode", feature=True) == kind
+
+
+def test_improvement_heading_outranks_launch_wording_of_its_section():
+    from _scripts.extract import card_kind
+    assert card_kind(["Improved Code Review", "Code review is now available to every team."],
+                     "developer-workflow", feature=True) == "change"
+    assert card_kind(["Code Review", "Code review is now available to every team."],
+                     "developer-workflow", feature=True) == "launch"
+    card = w2_cards("#Faster indexing\nIndexing large repositories now takes half the time.")[0]
+    assert (card["title"], card["kind"]) == ("Faster indexing", "change")
+
+
+def test_patch_version_bug_fix_lines_are_skipped_rather_than_published_as_other_changes():
+    # Cursor patch groups list "1.7.13: Bug fixes"; with no theme they would otherwise
+    # land in the release's Other changes digest.
+    body = ("Patches (4)↓↑\n1.7.13: Bug fixes\n2.0.1-2.0.28: Bug fixes\n"
+            "1.7.21: Screenshot fixes\n1.7.14: Plan mode improvements and interactive todos")
+    cards = w2_cards(body)
+
+    assert [quotes(card) for card in cards] == [
+        ["1.7.21: Screenshot fixes", "1.7.14: Plan mode improvements and interactive todos"]]
+    assert cards[0]["theme"] == "uncategorized"

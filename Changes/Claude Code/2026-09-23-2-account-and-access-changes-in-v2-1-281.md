@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e7e59f772c86eeae438c5403ffc8af72a95cb7825927c19b27937c11f4adf6fb
+machine_hash: 916a5c2e12b3ae6eaadc4644364b263fa9a98f318949b40f577e10a96a15fd12
 product: claude-code
 product_name: Claude Code
 record:
@@ -87,6 +87,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.281
 - [[Changes/Claude Code/2026-09-23-18-apps-and-integrations-changes-in-v2-1-281|18 Apps and Integrations changes in v2.1.281]] · Apps and Integrations
 - [[Changes/Claude Code/2026-09-23-12-safety-and-privacy-changes-in-v2-1-281|12 Safety and Privacy changes in v2.1.281]] · Safety and Privacy
 - [[Changes/Claude Code/2026-09-23-improved-screen-reader-output-in-mcp-a-disabled-server-is-read-as-off-instead-of|Improved screen-reader output in /mcp]] · Accessibility and Localization
+- [[Changes/Claude Code/2026-09-23-13-other-changes-in-v2-1-281|13 other changes in v2.1.281]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

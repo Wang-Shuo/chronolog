@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 808230f6027d88445a5b9e2ca082b6afa34a207877766b6f28a4c7c7f3b73bb1
+machine_hash: aba6b3b07793c102237d08bd843ca0b2285cd934170822adafc5ab4c448f6619
 product: claude-code
 product_name: Claude Code
 record:
@@ -96,6 +96,7 @@ type: change
 - [[Changes/Claude Code/2026-04-16-2-developer-workflow-changes-in-v2-1-111|2 Developer Workflow changes in v2.1.111]] · Developer Workflow
 - [[Changes/Claude Code/2026-04-16-2-safety-and-privacy-changes-in-v2-1-111|2 Safety and Privacy changes in v2.1.111]] · Safety and Privacy
 - [[Changes/Claude Code/2026-04-16-auto-mode-no-longer-requires-enable-auto-mode|Auto mode no longer requires --enable-auto-mode]] · Agent Mode
+- [[Changes/Claude Code/2026-04-16-6-other-changes-in-v2-1-111|6 other changes in v2.1.111]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

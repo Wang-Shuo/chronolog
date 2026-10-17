@@ -1,10 +1,10 @@
 ---
-changes_count: 5
+changes_count: 6
 date: '2026-05-11'
-description: 'Cursor release Bugbot Effort Levels on 2026-05-11: 5 tracked changes
+description: 'Cursor release Bugbot Effort Levels on 2026-05-11: 6 tracked changes
   across Model Support, Enterprise and Administration, Pricing Model, Reliability
   and…'
-machine_hash: 1f8704c2986416428a2675f1d2b694e12e4585e34c8f31db2ce0cd1800857b4f
+machine_hash: 78a44aa92536ad6d0ce87058dcecb1e5b22cbefa27f7d38d205e26906dfbaca5
 product: cursor
 product_name: Cursor
 record:
@@ -40,7 +40,7 @@ version: Bugbot Effort Levels
 <!-- chronolog:begin region="summary" -->
 Teams admins and Individual plan users can now customize the effort level Bugbot uses for its PR reviews, with three different configurations:
 
-Tracked 5 cards from 8 candidate lines; 2 lines pending review.
+Tracked 6 cards from 8 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
@@ -50,4 +50,5 @@ Tracked 5 cards from 8 candidate lines; 2 lines pending review.
 - [[Changes/Cursor/2026-05-11-teams-admins-and-individual-plan-users-can-now-customize-the-effort-level-bugbot|Teams admins and Individual plan users can now customize the effort level Bugbot…]] · Enterprise and Administration
 - [[Changes/Cursor/2026-05-11-customers-must-be-on-usage-based-billing-for-bugbot-to-customize-effort-levels-l|Customers must be on usage-based billing for Bugbot to customize effort levels]] · Pricing Model · Pricing
 - [[Changes/Cursor/2026-05-11-default-bugbot-continues-to-use-the-same-effort-level-as-it-does-today-optimized|Default: Bugbot continues to use the same effort level as it does today]] · Reliability and Performance
+- [[Changes/Cursor/2026-05-11-2-other-changes-in-05-11-26|2 other changes in 05.11.26]] · Other changes · Digest
 <!-- chronolog:end -->

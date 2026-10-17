@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cfe9d3d9c7654267b29b87119affda1642689c149a71c4f052fc375b465f0e3f
+machine_hash: c5199ec318a3b45666a872b10795acb404bc72063490350bfacba976021191fc
 product: cursor
 product_name: Cursor
 record:
@@ -86,6 +86,7 @@ type: change
 - [[Changes/Cursor/2025-07-29-2-safety-and-privacy-changes-in-1-3|2 Safety and Privacy changes in 1.3]] · Safety and Privacy
 - [[Changes/Cursor/2025-07-29-2-reliability-and-performance-changes-in-1-3|2 Reliability and Performance changes in 1.3]] · Reliability and Performance
 - [[Changes/Cursor/2025-07-29-2-developer-workflow-changes-in-1-3|2 Developer Workflow changes in 1.3]] · Developer Workflow
+- [[Changes/Cursor/2025-07-29-3-other-changes-in-1-3|3 other changes in 1.3]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

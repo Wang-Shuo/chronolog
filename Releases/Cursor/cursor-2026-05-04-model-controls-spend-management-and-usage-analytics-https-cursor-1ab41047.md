@@ -3,7 +3,7 @@ changes_count: 4
 date: '2026-05-04'
 description: 'Cursor release Model controls, spend management, and usage analytics
   on 2026-05-04: 4 tracked changes across Enterprise and Administration, Editor Experience…'
-machine_hash: 56ddc955e1604d222dd8b19e54b2d67e4996233481565bdcf35c26d5b01c946e
+machine_hash: fa800a6ff3ee2c5389893bf8829732d5361faa6a55a2a29e49d68eb0a149da1b
 product: cursor
 product_name: Cursor
 record:
@@ -45,7 +45,7 @@ Tracked 4 cards from 9 candidate lines.
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
 - [[Changes/Cursor/2026-05-04-this-release-introduces-updates-for-enterprise-admins-a-new-system-for-model-con|Cursor introduces updates for Enterprise admins]] · Enterprise and Administration · Launch
-- [[Changes/Cursor/2026-05-04-updated-usage-analytics-tab|Updated usage analytics tab]] · Editor Experience · Launch
+- [[Changes/Cursor/2026-05-04-updated-usage-analytics-tab|Updated usage analytics tab]] · Editor Experience
 - [[Changes/Cursor/2026-05-04-soft-spend-limits-and-intelligent-alerts|Soft spend limits and intelligent alerts]] · Enterprise and Administration · Launch
 - [[Changes/Cursor/2026-05-04-model-access-controls-d2ba4f|Model access controls]] · Model Support · Launch
 <!-- chronolog:end -->

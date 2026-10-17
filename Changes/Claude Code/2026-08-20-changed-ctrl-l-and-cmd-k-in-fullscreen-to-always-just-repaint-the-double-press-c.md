@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 22f9e0c0843c29caf996f38539e40c0a6e1419b7c1533ce05fa50f3f6def1a8b
+machine_hash: dcf2f5e106d2ddc3660a64dc14679bbbeb2f2ac7286de71ee98064189a44d8a1
 product: claude-code
 product_name: Claude Code
 record:
@@ -89,6 +89,7 @@ type: change
 - [[Changes/Claude Code/2026-08-20-improved-startup-bare-claude-starts-sooner-on-macos|Improved startup: bare claude starts sooner on macOS]] · Mobile and Desktop
 - [[Changes/Claude Code/2026-08-20-3-safety-and-privacy-changes-in-v2-1-238|3 Safety and Privacy changes in v2.1.238]] · Safety and Privacy
 - [[Changes/Claude Code/2026-08-20-improved-startup-responsiveness-the-automatic-update-check-now-runs-about-10-sec|Improved startup responsiveness]] · Reliability and Performance
+- [[Changes/Claude Code/2026-08-20-3-other-changes-in-v2-1-238|3 other changes in v2.1.238]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

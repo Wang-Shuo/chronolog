@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d04d375c17bbd8e4500912f9f6ccbde7f608dfe10f9a177773cfae94fd187472
+machine_hash: 31e32e04818c3cbddff52e12cbb8daf76b79f79d4247b9178590ee6114320cb0
 product: claude-code
 product_name: Claude Code
 record:
@@ -89,6 +89,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.238
 - [[Changes/Claude Code/2026-08-20-improved-startup-bare-claude-starts-sooner-on-macos|Improved startup: bare claude starts sooner on macOS]] · Mobile and Desktop
 - [[Changes/Claude Code/2026-08-20-improved-startup-responsiveness-the-automatic-update-check-now-runs-about-10-sec|Improved startup responsiveness]] · Reliability and Performance
 - [[Changes/Claude Code/2026-08-20-changed-ctrl-l-and-cmd-k-in-fullscreen-to-always-just-repaint-the-double-press-c|Changed Ctrl+L and Cmd+K in fullscreen to always just repaint]] · Interface Experience
+- [[Changes/Claude Code/2026-08-20-3-other-changes-in-v2-1-238|3 other changes in v2.1.238]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

@@ -1,9 +1,9 @@
 ---
-changes_count: 14
+changes_count: 15
 date: '2025-06-04'
 description: 'Cursor release Bugbot, Background Agent access to everyone, and one-click
-  MCP install on 2025-06-04: 14 tracked changes across Agent Mode, Account and Access…'
-machine_hash: 64424360e55d0adeb33fe699e1e4b9dbc5d291315b88d613794b16b2b72fb94d
+  MCP install on 2025-06-04: 15 tracked changes across Agent Mode, Account and Access…'
+machine_hash: 52752bcbe177fcde44a7db5c091972ea841b691c029ec88ec11a471a05329c70
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ version: '1.0'
 <!-- chronolog:begin region="summary" -->
 Cursor 1.0 is here!
 
-Tracked 14 cards from 32 candidate lines; 3 lines pending review.
+Tracked 15 cards from 32 candidate lines; 1 line pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
@@ -57,4 +57,5 @@ Tracked 14 cards from 32 candidate lines; 3 lines pending review.
 - [[Changes/Cursor/2025-06-04-new-settings-and-dashboard|New Settings and Dashboard]] · Interface Experience · Launch
 - [[Changes/Cursor/2025-06-04-faster-responses-with-parallel-tool-calls|Faster responses with parallel tool calls]] · Reliability and Performance
 - [[Changes/Cursor/2025-06-04-mcp-one-click-install-and-oauth-support|MCP one-click install and OAuth support]] · Account and Access · Launch
+- [[Changes/Cursor/2025-06-04-2-other-changes-in-1-0|2 other changes in 1.0]] · Other changes · Digest
 <!-- chronolog:end -->

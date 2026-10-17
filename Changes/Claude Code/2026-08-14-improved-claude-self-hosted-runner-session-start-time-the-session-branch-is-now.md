@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: d2e711c02e23c5f2a38346fd7f0814fd4b93afb65352fe5e6f16782d5ce26bd1
+machine_hash: fe47d49dc45cafa21fb5fb688784e262b72736b24ef8298dec3cb96a303217e4
 product: claude-code
 product_name: Claude Code
 record:
@@ -82,6 +82,7 @@ type: change
 - [[Changes/Claude Code/2026-08-14-added-opt-in-memory-cgroup-support-for-bash-tool-commands-on-linux-claude-code-t|Added opt-in memory cgroup support for Bash tool commands on Linux…]] · Memory and Personalization
 - [[Changes/Claude Code/2026-08-14-added-gitlab-merge-request-url-support-to-the-worktree-flag-and-the-claude-agent|Added GitLab merge request URL support to the --worktree flag…]] · Developer Workflow
 - [[Changes/Claude Code/2026-08-14-2-apps-and-integrations-changes-in-v2-1-233|2 Apps and Integrations changes in v2.1.233]] · Apps and Integrations
+- [[Changes/Claude Code/2026-08-14-added-claude-code-webfetch-cache-ttl-ms-environment-variable-to-configure-the-we|Added CLAUDE_CODE_WEBFETCH_CACHE_TTL_MS environment variable to configure…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

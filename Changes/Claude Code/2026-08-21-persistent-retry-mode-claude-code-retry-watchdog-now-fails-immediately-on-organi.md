@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: a918322ac84c5c3accb29cf9c8f8b90b99de61c53d66842a75fb0f14dfdd3a66
+machine_hash: 5eb5417a1dd6800207a50eb3996d0a1c84cbef3a64f77005d0b957daa695ca29
 product: claude-code
 product_name: Claude Code
 record:
@@ -84,6 +84,8 @@ type: change
 - [[Changes/Claude Code/2026-08-21-fixed-fullscreen-mode-answering-a-permission-prompt-or-pressing-a-button-when-yo|Fixed fullscreen mode answering a permission prompt or pressing a button when you…]] · Safety and Privacy
 - [[Changes/Claude Code/2026-08-21-windows-cross-session-messaging-is-now-available-so-claude-code-sessions-across|Windows: cross-session messaging is now available, so Claude Code sessions across…]] · Mobile and Desktop
 - [[Changes/Claude Code/2026-08-21-alpine-musl-builds-native-image-paste-clipboard-and-audio-capture-add-ons-now-lo|Alpine/musl builds: native image paste, clipboard, and audio-capture add-ons now…]] · Voice and Audio
+- [[Changes/Claude Code/2026-08-21-added-claude-api-upgrade-to-migrate-python-projects-from-anthropic-0-x-to-1-x-an|Added /claude-api upgrade to migrate Python projects from anthropic 0.x to 1.x…]] · Other changes
+- [[Changes/Claude Code/2026-08-21-5-other-changes-in-v2-1-239|5 other changes in v2.1.239]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

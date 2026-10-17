@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2aa88bfb13f9a17458e8ab67caa812a5806ad09a9d73bd9255642984f48f5ac1
+machine_hash: 7a9fddf7780637c0161dc936b10e807b000cbe659de844cbdca13503d6f0f230
 product: claude-code
 product_name: Claude Code
 record:
@@ -88,6 +88,7 @@ type: change
 - [[Changes/Claude Code/2026-02-06-added-plugin-name-to-skill-descriptions-and-skills-menu-for-better-discoverabili|Added plugin name to skill descriptions and /skills menu for better discoverability]] · Apps and Integrations
 - [[Changes/Claude Code/2026-02-06-2-interface-experience-changes-in-v2-1-33|2 Interface Experience changes in v2.1.33]] · Interface Experience
 - [[Changes/Claude Code/2026-02-06-2-agent-mode-changes-in-v2-1-33|2 Agent Mode changes in v2.1.33]] · Agent Mode
+- [[Changes/Claude Code/2026-02-06-errors-from-invalid-managed-settings-are-now-surfaced|Errors from invalid managed settings are now surfaced]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

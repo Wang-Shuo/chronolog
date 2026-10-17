@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d738904dddebc310c70b024d93afb7f57c22f2e4ba22c7530377c51c3e2198a4
+machine_hash: 5fa12ed2386faa75803484ecc7b951fdfd3e7a76d18eb11522a5f6efca03d718
 product: claude-code
 product_name: Claude Code
 record:
@@ -142,6 +142,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.281
 - [[Changes/Claude Code/2026-09-23-improved-deep-research-reliability-on-long-research-briefs-by-removing-unused-re|Improved /deep-research reliability on long research briefs by removing unused…]] · Search and Browsing
 - [[Changes/Claude Code/2026-09-23-18-apps-and-integrations-changes-in-v2-1-281|18 Apps and Integrations changes in v2.1.281]] · Apps and Integrations
 - [[Changes/Claude Code/2026-09-23-improved-screen-reader-output-in-mcp-a-disabled-server-is-read-as-off-instead-of|Improved screen-reader output in /mcp]] · Accessibility and Localization
+- [[Changes/Claude Code/2026-09-23-13-other-changes-in-v2-1-281|13 other changes in v2.1.281]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

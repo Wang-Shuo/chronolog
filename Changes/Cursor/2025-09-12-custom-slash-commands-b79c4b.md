@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 2e3cbed5bd20585c38cabd9566ed4fdbd9b989ae1d350d8f40721d8b5a927d11
+machine_hash: 2f10fc83f2fc70e2c4e911122a8a9bba5843eceecdfadd67454ba3e3f4a0a267
 product: cursor
 product_name: Cursor
 record:
@@ -101,6 +101,7 @@ type: change
 - [[Changes/Cursor/2025-09-12-2-apps-and-integrations-changes-in-1-6|2 Apps and Integrations changes in 1.6]] · Apps and Integrations
 - [[Changes/Cursor/2025-09-12-5-reliability-and-performance-changes-in-1-6|5 Reliability and Performance changes in 1.6]] · Reliability and Performance
 - [[Changes/Cursor/2025-09-12-mcp-resources-support|MCP Resources support]] · Apps and Integrations
+- [[Changes/Cursor/2025-09-12-1-6-26-summarization-and-extension-improvements|1.6.26: Summarization and extension improvements]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

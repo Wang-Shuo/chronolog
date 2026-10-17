@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2a5728448f70267b26b39de92bf6145eda9cc4c3d2516754714cd0c5a960b47d
+machine_hash: 78ac726698e8b70d6fdd27af257e46d2b49d4d471749f0bb645dd6cc484217bb
 product: cursor
 product_name: Cursor
 record:
@@ -79,6 +79,7 @@ Source: https://cursor.com/changelog/2-1
 - [[Changes/Cursor/2025-11-21-project-level-hooks-are-now-supported|Project level hooks are now supported]] · Apps and Integrations
 - [[Changes/Cursor/2025-11-21-4-editor-experience-changes-in-2-1|4 Editor Experience changes in 2.1]] · Editor Experience
 - [[Changes/Cursor/2025-11-21-rules-in-home-folder-cursor-rules-will-be-included-in-context|Rules in home folder (~/.cursor/rules) will be included in context]] · Context Window
+- [[Changes/Cursor/2025-11-21-4-other-changes-in-2-1|4 other changes in 2.1]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

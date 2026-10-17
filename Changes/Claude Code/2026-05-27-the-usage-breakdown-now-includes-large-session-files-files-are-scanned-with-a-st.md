@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1059e4dc0a7f4b0772fca24edead4bea4473909d9e5d6d4883c3ab0ac76d529b
+machine_hash: 04d025d0d3865df824e5356f22407fb0340e649623d19aefe1ca7a9bad48fd4f
 product: claude-code
 product_name: Claude Code
 record:
@@ -81,6 +81,7 @@ type: change
 - [[Changes/Claude Code/2026-05-27-2-developer-workflow-changes-in-v2-1-152|2 Developer Workflow changes in v2.1.152]] · Developer Workflow
 - [[Changes/Claude Code/2026-05-27-added-reload-skills-command-to-re-scan-skill-directories-without-restarting-the|Added /reload-skills command to re-scan skill directories without restarting the session]] · Developer Workflow
 - [[Changes/Claude Code/2026-05-27-2-safety-and-privacy-changes-in-v2-1-152|2 Safety and Privacy changes in v2.1.152]] · Safety and Privacy
+- [[Changes/Claude Code/2026-05-27-2-other-changes-in-v2-1-152|2 other changes in v2.1.152]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

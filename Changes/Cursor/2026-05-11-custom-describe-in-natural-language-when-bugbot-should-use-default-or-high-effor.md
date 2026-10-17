@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 52d81050489c727007197cae9365d4a1ccf230facd810dc42152ce367dd139f0
+machine_hash: f4db68ee6fed2fb23b3dc263ce7d3cc0756b848f09ed9a4cd63ce951980f61b2
 product: cursor
 product_name: Cursor
 record:
@@ -79,6 +79,7 @@ type: change
 - [[Changes/Cursor/2026-05-11-teams-admins-and-individual-plan-users-can-now-customize-the-effort-level-bugbot|Teams admins and Individual plan users can now customize the effort level Bugbot…]] · Enterprise and Administration
 - [[Changes/Cursor/2026-05-11-customers-must-be-on-usage-based-billing-for-bugbot-to-customize-effort-levels-l|Customers must be on usage-based billing for Bugbot to customize effort levels]] · Pricing Model
 - [[Changes/Cursor/2026-05-11-default-bugbot-continues-to-use-the-same-effort-level-as-it-does-today-optimized|Default: Bugbot continues to use the same effort level as it does today]] · Reliability and Performance
+- [[Changes/Cursor/2026-05-11-2-other-changes-in-05-11-26|2 other changes in 05.11.26]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

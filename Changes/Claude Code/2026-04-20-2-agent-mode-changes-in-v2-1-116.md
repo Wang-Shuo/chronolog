@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bc0ac969c2704aacd89fffa0fcdcfc7e3217e7c693d8eb3a00ff091d613df262
+machine_hash: 62675a5f3ba556e8b1b986335f14cd15e8c48a6b31330f76a9105a50640e6694
 product: claude-code
 product_name: Claude Code
 record:
@@ -82,6 +82,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.116
 - [[Changes/Claude Code/2026-04-20-3-interface-experience-changes-in-v2-1-116|3 Interface Experience changes in v2.1.116]] · Interface Experience
 - [[Changes/Claude Code/2026-04-20-2-apps-and-integrations-changes-in-v2-1-116|2 Apps and Integrations changes in v2.1.116]] · Apps and Integrations
 - [[Changes/Claude Code/2026-04-20-security-sandbox-auto-allow-no-longer-bypasses-the-dangerous-path-safety-check-f|Security: sandbox auto-allow no longer bypasses the dangerous-path safety check…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-04-20-doctor-can-now-be-opened-while-claude-is-responding-without-waiting-for-the-curr|/doctor can now be opened while Claude is responding, without waiting…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

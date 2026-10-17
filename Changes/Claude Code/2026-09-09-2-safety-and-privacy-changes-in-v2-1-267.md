@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 416784a57f582f63c9dea5a7d6d6548c6e106ccf74360d10495a808a56b6789e
+machine_hash: dc9ece64b0fba43f7416690820987221ead79f6cdaf75eac04937d069154394f
 product: claude-code
 product_name: Claude Code
 record:
@@ -83,6 +83,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.267
 - [[Changes/Claude Code/2026-09-09-claude-tag-added-a-use-a-custom-connector-link-to-the-preset-connection-forms-in|Claude Tag Added a "Use a custom connector" link to the preset connection forms…]] · Apps and Integrations
 - [[Changes/Claude Code/2026-09-09-improved-prompt-input-responsiveness-keystrokes-no-longer-occasionally-wait-a-fr|Improved prompt input responsiveness]] · Reliability and Performance
 - [[Changes/Claude Code/2026-09-09-added-maxeffortlevel-setting-top-level-or-per-model-under-modelsettings-caps-the|Added maxEffortLevel setting (top-level or per model under modelSettings)]] · Model Support
+- [[Changes/Claude Code/2026-09-09-3-other-changes-in-v2-1-267|3 other changes in v2.1.267]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: c21f3c4fbfe45bcfb1c1d59304f19fe7a3fef9f9b6b0415aadefe9831179bfa2
+machine_hash: 72b39268011d5548624fa9e7d273b259c88fedc024cb0da002f5491f32d97e09
 product: claude-code
 product_name: Claude Code
 record:
@@ -95,6 +95,7 @@ type: change
 - [[Changes/Claude Code/2026-09-17-2-interface-experience-changes-in-v2-1-274|2 Interface Experience changes in v2.1.274]] · Interface Experience
 - [[Changes/Claude Code/2026-09-17-3-safety-and-privacy-changes-in-v2-1-274|3 Safety and Privacy changes in v2.1.274]] · Safety and Privacy
 - [[Changes/Claude Code/2026-09-17-added-a-visible-warning-when-memory-usage-is-critical-with-steps-to-free-memory|Added a visible warning when memory usage is critical, with steps to free memory…]] · Reliability and Performance
+- [[Changes/Claude Code/2026-09-17-8-other-changes-in-v2-1-274|8 other changes in v2.1.274]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

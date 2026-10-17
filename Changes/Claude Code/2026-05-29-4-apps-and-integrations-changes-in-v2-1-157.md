@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a348b855388bdca7bec0e0a08a7a560ab890ef234a0b9a9d5bb9e0493b148127
+machine_hash: d51d43372a225b8f923a8d4cdeb5c6697d795a1a546268fa712c8e50b9fbb965
 product: claude-code
 product_name: Claude Code
 record:
@@ -91,6 +91,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.157
 - [[Changes/Claude Code/2026-05-29-3-developer-workflow-changes-in-v2-1-157|3 Developer Workflow changes in v2.1.157]] · Developer Workflow
 - [[Changes/Claude Code/2026-05-29-removed-the-ide-for-startup-hint-toast|Removed the "/ide for …" startup hint toast]] · Editor Experience
 - [[Changes/Claude Code/2026-05-29-improved-performance-of-long-and-resumed-conversations-by-eliminating-redundant|Improved performance of long and resumed conversations by eliminating redundant…]] · Reliability and Performance
+- [[Changes/Claude Code/2026-05-29-3-other-changes-in-v2-1-157|3 other changes in v2.1.157]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

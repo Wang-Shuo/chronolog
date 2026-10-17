@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3d6c1a77773eb125aa49a41ad374737b9ae685576f77bd4070e19cffb4ab5268
+machine_hash: bbfee94923a45d9460d0039a6c580b99dcf182de97baa1aa89cc3130f71dc80a
 product: claude-code
 product_name: Claude Code
 record:
@@ -89,6 +89,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.265
 - [[Changes/Claude Code/2026-09-08-improved-worktree-startup-on-large-repositories-the-new-worktree-is-now-checked|Improved --worktree startup on large repositories]] · Developer Workflow
 - [[Changes/Claude Code/2026-09-08-2-account-and-access-changes-in-v2-1-265|2 Account and Access changes in v2.1.265]] · Account and Access
 - [[Changes/Claude Code/2026-09-08-improved-workflows-agent-detail-tool-calls-are-marked-running-failed-or-done-the|Improved /workflows agent detail]] · Agent Mode
+- [[Changes/Claude Code/2026-09-08-6-other-changes-in-v2-1-265|6 other changes in v2.1.265]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

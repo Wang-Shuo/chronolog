@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 51f6dd61d36e7bfb00d06dc8ac3fba3753519ac652bc846c04835905e15e9ef9
+machine_hash: c77f1ad0e1651b6d4e000874dea1ffc19dab60f07bfa9a378718ea9afcb9e529
 product: claude-code
 product_name: Claude Code
 record:
@@ -85,6 +85,7 @@ type: change
 - [[Changes/Claude Code/2026-08-11-updated-terminal-title-busy-spinner-glyphs-to-reduce-tab-bar-jitter-on-some-term|Updated terminal title busy-spinner glyphs to reduce tab-bar jitter on some terminals]] · Interface Experience
 - [[Changes/Claude Code/2026-08-11-changed-the-write-tool-so-newer-models-can-overwrite-an-existing-file-they-haven|Changed the Write tool so newer models can overwrite an existing file they haven't…]] · Model Support
 - [[Changes/Claude Code/2026-08-11-improved-compaction-progress-the-retry-countdown-and-stall-hint-now-appear-durin|Improved compaction progress]] · Context Window
+- [[Changes/Claude Code/2026-08-11-improved-vertex-ai-credential-handling-expired-or-missing-google-cloud-credentia|Improved Vertex AI credential handling]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

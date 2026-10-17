@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7f5421214aef2eaeaf58482dfc0b9319f3c0a66775949b5d122c2dcd71aa73f0
+machine_hash: b1453ecf9d770344cd4851907b666cfa03ffb984cb0bfe985d3ae1bd1d5378b9
 product: claude-code
 product_name: Claude Code
 record:
@@ -98,6 +98,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.47
 - [[Changes/Claude Code/2026-02-18-the-rename-command-now-updates-the-terminal-tab-title-by-default-anthropics-clau|The /rename command now updates the terminal tab title by default…]] · Developer Workflow
 - [[Changes/Claude Code/2026-02-18-added-last-assistant-message-field-to-stop-and-subagentstop-hook-inputs-providin|Added last_assistant_message field to Stop and SubagentStop hook inputs, providing…]] · Apps and Integrations
 - [[Changes/Claude Code/2026-02-18-2-safety-and-privacy-changes-in-v2-1-47|2 Safety and Privacy changes in v2.1.47]] · Safety and Privacy
+- [[Changes/Claude Code/2026-02-18-3-other-changes-in-v2-1-47|3 other changes in v2.1.47]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

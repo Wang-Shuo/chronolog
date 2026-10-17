@@ -16,8 +16,8 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
-kind: launch
-machine_hash: 07b784283e17dfd4485db9f4ac8d7ff9df0a18461d41c25a4bb6b8a0fcd8bb68
+kind: change
+machine_hash: 2a3cb8dce2c8539c5f19e77ee048415cf1fdbb5755a1a2868b966d0cf104ff5c
 product: cursor
 product_name: Cursor
 record:
@@ -35,7 +35,7 @@ record:
     source_release: https://cursor.com/changelog/0-2-16
   extractor_version: fallback-v5
   impact: significant
-  kind: launch
+  kind: change
   product: cursor
   product_name: Cursor
   slug: better-jupyter-support
@@ -59,7 +59,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Better Jupyter Support
 
-**Cursor** · 2023-05-17 · [[Themes/context-window|Context Window]] · Launch · [Official source](https://cursor.com/changelog/0-2-16) · from [[Releases/Cursor/cursor-2023-05-17-0-2-16-https-cursor-com-changelog-0-2-16-e0618ec3|Terminal Debugger, and our biggest bug bash yet]]
+**Cursor** · 2023-05-17 · [[Themes/context-window|Context Window]] · [Official source](https://cursor.com/changelog/0-2-16) · from [[Releases/Cursor/cursor-2023-05-17-0-2-16-https-cursor-com-changelog-0-2-16-e0618ec3|Terminal Debugger, and our biggest bug bash yet]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -78,6 +78,7 @@ type: change
 - [[Changes/Cursor/2023-05-17-diff-generate-improvements|Diff/Generate improvements]] · Editor Experience
 - [[Changes/Cursor/2023-05-17-remote-ssh-is-easier-to-use|Remote SSH is easier to use!]] · Developer Workflow
 - [[Changes/Cursor/2023-05-17-in-terminal-debugging-f140b2|In-terminal Debugging]] · Developer Workflow
+- [[Changes/Cursor/2023-05-17-2-other-changes-in-0-2-16|2 other changes in 0.2.16]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: f9e2697fb80ecc30e87ab9381e5525d16327fc95517af32e5e4dab554ef28bc7
+machine_hash: 7dac1dd826d2a783536cd82016e2696750f275ffe8c51a788d762bc5df9a1e32
 product: claude-code
 product_name: Claude Code
 record:
@@ -82,6 +82,7 @@ type: change
 - [[Changes/Claude Code/2026-09-22-claude-tag-improved-the-github-banner-in-claude-tag-admin-settings-to-say-why-gi|Claude Tag Improved the GitHub banner in Claude Tag admin settings to say why…]] · Account and Access
 - [[Changes/Claude Code/2026-09-22-vscode-changed-open-in-new-tab-to-open-claude-beside-the-editor-group-you-are-wo|VSCode Changed "Open in New Tab" to open Claude beside the editor group you…]] · Editor Experience
 - [[Changes/Claude Code/2026-09-22-3-developer-workflow-changes-in-v2-1-280|3 Developer Workflow changes in v2.1.280]] · Developer Workflow
+- [[Changes/Claude Code/2026-09-22-17-other-changes-in-v2-1-280|17 other changes in v2.1.280]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f73a7600cbf85b53b40ccb16c3cbef99245ef3412e4d4b861d4d3dc4ab84d3e2
+machine_hash: 9749de174458fdb1ffcb365ef8695a3844cd3bf33de64106fd4e234162070bd6
 product: claude-code
 product_name: Claude Code
 record:
@@ -78,6 +78,7 @@ type: change
 - [[Changes/Claude Code/2026-02-17-improved-memory-usage-for-shell-commands-that-produce-large-output-rss-no-longer|Improved memory usage for shell commands that produce large output]] · Reliability and Performance
 - [[Changes/Claude Code/2026-02-17-added-spinnertipsoverride-setting-to-customize-spinner-tips-configure-tips-with|Added spinnerTipsOverride setting to customize spinner tips]] · Interface Experience
 - [[Changes/Claude Code/2026-02-17-2-apps-and-integrations-changes-in-v2-1-45|2 Apps and Integrations changes in v2.1.45]] · Apps and Integrations
+- [[Changes/Claude Code/2026-02-17-improved-collapsed-read-search-groups-to-show-the-current-file-or-search-pattern|Improved collapsed read/search groups to show the current file or search pattern…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

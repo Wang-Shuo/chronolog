@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 4626d20ef6c6330d297c9e0e119ffd19d759aaf2e54d144fbd1408130766cb3f
+machine_hash: 7f32fcde96adda22ce349a13ebce436a976e2d5ca4068a406cce40d635f9bf01
 product: claude-code
 product_name: Claude Code
 record:
@@ -82,6 +82,7 @@ type: change
 - [[Changes/Claude Code/2026-07-14-4-agent-mode-changes-in-v2-1-208|4 Agent Mode changes in v2.1.208]] · Agent Mode
 - [[Changes/Claude Code/2026-07-14-3-reliability-and-performance-changes-in-v2-1-208|3 Reliability and Performance changes in v2.1.208]] · Reliability and Performance
 - [[Changes/Claude Code/2026-07-14-added-screen-reader-mode-opt-in-plain-text-rendering-for-screen-reader-users-run|Added screen reader mode: opt-in plain-text rendering for screen reader users]] · Accessibility and Localization
+- [[Changes/Claude Code/2026-07-14-2-other-changes-in-v2-1-208|2 other changes in v2.1.208]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

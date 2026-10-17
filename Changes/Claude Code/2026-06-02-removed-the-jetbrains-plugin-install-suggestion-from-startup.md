@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1fd02ba8a5e37f9398f74043f65875ab71975c86e50d7fb5d5d9b97e74af66fe
+machine_hash: 49ad659db2d7166e1f25651dcdf8365dbde79882d41c21bb0e40195c198b83bd
 product: claude-code
 product_name: Claude Code
 record:
@@ -75,6 +75,7 @@ type: change
 - [[Changes/Claude Code/2026-06-02-added-a-prompt-before-writing-to-shell-startup-files-zshenv-zlogin-bash-login-an|Added a prompt before writing to shell startup files…]] · Account and Access
 - [[Changes/Claude Code/2026-06-02-edit-no-longer-requires-a-separate-read-after-viewing-a-file-with-grep-single-fi|Edit no longer requires a separate Read after viewing a file with grep]] · Editor Experience
 - [[Changes/Claude Code/2026-06-02-improved-performance-of-opening-recently-inactive-background-agent-sessions-in-c|Improved performance of opening recently-inactive background agent sessions…]] · Agent Mode
+- [[Changes/Claude Code/2026-06-02-renamed-the-dynamic-workflow-trigger-keyword-from-workflow-to-ultracode-the-word|Renamed the dynamic-workflow trigger keyword from workflow to ultracode]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a84d03934b1af24a09f1cefdbe23f152886f5b7ee80bf67a86c0d2d6b2f2366b
+machine_hash: 2b25c921f5711f59f3c6ece4b7bfa9197ce2f75e285321260cdb3e722a41ecaf
 product: claude-code
 product_name: Claude Code
 record:
@@ -86,6 +86,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.145
 - [[Changes/Claude Code/2026-05-19-fixed-a-permission-prompt-bypass-where-bare-variable-assignments-to-non-allowlis|Fixed a permission-prompt bypass where bare variable assignments to non-allowlisted…]] · Safety and Privacy
 - [[Changes/Claude Code/2026-05-19-2-interface-experience-changes-in-v2-1-145|2 Interface Experience changes in v2.1.145]] · Interface Experience
 - [[Changes/Claude Code/2026-05-19-improved-the-read-tool-to-return-a-truncated-first-page-with-a-partial-view-noti|Improved the Read tool to return a truncated first page with a "PARTIAL view" notice…]] · Context Window
+- [[Changes/Claude Code/2026-05-19-stop-and-subagentstop-hook-input-now-includes-background-tasks-and-session-crons|Stop and SubagentStop hook input now includes background_tasks and session_crons…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

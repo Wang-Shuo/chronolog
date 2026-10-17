@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9d27e6f8a4fbcf6264922c0452837ed27d0c81dd20227d34be2804524eef6969
+machine_hash: 9c06a9c4f5d8e45f038b12205a48d4c7a9cc06d7606f07a98c4e3fc7776643b4
 product: cursor
 product_name: Cursor
 record:
@@ -83,6 +83,7 @@ Source: https://cursor.com/changelog/2-3
 - [[Changes/Cursor/2025-12-22-3-interface-experience-changes-in-2-3|3 Interface Experience changes in 2.3]] · Interface Experience
 - [[Changes/Cursor/2025-12-22-improved-stability-around-how-the-agent-respects-auto-run-preferences-to-prevent|Improved stability around how the agent respects auto-run preferences to prevent…]] · Safety and Privacy
 - [[Changes/Cursor/2025-12-22-2-account-and-access-changes-in-2-3|2 Account and Access changes in 2.3]] · Account and Access
+- [[Changes/Cursor/2025-12-22-4-other-changes-in-2-3|4 other changes in 2.3]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

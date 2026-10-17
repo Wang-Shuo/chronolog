@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: f8485858619d5f51ff2bef1652f7ab9d4cf226da1e1d71079c3ec49a9112df7c
+machine_hash: add729636f2d3ae19a144c3b6d3e495bc0a456852b0e853b3c5a4da20a0cb79b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -93,6 +93,7 @@ type: change
 - [[Changes/ChatGPT/2024-11-22-dall-e-focused-view-has-an-updated-layout|DALL-E focused view has an updated layout]] · Image Generation
 - [[Changes/ChatGPT/2024-11-22-the-sidebar-when-pinned-can-now-stay-open-with-an-active-canvas-if-enough-space|The sidebar when pinned can now stay open with an active Canvas if enough space…]] · Files and Data
 - [[Changes/ChatGPT/2024-11-22-improved-mobile-web-experience|Improved Mobile Web Experience]] · Mobile and Desktop
+- [[Changes/ChatGPT/2024-11-22-6-other-changes-in-updates-to-the-chatgpt-web-experience|6 other changes in Updates to the ChatGPT Web experience]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

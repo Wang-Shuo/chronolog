@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 248378315a1abe057f5e443283a09e918110e0bbd2b6b988b8676709f67dd035
+machine_hash: 17668498c97befcb23be097de6022d9bf134b054b3f2f00d37a8e9979ad261db
 product: claude-code
 product_name: Claude Code
 record:
@@ -76,6 +76,7 @@ type: change
 - [[Changes/Claude Code/2026-01-09-merged-slash-commands-and-skills-simplifying-the-mental-model-with-no-change-in|Merged slash commands and skills, simplifying the mental model with no change in behavior]] · Model Support
 - [[Changes/Claude Code/2026-01-09-2-interface-experience-changes-in-v2-1-3|2 Interface Experience changes in v2.1.3]] · Interface Experience
 - [[Changes/Claude Code/2026-01-09-2-safety-and-privacy-changes-in-v2-1-3|2 Safety and Privacy changes in v2.1.3]] · Safety and Privacy
+- [[Changes/Claude Code/2026-01-09-changed-tool-hook-execution-timeout-from-60-seconds-to-10-minutes|Changed tool hook execution timeout from 60 seconds to 10 minutes]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

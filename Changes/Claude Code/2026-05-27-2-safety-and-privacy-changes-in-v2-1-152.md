@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 42c71e9c48392535d21da46bc5e1609255f9ec611e1b26cc9ae474bb0d2e2afb
+machine_hash: 148c0fb22fc8a82ead28c721f9d28ec7b3d32d03310348f88a98476019ae6e1a
 product: claude-code
 product_name: Claude Code
 record:
@@ -83,6 +83,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.152
 - [[Changes/Claude Code/2026-05-27-2-developer-workflow-changes-in-v2-1-152|2 Developer Workflow changes in v2.1.152]] · Developer Workflow
 - [[Changes/Claude Code/2026-05-27-added-reload-skills-command-to-re-scan-skill-directories-without-restarting-the|Added /reload-skills command to re-scan skill directories without restarting the session]] · Developer Workflow
 - [[Changes/Claude Code/2026-05-27-the-usage-breakdown-now-includes-large-session-files-files-are-scanned-with-a-st|The /usage breakdown now includes large session files]] · Reliability and Performance
+- [[Changes/Claude Code/2026-05-27-2-other-changes-in-v2-1-152|2 other changes in v2.1.152]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

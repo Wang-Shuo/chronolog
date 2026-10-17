@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 0615bf10a9bd857415491620e52f750b203a14083dec92deaeb1daaf2df3b30e
+machine_hash: f7fa9280b19aca73d77a531b85fe548717062dcb9414e778d5c861ccdff56f58
 product: cursor
 product_name: Cursor
 record:
@@ -99,6 +99,7 @@ type: change
 - [[Changes/Cursor/2026-03-03-fixed-team-permission-and-access-control-inconsistencies-across-organization-set|Fixed team permission and access control inconsistencies across organization setups]] · Safety and Privacy
 - [[Changes/Cursor/2026-03-03-the-content-from-your-plan-files-are-now-included-in-autocomplete-suggestions-as|The content from your plan files are now included in autocomplete suggestions as you…]] · Interface Experience
 - [[Changes/Cursor/2026-03-03-agent-workflows-are-faster-and-more-predictable-for-multi-file-edits-and-pr-heav|Agent workflows are faster and more predictable for multi-file edits and PR-heavy tasks]] · Editor Experience
+- [[Changes/Cursor/2026-03-03-3-other-changes-in-2-6|3 other changes in 2.6]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

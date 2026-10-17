@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 396fdf6c3e78bf24525b97b731bebb3c44623428cf5adb697a312bb6b7825156
+machine_hash: bbbd8beef8b75993881b1aa6aee0b2844a93ea1cd83455b95579595ece4fdbc6
 product: claude-code
 product_name: Claude Code
 record:
@@ -78,6 +78,7 @@ type: change
 - [[Changes/Claude Code/2026-04-01-4-safety-and-privacy-changes-in-v2-1-90|4 Safety and Privacy changes in v2.1.90]] · Safety and Privacy
 - [[Changes/Claude Code/2026-04-01-changed-resume-picker-to-no-longer-show-sessions-created-by-claude-p-or-sdk-invo|Changed --resume picker to no longer show sessions created by claude -p or SDK…]] · Interface Experience
 - [[Changes/Claude Code/2026-04-01-2-apps-and-integrations-changes-in-v2-1-90|2 Apps and Integrations changes in v2.1.90]] · Apps and Integrations
+- [[Changes/Claude Code/2026-04-01-improved-resume-all-projects-view-to-load-project-sessions-in-parallel-improving|Improved /resume all-projects view to load project sessions in parallel, improving…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

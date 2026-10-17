@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9a8d4ca142b2f2175a690f1b3bf835e3de02fdd3eb26c80be913e9c1bd561926
+machine_hash: ed18a43cfe732b01db12efbcf041131148f7f8bd8d28e68af00bb693a571814e
 product: claude-code
 product_name: Claude Code
 record:
@@ -85,6 +85,7 @@ type: change
 - [[Changes/Claude Code/2026-06-08-improved-the-error-message-shown-when-your-organization-has-disabled-api-key-aut|Improved the error message shown when your organization has disabled API key…]] · Account and Access
 - [[Changes/Claude Code/2026-06-08-workflows-now-opens-immediately-even-while-a-turn-is-in-progress|/workflows now opens immediately even while a turn is in progress]] · Automation and Scheduling
 - [[Changes/Claude Code/2026-06-08-added-a-disablebundledskills-setting-and-claude-code-disable-bundled-skills-envi|Added a disableBundledSkills setting and CLAUDE_CODE_DISABLE_BUNDLED_SKILLS…]] · Model Support
+- [[Changes/Claude Code/2026-06-08-3-other-changes-in-v2-1-169|3 other changes in v2.1.169]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

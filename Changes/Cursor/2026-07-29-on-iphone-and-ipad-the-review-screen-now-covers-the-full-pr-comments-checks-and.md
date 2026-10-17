@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 18c84ed8742fa253c846af9425ce892108e813e9ebf417ace08d8775ff77eb44
+machine_hash: 16992d442e7c4d509d79c027df74e8a34705bcca07c4ab6de415ee95bb720914
 product: cursor
 product_name: Cursor
 record:
@@ -90,6 +90,7 @@ type: change
 - [[Changes/Cursor/2026-07-29-built-for-the-bigger-screen-98bf7a|Built for the bigger screen]] · Mobile and Desktop
 - [[Changes/Cursor/2026-07-29-inbox|Inbox]] · Agent Mode
 - [[Changes/Cursor/2026-07-29-cursor-for-ipad-is-now-available-on-all-paid-plans-ce68be|Cursor for iPad is now available on all paid plans]] · Mobile and Desktop
+- [[Changes/Cursor/2026-07-29-2-other-changes-in-cursor-now-on-ipad|2 other changes in Cursor, now on iPad]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 14ed804ad963cbabb5d929746198ee8f374593d471ccb6dd5736abddae6df350
+machine_hash: f93fd7e61cf778b2f989ec4217d170158c3f63be970cfa3907450cb732a26697
 product: claude-code
 product_name: Claude Code
 record:
@@ -87,6 +87,7 @@ type: change
 - [[Changes/Claude Code/2026-04-28-4-interface-experience-changes-in-v2-1-121|4 Interface Experience changes in v2.1.121]] · Interface Experience
 - [[Changes/Claude Code/2026-04-28-6-apps-and-integrations-changes-in-v2-1-121|6 Apps and Integrations changes in v2.1.121]] · Apps and Integrations
 - [[Changes/Claude Code/2026-04-28-vscode-context-now-opens-a-native-token-usage-dialog|VSCode /context now opens a native token usage dialog]] · Context Window
+- [[Changes/Claude Code/2026-04-28-vertex-ai-support-x-509-certificate-based-workload-identity-federation-mtls-adc|Vertex AI: support X.509 certificate-based Workload Identity Federation (mTLS ADC)]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

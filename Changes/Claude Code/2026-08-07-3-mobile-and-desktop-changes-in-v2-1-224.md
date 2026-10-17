@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f409ef90e01147504fa23e418a24f50b9cc57d267a67fa756806e2f5b2633086
+machine_hash: a52c5af4a1e54bcde003a8a4e986115f2f5d64dd9b61816ad1ca36577ea1ca01
 product: claude-code
 product_name: Claude Code
 record:
@@ -92,6 +92,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.224
 - [[Changes/Claude Code/2026-08-07-removed-the-200-subagent-per-session-spawn-cap-long-running-sessions-no-longer-r|Removed the 200-subagent-per-session spawn cap]] · Agent Mode
 - [[Changes/Claude Code/2026-08-07-2-safety-and-privacy-changes-in-v2-1-224|2 Safety and Privacy changes in v2.1.224]] · Safety and Privacy
 - [[Changes/Claude Code/2026-08-07-changed-the-bash-tool-description-to-always-note-that-command-output-is-displaye|Changed the Bash tool description to always note that command output is displayed…]] · Model Support
+- [[Changes/Claude Code/2026-08-07-3-other-changes-in-v2-1-224|3 other changes in v2.1.224]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

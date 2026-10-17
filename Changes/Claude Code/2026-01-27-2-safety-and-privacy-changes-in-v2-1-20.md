@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 75d652c8e3e876ddd2f6efc37b8217ba1b3fc8b0d64890408c5ae0cd2dd73bda
+machine_hash: a19768f62764fb3c162303dd02edd6eaa3ce41cb9363c53c62d4f18faa3580c2
 product: claude-code
 product_name: Claude Code
 record:
@@ -81,6 +81,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.20
 - [[Changes/Claude Code/2026-01-27-changed-the-commit-push-pr-skill-to-automatically-post-pr-urls-to-slack-channels|Changed the /commit-push-pr skill to automatically post PR URLs to Slack channels…]] · Apps and Integrations
 - [[Changes/Claude Code/2026-01-27-3-developer-workflow-changes-in-v2-1-20|3 Developer Workflow changes in v2.1.20]] · Developer Workflow
 - [[Changes/Claude Code/2026-01-27-2-agent-mode-changes-in-v2-1-20|2 Agent Mode changes in v2.1.20]] · Agent Mode
+- [[Changes/Claude Code/2026-01-27-6-other-changes-in-v2-1-20|6 other changes in v2.1.20]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

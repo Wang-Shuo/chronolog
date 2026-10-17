@@ -1119,8 +1119,8 @@ def test_about_page_documents_sources_method_status_and_feedback():
     assert regions["status"].startswith(
         "3 products · 6 archived releases · 15 tracked changes · 5 themes. "
         "Pending theme review: 1,234. Silence alerts: 0.")
-    for term in ("Change Card", "Digest card", "Release", "Theme", "Era", "Tracked products only",
-                 "Candidate line"):
+    for term in ("Change Card", "Digest card", "Other changes", "Release", "Theme", "Era",
+                 "Tracked products only", "Candidate line"):
         assert f"- **{term}**: " in regions["glossary"]
     assert regions["feedback"].endswith(f"open an issue at [{REPOSITORY}/issues]({REPOSITORY}/issues).")
     assert extract_machine_regions(render_about(repository=""))["feedback"] == ""
@@ -1314,3 +1314,184 @@ def test_reactivated_superseded_legacy_card_takes_the_new_template(tmp_path: Pat
     assert pending == []
     assert post.content == frontmatter.loads(rendered).content
     assert "superseded" not in post.metadata
+
+
+# --- W2 PR 2: holding theme "uncategorized" ("Other changes") --------------------------
+
+OTHER_LABELS = {**THEME_LABELS, "uncategorized": "Other changes"}
+OTHER_LINES = ["Added new quasar renderer for geometric palettes",
+               "Changed the zephyr gauge to round half values up"]
+V300_URL = "https://github.com/anthropics/claude-code/releases/tag/v2.1.300"
+
+
+def other_digest_card() -> dict[str, object]:
+    return {**digest_card(), "card_id": "claude-code-2026-10-14-000000", "theme": "uncategorized",
+            "title": "2 other changes in v2.1.300", "slug": "2-other-changes-in-v2-1-300",
+            "evidence": [{"source_release": V300_URL, "quote": quote} for quote in OTHER_LINES]}
+
+
+def test_other_changes_card_has_a_plain_label_and_only_release_context():
+    card, sibling = other_digest_card(), digest_card()
+    neighbour = {**related_card("cursor-2026-10-01-eeeeee", "Cursor", "2026-10-01", "Cursor quasar",
+                                "uncategorized")}
+    targets = {card["card_id"]: "Changes/Claude Code/other", sibling["card_id"]: "Changes/Claude Code/agent"}
+    post = frontmatter.loads(render_change_markdown(
+        card, {"evolves_from": []}, {}, targets, release_target="Releases/Claude Code/v2-1-300",
+        release_title="v2.1.300", siblings=[card, sibling], earlier=neighbour,
+        theme_labels=OTHER_LABELS))
+    regions = extract_machine_regions(post.content)
+
+    assert regions["header"].splitlines()[2] == (
+        f"**Claude Code** · 2026-10-14 · Other changes · Digest · [Official source]({V300_URL}) · "
+        "from [[Releases/Claude Code/v2-1-300|v2.1.300]]")
+    assert "Themes/" not in post.content
+    assert regions["context"] == (
+        "## Also in this release\n\n"
+        "- [[Changes/Claude Code/agent|3 Agent Mode changes in v2.1.300]] · Agent Mode")
+    assert regions["nearby"] == "" and regions["relations"] == ""
+    assert "diffusion" not in post.metadata and "related_changes" not in post.metadata
+    assert post["description"] == (
+        "Claude Code · 2026-10-14 · Other changes: 2 changes in v2.1.300 — "
+        "Added new quasar renderer for geometric palettes")
+    # Seen from a themed card of the release, Other changes come last.
+    themed = {**digest_card(), "card_id": "claude-code-2026-10-14-ffffff", "title": "Agent tabs"}
+    context = extract_machine_regions(frontmatter.loads(render_change_markdown(
+        sibling, {}, {}, siblings=[card, sibling, themed], theme_labels=OTHER_LABELS)).content)["context"]
+    assert [line.rsplit(" · ", 1)[1] for line in context.splitlines()[2:]] == [
+        "Agent Mode", "Other changes"]
+
+
+def test_release_page_lists_other_changes_last_and_outside_the_theme_count():
+    from _scripts.history import historical_source_summary
+    agent, other = digest_card(), other_digest_card()
+    body = "## What's changed\n" + "\n".join(f"- Candidate change line {n}" for n in range(9))
+    release = {**release_record(release_id="claude-code-2026-10-14-v2-1-300", product="claude-code",
+                                product_name="Claude Code", date="2026-10-14", title="v2.1.300",
+                                source_summary="", source_url=V300_URL),
+               "body": body, "cards": [other, agent]}
+
+    post = frontmatter.loads(render_release_markdown(release, theme_labels=OTHER_LABELS, pending_lines=1))
+    regions = extract_machine_regions(post.content)
+
+    assert regions["summary"] == (
+        "2 tracked changes across 1 theme: Agent Mode; 1 in Other changes.\n\n"
+        "Tracked 2 cards from 9 candidate lines; 1 line pending review.")
+    assert regions["cards"].splitlines() == [
+        "- [[2026-10-14-3-agent-mode-changes-in-v2-1-300|3 Agent Mode changes in v2.1.300]] · "
+        "Agent Mode · Digest",
+        "- [[2026-10-14-2-other-changes-in-v2-1-300|2 other changes in v2.1.300]] · "
+        "Other changes · Digest",
+    ]
+    assert post["description"] == (
+        "Claude Code release v2.1.300 on 2026-10-14: 2 tracked changes across Agent Mode, Other changes")
+    only_other = extract_machine_regions(frontmatter.loads(render_release_markdown(
+        {**release, "cards": [other]}, theme_labels=OTHER_LABELS)).content)["summary"]
+    assert only_other == "1 tracked change, all in Other changes.\n\nTracked 1 card from 9 candidate lines."
+    # Rebuilding a legacy Release page never mistakes the generated line for a source summary.
+    assert historical_source_summary(only_other) == ""
+
+
+def test_home_index_product_and_about_leave_other_changes_out_of_themes():
+    from _scripts.analyze_a import analyze_products
+    cards, analysis_a, analysis_b, releases = home_inputs()
+    other = [home_card("claude-code", "Claude Code", "2026-10-20", "uncategorized", "bbbbb9"),
+             home_card("cursor", "Cursor", "2026-10-09", "uncategorized", "c00099"),
+             home_card("cursor", "Cursor", "2026-10-08", "uncategorized", "c00098")]
+    labels = {**HOME_LABELS, "uncategorized": "Other changes"}
+    vocabulary = {**HOME_VOCABULARY, "uncategorized": {"display_name": "Other changes",
+                                                        "category": "other", "status": "holding"}}
+
+    def home(card_set):
+        return extract_machine_regions(frontmatter.loads(render_index_markdown(
+            card_set, analysis_a, analysis_b, {"alerts": []}, theme_labels=labels,
+            releases_by_product=releases, vocabulary=vocabulary)).content)
+
+    before, after = home(cards), home(cards + other)
+    # Same window (a newer Other changes card does not move it), entries and "3 more".
+    assert after["recent"] == before["recent"]
+    assert "Other changes" not in after["recent"]
+    assert after["themes"] == before["themes"] and "uncategorized" not in after["themes"]
+    assert "18 tracked changes · 5 themes" in after["header"]
+
+    info = analyze_products(cards + other)["products"]["cursor"]
+    product = render_product_markdown("cursor", info, [c for c in cards + other if c["product"] == "cursor"],
+                                      theme_labels=labels)
+    assert "Most represented themes: Agent Mode, Model Support." in product
+    assert "- 2026-10-09 · Other changes: [[2026-10-09-uncategorized-c00099|Cursor c00099]]" in product
+
+    about = extract_machine_regions(frontmatter.loads(render_about_markdown(
+        cards + other, analysis_a["products"], releases, {"alerts": []})).content)
+    assert about["status"].startswith("3 products · 6 archived releases · 18 tracked changes · 5 themes.")
+    assert '"Other changes" digest of their release' in about["method"]
+    assert "prose without a theme waits in a review queue" in about["method"]
+    assert "- **Other changes**: " in about["glossary"]
+
+
+def test_write_run_gives_other_changes_no_theme_page_and_no_neighbours(tmp_path: Path):
+    config = tmp_path / "config"
+    (config / "_scripts").mkdir(parents=True)
+    for name in ("themes.yaml", "sources.yaml"):
+        (config / "_scripts" / name).write_text((ROOT / "_scripts" / name).read_text())
+    vault = tmp_path / "vault"
+    first = {**release_record(), "body": "- Agent can run shell commands.\n- Quasar one here.\n- Quasar two here."}
+    second = release_record(release_id="cursor-2025-03-01-v2", date="2025-03-01", title="Later release")
+    agent = change_card()
+    other = {**change_card(), "card_id": "cursor-2025-02-01-000000", "theme": "uncategorized",
+             "kind": "digest", "title": "2 other changes in Cursor Projects",
+             "slug": "2-other-changes-in-cursor-projects", "extractor_version": "fallback-v5",
+             "evidence": [{"source_release": "https://example.com", "quote": quote}
+                          for quote in ("Quasar one here.", "Quasar two here.")]}
+    later = {**other, "card_id": "cursor-2025-03-01-111111", "date": "2025-03-01", "kind": "change",
+             "source_release": "cursor-2025-03-01-v2", "title": "Quasar three", "slug": "quasar-three",
+             "evidence": [{"source_release": "https://example.com", "quote": "Quasar three here."}]}
+    write_run_inputs(vault, "other", [agent, other, later], [first, second])
+    stale = vault / "Themes/uncategorized.md"
+    stale.parent.mkdir(parents=True)
+    stale.write_text(render_theme_markdown("uncategorized", [other]), encoding="utf-8")
+    stale_text = stale.read_text(encoding="utf-8")
+
+    assert write_run("other", root=vault, config_root=config, reconcile=True) == []
+
+    assert sorted(path.name for path in (vault / "Themes").glob("*.md")) == [
+        "agent-mode.md", "uncategorized.md"]
+    assert stale.read_text(encoding="utf-8") == stale_text  # never refreshed or created
+    page = frontmatter.load(vault / "Changes/Cursor/2025-02-01-2-other-changes-in-cursor-projects.md")
+    regions = extract_machine_regions(page.content)
+    assert " · Other changes · Digest · " in regions["header"]
+    assert regions["nearby"] == "" and regions["relations"] == ""
+    assert regions["context"] == (
+        "## Also in this release\n\n- [[Changes/Cursor/2025-02-01-agent-shell|Agent shell]] · Agent Mode")
+    release = frontmatter.load(vault / "Releases/Cursor/cursor-2025-02-01-v1.md")
+    assert extract_machine_regions(release.content)["cards"].splitlines()[-1].endswith(
+        "· Other changes · Digest")
+    product = (vault / "Products/Cursor.md").read_text(encoding="utf-8")
+    assert "- 2025-03-01 · Other changes: [[Changes/Cursor/2025-03-01-quasar-three|Quasar three]]" in product
+    index = extract_machine_regions(frontmatter.load(vault / "index.md").content)
+    assert "Other changes" not in index["recent"] and "uncategorized" not in index["themes"]
+
+
+def test_no_theme_page_is_written_for_other_changes(tmp_path: Path):
+    other = {**change_card(), "theme": "uncategorized"}
+    write_run_inputs(tmp_path, "other", [other], [release_record()])
+
+    assert write_run("other", root=tmp_path) == []
+    assert not (tmp_path / "Themes/uncategorized.md").exists()
+    assert list((tmp_path / "Themes").glob("*.md")) == []
+
+
+def test_merge_history_retires_pending_lines_published_as_other_changes():
+    old_pending = [
+        {**change_card(), "card_id": f"cursor-2025-02-01-{suffix * 6}", "theme": "__candidate__",
+         "theme_suggestion": "quasar", "evidence": [{"source_release": "https://example.com",
+                                                     "quote": f"- {quote}"}]}
+        for suffix, quote in zip("ce", OTHER_LINES)
+    ]
+    elsewhere = {**old_pending[0], "card_id": "cursor-2025-01-01-ffffff", "source_release": "cursor-2025-01-01-v0"}
+    other = {**change_card(), "card_id": "cursor-2025-02-01-000000", "theme": "uncategorized", "kind": "digest",
+             "evidence": [{"source_release": "https://example.com", "quote": quote} for quote in OTHER_LINES]}
+
+    # An incremental batch: only the "lines joined a card of the same release" rule applies.
+    _, cards, queue = merge_history(([], [], [*old_pending, elsewhere]), [], [other], [], set())
+
+    assert [card["card_id"] for card in cards] == [other["card_id"]]
+    assert [card["card_id"] for card in queue] == [elsewhere["card_id"]]

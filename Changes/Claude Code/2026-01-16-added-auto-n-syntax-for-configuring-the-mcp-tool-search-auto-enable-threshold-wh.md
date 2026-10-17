@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f68cad4ac3bd1dc873c108bed9242ee647482c63c95e872d6554aa1425d18827
+machine_hash: e9eb211ed402ed958698ece045045f83b55cb998290dfc91de7d018122ef32af
 product: claude-code
 product_name: Claude Code
 record:
@@ -85,6 +85,7 @@ type: change
 - [[Changes/Claude Code/2026-01-16-added-session-url-attribution-to-commits-and-prs-created-from-web-sessions|Added session URL attribution to commits and PRs created from web sessions]] · Developer Workflow
 - [[Changes/Claude Code/2026-01-16-added-support-for-pretooluse-hooks-to-return-additionalcontext-to-the-model|Added support for PreToolUse hooks to return additionalContext to the model]] · Model Support
 - [[Changes/Claude Code/2026-01-16-added-external-editor-support-ctrl-g-in-askuserquestion-other-input-field|Added external editor support (Ctrl+G) in AskUserQuestion "Other" input field]] · Editor Experience
+- [[Changes/Claude Code/2026-01-16-added-claude-session-id-string-substitution-for-skills-to-access-the-current-ses|Added ${CLAUDE_SESSION_ID} string substitution for skills to access the current…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

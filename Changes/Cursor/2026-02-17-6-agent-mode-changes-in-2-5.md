@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d985d035f5a1314deda3328ca9a5a434f6ec1fb29f5169370824fc2738ef91a6
+machine_hash: 6f8877910cbca814d530cb574597b517890fc90ac32bc73f6106bdf8b400fea4
 product: cursor
 product_name: Cursor
 record:
@@ -105,6 +105,7 @@ Source: https://cursor.com/changelog/2-5
 - [[Changes/Cursor/2026-02-17-3-safety-and-privacy-changes-in-2-5|3 Safety and Privacy changes in 2.5]] · Safety and Privacy
 - [[Changes/Cursor/2026-02-17-this-release-introduces-plugins-for-extending-cursor-improvements-to-core-agent|Cursor introduces plugins for extending Cursor, improvements to core agent…]] · Agent Mode
 - [[Changes/Cursor/2026-02-17-2-reliability-and-performance-changes-in-2-5|2 Reliability and Performance changes in 2.5]] · Reliability and Performance
+- [[Changes/Cursor/2026-02-17-the-global-ignore-list-is-now-empty-by-default-to-fix-sandboxing-issues-existing|The global ignore list is now empty by default to fix sandboxing issues]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

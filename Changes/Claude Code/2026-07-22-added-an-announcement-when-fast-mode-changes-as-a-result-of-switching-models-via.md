@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: bb62a7bc5687ad5c7bdacedde8460a7f93d0867f7098c1c9c95dc762c6ace406
+machine_hash: e60aa76ff5a825ecb98e2e69c31af7531af6b5fe93af1829c60e3e4c4da135e0
 product: claude-code
 product_name: Claude Code
 record:
@@ -81,6 +81,7 @@ type: change
 - [[Changes/Claude Code/2026-07-22-added-screen-reader-announcements-of-deleted-text-for-word-and-line-deletions-op|Added screen-reader announcements of deleted text for word and line deletions…]] · Accessibility and Localization
 - [[Changes/Claude Code/2026-07-22-changed-code-review-to-run-as-a-background-subagent-so-review-work-no-longer-fil|Changed /code-review to run as a background subagent, so review work no longer…]] · Developer Workflow
 - [[Changes/Claude Code/2026-07-22-changed-skills-with-context-fork-to-run-in-the-background-by-default-opt-out-per|Changed skills with context: fork to run in the background by default]] · Context Window
+- [[Changes/Claude Code/2026-07-22-improved-trust-dialogs-to-name-the-repository-root-the-grant-covers|Improved trust dialogs to name the repository root the grant covers]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

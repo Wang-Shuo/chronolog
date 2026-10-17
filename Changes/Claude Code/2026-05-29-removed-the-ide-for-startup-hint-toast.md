@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 200614fb0fae95fb92c3192938e5bee88d74678e3b1fbe535a27d01b088a0743
+machine_hash: 04ad5ee0b6aac58dcf87b845e321f12ddca541286f1f2db6470bad9011036838
 product: claude-code
 product_name: Claude Code
 record:
@@ -74,6 +74,7 @@ type: change
 - [[Changes/Claude Code/2026-05-29-3-developer-workflow-changes-in-v2-1-157|3 Developer Workflow changes in v2.1.157]] · Developer Workflow
 - [[Changes/Claude Code/2026-05-29-improved-performance-of-long-and-resumed-conversations-by-eliminating-redundant|Improved performance of long and resumed conversations by eliminating redundant…]] · Reliability and Performance
 - [[Changes/Claude Code/2026-05-29-4-apps-and-integrations-changes-in-v2-1-157|4 Apps and Integrations changes in v2.1.157]] · Apps and Integrations
+- [[Changes/Claude Code/2026-05-29-3-other-changes-in-v2-1-157|3 other changes in v2.1.157]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

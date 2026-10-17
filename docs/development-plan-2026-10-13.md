@@ -165,9 +165,10 @@
 - [x] **M4.2 页面模板。** [PR #8](https://github.com/Wang-Shuo/chronolog/pull/8)，[验收记录](acceptance/w1-card-template-2026-10-15.md)：卡片六区域模板、Release / Theme 标题、显示名、反馈链接、骨架迁移与幂等回放。
 - [x] **M4.3 站点布局与首页。** [PR #9](https://github.com/Wang-Shuo/chronolog/pull/9)，[验收记录](acceptance/w1-site-layout-2026-10-15.md)：About 页、首页重排、Explorer / Graph / 页脚 / 标语、链接对比度、RSS 限定。
 
-**进行中（W2）：** M4.4 卡片定义（P3，方案 B + B+ 试点）已实现并通过工程验收，[验收记录](acceptance/w2-card-definition-2026-10-17.md)；合并前需完成 [60 张样本的 B4 判定](acceptance/w2-evidence/review-packet-cards.md)。
+- [x] **M4.4 卡片定义（P3）。** [PR #11](https://github.com/Wang-Shuo/chronolog/pull/11)，[验收记录](acceptance/w2-card-definition-2026-10-17.md)：方案 B + B+ 试点，B4 判定由 Wang-Shuo 于 2026-10-17 通过。
+- [ ] **M4.5 `uncategorized` 保留主题（P9）与 kind 微调。** [验收记录](acceptance/w2-uncategorized-2026-10-17.md)：待审 662 → 62；待交付 PR 批准合并。
 
-**待排（W2）：** P9 `uncategorized` 保留主题（待审队列已增至 662）、P5 / U5 主题页精选与分道时间线、P6 / C5 产品叙事与主题摘要、C6 词表修订、P7 节奏面板、P2 月度归档、C3 / C4 写作指南。每项沿用评审第 6 节的验收方式；涉及卡片集合变化的任务必须经 M2 的 B4–B6 人工复核。
+**待排（W2）：** P5 / U5 主题页精选与分道时间线、P6 / C5 产品叙事与主题摘要、C6 词表修订、P7 节奏面板、P2 月度归档、C3 / C4 写作指南。每项沿用评审第 6 节的验收方式；涉及卡片集合变化的任务必须经 M2 的 B4–B6 人工复核。
 
 **验收约定：** 与 M1–M3 相同：实现 PR 由机器人创建、人工批准最终 head、`quality` 通过后合并部署；每个 PR 附回放证据与幂等复跑结果。
 

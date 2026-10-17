@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2e4a414fa8e3b311e0ef988d2544180723094a388eda872975f8c6eb5258d165
+machine_hash: 3df395a3ea9b1ee97765b216d59ee2237230374fa9da0f0b56cf3524b99badab
 product: claude-code
 product_name: Claude Code
 record:
@@ -88,6 +88,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.71
 - [[Changes/Claude Code/2026-03-07-fixed-false-positive-permission-prompts-for-compound-bash-commands-containing-he|Fixed false-positive permission prompts for compound bash commands containing…]] · Safety and Privacy
 - [[Changes/Claude Code/2026-03-07-added-voice-pushtotalk-keybinding-to-make-the-voice-activation-key-rebindable-in|Added voice:pushToTalk keybinding to make the voice activation key rebindable…]] · Voice and Audio
 - [[Changes/Claude Code/2026-03-07-2-developer-workflow-changes-in-v2-1-71|2 Developer Workflow changes in v2.1.71]] · Developer Workflow
+- [[Changes/Claude Code/2026-03-07-2-other-changes-in-v2-1-71|2 other changes in v2.1.71]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

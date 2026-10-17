@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c7da68e1eb3feb55c233e58ab2946dc84556be155ed89b56b63b772c0b080fee
+machine_hash: 76f8a4f5ec06634697e6dede07f2a1a0c78f5a9171110da67988708ae6ab091e
 product: claude-code
 product_name: Claude Code
 record:
@@ -79,6 +79,7 @@ type: change
 - [[Changes/Claude Code/2026-07-01-2-model-support-changes-in-v2-1-198|2 Model Support changes in v2.1.198]] · Model Support
 - [[Changes/Claude Code/2026-07-01-5-agent-mode-changes-in-v2-1-198|5 Agent Mode changes in v2.1.198]] · Agent Mode
 - [[Changes/Claude Code/2026-07-01-subagents-and-context-compaction-now-inherit-the-session-s-extended-thinking-con|Subagents and context compaction now inherit the session's extended thinking…]] · Context Window
+- [[Changes/Claude Code/2026-07-01-improved-syntax-highlighting-accuracy-in-code-blocks-diffs-and-file-previews-by|Improved syntax highlighting accuracy in code blocks, diffs, and file previews…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

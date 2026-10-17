@@ -1,9 +1,9 @@
 ---
-changes_count: 2
+changes_count: 3
 date: '2023-04-06'
 description: 'Cursor release Introducing Cursor 0.2.0! (2023-04-06) on 2023-04-06:
-  2 tracked changes across Editor Experience'
-machine_hash: b74cc7a9d8adb3dbffd6728573afcfee0afd91a08fc680f359931661e8966f4c
+  3 tracked changes across Editor Experience, Other changes'
+machine_hash: fb245f93b859ecbb4952c900e4100a0084bb33e7019139f54a94843fced1bc0a
 product: cursor
 product_name: Cursor
 record:
@@ -39,11 +39,12 @@ version: 0.2.0
 <!-- chronolog:begin region="summary" -->
 We've transitioned to building Cursor on top of a fork of VSCodium, moving away from our previous Codemirror-based approach.
 
-Tracked 2 cards from 6 candidate lines; 1 line pending review.
+Tracked 3 cards from 6 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
 - [[Changes/Cursor/2023-04-06-we-ve-transitioned-to-building-cursor-on-top-of-a-fork-of-vscodium-moving-away-f-1497a9|We've transitioned to building Cursor on top of a fork of VSCodium, moving away…]] · Editor Experience
 - [[Changes/Cursor/2023-04-06-transitioned-to-building-cursor-on-top-of-a-fork-of-vscodium|Transitioned to building Cursor on top of a fork of VSCodium]] · Editor Experience
+- [[Changes/Cursor/2023-04-06-focus-on-enhancing-the-ai-for-pair-programming|Focus on enhancing the AI for pair-programming]] · Other changes
 <!-- chronolog:end -->

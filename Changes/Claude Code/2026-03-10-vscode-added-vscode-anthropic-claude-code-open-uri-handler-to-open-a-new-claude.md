@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: fd28bdf47dc3463a837463b6f0f28195ad1d689d53811f4bf3640c2a5e2c4186
+machine_hash: 5a3c7635ec4012a4e6280279d2bf1e9c98f3e1a021b3f1706449e8d47fc851fc
 product: claude-code
 product_name: Claude Code
 record:
@@ -84,6 +84,7 @@ type: change
 - [[Changes/Claude Code/2026-03-10-6-safety-and-privacy-changes-in-v2-1-72|6 Safety and Privacy changes in v2.1.72]] · Safety and Privacy
 - [[Changes/Claude Code/2026-03-10-improved-voice-input-transcription-accuracy-for-repo-names-and-common-dev-terms|Improved voice input transcription accuracy for repo names and common dev terms…]] · Voice and Audio
 - [[Changes/Claude Code/2026-03-10-3-apps-and-integrations-changes-in-v2-1-72|3 Apps and Integrations changes in v2.1.72]] · Apps and Integrations
+- [[Changes/Claude Code/2026-03-10-7-other-changes-in-v2-1-72|7 other changes in v2.1.72]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

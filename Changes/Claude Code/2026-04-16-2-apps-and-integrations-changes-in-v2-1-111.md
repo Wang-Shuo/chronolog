@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9f2ba5a65aa7de85ffc93a7c00e9797cdff99e7d9e62d8abbb191bc996c3db5d
+machine_hash: 74c28d559b96eb39ef66022ae0e44fdbf6cbae1775c170abfba5b30058d2b0bf
 product: claude-code
 product_name: Claude Code
 record:
@@ -89,6 +89,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.111
 - [[Changes/Claude Code/2026-04-16-added-ultrareview-for-running-comprehensive-code-review-in-the-cloud-using-paral|Added /ultrareview for running comprehensive code review in the cloud using…]] · Developer Workflow
 - [[Changes/Claude Code/2026-04-16-2-safety-and-privacy-changes-in-v2-1-111|2 Safety and Privacy changes in v2.1.111]] · Safety and Privacy
 - [[Changes/Claude Code/2026-04-16-auto-mode-no-longer-requires-enable-auto-mode|Auto mode no longer requires --enable-auto-mode]] · Agent Mode
+- [[Changes/Claude Code/2026-04-16-6-other-changes-in-v2-1-111|6 other changes in v2.1.111]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

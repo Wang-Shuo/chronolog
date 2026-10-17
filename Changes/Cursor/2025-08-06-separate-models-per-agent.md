@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 6848a29356a7be135be3bb753505b81eb82f3838261a950a9676d9cf8acb1cfd
+machine_hash: fab6c9fa9062bf0a620389c0103872d87c975337dc9aa218beb469fcfe548f68
 product: cursor
 product_name: Cursor
 record:
@@ -94,6 +94,7 @@ type: change
 - [[Changes/Cursor/2025-08-06-1-4-5-improved-performance|1.4.5: Improved performance]] · Reliability and Performance
 - [[Changes/Cursor/2025-08-06-ai-code-tracking-api-get-commit-level-visibility-into-ai-usage-and-accepted-chan|AI code tracking API]] · Collaboration
 - [[Changes/Cursor/2025-08-06-admin-api-for-blocklists-block-specific-files-or-directories-from-being-indexed|Admin API for blocklists]] · Context Window
+- [[Changes/Cursor/2025-08-06-member-exports-export-all-workspace-members-to-csv-from-the-dashboard|Member exports: Export all workspace members to CSV from the dashboard]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

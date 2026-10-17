@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 840b831c6671d5bed17863aacc037635279a6af0bf941fd3d765ed1accf6e34b
+machine_hash: 30e9de90a6d53a1ed3db93654c81a36d180bfde409ef48f43251e7e7f32be61b
 product: claude-code
 product_name: Claude Code
 record:
@@ -89,6 +89,7 @@ type: change
 - [[Changes/Claude Code/2026-08-26-2-apps-and-integrations-changes-in-v2-1-247|2 Apps and Integrations changes in v2.1.247]] · Apps and Integrations
 - [[Changes/Claude Code/2026-08-26-3-account-and-access-changes-in-v2-1-247|3 Account and Access changes in v2.1.247]] · Account and Access
 - [[Changes/Claude Code/2026-08-26-changed-sonnet-5-s-default-auto-compact-window-to-its-full-1m-context-so-session|Changed Sonnet 5's default auto-compact window to its full 1M context, so sessions…]] · Context Window
+- [[Changes/Claude Code/2026-08-26-4-other-changes-in-v2-1-247|4 other changes in v2.1.247]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

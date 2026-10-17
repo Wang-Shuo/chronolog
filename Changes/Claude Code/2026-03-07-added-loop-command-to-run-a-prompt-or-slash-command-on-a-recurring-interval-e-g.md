@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ad41027e32e51b9e13a83aa1f1a022b3e95903c4831ce62c633c8c6a0da926e2
+machine_hash: caab85dc08fcf582387f3bf97058396a33ba988c753922b35fdfc64ae278832e
 product: claude-code
 product_name: Claude Code
 record:
@@ -78,6 +78,7 @@ type: change
 - [[Changes/Claude Code/2026-03-07-3-apps-and-integrations-changes-in-v2-1-71|3 Apps and Integrations changes in v2.1.71]] · Apps and Integrations
 - [[Changes/Claude Code/2026-03-07-added-voice-pushtotalk-keybinding-to-make-the-voice-activation-key-rebindable-in|Added voice:pushToTalk keybinding to make the voice activation key rebindable…]] · Voice and Audio
 - [[Changes/Claude Code/2026-03-07-2-developer-workflow-changes-in-v2-1-71|2 Developer Workflow changes in v2.1.71]] · Developer Workflow
+- [[Changes/Claude Code/2026-03-07-2-other-changes-in-v2-1-71|2 other changes in v2.1.71]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

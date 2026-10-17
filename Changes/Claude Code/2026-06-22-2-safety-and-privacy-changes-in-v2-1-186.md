@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9e9767e69d42b66cf66091c92092b577d6d8d20d25c81f1dd6eb6889ace89463
+machine_hash: 746acef50e6bca714b8c53aa5dc2c8b0dc73eca04ae869366dcdcd8e1f42f808
 product: claude-code
 product_name: Claude Code
 record:
@@ -84,6 +84,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.186
 - [[Changes/Claude Code/2026-06-22-bash-commands-now-trigger-claude-to-respond-to-the-output-automatically-set-resp|! bash commands now trigger Claude to respond to the output automatically]] · Context Window
 - [[Changes/Claude Code/2026-06-22-2-agent-mode-changes-in-v2-1-186|2 Agent Mode changes in v2.1.186]] · Agent Mode
 - [[Changes/Claude Code/2026-06-22-2-account-and-access-changes-in-v2-1-186|2 Account and Access changes in v2.1.186]] · Account and Access
+- [[Changes/Claude Code/2026-06-22-3-other-changes-in-v2-1-186|3 other changes in v2.1.186]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

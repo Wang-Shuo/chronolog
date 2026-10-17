@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 584deb65dba27ae8a4299ffde31876e87314e25c5e0f6a6e010ab8aeb4d6366e
+machine_hash: e431085dcb6ec482721c214991a2e5a9c30947b86ccc130577b9f9b2b2783e2a
 product: claude-code
 product_name: Claude Code
 record:
@@ -78,6 +78,7 @@ type: change
 - [[Changes/Claude Code/2026-06-06-hardened-cross-session-messaging-messages-relayed-via-sendmessage-from-other-cla|Hardened cross-session messaging]] · Safety and Privacy
 - [[Changes/Claude Code/2026-06-06-3-model-support-changes-in-v2-1-166|3 Model Support changes in v2.1.166]] · Model Support
 - [[Changes/Claude Code/2026-06-06-claude-agents-typing-a-url-into-the-list-now-filters-to-the-session-whose-first|claude agents: typing a URL into the list now filters to the session whose first…]] · Agent Mode
+- [[Changes/Claude Code/2026-06-06-claude-update-now-announces-the-target-version-before-downloading-instead-of-goi|claude update now announces the target version before downloading instead of going…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

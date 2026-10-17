@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 16a3b4aaeb5f8c128e8f9bfbfc4bfb7790ffd7d236d40d858c4f67e8dbb72815
+machine_hash: e5ffc7158d481438479bb69163b22ad89541829e08a7de25518417bec273c95c
 product: cursor
 product_name: Cursor
 record:
@@ -79,6 +79,8 @@ type: change
 - [[Changes/Cursor/2026-04-14-we-ve-shipped-quality-of-life-improvements-to-the-cursor-cli-to-make-working-wit|We've shipped quality-of-life improvements to the Cursor CLI to make working…]] · Developer Workflow
 - [[Changes/Cursor/2026-04-14-configuration-menu-in-cli|Configuration menu in CLI]] · Interface Experience
 - [[Changes/Cursor/2026-04-14-3-developer-workflow-changes-in-04-14-26|3 Developer Workflow changes in 04.14.26]] · Developer Workflow
+- [[Changes/Cursor/2026-04-14-2-other-changes-in-04-14-26|2 other changes in 04.14.26]] · Other changes
+- [[Changes/Cursor/2026-04-14-you-can-now-reliably-send-the-cli-to-the-background-using-ctrl-z|Reliably send the CLI to the background using Ctrl+Z]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

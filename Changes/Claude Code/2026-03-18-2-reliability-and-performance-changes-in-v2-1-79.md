@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0c3d02ce6c6d41e13706b0dd376eb25a30e847b549fa4c14611957b071bf6236
+machine_hash: 32ab88b7ab832483ab787195d350d7aaa495756ed2c6fe19e0eb2905cb192d6b
 product: claude-code
 product_name: Claude Code
 record:
@@ -79,6 +79,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.79
 - [[Changes/Claude Code/2026-03-18-added-console-flag-to-claude-auth-login-for-anthropic-console-api-billing-authen|Added --console flag to claude auth login for Anthropic Console (API billing)…]] · Account and Access
 - [[Changes/Claude Code/2026-03-18-fixed-custom-status-line-showing-nothing-when-workspace-trust-is-blocking-it|Fixed custom status line showing nothing when workspace trust is blocking it]] · Safety and Privacy
 - [[Changes/Claude Code/2026-03-18-added-show-turn-duration-toggle-to-the-config-menu|Added "Show turn duration" toggle to the /config menu]] · Interface Experience
+- [[Changes/Claude Code/2026-03-18-vscode-session-tabs-now-get-ai-generated-titles-based-on-your-first-message|VSCode Session tabs now get AI-generated titles based on your first message]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

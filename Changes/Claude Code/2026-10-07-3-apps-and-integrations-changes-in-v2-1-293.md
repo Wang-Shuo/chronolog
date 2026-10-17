@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 57f32e3992b185a9ded9dd08bb525798780d47fda9aa5eb917ac96c93bd3763b
+machine_hash: 266aac90bf61b21653a8836b99efa63371aa8a4a7c23c5a10e779a2479cc1df9
 product: claude-code
 product_name: Claude Code
 record:
@@ -87,6 +87,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.293
 - [[Changes/Claude Code/2026-10-07-code-review-improved-code-review-s-add-a-repository-dialog-to-list-each-reposito|Code Review Improved Code Review's Add a repository dialog to list each repository…]] · Developer Workflow
 - [[Changes/Claude Code/2026-10-07-3-safety-and-privacy-changes-in-v2-1-293|3 Safety and Privacy changes in v2.1.293]] · Safety and Privacy
 - [[Changes/Claude Code/2026-10-07-2-agent-mode-changes-in-v2-1-293|2 Agent Mode changes in v2.1.293]] · Agent Mode
+- [[Changes/Claude Code/2026-10-07-5-other-changes-in-v2-1-293|5 other changes in v2.1.293]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

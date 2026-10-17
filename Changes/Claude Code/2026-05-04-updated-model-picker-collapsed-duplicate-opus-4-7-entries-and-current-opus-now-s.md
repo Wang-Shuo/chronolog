@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 440f4106d5def972ef19b38b9005aec566d41bf81f9d0664bfc2d461c7699b98
+machine_hash: a00bc92aba40e9e01e48f53ac3ab9d37042dfd78164842d2f4cdf584ae53c6c4
 product: claude-code
 product_name: Claude Code
 record:
@@ -88,6 +88,7 @@ type: change
 - [[Changes/Claude Code/2026-05-04-sdk-hosts-now-receive-a-persistent-localsettings-suggestion-for-bash-permission|SDK hosts now receive a persistent localSettings suggestion for Bash permission…]] · Safety and Privacy
 - [[Changes/Claude Code/2026-05-04-6-apps-and-integrations-changes-in-v2-1-128|6 Apps and Integrations changes in v2.1.128]] · Apps and Integrations
 - [[Changes/Claude Code/2026-05-04-channels-now-works-with-console-api-key-authentication-console-orgs-with-managed|--channels now works with console (API key) authentication]] · Account and Access
+- [[Changes/Claude Code/2026-05-04-enterworktree-now-creates-the-new-branch-from-local-head-as-documented-instead-o|EnterWorktree now creates the new branch from local HEAD as documented, instead…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

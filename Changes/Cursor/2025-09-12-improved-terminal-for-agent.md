@@ -15,8 +15,8 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
-kind: launch
-machine_hash: 70814574e72635be6ce601f94ef871e00a4d431d5eb18ec167f9e10feb2c31cf
+kind: change
+machine_hash: 51065452356a13191dfb40f457f94f116803f2a38f24adcae833ada142fb45b3
 product: cursor
 product_name: Cursor
 record:
@@ -40,7 +40,7 @@ record:
     source_release: https://cursor.com/changelog/1-6
   extractor_version: fallback-v5
   impact: paradigm-shift
-  kind: launch
+  kind: change
   product: cursor
   product_name: Cursor
   slug: improved-terminal-for-agent
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Improved terminal for Agent
 
-**Cursor** · 2025-09-12 · [[Themes/developer-workflow|Developer Workflow]] · Launch · [Official source](https://cursor.com/changelog/1-6) · from [[Releases/Cursor/cursor-2025-09-12-1-6-https-cursor-com-changelog-1-6-f33fb3ea|Slash commands, summarization, and improved Agent terminal]]
+**Cursor** · 2025-09-12 · [[Themes/developer-workflow|Developer Workflow]] · [Official source](https://cursor.com/changelog/1-6) · from [[Releases/Cursor/cursor-2025-09-12-1-6-https-cursor-com-changelog-1-6-f33fb3ea|Slash commands, summarization, and improved Agent terminal]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -105,6 +105,7 @@ type: change
 - [[Changes/Cursor/2025-09-12-custom-slash-commands-b79c4b|Custom slash commands]] · Developer Workflow
 - [[Changes/Cursor/2025-09-12-5-reliability-and-performance-changes-in-1-6|5 Reliability and Performance changes in 1.6]] · Reliability and Performance
 - [[Changes/Cursor/2025-09-12-mcp-resources-support|MCP Resources support]] · Apps and Integrations
+- [[Changes/Cursor/2025-09-12-1-6-26-summarization-and-extension-improvements|1.6.26: Summarization and extension improvements]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

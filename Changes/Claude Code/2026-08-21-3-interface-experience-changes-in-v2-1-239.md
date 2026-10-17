@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9d49555dafa09901a35d2a285ecd0b4e67c4159232d16fa60e64cb859fc88301
+machine_hash: bfcdcf8b4ec86623328b7ddac878f61a757a9b1be07be425cce14f72560d10fa
 product: claude-code
 product_name: Claude Code
 record:
@@ -91,6 +91,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.239
 - [[Changes/Claude Code/2026-08-21-fixed-fullscreen-mode-answering-a-permission-prompt-or-pressing-a-button-when-yo|Fixed fullscreen mode answering a permission prompt or pressing a button when you…]] · Safety and Privacy
 - [[Changes/Claude Code/2026-08-21-windows-cross-session-messaging-is-now-available-so-claude-code-sessions-across|Windows: cross-session messaging is now available, so Claude Code sessions across…]] · Mobile and Desktop
 - [[Changes/Claude Code/2026-08-21-alpine-musl-builds-native-image-paste-clipboard-and-audio-capture-add-ons-now-lo|Alpine/musl builds: native image paste, clipboard, and audio-capture add-ons now…]] · Voice and Audio
+- [[Changes/Claude Code/2026-08-21-added-claude-api-upgrade-to-migrate-python-projects-from-anthropic-0-x-to-1-x-an|Added /claude-api upgrade to migrate Python projects from anthropic 0.x to 1.x…]] · Other changes
+- [[Changes/Claude Code/2026-08-21-5-other-changes-in-v2-1-239|5 other changes in v2.1.239]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

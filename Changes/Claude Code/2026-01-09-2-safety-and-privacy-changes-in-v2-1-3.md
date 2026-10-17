@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d2451a88b9fa68c09cda76f57df3a61488a5cd6e683ba89679ef8dc4aee3b5b3
+machine_hash: e882657c455220d05809a88a7dd424a48bd9d40e8560ed2f9469f6d1061c8288
 product: claude-code
 product_name: Claude Code
 record:
@@ -81,6 +81,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.3
 - [[Changes/Claude Code/2026-01-09-merged-slash-commands-and-skills-simplifying-the-mental-model-with-no-change-in|Merged slash commands and skills, simplifying the mental model with no change in behavior]] · Model Support
 - [[Changes/Claude Code/2026-01-09-2-interface-experience-changes-in-v2-1-3|2 Interface Experience changes in v2.1.3]] · Interface Experience
 - [[Changes/Claude Code/2026-01-09-improved-slash-command-suggestion-readability-by-truncating-long-descriptions-to|Improved slash command suggestion readability by truncating long descriptions to 2 lines]] · Developer Workflow
+- [[Changes/Claude Code/2026-01-09-changed-tool-hook-execution-timeout-from-60-seconds-to-10-minutes|Changed tool hook execution timeout from 60 seconds to 10 minutes]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

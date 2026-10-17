@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 21e02c37c656df6aa891a1d4f6267d2efa7b3956f3763d3b0b9aea2a1b45ebfd
+machine_hash: 06615e221369437e00bf34f601db4767fc3c5297b31ccb303b4e905c4e36aadb
 product: cursor
 product_name: Cursor
 record:
@@ -88,6 +88,7 @@ type: change
 - [[Changes/Cursor/2025-06-04-new-settings-and-dashboard|New Settings and Dashboard]] · Interface Experience
 - [[Changes/Cursor/2025-06-04-faster-responses-with-parallel-tool-calls|Faster responses with parallel tool calls]] · Reliability and Performance
 - [[Changes/Cursor/2025-06-04-mcp-one-click-install-and-oauth-support|MCP one-click install and OAuth support]] · Account and Access
+- [[Changes/Cursor/2025-06-04-2-other-changes-in-1-0|2 other changes in 1.0]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

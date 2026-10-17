@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b8858035cf8d65024a3110f881cf6d7d7ec22dca462621e204ba38ad14fa6253
+machine_hash: 22edb379d7f6102e75b6e4ab31da85d4a8c397834e2872b2ed9f5db411abd843
 product: claude-code
 product_name: Claude Code
 record:
@@ -88,6 +88,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.153
 - [[Changes/Claude Code/2026-05-28-model-now-saves-your-selection-as-the-default-for-new-sessions-matching-the-ide|/model now saves your selection as the default for new sessions (matching the IDE)]] · Model Support
 - [[Changes/Claude Code/2026-05-28-claude-code-now-shows-a-one-time-notice-when-your-npm-global-install-can-t-auto|Claude Code now shows a one-time notice when your npm global install can't auto-update]] · Reliability and Performance
 - [[Changes/Claude Code/2026-05-28-status-line-commands-now-receive-columns-and-lines-environment-variables-so-scri|Status line commands now receive COLUMNS and LINES environment variables…]] · Developer Workflow
+- [[Changes/Claude Code/2026-05-28-claude-doctor-now-shows-the-result-of-your-last-update-attempt|claude doctor now shows the result of your last update attempt]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

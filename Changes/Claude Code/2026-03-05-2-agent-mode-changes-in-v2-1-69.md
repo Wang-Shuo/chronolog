@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1f8ef1b017af3e43f0d520ee2c05e0718a8bd0cebe3243d532437a201c554e0a
+machine_hash: 4561c01595c36a8562401603cb6d4a6737587509ead70e4d7f6cf2e26e06af49
 product: claude-code
 product_name: Claude Code
 record:
@@ -89,6 +89,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.69
 - [[Changes/Claude Code/2026-03-05-6-developer-workflow-changes-in-v2-1-69|6 Developer Workflow changes in v2.1.69]] · Developer Workflow
 - [[Changes/Claude Code/2026-03-05-2-account-and-access-changes-in-v2-1-69|2 Account and Access changes in v2.1.69]] · Account and Access
 - [[Changes/Claude Code/2026-03-05-3-context-window-changes-in-v2-1-69|3 Context Window changes in v2.1.69]] · Context Window
+- [[Changes/Claude Code/2026-03-05-3-other-changes-in-v2-1-69|3 other changes in v2.1.69]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

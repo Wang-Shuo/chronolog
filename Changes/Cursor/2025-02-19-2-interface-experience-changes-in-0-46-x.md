@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c482cefef926d03331fda66094047c9b985e334d0d7e298cae7e87d2c98e8b56
+machine_hash: 376e8ccc768a5bd98512a71e9362cff524c4c078164377eda732504cb79fb916
 product: cursor
 product_name: Cursor
 record:
@@ -84,6 +84,7 @@ Source: https://cursor.com/changelog/0-46-x
 - [[Changes/Cursor/2025-02-19-agent-tool-limit-upon-reaching-the-25-tool-call-limit-you-can-press-continue-to|Agent tool limit]] · Agent Mode
 - [[Changes/Cursor/2025-02-19-web-search-agent-can-now-automatically-search-the-web-for-up-to-date-information|Web search: Agent can now automatically search the web for up-to-date information…]] · Search and Browsing
 - [[Changes/Cursor/2025-02-19-mcp-improvements|MCP improvements]] · Apps and Integrations
+- [[Changes/Cursor/2025-02-19-2-other-changes-in-0-46-x|2 other changes in 0.46.x]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

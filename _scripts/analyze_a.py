@@ -3,6 +3,7 @@ from __future__ import annotations
 import argparse
 import sys
 from collections import Counter, defaultdict
+from collections.abc import Collection
 from pathlib import Path
 from typing import Any
 
@@ -11,9 +12,15 @@ if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
 from _scripts.common import PipelinePaths, read_json, write_json
+from _scripts.extract import HOLDING_THEMES
 
 
-def analyze_products(cards: list[dict[str, Any]]) -> dict[str, Any]:
+def analyze_products(
+    cards: list[dict[str, Any]],
+    holding: Collection[str] = HOLDING_THEMES,
+) -> dict[str, Any]:
+    """Per-product summary. Cards of a holding theme count toward the verbosity baseline
+    (they are published cards) but never rank among the product's themes."""
     grouped: dict[str, list[dict[str, Any]]] = defaultdict(list)
     for card in cards:
         grouped[card["product"]].append(card)
@@ -23,7 +30,7 @@ def analyze_products(cards: list[dict[str, Any]]) -> dict[str, Any]:
     for product, product_cards in grouped.items():
         ordered = sorted(product_cards, key=lambda card: (card["date"], card["card_id"]))
         releases = {card["source_release"] for card in ordered}
-        theme_counts = Counter(card["theme"] for card in ordered)
+        theme_counts = Counter(card["theme"] for card in ordered if card["theme"] not in holding)
         baseline = round(len(ordered) / max(len(releases), 1), 2)
 
         # Chronology alone is not evidence of capability evolution. Product

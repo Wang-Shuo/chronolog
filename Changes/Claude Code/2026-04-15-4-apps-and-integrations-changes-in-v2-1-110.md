@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 24f9091b05fd5902a41d0902542c29d2c1e415330ea263b6c7224f332594d4b8
+machine_hash: e5e6a523c757cfb222c0d6084a96a4edb3d672a76a2beed82199689f3d71706e
 product: claude-code
 product_name: Claude Code
 record:
@@ -95,6 +95,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.110
 - [[Changes/Claude Code/2026-04-15-2-interface-experience-changes-in-v2-1-110|2 Interface Experience changes in v2.1.110]] · Interface Experience
 - [[Changes/Claude Code/2026-04-15-added-option-to-show-claude-s-last-response-as-commented-context-in-the-ctrl-g-e|Added option to show Claude's last response as commented context in the Ctrl+G…]] · Context Window
 - [[Changes/Claude Code/2026-04-15-2-editor-experience-changes-in-v2-1-110|2 Editor Experience changes in v2.1.110]] · Editor Experience
+- [[Changes/Claude Code/2026-04-15-session-recap-is-now-enabled-for-users-with-telemetry-disabled-bedrock-vertex-fo|Session recap is now enabled for users with telemetry disabled…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 23db2b52c508bab7a881b7bcf257afb3b32976c046ef013590b826a2347dc33c
+machine_hash: fec0250f5cdb6477e28f507adcbd6f035429d78e9aa0eb571845c18fbcb0e119
 product: claude-code
 product_name: Claude Code
 record:
@@ -84,6 +84,7 @@ type: change
 - [[Changes/Claude Code/2025-12-19-added-terminal-setup-support-for-kitty-alacritty-zed-and-warp-terminals|Added /terminal-setup support for Kitty, Alacritty, Zed, and Warp terminals]] · Developer Workflow
 - [[Changes/Claude Code/2025-12-19-2-interface-experience-changes-in-v2-0-74|2 Interface Experience changes in v2.0.74]] · Interface Experience
 - [[Changes/Claude Code/2025-12-19-added-guidance-for-macos-users-when-alt-shortcuts-fail-due-to-terminal-configura|Added guidance for macOS users when Alt shortcuts fail due to terminal configuration]] · Mobile and Desktop
+- [[Changes/Claude Code/2025-12-19-vscode-added-gift-tag-pictogram-for-year-end-promotion-message|VSCode Added gift tag pictogram for year-end promotion message]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

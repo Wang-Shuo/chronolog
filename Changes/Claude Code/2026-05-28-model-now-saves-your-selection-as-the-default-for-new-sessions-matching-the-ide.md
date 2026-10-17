@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 27a952ac59de5a687a82811b836966d15a71ea36275001f3e25a2057b2668ba8
+machine_hash: f8e10ff9dfbe1e074353f0f6a32525bcbab58218107229d1b0deaf052deca7ec
 product: claude-code
 product_name: Claude Code
 record:
@@ -95,6 +95,7 @@ type: change
 - [[Changes/Claude Code/2026-05-28-3-agent-mode-changes-in-v2-1-153|3 Agent Mode changes in v2.1.153]] · Agent Mode
 - [[Changes/Claude Code/2026-05-28-claude-code-now-shows-a-one-time-notice-when-your-npm-global-install-can-t-auto|Claude Code now shows a one-time notice when your npm global install can't auto-update]] · Reliability and Performance
 - [[Changes/Claude Code/2026-05-28-status-line-commands-now-receive-columns-and-lines-environment-variables-so-scri|Status line commands now receive COLUMNS and LINES environment variables…]] · Developer Workflow
+- [[Changes/Claude Code/2026-05-28-claude-doctor-now-shows-the-result-of-your-last-update-attempt|claude doctor now shows the result of your last update attempt]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

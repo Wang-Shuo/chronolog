@@ -1,9 +1,9 @@
 ---
-changes_count: 13
+changes_count: 14
 date: '2026-04-02'
-description: 'Cursor release New Cursor Interface on 2026-04-02: 13 tracked changes
+description: 'Cursor release New Cursor Interface on 2026-04-02: 14 tracked changes
   across Agent Mode, Editor Experience, Apps and Integrations, Automation and Scheduling…'
-machine_hash: 3cd8b910f2aaeb2c12f71d6663b632309893557a758825a7692ffffa56633eaf
+machine_hash: 5f306c721672eec5f5c3f678854538b171d25f63854bdefaf84096c38341cd5d
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ version: '3.0'
 <!-- chronolog:begin region="summary" -->
 Cursor 3 is now available.
 
-Tracked 13 cards from 46 candidate lines; 2 lines pending review.
+Tracked 14 cards from 46 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
@@ -56,4 +56,5 @@ Tracked 13 cards from 46 candidate lines; 2 lines pending review.
 - [[Changes/Cursor/2026-04-02-past-chat-transcripts-are-now-surfaced-directly-in-at-mention-search-results|Past chat transcripts are now surfaced directly in at-mention search results]] · Search and Browsing
 - [[Changes/Cursor/2026-04-02-large-file-diff-rendering-is-now-much-faster-smoother-and-less-memory-heavy|Large-file diff rendering is now much faster, smoother, and less memory-heavy]] · Memory and Personalization
 - [[Changes/Cursor/2026-04-02-2-apps-and-integrations-changes-in-3-0|2 Apps and Integrations changes in 3.0]] · Apps and Integrations · Digest
+- [[Changes/Cursor/2026-04-02-2-other-changes-in-3-0|2 other changes in 3.0]] · Other changes · Digest
 <!-- chronolog:end -->

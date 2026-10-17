@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8aa2d6e3dd50e2bfdcb22f83d9f186ef9f9773b5a221ce613d9e01c5b4248af3
+machine_hash: 18f606a7c80bea60516b05232081c0dac61a6ecb036a170bb6e649988d6279d3
 product: claude-code
 product_name: Claude Code
 record:
@@ -80,6 +80,7 @@ type: change
 - [[Changes/Claude Code/2026-06-10-sub-agents-can-now-spawn-their-own-sub-agents-up-to-5-levels-deep|Sub-agents can now spawn their own sub-agents (up to 5 levels deep)]] · Agent Mode
 - [[Changes/Claude Code/2026-06-10-stopped-promoting-loop-in-remote-sessions-where-pending-loops-don-t-keep-the-con|Stopped promoting /loop in remote sessions, where pending loops don't keep…]] · Automation and Scheduling
 - [[Changes/Claude Code/2026-06-10-2-model-support-changes-in-v2-1-172|2 Model Support changes in v2.1.172]] · Model Support
+- [[Changes/Claude Code/2026-06-10-improved-claude-in-chrome-tool-loading-browser-tools-now-load-in-a-single-batche|Improved Claude in Chrome tool loading]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

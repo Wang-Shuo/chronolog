@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: cda3969d0ef8fbe0320ceb624e51c9b048db7bb869acb947ab6cf95604a8bc04
+machine_hash: 20e09e7479c518963aeb7a260b1f9f9ca7d5985ae9f0a33fee1c20a9306a082a
 product: cursor
 product_name: Cursor
 record:
@@ -74,6 +74,7 @@ type: change
 
 - [[Changes/Cursor/2023-09-08-better-state-management-prevents-crashes-from-editor-using-too-much-memory|Better state management - prevents crashes from editor using too much memory]] · Memory and Personalization
 - [[Changes/Cursor/2023-09-08-long-files-in-chat|Long files in chat]] · Context Window
+- [[Changes/Cursor/2023-09-08-2-other-changes-in-0-10-0|2 other changes in 0.10.0]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 8ae6506945f414545828bf63feb175c0ce58e3d34cb315f0f3d0f6c38c68fd08
+machine_hash: 8011319785172fca153877977ea47bb86d1b3f6ea4d25e06b65e91aa8ad20dd8
 product: claude-code
 product_name: Claude Code
 record:
@@ -86,6 +86,7 @@ type: change
 
 - [[Changes/Claude Code/2026-08-04-2-apps-and-integrations-changes-in-v2-1-222|2 Apps and Integrations changes in v2.1.222]] · Apps and Integrations
 - [[Changes/Claude Code/2026-08-04-improved-the-refusal-when-claude-tries-to-invoke-a-skill-with-disable-model-invo|Improved the refusal when Claude tries to invoke a skill with disable-model-invocation]] · Model Support
+- [[Changes/Claude Code/2026-08-04-removed-ultraplan-feature|Removed ultraplan feature]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

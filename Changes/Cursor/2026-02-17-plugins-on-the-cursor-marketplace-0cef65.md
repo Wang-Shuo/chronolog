@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 0dcf7fa5dca697e93acc82fe4664830c4e8883c7b1584a5d0e77cc605f9419ae
+machine_hash: e50c14e17817dda8d6f8ba53d786a8906c8935ae7d9aab1641a26fdfda61c9b0
 product: cursor
 product_name: Cursor
 record:
@@ -94,6 +94,7 @@ type: change
 - [[Changes/Cursor/2026-02-17-6-agent-mode-changes-in-2-5|6 Agent Mode changes in 2.5]] · Agent Mode
 - [[Changes/Cursor/2026-02-17-this-release-introduces-plugins-for-extending-cursor-improvements-to-core-agent|Cursor introduces plugins for extending Cursor, improvements to core agent…]] · Agent Mode
 - [[Changes/Cursor/2026-02-17-2-reliability-and-performance-changes-in-2-5|2 Reliability and Performance changes in 2.5]] · Reliability and Performance
+- [[Changes/Cursor/2026-02-17-the-global-ignore-list-is-now-empty-by-default-to-fix-sandboxing-issues-existing|The global ignore list is now empty by default to fix sandboxing issues]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 34e1eb3562671704a430cccb14609581afad4b03cebf430ef29d2cd1fd4955df
+machine_hash: b765e247c78b544aeab6f636b23b7e1f3e28c8fc131379606b16020b0ecd9193
 product: claude-code
 product_name: Claude Code
 record:
@@ -77,6 +77,7 @@ type: change
 - [[Changes/Claude Code/2026-09-08-4-apps-and-integrations-changes-in-v2-1-265|4 Apps and Integrations changes in v2.1.265]] · Apps and Integrations
 - [[Changes/Claude Code/2026-09-08-2-account-and-access-changes-in-v2-1-265|2 Account and Access changes in v2.1.265]] · Account and Access
 - [[Changes/Claude Code/2026-09-08-improved-workflows-agent-detail-tool-calls-are-marked-running-failed-or-done-the|Improved /workflows agent detail]] · Agent Mode
+- [[Changes/Claude Code/2026-09-08-6-other-changes-in-v2-1-265|6 other changes in v2.1.265]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

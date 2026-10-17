@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9051749511fac9975b62483d16d49c15d03671c58becd70805bea499b3d1fc79
+machine_hash: 3f7554b02c3a3da4bfeab3dccf54083c20a15cdc257714e17863f63f5de1ebfa
 product: claude-code
 product_name: Claude Code
 record:
@@ -107,6 +107,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.292
 - [[Changes/Claude Code/2026-10-06-improved-the-focus-tip-it-now-invites-you-to-try-focus-view-mid-turn-and-shows-h|Improved the /focus tip]] · Interface Experience
 - [[Changes/Claude Code/2026-10-06-added-prompt-caching-to-model-complete-for-mods-prompt-and-system-take-blocks-of|Added prompt caching to $.model.complete for mods]] · Model Support
 - [[Changes/Claude Code/2026-10-06-3-agent-mode-changes-in-v2-1-292|3 Agent Mode changes in v2.1.292]] · Agent Mode
+- [[Changes/Claude Code/2026-10-06-8-other-changes-in-v2-1-292|8 other changes in v2.1.292]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

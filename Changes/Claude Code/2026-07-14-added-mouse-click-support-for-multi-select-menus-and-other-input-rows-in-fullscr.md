@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 014c021ac399aac86ad2c9d7e5d025a6eedebf36593fdc1109117b0f92583063
+machine_hash: 359911f656e55c927bd1cebf2d9838fcd42a6196602073ff6a70ef2e1ae8f813
 product: claude-code
 product_name: Claude Code
 record:
@@ -81,6 +81,7 @@ type: change
 - [[Changes/Claude Code/2026-07-14-3-reliability-and-performance-changes-in-v2-1-208|3 Reliability and Performance changes in v2.1.208]] · Reliability and Performance
 - [[Changes/Claude Code/2026-07-14-fixed-multi-second-per-turn-slowdowns-in-sessions-with-many-permission-deny-ask|Fixed multi-second per-turn slowdowns in sessions with many permission deny/ask rules]] · Safety and Privacy
 - [[Changes/Claude Code/2026-07-14-added-screen-reader-mode-opt-in-plain-text-rendering-for-screen-reader-users-run|Added screen reader mode: opt-in plain-text rendering for screen reader users]] · Accessibility and Localization
+- [[Changes/Claude Code/2026-07-14-2-other-changes-in-v2-1-208|2 other changes in v2.1.208]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

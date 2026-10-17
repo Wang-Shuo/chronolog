@@ -17,8 +17,8 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
-kind: launch
-machine_hash: 15b736406ce3d6c2b698722b70e9413a19a76cd4b89fed6c4d7111e46a19eaad
+kind: change
+machine_hash: e39ed8025942c724711c6eeb50dd919726663e0255d1b05323b35787112d2485
 product: cursor
 product_name: Cursor
 record:
@@ -50,7 +50,7 @@ record:
     source_release: https://cursor.com/changelog/1-4
   extractor_version: fallback-v5
   impact: paradigm-shift
-  kind: launch
+  kind: change
   product: cursor
   product_name: Cursor
   slug: improved-agent-tools
@@ -75,7 +75,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Improved Agent tools
 
-**Cursor** · 2025-08-06 · [[Themes/agent-mode|Agent Mode]] · Launch · [Official source](https://cursor.com/changelog/1-4) · from [[Releases/Cursor/cursor-2025-08-06-1-4-https-cursor-com-changelog-1-4-5a085889|Improved Agent tools, steerability, and usage visibility]]
+**Cursor** · 2025-08-06 · [[Themes/agent-mode|Agent Mode]] · [Official source](https://cursor.com/changelog/1-4) · from [[Releases/Cursor/cursor-2025-08-06-1-4-https-cursor-com-changelog-1-4-5a085889|Improved Agent tools, steerability, and usage visibility]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -106,6 +106,7 @@ type: change
 - [[Changes/Cursor/2025-08-06-1-4-5-improved-performance|1.4.5: Improved performance]] · Reliability and Performance
 - [[Changes/Cursor/2025-08-06-ai-code-tracking-api-get-commit-level-visibility-into-ai-usage-and-accepted-chan|AI code tracking API]] · Collaboration
 - [[Changes/Cursor/2025-08-06-admin-api-for-blocklists-block-specific-files-or-directories-from-being-indexed|Admin API for blocklists]] · Context Window
+- [[Changes/Cursor/2025-08-06-member-exports-export-all-workspace-members-to-csv-from-the-dashboard|Member exports: Export all workspace members to CSV from the dashboard]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

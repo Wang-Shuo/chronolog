@@ -1,9 +1,9 @@
 ---
-changes_count: 6
+changes_count: 8
 date: '2026-04-14'
-description: 'Cursor release CLI Debug Mode and /btw Support on 2026-04-14: 6 tracked
-  changes across Developer Workflow, Agent Mode, Interface Experience, Model Support'
-machine_hash: 58a91585b3d9612b25f5cfddd97c46bb3fd4956ade23be5d9dd233cdd0825fd0
+description: 'Cursor release CLI Debug Mode and /btw Support on 2026-04-14: 8 tracked
+  changes across Developer Workflow, Agent Mode, Interface Experience, Model Support…'
+machine_hash: 9786629061bee31dd00193d3a74b7ff88b73af3d5873b7d404561e94c6487775
 product: cursor
 product_name: Cursor
 record:
@@ -39,7 +39,7 @@ version: CLI Debug Mode and /btw Support
 <!-- chronolog:begin region="summary" -->
 We've shipped quality-of-life improvements to the Cursor CLI to make working with agents in the terminal more delightful.
 
-Tracked 6 cards from 18 candidate lines; 4 lines pending review.
+Tracked 8 cards from 18 candidate lines; 1 line pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
@@ -50,4 +50,6 @@ Tracked 6 cards from 18 candidate lines; 4 lines pending review.
 - [[Changes/Cursor/2026-04-14-we-ve-shipped-quality-of-life-improvements-to-the-cursor-cli-to-make-working-wit|We've shipped quality-of-life improvements to the Cursor CLI to make working…]] · Developer Workflow
 - [[Changes/Cursor/2026-04-14-configuration-menu-in-cli|Configuration menu in CLI]] · Interface Experience · Launch
 - [[Changes/Cursor/2026-04-14-3-developer-workflow-changes-in-04-14-26|3 Developer Workflow changes in 04.14.26]] · Developer Workflow · Digest
+- [[Changes/Cursor/2026-04-14-2-other-changes-in-04-14-26|2 other changes in 04.14.26]] · Other changes · Digest
+- [[Changes/Cursor/2026-04-14-you-can-now-reliably-send-the-cli-to-the-background-using-ctrl-z|Reliably send the CLI to the background using Ctrl+Z]] · Other changes
 <!-- chronolog:end -->

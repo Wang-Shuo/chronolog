@@ -16,8 +16,8 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
-kind: launch
-machine_hash: bb609fc7909791a998ad39991df3161084d804ea4156da6c0e1bcf3e9f0c8a6b
+kind: change
+machine_hash: c93cb2058b95f831bee69733afb2693c48e28b84ede547ea7ef81b9fd0d74071
 product: cursor
 product_name: Cursor
 record:
@@ -35,7 +35,7 @@ record:
     source_release: https://cursor.com/changelog/1-4
   extractor_version: fallback-v5
   impact: paradigm-shift
-  kind: launch
+  kind: change
   product: cursor
   product_name: Cursor
   slug: faster-background-agent-startup
@@ -70,7 +70,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Faster Background Agent startup
 
-**Cursor** · 2025-08-06 · [[Themes/agent-mode|Agent Mode]] · Launch · [Official source](https://cursor.com/changelog/1-4) · from [[Releases/Cursor/cursor-2025-08-06-1-4-https-cursor-com-changelog-1-4-5a085889|Improved Agent tools, steerability, and usage visibility]]
+**Cursor** · 2025-08-06 · [[Themes/agent-mode|Agent Mode]] · [Official source](https://cursor.com/changelog/1-4) · from [[Releases/Cursor/cursor-2025-08-06-1-4-https-cursor-com-changelog-1-4-5a085889|Improved Agent tools, steerability, and usage visibility]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -91,6 +91,7 @@ type: change
 - [[Changes/Cursor/2025-08-06-1-4-5-improved-performance|1.4.5: Improved performance]] · Reliability and Performance
 - [[Changes/Cursor/2025-08-06-ai-code-tracking-api-get-commit-level-visibility-into-ai-usage-and-accepted-chan|AI code tracking API]] · Collaboration
 - [[Changes/Cursor/2025-08-06-admin-api-for-blocklists-block-specific-files-or-directories-from-being-indexed|Admin API for blocklists]] · Context Window
+- [[Changes/Cursor/2025-08-06-member-exports-export-all-workspace-members-to-csv-from-the-dashboard|Member exports: Export all workspace members to CSV from the dashboard]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

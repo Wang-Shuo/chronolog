@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: d7b0967b8f5a54590062ea93788961ba7cdcd61cc11d46a5a2f1b211da8bc5ca
+machine_hash: 8e61862dfb9d2d647d965dfa776a4e97702f20a404773a0fd019cd68ed88069c
 product: claude-code
 product_name: Claude Code
 record:
@@ -81,6 +81,7 @@ type: change
 - [[Changes/Claude Code/2026-08-17-3-interface-experience-changes-in-v2-1-234|3 Interface Experience changes in v2.1.234]] · Interface Experience
 - [[Changes/Claude Code/2026-08-17-removed-the-default-teammate-model-setting-from-config-agent-team-teammates-now|Removed the "Default teammate model" setting from /config]] · Collaboration
 - [[Changes/Claude Code/2026-08-17-2-account-and-access-changes-in-v2-1-234|2 Account and Access changes in v2.1.234]] · Account and Access
+- [[Changes/Claude Code/2026-08-17-12-other-changes-in-v2-1-234|12 other changes in v2.1.234]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

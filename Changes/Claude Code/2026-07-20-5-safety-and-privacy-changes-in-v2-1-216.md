@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b4614c9d2df424b39b169891900e77750bf4239877f9ab0bdbed180e9b5fd286
+machine_hash: 32fbafbb24345eed1244dda4d0fa5d3fe108fd8b2c50300606dd6e642a7e945b
 product: claude-code
 product_name: Claude Code
 record:
@@ -97,6 +97,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.216
 - [[Changes/Claude Code/2026-07-20-background-sessions-mcp-and-install-github-app-now-park-a-needs-input-request-in|Background sessions: /mcp and /install-github-app now park…]] · Apps and Integrations
 - [[Changes/Claude Code/2026-07-20-improved-the-ultrareview-diff-too-large-error-to-show-configured-limits-measured|Improved the /ultrareview diff-too-large error to show configured limits, measured…]] · Editor Experience
 - [[Changes/Claude Code/2026-07-20-2-developer-workflow-changes-in-v2-1-216|2 Developer Workflow changes in v2.1.216]] · Developer Workflow
+- [[Changes/Claude Code/2026-07-20-4-other-changes-in-v2-1-216|4 other changes in v2.1.216]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

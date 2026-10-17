@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: bd003db6eedc9d5dc52afbba634d0cd8a7bd73d2b167c243fd3a8e986a07f04e
+machine_hash: 3af31a8c3b981c1d3cc9939ed6cd0dfe01d19a7f4d39dcca1eed67abfa8f832d
 product: cursor
 product_name: Cursor
 record:
@@ -111,6 +111,7 @@ type: change
 - [[Changes/Cursor/2025-07-03-improved-embeddings-for-semantic-search|Improved embeddings for semantic search]] · Model Support
 - [[Changes/Cursor/2025-07-03-2-agent-mode-changes-in-1-2|2 Agent Mode changes in 1.2]] · Agent Mode
 - [[Changes/Cursor/2025-07-03-pr-indexing-search|PR indexing & search]] · Context Window
+- [[Changes/Cursor/2025-07-03-2-other-changes-in-1-2|2 other changes in 1.2]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

@@ -27,7 +27,9 @@ from _scripts.common import (
 )
 from _scripts.extract import (
     GENERIC_HEADING_RE,
+    HOLDING_THEMES,
     KIND_LABELS,
+    UNCATEGORIZED_THEME,
     load_theme_vocabulary,
     split_release_lines,
 )
@@ -620,10 +622,12 @@ def render_change_markdown(
         metadata["diffusion"] = diffusion
 
     source_url = card["evidence"][0]["source_release"] if card.get("evidence") else ""
+    # A holding theme ("Other changes") has no theme page, timeline or neighbours.
+    holding = card["theme"] in HOLDING_THEMES
     meta_line = [
         f"**{card['product_name']}**",
         card["date"],
-        f"[[Themes/{card['theme']}|{wiki_label(display)}]]",
+        wiki_label(display) if holding else f"[[Themes/{card['theme']}|{wiki_label(display)}]]",
     ]
     if kind_label(card):
         meta_line.append(kind_label(card))
@@ -636,7 +640,9 @@ def render_change_markdown(
     evidence = render_evidence(card)
     context_lines = [
         f"- {card_link(other, card_targets)} · {theme_label(other['theme'], theme_labels)}"
-        for other in sorted(siblings or [], key=lambda item: item["card_id"])
+        for other in sorted(
+            siblings or [], key=lambda item: (item["theme"] in HOLDING_THEMES, item["card_id"])
+        )
         if other["card_id"] != card["card_id"]
     ]
     nearby_lines = [
@@ -660,6 +666,8 @@ def render_change_markdown(
             if count
             else "- Earliest same-theme entry in the tracked set."
         )
+    if holding:
+        nearby_lines, relation_lines = [], []
     card_path = (
         (card_targets or {}).get(card["card_id"])
         or f"Changes/{card['product_name']}/{card['date']}-{card['slug']}"
@@ -812,6 +820,19 @@ def tracked_line(count: int, candidates: int | None, pending_lines: int = 0) -> 
     return tracked + "."
 
 
+def release_cards_summary(
+    count: int, theme_displays: list[str], other: int, other_label: str
+) -> str:
+    """``12 tracked changes across 11 themes: A, B; 1 in Other changes.``"""
+    if not theme_displays:
+        return f"{plural(count, 'tracked change')}, all in {other_label}."
+    summary = (
+        f"{plural(count, 'tracked change')} across {plural(len(theme_displays), 'theme')}: "
+        f"{', '.join(theme_displays)}"
+    )
+    return summary + (f"; {other} in {other_label}." if other else ".")
+
+
 def render_release_markdown(
     release: dict[str, Any],
     card_targets: dict[str, str] | None = None,
@@ -820,10 +841,16 @@ def render_release_markdown(
     pending_lines: int = 0,
 ) -> str:
     """Render a Release page. ``pending_lines`` counts this release's lines waiting in
-    the theme review queue."""
-    cards = sorted(release.get("cards", []), key=lambda card: (card["date"], card["card_id"]))
+    the theme review queue. Cards of a holding theme ("Other changes") are listed last
+    and are not counted as a theme."""
+    cards = sorted(
+        release.get("cards", []),
+        key=lambda card: (card["theme"] in HOLDING_THEMES, card["date"], card["card_id"]),
+    )
     count = len(cards)
-    theme_counts = Counter(card["theme"] for card in cards)
+    theme_counts = Counter(card["theme"] for card in cards if card["theme"] not in HOLDING_THEMES)
+    other = count - sum(theme_counts.values())
+    other_label = theme_label(UNCATEGORIZED_THEME, theme_labels)
     theme_displays = [
         theme_label(theme, theme_labels)
         for theme, _ in sorted(
@@ -841,10 +868,7 @@ def render_release_markdown(
     if informative_summary(release.get("source_summary"), release["title"]):
         summary = str(release["source_summary"]).strip()
     elif cards:
-        summary = (
-            f"{plural(count, 'tracked change')} across {plural(len(theme_displays), 'theme')}: "
-            f"{', '.join(theme_displays)}."
-        )
+        summary = release_cards_summary(count, theme_displays, other, other_label)
     else:
         summary = "No change cards extracted."
     tracked = tracked_line(count, candidates, pending_lines)
@@ -860,7 +884,8 @@ def render_release_markdown(
     description = (
         f"{release['product_name']} release {wiki_label(str(release['title']))} on {release['date']}: "
         + (
-            f"{plural(count, 'tracked change')} across {', '.join(theme_displays)}"
+            f"{plural(count, 'tracked change')} across "
+            + ", ".join(theme_displays + ([other_label] if other else []))
             if cards
             else "no tracked changes"
         )
@@ -971,7 +996,11 @@ def recent_changes(
     card_targets: dict[str, str] | None,
     theme_labels: dict[str, str] | None,
 ) -> str:
-    """Newest cards per product in the window ending at the latest card date (not today)."""
+    """Newest cards per product in the window ending at the latest card date (not today).
+
+    Cards of a holding theme ("Other changes") are left out, including from the count of
+    further cards in the window."""
+    cards = [card for card in cards if card["theme"] not in HOLDING_THEMES]
     warnings = [f"- ⚠ {alert['product_name']}: {alert['message']}" for alert in alerts]
     sections = ["\n".join(warnings)] if warnings else []
     if not cards:
@@ -1074,7 +1103,8 @@ def render_index_markdown(
     products = ordered_products(analysis_a.get("products", {}))
     themes = analysis_b.get("themes", {})
     releases_by_product = releases_by_product or {}
-    theme_counts = Counter(card["theme"] for card in cards)
+    # A holding theme is not a theme: no group, no page and not in the theme count.
+    theme_counts = Counter(card["theme"] for card in cards if card["theme"] not in HOLDING_THEMES)
     release_dates = [r["date"] for releases in releases_by_product.values() for r in releases]
     archive_end = max(release_dates) if release_dates else max(
         (card["date"] for card in cards), default=None
@@ -1138,9 +1168,10 @@ ABOUT_METHOD = "\n".join([
     "cards; the other items of one theme are listed together on one digest card per release.",
     "- Every card has one theme from a fixed vocabulary and a kind: launch, expansion, "
     "pricing, policy, fix, digest or change.",
-    "- Lines without a confident theme wait in a review queue and are not published. Each "
-    "release page shows \"Tracked N cards from M candidate lines\" and how many lines wait "
-    "for review.",
+    "- Lines without a confident theme are published in an \"Other changes\" digest of their "
+    "release and do not appear on theme pages or the home page; prose without a theme waits "
+    "in a review queue. Each release page shows \"Tracked N cards from M candidate lines\" "
+    "and how many lines wait for review.",
     "- Dates are announcement dates, not availability dates.",
     "- Relations between cards are same-theme chronology only; they never claim adoption "
     "or causation.",
@@ -1150,6 +1181,9 @@ ABOUT_GLOSSARY = "\n".join([
     "an official release, with a date, one theme, a kind and the quoted source text.",
     "- **Digest card**: the smaller changes of one theme in one release, quoted together on "
     "one card.",
+    "- **Other changes**: the list items of one release without a confident theme, quoted "
+    "together on one digest card (a single item keeps its own card); listed on release and "
+    "product pages, not on theme pages or the home page.",
     "- **Release**: one archived entry of an official changelog or release page; its page "
     "lists the cards tracked from it.",
     "- **Theme**: a category from a fixed vocabulary that groups cards across products.",
@@ -1186,7 +1220,7 @@ def render_about_markdown(
         "groups them by theme. Every record is reviewed before it is published."
     )
     archived = sum(len(releases) for releases in releases_by_product.values())
-    themes = len({card["theme"] for card in cards})
+    themes = len({card["theme"] for card in cards if card["theme"] not in HOLDING_THEMES})
     alerts = len(silence.get("alerts", []))
     issues = f"{repository.rstrip('/')}/issues" if repository else ""
     regions = {
@@ -1534,8 +1568,9 @@ def write_run(
 
     cards_by_id = {card["card_id"]: card for card in cards}
     theme_neighbours: dict[str, tuple[dict[str, Any] | None, dict[str, Any] | None]] = {}
-    for theme_cards in cards_by_theme.values():
-        theme_neighbours.update(nearby_cards(theme_cards))
+    for theme, theme_cards in cards_by_theme.items():
+        if theme not in HOLDING_THEMES:
+            theme_neighbours.update(nearby_cards(theme_cards))
 
     for card in cards:
         if card["source_release"] not in release_paths:
@@ -1635,9 +1670,16 @@ def write_run(
         managed_names = {info["product_name"] for info in products_info.values()}
         for path in (paths.root / "Themes").glob("*.md"):
             post = frontmatter.load(path)
-            if managed_names.intersection(post.get("products_involved", [])) and post.get("theme"):
+            if (
+                managed_names.intersection(post.get("products_involved", []))
+                and post.get("theme")
+                and post["theme"] not in HOLDING_THEMES
+            ):
                 cards_by_theme.setdefault(post["theme"], [])
     for theme, theme_cards in cards_by_theme.items():
+        # A holding theme ("Other changes") has no theme page.
+        if theme in HOLDING_THEMES:
+            continue
         target = paths.root / "Themes" / f"{theme}.md"
         write_markdown_file(
             target,

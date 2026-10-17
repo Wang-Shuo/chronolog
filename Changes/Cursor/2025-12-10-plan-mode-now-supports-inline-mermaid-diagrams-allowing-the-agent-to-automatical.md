@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: d4cb5b9481f1e56b6005e6782a13eec351dbceec7fe78e99329358ac748559bd
+machine_hash: 990d8da84a960cdc16a3f5db72e11098072910596c819e5c2f3adab024714ecf
 product: cursor
 product_name: Cursor
 record:
@@ -82,6 +82,7 @@ type: change
 - [[Changes/Cursor/2025-12-10-browser-layout-and-style-editor-c9ae9c|Browser layout and style editor]] · Editor Experience
 - [[Changes/Cursor/2025-12-10-pinned-chats|Pinned chats]] · Interface Experience
 - [[Changes/Cursor/2025-12-10-agent-plans-are-now-files-that-can-be-edited-with-normal-tools|Agent plans are now files that can be edited with normal tools]] · Agent Mode
+- [[Changes/Cursor/2025-12-10-4-other-changes-in-2-2|4 other changes in 2.2]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

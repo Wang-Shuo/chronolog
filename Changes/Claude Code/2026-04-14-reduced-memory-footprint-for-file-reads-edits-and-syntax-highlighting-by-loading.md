@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a02c143ea843aea67c4f461ce4a8ff00628761f15006dd83057e5b56f0ad34ec
+machine_hash: 7b847d6d7206acfbe6ce5dd441d7620207e3ccf8517d0ec2aebc70a94aefca27
 product: claude-code
 product_name: Claude Code
 record:
@@ -79,6 +79,7 @@ type: change
 - [[Changes/Claude Code/2026-04-14-2-interface-experience-changes-in-v2-1-108|2 Interface Experience changes in v2.1.108]] · Interface Experience
 - [[Changes/Claude Code/2026-04-14-improved-model-to-warn-before-switching-models-mid-conversation-since-the-next-r|Improved /model to warn before switching models mid-conversation, since the next…]] · Model Support
 - [[Changes/Claude Code/2026-04-14-2-context-window-changes-in-v2-1-108|2 Context Window changes in v2.1.108]] · Context Window
+- [[Changes/Claude Code/2026-04-14-3-other-changes-in-v2-1-108|3 other changes in v2.1.108]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

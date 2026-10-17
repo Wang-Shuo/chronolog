@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b2f52273f6af8f865504e345c6995167bcc29cb113deeadea1f3645b68e0b5df
+machine_hash: 7d80abf258282fa51a4027f90e1a3107621de0371541f6d9aca7c44862680f4b
 product: claude-code
 product_name: Claude Code
 record:
@@ -86,6 +86,7 @@ type: change
 - [[Changes/Claude Code/2026-08-11-changed-the-write-tool-so-newer-models-can-overwrite-an-existing-file-they-haven|Changed the Write tool so newer models can overwrite an existing file they haven't…]] · Model Support
 - [[Changes/Claude Code/2026-08-11-improved-compaction-progress-the-retry-countdown-and-stall-hint-now-appear-durin|Improved compaction progress]] · Context Window
 - [[Changes/Claude Code/2026-08-11-removed-the-outdated-note-about-auto-mode-sessions-costing-slightly-more-from-th|Removed the outdated note about auto mode sessions costing slightly more…]] · Collaboration
+- [[Changes/Claude Code/2026-08-11-improved-vertex-ai-credential-handling-expired-or-missing-google-cloud-credentia|Improved Vertex AI credential handling]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

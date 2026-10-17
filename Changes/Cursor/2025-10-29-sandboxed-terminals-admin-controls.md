@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 99f63952f0ad9b56190b722f397081a47a28ec5924e612875cff8c6169651c4a
+machine_hash: 2ad1d7b6679aac2ebcb13a0fcd8fb94131ea413f2eaa56a04b20ab49cdf082d4
 product: cursor
 product_name: Cursor
 record:
@@ -91,6 +91,7 @@ type: change
 - [[Changes/Cursor/2025-10-29-multi-agents-bb4f56|Multi-Agents]] · Agent Mode
 - [[Changes/Cursor/2025-10-29-team-commands|Team Commands]] · Collaboration
 - [[Changes/Cursor/2025-10-29-improved-prompt-ui|Improved Prompt UI]] · Context Window
+- [[Changes/Cursor/2025-10-29-notepads-have-been-deprecated|Notepads have been deprecated]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

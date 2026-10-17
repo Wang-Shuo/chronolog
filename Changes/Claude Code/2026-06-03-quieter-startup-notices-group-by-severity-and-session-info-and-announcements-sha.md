@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d0b2abfa1bb9b9da4b7cda7ca34f8556f02303fe7107b10e0ec4ce3390b39f8e
+machine_hash: 3bfbdd5145287986a719e4cb19463a47715dc0b0072fa2b190d946a078568771
 product: claude-code
 product_name: Claude Code
 record:
@@ -78,6 +78,7 @@ type: change
 - [[Changes/Claude Code/2026-06-03-remote-control-now-shows-as-a-persistent-footer-pill-with-a-link-to-the-session|Remote Control now shows as a persistent footer pill (with a link to the session)…]] · Apps and Integrations
 - [[Changes/Claude Code/2026-06-03-effort-now-confirms-when-your-chosen-level-will-persist-as-the-default-for-new-s|/effort now confirms when your chosen level will persist as the default for new sessions]] · Model Support
 - [[Changes/Claude Code/2026-06-03-4-safety-and-privacy-changes-in-v2-1-162|4 Safety and Privacy changes in v2.1.162]] · Safety and Privacy
+- [[Changes/Claude Code/2026-06-03-4-other-changes-in-v2-1-162|4 other changes in v2.1.162]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

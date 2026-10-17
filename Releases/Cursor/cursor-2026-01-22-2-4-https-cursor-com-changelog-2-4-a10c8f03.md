@@ -1,9 +1,9 @@
 ---
-changes_count: 18
+changes_count: 19
 date: '2026-01-22'
 description: 'Cursor release Subagents, Skills, and Image Generation on 2026-01-22:
-  18 tracked changes across Agent Mode, Account and Access, Apps and Integrations…'
-machine_hash: cdf6941889725c3226a20c409aaaa0fc6e775bab3c9a477e86183265e176d4cf
+  19 tracked changes across Agent Mode, Account and Access, Apps and Integrations…'
+machine_hash: d9d2fa096e860a07f83fff56b3ba1acf34338685c658c752715179ad9190c965
 product: cursor
 product_name: Cursor
 record:
@@ -40,7 +40,7 @@ version: '2.4'
 <!-- chronolog:begin region="summary" -->
 Agents are solving increasingly complex, long-running tasks across your codebase. This release introduces new agent harness improvements for better context management, as well as many quality-of-life fixes in the editor and CLI.
 
-Tracked 18 cards from 61 candidate lines; 6 lines pending review.
+Tracked 19 cards from 61 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
@@ -63,4 +63,5 @@ Tracked 18 cards from 61 candidate lines; 6 lines pending review.
 - [[Changes/Cursor/2026-01-22-cursor-blame|Cursor Blame]] · Enterprise and Administration · Launch
 - [[Changes/Cursor/2026-01-22-clarification-questions-from-the-agent|Clarification questions from the agent]] · Agent Mode · Launch
 - [[Changes/Cursor/2026-01-22-4-reliability-and-performance-changes-in-2-4|4 Reliability and Performance changes in 2.4]] · Reliability and Performance · Digest
+- [[Changes/Cursor/2026-01-22-6-other-changes-in-2-4|6 other changes in 2.4]] · Other changes · Digest
 <!-- chronolog:end -->

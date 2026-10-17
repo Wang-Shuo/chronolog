@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a20f3d0cc289eb125a3f4458982ca3ee9a4634e5b31104c1aa765ef775dafd97
+machine_hash: 518be3fe1a2ca711711c78c9106dd2a0dfb9af88dfd77bdae462e5b387c6d41e
 product: claude-code
 product_name: Claude Code
 record:
@@ -87,6 +87,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.119
 - [[Changes/Claude Code/2026-04-23-3-developer-workflow-changes-in-v2-1-119|3 Developer Workflow changes in v2.1.119]] · Developer Workflow
 - [[Changes/Claude Code/2026-04-23-2-agent-mode-changes-in-v2-1-119|2 Agent Mode changes in v2.1.119]] · Agent Mode
 - [[Changes/Claude Code/2026-04-23-4-safety-and-privacy-changes-in-v2-1-119|4 Safety and Privacy changes in v2.1.119]] · Safety and Privacy
+- [[Changes/Claude Code/2026-04-23-3-other-changes-in-v2-1-119|3 other changes in v2.1.119]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

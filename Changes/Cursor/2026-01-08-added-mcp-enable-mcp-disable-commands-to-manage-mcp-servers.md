@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b73e49c17e22d345a082a657edd02400912d82fd959021ce2edb1ef671906149
+machine_hash: 0e37f95844b0c8be899e7c1621dfa5b151ec24070b4363f78ee3c4c189bbb150
 product: cursor
 product_name: Cursor
 record:
@@ -80,6 +80,7 @@ type: change
 - [[Changes/Cursor/2026-01-08-this-release-introduces-new-cli-controls-for-models-mcp-management-rules-and-com|Cursor introduces new CLI controls for models, MCP management, rules and commands…]] · Apps and Integrations
 - [[Changes/Cursor/2026-01-08-afterfileedit-hook-now-correctly-provides-old-string-with-the-file-s-previous-co|afterFileEdit hook now correctly provides old_string with the file's previous…]] · Editor Experience
 - [[Changes/Cursor/2026-01-08-mcp-server-names-with-spaces-are-now-supported-in-all-mcp-commands|MCP server names with spaces are now supported in all /mcp commands]] · Apps and Integrations
+- [[Changes/Cursor/2026-01-08-2-other-changes-in-new-cli-features-and-improved-cli|2 other changes in New CLI Features and Improved CLI…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

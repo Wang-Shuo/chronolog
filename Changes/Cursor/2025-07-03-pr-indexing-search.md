@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 7fc871d51378e3b6045107795df8988b953236eceed4d25f60a070e724be79b4
+machine_hash: 86f9b721a90bbc214214a6c579d20e958c1cdc402bb84115a08e923a70cd8866
 product: cursor
 product_name: Cursor
 record:
@@ -89,6 +89,7 @@ type: change
 - [[Changes/Cursor/2025-07-03-improved-embeddings-for-semantic-search|Improved embeddings for semantic search]] · Model Support
 - [[Changes/Cursor/2025-07-03-2-agent-mode-changes-in-1-2|2 Agent Mode changes in 1.2]] · Agent Mode
 - [[Changes/Cursor/2025-07-03-background-agent-improvements|Background Agent improvements]] · Agent Mode
+- [[Changes/Cursor/2025-07-03-2-other-changes-in-1-2|2 other changes in 1.2]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

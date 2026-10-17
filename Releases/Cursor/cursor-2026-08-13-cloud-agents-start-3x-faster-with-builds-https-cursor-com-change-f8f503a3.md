@@ -3,7 +3,7 @@ changes_count: 5
 date: '2026-08-13'
 description: 'Cursor release Cloud Agents Start 3x Faster with Builds on 2026-08-13:
   5 tracked changes across Agent Mode, Developer Workflow, Reliability and Performance'
-machine_hash: cd00a327007281ab525bec95aeec3f2eb86cc8e9b10c08963a146ddfcf602d43
+machine_hash: b45f8ad66d65272fc6f99fb52f6f7e00fdee5466f6e3847b410e71260805eb72
 product: cursor
 product_name: Cursor
 record:
@@ -46,7 +46,7 @@ Tracked 5 cards from 9 candidate lines.
 <!-- chronolog:begin region="cards" -->
 - [[Changes/Cursor/2026-08-13-2-agent-mode-changes-in-08-13-26|2 Agent Mode changes in 08.13.26]] · Agent Mode · Digest
 - [[Changes/Cursor/2026-08-13-agents-do-their-best-work-when-they-start-in-a-ready-environment-repos-cloned-de-6161c7|Agents do their best work when they start in a ready environment]] · Agent Mode
-- [[Changes/Cursor/2026-08-13-faster-starts|Faster starts]] · Reliability and Performance · Launch
+- [[Changes/Cursor/2026-08-13-faster-starts|Faster starts]] · Reliability and Performance
 - [[Changes/Cursor/2026-08-13-build-history-and-debugging|Build history and debugging]] · Developer Workflow · Launch
 - [[Changes/Cursor/2026-08-13-when-a-bad-commit-or-dependency-update-breaks-your-environment-agents-keep-using|More resilient agent runs]] · Agent Mode · Launch
 <!-- chronolog:end -->

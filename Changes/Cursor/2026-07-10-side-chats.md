@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: de48dfc4a8a355d6ca1e5726793a0540d01f76c2138aaa9563c034d549bf58bf
+machine_hash: 2ac4e6d25624717015bc5fb77c1a7ee37571b3ca520b8e1acb7004339a23f088
 product: cursor
 product_name: Cursor
 record:
@@ -103,6 +103,7 @@ type: change
 - [[Changes/Cursor/2026-07-10-this-release-makes-it-easier-to-stay-in-flow-with-side-chats-that-run-alongside|Cursor makes it easier to stay in flow with side chats that run alongside your main…]] · Agent Mode
 - [[Changes/Cursor/2026-07-10-combined-all-remote-options-your-machines-team-pools-and-existing-remote-workspa|Combined all remote options—your machines, team pools, and existing remote…]] · Collaboration
 - [[Changes/Cursor/2026-07-10-redesigned-project-and-repo-pickers|Redesigned project and repo pickers]] · Interface Experience
+- [[Changes/Cursor/2026-07-10-6-other-changes-in-side-chats-and-conversation-search|6 other changes in Side Chats and Conversation Search]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

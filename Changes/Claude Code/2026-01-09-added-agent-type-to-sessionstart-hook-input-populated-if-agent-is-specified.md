@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 8fc303aff0ca034c410921d39fecf55a57c19a03486b1f9e0d4dbdf401d9f6cd
+machine_hash: c92ffd6bfef09e276230f47dc86f0e3646197ff275fa45864b36c68ad3f90c22
 product: claude-code
 product_name: Claude Code
 record:
@@ -78,6 +78,7 @@ type: change
 - [[Changes/Claude Code/2026-01-09-2-safety-and-privacy-changes-in-v2-1-2|2 Safety and Privacy changes in v2.1.2]] · Safety and Privacy
 - [[Changes/Claude Code/2026-01-09-added-shift-tab-keyboard-shortcut-in-plan-mode-to-quickly-select-auto-accept-edi|Added Shift+Tab keyboard shortcut in plan mode to quickly select…]] · Interface Experience
 - [[Changes/Claude Code/2026-01-09-3-developer-workflow-changes-in-v2-1-2|3 Developer Workflow changes in v2.1.2]] · Developer Workflow
+- [[Changes/Claude Code/2026-01-09-4-other-changes-in-v2-1-2|4 other changes in v2.1.2]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

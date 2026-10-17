@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 1cf17d4b94787d37995f4c2d61d2af90467e3ae085e27fdb4e3f4b867e1bbe31
+machine_hash: 4a26ee8df6dafe8b1eadd133627f48b8d6a82a5165944ccf17cd0719cd1276f8
 product: cursor
 product_name: Cursor
 record:
@@ -101,6 +101,7 @@ type: change
 - [[Changes/Cursor/2026-01-22-3-developer-workflow-changes-in-2-4|3 Developer Workflow changes in 2.4]] · Developer Workflow
 - [[Changes/Cursor/2026-01-22-clarification-questions-from-the-agent|Clarification questions from the agent]] · Agent Mode
 - [[Changes/Cursor/2026-01-22-4-reliability-and-performance-changes-in-2-4|4 Reliability and Performance changes in 2.4]] · Reliability and Performance
+- [[Changes/Cursor/2026-01-22-6-other-changes-in-2-4|6 other changes in 2.4]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

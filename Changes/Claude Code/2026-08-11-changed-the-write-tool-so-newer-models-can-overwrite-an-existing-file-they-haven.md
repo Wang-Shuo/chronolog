@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6feb7c6a73ff2aa69785428551d663f745728d2426b6a6576a56f13bf908051b
+machine_hash: 4b89881a151e3de8107b9e0df1de8443bf01e0bd59562cc2b56f41f7c593d413
 product: claude-code
 product_name: Claude Code
 record:
@@ -79,6 +79,7 @@ type: change
 - [[Changes/Claude Code/2026-08-11-updated-terminal-title-busy-spinner-glyphs-to-reduce-tab-bar-jitter-on-some-term|Updated terminal title busy-spinner glyphs to reduce tab-bar jitter on some terminals]] · Interface Experience
 - [[Changes/Claude Code/2026-08-11-improved-compaction-progress-the-retry-countdown-and-stall-hint-now-appear-durin|Improved compaction progress]] · Context Window
 - [[Changes/Claude Code/2026-08-11-removed-the-outdated-note-about-auto-mode-sessions-costing-slightly-more-from-th|Removed the outdated note about auto mode sessions costing slightly more…]] · Collaboration
+- [[Changes/Claude Code/2026-08-11-improved-vertex-ai-credential-handling-expired-or-missing-google-cloud-credentia|Improved Vertex AI credential handling]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

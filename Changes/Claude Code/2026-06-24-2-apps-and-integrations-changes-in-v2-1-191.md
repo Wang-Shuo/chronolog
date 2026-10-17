@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 604e6052704ae7449614b0d16c73b2fa57470cd9dbc895d4ca8d567a94eee810
+machine_hash: 6eb1048f1cff2a8060c25eecaa00ae5dd711840a643ceb4f51a0b4edaedfd65c
 product: claude-code
 product_name: Claude Code
 record:
@@ -79,6 +79,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.191
 - [[Changes/Claude Code/2026-06-24-improved-sandbox-network-permission-dialog-hosts-you-allow-with-yes-are-now-reme|Improved sandbox network permission dialog]] · Safety and Privacy
 - [[Changes/Claude Code/2026-06-24-reduced-long-session-memory-growth-from-terminal-output-cache|Reduced long-session memory growth from terminal output cache]] · Memory and Personalization
 - [[Changes/Claude Code/2026-06-24-improved-mcp-oauth-discovery-and-token-requests-now-retry-once-after-transient-n|Improved MCP OAuth]] · Account and Access
+- [[Changes/Claude Code/2026-06-24-2-other-changes-in-v2-1-191|2 other changes in v2.1.191]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

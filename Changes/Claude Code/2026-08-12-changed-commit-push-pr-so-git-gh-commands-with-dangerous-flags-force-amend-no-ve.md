@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 95a71a779e6befa2e03343ff208d09a21d3900806a4fc133f161aae2cfec3ddd
+machine_hash: 23233c4939fbd417276843d2726d7a827c65d9c36e135ab9e349d60b86dd63c8
 product: claude-code
 product_name: Claude Code
 record:
@@ -79,6 +79,7 @@ type: change
 - [[Changes/Claude Code/2026-08-12-changed-self-hosted-runner-windows-startup-to-require-an-explicit-base-dir-there|Changed self-hosted runner Windows startup to require an explicit --base-dir]] · Mobile and Desktop
 - [[Changes/Claude Code/2026-08-12-improved-workflow-fan-outs-to-stagger-same-prefix-sibling-agents-so-subsequent-a|Improved workflow fan-outs to stagger same-prefix sibling agents so subsequent…]] · Agent Mode
 - [[Changes/Claude Code/2026-08-12-vscode-added-session-groups-in-the-sidebar-right-click-to-create-rename-or-delet|VSCode Added session groups in the sidebar]] · Interface Experience
+- [[Changes/Claude Code/2026-08-12-4-other-changes-in-v2-1-229|4 other changes in v2.1.229]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

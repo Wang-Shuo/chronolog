@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 2cb7c3e1986d7dc27cae3acf81f43c3d1d00cb2093acbf5f71183d6d0062c683
+machine_hash: 1daf13393ffaae327eb8cf803928014841b6721a8aaf9b0b8d5b503a7e5e2193
 product: cursor
 product_name: Cursor
 record:
@@ -85,6 +85,7 @@ type: change
 - [[Changes/Cursor/2026-07-10-6-interface-experience-changes-in-side-chats-and-conversation-search|6 Interface Experience changes in Side Chats and Conversation Search]] · Interface Experience
 - [[Changes/Cursor/2026-07-10-this-release-makes-it-easier-to-stay-in-flow-with-side-chats-that-run-alongside|Cursor makes it easier to stay in flow with side chats that run alongside your main…]] · Agent Mode
 - [[Changes/Cursor/2026-07-10-combined-all-remote-options-your-machines-team-pools-and-existing-remote-workspa|Combined all remote options—your machines, team pools, and existing remote…]] · Collaboration
+- [[Changes/Cursor/2026-07-10-6-other-changes-in-side-chats-and-conversation-search|6 other changes in Side Chats and Conversation Search]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

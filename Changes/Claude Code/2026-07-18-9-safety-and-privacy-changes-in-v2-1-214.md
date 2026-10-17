@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c203f69250859d41db600f7b0cd1645f653b756b24469a213930ecc5c3e7362e
+machine_hash: 9b4217cd56786f541353832504b3ea81307add244041d994c366757355ed2340
 product: claude-code
 product_name: Claude Code
 record:
@@ -119,6 +119,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.214
 - [[Changes/Claude Code/2026-07-18-added-reasoning-effort-to-the-subagentstatusline-payload-so-custom-agent-rows-ca|Added reasoning effort to the subagentStatusLine payload, so custom agent rows can…]] · Agent Mode
 - [[Changes/Claude Code/2026-07-18-added-a-periodic-progress-heartbeat-for-long-running-tool-calls-that-previously|Added a periodic progress heartbeat for long-running tool calls that previously went…]] · Reliability and Performance
 - [[Changes/Claude Code/2026-07-18-changed-sessionstart-hooks-to-report-source-fork-when-a-session-begins-as-a-fork|Changed SessionStart hooks to report source "fork" when a session begins as a fork…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-07-18-5-other-changes-in-v2-1-214|5 other changes in v2.1.214]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

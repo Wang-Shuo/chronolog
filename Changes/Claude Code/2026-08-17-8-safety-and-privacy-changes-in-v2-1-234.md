@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e086b6cb04b286c8453a6d0161899d34a9cd020064eb5ba41bfb0a9057d4ab93
+machine_hash: 2d7c8cd97b03ddd51d470d0292a27f14d8abc43bcc6e713d28c1aa2cc8402ca0
 product: claude-code
 product_name: Claude Code
 record:
@@ -119,6 +119,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.234
 - [[Changes/Claude Code/2026-08-17-removed-the-redundant-allowed-by-auto-mode-classifier-line-that-auto-mode-showed|Removed the redundant "Allowed by auto mode classifier" line that auto mode showed…]] · Agent Mode
 - [[Changes/Claude Code/2026-08-17-removed-the-default-teammate-model-setting-from-config-agent-team-teammates-now|Removed the "Default teammate model" setting from /config]] · Collaboration
 - [[Changes/Claude Code/2026-08-17-2-account-and-access-changes-in-v2-1-234|2 Account and Access changes in v2.1.234]] · Account and Access
+- [[Changes/Claude Code/2026-08-17-12-other-changes-in-v2-1-234|12 other changes in v2.1.234]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

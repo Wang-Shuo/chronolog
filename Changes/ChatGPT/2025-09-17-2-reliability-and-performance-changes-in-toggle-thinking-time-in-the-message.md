@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2f85ce18f8bcd31b7fbc38cef795f10cc143225ab94edaae1888ca9cdea4d49e
+machine_hash: 02f8ca366c6b1638c1ced67184d0dcde42529b897035a051c6924ca9f528f36c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -78,6 +78,7 @@ Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 
 - [[Changes/ChatGPT/2025-09-17-the-thinking-time-toggle-is-live-today-on-chatgpt-com-settings-you-choose-on-the|The thinking-time toggle is live today on chatgpt.com]] · Mobile and Desktop
 - [[Changes/ChatGPT/2025-09-17-5-model-support-changes-in-toggle-thinking-time-in-the-message|5 Model Support changes in Toggle thinking time in the message…]] · Model Support
+- [[Changes/ChatGPT/2025-09-17-extended-heavy-more-time-for-deeper-more-comprehensive-responses-when-the-stakes|Extended / Heavy → more time for deeper, more comprehensive responses…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

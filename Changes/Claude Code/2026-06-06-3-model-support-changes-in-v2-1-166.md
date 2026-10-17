@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 723f9a3197a70dbe31c4b15d3e5910ddc76f85b90953ab5b80abe877932329ec
+machine_hash: 0607225cd58cc206d37adeee315540c6ca60d561f3cfe5364fbffd19bdd45084
 product: claude-code
 product_name: Claude Code
 record:
@@ -88,6 +88,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.166
 - [[Changes/Claude Code/2026-06-06-hardened-cross-session-messaging-messages-relayed-via-sendmessage-from-other-cla|Hardened cross-session messaging]] · Safety and Privacy
 - [[Changes/Claude Code/2026-06-06-added-glob-pattern-support-in-deny-rule-tool-name-position-denies-all-tools-allo|Added glob pattern support in deny rule tool-name position ("" denies all tools)]] · Apps and Integrations
 - [[Changes/Claude Code/2026-06-06-claude-agents-typing-a-url-into-the-list-now-filters-to-the-session-whose-first|claude agents: typing a URL into the list now filters to the session whose first…]] · Agent Mode
+- [[Changes/Claude Code/2026-06-06-claude-update-now-announces-the-target-version-before-downloading-instead-of-goi|claude update now announces the target version before downloading instead of going…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

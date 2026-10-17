@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 11991dd4c48ba844bffc74d8d8b913e61966cd63cdcc7900fa6fffb4819a3f5a
+machine_hash: 40766ed7ffa1cfc31767afe1430b79df0d46487f234715feec95831b89688056
 product: cursor
 product_name: Cursor
 record:
@@ -71,6 +71,7 @@ type: change
 ## Also in this release
 
 - [[Changes/Cursor/2023-04-06-we-ve-transitioned-to-building-cursor-on-top-of-a-fork-of-vscodium-moving-away-f-1497a9|We've transitioned to building Cursor on top of a fork of VSCodium, moving away…]] · Editor Experience
+- [[Changes/Cursor/2023-04-06-focus-on-enhancing-the-ai-for-pair-programming|Focus on enhancing the AI for pair-programming]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

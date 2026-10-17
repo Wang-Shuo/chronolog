@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a05156b34887422b7cab604450b4a6ec4123f922315ab66a7706c274cd09831f
+machine_hash: f0c18bdda33d2add7b799cf5164235f8c7b7bee0ed6d244fbd69455b713e79b2
 product: cursor
 product_name: Cursor
 record:
@@ -88,6 +88,7 @@ type: change
 - [[Changes/Cursor/2025-09-29-on-windows-agent-now-correctly-uses-powershell-on-macos-and-linux-powershell-wil|On Windows, Agent now correctly uses PowerShell]] · Mobile and Desktop
 - [[Changes/Cursor/2025-09-29-image-file-support-for-agent|Image file support for Agent]] · Agent Mode
 - [[Changes/Cursor/2025-09-29-1-7-45-model-picker-ux|1.7.45: Model picker UX]] · Interface Experience
+- [[Changes/Cursor/2025-09-29-15-other-changes-in-1-7|15 other changes in 1.7]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

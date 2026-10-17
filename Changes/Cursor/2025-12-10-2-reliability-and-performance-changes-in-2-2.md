@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 84c65221e06fb41124966ebc46119a2d4ff2f7f7086bad9b40fdf482c1a17148
+machine_hash: f3c691375ef7fb9c7cd7eba4bc3d5319cc53ecddca233025ca243f5b625d3b48
 product: cursor
 product_name: Cursor
 record:
@@ -83,6 +83,7 @@ Source: https://cursor.com/changelog/2-2
 - [[Changes/Cursor/2025-12-10-browser-layout-and-style-editor-c9ae9c|Browser layout and style editor]] · Editor Experience
 - [[Changes/Cursor/2025-12-10-pinned-chats|Pinned chats]] · Interface Experience
 - [[Changes/Cursor/2025-12-10-agent-plans-are-now-files-that-can-be-edited-with-normal-tools|Agent plans are now files that can be edited with normal tools]] · Agent Mode
+- [[Changes/Cursor/2025-12-10-4-other-changes-in-2-2|4 other changes in 2.2]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

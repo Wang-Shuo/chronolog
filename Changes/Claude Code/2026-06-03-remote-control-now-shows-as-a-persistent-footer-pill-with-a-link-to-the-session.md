@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: db50a3a0e263bf5017c045feee744cd59d6022591934269f431a01b8c1807fd0
+machine_hash: ef07d6632e34b3db3207781f5c53f31f8766dc5cb355e1ad478349f31bea5b77
 product: claude-code
 product_name: Claude Code
 record:
@@ -80,6 +80,7 @@ type: change
 - [[Changes/Claude Code/2026-06-03-renamed-windsurf-to-devin-desktop-in-the-ide-menu-terminal-setup-and-scroll-spee|Renamed Windsurf to Devin Desktop in the /ide menu, /terminal-setup…]] · Editor Experience
 - [[Changes/Claude Code/2026-06-03-effort-now-confirms-when-your-chosen-level-will-persist-as-the-default-for-new-s|/effort now confirms when your chosen level will persist as the default for new sessions]] · Model Support
 - [[Changes/Claude Code/2026-06-03-4-safety-and-privacy-changes-in-v2-1-162|4 Safety and Privacy changes in v2.1.162]] · Safety and Privacy
+- [[Changes/Claude Code/2026-06-03-4-other-changes-in-v2-1-162|4 other changes in v2.1.162]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

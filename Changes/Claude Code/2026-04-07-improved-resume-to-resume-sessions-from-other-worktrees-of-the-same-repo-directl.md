@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 38e481807b5666308b3d52acdbb5ce6c73549d06dafde3ee4fcd12dd2b1d458f
+machine_hash: 84a2edf8b8dbd0674264d7a2cabf7b47ef197750d1800c256bd9c1db094c6cc0
 product: claude-code
 product_name: Claude Code
 record:
@@ -76,6 +76,7 @@ type: change
 - [[Changes/Claude Code/2026-04-07-vscode-added-a-warning-banner-when-settings-json-files-fail-to-parse-so-users-kn|VSCode Added a warning banner when settings.json files fail to parse, so users…]] · Safety and Privacy
 - [[Changes/Claude Code/2026-04-07-5-apps-and-integrations-changes-in-v2-1-94|5 Apps and Integrations changes in v2.1.94]] · Apps and Integrations
 - [[Changes/Claude Code/2026-04-07-changed-default-effort-level-from-medium-to-high-for-api-key-bedrock-vertex-foun|Changed default effort level from medium to high for API-key…]] · Enterprise and Administration
+- [[Changes/Claude Code/2026-04-07-vscode-reduced-cold-open-subprocess-work-on-starting-a-session|VSCode Reduced cold-open subprocess work on starting a session]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

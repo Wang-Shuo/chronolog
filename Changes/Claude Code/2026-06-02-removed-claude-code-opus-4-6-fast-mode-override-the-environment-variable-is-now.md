@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 83496a3180880f095ce8bf3b80be33b586e2f50fa69dd4aedf22fa143bcb8aaf
+machine_hash: d425daff1fc92db8bfae6277892dfa380a659cc63ef4c3ca0091ee1deeb6ae21
 product: claude-code
 product_name: Claude Code
 record:
@@ -78,6 +78,7 @@ type: change
 - [[Changes/Claude Code/2026-06-02-edit-no-longer-requires-a-separate-read-after-viewing-a-file-with-grep-single-fi|Edit no longer requires a separate Read after viewing a file with grep]] · Editor Experience
 - [[Changes/Claude Code/2026-06-02-improved-performance-of-opening-recently-inactive-background-agent-sessions-in-c|Improved performance of opening recently-inactive background agent sessions…]] · Agent Mode
 - [[Changes/Claude Code/2026-06-02-removed-the-jetbrains-plugin-install-suggestion-from-startup|Removed the JetBrains plugin install suggestion from startup]] · Apps and Integrations
+- [[Changes/Claude Code/2026-06-02-renamed-the-dynamic-workflow-trigger-keyword-from-workflow-to-ultracode-the-word|Renamed the dynamic-workflow trigger keyword from workflow to ultracode]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

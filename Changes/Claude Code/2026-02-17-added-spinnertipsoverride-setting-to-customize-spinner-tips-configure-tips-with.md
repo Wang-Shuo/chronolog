@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0648934f7b3b20b349c9269e807c2020c3003126d95ac2b63a09ddbf3c56d612
+machine_hash: 150a780a477952fddd72d86ba0beee7f5a86f3d494050d73e3e9d26970d751fc
 product: claude-code
 product_name: Claude Code
 record:
@@ -80,6 +80,7 @@ type: change
 - [[Changes/Claude Code/2026-02-17-improved-memory-usage-for-shell-commands-that-produce-large-output-rss-no-longer|Improved memory usage for shell commands that produce large output]] · Reliability and Performance
 - [[Changes/Claude Code/2026-02-17-vscode-improved-permission-destination-choice-project-user-session-to-persist-ac|VSCode Improved permission destination choice (project/user/session) to persist…]] · Safety and Privacy
 - [[Changes/Claude Code/2026-02-17-2-apps-and-integrations-changes-in-v2-1-45|2 Apps and Integrations changes in v2.1.45]] · Apps and Integrations
+- [[Changes/Claude Code/2026-02-17-improved-collapsed-read-search-groups-to-show-the-current-file-or-search-pattern|Improved collapsed read/search groups to show the current file or search pattern…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

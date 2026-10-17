@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 643d5f87030c8196ca400492cc4832c766d4081dbca9781ae3253d4860b282ec
+machine_hash: bc006c65ebcb26b7dcd0121ceacdf694ce2fdf087cd3d4b010671838ff67debc
 product: cursor
 product_name: Cursor
 record:
@@ -95,6 +95,7 @@ Source: https://cursor.com/changelog/1-2
 - [[Changes/Cursor/2025-07-03-2-agent-mode-changes-in-1-2|2 Agent Mode changes in 1.2]] · Agent Mode
 - [[Changes/Cursor/2025-07-03-background-agent-improvements|Background Agent improvements]] · Agent Mode
 - [[Changes/Cursor/2025-07-03-pr-indexing-search|PR indexing & search]] · Context Window
+- [[Changes/Cursor/2025-07-03-2-other-changes-in-1-2|2 other changes in 1.2]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

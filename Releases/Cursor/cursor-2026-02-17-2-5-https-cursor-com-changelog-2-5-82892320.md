@@ -1,9 +1,9 @@
 ---
-changes_count: 11
+changes_count: 12
 date: '2026-02-17'
 description: 'Cursor release Plugins, Sandbox Access Controls, and Async Subagents
-  on 2026-02-17: 11 tracked changes across Agent Mode, Safety and Privacy, Apps and…'
-machine_hash: d316aee0b4e60fc10b7fe51356444557ea4a076e95435649791eceda4293e80d
+  on 2026-02-17: 12 tracked changes across Agent Mode, Safety and Privacy, Apps and…'
+machine_hash: 867d7cf9450bfd8b0cff55ede74635f94b98cc0600e7a9a3e74b5e985c8b1944
 product: cursor
 product_name: Cursor
 record:
@@ -40,7 +40,7 @@ version: '2.5'
 <!-- chronolog:begin region="summary" -->
 This release introduces plugins for extending Cursor, improvements to core agent capabilities like subagents, and fine-grained network controls for sandboxed commands.
 
-Tracked 11 cards from 38 candidate lines; 1 line pending review.
+Tracked 12 cards from 38 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
@@ -56,4 +56,5 @@ Tracked 11 cards from 38 candidate lines; 1 line pending review.
 - [[Changes/Cursor/2026-02-17-6-agent-mode-changes-in-2-5|6 Agent Mode changes in 2.5]] · Agent Mode · Digest
 - [[Changes/Cursor/2026-02-17-this-release-introduces-plugins-for-extending-cursor-improvements-to-core-agent|Cursor introduces plugins for extending Cursor, improvements to core agent…]] · Agent Mode · Launch
 - [[Changes/Cursor/2026-02-17-2-reliability-and-performance-changes-in-2-5|2 Reliability and Performance changes in 2.5]] · Reliability and Performance · Digest
+- [[Changes/Cursor/2026-02-17-the-global-ignore-list-is-now-empty-by-default-to-fix-sandboxing-issues-existing|The global ignore list is now empty by default to fix sandboxing issues]] · Other changes
 <!-- chronolog:end -->

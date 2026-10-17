@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 08da2a22dc3aa1a3bbce85b912fd1685f132632ac180fad5a6231a869758769e
+machine_hash: cc057e9224fcf2ab2caaf553b129f2f8e688ae731366cf42d64bd0a9c4b05d7c
 product: claude-code
 product_name: Claude Code
 record:
@@ -82,6 +82,7 @@ type: change
 - [[Changes/Claude Code/2026-06-24-2-apps-and-integrations-changes-in-v2-1-191|2 Apps and Integrations changes in v2.1.191]] · Apps and Integrations
 - [[Changes/Claude Code/2026-06-24-improved-sandbox-network-permission-dialog-hosts-you-allow-with-yes-are-now-reme|Improved sandbox network permission dialog]] · Safety and Privacy
 - [[Changes/Claude Code/2026-06-24-improved-mcp-oauth-discovery-and-token-requests-now-retry-once-after-transient-n|Improved MCP OAuth]] · Account and Access
+- [[Changes/Claude Code/2026-06-24-2-other-changes-in-v2-1-191|2 other changes in v2.1.191]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

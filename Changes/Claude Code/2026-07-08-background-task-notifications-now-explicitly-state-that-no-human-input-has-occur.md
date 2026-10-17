@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3277c592d14562a3ef711132289b6b541f0292eb386fdf81f6ec0d1d0d5b20fc
+machine_hash: e1bdfbc7b8e46a76a840bc9b7bfb98eb23b562903a1033be61d18f4f79617aa4
 product: claude-code
 product_name: Claude Code
 record:
@@ -80,6 +80,7 @@ type: change
 - [[Changes/Claude Code/2026-07-08-reserved-the-claude-browser-mcp-server-name-alongside-claude-preview-ahead-of-th|Reserved the "Claude Browser" MCP server name (alongside "Claude Preview") ahead…]] · Apps and Integrations
 - [[Changes/Claude Code/2026-07-08-3-agent-mode-changes-in-v2-1-205|3 Agent Mode changes in v2.1.205]] · Agent Mode
 - [[Changes/Claude Code/2026-07-08-auto-update-binary-downloads-now-stream-to-disk-instead-of-buffering-in-memory-c|Auto-update binary downloads now stream to disk instead of buffering in memory…]] · Reliability and Performance
+- [[Changes/Claude Code/2026-07-08-doctor-is-now-a-full-setup-checkup-that-can-diagnose-and-fix-issues-checkup-is-i|/doctor is now a full setup checkup that can diagnose and fix issues]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

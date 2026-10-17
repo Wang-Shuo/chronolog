@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 0008ced34d464ccadf220cd989cc1f5805f90a0936afd7c789b1fac14b83dc2f
+machine_hash: eec8f72dc3bfe357a79a19eed121420116dac634341d8b13fd8a562de9568a04
 product: cursor
 product_name: Cursor
 record:
@@ -86,6 +86,7 @@ type: change
 - [[Changes/Cursor/2026-05-13-this-release-introduces-quality-of-life-improvements-to-the-agents-window|Cursor introduces quality-of-life improvements to the Agents Window]] · Agent Mode
 - [[Changes/Cursor/2026-05-13-removed-noisy-in-app-terminal-notifications-and-improved-shortcut-behavior|Removed noisy in-app terminal notifications and improved shortcut behavior]] · Developer Workflow
 - [[Changes/Cursor/2026-05-13-3-interface-experience-changes-in-3-4|3 Interface Experience changes in 3.4]] · Interface Experience
+- [[Changes/Cursor/2026-05-13-2-other-changes-in-3-4|2 other changes in 3.4]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

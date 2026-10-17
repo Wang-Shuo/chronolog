@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4872b08d254ab08420bb07f2b090456fbb43aab56ee2ae86b1177aec1087cb98
+machine_hash: c2f1cfc0edb2f502b5dbe7c0aa4c98b71dc3587468bf5c1cd27841ff75e41935
 product: claude-code
 product_name: Claude Code
 record:
@@ -88,6 +88,7 @@ type: change
 - [[Changes/Claude Code/2026-07-01-2-model-support-changes-in-v2-1-198|2 Model Support changes in v2.1.198]] · Model Support
 - [[Changes/Claude Code/2026-07-01-5-agent-mode-changes-in-v2-1-198|5 Agent Mode changes in v2.1.198]] · Agent Mode
 - [[Changes/Claude Code/2026-07-01-added-dataviz-skill-for-chart-and-dashboard-design-guidance-with-a-runnable-colo|Added /dataviz skill for chart and dashboard design guidance with a runnable…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-07-01-improved-syntax-highlighting-accuracy-in-code-blocks-diffs-and-file-previews-by|Improved syntax highlighting accuracy in code blocks, diffs, and file previews…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

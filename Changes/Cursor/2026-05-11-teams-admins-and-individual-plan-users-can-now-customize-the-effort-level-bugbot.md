@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: da9a1a665e2da19024bc70d93c6217c0572fde47e3f621993f78429e1a59f4f4
+machine_hash: 5d03e20759eae3bcc91b6480b3816b9f76c6b9b2b81e6884b2b75936d7e20122
 product: cursor
 product_name: Cursor
 record:
@@ -87,6 +87,7 @@ type: change
 - [[Changes/Cursor/2026-05-11-custom-describe-in-natural-language-when-bugbot-should-use-default-or-high-effor|Custom: Describe in natural language when Bugbot should use default or high effort]] · Model Support
 - [[Changes/Cursor/2026-05-11-customers-must-be-on-usage-based-billing-for-bugbot-to-customize-effort-levels-l|Customers must be on usage-based billing for Bugbot to customize effort levels]] · Pricing Model
 - [[Changes/Cursor/2026-05-11-default-bugbot-continues-to-use-the-same-effort-level-as-it-does-today-optimized|Default: Bugbot continues to use the same effort level as it does today]] · Reliability and Performance
+- [[Changes/Cursor/2026-05-11-2-other-changes-in-05-11-26|2 other changes in 05.11.26]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

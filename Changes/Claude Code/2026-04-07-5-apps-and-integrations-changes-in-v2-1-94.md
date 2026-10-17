@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 72d3f2fab447f5af3b158d604ac61cb2b4c91a7350b3f80c57498f2bb95d9f85
+machine_hash: a8c30936bef9a1ee4687ca849edeb66b0b088140053f4a4af17fa702365a23b1
 product: claude-code
 product_name: Claude Code
 record:
@@ -94,6 +94,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.94
 - [[Changes/Claude Code/2026-04-07-improved-resume-to-resume-sessions-from-other-worktrees-of-the-same-repo-directl|Improved --resume to resume sessions from other worktrees of the same repo…]] · Projects and Workspaces
 - [[Changes/Claude Code/2026-04-07-vscode-added-a-warning-banner-when-settings-json-files-fail-to-parse-so-users-kn|VSCode Added a warning banner when settings.json files fail to parse, so users…]] · Safety and Privacy
 - [[Changes/Claude Code/2026-04-07-changed-default-effort-level-from-medium-to-high-for-api-key-bedrock-vertex-foun|Changed default effort level from medium to high for API-key…]] · Enterprise and Administration
+- [[Changes/Claude Code/2026-04-07-vscode-reduced-cold-open-subprocess-work-on-starting-a-session|VSCode Reduced cold-open subprocess work on starting a session]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

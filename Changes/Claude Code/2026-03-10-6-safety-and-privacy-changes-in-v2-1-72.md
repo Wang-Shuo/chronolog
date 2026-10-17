@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7791e850fd5e6d8c8b420047452d30b83b7259abc30467c4c65bd9bb3dd6f00e
+machine_hash: 2420eb845e809f73ec60d73d4b78fcb60af799c0eb1fca47db950a2fcc773ac9
 product: claude-code
 product_name: Claude Code
 record:
@@ -108,6 +108,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.72
 - [[Changes/Claude Code/2026-03-10-improved-voice-input-transcription-accuracy-for-repo-names-and-common-dev-terms|Improved voice input transcription accuracy for repo names and common dev terms…]] · Voice and Audio
 - [[Changes/Claude Code/2026-03-10-vscode-added-vscode-anthropic-claude-code-open-uri-handler-to-open-a-new-claude|VSCode: Added vscode://anthropic.claude-code/open URI handler to open a new Claude…]] · Editor Experience
 - [[Changes/Claude Code/2026-03-10-3-apps-and-integrations-changes-in-v2-1-72|3 Apps and Integrations changes in v2.1.72]] · Apps and Integrations
+- [[Changes/Claude Code/2026-03-10-7-other-changes-in-v2-1-72|7 other changes in v2.1.72]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 66a4c1fd8038221ba7abd5d96648ac65799da7b8d4b131b4f7d882670b0c2b32
+machine_hash: f574ef9134046b3a56ab1b200394c0d754eb143f09727fc21271892542d50f99
 product: claude-code
 product_name: Claude Code
 record:
@@ -79,6 +79,7 @@ type: change
 - [[Changes/Claude Code/2026-08-07-3-mobile-and-desktop-changes-in-v2-1-224|3 Mobile and Desktop changes in v2.1.224]] · Mobile and Desktop
 - [[Changes/Claude Code/2026-08-07-2-safety-and-privacy-changes-in-v2-1-224|2 Safety and Privacy changes in v2.1.224]] · Safety and Privacy
 - [[Changes/Claude Code/2026-08-07-changed-the-bash-tool-description-to-always-note-that-command-output-is-displaye|Changed the Bash tool description to always note that command output is displayed…]] · Model Support
+- [[Changes/Claude Code/2026-08-07-3-other-changes-in-v2-1-224|3 other changes in v2.1.224]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

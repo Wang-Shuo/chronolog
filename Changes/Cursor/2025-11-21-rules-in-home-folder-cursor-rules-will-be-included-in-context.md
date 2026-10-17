@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0195ab554560534045031d28af4314a9656c91f6547840a966380b4cebd39f93
+machine_hash: 4b7e52168a7f6c2ea3d631e20145ae9e4981d0830f699966ebb8080a03839762
 product: cursor
 product_name: Cursor
 record:
@@ -74,6 +74,7 @@ type: change
 - [[Changes/Cursor/2025-11-21-project-level-hooks-are-now-supported|Project level hooks are now supported]] · Apps and Integrations
 - [[Changes/Cursor/2025-11-21-4-editor-experience-changes-in-2-1|4 Editor Experience changes in 2.1]] · Editor Experience
 - [[Changes/Cursor/2025-11-21-2-agent-mode-changes-in-2-1|2 Agent Mode changes in 2.1]] · Agent Mode
+- [[Changes/Cursor/2025-11-21-4-other-changes-in-2-1|4 other changes in 2.1]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

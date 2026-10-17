@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ed0221405adc7c74037319c9ec7352eca37c5ff930518a533692f425ba2a5ba6
+machine_hash: 904b4ede9b9a55c0057733b0a8eed6b13a532d72511928ff8c14ee683a7aa2f4
 product: claude-code
 product_name: Claude Code
 record:
@@ -93,6 +93,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.259
 - [[Changes/Claude Code/2026-09-02-vscode-added-an-active-quick-filter-and-a-status-filter-menu-needs-input-working|VSCode Added an Active quick filter and a status filter menu…]] · Interface Experience
 - [[Changes/Claude Code/2026-09-02-5-apps-and-integrations-changes-in-v2-1-259|5 Apps and Integrations changes in v2.1.259]] · Apps and Integrations
 - [[Changes/Claude Code/2026-09-02-2-agent-mode-changes-in-v2-1-259|2 Agent Mode changes in v2.1.259]] · Agent Mode
+- [[Changes/Claude Code/2026-09-02-added-recognition-of-glab-mr-create-merge-close-reopen-note-update-so-gitlab-mer|Added recognition of glab mr create/merge/close/reopen/note/update so GitLab merge…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

@@ -16,8 +16,8 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
-kind: launch
-machine_hash: d0686e65adb5d7e0ae0388d284f5e49a43a7d46d7e741b70a231d9c01888b8b5
+kind: change
+machine_hash: ab574d052e762b055c4dd071b0c3b2f366279fcc1696d69505fc3249643834be
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ record:
     source_release: https://cursor.com/changelog/0-48-x
   extractor_version: fallback-v5
   impact: incremental
-  kind: launch
+  kind: change
   product: cursor
   product_name: Cursor
   slug: faster-indexing
@@ -64,7 +64,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Faster indexing
 
-**Cursor** · 2025-03-23 · [[Themes/reliability-performance|Reliability and Performance]] · Launch · [Official source](https://cursor.com/changelog/0-48-x) · from [[Releases/Cursor/cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b|Chat tabs, Custom modes & Faster indexing]]
+**Cursor** · 2025-03-23 · [[Themes/reliability-performance|Reliability and Performance]] · [Official source](https://cursor.com/changelog/0-48-x) · from [[Releases/Cursor/cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b|Chat tabs, Custom modes & Faster indexing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -89,6 +89,7 @@ type: change
 - [[Changes/Cursor/2025-03-23-2-interface-experience-changes-in-0-48-x|2 Interface Experience changes in 0.48.x]] · Interface Experience
 - [[Changes/Cursor/2025-03-23-this-release-introduces-chat-tabs-for-parallel-conversations-a-redesignedmodes-s|Cursor introduces chat tabs for parallel conversations, a redesignedmodes system…]] · Pricing Model
 - [[Changes/Cursor/2025-03-23-chat-tabs|Chat tabs]] · Editor Experience
+- [[Changes/Cursor/2025-03-23-4-other-changes-in-0-48-x|4 other changes in 0.48.x]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

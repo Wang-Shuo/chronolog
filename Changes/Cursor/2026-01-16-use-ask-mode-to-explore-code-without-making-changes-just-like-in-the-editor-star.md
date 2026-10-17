@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 2292235536b1d10612d916f6038dd5d6baa25a4ec9b5393295f58d47cc7c0c43
+machine_hash: 2600508fb7d060e5e21501adfdbcd8c01a278aec01343707f976d5749549a320
 product: cursor
 product_name: Cursor
 record:
@@ -82,6 +82,8 @@ type: change
 - [[Changes/Cursor/2026-01-16-added-webfetch-websearch-tools-approval-options-for-granular-controls-over-web-s|Added WebFetch, WebSearch tools, & approval options for granular controls over web…]] · Search and Browsing
 - [[Changes/Cursor/2026-01-16-2-interface-experience-changes-in-cli-agent-modes-and-cloud-handoff|2 Interface Experience changes in CLI Agent Modes and Cloud Handoff]] · Interface Experience
 - [[Changes/Cursor/2026-01-16-added-hooks-for-session-start-end-prompt-and-stop-for-customizing-agent-lifecycl|Added hooks for session start/end, prompt, and stop for customizing agent lifecycle events]] · Agent Mode
+- [[Changes/Cursor/2026-01-16-list-removed-use-resume-to-see-all-prior-conversations|/list removed. Use /resume to see all prior conversations]] · Other changes
+- [[Changes/Cursor/2026-01-16-added-about-for-seeing-basic-details-about-your-environment-and-cursor-cli-setup|Added /about for seeing basic details about your environment and Cursor CLI setup]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

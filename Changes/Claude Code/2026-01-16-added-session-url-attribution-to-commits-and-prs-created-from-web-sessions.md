@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c4e6fa64ecb6b11b584e43b39e428b75c7b4afbd3e1c21ac82b2e3e33e6ba1ee
+machine_hash: ad2b3186c5d3ce7b75e8f39853e98dac43b58d0d416caa742380a1c4a88e443d
 product: claude-code
 product_name: Claude Code
 record:
@@ -74,6 +74,7 @@ type: change
 - [[Changes/Claude Code/2026-01-16-added-auto-n-syntax-for-configuring-the-mcp-tool-search-auto-enable-threshold-wh|Added auto:N syntax for configuring the MCP tool search auto-enable threshold…]] · Context Window
 - [[Changes/Claude Code/2026-01-16-added-support-for-pretooluse-hooks-to-return-additionalcontext-to-the-model|Added support for PreToolUse hooks to return additionalContext to the model]] · Model Support
 - [[Changes/Claude Code/2026-01-16-added-external-editor-support-ctrl-g-in-askuserquestion-other-input-field|Added external editor support (Ctrl+G) in AskUserQuestion "Other" input field]] · Editor Experience
+- [[Changes/Claude Code/2026-01-16-added-claude-session-id-string-substitution-for-skills-to-access-the-current-ses|Added ${CLAUDE_SESSION_ID} string substitution for skills to access the current…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

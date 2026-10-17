@@ -1,10 +1,10 @@
 ---
-changes_count: 12
+changes_count: 13
 date: '2026-02-18'
 description: 'Cursor release CLI Improvements and Mermaid ASCII Diagrams on 2026-02-18:
-  12 tracked changes across Interface Experience, Developer Workflow, Agent Mode,
+  13 tracked changes across Interface Experience, Developer Workflow, Agent Mode,
   Apps…'
-machine_hash: bb5728cf839b635f52c227fc92b4323b3431ea0bef4368d8e7f7508ea70ad2d4
+machine_hash: 031c3aa497aa9fbad3b4842b85c734ca3d1a740b62e8a365a097d3edbdbcb8dd
 product: cursor
 product_name: Cursor
 record:
@@ -40,7 +40,7 @@ version: CLI Improvements and Mermaid ASCII Diagrams
 <!-- chronolog:begin region="summary" -->
 This release introduces the ability to hand off plans from the CLI to the cloud, in-line rendering of ASCII diagrams, and many quality-of-life improvements.
 
-Tracked 12 cards from 50 candidate lines; 12 lines pending review.
+Tracked 13 cards from 50 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
@@ -57,4 +57,5 @@ Tracked 12 cards from 50 candidate lines; 12 lines pending review.
 - [[Changes/Cursor/2026-02-18-3-apps-and-integrations-changes-in-cli-improvements-and-mermaid-ascii|3 Apps and Integrations changes in CLI Improvements and Mermaid ASCII…]] · Apps and Integrations · Digest
 - [[Changes/Cursor/2026-02-18-7-safety-and-privacy-changes-in-cli-improvements-and-mermaid-ascii|7 Safety and Privacy changes in CLI Improvements and Mermaid ASCII…]] · Safety and Privacy · Digest
 - [[Changes/Cursor/2026-02-18-3-developer-workflow-changes-in-cli-improvements-and-mermaid-ascii|3 Developer Workflow changes in CLI Improvements and Mermaid ASCII…]] · Developer Workflow · Digest
+- [[Changes/Cursor/2026-02-18-12-other-changes-in-cli-improvements-and-mermaid-ascii|12 other changes in CLI Improvements and Mermaid ASCII…]] · Other changes · Digest
 <!-- chronolog:end -->

@@ -1,10 +1,10 @@
 ---
-changes_count: 3
+changes_count: 4
 date: '2025-06-13'
 description: 'ChatGPT release Improvements to the ChatGPT search response quality
-  on 2025-06-13: 3 tracked changes across Model Support, Reliability and Performance,
+  on 2025-06-13: 4 tracked changes across Model Support, Reliability and Performance,
   Search…'
-machine_hash: e70a9a16c9b4a9847e5fef2c5e200205ee4d34794d0ded4587acddbaaadb88d9
+machine_hash: 1f24510fcf023226e1d01989d17a49cd91f443e73bc6ce9eccfac26daeccb905
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,12 +41,13 @@ version: Improvements to the ChatGPT search response quality
 <!-- chronolog:begin region="summary" -->
 We’ve upgraded ChatGPT search for all users to provide even more comprehensive, up-to-date responses. In testing, we found users preferred these search improvements over our previous search experience.
 
-Tracked 3 cards from 9 candidate lines; 4 lines pending review.
+Tracked 4 cards from 9 candidate lines; 2 lines pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
 - [[Changes/ChatGPT/2025-06-13-we-ve-upgraded-chatgpt-search-for-all-users-to-provide-even-more-comprehensive-u|We’ve upgraded ChatGPT search for all users to provide even more comprehensive…]] · Search and Browsing
 - [[Changes/ChatGPT/2025-06-13-in-some-cases-a-chain-of-thought-reasoning-will-show-up-unexpectedly-for-simple|In some cases, a “chain of thought” reasoning will show up unexpectedly for simple queries]] · Model Support
-- [[Changes/ChatGPT/2025-06-13-improved-search-capability-and-instruction-following-594de0|Improved search capability and instruction following]] · Reliability and Performance · Launch
+- [[Changes/ChatGPT/2025-06-13-improved-search-capability-and-instruction-following-594de0|Improved search capability and instruction following]] · Reliability and Performance
+- [[Changes/ChatGPT/2025-06-13-2-other-changes-in-improvements-to-the-chatgpt-search|2 other changes in Improvements to the ChatGPT search…]] · Other changes · Digest
 <!-- chronolog:end -->

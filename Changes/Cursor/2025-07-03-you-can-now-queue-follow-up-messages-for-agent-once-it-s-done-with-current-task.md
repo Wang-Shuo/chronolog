@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: a38cb2e0e6bf7e903ee8ee0c6dbe38fda178b380a04b732e02a2a430a001f2b0
+machine_hash: 0116eda0fbdae8e3bc49b66eb168669afc0967dc81f01a1c6644bb95c3b04c67
 product: cursor
 product_name: Cursor
 record:
@@ -86,6 +86,7 @@ type: change
 - [[Changes/Cursor/2025-07-03-2-agent-mode-changes-in-1-2|2 Agent Mode changes in 1.2]] · Agent Mode
 - [[Changes/Cursor/2025-07-03-background-agent-improvements|Background Agent improvements]] · Agent Mode
 - [[Changes/Cursor/2025-07-03-pr-indexing-search|PR indexing & search]] · Context Window
+- [[Changes/Cursor/2025-07-03-2-other-changes-in-1-2|2 other changes in 1.2]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

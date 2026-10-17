@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9ba42c1c98e7ab3c94c59d01fcfba5778fb1bf9a81a8addd66ceb183c5defbf5
+machine_hash: fa1f54e3ccaee5dc435bc48e76fceb27d35fac148e5919b20cbe5d76e27796db
 product: claude-code
 product_name: Claude Code
 record:
@@ -96,6 +96,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.286
 - [[Changes/Claude Code/2026-09-30-improved-the-external-editor-ctrl-g-editors-that-take-a-line-number-now-open-on|Improved the external editor (Ctrl+G)]] · Editor Experience
 - [[Changes/Claude Code/2026-09-30-improved-the-model-fallback-notice-and-the-autocompact-thrashing-error-to-say-wh|Improved the model fallback notice and the autocompact-thrashing error to say…]] · Context Window
 - [[Changes/Claude Code/2026-09-30-4-safety-and-privacy-changes-in-v2-1-286|4 Safety and Privacy changes in v2.1.286]] · Safety and Privacy
+- [[Changes/Claude Code/2026-09-30-8-other-changes-in-v2-1-286|8 other changes in v2.1.286]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

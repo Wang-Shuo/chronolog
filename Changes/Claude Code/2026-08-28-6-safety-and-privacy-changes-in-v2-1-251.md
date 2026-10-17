@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: da6c4aa9a2b0fc9f6d3c31c1b5c8704c7bb552ad43489f9212c2a91e61731a82
+machine_hash: 4438b1848ac4fbb56982cb7e4e1ab808eb744aef7bb97e4d0d64566e5f2099c0
 product: claude-code
 product_name: Claude Code
 record:
@@ -108,6 +108,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.251
 - [[Changes/Claude Code/2026-08-28-improved-retry-when-the-model-s-tool-call-is-malformed-the-broken-output-is-now|Improved retry when the model's tool call is malformed]] · Context Window
 - [[Changes/Claude Code/2026-08-28-4-agent-mode-changes-in-v2-1-251|4 Agent Mode changes in v2.1.251]] · Agent Mode
 - [[Changes/Claude Code/2026-08-28-improved-amazon-bedrock-session-start-under-claude-code-provider-managed-by-host|Improved Amazon Bedrock session start under CLAUDE_CODE_PROVIDER_MANAGED_BY_HOST…]] · Mobile and Desktop
+- [[Changes/Claude Code/2026-08-28-8-other-changes-in-v2-1-251|8 other changes in v2.1.251]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

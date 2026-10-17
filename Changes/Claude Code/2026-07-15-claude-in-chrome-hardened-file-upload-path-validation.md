@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7f839fa418ad6c26503d8e3945d36f977228f03f859ac2492d4df6aa1aa31fee
+machine_hash: b23121872e26f9b65eaa35801bc9453d4e6f8761af8de8e1becc7c5eeee56cac
 product: claude-code
 product_name: Claude Code
 record:
@@ -75,6 +75,7 @@ type: change
 - [[Changes/Claude Code/2026-07-15-improved-the-memory-index-over-limit-warning-to-measure-only-loaded-content-excl|Improved the memory index over-limit warning to measure only loaded content…]] · Memory and Personalization
 - [[Changes/Claude Code/2026-07-15-2-safety-and-privacy-changes-in-v2-1-211|2 Safety and Privacy changes in v2.1.211]] · Safety and Privacy
 - [[Changes/Claude Code/2026-07-15-changed-usage-credits-to-ask-for-confirmation-before-sending-a-request-to-organi|Changed /usage-credits to ask for confirmation before sending a request…]] · Enterprise and Administration
+- [[Changes/Claude Code/2026-07-15-4-other-changes-in-v2-1-211|4 other changes in v2.1.211]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

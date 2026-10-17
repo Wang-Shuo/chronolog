@@ -1,9 +1,9 @@
 ---
-changes_count: 9
+changes_count: 10
 date: '2025-12-10'
 description: 'Cursor release Debug Mode, Plan Mode Improvements, Multi-Agent Judging,
-  and Pinned Chats on 2025-12-10: 9 tracked changes across Agent Mode, Developer…'
-machine_hash: f5ad144103cf0b0dc3da55657ded75ad927aa21991c194baf8e33d514d6c8165
+  and Pinned Chats on 2025-12-10: 10 tracked changes across Agent Mode, Developer…'
+machine_hash: cf99a58a6eb6b7465c9639175589e93cd1be8ddf721b58279b2de2042ffbbd23
 product: cursor
 product_name: Cursor
 record:
@@ -40,7 +40,7 @@ version: '2.2'
 <!-- chronolog:begin region="summary" -->
 #Debug Mode
 
-Tracked 9 cards from 20 candidate lines; 4 lines pending review.
+Tracked 10 cards from 20 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
@@ -54,4 +54,5 @@ Tracked 9 cards from 20 candidate lines; 4 lines pending review.
 - [[Changes/Cursor/2025-12-10-browser-layout-and-style-editor-c9ae9c|Browser layout and style editor]] · Editor Experience · Launch
 - [[Changes/Cursor/2025-12-10-pinned-chats|Pinned chats]] · Interface Experience · Launch
 - [[Changes/Cursor/2025-12-10-agent-plans-are-now-files-that-can-be-edited-with-normal-tools|Agent plans are now files that can be edited with normal tools]] · Agent Mode
+- [[Changes/Cursor/2025-12-10-4-other-changes-in-2-2|4 other changes in 2.2]] · Other changes · Digest
 <!-- chronolog:end -->

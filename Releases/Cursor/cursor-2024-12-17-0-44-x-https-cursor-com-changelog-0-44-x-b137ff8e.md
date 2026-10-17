@@ -1,9 +1,9 @@
 ---
-changes_count: 4
+changes_count: 5
 date: '2024-12-17'
 description: 'Cursor release Agent Improvements, Yolo Mode, Cursor Tab Update on 2024-12-17:
-  4 tracked changes across Reliability and Performance, Developer Workflow, Editor…'
-machine_hash: 7ddacb9a288782d44f72506fa1066e240ac7494b1c8e4a1fe6fcdfcde3021abc
+  5 tracked changes across Reliability and Performance, Developer Workflow, Editor…'
+machine_hash: d3cb7efc049714c038be7c96b239c2394f92c4d9fe0657432b609a59cb448ad1
 product: cursor
 product_name: Cursor
 record:
@@ -39,7 +39,7 @@ version: 0.44.x
 <!-- chronolog:begin region="summary" -->
 Agent sees terminal exit codes, can run commands in the background, and commands are now editable
 
-Tracked 4 cards from 18 candidate lines; 1 line pending review.
+Tracked 5 cards from 18 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
@@ -48,4 +48,5 @@ Tracked 4 cards from 18 candidate lines; 1 line pending review.
 - [[Changes/Cursor/2024-12-17-cursor-starts-up-faster|Cursor starts up faster]] · Reliability and Performance
 - [[Changes/Cursor/2024-12-17-cheaper-and-faster-bug-finding-model|Cheaper and faster Bug Finding Model]] · Reliability and Performance
 - [[Changes/Cursor/2024-12-17-agent-can-reapply-edits-with-a-smarter-apply-model|Agent can reapply edits with a smarter apply model]] · Editor Experience
+- [[Changes/Cursor/2024-12-17-composer-no-longer-looks-at-files-that-were-deleted|Composer no longer looks at files that were deleted]] · Other changes
 <!-- chronolog:end -->

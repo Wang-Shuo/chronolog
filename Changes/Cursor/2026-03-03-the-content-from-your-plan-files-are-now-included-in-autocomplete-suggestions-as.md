@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: ce5d7c448af29e32dc2917500306c0df4f43cde4a1cdb11f42933f714baa1a88
+machine_hash: bb22d51da6e3b5446c5830afae7114c488792b573a3a759aa40753ab04a35ef8
 product: cursor
 product_name: Cursor
 record:
@@ -97,6 +97,7 @@ type: change
 - [[Changes/Cursor/2026-03-03-fixed-team-permission-and-access-control-inconsistencies-across-organization-set|Fixed team permission and access control inconsistencies across organization setups]] · Safety and Privacy
 - [[Changes/Cursor/2026-03-03-this-release-introduces-interactive-uis-in-agent-chats-a-way-for-teams-to-share|Cursor introduces interactive UIs in agent chats, a way for teams to share private…]] · Developer Workflow
 - [[Changes/Cursor/2026-03-03-agent-workflows-are-faster-and-more-predictable-for-multi-file-edits-and-pr-heav|Agent workflows are faster and more predictable for multi-file edits and PR-heavy tasks]] · Editor Experience
+- [[Changes/Cursor/2026-03-03-3-other-changes-in-2-6|3 other changes in 2.6]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

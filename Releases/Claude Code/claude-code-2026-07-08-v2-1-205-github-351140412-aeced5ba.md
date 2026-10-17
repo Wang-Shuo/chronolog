@@ -1,10 +1,10 @@
 ---
-changes_count: 5
+changes_count: 6
 date: '2026-07-08'
-description: 'Claude Code release v2.1.205 on 2026-07-08: 5 tracked changes across
+description: 'Claude Code release v2.1.205 on 2026-07-08: 6 tracked changes across
   Agent Mode, Apps and Integrations, Context Window, Reliability and Performance,
   Safety and…'
-machine_hash: 8e3cc020e5e08be8cd23ba8fe79bd89734b1f9b67b0dc1177c16777c0bc80333
+machine_hash: f09511187f1a75859760ab7622c5697958aed66d41448843fedf078f1cce698a
 product: claude-code
 product_name: Claude Code
 record:
@@ -37,9 +37,9 @@ version: v2.1.205
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
-5 tracked changes across 5 themes: Agent Mode, Apps and Integrations, Context Window, Reliability and Performance, Safety and Privacy.
+6 tracked changes across 5 themes: Agent Mode, Apps and Integrations, Context Window, Reliability and Performance, Safety and Privacy; 1 in Other changes.
 
-Tracked 5 cards from 23 candidate lines; 1 line pending review.
+Tracked 6 cards from 23 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
@@ -49,4 +49,5 @@ Tracked 5 cards from 23 candidate lines; 1 line pending review.
 - [[Changes/Claude Code/2026-07-08-3-agent-mode-changes-in-v2-1-205|3 Agent Mode changes in v2.1.205]] · Agent Mode · Digest
 - [[Changes/Claude Code/2026-07-08-auto-update-binary-downloads-now-stream-to-disk-instead-of-buffering-in-memory-c|Auto-update binary downloads now stream to disk instead of buffering in memory…]] · Reliability and Performance
 - [[Changes/Claude Code/2026-07-08-background-task-notifications-now-explicitly-state-that-no-human-input-has-occur|Background task notifications now explicitly state that no human input has occurred…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-07-08-doctor-is-now-a-full-setup-checkup-that-can-diagnose-and-fix-issues-checkup-is-i|/doctor is now a full setup checkup that can diagnose and fix issues]] · Other changes
 <!-- chronolog:end -->

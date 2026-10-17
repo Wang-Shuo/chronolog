@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 735a6d51a84a34184a62af9b8e94d88b87d9dad6efde00c290dfeca12c60dc2d
+machine_hash: 63f9cc87abe65bcbe0ca336e945558e9b7d474e5a81cb35fbefd52fde0d262de
 product: claude-code
 product_name: Claude Code
 record:
@@ -81,6 +81,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.222
 
 - [[Changes/Claude Code/2026-08-04-improved-auto-mode-safety-messages-sent-to-other-agent-sessions-via-sendmessage|Improved auto mode safety]] · Safety and Privacy
 - [[Changes/Claude Code/2026-08-04-improved-the-refusal-when-claude-tries-to-invoke-a-skill-with-disable-model-invo|Improved the refusal when Claude tries to invoke a skill with disable-model-invocation]] · Model Support
+- [[Changes/Claude Code/2026-08-04-removed-ultraplan-feature|Removed ultraplan feature]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

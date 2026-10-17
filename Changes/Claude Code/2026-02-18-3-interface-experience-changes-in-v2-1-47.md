@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6331f74df6f992226c3bb6ca44381472e3b28176bb7149b0725e47cecb8325b0
+machine_hash: 3372c30c0f8f504e3f9ee2470ad147bf257de6e2b11e5e4beafdcbd709a25de6
 product: claude-code
 product_name: Claude Code
 record:
@@ -87,6 +87,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.47
 - [[Changes/Claude Code/2026-02-18-added-last-assistant-message-field-to-stop-and-subagentstop-hook-inputs-providin|Added last_assistant_message field to Stop and SubagentStop hook inputs, providing…]] · Apps and Integrations
 - [[Changes/Claude Code/2026-02-18-5-reliability-and-performance-changes-in-v2-1-47|5 Reliability and Performance changes in v2.1.47]] · Reliability and Performance
 - [[Changes/Claude Code/2026-02-18-2-safety-and-privacy-changes-in-v2-1-47|2 Safety and Privacy changes in v2.1.47]] · Safety and Privacy
+- [[Changes/Claude Code/2026-02-18-3-other-changes-in-v2-1-47|3 other changes in v2.1.47]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2b41dcb70971d50591bab237ca98657e54337326cad69821f1f2f69328cfcfcd
+machine_hash: c2d9c848d12071b91938d36c0cd097c1c7aa3060d5091cb6c605ffe097f9cfe7
 product: claude-code
 product_name: Claude Code
 record:
@@ -88,6 +88,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.172
 - [[Changes/Claude Code/2026-06-10-sub-agents-can-now-spawn-their-own-sub-agents-up-to-5-levels-deep|Sub-agents can now spawn their own sub-agents (up to 5 levels deep)]] · Agent Mode
 - [[Changes/Claude Code/2026-06-10-stopped-promoting-loop-in-remote-sessions-where-pending-loops-don-t-keep-the-con|Stopped promoting /loop in remote sessions, where pending loops don't keep…]] · Automation and Scheduling
 - [[Changes/Claude Code/2026-06-10-2-model-support-changes-in-v2-1-172|2 Model Support changes in v2.1.172]] · Model Support
+- [[Changes/Claude Code/2026-06-10-improved-claude-in-chrome-tool-loading-browser-tools-now-load-in-a-single-batche|Improved Claude in Chrome tool loading]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

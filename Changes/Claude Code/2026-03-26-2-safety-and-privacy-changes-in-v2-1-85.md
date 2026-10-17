@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2eca45290b66c1ce10be5a57a5c50ff40e3375a8079299ab1a19d691c874face
+machine_hash: cb3e893b02feb817ab98e67becfc457571c213b1d4cb3bb750cf828104f99006
 product: claude-code
 product_name: Claude Code
 record:
@@ -84,6 +84,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.85
 - [[Changes/Claude Code/2026-03-26-reduced-ui-stutter-when-compaction-triggers-on-large-sessions|Reduced UI stutter when compaction triggers on large sessions]] · Context Window
 - [[Changes/Claude Code/2026-03-26-4-apps-and-integrations-changes-in-v2-1-85|4 Apps and Integrations changes in v2.1.85]] · Apps and Integrations
 - [[Changes/Claude Code/2026-03-26-improved-powershell-dangerous-command-detection|Improved PowerShell dangerous command detection]] · Developer Workflow
+- [[Changes/Claude Code/2026-03-26-tool-parameters-in-opentelemetry-tool-result-events-are-now-gated-behind-otel-lo|tool_parameters in OpenTelemetry tool_result events are now gated behind…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

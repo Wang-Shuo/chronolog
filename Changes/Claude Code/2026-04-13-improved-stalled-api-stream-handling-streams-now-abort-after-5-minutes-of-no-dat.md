@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f57bf931d3ee64516fe91beccde80dc862fe06469e090aea8b1173bffdbd845f
+machine_hash: 92d3843fcce51170c6ebcaeefe1df1b6134332c1202a79541258b8123797b882
 product: claude-code
 product_name: Claude Code
 record:
@@ -78,6 +78,7 @@ type: change
 - [[Changes/Claude Code/2026-04-13-improved-network-error-messages-connection-errors-now-show-a-retry-message-immed|Improved network error messages]] · Interface Experience
 - [[Changes/Claude Code/2026-04-13-2-developer-workflow-changes-in-v2-1-105|2 Developer Workflow changes in v2.1.105]] · Developer Workflow
 - [[Changes/Claude Code/2026-04-13-proactive-is-now-an-alias-for-loop|/proactive is now an alias for /loop]] · Automation and Scheduling
+- [[Changes/Claude Code/2026-04-13-5-other-changes-in-v2-1-105|5 other changes in v2.1.105]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

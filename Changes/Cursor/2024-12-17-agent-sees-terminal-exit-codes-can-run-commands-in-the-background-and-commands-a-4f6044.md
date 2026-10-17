@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 19d473b4f2b5e273625523be811a0ea177c53ffc07cc0bcb7626c41b8885b9ac
+machine_hash: 9aac9614f7c7a0010765eaf9d0ae701c2269f0a171f3f558d702d31aa2a7731c
 product: cursor
 product_name: Cursor
 record:
@@ -105,6 +105,7 @@ type: change
 - [[Changes/Cursor/2024-12-17-cursor-starts-up-faster|Cursor starts up faster]] · Reliability and Performance
 - [[Changes/Cursor/2024-12-17-cheaper-and-faster-bug-finding-model|Cheaper and faster Bug Finding Model]] · Reliability and Performance
 - [[Changes/Cursor/2024-12-17-agent-can-reapply-edits-with-a-smarter-apply-model|Agent can reapply edits with a smarter apply model]] · Editor Experience
+- [[Changes/Cursor/2024-12-17-composer-no-longer-looks-at-files-that-were-deleted|Composer no longer looks at files that were deleted]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

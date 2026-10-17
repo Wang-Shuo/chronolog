@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 12cc0f36aa300c135d23281bf41ec5137c664f20e34af56658a10f0c1006f838
+machine_hash: d3814d9e5db0e116de4da6e46d29114d098cf612d946f77a5fd534c2170e45f4
 product: claude-code
 product_name: Claude Code
 record:
@@ -80,6 +80,7 @@ type: change
 - [[Changes/Claude Code/2026-04-23-5-apps-and-integrations-changes-in-v2-1-118|5 Apps and Integrations changes in v2.1.118]] · Apps and Integrations
 - [[Changes/Claude Code/2026-04-23-merged-cost-and-stats-into-usage-both-remain-as-typing-shortcuts-that-open-the-r|Merged /cost and /stats into /usage]] · Editor Experience
 - [[Changes/Claude Code/2026-04-23-2-interface-experience-changes-in-v2-1-118|2 Interface Experience changes in v2.1.118]] · Interface Experience
+- [[Changes/Claude Code/2026-04-23-continue-resume-now-find-sessions-that-added-the-current-directory-via-add-dir|--continue/--resume now find sessions that added the current directory via /add-dir]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

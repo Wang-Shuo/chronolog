@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 048c79b70994e16e26f53ca14af238763cdb71a052f4e495541deb5bd42a9fb9
+machine_hash: 6e747ed61797a984ad33a59dd7f7b3af475efde21144c05007e324abfc33ef9a
 product: cursor
 product_name: Cursor
 record:
@@ -81,6 +81,7 @@ type: change
 - [[Changes/Cursor/2026-04-08-give-bugbot-access-to-mcp-servers-for-additional-context-during-code-reviews-on|Bugbot MCP Support]] · Apps and Integrations
 - [[Changes/Cursor/2026-04-08-redesigned-bugbot-settings-and-split-personal-and-team-settings-into-clearer-sec|Redesigned Bugbot settings, and split personal and team settings into clearer sections]] · Collaboration
 - [[Changes/Cursor/2026-04-08-this-release-introduces-updates-to-bugbot-including-the-ability-to-self-improve|Cursor introduces updates to Bugbot including the ability to self-improve in real…]] · Apps and Integrations
+- [[Changes/Cursor/2026-04-08-6-other-changes-in-04-08-26|6 other changes in 04.08.26]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

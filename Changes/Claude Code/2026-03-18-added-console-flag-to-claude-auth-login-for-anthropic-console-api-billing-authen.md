@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5a4f60b90d7624a13a2d593b72a94ac93cc5953da1af3b762f5855af6b0e6313
+machine_hash: c058bff1a3cdcf566f2c9db8afa4479246287639d5f79babb35058c0dcd72a21
 product: claude-code
 product_name: Claude Code
 record:
@@ -85,6 +85,7 @@ type: change
 - [[Changes/Claude Code/2026-03-18-fixed-custom-status-line-showing-nothing-when-workspace-trust-is-blocking-it|Fixed custom status line showing nothing when workspace trust is blocking it]] · Safety and Privacy
 - [[Changes/Claude Code/2026-03-18-2-reliability-and-performance-changes-in-v2-1-79|2 Reliability and Performance changes in v2.1.79]] · Reliability and Performance
 - [[Changes/Claude Code/2026-03-18-added-show-turn-duration-toggle-to-the-config-menu|Added "Show turn duration" toggle to the /config menu]] · Interface Experience
+- [[Changes/Claude Code/2026-03-18-vscode-session-tabs-now-get-ai-generated-titles-based-on-your-first-message|VSCode Session tabs now get AI-generated titles based on your first message]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

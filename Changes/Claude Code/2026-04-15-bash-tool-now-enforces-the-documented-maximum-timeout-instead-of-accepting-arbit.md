@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 698aa38be5bf1a8f1c20213339515e3a4b81285372a8cc3ed9762f4608d36fdb
+machine_hash: c7728d075c912bcddea291495eb75d721e8361b48e753a0ebac92577930e8544
 product: claude-code
 product_name: Claude Code
 record:
@@ -78,6 +78,7 @@ type: change
 - [[Changes/Claude Code/2026-04-15-added-option-to-show-claude-s-last-response-as-commented-context-in-the-ctrl-g-e|Added option to show Claude's last response as commented context in the Ctrl+G…]] · Context Window
 - [[Changes/Claude Code/2026-04-15-4-apps-and-integrations-changes-in-v2-1-110|4 Apps and Integrations changes in v2.1.110]] · Apps and Integrations
 - [[Changes/Claude Code/2026-04-15-2-editor-experience-changes-in-v2-1-110|2 Editor Experience changes in v2.1.110]] · Editor Experience
+- [[Changes/Claude Code/2026-04-15-session-recap-is-now-enabled-for-users-with-telemetry-disabled-bedrock-vertex-fo|Session recap is now enabled for users with telemetry disabled…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

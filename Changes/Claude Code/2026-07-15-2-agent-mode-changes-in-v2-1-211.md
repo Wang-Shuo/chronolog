@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9d4b3aef7259ee4e78b6fd46d7a3ba14eef31b213716e1c8c98ccc8f014269d7
+machine_hash: 970406e869b27777a7b0e2bfa0766b866cea12615bb4a748d6a6f60541846bee
 product: claude-code
 product_name: Claude Code
 record:
@@ -83,6 +83,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.211
 - [[Changes/Claude Code/2026-07-15-2-safety-and-privacy-changes-in-v2-1-211|2 Safety and Privacy changes in v2.1.211]] · Safety and Privacy
 - [[Changes/Claude Code/2026-07-15-changed-usage-credits-to-ask-for-confirmation-before-sending-a-request-to-organi|Changed /usage-credits to ask for confirmation before sending a request…]] · Enterprise and Administration
 - [[Changes/Claude Code/2026-07-15-claude-in-chrome-hardened-file-upload-path-validation|Claude in Chrome: hardened file-upload path validation]] · Files and Data
+- [[Changes/Claude Code/2026-07-15-4-other-changes-in-v2-1-211|4 other changes in v2.1.211]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

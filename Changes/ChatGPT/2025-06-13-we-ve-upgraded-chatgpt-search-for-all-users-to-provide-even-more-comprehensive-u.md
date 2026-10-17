@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 36fe760678b18765f52c460f5ee86f43594de5e6401c85af1165c11130037422
+machine_hash: e9479c0f3b26b7b7d93f99dc7441b026f604b6daf8283e5f754558cac0bfaca0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -77,6 +77,7 @@ type: change
 
 - [[Changes/ChatGPT/2025-06-13-in-some-cases-a-chain-of-thought-reasoning-will-show-up-unexpectedly-for-simple|In some cases, a “chain of thought” reasoning will show up unexpectedly for simple queries]] · Model Support
 - [[Changes/ChatGPT/2025-06-13-improved-search-capability-and-instruction-following-594de0|Improved search capability and instruction following]] · Reliability and Performance
+- [[Changes/ChatGPT/2025-06-13-2-other-changes-in-improvements-to-the-chatgpt-search|2 other changes in Improvements to the ChatGPT search…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

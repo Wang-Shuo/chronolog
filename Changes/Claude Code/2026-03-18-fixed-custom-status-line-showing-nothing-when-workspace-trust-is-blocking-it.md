@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 535488f5a56a49f01d7c157071db6b0a0262720edeb8760faf18412571f671e6
+machine_hash: 8de8a973121874958f7725e97a108a7f3c4254f685331106108cf7b992b542f6
 product: claude-code
 product_name: Claude Code
 record:
@@ -77,6 +77,7 @@ type: change
 - [[Changes/Claude Code/2026-03-18-added-console-flag-to-claude-auth-login-for-anthropic-console-api-billing-authen|Added --console flag to claude auth login for Anthropic Console (API billing)…]] · Account and Access
 - [[Changes/Claude Code/2026-03-18-2-reliability-and-performance-changes-in-v2-1-79|2 Reliability and Performance changes in v2.1.79]] · Reliability and Performance
 - [[Changes/Claude Code/2026-03-18-added-show-turn-duration-toggle-to-the-config-menu|Added "Show turn duration" toggle to the /config menu]] · Interface Experience
+- [[Changes/Claude Code/2026-03-18-vscode-session-tabs-now-get-ai-generated-titles-based-on-your-first-message|VSCode Session tabs now get AI-generated titles based on your first message]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
