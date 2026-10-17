@@ -2,6 +2,7 @@ import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 import { ActiveChronolog } from "./_scripts/publication_filter"
 import { ChronologFeed } from "./_scripts/feed"
+import ChronologFolderContent from "./_scripts/folder_content"
 
 const config: QuartzConfig = {
   configuration: {
@@ -79,7 +80,8 @@ const config: QuartzConfig = {
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
-      Plugin.FolderPage(),
+      // Archive/index.md lists the months itself; other folders keep the page list.
+      Plugin.FolderPage({ pageBody: ChronologFolderContent() }),
       Plugin.TagPage(),
       // The feed is ChronologFeed (cards and releases only), not the stock all-pages RSS.
       Plugin.ContentIndex({ enableSiteMap: true, enableRSS: false }),

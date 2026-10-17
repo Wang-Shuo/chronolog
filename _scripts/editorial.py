@@ -29,6 +29,42 @@ def attach_editorial(analysis: dict, releases: list[dict], editorial: dict) -> N
             eras=eras, narrative_summary=spec['summary'], narrative_limitations=spec['limitations'])
 
 
+KEY_MOMENT_UNKNOWN = 'not an active card of this theme; ignored'
+KEY_MOMENT_DUPLICATE = 'listed more than once; later entries ignored'
+KEY_MOMENT_NOT_A_LIST = 'key_moments entry must be a list of card ids; ignored'
+
+
+def key_moments(editorial: dict, cards: list[dict]) -> tuple[dict[str, list[str]], list[dict[str, str]]]:
+    """Validated editorial ``key_moments`` (``{theme: [card_id, ...]}``, optional).
+
+    A listed id must name an active card of that theme; unknown ids and repeats are
+    dropped and returned as warnings (the pipeline records them in the run manifest as
+    ``editorial_warnings``; they never block a run). A theme whose list keeps no id
+    falls back to the auto-selected key moments.
+    """
+    spec = editorial.get('key_moments') or {}
+    themes_of = {str(card['card_id']): card['theme'] for card in cards}
+    curated: dict[str, list[str]] = {}
+    warnings: list[dict[str, str]] = []
+    if not isinstance(spec, dict):
+        return {}, [{'theme': '', 'card_id': '', 'reason': KEY_MOMENT_NOT_A_LIST}]
+    for theme, ids in spec.items():
+        if not isinstance(ids, list):
+            warnings.append({'theme': str(theme), 'card_id': '', 'reason': KEY_MOMENT_NOT_A_LIST})
+            continue
+        kept: list[str] = []
+        for card_id in map(str, ids):
+            if themes_of.get(card_id) != theme:
+                warnings.append({'theme': str(theme), 'card_id': card_id, 'reason': KEY_MOMENT_UNKNOWN})
+            elif card_id in kept:
+                warnings.append({'theme': str(theme), 'card_id': card_id, 'reason': KEY_MOMENT_DUPLICATE})
+            else:
+                kept.append(card_id)
+        if kept:
+            curated[str(theme)] = kept
+    return curated, warnings
+
+
 def source_coverage(source: dict | None, releases: list[dict], previous: dict | None = None) -> dict:
     state = dict(previous or {})
     # A replay's processing time must not masquerade as a successful live fetch.

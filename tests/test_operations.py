@@ -243,9 +243,11 @@ def test_html_audit_resolves_project_prefix_and_rejects_escaping_links(tmp_path)
 
 
 def root_page_vault(root):
-    """A minimal Vault with both root pages and one product page, without wiki links."""
+    """A minimal Vault with both root pages, a product page and archive pages, without
+    wiki links."""
     for name, title in (('index.md', 'ChronoLog'), ('About.md', 'About the data'),
-                        ('Products/Cursor.md', 'Cursor')):
+                        ('Products/Cursor.md', 'Cursor'), ('Archive/index.md', 'Archive'),
+                        ('Archive/2026-10.md', 'October 2026')):
         path = root / name
         path.parent.mkdir(parents=True, exist_ok=True)
         path.write_text(f'---\ntitle: {title}\n---\n\n# {title}\n')
@@ -257,10 +259,12 @@ def test_about_is_enumerated_wherever_index_is(tmp_path, monkeypatch):
     from _scripts.transaction import DIRECTORIES, copy_pages, files
     from _scripts.validate import ROOT_PAGES, VAULT_DIRECTORIES, vault_markdown_files
     assert ROOT_PAGES == ('index.md', 'About.md')
+    assert 'Archive' in VAULT_DIRECTORIES
     vault = root_page_vault(tmp_path / 'vault')
 
-    assert {'index.md', 'About.md'} <= set(files(vault))
-    assert {vault / 'index.md', vault / 'About.md'} <= set(vault_markdown_files(vault))
+    assert {'index.md', 'About.md', 'Archive/index.md', 'Archive/2026-10.md'} <= set(files(vault))
+    assert {vault / 'index.md', vault / 'About.md', vault / 'Archive/index.md',
+            vault / 'Archive/2026-10.md'} <= set(vault_markdown_files(vault))
     # Content scope of the rolling PR publisher (kept literal there).
     assert set(rolling_pr.VAULT) == {*VAULT_DIRECTORIES, '_review', *ROOT_PAGES}
     assert set(DIRECTORIES) == {*VAULT_DIRECTORIES, '_review'}
@@ -269,11 +273,13 @@ def test_about_is_enumerated_wherever_index_is(tmp_path, monkeypatch):
     stage.mkdir()
     copy_pages(vault, stage, create_missing=True)
     assert (stage / 'About.md').exists() and (stage / 'Releases').is_dir()
+    assert (stage / 'Archive/index.md').exists() and (stage / 'Archive/2026-10.md').exists()
     # Candidate copy.
     source = root_page_vault(tmp_path / 'source')
     (source / '_scripts').mkdir()
     operations.copy_vault(source, tmp_path / 'candidate')
     assert (tmp_path / 'candidate/About.md').read_text() == (source / 'About.md').read_text()
+    assert (tmp_path / 'candidate/Archive/2026-10.md').exists()
     # Quality report counts root pages by kind.
     before = inventory(vault)
     about = vault / 'About.md'
@@ -281,6 +287,11 @@ def test_about_is_enumerated_wherever_index_is(tmp_path, monkeypatch):
     report = changes(before, inventory(vault))
     assert report['by_kind']['About.md']['modified'] == 1
     assert report['by_kind']['index.md']['modified'] == 0
+    month = vault / 'Archive/2026-10.md'
+    month.unlink()
+    report = changes(before, inventory(vault))
+    assert report['by_kind']['Archive']['removed'] == 1
+    month.write_text('---\ntitle: October 2026\n---\n\n# October 2026\n')
     # The Quartz build copy of validate_site.
     built = {}
 
@@ -301,7 +312,7 @@ def test_about_is_enumerated_wherever_index_is(tmp_path, monkeypatch):
     out.mkdir()
     with pytest.raises(Stop):
         operations.validate_site(ROOT, vault, out, {'checks': {}}, 'localhost:8080')
-    assert {'index.md', 'About.md', 'Products/Cursor.md'} <= set(built)
+    assert {'index.md', 'About.md', 'Archive/index.md', 'Archive/2026-10.md', 'Products/Cursor.md'} <= set(built)
 
 
 def test_pipeline_stage_keeps_human_text_on_about(vault):
@@ -315,7 +326,7 @@ def test_pipeline_stage_keeps_human_text_on_about(vault):
     assert 'Last successful fetch: 2026-10-14T10:00:00Z.' in text
 
 
-def test_publication_audit_expects_both_root_pages(tmp_path):
+def test_publication_audit_expects_root_pages_and_the_archive_page(tmp_path):
     import importlib.util
     import json
     spec = importlib.util.spec_from_file_location('m2_audit', ROOT / 'tests/manual/check_m2_publication.py')
@@ -323,15 +334,88 @@ def test_publication_audit_expects_both_root_pages(tmp_path):
     spec.loader.exec_module(mod)
     vault = root_page_vault(tmp_path / 'vault')
     (vault / 'Products/Cursor.md').unlink()
+    (vault / 'Archive/2026-10.md').unlink()
+    site = tmp_path / 'site'
+    (site / 'Archive').mkdir(parents=True)
+    (site / 'static').mkdir()
+    for slug in ('index', 'About', 'Archive/index'):
+        (site / f'{slug}.html').write_text('<a href="https://elsewhere.example/">About the data</a>')
+    index = {'index': {'content': '3 products · 0 tracked changes · 0 themes', 'links': []},
+             'About': {'content': 'About the data', 'links': []},
+             'Archive/index': {'content': 'No changes archived yet.', 'links': []}}
+    (site / 'static/contentIndex.json').write_text(json.dumps(index))
+    assert mod.audit(vault, site)['active_pages'] == 3
+    for root_page in ('About', 'Archive/index'):
+        reduced = {slug: page for slug, page in index.items() if slug != root_page}
+        (site / 'static/contentIndex.json').write_text(json.dumps(reduced))
+        with pytest.raises(AssertionError):
+            mod.audit(vault, site)
+
+
+def test_publication_audit_expects_one_archive_page_per_month_with_cards(tmp_path):
+    import importlib.util
+    import json
+    spec = importlib.util.spec_from_file_location('m2_audit', ROOT / 'tests/manual/check_m2_publication.py')
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    # The Vault link check has its own tests; this one is about the page set.
+    mod.read_history = lambda *args: ([], [], [])
+    mod.validate_vault_links = lambda *args: {'errors': []}
+    vault = root_page_vault(tmp_path / 'vault')
+    card = vault / 'Changes/Cursor/2026-10-01-agent.md'
+    card.parent.mkdir(parents=True)
+    card.write_text("---\ntitle: Agent\ncard_id: cursor-2026-10-01-aaaaaa\nproduct: cursor\n"
+                    "product_name: Cursor\ntheme: uncategorized\ndate: '2026-10-01'\ntype: change\n---\n")
     site = tmp_path / 'site'
     (site / 'static').mkdir(parents=True)
-    for slug in ('index', 'About'):
-        (site / f'{slug}.html').write_text('<a href="./About">About the data</a>')
-    index = {'index': {'content': '3 products · 0 tracked changes · 0 themes', 'links': []},
-             'About': {'content': 'About the data', 'links': []}}
-    (site / 'static/contentIndex.json').write_text(json.dumps(index))
-    assert mod.audit(vault, site)['active_pages'] == 2
-    del index['About']
-    (site / 'static/contentIndex.json').write_text(json.dumps(index))
+    slugs = ('index', 'About', 'Archive/index', 'Archive/2026-10', 'Products/Cursor',
+             'Changes/Cursor/2026-10-01-agent')
+    for slug in slugs:
+        (site / f'{slug}.html').parent.mkdir(parents=True, exist_ok=True)
+        (site / f'{slug}.html').write_text('<p>page</p>')
+    index = {slug: {'content': '', 'links': []} for slug in slugs}
+    index['index']['content'] = '1 tracked changes'
+    index['Products/Cursor']['content'] = 'Cursor: 1 archived releases and 1 tracked changes.'
+    index['Archive/index']['links'] = ['Archive/2026-10']
+    index['Archive/2026-10']['content'] = '1 tracked change · Cursor 1'
+
+    def audit(**month):
+        (site / 'static/contentIndex.json').write_text(json.dumps(
+            {**index, 'Archive/2026-10': {**index['Archive/2026-10'], **month}}))
+        return mod.audit(vault, site)
+
+    assert audit()['archive_months'] == 1
     with pytest.raises(AssertionError):
-        mod.audit(vault, site)
+        audit(content='2 tracked changes · Cursor 2')
+    # A month page without active cards is not expected.
+    (vault / 'Archive/2025-01.md').write_text('---\ntitle: January 2025\n---\n')
+    (site / 'Archive/2025-01.html').write_text('<p>page</p>')
+    index['Archive/2025-01'] = {'content': '', 'links': []}
+    with pytest.raises(AssertionError):
+        audit()
+
+
+def test_pipeline_measures_cadence_to_the_archive_date_and_writes_the_archive(vault):
+    manifest = run_pipeline(vault, 'seed', collection=payload(), today='2026-10-13')
+
+    silence = read_json(vault / '_pipeline/seed/03c-silence/alerts.json')
+    assert silence['alerts'] == []
+    assert silence['cadence']['cursor']['as_of'] == '2026-10-01'  # newest release, not today
+    assert silence['cadence']['cursor']['status'] == 'not-tracked'  # fewer than four releases
+    assert manifest['editorial_warnings'] == []
+    assert (vault / 'Archive/2026-10.md').exists() and (vault / 'Archive/index.md').exists()
+    assert '## Release cadence' in (vault / 'Products/Cursor.md').read_text()
+    assert 'Last release 2026-10-01 (the archive date)' in (vault / 'Products/Cursor.md').read_text()
+    # The same archive regenerated on a later day renders the same pages.
+    assert run_pipeline(vault, 'later', collection=payload(), today='2026-12-20')['status'] == 'no-change'
+
+
+def test_pipeline_reports_unknown_editorial_key_moments_without_failing(vault):
+    editorial = vault / '_scripts/editorial.yaml'
+    editorial.write_text(editorial.read_text() + 'key_moments:\n  agent-mode:\n    - cursor-2020-01-01-ffffff\n')
+
+    manifest = run_pipeline(vault, 'seed', collection=payload(), today='2026-10-13')
+
+    assert manifest['status'] == 'published'
+    assert manifest['editorial_warnings'] == [{'theme': 'agent-mode', 'card_id': 'cursor-2020-01-01-ffffff',
+                                               'reason': 'not an active card of this theme; ignored'}]

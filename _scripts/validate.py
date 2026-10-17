@@ -46,7 +46,7 @@ FIRST_QUOTE_SCOPED_VERSIONS = {"fallback-v2", "fallback-v3", "fallback-v4"}
 JOINED_QUOTES_SCOPED_VERSIONS = {"fallback-v5"}
 CARD_ID_RE = re.compile(r"^[a-z0-9-]+-\d{4}-\d{2}-\d{2}-[a-f0-9]{6}$")
 WIKILINK_RE = re.compile(r"!?\[\[([^\]]+)\]\]")
-VAULT_DIRECTORIES = ("Products", "Changes", "Releases", "Themes", "Alerts")
+VAULT_DIRECTORIES = ("Products", "Changes", "Releases", "Themes", "Alerts", "Archive")
 # Machine-maintained pages at the Vault root, enumerated wherever VAULT_DIRECTORIES are.
 ROOT_PAGES = ("index.md", "About.md")
 
@@ -176,7 +176,8 @@ def vault_markdown_files(root: Path) -> list[Path]:
 
 
 def normalize_wikilink_target(raw: str) -> str:
-    target = raw.split("|", 1)[0].split("#", 1)[0].strip().lstrip("/")
+    # Inside a Markdown table the alias pipe is escaped (``[[target\|alias]]``).
+    target = raw.split("|", 1)[0].removesuffix("\\").split("#", 1)[0].strip().lstrip("/")
     return target[:-3] if target.endswith(".md") else target
 
 

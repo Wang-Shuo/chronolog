@@ -100,3 +100,17 @@ def test_rss_is_a_custom_feed_of_cards_and_releases():
     assert ('"Tracked changes in ChatGPT, Claude Code and Cursor, from official release notes"'
             in feed)
     assert 'rel="alternate"' in feed and 'type="application/rss+xml"' in feed
+
+
+def test_archive_folder_page_shows_its_folder_note_without_a_second_page_list():
+    config = CONFIG.read_text(encoding="utf-8")
+    assert "Plugin.FolderPage({ pageBody: ChronologFolderContent() })" in config
+    assert 'import ChronologFolderContent from "./_scripts/folder_content"' in config
+    component = Path("_scripts/folder_content.tsx").read_text(encoding="utf-8")
+    # Only the archive's folder note (tagged "archive") drops the automatic page list.
+    assert 'if (!tags.includes("archive")) {\n      return <Listing {...props} />' in component
+    assert "htmlToJsx(props.fileData.filePath!, props.tree)" in component
+    # The Archive folder stays visible in the Explorer.
+    match = re.search(r"filterFn: \(node\) => !\[(.*?)\]\.includes\(node\.slugSegment\)",
+                      LAYOUT.read_text(encoding="utf-8"))
+    assert "Archive" not in match.group(1)

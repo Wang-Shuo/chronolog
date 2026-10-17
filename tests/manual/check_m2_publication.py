@@ -40,7 +40,7 @@ def audit_html(site, base_url=None):
         parser.feed(file.read_text())
         visible = ''.join(parser.text)
         # Only machine-authored link targets: quoted source code may contain [[ ]].
-        if re.search(r'\[\[(?:Changes|Products|Releases|Themes)/', visible):
+        if re.search(r'\[\[(?:Changes|Products|Releases|Themes|Archive)/', visible):
             errors.append((str(file.relative_to(site)), 'unrendered wiki link'))
         for href in parser.hrefs:
             if href.startswith(('#','mailto:','tel:','data:')):
@@ -64,7 +64,7 @@ def audit_html(site, base_url=None):
 def audit(vault, site, base_url=None):
     index = json.loads((site / 'static/contentIndex.json').read_text())
     active, excluded = {}, []
-    for directory in ['Products','Changes','Releases','Themes','Alerts']:
+    for directory in ['Products','Changes','Releases','Themes','Alerts','Archive']:
         for path in (vault / directory).rglob('*.md'):
             meta = frontmatter.load(path)
             slug = path.relative_to(vault).with_suffix('').as_posix().replace(' ', '-')
@@ -100,13 +100,22 @@ def audit(vault, site, base_url=None):
         if theme in HOLDING_THEMES:  # "Other changes" cards have no theme page
             assert 'Themes/'+theme not in index, theme
             continue
-        assert f'Active changes: {count}.' in index['Themes/'+theme]['content']
+        # Theme header: "190 tracked changes across …" ("1 tracked change in …").
+        assert f'{count:,} tracked change' in index['Themes/'+theme]['content'], theme
+    # Archive/index lists one page per month with an active card (holding cards included).
+    month_counts = Counter(str(v['date'])[:7] for v in changes.values())
+    archive_months = {k.split('/', 1)[1] for k in active if k.startswith('Archive/')} - {'index'}
+    assert 'Archive/index' in index, 'Archive/index'
+    assert archive_months == set(month_counts), (archive_months ^ set(month_counts))
+    for month, count in month_counts.items():
+        assert f'{count:,} tracked change' in index['Archive/'+month]['content'], month
+        assert f'Archive/{month}' in index['Archive/index']['links'], month
     rs,cs,pending = read_history(vault, {'chatgpt','claude-code','cursor'})
     links = validate_vault_links(vault,rs,cs,pending)
     assert not links['errors'], links['errors'][:10]
     html_links = audit_html(site, base_url)
     return {'html_links_checked':html_links,'active_pages':len(expected),'excluded_pages':len(excluded),'active_releases':len(releases),
-            'active_changes':len(changes),'products':dict(product_counts),'themes':dict(theme_counts),
+            'active_changes':len(changes),'archive_months':len(month_counts),'products':dict(product_counts),'themes':dict(theme_counts),
             'index_set_matches_vault':True,'broken_graph_edges':broken,'vault_validation':links,
             'html_checked':len(list(site.rglob('*.html'))),
             'scope':'Built HTML + search/contentIndex (also consumed by explorer and graph). No public archive is emitted; local superseded records retain provenance.'}

@@ -11,7 +11,7 @@ coverage:
   url: https://cursor.com/changelog
 created: '2023-03-14'
 date: '2026-10-13'
-machine_hash: d4de231a1db88aad9a66ea7d3767d72a08ae2bcc6a78ade14c9bace16454ca23
+machine_hash: d3bb2bc496e0c34b8506b6d5a9e0927392ff5212b376ea981ae4c7ad582caa77
 modified: '2026-10-13'
 product: cursor
 product_name: Cursor
@@ -50,6 +50,26 @@ verbosity_baseline: 4.04
 ## Research summary
 <!-- chronolog:begin region="narrative" -->
 The release archive records announced changes; a reviewed phase narrative is not yet available.
+<!-- chronolog:end -->
+
+## Release cadence
+<!-- chronolog:begin region="cadence" -->
+Last release 2026-10-13 (1 day before the archive date) · 14 releases in the last 90 days · cadence: normal
+
+Monthly releases, last 12 months (baseline 5.9 per month):
+
+- 2025-11 ▇▇ 1
+- 2025-12 ▇▇▇▇▇ 3
+- 2026-01 ▇▇▇▇▇ 3
+- 2026-02 ▇▇▇▇▇▇▇▇ 5
+- 2026-03 ▇▇▇▇▇▇▇▇▇ 6
+- 2026-04 ▇▇▇▇▇▇▇▇▇▇▇▇ 8
+- 2026-05 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 13
+- 2026-06 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 10
+- 2026-07 ▇▇▇▇▇▇▇▇ 5
+- 2026-08 ▇▇▇▇▇▇▇▇ 5
+- 2026-09 ▇▇▇▇▇ 3
+- 2026-10 ▇▇▇ 2
 <!-- chronolog:end -->
 
 ## Source coverage

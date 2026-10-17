@@ -339,3 +339,21 @@ def test_holding_theme_is_a_card_theme_but_not_an_official_one(tmp_path: Path):
     assert read_json(valid_output)["change_cards"][0]["theme"] == "uncategorized"
     assert "theme must be official, holding or candidate with suggestion" in validate_card(
         valid_card(theme="uncategorized"), official_themes("_scripts/themes.yaml"))
+
+
+def test_validate_vault_links_reads_escaped_alias_pipes_in_tables(tmp_path: Path):
+    from _scripts.validate import normalize_wikilink_target
+    assert normalize_wikilink_target("Changes/Cursor/agent\\|Agent") == "Changes/Cursor/agent"
+    card = tmp_path / "Changes/Cursor/agent.md"
+    card.parent.mkdir(parents=True)
+    card.write_text("---\ntitle: Agent\n---\n\n# Agent\n", encoding="utf-8")
+    theme = tmp_path / "Themes/agent-mode.md"
+    theme.parent.mkdir(parents=True)
+    theme.write_text(
+        "---\ntitle: Agent Mode\n---\n\n| Quarter | Cursor |\n| --- | --- |\n"
+        "| 2026 Q4 | 2026-10-06 [[Changes/Cursor/agent\\|Agent]]<br>[[Changes/Cursor/missing\\|Gone]] |\n",
+        encoding="utf-8")
+
+    report = validate_vault_links(tmp_path)
+
+    assert [error["link"] for error in report["errors"]] == ["Changes/Cursor/missing\\|Gone"]

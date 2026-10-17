@@ -1,3 +1,4 @@
+from collections import Counter
 from pathlib import Path
 from urllib.parse import parse_qs, urlsplit
 
@@ -764,7 +765,8 @@ def test_theme_display_names_label_theme_index_and_product_pages():
     theme = frontmatter.loads(render_theme_markdown("mobile-desktop", [card], editorial=editorial,
                                                     theme_labels=labels))
     assert theme["title"] == "Mobile and Desktop"
-    assert extract_machine_regions(theme.content)["header"] == "# Mobile and Desktop"
+    assert extract_machine_regions(theme.content)["header"] == (
+        "# Mobile and Desktop\n\n1 tracked change in Cursor · 2025-02-01 → 2025-02-01")
     assert theme["description"] == "Research question: what changed on desktop?"
     plain = frontmatter.loads(render_theme_markdown("mobile-desktop", [card], theme_labels=labels))
     assert plain["description"] == "Cross-product timeline of Mobile and Desktop changes in Cursor."
@@ -1495,3 +1497,482 @@ def test_merge_history_retires_pending_lines_published_as_other_changes():
 
     assert [card["card_id"] for card in cards] == [other["card_id"]]
     assert [card["card_id"] for card in queue] == [elsewhere["card_id"]]
+
+
+# --- W2 PR 3: theme pages, monthly archive, cadence panel --------------------------------
+
+from _scripts.writer import (  # noqa: E402
+    AUTO_MOMENTS_CAPTION,
+    KEY_MOMENTS_PER_PRODUCT,
+    KEY_MOMENTS_TOTAL,
+    auto_key_moments,
+    granularity_note,
+    render_archive_markdown,
+    render_archive_month_markdown,
+    render_cadence,
+)
+
+VERBOSITY = {"ChatGPT": 1.71, "Claude Code": 6.91, "Cursor": 4.04, "Aider": 9.0}
+SCOPE_CALLOUT = (
+    "> [!info]- How to read this timeline\n"
+    "> Scope: tracked-products-only. Entries show same-theme chronology; they do not establish "
+    "equivalent capabilities, adoption, or causation.")
+
+
+def moment(product_name, date, suffix, kind="change", impact="incremental", title=None,
+           release=None, theme="agent-mode", quote=None):
+    product = product_name.lower().replace(" ", "-")
+    title = title or f"{product_name} {suffix}"
+    return {**change_card(), "card_id": f"{product}-{date}-{suffix}", "product": product,
+            "product_name": product_name, "date": date, "theme": theme, "kind": kind,
+            "impact": impact, "title": title, "slug": f"{product}-{suffix}",
+            "source_release": release or f"{product}-{date}-r",
+            "evidence": [{"source_release": "https://example.com", "quote": quote or title}]}
+
+
+def theme_regions(cards, **kwargs):
+    post = frontmatter.loads(render_theme_markdown(
+        "agent-mode", cards, theme_labels=THEME_LABELS, verbosity=VERBOSITY, **kwargs))
+    return post, extract_machine_regions(post.content)
+
+
+def test_theme_page_header_sections_and_scope_callout():
+    cards = [moment("Cursor", "2025-03-01", "c00001", kind="launch"),
+             moment("Claude Code", "2026-10-14", "b00001"),
+             moment("ChatGPT", "2026-07-09", "a00001", kind="launch")]
+    post, regions = theme_regions(cards)
+
+    assert list(regions) == ["header", "narrative", "moments", "scope", "timeline"]
+    assert [line for line in post.content.splitlines() if line.startswith("## ")] == [
+        "## Research summary", "## Key moments", "## Timeline"]
+    # Granularity: most granular product first; Aider has no card in the theme.
+    assert regions["header"] == (
+        "# Agent Mode\n\n3 tracked changes across ChatGPT, Claude Code and Cursor · "
+        "2025-03-01 → 2026-10-14 · Claude Code averages 6.9 cards per release, Cursor 4.0, "
+        "ChatGPT 1.7")
+    assert regions["scope"] == SCOPE_CALLOUT
+    assert "Active changes" not in post.content and "Cross-Product Timeline" not in post.content
+    assert post["description"] == "Cross-product timeline of Agent Mode changes in ChatGPT, Claude Code and Cursor."
+    empty = extract_machine_regions(frontmatter.loads(render_theme_markdown("agent-mode", [])).content)
+    assert empty["header"] == "# Agent Mode\n\nNo tracked changes yet."
+    assert empty["timeline"] == "No changes yet."
+    assert granularity_note(["Cursor"], {}) == ""
+
+
+def test_theme_timeline_groups_by_year_and_month_with_counts():
+    cards = [
+        moment("Cursor", "2026-10-06", "c00001", kind="launch"),
+        moment("Claude Code", "2026-10-14", "b00001", kind="digest", title="3 Agent Mode changes in v2.1.300"),
+        moment("Claude Code", "2026-10-06", "b00002", kind="fix"),
+        moment("Cursor", "2026-09-30", "c00002", kind="expansion"),
+        moment("ChatGPT", "2026-09-29", "a00001", kind="pricing"),
+        moment("Cursor", "2025-12-01", "c00003", kind="policy"),
+    ]
+    _, regions = theme_regions(cards, card_targets={card["card_id"]: f"Changes/x/{card['card_id']}"
+                                                    for card in cards})
+
+    assert regions["timeline"] == "\n".join([
+        "### 2026 · 5 entries (ChatGPT 1 · Claude Code 2 · Cursor 2)",
+        "",
+        "#### 2026-10",
+        "",
+        "- 2026-10-14 · **Claude Code** · [[Changes/x/claude-code-2026-10-14-b00001|3 Agent Mode changes in v2.1.300]] · Digest",
+        "- 2026-10-06 · **Claude Code** · [[Changes/x/claude-code-2026-10-06-b00002|Claude Code b00002]]",
+        "- 2026-10-06 · **Cursor** · [[Changes/x/cursor-2026-10-06-c00001|Cursor c00001]] · Launch",
+        "",
+        "#### 2026-09",
+        "",
+        "- 2026-09-30 · **Cursor** · [[Changes/x/cursor-2026-09-30-c00002|Cursor c00002]]",
+        "- 2026-09-29 · **ChatGPT** · [[Changes/x/chatgpt-2026-09-29-a00001|ChatGPT a00001]] · Pricing",
+        "",
+        "### 2025 · 1 entry (Cursor 1)",
+        "",
+        "#### 2025-12",
+        "",
+        "- 2025-12-01 · **Cursor** · [[Changes/x/cursor-2025-12-01-c00003|Cursor c00003]] · Policy",
+    ])
+
+
+def test_key_moments_are_launches_and_announcements_one_per_release():
+    from _scripts.writer import moment_tier
+    cards = [
+        # Claude Code: one release with a launch and a high-signal line keeps the launch.
+        moment("Claude Code", "2026-10-14", "b00001", kind="launch", release="cc-300"),
+        moment("Claude Code", "2026-10-14", "b00002", title="Added /advisor to plan work", release="cc-300"),
+        # Standalone announcements recognised from the quote and from the title.
+        moment("Claude Code", "2026-09-01", "b00003", title="Agent hooks",
+               quote="Introducing agent hooks for every tool call"),
+        moment("Claude Code", "2026-08-01", "b00004", title="Background agents are now on by default"),
+        # Machine impact does not qualify; digests and fixes never do.
+        moment("Claude Code", "2026-07-01", "b00005", impact="paradigm-shift"),
+        moment("Claude Code", "2026-06-01", "b00006", kind="digest", title="Introducing 3 changes"),
+        moment("Claude Code", "2026-05-01", "b00007", kind="fix", title="Introducing a fix"),
+        moment("Claude Code", "2026-04-01", "b00008"),
+        moment("ChatGPT", "2026-07-09", "a00001", kind="launch"),
+    ]
+    targets = {card["card_id"]: f"Changes/x/{card['card_id']}" for card in cards}
+    _, regions = theme_regions(cards, card_targets=targets)
+
+    assert [moment_tier(card) for card in cards] == [0, 1, 1, 1, None, None, None, None, 0]
+    assert moment_tier(moment("Cursor", "2026-01-01", "c00001", kind="launch", theme="uncategorized")) is None
+    assert [card["card_id"][-6:] for card in auto_key_moments(cards)] == [
+        "b00001", "b00003", "b00004", "a00001"]
+    assert regions["moments"] == "\n".join([
+        AUTO_MOMENTS_CAPTION,
+        "",
+        "| Quarter | ChatGPT | Claude Code |",
+        "| --- | --- | --- |",
+        "| 2026 Q4 | · | 2026-10-14 [[Changes/x/claude-code-2026-10-14-b00001\\|Claude Code b00001]] |",
+        "| 2026 Q3 | 2026-07-09 [[Changes/x/chatgpt-2026-07-09-a00001\\|ChatGPT a00001]] | "
+        "2026-09-01 [[Changes/x/claude-code-2026-09-01-b00003\\|Agent hooks]]<br>"
+        "2026-08-01 [[Changes/x/claude-code-2026-08-01-b00004\\|Background agents are now on by default]] |",
+    ])
+    only_digests = [moment("Cursor", "2026-01-01", "c00001", kind="digest"),
+                    moment("Cursor", "2026-02-01", "c00002", impact="significant")]
+    assert theme_regions(only_digests)[1]["moments"] == f"No key moments selected yet. {AUTO_MOMENTS_CAPTION}"
+
+
+def test_key_moments_take_one_per_quarter_first_then_fill_newest_best():
+    # Ten 2026 launches, a 2025 launch (Background Agent) and a 2024 announcement.
+    cards = [moment("Cursor", f"2026-{month:02d}-{day:02d}", f"c{month:02d}{day:02d}", kind="launch")
+             for month, day in ((1, 5), (2, 5), (3, 5), (4, 5), (5, 5), (5, 20), (6, 5), (7, 5), (8, 5), (9, 5))]
+    cards += [moment("Cursor", "2026-09-20", "c0920", title="Agents can now run tests",
+                     quote="You can now run tests from an agent"),
+              moment("Cursor", "2025-05-15", "c0515", kind="launch", title="Background Agent"),
+              moment("Cursor", "2024-11-01", "c1101", title="Introducing Composer")]
+
+    picked = [card["card_id"][-5:] for card in auto_key_moments(cards)]
+
+    # Quarter picks: 2026 Q3 takes the launch over a newer announcement; 2025 Q2 and
+    # 2024 Q4 are represented. The other 7 slots go to the newest remaining launches.
+    assert picked == ["c0905", "c0805", "c0705", "c0605", "c0520", "c0505", "c0405", "c0305",
+                      "c0205", "c0105", "c0515", "c1101"]
+    assert "c0920" not in picked
+    # With more than 12 quarters, the 12 newest quarters are kept.
+    spread = [moment("Cursor", f"{2023 + index // 4}-{(index % 4) * 3 + 1:02d}-01", f"q{index:04d}",
+                     kind="launch") for index in range(14)]
+    assert sorted(card["card_id"][-5:] for card in auto_key_moments(spread)) == [
+        f"q{index:04d}" for index in range(2, 14)]
+
+
+def test_key_moments_trim_to_30_from_the_product_with_the_most_moments():
+    def quarterly(name, day, first_year, first_month, count):
+        cards = []
+        for index in range(count):
+            month = first_month + index * 3
+            year, month = first_year + (month - 1) // 12, (month - 1) % 12 + 1
+            cards.append(moment(name, f"{year}-{month:02d}-{day:02d}", f"{name[:2].lower()}{index:04d}",
+                                kind="launch"))
+        return cards
+
+    cards = (quarterly("ChatGPT", 1, 2023, 1, 12) + quarterly("Claude Code", 2, 2023, 4, 12)
+             + quarterly("Cursor", 3, 2024, 1, 8))
+    selected = auto_key_moments(cards)
+
+    assert KEY_MOMENTS_PER_PRODUCT == 12 and KEY_MOMENTS_TOTAL == 30
+    counts = Counter(card["product_name"] for card in selected)
+    # 32 moments: ChatGPT (holding the oldest, 2023-01-01) is trimmed first, then Claude Code.
+    assert counts == {"ChatGPT": 11, "Claude Code": 11, "Cursor": 8}
+    dropped = {card["date"] for card in cards} - {card["date"] for card in selected}
+    assert dropped == {"2023-01-01", "2023-04-02"}
+
+
+def test_editorial_key_moments_take_precedence_and_unknown_ids_fall_back():
+    cards = [moment("Cursor", "2025-05-15", "c00001"), moment("Cursor", "2026-10-06", "c00002", kind="launch"),
+             moment("ChatGPT", "2026-07-09", "a00001")]
+    targets = {card["card_id"]: f"Changes/x/{card['card_id']}" for card in cards}
+
+    _, curated = theme_regions(cards, card_targets=targets,
+                               key_moments=["cursor-2025-05-15-c00001", "chatgpt-2026-07-09-a00001"])
+    assert curated["moments"] == "\n".join([
+        "| Quarter | ChatGPT | Cursor |",
+        "| --- | --- | --- |",
+        "| 2026 Q3 | 2026-07-09 [[Changes/x/chatgpt-2026-07-09-a00001\\|ChatGPT a00001]] | · |",
+        "| 2025 Q2 | · | 2025-05-15 [[Changes/x/cursor-2025-05-15-c00001\\|Cursor c00001]] |",
+    ])
+    _, fallback = theme_regions(cards, card_targets=targets, key_moments=["cursor-2020-01-01-ffffff"])
+    assert fallback["moments"].startswith(AUTO_MOMENTS_CAPTION)
+    assert "cursor-2026-10-06-c00002" in fallback["moments"]
+
+
+def test_editorial_key_moments_validation_reports_unknown_and_repeated_ids():
+    from _scripts.editorial import KEY_MOMENT_DUPLICATE, KEY_MOMENT_UNKNOWN, key_moments
+    cards = [moment("Cursor", "2025-05-15", "c00001"), moment("Cursor", "2025-06-04", "c00002"),
+             moment("ChatGPT", "2026-01-01", "a00001", theme="memory")]
+    editorial = {"key_moments": {
+        "agent-mode": ["cursor-2025-06-04-c00002", "chatgpt-2026-01-01-a00001", "missing",
+                       "cursor-2025-06-04-c00002"],
+        "memory": ["cursor-2025-05-15-c00001"],
+    }}
+
+    curated, warnings = key_moments(editorial, cards)
+
+    assert curated == {"agent-mode": ["cursor-2025-06-04-c00002"]}
+    assert warnings == [
+        {"theme": "agent-mode", "card_id": "chatgpt-2026-01-01-a00001", "reason": KEY_MOMENT_UNKNOWN},
+        {"theme": "agent-mode", "card_id": "missing", "reason": KEY_MOMENT_UNKNOWN},
+        {"theme": "agent-mode", "card_id": "cursor-2025-06-04-c00002", "reason": KEY_MOMENT_DUPLICATE},
+        {"theme": "memory", "card_id": "cursor-2025-05-15-c00001", "reason": KEY_MOMENT_UNKNOWN},
+    ]
+    assert key_moments({}, cards) == ({}, [])
+    assert key_moments({"key_moments": {"agent-mode": "cursor-2025-05-15-c00001"}}, cards)[0] == {}
+
+
+def w1_theme_markdown(theme: str, card, notes: str = "") -> str:
+    """A theme page as the W1 writer produced it (header region, Change Cards region)."""
+    regions = {
+        "header": "# Agent Mode",
+        "timeline": "Scope: tracked-products-only.\n\n### 2025\n\n- 2025-02-01 · Cursor: [[x|Agent shell]]",
+        "cards": "Active changes: 1. Use the dated links above to inspect each card.",
+        "narrative": "Explore the dated evidence below.",
+    }
+    fields = {"tags": ["theme", "moc"], "title": "Agent Mode", "description": "Old description.",
+              "status": "official", "publication": "active", "theme": theme,
+              "products_involved": [card["product_name"]]}
+    fields["machine_hash"] = machine_hash(fields, regions)
+    body = (f"{machine_region('header', regions['header'])}\n\n"
+            f"## Research summary\n{machine_region('narrative', regions['narrative'])}\n\n"
+            f"## Cross-Product Timeline\n{machine_region('timeline', regions['timeline'])}\n\n"
+            f"## Change Cards\n{machine_region('cards', regions['cards'])}\n" + notes)
+    return render_frontmatter(fields, body)
+
+
+def test_theme_skeleton_migrates_once_and_keeps_human_text(tmp_path: Path):
+    card = change_card()
+    rendered = render_theme_markdown("agent-mode", [card], theme_labels=THEME_LABELS, verbosity=VERBOSITY)
+    target = tmp_path / "agent-mode.md"
+    target.write_text(w1_theme_markdown("agent-mode", card), encoding="utf-8")
+    pending: list[dict[str, str]] = []
+
+    assert write_markdown_file(target, rendered, [], pending) is True
+    assert pending == []
+    assert frontmatter.load(target).content == frontmatter.loads(rendered).content
+    migrated = target.read_bytes()
+    write_markdown_file(target, rendered, [], pending)
+    assert target.read_bytes() == migrated and pending == []
+
+    # Notes after the regions survive later renders of the new skeleton.
+    target.write_text(target.read_text(encoding="utf-8") + "\nCurator note on agent mode.\n",
+                      encoding="utf-8")
+    later = render_theme_markdown("agent-mode", [card, moment("Cursor", "2026-01-01", "c00009")],
+                                  theme_labels=THEME_LABELS, verbosity=VERBOSITY)
+    write_markdown_file(target, later, [], pending)
+    text = target.read_text(encoding="utf-8")
+    assert pending == [] and "Curator note on agent mode." in text and "2 tracked changes in Cursor" in text
+
+    # A W1 page with human text keeps its structure and is reported for manual migration.
+    legacy = tmp_path / "legacy.md"
+    legacy.write_text(w1_theme_markdown("agent-mode", card, notes="\nKeep this note.\n"), encoding="utf-8")
+    write_markdown_file(legacy, rendered, [], pending)
+    post = frontmatter.load(legacy)
+    assert pending == [{"file": str(legacy), "reason": MIGRATION_PENDING_REASON}]
+    assert "Keep this note." in post.content
+    assert extract_machine_regions(post.content)["timeline"] == extract_machine_regions(
+        frontmatter.loads(rendered).content)["timeline"]
+
+
+def archive_cards():
+    cards = [
+        moment("ChatGPT", "2026-10-07", "a00001", kind="launch", theme="model-support"),
+        moment("Claude Code", "2026-10-14", "b00001", kind="digest", theme="uncategorized",
+               title="5 other changes in v2.1.300"),
+        moment("Claude Code", "2026-10-14", "b00002", kind="digest", title="3 Agent Mode changes in v2.1.300"),
+        moment("Claude Code", "2026-10-02", "b00003"),
+    ]
+    return cards, {card["card_id"]: f"Changes/x/{card['card_id']}" for card in cards}
+
+
+def test_archive_month_page_lists_cards_per_product_newest_first():
+    cards, targets = archive_cards()
+    post = frontmatter.loads(render_archive_month_markdown(
+        "2026-10", cards, targets, OTHER_LABELS, previous="2026-09"))
+    regions = extract_machine_regions(post.content)
+
+    assert post["title"] == "October 2026" and post["tags"] == ["archive"]
+    assert post["publication"] == "active"
+    assert (post["date"], post["created"], post["modified"]) == ("2026-10-14", "2026-10-02", "2026-10-14")
+    assert post["description"] == (
+        "4 tracked changes announced in October 2026: ChatGPT 1 and Claude Code 3.")
+    assert regions["header"] == (
+        "# October 2026\n\n4 tracked changes · ChatGPT 1 · Claude Code 3\n\n"
+        "← [[Archive/2026-09|September 2026]] · [[Archive/index|All months]]")
+    # On one date the "Other changes" card follows the themed ones.
+    assert regions["changes"] == "\n".join([
+        "### ChatGPT",
+        "",
+        "- 2026-10-07 · Model Support · [[Changes/x/chatgpt-2026-10-07-a00001|ChatGPT a00001]] · Launch",
+        "",
+        "### Claude Code",
+        "",
+        "- 2026-10-14 · Agent Mode · [[Changes/x/claude-code-2026-10-14-b00002|3 Agent Mode changes in v2.1.300]] · Digest",
+        "- 2026-10-14 · Other changes · [[Changes/x/claude-code-2026-10-14-b00001|5 other changes in v2.1.300]] · Digest",
+        "- 2026-10-02 · Agent Mode · [[Changes/x/claude-code-2026-10-02-b00003|Claude Code b00003]]",
+    ])
+
+
+def test_archive_root_page_lists_months_newest_first_with_product_counts():
+    cards, _ = archive_cards()
+    cards += [moment("Cursor", "2026-09-30", "c00001"), moment("Cursor", "2025-12-01", "c00002"),
+              moment("ChatGPT", "2025-12-24", "a00002")]
+    post = frontmatter.loads(render_archive_markdown(cards))
+    regions = extract_machine_regions(post.content)
+
+    assert post["title"] == "Archive" and post["tags"] == ["archive"] and post["date"] == "2026-10-14"
+    # The folder page prints the title: no H1 in the page.
+    assert regions["header"] == (
+        "Tracked changes by month of announcement, newest first: 7 tracked changes "
+        "in 3 months, December 2025 → October 2026.")
+    assert regions["months"] == "\n".join([
+        "### 2026",
+        "",
+        "- [[Archive/2026-10|October 2026]] · 4 changes (ChatGPT 1 · Claude Code 3)",
+        "- [[Archive/2026-09|September 2026]] · 1 change (Cursor 1)",
+        "",
+        "### 2025",
+        "",
+        "- [[Archive/2025-12|December 2025]] · 2 changes (ChatGPT 1 · Cursor 1)",
+    ])
+    empty = extract_machine_regions(frontmatter.loads(render_archive_markdown([])).content)
+    assert empty == {"header": "No changes archived yet.", "months": "No months archived yet."}
+
+
+def test_write_run_regenerates_archive_and_removes_months_without_cards(tmp_path: Path):
+    february = change_card()
+    march = {**change_card(), "card_id": "cursor-2025-03-01-cccccc", "date": "2025-03-01",
+             "source_release": "cursor-2025-03-01-v2", "title": "Agent tabs", "slug": "agent-tabs"}
+    releases = [release_record(), release_record(release_id="cursor-2025-03-01-v2", date="2025-03-01")]
+    write_run_inputs(tmp_path, "first", [february, march], releases)
+    assert write_run("first", root=tmp_path) == []
+    archive = tmp_path / "Archive"
+    assert sorted(path.name for path in archive.glob("*.md")) == ["2025-02.md", "2025-03.md", "index.md"]
+    assert "[[Archive/2025-03|March 2025]] →" in (archive / "2025-02.md").read_text(encoding="utf-8")
+    assert "[[Archive/2025-03|March 2025]] · 1 change (Cursor 1)" in (archive / "index.md").read_text(
+        encoding="utf-8")
+    # A human page in Archive/ and an emptied month with human notes are kept.
+    (archive / "reading-list.md").write_text("# Reading list\n", encoding="utf-8")
+    noted = archive / "2024-12.md"
+    noted.write_text(render_archive_month_markdown(
+        "2024-12", [{**february, "date": "2024-12-01"}]) + "\nKeep this month.\n", encoding="utf-8")
+
+    # The March card is retired (reconcile): its month page goes.
+    write_run_inputs(tmp_path, "second", [february], releases)
+    assert write_run("second", root=tmp_path, reconcile=True) == []
+
+    assert sorted(path.name for path in archive.glob("*.md")) == [
+        "2024-12.md", "2025-02.md", "index.md", "reading-list.md"]
+    assert "March 2025" not in (archive / "2025-02.md").read_text(encoding="utf-8")
+    assert "[[Archive/2025-03" not in (archive / "index.md").read_text(encoding="utf-8")
+    from _scripts.common import read_json
+    from _scripts.writer import ARCHIVE_KEPT_REASON
+    assert read_json(PipelinePaths("second", tmp_path).run_dir / "writer-migration-pending.json") == [
+        {"file": "Archive/2024-12.md", "reason": ARCHIVE_KEPT_REASON}]
+    # Rendering again changes nothing.
+    snapshot = {path: path.read_bytes() for path in archive.glob("*.md")}
+    write_run_inputs(tmp_path, "third", [february], releases)
+    assert write_run("third", root=tmp_path) == []
+    assert {path: path.read_bytes() for path in archive.glob("*.md")} == snapshot
+
+
+CADENCE = {
+    "as_of": "2026-10-14", "last_release_date": "2026-10-13", "days_since_last_release": 1,
+    "releases_90d": 74, "baseline_monthly_releases": 18.46, "status": "normal",
+    "monthly_counts": [{"month": f"2025-{month:02d}", "count": count, "archived": True}
+                       for month, count in ((11, 12), (12, 0))]
+    + [{"month": f"2026-{month:02d}", "count": count}
+       for month, count in zip(range(1, 11), (16, 24, 1, 20, 19, 18, 22, 25, 26, 9))],
+}
+
+
+def test_cadence_panel_shows_gap_window_status_and_monthly_bars():
+    text = render_cadence(CADENCE)
+    lines = text.split("\n")
+
+    assert lines[0] == ("Last release 2026-10-13 (1 day before the archive date) · 74 releases in the "
+                        "last 90 days · cadence: normal")
+    assert lines[2] == "Monthly releases, last 12 months (baseline 18.5 per month):"
+    assert lines[4:7] == ["- 2025-11 ▇▇▇▇▇▇▇▇▇ 12", "- 2025-12 · 0", "- 2026-01 ▇▇▇▇▇▇▇▇▇▇▇▇ 16"]
+    assert lines[7] == "- 2026-02 " + "▇" * 18 + " 24"
+    assert lines[8] == "- 2026-03 ▇ 1"  # at least one bar for a month with releases
+    assert lines[13] == "- 2026-08 " + "▇" * 19 + " 25"
+    assert lines[14] == "- 2026-09 " + "▇" * 20 + " 26"  # the busiest month fills the bar
+    assert len(lines) == 16
+    same_day = render_cadence({**CADENCE, "days_since_last_release": 0, "status": "not-tracked"})
+    assert same_day.startswith("Last release 2026-10-13 (the archive date) · ")
+    assert "cadence: not tracked" in same_day
+    # Months before the first archived release are a coverage gap, not silence.
+    gap = {**CADENCE, "monthly_counts": [{"month": "2025-10", "count": 0, "archived": False},
+                                         *CADENCE["monthly_counts"][1:]]}
+    assert render_cadence(gap).split("\n")[4] == "- 2025-10 · not archived"
+    assert render_cadence(None) == "Release cadence has not been measured yet."
+    assert render_cadence({**CADENCE, "last_release_date": None}) == "No releases archived yet."
+
+
+def existing_product_markdown(notes: str = "Human product notes.") -> str:
+    """A product page in the layout the live pages have (no cadence region yet)."""
+    regions = {"narrative": "Phase narrative.", "coverage": "3 releases.", "summary": "Cursor: 3.",
+               "eras": "No eras.", "releases": "- r", "changes": "- c"}
+    fields = {"tags": ["product"], "title": "Cursor", "product": "cursor", "product_name": "Cursor"}
+    fields["machine_hash"] = machine_hash(fields, regions)
+    body = ("# Cursor\n\n"
+            f"## Research summary\n{machine_region('narrative', regions['narrative'])}\n\n"
+            f"## Source coverage\n{machine_region('coverage', regions['coverage'])}\n\n"
+            f"## Summary\n{machine_region('summary', regions['summary'])}\n\n"
+            f"## Eras\n{machine_region('eras', regions['eras'])}\n\n"
+            f"## Release Archive\n{machine_region('releases', regions['releases'])}\n\n"
+            f"## Change Timeline\n{machine_region('changes', regions['changes'])}\n\n"
+            f"## Editor Notes\n\n{notes}\n")
+    return render_frontmatter(fields, body)
+
+
+def test_cadence_region_is_inserted_after_the_narrative_without_migration(tmp_path: Path):
+    target = tmp_path / "Cursor.md"
+    target.write_text(existing_product_markdown(), encoding="utf-8")
+    info = {"product_name": "Cursor", "verbosity_baseline": 4.04, "eras": [], "top_themes": [],
+            "narrative_summary": "Phase narrative."}
+    rendered = render_product_markdown("cursor", info, [change_card()], cadence=CADENCE)
+    conflicts: list[dict[str, str]] = []
+
+    assert write_markdown_file(target, rendered, conflicts) is True
+
+    content = frontmatter.load(target).content
+    headings = [line for line in content.splitlines() if line.startswith("## ")]
+    assert headings == ["## Research summary", "## Release cadence", "## Source coverage", "## Summary",
+                        "## Eras", "## Release Archive", "## Change Timeline", "## Editor Notes"]
+    assert "Phase narrative.\n<!-- chronolog:end -->\n\n## Release cadence\n" \
+           '<!-- chronolog:begin region="cadence" -->\nLast release 2026-10-13' in content
+    assert content.rstrip().endswith("Human product notes.") and conflicts == []
+    once = target.read_bytes()
+    write_markdown_file(target, rendered, conflicts)
+    assert target.read_bytes() == once
+    quiet = render_product_markdown("cursor", info, [change_card()], cadence={**CADENCE, "status": "quiet"})
+    write_markdown_file(target, quiet, conflicts)
+    content = frontmatter.load(target).content
+    assert content.count("## Release cadence") == 1 and "cadence: quiet" in content and conflicts == []
+    # A new product page has the section in the same place.
+    fresh = [line for line in frontmatter.loads(rendered).content.splitlines() if line.startswith("## ")]
+    assert fresh[fresh.index("## Capability turning points") + 1] == "## Release cadence"
+
+
+def test_home_links_the_archive_and_shows_cadence_per_product():
+    cadence = {"chatgpt": {"status": "quiet"}, "claude-code": {"status": "normal"},
+               "cursor": {"status": "not-tracked"}}
+    regions = extract_machine_regions(frontmatter.loads(render_home({"alerts": [], "cadence": cadence})).content)
+
+    assert regions["recent"].endswith("\n\nAll months: [[Archive/index|Archive]]")
+    assert regions["products"].splitlines() == [
+        "- [[Products/ChatGPT|ChatGPT]] · 3 releases · 2025-01-01 → 2026-10-01 · "
+        "2 releases in the last 90 days · cadence: quiet",
+        "- [[Products/Claude Code|Claude Code]] · 1 release · 2026-10-14 → 2026-10-14 · "
+        "1 release in the last 90 days · cadence: normal",
+        "- [[Products/Cursor|Cursor]] · 2 releases · 2026-08-01 → 2026-10-13 · "
+        "2 releases in the last 90 days · cadence: not tracked",
+    ]
+    empty = render_index_markdown([], {"products": {}}, {"themes": {}}, {"alerts": []})
+    assert extract_machine_regions(frontmatter.loads(empty).content)["recent"] == (
+        "No changes archived yet.\n\nAll months: [[Archive/index|Archive]]")
+
+
+def test_about_says_cadence_is_measured_to_the_archive_date():
+    about = extract_machine_regions(frontmatter.loads(render_about()).content)
+    assert "- Cadence is measured to the newest archived release date, not the clock." in about["method"]
+    assert "- **Cadence**: " in about["glossary"] and "- **Key moments**: " in about["glossary"]
