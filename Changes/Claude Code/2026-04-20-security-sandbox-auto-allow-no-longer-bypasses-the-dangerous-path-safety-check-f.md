@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b99aee64f88d0cf471cf23e2754ff486838909a399c3e0e809962cbee8768147
+machine_hash: 343fcc25b1b271b4e21317245f955c2e3878003b9dd1d37481cc4286420428b3
 product: claude-code
 product_name: Claude Code
 record:
@@ -80,6 +80,7 @@ type: change
 - [[Changes/Claude Code/2026-04-20-3-interface-experience-changes-in-v2-1-116|3 Interface Experience changes in v2.1.116]] · Interface Experience
 - [[Changes/Claude Code/2026-04-20-2-apps-and-integrations-changes-in-v2-1-116|2 Apps and Integrations changes in v2.1.116]] · Apps and Integrations
 - [[Changes/Claude Code/2026-04-20-2-agent-mode-changes-in-v2-1-116|2 Agent Mode changes in v2.1.116]] · Agent Mode
+- [[Changes/Claude Code/2026-04-20-doctor-can-now-be-opened-while-claude-is-responding-without-waiting-for-the-curr|/doctor can now be opened while Claude is responding, without waiting…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

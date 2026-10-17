@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d86306baa44040c8c0caf0f20e7efde911771d6589fb81052df4af34f8dc439d
+machine_hash: f81add2a6b2c849922cc4e5a43ae8c41e4f273b60ff0d8b7a5487e784e3658e4
 product: claude-code
 product_name: Claude Code
 record:
@@ -78,6 +78,7 @@ type: change
 - [[Changes/Claude Code/2026-03-19-improved-permissions-tab-and-arrow-keys-now-switch-tabs-from-within-a-list|Improved /permissions — Tab and arrow keys now switch tabs from within a list]] · Editor Experience
 - [[Changes/Claude Code/2026-03-19-added-effort-frontmatter-support-for-skills-and-slash-commands-to-override-the-m|Added effort frontmatter support for skills and slash commands to override…]] · Model Support
 - [[Changes/Claude Code/2026-03-19-2-interface-experience-changes-in-v2-1-80|2 Interface Experience changes in v2.1.80]] · Interface Experience
+- [[Changes/Claude Code/2026-03-19-2-other-changes-in-v2-1-80|2 other changes in v2.1.80]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

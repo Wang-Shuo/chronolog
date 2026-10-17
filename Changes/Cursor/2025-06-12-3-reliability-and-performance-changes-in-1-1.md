@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 32356b7e7c97c329aa359829a6357d5d66a41658667a17fb3bd2b274f7c26834
+machine_hash: 614d56c8caad1703bd6d25e180c02cef113e96b8377eb27e1f466a619cd31e22
 product: cursor
 product_name: Cursor
 record:
@@ -83,6 +83,7 @@ Source: https://cursor.com/changelog/1-1
 - [[Changes/Cursor/2025-06-12-once-connected-try-it-in-any-channel-with-cursor-and-write-a-prompt-use-the-comm|Once connected, try it in any channel with @Cursor and write a prompt]] · Model Support
 - [[Changes/Cursor/2025-06-12-agents-understand-context-6b73fc|Agents understand context]] · Apps and Integrations
 - [[Changes/Cursor/2025-06-12-improved-background-agent-reliability|Improved Background Agent reliability]] · Agent Mode
+- [[Changes/Cursor/2025-06-12-7-other-changes-in-1-1|7 other changes in 1.1]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

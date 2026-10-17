@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a9f4d0734a3f490d0ad15be1eba4150e15130755f5e9cfda6979c56bc9878bfa
+machine_hash: 37b2a5792ec169f56aae8c515dde7b22c3f0a9b9353dfd61ec2d5804365d085a
 product: claude-code
 product_name: Claude Code
 record:
@@ -90,6 +90,7 @@ type: change
 - [[Changes/Claude Code/2026-08-18-improved-memory-and-cpu-usage-while-cloud-sessions-such-as-ultrareview-or-autofi|Improved memory and CPU usage while cloud sessions such as /ultrareview…]] · Reliability and Performance
 - [[Changes/Claude Code/2026-08-18-remote-control-claude-rc-now-applies-the-same-enterprise-gateway-availability-ch|Remote Control: claude rc now applies the same enterprise-gateway availability…]] · Enterprise and Administration
 - [[Changes/Claude Code/2026-08-18-2-safety-and-privacy-changes-in-v2-1-235|2 Safety and Privacy changes in v2.1.235]] · Safety and Privacy
+- [[Changes/Claude Code/2026-08-18-4-other-changes-in-v2-1-235|4 other changes in v2.1.235]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

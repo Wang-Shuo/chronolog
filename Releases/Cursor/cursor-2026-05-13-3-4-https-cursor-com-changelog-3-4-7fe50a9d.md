@@ -1,9 +1,9 @@
 ---
-changes_count: 7
+changes_count: 8
 date: '2026-05-13'
-description: 'Cursor release Full-screen Tabs and Compact Chats on 2026-05-13: 7 tracked
+description: 'Cursor release Full-screen Tabs and Compact Chats on 2026-05-13: 8 tracked
   changes across Interface Experience, Agent Mode, Apps and Integrations, Context…'
-machine_hash: 361e455b7a98bb43152fad40647522f616295de0b8d7ebc9fbef7362d0ba9194
+machine_hash: 2528cc0d83f6a5a8e2b2c4cbf08236507ebd046ef16aaa00940777cecfd582d2
 product: cursor
 product_name: Cursor
 record:
@@ -39,7 +39,7 @@ version: '3.4'
 <!-- chronolog:begin region="summary" -->
 This release introduces quality-of-life improvements to the Agents Window.
 
-Tracked 7 cards from 28 candidate lines; 2 lines pending review.
+Tracked 8 cards from 28 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
@@ -51,4 +51,5 @@ Tracked 7 cards from 28 candidate lines; 2 lines pending review.
 - [[Changes/Cursor/2026-05-13-removed-noisy-in-app-terminal-notifications-and-improved-shortcut-behavior|Removed noisy in-app terminal notifications and improved shortcut behavior]] · Developer Workflow
 - [[Changes/Cursor/2026-05-13-3-interface-experience-changes-in-3-4|3 Interface Experience changes in 3.4]] · Interface Experience · Digest
 - [[Changes/Cursor/2026-05-13-full-screen-tabs-faa5d2|Full-screen tabs]] · Interface Experience · Launch
+- [[Changes/Cursor/2026-05-13-2-other-changes-in-3-4|2 other changes in 3.4]] · Other changes · Digest
 <!-- chronolog:end -->

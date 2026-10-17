@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ff489446f99e1a877ec880943747f1453e57f96a076ae1e1ebd3856e3afae82a
+machine_hash: 76bd4bc334e2a9efedd5021cd6f9ce8fdb6f5f218b9e1dbd0d633d7697a04f96
 product: cursor
 product_name: Cursor
 record:
@@ -72,6 +72,7 @@ type: change
 - [[Changes/Cursor/2024-12-17-agent-sees-terminal-exit-codes-can-run-commands-in-the-background-and-commands-a-4f6044|Agent sees terminal exit codes, can run commands in the background, and commands…]] · Developer Workflow
 - [[Changes/Cursor/2024-12-17-cheaper-and-faster-bug-finding-model|Cheaper and faster Bug Finding Model]] · Reliability and Performance
 - [[Changes/Cursor/2024-12-17-agent-can-reapply-edits-with-a-smarter-apply-model|Agent can reapply edits with a smarter apply model]] · Editor Experience
+- [[Changes/Cursor/2024-12-17-composer-no-longer-looks-at-files-that-were-deleted|Composer no longer looks at files that were deleted]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

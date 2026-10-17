@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cb3914258865a90d385995f88553bbc58775c1a956fc7766220a0f7b4897dac3
+machine_hash: 9c89c7106512b1a3fca729d37a023dd9d9bcb286fa1f9bc54a381f594ffecf77
 product: claude-code
 product_name: Claude Code
 record:
@@ -89,6 +89,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.90
 - [[Changes/Claude Code/2026-04-01-added-powerup-interactive-lessons-teaching-claude-code-features-with-animated-de|Added /powerup — interactive lessons teaching Claude Code features with animated demos]] · Learning Tools
 - [[Changes/Claude Code/2026-04-01-changed-resume-picker-to-no-longer-show-sessions-created-by-claude-p-or-sdk-invo|Changed --resume picker to no longer show sessions created by claude -p or SDK…]] · Interface Experience
 - [[Changes/Claude Code/2026-04-01-2-apps-and-integrations-changes-in-v2-1-90|2 Apps and Integrations changes in v2.1.90]] · Apps and Integrations
+- [[Changes/Claude Code/2026-04-01-improved-resume-all-projects-view-to-load-project-sessions-in-parallel-improving|Improved /resume all-projects view to load project sessions in parallel, improving…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

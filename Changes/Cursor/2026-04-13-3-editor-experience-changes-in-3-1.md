@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9ac2c89a7c38407491eda4762a3b9ac800b4c435503442022c169f0725162506
+machine_hash: c810add9bb10ed4a538048230ff0af77949eb3031aa8e517d5283139a12a272d
 product: cursor
 product_name: Cursor
 record:
@@ -92,6 +92,7 @@ Source: https://cursor.com/changelog/3-1
 - [[Changes/Cursor/2026-04-13-closing-tabs-is-now-less-likely-to-glitch-the-file-tree-and-recovery-is-faster|Closing tabs is now less likely to glitch the file tree, and recovery is faster]] · Reliability and Performance
 - [[Changes/Cursor/2026-04-13-branch-selection-in-empty-state|Branch selection in empty state]] · Agent Mode
 - [[Changes/Cursor/2026-04-13-3-agent-mode-changes-in-3-1|3 Agent Mode changes in 3.1]] · Agent Mode
+- [[Changes/Cursor/2026-04-13-4-other-changes-in-3-1|4 other changes in 3.1]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

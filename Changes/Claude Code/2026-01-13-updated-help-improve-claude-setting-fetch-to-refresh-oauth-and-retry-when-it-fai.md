@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 24caab4386125063605dd29eab443c1e0b175191ebf7ab19c5ce5316bd1e2bbc
+machine_hash: 1b22e5cd31208865441b1b56d8e7482d3a03b3bd54deb924a413e3bb23aa3c4c
 product: claude-code
 product_name: Claude Code
 record:
@@ -79,6 +79,7 @@ type: change
 - [[Changes/Claude Code/2026-01-13-3-developer-workflow-changes-in-v2-1-6|3 Developer Workflow changes in v2.1.6]] · Developer Workflow
 - [[Changes/Claude Code/2026-01-13-fixed-permission-bypass-via-shell-line-continuation-that-could-allow-blocked-com|Fixed permission bypass via shell line continuation that could allow blocked…]] · Safety and Privacy
 - [[Changes/Claude Code/2026-01-13-2-editor-experience-changes-in-v2-1-6|2 Editor Experience changes in v2.1.6]] · Editor Experience
+- [[Changes/Claude Code/2026-01-13-3-other-changes-in-v2-1-6|3 other changes in v2.1.6]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

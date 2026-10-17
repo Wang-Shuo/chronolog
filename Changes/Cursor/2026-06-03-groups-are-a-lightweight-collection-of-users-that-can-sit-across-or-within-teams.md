@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 443d7c3ccec45d948a615127d3b1c3c7f008ddad9c21f30b05b8ed42fc739d95
+machine_hash: cc3152ad707a79f71295a67e6b028a5cb8a263c6429ed46b7266621759aeddfe
 product: cursor
 product_name: Cursor
 record:
@@ -93,6 +93,7 @@ type: change
 - [[Changes/Cursor/2026-06-03-3-collaboration-changes-in-organizations-for-cursor-enterprise|3 Collaboration changes in Organizations for Cursor Enterprise]] · Collaboration
 - [[Changes/Cursor/2026-06-03-enterprise-customers-can-now-manage-multiple-cursor-teams-from-one-place-with-di|Enterprise customers can now manage multiple Cursor teams from one place…]] · Safety and Privacy
 - [[Changes/Cursor/2026-06-03-teams|Teams]] · Collaboration
+- [[Changes/Cursor/2026-06-03-2-other-changes-in-organizations-for-cursor-enterprise|2 other changes in Organizations for Cursor Enterprise]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

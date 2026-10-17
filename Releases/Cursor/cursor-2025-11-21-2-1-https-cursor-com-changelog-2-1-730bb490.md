@@ -1,9 +1,9 @@
 ---
-changes_count: 7
+changes_count: 8
 date: '2025-11-21'
 description: 'Cursor release Improved Plan Mode, AI Code Review in Editor, and Instant
-  Grep on 2025-11-21: 7 tracked changes across Agent Mode, Apps and Integrations…'
-machine_hash: a1172eb7d53d6249c5bdd80fa3af1bf28ff5a506dcbf8e3f7313443866a6c237
+  Grep on 2025-11-21: 8 tracked changes across Agent Mode, Apps and Integrations…'
+machine_hash: c322f78873cae889ff564212524144887d99387067e09098fce97dd023151bc0
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ version: '2.1'
 <!-- chronolog:begin region="summary" -->
 #Improved Plan Mode
 
-Tracked 7 cards from 26 candidate lines; 8 lines pending review.
+Tracked 8 cards from 26 candidate lines; 4 lines pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
@@ -50,4 +50,5 @@ Tracked 7 cards from 26 candidate lines; 8 lines pending review.
 - [[Changes/Cursor/2025-11-21-4-editor-experience-changes-in-2-1|4 Editor Experience changes in 2.1]] · Editor Experience · Digest
 - [[Changes/Cursor/2025-11-21-2-agent-mode-changes-in-2-1|2 Agent Mode changes in 2.1]] · Agent Mode · Digest
 - [[Changes/Cursor/2025-11-21-rules-in-home-folder-cursor-rules-will-be-included-in-context|Rules in home folder (~/.cursor/rules) will be included in context]] · Context Window
+- [[Changes/Cursor/2025-11-21-4-other-changes-in-2-1|4 other changes in 2.1]] · Other changes · Digest
 <!-- chronolog:end -->

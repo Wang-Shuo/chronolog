@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0ad53ab81676dc54fb9c1985efe581f6c7c7466fb75313ee3e9dcf68b9a3077d
+machine_hash: ca2e88c809d9e0918141ad1183659fa19c96870e3e63d13a280fbdb034bdbea0
 product: claude-code
 product_name: Claude Code
 record:
@@ -78,6 +78,7 @@ type: change
 - [[Changes/Claude Code/2026-03-26-improved-mention-file-autocomplete-performance-on-large-repositories|Improved @-mention file autocomplete performance on large repositories]] · Interface Experience
 - [[Changes/Claude Code/2026-03-26-4-apps-and-integrations-changes-in-v2-1-85|4 Apps and Integrations changes in v2.1.85]] · Apps and Integrations
 - [[Changes/Claude Code/2026-03-26-improved-powershell-dangerous-command-detection|Improved PowerShell dangerous command detection]] · Developer Workflow
+- [[Changes/Claude Code/2026-03-26-tool-parameters-in-opentelemetry-tool-result-events-are-now-gated-behind-otel-lo|tool_parameters in OpenTelemetry tool_result events are now gated behind…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

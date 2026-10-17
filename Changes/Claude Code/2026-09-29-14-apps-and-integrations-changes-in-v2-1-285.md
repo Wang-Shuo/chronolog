@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fcdad393f266392c05f4d4aa981ac67dc6f8dbd05cf5086c76c14f36e805dbb1
+machine_hash: 404c6c45388c93d7d22fc45a66acc53216c2fb3c8cc22ace3ad21a7fb8b9dd8e
 product: claude-code
 product_name: Claude Code
 record:
@@ -156,6 +156,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.285
 - [[Changes/Claude Code/2026-09-29-9-safety-and-privacy-changes-in-v2-1-285|9 Safety and Privacy changes in v2.1.285]] · Safety and Privacy
 - [[Changes/Claude Code/2026-09-29-changed-memory-so-that-auto-memory-can-no-longer-be-turned-on-from-a-background|Changed /memory so that Auto-memory can no longer be turned on from a background…]] · Memory and Personalization
 - [[Changes/Claude Code/2026-09-29-3-developer-workflow-changes-in-v2-1-285|3 Developer Workflow changes in v2.1.285]] · Developer Workflow
+- [[Changes/Claude Code/2026-09-29-10-other-changes-in-v2-1-285|10 other changes in v2.1.285]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

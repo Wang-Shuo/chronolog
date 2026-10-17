@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: fd16fa94c2779a94ef9ea096c78a74ec611dd1aa5103db83ee098d7b62b0c0af
+machine_hash: 6b3819488d000d408ebe4a8da22ee478a4232f9181638038521d2c140e3b3b6d
 product: claude-code
 product_name: Claude Code
 record:
@@ -82,6 +82,7 @@ type: change
 - [[Changes/Claude Code/2026-09-24-2-agent-mode-changes-in-v2-1-282|2 Agent Mode changes in v2.1.282]] · Agent Mode
 - [[Changes/Claude Code/2026-09-24-8-apps-and-integrations-changes-in-v2-1-282|8 Apps and Integrations changes in v2.1.282]] · Apps and Integrations
 - [[Changes/Claude Code/2026-09-24-4-safety-and-privacy-changes-in-v2-1-282|4 Safety and Privacy changes in v2.1.282]] · Safety and Privacy
+- [[Changes/Claude Code/2026-09-24-6-other-changes-in-v2-1-282|6 other changes in v2.1.282]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

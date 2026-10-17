@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8993d83ee935472efb8db38c4ee04f876cfcedc2ff135d0c5ec3abd608a74f5c
+machine_hash: 7d78326266d4d498f8ddc8bdf921f43165bec554fc39a08337b1cbd6c157df6e
 product: claude-code
 product_name: Claude Code
 record:
@@ -78,6 +78,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.19
 
 - [[Changes/Claude Code/2026-01-23-2-apps-and-integrations-changes-in-v2-1-19|2 Apps and Integrations changes in v2.1.19]] · Apps and Integrations
 - [[Changes/Claude Code/2026-01-23-added-env-var-claude-code-enable-tasks-set-to-false-to-keep-the-old-system-tempo|Added env var CLAUDE_CODE_ENABLE_TASKS, set to false to keep the old system…]] · Agent Mode
+- [[Changes/Claude Code/2026-01-23-vscode-enabled-session-forking-and-rewind-functionality-for-all-users|VSCode Enabled session forking and rewind functionality for all users]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

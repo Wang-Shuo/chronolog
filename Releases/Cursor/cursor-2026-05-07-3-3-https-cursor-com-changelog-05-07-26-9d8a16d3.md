@@ -1,9 +1,9 @@
 ---
-changes_count: 9
+changes_count: 10
 date: '2026-05-07'
 description: 'Cursor release PR Review, Build Plan in Parallel, and Split PRs on 2026-05-07:
-  9 tracked changes across Developer Workflow, Editor Experience, Reliability and…'
-machine_hash: 1c5c6ae341fa9a729029e1c9dba4a9d094e44ff65a3810c72fcb876c8df6794e
+  10 tracked changes across Developer Workflow, Editor Experience, Reliability and…'
+machine_hash: 5d091a0d3c1d2730cf251f6217892becaa1b1bf904a7f35feedd60e8c2eff047
 product: cursor
 product_name: Cursor
 record:
@@ -39,7 +39,7 @@ version: '3.3'
 <!-- chronolog:begin region="summary" -->
 This release introduces a new PR review experience, faster execution on plans through parallel agents, and new quick-action pills for common workflows.
 
-Tracked 9 cards from 24 candidate lines; 3 lines pending review.
+Tracked 10 cards from 24 candidate lines; 2 lines pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
@@ -53,4 +53,5 @@ Tracked 9 cards from 24 candidate lines; 3 lines pending review.
 - [[Changes/Cursor/2026-05-07-build-in-parallel-from-plans|Build in parallel from plans]] · Reliability and Performance · Launch
 - [[Changes/Cursor/2026-05-07-this-release-introduces-a-new-pr-review-experience-faster-execution-on-plans-thr|Cursor introduces a new PR review experience, faster execution on plans through…]] · Developer Workflow · Launch
 - [[Changes/Cursor/2026-05-07-added-support-for-general-model-names-for-subagent-configuration-i-e-set-model-o|Added support for general model names for subagent configuration (i.e., set model]] · Model Support
+- [[Changes/Cursor/2026-05-07-improved-long-chat-handling-and-reduced-jumpiness-and-other-surprising-behaviors|Improved long-chat handling and reduced jumpiness and other surprising behaviors]] · Other changes
 <!-- chronolog:end -->

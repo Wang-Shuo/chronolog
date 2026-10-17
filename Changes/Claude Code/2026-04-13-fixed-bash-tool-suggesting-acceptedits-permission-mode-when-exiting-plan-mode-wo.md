@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 3f638b11eb6aa767e7fb9bc1f67b20351f3a61ebc41e4624bcc6ff8de83abd5d
+machine_hash: 0252a952b643aff46a588f79e998c36631cd0979626d54f048b135a7b2d660f4
 product: claude-code
 product_name: Claude Code
 record:
@@ -78,6 +78,7 @@ type: change
 - [[Changes/Claude Code/2026-04-13-improved-stalled-api-stream-handling-streams-now-abort-after-5-minutes-of-no-dat|Improved stalled API stream handling]] · Reliability and Performance
 - [[Changes/Claude Code/2026-04-13-2-developer-workflow-changes-in-v2-1-105|2 Developer Workflow changes in v2.1.105]] · Developer Workflow
 - [[Changes/Claude Code/2026-04-13-proactive-is-now-an-alias-for-loop|/proactive is now an alias for /loop]] · Automation and Scheduling
+- [[Changes/Claude Code/2026-04-13-5-other-changes-in-v2-1-105|5 other changes in v2.1.105]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

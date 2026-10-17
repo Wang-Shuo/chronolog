@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d4cfc2317b5a12e863a9eb9e4e23cd807257643e8e03d2c21af090f81924ed8f
+machine_hash: 5c0b2d1932cc9b73fc6a1daeff759c750e1e77a5e96af7461ce1402cc36e7689
 product: claude-code
 product_name: Claude Code
 record:
@@ -77,6 +77,7 @@ type: change
 - [[Changes/Claude Code/2026-07-01-5-agent-mode-changes-in-v2-1-198|5 Agent Mode changes in v2.1.198]] · Agent Mode
 - [[Changes/Claude Code/2026-07-01-added-dataviz-skill-for-chart-and-dashboard-design-guidance-with-a-runnable-colo|Added /dataviz skill for chart and dashboard design guidance with a runnable…]] · Apps and Integrations
 - [[Changes/Claude Code/2026-07-01-subagents-and-context-compaction-now-inherit-the-session-s-extended-thinking-con|Subagents and context compaction now inherit the session's extended thinking…]] · Context Window
+- [[Changes/Claude Code/2026-07-01-improved-syntax-highlighting-accuracy-in-code-blocks-diffs-and-file-previews-by|Improved syntax highlighting accuracy in code blocks, diffs, and file previews…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

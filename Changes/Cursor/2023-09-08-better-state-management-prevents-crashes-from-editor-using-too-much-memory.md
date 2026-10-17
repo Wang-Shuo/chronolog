@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2a445f3e97a23ad101b21ad13550875bc26b55dbfbb221086f7c17f4794c3afe
+machine_hash: 34b694b6e3aca89949e373c080c8a1b6bcdbae415c50558ba965149173996135
 product: cursor
 product_name: Cursor
 record:
@@ -80,6 +80,7 @@ type: change
 
 - [[Changes/Cursor/2023-09-08-long-files-in-chat|Long files in chat]] · Context Window
 - [[Changes/Cursor/2023-09-08-following-this-update-future-updates-should-come-as-staged-rollouts-this-will-me|Staged Rollouts]] · Reliability and Performance
+- [[Changes/Cursor/2023-09-08-2-other-changes-in-0-10-0|2 other changes in 0.10.0]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

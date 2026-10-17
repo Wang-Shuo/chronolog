@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: cc3ab6c1b4a34f4e63e1a89136d02e64226165e9c1055a4ad07257d5fa48bcf4
+machine_hash: b12c177af7083c2a7e613db9321e62ff43b7508274da4e06378a706df4c48ab2
 product: claude-code
 product_name: Claude Code
 record:
@@ -75,6 +75,7 @@ type: change
 
 - [[Changes/Claude Code/2026-08-04-improved-auto-mode-safety-messages-sent-to-other-agent-sessions-via-sendmessage|Improved auto mode safety]] · Safety and Privacy
 - [[Changes/Claude Code/2026-08-04-2-apps-and-integrations-changes-in-v2-1-222|2 Apps and Integrations changes in v2.1.222]] · Apps and Integrations
+- [[Changes/Claude Code/2026-08-04-removed-ultraplan-feature|Removed ultraplan feature]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

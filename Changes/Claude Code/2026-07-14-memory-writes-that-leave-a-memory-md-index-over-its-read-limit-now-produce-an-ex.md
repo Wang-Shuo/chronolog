@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d7bd9599db62b0ec58a44df52f45f911ae654bb8d23781d421b977d5412704c5
+machine_hash: 4899368fe519e78c7794475ed85231bdbf3999065a1fe216517323108de14226
 product: claude-code
 product_name: Claude Code
 record:
@@ -75,6 +75,7 @@ type: change
 - [[Changes/Claude Code/2026-07-14-2-interface-experience-changes-in-v2-1-210|2 Interface Experience changes in v2.1.210]] · Interface Experience
 - [[Changes/Claude Code/2026-07-14-improved-the-bash-powershell-tool-message-when-a-command-hits-its-timeout-and-is|Improved the Bash/PowerShell tool message when a command hits its timeout…]] · Model Support
 - [[Changes/Claude Code/2026-07-14-3-agent-mode-changes-in-v2-1-210|3 Agent Mode changes in v2.1.210]] · Agent Mode
+- [[Changes/Claude Code/2026-07-14-improved-the-bundled-dataviz-skill-s-chart-color-validation-with-perceptual-okla|Improved the bundled dataviz skill's chart color validation with perceptual OKLab…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

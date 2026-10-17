@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 260810bc22b6cfdffcddc3c4e84ab4827cec0befb2dbd83d0635dfd6c5a254e0
+machine_hash: 10b1901c2e8b4d1369fec8e7a3fe54667240ffa46fba35808945dcd2b39f193f
 product: cursor
 product_name: Cursor
 record:
@@ -91,6 +91,7 @@ type: change
 - [[Changes/Cursor/2026-06-03-3-collaboration-changes-in-organizations-for-cursor-enterprise|3 Collaboration changes in Organizations for Cursor Enterprise]] · Collaboration
 - [[Changes/Cursor/2026-06-03-groups-are-a-lightweight-collection-of-users-that-can-sit-across-or-within-teams|Groups]] · Collaboration
 - [[Changes/Cursor/2026-06-03-teams|Teams]] · Collaboration
+- [[Changes/Cursor/2026-06-03-2-other-changes-in-organizations-for-cursor-enterprise|2 other changes in Organizations for Cursor Enterprise]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

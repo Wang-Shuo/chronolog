@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: abb1f62e938287aaa817f358420a0291940cc3497cd844fce2f693178cd3a01a
+machine_hash: 006872c2fbbcc7d98494f8643e730d1f38e7190495603edc1e6abb8a40785496
 product: claude-code
 product_name: Claude Code
 record:
@@ -88,6 +88,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.86
 - [[Changes/Claude Code/2026-03-27-auto-mode-now-shows-unavailable-for-your-plan-when-disabled-by-plan-restrictions|Auto mode now shows "unavailable for your plan" when disabled by plan restrictions…]] · Agent Mode
 - [[Changes/Claude Code/2026-03-27-changed-skills-menu-to-sort-alphabetically-for-easier-scanning|Changed /skills menu to sort alphabetically for easier scanning]] · Interface Experience
 - [[Changes/Claude Code/2026-03-27-reduced-startup-event-loop-stalls-when-many-claude-ai-mcp-connectors-are-configu|Reduced startup event-loop stalls when many claude.ai MCP connectors are configured…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-03-27-read-tool-now-uses-compact-line-number-format-and-deduplicates-unchanged-re-read|Read tool now uses compact line-number format and deduplicates unchanged re-reads…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

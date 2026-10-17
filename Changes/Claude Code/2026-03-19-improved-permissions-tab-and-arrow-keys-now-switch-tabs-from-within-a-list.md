@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 50361ccb202240afab7c2382db0f88df330302aa14a1863de89c14f66c000025
+machine_hash: da20c5bf1635502ee3714d37cf6e69ed53732dbf834972d2cd10b0f760861a2c
 product: claude-code
 product_name: Claude Code
 record:
@@ -75,6 +75,7 @@ type: change
 - [[Changes/Claude Code/2026-03-19-added-effort-frontmatter-support-for-skills-and-slash-commands-to-override-the-m|Added effort frontmatter support for skills and slash commands to override…]] · Model Support
 - [[Changes/Claude Code/2026-03-19-reduced-memory-usage-on-startup-in-large-repositories-80-mb-saved-on-250k-file-r|Reduced memory usage on startup in large repositories (~80 MB saved on 250k-file repos)]] · Reliability and Performance
 - [[Changes/Claude Code/2026-03-19-2-interface-experience-changes-in-v2-1-80|2 Interface Experience changes in v2.1.80]] · Interface Experience
+- [[Changes/Claude Code/2026-03-19-2-other-changes-in-v2-1-80|2 other changes in v2.1.80]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

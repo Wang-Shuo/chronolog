@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c72f0fab1ba3c957f2fea774a6e709fce017ff47cd16073fbe221da8cefc67fe
+machine_hash: 1b685bbf56ad377647731c396b80dca40864719ebcac162eb3254719d0dc6645
 product: claude-code
 product_name: Claude Code
 record:
@@ -75,6 +75,7 @@ type: change
 - [[Changes/Claude Code/2026-04-13-improved-network-error-messages-connection-errors-now-show-a-retry-message-immed|Improved network error messages]] · Interface Experience
 - [[Changes/Claude Code/2026-04-13-improved-stalled-api-stream-handling-streams-now-abort-after-5-minutes-of-no-dat|Improved stalled API stream handling]] · Reliability and Performance
 - [[Changes/Claude Code/2026-04-13-2-developer-workflow-changes-in-v2-1-105|2 Developer Workflow changes in v2.1.105]] · Developer Workflow
+- [[Changes/Claude Code/2026-04-13-5-other-changes-in-v2-1-105|5 other changes in v2.1.105]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

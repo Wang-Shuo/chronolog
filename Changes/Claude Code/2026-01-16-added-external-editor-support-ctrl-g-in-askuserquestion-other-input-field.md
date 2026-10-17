@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2bbf4b00bf31714b1aabcc3fb0952d5f99741aaa0c1cf75e89eabdf35d6bde43
+machine_hash: dc05fceb2fb6054f64419aadae4555287834f212def42aaf0fffcec0cdf37bfd
 product: claude-code
 product_name: Claude Code
 record:
@@ -76,6 +76,7 @@ type: change
 - [[Changes/Claude Code/2026-01-16-added-session-url-attribution-to-commits-and-prs-created-from-web-sessions|Added session URL attribution to commits and PRs created from web sessions]] · Developer Workflow
 - [[Changes/Claude Code/2026-01-16-added-auto-n-syntax-for-configuring-the-mcp-tool-search-auto-enable-threshold-wh|Added auto:N syntax for configuring the MCP tool search auto-enable threshold…]] · Context Window
 - [[Changes/Claude Code/2026-01-16-added-support-for-pretooluse-hooks-to-return-additionalcontext-to-the-model|Added support for PreToolUse hooks to return additionalContext to the model]] · Model Support
+- [[Changes/Claude Code/2026-01-16-added-claude-session-id-string-substitution-for-skills-to-access-the-current-ses|Added ${CLAUDE_SESSION_ID} string substitution for skills to access the current…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: baad15e8aeb11dec9a5fa91392e23a8b9cfb3fec4991860903c61e816cee27f1
+machine_hash: f3c33e87bfc1e419c250a86d24b7d1771cf71af479b9a130a795aa5e6cafdf55
 product: claude-code
 product_name: Claude Code
 record:
@@ -78,6 +78,7 @@ type: change
 - [[Changes/Claude Code/2026-05-19-2-interface-experience-changes-in-v2-1-145|2 Interface Experience changes in v2.1.145]] · Interface Experience
 - [[Changes/Claude Code/2026-05-19-improved-the-read-tool-to-return-a-truncated-first-page-with-a-partial-view-noti|Improved the Read tool to return a truncated first page with a "PARTIAL view" notice…]] · Context Window
 - [[Changes/Claude Code/2026-05-19-3-agent-mode-changes-in-v2-1-145|3 Agent Mode changes in v2.1.145]] · Agent Mode
+- [[Changes/Claude Code/2026-05-19-stop-and-subagentstop-hook-input-now-includes-background-tasks-and-session-crons|Stop and SubagentStop hook input now includes background_tasks and session_crons…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

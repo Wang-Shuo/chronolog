@@ -11,6 +11,7 @@ import frontmatter
 
 ROOT = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(ROOT))
+from _scripts.extract import HOLDING_THEMES
 from _scripts.history import read_history
 from _scripts.validate import ROOT_PAGES, validate_vault_links
 
@@ -96,6 +97,9 @@ def audit(vault, site, base_url=None):
         content = index['Products/'+display.replace(' ','-')]['content']
         assert f'{count} tracked changes.' in content
     for theme,count in theme_counts.items():
+        if theme in HOLDING_THEMES:  # "Other changes" cards have no theme page
+            assert 'Themes/'+theme not in index, theme
+            continue
         assert f'Active changes: {count}.' in index['Themes/'+theme]['content']
     rs,cs,pending = read_history(vault, {'chatgpt','claude-code','cursor'})
     links = validate_vault_links(vault,rs,cs,pending)

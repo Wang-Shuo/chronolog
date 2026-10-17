@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a2fdf3527daf153151a03beaa46e5a81b6b12828dde3a07d8df1eaff9ae6738c
+machine_hash: 02ac2f822c4870cbea453876e3786ef2c35e09087698d46f469538db5de83fe0
 product: claude-code
 product_name: Claude Code
 record:
@@ -76,6 +76,7 @@ type: change
 - [[Changes/Claude Code/2026-04-23-fixed-mcp-step-up-authorization-silently-refreshing-instead-of-prompting-for-re|Fixed MCP step-up authorization silently refreshing instead of prompting…]] · Safety and Privacy
 - [[Changes/Claude Code/2026-04-23-5-apps-and-integrations-changes-in-v2-1-118|5 Apps and Integrations changes in v2.1.118]] · Apps and Integrations
 - [[Changes/Claude Code/2026-04-23-2-interface-experience-changes-in-v2-1-118|2 Interface Experience changes in v2.1.118]] · Interface Experience
+- [[Changes/Claude Code/2026-04-23-continue-resume-now-find-sessions-that-added-the-current-directory-via-add-dir|--continue/--resume now find sessions that added the current directory via /add-dir]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: af3cf3fb72a5d2d1c2a5fd9e3792f6c896872aab0df313b6399b63c28dc737fa
+machine_hash: d846bd053ba94b8c2de1d646f3c94bffa988bd59e52976987b0875c97a0440a5
 product: cursor
 product_name: Cursor
 record:
@@ -86,6 +86,7 @@ Source: https://cursor.com/changelog/0-46-x
 - [[Changes/Cursor/2025-02-19-web-search-agent-can-now-automatically-search-the-web-for-up-to-date-information|Web search: Agent can now automatically search the web for up-to-date information…]] · Search and Browsing
 - [[Changes/Cursor/2025-02-19-2-interface-experience-changes-in-0-46-x|2 Interface Experience changes in 0.46.x]] · Interface Experience
 - [[Changes/Cursor/2025-02-19-mcp-improvements|MCP improvements]] · Apps and Integrations
+- [[Changes/Cursor/2025-02-19-2-other-changes-in-0-46-x|2 other changes in 0.46.x]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

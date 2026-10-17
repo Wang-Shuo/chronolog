@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 71b38f12e620c2f11f6328190376e387f048f8e69e40c0d4b2aac19b054a0a6f
+machine_hash: 393460b7e780c01d466a9d0afd5b6bbcf29935fede33216e0b59b9d97ba663ce
 product: claude-code
 product_name: Claude Code
 record:
@@ -80,6 +80,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.105
 - [[Changes/Claude Code/2026-04-13-improved-network-error-messages-connection-errors-now-show-a-retry-message-immed|Improved network error messages]] · Interface Experience
 - [[Changes/Claude Code/2026-04-13-improved-stalled-api-stream-handling-streams-now-abort-after-5-minutes-of-no-dat|Improved stalled API stream handling]] · Reliability and Performance
 - [[Changes/Claude Code/2026-04-13-proactive-is-now-an-alias-for-loop|/proactive is now an alias for /loop]] · Automation and Scheduling
+- [[Changes/Claude Code/2026-04-13-5-other-changes-in-v2-1-105|5 other changes in v2.1.105]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

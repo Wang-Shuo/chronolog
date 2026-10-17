@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 929bf9a8d18d3db4682abf7eb772b07f85e374a999d9c8d86d590cb1b4d81784
+machine_hash: c1e7db17ce3c6aed63b6d277995d3e9442b0e5d16d7e529fef2873af45b0bfbb
 product: claude-code
 product_name: Claude Code
 record:
@@ -79,6 +79,7 @@ type: change
 - [[Changes/Claude Code/2026-04-14-2-interface-experience-changes-in-v2-1-108|2 Interface Experience changes in v2.1.108]] · Interface Experience
 - [[Changes/Claude Code/2026-04-14-reduced-memory-footprint-for-file-reads-edits-and-syntax-highlighting-by-loading|Reduced memory footprint for file reads, edits, and syntax highlighting by loading…]] · Reliability and Performance
 - [[Changes/Claude Code/2026-04-14-2-context-window-changes-in-v2-1-108|2 Context Window changes in v2.1.108]] · Context Window
+- [[Changes/Claude Code/2026-04-14-3-other-changes-in-v2-1-108|3 other changes in v2.1.108]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

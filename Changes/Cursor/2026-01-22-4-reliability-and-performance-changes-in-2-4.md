@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 126c0d71671cc9beb3855db4f8797c71d2c89efdba7565f4bd4305337c05c5c8
+machine_hash: b3c537b6c33588c63bfc335b3194311c3dbb9de5d335e1b5b2772076282647b2
 product: cursor
 product_name: Cursor
 record:
@@ -100,6 +100,7 @@ Source: https://cursor.com/changelog/2-4
 - [[Changes/Cursor/2026-01-22-3-developer-workflow-changes-in-2-4|3 Developer Workflow changes in 2.4]] · Developer Workflow
 - [[Changes/Cursor/2026-01-22-cursor-blame|Cursor Blame]] · Enterprise and Administration
 - [[Changes/Cursor/2026-01-22-clarification-questions-from-the-agent|Clarification questions from the agent]] · Agent Mode
+- [[Changes/Cursor/2026-01-22-6-other-changes-in-2-4|6 other changes in 2.4]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

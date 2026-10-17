@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d021303ca094b090abfa273d6525c95daef822c3c5a9218f9d81bba304cff702
+machine_hash: 0baa239f324cc5eb6592f60ebacdcdcbd56b330dd1d2e49cebfe015a8b50fddf
 product: claude-code
 product_name: Claude Code
 record:
@@ -97,6 +97,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.282
 - [[Changes/Claude Code/2026-09-24-2-agent-mode-changes-in-v2-1-282|2 Agent Mode changes in v2.1.282]] · Agent Mode
 - [[Changes/Claude Code/2026-09-24-8-apps-and-integrations-changes-in-v2-1-282|8 Apps and Integrations changes in v2.1.282]] · Apps and Integrations
 - [[Changes/Claude Code/2026-09-24-4-safety-and-privacy-changes-in-v2-1-282|4 Safety and Privacy changes in v2.1.282]] · Safety and Privacy
+- [[Changes/Claude Code/2026-09-24-6-other-changes-in-v2-1-282|6 other changes in v2.1.282]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

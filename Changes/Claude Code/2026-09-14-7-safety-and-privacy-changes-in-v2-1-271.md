@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3c55d9c2a4bdc827ec2137a76f9e94ff186e8354b6d2c80ab85ded97f55e7037
+machine_hash: 586103f55026c3d70ecd8ef6750d1a88a0a0667fdd11dc58bb1d9e1fac7a7708
 product: claude-code
 product_name: Claude Code
 record:
@@ -118,6 +118,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.271
 - [[Changes/Claude Code/2026-09-14-2-mobile-and-desktop-changes-in-v2-1-271|2 Mobile and Desktop changes in v2.1.271]] · Mobile and Desktop
 - [[Changes/Claude Code/2026-09-14-3-interface-experience-changes-in-v2-1-271|3 Interface Experience changes in v2.1.271]] · Interface Experience
 - [[Changes/Claude Code/2026-09-14-improved-startup-time-slightly-by-skipping-a-redundant-validation-of-built-in-mo|Improved startup time slightly by skipping a redundant validation of built-in model…]] · Model Support
+- [[Changes/Claude Code/2026-09-14-9-other-changes-in-v2-1-271|9 other changes in v2.1.271]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

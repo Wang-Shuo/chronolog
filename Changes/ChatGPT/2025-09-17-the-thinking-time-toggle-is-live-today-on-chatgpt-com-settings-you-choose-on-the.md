@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0704b8105838ba90ed3bb2fa92f500a6c9428d7aa57afba567d98ff1255a65d9
+machine_hash: 277c89f6d799120677831ad620b8a7890e7845786cd513c3deb9b7ea1773e219
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -87,6 +87,7 @@ type: change
 
 - [[Changes/ChatGPT/2025-09-17-5-model-support-changes-in-toggle-thinking-time-in-the-message|5 Model Support changes in Toggle thinking time in the message…]] · Model Support
 - [[Changes/ChatGPT/2025-09-17-2-reliability-and-performance-changes-in-toggle-thinking-time-in-the-message|2 Reliability and Performance changes in Toggle thinking time in the message…]] · Reliability and Performance
+- [[Changes/ChatGPT/2025-09-17-extended-heavy-more-time-for-deeper-more-comprehensive-responses-when-the-stakes|Extended / Heavy → more time for deeper, more comprehensive responses…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

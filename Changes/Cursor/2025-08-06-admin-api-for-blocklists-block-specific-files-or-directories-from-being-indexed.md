@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5e6b23db5c5acfee2df86d900f5b4f874241d3413447cc5cef63f9dca875ae12
+machine_hash: 2856a7849c74e9d898aa61efe22f685d4239424ea9dbfb4a6131af782c3be286
 product: cursor
 product_name: Cursor
 record:
@@ -79,6 +79,7 @@ type: change
 - [[Changes/Cursor/2025-08-06-sending-messages-while-cursor-is-working-now-does-a-better-job-of-steering-the-a|More Agent steerability]] · Agent Mode
 - [[Changes/Cursor/2025-08-06-1-4-5-improved-performance|1.4.5: Improved performance]] · Reliability and Performance
 - [[Changes/Cursor/2025-08-06-ai-code-tracking-api-get-commit-level-visibility-into-ai-usage-and-accepted-chan|AI code tracking API]] · Collaboration
+- [[Changes/Cursor/2025-08-06-member-exports-export-all-workspace-members-to-csv-from-the-dashboard|Member exports: Export all workspace members to CSV from the dashboard]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

@@ -16,8 +16,8 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
-kind: launch
-machine_hash: cf8075e4169e7073dd899e16ad189083826c87f64c9991f5e290b39cde0328be
+kind: change
+machine_hash: 78f56822ad995f0b31d888f5ec12df59dc6548a305276065215d1d2bf3cae2e7
 product: cursor
 product_name: Cursor
 record:
@@ -34,7 +34,7 @@ record:
     source_release: https://cursor.com/changelog/1-2
   extractor_version: fallback-v5
   impact: incremental
-  kind: launch
+  kind: change
   product: cursor
   product_name: Cursor
   slug: faster-tab
@@ -72,7 +72,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Faster Tab
 
-**Cursor** · 2025-07-03 · [[Themes/memory|Memory and Personalization]] · Launch · [Official source](https://cursor.com/changelog/1-2) · from [[Releases/Cursor/cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d|Agent Planning, Better Context & Faster Tab]]
+**Cursor** · 2025-07-03 · [[Themes/memory|Memory and Personalization]] · [Official source](https://cursor.com/changelog/1-2) · from [[Releases/Cursor/cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d|Agent Planning, Better Context & Faster Tab]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -95,6 +95,7 @@ type: change
 - [[Changes/Cursor/2025-07-03-2-agent-mode-changes-in-1-2|2 Agent Mode changes in 1.2]] · Agent Mode
 - [[Changes/Cursor/2025-07-03-background-agent-improvements|Background Agent improvements]] · Agent Mode
 - [[Changes/Cursor/2025-07-03-pr-indexing-search|PR indexing & search]] · Context Window
+- [[Changes/Cursor/2025-07-03-2-other-changes-in-1-2|2 other changes in 1.2]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

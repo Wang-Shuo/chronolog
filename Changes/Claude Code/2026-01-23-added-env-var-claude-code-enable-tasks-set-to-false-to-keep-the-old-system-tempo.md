@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9c05d5f0ad9875f1db0174b965a70a12643fd3968756a29cae2314927bd598fe
+machine_hash: 9d8bb1d2bed42d30adcc60b0526ed4c20095d226ca47a03cd3ebc35412d57f10
 product: claude-code
 product_name: Claude Code
 record:
@@ -74,6 +74,7 @@ type: change
 
 - [[Changes/Claude Code/2026-01-23-2-developer-workflow-changes-in-v2-1-19|2 Developer Workflow changes in v2.1.19]] · Developer Workflow
 - [[Changes/Claude Code/2026-01-23-2-apps-and-integrations-changes-in-v2-1-19|2 Apps and Integrations changes in v2.1.19]] · Apps and Integrations
+- [[Changes/Claude Code/2026-01-23-vscode-enabled-session-forking-and-rewind-functionality-for-all-users|VSCode Enabled session forking and rewind functionality for all users]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

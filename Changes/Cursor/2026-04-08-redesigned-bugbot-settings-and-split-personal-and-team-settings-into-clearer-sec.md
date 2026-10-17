@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 92b01dcb4c76b7c6d17a6ad32a46ea01f7437458c06bc1962593689a7eeae4d2
+machine_hash: d2f3675d035530d1cd25eacb88377aadf1c8cfe261cd76a23a4100d6b1dc8a56
 product: cursor
 product_name: Cursor
 record:
@@ -74,6 +74,7 @@ type: change
 - [[Changes/Cursor/2026-04-08-bugbot-learned-rules-9e5cac|Bugbot Learned Rules]] · Developer Workflow
 - [[Changes/Cursor/2026-04-08-give-bugbot-access-to-mcp-servers-for-additional-context-during-code-reviews-on|Bugbot MCP Support]] · Apps and Integrations
 - [[Changes/Cursor/2026-04-08-this-release-introduces-updates-to-bugbot-including-the-ability-to-self-improve|Cursor introduces updates to Bugbot including the ability to self-improve in real…]] · Apps and Integrations
+- [[Changes/Cursor/2026-04-08-6-other-changes-in-04-08-26|6 other changes in 04.08.26]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

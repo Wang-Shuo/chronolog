@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3607f840b691fd196f4f0eb3dbaf8e519c169370899de0025aaec47c86842a5e
+machine_hash: 9968204915d4585740032cd14154597f5d32f68cf106b224c74173e51fc56ad6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -78,6 +78,7 @@ type: change
 
 - [[Changes/ChatGPT/2025-06-13-we-ve-upgraded-chatgpt-search-for-all-users-to-provide-even-more-comprehensive-u|We’ve upgraded ChatGPT search for all users to provide even more comprehensive…]] · Search and Browsing
 - [[Changes/ChatGPT/2025-06-13-improved-search-capability-and-instruction-following-594de0|Improved search capability and instruction following]] · Reliability and Performance
+- [[Changes/ChatGPT/2025-06-13-2-other-changes-in-improvements-to-the-chatgpt-search|2 other changes in Improvements to the ChatGPT search…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

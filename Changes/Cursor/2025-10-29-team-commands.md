@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d29c7204c19813b8e369270003e76eddba12bfc62da0a689c060943da97837d6
+machine_hash: 88585134baaa19522246a40e6442098f53de6fde02f5ae86212be85b38b22237
 product: cursor
 product_name: Cursor
 record:
@@ -93,6 +93,7 @@ type: change
 - [[Changes/Cursor/2025-10-29-multi-agents-bb4f56|Multi-Agents]] · Agent Mode
 - [[Changes/Cursor/2025-10-29-improved-prompt-ui|Improved Prompt UI]] · Context Window
 - [[Changes/Cursor/2025-10-29-sandboxed-terminals-admin-controls|Sandboxed Terminals: Admin Controls]] · Enterprise and Administration
+- [[Changes/Cursor/2025-10-29-notepads-have-been-deprecated|Notepads have been deprecated]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

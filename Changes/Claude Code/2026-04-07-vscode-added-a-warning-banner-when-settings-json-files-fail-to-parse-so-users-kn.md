@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c2271676e5023d35695e157a50232f29b1a1ad144e9ed49d9012c0b19242369f
+machine_hash: 898e1d64510ec5f677571c103d32e39f511114406e903fe9ef37b4e0c761c9c5
 product: claude-code
 product_name: Claude Code
 record:
@@ -77,6 +77,7 @@ type: change
 - [[Changes/Claude Code/2026-04-07-improved-resume-to-resume-sessions-from-other-worktrees-of-the-same-repo-directl|Improved --resume to resume sessions from other worktrees of the same repo…]] · Projects and Workspaces
 - [[Changes/Claude Code/2026-04-07-5-apps-and-integrations-changes-in-v2-1-94|5 Apps and Integrations changes in v2.1.94]] · Apps and Integrations
 - [[Changes/Claude Code/2026-04-07-changed-default-effort-level-from-medium-to-high-for-api-key-bedrock-vertex-foun|Changed default effort level from medium to high for API-key…]] · Enterprise and Administration
+- [[Changes/Claude Code/2026-04-07-vscode-reduced-cold-open-subprocess-work-on-starting-a-session|VSCode Reduced cold-open subprocess work on starting a session]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dc2b027b912702da5219a89a67dcd431a0d77a642b529c3abcbc45739c89165f
+machine_hash: a0e3f464557468cccc0804605beb3cdc4e5e0055496b3dad7f2088dffbfddbed
 product: claude-code
 product_name: Claude Code
 record:
@@ -74,6 +74,7 @@ type: change
 - [[Changes/Claude Code/2026-06-06-hardened-cross-session-messaging-messages-relayed-via-sendmessage-from-other-cla|Hardened cross-session messaging]] · Safety and Privacy
 - [[Changes/Claude Code/2026-06-06-added-glob-pattern-support-in-deny-rule-tool-name-position-denies-all-tools-allo|Added glob pattern support in deny rule tool-name position ("" denies all tools)]] · Apps and Integrations
 - [[Changes/Claude Code/2026-06-06-3-model-support-changes-in-v2-1-166|3 Model Support changes in v2.1.166]] · Model Support
+- [[Changes/Claude Code/2026-06-06-claude-update-now-announces-the-target-version-before-downloading-instead-of-goi|claude update now announces the target version before downloading instead of going…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

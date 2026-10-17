@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 47a7e65ce2eda12e4b2856b0e34e778a3d12da786d9afd5207632bf5966426a5
+machine_hash: d1cfeee97d3fed7175b4ac345c918b75c895f4e68a1e3ade0fbd7aa2e5f75b38
 product: claude-code
 product_name: Claude Code
 record:
@@ -78,6 +78,7 @@ type: change
 - [[Changes/Claude Code/2026-04-20-2-apps-and-integrations-changes-in-v2-1-116|2 Apps and Integrations changes in v2.1.116]] · Apps and Integrations
 - [[Changes/Claude Code/2026-04-20-security-sandbox-auto-allow-no-longer-bypasses-the-dangerous-path-safety-check-f|Security: sandbox auto-allow no longer bypasses the dangerous-path safety check…]] · Safety and Privacy
 - [[Changes/Claude Code/2026-04-20-2-agent-mode-changes-in-v2-1-116|2 Agent Mode changes in v2.1.116]] · Agent Mode
+- [[Changes/Claude Code/2026-04-20-doctor-can-now-be-opened-while-claude-is-responding-without-waiting-for-the-curr|/doctor can now be opened while Claude is responding, without waiting…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

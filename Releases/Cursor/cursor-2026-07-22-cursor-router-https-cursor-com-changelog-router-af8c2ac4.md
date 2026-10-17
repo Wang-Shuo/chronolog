@@ -1,10 +1,10 @@
 ---
-changes_count: 7
+changes_count: 8
 date: '2026-07-22'
-description: 'Cursor release Cursor Router on 2026-07-22: 7 tracked changes across
+description: 'Cursor release Cursor Router on 2026-07-22: 8 tracked changes across
   Model Support, Agent Mode, Collaboration, Enterprise and Administration, Pricing
-  Model'
-machine_hash: c1b692899ff03d9d28ac24305c08e5d64221f3b2ae30b50d61975bf7e9c0455f
+  Model…'
+machine_hash: b1d53efca7cd7e43ea515e294795580eb890485ace6c81a7e504f5bf15a53833
 product: cursor
 product_name: Cursor
 record:
@@ -39,7 +39,7 @@ version: Cursor Router
 <!-- chronolog:begin region="summary" -->
 Auto mode is now powered by Cursor Router.
 
-Tracked 7 cards from 17 candidate lines; 2 lines pending review.
+Tracked 8 cards from 17 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
@@ -51,4 +51,5 @@ Tracked 7 cards from 17 candidate lines; 2 lines pending review.
 - [[Changes/Cursor/2026-07-22-auto-mode-is-now-powered-by-cursor-router|Auto mode is now powered by Cursor Router]] · Agent Mode
 - [[Changes/Cursor/2026-07-22-routed-model-can-be-displayed-or-hidden-hidden-by-default|Routed model can be displayed or hidden (hidden by default)]] · Model Support
 - [[Changes/Cursor/2026-07-22-optimization-modes-e62142|Optimization modes]] · Model Support · Launch
+- [[Changes/Cursor/2026-07-22-2-other-changes-in-cursor-router|2 other changes in Cursor Router]] · Other changes · Digest
 <!-- chronolog:end -->

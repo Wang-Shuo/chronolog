@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0466ae30d221596c75cfcc505460b91f72471a489354e5c72253290a11188e9c
+machine_hash: d3e472855edb886056d5b8cebcddf9f50ccfb9d86ae4e055299d6a78b83857eb
 product: cursor
 product_name: Cursor
 record:
@@ -79,6 +79,7 @@ type: change
 - [[Changes/Cursor/2025-06-12-agents-understand-context-6b73fc|Agents understand context]] · Apps and Integrations
 - [[Changes/Cursor/2025-06-12-improved-background-agent-reliability|Improved Background Agent reliability]] · Agent Mode
 - [[Changes/Cursor/2025-06-12-3-reliability-and-performance-changes-in-1-1|3 Reliability and Performance changes in 1.1]] · Reliability and Performance
+- [[Changes/Cursor/2025-06-12-7-other-changes-in-1-1|7 other changes in 1.1]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e964fe9adb04b66d950b03d0ea4abe0405de8a9afb78d3241b7ae9df096764de
+machine_hash: 73bb0166d1f2c1b6889264d3b76a64dc14b14c9d13dcc8bd13ead842ffa9068e
 product: claude-code
 product_name: Claude Code
 record:
@@ -83,6 +83,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.228
 - [[Changes/Claude Code/2026-08-11-changed-the-write-tool-so-newer-models-can-overwrite-an-existing-file-they-haven|Changed the Write tool so newer models can overwrite an existing file they haven't…]] · Model Support
 - [[Changes/Claude Code/2026-08-11-improved-compaction-progress-the-retry-countdown-and-stall-hint-now-appear-durin|Improved compaction progress]] · Context Window
 - [[Changes/Claude Code/2026-08-11-removed-the-outdated-note-about-auto-mode-sessions-costing-slightly-more-from-th|Removed the outdated note about auto mode sessions costing slightly more…]] · Collaboration
+- [[Changes/Claude Code/2026-08-11-improved-vertex-ai-credential-handling-expired-or-missing-google-cloud-credentia|Improved Vertex AI credential handling]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

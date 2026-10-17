@@ -15,8 +15,8 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
-kind: launch
-machine_hash: 8d26be8fa332aae4c769bd594f932bcc133ec2469d6691e44cacbefa9dafd8b9
+kind: change
+machine_hash: 8a625d5f484f603f955e6fc331fe445b5d8943519cee4d3368ec9aa9af690892
 product: cursor
 product_name: Cursor
 record:
@@ -36,7 +36,7 @@ record:
     source_release: https://cursor.com/changelog/1-5
   extractor_version: fallback-v5
   impact: paradigm-shift
-  kind: launch
+  kind: change
   product: cursor
   product_name: Cursor
   slug: improved-review-flow-in-agent-terminal
@@ -72,7 +72,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Improved review flow in Agent terminal
 
-**Cursor** · 2025-08-21 · [[Themes/developer-workflow|Developer Workflow]] · Launch · [Official source](https://cursor.com/changelog/1-5) · from [[Releases/Cursor/cursor-2025-08-21-1-5-https-cursor-com-changelog-1-5-f93efb89|Linear integration, improved Agent terminal, and OS notifications]]
+**Cursor** · 2025-08-21 · [[Themes/developer-workflow|Developer Workflow]] · [Official source](https://cursor.com/changelog/1-5) · from [[Releases/Cursor/cursor-2025-08-21-1-5-https-cursor-com-changelog-1-5-f93efb89|Linear integration, improved Agent terminal, and OS notifications]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -91,6 +91,7 @@ type: change
 - [[Changes/Cursor/2025-08-21-context-usage-is-always-shown-in-the-chat-input|Context usage is always shown in the chat input]] · Context Window
 - [[Changes/Cursor/2025-08-21-2-model-support-changes-in-1-5|2 Model Support changes in 1.5]] · Model Support
 - [[Changes/Cursor/2025-08-21-get-native-os-notifications-when-an-agent-run-finishes-or-when-input-is-required|OS notifications from Agent]] · Agent Mode
+- [[Changes/Cursor/2025-08-21-2-other-changes-in-1-5|2 other changes in 1.5]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

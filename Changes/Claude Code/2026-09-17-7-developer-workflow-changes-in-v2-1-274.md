@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4077baf5e66ba3a786d778ccaee8e1a2e4aaf5c9e8d854cfbc9f034b7111f613
+machine_hash: ccea7713165a812fa733c472314dddf3ac938226a497b2b4eeb7f9623c4c482f
 product: claude-code
 product_name: Claude Code
 record:
@@ -116,6 +116,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.274
 - [[Changes/Claude Code/2026-09-17-2-interface-experience-changes-in-v2-1-274|2 Interface Experience changes in v2.1.274]] · Interface Experience
 - [[Changes/Claude Code/2026-09-17-3-safety-and-privacy-changes-in-v2-1-274|3 Safety and Privacy changes in v2.1.274]] · Safety and Privacy
 - [[Changes/Claude Code/2026-09-17-added-a-visible-warning-when-memory-usage-is-critical-with-steps-to-free-memory|Added a visible warning when memory usage is critical, with steps to free memory…]] · Reliability and Performance
+- [[Changes/Claude Code/2026-09-17-8-other-changes-in-v2-1-274|8 other changes in v2.1.274]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 21d179b06866183727cab60f8a7b28806c77f052d992dd68ba8fba9ee2e7d2f4
+machine_hash: 76135674dc6a542d0a40d453508f91aef5cc1bf9a0c0bd7a48ede39470a3c80e
 product: claude-code
 product_name: Claude Code
 record:
@@ -79,6 +79,7 @@ type: change
 - [[Changes/Claude Code/2026-08-07-3-mobile-and-desktop-changes-in-v2-1-224|3 Mobile and Desktop changes in v2.1.224]] · Mobile and Desktop
 - [[Changes/Claude Code/2026-08-07-removed-the-200-subagent-per-session-spawn-cap-long-running-sessions-no-longer-r|Removed the 200-subagent-per-session spawn cap]] · Agent Mode
 - [[Changes/Claude Code/2026-08-07-2-safety-and-privacy-changes-in-v2-1-224|2 Safety and Privacy changes in v2.1.224]] · Safety and Privacy
+- [[Changes/Claude Code/2026-08-07-3-other-changes-in-v2-1-224|3 other changes in v2.1.224]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

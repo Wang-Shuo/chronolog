@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4044286bf4d9ed04280bc1a3f75c6bfc49c55e2779e5b7c35ce77a88ad746bf7
+machine_hash: d90e7d9e1d432cafc29186e83b8eec990eb8a97261ef560ae4e4c5c5e200f8fb
 product: claude-code
 product_name: Claude Code
 record:
@@ -106,6 +106,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.288
 - [[Changes/Claude Code/2026-10-02-4-agent-mode-changes-in-v2-1-288|4 Agent Mode changes in v2.1.288]] · Agent Mode
 - [[Changes/Claude Code/2026-10-02-added-ui-selection-for-mods-returns-the-text-you-last-selected-in-fullscreen-mod|Added $.ui.selection() for mods]] · Interface Experience
 - [[Changes/Claude Code/2026-10-02-improved-the-usage-credits-message-shown-to-team-and-enterprise-members-whose-or|Improved the /usage-credits message shown to Team and Enterprise members whose…]] · Pricing Model
+- [[Changes/Claude Code/2026-10-02-4-other-changes-in-v2-1-288|4 other changes in v2.1.288]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

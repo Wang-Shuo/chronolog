@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a5a0d6e31f3caba2a7c4f0624d0c7869ed652c827c1bf26e0046e495adbda52f
+machine_hash: 8d61fe6a75d9ff54500cf0c0065899d070c3fc69ede460275d95411e8d8fa437
 product: cursor
 product_name: Cursor
 record:
@@ -79,6 +79,7 @@ type: change
 - [[Changes/Cursor/2023-05-17-a-better-cursor-tutor-onboarding|A better Cursor Tutor onboarding!]] · Interface Experience
 - [[Changes/Cursor/2023-05-17-remote-ssh-is-easier-to-use|Remote SSH is easier to use!]] · Developer Workflow
 - [[Changes/Cursor/2023-05-17-in-terminal-debugging-f140b2|In-terminal Debugging]] · Developer Workflow
+- [[Changes/Cursor/2023-05-17-2-other-changes-in-0-2-16|2 other changes in 0.2.16]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 91bb0e7cd6c624fd95299f0c04949a2ff1b0b82de618bf3b2796889268fd2055
+machine_hash: 31d0b940b9018b07aba2dcdcc9fc10192ad5b1785a111265a54ff9553c500ceb
 product: cursor
 product_name: Cursor
 record:
@@ -83,6 +83,7 @@ type: change
 - [[Changes/Cursor/2025-03-11-0-47-11-release-track-picker-prerelease-or-standard-fix-for-dmg-installer-not-wo|0.47.11: Release track picker (prerelease or standard), fix for dmg installer not…]] · Interface Experience
 - [[Changes/Cursor/2025-03-11-3-model-support-changes-in-0-47-x|3 Model Support changes in 0.47.x]] · Model Support
 - [[Changes/Cursor/2025-03-11-this-release-focuses-mainly-on-stability-and-performance-improvements-to-make-ex|This release focuses mainly on stability and performance improvements to make…]] · Reliability and Performance
+- [[Changes/Cursor/2025-03-11-6-other-changes-in-0-47-x|6 other changes in 0.47.x]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

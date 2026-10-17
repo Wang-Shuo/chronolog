@@ -15,8 +15,8 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
-kind: launch
-machine_hash: b3ba916d62f27193630a8a575a7bcc6ef084ade7b8ed78876e015819f5272272
+kind: change
+machine_hash: 2aa2d23caa2fc6e8c6862826e5a887bd9c6e572d860c13e8e179512d00426e42
 product: cursor
 product_name: Cursor
 record:
@@ -40,7 +40,7 @@ record:
     source_release: https://cursor.com/changelog/0-6-0
   extractor_version: fallback-v5
   impact: significant
-  kind: launch
+  kind: change
   product: cursor
   product_name: Cursor
   slug: better-support-for-remote-ssh
@@ -66,7 +66,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Better support for remote-ssh
 
-**Cursor** · 2023-07-28 · [[Themes/developer-workflow|Developer Workflow]] · Launch · [Official source](https://cursor.com/changelog/0-6-0) · from [[Releases/Cursor/cursor-2023-07-28-0-6-0-https-cursor-com-changelog-0-6-0-ec91c991|A copilot experience powered by gpt-4]]
+**Cursor** · 2023-07-28 · [[Themes/developer-workflow|Developer Workflow]] · [Official source](https://cursor.com/changelog/0-6-0) · from [[Releases/Cursor/cursor-2023-07-28-0-6-0-https-cursor-com-changelog-0-6-0-ec91c991|A copilot experience powered by gpt-4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->

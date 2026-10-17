@@ -3,7 +3,7 @@ changes_count: 5
 date: '2026-05-13'
 description: 'Cursor release Development environments for cloud agents on 2026-05-13:
   5 tracked changes across Agent Mode, Developer Workflow, Safety and Privacy'
-machine_hash: 11c4495109f13de742fbbb900594de786450fea0626d79730288c1bafe060846
+machine_hash: 18c122b73d50ad2b6cd4a1dc9a7c7c3cc0100f5b1bfee490080bea963eae68e7
 product: cursor
 product_name: Cursor
 record:
@@ -45,7 +45,7 @@ Tracked 5 cards from 11 candidate lines.
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2026-05-13-improved-agent-led-environment-setup|Improved agent-led environment setup]] · Agent Mode · Launch
+- [[Changes/Cursor/2026-05-13-improved-agent-led-environment-setup|Improved agent-led environment setup]] · Agent Mode
 - [[Changes/Cursor/2026-05-13-environment-configuration-as-code-827fd1|Environment configuration as code]] · Developer Workflow · Launch
 - [[Changes/Cursor/2026-05-13-cloud-agents-and-automations-now-support-multi-repo-environments-building-off-ou|Multi-repo environments]] · Agent Mode · Launch
 - [[Changes/Cursor/2026-05-13-environment-governance-and-security-controls|Environment governance and security controls]] · Safety and Privacy · Launch

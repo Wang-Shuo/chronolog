@@ -16,8 +16,8 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
-kind: launch
-machine_hash: c1bbdfed7cbb99d37f31659942923be686c5d16c5e196c165b64c13713c4bc3d
+kind: change
+machine_hash: 5ec9dfec3333fe3a041e7bd4b45af8675eb4f73a7e682e0bf1acdd1916e0492e
 product: cursor
 product_name: Cursor
 record:
@@ -33,7 +33,7 @@ record:
     source_release: https://cursor.com/changelog/05-04-26
   extractor_version: fallback-v5
   impact: incremental
-  kind: launch
+  kind: change
   product: cursor
   product_name: Cursor
   slug: updated-usage-analytics-tab
@@ -59,7 +59,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Updated usage analytics tab
 
-**Cursor** · 2026-05-04 · [[Themes/editor-experience|Editor Experience]] · Launch · [Official source](https://cursor.com/changelog/05-04-26) · from [[Releases/Cursor/cursor-2026-05-04-model-controls-spend-management-and-usage-analytics-https-cursor-1ab41047|Model controls, spend management, and usage analytics]]
+**Cursor** · 2026-05-04 · [[Themes/editor-experience|Editor Experience]] · [Official source](https://cursor.com/changelog/05-04-26) · from [[Releases/Cursor/cursor-2026-05-04-model-controls-spend-management-and-usage-analytics-https-cursor-1ab41047|Model controls, spend management, and usage analytics]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->

@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9c1b505ee2f7b0dcc8d7c1412772302da09d11f85e129a20c079b80d0f61f704
+machine_hash: 3ff422bce3e01a59d1ca844fe16caa12b3a67f6f5a39f982ef73a5acd4499e0f
 product: cursor
 product_name: Cursor
 record:
@@ -78,6 +78,7 @@ type: change
 - [[Changes/Cursor/2026-03-03-the-content-from-your-plan-files-are-now-included-in-autocomplete-suggestions-as|The content from your plan files are now included in autocomplete suggestions as you…]] · Interface Experience
 - [[Changes/Cursor/2026-03-03-this-release-introduces-interactive-uis-in-agent-chats-a-way-for-teams-to-share|Cursor introduces interactive UIs in agent chats, a way for teams to share private…]] · Developer Workflow
 - [[Changes/Cursor/2026-03-03-agent-workflows-are-faster-and-more-predictable-for-multi-file-edits-and-pr-heav|Agent workflows are faster and more predictable for multi-file edits and PR-heavy tasks]] · Editor Experience
+- [[Changes/Cursor/2026-03-03-3-other-changes-in-2-6|3 other changes in 2.6]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

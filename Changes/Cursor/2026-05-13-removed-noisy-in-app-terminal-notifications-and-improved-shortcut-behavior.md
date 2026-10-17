@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e3627f689fe79aa0260e0eb8ff9cac72366628bea56c5adeda75589438d586c1
+machine_hash: 59d539c927f8e22aa92dafcde3cf45be75bd0331f5db3f4262956fc8fe06b23e
 product: cursor
 product_name: Cursor
 record:
@@ -74,6 +74,7 @@ type: change
 - [[Changes/Cursor/2026-05-13-this-release-introduces-quality-of-life-improvements-to-the-agents-window|Cursor introduces quality-of-life improvements to the Agents Window]] · Agent Mode
 - [[Changes/Cursor/2026-05-13-3-interface-experience-changes-in-3-4|3 Interface Experience changes in 3.4]] · Interface Experience
 - [[Changes/Cursor/2026-05-13-full-screen-tabs-faa5d2|Full-screen tabs]] · Interface Experience
+- [[Changes/Cursor/2026-05-13-2-other-changes-in-3-4|2 other changes in 3.4]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

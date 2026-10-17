@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2ad0afacff9b8d26dcceedd3b060363db1ca63a05ca3eda9a7d32037bbc73770
+machine_hash: 284a5e83719349fd633c4c7da61f543f0aae67b332270f70ac7906d65a3ae453
 product: claude-code
 product_name: Claude Code
 record:
@@ -78,6 +78,7 @@ type: change
 - [[Changes/Claude Code/2026-08-18-improved-the-context-limit-error-to-say-when-auto-compact-is-off-and-point-to-co|Improved the context-limit error to say when auto-compact is off and point…]] · Context Window
 - [[Changes/Claude Code/2026-08-18-remote-control-claude-rc-now-applies-the-same-enterprise-gateway-availability-ch|Remote Control: claude rc now applies the same enterprise-gateway availability…]] · Enterprise and Administration
 - [[Changes/Claude Code/2026-08-18-2-safety-and-privacy-changes-in-v2-1-235|2 Safety and Privacy changes in v2.1.235]] · Safety and Privacy
+- [[Changes/Claude Code/2026-08-18-4-other-changes-in-v2-1-235|4 other changes in v2.1.235]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ffbc13428513dd9429ea6c72d5d147bbb08f453b4d1ec6f5a8cb5c8bba76d764
+machine_hash: c772aaab1a3c260cdb5c499bd53092fc811087deccd3f2d75dc91708fa2c6dc5
 product: claude-code
 product_name: Claude Code
 record:
@@ -84,6 +84,7 @@ type: change
 - [[Changes/Claude Code/2026-04-07-improved-resume-to-resume-sessions-from-other-worktrees-of-the-same-repo-directl|Improved --resume to resume sessions from other worktrees of the same repo…]] · Projects and Workspaces
 - [[Changes/Claude Code/2026-04-07-vscode-added-a-warning-banner-when-settings-json-files-fail-to-parse-so-users-kn|VSCode Added a warning banner when settings.json files fail to parse, so users…]] · Safety and Privacy
 - [[Changes/Claude Code/2026-04-07-5-apps-and-integrations-changes-in-v2-1-94|5 Apps and Integrations changes in v2.1.94]] · Apps and Integrations
+- [[Changes/Claude Code/2026-04-07-vscode-reduced-cold-open-subprocess-work-on-starting-a-session|VSCode Reduced cold-open subprocess work on starting a session]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

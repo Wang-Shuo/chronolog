@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 48a0f77da9192df651a71185e1b6bd68e57bb55fe0e49bf26d05abbc79c1aba1
+machine_hash: 7a3f69c171aee7765b415fb232a59a532483e6505c0fdc1687b9c1407402d31c
 product: claude-code
 product_name: Claude Code
 record:
@@ -87,6 +87,7 @@ type: change
 - [[Changes/Claude Code/2026-04-15-2-interface-experience-changes-in-v2-1-110|2 Interface Experience changes in v2.1.110]] · Interface Experience
 - [[Changes/Claude Code/2026-04-15-4-apps-and-integrations-changes-in-v2-1-110|4 Apps and Integrations changes in v2.1.110]] · Apps and Integrations
 - [[Changes/Claude Code/2026-04-15-2-editor-experience-changes-in-v2-1-110|2 Editor Experience changes in v2.1.110]] · Editor Experience
+- [[Changes/Claude Code/2026-04-15-session-recap-is-now-enabled-for-users-with-telemetry-disabled-bedrock-vertex-fo|Session recap is now enabled for users with telemetry disabled…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

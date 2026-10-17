@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 525f39e34400d5666e0303999d9da150ab0486a66882d2026aef28c00df9a54b
+machine_hash: 6c13d1b5ea8abea98dc99ed5225bc0c56452bcfd07a1b9e818590b4e4a75db2b
 product: cursor
 product_name: Cursor
 record:
@@ -97,6 +97,7 @@ Source: https://cursor.com/changelog/2-0
 - [[Changes/Cursor/2025-10-29-team-commands|Team Commands]] · Collaboration
 - [[Changes/Cursor/2025-10-29-improved-prompt-ui|Improved Prompt UI]] · Context Window
 - [[Changes/Cursor/2025-10-29-sandboxed-terminals-admin-controls|Sandboxed Terminals: Admin Controls]] · Enterprise and Administration
+- [[Changes/Cursor/2025-10-29-notepads-have-been-deprecated|Notepads have been deprecated]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

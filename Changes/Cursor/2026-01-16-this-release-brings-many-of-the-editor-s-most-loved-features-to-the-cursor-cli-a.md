@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: dc5b6c93841b1e75485e00ad2ddbd07c55910b612f252c270e5db758b5bd634a
+machine_hash: aa0cd7a84baef8891676d314b5afc16c01c6946d2519bd9dc9243e0a0fcc1a8f
 product: cursor
 product_name: Cursor
 record:
@@ -83,6 +83,8 @@ type: change
 - [[Changes/Cursor/2026-01-16-use-ask-mode-to-explore-code-without-making-changes-just-like-in-the-editor-star|Ask mode in CLI]] · Editor Experience
 - [[Changes/Cursor/2026-01-16-2-interface-experience-changes-in-cli-agent-modes-and-cloud-handoff|2 Interface Experience changes in CLI Agent Modes and Cloud Handoff]] · Interface Experience
 - [[Changes/Cursor/2026-01-16-added-hooks-for-session-start-end-prompt-and-stop-for-customizing-agent-lifecycl|Added hooks for session start/end, prompt, and stop for customizing agent lifecycle events]] · Agent Mode
+- [[Changes/Cursor/2026-01-16-list-removed-use-resume-to-see-all-prior-conversations|/list removed. Use /resume to see all prior conversations]] · Other changes
+- [[Changes/Cursor/2026-01-16-added-about-for-seeing-basic-details-about-your-environment-and-cursor-cli-setup|Added /about for seeing basic details about your environment and Cursor CLI setup]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

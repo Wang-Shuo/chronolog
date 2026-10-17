@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 022682837779e9b2d345adb67c417b6e70dd57701efcc891b2e4060262f0f638
+machine_hash: 218315052020a8727e3534ef256dba14d8cc34eead6fe25e93e67aac021de7f7
 product: cursor
 product_name: Cursor
 record:
@@ -87,6 +87,7 @@ type: change
 - [[Changes/Cursor/2025-12-10-system-notification-actions-for-terminal-and-mcp-approval-rejection|System notification actions for terminal and MCP approval/rejection]] · Apps and Integrations
 - [[Changes/Cursor/2025-12-10-pinned-chats|Pinned chats]] · Interface Experience
 - [[Changes/Cursor/2025-12-10-agent-plans-are-now-files-that-can-be-edited-with-normal-tools|Agent plans are now files that can be edited with normal tools]] · Agent Mode
+- [[Changes/Cursor/2025-12-10-4-other-changes-in-2-2|4 other changes in 2.2]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3ae364b4b123dc36273b939d841d97d248e9b219395ccb79a1ca60fe31c2f6f0
+machine_hash: cd389f40ad776fb151dab68d56cc60f7ab8d1fe9912a9ad2a7097590180176f8
 product: claude-code
 product_name: Claude Code
 record:
@@ -101,6 +101,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.128
 - [[Changes/Claude Code/2026-05-04-sdk-hosts-now-receive-a-persistent-localsettings-suggestion-for-bash-permission|SDK hosts now receive a persistent localSettings suggestion for Bash permission…]] · Safety and Privacy
 - [[Changes/Claude Code/2026-05-04-updated-model-picker-collapsed-duplicate-opus-4-7-entries-and-current-opus-now-s|Updated /model picker]] · Model Support
 - [[Changes/Claude Code/2026-05-04-channels-now-works-with-console-api-key-authentication-console-orgs-with-managed|--channels now works with console (API key) authentication]] · Account and Access
+- [[Changes/Claude Code/2026-05-04-enterworktree-now-creates-the-new-branch-from-local-head-as-documented-instead-o|EnterWorktree now creates the new branch from local HEAD as documented, instead…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

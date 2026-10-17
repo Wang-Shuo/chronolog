@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0e2942f2091c59649fe843ac20211ae644618dfffec57716930a453938a55563
+machine_hash: 95e4c4a1b826577ba0bc0220c10baa6629a0fde6d4c2516074d85c5ee7e6f3be
 product: cursor
 product_name: Cursor
 record:
@@ -78,6 +78,7 @@ type: change
 - [[Changes/Cursor/2026-06-04-improved-the-agent-s-ability-to-fix-canvas-type-errors|Improved the agent's ability to fix canvas type errors]] · Files and Data
 - [[Changes/Cursor/2026-06-04-with-canvases-agents-can-create-interactive-artifacts-like-dashboards-reports-an|With canvases, agents can create interactive artifacts like dashboards, reports…]] · Collaboration
 - [[Changes/Cursor/2026-06-04-context-usage-report-in-canvas-d08e2a|Context usage report in canvas]] · Context Window
+- [[Changes/Cursor/2026-06-04-improved-component-styling-and-added-more-chart-customization-functionality|Improved component styling, and added more chart customization functionality]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

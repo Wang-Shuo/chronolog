@@ -16,8 +16,8 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
-kind: launch
-machine_hash: f6b149252325242dc164b18d35eaaba32ecb4215a1cc5ac02d3ca95f99940dee
+kind: change
+machine_hash: 7ca564bdbac010a2dd789a5cbf6de02b9e149e0fdb9c51496c9807d201f3d43d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,7 +38,7 @@ record:
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v5
   impact: incremental
-  kind: launch
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: improved-search-capability-and-instruction-following
@@ -66,7 +66,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Improved search capability and instruction following
 
-**ChatGPT** · 2025-06-13 · [[Themes/reliability-performance|Reliability and Performance]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-06-13-improvements-to-the-chatgpt-search-response-quality-2791e464|Improvements to the ChatGPT search response quality]]
+**ChatGPT** · 2025-06-13 · [[Themes/reliability-performance|Reliability and Performance]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-06-13-improvements-to-the-chatgpt-search-response-quality-2791e464|Improvements to the ChatGPT search response quality]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -84,6 +84,7 @@ type: change
 
 - [[Changes/ChatGPT/2025-06-13-we-ve-upgraded-chatgpt-search-for-all-users-to-provide-even-more-comprehensive-u|We’ve upgraded ChatGPT search for all users to provide even more comprehensive…]] · Search and Browsing
 - [[Changes/ChatGPT/2025-06-13-in-some-cases-a-chain-of-thought-reasoning-will-show-up-unexpectedly-for-simple|In some cases, a “chain of thought” reasoning will show up unexpectedly for simple queries]] · Model Support
+- [[Changes/ChatGPT/2025-06-13-2-other-changes-in-improvements-to-the-chatgpt-search|2 other changes in Improvements to the ChatGPT search…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

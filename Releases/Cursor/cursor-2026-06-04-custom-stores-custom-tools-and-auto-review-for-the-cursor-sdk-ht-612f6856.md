@@ -1,9 +1,9 @@
 ---
-changes_count: 12
+changes_count: 13
 date: '2026-06-04'
 description: 'Cursor release Custom stores, custom tools, and auto-review for the
-  Cursor SDK on 2026-06-04: 12 tracked changes across Agent Mode, Apps and Integrations…'
-machine_hash: 6207be12c5d449ca5a1b2bdd385b7cb94e0d814abded42aeddee8ff49e618a28
+  Cursor SDK on 2026-06-04: 13 tracked changes across Agent Mode, Apps and Integrations…'
+machine_hash: 98f5e183fe99fa6d08f0d65961d305f8ed4a8ab9223fc5e2ecfc65888bdd1c32
 product: cursor
 product_name: Cursor
 record:
@@ -41,7 +41,7 @@ version: Custom stores, custom tools, and auto-review for the Cursor SDK
 <!-- chronolog:begin region="summary" -->
 We've shipped a batch of new functionality across the TypeScript and Python SDKs. You can now choose how agent and run metadata is persisted, expose your own functions to the agent as tools, route local tool calls through auto-review, and nest subagents to any depth. This release also brings a set of reliability…
 
-Tracked 12 cards from 29 candidate lines; 1 line pending review.
+Tracked 13 cards from 29 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
@@ -58,4 +58,5 @@ Tracked 12 cards from 29 candidate lines; 1 line pending review.
 - [[Changes/Cursor/2026-06-04-2-apps-and-integrations-changes-in-custom-stores-custom-tools|2 Apps and Integrations changes in Custom stores, custom tools…]] · Apps and Integrations · Digest
 - [[Changes/Cursor/2026-06-04-5-agent-mode-changes-in-custom-stores-custom-tools|5 Agent Mode changes in Custom stores, custom tools…]] · Agent Mode · Digest
 - [[Changes/Cursor/2026-06-04-0-1-6-release-and-analytics-cursor-sdk-0-1-6-documents-the-buildkite-release-pat|0.1.6 release and analytics]] · Files and Data
+- [[Changes/Cursor/2026-06-04-self-contained-typescript-types-published-d-ts-files-no-longer-reference-unpubli|Self-contained TypeScript types]] · Other changes
 <!-- chronolog:end -->

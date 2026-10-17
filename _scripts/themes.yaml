@@ -124,3 +124,10 @@ themes:
     aliases: [interactive-website, site-builder, create-sites, generated-artifacts]
     category: capability
     status: official
+  # Holding theme: list lines without a confident theme, published per release in an
+  # "Other changes" digest. No aliases, no theme page, never a review decision target.
+  - slug: uncategorized
+    display_name: Other changes
+    aliases: []
+    category: other
+    status: holding

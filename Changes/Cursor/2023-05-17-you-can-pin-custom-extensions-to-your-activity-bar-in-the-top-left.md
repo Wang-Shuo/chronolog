@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 065440d9c1183bc9864af21154676dc58fb8f40d8745c372c042fa9117359f70
+machine_hash: d4ecd139df6686ac2e4a08ca8e953f9de49f1bdba7c14b624b8a562066c11422
 product: cursor
 product_name: Cursor
 record:
@@ -76,6 +76,7 @@ type: change
 - [[Changes/Cursor/2023-05-17-diff-generate-improvements|Diff/Generate improvements]] · Editor Experience
 - [[Changes/Cursor/2023-05-17-remote-ssh-is-easier-to-use|Remote SSH is easier to use!]] · Developer Workflow
 - [[Changes/Cursor/2023-05-17-in-terminal-debugging-f140b2|In-terminal Debugging]] · Developer Workflow
+- [[Changes/Cursor/2023-05-17-2-other-changes-in-0-2-16|2 other changes in 0.2.16]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

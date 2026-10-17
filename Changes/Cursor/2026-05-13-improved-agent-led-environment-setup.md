@@ -16,8 +16,8 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
-kind: launch
-machine_hash: 7db5682488741d6c122486cfebee613e1ed4b566234f106bd11e43d10e493fcb
+kind: change
+machine_hash: 2fba1e805803468dabb65aa75caf41a99c8bce31f9bebc01cd63ef7dd46bfd08
 product: cursor
 product_name: Cursor
 record:
@@ -40,7 +40,7 @@ record:
     source_release: https://cursor.com/changelog/05-13-26
   extractor_version: fallback-v5
   impact: paradigm-shift
-  kind: launch
+  kind: change
   product: cursor
   product_name: Cursor
   slug: improved-agent-led-environment-setup
@@ -66,7 +66,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Improved agent-led environment setup
 
-**Cursor** · 2026-05-13 · [[Themes/agent-mode|Agent Mode]] · Launch · [Official source](https://cursor.com/changelog/05-13-26) · from [[Releases/Cursor/cursor-2026-05-13-3-4-https-cursor-com-changelog-05-13-26-685b1c4c|Development environments for cloud agents]]
+**Cursor** · 2026-05-13 · [[Themes/agent-mode|Agent Mode]] · [Official source](https://cursor.com/changelog/05-13-26) · from [[Releases/Cursor/cursor-2026-05-13-3-4-https-cursor-com-changelog-05-13-26-685b1c4c|Development environments for cloud agents]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->

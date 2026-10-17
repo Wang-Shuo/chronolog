@@ -1,9 +1,9 @@
 ---
-changes_count: 7
+changes_count: 8
 date: '2026-06-04'
 description: 'Cursor release Canvas Design Mode and Context Usage Report on 2026-06-04:
-  7 tracked changes across Context Window, Files and Data, Agent Mode, Collaboration…'
-machine_hash: 00d649c20aa402b2705a92599e4ede7684f5a6b061d0ea0ed8b562785224b2cb
+  8 tracked changes across Context Window, Files and Data, Agent Mode, Collaboration…'
+machine_hash: 3ca2d12c84284f1aebe4246b5636f72d2faa70e1cc297ca736005b126cf0cbf8
 product: cursor
 product_name: Cursor
 record:
@@ -39,7 +39,7 @@ version: '3.7'
 <!-- chronolog:begin region="summary" -->
 With canvases, agents can create interactive artifacts like dashboards, reports, and internal tools that you can share with your team.
 
-Tracked 7 cards from 12 candidate lines; 1 line pending review.
+Tracked 8 cards from 12 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
@@ -51,4 +51,5 @@ Tracked 7 cards from 12 candidate lines; 1 line pending review.
 - [[Changes/Cursor/2026-06-04-shared-canvases-can-now-be-opened-full-screen-in-the-browser-making-them-easier|Shared canvases can now be opened full-screen in the browser, making them easier…]] · Interface Experience
 - [[Changes/Cursor/2026-06-04-with-canvases-agents-can-create-interactive-artifacts-like-dashboards-reports-an|With canvases, agents can create interactive artifacts like dashboards, reports…]] · Collaboration
 - [[Changes/Cursor/2026-06-04-context-usage-report-in-canvas-d08e2a|Context usage report in canvas]] · Context Window · Launch
+- [[Changes/Cursor/2026-06-04-improved-component-styling-and-added-more-chart-customization-functionality|Improved component styling, and added more chart customization functionality]] · Other changes
 <!-- chronolog:end -->

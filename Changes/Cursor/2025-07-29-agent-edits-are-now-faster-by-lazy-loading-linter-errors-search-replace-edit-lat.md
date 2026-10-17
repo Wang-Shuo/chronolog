@@ -17,8 +17,8 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
-kind: launch
-machine_hash: b66549d2588795cee4409bdd8cb15b28487d28b2b0dd9d38f0d88fa1278146bf
+kind: change
+machine_hash: c969e305fbc585c5900f0a6fb6010746ff0db3a6d5db6b86edaddde9230de0f9
 product: cursor
 product_name: Cursor
 record:
@@ -36,7 +36,7 @@ record:
     source_release: https://cursor.com/changelog/1-3
   extractor_version: fallback-v5
   impact: paradigm-shift
-  kind: launch
+  kind: change
   product: cursor
   product_name: Cursor
   slug: faster-edits
@@ -62,7 +62,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Faster edits
 
-**Cursor** · 2025-07-29 · [[Themes/reliability-performance|Reliability and Performance]] · Launch · [Official source](https://cursor.com/changelog/1-3) · from [[Releases/Cursor/cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3|Shared terminal with Agent, context usage in chat, and faster edits]]
+**Cursor** · 2025-07-29 · [[Themes/reliability-performance|Reliability and Performance]] · [Official source](https://cursor.com/changelog/1-3) · from [[Releases/Cursor/cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3|Shared terminal with Agent, context usage in chat, and faster edits]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -83,6 +83,7 @@ type: change
 - [[Changes/Cursor/2025-07-29-2-reliability-and-performance-changes-in-1-3|2 Reliability and Performance changes in 1.3]] · Reliability and Performance
 - [[Changes/Cursor/2025-07-29-2-developer-workflow-changes-in-1-3|2 Developer Workflow changes in 1.3]] · Developer Workflow
 - [[Changes/Cursor/2025-07-29-allow-team-admins-to-configure-an-extension-allowlist|Allow team admins to configure an extension allowlist]] · Collaboration
+- [[Changes/Cursor/2025-07-29-3-other-changes-in-1-3|3 other changes in 1.3]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

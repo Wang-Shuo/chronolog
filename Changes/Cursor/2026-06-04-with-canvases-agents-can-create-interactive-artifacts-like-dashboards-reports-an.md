@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9665365330e5290146e3f20792d40d2e668f0b244ad94223bc972ebf51e42d00
+machine_hash: 9192607d6d753a73d588937ef92954512af8fd0a8bf59cfd5d5c41f2f8dd9c6e
 product: cursor
 product_name: Cursor
 record:
@@ -85,6 +85,7 @@ type: change
 - [[Changes/Cursor/2026-06-04-improved-the-agent-s-ability-to-fix-canvas-type-errors|Improved the agent's ability to fix canvas type errors]] · Files and Data
 - [[Changes/Cursor/2026-06-04-shared-canvases-can-now-be-opened-full-screen-in-the-browser-making-them-easier|Shared canvases can now be opened full-screen in the browser, making them easier…]] · Interface Experience
 - [[Changes/Cursor/2026-06-04-context-usage-report-in-canvas-d08e2a|Context usage report in canvas]] · Context Window
+- [[Changes/Cursor/2026-06-04-improved-component-styling-and-added-more-chart-customization-functionality|Improved component styling, and added more chart customization functionality]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

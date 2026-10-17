@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 56277e2f2aaa2fca7462432c596b11f05c0a84c12d1e9798a52eb1eacec509c0
+machine_hash: b2fb35b3efac4597376380fd8a9691ce50773b88055ad41d325a394e3d5f0c1d
 product: claude-code
 product_name: Claude Code
 record:
@@ -87,6 +87,7 @@ type: change
 - [[Changes/Claude Code/2026-02-17-vscode-improved-permission-destination-choice-project-user-session-to-persist-ac|VSCode Improved permission destination choice (project/user/session) to persist…]] · Safety and Privacy
 - [[Changes/Claude Code/2026-02-17-added-spinnertipsoverride-setting-to-customize-spinner-tips-configure-tips-with|Added spinnerTipsOverride setting to customize spinner tips]] · Interface Experience
 - [[Changes/Claude Code/2026-02-17-2-apps-and-integrations-changes-in-v2-1-45|2 Apps and Integrations changes in v2.1.45]] · Apps and Integrations
+- [[Changes/Claude Code/2026-02-17-improved-collapsed-read-search-groups-to-show-the-current-file-or-search-pattern|Improved collapsed read/search groups to show the current file or search pattern…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

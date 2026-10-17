@@ -56,6 +56,12 @@ def official_themes(themes_path: str | Path) -> set[str]:
     return {theme["slug"] for theme in data["themes"] if theme.get("status") == "official"}
 
 
+def holding_themes(themes_path: str | Path) -> set[str]:
+    """Themes that hold published cards without a theme page ("Other changes")."""
+    data = read_yaml(Path(themes_path))
+    return {theme["slug"] for theme in data["themes"] if theme.get("status") == "holding"}
+
+
 def expected_card_id(card: dict[str, Any]) -> str:
     """Recompute a card's identity from its evidence and extractor version."""
     quotes = [str(item["quote"]) for item in card["evidence"]]
@@ -84,7 +90,7 @@ def validate_card(card: dict[str, Any], themes: set[str]) -> list[str]:
         errors.append("date must be a valid ISO or feed date")
     if card.get("theme") not in themes:
         if card.get("theme") != "__candidate__" or not card.get("theme_suggestion"):
-            errors.append("theme must be official or candidate with suggestion")
+            errors.append("theme must be official, holding or candidate with suggestion")
     if card.get("impact") not in IMPACTS:
         errors.append("impact is invalid")
     evidence = card.get("evidence")
@@ -124,7 +130,8 @@ def validate_cards_file(
     themes_path: str | Path,
 ) -> dict[str, int]:
     payload = read_json(source)
-    themes = official_themes(themes_path)
+    # Cards may take an official or a holding theme; review decisions name official ones.
+    themes = official_themes(themes_path) | holding_themes(themes_path)
     valid = []
     pending_theme_review = []
     failed = []

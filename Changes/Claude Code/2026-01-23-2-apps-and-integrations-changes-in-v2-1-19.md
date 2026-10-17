@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8bdd606b3a20a09c8f8376e748ba1358d7a071aca9e716deba4678c628bdd9bc
+machine_hash: 48b100ffce6c1520ed57af7964a6c5c408b93d91c03f2172de81d87e3a486c28
 product: claude-code
 product_name: Claude Code
 record:
@@ -78,6 +78,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.19
 
 - [[Changes/Claude Code/2026-01-23-2-developer-workflow-changes-in-v2-1-19|2 Developer Workflow changes in v2.1.19]] · Developer Workflow
 - [[Changes/Claude Code/2026-01-23-added-env-var-claude-code-enable-tasks-set-to-false-to-keep-the-old-system-tempo|Added env var CLAUDE_CODE_ENABLE_TASKS, set to false to keep the old system…]] · Agent Mode
+- [[Changes/Claude Code/2026-01-23-vscode-enabled-session-forking-and-rewind-functionality-for-all-users|VSCode Enabled session forking and rewind functionality for all users]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

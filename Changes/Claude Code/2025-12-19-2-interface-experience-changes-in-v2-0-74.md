@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f76dd2cdcd47b372f2723d73db9abb0e56e585d217f83678271d656dba50e0e5
+machine_hash: 8ab3eaefbfb55e98b26091ef9f71141e64d677d229188316de8c5b32a72f1e46
 product: claude-code
 product_name: Claude Code
 record:
@@ -77,6 +77,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.0.74
 - [[Changes/Claude Code/2025-12-19-added-terminal-setup-support-for-kitty-alacritty-zed-and-warp-terminals|Added /terminal-setup support for Kitty, Alacritty, Zed, and Warp terminals]] · Developer Workflow
 - [[Changes/Claude Code/2025-12-19-added-guidance-for-macos-users-when-alt-shortcuts-fail-due-to-terminal-configura|Added guidance for macOS users when Alt shortcuts fail due to terminal configuration]] · Mobile and Desktop
 - [[Changes/Claude Code/2025-12-19-improved-context-command-visualization-with-grouped-skills-and-agents-by-source|Improved /context command visualization with grouped skills and agents by source…]] · Context Window
+- [[Changes/Claude Code/2025-12-19-vscode-added-gift-tag-pictogram-for-year-end-promotion-message|VSCode Added gift tag pictogram for year-end promotion message]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

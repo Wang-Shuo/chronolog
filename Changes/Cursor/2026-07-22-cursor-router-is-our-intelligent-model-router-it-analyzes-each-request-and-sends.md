@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c052b1210da54fade3e895f753f89feeac9a74e8399d2c91cad8d69f741101ed
+machine_hash: d3e535858221ceb7122ce9b69d9568571734774b3b00c4c17a09adbd17cf7a47
 product: cursor
 product_name: Cursor
 record:
@@ -80,6 +80,7 @@ type: change
 - [[Changes/Cursor/2026-07-22-auto-mode-is-now-powered-by-cursor-router|Auto mode is now powered by Cursor Router]] · Agent Mode
 - [[Changes/Cursor/2026-07-22-routed-model-can-be-displayed-or-hidden-hidden-by-default|Routed model can be displayed or hidden (hidden by default)]] · Model Support
 - [[Changes/Cursor/2026-07-22-optimization-modes-e62142|Optimization modes]] · Model Support
+- [[Changes/Cursor/2026-07-22-2-other-changes-in-cursor-router|2 other changes in Cursor Router]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

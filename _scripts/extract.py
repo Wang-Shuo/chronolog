@@ -71,11 +71,12 @@ BUGFIX_TEXT_RE = re.compile(
     r"\bbugs? .{0,40}\bsquashed\b|\bsupport has been restored\b)",
     re.I,
 )
-# A surface tag or short label before a fix ("[VSCode] Fixed ...", "Windows: Fixed ...").
+# A surface tag, short label or patch version before a fix ("[VSCode] Fixed ...",
+# "Windows: Fixed ...", "1.7.13: Bug fixes").
 FIX_LABEL_PREFIX_RE = re.compile(
     r"^(?:(?:\[[^\]]{1,40}\]\s*)+(?:[A-Z][\w .-]{0,30}:\s+)?|[A-Z][\w .-]{0,30}:\s+|"
     r"v?\d+(?:\.\d+)+(?:\s*[-–]\s*v?\d+(?:\.\d+)+)?\s*[:\-–]\s+)"
-    r"(?=(?:fixed|fix(?:es)?|resolved|reverted)\b)",
+    r"(?=(?:fixed|fix(?:es)?|resolved|reverted|bug ?fix(?:es)?)\b)",
     re.I,
 )
 SECURITY_FIX_RE = re.compile(
@@ -442,9 +443,16 @@ def contains_phrase(normalized_text: str, normalized_phrase: str) -> bool:
 
 
 def load_theme_vocabulary(path: str | Path) -> dict[str, dict[str, Any]]:
+    """Themes by slug with their match terms. A holding theme has no terms: it is
+    assigned by card structure, never matched by words."""
     data = read_yaml(Path(path))
     vocab = {}
     for theme in data["themes"]:
+        if theme.get("status") == "holding":
+            vocab[theme["slug"]] = {
+                **theme, "canonical_terms": set(), "alias_terms": set(), "terms": set()
+            }
+            continue
         canonical_terms = {
             normalize_match_text(theme["slug"]),
             normalize_match_text(theme["display_name"]),
@@ -473,11 +481,13 @@ def load_review_decisions(
         str(card_id): str(disposition)
         for card_id, disposition in (payload.get("decisions") or {}).items()
     }
+    # Decisions name official themes only; a holding theme is never a review outcome.
     invalid = sorted(
         {
             disposition
             for disposition in decisions.values()
-            if disposition != "skip" and disposition not in themes
+            if disposition != "skip"
+            and (disposition not in themes or themes[disposition].get("status") == "holding")
         }
     )
     if invalid:
@@ -977,7 +987,8 @@ def card_title(line: str, product_name: str) -> str:
 # - consecutive preamble paragraphs about one theme become one card;
 # - list mode (generic headings, long preamble lists, GitHub releases) keeps each
 #   line classified on its own, publishes high-signal lines as standalone cards and
-#   folds the rest into one digest card per theme per release.
+#   folds the rest into one digest card per theme per release; lines without a
+#   confident theme take the holding theme and fold into an "Other changes" digest.
 #
 # Review decisions keyed by a line's identity apply to that line wherever it lands;
 # a decision keyed by a card's identity applies to the whole card.
@@ -1042,6 +1053,11 @@ TITLE_DATE_SUFFIX_RE = re.compile(r"\s*\(\d{4}-\d{2}-\d{2}\)$")
 # Cursor changelog URLs name versioned releases "0-48-x" or "1-1".
 CURSOR_VERSION_SLUG_RE = re.compile(r"^\d+(?:-\d+)*(?:-x)?$")
 DIGEST_LABEL_MAX_CHARS = 40
+# Holding theme (themes.yaml ``status: holding``): list lines without a confident theme
+# are published in one "Other changes" digest per release instead of the review queue.
+# Holding cards appear on Release and product pages, never on theme pages or the home page.
+UNCATEGORIZED_THEME = "uncategorized"
+HOLDING_THEMES = frozenset({UNCATEGORIZED_THEME})
 
 KIND_LABELS = {
     "launch": "Launch",
@@ -1054,6 +1070,11 @@ KIND_LABELS = {
 }
 KINDS = frozenset(KIND_LABELS)
 KIND_FIX_RE = re.compile(r"^(?:fixed\b|fix:)", re.I)
+# Feature headings that name an improvement or a fix rather than a new capability.
+KIND_CHANGE_HEADING_RE = re.compile(
+    r"^(?:improved|improvements?|improving|better|faster|updated|updates?)\b", re.I
+)
+KIND_FIX_HEADING_RE = re.compile(r"^(?:fixed|fix(?:es)?)\b", re.I)
 KIND_POLICY_RE = re.compile(
     r"\b(?:deprecat\w*|retir(?:e|es|ed|ing|ement)|sunset\w*|end[- ]of[- ]life|"
     r"no longer (?:be )?(?:available|supported|offered)|"
@@ -1212,7 +1233,15 @@ def card_kind(texts: list[str], theme: str, *, feature: bool = False) -> str:
     """Kind of a non-digest card from its lead text (heading and first paragraph).
 
     Precedence: fix, policy, expansion, launch wording, pricing theme, feature section.
+    A feature section is a fix or a change when its heading opens with a fix word
+    ("Fixed …") or an improvement word ("Improved …", "Faster …", "Updates to …").
     """
+    if feature and texts and texts[0]:
+        heading = texts[0].strip()
+        if KIND_FIX_HEADING_RE.match(heading):
+            return "fix"
+        if KIND_CHANGE_HEADING_RE.match(heading):
+            return "change"
     leads = [_first_sentence(text) for text in texts if text]
     if not feature and leads and KIND_FIX_RE.match(FIX_LABEL_PREFIX_RE.sub("", leads[0], count=1)):
         return "fix"
@@ -1540,8 +1569,17 @@ class _ReleaseCards:
         self.paragraph_runs(paragraphs)
 
     def list_mode(self) -> None:
+        """High-signal lines stay standalone; the other lines of one theme form a digest.
+
+        A line without a confident theme takes the holding theme when the vocabulary
+        declares it, so list items never wait in the review queue: they join the
+        release's "Other changes" digest (or stay standalone like any other line).
+        """
+        holding = UNCATEGORIZED_THEME in self.themes
         by_theme: dict[str, list[dict[str, Any]]] = {}
         for item in self.list_items:
+            if holding and item["classification"]["theme"] == "__candidate__":
+                item["classification"] = {**item["classification"], "theme": UNCATEGORIZED_THEME}
             theme = item["classification"]["theme"]
             if theme == "__candidate__" or is_high_signal(item["text"]):
                 self.single(item, "list")
@@ -1614,7 +1652,8 @@ class _ReleaseCards:
         origin = draft["origin"]
         primary = quotes[0]
         if origin == "digest":
-            display = theme_display_name(theme, self.themes)
+            # "12 Agent Mode changes in v2.1.300"; a holding digest reads "12 other changes".
+            display = "other" if theme in HOLDING_THEMES else theme_display_name(theme, self.themes)
             title = digest_title(len(quotes), display, digest_release_label(release))
             slug_source = title
             kind = "digest"

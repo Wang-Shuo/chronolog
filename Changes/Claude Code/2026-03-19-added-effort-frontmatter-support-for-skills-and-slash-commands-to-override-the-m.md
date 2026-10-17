@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 44078b08870708cf76ec76f25503803a1b6fa0e51f20e55dc18654f5120ff5f1
+machine_hash: 2d018760c3381cd62b3b69df011ef15a5bd8390ca6092bd3437a8037dfe7ca85
 product: claude-code
 product_name: Claude Code
 record:
@@ -76,6 +76,7 @@ type: change
 - [[Changes/Claude Code/2026-03-19-improved-permissions-tab-and-arrow-keys-now-switch-tabs-from-within-a-list|Improved /permissions — Tab and arrow keys now switch tabs from within a list]] · Editor Experience
 - [[Changes/Claude Code/2026-03-19-reduced-memory-usage-on-startup-in-large-repositories-80-mb-saved-on-250k-file-r|Reduced memory usage on startup in large repositories (~80 MB saved on 250k-file repos)]] · Reliability and Performance
 - [[Changes/Claude Code/2026-03-19-2-interface-experience-changes-in-v2-1-80|2 Interface Experience changes in v2.1.80]] · Interface Experience
+- [[Changes/Claude Code/2026-03-19-2-other-changes-in-v2-1-80|2 other changes in v2.1.80]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

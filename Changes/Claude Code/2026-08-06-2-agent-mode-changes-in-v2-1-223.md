@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 149673451bb609218e11b29ad67e8bfafbd99f0e9005d8ba4570f1d2fedeb1c4
+machine_hash: 69807969e7361fcb04bf84a4924f9b3f612e6d47a848f2e53d92f7704dd00fc6
 product: claude-code
 product_name: Claude Code
 record:
@@ -79,6 +79,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.223
 - [[Changes/Claude Code/2026-08-06-2-developer-workflow-changes-in-v2-1-223|2 Developer Workflow changes in v2.1.223]] · Developer Workflow
 - [[Changes/Claude Code/2026-08-06-2-context-window-changes-in-v2-1-223|2 Context Window changes in v2.1.223]] · Context Window
 - [[Changes/Claude Code/2026-08-06-3-safety-and-privacy-changes-in-v2-1-223|3 Safety and Privacy changes in v2.1.223]] · Safety and Privacy
+- [[Changes/Claude Code/2026-08-06-added-owner-wildcard-entries-owner-to-the-strictknownmarketplaces-and-blockedmar|Added owner wildcard entries ("owner/") to the strictKnownMarketplaces…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

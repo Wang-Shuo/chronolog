@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 47fa039834fe43ff0d31dff07e4cd6588305f65c1b07eb0bb7db9d03cdfacdd5
+machine_hash: 5c32ec9b98a850e29c12dada9ceb3ac3237f0665f7c1baf044eefdbee52b2f82
 product: claude-code
 product_name: Claude Code
 record:
@@ -73,6 +73,7 @@ type: change
 - [[Changes/Claude Code/2025-12-19-2-interface-experience-changes-in-v2-0-74|2 Interface Experience changes in v2.0.74]] · Interface Experience
 - [[Changes/Claude Code/2025-12-19-added-guidance-for-macos-users-when-alt-shortcuts-fail-due-to-terminal-configura|Added guidance for macOS users when Alt shortcuts fail due to terminal configuration]] · Mobile and Desktop
 - [[Changes/Claude Code/2025-12-19-improved-context-command-visualization-with-grouped-skills-and-agents-by-source|Improved /context command visualization with grouped skills and agents by source…]] · Context Window
+- [[Changes/Claude Code/2025-12-19-vscode-added-gift-tag-pictogram-for-year-end-promotion-message|VSCode Added gift tag pictogram for year-end promotion message]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

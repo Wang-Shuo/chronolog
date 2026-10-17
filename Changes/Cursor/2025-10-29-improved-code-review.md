@@ -16,8 +16,8 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
-kind: launch
-machine_hash: 637bd234871aff6b18404bfc68be036832084fec82aab9c8904816fe5eb0c222
+kind: change
+machine_hash: cfeb4fcb9909f79320b659977092df7754e89934950f6b14e8a546a9db03587e
 product: cursor
 product_name: Cursor
 record:
@@ -35,7 +35,7 @@ record:
     source_release: https://cursor.com/changelog/2-0
   extractor_version: fallback-v5
   impact: paradigm-shift
-  kind: launch
+  kind: change
   product: cursor
   product_name: Cursor
   slug: improved-code-review
@@ -60,7 +60,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Improved Code Review
 
-**Cursor** · 2025-10-29 · [[Themes/developer-workflow|Developer Workflow]] · Launch · [Official source](https://cursor.com/changelog/2-0) · from [[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|New Coding Model and Agent Interface]]
+**Cursor** · 2025-10-29 · [[Themes/developer-workflow|Developer Workflow]] · [Official source](https://cursor.com/changelog/2-0) · from [[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|New Coding Model and Agent Interface]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -93,6 +93,7 @@ type: change
 - [[Changes/Cursor/2025-10-29-team-commands|Team Commands]] · Collaboration
 - [[Changes/Cursor/2025-10-29-improved-prompt-ui|Improved Prompt UI]] · Context Window
 - [[Changes/Cursor/2025-10-29-sandboxed-terminals-admin-controls|Sandboxed Terminals: Admin Controls]] · Enterprise and Administration
+- [[Changes/Cursor/2025-10-29-notepads-have-been-deprecated|Notepads have been deprecated]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

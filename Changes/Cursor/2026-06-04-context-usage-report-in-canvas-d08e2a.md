@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: d74e909309cd28f34b78f523c5a5fb4be43009ef29549ab94ce73e378f2c550f
+machine_hash: b144f9e9fcd44b1320aeae1e064b47243cd07f7961d9289a104a437958c61081
 product: cursor
 product_name: Cursor
 record:
@@ -104,6 +104,7 @@ type: change
 - [[Changes/Cursor/2026-06-04-improved-the-agent-s-ability-to-fix-canvas-type-errors|Improved the agent's ability to fix canvas type errors]] · Files and Data
 - [[Changes/Cursor/2026-06-04-shared-canvases-can-now-be-opened-full-screen-in-the-browser-making-them-easier|Shared canvases can now be opened full-screen in the browser, making them easier…]] · Interface Experience
 - [[Changes/Cursor/2026-06-04-with-canvases-agents-can-create-interactive-artifacts-like-dashboards-reports-an|With canvases, agents can create interactive artifacts like dashboards, reports…]] · Collaboration
+- [[Changes/Cursor/2026-06-04-improved-component-styling-and-added-more-chart-customization-functionality|Improved component styling, and added more chart customization functionality]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

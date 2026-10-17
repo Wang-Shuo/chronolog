@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2330fbc80b1de0233d2e504bd8d918e21d93fddff8f7bea374905b21bf904cac
+machine_hash: 9c5a1fe9276e9cab11f77448cdcfde7da6ce9887f165ab025ceda1a590d3bd27
 product: claude-code
 product_name: Claude Code
 record:
@@ -109,6 +109,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.212
 - [[Changes/Claude Code/2026-07-17-2-apps-and-integrations-changes-in-v2-1-212|2 Apps and Integrations changes in v2.1.212]] · Apps and Integrations
 - [[Changes/Claude Code/2026-07-17-3-model-support-changes-in-v2-1-212|3 Model Support changes in v2.1.212]] · Model Support
 - [[Changes/Claude Code/2026-07-17-3-safety-and-privacy-changes-in-v2-1-212|3 Safety and Privacy changes in v2.1.212]] · Safety and Privacy
+- [[Changes/Claude Code/2026-07-17-corrected-an-earlier-release-note-2-1-200-tmux-through-the-3-6-series-lacks-sync|Corrected an earlier release note (2.1.200)]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

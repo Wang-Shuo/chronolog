@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 39fcea8e658d44e99d7239d54550ef6b6a2d09872e49fdf671c5df1fc2d5f8f9
+machine_hash: c3f958a45a02e1fe164cf7f14718d1ee862fbc872ecc68a0ec0e430d3de87a5d
 product: cursor
 product_name: Cursor
 record:
@@ -84,6 +84,8 @@ type: change
 - [[Changes/Cursor/2026-01-16-added-webfetch-websearch-tools-approval-options-for-granular-controls-over-web-s|Added WebFetch, WebSearch tools, & approval options for granular controls over web…]] · Search and Browsing
 - [[Changes/Cursor/2026-01-16-use-ask-mode-to-explore-code-without-making-changes-just-like-in-the-editor-star|Ask mode in CLI]] · Editor Experience
 - [[Changes/Cursor/2026-01-16-2-interface-experience-changes-in-cli-agent-modes-and-cloud-handoff|2 Interface Experience changes in CLI Agent Modes and Cloud Handoff]] · Interface Experience
+- [[Changes/Cursor/2026-01-16-list-removed-use-resume-to-see-all-prior-conversations|/list removed. Use /resume to see all prior conversations]] · Other changes
+- [[Changes/Cursor/2026-01-16-added-about-for-seeing-basic-details-about-your-environment-and-cursor-cli-setup|Added /about for seeing basic details about your environment and Cursor CLI setup]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

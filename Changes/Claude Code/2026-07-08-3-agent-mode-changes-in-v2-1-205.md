@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 907da4c601dabc982dd13a8f3d8f2fee38f79741252c09c2699e83deecb1844c
+machine_hash: 705e32c4447070a3edc5182d39ae3a10276a810f5713fdfd68b56adb3bb115cc
 product: claude-code
 product_name: Claude Code
 record:
@@ -85,6 +85,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.205
 - [[Changes/Claude Code/2026-07-08-reserved-the-claude-browser-mcp-server-name-alongside-claude-preview-ahead-of-th|Reserved the "Claude Browser" MCP server name (alongside "Claude Preview") ahead…]] · Apps and Integrations
 - [[Changes/Claude Code/2026-07-08-auto-update-binary-downloads-now-stream-to-disk-instead-of-buffering-in-memory-c|Auto-update binary downloads now stream to disk instead of buffering in memory…]] · Reliability and Performance
 - [[Changes/Claude Code/2026-07-08-background-task-notifications-now-explicitly-state-that-no-human-input-has-occur|Background task notifications now explicitly state that no human input has occurred…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-07-08-doctor-is-now-a-full-setup-checkup-that-can-diagnose-and-fix-issues-checkup-is-i|/doctor is now a full setup checkup that can diagnose and fix issues]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c8960d6e47772fbf49b6e32662bad6e3128eb7c95295feb46ea196f6b924da1b
+machine_hash: 9580e97eec8ad0f51ee6beeabec0de112615a8f41d718b37e84e55aec92dcc46
 product: claude-code
 product_name: Claude Code
 record:
@@ -74,7 +74,9 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.289
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
+## Also in this release
 
+- [[Changes/Claude Code/2026-10-03-improved-the-line-a-mod-s-author-sees-when-its-band-or-pane-fails-to-draw-it-nam|Improved the line a mod's author sees when its band or pane fails to draw]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

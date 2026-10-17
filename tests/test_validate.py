@@ -119,7 +119,7 @@ def test_validate_cards_file_writes_dlq_with_record_and_errors(tmp_path: Path):
     assert result == {"passed": 0, "pending_theme_review": 0, "failed": 1}
     assert read_json(valid_output) == {"change_cards": [], "pending_theme_review": []}
     assert dlq["failed"][0]["record"] == invalid
-    assert "theme must be official or candidate with suggestion" in dlq["failed"][0]["errors"]
+    assert "theme must be official, holding or candidate with suggestion" in dlq["failed"][0]["errors"]
     assert "evidence is required" in dlq["failed"][0]["errors"]
 
 
@@ -321,3 +321,21 @@ def test_validate_card_rejects_unknown_or_missing_kind():
     card = v5_card(["Agent mode can run commands."])
     card.pop("kind")
     assert "kind is required" in validate_card(card, {"agent-mode"})
+
+
+def test_holding_theme_is_a_card_theme_but_not_an_official_one(tmp_path: Path):
+    from _scripts.extract import HOLDING_THEMES
+    from _scripts.validate import holding_themes, official_themes
+
+    assert holding_themes("_scripts/themes.yaml") == set(HOLDING_THEMES) == {"uncategorized"}
+    assert "uncategorized" not in official_themes("_scripts/themes.yaml")
+    assert len(official_themes("_scripts/themes.yaml")) == 25
+    source, valid_output, dlq_output = (tmp_path / name for name in ("in.json", "valid.json", "dlq.json"))
+    write_json(source, {"change_cards": [valid_card(theme="uncategorized")]})
+
+    result = validate_cards_file(source, valid_output, dlq_output, "_scripts/themes.yaml")
+
+    assert result == {"passed": 1, "pending_theme_review": 0, "failed": 0}
+    assert read_json(valid_output)["change_cards"][0]["theme"] == "uncategorized"
+    assert "theme must be official, holding or candidate with suggestion" in validate_card(
+        valid_card(theme="uncategorized"), official_themes("_scripts/themes.yaml"))

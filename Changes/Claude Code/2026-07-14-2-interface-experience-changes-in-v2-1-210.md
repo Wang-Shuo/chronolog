@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 325b81bb688679016063246ada518f2c88170a85e042faf14c078179617c4071
+machine_hash: 66c91efeffd9b981a84909a63656375a2400b62893b79a72c4cc69217193e815
 product: claude-code
 product_name: Claude Code
 record:
@@ -81,6 +81,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.210
 - [[Changes/Claude Code/2026-07-14-improved-the-bash-powershell-tool-message-when-a-command-hits-its-timeout-and-is|Improved the Bash/PowerShell tool message when a command hits its timeout…]] · Model Support
 - [[Changes/Claude Code/2026-07-14-memory-writes-that-leave-a-memory-md-index-over-its-read-limit-now-produce-an-ex|Memory writes that leave a MEMORY.md index over its read limit now produce…]] · Memory and Personalization
 - [[Changes/Claude Code/2026-07-14-3-agent-mode-changes-in-v2-1-210|3 Agent Mode changes in v2.1.210]] · Agent Mode
+- [[Changes/Claude Code/2026-07-14-improved-the-bundled-dataviz-skill-s-chart-color-validation-with-perceptual-okla|Improved the bundled dataviz skill's chart color validation with perceptual OKLab…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

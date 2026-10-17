@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 659baa79f60aca56a701b72ccba443dcbb4f053df96e23a5056762390959bbed
+machine_hash: 15ef6e568c84a8289391a63c3295f467bd4d6acf0daa39f180f9ffe8874fccc2
 product: cursor
 product_name: Cursor
 record:
@@ -79,6 +79,7 @@ type: change
 - [[Changes/Cursor/2026-05-13-removed-noisy-in-app-terminal-notifications-and-improved-shortcut-behavior|Removed noisy in-app terminal notifications and improved shortcut behavior]] · Developer Workflow
 - [[Changes/Cursor/2026-05-13-3-interface-experience-changes-in-3-4|3 Interface Experience changes in 3.4]] · Interface Experience
 - [[Changes/Cursor/2026-05-13-full-screen-tabs-faa5d2|Full-screen tabs]] · Interface Experience
+- [[Changes/Cursor/2026-05-13-2-other-changes-in-3-4|2 other changes in 3.4]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

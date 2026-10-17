@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7f39a5122c53fbcac348cc93714a9c54f01ab98162a9fcd8d4f157a9ae68e5b0
+machine_hash: 74c084fe558466ceff7c8e5ba3fa1f1af48351ef53c60fd65cbe55765c465ac4
 product: claude-code
 product_name: Claude Code
 record:
@@ -78,6 +78,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.108
 - [[Changes/Claude Code/2026-04-14-reduced-memory-footprint-for-file-reads-edits-and-syntax-highlighting-by-loading|Reduced memory footprint for file reads, edits, and syntax highlighting by loading…]] · Reliability and Performance
 - [[Changes/Claude Code/2026-04-14-improved-model-to-warn-before-switching-models-mid-conversation-since-the-next-r|Improved /model to warn before switching models mid-conversation, since the next…]] · Model Support
 - [[Changes/Claude Code/2026-04-14-2-context-window-changes-in-v2-1-108|2 Context Window changes in v2.1.108]] · Context Window
+- [[Changes/Claude Code/2026-04-14-3-other-changes-in-v2-1-108|3 other changes in v2.1.108]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

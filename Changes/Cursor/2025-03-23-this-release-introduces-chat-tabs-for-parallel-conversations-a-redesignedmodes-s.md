@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 2891699ed0072ccfda2a8e8f658989425c3e5a16abc574328e2320834283a972
+machine_hash: 54560489d5fa84358b7c473f2be29b0e78d9f3e8681fad27fb864fecade22438
 product: cursor
 product_name: Cursor
 record:
@@ -97,6 +97,7 @@ type: change
 - [[Changes/Cursor/2025-03-23-2-interface-experience-changes-in-0-48-x|2 Interface Experience changes in 0.48.x]] · Interface Experience
 - [[Changes/Cursor/2025-03-23-faster-indexing|Faster indexing]] · Reliability and Performance
 - [[Changes/Cursor/2025-03-23-chat-tabs|Chat tabs]] · Editor Experience
+- [[Changes/Cursor/2025-03-23-4-other-changes-in-0-48-x|4 other changes in 0.48.x]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

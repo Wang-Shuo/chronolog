@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 455cec2d518bb7bb469156dc61fa2d94873cb9aa079872bc6a3cc8574cbc6775
+machine_hash: 79eb1c636e1604379d4005deb478bbfce7f836a58c07d8efa391d1ce78a04b6b
 product: claude-code
 product_name: Claude Code
 record:
@@ -74,6 +74,7 @@ type: change
 - [[Changes/Claude Code/2026-08-18-improved-the-context-limit-error-to-say-when-auto-compact-is-off-and-point-to-co|Improved the context-limit error to say when auto-compact is off and point…]] · Context Window
 - [[Changes/Claude Code/2026-08-18-improved-memory-and-cpu-usage-while-cloud-sessions-such-as-ultrareview-or-autofi|Improved memory and CPU usage while cloud sessions such as /ultrareview…]] · Reliability and Performance
 - [[Changes/Claude Code/2026-08-18-2-safety-and-privacy-changes-in-v2-1-235|2 Safety and Privacy changes in v2.1.235]] · Safety and Privacy
+- [[Changes/Claude Code/2026-08-18-4-other-changes-in-v2-1-235|4 other changes in v2.1.235]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

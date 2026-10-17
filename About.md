@@ -3,7 +3,7 @@ created: '2022-12-15'
 date: '2026-10-14'
 description: Where ChronoLog's data comes from, how official release notes become
   reviewed Change Cards, what is grouped or skipped, and how to report a problem.
-machine_hash: 7d5a840df8b0faf9b3d66a06ab5ba3a35ab20732dda6c4747ac5a834e8ae46fb
+machine_hash: 8092bfe4fe27443b6272abbe1b5a2939f5db47fd18661e126e48490fdcfb6bb6
 modified: '2026-10-14'
 publication: active
 tags:
@@ -47,20 +47,21 @@ ChronoLog tracks announced changes in three products: ChatGPT, Claude Code and C
 - Items under a platform or plan heading (such as Web, iOS or Plus) and lists of up to eight items become one card each.
 - Longer lists, lists under headings such as "What's changed" or "Bug fixes", and GitHub release notes are read item by item. Items that announce something on their own ("Introducing …", a new slash command, a feature now on by default) stay separate cards; the other items of one theme are listed together on one digest card per release.
 - Every card has one theme from a fixed vocabulary and a kind: launch, expansion, pricing, policy, fix, digest or change.
-- Lines without a confident theme wait in a review queue and are not published. Each release page shows "Tracked N cards from M candidate lines" and how many lines wait for review.
+- Lines without a confident theme are published in an "Other changes" digest of their release and do not appear on theme pages or the home page; prose without a theme waits in a review queue. Each release page shows "Tracked N cards from M candidate lines" and how many lines wait for review.
 - Dates are announcement dates, not availability dates.
 - Relations between cards are same-theme chronology only; they never claim adoption or causation.
 <!-- chronolog:end -->
 
 ## Review status
 <!-- chronolog:begin region="status" -->
-3 products · 790 archived releases · 2,455 tracked changes · 25 themes. Pending theme review: 662. Silence alerts: 0. Every generated batch is reviewed in a pull request before it is published.
+3 products · 790 archived releases · 2,620 tracked changes · 25 themes. Pending theme review: 62. Silence alerts: 0. Every generated batch is reviewed in a pull request before it is published.
 <!-- chronolog:end -->
 
 ## Glossary
 <!-- chronolog:begin region="glossary" -->
 - **Change Card**: one announced change that can be understood on its own, taken from an official release, with a date, one theme, a kind and the quoted source text.
 - **Digest card**: the smaller changes of one theme in one release, quoted together on one card.
+- **Other changes**: the list items of one release without a confident theme, quoted together on one digest card (a single item keeps its own card); listed on release and product pages, not on theme pages or the home page.
 - **Release**: one archived entry of an official changelog or release page; its page lists the cards tracked from it.
 - **Theme**: a category from a fixed vocabulary that groups cards across products.
 - **Era**: a reviewed phase of one product's history, bounded by cited releases.

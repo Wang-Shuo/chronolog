@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 49856d2d07e0f6b5daeab18b46a361a5008a476e397262975f032ef7937bae7f
+machine_hash: 75e97c9600bf416f8596384b5c2b485831ea313ef37b57dc9f60f089f406d8b4
 product: claude-code
 product_name: Claude Code
 record:
@@ -73,6 +73,7 @@ type: change
 - [[Changes/Claude Code/2026-03-18-added-console-flag-to-claude-auth-login-for-anthropic-console-api-billing-authen|Added --console flag to claude auth login for Anthropic Console (API billing)…]] · Account and Access
 - [[Changes/Claude Code/2026-03-18-fixed-custom-status-line-showing-nothing-when-workspace-trust-is-blocking-it|Fixed custom status line showing nothing when workspace trust is blocking it]] · Safety and Privacy
 - [[Changes/Claude Code/2026-03-18-2-reliability-and-performance-changes-in-v2-1-79|2 Reliability and Performance changes in v2.1.79]] · Reliability and Performance
+- [[Changes/Claude Code/2026-03-18-vscode-session-tabs-now-get-ai-generated-titles-based-on-your-first-message|VSCode Session tabs now get AI-generated titles based on your first message]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

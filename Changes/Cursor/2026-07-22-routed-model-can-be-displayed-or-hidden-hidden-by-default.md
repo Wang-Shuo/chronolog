@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ad87f315f251cc40ff90bdb00fd2e76389b06ce73f4c7d095b87fc162b344212
+machine_hash: adeac6d6076e7fb23ebd472956d1170c9f69b4906e321986acfc47968cd58cd5
 product: cursor
 product_name: Cursor
 record:
@@ -77,6 +77,7 @@ type: change
 - [[Changes/Cursor/2026-07-22-2-pricing-model-changes-in-cursor-router|2 Pricing Model changes in Cursor Router]] · Pricing Model
 - [[Changes/Cursor/2026-07-22-auto-mode-is-now-powered-by-cursor-router|Auto mode is now powered by Cursor Router]] · Agent Mode
 - [[Changes/Cursor/2026-07-22-optimization-modes-e62142|Optimization modes]] · Model Support
+- [[Changes/Cursor/2026-07-22-2-other-changes-in-cursor-router|2 other changes in Cursor Router]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

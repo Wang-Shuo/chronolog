@@ -1,10 +1,10 @@
 ---
-changes_count: 5
+changes_count: 6
 date: '2024-11-22'
 description: 'ChatGPT release Updates to the ChatGPT Web experience on 2024-11-22:
-  5 tracked changes across Interface Experience, Files and Data, Image Generation,
+  6 tracked changes across Interface Experience, Files and Data, Image Generation,
   Mobile…'
-machine_hash: eadd7924c105c9bd437be484ef267cace94f7ac14a1650e8ff4c75bccccf1eb8
+machine_hash: 9198e1d1cfd020c9d93b615114e220e21a81a4d272ec6461e5a99903393a8c92
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,7 +40,7 @@ version: Updates to the ChatGPT Web experience
 <!-- chronolog:begin region="summary" -->
 We are rolling out the following updates over the next two weeks to all ChatGPT users.
 
-Tracked 5 cards from 20 candidate lines; 6 lines pending review.
+Tracked 6 cards from 20 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
@@ -48,6 +48,7 @@ Tracked 5 cards from 20 candidate lines; 6 lines pending review.
 - [[Changes/ChatGPT/2024-11-22-the-new-chat-button-has-been-moved-to-the-left-of-the-model-picker-to-be-easier|The new chat button has been moved to the left of the Model Picker to be easier to access]] · Interface Experience
 - [[Changes/ChatGPT/2024-11-22-dall-e-focused-view-has-an-updated-layout|DALL-E focused view has an updated layout]] · Image Generation
 - [[Changes/ChatGPT/2024-11-22-the-sidebar-when-pinned-can-now-stay-open-with-an-active-canvas-if-enough-space|The sidebar when pinned can now stay open with an active Canvas if enough space…]] · Files and Data
-- [[Changes/ChatGPT/2024-11-22-improved-mobile-web-experience|Improved Mobile Web Experience]] · Mobile and Desktop · Launch
+- [[Changes/ChatGPT/2024-11-22-improved-mobile-web-experience|Improved Mobile Web Experience]] · Mobile and Desktop
 - [[Changes/ChatGPT/2024-11-22-sidebar-redesign-e6413a|Sidebar redesign]] · Interface Experience · Launch
+- [[Changes/ChatGPT/2024-11-22-6-other-changes-in-updates-to-the-chatgpt-web-experience|6 other changes in Updates to the ChatGPT Web experience]] · Other changes · Digest
 <!-- chronolog:end -->

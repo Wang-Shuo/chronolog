@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: aa8a3769c99ca8a218a6cfcbbd9c81995cb2641fcb9b5be5b3b8dcaa4b11be1d
+machine_hash: afc0f018afcf29e1269c055dc22d84d6dd2fc4ea6a4c2cac8dd0f2d0b7eadfd4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -83,6 +83,7 @@ type: change
 - [[Changes/ChatGPT/2024-11-22-dall-e-focused-view-has-an-updated-layout|DALL-E focused view has an updated layout]] · Image Generation
 - [[Changes/ChatGPT/2024-11-22-improved-mobile-web-experience|Improved Mobile Web Experience]] · Mobile and Desktop
 - [[Changes/ChatGPT/2024-11-22-sidebar-redesign-e6413a|Sidebar redesign]] · Interface Experience
+- [[Changes/ChatGPT/2024-11-22-6-other-changes-in-updates-to-the-chatgpt-web-experience|6 other changes in Updates to the ChatGPT Web experience]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

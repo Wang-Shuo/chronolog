@@ -1,10 +1,10 @@
 ---
-changes_count: 20
+changes_count: 21
 date: '2025-09-29'
 description: 'Cursor release Browser Controls, Plan Mode, and Hooks on 2025-09-29:
-  20 tracked changes across Agent Mode, Collaboration, Editor Experience, Account
+  21 tracked changes across Agent Mode, Collaboration, Editor Experience, Account
   and…'
-machine_hash: ecc4d55187f72df9c07f592ad12b261afa251cbb878d78ace3df0d0376fd2546
+machine_hash: 386c34a3d78edc82009dea8e3b9488196f07521b1aa7bbddca5250ae0cefcac7
 product: cursor
 product_name: Cursor
 record:
@@ -39,7 +39,7 @@ version: '1.7'
 <!-- chronolog:begin region="summary" -->
 #Browser Controls
 
-Tracked 20 cards from 70 candidate lines; 17 lines pending review.
+Tracked 21 cards from 70 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
@@ -64,4 +64,5 @@ Tracked 20 cards from 70 candidate lines; 17 lines pending review.
 - [[Changes/Cursor/2025-09-29-image-file-support-for-agent|Image file support for Agent]] · Agent Mode · Launch
 - [[Changes/Cursor/2025-09-29-1-7-45-model-picker-ux|1.7.45: Model picker UX]] · Interface Experience
 - [[Changes/Cursor/2025-09-29-1-7-41-token-sync-improvements-for-authentication|1.7.41: Token sync improvements for authentication]] · Account and Access
+- [[Changes/Cursor/2025-09-29-15-other-changes-in-1-7|15 other changes in 1.7]] · Other changes · Digest
 <!-- chronolog:end -->

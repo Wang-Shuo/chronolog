@@ -16,8 +16,8 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
-kind: launch
-machine_hash: d990433a49429f79195f2c70c906f291dbe70014ce8dd0e3ce9f656041133b73
+kind: change
+machine_hash: 5fc410325b7abf33dfa8a499aebd0cdc13f730bff106f4a5b1d8180dc703af09
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,7 +40,7 @@ record:
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
   extractor_version: fallback-v5
   impact: incremental
-  kind: launch
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: improved-mobile-web-experience
@@ -66,7 +66,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Improved Mobile Web Experience
 
-**ChatGPT** · 2024-11-22 · [[Themes/mobile-desktop|Mobile and Desktop]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2024-11-22-updates-to-the-chatgpt-web-experience-bf046a2c|Updates to the ChatGPT Web experience]]
+**ChatGPT** · 2024-11-22 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2024-11-22-updates-to-the-chatgpt-web-experience-bf046a2c|Updates to the ChatGPT Web experience]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -88,6 +88,7 @@ type: change
 - [[Changes/ChatGPT/2024-11-22-dall-e-focused-view-has-an-updated-layout|DALL-E focused view has an updated layout]] · Image Generation
 - [[Changes/ChatGPT/2024-11-22-the-sidebar-when-pinned-can-now-stay-open-with-an-active-canvas-if-enough-space|The sidebar when pinned can now stay open with an active Canvas if enough space…]] · Files and Data
 - [[Changes/ChatGPT/2024-11-22-sidebar-redesign-e6413a|Sidebar redesign]] · Interface Experience
+- [[Changes/ChatGPT/2024-11-22-6-other-changes-in-updates-to-the-chatgpt-web-experience|6 other changes in Updates to the ChatGPT Web experience]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 744b2def94bacdb2e75e3a7908c0fef3ce212aa2faad336e3c97edc4cd183ecb
+machine_hash: 2b6b45c0787c57eed21804587cd0d2f129420263e4a00966671e27cd02b5f356
 product: claude-code
 product_name: Claude Code
 record:
@@ -81,6 +81,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.33
 - [[Changes/Claude Code/2026-02-06-added-memory-frontmatter-field-support-for-agents-enabling-persistent-memory-wit|Added memory frontmatter field support for agents, enabling persistent memory…]] · Memory and Personalization
 - [[Changes/Claude Code/2026-02-06-added-plugin-name-to-skill-descriptions-and-skills-menu-for-better-discoverabili|Added plugin name to skill descriptions and /skills menu for better discoverability]] · Apps and Integrations
 - [[Changes/Claude Code/2026-02-06-2-agent-mode-changes-in-v2-1-33|2 Agent Mode changes in v2.1.33]] · Agent Mode
+- [[Changes/Claude Code/2026-02-06-errors-from-invalid-managed-settings-are-now-surfaced|Errors from invalid managed settings are now surfaced]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d545aa5ddc8353e29af109a55abb43bfcc818c8dca68fdf89804cb89d31a9d4c
+machine_hash: 92c4f6b7af6a77b591739c5801c8acab40be074221b296296c9a76d9528ae53e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -88,6 +88,7 @@ type: change
 - [[Changes/ChatGPT/2024-11-22-the-sidebar-when-pinned-can-now-stay-open-with-an-active-canvas-if-enough-space|The sidebar when pinned can now stay open with an active Canvas if enough space…]] · Files and Data
 - [[Changes/ChatGPT/2024-11-22-improved-mobile-web-experience|Improved Mobile Web Experience]] · Mobile and Desktop
 - [[Changes/ChatGPT/2024-11-22-sidebar-redesign-e6413a|Sidebar redesign]] · Interface Experience
+- [[Changes/ChatGPT/2024-11-22-6-other-changes-in-updates-to-the-chatgpt-web-experience|6 other changes in Updates to the ChatGPT Web experience]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

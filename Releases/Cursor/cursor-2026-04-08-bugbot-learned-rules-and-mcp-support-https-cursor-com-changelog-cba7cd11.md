@@ -1,9 +1,10 @@
 ---
-changes_count: 4
+changes_count: 5
 date: '2026-04-08'
-description: 'Cursor release Bugbot Learned Rules and MCP Support on 2026-04-08: 4
-  tracked changes across Apps and Integrations, Collaboration, Developer Workflow'
-machine_hash: c5b68c02e560bddc5ca26e10880ffc4a55abbc666eaeaf1e375e4b12170115ae
+description: 'Cursor release Bugbot Learned Rules and MCP Support on 2026-04-08: 5
+  tracked changes across Apps and Integrations, Collaboration, Developer Workflow,
+  Other…'
+machine_hash: 0044a11321efbbef6c32296f41727ba9028a8e96f8a8272107a52cd02728d6b4
 product: cursor
 product_name: Cursor
 record:
@@ -40,7 +41,7 @@ version: Bugbot Learned Rules and MCP Support
 <!-- chronolog:begin region="summary" -->
 This release introduces updates to Bugbot including the ability to self-improve in real time, MCP support, improvements to Bugbot Autofix, and the highest resolution rate to date.
 
-Tracked 4 cards from 16 candidate lines; 6 lines pending review.
+Tracked 5 cards from 16 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
@@ -49,4 +50,5 @@ Tracked 4 cards from 16 candidate lines; 6 lines pending review.
 - [[Changes/Cursor/2026-04-08-give-bugbot-access-to-mcp-servers-for-additional-context-during-code-reviews-on|Bugbot MCP Support]] · Apps and Integrations · Launch
 - [[Changes/Cursor/2026-04-08-redesigned-bugbot-settings-and-split-personal-and-team-settings-into-clearer-sec|Redesigned Bugbot settings, and split personal and team settings into clearer sections]] · Collaboration
 - [[Changes/Cursor/2026-04-08-this-release-introduces-updates-to-bugbot-including-the-ability-to-self-improve|Cursor introduces updates to Bugbot including the ability to self-improve in real…]] · Apps and Integrations · Launch
+- [[Changes/Cursor/2026-04-08-6-other-changes-in-04-08-26|6 other changes in 04.08.26]] · Other changes · Digest
 <!-- chronolog:end -->

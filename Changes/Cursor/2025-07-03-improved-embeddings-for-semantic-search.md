@@ -17,8 +17,8 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
-kind: launch
-machine_hash: b5b73678ed7958dfe0d518b2f3aae0fc251dbce69459595c985eb3733cd483b6
+kind: change
+machine_hash: cc760ba252dc6fc180b9ce4035d58a04c3d8bf82f5fb620ab9f95def4c119502
 product: cursor
 product_name: Cursor
 record:
@@ -36,7 +36,7 @@ record:
     source_release: https://cursor.com/changelog/1-2
   extractor_version: fallback-v5
   impact: significant
-  kind: launch
+  kind: change
   product: cursor
   product_name: Cursor
   slug: improved-embeddings-for-semantic-search
@@ -63,7 +63,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Improved embeddings for semantic search
 
-**Cursor** · 2025-07-03 · [[Themes/model-support|Model Support]] · Launch · [Official source](https://cursor.com/changelog/1-2) · from [[Releases/Cursor/cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d|Agent Planning, Better Context & Faster Tab]]
+**Cursor** · 2025-07-03 · [[Themes/model-support|Model Support]] · [Official source](https://cursor.com/changelog/1-2) · from [[Releases/Cursor/cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d|Agent Planning, Better Context & Faster Tab]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -86,6 +86,7 @@ type: change
 - [[Changes/Cursor/2025-07-03-2-agent-mode-changes-in-1-2|2 Agent Mode changes in 1.2]] · Agent Mode
 - [[Changes/Cursor/2025-07-03-background-agent-improvements|Background Agent improvements]] · Agent Mode
 - [[Changes/Cursor/2025-07-03-pr-indexing-search|PR indexing & search]] · Context Window
+- [[Changes/Cursor/2025-07-03-2-other-changes-in-1-2|2 other changes in 1.2]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

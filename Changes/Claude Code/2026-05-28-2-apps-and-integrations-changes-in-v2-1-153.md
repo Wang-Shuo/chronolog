@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a379e6917639277cddb489bae8345f681b46de77c3040a599fe1093ef0085002
+machine_hash: c054ae1c2019c107c4d19b9d3f642024c28a665d6d82d8e9e422b40400a10c0b
 product: claude-code
 product_name: Claude Code
 record:
@@ -83,6 +83,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.153
 - [[Changes/Claude Code/2026-05-28-3-agent-mode-changes-in-v2-1-153|3 Agent Mode changes in v2.1.153]] · Agent Mode
 - [[Changes/Claude Code/2026-05-28-claude-code-now-shows-a-one-time-notice-when-your-npm-global-install-can-t-auto|Claude Code now shows a one-time notice when your npm global install can't auto-update]] · Reliability and Performance
 - [[Changes/Claude Code/2026-05-28-status-line-commands-now-receive-columns-and-lines-environment-variables-so-scri|Status line commands now receive COLUMNS and LINES environment variables…]] · Developer Workflow
+- [[Changes/Claude Code/2026-05-28-claude-doctor-now-shows-the-result-of-your-last-update-attempt|claude doctor now shows the result of your last update attempt]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

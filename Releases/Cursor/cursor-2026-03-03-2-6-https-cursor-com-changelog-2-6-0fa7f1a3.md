@@ -1,10 +1,10 @@
 ---
-changes_count: 12
+changes_count: 13
 date: '2026-03-03'
 description: 'Cursor release MCP Apps and Team Marketplaces for Plugins on 2026-03-03:
-  12 tracked changes across Apps and Integrations, Developer Workflow, Enterprise
+  13 tracked changes across Apps and Integrations, Developer Workflow, Enterprise
   and…'
-machine_hash: 2415ae574560b0bcd6ab8c92823385f407d84bea7563fc445e78e38c0c87af26
+machine_hash: e308ebde012eb2176a8e91b3d9d88e79366387ea90bc15e17094508cec428d67
 product: cursor
 product_name: Cursor
 record:
@@ -41,7 +41,7 @@ version: '2.6'
 <!-- chronolog:begin region="summary" -->
 This release introduces interactive UIs in agent chats, a way for teams to share private plugins, and improvements to core capabilities like Debug mode.
 
-Tracked 12 cards from 33 candidate lines; 3 lines pending review.
+Tracked 13 cards from 33 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
@@ -58,4 +58,5 @@ Tracked 12 cards from 33 candidate lines; 3 lines pending review.
 - [[Changes/Cursor/2026-03-03-the-content-from-your-plan-files-are-now-included-in-autocomplete-suggestions-as|The content from your plan files are now included in autocomplete suggestions as you…]] · Interface Experience
 - [[Changes/Cursor/2026-03-03-this-release-introduces-interactive-uis-in-agent-chats-a-way-for-teams-to-share|Cursor introduces interactive UIs in agent chats, a way for teams to share private…]] · Developer Workflow · Launch
 - [[Changes/Cursor/2026-03-03-agent-workflows-are-faster-and-more-predictable-for-multi-file-edits-and-pr-heav|Agent workflows are faster and more predictable for multi-file edits and PR-heavy tasks]] · Editor Experience
+- [[Changes/Cursor/2026-03-03-3-other-changes-in-2-6|3 other changes in 2.6]] · Other changes · Digest
 <!-- chronolog:end -->

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a23b84ce08aa4888e28b2614c99ab2609061e87713ad897255f58119e2cf0017
+machine_hash: 9143d76bd4c4bc47d050660efff4124a103a4c5b1634e4e47a6d7a584e0791a7
 product: claude-code
 product_name: Claude Code
 record:
@@ -78,6 +78,7 @@ type: change
 - [[Changes/Claude Code/2026-07-18-added-reasoning-effort-to-the-subagentstatusline-payload-so-custom-agent-rows-ca|Added reasoning effort to the subagentStatusLine payload, so custom agent rows can…]] · Agent Mode
 - [[Changes/Claude Code/2026-07-18-added-a-periodic-progress-heartbeat-for-long-running-tool-calls-that-previously|Added a periodic progress heartbeat for long-running tool calls that previously went…]] · Reliability and Performance
 - [[Changes/Claude Code/2026-07-18-9-safety-and-privacy-changes-in-v2-1-214|9 Safety and Privacy changes in v2.1.214]] · Safety and Privacy
+- [[Changes/Claude Code/2026-07-18-5-other-changes-in-v2-1-214|5 other changes in v2.1.214]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

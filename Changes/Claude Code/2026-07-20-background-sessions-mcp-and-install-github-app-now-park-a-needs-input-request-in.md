@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: a192d885260392ae2908b4a2b8a3feef715a6c3a400aae71ad92ab3c59ad5c37
+machine_hash: a31113638307dcf76ce60e52e123a1a416b11624f4e0e2ef7574c61bfccdc52b
 product: claude-code
 product_name: Claude Code
 record:
@@ -87,6 +87,7 @@ type: change
 - [[Changes/Claude Code/2026-07-20-context-now-shows-an-explicit-warning-when-the-conversation-exceeds-the-context|/context now shows an explicit warning when the conversation exceeds the context…]] · Context Window
 - [[Changes/Claude Code/2026-07-20-improved-the-ultrareview-diff-too-large-error-to-show-configured-limits-measured|Improved the /ultrareview diff-too-large error to show configured limits, measured…]] · Editor Experience
 - [[Changes/Claude Code/2026-07-20-2-developer-workflow-changes-in-v2-1-216|2 Developer Workflow changes in v2.1.216]] · Developer Workflow
+- [[Changes/Claude Code/2026-07-20-4-other-changes-in-v2-1-216|4 other changes in v2.1.216]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

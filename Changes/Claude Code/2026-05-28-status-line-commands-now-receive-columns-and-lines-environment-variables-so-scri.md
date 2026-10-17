@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3bca126887ea7b977276c5223df06d13b5306b4e1b744337c6e738a08d04aa87
+machine_hash: 23626cbacf16e896f9e14a5580921507bc5910bd84ecdff37de74d74b51d1aef
 product: claude-code
 product_name: Claude Code
 record:
@@ -86,6 +86,7 @@ type: change
 - [[Changes/Claude Code/2026-05-28-model-now-saves-your-selection-as-the-default-for-new-sessions-matching-the-ide|/model now saves your selection as the default for new sessions (matching the IDE)]] · Model Support
 - [[Changes/Claude Code/2026-05-28-3-agent-mode-changes-in-v2-1-153|3 Agent Mode changes in v2.1.153]] · Agent Mode
 - [[Changes/Claude Code/2026-05-28-claude-code-now-shows-a-one-time-notice-when-your-npm-global-install-can-t-auto|Claude Code now shows a one-time notice when your npm global install can't auto-update]] · Reliability and Performance
+- [[Changes/Claude Code/2026-05-28-claude-doctor-now-shows-the-result-of-your-last-update-attempt|claude doctor now shows the result of your last update attempt]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

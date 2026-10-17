@@ -1,9 +1,9 @@
 ---
-changes_count: 11
+changes_count: 12
 date: '2025-02-19'
-description: 'Cursor release Agent is ready and UI refresh on 2025-02-19: 11 tracked
+description: 'Cursor release Agent is ready and UI refresh on 2025-02-19: 12 tracked
   changes across Agent Mode, Apps and Integrations, Editor Experience, Context Window…'
-machine_hash: 7b7a074c0554b1bc8f0d0cf9e2c122d86cef8f6333dd8a031a7ce9e0c30f7e9b
+machine_hash: 3e8e65353a52462c56235986d84c354f1a86cc725ac4acbd4e8909b2f14bdcc1
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ version: 0.46.x
 <!-- chronolog:begin region="summary" -->
 Fixes (3)↓↑
 
-Tracked 11 cards from 26 candidate lines; 3 lines pending review.
+Tracked 12 cards from 26 candidate lines; 1 line pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
@@ -54,4 +54,5 @@ Tracked 11 cards from 26 candidate lines; 3 lines pending review.
 - [[Changes/Cursor/2025-02-19-web-search-agent-can-now-automatically-search-the-web-for-up-to-date-information|Web search: Agent can now automatically search the web for up-to-date information…]] · Search and Browsing
 - [[Changes/Cursor/2025-02-19-2-interface-experience-changes-in-0-46-x|2 Interface Experience changes in 0.46.x]] · Interface Experience · Digest
 - [[Changes/Cursor/2025-02-19-mcp-improvements|MCP improvements]] · Apps and Integrations
+- [[Changes/Cursor/2025-02-19-2-other-changes-in-0-46-x|2 other changes in 0.46.x]] · Other changes · Digest
 <!-- chronolog:end -->

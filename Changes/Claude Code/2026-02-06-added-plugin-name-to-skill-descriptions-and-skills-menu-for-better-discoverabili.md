@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d8c8157d0742567eaff8c869c37acadb52f49becf8f978feb0730619feff938e
+machine_hash: 0a01a9acf7dd1ff06e447c09bfb4cd985bf35e0815855ef6dd192085526a54b7
 product: claude-code
 product_name: Claude Code
 record:
@@ -83,6 +83,7 @@ type: change
 - [[Changes/Claude Code/2026-02-06-added-memory-frontmatter-field-support-for-agents-enabling-persistent-memory-wit|Added memory frontmatter field support for agents, enabling persistent memory…]] · Memory and Personalization
 - [[Changes/Claude Code/2026-02-06-2-interface-experience-changes-in-v2-1-33|2 Interface Experience changes in v2.1.33]] · Interface Experience
 - [[Changes/Claude Code/2026-02-06-2-agent-mode-changes-in-v2-1-33|2 Agent Mode changes in v2.1.33]] · Agent Mode
+- [[Changes/Claude Code/2026-02-06-errors-from-invalid-managed-settings-are-now-surfaced|Errors from invalid managed settings are now surfaced]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

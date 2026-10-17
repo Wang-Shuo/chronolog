@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cf85c548b0331da7ae6eddaec57157fc841baacf462ab6d233862d2fbf2eb6f5
+machine_hash: 0a6c07afa895082a6e0abfb79947b3535fc1f539bfe3a70d5f00529266c23b4b
 product: claude-code
 product_name: Claude Code
 record:
@@ -80,6 +80,7 @@ type: change
 - [[Changes/Claude Code/2026-05-19-fixed-a-permission-prompt-bypass-where-bare-variable-assignments-to-non-allowlis|Fixed a permission-prompt bypass where bare variable assignments to non-allowlisted…]] · Safety and Privacy
 - [[Changes/Claude Code/2026-05-19-2-interface-experience-changes-in-v2-1-145|2 Interface Experience changes in v2.1.145]] · Interface Experience
 - [[Changes/Claude Code/2026-05-19-3-agent-mode-changes-in-v2-1-145|3 Agent Mode changes in v2.1.145]] · Agent Mode
+- [[Changes/Claude Code/2026-05-19-stop-and-subagentstop-hook-input-now-includes-background-tasks-and-session-crons|Stop and SubagentStop hook input now includes background_tasks and session_crons…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

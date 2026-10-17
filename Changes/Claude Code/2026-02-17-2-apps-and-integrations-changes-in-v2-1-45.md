@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 426e25330fc3f4dba0df5dc60c40e8ff179eb6f95bd0a63bad73914c424965e2
+machine_hash: 2f719af4863f2ba94879840fbda78bc36acb712c276d17a1dccacbd1297e5a30
 product: claude-code
 product_name: Claude Code
 record:
@@ -82,6 +82,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.45
 - [[Changes/Claude Code/2026-02-17-improved-memory-usage-for-shell-commands-that-produce-large-output-rss-no-longer|Improved memory usage for shell commands that produce large output]] · Reliability and Performance
 - [[Changes/Claude Code/2026-02-17-vscode-improved-permission-destination-choice-project-user-session-to-persist-ac|VSCode Improved permission destination choice (project/user/session) to persist…]] · Safety and Privacy
 - [[Changes/Claude Code/2026-02-17-added-spinnertipsoverride-setting-to-customize-spinner-tips-configure-tips-with|Added spinnerTipsOverride setting to customize spinner tips]] · Interface Experience
+- [[Changes/Claude Code/2026-02-17-improved-collapsed-read-search-groups-to-show-the-current-file-or-search-pattern|Improved collapsed read/search groups to show the current file or search pattern…]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

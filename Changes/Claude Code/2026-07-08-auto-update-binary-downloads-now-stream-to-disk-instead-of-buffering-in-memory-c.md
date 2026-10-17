@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b1f5d990a78a4401bb6e5e2e1fa4f0becfa6769ef088aededbb692f7f99bbd5f
+machine_hash: 63916ff60493b89fb31f46404b6047e06386741393a871038188d0cc7a2615a0
 product: claude-code
 product_name: Claude Code
 record:
@@ -78,6 +78,7 @@ type: change
 - [[Changes/Claude Code/2026-07-08-reserved-the-claude-browser-mcp-server-name-alongside-claude-preview-ahead-of-th|Reserved the "Claude Browser" MCP server name (alongside "Claude Preview") ahead…]] · Apps and Integrations
 - [[Changes/Claude Code/2026-07-08-3-agent-mode-changes-in-v2-1-205|3 Agent Mode changes in v2.1.205]] · Agent Mode
 - [[Changes/Claude Code/2026-07-08-background-task-notifications-now-explicitly-state-that-no-human-input-has-occur|Background task notifications now explicitly state that no human input has occurred…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-07-08-doctor-is-now-a-full-setup-checkup-that-can-diagnose-and-fix-issues-checkup-is-i|/doctor is now a full setup checkup that can diagnose and fix issues]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

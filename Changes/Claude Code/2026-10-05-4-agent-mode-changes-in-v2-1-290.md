@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d8aba2241ec14c12f916edaaec5dcbd5a6d2f090c2c3e09c4406a12ae9348b1a
+machine_hash: 231fdb0625ef4cd57021dc23ed4de10a8014a6f3d8e383c5ae0b95856d8d4d97
 product: claude-code
 product_name: Claude Code
 record:
@@ -102,6 +102,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.290
 - [[Changes/Claude Code/2026-10-05-5-developer-workflow-changes-in-v2-1-290|5 Developer Workflow changes in v2.1.290]] · Developer Workflow
 - [[Changes/Claude Code/2026-10-05-changed-background-sessions-whose-scheduled-task-is-gone-they-now-move-to-comple|Changed background sessions whose scheduled task is gone]] · Automation and Scheduling
 - [[Changes/Claude Code/2026-10-05-improved-responsiveness-while-resuming-large-sessions-timers-input-and-rendering|Improved responsiveness while resuming large sessions]] · Reliability and Performance
+- [[Changes/Claude Code/2026-10-05-18-other-changes-in-v2-1-290|18 other changes in v2.1.290]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

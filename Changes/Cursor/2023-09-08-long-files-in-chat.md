@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 42bb7464da77921f5cc2550768e874ff4e6831d7f89504bfe68ba014ef5e29c6
+machine_hash: 7ffaad4f1fae60bb8d2a32c61b429d30d7b1f682dc5cb6e9e38a2ce047353e3d
 product: cursor
 product_name: Cursor
 record:
@@ -90,6 +90,7 @@ type: change
 
 - [[Changes/Cursor/2023-09-08-better-state-management-prevents-crashes-from-editor-using-too-much-memory|Better state management - prevents crashes from editor using too much memory]] · Memory and Personalization
 - [[Changes/Cursor/2023-09-08-following-this-update-future-updates-should-come-as-staged-rollouts-this-will-me|Staged Rollouts]] · Reliability and Performance
+- [[Changes/Cursor/2023-09-08-2-other-changes-in-0-10-0|2 other changes in 0.10.0]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

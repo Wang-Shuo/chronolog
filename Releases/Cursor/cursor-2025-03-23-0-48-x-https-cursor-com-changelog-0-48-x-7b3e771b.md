@@ -1,9 +1,9 @@
 ---
-changes_count: 14
+changes_count: 15
 date: '2025-03-23'
 description: 'Cursor release Chat tabs, Custom modes & Faster indexing on 2025-03-23:
-  14 tracked changes across Pricing Model, Editor Experience, Interface Experience…'
-machine_hash: b850dd5c8f3c0ecf3148cb30e56590dfc94f4b15d33c067fb1262d55b9222177
+  15 tracked changes across Pricing Model, Editor Experience, Interface Experience…'
+machine_hash: c23b0501b1d23133e01c17ad6a55235a66ed4bad20d70eb75af61727c51eb703
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ version: 0.48.x
 <!-- chronolog:begin region="summary" -->
 Other (6)↓↑
 
-Tracked 14 cards from 33 candidate lines; 5 lines pending review.
+Tracked 15 cards from 33 candidate lines; 1 line pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
@@ -55,6 +55,7 @@ Tracked 14 cards from 33 candidate lines; 5 lines pending review.
 - [[Changes/Cursor/2025-03-23-3-apps-and-integrations-changes-in-0-48-x|3 Apps and Integrations changes in 0.48.x]] · Apps and Integrations · Digest
 - [[Changes/Cursor/2025-03-23-2-interface-experience-changes-in-0-48-x|2 Interface Experience changes in 0.48.x]] · Interface Experience · Digest
 - [[Changes/Cursor/2025-03-23-this-release-introduces-chat-tabs-for-parallel-conversations-a-redesignedmodes-s|Cursor introduces chat tabs for parallel conversations, a redesignedmodes system…]] · Pricing Model · Launch
-- [[Changes/Cursor/2025-03-23-faster-indexing|Faster indexing]] · Reliability and Performance · Launch
+- [[Changes/Cursor/2025-03-23-faster-indexing|Faster indexing]] · Reliability and Performance
 - [[Changes/Cursor/2025-03-23-chat-tabs|Chat tabs]] · Editor Experience · Launch
+- [[Changes/Cursor/2025-03-23-4-other-changes-in-0-48-x|4 other changes in 0.48.x]] · Other changes · Digest
 <!-- chronolog:end -->
