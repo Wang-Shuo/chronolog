@@ -97,6 +97,14 @@ SKELETON_HEADINGS = {
     }),
     # Archive pages (W2): every line is inside a machine region.
     "archive": frozenset(),
+    # Product pages: the pre-W2 headings (including the inserted Research summary,
+    # Source coverage and Release cadence sections) plus the current ones, so an
+    # untouched legacy product page is replaced and later renders stay idempotent.
+    "product": frozenset({
+        "## Summary", "## Coverage", "## Source coverage", "## Capability turning points",
+        "## Research summary", "## Eras", "## Release Archive", "## Change Timeline",
+        "## Release cadence", "## Editor Notes", "## Themes", "## Recent releases",
+    }),
     # Home page: the pre-W1 headings and lead paragraph, plus the current headings, so
     # an untouched legacy index is replaced and later renders stay idempotent.
     "index": frozenset({
@@ -154,7 +162,7 @@ def ensure_vault_dirs(root: Path) -> None:
 
 
 def page_type(metadata: dict[str, Any]) -> str | None:
-    """Kind of page whose skeleton the writer migrates (products and About are not)."""
+    """Kind of page whose skeleton the writer migrates (About and alerts are not)."""
     tags = metadata.get("tags") or []
     if metadata.get("type") == "change":
         return "change"
@@ -166,6 +174,8 @@ def page_type(metadata: dict[str, Any]) -> str | None:
         return "index"
     if "archive" in tags:
         return "archive"
+    if "product" in tags:
+        return "product"
     return None
 
 
@@ -301,45 +311,11 @@ def merge_page_body(
     return merged
 
 
-# Reading sections inserted into pages that are not migrated (product pages), with
-# their headings. A section listed in INSERTED_AFTER goes right after that region when
-# the page has it; the others go before the first existing ``## `` section.
-INSERTED_SECTIONS = {
-    "featured": "Start exploring",
-    "coverage": "Source coverage",
-    "narrative": "Research summary",
-    "cadence": "Release cadence",
-}
-INSERTED_AFTER = {"cadence": "narrative"}
-
-
-def region_end(body: str, region: str) -> int:
-    """Offset just after the end marker of ``region``; -1 when the body lacks it."""
-    match = re.search(
-        rf"<!-- chronolog:begin region=\"{re.escape(region)}\" -->.*?<!-- chronolog:end -->",
-        body,
-        re.S,
-    )
-    return match.end() if match else -1
-
-
 def merge_machine_regions(body: str, rendered_regions: dict[str, str]) -> str:
+    """Replace the machine regions of a page the writer does not migrate (About,
+    alerts); a region the page lacks is appended, keeping all human text."""
     for region, content in rendered_regions.items():
-        if region not in extract_machine_regions(body) and region in INSERTED_SECTIONS:
-            # Insert new reading sections before long existing archives, preserving
-            # all original human text. Subsequent runs replace just this region.
-            heading = INSERTED_SECTIONS[region]
-            section = f"## {heading}\n{machine_region(region, content)}\n\n"
-            after = region_end(body, INSERTED_AFTER[region]) if region in INSERTED_AFTER else -1
-            position = body.find('\n## ')
-            if after >= 0:
-                body = body[:after] + "\n\n" + section.rstrip("\n") + body[after:]
-            elif position >= 0:
-                body = body[:position + 1] + section + body[position + 1:]
-            else:
-                body = body.rstrip() + '\n\n' + section
-        else:
-            body = replace_machine_region(body, region, content)
+        body = replace_machine_region(body, region, content)
     return body
 
 
@@ -966,6 +942,59 @@ def render_cadence(cadence: dict[str, Any] | None) -> str:
     )
 
 
+PRODUCT_THEMES_SHOWN = 8
+THEME_BAR_WIDTH = 12
+RECENT_RELEASES_SHOWN = 10
+ERA_RELEASES_SHOWN = 3
+NO_NARRATIVE = ("The release archive records announced changes; "
+                "a reviewed phase narrative is not yet available.")
+
+
+def theme_bar(count: int, peak: int) -> str:
+    """``█`` repeated ``count / peak`` of ``THEME_BAR_WIDTH`` (at least one)."""
+    if count <= 0 or peak <= 0:
+        return ""
+    return "█" * max(1, min(THEME_BAR_WIDTH, math.floor(count / peak * THEME_BAR_WIDTH + 0.5)))
+
+
+def callout(title: str, content: str) -> str:
+    """A collapsed Obsidian/Quartz callout: every line prefixed with ``> ``, blank
+    lines as a bare ``>``."""
+    lines = [f"> [!info]- {title}"]
+    lines.extend(f"> {line}" if line.strip() else ">" for line in content.rstrip().split("\n"))
+    return "\n".join(lines)
+
+
+def counted_cards(count: int) -> str:
+    return f"{count:,} card" if count == 1 else f"{count:,} cards"
+
+
+def product_themes(cards: list[dict[str, Any]], theme_labels: dict[str, str] | None) -> str:
+    """The product's top themes by active card count, with a bar scaled to the top
+    theme; Other changes (holding themes) last, as plain text."""
+    counts = Counter(card["theme"] for card in cards if card["theme"] not in HOLDING_THEMES)
+    top = sorted(counts.items(), key=lambda item: (-item[1], item[0]))[:PRODUCT_THEMES_SHOWN]
+    peak = top[0][1] if top else 0
+    lines = [
+        f"- [[Themes/{theme}|{wiki_label(theme_label(theme, theme_labels))}]] · "
+        f"{counted_cards(count)} · {theme_bar(count, peak)}"
+        for theme, count in top
+    ]
+    held = sum(1 for card in cards if card["theme"] in HOLDING_THEMES)
+    if held:
+        label = theme_label(UNCATEGORIZED_THEME, theme_labels)
+        lines.append(f"- {label} · {counted_cards(held)}")
+    return "\n".join(lines) or "No tracked changes yet."
+
+
+def release_label(
+    release: dict[str, Any], release_targets: dict[str, str] | None
+) -> str:
+    target = (release_targets or {}).get(release["release_id"])
+    label = wiki_label(str(release.get("title") or release.get("version") or release["release_id"]))
+    return f"[[{target}|{label}]]" if target else label
+
+
 def render_product_markdown(
     product: str,
     product_info: dict[str, Any],
@@ -976,39 +1005,70 @@ def render_product_markdown(
     theme_labels: dict[str, str] | None = None,
     cadence: dict[str, Any] | None = None,
 ) -> str:
+    """Product page: positioning header, release cadence, eras, top themes, recent
+    releases, coverage, then the release archive and every tracked change inside
+    collapsed callouts (design review P6)."""
+    name = product_info["product_name"]
     ordered = sorted(cards, key=lambda item: (item["date"], item["card_id"]))
     ordered_releases = sorted(
         releases or [],
         key=lambda item: (item["date"], item["release_id"]),
     )
+    positioning = " ".join(str(product_info.get("positioning") or "").split())
+    header_parts = [positioning] if positioning else []
+    if ordered_releases:
+        header_parts += [
+            plural(len(ordered_releases), "release"),
+            f"{ordered_releases[0]['date']} → {ordered_releases[-1]['date']}",
+        ]
+    header_parts.append("[[About|coverage details]]")
+
     era_lines = []
     for era in product_info.get("eras", []):
-        date_range = f"{era['from']} to {era.get('to') or 'present'}"
-        sparse = " data_sparse" if era.get("data_sparse") else ""
-        era_lines.append(f"### {era['name']}\n\n{date_range}{sparse}\n\n{era['summary']}")
-        for evidence in era.get('evidence', []):
-            target = (release_targets or {}).get(evidence['release_id'])
+        sparse = " · data sparse" if era.get("data_sparse") else ""
+        block = [f"### {era['name']} ({era['from']} → {era.get('to') or 'present'}){sparse}",
+                 "", " ".join(str(era["summary"]).split())]
+        evidence = era.get("evidence", [])[:ERA_RELEASES_SHOWN]
+        if evidence:
+            block += ["", "Representative releases:", ""]
+        for item in evidence:
+            target = (release_targets or {}).get(item["release_id"])
             internal = f" · [[{target}|Archived release]]" if target else ""
-            era_lines.append(f"- {evidence['date']}: [{evidence['title']}]({evidence['url']}){internal}")
-    change_lines = [
-        f"- {card['date']} · {theme_label(card['theme'], theme_labels)}: {card_link(card, card_targets)}"
-        for card in ordered
-    ] or ["- No tracked changes yet."]
+            block.append(f"- {item['date']}: [{item['title']}]({item['url']}){internal}")
+        era_lines.append("\n".join(block))
+    limitations = " ".join(str(product_info.get("narrative_limitations") or "").split())
+    if era_lines and limitations:
+        era_lines.append(f"**Scope:** {limitations}")
+
+    cards_per_release = Counter(card.get("source_release") for card in ordered)
+    recent_lines = [
+        f"- {release['date']} · {release_label(release, release_targets)} · "
+        f"{counted_cards(cards_per_release[release['release_id']])}"
+        for release in reversed(ordered_releases[-RECENT_RELEASES_SHOWN:])
+    ] or ["No releases collected yet."]
     release_lines = [
-        (
-            f"- {release['date']}: "
-            f"[[{release_targets[release['release_id']]}|{wiki_label(release['title'])}]]"
-        )
-        for release in ordered_releases
-        if release_targets and release["release_id"] in release_targets
-    ] or ["- No releases collected yet."]
-    top_themes = [theme_label(theme, theme_labels) for theme in product_info.get("top_themes", [])[:5]]
+        f"- {release['date']}: {release_label(release, release_targets)}"
+        for release in reversed(ordered_releases)
+    ] or ["No releases collected yet."]
+    change_lines: list[str] = []
+    for year in sorted({card["date"][:4] for card in ordered}, reverse=True):
+        year_cards = [card for card in reversed(ordered) if card["date"].startswith(year)]
+        change_lines += [f"**{year}** · {counted_cards(len(year_cards))}", ""]
+        change_lines += [
+            f"- {card['date']} · {theme_label(card['theme'], theme_labels)}: "
+            f"{card_link(card, card_targets)}"
+            for card in year_cards
+        ]
+        change_lines.append("")
     regions = {
-        "summary": (
-            f"{product_info['product_name']}: {len(ordered_releases)} archived releases and "
-            f"{len(ordered)} tracked changes.\n\n"
-            f"Most represented themes: {', '.join(top_themes)}."
-        ).rstrip(),
+        "header": f"# {name}\n\n" + " · ".join(header_parts),
+        "cadence": render_cadence(cadence),
+        "narrative": " ".join(str(product_info.get("narrative_summary") or "").split())
+        or NO_NARRATIVE,
+        "eras": "\n\n".join(era_lines)
+        or "No reviewed eras assigned yet. The release archive below is chronological.",
+        "themes": product_themes(ordered, theme_labels),
+        "recent": "\n".join(recent_lines),
         "coverage": (
             render_coverage_summary(
                 product_info.get("coverage", {}),
@@ -1016,22 +1076,29 @@ def render_product_markdown(
             )
             + "\n\nAcquisition details, how cards are made and known gaps: [[About]]."
         ),
-        "narrative": (product_info.get('narrative_summary', '') + '\n\n' +
-                      product_info.get('narrative_limitations', '')).strip() or
-                     'The release archive records announced changes; a reviewed phase narrative is not yet available.',
-        "cadence": render_cadence(cadence),
-        "eras": "\n\n".join(era_lines) or "No reviewed capability turning points assigned yet. The archive below is chronological.",
-        "releases": "\n".join(release_lines),
-        "changes": "\n".join(change_lines),
+        "releases": callout(
+            f"Release archive ({plural(len(ordered_releases), 'release')})",
+            "\n".join(release_lines),
+        ),
+        "changes": callout(
+            f"All tracked changes ({counted_cards(len(ordered))})",
+            "\n".join(change_lines) or "No tracked changes yet.",
+        ),
     }
     timeline_dates = [item["date"] for item in ordered_releases] or [
         item["date"] for item in ordered
     ]
+    description = positioning or (
+        f"{name}: "
+        + (f"{plural(len(ordered_releases), 'archived release')} and " if ordered_releases else "")
+        + f"{plural(len(ordered), 'tracked change')}."
+    )
     fields = {
         "tags": ["product"],
-        "title": product_info["product_name"],
+        "title": name,
+        "description": cap_text(description),
         "product": product,
-        "product_name": product_info["product_name"],
+        "product_name": name,
         "verbosity_baseline": product_info["verbosity_baseline"],
         "top_themes": product_info.get("top_themes", []),
         "coverage": product_info.get("coverage", {}),
@@ -1047,15 +1114,15 @@ def render_product_markdown(
         )
     fields["machine_hash"] = machine_hash(fields, regions)
     body = (
-        f"# {product_info['product_name']}\n\n"
-        f"## Summary\n{machine_region('summary', regions['summary'])}\n\n"
-        f"## Coverage\n{machine_region('coverage', regions['coverage'])}\n\n"
-        f"## Capability turning points\n{machine_region('narrative', regions['narrative'])}\n\n"
+        f"{machine_region('header', regions['header'])}\n\n"
         f"## Release cadence\n{machine_region('cadence', regions['cadence'])}\n\n"
-        f"## Eras\n{machine_region('eras', regions['eras'])}\n\n"
-        f"## Release Archive\n{machine_region('releases', regions['releases'])}\n\n"
-        f"## Change Timeline\n{machine_region('changes', regions['changes'])}\n\n"
-        "## Editor Notes\n"
+        f"## Eras\n{machine_region('narrative', regions['narrative'])}\n\n"
+        f"{machine_region('eras', regions['eras'])}\n\n"
+        f"## Themes\n{machine_region('themes', regions['themes'])}\n\n"
+        f"## Recent releases\n{machine_region('recent', regions['recent'])}\n\n"
+        f"## Coverage\n{machine_region('coverage', regions['coverage'])}\n\n"
+        f"{machine_region('releases', regions['releases'])}\n\n"
+        f"{machine_region('changes', regions['changes'])}\n"
     )
     return render_frontmatter(fields, body)
 
@@ -2119,6 +2186,7 @@ def write_run(
                 cadence=silence.get("cadence", {}).get(product),
             ),
             conflicts,
+            migration_pending,
         )
 
     pending_lines: Counter = Counter()

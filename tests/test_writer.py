@@ -782,8 +782,8 @@ def test_theme_display_names_label_theme_index_and_product_pages():
             "top_themes": ["mobile-desktop", "agent-mode"]}
     product = render_product_markdown("cursor", info, [card], {card["card_id"]: "Changes/Cursor/x"},
                                       theme_labels=labels)
-    assert "Most represented themes: Mobile and Desktop, Agent Mode." in product
-    assert "- 2025-02-01 · Mobile and Desktop: [[Changes/Cursor/x|Agent shell]]" in product
+    assert "- [[Themes/mobile-desktop|Mobile and Desktop]] · 1 card · " + "█" * 12 in product
+    assert "> - 2025-02-01 · Mobile and Desktop: [[Changes/Cursor/x|Agent shell]]" in product
 
 
 def write_run_inputs(root: Path, run_id: str, cards, releases, analysis_b=None) -> None:
@@ -1418,8 +1418,10 @@ def test_home_index_product_and_about_leave_other_changes_out_of_themes():
     info = analyze_products(cards + other)["products"]["cursor"]
     product = render_product_markdown("cursor", info, [c for c in cards + other if c["product"] == "cursor"],
                                       theme_labels=labels)
-    assert "Most represented themes: Agent Mode, Model Support." in product
-    assert "- 2026-10-09 · Other changes: [[2026-10-09-uncategorized-c00099|Cursor c00099]]" in product
+    themes = extract_machine_regions(frontmatter.loads(product).content)["themes"].splitlines()
+    assert themes[0].startswith("- [[Themes/agent-mode|Agent Mode]] · ")
+    assert themes[-1] == "- Other changes · 2 cards"  # plain text, listed last
+    assert "> - 2026-10-09 · Other changes: [[2026-10-09-uncategorized-c00099|Cursor c00099]]" in product
 
     about = extract_machine_regions(frontmatter.loads(render_about_markdown(
         cards + other, analysis_a["products"], releases, {"alerts": []})).content)
@@ -1467,7 +1469,7 @@ def test_write_run_gives_other_changes_no_theme_page_and_no_neighbours(tmp_path:
     assert extract_machine_regions(release.content)["cards"].splitlines()[-1].endswith(
         "· Other changes · Digest")
     product = (vault / "Products/Cursor.md").read_text(encoding="utf-8")
-    assert "- 2025-03-01 · Other changes: [[Changes/Cursor/2025-03-01-quasar-three|Quasar three]]" in product
+    assert "> - 2025-03-01 · Other changes: [[Changes/Cursor/2025-03-01-quasar-three|Quasar three]]" in product
     index = extract_machine_regions(frontmatter.load(vault / "index.md").content)
     assert "Other changes" not in index["recent"] and "uncategorized" not in index["themes"]
 
@@ -1907,50 +1909,162 @@ def test_cadence_panel_shows_gap_window_status_and_monthly_bars():
     assert render_cadence({**CADENCE, "last_release_date": None}) == "No releases archived yet."
 
 
-def existing_product_markdown(notes: str = "Human product notes.") -> str:
-    """A product page in the layout the live pages have (no cadence region yet)."""
-    regions = {"narrative": "Phase narrative.", "coverage": "3 releases.", "summary": "Cursor: 3.",
-               "eras": "No eras.", "releases": "- r", "changes": "- c"}
+def existing_product_markdown(notes: str = "") -> str:
+    """A product page in the pre-W2 layout the live pages have (P7 cadence inserted
+    after the narrative, empty Editor Notes)."""
+    regions = {"narrative": "Phase narrative.", "cadence": "Old cadence.", "coverage": "3 releases.",
+               "summary": "Cursor: 3.", "eras": "No eras.", "releases": "- r", "changes": "- c"}
     fields = {"tags": ["product"], "title": "Cursor", "product": "cursor", "product_name": "Cursor"}
     fields["machine_hash"] = machine_hash(fields, regions)
     body = ("# Cursor\n\n"
             f"## Research summary\n{machine_region('narrative', regions['narrative'])}\n\n"
+            f"## Release cadence\n{machine_region('cadence', regions['cadence'])}\n\n"
             f"## Source coverage\n{machine_region('coverage', regions['coverage'])}\n\n"
             f"## Summary\n{machine_region('summary', regions['summary'])}\n\n"
             f"## Eras\n{machine_region('eras', regions['eras'])}\n\n"
             f"## Release Archive\n{machine_region('releases', regions['releases'])}\n\n"
             f"## Change Timeline\n{machine_region('changes', regions['changes'])}\n\n"
-            f"## Editor Notes\n\n{notes}\n")
+            "## Editor Notes\n" + (f"\n{notes}\n" if notes else ""))
     return render_frontmatter(fields, body)
 
 
-def test_cadence_region_is_inserted_after_the_narrative_without_migration(tmp_path: Path):
+PRODUCT_HEADINGS = ["## Release cadence", "## Eras", "## Themes", "## Recent releases", "## Coverage"]
+PRODUCT_REGIONS = ["header", "cadence", "narrative", "eras", "themes", "recent", "coverage",
+                   "releases", "changes"]
+
+
+def product_inputs():
+    """Cursor with 12 releases (one card each except the last), positioning and one era."""
+    releases = [release_record(release_id=f"cursor-2026-{month:02d}-01-r", date=f"2026-{month:02d}-01",
+                               title=f"Release {month}") for month in range(1, 13)]
+    themes = ["agent-mode"] * 6 + ["model-support"] * 3 + ["context-window", "uncategorized"]
+    cards = [{**change_card(), "card_id": f"cursor-2026-{index + 1:02d}-01-c{index:05d}",
+              "date": f"2026-{index + 1:02d}-01", "source_release": f"cursor-2026-{index + 1:02d}-01-r",
+              "theme": theme, "title": f"Change {index}", "slug": f"change-{index}"}
+             for index, theme in enumerate(themes)]
+    info = {"product_name": "Cursor", "verbosity_baseline": 1.0, "top_themes": [],
+            "positioning": "AI code editor; tracked from the official Cursor changelog.",
+            "narrative_summary": "Cursor moves from chat to agents.",
+            "narrative_limitations": "Dates are changelog dates.",
+            "eras": [{"name": "Agents", "from": "2026-01-01", "to": None, "summary": "Agents arrive.",
+                      "evidence": [{"release_id": r["release_id"], "title": r["title"], "date": r["date"],
+                                    "url": r["source_url"]} for r in releases[:4]]}]}
+    release_targets = {r["release_id"]: f"Releases/Cursor/{r['release_id']}" for r in releases}
+    return info, cards, releases, release_targets
+
+
+def test_product_page_renders_the_p6_skeleton():
+    info, cards, releases, targets = product_inputs()
+    page = frontmatter.loads(render_product_markdown(
+        "cursor", info, cards, releases=releases, release_targets=targets,
+        theme_labels={**HOME_LABELS, "uncategorized": "Other changes"}, cadence=CADENCE))
+    assert page["description"] == "AI code editor; tracked from the official Cursor changelog."
+    assert page["product"] == "cursor" and page["tags"] == ["product"]
+    assert [line for line in page.content.splitlines() if line.startswith("## ")] == PRODUCT_HEADINGS
+    regions = extract_machine_regions(page.content)
+    assert list(regions) == PRODUCT_REGIONS
+    assert regions["header"] == (
+        "# Cursor\n\nAI code editor; tracked from the official Cursor changelog. · 12 releases · "
+        "2026-01-01 → 2026-12-01 · [[About|coverage details]]")
+    assert regions["narrative"] == "Cursor moves from chat to agents."
+    eras = regions["eras"].split("\n")
+    assert eras[0] == "### Agents (2026-01-01 → present)"
+    assert eras[2:5] == ["Agents arrive.", "", "Representative releases:"]
+    assert eras[6:9] == [f"- 2026-0{m}-01: [Release {m}](https://cursor.com/changelog/projects) · "
+                         f"[[Releases/Cursor/cursor-2026-0{m}-01-r|Archived release]]" for m in (1, 2, 3)]
+    assert "Release 4" not in regions["eras"]  # at most three representative releases
+    assert eras[-1] == "**Scope:** Dates are changelog dates."
+
+
+def test_product_themes_bars_scale_to_the_top_theme_and_list_other_changes_last():
+    info, cards, releases, targets = product_inputs()
+    many = cards + [{**cards[0], "card_id": f"cursor-2026-01-01-x{n:05d}", "theme": f"theme-{n:02d}"}
+                    for n in range(9)]
+    themes = extract_machine_regions(frontmatter.loads(render_product_markdown(
+        "cursor", info, many, releases=releases, release_targets=targets,
+        theme_labels={"agent-mode": "Agent Mode", "uncategorized": "Other changes"})).content)["themes"]
+    lines = themes.split("\n")
+    assert lines[0] == "- [[Themes/agent-mode|Agent Mode]] · 6 cards · " + "█" * 12
+    assert lines[1] == "- [[Themes/model-support|Model Support]] · 3 cards · " + "█" * 6
+    assert lines[2] == "- [[Themes/context-window|Context Window]] · 1 card · " + "██"
+    assert len(lines) == 9  # top eight themes, then Other changes
+    assert lines[-1] == "- Other changes · 1 card"
+    assert "Themes/uncategorized" not in themes
+
+
+def test_product_recent_releases_are_the_last_ten_newest_first_with_card_counts():
+    info, cards, releases, targets = product_inputs()
+    recent = extract_machine_regions(frontmatter.loads(render_product_markdown(
+        "cursor", info, cards, releases=releases, release_targets=targets)).content)["recent"]
+    lines = recent.split("\n")
+    assert len(lines) == 10
+    assert lines[0] == "- 2026-12-01 · [[Releases/Cursor/cursor-2026-12-01-r|Release 12]] · 0 cards"
+    assert lines[1] == "- 2026-11-01 · [[Releases/Cursor/cursor-2026-11-01-r|Release 11]] · 1 card"
+    assert lines[-1].startswith("- 2026-03-01 · ")
+
+
+def test_product_archive_and_changes_are_collapsed_callouts_with_every_line_prefixed():
+    info, cards, releases, targets = product_inputs()
+    regions = extract_machine_regions(frontmatter.loads(render_product_markdown(
+        "cursor", info, cards + [{**cards[0], "card_id": "cursor-2025-12-01-old000", "date": "2025-12-01"}],
+        {cards[0]["card_id"]: "Changes/Cursor/x"}, releases=releases, release_targets=targets)).content)
+    archive = regions["releases"].split("\n")
+    assert archive[0] == "> [!info]- Release archive (12 releases)"
+    assert archive[1] == "> - 2026-12-01: [[Releases/Cursor/cursor-2026-12-01-r|Release 12]]"
+    assert len(archive) == 13
+    changes = regions["changes"].split("\n")
+    assert changes[0] == "> [!info]- All tracked changes (12 cards)"
+    assert changes[1:3] == ["> **2026** · 11 cards", ">"]
+    assert changes[3] == "> - 2026-11-01 · Uncategorized: [[2026-11-01-change-10|Change 10]]"
+    assert "> **2025** · 1 card" in changes
+    assert "> - 2026-01-01 · Agent Mode: [[Changes/Cursor/x|Change 0]]" in changes
+    for region in (archive, changes):
+        assert all(line == ">" or line.startswith("> ") for line in region)
+
+
+def test_legacy_product_page_migrates_to_the_new_skeleton_idempotently(tmp_path: Path):
     target = tmp_path / "Cursor.md"
     target.write_text(existing_product_markdown(), encoding="utf-8")
-    info = {"product_name": "Cursor", "verbosity_baseline": 4.04, "eras": [], "top_themes": [],
-            "narrative_summary": "Phase narrative."}
-    rendered = render_product_markdown("cursor", info, [change_card()], cadence=CADENCE)
+    assert legacy_residue(frontmatter.load(target).content, "product") == ""
+    info, cards, releases, targets = product_inputs()
+    rendered = render_product_markdown("cursor", info, cards, releases=releases,
+                                       release_targets=targets, cadence=CADENCE)
     conflicts: list[dict[str, str]] = []
+    pending: list[dict[str, str]] = []
 
-    assert write_markdown_file(target, rendered, conflicts) is True
+    assert write_markdown_file(target, rendered, conflicts, pending) is True
 
-    content = frontmatter.load(target).content
-    headings = [line for line in content.splitlines() if line.startswith("## ")]
-    assert headings == ["## Research summary", "## Release cadence", "## Source coverage", "## Summary",
-                        "## Eras", "## Release Archive", "## Change Timeline", "## Editor Notes"]
-    assert "Phase narrative.\n<!-- chronolog:end -->\n\n## Release cadence\n" \
-           '<!-- chronolog:begin region="cadence" -->\nLast release 2026-10-13' in content
-    assert content.rstrip().endswith("Human product notes.") and conflicts == []
+    page = frontmatter.load(target)
+    assert page.content == frontmatter.loads(rendered).content
+    assert [line for line in page.content.splitlines() if line.startswith("## ")] == PRODUCT_HEADINGS
+    assert page["description"] == info["positioning"]
+    assert conflicts == [] and pending == []
     once = target.read_bytes()
-    write_markdown_file(target, rendered, conflicts)
-    assert target.read_bytes() == once
-    quiet = render_product_markdown("cursor", info, [change_card()], cadence={**CADENCE, "status": "quiet"})
-    write_markdown_file(target, quiet, conflicts)
+    write_markdown_file(target, rendered, conflicts, pending)
+    assert target.read_bytes() == once and pending == []
+
+
+def test_legacy_product_page_with_human_text_is_kept_and_reported(tmp_path: Path):
+    target = tmp_path / "Cursor.md"
+    target.write_text(existing_product_markdown("Human product notes."), encoding="utf-8")
+    info, cards, releases, targets = product_inputs()
+    rendered = render_product_markdown("cursor", info, cards, releases=releases,
+                                       release_targets=targets, cadence=CADENCE)
+    conflicts: list[dict[str, str]] = []
+    pending: list[dict[str, str]] = []
+
+    assert write_markdown_file(target, rendered, conflicts, pending) is True
+
     content = frontmatter.load(target).content
-    assert content.count("## Release cadence") == 1 and "cadence: quiet" in content and conflicts == []
-    # A new product page has the section in the same place.
-    fresh = [line for line in frontmatter.loads(rendered).content.splitlines() if line.startswith("## ")]
-    assert fresh[fresh.index("## Capability turning points") + 1] == "## Release cadence"
+    assert content.rstrip().endswith("## Editor Notes\n\nHuman product notes.")
+    assert "## Summary" in content and "## Themes" not in content  # structure kept
+    regions = extract_machine_regions(content)
+    assert regions["cadence"].startswith("Last release 2026-10-13")  # present regions refreshed
+    assert regions["releases"].startswith("> [!info]- Release archive (12 releases)")
+    assert conflicts == [] and pending == [{"file": str(target), "reason": MIGRATION_PENDING_REASON}]
+    once = target.read_bytes()
+    write_markdown_file(target, rendered, conflicts, [])
+    assert target.read_bytes() == once
 
 
 def test_home_links_the_archive_and_shows_cadence_per_product():

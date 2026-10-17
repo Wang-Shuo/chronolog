@@ -2,7 +2,7 @@
 created: '2023-07-06'
 date: '2026-10-14'
 description: 'Research question: what changed in delegated execution?'
-machine_hash: 5ac783bd5b83cce474e3cf931eadbd0e614e31b9eb320b9c43a6e670fea8578e
+machine_hash: be26b64bcd9ac2fd56add2e668857dd4d270b73f9607622c8b947349ac6fee61
 modified: '2026-10-14'
 products_involved:
 - ChatGPT
@@ -27,29 +27,27 @@ title: Agent Mode
 <!-- chronolog:begin region="narrative" -->
 **Research question: what changed in delegated execution?**
 
-Cursor's [2025-05-15 release](https://cursor.com/changelog/0-50) introduces Background Agent for parallel task execution. The [2025-06-04 release](https://cursor.com/changelog/1-0) expands access to the remote coding agent, with privacy-mode limitations at that time. This is a supported within-product expansion of the same named capability.
+Cursor's [2025-05-15 release](https://cursor.com/changelog/0-50) ([[Releases/Cursor/cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998|archived]]) introduces Background Agent for parallel task execution. The [2025-06-04 release](https://cursor.com/changelog/1-0) ([[Releases/Cursor/cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca|archived]]) expands access to the same remote coding agent, with privacy-mode limitations at that time, a within-product expansion of one named capability.
 
-ChatGPT's [2026-07-09 Work announcement](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-work) describes longer research and creation tasks across apps and files, with user direction and approvals. [Dots on 2026-09-29](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#meet-your-dot) adds ongoing goals on a cloud computer, with plan and regional restrictions. These are general-work agents; they are not interchangeable with Cursor's repository-oriented remote coding agent.
+ChatGPT's [2026-07-09 Work announcement](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-work) ([[Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272|archived]]) describes longer research and creation tasks across apps and files, with user direction and approvals. [Dots on 2026-09-29](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#meet-your-dot) ([[Releases/ChatGPT/chatgpt-2026-09-29-meet-your-dot-8b9f914b|archived]]) adds ongoing goals on a cloud computer, with plan and regional restrictions. Both are general-work agents, a different scope from Cursor's repository-oriented remote coding agent.
 
-Claude Code's [v2.1.296](https://github.com/anthropics/claude-code/releases/tag/v2.1.296) adds a workflow-subagent model setting and per-subagent auto-compaction. These are controls over an existing execution system, not its launch. Our dated Claude Code Releases coverage starts at v2.0.73, so its first appearance here cannot establish when agent functionality first existed.
+Claude Code's [v2.1.296 on 2026-10-09](https://github.com/anthropics/claude-code/releases/tag/v2.1.296) ([[Releases/Claude Code/claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a|archived]]) adds a workflow-subagent model setting and per-subagent auto-compaction, controls over an execution system that already exists.
 
-**Uncertainty and scope:** tracked-products-only. Similar names and dates do not establish identical autonomy, reliability, adoption, or influence. The timeline below is a sequence of evidence, not a diffusion claim. Generic permission fixes and unrelated uses of “mode” do not by themselves qualify as agent capabilities.
+**Uncertainty and scope:** the record covers the three tracked products only and Claude Code coverage starts at v2.0.73 (2025-12-19), so a first appearance here does not date when agent functionality first existed; similar names and dates do not establish identical autonomy, reliability, adoption or influence, the timeline below is a sequence of evidence rather than a diffusion claim, and generic permission fixes or unrelated uses of “mode” do not count as agent capabilities.
 <!-- chronolog:end -->
 
 ## Key moments
 <!-- chronolog:begin region="moments" -->
-Auto-selected; edit `key_moments` in editorial.yaml to curate.
-
 | Quarter | ChatGPT | Claude Code | Cursor |
 | --- | --- | --- | --- |
-| 2026 Q4 | · | 2026-10-05 [[Changes/Claude Code/2026-10-05-added-claude-api-managed-agents-onboard-url-to-set-up-the-managed-agents-pattern\|Added /claude-api managed-agents-onboard url to set up the Managed Agents…]] | 2026-10-06 [[Changes/Cursor/2026-10-06-remote-control-doesn-t-move-your-agents-anywhere-it-keeps-running-on-your-comput\|Agents keep running on your computer]] |
-| 2026 Q3 | 2026-09-29 [[Changes/ChatGPT/2026-09-29-we-re-introducing-dots-always-on-agents-in-chatgpt-that-can-take-on-ongoing-work-24bef5\|ChatGPT introduces dots]] | 2026-08-13 [[Changes/Claude Code/2026-08-13-subagent-forking-is-now-on-by-default-a-subagent-type-fork-subagent-inherits-the\|Subagent forking is now on by default]]<br>2026-07-11 [[Changes/Claude Code/2026-07-11-auto-mode-is-now-available-without-claude-code-enable-auto-mode-opt-in-on-bedroc\|Auto mode is now available without CLAUDE_CODE_ENABLE_AUTO_MODE opt-in on Bedrock…]] | 2026-09-10 [[Changes/Cursor/2026-09-10-a-project-runs-on-its-own-computer-in-the-cloud-so-closing-your-laptop-doesn-t-s\|Powered by Cloud Agents]]<br>2026-09-02 [[Changes/Cursor/2026-09-02-run-on-your-sandboxes\|Run on your sandboxes]]<br>2026-08-27 [[Changes/Cursor/2026-08-27-cursor-now-port-forwards-your-cloud-agent-s-live-environment-straight-to-your-br\|A live preview, right in the browser]]<br>2026-08-19 [[Changes/Cursor/2026-08-19-custom-modes\|Custom modes]]<br>2026-08-17 [[Changes/Cursor/2026-08-17-agents-in-every-repo\|Agents in every repo]] |
-| 2026 Q2 | · | 2026-05-28 [[Changes/Claude Code/2026-05-28-introducing-dynamic-workflows-ask-claude-to-create-a-workflow-and-it-orchestrate\|Introducing dynamic workflows]]<br>2026-05-19 [[Changes/Claude Code/2026-05-19-added-resume-support-for-background-sessions-sessions-started-via-claude-bg-or-a\|Added /resume support for background sessions]] | 2026-06-29 [[Changes/Cursor/2026-06-29-remote-control-3ec330\|Remote Control]] |
-| 2026 Q1 | · | · | 2026-02-17 [[Changes/Cursor/2026-02-17-async-subagents\|Async subagents]] |
-| 2025 Q4 | · | · | 2025-12-18 [[Changes/Cursor/2025-12-18-shared-agent-transcripts-164030\|Shared agent transcripts]] |
-| 2025 Q3 | 2025-09-29 [[Changes/ChatGPT/2025-09-29-we-re-introducing-instant-checkout-in-chatgpt-and-the-agentic-commerce-protocol-8cbf19\|ChatGPT introduces Instant Checkout and the Agentic Commerce Protocol that powers…]] | · | 2025-09-29 [[Changes/Cursor/2025-09-29-hooks-beta\|Hooks (beta)]] |
-| 2025 Q2 | · | · | 2025-06-04 [[Changes/Cursor/2025-06-04-agent-in-jupyter-notebooks\|Agent in Jupyter Notebooks]] |
-| 2025 Q1 | · | · | 2025-03-23 [[Changes/Cursor/2025-03-23-built-in-modes-custom-modes-beta\|Built-in modes & custom modes (beta)]] |
+| 2026 Q3 | 2026-09-29 [[Changes/ChatGPT/2026-09-29-we-re-introducing-dots-always-on-agents-in-chatgpt-that-can-take-on-ongoing-work-24bef5\|ChatGPT introduces dots]]<br>2026-07-09 [[Changes/ChatGPT/2026-07-09-chatgpt-work-is-an-agent-for-longer-more-involved-tasks-it-can-research-and-anal\|ChatGPT Work is an agent for longer, more involved tasks]] | 2026-07-11 [[Changes/Claude Code/2026-07-11-auto-mode-is-now-available-without-claude-code-enable-auto-mode-opt-in-on-bedroc\|Auto mode is now available without CLAUDE_CODE_ENABLE_AUTO_MODE opt-in on Bedrock…]] | 2026-09-10 [[Changes/Cursor/2026-09-10-a-project-runs-on-its-own-computer-in-the-cloud-so-closing-your-laptop-doesn-t-s\|Powered by Cloud Agents]] |
+| 2026 Q2 | · | 2026-06-10 [[Changes/Claude Code/2026-06-10-sub-agents-can-now-spawn-their-own-sub-agents-up-to-5-levels-deep\|Sub-agents can now spawn their own sub-agents (up to 5 levels deep)]]<br>2026-05-28 [[Changes/Claude Code/2026-05-28-introducing-dynamic-workflows-ask-claude-to-create-a-workflow-and-it-orchestrate\|Introducing dynamic workflows]]<br>2026-04-16 [[Changes/Claude Code/2026-04-16-auto-mode-no-longer-requires-enable-auto-mode\|Auto mode no longer requires --enable-auto-mode]] | · |
+| 2026 Q1 | · | · | 2026-01-22 [[Changes/Cursor/2026-01-22-subagents\|Subagents]] |
+| 2025 Q4 | · | · | 2025-10-29 [[Changes/Cursor/2025-10-29-multi-agents-bb4f56\|Multi-Agents]] |
+| 2025 Q3 | 2025-09-29 [[Changes/ChatGPT/2025-09-29-we-re-introducing-instant-checkout-in-chatgpt-and-the-agentic-commerce-protocol-8cbf19\|ChatGPT introduces Instant Checkout and the Agentic Commerce Protocol that powers…]] | · | · |
+| 2025 Q2 | · | · | 2025-06-04 [[Changes/Cursor/2025-06-04-background-agent-for-everyone-8b35dc\|Background Agent for everyone]]<br>2025-05-15 [[Changes/Cursor/2025-05-15-background-agent-preview\|Background Agent (Preview)]] |
+| 2025 Q1 | · | · | 2025-02-19 [[Changes/Cursor/2025-02-19-agent-is-ready-agent-is-now-the-default-mode-bringing-a-more-powerful-and-unifie\|Agent is ready: Agent is now the default mode, bringing a more powerful and unified…]] |
+| 2023 Q3 | · | · | 2023-07-06 [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas\|Agents, new docs]] |
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="scope" -->

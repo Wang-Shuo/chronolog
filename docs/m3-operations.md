@@ -49,6 +49,7 @@ Quality 派发成功只表示检查已排队，不代表检查通过；合并前
 - `Archive/` 由 writer 每次运行全量生成：每个有活动卡片的月份一页（`Archive/YYYY-MM.md`），总览页是文件夹笔记 `Archive/index.md`（Quartz 把同名根页面 `Archive.md` 也渲染为文件夹页且链接基准错误，因此不用根页面）；对账后没有卡片的月份页在暂存 Vault 中删除，由事务一并删除，含人工文字的月份页保留并记入 `writer-migration-pending.json`。
 - 产品页的发布节奏（`cadence`）与首页的 `cadence:` 状态以已归档的最新发布日期为锚点，而不是执行日期，所以同一份归档在不同日期重跑不会产生内容 PR；沉默告警（`Alerts/`）仍按执行日期计算。节奏数据写在 `03c-silence/alerts.json` 的 `cadence` 键下。
 - `editorial.yaml` 可选 `key_moments: {主题: [card_id, …]}` 指定主题页 Key moments；不存在于该主题活动卡片中的 id 被忽略，并记入运行 `manifest.json` 的 `editorial_warnings`（不阻断运行）。未指定的主题使用自动选择并在表格上方注明。
+- 编辑 `editorial.yaml` 的研究摘要、产品定位、Era 与 Key moments 前先读[写作指南](style-guide.md)；引用的归档 Release 不在本次运行中的研究摘要不显示，并同样记入 `editorial_warnings`。
 
 每次生成的核心文件：
 

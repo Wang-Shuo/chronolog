@@ -1,9 +1,9 @@
 ---
 created: '2023-04-16'
 date: '2026-10-14'
-description: Cross-product timeline of Safety and Privacy changes in ChatGPT, Claude
-  Code and Cursor.
-machine_hash: 7235de5e70c3b03c868f5a46b04136e4894e9a32509a42409f941b0aef19dccc
+description: 'Research question: which safeguards and privacy controls do the tracked
+  products add, and for whom?'
+machine_hash: ada3b7fa3cb8b9a127497077664685654164e12cdc9d0057c2c5578d8dfa6779
 modified: '2026-10-14'
 products_involved:
 - ChatGPT
@@ -26,7 +26,15 @@ title: Safety and Privacy
 
 ## Research summary
 <!-- chronolog:begin region="narrative" -->
-Explore the dated evidence below.
+**Research question: which safeguards and privacy controls do the tracked products add, and for whom?**
+
+ChatGPT's [2023-08-28 Enterprise launch](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-enterprise) ([[Releases/ChatGPT/chatgpt-2023-08-28-introducing-chatgpt-enterprise-eb7127e6|archived]]) offers enterprise-grade security and privacy. The [2025-09-29 note](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#parental-controls) ([[Releases/ChatGPT/chatgpt-2025-09-29-parental-controls-8b95b69a|archived]]) rolls out parental controls globally, with teen accounts connected to a parent's account, and the [2026-01-20 note](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#rolling-out-age-prediction) ([[Releases/ChatGPT/chatgpt-2026-01-20-rolling-out-age-prediction-2382655a|archived]]) adds an age prediction model on consumer plans that estimates whether an account likely belongs to someone under 18. [Lockdown Mode on 2026-06-04](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#lockdown-mode-is-now-available-to-all-logged-in-users) ([[Releases/ChatGPT/chatgpt-2026-06-04-lockdown-mode-is-now-available-to-all-logged-in-users-f7dcb357|archived]]) becomes available to all logged-in users as an opt-in setting that limits web and external-service access to reduce the risk of data exfiltration from prompt injection, and the [2026-09-21 Privacy Center](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#privacy-center-in-chatgpt) ([[Releases/ChatGPT/chatgpt-2026-09-21-privacy-center-in-chatgpt-ecef9fba|archived]]) gathers information about chat privacy, memory, data use, connected apps and account security for Free, Go, Plus and Pro users.
+
+Cursor's [2023-04-16 release](https://cursor.com/changelog/0-2-4) ([[Releases/Cursor/cursor-2023-04-16-0-2-4-https-cursor-com-changelog-0-2-4-1ed55ed8|archived]]) adds Ghost mode for opting out of storing any kind of data on Cursor's servers. The [2025-09-29 release](https://cursor.com/changelog/1-7) ([[Releases/Cursor/cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae|archived]]) runs non-allowlisted commands in a sandbox with read/write access to the workspace and no internet access, which [Cursor 2.0 on 2025-10-29](https://cursor.com/changelog/2-0) ([[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|archived]]) makes the default for agent commands on macOS, and the [2026-02-17 release](https://cursor.com/changelog/2-5) ([[Releases/Cursor/cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320|archived]]) adds granular network and filesystem access controls to the sandbox. The [2026-04-30 release](https://cursor.com/changelog/04-30-26) ([[Releases/Cursor/cursor-2026-04-30-cursor-security-review-https-cursor-com-changelog-04-30-26-640898b1|archived]]) adds a Security Reviewer, in beta for Teams and Enterprise, that checks every pull request for security vulnerabilities, privacy and data-handling risks and prompt injection.
+
+Claude Code's [v2.1.83 on 2026-03-25](https://github.com/anthropics/claude-code/releases/tag/v2.1.83) ([[Releases/Claude Code/claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317|archived]]) adds a setting that strips Anthropic and cloud-provider credentials from subprocess environments, and [v2.1.136 on 2026-05-08](https://github.com/anthropics/claude-code/releases/tag/v2.1.136) ([[Releases/Claude Code/claude-code-2026-05-08-v2-1-136-github-319609716-58f21368|archived]]) adds auto mode classifier rules that block actions unconditionally. [v2.1.187 on 2026-06-23](https://github.com/anthropics/claude-code/releases/tag/v2.1.187) ([[Releases/Claude Code/claude-code-2026-06-23-v2-1-187-github-343665388-744f9775|archived]]) blocks sandboxed commands from reading credential files and secret environment variables, [v2.1.200 on 2026-07-03](https://github.com/anthropics/claude-code/releases/tag/v2.1.200) ([[Releases/Claude Code/claude-code-2026-07-03-v2-1-200-github-348415228-64d6d68d|archived]]) renames the “default” permission mode to “Manual”, and [v2.1.284 on 2026-09-28](https://github.com/anthropics/claude-code/releases/tag/v2.1.284) ([[Releases/Claude Code/claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49|archived]]) starts interactive terminal and VS Code sessions in auto mode when no permission mode is configured, on every plan and provider.
+
+**Uncertainty and scope:** the record covers the three tracked products only and Claude Code coverage starts on 2025-12-19; the controls serve different users, from families and workspace admins to developers running agents, and rollouts vary by plan and region, so the announcements neither measure how well a safeguard works nor compare protection across products.
 <!-- chronolog:end -->
 
 ## Key moments

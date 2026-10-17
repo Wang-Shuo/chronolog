@@ -15,7 +15,8 @@ from _scripts.analyze_b import analyze_themes
 from _scripts.collect import collect_fixture, collect_live, load_sources
 from _scripts.common import PipelinePaths, read_json, utc_timestamp, write_json
 from _scripts.extract import extract_run
-from _scripts.editorial import attach_editorial, key_moments, load_editorial, source_coverage
+from _scripts.editorial import (attach_editorial, key_moments, load_editorial, source_coverage,
+                                theme_narratives)
 from _scripts.history import merge_history, read_history, write_pending
 from _scripts.silence_monitor import cadence_anchor, cadence_summary, detect_silence
 from _scripts.transaction import copy_pages, files, publish, recover, snapshot, vault_lock
@@ -166,9 +167,11 @@ def run_pipeline(
             analysis_a, analysis_b = analyze_products(cards), analyze_themes(cards)
             editorial = load_editorial(root)
             attach_editorial(analysis_a, releases, editorial)
-            analysis_b['editorial'] = editorial.get('themes', {})
-            # Optional curated key moments; unknown ids are dropped and listed here.
-            analysis_b['key_moments'], manifest['editorial_warnings'] = key_moments(editorial, cards)
+            # Narratives citing a release missing from the run, and curated key moments
+            # that are not active cards of their theme, are dropped and listed here.
+            analysis_b['editorial'], narrative_warnings = theme_narratives(editorial, releases)
+            analysis_b['key_moments'], moment_warnings = key_moments(editorial, cards)
+            manifest['editorial_warnings'] = narrative_warnings + moment_warnings
             source_states = {s['product']: s for s in collection['sources']}
             for product, info in analysis_a['products'].items():
                 page = root / 'Products' / f"{info['product_name']}.md"

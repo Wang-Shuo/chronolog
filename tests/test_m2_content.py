@@ -107,15 +107,23 @@ def test_curated_eras_have_actual_announcement_evidence():
     payload, themes, review = inputs()
     cards = [c for r in payload['releases'] for c in extract_cards_from_release(r,themes,review)]
     analysis = analyze_products(cards)
-    attach_editorial(analysis, payload['releases'], load_editorial(ROOT))
-    eras = analysis['products']['chatgpt']['eras']
-    assert len(eras) == 5
-    for era in eras:
-        assert era['evidence']
-        assert era['from'] == min(e['date'] for e in era['evidence'])
+    editorial = load_editorial(ROOT)
+    attach_editorial(analysis, payload['releases'], editorial)
+    # Every curated era of every product survives: all its releases are archived.
+    for product, count in (('chatgpt', 5), ('cursor', 5), ('claude-code', 3)):
+        eras = analysis['products'][product]['eras']
+        assert len(eras) == count == len(editorial['products'][product]['eras']), product
+        for era in eras:
+            assert 1 <= len(era['evidence']) <= 3, era['name']
+            assert all(e['url'].startswith(('https://help.openai.com/', 'https://cursor.com/changelog/',
+                                            'https://github.com/anthropics/claude-code/releases/tag/'))
+                       for e in era['evidence']), era['name']
+            assert era['from'] == min(e['date'] for e in era['evidence']), era['name']
+            assert era['to'] is None or max(e['date'] for e in era['evidence']) <= era['to'], era['name']
+        assert analysis['products'][product]['positioning']
     empty = analyze_products(cards)
-    attach_editorial(empty, [], load_editorial(ROOT))
-    assert not empty['products']['chatgpt']['eras']
+    attach_editorial(empty, [], editorial)
+    assert not any(empty['products'][product]['eras'] for product in ('chatgpt', 'cursor', 'claude-code'))
 
 
 def test_wiki_alias_keeps_code_titles_clickable():

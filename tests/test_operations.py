@@ -6,6 +6,7 @@ from pathlib import Path
 import shutil
 
 import pytest
+import yaml
 
 from _scripts import operations
 from _scripts.collect import normalize_release, source_result
@@ -22,6 +23,13 @@ ROOT = Path(__file__).resolve().parents[1]
 def vault(tmp_path):
     root = tmp_path / 'vault'
     shutil.copytree(ROOT / '_scripts', root / '_scripts', ignore=shutil.ignore_patterns('__pycache__'))
+    # Curated narratives and key moments cite real archived releases and cards, which a
+    # fixture run lacks; without them the fixture vault reports no editorial warnings.
+    editorial = root / '_scripts/editorial.yaml'
+    spec = yaml.safe_load(editorial.read_text())
+    spec.pop('key_moments', None)
+    spec.pop('themes', None)
+    editorial.write_text(yaml.safe_dump(spec, sort_keys=False, allow_unicode=True))
     return root
 
 
@@ -375,7 +383,7 @@ def test_publication_audit_expects_one_archive_page_per_month_with_cards(tmp_pat
         (site / f'{slug}.html').write_text('<p>page</p>')
     index = {slug: {'content': '', 'links': []} for slug in slugs}
     index['index']['content'] = '1 tracked changes'
-    index['Products/Cursor']['content'] = 'Cursor: 1 archived releases and 1 tracked changes.'
+    index['Products/Cursor']['content'] = 'All tracked changes (1 card)'
     index['Archive/index']['links'] = ['Archive/2026-10']
     index['Archive/2026-10']['content'] = '1 tracked change · Cursor 1'
 
